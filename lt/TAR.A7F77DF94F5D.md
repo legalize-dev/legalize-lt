@@ -4,7 +4,7 @@ identifier: "TAR.A7F77DF94F5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-18"
-last_updated: "2018-07-06"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D"
 department: "Lietuvos Respublikos Seimas"
@@ -19,17 +19,9 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-07-06
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-18
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
-
-TAR pastaba. Asmenims, kurie Lietuvos Respublikos pensijų kaupimo įstatymo pakeitimo įstatymo 2 straipsnyje nustatyta tvarka nutraukia dalyvavimą pensijų kaupime ir jų pensijų sąskaitoje sukauptos lėšos pervedamos į Valstybinio socialinio draudimo fondo biudžetą bei įskaitomos kaip Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai, iki 2018 m. gruodžio 31 d. paskirtos socialinio draudimo pensijos nuo 2019 m. sausio 1 d. apskaičiuojamos ir mokamos nebetaikant pensijų kaupimo dalyviams nustatyto šių pensijų dydžio mažinimo. Valstybinio socialinio draudimo fondo administravimo įstaigos socialinio draudimo pensijas apskaičiuoja ir nuo 2019 m. sausio 1 d. susidariusį pensijų dydžių skirtumą išmoka ne vėliau kaip iki 2019 m. lapkričio 30 d.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
-
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 11, 12, 45, 46, 47, 48, 53 ir 62 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2018-01-01:
 
@@ -47,15 +39,17 @@ BENDROSIOS NUOSTATOS
 
 12 straipsnis. Apskaitos vienetų sumos apskaičiavimas
 
-1. Apskaitos vienetų skaičius, asmens įgytas per kalendorinius metus ar per kalendorinių metų dalį (pensijos skyrimo metais – iki pensijos skyrimo mėnesio), nustatomas padalijus asmens sumokėtų ir (ar) už jį priskaičiuotų pensijų socialinio draudimo įmokų individualiajai pensijos daliai sumą (neįskaitant kaupiamosios pensijų įmokų dalies sumos, išskyrus šio įstatymo numatytus atvejus) iš pensijų socialinio draudimo įmokų individualiajai pensijos daliai sumos, kurią per tuos kalendorinius metus pagal teisės aktų nustatytą pensijų socialinio draudimo įmokų individualiajai pensijos daliai tarifą apdraustasis ir jo draudėjas privalo sumokėti nuo vidutinio šalies darbo užmokesčio, taikomo apdraustųjų asmenų atitinkamų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti (toliau – vidutinis darbo užmokestis). Tais atvejais, kai pagal Lietuvos Respublikos tarptautinių sutarčių nuostatas ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas pensija Lietuvoje turi būti skiriama pagal kitoje valstybėje įgytą stažą, laikoma, kad asmuo per kalendorinius metus įgijo vieną apskaitos vienetą, o už kalendorinių metų dalį – proporcingai mažesnę apskaitos vieneto dalį.
+1. Apskaitos vienetų skaičius, asmens įgytas per kalendorinius metus ar per kalendorinių metų dalį (pensijos skyrimo metais – iki pensijos skyrimo mėnesio), nustatomas padalijus asmens sumokėtų ir (ar) už jį priskaičiuotų pensijų socialinio draudimo įmokų sumą (iki 2018 m. gruodžio 31 d. – neįskaitant kaupiamosios pensijų įmokų dalies sumos, išskyrus šio įstatymo numatytus atvejus) iš pensijų socialinio draudimo įmokų sumos, kurią per tuos kalendorinius metus pagal teisės aktų nustatytą pensijų socialinio draudimo įmokų tarifą apdraustasis ir jo draudėjas privalo sumokėti nuo vidutinio šalies darbo užmokesčio, taikomo apdraustųjų asmenų atitinkamų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti (toliau – vidutinis darbo užmokestis). Tais atvejais, kai pagal Lietuvos Respublikos tarptautinių sutarčių nuostatas ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas pensija Lietuvoje turi būti skiriama pagal kitoje valstybėje įgytą stažą, laikoma, kad asmuo per kalendorinius metus įgijo vieną apskaitos vienetą, o už kalendorinių metų dalį – proporcingai mažesnę apskaitos vieneto dalį.
 
-Straipsnio dalies pakeitimai:
+2. Jeigu asmuo kalendoriniais metais gavo socialinio draudimo išmokas, nurodytas šio įstatymo 10 straipsnio 3 dalyje, laikoma, kad nuo šių išmokų buvo skaičiuojamos pensijų socialinio draudimo įmokos pagal pensijų socialinio draudimo įmokų tarifą (iki 2018 m. gruodžio 31 d. įskaitant kaupiamosios pensijų įmokos dalį). Įmokų sumai apskaičiuoti taikoma šio įstatymo 10 straipsnio 3 dalyje nurodytų socialinio draudimo išmokų, apskaičiuotų už laikotarpį nuo 2019 m. sausio 1 d., suma didinama 1,289 karto. Šioje dalyje nustatyta tvarka apskaičiuota įmokų suma sudedama su šio straipsnio 1 dalyje nurodyta įmokų suma, pagal kurią nustatomas įgytas apskaitos vienetų skaičius.
 
-Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
+3. Jeigu iki 2018 m. gruodžio 31 d. pensijų kaupime dalyvavęs ir pensijos išmokos sutarties nesudaręs ar išmokos iš pensijų kaupimo bendrovės negavęs asmuo Lietuvos Respublikos pensijų kaupimo įstatymo pakeitimo įstatymo 2 straipsnyje nustatyta tvarka nutraukia dalyvavimą pensijų kaupime, jo pensijų sąskaitoje sukauptos lėšos pervedamos į Valstybinio socialinio draudimo fondo biudžetą ir įskaitomos kaip Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai. Dalyvavimą pensijų kaupime nutraukusio asmens iki 2017 m. gruodžio 31 d. įgytų apskaitos vienetų skaičius apskaičiuojamas šio įstatymo nustatyta tvarka kaip pensijų kaupime nedalyvavusiam asmeniui. Nuo 2018 m. sausio 1 d. iki 2018 m. gruodžio 31 d. asmens įgytų apskaitos vienetų skaičius apskaičiuojamas šio straipsnio 1 dalyje nustatyta tvarka įskaitant šiuo laikotarpiu į pensijų fondą pervestą kaupiamosios pensijų įmokos sumą. Pervedamų lėšų suma (įskaitant dalyvio lėšomis sumokėtas pensijų įmokas, jei dalyvis jas mokėjo, ir už dalyvį iš valstybės biudžeto sumokėtas įmokas), viršijanti iš Valstybinio socialinio draudimo fondo biudžeto už asmenį pervestų kaupiamųjų pensijos įmokų sumą, įskaitoma kaip pervedimo metais Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai. Už šią sumą apskaitos vienetai apskaičiuojami šio straipsnio 1 dalyje nustatyta tvarka, netaikant 5 apskaitos vienetų per metus apribojimo.
 
-2. Jeigu asmuo kalendoriniais metais gavo socialinio draudimo išmokas, nurodytas šio įstatymo 10 straipsnio 3 dalyje, laikoma, kad nuo šių išmokų buvo skaičiuojamos pensijų socialinio draudimo įmokos pagal pensijų socialinio draudimo įmokų tarifą (įskaitant kaupiamąją pensijų įmoką) individualiajai pensijos daliai. Taip apskaičiuota įmokų suma sudedama su šio straipsnio 1 dalyje nurodyta įmokų suma, pagal kurią nustatomas įgytas apskaitos vienetų skaičius.
+4. Apskaitos vienetai sumuojami už visus metus, kai asmuo buvo draustas pensijų socialiniu draudimu ar gavo šio įstatymo 10 straipsnio 3 dalyje nurodytas išmokas.
 
-3. Apskaitos vienetai sumuojami už visus metus, kai asmuo buvo draustas pensijų socialiniu draudimu ar gavo šio įstatymo 10 straipsnio 3 dalyje nurodytas išmokas.
+Straipsnio pakeitimai:
+
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
 16 straipsnis. Minimalusis ir būtinasis stažas senatvės pensijai
 
@@ -265,7 +259,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-826, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20044
 
-5. Pensijos, nurodytos šio įstatymo 49 straipsnio 7 dalyje, 53 straipsnio 5 dalyje, 58 straipsnio 1 dalyje ir 60 straipsnyje, taip pat pensijos dalys, nurodytos šio įstatymo 45 straipsnio 5 dalyje ir 48 straipsnio 3 dalyje, indeksuojamos dauginant mokamos pensijos dydį (pensijos dalį) iš IK.
+5. Pensijos, nurodytos šio įstatymo 49 straipsnio 7 dalyje, 53 straipsnio 5 dalyje, 58 straipsnio 1 dalyje ir 60 straipsnyje (išskyrus priedą už stažo metus), taip pat pensijos dalys, nurodytos šio įstatymo 45 straipsnio 5 dalyje ir 48 straipsnio 3 dalyje, indeksuojamos dauginant mokamos pensijos dydį (pensijos dalį) iš IK.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 
 6. IK apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuotus bazinės pensijos ir apskaitos vieneto vertės dydžius euro cento tikslumu tvirtina ir skelbia Valstybinio socialinio draudimo fondo taryba (toliau – Taryba).
 
@@ -283,7 +281,11 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 11 straipsnis. Socialinio draudimo pensijų apskaitos vienetai
 
-1. Už kiekvienus kalendorinius pensijų socialinio draudimo metus asmeniui apskaičiuojami apskaitos vienetai dviejų skaitmenų po kablelio tikslumu. Per kalendorinius metus įgytų apskaitos vienetų skaičius negali būti didesnis kaip 5.
+1. Už kiekvienus kalendorinius pensijų socialinio draudimo metus asmeniui apskaičiuojami apskaitos vienetai dviejų skaitmenų po kablelio tikslumu. Per kalendorinius metus įgytų apskaitos vienetų skaičius negali būti didesnis kaip 5, išskyrus šio įstatymo 12 straipsnio 3 dalyje nustatytą išimtį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
 2. Apskaitos vienetai už laikotarpius iki šio įstatymo įsigaliojimo apskaičiuojami šio įstatymo 51 straipsnyje nustatyta tvarka.
 
@@ -315,9 +317,9 @@ Straipsnio pakeitimai:
 
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
-19 straipsnis. Senatvės pensijos naujinimas
+19 straipsnis. Senatvės pensijos dydžio naujinimas
 
-Nuo kiekvienų kalendorinių metų liepos 1 dienos, pradedant 2019 metais, senatvės pensija kiekvienais metais naujinama, įvertinant asmens įgytą stažą ir apskaitos vienetų skaičių:
+1. Nuo kiekvienų kalendorinių metų sausio 1 dienos, pradedant 2019 metais, senatvės pensijos dydis kasmet naujinamas, įvertinant asmens įgytą stažą ir apskaitos vienetų skaičių:
 
 20 straipsnis. Senatvės pensijos išankstinis skyrimas
 
@@ -389,11 +391,17 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 33 straipsnis. Netekto darbingumo pensijos dydžio naujinimas
 
-Nuo kiekvienų kalendorinių metų liepos 1 dienos, pradedant 2019 metais, netekto darbingumo pensijos dydis kasmet naujinamas, įvertinant asmens po pensijos paskyrimo įgytą stažą ir apskaitos vienetų skaičių:
+1. Nuo kiekvienų kalendorinių metų sausio 1 dienos, pradedant 2019 metais, netekto darbingumo pensijos dydis kasmet naujinamas, įvertinant asmens įgytą stažą ir apskaitos vienetų skaičių:
 
-1) jei asmeniui naudinga, netekto darbingumo pensijos bendroji dalis apskaičiuojama šio įstatymo 29 straipsnyje nustatyta tvarka, įskaitant papildomai įgytą stažą ir taikant tam asmeniui būtinojo stažo netekto darbingumo pensijai reikalavimus pagal jo amžių einamųjų metų sausio 1 dieną;
+1) jeigu asmeniui naudinga, netekto darbingumo pensijos bendroji dalis apskaičiuojama šio įstatymo 29 straipsnyje nustatyta tvarka, įskaitant papildomai įgytą stažą ir taikant tam asmeniui būtinojo stažo netekto darbingumo pensijai reikalavimus pagal jo amžių einamųjų metų sausio 1 dieną;
 
 2) netekto darbingumo pensijos individualioji dalis apskaičiuojama šio įstatymo 30 straipsnyje nustatyta tvarka, didinant įgytų iki tų metų sausio 1 dienos apskaitos vienetų skaičių šio įstatymo 13 straipsnyje nustatyta tvarka, o netekto darbingumo pensijos apskaitos vienetų skaičių mažinant pakaitinių pensijos apskaitos vienetų vidurkio dydžiu.
+
+2. Naujas netekto darbingumo pensijos dydis, atnaujintas atsižvelgiant į praėjusiais kalendoriniais metais asmens įgytą stažą ir apskaitos vienetų skaičių, apskaičiuojamas ir naujo dydžio netekto darbingumo pensija pradedama mokėti ne vėliau kaip atitinkamų kalendorinių metų liepos mėnesį. Kartu su naujo dydžio netekto darbingumo pensija gavėjui išmokamas nuo kalendorinių metų sausio 1 dienos susidaręs netekto darbingumo pensijų dydžių skirtumas.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 
 36 straipsnis. Asmenys, turintys teisę gauti našlių pensiją
 
@@ -715,11 +723,13 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 6 straipsnis. Pensijų mokėjimas asmenims, turintiems teisę gauti daugiau negu vieną pensiją
 
-1. Asmenims, kuriems mokamos netekto darbingumo (invalidumo) pensijos ir kurie gaudami šią pensiją nuo 2018 m. sausio 1 d. sukanka senatvės pensijos amžių ir įgyja teisę gauti senatvės pensiją, mokama didesnioji iš šių pensijų: arba senatvės pensija, apskaičiuota šio įstatymo 17 ir 18 straipsniuose nustatyta tvarka, arba senatvės pensija neįgaliajam, apskaičiuota šio įstatymo 34 straipsnyje nustatyta tvarka. Kartu su senatvės pensija, skiriama ir mokama pagal šio įstatymo 14 straipsnį arba 20 straipsnį, ar senatvės pensija neįgaliajam, apskaičiuota pagal šio įstatymo 34 straipsnį, pensijų kaupime dalyvavusiems asmenims mokama kaupiamoji pensijų išmoka pagal Pensijų kaupimo įstatymo nuostatas. Kartu su senatvės pensija, senatvės pensija neįgaliajam ar netekto darbingumo pensija gali būti mokamos našlių ir (ar) našlaičių pensijos, jeigu įstatymuose nenustatyta kitaip. Asmenims, tuo pačiu metu turintiems teisę gauti ir netekto darbingumo (invalidumo) pensiją, ir senatvės pensiją, mokama viena iš šių pensijų.
+1. Asmenims, kuriems mokamos netekto darbingumo (invalidumo) pensijos ir kurie gaudami šią pensiją nuo 2018 m. sausio 1 d. sukanka senatvės pensijos amžių ir įgyja teisę gauti senatvės pensiją, mokama didesnioji iš šių pensijų: arba senatvės pensija, apskaičiuota šio įstatymo 17 ir 18 straipsniuose nustatyta tvarka, arba senatvės pensija neįgaliajam, apskaičiuota šio įstatymo 34 straipsnyje nustatyta tvarka. Kartu su senatvės pensija, skiriama ir mokama pagal šio įstatymo 14 arba 20 straipsnį, ar senatvės pensija neįgaliajam, apskaičiuota pagal šio įstatymo 34 straipsnį, pensijų kaupime dalyvavusiems asmenims mokama kaupiamoji pensijų išmoka pagal Pensijų kaupimo įstatymo nuostatas. Kartu su senatvės pensija, senatvės pensija neįgaliajam ar netekto darbingumo pensija gali būti mokamos našlių ir (ar) našlaičių pensijos, jeigu įstatymuose nenustatyta kitaip. Asmenims, tuo pačiu metu turintiems teisę gauti ir netekto darbingumo (invalidumo) pensiją, ir senatvės pensiją, mokama didesnioji iš šių pensijų arba asmens prašymu – viena iš šių pensijų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
+
+Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 
 2. Asmenims, tuo pačiu metu turintiems teisę gauti našlių pensijas ir našlaičių pensijas, mokama didesnioji pensija arba jų pasirinkimu viena iš šių pensijų.
 
@@ -863,17 +873,23 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
-60 straipsnis. Pensijos mokėjimas asmeniui, kuriam iki šio įstatymo įsigaliojimo buvo mokama neperskaičiuota pensija
+60 straipsnis. Pensijos mokėjimas asmeniui, kuriam mokama neperskaičiuota pensija
 
-1. Asmeniui mokama pensija, paskirta iki 1994 m. gruodžio 31 d. ir neperskaičiuota pagal nuo 1995 m. sausio 1 d. galiojusį Pensijų įstatymą (toliau – neperskaičiuota pensija), kiekvienais metais nuo sausio 1 d. indeksuojama šio įstatymo 8 straipsnyje nustatyta tvarka.
+1. Asmeniui mokama pensija, paskirta iki 1994 m. gruodžio 31 d. ir neperskaičiuota pagal nuo 1995 m. sausio 1 d. galiojusį Pensijų įstatymą (toliau – neperskaičiuota pensija), kiekvienais metais nuo sausio 1 dienos indeksuojama šio įstatymo 8 straipsnyje nustatyta tvarka.
 
-Straipsnio dalies pakeitimai:
+2. Neperskaičiuotos invalidumo pensijos mokamos tol, kol pagal nuo 1995 m. sausio 1 d. galiojusį Pensijų įstatymą perskaičiuota pensija pradeda viršyti neperskaičiuotos pensijos dydį, o neperskaičiuotos senatvės pensijos – tol, kol šio įstatymo 45, 46 ir 48 straipsniuose nustatyta tvarka apskaičiuota senatvės pensija pradeda viršyti mokamos neperskaičiuotos pensijos dydį. Tokiu atveju asmeniui pradedama mokėti perskaičiuota pensija.
 
-Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
+3. Neperskaičiuotų senatvės pensijų gavėjams, kurie yra įgiję didesnį kaip 30 metų stažą, priedas už stažo metus nuo 2018 m. sausio 1 d. apskaičiuojamas pagal formulę B · (S – 30) / 30, kurioje:
 
-2. Jeigu neperskaičiuota pensija (be priedo už stažo metus, jei šis priedas buvo paskirtas) viršija ar po indeksavimo pradeda viršyti galiojančią patvirtintą maksimalią neperskaičiuotą pensiją, ji mokama maksimalios neperskaičiuotos pensijos dydžio tol, kol tam asmeniui perskaičiuota pagal iki šio įstatymo įsigaliojimo galiojusį Pensijų įstatymą (be priedo už stažo metus, jei šis priedas buvo paskirtas) pensija ima viršyti patvirtintos maksimalios neperskaičiuotos pensijos dydį. Kai šio straipsnio 3 dalyje nustatyta tvarka patvirtinama nauja maksimali neperskaičiuota pensija, neperskaičiuota pensija (be priedo už stažo metus, jei šis priedas buvo paskirtas) indeksuojama šio įstatymo 8 straipsnio 5 dalyje nustatyta tvarka, neviršijant naujos maksimalios neperskaičiuotos pensijos.
+1) B – tą mėnesį, už kurį mokama pensija, galiojantis bazinės pensijos dydis;
 
-3. Maksimalios neperskaičiuotos pensijos dydį tvirtina Taryba. Nauju maksimalios neperskaičiuotos pensijos dydžiu laikomas praėjusių kalendorinių metų keturių ketvirčių vidutinės senatvės pensijos dydis sveikojo skaičiaus tikslumu.
+2) S – asmens įgytas stažas.
+
+4. Jeigu nuo paskutinio pensijos skyrimo iki 2017 m. gruodžio 31 d. asmuo buvo draustas pensijų socialiniu draudimu, priedui už stažo metus apskaičiuoti turimo stažo duomenys atnaujinami 2017 m. gruodžio 31 d.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 
 61 straipsnis. Socialinio draudimo senatvės pensijų skyrimas vietoj pensijų, paskirtų iki 1994 m. gruodžio 31 d.
 
