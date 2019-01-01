@@ -4,7 +4,7 @@ identifier: "TAR.F8E5F36A9345"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-12"
-last_updated: "1999-01-27"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8E5F36A9345"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos
+
+Suvestinė redakcija nuo 2019-01-01
+
+Įstatymas paskelbtas: Žin. 1999, Nr. 11-241, i. k. 0991010ISTAIII-1021
 
 LIETUVOS RESPUBLIKOS
 
@@ -50,7 +54,11 @@ priima šį įstatymą.
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos statusą Lietuvos Respublikos teisės sistemoje.
+Šis įstatymas nustato Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos statusą Lietuvos Respublikos teisės sistemoje ir apibrėžia jos reikšmingų sukakčių minėjimo eigą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1829, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21850
 
 2 straipsnis. Lietuvos Laisvės Kovos Sąjūdžio Taryba
 
@@ -60,7 +68,13 @@ priima šį įstatymą.
 
 3 straipsnis. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracija
 
-1949 m. vasario 16 d. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracija yra Lietuvos valstybės teisės aktas.
+1. 1949 m. vasario 16 d. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracija yra Lietuvos valstybės teisės aktas.
+
+2. Minint reikšmingas 1949 m. vasario 16 d. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracijos pasirašymo sukaktis, Lietuvos Respublikos Vyriausybė parengia Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracijos pasirašymo sukakties minėjimo veiksmų planą ir valstybės biudžete numato lėšas parengtam veiksmų planui įgyvendinti. Reikšmingomis laikomos sukaktys: iki 100-ųjų metinių – kas 10 metų, nuo 100-ųjų metinių – kas 25 metai.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1829, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21850
 
 4 straipsnis. Baigiamosios nuostatos
 
@@ -195,4 +209,14 @@ laikinai einantis Pietų Lietuvos srities vado pareigas Dainavos apygardos vadas
 Lietuvos Laisvės Kovos Sąjūdžio Prezidiumo sekretorius Petras Bartkus-Žadgaila.
 
 ______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1829, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21850
+
+Lietuvos Respublikos įstatymo „Dėl Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos“ Nr. VIII-1021 1 ir 3 straipsnių pakeitimo įstatymas
 
