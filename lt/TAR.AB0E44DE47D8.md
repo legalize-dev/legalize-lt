@@ -4,7 +4,7 @@ identifier: "TAR.AB0E44DE47D8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinasis įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1656, i. k. 0971010ISTAVIII-366
 
@@ -187,11 +187,13 @@ TREČIASIS SKIRSNIS
 
 1. Jeigu nukentėjusysis neteko iki 20 procentų (imtinai) darbingumo, jam išmokama 10 procentų jo 24 mėnesių kompensuojamojo uždarbio dydžio vienkartinė kompensacija; jei nukentėjusysis neteko daugiau negu 20, bet mažiau negu 30 procentų darbingumo, jam išmokama 20 procentų jo 24 mėnesių kompensuojamojo uždarbio dydžio vienkartinė kompensacija.
 
-2. Kompensuojamasis uždarbis apskaičiuojamas dauginant nukentėjusiojo kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio 11 dalis) iš 65 procentų vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis), galiojusio teisės į vienkartinę netekto darbingumo kompensaciją atsiradimo mėnesį, t. y. pagal formulę k x 0,65 x D.
+2. Kompensuojamasis uždarbis apskaičiuojamas dauginant nukentėjusiojo kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio 11 dalis) iš 50,43 procento vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis), galiojusio teisės į vienkartinę netekto darbingumo kompensaciją atsiradimo mėnesį, t. y. pagal formulę k x 0,5043 x D.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+
+Nr. XIII-1723, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20977
 
 3. Jeigu nukentėjusiajam nustatytas pastovus nedarbingumas, išmokama trigubai didesnė vienkartinė kompensacija, negu nurodyta šio straipsnio 1 ir 2 dalyse.
 
