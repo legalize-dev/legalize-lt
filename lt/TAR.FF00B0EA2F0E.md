@@ -4,7 +4,7 @@ identifier: "TAR.FF00B0EA2F0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-01-22"
-last_updated: "2018-11-13"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asociacijų įstatymas
 
-Suvestinė redakcija nuo 2018-11-13 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-05-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
 
@@ -154,15 +154,27 @@ ASOCIACIJOS VALDYMAS
 
 4) nustato asociacijos narių stojamųjų įnašų dydį ir narių mokesčių dydį, jų mokėjimo tvarką, jei asociacijos įstatuose mokėjimo tvarka nenustatyta;
 
-5) per 4 mėnesius nuo finansinių metų pabaigos tvirtina asociacijos metinių finansinių ataskaitų rinkinį;
+5) per 4 mėnesius nuo finansinių metų pabaigos tvirtina asociacijos metinių finansinių ataskaitų rinkinį arba metinę ataskaitą;
+
+TAR pastaba. 8 straipsnio 1 dalies 5 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
 
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
+
 6) priima sprendimą dėl asociacijos pertvarkymo ar pabaigos (reorganizavimo ar likvidavimo);
 
 7) priima sprendimą dėl kitų juridinių asmenų steigimo ar dėl tapimo kitų juridinių asmenų dalyviu, jeigu asociacijos įstatai nenustato kitaip;
+
+8) priima sprendimą dėl asociacijos metinių finansinių ataskaitų rinkinio audito ir renka auditorių ar audito įmonę.
+
+TAR pastaba. 8 straipsnio 1 dalies 8 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 2. Visuotinis narių susirinkimas sprendžia ir kitus šiame Įstatyme ir asociacijos įstatuose visuotinio narių susirinkimo kompetencijai priskirtus klausimus, jei pagal šį Įstatymą tai nepriskirta kitų asociacijos organų kompetencijai ir jei pagal esmę tai nėra valdymo organo funkcijos.
 
@@ -190,53 +202,101 @@ Nr. XIII-1595, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18209
 
 1. Valdymo organas veikia asociacijos vardu, kai yra santykių su kitais asmenimis, taip pat sudaro sandorius asociacijos vardu.
 
-2. Valdymo organas, be Civilinio kodekso 2.82 straipsnyje numatytų funkcijų, priima į darbą ir iš jo atleidžia darbuotojus, sudaro su jais darbo sutartis, atsako už asociacijos metinių finansinių ataskaitų rinkinio ir asociacijos veiklos ataskaitos parengimą ir pateikimą visuotiniam narių susirinkimui, skelbia ar organizuoja viešos informacijos paskelbimą, organizuoja savanorišką veiklą Lietuvos Respublikos savanoriškos veiklos įstatymo nustatyta tvarka, sprendžia kitus šiame Įstatyme ir asociacijos įstatuose valdymo organo kompetencijai priskirtus klausimus. Valdymo organas taip pat priima sprendimus dėl filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų nuostatus, jeigu asociacijos įstatai nenustato kitaip.
+2. Valdymo organas, be Civilinio kodekso 2.82 straipsnyje numatytų funkcijų, priima į darbą ir iš jo atleidžia darbuotojus, sudaro su jais darbo sutartis. Valdymo organas taip pat priima sprendimus dėl filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų nuostatus, jeigu asociacijos įstatai nenustato kitaip.
+
+TAR pastaba. 9 straipsnio 2 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
 
-3. Jeigu asociacijoje sudaromi keli valdymo organai, asociacijos įstatuose turi būti nustatyta kiekvieno valdymo organo kompetencija.
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
-4. Už asociacijos nario veiklą valdymo organuose jo nariui gali būti atlyginama.
+3. Valdymo organas atsakingas už:
 
-5. Kolegialaus valdymo organo nariais gali būti fiziniai asmenys – asociacijos nariai ir asociacijos narių – juridinių asmenų pasiūlyti fiziniai asmenys. Asociacijos įstatuose gali būti nustatyti papildomi reikalavimai kolegialaus valdymo organo nariui.
+1) buhalterinės apskaitos organizavimą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą;
 
-6. Kolegialus valdymo organas gali priimti sprendimus, kai jo posėdyje dalyvauja daugiau kaip 1/2 narių.
+2) metinių finansinių ataskaitų rinkinio ir veiklos ataskaitos parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metinės ataskaitos parengimą ir pateikimą Juridinių asmenų registro tvarkytojui ir visuotiniam narių susirinkimui;
 
-10 straipsnis. Asociacijos veiklos ataskaita ir metinių finansinių ataskaitų rinkinio pateikimas juridinių asmenų registrui
+3) duomenų, nurodytų Civilinio kodekso 2.66 straipsnyje, pateikimą Juridinių asmenų registrui;
 
-1. Asociacijos įstatuose nurodytas valdymo organas per įstatuose nustatytą terminą turi parengti ir pateikti visuotiniam narių susirinkimui kiekvienų praėjusių finansinių metų asociacijos veiklos ataskaitą. Ši ataskaita yra vieša. Kiekvieno fizinio ar juridinio asmens reikalavimu asociacija turi sudaryti sąlygas asociacijos buveinėje ar kitais būdais su šia ataskaita visiems susipažinti.
+4) metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir auditoriaus išvados (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metinės ataskaitos paskelbimą asociacijos interneto svetainėje, jeigu asociacija ją turi;
 
-2. Asociacijos veiklos ataskaitoje turi būti nurodyta:
+5) sąlygų tretiesiems asmenims susipažinti su metinių finansinių ataskaitų rinkiniu, veiklos ataskaita ir auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metine ataskaita asociacijos buveinėje sudarymą;
 
-1) informacija apie asociacijos veiklą įgyvendinant jos įstatuose nustatytus veiklos tikslus;
+6) viešos informacijos paskelbimą;
 
-2) asociacijos narių skaičius finansinių metų pabaigoje;
+7) savanoriškos veiklos Lietuvos Respublikos savanoriškos veiklos įstatymo nustatyta tvarka organizavimą;
 
-3) samdomų asociacijos darbuotojų skaičius finansinių metų pabaigoje;
+8) kitų valdymo organo pareigų, numatytų šiame Įstatyme ir asociacijos įstatuose, atlikimą.
 
-4) informacija apie gautą paramą (pateikiant informaciją apie paramos teikėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė) ir jos panaudojimą.
+TAR pastaba. 9 straipsnio 3 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 
-Papildyta straipsnio punktu:
+Papildyta straipsnio dalimi:
 
-Nr. XIII-488, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11075
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
-3. Asociacijos veiklos ataskaitoje gali būti ir kita informacija, kurią nustato visuotinis narių susirinkimas.
+4. Jeigu asociacijoje sudaromi keli valdymo organai, asociacijos įstatuose turi būti nustatyta kiekvieno valdymo organo kompetencija.
 
-4. Asociacijos veiklos ataskaita ir metinių finansinių ataskaitų rinkinys, o kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada yra pateikiami juridinių asmenų registro tvarkytojui ir paskelbiami asociacijos interneto svetainėje (jeigu asociacija ją turi), išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus viešai neskelbtini. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami juridinių asmenų registro tvarkytojo interneto svetainėje.
+Straipsnio dalies numeracijos pakeitimas:
 
-Straipsnio dalies pakeitimai:
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
-Nr. XIII-488, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11075
+5. Už asociacijos nario veiklą valdymo organuose jo nariui gali būti atlyginama.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
+
+6. Kolegialaus valdymo organo nariais gali būti fiziniai asmenys – asociacijos nariai ir asociacijos narių – juridinių asmenų pasiūlyti fiziniai asmenys. Asociacijos įstatuose gali būti nustatyti papildomi reikalavimai kolegialaus valdymo organo nariui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
+
+7. Kolegialus valdymo organas gali priimti sprendimus, kai jo posėdyje dalyvauja daugiau kaip 1/2 narių.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
+
+10 straipsnis. Metinių finansinių ataskaitų rinkinys ir veiklos ataskaita. Metinė ataskaita
+
+1. Asociacijos įstatuose nurodytas valdymo organas, išskyrus šio straipsnio 6 dalyje nurodytą atvejį, pasibaigus finansiniams metams turi parengti ir visuotiniam narių susirinkimui pateikti:
+
+1) metinių finansinių ataskaitų rinkinį;
+
+2) veiklos ataskaitą.
+
+2. Metinių finansinių ataskaitų rinkinį sudaro šios finansinės ataskaitos:
+
+1) finansinės būklės ataskaita, kurioje rodomas visas asociacijos turtas, nuosavas kapitalas, finansavimo sumos ir įsipareigojimai paskutinę ataskaitinio laikotarpio dieną;
+
+2) veiklos rezultatų ataskaita, kurioje rodomos visos asociacijos ataskaitinio laikotarpio pajamos, sąnaudos ir veiklos rezultatai – perviršis (pelnas) arba deficitas (nuostoliai);
+
+3) finansinių ataskaitų aiškinamasis raštas, kuriame detalizuojamos ir paaiškinamos asociacijos finansinės būklės ataskaitoje ir veiklos rezultatų ataskaitoje nurodytos sumos, nurodomas vyriausiasis buhalteris (buhalteris) arba pagal sutartį apskaitos paslaugas teikianti (teikusi) įmonė, arba apskaitos paslaugas savarankiškai teikiantis (teikęs) asmuo ir laikotarpis, už kurį jis tvarko (tvarkė) asociacijos apskaitą, taip pat pateikiama papildoma reikšminga informacija ir kita šiame Įstatyme nurodyta informacija.
+
+3. Asociacijos, kuri per ataskaitinius finansinius metus gavo paramą, finansinių ataskaitų aiškinamajame rašte taip pat turi būti nurodyta informacija apie gautą finansinę ir nefinansinę (nefinansinei paramai priskiriant ir turtą, gautą naudotis panaudos teise) paramą ir jos panaudojimą. Pateikiant informaciją apie paramos teikėjus, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė. Jeigu paramos teikėjo per ataskaitinius finansinius metus suteiktos paramos vertė neviršija 2 vidutinių mėnesinių darbo užmokesčių ir sudaro ne daugiau kaip 10 procentų asociacijos per ataskaitinius finansinius metus visos gautos paramos ir (arba) visų gautų finansavimo sumų, paramą suteikęs juridinis asmuo gali būti nenurodomas.
+
+4. Veiklos ataskaitoje turi būti nurodyta:
+
+1) asociacijos veiklos tikslai, uždaviniai ir atlikti darbai, taip pat nurodomi ateinančių finansinių metų veiklos tikslai, uždaviniai ir planuojami atlikti darbai;
+
+2) asociacijos narių skaičius finansinių metų pabaigoje ir praėjusių finansinių metų pabaigoje.
+
+5. Veiklos ataskaitoje gali būti nurodyta ir kita informacija, kurią nusprendžia pateikti asociacijos valdymo organas ar visuotinis narių susirinkimas.
+
+6. Asociacijos, kuri, vadovaudamasi Buhalterinės apskaitos įstatymu, yra pasirinkusi supaprastintą apskaitą, įstatuose nurodytas valdymo organas vietoj šio straipsnio 1 dalyje nurodytų ataskaitų gali rengti ir visuotiniam narių susirinkimui pateikti metinę ataskaitą, kurioje turi būti pateikta informacija, nurodyta šio straipsnio 2 dalies 1 ir 2 punktuose ir 3, 4 ir 5 dalyse.
+
+7. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų, veiklos ataskaitos ir metinės ataskaitos parengimo tvarką nustato ir informacijos, nurodytos šio straipsnio 2, 4 ir 6 dalyse, turinį detalizuoja Vyriausybė arba jos įgaliota institucija.
+
+TAR pastaba. 10 straipsnio nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
 
-KETVIRTASIS SKIRSNIS
-
-ASOCIACIJOS VEIKLA
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 11 straipsnis. Asociacijos teisės ir pareigos
 
@@ -338,9 +398,21 @@ Asociacija įstatų nustatyta tvarka gali įstoti į tarptautines organizacijas,
 
 1) neatlygintinai perduoti asociacijos turtą nuosavybėn asociacijos nariui, valdymo ir kolegialių organų nariui, asociacijoje darbo sutarties pagrindu dirbančiam asmeniui ar su jais susijusiam asmeniui, ar trečiajam asmeniui, išskyrus labdaros ar paramos tikslus, nustatytus įstatuose pagal Labdaros ir paramos įstatymą;
 
-2) mokėti asociacijos steigėjui ar nariui išmokas iš pelno dalies ar perduoti likviduojamos asociacijos turto dalį, viršijančią stojamąjį nario įnašą ar mokestį;
+2) mokėti asociacijos steigėjui ar nariui išmokas iš perviršio (pelno) dalies ar perduoti likviduojamos asociacijos turto dalį, viršijančią stojamąjį nario įnašą ar mokestį;
 
-3) asociacijos turtą ir lėšas, įskaitant pelną, jokia forma, išskyrus labdarą ir paramą pagal Labdaros ir paramos įstatymą, skirstyti tos asociacijos ir (ar) jos valdymo organų nariams, asociacijoje darbo sutarties pagrindu dirbantiems asmenims, išskyrus atvejus, kai yra mokamas darbo užmokestis, kitos su darbo teisiniais santykiais susijusios išmokos ir kai autorinės sutarties pagrindu mokamas autorinis atlyginimas, atlyginama už suteiktas paslaugas ar parduotas prekes;
+TAR pastaba. 16 straipsnio 2 dalies 2 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
+
+3) asociacijos turtą ir lėšas, įskaitant perviršį (pelną), jokia forma, išskyrus labdarą ir paramą pagal Labdaros ir paramos įstatymą, skirstyti tos asociacijos ir (ar) jos valdymo organų nariams, asociacijoje darbo sutarties pagrindu dirbantiems asmenims, išskyrus atvejus, kai yra mokamas darbo užmokestis, kitos su darbo teisiniais santykiais susijusios išmokos ir kai autorinės sutarties pagrindu mokamas autorinis atlyginimas, atlyginama už suteiktas paslaugas ar parduotas prekes;
+
+TAR pastaba. 16 straipsnio 2 dalies 3 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 4) suteikti paskolas, įkeisti asociacijos turtą (išskyrus atvejus, kai turtas įkeičiamas asociacijos prievolėms užtikrinti), garantuoti, laiduoti ar kitaip užtikrinti kitų asmenų prievolių įvykdymą. Ši nuostata netaikoma, kai skolinamasi iš kredito įstaigų ir kai Lietuvos Respublikos tarptautinės sutartys arba Lietuvos Respublikos įstatymai ar jų pagrindu priimti kiti teisės aktai numato kitaip;
 
@@ -388,7 +460,13 @@ ASOCIACIJŲ PERTVARKYMO IR PABAIGOS YPATUMAI
 
 1) viešai paskelbti asociacijos įstatuose nurodytame dienraštyje apie asociacijos likvidavimą ir pateikti juridinių asmenų registrui dokumentus, patvirtinančius sprendimą likviduoti asociaciją bei savo duomenis;
 
-2) sudaryti likvidavimo laikotarpio pradžios balansą;
+2) sudaryti likvidavimo laikotarpio pradžios finansinės būklės ataskaitą;
+
+TAR pastaba. 17 straipsnio 5 dalies 2 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 3) perduoti likusį asociacijos turtą šio Įstatymo nustatyta tvarka;
 
@@ -485,4 +563,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1595, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18209
 
 Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8 straipsnio pakeitimo įstatymas
+
+101 straipsnis. Metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir metinės ataskaitos pasirašymas, skelbimas ir teikimas
+
+1. Metinių finansinių ataskaitų rinkinys, veiklos ataskaita ir metinė ataskaita turi būti pasirašyti asociacijos įstatuose nurodyto valdymo organo nario. Šiuose dokumentuose turi būti nurodytos pasirašančio asmens pareigos, vardas ir pavardė.
+
+2. Metinių finansinių ataskaitų rinkinys, veiklos ataskaita kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas), taip pat metinė ataskaita yra vieši dokumentai. Šie dokumentai, išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus, reglamentuojančius fizinių asmenų asmens duomenų apsaugą, viešai neskelbiami, turi būti paskelbti asociacijos interneto svetainėje, jeigu asociacija ją turi. Be to, tretiesiems asmenims turi būti sudarytos sąlygos su šiais dokumentais susipažinti asociacijos buveinėje.
+
+3. Asociacijos veiklos ataskaita turi būti pateikta Juridinių asmenų registro tvarkytojui kartu su metinių finansinių ataskaitų rinkiniu, o tais atvejais, kai yra atliktas finansinių ataskaitų auditas, kartu su audituotu metinių finansinių ataskaitų rinkiniu turi būti pateikta ir auditoriaus išvada. Asociacija, kuri turi teisę rengti metinę ataskaitą šio Įstatymo 10 straipsnio 6 dalyje nurodytu atveju, metinę ataskaitą turi pateikti Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+
+TAR pastaba. 101 straipsnio nuostatos taikomos rengiant 2019-01-01 vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+
+Papildyta straipsniu:
+
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
+
+KETVIRTASIS SKIRSNIS
+
+ASOCIACIJOS VEIKLA
 
