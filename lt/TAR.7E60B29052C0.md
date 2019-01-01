@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2018-07-06"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2018-07-06
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
 
@@ -89,8 +89,6 @@ Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
 Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 
 9) Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams;
-
-10) Vyriausybės įstaigų vadovams;
 
 11) žvalgybos pareigūnams;
 
@@ -550,7 +548,7 @@ Vaiko teisių apsaugos kontrolierius
 
 6.
 
-Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės kainų ir energetikos kontrolės komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės kainų ir energetikos kontrolės komisijos ir Vyriausiosios tarnybinės etikos komisijos, Valstybinės lietuvių kalbos komisijos:
 
 6.1.
 
@@ -917,6 +915,8 @@ Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
 Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
 
 Nr. XIII-1376, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11331
+
+Nr. XIII-1828, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21848
 
 Pakeitimai:
 
