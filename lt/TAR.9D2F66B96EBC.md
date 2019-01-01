@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2016-10-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -64,11 +64,15 @@ Nr. XII-973, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10012
 
 6. Civilinis orlaivis – orlaivis, įregistruotas civilinių orlaivių registre.
 
-7. Eksperimentinės kategorijos orlaiviai – orlaiviai, išvardyti 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančio Europos aviacijos saugos agentūrą, panaikinančio Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB, II priede.
+7. Eksperimentinės kategorijos orlaiviai – orlaiviai, išvardyti Reglamento (ES) Nr. 2018/1139 I priede.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 8. Karinė aviacija – bet kokia aviacinė veikla, reguliuojama karinės vadovybės.
 
@@ -148,11 +152,13 @@ Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA
 
 Nr. XI-1392, 2011-05-19, Žin., 2011, Nr. 68-3223 (2011-06-04), i. k. 1111010ISTA0XI-1392
 
-16. Licencija oro susisiekimui vykdyti – leidimas, suteikiantis teisę už užmokestį arba užsakymo pagrindu vežti keleivius, krovinius ir (arba) paštą.
+16. Licencija vykdyti oro susisiekimą – leidimas, suteikiantis teisę už užmokestį arba užsakymo pagrindu vežti keleivius, krovinius ir (arba) paštą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -544,11 +550,15 @@ Papildyta straipsnio dalimi:
 
 Nr. IX-2399, 2004-07-15, Žin., 2004, Nr. 120-4438 (2004-08-03), i. k. 1041010ISTA0IX-2399
 
-6. Šio įstatymo III skyriaus pirmojo, antrojo ir ketvirtojo skirsnių nuostatos netaikomos eksperimentinės kategorijos orlaiviams ir orlaiviams, lengvesniems už orą (laisviesiems aerostatams, pririšamiesiems aerostatams, dirižabliams). Reikalavimus jiems nustato Civilinės aviacijos administracija, atsižvelgdama į skrydžių saugos užtikrinimą.
+6. Šio įstatymo III skyriaus pirmojo, antrojo ir ketvirtojo skirsnių nuostatos netaikomos eksperimentinės kategorijos orlaiviams ir orlaiviams, lengvesniems už orą (laisviesiems aerostatams, pririšamiesiems aerostatams, dirižabliams). Reikalavimus jiems nustato Lietuvos transporto saugos administracija (toliau – LTSA), atsižvelgdama į skrydžių saugos užtikrinimą.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 7. Nuostatos dėl tarptautinių oro uostų žemės taikomos tiek, kiek to nereglamentuoja Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas.
 
@@ -562,13 +572,7 @@ Civilinę aviaciją reglamentuojantys Lietuvos Respublikos teisės aktai turi at
 
 5 straipsnis. Aviacijos valstybinis valdymas
 
-1. Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vykdo Vyriausybė, Krašto apsaugos ministerija, Susisiekimo ministerija, kariuomenės vadas ir Civilinės aviacijos administracija (toliau – CAA).
-
-2. Neteko galios 2011-03-01.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
+Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vykdo Vyriausybė, Krašto apsaugos ministerija, Susisiekimo ministerija, kariuomenės vadas, LTSA ir viešoji įstaiga Transporto kompetencijų agentūra (toliau – Agentūra), kurios vienintelis dalininkas arba savininkas yra valstybė.
 
 Straipsnio pakeitimai:
 
@@ -576,35 +580,67 @@ Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA
 
 Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
 
-6 straipsnis. Civilinės aviacijos administracija
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
-1. CAA pagal savo kompetenciją įgyvendina valstybės civilinės aviacijos plėtros strategiją ir teikia Susisiekimo ministerijai siūlymus rengiant civilinės aviacijos plėtros programas.
+6 straipsnis. Civilinės aviacijos valstybinę priežiūrą vykdančios institucijos
 
-2. CAA, jei tai būtina, suderinusi su kariuomenės vadu, nustato reikalavimus civilinei aviacijai šiam įstatymui įgyvendinti ir vykdo civilinės aviacijos, įskaitant antžeminę įrangą ir aviacijai teikiamas paslaugas, valstybinę priežiūrą.
+1. LTSA yra iš valstybės biudžeto išlaikoma biudžetinė įstaiga, kuriai lėšos skiriamos ir administruojamos Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka.
 
-3. CAA organizuoja Nacionalinės civilinės aviacijos saugumo programos įgyvendinimą, išduoda licencijas, pažymėjimus, taip pat atlieka kitas teisės aktų jai suteiktas funkcijas.
+2. LTSA pagal savo kompetenciją:
 
-4. CAA yra biudžetinė įstaiga, išlaikoma iš valstybės biudžeto ir atskaitymų nuo rinkliavų už oro navigacijos paslaugas bei naudojimąsi oro uostais. Šių atskaitymų dydį nustato Vyriausybė.
+1) įgyvendina valstybės civilinės aviacijos plėtros strategiją;
 
-Straipsnio dalies pakeitimai:
+2) teikia Susisiekimo ministerijai pasiūlymus rengiant civilinės aviacijos plėtros programas ir valstybės aviacijos saugos programą;
 
-Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+3) jei tai būtina, suderinusi su kariuomenės vadu, nustato reikalavimus civilinei aviacijai šiam įstatymui įgyvendinti;
 
-5. CAA darbuotojų komandiruočių, susijusių su ne Lietuvos Respublikos teritorijoje esančių orlaivių tinkamumo skraidyti priežiūra, išlaidas atlygina orlaivių savininkai arba naudotojai. CAA darbuotojų komandiruočių, susijusių su ne Lietuvos Respublikos teritorijoje veikiančių vežėjų veiklos priežiūra, mokymo įstaigų akreditavimu ir priežiūra, orlaivių ir jų įrangos gamybos bei techninės priežiūros organizacijų, orlaivių tinkamumo skraidyti tęstinumo vadybos organizacijų tvirtinimu ir priežiūra, išlaidas atlygina atitinkamai vežėjai, minėtos įstaigos ir organizacijos. Šioje dalyje nurodytų išlaidų atlyginimo tvarką nustato susisiekimo ministras.
+4) kontroliuoja nacionalinės civilinės aviacijos saugumo programos įgyvendinimą;
 
-Papildyta straipsnio dalimi:
+5) išduoda licencijas vykdyti oro susisiekimą;
 
-Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
+6) renka saugos informaciją ir atlieka jos analizę;
+
+7) atlieka kitas šio įstatymo ir kitų teisės aktų jai nustatytas funkcijas.
+
+3. Agentūrai išlaikyti naudojamos šios lėšos:
+
+1) rinkliavų už oro navigacijos paslaugas atskaitymai, kuriuos iki kiekvieno ketvirčio pirmojo mėnesio 25 dienos perveda oro eismo paslaugų teikėjai arba Europos saugios oro navigacijos organizacija dalimis, lygiomis vienai ketvirtajai Agentūros einamųjų metų planuotų sąnaudų, susijusių su oro navigacijos paslaugų teikėjų valstybine priežiūra pagal Reglamento (EB) Nr. 549/2004 nuostatas;
+
+2) rinkliavų už naudojimąsi oro uostais atskaitymai, kuriuos iki kiekvieno ketvirčio pirmojo mėnesio 25 dienos perveda tarptautinių oro uostų valdytojai dalimis, lygiomis vienai ketvirtajai Agentūros einamųjų metų planuotų sąnaudų, susijusių su Lietuvos Respublikos tarptautinių oro uostų valstybine priežiūra;
+
+3) už atliktus darbus ir suteiktas paslaugas gautos pajamos;
+
+4) valstybės biudžeto asignavimai.
+
+4. Agentūra pagal savo kompetenciją:
+
+1) vykdo civilinės aviacijos, įskaitant antžeminę įrangą ir aviacijai teikiamas paslaugas, valstybinę priežiūrą;
+
+2) organizuoja nacionalinės civilinės aviacijos saugumo programos įgyvendinimą;
+
+3) vykdo Reglamente (EB) Nr. 300/2008 nurodytos atitinkamos institucijos, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) Nr. 748/2012, Reglamente (ES) Nr. 965/2012, Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 139/2014, Reglamente (ES) 2015/340, Reglamente (ES) Nr. 923/2012, Reglamente (ES) Nr. 376/2014 ir Reglamente (ES) 2018/395 nurodytos kompetentingos institucijos ir Reglamente (EB) Nr. 549/2004, Reglamente (ES) Nr. 390/2013 ir Reglamente (ES) Nr. 391/2013 nurodytos nacionalinės priežiūros institucijos funkcijas;
+
+4) išduoda pažymėjimus, patvirtinimus ir aviacijos specialistų licencijas;
+
+5) teikia metodinę pagalbą ir konsultacijas civilinės aviacijos klausimais.
+
+5. Agentūros darbuotojų komandiruočių, susijusių su ne Lietuvos Respublikos teritorijoje esančių orlaivių tinkamumo skraidyti priežiūra, išlaidas atlygina orlaivių savininkai arba naudotojai. Agentūros darbuotojų komandiruočių, susijusių su ne Lietuvos Respublikos teritorijoje veikiančių vežėjų veiklos priežiūra, mokymo įstaigų akreditavimu ir priežiūra, orlaivių ir jų įrangos gamybos bei techninės priežiūros organizacijų, orlaivių tinkamumo skraidyti tęstinumo vadybos organizacijų tvirtinimu ir priežiūra, išlaidas atlygina atitinkamai vežėjai, šios įstaigos ir organizacijos. Šioje dalyje nurodytų išlaidų atlyginimo tvarką nustato susisiekimo ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 7 straipsnis. Kariuomenės vadas
 
 1. Kariuomenės vadas pagal savo kompetenciją įgyvendina karinės aviacijos politiką ir teikia siūlymus rengiant karinės aviacijos plėtros programą.
 
-2. Kariuomenės vadas, jei tai būtina, suderinęs su CAA, nustato reikalavimus karinei aviacijai šiam įstatymui įgyvendinti, taip pat yra atsakingas už karinės aviacijos, įskaitant antžeminius įrenginius ir aviacijai teikiamas paslaugas, valstybinę priežiūrą. Lietuvos kariuomenės Skrydžių saugos departamentas vykdo karinės aviacijos, įskaitant antžeminius įrenginius ir aviacijai teikiamas paslaugas, valstybinės priežiūros funkcijas.
+2. Kariuomenės vadas, jei tai būtina, suderinęs su LTSA, nustato reikalavimus karinei aviacijai šiam įstatymui įgyvendinti, taip pat yra atsakingas už karinės aviacijos, įskaitant antžeminius įrenginius ir aviacijai teikiamas paslaugas, valstybinę priežiūrą. Lietuvos kariuomenės Skrydžių saugos departamentas vykdo karinės aviacijos, įskaitant antžeminius įrenginius ir aviacijai teikiamas paslaugas, valstybinės priežiūros funkcijas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-2186, 2012-06-29, Žin., 2012, Nr. 81-4225 (2012-07-12), i. k. 1121010ISTA0XI-2186
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 3. Kariuomenės vadas koordinuoja karinių skrydžių saugos programos įgyvendinimą, išduoda licencijas, pažymėjimus ir vykdo kitų teisės aktų jam suteiktas funkcijas.
 
@@ -640,11 +676,23 @@ Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010IS
 
 2. Aerodromo sanitarinės apsaugos zonos teritorijos ribos nustatomos atsižvelgiant į triukšmo, elektromagnetinės energijos dydžius, oro, dirvožemio ir vandens taršą.
 
-3. CAA ir kariuomenės vadas atitinkamai turi teisę uždrausti civilinių ir karinių aerodromų apsaugos zonose įrengti arba naudoti žiburius, galinčius kelti pavojų orlaivių skrydžių saugai.
+3. LTSA ir kariuomenės vadas atitinkamai turi teisę uždrausti civilinių ir karinių aerodromų apsaugos zonose įrengti arba naudoti žiburius, galinčius kelti pavojų orlaivių skrydžių saugai.
 
-4. Statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 100 m ir daugiau, statyba, rekonstravimas ar įrengimas, išskyrus aerodromo apsaugos ir sanitarines apsaugos zonas, Vyriausybės nustatyta tvarka turi būti suderinti su CAA ir kariuomenės vadu, o pasienio ruože statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 30 m ir daugiau, – ir su Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos.
+Straipsnio dalies pakeitimai:
 
-5. Kliūtys turi būti ženklinamos tam tikrais nakties ir dienos ženklais. Jų įrengimo ir naudojimo tvarką nustato CAA, suderinusi su kariuomenės vadu.
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+4. Statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 100 m ir daugiau, statyba, rekonstravimas ar įrengimas, išskyrus aerodromo apsaugos ir sanitarines apsaugos zonas, Vyriausybės nustatyta tvarka turi būti suderinti su Agentūra ir kariuomenės vadu, o pasienio ruože statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 30 m ir daugiau, – ir su Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+5. Kliūtys turi būti ženklinamos tam tikrais nakties ir dienos ženklais. Jų įrengimo ir naudojimo tvarką nustato LTSA, suderinusi su kariuomenės vadu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Straipsnio pakeitimai:
 
@@ -656,9 +704,17 @@ Civilinių aerodromų naudojimo valstybės orlaivių reikmėms ir karinių aerod
 
 12 straipsnis. Valstybės orlaivių eksploatavimas
 
-1. Kariuomenės vadas nustato karinių orlaivių skrydžiams taikomus reikalavimus. Šie reikalavimai turi būti tokie, kad nekeltų grėsmės civilinių orlaivių saugai, ir todėl turi būti derinami su CAA. Karinių orlaivių eksploatavimo priežiūrą atlieka kariuomenės vadas.
+1. Kariuomenės vadas nustato karinių orlaivių skrydžiams taikomus reikalavimus. Šie reikalavimai turi būti tokie, kad nekeltų grėsmės civilinių orlaivių saugai, ir todėl turi būti derinami su LTSA. Karinių orlaivių eksploatavimo priežiūrą atlieka kariuomenės vadas.
 
-2. Nekariniai valstybės orlaiviai registruojami Lietuvos Respublikos civilinių orlaivių registre ir jiems taikomos šio įstatymo III skyriaus civilinės aviacijos taisyklės. Tokiems nekariniams valstybės orlaiviams CAA gali padaryti šio įstatymo III skyriaus taisyklių išimtis, jeigu atitinkami skrydžiai nekenks tarptautiniam ar komerciniam vidaus eismui, įskaitant oro erdvę ir oro uostus, naudojamus šiam eismui. Prireikus CAA nustato ir kitus reikalavimus. Nekarinių valstybės orlaivių eksploatavimą prižiūri CAA.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+2. Nekariniai valstybės orlaiviai registruojami Lietuvos Respublikos civilinių orlaivių registre ir jiems taikomos šio įstatymo III skyriuje nustatytos civilinės aviacijos taisyklės. Tokiems nekariniams valstybės orlaiviams LTSA gali padaryti šio įstatymo III skyriuje nustatytų taisyklių išimtis, jeigu atitinkami skrydžiai nekenks tarptautiniam ar komerciniam vidaus eismui, įskaitant oro erdvę ir oro uostus, naudojamus šiam eismui. Prireikus LTSA nustato ir kitus reikalavimus. Nekarinių valstybės orlaivių eksploatavimą prižiūri Agentūra.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 3. Jeigu konkrečiais atvejais Vyriausybė nenusprendžia kitaip, karinių orlaivių avarijos ir incidentai tiriami krašto apsaugos ministro nustatyta tvarka.
 
@@ -686,21 +742,37 @@ Papildyta straipsnio dalimi:
 
 Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
 
-4. Lietuvos Respublikos oro erdvė, nepažeidžiant šio straipsnio 1 dalies nuostatų, gali būti funkcinio oro erdvės bloko dalimi, kaip tai numatyta 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009.
+4. Lietuvos Respublikos oro erdvė, nepažeidžiant šio straipsnio 1 dalies nuostatų, gali būti funkcinio oro erdvės bloko dalimi, kaip tai numatyta Reglamente (EB) Nr. 550/2004.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010ISTA00XII-50
 
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
 14 straipsnis. Oro erdvės tvarkyba ir skrydžių taisyklės
 
-1. Oro erdvės organizavimas turi kiek įmanoma tiksliau atitikti Tarptautinės civilinės aviacijos organizacijos (toliau – ICAO) standartus ir rekomenduojamą praktiką. Lietuvos Respublikos oro erdvės organizavimo taisykles rengia CAA ir kariuomenės vadas, tvirtina Vyriausybė.
+1. Oro erdvės organizavimas turi kiek įmanoma tiksliau atitikti Tarptautinės civilinės aviacijos organizacijos (toliau – ICAO) standartus ir rekomenduojamą praktiką. Lietuvos Respublikos oro erdvės organizavimo taisykles rengia LTSA ir kariuomenės vadas, tvirtina Vyriausybė.
 
-2. Skrydžiai Lietuvos Respublikos oro erdve, išskyrus karinių orlaivių skrydžius, vykdomus atliekant karines operacijas ir mokymus, vykdomi laikantis 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamente (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010, nustatytų sąlygų ir tvarkos. Specialius reikalavimus, taikomus karinių orlaivių skrydžiams, vykdomiems atliekant karines operacijas ir mokymus, nustato kariuomenės vadas. Šie reikalavimai turi būti tokie, kad nekiltų grėsmė civilinių orlaivių saugai.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+2. Skrydžiai Lietuvos Respublikos oro erdve, išskyrus karinių orlaivių skrydžius, vykdomus atliekant karines operacijas ir mokymus, vykdomi laikantis Reglamente (ES) Nr. 923/2012 nustatytų sąlygų ir tvarkos. Specialius reikalavimus, taikomus karinių orlaivių skrydžiams, vykdomiems atliekant karines operacijas ir mokymus, nustato kariuomenės vadas. Šie reikalavimai turi būti tokie, kad nekiltų grėsmė civilinių orlaivių saugai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 3. Oro erdvėje virš jūros dalies, esančios už teritorinių vandenų, kurioje Lietuvos Respublika pagal tarptautines sutartis yra prisiėmusi atsakomybę teikti oro eismo paslaugas, taikomos Lietuvos Respublikoje galiojančios skrydžių taisyklės.
 
-4. Karinės būtinybės arba visuomenės saugos sumetimais susisiekimo ministras gali paskelbti tam tikras oro erdvės dalis kaip draudžiamas, ribojamas arba pavojingas civilinei aviacijai zonas, kuriose taikomos specialios procedūros. Tokie sprendimai priimami CAA teikimu, suderintu su kariuomenės vadu. Draudimai ir apribojimai neturi būti taikomi ilgiau, negu to reikalauja juos sukėlusios priežastys.
+4. Karinės būtinybės arba visuomenės saugos tikslais susisiekimo ministras gali paskelbti tam tikras oro erdvės dalis kaip draudžiamas, ribojamas arba pavojingas civilinei aviacijai zonas, kuriose taikomos specialios procedūros. Tokie sprendimai priimami LTSA teikimu, suderintu su kariuomenės vadu. Draudimai ir apribojimai neturi būti taikomi ilgiau, negu to reikalauja juos sukėlusios priežastys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Straipsnio pakeitimai:
 
@@ -710,11 +782,13 @@ Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010IS
 
 1. Oro eismo paslaugas civiliniams ir valstybės orlaiviams taikos metu teikia susisiekimo ministro paskirtas juridinis asmuo, turintis atitinkamą oro navigacijos paslaugų teikėjo pažymėjimą.
 
-2. Oro eismo paslaugų teikimo sąlygas ir tvarką kartu rengia CAA ir kariuomenės vadas, o tvirtina susisiekimo ministras.
+2. Oro eismo paslaugų teikimo sąlygas ir tvarką kartu rengia LTSA ir kariuomenės vadas, o tvirtina susisiekimo ministras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 3. Susisiekimo ministras Vyriausybės pritarimu turi teisę sudaryti su atitinkamais kitų valstybių paslaugų teikėjais, turinčiais Bendrijoje išduotą paslaugų teikėjo pažymėjimą, institucijomis arba tarptautinėmis organizacijomis sutartis dėl oro eismo paslaugų teikimo ir su tuo susijusių kitų funkcijų perdavimo tam tikrose Lietuvos Respublikos oro erdvės dalyse arba prisiimti tokius įsipareigojimus iš kitų valstybių ar tarptautinių organizacijų.
 
@@ -722,29 +796,23 @@ Straipsnio pakeitimai:
 
 Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
 
-16 straipsnis. Ryšių, navigacijos ir stebėjimo paslaugos bei skrydžių valdymo įrenginiai
+16 straipsnis. Ryšių, navigacijos ir stebėjimo paslaugos bei skrydžių valdymo įrenginiai
 
-1. Ryšių, navigacijos ir stebėjimo paslaugų teikimo tvarką ir sąlygas nustato CAA.
+1. Ryšių, navigacijos ir stebėjimo paslaugų teikimo tvarką ir sąlygas nustato LTSA.
 
-Straipsnio dalies pakeitimai:
-
-Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
-
-2. Teikiant oro eismo paslaugas galima naudoti tik tuos ryšių, navigacijos, stebėjimo ir skrydžių valdymo įrenginius, kurie atitinka CAA nustatytus reikalavimus. Karinėje aviacijoje ir koviniam valdymui naudojamiems įrenginiams, kurie gali turėti įtakos civilinių orlaivių skrydžių saugai, taikomi CAA nustatyti reikalavimai.
+2. Teikiant oro eismo paslaugas galima naudoti tik tuos ryšių, navigacijos, stebėjimo ir skrydžių valdymo įrenginius, kurie atitinka LTSA nustatytus reikalavimus. Karinėje aviacijoje ir koviniam valdymui naudojamiems įrenginiams, kurie gali turėti įtakos civilinių orlaivių skrydžių saugai, taikomi LTSA nustatyti reikalavimai.
 
 Straipsnio pakeitimai:
 
 Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
 
-17 straipsnis. Oro navigacijos informacijos paslaugos
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
-1. Oro navigacijos informacijos paslaugų teikimo tvarką ir sąlygas nustato CAA.
+17 straipsnis. Oro navigacijos informacijos paslaugos
 
-Straipsnio dalies pakeitimai:
+1. Oro navigacijos informacijos paslaugų teikimo tvarką ir sąlygas nustato LTSA.
 
-Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
-
-2. Asmenys, turintys oro navigacijos informacijos, privalo ją nemokamai teikti CAA arba jos įgaliotam juridiniam asmeniui.
+2. Asmenys, turintys oro navigacijos informacijos, privalo ją nemokamai teikti LTSA arba jos įgaliotam juridiniam asmeniui.
 
 Straipsnio pakeitimai:
 
@@ -752,15 +820,19 @@ Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010IS
 
 Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
 
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
 18 straipsnis. Meteorologijos paslaugos
 
 1. Meteorologijos paslaugas teikia aplinkos ministro paskirtas juridinis asmuo, turintis atitinkamą oro navigacijos paslaugų teikėjo pažymėjimą.
 
-2. Meteorologijos paslaugų teikimo tvarką ir sąlygas rengia CAA su Lietuvos hidrometeorologijos tarnyba prie Aplinkos ministerijos, o tvirtina aplinkos ministras ir susisiekimo ministras.
+2. Meteorologijos paslaugų teikimo tvarką ir sąlygas rengia LTSA su Lietuvos hidrometeorologijos tarnyba prie Aplinkos ministerijos, o tvirtina aplinkos ministras ir susisiekimo ministras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 3. Aplinkos ministras Vyriausybės pritarimu turi teisę sudaryti su atitinkamais kitų valstybių paslaugų teikėjais, turinčiais Bendrijoje išduotą paslaugų teikėjo pažymėjimą, institucijomis arba tarptautinėmis organizacijomis sutartis dėl meteorologijos paslaugų teikimo ir su tuo susijusių kitų funkcijų perdavimo tam tikrose Lietuvos Respublikos oro erdvės dalyse arba prisiimti tokius įsipareigojimus iš kitų valstybių ar tarptautinių organizacijų.
 
@@ -786,9 +858,17 @@ Pirmasis skirsnis
 
 ORLAIVIŲ REGISTRAVIMAS IR ŽENKLINIMAS
 
-20 straipsnis. Lietuvos Respublikos civilinių orlaivių registro tvarkytojas
+20 straipsnis. Lietuvos Respublikos civilinių orlaivių registras
 
-Lietuvos Respublikos civilinių orlaivių registro tvarkytojas yra CAA.
+1. Lietuvos Respublikos civilinių orlaivių registro valdytoja yra Susisiekimo ministerija.
+
+2. Lietuvos Respublikos civilinių orlaivių registro tvarkytoją skiria Vyriausybė.
+
+3. Lietuvos Respublikos civilinių orlaivių registro objektai yra civiliniai ir nekariniai valstybės orlaiviai.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 21 straipsnis. Civilinių orlaivių registravimo sąlygos
 
@@ -820,11 +900,19 @@ Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA
 
 22 straipsnis. Dokumentai, reikalingi orlaiviui registruoti
 
-Orlaivio savininkas arba jo įgaliotas atstovas privalo raštu pateikti CAA paraišką registruoti orlaivį. Prie paraiškos turi būti pridėti dokumentai, patvirtinantys, kad pareiškėjas yra orlaivio savininkas, ir įvykdytos kitos šio įstatymo 21 straipsnio 1 dalyje nustatytos sąlygos.
+Orlaivio savininkas arba jo įgaliotas atstovas privalo raštu pateikti Lietuvos Respublikos civilinių orlaivių registro tvarkytojui (toliau – registro tvarkytojas) paraišką registruoti orlaivį. Prie paraiškos turi būti pridėti dokumentai, patvirtinantys, kad pareiškėjas yra orlaivio savininkas, ir įvykdytos kitos šio įstatymo 21 straipsnio 1 dalyje nustatytos sąlygos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 23 straipsnis. Registruotina informacija
 
-CAA turi įrašyti į Lietuvos Respublikos civilinių orlaivių registrą informaciją apie orlaivį, jo savininką ir orlaivio naudotoją, orlaivio įkeitimą, jeigu šis įkeistas, arba orlaivio areštą.
+Registro tvarkytojas turi įrašyti į Lietuvos Respublikos civilinių orlaivių registrą informaciją apie orlaivį, jo savininką ir orlaivio naudotoją, orlaivio įkeitimą, jeigu šis įkeistas, arba orlaivio areštą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 24 straipsnis. Laikinas registravimas
 
@@ -832,15 +920,17 @@ Orlaivis gali būti laikinai įrašytas į Lietuvos Respublikos civilinių orlai
 
 25 straipsnis. Orlaivių nuoma
 
-1. 1991 m. gruodžio 16 d. Tarybos reglamento (EEB) Nr. 3922/91 dėl techninių reikalavimų ir administracinės tvarkos suderinimo civilinės aviacijos srityje su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 20 d. Komisijos reglamentu (EB) Nr. 859/2008, ir 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių nustatytais atvejais orlaivių nuomos be įgulos ir nuomos su įgula sutartys turi būti patvirtintos Susisiekimo ministerijos ir (arba) CAA pagal susisiekimo ministro nustatytas sąlygas ir tvarką.
+1. Reglamento (ES) Nr. 965/2012 ir Reglamento (EB) Nr. 1008/2008 nustatytais atvejais orlaivių nuomos be įgulos ir nuomos su įgula sutartys turi būti patvirtintos Susisiekimo ministerijos ir (arba) Agentūros pagal susisiekimo ministro nustatytas sąlygas ir tvarką.
 
-2. Protokolo dėl Tarptautinės civilinės aviacijos konvencijos pakeitimo (83 bis straipsnis), pasirašyto 1980 m. spalio 6 d. Monrealyje, nustatytais atvejais CAA turi teisę sudaryti sutartis su atitinkama kitos valstybės įgaliota institucija dėl funkcijų ir pareigų, susijusių su orlaiviu, perdavimo.
+2. Protokolo dėl Tarptautinės civilinės aviacijos konvencijos pakeitimo (83 bis straipsnis), pasirašyto 1980 m. spalio 6 d. Monrealyje, nustatytais atvejais Agentūra turi teisę sudaryti sutartis su atitinkama kitos valstybės įgaliota institucija dėl funkcijų ir pareigų, susijusių su orlaiviu, perdavimo.
 
 Straipsnio pakeitimai:
 
 Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 26 straipsnis. Civilinio orlaivio registravimo panaikinimas
 
@@ -854,7 +944,11 @@ Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010IS
 
 4) jei orlaivis yra sunaikintas arba prarastas, o prarasto orlaivio paieška nutraukta;
 
-5) jei orlaivis pastaruosius trejus metus neturėjo galiojančio tinkamumo skraidyti pažymėjimo, išskyrus tuos atvejus, kai savininkas arba jo įgaliotas atstovas per CAA nustatytą laiką pateikė įrodymų, kad orlaivis yra tinkamas skraidyti.
+5) jei orlaivis pastaruosius trejus metus neturėjo galiojančio tinkamumo skraidyti pažymėjimo, išskyrus atvejus, kai savininkas arba jo įgaliotas atstovas per registro tvarkytojo nustatytą laiką pateikė įrodymų, kad orlaivis yra tinkamas skraidyti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 2. Jeigu Lietuvos Respublikos civilinių orlaivių registre įrašyta, kad orlaivis yra įkeistas arba areštuotas, jo registravimas negali būti panaikintas be įkaito davėjo sutikimo arba atitinkamų institucijų rašytinio pranešimo, kad orlaivio areštas panaikintas.
 
@@ -866,9 +960,13 @@ Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010IS
 
 28 straipsnis. Nacionaliniai ir registravimo ženklai
 
-1. Orlaiviai, registruoti Lietuvos Respublikos civilinių orlaivių registre, turi būti ženklinami ICAO suteiktu valstybės nacionaliniu ženklu „LY“ bei CAA suteiktu registravimo ženklu.
+1. Orlaiviai, registruoti Lietuvos Respublikos civilinių orlaivių registre, turi būti ženklinami ICAO suteiktu valstybės nacionaliniu ženklu „LY“ ir registro tvarkytojo suteiktu registravimo ženklu.
 
-2. Registravimo ženklų suteikimo bei orlaivių ženklinimo tvarką nustato CAA.
+2. Registravimo ženklų suteikimo ir orlaivių ženklinimo tvarką nustato LTSA.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Antrasis skirsnis
 
@@ -878,31 +976,49 @@ ORLAIVIO TINKAMUMAS SKRAIDYTI IR APLINKOS APSAUGOS REIKALAVIMAI
 
 1. Lietuvos Respublikos oro erdvėje gali skristi tik orlaiviai, kurie yra tinkami skraidyti ir turi galiojantį tinkamumo skraidyti pažymėjimą.
 
-2. Orlaivis gali būti pripažįstamas tinkamu skraidyti, jeigu jis atitinkamai suprojektuotas, pagamintas, įrengtas bei techniškai prižiūrimas ir jo skridimo savybės atitinka skrydžių saugos reikalavimus, kuriuos nustato CAA.
+2. Orlaivis gali būti pripažįstamas tinkamu skraidyti, jeigu jis atitinkamai suprojektuotas, pagamintas, įrengtas bei techniškai prižiūrimas ir jo skridimo savybės atitinka skrydžių saugos reikalavimus, kuriuos nustato LTSA.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 3. Šiame straipsnyje nustatyti reikalavimai taikomi ir orlaivio atsarginėms dalims, prietaisams bei įrangai.
 
 30 straipsnis. Tinkamumo skraidyti pažymėjimas
 
-1. Orlaiviui, pripažintam tinkamu skraidyti, CAA išduoda tinkamumo skraidyti pažymėjimą, galiojantį iki jame nustatyto laiko. CAA, atsižvelgdama į orlaivio techninę būklę, gali nustatyti orlaivio eksploatavimo apribojimus.
+1. Orlaiviui, pripažintam tinkamu skraidyti, Agentūra išduoda tinkamumo skraidyti pažymėjimą, galiojantį iki jame nustatyto laiko. Agentūra, atsižvelgdama į orlaivio techninę būklę, gali nustatyti orlaivio eksploatavimo apribojimus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
 
-2. Gavusi rašytinę orlaivio savininko arba naudotojo paraišką, CAA turi teisę pratęsti tinkamumo skraidyti pažymėjimo galiojimą, jeigu nustato, kad orlaivis atitinka tinkamumo skraidyti reikalavimus.
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
-3. Jeigu CAA nustato, kad Lietuvos Respublikoje registruotas orlaivis yra netinkamas skraidyti, ji turi sustabdyti tinkamumo skraidyti pažymėjimo galiojimą, kol bus nustatyta, kad orlaivis yra tinkamas skraidyti. Tinkamumo skraidyti pažymėjimas, kurio galiojimas buvo sustabdytas, turi būti grąžintas CAA.
+2. Gavusi rašytinę orlaivio savininko arba naudotojo paraišką, Agentūra turi teisę pratęsti tinkamumo skraidyti pažymėjimo galiojimą, jeigu nustato, kad orlaivis atitinka tinkamumo skraidyti reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+3. Jeigu Agentūra nustato, kad Lietuvos Respublikoje registruotas orlaivis yra netinkamas skraidyti, ji turi sustabdyti tinkamumo skraidyti pažymėjimo galiojimą, kol bus nustatyta, kad orlaivis yra tinkamas skraidyti. Tinkamumo skraidyti pažymėjimas, kurio galiojimas buvo sustabdytas, turi būti grąžintas Agentūrai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 4. Lietuvos Respublikoje nustatyta tvarka gali būti pripažįstami Čikagos konvencijos valstybių narių išduoti tinkamumo skraidyti pažymėjimai, jeigu jie išduoti laikantis ne mažesnių nei minimalūs reikalavimų, įrašytų į standartus, parengtus vadovaujantis Čikagos konvencija.
 
-5. Paraiškų gauti orlaivio tinkamumo skraidyti pažymėjimą pateikimo, tinkamumo skraidyti nustatymo, tinkamumo skraidyti pažymėjimų išdavimo, galiojimo pratęsimo, sustabdymo ir atšaukimo bei užsienio valstybių išduotų tinkamumo skraidyti pažymėjimų pripažinimo sąlygas ir tvarką nustato CAA.
+5. Paraiškų gauti orlaivio tinkamumo skraidyti pažymėjimą pateikimo, tinkamumo skraidyti nustatymo, tinkamumo skraidyti pažymėjimų išdavimo, galiojimo pratęsimo, sustabdymo ir atšaukimo bei užsienio valstybių išduotų tinkamumo skraidyti pažymėjimų pripažinimo sąlygas ir tvarką nustato LTSA.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 31 straipsnis. Tinkamumo skraidyti priežiūra
 
-1. Lietuvos Respublikos civilinių orlaivių registre registruoto orlaivio tinkamumo skraidyti priežiūrą vykdo CAA.
+1. Lietuvos Respublikos civilinių orlaivių registre registruoto orlaivio tinkamumo skraidyti priežiūrą vykdo Agentūra.
 
-2. CAA, vykdydama priežiūrą, atlieka orlaivio tinkamumo skraidyti tyrimą šiais būdais:
+2. Agentūra, vykdydama priežiūrą, atlieka orlaivio tinkamumo skraidyti tyrimą šiais būdais:
 
 1) orlaivio savininko arba naudotojo pateiktų techninės priežiūros ir kitų techninių ataskaitų įvertinimu;
 
@@ -910,29 +1026,41 @@ Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA
 
 3) prireikus bandomaisiais skrydžiais.
 
-3. CAA savo nuožiūra gali patikrinti orlaivio tinkamumą skraidyti viso orlaivio tinkamumo skraidyti pažymėjimo galiojimo metu arba patikrinti orlaivį jo savininko arba naudotojo prašymu.
+3. Agentūra savo nuožiūra gali patikrinti orlaivio tinkamumą skraidyti viso orlaivio tinkamumo skraidyti pažymėjimo galiojimo metu arba patikrinti orlaivį jo savininko arba naudotojo prašymu.
 
-4. Orlaivio savininkas arba naudotojas turi pateikti CAA visą informaciją apie orlaivio tinkamumą skraidyti, techninę priežiūrą, orlaivio dalių pakeitimą ar taisymą, taip pat visą statistinę informaciją apie jo naudojimą. CAA įgalioti atstovai, vykdydami orlaivio tinkamumo skraidyti priežiūrą, turi teisę netrukdomi patekti į savininko arba naudotojo aviacijos paskirties administracines bei gamybines patalpas, taip pat į orlaivį ir juo skristi.
+4. Orlaivio savininkas arba naudotojas turi pateikti Agentūrai visą informaciją apie orlaivio tinkamumą skraidyti, techninę priežiūrą, orlaivio dalių pakeitimą ar taisymą, taip pat visą statistinę informaciją apie jo naudojimą. Agentūros įgalioti atstovai, vykdydami orlaivio tinkamumo skraidyti priežiūrą, turi teisę netrukdomi patekti į savininko arba naudotojo aviacijos paskirties administracines bei gamybines patalpas, taip pat į orlaivį ir juo skristi.
 
-5. Bandomuosius skrydžius turi atlikti savininkas arba naudotojas, prižiūrimas CAA įgalioto atstovo.
+5. Bandomuosius skrydžius turi atlikti savininkas arba naudotojas, prižiūrimas Agentūros įgalioto atstovo.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 32 straipsnis. Atsakomybė už orlaivio tinkamumą skraidyti
 
 1. Už orlaivio tinkamumą skraidyti atsako jo savininkas arba naudotojas.
 
-2. Orlaivio savininkas arba naudotojas privalo laikytis tinkamumo skraidyti nurodymų (direktyvų), išleidžiamų CAA arba valstybės, kurioje orlaivis buvo suprojektuotas ar pagamintas, jeigu CAA nenurodo kitaip.
-
-3. Orlaivio savininkas arba naudotojas nedelsdamas privalo pranešti CAA apie visas aplinkybes, įvykius ir gedimus, kurie gali turėti įtakos orlaivio tinkamumui skraidyti.
-
-33 straipsnis. Užsienio valstybių orlaivių tinkamumas skraidyti
-
-1. CAA turi teisę įvertinti Lietuvos Respublikoje esančių užsienio valstybių orlaivių tinkamumą skraidyti.
-
-2. Jeigu CAA nustato, kad užsienio valstybės orlaivis yra netinkamas skraidyti arba orlaivyje yra gedimų, kurie gali turėti įtakos tinkamumui skraidyti, CAA turi teisę neleisti jam pakilti. CAA privalo pranešti tos valstybės atsakingai institucijai apie orlaivio būklę ir CAA sprendimą. Jeigu užsienio valstybės institucija nusprendžia, kad orlaivis yra netinkamas skraidyti, bet tam tikromis sąlygomis jis gali būti perskraidintas į remonto vietą, tokiu atveju, jeigu bus įvykdytos šios institucijos ir CAA nustatytos sąlygos, orlaiviui leidžiama pakilti. Tokio skrydžio metu orlaivyje gali būti tik orlaivio įgula ir techniniai specialistai.
+2. Orlaivio savininkas arba naudotojas privalo laikytis tinkamumo skraidyti nurodymų (direktyvų), išleidžiamų Agentūros arba valstybės, kurioje orlaivis buvo suprojektuotas ar pagamintas, jeigu Agentūra nenurodo kitaip.
 
 Straipsnio dalies pakeitimai:
 
-Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+3. Orlaivio savininkas arba naudotojas nedelsdamas privalo pranešti Agentūrai apie visas aplinkybes, įvykius ir gedimus, kurie gali turėti įtakos orlaivio tinkamumui skraidyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+33 straipsnis. Užsienio valstybių orlaivių tinkamumas skraidyti
+
+1. Agentūra turi teisę įvertinti Lietuvos Respublikoje esančių užsienio valstybių orlaivių tinkamumą skraidyti.
+
+2. Jeigu Agentūra nustato, kad užsienio valstybės orlaivis yra netinkamas skraidyti arba orlaivyje yra gedimų, kurie gali turėti įtakos jo tinkamumui skraidyti, Agentūra turi teisę neleisti jam pakilti. Agentūra privalo pranešti tos valstybės atsakingai institucijai apie orlaivio būklę ir Agentūros sprendimą. Jeigu užsienio valstybės institucija nusprendžia, kad orlaivis yra netinkamas skraidyti, bet tam tikromis sąlygomis jis gali būti perskraidintas į remonto vietą, tokiu atveju, jeigu bus įvykdytos šios institucijos ir Agentūros nustatytos sąlygos, orlaiviui leidžiama pakilti. Tokio skrydžio metu orlaivyje gali būti tik orlaivio įgula ir techniniai specialistai.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 34 straipsnis. Aplinkos apsaugos reikalavimai
 
@@ -940,7 +1068,11 @@ Lietuvos Respublikos oro erdve gali skristi tik orlaiviai, kurių keliamas triuk
 
 35 straipsnis. Specialieji leidimai skrydžiams
 
-1. Išimtiniais atvejais CAA gali duoti specialųjį leidimą skrydžiui tokiu orlaiviu, kuriam bendra tvarka negali būti išduotas tinkamumo skraidyti pažymėjimas, bet toks orlaivis gali saugiai skraidyti laikydamasis tam tikrų apribojimų.
+1. Išimtiniais atvejais Agentūra gali duoti specialųjį leidimą skrydžiui tokiu orlaiviu, kuriam bendra tvarka negali būti išduotas tinkamumo skraidyti pažymėjimas, bet toks orlaivis gali saugiai skraidyti laikydamasis tam tikrų apribojimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 2. Tokie leidimai gali būti išduodami bandomiesiems skrydžiams, perskraidinti orlaivius į remonto vietą ir kitais atvejais.
 
@@ -950,19 +1082,17 @@ Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
 
 36 straipsnis. Civilinių orlaivių, jų įrangos (komponentų) gamyba ir techninė priežiūra
 
-1. CAA nustato civilinių orlaivių ir jų įrangos (komponentų) gamybos ir techninės priežiūros reikalavimus. Lietuvos Respublikoje įmonės gali gaminti civilinius orlaivius ar jų įrangą (komponentus), taip pat atlikti civilinių orlaivių techninės priežiūros darbus tik turėdamos atitinkamą CAA išduotą pažymėjimą ir laikydamosi šiame pažymėjime nurodytų reikalavimų. Vadovaujantis 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančiu Europos aviacijos saugos agentūrą, panaikinančiu Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB, Lietuvos Respublikoje gaminami civiliniai orlaiviai sertifikuojami Europos aviacijos saugos agentūros (EASA) nustatyta tvarka ir sąlygomis.
+1. LTSA nustato civilinių orlaivių ir jų įrangos (komponentų) gamybos ir techninės priežiūros reikalavimus. Lietuvos Respublikoje įmonės gali gaminti civilinius orlaivius ar jų įrangą (komponentus), taip pat atlikti civilinių orlaivių techninės priežiūros darbus tik turėdamos atitinkamą Agentūros išduotą pažymėjimą ir laikydamosi šiame pažymėjime nurodytų reikalavimų. Vadovaujantis Reglamentu (ES) Nr. 2018/1139, Lietuvos Respublikoje gaminami civiliniai orlaiviai sertifikuojami Europos aviacijos saugos agentūros (EASA) nustatyta tvarka ir sąlygomis.
 
-Straipsnio dalies pakeitimai:
+2. Pažymėjimų, suteikiančių civilinių orlaivių, jų įrangos (komponentų) gamybos ir techninės priežiūros darbų atlikimo teisę, išdavimo tvarką nustato LTSA. Agentūra prižiūri, kaip pažymėjimus turinčios įmonės laikosi nustatytų reikalavimų. Agentūros atstovai turi teisę nekliudomi apžiūrėti pažymėjimus turinčių įmonių gamybines patalpas ir įrangą, taip pat gauti visą informaciją ir dokumentus, susijusius su pažymėjime nurodytos veiklos vykdymu.
 
-Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
-
-2. Pažymėjimų, suteikiančių civilinių orlaivių, jų įrangos (komponentų) gamybos ir techninės priežiūros darbų atlikimo teisę, išdavimo sąlygas ir tvarką nustato CAA. CAA prižiūri, kaip pažymėjimus turinčios įmonės laikosi nustatytų reikalavimų. CAA atstovai turi teisę nekliudomi apžiūrėti pažymėjimus turinčių įmonių gamybines patalpas ir įrangą, taip pat gauti visą informaciją ir dokumentus, susijusius su pažymėjime nurodytos veiklos vykdymu.
-
-3. Šio straipsnio 1 dalies reikalavimai netaikomi orlaiviams ir jų įrangai (komponentams), kurie neturi EASA išduotų ar pripažintų tipo pažymėjimų, gaminti ar jų techninei priežiūrai vykdyti. Tokių orlaivių gamybos, techninės priežiūros vykdymo, tinkamumo skraidyti nustatymo ir naudojimo sąlygas bei tvarką nustato CAA.
+3. Šio straipsnio 1 dalyje nustatyti reikalavimai netaikomi orlaiviams ir jų įrangai (komponentams), kurie neturi EASA išduotų ar pripažintų tipo pažymėjimų, gaminti ar jų techninei priežiūrai vykdyti. Tokių orlaivių gamybos, techninės priežiūros vykdymo, tinkamumo skraidyti nustatymo ir naudojimo sąlygas bei tvarką nustato LTSA.
 
 Straipsnio pakeitimai:
 
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Trečiasis skirsnis
 
@@ -970,7 +1100,11 @@ ORO UOSTAI, AERODROMAI IR LAUKO AIKŠTELĖS
 
 37 straipsnis. Civilinio aerodromo statyba ir rekonstrukcija
 
-1. Civilinis aerodromas, taip pat skrydžių valdymo sistemos įrenginiai statomi arba rekonstruojami Statybos įstatymo ir kitų teisės aktų nustatyta tvarka bei suderinus su CAA. Civilinio aerodromo vieta numatoma teritorijų planavimo dokumentuose.
+1. Civilinis aerodromas, taip pat skrydžių valdymo sistemos įrenginiai statomi arba rekonstruojami Statybos įstatymo ir kitų teisės aktų nustatyta tvarka bei suderinus su Agentūra. Civilinio aerodromo vieta numatoma teritorijų planavimo dokumentuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 2. Jeigu aerodromo apsaugos zonoje augantys medžiai, jų grupės ir krūmai kelia pavojų skrydžių saugai, jie kertami ar kitaip pertvarkomi teisės aktų nustatyta tvarka.
 
@@ -980,7 +1114,11 @@ Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA
 
 38 straipsnis. Reikalavimai oro uostui, iš kurio vyksta oro susisiekimas
 
-1. Oro susisiekimas gali būti vykdomas tik iš oro uostų, kurie atitinka CAA nustatytus reikalavimus.
+1. Oro susisiekimas gali būti vykdomas tik iš oro uostų, kurie atitinka LTSA nustatytus reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 2. Oro uoste, iš kurio vyksta tarptautiniai skrydžiai, turi būti atitinkamos muitinės, pasienio kontrolės ir kitos tarnybos.
 
@@ -990,39 +1128,45 @@ Tam tikrose tarptautinio oro uosto teritorijos dalyse steigiami ar veikia Valsty
 
 40 straipsnis. Civilinio aerodromo priežiūra
 
-CAA turi teisę visada patikrinti, ar civilinis aerodromas atitinka šio įstatymo ir kitų teisės aktų nustatytus reikalavimus. CAA įgalioti atstovai turi teises, nurodytas 2014 m. vasario 12 d. Komisijos reglamento (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros, 3 straipsnio 6 dalyje.
+Agentūra turi teisę visada patikrinti, ar civilinis aerodromas atitinka šio įstatymo ir kitų teisės aktų nustatytus reikalavimus. Agentūros įgalioti atstovai turi teises, nurodytas Reglamento (ES) Nr. 139/2014 3 straipsnio 6 dalyje.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 41 straipsnis. Lauko aikštelės
 
 1. Lauko aikštelė – žemės arba vandens paviršiaus plotas, turintis minimalią įrangą ir skirtas laikinai sraigtasparniams, sklandytuvams ir lengviesiems lėktuvams atskristi, išskristi ir judėti.
 
-2. Lauko aikštelių įrengimo ir naudojimo sąlygas bei tvarką nustato CAA.
-
-42 straipsnis. Civilinių aerodromų tinkamumas naudoti
-
-1. Civilinių orlaivių skrydžiams gali būti naudojami tik tie civiliniai aerodromai, kurie atitinka šio įstatymo, 2014 m. vasario 12 d. Komisijos reglamento (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros, ir kitų teisės aktų reikalavimus ir turi CAA išduotą galiojantį tinkamumo naudoti pažymėjimą.
+2. Lauko aikštelių įrengimo ir naudojimo sąlygas bei tvarką nustato LTSA.
 
 Straipsnio dalies pakeitimai:
 
-Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
-Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
+42 straipsnis. Civilinių aerodromų tinkamumas naudoti
 
-2. Civilinio aerodromo tinkamumo naudoti pažymėjimas išduodamas, pratęsiamas, taip pat nutraukiamas arba sustabdomas jo galiojimas CAA nustatyta tvarka ir sąlygomis.
+1. Civilinių orlaivių skrydžiams gali būti naudojami tik tie civiliniai aerodromai, kurie atitinka šio įstatymo, Reglamento (ES) Nr. 139/2014 ir kitų teisės aktų reikalavimus ir turi Agentūros išduotą galiojantį tinkamumo naudoti pažymėjimą.
 
-3. Už tai, kad civiliniai aerodromai atitiktų nustatytus reikalavimus, atsako aerodromą valdantis fizinis ar juridinis asmuo. Civilinį aerodromą valdantis fizinis ar juridinis asmuo nedelsdamas privalo pranešti CAA apie visas aplinkybes, įvykius arba gedimus, kurie gali turėti įtakos aerodromo ir nustatytų reikalavimų atitikčiai.
+2. Civilinio aerodromo tinkamumo naudoti pažymėjimas išduodamas, pratęsiamas, taip pat jo galiojimas nutraukiamas arba sustabdomas LTSA nustatyta tvarka ir sąlygomis.
+
+3. Už tai, kad civiliniai aerodromai atitiktų nustatytus reikalavimus, atsako aerodromą valdantis fizinis ar juridinis asmuo. Civilinį aerodromą valdantis fizinis ar juridinis asmuo nedelsdamas privalo pranešti Agentūrai apie visas aplinkybes, įvykius arba gedimus, kurie gali turėti įtakos aerodromo ir nustatytų reikalavimų atitikčiai.
 
 Straipsnio pakeitimai:
 
 Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
 
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
 43 straipsnis. Orlaivių atskridimo ir išskridimo laiko koordinavimas
 
-1. Orlaivių atskridimo ir išskridimo laikas koordinuojamas vadovaujantis 1993 m. sausio 18 d. Tarybos reglamento (EEB) Nr. 95/93 dėl laiko tarpsnių paskirstymo Bendrijos oro uostuose bendrųjų taisyklių (su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 793/2004) nuostatomis.
+1. Orlaivių atskridimo ir išskridimo laikas koordinuojamas vadovaujantis Reglamento (EEB) Nr. 95/93 nuostatomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 2. Įgyvendindama šio straipsnio 1 dalyje nurodytą koordinavimą, Susisiekimo ministerija paskelbia oro uostą, kuriame darbas palengvinamas sudarant tvarkaraščius arba kuris yra koordinuojamas, nustato orlaivių atskridimo ir išskridimo laiko koordinavimo oro uostuose sąlygas ir tvarką, skiria oro uosto tvarkaraščių sudarytoją arba laiko tarpsnių koordinatorių, koordinuojamame oro uoste sudaro laiko tarpsnių koordinavimo komitetą.
 
@@ -1056,17 +1200,17 @@ Ketvirtasis skirsnis
 
 CIVILINĖS AVIACIJOS SPECIALISTAI
 
-45 straipsnis. Specialistų rengimas
+45 straipsnis. Specialistų rengimas
 
-1. Specialistus rengti, perkvalifikuoti ir kelti jų kvalifikaciją gali CAA akredituotos mokymo įstaigos.
+1. Specialistus rengti, perkvalifikuoti ir kelti jų kvalifikaciją gali Agentūros akredituotos mokymo įstaigos.
 
-2. Susisiekimo ministro nustatyta tvarka CAA akredituoja ir išduoda atitinkamus pažymėjimus:
+2. Susisiekimo ministro nustatyta tvarka Agentūra akredituoja ir išduoda atitinkamus pažymėjimus:
 
-1) mokymo įstaigoms, rengiančioms ir perkvalifikuojančioms orlaivių techninės priežiūros specialistus ir atitinkančioms 2003 m. lapkričio 20 d. Komisijos reglamento (EB) Nr. 2042/2003 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo IV priedo reikalavimus;
+1) mokymo įstaigoms, rengiančioms ir perkvalifikuojančioms orlaivių techninės priežiūros specialistus ir atitinkančioms Reglamento (ES) Nr. 1321/2014 reikalavimus;
 
-2) mokymo įstaigoms, rengiančioms ir perkvalifikuojančioms orlaivių įgulų narius bei skrydžių vadovus ir atitinkančioms CAA nustatytus reikalavimus.
+2) mokymo įstaigoms, rengiančioms ir perkvalifikuojančioms orlaivių įgulų narius bei skrydžių vadovus ir atitinkančioms LTSA nustatytus reikalavimus.
 
-3. Susisiekimo ministro nustatyta tvarka CAA gali sustabdyti mokymo įstaigos pažymėjimo galiojimą ir nustatyti terminą trūkumams pašalinti, jeigu mokymo įstaiga:
+3. Susisiekimo ministro nustatyta tvarka Agentūra gali sustabdyti mokymo įstaigos pažymėjimo galiojimą ir nustatyti terminą trūkumams pašalinti, jeigu mokymo įstaiga:
 
 1) užsiima veikla, kuri nenurodyta išduotame pažymėjimo priede;
 
@@ -1076,7 +1220,7 @@ CIVILINĖS AVIACIJOS SPECIALISTAI
 
 4. Mokymo įstaigos pažymėjimo galiojimas panaikinamas:
 
-1) jeigu mokymo įstaigos pažymėjimo galiojimas buvo sustabdytas, o mokymo įstaiga per CAA nustatytą terminą nepašalino nurodytų trūkumų;
+1) jeigu mokymo įstaigos pažymėjimo galiojimas buvo sustabdytas, o mokymo įstaiga per Agentūros nustatytą terminą nepašalino nurodytų trūkumų;
 
 2) mokymo įstaigos prašymu;
 
@@ -1088,31 +1232,45 @@ Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010IS
 
 Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
 
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
 46 straipsnis. Specialisto licencija
 
-1. Naudoti orlaivius ir atlikti jų techninę priežiūrą, atlikti civilinėms reikmėms skirtų ir skrydžių saugą užtikrinančių sistemų ir įrenginių techninę priežiūrą, teikti skrydžių valdymo paslaugas leidžiama asmenims, turintiems atitinkamą CAA išduotą specialisto licenciją. Specialisto licencijos išduodamos aviacijos specialistams – skrydžio įgulos nariams, skrydžių vadovams, skrydžių dispečeriams, aviacijos inžinieriams, technikams ir mechanikams, skrydžių valdymo elektronikos specialistams.
+1. Naudoti orlaivius ir atlikti jų techninę priežiūrą, atlikti civilinėms reikmėms skirtų ir skrydžių saugą užtikrinančių sistemų ir įrenginių techninę priežiūrą, teikti skrydžių valdymo paslaugas leidžiama asmenims, turintiems atitinkamą Agentūros išduotą specialisto licenciją. Specialisto licencijos išduodamos aviacijos specialistams – skrydžio įgulos nariams, skrydžių vadovams, skrydžių dispečeriams, aviacijos inžinieriams, technikams ir mechanikams, skrydžių valdymo elektronikos specialistams.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
 
-2. Specialistų licencijavimo sąlygas ir tvarką nustato susisiekimo ministras.
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+2. Specialistų licencijavimo tvarką nustato susisiekimo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 3. Licencijuojamų specialistų sveikatos būklės reikalavimus nustato sveikatos apsaugos ministras ir susisiekimo ministras.
 
-4. Užsienio valstybėje išduotų specialisto licencijų pripažinimo sąlygas ir tvarką nustato CAA, vadovaudamasi 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančio Europos aviacijos saugos agentūrą, panaikinančio Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB, nuostatomis.
+4. Užsienio valstybėje išduotų specialisto licencijų pripažinimo sąlygas ir tvarką nustato LTSA, vadovaudamasi Reglamento (ES) Nr. 2018/1139 nuostatomis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
 
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
 47 straipsnis. Testai ir tikrinimai
 
-CAA turi teisę visada patikrinti asmens, turinčio licenciją ar licencijos pripažinimo pažymėjimą, teorines žinias ir praktinius įgūdžius, taip pat reikalauti pasitikrinti sveikatą.
+Agentūra turi teisę visada patikrinti asmens, turinčio licenciją ar licencijos pripažinimo pažymėjimą, teorines žinias ir praktinius įgūdžius, taip pat reikalauti, kad jis pasitikrintų sveikatą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 48 straipsnis. Licencijų galiojimo sustabdymas ir nutraukimas
 
-1. Susisiekimo ministro nustatyta tvarka CAA gali nutraukti arba sustabdyti licencijos galiojimą, jeigu:
+1. Susisiekimo ministro nustatyta tvarka Agentūra gali nutraukti arba sustabdyti licencijos galiojimą, jeigu:
 
 1) specialistas nesilaikė šio įstatymo ir kitų teisės aktų nustatytų skrydžių saugos bei aviacijos saugumo reikalavimų;
 
@@ -1122,13 +1280,17 @@ CAA turi teisę visada patikrinti asmens, turinčio licenciją ar licencijos pri
 
 4) specialistas nuteistas už padarytą tyčinę nusikalstamą veiką;
 
-Straipsnio punkto pakeitimai:
-
-Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
-
 5) specialisto kvalifikacija neatitinka nustatytų reikalavimų.
 
-2. CAA turi teisę sustabdyti licencijos galiojimą tol, kol bus atliktas oficialus tyrimas ir priimtas galutinis sprendimas dėl licencijos galiojimo atnaujinimo arba nutraukimo.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+2. Agentūra turi teisę sustabdyti licencijos galiojimą tol, kol bus atliktas oficialus tyrimas ir priimtas galutinis sprendimas dėl licencijos galiojimo atnaujinimo arba nutraukimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 3. Šio straipsnio nuostatos taikomos ir specialistams, kurie turi Lietuvos Respublikoje pripažintas užsienyje išduotas licencijas.
 
@@ -1138,7 +1300,11 @@ ORLAIVIO ĮGULA IR JO VADAS
 
 49 straipsnis. Orlaivio įgula
 
-1. Orlaivio savininkas arba naudotojas privalo sukomplektuoti skrydžio įgulą pagal gamintojo arba CAA kiekvieno orlaivio tipui nustatytus reikalavimus.
+1. Orlaivio savininkas arba naudotojas privalo sukomplektuoti skrydžio įgulą pagal gamintojo arba LTSA kiekvieno orlaivio tipui nustatytus reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 2. Orlaivio įgulos nariai skrydžio laiku privalo turėti galiojančias specialisto licencijas ir sveikatos pažymėjimus.
 
@@ -1166,15 +1332,19 @@ Orlaivio vadas privalo:
 
 2) eksploatuoti orlaivį pagal nustatytas taisykles ir kontroliuoti skrendančio orlaivio techninę būklę;
 
-3) pranešti CAA apie visas aplinkybes, įvykius arba gedimus, galinčius turėti įtakos orlaivio tinkamumui skraidyti;
+3) pranešti Agentūrai apie visas aplinkybes, įvykius arba gedimus, galinčius turėti įtakos orlaivio tinkamumui skraidyti;
 
 4) rūpintis orlaivio keleivių, krovinių, bagažo ir pašto sauga bei saugumu ir palaikyti tvarką orlaivyje;
 
 5) kilus skrydžių saugos pavojui, vykdyti teisės aktų nustatytus reikalavimus ir procedūras, užtikrinančius saugią skrydžių baigtį; apie veiksmus, kurių buvo imtasi, pranešti oro eismo paslaugų tarnybai;
 
-6) apie avariją ar incidentą ir jo aplinkybes nedelsdamas pranešti CAA;
+6) apie avariją ar incidentą ir jo aplinkybes nedelsdamas pranešti Agentūrai;
 
 7) mirties arba gimimo skrendančiame orlaivyje atveju surašyti atitinkamą aktą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 52 straipsnis. Orlaivio vado teisės
 
@@ -1210,7 +1380,11 @@ VEŽĖJO PAŽYMĖJIMAS IR LICENCIJA
 
 54 straipsnis. Vežėjo pažymėjimas ir specialieji skrydžiai
 
-1. Lietuvos Respublikos teritorijoje vykdyti oro susisiekimą galima tik turint galiojantį vežėjo pažymėjimą. Vežėjo pažymėjimo išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo, deklaracijų skrydžiams pateikimo ir leidimų vykdyti specialiuosius skrydžius išdavimo sąlygos nustatytos 2012 m. spalio 5 d. Komisijos reglamente (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2014 m. balandžio 7 d. Komisijos reglamentu (ES) Nr. 379/2014. Šiame reglamente nustatytas kompetentingos institucijos funkcijas vykdo ir šio reglamento įgyvendinimo tvarką nustato CAA.
+1. Lietuvos Respublikos teritorijoje vykdyti oro susisiekimą galima tik turint galiojantį vežėjo pažymėjimą. Vežėjo pažymėjimo išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo, deklaracijų skrydžiams pateikimo ir leidimų vykdyti specialiuosius skrydžius išdavimo sąlygos nustatytos Reglamente (ES) Nr. 965/2012.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 2. Verstis orlaivių nuomos veikla, kai atsakomybė už orlaivio tinkamumą skraidyti tenka nuomotojui, galima tik turint galiojantį vežėjo pažymėjimą.
 
@@ -1220,41 +1394,81 @@ Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
 
 55 straipsnis. Reikalavimai vežėjo pažymėjimui gauti
 
-1. CAA turi teisę išduoti vežėjo pažymėjimą tik įsitikinusi, kad pareiškėjas turi užtektinai lėšų, žinių, įgūdžių, patirties ir reikiamą personalą, organizacinę struktūrą, orlaivius, patalpas bei įrangą, reikalingus saugiai ir patikimai dirbti naudojantis teisėmis, kurias suteikia vežėjo pažymėjimas.
+1. Agentūra turi teisę išduoti vežėjo pažymėjimą tik įsitikinusi, kad pareiškėjas turi užtektinai lėšų, žinių, įgūdžių, patirties ir reikiamą personalą, organizacinę struktūrą, orlaivius, patalpas bei įrangą, reikalingus saugiai ir patikimai dirbti naudojantis teisėmis, kurias suteikia vežėjo pažymėjimas.
 
-2. Kartu su vežėjo pažymėjimu CAA išduoda pažymėjimo priedą. Jame nurodoma leistina veikla, jai taikomos sąlygos bei apribojimai.
+2. Kartu su vežėjo pažymėjimu Agentūra išduoda pažymėjimo priedą. Jame nurodoma leistina veikla, jai taikomos sąlygos bei apribojimai.
 
-3. Vežėjas privalo pranešti CAA apie visus pasikeitimus, kurie daro įtaką vežėjo pažymėjime arba jo priede numatytoms sąlygoms ir apribojimams.
+3. Vežėjas privalo pranešti Agentūrai apie visus pasikeitimus, kurie daro įtaką vežėjo pažymėjime arba jo priede numatytoms sąlygoms ir apribojimams.
 
-4. CAA privalo nuolat vykdyti vežėjų priežiūrą. CAA įgalioti atstovai, vykdydami vežėjo priežiūrą, turi teisę netrukdomi patekti į vežėjo administracines bei gamybines patalpas, taip pat į orlaivį ir skristi juo, gauti visą vežėjo priežiūrai vykdyti reikalingą informaciją ir dokumentus.
+4. Agentūra privalo nuolat vykdyti vežėjų priežiūrą. Agentūros įgalioti atstovai, vykdydami vežėjo priežiūrą, turi teisę netrukdomi patekti į vežėjo administracines bei gamybines patalpas, taip pat į orlaivį ir skristi juo, gauti visą vežėjo priežiūrai vykdyti reikalingą informaciją ir dokumentus.
 
-56 straipsnis. Licencija oro susisiekimui vykdyti
+Straipsnio pakeitimai:
 
-1. Oro susisiekimui vykdyti vežėjas privalo turėti Susisiekimo ministerijos arba jos įgaliotos CAA išduotą licenciją.
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
-Straipsnio dalies pakeitimai:
+56 straipsnis. Licencija vykdyti oro susisiekimą
 
-Nr. IX-1744, 2003-09-23, Žin., 2003, Nr. 94-4248 (2003-10-08), i. k. 1031010ISTA0IX-1744
+1. Oro susisiekimui vykdyti vežėjas privalo turėti LTSA išduotą licenciją vykdyti oro susisiekimą.
 
-2. Neteko galios 2007-05-29.
+2. Licencija vykdyti oro susisiekimą išduodama Vyriausybės nustatyta tvarka.
 
-Straipsnio dalies pakeitimai:
+3. Išduodamos šių rūšių licencijos vykdyti oro susisiekimą:
 
-Nr. IX-1744, 2003-09-23, Žin., 2003, Nr. 94-4248 (2003-10-08), i. k. 1031010ISTA0IX-1744
+1) vežti keleivius ir (arba) krovinius, paštą už atlygį ir (arba) samdos pagrindais orlaiviais (A tipo licencija vykdyti oro susisiekimą);
 
-Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
+2) vežti keleivius ir (arba) krovinius, paštą už atlygį ir (arba) samdos pagrindais tik tokiais orlaiviais, kurių maksimali kilimo masė mažesnė kaip 10 tonų ir (arba) kuriuose mažiau kaip 20 sėdimųjų vietų (B tipo licencija vykdyti oro susisiekimą).
 
-3. Šio straipsnio 1 dalyje nurodyta licencija vežėjui išduodama pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių nuostatas.
+4. LTSA:
 
-Straipsnio dalies pakeitimai:
+1) išduoda licenciją vykdyti oro susisiekimą;
 
-Nr. IX-2197, 2004-04-29, Žin., 2004, Nr. 73-2531 (2004-04-30), i. k. 1041010ISTA0IX-2197
+2) atsisako išduoti licenciją vykdyti oro susisiekimą;
 
-Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
+3) sustabdo licencijos vykdyti oro susisiekimą galiojimą;
 
-57 straipsnis. Licencijos oro susisiekimui vykdyti išdavimas, sustabdymas ir panaikinimas
+4) panaikina licencijos vykdyti oro susisiekimą galiojimo sustabdymą;
 
-Licencijų oro susisiekimui vykdyti išdavimo, galiojimo sustabdymo ir panaikinimo sąlygas bei tvarką nustato Vyriausybė.
+5) panaikina licencijos vykdyti oro susisiekimą galiojimą;
+
+6) priima kitus Reglamente (EB) Nr. 1008/2008 numatytus sprendimus.
+
+5. Licencija vykdyti oro susisiekimą išduodama tik toms įmonėms, kurios atitinka Reglamente (EB) Nr. 1008/2008 nustatytus reikalavimus.
+
+6. LTSA, gavusi visus reikiamus dokumentus ir duomenis, ne vėliau kaip per 3 mėnesius nuo visų dokumentų ir duomenų gavimo dienos privalo juos išnagrinėti ir priimti sprendimą išduoti licenciją vykdyti oro susisiekimą arba jos neišduoti.
+
+7. LTSA, nustačiusi, kad pareiškėjas nurodė ne visus reikiamus duomenis ir (ar) pateikė ne visus reikiamus pagal Reglamentą (EB) Nr. 1008/2008 ir šio straipsnio 2 dalyje nurodytą tvarką dokumentus, apie tai raštu praneša pareiškėjui ir nustato terminą trūkstamiems duomenims ir (ar) dokumentams pateikti. Šis terminas negali būti trumpesnis kaip 30 kalendorinių dienų nuo pranešimo pateikti trūkstamus duomenis ir (ar) dokumentus įteikimo dienos.
+
+8. LTSA priima sprendimą neišduoti licencijos vykdyti oro susisiekimą, jeigu:
+
+1) per LTSA, vadovaujantis šio straipsnio 7 dalimi, nustatytą terminą nepateikiami visi reikiami duomenys ir dokumentai;
+
+2) nustatoma, kad pareiškėjas neatitinka Reglamente (EB) Nr. 1008/2008 nustatytų reikalavimų.
+
+9. LTSA priima sprendimą sustabdyti licencijos vykdyti oro susisiekimą galiojimą vykdydama Reglamento (EB) Nr. 1008/2008 3 straipsnio 2 dalies nuostatas, taip pat kai licencijos vykdyti oro susisiekimą turėtojas savo veikloje nesilaiko civilinę aviaciją reglamentuojančių įstatymų, kitų teisės aktų ir tarptautinių konvencijų reikalavimų.
+
+10. Apie licencijos vykdyti oro susisiekimą galiojimo sustabdymą ne vėliau kaip per 5 darbo dienas nuo tokio sprendimo priėmimo dienos LTSA praneša licencijos vykdyti oro susisiekimą turėtojui ir nustato terminą, per kurį licencijos vykdyti oro susisiekimą turėtojas privalo atlikti reikiamus veiksmus, kad pašalintų licencijos vykdyti oro susisiekimą galiojimo sustabdymo priežastis. Pagal šią dalį nustatytas terminas negali būti ilgesnis kaip vieni metai nuo LTSA sprendimo sustabdyti licencijos vykdyti oro susisiekimą galiojimą priėmimo dienos.
+
+11. LTSA priima sprendimą panaikinti licencijos vykdyti oro susisiekimą galiojimą vykdydama Reglamento (EB) Nr. 1008/2008 3 straipsnio 2 dalies nuostatas, taip pat jeigu:
+
+1) to prašo licencijos vykdyti oro susisiekimą turėtojas;
+
+2) licencijos vykdyti oro susisiekimą galiojimas sustabdytas, o licencijos vykdyti oro susisiekimą turėtojas per LTSA nustatytą terminą neatlieka reikiamų veiksmų, kad pašalintų licencijos vykdyti oro susisiekimą galiojimo sustabdymo priežastis;
+
+3) Reglamento (EB) Nr. 1008/2008 8 straipsnio 3 dalyje nustatytais atvejais licencijos vykdyti oro susisiekimą turėtojas iš naujo nepateikia paraiškos gauti licenciją vykdyti oro susisiekimą;
+
+4) įsiteisėja teismo nutartis licencijos vykdyti oro susisiekimą turėtojui iškelti bankroto bylą arba kreditorių susirinkimas priima nutarimą bankroto procedūras vykdyti ne teismo tvarka;
+
+5) licencijos vykdyti oro susisiekimą turėtojas likviduojamas.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+57 straipsnis. Neteko galios nuo 2019-01-01
+
+Straipsnio naikinimas:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Straipsnio pakeitimai:
 
@@ -1266,13 +1480,9 @@ SKRYDŽIŲ VYKDYMAS
 
 58 straipsnis. Orlaivių naudojimas
 
-1. Orlaivių, kuriems netaikomos 2012 m. spalio 5 d. Komisijos reglamento (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2014 m. balandžio 7 d. Komisijos reglamentu (ES) Nr. 379/2014, nuostatos, naudojimo techninius reikalavimus nustato CAA.
+1. Orlaivių, kuriems netaikomos Reglamento (ES) Nr. 965/2012 nuostatos, naudojimo techninius reikalavimus nustato LTSA.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
-
-2. CAA, nustatydama orlaivių naudojimo techninius reikalavimus, vadovaujasi šiais principais:
+2. LTSA, nustatydama orlaivių naudojimo techninius reikalavimus, vadovaujasi šiais principais:
 
 1) visuomenės saugumo;
 
@@ -1284,6 +1494,8 @@ Straipsnio pakeitimai:
 
 Nr. XII-973, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10012
 
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
 59 straipsnis. Pavojingų gaminių vežimas
 
 Lietuvos Respublikos oro erdvėje draudžiama naudoti ir vežti masinio naikinimo ginklus, taip pat draudžiamus vežti pavojingus gaminius bei medžiagas, numatytus Čikagos konvencijos 18 priede.
@@ -1292,25 +1504,35 @@ Lietuvos Respublikos oro erdvėje draudžiama naudoti ir vežti masinio naikinim
 
 Lietuvos Respublikos oro erdvėje orlaiviams draudžiama skristi viršgarsiniu greičiu. Ypatingais atvejais leidimą tokiems skrydžiams duoda Vyriausybė.
 
-61 straipsnis. Skrydžiai virš gyvenamųjų vietovių
+61 straipsnis. Agentūros sprendimų priėmimo terminai
 
-1. Orlaiviai virš gyvenamųjų vietovių turi skristi nustatytame aukštyje, kuris užtikrintų priverstinį orlaivio nutupdymą už gyvenamosios vietovės ribų.
+1. Agentūra sprendimus dėl licencijų, pažymėjimų ar patvirtinimų išdavimo priima per 30 kalendorinių dienų nuo tinkamai užpildyto prašymo ir visų reikalingų dokumentų gavimo dienos arba jiems priimti reikalingų auditų ir (ar) patikrinimų atlikimo dienos, jeigu kituose šio įstatymo straipsniuose ir Europos Sąjungos teisės aktuose nenustatyta kitaip.
 
-2. CAA nustato minimalų orlaivių skrydžių virš tam tikrų gyvenamųjų vietovių aukštį.
+2. Jeigu sprendimo priėmimas yra susijęs su didelės apimties dokumentų patikrinimu arba auditų ir (ar) patikrinimų atlikimu, šio straipsnio 1 dalyje nustatytas terminas gali būti Agentūros sprendimu vieną kartą pratęstas 30 kalendorinių dienų. Šiuo atveju Agentūra, priėmusi sprendimą pratęsti šio straipsnio 1 dalyje nurodytą terminą, privalo iki šio straipsnio 1 dalyje nurodyto termino pabaigos pranešti pareiškėjui apie termino pratęsimą ir priežastis, dėl kurių terminas buvo pratęstas.
 
-3. Orlaivių parodomieji skrydžiai virš gyvenamųjų vietovių leidžiami tik suderinus juos su savivaldybe, virš kurios bus vykdomi parodomieji skrydžiai, ir gavus CAA leidimą.
+3. Jeigu į tinkamai užpildytą prašymą dėl licencijų, pažymėjimų ar patvirtinimų išdavimo, pateiktą kartu su visais licencijai, pažymėjimui ar patvirtinimui išduoti reikalingais dokumentais, neatsakoma per šio straipsnio 1 ir 2 dalyse nustatytą terminą, atsakymo dėl licencijos, pažymėjimo ar patvirtinimo išdavimo nepateikimas nelaikomas licencijos, pažymėjimo ar patvirtinimo išdavimu.
 
-62 straipsnis. Parodomieji renginiai ir aviacijos sporto varžybos
+Papildyta straipsniu:
 
-Parodomuosius renginius ir aviacijos sporto varžybas rengti galima CAA nustatyta tvarka ir turint atitinkamą leidimą.
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+62 straipsnis. Atlyginimas už Agentūros teikiamas administracines paslaugas
+
+Už Agentūros teikiamas administracines paslaugas imamas atlyginimas. Atlyginimo dydis nustatomas (apskaičiuojamas) vadovaujantis ekonomiškai pagrįsta paslaugos savikaina. Į paslaugos savikainą negali būti įtraukiamos su konkrečios paslaugos teikimu nesusijusios sąnaudos. Paslaugos savikainos (išlaidų) dydis turi būti pagrindžiamas vadovaujantis šiais ekonominiais rodikliais: Agentūros praėjusių finansinių metų materialinių ir joms prilygintų sąnaudų (ilgalaikio materialiojo turto nusidėvėjimo ir nematerialiojo turto amortizacijos, komunalinių paslaugų, ryšio, remonto ir panašiai) ir darbo sąnaudų (darbo užmokesčio, socialinio draudimo įmokų ir darbuotojų mokymų), turėtų teikiant konkrečią paslaugą, detalizavimu ir numatomos teikti konkrečios paslaugos galimų šių sąnaudų apskaičiavimu. Atlyginimo dydžio nustatymo (apskaičiavimo) metodiką nustato Vyriausybė, o konkrečius jo dydžius, vadovaudamasis šia metodika, – susisiekimo ministras.
+
+Papildyta straipsniu:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 63 straipsnis. Draudimas išskristi
 
-CAA turi teisę uždrausti orlaiviui išskristi, jei kyla abejonių dėl orlaivio tinkamumo skraidyti ar orlaivio įgulos nariai neturi atitinkamos licencijos arba orlaivyje nėra šio įstatymo 64 straipsnyje nurodytų dokumentų ar nesumokėtos šio įstatymo 72 straipsnyje numatytos rinkliavos. CAA turi teisę sulaikyti orlaivį, jei įtariama, kad kilo grėsmė orlaivio saugumui.
+Agentūra turi teisę uždrausti orlaiviui išskristi, jeigu kyla abejonių dėl orlaivio tinkamumo skraidyti ar orlaivio įgulos nariai neturi atitinkamos licencijos arba orlaivyje nėra šio įstatymo 64 straipsnyje nurodytų dokumentų ar nesumokėtos šio įstatymo 72 straipsnyje numatytos rinkliavos. Agentūra turi teisę sulaikyti orlaivį, jeigu įtariama, kad kilo grėsmė orlaivio saugumui.
 
 Straipsnio pakeitimai:
 
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 64 straipsnis. Orlaivio skrydžio dokumentai
 
@@ -1340,7 +1562,11 @@ CIVILINĖS AVIACIJOS SAUGUMAS
 
 65 straipsnis. Civilinės aviacijos saugumo programos
 
-1. Civilinės aviacijos saugumas užtikrinamas priemonėmis, numatytomis Vyriausybės patvirtintoje Nacionalinėje civilinės aviacijos saugumo programoje.
+1. Civilinės aviacijos saugumas užtikrinamas priemonėmis, numatytomis nacionalinėje civilinės aviacijos saugumo programoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 2. Nacionalinės civilinės aviacijos saugumo programos įgyvendinimą koordinuoja Vyriausybės sudaryta Nacionalinė civilinės aviacijos saugumo komisija.
 
@@ -1378,19 +1604,29 @@ Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010IS
 
 7. Asmenis, rankinį bagažą, nešamus daiktus, bagažo skyriuje vežamą bagažą, krovinius ir paštą, oro vežėjo paštą ir medžiagas, orlaivio atsargas ir oro uosto atsargas, transporto priemones tikrinantys asmenys ir patekimo kontrolę oro uoste vykdantys, taip pat priežiūros ir patruliavimo funkcijas atliekantys asmenys privalo turėti susisiekimo ministro nustatyta tvarka ir sąlygomis išduotą teorines žinias ir praktinius gebėjimus atlikti pavestas pareigas patvirtinantį aviacijos saugumo darbuotojo kvalifikacijos pažymėjimą.
 
-8. CAA nustato Lietuvos Respublikos civilinio orlaivio įgulos nario pažymėjimo, civilinės aviacijos inspektoriaus pažymėjimo, reguliuojamo subjekto ir žinomo siuntėjo statusą patvirtinančio pažymėjimo, reguliuojamo orlaivio atsargų tiekėjo statusą patvirtinančio pažymėjimo, Europos Sąjungos aviacijos saugumo tvirtintojo pažymėjimo išdavimo, galiojimo sustabdymo ir panaikinimo tvarką.
+8. LTSA nustato Lietuvos Respublikos civilinio orlaivio įgulos nario pažymėjimo, civilinės aviacijos inspektoriaus pažymėjimo, reguliuojamo subjekto ir žinomo siuntėjo statusą patvirtinančio pažymėjimo, reguliuojamo orlaivio atsargų tiekėjo statusą patvirtinančio pažymėjimo, Europos Sąjungos aviacijos saugumo tikrintojo pažymėjimo išdavimo, galiojimo sustabdymo ir panaikinimo tvarką.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010ISTA0XII-556
 
-9. Nacionalinę civilinės aviacijos saugumo kokybės kontrolės programą rengia ir tvirtina CAA.
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
-10. CAA, oro uostas, oro eismo paslaugas teikianti įmonė, vežėjas ir subjektas, taikantis aviacijos saugumo priemones ir veikiantis oro uosto teritorijoje ar už jos ribų bei tiekiantis prekes arba teikiantis paslaugas oro uostuose ar per juos, turi teisę kreiptis į Lietuvos Respublikos ir užsienio valstybių atitinkamas institucijas, fizinius ir juridinius asmenis dėl informacijos, reikalingos asmens nepriekaištingai reputacijai nustatyti, pateikimo ir pareikalauti, kad asmuo pateiktų papildomus dokumentus ir informaciją, reikšmingus nepriekaištingai reputacijai įvertinti.
+9. Nacionalinę civilinės aviacijos saugumo kokybės kontrolės programą rengia ir tvirtina LTSA.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+10. Agentūra, oro uostas, oro eismo paslaugas teikianti įmonė, vežėjas ir subjektas, taikantis aviacijos saugumo priemones ir veikiantis oro uosto teritorijoje ar už jos ribų bei tiekiantis prekes arba teikiantis paslaugas oro uostuose ar per juos, turi teisę kreiptis į Lietuvos Respublikos ir užsienio valstybių atitinkamas institucijas, fizinius ir juridinius asmenis dėl informacijos, reikalingos asmens nepriekaištingai reputacijai nustatyti, pateikimo ir pareikalauti, kad asmuo pateiktų papildomus dokumentus ir informaciją, reikšmingus nepriekaištingai reputacijai įvertinti.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010ISTA0XII-556
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Straipsnio pakeitimai:
 
@@ -1438,7 +1674,11 @@ Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
 
 8. Tyrimų vadovas turi teisę apklausti visus asmenis, kurie gali suteikti tyrimui svarbios informacijos, ir patikrinti dokumentus, įrašus bei kompiuteryje laikomą informaciją.
 
-9. Tyrimų vadovas apie išvadas praneša CAA, ši įvertina ir parengia priemones panašioms avarijoms ar incidentams išvengti.
+9. Tyrimų vadovas apie išvadas praneša LTSA ir Agentūrai, šios įvertina ir parengia priemones panašioms avarijoms ar incidentams išvengti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 68 straipsnis. Keleivių, krovinių, bagažo ir pašto vežimas
 
@@ -1446,7 +1686,11 @@ Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
 
 2. Keleivių, krovinių, bagažo vežimo tarifus ir jų taikymo tvarką nustato vežėjas.
 
-3. Informavimo apie oro susisiekimo paslaugų kainas ir tarifus bei jų taikymo sąlygas nustato 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių.
+3. Informavimo apie oro susisiekimo paslaugų kainas ir tarifus bei jų taikymo sąlygas nustato Reglamentas (EB) Nr. 1008/2008.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Straipsnio pakeitimai:
 
@@ -1460,23 +1704,27 @@ Nr. IX-1175, 2002-11-05, Žin. 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010IST
 
 70 straipsnis. Kompensavimas už atsisakymą vežti
 
-1. Kompensavimo keleiviams už atsisakymą juos vežti sąlygas bei tvarką nustato 1991 m. vasario 4 d. Tarybos reglamentas (EEB) Nr. 295/91, nustatantis bendras kompensavimo už atsisakymą vežti reguliaraus oro transportu taisykles (su paskutiniais pakeitimais, padarytais 2004 m. vasario 11 d. Europos Parlamento ir Tarybos Reglamentu (EB) Nr. 261/2004).
+1. Kompensavimo keleiviams už atsisakymą juos vežti sąlygas ir tvarką nustato Reglamentas (EB) Nr. 261/2004.
 
-2. CAA kontroliuoja, kaip laikomasi šio straipsnio 1 dalyje nurodyto reglamento nuostatų.
+2. LTSA kontroliuoja, kaip laikomasi šio straipsnio 1 dalyje nurodyto reglamento nuostatų.
 
 Straipsnio pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
 71 straipsnis. Kompiuterinės rezervavimo sistemos
 
-Kompiuterinių rezervavimo sistemų reikalavimus, jų naudojimo sąlygas ir tvarką nustato 2009 m. sausio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 80/2009 dėl Elgesio su kompiuterinėmis rezervavimo sistemomis kodekso ir panaikinantis Tarybos reglamentą (EEB) Nr. 2299/89.
+Kompiuterinių rezervavimo sistemų reikalavimus, jų naudojimo sąlygas ir tvarką nustato Reglamentas (EB) Nr. 80/2009.
 
 Straipsnio pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
 Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 IV SKYRIUS
 
@@ -1490,7 +1738,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 3. Rinkliavas už naudojimąsi oro uostais ir jų dydžius nustato tarptautinį oro uostą valdančios įmonės vadovas, vadovaudamasis šio straipsnio 2 dalyje nurodyta tvarka.
 
-4. Rinkliavų už oro navigacijos paslaugas dydžiai, jų mokėjimo ir naudojimo tvarka nustatomi pagal 2013 m. gegužės 3 d. Komisijos įgyvendinimo reglamentą (ES) Nr. 391/2013, kuriuo nustatoma bendroji mokesčių už oro navigacijos paslaugas sistema, ir 1981 m. vasario 12 d. Daugiašalį susitarimą dėl maršruto rinkliavų.
+4. Rinkliavų už oro navigacijos paslaugas dydžiai, jų mokėjimo ir naudojimo tvarka nustatomi pagal Reglamentą (ES) Nr. 391/2013 ir 1981 m. vasario 12 d. Daugiašalį susitarimą dėl maršruto rinkliavų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 5. Teikiant oro navigacijos paslaugas, išlaidomis pripažįstamos ir išlaidos, patirtos dėl tarptautinių susitarimų civilinės aviacijos srityje.
 
@@ -1500,11 +1752,19 @@ Nr. XII-2417, 2016-06-09, paskelbta TAR 2016-06-15, i. k. 2016-16858
 
 73 straipsnis. Draudimas
 
-1. Turi būti apdrausta oro vežėjų ir civilinių orlaivių naudotojų civilinė atsakomybė už žalą, padarytą keleiviams, bagažui, kroviniams bei tretiesiems asmenims. Būtiniausius oro vežėjų ir orlaivių naudotojų civilinės atsakomybės už žalą, padarytą keleiviams, bagažui, kroviniams bei tretiesiems asmenims, draudimo reikalavimus bei minimalius draudimo sumų dydžius nustato 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams.
+1. Turi būti apdrausta oro vežėjų ir civilinių orlaivių naudotojų civilinė atsakomybė už žalą, padarytą keleiviams, bagažui, kroviniams bei tretiesiems asmenims. Būtiniausius oro vežėjų ir orlaivių naudotojų civilinės atsakomybės už žalą, padarytą keleiviams, bagažui, kroviniams bei tretiesiems asmenims, draudimo reikalavimus bei minimalius draudimo sumų dydžius nustato Reglamentas (EB) Nr. 785/2004.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 2. Lietuvos Respublikos Vyriausybė, vadovaudamasi šio straipsnio 1 dalyje nurodyto reglamento 6 straipsnio 1 dalies nuostatomis, nekomerciniams orlaiviams, kurių maksimali kilimo  ir tūpimo masė (MTOM) neviršija 2 700 kg, gali nustatyti žemesnį būtiniausios draudimo apsaugos lygį, ne mažesnį kaip 100 000 specialių skolinimosi teisių, nustatytų Tarptautinio valiutos fondo, vienam keleiviui.
 
-3. CAA kontroliuoja, kaip oro vežėjai ir orlaivių naudotojai laikosi šio straipsnio 1 dalyje nurodyto reglamento nuostatų.
+3. LTSA kontroliuoja, kaip oro vežėjai ir orlaivių naudotojai laikosi šio straipsnio 1 dalyje nurodyto reglamento nuostatų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Straipsnio pakeitimai:
 
@@ -1528,7 +1788,7 @@ Vyriausybė per 6 mėnesius nuo šio įstatymo įsigaliojimo parengia teisės ak
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -1538,135 +1798,63 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 80/2009 dėl Elgesio su kompiuterinėmis rezervavimo sistemomis kodekso ir panaikinantis Tarybos reglamentą (EEB) Nr. 2299/89 (OL 2009 L 35, p. 47).
+1. 1991 m. gruodžio 16 d. Tarybos reglamentas (EEB) Nr. 3922/91 dėl techninių reikalavimų ir administracinės tvarkos suderinimo civilinės aviacijos srityje (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 348) su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 20 d. Komisijos reglamentu (EB) Nr. 859/2008 (OL 2008 L 254, p. 1).
 
-Punkto pakeitimai:
+2. 1993 m. sausio 18 d. Tarybos reglamentas (EEB) Nr. 95/93 dėl laiko tarpsnių paskirstymo Bendrijos oro uostuose bendrųjų taisyklių (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 793/2004 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 171).
 
-Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
+3. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 261/2004, nustatantis bendras kompensavimo ir pagalbos keleiviams taisykles atsisakymo vežti ir skrydžių atšaukimo arba atidėjimo ilgam laikui atveju, panaikinantis Reglamentą (EEB) Nr. 295/91 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 10).
 
-2. 1991 m. vasario 4 d. Tarybos reglamentas (EEB) Nr. 295/91, nustatantis bendras kompensavimo už atsisakymą vežti reguliaraus oro transportu taisykles (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 306 (su paskutiniais pakeitimais, padarytais 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 261/2004 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 10).
+4. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 549/2004, nustatantis bendro Europos dangaus sukūrimo pagrindą (pagrindų reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 23), su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009 (OL 2009 L 300, p. 34).
 
-3. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 3).
+5. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (paslaugų teikimo reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 31) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009 (OL 2009 L 300, p. 34).
 
-Punkto pakeitimai:
+6. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 160).
 
-Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
+7. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 847/2004 dėl derybų dėl valstybių narių ir trečiųjų šalių susitarimų dėl oro susisiekimo ir jų įgyvendinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 193).
 
-4. 1993 m. sausio 18 d. Tarybos reglamentas (EEB) Nr. 95/93 dėl laiko tarpsnių paskirstymo Bendrijos oro uostuose bendrųjų taisyklių (OL 2004 m. specialusis leidimas, 7 skyrius 2 tomas, p. 3 (su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 793/2004 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 171).
+8. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).
 
-5. 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą, panaikinantis Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB (OL 2008 L 79, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 6/2013 (OL 2013 L 4, p. 34).
+9. 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinantis Reglamentą (EB) Nr. 2320/2002 (OL 2008 L 97, p. 72) su paskutiniais pakeitimais, padarytais 2010 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 18/2010 (OL 2010 L 7, p. 3).
 
-Punkto pakeitimai:
+10. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 3).
 
-Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
+11. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 80/2009 dėl Elgesio su kompiuterinėmis rezervavimo sistemomis kodekso ir panaikinantis Tarybos reglamentą (EEB) Nr. 2299/89 (OL 2009 L 35, p. 47).
 
-Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
+12. 2009 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 272/2009, kuriuo papildomi Europos Parlamento ir Tarybos reglamento (EB) Nr. 300/2008 priede nustatyti bendrieji pagrindiniai civilinės aviacijos saugumo standartai (OL 2009 L 91, p. 7), su paskutiniais pakeitimais, padarytais 2010 m. balandžio 9 d. Komisijos reglamentu (ES) Nr. 297/2010 (OL 2010 L 90, p. 1).
 
-6. 2003 m. rugsėjo 24 d. Komisijos reglamentas (EB) Nr. 1702/2003, nustatantis orlaivio tinkamumo skraidyti ir orlaivio bei susijusių jo gaminių, dalių ir prietaisų tinkamumo naudoti aplinkos atžvilgiu pažymėjimų išdavimą bei projektavimo ir gamybinių organizacijų sertifikavimą įgyvendinančias taisykles (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 456).
+13. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 dėl civilinės aviacijos avarijų ir incidentų tyrimo ir prevencijos, kuriuo panaikinama Direktyva 94/56/EB (OL 2010 L 295, p. 35).
 
-7. 2003 m. lapkričio 20 d. Komisijos reglamentas (EB) Nr. 2042/2003 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 541).
+14. 2011 m. spalio 17 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 1035/2011, kuriuo nustatomi bendrieji oro navigacijos paslaugų teikimo reikalavimai ir iš dalies keičiami reglamentai (EB) Nr. 482/2008 ir (ES) Nr. 691/2010 (OL 2011 L 271, p. 23).
 
-8. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 549/2004, nustatantis bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 23), su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009 (OL 2009 L 300, p. 34).
+15. 2011 m. lapkričio 3 d. Komisijos reglamentas (ES) Nr. 1178/2011, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su civilinės aviacijos orlaivių įgula susiję techniniai reikalavimai ir administracinės procedūros (OL 2011 L 311, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. balandžio 6 d. Komisijos reglamentu (ES) Nr. 2016/539 (OL 2016 L 91, p. 1).
 
-Punkto pakeitimai:
+16. 2012 m. rugpjūčio 3 d. Komisijos reglamentas (ES) Nr. 748/2012, kuriuo nustatomos orlaivio tinkamumo skraidyti sertifikavimo, orlaivio ir susijusių gaminių, dalių bei prietaisų aplinkosauginio sertifikavimo, taip pat projektavimo ir gamybinių organizacijų sertifikavimo įgyvendinimo taisyklės (OL 2012 L 224, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. sausio 5 d. Komisijos reglamentu (ES) Nr. 2016/5 (OL 2016 L 3, p. 3).
 
-Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010ISTA00XII-50
+17. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010 (OL 2012 L 281, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. liepos 20 d. Komisijos įgyvendinimo reglamentu (ES) 2016/1185 (OL 2016 L 196, p. 3).
 
-9. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 31) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009 (OL 2009 L 300, p. 34).
+18. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2017 m. kovo 1 d. Komisijos reglamentu (ES) 2017/363 (OL 2017 L 55, p. 1).
 
-Punkto pakeitimai:
+19. 2013 m. gegužės 3 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 390/2013, kuriuo nustatomas oro navigacijos paslaugų teikimo ir tinklo funkcijų vykdymo veiklos rezultatų planas (OL 2013 L 128, p. 1).
 
-Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010ISTA00XII-50
+20.  2013 m. gegužės 3 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 391/2013, kuriuo nustatoma bendroji mokesčių už oro navigacijos paslaugas sistema (OL 2013 L 128, p. 31).
 
-10. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 160).
+21. 2014 m. vasario 12 d. Komisijos reglamentas (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros (OL 2014 L 44, p. 1).
 
-11. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 847/2004 dėl derybų dėl valstybių narių ir trečiųjų šalių susitarimų dėl oro susisiekimo ir jų įgyvendinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 193).
+22.  2014 m. balandžio 3 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 376/2014 dėl pranešimo apie civilinės aviacijos įvykius, jų analizės ir tolesnės veiklos, kuriuo iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 ir panaikinama Europos Parlamento ir Tarybos direktyva 2003/42/EB ir Komisijos reglamentai (EB) Nr. 1321/2007 ir (EB) Nr. 1330/2007 (OL 2014 L 122, p. 18).
 
-12. 2005 m. gruodžio 20 d. Europos Komisijos reglamentas (EB) Nr. 2096/2005, nustatantis bendruosius oro navigacijos paslaugų teikimo reikalavimus (OL 2005 L 335, p. 13).
+23. 2014 m. lapkričio 26 d. Komisijos reglamentas (ES) Nr. 1321/2014 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo (OL 2014 L 362, p. 1) su paskutiniais pakeitimais, padarytais 2015 m. rugsėjo 16 d. Komisijos reglamentu (ES) 2015/1536 (OL 2015 L 241, p. 16).
 
-13. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).
+24. 2015 m. vasario 20 d. Komisijos reglamentas (ES) 2015/340, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su skrydžių vadovų licencijomis ir pažymėjimais susiję techniniai reikalavimai ir administracinės procedūros, iš dalies keičiamas Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012 ir panaikinamas Komisijos reglamentas (ES) Nr. 805/2011 (OL 2015 L 63, p. 1).
 
-14. 2013 m. gegužės 3 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 391/2013, kuriuo nustatoma bendroji mokesčių už oro navigacijos paslaugas sistema (OL 2013 L 128, p. 31).
+25. 2018 m. kovo 13 d. Komisijos reglamentas (ES) 2018/395, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomos išsamios skrydžių oro balionais vykdymo taisyklės (OL 2018 L 71, p. 10).
 
-Papildyta punktu:
-
-Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
-
-Punkto pakeitimai:
-
-Nr. XII-2417, 2016-06-09, paskelbta TAR 2016-06-15, i. k. 2016-16858
-
-15. 1991 m. gruodžio 16 d. Tarybos reglamento (EEB) Nr. 3922/91 dėl techninių reikalavimų ir administracinės tvarkos suderinimo civilinės aviacijos srityje (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 348) su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 20 d. Komisijos reglamentu (EB) Nr. 859/2008 (OL 2008 L 254, p. 1).
-
-Papildyta punktu:
-
-Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
-
-16. 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinantis Reglamentą (EB) Nr. 2320/2002 (OL 2008 L 97, p. 72) su paskutiniais pakeitimais, padarytais 2010 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 18/2010 (OL 2010 L 7, p. 3).
-
-Papildyta punktu:
-
-Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
-
-17. 2009 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 272/2009, kuriuo papildomi Europos Parlamento ir Tarybos reglamento (EB) Nr. 300/2008 priede nustatyti bendrieji pagrindiniai civilinės aviacijos saugumo standartai (OL 2009 L 91, p. 7), su paskutiniais pakeitimais, padarytais 2010 m. balandžio 9 d. Komisijos reglamentu (ES) Nr. 297/2010 (OL 2010 L 90, p. 1).
-
-Papildyta punktu:
-
-Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
-
-18. 2010 m. kovo 4 d. Komisijos reglamentas (ES) Nr. 185/2010, kuriuo nustatomos išsamios priemonės bendriesiems pagrindiniams aviacijos saugumo standartams įgyvendinti (OL 2010 L 55, p. 1), su paskutiniais pakeitimais, padarytais 2012 m. lapkričio 9 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 1082/2012 (OL 2012 L 324, p. 25).
-
-Papildyta punktu:
-
-Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
-
-Punkto pakeitimai:
-
-Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010ISTA0XII-556
-
-19. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 dėl civilinės aviacijos avarijų ir incidentų tyrimo ir prevencijos, kuriuo panaikinama Direktyva 94/56/EB (OL 2010 L 295, p. 35).
-
-Papildyta punktu:
-
-Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
-
-20. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010 (OL 2012 L 281, p. 1).
-
-Papildyta punktu:
-
-Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
-
-Punkto numeracijos pakeitimas:
-
-Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
-
-21. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2014 m. balandžio 7 d. Komisijos reglamentu (ES) Nr. 379/2014 (OL 2014 L 123, p. 1).
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-973, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10012
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
-
-22. 2014 m. vasario 12 d. Komisijos reglamentas (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros (OL 2014 L 44, p. 1).
-
-Papildyta punktu:
-
-Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
-
-Punkto numeracijos pakeitimas:
-
-Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
+26. 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1139 dėl bendrųjų civilinės aviacijos taisyklių, ir kuriuo įsteigiama Europos Sąjungos aviacijos saugos agentūra, iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 2111/2005, (EB) Nr. 1008/2008, (ES) Nr. 996/2010, (ES) Nr. 376/2014 ir direktyvos 2014/30/ES ir 2014/53/ES bei panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 552/2004 ir (EB) Nr. 216/2008 bei Tarybos reglamentas (EEB) Nr. 3922/91 (OL 2018 L 212, p. 1).
 
 Priedo pakeitimai:
 
 Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Pakeitimai:
 
@@ -1830,19 +2018,37 @@ Nr. XII-2484, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18453
 
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 44 straipsnio pakeitimo įstatymas
 
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 3, 5, 6, 7, 10, 12, 13, 14, 14-1, 15, 16, 17, 18, 20, 22, 23, 25, 26, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 40, 41, 42, 43, 45, 46, 47, 48, 49, 51, 54, 55, 56, 58, 61, 62, 63, 65, 66, 67, 67-1, 68, 70, 70-1, 71, 71-1, 72, 73 straipsnių ir priedo pakeitimo, Įstatymo papildymo 6-1, 6-2 straipsniais ir 57 straipsnio pripažinimo netekusiu galios įstatymas
+
 141 straipsnis. Oro navigacijos paslaugos
 
 1. Oro navigacijos paslaugas gali teikti tik juridiniai asmenys, turintys atitinkamą oro navigacijos paslaugų teikėjo pažymėjimą.
 
-2. Oro navigacijos paslaugų teikėjai, norintys gauti oro navigacijos paslaugų arba atskiros rūšies oro navigacijos paslaugos teikėjo pažymėjimą, turi atitikti 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 549/2004, nustatančio bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas), su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009, 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009, 2005 m. gruodžio 20 d. Europos Komisijos reglamento (EB) Nr. 2096/2005, nustatančio bendruosius oro navigacijos paslaugų teikimo reikalavimus, įgyvendinimo taisyklių, kurias Europos Komisija priima įgyvendindama Pagrindų reglamento 3 straipsnyje nurodytas priemones, taip pat kitų teisės aktų reikalavimus.
+2. Oro navigacijos paslaugų teikėjai, norintys gauti oro navigacijos paslaugų arba atskiros rūšies oro navigacijos paslaugos teikėjo pažymėjimą, turi atitikti Reglamento (EB) Nr. 549/2004, Reglamento (EB) Nr. 550/2004, Reglamento (ES) Nr. 1035/2011, įgyvendinimo taisyklių, kurias Europos Komisija priima įgyvendindama Reglamento (EB) Nr. 549/2004 3 straipsnyje nurodytas priemones, taip pat kitų teisės aktų reikalavimus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010ISTA00XII-50
 
-3. Oro navigacijos paslaugų teikėjų pažymėjimų išdavimo tvarką nustato, juos išduoda arba kitose Europos Bendrijos valstybėse išduotą pažymėjimą pripažįsta CAA.
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
-4. CAA turi teisę visada patikrinti, ar oro navigacijos paslaugų teikėjai atitinka keliamus reikalavimus ir kaip teikiamos oro eismo paslaugos, o jos įgalioti atstovai, laikydamiesi įslaptintos informacijos apsaugai taikomų reikalavimų, turi teisę nekliudomi patekti į oro eismo paslaugų teikėjo administracines ir gamybines patalpas, susijusias su oro eismo paslaugų teikimu, apžiūrėti įrenginius, taip pat susipažinti su visa reikalinga informacija ir dokumentais.
+3. Oro navigacijos paslaugų teikėjų pažymėjimų išdavimo tvarką nustato LTSA, juos išduoda arba kitose Europos Bendrijos valstybėse išduotą pažymėjimą pripažįsta Agentūra.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+4. Agentūra turi teisę visada patikrinti, ar oro navigacijos paslaugų teikėjai atitinka keliamus reikalavimus ir kaip teikiamos oro eismo paslaugos, o jos įgalioti atstovai, laikydamiesi įslaptintos informacijos apsaugai taikomų reikalavimų, turi teisę nekliudomi patekti į oro eismo paslaugų teikėjo administracines ir gamybines patalpas, susijusias su oro eismo paslaugų teikimu, apžiūrėti įrenginius, taip pat susipažinti su visa reikalinga informacija ir dokumentais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Papildyta straipsniu:
 
@@ -1850,13 +2056,19 @@ Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA
 
 671 straipsnis. Oro susisiekimo vykdymas ir skrydžių teisių paskyrimas
 
-1. Oro susisiekimas tarp Lietuvos Respublikos ir Europos bendrijos bei Europos ekonominės erdvės valstybių vykdomas vadovaujantis 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių ir atitinkamų tarptautinių sutarčių nuostatomis tiek, kiek jos neprieštarauja šiam reglamentui.
+1. Oro susisiekimas tarp Lietuvos Respublikos ir Europos Bendrijos bei Europos ekonominės erdvės valstybių vykdomas vadovaujantis Reglamento (EB) Nr. 1008/2008 ir atitinkamų tarptautinių sutarčių nuostatomis tiek, kiek jos neprieštarauja šiam reglamentui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
 
-2. Oro susisiekimas tarp Lietuvos Respublikos ir Europos Bendrijos bei Europos ekonominei erdvei nepriklausančių valstybių vykdomas pagal atitinkamos tarptautinės sutarties nuostatas, gavus paskyrimą. Kol tokios sutarties nėra, leidimą oro susisiekimui vykdyti išduoda Susisiekimo ministerija arba jos įgaliota CAA.
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
+
+2. Oro susisiekimas tarp Lietuvos Respublikos ir Europos Bendrijos bei Europos ekonominei erdvei nepriklausančių valstybių vykdomas pagal atitinkamos tarptautinės sutarties nuostatas, gavus paskyrimą. Kol tokios sutarties nėra, leidimą vykdyti oro susisiekimą išduoda Susisiekimo ministerija arba jos įgaliota LTSA.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 3. Vežėjas, siekiantis gauti paskyrimą vykdyti oro susisiekimą tarp Lietuvos Respublikos ir Europos Bendrijai bei Europos ekonominei erdvei nepriklausančių valstybių, paraišką paskyrimui gauti teikia Susisiekimo ministerijai.
 
@@ -1878,19 +2090,23 @@ ORO SUSISIEKIMAS
 
 701 straipsnis. Neįgalių asmenų ir ribotos judėsenos asmenų teisės keliaujant oro transportu
 
-1. Neįgalių asmenų ir ribotos judėsenos asmenų, keliaujančių oro transportu, teises, apsaugos ir pagalbos jiems teikimo taisykles nustato 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru.
+1. Neįgalių asmenų ir ribotos judėsenos asmenų, keliaujančių oro transportu, teises, apsaugos ir pagalbos jiems teikimo taisykles nustato Reglamentas (EB) Nr. 1107/2006.
 
-2. CAA kontroliuoja, kaip laikomasi šio straipsnio 1 dalyje nurodyto reglamento nuostatų skrydžiuose iš Lietuvos Respublikos teritorijoje esančių oro uostų ir į juos.
+2. LTSA kontroliuoja, kaip laikomasi šio straipsnio 1 dalyje nurodyto reglamento nuostatų skrydžiuose iš Lietuvos Respublikos teritorijoje esančių oro uostų ir į juos.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 711 straipsnis. Antžeminių paslaugų teikimas
 
 1. Antžeminių paslaugų teikimo Lietuvos Respublikos tarptautiniuose oro uostuose tvarką ir sąlygas nustato susisiekimo ministras.
 
-2. CAA prižiūri ir kontroliuoja, kaip teikiamos antžeminės paslaugos Lietuvos Respublikos tarptautiniuose oro uostuose.
+2. Agentūra prižiūri ir kontroliuoja, kaip teikiamos antžeminės paslaugos Lietuvos Respublikos tarptautiniuose oro uostuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 
 Papildyta straipsniu:
 
