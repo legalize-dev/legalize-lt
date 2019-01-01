@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2018-12-21"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-12-21 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-08-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -540,7 +540,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 
-2. Profesinis orientavimas vykdomas bendrojo ugdymo mokyklose, profesinio mokymo ir kitose švietimo įstaigose, profesinio orientavimo centruose ir kitose institucijose švietimo ir mokslo ministro kartu su socialinės apsaugos ir darbo ministru nustatyta tvarka, aukštosiose mokyklose – jų nustatyta tvarka.
+2. Profesinis orientavimas vykdomas kartu su socialiniais partneriais bendrojo ugdymo mokyklose, profesinio mokymo ir kitose švietimo įstaigose ir kitose institucijose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 3. Švietimo informacinės pagalbos paskirtis – padėti mokyklai ir kitam švietimo teikėjui, mokytojams, mokiniams, visiems Lietuvos Respublikos piliečiams ir gyventojams gauti informaciją apie švietimą, jo kokybę, išsilavinimo paklausą darbo rinkoje.
 
@@ -553,6 +557,24 @@ Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 Papildyta straipsnio dalimi:
 
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+
+7. Profesinis orientavimas teikiamas pradėjusiems mokytis pagal pradinio ugdymo programą ir vyresniems asmenims.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+8. Profesinis orientavimas teikiamas Lietuvos gyventojams Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+9. Savivaldybės vykdomoji institucija profesinį orientavimą planuoja, organizuoja ir administruoja Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 19 straipsnis. Psichologinė pagalba
 
@@ -900,11 +922,13 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
-6. Mokyklos (išskyrus aukštąsias mokyklas) išorinis vertinimas atliekamas periodiškai, jį inicijuoja mokyklos savininko teises ir pareigas įgyvendinanti institucija (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomoji institucija (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos), savininkas (dalyvių susirinkimas) (kitų mokyklų). Mokyklų, vykdančių ikimokyklinio, priešmokyklinio, bendrojo ugdymo ir formaliojo profesinio mokymo programas, veiklos išorinio vertinimo organizavimo ir vykdymo tvarką nustato švietimo ir mokslo ministras. Neformaliojo švietimo mokyklų (išskyrus mokyklas, vykdančias ikimokyklinio ir (ar) priešmokyklinio ugdymo programas) veiklos išorinio vertinimo tvarką nustato valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas).
+6. Mokyklos (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas) išorinis vertinimas atliekamas periodiškai, jį inicijuoja mokyklos savininko teises ir pareigas įgyvendinanti institucija (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomoji institucija (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos), savininkas (dalyvių susirinkimas) (kitų mokyklų). Mokyklų, vykdančių ikimokyklinio, priešmokyklinio, bendrojo ugdymo ir formaliojo profesinio mokymo programas, veiklos išorinio vertinimo organizavimo ir vykdymo tvarką nustato švietimo ir mokslo ministras. Neformaliojo švietimo mokyklų (išskyrus mokyklas, vykdančias ikimokyklinio ir (ar) priešmokyklinio ugdymo programas) veiklos išorinio vertinimo tvarką nustato valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 7. Aukštosios mokyklos veiklos vertinimas atliekamas Mokslo ir studijų įstatymo nustatyta tvarka.
 
@@ -1114,7 +1138,11 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 1. Valstybinės profesinio mokymo įstaigos, bendrojo ugdymo mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) mokyklą reorganizuoja, likviduoja ar pertvarko vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir gavusi mokyklos steigimui pritarusių institucijų rašytinius sutikimus. Valstybinės neformaliojo švietimo mokyklos, pagalbos įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) mokyklą, įstaigą reorganizuoja, likviduoja ar pertvarko gavusi mokyklos, įstaigos steigimui pritarusių institucijų rašytinius sutikimus.
 
-2. Savivaldybės taryba neformaliojo švietimo mokyklas (biudžetines įstaigas) reorganizuoja, likviduoja ar pertvarko savarankiškai, bendrojo ugdymo mokyklas (biudžetines įstaigas), profesinio mokymo įstaigas (biudžetines įstaigas) – vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, pagalbos įstaigas (biudžetines įstaigas) – Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais. Savivaldybės neformaliojo švietimo mokyklos (viešosios įstaigos) reorganizuojamos, likviduojamos ar pertvarkomos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, bendrojo ugdymo mokyklos (viešosios įstaigos), profesinio mokymo įstaigos (viešosios įstaigos) – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu vadovaujantis Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, pagalbos įstaigos (viešosios įstaigos) – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu vadovaujantis Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais. Tais atvejais, kai savivaldybės tarybos sprendimų projektai dėl bendrojo ugdymo mokyklų reorganizavimo, likvidavimo ir pertvarkymo prieštarauja mokyklos bendruomenės sprendimams, siūlymus dėl tokios mokyklos reorganizavimo, likvidavimo ir pertvarkymo pateikia Švietimo ir mokslo ministerija. Mokyklos bendruomenės sprendimų priėmimo tvarką nustato švietimo ir mokslo ministras.
+2. Savivaldybės taryba neformaliojo švietimo mokyklas (biudžetines įstaigas) reorganizuoja, likviduoja ar pertvarko savarankiškai, bendrojo ugdymo mokyklas (biudžetines įstaigas) – vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, pagalbos įstaigas (biudžetines įstaigas) – Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais. Savivaldybės neformaliojo švietimo mokyklos (viešosios įstaigos) reorganizuojamos, likviduojamos ar pertvarkomos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, bendrojo ugdymo mokyklos (viešosios įstaigos), profesinio mokymo įstaigos (viešosios įstaigos) – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, pagalbos įstaigos (viešosios įstaigos) – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais. Tais atvejais, kai savivaldybės tarybos sprendimų projektai dėl bendrojo ugdymo mokyklų reorganizavimo, likvidavimo ir pertvarkymo prieštarauja mokyklos bendruomenės sprendimams, siūlymus dėl tokios mokyklos reorganizavimo, likvidavimo ir pertvarkymo pateikia Švietimo ir mokslo ministerija. Mokyklos bendruomenės sprendimų priėmimo tvarką nustato švietimo ir mokslo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 3. Nevalstybinė mokykla, nevalstybinė pagalbos įstaiga reorganizuojama, likviduojama ar pertvarkoma savininko (dalyvių susirinkimo) sprendimu ar kitais įstatymų nustatytais atvejais.
 
