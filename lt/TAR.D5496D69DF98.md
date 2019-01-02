@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2019-01-01"
+last_updated: "2019-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2019-09-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -801,7 +801,11 @@ Nr. XIII-1663, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19160
 
 1. Valstybės turto apskaitą, valdymą, naudojimą ir disponavimą juo kontroliuoja valstybės institucijos, valstybės įmonės, įstaigos ar organizacijos vidaus audito tarnyba (vidaus auditoriai) ir Lietuvos Respublikos valstybės kontrolė (toliau – Valstybės kontrolė).
 
-2. Savivaldybės turto apskaitą, valdymą, naudojimą ir disponavimą juo kontroliuoja savivaldybės kontrolierius (Kontrolieriaus tarnyba) ir Valstybės kontrolė.
+2. Savivaldybės turto apskaitą, valdymą, naudojimą ir disponavimą juo kontroliuoja savivaldybės kontrolės ir audito tarnyba ir Valstybės kontrolė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1636, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18926
 
 KETVIRTASIS SKIRSNIS
 
