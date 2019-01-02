@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2019-01-01"
+last_updated: "2019-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
 
@@ -529,7 +529,11 @@ LNSS nepriklausančios įstaigos gali teikti visų rūšių asmens ir visuomenė
 
 4. LNSS nepriklausančios įstaigos pagal savo kompetenciją ir savo lėšomis privalo įgyvendinti būtinąsias visuomenės sveikatos priežiūros priemones, kurias nustato Sveikatos apsaugos ministerija.
 
-5. Jeigu LNSS nepriklausančios įstaigos įstatymų nustatyta tvarka gauna lėšų iš valstybės arba savivaldybių biudžetų, Sveikatos apsaugos ministerija bei jos įgalioti Valstybės kontrolės pareigūnai, savivaldybių kontrolieriai turi teisę tikrinti, kaip tos lėšos naudojamos.
+5. Jeigu LNSS nepriklausančios įstaigos įstatymų nustatyta tvarka gauna lėšų iš valstybės arba savivaldybių biudžetų, Sveikatos apsaugos ministerija bei įgalioti Valstybės kontrolės pareigūnai, savivaldybių kontrolės ir audito tarnybos turi teisę tikrinti, kaip tos lėšos naudojamos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1637, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18927
 
 II skyrius
 
@@ -1708,6 +1712,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1763, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20876
 
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymo Nr. XII-2538 2, 3 ir 5 straipsnių pakeitimo įstatymo Nr. XIII-903 2 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1637, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18927
+
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 19 straipsnio pakeitimo įstatymas
 
 62 straipsnis. Įstaigos laikinojo
 
