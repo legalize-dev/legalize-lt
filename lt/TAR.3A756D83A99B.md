@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2019-01-01"
+last_updated: "2019-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2019-07-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
 
@@ -253,7 +253,11 @@ Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
 
 1. Iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos ir iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos valstybinį auditą atlieka Lietuvos Respublikos valstybės kontrolė.
 
-2. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos veiklos ir išorės finansinį auditą atlieka savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba).
+2. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos veiklos ir išorės finansinį auditą atlieka savivaldybės kontrolės ir audito tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1633, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18923
 
 3. Biudžetinės įstaigos vidaus auditas atliekamas vadovaujantis Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais vidaus auditą reglamentuojančiais teisės aktais.
 
