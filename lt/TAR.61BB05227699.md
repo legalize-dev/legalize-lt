@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2015-04-14"
+last_updated: "2019-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2015-04-14 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1243, i. k. 0951010ISTA000I-907
 
@@ -194,7 +194,11 @@ VALSTYBĖS KONTROLĖS IR PAREIGŪNŲ KOMPETENCIJA
 
 4. Valstybės kontrolė Lietuvos Respublikos tarptautinių sutarčių, kitų teisės aktų nustatyta tvarka atlieka Lietuvos Respublikoje gaunamos Europos Sąjungos finansinės paramos auditus ir teikia atitinkamoms institucijoms šių auditų dokumentus.
 
-5. Valstybės kontrolė rengia savivaldybių kontrolieriams (savivaldybių kontrolės ir audito tarnyboms) audito metodikas ir valstybės kontrolieriaus nustatyta tvarka atlieka savivaldybių kontrolierių (savivaldybių kontrolės ir audito tarnybų) atliekamo audito išorinę peržiūrą.
+5. Valstybės kontrolė rengia savivaldybių kontrolės ir audito tarnyboms audito metodikas ir valstybės kontrolieriaus nustatyta tvarka atlieka savivaldybių kontrolės ir audito tarnybų atliekamo audito išorinę peržiūrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1638, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18928
 
 6. Valstybės kontrolė, vykdydama Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatytas biudžeto politikos kontrolės institucijos funkcijas, teikia Seimui:
 
@@ -742,7 +746,7 @@ Valstybės kontrolės pareigūnai draudžiami valstybiniu socialiniu draudimu Va
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                        ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -975,6 +979,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1588, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05703
 
 Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 39 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1638, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18928
+
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 9 straipsnio pakeitimo įstatymas
 
 46 straipsnis.
 
