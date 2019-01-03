@@ -4,7 +4,7 @@ identifier: "TAR.8447F63760E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-18"
-last_updated: "2019-01-01"
+last_updated: "2019-01-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-02
+Suvestinė redakcija nuo 2019-01-03 iki 2019-01-12
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
 
@@ -2062,7 +2062,11 @@ Būtina nuostolių draudimo sutarties sąlyga yra teisėtas draudėjo ar apdraus
 
 3. Draudikas, apskaičiuodamas draudimo įmokas ir draudimo išmokas, neturi teisės atsižvelgti į veiksnius, susijusius su nėštumu ir motinyste, kaip į turinčius reikšmės draudimo rizikai.
 
-4. Draudikas ir draudimo tarpininkas, sudarydami ir vykdydami draudimo sutartį, turi teisę tvarkyti apdraustojo, naudos gavėjo ir draudimo įmokų mokėtojo asmens duomenis be jų sutikimo, išskyrus ypatingus asmens duomenis.
+4. Draudikas ir draudimo tarpininkas, sudarydami ir vykdydami draudimo sutartį, turi teisę tvarkyti apdraustojo, naudos gavėjo ir draudimo įmokų mokėtojo asmens duomenis be jų sutikimo, išskyrus specialių kategorijų asmens duomenis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
 
 96 straipsnis. Draudimo įmokos nesumokėjimas
 
@@ -4470,6 +4474,14 @@ Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
 
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 pakeitimo įstatymo Nr. XIII-1107 6, 9, 40, 74, 76, 77, 80, 82, 85 straipsnių pakeitimo ir 78 straipsnio pripažinimo netekusiu galios įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 1, 2, 31, 45, 50, 95, 158-1, 160, 162, 165, 169, 171 straipsnių ir priedo pakeitimo įstatymas
+
 224 straipsnis. Piniginis vienetas
 
 1. Neteko galios nuo 2015-01-01.
@@ -6532,11 +6544,15 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 1. Draudimo ir perdraudimo įmonių, draudimo ir perdraudimo tarpininkų įmonių, papildomos draudimo veiklos tarpininkų įmonių darbuotojai, kurių funkcijos yra tiesiogiai susijusios su draudimo ar perdraudimo produktų platinimu, taip pat draudimo agentai (fiziniai asmenys) ir papildomos draudimo veiklos tarpininkai (fiziniai asmenys) privalo turėti pakankamai su draudimo ar perdraudimo produktų platinimą reglamentuojančiais teisės aktais, draudimo ar perdraudimo produktais, draudimo ar perdraudimo sutarčių sąlygomis, draudimo išmokų administravimu, skundų nagrinėjimu, draudėjų poreikių vertinimu, draudimo ar atitinkamų finansinių paslaugų rinkomis ar pensijų sistemomis, interesų konfliktų valdymu ir kitų susijusių žinių ir gebėjimų, kad galėtų tinkamai vykdyti savo veiklą, ir privalo mokytis ir tobulinti savo kvalifikaciją ne mažiau kaip 15 valandų per metus. Detalius šių asmenų kvalifikacijos ir jos tobulinimo reikalavimus, šiame įstatyme nustatytoms funkcijoms įgyvendinti reikalingos kvalifikacijos veiksmingos kontrolės ir vertinimo kriterijus, taip pat kitų Europos ekonominės erdvės valstybių patvirtintos kvalifikacijos pripažinimo tvarką nustato priežiūros institucija.
 
-2. Draudimo ir perdraudimo įmonių, draudimo ir perdraudimo tarpininkų įmonių ir papildomos draudimo veiklos tarpininkų įmonių darbuotojai, kurių funkcijos yra tiesiogiai susijusios su draudimo ar perdraudimo produktų platinimu, taip pat draudimo agentai (fiziniai asmenys) ir papildomos draudimo veiklos tarpininkai (fiziniai asmenys), jeigu:
+2. Draudimo ir perdraudimo įmonių, draudimo ir perdraudimo tarpininkų įmonių ir papildomos draudimo veiklos tarpininkų įmonių darbuotojai, kurių funkcijos yra tiesiogiai susijusios su draudimo ar perdraudimo produktų platinimu, taip pat draudimo agentai (fiziniai asmenys) ir papildomos draudimo veiklos tarpininkai (fiziniai asmenys) negali vykdyti veiklos, jeigu:
 
 1) jie pripažinti kaltais dėl sunkaus, labai sunkaus nusikaltimo arba nusikaltimo ar baudžiamojo nusižengimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus padarymo, jeigu jų teistumas už šiame punkte nurodytus nusikaltimus nėra išnykęs ar panaikintas arba nepraėjo 3 metai nuo teismo nuosprendžio, kuriuo fizinis asmuo yra pripažintas kaltu dėl šiame punkte nurodytų baudžiamųjų nusižengimų padarymo, įsiteisėjimo;
 
 2) jiems per paskutinius 10 metų buvo iškelta fizinio asmens bankroto byla.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
 
 3. Siekdamos įsitikinti, kad šio straipsnio 1 dalyje nurodyti asmenys atitinka šio straipsnio 1 ir 2 dalių reikalavimus, priežiūros institucija, draudimo ir perdraudimo įmonės, draudimo ir perdraudimo tarpininkų įmonės turi teisę tvarkyti šių asmenų darbuotojų, kurių funkcijos tiesiogiai susijusios su draudimo ar perdraudimo produktų platinimu, draudimo agentų (fizinių asmenų) ir papildomos draudimo veiklos tarpininkų (fizinių asmenų) asmens duomenis, įskaitant duomenis apie asmens teistumą.
 
