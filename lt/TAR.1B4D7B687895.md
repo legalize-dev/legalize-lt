@@ -4,7 +4,7 @@ identifier: "TAR.1B4D7B687895"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-01"
-last_updated: "2018-08-01"
+last_updated: "2019-01-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Neoficialus ?statymo tekstas
 
-Suvestinė redakcija nuo 2018-08-01 iki 2019-01-12
+Suvestinė redakcija nuo 2019-01-13 iki 2019-01-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
 
@@ -742,7 +742,11 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 
 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
-1. Prižiūrimi finansų rinkos dalyviai yra: bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai.
+1. Prižiūrimi finansų rinkos dalyviai yra: bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, profesinių pensijų asociacijos (toliau – pensijų asociacijos), kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 
 2. Lietuvos bankas, prižiūrėdamas, kaip prižiūrimi finansų rinkos dalyviai laikosi finansų rinką reglamentuojančiuose teisės aktuose nustatytų reikalavimų:
 
@@ -752,7 +756,11 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 
 3) atlieka elektroninių pinigų įstaigų, elektroninių pinigų įstaigų tarpininkų ir užsienio valstybių elektroninių pinigų įstaigų filialų, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitų įstatymų, reglamentuojančių šių subjektų veiklą, Lietuvos bankui priskirtas funkcijas;
 
-4) atlieka finansų maklerio įmonių, finansų maklerio įmonės priklausomų tarpininkų, finansų patarėjo įmonių, reguliuojamų rinkų operatorių, informacijos apie sandorius paslaugų teikėjų, lyginamojo indekso administratorių, prižiūrimų duomenų tiekėjų, valdymo įmonių, investicinių bendrovių, depozitoriumų, užsienio valstybių finansų maklerio įmonių ir valdymo įmonių filialų, įsteigtų Lietuvos Respublikoje, pensijų asociacijų, kontroliuojančiųjų investicinių bendrovių ir emitentų priežiūrą ir kitas Lietuvos Respublikos finansinių priemonių rinkų įstatymo, Lietuvos Respublikos vertybinių popierių įstatymo, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo, Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo, Lietuvos Respublikos pensijų kaupimo įstatymo, Lietuvos Respublikos profesinių pensijų kaupimo įstatymo, Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo, Lietuvos Respublikos pensijų sistemos reformos įstatymo Lietuvos bankui priskirtas funkcijas;
+4) atlieka finansų maklerio įmonių, finansų maklerio įmonės priklausomų tarpininkų, finansų patarėjo įmonių, reguliuojamų rinkų operatorių, informacijos apie sandorius paslaugų teikėjų, lyginamojo indekso administratorių, prižiūrimų duomenų tiekėjų, valdymo įmonių, investicinių bendrovių, depozitoriumų, užsienio valstybių finansų maklerio įmonių ir valdymo įmonių filialų, įsteigtų Lietuvos Respublikoje, pensijų asociacijų, kontroliuojančiųjų investicinių bendrovių ir emitentų priežiūrą ir kitas Lietuvos Respublikos finansinių priemonių rinkų įstatymo, Lietuvos Respublikos vertybinių popierių įstatymo, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo, Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo, Lietuvos Respublikos pensijų kaupimo įstatymo, Lietuvos Respublikos profesinių pensijų kaupimo įstatymo, Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Lietuvos bankui priskirtas funkcijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 
 5) vykdo mokėjimo įstaigų ir mokėjimo įstaigų tarpininkų priežiūrą ir atlieka kitas Lietuvos Respublikos mokėjimo įstaigų įstatymo Lietuvos bankui priskirtas funkcijas;
 
@@ -894,11 +902,19 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 14) subjektams, vykdantiems prižiūrimų finansų rinkos dalyvių pertvarkymo, reorganizavimo, bankroto, likvidavimo procedūras, jeigu ji būtina jų funkcijoms atlikti;
 
-15) kritinėmis situacijomis, kaip nustatyta Lietuvos Respublikos bankų įstatymo 59 straipsnio 8 dalyje ir 701 straipsnio 5 dalyje, Lietuvos Respublikos finansų ministerijai ir kitų Europos Sąjungos valstybių narių centrinės valdžios institucijoms, dalyvaujančioms rengiant teisės aktus, susijusius su kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, jeigu ji reikalinga jų funkcijoms atlikti;
+15) kritinėmis situacijomis, kaip nustatyta Lietuvos Respublikos bankų įstatymo 59 straipsnio 8 dalyje ir 701 straipsnio 5 dalyje, Lietuvos Respublikos finansų ministerijai ir kitų Europos Sąjungos valstybių narių centrinės valdžios institucijoms, dalyvaujančioms rengiant teisės aktus, susijusius su pensijų asociacijų, kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, jeigu ji reikalinga jų funkcijoms atlikti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 
 16) prižiūrimo finansų rinkos dalyvio arba finansinės grupės, kuriai priklauso prižiūrimas finansų rinkos dalyvis, įmonių auditoriams, taip pat Lietuvos ir kitos Europos Sąjungos valstybės narės institucijoms, atsakingoms už šių asmenų priežiūrą, jeigu ji reikalinga jų funkcijoms atlikti;
 
-17) Lietuvos ir kitos Europos Sąjungos valstybės narės draudimo arba perdraudimo įmonių nepriklausomiems aktuarams ir institucijoms, atsakingoms už šių aktuarų priežiūrą;
+17) Lietuvos ir kitos Europos Sąjungos valstybės narės draudimo arba perdraudimo įmonių, pensijų asociacijų nepriklausomiems aktuarams ir institucijoms, atsakingoms už šių aktuarų priežiūrą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 
 18) kitoms valstybės institucijoms, jeigu ši informacija reikalinga jų funkcijoms atlikti ir jeigu tai būtina dėl finansų rinkos priežiūros, pažeidimų prevencijos arba prižiūrimų finansų rinkos dalyvių pertvarkymo.
 
@@ -2057,6 +2073,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1304, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11309
 
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio ir 1 priedo pakeitimo įstatymo Nr. XIII-1095 1 straipsnio pakeitimo ir 2 straipsnio pripažinimo netekusiu galios įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
+
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 ir 43 straipsnių pakeitimo įstatymas
 
 211 straipsnis. Finansų rinkos priežiūros ir finansų sektoriaus subjektų pertvarkymo institucijos veiklos finansavimas
 
