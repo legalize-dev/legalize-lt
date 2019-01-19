@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2019-01-01"
+last_updated: "2019-01-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.03.17)
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-18
+Suvestinė redakcija nuo 2019-01-19 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
 
@@ -1671,6 +1671,12 @@ prokuratūros įstatymo
 
 1. 2002 m. vasario 28 d. Tarybos sprendimas 2002/187/TVR, įkuriantis Eurojustą siekiant sustiprinti kovą su sunkiais nusikaltimais (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 197), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 16 d. Tarybos sprendimu 2009/426/TVR (OL 2009 L 138, p. 14).
 
+2. 2017 m. spalio 12 d. Tarybos reglamentas (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje (OL 2017 L 283, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-1902, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00797
+
 Priedo pakeitimai:
 
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
@@ -1931,6 +1937,22 @@ Nr. XIII-1737, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20705
 
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 52 straipsnio pakeitimo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1740, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20710
+
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 10 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1902, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00797
+
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 papildymo 37-8 ir 37-9 straipsniais ir 2 priedo pakeitimo įstatymas
+
 371 straipsnis. Prokuroro delegavimas į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas
 
 1. Prokuroras jo paties sutikimu gali būti deleguojamas į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas arba į kitas Lietuvos Respublikos tarptautinėse sutartyse numatytas pareigas paprastai ne ilgiau kaip trejiems metams, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip.
@@ -2070,4 +2092,30 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 Papildyta straipsniu:
 
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
+
+378 straipsnis. Kandidatų į Europos prokurorus atrankos tvarka ir kandidatūrų siūlymas
+
+1. Kandidatų į Europos prokurorus, nurodytus Reglamento (ES) 2017/1939 12 straipsnyje, atrankos tvarka nustatoma bendru teisingumo ministro ir generalinio prokuroro įsakymu.
+
+2. Kandidatams į Europos prokurorus keliami reikalavimai nustatyti Reglamento (ES) 2017/1939 16 straipsnio 1 dalyje.
+
+3. Kandidatų atranką atlieka Kandidatų į Europos prokurorus atrankos komisija. Šioje komisijoje yra trys prokuratūros atstovai ir po vieną Lietuvos Respublikos teisingumo ministerijos ir Teisėjų tarybos atstovą. Kandidatų į Europos prokurorus atrankos komisijos personalinę sudėtį tvirtina teisingumo ministras.
+
+4. Tris geriausiai įvertintus kandidatus Europos Sąjungos Tarybai teikia Vyriausybė.
+
+Papildyta straipsniu:
+
+Nr. XIII-1902, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00797
+
+379 straipsnis. Kandidatų į Europos deleguotuosius prokurorus atrankos tvarka ir kandidatūrų siūlymas
+
+1. Generalinio prokuroro nustatyta tvarka vyksta kandidatų į Europos deleguotuosius prokurorus, nurodytus Reglamento (ES) 2017/1939 13 straipsnyje, atranka.
+
+2. Kandidatams į Europos deleguotuosius prokurorus keliami reikalavimai nustatyti Reglamento (ES) 2017/1939 17 straipsnio 2 dalyje.
+
+3. Geriausiai įvertintus kandidatus į Europos deleguotuosius prokurorus Europos vyriausiajam prokurorui pateikia generalinis prokuroras, vadovaudamasis Reglamento (ES) 2017/1939 17 straipsnio 1 dalimi ir atsižvelgdamas į Europos vyriausiojo prokuroro patvirtintą Europos deleguotųjų prokurorų skaičių Lietuvos Respublikai.
+
+Papildyta straipsniu:
+
+Nr. XIII-1902, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00797
 
