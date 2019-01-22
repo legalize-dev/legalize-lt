@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2019-01-01"
+last_updated: "2019-01-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto lengvatų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-21
+Suvestinė redakcija nuo 2019-01-22 iki 2020-11-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-890, i. k. 1001010ISTAIII-1605
 
@@ -179,7 +179,11 @@ Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
 
 4. Teisė įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo ir vietinio (priemiestinio) reguliaraus susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais bilietą su 50 procentų nuolaida suteikiama vežamiems vaikams nuo 7 iki 10 metų.
 
-5. Keleiviui, vežančiam keletą vaikų iki 7 metų tolimojo reguliaraus susisiekimo autobusais, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais, suteikiama teisė trečiajam ir kitiems vaikams iki 7 metų įgyti vienkartinį arba terminuotą vardinį važiavimo bilietą su 50 procentų nuolaida.
+5. Keleiviui, vežančiam vaiką (vaikus) iki 7 metų tolimojo reguliaraus susisiekimo autobusais, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais, suteikiama teisė vaikui (vaikams) iki 7 metų įgyti vienkartinį arba terminuotą vardinį važiavimo bilietą su 50 procentų nuolaida.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1935, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00865
 
 6. Aukštųjų mokyklų studentai, studijuojantys pagal nuolatinę arba dieninę studijų formą, Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių piliečiai bei jų šeimos nariai, studijuojantys Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių aukštosiose mokyklose pagal nuolatinę arba dieninę studijų formą, vaikai nuo 7 iki 8 metų, mokiniai, kurie mokosi mokyklose pagal bendrojo ugdymo programas (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, ir mokyklų, vykdančių specializuoto ugdymo krypties programas, mokiniai turi teisę įsigyti važiavimo vietinio (miesto) reguliaraus susisiekimo autobusais ir troleibusais bilietą su šiomis nuolaidomis:
 
