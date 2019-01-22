@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2019-01-01"
+last_updated: "2019-01-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-21
+Suvestinė redakcija nuo 2019-01-22 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -786,43 +786,25 @@ Banką Lietuvos Respublikoje Valstybinė ligonių kasa ir teritorinės ligonių 
 
 1. Privalomojo sveikatos draudimo fondo biudžeto išlaidas sudaro:
 
-1) iš Privalomojo sveikatos draudimo fondo biudžeto apmokamų asmens sveikatos priežiūros paslaugų, nustatytų pagal šį Įstatymą, išlaidos, sveikatos priežiūros įstaigoms, su kuriomis teritorinės ligonių kasos yra sudariusios sutartis, apmokėtos išlaidos, tarp jų – tarpvalstybinės sveikatos priežiūros išlaidų kompensavimas apdraustiesiems;
+1) išlaidos asmens sveikatos priežiūros paslaugoms;
 
-2) išlaidų vaistams ir medicinos pagalbos priemonėms įsigyti šio Įstatymo nustatyta tvarka kompensavimas apdraustiesiems;
+2) išlaidos vaistams, medicinos pagalbos priemonėms ir medicinos priemonių (prietaisų) nuomai;
 
-3) medicininės reabilitacijos ir sanatorinio gydymo išlaidų šio Įstatymo nustatyta tvarka kompensavimas apdraustiesiems;
+3) išlaidos medicininei reabilitacijai ir sanatoriniam gydymui;
 
-4) galūnių, sąnarių ir organų protezavimo bei protezų įsigijimo, centralizuotai apmokamų vaistų bei medicinos pagalbos priemonių kompensavimo išlaidos;
+4) išlaidos ortopedijos techninėms priemonėms;
 
-5) ortopedijos techninių priemonių įsigijimo išlaidos;
+5) išlaidos sveikatos programoms vykdyti ir kitoms sveikatos draudimo išlaidoms apmokėti;
 
-Straipsnio punkto pakeitimai:
+6) išlaidos privalomojo sveikatos draudimo sistemos funkcionavimui užtikrinti ir šį draudimą vykdančių institucijų veiklos išlaidoms apmokėti;
 
-Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
+7) išlaidos Valstybinio socialinio draudimo fondo veiklos sąnaudoms, susidarančioms dėl privalomojo sveikatos draudimo įmokų surinkimo ir pervedimo į Privalomojo sveikatos draudimo fondą, kompensuoti;
 
-6) išlaidos privalomąjį sveikatos draudimą vykdančių institucijų veiklos sąnaudoms kompensuoti, įskaitant šių institucijų išlaidas privalomojo sveikatos draudimo sistemos funkcionavimui užtikrinti;
+8) išlaidos Privalomojo sveikatos draudimo fondo biudžeto rezervui papildyti (sudaryti).
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
-
-7) išlaidos Valstybinio socialinio draudimo fondo sąnaudoms, susidarančioms dėl sveikatos draudimo įmokų surinkimo ir pervedimo į Privalomojo sveikatos draudimo fondą, padengti;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
-
-8) paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidų apmokėjimas šio Įstatymo ir kitų teisės aktų nustatyta tvarka;
-
-Papildyta straipsnio punktu:
-
-Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
-
-9) medicinos priemonių (prietaisų), būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų kompensavimas.
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
+Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
 
 2. Privalomojo sveikatos draudimo tarybos teikimu Valstybinė ligonių kasa, suderinusi su Sveikatos apsaugos ministerija, Privalomojo sveikatos draudimo fondo biudžeto lėšas gali skirti valstybinėms ir savivaldybių sveikatos programoms finansuoti.
 
