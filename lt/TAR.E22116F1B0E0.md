@@ -4,7 +4,7 @@ identifier: "TAR.E22116F1B0E0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-13"
-last_updated: "2019-01-01"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2019-07-05
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
 
@@ -71,11 +71,19 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
 
-4. Įstatymo nuostatos yra suderintos su šio Įstatymo priede pateiktais Europos Sąjungos teisės aktais.
+4. Šis Įstatymas kolektyvinio investavimo subjektams, veikiantiems pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą ir Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą, taikomas tiek, kiek šie įstatymai nenustato kitaip.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1883, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00239
+
+5. Įstatymo nuostatos yra suderintos su šio Įstatymo priede pateiktais Europos Sąjungos teisės aktais.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+
+Nr. XIII-1883, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00239
 
 Straipsnio pakeitimai:
 
