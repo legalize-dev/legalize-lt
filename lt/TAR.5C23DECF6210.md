@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2018-06-15"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-06-15 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2019-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
 
@@ -228,7 +228,13 @@ Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
 
 3) Mokslo ir studijų įstatyme nurodytų valstybės remiamų paskolų. Asmenims, gavusiems šiame punkte nurodytas paskolas, šio įstatymo 9 straipsnio nuostatos netaikomos;
 
-4) Lietuvos Respublikos juridinio asmens ar Lietuvos Respublikoje įsteigto Europos ekonominės erdvės valstybės narės įmonės filialo imamų paskolų, kai tokios paskolos imamos refinansuoti perskolinamą paskolą arba valstybės garantuojamą paskolą.
+4) Lietuvos Respublikos juridinio asmens ar Lietuvos Respublikoje įsteigto Europos ekonominės erdvės valstybės narės įmonės filialo imamų paskolų, kai tokios paskolos imamos refinansuoti perskolinamą paskolą arba valstybės garantuojamą paskolą;
+
+5) paskolų, naudojamų Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytų nacionaliniam saugumui užtikrinti svarbių įmonių apyvartinėms lėšoms papildyti, kai šios lėšos naudojamos strateginiams Lietuvos Respublikos tikslams pasiekti.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1787, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21240
 
 3. Vyriausybė valstybės vardu gali teikti valstybės garantiją tarptautinei finansų institucijai pagal Europos Sąjungos teisės aktus, Europos Sąjungos institucijų ar organizacijų sprendimus ir (arba) su tuo susijusias sutartis ar susitarimus, Lietuvos Respublikos tarptautines sutartis ar šių sutarčių pagrindu su tarptautine finansų institucija pasirašytus susitarimus.
 
@@ -304,7 +310,11 @@ Nr. XII-1123, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13629
 
 1. Vyriausybė sudaro Valstybinę paskolų komisiją. Valstybinė paskolų komisija teikia pasiūlymus Vyriausybei dėl:
 
-1) perskolinamų paskolų teikimo valstybės investicijoms finansuoti, valstybės socialinės apsaugos fondų skoliniams įsipareigojimams dengti ir šių fondų pinigų srautams subalansuoti, valstybės nekilnojamajam turtui atnaujinti, Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme numatytų indėlių ir (ar) įsipareigojimų investuotojams draudimo išmokų mokėjimui finansuoti, Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytiems tikslams finansuoti, valstybės garantijų, nurodytų šio įstatymo 4 straipsnio 2 dalies 1, 2, 4 punktuose ir 3 dalyje, teikimo valstybės investicijoms finansuoti, taip pat tokių valstybės garantijų sąlygų keitimo;
+1) perskolinamų paskolų teikimo valstybės investicijoms finansuoti, valstybės socialinės apsaugos fondų skoliniams įsipareigojimams dengti ir šių fondų pinigų srautams subalansuoti, valstybės nekilnojamajam turtui atnaujinti, Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme numatytų indėlių ir (ar) įsipareigojimų investuotojams draudimo išmokų mokėjimui finansuoti, Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytiems tikslams finansuoti, valstybės garantijų, nurodytų šio įstatymo 4 straipsnio 2 dalies 1, 2, 4, 5 punktuose ir 3 dalyje, teikimo, taip pat tokių valstybės garantijų sąlygų keitimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1787, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21240
 
 2) suteiktų perskolinamų paskolų pagal perskolinamų paskolų sutartis ir skolinių įsipareigojimų pagal kitus įsipareigojamuosius skolos dokumentus kapitalizavimo, reikalavimų perleidimo atlygintinai, skolos perkėlimo, valstybės skolininko atleidimo nuo apskaičiuotų, bet nesumokėtų delspinigių ir delspinigių skaičiavimo sustabdymo, atleidimo nuo valiutų kursų skirtumo mokėjimo;
 
@@ -344,7 +354,11 @@ Nr. XIII-181, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29869
 
 9 straipsnis. Valstybės skolininkų ir valstybės garantuojamų skolininkų finansinės veiklos kontrolė
 
-1. Asmenys, norintys gauti perskolinamą paskolą arba valstybės garantiją dėl gaunamos paskolos valstybės investicijų projektui finansuoti, Finansų ministerijai privalo pateikti Vyriausybės nustatytus dokumentus.
+1. Asmenys, norintys gauti perskolinamą paskolą arba valstybės garantiją, dėl gaunamos paskolos Finansų ministerijai privalo pateikti Vyriausybės nustatytus dokumentus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1787, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21240
 
 2. Valstybės skolininkai ir valstybės garantuojami skolininkai privalo teikti Finansų ministerijai arba centralizuotai valdomo valstybės turto valdytojui, kai šis valdytojas administruoja Finansų ministerijos perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, metinės ūkinės ir finansinės veiklos ataskaitas, metinės veiklos, kai buvo disponuojama perskolinama arba valstybės garantuojama paskola, auditoriaus išvadą, kito laikotarpio auditoriaus išvadą Finansų ministerijos arba centralizuotai valdomo valstybės turto valdytojo reikalavimu, taip pat informaciją apie esamas ir atidaromas naujas sąskaitas Lietuvos Respublikos ir užsienio valstybių kredito įstaigose, Lietuvos Respublikos ir užsienio valstybių kredito įstaigų sąskaitų ir kitų rekvizitų, nurodytų sutartyse, pasikeitimus.
 
@@ -621,4 +635,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1255, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09923
 
 Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1787, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21240
+
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 4, 7 ir 9 straipsnių pakeitimo įstatymas
 
