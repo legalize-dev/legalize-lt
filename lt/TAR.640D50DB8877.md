@@ -4,7 +4,7 @@ identifier: "TAR.640D50DB8877"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-11-24"
-last_updated: "2017-05-01"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2017-05-01 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2019-06-19
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
 
@@ -103,7 +103,11 @@ BENDROSIOS NUOSTATOS
 
 23. Viešosios paslaugos smulkiajam ir vidutiniam verslui – informavimas, konsultavimas verslo pradžios, verslo plėtros ir kitais verslui aktualiais klausimais, mokymo, kvalifikacijos kėlimo ar perkvalifikavimo, metodinės paslaugos, teikiamos smulkiojo ir vidutinio verslo subjektams ir (arba) verslą pradėti ketinantiems fiziniams asmenims, taip pat patalpų, techninės ir biuro įrangos nuoma ir praktinė pagalba nuomojantiems šias patalpas smulkiojo ir vidutinio verslo subjektams.
 
-24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatyme.
+24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1882, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00236
 
 II SKYRIUS
 
@@ -325,7 +329,7 @@ b) laikytis Lietuvos smulkiojo ir vidutinio verslo tarybos sprendimu tvirtinamo 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -412,4 +416,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-192, 2017-01-12, paskelbta TAR 2017-01-24, i. k. 2017-01325
 
 Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1882, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00236
+
+Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2 straipsnio pakeitimo įstatymas
 
