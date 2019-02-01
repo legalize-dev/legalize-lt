@@ -4,7 +4,7 @@ identifier: "TAR.3DF892F52616"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2018-06-15"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vertybinių popierių įstatymas
 
-Suvestinė redakcija nuo 2018-06-15 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2019-07-20
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-626, i. k. 1071010ISTA00X-1023
 
@@ -605,11 +605,11 @@ PENKTASIS SKIRSNIS
 
 3. Antrinė vertybinių popierių apyvarta – siūlymas įsigyti vertybinių popierių ir jų perleidimas pasibaigus pirminei vertybinių popierių apyvartai.
 
-4. Atvirojo tipo kolektyvinio investavimo subjektas – investicinis fondas ar investicinė bendrovė, kurių:
+4. Atvirojo tipo kolektyvinio investavimo subjektas – kaip tai apibrėžta Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme.
 
-1) tikslas – viešai platinant investicinius vienetus ar akcijas, kaupti asmenų lėšas ir padalijant riziką jas kolektyviai investuoti į vertybinius popierius ir (arba) kitą Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme nurodytą turtą;
+Straipsnio dalies pakeitimai:
 
-2) vertybiniai popieriai (investiciniai vienetai arba akcijos) patvirtina jų turėtojo teisę bet kada pareikalauti juos išpirkti.
+Nr. XIII-1884, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00241
 
 5. Bendrovė, dėl kurios akcijų teikiamas oficialus siūlymas, – bendrovė, kurios vertybiniai popieriai yra oficialaus siūlymo objektas.
 
@@ -1494,4 +1494,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
 
 Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 26, 46, 47, 48, 50, 51, 52 straipsnių pakeitimo ir 53 straipsnio pripažinimo netekusiu galios įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1884, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00241
+
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2 straipsnio pakeitimo įstatymas
 
