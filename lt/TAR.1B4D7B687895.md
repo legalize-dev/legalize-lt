@@ -4,7 +4,7 @@ identifier: "TAR.1B4D7B687895"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-01"
-last_updated: "2019-01-13"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Neoficialus ?statymo tekstas
 
-Suvestinė redakcija nuo 2019-01-13 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2019-07-20
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
 
@@ -756,11 +756,13 @@ Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 
 3) atlieka elektroninių pinigų įstaigų, elektroninių pinigų įstaigų tarpininkų ir užsienio valstybių elektroninių pinigų įstaigų filialų, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitų įstatymų, reglamentuojančių šių subjektų veiklą, Lietuvos bankui priskirtas funkcijas;
 
-4) atlieka finansų maklerio įmonių, finansų maklerio įmonės priklausomų tarpininkų, finansų patarėjo įmonių, reguliuojamų rinkų operatorių, informacijos apie sandorius paslaugų teikėjų, lyginamojo indekso administratorių, prižiūrimų duomenų tiekėjų, valdymo įmonių, investicinių bendrovių, depozitoriumų, užsienio valstybių finansų maklerio įmonių ir valdymo įmonių filialų, įsteigtų Lietuvos Respublikoje, pensijų asociacijų, kontroliuojančiųjų investicinių bendrovių ir emitentų priežiūrą ir kitas Lietuvos Respublikos finansinių priemonių rinkų įstatymo, Lietuvos Respublikos vertybinių popierių įstatymo, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo, Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo, Lietuvos Respublikos pensijų kaupimo įstatymo, Lietuvos Respublikos profesinių pensijų kaupimo įstatymo, Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Lietuvos bankui priskirtas funkcijas;
+4) atlieka finansų maklerio įmonių, finansų maklerio įmonės priklausomų tarpininkų, finansų patarėjo įmonių, reguliuojamų rinkų operatorių, informacijos apie sandorius paslaugų teikėjų, lyginamojo indekso administratorių, prižiūrimų duomenų tiekėjų, valdymo įmonių, investicinių bendrovių, centrinių vertybinių popierių depozitoriumų, užsienio valstybių centrinių vertybinių popierių depozitoriumų filialų, įsteigtų Lietuvos Respublikoje, depozitoriumų, užsienio valstybių finansų maklerio įmonių ir valdymo įmonių filialų, įsteigtų Lietuvos Respublikoje, pensijų asociacijų, kontroliuojančiųjų investicinių bendrovių ir emitentų priežiūrą ir kitas Lietuvos Respublikos finansinių priemonių rinkų įstatymo, Lietuvos Respublikos vertybinių popierių įstatymo, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo, Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo, Lietuvos Respublikos pensijų kaupimo įstatymo, Lietuvos Respublikos profesinių pensijų kaupimo įstatymo, Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Lietuvos bankui priskirtas funkcijas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
+
+Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 
 5) vykdo mokėjimo įstaigų ir mokėjimo įstaigų tarpininkų priežiūrą ir atlieka kitas Lietuvos Respublikos mokėjimo įstaigų įstatymo Lietuvos bankui priskirtas funkcijas;
 
@@ -772,7 +774,11 @@ Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 
 9) atlieka valiutos keityklų operatorių priežiūrą ir kitas Lietuvos Respublikos valiutos keityklos operatorių įstatymo Lietuvos bankui priskirtas funkcijas;
 
-10) atlieka Reglamento (EB) Nr. 1060/2009 ir Reglamento (ES) Nr. 1286/2014 kompetentingai institucijai priskirtas funkcijas;
+10) atlieka Reglamento (EB) Nr. 1060/2009, Reglamento (ES) Nr. 1286/2014, Reglamento (ES) 2017/1131 kompetentingai institucijai priskirtas funkcijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 
 11) atlieka sutelktinio finansavimo platformos operatorių priežiūrą ir kitas Lietuvos Respublikos sutelktinio finansavimo įstatymo Lietuvos bankui priskirtas funkcijas;
 
@@ -1378,11 +1384,11 @@ Metinės pajamos
 
 Valdymo įmonės, investicinės bendrovės, kurių valdymas neperduotas valdymo įmonėms, ir šių subjektų filialai, įsteigti Lietuvos Respublikoje
 
-Valdomų neprofesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų grynųjų aktyvų vertė
+Valdomų neprofesionaliesiems investuotojams skirtų suderintųjų kolektyvinio investavimo subjektų, specialiųjų kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų grynųjų aktyvų vertė
 
 0,05 proc.
 
-Valdomų informuotiesiems ir profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų grynųjų aktyvų vertė
+Valdomų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų grynųjų aktyvų vertė
 
 0,02 proc.
 
@@ -1540,6 +1546,8 @@ Nr. XII-2771, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26971
 
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
+Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
+
 Pakeistas priedo pavadinimas:
 
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
@@ -1673,6 +1681,12 @@ Lietuvos banko įstatymo
 12. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190).
 
 13. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014, L 352, p. 1).
+
+14. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų (OL 2017 L 169, p. 8).
+
+Papildyta punktu:
+
+Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 
 Priedo pakeitimai:
 
@@ -2081,6 +2095,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 ir 43 straipsnių pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
+
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio, 1 ir 3 priedų pakeitimo įstatymas
 
 211 straipsnis. Finansų rinkos priežiūros ir finansų sektoriaus subjektų pertvarkymo institucijos veiklos finansavimas
 
