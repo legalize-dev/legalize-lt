@@ -4,7 +4,7 @@ identifier: "TAR.3BAADED2C30B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2018-06-15"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-06-15 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2635, i. k. 1021010ISTA00IX-975
 
@@ -107,7 +107,11 @@ BENDROSIOS NUOSTATOS
 
 26. Įsipareigojimų investuotojams draudžiamasis įvykis – bankroto bylos iškėlimas įsipareigojimų investuotojams draudimo sistemos dalyviui arba priežiūros institucijos sprendimas pripažinti įsipareigojimų investuotojams draudimo sistemos dalyvį nemokiu, kai įsipareigojimų investuotojams draudimo sistemos dalyvis dėl su savo finansine padėtimi susijusių priežasčių negali įvykdyti įsipareigojimų investuotojams ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu.
 
-27. Kolektyvinio investavimo subjektas – kolektyvinio investavimo subjektas, kaip tai apibrėžta Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme; profesionaliesiems investuotojams skirtas kolektyvinio investavimo subjektas, kaip tai apibrėžta Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatyme; informuotiesiems investuotojams skirtas kolektyvinio investavimo subjektas, kaip tai apibrėžta Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme.
+27. Kolektyvinio investavimo subjektas – kolektyvinio investavimo subjektas, kaip tai apibrėžta Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme; alternatyvusis kolektyvinio investavimo subjektas, kaip tai apibrėžta Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme; informuotiesiems investuotojams skirtas kolektyvinio investavimo subjektas, kaip tai apibrėžta Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1878, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00229
 
 28. Kredito įstaiga – kaip tai apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 1 punkte.
 
@@ -133,7 +137,11 @@ BENDROSIOS NUOSTATOS
 
 39. Trečiosios valstybės indėlių draudimo sistemos administratorius – trečiosios valstybės indėlių draudimo sistemą administruojanti įstaiga arba tuo atveju, kai indėlių draudimo sistemą administruoja privatus asmuo, viešosios valdžios institucija, kurią atitinkama trečioji valstybė paskyrė vykdyti tos indėlių draudimo sistemos priežiūrą.
 
-40. Valdymo įmonė – kolektyvinio investavimo subjekto valdymo įmonė, kaip tai apibrėžta Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme; pensijų fondo valdymo įmonė, kaip tai apibrėžta Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatyme; profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonė, kaip tai apibrėžta Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatyme; informuotiesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonė, kaip tai apibrėžta Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme.
+40. Valdymo įmonė – kolektyvinio investavimo subjekto valdymo įmonė, kaip tai apibrėžta Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme; pensijų fondo valdymo įmonė, kaip tai apibrėžta Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatyme; alternatyviojo kolektyvinio investavimo subjekto valdymo įmonė, kaip tai apibrėžta Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme; informuotiesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonė, kaip tai apibrėžta Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1878, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00229
 
 41. Valstybė narė – valstybė Europos Sąjungos narė, taip pat Europos ekonominės erdvės valstybė.
 
@@ -516,10 +524,6 @@ Trečiasis SKIRSNIS
 7 straipsnis. Indėlių draudimo išmokų išmokėjimas
 
 1. Indėlininkas įgyja teisę į indėlių draudimo išmoką nuo indėlių draudžiamojo įvykio dienos. Jeigu indėlių draudžiamojo įvykio dieną indėlininkui priklausančios lėšos vadovaujantis įstatymais turi būti laikomos depozitinėje sąskaitoje, indėlininkams priklausančios draudimo išmokos šiame straipsnyje nustatyta tvarka išmokamos tam asmeniui, kurio vardu atidarytoje sąskaitoje laikomos indėlininkams priklausančios lėšos. Indėlių draudimo išmoka mokama eurais. Indėlių draudimo išmoka mokama euro centų tikslumu – dviejų skaitmenų po kablelio tikslumu ir apvalinama pagal matematines skaičių apvalinimo taisykles.
-
-2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 20 darbo dienų nuo indėlių draudžiamojo įvykio dienos.
-
-2 dalies redakcija nuo 2019 m. sausio 1 d. iki 2020 m. gruodžio 31 d.:
 
 2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 15 darbo dienų nuo indėlių draudžiamojo įvykio dienos.
 
@@ -1356,4 +1360,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1254, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09922
 
 Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 33 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1878, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00229
+
+Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2 straipsnio pakeitimo įstatymas
 
