@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2019-01-01"
+last_updated: "2019-02-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-02-20
+Suvestinė redakcija nuo 2019-02-21 iki 2019-09-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -1017,7 +1017,17 @@ Nr. XI-912, 2010-06-18, Žin., 2010, Nr. 72-3616 (2010-06-22)
 
 14) organizuoja žemės išteklių naudojimo stebėseną;
 
-15) atlieka kitas šio ir kitų įstatymų jai nustatytas funkcijas.
+15) kai yra pagrindas manyti, kad viešasis interesas pažeistas valstybinės žemės naudojimo, valdymo ir disponavimo ja srityje, kreipiasi į teismą dėl viešojo intereso gynimo, išskyrus atvejus, kai viešasis interesas pažeistas dėl Nacionalinės žemės tarnybos arba institucijų, kurių funkcijas ji perėmė, veiksmų ar neveikimo. Tais atvejais, kai viešasis interesas pažeistas dėl Nacionalinės žemės tarnybos arba institucijų, kurių funkcijas ji perėmė, veiksmų ar neveikimo, Nacionalinė žemės tarnyba dėl viešojo intereso gynimo kreipiasi į prokuratūrą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1967, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02747
+
+16) atlieka kitas šio ir kitų įstatymų jai nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1967, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02747
 
 4. Savivaldybės institucijos savivaldybės teritorijoje:
 
@@ -2110,6 +2120,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1268, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10513
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 10 straipsnių pakeitimo ir Įstatymo papildymo 31-1 straipsniu įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1967, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02747
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 32 straipsnio pakeitimo įstatymas
 
 55 straipsnis. Žemės ginčų
 
