@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2019-01-01"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
+Suvestinė redakcija nuo 2019-03-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -641,8 +641,6 @@ TEISMO POSĖDŽIO PERTRAUKA, BYLOS NAGRINĖJIMO ATIDĖJIMAS IR BYLOS SUSTABDYMAS
 
 2. Lietuvos Aukščiausiasis Teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą šio Kodekso 3 straipsnio 6 dalyje nustatyta tvarka ir pagrindais.
 
-TAR pastaba. Papildymas 2 dalimi įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną (2018-08-01).
-
 Straipsnio pakeitimai:
 
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
@@ -995,9 +993,15 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 3. Apeliacinį skundą surašo advokatas. Juridinio asmens apeliacinį skundą taip pat gali surašyti juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą. Jeigu apeliantas yra fizinis asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, surašyti apeliacinį skundą turi teisę jis pats. Be to, apeliacinį skundą gali surašyti šio Kodekso 56 straipsnio 1 dalies 4, 5, 6 ir 7 punktuose nurodyti asmenys. Apeliacinį skundą pasirašo jį paduodantis asmuo ir skundą surašęs asmuo.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio proceso kodekso 306 straipsnio 3 dalis (2016 m. lapkričio 8 d. redakcija; TAR, 2016-11-17, Nr. 26956) prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+
 Papildyta straipsnio dalimi:
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT9-N3/2019, 2019-03-01, paskelbta TAR 2019-03-01, i. k. 2019-03464
 
 4. Kartu su apeliaciniu skundu turi būti pateikiami įrodymai, numatyti šio Kodekso 314 straipsnyje, ir motyvai, kodėl įrodymai nebuvo pateikti anksčiau (jeigu apeliantas jų turi), taip pat duomenys apie tai, kad už skundą sumokėtas žyminis mokestis (arba kad nuo žyminio mokesčio apeliantas atleistas, arba kad žyminio mokesčio sumokėjimas atidėtas).
 
@@ -6059,10 +6063,6 @@ Teismas gali dalyvaujančių byloje asmenų pareiškimu ar savo iniciatyva susta
 
 165 straipsnis. Teismo nutarčių dėl bylos sustabdymo apskundimas
 
-Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į kompetentingą Europos Sąjungos teisminę instituciją, Konstitucinį Teismą ar administracinį teismą, gali būti duodamas atskirasis skundas.
-
-1 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01):
-
 Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į kompetentingą Europos Sąjungos teisminę instituciją, Europos Žmogaus Teisių Teismą, Konstitucinį Teismą ar administracinį teismą, gali būti duodamas atskirasis skundas.
 
 Straipsnio pakeitimai:
@@ -7834,10 +7834,6 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 366 straipsnis. Proceso atnaujinimo pagrindai
 
 1. Procesas gali būti atnaujinamas, jei yra šie pagrindai:
-
-1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika, arba kai Europos Žmogaus Teisių Teismas nagrinėjamą peticiją išbraukia iš bylų sąrašo taikaus susitarimo ar vienašalės deklaracijos pagrindu, jeigu taikiu susitarimu ar vienašale deklaracija pripažįstama, kad Lietuvos Respublikos teismų sprendimais, nutartimis ar nutarimais civilinėse bylose buvo pažeistos Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ir (ar) jos papildomuose protokoluose, kurių dalyvė yra Lietuvos Respublika, nustatytos pareiškėjų teisės dėl Lietuvos Respublikos teismų sprendimų, nutarčių ar nutarimų civilinėse bylose;
-
-1 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01):
 
 1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika, arba kai Europos Žmogaus Teisių Teismas nagrinėjamą peticiją išbraukia iš bylų sąrašo taikaus susitarimo ar vienašalės deklaracijos pagrindu, jeigu taikiu susitarimu ar vienašale deklaracija pripažįstama, kad Lietuvos Respublikos teismų sprendimais, nutartimis ar nutarimais civilinėse bylose buvo pažeistos Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ir (ar) jos papildomuose protokoluose, kurių dalyvė yra Lietuvos Respublika, nustatytos pareiškėjų teisės dėl Lietuvos Respublikos teismų sprendimų, nutarčių ar nutarimų civilinėse bylose;
 
