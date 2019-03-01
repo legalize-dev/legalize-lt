@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2019-01-01"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
+Suvestinė redakcija nuo 2019-03-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -288,7 +288,11 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 a) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui;
 
-b) pateikiami dokumentai, patvirtinantys užsieniečio turimą kvalifikaciją ir ne mažesnę negu vienerių metų darbo patirtį pagal turimą kvalifikaciją per pastaruosius dvejus metus, išskyrus šio straipsnio 2 dalyje nurodytą atvejį;
+b) pateikiama darbdavio informacija apie užsieniečio turimą kvalifikaciją ir ne mažesnę negu vienerių metų darbo patirtį pagal turimą kvalifikaciją per pastaruosius dvejus metus, išskyrus šio straipsnio 2 dalyje nurodytą atvejį;
+
+Papunkčio pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 c) Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
 
@@ -318,13 +322,19 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 6. Užsieniečiui, kuris ketina dirbti, leidimas laikinai gyventi išduodamas laikotarpiui, kurį galioja jam išduotas leidimas dirbti, bet ne ilgiau kaip dvejiems metams. Jeigu užsienietis yra atleidžiamas nuo pareigos įsigyti leidimą dirbti arba atitinka šio straipsnio 1 dalies 3 punkte nustatytas sąlygas, leidimas laikinai gyventi jam išduodamas arba keičiamas darbo Lietuvos Respublikoje laikotarpiui, bet ne ilgiau kaip dvejiems metams.
 
-7. Jeigu leidimas laikinai gyventi išduotas pagal šio straipsnio 1 dalies 1 ar 3 punktą, užsienietis gali dirbti tik pas tą darbdavį, kuris įsipareigojo jį įdarbinti Lietuvos Respublikoje.
+7. Jeigu leidimas laikinai gyventi išduotas pagal šio straipsnio 1 dalies 1 ar 3 punktą, užsienietis gali dirbti tik pas tą darbdavį, kuris įsipareigojo jį įdarbinti Lietuvos Respublikoje. Jeigu užsienietis, kuriam leidimas laikinai gyventi išduotas pagal šio straipsnio 1 dalies 3 punktą, pageidauja pakeisti darbdavį arba darbo funkciją pas tą patį darbdavį, ne vėliau kaip prieš 3 mėnesius iki darbo sutarties su naujuoju darbdaviu sudarymo dienos arba darbo funkcijos pakeitimo dienos turi pateikti Migracijos departamentui prašymą leisti pakeisti darbdavį ar darbo funkciją. Patikrinęs, ar užsienietis atitinka šio straipsnio 1 dalies 3 punkte nustatytas sąlygas, Migracijos departamentas priima sprendimą dėl leidimo pakeisti darbdavį ar darbo funkciją.
 
-8. Darbo sutartis su užsieniečiu, kuris ketina dirbti Lietuvos Respublikoje ir atitinka šio straipsnio 1 dalies 3 punkte nustatytas sąlygas, turi būti sudaryta ir jos kopiją Užimtumo tarnybai registruoti darbdavys turi pateikti per 2 mėnesius nuo leidimo laikinai gyventi šiam užsieniečiui išdavimo dienos.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+8. Neteko galios 2019-03-01.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 9. Pasibaigus leidimo dirbti galiojimui arba darbui Lietuvos Respublikoje, užsienietis privalo išvykti iš Lietuvos Respublikos.
 
@@ -568,7 +578,11 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 2) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui;
 
-3) pateikiami dokumentai, patvirtinantys užsieniečio turimą kvalifikaciją ir ne mažesnę negu vienerių metų darbo patirtį pagal turimą kvalifikaciją per pastaruosius dvejus metus, išskyrus užsienietį, kuris atvyksta dirbti kaip stažuotojas ar praktikantas.
+3) pateikiama darbdavio informacija apie užsieniečio turimą kvalifikaciją ir ne mažesnę negu vienerių metų darbo patirtį pagal turimą kvalifikaciją per pastaruosius dvejus metus, išskyrus užsienietį, kuris atvyksta dirbti kaip stažuotojas ar praktikantas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 Straipsnio dalies pakeitimai:
 
@@ -1268,9 +1282,9 @@ Straipsnio pakeitimai:
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
-102 straipsnis. Pažymos Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti ir Europos Sąjungos leidimo laikinai gyventi kortelės galiojimas
+102 straipsnis. Teisės laikinai gyventi Lietuvos Respublikoje pažymėjimo ir Europos Sąjungos leidimo laikinai gyventi kortelės galiojimas
 
-Pažyma Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti ir Europos Sąjungos leidimo laikinai gyventi kortelė išduodamos ir keičiamos 5 metams arba numatomam Europos Sąjungos valstybės narės piliečio gyvenimo Lietuvos Respublikoje laikotarpiui, jeigu šis laikotarpis yra trumpesnis negu 5 metai.
+Teisės laikinai gyventi Lietuvos Respublikoje pažymėjimas ir Europos Sąjungos leidimo laikinai gyventi kortelė išduodami ir keičiami 5 metams arba numatomam Europos Sąjungos valstybės narės piliečio gyvenimo Lietuvos Respublikoje laikotarpiui, jeigu šis laikotarpis yra trumpesnis negu 5 metai.
 
 Straipsnio pakeitimas:
 
@@ -1280,21 +1294,37 @@ Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
+Straipsnio pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
 104 straipsnis. Nuolatinio gyvenimo Lietuvos Respublikoje pagrindai
 
 1. Europos Sąjungos valstybės narės pilietis, kuris teisėtai gyveno Lietuvos Respublikoje pastaruosius 5 metus arba kuris turi teisę atkurti Lietuvos Respublikos pilietybę Lietuvos Respublikos pilietybės įstatymo nustatyta tvarka, arba kuris yra lietuvių kilmės asmuo, arba atvyko gyventi į Lietuvos Respubliką kartu su Lietuvos Respublikos piliečiu kaip jo šeimos narys, įgyja teisę nuolat gyventi Lietuvos Respublikoje.
 
 2. Šio straipsnio 1 dalyje nurodyto Europos Sąjungos valstybės narės piliečio šeimos nariai taip pat įgyja teisę nuolat gyventi Lietuvos Respublikoje, jeigu jie Lietuvos Respublikoje teisėtai gyveno pastaruosius 5 metus su Europos Sąjungos valstybės narės piliečiu arba jie yra Europos Sąjungos valstybės narės piliečio, turinčio teisę atkurti Lietuvos Respublikos pilietybę Lietuvos Respublikos pilietybės įstatymo nustatyta tvarka, arba lietuvių kilmės asmens šeimos nariai. Teisę nuolat gyventi Lietuvos Respublikoje taip pat įgyja šio Įstatymo 1011 straipsnio 1 dalyje nurodyti Europos Sąjungos piliečio šeimos nariai, kurie teisėtai gyveno Lietuvos Respublikoje pastaruosius 5 metus.
 
-3. Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduodama vidaus reikalų ministro nustatytos formos pažyma.
+3. Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduodamas teisės nuolat gyventi Lietuvos Respublikoje pažymėjimas, kuris galioja 10 metų nuo jo išdavimo dienos. Teisės nuolat gyventi Lietuvos Respublikoje pažymėjime elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 4. Europos Sąjungos valstybės narės piliečio šeimos nariui, kuris nėra Europos Sąjungos valstybės narės pilietis, jo teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduodama Europos Sąjungos leidimo nuolat gyventi kortelė, kuri galioja 10 metų. Europos Sąjungos leidimo nuolat gyventi kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus.
 
 5. Nebuvimo Lietuvos Respublikoje laikotarpis, viršijantis 6 mėnesius per metus, gali būti pagrindas nesuteikti teisės nuolat gyventi Lietuvos Respublikoje, išskyrus atvejus, kai nebuvimas Lietuvos Respublikoje yra susijęs su svarbiomis priežastimis (dėl nėštumo, gimdymo, sunkios ligos, studijų, profesinio mokymo arba paskyrimo į kitą Europos Sąjungos valstybę narę ar trečiąją valstybę ar kitais pagal šio straipsnio 6 dalį nustatytais atvejais).
 
-6. Tvarką, nustatančią pažymos Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išdavimą ir Europos Sąjungos leidimo nuolat gyventi kortelės išdavimą, keitimą ir panaikinimą Europos Sąjungos valstybės narės piliečio šeimos nariams, kurie nėra Europos Sąjungos valstybės narės piliečiai, nustato vidaus reikalų ministras.
+6. Tvarką, nustatančią teisės nuolat gyventi Lietuvos Respublikoje pažymėjimo ir Europos Sąjungos leidimo nuolat gyventi kortelės išdavimą, keitimą ir panaikinimą, Europos Sąjungos valstybės narės piliečio ir (ar) jo šeimos nario teisės nuolat gyventi Lietuvos Respublikoje panaikinimą, nustato vidaus reikalų ministras.
 
-7. Sprendimus dėl pažymos Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išdavimo, Europos Sąjungos leidimo nuolat gyventi kortelės išdavimo, keitimo ir panaikinimo priima ir pažymą Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduoda, Europos Sąjungos leidimo nuolat gyventi kortelę išduoda, keičia ir panaikina vidaus reikalų ministro įgaliotos institucijos.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+7. Sprendimus dėl teisės nuolat gyventi Lietuvos Respublikoje pažymėjimo, Europos Sąjungos leidimo nuolat gyventi kortelės išdavimo, keitimo ir panaikinimo priima ir teisės nuolat gyventi Lietuvos Respublikoje pažymėjimą, Europos Sąjungos leidimo nuolat gyventi kortelę išduoda, keičia ir panaikina vidaus reikalų ministro įgaliotos institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 8. Šio straipsnio 1 ir 2 dalyse nurodytą 5 metų terminą nutraukia teismo paskirtos laisvės atėmimo bausmės atlikimo laikas.
 
@@ -2708,9 +2738,13 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 4.  Užsienietis, kuriam leidimas laikinai gyventi išduotas ar pakeistas kaip dirbančiam aukštos profesinės kvalifikacijos reikalaujantį darbą, pirmuosius dvejus teisėto darbo Lietuvos Respublikoje metus gali dirbti tik pas tą darbdavį, kuris pakvietė užsienietį dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, išskyrus šio straipsnio 5 dalyje nurodytą atvejį.
 
-5. Jeigu užsienietis per pirmuosius 2 teisėto darbo Lietuvos Respublikoje metus pageidauja pakeisti darbdavį, ne vėliau kaip prieš 3 mėnesius iki darbo sutarties su naujuoju darbdaviu sudarymo dienos turi pateikti Migracijos departamentui prašymą leisti pakeisti darbdavį. Patikrinęs, ar užsienietis atitinka nustatytas sąlygas dirbti šį aukštos profesinės kvalifikacijos reikalaujantį darbą, Migracijos departamentas priima sprendimą dėl leidimo pakeisti darbdavį.
+5. Jeigu užsienietis per pirmuosius dvejus teisėto darbo Lietuvos Respublikoje metus pageidauja pakeisti darbdavį arba darbo funkciją pas tą patį darbdavį, ne vėliau kaip prieš 3 mėnesius iki darbo sutarties su naujuoju darbdaviu sudarymo dienos arba darbo funkcijos pakeitimo dienos turi pateikti Migracijos departamentui prašymą leisti pakeisti darbdavį ar darbo funkciją. Patikrinęs, ar užsienietis atitinka šio straipsnio 1 dalyje nustatytas sąlygas dirbti šį aukštos profesinės kvalifikacijos reikalaujantį darbą, Migracijos departamentas priima sprendimą dėl leidimo pakeisti darbdavį ar darbo funkciją.
 
-6. Jeigu leidimas laikinai gyventi išduotas pateikus darbdavio įsipareigojimą įdarbinti užsienietį ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai, ir leidimo laikinai gyventi galiojimo laikotarpiu numatytas darbo užmokestis tampa mažesnis negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai, leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio straipsnio 1 dalies 1 punkte nustatytą sąlygą ir Užimtumo tarnyba socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+6. Jeigu leidimas laikinai gyventi išduotas pateikus darbdavio įsipareigojimą įdarbinti užsienietį ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai, ir leidimo laikinai gyventi galiojimo laikotarpiu pakeičiamos darbo sutarties sąlygos, dėl ko numatytas darbo užmokestis tampa mažesnis negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai, leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio straipsnio 1 dalies 1 punkte, 3 punkto a papunktyje arba 3 punkto c papunktyje nustatytas sąlygas.
 
 Straipsnio dalies pakeitimai:
 
@@ -2718,11 +2752,15 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
 
-7. Darbo sutartis su užsieniečiu, kuris ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, turi būti sudaryta ir darbdavys jos kopiją Užimtumo tarnybai registruoti turi pateikti per 2 mėnesius nuo leidimo laikinai gyventi šiam užsieniečiui išdavimo arba nuo darbo sutarties su naujuoju darbdaviu sudarymo dienos.
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+7. Neteko galios 2019-03-01.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 Įstatymas papildytas straipsniu:
 
@@ -2774,19 +2812,23 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
-991 straipsnis. Prašymo išduoti pažymą Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti nagrinėjimo terminas
+991 straipsnis. Teisės laikinai gyventi Lietuvos Respublikoje pažymėjimo išdavimas ir keitimas
 
-Prašymas išduoti ar pakeisti pažymą Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti turi būti išnagrinėtas ir šis dokumentas turi būti išduotas ne vėliau kaip per 10 darbo dienų nuo prašymo pateikimo vidaus reikalų ministro įgaliotai institucijai dienos.
+Prašymas išduoti ar pakeisti teisės laikinai gyventi Lietuvos Respublikoje pažymėjimą turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo vidaus reikalų ministro įgaliotai institucijai dienos.
 
 Įstatymas papildytas straipsniu:
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
-1031 straipsnis. Pažymos Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti ir Europos Sąjungos leidimo laikinai gyventi kortelės negaliojimas
+Straipsnio pakeitimai:
 
-Pažyma Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti ir Europos Sąjungos leidimo laikinai gyventi kortelė negalioja, kai:
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
-1) dokumentas per vienus metus neatsiimamas;
+1031 straipsnis. Teisės laikinai gyventi Lietuvos Respublikoje pažymėjimo ir Europos Sąjungos leidimo laikinai gyventi kortelės negaliojimas
+
+Teisės laikinai gyventi Lietuvos Respublikoje pažymėjimas ir Europos Sąjungos leidimo laikinai gyventi kortelė negalioja, kai:
+
+1) dokumentas per vienerius metus neatsiimamas;
 
 2) pasibaigia dokumento galiojimo laikas;
 
@@ -2809,6 +2851,10 @@ Pažyma Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Li
 Įstatymas papildytas straipsniu:
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 105 straipsnis. Teisės nuolat gyventi suteikimas nepraėjus 5 metų laikotarpiui
 
@@ -2846,13 +2892,17 @@ Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
-1051 straipsnis. Prašymo išduoti ar pakeisti pažymą Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti nagrinėjimo terminas
+1051 straipsnis. Teisės nuolat gyventi Lietuvos Respublikoje pažymėjimo išdavimas ir keitimas
 
-Prašymas išduoti ar pakeisti pažymą Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti turi būti išnagrinėtas ir šis dokumentas turi būti išduotas ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo vidaus reikalų ministro įgaliotai institucijai dienos.
+Prašymas išduoti ar pakeisti teisės nuolat gyventi Lietuvos Respublikoje pažymėjimą turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo vidaus reikalų ministro įgaliotai institucijai dienos.
 
 Įstatymas papildytas straipsniu:
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 1052 straipsnis. Prašymo išduoti ar pakeisti Europos Sąjungos leidimo nuolat gyventi kortelę nagrinėjimo terminas
 
@@ -2862,9 +2912,9 @@ Prašymas išduoti ar pakeisti Europos Sąjungos leidimo nuolat gyventi kortelę
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
-1053 straipsnis. Pažymos Europos Sąjungos valstybės narės piliečio teisei laikinai ar nuolat gyventi Lietuvos Respublikoje patvirtinti ar Europos Sąjungos leidimo gyventi kortelės keitimo pagrindai
+1053 straipsnis. Teisės gyventi Lietuvos Respublikoje pažymėjimo ar Europos Sąjungos leidimo gyventi kortelės keitimo pagrindai
 
-Pažyma Europos Sąjungos valstybės narės piliečio teisei laikinai ar nuolat gyventi Lietuvos Respublikoje patvirtinti ar Europos Sąjungos leidimo gyventi kortelė keičiama, jeigu:
+Teisės gyventi Lietuvos Respublikoje pažymėjimas ar Europos Sąjungos leidimo gyventi kortelė keičiami, jeigu:
 
 1) pasikeičia asmens duomenys;
 
@@ -2880,9 +2930,13 @@ Pažyma Europos Sąjungos valstybės narės piliečio teisei laikinai ar nuolat 
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
-1054 straipsnis. Pažymos Europos Sąjungos valstybės narės piliečio teisei laikinai ar nuolat gyventi Lietuvos Respublikoje patvirtinti ar Europos Sąjungos leidimo gyventi kortelės išdavimas gimusiam Europos Sąjungos valstybės narės piliečio vaikui
+Straipsnio pakeitimai:
 
-1. Europos Sąjungos valstybės narės pilietis, turintis pažymą Europos Sąjungos valstybės narės piliečio teisei laikinai ar nuolat gyventi Lietuvos Respublikoje patvirtinti ir kurio gyvenimo Lietuvos Respublikoje laikotarpiu gimė vaikas, nepaisant jo gimimo vietos, ne vėliau kaip per 6 mėnesius nuo jo vaiko gimimo dienos turi kreiptis į vidaus reikalų ministro įgaliotą instituciją dėl pažymos Europos Sąjungos valstybės narės piliečio teisei laikinai ar nuolat gyventi Lietuvos Respublikoje patvirtinti ar Europos Sąjungos leidimo gyventi kortelės jam išdavimo.
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+1054 straipsnis. Teisės gyventi Lietuvos Respublikoje pažymėjimo ar Europos Sąjungos leidimo gyventi kortelės išdavimas gimusiam Europos Sąjungos valstybės narės piliečio vaikui
+
+1. Europos Sąjungos valstybės narės pilietis, turintis teisės gyventi Lietuvos Respublikoje pažymėjimą ir kurio gyvenimo Lietuvos Respublikoje laikotarpiu gimė vaikas, nepaisant jo gimimo vietos, ne vėliau kaip per 6 mėnesius nuo jo vaiko gimimo dienos turi kreiptis į vidaus reikalų ministro įgaliotą instituciją dėl teisės gyventi Lietuvos Respublikoje pažymėjimo ar Europos Sąjungos leidimo gyventi kortelės jam išdavimo.
 
 2. Vaikui, gimusiam Europos Sąjungos valstybės narės piliečio gyvenimo Lietuvos Respublikoje laikotarpiu, išduodamas toks pat kaip abiejų tėvų ar vieno iš jų turimas dokumentas. Šis dokumentas galioja tiek, kiek galioja vienam iš vaiko tėvų išduotas dokumentas.
 
@@ -2890,31 +2944,21 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
-1061 straipsnis. Pažymos Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti ir Europos Sąjungos leidimo nuolat gyventi kortelės negaliojimas
+Straipsnio pakeitimai:
 
-Pažyma Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti ir Europos Sąjungos leidimo nuolat gyventi kortelė negalioja, kai:
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
-1) dokumentas per vienus metus neatsiimamas;
+1061 straipsnis. Teisės nuolat gyventi Lietuvos Respublikoje pažymėjimo ir Europos Sąjungos leidimo nuolat gyventi kortelės negaliojimas
 
-2) pasibaigia dokumento galiojimo laikas;
-
-3) dokumentas yra suklastotas;
-
-4) dokumentas yra panaikintas;
-
-5) dokumentas yra prarastas;
-
-6) dokumentas yra pakeistas;
-
-7) Europos Sąjungos valstybės narės pilietis ar jo šeimos narys Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaravo, kad išvyksta iš Lietuvos Respublikos;
-
-8) ar Europos Sąjungos valstybės narės pilietis, ar jo šeimos narys įgyja Lietuvos Respublikos pilietybę;
-
-9) ar Europos Sąjungos valstybės narės pilietis, ar jo šeimos narys miršta.
+Teisės nuolat gyventi Lietuvos Respublikoje pažymėjimas ir Europos Sąjungos leidimo nuolat gyventi kortelė negalioja, kai yra nors vienas iš šio Įstatymo 1031 straipsnio 1–7, 9 ir 10 punktuose nustatytų pagrindų.
 
 Įstatymas papildytas straipsniu:
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 VI SKYRIUS
 
@@ -3524,11 +3568,15 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
-4. Ne vėliau kaip per 7 dienas nuo šio Įstatymo 58 straipsnio 12 punkte nurodyto užsieniečio darbo pradžios įmonėje Lietuvos Respublikoje įmonė, į kurią šis užsienietis atvyko dirbti, privalo socialinės apsaugos ir darbo ministro ar jo įgaliotos institucijos nustatyta tvarka informuoti Valstybinės darbo inspekcijos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos teritorinį skyrių.
+4. Neteko galios 2019-03-01.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 Straipsnio pakeitimai:
 
@@ -3682,11 +3730,13 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 5) užsieniečiui panaikinamas leidimas dirbti Lietuvos Respublikoje;
 
-6) nutraukiama darbo sutartis su užsieniečiu (išskyrus šios dalies 18 punkte nurodytą atvejį, kai užsienietis, kuriam leidimas laikinai gyventi buvo išduotas pagal šio Įstatymo 40 straipsnio 1 dalies 41 punktą, tapo bedarbiu) arba nustatoma, kad su užsieniečiu darbo sutartis nesudaryta;
+6) nutraukiama darbo sutartis su užsieniečiu (išskyrus šios dalies 18 punkte nurodytą atvejį, kai užsienietis, kuriam leidimas laikinai gyventi buvo išduotas pagal šio Įstatymo 40 straipsnio 1 dalies 41 punktą, tapo bedarbiu) arba nustatoma, kad su užsieniečiu darbo sutartis nesudaryta, arba užsienietis, kuriam leidimas laikinai gyventi išduotas pagal šio Įstatymo 44 straipsnio 1 dalies 3 punktą, pakeitė darbdavį ar darbo funkciją nesilaikydamas šio Įstatymo 44 straipsnio 7 dalyje nustatytų reikalavimų;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 7) nustatoma, kad priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeltas įmonės viduje, arba įmonė, kurios dalyvis ar vadovas yra užsienietis, yra fiktyvi, kad įmonė ar užsienietis neatitinka šio Įstatymo 45 straipsnio 1 dalies 1, 21 ar 22 punkte nustatytų reikalavimų arba kad užsienietis nebėra įmonės vadovas arba jam nuosavybės teise nebepriklauso akcinės bendrovės ar uždarosios akcinės bendrovės akcijos, kurių nominalioji vertė sudaro 1/3 šios bendrovės įstatinio kapitalo;
 
@@ -3742,7 +3792,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
-18) užsienietis neatitinka tų šio Įstatymo 441 straipsnyje nustatytų sąlygų dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, pagal kurias jam buvo išduotas leidimas laikinai gyventi (išskyrus šio Įstatymo 441 straipsnio 6 dalyje nurodytą atvejį), arba per pirmuosius 2 teisėto darbo Lietuvos Respublikoje metus pakeitė darbdavį nesilaikydamas šio Įstatymo 441 straipsnio 5 dalyje nustatytų reikalavimų, arba tapo bedarbiu ilgiau negu trims mėnesiams iš eilės ar daugiau negu vieną kartą per leidimo laikinai gyventi galiojimo laikotarpį, kai leidimas laikinai gyventi buvo išduotas pagal šio Įstatymo 40 straipsnio 1 dalies 41 punktą;
+18) užsienietis neatitinka tų šio Įstatymo 441 straipsnyje nustatytų sąlygų dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, pagal kurias jam buvo išduotas leidimas laikinai gyventi (išskyrus šio Įstatymo 441 straipsnio 6 dalyje nurodytą atvejį), arba per pirmuosius dvejus teisėto darbo Lietuvos Respublikoje metus pakeitė darbdavį ar darbo funkciją nesilaikydamas šio Įstatymo 441 straipsnio 5 dalyje nustatytų reikalavimų, arba tapo bedarbiu ilgiau negu 3 mėnesiams iš eilės ar daugiau negu vieną kartą per leidimo laikinai gyventi galiojimo laikotarpį, kai leidimas laikinai gyventi buvo išduotas pagal šio Įstatymo 40 straipsnio 1 dalies 41 punktą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 19) darbdavys, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, kai leidimas laikinai gyventi išduotas pagal šio Įstatymo 40 straipsnio 1 dalies 4 ar 41 punktą, ar priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeltas įmonės viduje, ar priimantysis subjektas:
 
@@ -4076,11 +4130,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
 
-12) yra užsienio valstybėje, kuri nėra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybė narė, įsteigtos ir ne mažiau kaip 6 mėnesius vykdančios steigimo dokumentuose nurodytą veiklą įmonės nuolatinis darbuotojas, šios įmonės atsiunčiamas laikinai, ne ilgiau kaip vieneriems metams, dirbti į įmonę Lietuvos Respublikoje pagal tarp šių įmonių sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo kaip specialistas pagal turimą profesinę kvalifikaciją, jeigu šis užsienietis siunčiančioje užsienio valstybės įmonėje dirba ne mažiau kaip pastaruosius 3 mėnesius, tuo laikotarpiu buvo ir komandiruotės į Lietuvos Respubliką laikotarpiu lieka apdraustas socialiniu draudimu toje užsienio valstybėje.
+12) neteko galios 2019-03-01.
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 Straipsnio pakeitimas:
 
@@ -4110,7 +4168,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
-21. Tais atvejais, kai užsienietis privalo įsigyti leidimą dirbti, taip pat šio Įstatymo 58 straipsnio 2 ir 11 punktuose nurodytais atvejais, kai užsienietis atleidžiamas nuo pareigos įsigyti leidimą dirbti, darbdavys Užimtumo tarnybai turi pateikti registruoti su užsieniečiu sudarytos darbo sutarties kopiją. Šią pareigą darbdavys turi įvykdyti per 2 mėnesius nuo leidimo dirbti išdavimo dienos, šio Įstatymo 58 straipsnio 2 punkte nurodytu atveju – per vieną mėnesį nuo darbo sutarties sudarymo dienos, o šio Įstatymo 58 straipsnio 11 punkte nurodytu atveju – per vieną mėnesį nuo nacionalinės vizos išdavimo dienos.
+21. Neteko galios 2019-03-01.
 
 Papildyta straipsnio dalimi:
 
@@ -4119,6 +4177,8 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 3. Užsieniečio darbo užmokestis negali būti mažesnis už tokį patį darbą pas tą patį darbdavį dirbančio Lietuvos Respublikos gyventojo, o jeigu tokio darbuotojo nėra, užsieniečio darbo užmokestis negali būti mažesnis už Lietuvos statistikos departamento paskutinį paskelbtą kalendorinių metų vidutinį mėnesinį bruto darbo užmokestį šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) pagal atitinkamą ekonominės veiklos rūšį.
 
@@ -4135,6 +4195,18 @@ Straipsnio dalies pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
+
+5. Darbo keliems darbdaviams sutartis pagal Darbo kodekso reikalavimus gali būti sudaryta su užsieniečiu, turinčiu leidimą gyventi.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+6. Užsienietis negali dirbti pagal laikinojo darbo sutartį taip, kaip ji apibrėžiama Darbo kodekse.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 Straipsnio pakeitimas:
 
@@ -4182,7 +4254,11 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 3) panaikinamas užsieniečio leidimas laikinai gyventi;
 
-4) per šio Įstatymo 62 straipsnio 21 dalyje nustatytą terminą neužregistruota darbo sutartis;
+4) neteko galios 2019-03-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 5) nustatoma, kad užsienietis neatitinka leidimo dirbti išdavimo sąlygų, nustatytų šio Įstatymo 57 straipsnio 3 dalyje ar 621 straipsnio 1 dalyje;
 
@@ -4384,13 +4460,13 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
 99 straipsnis. Gyvenimas Lietuvos Respublikoje
 
-1. Europos Sąjungos valstybės narės piliečiui, atvykusiam gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesius per pusę metų ir atitinkančiam bent vieną iš šio Įstatymo 101 straipsnio 1 dalyje numatytų pagrindų, jo teisei gyventi Lietuvos Respublikoje patvirtinti išduodama vidaus reikalų ministro nustatytos formos pažyma.
+1. Europos Sąjungos valstybės narės piliečiui, atvykusiam gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesius per pusę metų ir atitinkančiam bent vieną iš šio Įstatymo 101 straipsnio 1 dalyje numatytų pagrindų, jo teisei laikinai gyventi Lietuvos Respublikoje patvirtinti išduodamas teisės laikinai gyventi Lietuvos Respublikoje pažymėjimas. Teisės laikinai gyventi Lietuvos Respublikoje pažymėjime elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus.
 
-2. Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesiams per pusę metų, kartu su Europos Sąjungos valstybės narės piliečiu arba pas jį, privalo gauti Europos Sąjungos leidimo laikinai gyventi kortelę. Europos Sąjungos leidimo laikinai gyventi kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus.
+2. Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesiams per pusę metų kartu su Europos Sąjungos valstybės narės piliečiu arba pas jį, privalo gauti Europos Sąjungos leidimo laikinai gyventi kortelę. Europos Sąjungos leidimo laikinai gyventi kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus.
 
-3. Tvarką, nustatančią pažymos Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti išdavimą ir Europos Sąjungos leidimo laikinai gyventi kortelės išdavimą, keitimą ir panaikinimą Europos Sąjungos valstybės narės piliečio šeimos nariams, nustato vidaus reikalų ministras.
+3. Tvarką, nustatančią teisės laikinai gyventi Lietuvos Respublikoje pažymėjimo ir Europos Sąjungos leidimo laikinai gyventi kortelės išdavimą, keitimą ir panaikinimą, Europos Sąjungos valstybės narės piliečio ir (ar) jo šeimos nario teisės laikinai gyventi Lietuvos Respublikoje panaikinimą, nustato vidaus reikalų ministras.
 
-4. Sprendimus dėl pažymos Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti išdavimo, Europos Sąjungos leidimo laikinai gyventi kortelės išdavimo, keitimo ir panaikinimo priima ir pažymą Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti išduoda, Europos Sąjungos leidimo laikinai gyventi kortelę išduoda, keičia ir panaikina vidaus reikalų ministro įgaliotos institucijos.
+4. Sprendimus dėl teisės laikinai gyventi Lietuvos Respublikoje pažymėjimo, Europos Sąjungos leidimo laikinai gyventi kortelės išdavimo, keitimo ir panaikinimo priima ir teisės laikinai gyventi Lietuvos Respublikoje pažymėjimą, Europos Sąjungos leidimo laikinai gyventi kortelę išduoda, keičia ir panaikina vidaus reikalų ministro įgaliotos institucijos.
 
 Straipsnio pakeitimas:
 
@@ -4399,6 +4475,10 @@ Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 103 straipsnis. Atleidimas nuo pareigos įsigyti leidimą dirbti
 
@@ -5161,6 +5241,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1557, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17473
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 45 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
 
 341 straipsnis. Leidimo gyventi išdavimas, keitimas skubos tvarka
 
