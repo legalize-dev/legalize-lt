@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2019-01-01"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
+Suvestinė redakcija nuo 2019-03-01 iki 2019-06-27
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -1947,7 +1947,11 @@ Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
 
 3. Siekdami įvykdyti šio straipsnio 1 dalies 2 punkte nustatytą pareigą, baterijų ir akumuliatorių gamintojai ir importuotojai gali diegti savivaldybės organizuojamą komunalinių atliekų tvarkymo sistemą papildančias baterijų ir akumuliatorių atliekų surinkimo sistemas.
 
-4. Baterijų ir akumuliatorių gamintojams ir importuotojams draudžiama tiekti Lietuvos Respublikos vidaus rinkai verslo tikslais baterijas ir akumuliatorius, kuriuose viršijamas sveikatos apsaugos ministro nustatytas gyvsidabrio ir kadmio kiekis.
+4. Baterijų ir akumuliatorių gamintojams ir importuotojams draudžiama tiekti Lietuvos Respublikos vidaus rinkai verslo tikslais baterijas ir akumuliatorius, kuriuose viršijamas ūkio ministro nustatytas gyvsidabrio ir kadmio kiekis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 5. Baterijų ir akumuliatorių gamintojai ir importuotojai ūkio ministro nustatyta tvarka privalo ženklinti tiekiamas Lietuvos Respublikos vidaus rinkai verslo tikslais baterijas ir akumuliatorius.
 
