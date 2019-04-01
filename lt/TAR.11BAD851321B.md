@@ -4,7 +4,7 @@ identifier: "TAR.11BAD851321B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2015-01-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11BAD851321B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo 14 straipsnio nuostatos įsigalioja 2004
 ---
 # Lietuvos Respublikos mėgėjų žvejybos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2019-03-31
+Suvestinė redakcija nuo 2019-04-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 118-4395, i. k. 1041010ISTA0IX-2389
 
@@ -145,7 +145,11 @@ MĖGĖJŲ ŽVEJYBOS REGULIAVIMAS IR PLĖTRA
 
 2) Aplinkos ministerijai pavaldžių institucijų – 2 atstovai;
 
-3) Valstybinio turizmo departamento prie Ūkio ministerijos – 1 atstovas;
+3) Lietuvos Respublikos ekonomikos ir inovacijų ministerijos – 1 atstovas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1993, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04588
 
 4) žvejų mėgėjų asociacijų – 4 atstovai;
 
@@ -379,7 +383,7 @@ Juridiniai ir fiziniai asmenys, pažeidę šio įstatymo reikalavimus, atsako Li
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -422,6 +426,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
 
 Lietuvos Respublikos mėgėjų žvejybos įstatymo Nr. IX-2389 11 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1993, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04588
+
+Lietuvos Respublikos mėgėjų žvejybos įstatymo Nr. IX-2389 5 straipsnio pakeitimo įstatymas
 
 15 straipsnis. Įstatymo įsigaliojimas
 
