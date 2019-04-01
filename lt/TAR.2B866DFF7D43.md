@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2019-01-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
+Suvestinė redakcija nuo 2019-04-01 iki 2019-04-02
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -1574,7 +1574,7 @@ Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2. Tas, kas vairavo kelių transporto priemonę būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ir pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo taisykles, jeigu dėl to įvyko eismo įvykis, dėl kurio buvo nesunkiai sutrikdyta kito žmogaus sveikata arba nukentėjusiam asmeniui padaryta didelės turtinės žalos,
+2. Tas, kas vairavo kelių transporto priemonę būdamas neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ir pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo taisykles, jeigu dėl to įvyko eismo įvykis, dėl kurio buvo nesunkiai sutrikdyta kito žmogaus sveikata arba nukentėjusiam asmeniui padaryta didelės turtinės žalos,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 
@@ -1582,7 +1582,7 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-4. Tas, kas padarė šio straipsnio 3 dalyje numatytą veiką būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų,
+4. Tas, kas padarė šio straipsnio 3 dalyje numatytą veiką būdamas neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų,
 
 baudžiamas laisvės atėmimu iki šešerių metų.
 
@@ -1590,35 +1590,15 @@ baudžiamas laisvės atėmimu iki šešerių metų.
 
 baudžiamas laisvės atėmimu iki aštuonerių metų.
 
-6. Tas, kas padarė šio straipsnio 5 dalyje numatytą veiką būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų,
+6. Tas, kas padarė šio straipsnio 5 dalyje numatytą veiką būdamas neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų,
 
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
-7. Tas, kas vairavo kelių transporto priemonę arba mokė praktinio vairavimo būdamas apsvaigęs nuo alkoholio, kai jo kraujyje buvo daugiau negu 1,5 promilės alkoholio,
+7. Asmuo atsako pagal šį straipsnį tik tais atvejais, kai šiame straipsnyje numatytos veikos yra padarytos dėl neatsargumo.
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki vienerių metų.
+8. Laikoma, kad šio straipsnio 2, 4 ar 6 dalyje numatytą veiką padaręs asmuo yra neblaivus, kai jam nustatytas 0,41 ir daugiau promilių neblaivumas arba kai jis vengė neblaivumo patikrinimo arba vartojo alkoholį po eismo įvykio iki jo aplinkybių nustatymo.
 
-Papildyta straipsnio dalimi:
-
-Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
-
-8. Asmuo atsako pagal šio straipsnio 1–6 dalis tik tais atvejais, kai jose numatytos veikos yra padarytos dėl neatsargumo.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
-
-9. Laikoma, kad šio straipsnio 2, 4 ar 6 dalyje numatytą veiką padaręs asmuo yra apsvaigęs nuo alkoholio, kai jo kraujyje yra 0,41 promilės ir daugiau alkoholio arba kai jis vengia neblaivumo patikrinimo arba vartojo alkoholį po eismo įvykio iki jo aplinkybių nustatymo.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
-
-10. Šiame straipsnyje nurodytos kelių transporto priemonės yra visų rūšių automobiliai, traktoriai, kitos savaeigės mašinos, troleibusai, motociklai ir kitos mechaninės transporto priemonės.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+9. Šiame straipsnyje nurodytos kelių transporto priemonės yra visų rūšių automobiliai, traktoriai, kitos savaeigės mašinos, troleibusai, motociklai ir kitos mechaninės transporto priemonės.
 
 Straipsnio pakeitimai:
 
@@ -1627,6 +1607,10 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)
 
 Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859
 
 285 straipsnis. Melagingas pranešimas apie visuomenei gresiantį pavojų ar ištikusią nelaimę
 
@@ -2988,7 +2972,11 @@ Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)
 
 1. Teismas gali uždrausti asmeniui naudotis specialiomis teisėmis (teise vairuoti kelių, oro ar vandens transporto priemones, teise laikyti ir nešioti ginklą, teise medžioti, teise žvejoti ir pan.) tais atvejais, kai naudodamasis šiomis teisėmis asmuo padarė nusikalstamą veiką.
 
-2. Teismas uždraudžia naudotis specialiomis teisėmis nuo vienerių iki trejų metų. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis.
+2. Teismas uždraudžia naudotis specialiomis teisėmis nuo vienerių iki penkerių metų. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859
 
 3. Teismas, uždrausdamas asmeniui naudotis specialiomis teisėmis, konkrečiai nurodo, kokia teise ar teisėmis naudotis uždrausta, ir šio draudimo terminą.
 
@@ -6006,6 +5994,14 @@ Nr. XIII-1844, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21873
 
 Lietuvos Respublikos baudžiamojo kodekso papildymo 39-2 straipsniu įstatymas
 
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859
+
+Lietuvos Respublikos baudžiamojo kodekso 68, 281 straipsnių pakeitimo ir Kodekso papildymo 281-1 straipsniu įstatymas
+
 2771 straipsnis. Sąvokų išaiškinimas
 
 Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
@@ -6757,4 +6753,16 @@ Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
 Straipsnio pakeitimai:
 
 Nr. XIII-1836, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21859
+
+2811 straipsnis. Transporto priemonių vairavimas, kai vairuoja neblaivus asmuo
+
+1. Tas, kas vairavo motorinę transporto priemonę, traktorių ar savaeigę mašiną arba mokė praktinio vairavimo būdamas neblaivus, kai jam nustatytas 1,51 ir daugiau promilių neblaivumas, arba vengė neblaivumo patikrinimo, kai jam buvo nustatyti neblaivumo požymiai, arba vartojo alkoholį po eismo įvykio iki jo aplinkybių nustatymo ir jam nustatytas 1,51 ir daugiau promilių neblaivumas,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki vienerių metų.
+
+2. Asmuo atsako ir tais atvejais, kai šio straipsnio 1 dalyje numatytos veikos yra padarytos dėl neatsargumo.
+
+Papildyta straipsniu:
+
+Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859
 
