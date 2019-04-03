@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2019-04-01"
+last_updated: "2019-04-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2019-04-01 iki 2019-04-02
+Suvestinė redakcija nuo 2019-04-03 iki 2019-07-05
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -2382,10 +2382,6 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 1. Kasatoriui ar aukštesniajam prokurorui atšaukus skundą, teismas palieka skundą nenagrinėtą ir teismo procesą nutraukia. Kolegija posėdžio pradžioje gali proceso dalyvių prašymu ar savo iniciatyva apsvarstyti, ar kasacinis skundas nagrinėtinas. Teismas šiuo klausimu priima nutartį.
 
 2. Jeigu proceso dalyvis, kurio dalyvavimą žodiniame teismo posėdyje teismas pripažįsta būtinu, dėl ligos ar dėl kitos svarbios priežasties neatvyko į teismo posėdį, kasacinės bylos nagrinėjimas atidedamas.
-
-3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
-
-3 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01):
 
 3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu, arba jei prireikia prašyti Europos žmogaus teisių teismo konsultacinės išvados dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
 
@@ -8144,4 +8140,18 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 Papildyta straipsniu:
 
 Nr. XIII-1956, 2019-01-15, paskelbta TAR 2019-01-21, i. k. 2019-00868
+
+3601 straipsnis. Laisvės atėmimo iki gyvos galvos bausmės pakeitimo terminuoto laisvės atėmimo bausme tvarka
+
+1. Lietuvos Respublikos baudžiamojo kodekso 51 straipsnio 2 dalyje nurodytu atveju klausimą dėl nuteistajam paskirtos laisvės atėmimo iki gyvos galvos bausmės pakeitimo terminuoto laisvės atėmimo bausme nagrinėja ir motyvuota nutartimi išsprendžia bausmės atlikimo vietos apygardos teismo trijų teisėjų kolegija pagal bausmę vykdančios institucijos teikimą. Nagrinėjant klausimą dėl laisvės atėmimo iki gyvos galvos bausmės pakeitimo terminuoto laisvės atėmimo bausme, teismo posėdyje dalyvauja prokuroras ir bausmę vykdančios institucijos atstovas. Dalyvauti šiame teismo posėdyje šaukiamas nuteistasis ir nuteistojo prašymu gynėjas, nukentėjusysis arba jo atstovas, tačiau šių asmenų neatvykimas į teismo posėdį nesustabdo klausimo nagrinėjimo, jeigu teismas nepripažįsta, kad jiems dalyvauti būtina.
+
+2. Šio straipsnio 1 dalyje nurodytu atveju klausimo nagrinėjimas pradedamas posėdžio pirmininko pranešimu. Po to teismas išklauso į posėdį atvykusius asmenis.
+
+3. Teismo nutarties nuorašai ne vėliau kaip kitą darbo dieną nuo nutarties priėmimo išsiunčiami prokurorui, bausmę vykdančiai institucijai, nuteistajam, jo gynėjui, nukentėjusiajam ar jo atstovui.
+
+4. Teismo nutartį turi teisę apskųsti prokuroras, nuteistasis ar jo gynėjas, nukentėjusysis ar jo atstovas. Nutartis skundžiama ir skundas nagrinėjamas šio Kodekso 364 straipsnyje nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIII-2006, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05332
 
