@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2019-01-01"
+last_updated: "2019-04-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-24
+Suvestinė redakcija nuo 2019-04-25 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
 
@@ -1680,4 +1680,384 @@ Pajamų mokesčio kreditas = metinės individualios veiklos apmokestinamosios pa
 Papildyta straipsniu:
 
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
+
+40 straipsnis. Įstatymo taikymas Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei
+
+Dvejus metus nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos šio Įstatymo IV skyriaus nuostatos Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei taikomos tiek pat, kiek ir Europos Sąjungos valstybėms narėms.
+
+TAR pastaba. Įstatymo papildymas 40 straipsniu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+
+Papildyta straipsniu:
+
+Nr. XIII-2053, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06689
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+
+Lietuvos Respublikos
+
+gyventojų pajamų mokesčio
+
+įstatymo priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 1985 m. liepos 25 d. Tarybos reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių interesų grupių (EEIG).
+
+2. 1990 m. liepos 23 d. Tarybos direktyva 90/434/EEB dėl bendros mokesčių sistemos, taikomos įvairių valstybių narių įmonių jungimui, skaidymui, turto perleidimui ir keitimuisi akcijomis.
+
+3. Neteko galios nuo 2017-05-31.
+
+Punkto pakeitimai:
+
+Nr. XIII-376, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09156
+
+4. Europos Parlamento 2005 m. rugsėjo 28 d. sprendimas dėl Europos Parlamento narių statuto priėmimo (2005/684/EB, Euratomas) (OL 2005 L 262, p. 1).
+
+5. 2006 m. lapkričio 20 d. Tarybos direktyva 2006/98/EB dėl Bulgarijos ir Rumunijos stojimo, adaptuojanti tam tikras direktyvas mokesčių srityje (OL 2006 L 363, p. 129).
+
+Įstatymas papildytas priedu:
+
+Nr. IX-2103, 2004-04-08, Žin., 2004, Nr. 60-2118 (2004-04-24)
+
+Priedo pakeitimai:
+
+Nr. IX-2103, 2004-04-08, Žin., 2004, Nr. 60-2118 (2004-04-24)
+
+Nr. IX-2419, 2004-08-23, Žin., 2004, Nr. 134-4837 (2004-09-02)
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1252, 2002-12-10, Žin., 2002, Nr. 123-5539 (2002-12-24)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1321, 2003-01-28, Žin., 2003, Nr. 15-601 (2003-02-12)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šio Įstatymo nuostatos taikomos apmokestinant gyventojo pajamas, gautas po 2003 m. sausio 1 d.
+
+Jeigu apskaičiuojant pajamų mokestį nuo su darbo santykiais arba jų esmę atitinkančiais santykiais susijusių pajamų, kurios buvo apskaičiuotos už 2003 m. sausio mėnesį, buvo pritaikytas mažesnis NPD, negu nustatytas šiame Įstatyme, nepritaikyta šiuo Įstatymu nustatyto NPD dalis gali būti pritaikyta apskaičiuojant pajamų mokestį nuo su darbo santykiais arba jų esmę atitinkančiais santykiais susijusių pajamų, kurios bus apskaičiuotos už 2003 m. vasario ar vėlesnius mėnesius.
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1535, 2003-04-22, Žin., 2003, Nr. 42-1925 (2003-05-01)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 IR 27 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1660, 2003-07-01, Žin., 2003, Nr. 73-3340 (2003-07-23)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 33 IR 39 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30)
+
+PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, DRAUDIMO ĮSTATYMO, PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO, GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1790, 2003-10-16, Žin., 2003, Nr. 102-4586 (2003-10-31)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1848, 2003-11-25, Žin., 2003, Nr. 116-5254 (2003-12-12)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 20, 22, 23, 24, 27, 32, 34, 35, 38 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šio įstatymo 24 straipsnio 2 dalis taikoma deklaruojant 2004 metais ir vėlesniais mokestiniais laikotarpiais išmokėtas išmokas.
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1913, 2003-12-18, Žin., 2003, Nr. 123-5585 (2003-12-30)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 17, 27 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1973, 2004-01-22, Žin., 2004, Nr. 25-749 (2004-02-14)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 15, 17 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šio Įstatymo 3 straipsnio nuostatos taikomos nuo 2003 m. sausio 1 d. gautoms pajamoms.
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2059, 2004-03-16, Žin., 2004, Nr. 47-1550 (2004-03-30)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 33 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2070, 2004-03-23, Žin., 2004, Nr. 50-1633 (2004-04-06)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 21 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šio Įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant pajamas už 2003 ir vėlesnius metus.
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2103, 2004-04-08, Žin., 2004, Nr. 60-2118 (2004-04-24)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 1, 2, 8, 17 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
+
+Šis Įstatymas, išskyrus 5 straipsnį, įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
+
+Šio Įstatymo 5 straipsnio nuostatos taikomos nuo 2004 m. sausio 1 d. gautoms pajamoms.
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2202, 2004-04-29, Žin., 2004, Nr. 73-2535 (2004-04-30)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 17, 21 IR 37 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS
+
+Šis Įstatymas, išskyrus 2 straipsnio 1 ir 4 dalis, 3 straipsnio 1, 5 ir 9 dalis ir 5 straipsnį, įsigalioja nuo 2004 m. gegužės 1 d.
+
+Šio Įstatymo 2 straipsnio 1 ir 4 dalių nuostatos ir 3 straipsnio 1, 5 ir 9 dalių nuostatos taikomos už 2003 m. ir vėlesnius metus.
+
+Šio Įstatymo 5 straipsnio nuostatos taikomos nuo 2005 m. sausio 1 d., jei Europos Sąjungos Tarybos sprendimu nebus nustatyta vėlesnė 2003 m. birželio 3 d. Tarybos direktyvą 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo įgyvendinančių Europos Sąjungos valstybių narių teisės aktų įsigaliojimo data.
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2272, 2004-06-15, Žin., 2004, Nr. 98-3628 (2004-06-24)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 21 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto nuostatos taikomos deklaruojant gyventojų pajamų mokestį už 2004, 2005 ir 2006 metus.
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2419, 2004-08-23, Žin., 2004, Nr. 134-4837 (2004-09-02)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2491, 2004-10-12, Žin., 2004, Nr. 158-5757 (2004-10-30)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17, 21, 27 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2529, 2004-11-02, Žin., 2004, Nr. 167-6108 (2004-11-17)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2004 m. ir vėlesnių metų pajamas.
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-235, 2005-06-07, Žin., 2005, Nr. 76-2743 (2005-06-18)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 20, 27, 37 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+
+Šio įstatymo 4 straipsnio nuostatos taikomos apmokestinant ir deklaruojant 2005 metų ir vėlesnių metų pajamas.
+
+Jeigu su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių išmokų už 2006 m. birželio mėnesį paskutinė dalis bus išmokėta vėliau negu to mėnesio paskutinę dieną, pajamų mokestis nuo per 2006 m. birželio mėnesį išmokėtų dalių sumos turi būti išskaičiuotas ir sumokėtas į biudžetą iki 2006 m. birželio 15 dienos (jeigu paskutinė išmoka išmokėta iki 2006 m. birželio 15 d.) arba iki 2006 m. birželio 30 d. (jeigu paskutinė išmoka išmokėta iki 2006 m. birželio 30 d.).
+
+Pakeitimas:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-467, 2005-12-22, Žin., 2006, Nr. 4-100 (2006-01-12)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO IR GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 20, 27, 37 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo pirmojo skirsnio nuostatos taikomos apmokestinant ir deklaruojant 2005 metų ir vėlesnių metų pajamas.
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-237, 2005-06-09, Žin., 2005, Nr. 76-2744 (2005-06-18)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-260, 2005-06-21, Žin., 2005, Nr. 81-2943 (2005-06-30)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 17 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-329, 2005-07-05, Žin., 2005, Nr. 88-3293 (2005-07-21)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-358, 2005-09-29, Žin., 2005, Nr. 121-4332 (2005-10-11)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 20 IR 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-450, 2005-12-15, Žin., 2005, Nr. 153-5634 (2005-12-31)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 17, 21 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2005 m. ir vėlesnių metų pajamas.
+
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-457, 2005-12-20, Žin., 2005, Nr. 153-5636 (2005-12-31)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2006 m. sausio 1 d.
+
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-467, 2005-12-22, Žin., 2006, Nr. 4-100 (2006-01-12)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO IR GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 20, 27, 37 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo pirmojo skirsnio nuostatos taikomos apmokestinant ir deklaruojant 2005 metų ir vėlesnių metų pajamas.
+
+26.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-543, 2006-03-30, Žin., 2006, Nr. 41-1462 (2006-04-13)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2006 m. spalio 1 d.
+
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-580, 2006-04-25, Žin., 2006, Nr. 50-1801 (2006-05-06)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2007 m. ir vėlesnių metų pajamas.
+
+28.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-585, 2006-04-27, Žin., 2006, Nr. 48-1702 (2006-04-29)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šio įstatymo nuostatos taikomos apskaičiuojant 2005 m. prasidėjusio ir vėlesnių metų mokestinių laikotarpių apmokestinamąsias pajamas.
+
+29.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-746, 2006-07-04, Žin., 2006, Nr. 82-3249 (2006-07-27)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 17 IR 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2007 m. ir vėlesnių metų pajamas.
+
+30.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-799, 2006-07-19, Žin., 2006, Nr. 82-3263 (2006-07-27)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2007 m. ir vėlesnių metų pajamas.
+
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-834, 2006-10-03, Žin., 2006, Nr. 111-4197 (2006-10-19)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 IR 21 STRAIPSNIŲ PAKEITIMO IR PRIEDO PAPILDYMO ĮSTATYMAS
+
+Šio įstatymo 1 straipsnio 4 dalis įsigalioja nuo 2009 m. sausio 1 d.
+
+Jeigu nuolatinis Lietuvos gyventojas iki šio įstatymo įsigaliojimo buvo paėmęs daugiau kaip vieną kreditą gyvenamajam būstui (būstams) statyti ar įsigyti arba (ir) buvo sudaręs daugiau kaip vieną finansinės nuomos (lizingo) sutartį dėl gyvenamojo būsto (būstų) finansinės nuomos (lizingo), jis iš pajamų gali atimti palūkanas visą šių kreditų ar (ir) finansinės nuomos (lizingo) sutarčių galiojimo laikotarpį.
+
+Pakeitimas:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-104, 2008-12-22, Žin., 2008, Nr. 149-6028 (2008-12-30)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 IR 21 STRAIPSNIŲ PAKEITIMO IR PRIEDO PAPILDYMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO IR 4, 5 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2009 m. sausio d.
+
+32.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-885, 2006-11-09, Žin., 2006, Nr. 127-4821 (2006-11-25)
+
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO IR GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 21 STRAIPSNIO PAPILDYMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
