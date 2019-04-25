@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2019-02-01"
+last_updated: "2019-04-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-04-24
+Suvestinė redakcija nuo 2019-04-25 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -2722,4 +2722,14 @@ X SKYRIUS
 PELNO MOKESČIO APSKAIČIAVIMAS, SUMOKĖJIMAS,
 
 IŠIEŠKOJIMAS IR GRĄŽINIMAS
+
+591 straipsnis. Įstatymo taikymas Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei
+
+Dvejus metus nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos šio Įstatymo I, V, VII–IX ir X1 skyrių nuostatos Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei taikomos tiek pat, kiek ir Europos Sąjungos valstybėms narėms.
+
+TAR pastaba. Papildymas 591 straipsniu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+
+Papildyta straipsniu:
+
+Nr. XIII-2052, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06688
 
