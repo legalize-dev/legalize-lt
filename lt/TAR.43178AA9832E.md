@@ -4,7 +4,7 @@ identifier: "TAR.43178AA9832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2019-02-01"
+last_updated: "2019-04-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-04-24
+Suvestinė redakcija nuo 2019-04-25 iki 2019-07-01
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
 
@@ -790,6 +790,128 @@ Straipsnio pakeitimai:
 
 Nr. IX-1914, 2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
 
+19 straipsnis. Apskaitos dokumentų, apskaitos registrų saugojimo tvarka
+
+1. Apskaitos dokumentai ir apskaitos registrai iki finansinių ataskaitų patvirtinimo saugomi ūkio subjekto vadovo nustatyta tvarka, kuri turi numatyti priemones, užtikrinančias dokumentų saugumą.
+
+2. Patvirtinus finansines ataskaitas, apskaitos dokumentai ir apskaitos registrai saugomi ūkio subjekto vadovo nustatyta tvarka vadovaujantis Lietuvos Respublikos dokumentų ir archyvų įstatymo (toliau – Dokumentų ir archyvų įstatymas) nuostatomis.
+
+3. Likviduotų ūkio subjektų apskaitos dokumentai ir apskaitos registrai saugomi Dokumentų ir archyvų įstatymo nustatyta tvarka.
+
+4. Jei pasikeičia ūkio subjekto vadovas, apskaitos dokumentus, apskaitos registrus, finansines ataskaitas ir metinius pranešimus arba veiklos ataskaitas perima paskirtas naujas ūkio subjekto vadovas.
+
+5. Jeigu pasikeičia ūkio subjekto vyriausiasis buhalteris (buhalteris) arba apskaitos paslaugas teikianti įmonė, arba apskaitos paslaugas savarankiškai teikiantis asmuo, ūkio subjekto vadovo nustatyta tvarka ir per nustatytą laikotarpį ūkio subjekto vyriausiasis buhalteris (buhalteris) arba apskaitos paslaugas teikianti įmonė, arba apskaitos paslaugas savarankiškai teikiantis asmuo apskaitos dokumentus, apskaitos registrus ir sudarytas finansines ataskaitas perduoda tvarkyti ūkio subjekto vadovo paskirtam asmeniui.
+
+6. Kai viešojo sektoriaus subjekto apskaita tvarkoma centralizuotai, viešojo sektoriaus subjekto vadovo ir centralizuotai apskaitą tvarkančios biudžetinės įstaigos vadovo pareigos, nurodytos šio straipsnio 1–5 dalyse, nustatomos rašytinėje sutartyje, kurią sudaro viešojo sektoriaus subjektas, kurio apskaita tvarkoma centralizuotai, ir centralizuotai apskaitą tvarkanti biudžetinė įstaiga.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+
+Straipsnio pakeitimai:
+
+Nr. X-1178, 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
+
+Nr. X-1679, 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
+
+Nr. X-1822, 2008-11-14, Žin., 2008, Nr. 137-5371 (2008-11-29)
+
+Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
+
+101 straipsnis. Buhalteris profesionalas
+
+1.  Lietuvos Respublikos Vyriausybės įgaliota įstaiga tvarko ir skelbia savo interneto svetainėje buhalterių profesionalų sąrašą ir nustato įrašymo į šį sąrašą ir išbraukimo iš jo tvarką.
+
+2.  Buhalteris profesionalas teikia buhalterių profesionalų sąrašui tvarkyti reikalingą informaciją Lietuvos Respublikos Vyriausybės įgaliotai įstaigai jos nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XII-1727, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08379
+
+102 straipsnis. Reikalavimai apskaitos paslaugas teikiančiai įmonei arba apskaitos paslaugas savarankiškai teikiančiam asmeniui
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+
+1. Apskaitos paslaugas teikiančios įmonės vadovaujamas pareigas einančiais asmenimis, dalyviais arba apskaitos paslaugas savarankiškai teikiančiu asmeniu negali būti asmenys, kurie buvo pripažinti kaltais dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, kol teistumas neišnykęs arba nepanaikintas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+
+2. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo apdrausti savo civilinę atsakomybę bendrosios civilinės atsakomybės draudimu. Bendrosios civilinės atsakomybės draudimo sutartis sudaroma Lietuvos Respublikos teisės aktų nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+
+3. Metinė bendrosios civilinės atsakomybės draudimo suma turi būti ne mažesnė kaip 2 900 eurų.
+
+TAR pastaba. 2 dalies nuostatos taikomos nuo 2015 m. sausio 1 d. naujai sudaromoms bendrosios civilinės atsakomybės draudimo sutartims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1126, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13623
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+
+4. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo būti apsidraudę bendrosios civilinės atsakomybės draudimu visą apskaitos paslaugų teikimo laikotarpį.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+
+Įstatymas papildytas straipsniu :
+
+Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
+
+31 straipsnis. Metodinis vadovavimas apskaitai
+
+1. Bendrąjį metodinį vadovavimą apskaitai pagal Lietuvos Respublikos teisės aktus, atsižvelgdama į tarptautinius apskaitos standartus, Europos Sąjungos teisę ir tarptautinius viešojo sektoriaus apskaitos standartus, atlieka Lietuvos Respublikos finansų ministerija (toliau – Finansų ministerija).
+
+2. Verslo apskaitos standartus tvirtina finansų ministras. Verslo apskaitos standartų rengimo klausimais Finansų ministerijoje sudaromas kolegialus patariamasis organas – Verslo apskaitos standartų komitetas. Verslo apskaitos standartų komitetą sudaro valstybės institucijų, aukštųjų mokyklų, auditorius ir (arba) buhalterius vienijančių profesinių organizacijų atstovai. Šio komiteto sudarymo ir darbo tvarką nustato finansų ministras. Verslo apskaitos standartai turi būti parengti vadovaujantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais.
+
+3. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartus tvirtina finansų ministras. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų rengimo klausimais Finansų ministerijoje sudaromas kolegialus patariamasis organas – Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų komitetas. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų komitetą sudaro valstybės institucijų ir (arba) Lietuvos savivaldybių asociacijos, aukštųjų mokyklų, auditorius ir (arba) buhalterius vienijančių profesinių organizacijų atstovai. Šio komiteto sudarymo ir darbo tvarką nustato finansų ministras. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartai turi būti parengti pagal tarptautinius viešojo sektoriaus apskaitos standartus ir kitą Tarptautinės buhalterių federacijos Viešojo sektoriaus apskaitos standartų valdybos rengiamą metodiką (nurodymus, studijas).
+
+4. Apibendrintus verslo apskaitos standartų paaiškinimus, suderinusi su Finansų ministerija, teikia ir skelbia, konsultacijas konkrečiais verslo apskaitos standartų klausimais teikia Lietuvos Respublikos Vyriausybės įgaliota įstaiga.
+
+5. Apibendrintus viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų paaiškinimus teikia ir skelbia, konsultacijas konkrečiais viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų klausimais teikia Finansų ministerija.
+
+Papildyta straipsniu:
+
+Nr. XII-2215, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21010
+
+103 straipsnis. Centralizuotas viešojo sektoriaus subjektų apskaitos tvarkymas
+
+1. Centralizuoto viešojo sektoriaus subjektų apskaitos organizavimo tvarką nustato Vyriausybė.
+
+2. Sprendimą dėl viešojo sektoriaus subjektų, kurių apskaita tvarkoma centralizuotai, ir dėl biudžetinės (biudžetinių) įstaigos (įstaigų), kuri (kurios) centralizuotai tvarko viešojo sektoriaus subjektų apskaitą, gali priimti:
+
+1) dėl Vyriausybės kanceliarijos, ministerijų, Vyriausybės įstaigų, Vyriausybės atstovų tarnybų, atitinkamo ministro valdymo sritims priskirtų įstaigų prie ministerijos ir šių subjektų kontroliuojamų viešojo sektoriaus subjektų – Vyriausybė;
+
+2) dėl savivaldybių kontroliuojamų viešojo sektoriaus subjektų – savivaldybių tarybos;
+
+3) dėl šio straipsnio 2 dalies 1 ir 2 punktuose nenurodytų viešojo sektoriaus subjektų – atitinkamo viešojo sektoriaus subjekto vadovas.
+
+3. Kai viešojo sektoriaus subjektų apskaita tvarkoma centralizuotai, viešojo sektoriaus subjekto vadovo ir centralizuotai apskaitą tvarkančios biudžetinės įstaigos vadovo funkcijos, pareigos ir atsakomybė nustatomos rašytinėje sutartyje, atsižvelgiant į centralizuotai atliekamų funkcijų apimtį. Šios sutarties tipinę formą tvirtina Vyriausybė.
+
+Papildyta straipsniu:
+
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+
+26 straipsnis. Įstatymo taikymas Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei
+
+Dvejus metus nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos šio įstatymo 2 straipsnio 6 dalyje nuoroda į Europos Sąjungos valstybę narę apima Jungtinę Didžiosios Britanijos ir Šiaurės Airijos Karalystę.
+
+TAR pastaba. Papildymas 26 straipsniu  įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+
+Papildyta straipsniu:
+
+Nr. XIII-2056, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06692
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                 VALDAS ADAMKUS
@@ -1158,115 +1280,11 @@ Nr. XIII-1880, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00233
 
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 3 straipsnio pakeitimo įstatymas
 
-19 straipsnis. Apskaitos dokumentų, apskaitos registrų saugojimo tvarka
+12.
 
-1. Apskaitos dokumentai ir apskaitos registrai iki finansinių ataskaitų patvirtinimo saugomi ūkio subjekto vadovo nustatyta tvarka, kuri turi numatyti priemones, užtikrinančias dokumentų saugumą.
+Lietuvos Respublikos Seimas, Įstatymas
 
-2. Patvirtinus finansines ataskaitas, apskaitos dokumentai ir apskaitos registrai saugomi ūkio subjekto vadovo nustatyta tvarka vadovaujantis Lietuvos Respublikos dokumentų ir archyvų įstatymo (toliau – Dokumentų ir archyvų įstatymas) nuostatomis.
+Nr. XIII-2056, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06692
 
-3. Likviduotų ūkio subjektų apskaitos dokumentai ir apskaitos registrai saugomi Dokumentų ir archyvų įstatymo nustatyta tvarka.
-
-4. Jei pasikeičia ūkio subjekto vadovas, apskaitos dokumentus, apskaitos registrus, finansines ataskaitas ir metinius pranešimus arba veiklos ataskaitas perima paskirtas naujas ūkio subjekto vadovas.
-
-5. Jeigu pasikeičia ūkio subjekto vyriausiasis buhalteris (buhalteris) arba apskaitos paslaugas teikianti įmonė, arba apskaitos paslaugas savarankiškai teikiantis asmuo, ūkio subjekto vadovo nustatyta tvarka ir per nustatytą laikotarpį ūkio subjekto vyriausiasis buhalteris (buhalteris) arba apskaitos paslaugas teikianti įmonė, arba apskaitos paslaugas savarankiškai teikiantis asmuo apskaitos dokumentus, apskaitos registrus ir sudarytas finansines ataskaitas perduoda tvarkyti ūkio subjekto vadovo paskirtam asmeniui.
-
-6. Kai viešojo sektoriaus subjekto apskaita tvarkoma centralizuotai, viešojo sektoriaus subjekto vadovo ir centralizuotai apskaitą tvarkančios biudžetinės įstaigos vadovo pareigos, nurodytos šio straipsnio 1–5 dalyse, nustatomos rašytinėje sutartyje, kurią sudaro viešojo sektoriaus subjektas, kurio apskaita tvarkoma centralizuotai, ir centralizuotai apskaitą tvarkanti biudžetinė įstaiga.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
-
-Straipsnio pakeitimai:
-
-Nr. X-1178, 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
-
-Nr. X-1679, 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
-
-Nr. X-1822, 2008-11-14, Žin., 2008, Nr. 137-5371 (2008-11-29)
-
-Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
-
-101 straipsnis. Buhalteris profesionalas
-
-1.  Lietuvos Respublikos Vyriausybės įgaliota įstaiga tvarko ir skelbia savo interneto svetainėje buhalterių profesionalų sąrašą ir nustato įrašymo į šį sąrašą ir išbraukimo iš jo tvarką.
-
-2.  Buhalteris profesionalas teikia buhalterių profesionalų sąrašui tvarkyti reikalingą informaciją Lietuvos Respublikos Vyriausybės įgaliotai įstaigai jos nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. XII-1727, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08379
-
-102 straipsnis. Reikalavimai apskaitos paslaugas teikiančiai įmonei arba apskaitos paslaugas savarankiškai teikiančiam asmeniui
-
-Pakeistas straipsnio pavadinimas:
-
-Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
-
-1. Apskaitos paslaugas teikiančios įmonės vadovaujamas pareigas einančiais asmenimis, dalyviais arba apskaitos paslaugas savarankiškai teikiančiu asmeniu negali būti asmenys, kurie buvo pripažinti kaltais dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, kol teistumas neišnykęs arba nepanaikintas.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
-
-2. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo apdrausti savo civilinę atsakomybę bendrosios civilinės atsakomybės draudimu. Bendrosios civilinės atsakomybės draudimo sutartis sudaroma Lietuvos Respublikos teisės aktų nustatyta tvarka.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
-
-3. Metinė bendrosios civilinės atsakomybės draudimo suma turi būti ne mažesnė kaip 2 900 eurų.
-
-TAR pastaba. 2 dalies nuostatos taikomos nuo 2015 m. sausio 1 d. naujai sudaromoms bendrosios civilinės atsakomybės draudimo sutartims.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1126, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13623
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
-
-4. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo būti apsidraudę bendrosios civilinės atsakomybės draudimu visą apskaitos paslaugų teikimo laikotarpį.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
-
-Įstatymas papildytas straipsniu :
-
-Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
-
-31 straipsnis. Metodinis vadovavimas apskaitai
-
-1. Bendrąjį metodinį vadovavimą apskaitai pagal Lietuvos Respublikos teisės aktus, atsižvelgdama į tarptautinius apskaitos standartus, Europos Sąjungos teisę ir tarptautinius viešojo sektoriaus apskaitos standartus, atlieka Lietuvos Respublikos finansų ministerija (toliau – Finansų ministerija).
-
-2. Verslo apskaitos standartus tvirtina finansų ministras. Verslo apskaitos standartų rengimo klausimais Finansų ministerijoje sudaromas kolegialus patariamasis organas – Verslo apskaitos standartų komitetas. Verslo apskaitos standartų komitetą sudaro valstybės institucijų, aukštųjų mokyklų, auditorius ir (arba) buhalterius vienijančių profesinių organizacijų atstovai. Šio komiteto sudarymo ir darbo tvarką nustato finansų ministras. Verslo apskaitos standartai turi būti parengti vadovaujantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais.
-
-3. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartus tvirtina finansų ministras. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų rengimo klausimais Finansų ministerijoje sudaromas kolegialus patariamasis organas – Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų komitetas. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų komitetą sudaro valstybės institucijų ir (arba) Lietuvos savivaldybių asociacijos, aukštųjų mokyklų, auditorius ir (arba) buhalterius vienijančių profesinių organizacijų atstovai. Šio komiteto sudarymo ir darbo tvarką nustato finansų ministras. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartai turi būti parengti pagal tarptautinius viešojo sektoriaus apskaitos standartus ir kitą Tarptautinės buhalterių federacijos Viešojo sektoriaus apskaitos standartų valdybos rengiamą metodiką (nurodymus, studijas).
-
-4. Apibendrintus verslo apskaitos standartų paaiškinimus, suderinusi su Finansų ministerija, teikia ir skelbia, konsultacijas konkrečiais verslo apskaitos standartų klausimais teikia Lietuvos Respublikos Vyriausybės įgaliota įstaiga.
-
-5. Apibendrintus viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų paaiškinimus teikia ir skelbia, konsultacijas konkrečiais viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų klausimais teikia Finansų ministerija.
-
-Papildyta straipsniu:
-
-Nr. XII-2215, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21010
-
-103 straipsnis. Centralizuotas viešojo sektoriaus subjektų apskaitos tvarkymas
-
-1. Centralizuoto viešojo sektoriaus subjektų apskaitos organizavimo tvarką nustato Vyriausybė.
-
-2. Sprendimą dėl viešojo sektoriaus subjektų, kurių apskaita tvarkoma centralizuotai, ir dėl biudžetinės (biudžetinių) įstaigos (įstaigų), kuri (kurios) centralizuotai tvarko viešojo sektoriaus subjektų apskaitą, gali priimti:
-
-1) dėl Vyriausybės kanceliarijos, ministerijų, Vyriausybės įstaigų, Vyriausybės atstovų tarnybų, atitinkamo ministro valdymo sritims priskirtų įstaigų prie ministerijos ir šių subjektų kontroliuojamų viešojo sektoriaus subjektų – Vyriausybė;
-
-2) dėl savivaldybių kontroliuojamų viešojo sektoriaus subjektų – savivaldybių tarybos;
-
-3) dėl šio straipsnio 2 dalies 1 ir 2 punktuose nenurodytų viešojo sektoriaus subjektų – atitinkamo viešojo sektoriaus subjekto vadovas.
-
-3. Kai viešojo sektoriaus subjektų apskaita tvarkoma centralizuotai, viešojo sektoriaus subjekto vadovo ir centralizuotai apskaitą tvarkančios biudžetinės įstaigos vadovo funkcijos, pareigos ir atsakomybė nustatomos rašytinėje sutartyje, atsižvelgiant į centralizuotai atliekamų funkcijų apimtį. Šios sutarties tipinę formą tvirtina Vyriausybė.
-
-Papildyta straipsniu:
-
-Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 papildymo 26 straipsniu įstatymas
 
