@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2019-01-01"
+last_updated: "2019-04-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-24
+Suvestinė redakcija nuo 2019-04-25 iki 2019-05-06
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -507,9 +507,21 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 4) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių ir kitų Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat gyventi Lietuvos Respublikoje ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
 
+4 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
+
+4) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
+
+TAR pastaba. 80 straipsnio 2 dalies 4 punkto nuostatos taikomos Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, įstojusiems į aukštąsias mokyklas nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos iki 2020 m. gruodžio 31 d.
+
+4 punkto redakcija nuo 2021-01-01:
+
+4) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
+
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
+
+Nr. XIII-2057, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06693
 
 3. Už studijas kainą, proporcingą dalyko (modulio) apimčiai, moka:
 
@@ -575,9 +587,23 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti skiriama parama įstojusiems į aukštąsias mokyklas ne Lietuvos Respublikoje ir jose studijuojantiems Lietuvos Respublikos piliečiams, taip pat kitų Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečiams, dirbantiems ir (arba) turintiems teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos nariams. Ši parama gali būti skiriama ir kitų užsienio valstybių piliečiams ir asmenims be pilietybės, turintiems teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
 
+9 dalies redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
+
+9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti skiriama parama įstojusiems į aukštąsias mokyklas ne Lietuvos Respublikoje ir jose studijuojantiems Lietuvos Respublikos piliečiams, taip pat kitų Europos Sąjungos valstybių narių, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Europos laisvosios prekybos asociacijos valstybių piliečiams, dirbantiems ir (arba) turintiems teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos nariams. Ši parama gali būti skiriama ir kitų užsienio valstybių piliečiams ir asmenims be pilietybės, turintiems teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
+
+TAR pastaba. 82 straipsnio 9 dalies nuostatos taikomos Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, įstojusiems į aukštąsias mokyklas nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos iki 2020 m. gruodžio 31 d.
+
+9 dalies redakcija nuo 2021-01-01:
+
+9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti skiriama parama įstojusiems į aukštąsias mokyklas ne Lietuvos Respublikoje ir jose studijuojantiems Lietuvos Respublikos piliečiams, taip pat kitų Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečiams, dirbantiems ir (arba) turintiems teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos nariams. Ši parama gali būti skiriama ir kitų užsienio valstybių piliečiams ir asmenims be pilietybės, turintiems teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
+
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2057, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06693
 
 10. Aukščiausius konkursinius balus pagal stojančiųjų į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas studijų vietas konkursinę eilę surinkusiems asmenims, priimtiems į valstybės nefinansuojamas vietas tose aukštosiose mokyklose, kurių nustatytas mažiausias stojamasis konkursinis balas ne žemesnis negu švietimo ir mokslo ministro nustatytas mažiausias stojamasis konkursinis balas, iš valstybės biudžeto lėšų studijų laikotarpiui skiriama norminės studijų kainos dydžio (tuo atveju, kai už studijas mokama metinė studijų kaina mažesnė už norminę studijų kainą, – studijų kainos dydžio) studijų stipendija. Atitinkamais metais priimamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų studentų valstybės finansavimą studijų stipendijoms ir preliminarų gaunančių studijų stipendijas trumposios pakopos, pirmosios pakopos ir vientisųjų studijų, antrosios pakopos, doktorantūros studijų studentų skaičių (nustatytą pagal patvirtintas atitinkamų metų normines studijų kainas) iki kiekvienų metų balandžio 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. Studijų stipendijų skyrimo ir mokėjimo tvarką nustato Vyriausybė. Studijų stipendijas administruoja Valstybinis studijų fondas.
 
@@ -938,6 +964,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1700, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20941
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 82 straipsnio pakeitimo įstatymas
+
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2057, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06693
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 80 ir 82 straipsnių pakeitimo įstatymas
 
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
