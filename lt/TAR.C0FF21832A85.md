@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "2019-01-30"
+last_updated: "2019-04-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2019-01-30 iki 2019-04-24
+Suvestinė redakcija nuo 2019-04-25 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -367,6 +367,16 @@ Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
 
 Ginčai dėl labdaros ir paramos nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
 
+15 straipsnis. Įstatymo taikymas Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei
+
+Dvejus metus nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos šio įstatymo 7 straipsnio 5 dalies nuostatos Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei taikomos tiek pat, kiek ir Europos Sąjungos valstybėms narėms.
+
+TAR pastaba. Papildymas 15 straipsniu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+
+Papildyta straipsniu:
+
+Nr. XIII-2055, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06691
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
@@ -565,65 +575,13 @@ Nr. XIII-1955, 2019-01-15, paskelbta TAR 2019-01-29, i. k. 2019-01320
 
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, 11 straipsnių pakeitimo ir Įstatymo papildymo 9-1, 9-2 straipsniais įstatymas
 
-15 straipsnis. Paramos gavėjo statusas
+25.
 
-1. Šio įstatymo 7 straipsnio 1 dalyje nurodyti asmenys gali kreiptis į juridinių asmenų registro tvarkytoją dėl paramos gavėjo statuso suteikimo. Paramos gavėjo statusas privalo būti suteiktas, jeigu šių asmenų įstatuose (nuostatuose) numatyta:
+Lietuvos Respublikos Seimas, Įstatymas
 
-1) šio įstatymo 3 straipsnio 3 dalyje nurodyta visuomenei naudinga veikla;
+Nr. XIII-2055, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06691
 
-Straipsnio punkto pakeitimai:
-
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
-
-2) Neteko galios nuo 2006-01-12
-
-Straipsnio punkto naikinimas:
-
-Nr. X-461, 2005-12-20, Žin. 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
-
-2. Paramos gavėjo statuso suteikimo, įskaitant pakartotinį šio statuso suteikimą, ir panaikinimo tvarka nustatoma Juridinių asmenų registro nuostatuose, kuriuos tvirtina Lietuvos Respublikos Vyriausybė.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
-
-3. Juridinių asmenų registro tvarkytojas paramos gavėjo statusą panaikina kontrolės institucijos teikimu arba paties paramos gavėjo prašymu. Į juridinių asmenų registro tvarkytoją dėl juridiniam asmeniui suteikto paramos gavėjo statuso panaikinimo kreipiasi institucija, pagal savo kompetenciją nustačiusi, kad:
-
-1) asmeniui yra įsiteisėjęs teismo nuosprendis už Lietuvos Respublikos baudžiamajame kodekse numatytą nusikaltimą ar baudžiamąjį nusižengimą ekonomikai ir verslo tvarkai ar finansų sistemai;
-
-2) asmuo pažeidė Pinigų plovimo prevencijos įstatymą;
-
-3) asmuo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 12 straipsnio 2 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo apie šį pažeidimą įspėtas;
-
-4) asmuo, pažeisdamas šio įstatymo reikalavimus, suteikė, gavo ar panaudojo didesnę kaip 250 bazinių socialinių išmokų dydžio per vienus kalendorinius metus arba didesnę kaip 500 bazinių socialinių išmokų dydžio per trejus kalendorinius metus iš eilės labdaros ar paramos lėšų sumą;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
-
-5) asmuo nesumokėjo mokestinės nepriemokos ir mokesčių administratorius Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka įgijo teisę priverstinai ją išieškoti. Ši nuostata netaikoma tais atvejais, kai Mokesčių administravimo įstatymo 110 straipsnio nustatyta tvarka mokestinės nepriemokos priverstinis išieškojimas yra sustabdytas arba nepradėtas.
-
-6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja pagal šiame įstatyme nustatytą paramos paskirtį.
-
-Papildyta straipsnio punktu:
-
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
-
-Straipsnio dalies pakeitimai:
-
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
-
-4. Juridinis asmuo, kuriam už šio straipsnio 3 dalyje nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į juridinių asmenų registro tvarkytoją ne anksčiau kaip po metų, kurie pradedami skaičiuoti nuo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas ir delspinigius, neturi teistumo už šio straipsnio 3 dalies 1 punkte nurodytus nusikaltimus, per paskutinius vienus metus nėra padaręs šio straipsnio 3 dalies 1 punkte nurodytų baudžiamųjų nusižengimų ir per metų laikotarpį nebuvo nustatyta Pinigų plovimo prevencijos įstatymo pažeidimų.
-
-Straipsnio dalies pakeitimai:
-
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
-
-5. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi paramos gavėjo statusą. Jiems netaikomos šio straipsnio 1, 2, 3 ir 4 dalių nuostatos.
-
-Papildyta straipsnio dalimi:
-
-Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 papildymo 15 straipsniu įstatymas
 
 16 straipsnis. Atsakomybė už įstatymo pažeidimą
 
