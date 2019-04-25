@@ -4,7 +4,7 @@ identifier: "TAR.074B2F6259F9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-04-03"
-last_updated: "2016-01-18"
+last_updated: "2019-04-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.074B2F6259F9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-18 iki 2019-04-24
+Suvestinė redakcija nuo 2019-04-25 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 47-1747, i. k. 1081010ISTA00X-1478
 
@@ -491,6 +491,14 @@ BENDROSIOS NUOSTATOS
 6. Architekto formalios kvalifikacijos įrodymas, nurodytas šio įstatymo 3 priedo 3.7.1 papunktyje, automatiškai pripažįstamas pagal šio straipsnio 1, 2 ir 3 dalis, įrodo, kad baigtas rengimas, kuris prasidėjo ne anksčiau kaip šio įstatymo 3 priedo 3.7.1 papunktyje nurodytais atskaitos akademiniais metais.
 
 7. Kompetentingos institucijos leidžia užsiimti medicinos gydytojų, bendrosios praktikos slaugytojų, gydytojų odontologų, veterinarijos gydytojų, akušerių ir vaistininkų profesine veikla ir ją vykdyti su sąlyga, jeigu asmuo turi šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.1.4, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.5.2, 3.6.2 papunkčiuose nurodytą formalios kvalifikacijos įrodymą, patvirtinantį, kad atitinkamas asmuo rengimo metu įgijo žinių, įgūdžių ir kompetencijų, nurodytų šio įstatymo 22 straipsnio 3 dalyje, 29 straipsnio 6 ir 7 dalyse, 32 straipsnio 3 dalyje, 36 straipsnio 3 dalyje, 38 straipsnio 4 dalyje, 42 straipsnio 4 dalyje, kuriose reglamentuojamas šių specialistų rengimas.
+
+8. Lietuvos Respublikos kompetentingos institucijos savo nustatyta tvarka, vadovaudamosi šio straipsnio 1–7 dalyse nustatytais reikalavimais, pripažįsta šio straipsnio 1 dalyje nurodytus formalios kvalifikacijos įrodymus, kurie valstybių narių, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (toliau – Jungtinė Karalystė) piliečiams Jungtinėje Karalystėje išduoti ne vėliau kaip per vienus metus nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos.
+
+TAR pastaba. Papildymas 8 dalimi įsigaliioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 
 19 straipsnis. Pranešimo (notifikavimo) procedūra
 
@@ -1525,6 +1533,54 @@ JUNGTINĖ KARALYSTĖ
 37. Matavimų ir kontrolės institutas.
 
 38. Britų kompiuterių draugija.
+
+1 priedo redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
+
+Lietuvos Respublikos
+
+reglamentuojamų profesinių
+
+kvalifikacijų pripažinimo įstatymo
+
+1 priedas
+
+LIETUVOS RESPUBLIKOS REGLAMENTUOJAMŲ PROFESINIŲ KVALIFIKACIJŲ PRIPAŽINIMO ĮSTATYMO 4 STRAIPSNIO 5 DALIES SĄLYGAS ATITINKANČIŲ PROFESINIŲ ASOCIACIJŲ ARBA ORGANIZACIJŲ SĄRAŠAS
+
+AIRIJA
+
+1. Airijos privilegijuotų apskaitininkų institutas (taikoma tik sąskaitų audito veiklai).
+
+2. Airijos atestuotų valstybės apskaitininkų institutas (taikoma tik sąskaitų audito veiklai).
+
+3. Atestuotų apskaitininkų asociacija (taikoma tik sąskaitų audito veiklai).
+
+4. Airijos inžinierių institucija.
+
+5. Airijos planavimo institutas.
+
+6. Jungtinės Karalystės asociacijos ir organizacijos, kurių nariais yra ir Airijos piliečiai:
+
+1) Anglijos ir Velso privilegijuotų apskaitininkų institutas;
+
+2) Škotijos privilegijuotų apskaitininkų institutas;
+
+3) Aktuarų institutas;
+
+4) Aktuarų fakultetas;
+
+5) Vadybos apskaitininkų privilegijuotasis institutas;
+
+6) Diplomuotų sekretorių ir administratorių institutas;
+
+7) Karališkasis miestų planavimo institutas;
+
+8) Karališkoji diplomuotų ekspertų institucija;
+
+9) Privilegijuotasis statybos institutas.
+
+Priedo pakeitimai:
+
+Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 
 Lietuvos Respublikos
 
