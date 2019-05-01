@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2019-01-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -1491,7 +1491,11 @@ Civilinio kodekso šeštosios knygos X skyriaus normos dėl restitucijos taikomo
 
 1. Nepilnamečio iki keturiolikos metų sudarytas sandoris negalioja, išskyrus smulkius buitinius sandorius, kuriuos pagal šį kodeksą ir kitus įstatymus nepilnamečiai iki keturiolikos metų gali sudaryti savarankiškai.
 
-2. Fizinio asmens, kuris dėl psichikos sutrikimo įstatymų nustatyta tvarka yra pripažintas neveiksniu tam tikroje srityje, toje srityje sudarytas sandoris negalioja.
+2. Fizinio asmens, kuris dėl psichikos ir elgesio sutrikimo įstatymų nustatyta tvarka yra pripažintas neveiksniu tam tikroje srityje, toje srityje sudarytas sandoris negalioja.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856
 
 3. Šio straipsnio 1 ir 2 dalyse numatytais atvejais, be šio kodekso 1.80 straipsnio 2 dalyje numatytų pasekmių, veiksnioji šalis privalo atlyginti antrajai šaliai šios turėtas išlaidas, taip pat jos turto netekimą ar sužalojimą, jeigu veiksnioji šalis žinojo arba turėjo žinoti, kad antroji šalis yra neveiksni šioje srityje.
 
@@ -1503,7 +1507,11 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 1.85 straipsnis. Ribotai veiksnaus fizinio asmens ir fizinio asmens, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, nesinaudojant pagalba sudarytų sandorių pripažinimas negaliojančiais
 
-1. Fizinio asmens, kurio veiksnumas apribotas tam tikroje srityje dėl psichikos sutrikimo, toje srityje be rūpintojo sutikimo sudarytas sandoris gali būti teismo tvarka pripažintas negaliojančiu pagal rūpintojo ar prokuroro ieškinį.
+1. Fizinio asmens, kurio veiksnumas apribotas tam tikroje srityje dėl psichikos ir elgesio sutrikimo, toje srityje be rūpintojo sutikimo sudarytas sandoris gali būti teismo tvarka pripažintas negaliojančiu pagal rūpintojo ar prokuroro ieškinį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856
 
 2. Fizinio asmens, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, toje srityje nesinaudojant pagalba sudarytas sandoris gali būti pripažintas negaliojančiu šiame kodekse numatytais sandorių negaliojimo pagrindais pagal pagalbą teikiančio asmens ar prokuroro ieškinį.
 
@@ -2743,13 +2751,15 @@ Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
 3. Nesusituokę asmenys to paties vaiko įvaikinti negali.
 
-4. Įvaikintojais negali būti asmenys, teismo pripažinti neveiksniais šioje srityje arba ribotai veiksniais šioje srityje, asmenys, kuriems yra ar buvo apribota tėvų valdžia, buvę vaiko globėjai (rūpintojai), jei globa (rūpyba) panaikinta dėl jų kaltės šio kodekso 3.246 straipsnio 3 dalyje numatytais atvejais, asmenys, nuo kurių yra atskirtas vaikas, taip pat asmenys, turintys psichikos sutrikimų ar sergantys kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija. Įvaikintojais taip pat negali būti asmenys, nuteisti už tyčinį nusikaltimą žmoniškumui, žmogaus gyvybei, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, visuomenės saugumui, dorovei, nusikaltimą, pavojingą žmogaus gyvybei ir sveikatai, sunkų sveikatos sutrikdymą, taip pat nusikaltimą, susijusį su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas įstatymų nustatyta tvarka. Dėl asmens, nuteisto už kitas nusikalstamas veikas, teisės įvaikinti sprendžia teismas, įvertinęs padarytos nusikalstamos (nusikalstamų) veikos (veikų) pobūdį ir pavojingumą bei atsižvelgdamas į vaiko interesus.
+4. Įvaikintojais negali būti asmenys, teismo pripažinti neveiksniais šioje srityje arba ribotai veiksniais šioje srityje, asmenys, kuriems yra ar buvo apribota tėvų valdžia, buvę vaiko globėjai (rūpintojai), jei globa (rūpyba) panaikinta dėl jų kaltės šio kodekso 3.246 straipsnio 3 dalyje numatytais atvejais, asmenys, nuo kurių yra atskirtas vaikas, taip pat asmenys, turintys psichikos ir elgesio sutrikimų ar sergantys kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija. Įvaikintojais taip pat negali būti asmenys, nuteisti už tyčinį nusikaltimą žmoniškumui, žmogaus gyvybei, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, visuomenės saugumui, dorovei, nusikaltimą, pavojingą žmogaus gyvybei ir sveikatai, sunkų sveikatos sutrikdymą, taip pat nusikaltimą, susijusį su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas įstatymų nustatyta tvarka. Dėl asmens, nuteisto už kitas nusikalstamas veikas, teisės įvaikinti sprendžia teismas, įvertinęs padarytos nusikalstamos (nusikalstamų) veikos (veikų) pobūdį ir pavojingumą bei atsižvelgdamas į vaiko interesus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+
+Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856
 
 5. Asmenys, norintys įsivaikinti vaiką (išskyrus vaiko motinos (tėvo) sutuoktinį ir giminaičius), turi būti įtraukti į asmenų, norinčių įsivaikinti vaiką, apskaitą, kurią tvarko valstybinė vaiko teisių apsaugos institucija.
 
@@ -3391,13 +3401,15 @@ Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
 7) sulaukęs šešiasdešimt penkerių metų arba vyresnis, išskyrus artimąjį giminaitį, jei jis nori laikinai globoti jaunesnį kaip dešimties metų vaiką;
 
-8) turintis psichikos sutrikimą ar sergantis kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija;
+8) turintis psichikos ir elgesio sutrikimą ar sergantis kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+
+Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856
 
 9) su kuriuo dėl netinkamo sutarties vykdymo buvo nutraukta tarpusavio bendradarbiavimo ir paslaugų teikimo sutartis, sudaryta su globos centru.
 
@@ -8019,7 +8031,11 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 2. Pacientas iki šešiolikos metų negali būti gydomas ar jam teikiama kita asmens sveikatos priežiūra ar (ir) slauga prieš vieno iš jo tėvų ar jo atstovo pagal įstatymą valią, jeigu įstatymų nenustatyta kitaip. Jeigu pacientas iki šešiolikos metų pagal savo amžių ir išsivystymą gali teisingai vertinti savo sveikatos būklę ir siūlomą gydymą, jis negali būti gydomas prieš jo valią, jeigu įstatymų nenustatyta kitaip. Įstatymai gali numatyti atvejus, kai asmens sveikatos priežiūrai atlikti yra būtinas nepilnamečio paciento vieno iš tėvų ar jo atstovo pagal įstatymą rašytinis sutikimas. Gydytojas turi parinkti gydymo metodus, kurie labiausiai atitiktų nepilnamečio interesus.
 
-3. Paciento, psichikos ligonio, nesugebančio teisingai įvertinti savo sveikatos būklės, gydymo ypatumus nustato įstatymai.
+3. Paciento, taip pat psichikos ir elgesio sutrikimų turinčio paciento, nesugebančių teisingai įvertinti savo sveikatos būklės, gydymo ypatumus nustato įstatymai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856
 
 6.730 straipsnis. Paciento sutikimo įrašymas į jo medicinos dokumentus
 
@@ -10971,6 +10987,22 @@ Nr. XIII-1448, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11760
 
 Lietuvos Respublikos civilinio kodekso 6.228-3 straipsnio, šeštosios knygos XXXV skyriaus trečiojo skirsnio ir priedo pakeitimo įstatymas
 
+40.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856
+
+Lietuvos Respublikos civilinio kodekso 1.84, 1.85, 2.10, 2.11, 2.26, 3.14, 3.210, 3.269, 3.279-1, 6.268 ir 6.729 straipsnių pakeitimo įstatymas
+
+41.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2039, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06551
+
+Lietuvos Respublikos civilinio kodekso 3.254-1 straipsnio pakeitimo įstatymas
+
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
 Motorinės transporto priemonės pirkimo–pardavimo sutartyje privalo būti nurodyti duomenys apie motorinę transporto priemonę, kurią pardavėjas privalo pagal sutartį perduoti pirkėjui. Pardavėjas pirkimo–pardavimo sutartyje privalo pirkėjui nurodyti (deklaruoti) ridos duomenis, visus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta per laikotarpį, kurį pardavėjas yra motorinės transporto priemonės savininkas, taip pat visus jam žinomus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta. Privalomų pirkimo–pardavimo sutartyje nurodyti duomenų apie motorinę transporto priemonę ir jos trūkumus sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
@@ -11035,7 +11067,11 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.2791 straipsnis. Pagalba priimant sprendimus
 
-1. Pilnametis veiksnus fizinis asmuo gali raštu sudaryti sutartį su pilnamečiu veiksniu fiziniu asmeniu, kuriuo jis pasitiki, dėl pagalbos priimant sprendimus tam tikrose gyvenimo srityse. Sutartis dėl pagalbos priimant sprendimus gali būti sudaroma, kai asmeniui dėl psichikos sutrikimo arba dėl kitų aplinkybių (amžiaus, ligos ar kitų) sudėtinga priimti geriausiai jo interesus atitinkančius sprendimus. Sutartį dėl pagalbos priimant sprendimus srityse, kuriose yra veiksnus, gali sudaryti ir fizinis asmuo, kuris yra neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje.
+1. Pilnametis veiksnus fizinis asmuo gali raštu sudaryti sutartį su pilnamečiu veiksniu fiziniu asmeniu, kuriuo jis pasitiki, dėl pagalbos priimant sprendimus tam tikrose gyvenimo srityse. Sutartis dėl pagalbos priimant sprendimus gali būti sudaroma, kai asmeniui dėl psichikos ir elgesio sutrikimo arba dėl kitų aplinkybių (amžiaus, ligos ar kitų) sudėtinga priimti geriausiai jo interesus atitinkančius sprendimus. Sutartį dėl pagalbos priimant sprendimus srityse, kuriose yra veiksnus, gali sudaryti ir fizinis asmuo, kuris yra neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856
 
 2. Sutartys dėl pagalbos priimant sprendimus sudaromos notarine forma. Sutartys dėl pagalbos priimant sprendimus ar jų pakeitimai registruojami Neveiksnių ir ribotai veiksnių asmenų registre. Sutarčiai dėl pagalbos priimant sprendimus ar jos pakeitimams įregistruoti reikalingus duomenis Neveiksnių ir ribotai veiksnių asmenų registrui pateikia šią sutartį ar jos pakeitimus patvirtinęs notaras ar konsulinis pareigūnas Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka. Sutartis dėl pagalbos priimant sprendimus prieš trečiuosius asmenis gali būti panaudota ir jiems sukelia teisines pasekmes tik tuo atveju, jei ji įregistruota Neveiksnių ir ribotai veiksnių asmenų registre.
 
@@ -11109,7 +11145,11 @@ PILNAMEČIŲ ASMENŲ GLOBA IR RŪPYBA
 
 1. Kai yra šio kodekso 3.254 straipsnyje nustatyti pagrindai, valstybinė vaiko teisių apsaugos institucija Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka gali paimti vaiką iš jo atstovų pagal įstatymą.
 
-2. Valstybinė vaiko teisių apsaugos institucija, paėmusi vaiką šio straipsnio 1 dalyje nurodytu atveju, privalo per tris darbo dienas kreiptis į teismą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą. Prašymas išduoti leidimą paimti vaiką iš jo atstovų pagal įstatymą nagrinėjamas Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
+2. Valstybinė vaiko teisių apsaugos institucija, paėmusi vaiką šio straipsnio 1 dalyje nurodytu atveju, privalo per tris darbo dienas, o išimtiniais atvejais, kai tai objektyviai neįmanoma, – per penkias darbo dienas, kreiptis į teismą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą. Prašymas išduoti leidimą paimti vaiką iš jo atstovų pagal įstatymą nagrinėjamas Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2039, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06551
 
 Papildyta straipsniu:
 
