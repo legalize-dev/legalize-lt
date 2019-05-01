@@ -4,7 +4,7 @@ identifier: "TAR.9F274C93E483"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-06-10"
-last_updated: "2015-01-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F274C93E483"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2021-10-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2760, i. k. 1031010ISTA0IX-1607
 
@@ -105,11 +105,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. IX-1981, 2004-01-27, Žin., 2004, Nr. 25-754 (2004-02-14), i. k. 1041010ISTA0IX-1981
 
-3) finansiškai remti žemės sklypų, kuriuose medžioklė nėra uždrausta, savininkus, valdytojus ir naudotojus, įgyvendinančius žalos prevencijos priemones, kuriomis jie siekia išvengti medžiojamųjų gyvūnų daromos žalos (želdinių apdorojimas repelentais, aptvėrimas tvoromis ar apsauginėmis juostomis, želdinių, gerinančių laukinių gyvūnų natūralias mitybos sąlygas, veisimas ir kitos priemonės), atlyginti vilkų ūkiniams gyvūnams padarytą žalą, įsigyti kartografinę ir kitą medžiagą, reikalingą pagal Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti – įplaukos pagal 3 straipsnio 2 punktą;
+3) finansiškai remti žemės sklypų, kuriuose medžioklė nėra uždrausta, savininkus, valdytojus ir naudotojus, įgyvendinančius žalos prevencijos priemones, kuriomis jie siekia išvengti medžiojamųjų gyvūnų daromos žalos (želdinių apdorojimas repelentais, aptvėrimas tvoromis ar apsauginėmis juostomis, želdinių, gerinančių laukinių gyvūnų natūralias mitybos sąlygas, veisimas ir kitos priemonės), įsigyti kartografinę ir kitą medžiagą, reikalingą pagal Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti, – įplaukos pagal 3 straipsnio 2 punktą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-374, 2013-06-18, Žin., 2013, Nr. 67-3337 (2013-06-26), i. k. 1131010ISTA0XII-374
+
+Nr. XIII-1889, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00097
 
 4) želdynų ir želdinių apsaugai, tvarkymui, būklės stebėsenai, želdynų kūrimui, želdinių veisimui, inventorizacijai;
 
@@ -196,4 +198,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1383, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19667
 
 Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo Nr. IX-1607 3 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1889, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00097
+
+Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo Nr. IX-1607 4 straipsnio pakeitimo įstatymas
 
