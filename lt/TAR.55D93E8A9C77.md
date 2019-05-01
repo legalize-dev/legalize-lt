@@ -4,7 +4,7 @@ identifier: "TAR.55D93E8A9C77"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-09"
-last_updated: "2001-10-24"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55D93E8A9C77"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2001-10-09"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymas
+
+Suvestinė redakcija nuo 2019-05-01 iki 2024-06-30
+
+Įstatymas paskelbtas: Žin. 2001, Nr. 90-3144, i. k. 1011010ISTA00IX-533
 
 LIETUVOS RESPUBLIKOS
 
@@ -51,11 +55,23 @@ BENDROSIOS NUOSTATOS
 
 4. Augalų genetinių išteklių kilmės šalis – šalis, kurioje augalų genetiniai ištekliai susidarė natūraliomis sąlygomis ar buvo dirbtinai sukurti.
 
-5. Augalų genų bankas – iš valstybės biudžeto finansuojama institucija, koordinuojanti genetinių išteklių išsaugojimo ir tyrimo darbus bei sauganti augalų genetinę medžiagą.
+5. Neteko galios 2019-05-01.
 
-6. Augalų nacionaliniai genetiniai ištekliai – atrinkti ir į augalų nacionalinių genetinių išteklių centrinę duomenų bazę įtraukti augalų genetiniai ištekliai, turintys ekologinę, selekcinę bei ekonominę svarbą Lietuvos Respublikai.
+Straipsnio dalies pakeitimai:
 
-7. Augalų nacionalinių genetinių išteklių centrinė duomenų bazė – duomenų bei kitos informacijos apie augalų nacionalinius genetinius išteklius rinkinys, kaupiamas ir saugomas Vyriausybės įgaliotos institucijos kompiuterinėse laikmenose.
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
+
+6. Augalų nacionaliniai genetiniai ištekliai – atrinkti ir į augalų nacionalinių genetinių išteklių informacinę sistemą įtraukti augalų genetiniai ištekliai, turintys ekologinę, selekcinę ir ekonominę svarbą Lietuvos Respublikai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
+
+7. Augalų nacionalinių genetinių išteklių informacinė sistema – visuma teisinių, organizacinių, techninių ir programinių priemonių, skirtų augalų nacionalinių genetinių išteklių tvarkymo informacijai apdoroti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 8. Augalų nacionalinių genetinių išteklių išsaugojimas – augalų genetinės informacijos išsaugojimas siekiant išvengti augalų nacionalinių genetinių išteklių pažeidimų ir žūties bei užtikrinant jų įvairovę, gyvybingumą ir plitimo galimybes.
 
@@ -65,7 +81,11 @@ BENDROSIOS NUOSTATOS
 
 11. Augalų nacionalinių genetinių išteklių išsaugojimas inter situ – kultūrinių bei kultivuojamų augalų nacionalinių genetinių išteklių išsaugojimas vietose, kuriose per ilgą kultivavimo laikotarpį yra susiformavusios naujos paveldimos šių augalų savybės.
 
-12. Augalų nacionalinių genetinių išteklių koordinacinis centras – mokslo ir studijų institucija ar jos padalinys, kuriems teisės aktų nustatyta tvarka suteikta teisė kaupti augalų nacionalinių genetinių išteklių naudojimo bei saugojimo tyrimų rezultatus.
+12. Neteko galios 2019-05-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 13. Augalų nacionalinių genetinių išteklių naudojimas – augalų nacionalinių genetinių išteklių naudojimas žmogaus racionaliems (tikslingiems) poreikiams (maistui, technologiniam perdirbimui, vaistinei žaliavai, moksliniams tyrimams, selekcijai, sėklininkystei, reprodukcijai ir mainams) tenkinti, neniokojant ir nesunaikinant pačių išteklių.
 
@@ -97,7 +117,11 @@ VALSTYBINIS AUGALŲ NACIONALINIŲ GENETINIŲ IŠTEKLIŲ NAUDOJIMO IR APSAUGOS RE
 
 2) nustato augalų nacionalinių genetinių išteklių kaupimo, saugojimo, naudojimo ir atkūrimo tvarką;
 
-3) koordinuoja augalų nacionalinių genetinių išteklių centrinės duomenų bazės tvarkymą;
+3) koordinuoja augalų nacionalinių genetinių išteklių informacinės sistemos tvarkymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 4) organizuoja augalų nacionalinių genetinių išteklių naudojimo ir apsaugos kontrolę;
 
@@ -107,25 +131,75 @@ VALSTYBINIS AUGALŲ NACIONALINIŲ GENETINIŲ IŠTEKLIŲ NAUDOJIMO IR APSAUGOS RE
 
 7) bendradarbiauja su užsienio institucijomis;
 
-8) atlieka kitas teisės aktų joms priskirtas funkcijas.
+8) tvirtina augalų nacionalinių genetinių išteklių sąrašus;
 
-2. Augalų nacionalinių genetinių išteklių atrinkimo, saugojimo, naudojimo ir atkūrimo klausimams spręsti iš valstybės valdymo institucijų, mokslo ir studijų institucijų bei nevalstybinių organizacijų atstovų sudaroma nuolatinė augalų nacionalinių genetinių išteklių komisija. Gavusi augalų nacionalinių genetinių išteklių koordinacinių centrų siūlymus, ši komisija atrenka augalų genetinius išteklius ir teikia Vyriausybės įgaliotoms institucijoms, kad suteiktų jiems nacionalinių genetinių išteklių statusą ir įtrauktų juos į centrinę duomenų bazę. Komisija taip pat teikia pasiūlymus Vyriausybės įgaliotoms institucijoms dėl augalų nacionalinių genetinių išteklių būklės pagerinimo. Komisija veikia visuomeniniais pagrindais. Komisijos sudėtį ir nuostatus tvirtina Vyriausybės įgaliota institucija.
+Papildyta straipsnio punktu:
+
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
+
+9) atlieka kitas teisės aktų joms priskirtas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
+
+2. Pasiūlymams dėl augalų nacionalinių genetinių išteklių atrinkimo, saugojimo, naudojimo ir atkūrimo iš valstybės institucijų, mokslo ir studijų institucijų bei nevyriausybinių organizacijų atstovų nagrinėti sudaroma nuolatinė augalų nacionalinių genetinių išteklių komisija (toliau – Komisija). Gavusi augalų nacionalinių genetinių išteklių koordinacinių centrų siūlymus, Komisija atrenka augalų genetinius išteklius ir teikia juos Vyriausybės įgaliotoms institucijoms, kad šios suteiktų jiems nacionalinių genetinių išteklių statusą. Komisija veikia visuomeniniais pagrindais. Komisijos sudėtį ir nuostatus tvirtina Vyriausybės įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 5 straipsnis. Augalų nacionalinių genetinių išteklių kaupimo, tyrimo ir saugojimo koordinavimas
 
-1. Augalų nacionalinių genetinių išteklių kaupimą, tyrimą ir išsaugojimą Lietuvos Respublikoje koordinuoja bei genetinę medžiagą saugo augalų genų bankas.
+1. Augalų nacionalinių genetinių išteklių tyrimo, saugojimo ir naudojimo reguliavimo Lietuvos Respublikoje veiklą vykdo Lietuvos Respublikos aplinkos ministerijos įgaliota institucija.
 
-2. Augalų nacionalinių genetinių išteklių koordinaciniai centrai koordinuoja augalų nacionalinių genetinių išteklių kaupimą, tyrimą ir išsaugojimą pagal augalų grupes:
+2. Aplinkos ministerijos įgaliota institucija:
 
-1) žemės ūkio (lauko augalų);
+1) koordinuoja augalų nacionalinių genetinių išteklių kaupimo, tyrimo ir saugojimo Lietuvos Respublikoje darbus, augalų nacionalinių genetinių išteklių koordinacinių centrų veiklą, susijusią su augalų nacionalinių genetinių išteklių kaupimu, tyrimu ir saugojimu;
 
-2) miškų;
+2) saugo augalų genetinę medžiagą;
 
-3) žemės ūkio (sodo ir daržo augalų);
+3) tvarko augalų nacionalinių genetinių išteklių informacinę sistemą;
 
-4) dekoratyvinių;
+4) rengia ir tvirtina augalų nacionalinių genetinių išteklių atrankos kriterijus ir metodikas;
 
-5) vaistinių aromatinių.
+5) kontroliuoja augalų genetinės medžiagos dauginimą ir platinimą;
+
+6) bendradarbiauja su kitų šalių institucijomis, kaupiančiomis ir saugančiomis augalų nacionalinius genetinius išteklius, dalyvauja rengiant ir įgyvendinant tarptautines programas augalų nacionalinių genetinių išteklių klausimais;
+
+7) organizuoja Komisijos darbą;
+
+8) atlieka kitas Aplinkos ministerijos įgaliotos institucijos nuostatuose numatytas funkcijas.
+
+3. Augalų nacionalinių genetinių išteklių koordinaciniai centrai – mokslo ir studijų institucijos, kurios Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos švietimo, mokslo ir sporto ministro bendru įsakymu įpareigojamos vykdyti augalų nacionalinių genetinių išteklių koordinacinių centrų funkcijas.
+
+4. Augalų nacionalinių genetinių išteklių koordinaciniai centrai:
+
+1) teikia Komisijai siūlymus dėl atrinktų augalų genetinių išteklių priskyrimo augalų nacionaliniams genetiniams ištekliams, nurodydami tokių išteklių valdytoją;
+
+2) kaupia, tiria ir saugo augalų nacionalinius genetinius išteklius pagal šias augalų grupes:
+
+a) dekoratyvinių augalų;
+
+b) miško augalų;
+
+c) vaistinių ir aromatinių augalų;
+
+d) žemės ūkio (lauko) augalų;
+
+e) žemės ūkio (sodo ir daržo) augalų;
+
+3) sudaro su žemės valdytojais ir savininkais sutartis dėl augalų nacionalinių genetinių išteklių saugojimo;
+
+4) kaupia, viešina informaciją apie augalų nacionalinius genetinius išteklius ir ją perduoda į augalų nacionalinių genetinių išteklių informacinę sistemą, valstybinį augalų nacionalinių genetinių išteklių naudojimo ir saugojimo reguliavimą vykdančioms Vyriausybės įgaliotoms institucijoms, Aplinkos ministerijos įgaliotai institucijai, valstybinėms mokslo institucijoms ir įstaigoms, nevyriausybinėms organizacijoms, susijusioms su augalų nacionaliniais genetiniais ištekliais;
+
+5) teikia valstybinį augalų nacionalinių genetinių išteklių naudojimo ir saugojimo reguliavimo veiklą vykdančioms Vyriausybės įgaliotoms institucijoms, Aplinkos ministerijos įgaliotai institucijai, valstybinėms mokslo institucijoms ir įstaigoms, nevyriausybinėms organizacijoms, susijusioms su augalų nacionaliniais genetiniais ištekliais, siūlymus dėl augalų nacionalinių genetinių išteklių saugojimo;
+
+6) rengia augalų nacionalinių genetinių išteklių saugojimo ir gausinimo mokslinių tyrimų programas, dalyvauja jas įgyvendinant.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 6 straipsnis. Augalų nacionalinių genetinių išteklių mokslinių tyrimų, kaupimo, saugojimo ir atkūrimo finansavimas
 
@@ -151,7 +225,11 @@ Augalų NACIONALINIŲ genetinių išteklių KAUPIMAS IR SAUGOJIMAS
 
 1) laikant juos natūralios kilmės ar sukūrimo vietose (in situ);
 
-2) už kilmės ar sukūrimo vietų (ex situ): lauko kolekcijose bei augalų genų bankuose;
+2) už gamtinės buveinės ar jų sukūrimo aplinkos ribų (ex situ): lauko kolekcijose, miško medžių lauko kolekcijose ir augalų genetinės medžiagos saugyklose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 3) vietose, kur yra atsiradusios jų naujos savybės (inter situ).
 
@@ -177,31 +255,17 @@ Sėklinių sklypų, sėklinių medynų, medžių grupių ir pavienių medžių, 
 
 11 straipsnis. Lauko kolekcijos
 
-Augalų nacionalinių genetinių išteklių lauko kolekcijos sudaromos specialiai tam skirtuose sklypuose iš įtrauktų į nacionalinių genetinių išteklių centrinę duomenų bazę augalų. Žemės sklypus kolekcijoms privačioje žemėje, gavusios raštišką žemės savininko sutikimą, parenka, kolekcijas įveisia ir prižiūri mokslo ir studijų institucijos. Lauko kolekcijų įveisimo ir priežiūros tvarką nustato Vyriausybės įgaliota institucija.
+Augalų nacionalinių genetinių išteklių lauko kolekcijos sudaromos iš įtrauktų į augalų nacionalinių genetinių išteklių informacinę sistemą augalų, skirtų auginimui, atnaujinimui ir saugojimui ex situ. Žemės sklypus lauko kolekcijoms privačioje žemėje, gavę rašytinį žemės savininko sutikimą, parenka, kolekcijas įveisia ir prižiūri augalų nacionalinių genetinių išteklių koordinaciniai centrai. Lauko kolekcijų įveisimo ir priežiūros tvarką nustato Vyriausybės įgaliota institucija.
 
-12 straipsnis. Augalų genų bankas
+Straipsnio pakeitimai:
 
-1. Augalų nacionalinių genetinių išteklių kaupimui, tyrimui ir išsaugojimui koordinuoti bei į augalų nacionalinių genetinių išteklių centrinę duomenų bazę įtrauktų augalų nacionalinių genetinių išteklių genetinei medžiagai saugoti Vyriausybė teisės aktų nustatyta tvarka steigia augalų genų banką. Jo nuostatus tvirtina Vyriausybės įgaliota institucija. Augalų genų bankas išlaikomas valstybės biudžeto lėšomis.
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
-2. Augalų genų bankas atlieka šias pagrindines funkcijas:
+12 straipsnis. Neteko galios nuo 2019-05-01
 
-1) koordinuoja augalų nacionalinių genetinių išteklių kaupimą, tyrimą ir išsaugojimą;
+Straipsnio naikinimas:
 
-2) saugo genetinę medžiagą, išlaikydamas jos genetinį tapatumą ir vientisumą;
-
-3) daugina ir platina genetinę medžiagą;
-
-4) palaiko tiesioginius ryšius su genetinės medžiagos vartotojais – selekcininkais, genetikais, botanikais, privačių kolekcijų savininkais;
-
-5) inicijuoja ir koordinuoja bendras augalų nacionalinių genetinių išteklių mokslinių tyrimų programas, skelbia gautus tyrimų rezultatus;
-
-6) bendradarbiauja su kitų šalių augalų genų bankais, dalyvauja rengiant ir įgyvendinant tarptautines programas augalų nacionalinių genetinių išteklių klausimais;
-
-7) tvarko augalų nacionalinių genetinių išteklių centrinę duomenų bazę;
-
-8) atlieka kitas augalų genų banko nuostatuose numatytas funkcijas.
-
-3. Augalų genetinę medžiagą išsaugoti atrenka mokslo ir studijų ar Vyriausybės įgaliotos institucijos įpareigotos įstaigos (pagal kompetenciją įgyvendinančios augalų nacionalinių genetinių išteklių kaupimo, tyrimo ir apsaugos priemones), vadovaudamosi šio Įstatymo bei kitų teisės aktų reikalavimais ir Augalų nacionalinių genetinių išteklių komisijos rekomenduojamais kriterijais.
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 13 straipsnis. Augalų nacionalinių genetinių išteklių saugojimas planuojant ūkinę veiklą ir ja verčiantis
 
@@ -251,23 +315,13 @@ AUGALŲ NACIONALINIŲ GENETINIŲ IŠTEKLIŲ NAUDOJIMAS
 
 4) vykdyti Vyriausybės įgaliotų institucijų bei pareigūnų reikalavimus.
 
-16 straipsnis. Augalų nacionalinių genetinių išteklių centrinė duomenų bazė
+16 straipsnis. Augalų nacionalinių genetinių išteklių informacinė sistema
 
-1. Augalų nacionalinių genetinių išteklių duomenims bei kitai informacijai apie juos sisteminti, kaupti, saugoti ir naudoti Vyriausybės įgaliota institucija steigia augalų nacionalinių genetinių išteklių centrinę duomenų bazę (toliau – duomenų bazė) ir tvirtina augalų nacionalinių genetinių išteklių duomenų bazės tvarkymo nuostatus.
+Duomenys ir informacija apie augalų nacionalinius genetinius išteklius sisteminami, kaupiami, saugomi ir naudojami laikantis Augalų nacionalinių genetinių išteklių informacinės sistemos nuostatų reikalavimų. Augalų nacionalinių genetinių išteklių informacinės sistemos nuostatus tvirtina aplinkos ministras.
 
-2. Duomenų bazėje kaupiami duomenys apie augalų nacionalinius genetinius išteklius:
+Straipsnio pakeitimai:
 
-1) augalų genetinius draustinius;
-
-2) sėklinius sklypus ir genetinių išteklių plotus;
-
-3) sėklinius medynus;
-
-4) lauko kolekcijas;
-
-5) pavienius saugomus medžius ir jų grupes;
-
-6) augalų genų bankuose saugomą augalų genetinę medžiagą.
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 PENKTASIS SKIRSNIS
 
@@ -303,5 +357,15 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
+
+Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymo Nr. IX-533 2, 4, 5, 8, 11, 16 straipsnių pakeitimo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
 
