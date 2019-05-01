@@ -4,7 +4,7 @@ identifier: "TAR.B8B6AFC2BFF1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-03-23"
-last_updated: "2018-01-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
+
+TAR pastaba. Iki įstatymo Nr. XIII-2011 įsigaliojimo (2019-05-01) Lietuvos Respublikos konkurencijos tarybos pradėtos, bet nebaigtos Lietuvos Respublikos reklamos įstatymo pažeidimų nagrinėjimo procedūros ir gauti skundai, dėl kurių iki šio įstatymo įsigaliojimo nepriimti sprendimai pradėti Reklamos įstatymo pažeidimų nagrinėjimo procedūras, baigiami nagrinėti pagal iki šio įstatymo įsigaliojimo galiojusius teisės aktus.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
+
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 15, 16, 18, 19, 22 ir 32 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2017-02-01:
 
@@ -367,7 +375,11 @@ NESĄŽININGA KONKURENCIJA
 
 6) pateikimą neteisingos ar nepagrįstos informacijos apie savo ar kito ūkio subjekto vadovaujančius asmenis, darbuotojų kvalifikaciją, teisinę, finansinę ar kitokią ūkio subjekto padėtį, jeigu dėl to gali būti padaryta žalos kitam ūkio subjektui;
 
-7) reklamos, kuri pagal Lietuvos Respublikos reklamos įstatymą (toliau – Reklamos įstatymas) laikoma klaidinančia ar neleistina lyginamąja reklama, naudojimą.
+7) neteko galios 2019-05-01.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 2. Šio straipsnio 1 dalies 1 punkte nurodytu tapataus ar panašaus pavadinimo, prekių ženklo ar kito žymens naudojimu nelaikoma, kai pavadinime, prekių ženkle ar žymenyje naudojamas įmonininko, kontrolinio akcijų paketo savininko ar steigėjo vardas ar pavardė ir kai ūkio subjektai, naudojantys tokį pavadinimą, prekių ženklą ar žymenį, ėmėsi priemonių klaidinimui dėl ūkio subjekto ar prekės tapatybės išvengti.
 
@@ -391,7 +403,11 @@ NESĄŽININGA KONKURENCIJA
 
 2. Šio straipsnio 1 dalies 1, 3 ir 4 punktuose nurodytas teises taip pat turi ir ūkio subjektų ar vartotojų interesams atstovaujančios organizacijos.
 
-3. Atsakomybę už klaidinančios ar neleistinos lyginamosios reklamos naudojimą nustato Reklamos įstatymas, Lietuvos Respublikos administracinių nusižengimų kodeksas (toliau – Administracinių nusižengimų kodeksas) ir Lietuvos Respublikos civilinis kodeksas (toliau – Civilinis kodeksas).
+3. Neteko galios 2019-05-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 4. Konkurencijos taryba tiria nesąžiningos konkurencijos veiksmus tik tais atvejais, jeigu šie veiksmai pažeidžia daugelio ūkio subjektų ar vartotojų interesus. Konkurencijos taryba už šiuos veiksmus taiko šio įstatymo 36 straipsnio 2 dalyje nustatytas sankcijas.
 
@@ -423,7 +439,11 @@ KONKURENCIJOS PRIEŽIŪROS INSTITUCIJA
 
 4) nagrinėja pranešimus apie koncentraciją;
 
-5) tiria ir nagrinėja šio įstatymo, Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo (toliau – Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas), Reklamos įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimus ir taiko pažeidėjams šiuose įstatymuose numatytas sankcijas;
+5) tiria ir nagrinėja šio įstatymo, Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo (toliau – Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas) ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimus ir taiko pažeidėjams šiuose įstatymuose numatytas sankcijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 6) kreipiasi į teismą, kad būtų apginti šio įstatymo saugomi viešieji interesai;
 
@@ -451,7 +471,11 @@ KONKURENCIJOS PRIEŽIŪROS INSTITUCIJA
 
 6) organizuoti pasitarimus, steigti darbo, patariamąsias grupes ar komisijas, nustatyti jų darbo tvarką, gauti patariamojo pobūdžio išvadas ir pasiūlymus;
 
-7) užfiksuoti faktines aplinkybes, reikšmingas tyrimams dėl šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo, Reklamos įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimų pradėti ir atlikti;
+7) užfiksuoti faktines aplinkybes, reikšmingas tyrimams dėl šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimų pradėti ir atlikti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 8) naudotis kitomis Konkurencijos tarybai nustatytomis teisėmis.
 
@@ -487,11 +511,19 @@ KONKURENCIJOS PRIEŽIŪROS INSTITUCIJA
 
 7. Konkurencijos taryba, spręsdama jos kompetencijai priskirtus klausimus, priima nutarimus. Nutarimai priimami balsų dauguma, bet ne mažiau kaip trimis Konkurencijos tarybos narių balsais, įskaitant Konkurencijos tarybos pirmininką. Konkurencijos tarybos pirmininkas ir nariai balsuoja nepriklausomai ir savarankiškai. Konkurencijos tarybos pirmininkas ir nariai, dalyvaudami posėdyje, neturi teisės susilaikyti nuo balsavimo dėl nutarimo.
 
-8. Konkurencijos taryba dalį savo įgaliojimų, išskyrus šiame įstatyme nurodytų nutarimų priėmimą, procedūros dėl šio įstatymo pažeidimų dalyvių išklausymą ir šio įstatymo nustatytų sankcijų taikymą bei norminių teisės aktų, susijusių su šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo, Reklamos įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, taikymu, priėmimą, turi teisę perduoti Konkurencijos tarybos pirmininkui arba atskiriems nariams pagal veiklos sritis.
+8. Konkurencijos taryba dalį savo įgaliojimų, išskyrus šiame įstatyme nurodytų nutarimų priėmimą, procedūros dėl šio įstatymo pažeidimų dalyvių išklausymą ir šio įstatymo nustatytų sankcijų taikymą bei norminių teisės aktų, susijusių su šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, taikymu, priėmimą, turi teisę perduoti Konkurencijos tarybos pirmininkui arba atskiriems nariams pagal veiklos sritis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 9. Konkurencijos tarybos funkcijas atlikti padeda tam tikslui sudaroma Konkurencijos tarybos administracija. Jos struktūrą ir valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių sąrašus nutarimu tvirtina Konkurencijos taryba. Konkurencijos tarybos administracijos funkcijos nustatomos šiame įstatyme ir Konkurencijos tarybos administracijos nuostatuose, kuriuos nutarimu tvirtina Konkurencijos taryba.
 
-10. Konkurencijos tarybos darbo tvarka ir jos atliekamų procedūrų dėl šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo, Reklamos įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimų taisyklės nustatomos Konkurencijos tarybos nutarimu priimtame darbo reglamente.
+10. Konkurencijos tarybos darbo tvarka ir jos atliekamų procedūrų dėl šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimų taisyklės nustatomos Konkurencijos tarybos nutarimu priimtame darbo reglamente.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 20 straipsnis. Konkurencijos tarybos pirmininkas ir nariai
 
@@ -579,7 +611,11 @@ KONKURENCIJOS TARYBOS ATLIEKAMAS ŠIO ĮSTATYMO PAŽEIDIMO TYRIMAS
 
 4. Konkurencijos tarybos nutarimai dėl šio įstatymo pažeidimų tyrimo Konkurencijos tarybos nutarimu gali būti laikomi konfidencialiais tol, kol išnyksta grėsmė tyrimo eigai, bet ne ilgiau, kaip iki bus atliktas bet kuris iš šio įstatymo 25 straipsnio 1 dalies 1, 2, 3, 4, 5, 7 ar 8 punkte numatytų veiksmų dėl šio įstatymo pažeidimu įtariamų ūkio subjektų.
 
-5. Atskiroms Konkurencijos tarybos kompetencijai priskirtų tirti ir nagrinėti šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo, Reklamos įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimų rūšims Konkurencijos taryba turi teisę nustatyti atskirą tyrimo ir nagrinėjimo tvarką, kiek tai neprieštarauja šių įstatymų nuostatoms.
+5. Konkurencijos taryba turi teisę nustatyti skirtingą jos kompetencijai priskirtų tirti ir nagrinėti šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, atskirų rūšių pažeidimų tyrimo ir nagrinėjimo tvarką, kiek tai neprieštarauja šių įstatymų nuostatoms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 23 straipsnis. Iniciatyvos teisė pradėti šio įstatymo pažeidimo tyrimą
 
@@ -771,7 +807,11 @@ KONKURENCIJOS TARYBOS IR JOS ĮGALIOTŲ PAREIGŪNŲ SPRENDIMŲ IR VEIKSMŲ APSKU
 
 3. Jeigu skundą padavę ūkio subjektai ar kiti asmenys nesutinka su Konkurencijos tarybos sprendimu arba jeigu Konkurencijos taryba nepriėmė nutarimo per dešimt dienų, jie turi teisę paduoti skundą Vilniaus apygardos administraciniam teismui. Skundo padavimas procedūros dėl šio įstatymo pažeidimo nesustabdo.
 
-4. Šiame straipsnyje nustatyta apskundimo tvarka mutatis mutandis taikoma Konkurencijos tarybos darbuotojų priimtiems sprendimams ir atliktiems veiksmams šio įstatymo II skyriaus trečiajame skirsnyje atliekamos koncentracijos priežiūros metu ir kitais atvejais, kai tokie veiksmai ir sprendimai yra susiję su Konkurencijos tarybai šiuo įstatymu, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymu, Reklamos įstatymu ir kitais įstatymais, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, priskirtų funkcijų atlikimu.
+4. Šiame straipsnyje nustatyta apskundimo tvarka mutatis mutandis taikoma Konkurencijos tarybos darbuotojų priimtiems sprendimams ir atliktiems veiksmams šio įstatymo II skyriaus trečiajame skirsnyje nurodytos koncentracijos priežiūros metu ir kitais atvejais, kai tokie veiksmai ir sprendimai yra susiję su Konkurencijos tarybai šiuo įstatymu, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymu ir kitais įstatymais, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, priskirtų funkcijų atlikimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 33 straipsnis. Konkurencijos tarybos nutarimų apskundimas
 
