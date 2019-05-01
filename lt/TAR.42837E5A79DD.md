@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2019-03-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2019-03-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-05-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -2428,11 +2428,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
-182. Pažeidžiamas asmuo – asmuo, turintis specialiųjų poreikių (pavyzdžiui, nepilnametis, neįgalusis, vyresnis negu 75 metų asmuo, nėščia moteris, vieniši tėvas ar motina, auginantys nepilnamečių vaikų, psichikos sutrikimų turintis asmuo, prekybos žmonėmis auka arba asmuo, kuris buvo kankintas, išprievartautas ar patyrė kitokį sunkų psichologinį, fizinį ar seksualinį smurtą).
+182. Pažeidžiamas asmuo – asmuo, turintis specialiųjų poreikių (pavyzdžiui, nepilnametis, neįgalusis, vyresnis negu 75 metų asmuo, nėščia moteris, vieniši tėvas ar motina, auginantys nepilnamečių vaikų, psichikos ir elgesio sutrikimų turintis asmuo, prekybos žmonėmis auka arba asmuo, kuris buvo kankintas, išprievartautas ar patyrė kitokį sunkų psichologinį, fizinį ar seksualinį smurtą).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
+
+Nr. XIII-1921, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00854
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -2626,12 +2628,6 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 10) yra rimtas pagrindas manyti, kad gali kilti užsieniečio nelegalios migracijos grėsmė;
 
-11) jis nepateikia leidimo dirbti, kai jį būtina turėti.
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
-
 Straipsnio pakeitimas:
 
 Nr. XI-1786, 2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
@@ -2658,7 +2654,7 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 7) jeigu ji sugadinta dėl techninių ar kitų priežasčių ir dėl to netinkama naudoti;
 
-8) Neteko galios nuo 2015-12-01.
+8) neteko galios nuo 2015-12-01;
 
 Straipsnio punkto pakeitimai:
 
@@ -3318,7 +3314,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
-8) yra neteisėtai atvykęs į Lietuvos Respubliką.
+8) yra neteisėtai atvykęs į Lietuvos Respubliką;
 
 ANTRASIS SKIRSNIS
 
@@ -3508,12 +3504,6 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
-5) jis pateikia prašymą būti priimtas į kitos mokslo ir studijų institucijos lygiavertę studijų programą arba į doktorantūrą pagal šio Įstatymo 46 straipsnio 6 dalį.
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
-
 2. Užsienietis, kuriam išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 51 punkte nustatytu pagrindu, ne vėliau kaip per 30 dienų nuo leidimo laikinai gyventi jam išdavimo dienos privalo raštu pranešti ūkio ministro įgaliotai institucijai apie įmonės įsteigimą ir pradėtą vykdyti jos steigimo dokumentuose nurodytą veiklą.
 
 Papildyta straipsnio dalimi:
@@ -3549,24 +3539,6 @@ Straipsnio punkto naikinimas:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 6) Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos – apie užsienietį, kuris yra sulaikytas ikiteisminio tyrimo laikotarpiui arba atlieka teismo paskirtą bausmę;
-
-7) ūkio ministro įgaliota institucija – apie užsienietį, neįvykdžiusį šio straipsnio 2 dalyje nustatytos pareigos, nustačius, kad šis užsienietis neįsteigė įmonės ar nevykdo įmonės steigimo dokumentuose nurodytos veiklos, taip pat apie užsienietį, kuriam išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 51 punkte nustatytu pagrindu, jeigu paaiškėja, kad jis nebėra įmonės dalyvis ar šio užsieniečio buvimas Lietuvos Respublikoje nėra būtinas įmonės veiklai;
-
-Papildyta straipsnio punktu:
-
-Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
-
-8) priimančioji įmonė, įsteigta Lietuvos Respublikoje, – apie sąlygų, kurios pagal šio Įstatymo 442 straipsnio 1, 2, 3 ir 5 dalis taikomos užsieniečio perkėlimui įmonės viduje, pasikeitimą;
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
-
-9) mokslo ir studijų institucija – apie bet kokias atsiradusias aplinkybes, kurios galėtų sukliudyti vykdyti darbo sutartį, sudarytą su tyrėju.
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
 4. Neteko galios 2019-03-01.
 
@@ -3926,7 +3898,11 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 7. Šeimos nariams, atvykstantiems gyventi kartu su užsieniečiu, nurodytu šio straipsnio 1 dalies 1 ir 2 punktuose, ir kartu gyvenantiems, išduodamas leidimas nuolat gyventi.
 
-8. Asmenims, kuriems sukako 75 metai, asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – I grupės invalidai), ir asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas specialiųjų poreikių lygis, taip pat sunkiomis chroninėmis psichikos ligomis sergantiems asmenims ir užsieniečiams, kurių anksčiau turėtas leidimas nuolat gyventi buvo panaikintas šio Įstatymo 54 straipsnio 1 dalies 3 ar 4 punkte nustatytais pagrindais, šio Įstatymo 53 straipsnio 6 dalies reikalavimai netaikomi.
+8. Asmenims, kuriems sukako 75 metai, asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – I grupės invalidai), ir asmenims, kuriems teisės aktų nustatyta tvarka yra nustatyti specialieji poreikiai, taip pat sunkių lėtinių psichikos ir elgesio sutrikimų turintiems asmenims ir užsieniečiams, kurių anksčiau turėtas leidimas nuolat gyventi buvo panaikintas šio Įstatymo 54 straipsnio 1 dalies 3 ar 4 punkte nustatytais pagrindais, šio Įstatymo 53 straipsnio 6 dalies reikalavimai netaikomi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1921, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00854
 
 9. Leidimą nuolat gyventi išduodant užsieniečiui šio straipsnio 1 dalies 8 punkte nustatytu pagrindu, į pragyventą Lietuvos Respublikoje laikotarpį įskaičiuojama tik pusė laiko, pragyvento Lietuvos Respublikoje turint leidimą laikinai gyventi, išduotą vadovaujantis šio Įstatymo 40 straipsnio 1 dalies 6 punkto ir 46 straipsnio nuostatomis. Ši nuostata netaikoma užsieniečiui, kuris Lietuvos Respublikoje baigė studijas ir įgijo aukštojo mokslo kvalifikaciją.
 
@@ -5249,6 +5225,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1921, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00854
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2 ir 53 straipsnių pakeitimo įstatymas
 
 341 straipsnis. Leidimo gyventi išdavimas, keitimas skubos tvarka
 
