@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2019-01-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-10-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -792,13 +792,15 @@ Nr. X-1198, 2007-06-21, Žin., 2007, Nr. 77-3041 (2007-07-12)
 
 Nr. XI-2103, 2012-06-21, Žin., 2012, Nr. 78-4025 (2012-07-04)
 
-27 straipsnis. Narkologinės priežiūros organizavimas
+27 straipsnis. Asmenų, kuriems diagnozuoti psichikos ir elgesio sutrikimai dėl alkoholio vartojimo, psichikos sveikatos priežiūra
 
-1. Narkologinė priežiūra atliekama Lietuvos Respublikos narkologinės priežiūros įstatymo, kitų įstatymų ir teisės aktų nustatyta tvarka.
+1. Asmenims, kuriems diagnozuoti psichikos ir elgesio sutrikimai dėl alkoholio vartojimo, asmens psichikos sveikatos priežiūros paslaugos teikiamos Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo nustatyta tvarka.
 
-2. Asmenys, apsinuodiję alkoholiu, gali būti įstatymų ir kitų teisės aktų nustatyta tvarka detoksikuojami asmens sveikatos priežiūros įstaigose. Šiuos asmenis policija gali priverstinai pristatyti į asmens sveikatos priežiūros įstaigas tik tuo atveju, kai jie savo veiksmais (ar neveikimu) gali padaryti esminės žalos savo ar aplinkinių sveikatai, gyvybei.
+2. Asmenis, apsinuodijusius alkoholiu, policija gali priverstinai pristatyti į asmens sveikatos priežiūros įstaigas tik tuo atveju, kai jie savo veiksmais (ar neveikimu) gali padaryti esminės žalos savo ar aplinkinių sveikatai, gyvybei ar turtui.
 
-3. Įstatymų nustatytais atvejais ir tvarka gali būti apribotas asmenų, kuriems pasireiškia priklausomybės nuo alkoholio sindromas, veiksnumas.
+Straipsnio pakeitimai:
+
+Nr. XIII-1911, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00843
 
 TREČIASIS SKIRSNIS
 
