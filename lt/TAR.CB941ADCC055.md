@@ -4,7 +4,7 @@ identifier: "TAR.CB941ADCC055"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-01"
-last_updated: "2019-01-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
 
@@ -55,6 +55,12 @@ Nr. X-648, 2006-06-08, Žin., 2006, Nr. 72-2667 (2006-06-28)
 5. Augalų ar gyvūnų masinis žuvimas – staigus arba laipsniškas augalų ar gyvūnų individų ar populiacijų skaičiaus sumažėjimas, dėl kurio gali būti pažeista ekologinė pusiausvyra ar grėsti augalų ar gyvūnų populiacijų visiškas išnykimas, atsiradęs dėl fizinių ar juridinių asmenų vykdomos aplinkai kenksmingos veiklos.
 
 6. Ekologinis įvykis ‒ aplinkos oro, vandens, dirvožemio, grunto užteršimas cheminėmis, biologinėmis ir radioaktyviosiomis medžiagomis arba kitoks aplinkai padarytas poveikis.
+
+61. Kontrolinis pirkimas – prekių ir (ar) paslaugų pirkimas, vykdomas atliekant ūkio subjekto veiklos neplaninį patikrinimą, kitų fizinių ir juridinių asmenų patikrinimą, kurio tikslas – nustatyti, ar ūkio subjektas, kiti fiziniai ir juridiniai asmenys parduoda prekes ir (ar) teikia paslaugas laikydamiesi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų nustatytų reikalavimų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1685, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20185
 
 7. Privalomasis nurodymas – aplinkos apsaugos valstybinę kontrolę vykdančio pareigūno įpareigojimas fiziniam ar juridiniam asmeniui per tam tikrą terminą įgyvendinti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimus arba imtis priemonių, kad aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų arba žalos aplinkai būtų išvengta ar ji sumažinta, arba likviduoti pasekmes, sukeltas aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimu, arba įgyvendinti aplinkos atkūrimo priemones.
 
@@ -256,11 +262,13 @@ Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 
 1. Aplinkos apsaugos valstybinės kontrolės pareigūnai turi šias teises ir pareigas:
 
-1) pateikę tarnybinį pažymėjimą, netrukdomi patekti (įeiti, įvažiuoti) į visų įmonių, įstaigų, organizacijų, ūkių, karinių dalinių, pasienio ruožo bei privačias teritorijas ir jose esančius objektus (statinius, įrenginius, patalpas ir kt.), kitus ūkinės veiklos objektus ir tikrinti, ar juose laikomasi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų, atlikti kontrolinius tyrimus ir matavimus, fiksuoti patikrinimą garso ir (ar) vaizdo fiksavimo priemonėmis, neatlygintinai gauti cheminių medžiagų ir preparatų pavyzdžius tyrimams, jų sudėčiai bei savybėms ištirti ar bandymams atlikti, taip pat įstatymų nustatyta tvarka gauti informaciją bei duomenis, kurie yra valstybės ar tarnybos, komercinė ar pramoninė paslaptis, cheminių medžiagų ir preparatų kontrolei atlikti, aplinkos ministro nustatyta tvarka ne ilgiau kaip 20 darbo dienų (aplinkos apsaugos valstybinę kontrolę vykdančios institucijos vadovo ar jo įgalioto asmens sprendimu šis terminas gali būti pratęstas ne daugiau kaip 20 darbo dienų) paimti dokumentus ar patvirtintas jų kopijas ir daiktus, reikalingus patikrinimui atlikti, jeigu šių dokumentų ar daiktų paėmimo nereglamentuoja Lietuvos Respublikos mokesčių administravimo įstatymas;
+1) pateikę tarnybinį pažymėjimą, netrukdomi patekti (įeiti, įvažiuoti) į visų įmonių, įstaigų, organizacijų, ūkių, karinių dalinių, pasienio ruožo bei privačias teritorijas ir jose esančius objektus (statinius, įrenginius, patalpas ir kt.), kitus ūkinės veiklos objektus ir tikrinti, ar juose laikomasi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų, atlikti kontrolinius pirkimus, tyrimus ir matavimus, fiksuoti patikrinimą garso ir (ar) vaizdo fiksavimo priemonėmis, neatlygintinai gauti cheminių medžiagų ir preparatų pavyzdžius tyrimams, jų sudėčiai bei savybėms ištirti ar bandymams atlikti, taip pat įstatymų nustatyta tvarka gauti informaciją bei duomenis, kurie yra valstybės ar tarnybos, komercinė ar pramoninė paslaptis, cheminių medžiagų ir preparatų kontrolei atlikti, aplinkos ministro nustatyta tvarka ne ilgiau kaip 20 darbo dienų (aplinkos apsaugos valstybinę kontrolę vykdančios institucijos vadovo ar jo įgalioto asmens sprendimu šis terminas gali būti pratęstas ne daugiau kaip 20 darbo dienų) paimti dokumentus ar patvirtintas jų kopijas ir daiktus, reikalingus patikrinimui atlikti, jeigu šių dokumentų ar daiktų paėmimo nereglamentuoja Lietuvos Respublikos mokesčių administravimo įstatymas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+
+Nr. XIII-1685, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20185
 
 2) tikrinti dokumentus, liudijančius gamtos išteklių įsigijimo teisėtumą bei gamtos išteklius – ar jų kiekis, rūšis, kokybė ir kt. atitinka dokumentuose nurodytus duomenis;
 
@@ -966,6 +974,14 @@ Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
 
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 3, 12, 15, 16, 20, 25 straipsnių pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1685, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20185
+
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 2, 12 ir 50 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
+
 21 straipsnis. Privalomojo nurodymo įvykdymo terminai
 
 1. Privalomojo nurodymo įvykdymo terminus, ne ilgesnius kaip 2 mėnesiai, nustato privalomąjį nurodymą duodantis aplinkos apsaugos valstybinės kontrolės pareigūnas pagal tai, koks laikotarpis, atsižvelgiant į objektyvias aplinkybes, yra reikalingas privalomajame nurodyme nustatytiems reikalavimams įgyvendinti.
@@ -1306,7 +1322,11 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 
 2) tikrinti asmenų ir pareigūnų dokumentus, suteikiančius teisę naudoti gamtos išteklius;
 
-3) padėti aplinkos apsaugos valstybinės kontrolės pareigūnams pristatyti administracinėn atsakomybėn traukiamą asmenį, jo sutikimu, į atitinkamų institucijų patalpas administracinio nusižengimo protokolui surašyti; reikalauti asmens tapatybę patvirtinančių dokumentų pažeidėjo asmens tapatybei nustatyti, o jos nenustačius – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo.
+3) padėti aplinkos apsaugos valstybinės kontrolės pareigūnams atlikti kontrolinius pirkimus, pristatyti administracinėn atsakomybėn traukiamą asmenį, jo sutikimu, į atitinkamų institucijų patalpas administracinio nusižengimo protokolui surašyti; reikalauti asmens tapatybę patvirtinančių dokumentų pažeidėjo asmens tapatybei nustatyti, o jos nenustačius – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1685, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20185
 
 Straipsnio pakeitimai:
 
@@ -1365,4 +1385,16 @@ BAIGIAMOSIOS NUOSTATOS
 Papildyta straipsniu:
 
 Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+
+141 straipsnis. Kontrolinių pirkimų atlikimas
+
+1. Kontroliniai pirkimai atliekami nepateikus ūkio subjektui teisės aktų nustatyta tvarka patvirtintos sprendimo atlikti neplaninį patikrinimą kopijos. Šiais atvejais teisės aktų nustatyta tvarka patvirtinta sprendimo atlikti neplaninį patikrinimą kopija ūkio subjektui turi būti pateikta iš karto po atlikto kontrolinio pirkimo.
+
+2. Kontroliniai pirkimai gali būti atliekami nedėvint nustatyto pavyzdžio uniformos, pasitelkiant neetatinius aplinkos apsaugos inspektorius, kitus liudininkus, neatliekant veiksmų, nurodytų šio Įstatymo 15 ir 16 straipsniuose, kurie trukdytų aplinkos apsaugos valstybinės kontrolės pareigūnui atlikti kontrolinį pirkimą.
+
+3. Baigus kontrolinį pirkimą, ūkio subjektui, kitam fiziniam ar juridiniam asmeniui aplinkos apsaugos valstybinės kontrolės pareigūnas turi prisistatyti, parodyti savo galias patvirtinantį dokumentą, nurodyti patikrinimo priežastį.
+
+Papildyta straipsniu:
+
+Nr. XIII-1685, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20185
 
