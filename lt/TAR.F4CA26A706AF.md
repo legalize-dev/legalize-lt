@@ -4,7 +4,7 @@ identifier: "TAR.F4CA26A706AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-25"
-last_updated: "2018-04-28"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2018-04-28 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
 
@@ -506,9 +506,17 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 4) buvo atleistas iš pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo, profesinės etikos pažeidimo ir nuo atleidimo iš pareigų dienos nepraėjo 3 metai;
 
-5) yra ar per pastaruosius 5 metus buvo įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo ar narkomanijos arba per pastaruosius 3 metus daugiau negu 2 kartus buvo baustas už administracinius teisės pažeidimus, padarytus apsvaigus nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
+5) per pastaruosius 3 metus daugiau negu 2 kartus buvo baustas už administracinius nusižengimus, padarytus apsvaigus nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
 
-6) turi psichikos ar kitų sveikatos apsaugos ministro patvirtintame sąraše numatytų sveikatos būklės sutrikimų, dėl kurių kyla grėsmė patikėtos įslaptintos informacijos saugumui.
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
+
+6) serga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis ar turi šiame sąraše nurodytų sveikatos sutrikimų, dėl kurių kyla grėsmė patikėtos įslaptintos informacijos saugumui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
 
 3. Informaciją, ar asmuo atitinka šio straipsnio 2 dalyje nustatytas sąlygas, surenka paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, iš valstybės registrų (kadastrų), klasifikatorių ir kitų duomenų bankų arba kreipdamasis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, tvarkančias atitinkamą informaciją, kad šios ne vėliau kaip per 10 darbo dienų pateiktų apie tokį asmenį jų turimą informaciją. Paslapčių subjekto vadovas arba jo įgaliotas asmuo gali tikrinamo asmens paprašyti pateikti tikrinimui reikalingą informaciją ar dokumentus.
 
@@ -572,9 +580,17 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 16) asmuo negali pagrįsti savo turto, kurį valdo, naudoja ar kuriuo disponuoja, įgijimo teisėtumo ar nustatyta, kad jo gyvenimo lygis neatitinka gaunamų pajamų;
 
-17) asmuo yra ar per pastaruosius 5 metus buvo įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo ar narkomanijos arba per pastaruosius 3 metus daugiau negu 2 kartus buvo baustas už administracinius teisės pažeidimus, padarytus apsvaigus nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
+17) per pastaruosius 3 metus daugiau negu 2 kartus buvo baustas už administracinius nusižengimus, padarytus apsvaigus nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
 
-18) asmuo turi psichikos ar kitų sveikatos apsaugos ministro patvirtintame sąraše numatytų sveikatos būklės sutrikimų, dėl kurių kyla grėsmė patikėtos įslaptintos informacijos saugumui;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
+
+18) asmuo serga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis ar turi šiame sąraše nurodytų sveikatos sutrikimų, dėl kurių kyla grėsmė patikėtos įslaptintos informacijos saugumui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
 
 19) asmuo ragina pažeisti Lietuvos valstybės nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką ir (arba) remia judėjimus, kurie ragina šiuos valstybės interesus pažeisti;
 
@@ -1589,4 +1605,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1104, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06742
 
 Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 7 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
+
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 16 ir 17 straipsnių pakeitimo įstatymas
 
