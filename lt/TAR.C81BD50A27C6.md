@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2019-01-02"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-01-02 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
 
@@ -635,13 +635,19 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
 
-2. Uždarosios biudžetinės įstaigos steigiamos tikrosios tarnybos karių ir kariūnų, asmenų, esančių laisvės atėmimo ir kardomojo kalinimo vietose, policijos areštinėse, skirstymo punktuose, psichikos ligonių, padariusių visuomenei pavojingą veiką ir pripažintų nepakaltinamais, nelegalių imigrantų asmens sveikatos priežiūrai. Šios įstaigos taip pat vykdo visuomenės sveikatos priežiūros priemones, įrašytas į vidaus reikalų ministro ar krašto apsaugos ministro ir sveikatos apsaugos ministro patvirtintą sąrašą.
+2. Uždarosios biudžetinės įstaigos steigiamos tikrosios tarnybos karių ir kariūnų, asmenų, esančių laisvės atėmimo ir kardomojo kalinimo vietose, policijos areštinėse, skirstymo punktuose, psichikos ir elgesio sutrikimų turinčių asmenų, padariusių visuomenei pavojingą veiką ir pripažintų nepakaltinamais, nelegalių imigrantų asmens sveikatos priežiūrai. Šios įstaigos taip pat vykdo visuomenės sveikatos priežiūros priemones, įrašytas į vidaus reikalų ministro ar krašto apsaugos ministro ir sveikatos apsaugos ministro patvirtintą sąrašą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
 
-3. Teisę steigti uždarąją biudžetinę įstaigą psichikos ligonių, padariusių visuomenei pavojingą veiką ir pripažintų nepakaltinamais, sveikatos priežiūrai turi Sveikatos apsaugos ministerija. Teisę steigti uždarąsias biudžetines įstaigas tikrosios tarnybos karių, asmenų, esančių laisvės atėmimo ir kardomojo kalinimo vietose, policijos areštinėse, skirstymo punktuose, nelegalių imigrantų sveikatos priežiūrai taip pat turi kitos įstatymų numatytos valstybės institucijos, suderinusios su Sveikatos apsaugos ministerija.
+Nr. XIII-1907, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00839
+
+3. Teisę steigti uždarąją biudžetinę įstaigą psichikos ir elgesio sutrikimų turinčių asmenų, padariusių visuomenei pavojingą veiką ir pripažintų nepakaltinamais, sveikatos priežiūrai turi Vyriausybė. Teisę steigti uždarąsias biudžetines įstaigas tikrosios tarnybos karių, asmenų, esančių laisvės atėmimo ir kardomojo kalinimo vietose, policijos areštinėse, skirstymo punktuose, nelegalių imigrantų sveikatos priežiūrai taip pat turi kitos įstatymų numatytos valstybės institucijos, suderinusios su Sveikatos apsaugos ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1907, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00839
 
 4. Uždarųjų biudžetinių įstaigų, steigiamų krašto apsaugos ir vidaus reikalų sistemose, nuostatus tvirtina krašto apsaugos ministras ir vidaus reikalų ministras, suderinę su sveikatos apsaugos ministru.
 
@@ -1720,6 +1726,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1637, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18927
 
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 19 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1907, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00839
+
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 25 straipsnio pakeitimo įstatymas
 
 62 straipsnis. Įstaigos laikinojo
 
