@@ -4,7 +4,7 @@ identifier: "TAR.CA89372D00AA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2018-03-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
 
@@ -264,7 +264,11 @@ Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
 
 7) kuris du ar daugiau kartų yra nubaustas už transporto priemonių vairavimą, nes vairavo neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
 
-8) kuris yra įrašytas į narkologinių ligonių įskaitą;
+8) turintis sveikatos apsaugos ministro tvirtinamame sąraše nurodytą psichikos ir elgesio sutrikimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1917, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00850
 
 9) dėl kurio yra faktinių duomenų, rodančių, kad jis neteisėtai disponuoja naminiais alkoholiniais gėrimais ar akcizais apmokestinamomis prekėmis.
 
@@ -478,7 +482,11 @@ Pareigūnas, įgyvendindamas nusikalstamų veikų ar administracinių teisės pa
 
 3) bet kuriuo paros metu įeiti į nuteisto asmens ar asmens, kuriam paskirta kardomoji priemonė – namų areštas, ar asmens, kuriam taikomos prevencinio poveikio priemonės pagal Lietuvos Respublikos įstatymus, gyvenamąsias patalpas, kai tai yra susiję su teismo priimto nuosprendžio ar paskirto įpareigojimo vykdymu, tikrinti ten esančių asmenų dokumentus, taip pat kviesti ir (ar) pristatyti jį į policiją, kontroliuoti, kaip jis laikosi įstatymų ir (ar) teismo nustatytų apribojimų;
 
-4) pristatyti į sveikatos priežiūros įstaigą priverstiniam patikrinimui ar kitoms nustatytoms profilaktinėms priemonėms atlikti asmenį, įtariamą nusikalstamos veikos ar administracinio teisės pažeidimo (nusižengimo) padarymu, taip pat rizikos grupės asmenį, kai įtariama, kad jis neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, ar asmenį, kuris turi psichinės ligos požymių, kelia grėsmę savo, kitų asmenų ar pareigūno saugumui;
+4) pristatyti į sveikatos priežiūros įstaigą priverstiniam patikrinimui ar kitoms nustatytoms profilaktinėms priemonėms atlikti asmenį, įtariamą nusikalstamos veikos ar administracinio teisės pažeidimo (nusižengimo) padarymu, taip pat rizikos grupės asmenį, kai įtariama, kad jis neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, ar asmenį, kuris turi psichikos ir elgesio sutrikimų požymių, kelia grėsmę savo, kitų asmenų ar pareigūno saugumui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1917, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00850
 
 5) kai yra pakankamas pagrindas manyti, kad gali būti padarytas administracinis teisės pažeidimas (nusižengimas), nusikalstama veika ar kitaip sutrikdyta viešoji tvarka, taip pat atliekant pasislėpusių asmenų paiešką, tikrinti asmenų, transporto priemonių, krovinių, daiktų dokumentus, nustatyti asmens tapatybę, stabdyti transporto priemones, apžiūrėti asmenis, transporto priemones, kitus daiktus ir priemones, kviesti asmenis į policijos tarnybines patalpas;
 
@@ -777,4 +785,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1006, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01019
 
 Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 28 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
+
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6, 23 ir 27 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1917, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00850
+
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2 ir 23 straipsnių pakeitimo įstatymas
 
