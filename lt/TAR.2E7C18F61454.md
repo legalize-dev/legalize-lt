@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2019-03-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2019-03-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-19
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -1685,57 +1685,49 @@ bylos atkūrimo
 
 581 straipsnis. Prašymo turinys
 
-Be bendrųjų procesinių dokumentų formai ir turiniui keliamų reikalavimų, prie prašymo turi būti pridėti įrodymai, reikšmingi sprendžiant klausimą dėl leidimo išdavimo, pareiškimo ar fakto patvirtinimo bei kitą klausimą, nagrinėjamą šiame skyriuje nustatyta tvarka.
+1. Be bendrųjų procesinių dokumentų formai ir turiniui keliamų reikalavimų, prie prašymo turi būti pridėti įrodymai, reikšmingi sprendžiant klausimą dėl leidimo išdavimo, pareiškimo ar fakto patvirtinimo bei kitą klausimą, nagrinėjamą šiame skyriuje nustatyta tvarka.
 
-582 straipsnis. Bylos nagrinėjimas
+2. Valstybinė vaiko teisių apsaugos institucija teismui teikiamame prašyme išduoti teismo leidimą paimti vaiką iš jo atstovų pagal įstatymą turi nurodyti advokatą (jeigu jis žinomas), kuris atstovaus vaiko atstovams pagal įstatymą, taip pat prie prašymo pridėti Valstybės garantuojamos teisinės pagalbos tarnybos sprendimą dėl antrinės teisinės pagalbos teikimo vaiko atstovams pagal įstatymą (jeigu sprendimas yra priimtas). Jei kreipimosi į teismą metu šioje dalyje nurodytų duomenų ar dokumentų valstybinė vaiko teisių apsaugos institucija neturi, teismui jie pateikiami nedelsiant po to, kai gaunami.
 
-1. Byla nagrinėjama rašytinio proceso tvarka, išskyrus atvejus, kai pats teismas, atsižvelgdamas į bylos aplinkybes, nusprendžia bylą nagrinėti žodinio proceso tvarka. Bylos dėl teismo leidimo pratęsti asmens priverstinį hospitalizavimą ir (ar) priverstinį gydymą nagrinėjamos žodinio proceso tvarka. Nagrinėjant bylą žodinio proceso tvarka, teismo posėdžio eiga nefiksuojama.
+TAR pastaba. 581 straipsnio 2 dalis įsigalioja 2020-01-01.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
-
-2. Prašymai, paduoti šiame skyriuje nustatyta tvarka, teisme turi būti išnagrinėti ne vėliau kaip per penkias darbo dienas nuo jų priėmimo dienos.
-
-3. Teismas gali įpareigoti pareiškėją pateikti papildomų bylai išspręsti reikalingų įrodymų. Teismas taip pat turi teisę rinkti tokius įrodymus savo iniciatyva.
-
-4. Kai sprendžiamas klausimas, susijęs su vaiko teisėmis, leidimo išdavimo klausimą teismas turi spręsti atsižvelgdamas išimtinai į vaiko interesus. Kai sprendžiamas klausimas dėl leidimo perleisti nuosavybės teisę į šeimos turtą, šeimos turtą įkeisti ar kitaip suvaržyti teises į jį, teismas, atsižvelgdamas į aplinkybes, turi teisę reikalauti, kad pareiškėjas pateiktų įrodymus, patvirtinančius šeimos turtinę padėtį (pajamas, santaupas, kitą turtą, prievoles), duomenis apie perleidžiamą šeimos turtą, duomenis iš valstybinės vaiko teisių apsaugos institucijos apie vaiko tėvus, taip pat būsimo sandorio preliminarias sąlygas ir jo įvykdymo galimybes bei vaiko teisių apsaugos galimybes sandorio neįvykdymo atveju ir kitus įrodymus.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
-
-5. Teismui nagrinėjant bylą dėl teismo leidimo pratęsti asmens priverstinį hospitalizavimą ir (ar) priverstinį gydymą arba bylą dėl teismo leidimo pratęsti asmens būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą, būtina, kad asmeniui, kurio priverstinį hospitalizavimą ir (ar) priverstinį gydymą arba būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą prašoma pratęsti, atstovautų advokatas.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
-
-6. Byla nagrinėjama šiame skyriuje nustatyta tvarka, neatsižvelgiant į tai, kad ginčas kyla dėl teisės, išskyrus Civiliniame kodekse numatytus atvejus.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
-
-7. Bylą teismas išsprendžia priimdamas nutartį. Teismo nutartis išduoti leidimą, patvirtinti pareiškimą ar faktus, išskyrus nutartį leisti paimti vaiką iš jo atstovų pagal įstatymą arba atsisakyti duoti šį leidimą, apeliacine tvarka neskundžiama ir įsiteisėja nuo priėmimo dienos, tačiau teismo atsisakymas išduoti leidimą, patvirtinti pareiškimą ar faktą neatima iš pareiškėjo teisės, pasikeitus aplinkybėms, pakartotinai kreiptis į teismą dėl leidimo išdavimo, pareiškimo ar fakto patvirtinimo. Teismo nutartis leisti paimti vaiką iš jo atstovų pagal įstatymą vykdytina skubiai. Teismo nutartis leisti paimti vaiką iš jo atstovų pagal įstatymą arba atsisakyti duoti šį leidimą gali būti skundžiama atskiruoju skundu. Šis skundas turi būti išnagrinėtas per šio kodekso 336 straipsnio 3 dalyje nurodytą terminą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
-
-8. Šiame skyriuje nustatyta tvarka nagrinėtoje byloje dalyvaujančių asmenų turėtos bylinėjimosi išlaidos neatlyginamos.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+3. Prie prašymo išduoti teismo leidimą paimti vaiką iš jo atstovų pagal įstatymą turi būti pridėti įrodymai, kad iki kreipimosi į teismą šis prašymas su priedais buvo pasirašytinai įteiktas vaiko atstovams pagal įstatymą, arba prašyme nurodoma, dėl kokių priežasčių prašymo su priedais įteikti vaiko atstovams pagal įstatymą nėra galimybių arba nepavyko.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Nr. XIII-2037, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06549
+
+582 straipsnis. Bylos nagrinėjimas
+
+1. Byla nagrinėjama rašytinio proceso tvarka, išskyrus šiame straipsnyje numatytus atvejus ir atvejus, kai pats teismas, atsižvelgdamas į bylos aplinkybes, nusprendžia bylą nagrinėti žodinio proceso tvarka. Nagrinėjant bylą žodinio proceso tvarka, teismo posėdžio eiga nefiksuojama.
+
+2. Bylos dėl teismo leidimo pratęsti asmens priverstinį hospitalizavimą ir (ar) priverstinį gydymą nagrinėjamos žodinio proceso tvarka.
+
+3. Bylos dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą nagrinėjamos žodinio proceso tvarka, išskyrus atvejus, kai teismui pakanka byloje esančių įrodymų, reikalingų bylai išnagrinėti rašytinio proceso tvarka, ir pats teismas, atsižvelgdamas į bylos aplinkybes, nusprendžia bylą nagrinėti rašytinio proceso tvarka. Byla dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą nagrinėjama žodinio proceso tvarka, kai yra bent vieno byloje dalyvaujančio asmens prašymas nagrinėti bylą žodinio proceso tvarka. Byla dėl teismo leidimo paimti vaiką iš jo atstovų pagal įstatymą žodinio proceso tvarka nagrinėjama uždarame teismo posėdyje.
+
+4. Kai nagrinėjama byla dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą, be kitų šiame Kodekse nustatytų procesinių dokumentų įteikimo būdų, teismas visus procesinius dokumentus gali įteikti elektroniniu paštu, faksu arba kitomis asmenų, kuriems įteikiami procesiniai dokumentai, turimomis elektroninių ryšių priemonėmis. Įteikiant procesinį dokumentą elektroninių ryšių priemonėmis, procesinio dokumento įteikimo diena laikoma po procesinio dokumento išsiuntimo dienos einanti darbo diena. Apie atliekamus procesinius veiksmus teismas dalyvaujantiems byloje asmenims gali pranešti telefonu ne vėliau kaip prieš tris darbo dienas iki atliekamo procesinio veiksmo pradžios.
+
+5. Prašymai, paduoti šiame skyriuje nustatyta tvarka, teisme turi būti išnagrinėti ne vėliau kaip per penkias darbo dienas nuo jų priėmimo dienos. Prašymas išduoti teismo leidimą paimti vaiką iš jo atstovų pagal įstatymą turi būti išnagrinėtas ne vėliau kaip per dešimt darbo dienų nuo jo priėmimo dienos.
+
+6. Teismas gali įpareigoti pareiškėją pateikti papildomų bylai išspręsti reikalingų įrodymų. Teismas taip pat turi teisę rinkti tokius įrodymus savo iniciatyva.
+
+7. Kai sprendžiamas klausimas, susijęs su vaiko teisėmis, leidimo išdavimo klausimą teismas turi spręsti atsižvelgdamas išimtinai į vaiko interesus. Kai sprendžiamas klausimas dėl leidimo perleisti nuosavybės teisę į šeimos turtą, šeimos turtą įkeisti ar kitaip suvaržyti teises į jį, teismas, atsižvelgdamas į aplinkybes, turi teisę reikalauti, kad pareiškėjas pateiktų įrodymus, patvirtinančius šeimos turtinę padėtį (pajamas, santaupas, kitą turtą, prievoles), duomenis apie perleidžiamą šeimos turtą, duomenis iš valstybinės vaiko teisių apsaugos institucijos apie vaiko tėvus, taip pat būsimo sandorio preliminarias sąlygas ir jo įvykdymo galimybes bei vaiko teisių apsaugos galimybes sandorio neįvykdymo atveju ir kitus įrodymus.
+
+8. Teismui nagrinėjant bylą dėl teismo leidimo pratęsti asmens priverstinį hospitalizavimą ir (ar) priverstinį gydymą arba bylą dėl teismo leidimo pratęsti asmens būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą, būtina, kad asmeniui, kurio priverstinį hospitalizavimą ir (ar) priverstinį gydymą arba būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą prašoma pratęsti, atstovautų advokatas.
+
+9. Teismui nagrinėjant bylą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą, būtina, kad vaiko atstovams pagal įstatymą atstovautų advokatas.
+
+TAR pastaba. 582 straipsnio 9 dalis įsigalioja 2020-01-01.
+
+10. Byla nagrinėjama šiame skyriuje nustatyta tvarka, neatsižvelgiant į tai, kad ginčas kyla dėl teisės, išskyrus Civiliniame kodekse numatytus atvejus.
+
+11. Bylą teismas išsprendžia priimdamas nutartį. Teismo nutartis išduoti leidimą, patvirtinti pareiškimą ar faktus, išskyrus nutartį leisti paimti vaiką iš jo atstovų pagal įstatymą arba atsisakyti duoti šį leidimą, apeliacine tvarka neskundžiama ir įsiteisėja nuo priėmimo dienos, tačiau teismo atsisakymas išduoti leidimą, patvirtinti pareiškimą ar faktą neatima iš pareiškėjo teisės, pasikeitus aplinkybėms, pakartotinai kreiptis į teismą dėl leidimo išdavimo, pareiškimo ar fakto patvirtinimo. Teismo nutartis leisti paimti vaiką iš jo atstovų pagal įstatymą vykdytina skubiai. Teismo nutartis leisti paimti vaiką iš jo atstovų pagal įstatymą arba atsisakyti duoti šį leidimą gali būti skundžiama atskiruoju skundu. Šis skundas turi būti išnagrinėtas per šio Kodekso 336 straipsnio 3 dalyje nurodytą terminą.
+
+12. Šiame skyriuje nustatyta tvarka nagrinėtoje byloje dalyvaujančių asmenų turėtos bylinėjimosi išlaidos neatlyginamos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2037, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06549
 
 VI DALIS
 
@@ -3417,7 +3409,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 2. Atskirąjį skundą nagrinėja vienas apeliacinės instancijos teismo teisėjas, tačiau apeliacinės instancijos teismo pirmininkas arba Civilinių bylų skyriaus pirmininkas, atsižvelgdamas į bylos sudėtingumą, turi teisę atskirajam skundui nagrinėti sudaryti trijų teisėjų kolegiją. Nutartimi perduoti atskirąjį skundą nagrinėti trijų teisėjų kolegijai turi teisę ir bylą nagrinėjantis teisėjas.
 
-3. Atskirasis skundas dėl teismo nutarties leisti paimti vaiką iš jo atstovų pagal įstatymą arba atsisakyti duoti šį leidimą turi būti išnagrinėtas ne vėliau kaip per trisdešimt dienų nuo dienos, kurią atskirasis skundas buvo gautas apeliacinės instancijos teisme.
+3. Atskirasis skundas dėl teismo nutarties leisti paimti vaiką iš jo atstovų pagal įstatymą arba atsisakyti duoti šį leidimą turi būti išnagrinėtas ne vėliau kaip per dvidešimt dienų nuo dienos, kurią atskirasis skundas buvo gautas apeliacinės instancijos teisme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2037, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06549
 
 4. Nutartis dėl atskirojo skundo turi būti priimta ne vėliau kaip per septynias dienas nuo atskirojo skundo išnagrinėjimo teismo posėdyje dienos.
 
@@ -10216,6 +10212,12 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 3. Prašymas dėl turto administravimo paduodamas nekilnojamojo daikto buvimo vietos teismui, o dėl kilnojamojo daikto – pareiškėjo gyvenamosios vietos ar buveinės apylinkės teismui.
 
 4. Prašymas atšaukti inicijuojamą juridinio asmens likvidavimą Civilinio kodekso 2.70 straipsnyje nurodytu atveju paduodamas juridinio asmens buveinės apylinkės teismui.
+
+5. Prašymas išduoti teismo leidimą paimti vaiką iš jo atstovų pagal įstatymą paduodamas vaiko gyvenamosios vietos apylinkės teismui. Kai vaiko gyvenamoji vieta nežinoma arba vaikas neturi gyvenamosios vietos Lietuvos Respublikoje, prašymas išduoti teismo leidimą paimti vaiką iš jo atstovų pagal įstatymą paduodamas vaiko buvimo vietos apylinkės teismui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2037, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06549
 
 Straipsnio pakeitimas:
 
