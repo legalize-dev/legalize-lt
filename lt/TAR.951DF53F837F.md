@@ -4,7 +4,7 @@ identifier: "TAR.951DF53F837F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "2019-01-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01
+Suvestinė redakcija nuo 2019-05-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
 
@@ -429,24 +429,6 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
 
-2. Radioaktyviųjų atliekų darytojas sumoka visas išlaidas, susijusias su radioaktyviųjų atliekų tvarkymu nuo jų atsiradimo iki padėjimo į radioaktyviųjų atliekų atliekyną, ir uždarytų atliekynų priežiūros išlaidas.
-
-3. Radioaktyviųjų atliekų darytojas neatleidžiamas nuo pareigų ir atsakomybės saugiai tvarkyti radioaktyviąsias atliekas net ir laikinai sustabdžius ar panaikinus licencijos galiojimą.
-
-4. Radioaktyviųjų atliekų darytojo atsakomybė už radioaktyviųjų atliekų tvarkymą baigiasi, kai:
-
-1) radioaktyviosios atliekos perduodamos radioaktyviųjų atliekų tvarkytojui;
-
-2) radioaktyviosios atliekos teisėtai išvežamos iš Lietuvos Respublikos ir visam laikui yra priimamos pagal atitinkamos valstybės įstatymus;
-
-3) saugant radioaktyviąsias atliekas, radioaktyviųjų atliekų aktyvumas pasiekia nebekontroliuojamuosius radioaktyvumo lygius. Šiuo atveju radioaktyviųjų atliekų darytojas yra atsakingas už susidariusių atliekų tvarkymą pagal Lietuvos Respublikos atliekų tvarkymo įstatymą ir kitus teisės aktus.
-
-5. Paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų vežimas, saugojimas ir kiti su jų, kaip radioaktyviųjų atliekų, tvarkymu susiję darbai finansuojami iš valstybės ir savivaldybių institucijoms numatytų asignavimų. Ekstremaliųjų įvykių, ypatingo aplinkos užteršimo radioaktyviosiomis medžiagomis nulemta veikla, susijusi su paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų tvarkymu, finansuojama iš Lietuvos Respublikos valstybės biudžeto. Įstatymų nustatyta tvarka nustačius asmenis, kaltus dėl paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų įsigijimo, laikymo, vežimo ar gamybos, paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų tvarkymo išlaidos išieškomos iš kaltų asmenų.
-
-KETVIRTASIS SKIRSNIS
-
-RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYTOJAS
-
 10 straipsnis. Radioaktyviųjų atliekų tvarkytojas ir jo veiklos pagrindai
 
 1. Valstybės įmonė Ignalinos atominė elektrinė yra radioaktyviųjų atliekų tvarkytoja ir vykdydama Ignalinos atominės elektrinės ir kitų branduolinės energetikos objektų eksploatavimo ir eksploatavimo nutraukimo metu susidariusių radioaktyviųjų atliekų ir kitų radioaktyviųjų atliekų darytojų perduotų radioaktyviųjų atliekų tvarkymą:
@@ -649,17 +631,29 @@ Pakeistas skirsnio pavadinimas:
 
 Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
 
-24 straipsnis. Panaudoti uždarieji radioaktyvieji šaltiniai
+2. Radioaktyviųjų atliekų darytojas apmoka visas išlaidas, susijusias su radioaktyviųjų atliekų tvarkymu nuo jų atsiradimo iki padėjimo į radioaktyviųjų atliekų atliekyną, ir uždarytų atliekynų priežiūros išlaidas. Prieš gaudamas veiklos su branduolinėmis ir (ar) branduolinio kuro ciklo medžiagomis licenciją arba licenciją ar laikinąjį leidimą vykdyti veiklą su jonizuojančiosios spinduliuotės šaltiniais, išskyrus branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, radioaktyviųjų atliekų darytojas, išskyrus tą radioaktyviųjų atliekų darytoją, kurio veiklos metu susidariusiose radioaktyviosiose atliekose yra tik trumpaamžiai radionuklidai, kurių pusėjimo trukmė ne didesnė kaip 100 dienų, turi būti sudaręs sutarties su radioaktyviųjų atliekų tvarkytoju dėl radioaktyviųjų atliekų tvarkymo paslaugų vertės laidavimo draudimo sutartį ar turėti banko garantiją įmonės bankroto ar kitu atveju, kai radioaktyviųjų atliekų darytojas privalo nutraukti radioaktyviųjų atliekų tvarkymo veiklą ir neturi sukaupęs radioaktyviosioms atliekoms tvarkyti reikalingų lėšų. Ši nuostata, tvarkant panaudotus uždaruosius jonizuojančiosios spinduliuotės šaltinius, taikoma tiek, kiek jų tvarkymo nereglamentuoja šio įstatymo 24 straipsnis. Lėšos, reikalingos branduolinės energetikos objektų eksploatacijai nutraukti ir saugiai šių objektų eksploatavimo ir eksploatavimo nutraukimo metu susidariusioms radioaktyviosioms atliekoms tvarkyti, kaupiamos vadovaujantis Branduolinės energijos įstatymo 32 ir 48 straipsnių nuostatomis.
 
-1. Vadovaujantis šio įstatymo 25 straipsnyje nustatytais reikalavimais, leidžiama grąžinti į Lietuvos Respubliką panaudotus uždaruosius radioaktyviuosius šaltinius, jeigu jie skirti juos pagaminusiam juridiniam asmeniui, kuris įgaliotas juos priimti ir saugoti.
+TAR pastaba. Jeigu radioaktyviųjų atliekų darytojas iki 2019 m. gegužės 1 d. nesudaro sutarties su radioaktyviųjų atliekų tvarkytoju dėl radioaktyviųjų atliekų tvarkymo paslaugų vertės laidavimo draudimo sutarties ar neturi banko garantijos įmonės bankroto ar kitu atveju, kai radioaktyviųjų atliekų darytojas privalo nutraukti radioaktyviųjų atliekų tvarkymo veiklą ir neturi sukaupęs radioaktyviosioms atliekoms tvarkyti reikalingų lėšų, turi būti sustabdytas licencijos ar laikinojo leidimo vykdyti veiklą su jonizuojančiosios spinduliuotės šaltiniais, išskyrus branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, galiojimas Lietuvos Respublikos radiacinės saugos įstatymo nustatyta tvarka. 3 dalies nuostatų laikymosi kontrolę pagal savo kompetenciją užtikrina reguliuojančioji institucija, nurodyta Radiacinės saugos įstatyme.
 
-2. Uždarieji radioaktyvieji šaltiniai gali būti įvežami į Lietuvos Respubliką arba uždarieji radioaktyvieji šaltiniai gali būti parduoti ar perduoti Lietuvos Respublikoje, jeigu juos panaudojus arba neketinant jų naudoti numatoma panaudotus uždaruosius radioaktyviuosius šaltinius grąžinti uždarojo radioaktyviojo šaltinio tiekėjui. Uždarojo radioaktyviojo šaltinio gavėjas turi sudaryti su radioaktyviųjų atliekų tvarkytoju sutartį dėl uždarojo radioaktyviojo šaltinio tvarkymo tuo atveju, jeigu uždarojo radioaktyviojo šaltinio grąžinti uždarojo radioaktyviojo šaltinio tiekėjui būtų neįmanoma. Uždarojo radioaktyviojo šaltinio gavėjas privalo apsidrausti laidavimo draudimu ar turėti banko garantiją sutarties su radioaktyviųjų atliekų tvarkytoju paslaugų vertei, išskyrus teisės akte, nustatančiame radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje bei leidimų išdavimo tvarką, patvirtintame sveikatos apsaugos ministro kartu su Valstybinės atominės energetikos saugos inspekcijos viršininku, nustatytus atvejus, kai tokia sutartis sudaroma dėl uždarojo radioaktyviojo šaltinio, kuris bus naudojamas ir saugomas tol, kol bus galima jo nebekontroliuoti.
+Straipsnio dalies pakeitimai:
 
-3. Jeigu panaudoto uždarojo radioaktyviojo šaltinio grąžinti uždarojo radioaktyviojo šaltinio tiekėjui neįmanoma, Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai įsitikinus, kad panaudoto uždarojo radioaktyviojo šaltinio grąžinti uždarojo radioaktyviojo šaltinio tiekėjui neįmanoma, ir pritarus panaudotas uždarasis radioaktyvusis šaltinis turi būti tvarkomas kaip radioaktyviosios atliekos.
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
 
-Straipsnio pakeitimai:
+3. Radioaktyviųjų atliekų darytojas neatleidžiamas nuo pareigų ir atsakomybės saugiai tvarkyti radioaktyviąsias atliekas net ir laikinai sustabdžius ar panaikinus licencijos galiojimą.
 
-Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+4. Radioaktyviųjų atliekų darytojo atsakomybė už radioaktyviųjų atliekų tvarkymą baigiasi, kai:
+
+1) radioaktyviosios atliekos perduodamos radioaktyviųjų atliekų tvarkytojui;
+
+2) radioaktyviosios atliekos teisėtai išvežamos iš Lietuvos Respublikos ir visam laikui yra priimamos pagal atitinkamos valstybės įstatymus;
+
+3) saugant radioaktyviąsias atliekas, radioaktyviųjų atliekų aktyvumas pasiekia nebekontroliuojamuosius radioaktyvumo lygius. Šiuo atveju radioaktyviųjų atliekų darytojas yra atsakingas už susidariusių atliekų tvarkymą pagal Lietuvos Respublikos atliekų tvarkymo įstatymą ir kitus teisės aktus.
+
+5. Paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų vežimas, saugojimas ir kiti su jų, kaip radioaktyviųjų atliekų, tvarkymu susiję darbai finansuojami iš valstybės ir savivaldybių institucijoms numatytų asignavimų. Ekstremaliųjų įvykių, ypatingo aplinkos užteršimo radioaktyviosiomis medžiagomis nulemta veikla, susijusi su paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų tvarkymu, finansuojama iš Lietuvos Respublikos valstybės biudžeto. Įstatymų nustatyta tvarka nustačius asmenis, kaltus dėl paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų įsigijimo, laikymo, vežimo ar gamybos, paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų tvarkymo išlaidos išieškomos iš kaltų asmenų.
+
+KETVIRTASIS SKIRSNIS
+
+RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYTOJAS
 
 25 straipsnis. Radioaktyviųjų atliekų ir (ar) panaudoto branduolinio kuro įvežimas, vežimas, išvežimas ir vežimas tranzitu
 
