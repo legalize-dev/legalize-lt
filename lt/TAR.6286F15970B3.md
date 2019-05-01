@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2019-01-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-09-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -428,11 +428,15 @@ Nr. XIII-654, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16004
 
 12) kartu su kitomis valstybės institucijomis organizuoja gyventojų apsaugos branduolinių ir radiologinių avarijų atveju pratybas;
 
-13) priežiūrą vykdančioms institucijoms ar įstaigoms, pareiškėjams ar licencijų turėtojams teikia informaciją apie tai, ar yra šio įstatymo 50 straipsnio 3 dalies 2, 3, 4, 5, 10, 12, 13 punktuose nurodytų aplinkybių;
+13) priežiūrą vykdančioms institucijoms ar įstaigoms, pareiškėjams ar licencijų turėtojams teikia informaciją apie tai, ar yra šio įstatymo 50 straipsnio 3 dalies 2, 3, 4, 5, 10, 11, 12 punktuose nurodytų aplinkybių;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1913, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00846
 
 14) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
 
@@ -446,7 +450,11 @@ Lietuvos Respublikos valstybės saugumo departamentas (toliau – Valstybės sau
 
 1) siekiant apsaugoti valstybės saugumo interesus, pagal kompetenciją renka, analizuoja ir teikia informaciją apie grėsmes branduolinės energetikos objektams;
 
-2) priežiūrą vykdančioms institucijoms ar įstaigoms, pareiškėjams ar licencijų turėtojams teikia informaciją apie tai, ar yra šio įstatymo 50 straipsnio 3 dalies 6, 7, 8, 16 punktuose nurodytų aplinkybių;
+2) priežiūrą vykdančioms institucijoms ar įstaigoms, pareiškėjams ar licencijų turėtojams teikia informaciją apie tai, ar yra šio įstatymo 50 straipsnio 3 dalies 6, 7, 8, 15 punktuose nurodytų aplinkybių;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1913, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00846
 
 3) dalyvauja kuriant ir vykdant branduolinės (atominės) elektrinės ir kitų branduolinės energetikos objektų antiteroristinės ir antiintervencinės tarpžinybinės sąveikos planus.
 
@@ -784,7 +792,11 @@ Straipsnio punkto naikinimas:
 
 Nr. XIII-654, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16004
 
-4) atlikti branduolinių ir radiologinių avarijų branduolinės energetikos objekte rizikos žmonėms, jų turtui ir aplinkai analizę ir vertinimą ir parengti ekstremaliųjų situacijų valdymo planą bei užtikrinti pasirengimą likviduoti branduolinės ar radiologinės avarijos padarinius branduolinės energetikos objekte;
+4) atlikti ir Valstybinei atominės energetikos saugos inspekcijai pateikti galimų branduolinių ir radiologinių avarijų branduolinės energetikos objekte padarinių analizę, kurioje licencijos turėtojas turi nurodyti branduolinių ir (ar) radiologinių avarijų radiologinius padarinius už branduolinės energetikos objekto sanitarinės apsaugos zonos ribų ir šių avarijų nulemtų radionuklidų išmetimų charakteristikas. Reikalavimus šiai analizei nustato Valstybinė atominės energetikos saugos inspekcija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-654, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16004
 
 5) parengti branduolinės energetikos objekto avarinės parengties planą ir užtikrinti pasirengimą likviduoti branduolinių ir radiologinių avarijų padarinius branduolinės energetikos objekte ir branduolinės energetikos objekto sanitarinėje apsaugos zonoje;
 
@@ -1050,7 +1062,7 @@ Darbo santykius branduolinės energetikos objektuose reglamentuoja Lietuvos Resp
 
 2. Padalinio, branduolinės energetikos objekto statybos aikštelėje ir (ar) branduolinės energetikos objekte atsakingo už fizinę saugą, vadovą ir jo pavaduotoją (ar pavaduotojus) skiria ir atleidžia pareiškėjo ar licencijos turėtojo vadovas, suderinęs su Valstybės saugumo departamentu.
 
-3. Pareigų, kurias einant, arba darbo, kurį atliekant, būtina įgyti teisę be palydos patekti į branduolinės energetikos objektų apsaugos zonas ir (ar) branduolinės energetikos objekto aikštelę, teisę be palydos dalyvauti vežant Branduolinės saugos įstatymo 1 priede nurodytas branduolines medžiagas nustatytais kiekiais ir (ar) branduolinio kuro ciklo medžiagas, negali eiti ar dirbti fiziniai asmenys, jeigu dėl šių fizinių asmenų yra nustatyta bent viena iš šių aplinkybių:
+3. Pareigų, kurias einant, arba darbo, kurį atliekant būtina įgyti teisę be palydos patekti į branduolinės energetikos objektų apsaugos zonas ir (ar) branduolinės energetikos objekto aikštelę, teisę be palydos dalyvauti vežant Branduolinės saugos įstatymo 1 priede nurodytas branduolines medžiagas nustatytais kiekiais ir (ar) branduolinio kuro ciklo medžiagas, negali eiti ar dirbti fiziniai asmenys, jeigu dėl šių fizinių asmenų yra nustatyta bent viena iš šių aplinkybių:
 
 1) fizinis asmuo yra jaunesnis kaip 18 metų;
 
@@ -1068,27 +1080,37 @@ Darbo santykius branduolinės energetikos objektuose reglamentuoja Lietuvos Resp
 
 8) fizinis asmuo dalyvauja ar per pastaruosius penkerius metus dalyvavo neregistruoto judėjimo veikloje, jeigu toks dalyvavimas gali kelti grėsmę pareiškėjui ar licencijos turėtojui;
 
-9) Valstybės saugumo departamentas iš atitinkamų užsienio valstybių institucijų neturi galimybės gauti arba negauna patikimos informacijos apie užsienio valstybės pilietį arba asmenį be pilietybės, taip pat Lietuvos Respublikos pilietį, kurio nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, dėl šios dalies 6, 7 ir 8 punktuose nurodytų aplinkybių, arba iš atitinkamų institucijų gauta informacija kelia pagrįstų abejonių dėl šios informacijos patikimumo;
+9) Valstybės saugumo departamentas iš atitinkamų užsienio valstybių institucijų neturi galimybės gauti ar negauna patikimos informacijos apie užsienio valstybės pilietį arba asmenį be pilietybės, taip pat Lietuvos Respublikos pilietį, kurio nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, dėl šios dalies 6, 7 ir 8 punktuose nurodytų aplinkybių arba iš atitinkamų institucijų gauta informacija kelia pagrįstų abejonių dėl šios informacijos patikimumo;
 
 10) fiziniam asmeniui taikomos prevencinės poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą;
 
-11) fizinis asmuo yra ar per pastaruosius trejus metus buvo įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo ar narkomanijos;
+11) fizinis asmuo daugiau negu vieną kartą per pastaruosius trejus metus buvo baustas už administracinį nusižengimą, susijusį su narkotinių ar psichotropinių medžiagų vartojimu be gydytojo paskyrimo, ar kitą administracinį nusižengimą, padarytą jam buvus neblaiviam arba apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
 
-12) fizinis asmuo daugiau negu vieną kartą per pastaruosius trejus metus buvo baustas už administracinį nusižengimą, susijusį su narkotinių ar psichotropinių medžiagų vartojimu be gydytojo paskyrimo, ar kitą administracinį nusižengimą, padarytą jam buvus neblaiviam arba apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
+12) fizinis asmuo yra užsienio valstybės pilietis arba yra be pilietybės, neturintis Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ nustatyta tvarka išduoto galiojančio dokumento, suteikiančio ar patvirtinančio teisę būti ar gyventi Lietuvos Respublikoje, ir (ar) leidimo dirbti Lietuvos Respublikoje, kai jį būtina turėti;
 
-13) fizinis asmuo yra užsienio valstybės pilietis arba yra be pilietybės, neturintis Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ nustatyta tvarka išduoto galiojančio dokumento, suteikiančio ar patvirtinančio teisę būti ar gyventi Lietuvos Respublikoje, ir (ar) leidimo dirbti Lietuvos Respublikoje, kai jį būtina turėti;
+13) fizinis asmuo serga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis arba turi šiame sąraše nurodytų sveikatos sutrikimų, dėl kurių kyla grėsmė, kad galėtų būti sutrikdyta branduolinės energetikos objekto normali veikla;
 
-14) fizinis asmuo turi psichikos ar kitų sveikatos apsaugos ministro patvirtintame sąraše numatytų sveikatos būklės sutrikimų, dėl kurių kyla grėsmė, kad galėtų būti sutrikdyta branduolinės energetikos objekto normali veikla;
+14) fizinis asmuo atsisako pateikti šio straipsnio 5, 6 dalyse nurodytus dokumentus arba nesutinka būti tikrinamas, arba tikrinimo metu sąmoningai pateikia neteisingus duomenis;
 
-15) fizinis asmuo atsisako pateikti šio straipsnio 5, 6 dalyse nurodytus dokumentus arba nesutinka būti tikrinamas, arba tikrinimo metu sąmoningai pateikia neteisingus duomenis;
+15) kitais atvejais, kai fizinis asmuo, dalyvaudamas pareiškėjo ar licencijos turėtojo veikloje, gali kelti grėsmę valstybės saugumui.
 
-16) kitais atvejais, kai fizinis asmuo, dalyvaudamas pareiškėjo ar licencijos turėtojo veikloje, gali kelti grėsmę valstybės saugumui.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1913, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00846
 
 4. Fiziniai asmenys, kurių darbas susijęs su įslaptintos informacijos naudojimu ar apsauga, negali dirbti branduolinės energetikos objektų aikštelėse, branduolinės energetikos objektuose ir (ar) dalyvauti vežant Branduolinės saugos įstatymo 1 priede nurodytas branduolines medžiagas nustatytais kiekiais ir (ar) branduolinio kuro ciklo medžiagas, jeigu neatitinka Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme nustatytų reikalavimų, būtinų išduodant leidimą ar suteikiant teisę dirbti ar susipažinti su įslaptinta informacija. Fizinių asmenų atitiktį nustatytiems reikalavimams Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka nustato Valstybės saugumo departamentas.
 
-5. Priežiūrą vykdančių institucijų ar įstaigų, pareiškėjų ar licencijos turėtojų prašymu (kai fizinis asmuo turi įgyti teisę be palydos patekti į branduolinės energetikos objekto apsaugos zonas ir (ar) branduolinės energetikos objekto aikštelę, teisę be palydos dalyvauti vežant Branduolinės saugos įstatymo 1 priede nurodytas branduolines medžiagas nustatytais kiekiais ir (ar) branduolinio kuro ciklo medžiagas arba šio straipsnio 8 dalyje nurodytu periodiškumu – pakartotinai) informaciją, nurodytą šio įstatymo 15 straipsnio 13 punkte, teikia Vidaus reikalų ministerija ar jos įgaliotos institucijos, o informaciją, nurodytą šio įstatymo 16 straipsnio 2 punkte, – Valstybės saugumo departamentas. Šio straipsnio 3 dalies 1, 11, 14 punktuose nurodytą informaciją ir ją patvirtinančius dokumentus, išduotus kompetentingų institucijų, pateikia patys tikrinami fiziniai asmenys.
+5. Priežiūrą vykdančių institucijų ar įstaigų, pareiškėjų ar licencijos turėtojų prašymu (kai fizinis asmuo turi įgyti teisę be palydos patekti į branduolinės energetikos objekto apsaugos zonas ir (ar) branduolinės energetikos objekto aikštelę, teisę be palydos dalyvauti vežant Branduolinės saugos įstatymo 1 priede nurodytas branduolines medžiagas nustatytais kiekiais ir (ar) branduolinio kuro ciklo medžiagas arba šio straipsnio 8 dalyje nurodytu periodiškumu – pakartotinai) informaciją, nurodytą šio įstatymo 15 straipsnio 13 punkte, teikia Vidaus reikalų ministerija ar jos įgaliotos institucijos, o informaciją, nurodytą šio įstatymo 16 straipsnio 2 punkte, – Valstybės saugumo departamentas. Šio straipsnio 3 dalies 1 ir 13 punktuose nurodytą informaciją ir ją patvirtinančius dokumentus, išduotus kompetentingų institucijų, pateikia patys tikrinami fiziniai asmenys.
 
-6. Tais atvejais, kai tikrinami fiziniai asmenys yra užsienio valstybės piliečiai arba asmenys be pilietybės, taip pat Lietuvos Respublikos piliečiai, kurių nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, informaciją dėl šio straipsnio 3 dalies 1–5 ir 12 punktuose nurodytų aplinkybių ir ją patvirtinančius dokumentus, išduotus fizinio asmens pilietybės šalies arba asmens be pilietybės, taip pat Lietuvos Respublikos piliečio, kurio nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, atveju – asmens gyvenamosios šalies kompetentingų institucijų, pateikia patys tikrinami fiziniai asmenys.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1913, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00846
+
+6. Tais atvejais, kai tikrinami fiziniai asmenys yra užsienio valstybės piliečiai arba asmenys be pilietybės, taip pat Lietuvos Respublikos piliečiai, kurių nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, informaciją dėl šio straipsnio 3 dalies 1–5 ir 11 punktuose nurodytų aplinkybių ir ją patvirtinančius dokumentus, išduotus fizinio asmens pilietybės šalies arba asmens be pilietybės, taip pat Lietuvos Respublikos piliečio, kurio nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, atveju – asmens gyvenamosios šalies kompetentingų institucijų, pateikia patys tikrinami fiziniai asmenys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1913, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00846
 
 7. Šio straipsnio 5 dalyje nurodytą informaciją dėl tikrinamo fizinio asmens Vidaus reikalų ministerija ar jos įgaliotos institucijos ir Valstybės saugumo departamentas pateikia ne vėliau kaip per 20 darbo dienų nuo rašytinio prašymo pateikti informaciją apie tikrinamą fizinį asmenį gavimo dienos. Šis terminas Vidaus reikalų ministerijos ar jos įgaliotų institucijų ar Valstybės saugumo departamento motyvuotu raštu gali būti pratęstas ne ilgiau kaip 40 darbo dienų, jeigu tikrinamas fizinis asmuo yra užsienio valstybės pilietis arba asmuo be pilietybės, taip pat Lietuvos Respublikos pilietis, kurio nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje.
 
@@ -1339,6 +1361,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1594, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18208
 
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 23 straipsnio pakeitimo įstatymas
+
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1913, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00846
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 15, 16 ir 50 straipsnių pakeitimo įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
