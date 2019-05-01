@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2018-11-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-11-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-10-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
 
@@ -978,7 +978,11 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 1) specialiojo teritorijų planavimo dokumento sprendinių viešinimas – parengto teritorijų planavimo dokumento viešinimas supaprastinta tvarka;
 
-2) specialiojo teritorijų planavimo dokumento derinimas teritorijų planavimo dokumentą derinančiose institucijose (valstybės lygmeniu) ar Teritorijų planavimo komisijoje (savivaldybės lygmeniu ar vietovės lygmeniu);
+2) specialiojo teritorijų planavimo dokumento derinimas teritorijų planavimo dokumentą derinančiose institucijose (kai specialiojo teritorijų planavimo dokumentai rengiami valstybės lygmeniu ir (ar) juos tvirtina Vyriausybė) ar Teritorijų planavimo komisijoje (savivaldybės ir (ar) vietovės lygmeniu);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2097, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07055
 
 3) specialiojo teritorijų planavimo dokumento tikrinimas teritorijų planavimo valstybinę priežiūrą atliekančioje institucijoje;
 
@@ -1233,6 +1237,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 4, 6, 20, 28 ir 31 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2097, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07055
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 30 straipsnio pakeitimo įstatymas
 
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai ir vadovai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
