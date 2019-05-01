@@ -4,7 +4,7 @@ identifier: "TAR.A92E17FDCD13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2019-01-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 6 straipsnis įsigalioja priėmus Mokes�
 ---
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-12-19
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
 
@@ -538,7 +538,11 @@ TEISĖ MEDŽIOTI. MEDŽIOTOJO BILIETAS
 
 2. Teisė medžioti nesuteikiama ir medžiotojo bilietas neišduodamas asmenims, kurie:
 
-1) yra sveikatos priežiūros įstaigų įskaitoje dėl alkoholizmo, narkomanijos ir psichinių susirgimų;
+1) serga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis ar turi šiame sąraše nurodytų fizinių trūkumų, trukdančių tinkamai elgtis su ginklu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1915, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00848
 
 2) teisti už tyčinius nusikaltimus, jei dar neišnykęs ar nepanaikintas teistumas;
 
@@ -632,7 +636,11 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
 1. Teisę medžioti Aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijos panaikina:
 
-1) asmenims, patekusiems į sveikatos priežiūros įstaigų įskaitą dėl alkoholizmo, narkomanijos ar psichinių susirgimų;
+1) asmenims, kurie serga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis ar turi šiame sąraše nurodytų fizinių trūkumų, trukdančių tinkamai elgtis su ginklu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1915, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00848
 
 2) asmenims, kuriems teisė medžioti buvo suteikta pažeidus šio Įstatymo reikalavimus.
 
@@ -843,4 +851,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
 Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1915, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00848
+
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14 ir 16 straipsnių pakeitimo įstatymas
 
