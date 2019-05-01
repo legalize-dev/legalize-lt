@@ -4,7 +4,7 @@ identifier: "TAR.F617B8D97E05"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-09"
-last_updated: "2019-04-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2019-04-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
 
@@ -45,7 +45,11 @@ Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
 
 2 straipsnis. Pagrindinės šio statuto sąvokos
 
-1. Konsulinis pareigūnas – diplomatinėje atstovybėje ar konsulinėje įstaigoje dirbantis Lietuvos Respublikos diplomatas, kuriam pavesta atlikti konsulines funkcijas, taip pat garbės konsulinis pareigūnas.
+1. Konsulinis pareigūnas – Lietuvos Respublikos diplomatas, kuriam pavesta atlikti konsulines funkcijas, taip pat garbės konsulinis pareigūnas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 2. Konsulinės funkcijos – 1963 m. Vienos konvencijoje dėl konsulinių santykių, kitose Lietuvos Respublikos tarptautinėse sutartyse ir šiame statute numatyta konsulinių pareigūnų atliekama veikla.
 
@@ -117,7 +121,11 @@ Konsulinė įstaiga turi Lietuvos valstybės vėliavą, Europos Sąjungos vėlia
 
 8 straipsnis. Asmens duomenų tvarkymas
 
-1. Lietuvos Respublikos užsienio reikalų ministerija, diplomatinės atstovybės ir konsulinės įstaigos turi teisę tvarkyti asmens duomenis, įskaitant asmens kodą, tiek, kiek reikia konsulinėms funkcijoms atlikti. Asmens duomenys tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+1. Lietuvos Respublikos užsienio reikalų ministerija, diplomatinės atstovybės ir konsulinės įstaigos turi teisę tvarkyti asmens duomenis tiek, kiek reikia konsulinėms funkcijoms atlikti. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 2. Asmens prašymu įstatymo nustatyta tvarka diplomatinės atstovybės ir konsulinės įstaigos privalo pateikti jų tvarkomus neįslaptintus duomenis apie jį. Draudžiama šiam asmeniui teikti informaciją apie kitus asmenis, jeigu įstatymai nenustato kitaip.
 
@@ -129,7 +137,11 @@ KONSULINIO PAREIGŪNO ĮGALIOJIMAI IR ATSAKOMYBĖ
 
 Lietuvos Respublikos konsuliniais pareigūnais gali būti:
 
-1) diplomatinėse atstovybėse ir konsulinėse įstaigose dirbantys diplomatai, kuriems pavesta atlikti konsulines funkcijas;
+1) diplomatai, kuriems pavesta atlikti konsulines funkcijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 2) garbės konsuliniai pareigūnai.
 
@@ -201,23 +213,39 @@ Nr. XIII-1992, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04587
 
 15 straipsnis. Pagalba mirties atveju
 
-1. Konsulinis pareigūnas, gavęs informaciją apie Lietuvos Respublikos piliečio mirtį buvimo valstybėje, perduoda šią informaciją Lietuvos Respublikos užsienio reikalų ministerijai ir Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos, kad pastarasis praneštų mirusio Lietuvos Respublikos piliečio sutuoktiniui (sugyventiniui) ar artimiesiems giminaičiams. Jų nesant, – informacija apie piliečio mirties faktą gali būti teikiama kitiems asmenims.
+1. Konsulinis pareigūnas arba diplomatinės atstovybės ar konsulinės įstaigos įgaliotas darbuotojas (toliau – įgaliotas darbuotojas), gavęs informaciją apie Lietuvos Respublikos piliečio mirtį buvimo valstybėje, perduoda šią informaciją Lietuvos Respublikos užsienio reikalų ministerijai ir Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos, kad pastarasis praneštų mirusio Lietuvos Respublikos piliečio sutuoktiniui (sugyventiniui) ar artimiesiems giminaičiams. Kai sutuoktinio (sugyventinio) ar artimųjų giminaičių nėra, informacija apie piliečio mirties faktą gali būti teikiama kitiems asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 2. Konsulinis pareigūnas, vadovaudamasis Lietuvos Respublikos sveikatos apsaugos ir Lietuvos Respublikos užsienio reikalų ministrų nustatyta tvarka, išduoda leidimą mirusiojo palaikus parvežti į Lietuvą, jei Lietuvos Respublikos tarptautinė sutartis nenumato kitaip.
 
 3. Jeigu neatsiranda asmenų, kurie prisiima atsakomybę už mirusio Lietuvos Respublikos piliečio laidotuves ar kremavimą arba jo palaikų parvežimą į Lietuvą, konsulinis pareigūnas kreipiasi į kompetentingas buvimo valstybės institucijas dėl mirusio Lietuvos Respublikos piliečio laidotuvių arba kremavimo organizavimo pagal buvimo valstybės teisės aktus ir joje taikomą praktiką.
 
-4. Konsulinis pareigūnas, jei sutuoktinis (sugyventinis) ar artimasis giminaitis arba asmuo, kuris piliečiui gyvam esant buvo nurodytas kaip jo atstovas, prašo, padeda gauti informaciją apie mirusio Lietuvos Respublikos piliečio mirties priežastį, jei nėra kitų būdų gauti tokią informaciją pagal buvimo valstybėje galiojančius įstatymus.
+4. Konsulinis pareigūnas arba įgaliotas darbuotojas, jei sutuoktinis (sugyventinis) ar artimasis giminaitis arba asmuo, kuris piliečiui gyvam esant buvo nurodytas kaip jo atstovas, prašo, padeda gauti informaciją apie mirusio Lietuvos Respublikos piliečio mirties priežastį, jei nėra kitų būdų gauti tokią informaciją pagal buvimo valstybėje galiojančius įstatymus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 16 straipsnis. Pagalba nelaimingo atsitikimo ar ligos atveju
 
-1. Konsulinis pareigūnas Lietuvos Respublikos piliečiams nelaimingo atsitikimo ar ligos atveju padeda susisiekti su sutuoktiniu (sugyventiniu) ar artimuoju giminaičiu arba su piliečio nurodytu kitu asmeniu Lietuvoje, gauti medicinos pagalbą arba grįžti į Lietuvą.
+1. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos piliečiams nelaimingo atsitikimo ar ligos atveju padeda susisiekti su sutuoktiniu (sugyventiniu) ar artimuoju giminaičiu arba su piliečio nurodytu kitu asmeniu Lietuvoje, gauti medicinos pagalbą arba grįžti į Lietuvą.
 
-2. Konsulinis pareigūnas teikia reikiamą informaciją arba padeda ją gauti sužeistam ar sergančiam Lietuvos Respublikos piliečiui, jo sutuoktiniui (sugyventiniui) ar artimajam giminaičiui arba piliečio nurodytam kitam asmeniui, organizuojantiems jo parvežimą į Lietuvą.
+2. Konsulinis pareigūnas arba įgaliotas darbuotojas teikia reikiamą informaciją arba padeda ją gauti sužeistam ar sergančiam Lietuvos Respublikos piliečiui, jo sutuoktiniui (sugyventiniui) ar artimajam giminaičiui arba piliečio nurodytam kitam asmeniui, organizuojantiems jo parvežimą į Lietuvą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 17 straipsnis. Pagalba nusikaltimų aukoms
 
-Konsulinis pareigūnas padeda nusikaltimų aukomis tapusiems Lietuvos Respublikos piliečiams gauti medicinos, teisinę pagalbą ir vertėjo paslaugas, taip pat susisiekti su sutuoktiniu (sugyventiniu) ar artimuoju giminaičiu arba su piliečio nurodytu kitu asmeniu Lietuvoje.
+Konsulinis pareigūnas arba įgaliotas darbuotojas padeda nusikaltimų aukomis tapusiems Lietuvos Respublikos piliečiams gauti medicinos, teisinę pagalbą ir vertėjo paslaugas, taip pat susisiekti su sutuoktiniu (sugyventiniu) ar artimuoju giminaičiu arba su piliečio nurodytu kitu asmeniu Lietuvoje.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 18 straipsnis. Pagalba sulaikytiems, atliekantiems bausmę ar įtariamiems padarius nusikaltimą asmenims
 
@@ -237,7 +265,11 @@ Konsulinis pareigūnas padeda nusikaltimų aukomis tapusiems Lietuvos Respubliko
 
 20 straipsnis. Pagalba asmenims, praradusiems kelionės dokumentus, kelionės dokumentui tapus netinkamu naudoti ar pasibaigus jo galiojimo laikui
 
-1. Konsulinis pareigūnas, Lietuvos Respublikos piliečiui praradus kelionės dokumentą, jam tapus netinkamu naudoti ar pasibaigus jo galiojimo laikui Lietuvos Respublikos piliečiui esant užsienio valstybėje, Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka išduoda asmens grįžimo pažymėjimą.
+1. Konsulinis pareigūnas arba įgaliotas darbuotojas, Lietuvos Respublikos piliečiui praradus kelionės dokumentą, jam tapus netinkamu naudoti ar pasibaigus jo galiojimo laikui Lietuvos Respublikos piliečiui esant užsienio valstybėje, priima Lietuvos Respublikos piliečio prašymą dėl asmens grįžimo pažymėjimo išdavimo. Konsulinio pareigūno sprendimu Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka piliečiui išduodamas asmens grįžimo pažymėjimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 2. Konsulinis pareigūnas Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka išduoda asmens grįžimo pažymėjimus užsienio valstybėje gimusiems nepilnamečiams vaikams, kurių tėvai ar vienas iš tėvų yra Lietuvos Respublikos piliečiai.
 
@@ -289,7 +321,11 @@ Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
 
 23 straipsnis. Vizų ir joms prilyginamų dokumentų išdavimas
 
-1. Konsulinis pareigūnas priima ir svarsto prašymus išduoti vizas ar joms prilyginamus dokumentus ir teisės aktų nustatytomis sąlygomis bei tvarka priima sprendimus dėl vizos ar joms prilyginamo dokumento išdavimo ar atsisakymo išduoti ir dėl vizos ar jai prilyginamo dokumento panaikinimo.
+1. Konsulinis pareigūnas arba įgaliotas darbuotojas priima prašymus išduoti vizas ar joms prilyginamus dokumentus. Konsulinis pareigūnas teisės aktų nustatytomis sąlygomis ir tvarka prašymus nagrinėja ir priima sprendimus dėl jų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 2. Konsulinis pareigūnas yra atsakingas už vizų ar joms prilyginamų dokumentų išdavimo teisėtumą, o jo sprendimas atsisakyti išduoti vizą ar jai prilyginamą dokumentą negali būti skundžiamas administracine tvarka.
 
@@ -301,61 +337,51 @@ Nr. XII-75, 2012-12-20, Žin. 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA
 
 25 straipsnis. Pasų ir asmens tapatybės kortelių išdavimas, keitimas ir pilietybės klausimai
 
-Pakeistas straipsnio pavadinimas:
+1. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos pilietybės įstatymo ir kitų teisės aktų nustatyta tvarka priima asmenų prašymus dėl Lietuvos Respublikos pilietybės ir dėl lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimo ir perduoda juos bei susijusius dokumentus Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai, ar kitai Lietuvos Respublikos institucijai, kuri pagal įstatymą turi kompetenciją nagrinėti ir spręsti Lietuvos Respublikos pilietybės klausimus.
 
-Nr. XII-1521, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21283
+2. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka priima Lietuvos Respublikos piliečių prašymus ir kitus reikalingus dokumentus dėl paso ar asmens tapatybės kortelės išdavimo ar keitimo. Jeigu prašyme išduoti (pakeisti) pasą ar asmens tapatybės kortelę nurodyti piliečio duomenys, kurie įrašomi į pasą ar asmens tapatybės kortelę, sutampa su duomenimis, esančiais Lietuvos Respublikos gyventojų registro duomenų bazėje, ir abejonių dėl piliečio duomenų ir tapatybės nekyla, – konsulinis pareigūnas išduoda arba keičia pasą ar asmens tapatybės kortelę. Kitu atveju pasą ar asmens tapatybės kortelę konsulinis pareigūnas išduoda arba keičia tik po konsultacijų su teritorine policijos įstaiga Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka.
 
-1. Konsulinis pareigūnas Lietuvos Respublikos pilietybės įstatymo ir kitų teisės aktų nustatyta tvarka priima asmenų prašymus dėl Lietuvos Respublikos pilietybės ir dėl lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimo ir perduoda juos bei susijusius dokumentus Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai, ar kitai Lietuvos Respublikos institucijai, kuri pagal įstatymą turi kompetenciją nagrinėti ir spręsti Lietuvos Respublikos pilietybės klausimus.
+3. Konsulinis pareigūnas arba įgaliotas darbuotojas, gavęs asmens tapatybę ir pilietybę patvirtinančius dokumentus ar lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančius dokumentus, Lietuvos Respublikos teisės aktų nustatyta tvarka įteikia juos jų prašiusiam asmeniui ar jo įgaliotam atstovui.
 
-Straipsnio dalies pakeitimai:
+4. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos teisės aktų nustatyta tvarka priima iš Lietuvos Respublikos piliečių pranešimus apie prarastus asmens tapatybę ir pilietybę patvirtinančius dokumentus, šiuos dokumentus paskelbia negaliojančiais arba Lietuvos Respublikos piliečių pranešimus perduoda kompetentingoms Lietuvos Respublikos institucijoms.
 
-Nr. XII-75, 2012-12-20, Žin., 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA00XII-75
-
-2. Konsulinis pareigūnas Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka priima Lietuvos Respublikos piliečių prašymus ir kitus reikalingus dokumentus dėl paso ar asmens tapatybės kortelės išdavimo ar keitimo ir perduoda juos teritorinei policijos įstaigai, o jeigu prašyme išduoti (pakeisti) pasą ar asmens tapatybės kortelę nurodyti piliečio duomenys, kurie įrašomi į pasą ar asmens tapatybės kortelę, sutampa su duomenimis, esančiais Lietuvos Respublikos gyventojų registro duomenų bazėje, ir abejonių dėl piliečio duomenų ir tapatybės nekyla, – išduoda arba keičia pasą ar asmens tapatybės kortelę.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1521, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21283
-
-3. Konsulinis pareigūnas, gavęs asmens tapatybę ir pilietybę patvirtinančius dokumentus ar lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančius dokumentus, Lietuvos Respublikos teisės aktų nustatyta tvarka įteikia juos jų prašiusiam asmeniui ar jo įgaliotam atstovui.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-75, 2012-12-20, Žin., 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA00XII-75
-
-4. Konsulinis pareigūnas Lietuvos Respublikos teisės aktų nustatyta tvarka priima iš Lietuvos Respublikos piliečių pranešimus apie prarastus asmens tapatybę ir pilietybę patvirtinančius dokumentus, šiuos dokumentus paskelbia negaliojančiais arba Lietuvos Respublikos piliečių pranešimus perduoda kompetentingoms Lietuvos Respublikos institucijoms.
-
-5. Konsulinis pareigūnas Lietuvos Respublikos įstatymų nustatytais atvejais paima iš Lietuvos Respublikos piliečių negaliojančius asmens tapatybę ir pilietybę patvirtinančius dokumentus ir Lietuvos Respublikos teisės aktų nustatyta tvarka perduoda juos teritorinei policijos įstaigai.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1521, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21283
+5. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos įstatymų nustatytais atvejais paima iš Lietuvos Respublikos piliečių negaliojančius asmens tapatybę ir pilietybę patvirtinančius dokumentus ir Lietuvos Respublikos teisės aktų nustatyta tvarka perduoda juos teritorinei policijos įstaigai.
 
 Straipsnio pakeitimai:
 
 Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010ISTA00XI-467
 
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
+
 26 straipsnis. Prašymo išduoti leidimą gyventi perdavimas
 
-Konsulinis pareigūnas priima asmens prašymą išduoti leidimą gyventi Lietuvos Respublikoje ir jį perduoda Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos.
+Konsulinis pareigūnas arba įgaliotas darbuotojas priima asmens prašymą išduoti leidimą gyventi Lietuvos Respublikoje ir jį perduoda Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 27 straipsnis. Lietuvos Respublikos piliečių konsulinė registracija
 
-1. Konsulinis pareigūnas užsienio valstybėje gyvenančio Lietuvos Respublikos piliečio, kuris kreipiasi dėl konsulinių funkcijų atlikimo, duomenis įrašo į Konsulinių procedūrų valdymo informacinę sistemą. Į Konsulinių procedūrų valdymo informacinę sistemą duomenys įrašomi ir užsienio valstybėje gyvenančio Lietuvos Respublikos piliečio prašymu. Šie duomenys naudojami tik konsulinei pagalbai šio statuto 14 straipsnyje nurodytais atvejais teikti, o įrašant duomenis Lietuvos Respublikos piliečio prašymu, – jo nurodytais su konsulinių funkcijų vykdymu susijusiais tikslais.
+1. Konsulinis pareigūnas arba įgaliotas darbuotojas užsienio valstybėje gyvenančio Lietuvos Respublikos piliečio, kuris kreipiasi dėl konsulinių funkcijų atlikimo, duomenis įrašo į Konsulinių procedūrų valdymo informacinę sistemą. Į Konsulinių procedūrų valdymo informacinę sistemą duomenys įrašomi ir užsienio valstybėje gyvenančio Lietuvos Respublikos piliečio prašymu. Šie duomenys naudojami tik konsulinei pagalbai šio statuto 14 straipsnyje nurodytais atvejais teikti, o įrašant duomenis Lietuvos Respublikos piliečio prašymu, – jo nurodytais su konsulinių funkcijų vykdymu susijusiais tikslais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
 
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
+
 2. Registracijos tvarką ir prašymų registruoti formas nustato Lietuvos Respublikos užsienio reikalų ministras.
 
 28 straipsnis. Gyvenamosios vietos deklaracijų priėmimas ir gyvenamosios vietos deklaravimo duomenų tvarkymas
 
-Konsulinis pareigūnas priima gyvenamosios vietos deklaracijas iš užsienio valstybėje gyvenančių asmenų ir tvarko šių asmenų gyvenamosios vietos deklaravimo duomenis Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo ir kitų teisės aktų nustatyta tvarka.
+Konsulinis pareigūnas arba įgaliotas darbuotojas priima gyvenamosios vietos deklaracijas iš užsienio valstybėje gyvenančių asmenų ir tvarko šių asmenų gyvenamosios vietos deklaravimo duomenis Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo ir kitų teisės aktų nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010ISTA00XI-467
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 29 straipsnis. Neteko galios nuo 2012-12-29
 
@@ -381,7 +407,11 @@ Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010IST
 
 1. Konsulinis pareigūnas turi teisę registruoti Lietuvos Respublikos piliečių gimimą, santuoką ir mirtį Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka.
 
-2. Konsulinis pareigūnas priima nuolat užsienio valstybėje gyvenančių Lietuvos Respublikos piliečių prašymus pakeisti vardą ir pavardę, ištaisyti, pakeisti, papildyti ar anuliuoti civilinės būklės aktų įrašus, atkurti neišlikusius civilinės būklės aktų įrašus ir perduoda juos Lietuvos Respublikos civilinės metrikacijos įstaigoms.
+2. Konsulinis pareigūnas arba įgaliotas darbuotojas priima nuolat užsienio valstybėje gyvenančių Lietuvos Respublikos piliečių prašymus pakeisti vardą ir pavardę, ištaisyti, pakeisti, papildyti ar anuliuoti civilinės būklės aktų įrašus, atkurti neišlikusius civilinės būklės aktų įrašus ir perduoda juos Lietuvos Respublikos civilinės metrikacijos įstaigoms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 Straipsnio pakeitimai:
 
@@ -429,7 +459,11 @@ Nr. XI-1034, 2010-09-23, Žin. 2010, Nr. 126-6459 (2010-10-26), i. k. 1101010IST
 
 33 straipsnis. Konsulinių pažymų išdavimas
 
-1. Konsulinis pareigūnas išduoda konsulines pažymas apie jam pateiktais faktais pagrįstas aplinkybes.
+1. Konsulinis pareigūnas arba įgaliotas darbuotojas priima asmenų prašymus dėl konsulinių pažymų išdavimo. Konsulinis pareigūnas išduoda konsulines pažymas apie jam pateiktais faktais pagrįstas aplinkybes.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 2. Konsulinio pareigūno išduodamų konsulinių pažymų sąrašą ir jų išdavimo tvarką nustato Lietuvos Respublikos užsienio reikalų ministras.
 
@@ -439,19 +473,31 @@ Konsulinis pareigūnas, gavęs Lietuvos Respublikos teismo prašymą dėl teisin
 
 35 straipsnis. Dokumentų perdavimas
 
-1. Konsulinis pareigūnas Lietuvos Respublikos piliečio prašymu gali kreiptis į kompetentingas Lietuvos Respublikos ar buvimo valstybės institucijas dėl dokumentų gavimo, jeigu Lietuvos Respublikos tarptautinės sutartys arba kiti teisės aktai nenustato kitaip.
+1. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos piliečio prašymu gali kreiptis į kompetentingas Lietuvos Respublikos ar buvimo valstybės institucijas dėl dokumentų gavimo, jeigu Lietuvos Respublikos tarptautinės sutartys arba kiti teisės aktai nenustato kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 2. Dokumentų pareikalavimo, gavimo ir perdavimo Lietuvos Respublikos piliečiams tvarką ir prašymų formą nustato Lietuvos Respublikos užsienio reikalų ministras, jei Lietuvos Respublikos tarptautinės sutartys nenustato kitaip.
 
 36 straipsnis. Dokumentų dėl pensijos skyrimo ir (ar) mokėjimo priėmimas ir perdavimas
 
-1. Konsulinis pareigūnas Lietuvos Respublikos užsienio reikalų ir Lietuvos Respublikos socialinės apsaugos ir darbo ministerijų nustatyta tvarka priima asmenų prašymus ir kitus dokumentus, būtinus pensijai skirti ir (ar) mokėti, ir perduoda juos kompetentingoms Lietuvos Respublikos valstybės ar savivaldybių institucijoms ar įstaigoms.
+1. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos užsienio reikalų ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka priima asmenų prašymus ir kitus dokumentus, būtinus pensijai skirti ir (ar) mokėti, ir perduoda juos kompetentingoms Lietuvos Respublikos valstybės ar savivaldybių institucijoms ar įstaigoms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 2. Asmens prašymas ir kiti dokumentai, būtini pensijai skirti, yra nepriimami, jei pagal Lietuvos Respublikos tarptautines sutartis ar Europos Sąjungos teisės aktus dokumentai turi būti pateikiami per atitinkamų valstybių kompetentingas įstaigas.
 
 37 straipsnis. Dokumentų dėl leidimo ginklui įvežti (išvežti) gavimo priėmimas ir perdavimas
 
-Konsulinis pareigūnas gali priimti asmens prašymus ir kitus dokumentus, kurie patvirtina ginklo įvežimo tikslą ir kurių pagal galiojančius teisės aktus reikia leidimui B, C ar D kategorijos ginklui įvežti į Lietuvos Respubliką (išvežti iš Lietuvos Respublikos) gauti, ir juos perduoda Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos.
+Konsulinis pareigūnas arba įgaliotas darbuotojas gali priimti asmens prašymus ir kitus dokumentus, kurie patvirtina ginklo įvežimo tikslą ir kurių pagal galiojančius teisės aktus reikia leidimui B, C ar D kategorijos ginklui įvežti į Lietuvos Respubliką (išvežti iš Lietuvos Respublikos) gauti, ir juos perduoda Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 38 straipsnis. Lietuvos Respublikos piliečių interesų apsauga palikimo užsienio valstybėje atsiradimo atveju
 
@@ -632,6 +678,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1992, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04587
 
 Lietuvos Respublikos konsulinio statuto 14 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
+
+Lietuvos Respublikos konsulinio statuto 2, 8, 9, 15, 16, 17, 20, 23, 25, 26, 27, 28, 31, 33, 35, 36 ir 37 straipsnių pakeitimo ir Statuto papildymo 7-1 ir 7-2 straipsniais įstatymas
 
 43 straipsnis
 
@@ -868,4 +922,22 @@ Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
 ANTRASIS SKIRSNIS
 
 KITOS KONSULINĖS FUNKCIJOS
+
+71 straipsnis. Konsulinės įstaigos bendradarbiavimas su išorės paslaugų teikėjais
+
+1. Konsulinė įstaiga, siekdama įgyvendinti jai pavestas užduotis ir atlikdama šio statuto III skyriaus antrajame skirsnyje nustatytas konsulines funkcijas, gali bendradarbiauti su išorės paslaugų teikėjais.
+
+2. Jeigu bendradarbiavimo su išorės paslaugų teikėju nereglamentuoja įstatymai ir Europos Sąjungos teisės aktai, su išorės paslaugų teikėju bendradarbiaujama Lietuvos Respublikos Vyriausybės nustatytais atvejais ir sąlygomis. Šiais atvejais išorės paslaugų teikėjas pasirenkamas Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
+
+72 straipsnis. Išvažiuojamosios konsulinės misijos
+
+Lietuvos Respublikos užsienio reikalų ministerija organizuoja išvažiuojamąsias konsulines misijas į užsienio valstybes ar jų dalis, kuriose nėra Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos, išskyrus Lietuvos Respublikos konsulines įstaigas, kurioms vadovauja garbės konsulinis pareigūnas. Išvažiuojamosios konsulinės misijos rengiamos konsulinėms funkcijoms atlikti ne konsulinių įstaigų patalpose, kai yra didelis konsulinių paslaugų poreikis. Išvažiuojamųjų konsulinių misijų organizavimo ir vykdymo tvarką nustato Lietuvos Respublikos užsienio reikalų ministras.
+
+Papildyta straipsniu:
+
+Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
