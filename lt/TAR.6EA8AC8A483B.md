@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2019-01-09"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2019-01-09 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-05-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -236,23 +236,43 @@ Straipsnio pakeitimai:
 
 Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
 
-12 straipsnis. Viešųjų keleivių vežimo geležinkelių transportu paslaugų teikimas
+12 straipsnis. Viešųjų keleivių vežimo geležinkelių transportu paslaugų, viešųjų kombinuotojo keleivių vežimo vietiniais maršrutais paslaugų teikimas
 
-1. Vyriausybės įgaliota institucija nustato viešųjų keleivių vežimo geležinkelių transportu paslaugų (toliau – viešosios paslaugos) poreikį Lietuvos Respublikoje ir užtikrina jų teikimą, sudarydama viešųjų paslaugų teikimo sutartis su geležinkelio įmonėmis (vežėjais).
+1. Vyriausybės įgaliota institucija nustato viešųjų keleivių vežimo geležinkelių transportu paslaugų ir (ar) viešųjų kombinuotojo keleivių vežimo vietiniais maršrutais paslaugų (toliau kartu – viešosios paslaugos) poreikį ir užtikrina jų teikimą, sudarydama viešųjų paslaugų teikimo sutartis su geležinkelio įmonėmis (vežėjais).
 
-2. Viešųjų paslaugų teikimo sutarčių turinį, trukmę, jų sudarymo sąlygas ir tvarką, geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensavimo tvarka nustatyta Reglamente (EB) Nr. 1370/2007.
+2. Geležinkelio įmonė (vežėjas) turi užtikrinti jos teikiamų viešųjų paslaugų atitiktį Vyriausybės įgaliotos institucijos nustatytiems viešųjų paslaugų teikimo kokybės reikalavimams, susijusiems, be kita ko, su traukinių, kelių transporto priemonių techniniais reikalavimais ir būkle, bendro traukinių ir kelių transporto priemonių tvarkaraščio (toliau – tvarkaraštis) laikymusi, keleivių informavimu ir jų aptarnavimu traukinyje ir (ar) kelių transporto priemonėje.
 
-3. Vyriausybės įgaliota institucija geležinkelio įmonę (vežėją) viešosioms paslaugoms teikti parenka konkurso būdu, vadovaudamasi Reglamento (EB) Nr. 1370/2007 3, 4, 5 straipsniais arba tiesiogiai sudarydama viešųjų paslaugų teikimo sutartis pagal Reglamento (EB) Nr. 1370/2007 5 straipsnyje nurodytas sąlygas.
+3. Geležinkelio įmonė (vežėjas), šio straipsnio 8 dalyje nustatyta tvarka parinkta teikti viešąsias kombinuotojo keleivių vežimo vietiniais maršrutais paslaugas:
 
-4. Geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensacijos apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija pagal Reglamento (EB) Nr. 1370/2007 priedo taisykles.
+1) turi turėti Lietuvos Respublikos kelių transporto kodekse nurodytą licenciją, kuria suteikiama teisė vežti keleivius autobusais Lietuvos Respublikoje (jeigu vežimą kelių transporto priemonėmis vykdo pati geležinkelio įmonė (vežėjas), arba užtikrinti, kad tokią licenciją turėtų keleivių vežimą kelių transporto priemonėmis vykdysiantis vežėjas;
 
-5. Valstybės lėšos, skirtos geležinkelio įmonei (vežėjui) viešosioms paslaugoms teikti, turi būti apskaitomos atskirai ir negali būti naudojamos kitai veiklai.
+2) turi užtikrinti, kad būtų sukurta ir veiktų bendra keleivių, vežamų kombinuotojo keleivių vežimo vietiniais maršrutais, informavimo ir bilietų sistema, sudarytas tvarkaraštis, kuriame būtų pateikta informacija apie traukinio ir kelių transporto priemonės išvykimo iš pradinės geležinkelio stoties ar kitos geležinkelio įmonės (vežėjo) nurodytos išvykimo vietos ir atvykimo į galinę geležinkelio stotį ar kitą geležinkelio įmonės (vežėjo) nurodytą paskirties vietą data ir laikas;
+
+3) turi užtikrinti, kad keleiviai būtų įlaipinami ir išlaipinami tik šios dalies 2 punkte nurodytame tvarkaraštyje nurodytose geležinkelio stotyse, stotelėse ir geležinkelio įmonės (vežėjo) nurodytoje išvykimo ar paskirties vietoje.
+
+4. Geležinkelio įmonė (vežėjas) pagal sudarytą sutartį su savivaldybe turi teisę pati ar pasitelkdama keleivių vežimą kelių transporto priemonėmis vykdysiantį vežėją vežti kelių transporto priemonėmis vietiniais maršrutais tos savivaldybės teritorijoje keleivius, kurie nesinaudojo ar nesinaudos kombinuotojo keleivių vežimo vietiniais maršrutais paslauga. Keleiviams, ketinantiems vykti tik kelių transporto priemone, bilietai parduodami tik tuo atveju, jeigu kelių transporto priemonėje yra laisvų sėdimų vietų, neužimtų keleivių, kurie naudojasi kombinuotojo keleivių vežimo vietiniais maršrutais paslauga.
+
+5. Už geležinkelio įmonės (vežėjo) įsipareigojimų, nustatytų viešųjų paslaugų teikimo sutartyje, nevykdymą atsako geležinkelio įmonė (vežėjas) ir tuo atveju, kai šie įsipareigojimai nevykdomi dėl keleivių vežimą kelių transporto priemonėmis vykdančio vežėjo, jeigu toks vežėjas pasitelktas, kaltės.
+
+6. Geležinkelio įmonė (vežėjas) pati keleivių vežimą kelių transporto priemonėmis vykdo tik tais atvejais, kai Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka paskelbtas pirkimas, kurio sąlygos turi būti suderintos su Viešųjų pirkimų tarnyba, keleivių vežimą kelių transporto priemonėmis vykdysiančiam vežėjui parinkti neįvyksta.
+
+7. Viešųjų paslaugų teikimo sutarčių turinys, trukmė, jų sudarymo tvarka, geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensavimo tvarka nustatyta Reglamente (EB) Nr. 1370/2007.
+
+8. Vyriausybės įgaliota institucija geležinkelio įmonę (vežėją) viešosioms paslaugoms teikti parenka konkurso būdu arba tiesiogiai sudarydama viešųjų paslaugų teikimo sutartis pagal Reglamente (EB) Nr. 1370/2007 nurodytas sąlygas.
+
+9. Geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensacijos apskaičiavimo tvarką pagal Reglamentą (EB) Nr. 1370/2007 ir tokių nuostolių kompensacijos planavimo ir mokėjimo tvarką, viešųjų paslaugų poreikio nustatymo kriterijus nustato Vyriausybė ar jos įgaliota institucija.
+
+10. Valstybės lėšos, skirtos geležinkelio įmonei (vežėjui) viešosioms paslaugoms teikti, turi būti apskaitomos atskirai ir negali būti naudojamos kitai veiklai.
 
 Straipsnio pakeitimai:
 
 Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 
 Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 13 straipsnis. Lietuvos Respublikos geležinkelių riedmenų registras
 
@@ -726,7 +746,11 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 34 straipsnis. Keleivių ir bagažo vežimo užmokestis
 
-1. Keleivių vežimo vietinio susisiekimo maršrutais tarifus nustato geležinkelio įmonė (vežėjas). Didžiausi tarifai turi būti suderinti su Valstybine kainų ir energetikos kontrolės komisija. Bagažo vežimo vietinio susisiekimo maršrutais tarifus nustato geležinkelio įmonė (vežėjas).
+1. Keleivių vežimo vietinio susisiekimo maršrutais, įskaitant kombinuotąjį keleivių vežimą vietiniais maršrutais, tarifus nustato geležinkelio įmonė (vežėjas). Didžiausi tarifai turi būti suderinti su Valstybine kainų ir energetikos kontrolės komisija. Bagažo vežimo vietinio susisiekimo maršrutais tarifus nustato geležinkelio įmonė (vežėjas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 2. Keleivių ir bagažo vežimo tarptautinio susisiekimo maršrutais užmokestį nustato geležinkelio įmonė (vežėjas) Lietuvos Respublikos tarptautinių sutarčių dėl tarptautinio susisiekimo nustatyta tvarka.
 
@@ -1168,29 +1192,45 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 101 straipsnis. Privalomasis civilinės atsakomybės draudimas
 
-1. Geležinkelio įmonių (vežėjų) ir šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių civilinė atsakomybė privalo būti draudžiama privalomuoju civilinės atsakomybės draudimu, kurio objektas yra draudėjo turtiniai interesai, susiję su draudėjo civiline atsakomybe trečiajam asmeniui už žalą, atsiradusią dėl draudėjo vykdomos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje ir (ar) geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos.
+1. Geležinkelio įmonių (vežėjų) ir šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių civilinė atsakomybė privalo būti draudžiama privalomuoju civilinės atsakomybės draudimu, kurio objektas yra draudėjo turtiniai interesai, susiję su draudėjo civiline atsakomybe trečiajam asmeniui už žalą, atsiradusią dėl draudėjo vykdomos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje, kombinuotojo keleivių vežimo vietiniais maršrutais ir (ar) geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 2. Minimali geležinkelio įmonės (vežėjo) privalomojo civilinės atsakomybės draudimo suma turi būti 290 000 eurų vienam draudžiamajam įvykiui ir 725 000 eurų visiems draudžiamiesiems įvykiams per metus.
 
 3. Minimali šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės privalomojo civilinės atsakomybės draudimo suma turi būti 58 000 eurų vienam draudžiamajam įvykiui ir 145 000 eurų visiems draudžiamiesiems įvykiams per metus.
 
-4. Draudžiamasis įvykis yra geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių civilinės atsakomybės atsiradimas dėl draudimo sutarties galiojimo metu geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdytos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje ar geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos pasekmių, net jeigu šios pasekmės atsirado pasibaigus draudimo sutarčiai, jeigu draudėjui ar draudikui pareikštas reikalavimas atlyginti žalą atitinka visas šias sąlygas:
+4. Draudžiamasis įvykis yra geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių civilinės atsakomybės atsiradimas dėl draudimo sutarties galiojimo metu geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdytos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje, kombinuotojo keleivių vežimo vietiniais maršrutais ar geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos pasekmių, net jeigu šios pasekmės atsirado pasibaigus draudimo sutarčiai, jeigu draudėjui ar draudikui pareikštas reikalavimas atlyginti žalą atitinka visas šias sąlygas:
 
-1) yra pateiktas kaip rašytinė pretenzija arba ieškinys;
+1) yra pateiktas kaip rašytinė pretenzija arba ieškinys;
 
-2) yra pareikštas draudimo sutarties galiojimo metu ir draudimo sutarties šalių nustatytu laikotarpiu, ne trumpesniu negu vieni metai nuo draudimo sutarties pabaigos;
+2) yra pareikštas draudimo sutarties galiojimo metu ir draudimo sutarties šalių nustatytu laikotarpiu, ne trumpesniu negu vieni metai nuo draudimo sutarties pabaigos;
 
-3) yra pareikštas dėl žalos, kuri atsirado dėl geležinkelio įmonės (vežėjo) vykdomos keleivių, bagažo vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje veiklos ir (ar) geležinkelio įmonės (vežėjo) vykdomos krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje veiklos ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdomos geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos.
+3) yra pareikštas dėl žalos, kuri atsirado dėl geležinkelio įmonės (vežėjo) vykdomos keleivių, bagažo vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje, kombinuotojo keleivių vežimo vietiniais maršrutais veiklos ir (ar) geležinkelio įmonės (vežėjo) vykdomos krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje veiklos ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdomos geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 5. Vienu draudžiamuoju įvykiu laikomas įvykis, kai geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės tais pačiais neteisėtais veiksmais padarė žalą, neatsižvelgiant į tai, kad dėl tokio įvykio buvo padaryta žalos daugiau negu vienam nukentėjusiam trečiajam asmeniui. Jeigu žalos padarymo momento neįmanoma nustatyti, laikoma, kad žala padaryta tuo momentu, kai geležinkelio įmonei (vežėjui) ar šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms ar draudikui buvo pareikštas pirmasis reikalavimas atlyginti žalą.
 
-6. Jeigu trečiajam asmeniui dėl geležinkelio įmonės (vežėjo) vykdomos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdomos geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos padaryta žala padidėjo po to, kai trečiasis asmuo pareiškė draudėjui ar draudikui šio straipsnio 4 dalyje nustatytas sąlygas atitinkantį reikalavimą, vėlesnis reikalavimo atlyginti padidėjusią žalą pateikimas yra draudžiamasis įvykis, jeigu jis pateiktas nepažeidžiant Civilinio kodekso 1.125 straipsnio 8 dalyje nustatyto ieškinio senaties termino.
+6. Jeigu trečiajam asmeniui dėl geležinkelio įmonės (vežėjo) vykdomos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje, kombinuotojo keleivių vežimo vietiniais maršrutais ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdomos geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos padaryta žala padidėjo po to, kai trečiasis asmuo pareiškė draudėjui ar draudikui šio straipsnio 4 dalyje nustatytas sąlygas atitinkantį reikalavimą, vėlesnis reikalavimo atlyginti padidėjusią žalą pateikimas yra draudžiamasis įvykis, jeigu jis pateiktas nepažeidžiant Civilinio kodekso 1.125 straipsnio 8 dalyje nustatyto ieškinio senaties termino.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 7. Draudikas yra atleidžiamas nuo išmokos mokėjimo, jeigu:
 
 1) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių ir (ar) trečiųjų asmenų veiksmų siekiant neteisėtai gauti draudimo išmoką;
 
-2) žala atsirado dėl kitos geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių veiklos, nesusijusios su keleivių, bagažo ir (ar) krovinių vežimu vietiniais ir (ar) tarptautiniais maršrutais ar geležinkelių riedmenų naudojimu;
+2) žala atsirado dėl kitos geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių veiklos, nesusijusios su keleivių, bagažo ir (ar) krovinių vežimu vietiniais ir (ar) tarptautiniais maršrutais, kombinuotuoju keleivių vežimu vietiniais maršrutais ar geležinkelių riedmenų naudojimu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 3) atsirado finansinė žala, kuri nėra susijusi su žalos padarymu trečiojo asmens turtui, sveikatai, gyvybei ir (ar) neatsirado kaip žalos nukentėjusio trečiojo asmens turtui, sveikatai, gyvybei pasekmė;
 
@@ -1532,11 +1572,7 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 3. Šio Kodekso 301 straipsnio 1–4, 7 ir 9 punktuose nurodytus geležinkelių paslaugų įrenginius valdantis geležinkelių paslaugų įrenginių operatorius, kurį tiesiogiai ar netiesiogiai kontroliuoja įstaiga arba įmonė, veikianti ir užimanti dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, kurioje naudojami šioje dalyje nurodyti geležinkelių paslaugų įrenginiai, savo vidine organizacine struktūra, nuo kurios priklauso funkcijų paskirstymas, vykdymas ir kontrolė, ir priimdamas sprendimus turi būti nepriklausomas nuo jį tiesiogiai ar netiesiogiai kontroliuojančios įstaigos arba įmonės, veikiančios ir užimančios dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, tai yra geležinkelių paslaugų įrenginių operatorių tiesiogiai ar netiesiogiai kontroliuojanti įstaiga arba įmonė, veikianti ir užimanti dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, negali daryti įtakos geležinkelių paslaugų įrenginių operatoriaus priimamiems sprendimams.
 
-TAR pastaba. 3 dalis įsigalioja 2017-01-01.
-
 4. Geležinkelių paslaugų įrenginių operatoriaus organizacinio ir sprendimų priėmimo nepriklausomumo užtikrinimas nereiškia, kad turi būti įsteigtas atskiras juridinis asmuo ir kad šį reikalavimą galima įvykdyti atitinkamai organizuojant skirtingus to paties juridinio asmens padalinius. Šiuo atveju geležinkelių paslaugų įrenginių operatoriaus nepriklausomumas turi būti užtikrinamas tarp juridinio asmens padalinio (padalinių), vykdančio (vykdančių) juridinio asmens veiklą ir užimančio dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, ir juridinio asmens padalinio (padalinių), vykdančio (vykdančių) geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–4, 7 ir 9 punktuose, valdymo veiklą.
-
-TAR pastaba. 4 dalis įsigalioja 2017-01-01.
 
 41. Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai, perduodami viešosios geležinkelių infrastruktūros valdytojui valdyti, naudoti ir jais disponuoti patikėjimo teise pagal patikėjimo sutartį, kurią su viešosios geležinkelių infrastruktūros valdytoju sudaro Susisiekimo ministerija.
 
@@ -1546,11 +1582,7 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 5. Geležinkelių paslaugų įrenginių operatorius privalo atskirai tvarkyti geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–9 punktuose, valdymo apskaitą, sudaryti atskiras pelno (nuostolių) ataskaitas ir balansus.
 
-TAR pastaba. 5 dalis įsigalioja 2017-01-01.
-
 6. Tuo atveju, kai geležinkelių paslaugų įrenginių valdymo veiklą vykdo geležinkelių infrastruktūros valdytojas arba geležinkelių paslaugų įrenginių operatorių tiesiogiai ar netiesiogiai valdo geležinkelių infrastruktūros valdytojas ir yra įvykdyti šio Kodekso 7 straipsnio 3 dalies 5 ir 6 punktuose, 25 straipsnio 7 dalyje ir 29 straipsnio 1 dalyje nurodyti reikalavimai, laikoma, kad įvykdyti ir šio straipsnio 3 ir 5 dalyse nurodyti reikalavimai.
-
-TAR pastaba. 6 dalis įsigalioja 2017-01-01.
 
 7. Geležinkelių paslaugų įrenginių operatorius į geležinkelio įmonių (vežėjų) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių prašymus dėl prieigos prie šio Kodekso 301 straipsnio 1–9 punktuose nurodytų geležinkelių paslaugų įrenginių ir šiuose įrenginiuose teikiamų paslaugų turi atsakyti per pagrįstą laikotarpį, kurį nustato rinkos reguliuotojas. Šioje dalyje nurodyti prašymai atmetami tik tada, kai yra perspektyvių alternatyvų teikti atitinkamas keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugas tokiu pačiu arba alternatyviu maršrutu ekonomiškai priimtinomis sąlygomis. Geležinkelių paslaugų įrenginių operatorius neprivalo investuoti į išteklius arba geležinkelių paslaugų įrenginius tik dėl to, kad būtų patenkinti visi geležinkelio įmonių (vežėjų) ir šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių prašymai.
 
@@ -1631,4 +1663,20 @@ REIKALAVIMAI GELEŽINKELIŲ TRANSPORTO DARBUOTOJAMS
 Papildyta straipsniu:
 
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+
+121 straipsnis. Viešųjų paslaugų teikimo sutarčių nutraukimas
+
+1. Vyriausybės įgaliota institucija priima sprendimą nutraukti viešųjų paslaugų teikimo sutartį Civiliniame kodekse, šiame straipsnyje ir viešųjų paslaugų teikimo sutartyje nustatytais pagrindais.
+
+2. Vyriausybės įgaliota institucija privalo nutraukti viešųjų paslaugų teikimo sutartį:
+
+1) jeigu paaiškėja, kad geležinkelio įmonė (vežėjas) neatitinka viešąsias paslaugas teikiančiai geležinkelio įmonei (vežėjui) šiame Kodekse nustatytų reikalavimų, geležinkelio įmonės (vežėjo) teikiamos viešosios paslaugos neatitinka Vyriausybės įgaliotos institucijos nustatytų viešųjų paslaugų teikimo kokybės reikalavimų ir geležinkelio įmonė (vežėjas) nepašalina šių trūkumų per Vyriausybės įgaliotos institucijos nustatytą terminą;
+
+2) Vyriausybės įgaliotai institucijai nustačius, kad nebėra poreikio teikti viešųjų paslaugų.
+
+3. Vyriausybės įgaliota institucija apie ketinimą nutraukti viešųjų paslaugų teikimo  sutartį ir šios sutarties nutraukimą geležinkelio įmonę (vežėją) informuoja viešųjų paslaugų teikimo sutartyje nustatyta tvarka ir terminais.
+
+Papildyta straipsniu:
+
+Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
