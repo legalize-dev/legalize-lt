@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2019-02-09"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2019-02-09 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -1755,7 +1755,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
 
-part_9e41df4158144eb0852e2317fc750c2a_end
+part_40e8360527284459a23aeb71a75e9a4c_end
 
 Pakeitimai:
 
@@ -2815,7 +2815,11 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 3. Receptinių vaistinių preparatų grupėje nustatomas vaistinių preparatų, kuriems taikomi specialūs sveikatos apsaugos ministro nustatyti išrašymo reikalavimai, pogrupis. Jam priskiriami vaistiniai preparatai, atitinkantys nors vieną iš šių kriterijų:
 
-1) jų sudėtyje yra narkotinių ar psichotropinių medžiagų, įrašytų į Lietuvos Respublikos sveikatos apsaugos ministro tvirtinamų narkotinių ir psichotropinių medžiagų sąrašų II sąrašą (Narkotinės ir psichotropinės medžiagos, leidžiamos vartoti medicinos tikslams);
+1) jų sudėtyje yra narkotinių ar psichotropinių medžiagų, įrašytų į Lietuvos Respublikos sveikatos apsaugos ministro tvirtinamų narkotinių ir psichotropinių medžiagų sąrašų I sąrašą (Narkotinės ir psichotropinės medžiagos, draudžiamos vartoti medicinos tikslais, išskyrus atvejus, kai į I sąrašą įrašytos medžiagos yra registruoto vaistinio preparato sudėtyje) ir II sąrašą (Narkotinės ir psichotropinės medžiagos, leidžiamos vartoti medicinos tikslams);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1530, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16539
 
 2) netinkamai vartojami jie gali kelti didelį piktnaudžiavimo pavojų, sukelti priklausomybę arba gali būti vartojami neteisėtais tikslais;
 
