@@ -4,7 +4,7 @@ identifier: "TAR.303FC0152D04"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2018-07-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
 
@@ -397,37 +397,25 @@ PENKTASIS SKIRSNIS
 
 REKLAMOS PRIEŽIŪRA
 
-19 straipsnis. Reklamos priežiūros institucijos
+19 straipsnis. Reklamos priežiūros institucijos
 
 1. Šiame įstatyme nustatytų reikalavimų įgyvendinimo priežiūrą, vadovaudamiesi šiuo ir kitais įstatymais, pagal kompetenciją atlieka:
 
-1) Valstybinė vartotojų teisių apsaugos tarnyba – dėl šio įstatymo 4, 7, 8, 9, 11, 13 straipsnių, 14 straipsnio (nagrinėja šiame straipsnyje nustatytų reikalavimų pažeidimus ir skiria baudas dėl pažeidimų, ištirtų savo iniciatyva, arba pagal Valstybinės maisto ir veterinarijos tarnybos pateiktus pažeidimų tyrimo dokumentus su atlikto tyrimo išvadomis (aktą, protokolą ar kitą dokumentą) (toliau – tyrimo dokumentas), 15, 16, 17 ir 18 straipsnių nuostatų;
+1) Valstybinė vartotojų teisių apsaugos tarnyba – dėl šio įstatymo 4, 5, 6, 7, 8, 9, 11, 13 straipsnių, 14 straipsnio (nagrinėja šiame straipsnyje nustatytų reikalavimų pažeidimus ir skiria baudas dėl pažeidimų, ištirtų savo iniciatyva, arba pagal Valstybinės maisto ir veterinarijos tarnybos pateiktus pažeidimų tyrimo dokumentus su atlikto tyrimo išvadomis (aktą, protokolą ar kitą dokumentą) (toliau – tyrimo dokumentas), 15, 16, 17 ir 18 straipsnių nuostatų;
 
-2) Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba) – dėl šio įstatymo 5 ir 6 straipsnių nuostatų;
+2) Valstybinė maisto ir veterinarijos tarnyba – dėl šio įstatymo 14 straipsnio nuostatų (atlieka tyrimą dėl šiame straipsnyje nustatytų reikalavimų pažeidimo ir surašo tyrimo dokumentus);
 
-3) Valstybinė maisto ir veterinarijos tarnyba – dėl šio įstatymo 14 straipsnio nuostatų (atlieka tyrimą dėl šiame straipsnyje nustatytų reikalavimų pažeidimo ir surašo tyrimo dokumentus);
+3) savivaldybių vykdomosios institucijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų;
 
-4) savivaldybių vykdomosios institucijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų;
+4) Kultūros paveldo departamentas prie Kultūros ministerijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose);
 
-Straipsnio punkto pakeitimai:
+5) saugomų teritorijų direkcija arba Aplinkos apsaugos departamentas, kai saugomoje teritorijoje nėra įsteigtos saugomų teritorijų direkcijos, – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo saugomose teritorijose).
 
-Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+2. Šio straipsnio 1 dalyje nurodytos institucijos (toliau – priežiūros institucijos), atlikdamos reklamos naudojimo priežiūrą, bendradarbiauja su reklamos savitvarkos institucijomis.
 
-5) Kultūros paveldo departamentas prie Kultūros ministerijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose);
+Straipsnio pakeitimai:
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
-
-6) saugomų teritorijų direkcija arba Aplinkos apsaugos departamentas, kai saugomoje teritorijoje nėra įsteigtos saugomų teritorijų direkcijos, – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo saugomose teritorijose).
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
-
-2. Konkurencijos taryba yra atsakinga už Reglamento (EB) Nr. 2006/2004 taikymą, kiek tai susiję su Konkurencijos tarybos funkcijomis prižiūrint, ar reklama nėra klaidinanti, ir lyginamąją reklamą.
-
-3. Šio straipsnio 1 dalyje nurodytos institucijos (toliau – priežiūros institucijos), atlikdamos reklamos naudojimo priežiūrą, bendradarbiauja su reklamos savitvarkos institucijomis.
+Nr. XIII-2010, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05340
 
 20 straipsnis. Reklamos savitvarka ir reklamos savitvarkos institucijos
 
@@ -461,13 +449,11 @@ Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
 7) įstatymų nustatytais atvejais skirti baudas.
 
-2. Konkurencijos taryba, be šio straipsnio 1 dalyje nustatytų teisių, turi:
+2. Valstybinė vartotojų teisių apsaugos tarnyba, be šio straipsnio 1 dalyje nustatytų teisių, turi teisę įpareigoti reklaminės veiklos subjektus, kurių reklama pripažinta klaidinančia ar neleidžiama lyginamąja, ją paneigti ir nustatyti šio įpareigojimo įvykdymo terminus, tvarką ir sąlygas.
 
-1) teisę įpareigoti reklaminės veiklos subjektus, kurių reklama pripažinta klaidinančia ar neleidžiama lyginamąja, ją paneigti ir nustatyti šio įpareigojimo įvykdymo terminus, tvarką ir sąlygas;
+Straipsnio dalies pakeitimai:
 
-2) Reglamente (EB) Nr. 2006/2004 kompetentingai institucijai numatytas teises, kiek tai susiję su Konkurencijos tarybos funkcijomis prižiūrint, ar reklama nėra klaidinanti, ir lyginamąją reklamą;
-
-3) teisę nustatyti Konkurencijos tarybos veiklos, atliekant reklamos naudojimo priežiūrą, prioritetus, kurie skelbiami Konkurencijos tarybos interneto svetainėje.
+Nr. XIII-2010, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05340
 
 3. Priežiūros institucijų darbuotojams draudžiama atskleisti jiems patikėtą reklaminės veiklos subjektų ar kitų asmenų, į kuriuos kreipiasi priežiūros institucija dėl šiame įstatyme nustatytų reikalavimų pažeidimui tirti reikalingų dokumentų ar kitos informacijos pateikimo (toliau – kiti asmenys), komercinę paslaptį, išskyrus įstatymų nustatytus atvejus.
 
@@ -495,11 +481,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
 
-2. Už priežiūros institucijų laikino įpareigojimo sustabdyti reklamos skleidimą nevykdymą, įpareigojimo nutraukti šiame įstatyme nustatytų reikalavimų neatitinkančios reklamos naudojimą nevykdymą ar netinkamą jo vykdymą, už reklamos, kurios naudojimą reklaminės veiklos subjektas buvo įpareigotas nutraukti, pakartotinį naudojimą, jeigu tai pažeidžia šiame įstatyme nustatytus reikalavimus, arba Konkurencijos tarybos įpareigojimo paneigti klaidinančią ar neleidžiamą lyginamąją reklamą nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną įpareigojimų nevykdymo, netinkamo vykdymo ar reklamos pakartotinio naudojimo dieną.
+2. Už priežiūros institucijų laikino įpareigojimo sustabdyti reklamos skleidimą nevykdymą, įpareigojimo nutraukti šiame įstatyme nustatytų reikalavimų neatitinkančios reklamos naudojimą nevykdymą ar netinkamą vykdymą, už reklamos, kurios naudojimą reklaminės veiklos subjektas buvo įpareigotas nutraukti, pakartotinį naudojimą, jeigu tai pažeidžia šiame įstatyme nustatytus reikalavimus, arba Valstybinės vartotojų teisių apsaugos tarnybos įpareigojimo paneigti klaidinančią ar neleidžiamą lyginamąją reklamą nevykdymą ar netinkamą vykdymą reklaminės veiklos subjektams skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną įpareigojimų nevykdymo, netinkamo vykdymo ar reklamos pakartotinio naudojimo dieną.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
+
+Nr. XIII-2010, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05340
 
 3. Už priežiūros institucijų reikalavimo pateikti informaciją ir dokumentus, o prireikus – ir reklamuojamų prekių ir reklamos pavyzdžius, reikalingus šiame įstatyme nustatytų reikalavimų pažeidimui tirti, nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama bauda nuo dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 
@@ -565,7 +553,11 @@ Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
 6. Motyvuotu priežiūros institucijos nutarimu arba motyvuotu jos įgalioto pareigūno sprendimu taip pat gali būti atsisakoma pradėti pranešimo (skundo) nagrinėjimo procedūrą, jeigu reklamos savitvarkos institucija pateikia priežiūros institucijai dokumentą, patvirtinantį, kad pranešime (skunde) nurodyti faktai jau buvo nagrinėti, dėl jų reklamos savitvarkos institucija yra priėmusi sprendimą ir šiame įstatyme nustatytų reikalavimų pažeidimą padaręs reklaminės veiklos subjektas nutraukė pažeidimą.
 
-7. Konkurencijos taryba arba jos įgaliotas pareigūnas, be šio straipsnio 5 ir 6 dalyse nurodytų pranešimo (skundo) nagrinėjimo atsisakymo atvejų, gali atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą, jeigu pranešime (skunde) nurodyto šiame įstatyme nustatytų reikalavimų pažeidimo nagrinėjimas neatitinka Konkurencijos tarybos veiklos prioritetų. Ši nuostata netaikoma, jeigu pranešime (skunde) yra faktinių duomenų, leidžiančių pagrįstai įtarti, kad pažeidimas daro esminę žalą šio įstatymo saugomiems asmenų interesams.
+7. Neteko galios 2019-05-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2010, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05340
 
 8. Motyvuotas priežiūros institucijos nutarimas pradėti pranešimo (skundo) nagrinėjimo procedūrą, motyvuotas priežiūros institucijos nutarimas arba motyvuotas priežiūros institucijos įgalioto pareigūno sprendimas atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą turi būti priimtas ne vėliau kaip per 30 kalendorinių dienų nuo šio straipsnio 4 dalyje nurodytus reikalavimus atitinkančio pranešimo (skundo) gavimo dienos, išskyrus šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytus atvejus. Apie priimtą priežiūros institucijos nutarimą arba priežiūros institucijos įgalioto pareigūno sprendimą pareiškėjas informuojamas raštu ne vėliau kaip per 3 darbo dienas nuo nutarimo ar sprendimo priėmimo dienos. Šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytais atvejais motyvuotas priežiūros institucijos nutarimas arba motyvuotas priežiūros institucijos įgalioto pareigūno sprendimas atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą turi būti priimtas ir apie tai pareiškėjas turi būti informuotas ne vėliau kaip per 5 darbo dienas nuo pranešimo (skundo) gavimo dienos.
 
@@ -766,6 +758,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
 Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2010, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05340
+
+Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas
 
 211 straipsnis. Komercinių paslapčių apsauga
 
