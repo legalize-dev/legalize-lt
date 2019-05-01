@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2018-11-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2018-11-01
+Suvestinė redakcija nuo 2019-05-01 iki 2019-12-19
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -658,6 +658,12 @@ Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
 
 12) leidžiama įrengti saulės šviesos energijos elektrines, saulės šilumos energijos kolektorius tik ant pastatų stogų ir (ar) pastatų fasadų, kurie nėra matomi nuo gamtos ir kultūros paveldo objektų (kompleksų), gatvės, kelio ar apžvalgos vietų (regyklų), turizmo trasų. Gyvenamojo prioriteto funkcinėse zonose jų įrengimas reglamentuojamas valstybinio parko nuostatuose. Pastatuose ar sodybose, kurie yra kultūros paveldo objektai, šių inžinerinių statinių (įrenginių) statyba draudžiama;
 
+13) ne sodyboje žemės ūkio paskirties žemėje leidžiama statyti inžinerinius statinius – stogines, skirtas laisvai laikomų žolėdžių ūkinių gyvūnų, įregistruotų Ūkinių gyvūnų registre, prieglobsčiui nuo kritulių ir vėjo, kai pievų ir ganyklų plotai nuosavybės ar kitais teisėtais pagrindais valdomoje žemėje yra ne mažesni kaip 20 hektarų (ne daugiau kaip 1 stoginę nurodytame plote). Stoginės įrengiamos be patalpų su ne daugiau kaip 3 išorinėmis sienomis ar be jų, leistinas aukštis – iki 6 metrų, užstatytas plotas – iki 150 kvadratinių metrų. Šios stoginės negali būti statomos natūraliose pievose, saugomų augalų ir vabzdžių rūšių radavietėse, arčiau kaip 100 metrų nuo paviršinio vandens telkinio kranto, taip pat nurodytose vietose negali būti sandėliuojami pašarai ir organizuojamas žolėdžių ūkinių gyvūnų papildomas šėrimas. Jeigu žolėdžiai ūkiniai gyvūnai nebelaikomi pievų ir ganyklų plote, kuriame yra stoginė gyvūnams laikyti, ji turi būti pašalinta ne vėliau kaip per 6 mėnesius po to, kai žolėdžiai ūkiniai gyvūnai buvo išgabenti. Stoginės pastatymo vietos parinkimo, jos formos, medžiagų, iš kurių ji statoma, reikalavimai ir derinimo tvarka nustatoma valstybinio parko nuostatuose.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
+
 4. Atsižvelgiant į etnografinio regiono architektūros tradicijas, valstybinio parko miestelių ir kaimų architektūros, kraštovaizdžio ypatumus, paveldo objektų, kraštovaizdžio, gamtos ir nekilnojamųjų kultūros vertybių apsaugos poreikius, valstybinio parko nuostatuose apibrėžiami valstybinio parko steigimo tikslai, jo išskirtinė vertė, detalizuojami šio straipsnio 2 dalyje nustatyti apsaugos reikalavimai, nustatomi etnografinio regiono architektūros ir sodybų planavimo tradicijomis pagrįsti reikalavimai.
 
 Straipsnio dalies pakeitimai:
@@ -888,6 +894,12 @@ Nr. XII-413, 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
 
 3) šios dalies 1 ir 2 punktuose nurodytose pakrantės dalyse gali būti aptverti statiniai ar įrenginiai dėl jų eksploatavimo saugumo (kai tai numatyta normatyviniuose dokumentuose), paveldo objektai, parkai ir kiti atskirieji želdynai, botanikos, zoologijos sodai, dendrologinės kolekcijos, vaikų poilsiui skirtos teritorijos, teritorijos, kuriose įgyvendinamos gamtotvarkos priemonės (kai tai numatyta saugomos teritorijos gamtotvarkos plane);
 
+4) šios dalies 1 ir 2 punktuose nurodytos pakrantės dalys gali būti aptvertos žolėdžiams ūkiniams gyvūnams ganyti, jeigu ganykla deklaruota žemės ūkio ministro nustatyta tvarka ir joje ganomi Ūkinių gyvūnų registre įregistruoti žolėdžiai ūkiniai gyvūnai. Ganykla gali būti aptveriama tik įrengiant vielinį ganyklos aptvarą, įskaitant elektrinį, kuris gali būti laikomas pastatytas tik tuo metu, kai ganykloje ganomi žolėdžiai ūkiniai gyvūnai. Šios dalies 1 ir 2 punktuose nurodytose pakrantės dalyse ganyklos aptvare privaloma, laikantis aplinkos ministro nustatytų reikalavimų, įrengti vartus ar kitas priemones asmenims pereiti per ganyklą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
+
 9. Jeigu dėl įvykusios kranto erozijos (vandens telkinio kranto linijos pasislinkimo) nebeužtikrinamas šio straipsnio 8 dalyje nurodytas reikalavimas dėl užtvėrimų nebuvimo, žemės savininkas ar valdytojas gali imtis priemonių atkurti erozijos pažeistą pakrantę. Jeigu pakrantės atkūrimo priemonės nevykdomos, užvėrimai iš šio straipsnio 8 dalies 1 ir 2 punkte nurodyto pločio pakrantės dalies turi būti pašalinti per vienerius metus nuo kranto erozijos fakto paaiškėjimo. Kranto erozijos fakto paaiškėjimo momentu laikomas valstybinio aplinkos apsaugos inspektoriaus ar valstybinio saugomų teritorijų pareigūno surašytas aktas, kuriuo, įvertinus kranto būklę ir erozijos tendencijas, konstatuojama, kad reikalavimas dėl užtvėrimų pakrantėje nebuvimo neįvykdomas dėl įvykusios kranto erozijos.
 
 10. Asmenų teisė naudoti vandens telkinio pakrantės apsaugos juostą apsistoti yra neatskiriama nuo pareigos užtikrinti, kad apsistojimo vietoje aplinka nebūtų teršiama atliekomis ir kad čia esančios atliekos būtų surinktos ir išvežtos (išneštos). Apsistojimu pakrantėje laikomas asmenų buvimas vienoje vietoje ilgesnį laiką negu reikia pereiti pakrantės apsaugos juostą. Jeigu pasirinktoje apsistoti vandens telkinio pakrantės apsaugos juostos dalyje yra nurodyta informacija (pastatytas Vyriausybės įgaliotos institucijos rekomenduojamos formos informacinis ženklas) apie tai, kad žemės sklypas yra privati nuosavybė, savarankiškai pakrantės apsaugos juostoje apsistosiantys asmenys be žemės savininko sutikimo gali apsistoti tik šviesiu paros metu (ne anksčiau kaip pusantros valandos iki saulės patekėjimo ir ne vėliau kaip pusantros valandos saulei nusileidus) šio straipsnio 8 dalies 1 ir 2 punktuose nurodytoje pakrantės apsaugos juostos dalyje.
@@ -974,7 +986,11 @@ Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
 6. Šio straipsnio 1, 2, 3, 4 ir 5 dalyse nurodytų saugomų teritorijų steigimo kriterijus nustato Vyriausybė arba jos įgaliota institucija.
 
-7. Kultūros paveldo objektai ir vietovės (nekilnojamosios kultūros vertybės) skelbiami saugomais, jų teritorijos ir apsaugos zonos nustatomos Nekilnojamojo kultūros paveldo apsaugos įstatymo nustatyta tvarka.
+7. Kultūros paveldo objektai ir vietovės (nekilnojamosios kultūros vertybės) skelbiami saugomais, jų teritorijos ir apsaugos zonos nustatomos Nekilnojamojo kultūros paveldo apsaugos įstatymo nustatyta tvarka. Valstybiniuose parkuose, valstybiniuose rezervatuose ir valstybiniuose draustiniuose esančių kultūros paveldo vietovių teritorijų ribos nustatomos vadovaujantis šio Įstatymo nustatyta tvarka rengiamuose saugomų teritorijų specialiojo teritorijų planavimo dokumentuose, vadovaujantis Nekilnojamojo kultūros paveldo apsaugos įstatymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2095, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07052
 
 8. Pasiūlymai steigti valstybinius rezervatus, valstybinius parkus, valstybinius draustinius, biosferos stebėsenos (monitoringo) teritorijas turi būti pagrįsti moksliniais tyrimais, kurių pagrindu parengiama atitinkamos saugomos teritorijos planavimo schema (ribų ir tvarkymo planas) arba ribų planas.
 
@@ -1148,11 +1164,19 @@ Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
 3) biosferos poligonų ribų planai – rengiami biosferos poligonams steigti, jų riboms ir funkcinio prioriteto zonų riboms nustatyti ar joms keisti;
 
-4) valstybinių parkų, valstybinių rezervatų ir biosferos rezervatų planavimo schemos (ribų ir tvarkymo planai) – rengiamos (rengiami) šioms saugomoms teritorijoms steigti ir (ar) veiklai jose vykdyti. Šiose planavimo schemose (ribų ir tvarkymo planuose) nustatomos atitinkamos saugomos teritorijos ribos, funkcinio prioriteto zonų ribos, kraštovaizdžio apsaugai ir naudojimui reguliuoti skirtos kraštovaizdžio tvarkymo zonos ir jų reglamentai, gamtos ir kultūros paveldo teritorinių kompleksų ir objektų (vertybių) apsaugos ir tvarkymo kryptys bei priemonės, taip pat kraštovaizdžio formavimo, rekreacinės infrastruktūros kūrimo ir kitos tvarkymo priemonės. Kai valstybiniuose ir savivaldybių draustiniuose reikia nustatyti kraštovaizdžio tvarkymo zonas ir jų reglamentus, gali būti rengiami šių draustinių tvarkymo planai, kuriuos pagal kompetenciją tvirtina Vyriausybės įgaliotos institucijos arba savivaldybių tarybos.
+4) valstybinių parkų, valstybinių rezervatų ir biosferos rezervatų planavimo schemos (ribų ir tvarkymo planai) – rengiamos (rengiami) šioms saugomoms teritorijoms steigti ir (ar) veiklai jose vykdyti. Šiose planavimo schemose (ribų ir tvarkymo planuose) nustatomos atitinkamos saugomos teritorijos ribos, funkcinio prioriteto zonų, įskaitant kultūrinius draustinius ar kultūros paveldo vietoves, ribos, kraštovaizdžio apsaugai ir naudojimui reguliuoti skirtos kraštovaizdžio tvarkymo zonos ir jų reglamentai, gamtos ir kultūros paveldo objektų apsaugos ir tvarkymo kryptys bei priemonės, kultūros paveldo kompleksinių objektų (jeigu kultūros paveldo kompleksiniams objektams kultūros ministro ir aplinkos ministro nustatyta tvarka rengiami nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentai) ir kultūros paveldo vietovių nekilnojamojo kultūros paveldo apsaugos ir veiklos plėtojimo paveldosaugos reikalavimai, taip pat kraštovaizdžio formavimo, rekreacinės infrastruktūros kūrimo ir kitos tvarkymo priemonės. Kai valstybiniuose ir savivaldybių draustiniuose reikia nustatyti kraštovaizdžio tvarkymo zonas ir jų reglamentus, valstybiniuose draustiniuose esančių kultūros paveldo vietovių ir kultūros paveldo kompleksinių objektų (jeigu kultūros paveldo kompleksiniams objektams kultūros ministro ir aplinkos ministro nustatyta tvarka rengiami nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentai) teritorijų ribas ir apsaugos bei veiklos plėtojimo paveldosaugos reikalavimus, rengiami šių draustinių tvarkymo planai, kuriuos pagal kompetenciją tvirtina Vyriausybės įgaliotos institucijos arba savivaldybių tarybos.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2095, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07052
 
 3. Gamtos paveldo objektui paskelbti saugomu objektu Vyriausybės įgaliotos institucijos nustatyta tvarka parengiama gamtos paveldo objekto schema, kurioje pažymima gamtos paveldo objekto buvimo vieta (kai gamtos paveldo objektas yra riedulys, medis ar kitas taškinis objektas) arba nustatomos gamtos paveldo objekto teritorijos ribos (kai gamtos paveldo objektui apibūdinti reikia nurodyti jo užimamą plotą).
 
-4. Šio straipsnio 2 dalyje nurodyti saugomų teritorijų planavimo dokumentai rengiami vadovaujantis Teritorijų planavimo įstatymu ir Aplinkos ministerijos patvirtintomis Saugomų teritorijų specialiųjų planų rengimo taisyklėmis, reglamentuojančiomis saugomų teritorijų specialiųjų planų struktūrą, jų rengimą, derinimą, tvirtinimą ir galiojimą.
+4. Šio straipsnio 2 dalyje nurodyti saugomų teritorijų planavimo dokumentai rengiami, koreguojami, keičiami, derinami, tikrinami ir tvirtinami vadovaujantis šiuo Įstatymu, Teritorijų planavimo įstatymu, Vyriausybės įgaliotų institucijų patvirtintomis Saugomų teritorijų specialiųjų planų rengimo taisyklėmis, reglamentuojančiomis saugomų teritorijų specialiųjų planų struktūrą, jų organizavimo, rengimo, koregavimo, keitimo, derinimo, tikrinimo, tvirtinimo tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2095, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07052
 
 5. Rengiant valstybinių rezervatų, biosferos rezervatų ir valstybinių parkų planavimo schemas (ribų ir tvarkymo planus), vadovaujamasi Vyriausybės patvirtintais saugomų teritorijų tipiniais apsaugos reglamentais.
 
@@ -1970,6 +1994,12 @@ Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
 
 11) leidžiama įrengti saulės šviesos energijos elektrines, saulės šilumos energijos kolektorius tik ant pastatų stogų ir (ar) pastatų fasadų, kurie nėra matomi nuo gamtos ir kultūros paveldo objektų (kompleksų), gatvės, kelio ar apžvalgos vietų (regyklų), turizmo trasų. Pastatuose ar sodybose, kurie yra kultūros paveldo objektai, šių inžinerinių statinių (įrenginių) statyba draudžiama;
 
+12) ne sodyboje žemės ūkio paskirties žemėje leidžiama statyti inžinerinius statinius – stogines, skirtas laisvai laikomų žolėdžių ūkinių gyvūnų, įregistruotų Ūkinių gyvūnų registre, prieglobsčiui nuo kritulių ir vėjo, kai pievų ir ganyklų plotai nuosavybės ar kitais teisėtais pagrindais valdomoje žemėje yra ne mažesni kaip 20 hektarų (ne daugiau kaip 1 stoginę nurodytame plote). Stoginės įrengiamos be patalpų su ne daugiau kaip 3 išorinėmis sienomis ar be jų, leistinas aukštis – iki 6 metrų, užstatytas plotas – iki 150 kvadratinių metrų. Šios stoginės negali būti statomos natūraliose pievose, saugomų augalų ir vabzdžių rūšių radavietėse, arčiau kaip 100 metrų nuo paviršinio vandens telkinio kranto, taip pat nurodytose vietose negali būti sandėliuojami pašarai ir organizuojamas žolėdžių ūkinių gyvūnų papildomas šėrimas. Jeigu žolėdžiai ūkiniai gyvūnai nebelaikomi pievų ir ganyklų plote, kuriame yra stoginė gyvūnams laikyti, ji turi būti pašalinta ne vėliau kaip per 6 mėnesius po to, kai žolėdžiai ūkiniai gyvūnai buvo išgabenti. Stoginės pastatymo vietos parinkimo, jos formos, medžiagų, iš kurių ji statoma, reikalavimai ir derinimo tvarka nustatoma draustinio nuostatuose (kai draustinis yra valstybiniame parke ar biosferos rezervate, – valstybinio parko ar biosferos rezervato nuostatuose, o draustinio, kuriam nėra patvirtintų individualių jo nuostatų, – bendruose gamtinių ir kompleksinių draustinių nuostatuose).
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
+
 4. Kultūriniuose draustiniuose draudžiama:
 
 1) naikinti ar žaloti kultūros paveldo vertybes, naikinti jų autentiškumą;
@@ -2006,21 +2036,21 @@ Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
 281 straipsnis. Teritorijų planavimo dokumentų, rengiamų saugomų teritorijų sistemai, jos dalims ar atskiroms saugomoms teritorijoms, rengėjai
 
-1. Teisę rengti šio Įstatymo 28 straipsnio 2 dalyje nurodytus saugomų teritorijų planavimo dokumentus turi atestuoti specialistai (saugomų teritorijų specialiojo teritorijų planavimo vadovai), šiuos dokumentus gali rengti juridiniai asmenys ir jų padaliniai, kitos užsienio organizacijos ir jų padaliniai, jeigu šių organizacijų įstatuose numatyta teritorijų planavimo veikla ir kai jų rengimo darbams vadovauja saugomų teritorijų specialiojo teritorijų planavimo vadovo atestatą turintys specialistai. Šis reikalavimas netaikomas Europos ekonominės erdvės valstybių piliečiams ir Šveicarijos Konfederacijos piliečiams, kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje teisėmis, jeigu jie turi kitos valstybės narės kompetentingos institucijos išduotą atestatą arba kitą dokumentą, įrodantį jų teisę vadovauti nurodytų dokumentų rengimui.
+1. Rengti šio Įstatymo 28 straipsnio 2 dalyje nurodytus saugomų teritorijų planavimo dokumentus turi teisę atestuoti specialistai, kurie yra saugomų teritorijų specialiojo teritorijų planavimo vadovai, juridiniai asmenys ir jų padaliniai, kitos užsienio organizacijos ir jų padaliniai, jeigu šių organizacijų įstatuose numatyta teritorijų planavimo veikla ir kai jų rengimo darbams vadovauja saugomų teritorijų specialiojo teritorijų planavimo vadovo atestatą (toliau – atestatas) turintys specialistai. Šis reikalavimas netaikomas Europos ekonominės erdvės valstybių piliečiams ir Šveicarijos Konfederacijos piliečiams, kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje teisėmis, jeigu jie turi kitos valstybės narės kompetentingos institucijos išduotą atestatą arba kitą dokumentą, įrodantį jų teisę vadovauti nurodytų dokumentų rengimui. Jeigu planavimo darbų programoje numatoma nustatyti kultūros paveldo kompleksinių objektų ir kultūrinių draustinių ar kultūros paveldo vietovių nekilnojamojo kultūros paveldo apsaugos ir veiklos plėtojimo paveldosaugos reikalavimus, rengiant šio Įstatymo 28 straipsnio 2 dalies 4 punkte nurodytus saugomų teritorijų planavimo dokumentus specialiojo teritorijų planavimo dokumentų rengimo taisyklėse nustatyta tvarka turi dalyvauti asmenys, turintys teisę vadovauti nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentų rengimui.
 
-2. Saugomų teritorijų specialiojo teritorijų planavimo vadovo atestatą gauti siekiančių asmenų atestavimo, atestavimo komisijos sudarymo, atestatų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką nustato Aplinkos ministerija. Atestatas ne vėliau kaip per mėnesį nuo visų reikiamų atestatui gauti dokumentų pateikimo dienos išduodamas asmeniui:
+2. Atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką, atestavimą vykdančios atestavimo komisijos nuostatus ir jos sudėtį nustato aplinkos ministras kartu su kultūros ministru. Atestavimą atlieka Teritorijų planavimo įstatymo 40 straipsnio 2 dalyje nurodytos atestavimą atliekančios organizacijos (toliau – atestavimą atliekanti organizacija). Atestatas pagal teritorijų planavimo lygmenis neterminuotam laikui ne vėliau kaip per 30 darbo dienų nuo visų reikiamų atestatui gauti dokumentų pateikimo dienos išduodamas asmeniui:
 
-1) įgijusiam aukštąjį (universitetinį ar koleginį) arba lygiavertį biomedicinos mokslų studijų srities biologijos, botanikos, zoologijos, žemės ūkio ar miškininkystės studijų krypties arba fizinių mokslų studijų srities geologijos, aplinkotyros ir gamtinės geografijos studijų krypčių arba technologijų mokslų studijų srities bendrosios inžinerijos, statybos inžinerijos ir inžinerijos mokslų studijų krypčių arba socialinių mokslų studijų srities visuomeninės geografijos ir teritorijų planavimo studijų krypties arba meno studijų srities architektūros studijų krypties išsilavinimą;
+1) įgijusiam aukštąjį (universitetinį ar koleginį) arba lygiavertį biomedicinos mokslų studijų srities biologijos, botanikos, zoologijos, žemės ūkio ar miškininkystės studijų krypties arba fizinių mokslų studijų srities geologijos, aplinkotyros ir gamtinės geografijos studijų krypčių, arba technologijų mokslų studijų srities bendrosios inžinerijos, statybos inžinerijos ir inžinerijos mokslų studijų krypčių, arba socialinių mokslų studijų srities visuomeninės geografijos ir teritorijų planavimo studijų krypties, arba meno studijų srities architektūros studijų krypties išsilavinimą;
 
 2) turinčiam ne mažesnę kaip 3 metų darbo rengiant saugomų teritorijų specialiojo teritorijų planavimo dokumentus patirtį;
 
-3) išlaikiusiam teisinių žinių egzaminą pagal Aplinkos ministerijos patvirtintą programą.
+3) išlaikiusiam teisinių ir profesinių žinių egzaminą pagal aplinkos ministro patvirtintą programą. Profesinių žinių egzaminų rezultatai nustatyta tvarka kvalifikaciją kėlusiems atestuotiems specialistams, neturintiems administracinių nuobaudų profesinėje srityje ir dėl kurių nėra nustatyta profesinės etikos pažeidimų, galioja neterminuotai.
 
-3. Kai teritorijų planavimo valstybinę priežiūrą atliekanti institucija nustato, kad asmuo, turintis saugomų teritorijų specialiojo teritorijų planavimo vadovo atestatą, rengdamas teritorijų planavimo dokumentus ar vadovaudamas jų rengimui, pažeidė įstatymų, kitų teisės aktų teritorijų planavimo dokumentų rengimo srityje reikalavimus, jo saugomų teritorijų specialiojo teritorijų planavimo vadovo atestato galiojimas atestavimo komisijos sprendimu gali būti sustabdomas, iki bus pašalinti nustatyti pažeidimai, bet ne ilgiau kaip 6 mėnesiams.
+3. Kai teritorijų planavimo valstybinę priežiūrą atliekanti institucija nustato, kad asmuo, turintis atestatą, rengdamas saugomų teritorijų specialiojo teritorijų planavimo dokumentus ar vadovaudamas jų rengimui, pažeidė įstatymų, kitų teisės aktų teritorijų planavimo dokumentų rengimo srityje reikalavimus, jo atestato galiojimas atestavimą atliekančios organizacijos sprendimu gali būti sustabdomas 6 mėnesiams, iki bus pašalinti nustatyti pažeidimai. Architektams, kai jų veikloje nustatomi Europos architektūros paslaugų teikėjų etikos kodekso pažeidimai, Lietuvos architektų rūmai, atsižvelgdami į pažeidimo pobūdį, pasekmes, aplinkybes, kuriomis padarytas pažeidimas, gali sustabdyti atestato galiojimą 6 mėnesiams.
 
-4. Kai šio straipsnio 3 dalyje nurodytas asmuo pateikia dokumentus, įrodančius, kad pažeidimai, dėl kurių buvo sustabdytas saugomų teritorijų specialiojo teritorijų planavimo vadovo atestato galiojimas, pašalinti, per 10 darbo dienų nuo šių dokumentų pateikimo dienos atestato galiojimo sustabdymas atestavimo komisijos sprendimu panaikinamas.
+4. Kai šio straipsnio 3 dalyje nurodytas asmuo pateikia dokumentus, įrodančius, kad pažeidimai, dėl kurių buvo sustabdytas atestato galiojimas, pašalinti, per 10 darbo dienų nuo šių dokumentų pateikimo dienos atestato galiojimo sustabdymas atestavimą atliekančios organizacijos sprendimu panaikinamas.
 
-5. Saugomų teritorijų specialiojo teritorijų planavimo vadovo atestato galiojimas atestavimo komisijos sprendimu panaikinamas, jeigu:
+5. Atestato galiojimas atestavimą atliekančios organizacijos sprendimu panaikinamas, jeigu:
 
 1) asmuo, rengdamas teritorijų planavimo dokumentus, šiurkščiai pažeidė įstatymų, kitų teisės aktų, reglamentuojančių teritorijų planavimo dokumentų rengimą, reikalavimus. Šiurkščiu pažeidimu laikomas toks įstatymų, kitų teisės aktų, reglamentuojančių teritorijų planavimą, pažeidimas, dėl kurio atsirado žala tretiesiems asmenims, gamtos ir kultūros paveldo objektams ir vietovėms;
 
@@ -2032,15 +2062,21 @@ Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
 5) paaiškėja, kad asmuo pateikė neteisingus duomenis, siekdamas gauti atestatą;
 
-6) yra asmens, turinčio atestatą, prašymas.
+6) yra asmens, turinčio atestatą, prašymas;
 
-6. Jeigu šiame straipsnyje nurodyti pažeidimai nepadarė esminės žalos teisės aktuose tiesiogiai nurodytam visuomenės (viešajam) interesui ar žmonių sveikatai, gyvybei ir kitiems teisės aktuose tiesiogiai nurodytiems interesams arba padaryta žala yra labai nežymi, o asmuo nutraukė neteisėtus veiksmus, pašalino jų padarinius ir atlygino žalą, atestavimo komisija, vadovaudamasi teisingumo ir protingumo kriterijais, gali priimti sprendimą saugomų teritorijų specialiojo teritorijų planavimo vadovo atestato galiojimo nestabdyti ir (ar) atestato galiojimo nepanaikinti.
+7) kituose Lietuvos Respublikos įstatymuose nustatytais pagrindais.
 
-7. Asmenys, kurių saugomų teritorijų specialiojo teritorijų planavimo vadovo atestato galiojimas panaikintas, dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po 2 metų nuo sprendimo dėl atestato galiojimo panaikinimo dienos.
+6. Jeigu šiame straipsnyje nurodyti pažeidimai nepadarė esminės žalos teisės aktuose tiesiogiai nurodytam visuomenės (viešajam) interesui ar žmonių sveikatai, gyvybei ir kitiems teisės aktuose tiesiogiai nurodytiems interesams arba padaryta žala yra labai nežymi, o asmuo nutraukė neteisėtus veiksmus, pašalino jų padarinius ir atlygino žalą, atestavimą atliekanti organizacija, vadovaudamasi teisingumo ir protingumo kriterijais, gali priimti sprendimą atestato galiojimo nestabdyti ir (ar) atestato galiojimo nepanaikinti.
+
+7. Asmenys, kurių atestato galiojimas panaikintas, dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po vienų metų nuo sprendimo dėl atestato galiojimo panaikinimo priėmimo dienos, išskyrus šio straipsnio 5 dalies 6 punkte nurodytą atvejį, kai prašymas išduoti atestatą gali būti teikiamas nepraėjus vienų metų laikotarpiui.
 
 Įstatymas papildytas straipsniu:
 
 Nr. XII-413, 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2095, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07052
 
 241 straipsnis. „Natura 2000“ tinklo sudarymas ir „Natura 2000“ tinklo teritorijų apsauga
 
