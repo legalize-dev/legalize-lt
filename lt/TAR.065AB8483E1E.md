@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2019-01-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-05-07
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -1564,7 +1564,11 @@ Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
 
 12. Televizijos reklamai taikomi ir kituose teisės aktuose nustatyti reklamos ir jos skleidimo reikalavimai.
 
-13. Kaip laikomasi šio ir kitų įstatymų nustatytų reikalavimų reklamai, kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba prie Teisingumo ministerijos, Lietuvos Respublikos konkurencijos taryba ir Komisija, bendradarbiaudamos su kitomis viešosios informacijos rengėjų ir (ar) skleidėjų veiklos reguliavimo institucijomis ir reklamos savitvarkos institucijomis.
+13. Kaip laikomasi šio ir kitų įstatymų nustatytų reikalavimų reklamai, kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba ir Komisija, bendradarbiaudamos su kitomis viešosios informacijos rengėjų ir (ar) skleidėjų veiklos reguliavimo institucijomis ir reklamos savitvarkos institucijomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2013, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05346
 
 14. Šio įstatymo nuostatos, išskyrus 38 straipsnio 8, 9 dalyse ir šio straipsnio 11 dalies 1, 3 punktuose nurodytus atvejus, mutatis mutandis taikomos televizijos programoms, skirtoms tik televizijos reklamai ir teleparduotuvėms, taip pat televizijos programoms, skirtoms tik savireklamai.
 
