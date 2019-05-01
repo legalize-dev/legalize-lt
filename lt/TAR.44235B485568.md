@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2019-04-03"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-04-03 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
+
+TAR pastaba. Įstatymo Nr. XIII-1625 nuostatos, susijusios su reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, taikomos atliekant 2019 m. sausio 1 d. ir vėliau prasidedančių finansinių metų reguliuojamosios veiklos ataskaitų patikrą ir reguliavimo apskaitos sistemos patikrą.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 8, 16, 19-1, 23 straipsnių pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas
 
 Nauja įstatymo redakcija nuo 2012-01-01:
 
@@ -147,49 +155,93 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-28. Suskystintos naftos dujos – sočiųjų ir nesočiųjų angliavandenilių mišinys, išgautas perdirbant naftos produktus, kuris normaliomis sąlygomis yra dujinės būsenos.
+28. Reguliavimo apskaitos sistema – reguliavimo veiklos tikslais naudojama energetikos įmonės veiklos apskaitos, apimančios apskaitos atskyrimą ir sąnaudų paskirstymą, sistema.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+29. Reguliavimo apskaitos sistemos patikra – energetikos įmonei auditoriaus, audito įmonės pagal Valstybinės kainų ir energetikos kontrolės komisijos tai energetikos įmonei motyvuotu sprendimu nustatytą reikalavimą teikiama paslauga, kurią atlikus pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą techninę užduotį pateikiama reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+30. Reguliuojamosios veiklos ataskaitos – energetikos įmonių Valstybinei kainų ir energetikos kontrolės komisijai teikiamos vykdomos veiklos ataskaitos, kurios rengiamos vadovaujantis reguliavimo apskaitos sistemos reikalavimais ir atskirų energetikos sektorių veiklą reglamentuojančiais teisės aktais ir kuriose parodomas apskaitos atskyrimas ir sąnaudų paskirstymas pagal veiklas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+31. Reguliuojamosios veiklos ataskaitų patikra – energetikos įmonei auditoriaus, audito įmonės kasmet teikiama paslauga, kurią atlikus pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą ar pratęstą galioti techninę užduotį pateikiama reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+32. Suskystintos naftos dujos – sočiųjų ir nesočiųjų angliavandenilių mišinys, išgautas perdirbant naftos produktus, kuris normaliomis sąlygomis yra dujinės būsenos.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-29. Techninė sauga – šio įstatymo ir kitų teisės aktų nustatytų priemonių ir reikalavimų, kuriais užtikrinamas energetikos objektų ir įrenginių patikimumas ir saugumas, visuma.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+33. Techninė sauga – šio įstatymo ir kitų teisės aktų nustatytų priemonių ir reikalavimų, kuriais užtikrinamas energetikos objektų ir įrenginių patikimumas ir saugumas, visuma.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-30. Tiekimo saugumas – energijos išteklių ir (ar) energijos tiekimo patikimumas ir techninis saugumas.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+34. Techninė užduotis – Valstybinės kainų ir energetikos kontrolės komisijos kasmet iki kovo 31 dienos tvirtinamas ar pratęsiamas galioti dokumentas, kuris yra rengiamas atskiriems energetikos sektoriams ir (ar) pagal atskiras reguliuojamąsias veiklas, o atliekant reguliavimo apskaitos sistemos patikrą šio įstatymo 161 straipsnio 2 dalyje nustatytais atvejais Valstybinės kainų ir energetikos kontrolės komisijos tvirtinamas dokumentas, kuriame nurodomi konkretūs Tarptautinės buhalterių federacijos Tarptautinių audito ir užtikrinimo standartų valdybos parengti ir patvirtinti tarptautiniai užtikrinimo užduočių, tarptautiniai peržiūros užduočių, tarptautiniai susijusių paslaugų standartai ir susiję praktiniai nurodymai (toliau – profesiniai standartai) arba tarptautiniai audito standartai, kuriais vadovaujantis turi būti atliekama energetikos įmonių reguliuojamosios veiklos ataskaitų patikra ir (ar) reguliavimo apskaitos sistemos patikra, ir šių patikros paslaugų reikalavimai ir (ar) apimtis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+35. Tiekimo saugumas – energijos išteklių ir (ar) energijos tiekimo patikimumas ir techninis saugumas.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-31. Trečioji šalis – valstybė, kuri nėra Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+36. Trečioji šalis – valstybė, kuri nėra Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-32. Tretieji asmenys – energijos gamintojai, tiekėjai ir vartotojai, kurie šiame įstatyme nustatyta tvarka ir sąlygomis įgyja teisę naudotis energijos perdavimo ar skirstymo tinklais energijai persiųsti teisės aktų nustatyta tvarka.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+37. Tretieji asmenys – energijos gamintojai, tiekėjai ir vartotojai, kurie šiame įstatyme nustatyta tvarka ir sąlygomis įgyja teisę naudotis energijos perdavimo ar skirstymo tinklais energijai persiųsti teisės aktų nustatyta tvarka.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-33. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+38. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-34. Valstybinės svarbos energetikos objektai – 50 MW ir didesnės galios elektrinės ir katilinės; 110 kV ir aukštesnės įtampos elektros energijos perdavimo tinklai ir jų technologiniai priklausiniai; magistraliniai dujotiekiai; 25 000 000 kubinių metrų ir didesnės gamtinių dujų saugyklos; suskystintų gamtinių dujų importo terminalai ir saugyklos, kurių pakartotinio suskystintų gamtinių dujų dujinimo pajėgumas yra 0,5 mlrd. kubinių metrų per metus arba didesnis; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įmonės, perdirbančios 50 000 tonų ir daugiau naftos per metus; 10 000 kubinių metrų ir didesni naftos ir (ar) naftos produktų terminalai ir saugyklos; branduolinės energetikos objektai; energetikos objektai, kurių svarba valstybei pripažįstama Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+39. Valstybinės svarbos energetikos objektai – 50 MW ir didesnės galios elektrinės ir katilinės; 110 kV ir aukštesnės įtampos elektros energijos perdavimo tinklai ir jų technologiniai priklausiniai; magistraliniai dujotiekiai; 25 000 000 kubinių metrų ir didesnės gamtinių dujų saugyklos; suskystintų gamtinių dujų importo terminalai ir saugyklos, kurių pakartotinio suskystintų gamtinių dujų dujinimo pajėgumas yra 0,5 mlrd. kubinių metrų per metus arba didesnis; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įmonės, perdirbančios 50 000 tonų ir daugiau naftos per metus; 10 000 kubinių metrų ir didesni naftos ir (ar) naftos produktų terminalai ir saugyklos; branduolinės energetikos objektai; energetikos objektai, kurių svarba valstybei pripažįstama Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-35. Valstybinės svarbos energetikos objekto plėtros projektas – objekto statybos tikslingumą techniniu, finansiniu ir ekonominiu aspektu pagrindžiantis dokumentas, parengiamas iki teritorijų planavimo dokumentų rengimo pradžios, siekiant įsitikinti, ar planuojamas objektas atitinka valstybės politikos strategines kryptis ir Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimo priemones ir yra suderinamas su esama Lietuvos Respublikos energetikos sektoriaus infrastruktūra ir jos plėtra.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+40. Valstybinės svarbos energetikos objekto plėtros projektas – objekto statybos tikslingumą techniniu, finansiniu ir ekonominiu aspektu pagrindžiantis dokumentas, parengiamas iki teritorijų planavimo dokumentų rengimo pradžios, siekiant įsitikinti, ar planuojamas objektas atitinka valstybės politikos strategines kryptis ir Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimo priemones ir yra suderinamas su esama Lietuvos Respublikos energetikos sektoriaus infrastruktūra ir jos plėtra.
 
 Papildyta straipsnio dalimi:
 
@@ -199,7 +251,9 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-36. Vardinė (nominali) šiluminė galia – gamintojo nustatyta didžiausia kurą deginančio įrenginio galia, kurią įrenginys gali pasiekti ir išlaikyti ilgalaikio nenutrūkstamo eksploatavimo metu.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+41. Vardinė (nominali) šiluminė galia – gamintojo nustatyta didžiausia kurą deginančio įrenginio galia, kurią įrenginys gali pasiekti ir išlaikyti ilgalaikio nenutrūkstamo eksploatavimo metu.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -207,7 +261,9 @@ Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-37. Vartotojų energetikos įrenginiai (toliau – vartotojų energetikos įrenginiai) – elektros, šilumos, dujų, naftos produktų energetikos įrenginiai, skirti vartotojų poreikiams tenkinti.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+42. Vartotojų energetikos įrenginiai (toliau – vartotojų energetikos įrenginiai) – elektros, šilumos, dujų, naftos produktų energetikos įrenginiai, skirti vartotojų poreikiams tenkinti.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -215,7 +271,9 @@ Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-38. Viešuosius interesus atitinkančios paslaugos – įstatymų nustatytais atvejais Lietuvos Respublikos Vyriausybės įpareigojimu energetikos įmonių teikiamos viešuosius interesus atitinkančios paslaugos, kuriomis siekiama įgyvendinti valstybės energetikos, ūkio ir (ar) aplinkos apsaugos politikos strateginius tikslus energetikos sektoriuje ir apginti teisėtus visuomenės interesus.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+43. Viešuosius interesus atitinkančios paslaugos – įstatymų nustatytais atvejais Lietuvos Respublikos Vyriausybės įpareigojimu energetikos įmonių teikiamos viešuosius interesus atitinkančios paslaugos, kuriomis siekiama įgyvendinti valstybės energetikos, ūkio ir (ar) aplinkos apsaugos politikos strateginius tikslus energetikos sektoriuje ir apginti teisėtus visuomenės interesus.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -223,13 +281,17 @@ Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-39. Vietiniai energijos ištekliai – Lietuvos Respublikoje esantys energijos ištekliai, išskyrus atvežtinius arba iš jų pagamintus energijos išteklius.
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+44. Vietiniai energijos ištekliai – Lietuvos Respublikoje esantys energijos ištekliai, išskyrus atvežtinius arba iš jų pagamintus energijos išteklius.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 Straipsnio pakeitimai:
 
@@ -519,7 +581,11 @@ Susisiekimo ministerija:
 
 9. Komisija atlieka šias funkcijas:
 
-1) tvirtina reguliuojamosios veiklos apskaitos reikalavimus;
+1) tvirtina reguliavimo apskaitos sistemos reikalavimus ir (ar) metodą, ir (ar) modelį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 2) tvirtina valstybės reguliuojamų kainų nustatymo metodikas, nustato valstybės reguliuojamas kainas ir kainų viršutines ribas;
 
@@ -583,11 +649,19 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 
-23) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+23) tvirtina technines užduotis;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+24) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 10. Komisija, siekdama atlikti Reglamento (ES) Nr. 1227/2011 13 straipsnio 2 dalies d, f ir g punktuose nurodytus veiksmus, turi teisę pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Vilniaus apygardos administracinis teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Komisija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 dienas nuo Vilniaus apygardos administracinio teismo nutarties priėmimo apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 dienas nuo Komisijos skundo priėmimo dienos. Komisijos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo išdavimo atlikti veiksmus, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Šio įstatymo 36 straipsnyje nustatytais atvejais Komisijai kreipiantis į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, mutatis mutandis taikomos šios dalies nuostatos.
 
@@ -763,7 +837,11 @@ Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 7. Energetikos įmonės, perduodančios ir (ar) skirstančios energiją, nustatyta tvarka turi teisę tikrinti, ar vartotojų energetikos įrenginiai atitinka nustatytus įrengimo, eksploatavimo, naudojimo ir techninės saugos reikalavimus.
 
-8. Energetikos įmonės, veikiančios elektros energetikos, šilumos ir (ar) gamtinių dujų sektoriuose, užtikrina, kad pasibaigus kiekvieniems finansiniams metams per keturis mėnesius būtų atlikta energetikos įmonės licencijuojamos veiklos sąnaudų peržiūra ir įmonės finansinių ataskaitų auditas ir jo išvados pateiktos Komisijai.
+8. Energetikos įmonės, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos, užtikrina, kad pasibaigus kiekvieniems finansiniams metams per 4 mėnesius būtų atliktas metinių finansinių ataskaitų auditas ir auditoriaus išvada kartu su finansinėmis ataskaitomis pateikta Komisijai ir paskelbta šių įmonių interneto svetainėse arba Komisijos interneto svetainėje, jeigu energetikos įmonės neturi savo interneto svetainės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 9. Energetikos įmonės dalyvauja rengiant reguliuojamų kainų nustatymo metodikų, energetikos objektų (tinklų, įrenginių, sistemų) prijungimo prie veikiančių energetikos įmonių objektų (tinklų, įrenginių, sistemų) tvarkos aprašo, kuriame nustatytos techninės sąlygos, įkainių nustatymo metodikos, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, energijos perdavimo, skirstymo, tiekimo taisyklių, kitų teisės aktų, reglamentuojančių energetikos įrenginių įrengimą, eksploatavimą, naudojimą, saugą ir kitus techninius klausimus, projektus.
 
@@ -1011,7 +1089,11 @@ Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 8) centralizuotai tiekti suskystintas naftos dujas kainomis, nustatytomis vadovaujantis šio įstatymo 191 straipsnio 3 dalimi;
 
-9) tvarkyti atskirtą nuo kitų veiklos rūšių centralizuotai tiekiamų suskystintų naftos dujų tiekimo pajamų ir sąnaudų apskaitą, atlikti reguliuojamosios veiklos pajamų ir sąnaudų auditą;
+9) tvarkyti atskirą nuo kitų veiklos rūšių centralizuotai tiekiamų suskystintų naftos dujų tiekimo pajamų ir sąnaudų apskaitą, rengti reguliuojamosios veiklos ataskaitas ir vadovaujantis šio įstatymo 161 straipsnio nuostatomis užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl šių ataskaitų atitikties Komisijos patvirtintiems reguliavimo apskaitos sistemos reikalavimams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 10) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir teisės aktuose nustatytų reikalavimų.
 
@@ -1827,6 +1909,14 @@ Nr. XIII-2018, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05353
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 14 ir 22-1 straipsnių pakeitimo įstatymas
 
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 8, 16, 19-1, 23 straipsnių pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas
+
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
 1. Centralizuotai tiekiamų suskystintų naftos dujų kainos yra valstybės reguliuojamos.
@@ -1841,7 +1931,11 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 14 ir 22-1 straipsnių pak
 
 3) Komisijos patvirtintos centralizuotai tiekiamų suskystintų naftos dujų kainos galioja 12 mėnesių nuo jų taikymo pradžios. Energetikos įmonės patvirtintas kainas skelbia šio įstatymo 19 straipsnio 3 dalyje nustatyta tvarka.
 
-4. Energetikos įmonės pajamų ir sąnaudų ataskaitą parengia ir pateikia Komisijai per 30 dienų pasibaigus kalendorinių metų ketvirčiui Komisijos nustatyta tvarka.
+4. Neteko galios 2019-05-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 Papildyta straipsniu:
 
@@ -2044,4 +2138,24 @@ Nr. XIII-2018, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05353
 Papildyta straipsniu:
 
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+
+161 straipsnis. Reguliuojamosios veiklos ataskaitų ir reguliavimo apskaitos sistemos patikra
+
+1. Energetikos įmonės, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos ir (ar) kurioms Lietuvos Respublikos elektros energetikos įstatymo 67 straipsnio 1 dalies arba Lietuvos Respublikos gamtinių dujų įstatymo 9 straipsnio 7 dalies pagrindu nustatyti Komisijos įpareigojimai, susiję su reguliavimo apskaitos sistema, rengia reguliuojamosios veiklos ataskaitas ir užtikrina, kad pasibaigus kiekvieniems finansiniams metams per 4 mėnesius pagal Komisijos patvirtintą ar pratęstą galioti techninę užduotį būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl ataskaitų atitikties Komisijos patvirtintiems reguliavimo apskaitos sistemos reikalavimams ir (ar) metodui, ir (ar) modeliui ir reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada pateiktos Komisijai. Jeigu licenciją išdavė savivaldybės institucija, energetikos įmonė reguliuojamosios veiklos ataskaitas, reguliuojamosios veiklos ataskaitų patikros ataskaitą ir (ar) išvadą pateikia licenciją išdavusiai institucijai tokia pačia tvarka ir terminais, kaip ir teikdama Komisijai.
+
+2. Reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada, reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada, išskyrus konfidencialią informaciją, yra viešos ir skelbiamos energetikos įmonės interneto svetainėje arba Komisijos interneto svetainėje, jeigu energetikos įmonė neturi savo interneto svetainės. Informacija apie reguliuojamų veiklų sąnaudas negali būti pripažįstama konfidencialia.
+
+3. Jeigu Komisija turi informacijos ar Komisijai kyla pagrįstų įtarimų, kad energetikos įmonės tvarkoma reguliavimo apskaitos sistema neatitinka teisės aktuose įtvirtintų reikalavimų, ar paaiškėja aplinkybės dėl netinkamai vykdomos reguliuojamosios veiklos, Komisija motyvuotu sprendimu gali nustatyti reikalavimą bet kuriai energetikos įmonei, kurios teikiamų paslaugų kainos yra valstybės reguliuojamos ar kuriai yra nustatyti Komisijos įpareigojimai, susiję su reguliavimo apskaitos sistema, ne vėliau kaip per 12 mėnesių nuo Komisijos sprendimo priėmimo dienos pagal Komisijos patvirtintą techninę užduotį atlikti reguliavimo apskaitos sistemos patikrą dėl jos atitikties reguliuojamąją veiklą reglamentuojantiems teisės aktų reikalavimams ir per 10 darbo dienų nuo reguliavimo apskaitos sistemos patikros atlikimo dienos pateikti reguliavimo apskaitos sistemos patikros ataskaitą ir (ar) išvadą Komisijai.
+
+4. Komisija, rengdama techninę užduotį, konsultuojasi su Lietuvos auditorių rūmais.
+
+5. Reguliuojamosios veiklos ataskaitų patikrą ir reguliavimo apskaitos sistemos patikrą gali atlikti auditorius, audito įmonė, turintys teisę atlikti finansinių ataskaitų auditą Lietuvos Respublikos finansinių ataskaitų audito įstatymo nustatyta tvarka.
+
+6. Jeigu Komisija turi informacijos ar Komisijai kyla pagrįstų įtarimų dėl netinkamai atliktos reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliavimo apskaitos sistemos patikros, Vyriausybės įgaliota atlikti auditorių ir audito įmonių viešąją priežiūrą įstaiga pagal Finansinių ataskaitų audito įstatymą atlieka reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliavimo apskaitos sistemos patikros kokybės tyrimą (toliau – reguliuojamosios veiklos patikros kokybės tyrimas) ir parengia reguliuojamosios veiklos patikros kokybės tyrimo ataskaitą. Jeigu reguliuojamosios veiklos patikros kokybės tyrimo ataskaitoje nurodyta, kad auditorius, audito įmonė, atlikdami atitinkamą patikrą, nesilaikė tokiai patikrai techninėje užduotyje nurodytų taikyti profesinių standartų arba nurodytų tarptautinių audito standartų, kaip tai yra nustatyta Finansinių ataskaitų audito įstatymo 521 straipsnio 3 dalyje, tos patikros sąnaudos negali būti pripažintos būtinosiomis nustatant valstybės reguliuojamas kainas ir Komisija turi teisę įpareigoti energetikos įmonę ne vėliau kaip per 6 mėnesius atlikti pakartotinę reguliuojamosios veiklos ataskaitų patikrą ir (ar) pakartotinę reguliavimo apskaitos sistemos patikrą šio įstatymo nustatyta tvarka.
+
+7. Komisija šio įstatymo 8 straipsnyje nustatytoms funkcijoms vykdyti turi teisę gauti iš auditoriaus, audito įmonės, atlikusių reguliuojamosios veiklos ataskaitų patikrą ir (ar) reguliavimo apskaitos sistemos patikrą, paaiškinimus, susijusius su atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, paaiškinimus pagrindžiančius duomenis ir dokumentus.
+
+Papildyta straipsniu:
+
+Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
