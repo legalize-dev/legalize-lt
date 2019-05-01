@@ -4,7 +4,7 @@ identifier: "TAR.0F470A65DFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2019-01-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2020-11-03
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
 
@@ -145,7 +145,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-937, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09159
 
-3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą, tradicijas puoselėjančioms ir saugų elgesį medžioklėje skatinančioms priemonėms; griežtai saugomų rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms; valstybės įgyvendinamoms laukinių gyvūnų globos ir užkrečiamųjų ligų prevencijos priemonėms; Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje nustatytoms kompensacijoms medžioklės plotų naudotojams ir privačių žemės sklypų savininkams mokėti, aplinkos apsaugos valstybinę kontrolę vykdančių pareigūnų darbo užmokesčiui ‒ įplaukos pagal šio įstatymo 3 straipsnio 8 punktą;
+3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą, tradicijas puoselėjančioms ir saugų elgesį medžioklėje skatinančioms priemonėms; griežtai saugomų rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms; atlyginti vilkų ūkiniams gyvūnams padarytą žalą; valstybės įgyvendinamoms laukinių gyvūnų globos ir užkrečiamųjų ligų prevencijos priemonėms; Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje nustatytoms kompensacijoms medžioklės plotų naudotojams ir privačių žemės sklypų savininkams mokėti, aplinkos apsaugos valstybinę kontrolę vykdančių pareigūnų darbo užmokesčiui ‒ įplaukos pagal šio įstatymo 3 straipsnio 8 punktą;
 
 Straipsnio punkto pakeitimai:
 
@@ -154,6 +154,8 @@ Nr. XII-373, 2013-06-18, Žin., 2013, Nr. 67-3336 (2013-06-26), i. k. 1131010IST
 Nr. XII-937, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09159
 
 Nr. XIII-1472, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14700
+
+Nr. XIII-1888, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00096
 
 4) aplinkos apsaugos, gamtos išteklių naudojimo ir jų gausinimo programoms, schemoms, planams, įstatymų ir kitų teisės aktų projektams rengti (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
 
@@ -300,4 +302,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1472, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14700
 
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 3 ir 4 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1888, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00096
+
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 4 straipsnio pakeitimo įstatymas
 
