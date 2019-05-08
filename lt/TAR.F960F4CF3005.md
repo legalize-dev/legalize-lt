@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2018-12-21"
+last_updated: "2019-05-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Suvestinė redakcija nuo 2018-12-21 iki 2019-05-07
+Suvestinė redakcija nuo 2019-05-08 iki 2019-10-17
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1743, i. k. 0971010ISTAVIII-385
 
@@ -67,8 +67,6 @@ Valstybinė mokesčių inspekcija prie Finansų ministerijos (toliau – Valstyb
 
 3) savivaldybės biudžetui priskirtas nemokestines pajamas, kurias pagal įstatymus sumoka fiziniai ir juridiniai asmenys.
 
-TAR pastaba. 3 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-
 Straipsnio pakeitimai:
 
 Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
@@ -101,7 +99,13 @@ TAR pastaba. Trečiojo skirsnio nuostatos taikomos rengiant Lietuvos Respublikos
 
 1) valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti – pagal nustatytą šioms funkcijoms atlikti lėšų apskaičiavimo metodiką;
 
-2) mokinio krepšeliui finansuoti vykdant Vietos savivaldos įstatymo 6 straipsnio 8 punkte nustatytą savarankiškąją savivaldybių funkciją ir Vietos savivaldos įstatymo 7 straipsnio 7 punkte nustatytą valstybinę (valstybės perduotą savivaldybėms) funkciją – pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką;
+2) ugdymo reikmėms finansuoti vykdant Vietos savivaldos įstatymo 6 straipsnio 8 punkte nustatytą savarankiškąją savivaldybių funkciją ir Vietos savivaldos įstatymo 7 straipsnio 7 punkte nustatytą valstybinę (valstybės perduotą savivaldybėms) funkciją – pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką;
+
+TAR pastaba. 2 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2020 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2099, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07406
 
 3) Seimo, Vyriausybės patvirtintoms programoms ar priimtiems sprendimams vykdyti.
 
@@ -263,17 +267,19 @@ b) jeigu savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio v
 
 c) savivaldybės ateinančių metų pajamos iš gyventojų pajamų mokesčio prognozuojamos pagal nuolatinę gyvenamąją vietą ar gyvenamąją vietą Lietuvoje, apie kurią gyventojas informavo Gyventojų pajamų mokesčio įstatymo 35 straipsnio 3 dalyje nustatyta tvarka;
 
-7) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais), kuri apskaičiuojama kaip savivaldybei prognozuojamų pajamų iš gyventojų pajamų mokesčio, apskaičiuotų pagal šios dalies 2 ir 6 punktus, šio Įstatymo 7 ir 8 straipsnius, santykis su visoms savivaldybėms prognozuojamomis pajamomis iš gyventojų pajamų mokesčio, apskaičiuotomis pagal šios dalies 1 ir 2 punktus, išreikštas procentais.
+7) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais), kuri apskaičiuojama kaip savivaldybei prognozuojamų pajamų iš gyventojų pajamų mokesčio, apskaičiuotų pagal šios dalies 2 ir 6 punktus, šio Įstatymo 7, 8 ir 101 straipsnius, santykis su visoms savivaldybėms prognozuojamomis pajamomis iš gyventojų pajamų mokesčio, apskaičiuotomis pagal šios dalies 1 ir 2 punktus, šio Įstatymo 101 straipsnį, išreikštas procentais.
 
-TAR pastaba. 1 dalies nuostatos taikomos rengiant 2018 metų ir vėlesnių metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+TAR pastaba. 7 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2020 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2099, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07406
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-808, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20002
 
 2. Atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti numatomas finansinis rodiklis – savivaldybių prognozuojamos pajamos. Skaičiuojant šį rodiklį, neįskaitomos savivaldybių biudžetinių įstaigų pajamos, vietinės rinkliavos, pajamos, priskirtos pagal Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymą, įmokos už ilgalaikio materialiojo ir nematerialiojo turto realizavimą.
-
-TAR pastaba. 2 dalies nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 
 Straipsnio dalies pakeitimai:
 
@@ -283,11 +289,15 @@ Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
 
 1) kas ketvirtį, iki einamojo ketvirčio pirmo mėnesio 10 dienos, lygiomis dalimis (išskyrus nurodytas šios dalies 2 punkte), jeigu atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas nenustato kitaip;
 
-2) specialią tikslinę dotaciją mokinio krepšeliui finansuoti, atsižvelgdamos į lėšų poreikį švietimo įstaigų darbuotojams – pedagogams darbo užmokesčiui už kasmetines atostogas mokėti.
+2) specialią tikslinę dotaciją ugdymo reikmėms finansuoti, atsižvelgdamos į lėšų poreikį švietimo įstaigų darbuotojams – pedagogams darbo užmokesčiui už kasmetines atostogas mokėti.
+
+TAR pastaba. 2 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2020 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2099, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07406
 
 4. Faktiškai gautas į Valstybinės mokesčių inspekcijos surenkamąją sąskaitą iš gyventojų pajamų mokesčio lėšas, nurodytas šio Įstatymo 3 straipsnio 2 punkte, Valstybinė mokesčių inspekcija ne rečiau kaip du kartus per mėnesį perveda savivaldybėms pagal atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme savivaldybės biudžetui patvirtintą gyventojų pajamų mokesčio dalį (procentais).
-
-TAR pastaba. 4 dalies nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 
 Straipsnio dalies pakeitimai:
 
@@ -698,4 +708,54 @@ TAR pastaba. 91 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2017
 Papildyta straipsniu:
 
 Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
+
+101 straipsnis. Finansinio rodiklio verslo plėtros sąlygoms gerinti dydis ir sumos, apskaičiuotos taikant šį dydį, paskirstymas savivaldybėms
+
+1. Atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti numatomas finansinis rodiklis verslo plėtros sąlygoms gerinti, savivaldybėms skatinti už verslo plėtros sąlygų sudarymą. Šio rodiklio dydis apskaičiuojamas pagal formulę:
+
+GPMskatinti = GPMVBGPMn+1 × 0,005,
+
+čia GPMVBGPMn+1 – ateinančių biudžetinių metų prognozuojama gyventojų pajamų mokesčio suma, tenkanti valstybės biudžetui. Šis dydis neskaičiuojamos, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė (ekonomikos sunkmečiu).
+
+2. Apskaičiuota taikant šio straipsnio 1 dalyje nurodyto rodiklio dydį suma paskirstoma savivaldybėms, neturinčioms savaiminio ekonominio augimo požymių, atsižvelgiant į tai, kokiai grupei pagal teritorijoms keliamus ekonominio augimo tikslus priskirta savivaldybė ir koks tai grupei apskaičiuotas svorio (svarbos) koeficientas. Savivaldybių priskyrimo grupėms metodiką ir tvarką nustato Vyriausybė ar jos įgaliota institucija. Konkrečių savivaldybių grupės nustatomos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme. Savivaldybėms ši suma paskirstoma pagal formulę:
+
+Si = PDUFi × GPMskatinti × SGkni, čia:
+
+1) Si – i-ajai savivaldybei prognozuojama gyventojų pajamų mokesčio suma;
+
+2) PDUFi – perskaičiuotas DDUFi koeficientas, nurodantis i-ajai savivaldybei tenkančią teigiamo darbo užmokesčio fondo pokyčio dalį toje savivaldybių grupėje;
+
+3) SGkni – savivaldybių n-osios grupės svorio (svarbos) koeficientas, apskaičiuojamas pagal formulę:
+
+SGkni = (ΣGyvskSGni / ΣGyvskni + ΣPajamosSGni / ΣPajamosni) / 2, čia:
+
+ΣGyvskSGni – savivaldybių n-osios grupės i-ųjų savivaldybių gyventojų skaičiaus suma;
+
+ΣGyvskni – savivaldybių n-ųjų grupių i-ųjų savivaldybių gyventojų skaičiaus suma;
+
+ΣPajamosSGni – savivaldybių n-osios grupės i-ųjų savivaldybių prognozuojamų pajamų, nustatytų einamųjų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme, suma, sumažinta sumomis savivaldybėms skatinti už verslo plėtros sąlygų sudarymą;
+
+ΣPajamosni – savivaldybių n-ųjų grupių i-ųjų savivaldybių prognozuojamų pajamų, nustatytų einamųjų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme, suma, sumažinta sumomis savivaldybėms skatinti už verslo plėtros sąlygų sudarymą.
+
+3. Koeficientas DDUFi apskaičiuojamas pagal formulę:
+
+DDUFi = △Riteig / Σ△Riteig, čia:
+
+1) △Riteig – teigiamo darbo užmokesčio fondo rodiklio pokytis i-ojoje savivaldybėje n – 1 metais, palyginti su n – 2 metais;
+
+2) Σ△Riteig – teigiamo darbo užmokesčio fondo rodiklio pokyčio visose savivaldybėse n – 1 metais, palyginti su n – 2 metais, suma.
+
+4. Darbo užmokesčio fondo rodiklis apskaičiuojamas naudojant statistiką tvarkančių institucijų ir įstaigų duomenis pagal formulę:
+
+DUFi = DSi × VMBDUi × 12, čia:
+
+1) DSi – i-osios savivaldybės vidutinis sąlyginis darbuotojų skaičius veikiančiose įmonėse, įstaigose ir organizacijose, įskaitant individualiąsias įmones, n – 1, n – 2 metais;
+
+2) VMBDUi – i-osios savivaldybės vidutinis mėnesinis bruto darbo užmokestis veikiančiose įmonėse, įstaigose ir organizacijose, įskaitant individualiąsias įmones, n – 1, n – 2 metais.
+
+TAR pastaba. 101 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2020 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+Papildyta straipsniu:
+
+Nr. XIII-2099, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07406
 
