@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2018-01-01"
+last_updated: "2019-05-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-05-24
+Suvestinė redakcija nuo 2019-05-25 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
@@ -177,7 +177,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
 
-4. Programos finansavimo lėšos naudojamos pagal Vyriausybės patvirtintą metinę lėšų naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų Programos finansavimo lėšų rezervas valstybės reikmėms, susijusioms su keliais, finansuoti.
+4. Programos finansavimo lėšos naudojamos pagal iki atitinkamų metų vasario 1 dienos Vyriausybės patvirtintą metinę lėšų naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų Programos finansavimo lėšų rezervas valstybės reikmėms, susijusioms su keliais, finansuoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2118, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08302
 
 Straipsnio dalies numeracijos pakeitimas:
 
