@@ -4,7 +4,7 @@ identifier: "TAR.789C6EE505FD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-01"
-last_updated: "2017-06-30"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.789C6EE505FD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2017-06-30 iki 2019-05-28
+Suvestinė redakcija nuo 2019-05-29 iki 2019-08-02
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
 
@@ -83,13 +83,15 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 1. VTEK sudaro 5 nariai.
 
-2. Po vieną kandidatą į VTEK narius Seimui teikia Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, du kandidatus – Lietuvos teisininkų draugija. VTEK nario kandidatūrą teikiantis subjektas privalo ne vėliau kaip prieš tris mėnesius iki atitinkamo Komisijos nario kadencijos pabaigos pateikti Seimui naują VTEK nario kandidatūrą.
+2. Po vieną kandidatą į VTEK narius Seimui teikia Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, du kandidatus – Lietuvos teisininkų draugija. VTEK nario kandidatūrą teikiantis subjektas privalo ne vėliau kaip prieš tris mėnesius iki atitinkamo Komisijos nario kadencijos pabaigos pateikti Seimui naują VTEK nario kandidatūrą. Atitinkamo Komisijos nario įgaliojimams pasibaigus šio įstatymo 14 straipsnio 2–5 punktuose nurodytais pagrindais, VTEK nario kandidatūrą teikiantis subjektas naują VTEK nario kandidatūrą privalo pateikti Seimui ne vėliau kaip per tris mėnesius nuo atitinkamo Komisijos nario įgaliojimų pasibaigimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
 
 Nr. XIII-385, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09281
+
+Nr. XIII-2124, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08422
 
 3. VTEK narys yra Seimo skiriamas valstybės pareigūnas. VTEK nario kadencijos laikas – 5 metai. Tas pats asmuo VTEK nariu gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
 
@@ -692,6 +694,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-454, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11068
 
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 27 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2124, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08422
+
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 6 straipsnio pakeitimo įstatymas
 
 161 straipsnis. VTEK posėdžiai
 
