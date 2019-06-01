@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2019-05-01"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-06-10
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -104,6 +104,12 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
 
+14. Perkeliamasis asmuo – kaip ši sąvoka apibrėžta Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
+
 Straipsnio pakeitimai:
 
 Nr. XI-98, 2008-12-22, Žin., 2008, Nr. 149-6022 (2008-12-30)
@@ -162,7 +168,13 @@ Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
 
 4) užsieniečiai, kuriems suteikta papildoma apsauga Lietuvos Respublikoje;
 
-5) asmenys, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas.
+5) asmenys, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas;
+
+6) perkeliamieji asmenys.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
 
 2. Lietuvos Respublikos piliečiai, nuolat ar laikinai gyvenantys šalyse, su kuriomis Lietuvos Respublika yra sudariusi tarptautines sutartis dėl privalomojo sveikatos draudimo, ir šių šalių piliečiai, nuolat ar laikinai gyvenantys Lietuvos Respublikoje, draudžiami privalomuoju sveikatos draudimu šių sutarčių nustatyta tvarka.
 
@@ -236,7 +248,13 @@ Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
 
 18) nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis – Respublikos Prezidento kadencijos laikotarpiu;
 
-19) asmenys, atliekantys savanorišką praktiką Užimtumo įstatymo nustatyta tvarka.
+19) asmenys, atliekantys savanorišką praktiką Užimtumo įstatymo nustatyta tvarka;
+
+20) perkeliamieji asmenys.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
 
 Straipsnio dalies pakeitimai:
 
