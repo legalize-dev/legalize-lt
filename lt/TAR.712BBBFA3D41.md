@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2019-01-02"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-01-02 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -466,11 +466,17 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
-6) humanitarinei pagalbai teikti.
+6) humanitarinei pagalbai teikti;
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
+
+7) perkeliamųjų asmenų perkėlimo į Lietuvos Respubliką išlaidoms apmokėti.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2080, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07319
 
 3. Vyriausybės rezervo lėšų skyrimo ir naudojimo tvarką nustato Vyriausybė.
 
