@@ -4,7 +4,7 @@ identifier: "TAR.1DEDD43B92AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-03"
-last_updated: "2019-01-01"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
 
@@ -541,7 +541,11 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
 3. Šio straipsnio 2 dalyje nustatyti išmokų teikimo būdai vaiko (vaikų) poreikiams užtikrinti parenkami atsižvelgiant į socialinio darbuotojo, dirbančio su asmenimis, patiriančiais socialinę riziką, rekomendacijas.
 
-4. Asmenims, patiriantiems socialinę riziką, išmokos dydis piniginėmis lėšomis negali viršyti 50 procentų paskirtos išmokos dydžio.
+4. Asmenims, patiriantiems socialinę riziką, išmokos dydis piniginėmis lėšomis negali viršyti 50 procentų paskirtos išmokos dydžio, išskyrus atvejus, kai atvejo vadybininkas, koordinuojantis atvejo vadybos procesą, rekomenduoja didesnę kaip 50 procentų paskirtos išmokos dydžio sumą mokėti piniginėmis lėšomis, o kai atvejo vadyba netaikoma, – atsižvelgiant į socialinio darbuotojo, dirbančio su asmenimis, patiriančiais socialinę riziką, rekomendaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
 
 101 straipsnis. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai
 
