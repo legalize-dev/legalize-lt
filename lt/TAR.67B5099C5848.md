@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2019-03-01"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2019-03-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -78,8 +78,6 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 3. Taikydamas Europos Sąjungos teisės normas, teismas taip pat vadovaujasi Europos Sąjungos teisminių institucijų sprendimais. Įstatymų nustatytais atvejais teismas kreipiasi į kompetentingą Europos Sąjungos teisminę instituciją prašydamas prejudicinio sprendimo dėl Europos Sąjungos teisės aktų aiškinimo ar galiojimo.
 
 4. Lietuvos vyriausiasis administracinis teismas, kai tai susiję su jo nagrinėjama byla, gali kreiptis į Europos Žmogaus Teisių Teismą su prašymu pateikti konsultacinę išvadą dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
-
-TAR pastaba. 4 straipsnio 4 dalis įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną (2018-08-01).
 
 5. Administracinių bylų procesas vyksta pagal administracinio proceso įstatymus, galiojančius bylos nagrinėjimo, atskirų procesinių veiksmų atlikimo arba teismo sprendimo vykdymo metu.
 
@@ -1759,8 +1757,6 @@ Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
 
 2. Lietuvos vyriausiasis administracinis teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą su prašymu pateikti konsultacinę išvadą dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
 
-TAR pastaba. 100 straipsnio 2 dalis įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną (2018-08-01).
-
 3. Dėl teismo nutarties sustabdyti bylos nagrinėjimą, išskyrus nutartį sustabdyti bylos nagrinėjimą dėl kreipimosi į Konstitucinį Teismą (šio straipsnio 1 dalies 4 ar 5 punkte nurodytu atveju), administracinį teismą ar kompetentingą Europos Sąjungos teisminę instituciją arba nutartį pradėti norminio administracinio teisės akto teisėtumo tyrimą, gali būti duodamas atskirasis skundas.
 
 101 straipsnis. Bylos nagrinėjimo sustabdymo terminai
@@ -1778,8 +1774,6 @@ Bylos nagrinėjimas sustabdomas:
 5) šio įstatymo 100 straipsnio 1 dalies 10 punkte nurodytu atveju – iki banko ar Centrinės kredito unijos veiklos apribojimo (moratoriumo) taikymo pabaigos;
 
 6) šio įstatymo 100 straipsnio 2 dalyje nurodytu atveju – iki bus gauta Europos Žmogaus Teisių Teismo konsultacinė išvada;
-
-TAR pastaba. 101 straipsnio 6 punktas įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną (2018-08-01).
 
 7) šio įstatymo 100 straipsnio 1 dalies 11 punkte nurodytu atveju – iki bus išnagrinėtas atskirasis skundas;
 
@@ -2627,7 +2621,11 @@ Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
 
 11) bendrijų, politinių partijų, politinių organizacijų ar asociacijų priimtų bendro pobūdžio teisės aktų teisėtumo;
 
-12) užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, dėl leidimų gyventi Lietuvoje pakeitimo, taip pat dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo;
+12) užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, dėl leidimų gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2079, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07318
 
 13) savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų;
 
