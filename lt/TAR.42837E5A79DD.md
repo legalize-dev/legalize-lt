@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2019-05-01"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -3012,9 +3012,19 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 3. Šis Įstatymas netaikomas užsieniečiams, kurie naudojasi privilegijomis ir imunitetais pagal Lietuvos Respublikos tarptautines sutartis ir kitus teisės aktus.
 
-4. Kitų Lietuvos Respublikos įstatymų nuostatos šio Įstatymo reglamentuojamiems teisiniams santykiams taikomos tiek, kiek jų nereglamentuoja šis Įstatymas, išskyrus šio straipsnio 5 dalyje nurodytą išimtį.
+4. Kitų Lietuvos Respublikos įstatymų nuostatos šio Įstatymo reglamentuojamiems teisiniams santykiams taikomos tiek, kiek jų nereglamentuoja šis Įstatymas, išskyrus šio straipsnio 5 ir 6 dalyse nurodytas išimtis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
 
 5. Šio Įstatymo normos, reglamentuojančios leidimus dirbti ir leidimus gyventi Lietuvos Respublikoje, santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projekto įgyvendinimu, taikomos tiek, kiek jų nereglamentuoja Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas.
+
+6. Šio Įstatymo normos, reglamentuojančios leidimus dirbti ir leidimus gyventi Lietuvos Respublikoje ir užsieniečių integraciją, santykiams, susijusiems su užsieniečių perkėlimu iš humanitarinės krizės ištiktos užsienio valstybės ar jos dalies į Lietuvos Respubliką nuolat gyventi ir šių užsieniečių integracija, taikomos tiek, kiek jų nereglamentuoja Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
 
 Straipsnio pakeitimai:
 
@@ -5233,6 +5243,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1921, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00854
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2 ir 53 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 1 straipsnio pakeitimo įstatymas
 
 341 straipsnis. Leidimo gyventi išdavimas, keitimas skubos tvarka
 
