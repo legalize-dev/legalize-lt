@@ -4,7 +4,7 @@ identifier: "TAR.B4FA4C56B8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2015-04-01"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
 
 LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-04-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
 
@@ -196,7 +196,7 @@ Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 7) teisės akto tekstas;
 
-8) suvestinės teisės akto redakcijos.
+8) suvestinės teisės akto redakcijos;
 
 4. Teisės aktų registro duomenys prieinami neatlygintinai. Tais atvejais, kai Teisės aktų registro duomenys teikiami Lietuvos Respublikos įstatymuose, kituose teisės aktuose nustatyta tvarka asmenims, turintiems teisę juos gauti ir turintiems tikslą teikti paslaugas tretiesiems asmenims, arba kai asmenys pageidauja gauti duomenis, kuriems parengti ir pateikti reikalingos papildomos sąnaudos, Teisės aktų registro tvarkytojas nustato atlyginimo už šias paslaugas dydį, atsižvelgdamas į teikiamų duomenų kiekį ir naudojamus informacinių technologijų sprendimus. Atlyginimo už teikiamas paslaugas dydis viešai skelbiamas Teisės aktų registro tvarkytojo interneto svetainėje.
 
@@ -220,13 +220,15 @@ ANTRASIS SKIRSNIS
 
 TEISĖKŪROS INICIATYVŲ PAREIŠKIMAS IR TEISĖS AKTŲ PROJEKTŲ RENGIMAS
 
-8 straipsnis. Teisėkūros iniciatyvos
+8 straipsnis. Teisėkūros iniciatyvos
 
-1. Šio įstatymo 2 straipsnio 1 dalyje numatytos įstaigos teisėkūros iniciatyvas planuoja ir pareiškia teisės aktų nustatyta tvarka rengiamuose strateginio planavimo dokumentuose ir jas paskelbia Teisės aktų informacinėje sistemoje, nurodydamos siūlomo nustatyti naujo ar keičiamo esamo teisinio reguliavimo pagrindinius principus ir motyvus, preliminarų teisės akto projekto pavadinimą, teisės akto projekto rengimo priežastis ir tikslą, taip pat gali nurodyti teisės akto projekto rengimo pradžios ir pabaigos terminus, teisės akto projekto rengėją.
+1. Įstaigos teisėkūros iniciatyvas paskelbia Teisės aktų informacinėje sistemoje, nurodydamos siūlomo nustatyti naujo ar keičiamo galiojančio teisinio reguliavimo pagrindinius principus ir motyvus, preliminarų teisės akto projekto pavadinimą, teisės akto projekto rengimo priežastis ir tikslą, taip pat gali nurodyti teisės akto projekto rengimo pradžios ir pabaigos terminus, teisės akto projekto rengėją.
 
-2. Atsižvelgdamos į visuomenės ar atskirų asmenų pasiūlymus, taip pat reaguodamos į pasikeitusias teisines, ekonomines, socialines, finansines ar kitokias svarbias aplinkybes, šio įstatymo 2 straipsnio 1 dalyje numatytos įstaigos gali parengti ir šio straipsnio 1 dalyje nustatyta tvarka Teisės aktų informacinėje sistemoje paskelbti teisėkūros iniciatyvas, kurios nėra numatytos strateginio planavimo dokumentuose.
+2. Įstaigos privalo užtikrinti, kad Teisės aktų informacinėje sistemoje būtų skelbiama aktuali informacija apie numatomas įgyvendinti teisėkūros iniciatyvas.
 
-3. Šio įstatymo 2 straipsnio 1 dalyje numatytos įstaigos privalo užtikrinti, kad Teisės aktų informacinėje sistemoje būtų skelbiama aktuali informacija apie numatomas įgyvendinti teisėkūros iniciatyvas.
+Straipsnio pakeitimai:
+
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 
 9 straipsnis. Bendrosios teisės aktų projektų rengimo nuostatos
 
@@ -242,7 +244,11 @@ TEISĖKŪROS INICIATYVŲ PAREIŠKIMAS IR TEISĖS AKTŲ PROJEKTŲ RENGIMAS
 
 10 straipsnis. Darbo grupės (komisijos) teisės aktų projektams rengti
 
-1. Teisės akto projektui rengti gali būti sudaryta darbo grupė (komisija). Darbo grupės (komisijos) nariais gali būti valstybės ir savivaldybių institucijų ir įstaigų, nevyriausybinių organizacijų, mokslo ir studijų institucijų atstovai, atitinkamų sričių specialistai, kiti asmenys. Darbo grupės (komisijos) nariu negali būti lobistas.
+1. Teisės akto projektui rengti gali būti sudaryta darbo grupė (komisija). Darbo grupės (komisijos) nariais gali būti valstybės ir savivaldybių institucijų ir įstaigų, nevyriausybinių organizacijų, mokslo ir studijų institucijų atstovai, atitinkamų sričių specialistai, kiti asmenys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 
 2. Darbo grupė (komisija), kurios visiems nariams ar jų daliai būtų atlyginama už darbą darbo grupėje (komisijoje), gali būti sudaroma tik tais atvejais, kai teisės akto projektui parengti reikalingos specialios ir (ar) mokslinės žinios, išsami esamos padėties ir (ar) užsienio šalių praktikos analizė ir šių žinių ir (ar) gebėjimų neturi ir (ar) reikiamos analizės atlikti negali teisės akto projekto rengimą inicijuojantis subjektas.
 
@@ -625,4 +631,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 6 ir 19 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
+
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 10 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 2, 3, 5, 6, 7, 8, 10 straipsnių ir ketvirtojo skirsnio pakeitimo įstatymas
 
