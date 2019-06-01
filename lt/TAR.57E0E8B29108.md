@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2019-01-01"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-11-15
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -540,17 +540,53 @@ antros kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRAŠA
 
 12. Akcinė bendrovė „Lietuvos geležinkeliai“.
 
-13. Akcinė bendrovė Giraitės ginkluotės gamykla.
+13. Viešosios geležinkelių infrastruktūros valdytojas, nurodytas Lietuvos Respublikos geležinkelių transporto kodekse.
 
-14. Akcinė bendrovė „Jonavos grūdai“.
+Papildyta straipsnio dalimi:
 
-15. Akcinė bendrovė Lietuvos radijo ir televizijos centras.
+Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
 
-16. Akcinė bendrovė Lietuvos paštas.
+14. Lietuvos Respublikos geležinkelių transporto kodekse nurodytos geležinkelio įmonės (vežėjai), kurioms (kuriems) suteikiama išimtinė teisė gauti minimalųjį prieigos prie viešosios geležinkelių infrastruktūros paketą teikiant tranzito geležinkelių transportu paslaugas.
 
-17. UAB „Geoterma“.
+Papildyta straipsnio dalimi:
 
-18. AB „Detonas“.
+Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
+
+15. Akcinė bendrovė Giraitės ginkluotės gamykla.
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
+
+16. Akcinė bendrovė „Jonavos grūdai“.
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
+
+17. Akcinė bendrovė Lietuvos radijo ir televizijos centras.
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
+
+18. Akcinė bendrovė Lietuvos paštas.
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
+
+19. UAB „Geoterma“.
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
+
+20. AB „Detonas“.
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
 
 Lietuvos Respublikos
 
@@ -588,7 +624,11 @@ b) tarptautiniuose Vilniaus, Kauno, Palangos oro uostuose ir tarptautiniame Šia
 
 c) valstybinės reikšmės automobilių keliai;
 
-d) viešoji geležinkelių infrastruktūra ir kiti įrenginiai ir turtas, reikalingi sklandžiam geležinkelių transporto eismui užtikrinti;
+d) viešoji geležinkelių infrastruktūra, Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai ir kiti įrenginiai bei turtas, reikalingi sklandžiam geležinkelių transporto eismui užtikrinti;
+
+Papunkčio pakeitimai:
+
+Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
 
 e) Klaipėdos valstybinio jūrų uosto hidrotechniniai įrenginiai, krantinės, navigacijos keliai ir kanalai, navigaciniai įrenginiai ir kiti infrastruktūros objektai;
 
@@ -747,4 +787,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1453, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11765
 
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 1 priedo pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
+
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. XIII-992 2 ir 4 priedų pakeitimo įstatymas
 
