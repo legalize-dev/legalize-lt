@@ -4,7 +4,7 @@ identifier: "TAR.6A449FCC534B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-10"
-last_updated: "2018-01-01"
+last_updated: "2019-06-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-06-10
+Suvestinė redakcija nuo 2019-06-11 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
 
@@ -74,6 +74,12 @@ PIRMASIS SKIRSNIS
 
 6. Ekonominės veiklos vykdytojas – fizinis asmuo, juridinis asmuo, kita organizacija ar tokių asmenų grupė, įskaitant laikinus juridinių asmenų susivienijimus, kurie rinkoje siūlo vykdyti darbus ir (ar) sukurti darbą, tiekti prekes ar teikti paslaugas.
 
+61. Informacinė sistema „E. sąskaita“ – valstybės informacinė sistema, skirta koncesininkams informacinių technologijų priemonėmis parengti, pateikti ir išsaugoti su koncesijų sutarčių vykdymu susijusias sąskaitas, taip pat gauti informaciją apie suteikiančiajai institucijai pateiktų sąskaitų apmokėjimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
+
 7. Inovacija – kaip apibrėžta Viešųjų pirkimų įstatyme.
 
 8. Išimtinė teisė – įstatymuose nustatyta teisė, kuria siekiama tam tikrą veiklą leisti vykdyti vieninteliam ekonominės veiklos vykdytojui ir kuria daromas esminis poveikis kitų ekonominės veiklos vykdytojų galimybėms vykdyti tokią veiklą.
@@ -85,6 +91,12 @@ PIRMASIS SKIRSNIS
 11. Koncesijos dalyvis (toliau – dalyvis) – paraišką ar pasiūlymą koncesijos suteikimo procedūroje pateikęs ekonominės veiklos vykdytojas.
 
 12. Koncesijos dokumentai – suteikiančiosios institucijos teikiamas ar nurodomas dokumentas, kuriame aprašomi arba nustatomi koncesijos ar koncesijos suteikimo procedūros elementai, koncesijos skelbimas, techninė specifikacija, aprašomasis dokumentas, koncesijos sutarties projektas, dalyvių dokumentų teikimo tvarka, informacija apie koncesijai taikomus reikalavimus ir kiti dokumentai, dokumentų paaiškinimai (patikslinimai).
+
+121. Koncesijos iniciatorius (toliau – iniciatorius) – suteikiančiosios institucijos darbuotojas, kuris nurodo poreikį sudaryti koncesijos sutartį ir (ar) parengia techninę specifikaciją ir (ar) jos projektą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 13. Koncesijos sutarties sudarymo atidėjimo terminas (toliau – atidėjimo terminas) – 15 dienų laikotarpis, kuris prasideda nuo pranešimo apie sprendimą sudaryti koncesijos sutartį išsiuntimo suteikiančiosios institucijos suinteresuotiems dalyviams dienos ir kurio metu negali būti sudaroma koncesijos sutartis.
 
@@ -442,7 +454,11 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 22 straipsnis. Interesų konfliktas
 
-1. Koncesijose kylantiems interesų konfliktams priskiriami atvejai, kai suteikiančiosios institucijos ar įgaliotosios institucijos darbuotojai, Komisijos nariai ar ekspertai, dalyvaujantys koncesijos suteikimo procedūroje ar galintys daryti įtaką jos rezultatams, turi tiesioginį ar netiesioginį finansinį, ekonominį ar kitokio pobūdžio asmeninį suinteresuotumą, galintį neigiamai paveikti koncesijos suteikimo procedūroje priimamų sprendimų nešališkumą ir nepriklausomumą.
+1. Koncesijose kylantiems interesų konfliktams priskiriami atvejai, kai suteikiančiosios institucijos ar įgaliotosios institucijos darbuotojai, iniciatoriai, Komisijos nariai ar ekspertai, dalyvaujantys koncesijos suteikimo procedūroje ar galintys daryti įtaką jos rezultatams, turi tiesioginį ar netiesioginį finansinį, ekonominį ar kitokio pobūdžio asmeninį suinteresuotumą, galintį neigiamai paveikti koncesijos suteikimo procedūroje priimamų sprendimų nešališkumą ir nepriklausomumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 2. Suteikiančioji institucija, siekdama užkirsti kelią koncesijose kylantiems interesų konfliktams, turi reikalauti, kad kiekvienas šio straipsnio 1 dalyje nurodytas asmuo nedalyvautų koncesijos suteikimo procedūroje, ir tik tuo atveju, jeigu nėra kitų alternatyvų, koncesijos suteikimo procedūrose dalyvautų ar su koncesija susijusius sprendimus priimtų tik prieš tai pasirašęs konfidencialumo pasižadėjimą ir Viešųjų pirkimų tarnybos kartu su Vyriausiąja tarnybinės etikos komisija nustatytos formos nešališkumo deklaraciją. Suteikiančiosios institucijos ar įgaliotosios institucijos darbuotojai, Komisijos nariai ar ekspertai, dalyvaujantys koncesijos suteikimo procedūroje ar galintys daryti įtaką jos rezultatams, patekę į interesų konflikto situaciją, privalo nusišalinti nuo su atitinkama koncesija susijusių sprendimų priėmimo.
 
@@ -450,7 +466,11 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 23 straipsnis. Bendravimas ir keitimasis informacija
 
-1. Bet koks suteikiančiosios institucijos ir ekonominės veiklos vykdytojo bendravimas ir keitimasis informacija pagal šį įstatymą, įskaitant koncesijos skelbimą, kvietimus pateikti pasiūlymą ar kitus dokumentus, ekonominės veiklos vykdytojų paraiškas, pasiūlymus, vykdomas naudojantis Centrinės viešųjų pirkimų informacinės sistemos priemonėmis.
+1. Bet koks suteikiančiosios institucijos ir ekonominės veiklos vykdytojo bendravimas ir keitimasis informacija pagal šį įstatymą, įskaitant koncesijos skelbimą, kvietimus pateikti pasiūlymą ar kitus dokumentus, ekonominės veiklos vykdytojų paraiškas, pasiūlymus, vykdomas naudojantis Centrinės viešųjų pirkimų informacinės sistemos priemonėmis. Šioje dalyje nustatytų reikalavimų gali būti nesilaikoma tik išimtiniais šiame įstatyme nurodytais atvejais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 2. Suteikiančiosios institucijos ir ekonominės veiklos vykdytojo bendravimas ir keitimasis informacija gali būti vykdomi kitomis negu Centrinės viešųjų pirkimų informacinės sistemos priemonėmis, kai dėl koncesijos pobūdžio reikalinga naudoti specialių informacinių sistemų priemones ir įrangą, kurios nėra visuotinai naudojamos. Tokiu atveju ekonominės veiklos vykdytojui suteikiančioji institucija turi pasiūlyti alternatyvią prieigą prie šių priemonių ir įrangos. Laikoma, kad suteikiančioji institucija pasiūlė alternatyvias prieigos galimybes bet kuriuo iš šių atvejų:
 
@@ -469,6 +489,24 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 4. Suteikiančiosios institucijos ir ekonominės veiklos vykdytojo bendravimas ir keitimasis informacija žodžiu leistinas tik su sąlyga, kad jo turinys įforminamas raštu ar (ir) garso įrašais. Koncesijos dokumentai, paraiškos, preliminarūs neįsipareigojamieji pasiūlymai ir išsamūs įsipareigojamieji pasiūlymai negali būti pateikiami žodžiu.
 
 5. Neatsižvelgiant į pasirinktą suteikiančiosios institucijos ir ekonominės veiklos vykdytojo bendravimo ir informacijos pasikeitimo būdą, turi būti užtikrinama, kad būtų išsaugotas duomenų vientisumas, paraiškų ir pasiūlymų konfidencialumas. Taip pat būtina užtikrinti, kad suteikiančioji institucija su paraiškų ir pasiūlymų turiniu galėtų susipažinti tik pasibaigus nustatytam jų pateikimo terminui.
+
+6. Sąskaitos dėl atlygio, suteikiančiosios institucijos mokamo koncesininkui vykdant koncesijų sutartis (toliau – sąskaitos faktūros), teikiamos tik elektroniniu būdu. Elektroninės sąskaitos faktūros, atitinkančios Europos elektroninių sąskaitų faktūrų standartą, kurio nuoroda paskelbta 2017 m. spalio 16 d. Komisijos įgyvendinimo sprendime (ES) 2017/1870 dėl nuorodos į Europos elektroninių sąskaitų faktūrų standartą ir sintaksių sąrašo paskelbimo pagal Europos Parlamento ir Tarybos direktyvą 2014/55/ES (OL 2017 L 266, p. 19) (toliau – Europos elektroninių sąskaitų faktūrų standartas), teikiamos koncesininko pasirinktomis priemonėmis. Europos elektroninių sąskaitų faktūrų standarto neatitinkančios elektroninės sąskaitos faktūros gali būti teikiamos tik naudojantis informacinės sistemos „E. sąskaita“ priemonėmis. Suteikiančioji institucija elektronines sąskaitas faktūras priima ir apdoroja naudodamasi informacinės sistemos „E. sąskaita“ priemonėmis, išskyrus šio straipsnio 8 dalyje nustatytus atvejus. Šiame straipsnyje elektroninė sąskaita faktūra suprantama kaip sąskaita faktūra, išrašyta, perduota ir gauta tokiu elektroniniu formatu, kuris sudaro galimybę ją apdoroti automatiniu ir elektroniniu būdu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
+
+7. Informacinė sistema „E. sąskaita“ turi sudaryti galimybes suteikiančiosioms institucijoms priimti ir apdoroti elektronines sąskaitas faktūras, atitinkančias Europos elektroninių sąskaitų faktūrų standartą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
+
+8. Jeigu mobilizacijos, karo ar nepaprastosios padėties atveju yra Centrinės viešųjų pirkimų informacinės sistemos ar informacinės sistemos „E. sąskaita“ pažeidimų, dėl kurių negalimas suteikiančiosios institucijos ir ekonominės veiklos vykdytojo bendravimas ir keitimasis informacija naudojantis šiomis sistemomis, atliekant koncesijos suteikimo procedūras gali būti naudojamos kitos šiame straipsnyje Centrinei viešųjų pirkimų informacinei sistemai keliamus reikalavimus atitinkančios elektroninės priemonės, vykdant koncesijų sutartis sąskaitos faktūros gali būti teikiamos ne elektroninėmis priemonėmis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 24 straipsnis. Pasiūlymų ir paraiškų elektroninio gavimo priemonėms ir prietaisams keliami reikalavimai
 
@@ -1686,7 +1724,7 @@ GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, KONCESIJOS SUTARTIES PRIPAŽINIMAS NE
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -2154,6 +2192,12 @@ koncesijų įstatymo
 
 1. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/23/ES dėl koncesijos sutarčių suteikimo (OL 2014 L 94, p. 1).
 
+2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/55/ES dėl elektroninių sąskaitų faktūrų naudojimo viešuosiuose pirkimuose (OL 2014 L 133, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
+
 Pakeitimai:
 
 1.
@@ -2251,4 +2295,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-440, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10801
 
 Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
+
+Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 3, 22 ir 23 straipsnių ir 7 priedo pakeitimo įstatymas
 
