@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2019-06-01"
+last_updated: "2019-06-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2019-06-01 iki 2019-06-10
+Suvestinė redakcija nuo 2019-06-11 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -986,7 +986,11 @@ INSTITUCIJOS, VYKDANČIOS PRIVALOMĄJĮ SVEIKATOS DRAUDIMĄ
 
 3. Privalomojo sveikatos draudimo tarybą sudaro 15 narių. Privalomojo sveikatos draudimo taryba sudaroma taip, kad būtų vienodai ir lygiateisiškai atstovaujama valstybės institucijoms, draudėjų (darbdavių) organizacijoms ir apdraustųjų interesus ginančioms organizacijoms. Į Privalomojo sveikatos draudimo tarybą įeina:
 
-1) penki Vyriausybės deleguojami valstybės institucijų atstovai – po vieną Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerijos, Finansų ministerijos, Vyriausybės kanceliarijos ir Valstybinės ligonių kasos atstovą Tarybos nuostatuose nustatyta tvarka;
+1) penki valstybės institucijų atstovai – po vieną Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerijos, Finansų ministerijos, Vyriausybės kanceliarijos ir Valstybinės ligonių kasos atstovą – deleguojami Tarybos nuostatuose nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2152, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09404
 
 2) penki draudėjų (darbdavių) atstovai, iš kurių:
 
