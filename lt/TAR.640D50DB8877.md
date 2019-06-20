@@ -4,7 +4,7 @@ identifier: "TAR.640D50DB8877"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-11-24"
-last_updated: "2019-02-01"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-06-19
+Suvestinė redakcija nuo 2019-06-20 iki 2022-03-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
 
@@ -51,39 +51,119 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Įstatymo sąvokos
 
-1. Administracinės paslaugos smulkiajam ir vidutiniam verslui – informavimo, konsultavimo smulkiojo ir vidutinio verslo pradžios, plėtros, tarptautiškumo ir kitais verslui aktualiais klausimais paslaugų teikimas, verslo aplinkos ir užsienio rinkų analizė, tyrimai bei ūkio ministro patvirtintų smulkiojo ir vidutinio verslo skatinimo priemonių vykdymas arba administravimas, įgyvendinant smulkiojo ir vidutinio verslo politiką.
+1. Administracinės paslaugos smulkiajam ir vidutiniam verslui – informavimo, konsultavimo smulkiojo ir vidutinio verslo pradžios, plėtros, tarptautiškumo ir kitais verslui aktualiais klausimais paslaugų teikimas, verslo aplinkos ir užsienio rinkų analizė, tyrimai bei Lietuvos Respublikos ekonomikos ir inovacijų ministro (toliau – ekonomikos ir inovacijų ministras) patvirtintų smulkiojo ir vidutinio verslo ir startuolių skatinimo priemonių vykdymas arba administravimas, įgyvendinant smulkiojo ir vidutinio verslo politiką.
 
-2. Ekonominė veikla – savo rizika plėtojama reguliari asmens veikla siekiant pelno arba individualios veiklos atveju – pajamų, apimanti prekių pirkimą ar pardavimą, prekių gamybą, darbų atlikimą ar paslaugų teikimą kitiems asmenims už atlygį.
+Straipsnio dalies pakeitimai:
 
-3. Finansinės paramos priemonės – dalinis ar visiškas palūkanų dengimas, tam tikrų išlaidų (steigimo, tyrimų, garantijų mokesčių, kredito draudimo įmokų, sertifikavimo (registravimo), atitikties įvertinimo ir kitų) kompensavimas, subsidijos, dotacijos ir finansinės priemonės.
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
-4. Finansinės priemonės – nacionalinio biudžeto, Europos Sąjungos, tarptautinių finansų institucijų ir (ar) kitomis lėšomis įgyvendinamos paskolų (labai mažų, lengvatinių ir kitų paskolų), garantijų, rizikos kapitalo investicijų arba kitos priemonės, kurioms finansuoti ir (ar) įgyvendinti skirtos lėšos (ar jų dalis) grįžta ir pakartotinai naudojamos verslo poreikiams.
+2. Didelis ir inovacijomis grindžiamas verslo plėtros potencialas – inovacinę veiklą vykdančio smulkiojo ar vidutinio verslo subjekto pajėgumas prekes ir (ar) paslaugas pateikti ir (ar) paslaugas plėsti į tarptautines rinkas nenaudojant papildomų gamybos išteklių.
 
-5. Finansiniai duomenys – balanse nurodyto turto vertė ir metinės pajamos.
+Papildyta straipsnio dalimi:
 
-6. Įmonė – ekonominę veiklą vykdantis juridinis asmuo.
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
-7. Labai maža paskola – paskola verslininkui ar labai mažai įmonei iki 25 000 eurų dydžio.
+3. Ekonominė veikla – savo rizika plėtojama reguliari asmens veikla, kuri apima prekių pirkimą ar pardavimą, prekių gamybą, darbų atlikimą ar paslaugų teikimą kitiems asmenims ir kurią vykdant siekiama gauti pajamų.
 
-8. Lengvatinė paskola – paskola smulkiojo ir vidutinio verslo subjektams palankesnėmis sąlygomis, negu siūloma komercinėje paskolų rinkoje (mažesnė negu vidutinio metinio rinkos palūkanų dydžio palūkanų norma, valstybė ar savivaldybė kompensuoja dalį paskolos palūkanų ir kt.).
+Straipsnio dalies pakeitimai:
 
-9. Metinės pajamos – pardavimo grynosios pajamos, kaip jos suprantamos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, jeigu skaičiuojamos įmonės metinės pajamos, ir individualios veiklos pajamos, kaip jos apibrėžtos Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme, jeigu skaičiuojamos verslininko metinės pajamos.
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
-10. Neformalusis investuotojas – juridinis asmuo, fizinis asmuo arba fizinių asmenų grupė (išskyrus akcines bendroves, kurių akcijomis prekiaujama reguliuojamoje rinkoje), investuojantys nuosavą kapitalą į verslo pradžią ar inovatyvaus verslo plėtrą ir teikiantys įmonėms, į kurias investuoja, konsultavimo ir mokymo paslaugas.
+4. Finansinės paramos priemonės – dalinis ar visiškas palūkanų dengimas, tam tikrų išlaidų (steigimo, tyrimų, garantijų mokesčių, kredito draudimo įmokų, sertifikavimo (registravimo), atitikties įvertinimo ir kitų) kompensavimas, subsidijos, dotacijos ir finansinės priemonės.
 
-11. Partnerinės įmonės – įmonės, pagal šį įstatymą nepriskiriamos prie susijusių įmonių ir tiesiogiai ar netiesiogiai (per vieną ar kelias susijusias ar partnerines įmones) turinčios ne mažiau kaip 25 ir ne daugiau kaip 50 procentų kitos įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) turinčios ne mažiau kaip 25 ir ne daugiau kaip 50 procentų visų kitos įmonės dalyvių balsų.
+Straipsnio dalies numeracijos pakeitimas:
 
-12. Savarankiška įmonė – įmonė, kuri neturi nei partnerinių, nei susijusių įmonių.
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
-13. Smulkiojo ir (arba) vidutinio verslo asociacija – asociacija, kurios ne mažiau kaip 2/3 narių yra smulkiojo ir (arba) vidutinio verslo subjektai.
+5. Finansinės priemonės – nacionalinio biudžeto, Europos Sąjungos, tarptautinių finansų institucijų ir (ar) kitomis lėšomis įgyvendinamos paskolų (labai mažų, lengvatinių ir kitų paskolų), garantijų, rizikos kapitalo investicijų arba kitos priemonės, kurioms finansuoti ir (ar) įgyvendinti skirtos lėšos (ar jų dalis) grįžta ir pakartotinai naudojamos verslo poreikiams.
 
-14. Smulkiojo ar vidutinio verslo subjektas – labai maža, maža ar vidutinė įmonė, atitinkančios šio įstatymo 3 straipsnyje nustatytas sąlygas, arba verslininkas, atitinkantis šio įstatymo 4 straipsnyje nustatytas sąlygas.
+Straipsnio dalies numeracijos pakeitimas:
 
-15. Susijusios rinkos – tam tikros prekės ar paslaugos rinkos tiesioginių ryšių siejamų vartotojų ar tiekėjų rinkos.
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
-16. Susijusios įmonės – įmonės, atitinkančios šiame įstatyme nustatytus kriterijus.
+6. Finansiniai duomenys – balanse nurodyto turto vertė ir metinės pajamos.
 
-17. Valstybės parama:
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+7. Įmonė – ekonominę veiklą vykdantis juridinis asmuo.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+8. Labai maža paskola – paskola verslininkui ar labai mažai įmonei iki 25 000 eurų dydžio.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+9. Lengvatinė paskola – paskola smulkiojo ir vidutinio verslo subjektams palankesnėmis sąlygomis, negu siūloma komercinėje paskolų rinkoje (mažesnė negu vidutinio metinio rinkos palūkanų dydžio palūkanų norma, valstybė ar savivaldybė kompensuoja dalį paskolos palūkanų ir kt.).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+10. Metinės pajamos – pardavimo grynosios pajamos, kaip jos suprantamos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, jeigu skaičiuojamos įmonės metinės pajamos, ir individualios veiklos pajamos, kaip jos apibrėžtos Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme, jeigu skaičiuojamos verslininko metinės pajamos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+11. Neformalusis investuotojas – juridinis asmuo, fizinis asmuo arba fizinių asmenų grupė (išskyrus akcines bendroves, kurių akcijomis prekiaujama reguliuojamoje rinkoje), investuojantys nuosavą kapitalą į verslo pradžią ar inovatyvaus verslo plėtrą ir teikiantys įmonėms, į kurias investuoja, konsultavimo ir mokymo paslaugas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+12. Partnerinės įmonės – įmonės, pagal šį įstatymą nepriskiriamos prie susijusių įmonių ir tiesiogiai ar netiesiogiai (per vieną ar kelias susijusias ar partnerines įmones) turinčios ne mažiau kaip 25 ir ne daugiau kaip 50 procentų kitos įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) turinčios ne mažiau kaip 25 ir ne daugiau kaip 50 procentų visų kitos įmonės dalyvių balsų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+13. Savarankiška įmonė – įmonė, kuri neturi nei partnerinių, nei susijusių įmonių.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+14. Smulkiojo ir (arba) vidutinio verslo asociacija – asociacija, kurios ne mažiau kaip 2/3 narių yra smulkiojo ir (arba) vidutinio verslo subjektai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+15. Smulkiojo ar vidutinio verslo subjektas – labai maža, maža ar vidutinė įmonė, atitinkančios šio įstatymo 3 straipsnyje nustatytas sąlygas, arba verslininkas, atitinkantis šio įstatymo 4 straipsnyje nustatytas sąlygas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+16. Startuolis – didelį ir inovacijomis grindžiamą verslo plėtros potencialą turinti labai maža ar maža įmonė, Juridinių asmenų registre registruota ne ilgiau kaip 5 metus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+17. Susijusios rinkos – tam tikros prekės ar paslaugos rinkos tiesioginių ryšių siejamų vartotojų ar tiekėjų rinkos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+18. Susijusios įmonės – įmonės, atitinkančios šiame įstatyme nustatytus kriterijus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+19. Valstybės parama:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
 1) valstybės pagalba – priemonė, atitinkanti Sutarties dėl Europos Sąjungos veikimo (OL 2008 C 115, p. 1) 107 straipsnio 1 dalyje nustatytus kriterijus;
 
@@ -91,23 +171,49 @@ BENDROSIOS NUOSTATOS
 
 3) kita parama, teikiama valstybės biudžeto, savivaldybių biudžetų, valstybės ar savivaldybių pinigų fondų lėšomis.
 
-18. Verslas – ekonominės veiklos vykdymas.
+20. Verslas – ekonominės veiklos vykdymas.
 
-19. Verslininkas – fizinis asmuo, kuris verčiasi ekonomine veikla.
+Straipsnio dalies numeracijos pakeitimas:
 
-20. Verslo informacijos centras – viešoji įstaiga, kurios savininkė arba viena iš dalininkų yra valstybė ir (arba) savivaldybė ir kurios tikslas – teikiant viešąsias paslaugas verslui, skatinti naujų įmonių steigimąsi, padėti jau veikiantiems smulkiojo ir vidutinio verslo subjektams plėtoti veiklą, prisitaikyti prie kintančių rinkos sąlygų, didinti jų veiklos konkurencingumą ir efektyvumą.
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
-21. Verslo inkubatorius – viešoji įstaiga, kurios savininkė arba viena iš dalininkų yra valstybė ir (arba) savivaldybė ir kurios tikslas – teikiant viešąsias paslaugas verslui, sumažinti verslą pradedančių įmonių veiklos riziką ir padėti joms įsitvirtinti rinkoje, taip pat skatinti smulkiojo ir vidutinio verslo subjektų veiklos plėtrą. Verslo inkubatorius telkia verslą pradedančias įmones jam nuosavybės teise priklausančiose ar kitu teisiniu pagrindu valdomose ir naudojamose patalpose.
+21. Verslininkas – fizinis asmuo, kuris verčiasi ekonomine veikla.
 
-22. Verslumas – asmens kompetencija įgyvendinti pridėtinę ekonominę ar socialinę vertę kuriančias idėjas ir asmens ekonominis, socialinis ir kūrybinis aktyvumas verslo srityje.
+Straipsnio dalies numeracijos pakeitimas:
 
-23. Viešosios paslaugos smulkiajam ir vidutiniam verslui – informavimas, konsultavimas verslo pradžios, verslo plėtros ir kitais verslui aktualiais klausimais, mokymo, kvalifikacijos kėlimo ar perkvalifikavimo, metodinės paslaugos, teikiamos smulkiojo ir vidutinio verslo subjektams ir (arba) verslą pradėti ketinantiems fiziniams asmenims, taip pat patalpų, techninės ir biuro įrangos nuoma ir praktinė pagalba nuomojantiems šias patalpas smulkiojo ir vidutinio verslo subjektams.
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
-24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme.
+22. Verslo informacijos centras – viešoji įstaiga, kurios savininkė arba viena iš dalininkų yra valstybė ir (arba) savivaldybė ir kurios tikslas – teikiant viešąsias paslaugas verslui, skatinti naujų įmonių steigimąsi, padėti jau veikiantiems smulkiojo ir vidutinio verslo subjektams plėtoti veiklą, prisitaikyti prie kintančių rinkos sąlygų, didinti jų veiklos konkurencingumą ir efektyvumą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+23. Verslo inkubatorius – viešoji įstaiga, kurios savininkė arba viena iš dalininkų yra valstybė ir (arba) savivaldybė ir kurios tikslas – teikiant viešąsias paslaugas verslui, sumažinti verslą pradedančių įmonių veiklos riziką ir padėti joms įsitvirtinti rinkoje, taip pat skatinti smulkiojo ir vidutinio verslo subjektų veiklos plėtrą. Verslo inkubatorius telkia verslą pradedančias įmones jam nuosavybės teise priklausančiose ar kitu teisiniu pagrindu valdomose ir naudojamose patalpose.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+24. Verslumas – asmens kompetencija įgyvendinti pridėtinę ekonominę ar socialinę vertę kuriančias idėjas ir asmens ekonominis, socialinis ir kūrybinis aktyvumas verslo srityje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+25. Viešosios paslaugos smulkiajam ir vidutiniam verslui – informavimas, konsultavimas verslo pradžios, verslo plėtros ir kitais verslui aktualiais klausimais, mokymo, kvalifikacijos kėlimo ar perkvalifikavimo, metodinės paslaugos, teikiamos smulkiojo ir vidutinio verslo subjektams ir (arba) verslą pradėti ketinantiems fiziniams asmenims, taip pat patalpų, techninės ir biuro įrangos nuoma ir praktinė pagalba nuomojantiems šias patalpas smulkiojo ir vidutinio verslo subjektams.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme, Lietuvos Respublikos technologijų ir inovacijų įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1882, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00236
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
 II SKYRIUS
 
@@ -255,7 +361,11 @@ Valstybės institucijos ir įstaigos ar savivaldybės, nustatydamos priemones, p
 
 2. Šio įstatymo 2 straipsnio 1 dalyje nurodytas administracines paslaugas smulkiajam ir vidutiniam verslui teikia viešoji įstaiga „Versli Lietuva“.
 
-3. Šio įstatymo 2 straipsnio 1 dalyje nurodytų administracinių paslaugų smulkiajam ir vidutiniam verslui teikimas yra finansuojamas iš Lietuvos Respublikos ūkio ministerijai (toliau – Ūkio ministerija) skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
+3. Šio įstatymo 2 straipsnio 1 dalyje nurodytų administracinių paslaugų smulkiajam ir vidutiniam verslui teikimas yra finansuojamas iš Lietuvos Respublikos ekonomikos ir inovacijų ministerijai (toliau – Ekonomikos ir inovacijų ministerija) skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
 IV SKYRIUS
 
@@ -323,13 +433,21 @@ b) laikytis Lietuvos smulkiojo ir vidutinio verslo tarybos sprendimu tvirtinamo 
 
 3) yra atleistas iš darbo, pareigų už profesinės ar tarnybinės veiklos pažeidimus, netekęs teisės verstis atitinkama veikla už įstatymuose keliamo nepriekaištingos reputacijos reikalavimo neatitiktį ar etikos normų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis atitinkama veikla nepraėjo 3 metai.
 
-8. Lietuvos smulkiojo ir vidutinio verslo tarybos, kai ji atlieka šio straipsnio 3 dalyje nurodytas funkcijas, veiklos techninis ir ūkinis aptarnavimas finansuojamas, pagalba pasitelkiant ekspertus suteikiama Vyriausybės įgaliotos institucijos nustatyta tvarka ir finansuojama iš Ūkio ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
+8. Lietuvos smulkiojo ir vidutinio verslo tarybos, kai ji atlieka šio straipsnio 3 dalyje nurodytas funkcijas, veiklos techninis ir ūkinis aptarnavimas finansuojamas, pagalba pasitelkiant ekspertus suteikiama Vyriausybės įgaliotos institucijos nustatyta tvarka ir finansuojama iš Ekonomikos ir inovacijų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
 
-9. Lietuvos smulkiojo ir vidutinio verslo tarybai įgyvendinant šio straipsnio 3 dalies 3 punkte nurodytą funkciją, Ūkio ministerijos ir jai pavaldžių institucijų darbuotojai pagal kompetenciją teikia informaciją ir atlieka smulkiojo ir vidutinio verslo veiklą reguliuojančių teisės aktų ar jų projektų analizę bei teikia išvadas dėl teisės aktų poveikio smulkiajam ir vidutiniam verslui.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+9. Lietuvos smulkiojo ir vidutinio verslo tarybai įgyvendinant šio straipsnio 3 dalies 3 punkte nurodytą funkciją, Ekonomikos ir inovacijų ministerijos ir jai pavaldžių institucijų darbuotojai pagal kompetenciją teikia informaciją ir atlieka smulkiojo ir vidutinio verslo veiklą reguliuojančių teisės aktų ar jų projektų analizę bei teikia išvadas dėl teisės aktų poveikio smulkiajam ir vidutiniam verslui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -424,4 +542,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1882, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00236
 
 Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+
+Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2, 8 ir 9 straipsnių pakeitimo įstatymas
 
