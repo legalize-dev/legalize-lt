@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2019-05-01"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-19
+Suvestinė redakcija nuo 2019-06-20 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -5079,7 +5079,13 @@ a) mažos vertės pirkimus, kai ieškinys pareiškiamas iki perkančiosios organ
 
 b) supaprastintus pirkimus (išskyrus mažos vertės pirkimus), kai ieškinys pareiškiamas iki perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – tūkstančio eurų, o kai ieškinys pareiškiamas po perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – dviejų tūkstančių eurų;
 
-c) tarptautinius pirkimus, kai ieškinys pareiškiamas iki perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – trijų tūkstančių eurų, o kai ieškinys pareiškiamas po perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – penkių tūkstančių eurų;
+c) tarptautinius pirkimus, išskyrus tarptautinius pirkimus, skirtus ypatingos valstybinės svarbos projektams įgyvendinti, kai ieškinys pareiškiamas iki perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – trijų tūkstančių eurų, o kai ieškinys pareiškiamas po perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – penkių tūkstančių eurų;
+
+d) tarptautinius pirkimus, skirtus ypatingos valstybinės svarbos projektams įgyvendinti, kai ieškinys pareiškiamas iki perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – dešimt tūkstančių eurų, o kai ieškinys pareiškiamas po perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – penkiolikos tūkstančių eurų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2216, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09858
 
 5) bylose, kuriose ginčijami sprendimai, priimti suteikiant:
 
