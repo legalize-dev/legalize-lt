@@ -4,7 +4,7 @@ identifier: "TAR.AE58B14CE98F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2016-12-21"
+last_updated: "2019-06-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AE58B14CE98F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos peticijų įstatymas
 
-Suvestinė redakcija nuo 2016-12-21 iki 2019-06-19
+Suvestinė redakcija nuo 2019-06-20 iki 2021-04-29
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2128; Žin. 1999, Nr.104-0, i. k. 0991010ISTAIII-1313
 
@@ -289,6 +289,12 @@ Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010IS
 
 3. Seimo Peticijų komisija, išnagrinėjusi peticiją, Seimo statuto nustatyta tvarka teikia Seimui išvadas dėl peticijoje išdėstytų reikalavimų ir siūlymų tenkinimo. Tuo atveju, kai prieinama išvados tenkinti peticijoje išdėstytus reikalavimus ir siūlymus, gali būti parengiamas atitinkamo teisės akto projektas arba siūloma sudaryti komisiją ar darbo grupę teisės akto projektui parengti.
 
+4. Jeigu Seimas, išnagrinėjęs Peticijų komisijos išvadą, nusprendžia nepritarti Peticijų komisijos išvadai atmesti peticijoje pateiktus pasiūlymus, laikoma, kad Seimas nusprendžia tenkinti peticijoje išdėstytus pasiūlymus. Tokiu atveju Seimas paveda atitinkamo teisės akto projektą parengti Seimo komitetui, kurio kompetencijai priklauso nagrinėti klausimus, susijusius su peticijoje išdėstytais pasiūlymais.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2207, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09825
+
 13 straipsnis. Vyriausybei pateiktų peticijų nagrinėjimas
 
 1. Peticijos, pateiktos Vyriausybei, nagrinėjamos šio įstatymo, Vyriausybės darbo reglamento ir Peticijų komisijos nuostatų nustatyta tvarka.
@@ -386,4 +392,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-68, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29149
 
 Lietuvos Respublikos peticijų įstatymo Nr. VIII-1313 10 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2207, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09825
+
+Lietuvos Respublikos peticijų įstatymo Nr. VIII-1313 12 straipsnio pakeitimo įstatymas
 
