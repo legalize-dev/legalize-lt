@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2019-03-01"
+last_updated: "2019-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2019-03-01 iki 2019-06-27
+Suvestinė redakcija nuo 2019-06-28 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -2449,7 +2449,13 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 
 6) tą gaminių ir (ar) pakuočių atliekų kiekį, kuris gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančio dokumento išrašymo metu dar nebuvo sutvarkytas;
 
-7) tą eksportuotą gaminių ir (ar) pakuočių atliekų kiekį, apie kurio išvežimą neinformuota ir (ar) nepateiktas iš gavėjo gautas dokumentas, patvirtinantis išvežtų gaminių ir (ar) pakuočių atliekų panaudojimą, teisės aktų nustatyta tvarka ir terminais.
+7) tą eksportuotą gaminių ir (ar) pakuočių atliekų kiekį, apie kurio išvežimą neinformuota ir (ar) nepateiktas iš gavėjo gautas dokumentas, patvirtinantis išvežtų gaminių ir (ar) pakuočių atliekų panaudojimą, teisės aktų nustatyta tvarka ir terminais;
+
+8) gaminių ir (ar) pakuočių atliekų kiekį, kurio gavimą ir sutvarkymą pagal atliekų tvarkymą reglamentuojančių teisės aktų reikalavimus patvirtinantys dokumentai nepateikti aplinkos apsaugos valstybinę kontrolę atliekančiai institucijai.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2246, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10380
 
 3. Sprendimus dėl gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų pripažinimo negaliojančiais, vadovaudamasi aplinkos ministro nustatyta tvarka, priima Aplinkos ministerijos įgaliota institucija.
 
@@ -2509,7 +2515,11 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 
 1) nebeatitinka (nesilaiko) šiame straipsnyje nustatytų reikalavimų;
 
-2) pateikė klaidingus duomenis ir (ar) dokumentus.
+2) aplinkos apsaugos valstybinę kontrolę atliekančiai institucijai nepateikė dokumentų, patvirtinančių, kad gaminių ir (ar) pakuočių atliekos gautos ir sutvarkytos laikantis atliekų tvarkymą reglamentuojančių teisės aktų reikalavimų, arba pateikė klaidingus duomenis ir (ar) dokumentus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2246, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10380
 
 14. Atliekų tvarkytojų sąrašą sudaranti institucija, įspėdama gaminių ir (ar) pakuočių atliekų naudotoją (perdirbėją), gaminių ir (ar) pakuočių atliekų eksportuotoją, gaminių ir (ar) pakuočių atliekų surinkėją ir (ar) atliekų tvarkytoją, apdorojantį surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, apie galimą jų išbraukimą iš Atliekų tvarkytojų sąrašo nurodo galimo išbraukimo iš Atliekų tvarkytojų sąrašo priežastis ir terminą, per kurį jos turi būti pašalintos.
 
