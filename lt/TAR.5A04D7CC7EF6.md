@@ -4,7 +4,7 @@ identifier: "TAR.5A04D7CC7EF6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "2018-07-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
 
@@ -131,7 +131,11 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 1. Bibliotekų taryba yra institucija, atliekanti eksperto ir konsultanto funkcijas, kai sprendžiami bibliotekų politikos formavimo ir įgyvendinimo klausimai.
 
-2. Bibliotekų tarybos sudėtį ir nuostatus tvirtina kultūros ministras.
+2. Bibliotekų tarybos sudėtį ir jos nuostatus tvirtina kultūros ministras. Bibliotekų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1749, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20723
 
 6 straipsnis. Bibliotekų finansavimas ir lėšos
 
@@ -508,6 +512,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1316, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10968
 
 Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 6-1 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1749, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20723
+
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 5 straipsnio pakeitimo įstatymas
 
 20 straipsnis. Lietuvos bibliotekų fondas
 
