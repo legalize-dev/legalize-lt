@@ -4,7 +4,7 @@ identifier: "TAR.CA89372D00AA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2019-05-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
 
@@ -336,9 +336,17 @@ Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
 
 10) vykdo asmens ir jo turto apsaugą nuo nusikalstamo poveikio;
 
-11) tvarko asmens duomenis, išduoda ir keičia Lietuvos Respublikos pilietybę ir asmens tapatybę patvirtinančius dokumentus;
+11) neteko galios 2019-07-01;
 
-12) atlieka užsieniečių teisinės padėties Lietuvos Respublikoje kontrolę;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
+
+12) pagal kompetenciją atlieka Rusijos Federacijos piliečių vykimo iš Rusijos Federacijos teritorijos į Rusijos Federacijos Kaliningrado sritį ir atgal per Lietuvos Respublikos teritoriją kontrolę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
 
 13) organizuoja ir įgyvendina viešosios tvarkos ir visuomenės saugumo užtikrinimo priemones;
 
@@ -478,7 +486,11 @@ Pareigūnas, įgyvendindamas nusikalstamų veikų ar administracinių teisės pa
 
 1) lankytis gyvenamosiose patalpose, kuriose gyvena rizikos grupės asmenys, kviesti ir (ar) pristatyti juos į policiją prevencinio pokalbio, kviesti ir (ar) pristatyti į policiją, taip pat oficialiai įspėti rizikos grupės ir kitus asmenis dėl neleistino priešingo visuomenės ar jos narių interesams elgesio;
 
-2) įeiti į gyvenamąsias ar kitas patalpas, kai įtariama, kad jose gali būti laikomi ar gyventi neteisėtai Lietuvos Respublikoje esantys užsieniečiai, ar kai įtariama, kad užsieniečio sudaryta santuoka gali būti fiktyvi;
+2) neteko galios 2019-07-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
 
 3) bet kuriuo paros metu įeiti į nuteisto asmens ar asmens, kuriam paskirta kardomoji priemonė – namų areštas, ar asmens, kuriam taikomos prevencinio poveikio priemonės pagal Lietuvos Respublikos įstatymus, gyvenamąsias patalpas, kai tai yra susiję su teismo priimto nuosprendžio ar paskirto įpareigojimo vykdymu, tikrinti ten esančių asmenų dokumentus, taip pat kviesti ir (ar) pristatyti jį į policiją, kontroliuoti, kaip jis laikosi įstatymų ir (ar) teismo nustatytų apribojimų;
 
@@ -558,7 +570,11 @@ TREČIASIS SKIRSNIS PRIEVARTOS PANAUDOJIMAS
 
 1) prieš agresyvius ar linkusius žalotis asmenis;
 
-2) konvojuodamas arba pristatydamas į policijos įstaigą, kitą instituciją ar įstaigą administracinius nusižengimus ar nusikalstamas veikas padariusius (galimai padariusius) asmenis, atlikdamas šių asmenų apžiūrą, taip pat vykdydamas asmenų išsiuntimą iš Lietuvos Respublikos ar vykdydamas šių asmenų grąžinimą į Lietuvos Respubliką.
+2) konvojuodamas arba pristatydamas į policijos įstaigą, kitą instituciją ar įstaigą administracinius nusižengimus ar nusikalstamas veikas padariusius (galimai padariusius) asmenis, atlikdamas šių asmenų apžiūrą, taip pat vykdydamas asmenų grąžinimą į Lietuvos Respubliką.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
 
 5. Pareigūnas turi teisę transporto priemone stabdyti kitą transporto priemonę šią blokuodamas. Kai stabdoma transporto priemonė ar joje esantys asmenys savo veiksmais kelia neišvengiamą pavojų pareigūno ar kito asmens gyvybei ar sveikatai, pareigūnas turi teisę kita transporto priemone ar tam skirta specialiąja priemone stabdomą transporto priemonę taranuoti. Jei pareigūnas, vairuojantis transporto priemonę, blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla pavojus asmenų gyvybei ar sveikatai, po šių veiksmų nedelsdamas turi imtis priemonių šių veiksmų padariniams pašalinti.
 
