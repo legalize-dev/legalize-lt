@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2019-03-15"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-03-15 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-07-26
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -323,11 +323,19 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
 
-45) kitos funkcijos, nepriskirtos valstybės institucijoms.
+45) Šeimos kortelės programos įgyvendinimo priemonių organizavimas ir koordinavimas savivaldybės teritorijoje;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1407, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11731
+
+46) kitos funkcijos, nepriskirtos valstybės institucijoms.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
+
+Nr. XIII-1407, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11731
 
 Straipsnio pakeitimai:
 
