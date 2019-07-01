@@ -4,7 +4,7 @@ identifier: "TAR.3E147F656BC4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-01"
-last_updated: "2019-02-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
 
@@ -122,7 +122,11 @@ PROFESIONALIOJO SCENOS MENO VALSTYBINIS VALDYMAS
 
 4 straipsnis. Profesionaliojo scenos meno įstaigų taryba
 
-1. Prie Kultūros ministerijos sudaroma kolegiali, patariamojo balso teisę turinti Profesionaliojo scenos meno įstaigų taryba. Ši taryba atlieka eksperto ir konsultanto funkcijas sprendžiant Lietuvos profesionaliojo scenos meno įstaigų politikos formavimo ir įgyvendinimo klausimus. Profesionaliojo scenos meno įstaigų taryba sudaroma iš Lietuvos meno kūrėjų organizacijų asociacijai priklausančių profesionaliojo scenos meno srityje veikiančių asociacijų, viešųjų įstaigų ir Lietuvos meno kūrėjų organizacijų asociacijai nepriklausančių profesionaliojo scenos meno srityje veikiančių asociacijų atstovų. Lietuvos Respublikos kultūros ministras (toliau – kultūros ministras) tvirtina Profesionaliojo scenos meno įstaigų tarybos nuostatus ir šios tarybos personalinę sudėtį.
+1. Prie Kultūros ministerijos sudaroma kolegiali, patariamojo balso teisę turinti Profesionaliojo scenos meno įstaigų taryba. Ši taryba atlieka eksperto ir konsultanto funkcijas sprendžiant Lietuvos profesionaliojo scenos meno įstaigų politikos formavimo ir įgyvendinimo klausimus. Profesionaliojo scenos meno įstaigų taryba sudaroma iš Lietuvos meno kūrėjų organizacijų asociacijai priklausančių profesionaliojo scenos meno srityje veikiančių asociacijų, viešųjų įstaigų ir Lietuvos meno kūrėjų organizacijų asociacijai nepriklausančių profesionaliojo scenos meno srityje veikiančių asociacijų atstovų. Lietuvos Respublikos kultūros ministras (toliau – kultūros ministras) tvirtina Profesionaliojo scenos meno įstaigų tarybos nuostatus ir šios tarybos personalinę sudėtį. Profesionaliojo scenos meno įstaigų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1751, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20730
 
 2. Profesionaliojo scenos meno įstaigų taryba teikia išvadas ir pasiūlymus dėl:
 
@@ -645,6 +649,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1841, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21869
 
 Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 2 ir 9 straipsnių pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1751, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20730
+
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 4 straipsnio pakeitimo įstatymas
 
 20 straipsnis. Teatrų ir koncertinių įstaigų taryba
 
