@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2019-05-25"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2019-05-25 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
@@ -143,17 +143,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
 
-2. Programos finansavimo lėšos naudojamos vietinės reikšmės kelių (gatvių) tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra:
+2. Programos finansavimo lėšos naudojamos valstybės institucijų ar viešųjų įstaigų, kurių dalininkė yra valstybė, valstybės įmonių, savivaldybių ar viešųjų įstaigų, kurių dalininkė yra savivaldybė, savivaldybių įmonių valdomam vietinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra:
 
 1) keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
-2) keliams, kelių statiniams ir jų užimamai žemei inventorizuoti;
+2) kelių, kelių statinių ir jų užimamos žemės teisinei registracijai būtinoms procedūroms atlikti, daiktinėms teisėms į žemę, šių teisių suvaržymams, juridiniams faktams registruoti;
 
 3) tiltams, viadukams, estakadoms, tuneliams, pralaidoms projektuoti, apskaityti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
 4) apsaugos nuo triukšmo statiniams prie kelių statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
-5) kelio juostoje esantiems paviršiaus vandens nuleidimo įrenginiams ir lietaus kanalizacijai įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
+5) kelio juostoje esantiems paviršinio vandens nuleidimo įrenginiams ir lietaus kanalizacijai įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
 6) techninėms eismo reguliavimo ir kitoms inžinerinėms saugaus eismo priemonėms projektuoti, įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
@@ -165,11 +165,17 @@ Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
 
 10) šaligatviams, pėsčiųjų ir (ar) dviračių takams įrengti, projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
-11) institucijų ar įstaigų, atsakingų už vietinės reikšmės viešuosius kelius, paskoloms, naudojamoms vietinės reikšmės viešiesiems keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti), grąžinti ir palūkanoms mokėti.
+11) institucijų ar įstaigų, atsakingų už vietinės reikšmės viešuosius kelius, paskoloms, naudojamoms vietinės reikšmės viešiesiems keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti), grąžinti ir palūkanoms mokėti;
 
-Papildyta straipsnio dalimi:
+12) išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, želdinius ir kitas naudmenas, tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius, apmokėti, aplinkos apsaugos reikmėms, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius;
 
-Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+13) stovėjimo aikštelėms, skirtoms motorinėms transporto priemonėms arba dviračiams palikti, siekiant tęsti kelionę viešuoju transportu, įrengti, jeigu už naudojimąsi jomis neimamas atlygis;
+
+14) Programos finansavimo lėšų naudojimo pagal paskirtį kontrolei, darbų kokybės kontrolės priežiūrai vietinės reikšmės kelių objektuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 
 3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką ir paskiria institucijas šiam įstatymui įgyvendinti. Šio įstatymo įgyvendinimą prižiūri nuolatinė Programos komisija. Jos sudėtį ir nuostatus tvirtina Vyriausybė.
 
@@ -187,7 +193,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
 
-5. Metinėje lėšų naudojimo sąmatoje numatoma 25 procentai, o nuo 2015 m. sausio 1 d. – 30 procentų Programos finansavimo lėšų valstybei, savivaldybėms vietinės reikšmės keliams (gatvėms) tiesti, taisyti, prižiūrėti ir saugaus eismo sąlygoms užtikrinti.
+5. Metinėje lėšų naudojimo sąmatoje numatoma 30 procentų Programos finansavimo lėšų valstybės institucijų ar viešųjų įstaigų, kurių dalininkė yra valstybė, valstybės įmonių, savivaldybių ar viešųjų įstaigų, kurių dalininkė yra savivaldybė, savivaldybių įmonių valdomiems vietinės reikšmės keliams tiesti, taisyti, prižiūrėti ir saugaus eismo sąlygoms užtikrinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -4071,7 +4081,11 @@ autrap@lrs.lt
 
 6 straipsnis. Kelių naudotojo mokestis
 
-1. Transporto priemonių ar jų junginių, nurodytų šio įstatymo 2 priede, valdytojai moka kelių naudotojo mokestį už naudojimąsi magistraliniais keliais. Už naudojimąsi valstybinės reikšmės krašto, rajoniniais ar vietinės reikšmės keliais (gatvėmis) kelių naudotojo mokestis nemokamas.
+1. Transporto priemonių ar jų junginių, nurodytų šio įstatymo 2 priede, valdytojai moka kelių naudotojo mokestį už naudojimąsi magistraliniais keliais. Už naudojimąsi valstybinės reikšmės krašto, rajoniniais ar vietinės reikšmės keliais kelių naudotojo mokestis nemokamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 
 2. Kelių naudotojo mokesčio dydžius, neviršydama šio įstatymo 2 priede nustatytų ribinių tarifų, šio mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato Vyriausybė. Nustatyti mokesčio dydžiai turi būti proporcingi naudojimosi keliais trukmei. Mėnesio tarifas turi būti ne didesnis kaip 10 procentų metų tarifo, savaitės tarifas turi būti ne didesnis kaip 5 procentai metų tarifo, o dienos tarifas turi būti ne didesnis kaip 2 procentai metų tarifo.
 
