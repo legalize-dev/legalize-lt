@@ -4,7 +4,7 @@ identifier: "TAR.B4FA4C56B8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2019-06-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
 
 LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2019-06-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-03-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
 
@@ -256,9 +256,17 @@ Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 
 4. Darbo grupės (komisijos) teisės akto projektui parengti sudėtis ir veiklos laikotarpis turi būti nurodomi teisės akto projekto lydimuosiuose dokumentuose.
 
-5. Apmokėjimo už darbą Seimo, Seimo struktūrinių padalinių arba Seimo pareigūnų sudarytose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato Seimo statute nurodyta institucija.
+5. Darbas Seimo, Seimo struktūrinių padalinių arba Seimo pareigūnų sudarytose darbo grupėse (komisijose) teisės aktų projektams rengti apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
 
-6. Apmokėjimo už darbą Respublikos Prezidento, Vyriausybės, Ministro Pirmininko, iš valstybės biudžeto ar valstybės pinigų fondų išlaikomų įstaigų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
+
+6. Darbas Respublikos Prezidento, Vyriausybės, Ministro Pirmininko, iš valstybės biudžeto ar valstybės pinigų fondų išlaikomų įstaigų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
 
 7. Apmokėjimo už darbą savivaldybių tarybų, savivaldybių merų (merų pavaduotojų), savivaldybių administracijų direktorių, kitų iš savivaldybių biudžetų išlaikomų įstaigų vadovų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato savivaldybių tarybos.
 
@@ -336,7 +344,11 @@ Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 
 1. Rengiant teisės akto, kuriuo numatoma reglamentuoti iki tol nereglamentuotus santykius, taip pat kuriuo iš esmės keičiamas teisinis reguliavimas, projektą, privalo būti atliekamas numatomo teisinio reguliavimo poveikio vertinimas. Šio vertinimo išsamumas turi būti proporcingas galimoms numatomo teisinio reguliavimo pasekmėms. Sprendimą dėl numatomo teisinio reguliavimo poveikio vertinimo priima teisės akto projekto rengėjas.
 
-2. Atliekant numatomo teisinio reguliavimo poveikio vertinimą, nustatomas galimas teigiamas ir neigiamas poveikis to teisinio reguliavimo sričiai, asmenims ar jų grupėms, kuriems bus taikomas numatomas teisinis reguliavimas. Atsižvelgiant į teisės akte numatomo naujo teisinio reguliavimo pobūdį, mastą, turi būti įvertinamas poveikis ekonomikai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei situacijai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai ir kitoms sritims.
+2. Atliekant numatomo teisinio reguliavimo poveikio vertinimą, nustatomas galimas teigiamas ir neigiamas poveikis to teisinio reguliavimo sričiai, asmenims ar jų grupėms, kuriems bus taikomas numatomas teisinis reguliavimas. Atsižvelgiant į teisės akte numatomo naujo teisinio reguliavimo pobūdį, mastą, turi būti įvertinamas poveikis ekonomikai, konkurencijai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei situacijai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai ir kitoms sritims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2220, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10162
 
 3. Įstatymo ar kito Seimo teisės akto projekte numatomo teisinio reguliavimo poveikio vertinimo rezultatai pateikiami aiškinamajame rašte arba atskiru dokumentu. Rengiant kitus teisės aktų projektus, numatomo teisinio reguliavimo poveikio vertinimo rezultatai pateikiami Vyriausybės ar jos įgaliotos institucijos, savivaldybės tarybos ar jos įgaliotos institucijos nustatyta tvarka.
 
@@ -647,4 +659,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 2, 3, 5, 6, 7, 8, 10 straipsnių ir ketvirtojo skirsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2220, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10162
+
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15 straipsnio pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas
+
+161 straipsnis. Numatomo teisinio reguliavimo poveikio konkurencijai vertinimas
+
+Lietuvos Respublikos konkurencijos įstatymo nustatytais atvejais teisės aktų projektų rengėjai atlieka teisės aktų projektų poveikio konkurencijai vertinimą. Šio vertinimo tvarką nustato Vyriausybė.
+
+Papildyta straipsniu:
+
+Nr. XIII-2220, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10162
 
