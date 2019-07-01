@@ -4,7 +4,7 @@ identifier: "TAR.981F27E01089"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-07-04"
-last_updated: "2019-04-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.981F27E01089"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas
 
-Suvestinė redakcija nuo 2019-04-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3322, i. k. 1071010ISTA00X-1262
-
-TAR pastaba. Iki įstatymo Nr. XIII-1802  įsigaliojimo (2019-04-01) sudarytas delegavimo rezervas po šio įstatymo įsigaliojimo laikomas delegavimo į rinkimų stebėjimo misijas rezervu.  Iki šio įstatymo įsigaliojimo į delegavimo rezervą įrašytiems asmenims šio įstatymo 1 straipsnyje nauja redakcija išdėstyto Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 14 straipsnio 1 dalies 3 punkte nurodytas terminas pradedamas skaičiuoti nuo šio įstatymo įsigaliojimo dienos.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1802, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00215
-
-Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 pakeitimo įstatymas
 
 Nauja redakcija nuo 2019-04-01:
 
@@ -375,9 +367,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 Lietuvos Respublikos
 
-asmenų delegavimo į tarptautines ir
+asmenų delegavimo į tarptautines
 
-Europos Sąjungos institucijas ar
+ir Europos Sąjungos institucijas ar
 
 užsienio valstybių institucijas įstatymo
 
@@ -423,7 +415,7 @@ Su darbu užsienyje susijusių išlaidų kompensacijos koeficientai
 
 4,27
 
-2. Valstybės pareigūnai ir statutiniai valstybės tarnautojai, kurių darbo užmokestį arba pareigybių grupes nustato atitinkami jų veiklą reglamentuojantys statutai ir įstatymai, išskyrus deleguojamus į rinkimų stebėjimo misijas:
+2. Valstybės pareigūnai ir statutiniai valstybės tarnautojai, kurių darbo užmokestį arba pareigybių grupes nustato atitinkami jų veiklą reglamentuojantys statutai ir įstatymai, išskyrus deleguojamus į rinkimų stebėjimo misijas:
 
 2.1. Diplomatai:
 
@@ -525,35 +517,35 @@ Su darbu užsienyje susijusių išlaidų kompensacijos koeficientai
 
 2.4. Žvalgybos pareigūnai:
 
-2.4.1. kurių pareiginės algos koeficientas 17,0
+2.4.1. kurių pareiginės algos koeficientas 19,0 ir didesnis
 
 10,87
 
-2.4.2. kurių pareiginės algos koeficientas 16,0
+2.4.2. kurių pareiginės algos koeficientas 18,0–18,9
 
 9,70
 
-2.4.3. kurių pareiginės algos koeficientas 15,0
+2.4.3. kurių pareiginės algos koeficientas 17,0–17,9
 
 8,93
 
-2.4.4. kurių pareiginės algos koeficientas 12,9–14,0
+2.4.4. kurių pareiginės algos koeficientas 14,4–16,0
 
 8,15
 
-2.4.5. kurių pareiginės algos koeficientas 11,3–12,8
+2.4.5. kurių pareiginės algos koeficientas 12,8–14,3
 
 6,99
 
-2.4.6. kurių pareiginės algos koeficientas 9,7–11,2
+2.4.6. kurių pareiginės algos koeficientas 11,2–12,7
 
 5,82
 
-2.4.7. kurių pareiginės algos koeficientas 8,1–9,6
+2.4.7. kurių pareiginės algos koeficientas 9,6–11,1
 
 5,05
 
-2.4.8. kurių pareiginės algos koeficientas 6,5–8,0
+2.4.8. kurių pareiginės algos koeficientas 8,0–9,5
 
 4,27
 
