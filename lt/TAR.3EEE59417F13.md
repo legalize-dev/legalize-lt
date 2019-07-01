@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2019-05-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-07-03
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -206,7 +206,11 @@ Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
 
 4. Apskaičiuojant geriamojo vandens išlaidas, geriamojo vandens sąnaudos įvertinamos pagal nustatytas tiekėjų kainas.
 
-5. Jeigu namui, kuriame gyvenamąją vietą yra deklaravę ir (arba) būstą nuomojasi bendrai gyvenantys asmenys ir vienas gyvenantis asmuo ir (arba) dvi ar daugiau bendrai gyvenančių asmenų grupių, ir (arba) du ar daugiau vienų gyvenančių asmenų, šildyti ir (ar) karštam vandeniui paruošti yra įrengta bendra autonominė katilinė, kompensacijos apskaičiuojamos atskirai kiekvienai (kiekvienam) iš jų. Katilinėje per mėnesį sunaudotas kuras perskaičiuojamas į pagamintą šilumą, o šiluma būstams ir skirtingoms reikmėms (būstui šildyti ir karštam vandeniui paruošti) paskirstoma pagal būstų savininkų pasirinktą vieną iš Valstybinės kainų ir energetikos kontrolės komisijos rekomenduotų arba pagal būstų savininkų siūlomą ir su Valstybine kainų ir energetikos kontrolės komisija suderintą šilumos paskirstymo metodą.
+5. Jeigu namui, kuriame gyvenamąją vietą yra deklaravę ir (arba) būstą nuomojasi bendrai gyvenantys asmenys ir vienas gyvenantis asmuo ir (arba) dvi ar daugiau bendrai gyvenančių asmenų grupių, ir (arba) du ar daugiau vienų gyvenančių asmenų, šildyti ir (ar) karštam vandeniui paruošti yra įrengta bendra autonominė katilinė, kompensacijos apskaičiuojamos atskirai kiekvienai (kiekvienam) iš jų. Katilinėje per mėnesį sunaudotas kuras perskaičiuojamas į pagamintą šilumą, o šiluma būstams ir skirtingoms reikmėms (būstui šildyti ir karštam vandeniui paruošti) paskirstoma pagal būstų savininkų pasirinktą vieną iš Valstybinės energetikos reguliavimo tarybos rekomenduotų arba pagal būstų savininkų siūlomą ir su Valstybine energetikos reguliavimo taryba suderintą šilumos paskirstymo metodą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
 
 14 straipsnis. Turtas
 
@@ -432,7 +436,11 @@ Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 2. Jeigu viename būste gyvenamąją vietą yra deklaravę ir (arba) būstą nuomojasi bendrai gyvenantys asmenys ir vienas gyvenantis asmuo ir (arba) dvi ar daugiau bendrai gyvenančių asmenų grupių, ir (arba) du ar daugiau vienų gyvenančių asmenų, turinčių teisę į būsto šildymo išlaidų kompensacijas, kurie už komunalines paslaugas atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), šioms bendrai gyvenančių asmenų grupėms ir (arba) vieniems gyvenantiems asmenims būsto šildymo išlaidų kompensacijai apskaičiuoti taikomas naudingojo būsto ploto normatyvas apskaičiuojamas tokia pačia tvarka kaip vienai bendrai gyvenančiai asmenų grupei.
 
-3. Atskirų energijos ir kuro rūšių sąnaudų normatyvus vienam kvadratiniam metrui naudingojo būsto ploto šildyti, vienam kubiniam metrui vandens pašildyti ir vandens temperatūrai palaikyti (cirkuliacijai) tvirtina Valstybinė kainų ir energetikos kontrolės komisija.
+3. Atskirų energijos ir kuro rūšių sąnaudų normatyvus vienam kvadratiniam metrui naudingojo būsto ploto šildyti, vienam kubiniam metrui vandens pašildyti ir vandens temperatūrai palaikyti (cirkuliacijai) tvirtina Valstybinė energetikos reguliavimo taryba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
 
 4. Bendrai gyvenantiems asmenims, kurių nariui, deklaravusiam gyvenamąją vietą būste arba nuomojančiam būstą, kompensacijos pagal šio įstatymo 8 straipsnio 5 dalį neteikiamos, apskaičiuojant naudingojo būsto ploto, geriamojo ir karšto vandens normatyvus, šiam bendrai gyvenančiam asmeniui tenkanti šių normatyvų dalis nenustatoma. Vienam gyvenančiam asmeniui, kuriam kompensacijos pagal šio įstatymo 8 straipsnio 5 dalį neteikiamos, naudingojo būsto ploto, geriamojo ir karšto vandens normatyvai nenustatomi.
 
@@ -1072,11 +1080,19 @@ Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 4. Būstas – vienbutis gyvenamasis namas, butas ar kitos gyvenamosios patalpos arba jų dalys, tinkamos vienam asmeniui ar bendrai gyvenantiems asmenims gyventi ir atitinkančios esminius statinio (higienos, gaisrinės saugos ir kitus) reikalavimus.
 
-5. Būsto šildymo išlaidos – pagal Valstybinės kainų ir energetikos kontrolės komisijos rekomenduojamus ar su ja suderintus vartotojų siūlomus šilumos paskirstymo metodus būstui šildyti priskirtų centralizuotai tiekiamos šilumos sąnaudų arba pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą metodiką būstui šildyti nustatytų kitų energijos rūšių ar kuro sąnaudų, padaugintų iš jų kainos, suma, įskaitant pridėtinės vertės mokestį.
+5. Būsto šildymo išlaidos – pagal Valstybinės energetikos reguliavimo tarybos rekomenduojamus ar su ja suderintus vartotojų siūlomus šilumos paskirstymo metodus būstui šildyti priskirtų centralizuotai tiekiamos šilumos sąnaudų arba pagal Valstybinės energetikos reguliavimo tarybos patvirtintą metodiką būstui šildyti nustatytų kitų energijos rūšių ar kuro sąnaudų, padaugintų iš jų kainos, suma, įskaitant pridėtinės vertės mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
 
 6. Geriamojo vandens išlaidos – geriamojo vandens ir nuotekų kiekių, padaugintų iš jų kainų bei pardavimo veiklos sąnaudų (išlaidų), suma, įskaitant pridėtinės vertės mokestį.
 
-7. Karšto vandens išlaidos – kai karštas vanduo ar šiluma karštam vandeniui ruošti tiekiama centralizuotai, – pateikto apmokėti karšto vandens kiekio, padauginto iš jo kainos, arba pateiktų apmokėti geriamojo vandens karštam vandeniui ruošti kiekio ir šilumos šiam vandeniui pašildyti kiekio, padaugintų iš geriamojo vandens ir šilumos geriamajam vandeniui pašildyti kainų, arba, kai vanduo šildomas naudojant kitas energijos rūšis ar kurą, – kitų energijos rūšių ar kuro geriamajam vandeniui pašildyti kiekių, apskaičiuotų pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą metodiką, padaugintų iš jų kainų, bei pateiktos apmokėti centralizuotai tiekiamos šilumos kiekio arba pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą metodiką apskaičiuotų kitų energijos rūšių ar kuro kiekių karšto vandens temperatūrai palaikyti (cirkuliacijai), padaugintų iš jų kainų, suma, įskaitant pridėtinės vertės mokestį.
+7. Karšto vandens išlaidos – kai karštas vanduo ar šiluma karštam vandeniui ruošti tiekiama centralizuotai, – pateikto apmokėti karšto vandens kiekio, padauginto iš jo kainos, arba pateiktų apmokėti geriamojo vandens karštam vandeniui ruošti kiekio ir šilumos šiam vandeniui pašildyti kiekio, padaugintų iš geriamojo vandens ir šilumos geriamajam vandeniui pašildyti kainų, arba, kai vanduo šildomas naudojant kitas energijos rūšis ar kurą, – kitų energijos rūšių ar kuro geriamajam vandeniui pašildyti kiekių, apskaičiuotų pagal Valstybinės energetikos reguliavimo tarybos patvirtintą metodiką, padaugintų iš jų kainų, bei pateiktos apmokėti centralizuotai tiekiamos šilumos kiekio arba pagal Valstybinės energetikos reguliavimo tarybos patvirtintą metodiką apskaičiuotų kitų energijos rūšių ar kuro kiekių karšto vandens temperatūrai palaikyti (cirkuliacijai), padaugintų iš jų kainų, suma, įskaitant pridėtinės vertės mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
 
 8. Naudingasis būsto plotas – bendras gyvenamųjų kambarių ir kitų būsto patalpų (virtuvių, sanitarinių mazgų, koridorių, įstatytų spintų, šildomų lodžijų ir kitų šiltų pagalbinių patalpų) grindų plotas. Į naudingąjį būsto plotą neįskaitomas balkonų, terasų, rūsių, nešildomų lodžijų grindų plotas.
 
