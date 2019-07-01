@@ -4,7 +4,7 @@ identifier: "TAR.918B019D6351"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2013-01-30"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.918B019D6351"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "14 straipsnio 2 dalis įsigalioja 2012-09-26"
 
 LIETUVOS RESPUBLIKOS LIETUVOS KULTŪROS TARYBOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2013-01-30 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 111-5631, i. k. 1121010ISTA0XI-2218
 
@@ -145,7 +145,11 @@ Nr. XII-178, 2013-01-17, Žin., 2013, Nr. 11-512 (2013-01-30), i. k. 1131010ISTA
 
 1. Tarybos narių susirinkimą sudaro 10 narių, renkamų šio įstatymo 8 straipsnyje nustatyta tvarka, ir Tarybos pirmininkas. Personalinę Tarybos narių susirinkimo sudėtį kultūros ministro teikimu 4 metams tvirtina Vyriausybė. Tas pats asmuo Tarybos narių susirinkimo nariu gali būti ne daugiau kaip dvi kadencijas iš eilės.
 
-2. Tarybos narių susirinkimo narių teikiamų paslaugų apmokėjimo tvarką nustato kultūros ministras. Tarybos narių susirinkimo nariai turi teisę dirbti kitą darbą.
+2. Tarybos narių susirinkimo narių (išskyrus Tarybos pirmininką) darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. Tarybos narių susirinkimo nariai turi teisę dirbti kitą darbą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1756, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20737
 
 3. Tarybos narių susirinkimas svarsto ir sprendžia šiuos klausimus:
 
@@ -235,7 +239,11 @@ Nr. XII-178, 2013-01-17, Žin., 2013, Nr. 11-512 (2013-01-30), i. k. 1131010ISTA
 
 7. Atliekant dokumentų, kuriais grindžiamas finansavimo suteikimo prašymas, ekspertizę, su dokumentais dirba ne mažiau kaip 2 nepriklausomi ekspertai, kurių kiekvienas Tarybai pateikia savo išvadas.
 
-8. Ekspertų teikiamų paslaugų apmokėjimo tvarką nustato kultūros ministras.
+8. Ekspertų darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1756, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20737
 
 11 straipsnis. Tarybos administracija
 
@@ -267,7 +275,11 @@ Nr. XII-178, 2013-01-17, Žin., 2013, Nr. 11-512 (2013-01-30), i. k. 1131010ISTA
 
 2) kultūros ir meno projektams, programoms ir kitoms priemonėms finansuoti;
 
-3) Tarybos ir ekspertų paslaugoms apmokėti, Tarybos vadovo, administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, darbo užmokesčiui;
+3) Tarybos ir ekspertų atlygiui už darbą apmokėti, Tarybos vadovo, administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, darbo užmokesčiui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1756, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20737
 
 4) kitoms su Tarybos veikla susijusioms išlaidoms apmokėti.
 
@@ -291,7 +303,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 Pakeitimai:
 
@@ -302,4 +314,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-178, 2013-01-17, Žin., 2013, Nr. 11-512 (2013-01-30), i. k. 1131010ISTA0XII-178
 
 Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo 6 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1756, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20737
+
+Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo Nr. XI-2218 7, 10 ir 12 straipsnių pakeitimo įstatymas
 
