@@ -4,7 +4,7 @@ identifier: "TAR.06267D86738E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-07-09"
-last_updated: "2019-01-01"
+last_updated: "2019-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-08-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
 
@@ -252,7 +252,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
 
-4. Valstybės ir savivaldybių institucijos ir įstaigos, jų pareigūnai, tarnautojai, įmonės, jų darbuotojai privalo suteikti rinkimų komisijoms tinkamas patalpas, įrangą, kompiuterinę techniką ir interneto ryšį rinkimams rengti ir vykdyti. Rinkimams suteikiamų balsavimo patalpų tinkamumą ir jų įrengimą judėjimo ir (ar) regėjimo negalią turinčių ir senyvo amžiaus rinkėjų poreikiams privalo įvertinti savivaldybių institucijos, atsakingos už viešosios paskirties pastatų pritaikymą specialiesiems poreikiams.
+4. Valstybės ir savivaldybių institucijos, įstaigos bei įmonės privalo suteikti rinkimų komisijoms tinkamas patalpas, įrangą, kompiuterinę techniką ir interneto ryšį rinkimams rengti ir vykdyti. Savivaldybės administracija ne vėliau kaip per 20 dienų nuo rinkimų paskelbimo dienos, atsižvelgdama į patalpų, pritaikytų neįgaliems rinkėjams, poreikį konkrečioje rinkimų apylinkėje, privalo įvertinti, ar balsavimo patalpos tinkamos ir pritaikytos neįgaliųjų bei senyvo amžiaus rinkėjų poreikiams. Savivaldybės administracija, įvertinusi, kad balsavimo patalpos nėra tinkamos, privalo jas pritaikyti arba išnuomoti pritaikytas. Likus ne ilgiau kaip 2 mėnesiams iki rinkimų atliekamas pakartotinis balsavimo patalpų tinkamumo įvertinimas, kurį atlieka rinkimų komisijos kartu su savivaldybės administracija. Balsavimo patalpų tinkamumui įvertinti gali būti pasitelkiamos nevyriausybinės organizacijos. Balsavimo patalpų tinkamumas vertinamas ir nevyriausybinės organizacijos pasitelkiamos Vyriausiosios rinkimų komisijos nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
 
 5. Vyriausioji rinkimų komisija apygardų rinkimų komisijoms skirtas valstybės biudžeto lėšas rinkimams organizuoti perveda į kiekvienai rinkimų apygardai atidarytą Vyriausiosios rinkimų komisijos banko sąskaitą.
 
@@ -426,9 +430,15 @@ Seimo narius rinkėjai renka be tarpininkų.
 
 5 straipsnis. Slaptas balsavimas
 
-1. Rinkėjai balsuoja asmeniškai ir slaptai. Draudžiama balsuoti už kitą asmenį arba pavesti kitam asmeniui balsuoti už save. Rinkėjas, kuris dėl fizinių trūkumų negali pats balsuoti, gali balsuoti padedamas kito asmens, kuriuo jis pasitiki, kaip tai nustatyta šio įstatymo 66 straipsnio 6 dalyje. Jeigu kam nors tapo žinoma kito asmens balsavimo paslaptis, draudžiama ją atskleisti.
+1. Rinkėjai balsuoja asmeniškai ir slaptai. Draudžiama balsuoti už kitą asmenį arba pavesti kitam asmeniui balsuoti už save.
 
-2. Kontroliuoti rinkėjų valią rinkimuose draudžiama. Balsavimo metu draudžiama paveikti rinkėjo valią balsuoti arba nebalsuoti už kurį nors kandidatą ar kandidatų sąrašą. Rinkėjui turi būti sudarytos sąlygos slaptai ir netrukdomam užpildyti biuletenį. Su biuleteniu draudžiama atlikti tokius veiksmus, kurie galėtų atskleisti balsavimo paslaptį.
+2. Kontroliuoti rinkėjų valią rinkimuose draudžiama. Balsavimo metu draudžiama paveikti rinkėjo valią balsuoti arba nebalsuoti už kurį nors kandidatą ar kandidatų sąrašą. Rinkėjui turi būti sudarytos sąlygos slaptai ir netrukdomam užpildyti biuletenį. Su biuleteniu draudžiama atlikti tokius veiksmus, kurie galėtų atskleisti balsavimo paslaptį. Jeigu kam nors tapo žinoma kito asmens balsavimo paslaptis, draudžiama ją atskleisti.
+
+3. Rinkėjui, kuris dėl neįgalumo negali balsuoti savarankiškai, turi būti sudarytos sąlygos laisvai pasirinkti balsuoti padedamam kito asmens, kuriuo jis pasitiki, kaip tai nustatyta šio įstatymo 66 straipsnio 6 dalyje, arba pasinaudoti galimybe balsuoti neįgaliųjų poreikiams pritaikytose balsavimo patalpose.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
 
 6 straipsnis. Seimo rinkimų datos paskelbimas
 
@@ -478,7 +488,7 @@ Nr. X-1490, 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
 8 straipsnis. Rinkimų rengimo ir vykdymo išlaidos
 
-Seimo rinkimų rengimo ir vykdymo išlaidos apmokamos iš valstybės ir savivaldybių biudžetų. Iš valstybės biudžeto apmokamos rinkimų komisijų išlaidos rinkimams organizuoti ir vykdyti bei už rinkimų komisijų narių ir jas aptarnaujančio personalo bei balsavimo komisijų darbą. Iš savivaldybių biudžetų apmokama už balsavimo bei apygardų ir apylinkių rinkimų komisijų būstinių patalpų išlaikymą, balsavimo patalpų įrengimo inventoriaus įsigijimą ir išsaugojimą. Už rinkėjų pavėžėjimą į rinkimų apylinkes balsuoti, kai pavėžėjimas organizuojamas Vyriausiosios rinkimų komisijos nustatyta tvarka, apmokama iš valstybės ir savivaldybių biudžetų. Jeigu savivaldybė nesuteikia tinkamų patalpų ar inventoriaus rinkimų apylinkės būstinei ir balsavimo patalpoms, tam Vyriausiosios rinkimų komisijos sprendimu panaudojamos valstybės biudžeto lėšos. Šiuo atveju faktines išlaidas balsavimo patalpoms ir inventoriui per 2 mėnesius po rinkimų Vyriausioji rinkimų komisija ne ginčo tvarka išieško iš savivaldybės.
+Seimo rinkimų rengimo ir vykdymo išlaidos apmokamos iš valstybės ir savivaldybių biudžetų. Iš valstybės biudžeto apmokamos rinkimų komisijų išlaidos rinkimams organizuoti ir vykdyti, taip pat atlyginama už rinkimų komisijų narių ir jas aptarnaujančio personalo bei balsavimo komisijų darbą. Iš savivaldybių biudžetų mokama už balsavimo, apygardų ir apylinkių rinkimų komisijų būstinių patalpų išlaikymą, inventoriaus įsigijimą ir išsaugojimą, balsavimo patalpų įrengimą ir jų pritaikymą neįgaliųjų poreikiams, o jeigu galimybės įrengti balsavimo patalpų ar jų pritaikyti neįgaliųjų poreikiams nėra, – už tinkamų patalpų nuomą. Už rinkėjų pavėžėjimą į rinkimų apylinkes balsuoti, kai pavėžėjimas organizuojamas Vyriausiosios rinkimų komisijos nustatyta tvarka, mokama iš valstybės ir savivaldybių biudžetų. Jeigu savivaldybės administracija nesuteikia tinkamų patalpų ar inventoriaus rinkimų apylinkės būstinei ir balsavimo patalpoms, tam Vyriausiosios rinkimų komisijos sprendimu panaudojamos valstybės biudžeto lėšos. Šiuo atveju faktines išlaidas balsavimo patalpoms ir inventoriui per 2 mėnesius po rinkimų Vyriausioji rinkimų komisija ne ginčo tvarka išieško iš savivaldybės.
 
 Straipsnio pakeitimai:
 
@@ -487,6 +497,8 @@ Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
 Straipsnio pakeitimai:
 
 Nr. XII-2265, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06347
+
+Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
 
 ANTRASIS SKIRSNIS
 
@@ -2440,7 +2452,7 @@ Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
 
 931 straipsnis. Savivaldybės tarybos nario, savivaldybės tarybos nario – mero ir Europos Parlamento nario įgaliojimų nutrūkimas prieš terminą
 
-1. Savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario pareigas einantis asmuo, išrinktas Seimo nariu arba juo tapęs užimdamas laisvą Seimo nario vietą, netenka savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario mandato.
+1. Savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario pareigas einantis asmuo, išrinktas Seimo nariu arba juo tapęs užimdamas laisvą Seimo nario vietą, netenka savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario mandato.
 
 2. Vyriausioji rinkimų komisija per 15 dienų nuo šio straipsnio 1 dalyje nustatyto pagrindo atsiradimo savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario įgaliojimus pripažįsta nutrūkusiais prieš terminą.
 
