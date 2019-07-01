@@ -4,7 +4,7 @@ identifier: "TAR.C6E4170DB704"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-03"
-last_updated: "2019-05-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo I, II ir III skyriai įsigalioja nuo 199
 ---
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-08-02
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
 
@@ -371,7 +371,11 @@ GINČŲ SPRENDIMAS IR ŽALOS ATLYGINIMAS
 
 2. Pacientas ar kiti asmenys, turintys teisę į šio straipsnio 1 dalyje nurodytos žalos atlyginimą ir norintys gauti jos atlyginimą, su pareiškimu privalo kreiptis į Pacientų sveikatai padarytos žalos nustatymo komisiją, veikiančią prie Sveikatos apsaugos ministerijos. Pareiškimai šiai komisijai paduodami raštu. Pareiškime turi būti nurodyta: komisijos pavadinimas, pareiškėjo vardas, pavardė, asmens kodas, gyvenamoji vieta, taip pat atstovo, jeigu jis yra, vardas, pavardė ir adresas, sveikatos priežiūros įstaigos, kurios veika skundžiama, pavadinimas, buveinė, aplinkybės, kuriomis pareiškėjas grindžia savo reikalavimą (faktinis pareiškimo pagrindas), įrodymai, patvirtinantys pareiškėjo išdėstytas aplinkybes, pareiškėjo reikalavimas (pažeista teisė ir prašomas žalos dydis), pridedamų dokumentų sąrašas, pareiškimo surašymo vieta ir data. Pareiškimą pasirašo pareiškėjas ar jo atstovas. Prie atstovo paduodamo pareiškimo turi būti pridedamas įgaliojimas ar kitoks dokumentas, patvirtinantis atstovo įgaliojimus. Prašymas turi atitikti formos ir turinio reikalavimus.
 
-3. Pacientų sveikatai padarytos žalos nustatymo komisija yra privaloma ikiteisminė institucija ginčams dėl pacientų teisių pažeidimo fakto ir tuo padarytos žalos dydžio nustatymo nagrinėti. Šios komisijos sudarymo, veiklos, jos kompetencijai priskiriamų klausimų sprendimo tvarką reglamentuoja Pacientų sveikatai padarytos žalos nustatymo komisijos nuostatai, kuriuos tvirtina Vyriausybė ar jos įgaliota institucija. Pacientų sveikatai padarytos žalos nustatymo komisijos darbo reglamentą tvirtina sveikatos apsaugos ministras.
+3. Pacientų sveikatai padarytos žalos nustatymo komisija yra privaloma ikiteisminė institucija ginčams dėl pacientų teisių pažeidimo fakto ir tuo padarytos žalos dydžio nustatymo nagrinėti. Šios komisijos sudarymo, veiklos, jos kompetencijai priskiriamų klausimų sprendimo tvarką reglamentuoja Pacientų sveikatai padarytos žalos nustatymo komisijos nuostatai, kuriuos tvirtina Vyriausybė ar jos įgaliota institucija. Pacientų sveikatai padarytos žalos nustatymo komisijos darbo reglamentą tvirtina sveikatos apsaugos ministras. Pacientų sveikatai padarytos žalos nustatymo komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1745, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20718
 
 4. Pacientų sveikatai padarytos žalos nustatymo komisija sudaroma ketveriems metams iš 7 asmenų, turinčių medicininį, teisinį arba kitą universitetinį aukštąjį išsilavinimą, sveikatos apsaugos ministro įsakymu. Parenkant atstovus į šią komisiją, atsižvelgiama į tai, kad joje vienodai būtų atstovaujama pacientų ir asmens sveikatos priežiūros įstaigų interesams. Ne mažiau kaip 2 šios komisijos nariai turi būti pacientų teises ginančių nevyriausybinių organizacijų deleguoti atstovai. Sveikatos apsaugos ministerija užtikrina technines sąlygas šiai komisijai veikti.
 
