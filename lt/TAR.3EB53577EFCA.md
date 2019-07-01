@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2019-01-19"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.03.17)
 
-Suvestinė redakcija nuo 2019-01-19 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-11
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
 
@@ -255,7 +255,11 @@ Nr. XII-953, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09154
 
 10. Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Egzaminų, Etikos, Atestacijos komisijų sudėtį ir jų veiklos nuostatus įsakymu tvirtina generalinis prokuroras.
 
-11. Šiame straipsnyje nurodytų komisijų narių, išskyrus prokurorus, teisėjus, valstybės tarnautojus, darbo apmokėjimo tvarką nustato Vyriausybė.
+11. Šiame straipsnyje nurodytų komisijų narių darbas komisijose apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1740, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20710
 
 Straipsnio pakeitimai:
 
