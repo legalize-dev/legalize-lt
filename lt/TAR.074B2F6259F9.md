@@ -4,7 +4,7 @@ identifier: "TAR.074B2F6259F9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-04-03"
-last_updated: "2019-04-25"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.074B2F6259F9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas
 
-Suvestinė redakcija nuo 2019-04-25 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 47-1747, i. k. 1081010ISTA00X-1478
 
@@ -248,7 +248,11 @@ b) leisti teikti paslaugas.
 
 11. Jeigu kompetentinga institucija nustato esminį skirtumą tarp paslaugos teikėjo profesinės kvalifikacijos ir Lietuvos Respublikoje nustatytų rengimo reikalavimų ir to skirtumo negali kompensuoti kompetentingos institucijos tuo tikslu oficialiai patvirtinta paslaugos teikėjo profesinė patirtis arba visą gyvenimą trunkančio mokymosi metu įgytos žinios, įgūdžiai ir kompetencijos, o dėl šio skirtumo gali būti padaryta žalos visuomenės sveikatai ar saugai, paslaugos teikėjui suteikiama galimybė įrodyti profesinio tinkamumo testu, kaip nurodyta šio straipsnio 9 dalies 2 punkto a papunktyje, kad jis įgijo trūkstamų žinių, įgūdžių ar kompetencijų. Tuo remdamasi Lietuvos Respublikos kompetentinga institucija priima sprendimą leisti arba neleisti teikti paslaugas.
 
-12. Paslaugą galima pradėti teikti per vieną mėnesį nuo šio straipsnio 9 dalies 1 punkte ir 2 punkto b papunktyje nurodytų sprendimų priėmimo dienos.
+12. Paslaugą galima pradėti teikti per vieną mėnesį nuo šio straipsnio 9 dalyje nurodytų sprendimų priėmimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2240, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10363
 
 13. Jeigu Lietuvos Respublikos kompetentinga institucija nepriima sprendimo arba nepraneša apie kliūtis, dėl kurių šio sprendimo priėmimas atidedamas šio straipsnio 9 ir 10 dalyse nustatytais terminais, paslaugą galima pradėti teikti.
 
@@ -546,7 +550,11 @@ Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 
 8. Buvusios Sovietų Socialistinių Respublikų Sąjungos išduotų veterinarijos gydytojų formalios kvalifikacijos įrodymų atveju arba kai šie specialistai Estijoje pradėti rengti iki 1991 m. rugpjūčio 20 d., kartu su formalios kvalifikacijos įrodymu turi būti pateikiamas Estijos kompetentingų institucijų išduotas pažymėjimas apie profesinę patirtį, nurodantis, kad tokie asmenys faktiškai ir teisėtai užsiėmė atitinkama veikla jos teritorijoje ne trumpiau kaip penkerius metus iš eilės per septynerius metus iki pažymėjimo išdavimo.
 
-9. Kad valstybių narių piliečiai Lietuvos Respublikoje galėtų užsiimti pagrindinio rengimo medicinos gydytojo, gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio profesinėmis veiklomis, vaistininko profesine veikla, nurodyta šio įstatymo 43 straipsnio 2 dalyje, ir architekto profesine veikla, nurodyta šio įstatymo 46 straipsnyje, Lietuvos Respublikos kompetentinga institucija pripažįsta valstybių narių piliečių formalios kvalifikacijos įrodymą, suteikiantį galimybę užsiimti pagrindinio rengimo medicinos gydytojo ir gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio, vaistininko ir architekto profesine veikla, išduotą buvusioje Jugoslavijoje, arba jeigu šie specialistai pradėti rengti Slovėnijoje iki 1991 m. birželio 25 d., kai minėtos valstybės narės kompetentingos institucijos patvirtina, kad toks formalios kvalifikacijos įrodymas jų teritorijoje turi tokią pačią teisinę galią kaip ir jų išduodamas formalios kvalifikacijos įrodymas, o dėl architektų – kaip šio įstatymo 4 priedo 4 punkte toms valstybėms narėms nurodytas formalios kvalifikacijos įrodymas.
+9. Kad valstybių narių piliečiai Lietuvos Respublikoje galėtų užsiimti pagrindinio rengimo medicinos gydytojo, gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio profesinėmis veiklomis, vaistininko profesine veikla, nurodyta šio įstatymo 43 straipsnio 2 dalyje, ir architekto profesine veikla, nurodyta šio įstatymo 46 straipsnyje, Lietuvos Respublikos kompetentinga institucija pripažįsta valstybių narių piliečių formalios kvalifikacijos įrodymą, suteikiantį galimybę užsiimti pagrindinio rengimo medicinos gydytojo ir gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio, vaistininko ir architekto profesine veikla, išduotą buvusioje Jugoslavijoje, arba jeigu šie specialistai pradėti rengti Slovėnijoje iki 1991 m. birželio 25 d. ar Kroatijoje iki 1991 m. spalio 8 d., kai šių valstybių narių kompetentingos institucijos patvirtina, kad toks formalios kvalifikacijos įrodymas jų teritorijoje turi tokią pačią teisinę galią kaip ir jų išduodamas formalios kvalifikacijos įrodymas, o dėl architektų – kaip šio įstatymo 4 priedo 4 punkte toms valstybėms narėms nurodytas formalios kvalifikacijos įrodymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2240, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10363
 
 10. Šio straipsnio 5, 7, 9 dalyse nurodytas formalios kvalifikacijos įrodymas turi būti pateikiamas kartu su tų pačių kompetentingų institucijų išduotu pažymėjimu, nurodančiu, kad tokie asmenys faktiškai ir teisėtai užsiėmė atitinkama veikla jų teritorijoje ne trumpiau kaip trejus metus iš eilės per penkerius metus iki pažymėjimo išdavimo.
 
