@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "2017-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 @D1=19940623;D2=19960430;D3=19960603
 
-Suvestinė redakcija nuo 2017-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-11-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 51-951, i. k. 0941010ISTA000I-509
 
@@ -25,11 +25,7 @@ Nauja įstatymo redakcija nuo 2008-01-01:
 
 Nr. X-1300, 2007-10-18, Žin., 2007, Nr. 114-4631 (2007-11-08)
 
-LIETUVOS RESPUBLIKOS
-
-KONSULINIO MOKESČIO
-
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS KONSULINIO MOKESČIO  ĮSTATYMAS
 
 1994 m. birželio 23 d. Nr. I-509
 
@@ -181,11 +177,13 @@ Nr. XII-2118, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19707
 
 20) konsulinių pažymų apie atsisakymą atlikti notarinius veiksmus ir konsulinės pažymos, kad asmens, kuris kreipėsi į konsulinę įstaigą, prašymas netenkintinas, išdavimą;
 
-21) paso ar asmens tapatybės kortelės (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą, keitimą arba dokumentų dėl paso ar asmens tapatybės kortelės (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimo ir keitimo priėmimą ir perdavimą bendra tvarka vaikams, kuriems nustatyta globa ar rūpyba, užsienio valstybių išlaikomiems stacionariose globos įstaigose asmenims, vienišiems asmenims, sukakusiems senatvės pensijos amžių, asmenims, kuriems nustatytas 0–40 procentų darbingumo lygis, asmenims iki 18 metų, kuriems nustatytas neįgalumo lygis, asmenims, kuriems pagal Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymą pripažįstamas nuo okupacijų nukentėjusio – represuoto asmens teisinis statusas;
+21) paso ar asmens tapatybės kortelės (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą, keitimą arba dokumentų dėl paso ar asmens tapatybės kortelės (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimo ir keitimo priėmimą ir perdavimą bendra tvarka vaikams, kuriems nustatyta globa ar rūpyba, užsienio valstybių išlaikomiems stacionariose globos įstaigose asmenims, vienišiems asmenims, sukakusiems senatvės pensijos amžių, asmenims, kuriems nustatytas 0–40 procentų darbingumo lygis, asmenims iki 18 metų, kuriems nustatytas neįgalumo lygis, pasipriešinimo (rezistencijos) dalyviams, kuriems kario savanorio ar laisvės kovų dalyvio teisinis statusas pripažįstamas Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatyme nustatyta tvarka, ir Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 3 straipsnyje nurodytiems nuo okupacijų nukentėjusiems asmenims, kuriems pagal šį įstatymą pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1522, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21284
+
+Nr. XIII-2026, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05401
 
 22) prašymų išduoti Šengeno vizas pelno nesiekiančių organizacijų atstovams, jaunesniems negu 25 metų, dalyvaujantiems seminaruose, konferencijose, sporto, kultūriniuose ar švietimo renginiuose, kuriuos organizuoja pelno nesiekiančios organizacijos, nagrinėjimą;
 
@@ -233,7 +231,7 @@ Konsulinis mokestis įskaitomas į valstybės biudžetą.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -247,7 +245,7 @@ priedas
 
 2. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą Nr. 1612/68/EEB ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46).
 
-3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB)  Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1).
+3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1).
 
 Priedo pakeitimas:
 
@@ -382,6 +380,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2118, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19707
 
 Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3 ir 6 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2026, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05401
+
+Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 6 straipsnio pakeitimo įstatymas
 
 11 straipsnis. Baigiamosios nuostatos
 
