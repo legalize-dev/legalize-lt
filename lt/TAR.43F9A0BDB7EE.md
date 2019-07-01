@@ -4,7 +4,7 @@ identifier: "TAR.43F9A0BDB7EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2018-08-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43F9A0BDB7EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 17 straipsnis įsigalioja 2004-08-03."
 ---
 # Lietuvos Respublikos kultūros centrų įstatymas
 
-Suvestinė redakcija nuo 2018-08-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4435, i. k. 1041010ISTA0IX-2395
 
@@ -334,7 +334,11 @@ Savivaldybės taryba:
 
 2. Kultūros centrų tarybą sudaro 11 narių. 8 narius skiria ir atšaukia Lietuvos kultūros centrų asociacija, 3 – Kultūros ministerija.
 
-3. Tarybos sudėtį 2 metų laikotarpiui, jos nuostatus, apmokėjimo už teikiamas paslaugas tvarką tvirtina Kultūros ministerija.
+3. Kultūros centrų tarybos sudėtį 2 metų laikotarpiui, jos nuostatus tvirtina kultūros ministras. Kultūros centrų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1748, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20721
 
 ŠEŠTASIS SKIRSNIS
 
@@ -362,7 +366,7 @@ Kultūros ministerija iki šio įstatymo įsigaliojimo dienos parengia ir patvir
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -381,4 +385,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1417, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11328
 
 Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 9 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1748, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20721
+
+Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 15 straipsnio pakeitimo įstatymas
 
