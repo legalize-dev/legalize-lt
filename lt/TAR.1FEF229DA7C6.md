@@ -4,7 +4,7 @@ identifier: "TAR.1FEF229DA7C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2019-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
 
@@ -422,7 +422,7 @@ Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
 
 11) turi kitų teisės aktuose nustatytų teisių.
 
-5. Archyvų taryba – ekspertinė institucija, patarianti kultūros ministro kompetencijai priskirtais šio Įstatymo įgyvendinimo klausimais ir veikianti visuomeniniais pagrindais. Archyvų tarybą sudaro valstybės archyvų deleguoti ir kultūros ministro paskirti asmenys. Archyvų tarybos personalinę sudėtį ir jos veiklos nuostatus tvirtina kultūros ministras. Archyvų taryba kultūros ministrui pataria dėl:
+5. Archyvų taryba – ekspertinė institucija, patarianti kultūros ministro kompetencijai priskirtais šio Įstatymo įgyvendinimo klausimais. Archyvų tarybą sudaro valstybės archyvų deleguoti ir kultūros ministro paskirti asmenys. Archyvų tarybos personalinę sudėtį ir jos veiklos nuostatus tvirtina kultūros ministras. Archyvų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. Archyvų taryba kultūros ministrui pataria dėl:
 
 1) valstybės dokumentų ir archyvų politikos formavimo ir valstybinio administravimo;
 
@@ -431,6 +431,10 @@ Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
 3) valstybės dokumentų ir archyvų sričiai skiriamų biudžeto asignavimų ir kitų lėšų efektyvaus panaudojimo;
 
 4) kitų Archyvų tarybos nuostatuose nurodytų sričių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1754, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20735
 
 Straipsnio pakeitimai:
 
@@ -720,10 +724,6 @@ Likviduojamos nevalstybinės organizacijos ir privataus juridinio asmens veiklos
 
 16. Licencijos turėtojas turi teisę apskųsti sprendimus dėl licencijos galiojimo sustabdymo, licencijos galiojimo panaikinimo, atsisakymo panaikinti licencijos galiojimo sustabdymą.
 
-TAR pastaba. Licencijų teikti dokumentų tvarkymo paslaugą, išduotų iki 2016 m. balandžio 30 d., galiojimas panaikinamas 2016 m. gegužės 1 d. Lietuvos vyriausiojo archyvaro tarnyba dokumentų tvarkymo paslaugos teikimo veiklą vykdančius asmenis iki 2016 m. balandžio 30 d. įrašo į 18 straipsnio 1 dalyje nurodytą Dokumentų tvarkymo paslaugos teikėjų sąrašą. Su licencijomis teikti dokumentų tvarkymo ir (ar) saugojimo paslaugą susiję prašymai, gauti iki 2016 m. balandžio 30 d., dėl kurių nėra priimti sprendimai, nagrinėjami 18 straipsnyje nustatyta tvarka.
-
-18 straipsnyje nustatyti pažeidimų šalinimo ir licencijos galiojimo panaikinimo, nepašalinus nustatytų pažeidimų, terminai, prasidėję iki įstatymo Nr. XII-2240 įsigaliojimo (2016-05-01), skaičiuojami pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos dokumentų ir archyvų įstatymo nuostatas.
-
 Straipsnio pakeitimai:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
@@ -935,4 +935,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
 
 Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 ir 6 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1754, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20735
+
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 straipsnio pakeitimo įstatymas
 
