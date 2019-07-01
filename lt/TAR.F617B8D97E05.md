@@ -4,7 +4,7 @@ identifier: "TAR.F617B8D97E05"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-09"
-last_updated: "2019-05-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2021-08-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
 
@@ -337,15 +337,15 @@ Nr. XII-75, 2012-12-20, Žin. 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA
 
 25 straipsnis. Pasų ir asmens tapatybės kortelių išdavimas, keitimas ir pilietybės klausimai
 
-1. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos pilietybės įstatymo ir kitų teisės aktų nustatyta tvarka priima asmenų prašymus dėl Lietuvos Respublikos pilietybės ir dėl lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimo ir perduoda juos bei susijusius dokumentus Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai, ar kitai Lietuvos Respublikos institucijai, kuri pagal įstatymą turi kompetenciją nagrinėti ir spręsti Lietuvos Respublikos pilietybės klausimus.
+1. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos pilietybės įstatymo ir kitų teisės aktų nustatyta tvarka priima asmenų prašymus dėl Lietuvos Respublikos pilietybės ir dėl lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimo ir perduoda juos bei susijusius dokumentus Lietuvos Respublikos vidaus reikalų ministrui ar Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas).
 
-2. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka priima Lietuvos Respublikos piliečių prašymus ir kitus reikalingus dokumentus dėl paso ar asmens tapatybės kortelės išdavimo ar keitimo. Jeigu prašyme išduoti (pakeisti) pasą ar asmens tapatybės kortelę nurodyti piliečio duomenys, kurie įrašomi į pasą ar asmens tapatybės kortelę, sutampa su duomenimis, esančiais Lietuvos Respublikos gyventojų registro duomenų bazėje, ir abejonių dėl piliečio duomenų ir tapatybės nekyla, – konsulinis pareigūnas išduoda arba keičia pasą ar asmens tapatybės kortelę. Kitu atveju pasą ar asmens tapatybės kortelę konsulinis pareigūnas išduoda arba keičia tik po konsultacijų su teritorine policijos įstaiga Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka.
+2. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka priima Lietuvos Respublikos piliečių prašymus ir kitus reikalingus dokumentus dėl paso ar asmens tapatybės kortelės išdavimo ar keitimo. Jeigu prašyme išduoti (pakeisti) pasą ar asmens tapatybės kortelę nurodyti Lietuvos Respublikos piliečio duomenys, kurie įrašomi į pasą ar asmens tapatybės kortelę, sutampa su duomenimis, esančiais Lietuvos Respublikos gyventojų registro duomenų bazėje, ir abejonių dėl Lietuvos Respublikos piliečio duomenų ir tapatybės nekyla, – konsulinis pareigūnas išduoda arba keičia pasą ar asmens tapatybės kortelę. Kitu atveju pasą ar asmens tapatybės kortelę konsulinis pareigūnas išduoda arba keičia tik po konsultacijų su Migracijos departamentu Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka.
 
 3. Konsulinis pareigūnas arba įgaliotas darbuotojas, gavęs asmens tapatybę ir pilietybę patvirtinančius dokumentus ar lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančius dokumentus, Lietuvos Respublikos teisės aktų nustatyta tvarka įteikia juos jų prašiusiam asmeniui ar jo įgaliotam atstovui.
 
-4. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos teisės aktų nustatyta tvarka priima iš Lietuvos Respublikos piliečių pranešimus apie prarastus asmens tapatybę ir pilietybę patvirtinančius dokumentus, šiuos dokumentus paskelbia negaliojančiais arba Lietuvos Respublikos piliečių pranešimus perduoda kompetentingoms Lietuvos Respublikos institucijoms.
+4. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos teisės aktų nustatyta tvarka priima iš Lietuvos Respublikos piliečių pranešimus apie prarastus asmens tapatybę ir pilietybę patvirtinančius dokumentus, šiuos dokumentus paskelbia negaliojančiais arba Lietuvos Respublikos piliečių pranešimus apie prarastus asmens tapatybę ir pilietybę patvirtinančius dokumentus perduoda apskrities vyriausiajam policijos komisariatui arba Migracijos departamentui.
 
-5. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos įstatymų nustatytais atvejais paima iš Lietuvos Respublikos piliečių negaliojančius asmens tapatybę ir pilietybę patvirtinančius dokumentus ir Lietuvos Respublikos teisės aktų nustatyta tvarka perduoda juos teritorinei policijos įstaigai.
+5. Konsulinis pareigūnas arba įgaliotas darbuotojas Lietuvos Respublikos įstatymų nustatytais atvejais paima iš Lietuvos Respublikos piliečių negaliojančius asmens tapatybę ir pilietybę patvirtinančius dokumentus ir Lietuvos Respublikos teisės aktų nustatyta tvarka perduoda juos Migracijos departamentui.
 
 Straipsnio pakeitimai:
 
@@ -353,13 +353,17 @@ Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010IST
 
 Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
+Nr. XIII-2059, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06502
+
 26 straipsnis. Prašymo išduoti leidimą gyventi perdavimas
 
-Konsulinis pareigūnas arba įgaliotas darbuotojas priima asmens prašymą išduoti leidimą gyventi Lietuvos Respublikoje ir jį perduoda Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos.
+Konsulinis pareigūnas arba įgaliotas darbuotojas priima asmens prašymą išduoti leidimą gyventi Lietuvos Respublikoje ir jį perduoda Migracijos departamentui.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
+
+Nr. XIII-2059, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06502
 
 27 straipsnis. Lietuvos Respublikos piliečių konsulinė registracija
 
@@ -686,6 +690,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 Lietuvos Respublikos konsulinio statuto 2, 8, 9, 15, 16, 17, 20, 23, 25, 26, 27, 28, 31, 33, 35, 36 ir 37 straipsnių pakeitimo ir Statuto papildymo 7-1 ir 7-2 straipsniais įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1869, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00221
+
+Lietuvos Respublikos konsulinio statuto 25 ir 26 straipsnių pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2059, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06502
+
+Lietuvos Respublikos konsulinio statuto 25 ir 26 straipsnių pakeitimo įstatymo Nr. XIII-1869 1 ir 2 straipsnių pakeitimo įstatymas
 
 43 straipsnis
 
