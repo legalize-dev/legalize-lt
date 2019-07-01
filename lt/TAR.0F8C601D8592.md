@@ -4,7 +4,7 @@ identifier: "TAR.0F8C601D8592"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-09"
-last_updated: "2018-03-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-09-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
 
@@ -636,29 +636,79 @@ Valstybės sienos apsaugos tarnybos rinktinės vadui ir jo pavaduotojui (pavaduo
 
 2) atlikti asmens apžiūrą ir daiktų, krovinių patikrinimą, sulaikyti asmenis, įtariamus pažeidus valstybės sienos kirtimo tvarką, muitų, pasienio teisinį režimą, neteisėtai esančius ar gyvenančius šalyje užsieniečius, administracinio nusižengimo protokolui surašyti, kai negalima jo surašyti nusižengimo padarymo vietoje, administracinį nusižengimą tiriantis pareigūnas administracinėn atsakomybėn traukiamą asmenį šio sutikimu gali pristatyti į Valstybės sienos apsaugos tarnybos, policijos tarnybines patalpas ar seniūnijos patalpas kaimo vietovėse;
 
-3) kviesti į Valstybės sienos apsaugos tarnybos, policijos arba kitų teisėsaugos institucijų tarnybines patalpas asmenis ir gauti jų paaiškinimus dėl jiems žinomų neteisėto valstybės sienos kirtimo atvejų, o jeigu kviečiami asmenys be svarbios priežasties neatvyksta, kreiptis į policiją dėl atvesdinimo Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka;
+3) kviesti į Valstybės sienos apsaugos tarnybos, policijos arba kitų teisėsaugos institucijų tarnybines patalpas asmenis ir gauti jų paaiškinimus, susijusius su užsieniečių teisinės padėties nustatymu, taip pat dėl jiems žinomų neteisėto valstybės sienos kirtimo atvejų, o jeigu kviečiami asmenys be svarbios priežasties neatvyksta, kreiptis į policiją dėl atvesdinimo Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
 
 4) persekioti asmenis, įtariamus padarius nusikaltimus ar baudžiamuosius nusižengimus arba nuteistus už nusikaltimus ir besislepiančius nuo teisėsaugos institucijų, o siekiant užkirsti kelią daromiems nusikaltimams, persekiojant ir sulaikant teisės pažeidėjus bei atremiant ginkluotą įsiveržimą į šalies teritoriją, bet kuriuo paros metu įeiti į fiziniams ir juridiniams asmenims, juridinių asmenų filialams, atstovybėms bei juridinio asmens statuso neturintiems asmenims priklausiančias gyvenamąsias ir negyvenamąsias patalpas, teritorijas, panaudoti jiems priklausančias ryšių priemones ir transportą, sustabdyti transporto priemones ir patekti į jas;
 
-5) išduoti Šengeno vizas, kelionės dokumentuose, suteikiančiuose teisę asmenims kirsti valstybės sieną, daryti sienos kirtimo žymas, laikinai paimti asmens tapatybės ar kelionės dokumentus, jeigu jie yra Lietuvos Respublikoje išduoti kitiems asmenims ar suklastoti;
+5) įeiti į gyvenamąsias ar kitas patalpas, kai įtariama, kad jose gali būti laikomi ar gyventi neteisėtai Lietuvos Respublikoje esantys užsieniečiai, ar kai įtariama, kad užsieniečio sudaryta santuoka ar registruota partnerystė gali būti fiktyvi, atliktas įvaikinimas gali būti fiktyvus arba tose patalpose įsteigta fiktyvi įmonė;
 
-6) valstybės sienos apsaugos tikslais ar Lietuvos Respublikos nacionalinio saugumo sumetimais laikinai apriboti asmenų judėjimą Valstybės sienos apsaugos tarnybos kontroliuojamose vietose ir teritorijose, apriboti įėjimą ar įvažiavimą į tam tikrą pasienio kontrolės punkto teritorijos dalį;
+Papildyta straipsnio punktu:
 
-7) lydėti laivus ir transporto priemones ir būti juose;
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
 
-8) valstybės sienos apsaugos tikslais, nepažeidžiant asmens privataus gyvenimo neliečiamumo, fotografuoti, daryti garso ir (arba) vaizdo įrašus;
+6) išduoti Šengeno vizas, kelionės dokumentuose, suteikiančiuose teisę asmenims kirsti valstybės sieną, daryti sienos kirtimo žymas, laikinai paimti asmens tapatybės ar kelionės dokumentus, jeigu jie yra Lietuvos Respublikoje išduoti kitiems asmenims ar suklastoti;
 
-9) neatlygintinai gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių asmenų, juridinių asmenų filialų, atstovybių bei juridinio asmens statuso neturinčių asmenų informaciją, reikalingą valstybės sienos apsaugai vykdyti;
+Straipsnio punkto numeracijos pakeitimas:
 
-10) nustatydami sulaikytų užsieniečių asmens tapatybę ir jų teisinę padėtį Lietuvos Respublikoje, Valstybės sienos apsaugos tarnybos pareigūnai gali neatlygintinai naudotis Lietuvos Respublikos valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų, juridinių asmenų filialų, atstovybių bei juridinio asmens statuso neturinčių asmenų, valstybės ir žinybinių registrų, valstybės informacinės sistemos informacija;
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
 
-11) konvojuoti sulaikytus ir suimtus asmenis;
+7) valstybės sienos apsaugos tikslais ar Lietuvos Respublikos nacionalinio saugumo sumetimais laikinai apriboti asmenų judėjimą Valstybės sienos apsaugos tarnybos kontroliuojamose vietose ir teritorijose, apriboti įėjimą ar įvažiavimą į tam tikrą pasienio kontrolės punkto teritorijos dalį;
 
-12) atlikti radiacinę kontrolę;
+Straipsnio punkto numeracijos pakeitimas:
 
-13) įtardami, kad nusikalstamos veikos ar administracinio nusižengimo padarymu įtariamas asmuo yra neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, Vyriausybės nustatyta tvarka tikrinti, ar jis yra neblaivus ar apsvaigęs, taip pat neleisti neblaiviam ar apsvaigusiam nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmeniui ar asmeniui, neturinčiam teisės vairuoti arba dėl sveikatos būklės keliančiam pavojų saugiam eismui, vairuoti transporto priemonę;
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
 
-14) šio įstatymo nustatyta tvarka panaudoti prievartą.
+8) lydėti laivus ir transporto priemones ir būti juose;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
+
+9) valstybės sienos apsaugos tikslais, nepažeidžiant asmens privataus gyvenimo neliečiamumo, fotografuoti, daryti garso ir (arba) vaizdo įrašus;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
+
+10) neatlygintinai gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių asmenų, juridinių asmenų filialų, atstovybių bei juridinio asmens statuso neturinčių asmenų informaciją, reikalingą valstybės sienos apsaugai vykdyti;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
+
+11) nustatydami sulaikytų užsieniečių asmens tapatybę ir jų teisinę padėtį Lietuvos Respublikoje, Valstybės sienos apsaugos tarnybos pareigūnai gali neatlygintinai naudotis Lietuvos Respublikos valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų, juridinių asmenų filialų, atstovybių bei juridinio asmens statuso neturinčių asmenų, valstybės ir žinybinių registrų, valstybės informacinės sistemos informacija;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
+
+12) konvojuoti sulaikytus ir suimtus asmenis;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
+
+13) atlikti radiacinę kontrolę;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
+
+14) įtardami, kad nusikalstamos veikos ar administracinio nusižengimo padarymu įtariamas asmuo yra neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, Vyriausybės nustatyta tvarka tikrinti, ar jis yra neblaivus ar apsvaigęs, taip pat neleisti neblaiviam ar apsvaigusiam nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmeniui ar asmeniui, neturinčiam teisės vairuoti arba dėl sveikatos būklės keliančiam pavojų saugiam eismui, vairuoti transporto priemonę;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
+
+15) šio įstatymo nustatyta tvarka panaudoti prievartą.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
 
 2. Valstybės sienos apsaugos tarnybos pareigūnas, eidamas pareigas, privalo užtikrinti nukentėjusio, sulaikyto ar pristatyto į Valstybės sienos apsaugos tarnybą asmens teises ir teisėtus interesus, suteikti neatidėliotiną medicinos ar kitą būtinąją pagalbą asmeniui, nukentėjusiam nusikalstamos veikos ar administracinio nusižengimo padarymo metu, asmeniui, esančiam bejėgiškos būklės, taip pat asmeniui, nukentėjusiam sulaikymo metu, atlikti bendrąsias pareigas, nustatytas Vidaus tarnybos statute.
 
@@ -883,4 +933,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1016, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01029
 
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 pakeitimo įstatymo Nr. XIII-593 1 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
+
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 26 straipsnio pakeitimo įstatymas
 
