@@ -4,7 +4,7 @@ identifier: "TAR.863886C4199F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-08"
-last_updated: "2018-07-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.863886C4199F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos muziejų įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1292, i. k. 0951010ISTA000I-930
-
-TAR pastaba. Iki įstatymo Nr. XIII-1315 įsigaliojimo (2018-07-01) į muziejų vadovų pareigas tam tikram terminui priimti asmenys toliau eina atitinkamo muziejaus vadovo pareigas iki šio termino pabaigos. Šių asmenų pirma kadencija pradedama skaičiuoti laimėjus konkursą ir priimtiems į pareigas po šio įstatymo įsigaliojimo dienos.  Savivaldybių muziejų vadovai, iki šio įstatymo įsigaliojimo į pareigas priimti neterminuotai, jų sutikimu toliau eina atitinkamo muziejaus vadovo pareigas iki 2023 m. birželio 30 d. Šioje dalyje nurodytas penkerių metų nuo šio įstatymo įsigaliojimo laikotarpis yra laikomas pirmąja atitinkamo muziejaus vadovo kadencija.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1315, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10967
-
-Lietuvos Respublikos muziejų įstatymo Nr. I-930 7 ir 9 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2003-06-20:
 
@@ -153,11 +145,13 @@ Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
 
 5 straipsnis. Muziejų taryba
 
-Prie Kultūros ministerijos veikia kolegiali, patariamojo balso teisę turinti Muziejų taryba, vykdanti eksperto ir konsultanto funkcijas sprendžiant muziejų politikos formavimo ir įgyvendinimo klausimus. Muziejų tarybos sudarymo tvarką nustato ir jos nuostatus tvirtina kultūros ministras.
+Prie Kultūros ministerijos veikia kolegiali, patariamojo balso teisę turinti Muziejų taryba, vykdanti eksperto ir konsultanto funkcijas sprendžiant muziejų politikos formavimo ir įgyvendinimo klausimus. Muziejų tarybos sudarymo tvarką nustato ir jos nuostatus tvirtina kultūros ministras. Muziejų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
+
+Nr. XIII-1750, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20724
 
 6 straipsnis. Muziejų rūšys
 
@@ -428,6 +422,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1315, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10967
 
 Lietuvos Respublikos muziejų įstatymo Nr. I-930 7 ir 9 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1750, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20724
+
+Lietuvos Respublikos muziejų įstatymo Nr. I-930 5 straipsnio pakeitimo įstatymas
 
 15 straipsnis. Muziejinių vertybių apsauga ir apsaugos kontrolė
 
