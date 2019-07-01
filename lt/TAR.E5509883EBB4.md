@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2019-05-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
 
@@ -592,11 +592,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
-10. Draudžiama lošti asmenims, kuriems nėra sukakę 18 metų. Lošimus, organizuojamus lošimo namuose (kazino), įskaitant ir šiuos lošimus, organizuojamus nuotoliniu būdu, gali lošti asmenys, kuriems yra sukakę 21 metai. Jaunesnius kaip 21 metų asmenis draudžiama įleisti į lošimo namus (kazino). Draudžiama įleisti į lošimo namus (kazino) asmenis, turinčius ginklų, išskyrus asmenis, saugančius lošimo namus (kazino), ir pareigūnus, įstatymų nustatyta tvarka vykdančius tarnybines funkcijas. Šių reikalavimų laikymąsi privalo užtikrinti lošimų organizatorius.
+10. Draudžiama į lošimo automatų ir bingo salonus, lažybų ir totalizatorių punktus įleisti jaunesnius kaip 18 metų asmenis, taip pat asmenis, nepateikusius asmens tapatybę patvirtinančio dokumento, ir leisti jaunesniems kaip 18 metų asmenims dalyvauti nuotoliniuose lošimuose. Lošimus, organizuojamus lošimo namuose (kazino), įskaitant šiuos lošimus, organizuojamus ir nuotoliniu būdu, gali lošti asmenys, kuriems yra sukakę 21 metai. Draudžiama jaunesnius kaip 21 metų asmenis įleisti į lošimo namus (kazino). Draudžiama įleisti į lošimo namus (kazino) asmenis, turinčius ginklų, išskyrus asmenis, saugančius lošimo namus (kazino), ir pareigūnus, įstatymų nustatyta tvarka vykdančius tarnybines funkcijas. Šioje dalyje nustatytų reikalavimų laikymąsi privalo užtikrinti lošimų organizatorius.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
+
+Nr. XIII-2147, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09400
 
 101. Lošimų organizatorius, nustatęs, kad jis teikia paslaugas asmeniui, kuriam draudžiama lošti, arba kad tam asmeniui draudžiama būti lošimo vietoje, privalo nedelsdamas nutraukti paslaugos teikimą asmeniui ir pašalinti jį iš lošimo vietos, o nustatęs, kad asmuo, kuriam draudžiama lošti, dalyvauja nuotoliniame lošime, – nedelsdamas nutraukti nuotolinio lošimo paslaugos teikimą tokiam asmeniui ir pranešti Priežiūros tarnybai.
 
@@ -822,13 +824,15 @@ Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 
 20 straipsnis. Lošėjų tapatybės nustatymas
 
-1. Azartinius lošimus organizuojančios bendrovės privalo patikrinti kliento, įeinančio į lošimo automatų ir bingo salonus, lažybų bei totalizatoriaus punktus, tapatybę, jeigu kyla abejonių, kad asmuo yra jaunesnis negu 18 metų.
+1. Azartinius lošimus organizuojančios bendrovės privalo patikrinti klientų, įeinančių į lošimo automatų ir bingo salonus, lažybų bei totalizatoriaus punktus, tapatybę.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1166, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13586
 
 Nr. XIII-575, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12076
+
+Nr. XIII-2147, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09400
 
 2. Laimėjusio asmens reikalavimu lošimų organizatorius privalo jam išduoti Valstybinės mokesčių inspekcijos nustatytos formos pažymą, pagrindžiančią turto deklaravimą.
 
