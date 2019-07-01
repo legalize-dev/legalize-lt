@@ -4,7 +4,7 @@ identifier: "TAR.95C79D036AA4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2018-07-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-10
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 70-3170, i. k. 1031010ISTA0IX-1672
 
@@ -845,11 +845,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
 
-8. Darbuotojas, darbdavys, Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba) ar Fondo valdybos teritorinis skyrius, nesutikdami su profesinės ligos patvirtinimo aktu, gali jį skųsti Centrinei darbo medicinos ekspertų komisijai. Centrinė darbo medicinos ekspertų komisija sprendžia ginčytinus klausimus, susijusius su profesinės ligos diagnoze. Centrinė darbo medicinos ekspertų komisija sudaroma iš 12 Sveikatos apsaugos ministerijos, darbdavių ir darbuotojų organizacijų ir kitų valstybės įstaigų atstovų. Ne mažiau kaip 5 šios komisijos nariai turi būti asmens sveikatos priežiūros specialistai, turintys galiojančias medicinos praktikos licencijas, suteikiančias teisę verstis medicinos praktika pagal įgytą profesinę kvalifikaciją. Šios komisijos sudarymo, veiklos, jos kompetencijai priskiriamų ginčytinų klausimų, susijusių su profesinės ligos diagnoze, sprendimo tvarką nustato sveikatos apsaugos ministro patvirtinti Centrinės darbo medicinos ekspertų komisijos nuostatai. Centrinės darbo medicinos ekspertų komisijos teikiamos paslaugos apmokamos valstybės biudžeto lėšomis. Darbuotojas, darbdavys, Fondo valdyba ar Fondo valdybos teritorinis skyrius, nesutikdami su Centrinės darbo medicinos ekspertų komisijos sprendimu, gali jį skųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+8. Darbuotojas, darbdavys, Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba) ar Fondo valdybos teritorinis skyrius, nesutikdami su profesinės ligos patvirtinimo aktu, gali jį skųsti Centrinei darbo medicinos ekspertų komisijai. Centrinė darbo medicinos ekspertų komisija sprendžia ginčytinus klausimus, susijusius su profesinės ligos diagnozės nustatymu. Centrinė darbo medicinos ekspertų komisija sudaroma iš 12 Sveikatos apsaugos ministerijos, darbdavių ir darbuotojų organizacijų ir kitų valstybės įstaigų atstovų. Ne mažiau kaip 5 šios komisijos nariai turi būti asmens sveikatos priežiūros specialistai, turintys galiojančias medicinos praktikos licencijas, suteikiančias teisę verstis medicinos praktika pagal įgytą profesinę kvalifikaciją. Šios komisijos sudarymo, veiklos, jos kompetencijai priskiriamų ginčytinų klausimų, susijusių su profesinės ligos diagnozės nustatymu, sprendimo tvarką nustato sveikatos apsaugos ministro patvirtinti Centrinės darbo medicinos ekspertų komisijos nuostatai. Centrinės darbo medicinos ekspertų komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. Darbuotojas, darbdavys, Fondo valdyba ar Fondo valdybos teritorinis skyrius, nesutikdami su Centrinės darbo medicinos ekspertų komisijos sprendimu, gali jį skųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
+
+Nr. XIII-1746, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20719
 
 9. Įvykį darbe, dėl kurio darbuotojas patiria žalą sveikatai ir dėl kurio mirė 3 ir daugiau darbuotojų, tiria komisija. Šios komisijos pirmininkas yra vyriausiasis valstybinis darbo inspektorius, nariai – vyriausiojo valstybinio darbo inspektoriaus pavaduotojas, Valstybinės darbo inspekcijos teritorinio skyriaus vedėjas ir šio skyriaus 2 darbo inspektoriai. Atliekant tyrimą, dalyvauja darbdavio atstovas ir darbuotojų atstovo (atstovų) skirti asmenys.
 
@@ -1172,6 +1174,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
 
 Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2, 5, 8, 12, 21, 27, 44, 45, 47 ir 48 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1746, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20719
+
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 44 straipsnio pakeitimo įstatymas
 
 13 straipsnis. Darbuotojų dalyvavimas įgyvendinant darbuotojų saugos ir sveikatos priemones. Darbuotojų saugos ir sveikatos komitetai, darbuotojų atstovai saugai ir sveikatai
 
