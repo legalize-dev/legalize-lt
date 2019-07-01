@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2019-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -2619,13 +2619,15 @@ Nr. XII-2510, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20647
 
 3) į tarptautines operacijas ar specialiąsias misijas tarnybos atlikti (dirbti) siunčiamiems, jose dalyvaujantiems ir dalyvavusiems krašto apsaugos sistemos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis;
 
-4) išleistiems į atsargą kariams, atleistiems iš tarnybos žvalgybos pareigūnams ir atleistiems iš civilinės krašto apsaugos tarnybos statutiniams valstybės tarnautojams – pareigūnų ir karių valstybinės pensijos už tarnybą ir pareigūnų ir karių valstybinės netekto darbingumo pensijos gavėjams – ne ilgiau kaip 6 mėnesius po jų išleidimo į atsargą ar atleidimo iš tarnybos dienos;
+4) išleistiems į atsargą kariams ir atleistiems iš tarnybos žvalgybos pareigūnams – pareigūnų ir karių valstybinės pensijos už tarnybą ir pareigūnų ir karių valstybinės netekto darbingumo pensijos gavėjams – ne ilgiau kaip 6 mėnesius po jų išleidimo į atsargą ar atleidimo iš tarnybos dienos;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1823, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10574
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+
+Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
 
 5) užsienio valstybių kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams, atvykstantiems į Lietuvos Respubliką pagal tarptautines bendradarbiavimo programas;
 
