@@ -4,7 +4,7 @@ identifier: "TAR.C828E20E430B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2018-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C828E20E430B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ entry_into_force_conditions: "Įstatymo 8 straipsnio 2 dalies 1, 2 ir 3 punktai 
 ---
 # Lietuvos Respublikos kino įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1107, i. k. 1021010ISTA00IX-752
-
-TAR pastaba. Iki šio įstatymo (Nr. XIII-885) įsigaliojimo (2018-01-01) su Lietuvos kino centru pasirašytos kino valstybinio finansavimo sutartys dėl filmų parengiamųjų ir gamybos darbų, kino sklaidos ir platinimo projektų baigiamos vykdyti pagal teisės aktus, galiojusius iki šio įstatymo įsigaliojimo. Filmų indeksavimo pagal žiūrovų amžiaus cenzą ir registravimo Filmų registre procedūros, pradėtos iki šio įstatymo įsigaliojimo, baigiamos vykdyti pagal paraiškos filmui indeksuoti ir prašymo registruoti filmą pateikimo metu galiojusius teisės aktus.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-885, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21487
-
-Lietuvos Respublikos kino įstatymo Nr. IX-752 pakeitimo įstatymas
 
 Nauja redakcija nuo 2018-01-01:
 
@@ -276,7 +268,11 @@ KINO FINANSAVIMAS
 
 3. Ekspertų komisijos sudaromos iš Lietuvos kino meno kūrėjų, profesionalių kino meno vertintojų, filmų gamintojų.
 
-4. Lietuvos kino centro direktorius, suderinęs su kultūros ministru, nustato ekspertų komisijų skaičių, nuostatus ir personalinę sudėtį. Ekspertų darbo apmokėjimo tvarką nustato Vyriausybė.
+4. Lietuvos kino centro direktorius, suderinęs su kultūros ministru, nustato ekspertų komisijų skaičių, nuostatus ir personalinę sudėtį. Ekspertų komisijų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
 
 5. Ekspertų komisijos nariai turi veikti nešališkai, sąžiningai ir tinkamai atlikti komisijos nario pareigas, vengti viešųjų ir privačių interesų konflikto ir, esant privačių interesų konflikto grėsmei, nedelsdami informuoti apie tai Lietuvos kino centro direktorių, ir nusišalinti nuo sprendimų rengimo, svarstymo, priėmimo ar kitokio poveikio sprendimams, kurie sukelia interesų konfliktą.
 
@@ -344,7 +340,11 @@ FILMŲ PLATINIMAS, RODYMAS IR PADARYMAS VIEŠAI PRIEINAMŲ ELEKTRONINIŲ RYŠIŲ
 
 8) necenzūrinės (obsceniškos) kalbos vartojimo scenos.
 
-5. Filmų indeksavimo komisijos sudėtį, nuostatus, kuriuose nustatomi filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijai, šios komisijos narių paslaugų teikimo tvarkos aprašą ir apmokėjimo tvarką tvirtina Lietuvos kino centro direktorius, suderinęs su kultūros ministru.
+5. Filmų indeksavimo komisijos sudėtį, nuostatus, kuriuose nustatomi filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijai, tvirtina Lietuvos kino centro direktorius, suderinęs su kultūros ministru. Komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
 
 6. Filmų indeksai suteikiami iki filmų įregistravimo Filmų registre.
 
@@ -477,4 +477,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-885, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21487
 
 Lietuvos Respublikos kino įstatymo Nr. IX-752 pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
+
+Lietuvos Respublikos kino įstatymo Nr. IX-752 10 ir 14 straipsnių pakeitimo įstatymas
 
