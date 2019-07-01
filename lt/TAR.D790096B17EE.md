@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2018-12-03"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2018-12-03 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
 
@@ -556,13 +556,19 @@ TAR pastaba. Įstatymo nuostatos dėl vartojimo ginčų neteisminio sprendimo pr
 
 2) Lietuvos bankas – vartojimo ginčus dėl finansinių paslaugų, nurodytus Lietuvos Respublikos Lietuvos banko įstatyme;
 
-3) Valstybinė kainų ir energetikos kontrolės komisija – vartotojų ir energetikos įmonių, geriamojo vandens tiekimo ir (ar) nuotekų tvarkymo įmonių ginčus dėl apmokėjimo už suvartotą energiją ar paslaugas, dėl valstybės reguliuojamų kainų ir (ar) tarifų taikymo, dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, taip pat kitus vartotojų ir energetikos įmonių ginčus energetikos srityje, nepriskirtus Valstybinei energetikos inspekcijai prie Energetikos ministerijos;
+3) Valstybinė energetikos reguliavimo taryba – vartotojų ir energetikos įmonių, geriamojo vandens tiekimo ir (ar) nuotekų tvarkymo įmonių ginčus dėl apmokėjimo už suvartotą energiją ar paslaugas, dėl valstybės reguliuojamų kainų ir (ar) tarifų taikymo, dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, taip pat vartotojų ir energijos taupymo paslaugų teikėjų ginčus dėl energijos taupymo paslaugų teikimo ir kitus vartotojų ir energetikos įmonių ginčus energetikos srityje;
 
-4) Valstybinė energetikos inspekcija prie Energetikos ministerijos – vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, taip pat vartotojų ir energijos taupymo paslaugų teikėjų ginčus dėl energijos taupymo paslaugų teikimo;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
+
+4) netenka galios 2019-07-01;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2707, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26491
+
+Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
 
 5) Lietuvos advokatūros advokatų taryba ar jos sudarytas organas – vartotojų ir advokatų ginčus dėl teisinių paslaugų;
 
@@ -1224,7 +1230,11 @@ c) asociacijoje yra ne mažiau kaip 20 narių.
 
 3. Vartojimo ginčų komisijos nariai privalo dalyvauti komisijos posėdžiuose. Jeigu vartojimo ginčų komisijos narys (nariai) neatvyksta į posėdį, komisijos pirmininkas savo nuožiūra sprendžia, ar atidėti posėdį, ar nagrinėti ginčą iš esmės.
 
-4. Šio straipsnio 2 dalies 2 ir 3 punktuose nurodyti vartojimo ginčų komisijos nariai atleidžiami nuo darbo pareigų atlikimo laikotarpiu, kuriuo jie dalyvauja vartojimo ginčų komisijos darbe. Vartojimo ginčų komisijos nariams už darbą vartojimo ginčų komisijos posėdžiuose atlyginama ir kelionės išlaidos apmokamos vartojimo ginčų komisijų nuostatuose nustatyta tvarka.
+4. Šio straipsnio 2 dalies 2 ir 3 punktuose nurodyti vartojimo ginčų komisijos nariai atleidžiami nuo darbo pareigų atlikimo laikotarpiu, kuriuo jie dalyvauja vartojimo ginčų komisijos darbe. Vartojimo ginčų komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka, o kelionės išlaidos – vartojimo ginčų komisijų nuostatuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1744, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20717
 
 5. Vartojimo ginčų komisijos sprendimas dėl ginčo esmės priimamas balsų dauguma. Priimant sprendimą dėl ginčo esmės, dalyvauja tik vartojimo ginčų komisijos nariai. Komisijos narys, nesutinkantis su sprendimu dėl ginčo esmės, gali pareikšti atskirąją nuomonę. Kai į posėdį neatvyksta vartojimo ginčų komisijos narys (nariai) ir vartojimo ginčų komisijos pirmininkas priima sprendimą nagrinėti ginčą iš esmės, sprendimą dėl ginčo esmės priima ginčą nagrinėjantys vartojimo ginčų komisijos nariai. Jeigu ginčą nagrinėja du vartojimo ginčų komisijos nariai ir jų nuomonės išsiskiria arba ginčą nagrinėja tik vartojimo ginčų komisijos pirmininkas, sprendimą priima vartojimo ginčų komisijos pirmininkas savo nuožiūra.
 
