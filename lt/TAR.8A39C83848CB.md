@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2019-05-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -11002,6 +11002,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2039, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06551
 
 Lietuvos Respublikos civilinio kodekso 3.254-1 straipsnio pakeitimo įstatymas
+
+42.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1742, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20715
+
+Lietuvos Respublikos civilinio kodekso 2.10-1 straipsnio pakeitimo įstatymas
+
+43.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
+
+Lietuvos Respublikos civilinio kodekso 4.184 ir 4.197 straipsnių pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
