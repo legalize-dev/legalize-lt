@@ -4,7 +4,7 @@ identifier: "TAR.43178AA9832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2019-04-25"
+last_updated: "2019-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2019-04-25 iki 2019-07-01
+Suvestinė redakcija nuo 2019-07-02 iki 2019-07-26
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
 
@@ -890,7 +890,11 @@ Nr. XII-2215, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21010
 
 2. Sprendimą dėl viešojo sektoriaus subjektų, kurių apskaita tvarkoma centralizuotai, ir dėl biudžetinės (biudžetinių) įstaigos (įstaigų), kuri (kurios) centralizuotai tvarko viešojo sektoriaus subjektų apskaitą, gali priimti:
 
-1) dėl Vyriausybės kanceliarijos, ministerijų, Vyriausybės įstaigų, Vyriausybės atstovų tarnybų, atitinkamo ministro valdymo sritims priskirtų įstaigų prie ministerijos ir šių subjektų kontroliuojamų viešojo sektoriaus subjektų – Vyriausybė;
+1) dėl Vyriausybės kanceliarijos, ministerijų, Vyriausybės įstaigų, Vyriausybės atstovų įstaigos, atitinkamo ministro valdymo sritims priskirtų įstaigų prie ministerijos ir šių subjektų kontroliuojamų viešojo sektoriaus subjektų – Vyriausybė;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2238, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10360
 
 2) dėl savivaldybių kontroliuojamų viešojo sektoriaus subjektų – savivaldybių tarybos;
 
@@ -1287,4 +1291,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2056, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06692
 
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 papildymo 26 straipsniu įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2238, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10360
+
+Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 10-3 straipsnio pakeitimo įstatymas
 
