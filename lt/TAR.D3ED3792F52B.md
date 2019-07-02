@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2019-01-01"
+last_updated: "2019-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-07-01
+Suvestinė redakcija nuo 2019-07-02 iki 2019-12-19
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -561,7 +561,11 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 
 8 straipsnis. Valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartį ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, skaičius bei pareigybių aprašymai ir sąrašai
 
-1. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas) (toliau – darbuotojai, dirbantys pagal darbo sutartis), pareigybių skaičių tvirtina: Seimo valdyba – Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento kanceliarijoje ir Respublikos Prezidentui atskaitingose institucijose; Vyriausybė – Vyriausybės kanceliarijoje, ministerijose, Vyriausybės įstaigose, Vyriausybės atstovų tarnybose, ministrų valdymo sritims nepriskirtose valstybės institucijose ir įstaigose ir bendrą didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių atitinkamo ministro valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose (išskyrus bendrą didžiausią leistiną Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių); ministrai – jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose. Ministrai, tvirtindami didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose, negali viršyti Vyriausybės patvirtinto bendro didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičiaus atitinkamų ministrų valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba. Nacionalinės teismų administracijos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, suderinęs su savininko teises ir pareigas įgyvendinančia institucija, tvirtina Nacionalinės teismų administracijos direktorius.
+1. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas) (toliau – darbuotojai, dirbantys pagal darbo sutartis), pareigybių skaičių tvirtina: Seimo valdyba – Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento kanceliarijoje ir Respublikos Prezidentui atskaitingose institucijose; Vyriausybė – Vyriausybės kanceliarijoje, ministerijose, Vyriausybės įstaigose, Vyriausybės atstovų įstaigoje, ministrų valdymo sritims nepriskirtose valstybės institucijose ir įstaigose ir bendrą didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių atitinkamo ministro valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose (išskyrus bendrą didžiausią leistiną Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių); ministrai – jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose. Ministrai, tvirtindami didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose, negali viršyti Vyriausybės patvirtinto bendro didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičiaus atitinkamų ministrų valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba. Nacionalinės teismų administracijos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, suderinęs su savininko teises ir pareigas įgyvendinančia institucija, tvirtina Nacionalinės teismų administracijos direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 
 2. Valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių poreikis nustatomas vadovaujantis Vyriausybės patvirtintais kriterijais.
 
@@ -575,7 +579,11 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 
 3) prokuratūros sistemos – generalinis prokuroras;
 
-4) Vyriausybės atstovų, Vyriausybės įgaliotinių ir jų pavaduotojų – Vyriausybė ar jos įgaliotas ministras;
+4) Vyriausybės įgaliotinių ir jų pavaduotojų – Vyriausybė ar jos įgaliotas ministras;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 
 5) savivaldybės administracijos direktoriaus, jo pavaduotojo ir savivaldybės kontrolieriaus – savivaldybės taryba;
 
@@ -633,7 +641,11 @@ PRIĖMIMAS Į VALSTYBĖS TARNAUTOJŲ PAREIGAS
 
 2) Respublikos Prezidento kanceliarijos kanclerį – Respublikos Prezidentas, Vyriausybės kanclerį – Ministras Pirmininkas;
 
-3) Vyriausybės atstovą – Vyriausybė;
+3) neteko galios 2019-07-02;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 
 4) Vyriausybės įstaigų vadovus – Vyriausybė;
 
