@@ -4,7 +4,7 @@ identifier: "TAR.B8B6AFC2BFF1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-03-23"
-last_updated: "2019-07-01"
+last_updated: "2019-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-01
+Suvestinė redakcija nuo 2019-07-02 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
 
@@ -132,14 +132,6 @@ Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
 1. Viešojo administravimo subjektai, įgyvendindami pavestus uždavinius, susijusius su ūkinės veiklos reguliavimu Lietuvos Respublikoje, privalo užtikrinti sąžiningos konkurencijos laisvę.
 
 2. Viešojo administravimo subjektams draudžiama priimti teisės aktus arba kitus sprendimus, kurie teikia privilegijas arba diskriminuoja atskirus ūkio subjektus ar jų grupes ir dėl kurių atsiranda ar gali atsirasti konkurencijos sąlygų skirtumų atitinkamoje rinkoje konkuruojantiems ūkio subjektams, išskyrus atvejus, kai skirtingų konkurencijos sąlygų neįmanoma išvengti vykdant įstatymų reikalavimus.
-
-II SKYRIUS
-
-KONKURENCIJĄ RIBOJANTYS VEIKSMAI
-
-PIRMASIS SKIRSNIS
-
-DRAUDŽIAMI SUSITARIMAI
 
 5 straipsnis. Konkurenciją ribojančių susitarimų draudimas
 
@@ -837,7 +829,11 @@ Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 2. Skundas paduodamas raštu ne vėliau kaip per dvidešimt dienų nuo Konkurencijos tarybos nutarimo įteikimo dienos arba, jeigu nutarimas turi būti paskelbtas Konkurencijos tarybos interneto svetainėje, – nuo nutarimo paskelbimo dienos.
 
-3. Skundo padavimas dėl Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui paskirta bauda, sustabdo baudos ir palūkanų priverstinį išieškojimą iki teismo sprendimo įsiteisėjimo dienos.
+3. Skundo padavimas dėl Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui paskirta bauda, nesustabdo Konkurencijos tarybos nutarimo vykdymo, išskyrus atvejus, kai Konkurencijos taryba, vadovaudamasi šio įstatymo 39 straipsnio 7 dalimi, priima sprendimą nesikreipti į antstolį dėl baudos priverstinio išieškojimo arba jeigu teismas nusprendžia kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
 
 34 straipsnis. Teismo sprendimas
 
@@ -971,7 +967,11 @@ Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 
 1. Ūkio subjektas ar viešojo administravimo subjektas Konkurencijos tarybos paskirtą baudą privalo sumokėti į valstybės biudžetą ne vėliau kaip per tris mėnesius nuo nutarimo paskelbimo Konkurencijos tarybos interneto svetainėje dienos.
 
-2. Ūkio subjektui ar viešojo administravimo subjektui nesumokėjus baudos per šio straipsnio 1 dalyje nustatytą terminą, skaičiuojamos Civilinio kodekso 6.210 straipsnio 2 dalyje nustatyto dydžio palūkanos. Palūkanos pradedamos skaičiuoti nuo kitos dienos po to, kai sueina šio straipsnio 1 dalyje nustatytas terminas. Palūkanos yra skaičiuojamos kiekvieną dieną ir baigiamos skaičiuoti tą dieną, kai bauda sumokama į valstybės biudžetą, bet ne ilgiau kaip 180 dienų. Šis 180 dienų terminas pratęsiamas tiek, kiek laiko, suėjus šio straipsnio 1 dalyje nustatytam terminui, buvo sustabdytas baudos ir palūkanų priverstinis išieškojimas. Palūkanos neskaičiuojamos šio straipsnio 4 dalyje nustatytu baudos ar jos dalies mokėjimo atidėjimo laikotarpiu.
+2. Ūkio subjektui ar viešojo administravimo subjektui nesumokėjus baudos per šio straipsnio 1 dalyje nustatytą terminą, skaičiuojamos Civilinio kodekso 6.210 straipsnio 2 dalyje nustatyto dydžio palūkanos. Palūkanos pradedamos skaičiuoti nuo kitos dienos po to, kai sueina šio straipsnio 1 dalyje nustatytas terminas. Palūkanos yra skaičiuojamos kiekvieną dieną ir baigiamos skaičiuoti tą dieną, kai bauda sumokama į valstybės biudžetą, bet ne ilgiau kaip 180 dienų. Palūkanos neskaičiuojamos šio straipsnio 4 dalyje nustatytu baudos ar jos dalies mokėjimo atidėjimo laikotarpiu ir šio straipsnio 7 dalyje nustatytu atveju, kai Konkurencijos taryba priima sprendimą nesikreipti į antstolį dėl baudos priverstinio išieškojimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
 
 3. Jeigu ūkio subjektas ar viešojo administravimo subjektas sumoka baudą, o įsiteisėjusiu teismo sprendimu ūkio subjektui ar viešojo administravimo subjektui Konkurencijos tarybos paskirta bauda sumažinama arba panaikinama, permokėta piniginė suma įskaitoma arba grąžinama ūkio subjektui ar viešojo administravimo subjektui mutatis mutandis vadovaujantis Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta mokesčių permokų įskaitymo arba grąžinimo tvarka.
 
@@ -979,13 +979,27 @@ Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 
 5. Ūkio subjektas ar viešojo administravimo subjektas privalo įvykdyti jam pagal šio įstatymo 35 straipsnio 1 dalį skirtus Konkurencijos tarybos nutarime numatytus įpareigojimus nustatytomis sąlygomis ir terminais. Motyvuotu ūkio subjekto ar viešojo administravimo subjekto prašymu Konkurencijos taryba turi teisę įpareigojimų įvykdymo terminą atidėti iki dvigubai ilgesnio termino, negu buvo numatytas nutarime, jeigu įvykdyti nustatytų įpareigojimų laiku ūkio subjektas ar viešojo administravimo subjektas negali dėl objektyvių priežasčių.
 
-6. Ūkio subjekto ar viešojo administravimo subjekto nesumokėta bauda ir palūkanos išieškomi į valstybės biudžetą. Konkurencijos tarybos sprendimas dėl priverstinio baudos ir palūkanų išieškojimo yra vykdomasis dokumentas, kuris pateikiamas vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka ne vėliau kaip per vienus metus nuo Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui skirta bauda, priėmimo dienos. Šis terminas pratęsiamas tiek laiko, kiek buvo atidėtas baudos mokėjimas ir sustabdytas baudos ir palūkanų priverstinis išieškojimas.
+6. Ūkio subjekto ar viešojo administravimo subjekto nesumokėta bauda ir palūkanos išieškomi į valstybės biudžetą. Konkurencijos tarybos sprendimas dėl priverstinio baudos ir palūkanų išieškojimo yra vykdomasis dokumentas, pateikiamas vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka ne vėliau kaip per vienus metus nuo Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui skirta bauda, priėmimo dienos. Šis terminas pratęsiamas bylinėjimosi teisme laikotarpiui, jeigu baudos ir palūkanų priverstinis išieškojimas buvo sustabdytas, vadovaujantis šio straipsnio 7 dalimi, arba teismui laikinai sustabdžius Konkurencijos tarybos nutarimo vykdymą.
 
-7. Jeigu viešojo administravimo subjektas neįvykdo per Konkurencijos tarybos nustatytą arba šio straipsnio 5 dalies pagrindu pratęstą terminą šio įstatymo 35 straipsnio 1 dalies 4 punkte nurodyto įpareigojimo, Konkurencijos taryba turi teisę per 20 dienų nuo įpareigojimo įvykdymo termino pabaigos kreiptis į administracinį teismą Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, prašydama panaikinti šio įstatymo 4 straipsniui prieštaraujantį viešojo administravimo subjekto teisės aktą ar kitokį sprendimą ar pažeidimą pašalinti kitu būdu. Šiuos Konkurencijos tarybos prašymus pirmąja instancija nagrinėja Vilniaus apygardos administracinis teismas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
+
+7. Konkurencijos taryba priima sprendimą nesikreipti į antstolį dėl priverstinio baudos išieškojimo bylinėjimosi teisme laikotarpiu, kai Konkurencijos tarybos nutarimas, kuriuo paskirta bauda, apskundžiamas teismui ir ūkio ar viešojo administravimo subjektas pateikia Konkurencijos tarybai finansų įstaigos suteikiamą finansinę garantiją ir (arba) draudimo įmonės laidavimo draudimą, kurie padengtų paskirtos baudos sumą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
+
+8. Jeigu viešojo administravimo subjektas neįvykdo per Konkurencijos tarybos nustatytą arba šio straipsnio 5 dalies pagrindu pratęstą terminą šio įstatymo 35 straipsnio 1 dalies 4 punkte nurodyto įpareigojimo, Konkurencijos taryba turi teisę per 20 dienų nuo įpareigojimo įvykdymo termino pabaigos kreiptis į administracinį teismą Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, prašydama panaikinti šio įstatymo 4 straipsniui prieštaraujantį viešojo administravimo subjekto teisės aktą ar kitokį sprendimą ar pažeidimą pašalinti kitu būdu. Šiuos Konkurencijos tarybos prašymus pirmąja instancija nagrinėja Vilniaus apygardos administracinis teismas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
 
 40 straipsnis. Ūkio subjektų vadovams skiriamos sankcijos
 
@@ -1011,39 +1025,67 @@ Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 
 6. Skiriant ūkio subjekto vadovui šio straipsnio 1 dalyje nustatytas sankcijas, mutatis mutandis taikomos šio įstatymo 35 straipsnio 3 ir 4 dalys.
 
-41 straipsnis. Prašymo dėl sankcijų ūkio subjektų vadovams skyrimo pateikimas teismui ir nagrinėjimas teisme
+41 straipsnis. Numatomo teisinio reguliavimo poveikio konkurencijai vertinimas
 
-1. Konkurencijos taryba, nustačiusi, kad yra šio įstatymo 40 straipsnio 1 ir 2 dalyse nurodytos aplinkybės, priima nutarimą kreiptis į Vilniaus apygardos administracinį teismą su prašymu taikyti šio įstatymo 40 straipsnio 1 dalyje nustatytas sankcijas.
+1. Teisės akto projekto rengėjas atlieka teisės akto projekto poveikio konkurencijai vertinimą, kai teisės akto projektu nustatomas, keičiamas ar panaikinamas reguliavimas:
 
-2. Šio straipsnio 1 dalyje nurodytame nutarime teismui nurodomos aplinkybės, kuriomis grindžiamas prašymas, ir pridedami jas patvirtinantys įrodymai, taip pat nurodomas motyvuotas siūlymas dėl šio įstatymo 40 straipsnio 1 dalyje nustatytų sankcijų taikymo ir jų dydžio. Teismas, priimdamas sprendimą taikyti sankcijas, nėra saistomas Konkurencijos tarybos siūlymo dėl sankcijų ir jų dydžio.
+1) suteikia išimtines teises ūkio subjektui vykdyti ūkinę veiklą;
 
-3. Konkurencijos taryba turi teisę kreiptis į teismą su šio straipsnio 1 dalyje nurodytu prašymu per tris mėnesius nuo dienos, kai:
+2) nustato ribotą ūkio subjektų, galinčių vykdyti tam tikrą ūkinę veiklą, skaičių;
 
-1) pasibaigia Konkurencijos tarybos nutarimo dėl šio įstatymo 40 straipsnio 1 dalyje nurodyto pažeidimo apskundimo terminas, jeigu nutarimas neapskundžiamas šio įstatymo 33 straipsnyje nustatyta tvarka ir terminais;
+3) yra susijęs su licencijavimo, leidimų ar kitokia teisės verstis ūkine veikla įgijimo tvarka;
 
-2) įsiteisėja teismo sprendimas, kuris nepanaikina Konkurencijos tarybos nutarimo ar jo dalies dėl šio įstatymo 40 straipsnio 1 dalyje nurodytų pažeidimų, kiek tai susiję su ūkio subjektu, apskundusiu Konkurencijos tarybos nutarimą šio įstatymo 33 straipsnyje nustatyta tvarka ir terminais.
+4) apriboja ūkio subjektų galimybes vykdyti ūkinę veiklą;
 
-4. Teismas, išnagrinėjęs Konkurencijos tarybos prašymą, priima vieną iš šių sprendimų:
+5) reikšmingai padidina ūkio subjektų, siekiančių įeiti į rinką arba išeiti iš rinkos, kaštus;
 
-1) taikyti šio įstatymo 40 straipsnio 1 dalyje nustatytas sankcijas;
+6) nustato prekių ar paslaugų pardavimo, investicijų ar darbuotojų judėjimo geografinius ribojimus;
 
-2) atmesti prašymą.
+7) riboja ūkio subjektų galimybes nustatyti savo prekių ar paslaugų kainas;
 
-5. Teismas, skirdamas ūkio subjekto vadovui šio įstatymo 40 straipsnio 1 dalyje nustatytas sankcijas, vadovaujasi teisingumo, protingumo, sąžiningumo principais ir atsižvelgia į:
+8) padidina ar sumažina rinkoje veikiančių ūkio subjektų veiklos kaštus nustatydamas skirtingus reikalavimus atskiriems ūkio subjektams ar kitais būdais;
 
-1) ūkio subjekto padaryto pažeidimo pavojingumą;
+9) riboja ūkio subjektų galimybes reklamuoti savo prekes ar pasirinkti jų pardavimo būdus;
 
-2) ūkio subjekto padaryto pažeidimo trukmę;
+10) nustato prekių ar paslaugų kokybės standartus;
 
-3) ūkio subjekto vadovo prisidėjimo prie ūkio subjekto padaryto pažeidimo pobūdį;
+11) reikalauja ar skatina viešai skelbti informaciją apie ūkio subjektų prekių kainas, kaštus, pardavimus ar gamybos apimtis;
 
-4) ūkio subjekto vadovo elgesį Konkurencijos tarybos atliekamo tyrimo dėl ūkio subjekto padaryto pažeidimo metu;
+12) reglamentuoja ūkio subjektų savireguliacijos mechanizmą;
 
-5) kitas reikšmingas aplinkybes.
+13) riboja pirkėjų galimybę spręsti, iš kurio ūkio subjekto jie pirks prekes ar paslaugas;
 
-6. Asmenų, kuriems įsiteisėjusiu teismo sprendimu paskirtos šio įstatymo 40 straipsnio 1 dalyje nustatytos sankcijos, sąrašas skelbiamas Konkurencijos tarybos interneto svetainėje.
+14) mažina vartotojų mobilumą, didinant vartotojų, norinčių pasirinkti ar pakeisti tiekėją, kaštus ar kitais būdais;
 
-7. Konkurencijos taryba, nustačiusi, kad nevykdomas įsiteisėjęs teismo sprendimas, kuriuo paskirtos šio įstatymo 40 straipsnio 1 dalyje nustatytos sankcijos, pateikia teismo sprendimą vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka.
+15) gali paskatinti naujų rinkų atsiradimą arba nustatyti esamų rinkų reguliavimo reikšmingą sumažėjimą (liberalizavimą);
+
+16) reglamentuoja intelektinės nuosavybės teisės klausimus;
+
+17) reglamentuoja viešųjų pirkimų ar koncesijų klausimus;
+
+18) yra susijęs su ūkio subjektams teikiama tiesiogine ar netiesiogine parama ar turto suteikimu ūkio subjektų ūkinei veiklai vykdyti;
+
+19) yra susijęs su viešųjų paslaugų teikimu arba valstybės ar savivaldybių valdomų ūkio subjektų ūkine veikla;
+
+20) yra susijęs su valstybės ar savivaldybių valdomų ūkio subjektų steigimu;
+
+21) suteikia išskirtinį statusą tam tikriems ūkio subjektams, jų grupėms ar jų vykdomiems projektams;
+
+22) kitais atvejais, kai rengiamu teisės aktu numatomas teisinis reguliavimas gali paveikti konkurenciją.
+
+2. Konkurencijos taryba teisės aktų projektų rengėjų prašymu teikia jiems konsultacijas dėl poveikio konkurencijai vertinimo metodų.
+
+Papildyta straipsniu:
+
+Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
+
+II SKYRIUS
+
+KONKURENCIJĄ RIBOJANTYS VEIKSMAI
+
+PIRMASIS SKIRSNIS
+
+DRAUDŽIAMI SUSITARIMAI
 
 42 straipsnis. Administracinė atsakomybė
 
