@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2019-01-01"
+last_updated: "2019-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-07-01
+Suvestinė redakcija nuo 2019-07-02 iki 2019-07-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
 
@@ -393,7 +393,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
-9) tvirtina ministerijų, Vyriausybės kanceliarijos, Vyriausybės įstaigų, įstaigų prie ministerijų, Vyriausybės atstovo tarnybos, kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba ministerijos, nuostatus, Vyriausybės įstaigų bei kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė, administracijos struktūrą arba paveda ją tvirtinti Vyriausybės įstaigos arba kitos Vyriausybės įsteigtos biudžetinės įstaigos vadovui, jei kiti įstatymai nenustato kitos jos tvirtinimo tvarkos; tvirtinti įstaigų prie ministerijų nuostatus ir jų administracijos struktūrą Vyriausybė gali pavesti atitinkamos valdymo srities ministrui, jei kiti įstatymai nenustato kitos jų tvirtinimo tvarkos;
+9) tvirtina ministerijų, Vyriausybės kanceliarijos, Vyriausybės įstaigų, įstaigų prie ministerijų, Vyriausybės atstovų įstaigos, kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba ministerijos, nuostatus, Vyriausybės įstaigų bei kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė, administracijos struktūrą arba paveda ją tvirtinti Vyriausybės įstaigos arba kitos Vyriausybės įsteigtos biudžetinės įstaigos vadovui, jei kiti įstatymai nenustato kitos jos tvirtinimo tvarkos; tvirtinti įstaigų prie ministerijų nuostatus ir jų administracijos struktūrą Vyriausybė gali pavesti atitinkamos valdymo srities ministrui, jei kiti įstatymai nenustato kitos jų tvirtinimo tvarkos;
 
 Straipsnio punkto pakeitimai:
 
@@ -403,6 +403,8 @@ Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
 
 Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
+Nr. XIII-2234, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10353
+
 10) kartu su Respublikos Prezidentu vykdo užsienio politiką; užmezga diplomatinius santykius ir palaiko ryšius su užsienio valstybėmis bei tarptautinėmis organizacijomis; atsižvelgdama į Seimo Užsienio reikalų komiteto rekomendacijas, teikia Respublikos Prezidentui siūlymus dėl Lietuvos Respublikos diplomatinių atstovų užsienio valstybėse ir prie tarptautinių organizacijų skyrimo bei atšaukimo;
 
 11) įstatymo nustatyta tvarka organizuoja valdymą aukštesniuosiuose administraciniuose vienetuose;
@@ -411,11 +413,13 @@ Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 13) turi teisę kreiptis į Konstitucinį Teismą su prašymu ištirti, ar Lietuvos Respublikos įstatymai ar kiti Seimo priimti teisės aktai neprieštarauja Lietuvos Respublikos Konstitucijai;
 
-14) priima į pareigas ir atleidžia iš jų Vyriausybės atstovus, Vyriausybės įgaliotinį ir jo pavaduotoją, Vyriausybės įstaigų vadovus, kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus, juos skatina; atitinkamos valdymo srities ministro teikimu Vyriausybės priimtiems valstybės tarnautojams ir pareigūnams skiria tarnybines nuobaudas;
+14) skiria į pareigas ir atleidžia iš jų Vyriausybės atstovus, Vyriausybės įgaliotinį ir jo pavaduotoją, priima į pareigas ir atleidžia iš jų Vyriausybės įstaigų vadovus, kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus, juos skatina; atitinkamos valdymo srities ministro teikimu Vyriausybės į pareigas priimtiems ar paskirtiems valstybės tarnautojams ir pareigūnams skiria tarnybines nuobaudas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+
+Nr. XIII-2234, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10353
 
 15) sudaro Vyriausybės komitetus ir Vyriausybės komisijas;
 
@@ -847,7 +851,11 @@ Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 
 3. Ar savivaldybės laikosi Lietuvos Respublikos Konstitucijos ir įstatymų, ar vykdo Vyriausybės nutarimus, prižiūri Vyriausybės atstovai.
 
-4. Vyriausybės atstovui įgyvendinti jo įgaliojimus padeda Vyriausybės atstovo tarnyba. Vyriausybės atstovo tarnybą steigia, jos veiklos nuostatus tvirtina ir didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių nustato Vyriausybė.
+4. Vyriausybės atstovams įgyvendinti jų įgaliojimus padeda Vyriausybės atstovų įstaiga. Vyriausybės atstovų įstaigą steigia Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2234, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10353
 
 5. Laikiną tiesioginį valdymą savivaldybės teritorijoje įgyvendina Vyriausybė per paskirtą Vyriausybės įgaliotinį.
 
