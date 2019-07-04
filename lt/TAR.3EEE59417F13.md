@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2019-07-01"
+last_updated: "2019-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-03
+Suvestinė redakcija nuo 2019-07-04 iki 2019-07-23
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -486,11 +486,19 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
 6) individualios įmonės savininko pajamos, gautos iš šios įmonės apmokestinto pelno, ir (ar) mažosios bendrijos narių, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrųjų narių pajamos ir iš šių įmonių asmeniniams poreikiams gautos lėšų sumos;
 
-7) individualios veiklos pajamos, įskaitant pajamas, gautas verčiantis veikla pagal verslo liudijimą ir individualios veiklos vykdymo pažymą (išskyrus asmenų iki 18 metų pajamas);
+7) individualios veiklos pajamos, gautos verčiantis veikla pagal verslo liudijimą (išskyrus asmenų iki 18 metų pajamas);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1733, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20995
+
+Nr. XIII-2262, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10931
+
+71) 70 procentų individualios veiklos pajamų, gautų verčiantis veikla pagal individualios veiklos vykdymo pažymą (išskyrus asmenų iki 18 metų pajamas);
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2262, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10931
 
 8) pajamos iš žemės ūkio veiklos (išskyrus pajamas iš žemės ūkio naudmenų, kurių bendras plotas neviršija 3 hektarų) ir pajamų dalis, gauta teikiant žemės ūkio ir miškininkystės paslaugas pagal žemės ūkio ir miškininkystės paslaugų kvitą, kai šių paslaugų teikimą nustato Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas (toliau – Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas), viršijanti 1 750 eurų per einamuosius kalendorinius metus;
 
@@ -530,7 +538,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 
-16) turtinės ar neturtinės žalos atlyginimas (įskaitant vienkartinę netekto darbingumo kompensaciją);
+16) turtinės ar neturtinės žalos atlyginimas (įskaitant vienkartinę netekto darbingumo kompensaciją), išskyrus draudimo išmokas, mokamas pagal turto draudimo, civilinės atsakomybės draudimo, taip pat sveikatos draudimo sutartis patirtiems nuostoliams atlyginti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2261, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10930
 
 17) turto pardavimo pajamos (išskyrus pajamas, įskaitomas į turtą);
 
@@ -554,7 +566,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
-2. Apskaičiuojant šio straipsnio 1 dalyje nurodytas vidutines mėnesio pajamas, į bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamas neįskaitoma šio straipsnio 1 dalies 1 ir 7 punktuose nurodytų pajamų dalis:
+2. Apskaičiuojant šio straipsnio 1 dalyje nurodytas vidutines mėnesio pajamas, į bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamas neįskaitoma šio straipsnio 1 dalies 1, 7 ir 71 punktuose nurodytų pajamų dalis:
 
 1) 15 procentų – bendrai gyvenantiems asmenims, neauginantiems vaikų (įvaikių), arba vienam gyvenančiam asmeniui;
 
@@ -570,7 +582,9 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1733, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20995
 
-3. Nustatant šio straipsnio 1 dalies 1 ir 7 punktuose nurodytų neįskaitomų pajamų dalį, vyresni kaip 18 metų vaikai (įvaikiai) įskaitomi į bendrai gyvenančių asmenų sudėtį pagal šio įstatymo 2 straipsnio 2 dalį.
+Nr. XIII-2262, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10931
+
+3. Nustatant šio straipsnio 1 dalies 1, 7 ir 71 punktuose nurodytų neįskaitomų pajamų dalį, vyresni kaip 18 metų vaikai (įvaikiai) įskaitomi į bendrai gyvenančių asmenų sudėtį pagal šio įstatymo 2 straipsnio 2 dalį.
 
 Papildyta straipsnio dalimi:
 
@@ -579,6 +593,8 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1733, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20995
+
+Nr. XIII-2262, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10931
 
 4. Jeigu iš šio straipsnio 1 dalyje nurodytų pajamų yra išskaičiuojamas gyventojų pajamų mokestis, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokos, šios pajamos įskaitomos išskaičiavus gyventojų pajamų mokestį, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokas.
 
