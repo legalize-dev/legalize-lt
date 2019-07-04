@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2019-06-01"
+last_updated: "2019-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2019-06-01 iki 2019-07-03
+Suvestinė redakcija nuo 2019-07-04 iki 2019-12-07
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -700,7 +700,11 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 29 straipsnis. Viešosios geležinkelių infrastruktūros pajėgumų skyrimas
 
-1. Viešosios geležinkelių infrastruktūros pajėgumus skiria šio Kodekso 7 straipsnio 3 dalyje nurodyta įstaiga. Reglamente (ES) Nr. 913/2010 nustatytais atvejais viešosios geležinkelių infrastruktūros pajėgumus krovinių vežimo koridoriuose skiria pagal šio reglamento 13 straipsnio 1 dalį paskirtas arba įsteigtas asmuo. Paskirtus pajėgumus draudžiama perduoti kitai įmonei ar kitai vežimo geležinkelių transportu paslaugai teikti arba šiuos pajėgumus parduoti. Jeigu, vykdydama pareiškėjo, kuris nėra geležinkelio įmonė (vežėjas), veiklą, viešosios geležinkelių infrastruktūros pajėgumus naudoja geležinkelio įmonė (vežėjas), tai nėra laikoma pajėgumų perdavimu.
+1. Viešosios geležinkelių infrastruktūros pajėgumus skiria šio Kodekso 7 straipsnio 3 dalyje nurodyta įstaiga. Reglamente (ES) Nr. 913/2010 nustatytais atvejais viešosios geležinkelių infrastruktūros pajėgumus krovinių vežimo koridoriuose skiria pagal šio reglamento 13 straipsnio 1 dalį paskirtas arba įsteigtas asmuo. Pareiškėjas negali jam skirtų viešosios geležinkelių infrastruktūros pajėgumų perduoti kitai įmonei ar kitai vežimo geležinkelių transportu paslaugai teikti arba šių pajėgumų parduoti. Jeigu, vykdydama pareiškėjo, kuris nėra geležinkelio įmonė (vežėjas), veiklą, viešosios geležinkelių infrastruktūros pajėgumus naudoja geležinkelio įmonė (vežėjas), tai nėra laikoma viešosios geležinkelių infrastruktūros pajėgumų perdavimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2253, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10923
 
 2. Viešosios geležinkelių infrastruktūros pajėgumai pareiškėjams skiriami ne ilgesniam kaip vieno tarnybinio traukinių tvarkaraščio galiojimo laikotarpiui.
 
@@ -1568,7 +1572,7 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 2) rinkos reguliuotojas privalo savo interneto svetainėje paskelbti savo inicijuoto ir (arba) atlikto viešosios geležinkelių infrastruktūros valdytojo, geležinkelių paslaugų įrenginių operatorių, geležinkelio įmonės (vežėjo) audito ataskaitas;
 
-3) rinkos reguliuotojas privalo saugoti atliekant šiame straipsnyje nustatytas funkcijas sužinotas komercines ir profesines paslaptis ir gali jas naudoti tik tiems tikslams, dėl kurių jos buvo pateiktos.
+3) rinkos reguliuotojas privalo saugoti atliekant šiame straipsnyje nustatytas funkcijas sužinotas komercines ir profesines paslaptis ir gali jas naudoti tik tiems tikslams, dėl kurių jos buvo pateiktos;
 
 8. Ūkio subjektų komercinių ir profesinių paslapčių apsaugos principai:
 
@@ -1590,7 +1594,7 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 3) rinkos reguliuotojas privalo pateikti Europos Komisijai, kitų Europos Sąjungos valstybių narių rinkos reguliuotojams informaciją, jeigu šie pagrįstai jos pareikalauja;
 
-4) rinkos reguliuotojas keičiasi su kitų Europos Sąjungos valstybių narių rinkos reguliuotojais informacija apie savo darbą, sprendimų priėmimo principus ir praktiką, atliekamų procedūrų metu sprendžiamus klausimus ir į nacionalinę teisę perkeltų Europos Sąjungos teisės aktų aiškinimo problemas rinkos reguliuotojų bendradarbiavimo susitarimuose nustatyta tvarka.
+4) rinkos reguliuotojas keičiasi su kitų Europos Sąjungos valstybių narių rinkos reguliuotojais informacija apie savo darbą, sprendimų priėmimo principus ir praktiką, atliekamų procedūrų metu sprendžiamus klausimus ir į nacionalinę teisę perkeltų Europos Sąjungos teisės aktų aiškinimo problemas rinkos reguliuotojų bendradarbiavimo susitarimuose nustatyta tvarka;
 
 10. Rinkos reguliuotojo funkcijų finansavimo tvarka:
 
