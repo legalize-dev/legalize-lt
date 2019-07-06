@@ -4,7 +4,7 @@ identifier: "TAR.AB7AFE2F35B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2019-04-04"
+last_updated: "2019-07-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2019-04-04 iki 2019-07-05
+Suvestinė redakcija nuo 2019-07-06 iki 2019-07-20
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
 
@@ -40,7 +40,11 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Įstatymo taikymo sritis
 
-1. Šis įstatymas nustato reikalavimus, kurių turi laikytis finansų maklerio įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, trečiųjų valstybių įmonės, teikiančios investicines paslaugas ar vykdančios investicinę veiklą, ir centriniai vertybinių popierių depozitoriumai.
+1. Šis įstatymas nustato reikalavimus, kurių turi laikytis finansų maklerio įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, trečiųjų valstybių įmonės, teikiančios investicines paslaugas ar vykdančios investicinę veiklą, centriniai vertybinių popierių depozitoriumai, įgaliotieji konsultantai, instituciniai investuotojai ir turto valdytojai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 2. Šio straipsnio 7 dalies ir šio įstatymo 12, 16, 21–24 straipsnių, II skyriaus trečiojo skirsnio (išskyrus 36 straipsnio 4 dalį), ketvirtojo, penktojo ir šeštojo skirsnių, 93, 96, 101, 102, 109, 110, 112, 113, 114, 115 straipsnių nuostatos mutatis mutandis taikomos kredito įstaigoms, teikiančioms investicines paslaugas ir (arba) vykdančioms investicinę veiklą.
 
@@ -51,6 +55,24 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
 
 4. Šio įstatymo 21 straipsnio nuostatos mutatis mutandis taikomos reguliuojamų rinkų ir daugiašalių prekybos sistemų nariams arba dalyviams, nurodytiems šio straipsnio 5 dalies 1, 5, 9 ir 10 punktuose, net ir tuo atveju, jeigu jie pagal šį įstatymą neprivalo turėti veiklos licencijos.
+
+41. Šio įstatymo 89 ir 891 straipsniai taikomi sąskaitų tvarkytojams (taip pat sąskaitų tvarkytojams, kurie neturi nei registruotos, nei pagrindinės buveinės Europos Sąjungoje), kai jie akcininkams ar kitiems sąskaitų tvarkytojams teikia paslaugas, susijusias su bendrovių, kurių registruota buveinė yra valstybėje narėje ir kurių akcijomis prekiaujama reguliuojamoje rinkoje, akcijomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+
+42. Šio įstatymo 411, 412, 413, 414 straipsniai taikomi:
+
+1) instituciniams investuotojams, kai jie tiesiogiai arba per turto valdytoją investuoja į akcinių bendrovių akcijas, kuriomis prekiaujama reguliuojamoje rinkoje;
+
+2) turto valdytojams, kai jie investuoja į šios dalies 1 punkte nurodytas akcijas investuotojų naudai;
+
+3) įgaliotiesiems konsultantams, kai jie akcininkams teikia paslaugas, susijusias su bendrovių, kurių registruota buveinė yra valstybėje narėje ir kurių akcijomis prekiaujama reguliuojamoje rinkoje, akcijomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 5. Šis įstatymas, išskyrus IV skyriuje nustatytus reikalavimus, netaikomas:
 
@@ -190,9 +212,21 @@ c) šie asmenys ne rečiau kaip kartą per metus praneša priežiūros instituci
 
 3) nuolatiniai kontrolės ryšiai su tuo pačiu asmeniu, kai du ar daugiau fizinių ar juridinių asmenų yra nuolat susiję kontrolės ryšiu su tuo pačiu asmeniu, laikoma, kad glaudūs ryšiai yra tarp visų šių asmenų.
 
+221. Įgaliotasis konsultantas – juridinis asmuo, kita organizacija ar jų padalinys, kuris profesinės ir verslo veiklos pagrindu analizuoja akcinių bendrovių, kurių akcijomis prekiaujama reguliuojamoje rinkoje, atskleistą ir prireikus kitą šių bendrovių informaciją, kad pateiktų tyrimus, konsultacijas ar balsavimo rekomendacijas, reikalingas investuotojui priimant balsavimo sprendimus, susijusius su naudojimusi balsavimo teisėmis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+
 23. Įmonių grupė – kaip tai apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme.
 
 24. Informacijos apie sandorius paslaugų teikėjas – juridinis asmuo, kuris nuolat ir profesionaliai teikia patvirtinto informacijos apie sandorius skelbimo subjekto, konsoliduotos informacijos apie sandorius skelbimo subjekto arba patvirtinto pranešimų apie sandorius teikimo subjekto paslaugas. Kitose valstybėse narėse įsteigti informacijos apie sandorius paslaugų teikėjai gali neturėti juridinio asmens statuso.
+
+241. Institucinis investuotojas – įmonė, turinti teisę vykdyti gyvybės draudimo veiklą ir (ar) perdraudimo veiklą, kaip tai apibrėžta Draudimo įstatyme, taip pat profesinių pensijų asociacija, kaip tai apibrėžta Lietuvos Respublikos profesinių pensijų kaupimo įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 25. Investavimo rekomendacija – finansų maklerio įmonės arba kliento iniciatyva klientui teikiama asmeninio pobūdžio rekomendacija dėl vieno ar kelių sandorių, susijusių su finansinėmis priemonėmis.
 
@@ -226,9 +260,23 @@ c) šie asmenys ne rečiau kaip kartą per metus praneša priežiūros instituci
 
 31. Kartu veikiantys asmenys – du ar daugiau asmenų, kurie, remdamiesi savo aiškiai sudarytu ar numanomu žodiniu ar rašytiniu susitarimu, įgyvendina ar siekia įgyvendinti savo teises, suteikiamas turimos finansų maklerio įmonės kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies.
 
-32. Klientas – fizinis ar juridinis asmuo, kita organizacija ar jos padalinys, kuriam finansų maklerio įmonė teikia investicines paslaugas ir (arba) papildomas paslaugas.
+32. Klientas – fizinis ar juridinis asmuo, kita organizacija ar jos padalinys, kuriam finansų maklerio įmonė, turto valdytojas ar institucinis investuotojas teikia investicines paslaugas ir (arba) papildomas paslaugas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 33. Kolektyvinio investavimo subjekto valdymo įmonė (toliau – valdymo įmonė) – kaip tai apibrėžta Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme.
+
+331. Kompetentinga valstybė narė:
+
+1) institucinių investuotojų ir turto valdytojų atveju – buveinės valstybė narė, kaip tai apibrėžta konkrečiam sektoriui taikytiname Europos Sąjungos teisės akte ar Europos Sąjungos teisės aktą įgyvendinančiame nacionalinės teisės akte;
+
+2) įgaliotųjų konsultantų atveju – valstybė narė, kurioje yra įgaliotojo konsultanto registruota buveinė, arba, jeigu įgaliotasis konsultantas neturi registruotos buveinės valstybėje narėje, ta valstybė narė, kurioje yra įgaliotojo konsultanto pagrindinė buveinė, arba, jeigu įgaliotasis konsultantas neturi nei registruotos, nei pagrindinės buveinės valstybėje narėje, ta valstybė narė, kurioje įgaliotasis konsultantas yra įsisteigęs.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 34. Konsoliduotos informacijos apie sandorius skelbimo subjektas – juridinis asmuo, kuris surenka iš reguliuojamų rinkų, daugiašalių prekybos sistemų, organizuotos prekybos sistemų ir patvirtintų informacijos apie sandorius skelbimo subjektų informaciją apie sandorius dėl Reglamento (ES) Nr. 600/2014 6, 7, 10, 12, 13, 20 ir 21 straipsniuose nurodytų finansinių priemonių ir konsoliduoja šią informaciją į nepertraukiamą nuolat atnaujinamą elektroninių duomenų srautą, pateikiantį bendrą informaciją apie finansinės priemonės, dėl kurios buvo sudaryti sandoriai, kiekį ir kainą. Kitose valstybėse narėse įsteigti konsoliduotos informacijos apie sandorius skelbimo subjektai gali neturėti juridinio asmens statuso.
 
@@ -356,6 +404,12 @@ c) šie asmenys ne rečiau kaip kartą per metus praneša priežiūros instituci
 
 77. Trečiosios valstybės priežiūros institucija – institucija, atliekanti šiame įstatyme nurodytoms priežiūros institucijos funkcijoms analogiškas finansinių priemonių rinkų priežiūros funkcijas ne valstybėje narėje.
 
+771. Turto valdytojas – finansų maklerio įmonė ir kredito įstaiga, teikianti investuotojams finansinių priemonių portfelio valdymo paslaugas, valdymo įmonė ar investicinė bendrovė, turinti licenciją pagal Kolektyvinio investavimo subjektų įstatymą ir (arba) Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+
 78. Vadovai:
 
 1) vienasmenis juridinio asmens vadovas ir jo pavaduotojas;
@@ -390,7 +444,11 @@ c) šie asmenys ne rečiau kaip kartą per metus praneša priežiūros instituci
 
 85. Žemės ūkio biržos prekių išvestinės finansinės priemonės – išvestinių finansinių priemonių sandoriai, susiję su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007 (OL 2013 L 347, p. 671) (toliau – Reglamentas (ES) Nr. 1308/2013), 1 straipsnyje ir I priedo I–XX dalyse bei XXIV/1 dalyje išvardytais produktais.
 
-86. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Finansų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 2016/1011 ir Reglamente (ES) Nr. 2015/2365.
+86. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Finansų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Kolektyvinio investavimo subjektų įstatyme, Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme, Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 2016/1011 ir Reglamente (ES) Nr. 2015/2365.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 II SKYRIUS
 
@@ -832,7 +890,11 @@ INVESTICINIŲ PASLAUGŲ TEIKIMAS PROFESIONALIESIEMS KLIENTAMS IR TINKAMOMS SANDO
 
 PENKTASIS SKIRSNIS
 
-FINANSŲ MAKLERIO ĮMONĖMS TAIKOMI RINKOS SKAIDRUMO REIKALAVIMAI
+FINANSŲ MAKLERIO ĮMONĖMS, INSTITUCINIAMS INVESTUOTOJAMS, TURTO VALDYTOJAMS IR ĮGALIOTIESIEMS KONSULTANTAMS TAIKOMI RINKOS SKAIDRUMO REIKALAVIMAI
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 40 straipsnis. Daugiašalės prekybos sistemos veiklos taisyklių ir kitų nustatytų pareigų laikymosi priežiūra
 
@@ -859,10 +921,6 @@ FINANSŲ MAKLERIO ĮMONĖMS TAIKOMI RINKOS SKAIDRUMO REIKALAVIMAI
 7. Šiame straipsnyje nustatyti reikalavimai taip pat taikomi, kai prekybos finansine priemone arba šio straipsnio 2 dalyje nurodytomis išvestinėmis finansinėmis priemonėmis sustabdymas yra panaikinamas.
 
 8. Priežiūros institucija, pagal šio įstatymo 102 straipsnio 3 dalies 3 punktą priėmusi sprendimą sustabdyti arba nutraukti prekybą finansine priemone arba šio straipsnio 2 dalyje nurodytomis išvestinėmis finansinėmis priemonėmis, apie šį sprendimą paskelbia viešai ir informuoja šio straipsnio 4 dalyje nustatyta tvarka.
-
-ŠEŠTASIS SKIRSNIS
-
-FINANSŲ MAKLERIO ĮMONIŲ TEISĖS
 
 42 straipsnis. Lietuvos Respublikoje įsteigtų finansų maklerio įmonių investicinių paslaugų teikimas kitoje valstybėje narėje nesteigiant filialo
 
@@ -1316,7 +1374,11 @@ FINANSINIŲ PRIEMONIŲ APSKAITA
 
 7. Sąskaitų tvarkytojo vardu tvarkyti finansinių priemonių sąskaitas ir keisti jų turinį turi teisę tik sąskaitų tvarkytojo darbuotojai ir kiti asmenys, kuriems pagal sąskaitų tvarkytojo steigimo dokumentus yra suteikti įgaliojimai savarankiškai priimti sprendimus dėl sąskaitų tvarkymo. Sąskaitų tvarkytojas privalo užtikrinti savininko teisę nepertraukiamai disponuoti finansinėmis priemonėmis.
 
-8. Sąskaitų tvarkytojas privalo užtikrinti informacijos, kurią jis sužinojo tvarkydamas sąskaitas, konfidencialumą, išskyrus įstatymuose numatytus privalomo informacijos atskleidimo atvejus. Sąskaitų tvarkytojai informaciją apie likučius finansinių priemonių sąskaitose, kuriose įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ir 7 dalies 1 punkte nustatyta tvarka, turi teisę teikti tik sąskaitos turėtojui ar jo įgaliotiems asmenims. Kitiems asmenims tokia informacija teikiama, kai jos pateikimą numato Lietuvos Respublikos įstatymai. Sąskaitų tvarkytojai privalo finansinių priemonių savininkų sąrašus pateikti centriniam depozitoriumui, kai šis įgyvendina emitento arba kito asmens, išleidusio finansines priemones, teisę, nurodytą šio įstatymo 89 straipsnio 3 dalyje.
+8. Sąskaitų tvarkytojas privalo užtikrinti informacijos, kurią jis sužinojo tvarkydamas sąskaitas, konfidencialumą, išskyrus įstatymuose numatytus privalomo informacijos atskleidimo atvejus. Sąskaitų tvarkytojai informaciją apie likučius finansinių priemonių sąskaitose, kuriose įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ir 7 dalies 1 punkte nustatyta tvarka, turi teisę teikti tik sąskaitos turėtojui ar jo įgaliotiems asmenims. Kitiems asmenims tokia informacija teikiama, kai jos pateikimas numatytas Lietuvos Respublikos įstatymuose. Sąskaitų tvarkytojai privalo finansinių priemonių savininkų sąrašus pateikti centriniam depozitoriumui, kai šis įgyvendina emitento arba kito asmens, išleidusio finansines priemones, teisę, nurodytą šio įstatymo 891 straipsnio 2 dalyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 9. Kai sąskaitų tvarkytojų ir (ar) jų klientų įsigytos ne Lietuvos Respublikoje išleistos finansinės priemonės saugomos centrinio depozitoriumo sąskaitose, atidarytose kitų valstybių centriniuose ar tarptautiniuose depozitoriumuose, ar kitų valstybių centriniuose ar tarptautiniuose depozitoriumuose atidarytose sąskaitose, tokių finansinių priemonių apskaitai Lietuvoje mutatis mutandis taikomos šio įstatymo nuostatos, išskyrus reikalavimus, nustatytus šio įstatymo 87 straipsnio 3 dalies 1 punkte.
 
@@ -1370,7 +1432,11 @@ Finansinių priemonių rinkos priežiūros tikslai:
 
 1) reguliuojamoms rinkoms, finansų maklerio įmonėms, finansų patarėjo įmonėms, informacijos apie sandorius paslaugų teikėjams, centriniams depozitoriumams ir lyginamojo indekso administratoriams išduoda licencijas ar panaikina jų galiojimą;
 
-2) stebi, analizuoja, tikrina ir kitaip prižiūri finansų maklerio įmonių, finansų patarėjo įmonių, trečiųjų valstybių įmonių filialų, reguliuojamų rinkų ir jų narių, centrinio depozitoriumo, sąskaitų tvarkytojų, lyginamojo indekso administratorių ir informacijos apie sandorius paslaugų teikėjų veiklą;
+2) stebi, analizuoja, tikrina ir kitaip prižiūri finansų maklerio įmonių, finansų patarėjo įmonių, trečiųjų valstybių įmonių filialų, reguliuojamų rinkų ir jų narių, centrinio depozitoriumo, sąskaitų tvarkytojų, įgaliotųjų konsultantų, institucinių investuotojų, turto valdytojų, lyginamojo indekso administratorių ir informacijos apie sandorius paslaugų teikėjų veiklą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 3) atlieka priežiūros institucijai priskirtas funkcijas, nustatytas Reglamente (ES) Nr. 648/2012, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 236/2012 ir Reglamente (ES) Nr. 2016/1011;
 
@@ -3160,7 +3226,11 @@ PRIEŽIŪROS INSTITUCIJOS TEISĖS IR ĮGALIOJIMAI
 
 2. Reikalavimai priežiūros institucijos rengiamiems patikrinimams nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises.
 
-3. Priežiūros institucija Lietuvos banko įstatymo nustatyta tvarka finansų maklerio įmonei, finansų patarėjo įmonei, trečiosios valstybės įmonės filialui, rinkos operatoriui, informacijos apie sandorius paslaugų teikėjui ar centriniam depozitoriumui duoda tokius privalomus nurodymus:
+3. Priežiūros institucija Lietuvos banko įstatymo nustatyta tvarka finansų maklerio įmonei, finansų patarėjo įmonei, trečiosios valstybės įmonės filialui, rinkos operatoriui, informacijos apie sandorius paslaugų teikėjui, įgaliotiems konsultantams, instituciniams investuotojams, turto valdytojams ar centriniam depozitoriumui duoda tokius privalomus nurodymus:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 1) laikinai sustabdyti arba nutraukti prekybą reguliuojamoje rinkoje ar kitoje prekybos vietoje arba finansinių priemonių įtraukimą į prekybą reguliuojamoje rinkoje ar kitoje prekybos vietoje;
 
@@ -3238,7 +3308,11 @@ PRIEŽIŪROS INSTITUCIJOS TEISĖS IR ĮGALIOJIMAI
 
 8. Kai šio straipsnio 7 dalyje nustatyti privalomi nurodymai duodami finansų maklerio įmonei, kuriai taikomas šio įstatymo 14 straipsnio 2 dalyje nurodytas reikalavimas ir kuri priklauso finansinei grupei, šiai įmonei mutatis mutandis taikomos Lietuvos Respublikos bankų įstatymo 752 straipsnio nuostatos.
 
-9. Finansų maklerio įmonė, finansų patarėjo įmonė, trečiosios valstybės įmonės filialas, rinkos operatorius, centrinis depozitoriumas ar informacijos apie sandorius paslaugų teikėjas privalo vykdyti šio straipsnio 3 dalyje nustatytus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną nuo nurodymo įvykdymo apie tai raštu pranešti priežiūros institucijai. Finansų maklerio įmonė, kuriai taikomas šio įstatymo 14 straipsnio 2 dalyje nurodytas reikalavimas, taip pat privalo vykdyti šio straipsnio 7 dalyje nustatytus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdama, ne vėliau kaip kitą darbo dieną nuo nurodymo įvykdymo apie tai raštu pranešti priežiūros institucijai.
+9. Finansų maklerio įmonė, finansų patarėjo įmonė, trečiosios valstybės įmonės filialas, rinkos operatorius, centrinis depozitoriumas, įgaliotas konsultantas, institucinis investuotojas, turto valdytojas ar informacijos apie sandorius paslaugų teikėjas privalo vykdyti šio straipsnio 3 dalyje nustatytus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, bet ne vėliau kaip kitą darbo dieną nuo nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. Finansų maklerio įmonė, kuriai taikomas šio įstatymo 14 straipsnio 2 dalyje nurodytas reikalavimas, taip pat privalo vykdyti šio straipsnio 7 dalyje nustatytus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdama, bet ne vėliau kaip kitą darbo dieną nuo nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 10. Priežiūros institucija, nustačiusi, kad finansų maklerio įmonė, kuriai taikomas šio įstatymo 14 straipsnio 2 dalyje nurodytas reikalavimas, atitinka šio straipsnio 7 dalyje nurodytas sąlygas, nedelsdama apie tai turi pranešti finansų sektoriaus subjektų pertvarkymo institucijai (toliau – pertvarkymo institucija). Tokiu atveju (įskaitant atvejus, kai priežiūros institucija atlieka patikrinimus pagal šį straipsnį) priežiūros institucija turi teisę gauti visą informaciją, būtiną pertvarkymo planui, parengtam pagal Finansinio tvarumo įstatymą, atnaujinti, galimam finansų maklerio įmonės pertvarkymui pasirengti ir jos turtui bei įsipareigojimams įvertinti. Priežiūros institucija šią informaciją turi pateikti pertvarkymo institucijai.
 
@@ -3542,6 +3616,12 @@ Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
 
 14. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014 (OL 2016 L 171, p. 1).
 
+15. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu (OL 2017 L 132, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+
 Priedo pakeitimai:
 
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
@@ -3697,4 +3777,110 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
 
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 106 straipsnio ir priedo pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 88, 89, 90, 93, 102 straipsnių, penktojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 41-1, 41-2, 41-3, 41-4, 89-1 straipsniais įstatymas
+
+411 straipsnis. Dalyvavimo politika
+
+1. Instituciniai investuotojai ir turto valdytojai privalo laikytis šioje dalyje nustatytų reikalavimų arba viešai paskelbti aiškų ir pagrįstą paaiškinimą, kodėl jie pasirinko nesilaikyti bent vieno iš šių reikalavimų:
+
+1) instituciniai investuotojai ir turto valdytojai privalo parengti ir viešai paskelbti dalyvavimo politikos dokumentą, kuriame aprašoma, kaip jie įtraukia akcininko dalyvavimo klausimą į savo investavimo strategiją, taip pat nurodoma, kaip jie stebi akcinės bendrovės, į kurią investuoja, bendrąją veiklą, įskaitant veiklos strategiją, finansinius ir nefinansinius rezultatus, riziką, kapitalo struktūrą, socialinį poveikį bei poveikį aplinkai ir bendrovės valdymą, palaiko dialogą su akcinėmis bendrovėmis, į kurias investuoja, naudojasi balsavimo ir kitomis teisėmis, kurias suteikia turimos akcijos, bendradarbiauja su kitais akcininkais, palaiko ryšius su atitinkamais akcinių bendrovių, į kurias investuoja, suinteresuotaisiais asmenimis ir valdo esamus ar galimus interesų konfliktus, susijusius su jų dalyvavimu;
+
+2) instituciniai investuotojai ir turto valdytojai privalo ne vėliau kaip per 4 mėnesius nuo praėjusių kalendorinių metų pabaigos viešai atskleisti, kaip jų dalyvavimo politika buvo įgyvendinama, įskaitant bendrą jų balsavimo apžvalgą, svarbiausių balsavimų paaiškinimą ir tai, kaip jie naudojosi įgaliotųjų konsultantų paslaugomis. Instituciniai investuotojai ir turto valdytojai taip pat privalo viešai atskleisti, kaip jie balsavo akcinių bendrovių, kurių akcijų jie turi, visuotiniuose akcininkų susirinkimuose. Atskleidžiant tokią informaciją, galima neįtraukti balsavimo, kuris pagal investuotojų ir turto valdytojų nustatytus kriterijus laikomas nereikšmingu dėl balsavimo dalyko arba turimų akcinės bendrovės akcijų skaičiaus.
+
+2. Šio straipsnio 1 dalyje nurodyta informacija turi būti nemokamai prieinama institucinio investuotojo ar turto valdytojo interneto svetainėje. Jeigu turto valdytojas įgyvendina dalyvavimo politiką, įskaitant balsavimą, institucinio investuotojo vardu, institucinis investuotojas pateikia nuorodą, kur turto valdytojas paskelbė tokią balsavimo informaciją.
+
+3. Instituciniams investuotojams ir turto valdytojams įgyvendinant dalyvavimo politiką, mutatis mutandis taikomos šio įstatymo 28 straipsnio nuostatos, taip pat Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo 13 straipsnio 1 dalies 6 punkte ir Kolektyvinio investavimo subjektų įstatymo 11 straipsnio 1 dalies 7 punkte išdėstytos interesų konfliktų nustatymo, prevencijos, valdymo ir stebėsenos nuostatos.
+
+Papildyta straipsniu:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+
+412 straipsnis. Institucinių investuotojų investavimo strategija ir susitarimai su turto valdytojais
+
+1. Instituciniai investuotojai privalo viešai atskleisti, kaip pagrindiniai jų investavimo į akcinės bendrovės, kurios akcijomis prekiaujama reguliuojamoje rinkoje, įstatinį kapitalą strategijos elementai dera su jų įsipareigojimų, ypač ilgalaikių, profiliu ir trukme ir kaip jie padeda siekti jų turto vidutinės trukmės ar ilgojo laikotarpio rezultatų.
+
+2. Kai turto valdytojas institucinio investuotojo vardu investuoja, atsižvelgdamas į kiekvieną konkretų klientą arba per kolektyvinio investavimo subjektą, institucinis investuotojas privalo viešai atskleisti šią informaciją apie susitarimus su turto valdytoju:
+
+1) informaciją apie tai, kaip susitarimas su turto valdytoju skatina turto valdytoją suderinti savo investavimo strategiją ir investicinius sprendimus su institucinio investuotojo įsipareigojimų, ypač ilgalaikių, profiliu ir trukme;
+
+2) informaciją apie tai, kaip susitarimas skatina turto valdytoją priimti investicinius sprendimus remiantis akcinės bendrovės, kurios akcijomis prekiaujama reguliuojamoje rinkoje, į kurią investuojama, vidutinės trukmės ar ilgojo laikotarpio finansinių ir nefinansinių rezultatų vertinimu ir dalyvauti akcinės bendrovės, kurios akcijomis prekiaujama reguliuojamoje rinkoje, į kurią investuojama, veikloje siekiant gerinti jos vidutinės trukmės ar ilgojo laikotarpio rezultatus;
+
+3) informaciją apie tai, kaip turto valdytojo veiklos rezultatų vertinimo būdas ir laikotarpis bei atlyginimas už turto valdymo paslaugas dera su institucinio investuotojo įsipareigojimų, ypač ilgalaikių, profiliu ir trukme ir kaip atsižvelgiama į absoliučius ilgojo laikotarpio rezultatus;
+
+4) informaciją apie tai, kaip institucinis investuotojas stebi turto valdytojo patiriamas finansinių priemonių portfelio apyvartos sąnaudas ir kaip jis apibrėžia ir stebi tikslinę finansinių priemonių portfelio apyvartą ar apyvartos intervalą;
+
+5) susitarimo su turto valdytoju trukmę.
+
+3. Jeigu į susitarimą su turto valdytoju neįtraukiamas bent vienas iš šio straipsnio 2 dalies  1–5 punktuose nurodytų elementų, institucinis investuotojas privalo pateikti aiškų ir pagrįstą to paaiškinimą.
+
+4. Šio straipsnio 1, 2 ir 3 dalyse nurodyta informacija privalo būti nemokamai prieinama institucinio investuotojo interneto svetainėje ir kiekvienais metais atnaujinama, nebent nėra esminių jos pasikeitimų. Instituciniai investuotojai, kurių veiklą reglamentuoja Draudimo įstatymas, gali įtraukti šią informaciją į mokumo ir finansinės būklės ataskaitą.
+
+Papildyta straipsniu:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+
+413 straipsnis. Turto valdytojų skaidrumas
+
+1. Turto valdytojai ne vėliau kaip per 4 mėnesius nuo praėjusių kalendorinių metų pabaigos turi parengti ir šio straipsnio 2 dalyje nurodyta tvarka atskleisti instituciniam investuotojui, su kuriuo yra sudarytas šio įstatymo 412 straipsnyje nurodytas susitarimas, skirtą praėjusių kalendorinių metų skaidrumo ataskaitą. Skaidrumo ataskaitoje turi būti nurodyta:
+
+1) kaip turto valdytojų investavimo strategija ir jos įgyvendinimas atitinka šio įstatymo 412 straipsnyje nurodytą turto valdytojo ir institucinio investuotojo susitarimą ir kaip prisideda prie institucinio investuotojo turto ar fondo vidutinės trukmės ar ilgojo laikotarpio rezultatų;
+
+2) duomenys apie pagrindines esmines vidutinės trukmės ar ilgojo laikotarpio rizikas, susijusias su investicijomis, finansinių priemonių portfelio sudėtį, apyvartą ir apyvartos sąnaudas, naudojimąsi įgaliotųjų konsultantų paslaugomis dalyvavimo veiklos tikslais, vertybinių popierių skolinimo politiką ir tai, kaip ji taikoma siekiant vykdyti dalyvavimo veiklą, jeigu taikytina, ypač tuo metu, kai vyksta akcinės bendrovės, į kurią investuota, visuotinis akcininkų susirinkimas;
+
+3) informacija apie tai, ar turto valdytojai priima investicinius sprendimus remdamiesi akcinės bendrovės, į kurią investuoja, vidutinės trukmės ar ilgojo laikotarpio rezultatų, įskaitant nefinansinius rezultatus, vertinimu, ir, jeigu taip, kaip turto valdytojai priima investicinius sprendimus;
+
+4) informacija apie interesų konfliktus, kurie įvyko vykdant dalyvavimo veiklą, ir kaip turto valdytojas juos išsprendė, jeigu tokių konfliktų buvo.
+
+2. Šio straipsnio 1 dalyje nurodyta skaidrumo ataskaita turi būti prieinama viešai turto valdytojo interneto svetainėje arba pateikiama tiesiogiai instituciniam investuotojui, su kuriuo yra sudarytas šio įstatymo 412 straipsnyje nurodytas susitarimas.
+
+Papildyta straipsniu:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+
+414 straipsnis. Įgaliotųjų konsultantų skaidrumas
+
+1. Įgaliotieji konsultantai privalo viešai skelbti nuorodą į elgesio kodeksą, kuriuo jie vadovaujasi, ir metines elgesio kodekso taikymo ataskaitas.
+
+2. Jeigu įgaliotieji konsultantai elgesio kodekso netaiko, jie turi paskelbti aiškų ir pagrįstą paaiškinimą, kodėl to nedaro. Jeigu įgaliotieji konsultantai taiko elgesio kodeksą, bet nesilaiko kurios nors jo rekomendacijos, įgaliotieji konsultantai turi paskelbti, kurių elgesio kodekso nuostatų nesilaiko, pateikti paaiškinimą, kodėl jie taip daro, ir nurodyti, jeigu taikytina, visas kitas priemones, kurių buvo imtasi.
+
+3. Šio straipsnio 1 ir 2 dalyse nurodyta praėjusių kalendorinių metų informacija turi būti viešai ir nemokamai paskelbiama įgaliotųjų konsultantų interneto svetainėse ne vėliau kaip per 4 mėnesius nuo praėjusių kalendorinių metų pabaigos.
+
+4. Siekiant, kad įgaliotieji konsultantai tinkamai informuotų savo klientus apie savo veiklos tikslumą ir patikimumą, įgaliotieji konsultantai turi viešai skelbti šią informaciją, susijusią su praėjusių kalendorinių metų tyrimų, konsultacijų ir balsavimo rekomendacijų parengimu:
+
+1) esmines taikomos metodikos ir modelių savybes;
+
+2) svarbiausius naudojamus informacijos šaltinius;
+
+3) taikomą tvarką, pagal kurią užtikrinama tyrimų, konsultacijų ir balsavimo rekomendacijų kokybė ir atitinkamų darbuotojų kvalifikacija;
+
+4) informaciją apie tai, ar ir kaip įgaliotieji konsultantai atsižvelgia į nacionalinės rinkos, teisines, reguliavimo ir bendrovei būdingas sąlygas;
+
+5) esminius kiekvienai rinkai taikomos balsavimo politikos bruožus;
+
+6) informaciją apie tai, ar įgaliotieji konsultantai palaiko dialogą su bendrovėmis, kurios yra jų tyrimų, konsultacijų ar balsavimo rekomendacijų objektas, ir bendrovės suinteresuotaisiais asmenimis, ir, jeigu taip, informaciją apie šio dialogo mastą ir pobūdį;
+
+7) politiką, susijusią su galimų interesų konfliktų prevencija ir valdymu.
+
+5. Šio straipsnio 4 dalyje nurodytą informaciją įgaliotieji konsultantai turi kiekvienais metais ne vėliau kaip per 4 mėnesius nuo praėjusių kalendorinių metų pabaigos viešai ir nemokamai paskelbti savo interneto svetainėse ir užtikrinti, kad ji būtų prieinama ne trumpiau kaip 3 metus nuo jos paskelbimo dienos.
+
+6. Šio straipsnio 4 dalyje nurodyta informacija gali būti neskelbiama šio straipsnio 5 dalyje nustatyta tvarka, jeigu ji yra paskelbta kartu su šio straipsnio 1 ar 2 dalyje nurodyta informacija.
+
+7. Įgaliotieji konsultantai turi nustatyti bet kokį esamą ar galimą interesų konfliktą ar verslo santykius, galinčius paveikti tyrimų, konsultacijų ar balsavimo rekomendacijų rengimą, ir nedelsdami apie tai informuoti savo klientus. Jie taip pat turi nedelsdami informuoti savo klientus apie veiksmus, kurių jie ėmėsi esamam ar galimam interesų konfliktui pašalinti, sušvelninti ar valdyti.
+
+8. Šis straipsnis taip pat taikomas įgaliotiesiems konsultantams, kurie neturi nei registruotos, nei pagrindinės buveinės Europos Sąjungoje, bet yra joje įsisteigę.
+
+Papildyta straipsniu:
+
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+
+ŠEŠTASIS SKIRSNIS
+
+FINANSŲ MAKLERIO ĮMONIŲ TEISĖS
 
