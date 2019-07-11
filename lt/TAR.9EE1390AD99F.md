@@ -4,7 +4,7 @@ identifier: "TAR.9EE1390AD99F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-06-18"
-last_updated: "2014-01-01"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9EE1390AD99F"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,10 @@ entry_into_force_conditions: "Šio įstatymo 10 straipsnio 3 dalis įsigalioja 2
 LIETUVOS RESPUBLIKOS MEDŽIOKLĖS ĮSTATYMO 7, 8, 9, 11, 12, 13, 14, 18, 22
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2019-07-11
+
+Įstatymas paskelbtas: Žin. 2013, Nr. 67-3335, i. k. 1131010ISTA0XII-372
 
 LIETUVOS RESPUBLIKOS  MEDŽIOKLĖS ĮSTATYMO 7, 8, 9, 11, 12, 13, 14, 18, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO  ĮSTATYMAS
 
@@ -99,6 +103,12 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 „13 straipsnis. Žemės sklypų savininkų teisės, susijusios su medžioklės plotų vienetų sudarymu ir medžiojamųjų gyvūnų išteklių naudojimu juose
 
 1. Privačios žemės sklypo savininkas, kuris turi medžiotojo bilietą ir kuriam konkrečiame medžioklės plotų vienete nuosavybės teise priklauso ne mažiau kaip 100 ha miško arba žemės ūkio paskirties žemės, turi teisę tapti medžioklės plotų naudotojo medžiotojų kolektyvo nariu, prisiimdamas visas medžiotojų kolektyvo įstatuose numatytas pareigas ir teises, o medžioklės plotų naudotojas privalo priimti į medžiotojų kolektyvą narius per 30 dienų nuo jų prašymų pateikimo dienos.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 13 straipsnio (2013 m. birželio 18 d. redakcija; Žin., 2013, Nr. 67-3335) 1 dalis tiek, kiek joje nustatytas teisinis reguliavimas, pagal kurį medžioklės plotų naudotojas medžiotojų kolektyvas, veikiantis Lietuvos Respublikos asociacijų įstatymo nustatyta tvarka, privalėjo priimti į savo narius privačios žemės sklypo savininką, kuriam medžiotojų kolektyvo naudojamame medžioklės plotų vienete nuosavybės teise priklauso ne mažiau kaip 100 ha miško arba žemės ūkio paskirties žemės, prieštaravo Lietuvos Respublikos Konstitucijos 35 straipsnio 1 daliai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT21-N10/2019, 2019-07-11, paskelbta TAR 2019-07-11, i. k. 2019-11475
 
 2. Privačios žemės sklypo savininkas, kurio žemė nepatenka į šio Įstatymo 7 straipsnio 2 dalyje nurodytas teritorijas ir šio Įstatymo 8 straipsnyje nustatyta tvarka yra numatoma priskirti arba yra priskirta medžioklės plotų vienetui, medžioklės plotų vieneto sudarymo ar jo ribų pakeitimo metu, taip pat bet kuriuo metu vėliau turi teisę uždrausti medžioti jam priklausančiame žemės sklype, panaikinti ankstesnį draudimą medžioti arba nustatyti papildomas medžiojimo jam priklausančiame žemės sklype sąlygas. Žemės sklypo savininkas rašytinį sprendimą uždrausti medžioti jam priklausančiame žemės sklype, panaikinti ankstesnį draudimą medžioti arba nustatyti papildomas medžiojimo jam priklausančiame žemės sklype sąlygas turi pateikti atitinkamos savivaldybės komisijai medžioklės plotų vienetams sudaryti bei jų riboms pakeisti. Pateikdamas savo sprendimą, žemės sklypo savininkas turi nurodyti jam priklausančio žemės sklypo kadastrinį numerį ir nuosavybės teises į sklypą patvirtinantį dokumentą. Žemės sklypo savininkui pateikus sprendimą nustatyti papildomas medžiojimo sąlygas, medžioklė jam priklausančiame žemės sklype yra laikinai draudžiama, o medžioklės plotų naudotojas turi kreiptis į žemės sklypo savininką dėl papildomas medžiojimo sąlygas nustatančios rašytinės sutarties sudarymo ir šios sutarties kopiją perduoti Aplinkos ministerijos regiono aplinkos apsaugos departamentui.
 
