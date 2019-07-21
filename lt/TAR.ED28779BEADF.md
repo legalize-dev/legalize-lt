@@ -4,7 +4,7 @@ identifier: "TAR.ED28779BEADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2019-02-01"
+last_updated: "2019-07-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-07-20
+Suvestinė redakcija nuo 2019-07-21 iki 2019-12-20
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
 
@@ -558,7 +558,11 @@ SUDĖTINIAI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 
 5. Vieną subfondą sudarantis turtas negali būti naudojamas įsipareigojimams kito tą patį kolektyvinio investavimo subjektą sudarančio subfondo dalyviams ar tretiesiems asmenims padengti.
 
-6. Sudėtinis kolektyvinio investavimo subjektas privalo turėti bendrą prospektą. Kai subfondo investicinių vienetų ar akcijų emisijai taikomas Vertybinių popierių įstatymo nustatytas reikalavimas parengti prospektą, papildomai turi būti parengtas atskiras subfondo prospektas. Pagrindinės informacijos investuotojams dokumentas turi būti rengiamas kiekvienam subfondui atskirai.
+6. Sudėtinis kolektyvinio investavimo subjektas privalo turėti bendrą prospektą. Kai subfondo investicinių vienetų ar akcijų emisijai taikomas Vertybinių popierių įstatymo ir Reglamento (ES) 2017/1129 nustatytas reikalavimas parengti prospektą, papildomai turi būti parengtas atskiras subfondo prospektas. Pagrindinės informacijos investuotojams dokumentas turi būti rengiamas kiekvienam subfondui atskirai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 7. Kolektyvinio investavimo subjekto dalyvių sąrašą valdymo įmonė tvarko pagal kiekvieną subfondą atskirai. Išduodant nuosavybės teisės patvirtinimo dokumentus, juose nurodomas (nurodomi) konkretaus subfondo (subfondų) pavadinimas (pavadinimai).
 
@@ -1004,7 +1008,11 @@ Jeigu kolektyvinio investavimo subjektų jungime dalyvauja Lietuvos Respublikoje
 
 28 straipsnis. Prospektas, periodinės ataskaitos ir statistinių duomenų ataskaitos
 
-1. Prospekte turi būti pateikta pakankamai informacijos, kad investuotojai galėtų tinkamai įvertinti siūlomą investiciją ir su ja susijusią riziką. Prospekte turi būti aiškiai ir suprantamai paaiškintas rizikos pobūdis. Kolektyvinio investavimo subjektas privalo turėti galiojantį prospektą, parengtą pagal šį įstatymą ir jo įgyvendinamuosius teisės aktus, arba šio straipsnio 8 dalyje nustatytu atveju – pagal Vertybinių popierių įstatymą.
+1. Prospekte turi būti pateikta pakankamai informacijos, kad investuotojai galėtų tinkamai įvertinti siūlomą investiciją ir su ja susijusią riziką. Prospekte turi būti aiškiai ir suprantamai paaiškintas rizikos pobūdis. Kolektyvinio investavimo subjektas privalo turėti galiojantį prospektą, parengtą pagal šį įstatymą ir jo įgyvendinamuosius teisės aktus, arba šio straipsnio 8 dalyje nustatytu atveju – pagal Vertybinių popierių įstatymą ir Reglamentą (ES) 2017/1129.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 2. Metų ataskaitoje turi būti pateikta priežiūros institucijos nustatyta informacija, iš kurios investuotojai galėtų padaryti pagrįstas išvadas dėl kolektyvinio investavimo subjekto veiklos ir jos rezultatų. Jeigu mokami tarpiniai dividendai, jie turi būti nurodyti pusmečio ataskaitoje.
 
@@ -1018,11 +1026,15 @@ Jeigu kolektyvinio investavimo subjektų jungime dalyvauja Lietuvos Respublikoje
 
 7. Kai Lietuvos Respublikoje licencijuota valdymo įmonė valdo kitoje valstybėje narėje įsteigtą suderintąjį kolektyvinio investavimo subjektą, ji priežiūros institucijai turi pateikti šio kolektyvinio investavimo subjekto prospektą ir visus jo pakeitimus, taip pat metų ir pusmečio ataskaitas.
 
-8. Jeigu valdymo įmonė savo valdomam specialiajam kolektyvinio investavimo subjektui, vadovaudamasi Vertybinių popierių įstatymo nuostatomis, privalo parengti prospektą, skirtą konkrečiai akcijų ar investicinių vienetų emisijai, viešai skelbti periodinę informaciją, tokiu atveju:
+8. Jeigu valdymo įmonė savo valdomam specialiajam kolektyvinio investavimo subjektui, vadovaudamasi Vertybinių popierių įstatymo ir Reglamento (ES) 2017/1129 nuostatomis, privalo parengti prospektą, skirtą konkrečiai akcijų ar investicinių vienetų emisijai, viešai skelbti periodinę informaciją, tokiu atveju:
 
-1) prospektas rengiamas vadovaujantis Vertybinių popierių įstatymo nuostatomis;
+1) prospektas rengiamas vadovaujantis Vertybinių popierių įstatymo ir Reglamento (ES) 2017/1129 nuostatomis;
 
-2) periodinė informacija rengiama vadovaujantis atitinkamai Vertybinių popierių įstatymo, šio įstatymo ir jo įgyvendinamųjų teisės aktų nuostatomis.
+2) periodinė informacija rengiama ir skelbiama vadovaujantis atitinkamai Vertybinių popierių įstatymo, šio įstatymo ir jo įgyvendinamųjų teisės aktų nuostatomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 109 straipsnis. Papildomos po jungimo pasibaigsiančio kolektyvinio investavimo subjekto auditoriaus ir jungime dalyvaujančių kolektyvinio investavimo subjektų ar jų valdymo įmonių pareigos
 
@@ -1310,7 +1322,11 @@ Valdymo įmonė ir depozitoriumas turi užtikrinti, kad būtų įdiegtos priemon
 
 34 straipsnis. Reklaminio pobūdžio informacija
 
-1. Investuotojams skirta reklaminio pobūdžio informacija turi būti aiškiai atpažįstama. Ji turi būti teisinga, aiški ir neklaidinanti. Reklaminio pobūdžio informacijoje, kuria siūloma įsigyti kolektyvinio investavimo subjekto investicinių vienetų ar akcijų ir kurioje pateikiama informacija apie kolektyvinio investavimo subjektą, neturi būti teiginių, prieštaraujančių atitinkamo kolektyvinio investavimo subjekto prospekte ir pagrindinės informacijos investuotojams dokumente pateiktai informacijai arba sumenkinančių tokios informacijos svarbą. Reklaminio pobūdžio informacijoje turi būti nurodoma, kad yra parengtas prospektas ir pagrindinės informacijos investuotojams dokumentas, taip pat vietos, kur ir kokia kalba investuotojai gali juos gauti arba su jais susipažinti.
+1. Investuotojams skirta reklaminio pobūdžio informacija turi būti aiškiai atpažįstama. Ji turi būti teisinga, aiški ir neklaidinanti. Reklaminio pobūdžio informacijoje, kuria siūloma įsigyti kolektyvinio investavimo subjekto investicinių vienetų ar akcijų ir kurioje pateikiama informacija apie kolektyvinio investavimo subjektą, neturi būti teiginių, prieštaraujančių atitinkamo kolektyvinio investavimo subjekto prospekte ir pagrindinės informacijos investuotojams dokumente pateiktai informacijai arba sumenkinančių tokios informacijos svarbą. Reklaminio pobūdžio informacijoje turi būti nurodoma, kad yra parengtas prospektas ir pagrindinės informacijos investuotojams dokumentas, taip pat vietos, kur ir kokia kalba investuotojai gali juos gauti arba su jais susipažinti. Rengiant investuotojams reklaminio pobūdžio informaciją ir ją viešinant, turi būti vadovaujamasi šio įstatymo ir Reglamento (ES) 2017/1129 nuostatomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 2. Skelbiamoje kolektyvinio investavimo subjektų reklamoje pateikiami kolektyvinio investavimo subjekto veiklos rezultatai privalo būti lyginami su to kolektyvinio investavimo subjekto lyginamuoju indeksu. Šis reikalavimas netaikomas kolektyvinio investavimo subjektams, kurių šis įstatymas neįpareigoja naudoti lyginamojo indekso.
 
@@ -2132,7 +2148,11 @@ SPECIALIEJI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 
 4. Specialiesiems kolektyvinio investavimo subjektams netaikomi šio įstatymo VI skyriaus trečiasis skirsnis ir VII skyrius. Kitos šio įstatymo nuostatos taikomos tiek, kiek šiame skyriuje nenustatyta kitaip.
 
-5. Uždarojo tipo kolektyvinio investavimo subjektams šis įstatymas taikomas tiek, kiek šių santykių nereglamentuoja Vertybinių popierių įstatymas.
+5. Uždarojo tipo kolektyvinio investavimo subjektams šis įstatymas taikomas tiek, kiek šių santykių nereglamentuoja Vertybinių popierių įstatymas ir Reglamentas (ES) 2017/1129.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 6. Specialiesiems kolektyvinio investavimo subjektams ir jų valdymo įmonėms gali būti netaikomi šio įstatymo 22 straipsnio 1 dalyje nustatyti apribojimai dėl turto perleidimo ir įsigijimo, jei sandorį sudaryti būtina, veikiant geriausiomis šiam kolektyvinio investavimo subjektui ir jo dalyviams sąlygomis ir jų interesais, ir šio kolektyvinio investavimo subjekto steigimo dokumentuose ir (arba) prospekte yra numatytos priemonės, skirtos tokio pobūdžio sandorių atitikčiai dalyvių interesams ir interesų konfliktų valdymui užtikrinti.
 
@@ -2426,7 +2446,11 @@ Prekyba kolektyvinio investavimo subjekto investiciniais vienetais ar akcijomis 
 
 1. Informacija apie tai, kad kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos yra įtraukti į prekybą reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje, turi būti nurodyta kolektyvinio investavimo subjekto steigimo dokumentuose ir prospekte, nurodant atitinkamos reguliuojamos rinkos ir (arba) daugiašalės prekybos sistemos pavadinimą.
 
-2. Suderintojo kolektyvinio investavimo subjekto ir specialiojo atvirojo tipo kolektyvinio investavimo subjekto, kurio investicinius vienetus ar akcijas ketinama įtraukti į prekybą reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje, pagal šį įstatymą parengtas prospektas ir vėlesni jo pakeitimai turi būti paskelbti Vertybinių popierių įstatymo 9 straipsnio 1, 2 ir 3 dalyse nustatyta tvarka. Priežiūros institucija turi teisę nustatyti šioje dalyje nurodytos pareigos papildomai skelbti prospektą išimtis.
+2. Suderintojo kolektyvinio investavimo subjekto ir specialiojo atvirojo tipo kolektyvinio investavimo subjekto, kurio investicinius vienetus ar akcijas ketinama įtraukti į prekybą reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje, pagal šį įstatymą parengtas prospektas ir vėlesni jo pakeitimai turi būti paskelbti Reglamento (ES) 2017/1129 21 straipsnio 1–4 dalyse nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 3. Valdymo įmonė reguliuojamos rinkos ir (arba) daugiašalės prekybos sistemos operatoriui privalo pranešti:
 
@@ -2798,6 +2822,14 @@ Nr. XIII-1872, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21887
 
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 pakeitimo įstatymas
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
+
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2, 28, 34, 55, 130, 153, 157, 159, 171 ir 173 straipsnių pakeitimo įstatymas
+
 175 straipsnis. Nuostatos, susijusios su naryste Europos Sąjungoje
 
 1. Priežiūros institucija Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai turi pranešti:
@@ -3166,7 +3198,11 @@ Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2,
 
 63. Vertybinių popierių atsiskaitymo sistema – kaip tai apibrėžta Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme.
 
-64. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Finansinių priemonių rinkų įstatyme, Akcinių bendrovių įstatyme ir Vertybinių popierių įstatyme.
+64. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Finansinių priemonių rinkų įstatyme, Akcinių bendrovių įstatyme, Vertybinių popierių įstatyme ir 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12) (toliau – Reglamentas (ES) 2017/1129).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 II SKYRIUS
 
@@ -3470,7 +3506,11 @@ UŽDAROJO TIPO KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 
 12. Didinant įstatinį kapitalą papildomais įnašais, išleidžiamas akcijas įsigyti gali tik esami uždarojo tipo investicinės bendrovės akcininkai proporcingai savo turimų akcijų skaičiui. Akcijos gali būti siūlomos ne bendrovės akcininkams tik tuo atveju, jeigu esami bendrovės akcininkai per uždarojo tipo investicinės bendrovės įstatuose nustatytą laikotarpį, kuris negali būti trumpesnis kaip 10 dienų ir ilgesnis kaip 30 kalendorinių dienų, nepasirašo visų numatytų išleisti bendrovės akcijų. Naujos akcijų emisijos akcijos privalo būti apmokamos pinigais per akcijų pasirašymo sutartyje nustatytą laiką, kuris negali būti ilgesnis kaip 30 darbo dienų.
 
-13. Uždarojo tipo investicinės bendrovės akcijų emisijos prospektas privalo būti parengtas laikantis priežiūros institucijos nustatytų reikalavimų.
+13. Neteko galios 2019-07-21.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 14. Tais atvejais, kai taikoma šio straipsnio 4 dalis ir uždarojo tipo investicinės bendrovės visuotinis akcininkų susirinkimas priima sprendimą dėl įstatinio kapitalo sumažinimo, dėl kurio įstatinis kapitalas netampa mažesnis nei įstatuose nurodytas įstatinio kapitalo dydis, Akcinių bendrovių įstatymo 52 straipsnio 11 dalis netaikoma. Uždarojo tipo investicinės bendrovės įstatinis kapitalas laikomas sumažintu uždarojo tipo investicinei bendrovei tinkamai įvykdžius Akcinių bendrovių įstatymo 53 straipsnyje nustatytas pareigas dėl akcininkų ir kreditorių informavimo bei uždarojo tipo investicinės bendrovės prievolių vykdymo užtikrinimo ir išsprendus ginčus dėl prievolių įvykdymo papildomo užtikrinimo, jeigu tokių buvo, ir valdymo įmonei arba uždarojo tipo investicinės bendrovės-valdytojos valdybai paskelbus apie sumažintą uždarojo tipo investicinės bendrovės įstatinį kapitalą valdymo įmonės ir (arba) uždarojo tipo investicinės bendrovės interneto svetainėje. Akcinių bendrovių įstatymo 52 straipsnio 9 dalis ir 53 straipsnio 6, 7 ir 8 dalys taikomos mutatis mutandis, įstatų pateikimą ir įregistravimą Juridinių asmenų registre pakeičiant informacijos apie sumažintą uždarojo tipo investicinės bendrovės įstatinį kapitalą paskelbimu uždarojo tipo investicinės bendrovės ir (arba) valdymo įmonės interneto svetainėje.
 
@@ -3498,7 +3538,11 @@ INVESTICINIŲ VIENETŲ AR AKCIJŲ ĮTRAUKIMAS Į PREKYBĄ LIETUVOS RESPUBLIKOJE 
 
 1. Remiantis šiuo įstatymu įsteigto kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos gali būti įtraukiami į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje, laikantis šiame įstatyme ir Finansinių priemonių rinkų įstatyme nustatytų taisyklių, reglamentuojančių finansinių priemonių įtraukimą į prekybą reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje, reikalavimų.
 
-2. Uždarojo tipo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų įtraukimui į prekybą reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje taikomos Vertybinių popierių įstatymo nuostatos.
+2. Uždarojo tipo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų įtraukimui į prekybą reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje taikomos Vertybinių popierių įstatymo ir Reglamento (ES) 2017/1129 nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 3. Valdymo įmonės valdymo organo ar investicinės bendrovės visuotinio akcininkų susirinkimo sprendimas įtraukti investicinės bendrovės akcijas ar investicinio fondo investicinius vienetus į prekybą reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje taikomas visiems (ir po įtraukimo į prekybą reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje išleistiems) kolektyvinio investavimo subjekto investiciniams vienetams ar akcijoms.
 
@@ -3570,7 +3614,11 @@ TAR pastaba. 171 straipsnio 1 dalies 8 punktas įsigalioja 2020 m. sausio 1 d.
 
 9) valdymo įmonė pažeidžia Reglamente (ES) Nr. 2017/1131 nustatytus reikalavimus;
 
-10) valdymo įmonės ir investicinės bendrovės-valdytojos vadovais, investicinius sprendimus priimančiais asmenimis išrenkami arba vadovų, investicinius sprendimus priimančių asmenų pareigas eina vienas ar keli asmenys, neatitinkantys šio įstatymo 9 straipsnio 4 dalyje nustatytų reputacijos, kvalifikacijos ir darbo patirties reikalavimų;
+10) valdymo įmonės arba investicinės bendrovės vadovais, investicinius sprendimus priimančiais asmenimis išrenkami arba vadovų, investicinius sprendimus priimančių asmenų pareigas eina vienas ar keli asmenys, neatitinkantys šio įstatymo 9 straipsnio 4 dalyje nustatytų reputacijos, kvalifikacijos ir darbo patirties reikalavimų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 11) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus;
 
@@ -3586,7 +3634,17 @@ TAR pastaba. 171 straipsnio 1 dalies 8 punktas įsigalioja 2020 m. sausio 1 d.
 
 17) valdymo įmonė ar investicinė bendrovė nesugeba įvykdyti įsipareigojimų arba yra duomenų, kad nesugebės to padaryti ateityje;
 
-18) padaryti kiti šio įstatymo ir kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimai.
+18) valdymo įmonė pažeidžia Vertybinių popierių įstatyme ir (arba) Reglamente (ES) 2017/1129 nustatytus prospekto rengimo, tvirtinimo ir skelbimo reikalavimus (išskyrus Vertybinių popierių įstatyme ir Reglamente (ES) 2017/1129 nustatytas prospektų skelbimo išimtis), taikomus jos valdomam kolektyvinio investavimo subjektui;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
+
+19) padaryti kiti šio įstatymo ir kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimai.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
 
@@ -3596,9 +3654,13 @@ TAR pastaba. 171 straipsnio 1 dalies 8 punktas įsigalioja 2020 m. sausio 1 d.
 
 1. Priežiūros institucija skiria baudas:
 
-1) juridiniams asmenims – iki 5 000 000 eurų arba 10 procentų bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė;
+1) juridiniams asmenims, kai netaikoma šio straipsnio 6 dalis, – iki 5 000 000 eurų arba 10 procentų bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė;
 
-2) juridinio asmens vadovams ir kitiems fiziniams asmenims – iki 5 000 000 eurų.
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims, kai netaikoma šio straipsnio 6 dalis, – iki 5 000 000 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 2. Už Reglamento (EB) Nr. 1286/2014 pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta Reglamento (ES) Nr. 1286/2014 24 straipsnyje.
 
@@ -3608,7 +3670,17 @@ TAR pastaba. 171 straipsnio 1 dalies 8 punktas įsigalioja 2020 m. sausio 1 d.
 
 5. Šio įstatymo 171 straipsnio 1 dalies 5 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki 1 procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų.
 
-6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
+6. Už Vertybinių popierių įstatymo ir Reglamento (ES) 2017/1129 pažeidimus asmenims taikomos Vertybinių popierių įstatyme nustatytos baudos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
+
+7. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 XI SKYRIUS
 
