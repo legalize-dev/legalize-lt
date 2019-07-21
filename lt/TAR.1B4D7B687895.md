@@ -4,7 +4,7 @@ identifier: "TAR.1B4D7B687895"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-01"
-last_updated: "2019-02-01"
+last_updated: "2019-07-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Neoficialus ?statymo tekstas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-07-20
+Suvestinė redakcija nuo 2019-07-21 iki 2020-01-09
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
 
@@ -1682,11 +1682,21 @@ Lietuvos banko įstatymo
 
 13. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014, L 352, p. 1).
 
-14. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų (OL 2017 L 169, p. 8).
+14. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12).
+
+Papildyta punktu:
+
+Nr. XIII-2364, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11986
+
+15. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų (OL 2017 L 169, p. 8).
 
 Papildyta punktu:
 
 Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-2364, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11986
 
 Priedo pakeitimai:
 
@@ -2104,6 +2114,14 @@ Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio, 1 ir 3 priedų pakeitimo įstatymas
 
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2364, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11986
+
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43-7 straipsnio ir 3 priedo pakeitimo įstatymas
+
 211 straipsnis. Finansų rinkos priežiūros ir finansų sektoriaus subjektų pertvarkymo institucijos veiklos finansavimas
 
 1. Finansų rinkos priežiūra finansuojama iš finansų rinkos dalyvių įmokų ir kitomis Lietuvos banko lėšomis. Finansų sektoriaus subjektų pertvarkymo institucijos veikla finansuojama iš finansų rinkos dalyvių įmokų.
@@ -2340,7 +2358,7 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 437 straipsnis. Pranešimas apie pažeidimus
 
-Lietuvos Respublikos pranešėjų apsaugos įstatymas ir Lietuvos bankas nustato priemones, kurios skatintų pranešti apie finansų rinką reglamentuojančių teisės aktų, įskaitant Reglamentą (ES) Nr. 575/2013, Reglamentą (ES) Nr. 600/2014, Reglamentą (ES) Nr. 909/2014, Reglamentą (ES) Nr. 596/2014, Reglamentą (ES) Nr. 1286/2014 ar jų įgyvendinamuosius teisės aktus, nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus:
+Lietuvos Respublikos pranešėjų apsaugos įstatymas ir Lietuvos bankas nustato priemones, kurios skatintų pranešti apie finansų rinką reglamentuojančių teisės aktų, įskaitant Reglamentą (ES) Nr. 575/2013, Reglamentą (ES) Nr. 600/2014, Reglamentą (ES) Nr. 909/2014, Reglamentą (ES) Nr. 596/2014, Reglamentą (ES) Nr. 1286/2014, Reglamentą (ES) 2017/1129 ar jų įgyvendinamuosius teisės aktus, nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus:
 
 1) numatytos specialios pranešimo apie minėtus pažeidimus gavimo ir vertinimo procedūros;
 
@@ -2350,9 +2368,9 @@ Lietuvos Respublikos pranešėjų apsaugos įstatymas ir Lietuvos bankas nustato
 
 4) užtikrinama tinkama finansų rinkos dalyvio darbuotojų, kurie praneša apie pažeidimus, apsauga nuo keršto, diskriminacijos ar kito neteisėto ar nesąžiningo elgesio.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
+Nr. XIII-2364, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11986
 
 475 straipsnis. Lietuvos banko teisės ir pareigos atliekant grynųjų pinigų tvarkymo veiklos priežiūrą
 
