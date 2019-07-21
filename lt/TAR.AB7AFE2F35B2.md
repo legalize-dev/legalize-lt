@@ -4,7 +4,7 @@ identifier: "TAR.AB7AFE2F35B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2019-07-06"
+last_updated: "2019-07-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2019-07-06 iki 2019-07-20
+Suvestinė redakcija nuo 2019-07-21 iki 2020-05-29
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
 
@@ -200,7 +200,11 @@ c) šie asmenys ne rečiau kaip kartą per metus praneša priežiūros instituci
 
 19. Finansų maklerio įmonės filialas – su įmonės buveinės vieta nesutampantis ir juridinio asmens teisių neturintis finansų maklerio įmonės padalinys, kuris teikia tik tas investicines paslaugas ir (arba) vykdo investicinę veiklą ir gali teikti tik tas papildomas paslaugas, kurias leidžiama teikti pagal finansų maklerio įmonės licenciją. Visos veiklos vietos, kurias finansų maklerio įmonė įsteigė toje pačioje priimančiojoje valstybėje narėje, yra laikomos vienu filialu.
 
-20. Finansų maklerio įmonės kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis – tiesiogiai arba netiesiogiai valdoma finansų maklerio įmonės įstatinio kapitalo ar balsavimo teisių dalis, kuri sudaro ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžia daryti esminį poveikį finansų maklerio įmonės valdymui ir kuriai apskaičiuoti naudojama Lietuvos Respublikos vertybinių popierių įstatymo 23 ir 24 straipsniuose nurodyta informacija ir taikoma 26 straipsnyje nustatyta balsų skaičiavimo tvarka.
+20. Finansų maklerio įmonės kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis – tiesiogiai arba netiesiogiai valdoma finansų maklerio įmonės įstatinio kapitalo ar balsavimo teisių dalis, kuri sudaro ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžia daryti esminį poveikį finansų maklerio įmonės valdymui ir kuriai apskaičiuoti naudojama Lietuvos Respublikos vertybinių popierių įstatymo 13 ir 14 straipsniuose nurodyta informacija ir taikoma Vertybinių popierių įstatymo 16 straipsnyje nustatyta balsų skaičiavimo tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 21. Finansų maklerio įmonės priklausomas tarpininkas (toliau – priklausomas tarpininkas) – fizinis ar juridinis asmuo, kuris, veikdamas išimtinai vienos finansų maklerio įmonės vardu ir šiai finansų maklerio įmonei esant visapusiškai ir besąlygiškai atsakingai už jos priklausomo tarpininko veiksmus, siūlo klientams ar potencialiems klientams investicines ir (arba) papildomas paslaugas, priima ir perduoda klientų nurodymus ar pavedimus dėl investicinių paslaugų ar finansinių priemonių, platina finansines priemones arba teikia investavimo rekomendacijas klientams arba potencialiems klientams dėl finansinių priemonių ar investicinių ir (arba) papildomų paslaugų. Kitose valstybėse narėse įsteigtos finansų maklerio įmonės tarpininkas gali neturėti juridinio asmens statuso.
 
@@ -440,7 +444,11 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 83. Vietos įmonė – kaip tai apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 4 punkte.
 
-84. Vyresnioji vadovybė – asmuo arba asmenys, kurie veiksmingai vadovauja rinkos operatoriaus arba finansų maklerio įmonės veiklai ir yra atsakingi ir atskaitingi rinkos operatoriaus arba finansų maklerio įmonės valdymo organui už kasdienį valdymą, įskaitant reikalavimų, taikomų rinkos operatoriui arba finansų maklerio įmonei ir jų darbuotojams vykdant produktų ir paslaugų platinimą klientams, įgyvendinimą.
+84. Vyresnioji vadovybė – asmuo arba asmenys, kurie vadovauja rinkos operatoriaus, informacijos apie sandorius paslaugų teikėjo arba finansų maklerio įmonės veiklai ir yra atsakingi ir atskaitingi rinkos operatoriaus, informacijos apie sandorius paslaugų teikėjo arba finansų maklerio įmonės valdymo organui už kasdienį valdymą, įskaitant reikalavimų, taikomų rinkos operatoriui, informacijos apie sandorius paslaugų teikėjui arba finansų maklerio įmonei ir jų darbuotojams vykdant produktų ir paslaugų platinimą klientams, įgyvendinimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 85. Žemės ūkio biržos prekių išvestinės finansinės priemonės – išvestinių finansinių priemonių sandoriai, susiję su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007 (OL 2013 L 347, p. 671) (toliau – Reglamentas (ES) Nr. 1308/2013), 1 straipsnyje ir I priedo I–XX dalyse bei XXIV/1 dalyje išvardytais produktais.
 
@@ -796,7 +804,11 @@ Priežiūros institucija, detalizuodama šio skirsnio nuostatas:
 
 35 straipsnis. Pranešimas apie pažeidimus finansų maklerio įmonėje ir centriniame depozitoriume
 
-Finansų maklerio įmonė ir centrinis depozitoriumas turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu finansų maklerio įmonės ir centrinio depozitoriumo vadovams ar kitiems įgaliotiems asmenims pranešti apie padarytą ar galimą šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 596/2014, Reglamento (ES) Nr. 600/2014 ar Reglamento (ES) Nr. 909/2014 nuostatų pažeidimą. Šiam reikalavimui įgyvendinti finansų maklerio įmonė ir centrinis depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 1 dalyje nustatyti reikalavimai.
+Finansų maklerio įmonė ir centrinis depozitoriumas turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu finansų maklerio įmonės ir centrinio depozitoriumo vadovams ar kitiems įgaliotiems asmenims pranešti apie padarytą ar galimą šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 596/2014, Reglamento (ES) Nr. 600/2014, Reglamento (ES) Nr. 909/2014 ar Reglamento (ES) 2017/1129 nuostatų pažeidimą. Šiam reikalavimui įgyvendinti finansų maklerio įmonė ir centrinis depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 1 dalyje nustatyti reikalavimai.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 36 straipsnis. Finansų maklerio įmonės pareigos skiriant priklausomus tarpininkus
 
@@ -986,7 +998,13 @@ REGULIUOJAMOS RINKOS LICENCIJAVIMAS
 
 4) įstatus;
 
-5) reguliuojamos rinkos taisykles.
+5) reguliuojamos rinkos taisykles;
+
+6) informaciją ir dokumentus, kuriais patvirtinama, kad laikomasi šio įstatymo 621 straipsnyje nustatytų pradinio kapitalo reikalavimų.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 4. Priežiūros institucija, gavusi visus reikiamus dokumentus, per 3 mėnesius privalo išduoti licenciją arba raštu pateikti motyvuotą atsisakymą. Priežiūros institucija gali pareikalauti, kad akcinė bendrovė pateiktų papildomą informaciją ar paaiškintų jau pateiktus duomenis. Šiuo atveju prašymo nagrinėjimo terminas skaičiuojamas nuo paskutinių dokumentų ar duomenų pateikimo.
 
@@ -1046,15 +1064,49 @@ Priežiūros institucija atsisako išduoti reguliuojamos rinkos licenciją, jeig
 
 58 straipsnis. Rinkos operatoriaus vadovai
 
-1. Rinkos operatoriaus vadovai turi būti nepriekaištingos reputacijos ir turėti pakankamą kvalifikaciją ir patirties, leidžiančios tinkamai eiti pareigas. Rinkos operatorius privalo suteikti priežiūros institucijai informaciją apie rinkos operatoriaus vadovus, taip pat pranešti apie vėlesnius pateiktos informacijos pasikeitimus, taip pat pateikti visą informaciją, reikalingą vertinant, ar rinkos operatorius atitinka šiame straipsnyje ir šio įstatymo 59 straipsnyje nustatytus reikalavimus.
+1. Rinkos operatoriaus vadovai turi būti nepriekaištingos reputacijos ir turėti pakankamą kvalifikaciją ir patirties, leidžiančios tinkamai eiti pareigas ir suprasti rinkos operatoriaus veiklą, įskaitant rizikas, su kuriomis rinkos operatorius susiduria ir gali susidurti. Rinkos operatorių vadovų kvalifikacija ir darbo patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir darbo patirčiai. Rinkos operatorius privalo suteikti priežiūros institucijai informaciją apie rinkos operatoriaus vadovus, taip pat pranešti apie vėlesnius pateiktos informacijos pasikeitimus, taip pat pateikti visą informaciją, reikalingą vertinant, ar rinkos operatorius atitinka šiame straipsnyje ir šio įstatymo 59 straipsnyje nustatytus reikalavimus.
 
 2. Rinkos operatorius turi pateikti priežiūros institucijai informaciją apie rinkos operatoriaus vadovų kandidatūras. Priežiūros institucija turi teisę prieštarauti rinkos operatoriaus vadovų kandidatūroms, jeigu yra pagrindas manyti, kad siūlomos vadovų kandidatūros kelia grėsmę skaidriam ir patikimam reguliuojamos rinkos valdymui ir veiklai.
 
-3. Priežiūros institucija nustato reikalavimus rinkos operatoriaus vadovams ir vidaus valdymo reikalavimus.
+3. Rinkos operatoriaus vadovai privalo:
+
+1) skirti pakankamai laiko savo funkcijoms atlikti. Pareigų, kurias vienu metu gali vykdyti rinkos operatoriaus vadovas, skaičius nustatomas atsižvelgiant į konkrečias aplinkybes ir rinkos operatoriaus veiklos pobūdį, mastą bei sudėtingumą;
+
+2) veikti sąžiningai, dorai ir savarankiškai, kad prireikus galėtų veiksmingai įvertinti ir užginčyti vyresniosios vadovybės sprendimus, veiksmingai prižiūrėti ir stebėti, kaip priimami sprendimai.
+
+4. Rinkos operatoriaus vadovai nustato valdymo priemones, kuriomis būtų užtikrinamas veiksmingas ir rizikos ribojimu pagrįstas rinkos operatoriaus valdymas, įskaitant pareigų atskyrimą ir interesų konfliktų prevenciją, ir prižiūri, ar jos įgyvendinamos taip, kad būtų skatinamas patikimas, saugus ir sąžiningas rinkos veikimas.
+
+5. Rinkos operatoriaus vadovai atlieka rinkos operatoriaus valdymo priemonių veiksmingumo stebėseną ir jas periodiškai vertina, taip pat imasi tinkamų priemonių trūkumams pašalinti.
+
+6. Rinkos operatorius užtikrina, kad reikalingai rinkos operatoriaus vadovų kompetencijai pasiekti būtų užtikrinamas rinkos operatoriaus vadovų mokymo procesas, skiriama pakankamai žmogiškųjų ir finansinių išteklių rinkos operatoriaus vadovų pradiniam ir vėlesniam mokymui.
+
+7. Rinkos operatorius užtikrina, kad rinkos operatoriaus vadovams būtų suteikiama tinkama prieiga prie informacijos ir galimybė susipažinti su dokumentais, kurių reikia prižiūrint ir stebint, kaip priimami valdymo sprendimai.
+
+8. Rinkos operatorių, pripažintų svarbiais pagal šio įstatymo 59 straipsnio 5 dalį, vadovai vienu metu gali turėti ne daugiau kaip vieną šių pareigų derinį:
+
+1) vieno valdybos nario ir dviejų stebėtojų tarybos narių pareigas;
+
+2) keturių stebėtojų tarybos narių pareigas.
+
+9. Valdybos arba stebėtojų tarybos nario pareigos, einamos toje pačioje įmonių grupėje arba įmonėse, kuriose rinkos operatoriui priklauso kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis, laikomos vienomis pareigomis.
+
+10. Priežiūros institucija rinkos operatoriaus vadovo motyvuotu prašymu gali leisti jam papildomai eiti vienas stebėtojų tarybos nario pareigas, jeigu rinkos operatorius priežiūros institucijai įrodo, kad vadovai užtikrins tinkamą šio straipsnio 3 dalyje nurodytų pareigų atlikimą ir tai nesukels interesų konflikto. Priežiūros institucija apie tokių leidimų išdavimą nedelsdama informuoja Europos vertybinių popierių ir rinkų instituciją.
+
+11. Valdybos arba stebėtojų tarybos nario pareigos pelno nesiekiančiuose apmokestinamuosiuose vienetuose, kaip jie apibrėžti Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio 5 dalyje, arba kai atstovaujama valstybei, nelaikomos pareigomis šio straipsnio 8 dalyje nurodytais tikslais.
+
+12. Rinkos operatoriaus organai ir Skyrimo komitetas, atrinkdami kandidatus į rinkos operatoriaus vadovus, privalo atsižvelgti į įvairias asmens savybes ir gebėjimus, taip įgyvendindami rinkos operatoriaus valdymo organų narių įvairovės skatinimo politiką. Atrinkdami kandidatus į rinkos operatoriaus vadovus, rinkos operatoriaus organai ir Skyrimo komitetas vadovaujasi Europos vertybinių popierių ir rinkų institucijos rekomendacijomis, kuriomis remiantis nustatomi rinkos operatorių ar duomenų teikimo paslaugų teikėjų valdymo organų nariams taikytini reikalavimai.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 59 straipsnis. Skyrimo komitetas
 
-1. Rinkos operatoriai, kurie yra svarbūs dėl savo dydžio, vidaus organizacinės struktūros ir veiklos aprėpties bei sudėtingumo, turi įsteigti Skyrimo komitetą, kuris teikia rekomendacijas dėl rinkos operatoriaus valdymo struktūros ir vadovų skyrimo.
+1. Rinkos operatoriai, kurie yra svarbūs dėl savo dydžio, vidaus organizacinės struktūros ir veiklos aprėpties bei sudėtingumo, turi įsteigti Skyrimo komitetą. Skyrimo komiteto nariais gali būti tik rinkos operatoriaus stebėtojų tarybos nariai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 2. Skyrimo komitetas atlieka šias funkcijas:
 
@@ -1070,7 +1122,11 @@ Priežiūros institucija atsisako išduoti reguliuojamos rinkos licenciją, jeig
 
 4. Vykdydamas savo pareigas, Skyrimo komitetas gali naudoti visus prieinamus išteklius, kuriuos jis laiko tinkamais, įskaitant galimybę pasitelkti išorės konsultantus.
 
-5. Priežiūros institucija detalizuoja šio straipsnio 1 dalyje nurodytus būtinumo įsteigti Skyrimo komitetą kriterijus.
+5. Rinkos operatoriai pripažįstami svarbiais dėl savo dydžio, vidaus organizacinės struktūros ir veiklos aprėpties bei sudėtingumo priežiūros institucijos sprendimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 60 straipsnis. Reikalavimai asmenims, darantiems didelę įtaką reguliuojamos rinkos valdymui
 
@@ -1098,13 +1154,15 @@ Priežiūros institucija atsisako išduoti reguliuojamos rinkos licenciją, jeig
 
 5) taikyti veiksmingas priemones arba būti sudaręs reikiamus susitarimus, kurie palengvintų veiksmingą ir laiku atliekamą sandorių įvykdymą;
 
-6) turėti nuolat pakankamus finansinius išteklius, užtikrinančius tinkamą reguliuojamos rinkos veikimą, atsižvelgiant į šioje reguliuojamoje rinkoje sudaromų sandorių pobūdį ir apimtį, taip pat rizikos, kuri būdinga reguliuojamos rinkos veiklai, pobūdį ir laipsnį.
+6) turėti nuolat pakankamus finansinius išteklius, užtikrinančius tinkamą reguliuojamos rinkos veikimą, atsižvelgiant į šioje reguliuojamoje rinkoje sudaromų sandorių pobūdį ir apimtį, taip pat rizikos, kuri būdinga reguliuojamos rinkos veiklai, pobūdį ir laipsnį;
+
+7) turėti priemonių ir procedūrų, kurios užtikrintų, kad nuosavos lėšos būtų investuojamos laikantis saugumo, likvidumo ir diversifikavimo principų.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 2. Rinkos operatorius neturi teisės vykdyti klientų pavedimų sudarydamas sandorius nuosavomis lėšomis, taip pat neturi teisės dalyvauti tarpininko suderintuose sandoriuose toje reguliuojamoje rinkoje, kurios operatorius jis yra.
-
-ANTRASIS SKIRSNIS
-
-PREKYBA REGULIUOJAMOJE RINKOJE. SKAIDRUMO REIKALAVIMAI
 
 65 straipsnis. Prekybos finansinėmis priemonėmis sustabdymas ir nutraukimas reguliuojamoje rinkoje
 
@@ -2212,7 +2270,11 @@ XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
 
 82 straipsnis. Informacijos apie sandorius paslaugų teikėjo vadovai
 
-1. Informacijos apie sandorius paslaugų teikėjo vadovai turi būti nepriekaištingos reputacijos ir turėti pakankamą kvalifikaciją ir patirties, leidžiančios tinkamai eiti pareigas, kaip numatyta Reglamente (ES) 2017/571.
+1. Informacijos apie sandorius paslaugų teikėjo vadovai turi būti nepriekaištingos reputacijos ir turėti pakankamą kvalifikaciją ir patirties, leidžiančios tinkamai eiti pareigas, kaip numatyta Reglamente (ES) 2017/571, ir turėti pakankamai žinių, įgūdžių ir patirties, kad gebėtų suprasti informacijos apie sandorius paslaugų teikėjo veiklą, įskaitant riziką, su kuria jis susiduria arba gali susidurti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 2. Informacijos apie sandorius paslaugų teikėjo vadovai privalo patvirtinti ir įgyvendinti tinkamas priemones ir procedūras, skirtas užtikrinti patikimam ir skaidriam informacijos apie sandorius paslaugų teikėjo valdymui, vadovų pareigų atskyrimui ir interesų konfliktų valdymui, kad būtų užtikrintas rinkos vientisumas ir klientų interesų apsauga.
 
@@ -2222,7 +2284,15 @@ XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
 
 5. Jeigu rinkos operatorius siekia gauti leidimą teikti informacijos apie sandorius paslaugas administruodamas patvirtintą informacijos apie sandorius skelbimo subjektą, konsoliduotos informacijos apie sandorius skelbimo subjektą arba patvirtintą pranešimų apie sandorius teikimo subjektą ir šiems subjektams vadovauja tie patys asmenys kaip ir rinkos operatoriui, laikoma, kad šie asmenys atitinka šio straipsnio 1 dalyje nustatytus reikalavimus.
 
-6. Priežiūros institucija detalizuoja reikalavimus informacijos apie sandorius paslaugų teikėjo vadovams ir vidaus valdymo reikalavimus.
+6. Informacijos apie sandorius paslaugų teikėjo vadovai privalo:
+
+1) skirti pakankamai laiko savo funkcijoms atlikti. Pareigų, kurias vienu metu gali vykdyti informacijos apie sandorius paslaugų teikėjo vadovas, skaičius nustatomas atsižvelgiant į konkrečias aplinkybes ir informacijos apie sandorius paslaugų teikėjo veiklos pobūdį, mastą bei sudėtingumą;
+
+2) veikti sąžiningai, dorai ir savarankiškai, kad prireikus galėtų veiksmingai įvertinti ir užginčyti vyresniosios vadovybės sprendimus, veiksmingai prižiūrėti ir stebėti, kaip priimami sprendimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 ANTRASIS SKIRSNIS
 
@@ -2588,7 +2658,11 @@ FINANSŲ MAKLERIO ĮMONĖS LICENCIJA
 
 2) nustatyti atitinkami kriterijai, kuriais remiantis suteikiamas leidimas pirminiam ir paskesniam emitentų finansinių priemonių įtraukimui į prekybą šioje rinkoje;
 
-3) vykdant pirminį finansinių priemonių įtraukimą į prekybą rinkoje, apie šias finansines priemones paskelbiama pakankamai informacijos, kad investuotojai galėtų priimti pagrįstą investicinį sprendimą dėl investavimo į finansines priemones, – turi būti skelbiamas atitinkamas leidimo prekiauti dokumentas arba prospektas, jeigu taikomi Vertybinių popierių įstatymo nustatyti reikalavimai, keliami viešajam siūlymui, kai finansinė priemonė pirmą kartą įtraukiama į prekybą daugiašalėje prekybos sistemoje;
+3) vykdant pirminį finansinių priemonių įtraukimą į prekybą rinkoje, apie šias finansines priemones paskelbiama pakankamai informacijos, kad investuotojai galėtų priimti pagrįstą investicinį sprendimą dėl investavimo į finansines priemones, – turi būti skelbiamas atitinkamas leidimo prekiauti dokumentas arba prospektas, jeigu taikomi Vertybinių popierių įstatymo ir (arba) Reglamento (ES) 2017/1129 nustatyti reikalavimai, keliami viešajam siūlymui, kai finansinė priemonė pirmą kartą įtraukiama į prekybą daugiašalėje prekybos sistemoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 4) emitentas periodiškai pats atskleidžia arba jo vardu tinkamai periodiškai atskleidžiama informacija, tokia kaip rengiamos audituotos metinės ataskaitos ir kita šio įstatymo numatyta viešai skelbti informacija;
 
@@ -2856,9 +2930,17 @@ TREČIŲJŲ VALSTYBIŲ ĮMONIŲ VEIKLA LIETUVOS RESPUBLIKOJE
 
 3. Bendrovių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, valdymo kodeksą rengia ir tvirtina rinkos operatorius. Prieš tvirtindamas tokį kodeksą, rinkos operatorius turi gauti priežiūros institucijos pritarimą.
 
-4. Priežiūros institucija nustato rinkos operatorių kapitalo reikalavimus ir lėšų investavimo tvarką. Rinkos operatorius privalo pateikti priežiūros institucijai jos nustatyta tvarka kapitalo pakankamumo skaičiavimo ataskaitą, finansines ataskaitas ir kitus priežiūros institucijos nustatytus dokumentus.
+4. Rinkos operatorius privalo nedelsdamas, bet ne vėliau kaip per 2 darbo dienas, informuoti priežiūros instituciją ir ne vėliau kaip per 5 darbo dienas nuo informavimo dienos pateikti jai veiksmų ir priemonių padėčiai ištaisyti planą, kai rinkos operatoriaus pradinis kapitalas tampa mažesnis už šiame įstatyme nustatytą minimalų dydį ir (ar) rinkos operatoriaus nuosavos lėšos tampa mažesnės už šiame įstatyme nustatytą minimalų dydį.
 
-5. Rinkos operatorius turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jo darbuotojams specialiu, nepriklausomu ir autonomišku kanalu rinkos operatoriaus vadovams arba kitiems įgaliotiems asmenims pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 600/2014 ar jų pagrindu priimtų teisės aktų nuostatų pažeidimą. Šiam reikalavimui įgyvendinti rinkos operatorius gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos banko įstatymo 437 straipsnio 1 dalyje nustatyti reikalavimai.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
+
+5. Rinkos operatorius turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jo darbuotojams specialiu, nepriklausomu ir autonomišku kanalu rinkos operatoriaus vadovams arba kitiems įgaliotiems asmenims pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 600/2014, Reglamento (ES) 2017/1129 ar jų pagrindu priimtų teisės aktų nuostatų pažeidimą. Šiam reikalavimui įgyvendinti rinkos operatorius gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos banko įstatymo 437 straipsnio 1 dalyje nustatyti reikalavimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 6. Priežiūros institucija prižiūri, kaip rinkos operatorius laikosi reguliuojamos rinkos licencijos gavimo reikalavimų ir kitų rinkos operatoriaus veiklai keliamų reikalavimų.
 
@@ -3444,7 +3526,11 @@ ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
 
 1) viešai paskelbia apie šio įstatymo ir kitų šio įstatymo įgyvendinamųjų teisės aktų pažeidimą ir jį padariusį asmenį;
 
-2) įspėja dėl veiklos trūkumų bei pažeidimų ir nustatyto jų pašalinimo terminus;
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti pažeidimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 3) skiria šio įstatymo nustatytas pinigines baudas;
 
@@ -3622,6 +3708,12 @@ Papildyta punktu:
 
 Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
+16. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12).
+
+Papildyta punktu:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
+
 Priedo pakeitimai:
 
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
@@ -3786,6 +3878,14 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 88, 89, 90, 93, 102 straipsnių, penktojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 41-1, 41-2, 41-3, 41-4, 89-1 straipsniais įstatymas
 
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
+
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, 25, 35, 53, 56, 58, 59, 62, 82, 111 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 62-1 straipsniu įstatymas
+
 411 straipsnis. Dalyvavimo politika
 
 1. Instituciniai investuotojai ir turto valdytojai privalo laikytis šioje dalyje nustatytų reikalavimų arba viešai paskelbti aiškų ir pagrįstą paaiškinimą, kodėl jie pasirinko nesilaikyti bent vieno iš šių reikalavimų:
@@ -3883,4 +3983,28 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 ŠEŠTASIS SKIRSNIS
 
 FINANSŲ MAKLERIO ĮMONIŲ TEISĖS
+
+621 straipsnis. Rinkos operatoriui taikomi pradinio kapitalo ir nuosavų lėšų reikalavimai
+
+1. Rinkos operatoriaus pradinį kapitalą sudaro vieno ar daugiau Reglamento (ES) Nr. 575/2013 26 straipsnio 1 dalies a–e punktuose nustatytų nuosavų lėšų dalių suma.
+
+2. Rinkos operatoriaus pradinis kapitalas turi būti ne mažesnis kaip 730 tūkstančių eurų.
+
+3. Rinkos operatoriaus nuosavos lėšos turi būti ne mažesnės už didesnį iš šių dydžių:
+
+1) šio straipsnio 2 dalyje nurodytą pradinį kapitalą;
+
+2) vieną ketvirtadalį reguliuojamos rinkos operatoriaus praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos Reglamento (ES) 575/2013 97 straipsnyje ir 2014 m. rugsėjo 4 d. Komisijos deleguotojo reglamento (ES) 2015/488, kuriuo iš dalies keičiamos Deleguotojo reglamento (ES) Nr. 241/2014 nuostatos dėl įmonių nuosavų lėšų, nustatomų pagal pastoviąsias pridėtines išlaidas, reikalavimų (OL 2015 L 78, p. 1), nustatyta tvarka.
+
+4. Nuosavų lėšų sudedamosios dalys nustatomos Reglamento (ES) Nr. 575/2013 antrojoje dalyje.
+
+5. Skaičiuojant rinkos operatoriaus nuosavų lėšų dydį šio straipsnio 3 dalies 2 punkte nurodytais tikslais, nuosavas lėšas sudarantis 2 lygio kapitalas negali būti didesnis negu trečdalis 1 lygio kapitalo.
+
+Papildyta straipsniu:
+
+Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
+
+ANTRASIS SKIRSNIS
+
+PREKYBA REGULIUOJAMOJE RINKOJE. SKAIDRUMO REIKALAVIMAI
 
