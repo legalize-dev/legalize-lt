@@ -4,7 +4,7 @@ identifier: "TAR.ED38F243563C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2019-07-01"
+last_updated: "2019-07-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-23
+Suvestinė redakcija nuo 2019-07-24 iki 2020-11-13
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
 
@@ -1195,7 +1195,11 @@ Teisę gauti Respublikos Prezidento sutuoktinio valstybinę pensiją turi asmuo,
 
 Respublikos Prezidento sutuoktinio valstybinė pensija skiriama ir mokama Respublikos Prezidento, kurio įgaliojimai nutrūko pasibaigus jo kadencijai Lietuvos Respublikos Konstitucijos 88 straipsnyje nustatytais pagrindais, sutuoktiniui, jeigu jis yra Lietuvos Respublikos pilietis, sukakęs senatvės pensijos amžių arba yra pripažintas nedarbingu ar iš dalies darbingu, netekusiu 60 procentų ir daugiau darbingumo, neturi draudžiamųjų pajamų, kurių sąvoka suprantama taip, kaip ji apibrėžta Valstybinio socialinio draudimo įstatyme, ir negauna kitos valstybinės pensijos.
 
-Respublikos Prezidento sutuoktinio valstybinės pensijos dydis – 15 procentų Respublikos Prezidento darbo užmokesčio dydžio per mėnesį.
+Respublikos Prezidento sutuoktinio valstybinės pensijos dydis – 11,64 procento Respublikos Prezidento darbo užmokesčio dydžio per mėnesį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2300, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12124
 
 Respublikos Prezidento sutuoktinio valstybinės pensijos dydis nustatomas pagal Respublikos Prezidento darbo užmokesčio dydį, galiojantį tą mėnesį, už kurį ši pensija mokama. Pasikeitus Respublikos Prezidento darbo užmokesčiui, Respublikos Prezidento sutuoktinio valstybinės pensijos dydį pensiją mokanti institucija nustato iš naujo.
 
