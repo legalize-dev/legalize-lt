@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2019-07-04"
+last_updated: "2019-07-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2019-07-04 iki 2019-07-23
+Suvestinė redakcija nuo 2019-07-24 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -926,11 +926,13 @@ PAJAMŲ PINIGINEI SOCIALINEI PARAMAI GAUTI APSKAIČIAVIMAS
 
 1. Savivaldybės administracija, teikdama piniginę socialinę paramą, privalo:
 
-1) derinti socialinės pašalpos teikimo bendrai gyvenantiems asmenims arba vieniems gyvenantiems asmenims, patiriantiems socialinę riziką, formas – nepinigine forma ir pinigais – savivaldybės tarybos nustatyta tvarka. Socialinės pašalpos dydis pinigais negali viršyti 50 procentų paskirtos socialinės pašalpos dydžio;
+1) derinti socialinės pašalpos teikimo bendrai gyvenantiems asmenims arba vieniems gyvenantiems asmenims, patiriantiems socialinę riziką, formas – nepinigine forma ir pinigais – savivaldybės tarybos nustatyta tvarka. Socialinės pašalpos dydis pinigais negali viršyti 50 procentų paskirtos socialinės pašalpos dydžio, išskyrus atvejus, kai atvejo vadybininkas, koordinuojantis atvejo vadybos procesą, rekomenduoja didesnę kaip 50 procentų paskirtos socialinės pašalpos dydžio sumą mokėti piniginėmis lėšomis, o kai atvejo vadyba netaikoma, – atsižvelgiant į socialinio darbuotojo, dirbančio su asmenimis, patiriančiais socialinę riziką, rekomendaciją;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
+
+Nr. XIII-2324, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12117
 
 2) kompensacijas bendrai gyvenantiems asmenims arba vieniems gyvenantiems asmenims, patiriantiems socialinę riziką, teikti šio įstatymo 22 straipsnio 2 dalies 2 punkte nustatytu būdu;
 
