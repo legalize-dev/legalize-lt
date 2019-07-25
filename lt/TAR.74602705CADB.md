@@ -4,7 +4,7 @@ identifier: "TAR.74602705CADB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-25"
-last_updated: "2019-01-01"
+last_updated: "2019-07-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-07-24
+Suvestinė redakcija nuo 2019-07-25 iki 2019-09-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
 
@@ -116,9 +116,17 @@ Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
 
 4   straipsnis. Atsargų kaupimo ir tvarkymo priežiūra
 
-1. Valstybinė energetikos inspekcija prie Energetikos ministerijos (toliau – Inspekcija) Taisyklėse nustatyta tvarka periodiškai tikrina ir prižiūri, kaip Agentūra, įpareigotosios įmonės ir kitos įmonės, teikiančios atsargų kaupimo ir tvarkymo paslaugas, kaupia ir tvarko atsargas, taip pat ar atsargų laikymo vietos ir sąlygos atitinka teisės aktų reikalavimus. Inspekcija, atlikdama šiame įstatyme jai nustatytas funkcijas, turi teisę atlikti Agentūros, įpareigotųjų įmonių ir kitų įmonių, teikiančių atsargų kaupimo ir tvarkymo paslaugas, patikrinimus, nurodytus šio straipsnio 2 dalyje, taip pat kitas teisės aktų nustatytas teises.
+1. Valstybinė energetikos reguliavimo taryba (toliau – Taryba) Taisyklėse nustatyta tvarka periodiškai tikrina ir prižiūri, kaip Agentūra, įpareigotosios įmonės ir kitos įmonės, teikiančios atsargų kaupimo ir tvarkymo paslaugas, kaupia ir tvarko atsargas, taip pat ar atsargų laikymo vietos ir sąlygos atitinka teisės aktų reikalavimus. Taryba, atlikdama šiame įstatyme jai nustatytas funkcijas, turi teisę atlikti Agentūros, įpareigotųjų įmonių ir kitų įmonių, teikiančių atsargų kaupimo ir tvarkymo paslaugas, patikrinimus, nurodytus šio straipsnio 2 dalyje, taip pat kitas teisės aktų nustatytas teises. Jeigu per Tarybos nustatytą terminą nesudaromos sąlygos ar kitaip trukdoma atlikti atsargų patikrinimą, laikoma, kad atsargos nesukauptos.
 
-2. Atlikdami Agentūros, įpareigotųjų įmonių ir kitų įmonių, teikiančių atsargų kaupimo ir tvarkymo paslaugas, patikrinimus, Inspekcijos pareigūnai turi teisę, neatsižvelgdami į atsargų nuosavybę, laikymo vietą ar sąlygas, patekti į Agentūros, įpareigotųjų įmonių ir kitų įmonių, teikiančių atsargų kaupimo ir tvarkymo paslaugas, teritoriją ar patalpas ir patikrinti su atsargų kaupimu ir tvarkymu susijusius dokumentus ir duomenis, atsargų tvarkymą, naudojimą, terminalų, kuriuose laikomos atsargos, techninę būklę, jų tinkamumą atsargoms laikyti. Šie patikrinimai įforminami aktu, kurio formą ir užpildymo tvarką nustato Inspekcija. Šiuose patikrinimuose gali dalyvauti ir kitų valstybės institucijų atstovai. Inspekcija informuoja Energetikos ministeriją apie šių patikrinimų rezultatus.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
+
+2. Atlikdami Agentūros, įpareigotųjų įmonių ir kitų įmonių, teikiančių atsargų kaupimo ir tvarkymo paslaugas, patikrinimus, Tarybos pareigūnai turi teisę, neatsižvelgdami į atsargų nuosavybę, laikymo vietą ar sąlygas, patekti į Agentūros, įpareigotųjų įmonių ir kitų įmonių, teikiančių atsargų kaupimo ir tvarkymo paslaugas, teritoriją ar patalpas ir patikrinti su atsargų kaupimu ir tvarkymu susijusius dokumentus ir duomenis, atsargų tvarkymą, naudojimą, terminalų, kuriuose laikomos atsargos, techninę būklę, jų tinkamumą atsargoms laikyti. Šie patikrinimai įforminami aktu, kurio formą ir užpildymo tvarką nustato Taryba. Šiuose patikrinimuose gali dalyvauti ir kitų valstybės institucijų atstovai. Taryba informuoja Energetikos ministeriją apie šių patikrinimų rezultatus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
 
 3. Atsargų kokybę Taisyklėse nustatyta tvarka kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba.
 
@@ -210,7 +218,11 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 
 1. Atsargos kaupiamos įgyjant į jas nuosavybės arba reikalavimo teises.
 
-2. Agentūra reikalavimo teisių pagrindu gali kaupti ne daugiau kaip 75 procentus atsargų, išskyrus specialiąsias atsargas, kurios visos privalo būti kaupiamos nuosavybės būdu. Įpareigotosios įmonės visą joms privalomą kaupti atsargų kiekį gali kaupti reikalavimo teisių pagrindu.
+2. Agentūra reikalavimo teisių pagrindu gali kaupti iki 100 procentų atsargų, išskyrus specialiąsias atsargas, kurios visos privalo būti kaupiamos nuosavybės būdu. Įpareigotosios įmonės visą joms privalomą kaupti atsargų kiekį gali kaupti reikalavimo teisių pagrindu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
 
 3. Nepaisant to, kokiu būdu kaupiamos atsargos, Agentūra ir įpareigotosios įmonės privalo užtikrinti atsargų fizinę prieigą, tai yra galimybę šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais veiksmingai patiekti atsargas naudoti galutiniams vartotojams šio įstatymo nustatytais terminais ir tvarka.
 
@@ -512,6 +524,14 @@ Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
 
 Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 1, 2, 3, 5, 11, 12, 14, 15, 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
+
+Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 2, 4, 7, 9, 21, 22 straipsnių ir priedo pakeitimo įstatymas
+
 15 straipsnis. Atsargų panaudojimas ir nurašymas
 
 1. Atsargos, kurias privaloma kaupti pagal šį įstatymą, gali būti naudojamos ekstremaliosios energetikos padėties laikotarpiu arba Lietuvos Respublikos valstybės rezervo įstatyme nustatytais atvejais ir tvarka. Specialiųjų atsargų kiekis Taisyklėse nustatyta tvarka gali būti laikinai sumažintas atliekant šio įstatymo 16 straipsnyje numatytas atsargų keitimo procedūras. Panaudojus atsargas šioje dalyje nustatytais atvejais, reikiamas atsargų kiekis atkuriamas per Europos Komisijos nustatytą laikotarpį.
@@ -588,9 +608,17 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 
 22 straipsnis. Atsargų kaupimo patikrinimai
 
-1. Inspekcija pagal savo kompetenciją teikia pagalbą asmenims, kuriuos Europos Komisija įgaliojo atlikti atsargų kaupimo patikrinimus. Atliekant atsargų kaupimo patikrinimus, Agentūra, įpareigotosios įmonės, kitos valstybės institucijos užtikrina, kad šiems asmenims būtų suteikta teisė susipažinti su dokumentais ir informacinėmis sistemomis, kurie yra susiję su atsargomis, ir teisė patekti į visas vietas, kuriose atsargos yra laikomos.
+1. Taryba pagal savo kompetenciją teikia pagalbą asmenims, kuriuos Europos Komisija įgaliojo atlikti atsargų kaupimo patikrinimus. Atliekant atsargų kaupimo patikrinimus, Agentūra, įpareigotosios įmonės, kitos valstybės institucijos užtikrina, kad šiems asmenims būtų suteikta teisė susipažinti su dokumentais ir informacinėmis sistemomis, kurie yra susiję su atsargomis, ir teisė patekti į visas vietas, kuriose atsargos yra laikomos.
 
-2. Inspekcija, kiti asmenys, taip pat Naftos ir naftos produktų koordinavimo grupės, įsteigtos pagal 2009 m. rugsėjo 14 d. Tarybos direktyvą 2009/119/EB, kuria valstybės narės įpareigojamos išlaikyti privalomąsias žalios naftos ir (arba) naftos produktų atsargas, nariai privalo saugoti ir neatskleisti informacijos, kuri buvo surinkta ar kuria buvo pasikeista pagal šį straipsnį ir kuri yra laikoma profesine paslaptimi.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
+
+2. Taryba, kiti asmenys, taip pat Naftos ir naftos produktų koordinavimo grupės, įsteigtos pagal 2009 m. rugsėjo 14 d. Tarybos direktyvą 2009/119/EB, kuria valstybės narės įpareigojamos išlaikyti privalomąsias žalios naftos ir (arba) naftos produktų atsargas, nariai privalo saugoti ir neatskleisti informacijos, kuri buvo surinkta ar kuria buvo pasikeista pagal šį straipsnį ir kuri yra laikoma profesine paslaptimi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
 
 3. Asmens duomenys, gauti atliekant šiame straipsnyje nurodytus atsargų kaupimo patikrinimus, negali būti tvarkomi ir jais negali būti pasinaudota. Jeigu tokie duomenys atsitiktinai gaunami ar surenkami, jie privalo būti nedelsiant sunaikinami.
 
