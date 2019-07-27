@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2019-07-06"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2019-07-06 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2019-11-11
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -86,13 +86,29 @@ Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)
 
 2) tarptautinės teisės draudžiamam elgesiui su žmonėmis (100 straipsnis);
 
-4) tarptautinės humanitarinės teisės saugomų asmenų žudymui (101 straipsnis);
+5) tarptautinės humanitarinės teisės saugomų asmenų žudymui (101 straipsnis);
 
-6) tarptautinės humanitarinės teisės saugomų asmenų žalojimui, kankinimui ar kitokiam nežmoniškam elgesiui su jais ar jų turto apsaugos pažeidimui (103 straipsnis);
+Straipsnio punkto numeracijos pakeitimas:
 
-7) civilių ar karo belaisvių prievartiniam panaudojimui priešo ginkluotosiose pajėgose (105 straipsnis);
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
-10) draudžiamai karo atakai (111 straipsnis);
+7) tarptautinės humanitarinės teisės saugomų asmenų žalojimui, kankinimui ar kitokiam nežmoniškam elgesiui su jais ar jų turto apsaugos pažeidimui (103 straipsnis);
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
+
+8) civilių ar karo belaisvių prievartiniam panaudojimui priešo ginkluotosiose pajėgose (105 straipsnis);
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
+
+11) draudžiamai karo atakai (111 straipsnis);
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
 4 straipsnis. Baudžiamojo įstatymo galiojimas asmenims, padariusiems nusikalstamas veikas Lietuvos valstybės teritorijoje arba laivuose ar orlaiviuose su Lietuvos valstybės vėliava ar skiriamaisiais ženklais
 
@@ -660,7 +676,11 @@ XII SKYRIUS
 
 Baudžiamosios atsakomybės senatis
 
-5) civilių trėmimui ar perkėlimui (102 straipsnis);
+6) civilių trėmimui ar perkėlimui (102 straipsnis);
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
 104 straipsnis. Neteko galios nuo 2011-03-31.
 
@@ -668,11 +688,23 @@ Straipsnio pakeitimai:
 
 Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)
 
-9) agresijai (110 straipsnis);
+10) agresijai (110 straipsnis);
 
-11) uždraustų karo priemonių naudojimui (112 straipsnis);
+Straipsnio punkto numeracijos pakeitimas:
 
-8) saugomų objektų naikinimui ar nacionalinių vertybių grobstymui (106 straipsnis);
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
+
+12) uždraustų karo priemonių naudojimui (112 straipsnis);
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
+
+9) saugomų objektų naikinimui ar nacionalinių vertybių grobstymui (106 straipsnis);
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
 108 straipsnis. Vilkinimas paleisti internuotus civilius ar trukdymas repatrijuoti kitiems civiliams
 
@@ -1868,7 +1900,11 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 
 3) užsienio valstybės teismo nuosprendžiu buvo išteisintas, atleistas nuo baudžiamosios atsakomybės ar bausmės arba bausmė nebuvo paskirta dėl senaties ar kitais toje valstybėje numatytais teisiniais pagrindais.
 
-3. Lietuvos Respublikos pilietis ar kitas nuolat Lietuvoje gyvenantis asmuo, užsienyje padarę vieną ar kelis nusikaltimus, numatytus šio kodekso 149 straipsnio 3 ir 4 dalyse, 150 straipsnio 3 ir 4 dalyse, 151 straipsnio 2 dalyje, 1511, 1521, 153, 157 straipsniuose, 162 straipsnio 1 dalyje, 307 straipsnio 3 dalyje, 308 straipsnio 3 dalyje, 309 straipsnio 2 ir 3 dalyse, baudžiami nepaisant to, ar už padarytą veiką baudžiama pagal nusikaltimo padarymo vietos valstybės baudžiamąjį įstatymą.
+3. Lietuvos Respublikos pilietis ar kitas nuolat Lietuvoje gyvenantis asmuo, užsienyje padarę vieną ar kelis nusikaltimus, numatytus šio kodekso 129, 135, 138, 148, 149, 150, 151, 1511, 1521, 153 straipsniuose, 162 straipsnio 1 dalyje, 307 straipsnio 3 dalyje, 308 straipsnio 3 dalyje, 309 straipsnio 2 ir 3 dalyse, baudžiami nepaisant to, ar už padarytą veiką baudžiama pagal nusikaltimo padarymo vietos valstybės baudžiamąjį įstatymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
 Straipsnio pakeitimai:
 
@@ -2034,9 +2070,13 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 205 straipsnis. Apgaulingas pareiškimas apie juridinio asmens veiklą
 
-1. Tas, kas juridinio asmens vardu oficialioje ataskaitoje ar paraiškoje pateikė apgaulingus duomenis apie juridinio asmens veiklą ar turtą ir šiuo pareiškimu suklaidino valstybės instituciją, tarptautinę viešąją organizaciją, kreditorių, juridinio asmens dalyvį ar kitą asmenį, kuris dėl to patyrė didelės turtinės žalos,
+1. Tas, kas juridinio asmens vardu oficialioje ataskaitoje ar paraiškoje pateikė apgaulingus duomenis apie juridinio asmens veiklą ar turtą ir šiuo pareiškimu suklaidino valstybės ar Europos Sąjungos instituciją, tarptautinę viešąją organizaciją, kreditorių, juridinio asmens dalyvį ar kitą asmenį, kuris dėl to patyrė didelės turtinės žalos,
 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
 2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
@@ -4318,29 +4358,45 @@ Straipsnio pakeitimai:
 
 Nr. XIII-1836, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21859
 
-206 straipsnis. Kredito, paskolos ar tikslinės paramos panaudojimas ne pagal paskirtį ar nustatytą tvarką
+206 straipsnis. Kredito, paskolos, tikslinės paramos, subsidijos ar dotacijos panaudojimas ne pagal paskirtį ar nustatytą tvarką
 
-1. Tas, kas gavęs 150 MGL dydžio ar didesnės vertės kreditą, paskolą ar tikslinę paramą panaudojo juos ne pagal paskirtį ar nustatytą tvarką,
+1. Tas, kas gavęs 150 MGL dydžio ar didesnės vertės kreditą, paskolą ar tikslinę paramą, subsidiją ar dotaciją panaudojo juos ne pagal paskirtį ar nustatytą tvarką,
 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
 
-2. Tas, kas gavęs kreditą ar paskolą panaudojo jį ne pagal paskirtį ar nustatytą tvarką ir negrąžino jo laiku, ir dėl to kreditoriui, laiduotojui arba kitam asmeniui padarė didelės turtinės žalos,
+2. Tas, kas gavęs kreditą ar paskolą panaudojo juos ne pagal paskirtį ar nustatytą tvarką ir negrąžino laiku, ir dėl to kreditoriui, laiduotojui arba kitam asmeniui padarė didelės turtinės žalos,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+3. Tas, kas gavęs tikslinę paramą, subsidiją ar dotaciją panaudojo jas ne pagal paskirtį ar nustatytą tvarką ir dėl to valstybės ar Europos Sąjungos institucija, tarptautinė viešoji organizacija arba kitas juridinis ar fizinis asmuo patyrė didelės turtinės žalos,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 Straipsnio pakeitimai:
 
 Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 
+Straipsnio pakeitimai:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
+
 207 straipsnis. Kreditinis sukčiavimas
 
-1. Tas, kas apgaule gavo kreditą, paskolą, subsidiją, laidavimo ar banko garantijos raštus arba kitus kreditinius įsipareigojimus,
+1. Tas, kas apgaule gavo kreditą, paskolą, tikslinę paramą, subsidiją, dotaciją, laidavimo ar banko garantijos raštus arba kitus kreditinius įsipareigojimus,
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2. Tas, kas apgaule gavo tikslinę paramą, subsidiją ar dotaciją ir dėl to valstybės ar Europos Sąjungos institucija, tarptautinė viešoji organizacija arba kitas juridinis ar fizinis asmuo patyrė didelės turtinės žalos,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
 208 straipsnis. Skolininko nesąžiningumas
 
@@ -5346,6 +5402,12 @@ Papildyta punktu:
 
 Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
 
+35. 2017 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1371 dėl kovos su Sąjungos finansiniams interesams kenkiančiu sukčiavimu baudžiamosios teisės priemonėmis (OL 2017 L 198, p. 29).
+
+Papildyta punktu:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
+
 Kodeksas papildytas priedu:
 
 Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
@@ -6080,6 +6142,14 @@ Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
 
 Lietuvos Respublikos baudžiamojo kodekso 42, 43, 46, 47, 48, 49, 50, 51, 55, 67, 70, 71, 74, 75, 85, 92 ir 243 straipsnių pakeitimo įstatymas
 
+34.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
+
+Lietuvos Respublikos baudžiamojo kodekso 8, 95, 205, 206, 207 straipsnių ir priedo pakeitimo ir Kodekso papildymo 100-3 straipsniu įstatymas
+
 2771 straipsnis. Sąvokų išaiškinimas
 
 Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
@@ -6172,7 +6242,11 @@ Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)
 
 Pastaba. Pagal 1891 straipsnį baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso 1891 straipsnyje nustatytus požymius atitinkantį turtą turi po šio įstatymo (Nr. XI-1199) įsigaliojimo (2010-12-11).
 
-12) aplaidžiam vado pareigų vykdymui (1131 straipsnis).
+13) aplaidžiam vado pareigų vykdymui (1131 straipsnis).
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
 Straipsnio pakeitimai:
 
@@ -6843,4 +6917,10 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki vienerių metų.
 Papildyta straipsniu:
 
 Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859
+
+4) kankinimui (1003 straipsnis);
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
