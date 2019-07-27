@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2019-07-01"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -5352,6 +5352,14 @@ Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 1 straipsnio pakeitimo įstatymas
 
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+
 341 straipsnis. Leidimo gyventi išdavimas, keitimas ir naujas įforminimas skubos tvarka
 
 1. Užsieniečio prašymu prašymas išduoti ar pakeisti leidimą gyventi gali būti nagrinėjamas ir šis dokumentas gali būti išduodamas ar keičiamas skubos tvarka. Nagrinėjant užsieniečio prašymą išduoti ar pakeisti leidimą gyventi ir šį dokumentą išduodant ar keičiant skubos tvarka, šio Įstatymo 33 straipsnio 1 dalyje nustatyti terminai trumpinami per pusę.
@@ -5472,17 +5480,17 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 451 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui, kuris ketina užsiimti teisėta veikla, susijusia su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu
 
-1. Leidimas laikinai gyventi gali būti išduodamas užsieniečiui, kuris ketina užsiimti teisėta veikla, susijusia su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, jeigu ūkio ministro įgaliota institucija raštu patvirtina, kad teisėta veikla, kuria ketina užsiimti užsienietis, yra susijusi su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu ir kad šiai veiklai vykdyti užsienietis turi reikiamą kvalifikaciją, finansavimą bei verslo planą ir kad šio užsieniečio, būsiančio numatomos įsteigti įmonės dalyviu, buvimas Lietuvos Respublikoje būtinas šios įmonės veiklai.
+1. Leidimas laikinai gyventi gali būti išduodamas užsieniečiui, kuris ketina užsiimti teisėta veikla, susijusia su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, jeigu ekonomikos ir inovacijų ministro įgaliota institucija raštu patvirtina, kad teisėta veikla, kuria ketina užsiimti užsienietis, yra susijusi su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu ir kad užsiimti šia veikla užsienietis turi reikiamą kvalifikaciją, finansavimą bei verslo planą, ir kad šio užsieniečio, būsiančio numatomos įsteigti įmonės dalyviu, buvimas Lietuvos Respublikoje būtinas šios įmonės veiklai.
 
-2. Vertinimo tvarką, pagal kurią nustatoma, ar numatomos steigti įmonės veikla susijusi su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu ir ar šiai veiklai vykdyti užsienietis turi reikiamą kvalifikaciją, finansavimą bei verslo planą, nustato ūkio ministras, suderinęs su švietimo ir mokslo bei vidaus reikalų ministrais.
+2. Vertinimo tvarką, pagal kurią nustatoma, ar numatomos steigti įmonės veikla susijusi su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu ir ar užsiimti šia veikla užsienietis turi reikiamą kvalifikaciją, finansavimą bei verslo planą, nustato ekonomikos ir inovacijų ministras, suderinęs su švietimo ir mokslo ministru ir vidaus reikalų ministru.
 
-3. Užsieniečiui, kuris ketina užsiimti teisėta veikla, susijusia su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, leidimas laikinai gyventi išduodamas vieneriems metams. Šis leidimas, ūkio ministro įgaliotai institucijai patvirtinus, kad užsienietis atitinka šio straipsnio 1 dalyje nurodytus reikalavimus, gali būti pakeistas vieneriems metams vieną kartą.
+3. Užsieniečiui, kuris ketina užsiimti teisėta veikla, susijusia su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, leidimas laikinai gyventi išduodamas vieneriems metams. Šis leidimas, ekonomikos ir inovacijų ministro įgaliotai institucijai patvirtinus, kad užsienietis atitinka šio straipsnio 1 dalyje nurodytus reikalavimus, gali būti pakeistas vieneriems metams du kartus.
 
 4. Užsienietis, nutraukęs teisėtą veiklą, susijusią su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, privalo išvykti iš Lietuvos Respublikos.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 621 straipsnis. Leidimo dirbti sezoninį darbą išdavimas
 
