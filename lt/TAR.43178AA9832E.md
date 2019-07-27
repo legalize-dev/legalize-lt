@@ -4,7 +4,7 @@ identifier: "TAR.43178AA9832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2019-07-02"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2019-07-02 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2022-04-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
 
@@ -346,15 +346,7 @@ Nr. XIII-1183, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09074
 
 7. Ilgalaikio turto nusidėvėjimo minimalius ir maksimalius ekonominius normatyvus viešojo sektoriaus subjektams nustato Vyriausybė.
 
-Straipsnio pakeitimai:
-
-Nr. IX-1263, 2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
-
-Nr. X-1178, 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
-
-Nr. X-1679, 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
-
-Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
+8. Viešojo sektoriaus subjektai, išskyrus savivaldybių kontroliuojamus viešojo sektoriaus subjektus, apskaitą tvarko naudodami bendras viešojo sektoriaus finansų valdymo informacines sistemas.
 
 7 straipsnis. Sąskaitų planas
 
@@ -918,7 +910,7 @@ Nr. XIII-2056, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06692
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                 VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
 Lietuvos Respublikos buhalterinės
 
@@ -1299,4 +1291,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2238, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10360
 
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 10-3 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2313, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12395
+
+Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 6 straipsnio pakeitimo įstatymas
 
