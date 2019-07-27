@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2019-01-01"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
 
@@ -1516,10 +1516,6 @@ Nr. XIII-1819, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21839
 
 5. Su pareigūnu, kuris atleidžiamas iš vidaus tarnybos pagal šio statuto 72 straipsnio 1 dalies 2 punktą, Vyriausybės nustatyta tvarka gali būti sudaroma terminuota darbo sutartis dėl mentorystės ne ilgesniam kaip 2 metų laikotarpiui.
 
-DVYLIKTASIS SKIRSNIS
-
-GINČŲ SPRENDIMO VIDAUS TARNYBOJE YPATUMAI
-
 71 straipsnis. Ginčai vidaus tarnyboje
 
 1. Individualūs tarnybiniai ginčai, išskyrus ginčus dėl pareigūno atleidimo iš vidaus tarnybos, gali būti sprendžiami ne teismo tvarka statutinėje įstaigoje sudarytoje tarnybinių ginčų komisijoje.
@@ -1907,4 +1903,16 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-756, 2006-07-11, Žin., 2006, Nr. 82-3255 (2006-07-27)
 
 VIDAUS TARNYBOS STATUTO 39 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+701 straipsnis. Pareigūnų sielovada
+
+Pagal centrinių statutinių įstaigų vadovų susitarimus su tradicinėmis ir kitomis valstybės pripažintomis religinėmis bendruomenėmis ar bendrijomis gali būti vykdoma pareigūnų sielovada ir teikiamos su sielovada susijusios paslaugos. Šiais susitarimais nustatomos dvasininkų (kapelionų) teisės, pareigos, darbo sąlygos ir kompetencija.
+
+Papildyta straipsniu:
+
+Nr. XIII-2316, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12358
+
+DVYLIKTASIS SKIRSNIS
+
+GINČŲ SPRENDIMO VIDAUS TARNYBOJE YPATUMAI
 
