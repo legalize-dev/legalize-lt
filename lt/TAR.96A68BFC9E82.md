@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2019-07-02"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-07-02 iki 2019-07-31
+Suvestinė redakcija nuo 2019-08-01 iki 2020-03-18
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
 
@@ -1592,4 +1592,34 @@ Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 Papildyta straipsniu:
 
 Nr. XIII-934, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21609
+
+302 straipsnis. Vyriausybės strateginės analizės centras
+
+1. Vyriausybės strateginės analizės centras yra viešoji įstaiga, kurios savininkė yra valstybė, o savininko teises ir pareigas įgyvendina Vyriausybė arba jos įgaliota institucija.
+
+2. Vyriausybės strateginės analizės centras yra ekspertinė institucija, teikianti Vyriausybei ir ministerijoms nepriklausomą, tiriamąja veikla grįstą informaciją, reikalingą įrodymais pagrįstiems viešosios politikos sprendimams priimti. Vyriausybės strateginės analizės centras veikia pagal Vyriausybės tvirtinamus įstatus.
+
+3. Vyriausybės strateginės analizės centras:
+
+1) atlieka tyrimus ir vertinimus, rengia prognozes strateginiais klausimais;
+
+2) remdamasis atliktų tyrimų ir vertinimų rezultatais, teikia išvadas Vyriausybei dėl valstybės valdymo sričių tobulinimo;
+
+3) telkia valstybės institucijų ir įstaigų, kitų organizacijų turimas analitines kompetencijas į bendradarbiavimo tinklą ir koordinuoja šio tinklo veiklą;
+
+4) konsultuoja valstybės ir savivaldybių institucijas ir įstaigas metodiniais klausimais dėl įrodymais grįstų sprendimų projektų rengimo;
+
+5) renka, apdoroja jo funkcijoms atlikti reikalingus duomenis, pagal kompetenciją teikia statistinę informaciją Vyriausybei ir ministerijoms;
+
+6) atlieka Lietuvos Respublikos technologijų ir inovacijų įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos profesinio mokymo įstatyme, Lietuvos Respublikos užimtumo įstatyme ir kituose teisės aktuose nustatytas funkcijas.
+
+4. Vyriausybės strateginės analizės centro lėšas sudaro valstybės biudžeto asignavimai, pajamos už suteiktas paslaugas, lėšos, gautos kaip parama, ir kitos gautos lėšos.
+
+5. Vyriausybės strateginės analizės centras turi teisę gauti iš valstybės ir savivaldybių institucijų, įstaigų, įmonių ir kitų organizacijų, valstybės registrų ir informacinių sistemų visą jo funkcijoms atlikti reikalingą informaciją.
+
+6. Vyriausybės strateginės analizės centras gali būti organizacijų, veikiančių su jo veikla susijusiose srityse, narys.
+
+Papildyta straipsniu:
+
+Nr. XIII-2366, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12445
 
