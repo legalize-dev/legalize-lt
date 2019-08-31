@@ -4,7 +4,7 @@ identifier: "TAR.C8205E261830"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2019-04-20"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2019-04-20 iki 2019-08-30
+Suvestinė redakcija nuo 2019-08-31 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
 
@@ -872,7 +872,7 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 41 straipsnis. Atvejo vadybininkas ir jo sudaromas pagalbos planas
 
-1. Atvejo vadybininku skiriamas fizinis asmuo, įgijęs aukštąjį socialinio darbo (profesinio bakalauro, bakalauro, magistro) kvalifikacinį laipsnį ar iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį laipsnį (profesinio bakalauro, bakalauro, magistro) ir socialinio darbuotojo kvalifikaciją, ar iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį laipsnį (profesinio bakalauro, bakalauro, magistro), ar įgijęs socialinės pedagogikos (bakalauro, magistro) kvalifikacinį laipsnį ir turintis ne mažesnę kaip vienų metų darbo su šeima ar vaikais ar savanorystės patirtį ir atitinkantis kituose teisės aktuose jam nustatytus reikalavimus.
+1. Atvejo vadybininku skiriamas fizinis asmuo, įgijęs aukštąjį socialinio darbo (profesinio bakalauro, bakalauro, magistro) kvalifikacinį laipsnį ar iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį laipsnį (profesinio bakalauro, bakalauro, magistro) ir socialinio darbuotojo kvalifikaciją, ar iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį laipsnį (profesinio bakalauro, bakalauro, magistro) ir baigęs socialinio darbo studijų programą, ar įgijęs socialinės pedagogikos (bakalauro, magistro) kvalifikacinį laipsnį ir turintis ne mažesnę kaip vienų metų darbo su šeima ar vaikais ar savanorystės patirtį ir atitinkantis kituose teisės aktuose jam nustatytus reikalavimus.
 
 2. Atvejo vadybininkas įvertina vaiko ir šeimos poreikius bei jos aplinką, telkia bendruomenės narius ir specialistus reikalingai pagalbai teikti bei koordinuoja pagalbos vaikui ir šeimai procesą. Atvejo vadybininkas padeda rasti šeimai geriausią problemų sprendimo būdą, sudaro sąlygas šeimai spręsti problemas, nuolat stebi ir koreguoja intensyvaus prevencinio ir socialinio darbo procesus.
 
@@ -887,6 +887,8 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 Straipsnio pakeitimai:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+
+Nr. XIII-2414, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13751
 
 PENKTASIS SKIRSNIS
 
@@ -1333,6 +1335,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, 50 straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2414, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13751
+
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, 50 straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-2035 14 ir 23 straipsnių pakeitimo įstatymas
 
 54 straipsnis. Vaiko, kuriam apribota ar atimta laisvė, teisės ir jų garantijos
 
