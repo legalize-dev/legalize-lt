@@ -4,7 +4,7 @@ identifier: "TAR.438A78A26F38"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-01-26"
-last_updated: "2019-07-24"
+last_updated: "2019-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2019-07-24 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
 
@@ -344,10 +344,6 @@ Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
 5. Nustačius, kad Respublikos Prezidentas pasibaigus kadencijai žuvo dėl jo eitų Respublikos Prezidento pareigų, šio įstatymo 17 straipsnio 7 dalyje išvardytiems asmenims mokamos tokio paties dydžio kompensacijos, kaip ir jam žuvus einant Respublikos Prezidento pareigas.
 
 6. Sprendimą, ar kadenciją baigęs Respublikos Prezidentas žuvo dėl jo eitų Respublikos Prezidento pareigų, priima Lietuvos Respublikos Vyriausybės sudaryta laikinoji komisija, dalyvaujant joje teisėsaugos ir kitų kompetentingų institucijų atstovams.
-
-7. Respublikos Prezidentas laidojamas valstybės lėšomis.
-
-7 dalies redakcija nuo 2019-09-01:
 
 7. Respublikos Prezidentas laidojamas ir jo atminimas įamžinamas valstybės lėšomis Vyriausybės ir jos įgaliotos institucijos nustatyta tvarka.
 
