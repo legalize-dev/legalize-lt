@@ -4,7 +4,7 @@ identifier: "TAR.47BB952431DA"
 country: "lt"
 rank: "konstitucija"
 publication_date: "1992-10-25"
-last_updated: "2014-01-24"
+last_updated: "2019-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
 department: "Piliečių referendumas"
@@ -14,7 +14,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Konstitucija
 
-Suvestinė redakcija nuo 2014-01-24 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2022-05-21
 
 Konstitucija paskelbtas: Lietuvos aidas 1992, Nr. 220-0; Žin. 1992, Nr.33-1014, i. k. 0921010KONSRG922324
 
@@ -988,6 +988,12 @@ Dėl Respublikos Prezidento aktų sutikimo su Konstitucija ir įstatymais į Kon
 
 Dėl Vyriausybės aktų sutikimo su Konstitucija ir įstatymais į Konstitucinį Teismą gali kreiptis ne mažiau kaip 1/5 visų Seimo narių, teismai, taip pat Respublikos Prezidentas.
 
+Kiekvienas asmuo turi teisę kreiptis į Konstitucinį Teismą dėl Konstitucijos 105 straipsnio pirmojoje ir antrojoje dalyse nurodytų aktų, jeigu jų pagrindu priimtas sprendimas pažeidė šio asmens konstitucines teises ar laisves ir šis asmuo išnaudojo visas teisinės gynybos priemones. Šios teisės įgyvendinimo tvarką nustato Konstitucinio Teismo įstatymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2004, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05330
+
 Respublikos Prezidento teikimas Konstituciniam Teismui ar Seimo nutarimas ištirti, ar aktas sutinka su Konstitucija, sustabdo šio akto galiojimą.
 
 Prašyti Konstitucinio Teismo išvados gali Seimas, o dėl Seimo rinkimų ir tarptautinių sutarčių – ir Respublikos Prezidentas.
@@ -999,6 +1005,12 @@ Konstitucinis Teismas turi teisę atsisakyti priimti nagrinėti bylą ar rengti 
 Lietuvos Respublikos įstatymas (ar jo dalis) arba kitas Seimo aktas (ar jo dalis), Respublikos Prezidento aktas, Vyriausybės aktas (ar jo dalis) negali būti taikomi nuo tos dienos, kai oficialiai paskelbiamas Konstitucinio Teismo sprendimas, kad atitinkamas aktas (ar jo dalis) prieštarauja Lietuvos Respublikos Konstitucijai.
 
 Konstitucinio Teismo sprendimai klausimais, kuriuos Konstitucija priskiria jo kompetencijai, yra galutiniai ir neskundžiami.
+
+Byloje pagal Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodyto asmens kreipimąsi priimtas Konstitucinio Teismo sprendimas, kad Lietuvos Respublikos įstatymas (ar jo dalis) arba kitas Seimo aktas (ar jo dalis), Respublikos Prezidento aktas, Vyriausybės aktas (ar jo dalis) prieštarauja Konstitucijai, yra pagrindas įstatymo nustatyta tvarka atnaujinti procesą dėl pažeistų to asmens konstitucinių teisių ar laisvių įgyvendinimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2004, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05330
 
 Remdamasis Konstitucinio Teismo išvadomis, Konstitucijos 105 straipsnio trečiojoje dalyje nurodytus klausimus galutinai sprendžia Seimas.
 
@@ -1398,7 +1410,7 @@ LIETUVOS RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS TARYBOS
 
-PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
+PIRMININKAS                                                                                    VYTAUTAS LANDSBERGIS
 
 Vilnius, 1992 m. lapkričio 6 d.
 
@@ -1491,4 +1503,12 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT2-N1/2014, 2014-01-24, paskelbta TAR 2014-01-24, i. k. 2014-00478
 
 Dėl Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymo, Lietuvos Respublikos Seimo statuto 170 straipsnio (2012 m. kovo 15 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2004, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05330
+
+Lietuvos Respublikos Konstitucijos 106 ir 107 straipsnių pakeitimo įstatymas
 
