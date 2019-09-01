@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2019-07-01"
+last_updated: "2019-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -272,6 +272,12 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+
+35. Krizė suprantama taip, kaip ji apibrėžiama Nepaprastosios padėties įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
 
 Straipsnio pakeitimai:
 
@@ -1973,7 +1979,7 @@ leitenantas                                  �
 
 vyresnysis leitenantas                                                           vyresnysis leitenantas
 
-kapitonas                                                                              kapitonas leitenantas
+kapitonas                                                                              kapitonas leitenantas
 
 4) vyresniųjų karininkų
 
@@ -3621,7 +3627,11 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 2. Šio straipsnio 1 dalies 1 punkte nurodytais atvejais kariniai vienetai gali būti pasiųsti padėti civilinės saugos sistemos pajėgoms krašto apsaugos ministro įsakymu, gavę Vyriausybės Ekstremalių situacijų komisijos pirmininko arba savivaldybės, kurios teritorijoje yra ekstremalios situacijos židinys, administracijos direktoriaus rašytinį prašymą. Karinių vienetų bei civilinės saugos sistemos pajėgų veiksmai koordinuojami pagal kariuomenės vado ar jo įgaliotų karinių vienetų vadų ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus ar jo įgaliotų civilinės saugos sistemos pareigūnų iš anksto parengtus sąveikos planus.
 
-3. Šio straipsnio 1 dalies 2 punkte nurodytu atveju kariniai vienetai siunčiami padėti institucijoms, užtikrinančioms Nepaprastosios padėties įstatymo vykdymą, krašto apsaugos ministro įsakymu, gavę institucijos, atsakingos už ekstremalių situacijų valdymą, vadovo rašytinį prašymą. Karinių vienetų sąveiką su kitomis valstybės ir savivaldybių institucijomis koordinuoja institucijos, atsakingos už ekstremalių situacijų valdymą, vadovas.
+3. Šio straipsnio 1 dalies 2 punkte nurodytu atveju kariniai vienetai siunčiami padėti institucijoms, užtikrinančioms Nepaprastosios padėties įstatymo vykdymą, krašto apsaugos ministro įsakymu, gavę institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovo rašytinį prašymą. Karinių vienetų sąveiką su kitomis valstybės ir savivaldybių institucijomis koordinuoja institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
 
 4. Šio straipsnio 1 dalies 3 punkte nurodytu atveju kariniai vienetai gali būti siunčiami padėti Valstybės sienos apsaugos tarnybai krašto apsaugos ministro įsakymu, gavę vidaus reikalų ministro rašytinį prašymą. Karinių vienetų ir Valstybės sienos apsaugos tarnybos ar padalinių sąveika vykdoma pagal Vyriausybės nustatyta tvarka tvirtinamą valstybės sienos apsaugos priedangos planą.
 
@@ -3629,11 +3639,13 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 6. Šio straipsnio 1 dalies 5 punkte nurodytais atvejais karinis vienetas gali būti pasitelktas kariuomenės vado ar jo įgalioto operacinio vadovavimo grandinėje esančio vado įsakymu, gavus policijos generalinio komisaro ar jo įgalioto pareigūno raštišką prašymą. Apie įsakymą siųsti karinį vienetą padėti policijai nedelsiant pranešama krašto apsaugos ministrui, o šis, suderinęs su vidaus reikalų ministru, turi teisę įsakymą atšaukti. Siunčiamas karinis vienetas gali teikti policijai tik prašomą vienkartinę pagalbą, kurios trukmė neviršija 24 valandų. Prireikus pagalbos policijai teikimo trukmė, laikantis tokios pat tvarkos, gali būti pratęsiama iki 48 valandų arba tol, kol bus pasiekti asmens sulaikymo, paieškos ar gelbėjimo operacijos tikslai. Asmens sulaikymo, paieškos ar gelbėjimo operacijai, kurią vykdyti padeda karinis vienetas, vadovauja policijos generalinio komisaro ar jo pavaduotojo arba teritorinės policijos įstaigos vadovo paskirtas pareigūnas.
 
-7. Šio straipsnio 1 dalies 6 punkte nurodytu atveju karinis vienetas gali būti pasitelktas krašto apsaugos ministro įsakymu, kai dėl teroro išpuolio priimamas Krizių valdymo komiteto sprendimas pasitelkti karinį vienetą. Teroro išpuolio likvidavimo operacijai, kurią padeda vykdyti karinis vienetas, vadovauja teisės aktų nustatyta tvarka paskirtas teroro išpuolio likvidavimo operacijos vadovas.
+7. Šio straipsnio 1 dalies 6 punkte nurodytu atveju karinis vienetas gali būti pasitelktas krašto apsaugos ministro įsakymu, kai dėl teroro išpuolio priimamas Nacionalinio saugumo komisijos sprendimas pasitelkti karinį vienetą. Teroro išpuolio likvidavimo operacijai, kurią padeda vykdyti karinis vienetas, vadovauja teisės aktų nustatyta tvarka paskirtas teroro išpuolio likvidavimo operacijos vadovas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
+
+Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
 
 8. Šio straipsnio 1 dalies 7 punkte nurodytais atvejais kariniai vienetai gali būti pasitelkti krašto apsaugos ministro įsakymu, gavus vidaus reikalų ministro rašytinį prašymą arba vykdant Vyriausybės sprendimus dėl Vyriausybės nustatytų svarbių valstybės ir savivaldybių ar kitų objektų apsaugos sustiprinimo.
 
