@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2019-01-01"
+last_updated: "2019-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-09-18
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -1008,13 +1008,17 @@ Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 5. Pagrindinės mokyklos tipui priskiriamos mokyklos, vykdančios pagrindinio ugdymo programą ar pagrindinio ugdymo ir pradinio ugdymo programas.
 
-6. netenka galios nuo 2017-09-01.
+6. Netenka galios nuo 2017-09-01.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
-7. Gimnazijos tipui priskiriamos mokyklos, vykdančios švietimo ir mokslo ministro nustatyta tvarka akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programos antrąją dalį. Atskiru atveju (mokykla gyvenamosiose vietovėse, kuriose nėra kitų vidurinio ugdymo programą lietuvių ar (ir) tautinės mažumos kalba vykdančių bendrojo ugdymo mokyklų, arba bendrojo ugdymo mokykla, pagal Vyriausybės patvirtintus kriterijus priskirta miesto pakraščio mokyklai; pasienio ruože esanti bendrojo ugdymo mokykla; nevalstybinė mokykla; mokykla, skirta šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių; mokykla, vykdanti specializuoto ugdymo krypties programą, kuriai reikalingas ugdymo nuoseklumas, ir atitinkanti Vyriausybės patvirtintus kriterijus) gimnazija gali vykdyti akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programą ar akredituotą vidurinio ugdymo programą, pagrindinio ugdymo programą ir pradinio ugdymo programą vadovaudamasi šio įstatymo 28 straipsnio nuostatomis ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis.
+7. Gimnazijos tipui priskiriamos mokyklos, vykdančios švietimo ir mokslo ministro nustatyta tvarka akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programos antrąją dalį. Atskiru atveju (mokykla gyvenamosiose vietovėse, kuriose nėra kitų vidurinio ugdymo programą lietuvių ar (ir) tautinės mažumos kalba vykdančių bendrojo ugdymo mokyklų, arba bendrojo ugdymo mokykla, pagal Vyriausybės patvirtintus kriterijus priskirta prie miesto pakraščio mokyklų; pasienio ruože esanti bendrojo ugdymo mokykla; nevalstybinė mokykla; mokykla, skirta šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių; mokykla, vykdanti specializuoto ugdymo krypties programą, kuriai reikalingas ugdymo nuoseklumas, mokykla, kurioje ne mažiau kaip 15 procentų visų mokinių yra didelių ir labai didelių specialiųjų ugdymosi poreikių ir (ar) vidutinį ir sunkų neįgalumą turintys mokiniai ir kuri atitinka Vyriausybės patvirtintus kriterijus) gimnazija gali vykdyti akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programą ar akredituotą vidurinio ugdymo programą, pagrindinio ugdymo programą ir pradinio ugdymo programą, vadovaudamasi šio įstatymo 28 straipsnio nuostatomis ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2090, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07327
 
 8. Bendrojo ugdymo mokyklos šio įstatymo 43 straipsnyje nustatyta tvarka gali vykdyti profesinio mokymo programas.
 
@@ -2467,6 +2471,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1781, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-20999
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 56 straipsnio pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2090, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07327
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41 straipsnio pakeitimo įstatymas
 
 73 straipsnis.
 
