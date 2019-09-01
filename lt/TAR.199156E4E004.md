@@ -4,7 +4,7 @@ identifier: "TAR.199156E4E004"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2019-07-01"
+last_updated: "2019-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2020-04-07
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
 
@@ -38,13 +38,19 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
 
-2. Šis Įstatymas taikomas Lietuvos Respublikos piliečiams, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės susitarimą sudariusios valstybės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys jų teisę gyventi Lietuvos Respublikoje, asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas, užsieniečiams, turintiems Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje, ir užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje.
+2. Šis Įstatymas taikomas Lietuvos Respublikos piliečiams, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės susitarimą sudariusios valstybės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys jų teisę gyventi Lietuvos Respublikoje, asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas, užsieniečiams, turintiems Lietuvos Respublikoje ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje, užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje, ir Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir jų šeimos nariams, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje.
+
+2 dalies redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
+
+2. Šis Įstatymas taikomas Lietuvos Respublikos piliečiams, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės susitarimą sudariusios valstybės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys jų teisę gyventi Lietuvos Respublikoje, asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas, užsieniečiams, turintiems Lietuvos Respublikoje ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje, užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje, ir Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir jų šeimos nariams, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir jų šeimos nariams, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 Nr. XIII-445, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10807
+
+Nr. XIII-2343, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12409
 
 3. Šio Įstatymo 20 ir 23 straipsniai taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, kaip ši sąvoka apibrėžta tai reglamentuojančiuose Lietuvos Respublikos teisės aktuose.
 
@@ -895,6 +901,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1761, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20742
 
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 16 straipsnio pakeitimo įstatymas
+
+26.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2343, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12409
+
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1 straipsnio pakeitimo įstatymas
 
 201 straipsnis. Specialiųjų poreikių rūšys, specialiųjų poreikių ir specialiųjų poreikių lygio nustatymas
 
