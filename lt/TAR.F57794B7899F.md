@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2019-07-02"
+last_updated: "2019-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-07-02 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-09-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -422,6 +422,12 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
+481. Totali elektros energetikos sistemos avarija – elektros energijos gamybos, perdavimo, skirstymo ir vartojimo proceso nutrūkimas nustojus veikti visai elektros energetikos sistemai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+
 49. Tretieji asmenys – elektros energijos gamintojai, tiekėjai ir vartotojai, kurie šiame įstatyme nustatyta tvarka įgyja teisę pasinaudoti elektros energijos perdavimo ir (ar) skirstomaisiais tinklais elektros energijai persiųsti teisės aktų nustatyta tvarka.
 
 Straipsnio dalies numeracijos pakeitimas:
@@ -480,11 +486,13 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
-56. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas), Lietuvos Respublikos statybos įstatyme ir kituose teisės aktuose.
+56. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu įstatyme ir kituose teisės aktuose.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -1247,6 +1255,18 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
+
+3. Gamintojas, kurio vienetinė elektros energijos gamybos įrenginio galia yra 20 MW ir daugiau, privalo ne vėliau kaip prieš 12 mėnesių pranešti perdavimo sistemos operatoriui apie planuojamą tokio įrenginio laikiną eksploatavimo sustabdymą arba ne vėliau kaip prieš 36 mėnesius apie planuojamą visišką tokio įrenginio eksploatavimo nutraukimą. Tokio įrenginio laikinas eksploatavimo sustabdymas ar visiškas eksploatavimo nutraukimas anksčiau šioje dalyje nurodytų terminų yra galimas tik gavus perdavimo sistemos operatoriaus rašytinį sutikimą arba, jeigu tokio įrenginio eksploatavimas nebūtų galimas dėl techninių priežasčių, kurių nebuvo galima numatyti iš anksto, arba jos yra susijusios su tokio įrenginio darbo išteklių pasibaigimu, arba dėl priežasčių, susijusių su teisės aktų reikalavimais dėl teršalų išmetimo į aplinką. Prašymas dėl laikino šioje dalyje nurodyto elektros energijos gamybos įrenginio eksploatavimo sustabdymo ar visiško eksploatavimo nutraukimo anksčiau šioje dalyje nurodytų terminų perdavimo sistemos operatoriui turi būti pateiktas ne anksčiau kaip prieš 4 mėnesius iki planuojamo tokio įrenginio laikino eksploatavimo sustabdymo arba visiško tokio įrenginio eksploatavimo nutraukimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+
+4. Perdavimo sistemos operatorius, gavęs gamintojo prašymą laikinai sustabdyti arba visiškai nutraukti elektros energijos gamybos įrenginio eksploatavimą anksčiau šio straipsnio 3 dalyje nustatytų pranešimo terminų, per vieną mėnesį nuo prašymo gavimo dienos įvertina tokio įrenginio laikino eksploatavimo sustabdymo ar visiško eksploatavimo nutraukimo įtaką elektros energetikos sistemos darbo stabilumui, saugumui, patikimumui ir adekvatumui. Perdavimo sistemos operatorius, nustatęs, kad šis elektros energijos gamybos įrenginys bus reikalingas elektros energetikos sistemos darbo stabilumui, saugumui, patikimumui ir adekvatumui užtikrinti po gamintojo prašyme nurodytos datos, apie tai informuoja prašymą pateikusį gamintoją ir Tarybą. Gamintojas su šiuo elektros energijos gamybos įrenginiu turi teikti perdavimo sistemos operatoriaus nustatytas izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas nuo prašyme nurodytos elektros energijos gamybos įrenginio laikino eksploatavimo sustabdymo arba visiško eksploatavimo nutraukimo datos, bet ne anksčiau negu po 4 mėnesių nuo prašymo pateikimo dienos, iki perdavimo sistemos operatoriaus nustatyto termino, kuris negali būti vėlesnis negu šio straipsnio 3 dalyje nustatyti terminai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 
 21 straipsnis. Neteko galios nuo 2015-07-01
 
@@ -2538,6 +2558,12 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 1. Gamintojų ir nepriklausomų tiekėjų parduodamos elektros energijos ir rezervinės galios kainos nereguliuojamos, išskyrus atvejus, kai Taryba, vadovaudamasi Elektros energijos rinkos tyrimo taisyklėmis, ištyrusi rinką nustato, kad toks gamintojas ar nepriklausomas tiekėjas turi didelę įtaką rinkoje ir dėl veiksmingos konkurencijos trūkumo gali taikyti pernelyg dideles kainas arba naudoti kainų spaudimą, tuo darydamas žalą rinkos dalyviams. Taryba, atlikdama rinkos tyrimą, konsultuojasi su Konkurencijos taryba. Gamintojams ar nepriklausomiems tiekėjams, turintiems didelę įtaką rinkoje, Taryba turi teisę nustatyti šio įstatymo 68 straipsnio 1 dalyje nurodytus įpareigojimus.
 
+11. Gamintojų, kurie teikia šias sistemines paslaugas – izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo – kainos nereguliuojamos, išskyrus atvejus, kai perdavimo sistemos operatorius gauna pasiūlymą teikti izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas tik iš vieno gamintojo ar kelių gamintojų, kurie yra susiję asmenys, arba kai elektros energetikos sistemos veikimui užtikrinti yra reikalingi visų gamintojų, galinčių teikti tretinį aktyviosios galios rezervą ir izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas, elektros energijos generavimo pajėgumai, ir atvejį, nurodytą šio įstatymo 20 straipsnio 4 dalyje, kai perdavimo sistemos operatorius informuoja gamintoją ir Tarybą, kad gamintojas su perdavimo sistemos operatoriaus nurodytu elektros energijos gamybos įrenginiu turi teikti izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas. Šioje dalyje nurodytų reguliuojamų paslaugų kainos įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+
 2. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainos reguliuojamos Tarybai nustatant viršutines kainų ribas. Konkrečias perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomenines elektros energijos kainas ir tarifus nustato ir keičia paslaugos teikėjas.
 
 3. Nustatant šio straipsnio 2 dalyje nurodytas viršutines kainų ribas ir įvertinus kiekvienos energijos vartojimo efektyvumą didinančios priemonės kaštus ir naudą, turi būti numatytos būtinos ir pagrįstos tinklų operatorių reguliuojamos veiklos investicijos į energijos vartojimo efektyvumo didinimo priemones, įskaitant išmaniųjų elektros tinklų plėtrą, kurios leistų tinklų operatoriams efektyviau vykdyti reguliuojamą veiklą ir teikti papildomas paslaugas asmenims, įgyvendinantiems energijos vartojimo efektyvumą didinančias priemones. Teikiamos papildomos paslaugos negali turėti neigiamos įtakos sistemos saugumui ir patikimumui.
@@ -2602,13 +2628,17 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 68 straipsnis. Sąnaudų apskaita ir kontrolė
 
-1. Taryba asmeniui, turinčiam didelę įtaką elektros energijos rinkoje, taip pat elektros energijos perdavimo, skirstymo paslaugų teikėjams ir (ar) visuomeniniam tiekėjui:
+1. Taryba asmeniui, turinčiam didelę įtaką elektros energijos rinkoje, ir gamintojams, kurie teikia izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas ir kurių kainos yra reguliuojamos, taip pat elektros energijos perdavimo, skirstymo paslaugų teikėjams ir (ar) visuomeniniam tiekėjui:
 
 1) nustato įpareigojimus teikti paslaugas sąnaudomis pagrįstomis kainomis, atsižvelgiant į protingumo kriterijų atitinkančią investicijų grąžą;
 
 2) nustato įpareigojimus, susijusius su sąnaudų apskaitos sistemomis, skirtomis konkrečių rūšių paslaugoms teikti;
 
 3) įpareigoja pakeisti taikomas paslaugų kainas arba nustato viršutinę reguliuojamų paslaugų kainų ir (ar) pajamų ribą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 
 2. Taryba, nustatydama įpareigojimus, tinkamai atsižvelgia į asmens, turinčio didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjo ir (ar) visuomeninio tiekėjo teisę gauti protingumo kriterijų atitinkančią investicijų grąžą. Tarybos nustatomi įpareigojimai turi būti aiškiai apibrėžti, skaidrūs, nediskriminaciniai, patikrinami ir turi užtikrinti vienodas galimybes teikti paslaugas vartotojams.
 
@@ -2716,11 +2746,13 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
-10. Perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo ir rezervinės galios kainos ir (ar) nustatyta pajamų riba, skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos ir tarifai įsigalioja praėjus ne mažiau kaip 45 dienoms nuo jų paskelbimo, o visuomeninės elektros energijos kainos ir tarifai įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo.
+10. Perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo ir rezervinės galios kainos ir (ar) nustatyta pajamų riba, skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos ir tarifai įsigalioja praėjus ne mažiau kaip 45 dienoms nuo jų paskelbimo, o visuomeninės elektros energijos kainos ir tarifai įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo. Gamintojų, kurių teikiamų izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugų kainos yra reguliuojamos, nustatytos kainos ir (ar) nustatyta pajamų riba įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 
 Straipsnio dalies numeracijos pakeitimas:
 
