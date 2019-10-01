@@ -4,7 +4,7 @@ identifier: "TAR.B35BAADC3F4E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-11-14"
-last_updated: "2016-11-10"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B35BAADC3F4E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos prekybos, pramonės ir amatų rūmų įstatymas
 
-Suvestinė redakcija nuo 2016-11-10 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 99-2201, i. k. 0951010ISTA00I-1093
 
@@ -259,7 +259,13 @@ Asociacijos prezidiumą sudaro Asociacijos narių-Rūmų prezidentai, generalini
 
 Rūmai bei jų Asociacija vykdydami savo pareigas bendradarbiauja su valstybės institucijomis, miestų ir rajonų savivaldos organais remdamiesi šiuo įstatymu bei kitais Lietuvos Respublikos įstatymais ir teisės aktais.
 
-Rūmai bei jų Asociacija panaudos sutarties pagrindu gali naudotis valstybės ir savivaldybių turtu.
+10 straipsnio 2 dalis neteko galios nuo 2019-10-01.
+
+TAR pastaba. Iki įstatymo Nr. XIII-2399 įsigaliojimo dienos (2019-10-01) sudarytos terminuotos valstybės (savivaldybės) turto panaudos sutartys galioja iki jų pabaigos dienos. Įsigaliojus įstatymui Nr. XIII-2399, valstybės (savivaldybės) turto panaudos davėjai, Lietuvos Respublikos civilinio kodekso nustatyta tvarka įspėję panaudos gavėjus, nutraukia visas neterminuotas valstybės (savivaldybės) turto panaudos sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2399, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12399
 
 Straipsnio pakeitimai:
 
@@ -306,4 +312,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
 
 Lietuvos Respublikos prekybos, pramonės ir amatų rūmų įstatymo Nr. I-1093 5 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2399, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12399
+
+Lietuvos Respublikos prekybos, pramonės ir amatų rūmų įstatymo Nr. I-1093 10 straipsnio pakeitimo įstatymas
 
