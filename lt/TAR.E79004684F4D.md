@@ -4,7 +4,7 @@ identifier: "TAR.E79004684F4D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "2018-06-12"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-06-12 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 59-1462, i. k. 0951010ISTA000I-976
 
@@ -563,7 +563,13 @@ zonoje
 
 1. Žemės nuosavybės bei nuomos santykius zonoje reguliuoja Lietuvos Respublikos civilinis kodeksas ir Lietuvos Respublikos žemės įstatymas.
 
-2. Statiniai ir infrastruktūros objektai, esantys valstybės (savivaldybės) nuosavybe, gali būti išnuomoti, perduoti naudotis panaudos pagrindais arba parduoti zonos valdymo bendrovei Lietuvos Respublikos įstatymų nustatyta tvarka.
+2. Statiniai ir infrastruktūros objektai, esantys valstybės (savivaldybės) nuosavybe, gali būti išnuomoti arba parduoti zonos valdymo bendrovei.
+
+TAR pastaba. Iki įstatymo Nr. XIII-2286 įsigaliojimo dienos (2019-10-01) sudarytos terminuotos savivaldybės turto panaudos sutartys galioja iki jų pabaigos dienos. Įsigaliojus šiam įstatymui, savivaldybės turto panaudos davėjai, Lietuvos Respublikos civilinio kodekso nustatyta tvarka įspėję panaudos gavėjus, nutraukia visas neterminuotas savivaldybės turto panaudos sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2286, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12175
 
 3. Gamtos ištekliai zonoje įsisavinami ir naudojami Lietuvos Respublikos įstatymų nustatyta tvarka.
 
@@ -830,4 +836,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1219, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09735
 
 Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 15 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2286, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12175
+
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 21 straipsnio pakeitimo įstatymas
 
