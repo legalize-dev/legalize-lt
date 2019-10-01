@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2019-07-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2020-06-14
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
 
@@ -234,7 +234,13 @@ Nr. XI-777, 2010-04-22, Žin. 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA0
 
 4) viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka perka socialines paslaugas savo teritorijos gyventojams;
 
-5) jeigu reikia, teisės aktų, reglamentuojančių valstybės ir savivaldybių turto valdymą, naudojimą ir disponavimą, nustatyta tvarka perduoda savivaldybei priklausančias patalpas socialinių paslaugų įstaigoms panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis;
+5) neteko galios 2019-10-01;
+
+TAR pastaba. Iki įstatymo Nr. XIII-2292 įsigaliojimo dienos (2019-10-01) sudarytos terminuotos savivaldybės turto panaudos sutartys galioja iki jų pabaigos dienos. Įsigaliojus šiam įstatymui, savivaldybės turto panaudos davėjai, Lietuvos Respublikos civilinio kodekso nustatyta tvarka įspėję panaudos gavėjus, nutraukia visas neterminuotas savivaldybės turto panaudos sutartis.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2292, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12180
 
 6) steigia, pertvarko, reorganizuoja ir likviduoja socialinių paslaugų įstaigas bei užtikrina jų funkcionavimą;
 
@@ -1157,6 +1163,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
 
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19 ir 31 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2292, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12180
+
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 13 straipsnio pakeitimo įstatymas
 
 141 straipsnis. Lietuvos statistikos departamento kompetencija
 
