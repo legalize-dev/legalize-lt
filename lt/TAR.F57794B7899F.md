@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2019-09-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -78,7 +78,7 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 8. Elektros energija – aktyvioji elektros energija, kuria teisės aktų nustatyta tvarka prekiaujama tarp elektros energijos rinkos dalyvių ir kuri yra skirta galutiniam suvartojimui, patiekiant ją kaip prekę vartotojui.
 
-9. Elektros energiją iš atsinaujinančių energijos išteklių gaminantis vartotojas (toliau – gaminantis vartotojas) – elektros energijos vartotojas, gaminantis elektros energiją iš atsinaujinančių energijos išteklių savo reikmėms ir ūkio poreikiams tenkinti ir turintis teisę pagamintą, bet savo reikmėms ir ūkio poreikiams nesuvartotą elektros energiją patiekti į elektros tinklus Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka.
+9. Elektros energiją iš atsinaujinančių išteklių gaminantis vartotojas (toliau – gaminantis vartotojas) – elektros energijos vartotojas ar kitas asmuo, gaminantys elektros energiją iš atsinaujinančių išteklių elektros energijos gamybos įrenginiuose, valdomuose nuosavybės teise ar kitais teisėtais pagrindais, savo reikmėms ir ūkio poreikiams tenkinti ir turintys teisę pagamintą, bet savo reikmėms ir ūkio poreikiams nesuvartotą elektros energiją patiekti į elektros tinklus Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka.
 
 Papildyta straipsnio dalimi:
 
@@ -87,6 +87,8 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+
+Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
 
 10. Elektros energijos birža (toliau – elektros birža) – didmeninės prekybos elektros energija sistema, organizuojama elektros biržos operatoriaus Prekybos elektros energija taisyklėse nustatyta tvarka ir sąlygomis.
 
@@ -2607,6 +2609,12 @@ Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 5) gamintojai apmoka 100 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį, išskyrus atvejus, kai kituose įstatymuose nustatyta kitaip;
 
 6) likusios sąnaudos, kurių neapmoka vartotojas ar gamintojas, yra pripažįstamos skirstomųjų tinklų operatoriaus tinklų plėtros išlaidomis. Skirstomųjų tinklų operatoriaus sąnaudų apskaita tvarkoma ir kontrolė vykdoma šio įstatymo 68 straipsnyje nustatyta tvarka.
+
+71. Tinklų operatorių sąnaudos, susijusios su gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, elektros įrenginių prijungimu prie elektros tinklų, paskirstomos tarp gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, ir tinklų operatoriaus Atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka ir sąlygomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
 
 8. Vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 10 MW ir kurių elektros įrenginiams prijungti prie elektros tinklo reikia pastatyti naujus elektros perdavimo tinklus, ir kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su perdavimo sistemos operatoriumi, pastatyti šiuos elektros tinklus ir organizuoti jų statybos darbus, apmoka 100 procentų perdavimo tinklų statybos sąnaudų. Atlikti perdavimo tinklo statybos darbai laikomi vartotojo elektros įrenginių prijungimo prie perdavimo tinklo paslaugos dalimi ir šie vartotojų lėšomis vartotojų pastatyti perdavimo tinklai yra perdavimo sistemos operatoriaus nuosavybė. Prie šių perdavimo tinklų prijungiant kitų vartotojų įrenginius, už jų statybą ir (ar) naudojimą šiuos perdavimo tinklus pastačiusiems vartotojams neatlyginama.
 
