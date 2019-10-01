@@ -4,7 +4,7 @@ identifier: "TAR.2E8452AA51C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-09-19"
-last_updated: "2018-03-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E8452AA51C0"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešojo saugumo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 102-3935, i. k. 1061010ISTA000X-813
 
@@ -61,17 +61,31 @@ Nr. XII-2371, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14174
 
 6. Sulaikymas – Tarnybos funkcijas atliekančio Tarnybos pareigūno veiksmai, kuriais fiziškai apribojama nusikalstamos veikos padarymu įtariamo asmens ar ją padariusio asmens, pabėgusio iš laisvės atėmimo vietos ar konvojavimo metu, taip pat atsisakančio įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, laisvė siekiant nutraukti neteisėtus veiksmus ir perduoti tą asmenį policijos ar kitų kompetentingų įstaigų pareigūnams.
 
-7. Tarnybos teritorija – valstybinės žemės sklypai, kuriuose įrengta stacionari kovinio mokymo ir pratybų infrastruktūra, vykdomas Tarnybos pareigūnų specialusis rengimas atkurti ir (ar) užtikrinti viešąją tvarką ypatingų ir ekstremaliųjų situacijų atvejais ir pratybos ginkluotųjų pajėgų sudėtyje ginti valstybę (krašto apsaugos tikslais).
+7. Svarbus valstybės objektas – nacionaliniam saugumui užtikrinti svarbi įmonė, įrenginys ir (ar) turtas, taip pat Lietuvos Respublikos valstybės ar savivaldybės institucijos ar įstaigos pastatas, teritorija, infrastruktūra ar kitas objektas, kurių sunaikinimas, pažeidimas ar veiklos sutrikdymas sukeltų grėsmę nacionaliniam saugumui ar pažeistų valstybės interesus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2157, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09410
+
+8. Tarnybos teritorija – valstybinės žemės sklypai, kuriuose įrengta stacionari kovinio mokymo ir pratybų infrastruktūra, vykdomas Tarnybos pareigūnų specialusis rengimas atkurti ir (ar) užtikrinti viešąją tvarką ypatingų ir ekstremaliųjų situacijų atvejais ir pratybos ginkluotųjų pajėgų sudėtyje ginti valstybę (krašto apsaugos tikslais).
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
 
-8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos vidaus tarnybos statute (toliau – Vidaus tarnybos statutas), Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos policijos įstatyme ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2157, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09410
+
+9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme ir Lietuvos Respublikos vidaus tarnybos statute.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2371, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14174
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2157, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09410
 
 3 straipsnis. Tarnybos teisinė forma ir veiklos teisiniai pagrindai
 
@@ -508,6 +522,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1014, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01027
 
 Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 14 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2157, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09410
+
+Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 2 straipsnio pakeitimo įstatymas
 
 201 straipsnis. Tarnybos teritorija
 
