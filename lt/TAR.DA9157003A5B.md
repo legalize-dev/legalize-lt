@@ -4,7 +4,7 @@ identifier: "TAR.DA9157003A5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-18"
-last_updated: "2011-01-01"
+last_updated: "2019-10-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DA9157003A5B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,15 @@ entry_into_force_conditions: "Įstatymo 4 straipsnio 1 dalies 2 ir 3 punktai, 16
 ---
 # Lietuvos Respublikos odontologų rūmų įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2019-09-30
+Įstatymas netenka galios 2020-05-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2642, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20814
+
+Lietuvos Respublikos odontologų rūmų įstatymo Nr. IX-1929 pripažinimo netekusiu galios įstatymas
+
+Suvestinė redakcija nuo 2019-10-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-35, i. k. 1031010ISTA0IX-1929
 
@@ -369,7 +377,13 @@ RŪMŲ TURTAS
 
 7) kitas teisėtai įgytas turtas ir lėšos.
 
-2. Rūmai turi teisę gauti valstybės turtą panaudos sutarties pagrindu
+2. Neteko galios 2019-10-01.
+
+TAR pastaba. Iki įstatymo Nr. XIII-2288 įsigaliojimo dienos (2019-10-01) sudarytos terminuotos valstybės turto panaudos sutartys galioja iki jų pabaigos dienos. Įsigaliojus šiam įstatymui, valstybės turto panaudos davėjai, Lietuvos Respublikos civilinio kodekso nustatyta tvarka įspėję panaudos gavėjus, nutraukia visas neterminuotas valstybės turto panaudos sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2288, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12177
 
 ŠEŠTASIS SKIRSNIS
 
