@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2019-01-02"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2019-01-02 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2020-08-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -231,7 +231,11 @@ VALSTYBĖS IR SAVIVALDYBIŲ TURTO ĮGIJIMAS
 
 10) kitais įstatymų nustatytais būdais.
 
-2. Vyriausybė nustato konfiskuoto, bešeimininkio, valstybės paveldėto, į valstybės pajamas paimto ar perduoto turto, daiktinių įrodymų, radinių ir valstybei priklausančių lobių perdavimo, apskaitos, įkainojimo, saugojimo, realizavimo, grąžinimo ir šio turto, pripažinto atliekomis, nurašymo tvarką.
+2. Vyriausybė nustato konfiskuoto, bešeimininkio, valstybės paveldėto, į valstybės pajamas paimto ar perduoto turto, daiktinių įrodymų, radinių ir valstybei priklausančių lobių (toliau – valstybės perimtinas turtas) perdavimo, apskaitos, įkainojimo, saugojimo, realizavimo ir atsiskaitymo, grąžinimo ir šio turto, pripažinto atliekomis, nurašymo tvarką. Valstybės perimtiną turtą, atsižvelgiant į turto rūšis, realizuoja Valstybinė mokesčių inspekcija ir kitos įstatymuose nustatytos valstybės institucijos šio ir kitų įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 6 straipsnis. Savivaldybių turto įgijimo būdai
 
@@ -239,7 +243,11 @@ Savivaldybė turtą įgyja:
 
 1) perimdama valstybės turtą, kuris perduodamas savivaldybių nuosavybėn pagal įstatymus;
 
-2) savivaldybės tarybos sutikimu perimdama valstybės turtą savivaldybių savarankiškosioms funkcijoms įgyvendinti, kai šis turtas perduodamas savivaldybių nuosavybėn pagal Vyriausybės nutarimus;
+2) savivaldybės tarybos sutikimu perimdama valstybės turtą savivaldybių savarankiškosioms funkcijoms įgyvendinti, kai šis turtas perduodamas savivaldybių nuosavybėn pagal Vyriausybės nutarimus šio įstatymo 20 straipsnio 1 dalies 4, 5 ir 6 punktuose nustatytais atvejais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 3) įstatymų nustatyta tvarka gaudama pajamų iš mokesčių, rinkliavų ir kitų įmokų;
 
@@ -303,7 +311,11 @@ Valstybės ir savivaldybių turtas turi būti valdomas, naudojamas ir juo dispon
 
 3. Šio straipsnio 2 dalyje nurodyti subjektai turi teisę priimti sprendimus, susijusius su valstybės turto valdymu, naudojimu ir disponavimu juo, išskyrus sprendimus, susijusius su turto perleidimu kitų asmenų nuosavybėn ar su daiktinių teisių suvaržymu, jeigu Lietuvos Respublikos įstatymai nenustato kitaip. Subjektas, turintis teisę priimti sprendimus dėl valstybės turto perdavimo patikėjimo teise, savo sprendime dėl valstybės turto perdavimo patikėjimo teise turi teisę nustatyti ir kitas patikėto turto valdymo, naudojimo ir disponavimo juo sąlygas.
 
-4. Kitiems juridiniams asmenims valstybės turtas patikėjimo teise gali būti perduotas pagal turto patikėjimo sutartį tik tais atvejais, kai įstatymai jiems priskiria valstybines funkcijas. Sprendimą dėl turto perdavimo patikėjimo teise kitiems juridiniams asmenims priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį. Kiti juridiniai asmenys, kuriems valstybės turtas perduotas pagal turto patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims naudotis kitu būdu. Šis turtas gali būti naudojamas tik įstatymų jiems priskirtoms valstybinėms funkcijoms įgyvendinti. Turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. Turto patikėjimo sutartis pasibaigia Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) nustatytais atvejais. Turto patikėjimo sutartį sudariusi valstybės institucija ar įstaiga privalo atsisakyti patikėjimo sutarties vadovaudamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jeigu juridinis asmuo (patikėtinis) nebegali įgyvendinti (ar atsisako) valstybinių funkcijų, kurioms įgyvendinti pagal patikėjimo sutartį buvo perduotas turtas. Turto patikėjimo sutartį sudariusi valstybės institucija ar įstaiga privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Pasibaigus turto patikėjimo sutarčiai, turtą patikėjimo teise valdo, naudoja ir disponuoja juo sutartį pasirašiusi valstybės institucija ar įstaiga, jeigu Vyriausybė nenustato kitaip.
+4. Kitiems, šio straipsnio 2 dalyje nenurodytiems, juridiniams asmenims valstybės turtas patikėjimo teise gali būti perduotas pagal turto patikėjimo sutartį tik tais atvejais, kai įstatymai jiems priskiria valstybines funkcijas. Sprendimą dėl turto perdavimo patikėjimo teise kitiems juridiniams asmenims priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį, juridinis asmuo, pagal įstatymus galintis atlikti valstybines funkcijas, sutarties galiojimo terminas, kuris negali būti ilgesnis kaip 20 metų, jeigu įstatymai nenustato kitaip. Kiti juridiniai asmenys, kuriems valstybės turtas perduotas pagal turto patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims naudotis kitu būdu. Šis turtas gali būti naudojamas tik įstatymų jiems priskirtoms valstybinėms funkcijoms įgyvendinti. Turto patikėjimo sutartyje gali būti nustatyti ir kiti, šioje dalyje nenurodyti, Vyriausybės sprendime nustatyti patikėjimo teisės subjekto (patikėtinio) teisių dėl turto valdymo, naudojimo ir disponavimo juo apribojimai. Turto patikėjimo sutartis pasibaigia Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) nustatytais atvejais. Turto patikėjimo sutartį sudariusi valstybės institucija ar įstaiga privalo atsisakyti patikėjimo sutarties vadovaudamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jeigu juridinis asmuo (patikėtinis) nebegali (ar atsisako) įgyvendinti valstybinių funkcijų, kurioms įgyvendinti pagal patikėjimo sutartį buvo perduotas turtas. Turto patikėjimo sutartį sudariusi valstybės institucija ar įstaiga privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Pasibaigus turto patikėjimo sutarčiai, turtą patikėjimo teise valdo, naudoja ir disponuoja juo sutartį pasirašiusi valstybės institucija ar įstaiga, jeigu Vyriausybė nenustato kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 5. Patikėjimo teisė į perduodamą valstybės turtą atsiranda nuo turto perdavimo patikėjimo teisės subjektui (patikėtiniui) ir turto perdavimo–priėmimo akto pasirašymo.
 
@@ -319,13 +331,17 @@ Valstybės ir savivaldybių turtas turi būti valdomas, naudojamas ir juo dispon
 
 12 straipsnis. Savivaldybių turto valdymas, naudojimas ir disponavimas juo
 
-1. Savivaldybėms nuosavybės teise priklausančio turto savininko funkcijas, vadovaudamosi įstatymais, įgyvendina savivaldybių tarybos.
+1. Savivaldybėms nuosavybės teise priklausančio turto savininko funkcijas, vadovaudamosi įstatymais, įgyvendina savivaldybių tarybos. Savivaldybei nuosavybės teise priklausantis turtas patikėjimo teise valdyti, naudoti ir disponuoti juo perduodamas savivaldybės tarybos nustatyta tvarka.
 
-2. Kitos savivaldybių institucijos, savivaldybės įmonės, įstaigos ir organizacijos joms patikėjimo teise perduotą savivaldybių turtą valdo, naudoja ir disponuoja juo pagal įstatymus savivaldybių tarybų sprendimuose nustatyta tvarka.
+2. Savivaldybių turtą patikėjimo teise valdo, naudoja ir disponuoja juo savivaldybių institucijos, įstaigos ir organizacijos, savivaldybių įmonės pagal įstatymus savivaldybių tarybų sprendimuose nustatyta tvarka. Šioje dalyje nurodyti savivaldybių turto patikėjimo teisės subjektai turi teisę priimti sprendimus, susijusius su savivaldybių turto valdymu, naudojimu ir disponavimu juo, išskyrus sprendimus, susijusius su šio turto perleidimu kitų asmenų nuosavybėn ar su daiktinių teisių suvaržymu, jeigu kiti įstatymai nenustato kitaip.
 
-3. Kitiems juridiniams asmenims savivaldybių turtas patikėjimo teise gali būti perduodamas pagal turto patikėjimo sutartį savivaldybių funkcijoms įgyvendinti ir tik tais atvejais, kai šie juridiniai asmenys pagal įstatymus gali atlikti savivaldybių funkcijas. Sprendimą dėl turto perdavimo patikėjimo teise kitiems juridiniams asmenims priima savivaldybės taryba. Tokiame sprendime turi būti nurodyta savivaldybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį, ir juridinis asmuo, pagal įstatymus galintis atlikti savivaldybių funkcijas. Kiti juridiniai asmenys, kuriems savivaldybės turtas perduotas pagal turto patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims naudotis kitu būdu. Šis turtas gali būti naudojamas tik savivaldybių funkcijoms įgyvendinti. Turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. Savivaldybės institucija ar įstaiga, sudariusi turto patikėjimo sutartį, privalo prižiūrėti, kad turto patikėjimo sutartis būtų tinkamai vykdoma. Turto patikėjimo sutartis pasibaigia Civilinio kodekso nustatytais atvejais. Sutartį sudariusi savivaldybės institucija ar įstaiga privalo atsisakyti patikėjimo sutarties vadovaudamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jeigu juridinis asmuo (patikėtinis) nebegali (ar atsisako) įgyvendinti savivaldybių funkcijų, kurioms įgyvendinti pagal turto patikėjimo sutartį buvo perduotas savivaldybės turtas. Pasibaigus turto patikėjimo sutarčiai, turtą patikėjimo teise valdo, naudoja ir disponuoja juo sutartį pasirašiusi savivaldybės institucija ar įstaiga, jeigu savivaldybės taryba nenustato kitaip.
+3. Kitiems, šio straipsnio 2 dalyje nenurodytiems, juridiniams asmenims savivaldybių turtas patikėjimo teise gali būti perduodamas pagal turto patikėjimo sutartį savivaldybių funkcijoms įgyvendinti tik tais atvejais, kai šie juridiniai asmenys pagal įstatymus gali atlikti savivaldybių funkcijas. Sprendimą dėl turto perdavimo patikėjimo teise kitiems juridiniams asmenims priima savivaldybės taryba. Tokiame sprendime turi būti nurodyta savivaldybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį, juridinis asmuo, pagal įstatymus galintis atlikti savivaldybių funkcijas, sutarties galiojimo terminas, kuris negali būti ilgesnis kaip 20 metų, jeigu įstatymai nenustato kitaip. Kiti juridiniai asmenys, kuriems savivaldybės turtas perduotas pagal turto patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims naudotis kitu būdu. Šis turtas gali būti naudojamas tik savivaldybių funkcijoms įgyvendinti. Turto patikėjimo sutartyje gali būti nustatyti ir kiti, šioje dalyje nenurodyti, savivaldybės tarybos sprendime nustatyti patikėjimo teisės subjekto (patikėtinio) teisių dėl turto valdymo, naudojimo ir disponavimo juo apribojimai. Savivaldybės institucija ar įstaiga, sudariusi turto patikėjimo sutartį, privalo prižiūrėti, kad turto patikėjimo sutartis būtų tinkamai vykdoma. Turto patikėjimo sutartis pasibaigia Civilinio kodekso nustatytais atvejais. Turto patikėjimo sutartį sudariusi savivaldybės institucija ar įstaiga privalo atsisakyti patikėjimo sutarties vadovaudamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jeigu juridinis asmuo (patikėtinis) nebegali (ar atsisako) įgyvendinti savivaldybių funkcijų, kurioms įgyvendinti pagal turto patikėjimo sutartį buvo perduotas savivaldybės turtas. Pasibaigus turto patikėjimo sutarčiai, turtą patikėjimo teise valdo, naudoja ir disponuoja juo sutartį pasirašiusi savivaldybės institucija ar įstaiga, jeigu savivaldybės taryba nenustato kitaip.
 
 4. Patikėjimo teisė į perduodamą savivaldybės turtą atsiranda nuo turto perdavimo patikėjimo teisės subjektui (patikėtiniui) ir turto perdavimo–priėmimo akto pasirašymo.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 13 straipsnis. Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respublikos heraldikos objektais
 
@@ -333,119 +349,107 @@ Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respubliko
 
 14 straipsnis. Valstybės ir savivaldybių turto panauda
 
-1. Valstybės ir savivaldybių turtas gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis atitinkamai Vyriausybės arba savivaldybės tarybos nustatyta tvarka šiems subjektams:
+1. Valstybės ir savivaldybių turtas, išskyrus centralizuotai valdyti perduotą valstybės nekilnojamąjį turtą, gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis atitinkamai Vyriausybės arba savivaldybės tarybos nustatyta tvarka šiems subjektams:
 
 1) biudžetinėms įstaigoms;
 
-2) viešosioms įstaigoms, kai bent vienas iš jų dalininkų yra valstybė ar savivaldybė, kurioms atstovauja valstybės ar savivaldybės institucija, taip pat viešosioms įstaigoms – mokykloms ir viešosioms įstaigoms, tenkinančioms visuomenės interesą muziejų sistemoje;
+2) viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą laikomos viešojo sektoriaus subjektais;
 
-3) socialinės įmonės statusą turintiems juridiniams asmenims;
+3) asociacijoms (tik šio straipsnio 2 dalyje nustatytiems veiklos tikslams);
 
-4) asociacijoms (tik šio straipsnio 2 dalyje nustatytais atvejais);
+4) labdaros ir paramos fondams (tik šio straipsnio 2 dalyje nustatytiems veiklos tikslams);
 
-Straipsnio punkto pakeitimai:
+5) egzilio sąlygomis veikiančioms aukštosioms mokykloms;
 
-Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+6) kitiems subjektams, jeigu tokio perdavimo tvarka ir sąlygos nustatytos Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos šeimynų įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme, tarptautinėse sutartyse ar tarptautiniuose susitarimuose.
 
-5) politinėms partijoms;
+2. Valstybės ir savivaldybių turtas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas asociacijoms ir labdaros ir paramos fondams, kurių pagrindinis veiklos tikslas yra bent vienas iš šių tikslų:
 
-6) Juridinių asmenų registre registruotiems profesinių sąjungų susivienijimams (tik šio straipsnio 2 dalyje nustatytais atvejais);
+1) užtikrinti vaiko ir (ar) šeimos gerovės ir (arba) vaiko teisių apsaugą;
 
-7) labdaros ir paramos fondams (tik šio straipsnio 2 dalyje nustatytais atvejais);
+2) teikti pagalbą nusikaltimų aukoms ir (arba) smurtą artimoje aplinkoje patyrusiems asmenims;
 
-Papildyta straipsnio punktu:
+3) užtikrinti neįgaliųjų ar kitų socialinę atskirtį patiriančių asmenų grupių (prekybos žmonėmis aukų, asmenų, turinčių psichikos ir elgesio sutrikimų dėl psichoaktyviųjų medžiagų vartojimo, nuteistųjų ir asmenų, paleistų iš laisvės atėmimo vietų, bei kitoms socialinę atskirtį patiriančių asmenų grupėms priklausančių asmenų) ir užsieniečių socialinę integraciją;
 
-Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+4) teikti pagalbą ir (arba) socialines paslaugas asmenims, dėl amžiaus, neįgalumo ar kitų socialinių problemų negalintiems pasirūpinti savo asmeniniu gyvenimu ir dalyvauti visuomenės gyvenime ar patiriantiems skurdą ir socialinę atskirtį;
 
-8) kitiems subjektams, jeigu tai nustatyta įstatymuose, tarptautinėse sutartyse ar tarptautiniuose susitarimuose.
+5) teikti pagalbą, sietiną su pacientų teisių gynimu, organizuoti ir teikti ligų prevencijos paslaugas;
 
-Straipsnio punkto numeracijos pakeitimas:
+6) teikti pagalbą, sietiną su užimtumo arba socialinės integracijos per vaikų ir suaugusiųjų neformalųjį švietimą ir kultūrinę veiklą skatinimu;
 
-Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+7) tenkinti gyvenamosios vietovės bendruomenės viešuosius poreikius. Šį veiklos tikslą įgyvendinančiai asociacijai panaudos pagrindais gali būti perduotas tik savivaldybės turtas;
 
-2. Valstybės ir savivaldybės turtas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik toms asociacijoms, kurių pagrindinis veiklos tikslas – teikti naudą visuomenei ar jos daliai socialinėje arba valstybės nacionalinio saugumo stiprinimo srityse. Valstybės ir savivaldybės nekilnojamasis turtas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik tiems labdaros ir paramos fondams, kurių pagrindinis veiklos tikslas – teikti naudą visuomenei ar jos daliai socialinėje arba valstybės nacionalinio saugumo stiprinimo srityse. Asociacijų ir labdaros ir paramos fondų veiklas, kurios priskiriamos socialinei arba valstybės nacionalinio saugumo sričiai, nustato Lietuvos Respublikos Vyriausybė. Profesinių sąjungų susivienijimams panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik savivaldybės nekilnojamasis turtas.
+8) tenkinti žmonių fizinio aktyvumo poreikius per kūno kultūros ir sporto veiklos skatinimą;
 
-Straipsnio dalies pakeitimai:
+9) tenkinti etninės kultūros, meno kūrėjų ir kultūros darbuotojų poreikius per kultūros ir meno plėtros, kultūrinės edukacijos ar kultūros paveldo apsaugos veiklą.
 
-Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+3. Valstybės ir savivaldybių turtas šio straipsnio 1 dalies 2–5 punktuose nurodytiems subjektams gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis, jeigu:
 
-Nr. XII-1986, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16909
+1) panaudos subjektas pagrindžia, kad prašomas panaudos pagrindais suteikti turtas reikalingas jo vykdomai veiklai (jeigu subjektas yra asociacija ar labdaros ir paramos fondas, – šio straipsnio 2 dalyje nustatytiems veiklos tikslams), dėl kurios turtas galėtų būti perduotas, ir jo naudojimo paskirtis atitinka šio subjekto steigimo dokumentuose nustatytus veiklos sritis ir tikslus;
 
-3. Valstybės ir savivaldybių turtas šio straipsnio 1 dalyje nurodytiems subjektams (išskyrus 1 ir 8 punktuose nurodytus subjektus) gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis, jeigu subjektai atitinka šiuos kriterijus:
+2) Vyriausybės nustatyta tvarka yra įvertintas poveikis konkurencijai ir atitiktis valstybės pagalbos reikalavimams.
 
-1) labdaros ir paramos fondas, asociacija, profesinių sąjungų susivienijimas ir jį sudarančios profesinės sąjungos ar politinė partija neturi nuosavybės teise priklausančio ar panaudos pagrindais perduoto laikinai neatlygintinai valdyti ir naudotis valstybės ar savivaldybės nekilnojamojo turto savivaldybėje, kurioje prašoma panaudos pagrindais suteikti nekilnojamąjį turtą;
+4. Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima Vyriausybė arba jos įgalioti turto valdytojai Vyriausybės nustatyta tvarka. Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija. Valstybės ir savivaldybių ilgalaikis materialusis turtas šio straipsnio 1 dalies 2–6 punktuose nurodytiems subjektams gali būti perduotas panaudos teise ne ilgesniam kaip 10 metų laikotarpiui, jeigu įstatymai nenustato kitaip. Sprendime turi būti nurodytas panaudos sutarties terminas ir turto panaudojimo paskirtis, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos sutartį. Valstybės ar savivaldybės turto panaudos sutartį su panaudos subjektais sudaro valstybės ar savivaldybės turto valdytojas.
 
-2) subjektas pagrindžia, kad panaudos pagrindais prašomas suteikti turtas reikalingas jo vykdomai veiklai, dėl kurios turtas galėtų būti perduotas, ir jo naudojimo paskirtis atitinka subjekto veiklos sritis ir tikslus, nustatytus jo steigimo dokumentuose;
-
-3) subjektas pagrindžia, kad jo veiklos rezultatai užtikrina naudą visuomenei ar jos daliai.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
-
-4. Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima Vyriausybė arba jos įgalioti turto valdytojai Vyriausybės nustatyta tvarka. Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija. Valstybės ir savivaldybių ilgalaikis materialusis turtas šio straipsnio 1 dalies 4–8 punktuose nurodytiems subjektams gali būti perduotas panaudos teise ne ilgesniam kaip 10 metų laikotarpiui, jeigu įstatymai nenustato kitaip. Sprendime turi būti nurodytas panaudos sutarties terminas ir turto panaudojimo paskirtis, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos sutartį. Prieš sudarydamas panaudos sutartį panaudos gavėjas turi pateikti rašytinį įsipareigojimą panaudos sutartyje numatytomis sąlygomis panaudoti savo lėšas perduoto nekilnojamojo daikto einamajam ir statinio kapitaliniam remontui, kito ilgalaikio materialiojo turto remontui atlikti. Savivaldybės tarybos įgaliota institucija sprendimus priima savivaldybės tarybos nustatyta tvarka. Valstybės ar savivaldybės turto panaudos sutartį su panaudos subjektais sudaro valstybės ar savivaldybės turto valdytojas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
-
-5. Valstybės ar savivaldybės turto panaudos sutartyje turi būti nustatyta pagal panaudos sutartį perduodamo turto naudojimo paskirtis, panaudos gavėjo pareiga savo lėšomis atlikti nekilnojamojo daikto einamąjį ir statinio kapitalinį remontą, kito ilgalaikio materialiojo turto remontą, apmokėti visas turto išlaikymo išlaidas, apdrausti gaunamą ilgalaikį materialųjį turtą ir kitos Civiliniame kodekse nustatytos panaudos sąlygos. Panaudos davėjas privalo nutraukti panaudos sutartį, jeigu panaudos gavėjas nevykdo veiklos, dėl kurios buvo perduotas valstybės ar savivaldybės turtas, arba šį turtą naudoja ne pagal paskirtį. Panaudos davėjas gali nutraukti panaudos sutartį, jeigu panaudos gavėjas nevykdo įsipareigojimų savo lėšomis atlikti nekilnojamojo daikto einamąjį ar statinio kapitalinį remontą arba kito ilgalaikio materialiojo turto remontą. Panaudos gavėjui, pagerinusiam pagal panaudos sutartį perduotą turtą, už pagerinimą neatlyginama.
+5. Valstybės ar savivaldybės turto panaudos sutartyje turi būti nustatyta pagal panaudos sutartį perduodamo turto naudojimo paskirtis, panaudos gavėjo pareiga savo lėšomis atlikti nekilnojamojo daikto einamąjį ar statinio kapitalinį remontą, kito ilgalaikio materialiojo turto remontą, apmokėti visas turto išlaikymo išlaidas ir kitos Civiliniame kodekse nustatytos panaudos sąlygos. Panaudos davėjas privalo nutraukti panaudos sutartį, jeigu panaudos gavėjas nevykdo veiklos, dėl kurios buvo perduotas valstybės ar savivaldybės turtas, arba šį turtą naudoja ne pagal paskirtį. Panaudos davėjas gali nutraukti panaudos sutartį, jeigu panaudos gavėjas nevykdo įsipareigojimų savo lėšomis atlikti nekilnojamojo daikto einamąjį ar statinio kapitalinį remontą arba kito ilgalaikio materialiojo turto remontą. Panaudos gavėjui, pagerinusiam pagal panaudos sutartį perduotą turtą, už turto pagerinimą neatlyginama.
 
 6. Asmenys, kuriems valstybės ir savivaldybių turtas perduotas neatlygintinai naudotis, negali jo išnuomoti ar kitaip perduoti naudotis tretiesiems asmenims.
 
-7. Šio straipsnio nuostatos netaikomos, kai valstybei nuosavybės teise priklausantis nekilnojamasis turtas suteikiamas pagal panaudos sutartį vadovaujantis šio įstatymo 18 straipsnio 5 dalimi ir 19 straipsnio 4 dalies 1 punktu.
+Straipsnio pakeitimai:
 
-8. Šio straipsnio 3 dalis netaikoma juridiniams asmenims, kurie vykdo Lietuvos Respublikos įstatymų pavestas funkcijas ir kurių turimo nekilnojamojo turto nepakanka ar  jis yra netinkamas vykdomai veiklai.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-2678, 2016-10-11, paskelbta TAR 2016-10-20, i. k. 2016-25456
-
-9. Valstybės ar savivaldybės turto panaudos gavėjas panaudos sutarties galiojimo laikotarpiu ne vėliau kaip per keturis mėnesius nuo kiekvienų kalendorinių metų pabaigos teikia šio turto valdytojui ataskaitą, kurioje nurodoma, kaip yra naudojamas panaudos pagrindais perduotas ilgalaikis materialusis turtas, kokią veiklą vykdo panaudos gavėjas, ar panaudos gavėjas vykdo įsipareigojimus savo lėšomis atlikti nekilnojamojo daikto einamąjį ar statinio kapitalinį remontą arba kito ilgalaikio materialiojo turto remontą, ar vykdomos kitos panaudos sutarties sąlygos.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-2678, 2016-10-11, paskelbta TAR 2016-10-20, i. k. 2016-25456
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 15 straipsnis. Valstybės ir savivaldybių ilgalaikio materialiojo turto nuoma
 
-1. Sprendimą dėl valstybės ilgalaikio materialiojo turto nuomos gali priimti valstybės turto valdytojas, jeigu tas ilgalaikis materialusis turtas:
+1. Sprendimą dėl valstybės ilgalaikio materialiojo turto nuomos gali priimti valstybės turto valdytojas, o sprendimą dėl savivaldybės ilgalaikio materialiojo turto nuomos – savivaldybės taryba ar jos įgaliota institucija, jeigu:
 
-1) neskirtas šalies gynybai ar saugumui užtikrinti;
+1) valstybės arba savivaldybės ilgalaikis materialusis turtas neskirtas šalies gynybai ar saugumui užtikrinti, išskyrus atvejus, kai turtas nuomojamas karinių pratybų ir kitų karinio bendradarbiavimo renginių metu;
 
-2) nenaudojamas valstybinėms funkcijoms įgyvendinti.
+2) valstybės arba savivaldybės ilgalaikis materialusis turtas nenaudojamas valstybinėms arba savivaldybių funkcijoms įgyvendinti.
 
-2. Valstybės ilgalaikis materialusis turtas išnuomojamas viešo konkurso būdu, išskyrus atvejus, kuriais Vyriausybės nustatyta tvarka ilgalaikį materialųjį turtą išnuomoja be konkurso:
+2. Valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas viešo nuomos konkurso būdu, išskyrus šiuos valstybės arba savivaldybės ilgalaikio materialiojo turto nuomos atvejus, kai toks turtas gali būti išnuomotas be konkurso, jeigu:
 
-1) Vyriausybė, vykdydama Lietuvos Respublikos tarptautines sutartis ar tarptautinius susitarimus, arba kai toks turtas išnuomojamas užsienio valstybių ambasadoms ar konsulinėms įstaigoms, taip pat tarptautinių organizacijų atstovybėms;
+1) valstybės ilgalaikis materialusis turtas Vyriausybės sprendimu išnuomojamas vykdant Lietuvos Respublikos tarptautines sutartis ar tarptautinius susitarimus arba toks turtas išnuomojamas užsienio valstybių ambasadoms ar konsulinėms įstaigoms, taip pat tarptautinių organizacijų atstovybėms;
 
-2) valstybės turto valdytojas, kai valstybės ilgalaikis materialusis turtas išnuomojamas neatidėliotinam darbui atlikti (avarijoms, stichinėms nelaimėms likviduoti ir panašiai) ar trumpalaikiam renginiui (parodoms, sporto renginiams, pasitarimams, seminarams, šventėms, kultūros renginiams, darbuotojų socialinėms reikmėms), kurio trukmė yra ne ilgesnė kaip 30 kalendorinių dienų, organizuoti;
+2) valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas neatidėliotinam darbui atlikti (avarijoms, stichinėms nelaimėms likviduoti ir panašiai) ar trumpalaikiam renginiui (parodoms, sporto varžyboms, pasitarimams, seminarams, šventėms, kultūros renginiams), kurio trukmė yra ne ilgesnė kaip 30 kalendorinių dienų, organizuoti;
 
-Straipsnio punkto pakeitimai:
+3) perkamos paslaugos, kurioms teikti bus naudojamas valstybės ar savivaldybių ilgalaikis ir trumpalaikis materialusis turtas, ir šis turtas išnuomojamas Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka vykdomo viešojo paslaugų pirkimo metu;
 
-Nr. XIII-1554, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17470
+4) bent 3 kartus neįvyksta valstybės arba savivaldybės ilgalaikio materialiojo turto viešas nuomos konkursas;
 
-3) valstybės turto valdytojas, kai perkamos paslaugos, kurioms teikti bus naudojamas valstybės ar savivaldybių ilgalaikis ir trumpalaikis materialusis turtas, ir kai šis turtas išnuomojamas Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka vykdomo viešojo paslaugų pirkimo metu.
+5) bendrosios nuosavybės teise valdomas valstybės arba savivaldybės nekilnojamasis turtas išnuomojamas šio turto bendraturčiams arba kai išnuomojamas valstybės arba savivaldybės nekilnojamasis turtas yra greta šio turto nuomininkams priklausančių ir (arba) jų naudojamų statinių;
 
-3. Valstybės ilgalaikis materialusis turtas gali būti išnuomotas ne ilgesniam kaip 10 metų laikotarpiui (įskaitant nuomos termino pratęsimą), jeigu įstatymai nenustato kitaip. Valstybės trumpalaikis materialusis turtas gali būti išnuomojamas kartu su valstybės ilgalaikiu materialiuoju turtu, jeigu tuo siekiama užtikrinti efektyvią valstybės ilgalaikio materialiojo turto nuomą.
+6) valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas pelno nesiekiantiems subjektams, kurių pagrindinis veiklos tikslas atitinka bent vieną iš šio įstatymo 14 straipsnio 2 dalyje nustatytų tikslų;
 
-4. Nuompinigių už valstybės ilgalaikio ir trumpalaikio materialiojo turto nuomą skaičiavimo taisykles nustato Vyriausybė arba jos įgaliota institucija.
+7) valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas subjektams Lietuvos Respublikos įstatymų numatytais atvejais.
 
-5. Nuompinigiai už valstybės ilgalaikio materialiojo turto, kurį patikėjimo teise valdo valstybės institucijos, įstaigos ir organizacijos, nuomą pervedami į Lietuvos Respublikos valstybės biudžetą. Nuompinigiai už valstybės turto, kurį patikėjimo teise arba patikėjimo teise pagal patikėjimo sutartį valdo valstybės įmonės, mokslo ir studijų institucijos ar kiti įstatymų nustatyti subjektai, kurie įstatymų nustatyta tvarka gali išnuomoti valstybei nuosavybės teise priklausantį ilgalaikį materialųjį turtą, pervedami į atitinkamų subjektų sąskaitas. Nuompinigiai už valstybės ilgalaikio materialiojo turto, įtraukto į Valstybinio socialinio draudimo fondo apskaitą, nuomą pervedami į Valstybinio socialinio draudimo fondo sąskaitą.
+3. Vyriausybė arba savivaldybės taryba nustato atitinkamai valstybės arba savivaldybės ilgalaikio materialiojo turto viešo nuomos konkurso ir nuomos be konkurso organizavimo ir vykdymo tvarką, kuria, be kita ko, reglamentuojama:
 
-6. Vyriausybė turi nustatyti viešo nuomos konkurso organizavimo taisykles, kuriose turi būti:
+1) viešo nuomos konkurso ir nuomos be konkurso organizavimo ir vykdymo tvarka;
 
-1) numatyta nuomos konkurso taikymo ir organizavimo tvarka;
+2) turto valdytojų pareigos organizuojant viešą nuomos konkursą ir nuomos be konkurso atveju;
 
-2) reglamentuotos valstybės turto valdytojo pareigos organizuojant nuomos konkursą;
+3) viešo nuomos konkurso nutraukimo tvarka ir pagrindai;
 
-3) nustatyti nuomos konkurso nutraukimo tvarka ir pagrindai;
+4) pavyzdinė nuomos sutarties, kurioje nustatytos nuomos sutarties sąlygos, forma.
 
-4) nustatyti pagrindiniai nuomos sutarties reikalavimai ir patvirtinta pavyzdinė nuomos sutartis.
+4. Valstybės ir savivaldybių nekilnojamojo turto viešas nuomos konkursas gali būti organizuojamas ir vykdomas informacinių technologijų priemonėmis Vyriausybės nustatyta tvarka.
 
-7. Nuomos sutartyje turi būti nustatyti Vyriausybės ar savivaldybės tarybos numatyto dydžio delspinigiai už nuomininko praleistą nuomos mokesčio mokėjimo terminą, jeigu kiti įstatymai nenustato ko kita. Jeigu nuomos sutartyje delspinigiai nenustatyti, nuomininkas moka 0,05 procento dydžio delspinigius už kiekvieną pavėluotą dieną. Nuomininkui, pagerinusiam išsinuomotą turtą, už pagerinimą neatlyginama.
+5. Valstybės arba savivaldybės ilgalaikis materialusis turtas gali būti išnuomotas ne ilgesniam kaip 10 metų laikotarpiui (įskaitant nuomos termino pratęsimą), išskyrus atvejus, kai įstatymai, tarptautinės sutartys ar tarptautiniai susitarimai nustato kitaip, taip pat atvejus, kai valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas įgyvendinant valstybei svarbius ekonominius projektus, nuomos laikotarpį nustatant atsižvelgus į projekto investicijų grąžą ir projekto veiklos pobūdį. Valstybės ir savivaldybės trumpalaikis materialusis turtas gali būti išnuomojamas kartu su valstybės ar savivaldybės ilgalaikiu materialiuoju turtu, jeigu tuo siekiama užtikrinti efektyvią valstybės ar savivaldybės ilgalaikio materialiojo turto nuomą.
 
-8. Savivaldybei nuosavybės teise priklausantis materialusis turtas išnuomojamas savivaldybės tarybos nustatyta tvarka.
+6. Vyriausybė arba jos įgaliota institucija, savivaldybės taryba nustato atitinkamai nuompinigių už valstybės ar savivaldybės ilgalaikio ir trumpalaikio materialiojo turto nuomą skaičiavimo tvarką.
+
+7. Nuompinigiai už valstybės ilgalaikio ir trumpalaikio materialiojo turto, kurį patikėjimo teise valdo valstybės institucijos, įstaigos ir organizacijos, nuomą pervedami į valstybės biudžetą. Nuompinigiai už valstybės turto, kurį patikėjimo teise valdo valstybės įmonės arba patikėjimo teise pagal patikėjimo sutartį valdo mokslo ir studijų institucijos ar kiti įstatymų nustatyti subjektai, kurie įstatymų nustatyta tvarka turi teisę išnuomoti valstybei nuosavybės teise priklausantį ilgalaikį ir trumpalaikį materialųjį turtą, nuomą pervedami į atitinkamų subjektų sąskaitas. Nuompinigiai už valstybės ilgalaikio ir trumpalaikio materialiojo turto, įtraukto į Valstybinio socialinio draudimo fondo apskaitą, nuomą pervedami į Valstybinio socialinio draudimo fondo sąskaitą.
+
+8. Nuompinigiai už savivaldybės ilgalaikio ir trumpalaikio materialiojo turto, kurį patikėjimo teise valdo savivaldybės institucijos, įstaigos ir organizacijos, nuomą pervedami į savivaldybės biudžetą, o už turto, kurį patikėjimo teise valdo savivaldybės įmonės, nuomą – į šių įmonių sąskaitas.
+
+9. Nuomos sutartyje turi būti nustatyti Vyriausybės ar savivaldybės tarybos numatyto dydžio delspinigiai už nuomininko praleistą nuomos mokesčio mokėjimo terminą, jeigu kiti įstatymai nenustato kitaip. Jeigu nuomos sutartyje delspinigiai nenustatyti, nuomininkas moka 0,05 procento dydžio delspinigius už kiekvieną pavėluotą dieną. Nuomininkui, pagerinusiam išsinuomotą turtą, už turto pagerinimą neatlyginama.
+
+10. Šio straipsnio nuostatos netaikomos, kai valstybei nuosavybės teise priklausantis nekilnojamasis turtas išnuomojamas vadovaujantis šio įstatymo 19 straipsnio 4 dalies 1 punktu.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 16 straipsnis. Valstybės ir savivaldybių turto apskaita, valstybei ir savivaldybėms nuosavybės teise priklausančio turto valdymo, naudojimo ir disponavimo juo ataskaitos
 
@@ -455,9 +459,19 @@ Nr. XIII-1554, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17470
 
 3. Savivaldybei nuosavybės teise priklausančio turto valdymo, naudojimo ir disponavimo juo ataskaitą rengia savivaldybės administracija savivaldybės tarybos nustatyta tvarka.
 
-4. Valstybei ir savivaldybėms nuosavybės teise priklausantis registruotinas turtas turi būti teisės aktų nustatyta tvarka registruojamas viešuosiuose registruose.
+4. Valstybei ir savivaldybėms nuosavybės teise priklausantis registruotinas turtas, su šiuo turtu, daiktinėmis teisėmis į jį ir su šių teisių suvaržymais susiję juridiniai faktai teisės aktų nustatyta tvarka registruojami viešuosiuose registruose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 5. Valdant, naudojant valstybei nuosavybės teise priklausantį turtą ir disponuojant juo, taip pat rengiant valstybei nuosavybės teise priklausančio turto valdymo, naudojimo ir disponavimo juo ataskaitą, naudojamasi valstybės turto informacine paieškos sistema, kuri steigiama, kuriama ir valdoma Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka. Valstybės turto informacinės paieškos sistemos tvarkytojas yra centralizuotai valdomo valstybės turto valdytojas.
+
+6. Informacija apie valstybės nekilnojamojo turto panaudos, nuomos,  pirkimo–pardavimo, patikėjimo sutartis Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka skelbiama valstybės turto informacinėje paieškos sistemoje. Informacija apie savivaldybių turto panaudos, nuomos, pirkimo–pardavimo, patikėjimo sutartis (nekilnojamojo turto adresas, unikalus numeris, plotas, sutarties šalys, sutarties sudarymo ir galiojimo data, sutarties kaina, teisinis pagrindas, kuriuo vadovaujantis priimtas sprendimas dėl sutarties sudarymo) skelbiama savivaldybės interneto svetainėje ne vėliau kaip per tris mėnesius nuo sutarties sudarymo dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 17 straipsnis. Valstybės ir savivaldybių reikmėms įgytas turtas
 
@@ -465,83 +479,105 @@ Nr. XIII-1554, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17470
 
 2. Savivaldybės įmonės, įstaigos ir organizacijos, įstatymų nustatyta tvarka įgijusios turtą savivaldybės nuosavybėn, jį valdo, naudoja ir disponuoja juo patikėjimo teise. Įgytas turtas nuosavybės teise priklauso savivaldybei.
 
-18 straipsnis. Valstybės nekilnojamojo turto atnaujinimas
+18 straipsnis. Neteko galios nuo 2019-10-01
 
-1. Valstybės nekilnojamasis turtas, reikalingas valstybinėms funkcijoms įgyvendinti, gali būti atnaujinamas laikantis šiame įstatyme nustatytų principų.
+Straipsnio naikinimas:
 
-2. Valstybės nekilnojamasis turtas gali būti atnaujinamas, kai jis neatitinka valstybės įstaigų ar organizacijų poreikių įgyvendinant valstybines funkcijas. Turtas gali būti atnaujinamas jį rekonstruojant, remontuojant arba įsigyjant (perkant, statant) naują nekilnojamąjį turtą. Valstybės nekilnojamasis turtas atnaujinamas įsigyjant naują nekilnojamąjį turtą tuo atveju, kai turimą valstybės nekilnojamąjį turtą netikslinga atnaujinti remontuojant ar rekonstruojant. Atnaujinant valstybės nekilnojamąjį turtą rekonstrukcijos būdu ar atliekant remontą, aukciono būdu gali būti parduodamas valstybės nekilnojamasis turtas, kuris į Vyriausybės patvirtintą Atnaujinamo valstybės nekilnojamojo turto sąrašą įtrauktas kaip valstybės turto valdytojų poreikių įgyvendinant valstybines funkcijas neatitinkantis parduodamas nekilnojamasis turtas.
-
-3. Valstybės nekilnojamasis turtas atnaujinamas pagal Vyriausybės patvirtintą Atnaujinamo valstybės nekilnojamojo turto sąrašą. Atnaujinamo valstybės nekilnojamojo turto sąrašo sudarymo tvarką nustato Vyriausybė.
-
-4. Valstybės nekilnojamojo turto atnaujinimo organizavimo ir koordinavimo funkcijas įgyvendina centralizuotai valdomo valstybės turto valdytojas.
-
-5. Atnaujinant valstybės nekilnojamąjį turtą, centralizuotai valdomo valstybės turto valdytojas, valstybės turto valdytojas ir valstybės biudžeto asignavimų valdytojas, jeigu valstybės turto valdytojas nėra valstybės biudžeto asignavimų valdytojas, sudaro susitarimą. Šiame susitarime turi būti nurodyta:
-
-1) kad valstybės turto valdytojas, centralizuotai valdomo valstybės turto valdytojui perduodantis nekilnojamąjį turtą patikėjimo teise (jeigu reikalinga), šiuo ar kitu suteikiamu valstybinėms funkcijoms įgyvendinti reikalingu nekilnojamuoju turtu naudosis panaudos teisėmis tol, kol atnaujintas nekilnojamasis turtas jam bus perduotas patikėjimo teise; taip pat panaudos gavėjo pareiga apdrausti nekilnojamąjį turtą ir aptartos kitos panaudos sąlygos ir tvarka;
-
-2) centralizuotai valdomo valstybės turto valdytojui perduodamo valstybės nekilnojamojo turto atnaujinimo terminai;
-
-3) centralizuotai valdomo valstybės turto valdytojo veiksmai atnaujinant perduotą valstybės nekilnojamąjį turtą, taip pat kaip susitarimo šalys pasiskirsto funkcijas atnaujinant valstybės nekilnojamąjį turtą;
-
-4) kiek tikslinės paskirties, skolintų lėšų susitarimo šalys įdės įgyvendindamos valstybės nekilnojamojo turto atnaujinimo investicinį projektą;
-
-5) valstybės nekilnojamajam turtui atnaujinti reikalingo papildomo finansavimo šaltiniai (jeigu reikalinga);
-
-6) centralizuotai valdomo valstybės turto valdytojui mokamas atlygis už valstybės nekilnojamojo turto atnaujinimo organizavimą;
-
-7) kaip bus atsiskaitoma su centralizuotai valdomo valstybės turto valdytoju už savų ar skolintų lėšų panaudojimą atnaujinant valstybės nekilnojamąjį turtą.
-
-6. Šio straipsnio 5 dalyje nurodytam susitarimui turi pritarti centralizuotai valdomo valstybės turto valdytojo valdyba. Jeigu valdyba susitarimui nepritaria, centralizuotai valdomo valstybės turto valdytojas turi teisę sprendimo dėl pritarimo susitarimui projektą teikti svarstyti Vyriausybei. Vyriausybės sprendimas yra galutinis.
-
-7. Valstybės nekilnojamojo turto, kuris įtrauktas į Vyriausybės patvirtintą Atnaujinamo valstybės nekilnojamojo turto sąrašą, valdytojas po šio straipsnio 5 dalyje nurodyto susitarimo sudarymo savo sprendimu perduoda turtą centralizuotai valdomo valstybės turto valdytojui patikėjimo teise (jeigu reikalinga). Jeigu valstybės nekilnojamasis turtas atnaujinamas įsigyjant naują nekilnojamąjį turtą, šį turtą patikėjimo teise valdo centralizuotai valdomo valstybės turto valdytojas, jeigu Vyriausybė nenusprendžia kitaip, iki atnaujinto turto perdavimo valstybės turto valdytojui. Nekilnojamasis turtas, atnaujintas įgyjant naują nekilnojamąjį turtą, yra valstybės nuosavybė.
-
-8. Centralizuotai valdomo valstybės turto valdytojas jam perduotą valstybės nekilnojamąjį turtą, kuris į Vyriausybės patvirtintą Atnaujinamo valstybės nekilnojamojo turto sąrašą įtrauktas kaip valstybės turto valdytojų poreikių įgyvendinant valstybines funkcijas neatitinkantis parduodamas nekilnojamasis turtas, parduoda šio įstatymo 20 straipsnyje nustatyta tvarka. Kartu su šiuo turtu parduodamas jam priskirtas valstybinės žemės sklypas, išskyrus įstatymų nustatytus atvejus. Centralizuotai valdomo valstybės turto valdytojas teisės aktų nustatyta tvarka jam perduotą parduoti valstybės nekilnojamąjį turtą iki pardavimo gali išnuomoti arba suteikti panaudos pagrindais. Nuomos ar panaudos sutartyje turi būti nustatyta, kad turto nuomos ar panaudos sutartis pasibaigia šį turtą pardavus. Lėšos, gautos už parduotą valstybės nekilnojamąjį turtą ir kartu parduotą jam priskirtą valstybinės žemės sklypą, naudojamos su turto atnaujinimu susijusioms prievolėms įvykdyti, Vyriausybės nustatyta tvarka apskaičiuotam atlygiui už valstybės nekilnojamojo turto atnaujinimo koordinavimą, organizavimą mokėti ir kitoms faktinėms su turto įsigijimu susijusioms išlaidoms padengti.
-
-9. Jeigu pardavus nekilnojamąjį turtą, kurį reikia atnaujinti, ir atskaičius šio straipsnio 8 dalyje numatytas išlaidas lieka nepanaudotų lėšų, jos gali būti Vyriausybės nustatyta tvarka naudojamos tik kitam valstybės nekilnojamajam turtui atnaujinti, prioritetą teikiant valstybės turto valdytojo poreikių tenkinimui.
-
-10. Centralizuotai valdomo valstybės turto valdytojas Lietuvos Respublikos finansų ministerijos (toliau – Finansų ministerija) pritarimu turi teisę skolintis lėšų, kurių reikia valstybės nekilnojamajam turtui atnaujinti. Centralizuotai valdomo valstybės turto valdytojas prievolių, susijusių su valstybės nekilnojamojo turto atnaujinimu, įvykdymui užtikrinti gali atnaujinamą valstybės nekilnojamąjį turtą įkeisti, išskyrus Lietuvos Respublikos Prezidento, Seimo ir Vyriausybės rūmus, Lietuvos Respublikos Prezidento rezidenciją, Lietuvos Respublikos Ministro Pirmininko rezidenciją ir kitą turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė.
-
-11. Centralizuotai valdomo valstybės turto valdytojo prašymu Vyriausybė valstybės vardu jos nustatyta tvarka turi teisę skolintis lėšų, reikalingų valstybės nekilnojamajam turtui atnaujinti. Prireikus Vyriausybei atstovaujanti Finansų ministerija šiam tikslui turi teisę valstybės vardu skolintis lėšų vidaus ir užsienio rinkose imdama paskolas, išleisdama Vyriausybės vertybinius popierius ir kitus įsipareigojamuosius skolos dokumentus.
-
-TAR pastaba. 18 straipsnio nuostatos taikomos atnaujinant valstybės nekilnojamąjį turtą, kuris iki įstatymo (Nr. XII-802) įsigaliojimo dienos (2014-10-01) buvo įtrauktas į Vyriausybės patvirtintą Atnaujinamo valstybės nekilnojamojo turto sąrašą kaip atnaujinamas valstybės nekilnojamasis turtas ir dėl kurio atnaujinimo iki įstatymo (Nr. XII-802) įsigaliojimo dienos (2014-10-01) buvo sudaryti susitarimai dėl jo atnaujinimo. Nuo įstatymo (Nr. XII-802) įsigaliojimo dienos (2014-10-01) nauji atnaujinamo valstybės nekilnojamojo turto objektai į Vyriausybės tvirtinamą Atnaujinamo valstybės nekilnojamojo turto sąrašą neįtraukiami.
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 19 straipsnis. Valstybės nekilnojamojo turto centralizuotas valdymas, naudojimas ir disponavimas juo
 
 1. Valstybės nekilnojamasis turtas pagal naudojimo paskirtį skirstomas į šias grupes:
 
-1) administracinės paskirties, naudojamas valstybės institucijų, įstaigų ir organizacijų funkcijoms įgyvendinti;
+1) administracinės paskirties turtas, naudojamas administracinei veiklai, kuria užtikrinamas subjektų, kurie naudojasi valstybės nekilnojamuoju turtu, savarankiškas funkcionavimas, veiklos ar funkcijų organizavimas ir vykdymas;
 
-2) kultūros ir sporto paskirties, naudojamas kultūros, sporto reikmėms ir viešiesiems pramoginiams renginiams;
+2) kultūros ir sporto paskirties turtas, naudojamas kultūros, sporto reikmėms ir viešiesiems pramoginiams renginiams;
 
-3) mokslo paskirties, naudojamas švietimo ir mokslo reikmėms;
+3) mokslo paskirties turtas, naudojamas švietimo ir mokslo reikmėms;
 
-4) sveikatos priežiūros ir gydymo paskirties, naudojamas sveikatos priežiūros reikmėms, medicinos pagalbos teikimui;
+4) sveikatos priežiūros ir gydymo paskirties turtas, naudojamas sveikatos priežiūros reikmėms, medicinos pagalbai teikti;
 
-5) pagalbinio ūkio paskirties, naudojamas gamybai vykdyti, daiktams laikyti ar sandėliuoti;
+5) pagalbinio ūkio paskirties turtas, naudojamas gamybai vykdyti, daiktams laikyti ar sandėliuoti;
 
-6) specialiosios paskirties, naudojamas specialiems tikslams (karinės, valstybės saugumo ir gynybos paskirties, įkalinimo įstaigos, policijos, priešgaisrinės tarnybos, pasienio ir kitų specialiųjų tarnybų naudojamas nekilnojamasis turtas, užsienio reikalų, taip pat diplomatinės ir konsulinės įstaigos, viešojo transporto paskirties, kitas specialiems tikslams naudojamas nekilnojamasis turtas, įskaitant administracinės paskirties nekilnojamąjį turtą, naudojamą šiame punkte numatytiems tikslams);
+6) specialiosios paskirties turtas, naudojamas specialiems tikslams (karinės, valstybės saugumo ir gynybos paskirties, įkalinimo įstaigos, policijos, priešgaisrinės tarnybos, pasienio ir kitų specialiųjų tarnybų naudojamas nekilnojamasis turtas, užsienio reikalų, taip pat diplomatinių atstovybių, konsulinių įstaigų ir specialiųjų misijų, viešojo transporto paskirties, kitas specialiems tikslams naudojamas nekilnojamasis turtas, įskaitant administracinės paskirties nekilnojamąjį turtą, naudojamą šiame punkte numatytiems tikslams);
 
-7) kitos paskirties turtas, kurio negalima priskirti šios dalies 1–6 punktuose nurodytoms nekilnojamojo turto grupėms.
+7) kitos paskirties turtas, kurio negalima priskirti prie šios dalies 1–6 punktuose nurodytų grupių nekilnojamojo turto.
 
-2. Valstybės nekilnojamasis turtas, išskyrus Lietuvos Respublikos Prezidento, Seimo, Vyriausybės, Lietuvos Respublikos Konstitucinio Teismo rūmus, laikantis šiame įstatyme nustatytų principų, gali būti valdomas centralizuotai – tai yra valstybės nekilnojamojo turto valdymo, naudojimo ir disponavimo juo veiklas perduodant vykdyti vienam subjektui (toliau – centralizuotas valdymas). Valstybės įmonių patikėjimo teise valdomas valstybės nekilnojamasis turtas gali būti perduodamas centralizuotai valdyti, jeigu jis nenaudojamas valstybės įmonės veiklai vykdyti arba yra pripažintas nereikalingu arba netinkamu (negalimu) naudoti.
+2. Valstybės nekilnojamasis turtas, išskyrus Lietuvos Respublikos Prezidento, Seimo, Lietuvos Respublikos Konstitucinio Teismo rūmus, laikantis šiame įstatyme nustatytų principų, gali būti valdomas centralizuotai – tai yra valstybės nekilnojamojo turto valdymo, naudojimo ir disponavimo juo veiklas perduodant vykdyti vienam subjektui (toliau – centralizuotas valdymas). Valstybės įmonių patikėjimo teise valdomas valstybės nekilnojamasis turtas gali būti perduodamas centralizuotai valdyti, jeigu jis nenaudojamas valstybės įmonės veiklai vykdyti arba yra pripažintas nereikalingu arba netinkamu (negalimu) naudoti. Specialiosios paskirties valstybės nekilnojamasis turtas, nurodytas šio straipsnio 1 dalies 6 punkte, gali būti perduodamas valdyti centralizuotai tik gavus šio turto valdytojo sutikimą.
 
 3. Valstybės nekilnojamojo turto centralizuotą valdymą įgyvendina centralizuotai valdomo valstybės turto valdytojas.
 
 4. Valstybės nekilnojamojo turto centralizuotą valdymą sudaro šios veiklos:
 
-1) centralizuotai valdomo valstybės turto valdytojui patikėjimo teise perduoto šio straipsnio 1 dalies 1 punkte nurodyto valstybės nekilnojamojo turto valdymas ir priežiūra pagal su šio turto naudotojais (panaudos gavėjais) sudarytas turto valdymo ir priežiūros paslaugų sutartis. Sprendimą dėl administracinės paskirties valstybės nekilnojamojo turto perdavimo patikėjimo teise valdyti centralizuotai valdomo valstybės turto valdytojui priima Vyriausybė. Administracinės paskirties valstybės nekilnojamojo turto panaudos sąlygas ir tipinę panaudos sutarties formą, taip pat administracinės paskirties valstybės nekilnojamojo turto ir kito šiame straipsnyje nurodyto valstybės nekilnojamojo turto perdavimo, valdymo, naudojimo ir disponavimo juo tvarką ir administracinės paskirties nekilnojamojo turto perdavimo etapus nustato Vyriausybė;
+1) centralizuotai valdomo valstybės turto valdytojui patikėjimo teise perduoto administracinės paskirties valstybės nekilnojamojo turto (įskaitant šio straipsnio 1 dalies 6 punkte numatytiems tikslams naudojamą administracinės paskirties valstybės nekilnojamąjį turtą) valdymas ir priežiūra pagal su šio turto naudotojais sudarytas turto nuomos sutartis. Sprendimą dėl administracinės paskirties valstybės nekilnojamojo turto ir kartu su juo perduodamo kito šioje dalyje nurodyto valstybės turto perdavimo patikėjimo teise valdyti centralizuotai valdomo valstybės turto valdytojui priima Vyriausybė, kuri nustato šioje dalyje nurodyto valstybės nekilnojamojo turto perdavimo centralizuotai valdyti, centralizuoto valdymo, naudojimo ir disponavimo juo tvarką. Centralizuotai valdomo valstybės turto valdytojui kartu su administracinės paskirties valstybės nekilnojamuoju turtu gali būti perduodamas kitos paskirties valstybės nekilnojamasis turtas, taip pat ilgalaikis materialusis turtas, reikalingas valdymo ir naudojimo tikslams ir šį turtą naudojančių asmenų poreikiams tenkinti. Centralizuotai valdyti perduoto administracinės paskirties ir kito su juo perduoto valstybės nekilnojamojo turto nuomos mokesčio apskaičiavimo tvarką nustato Vyriausybė arba jos įgaliota institucija;
 
-2) centralizuotai valdomo valstybės turto valdytojui perduoto šio straipsnio 1 dalyje nurodyto valstybės nekilnojamojo turto, nenaudojamo valstybinėms funkcijoms įgyvendinti (įskaitant šio įstatymo 5 straipsnio 2 dalyje nurodytą turtą), taip pat pripažinto nereikalingu arba netinkamu (negalimu) naudoti, valdymas, naudojimas ir disponavimas juo Vyriausybės nustatyta tvarka;
+2) centralizuotai valdomo valstybės turto valdytojui perduoto šio straipsnio 1 dalyje nurodyto valstybės nekilnojamojo turto, nenaudojamo valstybinėms funkcijoms įgyvendinti (įskaitant šio įstatymo 5 straipsnio 2 dalyje nurodytą turtą), taip pat pripažinto nereikalingu arba netinkamu (negalimu) naudoti, valdymas, naudojimas ir disponavimas juo Vyriausybės nustatyta tvarka;
 
-3) centralizuotas nenaudojamo valstybinėms funkcijoms įgyvendinti (įskaitant šio įstatymo 5 straipsnio 2 dalyje nurodytą turtą), taip pat pripažinto nereikalingu arba netinkamu (negalimu) naudoti valstybės nekilnojamojo turto ir jam priskirtų žemės sklypų pardavimas pagal Vyriausybės patvirtintą Parduodamų nekilnojamųjų daiktų sąrašą šio įstatymo 21 straipsnyje nustatyta tvarka;
+3) centralizuotas nenaudojamo valstybinėms funkcijoms įgyvendinti (įskaitant šio įstatymo 5 straipsnio 2 dalyje nurodytą turtą), taip pat pripažinto nereikalingu arba netinkamu (negalimu) naudoti valstybės nekilnojamojo turto ir jam priskirtų žemės sklypų pardavimas šio įstatymo 21 straipsnyje nustatyta tvarka;
 
 4) turto valdytojų sprendimų dėl šio straipsnio 1 dalyje nurodyto jų patikėjimo teise valdomo valstybės nekilnojamojo turto panaudos, nuomos ar perdavimo patikėjimo teise valdyti kitiems turto valdytojams privalomas derinimas su centralizuotai valdomo valstybės turto valdytoju teisės aktų nustatytais atvejais ir tvarka;
 
-5) administracinės paskirties valstybės nekilnojamojo turto panaudojimo efektyvumo vertinimas, vadovaujantis Vyriausybės arba jos įgaliotos institucijos nustatytais administracinės paskirties nekilnojamojo turto panaudojimo efektyvumo rodikliais, taip pat apsirūpinimo administracinės paskirties nekilnojamuoju turtu alternatyvų įvertinimas, šių alternatyvų sąnaudų ir naudos analizė, vadovaujantis Vyriausybės arba jos įgaliotos institucijos nustatytais apsirūpinimo administracinės paskirties nekilnojamuoju turtu, reikalingu veiklai vykdyti ir valstybinėms funkcijoms įgyvendinti, normatyvais;
+5) administracinės paskirties valstybės nekilnojamojo turto panaudojimo efektyvumo vertinimas, vadovaujantis Vyriausybės įgaliotos institucijos nustatytais administracinės paskirties valstybės nekilnojamojo turto panaudojimo efektyvumo rodikliais;
 
-6) naujo administracinės paskirties nekilnojamojo turto įsigijimas (perkant, statant), atsižvelgiant į tokio turto poreikį ir apsirūpinimo administracinės paskirties nekilnojamuoju turtu alternatyvų įvertinimą, valstybės nekilnojamojo turto atnaujinimo organizavimas ir koordinavimas įstatymų nustatyta tvarka;
+6) valstybės institucijų ir įstaigų aprūpinimas jų valstybinėms funkcijoms atlikti reikalingu ir jų poreikius atitinkančiu administracinės paskirties nekilnojamuoju turtu ir kitos paskirties nekilnojamuoju turtu, reikalingu valdymo ir naudojimo tikslams ir turtą naudojančių asmenų poreikiams tenkinti, vadovaujantis Vyriausybės įgaliotos institucijos nustatytais apsirūpinimo administracinės paskirties nekilnojamuoju turtu, reikalingu valstybinėms funkcijoms atlikti, normatyvais ir įgyvendinant centralizuotai valdomo administracinės paskirties nekilnojamojo turto atnaujinimo projektus;
 
-7) patikėjimo teise perduoto valdyti valstybės nekilnojamojo turto priežiūros (įskaitant einamąjį ir kapitalinį remontą ir rekonstravimą) paslaugų pirkimas.
+7) centralizuotai valdomo administracinės paskirties valstybės nekilnojamojo turto energijos vartojimo efektyvumo didinimo projektų įgyvendinimas.
+
+5. Centralizuotai valdomas administracinės paskirties valstybės nekilnojamasis turtas, įskaitant šio straipsnio 1 dalies 6 punkte numatytiems tikslams naudojamą administracinės paskirties valstybės nekilnojamąjį turtą, gali būti atnaujinamas, kai jis atitinka bent vieną iš šių požymių:
+
+1) yra fiziškai ar funkciškai (technologiškai) nusidėvėjęs;
+
+2) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka yra pripažįstamas avariniu;
+
+3) neatitinka nekilnojamajam turtui teisės aktuose keliamų reikalavimų arba Vyriausybės įgaliotos institucijos nustatytų apsirūpinimo administracinės paskirties nekilnojamuoju turtu, reikalingu valstybinėms funkcijoms atlikti, normatyvų;
+
+4) neatitinka Vyriausybės įgaliotos institucijos nustatytų administracinės paskirties valstybės nekilnojamojo turto panaudojimo efektyvumo rodiklių;
+
+5) neatitinka kitų pagrįstų valstybės institucijų ar įstaigų poreikių atliekant valstybines funkcijas.
+
+6. Centralizuotai valdomas administracinės paskirties valstybės nekilnojamasis turtas gali būti atnaujinamas šiais būdais: rekonstruojant, remontuojant, perduodant kitą, poreikius atitinkantį, administracinės paskirties nekilnojamąjį turtą, pritaikant nenaudojamą kitos paskirties valstybės nekilnojamąjį turtą administracinei paskirčiai, išsinuomojant arba įsigyjant (perkant, statant) administracinės paskirties nekilnojamąjį turtą.
+
+7. Vyriausybė nustato centralizuotai valdomo administracinės paskirties valstybės nekilnojamojo turto atnaujinimo poreikio vertinimo ir šio nekilnojamojo turto atnaujinimo projektų (toliau – atnaujinimo projektas) įgyvendinimo tvarką.
+
+8. Atnaujinimo projekte turi būti:
+
+1) įvertinti centralizuotai valdomo administracinės paskirties valstybės nekilnojamojo turto atnaujinimo ir jo finansavimo būdai, atlikta šio turto atnaujinimo kaštų ir naudos analizė, nurodytas pasirinktas turto atnaujinimo būdas (būdai);
+
+2) nustatytas centralizuotai valdomo administracinės paskirties valstybės nekilnojamojo turto atnaujinimo terminas;
+
+3) nurodyti finansavimo šaltiniai, kurie bus naudojami ir užtikrins atnaujinimo projekto įgyvendinimą, prievolių įvykdymą ir kitų faktinių su atnaujinimo projektu susijusių išlaidų padengimą;
+
+4) nurodytas atnaujinimo projektui finansuoti reikalingas parduodamas šio straipsnio 10 dalies 1 punkte nurodytas turtas ir jo pardavimo terminai;
+
+5) nurodytos kitos, su atnaujinimo projekto įgyvendinimu susijusios, sąlygos.
+
+9. Atnaujinimo projektus Vyriausybės nustatyta tvarka tvirtina centralizuotai valdomo valstybės turto valdytojo valdyba, išskyrus 10 000 000 eurų ir didesnės vertės atnaujinimo projektus, kuriuos centralizuotai valdomo valstybės turto valdytojo valdybos siūlymu tvirtina Vyriausybė.
+
+10. Centralizuotai valdomo valstybės turto valdytojas atnaujinimo projektams finansuoti turi teisę:
+
+1) panaudoti lėšas, gaunamas šio įstatymo 21 straipsnyje nustatyta tvarka pardavus valstybės institucijų ar įstaigų naudojamą, tačiau jų poreikių neatitinkantį ir (arba) kitą valstybinėms funkcijoms atlikti nereikalingą valstybės nekilnojamąjį turtą ir jam priskirtą valstybinės žemės sklypą (jeigu žemės sklypas yra parduodamas kartu su nekilnojamuoju turtu), kuris patikėjimo teise centralizuotai valdyti yra perduotas centralizuotai valdomo valstybės turto valdytojui;
+
+2) Lietuvos Respublikos finansų ministerijos pritarimu – skolintis lėšų, kurių reikia atnaujinimo projektui finansuoti;
+
+3) panaudoti įmonės – centralizuotai valdomo valstybės turto valdytojo – lėšas;
+
+4) panaudoti iš asignavimų valdytojų gautas valstybės biudžeto lėšas.
+
+11. Centralizuotai valdomo valstybės turto valdytojo prašymu Vyriausybė turi teisę valstybės vardu Vyriausybės nustatyta tvarka skolintis lėšų, reikalingų atnaujinimo projektams finansuoti.
+
+12. Centralizuotai valdomo valstybės turto valdytojas prievolių, susijusių su atnaujinimo projektų įgyvendinimu, įvykdymui užtikrinti gali įkeisti patikėjimo teise valdomą valstybės nekilnojamąjį turtą, išskyrus Vyriausybės rūmus ir kitą valstybės nekilnojamąjį turtą, kuris pagal įstatymus gali nuosavybės teise priklausyti tik valstybei.
+
+13. Įgyvendinant atnaujinimo projektus, kuriuose numatyta įsigyti (perkant, statant) naują administracinės paskirties nekilnojamąjį turtą, centralizuotai valdomo valstybės turto valdytojas turi teisę sudaryti:
+
+1) viešojo ir privataus sektorių partnerystės sutartis;
+
+2) administracinės paskirties nekilnojamojo turto įsigijimo išsimokėtinai sutartis.
+
+14. Naują administracinės paskirties nekilnojamąjį turtą centralizuotai valdomo valstybės turto valdytojas įgyja valstybės nuosavybėn ir valdo jį patikėjimo teise, jeigu Vyriausybė nenusprendžia kitaip, o šio turto naudotojai – valstybės institucijos ir įstaigos – nuomos teisėmis, sudarydami su centralizuotai valdomo valstybės turto valdytoju administracinės paskirties nekilnojamojo turto nuomos sutartis arba subnuomos sutartis, jeigu atnaujinimo projektas įgyvendinamas išsinuomojant administracinės paskirties nekilnojamąjį turtą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 20 straipsnis. Valstybės ir savivaldybių turto perdavimas kitų subjektų nuosavybėn
 
@@ -555,7 +591,11 @@ TAR pastaba. 18 straipsnio nuostatos taikomos atnaujinant valstybės nekilnojam�
 
 4) nematerialųjį ir materialųjį turtą (išskyrus nekilnojamuosius daiktus) Vyriausybės nutarimu perduodant savivaldybių nuosavybėn savivaldybių savarankiškosioms funkcijoms įgyvendinti;
 
-5) nekilnojamuosius daiktus Vyriausybės nutarimu perduodant savivaldybių nuosavybėn savivaldybių savarankiškosioms funkcijoms įgyvendinti, jeigu šis turtas yra pripažintas nereikalingu pagal šio įstatymo 26 straipsnio 1 dalies 8 punkto nuostatas;
+5) valstybei nuosavybės teise priklausančius nekilnojamuosius daiktus, pripažintus nereikalingais pagal šio įstatymo 26 straipsnio 1 dalies 8 punkto nuostatas, perduodant Vyriausybės nustatyta tvarka savivaldybių nuosavybėn savivaldybių savarankiškosioms funkcijoms įgyvendinti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 6) valstybei priklausančių viešųjų įstaigų dalininko (savininko) teises Vyriausybės nutarimu perduodant savivaldybėms savivaldybių savarankiškosioms funkcijoms įgyvendinti;
 
@@ -627,25 +667,43 @@ Nr. XIII-1663, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19160
 
 1. Viešas aukcionas – valstybei ar savivaldybėms nuosavybės teise priklausančio nekilnojamojo turto ir jam priskirto žemės sklypo (jeigu žemės sklypas yra parduodamas kartu su nekilnojamuoju turtu), taip pat kitų nekilnojamųjų daiktų, išskyrus šio įstatymo 20 straipsnio 6 ir 7 dalyse nurodytus atvejus, pardavimo būdas, kai neribojamas viešo aukciono dalyvių skaičius, o nekilnojamojo turto ir jam priskirto žemės sklypo ar kitų nekilnojamųjų daiktų pirkimo–pardavimo sutartys sudaromos su didžiausią kainą pasiūliusiu viešo aukciono dalyviu. Valstybės ir savivaldybių nekilnojamųjų daiktų pardavimo viešo aukciono būdu tvarką nustato Vyriausybė. Viešas aukcionas gali būti organizuojamas informacinių technologijų priemonėmis.
 
-2. Valstybei nuosavybės teise priklausančio nekilnojamojo turto ir jam priskirto žemės sklypo (jeigu žemės sklypas yra parduodamas kartu su nekilnojamuoju turtu), taip pat kitų nekilnojamųjų daiktų pardavimo viešo aukciono organizatorius yra centralizuotai valdomo valstybės turto valdytojas. Užsienio valstybėse esančio valstybės nekilnojamojo turto viešo aukciono organizatoriumi gali būti Vyriausybės įgaliota valstybės institucija, o savivaldybei nuosavybės teise priklausančio nekilnojamojo turto ir kitų nekilnojamųjų daiktų viešo aukciono organizatorius yra savivaldybės administracija, išskyrus atvejus, kai savivaldybės sutartis dėl joms nuosavybės teise priklausančio turto pardavimo sudaro su centralizuotai valdomo valstybės turto valdytoju.
+2. Valstybės nekilnojamojo turto ir jam priskirto žemės sklypo (jeigu žemės sklypas yra parduodamas kartu su nekilnojamuoju turtu), taip pat kitų nekilnojamųjų daiktų pardavimo viešo aukciono organizatorius yra centralizuotai valdomo valstybės turto valdytojas. Užsienio valstybėse esančio valstybės nekilnojamojo turto viešo aukciono organizatoriumi gali būti Vyriausybės įgaliota valstybės institucija, o savivaldybės nekilnojamojo turto ir kitų nekilnojamųjų daiktų viešo aukciono organizatorius yra savivaldybės administracija.
 
-3. Viešame aukcione parduodamo valstybės ar savivaldybės nekilnojamojo turto ir jam priskirto žemės sklypo (jeigu žemės sklypas yra parduodamas kartu su nekilnojamuoju turtu), taip pat kitų nekilnojamųjų daiktų pradinė kaina viešame aukcione turi būti nustatoma pagal vertę, nustatytą Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka. Parduodamo žemės sklypo pradinė kaina arba valstybės ar savivaldybės nekilnojamojo turto pradinė kaina, jeigu žemė gali būti tik išnuomojama, didinama viešo aukciono organizatoriaus patirtų su žemės sklypo detaliojo plano ar žemės valdos projekto, ar žemės sklypo plano, prilyginamo žemės reformos žemėtvarkos projektams, ar žemės sklypo plano, prilyginamo detaliojo teritorijų planavimo dokumentams, ir žemės sklypo plano parengimo išlaidų verte. Viešo aukciono sąlygas dėl didesnės negu 3 milijonai eurų vertės valstybės nekilnojamojo turto ir jam priskirto parduodamo ar išnuomojamo žemės sklypo, taip pat kitų nekilnojamųjų daiktų pardavimo, išskyrus į Atnaujinamo valstybės nekilnojamojo turto sąrašą įtrauktą nekilnojamąjį turtą ir jam priskirtus žemės sklypus, tvirtina Privatizavimo komisija.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
+
+3. Viešame aukcione parduodamo valstybės ar savivaldybės nekilnojamojo turto ir jam priskirto žemės sklypo (jeigu žemės sklypas yra parduodamas kartu su nekilnojamuoju turtu), valstybės ar savivaldybės nekilnojamojo turto (jeigu įstatymų nustatyta tvarka žemė neparduodama), taip pat kitų nekilnojamųjų daiktų pradinė kaina viešame aukcione turi būti nustatoma pagal vertę, nustatytą Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka. Parduodamo valstybės ar savivaldybės nekilnojamojo turto ir jam priskirto žemės sklypo (jeigu žemės sklypas yra parduodamas kartu su nekilnojamuoju turtu) pradinė kaina didinama viešo aukciono organizatoriaus patirtų teritorijų planavimo dokumentų ar žemės valdos projektų, ar žemės sklypo plano ir kadastro duomenų bylos parengimo išlaidų verte. Viešo aukciono sąlygas dėl didesnės negu 3 000 000 eurų vertės parduodamo valstybės nekilnojamojo turto ir jam priskirto žemės sklypo (išskyrus valstybės nekilnojamąjį turtą ir jam priskirtą žemės sklypą, parduodamus atliekant centralizuotai valdomo administracinės paskirties valstybės nekilnojamojo turto atnaujinimą, ir nekilnojamąjį turtą, nurodytą šio įstatymo 5 straipsnio 2 dalyje), taip pat kitų nekilnojamųjų daiktų pardavimo tvirtina Privatizavimo komisija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1199, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14278
 
-4. Viešame aukcione parduodami į Vyriausybės arba savivaldybės tarybos patvirtintą Viešame aukcione parduodamo valstybės (savivaldybės) nekilnojamojo turto ir kitų nekilnojamųjų daiktų sąrašą arba Atnaujinamo valstybės nekilnojamojo turto sąrašą įtrauktas valstybės ir savivaldybių nekilnojamasis turtas ir kiti nekilnojamieji daiktai. Viešame aukcione parduodamo valstybės ir savivaldybės nekilnojamojo turto ir kitų nekilnojamųjų daiktų sąrašo sudarymo tvarką nustato Vyriausybė.
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
+
+4. Viešame aukcione parduodami į Vyriausybės arba savivaldybės tarybos patvirtintą Viešame aukcione parduodamo valstybės (savivaldybės) nekilnojamojo turto ir kitų nekilnojamųjų daiktų sąrašą įtrauktas valstybės ir savivaldybių nekilnojamasis turtas ir kiti nekilnojamieji daiktai. Valstybės nekilnojamasis turtas ir jam priskirtas žemės sklypas, parduodami atliekant centralizuotai valdomo administracinės paskirties valstybės nekilnojamojo turto atnaujinimą, taip pat nekilnojamasis turtas, nurodytas šio įstatymo 5 straipsnio 2 dalyje, parduodami viešojo aukciono būdu, tačiau į Viešame aukcione parduodamo valstybės nekilnojamojo turto ir kitų nekilnojamųjų daiktų sąrašą neįtraukiami. Viešame aukcione parduodamo valstybės ir savivaldybės nekilnojamojo turto ir kitų nekilnojamųjų daiktų sąrašo sudarymo tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 5. Viešo aukciono dalyviu gali būti Lietuvos Respublikos ir užsienio valstybių piliečiai ir nuolatiniai gyventojai, taip pat Lietuvos Respublikos nuolatiniai gyventojai, neturintys Lietuvos Respublikos pilietybės, Lietuvos Respublikoje ir užsienio valstybėse įsteigti juridiniai asmenys, taip pat juridinio asmens statuso neturintys subjektai, jų filialai ar atstovybės ir keli asmenys, sudarę rašytinį susitarimą. Jeigu valstybės nekilnojamasis turtas parduodamas kartu su žemės sklypu ar jo dalimi, o ketinantis dalyvauti viešame aukcione asmuo yra užsienio subjektas, jis turi atitikti žemės sandorių sudarymą reglamentuojančių įstatymų ir kitų teisės aktų nustatytus reikalavimus.
 
-6. Įstatymų reikalaujamos formos valstybės ar savivaldybės nekilnojamojo turto, taip pat kitų nekilnojamųjų daiktų pirkimo–pardavimo sutartis ir žemės sklypo pirkimo–pardavimo arba nuomos (jeigu žemė neparduodama) sutartis su didžiausią kainą viešame aukcione pasiūliusiu aukciono dalyviu, pripažintu viešo aukciono laimėtoju, turi būti sudaryta (sudarytos) per trisdešimt kalendorinių dienų nuo pardavimo viešame aukcione dienos. Valstybinės žemės, priskirtos savivaldybėms nuosavybės teise priklausančiam nekilnojamajam turtui, pirkimo–pardavimo arba valstybinės žemės nuomos sutartis su viešo aukciono laimėtoju (pirkėju) sudaro centralizuotai valdomo valstybės turto valdytojas.
+6. Įstatymų reikalaujamos formos valstybės ar savivaldybės nekilnojamojo turto, taip pat kitų nekilnojamųjų daiktų pirkimo–pardavimo sutartis ir žemės sklypo (jeigu žemės sklypas yra parduodamas kartu su nekilnojamuoju turtu) pirkimo–pardavimo sutartis su didžiausią kainą viešame aukcione pasiūliusiu aukciono dalyviu, pripažintu viešo aukciono laimėtoju, turi būti sudaryta (sudarytos) per trisdešimt kalendorinių dienų nuo pardavimo viešame aukcione dienos. Valstybinės žemės, priskirtos savivaldybėms nuosavybės teise priklausančiam nekilnojamajam turtui, pirkimo–pardavimo sutartis su viešo aukciono laimėtoju (pirkėju) sudaro centralizuotai valdomo valstybės turto valdytojas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 7. Valstybės ar savivaldybių nekilnojamojo turto ir jam priskirto žemės sklypo ir kitų nekilnojamųjų daiktų pirkimo–pardavimo sutartyje (sutartyse) turi būti nustatyta mokėjimų už įsigytą turtą tvarka ir terminai, viešo aukciono laimėtojo (pirkėjo) įsipareigojimai vykdyti viešo aukciono sąlygas, teisinės pasekmės už sutarties (sutarčių) sąlygų nevykdymą, sutarties (sutarčių) nutraukimo tvarka, pirkėjo įsipareigojimas sudaryti žemės sklypo nuomos sutartį ir kiti viešo aukciono laimėtojo (pirkėjo) įsipareigojimai.
 
 8. Už viešame aukcione parduotą nekilnojamąjį turtą ir jam priskirtą žemės sklypą bei kitus nekilnojamuosius daiktus gali būti sumokama iš karto (per 10 kalendorinių dienų po pirkimo–pardavimo sutarties pasirašymo) arba dalimis. Jeigu atsiskaitoma dalimis, atsiskaitymo terminas negali būti ilgesnis kaip 3 metai. Vėliausią galimą atsiskaitymo terminą nustato viešo aukciono organizatorius viešo aukciono sąlygose. Jeigu parduodamo nekilnojamojo turto ir jam priskirto žemės sklypo patikėtiniai nesutampa, sprendimą dėl atsiskaitymo termino priima žemės sklypo patikėtinis.
 
-9. Jeigu viešo aukciono laimėtojo (pirkėjo) skolinio įsipareigojimo įvykdymą garantuoja kredito įstaiga, kuri tuo tikslu iki pirkimo–pardavimo sutarties pasirašymo pateikia viešo aukciono organizatoriui mokėjimo garantiją, šis turi teisę pirkėjo skoliniam įsipareigojimui kredito įstaigai užtikrinti jai įkeisti viešame aukcione parduotą turtą, numatant, kad hipoteka įsigalios po to, kai bus visiškai atsiskaityta su viešo aukciono organizatoriumi už perkamą turtą, tai yra sumokėta nekilnojamojo daikto, įskaitant žemės sklypą, kaina, netesybos ir kitos prievolės. Viešame aukcione parduotas turtas gali būti įkeistas, jeigu viešo aukciono laimėtojas (pirkėjas) yra sumokėjęs šio turto kainos ir kredito įstaigos pateiktoje mokėjimo garantijoje nurodytos sumos skirtumą, jeigu toks yra.
+9. Jeigu viešo aukciono laimėtojas (pirkėjas) savo skoliniam įsipareigojimui įvykdyti skolinasi lėšų iš kredito įstaigos, aukciono organizatorius aukciono laimėtojo (pirkėjo) prašymu skoliniam įsipareigojimui kredito įstaigai užtikrinti gali įkeisti viešame aukcione parduotą turtą, numatant, kad hipoteka įsigalios po to, kai už perkamą turtą bus visiškai atsiskaityta su viešo aukciono organizatoriumi, tai yra sumokėta nekilnojamojo daikto, įskaitant žemės sklypą, kaina, netesybos ir kitos prievolės. Viešame aukcione parduotas turtas gali būti įkeistas, jeigu viešo aukciono laimėtojas (pirkėjas) yra sumokėjęs šio turto kainos ir kredito įstaigos paskolos sutartyje nurodytos sumos skirtumą, jeigu toks yra.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 10. Atsiskaitant dalimis, pradinė įmoka turi būti ne mažesnė kaip 30 procentų viešame aukcione nustatytos nekilnojamojo turto ir žemės sklypo ar kito nekilnojamojo daikto kainos ir turi būti sumokėta per 5 kalendorines dienas nuo pirkimo–pardavimo sutarties pasirašymo. Atsiskaitant dalimis, viešo aukciono laimėtojas (pirkėjas) moka Vyriausybės nustatyta tvarka apskaičiuojamas palūkanas, o savo įsipareigojimų įvykdymui užtikrinti privalo pateikti viešo aukciono organizatoriui viešo aukciono sąlygose nurodytas įsipareigojimų įvykdymo užtikrinimo priemones.
 
@@ -655,15 +713,17 @@ Nr. XII-1199, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14278
 
 13. Lėšos, gautos pardavus:
 
-1) valstybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus, taip pat palūkanos, netesybos ir kiti su pirkimo–pardavimo sutarties vykdymu susiję mokėjimai, išskyrus šio įstatymo 18 straipsnio 8 dalyje nustatytą atvejį, atskaičius centralizuotai valdomo valstybės turto valdytojui Vyriausybės nustatyta tvarka apskaičiuotą atlygį už valstybės nekilnojamojo turto ir jam priskirtų valstybinės žemės sklypų ar kitų nekilnojamųjų daiktų pardavimą ir jo patirtas išnuomojamo žemės sklypo detaliojo plano ar žemės valdos projekto, ar žemės sklypo plano, prilyginamo žemės reformos žemėtvarkos projektams, ar žemės sklypo plano, prilyginamo detaliojo teritorijų planavimo dokumentams, ir žemės sklypo plano parengimo išlaidas arba užsienio valstybėse esančio valstybės nekilnojamojo turto viešo aukciono organizatoriaus patirtas su viešo aukciono organizavimu susijusias išlaidas, pervedami į Lietuvos Respublikos valstybės biudžetą arba Valstybinio socialinio draudimo fondo lėšų sąskaitą, jeigu valstybei nuosavybės teise priklausantis nekilnojamasis turtas yra įtrauktas į Valstybinio socialinio draudimo fondo apskaitą pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą;
+1) valstybės nekilnojamąjį turtą, išskyrus nurodytąjį šio įstatymo 19 straipsnio 10 dalies 1 punkte ir šio įstatymo 5 straipsnio 2 dalyje, ir kitus nekilnojamuosius daiktus, taip pat palūkanos, netesybos ir kiti su pirkimo–pardavimo sutarties vykdymu susiję mokėjimai, atskaičius Vyriausybės nustatyta tvarka apskaičiuotą atlygį centralizuotai valdomo valstybės turto valdytojui už valstybės nekilnojamojo turto ir jam priskirto valstybinės žemės sklypo (jeigu žemės sklypas yra parduodamas kartu su nekilnojamuoju turtu) ar kitų nekilnojamųjų daiktų pardavimą arba užsienio valstybėse esančio valstybės nekilnojamojo turto viešo aukciono organizatoriaus patirtas su viešo aukciono organizavimu susijusias išlaidas, pervedami į valstybės biudžetą arba Valstybinio socialinio draudimo fondo lėšų sąskaitą, jeigu valstybei nuosavybės teise priklausantis nekilnojamasis turtas yra įtrauktas į Valstybinio socialinio draudimo fondo apskaitą pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą;
 
-2) savivaldybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus, taip pat palūkanos, netesybos ir kiti su pirkimo–pardavimo sutarties vykdymu susiję mokėjimai, atskaičius sutartyse (jeigu tokios sudaromos) dėl savivaldybės turto pardavimo nustatytą atlygį centralizuotai valdomo valstybės turto valdytojui, pervedami į savivaldybės biudžetą;
+2) savivaldybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus, taip pat palūkanos, netesybos ir kiti su pirkimo–pardavimo sutarties vykdymu susiję mokėjimai pervedami į savivaldybės biudžetą;
 
-3) valstybės ar savivaldybės nekilnojamajam turtui priskirtą valstybinės žemės sklypą, išskyrus šio įstatymo 18 straipsnio 8 dalyje nustatytą atvejį, atskaičius viešo aukciono organizatoriaus patirtas parduodamo žemės sklypo detaliojo plano ar žemės valdos projekto, ar žemės sklypo plano, prilyginamo žemės reformos žemėtvarkos projektams, ar žemės sklypo plano, prilyginamo detaliojo teritorijų planavimo dokumentams, ir žemės sklypo plano parengimo išlaidas, paskirstomos taip: 50 procentų – į Lietuvos Respublikos valstybės biudžetą, 50 procentų – į savivaldybės, kurios teritorijoje parduotas žemės sklypas, biudžeto atskirą sąskaitą lėšoms už parduotus valstybinės žemės sklypus kaupti.
+3) valstybės ar savivaldybės nekilnojamajam turtui, išskyrus nurodytąjį šio įstatymo 19 straipsnio 10 dalies 1 punkte ir šio įstatymo 5 straipsnio 2 dalyje, priskirtą valstybinės žemės sklypą, atskaičius viešo aukciono organizatoriaus patirtas parduodamo žemės sklypo teritorijų planavimo dokumentų ar žemės valdos projektų, ar žemės sklypo plano ir kadastro duomenų bylos parengimo išlaidas, paskirstomos taip: 50 procentų – į valstybės biudžetą, 50 procentų – į savivaldybės, kurios teritorijoje yra parduotas žemės sklypas, biudžeto atskirą sąskaitą, skirtą lėšoms už parduotus valstybinės žemės sklypus kaupti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2023, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18614
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 14. Įstatymų nustatyta tvarka valstybei ar savivaldybei nuosavybės teise priklausantis nekilnojamasis turtas, esantis privačios žemės sklype, gali būti parduodamas viešame aukcione be žemės savininko sutikimo, jeigu tai neprieštarauja įstatymų ir (ar) sutarties nustatytoms žemės sklypo naudojimo sąlygoms.
 
@@ -869,7 +929,11 @@ X-771,
 
 24 straipsnis. Valstybės ir savivaldybių turto įkeitimas
 
-1. Valstybės turtas negali būti įkeistas, išskyrus šio straipsnio 2 dalyje ir šio įstatymo 18 straipsnio 10 dalyje nustatytas išimtis.
+1. Valstybės turtas negali būti įkeistas, išskyrus šio straipsnio 2 dalyje ir šio įstatymo 19 straipsnio 12 dalyje nustatytas išimtis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 2. Valstybės ar savivaldybės įmonė teise įkeisti ilgalaikį materialųjį turtą naudojasi pagal Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymą.
 
@@ -1502,6 +1566,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1663, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19160
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 2, 20 ir 23 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 5, 6, 10, 12, 14, 15, 16, 19, 20, 21, 24 straipsnių pakeitimo ir 18 straipsnio pripažinimo netekusiu galios įstatymas
 
 26 straipsnis. Valstybės ir savivaldybių turto pripažinimas nereikalingu arba netinkamu (negalimu) naudoti
 
