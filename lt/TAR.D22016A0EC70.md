@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2017-12-14"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2017-12-14 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -1632,9 +1632,19 @@ Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr
 
 2. Valstybei nuosavybės teise priklausančias žuvininkystės kontrolei užtikrinti naudojamas sistemas valdo, naudoja ir jomis disponuoja Žemės ūkio ministerija arba jos įgaliota institucija, kuri nustato šių teisių įgyvendinimo tvarką.
 
-3. Valstybei nuosavybės teise priklausančių žuvininkystės kontrolei užtikrinti naudojamų sistemų įranga ir kitos priemonės, vadovaujantis Vyriausybės nustatyta tvarka, gali būti perduodamos panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis ūkio subjektams, jeigu jiems ta įranga ir kitos priemonės reikalingos funkcijoms, susijusioms su žuvininkystės kontrole, atlikti tol, kol jie vykdo panaudos sutartyje nustatytą žuvininkystės veiklą arba kol panaudos sutartis nenutraukiama teisės aktų nustatyta tvarka.
+3. Neteko galios 2019-10-01.
 
-4. Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 3 dalyje nurodytiems ūkio subjektams priima ir panaudos sutartį sudaro perduodamo valstybės turto valdytojas.
+TAR pastaba. Iki įstatymo Nr. XIII-2291 įsigaliojimo dienos (2019-10-01) sudarytos terminuotos valstybės turto panaudos sutartys galioja iki jų pabaigos dienos. Įsigaliojus šiam įstatymui, valstybės turto panaudos davėjai, Lietuvos Respublikos civilinio kodekso nustatyta tvarka įspėję panaudos gavėjus, nutraukia visas neterminuotas valstybės turto panaudos sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2291, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12179
+
+4. Neteko galios 2019-10-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2291, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12179
 
 35 straipsnis. Neteko galios nuo 2016-07-16
 
@@ -2409,6 +2419,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-813, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20007
 
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 31 straipsnio pakeitimo ir Įstatymo papildymo 31-1 straipsniu įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2291, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12179
+
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 34 straipsnio pakeitimo įstatymas
 
 141 straipsnis. Teisės į žvejybos kvotą suteikimas
 
