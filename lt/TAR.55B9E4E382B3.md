@@ -4,7 +4,7 @@ identifier: "TAR.55B9E4E382B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-04-10"
-last_updated: "2018-01-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 18-0; Žin. 1990, Nr.17-439, i. k. 090XX01ISTA000I-130
 
@@ -44,7 +44,11 @@ Bendrosios nuostatos
 
 3. Heraldinis projektas – (toliau – projektas) teisės aktų nustatyta tvarka sukurtas ir patvirtintas piešinys, kurio pagrindu gaminamos herbinės vėliavos, herbiniai ženklai, herbiniai antspaudai ir kiti heraldikos objektai.
 
-4. Herbas – teisės aktų nustatyta tvarka sukurtas ir patvirtintas valstybės, apskrities, savivaldybės, miesto, miestelio ar kaimo skiriamasis ženklas, skirtas simbolizuoti ir išskirti subjektą, kuriam jis sukurtas.
+4. Herbas – teisės aktų nustatyta tvarka sukurtas ir patvirtintas valstybės, apskrities, savivaldybės, etnografinio regiono, miesto, miestelio ar kaimo skiriamasis ženklas, skirtas subjektui, kuriam jis sukurtas, simbolizuoti ir išskirti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2139, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09398
 
 5. Herbinė vėliava – teisės aktų nustatyta tvarka sukurta ir patvirtinta vėliava, kurios pagrindą sudaro herbas arba herbo figūra ir jų spalvos.
 
@@ -286,7 +290,11 @@ Nr. XI-745, 2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
 
 10 straipsnis. Etalonų ir projektų tvirtinimas ir derinimas
 
-1. Apskričių, savivaldybių, miestų, miestelių ir kaimų herbų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos Prezidentas.
+1. Apskričių, savivaldybių, etnografinių regionų, miestų, miestelių ir kaimų herbų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos Prezidentas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2139, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09398
 
 2. Savivaldybių patvirtintų herbų pagrindu jų herbinių vėliavų, herbinių antspaudų, taip pat merų ir seniūnų ženklų projektus, suderinusi su savivaldybės taryba, tvirtina Lietuvos heraldikos komisija.
 
@@ -336,7 +344,11 @@ TREČIASIS SKIRSNIS
 
 KITI HERBAI IR HERBINIAI ŽENKLAI
 
-8 straipsnis. Savivaldybės, miesto, miestelio ir kaimo herbas
+8 straipsnis. Savivaldybės, etnografinio regiono, miesto, miestelio ir kaimo herbas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIII-2139, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09398
 
 1. Savivaldybės herbą savivaldybės tarybos nustatyta tvarka naudoja savivaldybės institucijos, įstaigos, savivaldybių administracijos padaliniai ir valstybės tarnautojai bei darbuotojai.
 
@@ -346,11 +358,29 @@ KITI HERBAI IR HERBINIAI ŽENKLAI
 
 4. Savivaldybės herbas yra savivaldybės nematerialusis turtas. Kiti asmenys jį gali naudoti tik savivaldybės tarybos nustatyta tvarka, išskyrus atvejus, kai herbas ar jo atvaizdas naudojami leidybos, mokslo ir visuomenės informavimo srityse.
 
-5. Miesto, miestelio ir kaimo herbo naudojimo tvarką nustato savivaldybės taryba.
+5. Etnografinio regiono herbas yra Lietuvos etnografinių regionų – Aukštaitijos, Dzūkijos (Dainavos), Suvalkijos (Sūduvos), Žemaitijos ir Mažosios Lietuvos – nematerialusis turtas. Etnografinio regiono herbo naudojimo tvarką nustato Etninės kultūros globos taryba.
 
-6. Mero ženkle ir seniūno ženkle atvaizduojamas atitinkamos savivaldybės miesto, miestelio ar kaimo herbas.
+Papildyta straipsnio dalimi:
 
-7. Antspaudų su savivaldybės herbu apyvartą reglamentuoja Lietuvos Respublikos antspaudų apyvartos įstatymas.
+Nr. XIII-2139, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09398
+
+6. Miesto, miestelio ir kaimo herbo naudojimo tvarką nustato savivaldybės taryba.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2139, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09398
+
+7. Mero ženkle ir seniūno ženkle atvaizduojamas atitinkamos savivaldybės miesto, miestelio ar kaimo herbas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2139, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09398
+
+8. Antspaudų su savivaldybės herbu apyvartą reglamentuoja Lietuvos Respublikos antspaudų apyvartos įstatymas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2139, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09398
 
 Straipsnio pakeitimai:
 
@@ -633,4 +663,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-542, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11939
 
 Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo Nr. I-130 5 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2139, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09398
+
+Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo Nr. I-130 2, 8 ir 10 straipsnių pakeitimo įstatymas
 
