@@ -4,7 +4,7 @@ identifier: "TAR.0F8C601D8592"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-09"
-last_updated: "2019-07-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2022-01-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
 
@@ -554,7 +554,11 @@ Valstybės sienos apsaugos tarnyba automatizuotu būdu kaupia ir tvarko duomenis
 
 12) pradeda administracinių nusižengimų teiseną, atlieka administracinių nusižengimų tyrimą ir surašo administracinių nusižengimų protokolus, taiko administracinio poveikio priemones;
 
-13) vykdo Lietuvos Respublikos branduolinės energijos įstatymo nustatyta tvarka pavestų saugoti objektų fizinę apsaugą;
+13) neteko galios 2019-10-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2155, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09407
 
 14) organizuoja ir vykdo Valstybės sienos apsaugos tarnybos orlaivių skrydžius, Vyriausybės nustatyta tvarka bei valstybės ir savivaldybių institucijų ir įstaigų prašymu pagal sudarytas bendradarbiavimo sutartis naudoja Valstybės sienos apsaugos tarnybos orlaivius atliekant paieškos ir gelbėjimo darbus, teikiant medicinos pagalbą, gabenant donorų organus ir audinius, vykdant Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto ar jų teritorijų fizinę saugą, atliekant valstybinius geodezijos ir kartografijos darbus, padedant valstybės ir savivaldybių institucijoms ir įstaigoms įgyvendinti priskirtas funkcijas;
 
@@ -862,7 +866,7 @@ Jeigu Lietuvos Respublikos tarptautinėje sutartyje nustatytos kitokios nuostato
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -941,4 +945,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
 
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 26 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2155, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09407
+
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 23 straipsnio pakeitimo įstatymas
 
