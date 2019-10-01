@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2019-09-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
+
+TAR pastaba. Įstatymas Nr. XIII-2285 taikomas ir vykdomosioms byloms, pradėtoms iki šio įstatymo įsigaliojimo (2019-10-01).
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
+
+Lietuvos Respublikos civilinio proceso kodekso 626, 628, 629, 668 ir 691 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -2135,11 +2143,13 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 1. Vykdant išieškojimą iš fizinių asmenų, išieškojimas negali būti nukreipiamas į buities, ūkio, darbo, mokymosi reikmenis ir kitą turtą, kurie būtini skolininko ar jo šeimos pragyvenimui, darbui pagal jo profesiją ar mokymuisi. Šio turto sąrašas nustatytas Sprendimų vykdymo instrukcijoje. Be to, išieškojimas negali būti nukreipiamas į pinigų sumą, neviršijančią Vyriausybės nustatytos vienos minimaliosios mėnesinės algos (MMA), visus būtinus vaikų ir neįgaliųjų reikmenis. Šių reikmenų sąrašas nustatytas Sprendimų vykdymo instrukcijoje.
 
-2. Vykdant išieškojimą iš valstybės, savivaldybės ar biudžetinių įstaigų, išieškojimas gali būti nukreipiamas tik į joms priklausančias pinigines lėšas. Vykdant išieškojimą iš valstybės ar biudžetinių įstaigų, išieškojimas negali būti nukreipiamas į valstybės iždo bendrąją sąskaitą Lietuvos Respublikos valstybės iždo įstatyme nustatytais atvejais.
+2. Vykdant išieškojimą iš valstybės, savivaldybės ar biudžetinių įstaigų, išieškojimas gali būti nukreipiamas tik į joms priklausančias pinigines lėšas, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto ir mirusio skolininko turtą paveldi valstybė. Vykdant išieškojimą iš valstybės ar biudžetinių įstaigų, išieškojimas negali būti nukreipiamas į valstybės iždo bendrąją sąskaitą Lietuvos Respublikos valstybės iždo įstatyme nustatytais atvejais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
 
 3. Išieškojimas remiamo projekto vykdymo laikotarpiu ir projekto veiklos privalomojo tęstinumo laikotarpiu, nustatytu Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse, negali būti nukreipiamas į lėšas, gautas kaip Europos Sąjungos ar kitos tarptautinės finansinės paramos ar bendrojo finansavimo lėšos remiamam projektui vykdyti. Šis draudimas išieškoti netaikomas, kai remiamo projekto vykdymą kontroliuojančių institucijų iniciatyva lėšos išieškomos, nes buvo panaudotos pažeidžiant Europos Sąjungos, Lietuvos Respublikos teisės aktus ar tarptautines sutartis arba sutartis dėl šių lėšų suteikimo.
 
@@ -3670,6 +3680,12 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 4) kai įkaito turėtojas ar hipotekos kreditorius neprisijungia prie išieškojimo, jeigu išieškoma atitinkamai iš įkeisto turto ar hipoteka įkeisto turto.
 
 3. Kai turtas areštuotas ar nuosavybės teisės į turtą laikinai apribotos tos pačios ar paskesnės eilės kreditorių reikalavimams užtikrinti, išieškojimas iš šio turto nestabdomas. Šiuo atveju išieškojimas iš areštuoto turto ar lėšų vykdomas Sprendimų vykdymo instrukcijoje nustatyta tvarka.
+
+4. Jeigu mirusio skolininko turtą paveldi valstybė, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto, sustabdydamas vykdomąją bylą, antstolis privalo panaikinti skolininko turto areštą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
 
 Straipsnio pakeitimai:
 
@@ -10591,6 +10607,12 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 3. Sustabdžius vykdomąją bylą šio Kodekso 626 ir 627 straipsniuose numatytais pagrindais, antstolis gali imtis tik priemonių skolininko turtui surasti bei areštuoti.
 
+4. Vykdomoji byla, kurioje mirusio skolininko turtą paveldi valstybė, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto, sustabdoma tol, kol valstybės institucija Vyriausybės nustatyta tvarka realizuos valstybės paveldėtą skolininko turtą ir apmokės antstoliui vykdymo išlaidas, apskaičiuotas iki vykdomosios bylos sustabdymo dėl to, kad mirusio skolininko turtą paveldi valstybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
+
 629 straipsnis. Vykdomosios bylos nutraukimas
 
 1. Vykdomoji byla nutraukiama:
@@ -11151,11 +11173,13 @@ Rastas pas skolininką pinigų sumas, reikalingas išieškomai sumai ir vykdymo 
 
 1. Turto realizavimas – tai areštuoto skolininkui ar įkaito davėjui nuosavybės teise priklausančio turto priverstinis pardavimas iš varžytynių, per įmones, kurios verčiasi turto prekyba ar perdirbimu, perdavimas išieškotojui ar realizavimas kita šiame Kodekse nustatyta tvarka.
 
-2. Areštuotą turtą, atsižvelgiant į arešto pagrindus ir turto rūšis, įstatymų nustatyta tvarka realizuoja antstolis, Valstybinė mokesčių inspekcija, vertybinių popierių viešosios apyvartos tarpininkai ir prekybos įmonės.
+2. Areštuotas turtas, atsižvelgiant į arešto pagrindus ir turto rūšis, realizuojamas šiame Kodekse, Vyriausybės ir Sprendimų vykdymo instrukcijoje nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
 
 692 straipsnis. Perduodamo valstybei turto realizavimas
 
