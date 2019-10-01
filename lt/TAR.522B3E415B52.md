@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2019-07-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-12-29
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -2324,9 +2324,17 @@ Nr. XII-295, 2013-05-14, Žin., 2013, Nr. 57-2839 (2013-06-01)
 
 4. Teismų investicijų projektus įgyvendina Nacionalinė teismų administracija.
 
-5. Pastatai ir kitas turtas, kuriuo naudojasi teismai ir Nacionalinė teismų administracija, yra valstybės nuosavybė. Teismai ir Nacionalinė teismų administracija šį turtą valdo, juo naudojasi ir disponuoja turto patikėjimo teise. Teismams ir Nacionalinei teismų administracijai perduotas turtas negali būti paimtas be Teisėjų tarybos sutikimo.
+5. Pastatai ir kitas turtas, kuriuo naudojasi teismai ir Nacionalinė teismų administracija, yra valstybės nuosavybė. Teismai ir Nacionalinė teismų administracija šį turtą, išskyrus šio straipsnio 6 dalyje nustatytus atvejus, valdo, naudoja ir juo disponuoja patikėjimo teise. Teismams ir Nacionalinei teismų administracijai perduotas turtas negali būti paimtas be Teisėjų tarybos sutikimo.
 
-6. Atskirais atvejais teismai savo funkcijoms atlikti reikalingas patalpas gali nuomotis.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2284, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12173
+
+6. Atskirais atvejais teismai savo funkcijoms atlikti reikalingas patalpas gali nuomotis, valdyti valstybės nekilnojamąjį turtą ir juo naudotis panaudos pagrindais, taip pat apsirūpinti teismų funkcijoms atlikti reikalingu nekilnojamuoju turtu centralizuotą valstybės nekilnojamojo turto valdymą reglamentuojančių teisės aktų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2284, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12173
 
 Straipsnio pakeitimai:
 
@@ -2374,7 +2382,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
