@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2019-05-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -912,7 +912,11 @@ Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
 
 9. Pareiškėjas ar licencijos turėtojas užtikrina, kad TATENA, Euratomo inspektoriai ir Valstybinės atominės energetikos saugos inspekcijos ir kitų priežiūrą vykdančių institucijų ar įstaigų darbuotojai, turintys įgaliojimus lankytis branduolinės energetikos objekto aikštelėje ir (ar) branduolinės energetikos apsaugos zonose, įgaliojimus dalyvauti vežant Branduolinės saugos įstatymo 1 priede nurodytas branduolines medžiagas nustatytais kiekiais ir (ar) branduolinio kuro ciklo medžiagas, netrukdomi galėtų patekti į branduolinės energetikos objekto apsaugos zonas ir (ar) branduolinės energetikos objekto aikštelę, netrukdomi galėtų dalyvauti vežant Branduolinės saugos įstatymo 1 priede nurodytas branduolines medžiagas nustatytais kiekiais ir (ar) branduolinio kuro ciklo medžiagas, taip pat sudaro jiems sąlygas pareigoms atlikti.
 
-10. Vykdant nusikalstamų veikų, galinčių sutrikdyti branduolinės energetikos objekto eksploatavimą, prevenciją, branduolinės energetikos objekto riboto patekimo zonoje gali būti tikrinami ir apžiūrimi joje esantys fiziniai asmenys, transporto priemonės, gabenami kroviniai bei jų dokumentai, taip pat gali būti ribojamas fizinių asmenų patekimas į šią zoną. Teisę tikrinti fizinius asmenis, transporto priemones, krovinius ir jų dokumentus bei riboti fizinių asmenų patekimą į riboto patekimo zoną turi Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos ir Policijos departamento prie Vidaus reikalų ministerijos pareigūnai, vadovaudamiesi jų teises ir pareigas reglamentuojančiais įstatymais.
+10. Vykdant nusikalstamų veikų, galinčių sutrikdyti branduolinės energetikos objekto eksploatavimą, prevenciją, branduolinės energetikos objekto riboto patekimo zonoje gali būti tikrinami ir apžiūrimi joje esantys fiziniai asmenys, transporto priemonės, gabenami kroviniai bei jų dokumentai, taip pat gali būti ribojamas fizinių asmenų patekimas į šią zoną. Teisę tikrinti fizinius asmenis, transporto priemones, krovinius ir jų dokumentus bei riboti fizinių asmenų patekimą į riboto patekimo zoną turi Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos ir Policijos departamento prie Vidaus reikalų ministerijos pareigūnai, vadovaudamiesi jų teises ir pareigas reglamentuojančiais įstatymais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2156, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09408
 
 11. Visų rūšių orlaiviams ir kitiems skraidymo aparatams draudžiama skraidyti virš branduolinės (atominės) elektrinės ir Vyriausybės ar jos įgaliotos institucijos ar įstaigos nustatytos neskraidymo zonos, išskyrus atvejus, kai skraidyti būtina dėl branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko statybos, eksploatavimo, eksploatavimo nutraukimo arba branduolinei ar radiologinei avarijai likviduoti.
 
@@ -1369,6 +1373,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1913, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00846
 
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 15, 16 ir 50 straipsnių pakeitimo įstatymas
+
+26.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2156, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09408
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 36 straipsnio pakeitimo įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
