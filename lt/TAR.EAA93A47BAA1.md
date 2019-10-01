@@ -4,7 +4,7 @@ identifier: "TAR.EAA93A47BAA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-28"
-last_updated: "2019-09-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
 
@@ -763,7 +763,13 @@ Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
 
 2. Pirminę teisinę pagalbą teikiančios viešosios įstaigos turi teisę sudaryti galimybę teisės mokslų studentams atlikti teisinę praktiką.
 
-3. Pagal šį įstatymą pirminę teisinę pagalbą teikiančioms viešosioms įstaigoms gali būti perduotos laikinai naudotis panaudos pagrindais valstybės ir savivaldybių negyvenamosios patalpos, kitas turtas.
+3. Neteko galios 2019-10-01.
+
+TAR pastaba. Iki įstatymo Nr. XIII-2290 įsigaliojimo dienos (2019-10-01) sudarytos terminuotos valstybės (savivaldybės) turto panaudos sutartys galioja iki jų pabaigos dienos. Įsigaliojus šiam įstatymui, valstybės (savivaldybės) turto panaudos davėjai, Lietuvos Respublikos civilinio kodekso nustatyta tvarka įspėję panaudos gavėjus, nutraukia visas neterminuotas valstybės (savivaldybės) turto panaudos sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2290, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12178
 
 PENKTASIS SKIRSNIS
 
