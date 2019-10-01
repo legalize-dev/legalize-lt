@@ -4,7 +4,7 @@ identifier: "TAR.58146A37675A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-09-21"
-last_updated: "2017-01-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-11-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
-
-TAR pastaba. Iki įstatymo Nr. XII-2764 įsigaliojimo (2017-01-01) paskirtų Etninės kultūros globos tarybos narių ir Etninės kultūros globos tarybos pirmininko įgaliojimai tęsiasi iki kadencijos, kuriai jie buvo paskirti, pabaigos.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2764, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26963
-
-Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 5 ir 8 straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
 
 LIETUVOS RESPUBLIKOS ETNINĖS KULTŪROS VALSTYBINĖS GLOBOS PAGRINDŲ ĮSTATYMAS
 
@@ -227,11 +219,15 @@ Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA
 
 7. Valstybė remia nevyriausybines organizacijas (sąjungas, draugijas, klubus, ansamblius bei kitas folklorinės raiškos formas), kurios rūpinasi etnine kultūra, skatina ir koordinuoja jų pastangas pažinti, plėtoti ir propaguoti etninę kultūrą.
 
-8. Valstybės ir savivaldybių institucijos įstatymų nustatyta tvarka panaudos pagrindais gali suteikti patalpas ar kitą turtą, reikalingą etninės kultūros subjektų veiklai.
+8. Neteko galios 2019-10-01.
+
+TAR pastaba. Iki įstatymo Nr. XIII-2293 įsigaliojimo dienos (2019-10-01) sudarytos terminuotos valstybės (savivaldybės) turto panaudos sutartys galioja iki jų pabaigos dienos. Įsigaliojus šiam įstatymui, valstybės (savivaldybės) turto panaudos davėjai, Lietuvos Respublikos civilinio kodekso nustatyta tvarka įspėję panaudos gavėjus, nutraukia visas neterminuotas valstybės (savivaldybės) turto panaudos sutartis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
+
+Nr. XIII-2293, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12181
 
 9. Lietuvos nacionalinio radijo ir televizijos taryba, nustatydama etninės kultūros laidų transliavimą (trukmę ir turinį), atsižvelgia į Etninės kultūros globos tarybos siūlymus.
 
@@ -364,6 +360,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2764, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26963
 
 Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 5 ir 8 straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2293, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12181
+
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 8 straipsnio pakeitimo įstatymas
 
 12 straipsnis. Pasiūlymas Vyriausybei
 
