@@ -4,7 +4,7 @@ identifier: "TAR.07CAE5E6C2B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-26"
-last_updated: "2018-04-30"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,9 +16,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2018-04-30 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2023-12-22
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
+
+TAR pastaba. Įsigaliojus (2019-07-01) įstatymui Nr. XIII-2140, statutinių institucijų veiklą reglamentuojančiuose teisės aktuose vartojama sąvoka „štandartas“ atitinka šiame įstatyme vartojamą sąvoką „statutinės institucijos vėliava“.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
+
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo Nr. I-1497 1, 2, 4, 13 straipsnių ir penktojo skirsnio pavadinimo pakeitimo įstatymas
 
 Nauja redakcija nuo 2004-09-01:
 
@@ -38,11 +46,13 @@ BENDROSIOS NUOSTATOS
 
 1. Šis įstatymas reglamentuoja Lietuvos valstybės vėliavą, kitas vėliavas, jų aprašymus, oficialaus naudojimo Lietuvos Respublikoje principus ir tvarką, atsakomybę už vėliavų iškėlimo tvarkos pažeidimus ar vėliavų išniekinimą, vėliavų gamybą ir priežiūrą.
 
-2. Lietuvos Respublikos teritorijoje oficialiai gali būti naudojamos Lietuvos valstybės vėliava, Lietuvos valstybės istorinė (herbinė) vėliava, užsienio valstybių vėliavos, Europos Sąjungos vėliava, tarptautinių viešųjų organizacijų vėliavos, kitų tarptautinių organizacijų vėliavos, Respublikos Prezidento vėliava, apskričių ir savivaldybių vėliavos, štandartai, kitos vėliavos, stalo ir automobilio vėliavėlės (toliau – vėliavos).
+2. Lietuvos Respublikos teritorijoje oficialiai gali būti naudojamos Lietuvos valstybės vėliava, Lietuvos valstybės istorinė (herbinė) vėliava, užsienio valstybių vėliavos, Europos Sąjungos vėliava, tarptautinių viešųjų organizacijų vėliavos, kitų tarptautinių organizacijų vėliavos, Respublikos Prezidento vėliava, Lietuvos kariuomenės ar jos karinių vienetų ir statutinių institucijų vėliavos, apskričių ir savivaldybių vėliavos, Lietuvos etnografinių regionų vėliavos, miestų, miestelių ir kaimų vėliavos, užsienio lietuvių bendruomenių vėliavos, kitos vėliavos, stalo ir automobilio vėliavėlės (toliau – vėliavos).
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1472, 2008-04-01, Žin., 2008, Nr. 45-1680 (2008-04-19), i. k. 1081010ISTA00X-1472
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
 
 3. Lietuvos valstybės vėliavos etalonas negali būti naudojamas kaip heraldikos pagrindas kitoms vėliavoms. Kitos vėliavos negali būti identiškos Lietuvos valstybės vėliavai.
 
@@ -74,7 +84,11 @@ Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA
 
 7. Savivaldybės vėliava – savivaldybės tarybos su Lietuvos heraldikos komisija suderintas ir patvirtintas savivaldybės atributikos objektas.
 
-8. Štandartas – statutinės institucijos, karinio vieneto arba savivaldybės seniūnijos su Lietuvos heraldikos komisija suderintas ir jų veiklą reglamentuojančių teisės aktų nustatyta tvarka patvirtintas atributikos objektas.
+8. Lietuvos kariuomenės ar jos karinio vieneto vėliava – su Lietuvos heraldikos komisija suderintas ir Lietuvos kariuomenės veiklą reglamentuojančių teisės aktų nustatyta tvarka patvirtintas Lietuvos kariuomenės ar jos pajėgų rūšies, junginio, dalinio, kito savarankiško karinio vieneto atributikos objektas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
 
 9. Kitos vėliavos – viešųjų ir privačių juridinių asmenų su Lietuvos heraldikos komisija suderintas ir jų veiklą reglamentuojančių teisės aktų nustatyta tvarka patvirtintas ar priimtas atributikos objektas.
 
@@ -93,6 +107,30 @@ Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010IS
 Papildyta straipsnio dalimi:
 
 Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
+
+14. Statutinės institucijos vėliava – su Lietuvos heraldikos komisija suderintas ir statutinės institucijos veiklą reglamentuojančių teisės aktų nustatyta tvarka patvirtintas statutinės institucijos atributikos objektas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
+
+15. Lietuvos etnografinių regionų vėliavos – Etninės kultūros globos tarybos su Lietuvos heraldikos komisija suderinti ir patvirtinti Lietuvos etnografinių regionų (Aukštaitijos, Dzūkijos (Dainavos), Suvalkijos (Sūduvos), Žemaitijos ir Mažosios Lietuvos) atributikos objektai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
+
+16. Miesto, miestelio arba kaimo vėliava – savivaldybės tarybos su Lietuvos heraldikos komisija suderintas ir patvirtintas miesto, miestelio arba kaimo atributikos objektas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
+
+17. Užsienio lietuvių bendruomenių vėliavos – užsienio valstybių (kraštų) lietuvių bendruomenių valdymo institucijų su Lietuvos heraldikos komisija ir Pasaulio lietuvių bendruomenės valdyba suderinti ir patvirtinti užsienio valstybių (kraštų) lietuvių bendruomenių atributikos objektai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
 
 3 straipsnis. Vėliavų spalvos ir matmenys
 
@@ -134,13 +172,25 @@ Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010IS
 
 6) Respublikos Prezidento vėliava;
 
-7) štandartai;
+7) Lietuvos kariuomenės ar jos karinių vienetų vėliavos;
 
-8) apskričių vėliavos;
+8) statutinių institucijų vėliavos;
 
-9) savivaldybių vėliavos;
+9) apskričių vėliavos;
 
-10) kitos vėliavos.
+10) savivaldybių vėliavos;
+
+11) Lietuvos etnografinių regionų vėliavos;
+
+12) miestų, miestelių ir kaimų vėliavos;
+
+13) užsienio lietuvių bendruomenių vėliavos;
+
+14) kitos vėliavos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
 
 7. Vėliavų kėlimo laiką nustato Lietuvos Respublikos Vyriausybė.
 
@@ -368,15 +418,45 @@ Nr. XIII-1020, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00964
 
 PENKTASIS SKIRSNIS
 
-ŠTANDARTAI, APSKRIČIŲ, SAVIVALDYBIŲ VĖLIAVOS
+LIETUVOS KARIUOMENĖS AR JOS KARINIŲ VIENETŲ, STATUTINIŲ INSTITUCIJŲ, ETNOGRAFINIŲ REGIONŲ, MIESTŲ, MIESTELIŲ IR KAIMŲ, UŽSIENIO LIETUVIŲ BENDRUOMENIŲ VĖLIAVOS
 
-13 straipsnis. Štandartų, apskričių ir savivaldybių vėliavų naudojimas
+Pakeistas skirsnio pavadinimas:
 
-1. Štandartų naudojimo tvarką nustato statutinių institucijų ar karinių dalinių veiklą reglamentuojantys teisės aktai.
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
+
+13 straipsnis. Lietuvos kariuomenės ar jos karinių vienetų, statutinių institucijų, apskričių ir savivaldybių, Lietuvos etnografinių regionų, miestų, miestelių ir kaimų, užsienio lietuvių bendruomenių vėliavų naudojimas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
+
+1. Lietuvos kariuomenės ar jos karinio vieneto, statutinės institucijos vėliavos naudojimo tvarką nustato Lietuvos kariuomenės, statutinių institucijų veiklą reglamentuojantys teisės aktai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
 
 2. Apskričių vėliavų naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 3. Savivaldybės vėliava iškeliama savivaldybės tarybos nustatyta tvarka.
+
+4. Lietuvos etnografinių regionų (Aukštaitijos, Dzūkijos (Dainavos), Suvalkijos (Sūduvos), Žemaitijos ir Mažosios Lietuvos) vėliavų naudojimo tvarką nustato Etninės kultūros globos taryba.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
+
+5. Miestų, miestelių ir kaimų vėliavų naudojimo tvarką nustato savivaldybės taryba.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
+
+6. Užsienio valstybių (kraštų) lietuvių bendruomenių vėliavų naudojimo tvarką nustato užsienio valstybių (kraštų) lietuvių bendruomenių valdymo institucijos, suderinusios su Pasaulio lietuvių bendruomenės valdyba.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
 
 ŠEŠTASIS SKIRSNIS
 
@@ -470,7 +550,7 @@ LIETUVOS RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS TARYBOS
 
-PIRMININKO PAVADUOTOJAS                                                                     B. KUZMICKAS
+PIRMININKO PAVADUOTOJAS                                                                      B. KUZMICKAS
 
 Vilnius, 1991 m. birželio 26 d.
 
@@ -613,6 +693,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1020, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00964
 
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo Nr. I-1497 5, 10 ir 18 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
+
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo Nr. I-1497 1, 2, 4, 13 straipsnių ir penktojo skirsnio pavadinimo pakeitimo įstatymas
 
 101 straipsnis. Lietuvos valstybės istorinės vėliavos projekto ir etalono tvirtinimas
 
