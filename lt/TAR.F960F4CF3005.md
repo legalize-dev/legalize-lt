@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2019-05-08"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Suvestinė redakcija nuo 2019-05-08 iki 2019-10-17
+Suvestinė redakcija nuo 2019-10-18 iki 2019-12-21
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1743, i. k. 0971010ISTAVIII-385
 
@@ -85,8 +85,6 @@ TREČIASIS SKIRSNIS
 
 SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ VALSTYBĖS BIUDŽETO DOTACIJŲ IR PROGNOZUOJAMŲ LĖŠŲ NUSTATYMO TVARKA
 
-TAR pastaba. Trečiojo skirsnio nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-
 5 straipsnis. Valstybės biudžeto dotacijos ir jų dydžio nustatymas
 
 1. Valstybės biudžeto bendroji dotacija (BD) savivaldybių biudžetams skiriama:
@@ -103,17 +101,9 @@ TAR pastaba. Trečiojo skirsnio nuostatos taikomos rengiant Lietuvos Respublikos
 
 TAR pastaba. 2 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2020 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2099, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07406
-
 3) Seimo, Vyriausybės patvirtintoms programoms ar priimtiems sprendimams vykdyti.
 
 3. Netenka galios 2017-12-14.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-808, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20002
 
 6 straipsnis. Prognozuojamos lėšos savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų skirtumams išlyginti
 
@@ -203,8 +193,6 @@ RODIKLIŲ TVIRTINIMAS, DERINIMAS, DOTACIJŲ IR LĖŠŲ PERVEDIMAS
 
 2. Savivaldybės gyventojų skaičius ir šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodyti rodikliai nustatomi pagal einamųjų biudžetinių metų sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose nustatyta tvarka ir terminais. Šio straipsnio 1 dalies 1, 2, 6, 7, 8 ir 9 punktuose nurodyti rodikliai nustatomi pagal duomenis, paskelbtus praėjusių biudžetinių metų statistiką tvarkančių institucijų, įstaigų leidinių duomenų bazėse.
 
-TAR pastaba. 9 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2016 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
-
 Straipsnio pakeitimai:
 
 Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
@@ -225,7 +213,7 @@ Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
 
 a) jeigu mažėja savivaldybių iš gyventojų pajamų mokesčio gaunamos savivaldybių biudžetų prognozuojamos pajamos, naudojama suma apskaičiuojama pagal formulę:
 
-PSBGPM = GPMKVSBNS · GPM%(pt) – 0,5 · GPMKVSBNS, čia:
+PSBGPM = GPMKVSBNS · GPM%(pt) – 0,3 · GPMKVSBNS, čia:
 
 PSBGPM – savivaldybių biudžetų gyventojų pajamų mokesčio prognozuojama suma gyventojų pajamų mokesčio daliai (procentais) koreguoti;
 
@@ -234,6 +222,12 @@ GPMKVSBNS – konsoliduota valstybės biudžeto ir savivaldybių biudžetų gyve
 GPM%(pt) – einamųjų biudžetinių metų savivaldybių biudžetams patvirtinta pastovioji gyventojų pajamų mokesčio dalis (procentais), tenkanti visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus;
 
 b) jeigu mažėja kitos savivaldybių biudžetų gaunamos prognozuojamos pajamos, naudojama visa savivaldybių biudžetų kitų prognozuojamų netekti pajamų suma;
+
+TAR pastaba. 1 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2020 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2467, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16482
 
 2) kintamąją gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą, kuri gali būti skiriama bent vienam iš šių tikslų:
 
@@ -703,11 +697,9 @@ BRAZAUSKAS
 
 2. Savivaldybės gyventojų skaičius ir šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodyti rodikliai nustatomi pagal einamųjų biudžetinių metų sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose nustatyta tvarka ir terminais. Šio straipsnio 1 dalies 1, 2, 6, 7, 8 ir 9 punktuose nurodyti rodikliai nustatomi pagal duomenis, paskelbtus praėjusių biudžetinių metų statistiką tvarkančių institucijų, įstaigų leidinių duomenų bazėse.
 
-TAR pastaba. 91 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+Straipsnio pakeitimai:
 
-Papildyta straipsniu:
-
-Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
+Nr. XIII-2467, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16482
 
 101 straipsnis. Finansinio rodiklio verslo plėtros sąlygoms gerinti dydis ir sumos, apskaičiuotos taikant šį dydį, paskirstymas savivaldybėms
 
