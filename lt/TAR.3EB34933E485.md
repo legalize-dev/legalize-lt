@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2019-07-30"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-30 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -2199,7 +2199,17 @@ Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 20) atleisti mokesčių mokėtoją ar trečiąjį asmenį nuo mokesčių administratoriaus kompetencijai priklausančiuose įgyvendinti teisės aktuose nustatytų reikalavimų vykdymo, jeigu tinkamas mokesčių mokėtojo mokestinės prievolės įvykdymas užtikrinamas centrinio mokesčių administratoriaus pripažintomis lygiavertėmis alternatyviomis priemonėmis;
 
-21) naudotis kitomis mokesčių ir kitų įstatymų suteiktomis teisėmis.
+21) centrinio mokesčių administratoriaus nustatyta tvarka priimti automatizuotu duomenų tvarkymu, įskaitant profiliavimą, grindžiamus sprendimus;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
+
+22) naudotis kitomis mokesčių ir kitų įstatymų suteiktomis teisėmis.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
 
 Straipsnio pakeitimai:
 
@@ -2253,7 +2263,23 @@ Mokesčių mokėtojas turi teisę:
 
 12) įstatymų nustatyta tvarka apskųsti bet kokį mokesčių administratoriaus (jo pareigūno) veiksmą ar jo neatlikimą;
 
-13) naudotis kitomis šio ir kitų įstatymų bei jų lydimųjų teisės aktų suteiktomis teisėmis.
+13) tvarkyti mokesčių apskaičiavimo teisingumui pagrįsti reikalingus asmens duomenis;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
+
+14) pareikšti savo požiūrį dėl mokesčių administratoriaus priimtų sprendimų, kurie grindžiami automatizuotu duomenų tvarkymu, įskaitant profiliavimą, ir reikalauti, kad tokius sprendimus peržiūrėtų ir motyvuotus paaiškinimus dėl jų pateiktų ar juos pakeistų tam įgaliotas mokesčių administratoriaus pareigūnas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
+
+15) naudotis kitomis šio ir kitų įstatymų bei jų lydimųjų teisės aktų suteiktomis teisėmis.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
 
 37 straipsnis. Mokesčių mokėtojų konsultavimas
 
