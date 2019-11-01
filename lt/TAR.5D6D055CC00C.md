@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2019-09-01"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
 
@@ -725,6 +725,12 @@ Nr. XIII-1644, 2018-11-15, paskelbta TAR 2018-11-27, i. k. 2018-19126
 Papildyta straipsnio dalimi:
 
 Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
+
+13. Jeigu šio straipsnio 1 dalies 1 punkte nurodyti atvejai yra numatyti bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose, miško žemė gali būti paverčiama kitomis naudmenomis ir netaikant šio straipsnio 5 ir 6 dalyse nustatytų reikalavimų, kai tai reikalinga valstybei svarbiems projektams įgyvendinti ir kai Vyriausybė priima nutarimą dėl tam tikrų valstybinės miško žemės plotų pavertimo kitomis naudmenomis, o jeigu tai valstybinės reikšmės miškai, – ir nutarimą dėl tam tikrų valstybinės reikšmės miškų plotų išbraukimo iš valstybinės reikšmės miškų plotų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1988, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04584
 
 Straipsnio pakeitimai:
 
