@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2019-10-01"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -2620,7 +2620,7 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 1. Kiekvienais metais ūkio subjektams skirtinos tam tikros rūšies žuvų individualios žvejybos galimybės apskaičiuojamos pagal jiems suteiktą teisę į žvejybos galimybes, išskyrus priekrantės žvejybą, taip pat individualios žvejybos galimybės gali būti įsigyjamos aukciono būdu. Jeigu teisė į žvejybos galimybes ar individualios žvejybos galimybės buvo įsigytos aukciono būdu, individualios žvejybos galimybės skiriamos tik tuo atveju, kai ūkio subjektas sumoka už jas aukcione pasiūlytą kainą.
 
-2. Teisė į žvejybos galimybes suteikiama ūkio subjektams 3 kalendoriniams metams.
+2. Teisė į žvejybos galimybes suteikiama ūkio subjektams 15 kalendorinių metų.
 
 3. Žvejybos produktų gamintojų organizacijos nariai gali įgalioti organizaciją valdyti nariams priklausančias teises į žvejybos galimybes arba individualias žvejybos galimybes, informavę apie tai Žuvininkystės tarnybą.
 
@@ -2642,7 +2642,7 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 6. Ūkio subjektai, turintys teisę naudoti žvejybos įrankius viename ar keliuose priekrantės žvejybos baruose, informavę Žuvininkystės tarnybą, gali sudaryti susitarimus dėl bendro šių teisių naudojimo.
 
-7. Teisė naudoti žvejybos įrankius suteikiama ūkio subjektams 3 kalendoriniams metams.
+7. Teisė naudoti žvejybos įrankius suteikiama ūkio subjektams 15 kalendorinių metų.
 
 Papildyta straipsniu:
 
