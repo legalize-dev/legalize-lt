@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2019-07-01"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -2257,7 +2257,11 @@ Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
 
 3. Siūlyti parduoti Lietuvos Respublikoje vaistinius preparatus nuotoliniu būdu taip pat gali kitoje EEE valstybėje įsisteigę asmenys, turintys teisę siūlyti parduoti vaistinius preparatus gyventojams nuotoliniu būdu. Šiems asmenims netaikomi šio įstatymo 35 straipsnio 9 dalyje nurodyti reikalavimai.
 
-4. Siūlyti parduoti Lietuvos Respublikoje nuotoliniu būdu leidžiama tik registruotus nereceptinius vaistinius preparatus. Šis reikalavimas taikomas ir šio straipsnio 3 dalyje nurodytiems asmenims.
+4. Siūlyti parduoti Lietuvos Respublikoje nuotoliniu būdu leidžiama registruotus receptinius vaistinius preparatus pagal elektroninius receptus, išskyrus vaistinius preparatus, kurių sudėtyje yra narkotinių ir (ar) psichotropinių medžiagų, įrašytų į sveikatos apsaugos ministro tvirtinamus kontroliuojamų narkotinių ir psichotropinių medžiagų sąrašus, ir nereceptinius vaistinius preparatus. Šis reikalavimas taikomas ir šio straipsnio 3 dalyje nurodytiems asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
 
 5. Siūlyti parduoti nuotoliniu būdu kitai EEE valstybei galima tik vaistinius preparatus, kurie registruoti toje EEE valstybėje ir kurie joje yra priskirti prie nereceptinių vaistinių preparatų.
 
