@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2019-05-01"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
 
@@ -496,7 +496,11 @@ Valstybės teritorijos ir valstybės teritorijos dalių bendrųjų planų sprend
 
 1. Savivaldybės lygmens ir vietovės lygmens bendrųjų planų sprendiniai įgyvendinami:
 
-1) detalizuojant sprendinius žemesnio lygmens teritorijų planavimo dokumentuose, detaliuosiuose planuose ar žemėtvarkos planavimo dokumentuose – žemės valdos projektuose, kurių rengimą reglamentuoja Lietuvos Respublikos žemės įstatymas (toliau – Žemės įstatymas) (toliau – žemės valdos projektai). Miestuose ir miesteliuose žemės valdos projektų rengimą organizuoja ir juos tvirtina savivaldybės administracijos direktorius;
+1) detalizuojant sprendinius žemesnio lygmens teritorijų planavimo dokumentuose, detaliuosiuose planuose ar žemėtvarkos planavimo dokumentuose – žemės valdos projektuose, kurių rengimą reglamentuoja Lietuvos Respublikos žemės įstatymas (toliau – Žemės įstatymas) (toliau – žemės valdos projektai). Miestuose ir miesteliuose bei laisvosiose ekonominėse zonose ir pramonės parkuose žemės valdos projektų rengimą organizuoja ir juos tvirtina savivaldybės administracijos direktorius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
 
 2) išduodant statybą leidžiančius dokumentus Lietuvos Respublikos statybos įstatymo (toliau – Statybos įstatymas) nustatyta tvarka, kai detalieji planai ar žemės valdos projektai nerengiami;
 
@@ -588,7 +592,11 @@ Valstybės teritorijos ir valstybės teritorijos dalių bendrųjų planų sprend
 
 2. Detaliojo plano sprendiniams įgyvendinti:
 
-1) jeigu detaliajame plane numatyti tik žemės sklypų formavimo ir (ar) pertvarkymo principai, rengiami žemės valdos projektai, kuriuose pagal detaliojo plano nustatytus teritorijos naudojimo reglamentus suformuojami nauji žemės sklypai arba pertvarkomos esamų žemės sklypų ribos, vadovaujantis detaliajame plane numatytais principais, ir nustatoma ar keičiama pagrindinė žemės naudojimo paskirtis, naudojimo būdas. Miestuose ir miesteliuose žemės valdos projektų rengimą organizuoja ir juos tvirtina savivaldybės administracijos direktorius;
+1) jeigu detaliajame plane numatyti tik žemės sklypų formavimo ir (ar) pertvarkymo principai, rengiami žemės valdos projektai, kuriuose pagal detaliojo plano nustatytus teritorijos naudojimo reglamentus suformuojami nauji žemės sklypai arba pertvarkomos esamų žemės sklypų ribos, vadovaujantis detaliajame plane numatytais principais, ir nustatoma ar keičiama pagrindinė žemės naudojimo paskirtis, naudojimo būdas. Miestuose ir miesteliuose bei laisvosiose ekonominėse zonose ir pramonės parkuose žemės valdos projektų rengimą organizuoja ir juos tvirtina savivaldybės administracijos direktorius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
 
 2) išduodami statybą leidžiantys dokumentai Statybos įstatymo nustatyta tvarka, kai žemės valdos projektai yra neprivalomi.
 
@@ -622,9 +630,9 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 4) statant ar atstatant sodybas Lietuvos Respublikos saugomų teritorijų įstatymo (toliau – Saugomų teritorijų įstatymas) ir Lietuvos Respublikos miškų įstatymo (toliau – Miškų įstatymas) numatytais atvejais.
 
-6. Miestų ir miestelių teritorijose savivaldybės administracijos direktoriaus patvirtintais žemės valdos projektais:
+6. Miestų ir miestelių teritorijose, laisvųjų ekonominių zonų ar pramonės parkų teritorijose savivaldybės administracijos direktoriaus patvirtintais žemės valdos projektais:
 
-1) įgyvendinami šio įstatymo 16 straipsnio 1 dalies 1 punkte ir 19 straipsnio 2 dalies 1 punkte nustatytais atvejais kompleksinio teritorijų planavimo dokumentų sprendiniai;
+1) įgyvendinami šio įstatymo 16 straipsnio 1 dalies 1 punkte ir 19 straipsnio 2 dalies 1 punkte nustatytais atvejais kompleksinio teritorijų planavimo dokumentų sprendiniai;
 
 2) formuojami žemės sklypai esamiems statiniams eksploatuoti pagal Nekilnojamojo turto kadastre įrašytą jų tiesioginę paskirtį;
 
@@ -635,6 +643,10 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 5) įsiterpęs laisvos valstybinės žemės plotas tarp privačių arba išnuomotų valstybinės žemės sklypų ir kelio (gatvės) Vyriausybės nustatyta tvarka ir atvejais sujungiamas su besiribojančiu žemės sklypu, jeigu laisvoje valstybinėje žemėje negalima suformuoti racionalaus dydžio ir ribų žemės sklypo;
 
 6) suformuojami nauji valstybinės žemės sklypai, išskyrus atvejus, kai sklypai formuojami Lietuvos Respublikos žemės reformos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
 
 7. Tais atvejais, kai planuojamai ūkinei veiklai vykdyti teritorijų planavimo dokumentą ar žemės valdos projektą rengti neprivaloma, o įstatymų ar kitų teisės aktų nustatytais atvejais šiai veiklai vykdyti turi būti taikomos specialiosios žemės naudojimo sąlygos, jos nurodomos planuojamos ūkinės veiklos poveikio aplinkai vertinimo ar planuojamos ūkinės veiklos poveikio visuomenės sveikatai vertinimo dokumentuose, statinio projekto sklypo sutvarkymo (sklypo plano) dalyje arba žemės savininko, valstybinės ar savivaldybės žemės patikėtinio rašytiniame susitarime (sutikime) su suinteresuotu subjektu (statytoju ar planuojamos ūkinės veiklos organizatoriumi), dėl kurio planuojamos ūkinės veiklos vykdymo žemės sklypui ar jo daliai turi būti nustatytos papildomos specialiosios žemės naudojimo sąlygos.
 
@@ -1245,6 +1257,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2097, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07055
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 30 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 16, 19 ir 20 straipsnių pakeitimo įstatymas
 
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai ir vadovai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
