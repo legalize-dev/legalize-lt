@@ -4,7 +4,7 @@ identifier: "TAR.CA89372D00AA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2019-07-01"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
 
@@ -44,7 +44,7 @@ Lietuvos Respublikos vidaus reikalų ministras (toliau – vidaus reikalų minis
 
 5) leidžia policijos generaliniam komisarui siųsti į tarnybines komandiruotes Lietuvos Respublikos pareigūnus dalyvauti bendrosiose su Europos Sąjungos valstybių narių ir (ar) asocijuotų Šengeno valstybių pareigūnais antiteroristinėse operacijose šių valstybių teritorijose ar kreiptis į šias valstybes su prašymu leisti pasitelkti jų teisėsaugos pareigūnus dalyvauti bendrosiose antiteroristinėse operacijose Lietuvos Respublikos teritorijoje;
 
-6) siūlo policijos generalinio komisaro kandidatūrą;
+6) teikia Vyriausybei skirti policijos generalinį komisarą;
 
 7) policijos generalinio komisaro teikimu skiria ir atleidžia policijos generalinio komisaro pavaduotojus;
 
@@ -78,7 +78,7 @@ Lietuvos Respublikos vidaus reikalų ministras (toliau – vidaus reikalų minis
 
 2. Policijos generalinio komisaro įsakymai ir nurodymai privalomi pareigūnams. Policijos generalinis komisaras turi teisę atšaukti pavaldžių pareigūnų priimtus neteisėtus sprendimus, išskyrus sprendimus, priimtus nagrinėjant administracinius teisės pažeidimus (nusižengimus) ir atliekant ikiteisminį tyrimą.
 
-3. Policijos generalinį komisarą vidaus reikalų ministro siūlymu ir Vyriausybės teikimu 5 metų kadencijai skiria ir atleidžia Respublikos Prezidentas. Policijos generalinis komisaras yra tiesiogiai pavaldus vidaus reikalų ministrui ir atskaitingas Respublikos Prezidentui.
+3. Policijos generalinį komisarą vidaus reikalų ministro teikimu 5 metų kadencijai skiria ir atleidžia Vyriausybė. Policijos generalinis komisaras yra tiesiogiai pavaldus vidaus reikalų ministrui ir atsiskaito Vyriausybei.
 
 4. Policijos generaliniu komisaru gali būti asmuo, įgijęs ne žemesnį negu aukštąjį universitetinį išsilavinimą – teisės bakalauro ir socialinių mokslų srities magistro kvalifikacinį laipsnį arba vienpakopį aukštąjį teisinį išsilavinimą ir turintis ne mažesnę kaip 3 metų darbo patirtį einant vadovo pareigas vidaus tarnybos sistemoje.
 
