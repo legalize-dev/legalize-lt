@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2019-07-02"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-07-02 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -1259,17 +1259,17 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
-9. Šio straipsnio 8 dalyje numatytos vertės prievolių įvykdymo užtikrinimo dydis gali būti sumažintas iki ne mažesnės kaip 100 tūkstančių eurų sumos, jeigu to prašantis asmuo atitinka visas šias sąlygas:
+9. Šio straipsnio 8 dalyje numatytos vertės laidavimo arba garantijos dydis sumažinamas iki 100 tūkstančių eurų sumos, jeigu to prašantis asmuo atitinka visas šias sąlygas:
 
 1) turi ne mažesnį kaip 250 tūkstančių eurų dydžio nuosavą kapitalą;
 
-2) neturi mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui ir (ar) įsipareigojimų muitinei, kurių bendra suma viršija 1 500 eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi;
+2) neturi mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui, ir (ar) įsipareigojimų muitinei, kurių bendra suma viršija 1 500 eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi;
 
 3) verčiasi didmenine prekyba nefasuotais naftos produktais ne trumpiau kaip vienus metus iki prašymo pateikimo dienos.
 
-Papildyta straipsnio dalimi:
+Straipsnio dalies pakeitimai:
 
-Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+Nr. XIII-2202, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09725
 
 10. Naudos gavėju pagal šio straipsnio 8 ir 9 dalyse nustatytus prievolių įvykdymo užtikrinimo dokumentus privalo būti nurodoma Valstybinė mokesčių inspekcija. Prievolių įvykdymo užtikrinimo dokumente turi būti nurodyti Europos ekonominėje erdvėje veikiančios kredito įstaigos ar jos padalinio arba draudimo bendrovės, išdavusios prievolių įvykdymo užtikrinimo dokumentą, rekvizitai ir kontaktiniai duomenys.
 
@@ -1946,6 +1946,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 8, 13, 21, 23 ir 24 straipsnių pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2202, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09725
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 24 straipsnio pakeitimo įstatymas
 
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
