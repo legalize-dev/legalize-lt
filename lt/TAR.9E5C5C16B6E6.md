@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2019-05-01"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -826,7 +826,13 @@ Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
 
 6) sudaryti galimybę pirkėjui iš karto ir (ar) per tam tikrą terminą arba įvykdžius tam tikras sąlygas po vartojimo pirkimo–pardavimo sutarties sudarymo laimėti prizą, gauti dovanų ar priedą prie alkoholinių gėrimų;
 
-7) skelbti apie alkoholinių gėrimų kainų sumažinimą.
+7) skelbti apie alkoholinių gėrimų kainų sumažinimą;
+
+8) gaminti ir (ar) parduoti maisto produktus, žaislus ir kitas prekes, skirtas vaikams ir paaugliams, kurių dizainas imituoja alkoholinius gėrimus ir (ar) jų tarą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2205, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09824
 
 2. Įmonėms, Europos juridiniams asmenims ir jų filialams draudžiama alkoholinių gėrimų pardavimo skatinimo veiklai pasitelkti asmenis iki 20 metų.
 
