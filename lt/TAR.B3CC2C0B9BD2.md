@@ -4,7 +4,7 @@ identifier: "TAR.B3CC2C0B9BD2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-21"
-last_updated: "2019-11-01"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-11-01
+Suvestinė redakcija nuo 2019-11-02 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
 
@@ -300,13 +300,17 @@ Paviršiniuose vandens telkiniuose gali būti statomi statiniai, reikalingi pavi
 
 5. Šio straipsnio 4 dalyje nurodyta veikla laikoma labai svarbia visuomenės interesams ir yra būtina, jeigu jos vykdymas numatytas planavimo dokumentuose, kuriuos tvirtina Lietuvos Respublikos Seimas.
 
-6. Draudžiama statyti užtvankas Nemuno upėje, ekologiniu ir kultūriniu požiūriu vertingose upėse ar jų ruožuose. Ekologiniu ir kultūriniu požiūriu vertingų upių ar jų ruožų sąrašą aplinkos ministro teikimu tvirtina Vyriausybė. Į šį sąrašą įtraukiami:
+6. Draudžiama statyti užtvankas Nemune ir kitose upėse, jeigu:
 
-1) upės ar jų ruožai, patenkantys į saugomas teritorijas;
+1) upės ar jų ruožai patenka į saugomas teritorijas;
 
-2) upės ar jų ruožai, kuriose (kuriuose) aptinkamos į Lietuvos raudonąją knygą įrašytos žuvų rūšys, Europos laukinės gamtos ir gamtinės aplinkos apsaugos konvencijos (Berno konvencijos) saugomos rūšys, Natūralių buveinių ir laukinės faunos bei floros apsaugos direktyvos (92/43/EEB) saugomos rūšys;
+2) upėse aptinkama į Lietuvos raudonąją knygą įrašytų žuvų rūšių, Europos laukinės gamtos ir gamtinės aplinkos apsaugos konvencijos (Berno konvencijos) saugomų rūšių, Natūralių buveinių ir laukinės faunos bei floros apsaugos direktyvos (92/43/EEB) saugomų rūšių;
 
-3) upės ar jų ruožai, kurių užtvenkimas neleistų užtikrinti geros vandens telkinių būklės ir direktyvos 2000/60/EB reikalavimų įgyvendinimo.
+3) upių užtvenkimas neleistų užtikrinti geros vandens telkinių būklės ir Direktyvos 2000/60/EB reikalavimų įgyvendinimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
 
 15 straipsnis. Tvenkinių įrengimas, ežerų patvenkimas. Tokių paviršinių vandens telkinių naudojimas ir priežiūra
 
@@ -587,6 +591,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1826, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00216
 
 Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
+
+Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas
 
 30 straipsnis. Ataskaitų teikimas Europos Bendrijų Komisijai
 
