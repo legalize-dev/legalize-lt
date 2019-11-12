@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2019-07-27"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2019-07-27 iki 2019-11-11
+Suvestinė redakcija nuo 2019-11-12 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -3162,7 +3162,17 @@ Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)
 
 1. Nuteistasis gali būti atleistas nuo visos ar dalies bausmės atlikimo, jeigu Respublikos Prezidentas patenkina jo malonės prašymą.
 
-2. Malonės suteikimo tvarką nustato Respublikos Prezidentas.
+2. Respublikos Prezidentas gali patenkinti nuteistojo malonės prašymą ir tuo atveju, jeigu, susitarus su užsienio valstybe, siekiama sugrąžinti į Lietuvos Respubliką toje užsienio valstybėje esantį Lietuvos Respublikos pilietį, kuris veikdamas Lietuvos Respublikos valstybės interesais užsienio valstybėje yra nuteistas ar jo atžvilgiu vykdomas baudžiamasis persekiojimas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050
+
+3. Malonės suteikimo tvarką nustato Respublikos Prezidentas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050
 
 XI SKYRIUS
 
@@ -6149,6 +6159,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
 Lietuvos Respublikos baudžiamojo kodekso 8, 95, 205, 206, 207 straipsnių ir priedo pakeitimo ir Kodekso papildymo 100-3 straipsniu įstatymas
+
+35.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050
+
+Lietuvos Respublikos baudžiamojo kodekso 79 straipsnio pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
