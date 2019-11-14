@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2019-11-01"
+last_updated: "2019-11-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-11-13
+Suvestinė redakcija nuo 2019-11-14 iki 2020-01-16
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -2224,7 +2224,13 @@ Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 10) kas dveji metai rengia ir skelbia analitinę apžvalgą – visuomenės informavimo demokratinės kultūros plėtros gaires;
 
-11) atlieka viešosios informacijos stebėseną visuomenės informavimo priemonėse, išskyrus radijo ir televizijos programų stebėseną.
+11) atlieka viešosios informacijos stebėseną visuomenės informavimo priemonėse, išskyrus radijo ir televizijos programų stebėseną;
+
+12) įgyvendina 1981 m. sausio 28 d. Strasbūre sudarytos Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) ir jos protokolų nuostatas, kai asmens duomenys tvarkomi žurnalistikos tikslais ir akademinės, meninės ar literatūrinės saviraiškos tikslais.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2501, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18190
 
 2. Atlikdamas šio straipsnio 1 dalyje nurodytas funkcijas, inspektorius turi teisę:
 
