@@ -4,7 +4,7 @@ identifier: "TAR.5368B592234C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-11"
-last_updated: "2019-01-01"
+last_updated: "2019-11-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-11-13
+Suvestinė redakcija nuo 2019-11-14 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
 
@@ -165,13 +165,21 @@ Nr. XIII-1791, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21119
 
 1) teikia duomenų subjektams, duomenų valdytojams ir duomenų tvarkytojams konsultacijas dėl asmens duomenų ir privatumo apsaugos, taip pat rengia metodines rekomendacijas dėl asmens duomenų apsaugos ir jas viešai skelbia savo interneto svetainėje;
 
-2) vadovaudamasi Konvencija dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108), teikia pagalbą užsienyje gyvenantiems duomenų subjektams;
+2) Neteko galios nuo 2019-11-14
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
 
 3) bendradarbiauja su kitų valstybių asmens duomenų apsaugos priežiūros institucijomis, Europos Sąjungos institucijomis, įstaigomis ir tarptautinėmis organizacijomis ir dalyvauja jų veikloje;
 
 4) dalyvauja formuojant valstybės politiką asmens duomenų apsaugos srityje ir ją įgyvendina;
 
-5) įgyvendina Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) nuostatas;
+5) įgyvendina 1981 m. sausio 28 d. Strasbūre sudarytos Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) ir jos protokolų nuostatas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
 
 6) kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas.
 
@@ -634,6 +642,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1791, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21119
 
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 9 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
+
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 11 straipsnio pakeitimo įstatymas
 
 36 straipsnis. Šio įstatymo vykdymo priežiūros institucija ir jos teisinis statusas
 
