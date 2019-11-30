@@ -4,7 +4,7 @@ identifier: "TAR.A3C0EA6B2203"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-09"
-last_updated: "2018-05-01"
+last_updated: "2019-11-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A3C0EA6B2203"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos metrologijos įstatymas
 
-Suvestinė redakcija nuo 2018-05-01 iki 2019-11-29
+Suvestinė redakcija nuo 2019-11-30 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 74-1768, i. k. 0961010ISTA00I-1452
 
@@ -730,7 +730,11 @@ priedas
 
 5. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/32/ES dėl valstybių narių įstatymų, susijusių su matavimo priemonių tiekimu rinkai, suderinimo (OL 2014 L 96, p. 149) su paskutiniais pakeitimais, padarytais 2014 m. spalio 31 d. Komisijos deleguotąja direktyva (ES) 2015/13 (OL 2015 L 3, p. 42).
 
-6. 2016 m. kovo 18 d. Komisijos įgyvendinimo reglamentas (ES) 2016/799, kuriuo įgyvendinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 ir nustatomi tachografų ir jų komponentų konstrukcijos, bandymo, įrengimo, naudojimo ir remonto reikalavimai (OL 2016 L 139, p. 1).
+6. 2016 m. kovo 18 d. Komisijos įgyvendinimo reglamentas (ES) 2016/799, kuriuo įgyvendinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 ir nustatomi tachografų ir jų komponentų konstrukcijos, bandymo, įrengimo, naudojimo ir remonto reikalavimai (OL 2016 L 139, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. vasario 28 d. Komisijos įgyvendinimo reglamentu (ES) 2018/502 (OL 2018 L 85, p. 1).
+
+Punkto pakeitimai:
+
+Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
 
 Priedo pakeitimai:
 
@@ -785,4 +789,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-982, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01000
 
 Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
+
+Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 1, 16, 26, 31 straipsnių, devintojo skirsnio ir priedo pakeitimo įstatymas
 
