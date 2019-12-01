@@ -4,7 +4,7 @@ identifier: "TAR.58146A37675A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-09-21"
-last_updated: "2019-10-01"
+last_updated: "2019-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-11-30
+Suvestinė redakcija nuo 2019-12-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
+
+TAR pastaba. Etninės kultūros globos taryba, sudaryta iki įstatymo Nr. XIII-2540 įsigaliojimo (2019-12-01), savo funkcijas atlieka iki 2021 m. gruodžio 15 d. Etninės kultūros globos tarybos sudėtis pagal šio įstatymo nuostatas turi būti pakeista iki 2020 m. sausio 1 d.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
+
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 straipsnio pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS ETNINĖS KULTŪROS VALSTYBINĖS GLOBOS PAGRINDŲ ĮSTATYMAS
 
@@ -369,6 +377,14 @@ Nr. XIII-2293, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12181
 
 Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 8 straipsnio pakeitimo įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
+
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 straipsnio pakeitimo įstatymas
+
 12 straipsnis. Pasiūlymas Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2004 m. gruodžio 31 d. parengia Etninės kultūros globos fondo nuostatus.
@@ -483,7 +499,11 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 
 7) leisti informacinius ir tiriamuosius leidinius.
 
-9. Tarybą, tvirtinamą Seimo nutarimu, sudaro 21 narys. Į Tarybą juos deleguoja su etninės kultūros globa bei plėtra tiesiogiai susijusios institucijos ir organizacijos, teikdamos Seimui tvirtinti po vieną narį, turintį ne mažesnę kaip 3 metų patirtį etninės kultūros srityje: Lietuvių literatūros ir tautosakos institutas, Lietuvos istorijos institutas, Lietuvos tautodailininkų sąjunga, Lietuvių etninės kultūros draugija, Lietuvos kraštotyros draugija, Lietuvos ramuvų sąjunga, Lietuvių katalikų mokslo akademija, Lietuvos etninės kultūros ugdytojų sąjunga, Lietuvos muzikos ir teatro akademija, Klaipėdos universitetas, Šiaulių universitetas, Vytauto Didžiojo universitetas, Lietuvos edukologijos universitetas, Lietuvos liaudies buities muziejus, Lietuvos nacionalinis kultūros centras, Vilniaus etninės kultūros centras ir šio straipsnio 10 dalyje nurodytos regioninės etninės kultūros globos tarybos (toliau – regioninės tarybos). Tarybos kadencija – 4 metai. Tarybos nariai pareigas eina tol, kol Seimas patvirtina naujos kadencijos Tarybos sudėtį. Naujos kadencijos Taryba pradedama sudaryti Etninės kultūros globos tarybos nuostatuose nustatyta tvarka ne vėliau kaip likus 2 mėnesiams iki senosios sudėties Tarybos kadencijos pabaigos.
+9. Tarybą, tvirtinamą Seimo nutarimu, sudaro 21 narys. Į Tarybą juos deleguoja su etninės kultūros globa bei plėtra tiesiogiai susijusios institucijos ir organizacijos, teikdamos Seimui tvirtinti po vieną narį, turintį ne mažesnę kaip 3 metų patirtį etninės kultūros srityje: Lietuvių literatūros ir tautosakos institutas, Lietuvos istorijos institutas, Lietuvos tautodailininkų sąjunga, Lietuvių etninės kultūros draugija, Lietuvos kraštotyros draugija, Lietuvos ramuvų sąjunga, Lietuvių katalikų mokslo akademija, Lietuvos etninės kultūros ugdytojų sąjunga, Lietuvos muzikos ir teatro akademija, Klaipėdos universitetas, Šiaulių universitetas, Vytauto Didžiojo universitetas, Lietuvos liaudies buities muziejus, Lietuvos nacionalinis kultūros centras, Vilniaus etninės kultūros centras, Kauno tautinės kultūros centras ir šio straipsnio 10 dalyje nurodytos regioninės etninės kultūros globos tarybos (toliau – regioninės tarybos). Tarybos kadencija – 4 metai. Tarybos nariai pareigas eina tol, kol Seimas patvirtina naujos kadencijos Tarybos sudėtį. Naujos kadencijos Taryba pradedama sudaryti Etninės kultūros globos tarybos nuostatuose nustatyta tvarka ne vėliau kaip likus 2 mėnesiams iki senosios sudėties Tarybos kadencijos pabaigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
 
 10. Taryba Lietuvos etnografiniuose regionuose turi 5 regioninius padalinius (filialus) – Aukštaitijos, Dzūkijos (Dainavos), Suvalkijos (Sūduvos), Žemaitijos ir Mažosios Lietuvos regionines tarybas, kurios veikia pagal Tarybos patvirtintus Regioninių tarybų nuostatus. Pagrindinė regioninių tarybų paskirtis – padėti Tarybai spręsti strateginius etninės kultūros globos, plėtros ir politikos klausimus etnografiniame regione. Į regioninę tarybą atstovus Regioninių tarybų nuostatuose nustatyta tvarka 4 metų kadencijai deleguoja tame etnografiniame regione veikiančios asociacijos, valstybės ir savivaldybių institucijos, susijusios su etninės kultūros globa ir plėtra. Taryba organizuoja regioninių tarybų sudarymą ir tvirtina jų sudėtį.
 
@@ -501,7 +521,11 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 
 6) kai Tarybos narys be pateisinamos priežasties nedalyvavo 3 Tarybos posėdžiuose iš eilės ir jo įgaliojimus Tarybos pirmininko teikimu panaikina Seimas.
 
-12. Tarybos nario įgaliojimams nutrūkus nesibaigus Tarybos kadencijai, Tarybos pirmininkas kreipiasi į šį narį delegavusią instituciją ar organizaciją, prašydamas deleguoti į Tarybą kitą narį, kurį Seimo Švietimo, mokslo ir kultūros komitetas teikia Seimui tvirtinti likusiam Tarybos kadencijos laikotarpiui.
+12. Tarybos nario įgaliojimams nutrūkus nesibaigus Tarybos kadencijai, Tarybos pirmininkas kreipiasi į šį narį delegavusią instituciją ar organizaciją, prašydamas deleguoti į Tarybą kitą narį, kurį Seimo Kultūros komitetas teikia Seimui tvirtinti likusiam Tarybos kadencijos laikotarpiui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
 
 13. Tarybos posėdis yra teisėtas, kai jame dalyvauja ne mažiau kaip pusė visų Tarybos narių. Tarybos sprendimai priimami posėdyje dalyvaujančių Tarybos narių balsų dauguma, o jei balsai pasiskirsto po lygiai, sprendimą lemia posėdžio pirmininko balsas, išskyrus šio straipsnio 14 ir 16 dalyse nustatytas sąlygas, kai Tarybos posėdyje renkamas Tarybos pirmininkas ir jo pavaduotojas.
 
