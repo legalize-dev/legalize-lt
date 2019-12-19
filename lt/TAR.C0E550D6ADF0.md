@@ -4,7 +4,7 @@ identifier: "TAR.C0E550D6ADF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2018-01-01"
+last_updated: "2019-12-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-12-18
+Suvestinė redakcija nuo 2019-12-19 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1659, i. k. 0971010ISTAVIII-371
 
@@ -144,47 +144,15 @@ Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
 
 1. Privačius interesus deklaruojantys asmenys privalo pateikti deklaraciją elektroninėmis priemonėmis Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka per 30 kalendorinių dienų nuo jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos (išskyrus šio įstatymo 4 straipsnio 2 dalyje, šio straipsnio 2, 3 ir 4 dalyse nurodytus atvejus).
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
-
 2. Asmenys, pretenduojantys dirbti valstybinėje tarnyboje (išskyrus asmenis, nurodytus šio įstatymo 4 straipsnio 2 dalyje, ir asmenis, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą), pateikia deklaraciją iki jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos, jeigu kiti teisės aktai nenustato kitaip.
 
 3. Asmenys, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą, per 30 kalendorinių dienų nuo jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos pateikia deklaraciją institucijos (juridinio asmens), kurioje dirba, vadovui ar jo įgaliotam atstovui tos institucijos (juridinio asmens) nustatyta tvarka.
 
 4. Viešojo pirkimo komisijos nariai, asmenys, perkančiosios organizacijos vadovo paskirti atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujantys ekspertai privačių interesų deklaraciją pateikia elektroninėmis priemonėmis (jeigu jos dar nebuvo pateiktos) iki dalyvavimo viešojo pirkimo procedūrose pradžios. Viešojo pirkimo komisijos narys, asmuo, perkančiosios organizacijos vadovo paskirtas atlikti supaprastintus pirkimus, ar viešųjų pirkimų procedūrose dalyvaujantis ekspertas, nepateikę privačių interesų deklaracijos, neturi teisės dalyvauti viešajame pirkime ir turi būti atšaukti iš atitinkamų pareigų.
 
-Papildyta straipsnio dalimi:
-
-Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
-
 5. Deklaracija gali būti teikiama ne tik institucijos (juridinio asmens), kurioje asmuo dirba, vadovui ar jo įgaliotam atstovui, bet ir pavaldaus ar atskaitingo juridinio asmens arba kito juridinio asmens vadovui ar jo įgaliotam atstovui, jeigu tai numato tos institucijos (juridinio asmens) veiklos tvarką nustatantis teisės aktas.
 
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
-
 6. Teisės aktų nustatytais atvejais ir tvarka deklaracijų turinčios teisę reikalauti institucijos jas išsireikalauja iš deklaruojančiojo asmens darbovietės arba iš Vyriausiosios tarnybinės etikos komisijos.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
-
-Straipsnio pakeitimai:
-
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr. 35-1165 (2001 04 25)
-
-Nr. IX-1809, 2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-
-Nr. X-316, 2005-07-05, Žin., 2005, Nr. 88-3286 (2005-07-21)
-
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
-
-Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
-
-Straipsnio pakeitimai:
-
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
 
 6 straipsnis. Deklaracijos turinys
 
@@ -825,6 +793,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-366, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08725
 
 Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo Nr. VIII-371 4, 10 ir 13 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT88-N16/2019, 2019-12-19, paskelbta TAR 2019-12-19, i. k. 2019-20629
+
+Dėl Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 5 straipsnio atitikties Lietuvos Respublikos Konstitucijai
 
 25 straipsnis. Įstatymo įgyvendinimas
 
