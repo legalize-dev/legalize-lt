@@ -4,7 +4,7 @@ identifier: "TAR.46EF9E1D52E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-29"
-last_updated: "2019-01-01"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
 
@@ -280,7 +280,11 @@ d) kitą teisės aktų nustatyta tvarka mokamą atlyginimą;
 
 6) būti atleistas nuo tarnybinių pareigų dalyvauti Seimo, Respublikos Prezidento, Europos Parlamento ar savivaldybių tarybų rinkimuose įstatymų nustatyta tvarka, paskelbus juos kandidatais, už tą laikotarpį negaudamas darbo užmokesčio;
 
-7) būti paskirtas (išrinktas) valstybės įmonių, savivaldybės įmonių, akcinių bendrovių arba uždarųjų akcinių bendrovių, kurių akcijos ar dalis akcijų, suteikiančios daugiau kaip 1/2  balsų šių bendrovių visuotiniuose akcininkų susirinkimuose, priklauso valstybei ar savivaldybei nuosavybės teise, kolegialių organų nariu;
+7) diplomatą į pareigas priimančio asmens sprendimu būti paskirtas (išrinktas) eiti su valstybės atstovavimu susijusias pareigas įmonių, įstaigų, organizacijų, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, kolegialiuose organuose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2611, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20638
 
 8) tobulinti kvalifikaciją šio įstatymo ir užsienio reikalų ministro nustatyta tvarka.
 
