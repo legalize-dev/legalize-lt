@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2019-11-01"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -273,11 +273,13 @@ Nr. XIII-1266, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10508
 
 8 straipsnis. Valstybinės žemės perdavimas neatlygintinai ja naudotis (panauda)
 
-1. Sudarant valstybinės žemės panaudos sutartis, valstybinė žemė gali būti perduodama laikinai neatlygintinai naudotis valstybės institucijoms, savivaldybėms, miškų urėdijoms, valstybinių rezervatų direkcijoms, valstybinių parkų direkcijoms, kitoms iš valstybės ar savivaldybių biudžetų išlaikomoms įstaigoms, tradicinėms religinėms bendruomenėms ir bendrijoms, viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą laikomos viešojo sektoriaus subjektais. Kitiems Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnyje nurodytiems asmenims, kuriems valstybės turtas (statiniai ar įrenginiai) perduotas panaudos pagrindais neatlygintinai naudotis, gali būti perduodami laikinai neatlygintinai naudotis valstybinės žemės sklypai, reikalingi šiems statiniams ar įrenginiams eksploatuoti. Tuo atveju, kai panaudos pagrindais perduodamas žemės sklypas yra reikalingas panaudos pagrindais perduotiems statiniams ar įrenginiams eksploatuoti, žemės panaudos sutarties terminas negali būti ilgesnis už statinių ar įrenginių panaudos sutarties terminą. Valstybinė žemė perduodama neatlygintinai naudotis Vyriausybės nustatyta tvarka.
+1. Sudarant valstybinės žemės panaudos sutartis, valstybinė žemė gali būti perduodama laikinai neatlygintinai naudotis valstybės institucijoms, savivaldybėms, miškų urėdijai, valstybinių rezervatų direkcijoms, valstybinių parkų direkcijoms, kitoms iš valstybės ar savivaldybių biudžetų išlaikomoms įstaigoms, tradicinėms religinėms bendruomenėms ir bendrijoms, viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą laikomos viešojo sektoriaus subjektais. Kitiems Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnyje nurodytiems asmenims, kuriems valstybės turtas (statiniai ar įrenginiai) perduotas panaudos pagrindais neatlygintinai naudotis, gali būti perduodami laikinai neatlygintinai naudotis valstybinės žemės sklypai, reikalingi šiems statiniams ar įrenginiams eksploatuoti. Tuo atveju, kai panaudos pagrindais perduodamas žemės sklypas yra reikalingas panaudos pagrindais perduotiems statiniams ar įrenginiams eksploatuoti, žemės panaudos sutarties terminas negali būti ilgesnis už statinių ar įrenginių panaudos sutarties terminą. Valstybinė žemė perduodama neatlygintinai naudotis Vyriausybės nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
+
+Nr. XIII-2640, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20662
 
 2. Valstybinės žemės perdavimo neatlygintinai naudotis Krašto apsaugos ir Vidaus reikalų ministerijų nustatytiems objektams eksploatuoti tvarką nustato įstatymai ir Vyriausybės nutarimai.
 
@@ -2172,6 +2174,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1987, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04583
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 40 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2640, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20662
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 8 straipsnio pakeitimo įstatymas
 
 55 straipsnis. Žemės ginčų
 
