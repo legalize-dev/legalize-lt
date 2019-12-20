@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2019-07-02"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-07-02 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2019-12-21
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -793,7 +793,11 @@ d) kitą teisės aktų nustatyta tvarka mokamą atlyginimą;
 
 6) būti atleisti nuo tarnybinių pareigų dalyvauti Seimo, Respublikos Prezidento, Europos Parlamento ar savivaldybių tarybų rinkimuose įstatymų nustatyta tvarka paskelbus juos kandidatais, už tą laikotarpį negaudami darbo užmokesčio;
 
-7) būti paskirti (išrinkti) valstybės įmonių, savivaldybės įmonių, akcinių bendrovių arba uždarųjų akcinių bendrovių, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 balsų šių bendrovių visuotiniuose akcininkų susirinkimuose, priklauso valstybei ar savivaldybei nuosavybės teise, kolegialių organų nariais;
+7) valstybės tarnautoją į pareigas priimančio asmens sprendimu būti paskirti (išrinkti) eiti su valstybės ar savivaldybės atstovavimu susijusias pareigas įmonių, įstaigų, organizacijų, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, kolegialiuose organuose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2610, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20634
 
 8) tobulinti kvalifikaciją valstybės ir savivaldybių biudžetų lėšomis ar kitomis teisėtomis lėšomis;
 
