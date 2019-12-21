@@ -4,7 +4,7 @@ identifier: "TAR.AF228880894E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2019-10-01"
+last_updated: "2019-12-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF228880894E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-12-20
+Suvestinė redakcija nuo 2019-12-21 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 68-2774, i. k. 1021010ISTA00IX-985
 
@@ -468,7 +468,7 @@ Nr. XI-2395, 2012-11-08, Žin., 2012, Nr. 133-6761 (2012-11-17)
 
 13 straipsnis. Vyriausiosios rinkimų komisijos pirmininkas
 
-1. Vyriausiosios rinkimų komisijos pirmininkas:
+1. Vyriausiosios rinkimų komisijos pirmininkas yra biudžetinės įstaigos vadovas. Vyriausiosios rinkimų komisijos pirmininkas:
 
 1) organizuoja Vyriausiosios rinkimų komisijos darbą;
 
@@ -478,7 +478,7 @@ Nr. XI-2395, 2012-11-08, Žin., 2012, Nr. 133-6761 (2012-11-17)
 
 4) šaukia Vyriausiosios rinkimų komisijos posėdžius ir jiems pirmininkauja;
 
-5) Vyriausiosios rinkimų komisijos narių sutikimu komandiruoja juos atstovauti Vyriausiajai rinkimų komisijai ar atlikti kitas užduotis užsienyje ir Lietuvoje;
+5) Vyriausiosios rinkimų komisijos narių sutikimu komandiruoja juos atstovauti Vyriausiajai rinkimų komisijai ar atlikti kitas užduotis užsienyje ir Lietuvoje, suteikia kasmetines atostogas Vyriausiosios rinkimų komisijos pirmininko pavaduotojams, dirbantiems vien Vyriausiojoje rinkimų komisijoje;
 
 6) teikia Vyriausiajai rinkimų komisijai tvirtinti jos išlaidų sąmatą, rinkimų, referendumo išlaidų sąmatas, Vyriausiosios rinkimų komisijos sekretoriato struktūrą ir etatus;
 
@@ -492,11 +492,19 @@ Nr. XI-2395, 2012-11-08, Žin., 2012, Nr. 133-6761 (2012-11-17)
 
 11) vykdo kitus įstatymų suteiktus įgaliojimus.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2632, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20804
+
 2. Vyriausiosios rinkimų komisijos pirmininkas turi visas Vyriausiosios rinkimų komisijos nario teises.
 
 3. Vyriausiosios rinkimų komisijos pirmininkas, spręsdamas Vyriausiosios rinkimų komisijos sekretoriato darbo ir personalo valdymo klausimus, leidžia įsakymus.
 
-4. Klausimai dėl Vyriausiosios rinkimų komisijos pirmininko atostogų ir komandiruočių sprendžiami Vyriausiosios rinkimų komisijos reglamento (toliau – Reglamentas) nustatyta tvarka.
+4. Sprendimus dėl Vyriausiosios rinkimų komisijos pirmininko kasmetinių atostogų ir komandiruočių į užsienį priima Vyriausioji rinkimų komisija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2632, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20804
 
 Straipsnio pakeitimai:
 
@@ -504,19 +512,23 @@ Nr. XII-587, 2013-11-12, Žin., 2013, Nr. 121-6115 (2013-11-26)
 
 14 straipsnis. Vyriausiosios rinkimų komisijos pirmininko pavaduotojai
 
-1. Vyriausiosios rinkimų komisijos pirmininkas turi du pavaduotojus. Juos renka Vyriausioji rinkimų komisija savo posėdyje Reglamento nustatyta tvarka. Pirmininko pavaduotojai renkami iš narių, kuriuos į Vyriausiąją rinkimų komisiją pasiūlė teisingumo ministras, Respublikos Prezidentas arba Lietuvos teisininkų draugija.
+1. Vyriausiosios rinkimų komisijos pirmininkas turi du pavaduotojus. Juos skiria ir iš pareigų atšaukia Vyriausioji rinkimų komisija Reglamento nustatyta tvarka. Pirmininko pavaduotojai skiriami iš narių, kuriuos į Vyriausiąją rinkimų komisiją pasiūlė teisingumo ministras, Respublikos Prezidentas arba Lietuvos teisininkų draugija.
 
-2. Kai Vyriausiosios rinkimų komisijos pirmininko nėra arba kai jis negali eiti savo pareigų, pirmininko pareigas laikinai eina vienas iš pirmininko pavaduotojų.
+2. Kai Vyriausiosios rinkimų komisijos pirmininkas nepaskirtas arba kai jis laikinai (dėl tarnybinės komandiruotės, atostogų, laikinojo nedarbingumo, nusišalinimo ir kt.) negali eiti savo pareigų, pirmininko pareigas laikinai eina vienas iš pirmininko pavaduotojų.
 
-3. Jeigu nei komisijos pirmininkas, nei pirmininko pavaduotojas negali eiti komisijos pirmininko pareigų, šias pareigas eina komisijos narys, kurį paskiria Vyriausioji rinkimų komisija iš teisingumo ministro arba Lietuvos teisininkų draugijos į komisiją pasiūlytų narių.
+3. Jeigu nei komisijos pirmininkas, nei pirmininko pavaduotojas nepaskirti arba nė vienas iš jų laikinai (dėl tarnybinės komandiruotės, atostogų, laikinojo nedarbingumo, nusišalinimo ir kt.) negali eiti komisijos pirmininko pareigų, šias pareigas eina komisijos narys, kurį paskiria Vyriausioji rinkimų komisija iš teisingumo ministro arba Lietuvos teisininkų draugijos į komisiją pasiūlytų narių.
 
-4. Kai komisijos pirmininko pavaduotojas arba kitas komisijos narys eina komisijos pirmininko pareigas, jam mokamas komisijos pirmininko darbo užmokestis.
+4. Kai komisijos pirmininko pavaduotojas arba kitas komisijos narys eina komisijos pirmininko pareigas, jam mokamas komisijos pirmininko pareigybei nustatytas darbo užmokestis.
 
 5. Vyriausioji rinkimų komisija arba jos pirmininkas gali pavesti pirmininko pavaduotojams rūpintis atskiromis Vyriausiosios rinkimų komisijos veiklos sritimis.
 
 Straipsnio pakeitimai:
 
 Nr. XII-587, 2013-11-12, Žin., 2013, Nr. 121-6115 (2013-11-26)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2632, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20804
 
 15 straipsnis. Vyriausiosios rinkimų komisijos sekretorius
 
@@ -741,4 +753,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2299, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12107
 
 Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 2, 3 straipsnių ir priedo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2632, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20804
+
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 13 ir 14 straipsnių pakeitimo įstatymas
 
