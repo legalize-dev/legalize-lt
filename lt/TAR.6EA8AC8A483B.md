@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2019-12-21"
+last_updated: "2019-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2019-12-21 iki 2019-12-21
+Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -2195,4 +2195,14 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 Papildyta straipsniu:
 
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+
+332 straipsnis. Neįgaliųjų arba ribotos judėsenos asmenų vežimas vietiniais maršrutais
+
+1. Vežant neįgaliuosius arba ribotos judėsenos asmenis vietiniais maršrutais, geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) privalo užtikrinti, kad neįgaliesiems arba ribotos judėsenos asmenims būtų suteikta pagalba patekti į peronus, įlipti ir išlipti iš riedmenų techniškai tam pritaikytose geležinkelio stotyse, peronuose, kai riedmenys yra techniškai pritaikyti  neįgaliesiems arba ribotos judėsenos asmenims aptarnauti ir yra pagalbą teikiantis personalas. Jeigu geležinkelio stotys, peronai ir riedmenys nėra techniškai pritaikyti neįgaliesiems arba ribotos judėsenos asmenims aptarnauti, geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai) imasi visų įmanomų ir pagrįstų priemonių, kad šiems asmenims būtų suteikta galimybė naudotis geležinkelių transportu.
+
+2. Neįgalusis arba ribotos judėsenos asmuo ne vėliau kaip prieš 24 valandas iki keleivinio traukinio išvykimo pagal tvarkaraštį turi pranešti geležinkelių infrastruktūros valdytojui ar geležinkelio įmonei (vežėjui), kad jam reikės šio straipsnio 1 dalyje nurodytos pagalbos. Jeigu neįgalusis arba ribotos judėsenos asmuo yra įsigijęs terminuotą bilietą, informaciją apie savo keliones jis gali pateikti iš anksto vieną kartą. Šios informacijos pateikimo tvarką geležinkelio įmonė (vežėjas) turi nustatyti pagal Reglamento (EB) Nr. 1371/2007  19 straipsnio 1 dalyje nurodytas taisykles.
+
+3. Jeigu neįgalusis arba ribotos judėsenos asmuo nepateikia informacijos šio straipsnio 2 dalyje nustatyta tvarka, geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) imasi visų įmanomų ir pagrįstų priemonių, kad būtų suteikta būtina nemokama pagalba, siekiant užtikrinti neįgaliajam arba ribotos judėsenos asmeniui galimybę naudotis geležinkelių transportu.
+
+4. Geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas), gavę pranešimą apie būtiną pagalbą neįgaliajam arba ribotos judėsenos asmeniui, praneša jam, į kurią vietą ir kokiu laiku jis turi atvykti. Nurodytas atvykimo laikas negali būti ankstesnis negu viena valanda iki tvarkaraštyje paskelbto keleivinio traukinio išvykimo. Jeigu atvykimo laikas yra nenurodytas, neįgalusis arba ribotos judėsenos asmuo į nustatytą vietą privalo atvykti ne vėliau kaip likus 30 minučių iki tvarkaraštyje paskelbto keleivinio traukinio išvykimo laiko.
 
