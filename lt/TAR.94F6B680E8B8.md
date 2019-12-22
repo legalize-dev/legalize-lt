@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2019-07-01"
+last_updated: "2019-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-21
+Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -574,15 +574,11 @@ Nr. XII-640, 2013-12-03, Žin., 2013, Nr. 130-6624 (2013-12-19)
 
 14 straipsnis. Privalomojo sveikatos draudimo fondo biudžetas
 
-1. Privalomojo sveikatos draudimo fondo biudžetas sudaromas vieneriems metams – nuo sausio 1 dienos iki gruodžio 31 dienos įskaitytinai.
+1. Privalomojo sveikatos draudimo fondo biudžetas sudaromas vieniems metams – nuo sausio 1 dienos iki gruodžio 31 dienos įskaitytinai.
 
 2. Privalomojo sveikatos draudimo fondo biudžeto projektą rengia Valstybinė ligonių kasa. Privalomojo sveikatos draudimo fondo biudžeto projektą ir Privalomojo sveikatos draudimo fondo biudžeto ateinančių dvejų metų prognozuojamus rodiklius teikia Vyriausybei Sveikatos apsaugos ministerija kartu su Privalomojo sveikatos draudimo tarybos išvada. Vyriausybė apsvarsto atitinkamų metų Privalomojo sveikatos draudimo fondo biudžeto projektą ir Privalomojo sveikatos draudimo fondo biudžeto ateinančių dvejų metų prognozuojamus rodiklius ir ne vėliau kaip likus 75 kalendorinėms dienoms iki biudžetinių metų pabaigos teikia Seimui svarstyti kartu su Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu. Privalomojo sveikatos draudimo fondo biudžetas tvirtinamas Lietuvos Respublikos įstatymu.
 
-3. Netenka galios 2018-01-01.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
+3. Jeigu vykdant Privalomojo sveikatos draudimo fondo biudžetą prisiimti įsipareigojimai pagal tam tikrą jo išlaidų straipsnį viršija Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatyme tam straipsniui numatytą tų metų išlaidų sumą ir dėl to negali būti laiku įvykdyti šio fondo įsipareigojimai kreditoriams, mokėjimai šio biudžeto lėšomis gali būti atliekami viršijant šiam išlaidų straipsniui Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu numatytą šio biudžeto išlaidų sumą, tačiau bendros metinės pagal prisiimtus įsipareigojimus pervestos Privalomojo sveikatos draudimo fondo biudžeto lėšos negali viršyti bendros metinės Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatyme numatytos išlaidų sumos, išskyrus šio Įstatymo 15 straipsnio 4 dalyje nurodytą atvejį.
 
 4. Privalomojo sveikatos draudimo fondo biudžeto sudarymo ir vykdymo taisykles tvirtina Vyriausybė.
 
@@ -595,6 +591,10 @@ Nr. X-1828, 2008-11-14, Žin., 2008, Nr. 137-5377 (2008-11-29)
 Nr. XI-1346, 2011-04-21, Žin., 2011, Nr. 52-2521 (2011-05-03)
 
 Nr. XII-640, 2013-12-03, Žin., 2013, Nr. 130-6624 (2013-12-19)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2646, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20987
 
 15 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto pajamos
 
