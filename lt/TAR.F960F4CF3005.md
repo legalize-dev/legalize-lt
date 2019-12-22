@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2019-10-18"
+last_updated: "2019-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Suvestinė redakcija nuo 2019-10-18 iki 2019-12-21
+Suvestinė redakcija nuo 2019-12-22 iki 2021-12-22
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1743, i. k. 0971010ISTAVIII-385
 
@@ -233,7 +233,17 @@ Nr. XIII-2467, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16482
 
 a) savivaldybių finansiniams ištekliams papildyti. Kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos, patvirtintos Lietuvos Respublikos 2017 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 7 priede „2017 metų valstybės biudžeto bendrosios dotacijos kompensacijos savivaldybių biudžetams“, neįskaitant sumų pagal teisės aktus savivaldybėms perduotoms įstaigoms išlaikyti ir sumų valstybės tarnautojams 15 procentų apskaičiuoto grąžintino neišmokėto darbo užmokesčio daliai sumokėti;
 
+b) Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių išlaidų pokyčiams kompensuoti. Kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos, kurios savivaldybėms apskaičiuojamos konkretiems Seimo ir (ar) Vyriausybės sprendimams įgyvendinti. Kintamoji gyventojų pajamų mokesčio dalis išlaidų pokyčiams kompensuoti  rengiant Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą neskaičiuojama, jeigu pakanka ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, padidėjimo sumos;
+
+2 punkto b papunkčio redakcija nuo 2021-01-01:
+
 b) Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių išlaidų pokyčiams kompensuoti. Kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos, kurios savivaldybėms apskaičiuojamos konkretiems Seimo ir (ar) Vyriausybės sprendimams įgyvendinti;
+
+TAR pastaba. 2 punkto b papunktis (redakcija nuo 2021-01-01) taikomas rengiant Lietuvos Respublikos 2021 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektus.
+
+Papunkčio pakeitimai:
+
+Nr. XIII-2648, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20989
 
 c) savivaldybių biudžetų prognozuojamų pajamų mažėjimui kompensuoti. Rengiant Lietuvos Respublikos 2019 metų, 2020 metų ir 2021 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus, kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos apskaičiuojamos 100 procentų ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų mažėjimui, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, kompensuoti, o rengiant Lietuvos Respublikos 2022 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus, – 90 procentų ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų mažėjimui, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, kompensuoti. Tokios kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos neskaičiuojamos, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė (ekonomikos sunkmečiu). Tokiu atveju kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos apskaičiuojamos ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų mažėjimui, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, kompensuoti iš dalies (atsižvelgiant į valstybės biudžeto finansines galimybes). Ateinančių biudžetinių metų ir einamųjų biudžetinių metų savivaldybių prognozuojamos pajamos palyginamos neįskaitant sumų, kurios naudojamos kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti pagal šio punkto a ir b papunkčius;
 
@@ -259,7 +269,13 @@ pip – i-osios savivaldybės prognozuojamos pajamos iš gyventojų pajamų moke
 
 b) jeigu savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (pip) yra mažesnės negu vidutinės visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (pp), savivaldybės gyventojų pajamų mokesčio dalis (procentais) yra 100 procentų;
 
-c) savivaldybės ateinančių metų pajamos iš gyventojų pajamų mokesčio prognozuojamos pagal nuolatinę gyvenamąją vietą ar gyvenamąją vietą Lietuvoje, apie kurią gyventojas informavo Gyventojų pajamų mokesčio įstatymo 35 straipsnio 3 dalyje nustatyta tvarka;
+c) savivaldybės ateinančių metų pajamos iš gyventojų pajamų mokesčio prognozuojamos pagal apskaičiuotą gyventojų, toje savivaldybėje deklaravusių paskutinę gyvenamąją vietą praėjusiais kalendoriniais metais, gyventojų pajamų mokestį. Jeigu gyventojas nedeklaravęs gyvenamosios vietos, savivaldybės ateinančių metų pajamos iš gyventojų pajamų mokesčio prognozuojamos pagal to gyventojo pajamų mokestį išskaičiuojančio asmens paskutinį buveinės arba deklaruotos gyvenamosios vietos adresą atitinkamoje savivaldybėje praėjusiais kalendoriniais metais;
+
+TAR pastaba. 6 punkto c papunktis taikomas rengiant Lietuvos Respublikos 2020 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+Papunkčio pakeitimai:
+
+Nr. XIII-2648, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20989
 
 7) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais), kuri apskaičiuojama kaip savivaldybei prognozuojamų pajamų iš gyventojų pajamų mokesčio, apskaičiuotų pagal šios dalies 2 ir 6 punktus, šio Įstatymo 7, 8 ir 101 straipsnius, santykis su visoms savivaldybėms prognozuojamomis pajamomis iš gyventojų pajamų mokesčio, apskaičiuotomis pagal šios dalies 1 ir 2 punktus, šio Įstatymo 101 straipsnį, išreikštas procentais.
 
@@ -379,7 +395,7 @@ Nr. XII-660, 2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                      VALDAS ADAMKUS
 
 Priedas. Neteko galios nuo 2015-12-17
 
