@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2019-12-20"
+last_updated: "2019-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-12-20 iki 2019-12-21
+Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -124,10 +124,6 @@ BENDROSIOS NUOSTATOS
 5 straipsnis. Įstatymo taikymas
 
 1. Šis įstatymas be išlygų taikomas valstybės tarnautojams, išskyrus šiame straipsnyje nustatytas išimtis.
-
-2. Lietuvos Respublikos Prezidento kanceliarijos kancleriui ir Lietuvos Respublikos Vyriausybės kancleriui šis įstatymas taikomas be išlygų. Seimo kancleriui šis įstatymas taikomas tiek, kiek jo statuso nereglamentuoja Lietuvos Respublikos Seimo statutas. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams, Vyriausybės priimamiems ir Ministro Pirmininko skiriamiems valstybės pareigūnams taikomi šio įstatymo 4, 38 ir 39 straipsniai.
-
-3. Seimo ar Respublikos Prezidento paskirtiems valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams, taip pat pagal specialius įstatymus įsteigtų komisijų, tarybų, fondų valdybų pirmininkams ir nariams taikomi šio įstatymo 4, 38 ir 39 straipsniai.
 
 22 straipsnis. Pakaitinio valstybės tarnautojo perkėlimas į kitas valstybės tarnautojo pareigas laimėjus atranką ar konkursą
 
@@ -1307,13 +1303,11 @@ VIII SKYRIUS
 
 VALSTYBĖS TARNAUTOJŲ ATOSTOGOS IR GARANTIJOS
 
-42 straipsnis. Kasmetinės atostogos
+2. Lietuvos Respublikos Prezidento kanceliarijos kancleriui ir Lietuvos Respublikos Vyriausybės kancleriui šis įstatymas taikomas be išlygų. Seimo kancleriui šis įstatymas taikomas tiek, kiek jo statuso nereglamentuoja Lietuvos Respublikos Seimo statutas. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams, Vyriausybės priimamiems ir Ministro Pirmininko skiriamiems valstybės pareigūnams taikomi šio įstatymo 4, 38 ir 39 straipsniai. Šiems valstybės pareigūnams, išskyrus tuos, kurių kasmetines atostogas reglamentuoja specialūs įstatymai, taip pat taikomas šio įstatymo 42 straipsnis.
 
-1. Valstybės tarnautojui suteikiamos 22 darbo dienų trukmės kasmetinės minimalios atostogos. Valstybės tarnautojui, vienam auginančiam vaiką (įvaikį) iki 14 metų arba neįgalų vaiką (įvaikį) iki 18 metų, taip pat valstybės tarnautojui, kuris pripažintas neįgaliuoju, suteikiamos 27 darbo dienų trukmės kasmetinės minimalios atostogos.
+Straipsnio dalies pakeitimai:
 
-2. Valstybės tarnautojui už kiekvienų 5 metų tarnybos stažą suteikiamos 3 darbo dienos kasmetinių papildomų atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 37 darbo dienos.
-
-3. Valstybės tarnautojui už pirmuosius tarnybos metus kasmetinės atostogos paprastai suteikiamos po 6 tarnybos mėnesių toje valstybės ar savivaldybės institucijoje ar įstaigoje.
+Nr. XIII-2660, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20995
 
 43 straipsnis. Atostogos kvalifikacijai tobulinti
 
