@@ -4,7 +4,7 @@ identifier: "TAR.1F58348F79F7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2019-01-01"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-30
+Suvestinė redakcija nuo 2019-12-31 iki 2020-04-29
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
 
-TAR pastaba. Nuo įstatymo Nr. XIII-1360 įsigaliojimo (2019-01-01) iki 2019 m. gruodžio 31 d. pensijų išmokų rūšys nustatomos ir pensijų išmokos mokamos pagal teisės aktų nuostatas, galiojusias iki 2018 m. gruodžio 31 d.
+TAR pastaba. Nuo įstatymo Nr XIII-1360 įsigaliojimo iki 2020 m. birželio 30 d. pensijų išmokų rūšys nustatomos ir pensijų išmokos mokamos pagal teisės aktų nuostatas, galiojusias iki 2018 m. gruodžio 31 d.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XIII-1360, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11459
+Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
 
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymo Nr. XIII-1360 2 ir 3 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2019-01-01:
 
