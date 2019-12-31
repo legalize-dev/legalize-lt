@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2019-11-01"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-30
+Suvestinė redakcija nuo 2019-12-31 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
 
@@ -730,7 +730,13 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 3. Lažybų ir totalizatoriaus punktai įrengiami izoliuotose patalpose, turinčiose atskirą įėjimą ir vietą, kurioje lažybų ir totalizatoriaus tarpininkas priima lošėjų statomas sumas ir išmoka pinigus. Lažybų ir totalizatoriaus punktų patalpos turi atitikti šio straipsnio 1 dalies 4 punkte nustatytus reikalavimus, taip pat jose turi būti įrengta skaitmeninio vaizdo įrašymo sistema, nepertraukiamai filmuojanti įėjimą į lažybų ir totalizatoriaus punktą ir vietą, kurioje lažybų ir totalizatoriaus tarpininkas priima lošėjų statomas sumas ir išmoka pinigus. Lažybų ir totalizatoriaus punktuose skaitmeninio vaizdo įrašymo sistema turi veikti taip, kad vaizdo įrašuose būtų aiškiai matyti į lažybų ir totalizatoriaus punktą įeinantys asmenys, lošėjų, lažybų ir totalizatoriaus tarpininkų, atliekančių operacijas su pinigais, veiksmai.
 
-4. Lošimų priežiūrai reikalingų skaitmeninio vaizdo įrašymo sistemos vaizdo įrašų reikalavimus nustato Priežiūros tarnyba. Lošimus organizuojanti bendrovė privalo vaizdo įrašus saugoti 180 dienų, o kai nagrinėjama lošėjo pretenzija ar atliekamas lošimus organizuojančios bendrovės patikrinimas, ilgiau – iki pretenzijos išnagrinėjimo ar lošimus organizuojančios bendrovės patikrinimo pabaigos, ir juos pateikti tik Priežiūros tarnybai, ikiteisminio tyrimo pareigūnams, prokurorams arba teismui. Pretenzijas raštu pareiškusiems lošėjams gali būti pateikiami tik jų lošimo vaizdo įrašai.
+4. Izoliuotumo ir atskiro įėjimo reikalavimai netaikomi lošimo namams (kazino), automatų ir bingo salonams, lažybų ir totalizatoriaus punktams, kuriuos tas pats lošimų organizatorius įsteigia tose pačiose patalpose. Į patalpas, kuriose organizuojami lošimai A kategorijos automatais ir stalo lošimai bei kitų rūšių lošimų veikla, draudžiama įleisti jaunesnius kaip 21 metų asmenis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2744, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21600
+
+5. Lošimų priežiūrai reikalingų skaitmeninio vaizdo įrašymo sistemos vaizdo įrašų reikalavimus nustato Priežiūros tarnyba. Lošimus organizuojanti bendrovė privalo vaizdo įrašus saugoti 180 dienų, o kai nagrinėjama lošėjo pretenzija ar atliekamas lošimus organizuojančios bendrovės patikrinimas, ilgiau – iki pretenzijos išnagrinėjimo ar lošimus organizuojančios bendrovės patikrinimo pabaigos, ir juos pateikti tik Priežiūros tarnybai, ikiteisminio tyrimo pareigūnams, prokurorams arba teismui. Pretenzijas raštu pareiškusiems lošėjams gali būti pateikiami tik jų lošimo vaizdo įrašai.
 
 Straipsnio pakeitimai:
 
@@ -739,6 +745,10 @@ Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 Nr. IX-1418, 2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24)
 
 Nr. XI-1578, 2011-09-15, Žin., 2011, Nr. 119-5611 (2011-10-01)
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2744, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21600
 
 Straipsnio pakeitimai:
 
