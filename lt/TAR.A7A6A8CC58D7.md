@@ -4,7 +4,7 @@ identifier: "TAR.A7A6A8CC58D7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2016-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
 
@@ -72,27 +72,21 @@ Nr. XII-1735, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08981
 
 1. Organizuojant loterijas, loterijų ir lošimų mokesčio bazei taikomas 5 procentų mokesčio tarifas.
 
-2. Organizuojant bingą, totalizatorių ir lažybas, loterijų ir lošimų mokesčio bazei taikomas 15 procentų mokesčio tarifas.
+2. Organizuojant bingą, totalizatorių ir lažybas, loterijų ir lošimų mokesčio bazei taikomas 18 procentų mokesčio tarifas.
 
-21. Organizuojant nuotolinius lošimus, loterijų ir lošimų mokesčio bazei taikomas 10 procentų mokesčio tarifas.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-1735, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08981
+21. Organizuojant nuotolinius lošimus, loterijų ir lošimų mokesčio bazei taikomas 13 procentų mokesčio tarifas.
 
 3. Organizuojant lošimus lošimo automatais ir stalo lošimus, nustatomas fiksuotas loterijų ir lošimų mokesčio dydis už kiekvieną lošimų veiklos leidime nurodytą lošimo įrenginį:
 
-1) už A kategorijos lošimo automatą – 232 eurai per kalendorinių metų mėnesį (toliau – mėnuo);
+1) už A kategorijos lošimo automatą – 260 eurų per kalendorinių metų mėnesį (toliau – mėnuo);
 
-2) už B kategorijos lošimo automatą – 87 eurai per mėnesį;
+2) už B kategorijos lošimo automatą – 130 eurų per mėnesį;
 
-3) už ruletės, kortų arba kauliukų stalą – 1 738 eurai per mėnesį.
+3) už ruletės, kortų arba kauliukų stalą – 2 300 eurų per mėnesį.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XII-1112, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13424
-
-Nr. XII-1735, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08981
+Nr. XIII-2634, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20807
 
 TREČIASIS SKIRSNIS
 
@@ -197,6 +191,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2243, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21027
 
 Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 6 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2634, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20807
+
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 5 straipsnio pakeitimo įstatymas
 
 9 straipsnis. Atsakomybė už šio Įstatymo pažeidimus
 
