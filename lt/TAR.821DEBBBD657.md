@@ -4,7 +4,7 @@ identifier: "TAR.821DEBBBD657"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-15"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.821DEBBBD657"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS MINIMALIOJO DARBO UŽMOKESČIO DYDŽIŲ, SOCIALINĖS
 
 APSAUGOS IŠMOKŲ IR BAZINIO BAUSMIŲ IR NUOBAUDŲ DYDŽIO INDEKSAVIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 83-3294, i. k. 1081010ISTA00X-1710
 
@@ -63,9 +63,11 @@ Vilnius
 
 6) valstybinių pensijų bazė – rodiklis valstybinių pensijų dydžiams, kurie siejami su valstybinių pensijų baze, apibrėžti ir apskaičiuoti.
 
-3. Bazinė socialinė išmoka negali sudaryti mažiau negu 16 procentų, šalpos pensijų bazė negali sudaryti mažiau negu 54 procentus, tikslinių kompensacijų bazė negali sudaryti mažiau negu 47 procentus, valstybės remiamos pajamos negali sudaryti mažiau negu 50 procentų praėjusių metų MVPD.
+3. Bazinė socialinė išmoka negali sudaryti mažiau negu 16 procentų, šalpos pensijų bazė negali sudaryti mažiau negu 56 procentus, tikslinių kompensacijų bazė negali sudaryti mažiau negu 47 procentus, valstybės remiamos pajamos negali sudaryti mažiau negu 50 procentų praėjusių metų MVPD.
 
-TAR pastaba. 2 straipsnio 3 dalis įsigalioja 2019 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2604, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20563
 
 4. Valstybinių pensijų bazės dydis negali būti didesnis už galiojančios socialinio draudimo bazinės pensijos dydį.
 
@@ -152,6 +154,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-820, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20046
 
 Lietuvos Respublikos socialinės apsaugos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2604, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20563
+
+Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 2 straipsnio pakeitimo įstatymas
 
 6 straipsnis. Socialinės apsaugos išmokų atskaitos rodiklių indeksavimas
 
