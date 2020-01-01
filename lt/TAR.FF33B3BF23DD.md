@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2019-11-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -260,6 +260,18 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
 
 31. Pakuotės lapelis – vartotojui informuoti skirtas lapelis, pateikiamas kartu su vaistiniu preparatu.
+
+311. Perleista vertė – vaistinio preparato registruotojo ar jo atstovo tiesiogiai ar netiesiogiai perleistos vertės gavėjui suteikta piniginė vertė arba ja išreiškiama natūrinė nauda.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2590, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20023
+
+312. Perleistos vertės gavėjas – sveikatos priežiūros ar farmacijos specialistas, asmens sveikatos priežiūros įstaiga, juridinis asmuo, atstovaujantis sveikatos priežiūros ar farmacijos specialistų ar asmens sveikatos priežiūros įstaigų interesams.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2590, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20023
 
 32. Neteko galios nuo 2013-01-01.
 
@@ -1125,7 +1137,11 @@ Nr. XIII-1191, 2018-05-24, paskelbta TAR 2018-05-28, i. k. 2018-08537
 
 8. Profesiniuose (moksliniuose) renginiuose vaišingumui neturi būti suteikiama tiek reikšmės, kiek pagrindiniam renginio tikslui. Leidžiama apmokėti tik sveikatos priežiūros ir (ar) farmacijos specialistų, dalyvaujančių šiuose renginiuose, kelionės, apgyvendinimo, maitinimo ir (ar) registracijos mokestį.
 
-9. Vaistinio preparato registruotojas arba jo atstovas Lietuvos Respublikoje turi kaupti informaciją apie reklaminiams, profesiniams (moksliniams) renginiams ir juose dalyvaujantiems sveikatos priežiūros ir (ar) farmacijos specialistams skirtas išlaidas, taip pat rinkti, kaupti, saugoti sveikatos priežiūros ir (ar) farmacijos specialistų, kurių dalyvavimą profesiniuose (moksliniuose) renginiuose užsienio valstybėje (EEE valstybėje ar trečiojoje šalyje) jis finansuoja pagal šio straipsnio 8 dalį, asmens duomenis (vardą, pavardę, profesinę kvalifikaciją, medicinos ar vaistininko praktikos licencijos numerį) bei teikti informaciją apie šioje dalyje nurodytas išlaidas ir asmens duomenis sveikatos apsaugos ministro nustatyta tvarka Valstybinei vaistų kontrolės tarnybai.
+9. Neteko galios nuo 2020-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-2590, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20023
 
 Straipsnio dalies pakeitimai:
 
@@ -1133,7 +1149,11 @@ Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
-10. Valstybinė vaistų kontrolės tarnyba tvarko asmens duomenis, gautus pagal šio straipsnio 9 dalį, ir sveikatos apsaugos ministro nustatyta tvarka savo interneto svetainėje skelbia profesiniame (moksliniame) renginyje užsienio valstybėje (EEE valstybėje ar trečiojoje šalyje) dalyvavusių sveikatos priežiūros ir (ar) farmacijos specialistų asmens duomenis, nurodytus šio straipsnio 9 dalyje.
+10. Neteko galios nuo 2020-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-2590, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20023
 
 Papildyta straipsnio dalimi:
 
@@ -1144,14 +1164,6 @@ Straipsnio pakeitimai:
 Nr. XI-1235, 2010-12-14, Žin., 2010, Nr. 153-7800 (2010-12-28)
 
 Nr. XI-1459, 2011-06-16, Žin., 2011, Nr. 78-3799 (2011-06-30)
-
-Nauja vienuoliktojo skirsnio redakcija:
-
-Nr. XI-2376, 2012-11-06, Žin., 2012, Nr. 135-6865 (2012-11-22)
-
-VIENUOLIKTASIS SKIRSNIS
-
-FARMAKOLOGINIS BUDRUMAS
 
 53 straipsnis. Vaistinio preparato registruotojo farmakologinio budrumo sistema ir veikla
 
@@ -1759,7 +1771,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
 
-part_64ec903966d04521b2610516992d3212_end
+part_00dcea718db94a32810df23af2772abe_end
 
 Pakeitimai:
 
@@ -4606,4 +4618,28 @@ Nr. XI-59, 2008-12-16, Žin., 2008, Nr. 149-5991 (2008-12-30)
 Pakeistas skirsnio pavadinimas:
 
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+
+511 straipsnis. Informacijos apie perleistas vertes tvarkymas
+
+1. Perleistos vertės perleidžiamos perleistų verčių gavėjams siekiant gerinti teikiamų sveikatos priežiūros ir (ar) farmacinių paslaugų kokybę, tobulinti sveikatos priežiūros ir (ar) farmacijos specialistų profesinę kvalifikaciją, taip pat sveikatos priežiūros ir (ar) farmacijos specialistams už paslaugas, suteiktas vaistinių preparatų registruotojams ir (ar) jų atstovams, siekiant vaistinių preparatų registruotojams ir (ar) jų atstovams perduoti savo žinias ir patirtį medicinos srityje, išskyrus sveikatos priežiūros ar farmacines paslaugas, kurios teikiamos dirbant asmens sveikatos priežiūros įstaigoje ar vaistinėje.
+
+2. Vaistinių preparatų registruotojai ir (ar) jo atstovai turi rinkti ir saugoti informaciją apie perleistas vertes. Be to, vaistinių preparatų registruotojai ir (ar) jų atstovai turi rinkti ir saugoti perleistų verčių gavėjų, kurie yra fiziniai asmenys, asmens duomenis (vardą, pavardę, profesinę kvalifikaciją, sveikatos priežiūros ar farmacijos specialisto spaudo numerį) bei perleistų verčių gavėjų, kurie yra juridiniai asmenys, pavadinimus. Vaistinių preparatų registruotojai ir (ar) jų atstovai turi sveikatos apsaugos ministro nustatyta tvarka teikti Valstybinei vaistų kontrolės tarnybai metinę informaciją apie perleistas vertes, jeigu jos perleistos ne kaip suteikta parama pagal Lietuvos Respublikos labdaros ir paramos įstatymą, perleistų verčių gavėjų, kurie yra fiziniai asmenys, asmens duomenis ir perleistų verčių gavėjų, kurie yra juridiniai asmenys, pavadinimus. Vaistinių preparatų registruotojai ir (ar) jų atstovai asmens duomenis saugo trejus metus nuo jų pirmosios paskelbimo Valstybinės vaistų kontrolės tarnybos interneto svetainėje dienos ir sunaikina taip, kad nebūtų galimybės jų atkurti. Dokumentai, kuriuose yra asmens duomenų, naikinami Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka.
+
+3. Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos pagal Lietuvos Respublikos labdaros ir paramos įstatymo 11 straipsnio 1 dalį gautas vaistinių preparatų registruotojų ir (ar) jų atstovų metines ataskaitas apie suteiktą paramą perleistų verčių gavėjams, kurie yra juridiniai asmenys, pateikia Valstybinei vaistų kontrolės tarnybai šios tarnybos viršininko ir Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko nustatyta tvarka.
+
+4. Valstybinė vaistų kontrolės tarnyba tvarko informaciją apie perleistas vertes ir asmens duomenis, gautus šio straipsnio 2 ir 3 dalyse nustatyta tvarka, ir sveikatos apsaugos ministro nustatyta tvarka kartą per metus savo interneto svetainėje skelbia informaciją apie perleistas vertes (pinigine išraiška) konkretiems perleistų verčių gavėjams, perleistų verčių gavėjų, kurie yra fiziniai asmenys, asmens duomenis, nurodytus šio straipsnio 2 dalyje, ir perleistų verčių gavėjų, kurie yra juridiniai asmenys, pavadinimus. Metinė informacija skelbiama dvejus metus nuo pirmosios jos paskelbimo Valstybinės vaistų kontrolės tarnybos interneto svetainėje dienos. Valstybinė vaistų kontrolės tarnyba asmens duomenis saugo trejus metus nuo pirmosios jų paskelbimo Valstybinės vaistų kontrolės tarnybos interneto svetainėje dienos ir sunaikina taip, kad nebūtų galimybės jų atkurti. Dokumentai, kuriuose yra asmens duomenų, naikinami Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka.
+
+5. Šio straipsnio 2 ir 4 dalyse nurodyti asmens duomenys tvarkomi siekiant didinti vaistinių preparatų registruotojų ir (ar) jų atstovų bendradarbiavimo su sveikatos priežiūros ir farmacijos specialistais ir asmens sveikatos priežiūros įstaigomis skaidrumą, užtikrinti viešą interesą žinoti apie perleistas vertes ir jų gavėjus, kad naudodamiesi šia informacija pacientai galėtų priimti pagrįstus sprendimus pasirinkdami gydytoją, aktyviau dalyvauti parenkant ir skiriant reikalingą gydymą arba priimti sprendimus dėl vaistinių preparatų įsigijimo vaistinėje.
+
+Papildyta straipsniu:
+
+Nr. XIII-2590, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20023
+
+Nauja vienuoliktojo skirsnio redakcija:
+
+Nr. XI-2376, 2012-11-06, Žin., 2012, Nr. 135-6865 (2012-11-22)
+
+VIENUOLIKTASIS SKIRSNIS
+
+FARMAKOLOGINIS BUDRUMAS
 
