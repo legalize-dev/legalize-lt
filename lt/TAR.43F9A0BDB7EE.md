@@ -4,7 +4,7 @@ identifier: "TAR.43F9A0BDB7EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43F9A0BDB7EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 17 straipsnis įsigalioja 2004-08-03."
 ---
 # Lietuvos Respublikos kultūros centrų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4435, i. k. 1041010ISTA0IX-2395
 
@@ -248,15 +248,13 @@ Nr. XIII-1417, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11328
 
 Kultūros centrų darbuotojų darbo santykius reglamentuoja Darbo kodeksas ir kiti teisės aktai.
 
-11 straipsnis. Kultūros centrų darbuotojų darbo apmokėjimas ir atestavimas
+11 straipsnis. Kultūros centrų darbuotojų darbo apmokėjimas
 
-1. Kultūros centrų darbuotojų darbo apmokėjimas nustatomas vadovaujantis Darbo kodekso ir kitų teisės aktų nustatyta tvarka.
+Kultūros centrų darbuotojų darbo apmokėjimas nustatomas vadovaujantis Valstybės ir savivaldybių biudžetinių įstaigų darbuotojų darbo apmokėjimo įstatymo ir kitų teisės aktų nustatyta tvarka.
 
-2. Valstybės ir savivaldybių kultūros centrų kultūros ir meno darbuotojus Kultūros ministerijos nustatyta tvarka atestuoja steigėjas. Į atestacijos komisijos sudėtį įeina ir Kultūros ministerijos atstovai.
+Straipsnio pakeitimai:
 
-Straipsnio dalies pakeitimai:
-
-Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
+Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
 
 PENKTASIS SKIRSNIS
 
@@ -280,7 +278,11 @@ KULTŪROS CENTRŲ VEIKLOS VALSTYBINIS VALDYMAS
 
 6) organizuoja kultūros centrų darbuotojų kvalifikacijos kėlimą;
 
-7) tvirtina valstybės ir savivaldybių kultūros centrų kultūros ir meno darbuotojų atestavimo nuostatus ir atlieka atestavimo priežiūrą;
+7) Neteko galios nuo 2020-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
 
 8) tvirtina kategorijų suteikimo kultūros centrams kriterijus;
 
@@ -300,7 +302,11 @@ Kitos ministerijos:
 
 2) analizuoja ir kontroliuoja valstybės kultūros centrų veiklą;
 
-3) organizuoja valstybės kultūros centrų kultūros ir meno darbuotojų kvalifikacijos kėlimą ir atestavimą;
+3) organizuoja valstybės kultūros centrų kultūros ir meno darbuotojų kvalifikacijos kėlimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
 
 4) teikia pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms valstybės kultūros centrų veiklos klausimais;
 
@@ -324,7 +330,11 @@ Savivaldybės taryba:
 
 5) koordinuoja savivaldybės kultūros centrų dalyvavimą tarptautinėse kultūrinėse programose;
 
-6) organizuoja savivaldybės kultūros centrų kultūros ir meno darbuotojų kvalifikacijos kėlimą ir atestavimą;
+6) organizuoja savivaldybės kultūros centrų kultūros ir meno darbuotojų kvalifikacijos kėlimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
 
 7) suteikia savivaldybės kultūros centrams kategorijas.
 
@@ -366,7 +376,7 @@ Kultūros ministerija iki šio įstatymo įsigaliojimo dienos parengia ir patvir
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -393,4 +403,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1748, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20721
 
 Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 15 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
+
+Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 11, 12, 13 ir 14 straipsnių pakeitimo įstatymas
 
