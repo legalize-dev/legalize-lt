@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2019-10-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,17 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-01-29
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
-TAR pastaba. Įstatymas Nr. XIII-2285 taikomas ir vykdomosioms byloms, pradėtoms iki šio įstatymo įsigaliojimo (2019-10-01).
+TAR pastaba. Iki įstatymo Nr. XIII-2270 įsigaliojimo (2020-01-01) pradėti vykdyti teismo sprendimai dėl turto konfiskavimo vykdomi pagal procesines teisės normas, galiojusias iki šio įstatymo įsigaliojimo.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
+Nr. XIII-2270, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11192
 
-Lietuvos Respublikos civilinio proceso kodekso 626, 628, 629, 668 ir 691 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso 603, 626, 692 ir 755 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -263,7 +263,11 @@ Nr. XII-2084, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19289
 
 7) šalys – bylose dėl prarasto turto ryšium su politinėmis represijomis;
 
-8) įmonė (įstaiga), kuriai iškelta bankroto ar restruktūrizavimo byla arba kurioje vykdoma neteisminė bankroto procedūra, ar fizinis asmuo, kuriam iškelta bankroto byla, o kiti dalyvaujantys byloje asmenys – už šiose bylose paduotus apeliacinius ir kasacinius skundus;
+8) juridinis asmuo, kuriam iškelta bankroto ar restruktūrizavimo byla arba kurio bankroto procesas vyksta ne teismo tvarka, ar fizinis asmuo, kuriam iškelta bankroto byla, o kiti dalyvaujantys byloje asmenys – už šioje byloje paduotus apeliacinius ir kasacinius skundus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 9) ieškovai ir turtinius reikalavimus pareiškiantys asmenys – bankroto ar restruktūrizavimo bylose, išskyrus šio Kodekso 80 straipsnio 1 dalies 9 punkte nurodytus atvejus;
 
@@ -635,7 +639,11 @@ TEISMO POSĖDŽIO PERTRAUKA, BYLOS NAGRINĖJIMO ATIDĖJIMAS IR BYLOS SUSTABDYMAS
 
 4) kai nagrinėjant bylą, kurioje atsakovui pareikšti turtiniai reikalavimai, paaiškėja, kad tų pačių turtinių reikalavimų patenkinimas yra susijęs su baudžiamosios bylos nagrinėjimu teisme;
 
-5) kai iki nutarties skirti nagrinėti bylą, kurioje atsakovui pareikšti turtiniai reikalavimai, teismo posėdyje priėmimo paaiškėja, kad jam iškelta bankroto byla;
+5) kai iki nutarties skirti nagrinėti bylą, kurioje atsakovui pareikšti turtiniai reikalavimai, teismo posėdyje priėmimo paaiškėja, kad jam iškelta bankroto ar restruktūrizavimo byla;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 6) kai nagrinėjant bylą, kurioje bankui ar Centrinei kredito unijai pareikšti turtiniai reikalavimai, paaiškėja, kad bankui ar Centrinei kredito unijai yra paskelbtas veiklos apribojimas (moratoriumas);
 
@@ -1989,7 +1997,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 5) (neteko galios nuo 2011-10-01);
 
-6) persiuntus vykdomąjį dokumentą bankroto bylą nagrinėjančiam teismui.
+6) persiuntus vykdomąjį dokumentą bankroto ar restruktūrizavimo bylą nagrinėjančiam teismui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 2. Antstolis, baigdamas vykdomąją bylą šio straipsnio 1 dalies 4 punkte numatytu atveju, nepanaikina priemonių, kurių buvo imtasi išieškojimui vykdyti. Taikytos priverstinio vykdymo priemonės galioja iki vykdomojo dokumento įvykdymo. Antstolis, priėmęs vykdyti jam persiųstą vykdomąjį dokumentą, turi teisę taikyti papildomas priverstinio vykdymo priemones arba panaikinti anksčiau taikytąsias.
 
@@ -2719,7 +2731,11 @@ Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
 
 4. Kai išieškoma pagal įmonės hipotekos sandorį, vykdomąjį įrašą priėmęs vykdyti antstolis šio Kodekso 677 straipsnyje nustatyta tvarka sudaro hipotekos objektu esančios įmonės turto aprašą ir priima patvarkymą paskirti hipotekos kreditorių arba kreditoriaus sutikimu kitą asmenį įmonės turto administratoriumi. Šiuo atveju įkeistos įmonės valdymo organai iš administruojamo įmonės turto gaunamas pajamas perveda į antstolio depozitinę sąskaitą, iš kurios lėšos paskirstomos hipotekos kreditoriams atsižvelgiant į jų reikalavimų tenkinimo eilę.
 
-5. Kai skolininkui (įkeisto turto savininkui) pradėta bankroto ar restruktūrizavimo procedūra, įkeistas turtas parduodamas ir hipotekos ar įkeitimo kreditorių reikalavimai tenkinami atitinkamai Įmonių bankroto, Įmonių restruktūrizavimo ar Fizinių asmenų bankroto įstatymų nustatyta tvarka.
+5. Kai skolininkui (įkeisto turto savininkui) pradėtas bankroto ar restruktūrizavimo procesas, įkeistas turtas parduodamas ir hipotekos ar įkeitimo kreditorių reikalavimai tenkinami atitinkamai Juridinių asmenų nemokumo įstatymo ar Fizinių asmenų bankroto įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 Straipsnio pakeitimai:
 
@@ -2809,11 +2825,15 @@ Straipsnio pakeitimai:
 
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
-755 straipsnis. Teismo nuosprendžio, nutarties ar nutarimo dėl turto konfiskavimo vykdymo eilė
+755 straipsnis. Teismo nuosprendžio, nutarties ar nutarimo arba institucijos ar pareigūno nutarimo dėl turto konfiskavimo vykdymo eilė
 
-1. Vykdant teismo nuosprendį, nutartį ar nutarimą dėl turto konfiskavimo, skolininko turtas perduodamas realizuoti po to, kai yra patenkinti iki teismo nuosprendžio priėmimo dienos pareikšti nuteistojo kreditorių turtiniai reikalavimai ir padengtos su tuo susijusios vykdymo išlaidos.
+1. Jeigu skolininko turtas konfiskuojamas Administracinių nusižengimų kodekso ar Baudžiamojo proceso kodekso nustatyta tvarka, išieškoti iš nuosprendyje, nutartyje ar nutarime nurodyto konfiskuoto turto draudžiama.
 
-2. Jeigu nuosprendyje, nutartyje ar nutarime išvardyti daiktai konfiskuoti, nuteistojo kreditorių turtiniai reikalavimai turi būti tenkinami išieškant iš kito turto, o iš konfiskuotų daiktų išieškoma tik tada, kai nėra kito turto, iš kurio gali būti išieškoma, arba kai jo neužtenka.
+2. Jeigu antstoliui vykdyti pateiktas vykdomasis raštas, kuriame nurodyta išieškoti konfiskuotino turto vertę atitinkančią pinigų sumą, šią sumą antstolis išieško atsižvelgdamas į šio Kodekso 754 straipsnyje nustatytą reikalavimų patenkinimo eilę.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2270, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11192
 
 757 straipsnis. Iš areštuoto nekilnojamojo daikto gaunamų pajamų paskirstymo tvarka
 
@@ -3257,11 +3277,13 @@ Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29)
 
 8. Jeigu procesiniai dokumentai išsiųsti elektroninių ryšių priemonėmis iki paskutinės termino dienos dvidešimt ketvirtos valandos nulis minučių, procesinis terminas nelaikomas praleistu.
 
-9. Advokatams, advokatų padėjėjams, antstoliams, antstolių padėjėjams, notarams, valstybės ir savivaldybių įmonėms, įstaigoms ir organizacijoms, finansų įstaigoms, draudimo ir audito įmonėms, teismo ekspertams, bankroto administratoriams ir restruktūrizavimo administratoriams teismas procesinius dokumentus įteikia elektroninių ryšių priemonėmis. Be to, elektroninių ryšių priemonėmis dokumentai įteikiami asmenims, kuriems teisės aktuose ar su teismų informacinės sistemos valdytoju sudarytoje sutartyje nustatyta pareiga gauti procesinius dokumentus elektroninių ryšių priemonėmis. Kitiems asmenims teismas procesinius dokumentus įteikia elektroninių ryšių priemonėmis, jeigu jie šio Kodekso nustatyta tvarka pageidavo procesinius dokumentus gauti elektroninių ryšių priemonėmis ir yra nurodę reikalingus kontaktinius duomenis. Procesinių dokumentų įteikimo elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras.
+9. Advokatams, advokatų padėjėjams, antstoliams, antstolių padėjėjams, notarams, valstybės ir savivaldybių įmonėms, įstaigoms ir organizacijoms, finansų įstaigoms, draudimo ir audito įmonėms, teismo ekspertams, nemokumo administratoriams teismas procesinius dokumentus įteikia elektroninių ryšių priemonėmis. Be to, elektroninių ryšių priemonėmis dokumentai įteikiami asmenims, kuriems teisės aktuose ar su teismų informacinės sistemos valdytoju sudarytoje sutartyje nustatyta pareiga gauti procesinius dokumentus elektroninių ryšių priemonėmis. Kitiems asmenims teismas procesinius dokumentus įteikia elektroninių ryšių priemonėmis, jeigu jie šio Kodekso nustatyta tvarka pageidavo procesinius dokumentus gauti elektroninių ryšių priemonėmis ir yra nurodę reikalingus kontaktinius duomenis. Procesinių dokumentų įteikimo elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 10. Šio Kodekso nustatytais atvejais ir tvarka įteikiant dalyvaujančiam byloje asmeniui procesinį dokumentą elektroninių ryšių priemonėmis, procesinio dokumento įteikimo dalyvaujančiam byloje asmeniui diena laikoma po procesinio dokumento išsiuntimo dienos einanti darbo diena.
 
@@ -3677,7 +3699,13 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 3) kai teismas nutartimi sustabdo areštuoto turto realizavimą;
 
-4) kai įkaito turėtojas ar hipotekos kreditorius neprisijungia prie išieškojimo, jeigu išieškoma atitinkamai iš įkeisto turto ar hipoteka įkeisto turto.
+4) kai įkaito turėtojas ar hipotekos kreditorius neprisijungia prie išieškojimo, jeigu išieškoma atitinkamai iš įkeisto turto ar hipoteka įkeisto turto;
+
+5) kai fiziniam ar juridiniam asmeniui priklausantis realizuotinas turtas Administracinių nusižengimų kodekse nustatyta tvarka paimamas siekiant užtikrinti galimą šio turto konfiskavimą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2270, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11192
 
 3. Kai turtas areštuotas ar nuosavybės teisės į turtą laikinai apribotos tos pačios ar paskesnės eilės kreditorių reikalavimams užtikrinti, išieškojimas iš šio turto nestabdomas. Šiuo atveju išieškojimas iš areštuoto turto ar lėšų vykdomas Sprendimų vykdymo instrukcijoje nustatyta tvarka.
 
@@ -4653,7 +4681,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 4) jeigu, iškėlus bylą tame teisme, paaiškėja, kad ji buvo priimta pažeidžiant teismingumo taisykles;
 
-5) sustabdžius bylą dėl to, kad atsakovui iškelta bankroto byla. Šiuo atveju ji perduodama bankroto bylą nagrinėjančiam teismui.
+5) sustabdžius bylą dėl to, kad atsakovui iškelta bankroto ar restruktūrizavimo byla. Šiuo atveju ji perduodama bankroto ar restruktūrizavimo bylą nagrinėjančiam teismui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 3. Šio straipsnio 2 dalies 3 punkte nurodytu atveju klausimą dėl bylos perdavimo nagrinėti iš vieno apylinkės teismo kitam apylinkės teismui arba kitiems teismo rūmams išsprendžia apygardos teismo, kurio veiklos teritorijoje yra šie apylinkės teismai, pirmininkas arba šio teismo Civilinių bylų skyriaus pirmininkas, o kai teismas sudarytas iš teismo rūmų, – šio teismo pirmininkas. Klausimą dėl bylos perdavimo nagrinėti iš vieno apylinkės teismo kitam apylinkės teismui, esančiam kito apygardos teismo veiklos teritorijoje, arba iš vieno apygardos teismo kitam apygardos teismui išsprendžia Lietuvos apeliacinio teismo pirmininkas arba šio teismo Civilinių bylų skyriaus pirmininkas.
 
@@ -5153,7 +5185,11 @@ b) koncesijas, kurių vertė mažesnė už tarptautinių koncesijų vertę, – 
 
 9) ypatingosios teisenos bylose – penkiasdešimt eurų, išskyrus šiame Kodekse numatytus atvejus;
 
-10) už ieškinius dėl įmonės bankroto bylos iškėlimo – penkių šimtų eurų, išskyrus atvejus, kai ieškinį pareiškia įmonės savininkas (savininkai), vadovas, likvidatorius, buvęs ar esamas darbuotojas, valstybės institucija ar įstaiga, taip pat kai ieškinys dėl įmonės bankroto bylos iškėlimo grindžiamas tuo, kad įmonė neturi turto ar pajamų, iš kurių galėjo būti išieškomos skolos, ir dėl šios priežasties antstolis grąžino kreditoriui vykdomuosius dokumentus;
+10) už pareiškimus dėl juridinio asmens bankroto ar restruktūrizavimo bylos iškėlimo – penkių šimtų eurų, išskyrus atvejus, kai pareiškimą paduoda juridinio asmens savininkas (savininkai), vadovas, likvidatorius, buvęs ar esamas darbuotojas, valstybės institucija ar įstaiga, taip pat kai pareiškimas dėl juridinio asmens bankroto bylos iškėlimo grindžiamas tuo, kad juridinis asmuo neturi turto ar pajamų, iš kurių galėjo būti išieškomos skolos, ir dėl šios priežasties antstolis grąžino kreditoriui vykdomuosius dokumentus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 11) grupės ieškinio bylose žyminio mokesčio dydis nustatomas pagal šio Kodekso XXIV1 skyriaus taisykles.
 
@@ -5163,7 +5199,11 @@ Nr. XIII-329, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07552
 
 Nr. XIII-441, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10802
 
-2. Už atskiruosius skundus žyminis mokestis nemokamas, išskyrus atskiruosius skundus dėl nutarčių dėl laikinųjų apsaugos priemonių. Už atskiruosius skundus dėl nutarčių dėl laikinųjų apsaugos priemonių mokamas penkiasdešimt eurų žyminis mokestis.
+2. Už atskiruosius skundus žyminis mokestis nemokamas, išskyrus atskiruosius skundus dėl nutarčių dėl laikinųjų apsaugos priemonių ir atskiruosius skundus bankroto ar restruktūrizavimo bylose. Už šioje dalyje nurodytus atskiruosius skundus mokamas penkiasdešimt eurų žyminis mokestis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 3. Už pareiškimą dėl sprendimo už akių peržiūrėjimo mokamas penkiasdešimt eurų žyminis mokestis.
 
@@ -5245,25 +5285,43 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
-6) sustabdžius bylos nagrinėjimą, kai yra įsiteisėjusi nutartis iškelti atsakovui bankroto bylą;
+6) sustabdžius bylos nagrinėjimą, kai yra įsiteisėjusi nutartis iškelti atsakovui bankroto ar restruktūrizavimo bylą;
 
-7) įsiteisėjus teismo nutarčiai iškelti įmonės bankroto bylą. Šiuo atveju grąžinamas už ieškinį dėl įmonės bankroto bylos iškėlimo sumokėtas žyminis mokestis;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
+
+7) įsiteisėjus teismo nutarčiai iškelti juridinio asmens bankroto ar restruktūrizavimo bylą. Šiuo atveju grąžinamas už pareiškimą dėl juridinio asmens bankroto ar restruktūrizavimo bylos iškėlimo sumokėtas žyminis mokestis;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
-8) panaikinus sprendimą dėl absoliučių jo negaliojimo pagrindų. Šiuo atveju yra grąžinamas žyminis mokestis, sumokėtas už atitinkamą apeliacinį ar kasacinį skundą;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
+
+8) įsiteisėjus teismo nutarčiai tenkinti atskirąjį skundą bankroto ar restruktūrizavimo bylose;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
+
+9) panaikinus sprendimą dėl absoliučių jo negaliojimo pagrindų. Šiuo atveju yra grąžinamas žyminis mokestis, sumokėtas už atitinkamą apeliacinį ar kasacinį skundą;
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
-9) kitais atvejais, kai byla baigiama nepriimant teismo sprendimo dėl ginčo esmės ne dėl ieškovo kaltės.
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
+
+10) kitais atvejais, kai byla baigiama nepriimant teismo sprendimo dėl ginčo esmės ne dėl ieškovo kaltės.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 2. Jeigu ieškinys atsiimamas pradėjus bylą nagrinėti iš esmės arba ieškovas atsisako pareikšto ieškinio, arba šalys sudaro taikos sutartį, šalims grąžinama 75 procentai pirmosios instancijos teismui sumokėto žyminio mokesčio sumos. Šioje dalyje nurodyto dydžio žyminio mokesčio dalis grąžinama ir tuo atveju, jeigu ieškovas atsisako pareikšto ieškinio dėl to, kad, pareiškus ieškinį, atsakovas ieškovo reikalavimus patenkino iki bylos nagrinėjimo iš esmės pabaigos. Jeigu byla šioje dalyje nurodytais būdais užbaigiama ją nagrinėjant apeliacine ar kasacine tvarka, grąžinama 100 procentų žyminio mokesčio, sumokėto už apeliacinį ar kasacinį skundą, kai byla užbaigiama iki bylos nagrinėjimo iš esmės pradžios, arba 75 procentai žyminio mokesčio, sumokėto už apeliacinį ar kasacinį skundą, kai byla užbaigiama vėliau.
 
@@ -5835,7 +5893,11 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 5. Dėl teismo nutarties, kuria atsisakyta priimti ieškinį, gali būti duodamas atskirasis skundas.
 
-6. Teisėjas, priėmęs pareiškimą dėl civilinės bylos dėl registruojamo daikto teisinio statuso arba daiktinių teisių į jį iškėlimo, ne vėliau kaip kitą darbo dieną apie tai praneša viešo registro tvarkytojui, kuriame įregistruotas daiktas ar daiktinės teisės į jį. Teisėjas, priėmęs pareiškimą dėl bankroto ar restruktūrizavimo bylos iškėlimo, ne vėliau kaip kitą darbo dieną apie tai praneša Vyriausybės įgaliotai institucijai.
+6. Teisėjas, priėmęs pareiškimą dėl civilinės bylos dėl registruojamo daikto teisinio statuso arba daiktinių teisių į jį iškėlimo, ne vėliau kaip kitą darbo dieną apie tai praneša viešo registro tvarkytojui, kuriame įregistruotas daiktas ar daiktinės teisės į jį. Teisėjas, priėmęs pareiškimą dėl bankroto ar restruktūrizavimo bylos iškėlimo, ne vėliau kaip kitą darbo dieną apie tai praneša Juridinių asmenų nemokumo įstatyme nurodytai nemokumo administratorių priežiūros institucijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 Straipsnio pakeitimai:
 
@@ -6147,7 +6209,11 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 6) kitais šio Kodekso 163 ir 164 straipsniuose numatytais atvejais – iki bus pašalintos aplinkybės, dėl kurių buvo sustabdyta byla.
 
-2. Šio Kodekso 163 straipsnio 5 punkte numatytais atvejais sustabdyta byla perduodama bankroto bylą iškėlusiam teismui, o šis ją atnaujina ir prideda prie bankroto bylos.
+2. Šio Kodekso 163 straipsnio 1 dalies 5 punkte numatytais atvejais sustabdyta byla perduodama bankroto ar restruktūrizavimo bylą iškėlusiam teismui, o šis ją atnaujina ir prideda prie bankroto ar restruktūrizavimo bylos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 3. Sustabdžius bylos nagrinėjimą, jokie procesiniai veiksmai byloje neatliekami, išskyrus klausimų dėl laikinųjų apsaugos priemonių sprendimą.
 
@@ -7931,7 +7997,11 @@ Nr. XIII-2329, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12370
 
 2. Šio straipsnio 1 dalies 6 ir 8 punktuose nurodytais atvejais procesas neatnaujinamas, jeigu šiais pagrindais prašymą padavęs asmuo galėjo remtis apeliaciniame ar kasaciniame skunde.
 
-3. Prašymas atnaujinti procesą yra negalimas dėl įsiteisėjusių teismo sprendimų santuokos pripažinimo negaliojančia ar santuokos nutraukimo klausimais, jeigu bent viena iš šalių po sprendimo įsiteisėjimo sudarė naują santuoką arba įregistravo partnerystę, taip pat bankroto bylose.
+3. Prašymas atnaujinti procesą yra negalimas dėl įsiteisėjusių teismo sprendimų santuokos pripažinimo negaliojančia ar santuokos nutraukimo klausimais, jeigu bent viena iš šalių po sprendimo įsiteisėjimo sudarė naują santuoką arba įregistravo partnerystę, taip pat bankroto ir restruktūrizavimo bylose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 Straipsnio pakeitimai:
 
@@ -10493,7 +10563,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 2. Ieškinius dėl arešto turtui panaikinimo gali pareikšti ir nepriklausančio skolininkui turto savininkas, ir teisėtas jo valdytojas.
 
-3. Ieškiniai dėl arešto turtui panaikinimo pareiškiami skolininkui ir išieškotojui. Jeigu turtas areštuotas dėl jo konfiskavimo, tai atsakovais traukiami asmenys, kurių turtas areštuotas, ir valstybinė mokesčių inspekcija.
+3. Ieškiniai dėl arešto turtui panaikinimo pareiškiami skolininkui ir išieškotojui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2270, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11192
 
 4. Jeigu areštuotas turtas jau perduotas išieškotojui arba realizuotas, ieškinys pareiškiamas taip pat ir tiems asmenims, kuriems turtas perduotas arba kurie tą turtą įgijo. Patenkinus ieškinį dėl jau realizuoto turto grąžinimo, ginčus tarp turto įgijėjo, išieškotojo ir skolininko nagrinėja teismas pagal ginčo teisenos taisykles.
 
@@ -11181,9 +11255,13 @@ Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
 Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
 
-692 straipsnis. Perduodamo valstybei turto realizavimas
+692 straipsnis. Konfiskuoto turto realizavimas
 
-Teismo konfiskuotą ar perduotiną valstybei turtą antstolis realizuoti perduoda Valstybinės mokesčių inspekcijos įstaigai, jeigu įstatymai nenustato kitaip.
+Priėmęs vykdyti vykdomąjį raštą dėl turto konfiskavimo, antstolis vykdomajame rašte nurodytą konfiskuotą turtą areštuoja ir perduoda realizuoti šiame Kodekse, Vyriausybės ir Sprendimų vykdymo instrukcijoje nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2270, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11192
 
 693 straipsnis. Areštuoto turto realizavimo pasekmės
 
