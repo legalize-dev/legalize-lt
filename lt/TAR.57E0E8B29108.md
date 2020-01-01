@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2019-11-16"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-11-16 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -216,7 +216,11 @@ Nr. X-1447, 2008-02-01, Žin., 2008, Nr. 19-675 (2008-02-14), i. k. 1081010ISTA0
 
 2. Investuotojo patikra dėl atitikties nacionalinio saugumo interesams atliekama ir sprendimas dėl jo priimamas vadovaujantis šio įstatymo 11 straipsnyje nustatytais kriterijais ir šio įstatymo 12 straipsnyje nustatyta tvarka.
 
-3. Kituose įstatymuose gali būti numatyti atvejai, kai visuomenės saugumui ar viešajai tvarkai apsaugoti arba taikant atsakomąsias priemones trečiosioms valstybėms investuotoju negali būti konkrečios trečiosios valstybės investuotojas.
+3. Kituose įstatymuose gali būti numatyti atvejai, kai visuomenės saugumui ar viešajai tvarkai apsaugoti arba taikant atsakomąsias priemones trečiosioms valstybėms investuotoju negali būti konkrečios trečiosios valstybės investuotojas ar negali būti vykdoma konkreti veikla, pripažinta kelianti grėsmę Lietuvos Respublikos nacionaliniam saugumui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 
 4. Nacionaliniam saugumui užtikrinti svarbios įmonės, valstybės įmonės, savivaldybės įmonės, taip pat valstybės valdomos bendrovės atitinka nacionalinio saugumo interesus ir jų patikra dėl atitikties nacionalinio saugumo interesams nėra atliekama.
 
@@ -250,7 +254,11 @@ Investuotojas neatitinka nacionalinio saugumo interesų, jeigu:
 
 7) Komisija jam praneša apie numatomą pradėti jo patikrą dėl atitikties nacionalinio saugumo interesams (kai patikra pradedama šio įstatymo 12 straipsnio 5 dalyje nurodytų subjektų iniciatyva) ir jis per šio įstatymo 12 straipsnio 6 dalyje nurodytą terminą Komisijai nepateikia Komisijos darbo tvarkos apraše nurodytų dokumentų ir informacijos, ir jam nepateikus dokumentų ar informacijos nėra priimtas Komisijos ar Vyriausybės sprendimas, kad investuotojas atitinka nacionalinio saugumo interesus;
 
-8) vadovaujantis kitais įstatymais, kaip numatyta šio įstatymo 10 straipsnio 3 dalyje, investuotoju negali būti konkrečios trečiosios valstybės investuotojas;
+8) vadovaujantis kitais įstatymais, kaip numatyta šio įstatymo 10 straipsnio 3 dalyje, investuotoju negali būti konkrečios trečiosios valstybės investuotojas arba negali būti vykdoma konkreti veikla, kuri įstatymu yra pripažinta kelianti grėsmę Lietuvos Respublikos nacionaliniam saugumui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 
 9) yra kitų pagrįstų duomenų dėl investuotojo neatitikties nacionalinio saugumo interesams.
 
@@ -274,7 +282,11 @@ Investuotojas neatitinka nacionalinio saugumo interesų, jeigu:
 
 4. Investuotojo ir sutartinai veikiančių asmenų turimiems balsams skaičiuoti taikoma Vertybinių popierių įstatyme nustatyta asmens turimų balsų skaičiavimo tvarka.
 
-5. Investuotojo patikrą dėl atitikties nacionalinio saugumo interesams gali inicijuoti Vyriausybė, ministras, nacionalinį saugumą užtikrinančios institucijos, kaip jos apibrėžtos Nacionalinio saugumo pagrindų įstatyme, Lietuvos bankas, Lietuvos radijo ir televizijos komisija, taip pat valstybės arba savivaldybės vykdomoji institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės ar uždarosios akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos valdyti patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas, arba savivaldybė, kurios teritorijoje esančioje apsaugos zonoje investuotojas siekia vykdyti (vykdo) veiklą ar įsigyti turto.
+5. Investuotojo patikrą dėl atitikties nacionalinio saugumo interesams gali inicijuoti Vyriausybė, ministras, nacionalinį saugumą užtikrinančios institucijos, kaip jos apibrėžtos Nacionalinio saugumo pagrindų įstatyme, Lietuvos bankas, Lietuvos radijo ir televizijos komisija, Valstybinė energetikos reguliavimo taryba, taip pat valstybės arba savivaldybės vykdomoji institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės ar uždarosios akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos valdyti patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas, arba savivaldybė, kurios teritorijoje esančioje apsaugos zonoje investuotojas siekia vykdyti (vykdo) veiklą ar įsigyti turto.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 
 6. Komisija investuotojo patikrą dėl atitikties nacionalinio saugumo interesams, kreipdamasi į šio straipsnio 7 dalyje nurodytas institucijas, pradeda ne vėliau kaip kitą darbo dieną, kai iš investuotojo arba pareiškėjo gauna kreipimąsi ir visus Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją, pateiktinus Komisijai kartu su kreipimusi. Kai dėl investuotojo atitikties nacionalinio saugumo interesams patikros į Komisiją kreipiasi šio straipsnio 5 dalyje nurodyti subjektai, Komisija praneša investuotojui apie numatomą pradėti investuotojo patikrą dėl atitikties nacionalinio saugumo interesams, nurodydama, kad investuotojas per 10 dienų nuo tokio pranešimo gavimo dienos Komisijai turi pateikti Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją, ir pradeda investuotojo patikrą dėl atitikties nacionalinio saugumo interesams ne vėliau kaip kitą darbo dieną, kai iš investuotojo gauna visus Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją. Apie pradėtą patikrą dėl investuotojo atitikties nacionalinio saugumo interesams Komisija tą pačią dieną praneša investuotojui, pareiškėjui, taip pat Vyriausybei ir investuotojo patikrą dėl atitikties nacionalinio saugumo interesams inicijavusiam subjektui. Investuotojas, pareiškėjas ar šio straipsnio 5 dalyje nurodytas subjektas, teikdamas šiame straipsnyje nurodytą informaciją, raštu gali nurodyti, kad ši informacija sudaro komercinę (gamybinę) paslaptį ar yra konfidenciali, o Vyriausybė arba Komisija privalo užtikrinti šios informacijos konfidencialumą.
 
@@ -815,4 +827,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2529, 2019-11-14, paskelbta TAR 2019-11-15, i. k. 2019-18359
 
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. XIII-992 2 priedo pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
+
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 10, 11, 12 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
+
+121 straipsnis. Asmenų, kurie siekia vykdyti (vykdo) veiklą nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje, kuri įstatymu yra pripažinta keliančia grėsmę nacionaliniam saugumui, atitikties nacionalinio saugumo interesams patikra
+
+Asmenims, kurie siekia vykdyti (vykdo) veiklą nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje, kuri įstatymu yra pripažinta keliančia grėsmę nacionaliniam saugumui, mutatis mutandis taikoma patikra, numatyta investuotojams šio įstatymo 12 straipsnyje.
+
+Papildyta straipsniu:
+
+Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 
