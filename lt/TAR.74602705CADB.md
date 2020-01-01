@@ -4,7 +4,7 @@ identifier: "TAR.74602705CADB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-25"
-last_updated: "2019-10-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-07-03
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
 
@@ -64,7 +64,11 @@ Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
 
 6. Naftos produktus ir (ar) naftą įvežanti įmonė – Lietuvos Respublikoje registruota įmonė ar užsienio įmonės filialas, kurie įveža iš kitos valstybės narės naftos produktus ir (ar) naftą, skirtus vartoti šalies viduje.
 
-7. Naftos produktų ir naftos atsargos (toliau – atsargos) – energetikos produktų, nurodytų 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1099/2008 dėl energetikos statistikos (OL 2008 L 304, p. 1) (toliau – Reglamentas (EB) Nr. 1099/2008) C priedo 3.1 skirsnio pirmoje pastraipoje, atsargos, įskaitant specialiąsias naftos produktų atsargas.
+7. Naftos produktų ir naftos atsargos (toliau – atsargos) – energetikos produktų, nurodytų 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1099/2008 dėl energetikos statistikos (OL 2008 L 304, p. 1) (toliau – Reglamentas (EB) Nr. 1099/2008) A priedo 3.4 skyriuje, atsargos, įskaitant specialiąsias naftos produktų atsargas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
 
 8. Naftos produktų ir naftos atsargų kaupimas (toliau – atsargų kaupimas) – naftos produktų ir naftos atsargų ir (ar) reikalavimo teisių į naftos produktus ir naftos atsargas įgijimas, vykdant šiame įstatyme nustatytus įpareigojimus.
 
@@ -198,11 +202,13 @@ ATSARGŲ KAUPIMAS IR LAIKYMAS
 
 7 straipsnis. Kaupiamų atsargų kiekio apskaičiavimo tvarka
 
-Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Taisyklėmis, apskaičiuoja ir Agentūrai bei įpareigotosioms įmonėms patvirtina kaupiamų atsargų kategorijas ir konkrečius atsargų kiekius. Tvirtindama Agentūros kaupiamų specialiųjų atsargų produktų kategorijas, Energetikos ministerija užtikrina, kad pagal patvirtintas kategorijas ataskaitiniais metais suvartotų produktų kiekių naftos ekvivalentas sudarytų ne mažiau kaip 75 procentus vidaus suvartojimo. Patvirtintų kaupiamų atsargų kategorijų ir kiekių taikymo tvarka nustatoma Taisyklėse.
+Kiekvienais metais iki balandžio 30 dienos Energetikos ministerija, vadovaudamasi Taisyklėmis, apskaičiuoja ir Agentūrai bei įpareigotosioms įmonėms patvirtina kaupiamų atsargų kategorijas ir konkrečius atsargų kiekius, kuriuos privaloma kaupti nuo liepos 1 dienos. Tvirtindama Agentūros kaupiamų specialiųjų atsargų produktų kategorijas, Energetikos ministerija užtikrina, kad pagal patvirtintas kategorijas ataskaitiniais metais suvartotų produktų kiekių naftos ekvivalentas sudarytų ne mažiau kaip 75 procentus vidaus suvartojimo. Patvirtintų kaupiamų atsargų kategorijų ir kiekių taikymo tvarka nustatoma Taisyklėse.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
+
+Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
 
 8 straipsnis. Atsargų kokybė
 
@@ -364,11 +370,13 @@ Panaudojus atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais, 
 
 21 straipsnis. Atsargų informacinė sistema ir ataskaitos
 
-1. Agentūra valdo ir tvarko nuolat atnaujinamą ir išsamią atsargų informacinę sistemą, kurioje nurodomi tikslūs konkrečių atsargų kiekiai, pobūdis, savininkai ir sandėliai, perdirbimo įmonės ir saugyklos, kuriuose šios atsargos yra laikomos pagal Reglamento (EB) Nr. 1099/2008 C priedo 3.1 skirsnio pirmoje pastraipoje nustatytas kategorijas, informacija apie atsargų kaupimo ir tvarkymo sąnaudas, taip pat kiti Taisyklėse nurodyti duomenys ir informacija.
+1. Agentūra valdo ir tvarko nuolat atnaujinamą ir išsamią atsargų informacinę sistemą, kurioje nurodomi tikslūs konkrečių atsargų kiekiai, pobūdis, savininkai ir sandėliai, perdirbimo įmonės ir saugyklos, kuriuose šios atsargos yra laikomos pagal Reglamento (EB) Nr. 1099/2008 A priedo 3.4 skyriuje nustatytas kategorijas, informacija apie atsargų kaupimo ir tvarkymo sąnaudas, taip pat kiti Taisyklėse nurodyti duomenys ir informacija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
+
+Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
 
 2. Už atsargų ataskaitų rengimą ir teikimą Europos Sąjungos institucijoms atsakingi Lietuvos statistikos departamentas ir Agentūra. Atsargų ataskaitų rengimo ir teikimo tvarka ir terminai nustatomi Taisyklėse.
 
@@ -419,6 +427,12 @@ priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 1. 2009 m. rugsėjo 14 d. Tarybos direktyva 2009/119/EB, kuria valstybės narės įpareigojamos išlaikyti privalomąsias žalios naftos ir (arba) naftos produktų atsargas (OL 2009 L 265, p. 9).
+
+2. 2018 m. spalio 19 d. Komisijos įgyvendinimo direktyva (ES) 2018/1581, kuria iš dalies keičiamos Tarybos direktyvos 2009/119/EB nuostatos dėl atsargų saugojimo įpareigojimų apskaičiavimo metodų (OL 2018 L 263, p. 57).
+
+Papildyta punktu:
+
+Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
 
 Pakeitimai:
 
