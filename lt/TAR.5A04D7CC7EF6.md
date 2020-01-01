@@ -4,7 +4,7 @@ identifier: "TAR.5A04D7CC7EF6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
 
@@ -123,7 +123,11 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 11) tvirtina bibliotekos statistinių ataskaitų formas;
 
-12) nustato bibliotekininkų, dirbančių valstybės ar savivaldybių įsteigtose bibliotekose, atestavimo tvarką, rūpinasi jų kvalifikacijos kėlimu;
+12) rūpinasi bibliotekininkų kvalifikacijos kėlimu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2320, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12115
 
 13) leidžia teisės aktus, kuriais nustatomas privalomas Lietuvos standartų taikymas bibliotekų veikloje.
 
@@ -520,6 +524,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1749, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20723
 
 Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 5 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2320, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12115
+
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 4 straipsnio pakeitimo įstatymas
 
 20 straipsnis. Lietuvos bibliotekų fondas
 
