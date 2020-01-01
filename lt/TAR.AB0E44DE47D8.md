@@ -4,7 +4,7 @@ identifier: "TAR.AB0E44DE47D8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinasis įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1656, i. k. 0971010ISTAVIII-366
 
@@ -249,7 +249,7 @@ Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 
 1. Jeigu įmonė, įpareigota atlyginti nukentėjusiajam žalą dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga arba kai dėl nelaimingo atsitikimo darbe ar dėl profesinės ligos asmuo miršta, reorganizuojama, reikalavimai atlyginti žalą pereina tos įmonės teisių perėmėjui.
 
-2. Jeigu įmonė, kuri turėjo mokėti nukentėjusiajam šiame įstatyme nustatytą žalos atlyginimą, likviduojama dėl bankroto, žalos atlyginimas mokamas Įmonių bankroto įstatyme nustatyta tvarka. Jeigu įmonė likviduojama ne Įmonių bankroto įstatymo nustatyta tvarka, ji nukentėjusiojo pageidavimu sumoka visą žalos atlyginimą iš karto arba jį kapitalizuoja Civilinio kodekso 508 straipsnyje nustatyta tvarka.
+2. Jeigu įmonė, kuri turėjo mokėti nukentėjusiajam šiame įstatyme nustatytą žalos atlyginimą, likviduojama ne Juridinių asmenų nemokumo įstatymo nustatyta tvarka, žalos atlyginimo klausimas sprendžiamas Civilinio kodekso nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -257,11 +257,19 @@ Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr. 102-2918 (1999 12 01)
 
 Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 
+Straipsnio pakeitimai:
+
+Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
+
 18(1) straipsnis. Žalos atlyginimo mokėjimo prievolės perėjimas valstybei
 
 1. Šiame įstatyme nurodyta žalos atlyginimo mokėjimo prievolė pereina valstybei šiais atvejais:
 
-1) kai įmonei iškelta bankroto byla, kai įmonė likviduojama dėl bankroto, taip pat kai įmonė neveikia ir jai netaikoma bankroto procedūra bei dėl lėšų ir turto stokos įmonėje pagal teismo antstolių kontoros dokumentus nėra galimybės išieškoti nukentėjusiems teismo priteistą žalos atlyginimą;
+1) kai įmonei ar fiziniam asmeniui iškelta bankroto byla ar įmonės bankroto procesas vykdomas ne teismo tvarka, taip pat kai įmonė neveikia ir jos bankroto procesas nevykdomas bei dėl lėšų ir turto stokos įmonėje antstolis grąžino nukentėjusiajam vykdomuosius dokumentus arba teismas priima nutartį atsisakyti iškelti nemokaus juridinio asmens bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
 
 2) kai įmonė yra likviduota ir (ar) išregistruota, kai nėra jos teisių ir pareigų perėmėjo, tačiau žalos atlyginimas nebuvo nei išmokėtas, nei kapitalizuotas, nei perduota ši prievolė aukštesniajai organizacijai;
 
@@ -270,6 +278,12 @@ Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 4) kai nuolatinis Lietuvos Respublikos gyventojas, turintis teisę gauti žalos atlyginimą tarptautinėje sutartyje nustatyta tvarka iš užsienyje esančios už žalą atsakingos įmonės, jo negauna.
 
 2. Šiame straipsnyje nurodytą žalos atlyginimo mokėjimo prievolės perėjimo valstybei tvarką nustato Vyriausybė. Valstybė, atlyginusi žalą šio straipsnio 1 dalies 1 punkte nustatytais atvejais, turi atgręžtinio reikalavimo teisę į žalos atlyginimo mokėtoją.
+
+3. Nutraukus įmonės ar fizinio asmens bankroto procesą, valstybės perimta žalos atlyginimo mokėjimo prievolė grąžinama įmonei ar fiziniam asmeniui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
 
 Įstatymas papildytas straipsniu:
 
