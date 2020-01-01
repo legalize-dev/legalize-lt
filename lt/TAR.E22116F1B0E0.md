@@ -4,7 +4,7 @@ identifier: "TAR.E22116F1B0E0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-13"
-last_updated: "2019-07-21"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2019-07-21 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
 
@@ -841,7 +841,11 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 
-24) priimti sprendimus dėl bendrovės restruktūrizavimo Įmonių restruktūrizavimo įstatymo nustatytais atvejais;
+24) priimti sprendimus dėl bendrovės restruktūrizavimo Lietuvos Respublikos juridinių asmenų nemokumo įstatymo nustatytais atvejais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2524, 2019-11-14, paskelbta TAR 2019-11-21, i. k. 2019-18576
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -995,9 +999,23 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 5) to reikalauja visuotinio akcininkų susirinkimo sušaukimo iniciatyvos teisę turintys akcininkai, stebėtojų taryba, valdyba arba, jei valdyba nesudaroma, bendrovės vadovas;
 
-6) baigiasi įstatuose nurodytas bendrovės veiklos terminas;
+6) bendrovė tampa nemoki arba yra žinoma, kad taps nemoki, kaip suprantama pagal Juridinių asmenų nemokumo įstatymą;
 
-7) to reikia pagal šį ir kitus įstatymus ar bendrovės įstatus.
+Papildyta straipsnio punktu:
+
+Nr. XIII-2231, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10348
+
+7) baigiasi įstatuose nurodytas bendrovės veiklos terminas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2231, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10348
+
+8) to reikia pagal šį ir kitus įstatymus ar bendrovės įstatus.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2231, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10348
 
 3. Visuotinis akcininkų susirinkimas šaukiamas teismo sprendimu, jeigu:
 
@@ -1673,7 +1691,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
-12. Bendrovės valdyba atlieka funkcijas, kurios Įmonių restruktūrizavimo įstatyme priskirtos valdymo organo kompetencijai.
+12. Neteko galios 2020-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2231, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10348
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -3105,7 +3127,11 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 3. Visuotinis akcininkų susirinkimas negali priimti sprendimo likviduoti nemokią bendrovę.
 
-4. Bankrutavusi bendrovė likviduojama Įmonių bankroto įstatymo nustatyta tvarka.
+4. Bendrovė dėl bankroto likviduojama Juridinių asmenų nemokumo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2231, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10348
 
 5. Visuotinis akcininkų susirinkimas ar teismas, priėmę sprendimą likviduoti bendrovę, privalo išrinkti (paskirti) jos likvidatorių.
 
