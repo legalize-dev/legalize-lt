@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2319; Žin. 1996, Nr.103-0, i. k. 0961010ISTA00I-1571
 
@@ -112,7 +112,17 @@ Nr. XI-1047, 2010-09-30, Žin., 2010, Nr. 123-6261 (2010-10-18)
 
 8. LRT rengia tautinėms mažumoms skirtas programas, kuriomis suteikiama galimybė skleisti tautinių mažumų kultūrą.
 
-9. LRT rengia programas klausos ir regos neįgaliesiems. Tokių programų transliavimo televizijos programose mastus nustato Taryba, atsižvelgdama į LRT finansines galimybes.
+9. LRT televizijos programas pritaiko klausos ir regos negalią turintiems asmenims. Tokių televizijos programų transliacijų, kurių kartojimas neįskaičiuojamas į šioje dalyje nustatytą minimalų klausos ir regos negalią turintiems asmenims pritaikytų programų transliavimo laiką, trukmė per mėnesį turi sudaryti:
+
+1) programos su lietuviškais subtitrais – ne mažiau kaip 50 procentų viso mėnesio transliavimo laiko;
+
+2) programos, verčiamos į lietuvių gestų kalbą, – ne mažiau kaip 20 procentų viso mėnesio transliavimo laiko;
+
+3) programos, pritaikytos regos negalią turintiems asmenims, – ne mažiau kaip 10 procentų viso mėnesio transliavimo laiko.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2008, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05336
 
 10. LRT suteikia laiką rinkimų metu kandidatams į Respublikos Prezidentus, politinėms partijoms ir jų kandidatams į Seimo ar savivaldybių tarybų narius Prezidento rinkimų, Seimo rinkimų ir Savivaldybių tarybų rinkimų įstatymų nustatytomis sąlygomis ir tvarka.
 
@@ -593,4 +603,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1549, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17457
 
 Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 4 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2008, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05336
+
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5 straipsnio pakeitimo įstatymas
 
