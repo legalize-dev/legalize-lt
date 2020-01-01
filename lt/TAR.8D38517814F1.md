@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2019-06-28"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2019-06-28 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-02-17
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -1703,7 +1703,21 @@ APMOKESTINAMŲJŲ GAMINIŲ, IŠSKYRUS BATERIJAS IR AKUMULIATORIUS, ATLIEKŲ TVAR
 
 2) aplinkos ministro nustatyta tvarka kiekvienais metais pateikti apmokestinamųjų gaminių atliekų tvarkymo organizavimo veiklos ataskaitą.
 
-2. Šio straipsnio 1 dalies nuostatos netaikomos apmokestinamuosius gaminius savoms reikmėms naudojantiems gamintojams ir (ar) importuotojams. Tokie gamintojai ir (ar) importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotų apmokestinamųjų gaminių atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui.
+2. Vykdydami šio Įstatymo 3418 straipsnio 1 dalies 4 punkte nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai apmokestinamųjų gaminių atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai:
+
+1) privalo sudaryti sutartis su visomis savivaldybėmis (arba komunalinių atliekų tvarkymo sistemos administratoriumi, kuriam pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl padangų atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse ir šių aikštelių eksploatavimo dalinio finansavimo. Šiose sutartyse turi būti numatyta padangų atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse ir šių aikštelių eksploatavimo išlaidų dalinio finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių įrengtų didelių gabaritų atliekų aikštelių infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka;
+
+2) šios dalies 1 punkte nurodytas išlaidas turi finansuoti proporcingai jo užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal gamintojo ir (ar) importuotojo deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos vidaus rinkai verslo tikslais tiektų padangų kiekį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
+
+3. Šio straipsnio 1 dalies nuostatos netaikomos apmokestinamuosius gaminius savoms reikmėms naudojantiems gamintojams ir (ar) importuotojams. Tokie gamintojai ir (ar) importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotų apmokestinamųjų gaminių atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 Įstatymas papildytas aštuntuoju(5) skirsniu:
 
@@ -1798,6 +1812,12 @@ Nr. XIII-1796, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21124
 7) sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka.
 
 5. Nekilnojamojo turto objekto savininkas arba įgalioti asmenys, kurie yra sudarę komunalinių atliekų tvarkymo paslaugos teikimo sutartį pagal komunalinių atliekų tvarkymo paslaugos teikimo sutarties standartines sąlygas, arba asmenys, kuriems pasiūlymas, nurodytas šio straipsnio 2 dalyje, nepateiktas, turi teisę kreiptis su prašymu į savivaldybę dėl komunalinių atliekų tvarkymo paslaugos teikimo sutarties sudarymo pagal individualiai aptartas sąlygas. Savivaldybė privalo išnagrinėti tokį prašymą ir sudaryti komunalinių atliekų tvarkymo paslaugos teikimo sutartį ne vėliau kaip per 14 dienų nuo prašymo gavimo dienos.
+
+6. Reikalavimai dėl laiku nesumokėtos rinkliavos priteisimo iš rinkliavos mokėtojo nagrinėjami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Dėl laiku nesumokėtos rinkliavos priteisimo gali būti kreipiamasi į apygardos administracinį teismą su pareiškimu dėl teismo įsakymo išdavimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2433, 2019-09-19, paskelbta TAR 2019-10-01, i. k. 2019-15589
 
 Įstatymas papildytas straipsniu:
 
@@ -2178,6 +2198,16 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
 
 2. Siekdama įvykdyti šio Įstatymo 3418 straipsnio 1 dalies 2 punkte apmokestinamųjų gaminių gamintojams ir importuotojams nustatytą pareigą, Organizacija privalo sudaryti sutartis su pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais apmokestinamųjų gaminių atliekų surinkėjais dėl apmokestinamųjų gaminių atliekų surinkimo, vežimo, paruošimo naudoti ir su apmokestinamųjų gaminių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų apmokestinamųjų gaminių atliekų panaudojimo. Šiose sutartyse turi būti numatyta apmokėjimo už apmokestinamųjų gaminių atliekų surinkimą, vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
+
+3. Vykdydama šio Įstatymo 3418 straipsnio 1 dalies 4 punkte apmokestinamųjų gaminių gamintojams ir importuotojams nustatytas pareigas, Organizacija:
+
+1) privalo sudaryti sutartis su visomis savivaldybėmis (arba komunalinių atliekų tvarkymo sistemos administratoriumi, kuriam pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl padangų atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse ir šių aikštelių eksploatavimo dalinio finansavimo. Šiose sutartyse turi būti numatyta padangų atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse ir šių aikštelių eksploatavimo išlaidų dalinio finansavimo tvarka, proporcinga jų užimamai rinkos daliai, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių įrengtų didelių gabaritų atliekų surinkimo aikštelių infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka;
+
+2) šios dalies 1 punkte nurodytas išlaidas turi finansuoti proporcingai jos dalyvių ir jai organizuoti padangų atliekų tvarkymą sutartiniais pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių gamintojų ir importuotojų, ir dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos vidaus rinkai verslo tikslais tiektų padangų kiekį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 3421 straipsnis. Pakuočių atliekų tvarkymo sistemos dalyvių teisės ir pareigos
 
