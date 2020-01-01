@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2019-12-20"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2019-12-20 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -275,7 +275,11 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 8) laikomas specialiais ženklais – banderolėmis nepaženklintas akcizais apmokestinamas prekes, kurios šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka privalo būti paženklintos banderolėmis, taip pat už kitas laikomas akcizais apmokestinamas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, bet už kurias akcizai vadovaujantis šio įstatymo ar savo esme tolygiomis kitų valstybių narių teisės aktų nuostatomis nesumokėti;
 
-9) nuosavybės teise priklausančias cigaretes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas ir (arba) kurios iki naujo akcizų tarifo įsigaliojimo dienos buvo išleistos į laisvą apyvartą, naujo akcizų tarifo įsigaliojimo dieną asmenims, teisės aktų nustatyta tvarka turintiems teisę verstis didmenine prekyba tabako gaminiais. Ši nuostata taikoma tik tais atvejais, kai įsigaliojęs naujas akcizų tarifas yra didesnis už iki tol galiojusį akcizų tarifą, ir tik cigaretėms, laikomoms licencijose verstis didmenine prekyba tabako gaminiais nurodytuose padaliniuose (sandėliuose, filialuose ir pan.), iš kurių vyksta didmeninė prekyba tabako gaminiais ir (arba) kuriuose šie gaminiai laikomi;
+9) nuosavybės teise priklausančius apdorotą tabaką, etilo alkoholį ir alkoholinius gėrimus, kuriems netaikomas akcizų mokėjimo laikino atidėjimo režimas ir (arba) kurie iki naujo akcizų tarifo įsigaliojimo dienos buvo išleisti į laisvą apyvartą, naujo akcizų tarifo įsigaliojimo dieną asmenims, teisės aktų nustatyta tvarka turintiems teisę verstis didmenine prekyba tabako gaminiais ir (arba) alkoholio produktais. Ši nuostata taikoma tik tais atvejais, kai įsigaliojęs naujas akcizų tarifas yra didesnis už iki tol galiojusį akcizų tarifą, ir tik šiame punkte nurodytiems produktams, laikomiems licencijose verstis didmenine prekyba tabako gaminiais ir (arba) alkoholio produktais nurodytuose padaliniuose (sandėliuose, filialuose ir pan.), iš kurių vyksta didmeninė prekyba tabako gaminiais ir (arba) alkoholio produktais ir (arba) kuriuose jie laikomi;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 10) akcizais apmokestinamas prekes, kurioms šio įstatymo 37 straipsnio 2 ar 3 dalyje arba 38 straipsnio 2 dalyje nustatyta tvarka buvo pritaikytos nurodytose dalyse nustatytos akcizų lengvatos, tačiau kurios buvo panaudotos kitiems negu šiose dalyse nurodytiems tikslams;
 
@@ -317,7 +321,11 @@ Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 
 9. Šio straipsnio 1 dalies 8 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, laikančiam šio straipsnio 1 dalies 8 punkte nurodytas akcizais apmokestinamas prekes.
 
-10. Šio straipsnio 1 dalies 9 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, teisės aktų nustatyta tvarka turinčiam teisę verstis didmenine prekyba tabako gaminiais.
+10. Šio straipsnio 1 dalies 9 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, teisės aktų nustatyta tvarka turinčiam teisę verstis didmenine prekyba tabako gaminiais ir (arba) alkoholio produktais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 11. Šio straipsnio 1 dalies 10 punkte nurodytu atveju prievolė mokėti akcizų skirtumą (tarp šio įstatymo 37 straipsnio 1 dalyje nurodyto akcizų tarifo ir akcizais apmokestinamai prekei pritaikyto akcizų tarifo) tenka asmeniui, panaudojusiam akcizais apmokestinamas prekes kitaip, negu nustato akcizų lengvatų taikymo sąlygos.
 
@@ -377,7 +385,11 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 9. Tais atvejais, kai prievolė mokėti akcizus už gabenant Lietuvos Respublikoje prarastas akcizais apmokestinamas prekes tenka asmeniui, kuris laidavo arba garantavo, kad akcizai bus sumokėti, ir kuris nėra akcizais apmokestinamų prekių sandėlio savininkas, registruotas gavėjas ar registruotas siuntėjas, šis asmuo ne vėliau kaip kitą darbo dieną nuo prievolės atsiradimo dienos centrinio mokesčių administratoriaus nustatyta tvarka turi pateikti akcizų deklaraciją ir jos priedus.
 
-10. Asmuo, kuriam prievolė apskaičiuoti akcizus už cigaretes atsiranda vadovaujantis šio įstatymo 9 straipsnio 1 dalies 9 punktu, naujo akcizų už cigaretes tarifo įsigaliojimo dieną (jeigu tai yra ne darbo diena, – artimiausią po jos einančią darbo dieną) privalo centrinio mokesčių administratoriaus nustatyta tvarka inventorizuoti dienos pradžioje jam nuosavybės teise priklausančias šio įstatymo 9 straipsnio 1 dalies 9 punkte nurodytas cigaretes ir per 5 darbo dienas pateikti inventorizacijos aktą vietos mokesčių administratoriui, kurio veiklos teritorijoje yra akcizais apmokestinamų prekių sandėlis, o jeigu asmuo nėra akcizais apmokestinamų prekių sandėlio savininkas, – vietos mokesčių administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių mokėtoju. Akcizais apmokestinamų prekių sandėlio savininkas arba registruotas gavėjas šioje dalyje nustatyta tvarka apskaičiuotą mokėtiną už šio įstatymo 9 straipsnio 1 dalies 9 punkte nurodytas cigaretes akcizų sumą privalo deklaruoti akcizų deklaracijoje. Asmuo, kuris nėra akcizais apmokestinamų prekių sandėlio savininkas ar registruotas gavėjas, iki kito mėnesio, einančio po to, kurį įsigaliojo naujas akcizų tarifas, 15 dienos privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių mokėtoju, pateikti centrinio mokesčių administratoriaus nustatytos formos akcizų deklaraciją ir joje deklaruoti mokėtiną už naujo akcizų tarifo įsigaliojimo dieną asmeniui nuosavybės teise priklausančias šio įstatymo 9 straipsnio 1 dalies 9 punkte nurodytas cigaretes akcizų sumą. Ši suma apskaičiuojama iš akcizų sumos, kuri mokėtina taikant įsigaliojusį naują akcizų tarifą, atėmus akcizų sumą, kuri už šias cigaretes buvo apskaičiuota iki naujo akcizų tarifo įsigaliojimo dienos.
+10. Asmuo, kuriam prievolė apskaičiuoti akcizus už apdorotą tabaką, etilo alkoholį ir alkoholinius gėrimus atsiranda vadovaujantis šio įstatymo 9 straipsnio 1 dalies 9 punktu, naujo akcizų už apdorotą tabaką, etilo alkoholį ir alkoholinius gėrimus tarifo įsigaliojimo dieną (jeigu tai yra ne darbo diena, – artimiausią po jos einančią darbo dieną) privalo centrinio mokesčių administratoriaus nustatyta tvarka inventorizuoti dienos pradžioje jam nuosavybės teise priklausančius šio įstatymo 9 straipsnio 1 dalies 9 punkte nurodytus produktus ir per 5 darbo dienas pateikti inventorizacijos aktą vietos mokesčių administratoriui, kurio veiklos teritorijoje yra akcizais apmokestinamų prekių sandėlis, o jeigu asmuo nėra akcizais apmokestinamų prekių sandėlio savininkas, – vietos mokesčių administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių mokėtoju. Šioje dalyje nurodytas asmuo iki kito mėnesio, einančio po to, kurį įsigaliojo naujas akcizų tarifas, 15 dienos privalo šioje dalyje nurodytam vietos mokesčių administratoriui pateikti centrinio mokesčių administratoriaus nustatytos formos akcizų deklaraciją ir joje deklaruoti mokėtiną už naujo akcizų tarifo įsigaliojimo dieną asmeniui nuosavybės teise priklausančius šio įstatymo 9 straipsnio 1 dalies 9 punkte nurodytus produktus akcizų sumą. Ši suma apskaičiuojama iš akcizų sumos, kuri mokėtina taikant įsigaliojusį naują akcizų tarifą, atėmus akcizų sumą, kuri už šį apdorotą tabaką, etilo alkoholį ir alkoholinius gėrimus buvo apskaičiuota iki naujo akcizų tarifo įsigaliojimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 11. Šio straipsnio nuostatos netaikomos importuojamoms akcizais apmokestinamoms prekėms.
 
@@ -745,6 +757,10 @@ Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
 
 1. Etilo alkoholiui taikomas 1 832 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas.
 
+1 dalies redakcija nuo 2020-03-01:
+
+1. Etilo alkoholiui taikomas 2 025 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas.
+
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
@@ -756,6 +772,8 @@ Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
 
 Nr. XIII-1709, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20967
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 2. Apskaičiuojant mokėtiną akcizų sumą už šiame straipsnyje nurodytus produktus, gryno etilo alkoholio hektolitru laikoma 100 litrų etilo alkoholio, kurio faktinė tūrinė alkoholio koncentracija procentais yra 100 procentų, o temperatūra – 20 °C. Visas gryno etilo alkoholio kiekis hektolitrais apvalinamas iki sveikojo skaičiaus tūkstantosios dalies.
 
@@ -917,7 +935,11 @@ ENERGINIAI PRODUKTAI
 
 Variklių benzinui taikomi tokie akcizų tarifai:
 
-1) bešviniam benzinui – 434,43 euro už 1 000 litrų produkto;
+1) bešviniam benzinui – 466 eurai už 1 000 litrų produkto;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 2) benzinui, turinčiam švino, – 579,24 euro už 1 000 litrų produkto.
 
@@ -935,27 +957,11 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 37 straipsnis. Gazoliams taikomi akcizų tarifai
 
-1. Gazoliams taikomas 347 eurų už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
+1. Gazoliams taikomas 372 eurų už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
 
-Straipsnio dalies pakeitimai:
+2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 21,14 euro už 1 000 litrų produkto akcizų tarifas.
 
-Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
-
-Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
-
-2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 21,14 euro už 1 000 litrų produkto akcizų tarifas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
-
-3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, taikomas 56 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1902, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10505
-
-Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
+3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 ℃ temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 Straipsnio pakeitimai:
 
@@ -964,6 +970,10 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 Nr. XII-80, 2012-12-20, Žin., 2012, Nr. 153-7830 (2012-12-29)
 
 Nr. XII-917, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07397
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 38 straipsnis. Skystajam kurui (mazutams), orimulsijai taikomi akcizų tarifai
 
@@ -1431,7 +1441,11 @@ KAITINAMOJO TABAKO PRODUKTŲ IR ELEKTRONINIŲ CIGAREČIŲ SKYSČIO APMOKESTINIMA
 
 61 straipsnis. Prievolė mokėti akcizus už kaitinamojo tabako produktus
 
-1. Prievolė mokėti akcizus už šiuos kaitinamojo tabako produktus atsiranda, jeigu už juos akcizai nesumokėti:
+1. Prievolė mokėti akcizus atsiranda už šiuos kaitinamojo tabako produktus: :
+
+Pakeistas straipsnio dalies pavadinimas:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 1) už kaitinamojo tabako produktus, kuriems Lietuvos Respublikoje panaikinamas akcizų mokėjimo laikino atidėjimo režimas (t. y. už iš akcizais apmokestinamų prekių sandėlio išgabentus kaitinamojo tabako produktus, kuriems netaikomas akcizų mokėjimo laikino atidėjimo režimas, už kaitinamojo tabako produktus, pristatytus į akcizais apmokestinamų prekių sandėlio savininko, gaunančio kaitinamojo tabako produktus, nurodytą tiesioginio pristatymo vietą). Šio punkto nuostatos taikomos ir tiems kaitinamojo tabako produktams, kuriems akcizų mokėjimo laikino atidėjimo režimas panaikinamas pažeidžiant teisės aktų nustatytus reikalavimus, arba
 
@@ -1445,7 +1459,17 @@ KAITINAMOJO TABAKO PRODUKTŲ IR ELEKTRONINIŲ CIGAREČIŲ SKYSČIO APMOKESTINIMA
 
 6) už kaitinamojo tabako produktus, pagamintus (įskaitant neteisėtai pagamintus) Lietuvos Respublikoje ne akcizais apmokestinamų prekių sandėlyje, arba
 
-7) už laikomus specialiais ženklais – banderolėmis – nepaženklintus kaitinamojo tabako produktus, kurie šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka turi būti paženklinti banderolėmis.
+7) už laikomus specialiais ženklais – banderolėmis – nepaženklintus kaitinamojo tabako produktus, kurie šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka turi būti paženklinti banderolėmis, arba
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
+
+8) už nuosavybės teise priklausančius kaitinamojo tabako produktus, kuriems netaikomas akcizų mokėjimo laikino atidėjimo režimas ir (arba) kurie iki naujo akcizų tarifo įsigaliojimo dienos buvo išleisti į laisvą apyvartą, naujo akcizų tarifo įsigaliojimo dieną asmenims, kurie verčiasi didmenine prekyba tabako gaminiais. Ši nuostata taikoma tik tais atvejais, kai įsigaliojęs naujas akcizų tarifas yra didesnis už iki tol galiojusį akcizų tarifą ir tik kaitinamojo tabako produktams, laikomiems didmeninės prekybos tabako gaminiais vietose.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 2. Be šio straipsnio 1 dalyje nurodytų atvejų, prievolė mokėti akcizus atsiranda už Lietuvos Respublikoje importuojamus (įskaitant neteisėto importo atvejus) kaitinamojo tabako produktus (išskyrus importuojamus kaitinamojo tabako produktus, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nugabentus į Lietuvos Respublikos akcizais apmokestinamų prekių sandėlį). Laikoma, kad kaitinamojo tabako produktai importuojami Lietuvos Respublikoje, kai:
 
@@ -1466,6 +1490,12 @@ KAITINAMOJO TABAKO PRODUKTŲ IR ELEKTRONINIŲ CIGAREČIŲ SKYSČIO APMOKESTINIMA
 8. Šio straipsnio 1 dalies 6 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, pagaminusiam kaitinamojo tabako produktus.
 
 9. Šio straipsnio 1 dalies 7 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, laikančiam šio straipsnio 1 dalies 7 punkte nurodytus kaitinamojo tabako produktus.
+
+91. Šio straipsnio 1 dalies 8 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, kuris verčiasi didmenine prekyba tabako gaminiais.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 10. Prievolė mokėti akcizus šio straipsnio 2 dalyje nurodytu atveju tenka importuotojui. Importuotoju laikomas asmuo, kuris turi sumokėti už prekes nustatytą importo skolą muitinei arba turėtų sumokėti importo skolą muitinei, jeigu prekėms būtų nustatyti importo muitai. Kai kaitinamojo tabako produktai importuojami neteisėtai, prievolė mokėti akcizus tenka bet kuriam asmeniui, dalyvavusiam neteisėtai importuojant šiuos kaitinamojo tabako produktus.
 
@@ -1583,9 +1613,11 @@ Nr. XIII-2612, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20642
 
 67 straipsnis. Akcizų už kaitinamojo tabako produktus deklaracijos pateikimas ir mokesčio sumokėjimas
 
-1. Akcizų už kaitinamojo tabako produktus mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo 61 straipsnyje nustatytais pagrindais atsiranda prievolė mokėti akcizus už kaitinamojo tabako produktus, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje yra akcizais apmokestinamų prekių sandėlis arba asmuo yra registruotas kaitinamojo tabako produktų mokėtoju, pateikti akcizų už kaitinamojo tabako produktus deklaraciją. Šios deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius.
+1. Akcizų už kaitinamojo tabako produktus mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo 61 straipsnio 1 dalies 1–7 punktuose nustatytais pagrindais atsiranda prievolė mokėti akcizus už kaitinamojo tabako produktus, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje yra akcizais apmokestinamų prekių sandėlis arba asmuo yra registruotas akcizų už kaitinamojo tabako produktus mokėtoju, pateikti akcizų už kaitinamojo tabako produktus deklaraciją. Šios deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius.
 
-TAR pastaba. Asmenys, kurie yra kiti negu akcizais apmokestinamų prekių sandėlių savininkai, turintys teisę verstis didmenine prekyba tabako gaminiais, ir 2019 m. kovo 1 d. laikantys kaitinamojo tabako produktus, už kuriuos akcizai nesumokėti, privalo centrinio mokesčių administratoriaus nustatyta tvarka per 5 darbo dienas inventorizuoti 2019 m. kovo 1 d. jiems nuosavybės teise priklausančius kaitinamojo tabako produktus ir pateikti inventorizacijos aktą vietos mokesčių administratoriui, kurio veiklos teritorijoje jie registruoti mokesčių mokėtojais. Šioje dalyje nurodyti asmenys iki 2019 m. balandžio 15 d. privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje jie registruoti mokesčių mokėtojais, pateikti Lietuvos Respublikos akcizų įstatymo 67 straipsnio 1 dalyje nurodytą akcizų už kaitinamojo tabako produktus deklaraciją.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 2. Jeigu akcizais apmokestinamų prekių sandėlio savininkas turi kelis akcizais apmokestinamų prekių sandėlius, akcizų deklaracija pateikiama dėl kiekvieno sandėlio atskirai.
 
@@ -1596,6 +1628,12 @@ TAR pastaba. Asmenys, kurie yra kiti negu akcizais apmokestinamų prekių sandė
 5. Mokėtina akcizų už kaitinamojo tabako produktus suma privalo būti sumokėta ne vėliau kaip iki šio straipsnio 1 ir 4 dalyse nurodyto akcizų už kaitinamojo tabako produktus deklaracijos pateikimo termino pabaigos į mokesčių administratoriaus surenkamąją sąskaitą. Jeigu buvo sumokėta mokestinio laikotarpio avansinė akcizų suma, kurią mokėti prievolė atsirado pagal šio straipsnio 6 dalį, mokėtina to mokestinio laikotarpio akcizų už kaitinamojo tabako produktus suma mažinama sumokėtos avansinės akcizų sumos dydžiu.
 
 6. Jeigu už konkretų akcizais apmokestinamų prekių sandėlį šio sandėlio savininko vidutinė mokestiniam laikotarpiui tenkanti mokėtina į biudžetą akcizų už kaitinamojo tabako produktus suma 3 praėjusius mokestinius laikotarpius iš eilės viršijo 15 000 eurų, pradedant kitu mokestiniu laikotarpiu po to, kurį paaiškėjo šios aplinkybės, iki einamojo mokestinio laikotarpio 15 dienos į biudžetą mokama avansinė akcizų suma. Ši avansinė akcizų suma yra lygi 1/3 vidutinės mokėtinos į biudžetą akcizų sumos, kuri buvo (ar privalėjo būti) deklaruota šioje dalyje nurodytų 3 praėjusių mokestinių laikotarpių deklaracijose.
+
+61. Asmuo, kuriam prievolė apskaičiuoti akcizus už kaitinamojo tabako produktus atsiranda vadovaujantis šio įstatymo 61 straipsnio 1 dalies 8 punktu, naujo akcizų už kaitinamojo tabako produktus tarifo įsigaliojimo dieną (jeigu tai yra ne darbo diena, – artimiausią po jos einančią darbo dieną) privalo centrinio mokesčių administratoriaus nustatyta tvarka inventorizuoti dienos pradžioje jam nuosavybės teise priklausančius šio įstatymo 61 straipsnio 1 dalies 8 punkte nurodytus kaitinamojo tabako produktus ir per 5 darbo dienas pateikti inventorizacijos aktą vietos mokesčių administratoriui, kurio veiklos teritorijoje yra akcizais apmokestinamų prekių sandėlis, o jeigu asmuo nėra akcizais apmokestinamų prekių sandėlio savininkas, – vietos mokesčių administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių mokėtoju. Šioje dalyje nurodytas asmuo iki kito mėnesio, einančio po to, kurį įsigaliojo naujas akcizų tarifas, 15 dienos privalo šioje dalyje nurodytam vietos mokesčių administratoriui pateikti akcizų už kaitinamojo tabako produktus deklaraciją ir joje deklaruoti akcizų sumą, mokėtiną už naujo akcizų tarifo įsigaliojimo dieną asmeniui nuosavybės teise priklausančius šio įstatymo 61 straipsnio 1 dalies 8 punkte nurodytus kaitinamojo tabako produktus. Ši suma apskaičiuojama iš akcizų sumos, kuri mokėtina taikant įsigaliojusį naują akcizų tarifą, atėmus akcizų sumą, kuri už šiuos kaitinamojo tabako produktus buvo apskaičiuota iki naujo akcizų tarifo įsigaliojimo dienos. Šios deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 7. Akcizai už importuotus kaitinamojo tabako produktus mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šiuos produktus (jeigu jie šiems produktams būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose.
 
@@ -1717,7 +1755,7 @@ Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                              VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
