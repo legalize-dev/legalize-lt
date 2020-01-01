@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2019-04-25"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-04-25 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-01-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
 
@@ -417,17 +417,17 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 11. Gyventojo pajamos iš darbo santykių arba jų esmę atitinkančių santykių (išskyrus ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokas), tantjemos ar atlygis už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamas vietoj tantjemų arba kartu su tantjemomis, iš asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, gautos pajamos pagal autorines sutartis, taip pat mažųjų bendrijų vadovų, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, pagal civilinę (paslaugų) sutartį už vadovavimo veiklą gautos pajamos apmokestinamos taip:
 
-1) metinė pajamų dalis, neviršijanti 120 vidutinių šalies darbo užmokesčių (toliau – VDU) dydžio sumos, taikomos apdraustųjų asmenų 2019 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą;
+1) metinė pajamų dalis, neviršijanti 84 vidutinių šalies darbo užmokesčių (toliau – VDU) dydžio sumos, taikomos apdraustųjų asmenų 2020 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą;
 
-2) metinė pajamų dalis, viršijanti 120 VDU dydžio sumą, taikomą apdraustųjų asmenų 2019 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 27 procentų pajamų mokesčio tarifą.
+2) metinė pajamų dalis, viršijanti 84 VDU dydžio sumą, taikomą apdraustųjų asmenų 2020 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą.
 
-TAR pastaba. 11 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų mokestinio laikotarpio pajamas.
-
-Už 2019 metų mokestinį laikotarpį apskaičiuotos su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos (išskyrus ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokas), išmokėtos 2018 metais, apmokestinamos 11 dalyje nustatyta tvarka.
+TAR pastaba. 11 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų mokestinio laikotarpio pajamas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
+
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 
 12. Metinė pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių (išskyrus individualios veiklos pajamas, pajamas iš paskirstytojo pelno, tantjemas ar atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, iš asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, gautas pajamas pagal autorines sutartis, taip pat mažųjų bendrijų vadovų, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, pagal civilinę (paslaugų) sutartį už vadovavimo veiklą gautas pajamas) dalis, viršijanti 120 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą.
 
@@ -1115,29 +1115,33 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 20 straipsnis. Neapmokestinamasis pajamų dydis
 
-1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jei šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 3 600 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 4 200 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
-Gyventojui taikytinas MNPD = 3 600 – 0,15 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).
+Gyventojui taikytinas MNPD = 4 200 – 0,17 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).
 
-TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų mokestinio laikotarpio pajamas.
+TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų mokestinio laikotarpio pajamas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 
 2. Jeigu šio straipsnio 6 dalyje nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 300 eurų;
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 350 eurų;
 
 2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieną dydį, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
 
-Gyventojui taikytinas mėnesio NPD = 300 – 0,15 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).
+Gyventojui taikytinas mėnesio NPD = 350 – 0,17 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).
 
-TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų mokestinio laikotarpio pajamas.
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų mokestinio laikotarpio pajamas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 
 3. Jeigu pagal šio straipsnio 1 ar 2 dalyje nustatytą formulę apskaičiuotas NPD yra neigiamas, laikoma, kad jis lygus 0.
 
@@ -1145,13 +1149,15 @@ Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 
 5. Gyventojas turi teisę mokestiniu laikotarpiu atsisakyti NPD ar jo dalies taikymo net tuo atveju, kai jis pagal šio straipsnio 2 ar 6 dalį jam gali būti pritaikytas.
 
-6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 353 eurai. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 308 eurai. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.
+6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 645 eurai. Asmenims, kuriems nustatytas  30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra  600 eurų. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.
 
-TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų mokestinio laikotarpio pajamas.
+TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 
 7. GMP yra lygios gyventojo mokestinio laikotarpio apmokestinamųjų pajamų, išskyrus apmokestinamąsias pajamas, kurioms taikomas šio Įstatymo 6 straipsnio 2 dalyje nustatytas mokesčio tarifas, pajamas, nuo kurių mokestis sumokėtas įsigyjant verslo liudijimą, taip pat išmokas, mokamas pasibaigus ar nutraukus gyvybės draudimo ar pensijų kaupimo sutartį, neviršijančias sumokėtų įmokų dydžio, sumai, neatėmus šio Įstatymo 21 straipsnyje nurodytų išlaidų ir gyventojui taikytino MNPD.
 
@@ -1519,35 +1525,41 @@ Nr. X-1485, 2008-04-10, Žin., 2008, Nr. 47-1750 (2008-04-24)
 
 34 straipsnis. Mokesčio administratoriaus pareigos
 
-1. Gyventojams ir mokestį išskaičiuojantiems asmenims deklaracijų blankai ir metodiniai jų pildymo nurodymai išduodami nemokamai.
+1. Gyventojams ir mokestį išskaičiuojantiems asmenims deklaracijų blankai ir metodiniai jų pildymo nurodymai išduodami nemokamai. Mokesčio administratorius pas jį atvykusiems Lietuvos gyventojams jų prašymu padeda užpildyti deklaracijas ir (ar) prašymus pervesti dalį pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – prašymą pervesti dalį mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2692, 2019-12-17, paskelbta TAR 2019-12-27, i. k. 2019-21324
 
 2. Mokesčio administratorius nuolatinio Lietuvos gyventojo prašymu, mokestiniam laikotarpiui pasibaigus, privalo išduoti pažymą, kurioje turi būti nurodytos nuolatinio Lietuvos gyventojo mokestiniu laikotarpiu gautos pajamos ir nuo jų Lietuvoje sumokėtas pajamų mokestis. Mokesčio administratorius nenuolatinio Lietuvos gyventojo prašymu privalo išduoti pažymą, kurioje turi būti nurodytos nenuolatinio Lietuvos gyventojo Lietuvoje gautos pajamos ir nuo jų sumokėtas pajamų mokestis. Pažymų išdavimo tvarką nustato centrinis mokesčio administratorius.
 
-3. Mokesčio administratorius nuolatinio Lietuvos gyventojo prašymu, mokestiniam laikotarpiui pasibaigus, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo pervesti asmenims (išskyrus profesines sąjungas arba profesinių sąjungų susivienijimus), pagal Labdaros ir paramos įstatymą turintiems teisę gauti paramą, iki 2 procentų pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.
+3. Mokesčio administratorius nuolatinio Lietuvos gyventojo prašymu, mokestiniam laikotarpiui pasibaigus, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo pervesti asmenims (išskyrus profesines sąjungas arba profesinių sąjungų susivienijimus), pagal Labdaros ir paramos įstatymą turintiems teisę gauti paramą, iki 1,2 procento pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.
 
 4. Mokesčio administratorius nuolatinio Lietuvos gyventojo prašymu, mokestiniam laikotarpiui pasibaigus, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo pervesti dalį pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – dalį mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos:
 
-1) 1 procentą – politinėms partijoms, kurios yra įstatymų nustatyta tvarka įregistruotos Juridinių asmenų registre, atitinka įstatymų reikalavimus dėl politinės partijos narių skaičiaus ir kurioms nėra pradėta pertvarkymo arba likvidavimo procedūra, ir (arba)
+1) 0,6 procento – politinėms partijoms, kurios yra įstatymų nustatyta tvarka įregistruotos Juridinių asmenų registre, atitinka įstatymų reikalavimus dėl politinės partijos narių skaičiaus ir kurioms nėra pradėta pertvarkymo arba likvidavimo procedūra, ir (arba)
 
-2) 1 procentą – profesinėms sąjungoms arba profesinių sąjungų susivienijimams, pagal Labdaros ir paramos įstatymą turintiems teisę gauti paramą.
+2) 0,6 procento – profesinėms sąjungoms arba profesinių sąjungų susivienijimams, pagal Labdaros ir paramos įstatymą turintiems teisę gauti paramą.
 
-5. Pagal šio straipsnio 4 dalį pervedama pajamų mokesčio suma neįskaitoma į pagal šio straipsnio 3 dalį pervedamą pajamų mokesčio sumą.
+5. Pagal šio straipsnio 4 dalį pervedama pajamų mokesčio suma neįskaitoma į pagal šio straipsnio 3 dalį pervedamą pajamų mokesčio sumą.
 
 6. Mokesčio administratorius gyventojo prašymu per 10 darbo dienų nuo prašymo pateikimo dienos privalo išduoti pažymą apie nuolatinio Lietuvos gyventojo vykdomą individualią veiklą arba nenuolatinio Lietuvos gyventojo įregistruotą nuolatinę bazę Lietuvoje.
 
 7. Šio straipsnio 3 ir 4 dalių nuostatos netaikomos tais atvejais, kai tose dalyse nurodytą prašymą pateikęs nuolatinis Lietuvos gyventojas, privalantis teikti metinę pajamų mokesčio deklaraciją, metinės pajamų mokesčio deklaracijos nepateikia iki šio Įstatymo 27 straipsnio 1 dalyje ar šio Įstatymo 28 straipsnyje nustatyto termino pabaigos.
 
-35 straipsnis. Mokesčio mokėtojo pareigos
+35 straipsnis. Mokesčio mokėtojų pareigos
 
 1. Nuolatinis Lietuvos gyventojas, pasinaudojęs teise iš pajamų atimti išlaidas, nurodytas šio Įstatymo 21 straipsnyje, privalo saugoti sumokėjimą patvirtinančių dokumentų originalus arba jų nuorašus, patvirtintus notarine tvarka, ne trumpiau kaip 10 metų po atitinkamo mokestinio laikotarpio metinės pajamų mokesčio deklaracijos pateikimo.
 
 2. Nuolatinis Lietuvos gyventojas, pradėjęs vykdyti kokios nors rūšies individualią veiklą, privalo apie tai informuoti mokesčio administratorių centrinio mokesčio administratoriaus nustatyta tvarka.
 
-3. Nuolatinis Lietuvos gyventojas privalo centrinio mokesčio administratoriaus nustatyta tvarka nurodyti mokestį išskaičiuojančiam asmeniui, su kuriuo yra susijęs darbo santykiais ar jų esmę atitinkančiais santykiais, savivaldybę, kurioje jis turi nuolatinę gyvenamąją vietą paskutinę mokestinio laikotarpio dieną. Nuolatinis Lietuvos gyventojas, gaudamas su darbo santykiais ar jų esmę atitinkančiais santykiais nesusijusių A klasės pajamų, privalo centrinio mokesčio administratoriaus nustatyta tvarka nurodyti mokestį išskaičiuojančiam asmeniui savivaldybę, kurioje jis turėjo nuolatinę gyvenamąją vietą praėjusio mokestinio laikotarpio paskutinę dieną. Nenuolatinis Lietuvos gyventojas, gavęs pajamų, pagal mokesčio mokėjimo tvarką priskiriamų A klasės pajamoms, privalo centrinio mokesčio administratoriaus nustatyta tvarka nurodyti mokestį išskaičiuojančiam asmeniui savivaldybę, kurioje jis turėjo gyvenamąją vietą praėjusio mokestinio laikotarpio paskutinę dieną, jeigu turėjo gyvenamąją vietą Lietuvoje. Jeigu praėjusio mokestinio laikotarpio paskutinę dieną nenuolatinis Lietuvos gyventojas neturėjo gyvenamosios vietos Lietuvoje, mokestį išskaičiuojančiam asmeniui privalo nurodyti savivaldybę, kurioje jis turėjo gyvenamąją vietą praėjusio mokestinio laikotarpio paskutinę buvimo Lietuvoje dieną. Tuo atveju, jeigu nenuolatinis Lietuvos gyventojas praėjusiu mokestiniu laikotarpiu Lietuvoje neturėjo gyvenamosios vietos, jis privalo nurodyti mokestį išskaičiuojančiam asmeniui savivaldybę, kurioje jis turi gyvenamąją vietą mokestiniu laikotarpiu, jeigu jis turi gyvenamąją vietą Lietuvoje.
-
 Straipsnio pakeitimai:
 
 Nr. IX-1848, 2003-11-25, Žin., 2003, Nr. 116-5254 (2003-12-12)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2692, 2019-12-17, paskelbta TAR 2019-12-27, i. k. 2019-21324
 
 36 straipsnis. Atsakomybė
 
