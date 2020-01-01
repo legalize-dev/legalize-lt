@@ -4,7 +4,7 @@ identifier: "TAR.FFF9AE9162EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-13"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
 
@@ -355,6 +355,8 @@ Nr. XII-288, 2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
 1. Mokestis už aplinkos teršimą, išskyrus mokestį už aplinkos teršimą sąvartyne šalinamomis atliekomis ir gaminių ar pakuotės atliekomis, paskirstomas taip:
 
 1) 30 procentų mokama į valstybės biudžetą. Šios lėšos naudojamos pagal tikslinę paskirtį Lietuvos aplinkos apsaugos investicijų fondo programos lėšoms administruoti ir šioje programoje numatytiems aplinkos apsaugos investiciniams projektams finansuoti aplinkos ministro nustatyta tvarka;
+
+TAR pastaba. 2020 m. lapkričio 3 d. Konstitucinio Teismo nutarimas Nr. KT187-N15/2020, įsigaliojęs 2020 m. lapkričio 4 d., pripažįsta, kad Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 10 straipsnio (2014 m. lapkričio 13 d. redakcija; TAR, 2014-12-01, Nr. 18284) 1 dalies 1 punktas prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
 
 2) 70 procentų mokama į savivaldybės, kurios teritorijoje yra taršos objektas, biudžetą. Šios lėšos naudojamos pagal tikslinę paskirtį Savivaldybių aplinkos apsaugos rėmimo specialiojoje programoje numatytoms priemonėms finansuoti.
 
@@ -940,7 +942,7 @@ nuo 2020 m.
 
 5
 
-27,51
+5
 
 2. Inertinių atliekų sąvartyne šalinamos atliekos ir nepavojingųjų atliekų sąvartyno atskirose sekcijose šalinamos asbesto atliekos
 
@@ -975,6 +977,8 @@ Priedo pakeitimai:
 Nr. XII-2244, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21031
 
 Nr. XIII-1793, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21122
+
+Nr. XIII-2755, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21569
 
 Lietuvos Respublikos
 
