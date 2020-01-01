@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
 
@@ -409,17 +409,21 @@ Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
 
 1. Nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų dydis priklauso nuo:
 
-1) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos (toliau –Valstybinė darbo inspekcija) nustatytų darbuotojų saugos ir sveikatos teisės aktų pažeidimų;
+1) Lietuvos Respublikos valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė darbo inspekcija) nustatytų darbuotojų saugos ir sveikatos teisės aktų pažeidimų;
 
 2) nelaimingų atsitikimų darbe sunkumo ir dėl šių įvykių nukentėjusiųjų skaičiaus;
 
-3) dėl ūmių profesinių ligų įmonėje nukentėjusiųjų skaičiaus;
+3) dėl ūmių profesinių ligų įmonėje nukentėjusiųjų skaičiaus.
 
-4) nelaimingų atsitikimų, įvykusių dirbant pavojingus darbus, skaičiaus ir pavojingus darbus dirbančių darbuotojų skaičiaus santykio.
+TAR pastaba. 29 straipsnio 1 dalis taikoma priskiriant draudėjus nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms 2021 ir vėlesniems metams.
 
-2. Šio straipsnio 1 dalies 1 ir 4 punktuose nurodytus rodiklius Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Valstybinio socialinio draudimo fondo valdybai teikia Valstybinė darbo inspekcija. Šio straipsnio 1 dalies 2 ir 3 punktuose nurodytiems rodikliams nustatyti naudojami Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro duomenys.
+2. Šio straipsnio 1 dalies 1 punkte nurodytą rodiklį Valstybinio socialinio draudimo fondo valdybai teikia Valstybinė darbo inspekcija. Šio straipsnio 1 dalies 2 ir 3 punktuose nurodytiems rodikliams nustatyti naudojami Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro duomenys.
 
-3. Šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kiekvienais metais Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Valstybinio socialinio draudimo fondo valdyba, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtinta metodika ir šio straipsnio 1 dalyje nurodytais rodikliais, kiekvienais metais apskaičiuoja draudėjų darbuotojų saugos ir sveikatos būklę apibūdinančių rodiklių dydžius ir priskiria draudėjus nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms. Draudėjų priskyrimą nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms tvirtina Valstybinio socialinio draudimo fondo taryba.
+3. Šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kiekvienais metais Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Valstybinio socialinio draudimo fondo valdyba, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtinta metodika ir šio straipsnio 1 dalyje nurodytais rodikliais, kiekvienais metais apskaičiuoja draudėjų darbuotojų saugos ir sveikatos būklę apibūdinančių rodiklių dydžius, priskiria draudėjus nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms ir tvirtina draudėjų priskyrimą konkrečiai socialinio draudimo įmokos tarifo grupei.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2556, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19864
 
 30 straipsnis. Valstybinio socialinio draudimo įmokų mokėjimo tvarka
 
