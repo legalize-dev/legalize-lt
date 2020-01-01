@@ -4,7 +4,7 @@ identifier: "TAR.27B041C4CCDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-15"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.27B041C4CCDE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 10 straipsnis įsigalioja 2010 m. s
 ---
 # Lietuvos Respublikos mediacijos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 87-3462, i. k. 1081010ISTA00X-1702
 
@@ -37,7 +37,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas nustato pagrindines civilinių ginčų mediacijos sąlygas, institucijų funkcijas mediacijos srityje, reikalavimus asmenims, siekiantiems teikti mediacijos paslaugas, mediacijos vykdymo tvarką, teisminės mediacijos ypatumus, mediatorių drausminę atsakomybę.
+1. Šis įstatymas nustato pagrindines civilinių ginčų mediacijos sąlygas, institucijų funkcijas mediacijos srityje, reikalavimus asmenims, siekiantiems teikti mediacijos paslaugas, mediacijos vykdymo tvarką, privalomosios mediacijos ir teisminės mediacijos ypatumus, mediatorių drausminę atsakomybę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 
 2. Šis įstatymas taikomas neteisminei ir teisminei civilinių ginčų mediacijai, išskyrus dėl tokių teisių ir pareigų iškilusius ginčus, dėl kurių sudarytos taikos sutartys pagal įstatymus laikomos negaliojančiomis. Šis įstatymas netaikomas bylą nagrinėjančio teisėjo vykdomam taikinimui teismo proceso metu.
 
@@ -379,7 +383,11 @@ MEDIACIJOS VYKDYMAS
 
 1. Pradėjus mediaciją, ieškinio senaties terminai sustabdomi.
 
-2. Mediacijos pradžios momentu ieškinio senaties terminų sustabdymo tikslais laikoma diena, kurią viena ginčo šalis tiesiogiai arba per kitą asmenį (atstovą, mediatorių, mediacijos paslaugų administratorių ar kitą įgaliotą asmenį) išsiunčia kitai ginčo šaliai rašytinį pasiūlymą dėl ginčo sprendimo mediacijos būdu.
+2. Mediacijos pradžios momentu ieškinio senaties terminų sustabdymo tikslais laikoma diena, kurią viena ginčo šalis tiesiogiai arba per kitą asmenį (atstovą, mediatorių, mediacijos paslaugų administratorių ar kitą įgaliotą asmenį) išsiunčia kitai ginčo šaliai rašytinį pasiūlymą dėl ginčo sprendimo mediacijos būdu, taip pat diena, kurią viena ginčo šalis ar abi ginčo šalys kreipiasi į Valstybės garantuojamos teisinės pagalbos tarnybą dėl privalomosios mediacijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 
 3. Mediacijai pasibaigus be taikos sutarties, ieškinio senaties terminas tęsiasi. Šiuo atveju likusi termino dalis pratęsiama Lietuvos Respublikos civilinio kodekso 1.129 straipsnio 3 dalyje nustatyta tvarka.
 
@@ -432,6 +440,10 @@ Privalomoji mediacija taikoma sprendžiant šiuos ginčus:
 3. Privalomosios mediacijos paslaugos, už kurias apmokama iš valstybės biudžeto lėšų, gali būti teikiamos iki keturių valandų. Jeigu pasibaigus šiam laikui galutinis susitarimas dėl taikaus ginčo sprendimo dar nepasiektas, ginčo šalys gali toliau savanoriškai tęsti mediaciją ginčo šalių lėšomis. Iš valstybės biudžeto lėšų taip pat apmokama už mediatoriaus pasirengimą mediacijai, kuris gali trukti iki vienos valandos, ir mediacijos rezultatų įforminimą, kuris gali trukti iki vienos valandos.
 
 4. Už suteiktas privalomosios mediacijos paslaugas mediatoriams iš valstybės biudžeto lėšų mokamo atlyginimo dydžius ir mokėjimo tvarką nustato Vyriausybė.
+
+VI SKYRIUS
+
+TEISMINĖS MEDIACIJOS YPATUMAI
 
 23 straipsnis. Teisminės mediacijos vykdymas
 
