@@ -4,7 +4,7 @@ identifier: "TAR.DE0B1FF26D01"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2019-06-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01"
 department: "Lietuvos Respublikos Seimas"
@@ -18,17 +18,9 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2019-06-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-03-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
-
-TAR pastaba. Lietuvos Respublikos kredito unijų įstatymo 51, 52 ir 53 straipsnių nuostatos dėl finansinių ataskaitų rinkinių audito iki 2023 m. sausio 1 d. taikomos tik centrinių kredito unijų narėmis nesančioms kredito unijoms, kurios pagal Lietuvos Respublikos kredito unijų įstatymo 71 straipsnio nuostatas iki 2018 m. sausio 1 d. yra gavusios Lietuvos banko sutikimą vykdyti pertvarkymą.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
-
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 5, 10, 21, 29, 40, 45, 51, 52 straipsnių pakeitimo ir 52, 53 straipsnių pripažinimo netekusiais galios įstatymas
 
 Nauja redakcija nuo 2017-01-01:
 
@@ -1542,9 +1534,13 @@ DEŠIMTASIS SKIRSNIS
 
 KREDITO UNIJOS BANKROTAS
 
-73 straipsnis. Kredito unijų bankroto procedūrų teisinis reglamentavimas
+73 straipsnis. Kredito unijų bankroto proceso teisinis reglamentavimas
 
-Kredito unijų bankroto procedūras reglamentuoja šis įstatymas, Lietuvos Respublikos finansų įstaigų įstatymas, Lietuvos Respublikos įmonių bankroto įstatymas, jeigu šis įstatymas ir Lietuvos Respublikos finansų įstaigų įstatymas nenustato kitaip.
+Kredito unijų bankroto procesą reglamentuoja šis įstatymas, Lietuvos Respublikos finansų įstaigų įstatymas, Lietuvos Respublikos juridinių asmenų nemokumo įstatymas, jeigu šis įstatymas ir Lietuvos Respublikos finansų įstaigų įstatymas nenustato kitaip.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 74 straipsnis. Sąlygos pripažinti kredito uniją nemokia
 
@@ -1562,35 +1558,83 @@ Kredito unijų bankroto procedūras reglamentuoja šis įstatymas, Lietuvos Resp
 
 1. Priėmus nutartį iškelti kredito unijos bankroto bylą, kredito unijos kreditoriai apie tai nedelsiant informuojami teismo nutartyje nustatytu būdu ir kredito unijos buveinės vietos spaudoje viešai paskelbiant bankroto bylą nagrinėjantį teismą, bylos numerį, bankrutuojančios kredito unijos rekvizitus, taip pat terminus, iki kada yra priimami kreditorių reikalavimai. Teismas šioje dalyje nustatytus veiksmus gali pavesti atlikti kredito unijos administratoriui.
 
-2. Teismo nustatytas terminas, iki kada kredito unijos kreditoriai turi teisę pareikšti savo reikalavimus, turi būti ne ilgesnis kaip 3 mėnesiai nuo teismo nutarties iškelti bankroto bylą įsiteisėjimo dienos.
+2. Kredito unijos administratorių pateikdama pareiškimą dėl bankroto bylos iškėlimo kredito unijai arba teismo prašymu siūlo teismui priežiūros institucija.
 
-3. Teismui priėmus nutartį iškelti kredito unijai bankroto bylą:
+3. Kredito unijos administratorius parenkamas priežiūros institucijos nustatyta tvarka, vertinant jo kvalifikaciją (išsilavinimo lygį ir pobūdį, ryšį su kredito unijos veiklos pobūdžiu, žinias apie finansų rinkas, kredito įstaigos apskaitos ir valdymo ypatumus), profesinės veiklos ar darbo patirtį, taip pat ir kredito įstaigų bankroto procesų vykdymo ar panašaus pobūdžio darbo patirtį, gebėjimą užtikrinti sklandžią kredito unijos bankroto administravimo eigą (planuojamus pasitelkti konkrečiame bankroto procese darbuotojus, padėjėjus, paslaugų teikėjus ir kitus išteklius), nepriekaištingą reputaciją ir nešališkumą, kaip tai apibrėžta Juridinių asmenų nemokumo įstatyme, jam galiojančias poveikio priemones, atsižvelgiant į kredito unijos turtą, veiklos mastą ir sudėtingumą.
 
-1) administratorius pradeda atlikti savo funkcijas, o kredito unijos organų įgaliojimai sustabdomi. Apeliacinės instancijos teismui panaikinus nutartį iškelti kredito unijai bankroto bylą, kredito unijos organai toliau atlieka savo funkcijas. Tokiu atveju teismas praneša Juridinių asmenų registro tvarkytojui apie kredito unijos teisinio statuso pasikeitimą;
+4. Teismas paskiria priežiūros institucijos pasiūlytą administratorių kredito unijos administratoriumi, jeigu jis vadovaujantis Juridinių asmenų nemokumo įstatymu gali būti paskirtas nemokumo administratoriumi ir teismui kartu su prašymu paskirti kredito unijos administratorių yra pateiktas sutikimas – deklaracija, kurio turiniui mutatis mutandis taikomi Juridinių asmenų nemokumo įstatyme nustatyti reikalavimai.
 
-2) draudžiama vykdyti visas finansines prievoles, neįvykdytas iki bankroto bylos iškėlimo, įskaitant palūkanų, netesybų, mokesčių ir kitų privalomųjų įmokų mokėjimą, išieškoti skolas iš bankrutuojančios kredito unijos teismo ar ne ginčo tvarka;
+5. Teismo nutartis paskirti kredito unijos administratorių Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka gali būti skundžiama teismui.
 
-3) nutraukiamas netesybų ir palūkanų už visas kredito unijos prievoles, tarp jų už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą, skaičiavimas. Negali būti nustatoma priverstinė hipoteka.
+6. Kredito unijos administratorius kreditorių susirinkimo ar kreditorių komiteto nustatyta tvarka parengia kredito unijos bankroto proceso planą, kuriame turi būti nurodyta:
 
-4. Šio straipsnio 3 dalies 2 punkte nustatyti draudimai netaikomi įstatymų, reglamentuojančių mokėjimų ir vertybinių popierių atsiskaitymo sistemų funkcionavimą, ir kitų įstatymų nustatytais atvejais, kai yra tiesiogiai nurodyta, kad kredito unija privalo vykdyti prievoles po teismo nutarties iškelti bankroto bylą priėmimo.
+1) numatoma kredito unijos bankroto proceso trukmė;
 
-5. Kredito unijos administratorius ne vėliau kaip per 5 dienas nuo teismo nutarties iškelti kredito unijos bankroto bylą priėmimo dienos privalo pateikti teismui tvirtinti kredito unijos lėšų sumą, kurią administratorius turi teisę naudoti administravimo išlaidoms apmokėti, iki bus patvirtinta administravimo išlaidų sąmata.
+2) vykdant kredito unijos bankroto procesą siekiami pajamų, išlaidų, kreditorių reikalavimų dengimo rodikliai;
 
-6. Jeigu kredito unijos, kuriai iškelta bankroto byla, kreditorių pagal teismo patvirtintą sąrašą yra daugiau kaip 50, visas Lietuvos Respublikos įmonių bankroto įstatyme nustatytas kreditorių susirinkimo teises, išskyrus kreditorių komiteto sudarymą ir keitimą, turi tik kreditorių komitetas. Kreditorių komitetas sudaromas iš ne daugiau kaip 15 narių. Vienas iš kreditorių komiteto narių turi būti valstybės įmonė „Indėlių ir investicijų draudimas“.
+3) numatomos pajamos iš kredito unijos turto realizavimo ir turto realizavimo terminai;
 
-7. Administratorius privalo priežiūros institucijai jos nustatyta tvarka ir terminais reguliariai teikti informaciją apie kredito unijos bankroto procedūrų eigą.
+4) kredito unijos teisminių ginčų prognozė (teisminių ginčų pabaigos terminai, teisminių ginčų sąnaudų ir naudos analizė);
 
-8. Iškėlus kredito unijos bankroto bylą, taikos sutartis negali būti sudaroma.
+5) kredito unijos bankroto procesui administruoti reikalingų išteklių (žmogiškųjų, materialinių, finansinių) prognozė;
 
-76 straipsnis. Bankrutavusios kredito unijos likvidavimas
+6) kita, kredito unijos administratoriaus nuomone, svarbi informacija.
 
-1. Teismas pripažįsta kredito uniją bankrutavusia ir priima nutartį kredito uniją likviduoti ne vėliau kaip per 3 mėnesius nuo nutarties patvirtinti kreditorių reikalavimus įsiteisėjimo dienos.
+7. Kredito unijos administratorius teikia kreditorių susirinkimui ar kreditorių komitetui kredito unijos bankroto proceso plano įgyvendinimo ataskaitas kreditorių susirinkimo ar kreditorių komiteto nustatyta tvarka.
 
-2. Nustatyta tvarka neparduotos ir kreditorių neperimtos kredito unijos reikalavimo teisės neatlygintinai perduodamos Lietuvos Respublikos Vyriausybės paskirtai institucijai.
+8. Kredito unijos bankroto proceso administravimo išlaidas sudaro visos bankroto proceso metu patiriamos išlaidos (išskyrus kredito unijos ūkinės komercinės veiklos išlaidas):
 
-3. Prieš kiekvieną atsiskaitymą su kreditoriais kredito unijos likvidatorius pateikia teismui tvirtinti atsiskaitymų su kreditoriais planą. Jame turi būti nurodyti atsiskaitymo terminai, išmokėtinų sumų dydžiai ir kreditorių reikalavimų tenkinimo mastas perduodant kreditoriams turtą, įskaitant reikalavimo teises.
+1) atlygis kredito unijos administratoriui;
+
+2) su darbo santykiais susijusios išmokos kredito unijos darbuotojams (įskaitant mokesčius, apskaičiuojamus nuo susijusių su darbo santykiais išmokų), kurie dalyvauja administruojant bankroto procesą, išskyrus darbuotojus, dalyvaujančius kredito unijos komercinėje veikloje;
+
+3) kredito unijos audito, turto įvertinimo atlikimo, teisinių ir kredito unijos kreditorių susirinkimo patvirtintų ekspertų ar specialistų paslaugų išlaidos;
+
+4) turto išieškojimo, saugojimo, pardavimo, perdavimo išlaidos;
+
+5) kredito unijos dokumentų sutvarkymo ir saugotinų kredito unijos dokumentų perdavimo archyvui išlaidos;
+
+6) bylinėjimosi išlaidos, kurias patiria kredito unija ir kurias kredito unija turi atlyginti kitiems byloje dalyvaujantiems asmenims;
+
+7) organizacinės ir kitos kreditorių susirinkimo ar kreditorių komiteto patvirtintos išlaidos.
+
+9. Kredito unijos bankroto proceso administravimo išlaidos, įskaitant ir atlygį kredito unijos administratoriui, nustatomos ir apmokamos kreditorių susirinkimo ar kreditorių komiteto nustatyta tvarka. Kredito unijos bankroto proceso administravimo išlaidų sąmata tvirtinama Juridinių asmenų nemokumo įstatyme nustatyta tvarka.
+
+10. Kredito unijos administratoriaus minimali profesinės civilinės atsakomybės privalomojo draudimo suma yra 300 000 eurų vienam draudžiamajam įvykiui ir 1 000 000 eurų visiems draudžiamiesiems įvykiams per metus. Dėl draudžiamojo įvykio išmokėjus draudimo išmoką ir sumažėjus draudimo sumai, kredito unijos administratorius privalo per vieną mėnesį apsidrausti profesinę civilinę atsakomybę, kad būtų atkurta privalomoji minimali draudimo suma.
+
+11. Teismo nustatytas terminas, iki kada kredito unijos kreditoriai turi teisę pareikšti savo reikalavimus, turi būti ne ilgesnis kaip 3 mėnesiai nuo teismo nutarties iškelti bankroto bylą įsiteisėjimo dienos.
+
+12. Teismui priėmus nutartį iškelti kredito unijai bankroto bylą:
+
+1) draudžiama vykdyti visas finansines prievoles, neįvykdytas iki bankroto bylos iškėlimo, įskaitant palūkanų, netesybų, mokesčių ir kitų privalomųjų įmokų mokėjimą, išieškoti skolas iš bankrutuojančios kredito unijos teismo ar ne ginčo tvarka;
+
+2) nutraukiamas netesybų ir palūkanų už visas kredito unijos prievoles, tarp jų už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą, skaičiavimas. Negali būti nustatoma priverstinė hipoteka.
+
+13. Šio straipsnio 12 dalies 1 punkte nustatyti draudimai netaikomi įstatymų, reglamentuojančių mokėjimų ir vertybinių popierių atsiskaitymo sistemų funkcionavimą, ir kitų įstatymų nustatytais atvejais, kai yra tiesiogiai nurodyta, kad kredito unija privalo vykdyti prievoles po teismo nutarties iškelti bankroto bylą priėmimo.
+
+14. Jeigu kredito unijos, kuriai iškelta bankroto byla, kreditorių pagal teismo patvirtintą sąrašą yra daugiau kaip 50, visas Juridinių asmenų nemokumo įstatyme nustatytas kreditorių susirinkimo teises, išskyrus kreditorių komiteto sudarymą ir keitimą, turi tik kreditorių komitetas. Kreditorių komitetas sudaromas iš ne daugiau kaip 15 narių. Vienas iš kreditorių komiteto narių turi būti valstybės įmonė „Indėlių ir investicijų draudimas“.
+
+15. Kredito unijos administratorius privalo priežiūros institucijai jos nustatyta tvarka ir terminais reguliariai teikti informaciją apie kredito unijos bankroto proceso eigą.
+
+16. Iškėlus kredito unijos bankroto bylą, taikos sutartis negali būti sudaroma.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
+
+76 straipsnis. Kredito unijos likvidavimas dėl bankroto
+
+1. Teismas priima nutartį kredito uniją likviduoti dėl bankroto ne vėliau kaip per 3 mėnesius nuo nutarties patvirtinti kreditorių reikalavimus įsiteisėjimo dienos.
+
+2. Kredito unijos reikalavimo teisės pagal skolininkų prievoles ir kitas finansinis turtas parduodami ir perduodami kreditorių susirinkimo ar kreditorių komiteto nustatyta tvarka. Nustatyta tvarka neparduotos ir kreditorių neperimtos kredito unijos reikalavimo teisės neatlygintinai perduodamos Lietuvos Respublikos Vyriausybės paskirtai institucijai.
+
+3. Prieš kiekvieną atsiskaitymą su kreditoriais kredito unijos administratorius pateikia teismui tvirtinti atsiskaitymų su kreditoriais planą. Jame turi būti nurodyti atsiskaitymo terminai, išmokėtinų sumų dydžiai ir kreditorių reikalavimų tenkinimo mastas perduodant kreditoriams turtą, įskaitant reikalavimo teises.
 
 4. Kredito unijos kreditorių reikalavimai užsienio valiuta tenkinami eurais pagal teismo nutarties iškelti kredito unijai bankroto bylą priėmimo dieną Europos Centrinio Banko paskutinį paskelbtą orientacinį euro ir užsienio valiutos santykį, o kai euro ir atitinkamos užsienio valiutos santykio Europos Centrinis Bankas neskelbia, – pagal Lietuvos banko paskutinį paskelbtą orientacinį euro ir užsienio valiutos santykį.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 54 straipsnis. Kredito unijų priežiūros institucija
 
@@ -1742,11 +1786,19 @@ Nr. XII-1047, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10853
 
 77 straipsnis. Kreditorių reikalavimų tenkinimo eilė
 
-1. Pirmąja eile yra tenkinami darbuotojų reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine liga arba dėl mirties dėl nelaimingo atsitikimo darbe.
+1. Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 2. Antrąja eile tenkinami valstybės įmonės „Indėlių ir investicijų draudimas“ reikalavimai dėl išlaidų, susijusių su draudimo išmokų kredito unijos indėlininkams, nurodytiems Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme, išmokėjimu.
 
-3. Trečiąja eile tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei dėl valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų, taip pat dėl suteiktų paskolų, gautų valstybės vardu ir su valstybės garantija.
+3. Trečiąja eile tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų, dėl suteiktų paskolų, gautų valstybės vardu ir su valstybės garantija, taip pat Garantinio fondo administratoriaus ir (ar) valstybei atstovaujančių institucijų atgręžtiniai reikalavimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 4. Ketvirtąja eile tenkinami kiti kredito unijos kreditorių, išskyrus nurodytus šio straipsnio 1, 2, 3, 5 ir 6 dalyse, reikalavimai.
 
@@ -1999,4 +2051,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
 
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 5, 10, 21, 29, 40, 45, 51, 52 straipsnių pakeitimo ir 52, 53 straipsnių pripažinimo netekusiais galios įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
+
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 73, 75, 76 ir 77 straipsnių pakeitimo įstatymas
 
