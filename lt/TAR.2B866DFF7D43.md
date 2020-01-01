@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2019-11-12"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2019-11-12 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -939,10 +939,6 @@ Straipsnio pakeitimai:
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 
 Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)
-
-XXVII SKYRIUS
-
-NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS SOCIALINĖMS TEISĖMS
 
 176 straipsnis. Darbuotojų saugos ir sveikatos reikalavimų pažeidimas
 
@@ -4030,11 +4026,15 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 XXVI SKYRIUS
 
-NUSIKALTIMAI ASMENŲ RINKIMŲ TEISĖMS IR LIETUVOS RESPUBLIKOS PREZIDENTO, SEIMO, EUROPOS PARLAMENTO BEI SAVIVALDYBIŲ TARYBŲ RINKIMŲ AR REFERENDUMŲ TVARKAI
+NUSIKALTIMAI ASMENŲ RINKIMŲ TEISĖMS IR LIETUVOS RESPUBLIKOS PREZIDENTO, SEIMO, EUROPOS PARLAMENTO BEI SAVIVALDYBIŲ TARYBŲ RINKIMŲ AR REFERENDUMŲ TVARKAI, POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO TVARKAI
 
 Skyriaus pavadinimo pakeitimai:
 
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. XIII-2563, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19871
 
 172 straipsnis. Trukdymas pasinaudoti rinkimų ar referendumo teise
 
@@ -6168,6 +6168,14 @@ Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050
 
 Lietuvos Respublikos baudžiamojo kodekso 79 straipsnio pakeitimo įstatymas
 
+36.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2563, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19871
+
+Lietuvos Respublikos baudžiamojo kodekso XXVI skyriaus pavadinimo pakeitimo ir Kodekso papildymo 175-1 straipsniu įstatymas
+
 2771 straipsnis. Sąvokų išaiškinimas
 
 Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
@@ -6941,4 +6949,20 @@ Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859
 Papildyta straipsnio punktu:
 
 Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
+
+1751 straipsnis. Neteisėtas politinių partijų ir politinių kampanijų finansavimas
+
+1. Tas, kas neteisėtai teikė lėšas ar kitokią paramą, kurių vertė viršija 500 MGL dydžio sumą, politinei partijai ar politinei kampanijai tiesiogiai ar netiesiogiai finansuoti arba šias lėšas ar paramą neteisėtai priėmė ar panaudojo politinės partijos ar politinės kampanijos veikloje,
+
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
+
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+Papildyta straipsniu:
+
+Nr. XIII-2563, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19871
+
+XXVII SKYRIUS
+
+NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS SOCIALINĖMS TEISĖMS
 
