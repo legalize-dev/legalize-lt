@@ -4,7 +4,7 @@ identifier: "TAR.A7F77DF94F5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-18"
-last_updated: "2019-04-19"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-04-19 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-11-13
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
 
@@ -189,7 +189,11 @@ SENATVĖS PENSIJOS
 
 10. Pensijos apskaitos vieneto vertė (toliau – apskaitos vieneto vertė) – šio įstatymo nustatyta tvarka kalendoriniams metams patvirtinta pensijos apskaitos vieneto piniginė išraiška.
 
-11. Pensijų socialinio draudimo įmoka – apdrausto asmens ir (arba) jo draudėjo mokama tam tikrų metų Lietuvos Respublikos socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatyta pensijų draudimo įmoka.
+11. Pensijų socialinio draudimo įmoka – apdrausto asmens ir (arba) jo draudėjo mokama tam tikrų metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatyta pensijų draudimo įmoka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
 
 12. Pensijų socialinio draudimo stažas (toliau – stažas) – laikas, per kurį įstatymų nustatyta tvarka buvo mokamos arba turėjo būti mokamos pensijų socialinio draudimo įmokos, ir šio įstatymo nurodyti pensijų socialinio draudimo stažui prilyginti laikotarpiai.
 
@@ -265,11 +269,19 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 
-6. IK apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuotus bazinės pensijos ir apskaitos vieneto vertės dydžius euro cento tikslumu tvirtina ir skelbia Valstybinio socialinio draudimo fondo taryba (toliau – Taryba).
+6. IK apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuoti bazinės pensijos, apskaitos vieneto vertės dydžiai ir našlių pensijos bazinis dydis euro cento tikslumu tvirtinami atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
+
+Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
+
+7. Nuo 2020 m. sausio 1 d. bazinės pensijos dydis gali būti didinamas daugiau negu pagal bazinės pensijos dydžiui taikomą šio straipsnio 2 dalyje nustatyta tvarka apskaičiuotą IK, atsižvelgiant į valstybės biudžeto finansines galimybes. Nuo 2021 m. sausio 1 d., atsižvelgiant į valstybės biudžeto ir Valstybinio socialinio draudimo fondo biudžeto finansines galimybes, gali būti nustatomas didesnis negu pagal šio straipsnio 2 dalį apskaičiuotas IK.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2651, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20992
 
 9 straipsnis. Socialinio draudimo pensijų mokėjimo šaltiniai
 
@@ -471,7 +483,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
-2. Valstybinio socialinio draudimo fondo administravimo įstaigos pensijas pristato Valstybinio socialinio draudimo fondo valdybos nustatyta tvarka, suderinta su Taryba.
+2. Valstybinio socialinio draudimo fondo administravimo įstaigos pensijas pristato Valstybinio socialinio draudimo fondo valdybos nustatyta tvarka, suderinta su Valstybinio socialinio draudimo fondo taryba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
 
 3. Kreipiantis dėl pensijos, privaloma pateikti visus Socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytus dokumentus, būtinus pensijai paskirti.
 
