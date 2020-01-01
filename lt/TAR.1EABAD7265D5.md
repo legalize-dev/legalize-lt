@@ -4,7 +4,7 @@ identifier: "TAR.1EABAD7265D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-06-18"
-last_updated: "2019-07-21"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1EABAD7265D5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS INFORMUOTIESIEMS INVESTUOTOJAMS SKIRTŲ KOLEKTYVINIO
 
 INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2019-07-21 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-14
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
 
@@ -1434,9 +1434,17 @@ priedas
 
 1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektais (KIPVPS), derinimo (OL 2009 L 302, p. 32) su paskutiniais pakeitimais, padarytais 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2014/91/ES (OL 2014 L 257, p. 186).
 
-TAR pastaba. 1 punktas netenka galios 2020 m. sausio 1 d..
+TAR pastaba. 1 punktas netenka galios 2022 m. sausio 1 d..
 
-2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1).
+Punkto pakeitimai:
+
+Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
+
+2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1) su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156 (OL 2019 L 188, p. 55).
+
+Punkto pakeitimai:
+
+Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
 
 Pakeitimai:
 
@@ -1495,4 +1503,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 2, 9, 20, 28, 30, 44, 46, 50, 65 ir 66 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
+
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 pakeitimo įstatymo Nr. XIII-1873 1 ir 2 straipsnių pakeitimo įstatymas
 
