@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2019-07-27"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-27 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
 
@@ -260,7 +260,11 @@ PROFESINIŲ SĄJUNGŲ VEIKLOS STATUTINĖSE ĮSTAIGOSE YPATUMAI
 
 39 straipsnis. Tarnybinė atsakomybė ir jos taikymas
 
-1. Už tarnybinius nusižengimus skiriamos tarnybinės nuobaudos. Tarnybinė nuobauda skiriama atsižvelgiant į tarnybinį nusižengimą padariusio pareigūno kaltę, tarnybinio nusižengimo padarymo priežastis, aplinkybes ir padarinius, į pareigūno veiklą iki tarnybinio nusižengimo padarymo, tarnybinę atsakomybę lengvinančias ir sunkinančias aplinkybes, į Lietuvos Respublikos korupcijos prevencijos įstatyme ar Lietuvos Respublikos kriminalinės žvalgybos įstatyme nustatytais atvejais ir tvarka gautą informaciją. Pagal Korupcijos prevencijos įstatymą gauta informacija gali būti panaudota skiriant pareigūnui tarnybinę nuobaudą tik tuo atveju, kai ši informacija išslaptinama.
+1. Už tarnybinius nusižengimus skiriamos tarnybinės nuobaudos. Tarnybinė nuobauda skiriama atsižvelgiant į tarnybinį nusižengimą padariusio pareigūno kaltę, tarnybinio nusižengimo padarymo priežastis, aplinkybes ir padarinius, į pareigūno veiklą iki tarnybinio nusižengimo padarymo, tarnybinę atsakomybę lengvinančias ir sunkinančias aplinkybes.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 
 2. Pareigūnui gali būti skiriama viena iš šių tarnybinių nuobaudų:
 
@@ -311,6 +315,12 @@ PROFESINIŲ SĄJUNGŲ VEIKLOS STATUTINĖSE ĮSTAIGOSE YPATUMAI
 2) kai pareigūnas, dėl kurio galimo tarnybinio nusižengimo ar pareigūno vardo pažeminimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinis patikrinimas, atleidžiamas iš vidaus tarnybos (netenka pareigūno statuso). Sprendimą dėl pareigūno, atleisto iš vidaus tarnybos, pripažinimo padariusiu tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, ar sprendimą dėl pareigūno pripažinimo pažeminusiu pareigūno vardą priima pareigūną į pareigas skiriantis asmuo, atsižvelgdamas į šio straipsnio 4 dalyje nustatytus reikalavimus. Šis sprendimas ministro nustatyta tvarka perduodamas valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai ir pareigūnui, atleistam iš vidaus tarnybos.
 
 9. Jeigu paaiškėja, kad tarnybinis nusižengimas ar pareigūno vardo pažeminimas turi nusikalstamos veikos ar administracinio nusižengimo požymių, tarnybinis patikrinimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama tirti kompetentingai institucijai. Tarnybinio nusižengimo ar pareigūno vardo pažeminimo tyrimas sustabdomas ir tuo atveju, kai paaiškėja, kad dėl šios pareigūno veikos yra pradėtas ikiteisminis tyrimas arba bylos dėl administracinio nusižengimo teisena. Jeigu atsisakoma pradėti ikiteisminį tyrimą, bylos dėl administracinio nusižengimo teiseną arba pasibaigia baudžiamasis procesas ar bylos dėl administracinio nusižengimo teisena, tarnybinis patikrinimas tęsiamas ir tarnybinė nuobauda turi būti paskirta ar sprendimas dėl pareigūno atleidimo iš vidaus tarnybos už pareigūno vardo pažeminimą turi būti priimtas ne vėliau kaip per 2 mėnesius nuo šių sąlygų atsiradimo. Kai pareigūno veika turi savarankiško tarnybinio nusižengimo ar pareigūno vardą žeminančios veikos požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį nusižengimą ar pareigūno vardo pažeminimą atriboti nuo nusikalstamos veikos ar administracinio nusižengimo, tarnybinio nusižengimo ar pareigūno vardo pažeminimo veikos tyrimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar bylos dėl administracinio nusižengimo teisenos eigą.
+
+91. Pareigūnas ir iš vidaus tarnybos atleistas pareigūnas, dėl kurių pradėtas tarnybinis patikrinimas, turi teisę: turėti atstovą, turintį tokias pačias teises, kaip ir asmuo tarnybinio patikrinimo metu, kuriam jis atstovauja; būti raštu informuotas apie pradėtą tarnybinį patikrinimą dėl galimai jo padaryto tarnybinio nusižengimo ir jo prašymu susipažinti su statutinės įstaigos turimais neįslaptintais duomenimis apie galimai jo padarytą tarnybinį nusižengimą arba gauti šiuos duomenis; teikti paaiškinimus, prašymus ir įrodymus ar kitą informaciją dėl galimai jo padaryto tarnybinio nusižengimo; dalyvauti vietoje tikrinant su galimai jo padarytu tarnybiniu nusižengimu susijusius faktinius duomenis; pareikšti motyvuotą nušalinimą tarnybinį nusižengimą tirti įgaliotiems asmenims dėl jų galimo šališkumo ir apskųsti šių asmenų veikimą ar neveikimą; baigus tarnybinį patikrinimą, gauti priimtą sprendimą, jo prašymu susipažinti su neįslaptinta tarnybinio patikrinimo medžiaga arba gauti jos kopiją; skųsti sprendimus, priimtus baigus tarnybinį patikrinimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 
 10. Tarnybinę nuobaudą pareigūnui skiria arba sprendimą dėl pareigūno atleidimo iš vidaus tarnybos už pareigūno vardo pažeminimą priima pareigūną į pareigas skiriantis asmuo.
 
@@ -1282,7 +1292,11 @@ PAREIGŪNŲ SKATINIMAS IR ATSAKOMYBĖ
 
 53 straipsnis. Pareiginė alga
 
-1. Pareigūno pareiginė alga nustatoma taikant šio statuto priede tai pareigūno pareigybei nustatytą pareiginės algos koeficientą iš atitinkamos pareigybių grupės pareigybėms nustatytų pareiginės algos koeficientų intervalo. Finansinių nusikaltimų tyrimo tarnybos ir Vadovybės apsaugos departamento pareigūnams, kurių pareigybės priskirtos 5, 6 pareigybių grupėms, taikomas papildomas koeficientas – 1, kurių pareigybės priskirtos 7, 8, 9, 10, 11 pareigybių grupėms, – papildomas koeficientas – 1,2. Šioje dalyje nurodytas papildomas koeficientas pridedamas prie šio statuto priede nurodytų pareigūnų pareiginės algos koeficientų, atitinkamai keičiant pareiginės algos koeficientų intervalo minimalią ir maksimalią ribas. Pareiginės algos koeficiento vienetas yra lygus Lietuvos Respublikos Seimo patvirtintam atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) baziniam dydžiui (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio.
+1. Pareigūno pareiginė alga nustatoma taikant šio statuto priede tai pareigūno pareigybei nustatytą pareiginės algos koeficientą iš atitinkamos pareigybių grupės pareigybėms nustatytų pareiginės algos koeficientų intervalo. Finansinių nusikaltimų tyrimo tarnybos ir Vadovybės apsaugos departamento pareigūnams, kurių pareigybės priskirtos 5, 6 pareigybių grupėms, taikomas papildomas koeficientas – 1, kurių pareigybės priskirtos 7, 8, 9, 10, 11 pareigybių grupėms, – papildomas koeficientas – 1,2. Šioje dalyje nurodytas papildomas koeficientas pridedamas prie šio statuto priede nurodytų pareigūnų pareiginės algos koeficientų, atitinkamai keičiant pareiginės algos koeficientų intervalo minimalią ir maksimalią ribas. Pareiginės algos koeficiento vienetas yra lygus Lietuvos Respublikos Seimo patvirtintam atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) baziniam dydžiui (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio. Ateinančių finansinių metų bazinis dydis, atsižvelgiant į praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą), minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, nustatomas nacionalinėje kolektyvinėje sutartyje. Nacionalinėje kolektyvinėje sutartyje sulygtą bazinį dydį tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Jeigu nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 dienos, ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, įvertindamas ir atsižvelgdamas į šioje dalyje numatytas aplinkybes, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 
 2. Pareigūno pareiginė alga nustatoma atsižvelgiant į įstaigų grupę, kuriai priskirta statutinė įstaiga, kurioje pareigūnas eina pareigas. Statutinės įstaigos į grupes skirstomos vadovaujantis Valstybės tarnybos įstatyme nustatytais valstybės ir savivaldybių institucijų ir įstaigų skirstymo į grupes kriterijais. Statutinių įstaigų sąrašą pagal grupes tvirtina Vyriausybė, atsižvelgdama į Valstybės tarnybos įstatyme nustatytus valstybės ir savivaldybių institucijų ir įstaigų skirstymo į grupes kriterijus.
 
@@ -1394,7 +1408,11 @@ Nr. XIII-1790, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21121
 
 2. Statutinės įstaigos vadovas ir vadovo pavaduotojai negali būti statutinėje įstaigoje veikiančios profesinės sąjungos nariai.
 
-3. Šakos kolektyvinė sutartis yra profesinių sąjungų organizacijų (susivienijimo, federacijos, centro ir kitų), atstovaujančių vienoje viešojo administravimo veiklos srityje tarnaujantiems pareigūnams, ir Vyriausybės ar jos įgaliotos institucijos rašytinis susitarimas, kuriame nustatomos visų tos viešojo administravimo veiklos srities pareigūnų darbo užmokesčio, tarnybos (darbo) ir poilsio laiko ir kitos socialinės bei ekonominės sąlygos. Statutinės įstaigos kolektyvinė sutartis yra rašytinis susitarimas, kurį sudaro statutinės įstaigos vadovas arba jo įgaliotas asmuo ir pareigūnams atstovaujančios statutinėje įstaigoje veikiančios profesinės sąjungos ir kuriame nustatomos statutinės įstaigos pareigūnų tarnybos (darbo) ir kitos socialinės bei ekonominės sąlygos. Statutinės įstaigos kolektyvinėje sutartyje negali būti nustatyta papildomų sąlygų, susijusių su papildomomis valstybės ir savivaldybių biudžetų ir valstybės pinigų fondų lėšomis.
+3. Statutinės įstaigos kolektyvinė sutartis yra rašytinis susitarimas, kurį sudaro statutinės įstaigos vadovas arba jo įgaliotas asmuo ir pareigūnams atstovaujančios statutinėje įstaigoje veikiančios profesinės sąjungos ir kuriame nustatomos statutinės įstaigos pareigūnų tarnybos (darbo) ir poilsio laiko ir kitos socialinės bei ekonominės sąlygos. Statutinės įstaigos kolektyvinėje sutartyje negali būti nustatyta papildomų sąlygų, susijusių su papildomomis valstybės ir savivaldybių biudžetų ir valstybės pinigų fondų lėšomis. Šakos kolektyvinė sutartis yra profesinių sąjungų organizacijų (susivienijimo, federacijos, centro ir kitų), atstovaujančių vienoje viešojo administravimo veiklos srityje tarnaujantiems pareigūnams, ir Vyriausybės ar jos įgaliotos institucijos rašytinis susitarimas, kuriame nustatomos visų tos viešojo administravimo veiklos srities pareigūnų darbo užmokesčio, tarnybos (darbo) ir poilsio laiko ir kitos socialinės bei ekonominės sąlygos. Pareigūnams taikoma profesinių sąjungų organizacijų (susivienijimo, federacijos, centro ir kitų), atstovaujančių valstybės tarnautojams, ir Vyriausybės sudaryta nacionalinė kolektyvinė sutartis, kurioje nustatomos Lietuvos valstybės tarnautojų darbo užmokesčio, tarnybos (darbo), poilsio laiko ir kitos socialinės ir ekonominės sąlygos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 
 4. Profesinių sąjungų veikla statutinėje įstaigoje įstatymų nustatyta tvarka gali būti sustabdyta ar nutraukta, jeigu ji prieštarauja įstatymams ir kitiems teisės aktams ar trukdo įgyvendinti statutinės įstaigos funkcijas siekiant užtikrinti žmogaus teises ir viešąjį saugumą.
 
@@ -1684,125 +1702,129 @@ II
 
 III
 
-Koeficientas
+koeficientas
 
-Koeficientas
+koeficientas
 
 1
 
 Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vadas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vadas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius, Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos direktorius, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktorius, policijos generalinis komisaras, Muitinės departamento prie Finansų ministerijos generalinis direktorius, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius
 
-15–19
+15,2–19
 
 2
 
 Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, policijos generalinio komisaro pavaduotojas, Muitinės departamento prie Finansų ministerijos generalinio direktoriaus pavaduotojas, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktoriaus pavaduotojas
 
-13–18
+13,2–18
 
 3
 
-Viršininkas (statutinės įstaigos vadovas), direktorius (statutinės įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vadas, mokyklos viršininkas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas, rinktinės vadas (statutinės įstaigos vadovas), Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Priešgaisrinės gelbėjimo valdybos viršininkas
+Viršininkas (statutinės įstaigos vadovas), direktorius (statutinės įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos Pasienio rinktinės vadas, mokyklos viršininkas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas, rinktinės vadas (statutinės įstaigos vadovas), Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Priešgaisrinės gelbėjimo valdybos viršininkas
 
-13–17,5
+13,2–17,5
 
-13–17,5
+13,2–17,5
 
 4
 
 Dalinio vadas, štabo viršininkas, viršininko pavaduotojas (statutinės įstaigos vadovo pavaduotojas), direktoriaus pavaduotojas (statutinės įstaigos vadovo pavaduotojas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos Pasienio rinktinės vado pavaduotojas, mokyklos viršininko pavaduotojas, patarėjas (statutinės įstaigos patarėjas), biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), rinktinės vado pavaduotojas (statutinės įstaigos vadovo pavaduotojas), Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Priešgaisrinės gelbėjimo valdybos viršininko pavaduotojas
 
-12–16,5
+12,2–16,5
 
-11–16
+11,2–16
 
 5
 
 Dalinio vado pavaduotojas, valdybos viršininkas, patarėjas, specialusis atašė
 
-11–15,5
+11,2–15,5
 
-10–15
+10,2–15
 
 6
 
 Komisariato viršininkas, užkardos vadas, tarnybos viršininkas, skyriaus viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), valdybos viršininko pavaduotojas, posto viršininkas, eskadrilės vadas, orlaivio vadas
 
-9–15
+9,4–15
 
-8–14,5
+8,4–14,5
 
 7
 
 Skyriaus viršininkas (taikoma struktūriniam padaliniui, kuris yra kitame struktūriniame padalinyje), centro viršininkas, rinktinės vadas, posto viršininko pavaduotojas, vyriausiasis lakūnas
 
-8,5–14,5
+8,9–14,5
 
-7,5–14
+7,9–14
 
 8
 
 Skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), poskyrio viršininkas, vyriausiasis tyrėjas, vyriausiasis detektyvas, vyriausiasis agentas, laivo vadas, tarnybos viršininko pavaduotojas, centro viršininko pavaduotojas, komandos viršininkas, užkardos vado pavaduotojas, vyresnysis lakūnas
 
-8–14
+8,6–14
 
-7–13,5
+7,6–13,5
 
 9
 
 Skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris yra kitame struktūriniame padalinyje), nuovados viršininkas, kuopos vadas, vyriausiasis inspektorius, vyriausiasis budėtojas, vyriausiasis specialistas, komandos viršininko pavaduotojas, poskyrio viršininko pavaduotojas, posto pamainos viršininkas, vyriausiasis laivavedys, lakūnas
 
-7–13,5
+7,6–13,5
 
-6–13
+6,6–13
 
 10
 
 Vyresnysis laivavedys, vyresnysis tyrėjas, vyresnysis detektyvas, vyresnysis agentas, kuopos vado pavaduotojas, vyresnysis specialistas
 
-6,6–13
+7,3–13
 
-5,9–12,5
+6,5–12,5
 
 11
 
 Būrio vadas, vyresnysis inspektorius, laivavedys, tyrėjas, detektyvas, agentas
 
-6,3–12,5
+7–12,5
 
-5,3–12
+6–12
 
 12
 
 Inspektorius, sargybos viršininkas, būrininkas, pamainos vadas, specialistas, vyriausiasis kovotojas
 
-6–12
+6,7–12
 
-5–11,5
+5,7–11,5
 
 13
 
 Vyriausiasis patrulis, vyriausiasis postinis, skyrininkas, jaunesnysis specialistas, vyriausiasis ugniagesys gelbėtojas, viršila, jaunesnysis budėtojas, vyresnysis kovotojas
 
-4,5–11,5
+5,2–11,5
 
-4–11
+4,7–11
 
 14
 
 Vyresnysis postinis, vyresnysis patrulis, dispečeris, vyresnysis ugniagesys gelbėtojas, vyresnysis pasienietis, kovotojas
 
-3,9–11
+4,6–11
 
-3,8–10,5
+4,5–10,5
 
 15
 
 Postinis, patrulis, pasienietis, ugniagesys gelbėtojas
 
-3,6–10,5
+4,4–10,5
 
-3,6–10
+4,4–10
+
+Priedo pakeitimai:
+
+Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 
 Pakeitimai:
 
