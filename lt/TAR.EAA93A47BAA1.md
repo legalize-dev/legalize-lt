@@ -4,7 +4,7 @@ identifier: "TAR.EAA93A47BAA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-28"
-last_updated: "2019-10-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-07-14
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
 
@@ -541,11 +541,15 @@ Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
 Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
 
-16) vaiko tėvai, dėl kurių valdžios apribojimo ar jo panaikinimo sprendžia teismas;
+16) vaiko tėvai, dėl kurių valdžios apribojimo ar jo panaikinimo sprendžia teismas, taip pat vaiko tėvai ar kiti jo atstovai pagal įstatymą, kai teismas nagrinėja bylą dėl leidimo paimti iš jų vaiką;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2038, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06550
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -613,7 +617,11 @@ Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
 
 14. Šio įstatymo 12 straipsnio 15 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentas, patvirtinantis, kad prašymas dėl neteisėtai išvežto ar laikomo vaiko grąžinimo pagal Hagos konvenciją yra priimtas centrinėje institucijoje ir neteisėtai išvežtas ar laikomas vaikas nebuvo grąžintas, taip pat šio prašymo kopija.
 
-15. Šio įstatymo 12 straipsnio 16 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, patvirtinantys pradėtą bylos procesą dėl tėvų valdžios apribojimo ar jo panaikinimo, arba šio įstatymo 22 straipsnio 3 dalyje nurodytas teismo pranešimas.
+15. Šio įstatymo 12 straipsnio 16 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, patvirtinantys pradėtą bylos procesą dėl tėvų valdžios apribojimo ar jo panaikinimo, arba šio įstatymo 22 straipsnio 3 dalyje nurodytas teismo pranešimas, arba šio įstatymo 22 straipsnio 4 dalyje nurodytas Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba) ar jos įgalioto teritorinio skyriaus pranešimas dėl antrinės teisinės pagalbos teikimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2038, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06550
 
 16. Šio įstatymo 12 straipsnio 17 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo kompetentingos valstybės institucijos patvirtinimas dėl tinkamumo įvaikinti ar būti nuolatiniu globėju (rūpintoju), teismo, nagrinėjančio bylą dėl įvaikinimo ar bylą dėl vaiko nuolatinės globos (rūpybos), pranešimas apie pradėtą bylos procesą ir (ar) kiti dokumentai, patvirtinantys pradėtą procesą dėl vaiko įvaikinimo ar vaiko nuolatinės globos (rūpybos).
 
@@ -940,6 +948,12 @@ Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
 Papildyta straipsnio dalimi:
 
 Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+
+4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, prieš kreipdamiesi į teismą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą, pateikia tarnybai teisingumo ministro nustatytos formos pranešimą dėl antrinės teisinės pagalbos teikimo. Tarnyba sprendimą dėl antrinės teisinės pagalbos teikimo priima šio pranešimo gavimo dieną arba artimiausią darbo dieną, jeigu pranešimas gautas ne darbo laiku, ir nedelsdama apie priimtą sprendimą raštu praneša Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius privalo nedelsiant, sprendimo gavimo dieną arba artimiausią darbo dieną, jeigu pranešimas gautas ne darbo laiku, apie tarnybos sprendimą dėl antrinės teisinės pagalbos teikimo pranešti bylą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą nagrinėjančiam teismui ir įteikti vaiko atstovams pagal įstatymą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2038, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06550
 
 Straipsnio pakeitimai:
 
