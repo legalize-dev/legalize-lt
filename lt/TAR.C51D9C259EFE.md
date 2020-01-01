@@ -4,7 +4,7 @@ identifier: "TAR.C51D9C259EFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-12-20"
-last_updated: "2019-05-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 34 straipsnis įsigalioja 2007-12-29"
 ---
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-14
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
 
@@ -368,6 +368,14 @@ Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
 
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 6, 7, 11, 20, 22, 32 straipsnių pakeitimo ir Įstatymo papildymo šeštuoju-1 skyriumi įstatymas
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2194, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09852
+
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 10 ir 24 straipsnių pakeitimo įstatymas
+
 8 straipsnis. Neteko galios nuo 2011-01-01.
 
 Straipsnio pakeitimai:
@@ -700,7 +708,11 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 2. Parenkant vietą krematoriumui įrengti įvertinamas kremavimo veiklos poveikis aplinkai pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą.
 
-3. Krematoriumų sanitarinė apsaugos zona nustatoma vadovaujantis Vyriausybės nustatyta tvarka.
+3. Krematoriumų sanitarinės apsaugos zona nustatoma Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2194, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09852
 
 11 straipsnis. Reikalavimai kremavimo įmonei
 
@@ -954,9 +966,17 @@ KAPINĖS
 
 1. Kapinės steigiamos vadovaujantis šiuo ir kitais įstatymais bei teisės aktais. Steigiamų naujų kapinių plotas neturi būti didesnis kaip 40 hektarų, įskaitant bendrojo naudojimo želdynų užimtą plotą.
 
-2. Sanitarinių apsaugos zonų ribos steigiamoms naujoms kapinėms nustatomos Vyriausybės nustatyta tvarka, tačiau negali būti mažesnės kaip 100 metrų.
+2. Steigiamų naujų kapinių, taip pat įsteigtų kapinių plečiamų teritorijų sanitarinės apsaugos zonos dydis nustatomas Specialiųjų žemės naudojimo sąlygų įstatyme nustatyta tvarka, tačiau negali būti mažesnis kaip 100 metrų.
 
-3. Kapines steigti sanitarinėse apsaugos zonose draudžiama.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2194, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09852
+
+3. Neteko galios nuo 2020-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2194, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09852
 
 4. Prieš pradedant eksploatuoti įsteigtas naujas kapines, jose privalo būti iki galo sutvarkyta infrastruktūra ir užtikrintas susisiekimas visuomeniniu transportu.
 
