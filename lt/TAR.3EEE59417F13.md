@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2019-09-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-05-20
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -52,10 +52,6 @@ BENDROSIOS NUOSTATOS
 
 4. Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant įstatymus, dėl kurių keičiasi valstybės biudžeto ir (ar) savivaldybių biudžetų einamųjų biudžetinių metų įsipareigojimai dėl piniginės socialinės paramos teikimo, taip pat ekonomikos krizės šalyje atveju ar kai yra regioniniai socialinės ekonominės raidos pokyčiai savivaldybėse ir (ar) padidėja energijos ir (ar) kuro (žaliavos), naudojamų būstui šildyti ar karštam vandeniui ruošti, kainos rinkoje, savivaldybių vykdomosios institucijos teisės aktų nustatyta tvarka patikslina lėšų poreikį piniginei socialinei paramai finansuoti. Jeigu nepakanka pagal šio straipsnio 3 dalį skirtų lėšų piniginei socialinei paramai teikti, papildoma lėšų suma piniginei socialinei paramai finansuoti savivaldybėms skiriama iš valstybės biudžeto.
 
-5. Nepanaudotos savivaldybių biudžetų lėšos piniginei socialinei paramai skaičiuoti ir mokėti savivaldybės tarybos nustatyta tvarka naudojamos šioms socialinės apsaugos sritims ir šios dalies 12 punkte nurodytai sričiai finansuoti:
-
-Pirmosios pastraipos redakcija nuo 2020-01-01:
-
 5. Nepanaudotos savivaldybių biudžetų lėšos piniginei socialinei paramai skaičiuoti ir mokėti savivaldybės tarybos nustatyta tvarka naudojamos šioms socialinės apsaugos sritims finansuoti:
 
 1) socialinę riziką patiriančių asmenų (šeimų) socialinės reabilitacijos ir integracijos priemonėms įgyvendinti;
@@ -80,13 +76,7 @@ Pirmosios pastraipos redakcija nuo 2020-01-01:
 
 11) savivaldybės administracijoje dirbančių socialinių išmokų specialistų darbo užmokesčiui didinti;
 
-12) socialinių pedagogų, psichologų, specialiąją pedagoginę ir specialiąją pagalbą teikiančių specialistų darbo užmokesčiui mokėti.
-
-TAR pastaba. 12 punktas netenka galios 2020-01-01.
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-1831, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21851
+12)  neteko galios 2020-01-01.
 
 Straipsnio dalies pakeitimai:
 
@@ -517,10 +507,6 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-651, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16001
-
-12) socialinio pobūdžio pajamos (išskyrus vienkartines išmokas ir (ar) pašalpas, mokamas iš valstybės, Valstybinio socialinio draudimo fondo ar savivaldybių biudžetų, socialinę paramą, skiriamą kitais šiame įstatyme nenumatytais atvejais ir mokamą iš savivaldybių biudžetų, išmokas, mokamas pagal Lietuvos Respublikos užimtumo įstatymą ir (ar) iš Europos prisitaikymo prie globalizacijos padarinių fondo, darbdavio mokamas vienkartines išmokas ir (ar) pašalpas bei kas mėnesį gaunamas socialinio pobūdžio pajamas: transporto išlaidų kompensacijas neįgaliesiems; kompensacijas donorams; pagalbos pinigus, mokamus pagal Lietuvos Respublikos socialinių paslaugų įstatymą; išmoką vaikui, globos (rūpybos) išmokos tikslinį priedą, mokamus pagal Lietuvos Respublikos išmokų vaikams įstatymą; būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensaciją, mokamą pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą; tikslines kompensacijas ir tikslinį priedą, mokamus pagal Lietuvos Respublikos tikslinių kompensacijų įstatymą);
-
-12 punkto redakcija nuo 2020-01-01:
 
 12) socialinio pobūdžio pajamos (išskyrus vienkartines išmokas ir (ar) pašalpas, mokamas iš valstybės, Valstybinio socialinio draudimo fondo ar savivaldybių biudžetų, socialinę paramą, skiriamą kitais šiame įstatyme nenumatytais atvejais ir mokamą iš savivaldybių biudžetų, išmokas, mokamas pagal Lietuvos Respublikos užimtumo įstatymą ir (ar) iš Europos prisitaikymo prie globalizacijos padarinių fondo, darbdavio mokamas vienkartines išmokas ir (ar) pašalpas bei kas mėnesį gaunamas socialinio pobūdžio pajamas: transporto išlaidų kompensacijas neįgaliesiems; kompensacijas donorams; pagalbos pinigus, mokamus pagal Lietuvos Respublikos socialinių paslaugų įstatymą; išmoką vaikui, globos (rūpybos) išmokos tikslinį priedą, vaiko laikinosios priežiūros išmoką, mokamus pagal Lietuvos Respublikos išmokų vaikams įstatymą; būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensaciją, mokamą pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą; tikslines kompensacijas ir tikslinį priedą, mokamus pagal Lietuvos Respublikos tikslinių kompensacijų įstatymą);
 
