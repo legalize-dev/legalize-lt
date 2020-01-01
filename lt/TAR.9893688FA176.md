@@ -4,7 +4,7 @@ identifier: "TAR.9893688FA176"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-07-10"
-last_updated: "2015-09-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9893688FA176"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos geriamojo vandens įstatymas
 
-Suvestinė redakcija nuo 2015-09-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2023-01-11
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 64-2327, i. k. 1011010ISTA00IX-433
 
@@ -75,11 +75,13 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 
 10. Geriamojo vandens sauga – vandens išteklių ir vandenviečių apsaugos, vandens kokybės, jo gavybos, ruošimo, tiekimo ir programinės priežiūros reikalavimų visuma, užtikrinanti, kad vartojant geriamąjį vandenį įprastomis tiekėjo ar fasuoto vandens gamintojo nustatytomis ar galimomis iš anksto pagrįstai numatyti vartojimo sąlygomis, įskaitant ilgalaikį vartojimą, nebus jokios rizikos vartotojų gyvybei ir sveikatai arba kad ji bus ne didesnė negu ta, kuri teisės aktuose nustatyta kaip leidžiama ir laikoma atitinkančia aukštą vartotojų apsaugos lygį.
 
-11. Geriamojo vandens vandenvietė – įrenginių, kuriais požeminis vanduo, atitinkantis teisės aktų nustatytus geriamojo vandens saugos ir kokybės reikalavimus arba naudojamas kaip žaliava geriamajam vandeniui ruošti, surenkamas ir nukreipiamas į žemės paviršių, išdėstymo vieta.
+11. Geriamojo vandens vandenvietė – požeminio vandens vandenvietė, iš kurios išgaunamas požeminis gėlas vanduo, atitinkantis teisės aktų nustatytus geriamojo vandens saugos ir kokybės reikalavimus arba naudojamas kaip žaliava geriamajam vandeniui ruošti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+
+Nr. XIII-2178, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09957
 
 12. Geriamojo vandens vandenvietės apsauga – teisės aktų nustatyta tvarka įgyvendinamų teisinių, administracinių, aplinkosaugos ir inžinerinių priemonių, skirtų geriamojo vandens vandenvietės apsaugai nuo užteršimo ir išsekimo, visuma.
 
@@ -135,11 +137,15 @@ Papildyta straipsnio dalimi:
 
 Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
-29. Geriamojo vandens vandenvietės apsaugos zona – geriamojo vandens vandenvietės apsaugai nuo užteršimo ir išsekimo skirta teritorija, kurioje ribojama ūkinė veikla.
+29. Neteko galios nuo 2020-01-01.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2178, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09957
 
 3 straipsnis. Fizinių ir juridinių asmenų aprūpinimo geriamuoju vandeniu bendrieji principai
 
@@ -335,11 +341,13 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 
 5) keičiamos ar pradedamos naudoti naujo tipo geriamojo vandens ruošimo priemonės;
 
-6) išaiškėja vandens teršimo vandentiekio skirstomajame tinkle požymiai, ypatingi įvykiai geriamojo vandens vandenviečių apsaugos zonose ar geriamojo vandens vandenviečių mitybos srityse;
+6) išaiškėja vandens teršimo vandentiekio skirstomajame tinkle požymiai, ypatingi įvykiai požeminio vandens vandenviečių apsaugos zonose ar geriamojo vandens vandenviečių mitybos srityse;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+
+Nr. XIII-2178, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09957
 
 7) atliekami profilaktikos darbai, galintys turėti įtakos geriamojo vandens saugai ir kokybei.
 
@@ -351,11 +359,13 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 
 1. Valstybinė maisto kontrolės institucija atlieka valstybinę geriamojo vandens saugos ir kokybės kontrolę, apie jos rezultatus kiekvienais metais praneša Sveikatos apsaugos ministerijai ir skelbia viešai teisės aktų nustatyta tvarka. Įgyvendindami šiuos uždavinius, valstybinės maisto kontrolės institucijos įgalioti pareigūnai turi teisę:
 
-1) įeiti į vandens tiekimo ir maisto įmonių bei visuomeninių pastatų teritoriją, patalpas, padalinius, geriamojo vandens vandenviečių apsaugos zonas, juos tikrinti, imti bandinius (taip pat ir fasuoto vandens), reikalauti visų reikalingų dokumentų ir juos tikrinti, daryti jų išrašus ar kopijas;
+1) įeiti į vandens tiekimo ir maisto įmonių bei visuomeninių pastatų teritoriją, patalpas, padalinius, požeminio vandens vandenviečių apsaugos zonas, juos tikrinti, imti bandinius (taip pat ir fasuoto vandens), reikalauti visų reikalingų dokumentų ir juos tikrinti, daryti jų išrašus ar kopijas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+
+Nr. XIII-2178, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09957
 
 2) kontroliuoti, kaip geriamojo vandens tiekėjai vykdo šio įstatymo 11 straipsnyje nustatytus reikalavimus;
 
@@ -365,7 +375,11 @@ Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
 
 3. Valstybinė geriamojo vandens kontrolė apima visus geriamojo vandens saugos ir kokybės užtikrinimo etapus (nuo vandens viešajam tiekimui ir individualiam apsirūpinimui skirtų geriamojo vandens vandenviečių saugos tikrinimo iki geriamojo vandens naudojimo gyvenamuosiuose, viešuose pastatuose (ypač vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse) vietų, iki fasuoto vandens tiekimo rinkai):
 
-1) geriamojo vandens vandenviečių apsaugos zonų tikrinimą;
+1) požeminio vandens vandenviečių apsaugos zonos tikrinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2178, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09957
 
 2) centralizuotų ir individualių techninių geriamojo vandens ruošimo priemonių ir susiliečiančių su geriamuoju vandeniu medžiagų saugaus naudojimo tikrinimą;
 
@@ -395,13 +409,11 @@ Straipsnio pakeitimai:
 
 Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
-13 straipsnis. Geriamojo vandens vandenviečių apsauga
+13 straipsnis. Neteko galios nuo 2020-01-01
 
-1. Geriamojo vandens vandenviečių, iš kurių tiekiama ar planuojama tiekti vidutiniškai daugiau kaip 10 m3 geriamojo vandens per parą arba kai geriamasis vanduo tiekiamas 50 ir daugiau asmenų, arba kai jis naudojamas ūkinei komercinei veiklai, apsaugos zonos nustatomos teritorijų planavimo dokumentuose ar žemės valdos projektuose. Šių zonų nustatymo tvarką nustato aplinkos ministras. Šiose zonose taikomi ūkinės veiklos, galinčios užteršti iš geriamojo vandens vandenviečių paimamą vandenį, apribojimai, kuriuos nustato Vyriausybė, tvirtindama Specialiųjų žemės naudojimo sąlygų aprašą.
+Straipsnio naikinimas:
 
-2. Gyvenamosiose teritorijose naudojamų geriamojo vandens vandenviečių, kur nėra galimybių sudaryti visų geriamojo vandens vandenvietės apsaugos zonos juostų (išskyrus griežto režimo), naudojimo sąlygas nustato Vyriausybės įgaliota institucija.
-
-3. Už tinkamą geriamojo vandens vandenviečių apsaugos zonų griežto režimo juostų ir visų vandens tiekimo įrenginių jose tvarkymą atsako vandens tiekėjai.
+Nr. XIII-2178, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09957
 
 Straipsnio pakeitimai:
 
@@ -427,7 +439,7 @@ Vyriausybė ar jos įgaliota institucija iki 2003 m. liepos 1 d. priima šiam į
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -460,4 +472,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
 
 Lietuvos Respublikos geriamojo vandens įstatymo Nr. IX-433 2, 4, 6, 11, 12 ir 13 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2178, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09957
+
+Lietuvos Respublikos geriamojo vandens įstatymo Nr. IX-433 2, 11, 12 straipsnių pakeitimo ir 13 straipsnio pripažinimo netekusiu galios įstatymas
 
