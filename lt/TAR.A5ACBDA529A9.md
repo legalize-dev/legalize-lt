@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2019-04-25"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-04-25 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -97,6 +97,12 @@ Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 
 101. Filmo dalies gamyba – filmo kūrybinio sumanymo įgyvendinimo etapas, kurio metu filmuojant pagal Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytus kriterijus atitinkantį filmo scenarijų, Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintą kalendorinį darbų planą ir sąmatą, Lietuvos Respublikoje sukuriama filmo dalis. Daugiaserijinio filmo serijos pagaminimas Lietuvos Respublikoje nelaikomas filmo dalies gamyba.
 
+102. Finansinė priemonė – priemonė, lemianti finansavimo (lėšų skolinimo) arba nuosavybės vertybinių popierių grąžą, įskaitant išvestines finansines priemones.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
 11. Honoraras – atlyginimas už autorine licencine sutartimi suteiktą teisę panaudoti kūrinį, atlyginimas už suteiktas gretutines teises, pajamos, gautos kaip atlyginimas už perduotą ar pagal licencinę sutartį suteiktą teisę naudotis pramoninės nuosavybės objektu, franšize, atlyginimas už suteiktą informaciją apie gamybinę, prekybinę ar mokslinę patirtį (know-how).
 
 12. Indėlis – kredito įstaigoje laikomos piniginės lėšos, kai kredito įstaiga įsipareigoja jas grąžinti bei už jas mokėti palūkanas. Indėliu nelaikomos piniginės lėšos, į kurias indėlininkas turi reikalavimo teises, atsirandančias iš kredito įstaigos atliekamų finansinių operacijų su indėliais arba iš teikiamų investicinių paslaugų.
@@ -128,6 +134,18 @@ Nr. XIII-1881, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00234
 161. Lietuvos filmo gamintojas – fizinis asmuo – nuolatinis Lietuvos gyventojas arba Europos ekonominės erdvės valstybės pilietis, veikiantis per nuolatinę bazę Lietuvoje, taip pat Lietuvos vienetas arba Europos ekonominės erdvės valstybės vienetas, veikiantis per nuolatinę buveinę Lietuvoje, kurie verčiasi filmų gamyba ir yra atsakingi už kūrybinį, organizacinį, finansinį filmo gamybos procesą.
 
 17. Lietuvos Respublikos teritorija – Lietuvos Respublikos teritorija ir greta Lietuvos Respublikos teritorinių vandenų esantis plotas, kuriame pagal Lietuvos Respublikos įstatymus ir tarptautinę teisę Lietuvos Respublika turi teisę tyrinėti ir eksploatuoti jūros dugno ir požeminius gamtos išteklius.
+
+171. Mokestinės tvarkos neatitikimas – situacija, kai dėl skirtingo finansinių priemonių, pagal jas atliktų mokėjimų ar jų perleidimo kvalifikavimo, taip pat vienetų, nuolatinių buveinių ar joms priskiriamų pajamų (sąnaudų) teisinio reglamentavimo ar traktavimo mokesčių tikslais skirtingose valstybėse įvyksta dvigubas mokėjimo sumos atskaitymas – asocijuotų asmenų arba pagal struktūrinį susitarimą atlikto mokėjimo suma atskaitoma iš pajamų dviejose valstybėse arba įvyksta mokėjimo sumos atskaitymas, bet ši suma neįtraukiama į apmokestinamąsias pajamas – vienoje valstybėje mokėjimo suma atskaitoma iš pajamų, o kitoje – neįtraukiama į apmokestinamąsias pajamas. Mokėjimo pagal finansines priemones ar jų perleidimą suma nelaikoma įtraukta į apmokestinamąsias pajamas, jeigu tokiam mokėjimui taikoma bet kokia pelno mokesčio ar jam tapataus mokesčio lengvata vien tik dėl to, kaip tas mokėjimas kvalifikuojamas pagal mokėjimo gavėjo valstybės teisės aktus, išskyrus atvejus, kai mokėjimo gavėjas įtraukia mokėjimo sumą į mokestinio laikotarpio, prasidedančio per 12 mėnesių nuo mokėjimą atlikusio vieneto mokestinio laikotarpio pabaigos, apmokestinamąsias pajamas arba galima pagrįstai tikėtis, kad mokėjimo gavėjas įtrauks mokėjimo sumą į būsimo mokestinio laikotarpio apmokestinamąsias pajamas, o mokėjimo sąlygos yra tokios, dėl kurių susitartų neasocijuoti asmenys. Mokestinės tvarkos neatitikimas, kai mokėjimas nepripažįstamas mokėjimo gavėjo valstybėje, laikomas mokestinės tvarkos neatitikimu tik tiek, kiek to mokėjimo suma atskaitoma iš pajamų, kurios pajamomis nelaikomos mokėjimo gavėjo valstybėje. Lietuvos Respublikos finansų ministras tvirtina mokestinės tvarkos neatitikimų pavyzdžių aprašą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+172. Mokestinės tvarkos neatitikimas dėl finansinės priemonės perleidimo – mokestinės tvarkos neatitikimas, kai dėl finansinės priemonės perleidimo gauta grąža mokesčių tikslais laikoma vienu metu gauta daugiau kaip vienos susitarimo dėl finansinės priemonės perleidimo šalies.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 18. Moksliniai tyrimai ir eksperimentinė plėtra – kaip šios sąvokos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme.
 
@@ -185,15 +203,25 @@ Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 
 30. Prestižo vertė – dydis, kuriuo, įsigyjant kito vieneto veiklą kaip kompleksą ar jo veiklos dalį kaip teisių ir prievolių visumą, organizaciniu požiūriu sudarančią autonomišką ekonominį vienetą, vykdantį veiklą ir galintį atlikti savo funkcijas savo nuožiūra, arba siekiant valdyti kito vieneto grynąjį turtą ir veiklą, įsigyjant jo akcijas, įsigyjančiojo vieneto pinigais sumokėta kaina viršija įsigyto vieneto grynojo turto dalies, įvertintos tikrąja rinkos kaina, vertę ir iš kurios įsigyjantysis vienetas tikisi gauti ekonominės naudos. Apskaičiuojant grynąjį turtą neatsižvelgiama į įsigyjamojo vieneto turimą turtą, kuris nebuvo pripažintas jo apskaitoje, nes šis turtas neturėjo reikalingų pripažinimo požymių (pagrįstai nebuvo tikimasi, kad vienetas iš turto gaus ekonominės naudos būsimaisiais laikotarpiais, ir nebuvo galima patikimai nustatyti turto įsigijimo kainos), arba buvo gautas neatlyginamai iš valstybės, savivaldybės ar viešojo juridinio asmens, kurio steigėjas yra valstybės ar savivaldybės institucija, tačiau turi tikrąją rinkos kainą.
 
-301. Rizikos ir privataus kapitalo subjektas – vienetas, kurio pagrindinė vykdoma veikla yra laikinas lėšų iš nesusijusių asmenų pritraukimas ir lėšų investavimas į kitus vienetus, jei daugiau negu 70 procentų rizikos ir privataus kapitalo subjekto investicijų sudaro investicijos į vienetų, kurių vidutinis metinis sąrašuose esančių darbuotojų skaičius neviršija 250 žmonių ir mokestinio laikotarpio pajamos neviršija 50 milijonų eurų arba balanse nurodyto turto vertė neviršija 43 milijonų eurų, nuosavybės vertybinius popierius, neįtrauktus į prekybą reguliuojamoje rinkoje.
+301. Rizikos ir privataus kapitalo subjektas – vienetas, kurio pagrindinė vykdoma veikla yra laikinas lėšų iš nesusijusių asmenų ir (arba) viešųjų lėšų pritraukimas ir šių lėšų investavimas į kitus vienetus, jei daugiau negu 70 procentų rizikos ir privataus kapitalo subjekto investicijų sudaro investicijos į vienetų, kurių vidutinis metinis sąrašuose esančių darbuotojų skaičius neviršija 250 asmenų, o mokestinio laikotarpio pajamos neviršija 50 milijonų eurų arba balanse nurodyto turto vertė neviršija 43 milijonų eurų, nuosavybės vertybinius popierius ir (arba) konvertuojamąsias obligacijas, kaip ši sąvoka suprantama pagal Lietuvos Respublikos akcinių bendrovių įstatymą, neįtrauktus į prekybą reguliuojamoje rinkoje.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
 31. Sąnaudos – visos išlaidos, patirtos uždirbant pajamas.
 
 32. Sporto veikla – kaip ši sąvoka apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme.
+
+321. Struktūrinis susitarimas – susitarimas, kurio sąlygoms poveikį turi mokestinės tvarkos neatitikimas ir dėl jo gaunama mokestinė nauda, arba susitarimas, kuriuo siekiama, kad atsirastų mokestinės tvarkos neatitikimo pasekmės, išskyrus atvejus, kai negalima pagrįstai manyti, kad vienetas, sudarydamas susitarimą, žinojo apie galimybę pasinaudoti mokestinės tvarkos neatitikimu, ir iš šio susitarimo negaunama jokios mokestinės naudos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 33. Susiję asmenys – asmenys laikomi susijusiais, jei bet kurią ataskaitinio mokestinio laikotarpio arba mokestinio laikotarpio, buvusio prieš ataskaitinį mokestinį laikotarpį, dieną atitinka bent vieną šių kriterijų – jie yra:
 
@@ -205,19 +233,55 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 4) vienetų grupės narės;
 
-5) vienetas ir kito vieneto dalyviai, jei tie vienetai sudaro vieną vienetų grupę;
+5) vienetas ir kito vieneto dalyviai, turintys 25 procentus ar daugiau akcijų (pajų, dalių) tame kitame vienete, jei tie vienetai sudaro vieną vienetų grupę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 6) vienetas ir kito vieneto valdymo organų nariai, jei tie vienetai sudaro vieną vienetų grupę;
 
-7) vienetas ir kito vieneto dalyvių arba valdymo organų narių sutuoktiniai, sužadėtiniai, sugyventiniai, kiti fiziniai asmenys, susiję su kito vieneto dalyviais arba valdymo organų nariais giminystės ryšiais (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) arba svainystės santykiais (fizinis asmuo ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), taip pat kito vieneto dalyvių arba valdymo organų narių sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), kito vieneto dalyvių arba valdymo organų narių giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai, jei tie apmokestinamieji vienetai sudaro vieną vienetų grupę;
+7) vienetas ir kito vieneto dalyvių, turinčių 25 procentus ar daugiau akcijų (pajų, dalių) tame kitame vienete, arba valdymo organų narių sutuoktiniai, sužadėtiniai, sugyventiniai, kiti fiziniai asmenys, susiję su kito vieneto dalyviais arba valdymo organų nariais giminystės ryšiais (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) arba svainystės santykiais (fizinis asmuo ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), taip pat kito vieneto dalyvių arba valdymo organų narių sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), kito vieneto dalyvių arba valdymo organų narių giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai, jei tie apmokestinamieji vienetai sudaro vieną vienetų grupę;
 
-8) du vienetai, jei vienas jų tiesiogiai ar netiesiogiai (per vieną ar kelis vienetus ar fizinius asmenis) valdo daugiau kaip 25 procentus kito akcijų (dalių, pajų) arba turi teises į daugiau kaip 25 procentus visų kito iš jų sprendžiamųjų balsų, arba yra įsipareigojęs derinti savo veiklos sprendimus su kitu vienetu, arba yra įsipareigojęs atsakyti už kito prievolių tretiesiems asmenims įvykdymą, arba tam kitam vienetui yra įsipareigojęs perduoti visą arba dalį pelno ar suteikęs teisę naudoti daugiau kaip 25 procentus savo turto;
+Straipsnio punkto pakeitimai:
 
-9) du vienetai, jei tie patys dalyviai ar jų sutuoktiniai, sužadėtiniai, sugyventiniai, fiziniai asmenys, susiję giminystės ryšiais (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki ketvirtojo laipsnio) arba svainystės santykiais (fizinis asmuo ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio), taip pat fizinis asmuo ir jo sugyventinio giminaičiai (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio), fizinis asmuo ir jo giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai ir šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) tiesiogiai ar netiesiogiai valdo 25 procentus akcijų (dalių, pajų) kiekviename iš jų;
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
-10) vienetas ir jo nuolatinė buveinė;
+8) du vienetai, jei vienas jų tiesiogiai ar netiesiogiai (per vieną ar kelis vienetus ar fizinius asmenis) valdo 25 procentus ar daugiau kito akcijų (dalių, pajų) arba turi teises į 25 procentus ar daugiau visų kito iš jų sprendžiamųjų balsų, arba yra įsipareigojęs derinti savo veiklos sprendimus su kitu vienetu, arba yra įsipareigojęs atsakyti už kito prievolių tretiesiems asmenims įvykdymą, arba tam kitam vienetui yra įsipareigojęs perduoti visą arba dalį pelno ar suteikęs teisę naudoti 25 procentus ar daugiau savo turto;
 
-11) du vienetai, kai vienam iš jų priklauso sprendimų priėmimo teisė kitame.
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+9) du vienetai, jei tie patys dalyviai ar jų sutuoktiniai, sužadėtiniai, sugyventiniai, fiziniai asmenys, susiję giminystės ryšiais (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki ketvirtojo laipsnio) arba svainystės santykiais (fizinis asmuo ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio), taip pat fizinis asmuo ir jo sugyventinio giminaičiai (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio), fizinis asmuo ir jo giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai ir šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) tiesiogiai ar netiesiogiai valdo 25 procentus ar daugiau akcijų (dalių, pajų) kiekviename iš jų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+10) vienetas ir jo nuolatinė buveinė, taip pat kito vieneto nuolatinė buveinė, jei tie vienetai sudaro vieną vienetų grupę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+11) vieneto nuolatinės buveinės;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+12) vieneto nuolatinė buveinė ir kito vieneto nuolatinė buveinė, jei tie vienetai sudaro vieną vienetų grupę;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+13) du vienetai, kai vienam iš jų priklauso sprendimų priėmimo teisė kitame.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 34. Su tarptautiniu vežimu jūrų laivais tiesiogiai susijusi veikla – paslaugos, būtinos tarptautiniam vežimui jūrų laivais, ir (arba) kitos ekonomiškai svarbios priemonės:
 
@@ -282,6 +346,12 @@ Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 6) šioje teritorijoje nėra finansinio-administracinio skaidrumo: nevisiškai aiškios mokesčio administravimo taisyklės ir šių taisyklių taikymo tvarka nėra pateikiama kitų valstybių mokesčių administratoriams.
 
 39. Transportavimo pajamos – pajamos, gautos iš krovinių gabenimo geležinkelių, kelių, vandens, oro transportu naudojant nuosavus arba nuomojamus automobilius, laivus, orlaivius, riedmenis, kroviniams transportuoti skirtas talpas (konteinerius, cisternas ir kt.) ir iš krovinių transportavimo vamzdynais. Tokioms pajamoms priskiriamos ir pajamos iš paslaugų, tiesiogiai susijusių su krovinių gabenimu ar transportavimu.
+
+391. Turto perkėlimas – operacija, kai vieneto turtas, naudojamas vieneto Lietuvos Respublikoje vykdomai veiklai, perkeliamas į užsienio valstybę ir pradedamas naudoti užsienio valstybėje vykdomai veiklai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 40. Veikla – bet kokio pobūdžio komercinė arba gamybinė veikla, kuria siekiama gauti ir (arba) uždirbti pajamų ar kokios kitos ekonominės naudos.
 
@@ -401,7 +471,23 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 1) gauta parama, panaudota ne pagal Lietuvos Respublikos labdaros ir paramos įstatyme nustatytą paramos paskirtį;
 
-2) iš vieno paramos teikėjo per mokestinį laikotarpį grynais pinigais gautos paramos dalis, viršijanti 250 minimalių gyvenimo lygių (toliau – MGL) dydžio sumą.
+2) iš vieno paramos teikėjo per mokestinį laikotarpį grynais pinigais gautos paramos dalis, viršijanti 250 minimalių gyvenimo lygių (toliau – MGL) dydžio sumą;
+
+3) bet kokia gauta mokėjimo suma, kuri, jeigu yra mokestinės tvarkos neatitikimas, atskaitoma mokėjimo valstybėje, tačiau neįtraukiama į pajamas taikant šio Įstatymo nuostatas. Šio punkto nuostatos netaikomos, kai mokestinės tvarkos neatitikimas yra susijęs su nuolatinės buveinės ar jai priskiriamų pajamų (sąnaudų) teisinio reglamentavimo ar traktavimo skirtumais;
+
+TAR pastaba. 3 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+4) pajamos dėl turto perkėlimo, apskaičiuotos šio Įstatymo 402 straipsnyje nustatyta tvarka.
+
+TAR pastaba. 4 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 7. Šio straipsnio nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 381 straipsnio nuostatas taikomas fiksuotas pelno mokestis.
 
@@ -1263,11 +1349,15 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
 
-14. 2016 m. liepos 12 d. Tarybos direktyva (ES) 2016/1164, kuria nustatomos kovos su mokesčių vengimo praktika, tiesiogiai veikiančia vidaus rinkos veikimą, taisyklės (OL 2016 L 193, p. 1).
+14. 2016 m. liepos 12 d. Tarybos direktyva (ES) 2016/1164, kuria nustatomos kovos su mokesčių vengimo praktika, tiesiogiai veikiančia vidaus rinkos veikimą, taisyklės (OL 2016 L 193, p. 1), su paskutiniais pakeitimais, padarytais 2017 m. gegužės 29 d. Tarybos direktyva (ES) 2017/952 (OL 2017 L 144, p. 1).
 
 Papildyta punktu:
 
 Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+
+Punkto pakeitimai:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 Įstatymas papildytas priedėliu:
 
@@ -1411,6 +1501,38 @@ Nr. XII-1466, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21227
 
 3) tarp išmokos ir ekonomiškai pagrįstos ūkinės operacijos yra ryšys.
 
+3. Kai yra mokestinės tvarkos neatitikimas, kurio pasekmė yra dvigubas mokėjimo sumos atskaitymas iš pajamų dviejose valstybėse, neleidžiamiems atskaitymams priskiriama vieneto mokėjimo suma, atskaitoma iš pajamų užsienio valstybėje. Pagal šią dalį neleidžiamiems atskaitymams priskirta mokėjimo suma sumažinama dėl mokestinės tvarkos neatitikimo į apmokestinamąsias pajamas dvigubai (dviejose valstybėse) įtrauktų pajamų suma. Likusi dėl mokestinės tvarkos neatitikimo neatskaityta mokėjimo suma perkeliama į kitus mokestinius laikotarpius ir ja mažinama kitais mokestiniais laikotarpiais į apmokestinamąsias pajamas dvigubai (dviejose valstybėse) įtrauktų pajamų suma.
+
+TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+4. Kai yra mokestinės tvarkos neatitikimas, kurio pasekmė yra mokėjimo sumos atskaitymas iš pajamų vienoje valstybėje, kai mokėjimo suma neįtraukiama į apmokestinamąsias pajamas kitoje valstybėje, vieneto atlikto mokėjimo suma priskiriama neleidžiamiems atskaitymams.
+
+TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+5. Tuo atveju, kai Lietuvos vienetas tuo pačiu metu laikomas pelno mokesčio ar jam tapataus mokesčio mokėtoju vienoje ar keliose užsienio valstybėse ir dėl šios priežasties Lietuvos vieneto atliekamo mokėjimo suma atskaitoma iš pajamų dviejose ar daugiau valstybių, toks Lietuvos vieneto atliktas mokėjimas priskiriamas neleidžiamiems atskaitymams. Ši nuostata taikoma tik tuo atveju, jeigu Lietuvos vieneto atliekamo mokėjimo suma atskaitoma iš pajamų, kurios pajamomis nelaikomos bet kurioje užsienio valstybėje, kurioje Lietuvos vienetas laikomas pelno mokesčio ar jam tapataus mokesčio mokėtoju. Jeigu Lietuvos vienetas tuo pačiu metu laikomas pelno mokesčio ar jam tapataus mokesčio mokėtoju užsienio valstybėje, su kuria Lietuvos Respublika yra sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartį, šios dalies nuostatos taikomos tik tuo atveju, jeigu pagal dvigubo apmokestinimo išvengimo sutartį su ta užsienio valstybe Lietuvos vienetas laikomas pelno mokesčio ar jam tapataus mokesčio mokėtoju toje užsienio valstybėje.
+
+TAR pastaba. 5 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+6. Vieneto mokėjimas, kuriuo tiesiogiai arba netiesiogiai, sudarant asocijuotų asmenų tarpusavio sandorį ar kelis sandorius, arba pagal struktūrinį susitarimą finansuojamos užsienio valstybėje atskaitomos išlaidos ir tai lemia mokestinės tvarkos neatitikimą, priskiriamas neleidžiamiems atskaitymams, išskyrus atvejus, kai vienoje iš valstybių, susijusių su asocijuotų asmenų tarpusavio sandoriu ar keliais sandoriais arba struktūriniu susitarimu, panaikinamos mokestinės tvarkos neatitikimo pasekmės neleidžiant atskaityti mokėjimo sumos arba ją įtraukiant į apmokestinamąsias pajamas.
+
+TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
 Straipsnio pakeitimai:
 
 Nr. IX-1659, 2003-07-01, Žin., 2003, Nr. 74-3417 (2003-07-25)
@@ -1539,13 +1661,15 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 14) kompensacijos, gautos pagal Europos Sąjungos finansinės paramos Lietuvos Respublikos programas už žvejybos laivų atidavimą į metalo laužą;
 
-15) turto vertės padidėjimo pajamos už vieneto, kuris įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno mokesčio arba jam tapataus mokesčio mokėtojas, akcijų perleidimą kitam vienetui arba fiziniam asmeniui, jei akcijas perleidžiantis vienetas ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 10 procentų balsus suteikiančių šio vieneto akcijų arba jei akcijos buvo perleistos šio Įstatymo 41 straipsnio 2 dalyje nurodytais reorganizavimo ar perleidimo atvejais, ne trumpiau kaip 3 metus be pertraukų turėjo daugiau kaip 10 procentų balsus suteikiančių šio vieneto akcijų. Ši lengvata netaikoma tuo atveju, kai akcijas perleidžiantis vienetas jas perleidžia šias akcijas išleidusiam vienetui. Į šiame punkte nustatytus terminus dėl akcijų turėjimo neatsižvelgiama tais atvejais, kai akcijos perleidžiamos dėl teisės aktų reikalavimų. Šiame punkte vartojama sąvoka „akcija“ apima ir turimas teises į rizikos ir privataus kapitalo subjektų paskirstytinojo pelno dalį;
+15) turto vertės padidėjimo pajamos už vieneto, kuris įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno mokesčio arba jam tapataus mokesčio mokėtojas, akcijų perleidimą kitam vienetui arba fiziniam asmeniui, jei akcijas perleidžiantis vienetas ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 10 procentų balsus suteikiančių šio vieneto akcijų arba jei akcijos buvo perleistos šio Įstatymo 41 straipsnio 2 dalyje nurodytais reorganizavimo ar perleidimo atvejais, ne trumpiau kaip 3 metus be pertraukų turėjo daugiau kaip 10 procentų balsus suteikiančių šio vieneto akcijų. Ši lengvata netaikoma tuo atveju, kai turtas perkeliamas, taip pat tuo atveju, kai akcijas perleidžiantis vienetas jas perleidžia šias akcijas išleidusiam vienetui. Į šiame punkte nustatytus terminus dėl akcijų turėjimo neatsižvelgiama tais atvejais, kai akcijos perleidžiamos dėl teisės aktų reikalavimų. Šiame punkte vartojama sąvoka „akcija“ apima ir turimas teises į rizikos ir privataus kapitalo subjektų paskirstytinojo pelno dalį;
 
-TAR pastaba. 15 punkto nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+TAR pastaba. 15 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 16) draudimo įmonių gyvybės draudimo įmokos, jei draudimo sutarties terminas ne trumpesnis kaip 10 metų arba jei draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, draudimo įmonių gyvybės draudimo investicinės pajamos, išskyrus dividendus ir kitą paskirstytąjį pelną, bei draudimo įmonių draudimo investicinės pajamos pagal profesinių pensijų gyvybės draudimo sutartis, sudarytas pagal Profesinių pensijų kaupimo įstatymo nuostatas;
 
@@ -1963,10 +2087,6 @@ Straipsnio naikinimas:
 
 Nr. XIII-88, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29276
 
-IX SKYRIUS
-
-REORGANIZAVIMO, PERLEIDIMO, LIKVIDAVIMO PASKIRŲ ATVEJŲ APMOKESTINIMAS, TURTO VERTĖS PAJAMŲ BEI NUOSTOLIŲ PRIPAŽINIMAS TAM TIKRAIS REORGANIZAVIMO, LIKVIDAVIMO, PERLEIDIMO ATVEJAIS
-
 461 straipsnis. Apmokestinamojo pelno sumažinimas dėl vykdomo investicinio projekto
 
 1. Vienetas, vykdantis investicinį projektą, apmokestinamąjį pelną gali sumažinti šiame straipsnyje nustatyta tvarka. Apmokestinamąjį pelną galima sumažinti per mokestinį laikotarpį, už kurį apskaičiuotas apmokestinamasis pelnas mažinamas, faktiškai patirtų išlaidų šioje dalyje nurodytus reikalavimus atitinkančiam turtui įsigyti dydžiu (įsigyjant krovininius automobilius, priekabas ir puspriekabes, apmokestinamąjį pelną dėl šio turto įsigijimo galima sumažinti tik iki 300 000 eurų patirtų išlaidų per mokestinį laikotarpį suma). Apmokestinamasis pelnas mažinamas, jeigu turtas yra reikalingas vieneto investiciniam projektui vykdyti ir:
@@ -2027,6 +2147,14 @@ Nr. XII-428, 2013-06-27, Žin., 2013, Nr. 75-3757 (2013-07-13)
 
 2. Šiame straipsnyje nustatyta tvarka perduotais mokestiniais nuostoliais, patirtais dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo, gali būti sumažinta tik iš vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo veiklos apskaičiuota apmokestinamojo pelno suma.
 
+21. Šiame straipsnyje nustatyta tvarka perduotų mokestinių nuostolių, patirtų dėl turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn ir apskaičiuotų pagal šio Įstatymo 5 straipsnio 9 dalyje nustatytą formulę, suma gali būti sumažinta tik pagal šio Įstatymo 5 straipsnio 9 dalyje nustatytą formulę apskaičiuoto apmokestinamojo pelno suma.
+
+TAR pastaba. 21 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
 3. Šiame straipsnyje nustatyta tvarka perduotų mokestinių nuostolių juos perdavęs vienetas negali priskirti ribojamų dydžių leidžiamiems atskaitymams šio Įstatymo 30 straipsnyje nustatyta tvarka.
 
 4. Šiame straipsnyje nustatyta tvarka užsienio vienetas Lietuvos vienetui mokestinius nuostolius (ar jų dalį) gali perduoti tik tuo atveju, jeigu:
@@ -2044,10 +2172,6 @@ Nr. XII-428, 2013-06-27, Žin., 2013, Nr. 75-3757 (2013-07-13)
 7. Vienetas, turintis mokestinę nepriemoką, negali šiame straipsnyje nustatyta tvarka perduoti mokestinių nuostolių kitam vienetui.
 
 8. Vienetas šiame straipsnyje nustatyta tvarka už mokestinį laikotarpį apskaičiuotų mokestinių nuostolių perduoti negali, jeigu apmokestinamojo pelno apskaičiavimo už tą mokestinį laikotarpį atveju vienetas pelno arba jam tapataus mokesčio nemokėtų dėl vienetui taikytinų lengvatų (apmokestinamasis pelnas būtų buvęs apmokestintas taikant 0 procentų mokesčio tarifą arba vienetas būtų buvęs atleistas nuo mokesčio mokėjimo).
-
-XI SKYRIUS
-
-APSKAITOS REIKALAVIMAI
 
 40 straipsnis. Sandorių arba ūkinių operacijų vertės koregavimas ir pajamų ar
 
@@ -2076,6 +2200,14 @@ Nr. IX-1972, 2004-01-22, Žin., 2004, Nr. 25-748 (2004-02-14)
 5. Tais atvejais, kai vertybiniai popieriai mainomi į kitą turtą, šio turto įsigijimo kaina yra šių vertybinių popierių tikroji rinkos kaina turto įsigijimo momentu.
 
 6. Kai gyventojas baigia vykdyti individualią veiklą ir nerealizuotas prekes perduoda savo ar sutuoktinio įsteigtam naujam vienetui, šių prekių įsigijimo kaina vienetui yra šių prekių įsigijimo kaina, nurodyta gyventojo, vykdžiusio individualią veiklą, prekių įsigijimo dokumentuose, išskyrus atvejus, kai šiuo turtu apmokamos to vieneto akcijos (dalys, pajai).
+
+7. Tuo atveju, jeigu turtas perkeliamas į Lietuvos Respubliką ir šis turto perkėlimas apmokestinamas užsienio valstybėje įgyvendinant Direktyvos (ES) 2016/1164 5 straipsnio nuostatas, šio turto įsigijimo kaina yra tikroji jo rinkos kaina, pripažinta turto perkėlimo į Lietuvos Respubliką momentu.
+
+TAR pastaba. 7 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 Straipsnio pakeitimai:
 
@@ -2265,11 +2397,23 @@ Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 
 3. Jeigu mokesčio mokėtojas gauna mokestinius nuostolius ilgiau negu vienerius mokestinius metus, pirmiausia perkeliami ankstesnių metų mokestinio laikotarpio nuostoliai. Vėliau patirti nuostoliai perkeliami tik padengus ankstesnių mokestinių laikotarpių nuostolius.
 
-4. Mokestinio laikotarpio nuostolius, išskyrus nuostolius dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo (ne finansų įstaigų), galima perkėlinėti neribotą laikotarpį, tačiau toks perkėlimas nutraukiamas, jeigu vienetas nebetęsia veiklos, dėl kurios šie nuostoliai susidarė, išskyrus atvejus, kai vienetas veiklos nebetęsia dėl nuo jo nepriklausančių priežasčių. Šioje dalyje nurodytų perkeliamų atskaitomų mokestinių nuostolių, išskyrus mokestinius nuostolius vienetų, kurių apmokestinamasis pelnas pagal šio Įstatymo 5 straipsnio 2 dalies nuostatas apmokestinamas taikant 5 procentų mokesčio tarifą, suma negali būti didesnė kaip 70 procentų mokesčio mokėtojo mokestinio laikotarpio pajamų, apskaičiuotų iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus atskaitymus ir ribojamų dydžių leidžiamus atskaitymus, išskyrus ankstesnių metų mokestinių laikotarpių nuostolius.
+4. Mokestinio laikotarpio nuostolius, išskyrus nuostolius dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo (ne finansų įstaigų) ir nuostolius dėl turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn, apskaičiuotus pagal šio Įstatymo 5 straipsnio 9 dalyje nustatytą formulę, galima perkėlinėti neribotą laikotarpį, tačiau toks perkėlimas nutraukiamas, jeigu vienetas nebetęsia veiklos, dėl kurios šie nuostoliai susidarė, išskyrus atvejus, kai vienetas veiklos nebetęsia dėl nuo jo nepriklausančių priežasčių. Šioje dalyje nurodytų perkeliamų atskaitomų mokestinių nuostolių, išskyrus mokestinius nuostolius vienetų, kurių apmokestinamasis pelnas pagal šio Įstatymo 5 straipsnio 2 dalies nuostatas apmokestinamas taikant 5 procentų mokesčio tarifą, suma negali būti didesnė kaip 70 procentų mokesčio mokėtojo mokestinio laikotarpio pajamų, apskaičiuotų iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus atskaitymus ir ribojamų dydžių leidžiamus atskaitymus, išskyrus ankstesnių metų mokestinių laikotarpių nuostolius.
+
+TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 5. Nuostoliai dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo (ne finansų įstaigų) perkeliami ne ilgiau kaip penkis vienas po kito einančius mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kuris eina po to mokestinio laikotarpio, kurį šie nuostoliai susidarė.
 
-6. Lietuvos vienetų nuolatinių buveinių, laikomų mokesčių mokėtojais ne pagal Lietuvos Respublikos teisės aktus, mokestinio laikotarpio nuostoliai neperkeliami.
+6. Lietuvos vieneto nuolatinės buveinės, kurios pajamos pagal šio Įstatymo 4 straipsnio 1 dalį nepriskiriamos Lietuvos vieneto mokesčio bazei, mokestinių nuostolių perdavimo ir atskaitymo tvarka nustatyta šio Įstatymo 562 straipsnyje.
+
+TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 7. Vienetus reorganizuojant, likviduojant, pertvarkant, Lietuvos vienetui (Europos bendrovei ar Europos kooperatinei bendrovei) perkeliant registruotą buveinę į kitą Europos Sąjungos valstybę narę, tam tikrais atvejais susidariusių nuostolių perkėlimo atvejai nustatyti šio Įstatymo IX skyriuje.
 
@@ -2541,6 +2685,14 @@ Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 
 8. Neteko galios nuo 2009-01-01.
 
+9. Tais atvejais, kai mokestinės tvarkos neatitikimu dėl finansinės priemonės perleidimo pasinaudojama siekiant daugiau negu vienoje valstybėje atskaityti užsienio valstybėje nuo mokėjimo sumos, gautos pagal perleistą finansinę priemonę, sumokėtą pelno mokestį ar jam tapatų mokestį, atskaitoma pelno mokesčio, sumokėto užsienio valstybėje, suma negali viršyti nuo apmokestinamojo pelno, susijusio su tokiu mokėjimu, pagal šį Įstatymą apskaičiuotos pelno mokesčio sumos.
+
+TAR pastaba. 9 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
 Straipsnio pakeitimai:
 
 Nr. IX-1659, 2003-07-01, Žin., 2003, Nr. 74-3417 (2003-07-25)
@@ -2732,4 +2884,88 @@ TAR pastaba. Papildymas 591 straipsniu įsigalioja Jungtinės Didžiosios Britan
 Papildyta straipsniu:
 
 Nr. XIII-2052, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06688
+
+383 straipsnis. Papildomo kredito įstaigų pelno mokesčio apskaičiavimas, deklaravimas ir sumokėjimas
+
+1. Pagal Lietuvos Respublikos bankų įstatymą veikiantys bankai, tarp jų užsienio komercinių bankų filialai, pagal Lietuvos Respublikos kredito unijų įstatymą veikiančios kredito unijos ir pagal Lietuvos Respublikos centrinių kredito unijų įstatymą veikiančios centrinės kredito unijos papildomą kredito įstaigų pelno mokestį apskaičiuoja, deklaruoja ir sumoka šiame straipsnyje nustatyta tvarka.
+
+2. Kredito įstaigų apmokestinamasis pelnas, apskaičiuotas iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus ir ribojamų dydžių leidžiamus atskaitymus (išskyrus mokslinių tyrimų ir eksperimentinės plėtros darbų sąnaudų padidintų atskaitymų sumą, apmokestinamųjų pajamų sumažinimo dėl filmo arba jo dalies gamybai neatlygintinai suteiktų lėšų sumą, atskaitomą suteiktos paramos sumą ir praėjusių mokestinių laikotarpių nuostolių, atskaitomų iš mokestinio laikotarpio pajamų, sumą), apmokestinamas taikant 5 procentų papildomo kredito įstaigų pelno mokesčio tarifą.
+
+3.  Apskaičiuojant pagal šį straipsnį apmokestinamą kredito įstaigų pelną, į šio Įstatymo IX1ir X1 skyrių nuostatas neatsižvelgiama.
+
+4. Šio straipsnio taikymo tikslais į kredito įstaigos pajamas neįtraukiamos pozityviosios pajamos ir gauti dividendai.
+
+5. Papildomu kredito įstaigų pelno mokesčiu neapmokestinama šio straipsnio 2, 3 ir 4 dalyse nustatyta tvarka apskaičiuoto pelno dalis, neviršijanti 2 000 000 eurų.
+
+6. Kredito įstaigos moka avansinį papildomą kredito įstaigų pelno mokestį. Pirmųjų dviejų mokestinio laikotarpio ketvirčių avansinis papildomas kredito įstaigų pelno mokestis sudaro po 1/4 už mokestinį laikotarpį, buvusį prieš praėjusį mokestinį laikotarpį, šiame straipsnyje nustatyta tvarka apskaičiuojamo papildomo kredito įstaigų pelno mokesčio sumos. Trečiojo ir ketvirtojo mokestinio laikotarpio ketvirčių avansinis papildomas kredito įstaigų pelno mokestis sudaro po 1/4 už praėjusį mokestinį laikotarpį šiame straipsnyje nustatyta tvarka apskaičiuojamo papildomo kredito įstaigų pelno mokesčio sumos. Pirmųjų dviejų mokestinio laikotarpio ketvirčių avansinio papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama mokesčių administratoriui ne vėliau kaip mokestinio laikotarpio trečio mėnesio penkioliktą dieną. Trečiojo ir ketvirtojo mokestinio laikotarpio ketvirčių avansinio papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama mokesčių administratoriui ne vėliau kaip mokestinio laikotarpio devinto mėnesio penkioliktą dieną. Avansinis pelno mokestis turi būti sumokėtas į valstybės biudžetą ne vėliau kaip kiekvieno mokestinio laikotarpio ketvirčio paskutinio mėnesio penkioliktą dieną.
+
+7. Kredito įstaigos atleidžiamos nuo avansinio papildomo kredito įstaigų pelno mokesčio mokėjimo už pirmąjį mokestinį laikotarpį, kaip jis suprantamas pagal šio Įstatymo 6 straipsnio 3 dalį, o antrąjį mokestinį laikotarpį avansinis papildomas kredito įstaigų pelno mokestis pradedamas mokėti nuo trečiojo ketvirčio. Jeigu mokestinis laikotarpis, buvęs prieš praėjusį mokestinį laikotarpį, buvo trumpesnis negu dvylika mėnesių, apskaičiuojant avansinį papildomą kredito įstaigų pelno mokestį už tą mokestinį laikotarpį šiame straipsnyje nustatyta tvarka apskaičiuojamo papildomo kredito įstaigų pelno mokesčio suma padalijama iš to mokestinio laikotarpio mėnesių skaičiaus ir padauginama iš dvylikos.
+
+8. Metinė papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama mokesčių administratoriui iki kito mokestinio laikotarpio šešto mėnesio penkioliktos dienos. Jeigu metinėje mokestinio laikotarpio papildomo kredito įstaigų pelno mokesčio deklaracijoje apskaičiuota pelno mokesčio suma viršija sumokėtą to mokestinio laikotarpio avansinio papildomo kredito įstaigų pelno mokesčio sumą, apskaičiuotas skirtumas sumokamas į valstybės biudžetą iki kito mokestinio laikotarpio šešto mėnesio penkioliktos dienos. Mokesčio permoka grąžinama Mokesčių administravimo įstatymo nustatyta tvarka. Paskutinio mokestinio laikotarpio papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama ir mokestis sumokamas per 30 dienų nuo veiklos pabaigos.
+
+9. Papildomo kredito įstaigų pelno mokesčio ir avansinio papildomo kredito įstaigų pelno mokesčio deklaracijų formas, jų pildymo tvarką, kartu su deklaracijomis reikalaujamus pateikti kitus duomenis nustato centrinis mokesčių administratorius.
+
+TAR pastaba. 383 straipsnio nuostatos taikomos apskaičiuojant ir deklaruojant 2020, 2021 ir 2022 metų mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsniu:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+402 straipsnis. Turto perkėlimo apmokestinimas
+
+1. Turto perkėlimas iš Lietuvos Respublikos apmokestinamas šiame straipsnyje nustatyta tvarka, jeigu yra viena iš šių aplinkybių:
+
+1) Lietuvos vienetas priskiria turtą užsienio valstybėje per nuolatinę buveinę vykdomai veiklai, o turto savininkas nesikeičia;
+
+2) užsienio vienetas, vykdantis veiklą Lietuvos Respublikoje per nuolatinę buveinę, priskiria turtą savo vykdomai veiklai kitoje užsienio valstybėje, o turto savininkas nesikeičia;
+
+3) Lietuvos vienetas perkelia Lietuvos Respublikoje vykdomą veiklą į užsienio valstybę, išskyrus atvejus, kai turtas, kuris buvo naudojamas Lietuvos Respublikoje vykdomai veiklai, toliau naudojamas užsienio vieneto per nuolatinę buveinę vykdomai veiklai Lietuvos Respublikoje;
+
+4) užsienio vienetas, vykdantis veiklą Lietuvos Respublikoje per nuolatinę buveinę, perkelia vykdomą veiklą į užsienio valstybę.
+
+2. Turto perkėlimo momentu vienetas pripažįsta turto vertės padidėjimo pajamas, kurias sudaro perkelto turto tikrosios rinkos kainos perkėlimo momentu ir turto įsigijimo kainos skirtumas.
+
+3. Jeigu perkeliamas vieneto turtas, kurio nusidėvėjimas arba amortizacija buvo skaičiuojami pelno mokesčiui apskaičiuoti, apskaičiuojant turto vertės padidėjimo pajamas, to turto įsigijimo kaina mažinama jo nusidėvėjimo ar amortizacijos suma, įtraukta į ribojamų dydžių leidžiamus atskaitymus.
+
+4. Tais atvejais, kai turtas perkeliamas į kitas Europos ekonominės erdvės valstybes, kurios su Lietuvos Respublika arba Europos Sąjunga yra sudariusios susitarimą dėl savitarpio pagalbos išieškant mokesčius, kuri yra lygiavertė 2010 m. kovo 16 d. Tarybos direktyvoje 2010/24/ES dėl savitarpio pagalbos vykdant reikalavimus, susijusius su mokesčiais, muitais ir kitomis priemonėmis (OL 2010 L 84, p. 1) (toliau – Direktyva 2010/24/ES), numatytai savitarpio pagalbai, vienetas pagal šį straipsnį apskaičiuotas pajamas į mokesčių bazę gali įtraukti lygiomis dalimis per 5 metus, skaičiuojamus nuo turto perkėlimo pradžios. Pajamų išdėstymas dalimis nutraukiamas ir likusi neįtraukta pajamų dalis įtraukiama į to mokestinio laikotarpio pajamas, kurį paaiškėja, kad:
+
+1) perkeltas turtas yra parduodamas ar kitaip perleidžiamas nuosavybėn arba
+
+2) perkeltas turtas per 5 metus nuo jo perkėlimo perkeliamas į ne Europos ekonominės erdvės valstybę arba Europos ekonominės erdvės valstybę, su kuria Lietuvos Respublika arba Europos Sąjunga nėra sudariusi susitarimo dėl savitarpio pagalbos išieškant mokesčius, kuri yra lygiavertė Direktyvoje 2010/24/ES numatytai savitarpio pagalbai, arba
+
+3) vienetui pradedama bankroto arba likvidavimo procedūra, arba
+
+4) vienetas neįvykdo pelno mokesčio prievolių per 12 mėnesių nuo šio Įstatymo 53 straipsnyje nustatytų pelno mokesčio sumokėjimo terminų pabaigos.
+
+5. Šio straipsnio nuostatos netaikomos turto perkėlimui trumpesniam kaip 12 mėnesių laikotarpiui, kai turtas perkeliamas vertybiniams popieriams finansuoti arba kaip užstatas (avansas), arba siekiant įvykdyti kapitalo reikalavimus dėl rizikos ribojimo, arba likvidumo valdymo tikslais.
+
+TAR pastaba. 402 straipsnio nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsniu:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+IX SKYRIUS
+
+REORGANIZAVIMO, PERLEIDIMO, LIKVIDAVIMO PASKIRŲ ATVEJŲ APMOKESTINIMAS, TURTO VERTĖS PAJAMŲ BEI NUOSTOLIŲ PRIPAŽINIMAS TAM TIKRAIS REORGANIZAVIMO, LIKVIDAVIMO, PERLEIDIMO ATVEJAIS
+
+562 straipsnis. Nuolatinės buveinės mokestinių nuostolių perdavimas
+
+Lietuvos vieneto nuolatinės buveinės, kurios pajamos pagal šio Įstatymo 4 straipsnio 1 dalį nepriskiriamos Lietuvos vieneto mokesčio bazei, nuostoliai gali būti perduodami ir atskaitomi iš Lietuvos vieneto pajamų šio Įstatymo 30 straipsnyje nustatyta tvarka tik tuo atveju, jeigu:
+
+1) nuolatinei buveinei priskirtas pelnas apmokestinamas Europos Sąjungos valstybėje narėje 2009 m. spalio 19 d. Tarybos direktyvos 2009/133/EB dėl bendros mokesčių sistemos, taikomos įvairių valstybių narių įmonių jungimui, skaidymui, daliniam skaidymui, turto perleidimui bei keitimuisi akcijomis, ir SE arba SCE registruotos buveinės perkėlimui iš vienos valstybės narės į kitą (OL 2009 L 310, p. 34), 3 straipsnio c punkte nustatytu mokesčiu ir
+
+2) yra išnaudotos visos galimybės atskaityti nuostolius valstybėje, kurioje yra nuostolius perduodanti nuolatinė buveinė, ir
+
+3) nuolatinės buveinės perduodami mokestiniai nuostoliai yra apskaičiuoti (perskaičiuoti) pagal šio Įstatymo nuostatas.
+
+TAR pastaba. 562 straipsnio nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsniu:
+
+Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+
+XI SKYRIUS
+
+APSKAITOS REIKALAVIMAI
 
