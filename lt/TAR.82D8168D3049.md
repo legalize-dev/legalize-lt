@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2018-12-15"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2018-12-15 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-01-16
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -820,15 +820,19 @@ Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
 
 41 straipsnis. Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsauga
 
-1. Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zoną sudaro žemės, kaip ji apibrėžta Žemės įstatyme, ruožas, esantis išilgai viešųjų ryšių tinklų laidinių linijų ir aplink elektroninių ryšių infrastruktūros objektus, su jame esančia augmenija ir statiniais. Šioje zonoje draudžiama statyti statinius, sandėliuoti įrenginius ir medžiagas, kasinėti, gręžti gręžinius, sprogdinti ir atlikti kitus darbus, kurių metu ar dėl jų gali būti pažeista elektroninių ryšių infrastruktūra, be išankstinio elektroninių ryšių infrastruktūros savininkų sutikimo.
+1. Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonų dydis ir specialiosios žemės naudojimo sąlygos šiose zonose nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme.
 
-2. Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonų matmenis nustato Vyriausybė. Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonų žymėjimo būdus, darbų atlikimo šiose zonose tvarką nustato Ryšių reguliavimo tarnyba.
+2. Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonų žymėjimo būdus, darbų atlikimo šiose zonose tvarką nustato Ryšių reguliavimo tarnyba.
 
 3. Už viešųjų ryšių tinklų elektroninių ryšių infrastruktūros priežiūrą yra atsakingi infrastruktūros savininkai.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2172, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09944
 
 42 straipsnis. Prisijungimas prie elektroninių ryšių tinklų
 
@@ -1923,6 +1927,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 7, 9, 37 straipsnių ir 2 priedo pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2172, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09944
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 41 straipsnio pakeitimo įstatymas
 
 3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
