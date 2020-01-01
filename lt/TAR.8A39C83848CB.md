@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-23
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -6085,11 +6085,15 @@ Jeigu pagal nekilnojamojo daikto pirkimo–pardavimo sutartį pardavėjas perduo
 
 6.410 straipsnis. Atvejai, kuriais šio skirsnio normos netaikomos
 
-Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda jos administratorius ar antstolis.
+1. Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda antstolis.
+
+2. Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, bankroto proceso metu taikomos tiek, kiek juridinių asmenų nemokumą reglamentuojantis įstatymas nenustato kitaip.
 
 Straipsnio pakeitimai:
 
 Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
+
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
 
 Dešimtasis skirsnis
 
@@ -7081,7 +7085,11 @@ Lizingo davėjas, pirkdamas daiktą lizingui, privalo pranešti pardavėjui, kad
 
 1. Lizingo davėjas savo nuosavybės teisę į lizingo sutarties dalyką, kuris nėra registruojamas daiktas, gali panaudoti prieš trečiuosius asmenis tik tuo atveju, jeigu lizingo sutartis buvo įregistruota įstatymų nustatyta tvarka.
 
-2. Lizingo gavėjo bankroto atveju lizingo davėjas gali panaudoti savo teises prieš lizingo gavėjo kreditorius ir administratorių tik tuo atveju, jeigu lizingo sutartis buvo įstatymų nustatyta tvarka įregistruota.
+2. Lizingo gavėjo bankroto atveju lizingo davėjas gali panaudoti savo teises prieš lizingo gavėjo kreditorius ir nemokumo administratorių tik tuo atveju, jeigu lizingo sutartis buvo įstatymų nustatyta tvarka įregistruota.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
 
 3. Lizingo sutarčiai, kurios dalykas yra nekilnojamasis daiktas, mutatis mutandis taikomos šio kodekso 6.478 straipsnio 2 dalyje numatytos taisyklės.
 
@@ -8383,11 +8391,13 @@ Pavedimas
 
 2. Pareigas, numatytas šio straipsnio 1 dalyje, taip pat turi ir įgaliotiniu esančio likviduojamo juridinio asmens likvidatorius.
 
-3. Šio straipsnio 1 ir 2 dalyse nustatytos taisyklės taip pat taikomos neveiksniu šioje srityje pripažinto įgaliotinio globėjui, ribotai veiksniu šioje srityje pripažintam įgaliotiniui kartu su rūpintoju arba įgaliotinio, kuriam iškelta bankroto byla, administratoriui.
+3. Šio straipsnio 1 ir 2 dalyse nustatytos taisyklės taip pat taikomos neveiksniu šioje srityje pripažinto įgaliotinio globėjui, ribotai veiksniu šioje srityje pripažintam įgaliotiniui kartu su rūpintoju arba įgaliotinio, kuriam iškelta bankroto byla, nemokumo administratoriui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
 
 XXXVII skyrius
 
@@ -11018,6 +11028,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
 
 Lietuvos Respublikos civilinio kodekso 4.184 ir 4.197 straipsnių pakeitimo įstatymas
+
+44.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+
+Lietuvos Respublikos civilinio kodekso 2.70, 2.106, 6.410, 6.572 ir 6.765 straipsnių pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
