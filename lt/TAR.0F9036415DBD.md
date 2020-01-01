@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2019-04-19"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-04-19 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-05-21
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
 
@@ -180,11 +180,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 
-3. Nesukakęs senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis nuolatinės slaugos poreikis, tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantys namuose šį neįgalų asmenį, draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, arba jų pajamos mažesnės negu atitinkamą laikotarpį Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d. Šioje dalyje nurodyti asmenys draudžiami pensijų socialiniu draudimu valstybės lėšomis tik tuo atveju, jeigu negauna jiems patiems priklausančios valstybinės socialinio draudimo pensijos, išskyrus valstybinę socialinio draudimo našlių (maitintojo netekimo) pensiją, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose.
+3. Nesukakęs senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis nuolatinės slaugos poreikis ar specialusis nuolatinės priežiūros (pagalbos) poreikis, tėvų (įtėvių) arba asmuo, paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantys ar nuolat prižiūrintys namuose šį neįgalų asmenį (teikiantys pagalbą namuose šiam neįgaliam asmeniui), draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, arba jų pajamos mažesnės negu atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d. Šioje dalyje nurodyti asmenys draudžiami pensijų socialiniu draudimu valstybės lėšomis tik tuo atveju, jeigu negauna jiems patiems priklausančios valstybinės socialinio draudimo pensijos, išskyrus valstybinę socialinio draudimo našlių (maitintojo netekimo) pensiją, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-929, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21602
+
+Nr. XIII-1961, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02744
 
 4. Lietuvos Respublikos kariuomenės privalomosios pradinės karo tarnybos kariai ir asmenys, atliekantys alternatyviąją krašto apsaugos tarnybą, valstybės lėšomis draudžiami pensijų, motinystės, nedarbo ir nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, skaičiuojant socialinio draudimo įmokas nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 
