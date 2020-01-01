@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2019-12-22"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-03-17
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -1579,7 +1579,7 @@ Seimo Pirmininko pavaduotojo patarėjas, opozicijos lyderio patarėjas
 
 skyriaus, kuris nėra kitame struktūriniame padalinyje, vedėjas, komisijos sekretoriato vadovas, tarybos sekretoriato vadovas,  seniūnas, skyriaus, kuris yra kitame struktūriniame padalinyje, vedėjas (Seimo kanceliarijoje)
 
-10–16,5
+11–16,5
 
 9–16
 
@@ -1591,7 +1591,7 @@ vyresnysis patarėjas, patarėjas (Seimo kanceliarijoje)
 
 ministro patarėjas
 
-10–16
+11–16
 
 9–15,5
 
@@ -1637,27 +1637,29 @@ vyresnysis specialistas, valstybinis auditorius, specialistas (Seimo kanceliarij
 
 Seimo nario patarėjas, Seimo nario padėjėjas, ministro padėjėjas, mero padėjėjas
 
-5,7–12
+6,7–12
 
-5,3–11,5
+6,3–11,5
 
-4,8–10,5
+5,8–10,5
 
 10.
 
 specialistas, teismo administracijos sekretorius, valstybinio auditoriaus padėjėjas, teismo posėdžių sekretorius
 
-4,6–11
+5,6–11
 
-4,3–10,5
+5,3–10,5
 
-4–9,5
+5–9,5
 
 Priedo pakeitimai:
 
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 Nr. XIII-1805, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21813
+
+Nr. XIII-2609, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20565
 
 Lietuvos Respublikos
 
