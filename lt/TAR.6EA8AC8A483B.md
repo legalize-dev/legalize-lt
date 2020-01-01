@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2019-12-22"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-07-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -420,9 +420,9 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 2. Statiniai ir įrenginiai geležinkelio stotyje turi būti išdėstyti taip, kad būtų saugu ir patogu juos pasiekti keleiviams bei privažiuoti automobilių transportui.
 
-19 straipsnis. Geležinkelio kelių ir jų įrenginių apsaugos zonos
+19 straipsnis. Geležinkelio kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonos
 
-1. Geležinkelio keliams ir jų įrenginiams yra nustatomos apsaugos zonos, kurios skirstomos į viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos, privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos bei geležinkelio želdinių apsaugos zonas.
+1. Geležinkelio keliams ir jų įrenginiams yra nustatomos apsaugos zonos, kurios skirstomos į viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos, privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos, siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžės) ir jų įrenginių apsaugos bei geležinkelio želdinių apsaugos zonas.
 
 2. Geležinkelio kelius ir įrenginius prižiūrinčios įmonės techniniai darbuotojai ir jų įgalioti asmenys turi teisę laisvai vaikščioti šių kelių ir jų įrenginių apsaugos zonoje, atlikti remonto, statybos ar kitus darbus, susijusius su geležinkelių transporto objektų naudojimu, važinėti, kasti žemę, kirsti medžius ir krūmus, tiesti vamzdynus, kabelius, oro elektros ir ryšių linijas. Apie tai ši įmonė turi informuoti žemės savininkus ar naudotojus ir įstatymų nustatyta tvarka atlyginti jiems padarytus nuostolius. Likviduojant geležinkelių transporto katastrofas, eismo įvykius, riktus ir jų padarinius arba siekiant jų išvengti, leidžiama privažiuoti prie geležinkelių transporto objektų taip, kaip reikia pagal situaciją, o padaryti nuostoliai atlyginami įstatymų nustatyta tvarka. Tais atvejais, kai medžiai, jų grupės, krūmai auga miško paskirties žemėje, miško naudotojai, kitais atvejais – geležinkelių infrastruktūros valdytojai turi užtikrinti, kad medžiai, jų grupės, krūmai nekeltų pavojaus geležinkelių transporto eismo saugai, priešingu atveju tokie medžiai, jų grupės, krūmai kertami, genimi susisiekimo ministro nustatyta tvarka, o nuostoliai atlyginami įstatymų nustatyta tvarka. Medžių ir krūmų pripažinimo keliančiais pavojų geležinkelių transporto eismo saugai sąlygas ir tvarką nustato susisiekimo ministras.
 
@@ -430,19 +430,7 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 4. Geležinkelio želdinių apsaugos zonose, ne miško paskirties žemėje augantys medžiai, jų grupės, krūmai kertami, genimi ar pertvarkomi aplinkos ministro nustatyta tvarka, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
 
-5. Geležinkelio kelių ir jų įrenginių apsaugos zonoje be geležinkelių infrastruktūros valdytojo rašytinio sutikimo draudžiama:
-
-1) kasti žemę giliau kaip 0,3 metro, mechanizuotai lyginti gruntą, atlikti sprogdinimo ir melioravimo darbus;
-
-2) sodinti ar kirsti medžius ir krūmus, išskyrus šio straipsnio 2 dalyje nurodytus atvejus;
-
-3) įrengti pervažas ir perėjas;
-
-4) statyti naujus ir rekonstruoti esamus pastatus, skirtus geležinkelių transporto veiklai, ir inžinerinius statinius.
-
-6. Geležinkelio kelių ir jų įrenginių apsaugos zonoje draudžiama statyti naujus ir rekonstruoti esamus pastatus, nesusijusius su geležinkelių transporto veikla.
-
-7. Geležinkelio kelių ir įrenginių apsaugos zonų, geležinkelio želdinių apsaugos zonų ribas nustato Vyriausybė.
+5. Geležinkelio kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonų dydis ir specialiosios žemės naudojimo sąlygos šiose zonose nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme.
 
 Straipsnio pakeitimai:
 
@@ -451,6 +439,8 @@ Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 Straipsnio pakeitimai:
 
 Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+
+Nr. XIII-2176, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09950
 
 20 straipsnis. Pervažos ir perėjos
 
