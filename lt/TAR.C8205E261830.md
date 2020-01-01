@@ -4,7 +4,7 @@ identifier: "TAR.C8205E261830"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2019-08-31"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2019-08-31 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-11-18
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
 
@@ -66,10 +66,6 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 6. Kompleksinė pagalba – socialinės, sveikatos priežiūros, švietimo, psichologinės ir kitokios pagalbos priemonių derinys, sudarantis sąlygas vaiko atstovams pagal įstatymą užtikrinti vaiko saugumą, kokybišką šeimos funkcionavimą ir būtiną jos gerovę.
 
-7. Mobilioji komanda – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba) specialistų grupė, skubiai suteikianti ir organizuojanti vaikui ir į krizę patekusiai šeimai individualią ar grupinę medicininę, psichologinę, socialinę, teisinę pagalbą.
-
-7 dalies redakcija, įsigaliojanti 2020-01-01:
-
 7. Mobilioji komanda – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba) specialistų grupė, teikianti į krizę patekusiai šeimai ir (ar) vaikui intensyvią pagalbą ir (ar) bendradarbiaujanti su atvejo vadybininku, nustačius vaiko apsaugos poreikį.
 
 Straipsnio dalies pakeitimai:
@@ -109,8 +105,6 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 14. Vaiko laikinoji priežiūra – visuma veiksmų, užtikrinančių vaikui saugią aplinką, tėvams ar kitiems vaiko atstovams pagal įstatymą išlaikant teises ir pareigas.
-
-TAR pastaba. Straipsnio papildymas nauja 14 dalimi įsigalioja 2020-01-01.
 
 Papildyta straipsnio dalimi:
 
@@ -368,15 +362,11 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 3. Vaiko laikinosios priežiūros metu ar laikino apgyvendinimo pas fizinius asmenis metu, kai nustatytas vaiko apsaugos poreikis, vaiką laikinai prižiūrinčiam asmeniui mokama vaiko laikinosios priežiūros išmoka Lietuvos Respublikos išmokų vaikams įstatymo nustatyta tvarka.
 
-TAR pastaba. Straipsnio papildymas 3 dalimi įsigalioja 2020-01-01.
-
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 4. Jeigu vaiko laikino apgyvendinimo paslaugą teikia juridinis asmuo, už šią paslaugą atlyginama pagal Socialinių paslaugų įstatymą kaip už socialinę priežiūrą.
-
-TAR pastaba. Straipsnio papildymas 4 dalimi įsigalioja 2020-01-01.
 
 Papildyta straipsnio dalimi:
 
@@ -618,8 +608,6 @@ PAGRINDINĖS VAIKO TĖVŲ IR KITŲ VAIKO ATSTOVŲ PAGAL ĮSTATYMĄ TEISĖS, PARE
 
 4. Tėvų ar kitų vaiko atstovų pagal įstatymą teisės ir pareigos išlieka, kai vaiką laikinai prižiūri kiti asmenys šio įstatymo 364 straipsnyje nustatytais atvejais.
 
-TAR pastaba. Straipsnio papildymas nauja 4 dalimi įsigalioja 2020-01-01.
-
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
@@ -754,35 +742,27 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 36 straipsnis. Reagavimas į pranešimą apie galimą vaiko teisių pažeidimą
 
-1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, gavęs žodžiu, raštu ar bet kokiomis nuotolinio ryšio priemonėmis pranešimą apie galimą vaiko teisių pažeidimą, kuo skubiau, tačiau ne vėliau kaip per tris darbo dienas nuo pranešimo gavimo, pradeda nagrinėti pranešimą ir susitinka su vaiku, užsitikrindamas galimybę pabendrauti su juo be apribojimų, jeigu yra poreikis, – nedalyvaujant vaiko atstovams pagal įstatymą, atsižvelgęs į vaiko amžių ir brandą išklauso vaiką jam priimtinu būdu apie galimą jo teisių pažeidimą, taip pat įvertina vaiko gyvenamąją ir socialinę aplinką bei vaiko santykius su jo tėvais ar kitais vaiko atstovais pagal įstatymą. Jeigu yra įtarimų, kad vaikas patyrė smurtą, vaikas pagal poreikį turi būti išklausytas psichologo. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikęs šioje dalyje nurodytus veiksmus šio įstatymo 38 straipsnyje nustatyta tvarka, nustato grėsmės vaikui lygį. Jeigu Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius nenustato galimų vaiko teisių pažeidimų ir pavojaus vaiko saugumui, sveikatai ir gyvybei, jis priima sprendimą baigti pranešimo nagrinėjimą.
+1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, gavęs žodžiu, raštu ar bet kokiomis nuotolinio ryšio priemonėmis pranešimą apie galimą vaiko teisių pažeidimą, kuo skubiau, tačiau ne vėliau kaip per 3 darbo dienas nuo pranešimo gavimo dienos, pradeda nagrinėti pranešimą ir susitinka su vaiku, užsitikrindamas galimybę pabendrauti su juo be apribojimų, jeigu yra poreikis, – nedalyvaujant vaiko atstovams pagal įstatymą, atsižvelgęs į vaiko amžių ir brandą išklauso vaiką jam priimtinu būdu apie galimą jo teisių pažeidimą, pagal poreikį įvertina vaiko gyvenamąją ir (ar) socialinę aplinką bei vaiko santykius su jo tėvais ar kitais vaiko atstovais pagal įstatymą. Jeigu yra įtarimų, kad vaikas patyrė smurtą, ar jeigu vaikas turi specialiųjų poreikių, raidos ir (ar) kitokių sutrikimų, jis pagal poreikį turi būti išklausytas psichologo. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikęs šioje dalyje nurodytus veiksmus, socialinės apsaugos ir darbo ministro nustatyta tvarka atlieka vaiko situacijos vertinimą. Jeigu Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikęs šioje dalyje nurodytus veiksmus, nenustato vaiko teisių pažeidimų ir pavojaus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei, jis priima sprendimą baigti pranešimo nagrinėjimą.
 
-2. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, reaguodamas į pranešimą apie galimą smurto prieš vaiką naudojimą, galimai kilusį pavojų vaiko saugumui, sveikatai, gyvybei ar vaiko buvimą jam nesaugioje aplinkoje, visus šio straipsnio 1 dalyje nurodytus veiksmus privalo atlikti pranešimo gavimo dieną, tačiau ne vėliau kaip per 6 valandas nuo pranešimo gavimo momento.
+2. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, reaguodamas į pranešimą apie galimą smurto prieš vaiką naudojimą, galimai kilusį pavojų vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei ar vaiko buvimą jam nesaugioje aplinkoje, šio straipsnio 1 dalyje nurodytus veiksmus pradeda atlikti pranešimo gavimo dieną, tačiau ne vėliau kaip per 6 valandas nuo pranešimo gavimo momento, ir užbaigia visus veiksmus ne vėliau kaip per 3 darbo dienas.
 
-3. Policijos pareigūnai, įvykio vietoje nustatę vaiko buvimą jam nesaugioje aplinkoje, privalo nedelsdami imtis veiksmų vaiko fiziniam ar psichiniam saugumui užtikrinti ir apie įvykį nedelsdami informuoti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybą ar jos įgaliotą teritorinį skyrių. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, gavę pranešimą iš policijos pareigūnų apie vaiko buvimą jam nesaugioje aplinkoje, atvyksta į įvykio vietą ne vėliau kaip per vieną valandą nuo pranešimo gavimo. Jeigu dėl objektyvių priežasčių Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius negali atvykti į policijos pareigūnų pranešime nurodytą vietą per vieną valandą nuo pranešimo gavimo, jis privalo apie tai nedelsdamas informuoti policijos pareigūnus ir užtikrinti atvykimą kiek įmanoma skubiau.
+3. Policijos pareigūnai, turintys darbo su nepilnamečiais kompetenciją, įvykio vietoje nustatę vaiko buvimą jam nesaugioje aplinkoje, privalo nedelsdami imtis veiksmų vaiko fiziniam ar psichiniam saugumui užtikrinti ir apie įvykį nedelsdami informuoti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybą ar jos įgaliotą teritorinį skyrių. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, gavę pranešimą iš policijos pareigūnų apie vaiko buvimą jam nesaugioje aplinkoje, atvyksta į įvykio vietą ne vėliau kaip per vieną valandą nuo pranešimo gavimo. Jeigu dėl objektyvių priežasčių Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius negali atvykti į policijos pareigūnų pranešime nurodytą vietą per vieną valandą nuo pranešimo gavimo, jis privalo apie tai nedelsdamas informuoti policijos pareigūnus ir užtikrinti atvykimą kiek įmanoma skubiau.
 
-4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko buvimą jam nesaugioje neutralioje aplinkoje, kuri kelia pavojų vaiko saugumui, sveikatai ar gyvybei, skubiai paima vaiką iš jam nesaugios neutralios aplinkos, prireikus pasitelkdamas policijos pareigūnus, kai gali kilti (kyla) grėsmė vaiko, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus darbuotojų ar kitų asmenų, dalyvaujančių paimant vaiką, gyvybei ar sveikatai ir būtina užtikrinti jų saugumą, ir imasi veiksmų dėl vaiko grąžinimo jo tėvams ar kitiems jo atstovams pagal įstatymą. Nustatęs, kad vaikas negali būti grąžintas jo tėvams ar kitiems jo atstovams pagal įstatymą dėl to, kad gali kilti realus pavojus vaiko saugumui, sveikatai ar gyvybei, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, konstatavęs antrąjį grėsmės vaikui lygį, imasi šio straipsnio 5 dalies 1–4 punktuose nurodytų veiksmų.
+4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs būtinybę dėl kylančio realaus ir tiesioginio pavojaus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei, skubiai paima vaiką iš jam nesaugios aplinkos, prireikus pasitelkdamas policijos pareigūnus, bei imasi veiksmų dėl vaiko perdavimo tėvams (ar vienam iš tėvų) ar kitiems vaiko atstovams pagal įstatymą ir (ar) atlieka vaiko situacijos vertinimą šio įstatymo 361 straipsnyje nustatyta tvarka.
 
-5. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs realų pavojų vaiko saugumui, sveikatai, gyvybei jo gyvenamojoje aplinkoje ir antrąjį grėsmės vaikui lygį, skubiai laikinai paima vaiką iš jam nesaugios aplinkos, pasitelkdamas policijos pareigūnus dėl šio straipsnio 4 dalyje nurodytų aplinkybių, ir imasi šių veiksmų:
+5. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko buvimą jam nesaugioje aplinkoje, kuri nėra vaiko gyvenamoji vieta ir kurioje kyla realus ir tiesioginis pavojus vaiko sveikatai ar gyvybei, skubiai užtikrina vaiko saugumą ir nedelsdamas imasi veiksmų dėl vaiko perdavimo tėvams ar kitiems jo atstovams pagal įstatymą ir (ar) atlieka vaiko situacijos vertinimą šio įstatymo 361 straipsnyje nustatyta tvarka. Nustatęs, kad vaikas negali būti grąžintas jo tėvams ar vaiko atstovams pagal įstatymą dėl to, kad tėvai arba turimas vienintelis iš tėvų yra dingę ir jų ieškoma (kol teismas tėvus pripažins nežinia kur esančiais arba paskelbs mirusiais) arba tėvai ar turimas vienintelis iš tėvų laikinai negali rūpintis vaiku dėl abiejų tėvų ar vieno iš jų ligos, suėmimo, bausmės atlikimo ar kitų svarbių priežasčių arba dėl to, kad gali kilti realus ir tiesioginis pavojus vaiko sveikatai ar gyvybei, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius nustato vaikui apsaugos poreikį ir nedelsdamas imasi šio įstatymo 365 straipsnyje nustatytų veiksmų.
 
-1) užtikrina vaiko laikiną apgyvendinimą šio įstatymo 43 straipsnyje nustatyta tvarka;
+Straipsnio pakeitimai:
 
-2) vadovaudamasis šio įstatymo 37 straipsniu, inicijuoja atvejo vadybos procesą ir teikia prašymą Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos vadovui ar jo įgaliotam asmeniui dėl mobiliosios komandos sudarymo;
+Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
-3) vadovaudamasis šio įstatymo 42 straipsniu, ne vėliau kaip per 3 darbo dienas Civilinio kodekso 3.2541 straipsnyje nustatyta tvarka kreipiasi į teismą dėl leidimo paimti vaiką iš jo tėvų ar vaiko atstovų pagal įstatymą išdavimo;
-
-4) teismui priėmus nutartį leisti paimti vaiką iš jo tėvų ar kitų jo atstovų pagal įstatymą, šio įstatymo 42 straipsnio 3 dalyje nustatyta tvarka teikia savivaldybės administracijos direktoriui nurodymą nustatyti vaikui laikinąją globą (rūpybą) ir paskirti konkretų laikinąjį globėją (rūpintoją).
-
-6. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, paėmęs vaiką iš jam nesaugios aplinkos šio straipsnio 4 ir 5 dalyse nustatytais atvejais, kuo skubiau, bet ne vėliau kaip kitą dieną, raštu ar bet kokiomis nuotolinio ryšio priemonėmis privalo apie tai pranešti tėvams ar kitiems vaiko atstovams pagal įstatymą, jeigu jie nedalyvavo vaiko paėmimo metu.
-
-7. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs pirmąjį ar antrąjį grėsmės vaikui lygį, vadovaudamasis šio įstatymo 37 straipsnio nuostatomis inicijuoja atvejo vadybos procesą.
-
-36 straipsnio redakcija, įsigaliojanti  2020-01-01:
+Nr. XIII-2414, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13751
 
 37 straipsnis. Atvejo vadyba
 
 1. Atvejo vadybos tikslas – rasti geriausią problemos sprendimo būdą ir suteikti šeimai tokią pagalbą, kuri ne tik padėtų išspręsti vaiko ir šeimos problemas, bet ir sudarytų sąlygas šeimai pačiai siekti reikiamų pokyčių, užtikrinančių vaiko fizinį ar psichinį saugumą ir jo interesus.
 
-2. Atvejo vadyba taikoma paaiškėjus pranešimo apie galimą vaiko teisių pažeidimą pagrįstumui ir nustačius vieną iš šio įstatymo 38 straipsnyje apibrėžtų grėsmės vaikui lygių. Visais atvejais su šeima dirba atvejo vadybininko sudaryta specialistų komanda, kurioje turi pareigą dalyvauti atvejo vadybininko kviečiami sveikatos priežiūros, švietimo, socialines paslaugas toje savivaldybėje teikiančių įstaigų, atitinkamų teisėsaugos institucijų atstovai ar kitų sričių specialistai pagal vaiko poreikius. Taip pat gali būti kviečiami dalyvauti vietos bendruomenės ir nevyriausybinių organizacijų atstovai.
+2. Atvejo vadybininkas paskiriamas paaiškėjus, kad pranešimas apie galimą vaiko teisių pažeidimą yra pagrįstas, ir nustačius būtinybę vertinti pagalbos vaikui ir (ar) šeimai poreikį arba nustačius vaiko apsaugos poreikį. Atvejo vadybos procesas gali būti inicijuotas ir vaiko tėvų ar pagalbą vaikams ir (ar) šeimoms organizuojančių ir teikiančių įstaigų, organizacijų prašymu, vadovaujantis atvejo vadybos tvarkos aprašu. Paskirtas atvejo vadybininkas vertina pagalbos vaikui ir (ar) šeimai poreikį. Nustatęs kompleksinės pagalbos vaikui ir (ar) šeimai poreikį, atvejo vadybininkas pradeda atvejo vadybos procesą. Jeigu atvejo vadybininkas nenustato kompleksinės pagalbos poreikio, atvejo vadyba nėra pradedama. Informacija apie pagalbos vaiko ir (ar) šeimai poreikio vertinimo rezultatus perduodama savivaldybės administracijai. Pradėjus atvejo vadybos procesą, su šeima dirba atvejo vadybininko sudaryta specialistų grupė, kurioje turi pareigą dalyvauti atvejo vadybininko kviečiami Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus, sveikatos priežiūros, švietimo, socialines paslaugas toje savivaldybėje teikiančių įstaigų, atitinkamų teisėsaugos institucijų atstovai ar kitų sričių specialistai pagal vaiko ir šeimos poreikius. Taip pat gali būti kviečiami dalyvauti seniūnai, vietos bendruomenės ir nevyriausybinių organizacijų atstovai. Siekiant užtikrinti geriausius vaiko interesus ir išvengti informacijos apie privatų šeimos gyvenimą paviešinimo, posėdžio dalyviams taikomi konfidencialumo reikalavimai. Konfidencialumo reikalavimai netaikomi vaiko tėvams ar kitiems vaiko atstovams pagal įstatymą, jeigu tai neprieštarauja geriausiems vaiko interesams.
 
 3. Taikant atvejo vadybą, pagalba vaikui ir šeimai turi būti orientuota į kompleksinės pagalbos vaikui ir jo šeimai organizavimą, paslaugų teikimą, įvairios pagalbos teikimą, kai reikalinga kompleksinė ilgalaikė tęstinė pagalba, kad būtų padėta vaikui ir šeimai išspręsti iškilusias problemas.
 
@@ -790,7 +770,7 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 5. Atvejo vadybą sudaro:
 
-1) šeimos poreikių dėl pagalbos teikimo ir socialinės rizikos lygio šeimoje vertinimas, pagalbos organizavimas, vaiko individualių poreikių ir šeimos socialinės aplinkos, rizikų ir galimų pagalbos šaltinių įvertinimas;
+1) pagalbos vaikui ir (ar) šeimai, laikinąją priežiūrą teikiantiems asmenims poreikių vertinimas;
 
 2) pagalbos plano sudarymas;
 
@@ -798,17 +778,21 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 4) šeimos stebėsena;
 
-5) periodinis pagalbos plano peržiūrų organizavimas, tačiau ne rečiau kaip kartą per pusmetį, jeigu nustatytas pirmasis grėsmės vaikui lygis, o jeigu nustatytas antrasis grėsmės vaikui lygis, – pirmą kartą ne vėliau kaip po 60 dienų, paskesnius kartus – ne rečiau kaip kartą per keturis mėnesius, pagalbos plano įgyvendinimo įvertinimas. Jeigu yra poreikis, pagalbos plano peržiūros gali būti atliekamos ir dažniau, negu nurodyta šiame punkte.
+5) pagalbos plano peržiūrų organizavimas.
 
-6. Nepriklausomai nuo grėsmės vaikui lygio nustatymo, bet kuriuo atvejo vadybos proceso etapu, jeigu iškyla realus pavojus vaiko saugumui, sveikatai ar gyvybei, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius turi imtis skubių veiksmų, nurodytų šio įstatymo 36 straipsnio 5 dalyje.
+6. Bet kuriuo atvejo vadybos proceso etapu, jeigu iškyla realus pavojus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius turi imtis skubių veiksmų, nurodytų šio įstatymo 363 straipsnio 1 dalyje.
 
-7. Atvejo vadybos tvarką nustato socialinės apsaugos ir darbo ministras.
+7. Jeigu atvejo vadybos metu atliekant pagalbos plano peržiūrą paaiškėja, kad situacija šeimoje blogėja, vaiko tėvai ar kiti jo atstovai pagal įstatymą nededa pastangų, nekeičia savo elgesio ir toliau vengia atlikti savo pareigas, nesirūpina vaiko fiziniu ar psichiniu saugumu ir jo auklėjimu, piktnaudžiauja tėvų valdžia, atvejo vadybininkas teikia Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui motyvuotą siūlymą imtis veiksmų, vadovaujantis šio įstatymo 365 straipsniu.
 
 8. Jeigu atvejo vadybos metu atliekant pagalbos plano peržiūrą paaiškėja, kad aplinkybės, dėl kurių buvo iškilęs realus pavojus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei, išnyksta arba šeima įvykdo visas atvejo vadybos proceso metu iškeltas sąlygas, nedelsiant organizuojamas atvejo nagrinėjimo posėdis, kurio metu sprendžiama dėl vaiko skubaus grąžinimo šeimai. Atvejo nagrinėjimo posėdis, kurio metu sprendžiama dėl vaiko skubaus grąžinimo šeimai, nedelsiant organizuojamas ir tais atvejais, kai atvejo vadybos metu šeimai iškeltas sąlygas galima įvykdyti vaikui esant šeimoje, nesukeliant realaus pavojaus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei.
 
 9. Jeigu atvejo vadybos metu atliekant pagalbos plano peržiūrą paaiškėja, kad išnyko aplinkybės, dėl kurių buvo taikyta atvejo vadyba, pagalbos plano peržiūros dalyviai priima sprendimą baigti atvejo vadybą.
 
-37 straipsnio redakcija, įsigaliojanti 2020-01-01:
+10. Atvejo vadybos tvarkos aprašą tvirtina socialinės apsaugos ir darbo ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 38 straipsnis. Grėsmės vaikui lygiai
 
@@ -896,14 +880,6 @@ TEISMO LEIDIMAS IR VAIKO LAIKINAS APGYVENDINIMAS
 
 42 straipsnis. Kreipimasis į teismą dėl leidimo paimti vaiką iš jo tėvų ar kitų jo atstovų pagal įstatymą
 
-1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, gavęs atvejo vadybininko siūlymą paimti vaiką iš jam nesaugios aplinkos ir įvertinęs jo pagrįstumą arba savarankiškai nustatęs, kad toje aplinkoje iškilo pavojus vaiko saugumui, sveikatai ar gyvybei:
-
-1) šio įstatymo 36 straipsnio 5 dalyje nustatyta tvarka paima vaiką iš jam nesaugios aplinkos;
-
-2) ne vėliau kaip per 3 darbo dienas Civilinio kodekso 3.2541 straipsnyje nustatyta tvarka kreipiasi į teismą dėl leidimo paimti vaiką iš jo tėvų ar kitų jo atstovų pagal įstatymą išdavimo.
-
-1 dalies redakcija, įsigaliojanti 2020-01-01:
-
 1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko apsaugos poreikį arba gavęs atvejo vadybininko motyvuotą siūlymą imtis veiksmų ir įvertinęs jo pagrįstumą, vadovaudamasis šio įstatymo 365 straipsniu:
 
 1) paima vaiką iš jo tėvų ar kitų vaiko atstovų pagal įstatymą;
@@ -941,10 +917,6 @@ Straipsnio punkto pakeitimai:
 Nr. XIII-1296, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10620
 
 43 straipsnis. Vaiko laikinas apgyvendinimas
-
-1. Jeigu šio įstatymo 36 straipsnio 5 dalyje nustatytais pagrindais vaikas, paimtas iš jam nesaugios aplinkos, negali būti grąžintas tėvams ar kitiems vaiko atstovams pagal įstatymą, jis laikinai apgyvendinamas saugioje aplinkoje Civilinio kodekso 3.264 straipsnio 5 dalyje nustatyta prioriteto tvarka.
-
-1 dalies redakcija, įsigaliojanti 2020-01-01:
 
 1. Jeigu šio įstatymo 36 straipsnio 4 dalyje ir 363 straipsnio 1 dalies 2 punkte nustatytais pagrindais vaikas, paimtas iš jam nesaugios aplinkos, negali būti perduotas jo tėvams ar kitiems vaiko atstovams pagal įstatymą, jis laikinai apgyvendinamas saugioje aplinkoje Civilinio kodekso 3.264 straipsnio 5 dalyje nustatyta prioriteto tvarka.
 
@@ -1594,9 +1566,7 @@ VAIKO TEISIŲ APSAUGOS INSTITUCIJŲ SISTEMA
 
 5. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikdamas vaiko situacijos vertinimą, gali daryti garso ir vaizdo įrašus Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos direktoriaus nustatyta tvarka, parengta vadovaujantis Reglamento (ES) 2016/679 5 straipsnyje įtvirtintais su asmens duomenų tvarkymu susijusiais principais. Siekiant užtikrinti vaiko ir jo šeimos privataus gyvenimo neliečiamumą, Reglamente (ES) 2016/679 numatytą duomenų subjekto teisę susipažinti su garso ir vaizdo įrašuose esančiais asmens duomenimis turi tik vaikai, tėvai ar kiti vaiko atstovai pagal įstatymą, įgalioti valstybės ar savivaldybių institucijų atstovai, dalyvavę atliekant vaiko situacijos vertinimą, taip pat teismas ar kitos valstybės įgaliotos institucijos, priimančios su vaiko situacijos vertinimu susijusius sprendimus.
 
-TAR pastaba. Įstatymo papildymas 361  straipsniu įsigalioja 2020-01-01.
-
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
@@ -1604,9 +1574,7 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs būtinybę vertinti pagalbos vaikui ir (ar) šeimai poreikį, ne vėliau kaip kitą darbo dieną inicijuoja atvejo vadybininko paskyrimą socialinės apsaugos ir darbo ministro nustatyta tvarka.
 
-TAR pastaba. Įstatymo papildymas 362  straipsniu įsigalioja 2020-01-01.
-
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
@@ -1624,9 +1592,7 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui nustačius vaiko apsaugos poreikį, vaiko tėvai (vienas iš tėvų) ar kiti vaiko atstovai pagal įstatymą turi teisę matytis su vaiku ir palaikyti su juo ryšius, jeigu tai atitinka geriausius vaiko interesus ir nekelia realaus pavojaus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei.
 
-TAR pastaba. Įstatymo papildymas 363  straipsniu įsigalioja 2020-01-01.
-
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
@@ -1656,9 +1622,7 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 9. Tais atvejais, kai vaiko tėvai ar kiti jo atstovai pagal įstatymą negali pasirūpinti vaiku dėl susiklosčiusių objektyvių aplinkybių (dėl gydymo, tėvų laikino išvykimo ir panašių aplinkybių), vaiko laikinoji priežiūra gali būti nustatoma vaiko tėvų ar kitų jo atstovų pagal įstatymą prašymu savivaldybės administracijos direktoriaus sprendimu pas vaiko giminaičius, su vaiku emociniais ryšiais susijusius asmenis ar kitus vaiko tėvų ar jo atstovų pagal įstatymą nurodytus asmenis, galinčius laikinai prižiūrėti vaiką, bet ne ilgiau kaip 6 mėnesius. Nustačius vaiko laikinąją priežiūrą vaiko tėvų ar kitų jo atstovų pagal įstatymą prašymu, vaiko laikinosios priežiūros išmoka neskiriama, tačiau vaiko laikinosios priežiūros metu jį prižiūrinčiam asmeniui gali būti skiriama socialinė parama (vienkartinė, tikslinė, periodinė, sąlyginė pašalpa) Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nustatyta tvarka.
 
-TAR pastaba. Įstatymo papildymas 364  straipsniu įsigalioja 2020-01-01.
-
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
@@ -1682,9 +1646,7 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 7. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, paėmęs vaiką iš jo tėvų ar kitų vaiko atstovų pagal įstatymą, šio straipsnio 1 dalyje nurodytais atvejais šio įstatymo 42 straipsnio 2 dalyje ir Civilinio kodekso 3.2541 straipsnyje nustatyta tvarka ir terminais kreipiasi į teismą dėl leidimo paimti vaiką iš jo tėvų ar kitų vaiko atstovų pagal įstatymą.
 
-TAR pastaba. Įstatymo papildymas 365  straipsniu įsigalioja 2020-01-01.
-
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
