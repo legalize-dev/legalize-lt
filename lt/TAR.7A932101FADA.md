@@ -4,7 +4,7 @@ identifier: "TAR.7A932101FADA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2018-05-09"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2018-05-09 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
 
@@ -92,7 +92,11 @@ Nr. XIII-1132, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07484
 
 2) asmeninio ūkio žemės naudotojai – jų naudojamus asmeninio ūkio žemės sklypus;
 
-3) privačių žemės sklypų savininkai – tarp jų nuosavybės teise valdomų žemės sklypų įsiterpusius valstybinės žemės ūkio paskirties žemės plotus, neviršijančius Žemės reformos įstatyme nustatyto dydžio, jeigu šiuose valstybinės žemės ūkio paskirties žemės plotuose pagal teisės aktų nuostatas, reglamentuojančias žemės sklypų formavimą, negalima suformuoti racionalių ribų ir dydžio žemės ūkio paskirties žemės sklypų.
+3) privačių žemės sklypų savininkai – tarp jų nuosavybės teise valdomų žemės sklypų įsiterpusius valstybinės žemės ūkio paskirties žemės plotus, ne didesnius kaip 3 ha. Pirmumo teisė pirkti įsiterpusį valstybinės žemės ūkio paskirties žemės plotą taikoma jį nuomojančiam ar laikinai naudojančiam besiribojančio žemės sklypo savininkui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2465, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17211
 
 3. Žemės ūkio paskirties žemės sklypų formavimo eiliškumas asmenims, nurodytiems šio straipsnio 2 dalyje, nustatomas Žemės reformos įstatyme.
 
