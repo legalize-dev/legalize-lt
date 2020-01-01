@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -1120,7 +1120,11 @@ Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
 
 23. Specialieji reikalavimai ir prisijungimo sąlygos galioja 5 metus nuo jų išdavimo dienos, jeigu statybą leidžiantis dokumentas negautas. Gavus statybą leidžiantį dokumentą, specialieji reikalavimai ir prisijungimo sąlygos galioja iki statybos užbaigimo procedūrų užbaigimo dienos.
 
-24. Šio straipsnio 1 dalyje nurodyti statinio projektai turi atitikti Lietuvos Respublikos įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo tą dieną, kai buvo išduoti specialieji reikalavimai Praėjus 5 metams po specialiųjų reikalavimų išdavimo ir tais atvejais, kai specialieji reikalavimai nebuvo išduoti, šio straipsnio 1 dalyje nurodyti statinio projektai turi atitikti Lietuvos Respublikos įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo prašymo gauti statybą leidžiantį dokumentą, kuris buvo priimtas, pateikimo dieną. Kai teisės aktų numatytais atvejais yra privaloma parengti statinio projektą, tačiau nėra privaloma gauti statybą leidžiantį dokumentą, statinio projektas turi atitikti normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo statinio projektavimo darbų rangos sutarties pasirašymo dieną.
+24. Šio straipsnio 1 dalyje nurodyti statinio projektai turi atitikti Lietuvos Respublikos įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo tą dieną, kai buvo išduoti specialieji reikalavimai. Praėjus 5 metams po specialiųjų reikalavimų išdavimo ir tais atvejais, kai specialieji reikalavimai nebuvo išduoti, šio straipsnio 1 dalyje nurodyti statinio projektai turi atitikti Lietuvos Respublikos įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo prašymo gauti statybą leidžiantį dokumentą, kuris buvo priimtas, pateikimo dieną. Jeigu statinio projektas buvo pradėtas rengti iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo, jis turi atitikti Specialiųjų žemės naudojimo sąlygų įstatymo nustatytus reikalavimus. Šiuo atveju, kai buvo išduoti specialieji reikalavimai, statytojas (užsakovas) kreipiasi į savivaldybės administracijos direktorių (jo įgaliotą savivaldybės administracijos valstybės tarnautoją) dėl specialiųjų reikalavimų, atitinkančių Specialiųjų žemės naudojimo sąlygų įstatymo reikalavimus, gavimo. Kai teisės aktų numatytais atvejais yra privaloma parengti statinio projektą, tačiau nėra privaloma gauti statybą leidžiantį dokumentą, statinio projektas turi atitikti normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo statinio projektavimo darbų rangos sutarties pasirašymo dieną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
 
 25 straipsnis. Statinio projekto architektūriniai sprendiniai. Statinio architektas
 
@@ -1146,9 +1150,17 @@ STATYBĄ LEIDŽIANTYS DOKUMENTAI. STATYBOS UŽBAIGIMAS
 
 1. Statybą leidžiantys dokumentai yra:
 
-1) leidimas statyti naują statinį – naujo ypatingojo ir neypatingojo statinio statybai (išskyrus krašto apsaugos tikslams skirtose teritorijose statomą naują neypatingąjį statinį); naujo nesudėtingojo statinio statybai mieste (išskyrus krašto apsaugos tikslams skirtose teritorijose statomą naują nesudėtingąjį statinį), konservacinės apsaugos prioriteto ar kompleksinėje saugomoje teritorijoje, kitoje teritorijoje aplinkos ministro nustatytais atvejais; naujo nesudėtingojo statinio statybai kultūros paveldo objekto teritorijoje, kultūros paveldo objekto apsaugos zonoje, kultūros paveldo vietovėje kultūros ministro ir aplinkos ministro nustatytais atvejais;
+1) leidimas statyti naują statinį – naujo ypatingojo ir neypatingojo statinio statybai (išskyrus krašto apsaugos tikslams skirtose teritorijose statomą naują neypatingąjį statinį); naujo nesudėtingojo statinio statybai mieste (išskyrus krašto apsaugos tikslams skirtose teritorijose statomą naują nesudėtingąjį statinį), konservacinės apsaugos prioriteto ar kompleksinėje saugomoje teritorijoje, kitoje teritorijoje aplinkos ministro nustatytais atvejais; naujo nesudėtingojo statinio statybai kultūros paveldo objekto teritorijoje, kultūros paveldo objekto apsaugos zonoje, kultūros paveldo vietovėje ir jos apsaugos zonoje kultūros ministro ir aplinkos ministro nustatytais atvejais;
 
-2) leidimas rekonstruoti statinį – ypatingojo ar neypatingojo statinio rekonstravimui (išskyrus krašto apsaugos tikslams skirtose teritorijose rekonstruojamą neypatingąjį statinį); nesudėtingojo statinio rekonstravimui mieste (išskyrus krašto apsaugos tikslams skirtose teritorijose rekonstruojamą nesudėtingąjį statinį), konservacinės apsaugos prioriteto ar kompleksinėje saugomoje teritorijoje, kitoje teritorijoje aplinkos ministro nustatytais atvejais; nesudėtingojo statinio rekonstravimui kultūros paveldo objekto teritorijoje, kultūros paveldo objekto apsaugos zonoje, kultūros paveldo vietovėje kultūros ministro ir aplinkos ministro nustatytais atvejais;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
+
+2) leidimas rekonstruoti statinį – ypatingojo ar neypatingojo statinio rekonstravimui (išskyrus krašto apsaugos tikslams skirtose teritorijose rekonstruojamą neypatingąjį statinį); nesudėtingojo statinio rekonstravimui mieste (išskyrus krašto apsaugos tikslams skirtose teritorijose rekonstruojamą nesudėtingąjį statinį), konservacinės apsaugos prioriteto ar kompleksinėje saugomoje teritorijoje, kitoje teritorijoje aplinkos ministro nustatytais atvejais; nesudėtingojo statinio rekonstravimui kultūros paveldo objekto teritorijoje, kultūros paveldo objekto apsaugos zonoje, kultūros paveldo vietovėje ir jos apsaugos zonoje kultūros ministro ir aplinkos ministro nustatytais atvejais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
 
 3) leidimas atnaujinti (modernizuoti) pastatą – pastato atnaujinimui (modernizavimui);
 
@@ -1200,7 +1212,11 @@ Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
 
 13) sanitarinės apsaugos zonos ribų planas arba kitas brėžinys, kuriame pažymėtos sanitarinių apsaugos zonų ribos, kai sanitarinės apsaugos zonos ribas dėl statytojo vykdomos ar numatomos vykdyti ūkinės veiklos privaloma nustatyti pagal teisės aktų reikalavimus;
 
-14) gretimo žemės sklypo savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl specialiųjų žemės naudojimo sąlygų įrašymo į Nekilnojamojo turto registrą, Nekilnojamojo turto kadastrą, kitus valstybės registrus, kai šiam sklypui dėl statytojo žemės sklype numatomos vykdyti ar vykdomos ūkinės veiklos turi būti nustatytos šios sąlygos, arba valstybinės ar savivaldybės žemės patikėtinio rašytinis sutikimas, kai dėl šios veiklos atsiranda apribojimų valstybinėje ar savivaldybės žemėje;
+14) žemės sklypo savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl Specialiųjų žemės naudojimo sąlygų įstatyme nurodytų teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įrašymo į Nekilnojamojo turto registrą, Nekilnojamojo turto kadastrą, kai šiam sklypui dėl statytojo žemės sklype numatomos vykdyti ar vykdomos ūkinės veiklos šios teritorijos turi būti nustatytos, arba valstybinės ar savivaldybės žemės patikėtinio rašytinis sutikimas, kai dėl šios veiklos atsiranda apribojimų valstybinėje ar savivaldybės žemėje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
 
 15) statybos techniniuose reglamentuose nurodytų subjektų rašytiniai pritarimai statinio projektui statybos techniniuose reglamentuose nustatytais atvejais;
 
@@ -1244,11 +1260,13 @@ Nr. XIII-591, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11960
 
 10) inžinerinių tinklų ir susisiekimo komunikacijų, prie kurių prijungiami sklypo inžineriniai tinklai ar susisiekimo komunikacijos, savininkai, valdytojai ar naudotojai.
 
-10. Šio įstatymo 24 straipsnio 1 dalies 4–12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina savivaldybės administracija, kai statybą leidžiantį dokumentą išduoda ji, Kultūros paveldo departamentas prie Kultūros ministerijos, kai statybos darbai projektuojami kultūros paveldo statinyje, jo teritorijoje, kultūros paveldo vietovėje, saugomoje kultūrinėje teritorijoje (kultūriniame arba kompleksiniame (kraštovaizdžio) draustinyje, istoriniame nacionaliniame, istoriniame regioniniame parke) esančiuose statiniuose. Šio įstatymo 24 straipsnio 1 dalies 4 ir 12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina ir Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos. Šio įstatymo 24 straipsnio 1 dalies 4, 5, 6, 7, 8, 9 ir 12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina ir Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos ar jo įgaliota institucija. Šio įstatymo 24 straipsnio 1 dalies 4 ir 9 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams pagal kompetenciją tikrina ir Valstybinė energetikos inspekcija prie Energetikos ministerijos, kai pertvarkoma daugiabučio namo ar jo dalies šildymo ir apsirūpinimo karštu vandeniu bendroji inžinerinė sistema (keičiamas šildymo būdas, atsijungiama nuo (prisijungiama prie) šilumos tiekimo inžinerinių tinklų).
+10. Šio įstatymo 24 straipsnio 1 dalies 4–12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina savivaldybės administracija, kai statybą leidžiantį dokumentą išduoda ji, Kultūros paveldo departamentas prie Kultūros ministerijos, kai statybos darbai projektuojami kultūros paveldo statinyje, jo teritorijoje, kultūros paveldo vietovėje, jos apsaugos zonoje, saugomoje kultūrinėje teritorijoje (kultūriniame arba kompleksiniame (kraštovaizdžio) draustinyje, istoriniame nacionaliniame, istoriniame regioniniame parke) esančiuose statiniuose. Šio įstatymo 24 straipsnio 1 dalies 4 ir 12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina ir Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos. Šio įstatymo 24 straipsnio 1 dalies 4, 6, 7 ir 8 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina ir Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos ar jo įgaliota institucija. Šio įstatymo 24 straipsnio 1 dalies 4 ir 9 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams pagal kompetenciją tikrina ir Valstybinė energetikos inspekcija prie Energetikos ministerijos, kai pertvarkoma daugiabučio namo ar jo dalies šildymo ir apsirūpinimo karštu vandeniu bendroji inžinerinė sistema (keičiamas šildymo būdas, atsijungiama nuo (prisijungiama prie) šilumos tiekimo inžinerinių tinklų).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
+
+Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
 
 11. Kai šio įstatymo nustatytais atvejais statybą leidžiančius dokumentus išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos, statybą leidžiančio dokumento išdavimo procedūras ji atlieka aplinkos ministro nustatyta tvarka.
 
@@ -1290,7 +1308,11 @@ Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
 
 2) prašantis išduoti statybą leidžiantį dokumentą asmuo neturi teisės būti statytoju pagal šio įstatymo 3 straipsnio 2 dalies 1 ir 3 punktų reikalavimus;
 
-3) kai nepateiktas gretimo žemės sklypo savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl specialiųjų žemės naudojimo sąlygų įrašymo į Nekilnojamojo turto registrą, Nekilnojamojo turto kadastrą, kitus valstybės registrus, kai šiam sklypui dėl statytojo žemės sklype numatomos vykdyti ar vykdomos ūkinės veiklos turi būti nustatytos šios sąlygos, arba valstybinės ar savivaldybės žemės patikėtinio rašytinis sutikimas, kai dėl šios veiklos atsiranda apribojimų valstybinėje ar savivaldybės žemėje.
+3) kai nepateiktas žemės sklypo savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl Specialiųjų žemės naudojimo sąlygų įstatyme nurodytų teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įrašymo į Nekilnojamojo turto registrą, Nekilnojamojo turto kadastrą, kai šiam sklypui dėl statytojo žemės sklype numatomos vykdyti ar vykdomos ūkinės veiklos šios teritorijos turi būti nustatytos, arba valstybinės ar savivaldybės žemės patikėtinio rašytinis sutikimas, kai dėl šios veiklos atsiranda apribojimų valstybinėje ar savivaldybės žemėje.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
 
 17. Statytojas (užsakovas) turi teisę kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos su prašymu išduoti statybą leidžiantį dokumentą, jeigu jis nesutinka su tuo, kad, visiems statinio projektą tikrinusiems subjektams šiam statinio projektui pritarus, statybą leidžiantį dokumentą atsisakoma išduoti, per 10 darbo dienų nuo atsisakymo išduoti statybą leidžiantį dokumentą gavimo dienos.
 
