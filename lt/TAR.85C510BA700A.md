@@ -4,7 +4,7 @@ identifier: "TAR.85C510BA700A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-15"
-last_updated: "2019-12-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.85C510BA700A"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2019-12-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
 
@@ -606,7 +606,11 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 2. Registro kūrimą organizuoja, kūrimo procesą prižiūri ir atliktus registro kūrimo darbus vertina registro valdytojas. Registrą kuria ir programinę įrangą diegia registro tvarkytojas ir (arba) teisės aktuose nustatyta tvarka parinktas (paskirtas) tiekėjas, kuriam registro valdytojas gali suteikti teisę tvarkyti duomenis registro kūrimo laikotarpiu. Registro kūrėjas privalo užtikrinti tvarkomų duomenų saugą Lietuvos Respublikos įstatymuose ir kitų teisės aktuose nustatyta tvarka.
 
-3. Vadovaujantis registro nuostatais, parengiamas registro techninis aprašymas (specifikacija). Registro techninis aprašymas (specifikacija) ir kiti projektiniai dokumentai rengiami, derinami ir tvirtinami Vyriausybės nustatyta tvarka ir institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Registro diegimo dokumentai ir kiti projektiniai dokumentai, išskyrus registro techninį aprašymą (specifikaciją), yra konfidencialūs ir atskleidžiami tik tuo atveju, jeigu Lietuvos Respublikos įstatymai ar kiti teisės aktai reikalauja juose pateiktą informaciją atskleisti.
+3. Vadovaujantis registro nuostatais, parengiamas registro techninis aprašymas (specifikacija). Registro techninis aprašymas (specifikacija) ir kiti projektiniai dokumentai rengiami, derinami ir tvirtinami Vyriausybės nustatyta tvarka ir institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Registro diegimo dokumentai ir kiti projektiniai dokumentai, išskyrus registro techninį aprašymą (specifikaciją), yra konfidencialūs ir teikiami, jeigu galimybė teikti juose pateiktą informaciją yra numatyta įstatymuose ar jų pagrindu priimtuose kituose norminiuose teisės aktuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2539, 2019-11-26, paskelbta TAR 2019-12-06, i. k. 2019-19760
 
 4. Registras kuriamas vadovaujantis registro techniniu aprašymu (specifikacija), kitais projektiniais ir saugos dokumentais. Registras gali turėti funkciškai savarankiškų sudedamųjų dalių, skirtų elektroninėms paslaugoms teikti ir tik registro veiklai plėtoti.
 
@@ -908,7 +912,11 @@ Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
 
 1. Valstybės informacinė sistema pradedama kurti patvirtinus valstybės informacinės sistemos nuostatus. Valstybės informacinės sistemos kūrimą organizuoja ir prižiūri valstybės informacinės sistemos valdytojas. Valstybės informacinę sistemą kuria ir programinę įrangą diegia valstybės informacinės sistemos tvarkytojas ir (arba) teisės aktuose nustatyta tvarka parinktas (paskirtas) tiekėjas, kuriam valstybės informacinės sistemos valdytojas gali suteikti teisę tvarkyti duomenis valstybės informacinės sistemos kūrimo laikotarpiu. Valstybės informacinės sistemos kūrėjas privalo užtikrinti tvarkomų duomenų saugą Lietuvos Respublikos įstatymuose ir kituose teisės aktuose nustatyta tvarka.
 
-2. Valstybės informacinė sistema kuriama pagal valstybės informacinės sistemos techniniame aprašyme (specifikacijoje) nurodytą kūrimo būdą. Valstybės informacinės sistemos kūrimo būdas pasirenkamas vadovaujantis institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Valstybės informacinės sistemos techninis aprašymas (specifikacija) ir kiti projektiniai dokumentai rengiami, derinami ir tvirtinami vadovaujantis Vyriausybės nustatyta tvarka ir institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Valstybės informacinės sistemos diegimo dokumentai ir kiti projektiniai dokumentai, išskyrus valstybės informacinės sistemos techninį aprašymą (specifikaciją), yra konfidencialūs ir atskleidžiami tik tuo atveju, jeigu Lietuvos Respublikos įstatymai ar kiti teisės aktai reikalauja juose pateiktą informaciją atskleisti.
+2. Valstybės informacinė sistema kuriama pagal valstybės informacinės sistemos techniniame aprašyme (specifikacijoje) nurodytą kūrimo būdą. Valstybės informacinės sistemos kūrimo būdas pasirenkamas vadovaujantis institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Valstybės informacinės sistemos techninis aprašymas (specifikacija) ir kiti projektiniai dokumentai rengiami, derinami ir tvirtinami vadovaujantis Vyriausybės nustatyta tvarka ir institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Valstybės informacinės sistemos diegimo dokumentai ir kiti projektiniai dokumentai, išskyrus valstybės informacinės sistemos techninį aprašymą (specifikaciją), yra konfidencialūs ir teikiami, jeigu galimybė teikti juose pateiktą informaciją yra numatyta įstatymuose ar jų pagrindu priimtuose kituose norminiuose teisės aktuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2539, 2019-11-26, paskelbta TAR 2019-12-06, i. k. 2019-19760
 
 3. Valstybės informacinės sistemos valdytojas rengia valstybės informacinės sistemos, kuria planuojama apdoroti visai valstybei svarbi arba kelioms institucijoms svarbi institucijos valdoma informacija, kūrimo eigos ataskaitas ir teikia jas institucijai, atsakingai už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą.
 
@@ -1175,6 +1183,12 @@ Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
 Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
 Nr. XIII-1871, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00094
+
+7. Informacija apie saugos priemones, nurodytas šio straipsnio 1 dalyje, ir valstybės informacinių išteklių pažeidžiamumą yra konfidenciali ir teikiama, jeigu galimybė teikti šią informaciją yra numatyta įstatymuose ar jų pagrindu priimtuose kituose norminiuose teisės aktuose.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2539, 2019-11-26, paskelbta TAR 2019-12-06, i. k. 2019-19760
 
 44 straipsnis. Saugos įgaliotinis
 
