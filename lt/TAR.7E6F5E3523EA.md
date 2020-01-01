@@ -4,7 +4,7 @@ identifier: "TAR.7E6F5E3523EA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-10-26"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E6F5E3523EA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos triukšmo valdymo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 164-5971, i. k. 1041010ISTA0IX-2499
 
@@ -578,8 +578,6 @@ strateginis triukšmo kartografavimas IR PREVENCIJOS PRIEMONIŲ PLANAVIMAS
 
 4) stambių oro uostų.
 
-TAR pastaba. 1 dalyje nurodyti strateginiai triukšmo žemėlapiai turi būti sudaryti pagal 2016 metų duomenis ir patvirtinti ne vėliau kaip iki 2017 m. birželio 30 d. Po 2017 m. birželio 30 d. strateginiai triukšmo žemėlapiai sudaromi (tikslinami) pagal 17 straipsnio 7 dalį.
-
 2. Strateginiai triukšmo žemėlapiai ir pagal šių žemėlapių rezultatus parengiami duomenys bei informacija visuomenei gali būti pateikti šių formų:
 
 1) grafiniais brėžiniais – spausdintiniais žemėlapiais;
@@ -614,8 +612,6 @@ TAR pastaba. 1 dalyje nurodyti strateginiai triukšmo žemėlapiai turi būti su
 
 11. Lietuvos Respublika bendradarbiauja su kaimyninėmis valstybėmis, kai strateginis triukšmo kartografavimas atliekamas netoli jų bendros valstybės sienos. Lietuvos Respublikos bendradarbiavimas su kaimyninėmis valstybėmis strateginio triukšmo kartografavimo srityje vykdomas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-TAR pastaba. 17 straipsnio nuostatos dėl strateginių triukšmo žemėlapių reikalavimų taikomos strateginiams triukšmo žemėlapiams, kurie kompetentingų institucijų sudaromi ir patvirtinami įsigaliojus  įstatymui Nr. XII-2341, bei strateginiams triukšmo žemėlapiams, kurie sudaromi siekiant patikslinti iki šio įstatymo įsigaliojimo dienos (2016-11-01) sudarytus strateginius triukšmo žemėlapius. Iki šio įstatymo įsigaliojimo dienos kompetentingų institucijų sudaryti bei patvirtinti ir, įsigaliojus šiam įstatymui, patikslinti strateginiai triukšmo žemėlapiai galioja iki šio straipsnio 2 dalyje nurodyto termino.
-
 Straipsnio pakeitimai:
 
 Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
@@ -627,8 +623,6 @@ Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 1) savivaldybių, kuriose yra aglomeracijų, tarybų tvirtinamus aglomeracijų triukšmo prevencijos veiksmų planus;
 
 2) Vyriausybės nustatyta tvarka Susisiekimo ministerijos ar jos įgaliotų pavaldžių įstaigų tvirtinamus ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos veiksmų planus.
-
-TAR pastaba. 18 straipsnio 1 dalyje nurodyti triukšmo prevencijos veiksmų planai Vyriausybės nustatyta tvarka sudaromi ir patvirtinami ne vėliau kaip iki 2018 m. liepos 18 d. Šioje dalyje nurodyti triukšmo prevencijos veiksmų planai sudaromi pagal 2016 metų padėtį parodančių strateginių triukšmo žemėlapių rezultatus. Toliau triukšmo prevencijos veiksmų planai sudaromi ir patvirtinami ne vėliau kaip kas 5 metus, skaičiuojant nuo šioje dalyje nurodyto termino.
 
 2. Šio straipsnio 1 dalyje nurodyti triukšmo prevencijos veiksmų planai Vyriausybės nustatyta tvarka sudaromi ir patvirtinami ne rečiau kaip kas penkerius metus. Triukšmo prevencijos veiksmų planai sudaromi ir patvirtinami ne anksčiau negu strateginiai triukšmo žemėlapiai.
 
@@ -722,7 +716,11 @@ TRIUKŠMO KONTROLĖ
 
 24 straipsnis. Orlaivių keliamo triukšmo prevencija
 
-1. Oro uostų sanitarinės apsaugos zonos nustatomos atsižvelgiant į triukšmo lygį.
+1. Neteko galios nuo 2020-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2189, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09845
 
 2. Orlaivių keliamo triukšmo mažinimo priemones nustato Susisiekimo ministerija.
 
@@ -878,7 +876,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -931,6 +929,14 @@ Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 2, 5, 7, 8, 9, 11, 
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-1566, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17486
+
+Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 24 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2189, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09845
 
 Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 24 straipsnio pakeitimo įstatymas
 
