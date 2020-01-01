@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "2019-11-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
-
-TAR pastaba. Leidimai naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, išduoti iki įstatymo Nr. XIII-2241 įsigaliojimo (2019-11-01), galioja iki juose nurodyto laikotarpio pabaigos. Iki šio įstatymo įsigaliojimo pradėtos leidimų naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis išdavimo ar leidimų galiojimo panaikinimo procedūros tęsiamos iki šio įstatymo įsigaliojimo nustatyta tvarka.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
-
-Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 20 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2002-10-23:
 
@@ -72,7 +64,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
-6. Kelio apsaugos zona – šio Įstatymo 12 straipsnio 1 dalyje nustatyto pločio žemės juosta abipus kelio briaunų, kurioje ribojama ūkinė veikla.
+6. Kelio apsaugos zona – abipus kelio briaunų esanti žemės juosta, kurioje ribojama ūkinė veikla.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2179, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09959
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -426,75 +422,23 @@ Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
 
 12 straipsnis. Kelio apsaugos zona
 
-1. Siekiant sudaryti saugias eismo sąlygas, nuo kelio briaunų į abi puses nustatoma kelio apsaugos zona. Jos plotis pagal kelio reikšmę yra:
+Siekiant sudaryti saugias eismo sąlygas, nuo kelio briaunų į abi puses nustatoma kelio apsaugos zona. Kelių apsaugos zonų dydis nustatytas Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme.
 
-1) magistralinių kelių
+Straipsnio pakeitimai:
 
-–
-
-po 70 metrų;
-
-2) krašto kelių
-
-–
-
-po 50 metrų;
-
-3) rajoninių kelių
-
-–
-
-po 20 metrų;
-
-4) vietinės reikšmės I–III kategorijos kelių
-
-–
-
-po 10 metrų.
-
-5) vietinės reikšmės IV kategorijos kelių
-
-–
-
-po 3 metrus.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
-
-2. Kelio apsaugos zonas miestuose, kaimo gyvenamosiose vietovėse įstatymų nustatyta tvarka gali tikslinti Teritorijų planavimo įstatyme numatyti planavimo organizatoriai, turintys teisę tvirtinti teritorijų planavimo dokumentus (bendruosius, detaliuosius, specialiuosius planus).
+Nr. XIII-2179, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09959
 
 13 straipsnis. Darbų vykdymas keliuose ir jų apsaugos zonose
 
-1. Keliuose, kelių juostose ir jų apsaugos zonose dirbti įvairius darbus be kelio savininko leidimo draudžiama. Technines eismo reguliavimo priemones suderinusios su policija įrengia kelius prižiūrinčios įmonės.
+1. Keliuose, kelių juostose dirbti įvairius darbus be kelio savininko leidimo (sutikimo) draudžiama. Technines eismo reguliavimo priemones, suderinusios su policija, įrengia kelius prižiūrinčios įmonės.
 
-Straipsnio dalies pakeitimai:
+2. Draudžiama įrengti išorinę reklamą keliuose, virš kelių, kelių juostose. Gatvėse ir prie jų įrengti išorinę reklamą draudžiama, jeigu ji gali užstoti technines eismo reguliavimo priemones, pabloginti matomumą eismo dalyviams, kelti pavojų eismo saugumui. Be to, draudžiama naudoti reklamą, imituojančią kelio ženklus ir (arba) naudojančią kelio ženklų simboliką.
 
-Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
+3. Specialiosios žemės naudojimo sąlygos kelių apsaugos zonose nustatytos Specialiųjų žemės naudojimo sąlygų įstatyme.
 
-2. Kelių apsaugos zonose leidžiama statyti statinius ar įrenginius laikantis Statybos įstatymo, atsižvelgiant į kelių plėtros perspektyvą bei saugaus eismo reikalavimus, pagal normatyvinių statybos techninių dokumentų nustatytą tvarką ir suderintus projektus. Kelių apsaugos zonose rudens, žiemos ir pavasario laikotarpiais leidžiama statyti laikinus sniegą sulaikančius įrenginius.
+Straipsnio pakeitimai:
 
-3. Kelių apsaugos zonose draudžiama:
-
-1) statyti gyvenamuosius namus, visuomeninius ir kitus pastatus, kurie nesusiję su transporto priemonių ir keleivių aptarnavimu;
-
-2) statyti paminklinius akcentus-simbolius, įrengti karjerus, vandens telkinius, sandėliuoti medžiagas be kelio ir žemės savininko (valdytojo) leidimo.
-
-Straipsnio dalies pakeitimai:
-
-Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
-
-4. Draudžiama įrengti išorinę reklamą keliuose, virš kelių, kelių juostose ir jų apsaugos zonose, išskyrus stendus, eismo dalyvius informuojančius apie kelio būklę. Išorinę reklamą įrengti draudžiama gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, pabloginti matomumą, akinti eismo dalyvius, kelti pavojų eismo dalyviams. Taip pat draudžiama naudoti reklamą, imituojančią kelio ženklus ir (arba) naudojančią kelio ženklų simboliką.
-
-Papildyta straipsnio dalimi:
-
-Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
-
-5. Kelio apsaugos zonose esančius antžeminius ar požeminius inžinerinius tinklus prižiūri jų savininkai. Šie tinklai tiesiami ir rekonstruojami pagal patvirtintus projektus. Darbams atlikti būtina gauti kelio ir žemės valdytojo ar jos savininko leidimą.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
+Nr. XIII-2179, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09959
 
 14 straipsnis. Kelių pripažinimas tinkamais naudoti
 
@@ -839,6 +783,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
 
 Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 20 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2179, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09959
+
+Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 12 ir 13 straipsnių pakeitimo įstatymas
 
 25 straipsnis.
 
