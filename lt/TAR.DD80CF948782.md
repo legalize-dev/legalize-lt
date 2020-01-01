@@ -4,7 +4,7 @@ identifier: "TAR.DD80CF948782"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2019-05-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
 
@@ -77,7 +77,11 @@ Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
 
 16. Radiotechninis objektas – radijo ryšio įrenginys, spinduliuojantis radijo bangas, veikiantis nuo 10 kHz iki 300 GHz radijo dažnių juostoje.
 
-17. Sanitarinės apsaugos zona – aplink stacionarų taršos šaltinį arba kelis šaltinius esanti teritorija, kurioje dėl galimo neigiamo vykdomos ūkinės veiklos poveikio visuomenės sveikatai galioja įstatymais ar Vyriausybės nutarimais nustatytos specialiosios žemės naudojimo sąlygos.
+17. Sanitarinės apsaugos zona – aplink stacionarų taršos šaltinį arba kelis šaltinius esanti teritorija, kurioje dėl galimo neigiamo planuojamos ar vykdomos ūkinės veiklos poveikio visuomenės sveikatai galioja Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nustatytos specialiosios žemės naudojimo sąlygos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2192, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09848
 
 18. Biocidinis produktas – kaip apibrėžta 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 528/2012 dėl biocidinių produktų tiekimo rinkai ir jų naudojimo (toliau – Reglamentas (ES) Nr. 528/2012).
 
@@ -451,21 +455,29 @@ Nr. XII-408, 2013-06-27, Žin., 2013, Nr. 76-3825 (2013-07-16)
 
 24 straipsnis. Sanitarinės apsaugos zonos
 
-1. Asmenys, projektuojantys, statantys, rekonstruojantys (norintys keisti ūkinę veiklą, didinti jos intensyvumą), valdantys ar turintys nuosavybės teise statinius, kuriuose vykdoma (planuojama vykdyti) ūkinė veikla yra susijusi su žmogaus gyvenamosios aplinkos tarša, arba planuojantys šių statinių teritorijas, nustato sanitarinės apsaugos zonas. Sanitarinės apsaugos zonos ribos nustatomos ir įrašomos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą vadovaujantis Žemės įstatymu.
+1. Asmenys, planuojantys ir (ar) vykdantys ūkinę veiklą, kuri yra susijusi su poveikiu aplinkai ir dėl to galimu neigiamu poveikiu visuomenės sveikatai, inicijuoja sanitarinės apsaugos zonų nustatymą. Sanitarinės apsaugos zonos nustatomos ūkinei veiklai ir (ar) objektams, nurodytiems Specialiųjų žemės naudojimo sąlygų įstatyme.
 
-2. Ūkinei veiklai, kuriai nustatomos sanitarinės apsaugos zonos, sanitarinės apsaugos zonos ribų dydžius nustato Vyriausybė. Pastatams, kuriuose laikomi ūkiniai gyvūnai (iki 300 sutartinių gyvulių), su esančiais prie jų mėšlo ir srutų kaupimo įrenginiais arba be jų, sanitarinės apsaugos zonos nenustatomos. Planuojamos ūkinės veiklos poveikio visuomenės sveikatai vertinimo ar planuojamos ūkinės veiklos poveikio aplinkai vertinimo procesų metu, įvertinus konkrečios ūkinės veiklos galimą poveikį visuomenės sveikatai, Vyriausybės patvirtinti sanitarinės apsaugos zonos ribų dydžiai gali būti sumažinti.
+2. Sanitarinės apsaugos zonų nustatymo tikslai:
 
-3. Planuojamos ūkinės veiklos poveikio visuomenės sveikatai vertinimo ar planuojamos ūkinės veiklos poveikio aplinkai vertinimo procesų metu, atliekant poveikio visuomenės sveikatai vertinimą, įvertinus konkrečios ūkinės veiklos galimą poveikį visuomenės sveikatai, gali būti nustatyti kitokie negu Vyriausybės patvirtinti sanitarinės apsaugos zonos ribų dydžiai.
+1) apsaugoti visuomenės sveikatą nuo ūkinės veiklos keliamų visuomenės sveikatai darančių įtaką veiksnių galimo neigiamo poveikio arba sumažinti šio poveikio riziką;
 
-4. Ūkinei veiklai, kuri susijusi su žmogaus gyvenamosios aplinkos tarša, nustatytose ir įteisintose sanitarinės apsaugos zonose draudžiama statyti gyvenamosios paskirties pastatus (namus), sodo namus, viešbučių, administracinės, prekybos, maitinimo, kultūros, mokslo, poilsio, gydymo, sporto ir religinės paskirties pastatus, specialiosios paskirties pastatus, susijusius su apgyvendinimu, įrengti minėtų objektų patalpas kitos paskirties pastatuose, steigti rekreacines teritorijas, išskyrus atvejus, kai minėti objektai naudojami tik įmonės ar ūkininko ūkio reikmėms.
+2) suderinti fizinių ir juridinių asmenų ar jų grupių, savivaldybių ir valstybės interesus dėl teritorijos naudojimo ir veiklos plėtojimo teritorijoje sąlygų, siekiant užtikrinti visuomenės sveikatos saugą.
 
-5. Kontrolę, kaip laikomasi sanitarinės apsaugos zonų nustatymo ir zonoms nustatytų reikalavimų, pagal kompetenciją vykdo savivaldybių institucijos, Sveikatos apsaugos ministerijos įgaliotos institucijos ir kitos valstybės valdymo institucijos.
+3. Ūkinei veiklai ir (ar) objektams, kuriems nustatomos sanitarinės apsaugos zonos, sanitarinės apsaugos zonų dydis nurodytas Specialiųjų žemės naudojimo sąlygų įstatyme arba šis dydis nustatomas planuojamos ūkinės veiklos poveikio visuomenės sveikatai vertinimo ir planuojamos ūkinės veiklos poveikio aplinkai vertinimo dokumentuose, atlikus poveikio visuomenės sveikatai vertinimą. Atlikus planuojamos ūkinės veiklos poveikio visuomenės sveikatai vertinimą ar planuojamos ūkinės veiklos poveikio aplinkai vertinimą, įvertinus konkrečios ūkinės veiklos galimą poveikį visuomenės sveikatai, Specialiųjų žemės naudojimo sąlygų įstatyme nurodytas ar poveikio visuomenės sveikatai vertinimo metu nustatytas sanitarinės apsaugos zonų dydis gali būti sumažintas arba padidintas planuojamos ūkinės veiklos poveikio visuomenės sveikatai vertinimo ir planuojamos ūkinės veiklos poveikio aplinkai vertinimo dokumentuose.
+
+4. Specialiosios žemės naudojimo sąlygos ūkinės veiklos ir (ar) objektų sanitarinės apsaugos zonose nustatytos Specialiųjų žemės naudojimo sąlygų įstatyme.
+
+5. Kontrolę, kaip laikomasi sanitarinės apsaugos zonų nustatymo ir zonoms nustatytų reikalavimų, pagal kompetenciją vykdo savivaldybių institucijos, Sveikatos apsaugos ministerijos įgaliotos institucijos ir kitos valstybės institucijos.
 
 Straipsnio pakeitimai:
 
 Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 
 Nr. XII-408, 2013-06-27, Žin., 2013, Nr. 76-3825 (2013-07-16)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2192, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09848
 
 25 straipsnis. Visuomenės sveikatos saugos užtikrinimas planuojant teritorijas, pradedant ir plečiant ūkinę veiklą
 
@@ -713,17 +725,17 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 
 2. Visuomenės sveikatos priežiūros specialistų teorinio ir praktinio profesinio tobulinimosi formos yra šios:
 
-1) mokslo įstaigų, įregistruotų teisės aktų nustatyta tvarka ir turinčių leidimus šiam darbui, organizuoti kursai ir seminarai;
+1) mokslinių tyrimų institutų, įregistruotų teisės aktų nustatyta tvarka ir turinčių leidimus šiam darbui, organizuoti kursai ir seminarai;
 
 2) aukštųjų mokyklų ir visuomenės sveikatos priežiūros specialistų mokslo draugijų organizuojamos mokslinės ir mokslinės praktinės konferencijos;
 
-3) įstaigų ir įmonių pagal sutartis su Lietuvos ir užsienio studijų institucijomis organizuoti teorinio ir praktinio tobulinimosi kursai ir seminarai;
+3) įstaigų ir įmonių pagal sutartis su Lietuvos ir užsienio mokslo ir studijų institucijomis organizuoti teorinio ir praktinio tobulinimosi kursai ir seminarai;
 
-4) visuomenės sveikatos priežiūros viešojo administravimo subjektų ar jų įsteigtų profesinio tobulinimo, specializuotų visuomenės sveikatos priežiūros įstaigų ir įmonių, turinčių licenciją verstis visuomenės sveikatos priežiūra, organizuoti praktinio tobulinimosi kursai ir seminarai.
+4) visuomenės sveikatos priežiūros biudžetinių įstaigų profesinio tobulinimo, specializuotų visuomenės sveikatos priežiūros įstaigų ir įmonių, turinčių licenciją verstis visuomenės sveikatos priežiūra, organizuoti ir vykdyti praktinio tobulinimosi kursai ir seminarai.
 
 3. Visuomenės sveikatos priežiūros specialistų profesinio tobulinimosi pažymėjimai pripažįstami Sveikatos apsaugos ministerijos nustatyta tvarka.
 
-4. Visuomenės sveikatos priežiūros specialistų profesinis tobulinimas vykdomas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+4. Visuomenės sveikatos priežiūros specialistų profesinis tobulinimas vykdomas sveikatos apsaugos ministro nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -902,6 +914,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1910, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00842
 
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 7 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2192, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09848
+
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 2 ir 24 straipsnių pakeitimo įstatymas
 
 5 straipsnis. Visuomenės sveikatos priežiūros įstaigų sistemos struktūra
 
