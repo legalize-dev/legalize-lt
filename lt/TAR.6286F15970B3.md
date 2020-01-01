@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2019-10-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-11-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -54,7 +54,11 @@ BENDROSIOS NUOSTATOS
 
 7) sukurti tinkamas sąlygas investicijoms į branduolinės energetikos infrastruktūrą.
 
-3. Šis įstatymas nustato veiklos su branduolinėmis medžiagomis, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais ir branduolinio kuro ciklo medžiagų, įskaitant radioaktyviąsias atliekas, tvarkomų branduolinės energetikos objekte, tvarkymo bendruosius teisinius pagrindus. Branduolinės saugos, radiacinės saugos ir radioaktyviųjų atliekų tvarkymo saugos reglamentavimas ir priežiūra branduolinės energetikos srityje atliekami vadovaujantis šiuo įstatymu ir Lietuvos Respublikos branduolinės saugos įstatymu (toliau – Branduolinės saugos įstatymas), Lietuvos Respublikos radiacinės saugos įstatymu (toliau – Radiacinės saugos įstatymas) ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu (toliau – Radioaktyviųjų atliekų tvarkymo įstatymas).
+3. Šis įstatymas nustato veiklos su branduolinėmis medžiagomis, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais ir branduolinio kuro ciklo medžiagų tvarkymo bendruosius teisinius pagrindus. Branduolinės saugos, radiacinės saugos ir radioaktyviųjų atliekų tvarkymo saugos reglamentavimas ir priežiūra branduolinės energetikos srityje atliekami vadovaujantis šiuo įstatymu ir Lietuvos Respublikos branduolinės saugos įstatymu, Lietuvos Respublikos radiacinės saugos įstatymu ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2663, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20835
 
 4. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 
@@ -110,9 +114,19 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
 
-18. Branduolinės energetikos objekto statiniai – prie ypatingų statinių kategorijos priskiriami branduolinės (atominės) elektrinės, branduolinės (atominės) elektrinės energijos bloko, neenergetinio branduolinio reaktoriaus, branduolinių medžiagų saugyklos, radioaktyviųjų atliekų tvarkymo įrenginio pastatai ir (ar) inžineriniai statiniai.
+18. Branduolinės energetikos objekto statiniai – branduolinės energetikos objekto pastatai ir (ar) inžineriniai statiniai, kuriuose planuojama vykdyti arba vykdoma veikla su branduolinio kuro ciklo medžiagomis arba kurie yra laikomi paveiktais radionuklidų, taip pat pastatai ir (ar) inžineriniai statiniai, kurių ir (arba) kuriuose esančių įrenginių viena iš paskirčių yra užtikrinti branduolinės energetikos objekto branduolinę, radiacinę ir (arba) fizinę saugą.
 
-19. Branduolinio kuro ciklo medžiaga – branduolinės energetikos objekte naudojama arba tvarkoma branduolinė medžiaga, įskaitant branduolinį kurą, ar kita branduolinės energetikos srityje naudota medžiaga, tapusi radioaktyvi, įskaitant radioaktyviąsias atliekas.
+TAR pastaba. Iki įstatymo Nr. XIII-2663 įsigaliojimo (2020-01-01) branduolinės energetikos objekto aikštelėje esantys pastatai ir (ar) inžineriniai statiniai ir (ar) branduolinės energetikos objekto projekte nurodyti pastatai ir (ar) inžineriniai statiniai laikomi branduolinės energetikos objekto statiniais tol, kol bus atlikta branduolinės energetikos objekto projekto modifikacija atsižvelgiant į šio įstatymo 2 straipsnio 1 dalyje išdėstytas Lietuvos Respublikos branduolinės energijos įstatymo 2 straipsnio 18 dalies nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2663, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20835
+
+19. Branduolinio kuro ciklo medžiaga – branduolinis kuras, branduolinės energetikos objekte naudojama arba saugoma branduolinė medžiaga, branduolinės energetikos objekte tvarkomos radioaktyviosios atliekos ar branduolinės energetikos srityje naudota medžiaga, tapusi radioaktyvi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2663, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20835
 
 20. Branduolinis incidentas – branduolinės energetikos objekto eksploatavimo arba su branduolinėmis ir (ar) branduolinio kuro ciklo medžiagomis susijusios veiklos sutrikimas, keliantis pavojų žmonėms, turtui ar aplinkai, tačiau neatitinkantis branduolinės ar radiologinės avarijos kriterijų.
 
@@ -170,7 +184,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
 
-36. Sanitarinė apsaugos zona – zona aplink branduolinės energetikos objektą, kurioje dėl galimo neigiamo jonizuojančiosios spinduliuotės poveikio žmonių sveikatai ir aplinkai galioja nustatytos specialiosios žemės naudojimo sąlygos.
+36. Neteko galios nuo 2020-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2171, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09942
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -736,15 +754,19 @@ Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
 
 4. Leidimų statyti, rekonstruoti, kapitališkai remontuoti ar griauti branduolinės energetikos objekto statinius išdavimo taisykles tvirtina Vyriausybė.
 
-28 straipsnis. Sanitarinė apsaugos zona
+28 straipsnis. Sanitarinės apsaugos zona
 
-1. Aplink branduolinės energetikos objektą nustatoma sanitarinė apsaugos zona, kurios ribos, tvarkymo režimai ir veiklos šioje zonoje reikalavimai nustatomi vadovaujantis šiuo įstatymu ir kitais teisės aktais. Sanitarinės apsaugos zonos ribos, vadovaujantis teritorijų planavimo dokumentais, pažymimos objekto statybos projektiniuose dokumentuose ir peržiūrimos pasikeitus branduolinės energetikos objekto charakteristikoms.
+1. Aplink branduolinės energetikos objektą nustatoma sanitarinės apsaugos zona. Branduolinės energetikos objektų sanitarinės apsaugos zonų dydžio reikalavimai ir šiose zonose taikomos specialiosios žemės naudojimo sąlygos nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme.
 
-2. Prieš pirmą kartą įvežant branduolines ir (ar) branduolinio kuro ciklo medžiagas į branduolinės energetikos objekto aikštelę, iš sanitarinės apsaugos zonos teritorijos Vyriausybės nustatyta tvarka iškeldinami visi gyventojai. Joje draudžiama su branduolinės energetikos objekto eksploatavimu, eksploatavimo nutraukimu ar priežiūra nesusijusi veikla, statinių ir įrenginių statyba, išskyrus kitų naujų branduolinės energetikos objektų statybą, su jų eksploatavimu, eksploatavimo nutraukimu ir priežiūra susijusią veiklą ir jų eksploatavimui ar eksploatavimo nutraukimui reikalingų statinių ir įrenginių statybą šio įstatymo ir kitų teisės aktų nustatyta tvarka. Žemė, miškai ir vandens telkiniai, esantys sanitarinėje apsaugos zonoje, teisės aktų nustatyta tvarka gali būti naudojami kitai ūkinei komercinei veiklai tik gavus visų atitinkamoje teritorijoje veiklą vykdančių licencijų turėtojų rašytinį sutikimą ir suderinus su Sveikatos apsaugos ministerija, Valstybine atominės energetikos saugos inspekcija ir Aplinkos ministerija.
+2. Prieš pirmą kartą įvežant branduolines ir (ar) branduolinio kuro ciklo medžiagas į branduolinės energetikos objekto aikštelę, iš sanitarinės apsaugos zonos Vyriausybės nustatyta tvarka iškeldinami visi gyventojai.
 
-3. Aplinkos monitoringas ir visuomenės sveikatos stebėsena (monitoringas) sanitarinėje apsaugos zonoje ir už jos ribų vykdomi vadovaujantis Lietuvos Respublikos aplinkos monitoringo ir Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymais.
+3. Aplinkos monitoringas ir visuomenės sveikatos stebėsena (monitoringas) sanitarinės apsaugos zonoje ir už jos ribų vykdomi vadovaujantis Lietuvos Respublikos aplinkos monitoringo įstatymu ir Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymu.
 
-4. Sanitarinėje apsaugos zonoje licencijos turėtojas planuoja ir įgyvendina branduolinių ir radiologinių avarijų ir jų padarinių likvidavimo priemones, sudaro reikiamas sąlygas informacijai perduoti, taip pat užtikrina skubų sanitarinės apsaugos zonoje dirbančių darbuotojų įspėjimą branduolinių ir (ar) radiologinių avarijų atvejais.
+4. Sanitarinės apsaugos zonoje licencijos turėtojas planuoja ir įgyvendina branduolinių ir radiologinių avarijų ir jų padarinių likvidavimo priemones, sudaro reikiamas sąlygas informacijai perduoti, taip pat užtikrina skubų sanitarinės apsaugos zonoje dirbančių darbuotojų įspėjimą branduolinių ir (ar) radiologinių avarijų atvejais.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2171, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09942
 
 PENKTASIS SKIRSNIS
 
@@ -798,11 +820,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-654, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16004
 
-5) parengti branduolinės energetikos objekto avarinės parengties planą ir užtikrinti pasirengimą likviduoti branduolinių ir radiologinių avarijų padarinius branduolinės energetikos objekte ir branduolinės energetikos objekto sanitarinėje apsaugos zonoje;
+5) parengti branduolinės energetikos objekto avarinės parengties planą ir užtikrinti pasirengimą likviduoti branduolinių ir radiologinių avarijų padarinius branduolinės energetikos objekte ir branduolinės energetikos objekto sanitarinės apsaugos zonoje;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-654, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16004
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2171, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09942
 
 6) atlikti kitas šio įstatymo ir kitų įstatymų pagrindu nustatytas pareigas.
 
@@ -1381,6 +1407,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2156, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09408
 
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 36 straipsnio pakeitimo įstatymas
+
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2171, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09942
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2, 28 ir 30 straipsnių pakeitimo įstatymas
+
+28.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2663, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20835
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 1 ir 2 straipsnių pakeitimo įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
