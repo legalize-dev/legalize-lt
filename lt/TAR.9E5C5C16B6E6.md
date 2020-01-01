@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2019-11-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-07-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -100,7 +100,11 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
 16. Masinis renginys – šventė, festivalis ar kitas didelei žmonių grupei skirtas renginys, kurį organizuoja valstybės ar savivaldybių institucijos ar įstaigos, fiziniai asmenys, juridiniai asmenys ar juridinio asmens statuso neturinčios organizacijos ar jų filialai, suderinę renginio laiką ir jo organizavimo tvarką su reikiamomis savivaldybės institucijomis (kai toks suderinimas būtinas pagal Lietuvos Respublikos susirinkimų įstatymą).
 
-17. Mažmeninės prekybos vieta – parduotuvė, automobilinė parduotuvė, paviljonas, kuriuose verčiamasi mažmenine prekyba ir kurie yra įrengti laikantis maisto tvarkymą reglamentuojančių teisės aktų reikalavimų.
+17. Mažmeninės prekybos vieta – parduotuvė, automobilinė parduotuvė ir kitos vietos, kuriose verčiamasi mažmenine prekyba ir kurios yra įrengtos laikantis maisto tvarkymą reglamentuojančių teisės aktų reikalavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
 171. Minibaras – viešbučio kambaryje įrengtas nedidelis (iki 55 litrų talpos) baras-šaldytuvas, kuriame laikomos alkoholinių gėrimų (neputojančio ir aromatizuoto vyno, natūralios fermentacijos vaisių vyno, supilstyto į ne didesnę kaip 250 mililitrų tarą, kitų alkoholinių gėrimų (išskyrus putojantį vyną, natūralios fermentacijos sidrą, alų ir alaus mišinius su nealkoholiniais gėrimais), supilstytų į ne didesnę kaip 200 mililitrų tarą, putojančio vyno, natūralios fermentacijos sidro, alaus ir alaus mišinių su nealkoholiniais gėrimais) atsargos, skirtos vartoti viešbučio kambario gyventojams.
 
@@ -132,7 +136,11 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
-24. Paviljonas – Nekilnojamojo turto registre neregistruojamas ir į žemę įleistų pamatų neturintis laikinas statinys, pagamintas gamykloje ar pastatytas iš surenkamų konstrukcijų ir turintis viduje įrengtą prekybos salę pirkėjams aptarnauti.
+24. Neteko galios.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
 25. Specialioji prekybos vieta – tarptautiniame jūrų ar oro uoste ar Lietuvos Respublikos valstybės sienos su trečiosiomis šalimis perėjimo punkte įsteigtame akcizais apmokestinamų prekių ir (ar) prekių, kurioms taikomos pridėtinės vertės mokesčio lengvatos, sandėlyje įrengta parduotuvė, kurioje alkoholiniai gėrimai parduodami tik iš Lietuvos Respublikos išvykstantiems keleiviams.
 
@@ -360,7 +368,7 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
 2. Įmonės, turinčios licencijas gaminti alkoholio produktus, turi teisę verstis ir didmenine prekyba savo pagamintais produktais.
 
-3. Mažmenine prekyba alkoholiniais gėrimais leidžiama verstis tik turint licenciją verstis mažmenine prekyba alkoholiniais gėrimais. Licencijas ir jų dublikatus išduoda, papildo, rekvizitus patikslina atitinkamos savivaldybės vykdomoji institucija. Licencijos verstis sezonine mažmenine prekyba alumi, alaus mišiniais su nealkoholiniais gėrimais, natūralios fermentacijos sidru, kurio tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, ir alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų, kurortuose ir kitose savivaldybių tarybų nustatytose poilsio bei turizmo teritorijose išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams savivaldybių tarybų nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiui. Vienkartinės licencijos verstis mažmenine prekyba natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, parodose, natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, mugėse ir masiniuose renginiuose, taip pat verstis mažmenine prekyba visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariuose pastatuose, išduodamos teisę verstis mažmenine prekyba atitinkamų grupių alkoholiniais gėrimais turinčioms įmonėms, Europos juridiniams asmenims ir jų filialams ne ilgesniam kaip renginio trukmės laikui. Kitos licencijos verstis mažmenine prekyba alkoholiniais gėrimais išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams neterminuotam laikui. Įmonėms, Europos juridiniams asmenims ir jų filialams, prekiaujantiems alkoholiniais gėrimais stacionariosiose viešojo maitinimo vietose, jų turima neterminuota mažmeninės prekybos alkoholiniais gėrimais licencija suteikia teisę aptarnauti pirkėjus lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo stacionariosios viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose), išskyrus atvejus, kai savivaldybės taryba nustato mažesnį atstumą arba uždraudžia prekybą alkoholiniais gėrimais lauko sąlygomis.
+3. Mažmenine prekyba alkoholiniais gėrimais leidžiama verstis tik turint licenciją verstis mažmenine prekyba alkoholiniais gėrimais. Licencijas ir jų dublikatus išduoda, papildo, rekvizitus patikslina atitinkamos savivaldybės vykdomoji institucija. Vienkartinės licencijos verstis mažmenine prekyba natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, parodose, natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, mugėse ir masiniuose renginiuose, taip pat verstis mažmenine prekyba visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariuose pastatuose, išduodamos teisę verstis mažmenine prekyba atitinkamų grupių alkoholiniais gėrimais turinčioms įmonėms, Europos juridiniams asmenims ir jų filialams ne ilgesniam kaip renginio trukmės laikui. Kitos licencijos verstis mažmenine prekyba alkoholiniais gėrimais išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams neterminuotam laikui. Įmonėms, Europos juridiniams asmenims ir jų filialams, prekiaujantiems alkoholiniais gėrimais stacionariosiose viešojo maitinimo vietose, jų turima neterminuota mažmeninės prekybos alkoholiniais gėrimais licencija suteikia teisę aptarnauti pirkėjus lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo stacionariosios viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose), išskyrus atvejus, kai savivaldybės taryba nustato mažesnį atstumą arba uždraudžia prekybą alkoholiniais gėrimais lauko sąlygomis.
 
 Straipsnio dalies pakeitimai:
 
@@ -562,17 +570,13 @@ Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 
 1) alkoholiniais gėrimais – stacionariosiose alkoholinių gėrimų parduotuvėse, stacionariųjų parduotuvių alkoholinių gėrimų skyriuose, stacionariosiose viešojo maitinimo vietose, kaimo gyvenamosiose vietovėse esančių stacionariųjų parduotuvių nespecializuotuose skyriuose, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, parodose ir mugėse, vykstančiose stacionariuose pastatuose, viešbučių kambariuose įrengtuose minibaruose, taip pat specialiosiose prekybos vietose;
 
-2) gamyklų supilstytais į tarą natūralios fermentacijos sidru, alumi ir alaus mišiniais su nealkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento – paviljonuose, automobilinėse parduotuvėse (iš kurių yra aptarnaujami kaimo gyventojai savivaldybės tarybos nustatyta tvarka);
+2) gamyklų supilstytais į tarą natūralios fermentacijos sidru, alumi ir alaus mišiniais su nealkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, – automobilinėse parduotuvėse (iš kurių yra aptarnaujami kaimo gyventojai savivaldybės tarybos nustatyta tvarka);
 
-3) alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų, – nestacionariosiose viešojo maitinimo vietose savivaldybės tarybos nustatyto kurortinio, poilsio ir turizmo sezono laikotarpiu;
+3) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, – parodose;
 
-4) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, – parodose;
+4) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, – mugėse ir masiniuose renginiuose.
 
-5) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, – mugėse ir masiniuose renginiuose.
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
+Straipsnio dalies pakeitimai:
 
 Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
@@ -644,9 +648,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
+15) paplūdimiuose.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+
 4. Lietuvos Respublikoje draudžiama parduoti:
 
-1) pilstomus alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems stacionariosiose viešojo maitinimo vietose, stacionariuose pastatuose vykstančiose parodose ir mugėse, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, alkoholiniams gėrimams (kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų), parduodamiems nestacionariosiose viešojo maitinimo vietose savivaldybės tarybos nustatyto kurortinio, poilsio ir turizmo sezono laikotarpiu, taip pat pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui, parduodamiems firminėse alkoholinių gėrimų gamybos įmonių parduotuvėse, pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais, natūralios fermentacijos midui ir natūralios fermentacijos sidrui (kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento), parduodamiems parodose, mugėse ir kituose masiniuose renginiuose;
+1) pilstomus alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems stacionariosiose viešojo maitinimo vietose, stacionariuose pastatuose vykstančiose parodose ir mugėse, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, taip pat pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui, parduodamiems firminėse alkoholinių gėrimų gamybos įmonių parduotuvėse, pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais, natūralios fermentacijos midui ir natūralios fermentacijos sidrui (kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento), parduodamiems parodose, mugėse ir kituose masiniuose renginiuose;
 
 Straipsnio punkto pakeitimai:
 
@@ -2478,11 +2488,11 @@ Leidimai pirkti nedenatūruoto etilo alkoholio ir leidimai pirkti ir (ar) naudot
 
 161 straipsnis. Prekybos alkoholiniais gėrimais vieta
 
-Šiame Įstatyme prekybos alkoholiniais gėrimais vieta laikomos parduotuvių, paviljonų, restoranų, kavinių, barų, bufetų, kitos mažmeninės prekybos ir viešojo maitinimo vietų patalpos, automobilinės parduotuvės, kuriose alkoholiniai gėrimai parduodami vartotojui, taip pat viešbučių kambarių minibarai. Kai koncertų, cirko, sporto, diskotekų ir kitų masinių renginių (vykstančių patalpose), teatro spektaklių, kino ir videofilmų demonstravimo vietose alkoholiniai gėrimai parduodami ne prekybai skirtose atskirose patalpose, prekybos alkoholiniais gėrimais vieta laikoma prekybai skirta patalpų dalis, kurioje leidžiama parduoti ir vartoti alkoholinius gėrimus. Aptarnaujant pirkėjus lauko sąlygomis, prekybos alkoholiniais gėrimais vieta laikoma alkoholinių gėrimų pardavimo vieta ir alkoholiniams gėrimams vartoti įrengtos vietos (stalai, pavėsinės, kiti įrenginiai).
+Šiame Įstatyme prekybos alkoholiniais gėrimais vieta laikomos parduotuvių, restoranų, kavinių, barų, bufetų, kitos mažmeninės prekybos ir viešojo maitinimo vietų patalpos, automobilinės parduotuvės, kuriose alkoholiniai gėrimai parduodami vartotojui, taip pat viešbučių kambarių minibarai. Kai koncertų, cirko, sporto, diskotekų ir kitų masinių renginių (vykstančių patalpose), teatro spektaklių, kino ir videofilmų demonstravimo vietose alkoholiniai gėrimai parduodami ne prekybai skirtose atskirose patalpose, prekybos alkoholiniais gėrimais vieta laikoma prekybai skirta patalpų dalis, kurioje leidžiama parduoti ir vartoti alkoholinius gėrimus. Aptarnaujant pirkėjus lauko sąlygomis, prekybos alkoholiniais gėrimais vieta laikoma alkoholinių gėrimų pardavimo vieta ir alkoholiniams gėrimams vartoti įrengtos vietos (stalai, pavėsinės, kiti įrenginiai).
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
 184 straipsnis. Atsisakymas išduoti licenciją
 
