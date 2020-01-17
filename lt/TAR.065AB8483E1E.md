@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2019-11-14"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2019-11-14 iki 2020-01-16
+Suvestinė redakcija nuo 2020-01-17 iki 2021-01-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -1928,7 +1928,17 @@ Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
 
 22) nustato transliuojamų, retransliuojamų radijo ir (ar) televizijos programų, televizijos programų ir (ar) atskirų programų, platinamų internete, užsakomųjų visuomenės informavimo audiovizualinių priemonių kodavimo tvarką;
 
-23) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+23) pagal kompetenciją įgyvendina Reglamentą (ES) 2017/2394;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
+
+24) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
 
 2. Komisija radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, kitiems asmenims, teikiantiems Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjams, pažeidusiems šio įstatymo reikalavimus, transliavimo, retransliuojamo turinio licencijų reikalavimus, taip pat nevykdantiems Komisijos sprendimų ar įpareigojimų, šio įstatymo nustatyta tvarka atlikusi tyrimą gali taikyti šias poveikio priemones:
 
@@ -2098,13 +2108,21 @@ Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
 
 6) sudaryti komisijas, darbo grupes teisės aktams rengti ar kitiems Komisijos kompetencijos klausimams spręsti, įtraukti į jas kitų institucijų (suderinus su jų vadovais) specialistus;
 
-7) pagal savo kompetenciją kaip kompetentinga institucija, vadovaudamasi 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, dalyvauti kuriant ir vykdant šiuo reglamentu nustatytą bendradarbiavimo sistemą;
+7) pagal savo kompetenciją kaip kompetentinga institucija, vadovaudamasi Reglamentu (ES) 2017/2394, dalyvauti kuriant ir vykdant šiuo reglamentu nustatytą bendradarbiavimo sistemą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
 
 8) organizuoti pasitarimus, konferencijas ir kitus renginius;
 
 9) sudaryti sutartis, prisiimti įsipareigojimus, turėti kitokių civilinių teisių ir pareigų, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams;
 
-10) turėti kitas šio įstatymo, tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių transliavimo ir retransliavimo veiklą, 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo ir kitų teisės aktų nustatytas teises.
+10) turėti kitas šio įstatymo, tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių transliavimo ir retransliavimo veiklą, Reglamento (ES) 2017/2394 ir kitų teisės aktų nustatytas teises.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
 
 Straipsnio pakeitimai:
 
@@ -2408,7 +2426,11 @@ priedas
 
 2. 1998 m. liepos 20 d. Europos Parlamento ir Tarybos direktyva 98/48/EB, iš dalies keičianti Direktyvą 98/34/EB, nustatančią informacijos apie techninius standartus ir reglamentus teikimo tvarką (OL 2004 m. specialusis leidimas, 13 skyrius, 21 tomas, p. 8).
 
-3. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).
+3. Neteko galios nuo 2020-01-17
+
+Punkto naikinimas:
+
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
 
 4. 2010 m. kovo 10 d. Europos Parlamento ir Tarybos direktyva 2010/13/ES dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų tam tikrų nuostatų, susijusių su audiovizualinės žiniasklaidos paslaugų teikimu, derinimo (Audiovizualinės žiniasklaidos paslaugų direktyva) (kodifikuota redakcija) (OL 2010 L 263, p. 15).
 
@@ -2424,11 +2446,21 @@ Papildyta punktu:
 
 Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
 
-7. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1808, kuria, atsižvelgiant į kintančias rinkos realijas, iš dalies keičiama Direktyva 2010/13/ES dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų tam tikrų nuostatų, susijusių su audiovizualinės žiniasklaidos paslaugų teikimu, derinimo (Audiovizualinės žiniasklaidos paslaugų direktyva) (OL 2018 L 303, p. 69).
+7. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 (OL 2017 L 345, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 (OL 2019 L 136, p. 28).
+
+Papildyta punktu:
+
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
+
+8. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1808, kuria, atsižvelgiant į kintančias rinkos realijas, iš dalies keičiama Direktyva 2010/13/ES dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų tam tikrų nuostatų, susijusių su audiovizualinės žiniasklaidos paslaugų teikimu, derinimo (Audiovizualinės žiniasklaidos paslaugų direktyva) (OL 2018 L 303, p. 69).
 
 Papildyta punktu:
 
 Nr. XIII-2088, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07397
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
 
 Priedo pakeitimai:
 
