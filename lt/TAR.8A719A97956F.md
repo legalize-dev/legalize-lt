@@ -4,7 +4,7 @@ identifier: "TAR.8A719A97956F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-05-25"
-last_updated: "2018-09-01"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A719A97956F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas
 
-Suvestinė redakcija nuo 2018-09-01 iki 2020-01-16
+Suvestinė redakcija nuo 2020-01-17 iki 2024-06-27
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 65-2380, i. k. 1061010ISTA000X-614
 
@@ -559,7 +559,11 @@ Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
 
 6) elektroninėmis priemonėmis (taip pat turi teisę naudoti ir kitus būdus) teikia bendrą informaciją (tačiau ne teisines konsultacijas) apie paslaugos teikėjų ir paslaugos gavėjų teises ir pareigas, susijusias su elektroninėmis priemonėmis sudaromomis sutartimis, galimus paslaugos teikėjų ir paslaugos gavėjų ginčų sprendimo ir žalos atlyginimo būdus bei jų naudojimo praktinius aspektus, valstybės ir savivaldybių institucijas ar įstaigas, kurios gali suteikti papildomos informacijos ir (ar) praktinę pagalbą; savo interneto svetainėje skelbia apie būdus susisiekti su ūkio ministro įgaliota institucija elektroninėmis priemonėmis;
 
-7) įgyvendina 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, kiek tai susiję su šio įstatymo reguliavimo dalyku;
+7) pagal kompetenciją įgyvendina Reglamentą (ES) 2017/2394;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2518, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18822
 
 8) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
@@ -627,7 +631,7 @@ Paslaugų teikėjai ir kiti asmenys, pažeidę šio įstatymo reikalavimus, atsa
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -635,11 +639,15 @@ informacinės visuomenės paslaugų įstatymo
 
 priedas
 
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-2000 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva 2000/31/EB dėl kai kurių informacinės visuomenės paslaugų, ypač elektroninės komercijos, teisinių aspektų vidaus rinkoje (Elektroninės komercijos direktyva) (OL 2004 m. specialusis leidimas, 13 skyrius, 25 tomas, p. 399).
+1. 2000 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva 2000/31/EB dėl kai kurių informacinės visuomenės paslaugų, ypač elektroninės komercijos, teisinių aspektų vidaus rinkoje (Elektroninės komercijos direktyva) (OL 2004 m. specialusis leidimas, 13 skyrius, 25 tomas, p. 399).
 
-______________
+2. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 (OL 2017 L 345, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 (OL 2019 L 136, p. 28).
+
+Priedo pakeitimai:
+
+Nr. XIII-2518, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18822
 
 Pakeitimai:
 
@@ -682,6 +690,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
 
 Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 4, 15, 16, 17, 18, 20, 21 ir 22 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2518, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18822
+
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 20 straipsnio ir priedo pakeitimo įstatymas
 
 111 straipsnis. Elektroninės siuntos išsiuntimas, pristatymas ir gavimas
 
