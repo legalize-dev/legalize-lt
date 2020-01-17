@@ -4,7 +4,7 @@ identifier: "TAR.303FC0152D04"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2019-09-01"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2020-01-16
+Suvestinė redakcija nuo 2020-01-17 iki 2021-05-25
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
-
-TAR pastaba. Įstatymo Nr. XIII-2218 nuostatos taikomos pažeidimams, padarytiems po šio įstatymo įsigaliojimo dienos (2019-09-01).
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2218, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10160
-
-Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas
 
 Nauja redakcija nuo 2013-08-01:
 
@@ -51,7 +43,11 @@ BENDROSIOS NUOSTATOS
 
 3. Jeigu kiti Lietuvos Respublikos įstatymai nustato papildomų ar kitų reklamos naudojimo reikalavimų arba nustato kitą reklamos naudojimo priežiūros tvarką ar reklaminės veiklos subjektų atsakomybę, taikomos tų įstatymų nuostatos. Jeigu Lietuvos Respublikos ratifikuotose tarptautinėse sutartyse nustatomi kitokie reklamos naudojimo reikalavimai, taikomos tų sutarčių nuostatos.
 
-4. Šio įstatymo nuostatos atitinkamai taikomos dėl Europos Sąjungoje daromo pažeidimo, kaip jis apibrėžiamas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo („Reglamentas dėl bendradarbiavimo vartotojų apsaugos srityje“) (toliau – Reglamentas (EB) Nr. 2006/2004), kai pažeidžiamos šio įstatymo 5 ar 6 straipsnio nuostatos.
+4. Šio įstatymo nuostatos atitinkamai taikomos dėl pažeidimų, kuriems taikomas 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 (OL 2017 L 345, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 (OL 2019 L 136, p. 28), kai pažeidžiamos šio įstatymo 5 ar 6 straipsnio nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2515, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18820
 
 5. Šis įstatymas nereglamentuoja politinės ir socialinės reklamos ir skelbimų, nesusijusių su ūkine komercine, finansine ar profesine veikla.
 
@@ -645,7 +641,7 @@ Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -655,7 +651,11 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo („Reglamentas dėl bendradarbiavimo vartotojų apsaugos srityje“) (OL 2004 L 364, p. 1).
+1. Neteko galios nuo 2020-01-17
+
+Punkto naikinimas:
+
+Nr. XIII-2515, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18820
 
 2. 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/29/EB dėl nesąžiningos įmonių komercinės veiklos vartotojų atžvilgiu vidaus rinkoje ir iš dalies keičianti Tarybos direktyvą 84/450/EEB, Europos Parlamento ir Tarybos direktyvas 97/7/EB, 98/27/EB bei 2002/65/EB ir Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 („Nesąžiningos komercinės veiklos direktyva“) (OL 2005 L 149, p. 22).
 
@@ -666,6 +666,12 @@ priedas
 5. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1223/2009 dėl kosmetikos gaminių (OL 2009 L 342, p. 59).
 
 6. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012 dėl biocidinių produktų tiekimo rinkai ir jų naudojimo (OL 2012 L 167, p. 1).
+
+7. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 (OL 2017 L 345, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 (OL 2019 L 136, p. 28).
+
+Papildyta punktu:
+
+Nr. XIII-2515, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18820
 
 Pakeitimai:
 
@@ -764,6 +770,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2218, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10160
 
 Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2515, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18820
+
+Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 1 straipsnio ir priedo pakeitimo įstatymas
 
 211 straipsnis. Komercinių paslapčių apsauga
 
