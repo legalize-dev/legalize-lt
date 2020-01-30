@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2020-01-01"
+last_updated: "2020-01-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-01-29
+Suvestinė redakcija nuo 2020-01-30 iki 2020-06-14
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -51,7 +51,11 @@ BENDROSIOS NUOSTATOS
 
 3. Centrinė kredito unija finansines paslaugas šio straipsnio 2 dalies 2 punkte nurodytiems asmenims teikia tik tada, kai to prašo kredito unija, kurios nariui finansinė paslauga teikiama, arba kitais centrinės kredito unijos patvirtintose taisyklėse numatytais atvejais ir sąlygomis.
 
-4. Indėlius ar kitas grąžintinas lėšas centrinė kredito unija, be šio straipsnio 2 dalyje nurodytų asmenų, gali priimti ir iš Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, tų viešųjų įstaigų, kurių steigėjai nėra valstybės institucijos, Lietuvos Respublikos, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, Lietuvos Respublikos Vyriausybės ar savivaldybių įgaliotų institucijų, užsienio valstybių finansų įstaigų. Centrinė kredito unija taip pat turi teisę teikti šioje dalyje nurodytiems asmenims šio įstatymo 2 straipsnio 8 dalies 2 punkte nustatytas mokėjimo paslaugas.
+4. Indėlius ar kitas grąžintinas lėšas centrinė kredito unija, be šio straipsnio 2 dalyje nurodytų asmenų, gali priimti ir iš Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, viešųjų įstaigų, biudžetinių įstaigų, viešąsias paslaugas (vandens, elektros energijos, dujų, šilumos energijos tiekimą, komunalines paslaugas) ir elektroninių ryšių paslaugas teikiančių juridinių asmenų, daugiabučio namo ar kitos paskirties pastato bendrojo naudojimo objektų valdytojų, Lietuvos Respublikos, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, užsienio valstybių finansų įstaigų. Centrinė kredito unija taip pat turi teisę teikti šioje dalyje nurodytiems asmenims šio įstatymo 2 straipsnio 8 dalies 2 punkte nustatytas mokėjimo paslaugas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2777, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02012
 
 5. Centrinė kredito unija, be finansinių paslaugų teikimo ir šio įstatymo 5 straipsnyje nustatytų funkcijų atlikimo, gali verstis tik tokia kita veikla, be kurios neįmanoma teikti finansinių paslaugų, kuri padeda teikti finansines paslaugas ar yra kitaip tiesiogiai susijusi su finansinių paslaugų teikimu.
 
@@ -2006,6 +2010,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2229, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10343
 
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 66, 68, 69 ir 70 straipsnių pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2777, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02012
+
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 4 straipsnio pakeitimo įstatymas
 
 71 straipsnis. Kreditorių reikalavimų tenkinimo eilė
 
