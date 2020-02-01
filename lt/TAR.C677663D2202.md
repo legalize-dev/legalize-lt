@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2020-01-01"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-01-31
+Suvestinė redakcija nuo 2020-02-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
 
@@ -901,11 +901,19 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
-57) atlyginimas už kompetentingai institucijai Lietuvos Respublikos pranešėjų apsaugos įstatymo nustatyta tvarka pateiktą vertingą informaciją apie pažeidimą.
+57) atlyginimas už kompetentingai institucijai Lietuvos Respublikos pranešėjų apsaugos įstatymo nustatyta tvarka pateiktą vertingą informaciją apie pažeidimą;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1849, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21881
+
+58) darbuotojo pagal pasirinkimo sandorius iš darbdavio ar su juo susijusio asmens nauda, gauta įsigijus akcijų neatlygintinai ar už lengvatinę kainą, jeigu akcijos įsigyjamos ne anksčiau kaip po 3 metų nuo teisės į pasirinkimo sandorį suteikimo.
+
+TAR pastaba. 58 punkto nuostatos taikomos pajamoms pagal pasirinkimo sandorius, kurie sudaryti nuo 2020 m. vasario 1 d.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2311, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12110
 
 2. Šio straipsnio 1 dalies 7, 8, 9, 91, 10, 11, 12, 13, 14, 141, 15, 16, 161, 17, 18, 20, 201, 202, 23, 24, 27, 28, 30, 32, 33, 34, 36, 39, 40, 42, 46 ir 53 punktuose nustatytos lengvatos, taip pat 26 punkte nustatyta lengvata dovanojimo būdu iš kitų negu sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys, vaikaičiai ir seneliai gautoms pajamoms netaikomos, jeigu gyventojo atitinkamos pajamos gautos iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose, ar gyventojų, kurių nuolatinė gyvenamoji vieta yra tikslinėje teritorijoje.
 
