@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2020-01-01"
+last_updated: "2020-02-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-02-17
+Suvestinė redakcija nuo 2020-02-18 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -377,9 +377,13 @@ Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
 
 6. Atliekų tvarkymo objektai, atitinkantys Vyriausybės nustatytus kriterijus, steigiami ir pripažįstami atliekų tvarkymo valstybinės reikšmės objektais Vyriausybės nustatyta tvarka. Tik Vyriausybės pripažintuose atliekų tvarkymo valstybinės reikšmės objektuose kaip kuras energijai gaminti gali būti naudojamos ar planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos ir tokie objektai gali būti statomi ne arčiau kaip 20 kilometrų atstumu nuo gyvenamosios teritorijos.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos atliekų tvarkymo įstatymo 4 straipsnio 6 dalis (2018 m. spalio 25 d. redakcija; TAR, 2018-10-29, Nr. 17068) tiek, kiek joje nustatyta, kad atliekų tvarkymo valstybinės reikšmės objektai, kuriuose kaip kuras energijai gaminti gali būti naudojamos ar planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, gali būti statomi ne arčiau kaip 20 kilometrų atstumu nuo gyvenamosios teritorijos, taip pat tiek, kiek joje Lietuvos Respublikos Vyriausybei pavesta nustatyti atliekų tvarkymo objektų, kuriuose kaip kuras energijai gaminti gali būti naudojamos ar planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, pripažinimo valstybinės reikšmės objektais kriterijus, prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 1, 3 dalims, konstituciniam teisinės valstybės principui.
+
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1571, 2018-10-25, paskelbta TAR 2018-10-29, i. k. 2018-17068
+
+Nr. KT31-N3/2020, 2020-02-18, paskelbta TAR 2020-02-18, i. k. 2020-03538
 
 7. Atliekų apdorojimo veiklai yra taikomi atliekų naudojimo ir šalinimo veiklai nustatyti reikalavimai.
 
