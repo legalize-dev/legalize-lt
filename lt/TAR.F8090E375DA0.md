@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2019-01-01"
+last_updated: "2020-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-02-29
+Suvestinė redakcija nuo 2020-03-01 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 
@@ -507,7 +507,11 @@ TAR pastaba. 11 straipsnio 11 dalies 3 punkte nurodytas vienų metų veiklos nev
 
 17. Licencijas išduodanti institucija privalo sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą ar licencijos galiojimą ir pranešti apie licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo ar licencijos galiojimo panaikinimą licencijos turėtojui ne vėliau kaip per 5 dienas nuo šio straipsnio 13, 14, 15 ar 16 dalyje nurodytų aplinkybių paaiškėjimo dienos.
 
-18. Licencijos patikslinamos ir popierinės formos licencijų dublikatai išduodami Lietuvos Respublikos Vyriausybės patvirtintose licencijavimo taisyklėse nustatyta tvarka. Licencijas patikslina ir popierinės formos licencijų dublikatus išduoda licenciją išdavusi institucija.
+18. Licencijos patikslinamos Lietuvos Respublikos Vyriausybės patvirtintose licencijavimo taisyklėse nustatyta tvarka. Licencijas patikslina jas išdavusios institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2790, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02019
 
 Straipsnio pakeitimai:
 
@@ -1559,6 +1563,14 @@ Nr. XIII-1551, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17462
 
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 18 straipsnio pakeitimo įstatymas
 
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2790, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02019
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 8-3 ir 11 straipsnių pakeitimo įstatymas
+
 91 straipsnis. Tabako gaminių gamybos ir realizavimo ataskaitos
 
 1. Tabako gaminių gamintojai kas ketvirtį iki kito ketvirčio pirmojo mėnesio 10 dienos Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui tabako gaminių gamybos ir realizavimo per ketvirtį ataskaitą.
@@ -1737,7 +1749,11 @@ b) jeigu vienetinis pakelis pagamintas iš minkštos medžiagos, tarp viršutini
 
 7) tuo atveju, kai jie pateikiami ant cigarečių vienetinių pakelių, būti ne mažesnio kaip 44 milimetrų aukščio ir 52 milimetrų pločio.
 
-2. Kiekvienas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintas vaizdinių įspėjimų rinkinys kiekvienais metais yra keičiamas naudojant paskesnį rinkinį. 2016 metais privalo būti naudojamas 1 rinkinys, 2017 metais – 2 rinkinys, 2018 metais – 3 rinkinys, 2019 metais – 1 rinkinys ir t. t. Tabako gaminių gamintojai turi dėti maksimalias pastangas, kad kiekvienas atitinkamais metais naudojamo rinkinio vaizdinis įspėjimas ant kiekvieno prekių ženklo tabako gaminio būtų pateiktas kuo vienodesnį skaičių kartų.
+2. Kiekvienas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintas vaizdinių įspėjimų rinkinys kiekvienais metais ne vėliau kaip iki gegužės 1 d. yra keičiamas naudojant paskesnį rinkinį. 2020 metais privalo būti naudojamas 2 rinkinys, 2021 metais – 3 rinkinys, 2022 metais – 1 rinkinys, 2023 metais – 2 rinkinys ir t. t. Tabako gaminių gamintojai turi dėti maksimalias pastangas, kad kiekvienas atitinkamais metais naudojamo rinkinio vaizdinis įspėjimas ant kiekvieno prekių ženklo tabako gaminio būtų pateiktas kuo vienodesnį skaičių kartų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2790, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02019
 
 3. Šio straipsnio 1 dalies 2 punkte nurodytos informacijos, susijusios su metimu rūkyti, turinį ir jos pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
