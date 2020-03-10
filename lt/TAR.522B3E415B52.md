@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2020-01-01"
+last_updated: "2020-03-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-09
+Suvestinė redakcija nuo 2020-03-10 iki 2020-03-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -762,9 +762,13 @@ Nr. XI-1423, 2011-05-26, Žin., 2011, Nr. 67-3157 (2011-06-02)
 
 TAR pastaba. Nuo 2019-12-30 iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies (2013 m. gruodžio 23 d. redakcija; TAR, 2014-01-07, Nr. 63, identifikacinis kodas 2014-00063) galiojimas.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 d. redakcija; TAR, 2014-01-07, Nr. 63) 2 dalis prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 2 daliai, 114 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+
 Straipsnio dalies pakeitimai:
 
 Nr. 2B-56P, 2019-12-30, paskelbta TAR 2019-12-30, i. k. 2019-21605
+
+Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
 
 3. Įstatymų nustatytais pagrindais ir tvarka pradėti naudoti prieš teisėją kriminalinės žvalgybos informacijos rinkimo būdus ir priemones galima tik kriminalinės žvalgybos pagrindinės institucijos vadovo ar jo įgaliotų pareigūnų sprendimu, sutikus generaliniam prokurorui ar jo įgaliotam Generalinės prokuratūros ar apygardos prokuratūros prokurorui, kontroliuojančiam kriminalinės žvalgybos veiksmų teisėtumą ir koordinuojančiam jų vykdymą. Neatidėliotinais atvejais įstatymų nustatytais pagrindais ir tvarka pradėti naudoti prieš teisėją kriminalinės žvalgybos informacijos rinkimo būdus ir priemones, kuriems pagal jų naudojimo pobūdį ir (ar) trukmę nereikalinga prokuroro ar teismo sankcija, galima kriminalinės žvalgybos pagrindinės institucijos vadovo ar jo įgaliotų pareigūnų sprendimu. Priėmus šį sprendimą, per vieną darbo dieną turi būti gautas generalinio prokuroro ar jo įgalioto Generalinės prokuratūros ar apygardos prokuratūros prokuroro, kontroliuojančio kriminalinės žvalgybos veiksmų teisėtumą ir koordinuojančio jų vykdymą, sutikimas. Jeigu šis sutikimas negaunamas, kriminalinės žvalgybos informacijos rinkimo būdų ir priemonių naudojimas prieš teisėją nutraukiamas, o jų metu gauta informacija nedelsiant sunaikinama.
 
