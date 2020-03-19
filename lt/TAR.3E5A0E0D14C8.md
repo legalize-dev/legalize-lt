@@ -4,7 +4,7 @@ identifier: "TAR.3E5A0E0D14C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-23"
-last_updated: "2018-12-01"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E5A0E0D14C8"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2018-12-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2020-12-22
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
 
@@ -1417,6 +1417,14 @@ Nr. XIII-1609, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18505
 
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 20 straipsnio pakeitimo įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2816, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05696
+
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 papildymo 18-1 straipsniu įstatymas
+
 43 straipsnis. Viešas skelbimas
 
 Tarnyba, šio įstatymo 41 straipsnyje nurodytame nutarime konstatavusi, kad asmuo pažeidė šio įstatymo reikalavimus, apie tai skelbia viešai savo interneto svetainėje praėjus 30 kalendorinių dienų po nutarimo priėmimo. Jeigu per 30 kalendorinių dienų nuo nutarimo priėmimo asmuo, dėl kurio veiksmų nutarimas priimtas, apskundžia jį teismui, Tarnyba apie šio įstatymo nuostatų pažeidimą viešai savo interneto svetainėje skelbia pasibaigus teismo procesui.
@@ -2120,4 +2128,30 @@ Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 Papildyta straipsniu:
 
 Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+181 straipsnis. Įsipareigojimų pagal vartojimo kredito sutartį vykdymo atidėjimas
+
+1. Vartojimo kredito davėjas arba paskolos davėjas (tarpusavio skolinimo atveju) privalo vartojimo kredito gavėjo prašymu, pateiktu raštu popieriuje ar kitoje patvariojoje laikmenoje, vartojimo kredito sutarties galiojimo laikotarpiu vartojimo kredito gavėjui atidėti įmokų, išskyrus palūkanas, mokėjimą vartojimo kredito gavėjo prašyme nurodytam, bet ne ilgesniam kaip 3 mėnesių, laikotarpiui, kai vartojimo kredito gavėjas nebetenkina pagal šio įstatymo 8 straipsnio 5 dalį priimtame priežiūros institucijos teisės akte nustatytų kreditingumo vertinimo ir atsakingojo skolinimo reikalavimų, susijusių su vartojimo kredito gavėjo įsipareigojimų pagal vartojimo kredito ir kitas sutartis su finansų įstaigomis vidutinės įmokos dydžio ir pajamų santykiu, ir yra bent viena iš šių aplinkybių:
+
+1) nutrūksta vartojimo kredito gavėjo santuoka;
+
+2) miršta vartojimo kredito gavėjo sutuoktinis;
+
+3) vartojimo kredito gavėjas ar jo sutuoktinis tampa bedarbiu arba netenka ne mažiau kaip trečdalio pajamų;
+
+4) vartojimo kredito gavėjas pripažįstamas nedarbingu arba iš dalies darbingu Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nustatyta tvarka;
+
+5) vartojimo kredito gavėjas atlieka nuolatinę privalomąją pradinę karo tarnybą.
+
+2. Atidėjus įmokų mokėjimą, bendru vartojimo kredito sutarties šalių sutarimu perskaičiuojamos atidėtos įmokos ir sudaromas atnaujintas įmokų mokėjimo grafikas.
+
+3. Šio straipsnio 1 dalyje nurodytu laikotarpiu apskaičiuotos palūkanos mokamos vartojimo kredito sutarties šalių susitarimu.
+
+4. Vartojimo kredito sutarties šalių susitarimu gali būti nustatytas ilgesnis, negu šio straipsnio 1 dalyje nurodytas, įmokų mokėjimo atidėjimo laikotarpis.
+
+TAR pastaba. 181 straipsnio nuostatos taikomos ir iki įstatymo Nr. XIII-2816 įsigaliojimo dienos (2020-03-19) sudarytoms vartojimo kredito sutartims.
+
+Papildyta straipsniu:
+
+Nr. XIII-2816, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05696
 
