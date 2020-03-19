@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2020-01-01"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2020-06-29
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -907,7 +907,11 @@ Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 7. Jeigu mokesčių mokėtojas nesilaiko mokestinės paskolos sutarties sąlygų, ji nutraukiama. Šiuo atveju už mokestinę paskolą sumokėta palūkanų suma perskaičiuojama atsižvelgiant į faktiškai pasinaudotą mokestinės paskolos sumą, o nuo likusių nesumokėtų sumų nepertraukiamai šio Įstatymo 96–98 straipsnių nustatyta tvarka skaičiuojami delspinigiai. Mokestinės paskolos sutartis taip pat nutraukiama, jei mokesčių mokėtojui iškeliama bankroto byla.
 
-8. Šio straipsnio nuostatos netaikomos gyventojų pajamų mokestį išskaičiuojančiam asmeniui, išskyrus atvejus, kai prašoma atidėti mokesčio apskaičiavimo ir sumokėjimo patikrinimo metu papildomai apskaičiuoto gyventojų pajamų mokesčio bei su juo susijusių sumų sumokėjimo terminą.
+8. Neteko galios nuo 2020-03-19.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2812, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05693
 
 9. Neteko galios nuo 2017-01-01
 
