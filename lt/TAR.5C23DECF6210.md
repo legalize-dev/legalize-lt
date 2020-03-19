@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2019-11-01"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-11-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2020-06-19
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
 
@@ -286,11 +286,17 @@ Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
 
 4) Lietuvos Respublikos juridinio asmens ar Lietuvos Respublikoje įsteigto Europos ekonominės erdvės valstybės narės įmonės filialo imamų paskolų, kai tokios paskolos imamos refinansuoti perskolinamą paskolą arba valstybės garantuojamą paskolą;
 
-5) paskolų, naudojamų Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytų nacionaliniam saugumui užtikrinti svarbių įmonių apyvartinėms lėšoms papildyti, kai šios lėšos naudojamos strateginiams Lietuvos Respublikos tikslams pasiekti.
+5) paskolų, naudojamų Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytų nacionaliniam saugumui užtikrinti svarbių įmonių apyvartinėms lėšoms papildyti, kai šios lėšos naudojamos strateginiams Lietuvos Respublikos tikslams pasiekti;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1787, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21240
+
+6) paskolų, naudojamų ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir likvidumui didinti.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2820, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05701
 
 3. Vyriausybė valstybės vardu gali teikti valstybės garantiją tarptautinei finansų institucijai pagal Europos Sąjungos teisės aktus, Europos Sąjungos institucijų ar organizacijų sprendimus ir (arba) su tuo susijusias sutartis ar susitarimus, Lietuvos Respublikos tarptautines sutartis ar šių sutarčių pagrindu su tarptautine finansų institucija pasirašytus susitarimus.
 
@@ -699,4 +705,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
 
 Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 3, 5 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2820, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05701
+
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 4 straipsnio pakeitimo įstatymas
 
