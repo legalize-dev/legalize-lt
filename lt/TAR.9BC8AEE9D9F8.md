@@ -4,7 +4,7 @@ identifier: "TAR.9BC8AEE9D9F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2020-01-01"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9BC8AEE9D9F8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-31
+Suvestinė redakcija nuo 2020-04-01 iki 2021-09-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 3-37, i. k. 0941010ISTA000I-733
 
@@ -294,7 +294,11 @@ NEKILNOJAMOJO KULTŪROS PAVELDO APSAUGOS ADMINISTRAVIMAS
 
 1. Nekilnojamojo kultūros paveldo apsaugos nacionalinę politiką formuoja Seimas, Vyriausybė, Kultūros ministerija, atsižvelgdami į Valstybinės kultūros paveldo komisijos teikiamus paveldosauginės patirties ir tendencijų vertinimus, analizes ir siūlymus.
 
-2. Nekilnojamojo kultūros paveldo apsaugos valstybinį administravimą organizuoja ir už jį atsako kultūros ministras. Kultūros ministras įgalioja ministerijos padalinius ir prie ministerijos įsteigtas institucijas atlikti apsaugos funkcijas.
+2. Nekilnojamojo kultūros paveldo apsaugos valstybinį administravimą organizuoja ir už jį atsako kultūros ministras. Kultūros ministras įgalioja ministerijos padalinius ir prie ministerijos įsteigtas įstaigas, kitas biudžetines įstaigas, kurių savininko teises ir pareigas įgyvendina Kultūros ministerija, atlikti nekilnojamojo kultūros paveldo apsaugos funkcijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
 
 3. Savivaldybės atlieka Vietos savivaldos, šio ir kitų įstatymų savivaldybėms nustatytas funkcijas.
 
@@ -302,17 +306,23 @@ NEKILNOJAMOJO KULTŪROS PAVELDO APSAUGOS ADMINISTRAVIMAS
 
 5. Vyriausybė skelbia kultūros paminklais nacionalinio reikšmingumo lygmens kultūros paveldo objektus ir vietoves, atsako už tarptautinėmis sutartimis prisiimtų paveldosaugos įsipareigojimų įgyvendinimą, atlieka kitas įstatymų nustatytas funkcijas.
 
-6. Kultūros ministras tvirtina valstybės biudžeto lėšomis finansuojamas nekilnojamojo kultūros paveldo paveldosaugos (apskaitos, paveldotvarkos, kontrolės, saugomų teritorijų apsaugos ir tvarkymo ir kitas) programas, skelbia nekilnojamąsias kultūros vertybes valstybės saugomomis, tvirtina Nekilnojamojo kultūros paveldo apsaugos specialistų (tyrėjų, projektuotojų, paveldosaugos ekspertų) atestavimo komisijos nuostatus ir jos sudėtį, Nekilnojamojo kultūros paveldo apsaugos ekspertų komisijos nuostatus ir jos sudėtį, teikia kultūros paveldo objektus ir vietoves įrašyti į tarptautinės svarbos kultūros paveldo objektų ar vietovių sąrašus, jeigu tarptautinėmis sutartimis nenustatyta kitaip, atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+6. Kultūros ministras tvirtina valstybės biudžeto lėšomis finansuojamas nekilnojamojo kultūros paveldo paveldosaugos (apskaitos, paveldotvarkos, kontrolės, saugomų teritorijų apsaugos ir tvarkymo ir kitas) programas, organizuoja paveldotvarkos programų įgyvendinimą, skelbia nekilnojamąsias kultūros vertybes valstybės saugomomis, tvirtina Nekilnojamojo kultūros paveldo apsaugos specialistų (tyrėjų, projektuotojų, paveldosaugos ekspertų) atestavimo komisijos nuostatus ir jos sudėtį, Nekilnojamojo kultūros paveldo apsaugos ekspertų komisijos nuostatus ir jos sudėtį, teikia kultūros paveldo objektus ir vietoves įrašyti į tarptautinės svarbos kultūros paveldo objektų ar vietovių sąrašus, jeigu tarptautinėmis sutartimis nenustatyta kitaip, atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
+Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
+
 7. Kultūros ministerija kartu su Švietimo ir mokslo ministerija organizuoja nekilnojamojo kultūros paveldo apsaugos specialistų rengimą, profesinį mokymą ir tobulinimąsi.
 
 8. Vyriausybės, ministerijų, kitų Vyriausybės įstaigų norminiai teisės aktai, susiję su nekilnojamojo kultūros paveldo apsauga, prieš juos priimant turi būti pateikiami Kultūros ministerijai derinti teisės aktų nustatyta tvarka. Šio įstatymo reikalavimams prieštaraujantys savivaldos institucijų priimti teisės aktai turi būti sustabdyti ar panaikinti Savivaldybių administracinės priežiūros įstatymo nustatyta tvarka.
 
-9. Konkrečias nekilnojamojo kultūros paveldo apsaugos valstybinio administravimo funkcijas atlieka ir už jų vykdymą atsako Departamentas. Jis turi apskaitos, paveldotvarkos ir kontrolės tarnybas ir teritorinius padalinius. Departamentui vadovauja direktorius.
+9. Neteko galios nuo 2020-04-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
 
 10. Departamentas:
 
@@ -320,9 +330,17 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 2) rengia nekilnojamojo kultūros paveldo apsaugą reglamentuojančių teisės aktų projektus;
 
-3) naudoja nekilnojamojo kultūros paveldo apskaitos, paveldotvarkos ir kontrolės programoms skirtas valstybės biudžeto lėšas;
+3) naudoja veiklai, susijusiai su nekilnojamojo kultūros paveldo apsauga (neįskaitant paveldotvarkos programų), skirtas valstybės biudžeto lėšas;
 
-4) rengia nekilnojamojo kultūros paveldo apskaitos, paveldotvarkos ir kontrolės programas, organizuoja jų vykdymą. Šių programų ar jų dalių įgyvendinimą Departamentas gali pavesti pavaldžioms įstaigoms, įmonėms ir organizacijoms;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
+
+4) rengia nekilnojamojo kultūros paveldo paveldosaugos programas, organizuoja jų įgyvendinimą (neįskaitant paveldotvarkos programų). Šių programų ar jų dalių įgyvendinimą Departamentas gali pavesti kitoms biudžetinėms įstaigoms, kurių savininko teises ir pareigas jis įgyvendina;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
 
 5) organizuoja ir koordinuoja nekilnojamojo kultūros paveldo inventorizavimą, atskleidimą ir stebėseną;
 
@@ -330,7 +348,11 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 7) sudaro su valdytojais kultūros paveldo objektų apsaugos sutartis;
 
-8) teikia Valstybinei kultūros paveldo komisijai ir Kultūros ministerijai metines nekilnojamojo kultūros paveldo apskaitos, paveldotvarkos ir kontrolės programų vykdymo ataskaitas, taip pat šias institucijas informuoja apie užfiksuotus šio įstatymo pažeidimus;
+8) neteko galios nuo 2020-04-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
 
 9) parengia ir išduoda nacionalinio ir regioninio reikšmingumo lygmens kultūros paveldo objektų apsaugos reglamentus;
 
@@ -344,7 +366,11 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 14) teikia Nekilnojamojo turto kadastro tvarkytojui įrašyti arba pakeisti kultūros paveldo objektų, kaip daiktinės teisės objektų, įteisinimo ir apribojimų naudotis nekilnojamuoju turtu duomenis;
 
-15) administruoja kultūros paveldo objektų tvarkybą;
+15) neteko galios nuo 2020-04-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
 
 16) per mėnesį nuo pateikimo dienos teikia išvadas, ar valdytojų, ketinančių vykdyti kultūros paveldo objektų tvarkybą, parengti projektiniai siūlymai atitinka paveldosaugos reikalavimus;
 
@@ -1653,6 +1679,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
 
 Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2, 4, 17, 19 ir 20 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
+
+Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 5 straipsnio pakeitimo įstatymas
 
 231 straipsnis. Teisė vykdyti su nekilnojamojo kultūros paveldo tvarkyba susijusią veiklą
 
