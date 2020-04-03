@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2020-03-19"
+last_updated: "2020-04-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-03-19 iki 2020-04-02
+Suvestinė redakcija nuo 2020-04-03 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -697,13 +697,21 @@ Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
 
 Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 
-11. Savivaldybės tarybos posėdžiai yra atviri. Posėdžio pirmininkas turi teisę leisti posėdyje kalbėti kviestiems asmenims. Jeigu savivaldybės tarybos posėdyje svarstomas klausimas yra susijęs su kitais posėdyje dalyvaujančiais asmenimis, jiems leidžiama užduoti klausimus pranešėjams ir kalbėti reglamento nustatyta tvarka. Kai yra techninės galimybės, savivaldybės tarybos nustatyta tvarka jos posėdžiai transliuojami savivaldybės interneto svetainėje.
+11. Savivaldybės tarybos posėdžiai yra atviri. Posėdžio pirmininkas turi teisę leisti posėdyje kalbėti kviestiems asmenims. Jeigu savivaldybės tarybos posėdyje svarstomas klausimas yra susijęs su kitais posėdyje dalyvaujančiais asmenimis, jiems leidžiama užduoti klausimus pranešėjams ir kalbėti reglamento nustatyta tvarka. Savivaldybės tarybos nustatyta tvarka jos posėdžiai transliuojami savivaldybės interneto svetainėje.
 
-111. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino savivaldybės tarybos posėdžiai negali vykti  šiame straipsnyje nustatyta tvarka, savivaldybės tarybos posėdžiai gali vykti nuotoliniu būdu (kai yra techninės galimybės, – realiuoju laiku) elektroninių ryšių priemonėmis (toliau – nuotolinis būdas). Nuotoliniu būdu vykstančiuose savivaldybės tarybos posėdžiuose priimami tik neatidėliotinai būtini sprendimai, susiję su nepaprastąja padėtimi, ekstremaliąja situacija ar karantinu. Nuotoliniu būdu vykstančiam posėdžiui turi būti parinktos tokios elektroninių ryšių priemonės, kurios užtikrintų, kad savivaldybės tarybos narys laiku gautų informaciją ir galėtų išreikšti savo poziciją. Nuotoliniu būdu vykstančiame posėdyje pagal galimybes sudaromos sąlygos savivaldybės tarybos nariams pasakyti savo poziciją ar replikas. Nuotoliniu būdu priimant savivaldybės tarybos sprendimus, turi būti užtikrintas savivaldybės tarybos nario tapatybės ir jo balsavimo rezultatų nustatymas. Jeigu yra techninės galimybės, nuotoliniu būdu vykstantis savivaldybės tarybos posėdis yra tiesiogiai transliuojamas internetu arba viešai paskelbiamas šio posėdžio vaizdo įrašas. Jeigu tokių galimybių nėra, savivaldybės meras nedelsdamas informuoja visuomenę apie nuotoliniu būdu vykusiame savivaldybės tarybos posėdyje priimtus sprendimus.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
+
+111. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino savivaldybės tarybos posėdžiai negali vykti savivaldybės tarybos nariams posėdyje dalyvaujant fiziškai, savivaldybės tarybos posėdžiai gali vykti nuotoliniu būdu realiuoju laiku elektroninių ryšių priemonėmis (toliau – nuotolinis būdas). Nuotoliniu būdu vyksiančiame savivaldybės tarybos posėdyje svarstytini sprendimų projektai rengiami ir posėdis vyksta laikantis visų šiame straipsnyje nustatytų reikalavimų ir užtikrinant šiame įstatyme nustatytas savivaldybės tarybos nario teises. Nuotoliniu būdu priimant savivaldybės tarybos sprendimus, turi būti užtikrintas savivaldybės tarybos nario tapatybės ir jo balsavimo rezultatų nustatymas. Nuotoliniu būdu vykstančiame savivaldybės tarybos posėdyje sprendimai, dėl kurių šis įstatymas nustato slaptą balsavimą, nepriimami.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2818, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05699
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
 
 12. Kai posėdyje svarstomas su valstybės, tarnybos ar komercine paslaptimi susijęs klausimas, savivaldybės taryba gali nuspręsti jį nagrinėti uždarame posėdyje.
 
@@ -713,11 +721,21 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 
-14. Tarybos posėdžių metu daromas garso ir (ar) vaizdo įrašas. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679) reikalavimų, susijusią informaciją, ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektus, garso ir (ar) vaizdo įrašai nedaromi. Tarybos posėdžių garso ir (ar) vaizdo įrašai yra vieši ir Reglamento (ES) 2016/679 ir Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka saugomi informacinėse laikmenose ir skelbiami savivaldybės interneto svetainėje.
+14. Tarybos posėdžių metu daromas garso ir vaizdo įrašas. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – Reglamentas (ES) 2016/679) reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektus, posėdžių garso ir vaizdo įrašai nedaromi. Savivaldybės tarybos posėdžių garso ir vaizdo įrašai yra vieši ir Reglamento (ES) 2016/679 ir Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka saugomi informacinėse laikmenose, ir skelbiami savivaldybės interneto svetainėje.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
+
+15. Nepaprastosios padėties, ekstremaliosios situacijos ar karantino metu, kai būtina neatidėliotinai spręsti savivaldybės funkcijoms užtikrinti būtinus klausimus ir sprendimo nepriėmimas ar delsimas jį priimti nedelsiant lemtų neigiamus padarinius savivaldybės bendruomenei ar atskiriems jos nariams, mero sprendimu savivaldybės tarybos posėdžio darbotvarkė gali būti sudaroma ir paskelbiama savivaldybės interneto svetainėje trumpesniais, negu nustatyta šio straipsnio 6 dalyje, terminais, o apie savivaldybės tarybos posėdžio laiką ir svarstyti parengtus ir reglamento nustatyta tvarka įregistruotus klausimus kartu su sprendimų projektais visais šiais atvejais gali būti pranešama per trumpesnį, negu šio straipsnio 8 dalyje nustatyta, terminą, bet ne vėliau kaip prieš 24 valandas iki savivaldybės tarybos posėdžio pradžios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
 
 Straipsnio pakeitimai:
 
@@ -787,7 +805,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
 
-7. Komitetų posėdžių darbotvarkės ne vėliau kaip prieš 2 darbo dienas iki komiteto posėdžio pradžios paskelbiamos savivaldybės interneto svetainėje.
+7. Komitetų posėdžių darbotvarkės ne vėliau kaip prieš 2 darbo dienas iki komiteto posėdžio pradžios paskelbiamos savivaldybės interneto svetainėje. Apie komiteto posėdžio laiką ir svarstyti parengtus klausimus ne vėliau kaip prieš 2 darbo dienas iki komiteto posėdžio pradžios reglamento nustatyta tvarka pranešama visiems komiteto nariams ir suinteresuotiems asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
 
 8. Komitetų posėdžių metu daromas garso įrašas. Komitetų posėdžių garso įrašai saugomi informacinėse laikmenose.
 
@@ -813,11 +835,21 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 
-10. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino komiteto posėdis negali vykti savivaldybės tarybos reglamente nustatyta tvarka, komiteto posėdis gali vykti nuotoliniu būdu. Nuotoliniu būdu vykstančiuose posėdžiuose priimami tik neatidėliotinai būtini sprendimai, susiję su nepaprastąja padėtimi, ekstremaliąja situacija ar karantinu. Nuotoliniu būdu vykstančiam posėdžiui turi būti parinktos tokios elektroninių ryšių priemonės, kurios užtikrintų, kad komiteto narys laiku gautų informaciją ir galėtų išreikšti savo poziciją. Nuotoliniu būdu vykstančiame posėdyje pagal galimybes sudaromos sąlygos komiteto nariams pasakyti savo poziciją arba replikas. Nuotoliniu būdu priimant komiteto sprendimus, turi būti užtikrintas komiteto nario tapatybės ir jo balsavimo rezultatų nustatymas.
+10. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino komiteto posėdis negali vykti komiteto nariams posėdyje dalyvaujant fiziškai, komiteto posėdis gali vykti nuotoliniu būdu. Nuotoliniu būdu vyksiančio savivaldybės tarybos komiteto posėdžio klausimai rengiami ir posėdis vyksta laikantis visų šiame straipsnyje nustatytų reikalavimų ir užtikrinant šiame įstatyme nustatytas savivaldybės tarybos nario teises. Nuotoliniu būdu priimant komiteto sprendimus, turi būti užtikrintas komiteto nario tapatybės ir jo balsavimo rezultatų nustatymas.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2818, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05699
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
+
+11. Nepaprastosios padėties, ekstremaliosios situacijos ar karantino metu, kai būtina neatidėliotinai spręsti savivaldybėms funkcijoms užtikrinti būtinus klausimus ir sprendimo nepriėmimas ar delsimas jį priimti nedelsiant lemtų neigiamus padarinius savivaldybės bendruomenei ar atskiriems jos nariams, mero sprendimu komitetų posėdžių darbotvarkės gali būti paskelbiamos savivaldybės interneto svetainėje ir apie komiteto posėdžio laiką ir jame svarstytinus klausimus visais šiais atvejais pranešama per trumpesnį, negu nustatyta šio straipsnio 7 dalyje, terminą, bet ne vėliau kaip prieš 24 valandas iki komiteto posėdžio pradžios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
 
 Straipsnio pakeitimai:
 
@@ -897,17 +929,15 @@ Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 
 7. Savivaldybės tarybos komisijų sudarymo tvarka nustatyta reglamente. Komisijų nuostatus tvirtina savivaldybės taryba.
 
-7. Etikos komisija, veikdama pagal šio straipsnio 3 dalies 2 ir 6 punktus, rengia posėdžius ne rečiau kaip kartą per mėnesį.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
-
-8. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino komisijos posėdis negali vykti įprasta tvarka, posėdis gali vykti nuotoliniu būdu. Nuotoliniu būdu vykstančiuose posėdžiuose priimami tik neatidėliotinai būtini sprendimai, susiję su nepaprastąja padėtimi, ekstremaliąja situacija ar karantinu. Nuotoliniu būdu vykstančiam posėdžiui turi būti parinktos tokios elektroninių ryšių priemonės, kurios užtikrintų, kad komisijos narys laiku gautų informaciją ir galėtų išreikšti savo poziciją. Nuotoliniu būdu vykstančiame posėdyje pagal galimybes sudaromos sąlygos komisijos nariams pasakyti savo poziciją arba replikas. Nuotoliniu būdu priimant komisijos sprendimus, turi būti užtikrintas komisijos nario tapatybės ir jo balsavimo rezultatų nustatymas.
+8. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino komisijos posėdis negali vykti komisijos nariams posėdyje dalyvaujant fiziškai, posėdis gali vykti nuotoliniu būdu. Nuotoliniu būdu vyksiančio savivaldybės tarybos komisijos posėdžio klausimai rengiami ir posėdis vyksta laikantis visų šiame straipsnyje nustatytų reikalavimų ir užtikrinant šiame įstatyme nustatytas savivaldybės tarybos nario teises. Nuotoliniu būdu priimant komisijos sprendimus, turi būti užtikrintas komisijos nario tapatybės ir jo balsavimo rezultatų nustatymas.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2818, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05699
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
 
 Straipsnio pakeitimai:
 
