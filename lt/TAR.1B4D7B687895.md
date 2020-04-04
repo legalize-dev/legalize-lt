@@ -4,7 +4,7 @@ identifier: "TAR.1B4D7B687895"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-01"
-last_updated: "2020-01-17"
+last_updated: "2020-04-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Neoficialus ?statymo tekstas
 
-Suvestinė redakcija nuo 2020-01-17 iki 2020-04-03
+Suvestinė redakcija nuo 2020-04-04 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
 
@@ -166,7 +166,11 @@ Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
 
 4) renka Lietuvos banko funkcijoms, nesusijusioms su Europos centrinių bankų sistemos veikla, vykdyti reikalingą statistinę informaciją iš valstybės ir savivaldybių institucijų ir ūkio subjektų, nustato jos rinkimo, sudarymo ir platinimo tvarką, taip pat sudaro Lietuvos Respublikos mokėjimų ir tarptautinių investicijų balansus ir finansines sąskaitas;
 
-5) savo nustatyta tvarka, sąlygomis ir terminais gali duoti paskolas, užtikrintas įkeičiamu Lietuvos bankui pakankamu turtu, Lietuvos Respublikoje įregistruotoms kredito įstaigoms, jei tai neprieštarauja reikalavimams, atsirandantiems dėl Lietuvos banko dalyvavimo Europos centrinių bankų sistemoje, ypač reikalavimams, atsirandantiems dėl viešosios teisės subjektų vardu atliekamų operacijų;
+5) savo nustatyta tvarka, sąlygomis ir terminais gali duoti paskolas, užtikrintas įkeičiamu Lietuvos bankui pakankamu turtu, Lietuvos Respublikoje įregistruotoms kredito ir kitoms finansų įstaigoms, draudimo ar perdraudimo veikla užsiimančioms įmonėms, jei tai neprieštarauja reikalavimams, atsirandantiems dėl Lietuvos banko dalyvavimo Europos centrinių bankų sistemoje, ypač reikalavimams, atsirandantiems dėl viešosios teisės subjektų vardu atliekamų operacijų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2836, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06995
 
 6) išleidžia monetas, laikydamasis Sutarties dėl Europos Sąjungos veikimo reikalavimų, ir vykdo kitą su tuo susijusią veiklą;
 
@@ -2159,6 +2163,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2585, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20553
 
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43 straipsnio ir 3 priedo pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2836, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06995
+
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8 straipsnio pakeitimo įstatymas
 
 211 straipsnis. Finansų rinkos priežiūros ir finansų sektoriaus subjektų pertvarkymo institucijos veiklos finansavimas
 
