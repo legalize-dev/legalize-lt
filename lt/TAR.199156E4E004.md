@@ -4,7 +4,7 @@ identifier: "TAR.199156E4E004"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2019-09-01"
+last_updated: "2020-04-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2020-04-07
+Suvestinė redakcija nuo 2020-04-08 iki 2020-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
 
@@ -37,10 +37,6 @@ BENDROSIOS NUOSTATOS
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
-
-2. Šis Įstatymas taikomas Lietuvos Respublikos piliečiams, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės susitarimą sudariusios valstybės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys jų teisę gyventi Lietuvos Respublikoje, asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas, užsieniečiams, turintiems Lietuvos Respublikoje ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje, užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje, ir Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir jų šeimos nariams, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje.
-
-2 dalies redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
 
 2. Šis Įstatymas taikomas Lietuvos Respublikos piliečiams, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės susitarimą sudariusios valstybės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys jų teisę gyventi Lietuvos Respublikoje, asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas, užsieniečiams, turintiems Lietuvos Respublikoje ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje, užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje, ir Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir jų šeimos nariams, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir jų šeimos nariams, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje.
 
@@ -488,7 +484,11 @@ Nr. XIII-1344, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11442
 
 3. Teisę gauti profesinės reabilitacijos išmoką turi asmenys, kuriems Tarnyba nustatė profesinės reabilitacijos paslaugų poreikį ir kurie dalyvauja profesinės reabilitacijos programoje.
 
-4. Profesinės reabilitacijos išmoka asmeniui skiriama nuo pirmos dalyvavimo profesinės reabilitacijos programoje dienos ir mokama kiekvieną mėnesį, bet ne ilgiau kaip 180 kalendorinių dienų. Ši išmoka skiriama ir mokama neatsižvelgiant į kitas asmens gaunamas pajamas.
+4. Profesinės reabilitacijos išmoka asmeniui skiriama nuo pirmos dalyvavimo profesinės reabilitacijos programoje dienos ir mokama kiekvieną mėnesį, bet ne ilgiau kaip 180 kalendorinių dienų. Į šį laikotarpį neįskaičiuojamas laikotarpis, kai dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino profesinės reabilitacijos programa, kurioje dalyvavo asmuo, yra sustabdyta. Ši išmoka skiriama ir mokama neatsižvelgiant į kitas asmens gaunamas pajamas, taip pat laikotarpiu, kai dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino profesinės reabilitacijos programa, kurioje dalyvavo asmuo, yra sustabdyta.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2835, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07202
 
 5. Sprendimą dėl profesinės reabilitacijos išmokos mokėjimo priima šią išmoką skirianti ir mokanti institucija, vadovaudamasi Tarnybos sprendimu dėl profesinės reabilitacijos paslaugų poreikio.
 
@@ -909,6 +909,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2343, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12409
 
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1 straipsnio pakeitimo įstatymas
+
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2835, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07202
+
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 22 straipsnio pakeitimo įstatymas
 
 201 straipsnis. Specialiųjų poreikių rūšys, specialiųjų poreikių ir specialiųjų poreikių lygio nustatymas
 
