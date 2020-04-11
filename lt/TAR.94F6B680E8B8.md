@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2020-01-01"
+last_updated: "2020-04-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-10
+Suvestinė redakcija nuo 2020-04-11 iki 2020-05-22
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -160,8 +160,6 @@ Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 
 21) Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiai ir jų šeimos nariai, kurie iki šios valstybės išstojimo iš Europos Sąjungos dienos buvo įgiję teisę gyventi Lietuvos Respublikoje ir teisėtai gyvena Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“;
 
-TAR pastaba. 1 dalies papildymas 21 punktu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
-
 Papildyta straipsnio punktu:
 
 Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
@@ -188,13 +186,17 @@ Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
 
 3. Apdraustaisiais privalomuoju sveikatos draudimu (toliau – apdraustieji) laikomi:
 
-1) šio Įstatymo 17 straipsnio 2–11 dalyse nurodyti asmenys (išskyrus draudėjus), kurių privalomasis sveikatos draudimas galioja šio Įstatymo 8 straipsnio 1 ir 2 dalyse nustatyta tvarka;
+1) šio Įstatymo 17 straipsnio 2–11 dalyse nurodyti asmenys (išskyrus draudėjus), kurių privalomasis sveikatos draudimas galioja šio Įstatymo 8 straipsnio 1, 2 ir 21 dalyse nustatyta tvarka;
 
 2) šio straipsnio 4 dalyje nurodyti valstybės lėšomis draudžiami asmenys, kurių privalomasis sveikatos draudimas galioja šio Įstatymo 8 straipsnio 3 dalyje nustatyta tvarka.
+
+TAR pastaba. 3 dalies nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
+
+Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
 4. Apdraustaisiais, kurie draudžiami valstybės lėšomis (išskyrus asmenis, kurie privalo mokėti privalomojo sveikatos draudimo įmokas arba už kuriuos šios įmokos yra mokamos pagal šio Įstatymo 17 straipsnio 1–7 ir 9 dalis), laikomi:
 
@@ -219,10 +221,6 @@ Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 5) vienas iš tėvų (įtėvių), auginantis vaiką iki 8 metų, vienas iš globėjų, šeimoje globojantis vaiką iki 8 metų, taip pat vienas iš tėvų (įtėvių), auginantis du ir daugiau nepilnamečių vaikų, vienas iš globėjų (rūpintojų), šeimoje globojantis (besirūpinantis) du (dviem) ir daugiau nepilnamečių vaikų;
 
 6) asmenys iki 18 metų;
-
-7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, Lietuvos Respublikos piliečiai ir kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys Lietuvos Respublikoje, studijuojantys Europos Sąjungos valstybių narių aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai, kurie mokosi Lietuvos Respublikos mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu;
-
-7 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną ir galiojanti iki 2023-08-31:
 
 7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, Lietuvos Respublikos piliečiai ir kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys Lietuvos Respublikoje, studijuojantys Europos Sąjungos valstybių narių (taip pat Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, jeigu studijos buvo pradėtos iki šios valstybės išstojimo iš Europos Sąjungos dienos) aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai, kurie mokosi Lietuvos Respublikos mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu;
 
@@ -365,6 +363,14 @@ Straipsnio dalies pakeitimai:
 Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
 
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
+
+21. Asmenys, nurodyti šio Įstatymo 17 straipsnio 4–8 ir 10 dalyse, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino Lietuvos Respublikos teritorijoje metu turi teisę privalomojo sveikatos draudimo įmokų nemokėti. Šie asmenys Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpiu nesumokėtas privalomojo sveikatos draudimo įmokas sumoka šio Įstatymo 18 straipsnio 7 dalyje nustatyta tvarka.
+
+TAR pastaba. 21 dalies nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
 3. Asmenys, nurodyti šio Įstatymo 6 straipsnio 4 dalyje, apdraustaisiais laikomi nuo šio Įstatymo 6 straipsnio 4 dalyje nurodyto statuso įgijimo dienos iki jo netekimo dienos.
 
@@ -809,6 +815,14 @@ TAR pastaba. Asmenys, nurodyti Lietuvos Respublikos sveikatos draudimo įstatymo
 5. Šio Įstatymo 17 straipsnio 5 dalyje nurodyti asmenys, kurie moka šio Įstatymo 17 straipsnio 1, 2, 3, 6, 7, 9 ir 10 dalyse nurodytas privalomojo sveikatos draudimo įmokas ir (arba) už kuriuos šios įmokos yra mokamos arba kurie yra priskiriami šio Įstatymo 6 straipsnio 4 dalyje išvardytiems asmenims, turi teisę sumokėti šio Įstatymo 17 straipsnio 5 dalyje nurodytas privalomojo sveikatos draudimo įmokas kartą per metus, tačiau ne vėliau kaip iki kitų metų gegužės 1 dienos.
 
 6. Draudėjai (paslaugų gavėjai), gaunantys pagal paslaugų kvitą teikiamas žemės ūkio ir miškininkystės paslaugas, kurių teikimą nustato Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas, sumoka už paslaugų teikėjus atitinkamo mėnesio privalomojo sveikatos draudimo įmokas iki kito mėnesio 15 dienos. Tokia pačia tvarka šias įmokas moka draudėjai už mažųjų bendrijų vadovus, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai.
+
+7. Asmenys, nurodyti šio Įstatymo 17 straipsnio 4–8 ir 10 dalyse, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu nemokėję privalomojo sveikatos draudimo įmokų, nesumokėtas privalomojo sveikatos draudimo įmokas už šį laikotarpį privalo sumokėti per 2 metus nuo tos dienos, kai Vyriausybės paskelbta ekstremalioji situacija ir karantinas atšaukiami arba kai sueina jų paskelbimo terminai. Jeigu privalomojo sveikatos draudimo įmokos nesumokamos per šioje dalyje nustatytą terminą, asmenys, nurodyti šio Įstatymo 17 straipsnio 4–8 ir 10 dalyse, kuriems Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu Privalomojo sveikatos draudimo fondo biudžeto lėšomis buvo suteiktos asmens sveikatos priežiūros paslaugos, atlygina Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą.
+
+TAR pastaba. 7 dalies nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
 Straipsnio pakeitimai:
 
