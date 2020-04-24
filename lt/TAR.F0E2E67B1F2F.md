@@ -4,7 +4,7 @@ identifier: "TAR.F0E2E67B1F2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-03-19"
-last_updated: "2019-04-01"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2019-04-01 iki 2020-04-23
+Suvestinė redakcija nuo 2020-04-24 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
 
@@ -114,7 +114,13 @@ BENDROSIOS NUOSTATOS
 
 32. Vietinis turizmas – Lietuvos Respublikos gyventojų kelionės po Lietuvos Respubliką.
 
-33. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos vartotojų teisių apsaugos įstatyme.
+33. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos vartotojų teisių apsaugos įstatyme, Lietuvos Respublikos civilinės saugos įstatyme, Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme ir Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme.
+
+TAR pastaba. 33 dalies nuostatos taikomos ir iki įstatymo Nr. XIII-2862 įsigaliojimo dienos (2020-04-24) sudarytoms organizuotų turistinių kelionių sutartims, pagal kurias neįvyko organizuotos turistinės kelionės dėl apribojimų, taikytų iki šio įstatymo įsigaliojimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2862, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08529
 
 3 straipsnis. Turizmo paslaugų rūšys
 
@@ -396,7 +402,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
 
-2) už organizuotą turistinę kelionę turisto sumokėtų pinigų grąžinimą turistui, jeigu dar neprasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionių organizatorius negalės pradėti vykdyti organizuotos turistinės kelionės sutarties.
+2) už organizuotą turistinę kelionę turisto sumokėtų pinigų grąžinimą turistui, jeigu dar neprasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionių organizatorius negalės pradėti vykdyti organizuotos turistinės kelionės sutarties;
+
+3) kupono turistui išdavimą šio įstatymo 171 straipsnyje nustatytomis sąlygomis ir tvarka.
+
+TAR pastaba. 1 dalies 3 punkto nuostatos taikomos ir iki įstatymo Nr. XIII-2862 įsigaliojimo dienos (2020-04-24) sudarytoms organizuotų turistinių kelionių sutartims, pagal kurias neįvyko organizuotos turistinės kelionės dėl apribojimų, taikytų iki šio įstatymo įsigaliojimo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2862, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08529
 
 2. Vyriausybės įgaliota institucija, veikianti kaip naudos gavėja, turi teisę gauti prievolių įvykdymo užtikrinimo sumą dėl bent vienos iš nurodytų aplinkybių, atsiradusių laidavimo draudimo sutarties, finansų įstaigos suteiktos finansinės garantijos galiojimo laikotarpiu:
 
@@ -457,10 +471,6 @@ Lietuvos Respublikoje įsteigto kelionių organizatoriaus prievolių įvykdymas 
 3) padėti rasti alternatyvių organizuotos turistinės kelionės paslaugų.
 
 2. Jeigu pagalba turistui yra reikalinga dėl priežasčių, kurios atsiranda dėl turisto tyčinių veiksmų ar aplaidumo, kelionių organizatorius turi teisę už tokios pagalbos teikimą imti atlygį, kurio dydis negali viršyti kelionių organizatoriaus patirtų faktinių išlaidų.
-
-KETVIRTASIS SKIRSNIS
-
-KELIONIŲ PARDAVIMO AGENTAS
 
 18 straipsnis. Kelionių pardavimo agentas
 
@@ -966,6 +976,14 @@ Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
 
 Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 9, 10, 15, 23, 28, 29, 30, 31, 32, 34, 36, 37, 38, 39 ir 41 straipsnių pakeitimo įstatymas
 
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2862, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08529
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 15 straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
+
 36 straipsnis. Turizmo politikos formavimas ir turizmo valdymas
 
 1. Turizmo valdymo funkcijas Lietuvos Respublikoje atlieka Lietuvos Respublikos Seimas, Vyriausybė, Ekonomikos ir inovacijų ministerija, Vyriausybės įgaliota institucija, savivaldybės.
@@ -1061,4 +1079,34 @@ Savivaldybės:
 5) planuoja ir įgyvendina priemones, reikalingas rekreacinių teritorijų apsaugai, poilsio ir turizmo veiklai šiose teritorijose plėtoti, tvarko rekreacinių teritorijų apskaitą, tvirtina rekreacinių teritorijų naudojimo reglamentus;
 
 6) atlieka kituose turizmo veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
+
+171 straipsnis. Kuponas
+
+1. Karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio atveju arba kai Lietuvos Respublikos piliečiams uždraudžiama išvykti iš Lietuvos Respublikos arba kitų valstybių piliečiams atvykti į Lietuvos Respubliką (toliau – apribojimai) ir dėl to kelionių organizatoriaus įsipareigojimų pagal organizuotos turistinės kelionės sutartį vykdymas tampa neįmanomas, turisto ir kelionių organizatoriaus susitarimu už neįvykusią organizuotą turistinę kelionę gali būti kompensuojama turistui suteikiant kuponą, kurio vertė yra ne mažesnė kaip už organizuotą turistinę kelionę turisto sumokėtų pinigų suma.
+
+2. Kuponu turistas gali atsiskaityti už vieną ar kelias būsimas to paties kelionių organizatoriaus organizuojamas turistines keliones, kurios (kurių) vertė atitinka kupono vertę, pasibaigus apribojimams (toliau – būsima kelionė). Kuponu turistas gali atsiskaityti ir už būsimos kelionės dalį, jeigu būsimos kelionės kaina yra didesnė už kupono vertę, o likusią nesumokėtą būsimos kelionės kainą sumokėti pinigais.
+
+3. Būsimai kelionei taikomos tos pačios kelionių organizatoriaus prievolių įvykdymo užtikrinimo sąlygos, kokios būtų taikomos, jeigu už būsimą kelionę turistas būtų sumokėjęs pinigais.
+
+4. Kuponas turi atitikti šias sąlygas:
+
+1) gali būti išduotas tik dėl tų organizuotų turistinių kelionių sutarčių, pagal kurias organizuotų turistinių kelionių pradžioje ar jų metu galiojo apribojimai;
+
+2) gali būti išduotas tik dėl konkrečios neįvykdytos organizuotos turistinės kelionės sutarties ir gali būti perleidžiamas kitiems asmenims toje sutartyje nustatytomis organizuotos turistinės kelionės sutarties perleidimo kitam turistui sąlygomis ir tvarka;
+
+3) kuponas gali būti naudojamas sumokėti už būsimą kelionę ar šio straipsnio 2 dalyje nurodytu atveju – jos dalį, kurios pradžia yra ne vėlesnė kaip 12 mėnesių pasibaigus apribojimams;
+
+4) turistas iki kupono išdavimo neatgavo iš kelionių organizatoriaus ar kitų subjektų pinigų už organizuotą turistinę kelionę, kuri neįvyko dėl apribojimų.
+
+5. Jeigu turistas per šio straipsnio 4 dalies 3 punkte nurodytą laikotarpį neatsiskaito už būsimą kelionę kuponu, kelionių organizatorius ne vėliau kaip per 14 dienų nuo šio laikotarpio pabaigos grąžina turistui kupono vertę atitinkančią pinigų sumą.
+
+TAR pastaba. 171 straipsnio nuostatos taikomos ir iki įstatymo Nr. XIII-2862 įsigaliojimo dienos (2020-04-24) sudarytoms organizuotų turistinių kelionių sutartims, pagal kurias neįvyko organizuotos turistinės kelionės dėl apribojimų, taikytų iki šio įstatymo įsigaliojimo.
+
+Papildyta straipsniu:
+
+Nr. XIII-2862, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08529
+
+KETVIRTASIS SKIRSNIS
+
+KELIONIŲ PARDAVIMO AGENTAS
 
