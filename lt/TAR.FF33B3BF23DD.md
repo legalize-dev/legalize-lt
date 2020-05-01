@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2020-01-01"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-06-14
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -1771,7 +1771,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
 
-part_00dcea718db94a32810df23af2772abe_end
+part_da02674392bc4bfaa92e527c1c18bf38_end
 
 Pakeitimai:
 
@@ -2683,7 +2683,7 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
 
-9. Juridiniai asmenys, turintys Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo nustatyta tvarka išduotą licenciją asmens sveikatos priežiūros veiklai ir (ar) Lietuvos Respublikos odontologų rūmų įstatymo nustatyta tvarka išduotą odontologinės priežiūros (pagalbos) įstaigos licenciją (toliau – asmens sveikatos priežiūros įstaigos), vaistinius preparatus gali įsigyti tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, o kartinius vaistinius preparatus – iš vaistinės, kurios licencijoje nurodyta ekstemporaliųjų vaistinių preparatų gamyba.
+9. Juridiniai asmenys, turintys Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo nustatyta tvarka išduotą licenciją asmens sveikatos priežiūros veiklai (toliau – asmens sveikatos priežiūros įstaigos), ir vaistinių preparatų mažmeninės prekybos įmonės vaistinius preparatus gali įsigyti tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, o kartinius vaistinius preparatus – iš vaistinės, kurios licencijoje nurodyta ekstemporaliųjų vaistinių preparatų gamyba.
 
 Straipsnio dalies pakeitimai:
 
@@ -2694,6 +2694,8 @@ Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
 Nr. XIII-1561, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17476
 
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+
+Nr. XIII-2645, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20823
 
 91. Asmens sveikatos priežiūros įstaigos įsigytus vaistinius preparatus laiko, įtraukia į apskaitą, tikrina gautų vaistinių preparatų pakuočių apsaugos priemones ir deaktyvina unikalius identifikatorius sveikatos apsaugos ministro nustatyta tvarka, taip pat prisijungia prie Lietuvos Respublikos teritoriją aptarnaujančios kaupyklos, nurodytos Reglamento (ES) 2016/161 32 straipsnio 1 dalies b punkte (toliau – Lietuvos nacionalinė kaupykla), ir vykdo Reglamente (ES) 2016/161 nustatytas pareigas asmenims, turintiems leidimą arba įgaliotiems tiekti vaistus visuomenei. Vaistinių preparatų pakuočių unikalūs identifikatoriai gali būti deaktyvinami nuskaitant kiekvienos pakuotės dvimatį brūkšninį kodą, kuriame užkoduotas unikalus identifikatorius, arba naudojantis gamintojo ar didmeninio platintojo saugiu būdu pateikta suvestine informacija apie patiektų vaistinių preparatų pakuočių unikalius identifikatorius. Asmenims, nurodytiems šio straipsnio 84 dalyje, prisijungti prie Lietuvos nacionalinės kaupyklos nereikia.
 
