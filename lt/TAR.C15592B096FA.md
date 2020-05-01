@@ -4,7 +4,7 @@ identifier: "TAR.C15592B096FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-15"
-last_updated: "2019-01-01"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
 
@@ -85,7 +85,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-8. Ekstremalių situacijų komisija – iš valstybės politikų, valstybės ir (ar) savivaldybių institucijų ir įstaigų valstybės tarnautojų ir (ar) darbuotojų, profesinės karo tarnybos karių sudaroma nuolatinė komisija, koordinuojanti ekstremaliųjų situacijų prevenciją, valdymą, likvidavimą ir padarinių šalinimą.
+8. Ekstremalių situacijų komisija – iš valstybės politikų, valstybės ir (ar) savivaldybių institucijų ir įstaigų valstybės tarnautojų ir (ar) darbuotojų, profesinės karo tarnybos karių sudaroma nuolatinė komisija, priimanti sprendimus dėl ekstremaliųjų situacijų prevencijos, valdymo, likvidavimo ir padarinių šalinimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -297,11 +301,15 @@ Civilinės saugos sistemos subjektai savo veikloje vadovaujasi Lietuvos Respubli
 
 8 straipsnis. Asmens teisių ir laisvių apribojimai užtikrinant civilinę saugą
 
-Vykdant gelbėjimo, paieškos ir neatidėliotinus darbus, likviduojant įvykį, ekstremalųjį įvykį, ekstremaliąją situaciją ir šalinant jų padarinius, šio ir kitų įstatymų nustatytais atvejais ir tvarka gali būti laikinai apribotos asmens judėjimo laisvė, nuosavybės ir būsto neliečiamumo teisės.
+Vykdant gelbėjimo, paieškos ir neatidėliotinus darbus, likviduojant įvykį, ekstremalųjį įvykį, ekstremaliąją situaciją ir šalinant jų padarinius, šio ir kitų įstatymų nustatytais atvejais ir tvarka gali būti laikinai apribotos asmens judėjimo laisvė, nuosavybės ir būsto neliečiamumo teisės, o susidarius valstybės lygio ekstremaliajai situacijai, – ir ūkinės veiklos laisvė, viešųjų ir administracinių paslaugų teikimas.
 
 Straipsnio pakeitimai:
 
 Nr. XII-732, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00065
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 II SKYRIUS
 
@@ -331,7 +339,11 @@ Vyriausybė, įgyvendindama civilinės saugos sistemos uždavinius:
 
 10) nustato civilinės saugos pratybų organizavimo tvarką;
 
-11) nustato abiejų lygių ekstremaliųjų situacijų skelbimo ir atšaukimo tvarką, skelbia ir atšaukia valstybės lygio ekstremaliąją situaciją;
+11) nustato abiejų lygių ekstremaliųjų situacijų skelbimo ir atšaukimo tvarką, skelbia ir atšaukia valstybės lygio ekstremaliąją situaciją, skiria valstybės operacijų vadovą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 12) nustato gelbėjimo, paieškos ir neatidėliotinų darbų, įvykių, ekstremaliųjų įvykių ir ekstremaliųjų situacijų likvidavimo ir jų padarinių šalinimo organizavimo tvarką;
 
@@ -349,7 +361,29 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-657, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16015
 
-18) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas.
+18) tvirtina valstybės ekstremaliųjų situacijų operacijų centro nuostatus;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+19) paskelbus valstybės lygio ekstremaliąją situaciją, gali nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms ir ūkio subjektams ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimus, būtinus ekstremaliajai situacijai likviduoti ir jos padariniams šalinti;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+20) paskelbus valstybės lygio ekstremaliąją situaciją ir atsiradus su ja susijusiam būtinų prekių ir (ar) paslaugų trūkumui ar ribotam prieinamumui, privalo imtis šių prekių ir (ar) paslaugų tiekimą ir prieinamumą didinančių priemonių;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+21) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 10 straipsnis. Vidaus reikalų ministerija
 
@@ -401,9 +435,17 @@ Nr. XIII-657, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16015
 
 1) ne rečiau kaip kartą per metus aptaria šalies civilinės saugos sistemos būklę, vertina valstybės ir savivaldybių institucijų ir įstaigų pasirengimą reaguoti į ekstremaliąsias situacijas ir imasi priemonių jam gerinti;
 
-2) priima sprendimus, reikalingus gresiančiai ar susidariusiai ekstremaliajai situacijai valdyti;
+2) priima sprendimus, reikalingus gresiančiai ar susidariusiai ekstremaliajai situacijai valdyti. Kai dėl ekstremaliosios situacijos pobūdžio tampa neįmanoma nuotoliniu būdu organizuoti Vyriausybės ekstremalių situacijų komisijos posėdžių ir (arba) būtina operatyviai priimti sprendimus, Vyriausybės ekstremalių situacijų komisija gali pavesti valstybės operacijų vadovui priimti sprendimus, reikalingus įvykiui, ekstremaliajam įvykiui ar ekstremaliajai situacijai likviduoti;
 
-3) teikia Vyriausybei siūlymus dėl valstybės rezervo civilinės saugos priemonių atsargų naudojimo ekstremaliųjų situacijų metu;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+3) teikia Vyriausybei siūlymus dėl valstybės rezervo civilinės saugos priemonių atsargų naudojimo ekstremaliųjų situacijų metu, taip pat dėl poreikio taikyti šio įstatymo 9 straipsnio 20 punkte nurodytas priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 4) teikia visuomenei informaciją apie gresiančią ar susidariusią ekstremaliąją situaciją, padarinių šalinimą ir vykdomas priemones gyventojų ir turto apsaugai užtikrinti;
 
@@ -495,7 +537,11 @@ Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
 3) tvirtina savivaldybių ekstremalių situacijų komisijų tipinius nuostatus;
 
-4) tvirtina valstybės ekstremaliųjų situacijų operacijų centro nuostatus;
+4) neteko galios 2020-05-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 5) tvirtina ekstremaliųjų situacijų valdymo planų rengimo metodines rekomendacijas;
 
@@ -563,7 +609,11 @@ Nr. XIII-1768, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20879
 
 8) Vyriausybės nustatyta tvarka organizuoja savivaldybės lygio civilinės saugos pratybas;
 
-9) gresiant ar susidarius ekstremaliajai situacijai, organizuoja gelbėjimo, paieškos ir neatidėliotinus darbus ir telkia visas savivaldybėje esančias civilinės saugos sistemos pajėgas gresiančioms ar susidariusioms ekstremaliosioms situacijoms likviduoti ir jų padariniams šalinti, gyventojams kolektyvinės apsaugos statiniuose apsaugoti, jiems evakuoti;
+9) gresiant ar susidarius ekstremaliajai situacijai, organizuoja gelbėjimo, paieškos ir neatidėliotinus darbus ir telkia visas savivaldybėje esančias civilinės saugos sistemos pajėgas gresiančioms ar susidariusioms ekstremaliosioms situacijoms likviduoti ir jų padariniams šalinti, gyventojams kolektyvinės apsaugos statiniuose apsaugoti, jiems evakuoti, taip pat savivaldybės teritorijoje užtikrina valstybės operacijų vadovo nurodymų, Vyriausybės ekstremalių situacijų komisijos sprendimų įgyvendinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 10) organizuoja savivaldybės gyventojų švietimą civilinės saugos klausimais;
 
@@ -575,7 +625,11 @@ Nr. XIII-1768, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20879
 
 14) sudaro su gretimomis savivaldybėmis tarpusavio pagalbos planus;
 
-15) prašo gretimos (gretimų) savivaldybės (savivaldybių) pagalbos gyventojams evakuoti, gelbėjimo, paieškos ir neatidėliotiniems darbams atlikti, ekstremaliajam įvykiui ar ekstremaliosioms situacijoms likviduoti ir jų padariniams šalinti, kai savivaldybėje esančių civilinės saugos sistemos pajėgų ir materialinių išteklių nepakanka;
+15) raštu kreipiasi į kitos savivaldybės ir (arba) valstybės instituciją ir (arba) įstaigą pagalbos gyventojams evakuoti, gelbėjimo, paieškos ir neatidėliotiniems darbams atlikti, ekstremaliajam įvykiui ar ekstremaliosioms situacijoms likviduoti ir jų padariniams šalinti, kai savivaldybėje esančių civilinės saugos sistemos pajėgų ir materialinių išteklių nepakanka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 16) pagal kompetenciją leidžia įsakymus civilinės saugos klausimais;
 
@@ -795,11 +849,29 @@ Nr. XII-732, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00065
 
 3. Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas ir ūkio subjektus civilinės saugos klausimais informuoja Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka.
 
-4. Veiklos vykdytojai, kurių valdomų pavojingųjų objektų pavojaus zonoje gyvena 100 ar daugiau gyventojų, ūkio subjektai, kurių valdomų hidrotechnikos statinių užtvindymo zonoje gyvena 100 ar daugiau gyventojų, taip pat valstybės įmonė Ignalinos atominė elektrinė privalo savo lėšomis įrengti ir prižiūrėti Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatytas technines perspėjimo sistemos priemones. Šių priemonių naudojimas turi užtikrinti galimybę perspėti darbuotojus, taip pat gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas ir ūkio subjektus, patenkančius į galimos taršos, pavojaus ar užtvindymo zoną, apie tame ūkio subjekte įvykusią didelę pramoninę, branduolinę, radiologinę avariją, branduolinį incidentą ar avariją hidrotechnikos statinyje, priklausančiame tam ūkio subjektui.
+4. Gyventojų informavimą apie įvykį, gresiantį ar įvykusį ekstremalųjį įvykį, gresiančią ar susidariusią ekstremaliąją situaciją koordinuoja sušauktas operacijų centras. Jeigu operacijų centras nešaukiamas ar dar nėra sušauktas, gyventojų informavimą koordinuoja Priešgaisrinės apsaugos ir gelbėjimo departamentas. Paskelbus savivaldybės lygio ekstremaliąją situaciją arba valstybės lygio ekstremaliąją situaciją, gyventojų informavimą koordinuoja atitinkamai savivaldybės operacijų centras arba valstybės operacijų centras.
 
-5. Viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai privalo savo lėšomis palaikyti Priešgaisrinės apsaugos ir gelbėjimo departamento įdiegtoms techninėms perspėjimo sistemos priemonėms naudojamą infrastruktūrą ir (ar) technologinę paslaugą, kurios užtikrintų galimybę apie gresiančią ar susidariusią ekstremaliąją situaciją perspėti gyventojus, esančius Lietuvos Respublikos teritorijoje.
+Papildyta straipsnio dalimi:
 
-6. Valstybės ir savivaldybių institucijos ir įstaigos, kitos įstaigos ir ūkio subjektai jiems priklausančia infrastruktūra, reikalinga techninėms perspėjimo sistemos priemonėms, privalo leisti neatlygintinai naudotis perspėjimą atliekantiems subjektams – Priešgaisrinės apsaugos ir gelbėjimo departamentui ir savivaldybių administracijų direktoriams.
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+5. Veiklos vykdytojai, kurių valdomų pavojingųjų objektų pavojaus zonoje gyvena 100 ar daugiau gyventojų, ūkio subjektai, kurių valdomų hidrotechnikos statinių užtvindymo zonoje gyvena 100 ar daugiau gyventojų, taip pat valstybės įmonė Ignalinos atominė elektrinė privalo savo lėšomis įrengti ir prižiūrėti Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatytas technines perspėjimo sistemos priemones. Šių priemonių naudojimas turi užtikrinti galimybę perspėti darbuotojus, taip pat gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas ir ūkio subjektus, patenkančius į galimos taršos, pavojaus ar užtvindymo zoną, apie tame ūkio subjekte įvykusią didelę pramoninę, branduolinę, radiologinę avariją, branduolinį incidentą ar avariją hidrotechnikos statinyje, priklausančiame tam ūkio subjektui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+6. Viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai privalo savo lėšomis palaikyti Priešgaisrinės apsaugos ir gelbėjimo departamento įdiegtoms techninėms perspėjimo sistemos priemonėms naudojamą infrastruktūrą ir (ar) technologinę paslaugą, kurios užtikrintų galimybę apie gresiančią ar susidariusią ekstremaliąją situaciją perspėti gyventojus, esančius Lietuvos Respublikos teritorijoje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+7. Valstybės ir savivaldybių institucijos ir įstaigos, kitos įstaigos ir ūkio subjektai jiems priklausančia infrastruktūra, reikalinga techninėms perspėjimo sistemos priemonėms, privalo leisti neatlygintinai naudotis perspėjimą atliekantiems subjektams – Priešgaisrinės apsaugos ir gelbėjimo departamentui ir savivaldybių administracijų direktoriams.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 Straipsnio pakeitimai:
 
@@ -871,7 +943,11 @@ Nr. XII-732, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00065
 
 1) šaukiama Vyriausybės ekstremalių situacijų komisija;
 
-2) valstybės operacijų vadovo funkcijas vykdo Ministro Pirmininko paskirtas Vyriausybės narys arba valstybės ar savivaldybių institucijos arba įstaigos vadovas, atsižvelgiant į įvykio, ekstremaliojo įvykio pobūdį;
+2) valstybės operacijų vadovo funkcijas vykdo Vyriausybės paskirtas Vyriausybės narys arba valstybės ar savivaldybių institucijos arba įstaigos vadovas, atsižvelgdamas į įvykio, ekstremaliojo įvykio pobūdį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 3) šaukiamas valstybės operacijų centras;
 
@@ -879,7 +955,11 @@ Nr. XII-732, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00065
 
 5. Ekstremalių situacijų komisijų tarpusavio santykiai grindžiami sprendimų viršenybės principais: žemiausi yra savivaldybės ekstremalių situacijų komisijos sprendimai, aukščiausi – Vyriausybės ekstremalių situacijų komisijos sprendimai.
 
-6. Gresiant ar susidarius ekstremaliajai situacijai, atitinkamos ekstremalių situacijų komisijos sušaukimą inicijuoja valstybės ir savivaldybių institucijos ar įstaigos vadovas ir ūkio subjekto vadovas.
+6. Gresiant ar susidarius ekstremaliajai situacijai, atitinkamos ekstremalių situacijų komisijos sušaukimą inicijuoja valstybės ir savivaldybių institucijos ar įstaigos vadovas ir ūkio subjekto vadovas. Paskelbus valstybės lygio ekstremaliąją situaciją, Vyriausybės ekstremalių situacijų komisijos sušaukimą inicijuoja šios komisijos pirmininkas valstybės operacijų vadovo arba institucijos, valstybės ekstremaliųjų situacijų valdymo plane nurodytos kaip atsakingos už ekstremaliosios situacijos valdymą, vadovo siūlymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 7. Ministerijos ir (ar) kitos valstybės institucijos ar įstaigos, nurodytos šio įstatymo 13 straipsnio 2 dalyje, vadovas ar jo įgaliotas asmuo, gavęs informaciją apie gresiantį ar susidariusį ekstremalųjį įvykį ar ekstremaliąją situaciją, Vyriausybės nustatyta tvarka sušaukia ministerijos ir (ar) kitos valstybės institucijos ir įstaigos operacijų centrą.
 
@@ -895,21 +975,71 @@ Nr. XII-732, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00065
 
 3. Gelbėjimo darbų vadovas ar operacijų vadovas atsako už gyventojų gelbėjimą, civilinės saugos sistemos pajėgų valstybės tarnautojų ir darbuotojų, taip pat kitų gyventojų, dalyvaujančių vykdant gelbėjimo, paieškos ir neatidėliotinus darbus, likviduojant įvykį, ekstremalųjį įvykį, ekstremaliąją situaciją ir šalinant jų padarinius, saugumą.
 
-4. Kilus dėl įvykio, ekstremaliojo įvykio ar ekstremaliosios situacijos pavojui gyventojų sveikatai, gyvybei, turtui ar aplinkai, gelbėjimo darbų vadovas ar operacijų vadovas gali laikinai apriboti patekimą į tam tikrą teritoriją ar patalpą, apriboti ar uždrausti transporto priemonių eismą ekstremaliosios situacijos židinyje. Gelbėjimo darbų vadovas ar operacijų vadovas neatidėliotinais atvejais, kai kyla didelis pavojus gyventojų gyvybei, sveikatai, turtui ar aplinkai, gali naudotis įvykiui, ekstremaliajam įvykiui ar ekstremaliajai situacijai likviduoti reikalingais materialiniais ištekliais, neatsižvelgdamas į jų nuosavybės formą, taip pat bet kuriuo paros metu turi teisę įeiti į bet kokias negyvenamąsias patalpas ir teritorijas, gyventojų sutikimu – į gyvenamąsias patalpas, sustabdyti atliekamus darbus, išjungti elektros ar kitokius įrenginius, pašalinti kliūtis, kurios trukdo likviduoti įvykį, ekstremalųjį įvykį ar ekstremaliąją situaciją, taip pat atlikti paieškos, gelbėjimo ir neatidėliotinus darbus. Be gyventojo sutikimo įeiti į gyvenamąją patalpą galima tik tuo atveju, kai reikia gelbėti gyventojų gyvybę, sveikatą ar turtą.
+4. Kilus dėl įvykio, ekstremaliojo įvykio ar ekstremaliosios situacijos pavojui gyventojų sveikatai, gyvybei, turtui ar aplinkai, gelbėjimo darbų vadovo ar operacijų vadovo sprendimu:
 
-5. Priešgaisrinės gelbėjimo pajėgos pagal kompetenciją vykdo gelbėjimo, paieškos ir neatidėliotinus darbus, likviduoja įvykius, ekstremaliuosius įvykius ir ekstremaliąsias situacijas ir šalina jų padarinius.
+1) gali būti laikinai apribotas patekimas į tam tikrą teritoriją ar patalpą, apribotas ar uždraustas transporto priemonių eismas ekstremaliosios situacijos židinyje;
 
-6. Policijos pareigūnai saugo ekstremaliosios situacijos židinį, kontroliuoja civilinės saugos sistemos pajėgų ir kitų tarnybų patekimą į ekstremaliosios situacijos židinį, palaiko viešąją tvarką ir užtikrina eismo saugumą ekstremaliosios situacijos židinyje, renka ir sistemina informaciją apie nukentėjusius ir žuvusius gyventojus, nustato žuvusiųjų tapatybę ir organizuoja jų išgabenimą iš ekstremaliosios situacijos židinio teisės aktų nustatyta tvarka ir atvejais kartu su kitomis kompetentingomis institucijomis.
+2) civilinės saugos sistemos pajėgos gali naudotis ekstremaliajam įvykiui ar ekstremaliajai situacijai likviduoti reikalingais materialiniais ištekliais, neatsižvelgdamos į jų nuosavybės formą;
 
-7. Valstybės sienos apsaugos tarnyba kartu su kitomis kompetentingomis institucijomis ir įstaigomis dalyvauja vykdant paieškos ir gelbėjimo darbus pasienio vidaus vandenyse, ieško pasiklydusių (dingusių) asmenų, žvalgo ekstremaliosios situacijos židinį iš oro, stebi radiacijos foną ir padeda policijos pareigūnams užtikrinti arba savarankiškai vykdo šio straipsnio 4 ir 6 dalyse nustatytas funkcijas pasienio ruože ir kituose Valstybės sienos apsaugos tarnybos kontroliuojamuose ar saugomuose objektuose.
+3) civilinės saugos sistemos pajėgų pareigūnai, valstybės tarnautojai ar įgalioti darbuotojai, atlikdami savo funkcijas, turi teisę bet kuriuo paros metu įeiti į bet kokias negyvenamąsias patalpas ir teritorijas, gyventojų sutikimu – į gyvenamąsias patalpas, sustabdyti atliekamus darbus, pašalinti kliūtis, kurios trukdo likviduoti įvykį, ekstremalųjį įvykį ar ekstremaliąją situaciją, taip pat bet kokioje įvykio ar ekstremaliojo įvykio paveiktoje teritorijoje atlikti paieškos, gelbėjimo ir kitus neatidėliotinus darbus. Be gyventojo sutikimo įeiti į gyvenamąją patalpą galima tik tuo atveju, kai reikia gelbėti gyventojų gyvybę, sveikatą ar turtą.
 
-8. Greitosios medicinos pagalbos paslaugas teikiančių įstaigų darbuotojai įvykių, ekstremaliųjų įvykių ir ekstremaliųjų situacijų metu teikia greitosios medicinos pagalbos paslaugas, prireikus nugabena nukentėjusiuosius ir (ar) pacientus į asmens sveikatos priežiūros įstaigas.
+Straipsnio dalies pakeitimai:
 
-9. Viešojo saugumo tarnybos pareigūnai susidarius ekstremaliajai situacijai užkerta kelią veiksmams, keliantiems pavojų gyventojų gyvybei ar sveikatai, turtui, gamtai, arba veiksmų, kuriais šiurkščiai pažeidžiama viešoji tvarka, padeda likviduoti ekstremaliąsias situacijas ir jų padarinius.
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
-10. Ekstremaliųjų situacijų atvejais teisės aktų nustatyta tvarka gali būti pasitelkiami kariniai vienetai.
+5. Šio straipsnio 4 dalyje nurodyti gelbėjimo darbų vadovo ar operacijų vadovo sprendimai įforminami specialiame blanke elektroniniu būdu. Šių sprendimų formą ir skelbimo tvarką nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius. Dėl gresiančio pavojaus gyventojų sveikatai, gyvybei, turtui ar aplinkai, kai nėra galimybių įforminti rašytinio sprendimo, gali būti duotas ir žodinis nurodymas, kuris ne vėliau kaip kitą dieną privalo būti įformintas ir paskelbtas šioje dalyje nustatyta tvarka.
 
-11. Asmens ir visuomenės sveikatos priežiūros įstaigos turi būti pasirengusios organizuoti savo veiklą susidarius ekstremaliajai situacijai pagal įstaigos ekstremaliųjų situacijų valdymo planą, parengtą pagal sveikatos apsaugos ministro patvirtintas rekomendacijas ir Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus patvirtintas ekstremaliųjų situacijų valdymo planų rengimo metodines rekomendacijas.
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+6. Gelbėjimo darbų vadovo ar operacijų vadovo sprendimų, nurodytų šio straipsnio 4 dalyje, įgyvendinimą organizuoja atitinkama civilinės saugos sistemos subjektui ar pajėgoms priklausanti institucija, kuriai atstovauja gelbėjimo darbų vadovas arba operacijų vadovas, arba jei sušauktas, – atitinkamas operacijų centras.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+7. Priešgaisrinės gelbėjimo pajėgos pagal kompetenciją vykdo gelbėjimo, paieškos ir neatidėliotinus darbus, likviduoja įvykius, ekstremaliuosius įvykius ir ekstremaliąsias situacijas ir šalina jų padarinius.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+8. Policijos pareigūnai saugo ekstremaliosios situacijos židinį, kontroliuoja civilinės saugos sistemos pajėgų ir kitų tarnybų patekimą į ekstremaliosios situacijos židinį, palaiko viešąją tvarką ir užtikrina eismo saugumą ekstremaliosios situacijos židinyje, renka ir sistemina informaciją apie nukentėjusius ir žuvusius gyventojus, nustato žuvusiųjų tapatybę ir organizuoja jų išgabenimą iš ekstremaliosios situacijos židinio teisės aktų nustatyta tvarka ir atvejais kartu su kitomis kompetentingomis institucijomis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+9. Valstybės sienos apsaugos tarnyba kartu su kitomis kompetentingomis institucijomis ir įstaigomis dalyvauja vykdant paieškos ir gelbėjimo darbus pasienio vidaus vandenyse, ieško pasiklydusių (dingusių) asmenų, žvalgo ekstremaliosios situacijos židinį iš oro, stebi radiacijos foną ir padeda policijos pareigūnams užtikrinti arba savarankiškai vykdo šio straipsnio 4 ir 6 dalyse nustatytas funkcijas pasienio ruože ir kituose Valstybės sienos apsaugos tarnybos kontroliuojamuose ar saugomuose objektuose.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+10. Greitosios medicinos pagalbos paslaugas teikiančių įstaigų darbuotojai įvykių, ekstremaliųjų įvykių ir ekstremaliųjų situacijų metu teikia greitosios medicinos pagalbos paslaugas, prireikus nugabena nukentėjusiuosius ir (ar) pacientus į asmens sveikatos priežiūros įstaigas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+11. Viešojo saugumo tarnybos pareigūnai susidarius ekstremaliajai situacijai užkerta kelią veiksmams, keliantiems pavojų gyventojų gyvybei ar sveikatai, turtui, gamtai, arba veiksmų, kuriais šiurkščiai pažeidžiama viešoji tvarka, padeda likviduoti ekstremaliąsias situacijas ir jų padarinius.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+12. Ekstremaliųjų situacijų atvejais teisės aktų nustatyta tvarka gali būti pasitelkiami kariniai vienetai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+13. Asmens ir visuomenės sveikatos priežiūros įstaigos turi būti pasirengusios organizuoti savo veiklą susidarius ekstremaliajai situacijai pagal įstaigos ekstremaliųjų situacijų valdymo planą, parengtą pagal sveikatos apsaugos ministro patvirtintas rekomendacijas ir Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus patvirtintas ekstremaliųjų situacijų valdymo planų rengimo metodines rekomendacijas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 Straipsnio pakeitimai:
 
@@ -930,10 +1060,6 @@ Didelių pramoninių avarijų prevencijos, likvidavimo ir tyrimo tvarką nustato
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-657, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16015
-
-VI SKYRIUS
-
-Kompensacijos, VALSTYBĖS PARAMA IR SOCIALINĖS GARANTIJOS
 
 32 straipsnis. Valstybės paramos teikimas
 
@@ -1098,6 +1224,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1768, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20879
 
 Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 12 ir 14 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 8, 9, 11, 12, 14, 22, 27, 28 straipsnių pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
 
 41 straipsnis.
 
@@ -1328,4 +1462,20 @@ Gyventojų apsaugai organizuoti, gelbėjimo, paieškos ir neatidėliotiniems dar
 IX skyrius
 
 Baigiamosios nuostatos
+
+301 straipsnis. Prekybos ir paslaugų teikimo reguliavimas valstybės lygio ekstremaliosios situacijos metu
+
+1. Paskelbus valstybės lygio ekstremaliąją situaciją, Vyriausybės ekstremalių situacijų komisija turi teisę nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms ir ūkio subjektams būtinų prekių ir (ar) paslaugų sąrašą ir pavesti Valstybinei vartotojų teisių apsaugos tarnybai stebėti šių prekių ir (ar) paslaugų kainų ir prieinamumo pokyčius. Valstybinė vartotojų teisių apsaugos tarnyba, nustačiusi šių prekių ir (ar) paslaugų trūkumą ir (ar) jų prieinamumo kliūtis, nedelsdama apie tai informuoja Vyriausybės ekstremalių situacijų komisiją. Vyriausybės ekstremalių situacijų komisija, atsižvelgdama į gautą informaciją, gali teikti siūlymą Vyriausybei spręsti dėl poreikio imtis šio įstatymo 9 straipsnio 20 punkte nurodytų priemonių.
+
+2. Vyriausybė, gavusi šio straipsnio 1 dalyje nurodytą Vyriausybės ekstremalių situacijų komisijos siūlymą ir Lietuvos Respublikos konkurencijos tarybos nuomonę, turi teisę šio įstatymo 9 straipsnio 20 punkto pagrindu valstybės lygio ekstremaliosios situacijos metu imtis konkrečių prekių ir (ar) paslaugų tiekimą ir prieinamumą didinančių priemonių.
+
+3. Nustatydama šio straipsnio 2 dalyje nurodytas priemones, Vyriausybė turi laikytis proporcingumo principo, nepažeisti sąžiningos konkurencijos ir ūkio subjektų lygiateisiškumo ir nurodyti maksimalų jų taikymo terminą, ne ilgesnį už valstybės lygio ekstremaliosios situacijos trukmę. Paskelbus valstybės lygio ekstremaliąją situaciją gyventojų, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų ir ūkio subjektų atžvilgiu nustatytas priemones Vyriausybė turi nedelsdama atšaukti, kai išnyksta priežastys, dėl kurių jos buvo nustatytos.
+
+Papildyta straipsniu:
+
+Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+
+VI SKYRIUS
+
+Kompensacijos, VALSTYBĖS PARAMA IR SOCIALINĖS GARANTIJOS
 
