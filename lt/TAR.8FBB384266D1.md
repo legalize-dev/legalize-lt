@@ -4,7 +4,7 @@ identifier: "TAR.8FBB384266D1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2019-01-01"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2023-01-06
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
 
@@ -48,7 +48,11 @@ BENDROSIOS NUOSTATOS
 
 2) mažinti laivų, neatitinkančių tarptautinių saugios laivybos reikalavimų, skaičių.
 
-3. Šio įstatymo ir juo vadovaujantis priimtų teisės aktų normos netaikomos:
+3. Šio įstatymo, išskyrus 48 ir 49 straipsnius, ir juo vadovaujantis priimtų teisės aktų normos netaikomos:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 1) užsienio valstybių laivams, kurie plaukia per Lietuvos Respublikos teritorinę jūrą naudodamiesi taikaus plaukimo teise, ir juose esantiems asmenims;
 
@@ -65,6 +69,12 @@ BENDROSIOS NUOSTATOS
 4. Visais atvejais šio straipsnio 3 dalyje minimi laivai, plaukdami bendrojo naudojimo vandens keliais, vadovaujasi 1972 m. Tarptautine konvencija dėl tarptautinių taisyklių, padedančių išvengti laivų susidūrimų jūroje, o plaukdami uostų akvatorijomis šių laivų kapitonai privalo vykdyti uostų laivybos taisyklėse nustatytus reikalavimus ir uostų laivų eismo tarnybų budinčių pareigūnų nurodymus saugios laivybos klausimais.
 
 5. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
+
+6. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -98,21 +108,29 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
 
-6. Jūrų laivo avarija – vienas ar keli įvykiai eksploatuojant jūrų laivą, dėl kurių miršta, yra sužeidžiami ar dingsta tame laive buvę žmonės, užteršiama aplinka ar sugadinama jūrų laivo konstrukcija ar jo sistemos.
+6. Neteko galios 2020-05-01.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
 
-7. Jūrų laivo incidentas (toliau – incidentas) – įvykis, kai jūrų laivui arba jame esantiems žmonėms kyla pavojus arba kai nesiėmus tinkamų veiksmų jūrų laivo veikla gali kelti pavojų aplinkai, kitiems laivams ir žmonėms.
+7. Neteko galios 2020-05-01.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -133,6 +151,12 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+
+91. Labai sunki laivo avarija – laivo avarija, kai pražūsta laivas, žūsta žmogus arba padaroma didelė žala aplinkai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 10. Laivas – bet kurio tipo savaeigis ar nesavaeigis plaukiojamasis statinys, kuris yra arba gali būti naudojamas laivybai.
 
@@ -178,6 +202,12 @@ Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
 
+141. Laivo avarija – vienas ar keli įvykiai eksploatuojant laivą, sukėlę bet kurį iš šių padarinių: žmogaus mirtį ar sunkų sužalojimą; žmogaus dingimą iš laivo; laivo žūtį, numanomą žūtį arba jo palikimą; žalą laivui; laivo užplaukimą ant seklumos, jo neveiksnumą arba susidūrimą; jūrų infrastruktūros pažeidimus, dėl kurių galėjo kilti pavojus pažeidimus sukėlusiam ar kitam laivui arba asmenims; didelę žalą aplinkai arba realią galimybę šiai žalai atsirasti dėl laivo ar laivų pažeidimų. Laivo avarija nelaikoma tyčinė veika ar neveikimas siekiant sukelti pavojų laivo saugai, asmeniui ar aplinkai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
+
 15. Laivo įgula – jūrininkai, atliekantys laivo eksploatavimo, priežiūros ar žmonių aptarnavimo laive užduotis ir įrašyti į laivo įgulos sąrašą.
 
 Straipsnio dalies numeracijos pakeitimas:
@@ -185,6 +215,12 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+
+151. Laivo incidentas (toliau – incidentas) – įvykis ar jų seka, išskyrus laivo avariją, kuris (kurie) įvyko tiesiogiai eksploatuojant laivą, sukėlęs arba nesiėmus taisomųjų veiksmų galėjęs sukelti pavojų laivo saugai, jame esantiems žmonėms ar bet kuriam kitam asmeniui arba aplinkai. Laivo incidentu nelaikoma tyčinė veika ar neveikimas siekiant sukelti pavojų laivo saugai, asmeniui ar aplinkai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 16. Laivo įrenginiai – įrenginiai, kurie pagal tarptautinius saugios laivybos reikalavimus turi būti naudojami laive saugiai laivybai ir jūros aplinkos apsaugai nuo taršos užtikrinti arba kurie laivybos bendrovės nurodymu yra papildomai naudojami laive ir kurių atitiktis tarptautiniams saugios laivybos reikalavimams, vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis, turi būti patvirtinta Lietuvos transporto saugos administracijos, arba įgaliotosios laivų klasifikavimo bendrovės.
 
@@ -250,6 +286,12 @@ Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
 
+221. Nesunki laivo avarija – laivo avarija, kuri neklasifikuojama kaip labai sunki arba kaip sunki avarija.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
+
 23. Paieškos ir gelbėjimo rajonas – nustatytų koordinačių zona, dėl kurios pagal 1979 m. Tarptautinę jūrų paieškos ir gelbėjimo konvenciją Lietuva susitarė su suinteresuotomis valstybėmis, šios konvencijos šalimis, taip pat Kuršių marios ir jūrų uostų akvatorijos.
 
 Straipsnio dalies numeracijos pakeitimas:
@@ -265,6 +307,12 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+
+241. Pripažintoji organizacija – laivų klasifikavimo bendrovė ar kita įstaiga, vėliavos valstybės administracijos vardu atliekanti teisės aktų nustatytas užduotis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 25. Saugios laivybos reikalavimai – reikalavimai, kuriais užtikrinamas saugus laivų plaukiojimas, taršos iš laivų prevencija ir laivų apsauga.
 
@@ -289,6 +337,18 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+
+271. Sunki laivo avarija – prie labai sunkių avarijų nepriskiriama laivo avarija, kurios metu įvyko gaisras, sprogimas, susidūrimas, laivas užplaukė ant seklumos, atsitrenkė į kitą objektą, patyrė apgadinimų dėl blogų oro sąlygų, patyrė korpuso pažeidimų dėl susidūrimo su ledais, atsirado laivo korpuso įtrūkimų ar numanomų laivo korpuso defektų ir panašiai ir dėl to atsirado bet kuris iš šių padarinių:
+
+1) nebegalima naudotis pagrindiniais laivo varikliais, buvo labai apgadintos laivo patalpos, konstrukcijos, pavyzdžiui, korpuso povandeninė dalis pasidarė nesandari ir panašiai ir dėl to laivas prarado savo jūrines savybes ir nėra tinkamas plaukioti;
+
+2) buvo užteršta aplinka (nepriklausomai nuo kiekio);
+
+3) įvyko gedimas, dėl kurio laivą būtina vilkti arba jam reikalinga pagalba iš kranto.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 28. Tarptautinės jūrų organizacijos auditas – tarptautinių valstybės įsipareigojimų auditas, atliekamas vadovaujantis procedūra, patvirtinta 2005 m. gruodžio 1 d. Tarptautinės jūrų organizacijos asamblėjos rezoliucija A.974 (24), kartu su taikymo metu galiojančiais jos pakeitimais.
 
@@ -402,11 +462,15 @@ Nr. XIII-762, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18814
 
 4. Socialinės apsaugos ir darbo ministerija kartu su Susisiekimo ministerija priima teisės aktus jūrininkų darbo santykių, saugos ir sveikatos, o Sveikatos apsaugos ministerija kartu su Susisiekimo ministerija – jūrininkų sveikatos apsaugos ir sveikatos priežiūros klausimais, organizuoja, koordinuoja, kontroliuoja (prižiūri) šių teisės aktų vykdymą.
 
-5. Teisingumo ministras priima teisės aktus jūrų laivų avarijų ir incidentų tyrimo, ataskaitų ir saugos rekomendacijų rengimo ir teikimo klausimais, organizuoja, koordinuoja, kontroliuoja (prižiūri) šių teisės aktų vykdymą.
+5. Teisingumo ministras priima teisės aktus laivų avarijų ir incidentų tyrimo, ataskaitų ir saugos rekomendacijų rengimo ir teikimo klausimais, organizuoja, kordinuoja, kontroliuoja (prižiūri) šiuose teisės aktuose nustatytų reikalavimų vykdymą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 6. Administracija įgyvendina valstybės politiką saugios laivybos srityje ir dalyvauja šią politiką formuojant, nustato saugią laivybą reglamentuojančius techninius ir organizacinius reikalavimus ir atlieka kitas šiame įstatyme nustatytas funkcijas.
 
@@ -524,11 +588,49 @@ Administracija atlieka šias funkcijas:
 
 1) bendrovė turi būti pripažinta Europos Komisijos ir įrašyta į Pripažintųjų organizacijų sąrašą;
 
-2) bendrovė privalo turėti Lietuvoje įregistruotą atstovybę, veikiančią pagal Lietuvos Respublikos įstatymus. Jeigu tokios atstovybės nėra, ji turi būti įsteigta per 12 mėnesių nuo Administracijos sutarties su įgaliotąja laivų klasifikavimo bendrove sudarymo dienos.
+2) bendrovė privalo turėti Lietuvoje įregistruotą atstovybę, veikiančią pagal Lietuvos Respublikos įstatymus. Jeigu tokios atstovybės nėra, ji turi būti įsteigta per 12 mėnesių nuo Administracijos sutarties dėl laivų, plaukiojančių su Lietuvos valstybės vėliava, techninės priežiūros, apžiūrų atlikimo ir atitinkamų tai patvirtinančių dokumentų išdavimo (toliau šiame straipsnyje – sutartis) su įgaliotąja laivų klasifikavimo bendrove sudarymo dienos.
 
-3. Administracija išnagrinėja laivų klasifikavimo bendrovės pateiktą prašymą dėl įgaliojimų jai suteikimo ir įsitikinusi, kad ši bendrovė atitinka 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 391/2009 dėl laivų patikrinimo ir apžiūros organizacijų bendrųjų taisyklių ir standartų (OL 2009 L 131, p. 11) I priede nustatytus kriterijus, jos veiklos organizavimas atitinka saugios laivybos reikalavimus, per 10 darbo dienų nuo prašymo gavimo Administracijoje dienos pateikia siūlymą sudaryti sutartį dėl laivų, plaukiojančių su Lietuvos valstybės vėliava, techninės priežiūros, apžiūrų atlikimo ir atitinkamų tai patvirtinančių dokumentų išdavimo.
+3. Jeigu įgaliotoji laivų klasifikavimo bendrovė siekia Lietuvos Respublikos jūrų laivų registre įregistruotiems laivams išduoti elektroninius liudijimus, atitinkančius Lietuvos Respublikos įstatymuose ir kituose teisės aktuose, Europos Sąjungos teisės aktuose ir tarptautinėse konvencijose nustatytus reikalavimus (toliau – elektroninis liudijimas), ir pratęsti jų galiojimą, ji papildomai turi įrodyti, kad:
 
-4. Sutartyse, kurias sudaro Administracija ir laivų klasifikavimo bendrovės, nustatomos įgaliotųjų laivų klasifikavimo bendrovių teisės ir pareigos atliekant laivų techninę priežiūrą, apžiūras ir Lietuvos Respublikos vardu išduodant atitinkamus tai patvirtinančius dokumentus, taip pat įgaliotųjų laivų klasifikavimo bendrovių ir Administracijos bendradarbiavimo bei keitimosi informacija sąlygos ir tvarka. Įgaliotoji laivų klasifikavimo bendrovė turi teisę pradėti vykdyti sutartyje nustatytas veiklas nuo šios sutarties pasirašymo dienos.
+1) išduodami elektroniniai liudijimai atitiks tarptautinėse konvencijose nustatytus turinio ir formos reikalavimus;
+
+2) išduodami elektroniniai liudijimai yra apsaugoti nuo redagavimo ar kitokio duomenų pakeitimo, išskyrus Administracijos ar įgaliotosios laivų klasifikavimo bendrovės sankcionuotus pakeitimus, ir yra pasirašyti elektroniniu parašu arba patvirtinti elektroniniu spaudu;
+
+3) išduodamiems elektroniniams liudijimams suteikiamas unikalus kontrolinis numeris (skaičių, raidžių ar simbolių seka), pagal kurį galima patikrinti liudijimo autentiškumą ir atskirti liudijimą nuo kito tos pačios ar kitos pripažintosios organizacijos išduoto liudijimo;
+
+4) išduodamų elektroninių liudijimų išspausdintose kopijose yra matomi simboliai, leidžiantys nustatyti išdavimo šaltinį;
+
+5) elektroninėje erdvėje užtikrinamas patikimas, saugus ir nenutrūkstamas elektroninio liudijimo autentiškumo ir galiojimo patvirtinimo mechanizmas naudojant unikalų kontrolinį numerį;
+
+6) laivuose, kuriems išduodami elektroniniai liudijimai, turi būti instrukcijos dėl elektroniniuose liudijimuose esančios informacijos, įskaitant elektroninio liudijimo periodinius patvirtinimus, patikrinimo elektroninėje erdvėje.
+
+4. Administracija išnagrinėja laivų klasifikavimo bendrovės pateiktą prašymą suteikti įgaliojimus ir įsitikinusi, kad ši bendrovė atitinka 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 391/2009 dėl laivų patikrinimo ir apžiūros organizacijų bendrųjų taisyklių ir standartų (OL 2009 L 131, p. 11) (toliau – Reglamentas (EB) Nr. 391/2009) I priede nustatytus kriterijus, 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 725/2004 dėl laivų ir uostų įrenginių apsaugos stiprinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 74) III priede nustatytus kriterijus ir 2006 m. Tarptautinės darbo organizacijos konvencijoje dėl darbo jūrų laivyboje nustatytus reikalavimus, jos veiklos organizavimas atitinka saugios laivybos reikalavimus, per 10 darbo dienų nuo prašymo gavimo Administracijoje dienos pateikia siūlymą sudaryti sutartį.
+
+5. Sutartyse, kurias sudaro Administracija ir laivų klasifikavimo bendrovės, nustatomos įgaliotųjų laivų klasifikavimo bendrovių teisės ir pareigos atliekant laivų techninę priežiūrą, apžiūras ir Lietuvos Respublikos vardu išduodant atitinkamus tai patvirtinančius dokumentus, taip pat įgaliotųjų laivų klasifikavimo bendrovių ir Administracijos bendradarbiavimo, keitimosi informacija sąlygos ir tvarka bei esminės sutarties pažeidimo sąlygos. Įgaliotoji laivų klasifikavimo bendrovė turi teisę pradėti vykdyti sutartyje nustatytas veiklas nuo šios sutarties pasirašymo dienos.
+
+6. Įgaliojimų Lietuvos Respublikos vardu vykdyti Lietuvos Respublikos jūrų laivų registre įregistruotų ir turinčių teisę plaukioti su Lietuvos valstybės vėliava laivų techninę priežiūrą, apžiūras ir išduoti dokumentus (liudijimus), kuriais patvirtinama, kad laivai atitinka jiems taikomus saugios laivybos ir jūrininkų darbo ir gyvenimo laive sąlygų reikalavimus, nustatytus Lietuvos Respublikos įstatymuose, Europos Sąjungos teisės aktuose ir tarptautinėse sutartyse (toliau – įgaliojimai), suteikimo, suteiktų įgaliojimų laikino sustabdymo, panaikinimo ar sustabdymo panaikinimo pripažintosioms organizacijoms tvarką nustato susisiekimo ministras.
+
+7. Įgaliotajai laivų klasifikavimo bendrovei suteikti įgaliojimai laikinai sustabdomi, jeigu:
+
+1) Administracija, įvertinusi informaciją, gautą vykdant įgaliotosios laivų klasifikavimo bendrovės veiklos priežiūrą, nustato, kad įgaliotoji laivų klasifikavimo bendrovė netinkamai vykdo sutartį arba bendrovės veikla neatitinka saugios laivybos reikalavimų, įtvirtintų tarptautinėse konvencijose, Lietuvos Respublikos teisės aktuose ar Europos Sąjungos teisės aktuose;
+
+2) kompetentinga Europos Sąjungos institucija reikalauja sustabdyti įgaliotosios laivų klasifikavimo bendrovės įgaliojimus.
+
+8. Laikinai sustabdžius įgaliotajai laivų klasifikavimo bendrovei suteiktus įgaliojimus, Administracija per vieną darbo dieną nuo šio straipsnio 7 dalyje nurodytų aplinkybių paaiškėjimo dienos apie laikiną įgaliojimų sustabdymą raštu informuoja įgaliotąją laivų klasifikavimo bendrovę ir nurodo jos veiklos trūkumus ir terminą, per kurį šiuos trūkumus įgaliotoji laivų klasifikavimo bendrovė privalo pašalinti. Pašalinusi trūkumus, įgaliotoji laivų klasifikavimo bendrovė raštu apie tai praneša Administracijai, kuri patikrina informaciją ir per 10 darbo dienų nuo šios informacijos gavimo dienos priima sprendimą panaikinti įgaliojimų sustabdymą arba panaikinti suteiktus įgaliojimus, jeigu trūkumai per nustatytą terminą nepašalinti.
+
+9. Įgaliojimų sustabdymas panaikinamas Administracijos sprendimu, kai įgaliotoji laivų klasifikavimo bendrovė per nustatytą terminą pašalina veiklos trūkumus arba gauna Europos Komisijos pranešimą, kuriame nurodoma, kad įgaliojimai laikinai sustabdyti nepagrįstai, ir reikalaujama, kad sprendimas laikinai sustabdyti įgaliotosios laivų klasifikavimo bendrovės įgaliojimus būtų panaikintas.
+
+10. Įgaliotajai laivų klasifikavimo bendrovei suteikti įgaliojimai panaikinami ne vėliau kaip per 3 darbo dienas nuo šios dalies 1, 2 ir 3 punktuose nurodytų aplinkybių paaiškėjimo dienos, jeigu:
+
+1) Europos Komisija pagal Reglamento (EB) Nr. 391/2009 7 straipsnio nuostatas priėmė sprendimą dėl pripažintosios organizacijos pripažinimo panaikinimo;
+
+2) įgaliotoji laivų klasifikavimo bendrovė padarė esminį sutarties pažeidimą ir per sutartyje nurodytą arba Administracijos nustatytą terminą nepašalino pažeidimą sudarančių aplinkybių;
+
+3) įgaliotoji laivų klasifikavimo bendrovė per Administracijos nustatytą terminą nepašalino veiklos trūkumų, dėl kurių buvo priimtas sprendimas laikinai sustabdyti įgaliojimus.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 9 straipsnis. Tarptautinės jūrų organizacijos audito atlikimas
 
@@ -566,21 +668,23 @@ KETVIRTASIS SKIRSNIS
 
 LAIVO ĮGULA
 
-13 straipsnis. Reikalavimai laivo įgulai ir privalomų dokumentų išdavimas
+13 straipsnis. Reikalavimai laivo įgulai
 
-1. Dirbti laive leidžiama tik jūrininkams, turintiems galiojančius jūrinio laipsnio diplomus ir jų išdavimo arba pripažinimo patvirtinimus, kvalifikacijos liudijimus ar kitus dokumentus, kurie suteikia teisę eiti atitinkamas pareigas laive, ir įrašytiems į laivo įgulos sąrašą.
+1. Dirbti laive leidžiama tik jūrininkams, turintiems galiojančius jūrininkų kvalifikaciją patvirtinančius dokumentus, kurie suteikia teisę eiti atitinkamas pareigas laive, ir įrašytiems į laivo įgulos sąrašą.
 
 2. Jūrinio laipsnio suteikimo ir privalomų dokumentų išdavimo tvarką nustato susisiekimo ministras, atsižvelgdamas į tarptautinius jūrininkų rengimo, atestavimo ir budėjimo standartus.
 
-3. Į uostą įplaukiančio ar išplaukiančio laivo, kurio kapitonas turi leidimą Lietuvos Respublikos jūrų uostuose plaukti be locmano, vairinėje turi būti laivavedys, kuris moka valstybinę kalbą. Šis reikalavimas netaikomas, jeigu laivą veda locmanas.
+3. Į uostą įplaukiančio ar iš uosto išplaukiančio laivo, kurio kapitonas turi leidimą Lietuvos Respublikos jūrų uostuose plaukti be locmano, vairinėje turi būti laivavedys, mokantis valstybinę kalbą. Šis reikalavimas netaikomas, jeigu laivą veda locmanas.
 
-4. Privalomus dokumentus jūrininkams išduoda Administracija.
+4. Lietuvos Respublikos jūrų laivų registre įregistruotam laivui draudžiama išplaukti į jūrą, jeigu laivas neturi Administracijos išduoto minimalios laivo įgulos sudėties liudijimo. Minimalios laivo įgulos sudėties reikalavimus nustato susisiekimo ministras arba jo įgaliota institucija, atsižvelgdami į tarptautinius saugios laivybos reikalavimus dėl minimalios laivo įgulos sudėties. Administracija išnagrinėja laivybos bendrovės pateiktą prašymą išduoti minimalios laivo įgulos sudėties liudijimą ir dokumentus, numatytus susisiekimo ministro arba jo įgaliotos institucijos nustatytų minimalios laivo įgulos sudėties reikalavimų apraše, ir per 3 darbo dienas nuo prašymo gavimo Administracijoje dienos išduoda minimalios laivo įgulos sudėties liudijimą.
 
-5. Lietuvos Respublikos jūrų laivų registre įregistruotam laivui draudžiama išplaukti į jūrą, jeigu laivas neturi Administracijos išduoto laivo įgulos minimumo liudijimo. Minimalios laivo įgulos sudėties reikalavimus nustato susisiekimo ministras, vadovaudamasis 1974 m. Tarptautinėje konvencijoje dėl žmogaus gyvybės apsaugos jūroje nustatytais reikalavimais dėl minimalios laivo įgulos sudėties. Administracija išnagrinėja laivybos bendrovės pateiktą prašymą išduoti laivo įgulos minimumo liudijimą ir dokumentus, numatytus Lietuvos Respublikos jūrų laivų registravimo taisyklėse, patvirtintose susisiekimo ministro, ir per 10 darbo dienų nuo prašymo gavimo Administracijoje dienos išduoda laivo įgulos minimumo liudijimą.
+5. Nė vienas laivo įgulos narys negali būti paskirtas į laivą be laivo kapitono sutikimo.
 
-6. Nė vienas laivo įgulos narys negali būti paskirtas į laivą be laivo kapitono sutikimo.
+6. Laivo įgulos nariai gali dėvėti civilinio jūrų laivyno uniformą.
 
-7. Laivo įgulos nariai gali dėvėti civilinio jūrų laivyno uniformą.
+Straipsnio pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 14 straipsnis. Laivo įgulos narių sveikatos būklės tikrinimas
 
@@ -598,11 +702,17 @@ LAIVO ĮGULA
 
 16 straipsnis. Lietuvos Respublikos jūrininkų registras
 
-1. Asmenys, kuriems išduoti Lietuvos Respublikos jūrinio laipsnio diplomai, kvalifikacijos liudijimai ir jūrininko knygelės, registruojami Lietuvos Respublikos jūrininkų registre.
+1. Lietuvos Respublikos jūrininkų registre registruojami asmenys, kuriems įforminti ir (arba) išduoti jūrinio laipsnio diplomai, kvalifikacijos liudijimai, globalinės jūrų avarinio ryšio ir saugumo sistemos radijo ryšio operatoriaus diplomai, jų išdavimo patvirtinimai, kompetencijos liudijimų pripažinimo patvirtinimai, specialieji liudijimai, lengvatiniai leidimai ir jūrininko knygelės.
 
 2. Lietuvos Respublikos jūrininkų registras veikia Vyriausybės tvirtinamuose Lietuvos Respublikos jūrininkų registro nuostatuose nustatyta tvarka.
 
-3. Lietuvos Respublikos jūrininkų registro valdytoja yra Susisiekimo ministerija, registro tvarkytoja – Administracija.
+3. Lietuvos Respublikos jūrininkų registro valdytoja yra Susisiekimo ministerija, šio registro tvarkytoją skiria Vyriausybė.
+
+4. Lietuvos Respublikos jūrininkų registro tvarkytojas registro duomenų gavėjams neatlygintinai teikia registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 PENKTASIS SKIRSNIS
 
@@ -632,11 +742,33 @@ LOCMANŲ VEIKLA
 
 19 straipsnis. Locmanas
 
-1. Locmano pareigas gali eiti ne vyresnis kaip 68 metų asmuo, mokantis valstybinę ir anglų kalbas ir turintis ne žemesnį kaip laivo, kurio bendroji talpa yra 500 ir daugiau, budinčio kapitono padėjėjo jūrinį laipsnį ir dvejų metų budinčio kapitono padėjėjo darbo stažą, atitinkantis sveikatos apsaugos ministro patvirtintus jūrininkų sveikatos reikalavimus, atlikęs 6 mėnesių stažuotę locmano kvalifikacijai įgyti, pateikęs teigiamą stažuotės rekomendaciją ir išlaikęs egzaminą. Locmanų egzaminavimo ir stažuočių tvarką, kvalifikacinius reikalavimus, kuriuos atitinkantys asmenys įgyja teisę vesti tam tikrų dydžių laivus, nustato Administracija.
+1. Locmano pareigas gali eiti ne vyresnis kaip 68 metų asmuo, mokantis valstybinę ir anglų kalbas, atitinkantis sveikatos apsaugos ministro nustatytus jūrininkų sveikatos reikalavimus, susisiekimo ministro įgaliotos institucijos nustatytus kvalifikacinius ir stažuočių reikalavimus asmenims, siekiantiems verstis locmano praktika, ir susisiekimo ministro įgaliotos institucijos nustatyta tvarka išlaikęs kvalifikacijos įvertinimo egzaminą. Egzaminą leidžiama laikyti, jeigu asmuo atitinka šioje dalyje nurodytus reikalavimus.
 
-2. Locmano liudijimą išduoda Administracija susisiekimo ministro nustatyta tvarka. Locmano liudijimas išduodamas per 5 darbo dienas nuo egzamino išlaikymo dienos, jeigu egzamino rezultatai teigiami.
+2. Locmanų veiklą, laivų vedimo su locmanu tvarką reglamentuoja šis įstatymas ir uostų laivybos taisyklės.
 
-3. Locmanų veiklą, laivų vedimo su locmanu tvarką reglamentuoja Locmanų veiklos nuostatai. Šiuos nuostatus tvirtina Administracija.
+3. Locmano liudijimą išduoda susisiekimo ministro įgaliota institucija susisiekimo ministro nustatyta tvarka. Locmano liudijimas išduodamas per 3 darbo dienas nuo kvalifikacijos įvertinimo egzamino išlaikymo dienos ne ilgesniam kaip 5 metų laikotarpiui nuo paskutinio išlaikyto kvalifikacijos įvertinimo egzamino dienos. Kai asmuo neatitinka šio straipsnio 1 dalyje nurodytų reikalavimų ir (ar) neišlaiko kvalifikacijos įvertinimo egzamino, locmano liudijimas neišduodamas ir apie tai susisiekimo ministro įgaliota institucija nedelsdama, bet ne vėliau kaip kitą darbo dieną, informuoja asmenį, siekiantį gauti locmano liudijimą. Pasibaigus locmano liudijimo galiojimui, naujas locmano liudijimas išduodamas, jeigu asmuo atitinka šio straipsnio 1 dalyje nurodytus reikalavimus ir išlaiko kvalifikacijos įvertinimo egzaminą. Jeigu pateikus visus locmano liudijimui gauti reikalingus dokumentus neatsakoma per šioje dalyje nustatytą terminą, atsakymo dėl locmano liudijimo išdavimo nepateikimas nelaikomas liudijimo išdavimu.
+
+4. Locmano liudijimo galiojimas panaikinamas, jeigu:
+
+1) asmuo, siekiantis gauti locmano liudijimą, pateikė dokumentus, kuriuose yra tikrovės neatitinkančios informacijos;
+
+2) įvyko laivo avarija dėl locmano kaltės;
+
+3) paaiškėja, kad locmanas neatitinka jūrininkams keliamų sveikatos reikalavimų;
+
+4) locmanui sukanka 68 metai;
+
+5) locmanas miršta;
+
+6) locmanas pateikia prašymą panaikinti locmano liudijimo galiojimą.
+
+5. Susisiekimo ministro įgaliota institucija nedelsdama, bet ne vėliau kaip per 2 darbo dienas nuo šio straipsnio 4 dalies 1–5 punktuose nurodytų aplinkybių paaiškėjimo dienos, panaikina locmano liudijimo galiojimą. Šio straipsnio 4 dalies 6 punkte nurodytu atveju locmano liudijimo galiojimas panaikinamas nuo locmano prašyme nurodytos dienos. Apie locmano liudijimo galiojimo panaikinimą šio straipsnio 4 dalies 1–4 punktuose nurodytais atvejais susisiekimo ministro įgaliota institucija nedelsdama, bet ne vėliau kaip per vieną darbo dieną, informuoja locmaną.
+
+6. Asmeniui, kuriam locmano liudijimo galiojimas panaikintas dėl šio straipsnio 4 dalies 1, 2, 3 ir 6 punktuose nurodytų aplinkybių, naujas locmano liudijimas išduodamas arba atsisakoma jį išduoti šio straipsnio 3 dalyje nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 20 straipsnis. Privalomo laivų vedimo su locmanu rajonai
 
@@ -644,7 +776,11 @@ LOCMANŲ VEIKLA
 
 2. Uostų akvatorijose privalomą plaukiojimą su locmanu nustato šių uostų laivybos taisyklės.
 
-21 straipsnis. Locmano ir vedamo laivo kapitono santykiai
+21 straipsnis. Locmano ir vedamo laivo kapitono sąveika
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 1. Už laivo valdymą atsako vedamo laivo kapitonas. Jeigu laivo kapitonas palieka vairinę, jis privalo pranešti locmanui, kas, kai jo nėra, bus atsakingas už laivo valdymą.
 
@@ -690,7 +826,11 @@ LAIVŲ KONTROLĖ
 
 2. Laivybos inspektorius uždraudžia laivui išplaukti iš uosto, jeigu nustato, kad:
 
-1) laivo įgula neatitinka minimalios laivo įgulos sudėties kriterijų, nurodytų laivo įgulos minimumo liudijime, arba laivo įgulos narių jūrinio laipsnio diplomai ar kvalifikacijos liudijimai yra negaliojantys ar nesuteikia teisės eiti atitinkamų pareigų laive;
+1) laivo įgula neatitinka minimalios laivo įgulos sudėties kriterijų, nurodytų minimalios laivo įgulos sudėties liudijime, arba laivo įgulos narių kvalifikaciją patvirtinantys dokumentai yra negaliojantys ar nesuteikia teisės eiti atitinkamų pareigų laive;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 2) laivas neatitinka saugios laivybos reikalavimų;
 
@@ -706,31 +846,17 @@ LAIVŲ KONTROLĖ
 
 5. Jeigu laivas uoste buvo sulaikytas nepagrįstai, patirti laivybos bendrovės nuostoliai atlyginami Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-26 straipsnis. Reikalavimai laivybos inspektoriams, atliekantiems užsienio valstybių laivų ir laivų, plaukiojančių su Lietuvos valstybės vėliava, kontrolę
+26 straipsnis. Laivybos inspektoriai, atliekantys laivų, plaukiojančių su Lietuvos valstybės vėliava, kontrolę ir užsienio valstybių laivų kontrolę
 
-1. Laivybos inspektoriai, atliekantys užsienio valstybių laivų ir laivų, plaukiojančių su Lietuvos valstybės vėliava, kontrolę, privalo turėti reikiamų teorinių žinių apie laivus ir jų eksploatavimą ir praktinės patirties šioje srityje. Jie privalo būti kompetentingi tarptautinių konvencijų reikalavimų įgyvendinimo ir atitinkamų uosto valstybės kontrolės procedūrų atlikimo srityse. Šios žinios ir kompetencija tarptautinių, Europos Sąjungos ir Lietuvos Respublikos teisės aktų reikalavimų vykdymo srityje privalo būti įgytos pagal mokymo programas, parengtas atsižvelgiant į Tarptautinės jūrų organizacijos ar Europos Sąjungos institucijų nustatytas rekomendacijas. Jie turi mokėti anglų kalbą ir išmanyti jūrų terminologiją anglų kalba.
+1. Laivybos inspektoriai, siekiantys atlikti laivų, plaukiojančių su Lietuvos valstybės vėliava, kontrolę ir užsienio valstybių laivų kontrolę, privalo atitikti jiems keliamus kvalifikacinius reikalavimus ir įgyti kvalifikacijos patvirtinimą susisiekimo ministro nustatyta tvarka.
 
-2. Laivybos inspektoriai, atliekantys užsienio valstybių laivų kontrolę, turi atitikti šiuos kvalifikacinius reikalavimus:
+2. Kvalifikacinius reikalavimus, keliamus laivybos inspektoriams, atliekantiems laivų, plaukiojančių su Lietuvos valstybės vėliava, kontrolę ir užsienio valstybių laivų kontrolę, ir laivybos inspektorių kvalifikacijos patvirtinimo tvarką nustato susisiekimo ministras.
 
-1) turėti aukštąjį universitetinį technologijos mokslų studijų srities jūrų inžinerijos ar jūrų technologijos krypčių išsilavinimą ir laivo, kurio bendroji talpa yra 3 000 ir daugiau, kapitono ar vyresniojo kapitono padėjėjo jūrinį laipsnį arba laivo, kurio pagrindinių variklių galia yra 3 000 kW ir daugiau, vyresniojo mechaniko ar antrojo mechaniko jūrinį laipsnį ir ne trumpesnį kaip penkerių metų darbo einant vadovaujančio laivo įgulos nario pareigas stažą arba
+3. Laivo kapitonas privalo įleisti į laivą ir jo patalpas laivų, plaukiojančių su Lietuvos valstybės vėliava, kontrolę ar užsienio valstybių laivų kontrolę atliekantį laivybos inspektorių, taip pat pateikti jam reikiamus dokumentus ir informaciją.
 
-2) turėti aukštąjį universitetinį technologijos mokslų studijų srities jūrų inžinerijos ar jūrų technologijos krypčių išsilavinimą ir ne trumpesnę kaip penkerių metų darbo patirtį einant pareigas, tiesiogiai susijusias su laivų statyba, laivų projektavimu, laivų jėgainių inžinerija ar jūrų laivavedyba, laivų technine eksploatacija ar su laivų apžiūromis ir liudijimų išdavimu pagal tarptautinių sutarčių nuostatas, arba
+Straipsnio pakeitimai:
 
-3) turėti aukštąjį universitetinį technologijos mokslų studijų srities jūrų inžinerijos ar jūrų technologijos krypčių išsilavinimą ir būti baigę specializuotus mokymus pagal mokymo programas, parengtas atsižvelgiant į Tarptautinės jūrų organizacijos ar Europos Sąjungos institucijų nustatytas rekomendacijas, laivų saugos inspektorių rengimo įstaigoje ir joje įgiję atitinkamą kvalifikaciją.
-
-3. Laivybos inspektorius, prieš skiriant jį vykdyti užsienio valstybių laivų kontrolę, turi būti bent vienus metus vykdęs laivų, plaukiojančių su Lietuvos valstybės vėliava, kontrolę ar ėjęs kitas pareigas, susijusias su apžiūromis ir liudijimų išdavimu pagal 1966 m. Tarptautinės konvencijos dėl laivų krovininės vaterlinijos nustatymo, 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje, 1973 m. Tarptautinės konvencijos dėl teršimo iš laivų prevencijos ir jos 1978 m. protokolo, 1978 m. Tarptautinės konvencijos dėl jūrininkų rengimo, atestavimo ir budėjimo normatyvų, 1972 m. Tarptautinės konvencijos dėl tarptautinių taisyklių, padedančių išvengti susidūrimų jūroje, 1969 m. Tarptautinės konvencijos dėl laivų matmenų nustatymo, 1976 m. Tarptautinės konvencijos dėl prekybinės laivybos minimalių standartų, 1992 m. Tarptautinės konvencijos dėl civilinės atsakomybės už taršos nafta padarytą žalą nuostatas arba su įgaliotųjų laivų klasifikavimo bendrovių veiklos priežiūra, arba įgijęs atitinkamo lygio kompetenciją per mažiausiai vienų metų trukmės mokymą vietoje, dalyvaudamas vykdant užsienio valstybių laivų kontrolę vadovaujant patyrusiems laivybos inspektoriams.
-
-4. Laivybos inspektoriai, atliekantys laivų, plaukiojančių su Lietuvos valstybės vėliava, kontrolę, turi atitikti šiuos kvalifikacinius reikalavimus:
-
-1) turėti aukštąjį universitetinį technologijos mokslų studijų srities jūrų inžinerijos ar jūrų technologijos krypčių išsilavinimą ir laivo, kurio bendroji talpa yra 500 ir daugiau, kapitono ar vyresniojo kapitono padėjėjo jūrinį laipsnį arba laivo, kurio pagrindinių variklių galia yra 3 000 kW ir daugiau, vyresniojo mechaniko ar antrojo mechaniko jūrinį laipsnį ir ne trumpesnį kaip penkerių metų darbo einant vadovaujančio laivo įgulos nario pareigas stažą arba
-
-2) turėti aukštąjį universitetinį technologijos mokslų studijų srities jūrų inžinerijos ar jūrų technologijos krypčių išsilavinimą ir ne trumpesnę kaip penkerių metų darbo patirtį einant pareigas, tiesiogiai susijusias su laivų statyba, laivų projektavimu, laivų jėgainių inžinerija, jūrų laivavedyba, laivų technine eksploatacija ar su laivų apžiūromis ir liudijimų išdavimu pagal tarptautinių sutarčių nuostatas, arba
-
-3) turėti aukštąjį universitetinį technologijos mokslų studijų srities jūrų inžinerijos ar jūrų technologijos krypčių išsilavinimą ir ne trumpesnę kaip penkerių metų darbo patirtį einant pareigas, tiesiogiai susijusias su saugios laivybos užtikrinimu, valstybės institucijose.
-
-5. Jeigu laivybos inspektoriai, atliekantys užsienio valstybių laivų ir laivų, plaukiojančių su Lietuvos valstybės vėliava, kontrolę, vertina ir laivų apsaugos sistemų atitiktį Tarptautinio laivų ir uosto įrenginių (terminalų) apsaugos kodekso reikalavimams, jie papildomai turi turėti žinių apie laivybos apsaugos principus ir kaip šie principai taikomi tikrinamai veiklai, žinių apie saugumo technologijas ir metodus, išmanyti inspektavimo principus, procedūras ir metodus bei turėti praktinių žinių apie tikrinamą veiklą.
-
-6. Laivo kapitonas privalo užsienio valstybių laivų kontrolę ar laivų, plaukiojančių su Lietuvos valstybės vėliava, kontrolę atliekantį laivybos inspektorių įleisti į laivą ir jo patalpas, taip pat pateikti jam reikiamus dokumentus ir informaciją.
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 Aštuntasis skirsnis
 
@@ -780,7 +906,11 @@ LAIVYBOS BENDROVĖS IR LAIVO KAPITONO TEISĖS IR PAREIGOS SAUGIOS LAIVYBOS UŽTI
 
 2) nedelsdamas pranešti laivybos bendrovei ir Administracijai apie laivui, jo įrenginiams ar mechanizmams padarytus pažeidimus, turinčius įtakos laivo saugumui;
 
-3) nedelsdamas pranešti Administracijai apie laivo sulaikymą užsienio uoste dėl tarptautinių saugios laivybos reikalavimų pažeidimų.
+3) nedelsdamas pranešti Administracijai apie laivo sulaikymą užsienio uoste dėl tarptautinių saugios laivybos ir jūrininkų darbo ir gyvenimo laive sąlygų reikalavimų pažeidimo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 2. Jeigu laivo reiso metu laivo įgulos narys miršta ar dėl kitų aplinkybių negali eiti pareigų, laivo kapitonas turi teisę priimti sprendimą tęsti plaukimą su nesukomplektuota laivo įgula, jei jis yra įsitikinęs, kad esami laivo įgulos nariai užtikrins saugią laivybą. Su nesukomplektuota laivo įgula leidžiama plaukti tik iki artimiausio uosto ir jame privaloma sukomplektuoti laivo įgulą.
 
@@ -804,7 +934,11 @@ PAVOJINGŲJŲ AR APLINKĄ TERŠIANČIŲ KROVINIŲ VEŽIMAS LAIVAIS
 
 33 straipsnis. Pavojingųjų ar aplinką teršiančių krovinių vežimo tvarka
 
-1. Saugaus pavojingųjų ar aplinką teršiančių krovinių vežimo reikalavimus, vadovaudamasis 1973 m. Tarptautine konvencija dėl teršimo iš laivų prevencijos, Tarptautinio pavojingų krovinių vežimo jūra kodekso, Tarptautinio laivų, vežančių nesupakuotas pavojingas chemines medžiagas, statybos ir įrangos kodekso, Tarptautinio laivų, vežančių nesupakuotas suskystintas dujas, statybos ir įrangos kodekso, Europos Sąjungos teisės aktų, Lietuvos Respublikos įstatymų ir kitų teisės aktų, įtvirtinančių tarptautinius saugios laivybos reikalavimus, nuostatomis, nustato susisiekimo ministras.
+1. Saugaus pavojingųjų ar aplinką teršiančių krovinių vežimo reikalavimus, vadovaudamasis 1973 m. Tarptautine konvencija dėl teršimo iš laivų prevencijos, Tarptautinio pavojingų krovinių vežimo jūra kodekso, Tarptautinio laivų, vežančių nesupakuotas pavojingas chemines medžiagas, statybos ir įrangos kodekso, Tarptautinio jūra gabenamų kietų supiltinių krovinių kodekso, Tarptautinio laivų, vežančių nesupakuotas suskystintas dujas, statybos ir įrangos kodekso, Europos Sąjungos teisės aktų, Lietuvos Respublikos įstatymų ir kitų teisės aktų, įtvirtinančių tarptautinius saugios laivybos reikalavimus, nuostatomis, nustato susisiekimo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 2. Išplaukiant iš pakrovimo uosto, esančio ne Europos Sąjungos teritorijoje, laivo, plaukiančio į Lietuvos Respublikos jūrų uostą ir vežančio pavojinguosius ar aplinką teršiančius krovinius, kapitonas ar laivo agentas privalo Lietuvos Respublikos jūrų uostą valdančiai įmonei pateikti informaciją apie laive esančius pavojinguosius ar aplinką teršiančius krovinius.
 
@@ -910,7 +1044,11 @@ Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 1) turėti gamintojo patvirtintus techninius reikalavimus, kuriuos turi atitikti suremontuotos, patikrintos ir išbandytos priešgaisrinės priemonės;
 
-2) turėti gamintojo išduotus sertifikatus, leidžiančius atlikti atitinkamos gelbėjimosi priemonių įrangos patikrą ar remontą.
+2) turėti gamintojo išduotus sertifikatus, leidžiančius atlikti atitinkamos laivų priešgaisrinių priemonių įrangos patikrą ar remontą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 4. Papildomas reikalavimas įmonėms, siekiančioms vykdyti ar vykdančioms navigacinių ir radionavigacinių prietaisų remonto, tikrinimo ir bandymo veiklą, – turėti gamintojo išduotą leidimą ar sertifikatą diegti jo įrangą.
 
@@ -946,7 +1084,13 @@ Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 4) turėti bendrosios civilinės atsakomybės draudimą;
 
-5) turėti Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka išduotą taršos integruotos prevencijos ir kontrolės leidimą arba kitą dokumentą, įrodantį mokesčio už aplinkos teršimą sumokėjimą.
+5) turėti Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka išduotą taršos integruotos prevencijos ir kontrolės leidimą arba kitą dokumentą, įrodantį mokesčio už aplinkos teršimą sumokėjimą;
+
+6) užtikrinti, kad terminalai, kuriuose vykdomi biriųjų krovinių, išskyrus grūdus, pakrovimo į sausakrūvius laivus ir iškrovimo iš jų darbai, atitiktų susisiekimo ministro tvirtinamose Saugaus sausakrūvio laivo pakrovimo ir iškrovimo taisyklėse nustatytus reikalavimus.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 9. Papildomi reikalavimai įmonėms, siekiančioms vykdyti ar vykdančioms pavojingųjų ar aplinką teršiančių jūrų krovinių krovos veiklą:
 
@@ -1012,11 +1156,15 @@ Nr. XIII-783, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18846
 
 4. Sustabdžiusi atestuotą veiklą ar jos dalį, Administracija raštu nustato terminą, per kurį įmonė privalo ištaisyti šio straipsnio 3 dalies 1, 2, 3 ir 4 punktuose nurodytus atestuotos veiklos sąlygų pažeidimus. Pašalinusi pažeidimus, įmonė raštu apie tai praneša Administracijai, kuri patikrina informaciją ir per 10 darbo dienų priima sprendimą panaikinti atestuotos veiklos sustabdymą arba panaikinti atestacijos galiojimą, jeigu pažeidimai per nustatytą terminą nepašalinti.
 
-41. Administracija, atsisakiusi atestuoti įmonę, panaikinusi įmonės veiklos ar jos dalies atestacijos galiojimą, sustabdžiusi įmonės veiklos ar jos dalies atestacijos galiojimą, panaikinusi įmonės veiklos ar jos dalies atestacijos galiojimo sustabdymą, apie tai nedelsdama, bet ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo, raštu informuoja įmonę.
+41. Administracija, atsisakiusi atestuoti įmonę, sustabdžiusi įmonės veiklos ar jos dalies atestacijos galiojimą, panaikinusi įmonės veiklos ar jos dalies atestacijos galiojimo sustabdymą, panaikinusi įmonės veiklos ar jos dalies atestacijos galiojimą, apie tai nedelsdama, bet ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo, raštu informuoja įmonę.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 5. Įmonės veiklos ar jos dalies atestacijos galiojimas panaikinamas, jeigu:
 
@@ -1104,67 +1252,95 @@ septynioliktasis skirsnis
 
 2. Pranešus, kad yra nustatyta šio straipsnio 1 dalyje nurodyta zona, į ją negali įplaukti ir joje negali būti joks laivas, išskyrus laivus, nurodytus Administracijos sprendime dėl laivų įplaukimo į Lietuvos Respublikos teritorinės jūros zoną laikino apribojimo.
 
-48 straipsnis. Jūrų laivų avarijų ir incidentų tyrimo tikslai ir tvarka
+48 straipsnis. Laivų avarijų ir incidentų tyrimo tikslai ir tvarka
 
-1. Jūrų laivų avarijų ir incidentų tyrimo tikslas – nustatyti jūrų laivo avarijos ar incidento aplinkybes, priežastis ir padarinius, pateikti išvadas ir pasiūlymus dėl prevencinių veiksmų taikymo, kad ateityje būtų išvengta jūrų laivų avarijų ar incidentų. Tyrimais nesiekiama nustatyti kieno nors atsakomybės ar kaltės.
+1. Laivų avarijų ir incidentų tyrimo tikslas – nustatyti laivo avarijos ar incidento aplinkybes, priežastis ir padarinius, pateikti išvadas dėl prevencinių veiksmų taikymo, kad ateityje būtų išvengta laivų avarijų ar incidentų. Tyrimais nesiekiama nustatyti kieno nors atsakomybės ar kaltės, tokių tyrimų nestabdo ikiteisminiai arba kiti lygiagretūs tyrimai, kuriais siekiama nustatyti atsakomybę arba kaltę. Tyrimai yra nepriklausomi nuo ikiteisminių arba kitų lygiagrečių tyrimų.
 
-2. Jūrų laivų avarijas ir incidentus tiria teisingumo ministro paskirtas (paskirti) jūrų laivų avarijų ir incidentų tyrimų vadovas (vadovai) (toliau – tyrimų vadovas). Tyrimų vadovas turi šias teises ir pareigas:
+2. Šiame straipsnyje nustatyti reikalavimai taikomi laivų avarijoms ir incidentams, kurie:
 
-1) teisę laisvai patekti į jūrų laivo avarijos ar incidento vietą, į visas su jūrų laivo avarija ar incidentu susijusias teritorijas ir į visus jūrų laivus, jų nuolaužas arba konstrukcijas, taip pat apžiūrėti krovinį, įrangą arba jų liekanas;
+1) yra susiję su laivais, plaukiojančiais su Lietuvos valstybės vėliava;
 
-2) pareigą užtikrinti, kad įrodymai būtų nedelsiant surinkti ir būtų atlikta nuolaužų, liekanų arba kitų sudedamųjų dalių ar medžiagų paieška ir surinkimas siekiant juos apžiūrėti arba ištirti;
+2) yra įvykę Lietuvos Respublikos teritorinėje jūroje arba jūros vidaus vandenyse, kaip tai apibrėžta 1982 m. gruodžio 10 d. Jungtinių Tautų jūrų teisės konvencijoje (Lietuvos Respublikos jūrų uostų akvatorijos priskiriamos jūros vidaus vandenims);
 
-3) teisę reikalauti, kad būtų apžiūrėti arba ištirti šios dalies 2 punkte nurodyti daiktai, ir teisę laisvai susipažinti su tokios apžiūros arba tyrimo rezultatais;
+3) yra susiję su kitais svarbiais Lietuvos Respublikos interesais.
 
-4) teisę laisvai susipažinti su visa su jūrų laivo avarija ar incidentu susijusia informacija ir užregistruotais duomenimis, tarp jų reiso duomenų registravimo sistemos duomenimis apie jūrų laivą, reisą, krovinį, įgulą ar visus kitus asmenis, objektus, sąlygas ar aplinkybes, juos kopijuoti ir jais naudotis;
+3. Šiame straipsnyje nustatyti reikalavimai netaikomi laivų avarijoms ir incidentams, kurie yra susiję tik su:
 
-5) teisę laisvai susipažinti su aukų kūnų apžiūros rezultatais arba iš aukų kūnų paimtų mėginių tyrimų rezultatais;
+1) karo ir su karinio jūrų laivyno vėliava plaukiojančiais laivais ir kitais Lietuvos Respublikai priklausančiais ar jos valdomais laivais, kurie naudojami tik Vyriausybės nekomerciniais tikslais;
 
-6) teisę reikalauti žmonių, dalyvavusių valdant jūrų laivą, arba visų kitų su jūrų laivo avarija ar incidentu susijusių asmenų apžiūros rezultatų ar iš tokių asmenų paimtų mėginių tyrimų rezultatų ir laisvai susipažinti su jais;
+2) vidaus vandenimis plaukiojančiais vidaus vandenų laivais;
 
-7) teisę apklausti liudytojus nedalyvaujant asmeniui, jeigu galima daryti prielaidą, kad to asmens interesai kertasi su jūrų laivo avarijos tyrimu;
+3) nemechaniniu būdu varomais laivais, tradiciniais laivais, pramoginiais, mažaisiais laivais, kuriais nevykdoma prekyba, nebent juose būtų įgula ir daugiau kaip 12 keleivių, plukdomų komerciniais tikslais;
 
-8) teisę gauti jūrų laivo vėliavos valstybės, savininkų, klasifikacinių bendrovių arba visų kitų susijusių šalių, jeigu jos arba jų atstovai yra įsisteigę valstybėje narėje, turimus tyrimo dokumentus ir susijusią informaciją;
+4) trumpesniais kaip 15 metrų žvejybos laivais;
 
-9) teisę prašyti atitinkamų valstybių su jūrų laivų avarijų ar incidentų tyrimu susijusių valdžios institucijų, tarp jų laivybos inspektorių, pakrantės pareigūnų, jūrų laivų eismo tarnybos operatorių, paieškos ir gelbėjimo komandų, laivavedžių arba kito uoste ar jūroje dirbančio personalo, pagalbos;
+5) pritvirtintomis jūrų gręžimo platformomis.
 
-10) pareigą bet kuriuo laiku gavęs pranešimą apie jūrų laivo avariją nedelsdamas pradėti tyrimą;
+4. Laivų avarijas ir incidentus tiria teisingumo ministro paskirtas (paskirti) laivų avarijų ir incidentų tyrimų vadovas (vadovai) (toliau – tyrimų vadovas).
 
-11) teisę rinkti ir analizuoti su saugumu jūroje susijusius duomenis, ypač prevenciniais tikslais;
+5. Įvykus labai sunkiai laivo avarijai, tyrimų vadovas privalo atlikti jos tyrimą, jeigu:
 
-12) teisę rengti ir teikti saugos rekomendacijas;
+1) laivas plaukioja su Lietuvos valstybės vėliava, nepriklausomai nuo avarijos vietos;
 
-13) teisę prašyti asmenų, kuriems skirtos saugos rekomendacijos, pateikti informaciją apie tai, kaip įgyvendinamos saugos rekomendacijos, arba apie priimtą sprendimą neįgyvendinti saugos rekomendacijų.
+2) laivo avarija įvyksta Lietuvos Respublikos teritorinėje jūroje ar jūros vidaus vandenyse, kaip tai apibrėžta 1982 m. gruodžio 10 d. Jungtinių Tautų jūrų teisės konvencijoje, nepriklausomai nuo avariją patyrusio laivo ar laivų vėliavos;
 
-TAR pastaba. Tyrimų vadovo iki įstatymo Nr. XII-2072 (2015-11-26) įsigaliojimo (2016-01-01) pradėti jūrų laivų avarijų ir incidentų tyrimai baigiami įstatymo Nr. XII-2072 (2015-11-26) nustatyta tvarka.
+3) Lietuvos Respublika yra iš esmės suinteresuota, nepriklausomai nuo avarijos vietos ir nuo avariją patyrusio laivo ar laivų vėliavos.
 
-Straipsnio dalies pakeitimai:
+6. Įvykus sunkiai laivo avarijai, tyrimų vadovas privalo atlikti preliminarų vertinimą, kurio metu įvertina situaciją ir priima sprendimą dėl sunkios laivo avarijos tyrimo atlikimo. Priėmęs sprendimą neatlikti sunkios laivo avarijos tyrimo, tyrimų vadovas apie tai informuoja Europos Komisiją. Įvykus nesunkiai laivo avarijai ar incidentui, tyrimų vadovas sprendžia, ar tikslinga atlikti tyrimą.
 
-Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+7. Priimdamas šio straipsnio 6 dalyje nurodytus sprendimus, tyrimų vadovas atsižvelgia į laivo avarijos ar incidento sunkumą, su avarija ar incidentu susijusio laivo tipą ir (arba) krovinio rūšį, taip pat į galimybes išvengti panašių avarijų ar incidentų ateityje, atsižvelgiant į tyrimo rezultatus. Nusprendus tirti laivo avariją ar incidentą, jų tyrimas turi būti pradėtas iš karto, kai tik tai įmanoma, tačiau ne vėliau kaip po 2 mėnesių nuo dienos, kai įvyko laivo avarija ar incidentas.
 
-3. Tyrimų vadovas savo organizacine, teisine ir sprendimų priėmimo forma turi būti nepriklausomas nuo bet kokių kontrolės funkcijas jūrų transporte atliekančių institucijų ir įstaigų, jūrų uostus valdančių įmonių, jūrų krovinių krovos įmonių, laivybos bendrovių, kitų, vykdančių veiklą jūrų transporto sektoriuje, įmonių ir organizacijų, institucijų ir asmenų, kurių interesai gali nesutapti su tyrimų vadovo uždaviniais.
+8. Lietuvos Respublikos jurisdikcijoje esančiuose vandenyse įvykusių laivų avarijų ar incidentų, kuriuose dalyvavo kitose valstybėse įregistruoti laivai, ar kitų valstybių jurisdikcijoje esančiuose vandenyse įvykusių laivų avarijų ar incidentų, kuriuose dalyvavo Lietuvos Respublikoje įregistruoti laivai, tyrimuose šalių atstovai dalyvauja tarptautinėse sutartyse ir susitarimuose nustatyta tvarka.
 
-4. Tyrimų vadovas turi turėti profesinių žinių ir praktinės patirties, susijusių su jūrų laivų avarijų ir incidentų tyrimu.
+9. Tyrimų vadovas savo organizacine, teisine ir sprendimų priėmimo forma turi būti nepriklausomas nuo bet kokių kontrolės funkcijas jūrų transporte atliekančių institucijų ir įstaigų, jūrų uostus valdančių įmonių, jūrų krovinių krovos įmonių, laivybos bendrovių, kitų jūrų transporto sektoriuje veiklą vykdančių įmonių ir organizacijų, institucijų ir asmenų ir apskritai nuo bet kurios kitos šalies ar subjekto, kurių interesai gali nesutapti su tyrimų vadovo uždaviniais.
 
-Straipsnio dalies pakeitimai:
+10. Tyrimų vadovas turi turėti profesinių žinių ir praktinės patirties, susijusių su laivų avarijų ir incidentų tyrimu.
 
-Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+11. Tyrimų vadovas turi šias teises:
 
-5. Jūrų laivų avarijų ir incidentų klasifikavimo ir pranešimų teikimo tvarką nustato susisiekimo ministras. Jūrų laivų avarijų ir incidentų tyrimo, ataskaitų ir saugos rekomendacijų rengimo ir teikimo tvarką nustato teisingumo ministras. Asmenys, kuriems skirtos saugos rekomendacijos, privalo jas įvertinti ir prireikus imtis veiksmų saugos rekomendacijoms įgyvendinti.
+1) laisvai patekti į laivo avarijos ar incidento vietą, į visas su laivo avarija ar incidentu susijusias teritorijas ir į visus laivus, jų nuolaužas arba konstrukcijas, taip pat apžiūrėti krovinį, įrangą arba jų liekanas;
 
-Straipsnio dalies pakeitimai:
+2) imtis reikiamų priemonių, kad įrodymai būtų nedelsiant surinkti ir būtų atlikta nuolaužų, liekanų arba kitų sudedamųjų dalių ar medžiagų paieška ir surinkimas, siekiant juos apžiūrėti arba ištirti;
 
-Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+3) reikalauti, kad būtų apžiūrėti arba ištirti šios dalies 2 punkte nurodyti daiktai, ir teisę laisvai susipažinti su tokios apžiūros arba tyrimo rezultatais;
 
-6. Lietuvos Respublikos jurisdikcijoje esančiuose vandenyse įvykusių avarijų ar incidentų, kuriuose dalyvavo kitose valstybėse įregistruoti laivai, ar kitų valstybių jurisdikcijoje esančiuose vandenyse įvykusių avarijų ar incidentų, kuriuose dalyvavo Lietuvos Respublikos jūrų laivų registre įregistruoti laivai, tyrimuose šalių atstovai dalyvauja tarptautiniuose susitarimuose nustatyta tvarka.
+4) laisvai susipažinti su visa su laivo avarija ar incidentu susijusia informacija ir užregistruotais duomenimis, tarp jų reiso duomenų registravimo sistemos duomenimis apie laivą, reisą, krovinį, įgulą ar visus kitus asmenis, objektus, sąlygas ar aplinkybes, juos kopijuoti ir jais naudotis;
+
+5) laisvai susipažinti su aukų kūnų apžiūros rezultatais arba iš aukų kūnų paimtų mėginių tyrimų rezultatais;
+
+6) reikalauti žmonių, dalyvavusių valdant laivą, arba visų kitų su laivo avarija ar incidentu susijusių asmenų apžiūros rezultatų ar iš tokių asmenų paimtų mėginių tyrimų rezultatų ir laisvai susipažinti su jais;
+
+7) apklausti liudytojus nedalyvaujant asmeniui, susijusiam su laivo avarija ar incidentu, jeigu galima daryti prielaidą, kad to asmens interesai kertasi su laivo avarijos tyrimu;
+
+8) gauti laivo vėliavos valstybės, savininkų, įgaliotųjų laivų klasifikavimo bendrovių arba visų kitų susijusių šalių, jeigu jos arba jų atstovai yra įsisteigę valstybėje narėje, turimus tyrimo dokumentus ir susijusią informaciją;
+
+9) prašyti atitinkamų valstybių su laivų avarijų ar incidentų tyrimu susijusių valdžios institucijų, tarp jų laivybos inspektorių, pakrantės pareigūnų, laivų eismo tarnybos operatorių, paieškos ir gelbėjimo komandų, laivavedžių arba kito uoste ar jūroje dirbančio personalo, pagalbos;
+
+10) rinkti ir analizuoti su saugia laivyba susijusius duomenis, ypač prevenciniais tikslais;
+
+11) rengti ir teikti saugos rekomendacijas organizacijoms ar asmenims, kurie yra labiausiai tinkami imtis taisomųjų priemonių;
+
+12) reikalauti iš organizacijų ar asmenų, kuriems skirtos saugos rekomendacijos, pateikti informaciją apie tai, kaip įgyvendinamos saugos rekomendacijos, arba apie priimtą sprendimą neįgyvendinti saugos rekomendacijų.
+
+12. Visi laivo avarijos ar incidento tyrimo metu paimti ar gauti liudytojų parodymai, kiti pareiškimai, pasakojimai ir užrašai, dokumentai, atskleidžiantys asmenų, davusių parodymus tyrimo metu, tapatybę, taip pat informacija apie laivo avarijos ar incidento metu nukentėjusius asmenis, kuri yra neskelbtina arba asmeninio pobūdžio, įskaitant informaciją apie jų sveikatą, turi būti naudojami tik šio straipsnio 1 dalyje nurodytam tikslui įgyvendinti.
+
+13. Pranešimų apie laivų avarijas ir incidentus teikimo tvarką nustato susisiekimo ministras. Laivų avarijų ir incidentų tyrimo, ataskaitų ir saugos rekomendacijų rengimo ir teikimo tvarką nustato teisingumo ministras. Organizacijos ar asmenys, kuriems skirtos saugos rekomendacijos, privalo jas įvertinti ir prireikus imtis veiksmų joms įgyvendinti. Saugos rekomendacijomis nesiekiama nustatyti atsakomybės ir kaltės.
+
+14. Šio įstatymo 2 straipsnio 91 ir 141 dalyse nurodyta žala aplinkai laikoma didele, kai vadovaujantis Lietuvos Respublikos aplinkos apsaugos įstatymu nustatoma, kad aplinkai padarytas reikšmingas neigiamas poveikis.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 49 straipsnis. Pranešimas apie laivo avariją
 
-1. Įvykus bet kokio jūrų laivo avarijai ar incidentui Lietuvos Respublikai priskirtame paieškos ir gelbėjimo rajone Baltijos jūroje, jūrų laivo kapitonas nedelsdamas privalo apie tai pranešti Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui ir Teisingumo ministerijai susisiekimo ministro nustatyta tvarka.
+1. Įvykus bet kokio laivo avarijai ar incidentui Lietuvos Respublikai priskirtame paieškos ir gelbėjimo rajone Baltijos jūroje, laivo kapitonas nedelsdamas privalo apie tai pranešti Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui ir tyrimų vadovui susisiekimo ministro nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 2. Įvykus laivo, plaukiojančio su Lietuvos valstybės vėliava, avarijai ar incidentui už Lietuvos Respublikai priskirto paieškos ir gelbėjimo rajono Baltijos jūroje ribų, laivybos bendrovė ar laivo kapitonas apie tai praneša Administracijai. Jeigu laivo, plaukiojančio su Lietuvos valstybės vėliava, avarija ar incidentas įvyko užsienio valstybės teritorinėje jūroje ar uoste, Administracija apie tai privalo papildomai pranešti Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai toje valstybėje.
 
@@ -1192,7 +1368,7 @@ Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -1322,6 +1498,14 @@ Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 20-1, 37, 39, 40 straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
+
+Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 1, 2, 3, 8, 13, 16, 19, 21, 25, 26, 31, 33, 39, 40, 40-1, 48 ir 49 straipsnių pakeitimo įstatymas
+
 281 straipsnis. Laivų ir jų įgulų atitikties tarptautiniams reikalavimams dėl darbo jūrų laivyboje vertinimo tikslas ir įgaliojimų suteikimas
 
 1. Laivų ir jų įgulų atitikties tarptautiniams reikalavimams dėl darbo jūrų laivyboje vertinimo tikslas – nustatyti, ar laivuose yra įgyvendinti Lietuvos Respublikos tarptautinių sutarčių ir Lietuvos Respublikos teisės aktų, reglamentuojančių jūrininkų darbą jūrų laivyboje, reikalavimai.
@@ -1428,17 +1612,25 @@ Nr. XII-2129, 2015-12-03, paskelbta TAR 2015-12-10, i. k. 2015-19623
 
 1. Įmonė, vykdanti povandeninius techninius darbus jūrų uostuose ir jūroje, turi turėti:
 
-1) įmonės vadovo pagal Tarptautinės rangovų, dirbančių jūroje, asociacijos (IMCA) priimtas Nardymo gaires (D 014) patvirtintas narų darbų saugos taisykles, kuriose turi būti nustatyta narų darbų planavimo, vykdymo ir vadovavimo jiems tvarka, įrangos techninės priežiūros kontrolės, saugos ir sveikatos reikalavimų užtikrinimo, darbuotojų instruktavimo ir žinių tikrinimo tvarka, veiksmų nenumatytomis, avarinėmis situacijomis ir pagalbos suteikimo tvarka;
+1) įmonės vadovo patvirtintas narų darbų saugos taisykles, kuriose turi būti nustatyta narų darbų planavimo, vykdymo ir vadovavimo jiems tvarka, įrangos techninės priežiūros kontrolės, saugos ir sveikatos reikalavimų užtikrinimo, darbuotojų instruktavimo, mokymo ir žinių tikrinimo tvarka, veiksmų nenumatytomis, avarinėmis situacijomis ir pagalbos suteikimo tvarka;
 
 2) narų komandą (komandas) arba narų stotį (stotis), aprūpintas reikalinga įranga narų darbams saugiai atlikti, o narų povandeninių techninių darbų kvalifikacija turi būti įgyta bet kurioje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje.
 
 2. Povandeninius techninius darbus jūrų uostuose ir jūroje draudžiama atlikti narams mėgėjams.
 
-3. Įmonių, vykdančių povandeninius techninius darbus jūrų uostuose ir jūroje, atitiktį nustatytiems teisės aktų reikalavimams atlieka Administracija susisiekimo ministro nustatyta tvarka.
+3. Įmonių, vykdančių povandeninius techninius darbus jūrų uostuose ir jūroje, atitiktį nustatytiems teisės aktų reikalavimams prižiūri Administracija susisiekimo ministro nustatyta tvarka.
 
-Papildyta straipsniu:
+4. Įmonei vykdyti povandeninius techninius darbus Lietuvos Respublikos jūrų uostuose ir jūroje uždraudžiama, jeigu įmonė neatitinka šio straipsnio 1 dalyje nustatytų reikalavimų.
 
-Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
+5. Sprendimą uždrausti įmonei vykdyti povandeninius techninius darbus Lietuvos Respublikos jūrų uostuose ir jūroje priima Administracija ir apie priimtą sprendimą ir tokio sprendimo priėmimo priežastis informuoja įmonę tiesiogiai, registruotąja pašto siunta arba elektroninių ryšių priemonėmis ne vėliau kaip per 3 darbo dienas nuo įmonės patikrinimo atlikimo dienos.
+
+6. Sprendimą panaikinti įmonei draudimą vykdyti povandeninius techninius darbus Lietuvos Respublikos jūrų uostuose ir jūroje priima Administracija ir apie priimtą sprendimą informuoja įmonę tiesiogiai, registruotąja pašto siunta arba elektroninių ryšių priemonėmis ne vėliau kaip per 3 darbo dienas nuo įmonės pateiktų dokumentų, kuriais įmonė įrodo, kad atitinka šio straipsnio 1 dalyje nustatytus reikalavimus, gavimo Administracijoje dienos.
+
+7. Sprendimą atsisakyti panaikinti įmonei draudimą vykdyti povandeninius techninius darbus Lietuvos Respublikos jūrų uostuose ir jūroje priima Administracija ir apie priimtą sprendimą informuoja įmonę tiesiogiai, registruotąja pašto siunta arba elektroninių ryšių priemonėmis ne vėliau kaip per 3 darbo dienas nuo įmonės pateiktų dokumentų, kuriais įmonė nepatvirtino atitikties šio straipsnio 1 dalyje nustatytiems reikalavimams, gavimo Administracijoje dienos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 PENKIOLIKTASIS SKIRSNIS
 
