@@ -4,7 +4,7 @@ identifier: "TAR.DD80CF948782"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2020-01-01"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
 
@@ -253,7 +253,11 @@ Nacionalinis visuomenės sveikatos centras:
 
 7) vykdo stacionarių triukšmo šaltinių veiklos valstybinę visuomenės sveikatos saugos kontrolę triukšmo prevencijos zonose;
 
-8) vykdo kvapų kontrolę gyvenamuosiuose ir visuomeninės paskirties pastatuose;
+8) vykdo kvapų valstybinę visuomenės sveikatos saugos kontrolę gyvenamuosiuose ir visuomeninės paskirties pastatuose, įskaitant tai, kaip laikomasi taršos integruotos prevencijos ir kontrolės leidimuose ir taršos leidimuose Nacionalinio visuomenės sveikatos centro nustatytų sąlygų dėl kvapų valdymo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2798, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02849
 
 9) šio Įstatymo 21 straipsnio 3 dalyje nurodytiems asmenims išduoda leidimus-higienos pasus, vykdo jų sąlygų laikymosi priežiūrą;
 
@@ -389,9 +393,17 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 
 14) stacionarių triukšmo šaltinių veikla triukšmo prevencijos zonose.
 
-5. Reikalavimus, keliamus patalpoms ir jų įrengimui, asmenims, vykdantiems ūkinę komercinę veiklą, naudojamoms priemonėms ir įrangai, vykdant atitinkamą ūkinę komercinę veiklą, kuriai būtinas leidimas-higienos pasas, nustato visuomenės sveikatos saugos reglamentai (higienos normos) ir kiti visuomenės sveikatos saugos teisės aktai.
+5. Reikalavimus, keliamus patalpoms ir (ar) žemės sklypui ir jų įrengimui, asmenims, vykdantiems ūkinę komercinę veiklą, naudojamoms priemonėms ir įrangai, vykdant atitinkamą ūkinę komercinę veiklą, kuriai būtinas leidimas-higienos pasas, nustato visuomenės sveikatos saugos reglamentai (higienos normos) ir kiti visuomenės sveikatos saugos teisės aktai.
 
-6. Prieš išduodant leidimą-higienos pasą įvertinama, ar pateikti tinkamai įforminti dokumentai, įrodantys teisėtą naudojimąsi patalpomis ir (ar) įranga, atliekamas ūkinės komercinės veiklos vykdymo sąlygų vertinimas veiklos vykdymo vietoje, kurio metu patikrinama ir įvertinama, ar numatomos vykdyti ūkinės komercinės veiklos sąlygos atitinka visuomenės sveikatos saugos reglamentų (higienos normų) ir kitų šio straipsnio 4 dalyje nurodytų veiklos rūšių visuomenės sveikatos saugą reglamentuojančių teisės aktų reikalavimus. Ūkinės komercinės veiklos vykdymo sąlygų vertinimas atliekamas ir sprendimas išduoti leidimą-higienos pasą priimamas Taisyklių nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2592, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20025
+
+6. Prieš išduodant leidimą-higienos pasą įvertinama, ar pateikti tinkamai įforminti dokumentai, įrodantys teisėtą naudojimąsi patalpomis ir (ar) žemės sklypu, ir (ar) įranga, atliekamas ūkinės komercinės veiklos vykdymo sąlygų vertinimas veiklos vykdymo vietoje, kurio metu patikrinama ir įvertinama, ar numatomos vykdyti ūkinės komercinės veiklos sąlygos atitinka visuomenės sveikatos saugos reglamentų (higienos normų) ir kitų šio straipsnio 4 dalyje nurodytų veiklos rūšių visuomenės sveikatos saugą reglamentuojančių teisės aktų reikalavimus. Ūkinės komercinės veiklos vykdymo sąlygų vertinimas atliekamas ir sprendimas išduoti leidimą-higienos pasą priimamas Taisyklių nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2592, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20025
 
 7. Leidimas-higienos pasas neišduodamas, jeigu:
 
@@ -423,7 +435,11 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 
 3) Taisyklių nustatyta tvarka įspėtas dėl leidimo-higienos paso galiojimo panaikinimo fizinis, juridinis asmuo ar filialas per 6 mėnesius nuo leidimo-higienos paso galiojimo sustabdymo nepateikė įrodymų dėl trūkumų ir (ar) pažeidimų, dėl kurių buvo priimtas sprendimas sustabdyti leidimo-higienos paso galiojimą, tinkamo pašalinimo ir nesikreipė į leidimus-higienos pasus išduodančią instituciją dėl leidimo-higienos paso galiojimo sustabdymo panaikinimo arba kreipėsi, tačiau įvertinus pateiktus dokumentus ir atlikus ūkinės komercinės veiklos vykdymo sąlygų vertinimą buvo priimtas sprendimas atsisakyti panaikinti leidimo-higienos paso galiojimo sustabdymą;
 
-4) fizinis, juridinis asmuo ar filialas netenka teisės naudotis patalpomis ir (ar) įranga, kuriose ar su kuria vykdyti ūkinę komercinę veiklą buvo išduotas leidimas-higienos pasas.
+4) fizinis, juridinis asmuo ar filialas netenka teisės naudotis patalpomis ir (ar)  žemės sklypu, ir (ar) įranga, kuriuose ar su kuria vykdyti ūkinę komercinę veiklą buvo išduotas leidimas-higienos pasas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2592, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20025
 
 13. Leidimas-higienos pasas išduodamas neribotam laikui. Už leidimo-higienos paso ar jo dublikato išdavimą, leidimo-higienos paso patikslinimą imama valstybės rinkliava, išskyrus atvejus, kai leidimas-higienos pasas patikslinamas siekiant ištaisyti klaidas, padarytas išduodant leidimą-higienos pasą. Leidimai-higienos pasai apskaitomi ir registruojami Taisyklėse nustatyta tvarka.
 
@@ -922,6 +938,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2192, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09848
 
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 2 ir 24 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2592, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20025
+
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 21 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2798, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02849
+
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 straipsnio pakeitimo įstatymas
 
 5 straipsnis. Visuomenės sveikatos priežiūros įstaigų sistemos struktūra
 
