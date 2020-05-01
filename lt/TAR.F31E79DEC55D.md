@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2020-01-01"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -218,7 +218,11 @@ Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
 
 19. Įrenginiai – mašinos, prietaisai, įtaisai energijai, medžiagoms gaminti ir informacijai priimti, perduoti ar keisti.
 
-20. Ypatingasis statinys – statinys, kuriame naudojamos ar saugomos pavojingosios medžiagos (pagal nustatytus jų ribinius kiekius); statinys, kuriame yra potencialiai pavojingų įrenginių ar atliekami potencialiai pavojingi darbai; sudėtingos konstrukcijos ir sudėtingų technologijų statinys (pagal normatyviniais statybos techniniais dokumentais nustatytus sudėtingumo požymius ir techninius parametrus); visuomenės poreikiams naudojamas pastatas, kuriame vienu metu būna daugiau kaip 100 žmonių; aukštybinis (daugiau kaip 5 aukštų) daugiabutis gyvenamasis namas; kultūros paveldo statinys. Prie ypatingųjų statinių kategorijos priskiriamų statinių sąrašą tvirtina Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) įgaliota institucija.
+20. Ypatingasis statinys – statinys, kuriame naudojamos ar saugomos pavojingosios medžiagos (pagal nustatytus jų ribinius kiekius); statinys, kuriame yra potencialiai pavojingų įrenginių; sudėtingos konstrukcijos ir sudėtingų technologijų statinys (pagal normatyviniais statybos techniniais dokumentais nustatytus sudėtingumo požymius ir techninius parametrus); visuomenės poreikiams naudojamas pastatas, kuriame vienu metu būna daugiau kaip 100 žmonių; aukštybinis (daugiau kaip 5 aukštų) daugiabutis gyvenamasis namas; kultūros paveldo statinys. Prie ypatingųjų statinių kategorijos priskiriamų statinių sąrašą tvirtina Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2557, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19865
 
 21. Kita užsienio organizacija – užsienio valstybėje įsteigta organizacija, neturinti juridinio asmens statuso, tačiau turinti civilinį teisnumą pagal tos valstybės įstatymus.
 
