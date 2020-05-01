@@ -4,7 +4,7 @@ identifier: "TAR.A0A0CCC6B997"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-27"
-last_updated: "2020-01-01"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0A0CCC6B997"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Lietuvos Respublikos bausmių vykdymo kodeksas įsigalioja 2003-05-01."
 
 PATVIRTINTAS
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-06-19
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
 
@@ -2257,17 +2257,21 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 
 2. Viešuosius darbus atliekantiems nuteistiesiems netaikomas Darbo kodeksas ir kiti darbo įstatymai. Viešuosius darbus atliekantys nuteistieji gali savo noru apdrausti sveikatą Sveikatos draudimo įstatymo ir kitų sveikatos draudimą reglamentuojančių teisės aktų nustatyta tvarka.
 
-3. Sveikatos priežiūros, socialinių paslaugų ar kita valstybės ar savivaldybės institucija, nevyriausybinė organizacija, kurioje atliekami viešieji darbai, turi užtikrinti nuteistiesiems saugias ir sveikas darbo sąlygas, atitinkančias darbuotojų saugą ir sveikatą reglamentuojančių teisės aktų reikalavimus. Viešuosius darbus atliekančius nuteistuosius draudžiama skirti dirbti kenksmingomis ir labai kenksmingomis darbo sąlygomis, taip pat pavojingus darbus, kurių sąrašą nustato Lietuvos Respublikos Vyriausybė. Nuteistieji prieš viešųjų darbų pradžią instruktuojami apie darbo saugos ir sveikatos reikalavimus ir nemokamai aprūpinami asmens apsaugos priemonėmis.
+3. Sveikatos priežiūros, socialinių paslaugų ar kita valstybės ar savivaldybės institucija ar įstaiga, nevyriausybinė organizacija, kurioje atliekami viešieji darbai, turi užtikrinti nuteistiesiems saugias ir sveikas darbo sąlygas, atitinkančias darbuotojų saugą ir sveikatą reglamentuojančių teisės aktų reikalavimus. Nuteistieji prieš viešųjų darbų pradžią instruktuojami, kaip saugiai dirbti jiems paskirtus darbus, ir, jei reikia, nemokamai aprūpinami asmeninėmis apsaugos priemonėmis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
-4. Žala, kurią padaro nuteistasis atlikdamas viešuosius darbus sveikatos priežiūros, socialinių paslaugų arba kitai valstybės ar savivaldybės institucijai, nevyriausybinei organizacijai, kurioje atliekami viešieji darbai, arba tretiesiems asmenims, taip pat žala, kurią viešųjų darbų atlikimu nuteistajam padaro sveikatos priežiūros, socialinių paslaugų ar kita valstybės ar savivaldybės institucija, nevyriausybinė organizacija, kurioje atliekami viešieji darbai, arba tretieji asmenys, atlyginama Civilinio kodekso nustatyta tvarka ir pagrindais.
+Nr. XIII-2555, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19863
+
+4. Žala, kurią padaro nuteistasis atlikdamas viešuosius darbus sveikatos priežiūros, socialinių paslaugų ar kitai valstybės ar savivaldybės institucijai ar įstaigai, nevyriausybinei organizacijai, kurioje atliekami viešieji darbai, arba tretiesiems asmenims, taip pat žala, kurią viešųjų darbų atlikimu nuteistajam padaro sveikatos priežiūros, socialinių paslaugų ar kita valstybės ar savivaldybės institucija ar įstaiga, nevyriausybinė organizacija, kurioje atliekami viešieji darbai, arba tretieji asmenys, atlyginama Civilinio kodekso nustatyta tvarka ir pagrindais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+
+Nr. XIII-2555, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19863
 
 42 straipsnis. Viešųjų darbų atlikimo laikas
 
