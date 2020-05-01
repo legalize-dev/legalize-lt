@@ -4,7 +4,7 @@ identifier: "TAR.1FD5C3A4D10A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-14"
-last_updated: "2018-07-01"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2021-11-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
 
@@ -253,7 +253,11 @@ Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
 
 1. Valstybinės darbo inspekcijos inspektoriai turi šias teises:
 
-1) pateikę tarnybinį pažymėjimą ir įgaliojimą, laisvai ir be išankstinio perspėjimo bet kuriuo paros metu įeiti į bet kurią darbo vietą tikrinti, ar laikomasi darbo įstatymų, darbuotojų saugos ir sveikatos įstatymų ar kitų norminių teisės aktų reikalavimų;
+1) pateikę valstybės tarnautojo pažymėjimą ir įgaliojimą, laisvai ir be išankstinio perspėjimo bet kuriuo paros metu įeiti į bet kurią darbo vietą tikrinti, ar laikomasi darbuotojų saugą ir sveikatą bei darbo santykius reglamentuojančių įstatymų ar kitų norminių teisės aktų reikalavimų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2596, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20029
 
 2) gauti iš darbdavio duomenis ir dokumentus (jų nuorašus, išrašus) ir kitus įrodymus, reikalingus Valstybinės darbo inspekcijos funkcijoms atlikti;
 
@@ -287,17 +291,29 @@ Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
 
 12) vykdydami darbuotojų saugos ir sveikatos bei darbo santykius reglamentuojančių įstatymų ir kitų norminių teisės aktų pažeidimų prevenciją ir kontrolę, nepažeisdami įstatymais garantuoto asmens privataus gyvenimo neliečiamumo, fotografuoti, daryti garso ir vaizdo įrašus;
 
-13) įpareigoti darbdavį atkurti iškreipiamas ar slepiamas aplinkybes, dėl kurių buvo konstatuotas nedeklaruotas darbas;
+13) atlikti kontrolinius pirkimus, kurių tikslas – nustatyti nelegalų, nedeklaruotą darbą ar nedeklaruotą savarankišką veiklą. Atliekant kontrolinius pirkimus, darbdaviui ar asmeniui, kuris galimai vykdo nedeklaruotą savarankišką veiklą, nepateikiama sprendimo atlikti neplaninį patikrinimą kopija, valstybės tarnautojo pažymėjimas bei įgaliojimas. Kontrolinių pirkimų atlikimo tvarka nustatoma socialinės apsaugos ir darbo ministro tvirtinamuose Valstybinės darbo inspekcijos nuostatuose;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2596, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20029
+
+14) įpareigoti darbdavį atkurti iškreipiamas ar slepiamas aplinkybes, dėl kurių buvo konstatuotas nedeklaruotas darbas;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 
-14) gali turėti ir kitų teisių, nustatytų kitais norminiais teisės aktais.
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-2596, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20029
+
+15) gali turėti ir kitų teisių, nustatytų kitais norminiais teisės aktais.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+
+Nr. XIII-2596, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20029
 
 2. Valstybinės darbo inspekcijos inspektoriai privalo:
 
