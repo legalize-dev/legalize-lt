@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2020-01-01"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-05-07
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -1502,13 +1502,13 @@ Straipsnio pakeitimai:
 
 Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
-270 straipsnis. Aplinkos apsaugos arba gamtos išteklių naudojimo, arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar atliekami potencialiai pavojingi darbai, priežiūros ar naudojimo taisyklių pažeidimas
+270 straipsnis. Aplinkos apsaugos arba gamtos išteklių naudojimo arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar vykdoma pavojinga veikla, priežiūros ar naudojimo taisyklių pažeidimas
 
-1. Tas, kas pažeidė teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo, arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar atliekami potencialiai pavojingi darbai, priežiūros ar naudojimo taisykles, jeigu tai sukėlė pavojų žmogaus gyvybei ar sveikatai arba dėl to galėjo būti padaryta didelės žalos orui, žemei, vandeniui, gyvūnams ar augalams ar atsirasti kitų sunkių padarinių aplinkai,
+1. Tas, kas pažeidė teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar vykdoma pavojinga veikla, priežiūros ar naudojimo taisykles, jeigu tai sukėlė pavojų žmogaus gyvybei ar sveikatai arba dėl to galėjo būti padaryta didelės žalos orui, žemei, vandeniui, gyvūnams ar augalams ar atsirasti kitų sunkių padarinių aplinkai,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2. Tas, kas padarė šio straipsnio 1 dalyje nurodytą veiką arba sistemingai pažeidinėjo teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo, arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar atliekami potencialiai pavojingi darbai, priežiūros ar naudojimo taisykles, jeigu dėl to buvo padaryta didelės žalos orui, žemei, vandeniui, gyvūnams ar augalams ar atsirado kitų sunkių padarinių aplinkai,
+2. Tas, kas padarė šio straipsnio 1 dalyje nurodytą veiką arba sistemingai pažeidinėjo teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar vykdoma pavojinga veikla, priežiūros ar naudojimo taisykles, jeigu dėl to buvo padaryta didelės žalos orui, žemei, vandeniui, gyvūnams ar augalams ar atsirado kitų sunkių padarinių aplinkai,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
@@ -1521,6 +1521,10 @@ Straipsnio pakeitimai:
 Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
 
 Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2558, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19866
 
 271 straipsnis. Saugomų teritorijų ar gamtos paveldo objektų sunaikinimas ar suniokojimas
 
@@ -1810,13 +1814,11 @@ baudžiamas viešaisiais darbais arba bauda, arba areštu.
 
 2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
-305 straipsnis. Matavimo priemonių išleidimas į apyvartą, jų naudojimas be valstybinės metrologinės kontrolės ar jų parametrų pakeitimas
+305 straipsnis. Neteko galios nuo 2020-05-01
 
-1. Tas, kas išleido į apyvartą arba naudojo matavimo priemonę, kuriai taikoma valstybinė metrologinė kontrolė, be patikros, kalibravimo įspaudo ar kitokio kontrolės rezultatų įforminimo arba pakeitęs matavimo priemonės parametrus po valstybinės metrologinės kontrolės,
+Straipsnio naikinimas:
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
-
-2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+Nr. XIII-2522, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19119
 
 306 straipsnis. Valstybinio kontrolinio prabavimo ženklo arba Lietuvos Respublikos tarptautinėje sutartyje numatyto ar užsienio valstybės kontrolinio prabavimo ženklo įspaudo pagrobimas, suklastojimas, realizavimas ar netikro įspaudo panaudojimas
 
@@ -6175,6 +6177,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2563, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19871
 
 Lietuvos Respublikos baudžiamojo kodekso XXVI skyriaus pavadinimo pakeitimo ir Kodekso papildymo 175-1 straipsniu įstatymas
+
+37.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2522, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19119
+
+Lietuvos Respublikos baudžiamojo kodekso 305 straipsnio pripažinimo netekusiu galios įstatymas
+
+38.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2558, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19866
+
+Lietuvos Respublikos baudžiamojo kodekso 270 straipsnio pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
