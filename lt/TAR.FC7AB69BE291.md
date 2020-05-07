@@ -4,7 +4,7 @@ identifier: "TAR.FC7AB69BE291"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-12"
-last_updated: "2020-01-01"
+last_updated: "2020-05-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-05-06
+Suvestinė redakcija nuo 2020-05-07 iki 2020-05-30
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
 
@@ -95,11 +95,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 
-14. Elektrinė – elektros energijos gamintojo nuosavybės ar kita teise valdomi vienas ar daugiau tarpusavyje technologiškai susijusių įrenginių ir jų technologinių priklausinių elektros energijai gaminti ar elektros ir šilumos energijai gaminti bendrosios gamybos būdu.
+14. Elektrinė – elektros energijos gamintojo nuosavybės ar kita teise valdoma visuma tarpusavyje technologiškai susijusių įrenginių ir jų technologinių priklausinių elektros energijai gaminti ar elektros ir šilumos energijai gaminti bendrosios gamybos būdu. Saulės šviesos energijos elektrinėje esantys moduliai ir jų generuojamai galiai priskiriami technologiniai įrenginiai yra kilnojamieji daiktai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
+
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
 15. Elektrinės įrengtoji galia – visų elektrinės generatorių aktyviųjų galių suma.
 
@@ -2171,7 +2173,11 @@ Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 
 3) jeigu pasibaigus kalendoriniam mėnesiui gaminančio vartotojo suvartotas elektros energijos kiekis yra didesnis negu jo kaupimo laikotarpiu sukauptas į elektros tinklus patiektas elektros energijos kiekis, už šį skirtumą gaminantis vartotojas moka gaminančio vartotojo ir elektros energijos tiekėjo sudarytoje elektros energijos pirkimo–pardavimo sutartyje nustatytą kainą;
 
-4) gaminančio vartotojo per kaupimo laikotarpį suvartotos elektros energijos kiekį viršijantis į elektros tinklus patiektas elektros energijos kiekis į kitą kaupimo laikotarpį nėra perkeliamas ir už šį kiekį gaminančiam vartotojui nėra mokama;
+4) gaminančio vartotojo per kaupimo laikotarpį suvartotos elektros energijos kiekį viršijantis į elektros tinklus patiektas elektros energijos kiekis į kitą kaupimo laikotarpį nėra perkeliamas, už šį kiekį energijos tiekėjas gaminančiam vartotojui kompensuoja iš anksto tarpusavio sutartyse nustatyta tvarka ir sąlygomis. Garantinio tiekimo atveju, kai gaminančio vartotojo per kaupimo laikotarpį į elektros tinklus patiektos elektros energijos kiekis viršija suvartotos elektros energijos kiekį, skirstymo tinklų operatorius gaminančiam vartotojui kompensuoja už faktinį, bet ne didesnį kaip 5 procentų, gaminančio vartotojo per kaupimo laikotarpį arba nuo garantinio tiekimo pradžios, jeigu garantinis tiekimas vykdomas trumpiau, negu nustatytas kaupimo laikotarpis, patiektą elektros energijos kiekį Valstybinės energetikos reguliavimo tarybos nustatyta tvarka apskaičiuota elektros energijos kaina;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
 5) gaminančių vartotojų grupės elektrinėse, kurių prijungimo prie elektros tinklų taškas nesutampa su elektros energijos vartojimo vietos prijungimo tašku, pagaminto elektros energijos kiekio apskaita tvarkoma atsižvelgiant į gaminančio vartotojo nuosavybės teise ar kitais teisėtais pagrindais valdomos elektrinės dalį. Tokiu atveju įrengiamas tik vienas elektros energijos apskaitos prietaisas, o atskiro gaminančio vartotojo į elektros tinklus patiektas elektros energijos kiekis apskaičiuojamas pagal apskaitos prietaiso rodmenis proporcingai gaminančio vartotojo nuosavybės teise ar kitais teisėtais pagrindais valdomos elektrinės daliai.
 
