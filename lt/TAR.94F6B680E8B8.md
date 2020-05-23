@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2020-04-11"
+last_updated: "2020-05-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2020-04-11 iki 2020-05-22
+Suvestinė redakcija nuo 2020-05-23 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -456,7 +456,11 @@ Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
 
 4. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokama medicininė reabilitacija, slauga, socialinės paslaugos bei patarnavimai, priskirti asmens sveikatos priežiūrai, apima:
 
-1) slaugos ir socialines paslaugas bei patarnavimus, palaikomojo gydymo paslaugas slaugos ir palaikomojo gydymo ligoninėse Sveikatos apsaugos ministerijos nustatyta tvarka ir terminais, bet ne ilgiau kaip 120 dienų per kalendorinius metus;
+1) slaugos ir socialines paslaugas bei patarnavimus, palaikomojo gydymo paslaugas slaugos ir palaikomojo gydymo ligoninėse sveikatos apsaugos ministro nustatyta tvarka ir terminais, bet ne ilgiau kaip 120 dienų per kalendorinius metus. Į 120 dienų per kalendorinius metus terminą neįskaičiuojamas Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2940, 2020-05-19, paskelbta TAR 2020-05-22, i. k. 2020-10980
 
 2) šio Įstatymo 11 straipsnyje numatytą medicininę reabilitaciją ir sanatorinį gydymą.
 
