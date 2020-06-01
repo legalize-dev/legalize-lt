@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2020-01-01"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,17 +18,9 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-05-31
+Suvestinė redakcija nuo 2020-06-01 iki 2020-07-10
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
-
-TAR pastaba. Iki įstatymo Nr. XIII-2764 įsigaliojimo (2020-01-01) pagal Lietuvos Respublikos švietimo įstatymo Nr. I-1489 37, 43, 47, 48, 53, 56, 57, 58, 59, 60, 64, 68 straipsnių pakeitimo ir Įstatymo papildymo 51, 563 straipsniais įstatymo Nr. XIII-592 15 straipsnį penkerių metų kadencijai paskirtų valstybinės ar savivaldybės švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų einamos pareigos yra prilyginamos šiame įstatyme numatytai pirmajai penkerių metų kadencijai.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2764, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21570
-
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 59 straipsnio pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2011-07-01:
 
@@ -2522,6 +2514,14 @@ Nr. XIII-2764, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21570
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 59 straipsnio pakeitimo įstatymas
 
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2593, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20026
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 papildymo 31-1 straipsniu įstatymas
+
 73 straipsnis.
 
 Dalyvavimas tarptautinėje švietimo erdvėje
@@ -3589,4 +3589,18 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 Papildyta straipsniu:
 
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+311 straipsnis. Ugdymasis šeimoje
+
+1. Vaikas jo paties ir jo tėvų (globėjų, rūpintojų) pageidavimu gali pagal priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo bendrąsias programas būti ugdomas (ugdytis) šeimoje. Pasirinkus ugdymąsi šeimoje, vaiko iki 14 metų tėvai (globėjai, rūpintojai) arba vaikas nuo 14 iki 18 metų, turėdamas tėvų (rūpintojų) rašytinį sutikimą, ir pasirinkta mokykla sudaro mokymo sutartį. Ugdantis šeimoje įgytas išsilavinimas prilyginamas mokykloje įgytam išsilavinimui.
+
+2. Prieš sutarties dėl vaiko ugdymosi šeimoje sudarymą mokykla, pasitelkdama reikalingus specialistus, įvertina ugdymosi šeimoje sąlygas, vaiko brandos ir žinių lygį.
+
+3. Mokinius konsultuoja, mokomąja medžiaga aprūpina, mokymosi pažangą ir pasiekimus, socializacijos poreikio užtikrinimą periodiškai vertina mokykla, su kuria sudaryta mokymo sutartis.
+
+4. Ugdymosi šeimoje įgyvendinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+Papildyta straipsniu:
+
+Nr. XIII-2593, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20026
 
