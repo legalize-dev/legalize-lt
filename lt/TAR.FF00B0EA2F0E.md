@@ -4,7 +4,7 @@ identifier: "TAR.FF00B0EA2F0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-01-22"
-last_updated: "2019-01-01"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asociacijų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-05-31
+Suvestinė redakcija nuo 2020-06-01 iki 2022-04-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
 
@@ -282,7 +282,11 @@ Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 1) asociacijos veiklos tikslai, uždaviniai ir atlikti darbai, taip pat nurodomi ateinančių finansinių metų veiklos tikslai, uždaviniai ir planuojami atlikti darbai;
 
-2) asociacijos narių skaičius finansinių metų pabaigoje ir praėjusių finansinių metų pabaigoje.
+2) asociacijos narių skaičius finansinių metų pabaigoje ir praėjusių finansinių metų pabaigoje, atskirai išskiriant vienijamų juridinių asmenų skaičių ir jų pavadinimus, teisinę formą, kodus. Nurodyti vienijamų juridinių asmenų skaičių, pavadinimus, teisinę formą ir kodus turi asociacijos, kurios yra nevyriausybinės organizacijos.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2627, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20655
 
 5. Veiklos ataskaitoje gali būti nurodyta ir kita informacija, kurią nusprendžia pateikti asociacijos valdymo organas ar visuotinis narių susirinkimas.
 
@@ -512,7 +516,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                                   ROLANDAS PAKSAS
 
 Pakeitimai:
 
@@ -563,6 +567,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1595, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18209
 
 Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2627, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20655
+
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 10 straipsnio pakeitimo įstatymas
 
 101 straipsnis. Metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir metinės ataskaitos pasirašymas, skelbimas ir teikimas
 
