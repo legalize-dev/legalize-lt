@@ -4,7 +4,7 @@ identifier: "TAR.E2354748C91D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-05-08"
-last_updated: "2008-05-24"
+last_updated: "2020-06-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2354748C91D"
 department: "Lietuvos Respublikos Seimas"
@@ -21,6 +21,10 @@ LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL EUROPOS SĄJUNGOS IR ISLANDIJOS
 RESPUBLIKOS BEI NORVEgIjOS KARALYSTĖS SUSITARIMO DĖL PERDAVIMO TVARKOS TARP
 
 EUROPOS SĄjUNgOS VALSTYBIŲ NARIŲ IR ISLANDIjOS BEI
+
+Suvestinė redakcija nuo 2020-06-02 iki 2022-12-31
+
+Įstatymas paskelbtas: Žin. 2008, Nr. 59-2199, i. k. 1081010ISTA00X-1526
 
 LIETUVOS RESPUBLIKOS  ĮSTATYMAS
 
@@ -40,7 +44,11 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 2. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 5 straipsnio 2 dalimi, pareiškia, kad Lietuvos Respublika nenustato prievolės vykdančiajai teisminei institucijai atsisakyti vykdyti arešto orderį Susitarimo 5 straipsnio 1 dalyje numatytais arešto orderio nevykdymo pagrindais.
 
-3. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 9 straipsnio 3 dalimi, pareiškia, kad išduodančiomis teisminėmis institucijomis pagal Susitarimo 9 straipsnio 1 dalį paskiriamos Lietuvos Respublikos teisingumo ministerija ir Lietuvos Respublikos generalinė prokuratūra, vykdančiąja teismine institucija pagal Susitarimo 9 straipsnio 2 dalį paskiriamas Vilniaus apygardos teismas.
+3. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 9 straipsnio 3 dalimi, pareiškia, kad išduodančiomis teisminėmis institucijomis pagal Susitarimo 9 straipsnio 1 dalį paskiriami apygardos teismas pagal apkaltinamąjį nuosprendį, kuriuo paskiriama laisvės atėmimo bausmė, ar nutartį panaikinti bausmės vykdymo atidėjimą arba nutartį dėl lygtinai iš pataisos įstaigos paleisto asmens pasiuntimo į pataisos įstaigą atlikti likusios laisvės atėmimo bausmės priėmusio teismo veiklos teritoriją ir Lietuvos Respublikos generalinė prokuratūra, o vykdančiąja teismine institucija pagal Susitarimo 9 straipsnio 2 dalį paskiriamas Vilniaus apygardos teismas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2979, 2020-05-21, paskelbta TAR 2020-06-01, i. k. 2020-11740
 
 4. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 11 straipsnio 2 dalimi, pareiškia, kad Lietuvos Respublika priims į lietuvių kalbą išverstą arešto orderį. Lietuvos Respublika taip pat priims anglų kalba parengtą arešto orderį tuo atveju, jeigu išduodanti valstybė taikys abipusiškumo principą.
 
@@ -48,5 +56,15 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 Skelbiu šį Lietuvos Respublikos seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2979, 2020-05-21, paskelbta TAR 2020-06-01, i. k. 2020-11740
+
+Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimo dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos ratifikavimo“ Nr. X-1526 2 straipsnio pakeitimo įstatymas
 
