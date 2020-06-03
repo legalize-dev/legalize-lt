@@ -4,7 +4,7 @@ identifier: "TAR.07CBDBA753E8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-10-22"
-last_updated: "1999-01-01"
+last_updated: "2020-06-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07CBDBA753E8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5, 6 straipsnių papildymo ir pakeitimo įstatymas
+
+Suvestinė redakcija nuo 2020-06-03
+
+Įstatymas paskelbtas: Žin. 1998, Nr. 98-2711, i. k. 0981010ISTAVIII-909
 
 LIETUVOS RESPUBLIKOS
 
@@ -63,4 +67,14 @@ Mokslininkų valstybinių pensijų skyrimo, mokėjimo ir pristatymo išlaidos va
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT100-N6/2020, 2020-06-03, paskelbta TAR 2020-06-03, i. k. 2020-12128
+
+Dėl Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
