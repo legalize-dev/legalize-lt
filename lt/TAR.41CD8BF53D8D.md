@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2019-07-01"
+last_updated: "2020-06-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2020-06-04
+Suvestinė redakcija nuo 2020-06-05 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -194,7 +194,11 @@ Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 25) Šengeno vizų išdavimą asmenims, nurodytiems 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 810/2009, nustatančio Bendrijos vizų kodeksą (Vizų kodeksas) (toliau – Reglamentas (EB) Nr. 810/2009), 16 straipsnio 4 dalyje;
 
-26) Šengeno vizų išdavimą asmenims, nurodytiems Reglamento (EB) Nr. 810/2009 16 straipsnio 5 dalies a ir b punktuose, kai Europos Sąjungos valstybės narės, vykdydamos bendradarbiavimą Šengeno klausimais vietos lygiu, numatytą Reglamente (EB) Nr. 810/2009, nėra priėmusios sprendimo imti valstybės rinkliavą;
+26) prašymų išduoti Šengeno vizas Vizų kodekso 16 straipsnio 5 dalyje numatytais atvejais, kai prašymus pateikia užsieniečiai, kurių pilietybės valstybė netaiko vizų režimo Lietuvos Respublikos piliečiams arba kurių pilietybės valstybė Lietuvos Respublikos piliečiams taiko ne mažiau palankias sąlygas, negu numatyta Vizų kodekso 16 straipsnio 5 dalyje, nagrinėjimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 27) Šengeno vizų išdavimą asmenims, nurodytiems Reglamento (EB) Nr. 810/2009 16 straipsnio 5 dalies c punkte, kai Europos Sąjungos valstybės narės, vykdydamos bendradarbiavimą Šengeno klausimais vietos lygiu, numatytą Reglamente (EB) Nr. 810/2009, yra priėmusios sprendimą neimti valstybės rinkliavos;
 
@@ -807,4 +811,36 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2054, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06690
 
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo ir Įstatymo papildymo 19 straipsniu įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2477, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17214
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 7 ir 11 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2495, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17225
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 12 straipsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2918, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10919
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 1, 6, 6-1, 8 straipsnių ir priedo pakeitimo įstatymas
 
