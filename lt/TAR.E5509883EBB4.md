@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2020-01-01"
+last_updated: "2020-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-09
+Suvestinė redakcija nuo 2020-06-10 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
 
@@ -1328,7 +1328,11 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 TREČIASIS SKIRSNIS
 
-LEIDIMŲ ATIDARYTI AUTOMATŲ, BINGO SALONUS, LOŠIMO NAMUS (KAZINO) IŠDAVIMAS, JŲ PAPILDYMAS ARBA PAKEITIMAS IR GALIOJIMO PANAIKINIMAS
+LEIDIMŲ ATIDARYTI AUTOMATŲ, BINGO SALONUS, LOŠIMO NAMUS (KAZINO) IŠDAVIMAS, JŲ PAPILDYMAS AR PAKEITIMAS, GALIOJIMO SUSTABDYMAS AR PANAIKINIMAS
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XIII-3009, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12615
 
 251 straipsnis. Reikalavimai žaidimams žaidimo automatais
 
@@ -1469,4 +1473,14 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 Papildyta straipsniu:
 
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
+
+211 straipsnis. Leidimų atidaryti automatų ar bingo salonus arba lošimo namus (kazino) galiojimo sustabdymas
+
+1. Jeigu paskelbus nepaprastąją padėtį ar valstybės lygio ekstremaliąją situaciją, ar karantiną visoje Lietuvos Respublikos teritorijoje nustatytų ribojimų laikotarpiu draudžiama leidimus atidaryti automatų ar bingo salonus arba lošimo namus (kazino) turinčių bendrovių leidimuose nurodyta lošimų veikla, leidimų atidaryti automatų ar bingo salonus arba lošimo namus (kazino) galiojimas sustabdomas automatiškai nuo nustatytų ribojimų įsigaliojimo dienos iki jų panaikinimo dienos.
+
+2. Apie automatišką leidimų atidaryti automatų ar bingo salonus arba lošimo namus (kazino) galiojimo sustabdymą ir galiojimo sustabdymo panaikinimą Priežiūros tarnyba ne vėliau kaip per 3 darbo dienas nuo automatiško leidimų galiojimo sustabdymo ir galiojimo sustabdymo panaikinimo dienos informuoja teritorines valstybines mokesčių inspekcijas, kurių aptarnaujamose teritorijose yra registruotos leidimus turinčios bendrovės.
+
+Papildyta straipsniu:
+
+Nr. XIII-3009, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12615
 
