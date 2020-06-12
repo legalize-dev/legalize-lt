@@ -4,7 +4,7 @@ identifier: "TAR.FDF42614DE52"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2020-01-01"
+last_updated: "2020-06-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 17 straipsnio 4 ir 5 dalių bei 19 strai
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-11
+Suvestinė redakcija nuo 2020-06-12 iki 2021-06-15
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
 
@@ -72,11 +72,21 @@ NEDARBO DRAUDIMO IŠMOKA
 
 6 straipsnis. Nedarbo draudimo išmokos skyrimo sąlygos
 
-1. Nedarbo draudimo išmoka skiriama bedarbiais Užimtumo tarnyboje registruotiems asmenims ir pradedama mokėti nuo aštuntos po įsiregistravimo dienos, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus atvejus.
+1. Nedarbo draudimo išmoka skiriama bedarbiais Užimtumo tarnyboje registruotiems asmenims ir pradedama mokėti nuo aštuntos po įsiregistravimo dienos, išskyrus šio straipsnio 2 ir 4 dalyse nurodytus atvejus.
+
+TAR pastaba. 1 dalies nuostatos taikomos skiriant nedarbo socialinio draudimo išmokas asmenims, kurie įsiregistravo Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos ir kuriems bedarbio statusas suteiktas ne anksčiau kaip Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarime Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ nustatytą karantino režimo pradžios dieną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3007, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12830
 
 2. Bedarbiams, nurodytiems šio įstatymo 5 straipsnio 1 dalies 1 punkte, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 kalendoriniams mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos.
 
-3. Bedarbiui, atleistam iš darbo (tarnybos), kuriam priskaičiuota išeitinė išmoka arba šalių susitarimu kompensacija, nedarbo draudimo išmoka pradedama mokėti ne anksčiau kaip praėjus tiek kalendorinių mėnesių po darbo sutarties nutraukimo (atleidimo iš tarnybos), už kiek mėnesių vidutinio darbo užmokesčio dydžio išeitinė išmoka arba kompensacija jam buvo priskaičiuota.
+3. Neteko galios nuo 2020-06-12
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-3007, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12830
 
 4. Bedarbiams, gaunantiems ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros ar ligos dėl nelaimingo atsitikimo darbe ar profesinės ligos socialinio draudimo išmoką, paskirtą iki įsiregistravimo Užimtumo tarnyboje dienos, nedarbo draudimo išmoka pradedama mokėti ne anksčiau, negu baigiasi šių išmokų mokėjimo laikas.
 
