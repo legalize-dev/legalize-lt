@@ -4,7 +4,7 @@ identifier: "TAR.F8D00907FFBE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-23"
-last_updated: "2019-01-01"
+last_updated: "2020-06-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8D00907FFBE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-06-11
+Suvestinė redakcija nuo 2020-06-12
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 104-2976, i. k. 0991010ISTAIII-1436
 
@@ -193,7 +193,11 @@ Nr. VIII-1726, 2000-06-13, Žin., 2000, Nr. 52-1485 (2000-06-28), i. k. 1001010I
 
 1. Asmenys, slapta bendradarbiavę su buvusios SSRS specialiosiomis tarnybomis, įrašomi į įskaitą Komisijos sprendimu, jeigu jie savanoriškai prisipažino slapta bendradarbiavę su buvusios SSRS specialiosiomis tarnybomis ir pateikė visą jiems žinomą informaciją, susijusią su specialiųjų tarnybų veikla.
 
-2. Prisipažinimo faktas bei prisipažinusio asmens pateikti duomenys yra valstybės paslaptį sudaranti informacija, kuri įslaptinama, naudojama ir išslaptinama įstatymų nustatyta tvarka. Valstybės paslaptį sudarančia informacija nelaikomi duomenys apie tai, kad buvusios SSRS specialiosiose tarnybose tarnavo ar su jomis slapta bendradarbiavo Respublikos Prezidentas, Seimo ir savivaldybių tarybų nariai, Vyriausybės nariai, teisėjai ir prokurorai, taip pat kandidatai į šias pareigas.
+2. Prisipažinimo faktas bei prisipažinusio asmens pateikti duomenys yra valstybės paslaptį sudaranti informacija, kuri įslaptinama, naudojama ir išslaptinama įstatymų nustatyta tvarka. Valstybės paslaptį sudarančia informacija nelaikomi duomenys apie tai, kad buvusios SSRS specialiosiose tarnybose tarnavo ar su jomis slapta bendradarbiavo Respublikos Prezidentas, Seimo, Europos Parlamento ir savivaldybių tarybų nariai, savivaldybių tarybų nariai – merai,  Vyriausybės nariai, teisėjai ir prokurorai, taip pat kandidatai į šias pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2998, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12823
 
 8 straipsnis. Prisipažinusiųjų asmenų apsauga ir duomenų paskelbimo atvejai
 
@@ -205,11 +209,13 @@ Nr. XII-1911, 2015-06-30, paskelbta TAR 2015-07-03, i. k. 2015-10826
 
 2. Šio straipsnio 1 dalyje nurodyti asmenys praneša Valstybės saugumo departamentui, jei patiria šantažą ir verbavimą ar bandymą įtraukti į neteisėtą veiklą, Valstybės saugumo departamentas prisipažinusių asmenų prašymu imasi priemonių jiems apsaugoti bei nusikalstamai veikai atskleisti. Asmenų įrašymas į įskaitą ir jų pateikti duomenys išslaptinami, jeigu šie asmenys įsiteisėjusiu teismo nuosprendžiu yra apkaltinti padarę veikas, pripažintas nusikaltimais žmoniškumui, karo ar genocido nusikaltimais, bei kitais įstatymų nustatytais įslaptintos informacijos išslaptinimo atvejais.
 
-3. Komisijai suteikta ir įslaptinta informacija gali būti panaudota moksliniams darbams tik su Komisijos leidimu ir Komisijos užkoduota. Informacija apie slapta bendradarbiavusius asmenis taip pat išslaptinama ir viešai paskelbiama, kai asmuo eina Respublikos Prezidento, Seimo ar savivaldybės tarybos nario, Vyriausybės nario, teisėjo arba prokuroro pareigas arba į jas kandidatuoja. Einant minėtas pareigas arba į jas kandidatuojant, registruotis, prisipažinti slapta bendradarbiavus su buvusios SSRS specialiosiomis tarnybomis ir pateikti visą jiems žinomą informaciją apie specialiųjų tarnybų veiklą bei perduoti turimus dokumentus ar daiktus, susijusius su buvusios SSRS specialiosiomis tarnybomis, privaloma. Jei nurodytas pareigas einantys arba į jas kandidatuojantys asmenys šio įstatymo nustatyta tvarka neprisipažįsta Lietuvos valstybei slapta bendradarbiavę su buvusios SSRS specialiosiomis tarnybomis, pateikia žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslepia, jie atsako įstatymų nustatyta tvarka. Šių asmenų neprisipažinimas slapta bendradarbiavus su buvusios SSRS slaptosiomis tarnybomis ar žinomai melagingų žinių pateikimas apie save, kitus asmenis ir specialiųjų tarnybų veiklą arba tokios informacijos nuslėpimas, turimų dokumentų ar daiktų, susijusių su buvusios SSRS specialiosiomis tarnybomis, neperdavimas šio įstatymo nustatyta tvarka reiškia priesaikos sulaužymą, pareigūno vardo pažeminimą.
+3. Komisijai suteikta ir įslaptinta informacija gali būti panaudota moksliniams darbams tik su Komisijos leidimu ir Komisijos užkoduota. Informacija apie slapta bendradarbiavusius asmenis taip pat išslaptinama ir viešai paskelbiama, kai asmuo eina Respublikos Prezidento, Seimo, Europos Parlamento ar savivaldybės tarybos nario, savivaldybės tarybos nario – mero, Vyriausybės nario, teisėjo, prokuroro pareigas arba į jas kandidatuoja. Einant minėtas pareigas arba į jas kandidatuojant, registruotis, prisipažinti slapta bendradarbiavus su buvusios SSRS specialiosiomis tarnybomis ir pateikti visą jiems žinomą informaciją apie specialiųjų tarnybų veiklą bei perduoti turimus dokumentus ar daiktus, susijusius su buvusios SSRS specialiosiomis tarnybomis, privaloma. Jei nurodytas pareigas einantys arba į jas kandidatuojantys asmenys šio įstatymo nustatyta tvarka neprisipažįsta Lietuvos valstybei slapta bendradarbiavę su buvusios SSRS specialiosiomis tarnybomis, pateikia žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslepia, jie atsako įstatymų nustatyta tvarka. Šių asmenų neprisipažinimas slapta bendradarbiavus su buvusios SSRS slaptosiomis tarnybomis ar žinomai melagingų žinių pateikimas apie save, kitus asmenis ir specialiųjų tarnybų veiklą arba tokios informacijos nuslėpimas, turimų dokumentų ar daiktų, susijusių su buvusios SSRS specialiosiomis tarnybomis, neperdavimas šio įstatymo nustatyta tvarka reiškia priesaikos sulaužymą, pareigūno vardo pažeminimą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-1726, 2000-06-13, Žin., 2000, Nr. 52-1485 (2000-06-28), i. k. 1001010ISTAIII-1726
+
+Nr. XIII-2998, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12823
 
 4. Duomenys apie slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis skelbiami Teisės aktų registre tuo atveju, jeigu asmuo, slapta bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, per 6 mėnesius nuo Komisijos paskelbto registravimo ir prisipažinimų priėmimo pradžios neprisipažino slapta bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, taip pat jei pateikė žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpė. Apie Komisijos priimtą sprendimą viešai paskelbti duomenis raštu pranešama asmeniui, slapta bendradarbiavusiam su buvusios SSRS specialiosiomis tarnybomis. Jis šį nutarimą per 15 dienų nuo pranešimo gavimo gali apskųsti administraciniam teismui. Nutarimo viešai paskelbti duomenis vykdymas sustabdomas iki teismo sprendimo įsiteisėjimo.
 
@@ -217,7 +223,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-2340, 2012-11-06, Žin., 2012, Nr. 132-6668 (2012-11-15), i. k. 1121010ISTA0XI-2340
 
-5. Šio straipsnio 4 dalyje nustatyta tvarka duomenys apie slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis neskelbiami ir šio įstatymo 9 straipsnyje nustatyti veiklos apribojimai netaikomi asmenims, kurie apie savo slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis prisipažino specialiosioms deputatų komisijoms, sudarytoms įgyvendinant Lietuvos Respublikos įstatymą „Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo“ arba specialiojoje Lietuvos Respublikos valstybinių įstaigų tarnautojų asmens duomenų pildymo anketoje, kurios forma nustatyta Lietuvos Respublikos Vyriausybės 1992 m. balandžio 6 d. potvarkiu  Nr. 351p.
+5. Šio straipsnio 4 dalyje nustatyta tvarka duomenys apie slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis neskelbiami ir šio įstatymo 9 straipsnyje nustatyti veiklos apribojimai netaikomi asmenims, kurie apie savo slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis prisipažino specialiosioms deputatų komisijoms, sudarytoms įgyvendinant Lietuvos Respublikos įstatymą „Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo“ arba specialiojoje Lietuvos Respublikos valstybinių įstaigų tarnautojų asmens duomenų pildymo anketoje, kurios forma nustatyta Lietuvos Respublikos Vyriausybės 1992 m. balandžio 6 d. potvarkiu Nr. 351p.
 
 Papildyta straipsnio dalimi:
 
@@ -253,13 +259,19 @@ Nr. XI-2340, 2012-11-06, Žin., 2012, Nr. 132-6668 (2012-11-15), i. k. 1121010IS
 
 3. Respublikos Prezidento, Seimo, Vyriausybės nario, Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo ar Lietuvos apeliacinio teismo teisėjo, prokuroro pareigas einantys asmenys, neprisipažinę Lietuvos valstybei slapta bendradarbiavę su buvusios SSRS specialiosiomis tarnybomis, pateikę žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpę, už tai atsako kaip už priesaikos sulaužymą. Kitų teismų teisėjo pareigas einantys asmenys už šioje dalyje nurodytus veiksmus atsako kaip už teisėjo vardo pažeminimą.
 
-4. Europos Parlamento ar savivaldybės tarybos nario pareigas einančių asmenų, neprisipažinusių Lietuvos valstybei slapta bendradarbiavus su buvusios SSRS specialiosiomis tarnybomis, pateikusių žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpusių, įgaliojimai pripažįstami nutrūkusiais nepasibaigus nustatytam terminui. Vyriausioji rinkimų komisija atitinkamą sprendimą priima per 14 dienų nuo Komisijos sprendimo Teisės aktų registre paskelbti duomenis apie asmenis, slapta bendradarbiavusius su buvusios SSRS specialiosiomis tarnybomis, paskelbimo dienos.
+4. Europos Parlamento ar savivaldybės tarybos nario, savivaldybės tarybos nario – mero pareigas einančių asmenų, neprisipažinusių Lietuvos valstybei slapta bendradarbiavus su buvusios SSRS specialiosiomis tarnybomis, pateikusių žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpusių, įgaliojimai pripažįstami nutrūkusiais nepasibaigus nustatytam terminui. Vyriausioji rinkimų komisija atitinkamą sprendimą priima per 14 dienų nuo Komisijos sprendimo Teisės aktų registre paskelbti duomenis apie asmenis, slapta bendradarbiavusius su buvusios SSRS specialiosiomis tarnybomis, paskelbimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-2340, 2012-11-06, Žin., 2012, Nr. 132-6668 (2012-11-15), i. k. 1121010ISTA0XI-2340
 
-5. Asmuo, keliamas kandidatu į Respublikos Prezidento, Seimo, Europos Parlamento ar savivaldybės tarybos nario pareigas ir nepateikęs duomenų Vyriausiajai rinkimų komisijai apie tai, kad jis slapta bendradarbiavo su buvusios SSRS specialiosiomis tarnybomis, neregistruojamas kandidatu arba išbraukiamas iš kandidatų.
+Nr. XIII-2998, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12823
+
+5. Asmuo, keliamas ar išsikėlęs kandidatu į Respublikos Prezidento, Seimo, Europos Parlamento ar savivaldybės tarybos nario, savivaldybės tarybos nario – mero pareigas ir nepateikęs duomenų Vyriausiajai rinkimų komisijai apie tai, kad jis slapta bendradarbiavo su buvusios SSRS specialiosiomis tarnybomis, neregistruojamas kandidatu arba išbraukiamas iš kandidatų. Vyriausioji rinkimų komisija tikrina kandidatų duomenis ir viešina informaciją apie juos rinkimų įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2998, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12823
 
 6. Asmuo, siekiantis eiti teisėjo ar prokuroro pareigas, neprisipažinęs Lietuvos valstybei slapta bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, pateikęs žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpęs, negali būti laikomas nepriekaištingos reputacijos ir teisėju ar prokuroru neskiriamas.
 
@@ -328,4 +340,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1816, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21836
 
 Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo Nr. VIII-1436 9 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2998, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12823
+
+Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo Nr. VIII-1436 7, 8 ir 9 straipsnių pakeitimo įstatymas
 
