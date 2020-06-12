@@ -4,7 +4,7 @@ identifier: "TAR.074B2F6259F9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-04-03"
-last_updated: "2020-05-01"
+last_updated: "2020-06-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.074B2F6259F9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-06-11
+Suvestinė redakcija nuo 2020-06-12 iki 2020-07-29
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 47-1747, i. k. 1081010ISTA00X-1478
 
@@ -290,13 +290,19 @@ b) leisti teikti paslaugas.
 
 10. Kai yra kliūčių, dėl kurių gali būti vėluojama priimti vieną iš šio straipsnio 9 dalyje nurodytų sprendimų, Lietuvos Respublikos kompetentinga institucija per vieną mėnesį nuo deklaracijos ir kartu pateikiamų dokumentų gavimo dienos apie vėlavimo priežastį praneša paslaugos teikėjui. Kliūtys turi būti pašalintos per vieną mėnesį nuo šioje dalyje nurodyto pranešimo gavimo dienos, o sprendimas priimtas ne vėliau kaip per du mėnesius po to, kai yra pašalintos kliūtys.
 
-11. Jeigu kompetentinga institucija nustato esminį skirtumą tarp paslaugos teikėjo profesinės kvalifikacijos ir Lietuvos Respublikoje nustatytų rengimo reikalavimų ir to skirtumo negali kompensuoti kompetentingos institucijos tuo tikslu oficialiai patvirtinta paslaugos teikėjo profesinė patirtis arba visą gyvenimą trunkančio mokymosi metu įgytos žinios, įgūdžiai ir kompetencijos, o dėl šio skirtumo gali būti padaryta žalos visuomenės sveikatai ar saugai, paslaugos teikėjui suteikiama galimybė įrodyti profesinio tinkamumo testu, kaip nurodyta šio straipsnio 9 dalies 2 punkto a papunktyje, kad jis įgijo trūkstamų žinių, įgūdžių ar kompetencijų. Tuo remdamasi Lietuvos Respublikos kompetentinga institucija priima sprendimą leisti arba neleisti teikti paslaugas.
+11. Paslaugą galima pradėti teikti nuo šio straipsnio 9 dalies 1 punkte ir 2 punkto b papunktyje nurodytų sprendimų priėmimo dienos.
 
-12. Paslaugą galima pradėti teikti per vieną mėnesį nuo šio straipsnio 9 dalyje nurodytų sprendimų priėmimo dienos.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
+
+12. Jeigu kompetentinga institucija nustato esminį skirtumą tarp paslaugos teikėjo profesinės kvalifikacijos ir Lietuvos Respublikoje nustatytų rengimo reikalavimų ir to skirtumo negali kompensuoti kompetentingos institucijos tuo tikslu oficialiai patvirtinta paslaugos teikėjo profesinė patirtis arba visą gyvenimą trunkančio mokymosi metu įgytos žinios, įgūdžiai ir kompetencijos, o dėl šio skirtumo gali būti padaryta žalos visuomenės sveikatai ar saugai, paslaugos teikėjui suteikiama galimybė įrodyti profesinio tinkamumo testu, kaip nurodyta šio straipsnio 9 dalies 2 punkto a papunktyje, kad jis įgijo trūkstamų žinių, įgūdžių ar kompetencijų. Paslaugos teikėjui profesinio tinkamumo testo laikymas ir perlaikymas turi būti surengti taip, kad jis turėtų galimybę teikti paslaugas kuo anksčiau, bet ne vėliau kaip per vieną mėnesį nuo šio straipsnio 9 dalies 2 punkto a papunktyje nurodyto sprendimo priėmimo dienos. Tuo remdamasi Lietuvos Respublikos kompetentinga institucija priima sprendimą leisti arba neleisti teikti paslaugas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2240, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10363
+
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
 13. Jeigu Lietuvos Respublikos kompetentinga institucija nepriima sprendimo arba nepraneša apie kliūtis, dėl kurių šio sprendimo priėmimas atidedamas šio straipsnio 9 ir 10 dalyse nustatytais terminais, paslaugą galima pradėti teikti.
 
