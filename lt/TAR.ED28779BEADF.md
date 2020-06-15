@@ -4,7 +4,7 @@ identifier: "TAR.ED28779BEADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2019-12-21"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2019-12-21 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2021-12-28
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
 
@@ -146,7 +146,11 @@ Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
 
 6. Priežiūros institucija, vertindama licencijos siekiančios valdymo įmonės kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies savininkų tinkamumą ir valdymo įmonės, investicinės bendrovės-valdytojos tai pačiai grupei priklausančių įmonių vadovų reputaciją, kvalifikaciją ir darbo patirtį, privalo kreiptis į kitos valstybės narės priežiūros instituciją, kad ši pateiktų savo nuomonę.
 
-7. Apie valdymo įmonės ar investicinės bendrovės-valdytojos licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Juridinių asmenų registro tvarkytojui, valstybės įmonei „Indėlių ir investicijų draudimas“ ir paskelbia priežiūros institucijos interneto svetainėje. Apie valdymo įmonės licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai.
+7. Apie valdymo įmonės ar investicinės bendrovės-valdytojos licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša valstybės įmonei „Indėlių ir investicijų draudimas“ ir paskelbia savo interneto svetainėje. Apie valdymo įmonės licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2966, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11346
 
 8. Valdymo įmonė, ketinanti teikti paslaugas, nurodytas šio įstatymo 4 straipsnio 1 dalies 1, 2 ir (arba) 3 punktuose, ir (arba) valdyti kolektyvinio investavimo subjektus, kurie nėra nurodyti jos veiklos licencijoje, turi teisę kreiptis į priežiūros instituciją pateikdama prašymą dėl valdymo įmonės veiklos licencijos papildymo. Kartu su prašymu ji pateikia priežiūros institucijos patvirtintose licencijavimo taisyklėse nustatytą informaciją, kurią išnagrinėjusi priežiūros institucija galėtų konstatuoti, kad valdymo įmonė atitinka tokiai veiklai vykdyti taikomus reikalavimus.
 
@@ -2875,6 +2879,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 pakeitimo įstatymo Nr. XIII-1872 1 ir 2 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2966, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11346
+
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 6 straipsnio pakeitimo įstatymas
 
 175 straipsnis. Nuostatos, susijusios su naryste Europos Sąjungoje
 
