@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2019-10-01"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
 
@@ -580,7 +580,11 @@ Licencijas išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina ir
 
 6. Licencija arba motyvuotas raštiškas atsisakymas išduoti licenciją turi būti pateikti įstaigai tiesiogiai, registruotu laišku ar pasirašyti saugiu elektroniniu parašu elektroninėmis priemonėmis arba per kontaktinį centrą per 30 dienų nuo visos informacijos, reikalingos licencijai išduoti, gavimo dienos.
 
-7. Socialinių paslaugų priežiūros departamentas privalo teisės aktų nustatyta tvarka pranešti Juridinių asmenų registrui apie licencijos išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą.
+7. Neteko galios nuo 2020-06-15
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-2970, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11353
 
 8. Apie licencijos išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą Socialinių paslaugų priežiūros departamentas skelbia savo interneto svetainėje.
 
@@ -1171,6 +1175,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2292, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12180
 
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 13 straipsnio pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2970, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11353
+
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 23 straipsnio pakeitimo įstatymas
 
 141 straipsnis. Lietuvos statistikos departamento kompetencija
 
