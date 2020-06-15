@@ -4,7 +4,7 @@ identifier: "TAR.C51D9C259EFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-12-20"
-last_updated: "2020-01-01"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 34 straipsnis įsigalioja 2007-12-29"
 ---
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2022-05-27
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
 
@@ -224,7 +224,7 @@ Nr. X-1684, 2008-07-03, Žin., 2008, Nr. 81-3185 (2008-07-17)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -375,6 +375,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2194, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09852
 
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 10 ir 24 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2971, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11356
+
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 11-1 straipsnio pakeitimo įstatymas
 
 8 straipsnis. Neteko galios nuo 2011-01-01.
 
@@ -802,7 +810,11 @@ Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
 
 16. Už kremavimo veiklos licencijos išdavimą, pakeitimą ar licencijos dublikato išdavimą imama Vyriausybės nustatyto dydžio valstybės rinkliava.
 
-17. Apie kremavimo veiklos licencijų išdavimą, pakeitimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir licencijų galiojimo panaikinimą Aplinkos ministerija ar jos įgaliota institucija praneša Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka, skelbia leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ ir savo interneto svetainėje.
+17. Apie kremavimo veiklos licencijų išdavimą, pakeitimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir licencijų galiojimo panaikinimą Aplinkos ministerija ar jos įgaliota institucija skelbia savo interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2971, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11356
 
 Įstatymas papildytas straipsniu:
 
