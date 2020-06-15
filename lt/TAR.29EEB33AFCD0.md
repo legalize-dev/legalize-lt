@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2020-01-30"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2020-01-30 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -163,7 +163,11 @@ CENTRINĖS KREDITO UNIJOS STEIGIMAS IR LICENCIJAVIMAS
 
 2) centrinė kredito unija neatitinka šio straipsnio 10 dalyje nustatytų reikalavimų.
 
-12. Apie priimtą sprendimą išduoti licenciją ar jos neišduoti pranešama Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka ir paskelbiama priežiūros institucijos interneto svetainėje.
+12. Apie priimtą sprendimą išduoti licenciją ar jos neišduoti paskelbiama priežiūros institucijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2960, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11333
 
 13. Centrinė kredito unija turi teisę pradėti teikti finansines paslaugas tik gavusi licenciją ir įregistruota Juridinių asmenų registre arba, jeigu licencija išduodama ne steigiamai centrinei kredito unijai, – tik gavusi licenciją ir įregistravusi atitinkamus pakeitimus Juridinių asmenų registre.
 
@@ -1119,7 +1123,11 @@ Nr. XIII-2023, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05394
 
 3) centrinė kredito unija neįmoka pirmosios (avansinės) draudimo įmokos pagal Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymą (toliau – Indėlių ir įsipareigojimų investuotojams draudimo įstatymas), jeigu ji privalo ją mokėti ar jeigu draudimas nutraukiamas visam laikui.
 
-2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama centrinei kredito unijai, Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka ir paskelbiama priežiūros institucijos interneto svetainėje.
+2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama centrinei kredito unijai ir paskelbiama priežiūros institucijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2960, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11333
 
 3. Priežiūros institucijos sprendimas atšaukti centrinės kredito unijos licenciją turi būti motyvuotas.
 
@@ -2018,6 +2026,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2777, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02012
 
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 4 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2960, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11333
+
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 8 ir 9 straipsnių pakeitimo įstatymas
 
 71 straipsnis. Kreditorių reikalavimų tenkinimo eilė
 
