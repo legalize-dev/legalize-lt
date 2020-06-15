@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2020-01-01"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -165,7 +165,11 @@ Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
 14. Glaudus ryšys nustatomas vadovaujantis Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 38 punkte nurodytais kriterijais.
 
-15. Apie priimtą sprendimą dėl licencijos išdavimo ar atsisakymo ją išduoti pranešama juridinių asmenų registrui šio registro nuostatuose nustatyta tvarka ir paskelbiama priežiūros institucijos interneto svetainėje.
+15. Apie priimtą sprendimą dėl licencijos išdavimo ar atsisakymo ją išduoti paskelbiama priežiūros institucijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2959, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11331
 
 16. Bankas turi teisę pradėti teikti finansines paslaugas tik gavęs licenciją ir įregistruotas juridinių asmenų registre arba, jei licencija išduodama ne steigiamam bankui, – tik gavęs licenciją ir įregistravęs atitinkamus pakeitimus juridinių asmenų registre.
 
@@ -197,11 +201,13 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 3) bankas neįmoka pirmosios (avansinės) draudimo įmokos pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą, jei jis privalo ją mokėti ar jeigu draudimas nutraukiamas.
 
-2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama bankui, juridinių asmenų registrui šio registro nuostatų nustatyta tvarka, suinteresuotų Europos Sąjungos valstybių narių priežiūros institucijoms ir paskelbiama priežiūros institucijos interneto svetainėje.
+2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama bankui, suinteresuotų Europos Sąjungos valstybių narių priežiūros institucijoms ir paskelbiama priežiūros institucijos interneto svetainėje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+
+Nr. XIII-2959, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11331
 
 3. Priežiūros institucijos sprendimas atšaukti licenciją turi būti motyvuotas.
 
@@ -359,7 +365,11 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 5) užsienio valstybėje, kurios jurisdikcijai priklauso užsienio bankas, filialų priežiūros atlikimo tvarka ir reikalavimai neužtikrina saugios ir patikimos filialo veiklos arba gali trukdyti priežiūros institucijai atlikti savo funkcijas.
 
-8. Apie priimtą sprendimą išduoti licenciją ar jos neišduoti pranešama juridinių asmenų registrui šio registro nuostatų nustatyta tvarka ir paskelbiama priežiūros institucijos interneto svetainėje.
+8. Apie priimtą sprendimą išduoti licenciją ar jos neišduoti paskelbiama priežiūros institucijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2959, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11331
 
 9. Licenciją gavęs užsienio banko filialas visada turi atitikti reikalavimus, kurie yra nustatyti licencijai gauti. Užsienio banko filialas šio Įstatymo ir priežiūros institucijos teisės aktų nustatytais atvejais ir tvarka privalo informuoti priežiūros instituciją apie duomenų, kurie buvo pateikti leidimui įsteigti filialą ir licencijai gauti, pasikeitimus.
 
@@ -447,7 +457,11 @@ Nr. X-1038, 2007-01-18, Žin., 2007, Nr. 12-499 (2007-01-30)
 
 3) užsienio valstybės, kurios jurisdikcijai priklauso užsienio bankas, priežiūros institucija prieštarauja atstovybės steigimui Lietuvos Respublikoje.
 
-6. Apie priimtą sprendimą išduoti leidimą užsienio banko atstovybės veiklai ar jo neišduoti priežiūros institucija raštu praneša juridinių asmenų registrui.
+6. Neteko galios nuo 2020-06-15
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-2959, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11331
 
 7. Užsienio banko atstovybė priežiūros institucijos teisės aktų nustatytais atvejais ir tvarka privalo informuoti priežiūros instituciją apie atstovybės įregistravimą juridinių asmenų registre ir duomenų, kurie buvo pateikti leidimui užsienio banko atstovybės veiklai gauti, pasikeitimus.
 
@@ -2540,6 +2554,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2228, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10342
 
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 83, 85, 86, 87 straipsnių pakeitimo ir Įstatymo papildymo 85-1 straipsniu įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2959, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11331
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 9, 10, 19 ir 22 straipsnių pakeitimo įstatymas
 
 1 straipsnis. Įstatymo paskirtis
 
