@@ -4,7 +4,7 @@ identifier: "TAR.4A05AB3730DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-10"
-last_updated: "2018-08-01"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A05AB3730DD"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2018-08-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2022-11-30
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
 
@@ -348,7 +348,11 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 
 8. Panaikinus licencijos galiojimą, ne vėliau kaip per 2 mėnesius mokėjimo įstaigos organai privalo priimti sprendimą likviduoti ar reorganizuoti mokėjimo įstaigą arba priimti sprendimą pakeisti veiklos rūšį ir atlikti atitinkamus įstatų, pavadinimo ir kitus reikiamus pakeitimus, susijusius su veiklos rūšies pakeitimu.
 
-9. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą priežiūros institucija skelbia savo interneto svetainėje ir pateikia šią informaciją Juridinių asmenų registro tvarkytojui. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą, įskaitant licencijos galiojimo panaikinimo ar sustabdymo priežastis, priežiūros institucija taip pat praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 15 straipsnio 4 ir 5 dalyse, nustatyta tvarka.
+9. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą priežiūros institucija skelbia savo interneto svetainėje. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą, įskaitant licencijos galiojimo panaikinimo ar sustabdymo priežastis, priežiūros institucija praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 15 straipsnio 4 ir 5 dalyse, nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2968, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11349
 
 III SKYRIUS
 
@@ -998,7 +1002,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 Lietuvos Respublikos
 
@@ -1075,4 +1079,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 
 Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymo Nr. XIII-1093 1 ir 2 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2968, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11349
+
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 8 straipsnio pakeitimo įstatymas
+
+part_64c05fba4ffc489eaa5dd6f26890429a_end
 
