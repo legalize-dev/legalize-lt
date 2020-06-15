@@ -4,7 +4,7 @@ identifier: "TAR.DE0B1FF26D01"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2020-04-01"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2020-04-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
 
@@ -274,7 +274,11 @@ KREDITO UNIJOS STEIGIMAS IR LICENCIJAVIMAS
 
 2) steigiama kredito unija neatitinka šio straipsnio 7 dalyje nustatytų reikalavimų.
 
-9. Apie priimtą sprendimą dėl licencijos išdavimo pranešama Juridinių asmenų registro tvarkytojui Juridinių asmenų registro nuostatuose nustatyta tvarka ir paskelbiama priežiūros institucijos interneto svetainėje.
+9. Apie priimtą sprendimą dėl licencijos išdavimo paskelbiama priežiūros institucijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
 
 10. Kredito unija turi teisę pradėti teikti finansines paslaugas tik gavusi licenciją ir įregistruota Juridinių asmenų registre arba, jeigu licencija išduodama ne steigiamai kredito unijai, – tik gavusi licenciją ir įregistravusi atitinkamus pakeitimus Juridinių asmenų registre.
 
@@ -296,7 +300,11 @@ KREDITO UNIJOS STEIGIMAS IR LICENCIJAVIMAS
 
 5) kredito unija, kai buvo įregistruota Juridinių asmenų registre arba, jeigu licencija buvo išduota ne steigiamai kredito unijai, – kai įregistravo atitinkamus pakeitimus Juridinių asmenų registre, netapo centrinės kredito unijos nare arba pasibaigus jos narystei vienoje centrinėje kredito unijoje netapo kitos centrinės kredito unijos nare.
 
-2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama kredito unijai ir Juridinių asmenų registro tvarkytojui Juridinių asmenų registro nuostatuose nustatyta tvarka ir paskelbiama priežiūros institucijos interneto svetainėje.
+2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama kredito unijai ir paskelbiama priežiūros institucijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
 
 3. Priežiūros institucijos sprendimas atšaukti licenciją turi būti motyvuotas.
 
@@ -2089,4 +2097,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 4, 5, 14, 21, 25 ir 29 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
+
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 7 ir 8 straipsnių pakeitimo įstatymas
 
