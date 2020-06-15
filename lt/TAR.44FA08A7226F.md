@@ -4,7 +4,7 @@ identifier: "TAR.44FA08A7226F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-14"
-last_updated: "2019-08-01"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymas
 
-Suvestinė redakcija nuo 2019-08-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 98-2478, i. k. 0971010ISTAVIII-450
 
@@ -278,7 +278,11 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 1. Formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą gali vykdyti juridiniai asmenys, kitos juridinio asmens statuso neturinčios kitos valstybės narės organizacijos ir jų padaliniai, įsteigti Lietuvos Respublikoje, arba fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, turintys formaliojo profesinio mokymo licenciją (toliau – licencija), kuri suteikia teisę vykdyti Licencijų registre juridiniam ar fiziniam asmeniui įrašytas formaliojo profesinio mokymo programas ar jų modulius.
 
-2. Licencijas išduoda, atsisako jas išduoti, licencijų duomenis tikslina, licencijų galiojimą sustabdo, galiojimo sustabdymą panaikina ir galiojimą panaikina, licencijos dublikatą išduoda Švietimo, mokslo ir sporto ministerija. Formaliojo profesinio mokymo licencijavimo taisykles tvirtina Vyriausybė.
+2. Licencijas išduoda, papildo, atsisako jas išduoti, licencijų duomenis patikslina, licencijų galiojimą sustabdo, galiojimo sustabdymą panaikina ir galiojimą panaikina Švietimo, mokslo ir sporto ministerija. Duomenys apie licencijų išdavimą, papildymą, patikslinimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą perduodami Licencijų registrui šio registro nuostatuose nustatyta tvarka. Formaliojo profesinio mokymo licencijavimo taisykles tvirtina Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
 
 3. Fiziniams ir juridiniams asmenims, kitoms juridinio asmens statuso neturinčioms kitos valstybės narės organizacijoms bei jų padaliniams, norintiems gauti licenciją vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą, keliami šie reikalavimai:
 
@@ -292,7 +296,11 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 5. Sprendimas dėl licencijos išdavimo ar motyvuotas atsisakymas ją išduoti turi būti pateikiamas fiziniam ar juridiniam asmeniui, kitoms juridinio asmens statuso neturinčioms kitos valstybės narės organizacijoms ir jų padaliniams ne vėliau kaip per 20 darbo dienų nuo paraiškos (prašymo) gavimo dienos. Nustačiusi, kad pateikti ne visi reikiami dokumentai, pateikti dokumentai netinkamai įforminti, dokumentuose yra klaidingų ir (ar) netikslių duomenų, Švietimo, mokslo ir sporto ministerija per 5 darbo dienas nuo dokumentų gavimo dienos apie tai informuoja siekiantį gauti (papildyti, patikslinti) licenciją fizinį ar juridinį asmenį, juridinio asmens statuso neturinčias valstybės narės organizacijas bei jų padalinius ir nustato 20 darbo dienų terminą trūkumams pašalinti. Jeigu per šį terminą trūkumai nepašalinami, Švietimo, mokslo ir sporto ministerija atsisako išduoti licenciją. Terminas licencijai išduoti skaičiuojamas nuo visų tinkamai įformintų dokumentų ir informacijos pateikimo dienos.
 
-6. Už licencijos išdavimą, papildymą, patikslinimą ar licencijos dublikato išdavimą turi būti sumokėta Vyriausybės nustatyto dydžio valstybės rinkliava. Valstybės rinkliava sumokama iki švietimo, mokslo ir sporto ministro sprendimo dėl licencijos išdavimo, papildymo, patikslinimo ar licensijos dublikato išdavimo priėmimo.
+6. Už licencijos išdavimą, papildymą ar patikslinimą turi būti sumokėta Vyriausybės nustatyto dydžio valstybės rinkliava. Valstybės rinkliava sumokama iki švietimo, mokslo ir sporto ministro sprendimo dėl licencijos išdavimo, papildymo ar patikslinimo priėmimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
 
 7. Licencija neišduodama, jeigu:
 
@@ -336,7 +344,11 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 7) mirus licencijos turėtojui – fiziniam asmeniui.
 
-12. Švietimo, mokslo ir sporto ministro nustatyta tvarka per 20 darbo dienų nuo šio straipsnio 11 dalyje nurodytų aplinkybių paaiškėjimo dienos priimamas sprendimas panaikinti licenciją ir apie tai pranešama Juridinių asmenų registro tvarkytojui, jeigu profesinio mokymo teikėjas yra juridinis asmuo, – Studijų, mokymo programų ir kvalifikacijų registro tvarkytojui, profesinio mokymo įstaigai, kitam profesinio mokymo teikėjui arba kitos valstybės narės organizacijai ar jos padaliniui, įsteigtam Lietuvos Respublikoje.
+12. Švietimo, mokslo ir sporto ministro nustatyta tvarka per 20 darbo dienų nuo šio straipsnio 11 dalyje nurodytų aplinkybių paaiškėjimo dienos priimamas sprendimas panaikinti licenciją ir apie tai pranešama Licencijų registrui, profesinio mokymo įstaigai, kitam profesinio mokymo teikėjui arba kitos valstybės narės organizacijai ar jos padaliniui, įsteigtam Lietuvos Respublikoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
 
 13. Gavęs licenciją vykdyti profesinį mokymą ir su profesiniu mokymu susijusią veiklą, profesinio mokymo teikėjas Švietimo, mokslo ir sporto ministerijai ar švietimo, mokslo ir sporto ministro įgaliotoms institucijoms šio įstatymo ir kitų teisės aktų nustatyta tvarka privalo teikti ir leisti tikrinti informaciją, susijusią su išduota licencija vykdyti profesinį mokymą ir (ar) su profesiniu mokymu susijusią veiklą.
 
@@ -1235,6 +1247,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 10, 12, 13, 14, 15, 17, 18, 19, 20, 22, 23, 25, 26, 27, 31, 32, 36, 40 ir 41 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
+
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 14 straipsnio pakeitimo įstatymas
 
 231 straipsnis. Vidaus reikalų ministerijos ir vidaus reikalų ministro įgaliojimai
 
