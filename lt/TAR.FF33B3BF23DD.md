@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2020-05-01"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -1771,7 +1771,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
 
-part_da02674392bc4bfaa92e527c1c18bf38_end
+part_8e4f518f7d3f47e3ba671d2af3af6c4b_end
 
 Pakeitimai:
 
@@ -3083,7 +3083,11 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 10. Licencija išduodama neterminuotam laikui.
 
-11. Valstybinė vaistų kontrolės tarnyba apie licencijų išdavimą, patikslinimą, papildymą, pakeitimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ar licencijos galiojimo panaikinimą praneša Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka ir Farmacinės veiklos licencijavimo taisyklėse nurodytus duomenis paskelbia savo interneto svetainėje ne vėliau kaip kitą darbo dieną nuo licencijos išdavimo ar atitinkamo Valstybinės vaistų kontrolės tarnybos sprendimo priėmimo dienos.
+11. Valstybinė vaistų kontrolės tarnyba Farmacinės veiklos licencijavimo taisyklėse nurodytus duomenis apie licencijų išdavimą, patikslinimą, papildymą, pakeitimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ar licencijos galiojimo panaikinimą paskelbia savo interneto svetainėje ne vėliau kaip kitą darbo dieną nuo licencijos išdavimo ar atitinkamo Valstybinės vaistų kontrolės tarnybos sprendimo priėmimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2963, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11338
 
 12. Už juridinio asmens pasirengimo vykdyti farmacinę veiklą teisės aktų nustatyta tvarka vertinimą, taip pat licencijos išdavimą mokama nustatyto dydžio valstybės rinkliava.
 
