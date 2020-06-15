@@ -4,7 +4,7 @@ identifier: "TAR.AB7AFE2F35B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2020-05-30"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2020-05-30 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-09-02
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
 
@@ -1344,7 +1344,11 @@ INFORMACIJOS APIE SANDORIUS PASLAUGŲ TEIKĖJŲ LICENCIJAVIMAS
 
 3. Priežiūros institucija turi teisę reikalauti, kad būtų pateikta papildomų duomenų ar paaiškinimų. Šiuo atveju prašymo nagrinėjimo terminas skaičiuojamas nuo paskutinių dokumentų ar duomenų pateikimo dienos.
 
-4. Apie licencijos išdavimą, jos galiojimo sustabdymą arba panaikinimą priežiūros institucija praneša Juridinių asmenų registro tvarkytojui ir Europos vertybinių popierių ir rinkų institucijai ir paskelbia priežiūros institucijos interneto svetainėje.
+4. Apie licencijos išdavimą, jos galiojimo sustabdymą arba panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai ir paskelbia priežiūros savo interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2964, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11343
 
 80 straipsnis. Atsisakymo išduoti licenciją pagrindai
 
@@ -1390,11 +1394,7 @@ Priežiūros institucija turi teisę atsisakyti išduoti informacijos apie sando
 
 4. Konsoliduotos informacijos apie sandorius skelbimo subjektas privalo nustatyti tinkamą veiklos organizavimo politiką ir procedūras, skirtas informacijai, paskelbtai viešai pagal Reglamento (ES) Nr. 600/2014 10 ir 21 straipsniuose nustatytus reikalavimus, rinkti, konsoliduoti šią informaciją į nepertraukiamą nuolat atnaujinamą elektroninių duomenų srautą, taip pat sudaryti sąlygas kitiems asmenims viešai naudotis informacija įprastomis komercinėmis sąlygomis ir kuo mažiau nukrypstant nuo realiojo laiko.
 
-TAR pastaba. 85 straipsnio 4, 5 ir 6 dalys įsigalioja 2019 m. rugsėjo 3 d.
-
 5. Konsoliduotos informacijos apie sandorius skelbimo subjektas privalo sudaryti nediskriminacines galimybes kitiems asmenims greitai ir nemokamai naudotis šio straipsnio 4 dalyje nurodyta informacija praėjus ne mažiau kaip 15 minučių nuo jos paskelbimo momento. Ši informacija turi būti viešai skelbiama rinkoje įprastu būdu, kad būtų lengvai prieinama ir patogi naudoti kitiems rinkos dalyviams.
-
-TAR pastaba. 85 straipsnio 4, 5 ir 6 dalys įsigalioja 2019 m. rugsėjo 3 d.
 
 6. Šio straipsnio 4 dalyje nurodytą viešai skelbiamą informaciją sudaro šie duomenys:
 
@@ -1413,8 +1413,6 @@ TAR pastaba. 85 straipsnio 4, 5 ir 6 dalys įsigalioja 2019 m. rugsėjo 3 d.
 7) prekybos vietos, kurioje buvo įvykdytas sandoris, kodas. Jeigu sandorio įvykdymo vieta yra sisteminę prekybą vykdanti finansų maklerio įmonė, nurodomas kodas SI, kitais atvejais – kodas OTC;
 
 8) specialios sąlygos, jeigu jos buvo taikytos sandoriui.
-
-TAR pastaba. 85 straipsnio 4, 5 ir 6 dalys įsigalioja 2019 m. rugsėjo 3 d.
 
 7. Konsoliduotos informacijos apie sandorius skelbimo subjektas privalo konsoliduoti informaciją apie techniniuose standartuose nurodytas finansines priemones, gautą iš visų reguliuojamų rinkų, daugiašalių prekybos sistemų, organizuotos prekybos sistemų ir patvirtintų informacijos apie sandorius teikimo subjektų.
 
@@ -2458,7 +2456,11 @@ FINANSŲ MAKLERIO ĮMONĖS LICENCIJA
 
 4. Apie sprendimą dėl licencijos išdavimo priežiūros institucija praneša paraišką pateikusiai įmonei ne vėliau kaip per 6 mėnesius nuo visų reikalingų dokumentų ir informacijos pateikimo.
 
-5. Apie licencijos išdavimą ar galiojimo panaikinimą priežiūros institucija praneša Juridinių asmenų registro tvarkytojui ir Europos vertybinių popierių ir rinkų institucijai ir apie tai paskelbia priežiūros institucijos interneto svetainėje.
+5. Apie licencijos išdavimą ar galiojimo panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai ir apie tai paskelbia savo interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2964, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11343
 
 8 straipsnis. Įspėjimas apie galimą licencijos galiojimo sustabdymą ir įspėjimo apie galimą sustabdymą panaikinimas, licencijos galiojimo sustabdymas ir sustabdymo panaikinimas, licencijos galiojimo panaikinimas
 
@@ -3927,6 +3929,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 30, 62-1, 67 straipsnių ir priedo pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2964, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11343
+
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 6 ir 79 straipsnių pakeitimo įstatymas
 
 411 straipsnis. Dalyvavimo politika
 
