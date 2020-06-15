@@ -4,7 +4,7 @@ identifier: "TAR.8447F63760E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-18"
-last_updated: "2020-01-01"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2021-10-08
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
 
@@ -762,7 +762,11 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 3. Steigiama draudimo ar perdraudimo įmonė gali būti įregistruota Juridinių asmenų registre, o jei veiklos licencija išduodama ne steigiamai draudimo įmonei, atitinkami pakeitimai Juridinių asmenų registre gali būti padaryti tik po veiklos licencijos išdavimo.
 
-4. Priežiūros institucija privalo Juridinių asmenų registro nuostatuose nustatyta tvarka pranešti Juridinių asmenų registrui apie veiklos licencijos išdavimą, galiojimo sustabdymą ar panaikinimą.
+4. Neteko galios nuo 2020-06-15
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-2961, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11334
 
 5. Apie draudimo ar perdraudimo įmonės įregistravimo Juridinių asmenų registre faktą Juridinių asmenų registro tvarkytojas per 5 darbo dienas privalo pranešti priežiūros institucijai.
 
@@ -4573,6 +4577,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2232, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10349
 
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 143, 147, 148, 154 ir 157 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2961, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11334
+
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 13 straipsnio pakeitimo įstatymas
 
 224 straipsnis. Piniginis vienetas
 
