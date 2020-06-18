@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2020-06-01"
+last_updated: "2020-06-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-06-01 iki 2020-06-17
+Suvestinė redakcija nuo 2020-06-18 iki 2020-06-21
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -990,7 +990,7 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 5) importuoti elektros energiją iš valstybių, kurios nėra valstybės narės;
 
-6) vykdyti nepriklausomo elektros energijos tiekimo veiklą.
+6) vykdyti nepriklausomo elektros energijos tiekimo veiklą;
 
 2. Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles tvirtina Vyriausybė, vadovaudamasi šiame įstatyme, Energetikos įstatyme ir Atsinaujinančių išteklių energetikos įstatyme nustatytais reikalavimais.
 
@@ -1778,9 +1778,11 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 33 straipsnis. Perdavimo tinklų plėtra ir įgaliojimai priimti sprendimus dėl investavimo
 
-1. Perdavimo sistemos operatorius ne vėliau kaip iki kiekvienų metų liepos 1 dienos Tarybai pateikia 10 metų perdavimo tinklų plėtros planą, grindžiamą esama ir numatoma elektros energijos pasiūla ir paklausa elektros energetikos sistemoje. Prieš teikiant tinklų plėtros planą Tarybai, perdavimo sistemos operatoriaus sprendimu vykdomos konsultacijos su kompetentingomis valstybės institucijomis ir suinteresuotais tinklų naudotojais. Tinklų plėtros plane nurodomos veiksmingos priemonės, skirtos sistemos pajėgumų pakankamumui ir tiekimo saugumui užtikrinti.
+1. Perdavimo sistemos operatorius, vadovaudamasis šio įstatymo 18 straipsnyje nustatytais reikalavimais, parengia ir ne vėliau kaip iki kiekvienų metų liepos 1 dienos Tarybai pateikia 10 metų perdavimo tinklų plėtros planą, kuriame pateikiamas esamos ir numatomos elektros energijos pasiūlos ir paklausos vertinimas, atlikto tikimybinio elektros energetikos sistemos adekvatumo vertinimo išvados. Prieš teikiant tinklų plėtros planą Tarybai, perdavimo sistemos operatoriaus sprendimu su kompetentingomis valstybės institucijomis ir suinteresuotais tinklų naudotojais vykdomos viešos konsultacijos, kurių metu pristatomos ir tikimybinio elektros energetikos sistemos adekvatumo vertinimo išvados. Tinklų plėtros plane nurodomos veiksmingos priemonės, skirtos sistemos pajėgumų pakankamumui ir tiekimo saugumui užtikrinti.
 
-TAR pastaba. Pirmą kartą po įstatymo Nr. XIII-1970 įsigaliojimo (2019-07-01) teikiant 33 straipsnio 1 dalyje nurodytą perdavimo tinklų plėtros planą, perdavimo tinklų plėtros planas pateikiamas Valstybinei energetikos reguliavimo tarybai, jeigu perdavimo sistemos operatorius šio plano nebuvo pateikęs Valstybinei kainų ir energetikos kontrolės komisijai iki šio įstatymo įsigaliojimo.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
 
 2. Šio straipsnio 1 dalyje nurodytame tinklų plėtros plane visų pirma nurodoma:
 
@@ -1788,7 +1790,7 @@ TAR pastaba. Pirmą kartą po įstatymo Nr. XIII-1970 įsigaliojimo (2019-07-01)
 
 2) visos investicijos, dėl kurių jau priimtas sprendimas, ir naujos investicijos, kurios bus reikalingos per planuojamą 10 metų laikotarpį;
 
-3) visų investicinių projektų planuojami įgyvendinimo terminai.
+3) visų investicinių projektų planuojami įgyvendinimo terminai;
 
 3. Rengdamas tinklų plėtros planą, perdavimo sistemos operatorius daro pagrįstas prielaidas apie elektros energijos gamybos, tiekimo, vartojimo ir tarpsisteminių elektros energijos srautų tendencijas, atsižvelgdamas į regioniniams ir visos Europos Sąjungos tinklams skirtų investicijų planus.
 
@@ -3508,7 +3510,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 
 4) veiksmingos priemonės, skirtos tiekimo saugumui, patikimumui ir teikiamų paslaugų kokybei užtikrinti;
 
-5) skirstomųjų tinklų operatoriaus pagrįstos prognozės, kuriomis remiantis buvo sudarytas planas, ir jų prielaidos.
+5) skirstomųjų tinklų operatoriaus pagrįstos prognozės, kuriomis remiantis buvo sudarytas planas, ir jų prielaidos;
 
 3. Rengdamas 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, skirstomųjų tinklų operatorius įvertina prognozes apie elektros energijos gamybos, tiekimo ir vartojimo tendencijas, atsižvelgdamas į valstybės politikos kryptis, pagrįstas elektros energetikos sektoriaus veiklos reguliavimo bendraisiais principais.
 
