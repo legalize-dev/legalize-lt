@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2020-01-30"
+last_updated: "2020-06-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2020-01-30 iki 2020-06-19
+Suvestinė redakcija nuo 2020-06-20 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -2157,6 +2157,12 @@ Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
 
 3. Išieškojimas remiamo projekto vykdymo laikotarpiu ir projekto veiklos privalomojo tęstinumo laikotarpiu, nustatytu Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse, negali būti nukreipiamas į lėšas, gautas kaip Europos Sąjungos ar kitos tarptautinės finansinės paramos ar bendrojo finansavimo lėšos remiamam projektui vykdyti. Šis draudimas išieškoti netaikomas, kai remiamo projekto vykdymą kontroliuojančių institucijų iniciatyva lėšos išieškomos, nes buvo panaudotos pažeidžiant Europos Sąjungos, Lietuvos Respublikos teisės aktus ar tarptautines sutartis arba sutartis dėl šių lėšų suteikimo.
 
+4. Išieškojimas negali būti nukreipiamas į pinigines lėšas, kurios priklauso skolininkui kaip valstybės ar savivaldybių parama ir kitos išmokos ar kompensacijos, skiriamos dėl ekstremaliosios situacijos ar karantino.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3034, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13472
+
 Straipsnio pakeitimai:
 
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
@@ -2645,7 +2651,7 @@ Nr. XII-1571, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05018
 
 6) dividendų;
 
-7) pensijų, išskyrus mokamas pagal Lietuvos Respublikos šalpos pensijų įstatymą (toliau – Šalpos pensijų įstatymas).
+7) pensijų, išskyrus mokamas pagal Lietuvos Respublikos šalpos pensijų įstatymą (toliau – Šalpos pensijų įstatymas);
 
 Straipsnio punkto pakeitimai:
 
@@ -3147,11 +3153,13 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 5. Tais atvejais, kai yra laikinai apribojamos nuosavybės teisės į daiktą, priklausantį bendrosios nuosavybės teise, gali būti areštuota tik asmeniui, kuriam taikomos laikinosios apsaugos priemonės, priklausanti turto dalis. Kai turto dalis bendrojoje nuosavybėje nenustatyta, laikinai, kol bus nustatyta šio asmens turto dalis bendrojoje nuosavybėje, gali būti areštuotas visas turtas.
 
-6. Areštavus lėšas, esančias kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, leidžiama su jomis atlikti tik tas operacijas, kurios nurodytos teismo nutartyje. Teismas, leisdamas atlikti tam tikras operacijas, nurodo antstoliui nustatyti konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti.
+6. Taikant laikinąsias apsaugos priemones, draudžiama areštuoti lėšas, nurodytas šio Kodekso 668 ir 739 straipsniuose. Areštavus lėšas, esančias kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, leidžiama su jomis atlikti tik tas operacijas, kurios nurodytos teismo nutartyje. Teismas, leisdamas atlikti tam tikras operacijas, nurodo antstoliui nustatyti konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
+
+Nr. XIII-3034, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13472
 
 7. Tais atvejais, kai areštuotos apyvartoje esančios prekės, žaliavos, pusgaminiai, pagaminta produkcija, turto valdytojas turi teisę keisti šio turto sudėtį ir formą tik tuo atveju, jei nemažės jų bendra vertė ir jei teismo nutartyje nėra nustatyta kitaip.
 
