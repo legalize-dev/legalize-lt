@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2019-12-12"
+last_updated: "2020-06-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.03.17)
 
-Suvestinė redakcija nuo 2019-12-12 iki 2020-06-19
+Suvestinė redakcija nuo 2020-06-20 iki 2020-06-22
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
 
@@ -245,11 +245,23 @@ Nr. XII-953, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09154
 
 5. Prokurorų padarytiems įstatymų pažeidimams, tarnybiniams nusižengimams, prokuroro vardą žeminantiems poelgiams, taip pat kitiems Prokurorų etikos kodekso pažeidimams nagrinėti sudaroma Prokurorų etikos komisija (toliau – Etikos komisija).
 
-6. Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Etikos ir Atestacijos komisijos sudaromos trejiems metams iš septynių narių. Į kiekvieną iš šių komisijų du narius prokurorus pasiūlo kolegija, du narius prokurorus – generalinis prokuroras, iš kurių vienas turi būti siūlomas prokurorų profesinių sąjungų teikimu, po vieną nepriekaištingos reputacijos asmenį – Respublikos Prezidentas, Seimo Pirmininkas ir Ministras Pirmininkas.
+6. Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Etikos ir Atestacijos komisijos sudaromos trejiems metams iš septynių narių. Asmuo į tas pačias pareigas šiose komisijose gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Į kiekvieną iš šių komisijų du narius prokurorus pasiūlo kolegija, du narius prokurorus – generalinis prokuroras, iš kurių vienas turi būti siūlomas prokurorų profesinių sąjungų teikimu, po vieną nepriekaištingos reputacijos asmenį – Respublikos Prezidentas, Seimo Pirmininkas ir Ministras Pirmininkas.
+
+TAR pastaba. 10 straipsnio 6 dalies nuostatos dėl Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Etikos, Atestacijos ir Egzaminų komisijų sudarymo tvarkos taikomos sudarant šias komisijas po įstatymo Nr. XIII-3029 įsigaliojimo (2020-06-20).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
 
 7. Pretendentų į prokurorus profesiniam pasirengimui įvertinti sudaroma Pretendentų egzaminų komisija (toliau – Egzaminų komisija).
 
-8. Egzaminų komisija sudaroma trejiems metams iš septynių narių. Po du prokurorus pasiūlo generalinis prokuroras ir kolegija. Po vieną nepriekaištingos reputacijos socialinių mokslų srities teisės krypties mokslininką pasiūlo Respublikos Prezidentas, Seimo Pirmininkas ir Ministras Pirmininkas.
+8. Egzaminų komisija sudaroma trejiems metams iš septynių narių. Asmuo į tas pačias pareigas šioje komisijoje gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Po du prokurorus pasiūlo generalinis prokuroras ir kolegija. Po vieną nepriekaištingos reputacijos socialinių mokslų srities teisės krypties mokslininką pasiūlo Respublikos Prezidentas, Seimo Pirmininkas ir Ministras Pirmininkas.
+
+TAR pastaba. 10 straipsnio 8 dalies nuostatos dėl Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Etikos, Atestacijos ir Egzaminų komisijų sudarymo tvarkos taikomos sudarant šias komisijas po įstatymo Nr. XIII-3029 įsigaliojimo (2020-06-20).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
 
 9. Asmuo gali būti tik vienos iš šiame straipsnyje nurodytų komisijų narys.
 
@@ -651,15 +663,17 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 
 5. Asmuo, nesutikdamas su Egzaminų komisijos sprendimu, gali jį apskųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-6. Asmenys į prokuroro pareigas atrenkami iš Karjeros registro (toliau – Registras), kuris tvarkomas generalinio prokuroro nustatyta tvarka.
+6. Asmenys į prokuroro pareigas atrenkami iš Karjeros registro (toliau – Registras), kuris tvarkomas generalinio prokuroro nustatyta tvarka. Prokuratūros interneto svetainėje skelbiami ketinančių dalyvauti atrankoje pretendentų į prokurorus sąrašai, kuriuose nurodomas kiekvieno pretendento vardas, pavardė ir einamos pareigos.
 
-7. Prokurorų atrankos komisija ar Vyriausiųjų prokurorų atrankos komisija (toliau abi komisijos vadinamos Atrankos komisija), įvertinusi kiekvieno pretendento dalykines, asmenines savybes ir organizacinius gebėjimus ir remdamasi generalinio prokuroro nustatytais vertinimo kriterijais, pateikia kandidatų sąrašą.
+7. Prokurorų atrankos komisija ar Vyriausiųjų prokurorų atrankos komisija (toliau abi komisijos vadinamos Atrankos komisija), įvertinusi kiekvieno pretendento dalykines, asmenines savybes ir organizacinius gebėjimus ir remdamasi generalinio prokuroro nustatytais vertinimo kriterijais, pateikia savo išvadas. Atrankos komisijos išvados, kuriose nurodomi duomenys apie atrankoje dalyvavusius pretendentus į prokurorus ir tinkamiausius kandidatus (vardai, pavardės ir einamos pareigos, tinkamiausių kandidatų vertinimo rezultatai ir motyvai), skelbiamos prokuratūros interneto svetainėje.
 
 8. Į pareigas asmenį įsakymu skiria generalinis prokuroras, atsižvelgdamas į Atrankos komisijos išvadas, kurios generalinio prokuroro nesaisto.
 
-9. Prieš pradėdamas eiti prokuroro pareigas, asmuo turi būti pasirašytinai supažindintas su Kompetencijos nuostatais.
+9. Atrankoje dalyvavęs pretendentas į prokurorus turi teisę per septynias dienas po Atrankos komisijos išvadų paskelbimo pateikti Vilniaus apygardos administraciniam teismui skundą dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų į prokurorus įvertinimui. Vilniaus apygardos administracinis teismas, priėmęs skundą, turi teisę sustabdyti prokuroro skyrimo procedūrą. Skundą dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų į prokurorus įvertinimui, Vilniaus apygardos administracinis teismas turi išnagrinėti ne vėliau kaip per trisdešimt dienų nuo skundo gavimo dienos. Vilniaus apygardos administracinis teismas, pripažinęs, kad atrankos metu buvo padaryta esminių procedūrinių pažeidimų, turėjusių įtakos objektyviam atrankoje dalyvavusių pretendentų į prokurorus įvertinimui, gali įpareigoti Atrankos komisiją iš naujo įvertinti atrankoje dalyvavusį ir skundą pateikusį pretendentą į prokurorus arba Atrankos komisijos išvadą panaikinti. Šiuo atveju atranka atliekama iš naujo. Šis Vilniaus apygardos administracinio teismo sprendimas yra galutinis ir neskundžiamas.
 
-10. Jei iki tarnybos prokuroru pradžios paaiškėja aplinkybių, dėl kurių paskirtas į prokuroro pareigas asmuo negali jų eiti, įsakymas dėl jo paskyrimo į prokuroro pareigas panaikinamas.
+10. Prieš pradėdamas eiti prokuroro pareigas, asmuo turi būti pasirašytinai supažindintas su Kompetencijos nuostatais.
+
+11. Jei iki tarnybos prokuroru pradžios paaiškėja aplinkybių, dėl kurių paskirtas į prokuroro pareigas asmuo negali jų eiti, įsakymas dėl jo paskyrimo į prokuroro pareigas panaikinamas.
 
 Straipsnio pakeitimai:
 
@@ -668,6 +682,10 @@ Nr. IX-1912, 2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
 Nr. X-1661, 2008-07-01, Žin., 2008, Nr. 81-3173 (2008-07-17)
 
 Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
 
 27 straipsnis. Asmens duomenys
 
@@ -1970,6 +1988,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 16-1, 37-2, 37-3, 37-4, 37-5, 37-6, 37-7, 37-8, 37-9 straipsnių ir 2 priedo pakeitimo ir Įstatymo papildymo nauju 37-7 straipsniu įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
+
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 10 ir 26 straipsnių pakeitimo įstatymas
 
 371 straipsnis. Prokuroro delegavimas į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas
 
