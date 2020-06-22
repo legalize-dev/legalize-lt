@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2020-06-18"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-06-18 iki 2020-06-21
+Suvestinė redakcija nuo 2020-06-22 iki 2020-06-25
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -1792,6 +1792,12 @@ Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
 
 3) visų investicinių projektų planuojami įgyvendinimo terminai;
 
+4) investiciniuose projektuose pateikiamos galimos paklausos mažinimo, diegiant ar skatinant diegti energijos vartojimo efektyvumo didinimo priemones perdavimo tinkluose, alternatyvos, siekiant įgyvendinti Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme nurodytą energijos vartojimo efektyvumo didinimo pirmumo principą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+
 3. Rengdamas tinklų plėtros planą, perdavimo sistemos operatorius daro pagrįstas prielaidas apie elektros energijos gamybos, tiekimo, vartojimo ir tarpsisteminių elektros energijos srautų tendencijas, atsižvelgdamas į regioniniams ir visos Europos Sąjungos tinklams skirtų investicijų planus.
 
 4. Taryba dėl perdavimo sistemos operatoriaus pateikto tinklų plėtros plano vykdo skaidrias ir viešas konsultacijas su visais suinteresuotais tinklų naudotojais. Taryba savo interneto svetainėje skelbia konsultacijų rezultatus, visų pirma galimą investicijų į tinklų plėtrą poreikį.
@@ -3511,6 +3517,12 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 4) veiksmingos priemonės, skirtos tiekimo saugumui, patikimumui ir teikiamų paslaugų kokybei užtikrinti;
 
 5) skirstomųjų tinklų operatoriaus pagrįstos prognozės, kuriomis remiantis buvo sudarytas planas, ir jų prielaidos;
+
+6) investiciniuose projektuose pateikiamos galimos paklausos mažinimo, diegiant ar skatinant diegti energijos vartojimo efektyvumo didinimo priemones skirstomuosiuose tinkluose, alternatyvos, siekiant įgyvendinti Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme nurodytą energijos vartojimo efektyvumo didinimo pirmumo principą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 3. Rengdamas 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, skirstomųjų tinklų operatorius įvertina prognozes apie elektros energijos gamybos, tiekimo ir vartojimo tendencijas, atsižvelgdamas į valstybės politikos kryptis, pagrįstas elektros energetikos sektoriaus veiklos reguliavimo bendraisiais principais.
 
