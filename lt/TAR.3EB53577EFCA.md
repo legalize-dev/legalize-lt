@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2020-06-20"
+last_updated: "2020-06-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.03.17)
 
-Suvestinė redakcija nuo 2020-06-20 iki 2020-06-22
+Suvestinė redakcija nuo 2020-06-23 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
 
@@ -39,7 +39,17 @@ BENDROSIOS NUOSTATOS
 
 1. Lietuvos Respublikos prokuratūros įstatymas nustato Lietuvos Respublikos prokuratūros (toliau – prokuratūra) statusą, funkcijas, sandarą, veiklos pagrindus ir kontrolę, darbo organizavimo pagrindus, taip pat Lietuvos Respublikos prokurorų (toliau – prokurorai) statusą, kompetenciją, teises ir pareigas, tarnybos eigą, skatinimo bei tarnybinės atsakomybės sąlygas, darbo užmokestį, socialines garantijas, asmens apsaugos priemonių tvarkymo ir naudojimo sąlygas.
 
-2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo 2 priede.
+2. Šis Įstatymas Europos prokuratūros veiklai Lietuvos Respublikoje taikomas tiek, kiek šios veiklos nereglamentuoja Europos Sąjungos teisės aktai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
+
+3. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo 2 priede.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
 
 Straipsnio pakeitimai:
 
@@ -285,7 +295,11 @@ PROKURORŲ statusas ir kompetencija
 
 11 straipsnis. Prokurorų statusas ir nepriklausomumas
 
-1. Prokuroras yra asmuo, paskirtas į prokuroro pareigas šio Įstatymo nustatyta tvarka. Prokuroro – valstybės pareigūno statusą nustato Lietuvos Respublikos Konstitucija, įstatymai ir tarptautinės sutartys.
+1. Prokuroras yra asmuo, paskirtas į prokuroro pareigas šio Įstatymo nustatyta tvarka. Prokuroro – valstybės pareigūno statusą nustato Lietuvos Respublikos Konstitucija, įstatymai, Europos Sąjungos teisės aktai ir tarptautinės sutartys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
 
 2. Atlikdamas savo funkcijas, prokuroras yra nepriklausomas nuo kitų valstybės valdžios institucijų, pareigūnų, politinių partijų, politinių ir visuomeninių organizacijų ir kitų asmenų ir klauso tik Lietuvos Respublikos Konstitucijos ir įstatymų.
 
@@ -707,7 +721,11 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 
 2) įskaitytas asmens teisinio pedagoginio darbo turint teisės krypties socialinių mokslų daktaro ar habilituoto daktaro laipsnį stažas;
 
-3) įskaitytas asmens tarnybos prokuroru ar darbo teisėju laikas užsienio valstybėje ar tarptautinėse institucijose;
+3) įskaitytas asmens tarnybos prokuroru ar darbo teisėju laikas užsienio valstybėje, Europos Sąjungos ar tarptautinėse institucijose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
 
 4) įskaityti prokurorų tikslinių atostogų laikotarpiai, prokuroro stažuotės, prokuroro kvalifikacijos kėlimo, prokuroro delegavimo į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas, prokuroro dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, prokuroro nepagrįsto nušalinimo nuo pareigų laikotarpiai.
 
@@ -739,9 +757,9 @@ Nr. XII-953, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09154
 
 29 straipsnis. Prokurorams taikomi apribojimai
 
-1. Prokuroras negali eiti kitų renkamų ar skiriamų pareigų ir dirbti kitose įstaigose, įmonėse ar organizacijose, išskyrus mokslinį, pedagoginį darbą, kūrybinę veiklą arba atvejus, kai nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su prokuratūros misija ir tikslais susijusi veikla.
+1. Prokuroras negali eiti kitų renkamų ar skiriamų pareigų ir dirbti kitose įstaigose, įmonėse ar organizacijose, išskyrus mokslinį, pedagoginį darbą, kūrybinę veiklą arba atvejus, kai nustatyta tvarka deleguojamas ar skiriamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su prokuratūros misija ir tikslais susijusi veikla.
 
-2. Prokuroras negali gauti kito atlyginimo, išskyrus prokuroro darbo užmokestį, atlyginimą už kūrybinę veiklą, mokslinį ar pedagoginį darbą, dalyvavimą teisės aktų projektų rengimo grupėse ir komisijose, jei šis darbas neįeina į prokuroro pareigas, išmokas iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų pagal paramos teikimo projektų sutartyse nustatytas sąlygas.
+2. Prokuroras negali gauti kito atlyginimo, išskyrus prokuroro darbo užmokestį, Europos deleguotojo prokuroro darbo užmokestį, atlyginimą už kūrybinę veiklą, mokslinį ar pedagoginį darbą, dalyvavimą teisės aktų projektų rengimo grupėse ir komisijose, jei šis darbas neįeina į prokuroro pareigas, išmokas iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų pagal paramos teikimo projektų sutartyse nustatytas sąlygas.
 
 3. Prokuroras tik generalinio prokuroro sutikimu gali dirbti mokslinį ar pedagoginį darbą, dalyvauti teisės aktų projektų rengimo grupėse ar komisijose, būti nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauti Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose.
 
@@ -752,6 +770,8 @@ Nr. X-1661, 2008-07-01, Žin., 2008, Nr. 81-3173 (2008-07-17)
 Straipsnio pakeitimai:
 
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
+
+Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
 
 30 straipsnis. Prokuroro priesaika
 
@@ -1997,6 +2017,14 @@ Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
 
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 10 ir 26 straipsnių pakeitimo įstatymas
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
+
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 1, 11, 28, 29, 34-1 straipsnių pakeitimo ir Įstatymo papildymo 37-11, 37-12 straipsniais įstatymas
+
 371 straipsnis. Prokuroro delegavimas į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas
 
 1. Prokuroras jo paties sutikimu gali būti deleguojamas į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas arba į kitas Lietuvos Respublikos tarptautinėse sutartyse numatytas pareigas paprastai ne ilgiau kaip trejiems metams, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip.
@@ -2013,9 +2041,13 @@ Nr. XI-338, 2009-07-14, Žin., 2009, Nr. 89-3800 (2009-07-28)
 
 341 straipsnis. Buvusio prokuroro skyrimo į prokuroro pareigas ypatumai
 
-1. Buvęs prokuroras, atleistas iš pareigų savo noru, išrinktas į kitas pareigas arba jo sutikimu perkeltas į kitą darbą, be atrankos, laikantis šiame Įstatyme nustatytos prokuroro skyrimo į pareigas ir atleidimo iš pareigų tvarkos, gali būti paskirtas į tokias pačias ar žemesnes prokuroro pareigas, jeigu nuo tarnybos prokuroru pabaigos nepraėjo penkeri metai. Jeigu į tas pačias laisvas prokuroro pareigas pageidauja būti paskirti keli buvę prokurorai, sprendžiant paskyrimo klausimą taikoma šio Įstatymo 26 straipsnyje nustatyta atrankos tvarka. Atrankoje dalyvauja tik šiame straipsnyje nustatyta tvarka į tarnybą prokuratūroje pageidaujantys grįžti buvę prokurorai.
+1. Buvęs prokuroras, atleistas iš pareigų savo noru, išrinktas į kitas pareigas arba jo sutikimu perkeltas į kitą darbą, be atrankos, laikantis šiame Įstatyme nustatytos prokurorų skyrimo į pareigas ir atleidimo iš pareigų tvarkos, gali būti paskirtas į tokias pačias ar žemesnes prokuroro pareigas, jeigu nuo tarnybos prokuroru pabaigos nepraėjo penkeri metai. Jeigu į tas pačias laisvas prokuroro pareigas pageidauja būti paskirti keli buvę prokurorai, sprendžiant paskyrimo klausimą taikoma šio Įstatymo 26 straipsnyje nustatyta atrankos tvarka. Atrankoje dalyvauja tik šiame straipsnyje nustatyta tvarka į tarnybą prokuratūroje pageidaujantys grįžti buvę prokurorai.
 
-2. Šio straipsnio 1 dalyje nustatyta tvarka buvęs prokuroras negali būti skiriamas į vyriausiojo prokuroro (vyriausiojo prokuroro pavaduotojo) pareigas.
+2. Buvęs prokuroras, atleistas iš pareigų jį paskyrus Europos prokuroru, pateikęs prašymą ne vėliau kaip prieš 20 darbo dienų iki atleidimo iš Europos prokuroro pareigų, be atrankos paskiriamas į tokias pačias ar žemesnes prokuroro pareigas, jeigu jis iš Europos prokuroro pareigų atleistas pasibaigus kadencijai arba savo noru.
+
+3. Buvęs prokuroras, atleistas iš pareigų jį paskyrus Europos prokuroru, be atrankos gali būti paskirtas į tokias pačias ar žemesnes prokuroro pareigas, jeigu iš Europos prokuroro pareigų jis atleistas pasibaigus kadencijai arba savo noru ir nuo atleidimo nepraėjo penkeri metai. Jeigu į tas pačias laisvas prokuroro pareigas pageidauja būti paskirti keli buvę prokurorai, sprendžiant paskyrimo klausimą taikoma šio Įstatymo 26 straipsnyje nustatyta atrankos tvarka. Atrankoje dalyvauja tik šiame straipsnyje nustatyta tvarka į tarnybą prokuratūroje pageidaujantys grįžti buvę prokurorai.
+
+4. Buvęs prokuroras šio straipsnio 1, 2 ir 3 dalyse nustatyta tvarka negali būti skiriamas į vyriausiojo prokuroro ir vyriausiojo prokuroro pavaduotojo pareigas.
 
 Įstatymas papildytas straipsniu:
 
@@ -2024,6 +2056,10 @@ Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
 Straipsnio pakeitimai:
 
 Nr. XII-953, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09154
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
 
 372 straipsnis. Atstovavimas Lietuvos Respublikai Eurojuste
 
@@ -2200,4 +2236,32 @@ Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 Papildyta straipsniu:
 
 Nr. XIII-1902, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00797
+
+3711 straipsnis. Europos prokuroro, Europos deleguotųjų prokurorų įgaliojimai
+
+1. Europos deleguotajam prokurorui, veikiančiam Europos prokuratūros vardu, šis įstatymas su šiame straipsnyje nustatytomis išimtimis taikomas tiek, kiek jo įgaliojimų nereglamentuoja Europos Sąjungos teisės aktai.
+
+2. Europos prokuroras, Europos deleguotasis prokuroras turi prokuroro įgaliojimus veikti visuose teismuose.
+
+3. Europos deleguotajam prokurorui aukštesnysis prokuroras yra tik Europos prokuroras. Europos prokuroro kaip aukštesniojo prokuroro statusą ir proceso veiklą proceso įstatymai ir šis įstatymas reglamentuoja tiek, kiek Europos Sąjungos teisės aktai nenustato kitaip.
+
+4. Europos deleguotojo prokuroro veiksmai ir sprendimai gali būti skundžiami Europos prokurorui ir teismui.
+
+5. Europos Sąjungos teisės aktuose nustatytais atvejais ir tvarka Europos prokuroras gali atlikti Europos deleguotojo prokuroro funkcijas Lietuvos Respublikoje. Šiuo atveju Europos prokuroras turi tokius pačius įgaliojimus kaip ir Europos deleguotasis prokuroras.
+
+6. Europos prokuroro ir Europos deleguotojo prokuroro įgaliojimai sietini su nusikalstamų veikų tyrimu ir asmenų baudžiamuoju persekiojimu pagal Reglamente (ES) 2017/1939 nustatytą kompetenciją.
+
+Papildyta straipsniu:
+
+Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
+
+3712 straipsnis. Europos deleguotųjų prokurorų tarnybos sąlygos ir tvarka
+
+1. Šis Įstatymas Europos deleguotųjų prokurorų tarnybos sąlygas ir tvarką reglamentuoja tiek, kiek jų nenustato Europos Sąjungos teisės aktai.
+
+2. Europos deleguotajam prokurorui darbo užmokestį proporcingai dirbtam laikui moka Europos prokuratūra.
+
+Papildyta straipsniu:
+
+Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
 
