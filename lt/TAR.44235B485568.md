@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2020-06-01"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-06-01 iki 2020-06-25
+Suvestinė redakcija nuo 2020-06-26 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -103,7 +103,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
-14. Energija – elektros energija ir (ar) šilumos energija. Energija yra laikoma preke. Šio įstatymo tikslais energijai priskiriamos gamtinės dujos ir centralizuotai tiekiamos suskystintos naftos dujos.
+14. Energija – elektros energija, šilumos energija ir (ar) vėsumos energija. Energija yra laikoma preke. Šio įstatymo tikslais energijai priskiriamos gamtinės dujos ir centralizuotai tiekiamos suskystintos naftos dujos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3016, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13233
 
 15. Energijos ištekliai – gamtiniai ištekliai ir (ar) jų perdirbimo produktai, naudojami energijai gaminti ar transporto sektoriuje.
 
@@ -2048,6 +2052,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 3, 8, 13-1, 19, 27 straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3016, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13233
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2 straipsnio pakeitimo įstatymas
 
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
