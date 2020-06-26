@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2020-06-22"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-06-22 iki 2020-06-25
+Suvestinė redakcija nuo 2020-06-26 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -68,7 +68,11 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 5. Elektros energetikos įmonė – asmuo, kuris verčiasi bent viena iš šių veiklos rūšių: elektros energijos gamybos, perdavimo, skirstymo, tiekimo veikla ir yra atsakingas už susijusius su šių rūšių veikla komercinius, techninius ir (ar) eksploatavimo įpareigojimus.
 
-6. Elektros energetikos sektorius – valstybės energetikos sektoriaus dalis, susijusi su elektros energijos gamyba, perdavimu, skirstymu, tiekimu, vartojimu ir prekyba elektros energija.
+6. Elektros energetikos sektorius – valstybės energetikos sektoriaus dalis, apimanti elektros energijos gamybą, perdavimą, skirstymą, tiekimą, paklausos telkimą, vartojimą ir prekybą elektros energija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 7. Elektros energetikos sistema – visuma tarpusavyje suderintu režimu veikiančių elektros įrenginių, skirtų elektros energijai gaminti, perduoti ir skirstyti.
 
@@ -126,23 +130,39 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-141. Elektros energijos paklausos valdymo paslaugos teikėjas – asmuo, atsakingas už elektros energijos vartotojų grupės faktinės maksimalios leistinos naudoti galios atitiktį tų vartotojų ir perdavimo sistemos ar skirstomųjų tinklų operatoriaus nustatytai leistinų naudoti galių sumai.
+141. Neteko galios nuo 2020-06-26
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
-15. Elektros energijos rinka – asmenų, kurie verčiasi elektros energijos gamybos, perdavimo, skirstymo ir tiekimo veikla, santykių visuma, kuri apima didmeninę ir mažmeninę prekybą elektros energija ir sisteminių paslaugų teikimą ir yra paremta teisėtumo ir lygiateisiškumo principais, taikant reguliuojamojo trečiųjų asmenų dalyvavimo principą elektros energijai persiųsti.
+142. Elektros energijos paklausos telkimas (toliau – paklausos telkimas) – asmens veikla, apimanti jo paties ir (arba) grupės kitų vartotojų elektros energijos paklausos pokyčių ir (arba) elektros energijos gamybos derinimą, siekiant nesuvartotos arba pagamintos elektros energijos kiekį ir (arba) nesuvartotą arba patiektą galią parduoti, pirkti arba pateikti aukcionui elektros energijos, balansavimo ir rezervinės galios rinkose.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+
+15. Elektros energijos rinka – asmenų, kurie verčiasi elektros energijos gamybos, perdavimo, skirstymo, tiekimo ir paklausos telkimo veikla, santykių visuma, kuri apima didmeninę ir mažmeninę prekybą elektros energija ir sisteminių paslaugų teikimą ir yra paremta teisėtumo ir lygiateisiškumo principais, taikant reguliuojamojo trečiųjų asmenų dalyvavimo principą elektros energijai persiųsti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-16. Elektros energijos rinkos dalyvis (toliau – rinkos dalyvis) – asmuo, kuris verčiasi didmenine prekyba elektros energija Prekybos elektros energija taisyklėse nustatytais būdais. Rinkos dalyviais laikomi perdavimo sistemos operatorius, skirstomųjų tinklų operatoriai, elektros energijos gamintojai, tiekėjai, teisės aktų nustatyta tvarka sudarę balansavimo energijos pirkimo–pardavimo sutartis su balansavimo energijos tiekėjais, balansavimo energijos tiekėjai, elektros energijos paklausos valdymo paslaugos teikėjai, taip pat asmenys, turintys leidimą eksportuoti elektros energiją į valstybes, kurios nėra valstybės narės, ar importuoti elektros energiją iš valstybių, kurios nėra valstybės narės.
+16. Elektros energijos rinkos dalyvis (toliau – rinkos dalyvis) – asmuo, kuris verčiasi didmenine prekyba elektros energija Prekybos elektros energija taisyklėse nustatytais būdais. Rinkos dalyviais laikomi perdavimo sistemos operatorius, skirstomųjų tinklų operatoriai, elektros energijos gamintojai, tiekėjai, balansavimo energijos tiekėjai, nepriklausomi elektros energijos paklausos telkėjai, taip pat asmenys, turintys leidimą eksportuoti elektros energiją į valstybes, kurios nėra valstybės narės, ar importuoti elektros energiją iš valstybių, kurios nėra valstybės narės.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -274,6 +294,12 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
+281. Nepriklausomas elektros energijos paklausos telkėjas (toliau – nepriklausomas paklausos telkėjas) – elektros energijos rinkos dalyvis, kuris, turėdamas reikiamą leidimą, vykdo vartotojų elektros energijos paklausos telkimo veiklą ir nėra susijęs su savo aptarnaujamų vartotojų tiekėju. Laikoma, kad nepriklausomas paklausos telkėjas ir tiekėjas, kaip ūkio subjektai, yra susiję, jeigu vienas iš jų tiesiogiai arba netiesiogiai (per trečiuosius ūkio subjektus) turi daugiau kaip pusę kito ūkio subjekto akcijų, kitokių vertybinių popierių ar turto arba turi teises į daugiau kaip pusę balsų, arba turi teisę skirti daugiau kaip pusę priežiūros ar valdymo organų narių, arba turi ūkio subjekto valdymo teisę.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+
 29. Nepriklausomas tiekėjas – asmuo, tiekiantis elektros energiją vartotojams ir turintis teisę verstis nepriklausomo elektros energijos tiekimo veikla.
 
 Straipsnio dalies numeracijos pakeitimas:
@@ -322,11 +348,21 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
-351. Prievolių įvykdymo užtikrinimas – finansinė garantija ar finansinis laidavimas, kaip tai nustatyta Lietuvos Respublikos finansų įstaigų įstatyme.
+351. Pradinė elektros energijos paklausa – pagal patvirtintą metodiką įvertinamas įprastu elektros energijos vartojimo režimu vartotojo suvartojamas elektros energijos kiekis, kuris naudojamas skaičiuojant vartotojo elektros energijos paklausos pokytį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+
+352. Prievolių įvykdymo užtikrinimas – finansinė garantija ar finansinis laidavimas, kaip tai nustatyta Lietuvos Respublikos finansų įstaigų įstatyme.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 36. Reguliavimo energija – perdavimo sistemos operatoriaus dispečerinio centro nurodymu nupirkta ir (ar) parduota elektros energija, reikalinga nacionalinei balansavimo funkcijai atlikti.
 
@@ -352,7 +388,11 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
-39. Rezervinė galia – elektros energijos gamybos potencialas, kuris naudojamas nustatytam dažniui palaikyti, elektros energetikos sistemos balansui užtikrinti ir elektros energijai gaminti numatytais gamybos sumažėjimo ar vartojimo padidėjimo atvejais.
+39. Rezervinė galia – elektros energijos gamybos, vartotojų elektros energijos paklausos pokyčių potencialas, kuris naudojamas nustatytam dažniui palaikyti, elektros energetikos sistemos balansui užtikrinti ir elektros energijai gaminti arba jos poreikiui sumažinti numatytais šios energijos gamybos sumažėjimo ar vartojimo padidėjimo atvejais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -453,6 +493,12 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+
+501. Vartotojo elektros energijos paklausos pokytis (toliau – vartotojo paklausos pokytis) – vartotojo įprasto elektros energijos vartojimo režimo pasikeitimas, kai vartotojas suvartoja mažiau ar daugiau negu įprasta elektros energijos ir (arba) galios, reaguodamas į rinkos veiksnius, įskaitant pagal laiką kintančias elektros energijos kainas ar tinklų operatoriaus mokamas sumas, arba priimdamas individualiai ar per nepriklausomą paklausos telkėją didmeninėje rinkoje pateiktą pasiūlymą už tam tikrą atlygį sumažinti arba padidinti savo elektros energijos vartojimą. Vartotojo elektros energijos paklausos pokytis išreiškiamas elektros energijos kiekiu ir (arba) galia.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 51. Vartotojo objektas – vartotojo nuosavybės teise ar kitais teisėtais pagrindais valdomas objektas (įrenginys, statinys ar kita), kuriame vartojama elektros energija.
 
@@ -778,7 +824,13 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 
-22) atlieka kitas Lietuvos Respublikos įstatymų, tiesiogiai taikomu Europos Sąjungos teisės aktu ir ratifikuota Lietuvos Respublikos tarptautine sutartimi pavestas funkcijas.
+22) derina perdavimo sistemos operatoriaus parengtą Pradinės elektros energijos paklausos nustatymo metodiką;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+
+23) atlieka kitas Lietuvos Respublikos įstatymų, tiesiogiai taikomu Europos Sąjungos teisės aktu ir ratifikuota Lietuvos Respublikos tarptautine sutartimi pavestas funkcijas.
 
 Straipsnio punkto pakeitimai:
 
@@ -787,6 +839,8 @@ Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 4. Taryba turi užtikrinti konkurenciją tarp elektros energijos rinkos dalyvių, atskirų rinkos dalyvių ir vartotojų nediskriminavimą bei nustatytos kokybės paslaugų teikimą vartotojams. Siekdama šio tikslo, Taryba kontroliuoja:
 
@@ -862,11 +916,13 @@ ELEKTROS ENERGETIKOS SEKTORIAUS VEIKLOS ORGANIZAVIMO PRINCIPAI
 
 12 straipsnis. Elektros energetikos sektoriaus sandara
 
-Elektros energetikos sektorių sudaro elektros energijos vartotojai, gamintojai, nepriklausomi ir visuomeniniai tiekėjai, perdavimo sistemos ir skirstomųjų tinklų operatoriai ir elektros biržos operatorius.
+Elektros energetikos sektorių sudaro elektros energijos vartotojai, gamintojai, nepriklausomi ir visuomeniniai tiekėjai, nepriklausomi paklausos telkėjai, perdavimo sistemos ir skirstomųjų tinklų operatoriai ir elektros biržos operatorius.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 13 straipsnis. Elektros energetikos sektoriaus suderinamumas ir vientisumas
 
@@ -992,19 +1048,27 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 6) vykdyti nepriklausomo elektros energijos tiekimo veiklą;
 
+7) vykdyti nepriklausomo paklausos telkėjo veiklą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+
 2. Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles tvirtina Vyriausybė, vadovaudamasi šiame įstatyme, Energetikos įstatyme ir Atsinaujinančių išteklių energetikos įstatyme nustatytais reikalavimais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
-3. Leidimus, nurodytus šio straipsnio 1 dalies 1–6 punktuose, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina, išduoda leidimų dublikatus, leidimais reguliuojamą veiklą prižiūri Taryba.
+3. Leidimus, nurodytus šio straipsnio 1 dalies 1–7 punktuose, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina ir leidimais reguliuojamą veiklą prižiūri Taryba.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 4. Veiklos elektros energetikos sektoriuje leidimai išduodami neterminuotam laikui, išskyrus leidimus plėtoti elektros energijos gamybos pajėgumus, tiesti tiesioginę liniją ir leidimus gaminti elektros energiją elektrinėse, įrengtose Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalyje. Leidimai plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją išduodami 36 mėnesių laikotarpiui. Leidimai gaminti elektros energiją elektrinėse, įrengtose Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalyje išduodami Atsinaujinančių išteklių energetikos įstatymo 22 straipsnyje nustatyta tvarka išduoto ir galiojančio leidimo naudoti Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalį atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai pagrindu ir galioja iki šio leidimo galiojimo laikotarpio pabaigos.
 
@@ -1164,17 +1228,21 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2706, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21553
 
-20. Taryba savo interneto svetainėje skelbia informaciją apie išduotus leidimus, nurodytus šio straipsnio 1 dalies 1–6 punktuose.
+20. Taryba savo interneto svetainėje skelbia informaciją apie išduotus leidimus, nurodytus šio straipsnio 1 dalies 1–7 punktuose.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
-21. Leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą išduodamas asmenims, kuriems nėra pradėta bankroto, reorganizavimo ir (ar) likvidavimo procedūra.
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+
+21. Leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą, nepriklausomo paklausos telkėjo veiklą išduodamas asmenims, kuriems nėra pradėta bankroto, reorganizavimo ir (ar) likvidavimo procedūra.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 22. Neteko galios nuo 2018-01-01
 
@@ -1248,7 +1316,7 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 
 17 straipsnis. Veiklos elektros energetikos sektoriuje licencijų ir leidimų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas
 
-1. Asmuo, siekiantis gauti veiklos elektros energetikos sektoriuje licenciją ar leidimą, išskyrus šio įstatymo 16 straipsnio 1 dalies 6 punkte nurodytą leidimą, Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia licencijas ar leidimus išduodančiai institucijai prašymą ir šiose taisyklėse nustatytus dokumentus ir (ar) informaciją. Asmuo, siekiantis įgyti leidimą vykdyti nepriklausomo elektros energijos tiekimo veiklą, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia Tarybai atitikties šio įstatymo 16 straipsnio 21 dalyje nustatytiems reikalavimams deklaraciją (toliau – deklaracija). Ne vėliau kaip per 5 darbo dienas nuo asmens teisės vykdyti nepriklausomo elektros energijos tiekimo veiklą įgijimo dienos Taryba privalo patikrinti deklaracijoje pateiktą informaciją.
+1. Asmuo, siekiantis gauti veiklos elektros energetikos sektoriuje licenciją ar leidimą, išskyrus šio įstatymo 16 straipsnio 1 dalies 6 ar 7 punkte nurodytą leidimą, Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia licencijas ar leidimus išduodančiai institucijai prašymą ir šiose taisyklėse nustatytus dokumentus ir (ar) informaciją. Asmuo, siekiantis įgyti leidimą vykdyti nepriklausomo elektros energijos tiekimo veiklą ar leidimą vykdyti nepriklausomo paklausos telkėjo veiklą, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia Tarybai atitikties šio įstatymo 16 straipsnio 21 dalyje nustatytiems reikalavimams deklaraciją (toliau – deklaracija). Ne vėliau kaip per 5 darbo dienas nuo asmens teisės vykdyti nepriklausomo elektros energijos tiekimo veiklą ar nuo asmens teisės vykdyti nepriklausomo paklausos telkėjo veiklą įgijimo dienos Taryba privalo patikrinti deklaracijoje pateiktą informaciją.
 
 Straipsnio dalies pakeitimai:
 
@@ -1256,11 +1324,15 @@ Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
-2. Licencija ar leidimas, išskyrus šio įstatymo 16 straipsnio 1 dalies 6 punkte nurodytą leidimą, išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją ar leidimą pateikiamas pareiškėjui ne vėliau kaip per 30 kalendorinių dienų nuo Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikto prašymo bei visų reikalingų ir tinkamai įformintų dokumentų registravimo licencijas ar leidimus išduodančioje institucijoje dienos. Jeigu į tinkamai pateiktą prašymą išduoti licenciją ar leidimą neatsakoma per šioje dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos ar leidimo išdavimo.
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+
+2. Licencija ar leidimas, išskyrus šio įstatymo 16 straipsnio 1 dalies 6 ar 7 punkte nurodytą leidimą, išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją ar leidimą pateikiamas pareiškėjui ne vėliau kaip per 30 dienų nuo Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikto prašymo bei visų reikalingų ir tinkamai įformintų dokumentų registravimo licencijas ar leidimus išduodančioje institucijoje dienos. Jeigu į tinkamai pateiktą prašymą išduoti licenciją ar leidimą neatsakoma per šioje dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos ar leidimo išdavimo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 3. Šio straipsnio 2 dalyje nustatyta sąlyga dėl licencijos ar leidimo išdavimo termino netaikoma, kai vyksta teisminiai ginčai su trečiaisiais asmenimis dėl licencijuojamos ar leidimais reguliuojamos veiklos sąlygų (teritorijos) ir kai yra prašoma išduoti perdavimo, skirstymo ar visuomeninio tiekimo veiklos licenciją teritorijoje, kurioje jau yra išduota perdavimo, skirstymo ar visuomeninio tiekimo veiklos licencija, ar dėl kitų priežasčių, pateisinamų svarbiais visuomenės interesais, ir pareiškėjas apie tai yra informuotas Licencijavimo taisyklėse ar Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka. Šiuo atveju licencija ar leidimas išduodami arba rašytinis motyvuotas atsisakymas pareiškėjui išduoti licenciją ar leidimą pateikiamas ne vėliau kaip per 30 dienų, pasibaigus atitinkamo teisminio ginčo nagrinėjimui ar nelikus kitų priežasčių, pateisinamų svarbiais visuomenės interesais, dėl kurių buvo atidėtas sprendimo dėl licencijos ar leidimo išdavimo priėmimas.
 
@@ -1660,7 +1732,11 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
-8) reikalauti iš balansavimo energijos tiekėjų, sudariusių sutartis su perdavimo sistemos operatoriaus licencijoje nurodytoje teritorijoje esančiais vartotojais, pateikti pakankamą prievolių įvykdymo užtikrinimą, kuriuo būtų užtikrintos būsimos ir (ar) esamos nepriklausomų tiekėjų prievolės nupirkti iš perdavimo sistemos operatoriaus vartotojų suvartotą, tačiau nepriklausomo tiekėjo nenupirktą elektros energiją ir atlyginti dėl to susidariusius nuostolius.
+8) reikalauti iš balansavimo energijos tiekėjų pateikti perdavimo sistemos operatoriui pakankamą prievolių įvykdymo užtikrinimą, kuriuo, laikantis su perdavimo sistemos operatoriumi sudaromų balansavimo elektros energijos pirkimo–pardavimo sutarčių standartinių sąlygų, būtų užtikrintos būsimos ir (ar) esamos balansavimo energijos tiekėjų prievolės nupirkti balansavimo energiją iš perdavimo sistemos operatoriaus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -1753,6 +1829,12 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+
+3. Perdavimo sistemos operatorius, siekdamas skatinti paklausos telkimo plėtrą, konsultuojasi su rinkos dalyviais ir, atsižvelgdamas į paklausos telkimo galimybes (paklausos telkimo potencialą ir galimybes jį panaudoti elektros energetikos sistemoje), remdamasis elektros energetikos sistemos techniniais reikalavimais ir poreikiais, nustato nepriklausomų paklausos telkėjų dalyvavimo elektros energijos, balansavimo ir rezervinės galios rinkose nediskriminacines technines elektros energijos ir (arba) sisteminių paslaugų teikimo ir kitas sąlygas, kurias skelbia savo interneto svetainėje, taip pat rengia Pradinės elektros energijos paklausos nustatymo metodiką, kurią suderina su Taryba, ir skelbia savo interneto svetainėje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 Straipsnio pakeitimai:
 
@@ -1850,11 +1932,13 @@ ELEKTROS ENERGIJOS SKIRSTYMAS
 
 1. Skirstomųjų tinklų operatorius yra atsakingas už jam priklausančius skirstomuosius tinklus nuo perdavimo tinklų įrenginių prijungimo taško iki vartotojų ar gamintojų įrenginių prijungimo taško ir už jų saugumą, patikimumą, eksploatavimą, priežiūrą, valdymą bei plėtojimą pagal skirstomųjų tinklų naudotojų poreikius, taip pat už elektros energijos persiuntimą vartotojams skirstomaisiais tinklais, persiunčiamos elektros energijos kokybę bei persiunčiamos elektros energijos apskaitą ir jos diegimą.
 
-2. Skirstomųjų tinklų operatorius privalo užtikrinti elektros tinklų naudotojams ir elektros energijos paklausos valdymo paslaugų teikėjams nediskriminuojančias naudojimosi skirstomaisiais tinklais sąlygas, atsižvelgiant į technines ir elektros energijos paklausos valdymo galimybes.
+2. Skirstomųjų tinklų operatorius privalo užtikrinti elektros tinklų naudotojams ir nepriklausomiems paklausos telkėjams nediskriminuojančias naudojimosi skirstomaisiais tinklais sąlygas, atsižvelgdamas į technines paklausos telkimo galimybes ir sąlygas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 3. Skirstomųjų tinklų operatorius privalo teikti elektros tinklų naudotojams informaciją, reikalingą efektyviai prieigai prie skirstomųjų tinklų. Energetikos ministerija nustato tokios informacijos teikimo tvarką ir sąlygas.
 
@@ -1997,6 +2081,12 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 4. Jeigu tiekėjai nėra balansavimo energijos tiekėjai, jie privalo sudaryti balansavimo elektros energijos pirkimo–pardavimo sutartis su kitu, atitinkamą sutartį su perdavimo sistemos operatoriumi turinčiu, balansavimo energijos tiekėju.
 
 5. Tiekėjams draudžiama diskriminuoti vartotojus ar vartotojų grupes.
+
+6. Nepriklausomi tiekėjai gali siūlyti vartotojams su vartotojo paklausos pokyčio valdymu ir elektros energijos paklausos telkimu susijusias paslaugas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 42 straipsnis. Visuomeninis tiekėjas
 
@@ -2612,6 +2702,12 @@ Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 
 5. Kiekvienas gamintojas ir tiekėjas yra atsakingas už elektros energijos gamybos kiekio, būtino pirkėjų poreikiams patenkinti, ir kiekio, nurodyto elektros energijos pirkimo–pardavimo grafikuose, pirkimo ar pardavimo atitiktį. Prekyba balansavimo ir reguliavimo energija vykdoma pagal Prekybos elektros energija taisykles.
 
+51. Nepriklausomas paklausos telkėjas prekiauja elektros energija vadovaudamasis Prekybos elektros energija taisyklėmis ir perdavimo sistemos operatoriaus nustatytomis sąlygomis. Nepriklausomas paklausos telkėjas, jeigu jis yra balansavimo energijos tiekėjas, arba balansavimo energijos tiekėjas, su kuriuo nepriklausomas paklausos telkėjas sudaro balansavimo energijos pirkimo–pardavimo sutartį, atsako už nepriklausomo paklausos telkėjo nepatiektą arba patiektą per didelį elektros energijos kiekį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+
 6. Perdavimo sistemos operatorius, atlikdamas nacionalinę balansavimo funkciją, sudaro nacionalinį balansą, atitinkantį nupirktos ir parduotos elektros energijos kiekį, pagal balansavimo energijos tiekėjų pateiktus duomenis ir patikrina pateiktų duomenų tikslumą pagal prekybos elektros energija elektros biržoje ir prekybos pagal dvišales sutartis duomenis, taip pat sutrikimų ir avarijų atveju koordinuoja gamintojų veiksmus, perka elektros energiją, reikalingą elektros energijos sąnaudoms perdavimo tinkle kompensuoti, teikia viešuosius interesus atitinkančias paslaugas elektros energetikos sektoriuje.
 
 7. Perdavimo sistemos operatorius negali riboti gamintojų, gaminančių elektros energiją ir šilumą didelio naudingumo kogeneracijos būdu, galimybių teikti reguliavimo ir papildomas paslaugas, jeigu užtikrinamas perdavimo tinklo saugumas ir patikimumas.
@@ -2916,7 +3012,7 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 3. Viršutinės perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos ir viešuosius interesus atitinkančių paslaugų kainos gali būti koreguojamos ne dažniau kaip du kartus per metus, kai yra esminių vieno ar kelių veiksnių, kuriais remiantis buvo nustatytos viršutinės kainų ribos ar viešuosius interesus atitinkančių paslaugų kainos, pokyčių, įskaitant esminį paslaugų apimties, infliacijos, mokesčių, kitų objektyvių (nuo rinkos dalyvio nepriklausančių) veiksnių pokytį.
 
-4. Nustatydama viršutines perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba užtikrina, kad perdavimo sistemos ir skirstomųjų tinklų operatoriams būtų suteiktos tinkamos paskatos diegti energetikos inovacijas, trumpalaikiu ir ilgalaikiu laikotarpiu didinti, sudarant sąlygas diegti išmaniuosius elektros tinklus ir užtikrinti sistemos saugumą, elektros energijos vartojimo efektyvumą, teikiant tinklo naudotojams sistemines paslaugas, plėtoti elektros energijos paklausos valdymo ir reagavimo į paklausą paslaugas, taip pat skatinti elektros energijos rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekiant elektros energijos vartojimo efektyvumo didinimo, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl paklausos, reagavimo į paklausą priemonių diegimo, gamybos pajėgumų plėtros, įskaitant sutaupymą dėl elektros energijos perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo ir optimalaus tinklo eksploatavimo.
+4. Nustatydama viršutines perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba užtikrina, kad perdavimo sistemos ir skirstomųjų tinklų operatoriams būtų suteiktos tinkamos paskatos diegti energetikos inovacijas, trumpalaikiu ir ilgalaikiu laikotarpiu didinti, sudarant sąlygas diegti išmaniuosius elektros tinklus ir užtikrinti sistemos saugumą, elektros energijos vartojimo efektyvumą, teikiant tinklo naudotojams sistemines paslaugas, plėtoti elektros energijos paklausos valdymo priemones, įskaitant paklausos telkimą, taip pat skatinti elektros energijos rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekdama elektros energijos vartojimo efektyvumo didinimo, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl paklausos mažinimo ir paklausos valdymo priemonių diegimo perdavimo ir skirstomuosiuose tinkluose, įskaitant paklausos telkimo plėtrą, ir dėl gamybos pajėgumų plėtros, įskaitant sutaupymą dėl elektros energijos perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo bei optimalaus tinklo eksploatavimo.
 
 Straipsnio dalies pakeitimai:
 
@@ -2926,11 +3022,13 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 
-5. Elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų reguliavimas neturi riboti paslaugų, susijusių su elektros energijos paklausos valdymu, reagavimu į paklausą, elektros energijos pajėgumų plėtra, plėtojimo, įskaitant:
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+
+5. Elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų reguliavimas neturi riboti paslaugų, susijusių su elektros energijos paklausos valdymu, įskaitant paklausos telkimą, elektros energijos pajėgumų plėtra, plėtojimo, įskaitant:
 
 1) vartotojų elektros energijos vartojimo perkėlimą iš piko meto, atsižvelgiant į elektros energijos gamybą iš atsinaujinančių energijos išteklių, kogeneracijos būdu pagamintą elektros energiją ir gamybos pajėgumų plėtrą;
 
-2) elektros energijos sutaupymą reaguojant į vartojimo paklausą ir pasitelkiant elektros energijos paklausos valdymo paslaugų teikėjus;
+2) elektros energijos sutaupymą dėl elektros energijos paklausos valdymo priemonių, įskaitant paklausos telkimą;
 
 3) elektros energijos paklausos sumažinimą, pasitelkiant energijos taupymo paslaugų teikėjus;
 
@@ -2940,9 +3038,9 @@ Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 
 6) elektros energijos kaupimą.
 
-Papildyta straipsnio dalimi:
+Straipsnio dalies pakeitimai:
 
-Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 6. Viršutinė perdavimo paslaugos kainos riba turi būti nustatyta ar perskaičiuota ne vėliau kaip likus 90 kalendorinių dienų, viršutinės skirstymo ir visuomeninio tiekimo paslaugų kainų ribos – ne vėliau kaip likus 75 kalendorinėms dienoms iki reguliavimo periodo arba atitinkamų reguliavimo periodo metų pradžios.
 
@@ -3629,4 +3727,18 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 Papildyta straipsniu:
 
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+
+611 straipsnis. Vartotojo ir nepriklausomo paklausos telkėjo sutartis
+
+1. Vartotojas, nusprendęs dalyvauti telkiant elektros energijos paklausą, turintis tam tinkamą elektros apskaitos prietaisą, sudaro sutartį su nepriklausomu paklausos telkėju. Vartotojas turi teisę sudaryti sutartį be tiekėjo, kuris vartotojui tiekia elektros energiją, sutikimo.
+
+2. Vartotojo ir nepriklausomo paklausos telkėjo sutartis yra konfidenciali ir gali būti atskleista tik perdavimo sistemos operatoriui ir tinklų operatoriui, prie kurio tinklų yra prijungti vartotojo įrenginiai, ir priežiūros institucijoms. Vartotojas turi teisę tretiesiems asmenims atskleisti informaciją apie sutarties su nepriklausomu paklausos telkėju sudarymo faktą, tačiau negali atskleisti šios sutarties nuostatų ir sąlygų turinio, neturėdamas nepriklausomo paklausos telkėjo sutikimo.
+
+3. Nepriklausomas paklausos telkėjas, prieš sudarydamas sutartį su vartotoju, privalo išsamiai informuoti vartotoją apie jam siūlomos pasirašyti sutarties nuostatas ir sąlygas.
+
+4. Nepriklausomas paklausos telkėjas, prieš sudarydamas arba nutraukdamas sutartį su vartotoju, prieš 3 savaites apie tai raštu privalo pranešti tinklų operatoriui, prie kurio valdomų tinklų yra prijungti vartotojo įrenginiai.
+
+Papildyta straipsniu:
+
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
