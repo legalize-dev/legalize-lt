@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2020-04-01"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-04-01 iki 2020-06-29
+Suvestinė redakcija nuo 2020-06-30 iki 2020-12-28
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -758,11 +758,11 @@ Nr. XI-1423, 2011-05-26, Žin., 2011, Nr. 67-3157 (2011-06-02)
 
 1. Teisėjas gali atsakyti baudžiamąja tvarka, gali būti suimtas arba gali būti kitaip suvaržyta jo laisvė tik Seimo, o tarp Seimo sesijų – Respublikos Prezidento sutikimu, išskyrus atvejus, kai teisėjas užtinkamas darantis nusikalstamą veiką (in flagranti).
 
-2. Draudžiama įeiti į teisėjo gyvenamąsias ar tarnybines patalpas, daryti ten arba teisėjo asmeniniame ar tarnybiniame automobilyje, arba kitoje asmeninėje susisiekimo priemonėje apžiūrą, kratą ar poėmį, taip pat atlikti teisėjo asmens apžiūrą ar kratą, jam priklausančių daiktų ir dokumentų apžiūrą ar poėmį, išskyrus įstatymų nustatytus atvejus.
+2. Neteko galios nuo 2020-06-30
 
-TAR pastaba. Nuo 2019-12-30 iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies (2013 m. gruodžio 23 d. redakcija; TAR, 2014-01-07, Nr. 63, identifikacinis kodas 2014-00063) galiojimas.
+Straipsnio dalies naikinimas:
 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 d. redakcija; TAR, 2014-01-07, Nr. 63) 2 dalis prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 2 daliai, 114 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+Nr. XIII-3093, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14362
 
 Straipsnio dalies pakeitimai:
 
