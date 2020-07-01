@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2020-02-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-02-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-17
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
 
@@ -745,9 +745,13 @@ Nr. XIII-418, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10026
 
 17) pensijos ir rentos, gautos iš Lietuvos Respublikos valstybės, savivaldybių ir Valstybinio socialinio draudimo fondo biudžetų, taip pat iš tarptautinių organizacijų ir užsienio valstybių valstybinių fondų;
 
-18) iš gyvybės draudimą vykdančios draudimo įmonės gauti pensijų anuitetai;
+18) iš gyvybės draudimą vykdančios draudimo įmonės ar kito pensijų anuitetų mokėjimą reglamentuojančiuose įstatymuose nustatyto pensijų anuitetų mokėtojo gauti pensijų anuitetai;
 
-19) (neteko galios nuo 2013-07-13);
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2941, 2020-05-19, paskelbta TAR 2020-05-25, i. k. 2020-11079
+
+19) neteko galios nuo 2013-07-13;
 
 20) palūkanų už ne nuosavybės vertybinius popierius (išskyrus asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, išleistus ne nuosavybės vertybinius popierius, jeigu už šiuos ne nuosavybės vertybinius popierius asmuo, susijęs su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, jam moka didesnes palūkanas negu kitiems tų pačių ne nuosavybės vertybinių popierių turėtojams), palūkanų už Lietuvos ir užsienio valstybių vyriausybių, taip pat jų politinių ar teritorijos administracinių padalinių, vietos valdžios ne nuosavybės vertybinius popierius, palūkanų už Lietuvos ir užsienio valstybių bankuose ir kitose kredito įstaigose laikomus indėlius suma, neviršijanti 500 eurų per mokestinį laikotarpį, jeigu ne nuosavybės vertybiniai popieriai įsigyti ar sutartys dėl indėlių sudarytos nuo 2014 m. sausio 1d.;
 
@@ -932,8 +936,6 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 6. Šio straipsnio 1 dalies 9, 91 ir 10 punktuose nustatytos lengvatos taikomos, jeigu draudimo sutartyje numatytas naudos gavėjas nesikeitė nuo draudimo sutarties sudarymo datos, išskyrus atvejus, kai naudos gavėjas buvo pakeistas dėl naudos gavėjo mirties ar dėl santuokos pabaigos (pradžios), arba jeigu naudos gavėjas – savo vaikas (įvaikis, globotinis) buvo pakeistas kitu savo vaiku (įvaikiu, globotiniu), taip pat jeigu naudos gavėjas keitėsi iki 2016 m. gruodžio 31 d.
-
-TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2017 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 Papildyta straipsnio dalimi:
 
@@ -1123,33 +1125,37 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 20 straipsnis. Neapmokestinamasis pajamų dydis
 
-1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 4 200 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 4 800 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
-Gyventojui taikytinas MNPD = 4 200 – 0,17 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).
+Gyventojui taikytinas MNPD = 4 800 – 0,19 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).“
 
-TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų mokestinio laikotarpio pajamas.
+TAR pastaba. 1 dalis įsigalioja 2020 m. liepos 1 d. ir galioja iki 2020 m. gruodžio 31 d. 2 dalyje nustatytas neapmokestinamasis pajamų dydis taikomas nuo 2020 m. sausio 1 d. deklaruojant 2020 metų mokestinio laikotarpio pajamas ir apskaičiuojant gyventojų pajamų mokestį. Mokestį išskaičiuojančio asmens ir gyventojo, gavusio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusias pajamas, abipusiu susitarimu dėl iki įstatymo Nr. XIII-3084 įsigaliojimo (2020-07-01) taikyto ir po šio įstatymo įsigaliojimo pasikeitusio neapmokestinamojo pajamų dydžio gyventojų pajamų mokestis gali būti perskaičiuojamas iki 2020 m. gruodžio 31 d. Pasibaigus 2020 metų mokestiniam laikotarpiui, dėl pasikeitusio neapmokestinamojo pajamų dydžio mokėtinas gyventojų pajamų mokestis perskaičiuojamas, kai gyventojas Gyventojų pajamų mokesčio įstatymo 27 straipsnyje nustatyta tvarka pateikia metinę pajamų mokesčio deklaraciją, o susidariusi gyventojų pajamų mokesčio permoka įskaitoma arba grąžinama Lietuvos Respublikos mokesčių administravimo įstatyme nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 
 Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+
+Nr. XIII-3084, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14359
 
 2. Jeigu šio straipsnio 6 dalyje nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 350 eurų;
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 400 eurų;
 
 2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieną dydį, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
 
-Gyventojui taikytinas mėnesio NPD = 350 – 0,17 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).
+Gyventojui taikytinas mėnesio NPD = 400 – 0,19 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).“
 
-TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų mokestinio laikotarpio pajamas.
+TAR pastaba. 2 dalis įsigalioja 2020 m. liepos 1 d. ir galioja iki 2020 m. gruodžio 31 d. 2 dalyje nustatytas neapmokestinamasis pajamų dydis taikomas nuo 2020 m. sausio 1 d. deklaruojant 2020 metų mokestinio laikotarpio pajamas ir apskaičiuojant gyventojų pajamų mokestį. Mokestį išskaičiuojančio asmens ir gyventojo, gavusio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusias pajamas, abipusiu susitarimu dėl iki įstatymo Nr. XIII-3084 įsigaliojimo (2020-07-01) taikyto ir po šio įstatymo įsigaliojimo pasikeitusio neapmokestinamojo pajamų dydžio gyventojų pajamų mokestis gali būti perskaičiuojamas iki 2020 m. gruodžio 31 d. Pasibaigus 2020 metų mokestiniam laikotarpiui, dėl pasikeitusio neapmokestinamojo pajamų dydžio mokėtinas gyventojų pajamų mokestis perskaičiuojamas, kai gyventojas Gyventojų pajamų mokesčio įstatymo 27 straipsnyje nustatyta tvarka pateikia metinę pajamų mokesčio deklaraciją, o susidariusi gyventojų pajamų mokesčio permoka įskaitoma arba grąžinama Lietuvos Respublikos mokesčių administravimo įstatyme nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 
 Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+
+Nr. XIII-3084, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14359
 
 3. Jeigu pagal šio straipsnio 1 ar 2 dalyje nustatytą formulę apskaičiuotas NPD yra neigiamas, laikoma, kad jis lygus 0.
 
@@ -1628,6 +1634,22 @@ MOKESČIO ĮSKAITYMAS Į BIUDŽETĄ
 1. Sumokėtas pajamų mokestis ir sumokėta (išieškota) mokestinė nepriemoka, išskyrus šio straipsnio 2 dalyje nurodytą pajamų mokestį ir šio mokesčio nepriemoką, įskaitomi į valstybės ir (ar) į savivaldybių biudžetus atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatyta tvarka.
 
 2. Fiksuoto dydžio pajamų mokestis už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą, ir šio mokesčio nepriemoka įskaitomi į tos savivaldybės, kurios tarybos sprendimu nustatytas konkretus fiksuoto dydžio pajamų mokestis, biudžetą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1848, 2003-11-25, Žin., 2003, Nr. 116-5254 (2003-12-12)
+
+Nr. X-1424, 2008-01-18, Žin., 2008, Nr. 15-510 (2008-02-05)
+
+Nr. XI-541, 2009-12-09, Žin., 2009, Nr. 153-6882 (2009-12-28)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-87, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29275
+
+IX SKYRIUS
+
+BAIGIAMOSIOS NUOSTATOS
 
 39 straipsnis. Įstatymo taikymas ir pasiūlymai Vyriausybei
 
