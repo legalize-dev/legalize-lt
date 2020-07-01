@@ -4,7 +4,7 @@ identifier: "TAR.E39827DBDE34"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-12-22"
-last_updated: "2020-06-12"
+last_updated: "2020-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 253-0; Žin. 1993, Nr.2-29, i. k. 0921010ISTA0000I-28
 
@@ -132,17 +132,13 @@ Antrasis skirsnis
 
 RINKIMŲ ORGANIZAVIMAS
 
-11 straipsnis. Rinkimų apylinkių sudarymas
+11 straipsnis. Įstatymo keitimas
 
-1. Atsižvelgiant į patogumą rinkėjams atvykti į balsavimo patalpas ir į rinkėjų skaičių, savivaldybių teritorijos dalijamos į rinkimų apylinkes.
+Šis įstatymas negali būti keičiamas nuo Respublikos Prezidento rinkimų datos paskelbimo dienos iki rinkimų galutinių rezultatų paskelbimo arba rinkimų rezultatų pripažinimo negaliojančiais dienos, išskyrus atvejus, kai reikia įgyvendinti Konstitucinio Teismo nutarimą.
 
-2. Savivaldybės teritorijos suskirstymą į rinkimų apylinkes savivaldybės administracijos direktoriaus teikimu tvirtina ir keičia Vyriausioji rinkimų komisija. Patvirtintų rinkimų apylinkių sąrašą, jo pakeitimus Vyriausioji rinkimų komisija skelbia savo interneto svetainėje.
+Papildyta straipsniu:
 
-3. Rinkimų apylinkės teritorijoje turi gyventi ne daugiau kaip 5 000 rinkėjų.
-
-4. Rinkimų apylinkės ribos, balsavimo patalpų adresas keičiami prireikus, bet ne vėliau kaip likus 100 dienų iki rinkimų. Savivaldybės administracijos direktorius teikime tvirtinti savivaldybės teritorijos suskirstymą į rinkimų apylinkes nurodo siūlomą rinkimų apylinkės pavadinimą, į rinkimų apylinkę patenkančius adresus, rinkėjų skaičių sudaromoje rinkimų apylinkėje, balsavimo patalpų adresą ir telefoną. Teikime keisti savivaldybės teritorijos suskirstymą į rinkimų apylinkes nurodomi siūlomi pakeitimai. Ne vėliau kaip likus 100 dienų iki rinkimų savivaldybės administracijos direktorius Vyriausiajai rinkimų komisijai taip pat praneša apie naujai atsiradusius, su pakeistais pavadinimais arba išnykusius adresus, patvirtina balsavimo patalpų adresus ir telefonus. Savivaldybės administracijos direktorius šio straipsnio 2 ir šioje dalyse numatytus pasiūlymus ir teikimus Vyriausiajai rinkimų komisijai teikia Vyriausiosios rinkimų komisijos nustatyta tvarka.
-
-5. Kai pirmalaikiai Respublikos Prezidento rinkimai pagal Konstitucijos 87 straipsnį arba Respublikos Prezidento rinkimai pagal Konstitucijos 89 straipsnio 1 dalį rengiami per 2 mėnesius nuo  rinkimų datos paskelbimo, Vyriausioji rinkimų komisija gali pakeisti rinkimų apylinkių ribas ir balsavimo patalpų adresus ne vėliau kaip likus 50 dienų iki rinkimų. Jeigu šie rinkimai rengiami anksčiau kaip per 2 mėnesius nuo rinkimų datos paskelbimo, rinkimų apylinkių ribos nekeičiamos.
+Nr. XIII-1586, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18200
 
 12 straipsnis. Rinkimų komisijos
 
