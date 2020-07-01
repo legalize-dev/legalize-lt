@@ -4,7 +4,7 @@ identifier: "TAR.A4D0A2869EAA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-04"
-last_updated: "2019-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A4D0A2869EAA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 62-2496, i. k. 1021010ISTA00IX-931
 
@@ -273,7 +273,11 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ gamybos, PLATINIMO, importo, eksporto, įve�
 
 1) asmuo, sergantis ligomis ar turintis fizinių trūkumų, dėl kurių asmuo negali tinkamai elgtis su pirotechnikos priemonėmis;
 
-2) asmuo, kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
+2) asmuo, kuriam Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka taikomi teismo įpareigojimai ar per pastaruosius 5 metus Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka buvo skirtas vienas ar keli teismo įpareigojimai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3077, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14352
 
 3) asmuo, kuriam įsiteisėjusiu teismo nuosprendžiu paskirta baudžiamojo poveikio priemonė – teisės dirbti darbą, susijusį su civilinių pirotechnikos priemonių apyvarta, arba užsiimti šio įstatymo nustatyta veikla atėmimas;
 
@@ -703,7 +707,7 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įst
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                   VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -754,4 +758,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 
 Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 15, 16 ir 22 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3077, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14352
+
+Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 11 straipsnio pakeitimo įstatymas
 
