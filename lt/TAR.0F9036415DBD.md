@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2020-05-22"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-05-22 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-11-20
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
 
@@ -72,7 +72,11 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 12. Valstybinio socialinio draudimo išmokos (toliau – socialinio draudimo išmokos) – įstatymų nustatytos socialinio draudimo išmokos, į kurias, įvykus draudžiamajam įvykiui, įgyja teisę apdraustieji ir kiti įstatymų nustatyti fiziniai asmenys.
 
-13. Valstybinio socialinio draudimo fondo administravimo įstaigos (toliau – Fondo administravimo įstaigos) – Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba), Fondo valdybos teritoriniai skyriai ir kitos Valstybinio socialinio draudimo fondo įstaigos, susijusios su Valstybinio socialinio draudimo fondo administravimu. Fondo administravimo įstaigos yra valstybės įstaigos (toliau Fondo administravimo įstaigos, išskyrus Fondo valdybą, vadinamos Fondo valdybos teritoriniais skyriais).
+13. Valstybinio socialinio draudimo fondo administravimo įstaigos (toliau – Fondo administravimo įstaigos) – Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba) ir Fondo valdybos teritoriniai skyriai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2892, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10793
 
 14. Valstybinis socialinio draudimo fondas (toliau – Fondas) – šio įstatymo nustatyta tvarka valdomi centralizuoti tiksliniai finansiniai ir materialiniai ištekliai, kurie yra įtraukiami į apskaitą nuo valstybės ir savivaldybių biudžetų atskirtame Fondo biudžete ir yra naudojami pensijų, ligos, motinystės, nedarbo bei nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui finansuoti, valdyti ir administruoti.
 
@@ -130,7 +134,7 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-2050, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06367
 
-2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos prokuratūros įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai, Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Lietuvos Respublikos Seimo (toliau – Seimas), Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos prokuratūros įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai, Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Lietuvos Respublikos Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
 
 2 dalies redakcija nuo 2020-11-01:
 
@@ -145,6 +149,8 @@ Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 
 Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
+
+Nr. XIII-2925, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10934
 
 3. Vidaus tarnybos sistemos pareigūnai draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
 
@@ -762,13 +768,11 @@ SOCIALINIO DRAUDIMO VALDYMO SISTEMA
 
 4) Užimtumo tarnyba;
 
-Straipsnio punkto pakeitimai:
+5) Valstybinė ligonių kasa.
 
-Nr. XIII-947, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21639
+Straipsnio dalies pakeitimai:
 
-5) Valstybinė ligonių kasa;
-
-6) pensijų kaupimo bendrovės.
+Nr. XIII-2853, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08967
 
 3. Fondo valdymo struktūrą sudaro Fondo valdyba ir Fondo valdybos teritoriniai skyriai.
 
@@ -846,15 +850,15 @@ Fondo taryba:
 
 32 straipsnis. Fondo valdybos funkcijos ir teisės
 
-1. Fondo valdyba, organizuodama socialinį draudimą ir vykdydama Fondo biudžetą:
+1. Fondo valdyba:
 
-1) rengia ir suderinusi su atitinkamomis valstybės institucijomis teikia Socialinės apsaugos ir darbo ministerijai Fondo biudžeto projektą ir Fondo konsoliduotųjų ataskaitų rinkinį kartu su Fondo tarybos išvada;
+1) rengia ir, suderinusi su atitinkamomis valstybės institucijomis, teikia Socialinės apsaugos ir darbo ministerijai Fondo biudžeto projektą ir Fondo konsoliduotųjų ataskaitų rinkinį kartu su Fondo tarybos išvada;
 
-2) pagal savo kompetenciją administruoja socialinio draudimo įmokas, užtikrina socialinį draudimą reglamentuojančiuose teisės aktuose nustatytų socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, teisingą apskaičiavimą, skyrimą ir organizuoja socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, mokėjimą laiku;
+2) pagal kompetenciją administruoja socialinio draudimo įmokas, užtikrina socialinį draudimą reglamentuojančiuose teisės aktuose nustatytų socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, teisingą apskaičiavimą, skyrimą ir organizuoja socialinio draudimo išmokų bei kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, mokėjimą laiku;
 
 3) sudaro sutartis su juridiniais ar fiziniais asmenimis dėl socialinio draudimo funkcijų vykdymo;
 
-4) koordinuoja ir užtikrina Fondo valdybos teritorinių skyrių efektyvų ir kokybišką darbą bei juos kontroliuoja;
+4) koordinuoja ir užtikrina Fondo valdybos teritorinių skyrių efektyvų ir kokybišką darbą, juos kontroliuoja;
 
 5) Vyriausybės nustatyta tvarka organizuoja šio įstatymo 7 straipsnio 1 dalyje nurodytų asmenų socialinį draudimą;
 
@@ -866,29 +870,17 @@ Fondo taryba:
 
 9) organizuoja kaupiamųjų pensijų įmokų pervedimą į apdraustųjų asmenų pasirinktus pensijų kaupimo bendrovių valdomus pensijų fondus, privalomojo sveikatos draudimo įmokų pervedimą į Privalomojo sveikatos draudimo fondo biudžeto sąskaitą;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
-
 10) nustato ir tvirtina Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų pareigybių skaičių;
 
 11) tvirtina Fondo lėšų naudojimo tvarkos aprašą;
 
 12) organizuoja Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų mokymą;
 
-13) užtikrina įstatymų ir kitų teisės aktų nustatytų išmokų iš valstybės biudžeto teisingą ir laiku vykdomą skyrimą ir (ar) mokėjimą;
+13) užtikrina įstatymų ir kitų teisės aktų nustatytų išmokų iš valstybės biudžeto teisingą skyrimą ir (ar) mokėjimą laiku;
 
-14) nagrinėja apdraustųjų asmenų, draudėjų, socialinio draudimo ir kitų išmokų, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms, gavėjų, asmens sveikatos priežiūros įstaigų, kitų suinteresuotų asmenų skundus dėl Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų veiksmų ir sprendimų;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-883, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21484
+14) nagrinėja apdraustųjų asmenų, draudėjų, socialinio draudimo ir kitų išmokų, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms, gavėjų, asmens sveikatos priežiūros įstaigų, kitų suinteresuotų asmenų skundus dėl Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų veiksmų bei sprendimų;
 
 15) organizuoja ir vykdo asmenų, kuriems ligos išmokas, netekto darbingumo pensijas ar kitas išmokas iš Fondo biudžeto ar valstybės biudžeto moka Fondo administravimo įstaigos, neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumo ir teisėtumo tikrinimus, tais klausimais teikia metodinę ir praktinę pagalbą Fondo administravimo įstaigoms;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 
 16) teikia siūlymus Socialinės apsaugos ir darbo ministerijai dėl socialinio draudimo teisės aktų tobulinimo;
 
@@ -896,7 +888,7 @@ Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 
 18) teikia Valstybinei mokesčių inspekcijai informaciją, reikalingą socialinio draudimo įmokų apskaičiavimo kontrolei užtikrinti;
 
-19) Europos Sąjungos teisės aktuose ir kitais Lietuvos Respublikos sudarytose tarptautinėse sutartyse dėl socialinės apsaugos nustatytais atvejais veikia kaip kompetentinga įstaiga ir užtikrina šių sutarčių įgyvendinimą;
+19) Europos Sąjungos teisės aktuose ir Lietuvos Respublikos sudarytose tarptautinėse sutartyse dėl socialinės apsaugos nustatytais atvejais veikia kaip kompetentinga įstaiga ir užtikrina šių sutarčių įgyvendinimą;
 
 20) nagrinėja, aiškina ir sprendžia klausimus, susijusius su socialinį draudimą reglamentuojančių teisės aktų taikymu;
 
@@ -904,17 +896,11 @@ Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 
 22) informuoja visuomenę socialinio draudimo klausimais;
 
-23) vykdo pensijų anuitetų mokėjimo veiklą;
+23) vykdo kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
-Papildyta straipsnio punktu:
+Straipsnio dalies pakeitimai:
 
-Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
-
-24) vykdo kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
-
-Straipsnio punkto numeracijos pakeitimas:
-
-Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
+Nr. XIII-2853, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08967
 
 2. Fondo valdyba turi teisę:
 
@@ -3164,7 +3150,11 @@ autrap@lrs.lt
 
 341 straipsnis. Fondo administravimo įstaigų atliekama neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumo ir teisėtumo asmeniui, turinčiam teisę gauti ar gaunančiam išmoką, priežiūra
 
-1. Prižiūrėdama neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumą ir teisėtumą asmeniui, turinčiam teisę gauti ar gaunančiam ligos išmoką, netekto darbingumo pensiją ar kitą išmoką, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms, (toliau šiame straipsnyje kartu – išmokos) Fondo administravimo įstaiga turi teisę pasitelkti asmens sveikatos priežiūros įstaigų, teikiančių antrinio bei tretinio lygio specializuotas asmens sveikatos priežiūros paslaugas, su kuriomis sudaryta sutartis (toliau – sutartis), gydytojus specialistus (toliau – gydytojai specialistai) klausimams pagal jų kompetenciją spręsti. Prireikus Fondo administravimo įstaiga gali kreiptis į tokią sutartį sudariusią asmens sveikatos priežiūros įstaigą dėl papildomo asmens sveikatos ištyrimo. Sutartys su gydymo įstaigomis sudaromos Viešųjų pirkimų įstatymo nustatyta tvarka. Už asmens sveikatos priežiūros įstaigos, su kuria sudaryta sutartis, suteiktas paslaugas Fondo administravimo įstaiga apmoka iš Fondo biudžeto.
+1. Prižiūrėdama neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumą ir teisėtumą asmeniui, turinčiam teisę gauti ar gaunančiam ligos išmoką, netekto darbingumo pensiją ar kitą išmoką, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms (toliau šiame straipsnyje kartu – išmokos), Fondo administravimo įstaiga turi teisę pasitelkti universitetinių ir respublikinių ligoninių, teikiančių antrinio ir tretinio lygio specializuotas asmens sveikatos priežiūros paslaugas (toliau – asmens sveikatos priežiūros įstaigos), su kuriomis sudaryta sutartis (toliau – sutartis), gydytojus specialistus (toliau – gydytojai specialistai) klausimams pagal jų kompetenciją spręsti. Prireikus Fondo administravimo įstaiga gali kreiptis į tokią sutartį sudariusią asmens sveikatos priežiūros įstaigą dėl papildomo asmens sveikatos ištyrimo. Už asmens sveikatos priežiūros įstaigos, su kuria sudaryta sutartis, suteiktas paslaugas Fondo administravimo įstaiga sumoka iš Fondo biudžeto.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
 
 2. Nurodymas asmeniui, kurio neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumą ir teisėtumą prižiūri Fondo administravimo įstaigos, dalyvauti papildomame sveikatos tyrime yra privalomas ir neskundžiamas. Nurodyme asmeniui dalyvauti papildomame sveikatos tyrime Fondo administravimo įstaiga turi nurodyti jo įvykdymo terminą, kuris nustatomas atsižvelgiant į nagrinėjamą atvejį. Asmeniui neįvykdžius nurodymo, išmoka neskiriama, o jeigu ji paskirta, – sustabdomas jos mokėjimas, išskyrus atvejus, kai Fondo administravimo įstaigoms pateikiami įrodymai, kad nurodymas neįvykdytas dėl objektyvių aplinkybių, kurios nepriklausė nuo asmens, kuriam duotas nurodymas, valios.
 
