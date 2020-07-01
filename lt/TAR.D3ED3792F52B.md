@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2020-03-18"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-03-18 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-07
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -1389,7 +1389,11 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 3) kai valstybės tarnautojai išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymu;
 
-4) kai valstybės tarnautojas atlieka privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos tik einamos pareigos;
+4) kai valstybės tarnautojas atlieka privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos tik einamos pareigos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2679, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21320
 
 5) artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), senelių, vaikaičių), sutuoktinio, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), partnerio, sugyventinio, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių) mirties atveju – iki 3 darbo dienų;
 
@@ -1405,11 +1409,13 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 4. Pagal šio įstatymo 25 straipsnio 1 dalį perkeltiems į kitas pareigas karjeros valstybės tarnautojams garantuojamos eitos arba kitos lygiavertės pareigos toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje. Pagal šio įstatymo 25 straipsnio 1 dalį perkeltiems kadencijai priimtiems karjeros valstybės tarnautojams ši garantija taikoma ne ilgiau negu iki kadencijos pabaigos.
 
-5. Eitos pareigos garantuojamos valstybės tarnautojui, kai jis dėl privalomosios karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat dėl atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat karjeros valstybės tarnautojui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, dėl laikino perkėlimo į kitas pareigas pagal šio įstatymo 21 straipsnį negali eiti pareigų. Ši garantija kadencijai priimtam karjeros valstybės tarnautojui taikoma ne ilgiau negu iki kadencijos pabaigos.
+5. Eitos pareigos garantuojamos valstybės tarnautojui, kai jis dėl privalomosios karo tarnybos, savanoriškos nenuolatinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat dėl atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat karjeros valstybės tarnautojui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, dėl laikino perkėlimo į kitas pareigas pagal šio įstatymo 21 straipsnį negali eiti pareigų. Ši garantija kadencijai priimtam karjeros valstybės tarnautojui taikoma ne ilgiau negu iki kadencijos pabaigos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1817, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21837
+
+Nr. XIII-2679, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21320
 
 6. Valstybės tarnautojas turi teisę Vyriausybės nustatyta tvarka gauti išmokas už komandiruotės išlaidas.
 
