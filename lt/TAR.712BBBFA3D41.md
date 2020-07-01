@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2019-09-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-09-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-09
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -162,11 +162,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
-3) Lietuvos Respublikos Konstitucinis Teismas, teismai, Nacionalinė teismų administracija, Lietuvos Respublikos generalinė prokuratūra, Lietuvos administracinių ginčų komisija, Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės;
+3) Lietuvos Respublikos Konstitucinis Teismas, teismai, Nacionalinė teismų administracija, Lietuvos Respublikos generalinė prokuratūra, Lietuvos Respublikos vadovybės apsaugos tarnyba, Lietuvos administracinių ginčų komisija, Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
+
+Nr. XIII-2904, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10901
 
 4) valstybinis universitetas, valstybinis mokslinių tyrimų institutas arba kunigų seminarija;
 
