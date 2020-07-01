@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2020-06-23"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.03.17)
 
-Suvestinė redakcija nuo 2020-06-23 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
 
@@ -2025,6 +2025,14 @@ Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
 
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 1, 11, 28, 29, 34-1 straipsnių pakeitimo ir Įstatymo papildymo 37-11, 37-12 straipsniais įstatymas
 
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3178, 2020-06-26, paskelbta TAR 2020-06-29, i. k. 2020-14370
+
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 16-1 straipsnio pakeitimo įstatymas
+
 371 straipsnis. Prokuroro delegavimas į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas
 
 1. Prokuroras jo paties sutikimu gali būti deleguojamas į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas arba į kitas Lietuvos Respublikos tarptautinėse sutartyse numatytas pareigas paprastai ne ilgiau kaip trejiems metams, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip.
@@ -2153,29 +2161,27 @@ Nr. XII-1763, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09299
 
 Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
 
-161 straipsnis. Korupcinio pobūdžio nusikalstamų veikų, kurių padarymu įtariami valstybės ar savivaldybių institucijų, įstaigų ar įmonių vadovai, vadovų pavaduotojai ar asmenys, turintys imunitetą nuo patraukimo baudžiamojon atsakomybėn, ikiteisminio tyrimo ir valstybinio kaltinimo ypatumai
+161 straipsnis. Specialaus statuso suteikimas prokurorams
 
-1. Prokurorui, kuriam pavedama atlikti, organizuoti korupcinio pobūdžio nusikalstamų veikų, kurių padarymu įtariamas valstybės ar savivaldybės institucijos, įstaigos ar įmonės vadovas, vadovo pavaduotojas ar asmuo, turintis imunitetą nuo patraukimo baudžiamojon atsakomybėn, ikiteisminį tyrimą ir jam vadovauti bei palaikyti valstybinį kaltinimą tokiose baudžiamosiose bylose, gali būti suteikiamas specialus statusas.
+1. Prokurorui, kuriam pavedama atlikti, organizuoti korupcinio pobūdžio nusikalstamų veikų, kurių padarymu įtariamas valstybės ar savivaldybės institucijos, įstaigos ar įmonės vadovas, vadovo pavaduotojas ar asmuo, turintis imunitetą nuo patraukimo baudžiamojon atsakomybėn, ar nusikalstamų susivienijimų padarytų nusikalstamų veikų, ar nusikalstamų veikų ekonomikai, verslo tvarkai ar finansų sistemai ikiteisminį tyrimą ir jam vadovauti bei palaikyti valstybinį kaltinimą tokiose baudžiamosiose bylose, gali būti suteikiamas specialus statusas.
 
-2. Sprendimą dėl specialaus statuso suteikimo prokurorui ir specialaus statuso panaikinimo priima generalinis prokuroras, kai dėl šio straipsnio 1 dalyje nurodytų nusikalstamų veikų yra didelės žalos viešiesiems interesams atsiradimo tikimybė ar galimas poveikis tyrimui. Specialus statusas gali būti suteiktas tik Generalinės prokuratūros prokurorui jo sutikimu. Sprendžiant dėl specialaus statuso suteikimo, įvertinama prokuroro kvalifikacija, darbo stažas, specializacija, patirtis vadovaujant sudėtingiems tyrimams ir kitos esminės aplinkybės.
+2. Specialus statusas taip pat gali būti suteikiamas prokurorui, kuriam pavedama atlikti tyrimą dėl viešojo intereso galimo pažeidimo ir ginti viešąjį interesą civilinės ir administracinės teisės priemonėmis, kai pažeidimo padarymu įtariamas valstybės ar savivaldybės institucijos, įstaigos ar įmonės vadovas, vadovo pavaduotojas ar asmuo, turintis imunitetą nuo patraukimo baudžiamojon atsakomybėn.
 
-3. Prokuroras, kuriam suteiktas specialus statusas, turi tuos pačius įgaliojimus kaip ir kiti prokurorai, tačiau šiam prokurorui vykdant proceso įstatymus aukštesnysis prokuroras yra tik generalinis prokuroras arba generalinio prokuroro sprendimu generalinio prokuroro pavaduotojas ar Generalinės prokuratūros departamento vyriausiasis prokuroras.
+3. Sprendimą dėl specialaus statuso suteikimo prokurorui ir specialaus statuso panaikinimo priima generalinis prokuroras, kai dėl šio straipsnio 1 dalyje nurodytų nusikalstamų veikų ar galimai pažeisto viešojo intereso yra didelės žalos viešiesiems interesams atsiradimo tikimybė ar galimas poveikis tyrimui. Sprendžiant dėl specialaus statuso suteikimo, įvertinama prokuroro kvalifikacija, darbo stažas, specializacija, patirtis vadovaujant sudėtingiems tyrimams ir kitos esminės aplinkybės. Specialų statusą prokurorui galima suteikti tik prokuroro sutikimu.
 
-4. Prokurorui, kuriam suteiktas specialusis statusas, netaikomos šio Įstatymo 32 straipsnio 4 dalies, 33, 34, 36, 37, 371, 372, 373, 374, 375, 376, 378, 379, 3710 straipsnių, 39 straipsnio, 391 straipsnio 2 dalies, 40, 41 ir 42 straipsnių nuostatos.
+4. Prokuroras, kuriam suteiktas specialus statusas, turi tuos pačius įgaliojimus kaip ir kiti prokurorai, tačiau šiam prokurorui proceso metu aukštesnysis prokuroras yra tik generalinis prokuroras arba generalinio prokuroro sprendimu generalinio prokuroro pavaduotojas ar Generalinės prokuratūros departamento (skyriaus) vyriausiasis prokuroras (jo pavaduotojas).
 
-Straipsnio dalies pakeitimai:
+5. Prokurorui, kuriam suteiktas specialus statusas, netaikomos šio Įstatymo 32 straipsnio 4 dalies, 33, 34, 36, 37, 371, 372, 373, 374, 375, 376, 378, 379, 3710, 39 straipsnių, 391 straipsnio 2 dalies, 40, 41 ir 42 straipsnių nuostatos.
 
-Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+6. Prokurorui, kuriam suteiktas specialus statusas, už jo funkcijų atlikimą gali būti skiriama priemoka. Priemokos dydį, neviršydamas šio Įstatymo 49 straipsnio 6 dalyje nurodyto dydžio, ir mokėjimo terminą nustato generalinis prokuroras suteikdamas prokurorui specialų statusą.
 
-5. Prokurorui, kuriam suteiktas specialus statusas, už jo funkcijų atlikimą gali būti skiriama priemoka. Priemokos dydį, neviršydamas šio Įstatymo 49 straipsnio 6 dalyje nurodyto dydžio, ir mokėjimo terminą nustato generalinis prokuroras suteikdamas prokurorui specialų statusą.
+7. Specialus statusas panaikinamas prokuroro, kuriam jis suteiktas, prašymu arba paaiškėjus aplinkybėms, dėl kurių prokurorui suteiktas specialus statusas turi būti panaikintas, arba kai specialus statusas tampa nebereikalingas.
 
-6. Specialus statusas panaikinamas prokuroro, kuriam jis suteiktas, prašymu arba paaiškėjus aplinkybėms, dėl kurių prokurorui suteiktas specialus statusas turi būti panaikintas, arba kai specialus statusas tampa nebereikalingas.
+8. Specialaus statuso suteikimo prokurorams ir specialaus statuso panaikinimo tvarką nustato generalinis prokuroras.
 
-7. Specialaus statuso suteikimo prokurorams ir specialaus statuso panaikinimo tvarką nustato generalinis prokuroras.
+Straipsnio pakeitimai:
 
-Papildyta straipsniu:
-
-Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
+Nr. XIII-3178, 2020-06-26, paskelbta TAR 2020-06-29, i. k. 2020-14370
 
 377 straipsnis. Sutikimas komandiruoti Eurojusto ryšių palaikymo teisminį pareigūną
 
