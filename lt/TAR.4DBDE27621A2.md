@@ -4,7 +4,7 @@ identifier: "TAR.4DBDE27621A2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-28"
-last_updated: "2019-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
 
@@ -301,7 +301,11 @@ Nr. X-1571, 2008-06-05, Žin., 2008, Nr. 71-2700 (2008-06-21), i. k. 1081010ISTA
 
 3) asmeniui pareikštus įtarimus padarius korupcinio pobūdžio nusikalstamą veiką, taip pat priimtus procesinius sprendimus šiose bylose;
 
-4) asmens atžvilgiu taikomas ar taikytas organizuoto nusikalstamumo prevencines poveikio priemones pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą;
+4) asmens atžvilgiu taikomas ar taikytas organizuoto nusikalstamumo prevencijos priemones pagal Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3076, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14351
 
 5) asmens atleidimą iš tarnybos ar pareigų dėl priesaikos sulaužymo, pareigūno (teisėjo) vardo pažeminimo;
 
@@ -608,6 +612,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1298, 2018-06-27, paskelbta TAR 2018-07-03, i. k. 2018-11179
 
 Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 5, 8 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3076, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14351
+
+Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 9 straipsnio pakeitimo įstatymas
 
 91 straipsnis. Informacijos apie asmenį, kurį į pareigas Europos Sąjungos ar tarptautinėse institucijose teikia Lietuvos Respublika, pateikimas
 
