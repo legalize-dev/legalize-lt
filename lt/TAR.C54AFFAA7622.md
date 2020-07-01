@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2020-03-19"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2020-03-19 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-15
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -742,7 +742,11 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 1) socialinei įmonei;
 
-2) neįgaliųjų socialinei įmonei;
+2) neteko galios nuo 2020-07-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2429, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16067
 
 3) tiekėjui, kuriame nuteistųjų, atliekančių arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes, dirba daugiau kaip 50 procentų to tiekėjo metinio vidutinio sąrašuose esančių darbuotojų skaičiaus;
 
