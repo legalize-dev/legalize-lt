@@ -4,7 +4,7 @@ identifier: "TAR.7083DB116A2E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-12"
-last_updated: "2019-05-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7083DB116A2E"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos radiacinės saugos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 11-239, i. k. 0991010ISTAIII-1019
 
@@ -699,11 +699,13 @@ FIZINĖ SAUGA
 
 2. Fiziniai asmenys, prieš skiriant juos atsakingais už I, II, III pavojingumo kategorijų radioaktyviųjų šaltinių, su kuriais vykdoma branduolinės energetikos srities veikla su radioaktyviaisiais šaltiniais, radiacinę ir (ar) fizinę saugą, arba prieš priimant juos dirbti su I, II, III pavojingumo kategorijų radioaktyviaisiais šaltiniais, su kuriais vykdoma branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, privalo būti tikrinami Branduolinės energijos įstatyme nustatyta tvarka dėl teisės be palydos patekti į branduolinės energetikos objektų apsaugos zonas ir (ar) branduolinės energetikos objekto aikštelę.
 
-3. Radiacinės saugos centras licencijų ar laikinųjų leidimų turėtojų prašymu organizuoja fizinių asmenų, nurodytų šio straipsnio 1 dalyje, tikrinimą ir kreipiasi į Lietuvos Respublikos valstybės saugumo departamentą, asmens sveikatos priežiūros įstaigas, Neveiksnių ir ribotai veiksnių asmenų registro tvarkytoją ir Įtariamųjų, kaltinamųjų ir nuteistųjų registro tvarkytoją patikrinti, ar šie fiziniai asmenys neturi neišnykusio arba nepanaikinto teistumo už sunkius ir labai sunkius nusikaltimus arba nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, visuomenės saugumui, susijusius su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga, ar kuriems taikomos prevencinio poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą, ar nėra kitų aplinkybių, dėl kurių, Policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos ar Valstybės saugumo departamento vertinimu, fiziniai asmenys negalėtų dirbti šio darbo, neserga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis arba neturi šiame sąraše nurodytų sveikatos sutrikimų, dėl kurių negalėtų dirbti šio darbo, neįtraukti į Neveiksnių ir ribotai veiksnių asmenų registrą.
+3. Radiacinės saugos centras licencijų ar laikinųjų leidimų turėtojų prašymu organizuoja fizinių asmenų, nurodytų šio straipsnio 1 dalyje, tikrinimą ir kreipiasi į Lietuvos Respublikos valstybės saugumo departamentą, asmens sveikatos priežiūros įstaigas, Neveiksnių ir ribotai veiksnių asmenų registro tvarkytoją ir Įtariamųjų, kaltinamųjų ir nuteistųjų registro tvarkytoją patikrinti, ar šie fiziniai asmenys neturi neišnykusio arba nepanaikinto teistumo už sunkius ir labai sunkius nusikaltimus arba nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, visuomenės saugumui, susijusius su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga, ar kuriems taikomos organizuoto nusikalstamumo prevencijos priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymą, ar nėra kitų aplinkybių, dėl kurių, Policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos ar Valstybės saugumo departamento vertinimu, fiziniai asmenys negalėtų dirbti šio darbo, ar jie neserga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis arba neturi šiame sąraše nurodytų sveikatos sutrikimų, dėl kurių negalėtų dirbti šio darbo, ar neįtraukti į Neveiksnių ir ribotai veiksnių asmenų registrą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1919, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00852
+
+Nr. XIII-3071, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14346
 
 4. Fizinius asmenis skirti (priimti) į šio straipsnio 1 ar 2 dalyje nurodytas pareigas (darbą) draudžiama, jeigu juos patikrinus nustatyta, kad jie nėra tinkami dirbti.
 
@@ -1486,6 +1488,14 @@ Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-1919, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00852
+
+Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 25 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3071, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14346
 
 Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 25 straipsnio pakeitimo įstatymas
 
