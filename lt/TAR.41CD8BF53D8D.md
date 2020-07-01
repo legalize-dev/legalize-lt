@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2020-06-05"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2020-06-05 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-11-20
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -238,7 +238,11 @@ Nr. XII-608, 2013-11-21, Žin., 2013, Nr. 124-6284 (2013-12-05)
 
 7 straipsnis. Valstybės rinkliavos lengvatos
 
-1. Valstybės rinkliavos už paso, asmens tapatybės kortelės išdavimą, keitimą bendra tvarka Lietuvos Respublikos piliečiams, kuriems nesukako 18 metų, taip pat kuriems sukako senatvės pensijos amžius, nustatytas Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme, dydis sumažinamas 50 procentų jų pasirinkimu tik už vieno iš šių dokumentų išdavimą, keitimą bendra tvarka.
+1. Valstybės rinkliavos už paso, asmens tapatybės kortelės išdavimą, keitimą bendra tvarka Lietuvos Respublikos piliečiams, kuriems nesukako 18 metų, dydis sumažinamas 50 procentų, o piliečiams, kuriems sukako senatvės pensijos amžius, nustatytas Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme, dydis sumažinamas 80 procentų. Šiems asmenims valstybės rinkliava mažinama jų pasirinkimu tik už vieno iš šių dokumentų išdavimą, keitimą bendra tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2477, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17214
 
 2. Savivaldybės taryba turi teisę savo biudžeto sąskaita paskiriems valstybės rinkliavos mokėtojams sumažinti valstybės rinkliavos dydį arba iš viso nuo jos atleisti tais atvejais, kai valstybės rinkliava įskaitoma į tos savivaldybės biudžetą.
 
@@ -360,11 +364,15 @@ Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 
 5) leidimo įvažiuoti mechaninėmis transporto priemonėmis į valstybės saugomas teritorijas, savivaldybių įsteigtus saugomus draustinius, jų paskelbtų kraštovaizdžio objektų teritorijas ir nustatytas vietinės reikšmės apsaugines zonas išdavimą (išskyrus važiavimą per šias teritorijas valstybinės reikšmės keliais, naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis, terminalais ir pasienio kontrolės punktais; šios išimtys netaikomos Neringos miestui);
 
-6) naudojimąsi savivaldybių tarybų nustatytomis vietomis automobiliams statyti (išskyrus vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas, kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus viešuosius interesus užtikrinančius reikalavimus; taip pat išskyrus automobilių, pažymėtų neįgalių asmenų automobilių statymo kortele, statymą savivaldybių tarybų nustatytose nerezervuotose mokamose vietose automobiliams statyti ir Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos transporto priemonių, naudojamų saugomų asmenų ir (ar) saugomų objektų apsaugai, statymą);
+6) naudojimąsi savivaldybės tarybos nustatytomis vietomis automobiliams statyti (išskyrus vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas, kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus viešuosius interesus užtikrinančius reikalavimus; taip pat išskyrus automobilių, pažymėtų neįgalių asmenų automobilių statymo kortele, ir mokyklinių autobusų statymą savivaldybės tarybos nustatytose nerezervuotose mokamose vietose automobiliams statyti ir Lietuvos Respublikos vadovybės apsaugos tarnybos transporto priemonių, naudojamų saugomų asmenų ir (ar) saugomų objektų apsaugai, statymą);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1970, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17123
+
+Nr. XIII-2477, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17214
+
+Nr. XIII-2918, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10919
 
 7) neteko galios nuo 2018-01-01;
 
@@ -410,13 +418,17 @@ Savivaldybės taryba savo sprendimu tvirtina vietinės rinkliavos nuostatus, kur
 
 3) vietinės rinkliavos lengvatas;
 
-4) vietinės rinkliavos grąžinimo atvejus;
+4) vietinės rinkliavos grąžinimo tvarką;
 
-5) delspinigių dydį, jų apskaičiavimo, mokėjimo tvarką ir atleidimo nuo delspinigių atvejus.
+5) delspinigių dydį, jų apskaičiavimo, mokėjimo tvarką ir atleidimo nuo delspinigių atvejus;
+
+6) vietinės rinkliavos, nustatytos šio įstatymo 11 straipsnio 1 dalies 8 punkte, mokėtojui numatytos teikti paslaugos kokybės reikalavimus ir (ar) teikimo sąlygas (apimtį, asortimentą, terminus, periodiškumą ir kita), taip pat kriterijus ir subjektą, įgaliotą vertinti (nustatyti), ar yra (nėra) pažeisti šios paslaugos teikimo kokybės reikalavimai ir (ar) teikimo sąlygos.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+
+Nr. XIII-2495, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17225
 
 13 straipsnis. Vietinių rinkliavų dydžiai
 
@@ -515,14 +527,6 @@ Vietinė rinkliava mokama į savivaldybės, nustačiusios vietinę rinkliavą, b
 Papildyta straipsniu:
 
 Nr. XII-2157, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19855
-
-IV SKYRIUS
-
-RINKLIAVŲ RINKIMO KONTROLĖ IR RINKLIAVŲ MOKĖJIMO TVARKOS PAŽEIDIMO TEISINĖS PASEKMĖS
-
-Pakeistas skyriaus pavadinimas:
-
-Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 
 19 straipsnis. Įstatymo taikymas Jungtinei Karalystei
 
@@ -843,4 +847,26 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 1, 6, 6-1, 8 straipsnių ir priedo pakeitimo įstatymas
+
+132 straipsnis. Vietinės rinkliavos grąžinimas
+
+Sumokėta vietinė rinkliava arba jos dalis grąžinama šiais atvejais:
+
+1) kai sumokėta daugiau, negu nustatyta vietinės rinkliavos nuostatuose;
+
+2) jeigu paslauga nesuteikta;
+
+3) jeigu paslauga suteikta, bet pažeidžiant vietinės rinkliavos nuostatuose nustatytus šios paslaugos kokybės reikalavimus ir (ar) teikimo sąlygas.
+
+Papildyta straipsniu:
+
+Nr. XIII-2495, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17225
+
+IV SKYRIUS
+
+RINKLIAVŲ RINKIMO KONTROLĖ IR RINKLIAVŲ MOKĖJIMO TVARKOS PAŽEIDIMO TEISINĖS PASEKMĖS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 
