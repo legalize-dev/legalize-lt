@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2020-05-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
 
@@ -45,11 +45,13 @@ BENDROSIOS NUOSTATOS
 
 2. Nepaprastosios priemonės – šio Įstatymo nustatyti laikino pobūdžio apribojimai, veiksmai, taikomi nepaprastosios padėties metu, siekiant pašalinti grėsmę konstitucinei santvarkai ar visuomenės rimčiai.
 
-3. Viešosios tvarkos apsaugos komendantūra – valstybės institucija, sudaryta iš vidaus reikalų sistemos, Valstybės saugumo departamento pareigūnų, krašto apsaugos sistemos institucijų karių ir tarnautojų, kitų valstybės ir savivaldybių institucijų atstovų ir Lietuvos šaulių sąjungos narių (šaulių), siekiant užtikrinti visuomenės saugumą ir viešąją tvarką nepaprastosios padėties metu.
+3. Viešosios tvarkos apsaugos komendantūra – valstybės institucija, sudaryta iš vidaus reikalų sistemos, Valstybės saugumo departamento pareigūnų, krašto apsaugos sistemos institucijų karių ir valstybės tarnautojų, kitų valstybės ir savivaldybių institucijų atstovų ir Lietuvos šaulių sąjungos narių (šaulių), siekiant užtikrinti visuomenės saugumą ir viešąją tvarką nepaprastosios padėties metu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2442, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17529
+
+Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
 
 4. Specialus leidimas – viešosios tvarkos apsaugos komendantūros (savivaldybės administracijos direktoriaus) išduotas dokumentas, suteikiantis asmeniui ar transporto priemonei teisę būti tam tikru nustatytu laiku ir (ar) tam tikroje teritorijoje, kur yra įvesta nepaprastoji padėtis.
 
@@ -325,7 +327,13 @@ Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA
 
 1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad įvedus nepaprastąją padėtį visoje valstybės teritorijoje ar jos dalyje asmenys neturi teisės be specialaus leidimo pakeisti savo nuolatinės gyvenamosios vietos, išskyrus atvejus, kai pasitraukiama iš nepaprastosios padėties teritorijos arba šie asmenys evakuojami. Leidimus pakeisti nuolatinę gyvenamąją vietą nepaprastosios padėties metu išduoda komendantūrų komendantai, o jeigu komendantūros nesteigiamos, – savivaldybių administracijų direktoriai.
 
-2. Specialaus leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus reikalų sistemos ir prokuratūros pareigūnams, krašto apsaugos sistemos institucijų kariams ir tarnautojams, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos pareigūnams.
+2. Specialaus leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, savivaldybių administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus reikalų sistemos ir prokuratūros pareigūnams, krašto apsaugos sistemos institucijų kariams ir valstybės tarnautojams, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
+
+Nr. XIII-2913, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10912
 
 Straipsnio pakeitimai:
 
@@ -381,7 +389,7 @@ Nr. XIII-1005, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01018
 
 3) valstybės sienos apsaugos sustiprinimas arba valstybės sienos priedanga;
 
-4) draudimas išduoti leidimus civilinės apyvartos ginklams įsigyti ir jais prekiauti, taip pat laikyti šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas ar priemones, sprogmenis, laikinas jų paėmimas iš Lietuvos gyventojų, įstaigų ir organizacijų (išskyrus krašto apsaugos sistemos institucijų karius ir tarnautojus, Lietuvos šaulių sąjungos narius (šaulius), prokuratūros, Specialiųjų tyrimų tarnybos, Valstybės saugumo departamento, vidaus reikalų sistemos pareigūnus, Lietuvos Respublikos ginklų fondą prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentą prie Teisingumo ministerijos, Muitinės departamentą prie Finansų ministerijos ir Lietuvos banką);
+4) draudimas išduoti leidimus civilinės apyvartos ginklams įsigyti ir licencijas jais prekiauti, taip pat laikyti šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas ar priemones, sprogmenis;
 
 Straipsnio punkto pakeitimai:
 
@@ -390,6 +398,8 @@ Nr. X-187, 2005-05-12, Žin., 2005, Nr. 67-2399 (2005-05-28), i. k. 1051010ISTA0
 Nr. XI-650, 2010-01-14, Žin., 2010, Nr. 13-618 (2010-02-02), i. k. 1101010ISTA00XI-650
 
 Nr. XII-2442, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17529
+
+Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
 
 5) transporto priemonių (išskyrus specialios paskirties transporto priemones, šalinančias neigiamus padarinius teritorijoje, kurioje įvesta nepaprastoji padėtis, ir turinčias specialius leidimus) judėjimo apribojimas;
 
@@ -403,11 +413,13 @@ Nr. XII-2442, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17529
 
 10) transporto priemonių ir asmenų bei jų bagažo tikrinimas siekiant surasti ir paimti neteisėtai laikomus šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas bei priemones, nustatyti bei sulaikyti įstatymų pažeidėjus, užtikrinti viešąją tvarką ir visuomenės rimtį, apsaugoti gyventojų gyvybę, sveikatą ir turtą;
 
-11) Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo nustatyta tvarka transporto priemonių ar kito turto laikinasis paėmimas arba rekvizicija siekiant užkirsti kelią itin pavojingiems ir sunkiems padariniams arba jiems likviduoti, žmonių gyvybei, sveikatai ar turtui gelbėti;
+11) Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo nustatyta tvarka transporto priemonių, ginklų, ginklų priedėlių, šaudmenų ir jų dalių ar kito turto laikinasis paėmimas arba rekvizicija siekiant užkirsti kelią itin pavojingiems ir sunkiems padariniams arba jiems likviduoti, žmonių gyvybei, sveikatai ar turtui gelbėti. Ginklai, ginklų priedėliai, šaudmenys ir jų dalys, kurie priklauso teisę juos laikyti turintiems asmenims, gali būti laikinai paimami tik tada, kai turima informacijos, kad jie gali būti panaudoti nusikalstamoms veikoms;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-1418, 2011-05-26, Žin., 2011, Nr. 72-3469 (2011-06-14), i. k. 1111010ISTA0XI-1418
+
+Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
 
 12) nepaprastosios padėties metu teritorijoje įvedamas medicininis ar veterinarinis karantinas;
 
@@ -582,4 +594,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2865, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09206
 
 Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 28 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 22 ir 28 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2913, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10912
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 22 straipsnio pakeitimo įstatymas
 
