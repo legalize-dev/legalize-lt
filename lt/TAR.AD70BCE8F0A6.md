@@ -4,7 +4,7 @@ identifier: "TAR.AD70BCE8F0A6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-08"
-last_updated: "2019-05-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AD70BCE8F0A6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo 21 straipsnis įsigalioja 2004-07-27"
 ---
 # Lietuvos Respublikos asmens ir turto apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 116-4317, i. k. 1041010ISTA0IX-2327
 
@@ -119,7 +119,11 @@ Nr. XIII-1912, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00845
 
 5) turintis neišnykusį ar nepanaikintą teistumą;
 
-6) kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
+6) kuriam Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka taikomi teismo įpareigojimai ar per pastaruosius 5 metus Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka buvo skirtas vienas ar keli teismo įpareigojimai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3079, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14354
 
 7) buvęs apsaugininku ar apsaugos darbuotoju, kurio pažymėjimo galiojimas buvo panaikintas už šio įstatymo ar kitų su asmens ir turto apsauga susijusių teisės aktų pažeidimus, jeigu nuo pažymėjimo galiojimo panaikinimo nėra praėję 3 metai;
 
@@ -648,4 +652,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1912, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00845
 
 Lietuvos Respublikos asmens ir turto saugos įstatymo Nr. IX-2327 3 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3079, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14354
+
+Lietuvos Respublikos asmens ir turto apsaugos įstatymo Nr. IX-2327 3 straipsnio pakeitimo įstatymas
 
