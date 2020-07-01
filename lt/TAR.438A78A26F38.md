@@ -4,7 +4,7 @@ identifier: "TAR.438A78A26F38"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-01-26"
-last_updated: "2019-09-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2023-06-09
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
 
@@ -329,7 +329,11 @@ RESPUBLIKOS PREZIDENTO MATERIALINĖS IR SOCIALINĖS GARANTIJOS NUTRŪKUS RESPUBL
 
 2) užtikrinamas aptarnaujantis personalas ir transportas. Aptarnaujančio personalo pareigybių ir transporto priemonių skaičių Respublikos Prezidento kanceliarijos teikimu tvirtina Lietuvos Respublikos Vyriausybė;
 
-3) užtikrinama apsauga. Ją teisės aktų nustatyta tvarka vykdo Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos.
+3) užtikrinama apsauga. Ją teisės aktų nustatyta tvarka vykdo Lietuvos Respublikos vadovybės apsaugos tarnyba.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2917, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10918
 
 3. Respublikos Prezidentui, jei jis pageidauja, panaudos pagrindais suteikiamas būstas (gyvenamosios patalpos) Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
@@ -361,7 +365,7 @@ Lėšos, skirtos Respublikos Prezidentui, Respublikos Prezidento rezidencijai ir
 
 LAIKINAI EINANTIS
 
-RESPUBLIKOS PREZIDENTO PAREIGAS                                    ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                       ALGIRDAS BRAZAUSKAS
 
 Vilnius, 1993 m. sausio 26 d.
 
@@ -464,4 +468,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
 
 Lietuvos Respublikos Prezidento įstatymo Nr. I-56 14, 17, 19 ir 23 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2917, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10918
+
+Lietuvos Respublikos Prezidento įstatymo Nr. I-56 23 straipsnio pakeitimo įstatymas
 
