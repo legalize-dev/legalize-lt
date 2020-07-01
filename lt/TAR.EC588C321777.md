@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-14
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -477,7 +477,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
-13) nuosprendis, kuriuo atidedamas paskirtos bausmės vykdymas, – probacijos tarnyboms;
+13) nuosprendis, kuriuo atidedamas visos paskirtos bausmės vykdymas, – probacijos tarnybai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 14) nuosprendis, kuriuo nuteistajam paskiriama bausmė už labai sunkų ar sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką, – bausmę vykdančiai institucijai ir nuteistojo darbovietės, kurioje jis dirbo arba ėjo pareigas nusikalstamos veikos padarymo metu, administracijai, jeigu nuteistasis toliau dirba arba eina pareigas toje darbovietėje.
 
@@ -2109,13 +2113,17 @@ Nr. XI-1473, 2011-06-21, Žin., 2011, Nr. 81-3960 (2011-07-05)
 
 1. Nuosprendį paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos laisvės apribojimo bausmės atlikimo tvarką, sąlygas bei jo teises ir pareigas.
 
-2. Teismas laisvės apribojimo bausmę gali pakeisti kita bausme arba atleisti nuteistąjį nuo šios bausmės atlikimo ir jam paskirti baudžiamojo poveikio priemonę Lietuvos Respublikos baudžiamojo kodekso 48 straipsnyje numatytais atvejais.
+2. Teismas laisvės apribojimo bausmę kita bausme arba jos atlikimo sąlygas pakeičia Lietuvos Respublikos baudžiamojo kodekso 48 straipsnyje numatytais atvejais.
 
-3. Laisvės apribojimo bausmė pakeičiama šio Kodekso 362 straipsnyje nustatyta tvarka.
+3. Laisvės apribojimo bausmė ar jos atlikimo sąlygos pakeičiamos šio Kodekso 362 straipsnyje nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 355 straipsnis. Nuosprendžio, kuriuo paskirtas terminuotas laisvės atėmimas, vykdymas
 
@@ -2163,39 +2171,33 @@ Nr. XI-1473, 2011-06-21, Žin., 2011, Nr. 81-3960 (2011-07-05)
 
 Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
-358 straipsnis. Bausmės vykdymo atidėjimo panaikinimas arba bausmės vykdymo atidėjimo sąlygų pakeitimas
+358 straipsnis. Nuosprendžio, kuriuo nuteistajam bausmės vykdymas atidėtas, vykdymas
 
-1. Nuteistajam, kuriam bausmės vykdymas atidėtas remiantis Lietuvos Respublikos baudžiamojo kodekso 75 ar 92 straipsniu, bausmės vykdymo atidėjimo sąlygas pakeičia arba bausmės vykdymo atidėjimą panaikina ir nuteistąjį pasiunčia atlikti paskirtą bausmę nuteistojo gyvenamosios vietos apylinkės teismas nuteistojo elgesį kontroliuojančios institucijos teikimu.
+1. Nuosprendį paskelbęs teismas tuoj pat išaiškina nuteistajam, kuriam bausmės vykdymas atidėtas, nuosprendžio vykdymo tvarką, sąlygas bei jo teises ir pareigas.
 
-2. Teismas, gavęs Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
+2. Jeigu nuteistajam bausmės vykdymas buvo atidėtas iš dalies, bausmės vykdymo atidėjimas pradedamas vykdyti, kai nuteistasis atliko nuosprendyje nustatytą bausmės dalį. Pataisos įstaigos administracija ne vėliau kaip per tris darbo dienas nuo nuteistojo paleidimo iš pataisos įstaigos išsiunčia teismo nuosprendį su patvarkymu probacijos tarnybai.
 
-Papildyta straipsnio dalimi:
+3. Nuteistajam, kuriam bausmės vykdymas atidėtas remiantis Lietuvos Respublikos baudžiamojo kodekso 75 ar 92 straipsniu, bausmės vykdymo atidėjimo sąlygas pakeičia arba bausmės vykdymo atidėjimą panaikina ir nuteistąjį pasiunčia atlikti paskirtą bausmę, išskyrus Lietuvos Respublikos bausmių vykdymo kodekso 1641 straipsnyje nurodytą atvejį, nuteistojo gyvenamosios vietos apylinkės teismas probacijos tarnybos teikimu.
 
-Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
+4. Lietuvos Respublikos bausmių vykdymo kodekso 1641 straipsnyje nurodytu atveju bausmės vykdymo atidėjimą nuteistajam panaikina bausmės atlikimo vietos apylinkės teismas pataisos įstaigos teikimu.
 
-3. Šio straipsnio 1 ir 2 dalyse nurodytus klausimus teismas nagrinėja teismo posėdyje. Šiame posėdyje dalyvauja prokuroras ir nuteistojo elgesį kontroliuojančios institucijos atstovas. Į teismo posėdį šaukiamas nuteistasis arba jo atstovas pagal įstatymą ir gynėjas, tačiau šių asmenų neatvykimas nesustabdo klausimo nagrinėjimo.
+5. Teismas, gavęs Lietuvos Respublikos bausmių vykdymo kodekso 1641 straipsnyje arba Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą pataisos įstaigos arba probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
 
-Straipsnio dalies pakeitimai:
+6. Šio straipsnio 3, 4 ir 5 dalyse nurodytus klausimus teismas nagrinėja teismo posėdyje. Šiame posėdyje dalyvauja prokuroras ir institucijos, pateikusios teikimą, atstovas. Į teismo posėdį šaukiamas nuteistasis arba jo atstovas pagal įstatymą ir gynėjas, tačiau šių asmenų neatvykimas nesustabdo klausimo nagrinėjimo.
 
-Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
+7. Bylos nagrinėjimas pradedamas teisėjo pranešimu. Po to teismas išklauso atvykusius į posėdį asmenis.
 
-4. Bylos nagrinėjimas pradedamas teisėjo pranešimu. Po to teismas išklauso atvykusius į posėdį asmenis.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
-
-5. Teismas nuteistajam pakeičia bausmės vykdymo atidėjimo sąlygas arba panaikina bausmės vykdymo atidėjimą ir nuteistąjį pasiunčia atlikti paskirtą bausmę motyvuota nutartimi. Nutarties nuorašas išsiunčiamas bylą nagrinėjusiam pirmosios instancijos teismui.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
+8. Teismas nuteistajam pakeičia bausmės vykdymo atidėjimo sąlygas arba panaikina bausmės vykdymo atidėjimą ir nuteistąjį pasiunčia atlikti paskirtą bausmę motyvuota nutartimi. Nutarties nuorašas išsiunčiamas bylą nagrinėjusiam pirmosios instancijos teismui.
 
 Straipsnio pakeitimai:
 
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 360 straipsnis. Lygtinis paleidimas iš pataisos įstaigų
 
@@ -2213,9 +2215,17 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 3) patenkinti skundą ir pakeisti Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą – kai nagrinėjamas šios dalies 2 punkte nenurodytas klausimas.
 
-5. Priėmęs nutartį patvirtinti Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą arba patenkinti skundą ir taikyti lygtinį paleidimą iš pataisos įstaigos, teismas kartu nustato nuteistajam probacijos sąlygas.
+5. Neteko galios 2020-07-01.
 
-6. Nuteistajam, pateikusiam Lietuvos Respublikos bausmių vykdymo kodekso 157 straipsnio 3 dalyje nurodytą sutikimą, nustatoma intensyvi priežiūra, kitos probacijos sąlygos nustatomos atsižvelgiant į Lygtinio paleidimo iš pataisos įstaigos komisijos rekomendacijas ir (ar) lygtinai paleidžiamo iš pataisos įstaigos nuteistojo kriminogeninius veiksnius.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+
+6. Neteko galios 2020-07-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 7. Šiame straipsnyje nurodytų teismo nutarčių nuorašai ne vėliau kaip kitą darbo dieną nuo nutarčių priėmimo išsiunčiami nuteistajam ir prokurorui. Nutartys skundžiamos ir skundai nagrinėjami šio Kodekso 364 straipsnyje nustatyta tvarka.
 
@@ -2279,11 +2289,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1820, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11076
 
-4. Skundo padavimas sustabdo teismo nutarčių atidėti nuosprendžio vykdymą, atleisti nuteistąjį nuo bausmės atlikimo dėl ligos, pripažinti Europos Sąjungos valstybės narės teismo priimtą sprendimą konfiskuoti ir šio Kodekso 360 straipsnio 5 dalyje nurodytų nutarčių vykdymą.
+4. Skundo padavimas sustabdo teismo nutarčių atidėti nuosprendžio vykdymą, atleisti nuteistąjį nuo bausmės atlikimo dėl ligos, pripažinti Europos Sąjungos valstybės narės teismo priimtą sprendimą konfiskuoti ir nutarčių, kurių pagrindu nuteistasis turėtų būti lygtinai paleistas, vykdymą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1820, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11076
+
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 5. Aukštesniojo teismo pirmininkas ar Baudžiamųjų bylų skyriaus pirmininkas skundą paskiria nagrinėti teisėjui ar trijų teisėjų kolegijai ir vieną iš šių teisėjų patvirtina kolegijos pirmininku. Kai skundžiamą nutartį žemesniajame teisme priėmė vienas teisėjas, aukštesniajame teisme skundą nagrinėja vienas teisėjas; kai nutartį žemesniajame teisme priėmė teisėjų kolegija, aukštesniajame teisme skundą nagrinėja trijų teisėjų kolegija.
 
@@ -4509,15 +4521,19 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 339 straipsnis. Bausmės vykdymo atidėjimas
 
-1. Teismas, remdamasis Lietuvos Respublikos baudžiamojo kodekso 75 ar 92 straipsniu ir įvertinęs socialinio tyrimo išvadoje, jeigu ji buvo rengta, pateiktą informaciją, priimdamas nuosprendį gali nuspręsti bausmės vykdymą atidėti.
+1. Teismas, remdamasis Lietuvos Respublikos baudžiamojo kodekso 75 ar 92 straipsniu ir įvertinęs socialinio tyrimo išvadoje, jeigu ji buvo rengta, pateiktą informaciją, priimdamas nuosprendį gali nuspręsti bausmės vykdymą atidėti ar iš dalies atidėti jos vykdymą.
 
-2. Atidėdamas bausmės vykdymą, teismas nuosprendyje nurodo bausmės atidėjimo trukmę ir nuteistajam paskirtas auklėjamojo poveikio priemones, baudžiamojo poveikio priemones ir (ar) pareigas.
+2. Atidėdamas bausmės vykdymą, teismas nuosprendyje nurodo bausmės atidėjimo trukmę ir nuteistajam paskirtas auklėjamojo poveikio priemones, baudžiamojo poveikio priemones, pareigas ir (ar) intensyvią priežiūrą. Kai bausmės vykdymas atidedamas iš dalies, papildomai nurodoma, kokią bausmės dalį nuteistasis turi atlikti nedelsiant, kai įsiteisės nuosprendis.
 
-3. Bausmės vykdymo atidėjimo terminas skaičiuojamas nuo nuosprendžio įsiteisėjimo dienos.
+3. Kai atidėtas visos bausmės vykdymas, atidėjimo terminas skaičiuojamas nuo nuosprendžio įsiteisėjimo dienos. Kai bausmės vykdymas atidėtas iš dalies, bausmės vykdymo atidėjimo terminas skaičiuojamas nuo nuteistojo paleidimo iš pataisos įstaigos dienos.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 173 straipsnis. Europos Sąjungos valstybės narės teismo priimtas sprendimas konfiskuoti
 
