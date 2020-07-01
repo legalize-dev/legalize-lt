@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
 
@@ -121,7 +121,11 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atitinkamai p
 
 23 straipsnis. Draudimo išmokos dydžio sumažinimas
 
-Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius arba Karinių ir joms prilygintų struktūrų skyrius atitinkamai sumažina nukentėjusiajam išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba nustatytos profesinės ligos, jeigu Neįgalumo ir darbingumo nustatymo tarnyba iš naujo nustato, kad nukentėjusiojo netektas darbingumas sumažėjo. Jeigu darbingumo netekimas dėl draudžiamojo įvykio buvo nustatytas teismo sprendimu, draudimo išmoka šiame straipsnyje nustatytu atveju gali būti atitinkamai sumažinta tik teismo sprendimu.
+Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atitinkamai sumažina nukentėjusiajam išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba nustatytos profesinės ligos, jeigu Neįgalumo ir darbingumo nustatymo tarnyba iš naujo nustato, kad nukentėjusiojo netektas darbingumas sumažėjo. Jeigu darbingumo netekimas dėl draudžiamojo įvykio buvo nustatytas teismo sprendimu, draudimo išmoka šiame straipsnyje nustatytu atveju gali būti atitinkamai sumažinta tik teismo sprendimu.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2890, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10791
 
 26 straipsnis. Periodinė draudimo išmoka apdraustajam asmeniui mirus
 
@@ -173,7 +177,11 @@ Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
 
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Apdraustasis asmuo – privalomai draudžiamas nelaimingų atsitikimų darbe socialiniu draudimu asmuo, apie kurio draudimą teisės aktų nustatyta tvarka draudėjas pateikė pranešimą Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) teritoriniam skyriui ar Valstybinio socialinio draudimo fondo valdybos Karinių ir joms prilygintų struktūrų skyriui (toliau šis skyrius taip pat vadinamas Valstybinio socialinio draudimo fondo valdybos teritoriniu skyriumi) ir už kurį jis mokėjo ar privalėjo mokėti nelaimingų atsitikimų darbe socialinio draudimo įmokas.
+1. Apdraustasis asmuo – privalomai draudžiamas nelaimingų atsitikimų darbe socialiniu draudimu asmuo, apie kurio draudimą teisės aktų nustatyta tvarka draudėjas pateikė pranešimą Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) teritoriniam skyriui ir už kurį jis mokėjo ar privalėjo mokėti nelaimingų atsitikimų darbe socialinio draudimo įmokas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2890, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10791
 
 2. Apdraustojo asmens draudžiamosios pajamos – visos asmens pajamos ir kitos sumos, nuo kurių buvo mokamos arba turėjo būti mokamos valstybinio socialinio draudimo įmokos nelaimingų atsitikimų darbe socialiniam draudimui, taip pat priskaičiuotos ligos dėl nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba profesinės ligos išmokos, nustatytos šiame įstatyme, priskaičiuotos ligos (įskaitant darbdavio mokamas 2 pirmąsias ligos dienas), profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, nustatytos Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme (toliau – Ligos ir motinystės socialinio draudimo įstatymas), bei priskaičiuotos nedarbo socialinio draudimo išmokos ir dalinio darbo išmokos, nustatytos Lietuvos Respublikos nedarbo socialinio draudimo įstatyme.
 
@@ -285,7 +293,11 @@ Nr. XIII-948, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21640
 
 6. Asmenims, dirbantiems pagal nuotolinio darbo sutartį, draudžiamaisiais įvykiais pripažįstami tik tie nelaimingi atsitikimai ir ūmios profesinės ligos, kuriuos, dirbant darbdavio naudai, lėmė ar sukėlė darbdavio pateiktos medžiagos ar darbo priemonės, taip pat pats gamybos procesas.
 
-7. Sprendimus dėl nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo ir profesinių ligų pripažinimo draudžiamaisiais įvykiais, remdamiesi nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo bei profesinių ligų priežasčių tyrimo ir patvirtinimo dokumentais, taip pat dėl išmokų nukentėjusiesiems skyrimo ir mokėjimo priima Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai ir Karinių ir joms prilygintų struktūrų skyrius, vadovaudamiesi šiuo įstatymu, Vyriausybės tvirtinamais Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatais ir kitais teisės aktais.
+7. Sprendimus dėl nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo ir profesinių ligų pripažinimo draudžiamaisiais įvykiais, remdamiesi nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo bei profesinių ligų priežasčių tyrimo ir patvirtinimo dokumentais, taip pat dėl išmokų nukentėjusiesiems skyrimo ir mokėjimo priima Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai, vadovaudamiesi šiuo įstatymu, Vyriausybės tvirtinamais Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatais ir kitais teisės aktais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2890, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10791
 
 8 straipsnis. Draudėjų pareigos ir atsakomybė
 
@@ -295,7 +307,11 @@ Nr. XIII-948, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21640
 
 2) užtikrinti pirmąją medicinos pagalbą nukentėjusiajam dėl nelaimingo atsitikimo darbe ar ūmios profesinės ligos, taip pat prireikus nugabenti nukentėjusįjį į sveikatos priežiūros įstaigą;
 
-3) darbuotojų saugos ir sveikatos teisės aktų nustatyta tvarka pranešti apie nelaimingą atsitikimą darbe, pakeliui į darbą ar iš darbo, ūmią profesinę ligą Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo nustatytoms institucijoms ir Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui arba Karinių ir joms prilygintų struktūrų skyriui;
+3) darbuotojų saugos ir sveikatos teisės aktų nustatyta tvarka pranešti apie nelaimingą atsitikimą darbe, pakeliui į darbą ar iš darbo, ūmią profesinę ligą Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatyme nustatytoms institucijoms ir Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2890, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10791
 
 4) įstatymų ar Vyriausybės nustatyta tvarka organizuoti nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo tyrimą ir dalyvauti tiriant profesines ligas;
 
@@ -309,7 +325,11 @@ Nr. XIII-948, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21640
 
 1. Teisę į šio įstatymo nustatytas draudimo išmokas turi apdraustieji asmenys, kurių sveikatai dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba nustatytos profesinės ligos buvo pakenkta įvykus įvykiui, pripažintam draudžiamuoju šio įstatymo 6 straipsnyje nustatyta tvarka.
 
-2. Apdraustieji asmenys turi teisę gauti iš draudėjo informaciją apie valstybinio socialinio draudimo įmokų mokėjimą už juos, o įvykus draudžiamiesiems įvykiams apdraustieji asmenys ir jų šeimos nariai turi teisę gauti informaciją iš Valstybinio socialinio draudimo fondo valdybos, Valstybinio socialinio draudimo fondo valdybos teritorinių skyrių ir Karinių ir joms prilygintų struktūrų skyriaus apie šio įstatymo nustatytų garantijų taikymą.
+2. Apdraustieji asmenys turi teisę gauti iš draudėjo informaciją apie valstybinio socialinio draudimo įmokų mokėjimą už juos, o įvykus draudžiamiesiems įvykiams apdraustieji asmenys ir jų šeimos nariai turi teisę gauti informaciją iš Valstybinio socialinio draudimo fondo valdybos, Valstybinio socialinio draudimo fondo valdybos teritorinių skyrių apie šio įstatymo nustatytų garantijų taikymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2890, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10791
 
 10 straipsnis. Apdraustųjų asmenų pareigos
 
@@ -353,7 +373,11 @@ Ligos išmokos, susižalojus darbe, pakeliui į darbą ar iš darbo arba susirgu
 
 17 straipsnis. Sąlygos, kurioms esant ligos išmoka nemokama
 
-Laikinai nedarbingiems dėl draudžiamojo įvykio asmenims, pažeidusiems elgesio taisykles nedarbingumo metu, nustatytas Elektroninių nedarbingumo pažymėjimų bei elektroninių nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisyklėse, Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus ar Karinių ir joms prilygintų struktūrų skyriaus sprendimu ligos išmoka neskiriama arba jos mokėjimas nutraukiamas nuo pažeidimo padarymo dienos Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatuose nustatyta tvarka.
+Laikinai nedarbingiems dėl draudžiamojo įvykio asmenims, pažeidusiems elgesio taisykles nedarbingumo metu, nustatytas Elektroninių nedarbingumo pažymėjimų bei elektroninių nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisyklėse, Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus sprendimu ligos išmoka neskiriama arba jos mokėjimas nutraukiamas nuo pažeidimo padarymo dienos Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatuose nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2890, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10791
 
 20 straipsnis. Netekto darbingumo periodinė kompensacija
 
@@ -431,7 +455,11 @@ Nelaimingų atsitikimų darbe socialinio draudimo įmokų mokėjimo tvarką nust
 
 31 straipsnis. Lėšų išieškojimas iš kaltų asmenų
 
-Jeigu ištyrus nelaimingą atsitikimą darbe, pakeliui į darbą ar iš darbo nustatoma, kad jis įvyko dėl trečiojo asmens kaltės, Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius ar Karinių ir joms prilygintų struktūrų skyrius atgręžtinio reikalavimo teise išreikalauja išmokėtas išmokų sumas iš kalto asmens Civilinio kodekso nustatyta tvarka. Išmokų sumas, įskaitytinas į atlygintinos žalos, mokamos pagal Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymą, dydį Valstybinio socialinio draudimo fondo biudžetui kompensuoja draudimo bendrovės.
+Jeigu ištyrus nelaimingą atsitikimą darbe, pakeliui į darbą ar iš darbo nustatoma, kad jis įvyko dėl trečiojo asmens kaltės, Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atgręžtinio reikalavimo teise išreikalauja išmokėtas išmokų sumas iš kalto asmens Civilinio kodekso nustatyta tvarka. Išmokų sumas, įskaitytinas į atlygintinos žalos, mokamos pagal Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymą, dydį Valstybinio socialinio draudimo fondo biudžetui kompensuoja draudimo bendrovės.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2890, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10791
 
 IV SKYRIUS
 
@@ -439,7 +467,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 32 straipsnis. Nelaimingų atsitikimų darbe socialinio draudimo vykdymas
 
-Nelaimingų atsitikimų darbe socialinį draudimą vykdo Valstybinio socialinio draudimo fondo valdyba, Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai ir Karinių ir joms prilygintų struktūrų skyrius.
+Nelaimingų atsitikimų darbe socialinį draudimą vykdo Valstybinio socialinio draudimo fondo valdyba ir Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2890, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10791
 
 34 straipsnis. Valstybinio socialinio draudimo įmokų mokėjimo
 
