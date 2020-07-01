@@ -4,7 +4,7 @@ identifier: "TAR.336A4B109EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2020-06-12"
+last_updated: "2020-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
 
@@ -202,21 +202,13 @@ Nr. XIII-1580, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18194
 
 2. Vyriausioji rinkimų komisija likus ne mažiau kaip 110 dienų iki rinkimų paskelbia renkamų savivaldybių tarybų narių skaičių, atsižvelgdama į kiekvienos savivaldybės gyventojų skaičių, nustatytą pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais turi vykti savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose nustatyta tvarka ir terminais.
 
-11 straipsnis. Rinkimų apylinkių sudarymas
+11 straipsnis. Įstatymo keitimas
 
-1. Atsižvelgiant į patogumą rinkėjams atvykti į balsavimo patalpas ir rinkėjų skaičių, savivaldybių teritorijos dalijamos į rinkimų apylinkes.
+Šis įstatymas negali būti keičiamas nuo eilinių savivaldybių tarybų rinkimų datos paskelbimo dienos iki rinkimų galutinių rezultatų paskelbimo arba rinkimų rezultatų pripažinimo negaliojančiais dienos, išskyrus atvejus, kai reikia įgyvendinti Konstitucinio Teismo nutarimą arba Europos Sąjungos teisės aktą.
 
-2. Savivaldybės teritorijos suskirstymą, kuris yra pastovus organizuojant ir vykdant įvairius rinkimus ir referendumus, į rinkimų apylinkes savivaldybės administracijos direktoriaus teikimu tvirtina ir prireikus keičia Vyriausioji rinkimų komisija.
+Papildyta straipsniu:
 
-3. Rinkimų apylinkės teritorijoje turi gyventi ne daugiau kaip 5 000 rinkėjų.
-
-4. Rinkimų apylinkės ribos, balsavimo patalpos adresas keičiami prireikus, bet ne vėliau kaip likus 100 dienų iki rinkimų. Savivaldybės administracijos direktorius teikime tvirtinti savivaldybės teritorijos suskirstymą į rinkimų apylinkes nurodo siūlomą rinkimų apylinkės pavadinimą, rinkimų apylinkę sudarančius adresus, rinkėjų skaičių sudaromoje rinkimų apylinkėje, balsavimo patalpų adresą ir telefono numerį. Teikime keisti savivaldybės teritorijos suskirstymą į rinkimų apylinkes nurodomi siūlomi pakeitimai. Šie pakeitimai turi būti pateikti Vyriausiajai rinkimų komisijai ne vėliau kaip likus 110 dienų iki rinkimų. Jeigu anksčiau nustatytose balsavimo patalpose negalima surengti balsavimo, Vyriausioji rinkimų komisija savivaldybės rinkimų komisijos teikimu gali pakeisti apylinkės rinkimų komisijos balsavimo patalpos adresą likus iki rinkimų ir trumpesniam, negu šiame straipsnyje nustatyta, terminui.
-
-5. Patvirtintų rinkimų apylinkių sąrašą, jo pakeitimus skelbia Vyriausioji rinkimų komisija likus 100 dienų iki rinkimų.
-
-TREČIASIS SKIRSNIS
-
-RINKIMŲ ORGANIZAVIMAS
+Nr. XIII-1587, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18201
 
 12 straipsnis. Rinkimų komisijos
 
@@ -688,7 +680,7 @@ KANDIDATŲ KĖLIMAS
 
 34 straipsnis. Kandidatų į savivaldybės tarybos narius ir kandidatų į savivaldybės tarybos narius – merus kėlimas
 
-1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal  Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus ir neturinčios partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso, ir rinkimų komitetai.
+1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal  Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus ir neturinčios partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso, ir rinkimų komitetai.
 
 2. Asmuo į savivaldybės tarybos narius – merus gali išsikelti pats arba gali būti iškeltas partijos ar rinkimų komiteto. Kandidatu į savivaldybės tarybos narius – merus išsikėlusiam asmeniui yra taikomi tokie patys šiame įstatyme nustatyti reikalavimai, kurie yra taikomi ir kandidatui, į savivaldybės tarybos narius – merus keliamam partijos ar rinkimų komiteto.
 
