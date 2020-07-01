@@ -4,7 +4,7 @@ identifier: "TAR.423D6799832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2019-05-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
 
@@ -47,7 +47,13 @@ BENDROSIOS NUOSTATOS
 
 2) ginklų ir šaudmenų apyvartos, kurią reglamentuoja Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas;
 
-3) sprogmenų apyvartos, kurią atlieka Lietuvos Respublikos specialaus statuso subjektai – Lietuvos Respublikos specialiųjų tyrimų tarnyba, Lietuvos Respublikos krašto apsaugos ministerija, Lietuvos kariuomenė, Lietuvos Respublikos vidaus reikalų ministerija, vidaus reikalų statutinės įstaigos, Valstybės saugumo departamentas, Lietuvos Respublikos generalinė prokuratūra, Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos šaulių sąjunga, jų padaliniai ir jiems pavaldžios įstaigos, taip pat Lietuvos Respublikos muitinė;
+3) sprogmenų apyvartos, kurią atlieka Lietuvos Respublikos specialaus statuso subjektai – Lietuvos Respublikos specialiųjų tyrimų tarnyba, Lietuvos Respublikos krašto apsaugos ministerija, Lietuvos kariuomenė, Lietuvos Respublikos vidaus reikalų ministerija, Lietuvos Respublikos vidaus reikalų ministro valdymo srities statutinės įstaigos, Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos vadovybės apsaugos tarnyba, Lietuvos Respublikos generalinė prokuratūra, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos šaulių sąjunga, jų padaliniai ir jiems pavaldžios įstaigos, taip pat Lietuvos Respublikos muitinė;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2619, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20649
+
+Nr. XIII-2919, 2020-05-07, paskelbta TAR 2020-05-23, i. k. 2020-10981
 
 4) sprogmenų apyvartos, kurią atlieka kariniai vienetai, kai jie įstatymų nustatytais pagrindais ir tvarka Lietuvos Respublikoje įgyvendina tarptautinių operacijų, pratybų ar kitų karinio bendradarbiavimo renginių uždavinius;
 
@@ -219,7 +225,11 @@ SPROGMENŲ gamybos, prekybos, naudojimo LICENCIJAVIMO SĄLYGOS
 
 1) asmuo, sergantis sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis ar turintis šiame sąraše nurodytų sveikatos sutrikimų, dėl kurių jis negali tinkamai elgtis su sprogmenimis;
 
-2) asmuo, kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
+2) asmuo, kuriam Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka taikomi teismo įpareigojimai ar per pastaruosius 5 metus Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka buvo skirtas vienas ar keli teismo įpareigojimai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3070, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14345
 
 3) asmuo, apie kurį policija turi duomenų, kad jis kelia grėsmę kitų asmenų ar savo gyvybei ar sveikatai, nuosavybei, viešajai tvarkai ar visuomenės saugumui;
 
@@ -605,7 +615,7 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įst
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -696,6 +706,32 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1920, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00853
 
 Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo Nr. IX-1315 7 ir 8 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2619, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20649
+
+Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo Nr. IX-1315 1 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2919, 2020-05-07, paskelbta TAR 2020-05-23, i. k. 2020-10981
+
+Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo Nr. IX-1315 1 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3070, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14345
+
+Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo Nr. IX-1315 7 straipsnio pakeitimo įstatymas
+
+part_cf74e0b4d3694e818d196a37e5264c13_end
 
 23 straipsnis. Sprogmenų apskaita
 
