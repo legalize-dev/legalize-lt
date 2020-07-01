@@ -4,7 +4,7 @@ identifier: "TAR.F789235C18BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-10"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
-
-TAR pastaba. Įsigaliojus (2020-01-01) įstatymui Nr. XIII-2312, kituose teisės aktuose vartojama sąvoka „centralizuota vidaus audito tarnyba“ atitinka įstatymo Nr. XIII-2312 sąvoką „centralizuoto vidaus audito tarnyba“.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2312, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12392
-
-Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo Nr. IX-1253 pakeitimo įstatymas
 
 Nauja redakcija nuo 2020-01-01:
 
@@ -201,7 +193,11 @@ e) viešojo juridinio asmens teikiamą informaciją apie finansinę ir kitą vei
 
 9 straipsnis. Vidaus audito tarnybos steigimas
 
-1. Lietuvos Respublikos Prezidento kanceliarijoje, Lietuvos Respublikos Seimo kanceliarijoje, Lietuvos Respublikos Vyriausybės kanceliarijoje, Nacionalinėje teismų administracijoje, Lietuvos Respublikos generalinėje prokuratūroje, Lietuvos Respublikos specialiųjų tyrimų tarnyboje, Lietuvos Respublikos valstybės saugumo departamente, Lietuvos Respublikos valstybės kontrolėje, valstybiniuose universitetuose turi būti įsteigtos vidaus audito tarnybos.
+1. Lietuvos Respublikos Prezidento kanceliarijoje, Lietuvos Respublikos Seimo kanceliarijoje, Lietuvos Respublikos Vyriausybės kanceliarijoje, Nacionalinėje teismų administracijoje, Lietuvos Respublikos generalinėje prokuratūroje, Lietuvos Respublikos specialiųjų tyrimų tarnyboje, Lietuvos Respublikos valstybės saugumo departamente, Lietuvos Respublikos vadovybės apsaugos tarnyboje, Lietuvos Respublikos valstybės kontrolėje, valstybiniuose universitetuose turi būti įsteigtos vidaus audito tarnybos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2924, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10932
 
 2. Ministerijose turi būti įsteigtos centralizuoto vidaus audito tarnybos. Atsižvelgiant į viešojo juridinio asmens organizacinę struktūrą, atliekamų funkcijų apimtį, svarbą, viešajam juridiniam asmeniui pavaldžių viešųjų juridinių asmenų skaičių ir kitus veiklos ypatumus, ministrui pavestoje valdymo srityje veikiančiame viešajame juridiniame asmenyje ministro sprendimu gali būti įsteigta vidaus audito tarnyba.
 
@@ -321,7 +317,7 @@ Viešojo juridinio asmens vadovas, veikdamas vidaus audito srityje:
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -404,4 +400,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2312, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12392
 
 Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo Nr. IX-1253 pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2924, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10932
+
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo Nr. IX-1253 9 straipsnio pakeitimo įstatymas
 
