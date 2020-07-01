@@ -4,7 +4,7 @@ identifier: "TAR.FBE404535C5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-08"
-last_updated: "2019-05-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 215-0; Žin. 1991, Nr.30-804, i. k. 0911010ISTA00I-1863
 
@@ -732,6 +732,14 @@ Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
 
 Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 3, 5, 11 ir 12 straipsnių pakeitimo įstatymas
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2662, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20997
+
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 19-1 straipsnio pakeitimo įstatymas
+
 13 straipsnis. Viešųjų keleivinio transporto paslaugų teikimas
 
 1. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių institucijos užtikrina socialiai būtinų transporto paslaugų teikimą visuomenei. Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams yra kompensuojami Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių.
@@ -806,7 +814,11 @@ VIEŠOJO NAUDOJIMO INFRASTRUKTŪROS VALDYMAS IR PLĖTRA
 
 TAR pastaba. Bylos dėl Lietuvos Respublikos transporto veiklos pagrindų 191 straipsnio 1 dalies reikalavimų pažeidimo, pradėtos iki 2017-01-01, baigiamos nagrinėti pagal tvarką, galiojusią iki įstatymo Nr. XII-2483 įsigaliojimo (2017-01-01), išskyrus įstatymo Nr. XII-2483 16  straipsnio 4 dalyje nurodytą išimtį.
 
-2. Įgaliotas padalinys yra Lietuvos policijos generalinio komisaro įsakymu įgaliota policijos įstaiga ar jos struktūrinis padalinys. Įgaliotam padaliniui priklauso Valstybės sienos apsaugos tarnybos ir Lietuvos Respublikos valstybės saugumo departamento (toliau – Valstybės saugumo departamentas) deleguoti pareigūnai, įgalioti atlikti funkcijas, susijusias su šio Įstatymo 1 priede nurodytų duomenų tvarkymu.
+2. Įgaliotas padalinys yra Lietuvos policijos generalinio komisaro įsakymu įgaliota policijos įstaiga ar jos struktūrinis padalinys. Įgaliotam padaliniui priklauso Valstybės sienos apsaugos tarnybos, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ir Lietuvos Respublikos valstybės saugumo departamento deleguoti pareigūnai, įgalioti atlikti funkcijas, susijusias su šio Įstatymo 1 priede nurodytų duomenų tvarkymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2662, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20997
 
 3. Šio Įstatymo 1 priede nurodyti duomenys tvarkomi teroristinių nusikaltimų ir su teroristine veikla susijusių nusikaltimų, taip pat sunkių ir labai sunkių nusikaltimų, kaip jie apibrėžti Lietuvos Respublikos baudžiamajame kodekse, prevencijos, nustatymo, tyrimo ir patraukimo už juos baudžiamojon atsakomybėn tikslais.
 
