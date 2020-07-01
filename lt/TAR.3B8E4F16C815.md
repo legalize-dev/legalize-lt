@@ -4,7 +4,7 @@ identifier: "TAR.3B8E4F16C815"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-10-02"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3B8E4F16C815"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 straipsnio 2 dalis įsigalioja 2012-10-20"
 
 LIETUVOS RESPUBLIKOS KRIMINALINĖS ŽVALGYBOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-11-18
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 122-6093, i. k. 1121010ISTA0XI-2234
 
@@ -80,11 +80,13 @@ BENDROSIOS NUOSTATOS
 
 10. Kriminalinės žvalgybos objektai – galimai rengiamos, daromos ar padarytos nusikalstamos veikos, jas rengiantys, darantys ar padarę asmenys, šių asmenų aktyvūs veiksmai neutralizuojant kriminalinę žvalgybą, kiti su valstybės nacionaliniu saugumu susiję įvykiai ir asmenys.
 
-11. Kriminalinės žvalgybos pagrindinės institucijos – Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Specialiųjų tyrimų tarnyba, Vadovybės apsaugos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. Kriminalinės žvalgybos pagrindinių institucijų teises ir pareigas taip pat turi Antrasis operatyvinių tarnybų departamentas prie Lietuvos Respublikos krašto apsaugos ministerijos ir Valstybės saugumo departamentas, kai jų padaliniai atlieka kriminalinės žvalgybos tyrimą šio įstatymo nustatytais pagrindais ir tvarka.
+11. Kriminalinės žvalgybos pagrindinės institucijos – Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos Respublikos vadovybės apsaugos tarnyba, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Specialiųjų tyrimų tarnyba, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. Kriminalinės žvalgybos pagrindinių institucijų teises ir pareigas taip pat turi Antrasis operatyvinių tarnybų departamentas prie Lietuvos Respublikos krašto apsaugos ministerijos ir Valstybės saugumo departamentas, kai jų padaliniai atlieka kriminalinės žvalgybos tyrimą šio įstatymo nustatytais pagrindais ir tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
+
+Nr. XIII-2912, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10910
 
 12. Kriminalinės žvalgybos subjektai – kriminalinę žvalgybą įgalioti vykdyti padaliniai. Šių padalinių sąrašą sudaro ir jų veiklos mastą nustato Lietuvos Respublikos Vyriausybė.
 
@@ -272,7 +274,13 @@ Nr. XIII-2564, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19873
 
 3) dingsta be žinios asmuo;
 
-4) vykdoma asmenų apsauga nuo nusikalstamo poveikio.
+4) vykdoma asmenų apsauga nuo nusikalstamo poveikio;
+
+5) į organizuotų nusikalstamų grupių sąrašą įtrauktos organizuotos nusikalstamos grupės nariui ar su ja susijusiam asmeniui taikomos organizuoto nusikalstamumo prevencijos priemonės.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 
 2. Kriminalinės žvalgybos tyrimą gali atlikti ir Antrojo operatyvinių tyrimų departamento prie Krašto apsaugos ministerijos ir Valstybės saugumo departamento padaliniai, kai gaunama duomenų apie Lietuvos Respublikos baudžiamojo kodekso 114, 118, 119, 121, 122, 124, 125, 126, 296 ir 297 straipsniuose numatytas nusikalstamas veikas arba apie jas rengiantį, darantį ar padariusį asmenį.
 
@@ -540,7 +548,11 @@ KRIMINALINĖS ŽVALGYBOS informacijos PANAUDOJIMAS
 
 2. Kai kriminalinės žvalgybos informacija panaudojama baudžiamajame procese, jos panaudojimo tvarką nustato generalinis prokuroras. Panaudojant kriminalinės žvalgybos informaciją baudžiamajame procese, turi būti apsaugoti kriminalinės žvalgybos subjektų teisėti interesai užtikrinant kriminalinės žvalgybos slaptųjų dalyvių saugumą ir neatskleidžiant informacijos apie naudojamas technines priemones ir (ar) detalių duomenų apie kriminalinės žvalgybos informacijos rinkimo būdų ir priemonių naudojimą.
 
-3. Kriminalinės žvalgybos informacija apie korupcinio pobūdžio nusikalstamos veikos požymių turinčią veiką, prokurorui sutikus, kriminalinės žvalgybos pagrindinės institucijos vadovo sprendimu gali būti išslaptinama ir panaudojama tiriant drausminius ir (ar) tarnybinius nusižengimus.
+3. Kriminalinės žvalgybos informacija apie korupcinio pobūdžio nusikalstamos veikos požymių turinčią veiką, prokurorui sutikus, kriminalinės žvalgybos pagrindinės institucijos vadovo sprendimu gali būti išslaptinama ir panaudota tiriant drausminius ir (ar) tarnybinius nusižengimus. Kriminalinės žvalgybos informacija apie organizuoto nusikalstamumo, korupcinio, savanaudiško pobūdžio nusikalstamos veikos požymių turinčią veiką, prokurorui sutikus, kriminalinės žvalgybos pagrindinės institucijos vadovo sprendimu gali būti išslaptinama ir panaudota turto tyrimui pagal Lietuvos Respublikos civilinio turto konfiskavimo įstatymą atlikti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2827, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06994
 
 4. Kriminalinės žvalgybos informacija teikiama susipažinti Lietuvos Respublikos Prezidentui, Seimo Pirmininkui, Ministrui Pirmininkui, taip pat kriminalinės žvalgybos kontrolę vykdančioms valstybės institucijoms ar šios veiklos kontrolę vykdyti įgaliotiems asmenims, esant motyvuotam jų rašytiniam prašymui, jeigu jiems teisės aktuose nustatytoms funkcijoms įgyvendinti ar sprendimams priimti nepakanka pateiktos susipažinti apibendrintos informacijos, parengtos kriminalinės žvalgybos informacijos pagrindu.
 
@@ -749,6 +761,30 @@ Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-2564, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19873
+
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2827, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06994
+
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 19 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2912, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10910
+
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 2 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 
 Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas
 
