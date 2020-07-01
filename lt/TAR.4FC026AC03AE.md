@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-08
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
 
@@ -564,7 +564,11 @@ BENDROSIOS NUOSTATOS
 
 1. Vidaus reikalų ministro valdymo srities statutinės įstaigos:
 
-1) centrinės statutinės įstaigos: Policijos departamentas prie Vidaus reikalų ministerijos (toliau – Policijos departamentas), Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos (toliau – Priešgaisrinės apsaugos ir gelbėjimo departamentas), Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba), Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos (toliau – Vadovybės apsaugos departamentas), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba);
+1) centrinės statutinės įstaigos: Policijos departamentas prie Vidaus reikalų ministerijos (toliau – Policijos departamentas), Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos (toliau – Priešgaisrinės apsaugos ir gelbėjimo departamentas), Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 
 2) kitos statutinės įstaigos – centrinėms statutinėms įstaigoms pavaldžios statutinės įstaigos;
 
@@ -892,7 +896,11 @@ PAREIGŪNŲ LAIPSNIAI IR JŲ SUTEIKIMO TVARKA
 
 2. Laipsniai skirstomi į vidaus tarnybos ir policijos laipsnius.
 
-3. Vidaus tarnybos laipsniai suteikiami Finansinių nusikaltimų tyrimo tarnybos, Priešgaisrinės apsaugos ir gelbėjimo departamento, Vadovybės apsaugos departamento, Valstybės sienos apsaugos tarnybos, Viešojo saugumo tarnybos, Kalėjimų departamento, Muitinės departamento ir šioms centrinėms statutinėms įstaigoms pavaldžių statutinių įstaigų ir statutinių profesinio mokymo įstaigų pareigūnams.
+3. Vidaus tarnybos laipsniai suteikiami Finansinių nusikaltimų tyrimo tarnybos, Priešgaisrinės apsaugos ir gelbėjimo departamento, Valstybės sienos apsaugos tarnybos, Viešojo saugumo tarnybos, Kalėjimų departamento, Muitinės departamento ir šioms centrinėms statutinėms įstaigoms pavaldžių statutinių įstaigų ir statutinių profesinio mokymo įstaigų pareigūnams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 
 4. Vidaus tarnybos laipsniai yra:
 
@@ -1146,7 +1154,11 @@ Pareigūnai į aukštesnes pareigas gali būti perkelti tarnybinės veiklos vert
 
 1. Pareigūnai jų rašytiniu sutikimu gali būti siunčiami į užsienio valstybes atlikti patarėjo, stebėtojo ir kitų funkcijų tarptautinėje organizacijoje ar institucijoje, Europos Sąjungos institucijoje ar įstaigoje, Europos Komisijos ar Tarybos įsteigtoje institucijoje, Europos Komisijos ir Europos Sąjungos valstybių narių kartu įsteigtoje organizacijoje (konsorciume) (toliau – tarptautinė institucija), civilinėje tarptautinėje operacijoje ar užsienio valstybės institucijoje arba tarptautinės institucijos ar humanitarinės pagalbos teikimo misijoje, specialiojoje misijoje, taip pat Jungtinių Tautų, kitų tarptautinių organizacijų, Europos Sąjungos, užsienio valstybių operacijose ir misijose.
 
-2. Centrinės statutinės įstaigos vadovo nustatyta ir su Lietuvos Respublikos užsienio reikalų ministru suderinta tvarka vidaus reikalų ministro valdymo srities statutinių įstaigų pareigūnai jų rašytiniu sutikimu vienų metų laikotarpiui gali būti siunčiami saugoti Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių organizacijų. Pareigūno, nusiųsto saugoti Lietuvos Respublikos diplomatinės atstovybės, konsulinės įstaigos ir atstovybės prie tarptautinės organizacijos, tarnybos užsienyje laikotarpis gali būti pratęstas, tačiau bendras pareigūno, nusiųsto saugoti Lietuvos Respublikos diplomatinės atstovybės, konsulinės įstaigos ir atstovybės prie tarptautinės organizacijos, tarnybos užsienyje laikotarpis negali viršyti vienų metų ir 6 mėnesių. Tokia pareigūno tarnyba užsienyje nelaikoma tarnybine komandiruote.
+2. Neteko galios nuo 2020-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 
 ŠEŠTASIS SKIRSNIS
 
@@ -1292,11 +1304,13 @@ PAREIGŪNŲ SKATINIMAS IR ATSAKOMYBĖ
 
 53 straipsnis. Pareiginė alga
 
-1. Pareigūno pareiginė alga nustatoma taikant šio statuto priede tai pareigūno pareigybei nustatytą pareiginės algos koeficientą iš atitinkamos pareigybių grupės pareigybėms nustatytų pareiginės algos koeficientų intervalo. Finansinių nusikaltimų tyrimo tarnybos ir Vadovybės apsaugos departamento pareigūnams, kurių pareigybės priskirtos 5, 6 pareigybių grupėms, taikomas papildomas koeficientas – 1, kurių pareigybės priskirtos 7, 8, 9, 10, 11 pareigybių grupėms, – papildomas koeficientas – 1,2. Šioje dalyje nurodytas papildomas koeficientas pridedamas prie šio statuto priede nurodytų pareigūnų pareiginės algos koeficientų, atitinkamai keičiant pareiginės algos koeficientų intervalo minimalią ir maksimalią ribas. Pareiginės algos koeficiento vienetas yra lygus Lietuvos Respublikos Seimo patvirtintam atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) baziniam dydžiui (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio. Ateinančių finansinių metų bazinis dydis, atsižvelgiant į praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą), minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, nustatomas nacionalinėje kolektyvinėje sutartyje. Nacionalinėje kolektyvinėje sutartyje sulygtą bazinį dydį tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Jeigu nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 dienos, ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, įvertindamas ir atsižvelgdamas į šioje dalyje numatytas aplinkybes, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės.
+1. Pareigūno pareiginė alga nustatoma taikant šio statuto priede tai pareigūno pareigybei nustatytą pareiginės algos koeficientą iš atitinkamos pareigybių grupės pareigybėms nustatytų pareiginės algos koeficientų intervalo. Finansinių nusikaltimų tyrimo tarnybos pareigūnams, kurių pareigybės priskirtos 5, 6 pareigybių grupėms, taikomas papildomas koeficientas – 1, kurių pareigybės priskirtos 7, 8, 9, 10, 11 pareigybių grupėms, – papildomas koeficientas – 1,2. Šioje dalyje nurodytas papildomas koeficientas pridedamas prie šio statuto priede nurodytų pareigūnų pareiginės algos koeficientų, atitinkamai keičiant pareiginės algos koeficientų intervalo minimalią ir maksimalią ribas. Pareiginės algos koeficiento vienetas yra lygus Lietuvos Respublikos Seimo patvirtintam atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) baziniam dydžiui (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio. Ateinančių finansinių metų bazinis dydis, atsižvelgiant į praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą), minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, nustatomas nacionalinėje kolektyvinėje sutartyje. Nacionalinėje kolektyvinėje sutartyje sulygtą bazinį dydį tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Jeigu nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 dienos, ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, įvertindamas ir atsižvelgdamas į šioje dalyje numatytas aplinkybes, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
+
+Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 
 2. Pareigūno pareiginė alga nustatoma atsižvelgiant į įstaigų grupę, kuriai priskirta statutinė įstaiga, kurioje pareigūnas eina pareigas. Statutinės įstaigos į grupes skirstomos vadovaujantis Valstybės tarnybos įstatyme nustatytais valstybės ir savivaldybių institucijų ir įstaigų skirstymo į grupes kriterijais. Statutinių įstaigų sąrašą pagal grupes tvirtina Vyriausybė, atsižvelgdama į Valstybės tarnybos įstatyme nustatytus valstybės ir savivaldybių institucijų ir įstaigų skirstymo į grupes kriterijus.
 
@@ -1498,7 +1512,11 @@ Pareigūnų, jų šeimos narių ir jų nuosavybės apsauga, kai dėl pareigūno 
 
 7. Šio straipsnio 5 dalyje nurodytos garantijos taikomos, jeigu pareigūno tarnybos vietovėje pareigūnas ar jo sutuoktinis, sugyventinis (partneris), nepilnamečiai vaikai ir įvaikiai neturi nuosavybės teise priklausančio tinkamo gyventi vienam asmeniui ar šeimai ir atitinkančio statybos bei specialiųjų normų (higienos, gaisrinės saugos ir kitų) reikalavimus namo, buto ar kitos gyvenamosios patalpos ar jos dalies.
 
-8. Pareigūnams, nusiųstiems saugoti Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių organizacijų, visą jų tarnybos užsienyje laikotarpį mokama su tarnyba užsienyje susijusių išlaidų kompensacija, taip pat apmokamos įsikūrimo, kelionių, draudimo ir gyvenamųjų patalpų nuomos išlaidos. Šių išlaidų ir kompensacijos dydį bei mokėjimo tvarką nustato Vyriausybė.
+8. Neteko galios nuo 2020-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 
 9. Už viršvalandinį darbą pareigūno prašymu vietoj šio statuto 57 straipsnyje nustatyto apmokėjimo gali būti kompensuojama suteikiant pareigūnui per mėnesį mokamą poilsio laiką, kurio trukmė apskaičiuojama viršvalandinio darbo laiką padauginus iš skaičiaus 1,5, jeigu tai nesutrikdys statutinės įstaigos veiklos. Už šioje dalyje nustatyta tvarka suteiktą poilsio laiką paliekamas pareigūno darbo užmokestis.
 
@@ -1512,7 +1530,11 @@ Pareigūnų, jų šeimos narių ir jų nuosavybės apsauga, kai dėl pareigūno 
 
 3) kai pareigūnai išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymu;
 
-4) kai pareigūnas atlieka privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos tik einamos pareigos;
+4) kai pareigūnas atlieka privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos tik einamos pareigos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2678, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21319
 
 5) artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), senelių, vaikaičių), sutuoktinio, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), sugyventinio, jeigu jis nurodytas pareigūno privačių interesų deklaracijoje, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių) mirties atveju – iki 3 darbo dienų;
 
@@ -1522,11 +1544,13 @@ Pareigūnų, jų šeimos narių ir jų nuosavybės apsauga, kai dėl pareigūno 
 
 8) kai pareigūnai pagal šio statuto 36 straipsnio 1 dalį yra perkelti į pareigas tarptautinėse institucijose ar užsienio valstybių institucijose. Šiuo atveju nustatytas darbo užmokestis pareigūnui nemokamas, jeigu darbo užmokestį jam moka institucija, įstaiga ar organizacija, į kurią eiti pareigas jis perkeltas.
 
-2. Eitos pareigos garantuojamos pareigūnui, kai jis dėl privalomosios karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat pareigūnui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, iki jam sueis 3 metai, dėl laikino perkėlimo į kitas pareigas pagal šio statuto 31 straipsnį negali eiti pareigų. Ši garantija nustatytai kadencijai ar nustatytam laikui į pareigas paskirtiems pareigūnams taikoma ne ilgiau negu iki kadencijos ar tarnybos einant tas pareigas laikotarpio pabaigos.
+2. Eitos pareigos garantuojamos pareigūnui, kai jis dėl privalomosios karo tarnybos, savanoriškos nenuolatinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat pareigūnui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, iki jam sueis 3 metai, dėl laikino perkėlimo į kitas pareigas pagal šio statuto 31 straipsnį negali eiti pareigų. Ši garantija nustatytai kadencijai ar nustatytam laikui į pareigas paskirtiems pareigūnams taikoma ne ilgiau negu iki kadencijos ar tarnybos einant tas pareigas laikotarpio pabaigos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1819, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21839
+
+Nr. XIII-2678, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21319
 
 3. Pareigūnas turi teisę Vyriausybės nustatyta tvarka gauti išmokas už komandiruotės išlaidas.
 
@@ -1702,25 +1726,25 @@ II
 
 III
 
-koeficientas
+Koeficientas
 
-koeficientas
+Koeficientas
 
 1
 
-Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vadas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vadas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius, Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos direktorius, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktorius, policijos generalinis komisaras, Muitinės departamento prie Finansų ministerijos generalinis direktorius, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius
+Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vadas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vadas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktorius, policijos generalinis komisaras, Muitinės departamento prie Finansų ministerijos generalinis direktorius, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius
 
 15,2–19
 
 2
 
-Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, policijos generalinio komisaro pavaduotojas, Muitinės departamento prie Finansų ministerijos generalinio direktoriaus pavaduotojas, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktoriaus pavaduotojas
+Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, policijos generalinio komisaro pavaduotojas, Muitinės departamento prie Finansų ministerijos generalinio direktoriaus pavaduotojas, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktoriaus pavaduotojas
 
 13,2–18
 
 3
 
-Viršininkas (statutinės įstaigos vadovas), direktorius (statutinės įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos Pasienio rinktinės vadas, mokyklos viršininkas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas, rinktinės vadas (statutinės įstaigos vadovas), Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Priešgaisrinės gelbėjimo valdybos viršininkas
+Viršininkas (statutinės įstaigos vadovas), direktorius (statutinės įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vadas, mokyklos viršininkas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas, rinktinės vadas (statutinės įstaigos vadovas), Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Priešgaisrinės gelbėjimo valdybos viršininkas
 
 13,2–17,5
 
@@ -1825,6 +1849,8 @@ Postinis, patrulis, pasienietis, ugniagesys gelbėtojas
 Priedo pakeitimai:
 
 Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
+
+Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 
 Pakeitimai:
 
