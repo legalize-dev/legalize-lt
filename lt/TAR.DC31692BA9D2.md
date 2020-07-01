@@ -4,7 +4,7 @@ identifier: "TAR.DC31692BA9D2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2019-05-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DC31692BA9D2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos poligrafo naudojimo įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2273, i. k. 1001010ISTAIII-1906
 
@@ -75,7 +75,13 @@ Nr. XII-2377, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14737
 
 4) Finansų ministerijos įgaliota institucija;
 
-5) Specialiųjų tyrimų tarnyba.
+5) Specialiųjų tyrimų tarnyba;
+
+6) Vadovybės apsaugos tarnyba.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2916, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10917
 
 2. Šio įstatymo 5 straipsnio 2 dalyje nustatytais atvejais tyrimo subjektai tiria poligrafu tuos asmenis, kurių veikla yra susijusi su įslaptintos informacijos naudojimu, apsauga ar susipažinimu su ja:
 
@@ -284,4 +290,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1918, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00851
 
 Lietuvos Respublikos poligrafo naudojimo įstatymo Nr. VIII-1906 6 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2916, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10917
+
+Lietuvos Respublikos poligrafo naudojimo įstatymo Nr. VIII-1906 4 straipsnio pakeitimo įstatymas
 
