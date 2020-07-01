@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -385,7 +385,11 @@ Nr. XII-2132, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19505
 
 12. Vyriausybė nustato be aukciono išnuomotos valstybinės žemės nuomos mokesčio dydžio nustatymo ir mokėjimo tvarką. Žemės sklypo, išnuomoto be aukciono, nuomos sutartyje turi būti numatyta nuomotojo teisė kas 3 metus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perskaičiuoti žemės sklypo vertę, nuo kurios skaičiuojamas žemės nuomos mokestis.
 
-13. Valstybinės žemės nuomininkai turi teisę naudoti išnuomotą valstybinės žemės sklypą savo veiklai, nepažeisdami nustatytos pagrindinės žemės naudojimo paskirties, naudojimo būdo, laikydamiesi specialiųjų žemės naudojimo sąlygų, kitų veiklos apribojimų ir nustatytų servitutų, naudoti savo ūkio reikmėms (ne pardavimui) žemės sklype esančias naudingąsias žemės gelmių savybes, požeminį ir paviršinį vandenis, naudingąsias iškasenas (išskyrus gintarą, naftą, dujas, kvarcinį smėlį), laikydamiesi įstatymų nustatytų jų eksploatavimo ir apsaugos reikalavimų, disponuoti žemės sklype išauginta produkcija ir iš šio žemės sklypo gautomis pajamomis. Kitas sąlygas, kurios turi būti numatomos valstybinės žemės nuomos sutartyse, nustato Vyriausybė.
+13. Valstybinės žemės nuomininkai turi teisę naudoti išnuomotą valstybinės žemės sklypą savo veiklai, nepažeisdami nustatytos pagrindinės žemės naudojimo paskirties, naudojimo būdo, laikydamiesi specialiųjų žemės naudojimo sąlygų, kitų veiklos apribojimų ir nustatytų servitutų, Žemės gelmių įstatymo nustatyta tvarka naudoti žemės sklype esančius žemės gelmių išteklius ir ertmes, disponuoti žemės sklype išauginta produkcija ir iš šio žemės sklypo gautomis pajamomis. Kitas sąlygas, kurios turi būti numatomos valstybinės žemės nuomos sutartyse, nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2482, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17358
 
 14. Valstybinės žemės nuomos sutartis turi būti nutraukiama prieš terminą nuomotojo reikalavimu, jeigu žemės nuomininkas naudoja žemę ne pagal sutartyje numatytą pagrindinę žemės naudojimo paskirtį ir (ar) būdą arba yra keičiama pagrindinė žemės naudojimo paskirtis ir (ar) būdas, išskyrus atvejus, kai Vyriausybės nustatytais atvejais ir tvarka valstybinės žemės nuomos sutartyje arba jos pakeitime numatyta galimybė keisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą.
 
@@ -2198,6 +2202,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 13, 21, 34, 48 ir 51 straipsnių pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2482, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17358
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 9 straipsnio pakeitimo įstatymas
 
 55 straipsnis. Žemės ginčų
 
