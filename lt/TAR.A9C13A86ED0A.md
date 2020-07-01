@@ -4,7 +4,7 @@ identifier: "TAR.A9C13A86ED0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2019-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 58-1133, i. k. 0941010ISTA000I-555
 
@@ -134,11 +134,13 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
 
-6. Atlikti tarnybą tarptautinių operacijų kariniame vienete įstatymų ir kitų teisės aktų nustatyta tvarka skiriami profesinės karo tarnybos kariai, kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat civiliai krašto apsaugos sistemos tarnautojai. Pagrindinį karinį parengtumą įgiję privalomosios karo tarnybos kariai tarptautinių operacijų kariniam vienetui gali būti priskirti jų mokymo ir rengimo tarptautinėms operacijoms tikslais.
+6. Atlikti tarnybą tarptautinių operacijų kariniame vienete įstatymų ir kitų teisės aktų nustatyta tvarka skiriami profesinės karo tarnybos kariai, kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat civiliai krašto apsaugos sistemos tarnautojai. Pagrindinį karinį parengtumą įgiję privalomosios karo tarnybos kariai tarptautinių operacijų kariniam vienetui gali būti priskirti jų mokymo ir rengimo tarptautinėms operacijoms tikslais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1813, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21829
+
+Nr. XIII-2673, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21316
 
 Straipsnio dalies numeracijos pakeitimas:
 
