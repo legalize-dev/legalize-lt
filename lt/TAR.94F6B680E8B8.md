@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2020-05-23"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2020-05-23 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -111,6 +111,12 @@ Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
+
+15. Paciento priemoka – kaip ši sąvoka apibrėžta Lietuvos Respublikos farmacijos įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 Straipsnio pakeitimai:
 
@@ -512,19 +518,37 @@ Nr. XIII-2152, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09404
 
 1) vaikams iki 18 metų;
 
-2) asmenims, pripažintiems nedarbingais, ar asmenims, sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis.
+2) asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis (iki 2005 m. liepos 1 d. pripažintiems I grupės invalidais);
+
+3) asmenims, sukakusiems Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžius), kuriems yra nustatytas didelių specialiųjų poreikių lygis;
+
+4) 75 metų ir vyresniems asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 3. 100, 90, 80 arba 50 procentų bazinės kompensuojamųjų vaistų ir medicinos pagalbos priemonių ambulatoriniam gydymui kainos kompensuojama apdraustiesiems, nepaminėtiems šio straipsnio 2 dalyje, kuriems diagnozuotos ligos, sindromai ir būklės, įrašyti į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą arba Kompensuojamųjų medicinos pagalbos priemonių sąrašą pagal kompensavimo lygius.
 
-4. 50 procentų bazinės kompensuojamųjų vaistų, įrašytų į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, kainos gydant ambulatoriškai kompensuojama šiems šio straipsnio 2 ir 3 dalyse nepaminėtiems apdraustiesiems:
+4. 50 procentų bazinės kompensuojamųjų vaistų, įrašytų į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, kainos gydant ambulatoriškai kompensuojama šiems šio straipsnio 2 ir 3 dalyse nepaminėtiems apdraustiesiems:
 
-1) gaunantiems valstybinę socialinio draudimo senatvės pensiją;
+1) gaunantiems socialinio draudimo senatvės pensiją;
 
-2) gaunantiems šalpos pensiją;
+2) senatvės pensijos amžių sukakusiems asmenims, kurie gauna šalpos neįgalumo pensiją, socialinę pensiją ar šalpos kompensaciją, arba asmenims, gaunantiems šalpos senatvės pensiją;
 
-3) gaunantiems II grupės invalidumo pensiją arba iš dalies darbingiems asmenims, kuriems teisės aktų nustatyta tvarka nustatytas 30–40 procentų darbingumo lygis.
+3) asmenims, kuriems nustatytas 30–40 procentų darbingumo lygis (iki 2005 m. liepos 1 d. pripažintiems II grupės invalidais).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 5. Vaistų ir medicinos pagalbos priemonių, naudojamų hospitalizuotiems stacionarinėse asmens sveikatos priežiūros įstaigose apdraustiesiems gydyti, išlaidos apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto, išskyrus atvejus, kai apdraustasis savo iniciatyva gydančiojo gydytojo rekomendavimu pasirenka brangesnius vaistus ar medicinos pagalbos priemones, negu Lietuvos Respublikoje yra taikomi pagal nustatytas gydymo metodikas. Šiuo atveju apdraustasis privalo sveikatos priežiūros įstaigai apmokėti gydytojo skiriamų ir apdraustojo pasirenkamų vaistų ar medicinos pagalbos priemonių kainų skirtumą (šis skirtumas gali būti apmokamas ir iš papildomojo (savanoriškojo) sveikatos draudimo ar kitų lėšų).
+
+6. Paciento priemokos už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus senatvės pensijos amžių sukakusiems arba Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nurodytiems neįgaliesiems asmenims, kurių užpraeitą mėnesį gautų socialinio draudimo pensijų (kartu su socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokomis), šalpos išmokų, valstybinių pensijų, užsienio valstybės pensijų, pensijų išmokų, mokamų pagal Lietuvos Respublikos pensijų kaupimo įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą, kompensacinių išmokų profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, valstybinių signataro rentų, valstybinių signataro našlių ir našlaičių rentų, rentų buvusiems sportininkams, kompensacijų už ypatingas darbo sąlygas ir (ar) draudžiamųjų pajamų, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, suma sudaro mažiau kaip 95 procentus praėjusių metų minimalių vartojimo poreikių dydžio, apskaičiuoto Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka, arba 75 metų ir vyresniems asmenims, padengiamos Vyriausybės nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 Straipsnio pakeitimai:
 
@@ -540,7 +564,11 @@ apdraustiesiems
 
 1) vaikams iki 18 metų;
 
-2) asmenims, pripažintiems nedarbingais, ar asmenims, sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis;
+2) asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis (iki 2005 m. liepos 1 d. pripažintiems I grupės invalidais), ar asmenims, sukakusiems senatvės pensijos amžių, kuriems yra nustatytas didelių specialiųjų poreikių lygis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 3) asmenims, siunčiamiems baigti gydymą po sunkios ligos ar traumos, kurios įrašytos į sveikatos apsaugos ministro patvirtintą sąrašą.
 
@@ -651,6 +679,12 @@ b) šio Įstatymo 6 straipsnio 5 dalyje nurodytų asmenų sveikatos priežiūros
 c) šio Įstatymo 8 straipsnio 5 dalyje nurodytoms sveikatos priežiūros išlaidoms apmokėti;
 
 d) šio straipsnio 2 ir 3 dalyse nurodytais atvejais;
+
+e) paciento priemokoms už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus šio įstatymo 10 straipsnio 6 dalyje nurodytiems asmenims, padengti.
+
+Papildyta papunkčiu:
+
+Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 4) institucijų, vykdančių privalomąjį sveikatos draudimą, veiklos pajamos;
 
