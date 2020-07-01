@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2020-06-30"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2020-06-30 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-16
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -215,13 +215,19 @@ Nr. XIII-1216, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09732
 
 26) socialinis mokestis;
 
-27) (neteko galios nuo 2007-11-22).
+27) (neteko galios nuo 2007-11-22);
 
 28) Neteko galios nuo 2015-05-21
 
 Straipsnio punkto naikinimas:
 
 Nr. XII-1668, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07659
+
+29) motorinių transporto priemonių registracijos mokestis.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2691, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21547
 
 Straipsnio pakeitimai:
 
@@ -260,6 +266,12 @@ Nr. XII-1985, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16907
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
+
+61. Šio Įstatymo 13 straipsnio 29 punkte nurodytas motorinių transporto priemonių registracijos mokestis pagal šį Įstatymą administruojamas tiek, kiek tai nustatyta Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2691, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21547
 
 16 straipsnis. Valstybės institucijos ir įstaigos, įgaliotos atlikti tam tikrus mokesčių administravimo veiksmus
 
@@ -3199,7 +3211,11 @@ Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
 
 3) juridinis asmuo ir (ar) jo vadovas arba individualia veikla užsiimantis asmuo per paskutinius trejus metus iki jo vertinimo dienos priimtu ir įsigaliojusiu apkaltinamuoju nuosprendžiu nebuvo nuteistas už sukčiavimą, neteisėtą praturtėjimą, nusikalstamą veiką ekonomikai ir verslo tvarkai, nusikalstamą veiką finansų sistemai, ir
 
-4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 95, 99, 127, 132, 134, 137, 142, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 176, 187, 188, 189, 190, 191, 192, 193, 195, 198, 205, 207, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 505, 546 straipsniuose, ir (ar) jam nebuvo paskirta bauda už šiame punkte nurodytuose Administracinių nusižengimų kodekso straipsniuose numatytą administracinį nusižengimą, padarytą pakartotinai. Šiame punkte pakartotinis administracinis nusižengimas suprantamas taip, kaip tai nustatyta Administracinių nusižengimų kodekso 40 straipsnyje.
+4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 95, 99, 127, 132, 134, 137, 142, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 189, 190, 191, 192, 193, 195, 198, 205, 207, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 505, 546 straipsniuose, ir (ar) jam nebuvo paskirta bauda už šiame punkte nurodytuose Administracinių nusižengimų kodekso straipsniuose numatytą administracinį nusižengimą, padarytą pakartotinai. Šiame punkte pakartotinis administracinis nusižengimas suprantamas taip, kaip tai nustatyta Administracinių nusižengimų kodekso 40 straipsnyje.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 
 2. Šio straipsnio 1 dalyje nurodytų fizinio asmens duomenų, kuriems taikytinas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1), valdytoja yra Valstybinė mokesčių inspekcija, šie duomenys tvarkomi ir naudojami šio įstatymo 25 straipsnio 1 dalies 7, 9, 10, 11, 16, 17 ir 19 punktuose bei 26 straipsnio 1 dalies 2, 3, 4, 7, 8, 9, 10, 11 ir 12 punktuose nurodytoms mokesčių administratoriaus funkcijoms atlikti ir 33 straipsnyje nurodytoms teisėms įgyvendinti, taip pat siekiant užtikrinti Lietuvos Respublikos viešųjų pirkimų įstatymo 46 straipsnio nuostatų, reglamentuojančių tiekėjo pašalinimo iš pirkimo procedūros pagrindus, įgyvendinimą bei siekiant užtikrinti Lietuvos Respublikos labdaros ir paramos įstatymo 13 straipsnio nuostatų, reglamentuojančių paramos gavėjo statuso suteikimą ir panaikinimą, įgyvendinimą. Fizinio asmens duomenų tvarkymo terminas yra dešimt metų.
 
@@ -3208,4 +3224,48 @@ TAR pastaba. 401 straipsnio nuostatos taikomos tais atvejais, kai yra vertinami 
 Papildyta straipsniu:
 
 Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
+
+612 straipsnis. Informacijos apie praneštinus tarpvalstybinius susitarimus pateikimas
+
+1. Žinomą, turimą arba valdomą informaciją apie praneštinus tarpvalstybinius susitarimus Valstybinei mokesčių inspekcijai privalo teikti tarpininkai. Tarpininku šiame straipsnyje laikomas asmuo, kuris:
+
+1) rengia praneštinus tarpvalstybinius susitarimus arba
+
+2) siūlo praneštinus tarpvalstybinius susitarimus rinkoje, arba
+
+3) organizuoja praneštinų tarpvalstybinių susitarimų įgyvendinimą, arba
+
+4) teikia praneštinus tarpvalstybinius susitarimus įgyvendinti, arba
+
+5) administruoja praneštinus tarpvalstybinius susitarimus, arba
+
+6) atsižvelgdamas į tam tikras aplinkybes ir turimą informaciją bei ekspertines žinias ir supratimą, būtiną siekiant teikti tokias paslaugas, žino arba pagrįstai tikėtinai žino, kad tiesiogiai ar tarpininkaujant kitiems asmenims teikė pagalbą, paramą ar konsultacijas, susijusias su šios dalies 1–5 punktuose nurodytais veiksmais.
+
+2. Tarpininkas taip pat turi atitikti bent vieną iš šių sąlygų:
+
+1) būti nuolatinis Lietuvos gyventojas arba Lietuvos apmokestinamasis vienetas;
+
+2) turėti nuolatinę buveinę ar bazę Lietuvoje, per kurią teikiamos su praneštinu tarpvalstybiniu susitarimu susijusios paslaugos;
+
+3) būti įsisteigęs Lietuvoje arba jam turi būti taikomi Lietuvos Respublikos įstatymai;
+
+4) Lietuvoje būti registruotas profesinės asociacijos, teikiančios teisines, mokesčių ar konsultavimo paslaugas, narys.
+
+3. Tais atvejais, kai tarpininko nėra arba kai tarpininkas praneša suinteresuotam mokesčių mokėtojui ar kitam tarpininkui apie naudojimąsi teise būti atleistam nuo prievolės pateikti informaciją apie praneštiną tarpvalstybinį susitarimą, prievolė pateikti Valstybinei mokesčių inspekcijai informaciją apie praneštiną tarpvalstybinį susitarimą tenka kitam tarpininkui, kuriam pranešta apie naudojimąsi teise būti atleistam nuo prievolės pateikti informaciją, o kai tokio tarpininko nėra, suinteresuotam mokesčių mokėtojui. Suinteresuotu mokesčio mokėtoju šiame straipsnyje laikomas asmuo, kuriam sudarytos sąlygos įgyvendinti praneštiną tarpvalstybinį susitarimą arba kuris pasirengęs įgyvendinti praneštiną tarpvalstybinį susitarimą, arba kuris pradėjo įgyvendinti praneštiną tarpvalstybinį susitarimą.
+
+4. Tuo atveju, kai yra daugiau negu vienas tarpininkas, prievolė pateikti informaciją apie praneštiną tarpvalstybinį susitarimą tenka visiems su tuo praneštinu tarpvalstybiniu susitarimu susijusiems tarpininkams.
+
+5. Tuo atveju, kai prievolė pateikti informaciją apie praneštiną tarpvalstybinį susitarimą tenka suinteresuotam mokesčių mokėtojui ir yra daugiau negu vienas suinteresuotas mokesčių mokėtojas, suinteresuotas mokesčių mokėtojas, kuris turi pateikti šią informaciją, yra tas, kuris dėl praneštino tarpvalstybinio susitarimo susitaria su tarpininku. Jei tokio suinteresuoto mokesčių mokėtojo nėra, suinteresuotas mokesčių mokėtojas yra tas, kuris kontroliuoja, kaip praneštinas tarpvalstybinis susitarimas įgyvendinamas.
+
+6. Suinteresuoti mokesčių mokėtojai privalo pateikti Valstybinei mokesčių inspekcijai informaciją apie savo įgyvendinamą praneštiną tarpvalstybinį susitarimą už kiekvienus metus apie jų naudojimąsi praneštinu tarpvalstybiniu susitarimu.
+
+7. Pagal šį straipsnį tarpvalstybiniu susitarimu laikomas susitarimas, susijęs su keliomis valstybėmis narėmis arba valstybe nare ir trečiąja valstybe.
+
+8. Centrinis mokesčių administratorius, atsižvelgdamas į Direktyvos 2011/16/ES nuostatas, nustato šiame straipsnyje nurodytų praneštinų tarpvalstybinių susitarimų požymius ir sąlygas, kauptinų duomenų – informacijos apie praneštinus tarpvalstybinius susitarimus – sąrašą, jų pateikimo tvarką ir atvejus, kuriais šių duomenų nereikia pateikti, kitas su duomenų kaupimu, pateikimu ir mainais susijusias procedūras.
+
+TAR pastaba. Tarpininkai ir asmenys, kuriems sudarytos sąlygos įgyvendinti praneštiną tarpvalstybinį susitarimą arba kurie pasirengę įgyvendinti praneštiną tarpvalstybinį susitarimą, arba kurie pradėjo įgyvendinti praneštiną tarpvalstybinį susitarimą, privalo iki 2020 m. rugpjūčio 31 d. pateikti Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos informaciją apie pagal 612 straipsnį praneštinus tarpvalstybinius susitarimus, dėl kurių įgyvendinimo pirmųjų veiksmų imtasi nuo 2018 m. birželio 25 d. iki 2020 m. birželio 30 d.
+
+Papildyta straipsniu:
+
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 
