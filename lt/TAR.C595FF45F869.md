@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2019-08-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2019-08-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-08-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -507,10 +507,6 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 3) asmenys, pakartotinai studijuojantys pagal profesinių studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis;
 
-4) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių ir kitų Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat gyventi Lietuvos Respublikoje ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
-
-4 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
-
 4) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
 
 TAR pastaba. 80 straipsnio 2 dalies 4 punkto nuostatos taikomos Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, įstojusiems į aukštąsias mokyklas nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos iki 2020 m. gruodžio 31 d.
@@ -549,7 +545,11 @@ Nr. XIII-2057, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06693
 
 1. Studentams gali būti mokamos socialinės, skatinamosios stipendijos ir studijų stipendijos.
 
-2. Aukštųjų mokyklų trumposios, pirmosios, antrosios pakopų ir vientisųjų studijų studentams Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų gali būti mokamos socialinės stipendijos.
+2. Neteko galios nuo 2020-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-2991, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12613
 
 Straipsnio dalies pakeitimai:
 
@@ -586,10 +586,6 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
-
-9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti skiriama parama įstojusiems į aukštąsias mokyklas ne Lietuvos Respublikoje ir jose studijuojantiems Lietuvos Respublikos piliečiams, taip pat kitų Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečiams, dirbantiems ir (arba) turintiems teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos nariams. Ši parama gali būti skiriama ir kitų užsienio valstybių piliečiams ir asmenims be pilietybės, turintiems teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
-
-9 dalies redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
 
 9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti skiriama parama įstojusiems į aukštąsias mokyklas ne Lietuvos Respublikoje ir jose studijuojantiems Lietuvos Respublikos piliečiams, taip pat kitų Europos Sąjungos valstybių narių, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Europos laisvosios prekybos asociacijos valstybių piliečiams, dirbantiems ir (arba) turintiems teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos nariams. Ši parama gali būti skiriama ir kitų užsienio valstybių piliečiams ir asmenims be pilietybės, turintiems teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
 
@@ -659,7 +655,15 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 2. Jeigu valstybinės aukštosios mokyklos nuosavybės teise turimas nekilnojamasis turtas perleidžiamas viešo aukciono būdu, aukštoji mokykla, nesudariusi sandorio per 2 viešus aukcionus, turi teisę Vyriausybės nustatyta tvarka sumažinti perleidžiamo nekilnojamojo turto pradinę kainą.
 
-3. Valstybinės aukštosios mokyklos neturi teisės investuoti į neribotos civilinės atsakomybės juridinius asmenis ir jų steigti. Ribotos civilinės atsakomybės juridinius asmenis valstybinės aukštosios mokyklos gali steigti ir į juos investuoti aukštosios mokyklos tarybos nustatytomis sąlygomis ir tvarka tik tuo atveju, kai toks steigimas ar investavimas yra susijęs su valstybinės aukštosios mokyklos vykdoma studijų ar mokslinių tyrimų veikla ir eksperimentine plėtra ir yra būtinas šiems tikslams pasiekti.
+3. Valstybinės aukštosios mokyklos neturi teisės investuoti į neribotos civilinės atsakomybės juridinius asmenis ir jų steigti. Ribotos civilinės atsakomybės juridinius asmenis valstybinės aukštosios mokyklos gali steigti ir į juos investuoti nuosavybės teise valdomą turtą, vadovaudamosi valstybinių aukštųjų mokyklų turto valdymo, naudojimo ir disponavimo juo principais, įtvirtintais šio įstatymo 86 straipsnio 1 dalyje. Sprendimus investuoti valstybinės aukštosios mokyklos nuosavybės teise valdomą turtą priima valstybinės aukštosios mokyklos taryba jos nustatyta tvarka, jeigu tenkinami šie investavimo kriterijai:
+
+1) investuojama į juridinius asmenis, kurie vykdys su valstybinės aukštosios mokyklos vykdoma studijų ar mokslinių tyrimų ir (ar) eksperimentine plėtra susijusias veiklas;
+
+2) valstybinės aukštosios mokyklos taryba, atsižvelgdama į valstybinės aukštosios mokyklos paskutinių kalendorinių metų finansinę būklę, veiklos rezultatus, užtikrindama kitų metų valstybinės aukštosios mokyklos vykdomą studijų ir mokslinių tyrimų veiklą ir (ar) eksperimentinę plėtrą, lėšas, reikalingas investuoti į ribotos civilinės atsakomybės juridinį asmenį, yra patvirtinusi atitinkamų metų valstybinės aukštosios mokyklos pajamų ir išlaidų sąmatoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3144, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14365
 
 4. Valstybinėms aukštosioms mokykloms draudžiama jų nuosavybės teise valdomu turtu užtikrinti trečiųjų asmenų prievoles.
 
@@ -990,6 +994,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2367, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12448
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 9, 14 ir 21 straipsnių pakeitimo įstatymas
+
+34.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2991, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12613
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 82 straipsnio pakeitimo ir Įstatymo papildymo 82-1 straipsniu įstatymas
+
+35.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3144, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14365
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 90 straipsnio pakeitimo įstatymas
 
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
@@ -2930,4 +2950,42 @@ Nr. XIII-1367, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11695
 Papildyta straipsniu:
 
 Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
+
+821 straipsnis. Socialinės stipendijos
+
+1. Aukštųjų mokyklų trumposios, pirmosios, antrosios, trečiosios pakopų, vientisųjų ir profesinių studijų studentams iš valstybės biudžeto lėšų mokamos socialinės stipendijos. Socialinės stipendijos dydis – 6,5 bazinės socialinės išmokos dydžio per mėnesį. Socialinės stipendijos skiriamos studijų semestrui.
+
+2. Socialinė stipendija skiriama, kai prašymų skirti socialinę stipendiją priėmimo metu studentas atitinka bent vieną iš kriterijų:
+
+1) jis yra vienas iš bendrai gyvenančių asmenų arba vienas gyvenantis asmuo, turintys teisę gauti arba gaunantys socialinę pašalpą pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymą;
+
+2) turi teisės aktų nustatyta tvarka nustatytą 45 procentų ar mažesnį darbingumo lygį arba sunkų ar vidutinį neįgalumo lygį;
+
+3) yra ne vyresnis kaip 25 metų ir jam iki pilnametystės įstatymų nustatyta tvarka buvo nustatyta globa (rūpyba) arba jo abu tėvai (turėtas vienintelis iš tėvų) yra mirę.
+
+3. Socialinės stipendijos neturi teisės gauti šie studentai:
+
+1) šio įstatymo 80 straipsnio 2 dalyje nurodyti asmenys;
+
+2) išėję akademinių atostogų;
+
+3) aukštosios mokyklos nustatyta tvarka turintys daugiau kaip 3 akademines skolas;
+
+4) studentai, kurie įvykdė studijų programos reikalavimus, tačiau jiems atidėtas baigiamojo darbo gynimas ar baigiamojo egzamino laikymas.
+
+4. Studentui, atitinkančiam daugiau kaip vieną šio straipsnio 2 dalyje nustatytų kriterijų arba vienu metu studijuojančiam pagal kelias studijų programas, skiriama tik viena socialinė stipendija per studijų semestrą.
+
+5. Socialinės stipendijos mokėjimas nutraukiamas:
+
+1) studentui baigus studijas anksčiau, negu numatyta studijų baigimo data, nutraukus studijas ar pašalinus studentą iš aukštosios mokyklos;
+
+2) atsiradus ir (arba) paaiškėjus šio straipsnio 3 dalyje nustatytoms aplinkybėms, dėl kurių studentui negalėjo būti skirta socialinė stipendija;
+
+3) studentui mirus.
+
+6. Socialinių stipendijų skyrimo ir administravimo tvarką nustato Vyriausybė.
+
+Papildyta straipsniu:
+
+Nr. XIII-2991, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12613
 
