@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "2020-05-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -305,11 +305,13 @@ Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
 
 1) šių asmenų įstatuose (nuostatuose) yra numatyta vykdyti šio įstatymo 3 straipsnio 3 dalyje nurodytą visuomenei naudingą veiklą ir
 
-2) nėra šio straipsnio 5 ir 6 dalyse nurodytų aplinkybių.
+2) nėra šio straipsnio 5 ir 6 dalyse nurodytų aplinkybių, ir
+
+3) asmens vadovas nėra arba nebuvo kito asmens, kuriam ne anksčiau kaip prieš vienus metus buvo panaikintas paramos gavėjo statusas už bent vieną iš šio straipsnio 5 ir 6 dalyse nurodytų pažeidimų arba dėl to, kad jis neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, vadovu pažeidimo padarymo metu.
 
 Straipsnio dalies pakeitimai:
 
-Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
+Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
 
 2. Paramos gavėjo statuso suteikimo juridiniams asmenims, įskaitant pakartotinį šio statuso suteikimą, ir panaikinimo tvarka nustatoma Juridinių asmenų registro nuostatuose, kuriuos tvirtina Vyriausybė.
 
@@ -319,35 +321,29 @@ Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
 
 5. Juridinių asmenų registro tvarkytojas arba Kultūros ministerija paramos gavėjo statusą panaikina kontrolės institucijos teikimu arba paties paramos gavėjo prašymu. Į Juridinių asmenų registro tvarkytoją dėl juridiniam asmeniui suteikto paramos gavėjo statuso arba Kultūros ministeriją dėl fiziniam asmeniui suteikto paramos gavėjo statuso panaikinimo kreipiasi institucija, pagal savo kompetenciją nustačiusi, kad:
 
-1) asmeniui yra įsiteisėjęs teismo nuosprendis už Lietuvos Respublikos baudžiamajame kodekse numatytą nusikaltimą ar baudžiamąjį nusižengimą ekonomikai ir verslo tvarkai ar finansų sistemai;
+1) asmuo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 11 straipsnio 2 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą;
 
-2) asmuo pažeidė Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą;
+2) asmuo, pažeisdamas šio įstatymo reikalavimus, suteikė, gavo ar panaudojo didesnę kaip 250 bazinių socialinių išmokų dydžio per vienus kalendorinius metus arba didesnę kaip 500 bazinių socialinių išmokų dydžio per 3 kalendorinius metus iš eilės labdaros ar paramos lėšų sumą;
 
-Straipsnio punkto pakeitimai:
+3) asmuo per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą, nesumokėjo mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų bendra suma valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, viršija  10 000 eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi;
 
-Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
+4) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja, pažeisdamas šio įstatymo nuostatas dėl paramos paskirties ar kitų įstatymų nuostatas, reglamentuojančias paramos gavėjų veiklos, susijusios su gautos paramos naudojimu, ribojimus;
 
-3) asmuo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 11 straipsnio 2 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą;
+5) asmuo neatitinka minimalių patikimo mokesčių mokėtojo kriterijų;
 
-4) asmuo, pažeisdamas šio įstatymo reikalavimus, suteikė, gavo ar panaudojo didesnę kaip 250 bazinių socialinių išmokų dydžio per vienus kalendorinius metus arba didesnę kaip 500 bazinių socialinių išmokų dydžio per 3 kalendorinius metus iš eilės labdaros ar paramos lėšų sumą;
+6) to paties vadovo vadovaujamam kitam juridiniam asmeniui dėl šio vadovo vadovavimo metu padarytų pažeidimų, bet ne anksčiau negu prieš vienus metus, buvo panaikintas paramos gavėjo statusas.
 
-5) asmuo nesumokėjo mokestinės nepriemokos ir mokesčių administratorius Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka įgijo teisę priverstinai ją išieškoti. Ši nuostata netaikoma tais atvejais, kai Mokesčių administravimo įstatymo 110 straipsnyje nustatyta tvarka mokestinės nepriemokos priverstinis išieškojimas yra sustabdytas arba nepradėtas;
+Straipsnio dalies pakeitimai:
 
-6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja, pažeisdamas šio įstatymo nuostatas dėl paramos paskirties ar kitų įstatymų nuostatas, reglamentuojančias paramos gavėjų veiklos, susijusios su gautos paramos naudojimu, ribojimus;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
-
-7) asmuo neatitinka minimalių patikimo mokesčių mokėtojo kriterijų.
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
+Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
 
 6. Juridinių asmenų registro tvarkytojas savo iniciatyva panaikina Juridinių asmenų registre įregistruoto paramos gavėjo statusą:
 
-1) kai paramos gavėjas per Lietuvos Respublikos civilinio kodekso 2.66 straipsnio 4 dalyje nurodytą terminą, jei įstatymuose nenumatytas kitas terminas, Juridinių asmenų registro tvarkytojui nepateikė metinių finansinių ataskaitų rinkinio ir metinio pranešimo ar veiklos ataskaitos per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą;
+1) kai paramos gavėjas per Lietuvos Respublikos civilinio kodekso 2.66 straipsnio 4 dalyje nurodytą terminą, jei įstatymuose nenumatytas kitas terminas, Juridinių asmenų registro tvarkytojui nepateikė metinių finansinių ataskaitų rinkinio ir metinio pranešimo, veiklos ataskaitos arba metinės ataskaitos per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
 
 2) kai šį statusą turinčiam juridiniam asmeniui įregistruojamas Juridinių asmenų registro tvarkytojo inicijuotas likvidavimas arba įregistruojamas jo kaip likviduojamo, bankrutuojančio ar bankrutavusio juridinio asmens statusas, taip pat kai pasibaigia juridinio asmens pertvarkymo procedūros.
 
@@ -359,11 +355,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
 
-7. Juridinis ar fizinis asmuo, kuriam už šio straipsnio 5 ir 6 dalyse nurodytą bent vieną pažeidimą arba dėl to, kad jis neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į Juridinių asmenų registro tvarkytoją arba Kultūros ministeriją ne anksčiau kaip po vienų metų, kurie pradedami skaičiuoti nuo paramos gavėjo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis ar fizinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas ir delspinigius, neturi teistumo už šio straipsnio 5 dalies 1 punkte nurodytus nusikaltimus, per paskutinius vienus metus nėra padaręs šio straipsnio 5 dalies 1 punkte nurodytų baudžiamųjų nusižengimų, per vienų metų laikotarpį nebuvo nustatyta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo pažeidimų, jis atitinka minimalius patikimo mokesčių mokėtojo kriterijus ir nėra šio straipsnio 6 dalyje nurodytų aplinkybių.
+7. Juridinis ar fizinis asmuo, kuriam už šio straipsnio 5 ir 6 dalyse nurodytą bent vieną pažeidimą arba dėl to, kad jis neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į Juridinių asmenų registro tvarkytoją arba Kultūros ministeriją ne anksčiau kaip po vienų metų, kurie pradedami skaičiuoti nuo paramos gavėjo statuso panaikinimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
+
+Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -610,6 +608,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
 
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, 9-1, 9-2 ir 11 straipsnių pakeitimo įstatymas
+
+28.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
+
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 13 straipsnio pakeitimo įstatymas
 
 16 straipsnis. Atsakomybė už įstatymo pažeidimą
 
