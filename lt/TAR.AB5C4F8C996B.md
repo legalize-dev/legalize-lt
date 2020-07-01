@@ -4,7 +4,7 @@ identifier: "TAR.AB5C4F8C996B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-05"
-last_updated: "2018-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB5C4F8C996B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1533, i. k. 0951010ISTA00I-1022
 
@@ -116,11 +116,13 @@ Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota insti
 
 2. Karinės įrangos tranzitui, kai jį vykdo trečiosios šalies karinė institucija arba šios institucijos įgaliotas asmuo, licencijas ar leidimus išduoda Vyriausybės įgaliota institucija kitų Lietuvos Respublikos teisės aktų nustatyta tvarka.
 
-3. Karinės įrangos importui, kai šią įrangą importuoja Lietuvos Respublikos krašto apsaugos ministerija (toliau – Krašto apsaugos ministerija) ar jos įgaliota krašto apsaugos sistemos institucija, Lietuvos kariuomenė ir Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Ginklų fondas), šio straipsnio 1 dalyje nurodyta Ūkio ministerijos išduodama karinės įrangos importo licencija nereikalinga.
+3. Karinės įrangos importui, kai šią įrangą importuoja Lietuvos Respublikos krašto apsaugos ministerija (toliau – Krašto apsaugos ministerija) ar jos įgaliota krašto apsaugos sistemos institucija, Lietuvos kariuomenė ir Vyriausybės įgaliota institucija, šio straipsnio 1 dalyje nurodyta Ūkio ministerijos išduodama karinės įrangos importo licencija nereikalinga.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-544, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11941
+
+Nr. XIII-2623, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20652
 
 4. Karinės įrangos reeksportui remonto ar priežiūros tikslais, kai remonto ar priežiūros darbai yra numatyti pirkimo–pardavimo sutartyse arba garantiniuose įsipareigojimuose ir kai šią įrangą yra importavusi Krašto apsaugos ministerija ar jos įgaliota krašto apsaugos sistemos institucija arba Lietuvos kariuomenė, šio straipsnio 1 dalyje nurodyta Ūkio ministerijos išduodama licencija nereikalinga.
 
@@ -136,7 +138,11 @@ Nr. XIII-544, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11941
 
 2. Karinės įrangos siuntimo Europos Sąjungoje Ūkio ministerijos išduodama licencija nereikalinga, kai:
 
-1) karinę įrangą siunčia Krašto apsaugos ministerija, Lietuvos kariuomenė, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos arba Ginklų fondas;
+1) karinę įrangą siunčia Krašto apsaugos ministerija ar jos įgaliota krašto apsaugos sistemos institucija, Lietuvos kariuomenė, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos arba Vyriausybės įgaliota institucija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2623, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20652
 
 2) karinė įranga tiekiama Europos Sąjungos, Šiaurės Atlanto Sutarties Organizacijos (NATO), Tarptautinės atominės energijos agentūros (TATENA) arba kitoms tarpvyriausybinėms organizacijoms jų užduotims vykdyti;
 
@@ -300,7 +306,7 @@ Už šio įstatymo pažeidimus juridiniai ir fiziniai asmenys bei užsienio juri
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos strateginių prekių kontrolės įstatymo
 
@@ -393,4 +399,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-544, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11941
 
 Lietuvos Respublikos strateginių prekių kontrolės įstatymo Nr. I-1022 6 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2623, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20652
+
+Lietuvos Respublikos strateginių prekių kontrolės įstatymo Nr. I-1022 6 ir 7 straipsnių pakeitimo įstatymas
 
