@@ -4,7 +4,7 @@ identifier: "TAR.E838D0C06065"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-21"
-last_updated: "2019-02-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E838D0C06065"
 department: "Lietuvos Respublikos Seimas"
@@ -21,17 +21,9 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ, ATLIEKAMŲ GYNYBOS IR SAUGUMO
 
 SRITYJE, ĮSTATYMAS
 
-Suvestinė redakcija nuo 2019-02-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2022-03-23
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4135, i. k. 1111010ISTA0XI-1491
-
-TAR pastaba. Iki 2019 m. sausio 31 d. pradėtos pirkimų procedūros tęsiamos, sudarytų preliminariųjų sutarčių pagrindu atnaujintas tiekėjų varžymasis atliekamas, pradėtų pirkimų ataskaitos teikiamos pagal iki 2019 m. sausio 31 d. galiojusias Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatas.  Įstatymo Nr. XIII-1860 straipsnyje išdėstyto Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo 34 straipsnio 2 dalies 4 punkto d papunkčio, 55, 61 straipsnių, 62 straipsnio 5 dalies nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2019 m. vasario 1 d.  Iki 2019 m. sausio 31 d. sudarytos pirkimo sutartys ir preliminariosios sutartys keičiamos vadovaujantis įstatymo Nr. XIII-1860 1 straipsnyje išdėstyto Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo 53 straipsnio nuostatomis. Pažeidus šias nuostatas, perkančioji organizacija gali nutraukti pirkimo sutartį, preliminariąją sutartį ar sutartį, kuria keičiama pirkimo sutartis ar preliminarioji sutartis, šio įstatymo 1 straipsnyje išdėstyto Viešųjų pirkimų įstatymo 54 straipsnio 1 dalies 1 punkte nurodytu pagrindu.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1860, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00020
-
-Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 pakeitimo įstatymas
 
 Nauja redakcija nuo 2019-02-01:
 
@@ -481,7 +473,11 @@ Perkančioji organizacija, siekdama apsaugoti atliekant pirkimo procedūras tiek
 
 4. Perkančioji organizacija, atlikdama mažos vertės pirkimus, vadovaujasi šio įstatymo I skyriuje (išskyrus šio įstatymo 12 straipsnį), 33, 34 straipsniuose (išskyrus šio straipsnio 1 dalį), 35, 36, 37, 40, 43, 47, 48 straipsniuose, 52 straipsnio 4, 5, 6, 8 dalyse ir IV skyriuje nustatytais reikalavimais. Mažos vertės pirkimai atliekami pagal perkančiosios organizacijos patvirtintas taisykles. Perkančiosios organizacijos taisyklėse gali būti nustatyta atvejų, kai perkančioji organizacija tiekėjams nenustato kvalifikacijos reikalavimų.
 
-5. Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos, atlikdamas supaprastintus pirkimus, reikalingus Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos įstatymo 6 straipsnio 2 dalies 2 punkte nustatytai išimtinei teisei įgyvendinti, vadovaujasi šio įstatymo I skyriuje, išskyrus 8 straipsnį, nustatytais reikalavimais. Tokie supaprastinti pirkimai atliekami pagal Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos patvirtintas pirkimo procedūrų taisykles.
+5. Neteko galios 2020-07-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2621, 2019-12-05, paskelbta TAR 2019-12-20, i. k. 2019-20802
 
 18 straipsnis. Rezervuota teisė dalyvauti pirkimuose
 
@@ -489,7 +485,11 @@ Perkančioji organizacija, siekdama apsaugoti atliekant pirkimo procedūras tiek
 
 1) socialinei įmonei;
 
-2) neįgaliųjų socialinei įmonei;
+2) netenka galios 2020-07-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2430, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16068
 
 3) tiekėjui, kuriame nuteistųjų, atliekančių arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes, dirba daugiau kaip 50 procentų to tiekėjo metinio vidutinio sąrašuose esančių darbuotojų skaičiaus;
 
@@ -1777,7 +1777,7 @@ Teismas tenkina tiekėjo reikalavimą tik dėl žalos atlyginimo, jeigu pirkimo 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 Lietuvos Respublikos
 
@@ -2052,4 +2052,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1860, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00020
 
 Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2430, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16068
+
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 18 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2621, 2019-12-05, paskelbta TAR 2019-12-20, i. k. 2019-20802
+
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 17 straipsnio pakeitimo įstatymas
 
