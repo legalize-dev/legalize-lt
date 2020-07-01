@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2020-06-26"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-06-26 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -639,11 +639,19 @@ Susisiekimo ministerija:
 
 6) nustatydama valstybės reguliuojamas kainas, įvertina teikiamų paslaugų sąnaudas, atsižvelgdama į protingumo kriterijus atitinkančią investicijų grąžą;
 
-7) išduoda energetikos veiklos licencijas ir leidimus, juos keičia, sustabdo licencijų ir leidimų galiojimą, panaikina galiojimo sustabdymą, panaikina licencijų ir leidimų galiojimą, prižiūri ir kontroliuoja energetikos įmonių licencijuojamą ar leidimais reguliuojamą veiklą;
+7) išduoda energetikos veiklos licencijas, jas keičia, sustabdo licencijų galiojimą, panaikina galiojimo sustabdymą, panaikina licencijų galiojimą, prižiūri ir kontroliuoja energetikos įmonių licencijuojamą veiklą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+71) išduoda energetikos veiklos leidimus, juos keičia, sustabdo leidimų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, prižiūri ir kontroliuoja energetikos įmonių leidimais reguliuojamą veiklą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 8) nustato energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimus ir kontroliuoja, kaip jų laikomasi;
 
@@ -711,7 +719,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
-12. Taryba turi teisę visas arba dalį savo funkcijų, nustatytų šio straipsnio 11 dalies 21 ir 30 punktuose, pavesti vykdyti Tarybos pirmininkui.
+12. Taryba turi teisę visas arba dalį savo funkcijų, nustatytų šio straipsnio 11 dalies 21 ir 30 punktuose, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę dalį šio straipsnio 11 dalies 71 punkte nustatytų Tarybos funkcijų, susijusių su energetikos veiklos leidimų keitimu, leidimų galiojimo sustabdymu ir galiojimo sustabdymo panaikinimu, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę visas arba dalį Tarybos funkcijų, nustatytų šio straipsnio 11 dalies 20 punkte, susijusių su energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių įrengimo, eksploatavimo, techninės saugos, energijos ir energijos išteklių gamybos, perdavimo, skirstymo, tiekimo patikimumo patikrinimais, 22 punkte, 23 punkte, išskyrus funkcijas, susijusias su energetikos objektų, įrenginių avarijų ir darbo sutrikimais, 24 punkte, pavesti vykdyti Tarybos valstybės tarnautojui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 13. Tarybos pirmininkas:
 
@@ -741,7 +753,11 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 3) energetikos įmonės, kurios verčiasi šios dalies 1 punkte nurodyta veikla, po ketvirtadalį šios dalies 1 punkte nustatyta tvarka apskaičiuotos sumos privalo pervesti į Tarybos sąskaitą kiekvieną kalendorinių metų ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio paskutinės dienos;
 
-4) asmenims, laiku nesumokėjusiems šios dalies 1 punkte nustatyta tvarka apskaičiuotos sumos, skaičiuojami 0,05 procento dydžio delspinigiai už kiekvieną mokėjimo termino praleidimo dieną; delspinigiai nepripažįstami asmenų pagrįstomis sąnaudomis; delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą laiku nesumokėtą sumą;
+4) asmenims, laiku nesumokėjusiems šios dalies 1 ir 6 punktuose nustatyta tvarka apskaičiuotos sumos (įmokos), skaičiuojami 0,05 procento dydžio delspinigiai už kiekvieną mokėjimo termino praleidimo dieną; delspinigiai nepripažįstami asmenų pagrįstomis sąnaudomis; delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą laiku nesumokėtą sumą (įmoką);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 5) Tarybos pajamomis taip pat laikomos pajamos, gautos už suinteresuotų asmenų prašymu teikiamą energetikos įrenginių techninės būklės patikrinimo ir pažymų apie energetikos įrenginių techninę būklę išdavimo paslaugą; paslaugos kainas ir mokėjimo tvarką, atsižvelgdama į paslaugos teikimo sąnaudas, nustato Taryba;
 
@@ -943,139 +959,73 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 
 3. Energetikos veikla be licencijos, leidimo ar atestato, jeigu jie yra nustatyti, draudžiama. Draudžiama vykdyti energetikos veiklą, kai licencijos, leidimo ar atestato galiojimas yra sustabdytas.
 
-21 straipsnis. Energetikos veiklos licencijų, leidimų ir atestatų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas
+21 straipsnis. Energetikos veiklos licencijų, leidimų ir atestatų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas
 
 1. Asmuo, siekiantis gauti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka pateikia licencijas, leidimus ar atestatus išduodančiai institucijai prašymą arba deklaraciją išduoti licenciją, leidimą ar atestatą ir teisės aktuose nurodytus dokumentus. Reikalavimai asmenims, siekiantiems gauti licenciją, leidimą ar atestatą, nustatomi šiame įstatyme ir (ar) atskirus energetikos sektorius reglamentuojančiuose įstatymuose. Licencija, leidimas ar atestatas asmeniui išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją, leidimą ar atestatą pareiškėjui pateikiamas ne vėliau kaip per 30 kalendorinių dienų nuo prašymo išduoti licenciją, leidimą ar atestatą ir visų tinkamai įformintų dokumentų registravimo licencijas, leidimus ar atestatus išduodančioje institucijoje teisės aktų nustatyta tvarka dienos. Asmeniui, siekiančiam gauti energetikos veiklos leidimą, teisės aktų nustatyta tvarka pateikusiam deklaraciją, teisė verstis šia veikla suteikiama kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos.
 
-Straipsnio dalies pakeitimai:
+2. Jeigu į tinkamai pateiktą prašymą išduoti licenciją, leidimą ar atestatą neatsakoma per šio straipsnio 1 dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos, leidimo ar atestato išdavimo.
 
-Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
+3. Šio straipsnio 2 dalyje nustatyta sąlyga netaikoma, kai vyksta teisminiai ginčai su trečiaisiais asmenimis dėl licencijuojamos veiklos sąlygų (teritorijos) arba kai yra kitų priežasčių, pateisinamų svarbiais visuomenės interesais, ir pareiškėjui apie tai yra pranešta teisės aktų nustatyta tvarka. Šiuo atveju licencija, leidimas ar atestatas išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją, leidimą ar atestatą pareiškėjui pateikiamas ne vėliau kaip per 30 kalendorinių dienų pasibaigus atitinkamo teisminio ginčo nagrinėjimui ar nelikus kitų priežasčių, pateisinamų svarbiais visuomenės interesais, dėl kurių buvo atidėtas sprendimo dėl licencijos, leidimo ar atestato išdavimo priėmimas.
 
-2. Jeigu į tinkamai pateiktą prašymą išduoti licenciją, leidimą ar atestatą neatsakoma per šio straipsnio 1 dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos, leidimo ar atestato išdavimo.
+4. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus energetikos įmonė, turinti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka įspėjama apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą šio straipsnio 5 dalyje nustatytais pagrindais arba licencijos, leidimo ar atestato galiojimo panaikinimą šio straipsnio 7 dalyje nustatytais pagrindais ir nustatomas laikotarpis, per kurį turi būti pašalinti nurodyti reguliuojamosios veiklos pažeidimai. Šis laikotarpis negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimui pašalinti reikia ilgesnio laikotarpio. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 5 dalies 6, 9 ar 10 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per 3 darbo dienas nuo pažeidimų nustatymo dienos, o už pažeidimus, nurodytus šio straipsnio 5 dalies 7 ir 11 punktuose, – ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 7 dalies 10 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas panaikinamas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos.
 
-3. Šio straipsnio 2 dalyje nustatyta sąlyga netaikoma, kai vyksta teisminiai ginčai su trečiaisiais asmenimis dėl licencijuojamos veiklos sąlygų (teritorijos) arba kai yra kitų priežasčių, pateisinamų svarbiais visuomenės interesais, ir pareiškėjui apie tai yra pranešta teisės aktų nustatyta tvarka. Šiuo atveju licencija, leidimas ar atestatas išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją, leidimą ar atestatą pareiškėjui pateikiamas ne vėliau kaip per 30 kalendorinių dienų pasibaigus atitinkamo teisminio ginčo nagrinėjimui ar nelikus kitų priežasčių, pateisinamų svarbiais visuomenės interesais, dėl kurių buvo atidėtas sprendimo dėl licencijos, leidimo ar atestato išdavimo priėmimas.
-
-4. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus energetikos įmonė, turinti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka įspėjama apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą šio straipsnio 5 dalyje nustatytais pagrindais arba licencijos, leidimo ar atestato galiojimo panaikinimą šio straipsnio 7 dalyje nustatytais pagrindais ir nustatomas laikotarpis, per kurį turi būti pašalinti nurodyti reguliuojamosios veiklos pažeidimai. Šis laikotarpis negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimui pašalinti reikia ilgesnio laikotarpio. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 5 dalies 6, 7, 9, 10 ar 11 punktuose, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 7 dalies 10 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas panaikinamas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
-
-Nr. XIII-2707, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21554
-
-5. Licencijos, leidimo ar atestato galiojimas, įvertinus šio ir kitų įstatymų nustatytus reikalavimus, taikomus licencijai, leidimui ar atestatui gauti, juos išdavusios institucijos sprendimu teisės aktų nustatyta tvarka sustabdomas, jeigu:
+5. Licencijos, leidimo ar atestato galiojimas, įvertinus šio ir kitų įstatymų nustatytus reikalavimus, taikomus licencijai, leidimui ar atestatui gauti, juos išduodančios institucijos sprendimu teisės aktų nustatyta tvarka sustabdomas, jeigu:
 
 1) išdavus licenciją, leidimą ar atestatą, paaiškėja, kad prašyme išduoti licenciją, leidimą ar atestatą arba deklaracijoje pateikti klaidingi duomenys, ir po įspėjimo per licencijas, leidimus ar atestatus išduodančios institucijos nustatytą laikotarpį energetikos įmonė nepateikė patikslintų duomenų;
 
-Straipsnio punkto pakeitimai:
+2) energetikos įmonė per kalendorinius metus pažeidžia nustatytas reguliuojamosios veiklos sąlygas ir apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą energetikos įmonė buvo įspėta šio straipsnio 4 dalyje nustatyta tvarka, bet per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį nepašalino nurodytų pažeidimų;
 
-Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
-
-2) energetikos įmonė per kalendorinius metus pažeidžia nustatytas reguliuojamosios veiklos sąlygas ir apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą energetikos įmonė buvo įspėta šio straipsnio 4 dalyje nustatyta tvarka, bet per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį nepašalino nurodytų pažeidimų;
-
-3) energetikos įmonės technologiniai, finansiniai ir (ar) vadybiniai pajėgumai neleidžia vykdyti reguliuojamosios veiklos, apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą ji buvo įspėta šio straipsnio 4 dalyje nustatyta tvarka ir per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį nepašalino nurodytų pažeidimų. Energetikos įmonėms, vykdančioms veiklą atskiruose energetikos sektoriuose, keliamus technologinių, finansinių ir vadybinių pajėgumų reikalavimus nustato atitinkamus energetikos sektorius reglamentuojantys įstatymai;
+3) energetikos įmonės technologiniai, finansiniai ir (ar) vadybiniai pajėgumai neleidžia vykdyti reguliuojamosios veiklos, apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą ji buvo įspėta šio straipsnio 4 dalyje nustatyta tvarka ir per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį nepašalino nurodytų pažeidimų. Energetikos įmonėms, vykdančioms veiklą atskiruose energetikos sektoriuose, keliamus technologinių, finansinių ir vadybinių pajėgumų reikalavimus nustato atitinkamus energetikos sektorius reglamentuojantys įstatymai;
 
 4) paaiškėja, kad fizinis asmuo, turintis leidimą, ar juridinio asmens, turinčio leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, turi neišnykusį ar nepanaikintą teistumą arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus buvo priimtas ir yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, nusikalstamą bankrotą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar šias veikas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus;
 
-Straipsnio punkto pakeitimai:
+5) energetikos įmonė pateikia prašymą sustabdyti licencijos, leidimo ar atestato galiojimą;
 
-Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
-
-Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
-
-5) energetikos įmonė pateikia prašymą sustabdyti licencijos, leidimo ar atestato galiojimą;
-
-6) paaiškėja, kad asmens, turinčio leidimą verstis didmenine prekyba nefasuotais naftos produktais, mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų bendra suma valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui ir (ar) įsipareigojimų muitinei suma viršija 10 tūkstančių eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi;
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+6) paaiškėja, kad asmens, turinčio leidimą verstis didmenine prekyba nefasuotais naftos produktais, mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų bendra suma valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui, ir (ar) įsipareigojimų muitinei suma viršija 10 tūkstančių eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi;
 
 7) atliekant priežiūros veiksmus naftos produktų prekyba besiverčiančiose įmonėse, randama neregistruotų talpyklų, vamzdynais sujungtų su registruotomis talpyklomis, neplombuotų degalų skaitiklių, pažeistų jungčių tarp elektroninio kasos aparato ir degalų išdavimo kolonėlės, pažeistų vamzdynų jungčių tarp kuro talpyklos (talpyklų) ir degalų išdavimo kolonėlės;
 
-Papildyta straipsnio punktu:
-
-Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
-
 8) paaiškėja, kad asmuo, kuris turi elektros įrenginių įrengimo atestatą ir (ar) gamtinių dujų įrenginių įrengimo atestatą, vykdo atestatuose nurodytą veiklą neturėdamas profesinės civilinės atsakomybės draudimo, kaip nustatyta šio įstatymo 221 straipsnyje;
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 9) paaiškėja, kad asmuo, turintis leidimą verstis didmenine prekyba nefasuotais naftos produktais, neturi šio įstatymo 24 straipsnio 8 ar 9 dalyje nustatyto dydžio prievolių įvykdymo užtikrinimą patvirtinančių dokumentų;
 
-Papildyta straipsnio punktu:
-
-Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
-
 10) paaiškėja, kad asmuo, turintis leidimą verstis didmenine prekyba nefasuotais naftos produktais, neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje;
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 11) paaiškėja, kad asmuo, turintis licenciją vykdyti visuomeninio elektros energijos tiekimo veiklą, ar asmuo, turintis leidimą vykdyti nepriklausomo elektros energijos tiekimo veiklą, šią veiklą vykdo pažeisdamas Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatyme nustatytus ribojimus elektros energijos patekimui į Lietuvos Respublikos elektros energijos rinką iš trečiųjų šalių, kuriose veikia nesaugios branduolinės elektrinės.
 
-Papildyta straipsnio punktu:
+6. Kai energetikos įmonė nustatyta tvarka pateikia dokumentus, įrodančius, kad pažeidimai pašalinti, licenciją, leidimą ar atestatą išduodančios institucijos sprendimu ne vėliau kaip per 10 kalendorinių dienų nuo šių dokumentų įregistravimo licencijas, leidimus ar atestatus išduodančioje institucijoje dienos licencijos, leidimo ar atestato galiojimo sustabdymas panaikinamas.
 
-Nr. XIII-2707, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21554
+7. Licencijos, leidimo ir (ar) atestato galiojimas, įvertinus šio ir kitų įstatymų nustatytus reikalavimus, taikomus licencijai, leidimui ar atestatui gauti, juos išduodančios institucijos sprendimu teisės aktų nustatyta tvarka panaikinamas, jeigu:
 
-6. Kai energetikos įmonė nustatyta tvarka pateikia dokumentus, įrodančius, kad pažeidimai pašalinti, licenciją, leidimą ar atestatą išdavusios institucijos sprendimu ne vėliau kaip per 10 kalendorinių dienų nuo šių dokumentų įregistravimo licencijas, leidimus ar atestatus išduodančioje institucijoje dienos licencijos, leidimo ar atestato galiojimo sustabdymas panaikinamas.
+1) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas jau buvo sustabdytas, pakartotinai per 12 mėnesių nuo jai išduotos licencijos, leidimo ar atestato galiojimo sustabdymo datos pažeidžia veiklos, kuriai išduota licencija, leidimas ar atestatas, sąlygas;
 
-7. Licencijos, leidimo ir (ar) atestato galiojimas, įvertinus šio ir kitų įstatymų nustatytus reikalavimus, taikomus licencijai, leidimui ar atestatui gauti, juos išdavusios institucijos sprendimu teisės aktų nustatyta tvarka panaikinamas, jeigu:
+2) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas sustabdytas, nepašalino reguliuojamosios veiklos sąlygų pažeidimų per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį;
 
-1) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas jau buvo sustabdytas, pakartotinai per dvylika mėnesių nuo jai išduotos licencijos, leidimo ar atestato galiojimo sustabdymo datos pažeidžia veiklos, kuriai išduota licencija, leidimas ar atestatas, sąlygas;
+3) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas sustabdytas, vykdo licencijoje, leidime ar atestate nurodytą veiklą;
 
-2) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas sustabdytas, nepašalino reguliuojamosios veiklos sąlygų pažeidimų per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį;
+4) licenciją, leidimą ar atestatą turintis juridinis asmuo pasibaigė jį likvidavus ar reorganizavus;
 
-3) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas sustabdytas, vykdo licencijoje, leidime ar atestate nurodytą veiklą;
+5) energetikos įmonė daugiau kaip vienus metus arba ilgesnį (bet ne ilgesnį kaip treji metai) terminą, jeigu šis terminas yra nustatytas atskirus energetikos sektorius reglamentuojančiuose įstatymuose, nevykdo licencijoje, leidime ar atestate nurodytos veiklos;
 
-4) licenciją, leidimą ar atestatą turintis juridinis asmuo pasibaigė jį likvidavus ar reorganizavus;
+6) energetikos įmonė, turinti leidimą verstis mažmenine prekyba nefasuotais naftos produktais, nuosavybės teisę į degalinę perduoda kitiems asmenims arba pasibaigia sutartis, kurios pagrindu buvo naudojamasi degaline, arba nebevykdo veiklos šioje degalinėje;
 
-5) energetikos įmonė daugiau kaip vienus metus arba ilgesnį (bet ne ilgesnį kaip treji metai) terminą, jei šis terminas yra nustatytas atskirus energetikos sektorius reglamentuojančiuose įstatymuose, nevykdo licencijoje, leidime ar atestate nurodytos veiklos;
+7) energetikos įmonė pateikė prašymą panaikinti licencijos, leidimo ar atestato galiojimą;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
-
-6) energetikos įmonė, turinti leidimą verstis mažmenine prekyba nefasuotais naftos produktais, nuosavybės teisę į degalinę perduoda kitiems asmenims arba pasibaigia sutartis, kurios pagrindu buvo naudojamasi degaline, arba nebevykdo veiklos šioje degalinėje;
-
-7) energetikos įmonė pateikė prašymą panaikinti licencijos, leidimo ar atestato galiojimą;
-
-8) fizinis asmuo, turėjęs licenciją, leidimą ar atestatą, miršta;
+8) fizinis asmuo, turėjęs licenciją, leidimą ar atestatą, miršta;
 
 9) energetikos įmonė deklaracijoje pateikė klaidingus duomenis;
 
-Papildyta straipsnio punktu:
-
-Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
-
 10) paaiškėja aplinkybės dėl leidimo importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, galiojimo panaikinimo, nustatytos Būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo 4 straipsnio 2 dalyje.
 
-Papildyta straipsnio punktu:
+8. Išduoti licencijos, leidimai ar atestatai gali būti keičiami juos išduodančios institucijos iniciatyva, kai pasikeičia įstatymų nustatyti reikalavimai, taikomi reguliuojamajai veiklai, arba asmens, turinčio licenciją, leidimą ar atestatą, iniciatyva, kai pasikeičia licencijoje, leidime ar atestate nurodyti asmens duomenys ar teritorija, kurioje vykdoma reguliuojamoji veikla. Pasikeitus licencijoje, leidime ar atestate nurodytiems asmens duomenims ar teritorijai, kurioje vykdoma reguliuojamoji veikla, toks asmuo privalo raštu pranešti licenciją, leidimą ar atestatą išduodančiai institucijai apie šiuos pasikeitimus ne vėliau kaip per 10 darbo dienų nuo pasikeitimų atsiradimo. Asmeniui, siekiančiam pakeisti išduotą energetikos veiklos leidimą ir pateikusiam deklaraciją, laikoma, kad leidimas pakeistas ar patikslintas kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos.
 
-Nr. XIII-2707, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21554
+9. Už licencijos, leidimo ar atestato išdavimą ar jų pakeitimą mokama Vyriausybės nustatyto dydžio valstybės rinkliava.
 
-8. Išduoti licencijos, leidimai ar atestatai gali būti keičiami juos išdavusios institucijos iniciatyva, kai pasikeičia įstatymų nustatyti reikalavimai, taikomi reguliuojamajai veiklai, arba asmens, turinčio licenciją, leidimą ar atestatą, iniciatyva, kai pasikeičia licencijoje, leidime ar atestate nurodyti asmens duomenys ar teritorija, kurioje vykdoma reguliuojamoji veikla. Pasikeitus licencijoje, leidime ar atestate nurodytiems asmens duomenims ar teritorijai, kurioje vykdoma reguliuojamoji veikla, toks asmuo privalo raštu pranešti licenciją, leidimą ar atestatą išdavusiai institucijai apie šiuos pasikeitimus ne vėliau kaip per 10 darbo dienų nuo pasikeitimų atsiradimo. Asmeniui, siekiančiam pakeisti išduotą energetikos veiklos leidimą ir pateikusiam deklaraciją, laikoma, kad leidimas pakeistas ar patikslintas kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos.
+10. Valstybinės priežiūros ir (ar) kontrolės institucijos įstatymų nustatyta tvarka pagal kompetenciją kontroliuoja licencijas, leidimus ar atestatus turinčių energetikos įmonių veiklą ir prižiūri, kaip jos laikosi reguliuojamosios veiklos sąlygų. Valstybinės priežiūros ir (ar) kontrolės institucijos privalo nedelsdamos raštu arba kitomis priemonėmis pateikti informaciją licenciją, leidimą ar atestatą išduodančiai institucijai apie nustatytus energetikos įmonių reguliuojamosios veiklos sąlygų pažeidimus.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
-
-9. Neteko galios nuo 2019-01-01.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
-
-10. Už licencijos, leidimo ar atestato išdavimą ar jų pakeitimą mokama Vyriausybės nustatyto dydžio valstybės rinkliava.
-
-11. Valstybinės priežiūros ir (ar) kontrolės institucijos įstatymų nustatyta tvarka pagal kompetenciją kontroliuoja licencijas, leidimus ar atestatus turinčių energetikos įmonių veiklą ir prižiūri, kaip jos laikosi reguliuojamosios veiklos sąlygų. Valstybinės priežiūros ir (ar) kontrolės institucijos privalo nedelsdamos raštu pranešti licenciją, leidimą ar atestatą išdavusiai institucijai apie nustatytus energetikos įmonių reguliuojamosios veiklos sąlygų pažeidimus.
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 22 straipsnis. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai ir reikalavimai atestatų turėtojams
 
@@ -1117,7 +1067,11 @@ TAR pastaba. Asmuo, turintis iki įstatymo Nr. XIII-1455 įsigaliojimo (2019-01-
 
 3) neturi teisės įgalioti kitus asmenis verstis atestatuose nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį;
 
-4) teikti atestatą išdavusiai institucijai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+4) teikti Tarybai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 5) užtikrinti, kad būtų laikomasi kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų.
 
@@ -1171,7 +1125,11 @@ Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 3) naudoti suskystintų naftos dujų prekybai balionus ir kitus slėginius įrenginius, atitinkančius teisės aktų nustatytus reikalavimus;
 
-4) teikti leidimą išdavusiai institucijai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+4) teikti Tarybai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 5) neturi teisės įgalioti kitas įmones verstis leidime nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį ar kitaip pavesti vykdyti šią veiklą;
 
@@ -1273,7 +1231,11 @@ Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 1) verstis prekyba leidime nurodytais nefasuotais naftos produktais, laikydamasi teisės aktuose nustatytų reikalavimų;
 
-2) teikti leidimą išdavusiai institucijai informaciją, reikalingą įstatymuose ir kituose teisės aktuose nustatytoms pareigoms vykdyti;
+2) teikti Tarybai informaciją, reikalingą įstatymuose ir kituose teisės aktuose nustatytoms pareigoms vykdyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 3) nustatyta tvarka kaupti naftos produktų valstybės atsargas, jeigu ši prievolė nustatyta įstatymuose;
 
@@ -1362,6 +1324,12 @@ Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+
+15. Lietuvos energetikos agentūros pagal Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymą naftos produktų ir naftos valstybės atsargų keitimo veikla nėra laikoma didmenine prekyba naftos produktais ir šiai veiklai neprivaloma įsigyti leidimo, nurodyto šio straipsnio 1 dalies 1 punkte.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 25 straipsnis. Informacijos teikimas
 
@@ -1703,7 +1671,7 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
 Lietuvos Respublikos                                                                                                 energetikos įstatymo                                                                                                 priedas
 
@@ -2061,6 +2029,14 @@ Nr. XIII-3016, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13233
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2 straipsnio pakeitimo įstatymas
 
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 8, 13-1, 21, 22, 23, 24, 28 straipsnių pakeitimo ir Įstatymo papildymo 28-1 ir 28-2 straipsniais įstatymas
+
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
 1. Centralizuotai tiekiamų suskystintų naftos dujų kainos yra valstybės reguliuojamos.
@@ -2225,7 +2201,17 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 14) administruoja Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą;
 
-15) atlieka kituose įstatymuose jai nustatytas funkcijas.
+15) administruoja ir (ar) įgyvendina priemones, įskaitant finansinės paskatos priemones, kuriomis didinamas energijos vartojimo efektyvumas ir saugumas, vystoma atsinaujinančių energijos išteklių energetikos plėtra;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+16) atlieka kituose įstatymuose jai nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 2. Lietuvos energetikos agentūros veikla atliekant šio straipsnio 1 dalyje ir kituose įstatymuose jai nustatytas funkcijas finansuojama iš valstybės biudžeto asignavimų ir (ar) kitų lėšų.
 
