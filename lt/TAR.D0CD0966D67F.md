@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2020-04-03"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-04-03 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-10
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -241,7 +241,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-602, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12175
 
-12) socialinių paslaugų planavimas ir teikimas, socialinių paslaugų įstaigų steigimas, išlaikymas ir bendradarbiavimas su nevyriausybinėmis organizacijomis;
+12) socialinių paslaugų teikimo užtikrinimas planuojant ir organizuojant socialines paslaugas, kontroliuojant bendrųjų socialinių paslaugų ir socialinės priežiūros kokybę, taip pat socialinių paslaugų įstaigų steigimas ir išlaikymas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2946, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11672
 
 13) gyventojų bendrosios kultūros ugdymas ir etnokultūros puoselėjimas (dalyvavimas kultūros plėtros projektuose, muziejų, teatrų, kultūros centrų ir kitų kultūros įstaigų steigimas, reorganizavimas, pertvarkymas, likvidavimas ir jų veiklos priežiūra, savivaldybių viešųjų bibliotekų steigimas, reorganizavimas, pertvarkymas ir jų veiklos priežiūra);
 
