@@ -4,7 +4,7 @@ identifier: "TAR.9C9FA25983BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-02"
-last_updated: "2019-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
 
@@ -351,7 +351,11 @@ Pareigūnas privalo:
 
 4) atstovauti šalies ir užsienio valstybių įmonių interesams;
 
-5) dirbti samdomais darbuotojais, patarėjais, ekspertais ar konsultantais įmonėse, įstaigose, organizacijose ir kitose institucijose, taip pat gauti kitą, negu nustatyta šiame įstatyme, atlyginimą, išskyrus atvejus, kai tai būtina Tarnybos vykdomai žvalgybinei veiklai ir ne ilgiau, negu tai yra būtina nustatytam užduoties tikslui pasiekti, taip pat išskyrus atlyginimą už pedagoginę ir kūrybinę veiklą, savanorių karo tarnybos atlikimą ir atvejus, kai pareigūnas nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Tarnybos funkcijomis ir užduotimis susijusi veikla;
+5) dirbti samdomais darbuotojais, patarėjais, ekspertais ar konsultantais įmonėse, įstaigose, organizacijose ir kitose institucijose, taip pat gauti kitą, negu nustatyta šiame įstatyme, atlyginimą, išskyrus atvejus, kai tai būtina Tarnybos vykdomai žvalgybinei veiklai, ir ne ilgiau, negu tai yra būtina nustatytam užduoties tikslui pasiekti, taip pat išskyrus atlyginimą už pedagoginę ir kūrybinę veiklą, tarnybos aktyviajame kariuomenės personalo rezerve ir savanoriškos nenuolatinės karo tarnybos atlikimą, ir atvejus, kai pareigūnas nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Tarnybos funkcijomis ir užduotimis susijusi veikla;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2677, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21318
 
 6) streikuoti ar dalyvauti piketuose, mitinguose, kurie tiesiogiai trikdytų Specialiųjų tyrimų tarnybos veiklą arba kliudytų atlikti Specialiųjų tyrimų tarnybos pareigūno tarnybines pareigas, būti profesinės sąjungos nariais;
 
@@ -1137,7 +1141,11 @@ Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
 
 7) kai pareigūnai, gavę tiesioginio vadovo sutikimą, yra išvykę į sveikatos priežiūros įstaigą ir valstybės ar savivaldybės instituciją ar įstaigą, – iki vienos darbo dienos.
 
-2. Kai pareigūnas atlieka privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos einamos pareigos.
+2. Kai pareigūnas atlieka privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos einamos pareigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2677, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21318
 
 3. Pareigūnai dirba 40 valandų darbo savaitę. Specialiųjų tyrimų tarnybos direktorius, direktoriaus pavaduotojai, pareigūno tiesioginis vadovas, esant tarnybiniam būtinumui, pareigūnams gali pavesti dirbti viršvalandinį darbą. Per vieną darbo dieną pareigūnui gali būti pavedama dirbti iki 4 valandų viršvalandinio darbo, o jeigu pareigūnas sutinka, – iki 8 valandų, per darbo savaitę gali būti pavedama dirbti iki 8 valandų viršvalandinio darbo, o jeigu pareigūnas sutinka, – iki 20 valandų. Per kalendorinius metus pareigūnui gali būti pavedama dirbti iki 250 valandų viršvalandinio darbo.
 
@@ -1508,4 +1516,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
 
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 59 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2677, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21318
+
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 23 ir 64 straipsnių pakeitimo įstatymas
 
