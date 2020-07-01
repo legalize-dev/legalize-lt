@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2020-06-20"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2020-06-20 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-08
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -1791,17 +1791,23 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Vykdymo išlaidas sudaro:
 
-1) vykdomosios bylos administravimo išlaidos, kurios būtinos kiekvienoje vykdomojoje byloje privalomiems veiksmams atlikti;
+1) vykdomosios bylos administravimo išlaidos;
 
-2) vykdomosios bylos administravimo papildomos išlaidos, patiriamos atliekant atskirus veiksmus konkrečioje vykdomojoje byloje;
+2) išlaidos tretiesiems asmenims už konkrečioje vykdomojoje byloje šių asmenų suteiktas paslaugas;
 
 3) atlygis antstoliui už įstatymų nustatytų vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą teismo pavedimu, dokumentų perdavimą ir įteikimą teismo pavedimu.
 
-2. Vykdymo išlaidų dydį, apskaičiavimo ir apmokėjimo tvarką nustato Sprendimų vykdymo instrukcija.
+2. Vykdymo išlaidos grindžiamos ekonominiais skaičiavimais, atsižvelgiant į veiklos atliekant antstolio funkcijas pobūdį. Vykdomosios bylos administravimo išlaidos turi atitikti antstolio ir jo darbuotojų patiriamas sąnaudas (materialines ir laiko) vykdymo veiksmams atlikti. Atlygis antstoliui nustatomas įvertinant poreikį sukurti tinkamas klientų aptarnavimo sąlygas ir įdarbinti reikalingos kvalifikacijos darbuotojus, atsižvelgiant į vykdymo išlaidų perskirstymą (kryžminį subsidijavimą) tarp skirtingų vykdymo proceso dalyvių. Vykdomosiose bylose dėl pinigų sumų išieškojimo vykdomosios bylos administravimo išlaidų ir atlygio antstoliui dydžiai nustatomi atsižvelgiant į išieškotiną sumą.
+
+3. Vykdymo išlaidų dydį, apskaičiavimo ir apmokėjimo tvarką nustato Sprendimų vykdymo instrukcija.
 
 Straipsnio pakeitimai:
 
 Nr. X-1839, 2008-11-14, Žin., 2008, Nr. 138-5446 (2008-12-02)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 619 straipsnis. Turto saugotojo (administratoriaus) atsakomybė
 
@@ -1811,7 +1817,11 @@ Nr. X-1839, 2008-11-14, Žin., 2008, Nr. 138-5446 (2008-12-02)
 
 744 straipsnis. Skolininko turto administravimo tvarkos nustatymas
 
-1. Antstolis, pradėdamas išieškojimą vykdyti skolininko turto administravimu ir iš to gautų pajamų nukreipimu skolai ir vykdymo išlaidoms padengti, skolininko turto administravimo ir gautų pajamų paskirstymo tvarką nustato patvarkymu. Patvirtintos šio patvarkymo kopijos išsiunčiamos vykdymo proceso šalims.
+1. Antstolis, pradėdamas išieškojimą vykdyti skolininko turto administravimu ir iš to gautų pajamų nukreipimu skolai ir vykdymo išlaidoms padengti, skolininko turto administravimo ir gautų pajamų paskirstymo tvarką nustato patvarkymu. Šio patvarkymo kopijos registruotąja pašto siunta išsiunčiamos vykdymo proceso šalims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 2. Antstolis skolininko turto administravimo tvarką nustato vadovaudamasis Civilinio kodekso ketvirtosios knygos XIV skyriaus nuostatomis Sprendimų vykdymo instrukcijoje nustatyta tvarka.
 
@@ -1861,11 +1871,15 @@ Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
 
 604 straipsnis. Procesinių dokumentų įteikimas vykdymo proceso metu
 
-Procesiniai dokumentai, siunčiami vykdymo proceso dalyviams šio Kodekso VI dalyje numatytais atvejais registruotąja pašto siunta, laikomi įteiktais praėjus penkioms dienoms nuo išsiuntimo dienos, išskyrus šio Kodekso 660 straipsnyje ir kituose straipsniuose numatytus atvejus.
+Šio Kodekso VI dalyje numatytais atvejais antstolio procesiniai dokumentai, jeigu yra galimybė, vykdymo proceso dalyviams įteikiami iš karto arba išsiunčiami ne vėliau kaip kitą darbo dieną nuo jų priėmimo ir laikomi įteiktais praėjus penkioms dienoms nuo išsiuntimo dienos, išskyrus šio Kodekso 660 straipsnyje nustatytus atvejus.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 606 straipsnis. Terminai, per kuriuos vykdomieji dokumentai pateikiami vykdyti
 
@@ -1921,7 +1935,11 @@ Antstolis gali visiškai ar iš dalies sustabdyti vykdomąją bylą arba atidėt
 
 2. Bylose dėl vaiko perdavimo, kai vaiko buvimo vieta nežinoma, antstolis privalo skelbti skolininko arba vaiko paiešką per policiją.
 
-3. Vykdant kitus sprendimus, kada skolininko gyvenamoji vieta nežinoma, išieškotojo prašymu antstolis gali priimti patvarkymą skelbti skolininko paiešką per policiją, jeigu išieškotojas pateikia duomenis, kad jam nepavyko nustatyti skolininko gyvenamosios vietos, ir sumoka nustatyto dydžio paieškos išlaidas.
+3. Vykdant kitus sprendimus, antstolis, atsižvelgdamas į vykdomosios bylos aplinkybes, išimtiniais atvejais gali skelbti skolininko paiešką per policiją, jeigu nežinoma skolininko buvimo vieta ir išieškotojas įrodo, kad jis ėmėsi visų priemonių atsakovo gyvenamajai vietai nustatyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 436 straipsnis. Teismo įsakymo išdavimas
 
@@ -2193,11 +2211,11 @@ TURTO AREŠTAS
 
 679 straipsnis. Turto arešto akto ir turto aprašo įteikimo išieškotojui ir skolininkui tvarka
 
-Turto arešto aktas ir turto aprašas, jeigu šis yra sudarytas, įteikiami išieškotojui ir skolininkui pasirašytinai. Jeigu įteikti turto arešto aktą ar turto aprašą nėra galimybės, jis siunčiamas registruotąja pašto siunta.
+Turto arešto aktas ir turto aprašas, jeigu šis yra sudarytas, jeigu yra galimybė, iš karto įteikiami išieškotojui ir skolininkui pasirašytinai. Tuo atveju, kai turto arešto akte arba turto apraše nustatoma turto vertė ir įteikti turto arešto aktą ar turto aprašą nėra galimybės, jis siunčiamas registruotąja pašto siunta. Kitais atvejais turto arešto aktas ir turto aprašas siunčiami šio Kodekso 605 straipsnyje nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 680 straipsnis. Turto arešto akto ir turto aprašo pateikimo turto areštų registro tvarkytojui tvarka
 
@@ -2543,7 +2561,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Skolininko turtą, neparduotą per vieną mėnesį nuo jo perdavimo prekybos organizacijai dienos, išieškotojas gali pasiimti už pardavimo kainą. Jeigu išieškotojas atsisako šio turto, jis perkainojamas.
 
-2. Turtą patvarkymu perkainoja antstolis. Turtą perkainojant, dalyvauja prekybos organizacijos atstovas. Apie perkainojimo laiką ir vietą prieš tris darbo dienas raštu pranešama išieškotojui ir skolininkui, tačiau jų neatvykimas nekliudo atlikti perkainojimą. Šiuo atveju išieškotojui ir skolininkui išsiunčiamas patvarkymo nuorašas.
+2. Turtą patvarkymu perkainoja antstolis. Turtą perkainojant, dalyvauja prekybos organizacijos atstovas. Apie perkainojimo laiką ir vietą prieš tris darbo dienas raštu pranešama išieškotojui ir skolininkui, tačiau jų neatvykimas nekliudo atlikti perkainojimą. Šiuo atveju išieškotojui ir skolininkui registruotąja pašto siunta išsiunčiamas patvarkymo nuorašas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 3. Perkainojamo turto pardavimo kaina nustatoma dvidešimčia procentų mažesnė už pradinę pardavimo kainą.
 
@@ -2601,7 +2623,11 @@ AR KITŲ PAJAMŲ TVARKA
 
 5. Išlaikymo periodinėmis išmokomis, jeigu jų suma nenustatyta, skolos dydis apskaičiuojamas atsižvelgiant į skolininko faktiškai gautą darbo užmokestį per laikotarpį, už kurį skaičiuojama skola. Jeigu skolininkas tuo laikotarpiu nedirbo arba skolos apskaičiavimo metu nėra duomenų apie tuo laikotarpiu skolininko gautą darbo užmokestį, skola skaičiuojama pagal išieškojimo vykdymo metu gaunamo darbo užmokesčio dydį, jeigu jis didesnis negu viena MMA per mėnesį. Jeigu skolos išieškojimo metu gaunamas darbo užmokestis mažesnis negu viena MMA, skola skaičiuojama imant pagrindu vienos MMA dydžio darbo užmokestį. Kai skolininkas ar išieškotojas pateikia duomenis apie skolininko faktinį darbo užmokestį per laikotarpį, už kurį skaičiuojama skola, antstolis perskaičiuoja skolos dydį.
 
-6. Patvarkymo kopijos išsiunčiamos išieškotojui, skolininkui ir viena kopija paliekama vykdomojoje byloje.
+6. Patvarkymo kopijos išsiunčiamos išieškotojui ir skolininkui šio Kodekso 605 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 7. Jeigu patvarkyme nurodytu adresu išieškotojas negyvena ir jo gyvenamoji vieta nežinoma, išskaitytos pinigų sumos pervedamos į antstolio depozitinę sąskaitą. Išieškotos pinigų sumos šioje sąskaitoje saugomos trejus metus. Jeigu per šį laikotarpį išieškotojo buvimo vieta neišaiškėjo, antstolio patvarkymu išieškojimas pagal vykdomąjį dokumentą nutraukiamas, išieškotos sumos grąžinamos skolininkui, o vykdomasis dokumentas grąžinamas šio Kodekso 631 straipsnio 5 dalyje nustatyta tvarka.
 
@@ -2635,7 +2661,11 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 Išieškojimo iš darbo užmokesčio taisyklės taip pat taikomos ir išieškant iš skolininkui priklausančių:
 
-1) grynųjų pajamų už darbą žemės ūkyje;
+1) apmokestinamųjų individualios veiklos pajamų, atskaičius nuo jų mokėtinus (sumokėtus) mokesčius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 2) autorinio atlyginimo už literatūros, mokslo ar meno kūrinį ir išradimą, dėl kurio išduotas patentas;
 
@@ -2656,6 +2686,12 @@ Nr. XII-1571, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05018
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2518, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20310
+
+8) pensijų išmokų.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 Straipsnio pakeitimai:
 
@@ -2783,7 +2819,11 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 750 straipsnis. Patvarkymo dėl skolininko turtinių teisių arešto įteikimas ir pranešimas apie areštą
 
-1. Šio Kodekso 749 straipsnio 1 dalyje nurodytas patvarkymas įteikiamas skolininkui ir prievolės skolininkui šio Kodekso 604 straipsnyje nustatyta tvarka.
+1. Šio Kodekso 749 straipsnio 1 dalyje nurodytas patvarkymas prievolės skolininkui įteikiamas registruotąja pašto siunta, o skolininkui – šio Kodekso 605 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 2. Apie turtinių teisių, kurių įgyvendinimas yra užtikrintas, areštą pranešama ir prievolę užtikrinusiam asmeniui.
 
@@ -2807,15 +2847,17 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 753 straipsnis. Reikalavimų išieškoti pagal vykdomuosius dokumentus patenkinimo eiliškumas
 
-1. Jeigu išieškotos iš skolininko sumos neužtenka vykdymo ir su juo susijusioms išlaidoms bei visiems reikalavimams pagal vykdomuosius dokumentus patenkinti, išieškota suma paskirstoma šia eilės tvarka:
+1. Jeigu išieškotos iš skolininko sumos neužtenka vykdymo išlaidoms ir visiems reikalavimams pagal vykdomuosius dokumentus patenkinti, išieškota suma paskirstoma šia eilės tvarka:
 
-1) vykdomosios bylos administravimo išlaidoms, kurios būtinos kiekvienoje vykdomojoje byloje privalomiems veiksmams atlikti;
+1) vykdomosios bylos administravimo išlaidoms;
 
-2) vykdomosios bylos administravimo papildomoms išlaidoms, patiriamoms atliekant atskirus veiksmus konkrečioje vykdomojoje byloje;
+2) išlaidoms tretiesiems asmenims už konkrečioje vykdomojoje byloje šių asmenų suteiktas paslaugas;
 
-3) kitoms su vykdymu susijusioms išlaidoms;
+3) išieškotojams šio Kodekso 754 straipsnyje nustatyta eilės tvarka ir antstoliui kaip atlygis už įstatymų nustatytų vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą teismo pavedimu, dokumentų perdavimą ir įteikimą teismo pavedimu. Atlygis antstoliui paskirstomas proporcingai išieškotojams paskirstytai sumai Sprendimų vykdymo instrukcijoje nustatyta tvarka.
 
-4) išieškotojams šio Kodekso 754 ir 755 straipsniuose nustatyta eilės tvarka ir antstoliui kaip atlygis už įstatymų nustatytų vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą teismo pavedimu, dokumentų perdavimą ir įteikimą teismo pavedimu. Atlygis antstoliui paskirstomas proporcingai išieškotojams paskirstytai sumai Sprendimų vykdymo instrukcijoje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 2. Paskesnės eilės reikalavimai patenkinami po to, kai visiškai patenkinti pirmesnės eilės reikalavimai.
 
@@ -2885,7 +2927,11 @@ NEPINIGINIO POBŪDŽIO SPRENDIMŲ VYKDYMO YPATUMAI
 
 1. Pagal teismo sprendimą į gyvenamąsias patalpas turi būti įkeldinami tik tie asmenys, kurie nurodyti vykdomajame rašte.
 
-2. Apie įkeldinimo laiką prieš penkias darbo dienas raštu pranešama skolininkui ir išieškotojui. Įkeldinama paprastai jiems dalyvaujant.
+2. Apie įkeldinimo laiką prieš penkias darbo dienas registruotąja pašto siunta pranešama skolininkui ir išieškotojui. Įkeldinama paprastai jiems dalyvaujant.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 3. Jeigu skolininkas slepiasi arba nevykdo antstolio reikalavimo įleisti išieškotoją į patalpą, antstolis išieškotoją įkeldina priverstine tvarka, dalyvaujant policijos pareigūnui.
 
@@ -3021,7 +3067,11 @@ Nr. X-1839, 2008-11-14, Žin., 2008, Nr. 138-5446 (2008-12-02)
 
 610 straipsnis. Vykdymo išlaidų apmokėjimas
 
-1. Išieškotojas apmoka vykdomosios bylos administravimo išlaidas, kurios būtinos kiekvienoje vykdomojoje byloje privalomiems veiksmams atlikti, vykdomosios bylos administravimo papildomas išlaidas, patiriamas atliekant atskirus veiksmus konkrečioje vykdomojoje byloje, ir Sprendimų vykdymo instrukcijos numatytais atvejais atlygį antstoliui. Vykdymo išlaidos išieškomos iš skolininko.
+1. Išieškotojas apmoka vykdomosios bylos administravimo išlaidas ir Sprendimų vykdymo instrukcijoje numatytais atvejais išlaidas tretiesiems asmenims už konkrečioje vykdomojoje byloje šių asmenų suteiktas paslaugas bei atlygį antstoliui. Vykdymo išlaidos išieškomos iš skolininko.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 2. Išimtis dėl vykdymo išlaidų apmokėjimo gali nustatyti Sprendimų vykdymo instrukcija.
 
@@ -3893,9 +3943,17 @@ Nr. XI-2129, 2012-06-26, Žin., 2012, Nr. 80-4140 (2012-07-10)
 
 1. Vykdymo išlaidos išieškomos toje pačioje vykdomojoje byloje, kurią vykdant jos buvo apskaičiuotos.
 
-2. Vykdymo išlaidos iš skolininko išieškomos antstolio Sprendimų vykdymo instrukcijoje nustatytos formos patvarkymu ir pervedamos į antstolio depozitinę sąskaitą. Patvarkymą dėl vykdymo išlaidų išieškojimo kartu su detaliais vykdymo išlaidų skaičiavimais antstolis išsiunčia skolininkui šio Kodekso 605 straipsnyje nustatyta tvarka. Išieškotos vykdymo išlaidos išmokamos antstoliui ir kitiems asmenims ne anksčiau kaip po dvidešimt dienų nuo patvarkymo dėl vykdymo išlaidų išieškojimo ir vykdymo išlaidų skaičiavimų išsiuntimo skolininkui dienos. Skundo dėl vykdymo išlaidų padavimas sustabdo jų išmokėjimą.
+2. Vykdymo išlaidos iš skolininko išieškomos šiame Kodekse nustatytais antstolio procesiniais dokumentais, kuriais išieškomos pinigų sumos, ir pervedamos į antstolio depozitinę sąskaitą. Vykdymo išlaidų skaičiavimus antstolis išsiunčia skolininkui kartu su procesiniais dokumentais, kuriais išieškomos pinigų sumos. Išieškotos vykdymo išlaidos išmokamos antstoliui ir kitiems asmenims ne anksčiau kaip po dvidešimt dienų nuo šioje dalyje nurodytų procesinių dokumentų ir vykdymo išlaidų skaičiavimų išsiuntimo skolininkui dienos. Skundo dėl vykdymo išlaidų padavimas sustabdo jų išmokėjimą.
 
-3. Patvarkymas dėl vykdymo išlaidų išieškojimo ir vykdymo išlaidų skaičiavimai gali būti skundžiami šio Kodekso 510 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
+
+3. Vykdymo išlaidų skaičiavimai gali būti skundžiami šio Kodekso 510 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 4. Jeigu iš dalies įvykdytas ar visiškai neįvykdytas vykdomasis dokumentas grąžinamas išieškotojui ir vykdymo išlaidos nebuvo išieškotos šio straipsnio 2 dalyje nustatyta tvarka, antstolis Sprendimų vykdymo instrukcijoje nustatytais atvejais ir tvarka vykdomosios bylos neužbaigia ir joje išieško iki vykdomojo dokumento grąžinimo priskaičiuotas vykdymo išlaidas. Jeigu tokioje vykdomojoje byloje išieškotojas nebuvo apmokėjęs vykdymo išlaidų ar jo apmokėtos vykdymo išlaidos buvo išieškotos ir išieškotojui grąžintos, antstolis turi teisę atsisakyti išieškoti likusias vykdymo išlaidas ir vykdomąją bylą užbaigti. Vykdomoji byla, kurioje išieškomos tik vykdymo išlaidos, negali būti vykdoma ilgiau kaip dešimt metų nuo vykdomojo dokumento grąžinimo išieškotojui.
 
@@ -4127,7 +4185,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
 
-2. Grupės atstove gali būti asociacija arba profesinė sąjunga, kai grupės ieškiniu reiškiami reikalavimai  kyla iš teisinių santykių, tiesiogiai susijusių su asociacijos arba profesinės sąjungos veiklos tikslais ir sritimi, ir kai ne mažiau kaip dešimt grupės narių yra asociacijos arba profesinės sąjungos nariai. Šiuo atveju grupės nariais gali būti ne tik asociacijos arba profesinės sąjungos nariai, tačiau nagrinėjant bylą asociacija arba profesinė sąjunga atstovauja visų grupės narių interesams.
+2. Grupės atstove gali būti asociacija arba kitas viešasis juridinis asmuo, profesinė sąjunga, kai grupės ieškiniu reiškiami reikalavimai kyla iš teisinių santykių, tiesiogiai susijusių su asociacijos arba kito viešojo juridinio asmens, profesinės sąjungos veiklos tikslais ir sritimi, ir kai ne mažiau kaip dešimt grupės narių yra asociacijos arba kito viešojo juridinio asmens, profesinės sąjungos nariai. Šiuo atveju grupės nariais gali būti ne tik asociacijos arba kito viešojo juridinio asmens, profesinės sąjungos nariai, tačiau nagrinėjant bylą asociacija arba kitas viešasis juridinis asmuo, profesinė sąjunga atstovauja visų grupės narių interesams. Šioje dalyje nustatytas reikalavimas dėl grupės narių narystės asociacijoje netaikomas, kai grupės atstovė yra įgaliotoji vartotojų asociacija, atitinkanti Lietuvos Respublikos vartotojų teisių apsaugos įstatyme nustatytas sąlygas, ir grupės ieškiniu reiškiami reikalavimai kyla iš vartojimo teisinių santykių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
 
 3. Grupės atstovas yra laikomas ieškovu. Bylos nagrinėjimo metu grupės atstovas grupės narių vardu teikia teismui įrodymus, atsikirtimus, argumentus, reikalavimus ar skundus, naudojasi kitomis šio Kodekso 42 straipsnyje nurodytomis šalių procesinėmis teisėmis.
 
@@ -10635,13 +10697,23 @@ Nr. XIII-2270, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11192
 
 4. Jeigu areštuotas turtas jau perduotas išieškotojui arba realizuotas, ieškinys pareiškiamas taip pat ir tiems asmenims, kuriems turtas perduotas arba kurie tą turtą įgijo. Patenkinus ieškinį dėl jau realizuoto turto grąžinimo, ginčus tarp turto įgijėjo, išieškotojo ir skolininko nagrinėja teismas pagal ginčo teisenos taisykles.
 
-605 straipsnis. Antstolio patvarkymų išsiuntimo tvarka
+605 straipsnis. Antstolio procesinių dokumentų įteikimo būdai
 
-Šiame Kodekse numatytais atvejais antstolio patvarkymai, jeigu yra galimybė, iš karto įteikiami suinteresuotiems asmenims arba jiems išsiunčiami registruotąja pašto siunta ne vėliau kaip kitą darbo dieną nuo jų priėmimo.
+1. Antstolio procesiniai dokumentai vykdymo proceso dalyviams įteikiami pasirašytinai, siunčiami registruotąja pašto siunta arba elektroninių ryšių priemonėmis šio straipsnio 2, 3 ir 4 dalyse nustatyta tvarka.
+
+2. Vykdomosiose bylose dėl mažesnių negu 1 000 eurų pinigų sumų išieškojimo antstolio procesiniai dokumentai vykdymo proceso dalyviams siunčiami elektroninių ryšių priemonėmis, išskyrus šiame Kodekse nustatytus atvejus, kai procesinis dokumentas siunčiamas registruotąja pašto siunta. Procesinių dokumentų siuntimo elektroninių ryšių priemonėmis tvarką nustato teisingumo ministras.
+
+3. Šio straipsnio 2 dalyje nenurodytose vykdomosiose bylose dėl pinigų sumų išieškojimo antstolio procesiniai dokumentai vykdymo proceso dalyviams siunčiami registruotąja pašto siunta. Vykdymo proceso dalyviui įteikus antstolio procesinį dokumentą, vėlesni antstolio procesiniai dokumentai šiam dalyviui įteikiami šio straipsnio 2 dalyje nustatyta tvarka.
+
+4. Gavus rašytinį proceso dalyvio prašymą, procesiniai dokumentai gali būti siunčiami tik elektroninių ryšių priemonėmis.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 608 straipsnis. Praleisto termino vykdomajam dokumentui pateikti vykdyti atnaujinimas
 
@@ -11049,7 +11121,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 654 straipsnis. Pirminiai vykdomieji veiksmai
 
-Antstolis, priėmęs vykdyti vykdomąjį dokumentą, gali iškviesti skolininką ir išieškotoją, išaiškinti jiems jų teises ir pareigas, numatytas šio Kodekso 639, 640, 643, 644 straipsniuose, išklausyti jų pasiūlymus dėl vykdomojo dokumento įvykdymo, įteikti skolininkui raginimą įvykdyti sprendimą, užklausti reikiamus asmenis dėl skolininko turto ir atlikti kitus parengiamuosius veiksmus, reikalingus operatyviam ir efektyviam išieškojimui.
+Antstolis, priėmęs vykdyti vykdomąjį dokumentą, priima patvarkymą priimti vykdomąjį dokumentą vykdyti, o įstatymo nustatytais atvejais – ir raginimą įvykdyti sprendimą. Šiuo patvarkymu antstolis išaiškina skolininkui, kad skola ir vykdymo išlaidos bus išieškotos priverstinai, taip pat informuoja apie vėlesnių procesinių dokumentų įteikimą elektroninių ryšių priemonėmis. Šis patvarkymas siunčiamas skolininkui registruotąja pašto siunta.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 XLVI SKYRIUS
 
@@ -11251,7 +11327,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 682 straipsnis. Ekspertizės skyrimo tvarka vykdymo proceso metu
 
-1. Antstolis ekspertizę turto vertei nustatyti skiria priimdamas patvarkymą. Patvarkyme turi būti nurodyta ekspertas ar ekspertizės įstaiga, kuriai pavedama atlikti ekspertizę. Patvarkymo kopijos išsiunčiamos vykdymo proceso šalims. Vykdymo proceso šalis (šalys) ne vėliau kaip per tris darbo dienas nuo tos dienos, kurią gavo antstolio patvarkymą paskirti ekspertizę, šio Kodekso 598 straipsnyje nustatyta tvarka gali pareikšti ekspertui nušalinimą.
+1. Antstolis ekspertizę turto vertei nustatyti skiria priimdamas patvarkymą. Patvarkyme turi būti nurodyta ekspertas ar ekspertizės įstaiga, kuriai pavedama atlikti ekspertizę. Patvarkymo kopijos registruotąja pašto siunta išsiunčiamos vykdymo proceso šalims. Vykdymo proceso šalis (šalys) ne vėliau kaip per tris darbo dienas nuo tos dienos, kurią gavo antstolio patvarkymą paskirti ekspertizę, šio Kodekso 598 straipsnyje nustatyta tvarka gali pareikšti ekspertui nušalinimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 2. Jeigu išieškotojas ar skolininkas pareiškia motyvuotus prieštaravimus dėl ekspertizės išvados, jų prašymu antstolis patvarkymu gali skirti papildomą ar pakartotinę ekspertizę. Antstolio patvarkymas atsisakyti skirti papildomą ar pakartotinę ekspertizę turi būti motyvuotas ir gali būti skundžiamas teismui.
 
@@ -11463,7 +11543,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 2. Šio straipsnio 1 dalyje nurodyti asmenys nuo antstolio patvarkymo gavimo momento sustabdo skolininko vertybinių popierių realizavimą tiek, kiek tai būtina antstolio reikalavimui įvykdyti, ir apie tai nedelsdami praneša antstoliui. Jeigu per penkias darbo dienas nuo pranešimo apie skolininko turimus vertybinius popierius išsiuntimo antstoliui dienos šio straipsnio 1 dalyje nurodyti asmenys negauna šio straipsnio 3 dalyje nurodyto patvarkymo areštuoti vertybinius popierius, visi vertybinių popierių realizavimo apribojimai panaikinami.
 
-3. Antstolis, gavęs šio straipsnio 1 dalyje nurodytų asmenų pranešimą apie tai, kad reikalavimas sustabdyti skolininko vertybinių popierių realizavimą yra įvykdytas, per tris darbo dienas šiems asmenims ir skolininkui išsiunčia patvarkymą areštuoti skolininko turtą. Šis patvarkymas prilyginamas turto arešto aktui. Patvarkyme areštuoti skolininko turtą nurodoma:
+3. Antstolis, gavęs šio straipsnio 1 dalyje nurodytų asmenų pranešimą apie tai, kad reikalavimas sustabdyti skolininko vertybinių popierių realizavimą yra įvykdytas, per tris darbo dienas šiems asmenims ir skolininkui šio Kodekso 605 straipsnyje nustatyta tvarka išsiunčia patvarkymą areštuoti skolininko turtą. Šis patvarkymas prilyginamas turto arešto aktui. Patvarkyme areštuoti skolininko turtą nurodoma:
 
 1) asmens, kuriam adresuojamas patvarkymas, pavadinimas;
 
@@ -11472,6 +11552,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 3) areštuotų vertybinių popierių pavadinimas ir skaičius;
 
 4) antstolio veiksmų apskundimo tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 4. Patvarkyme nurodytas asmuo saugo areštuotus vertybinius popierius iki antstolio atskiro patvarkymo.
 
@@ -11575,7 +11659,13 @@ SKOLININKO TURTO ADMINISTRAVIMAS
 
 4. Trečiąja eile patenkinami visi kiti reikalavimai.
 
-5. Jeigu išieškotos sumos neužtenka visiems vienos eilės reikalavimams visiškai patenkinti, jie patenkinami proporcingai kiekvienam išieškotojui priklausančiai sumai.
+5. Jeigu išieškotos sumos neužtenka visiems vienos eilės reikalavimams visiškai patenkinti, jie patenkinami proporcingai kiekvienam išieškotojui priklausančiai sumai. Jeigu to paties išieškotojo naudai vykdomos kelios vykdomosios bylos, išieškotos sumos skiriamos reikalavimams anksčiausiai pradėtoje vykdomojoje byloje patenkinti.
+
+TAR pastaba. 5 dalis taikoma išieškotas lėšas išieškotojams skirstant po įstatymo Nr. XIII-2721 įsigaliojimo (2020-07-01).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 Straipsnio pakeitimai:
 
@@ -11639,7 +11729,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 3. Šio straipsnio 2 dalyje nurodytais atvejais antstolis aprašo ir įkainoja iškeldinamo asmens patalpoje esantį turtą laikydamasis šio Kodekso 677 ir 681 straipsnių nuostatų.
 
-4. Aprašytas turtas kartu su turto aprašo kopija perduodamas saugoti asmeniui, paskirtam turto saugotoju. Turto aprašo kopija išsiunčiama ar kitaip perduodama skolininkui.
+4. Aprašytas turtas kartu su turto aprašo kopija perduodamas saugoti asmeniui, paskirtam turto saugotoju. Turto aprašo kopija įteikiama skolininkui šio Kodekso 605 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 5. Turtą gali saugoti ir pats antstolis.
 
@@ -11657,7 +11751,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Pagal teismo sprendimą iš gyvenamųjų patalpų turi būti iškeldinami tik vykdomajame rašte nurodyti asmenys su jiems priklausančiu turtu.
 
-2. Apie iškeldinimo laiką ne vėliau kaip prieš penkias darbo dienas raštu pranešama skolininkui.
+2. Apie iškeldinimo laiką ne vėliau kaip prieš penkias darbo dienas registruotąja pašto siunta pranešama skolininkui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 3. Jeigu nesuteikiant kitos gyvenamosios patalpos iškeldinami nepilnamečiai vaikai, apie iškeldinimo laiką ir vietą antstolis, siųsdamas raginimą, bet ne vėliau kaip prieš trisdešimt dienų iki iškeldinimo dienos raštu praneša valstybinei vaiko teisių apsaugos institucijai.
 
@@ -11687,7 +11785,11 @@ Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 
 1. Jeigu skolininkas išvyksta gyventi iš Lietuvos Respublikos arba jei nežinoma skolininko gyvenamoji vieta, vykdomoji byla užbaigiama, o vykdomasis raštas grąžinamas Lietuvos apeliaciniam teismui ir saugomas byloje dėl užsienio teismo ar arbitražo sprendimo pripažinimo.
 
-2. Grąžindamas vykdomąjį raštą Lietuvos apeliaciniam teismui, antstolis apie tai praneša išieškotojui. Išieškotojui antstolis taip pat praneša apie Lietuvos Respublikoje pagal tą vykdomąjį raštą atliktus išieškojimus. Išieškotojas turi teisę kreiptis į Lietuvos apeliacinį teismą dėl vykdomojo rašto pakartotinio pateikimo vykdyti.
+2. Grąžindamas vykdomąjį raštą Lietuvos apeliaciniam teismui, antstolis apie tai praneša išieškotojui šio Kodekso 605 straipsnyje nustatyta tvarka. Išieškotojas turi teisę kreiptis į Lietuvos apeliacinį teismą dėl vykdomojo rašto pakartotinio pateikimo vykdyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 780 straipsnis. Normų taikymas
 
