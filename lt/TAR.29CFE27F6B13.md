@@ -4,7 +4,7 @@ identifier: "TAR.29CFE27F6B13"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "2018-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
 
@@ -64,10 +64,6 @@ Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
 
 Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
 
-II SKYRIUS
-
-STATUTO GALIOJIMAS
-
 3 straipsnis. Statuto galiojimo laikas
 
 1. Karys, padaręs drausmės pažeidimą, atsako pagal statutą, galiojusį pažeidimo metu. Drausmės pažeidimo padarymo laikas yra veikimo ar neveikimo laikas arba pasekmių atsiradimo laikas, jeigu karys norėjo, kad pasekmės atsirastų kitu laiku.
@@ -104,11 +100,15 @@ Drausmės pažeidimas laikomas padarytu dėl neatsargumo, jeigu jį padaręs kar
 
 8 straipsnis. Drausminės atsakomybės subjektai
 
-1. Drausminėn atsakomybėn traukiami profesinės karo tarnybos kariai, kariai savanoriai ir kiti aktyviojo rezervo kariai, privalomosios karo tarnybos kariai (privalomosios pradinės karo tarnybos ir parengtojo rezervo kariai), taip pat kariūnai.
+1. Drausminėn atsakomybėn traukiami profesinės karo tarnybos kariai, kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, privalomosios karo tarnybos kariai (privalomosios pradinės karo tarnybos ir aktyviojo kariuomenės personalo rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių), taip pat kariūnai.
 
-2. Kariai savanoriai ir kiti aktyviojo rezervo kariai pagal vado (viršininko) įsakymą atvykę į tarnybos vietą, tiesiogiai vykdydami jiems pavestą užduotį, dalyvaudami karinėse operacijose, pratybose ir mokymuose, drausminėn atsakomybėn traukiami ta pačia tvarka kaip ir profesinės karo tarnybos kariai, atsižvelgiant į turimą kario laipsnį. Kitais atvejais kariai savanoriai ir kiti aktyviojo rezervo kariai drausminėn atsakomybėn traukiami ta pačia tvarka kaip ir atsargos kariai.
+2. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, pagal vado (viršininko) įsakymą atvykę į tarnybos vietą, tiesiogiai vykdydami jiems pavestą užduotį, dalyvaudami karinėse operacijose, pratybose ir mokymuose, drausminėn atsakomybėn traukiami tokia pačia tvarka kaip ir profesinės karo tarnybos kariai, atsižvelgiant į turimą kario laipsnį. Kitais atvejais kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai drausminėn atsakomybėn traukiami tokia pačia tvarka kaip ir atsargos kariai.
 
-3. Atsargos arba dimisijos kariai drausminėn atsakomybėn traukiami tik tais atvejais, kai drausmės pažeidimus padaro dėvėdami kario uniformą arba kai pažeidžia Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme (toliau – Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas) jiems nustatytus apribojimus.
+3. Atsargos arba dimisijos kariai drausminėn atsakomybėn traukiami tik tais atvejais, kai drausmės pažeidimus padaro dėvėdami kario uniformą arba kai pažeidžia Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme jiems nustatytus apribojimus.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
 
 9 straipsnis. Būtinoji gintis
 
@@ -292,49 +292,17 @@ Tarnybinis patikrinimas neatliekamas:
 
 6. Krašto apsaugos ministras krašto apsaugos generaliniam inspektoriui gali pavesti atlikti tarnybinį patikrinimą dėl kiekvieno laipsnio kario padaryto drausmės pažeidimo ar skundžiamos veikos. Vykdydamas krašto apsaugos ministro pavedimą, krašto apsaugos generalinis inspektorius gali pavesti jam pavaldžiam karininkui atlikti tyrimo veiksmus.
 
-21 straipsnis. Karininko, atliekančio tarnybinį patikrinimą, teisės ir pareigos
+21 straipsnis. Asmens duomenų tvarkymas
 
-1. Karininkas, atliekantis tarnybinį patikrinimą, turi teisę:
+Renkamų asmens duomenų, nurodytų šiame statute, tvarkymo tikslai – drausmės pažeidimų ir skundų nagrinėjimas, drausminės nuobaudos skyrimas.
 
-1) nuvykti į tiriamo įvykio vietą ir ją apžiūrėti. Įvykio vietos apžiūros metu jis gali sudaryti schemas, fotografuoti, filmuoti;
+Papildyta straipsniu:
 
-2) apklausti tiriamo įvykio dalyvius ir liudytojus;
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
 
-3) gauti duomenis ir dokumentus (jų nuorašus, išrašus), rašytinius paaiškinimus ir pasitelkti specialistus, reikalingus tarnybiniam patikrinimui atlikti;
+II SKYRIUS
 
-4) apklausti karinių vienetų vadus (viršininkus) dėl atskirų tiriamo įvykio aplinkybių.
-
-2. Karininkas, atliekantis tarnybinį patikrinimą, privalo:
-
-1) visapusiškai, išsamiai ir objektyviai ištirti tiriamo įvykio aplinkybes;
-
-2) tiriamo įvykio dalyviams išaiškinti jų teises ir pareigas;
-
-3) tiriamo įvykio dalyviui atsisakius pateikti paaiškinimus, surašyti šį faktą patvirtinančią pažymą, kurią pasirašytinai patvirtina jis ir ne mažiau kaip du asmenys;
-
-4) nedelsdamas informuoti tarnybinį patikrinimą paskyrusį vadą (viršininką) apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos ar administracinio nusižengimo požymių;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
-
-Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
-
-5) saugoti valstybės ir tarnybos paslaptis, taip pat konfidencialias apie asmenis žinias, kurias sužinojo tarnybinio patikrinimo metu.
-
-3. Karininkui draudžiama atlikti tarnybinį patikrinimą, jeigu:
-
-1) jis yra tiriamo įvykio dalyvis;
-
-2) jis yra tiriamo įvykio dalyvio sutuoktinis (sugyventinis) arba juos sieja giminystės ar svainystės ryšys;
-
-3) jis yra pavaldus tiriamo įvykio dalyviui;
-
-4) yra kitų aplinkybių, dėl kurių tikrintojas gali būti neobjektyvus.
-
-4. Jeigu yra šio straipsnio 3 dalyje išdėstytų aplinkybių, karininkas, paskirtas atlikti tarnybinį patikrinimą, nedelsdamas apie tai praneša tarnybinį patikrinimą paskyrusiam vadui (viršininkui), o šis priima sprendimą dėl tikrintojo nušalinimo.
-
-5. Karininkas, atlikęs tarnybinį patikrinimą ir pažeidęs drausmės pažeidimų ir skundų tyrimo tvarką, atsako pagal šį statutą.
+STATUTO GALIOJIMAS
 
 22 straipsnis. Tiriamo įvykio dalyviai, jų teisės
 
@@ -362,7 +330,11 @@ Tarnybinio patikrinimo metu nustatomos šios aplinkybės:
 
 4) kalti dėl drausmės ir (ar) karių teisių pažeidimo padarymo asmenys, įrodymai, kaltės forma, veikos tikslai ir motyvai;
 
-5) duomenys, apibūdinantys pažeidėją;
+5) duomenys, apibūdinantys pažeidėją, reikalingi atliekant tarnybinį patikrinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
 
 6) pažeidėjo atsakomybę lengvinančios ir sunkinančios aplinkybės;
 
@@ -576,7 +548,11 @@ Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
 
 1. Atleidimas iš tarnybos yra drausminė nuobauda, skiriama kariui už šiurkštų drausmės pažeidimą.
 
-2. Atleidžiant iš tarnybos, nutraukiama profesinės karo tarnybos, kario savanorio ar kito aktyviojo rezervo kario sutartis.
+2. Atleidžiant iš tarnybos, nutraukiama profesinės karo tarnybos, kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
 
 39 straipsnis. Pašalinimas iš karo mokymo įstaigos
 
@@ -858,11 +834,19 @@ Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių
 
 3) vadas (viršininkas) ar krašto apsaugos generalinis inspektorius, kuriems paduodamas skundas;
 
-4) duomenys apie asmenį, kurio veika skundžiama;
+4) duomenys apie asmenį (vardas, pavardė, karinis laipsnis, žinomi ryšių duomenys – telefono ryšio numeris ir (ar) adresas), kurio veika skundžiama;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
 
 5) konkreti skundžiama veika ar aktas, jos įvykdymo (akto priėmimo) data, nurodant, kokios kario teisės buvo pažeistos;
 
-6) aplinkybės, kuriomis grindžiamas skundas, ir tai patvirtinantys turimi įrodymai, liudytojų duomenys, kitų įrodymų buvimo vieta;
+6) aplinkybės, kuriomis grindžiamas skundas, ir tai patvirtinantys turimi įrodymai, liudytojų duomenys (vardas, pavardė, žinomi ryšių duomenys – telefono ryšio numeris ir (ar) adresas), kitų įrodymų buvimo vieta;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
 
 7) kario reikalavimas;
 
@@ -1265,6 +1249,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-543, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11940
 
 Lietuvos Respublikos kariuomenės drausmės statuto 54 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
+
+Lietuvos Respublikos kariuomenės drausmės statuto 8, 21, 23, 38, 58 straipsnių pakeitimo ir Statuto papildymo 2-1 straipsniu įstatymas
 
 101 straipsnis. Rūkymas ne tam skirtose vietose
 
