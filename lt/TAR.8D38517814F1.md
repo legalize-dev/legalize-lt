@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2020-02-18"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2020-02-18 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -357,11 +357,13 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 4 straipsnis. Atliekų tvarkymo organizavimas
 
-1. Atliekų turėtojas šio Įstatymo ir kitų teisės aktų nustatyta tvarka turi atliekas perduoti atliekų tvarkytojams arba gali tvarkyti atliekas pats. Atliekos tvarkomos aplinkos ministro patvirtintose Atliekų tvarkymo taisyklėse nustatyta tvarka. Komunalinės atliekos tvarkomos savivaldybių atliekų tvarkymo taisyklėse nustatyta tvarka. Atliekų turėtojas pagal sudarytą rašytinės formos sutartį dėl atliekų naudojimo ir (ar) šalinimo atliekas perduoda atliekų tvarkytojams, turintiems teisę tvarkyti atliekas, išskyrus komunalinių atliekų perdavimą vadovaujantis šio Įstatymo 301 straipsniu.
+1. Atliekų turėtojas šio Įstatymo ir kitų teisės aktų nustatyta tvarka turi atliekas perduoti atliekų tvarkytojams arba gali tvarkyti atliekas pats. Atliekos tvarkomos aplinkos ministro patvirtintose Atliekų tvarkymo taisyklėse nustatyta tvarka. Komunalinės atliekos tvarkomos savivaldybių atliekų tvarkymo taisyklėse nustatyta tvarka. Atliekų turėtojas pagal sudarytą rašytinės formos sutartį dėl atliekų naudojimo ir (ar) šalinimo atliekas perduoda atliekų tvarkytojams, turintiems teisę tvarkyti atliekas, išskyrus komunalinių atliekų perdavimą vadovaujantis šio Įstatymo 301 straipsniu. Atliekų turėtojas, kuris perdavė atliekas atliekų tvarkytojui (tvarkytojams), privalo turėti galutinį atliekų sutvarkymą patvirtinantį dokumentą, išskyrus komunalinių atliekų perdavimą vadovaujantis šio Įstatymo 301 straipsniu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 2. Atliekų turėtojai privalo rūšiuoti atliekas jų susidarymo vietoje. Išrūšiavus atliekas jų susidarymo vietoje, atliekas surenkančios įmonės privalo atlikti rūšiuojamąjį atliekų surinkimą.
 
