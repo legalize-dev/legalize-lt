@@ -4,7 +4,7 @@ identifier: "TAR.E0EA485657C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2019-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
 
@@ -168,11 +168,13 @@ Siekdama šio įstatymo 7 straipsnyje nustatytų tikslų, LŠS įgyvendina šiuo
 
 1) rengia šaulius ginkluotai valstybės gynybai ir pilietiniam pasipriešinimui, o ginkluotos gynybos nuo agresijos (karo) metu dalyvauja ginkluotoje valstybės gynyboje ir pilietiniame pasipriešinime;
 
-2) prisideda prie savanoriško Lietuvos Respublikos piliečių karinio rengimo ir padeda kariuomenei atrinkti Lietuvos Respublikos piliečius į profesinę karo tarnybą ir savanorių karo tarnybą ar kitą tarnybą aktyviajame rezerve;
+2) prisideda prie savanoriško Lietuvos Respublikos piliečių karinio rengimo ir padeda kariuomenei atrinkti Lietuvos Respublikos piliečius į profesinę karo tarnybą ir savanorišką nenuolatinę karo tarnybą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
+
+Nr. XIII-2676, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21317
 
 3) stiprina visuomenės ryšius su krašto apsaugos sistemos institucijomis, prisideda prie kariuomenės autoriteto ir karo tarnybos prestižo didinimo;
 
@@ -736,6 +738,18 @@ Papildyta straipsnio punktu:
 
 Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
 
+6. LŠS turi teisę gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, registrų, informacinių sistemų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar asmuo atitinka šio straipsnio 3 dalyje nustatytus reikalavimus, taip pat ar nėra šio straipsnio 5 dalyje nurodytų aplinkybių, o šioje dalyje nurodyti duomenų teikėjai LŠS prašymu privalo tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2676, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21317
+
+7. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2676, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21317
+
 31 straipsnis. Šaulio priesaika ir jaunojo šaulio iškilmingas pasižadėjimas
 
 1. Kiekvienas pilnametis Lietuvos Respublikos pilietis, stodamas į LŠS, duoda šaulio priesaiką. Šaulio priesaiką taip pat duoda sulaukę pilnametystės LŠS nariai.
@@ -1147,6 +1161,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1809, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21822
 
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 34 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2676, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21317
+
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 8 ir 30 straipsnių pakeitimo įstatymas
 
 361 straipsnis. Šaulių teisė susipažinti su įslaptinta informacija ir ją naudoti
 
