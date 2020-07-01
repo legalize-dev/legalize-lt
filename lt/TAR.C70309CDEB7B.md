@@ -4,7 +4,7 @@ identifier: "TAR.C70309CDEB7B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-08"
-last_updated: "2016-09-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2016-09-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
 
@@ -39,13 +39,15 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Ginkluotosios pajėgos – Lietuvos kariuomenė ir karo padėties metu priskirtos kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos (toliau – Vadovybės apsaugos departamentas), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), koviniai Lietuvos šaulių sąjungos būriai, taip pat kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadui.
+1. Ginkluotosios pajėgos – Lietuvos kariuomenė ir karo padėties metu priskirtos kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), Lietuvos Respublikos vadovybės apsaugos tarnyba (toliau – Vadovybės apsaugos tarnyba), koviniai Lietuvos šaulių sąjungos būriai, taip pat kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-2003, 2000-10-10, Žin., 2000, Nr. 92-2855 (2000-10-31), i. k. 1001010ISTAIII-2003
 
 Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
+
+Nr. XIII-2909, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10906
 
 2. Ginkluotųjų pajėgų vadas – Lietuvos kariuomenės vadas, kurį, įvedus karo padėtį, Respublikos Prezidentas dekretu paskiria visų valstybės ginkluotųjų pajėgų vadu, pavaldžiu gynybos veiksmų civilinei vadovybei.
 
@@ -293,7 +295,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-1414, 2011-05-26, Žin., 2011, Nr. 72-3465 (2011-06-14), i. k. 1111010ISTA0XI-1414
 
-2. Valstybės sienos apsaugos tarnyba, Vadovybės apsaugos departamentas, Viešojo saugumo tarnyba karo padėties metu ginkluotųjų pajėgų vado įsakymu priskiriami ginkluotosioms pajėgoms.
+2. Valstybės sienos apsaugos tarnyba, Vadovybės apsaugos tarnyba, Viešojo saugumo tarnyba karo padėties metu ginkluotųjų pajėgų vado įsakymu priskiriamos ginkluotosioms pajėgoms.
 
 Straipsnio dalies pakeitimai:
 
@@ -301,11 +303,17 @@ Nr. VIII-2003, 2000-10-10, Žin., 2000, Nr. 92-2855 (2000-10-31), i. k. 1001010I
 
 Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
 
-3. Priskyrus šio straipsnio 2 dalyje nurodytas institucijas ginkluotosioms pajėgoms, Valstybės sienos apsaugos tarnybos, Vadovybės apsaugos departamento ir Viešojo saugumo tarnybos veiklos tęstinumas užtikrinamas tiek, kiek to reikia karo padėties metu gyvybiškai svarbioms valstybės funkcijoms atlikti. Vadovybės apsaugos departamento pareigūnai, tiesiogiai užtikrinantys vadovybės apsaugą, ir toliau vykdo jiems pavestas vadovybės apsaugos užtikrinimo funkcijas ir yra tiesiogiai pavaldūs saugomam asmeniui.
+Nr. XIII-2909, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10906
+
+3. Priskyrus šio straipsnio 2 dalyje nurodytas institucijas ginkluotosioms pajėgoms, Valstybės sienos apsaugos tarnybos, Vadovybės apsaugos tarnybos ir Viešojo saugumo tarnybos veiklos tęstinumas užtikrinamas tiek, kiek to reikia karo padėties metu gyvybiškai svarbioms valstybės funkcijoms atlikti. Vadovybės apsaugos tarnybos pareigūnai, tiesiogiai užtikrinantys vadovybės apsaugą, ir toliau atlieka jiems pavestas vadovybės apsaugos užtikrinimo funkcijas ir yra tiesiogiai pavaldūs saugomam asmeniui.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2909, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10906
 
 4. Policija ginkluotosioms pajėgoms nepriskiriama ir toliau atlieka jai pavestus uždavinius, tačiau yra pavaldi karo komendantams.
 
@@ -600,4 +608,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2441, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17528
 
 Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 11 ir 14 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2909, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10906
+
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas
 
