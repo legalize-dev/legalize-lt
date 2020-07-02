@@ -4,7 +4,7 @@ identifier: "TAR.336A4B109EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2020-07-01"
+last_updated: "2020-07-02"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-01
+Suvestinė redakcija nuo 2020-07-02 iki 2021-01-19
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
 
@@ -910,7 +910,7 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 
-12. Kandidato į savivaldybės tarybos narius, kandidato į savivaldybės tarybos narius – merus anketoje asmuo, keliamas kandidatu į savivaldybės tarybos narius, keliamas ar išsikėlęs kandidatu į savivaldybės tarybos narius – merus, pats turi įrašyti šiuos duomenis: vardą, pavardę, paso ar kito asmens tapatybę arba teisę nuolat gyventi Lietuvos Respublikoje patvirtinančio dokumento numerį, asmens kodą, gimimo datą, nuolatinės gyvenamosios vietos adresą, darbovietę, einamas pareigas (tarnybą), narystę politinėje partijoje ir asociacijose, ar neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės, ar jis nėra asmuo, atliekantis privalomąją karo arba alternatyviąją krašto apsaugos tarnybą, neišėjęs į atsargą ar pensiją profesinės karo tarnybos karys, statutinės institucijos ar įstaigos pareigūnas, kuriam pagal specialius įstatymus ar statutus apribota teisė dalyvauti politinėje veikloje, ar eina pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, taip pat ar yra kitos valstybės renkamos valdžios institucijos narys, ir pasirašyti. Jeigu kandidatas į savivaldybės tarybos narius, kandidatas į savivaldybės tarybos narius – merus yra kitos valstybės pilietis, jis taip pat turi nurodyti, ar jo pasyvioji rinkimų teisė nėra teismo apribota valstybėje, kurios pilietis jis yra. Kandidato į savivaldybės tarybos narius, kandidato į savivaldybės tarybos narius – merus anketoje taip pat gali būti pateikiama ir kitų Vyriausiosios rinkimų komisijos nustatytų papildomų klausimų, į kuriuos asmuo gali ir neatsakyti.
+12. Kandidato į savivaldybės tarybos narius, kandidato į savivaldybės tarybos narius – merus anketoje asmuo, keliamas kandidatu į savivaldybės tarybos narius, keliamas ar išsikėlęs kandidatu į savivaldybės tarybos narius – merus, pats turi įrašyti šiuos duomenis: vardą, pavardę, paso ar kito asmens tapatybę arba teisę nuolat gyventi Lietuvos Respublikoje patvirtinančio dokumento numerį, asmens kodą, gimimo datą, nuolatinės gyvenamosios vietos adresą, darbovietę, einamas pareigas (tarnybą), narystę politinėje partijoje ir asociacijose, ar neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės, ar jis nėra asmuo, atliekantis privalomąją pradinę karo arba alternatyviąją krašto apsaugos tarnybą, neišėjęs į atsargą ar pensiją profesinės karo tarnybos karys, statutinės institucijos ar įstaigos pareigūnas, kuriam pagal specialius įstatymus ar statutus apribota teisė dalyvauti politinėje veikloje, ar eina pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, taip pat ar yra kitos valstybės renkamos valdžios institucijos narys, ar jis yra savanoriškos nenuolatinės karo tarnybos karys, ir pasirašyti. Jeigu kandidatas į savivaldybės tarybos narius, kandidatas į savivaldybės tarybos narius – merus yra kitos valstybės pilietis, jis taip pat turi nurodyti, ar jo pasyvioji rinkimų teisė nėra teismo apribota valstybėje, kurios pilietis jis yra. Kandidato į savivaldybės tarybos narius, kandidato į savivaldybės tarybos narius – merus anketoje taip pat gali būti pateikiama ir kitų Vyriausiosios rinkimų komisijos nustatytų papildomų klausimų, į kuriuos asmuo gali ir neatsakyti.
 
 Straipsnio dalies pakeitimai:
 
