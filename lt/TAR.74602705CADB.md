@@ -4,7 +4,7 @@ identifier: "TAR.74602705CADB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-25"
-last_updated: "2020-01-01"
+last_updated: "2020-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-07-03
+Suvestinė redakcija nuo 2020-07-04 iki 2022-06-28
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
 
@@ -40,7 +40,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
 
-2.  Šio įstatymo nuostatos yra suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+2. Šio įstatymo nuostatos yra suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede, ir su 1974 m. lapkričio 18 d. Susitarimo dėl tarptautinės energetikos programos nuostatomis.
+
+TAR pastaba. 2 dalis taikoma nuo 1974 m. lapkričio 18 d. Susitarimo dėl tarptautinės energetikos programos įsigaliojimo Lietuvos Respublikai dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
 
 2   straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -64,11 +70,15 @@ Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
 
 6. Naftos produktus ir (ar) naftą įvežanti įmonė – Lietuvos Respublikoje registruota įmonė ar užsienio įmonės filialas, kurie įveža iš kitos valstybės narės naftos produktus ir (ar) naftą, skirtus vartoti šalies viduje.
 
-7. Naftos produktų ir naftos atsargos (toliau – atsargos) – energetikos produktų, nurodytų 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1099/2008 dėl energetikos statistikos (OL 2008 L 304, p. 1) (toliau – Reglamentas (EB) Nr. 1099/2008) A priedo 3.4 skyriuje, atsargos, įskaitant specialiąsias naftos produktų atsargas.
+7. Naftos produktų ir naftos atsargos (toliau – atsargos) – energetikos produktų, nurodytų 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1099/2008 dėl energetikos statistikos, atsargos, įskaitant specialiąsias naftos produktų atsargas.
+
+TAR pastaba. 7 dalis taikoma nuo 1974 m. lapkričio 18 d. Susitarimo dėl tarptautinės energetikos programos įsigaliojimo Lietuvos Respublikai dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
+
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
 
 8. Naftos produktų ir naftos atsargų kaupimas (toliau – atsargų kaupimas) – naftos produktų ir naftos atsargų ir (ar) reikalavimo teisių į naftos produktus ir naftos atsargas įgijimas, vykdant šiame įstatyme nustatytus įpareigojimus.
 
@@ -350,7 +360,13 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 
 5. Esant ekstremaliajai energetikos padėčiai, naftos produktų tiekimo ir vartojimo apribojimai turi būti mažiausiai taikomi įmonėms, kurios iš naftos produktų gamina elektros energiją ir (ar) šilumos energiją, strateginę reikšmę nacionaliniam saugumui turintiems objektams, valstybės institucijoms, nurodytoms Vyriausybei ar jos įgaliotai institucijai pasitarus su Ekstremalių situacijų komisija, taip pat įmonėms, kurios gamina, išgauna, importuoja, krauna arba transportuoja naftos produktus ar naftą vidaus vartojimui. Vadovaujantis šio įstatymo 18 straipsnyje nurodytu Naftos produktų tiekimo ir vartojimo apribojimų taikymo planu ir užtikrinant dienos vidaus suvartojimo poreikio tenkinimą, šio įstatymo 10 straipsnio 4 dalyje nustatyta tvarka į Lietuvos Respubliką privalo būti įvežtos kitose valstybėse narėse pagal šį įstatymą laikomos atsargos.
 
-6. Jeigu sukauptas atsargų kiekis yra mažesnis už pagal šį įstatymą privalomus sukaupti atsargų kiekius, atsargos naudojamos tokiais kiekiais, kokie yra nedelsiant būtini pradiniam reagavimui į ekstremaliąją energetikos padėtį, apie tai nedelsiant informuojant Europos Komisiją.
+6. Jeigu sukauptas atsargų kiekis yra mažesnis už pagal šį įstatymą privalomus sukaupti atsargų kiekius, atsargos naudojamos tokiais kiekiais, kokie yra nedelsiant būtini pradiniam reagavimui į ekstremaliąją energetikos padėtį, apie tai nedelsiant informuojant Europos Komisiją ir Tarptautinę energetikos agentūrą.
+
+TAR pastaba. 6 dalis taikoma nuo 1974 m. lapkričio 18 d. Susitarimo dėl tarptautinės energetikos programos įsigaliojimo Lietuvos Respublikai dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
 
 7. Leidžiamos panaudoti atsargos paskirstomos įmonėms, turinčioms naftos produktų tiekimo (pardavimo, paskirstymo) vartotojams tinklą, proporcingai šių įmonių iki ekstremaliosios energetikos padėties paskelbimo užimtai rinkos daliai.
 
@@ -362,15 +378,15 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 
 Panaudojus atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais, energetikos įmonės turi teikti Energetikos ministerijai šią informaciją:
 
-1)    kitą dieną po sprendimo panaudoti atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais priėmimo – pranešti apie turimas atsargas, nurodyti jų laikymo vietas;
+1) kitą dieną po sprendimo panaudoti atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais priėmimo pranešti apie turimas atsargas ir nurodyti jų laikymo vietas;
 
-2)    paskelbus šio įstatymo 18 straipsnyje nurodytą pirmąjį ar antrąjį naftos produktų tiekimo sutrikimo lygį – nuo artimiausio pirmadienio kas dvi savaites teikti naftos produktų ir naftos išteklių, jų sunaudojimo ir atsargų ataskaitas;
-
-3)    paskelbus šio įstatymo 18 straipsnyje nurodytą trečiąjį ar ketvirtąjį naftos produktų tiekimo sutrikimo lygį – nuo artimiausio pirmadienio kas savaitę teikti naftos produktų ir naftos išteklių, jų sunaudojimo ir atsargų ataskaitas.
+2) nuo artimiausio pirmadienio po sprendimo panaudoti atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais priėmimo kas savaitę pranešti apie turimas atsargas, naftos produktų ir naftos tiekimą ir sunaudojimą, iki bus sukauptas patvirtintas atsargų kiekis.
 
 21 straipsnis. Atsargų informacinė sistema ir ataskaitos
 
-1. Agentūra valdo ir tvarko nuolat atnaujinamą ir išsamią atsargų informacinę sistemą, kurioje nurodomi tikslūs konkrečių atsargų kiekiai, pobūdis, savininkai ir sandėliai, perdirbimo įmonės ir saugyklos, kuriuose šios atsargos yra laikomos pagal Reglamento (EB) Nr. 1099/2008 A priedo 3.4 skyriuje nustatytas kategorijas, informacija apie atsargų kaupimo ir tvarkymo sąnaudas, taip pat kiti Taisyklėse nurodyti duomenys ir informacija.
+1. Agentūra valdo ir tvarko nuolat atnaujinamą ir išsamią atsargų informacinę sistemą, kurioje nurodomi tikslūs konkrečių atsargų kiekiai, pobūdis, savininkai ir sandėliai, perdirbimo įmonės ir saugyklos, kuriuose šios atsargos yra laikomos pagal Reglamente (EB) Nr. 1099/2008 nustatytas kategorijas, informacija apie atsargų kaupimo ir tvarkymo sąnaudas, taip pat kiti Taisyklėse nurodyti duomenys ir informacija.
+
+TAR pastaba. 1 dalis taikoma nuo 1974 m. lapkričio 18 d. Susitarimo dėl tarptautinės energetikos programos įsigaliojimo Lietuvos Respublikai dienos.
 
 Straipsnio dalies pakeitimai:
 
@@ -378,7 +394,15 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 
 Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
 
-2. Už atsargų ataskaitų rengimą ir teikimą Europos Sąjungos institucijoms atsakingi Lietuvos statistikos departamentas ir Agentūra. Atsargų ataskaitų rengimo ir teikimo tvarka ir terminai nustatomi Taisyklėse.
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
+
+2. Už atsargų ataskaitų rengimą ir teikimą Europos Sąjungos institucijoms ir Tarptautinei energetikos agentūrai atsakingi Lietuvos statistikos departamentas ir Agentūra. Atsargų ataskaitų rengimo ir teikimo tvarka ir terminai nustatomi Taisyklėse.
+
+TAR pastaba. 2 dalis taikoma nuo 1974 m. lapkričio 18 d. Susitarimo dėl tarptautinės energetikos programos įsigaliojimo Lietuvos Respublikai dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
 
 3. Su atsargų kaupimu susiję duomenys, įrašai, ataskaitos ir dokumentai privalo būti saugomi penkerius metus.
 
@@ -418,21 +442,21 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 Lietuvos Respublikos
 
-naftos produktų ir naftos
+naftos produktų
 
-valstybės atsargų įstatymo
+ir naftos valstybės atsargų įstatymo
 
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. rugsėjo 14 d. Tarybos direktyva 2009/119/EB, kuria valstybės narės įpareigojamos išlaikyti privalomąsias žalios naftos ir (arba) naftos produktų atsargas (OL 2009 L 265, p. 9).
+1. 2009 m. rugsėjo 14 d. Tarybos direktyva 2009/119/EB, kuria valstybės narės įpareigojamos išlaikyti privalomąsias žalios naftos ir (arba) naftos produktų atsargas.
 
-2. 2018 m. spalio 19 d. Komisijos įgyvendinimo direktyva (ES) 2018/1581, kuria iš dalies keičiamos Tarybos direktyvos 2009/119/EB nuostatos dėl atsargų saugojimo įpareigojimų apskaičiavimo metodų (OL 2018 L 263, p. 57).
+2. 2018 m. spalio 19 d. Komisijos įgyvendinimo direktyva (ES) 2018/1581, kuria iš dalies keičiamos Tarybos direktyvos 2009/119/EB nuostatos dėl atsargų saugojimo įpareigojimų apskaičiavimo metodų.
 
-Papildyta punktu:
+Priedo pakeitimai:
 
-Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
 
 Pakeitimai:
 
@@ -560,23 +584,51 @@ Nr. XIII-2287, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12176
 
 Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 11 straipsnio pakeitimo įstatymas
 
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
+
+Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 1, 2, 15, 17, 18, 20, 21 straipsnių ir priedo pakeitimo įstatymas
+
 15 straipsnis. Atsargų panaudojimas ir nurašymas
 
-1. Atsargos, kurias privaloma kaupti pagal šį įstatymą, gali būti naudojamos ekstremaliosios energetikos padėties laikotarpiu arba Lietuvos Respublikos valstybės rezervo įstatyme nustatytais atvejais ir tvarka. Specialiųjų atsargų kiekis Taisyklėse nustatyta tvarka gali būti laikinai sumažintas atliekant šio įstatymo 16 straipsnyje numatytas atsargų keitimo procedūras. Panaudojus atsargas šioje dalyje nustatytais atvejais, reikiamas atsargų kiekis atkuriamas per Europos Komisijos nustatytą laikotarpį.
+1. Atsargos, kurias privaloma kaupti pagal šį įstatymą, gali būti naudojamos ekstremaliosios energetikos padėties laikotarpiu, Lietuvos Respublikos valstybės rezervo įstatyme nustatytais atvejais ir tvarka arba Lietuvos Respublikai laikantis tarptautinių įsipareigojimų, kai Tarptautinės energetikos agentūros valdyba priima tarptautinį sprendimą panaudoti atsargas pagal 1974 m. lapkričio 18 d. Susitarimą dėl tarptautinės energetikos programos (toliau – tarptautinis sprendimas panaudoti atsargas). Specialiųjų atsargų kiekis Taisyklėse nustatyta tvarka gali būti laikinai sumažintas atliekant šio įstatymo 16 straipsnyje numatytas atsargų keitimo procedūras. Panaudojus atsargas šioje dalyje nustatytais atvejais, reikiamas atsargų kiekis atkuriamas per Europos Komisijos arba Tarptautinės energetikos agentūros nustatytą laikotarpį.
+
+TAR pastaba. 1 dalis taikoma nuo 1974 m. lapkričio 18 d. Susitarimo dėl tarptautinės energetikos programos įsigaliojimo Lietuvos Respublikai dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
+
 2. Ekstremaliosios energetikos padėties atveju atsargos naudojamos pagal šio įstatymo 17 ir 18 straipsnius ir Vyriausybės patvirtintą Vartotojų aprūpinimo energija ir (ar) energijos ištekliais esant ekstremaliai energetikos padėčiai tvarką.
 
-3. Jeigu Agentūra atsargų sukaupė daugiau negu privaloma pagal šį įstatymą, Energetikos ministerija Taisyklėse nustatyta tvarka gali leisti parduoti Agentūros kaupiamų atsargų perteklių arba susitarimų pagrindu suteikti reikalavimo teises į Agentūros kaupiamų atsargų perteklių kitiems ūkio subjektams arba laikyti šį atsargų perteklių, kol šio įstatymo 7 straipsnyje nustatyta tvarka bus patvirtintos naujos atsargų kaupimo užduotys. Lėšos, gautos realizavus Agentūros kaupiamų atsargų perteklių šioje dalyje nustatyta tvarka, gali būti naudojamos tik šio įstatymo Agentūrai nustatytoms funkcijoms įgyvendinti.
+3. Kai priimamas tarptautinis sprendimas panaudoti atsargas, Vyriausybė ar jos įgaliota institucija priima sprendimą dėl atsargų panaudojimo pagal Vartotojų aprūpinimo energija ir (ar) energijos ištekliais esant ekstremaliai energetikos padėčiai tvarkos aprašą ir (ar) taiko Naftos produktų tiekimo ir vartojimo apribojimų taikymo plane nustatytas priemones naftos produktų tiekimui stabilizuoti ir (ar) vartojimui sumažinti.
+
+TAR pastaba. 3 dalis taikoma nuo 1974 m. lapkričio 18 d. Susitarimo dėl tarptautinės energetikos programos įsigaliojimo Lietuvos Respublikai dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
+
+4. Jeigu Agentūra atsargų sukaupė daugiau negu privaloma pagal šį įstatymą, Energetikos ministerija Taisyklėse nustatyta tvarka gali leisti parduoti Agentūros kaupiamų atsargų perteklių arba susitarimų pagrindu suteikti reikalavimo teises į Agentūros kaupiamų atsargų perteklių kitiems ūkio subjektams arba laikyti šį atsargų perteklių, kol šio įstatymo 7 straipsnyje nustatyta tvarka bus patvirtintos naujos atsargų kaupimo užduotys. Lėšos, gautos realizavus Agentūros kaupiamų atsargų perteklių šioje dalyje nustatyta tvarka, gali būti naudojamos tik šio įstatymo Agentūrai nustatytoms funkcijoms įgyvendinti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
 
-4. Kaupiant ir (ar) tvarkant atsargas, dėl natūralių netekčių susidarę naftos produktų ar naftos nuostoliai, neviršijantys Vyriausybės ar jos įgaliotos institucijos patvirtintų kuro natūralios netekties normų, taip pat nuostoliai, susidarę dėl ėminių, kurių reikia kokybės priežiūros laboratoriniams bandymams, gali būti nurašomi Taisyklėse nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
+
+5. Kaupiant ir (ar) tvarkant atsargas, dėl natūralių netekčių susidarę naftos produktų ar naftos nuostoliai, neviršijantys Vyriausybės ar jos įgaliotos institucijos patvirtintų kuro natūralios netekties normų, taip pat nuostoliai, susidarę dėl ėminių, kurių reikia kokybės priežiūros laboratoriniams bandymams, gali būti nurašomi Taisyklėse nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
 
 16 straipsnis. Atsargų keitimas
 
@@ -606,19 +658,27 @@ EKSTREMALIOJI ENERGETIKOS PADĖTIS
 
 18 straipsnis. Naftos produktų tiekimo ir vartojimo apribojimų taikymo planas
 
-1. Naftos produktų tiekimo ir vartojimo apribojimų taikymo planą tvirtina Vyriausybė ar jos įgaliota institucija. Naftos produktų tiekimo ir vartojimo apribojimų taikymo planas nustato priemones naftos produktų tiekimui stabilizuoti ir (ar) vartojimui sumažinti, kai ekstremalioji energetikos padėtis paskelbiama naftos produktų tiekimui sumažėjus tiek, kad iškyla grėsmė gyventojų saugumui, sveikatai ar šalies ūkio veiklai.
+1. Naftos produktų tiekimo ir vartojimo apribojimų taikymo planą tvirtina Vyriausybė ar jos įgaliota institucija. Naftos produktų tiekimo ir vartojimo apribojimų taikymo plane nustatomi naftos produktų tiekimo sutrikimo lygiai, priemonės naftos produktų tiekimui stabilizuoti ir (ar) vartojimui sumažinti, kai ekstremalioji energetikos padėtis paskelbiama naftos produktų tiekimui sumažėjus tiek, kad iškyla grėsmė gyventojų saugumui, sveikatai ar šalies ūkio veiklai.
 
-2. Ekstremaliajai energetikos padėčiai valdyti nustatomi keturi naftos produktų tiekimo sutrikimo lygiai:
+TAR pastaba. 1 dalis taikoma nuo 1974 m. lapkričio 18 d. Susitarimo dėl tarptautinės energetikos programos įsigaliojimo Lietuvos Respublikai dienos.
 
-1) pirmasis lygis – kai naftos produktų tiekimas sumažėja, bet sumažėjimas nesiekia šalies 7 procentų vidutinio dienos suvartojimo;
+Straipsnio dalies pakeitimai:
 
-2) antrasis lygis – kai naftos produktų tiekimas sumažėja 7–12 procentų vidutinio dienos suvartojimo, naftos produktų suvartojimas turi būti sumažintas ne mažiau kaip 7 procentais;
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
 
-3) trečiasis lygis – kai naftos produktų tiekimas sumažėja 12–25 procentais vidutinio dienos suvartojimo, naftos produktų suvartojimas turi būti sumažintas ne mažiau kaip 10 procentų;
+2. Neteko galios nuo 2020-07-04
 
-4) ketvirtasis lygis – kai naftos produktų tiekimas sumažėja daugiau kaip 25 procentais vidutinio dienos suvartojimo, naftos produktų suvartojimas turi būti sumažintas ne mažiau kaip 20 procentų.
+Straipsnio dalies naikinimas:
 
-3. Ekstremaliosios energetikos padėties metu naftos produktų tiekimui ir vartojimui reguliuoti taikomos atitinkamam naftos produktų tiekimo sutrikimo lygiui Vyriausybės ar jos įgaliotos institucijos nustatytos naftos produktų tiekimo ir vartojimo apribojimo priemonės, nustatytos Naftos produktų tiekimo ir vartojimo apribojimų taikymo plane.
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
+
+3. Ekstremaliosios energetikos padėties metu naftos produktų tiekimui stabilizuoti ir (ar) vartojimui sumažinti taikomos atitinkamam naftos produktų tiekimo sutrikimo lygiui Vyriausybės ar jos įgaliotos institucijos nustatytos naftos produktų tiekimo ir vartojimo apribojimo priemonės, nustatytos Naftos produktų tiekimo ir vartojimo apribojimų taikymo plane.
+
+TAR pastaba. 3 dalis taikoma nuo 1974 m. lapkričio 18 d. Susitarimo dėl tarptautinės energetikos programos įsigaliojimo Lietuvos Respublikai dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
 
 ŠEŠTASIS SKIRSNIS
 
