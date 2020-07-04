@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2020-01-01"
+last_updated: "2020-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,17 +20,9 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-07-03
+Suvestinė redakcija nuo 2020-07-04 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
-
-TAR pastaba. Prekėms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį arba importo pridėtinės vertės mokestį atsirado iki įstatymoNr. XIII-2487 įsigaliojimo (2020-01-01), taikomos iki šio įstatymo įsigaliojimo galiojusios taisyklės.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
-
-Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 4, 4-1, 5-1, 12, 12-2, 33-1, 35, 49, 56, 78, 88-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 4-2, 9-2 straipsniais įstatymas
 
 LIETUVOS RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS
 
@@ -44,7 +36,11 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1. Akcizais apmokestinamos prekės – etilo alkoholis ir alkoholiniai gėrimai, apdorotas tabakas ir energiniai produktai, nurodyti Lietuvos Respublikos akcizų įstatyme, išskyrus Europos Sąjungos teritorijoje esančiomis gamtinių dujų sistemomis ar prie jų prijungtais tinklais tiekiamas dujas.
+1. Akcizais apmokestinamos prekės – etilo alkoholis ir alkoholiniai gėrimai, apdorotas tabakas, kaitinamojo tabako produktai ir energiniai produktai, nurodyti Lietuvos Respublikos akcizų įstatyme, išskyrus Europos Sąjungos teritorijoje esančiomis gamtinių dujų sistemomis ar prie jų prijungtais tinklais tiekiamas dujas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
 
 2. Apmokestinamasis asmuo – Lietuvos Respublikos arba užsienio apmokestinamasis asmuo.
 
@@ -1774,13 +1770,21 @@ Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 
 75 straipsnis. PVM mokėtojo išregistravimas
 
-1. Asmuo turi teisę pateikti prašymą išregistruoti jį iš PVM mokėtojų arba gali būti iš jų išregistruotas vietos mokesčio administratoriaus iniciatyva, jeigu, jam nesant PVM mokėtoju, jam nebūtų atsiradusi prievolė juo įsiregistruoti pagal šio Įstatymo 71 ar 711 straipsnį.
+1. Asmuo turi teisę pateikti prašymą išregistruoti jį iš PVM mokėtojų arba gali būti iš jų išregistruotas mokesčio administratoriaus iniciatyva, jeigu, jam nesant PVM mokėtoju, jam nebūtų atsiradusi prievolė juo įsiregistruoti pagal šio Įstatymo 71 ar 711 straipsnį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
 
 2. Jeigu asmuo įsiregistravo PVM mokėtoju savanoriškai pagal šio Įstatymo 72 straipsnio 2 dalį ar dėl to, kad savanoriškai pasirinko, kad jo tiekiamoms prekėms, atitinkančioms šio Įstatymo 12 straipsnio 4 dalies nuostatas, būtų taikoma šio Įstatymo 12 straipsnio 3 dalis, jis negali būti išregistruotas iš PVM mokėtojų nepraėjus 24 kalendoriniams mėnesiams nuo jo įregistravimo, išskyrus atvejus, kai asmuo likviduojamas.
 
 3. Neteko galios nuo 2011-01-01.
 
-4. Vietos mokesčio administratoriaus iniciatyva iš PVM mokėtojų gali būti išregistruojami PVM mokėtojai, kurie, mokesčio administratoriaus duomenimis, nevykdo ekonominės veiklos, neįsigyja prekių iš kitų valstybių narių, neįsigyja paslaugų iš užsienio apmokestinamųjų asmenų ar kitoje valstybėje narėje neteikia paslaugų.
+4. Mokesčio administratoriaus iniciatyva iš PVM mokėtojų gali būti išregistruojami PVM mokėtojai, kurie, mokesčio administratoriaus duomenimis, nevykdo ekonominės veiklos ar neįsigyja prekių iš kitų valstybių narių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
 
 Straipsnio pakeitimai:
 
@@ -2510,7 +2514,11 @@ NAUDOTŲ PREKIŲ, MENO KŪRINIŲ, KOLEKCINIŲ IR ANTIKVARINIŲ DAIKTŲ APMOKESTI
 
 5) apmokestinamasis asmuo, kurio tiekiama naudota transporto priemonė apmokestinta išgabenimo valstybėje narėje pagal specialias toje valstybėje narėje taikomas pereinamąsias nuostatas naudotoms transporto priemonėms.
 
-5. Šiame skirsnyje naudotomis prekėmis laikomi bet kokie naudoti kilnojamieji daiktai (išskyrus nurodytus šio straipsnio 6–8 dalyse, taip pat tauriuosius metalus, brangakmenius ir dirbinius iš tauriųjų metalų ir (arba) brangakmenių), kurie gali būti toliau naudojami, neatsižvelgiant į tai, ar prieš naudojant tuos daiktus reikia papildomai remontuoti ir (arba) atlikti kitus jų aptarnavimo darbus, ar ne.
+5. Šiame skirsnyje naudotomis prekėmis laikomi bet kokie naudoti kilnojamieji daiktai (išskyrus nurodytus šio straipsnio 6–8 dalyse, taip pat tauriuosius metalus ir brangakmenius), įskaitant dirbinius iš tauriųjų metalų ir (arba) brangakmenių, kai tokie daiktai gali būti toliau naudojami pagal paskirtį, neatsižvelgiant į tai, ar prieš naudojant tuos daiktus reikia papildomai remontuoti ir (arba) atlikti kitus jų aptarnavimo darbus, ar ne.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
 
 6. Šiame skirsnyje meno kūriniais laikomi:
 
