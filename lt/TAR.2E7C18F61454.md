@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2020-07-01"
+last_updated: "2020-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-08
+Suvestinė redakcija nuo 2020-07-09 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -11993,21 +11993,21 @@ Atsakovo teisė, kad jo turėtos bylinėjimosi išlaidos būtų atlygintos iš s
 
 Šio skirsnio nuostatos dėl užstato yra taikomos ir ypatingosios teisenos bylose, kai pareiškėjas yra kitos valstybės fizinis ar juridinis asmuo.
 
-Antrasis skirsnis
-
-KITOS VALSTYBĖS FIZINIO iR JURIDINIO ASMENS atleidimas
-
-nuo bylinėjimosi išlaidų APmokėjimo, teisinė pagalba,
-
-įteikimai, įrodymų užtikrinimas
-
 801 straipsnis. Teismų susižinojimas
 
-1. Nagrinėdami bylas Lietuvos Respublikos teismai su užsienio valstybių teismais dėl teisinės pagalbos susižino per Lietuvos Respublikos teisingumo ministeriją, išskyrus tarptautinių sutarčių ir Europos Sąjungos teisės aktų nustatytus atvejus, kai susižinoma tiesiogiai.
+1. Nagrinėdami bylas Lietuvos Respublikos teismai su užsienio valstybių teismais dėl teisinės pagalbos susižino tarptautinių sutarčių ir Europos Sąjungos teisės aktų nustatyta tvarka ir sąlygomis.
 
-2. Lietuvos Respublikos teismai atsisako teikti teisinę pagalbą, jeigu:
+2. Lietuvos Respublikos teismai su Europos Sąjungos valstybių narių teismais dėl teisinės pagalbos susižino tiesiogiai Europos Sąjungos teisės aktų nustatyta tvarka ir sąlygomis.
 
-1) veiksmas, kurį reikalaujama atlikti, prieštarautų Lietuvos Respublikos viešajai tvarkai arba jos nepriklausomybei;
+3. Tais atvejais, kai galioja Lietuvos Respublikos ir valstybės, kuri nėra Europos Sąjungos valstybė narė, sudaryta tarptautinė sutartis, nustatanti tiesioginį bendradarbiavimą (susižinojimą), Lietuvos Respublikos teismai susižino šios tarptautinės sutarties nustatyta tvarka ir sąlygomis.
+
+4. Jeigu nėra galiojančios Lietuvos Respublikos ir valstybės, kuri nėra Europos Sąjungos valstybė narė, sudarytos šio straipsnio 3 dalyje nurodytos tarptautinės sutarties, tačiau galioja sudaryta tarptautinė sutartis, kuri nenustato tiesioginio bendradarbiavimo (susižinojimo), Lietuvos Respublikos teismai susižino šios sutarties nustatyta tvarka ir sąlygomis per Lietuvos Respublikos teisingumo ministeriją.
+
+5. Tais atvejais, kai nėra galiojančios Lietuvos Respublikos ir valstybės, kuri nėra Europos Sąjungos valstybė narė, sudarytos tarptautinės sutarties, kurios pagrindu Lietuvos Respublikos teismai galėtų susižinoti, susižinojimas vyksta diplomatine tvarka per Lietuvos Respublikos užsienio reikalų ministeriją.
+
+6. Lietuvos Respublikos teismai atsisako teikti teisinę pagalbą, jeigu:
+
+1) veiksmas, kurį reikalaujama atlikti, prieštarautų Lietuvos Respublikos viešajai tvarkai arba keltų grėsmę jos nepriklausomybei;
 
 2) atlikti reikalaujamus veiksmus nepriklauso Lietuvos Respublikos teismų kompetencijai;
 
@@ -12016,6 +12016,10 @@ nuo bylinėjimosi išlaidų APmokėjimo, teisinė pagalba,
 Straipsnio pakeitimai:
 
 Nr. IX-2171, 2004-04-27, Žin., 2004, Nr. 72-2494 (2004-04-30)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
 
 802 straipsnis. Teismų pavedimai
 
@@ -12065,11 +12069,15 @@ Užsienio teisės taikymas
 
 KETVIRTASIS SKIRSNIS
 
-UŽSIENIO TEISMŲ (ARBITRAŽŲ), IŠSKYRUS EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMUS, SPRENDIMŲ PRIPAŽINIMO TVARKA
+UŽSIENIO TEISMŲ (ARBITRAŽŲ) SPRENDIMŲ PRIPAŽINIMO TVARKA
 
 Skirsnio pavadinimas keistas:
 
 Nr. IX-2171, 2004-04-27, Žin., 2004, Nr. 72-2494 (2004-04-30)
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
 
 810 straipsnis. Užsienio teismų (arbitražų) sprendimų pripažinimo sąlygos
 
@@ -12105,9 +12113,7 @@ Straipsnio pakeitimai:
 
 Nr. XI-2090, 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
 
-8111 straipsnis. Bylos dėl užsienio arbitražo sprendimo pripažinimo
-
-ir vykdymo nagrinėjimas
+8111 straipsnis. Bylos dėl užsienio arbitražo sprendimo pripažinimo ir vykdymo nagrinėjimas
 
 1. Prašymus dėl užsienio arbitražo sprendimų pripažinimo ir vykdymo nagrinėja Lietuvos apeliacinio teismo trijų teisėjų kolegija rašytinio proceso tvarka. Apie rašytinį procesą arbitražo proceso šalims pranešama pranešimais.
 
@@ -12149,11 +12155,15 @@ Nr. XI-2090, 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
 
 ŠEŠTASIS SKIRSNIS
 
-UŽSIENIO VALSTYBĖS TEISME, IŠSKYRUS EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMUS, PATVIRTINTŲ TAIKOS SUTARČIŲ IR TEISMO NUTARČIŲ, PRIPAŽINIMO IR LEIDIMO VYKDYTI TVARKA
+UŽSIENIO VALSTYBĖS TEISME PATVIRTINTŲ TAIKOS SUTARČIŲ IR TEISMO NUTARČIŲ PRIPAŽINIMO IR LEIDIMO VYKDYTI TVARKA
 
 Skirsnio pavadinimas keistas:
 
 Nr. IX-2171, 2004-04-27, Žin., 2004, Nr. 72-2494 (2004-04-30)
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
 
 816 straipsnis. Taikos sutarčių pripažinimo ir leidimo vykdyti tvarka
 
@@ -12374,4 +12384,20 @@ Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
 Papildyta straipsniu:
 
 Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+
+7991 straipsnis. Normų taikymas Europos Sąjungos valstybių narių teismų sprendimams
+
+Šio skyriaus ketvirtojo, penktojo ir šeštojo skirsnių nuostatos taikomos Europos Sąjungos valstybių narių teismų sprendimams, teisme patvirtintoms taikos sutartims ir teismo nutartims, kai nėra Europos Sąjungos reglamentų, nustatančių šių teismų sprendimų, teisme patvirtintų taikos sutarčių ir teismo nutarčių pripažinimą ir leidimą juos vykdyti.
+
+Papildyta straipsniu:
+
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
+
+Antrasis skirsnis
+
+KITOS VALSTYBĖS FIZINIO iR JURIDINIO ASMENS atleidimas
+
+nuo bylinėjimosi išlaidų APmokėjimo, teisinė pagalba,
+
+įteikimai, įrodymų užtikrinimas
 
