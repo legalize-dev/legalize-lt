@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2020-07-01"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-09
+Suvestinė redakcija nuo 2020-07-10 iki 2020-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -2499,17 +2499,35 @@ Pažeistos žemės rekultivavimo reikalavimų pažeidimas, padarytas pakartotina
 
 Pažeistos žemės rekultivavimo reikalavimų pažeidimas, padarytas pakartotinai, kai nerekultivuota 25 ha ir daugiau pažeistos žemės ploto, užtraukia baudą nuo trisdešimt tūkstančių iki penkiasdešimt penkių tūkstančių eurų.
 
-113 straipsnis. Juridinių asmenų atsakomybė už žemės gelmių (geologinio) tyrimo reikalavimų pažeidimą
+113 straipsnis. Juridinių asmenų atsakomybė už žemės gelmių geologinio tyrimo reikalavimų pažeidimą
 
-Žemės gelmių (geologinio) tyrimo darbų vykdymo reikalavimų pažeidimas, taip pat žemės gelmių tyrimo rezultatų nepateikimas nustatyta tvarka užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+Žemės gelmių geologinio tyrimo vykdymas neturint tam teisės užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių penkių šimtų eurų.
 
-114 straipsnis. Juridinių asmenų atsakomybė už gręžinių įrengimo, konservavimo ir likvidavimo reikalavimų pažeidimą
+Žemės gelmių geologinio tyrimo darbų vykdymo reikalavimų pažeidimas užtraukia baudą nuo trijų šimtų penkiasdešimt iki septynių šimtų eurų.
 
-Gręžinių geriamajam gėlam ir gamybiniam požeminiam vandeniui tiekti ir vandens šiluminei energijai vartoti įrengimo, konservavimo ir likvidavimo reikalavimų pažeidimas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo septynių šimtų penkiasdešimt iki vieno tūkstančio trijų šimtų eurų.
 
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki penkių tūkstančių eurų.
+Žemės gelmių geologinių tyrimų registravimo reikalavimų pažeidimas ir (ar) žemės gelmių geologinio tyrimo rezultatų nepateikimas nustatyta tvarka užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų.
+
+Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturių šimtų penkiasdešimt iki devynių šimtų eurų.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
+
+114 straipsnis. Juridinių asmenų atsakomybė už gręžinių projektavimo, įrengimo, konservavimo ir likvidavimo reikalavimų pažeidimą
+
+Požeminio vandens gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reikalavimų pažeidimas užtraukia baudą nuo dviejų šimtų iki trijų šimtų penkiasdešimt eurų.
+
+Geoterminių gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reikalavimų pažeidimas užtraukia baudą nuo dviejų šimtų penkiasdešimt iki keturių šimtų penkiasdešimt eurų.
+
+Angliavandenilių gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reikalavimų pažeidimas užtraukia baudą nuo vieno tūkstančio iki vieno tūkstančio devynių šimtų eurų.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
 115 straipsnis. Juridinių asmenų atsakomybė už anglies dioksido geologinių saugyklų kompleksų žvalgybos ir anglies dioksido geologinio saugojimo reikalavimų pažeidimą
 
@@ -2627,35 +2645,43 @@ Paviršinių vandens telkinių apsaugos zonų ir (ar) pakrančių apsaugos juost
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
-124 straipsnis. Juridinių asmenų atsakomybė už vandens telkinių naudojimo vandeniui išgauti ar nuotekų tvarkymo nustatytų reikalavimų pažeidimą
+124 straipsnis. Juridinių asmenų atsakomybė už paviršinių vandens telkinių naudojimo vandeniui išgauti ar nuotekų tvarkymo nustatytų reikalavimų pažeidimą
 
-Vandens telkinių naudojimas vandeniui išgauti neturint tam teisės, kai neturint tam teisės išgauta iki 1 000 kubinių metrų vandens, užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+Paviršinių vandens telkinių naudojimas vandeniui išgauti neturint tam teisės, kai neturint tam teisės išgauta iki 1 000 kubinių metrų vandens, užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
-Vandens telkinių naudojimas vandeniui išgauti neturint tam teisės, kai neturint tam teisės išgauta 1 000 kubinių metrų ir daugiau, bet mažiau kaip 10 000 kubinių metrų vandens, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
+Paviršinių vandens telkinių naudojimas vandeniui išgauti neturint tam teisės, kai neturint tam teisės išgauta 1 000 kubinių metrų ir daugiau, bet mažiau kaip 10 000 kubinių metrų vandens, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
 
-Vandens telkinių naudojimas vandeniui išgauti neturint tam teisės, kai neturint tam teisės išgauta 10 000 kubinių metrų ir daugiau, bet mažiau kaip 100 000 kubinių metrų vandens, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Paviršinių vandens telkinių naudojimas vandeniui išgauti neturint tam teisės, kai neturint tam teisės išgauta 10 000 kubinių metrų ir daugiau, bet mažiau kaip 100 000 kubinių metrų vandens, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-Vandens telkinių naudojimas vandeniui išgauti neturint tam teisės, kai neturint tam teisės išgauta 100 000 kubinių metrų ir daugiau vandens, užtraukia baudą nuo trijų tūkstančių iki aštuonių tūkstančių eurų.
+Paviršinių vandens telkinių naudojimas vandeniui išgauti neturint tam teisės, kai neturint tam teisės išgauta 100 000 kubinių metrų ir daugiau vandens, užtraukia baudą nuo trijų tūkstančių iki aštuonių tūkstančių eurų.
 
-Išgaunamo vandens, išleidžiamų nuotekų arba teršalų, išleidžiamų su nuotekomis, apskaitos nevykdymas ar netinkamas vykdymas užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
+Išgaunamo paviršinio vandens, išleidžiamų nuotekų arba teršalų, išleidžiamų su nuotekomis, apskaitos nevykdymas ar netinkamas vykdymas užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
 
 Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-Ataskaitų apie išgaunamą vandenį, išleidžiamas nuotekas arba teršalus, išleidžiamus su nuotekomis, nepateikimas ar akivaizdžiai neteisingų duomenų pateikimas užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+Ataskaitų apie išgaunamą paviršinį vandenį, išleidžiamas nuotekas arba teršalus, išleidžiamus su nuotekomis, nepateikimas ar akivaizdžiai neteisingų duomenų pateikimas užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 Šio straipsnio 7 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
+Straipsnio pakeitimai:
+
+Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
+
 125 straipsnis. Juridinių asmenų atsakomybė už tvenkinio ar patvenkto ežero naudojimo ir priežiūros taisyklių pažeidimą
 
-Tvenkinio ar patvenkto ežero naudojimą ir priežiūrą reglamentuojančių teisės aktų pažeidimas užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Tvenkinio ar patvenkto ežero naudojimą ir priežiūrą reglamentuojančių teisės aktų pažeidimas užtraukia baudą nuo keturių šimtų penkiasdešimt iki devynių šimtų eurų.
 
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų.
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo devynių šimtų iki vieno tūkstančio trijų šimtų eurų.
 
-Teisės aktų nustatyta tvarka išduotame tvenkinio ar patvenkto ežero naudojimą leidžiančiame dokumente nustatytų reikalavimų dėl vandens debito, aukščiausio ir (ar) žemiausio leistino vandens lygio pažeidimas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Teisės aktų nustatyta tvarka išduotame tvenkinio ar patvenkto ežero naudojimą leidžiančiame dokumente nustatytų reikalavimų dėl vandens debito, aukščiausio ir (ar) žemiausio leistino vandens lygio pažeidimas užtraukia baudą nuo devynių šimtų iki vieno tūkstančio aštuonių šimtų eurų.
 
-Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
+Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio trijų šimtų iki dviejų tūkstančių šimto eurų.
 
-Tvenkinio ar patvenkto ežero naudojimas neturint teisės aktų nustatyta tvarka išduoto tvenkinio ar patvenkto ežero naudojimą leidžiančio dokumento užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Tvenkinio ar patvenkto ežero naudojimas neturint teisės aktų nustatyta tvarka išduoto tvenkinio ar patvenkto ežero naudojimą leidžiančio dokumento užtraukia baudą nuo dviejų tūkstančių šimto iki keturių tūkstančių penkių šimtų eurų.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
 126 straipsnis. Juridinių asmenų atsakomybė už privalomojo nurodymo neįvykdymą
 
@@ -3047,6 +3073,14 @@ Nr. XIII-2483, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17359
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 23-4 straipsnio pripažinimo netekusiu galios įstatymas
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 111, 113, 114, 124, 125 straipsnių pakeitimo ir Įstatymo papildymo 66-1, 70-2, 77-2, 123-1 straipsniais įstatymas
+
 193 straipsnis. Įrenginių registravimas
 
 Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame straipsnyje suprantamas kaip stacionarus technikos objektas, kuriame vykdant aplinkos ministro patvirtintose Lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikrų veiklos rūšių įrenginiuose, išmetimo ribojimo ir įrenginių registravimo taisyklėse (toliau – LOJ taisyklės) nurodytą vienos arba kelių rūšių veiklą, taip pat kitą toje pačioje vietoje vykdomą tiesiogiai techniškai susijusią veiklą, kurios metu išmetami lakieji organiniai junginiai, suvartojamas organinio tirpiklio kiekis atitinka LOJ taisyklėse nurodytąjį. Šios taisyklės nustato įrenginių įregistravimo, registracijos duomenų teikimo, tikslinimo ir įrenginių išregistravimo tvarką.
@@ -3198,4 +3232,48 @@ Lengvųjų plastikinių pirkinių maišelių, išskyrus labai lengvus plastikini
 Papildyta straipsniu:
 
 Nr. XIII-2799, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02851
+
+661 straipsnis. Juridinių asmenų atsakomybė už neteisėtą Lietuvos Respublikos jūros rajono teršimą iš šiame jūros rajone esančių jūros įrenginių ir (arba) iš sausumoje esančių stacionariųjų ar mobiliųjų įrenginių
+
+Lietuvos Respublikos jūros rajono teršimas iš šiame jūros rajone esančių jūros įrenginių ir (arba) iš sausumoje esančių stacionariųjų ar mobiliųjų įrenginių užtraukia baudą nuo vieno tūkstančio iki šešių tūkstančių eurų.
+
+Papildyta straipsniu:
+
+Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
+
+702 straipsnis. Juridinių asmenų atsakomybė už laivų balastinių vandenų ir nuosėdų išleidimą nesilaikant 2004 m. Tarptautinėje konvencijoje dėl laivų balastinių vandenų ir nuosėdų kontrolės ir valdymo ir (arba) Lietuvos Respublikos teisės aktuose nustatytų reikalavimų
+
+Laivų balastinių vandenų ir nuosėdų išleidimas Lietuvos Respublikos jūros rajone, kurio metu į aplinką patenka neleistinas kiekis pavojingų ir ligas sukeliančių vandens organizmų, pažeidžiant 2004 m. Tarptautinėje konvencijoje dėl laivų balastinių vandenų ir nuosėdų kontrolės ir valdymo ir (arba) Lietuvos Respublikos teisės aktuose nustatytus reikalavimus, kai nesilaikant nustatytų reikalavimų išleidžiama iki 1 000 kubinių metrų balastinių vandenų ir nuosėdų, turinčių kenksmingų gyvųjų organizmų, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+
+Laivų balastinių vandenų ir nuosėdų išleidimas Lietuvos Respublikos jūros rajone, kurio metu į aplinką patenka neleistinas kiekis pavojingų ir ligas sukeliančių vandens organizmų, pažeidžiant 2004 m. Tarptautinėje konvencijoje dėl laivų balastinių vandenų ir nuosėdų kontrolės ir valdymo ir (arba) Lietuvos Respublikos teisės aktuose nustatytus reikalavimus, kai nesilaikant nustatytų reikalavimų išleidžiama iki 1 000 kubinių metrų balastinių vandenų ir nuosėdų, turinčių kenksmingų gyvųjų organizmų, kai pažeidimas yra padarytas pakartotinai, užtraukia baudą nuo šešių tūkstančių iki aštuonių tūkstančių eurų.
+
+Laivų balastinių vandenų ir nuosėdų išleidimas Lietuvos Respublikos jūros rajone, kurio metu į aplinką patenka neleistinas kiekis pavojingų ir ligas sukeliančių vandens organizmų, pažeidžiant 2004 m. Tarptautinėje konvencijoje dėl laivų balastinių vandenų ir nuosėdų kontrolės ir valdymo ir (arba) Lietuvos Respublikos teisės aktuose nustatytus reikalavimus, kai nesilaikant nustatytų reikalavimų išleidžiama daugiau kaip 1 000 kubinių metrų balastinių vandenų ir nuosėdų, turinčių kenksmingų gyvųjų organizmų, užtraukia baudą nuo aštuonių tūkstančių iki dešimt tūkstančių eurų.
+
+Laivų balastinių vandenų ir nuosėdų išleidimas Lietuvos Respublikos jūros rajone, kurio metu į aplinką patenka neleistinas kiekis pavojingų ir ligas sukeliančių vandens organizmų, pažeidžiant 2004 m. Tarptautinėje konvencijoje dėl laivų balastinių vandenų ir nuosėdų kontrolės ir valdymo ir (arba) Lietuvos Respublikos teisės aktuose nustatytus reikalavimus, kai nesilaikant nustatytų reikalavimų išleidžiama daugiau kaip 1 000 kubinių metrų balastinių vandenų ir nuosėdų, turinčių kenksmingų gyvųjų organizmų, kai pažeidimas yra padarytas pakartotinai, užtraukia baudą nuo dešimt tūkstančių iki keturiolikos tūkstančių eurų.
+
+Papildyta straipsniu:
+
+Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
+
+1231 straipsnis. Juridinių asmenų atsakomybė už ūkinės ir (ar) kitokios veiklos vykdymą žemės gelmių išteklių telkiniuose, požeminio vandens vandenviečių apsaugos zonose, pažeidžiant šiuose žemės gelmių išteklių telkinių, požeminio vandens vandenviečių apsaugos zonose taikomas specialiąsias žemės naudojimo sąlygas, ar požeminio vandens gavybos gręžinio naudojimą, nenustačius požeminio vandens vandenvietės apsaugos zonos
+
+Ūkinės ir (ar) kitokios veiklos vykdymas žemės gelmių išteklių telkiniuose pažeidžiant taikomas specialiąsias žemės naudojimo sąlygas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio eurų.
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo aštuonių šimtų iki dviejų tūkstančių eurų.
+
+Prašymo įregistruoti nustatytas Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytas teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, Nekilnojamojo turto registre per įstatymuose nustatytą terminą nepateikimas, kai šį prašymą turi pateikti asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytos teritorijos, vykdymu, užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+Ūkinės ir (ar) kitokios veiklos vykdymas požeminio vandens vandenvietės apsaugos zonos 3-iojoje juostoje pažeidžiant taikomas specialiąsias žemės naudojimo sąlygas ar jų nevykdymas užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
+
+Ūkinės ir (ar) kitokios veiklos vykdymas požeminio vandens vandenvietės apsaugos zonos 2-ojoje juostoje pažeidžiant taikomas specialiąsias žemės naudojimo sąlygas ar jų nevykdymas užtraukia baudą nuo dviejų šimtų penkiasdešimt iki penkių šimtų eurų.
+
+Ūkinės ir (ar) kitokios veiklos vykdymas požeminio vandens vandenvietės apsaugos zonos 1-ojoje juostoje pažeidžiant taikomas specialiąsias žemės naudojimo sąlygas ar jų nevykdymas užtraukia baudą nuo trijų šimtų penkiasdešimt iki aštuonių šimtų eurų.
+
+Šio straipsnio 6 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo penkių šimtų iki septynių šimtų eurų.
+
+Požeminio vandens gavybos gręžinio naudojimas nenustačius požeminio vandens vandenvietės apsaugos zonos užtraukia baudą nuo šešių šimtų penkiasdešimt iki vieno tūkstančio šimto eurų.
+
+Papildyta straipsniu:
+
+Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
