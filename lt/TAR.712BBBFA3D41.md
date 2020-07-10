@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2020-07-01"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-09
+Suvestinė redakcija nuo 2020-07-10 iki 2020-11-30
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -850,7 +850,7 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 32 straipsnis. Asignavimų naudojimas ir grąžinimas
 
-1. Metams pasibaigus, asignavimų valdytojai ir jiems pavaldžios biudžetinės įstaigos, ministrų valdymo sričių įstaigoms, vykdančioms atitinkamo asignavimų valdytojo programas, pavaldžios biudžetinės įstaigos ir kiti subjektai disponuojamose sąskaitose esančias biudžeto lėšas, skirtas programoms finansuoti, išskyrus politinėms partijoms paskirstytus valstybės biudžeto asignavimus ir nepanaudotas įmokėtas šio Įstatymo 2 straipsnio 16 dalies 1 ir 2 punktuose nurodytas lėšas, naudojamas atsižvelgiant į šio Įstatymo 14 straipsnio 2 ir 3 dalių nuostatas, grąžina ne vėliau kaip iki sausio 10 dienos:
+1. Metams pasibaigus, asignavimų valdytojai ir jiems pavaldžios biudžetinės įstaigos, ministrų valdymo sričių įstaigoms, vykdančioms atitinkamo asignavimų valdytojo programas, pavaldžios biudžetinės įstaigos ir kiti subjektai disponuojamose sąskaitose esančias biudžeto lėšas, skirtas programoms finansuoti, išskyrus politinėms partijoms paskirstytus valstybės biudžeto asignavimus, Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme apibrėžtoms skatinamosioms finansinėms priemonėms, kai fondų fondas nesteigiamas, įgyvendinti ir (arba) fondų fondams valdyti pagal finansavimo sutartis, kurių šalys yra atitinkami asignavimų valdytojai, skatinamųjų finansinių priemonių ir (arba) fondų fondų valdytojai ir (arba) Finansų ministerija, pervestas biudžeto lėšas ir nepanaudotas įmokėtas šio Įstatymo 2 straipsnio 16 dalies 1 ir 2 punktuose nurodytas lėšas, naudojamas atsižvelgiant į šio Įstatymo 14 straipsnio 2 ir 3 dalių nuostatas, grąžina ne vėliau kaip iki sausio 10 dienos:
 
 1) valstybės biudžeto lėšas pervesdami į valstybės iždo sąskaitą;
 
@@ -859,6 +859,8 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
 
 2. Ministerijoms ir kitoms valstybės institucijoms ar įstaigoms paliekami mėnesio išlaidų dydžio pereinamieji lėšų likučiai, esantys Lietuvos Respublikos diplomatinių ir kitų atstovybių, konsulinių įstaigų, specialiųjų bei gynybos atašė ir Lietuvos atstovų, perkeltų į tarptautines ir užsienio institucijas, sąskaitose užsienio kredito įstaigose. Krašto apsaugos ministerijai paliekami trijų mėnesių išlaidų dydžio pereinamieji lėšų likučiai, esantys tarptautinių operacijų karinio vieneto, dislokuoto užsienio valstybėje, sąskaitose užsienio kredito įstaigose ar pas atskaitingus asmenis.
 
