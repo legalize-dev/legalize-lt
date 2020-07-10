@@ -4,7 +4,7 @@ identifier: "TAR.8DDDD8D87491"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2016-07-05"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2016-07-05 iki 2020-07-09
+Suvestinė redakcija nuo 2020-07-10 iki 2021-04-30
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
 
@@ -83,17 +83,33 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 14. Gyvūnų augintinių veisėjas – asmuo, turintis Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka išduotą leidimą veisti gyvūnus augintinius verslo tikslais.
 
+141. Gyvūnų augintinių viešbutis – teisės aktų nustatytus reikalavimus atitinkanti gyvūnų augintinių laikymo vieta, kurioje teikiama gyvūnų augintinių laikino apgyvendinimo paslauga.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
+
 15. Gyvūnų gerovė – optimalus gyvūnų fiziologinių ir etologinių poreikių tenkinimas.
 
 16. Gyvūnų globa – asmens veikla, skirta gyvūno gerovei ir apsaugai užtikrinti.
 
-17. Gyvūnų globėjas – asmuo, atitinkantis teisės aktų nustatytus reikalavimus ir užsiimantis bepriežiūrių ir bešeimininkių gyvūnų globa ir (ar) laikinąja gyvūnų globa.
+17. Gyvūnų globėjas – asmuo, atitinkantis teisės aktų nustatytus reikalavimus ir užsiimantis bepriežiūrių ir bešeimininkių gyvūnų globa ir (ar) laikinąja gyvūnų globa, ir (ar) šiame įstatyme nustatytais atvejais laikinuoju gyvūnų laikymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 18. Gyvūnų globos namai – asmuo, turintis teisės aktų nustatytus reikalavimus atitinkančias patalpas, kuriose gyvūnai laikomi, kol nugaiš (išskyrus atvejus, kai dėl gyvūnų sveikatos būklės ar agresyvumo juos būtina nugaišinti), bešeimininkiai ir bepriežiūriai gyvūnai – kol bus surasti nauji savininkai, sužeisti ar sergantys laukiniai gyvūnai – kol juos bus galima išleisti į laisvę.
 
 19. Kovinio šuns mišrūnas – negrynaveislis šuo, kurio bent vienas iš tėvų yra kovinis šuo.
 
 20. Kovinis šuo – kovoms išvestos veislės šuo, įrašytas į Kovinių šunų veislių sąrašą, kurį tvirtina Valstybinės maisto ir veterinarijos tarnybos direktorius.
+
+201. Laikinasis gyvūno laikymas – trumpalaikis gyvūno, kurio savininkas yra žinomas, laikymas. Ši veikla neapima laikinosios gyvūnų globos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 21. Laikinoji gyvūnų globa (toliau – laikinoji globa) – asmens veikla, kuria užtikrinama bešeimininkių ar bepriežiūrių gyvūnų gerovė ir apsauga, kol bus nustatytas jų savininkas ar laikytojas, laikantis Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) 4.61 straipsnio 3 dalyje nustatytų terminų.
 
@@ -175,9 +191,17 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 1) pagal kompetenciją įgyvendina valstybės politiką gyvūnų gerovės ir apsaugos srityje;
 
-2) tvirtina ūkinių gyvūnų laikymo reikalavimus ir kontroliuoja, kaip jie įgyvendinami;
+2) tvirtina bendruosius ir atskirų rūšių (specialiuosius) ūkinių gyvūnų gerovės reikalavimus;
 
-3) nustato skerdžiamų ir kitu būdu nužudomų gyvūnų apsaugos reikalavimus ir kontroliuoja, kaip jie įgyvendinami;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
+
+3) Neteko galios nuo 2020-07-10
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 4) tvirtina bandomųjų gyvūnų laikymo ir naudojimo reikalavimus ir kontroliuoja, kaip jie įgyvendinami, išduoda leidimus atlikti bandymus su gyvūnais;
 
@@ -185,9 +209,17 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 6) tvirtina pavojingų šunų įvežimo, įsigijimo, veisimo, dresavimo, prekybos ir laikymo reikalavimus, taip pat kovinių šunų, kovinių šunų mišrūnų ir pavojingų šunų mišrūnų laikymo reikalavimus;
 
-7) tvirtina reikalavimus gyvūnų globėjams, gyvūnų globos namams, gyvūnų augintinių veisėjams ir kontroliuoja, kaip jie įgyvendinami;
+7) tvirtina reikalavimus gyvūnų globėjams, gyvūnų augintinių viešbučiams, gyvūnų globos namams, gyvūnų augintinių veisėjams;
 
-8) tvirtina prekybos ūkiniais gyvūnais ir gyvūnais augintiniais reikalavimus ir kontroliuoja, kaip jie įgyvendinami;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
+
+8) tvirtina prekybos ūkiniais gyvūnais ir gyvūnais augintiniais reikalavimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 9) tvirtina gyvūnų vežėjų leidimų, vežamų gyvūnų prižiūrėtojų kompetencijos pažymėjimų išdavimo tvarką;
 
@@ -199,7 +231,11 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 13) tvirtina gyvūnų galimybes stimuliuojančių medžiagų, didinančių gyvūnų produktyvumą, darbingumą, sportinius rezultatus, naudojimo reikalavimus;
 
-14) kontroliuoja, kaip įgyvendinami vežamų gyvūnų apsaugos reikalavimai;
+14) organizuoja ir vykdo šios dalies 2, 4, 7–10, 13 punktuose nustatytų reikalavimų laikymosi priežiūrą, įskaitant Reglamento (ES) 2017/625 21 straipsnio 1 dalyje nustatytą oficialią kontrolę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 15) informuoja ir konsultuoja suinteresuotus asmenis apie gyvūnų gerovės ir apsaugos reikalavimus;
 
@@ -217,7 +253,11 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 5) išduoda leidimus įvežti, įsigyti, laikyti, veisti pavojingus šunis ir jais prekiauti, vykdo kovinių šunų, kovinių šunų mišrūnų, pavojingų šunų ir pavojingų šunų mišrūnų laikymo kontrolę savivaldybės teritorijoje;
 
-6) organizuoja kovinių šunų, kovinių šunų mišrūnų, pavojingų šunų ir pavojingų šunų mišrūnų paėmimą ir laikinąją globą;
+6) organizuoja kovinių šunų, kovinių šunų mišrūnų, pavojingų šunų ir pavojingų šunų mišrūnų paėmimą ir perdavimą gyvūnų globėjams laikinai juos laikyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 7) atlieka kitas teisės aktuose nustatytas funkcijas.
 
@@ -277,17 +317,21 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 3. Už žiaurų elgesį su gyvūnais ir gyvūnų kankinimą asmenys traukiami administracinėn ar baudžiamojon atsakomybėn.
 
-4. Iš gyvūnų savininkų ar laikytojų, kurie kankina gyvūnus, žiauriai elgiasi su jais, teismo sprendimu gyvūnai gali būti Lietuvos Respublikos teisės aktų nustatyta tvarka konfiskuojami.
+4. Iš gyvūnų savininkų ar laikytojų, kurie kankina gyvūnus, žiauriai elgiasi su jais, Lietuvos Respublikos administracinių nusižengimų kodekso ar Lietuvos Respublikos baudžiamojo kodekso nustatyta tvarka gyvūnai gali būti konfiskuojami.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
 
-5. Kol teismas priims sprendimą ar įsiteisės teismo sprendimas dėl gyvūno konfiskavimo, savivaldybės administracijos direktoriaus įgaliotas asmuo, dalyvaujant Valstybinės maisto ir veterinarijos tarnybos veterinarijos gydytojui ir policijos pareigūnui, jeigu būtina užtikrinti viešąją tvarką, turi paimti tokį gyvūną ir perduoti jį gyvūnų globėjui ar kitokiu būdu užtikrinti tinkamą gyvūno laikymą. Siekiant nutraukti gyvūnų kančias, iš gyvūno savininko ar laikytojo paimtas suluošintas ar sunkiai sergantis gyvūnas, neprašant gyvūno savininko ar laikytojo sutikimo, veterinarijos gydytojo sprendimu gali būti nugaišinamas. Gyvūno laikinosios globos, gydymo, laikymo, nugaišinimo ar gaišenos tvarkymo išlaidas atlygina gyvūno savininkas ar laikytojas. Kilus ginčui dėl šių išlaidų atlyginimo ar jų dydžio nustatymo, jis sprendžiamas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
+
+5. Kol bus priimtas ir įsiteisės sprendimas dėl gyvūno konfiskavimo, savivaldybės administracijos direktoriaus įgaliotas asmuo, dalyvaujant Valstybinės maisto ir veterinarijos tarnybos veterinarijos gydytojui ir policijos pareigūnui, jeigu būtina užtikrinti viešąją tvarką, turi paimti tokį gyvūną ir perduoti jį gyvūnų globėjui ar kitam paimtą gyvūną galinčiam laikinai laikyti gyvūnų laikytojui arba kitokiu būdu užtikrinti tinkamą gyvūno laikymą. Siekiant nutraukti gyvūnų kančias, iš gyvūno savininko ar laikytojo paimtas suluošintas ar sunkiai sergantis gyvūnas, neprašant gyvūno savininko ar laikytojo sutikimo, veterinarijos gydytojo sprendimu gali būti nugaišinamas. Gyvūno gydymo, laikino laikymo, nugaišinimo ar gaišenos tvarkymo išlaidas atlygina gyvūno laikytojas arba savininkas, kuris kankino ar žiauriai elgėsi su gyvūnu. Kilęs ginčas dėl šių išlaidų atlyginimo ar jų dydžio nustatymo, taip pat gyvūno nuosavybės teisės nustatymo ar laikymo fakto pripažinimo sprendžiamas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 5 straipsnis. Veiksmai, nelaikomi žiauriu elgesiu su gyvūnais ir jų kankinimu
 
@@ -383,7 +427,11 @@ Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
 
 5. Pavojingo šuns savininkas turi užtikrinti, kad tokio šuns laikymas nebus patikėtas šio straipsnio 4 dalies 2 ir 3 punktuose nurodytiems asmenims.
 
-6. Kai nustatomi šiame įstatyme ir kituose teisės aktuose įtvirtinti pavojingų šunų įvežimo, įsigijimo, laikymo, veisimo, pardavimo reikalavimų pažeidimai, savivaldybės administracija, išdavusi šio straipsnio 3 dalyje nurodytą leidimą, privalo savivaldybės administracijos direktoriaus nustatyta tvarka paimti pavojingą šunį ir perduoti jį laikinai globoti gyvūnų globėjui, kol atsiradę pažeidimai bus pašalinti.
+6. Kai nustatomi šiame įstatyme ir kituose teisės aktuose įtvirtinti pavojingų šunų įvežimo, įsigijimo, laikymo, veisimo, pardavimo reikalavimų pažeidimai, savivaldybės administracija, išdavusi šio straipsnio 3 dalyje nurodytą leidimą, privalo savivaldybės administracijos direktoriaus nustatyta tvarka paimti pavojingą šunį ir perduoti jį laikinai laikyti gyvūnų globėjui, kol atsiradę pažeidimai bus pašalinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 7. Jeigu šio straipsnio 6 dalyje nustatytu atveju paimtas pavojingas šuo kelia realią grėsmę žmonėms ar kitiems gyvūnams, jis gali būti nugaišinamas.
 
@@ -551,7 +599,15 @@ ASMENŲ TEISĖS, PAREIGOS, ATSAKOMYBĖ IR ŠIO ĮSTATYMO VYKDYMO KONTROLĖ
 
 3) užtikrinti, kad jų laikomi gyvūnai nekeltų grėsmės žmonių, kitų gyvūnų gyvybei, sveikatai ar turtui;
 
-4) nepažeisti kitų asmenų teisių ir teisėtų interesų.
+4) šio įstatymo vykdymą kontroliuojančių institucijų pareigūnams pareikalavus leisti tikrinti gyvūnus ir jų laikymo sąlygas, patalpas, teritoriją, įrangą, kurioje jie laikomi, transporto priemones, naudojamas gyvūnams vežti, su gyvūnų laikymu susijusius dokumentus ir informacines sistemas, taip pat leisti atlikti šio įstatymo 21 straipsnio 3 dalies 3 punkte nustatytus veiksmus;
+
+5) vykdyti kontroliuojančių institucijų pareigūnų nurodymus gyvūnų gerovės ir apsaugos srityje;
+
+6) nepažeisti kitų asmenų teisių ir teisėtų interesų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 3. Gyvūnų globėjai turi teisę:
 
@@ -577,37 +633,51 @@ Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
 
 1. Šio įstatymo reikalavimus pažeidę asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-2. Šio įstatymo vykdymą kontroliuojančių institucijų pareigūnai turi teisę:
+2. Šio įstatymo 3 straipsnio 9 dalies 14 punkte nustatyta valstybinė veterinarinė priežiūra gyvūnų gerovės srityje tiek, kiek ji nenustatyta Reglamente (ES) 2017/625, vykdoma vadovaujantis Lietuvos Respublikos veterinarijos įstatymu.
 
-1) įeiti į gyvenamuosius ar negyvenamuosius pastatus ar kitas teritorijas, kur yra laikomi gyvūnai, gavę to pastato ar teritorijos savininko sutikimą arba turėdami teismo sprendimą, jeigu ten nesilaikoma šio įstatymo ir kitų teisės aktų reikalavimų;
+3. Šio įstatymo vykdymą kontroliuojančių institucijų pareigūnai turi teisę:
 
-2) reikalauti iš gyvūnų laikytojų dokumentų, informacijos ar paaiškinimų gyvūnų sveikatos, gerovės ir apsaugos klausimais;
+1) įeiti į gyvenamuosius ar negyvenamuosius pastatus ar kitas teritorijas, kuriuose yra laikomi gyvūnai, gavę to pastato ar teritorijos savininko sutikimą, ir atlikti tikrinimus, gauti ar paimti visą su tikrinimu susijusią informaciją ar įrodymus;
 
-3) teikti pranešimus, pareiškimus teisėsaugos institucijoms, kad asmenys būtų patraukti baudžiamojon atsakomybėn už šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų pažeidimus;
+2) patekti į gyvenamuosius ar negyvenamuosius pastatus ar kitas teritorijas, kur yra laikomi gyvūnai, ir atlikti tikrinimus, gauti ar paimti visą su tikrinimu susijusią informaciją ar įrodymus, su teismo leidimu, išduotu vadovaujantis šio straipsnio 4 dalimi, jeigu gyvūnų laikytojas, savininkas trukdo ar vengia, kad jo veikla būtų tikrinama, ir yra pagrindo manyti, kad jis pažeidžia šio įstatymo ir kitų teisės aktų, reglamentuojančių gyvūnų gerovę ir apsaugą, reikalavimus;
 
-4) taikyti administracinio poveikio priemones;
+3) nepažeisdami teisės aktų, reglamentuojančių asmens duomenų tvarkymą ir fizinių asmenų privataus gyvenimo neliečiamumą, fotografuoti, daryti garso ir vaizdo įrašus, imti dokumentus ar daryti jų kopijas, reikalingus jiems pavestoms funkcijoms atlikti;
 
-5) perduoti gyvūnus laikinai globai ir organizuoti gyvūnų paėmimo iš gyvūnų savininkų, laikytojų procedūrą.
+4) teikti pranešimus, pareiškimus teisėsaugos institucijoms, kad asmenys būtų patraukti baudžiamojon atsakomybėn už šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų pažeidimus;
+
+5) vykdydami šiuo įstatymu jiems pavestas funkcijas, pasitelkti kitų valstybės ir savivaldybės institucijų ir įstaigų pareigūnų pagalbą;
+
+6) teisės aktuose nustatyta tvarka taikyti administracines nuobaudas, administracinio poveikio priemones ir priimti administracinius sprendimus;
+
+7) perduoti bešeimininkius ar bepriežiūrius gyvūnus laikinajai globai ar gyvūnus, paimtus iš gyvūnų savininkų, laikytojų pagal šio įstatymo 4 straipsnio 5 dalį, gyvūnų globėjams ar kitiems gyvūnų laikytojams;
+
+8) įstatyme nustatytais atvejais organizuoti iš gyvūnų savininkų, laikytojų paimtų gyvūnų nugaišinimo procedūrą.
+
+4. Prašymas išduoti leidimą atlikti šio straipsnio 3 dalies 2 punkte nurodytus veiksmus pateikiamas apygardos administraciniam teismui. Apygardos administracinis teismas išnagrinėja prašymą ir priima motyvuotą nutartį prašymą patenkinti arba atmesti ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo momento. Jeigu šio įstatymo vykdymą kontroliuojanti institucija nesutinka su apygardos administracinio teismo sprendimu atmesti prašymą, ji turi teisę per 7 darbo dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl apygardos administracinio teismo nutarties ne vėliau kaip per 7 darbo dienas. Įstatymo vykdymą kontroliuojančios institucijos įgaliotas pareigūnas ir (arba) atstovas turi teisę dalyvauti Lietuvos vyriausiajame administraciniame teisme nagrinėjant skundą žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti atitinkamus veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
-gyvūnų gerovės ir apsaugos
-
-įstatymo
+gyvūnų gerovės ir apsaugos įstatymo
 
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. rugsėjo 24 d. Tarybos reglamentas (EB) Nr. 1099/2009 dėl žudomų gyvūnų apsaugos (OL 2009 L 303, p. 1).
+1. 2009 m. rugsėjo 24 d. Tarybos reglamentas (EB) Nr. 1099/2009 dėl žudomų gyvūnų apsaugos.
 
-Papildyta priedu:
+2. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB, ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas).
 
-Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
+Priedo pakeitimai:
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 Pakeitimai:
 
@@ -674,6 +744,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
 
 Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 7 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
+
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 3, 4, 8, 20, 21 straipsnių ir priedo pakeitimo įstatymas
 
 61 straipsnis. Agresyvių šunų įvežimas, įsigijimas, laikymas, registravimas, ženklinimas, veisimas, dresavimas, prekyba jais bei jų paėmimas
 
