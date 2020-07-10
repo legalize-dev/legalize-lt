@@ -4,7 +4,7 @@ identifier: "TAR.C44837068B55"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-19"
-last_updated: "2020-01-10"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C44837068B55"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1998
 
-Suvestinė redakcija nuo 2020-01-10 iki 2020-07-09
+Suvestinė redakcija nuo 2020-07-10 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
 
@@ -502,6 +502,114 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 41. Lietuvos Respublikoje mokėjimai, atliekami naudojantis trečiosiose valstybėse išduotomis anoniminėmis elektroninių pinigų mokėjimo priemonėmis, vykdomi tik tais atvejais, kai tokios priemonės atitinka šio straipsnio 4 dalyje nustatytus reikalavimus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+5. Jeigu pagal finansų įstaigos nustatytas rizikos vertinimo ir valdymo procedūras nustatoma maža pinigų plovimo ir (ar) teroristų finansavimo rizika, finansų įstaigos, atidarydamos sąskaitą, gali pradėti dalykinius santykius su klientu nepatikrinusios jo tapatybės, jeigu yra gavusios šio įstatymo 10 straipsnio 1 dalies 1, 2, 3 ir 4 punktuose, 10 straipsnio 2 dalyje ir 12 straipsnio 2 dalyje nustatytus duomenis ir jeigu užtikrina, kad tokioje sąskaitoje piniginės operacijos nebus vykdomos iki kliento ir naudos gavėjo tapatybės nustatymo proceso pabaigos ir kad kliento ir naudos gavėjo tapatybė galutinai bus nustatyta ne vėliau kaip per vieną mėnesį po sąskaitos atidarymo. Visais atvejais kliento ir naudos gavėjo tapatybė turi būti nustatoma prieš piniginės operacijos atlikimą. Finansų įstaigos taip pat privalo nustatyti vidaus politiką ir vidaus kontrolės procedūras, susijusias su rizikos, atsirandančios dėl sąskaitų atidarymo galutinai nenustačius kliento ir naudos gavėjo tapatybės, valdymu.
+
+6. Draudimo įmonės, vykdančios gyvybės draudimo veiklą, ir draudimo brokerių įmonės, vykdančios su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, papildomai nustato ir patikrina draudimo sutartyje nurodyto asmens, turinčio teisę gauti draudimo išmoką, arba asmens, turinčio teisę gauti draudimo išmoką vadovaujantis teisės aktais (toliau – išmokos gavėjas), tapatybę:
+
+1) surenka pakankamai informacijos apie išmokų gavėjus, kurie nurodomi pagal požymius ar klasę arba kitais būdais, kad įsitikintų, jog galės nustatyti jų tapatybę išmokėdami išmokas arba išmokos gavėjui pareiškus norą pasinaudoti draudimo liudijime numatytomis teisėmis gauti išmoką;
+
+2) fiksuoja konkrečiai įvardyto išmokos gavėjo – fizinio asmens vardą, pavardę, asmens kodą (arba gimimo datą, arba leidimo gyventi Lietuvos Respublikoje numerį) ir pilietybę (jeigu asmuo be pilietybės, – valstybę, kuri išdavė asmens tapatybę patvirtinantį dokumentą); juridinio asmens pavadinimą, kodą (jeigu toks kodas yra suteiktas), teisinę formą, buveinę (adresą).
+
+7. Visais šio straipsnio 6 dalyje nurodytais atvejais išmokos gavėjo tapatybė turi būti patikrinama, o jeigu nebuvo nustatyta, nustatoma, išmokant išmokas arba išmokos gavėjui pareiškus norą pasinaudoti draudimo liudijime numatytomis teisėmis gauti išmoką. Šio straipsnio 6 dalyje nurodytos įmonės gali nustatyti draudimo sutartyje nurodyto išmokos gavėjo tapatybę po to, kai dalykiniai santykiai yra pradėti.
+
+8. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami klientų – patikos ar į patiką panašios formos subjektų – tapatybę, privalo nustatyti ir patikrinti naudos gavėjų tapatybę, gaudami informaciją apie patikėtoją, patikėtinį (patikėtinius), patikos saugotoją (saugotojus), naudos gavėją (gavėjus) ir kitus fizinius asmenis, kurie kontroliuoja patikos ar į patiką panašios formos subjektų valdymą (turėdami tam tikrą nuosavybės teisių dalį ar kitaip kontroliuodami).
+
+9. Azartinius lošimus organizuojančios bendrovės papildomai privalo nustatyti (išskyrus atvejus, kai kliento ir naudos gavėjo tapatybė jau yra nustatyta) ir patikrinti kliento tapatybę bei jį registruoti sumos įmokėjimo, laimėjimo išmokėjimo metu arba kai jis keičia grynuosius pinigus į žetonus arba žetonus į grynuosius pinigus, jeigu pinigų suma viršija 1 000 eurų arba ją atitinkančią sumą kita valiuta, nesvarbu, ar sandoris atliekamas vienos, ar kelių susijusių operacijų metu, taip pat patikrinti kliento, įeinančio į lošimo namus (kazino), tapatybę ir jį registruoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+10. Loterijas organizuojančios bendrovės papildomai privalo nustatyti ir patikrinti kliento tapatybę bei jį registruoti laimėjimo atsiėmimo atveju, kai laimėjimo vertė viršija 1 000 eurų arba ją atitinkančią sumą užsienio valiuta, nesvarbu, ar sandoris atliekamas vienos, ar kelių susijusių operacijų metu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+11. Kelių tarpusavyje susijusių piniginių operacijų atveju kliento tapatybė turi būti nustatyta iš karto po to, kai nustatoma, kad kelios piniginės operacijos yra tarpusavyje susijusios. Kelios piniginės operacijos laikomos susijusiomis tarpusavyje, jeigu klientas:
+
+1) per parą atlieka kelias pinigų įmokėjimo į sąskaitas operacijas, kurių suma lygi arba viršija 15 000 eurų ar ją atitinkančią sumą užsienio valiuta;
+
+2) per parą atlieka kelias pinigų išėmimo iš sąskaitų operacijas, kurių suma lygi arba viršija 15 000 eurų ar ją atitinkančią sumą užsienio valiuta;
+
+3) per parą atlieka kitas pinigines operacijas arba sudaro sandorius, kurie, finansų įstaigos ar kito įpareigotojo subjekto turimais duomenimis, yra tarpusavyje susiję ir kurių suma lygi arba viršija 15 000 eurų ar ją atitinkančią sumą užsienio valiuta;
+
+4) šio straipsnio 3 dalyje nurodytu atveju per parą atlieka kelias pinigines operacijas arba sudaro sandorius, kurių suma lygi arba viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta;
+
+5) per parą atlieka kelias valiutos keitimo (perkant arba parduodant valiutą) grynaisiais pinigais operacijas, kurių suma lygi arba viršija 3 000 eurų ar ją atitinkančią sumą užsienio valiuta;
+
+6) per parą atlieka grynųjų pinigų keitimo į žetonus arba žetonų keitimo į grynuosius pinigus operacijas, kurių suma viršija 1 000 eurų arba ją atitinkančią sumą užsienio valiuta;
+
+7) šio straipsnio 9 dalyje nurodytais atvejais per parą įmoka sumas ar atsiima kelis laimėjimus, kurių suma viršija 1 000 eurų arba ją atitinkančią sumą užsienio valiuta;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+8) šio straipsnio 10 dalyje nurodytais atvejais vienu metu atsiima kelis laimėjimus, kurių suma viršija 1 000 eurų arba ją atitinkančią sumą užsienio valiuta;
+
+9) per parą atlieka kelias virtualiosios valiutos keitimo operacijas ar sandorius virtualiąja valiuta lėšomis, kurių suma lygi arba viršija 1 000 eurų arba ją atitinkančią sumą užsienio ar virtualiąja valiuta, arba per parą atlieka kelias virtualiosios valiutos įnešimo į depozitinę virtualiųjų valiutų piniginę arba išėmimo iš jos operacijas, kurių suma lygi arba viršija 1 000 eurų arba ją atitinkančią sumą užsienio ar virtualiąja valiuta;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+10) per parą atlieka kelias virtualiosios valiutos įgijimo iš pirminį virtualiosios valiutos siūlymą (ICO) vykdančio asmens operacijas, kurių suma lygi arba viršija 3 000 eurų arba ją atitinkančią sumą virtualiąja valiuta.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+12. Visais atvejais, kai yra nustatoma kliento tapatybė, finansų įstaigos ir kiti įpareigotieji subjektai turi imtis visų atitinkamų, kryptingų ir proporcingų priemonių, kad nustatytų, ar klientas veikia savo vardu, ar yra kontroliuojamas, ir nustatyti naudos gavėją, taip pat, jeigu klientas veikia per atstovą, – ir kliento atstovo tapatybę.
+
+13. Finansų įstaigos ir kiti įpareigotieji subjektai kliento ir naudos gavėjo tapatybės nustatymo metu privalo iš jų reikalauti dokumentų ir kitų duomenų, kuriais remiantis finansų įstaigoms ir kitiems įpareigotiesiems subjektams būtų suprantama kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūra ir veiklos pobūdis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+14. Visais atvejais, kai yra nustatoma kliento ir naudos gavėjo tapatybė, finansų įstaigos ir kiti įpareigotieji subjektai privalo iš kliento gauti informaciją apie kliento dalykinių santykių tikslą ir numatomą pobūdį.
+
+15. Visais atvejais, kai yra nustatoma kliento ir naudos gavėjo tapatybė, finansų įstaigos ir kiti įpareigotieji subjektai privalo tikrinti kliento ir naudos gavėjo tapatybę, remdamiesi dokumentais, duomenimis ar informacija, gauta iš patikimo ir nepriklausomo šaltinio. Tais atvejais, kai naudos gavėju nustatytas vyresniojo vadovo pareigas einantis fizinis asmuo, kaip nurodyta šio įstatymo 2 straipsnio 14 dalies 1 punkto b papunktyje, finansų įstaigos ir kiti įpareigotieji subjektai privalo patikrinti vyresniojo vadovo pareigas einančio fizinio asmens tapatybę ir saugoti įrašus apie atliktus veiksmus ir patikrinimo proceso metu iškilusius sunkumus, jeigu tokių buvo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+16. Finansų įstaigos ir kiti įpareigotieji subjektai visais atvejais privalo vykdyti nuolatinę kliento dalykinių santykių stebėseną, įskaitant sandorių, kurie buvo sudaryti tokių santykių metu, tyrimą, siekiant užtikrinti, kad vykdomi sandoriai atitiktų finansų įstaigų ar kitų įpareigotųjų subjektų turimą informaciją apie klientą, jo verslą, rizikos pobūdį ir lėšų šaltinį.
+
+17. Siekiant užtikrinti, kad kliento ir naudos gavėjo tapatybės nustatymo metu pateikti dokumentai, duomenys ar informacija yra tinkami ir aktualūs, jie finansų įstaigų ir kitų įpareigotųjų subjektų privalo būti nuolat peržiūrimi ir atnaujinami.
+
+18. Finansų įstaigoms ir kitiems įpareigotiesiems subjektams draudžiama vykdyti sandorius per banko sąskaitas, užmegzti ar tęsti dalykinius santykius, vykdyti sandorius, kai jie neturi galimybių įvykdyti šiame straipsnyje nustatytų reikalavimų: jeigu klientas šio įstatymo nustatytais atvejais nepateikia duomenų, patvirtinančių jo tapatybę, jeigu pateikia ne visus duomenis arba jie yra neteisingi, jeigu klientas ar jo atstovas vengia pateikti informaciją, reikalingą jo tapatybei nustatyti, slepia naudos gavėjo tapatybę ar vengia pateikti informaciją, reikalingą naudos gavėjo tapatybei nustatyti, arba pateiktų duomenų tam neužtenka; jeigu finansų įstaiga ar kitas įpareigotasis subjektas negali užtikrinti šio straipsnio 12–16 dalyse nurodytų reikalavimų vykdymo. Tokiais atvejais finansų įstaigos ir kiti įpareigotieji subjektai, įvertinę keliamą pinigų plovimo ir (ar) teroristų finansavimo grėsmę, sprendžia dėl pranešimo apie įtartiną piniginę operaciją ar sandorį perdavimo Finansinių nusikaltimų tyrimo tarnybai tikslingumo.
+
+19. Šio straipsnio 18 dalis netaikoma notarams, notaro atstovams ir teisę atlikti notarinius veiksmus turintiems asmenims, auditoriams, antstoliams ir antstolio atstovams, buhalterinės apskaitos ar mokesčių konsultavimo paslaugas teikiančioms įmonėms tuo metu, kai jie vertina savo kliento teisinę padėtį, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo. Šio straipsnio 18 dalis netaikoma advokatams ir advokatų padėjėjams, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo.
+
+20. Šio straipsnio 1 dalies 1, 2, 6 punktai, 12, 14–17 dalys netaikomi, kai finansų įstaigos ar kito įpareigotojo subjekto klientas yra kita finansų įstaiga arba finansų įstaiga, registruota kitoje Europos Sąjungos valstybėje narėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingų institucijų prižiūrima dėl šių reikalavimų laikymosi.
+
+21. Finansų įstaigoms draudžiama išduoti anonimines indėlininkų knygeles arba nuomoti anoniminius banko seifus, atidaryti anonimines sąskaitas ar sąskaitas akivaizdžiai fiktyviais vardais, taip pat atidaryti sąskaitas ar kitaip pradėti dalykinius santykius nepareikalavus kliento tapatybę patvirtinančių duomenų arba kilus pagrįstam įtarimui, kad šiuose dokumentuose įrašyti duomenys yra netikri ar suklastoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+22. Jeigu kliento tapatybės nustatymo metu finansų įstaigai ar kitam įpareigotajam subjektui kyla įtarimų, kad atliekama pinigų plovimo ir (ar) teroristų finansavimo veika, o tolesnis kliento ir naudos gavėjo tapatybės nustatymo procesas klientui gali sukelti įtarimų, kad informacija apie jį gali būti perduota kompetentingoms teisėsaugos institucijoms, finansų įstaigos ir kiti įpareigotieji subjektai gali netęsti kliento ir naudos gavėjo tapatybės nustatymo proceso ir nepradėti dalykinių santykių su klientu. Šiais atvejais informacija perduodama Finansinių nusikaltimų tyrimo tarnybai šio įstatymo 16 straipsnyje nustatyta tvarka.
+
+23. Finansų įstaigos ir kiti įpareigotieji subjektai kliento ir naudos gavėjo tapatybės nustatymo priemones privalo taikyti ne tik naujiems, bet ir esamiems klientams, atsižvelgdami į rizikos lygį, iškilus naujoms aplinkybėms ar atsiradus naujai informacijai, susijusiai su kliento, naudos gavėjo rizikos lygio nustatymu, jų tapatybės informacija, jų veikla ir kitomis reikšmingomis aplinkybėmis, taip pat tais atvejais, kai kyla prievolė pateikti informaciją pagal 2015 m. rugsėjo 23 d. Lietuvos Respublikos Vyriausybės nutarimo Nr. 1017 „Dėl 2011 m. vasario 15 d. Tarybos direktyvos 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinančio Direktyvą 77/799/EEB ir Lietuvos Respublikos tarptautinių sutarčių ir susitarimų dėl automatinių informacijos apie finansines sąskaitas mainų įgyvendinimo“ 2 punktą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+24. Finansų įstaigos ir kiti įpareigotieji subjektai nėra atsakingi klientui už sutartinių įsipareigojimų nevykdymą ir žalą, padarytą dėl kliento piniginių operacijų ar sandorių nevykdymo, jeigu finansų įstaigos ir kiti įpareigotieji subjektai kliento piniginių operacijų ar sandorių nevykdė dėl šio straipsnio 18 dalyje nurodytų priežasčių.
 
 10 straipsnis. Kliento ir naudos gavėjo tapatybės nustatymo reikalavimai, kai tapatybė nustatoma klientui dalyvaujant fiziškai
 
