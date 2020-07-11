@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2020-06-23"
+last_updated: "2020-07-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2020-06-23 iki 2020-07-10
+Suvestinė redakcija nuo 2020-07-11 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -2415,7 +2415,11 @@ PRAŠYMŲ DĖL PROCESO ATNAUJINIMO PADAVIMAS
 
 2. Procesas gali būti atnaujinamas esant šiems pagrindams:
 
-1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismo sprendimas byloje prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir jos papildomiems protokolams;
+1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismo sprendimas byloje prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir jos papildomiems protokolams, arba kai Jungtinių Tautų Žmogaus teisių komitetas pripažįsta, kad Lietuvos Respublikos teismo sprendimu pažeista Tarptautiniame pilietinių ir politinių teisių pakte nustatyta asmens teisė;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3221, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15516
 
 2) naujai paaiškėja esminės bylos aplinkybės, kurios nebuvo ir negalėjo būti žinomos pareiškėjui bylos nagrinėjimo metu;
 
