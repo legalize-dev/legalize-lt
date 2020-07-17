@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2020-07-01"
+last_updated: "2020-07-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-16
+Suvestinė redakcija nuo 2020-07-17 iki 2020-09-09
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -2005,11 +2005,13 @@ MOKESTINIS PATIKRINIMAS
 
 3. Lietuvos Respublikos Seimas turi užtikrinti, kad Lietuvos Respublikos mokesčių įstatymai, nustatantys naują mokestį, naują mokesčio tarifą, mokesčio lengvatą, sankcijas už mokesčių įstatymų pažeidimus arba iš esmės pakeičiantys apmokestinimo tam tikru mokesčiu tvarką ar apmokestinimo teisinio reglamentavimo bei taikymo principus, įsigaliotų ne anksčiau kaip po šešių mėnesių nuo jų paskelbimo dienos.
 
-4. Šio straipsnio 3 dalis netaikoma su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimams, teisės aktams, kurie derinami su Europos Sąjungos teisės aktų nuostatomis, taip pat Lietuvos Respublikos mokesčių įstatymams, reikalingiems susidarius išskirtinėms aplinkybėms, kaip jos apibrėžtos Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme.
+4. Šio straipsnio 3 dalis netaikoma su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimams, teisės aktams, kurie derinami su Europos Sąjungos teisės aktų nuostatomis, Lietuvos Respublikos mokesčių įstatymams, reikalingiems susidarius išskirtinėms aplinkybėms, kaip jos apibrėžtos Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, taip pat kai šie įstatymai reikalingi nepaprastosios padėties įvedimo tikslams pasiekti ar valstybės gynybai, kitoms gyvybiškai svarbioms valstybės funkcijoms mobilizacijos ar karo padėties metu atlikti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3086, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14361
+
+Nr. XIII-3238, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15875
 
 5. Visi Lietuvos Respublikos mokesčių teisės aktų prieštaravimai ar neaiškumai aiškinami mokesčių mokėtojo naudai.
 
