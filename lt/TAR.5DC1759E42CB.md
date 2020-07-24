@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2020-07-01"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-23
+Suvestinė redakcija nuo 2020-07-24 iki 2020-08-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -1388,7 +1388,19 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 7. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta du kartus už tai, kad jis padarė teisės pažeidimą būdamas neblaivus arba apsvaigęs nuo narkotikų, vaistų ar kitų svaigiųjų medžiagų, teisė vairuoti transporto priemones grąžinama ne anksčiau kaip po 10 metų.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 24 straipsnio 7 dalis (2013 m. birželio 13 d. redakcija; Žin., 2013, Nr. 68-3401) prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 5 daliai, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT133-N10/2020, 2020-07-24, paskelbta TAR 2020-07-24, i. k. 2020-16411
+
 8. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta tris kartus, teisė vairuoti transporto priemones grąžinama ne anksčiau kaip po 10 metų.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 24 straipsnio 8 dalis (2013 m. birželio 13 d. redakcija; Žin., 2013, Nr. 68-3401) prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 5 daliai, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT133-N10/2020, 2020-07-24, paskelbta TAR 2020-07-24, i. k. 2020-16411
 
 9. Vairuotojas, kuris, būdamas pradedantysis vairuotojas, pažeidė KET reikalavimą (reikalavimus), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba sukėlė eismo įvykį, dėl kurio buvo sutrikdyta eismo dalyvio sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn), ir per šio įstatymo 22 straipsnio 5 dalyje nustatytus terminus nebaigė papildomo vairuotojų mokymo, praranda teisę vairuoti transporto priemones. Šiuo atveju vairuotojui teisė vairuoti transporto priemones grąžinama tik perlaikius vairavimo egzaminą ir išduodamas 3 metus galiojantis vairuotojo pažymėjimas, kurį jis turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą šio įstatymo 22 straipsnyje nustatyta tvarka.
 
