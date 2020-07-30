@@ -4,7 +4,7 @@ identifier: "TAR.B4FA4C56B8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2020-06-30"
+last_updated: "2020-07-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
 
 LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-06-30 iki 2020-07-29
+Suvestinė redakcija nuo 2020-07-30 iki 2020-08-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
 
@@ -412,17 +412,27 @@ Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
 
 1. Rengiant teisės akto, kuriuo numatoma reglamentuoti iki tol nereglamentuotus santykius, taip pat kuriuo iš esmės keičiamas teisinis reguliavimas, projektą, privalo būti atliekamas numatomo teisinio reguliavimo poveikio vertinimas. Šio vertinimo išsamumas turi būti proporcingas galimoms numatomo teisinio reguliavimo pasekmėms. Sprendimą dėl numatomo teisinio reguliavimo poveikio vertinimo priima teisės akto projekto rengėjas.
 
-2. Atliekant numatomo teisinio reguliavimo poveikio vertinimą, nustatomas galimas teigiamas ir neigiamas poveikis to teisinio reguliavimo sričiai, asmenims ar jų grupėms, kuriems bus taikomas numatomas teisinis reguliavimas. Atsižvelgiant į teisės akte numatomo naujo teisinio reguliavimo pobūdį, mastą, turi būti įvertinamas poveikis ekonomikai, konkurencijai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei situacijai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai ir kitoms sritims.
+2. Atliekant numatomo teisinio reguliavimo poveikio vertinimą, nustatomas galimas teigiamas ir neigiamas poveikis to teisinio reguliavimo sričiai, asmenims ar jų grupėms, kuriems bus taikomas numatomas teisinis reguliavimas. Atsižvelgiant į teisės akte numatomo naujo teisinio reguliavimo pobūdį, mastą, turi būti įvertinamas poveikis ekonomikai, konkurencijai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei situacijai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai, reglamentuojamoms profesijoms ir kitoms sritims.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2220, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10162
 
+Nr. XIII-2986, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12791
+
 3. Įstatymo ar kito Seimo teisės akto projekte numatomo teisinio reguliavimo poveikio vertinimo rezultatai pateikiami aiškinamajame rašte arba atskiru dokumentu. Rengiant kitus teisės aktų projektus, numatomo teisinio reguliavimo poveikio vertinimo rezultatai pateikiami Vyriausybės ar jos įgaliotos institucijos, savivaldybės tarybos ar jos įgaliotos institucijos nustatyta tvarka.
 
-16 straipsnis. Numatomo teisinio reguliavimo poveikio korupcijos mastui vertinimas
+16 straipsnis. Numatomo teisinio reguliavimo poveikio korupcijos mastui, konkurencijai ir reglamentuojamoms profesijoms vertinimas
 
-Numatomo teisinio reguliavimo poveikio korupcijos mastui vertinimas (teisės aktų ar jų projektų antikorupcinis vertinimas) atliekamas Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais. Šio vertinimo tvarką nustato Vyriausybė.
+1. Numatomo teisinio reguliavimo poveikio korupcijos mastui vertinimas (teisės aktų ar jų projektų antikorupcinis vertinimas) atliekamas Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais. Šio vertinimo tvarką nustato Vyriausybė.
+
+2. Lietuvos Respublikos konkurencijos įstatymo nustatytais atvejais teisės aktų projektų rengėjai atlieka teisės aktų projektų poveikio konkurencijai vertinimą. Šio vertinimo tvarką nustato Vyriausybė.
+
+3. Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo nustatytais atvejais teisės aktų projektų rengėjai atlieka teisės aktų projektų, susijusių su reglamentuojamomis profesijomis, proporcingumo vertinimą. Šio vertinimo tvarką nustato Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2986, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12791
 
 17 straipsnis. Teisės aktų projektų rengimas elektroniniu būdu Teisės aktų informacinėje sistemoje
 
@@ -730,13 +740,19 @@ Nr. XIII-3085, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14360
 
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 20 straipsnio pakeitimo įstatymas
 
-161 straipsnis. Numatomo teisinio reguliavimo poveikio konkurencijai vertinimas
+9.
 
-Lietuvos Respublikos konkurencijos įstatymo nustatytais atvejais teisės aktų projektų rengėjai atlieka teisės aktų projektų poveikio konkurencijai vertinimą. Šio vertinimo tvarką nustato Vyriausybė.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Papildyta straipsniu:
+Nr. XIII-2986, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12791
 
-Nr. XIII-2220, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10162
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15, 16 straipsnių pakeitimo ir 16-1 straipsnio pripažinimo netekusiu galios įstatymas
+
+161 straipsnis. Neteko galios nuo 2020-07-30
+
+Straipsnio naikinimas:
+
+Nr. XIII-2986, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12791
 
 241 straipsnis. Galiojančio teisinio reguliavimo poveikio ex post vertinimo subjektai
 
