@@ -4,7 +4,7 @@ identifier: "TAR.074B2F6259F9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-04-03"
-last_updated: "2020-06-12"
+last_updated: "2020-07-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.074B2F6259F9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas
 
-Suvestinė redakcija nuo 2020-06-12 iki 2020-07-29
+Suvestinė redakcija nuo 2020-07-30 iki 2023-04-30
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 47-1747, i. k. 1081010ISTA00X-1478
 
@@ -794,33 +794,15 @@ BENDROSIOS PRAKTIKOS SLAUGYTOJAI
 
 Bendrosios praktikos slaugytojų profesine veikla gali užsiimti asmenys, turintys šio įstatymo 3 priedo 3.2.2 papunktyje nurodytą formalios kvalifikacijos įrodymą.
 
-31 straipsnis. Bendrosios praktikos slaugytojų įgytos teisės
+31 straipsnis. Proporcingumo vertinimas
 
-1. Taikant bendrąsias įgytų teisių taisykles bendrosios praktikos slaugytojams, šio įstatymo 21 straipsnyje nurodyta veikla turi apimti visišką atsakomybę už paciento slaugymo planavimą, organizavimą ir administravimą.
+1. Teisės akto projekto rengėjas, prieš nustatydamas naują ar keisdamas esamą teisinį reguliavimą, kurio nuostatomis ribojama galimybė užsiimti reglamentuojama profesija ar ja verstis (toliau – nuostatos), privalo atlikti tų nuostatų proporcingumo vertinimą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-2. Lietuvos Respublikos kompetentinga institucija pripažįsta slaugos formalios kvalifikacijos įrodymą, kuris:
+2. Atlikto proporcingumo vertinimo išvada pateikiama profesinių kvalifikacijų pripažinimo koordinatoriui.
 
-1) buvo išduotas Lenkijoje slaugytojams, kurie anksčiau nei 2004 m. gegužės 1 d. baigė rengimą, neatitinkantį šio įstatymo 29 straipsnio 3 dalyje nustatytų būtiniausių rengimo reikalavimų, ir
+Papildyta straipsniu:
 
-2) yra patvirtintas bakalauro diplomu, kuris buvo gautas pagal specialią tobulinimo programą, nurodytą:
-
-a) 2004 m. balandžio 20 d. Akto, kuriuo iš dalies keičiamas „Aktas „Dėl slaugytojo ir akušerio profesijų ir kitų teisės aktų“ dalinio pakeitimo“, 11 straipsnyje (2004 m. Lenkijos Respublikos oficialusis leidinys Nr. 92, 885 pozicija, 2007 m. Lenkijos Respublikos oficialusis leidinys Nr. 176, 1237 pozicija) ir 2004 m. gegužės 11 d. Sveikatos apsaugos ministro reglamente „Dėl slaugytojų ir akušerių, turinčių vidurinės mokyklos baigimo pažymėjimą (brandos egzaminai – matura) ir baigusių medicinos licėjų ir medicinos profesines mokyklas, kuriuose mokoma slaugytojo ir akušerio profesijų, išsamių studijų reikalavimų“ (2004 m. Lenkijos Respublikos oficialusis leidinys Nr. 110, 1170 pozicija, ir 2010 m. Lenkijos Respublikos oficialusis leidinys Nr. 65, 420 pozicija) arba
-
-b) 2011 m. liepos 15 d. Įstatymo „Dėl slaugytojo ir akušerio profesijų“ 52 straipsnio 3 dalyje (2011 m. Lenkijos Respublikos oficialusis leidinys Nr. 174, 1039 pozicija) ir 2012 m. birželio 14 d. Sveikatos apsaugos ministro reglamente „Dėl slaugytojų ir akušerių, turinčių vidurinės mokyklos baigimo pažymėjimą (brandos egzaminai – matura) ir baigusių medicinos vidurinius arba aukštesniuosius mokymus, kuriuose mokoma slaugytojo ir akušerio profesijų, išsamių aukštojo mokymo kursų reikalavimų“ (2012 m. Lenkijos Respublikos oficialusis leidinys, 770 pozicija), siekiant patikrinti, ar atitinkamo slaugytojo žinios ir kompetencijos prilygsta slaugytojų, turinčių kvalifikaciją, kuri Lenkijai išvardyta šio įstatymo 3 priedo 3.2.2 papunktyje, žinioms ir kompetencijoms.
-
-3. Rumunijos bendrosios praktikos slaugytojų kvalifikacijai taikomos tik šio straipsnio 4 dalies nuostatos dėl įgytų teisių.
-
-4. Lietuvos Respublikos kompetentinga institucija kaip pakankamą įrodymą pripažįsta valstybių narių piliečių, kurie dalyvavo bendrosios praktikos slaugytojų rengimuose Rumunijoje ir kurių rengimas neatitinka šio įstatymo 29 straipsnio 3 dalyje nustatytų būtiniausių rengimo reikalavimų, toliau nurodytus bendrosios praktikos slaugytojo formalios kvalifikacijos įrodymus, su sąlyga, kad kartu su tuo įrodymu pateikiamas pažymėjimas, kuriame nurodyta, jog tos valstybės narės piliečiai bent trejus metus iš eilės per penkerius metus iki tokio pažymėjimo išdavimo dienos faktiškai ir teisėtai užsiėmė bendrosios praktikos slaugytojo veikla Rumunijoje, įskaitant visiškos atsakomybės už pacientų slaugymo veiklos planavimą, organizavimą ir vykdymą prisiėmimą:
-
-1) „Certificat de competențe profesionale de asistent medical generalist“ su lavinimo po vidurinės mokyklos, kuris įgytas școală postliceală, pažymėjimu, patvirtinant, kad rengimas prasidėjo iki 2007 m. sausio 1 d.;
-
-2) „Diplomă de absolvire de asistent medical generalist“ su trumpalaikėmis aukštojo mokslo studijomis, patvirtinant, kad rengimas prasidėjo iki 2003 m. spalio 1 d.;
-
-3) „Diplomă de licență de asistent medical generalist“ su ilgalaikėmis aukštojo mokslo studijomis, patvirtinant, kad rengimas prasidėjo iki 2003 m. spalio 1 d.
-
-KETVIRTASIS SKIRSNIS
-
-GYDYTOJAI ODONTOLOGAI
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
 32 straipsnis. Pagrindinis gydytojų odontologų rengimas
 
@@ -1306,13 +1288,29 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
 4. Lietuvos Respublikos kompetentingos institucijos nagrinėja aplinkybių, nurodytų šio straipsnio 2 dalyje, tikrumą ir priima sprendimus dėl tyrimų, kuriuos reikia atlikti, pobūdžio ir masto. Lietuvos Respublikos kompetentingos institucijos praneša kitai valstybei narei apie padarytas išvadas jos nustatyta tvarka.
 
-5. Lietuvos Respublikos kompetentingos institucijos, vadovaudamosi šio straipsnio 1–4 dalių nuostatomis, keisdamosi informacija naudojasi IMI.
+41. Lietuvos Respublikos kompetentingos institucijos su kitų valstybių narių kompetentingomis institucijomis keičiasi informacija apie nuostatų proporcingumo vertinimą, konkrečių profesijų reglamentavimo sąlygas ar reglamentavimo poveikį reglamentuojama profesija užsiimantiems asmenims. Kompetentinga institucija ir kiti suinteresuoti subjektai turi teisę teikti pastabas kitai valstybei narei ar Europos Komisijai apie priimtas nuostatas ar jas pagrindžiantį proporcingumo vertinimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
+
+5. Lietuvos Respublikos kompetentingos institucijos, vadovaudamosi šio straipsnio 1–41 dalių nuostatomis, keisdamosi informacija naudojasi IMI.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
 6. Lietuvos Respublikos Vyriausybė paskiria kompetentingas institucijas. Lietuvos Respublikos kompetentingos institucijos gali būti paskirtos įstatymu. Įstatymų nustatytais atvejais kompetentingomis institucijomis gali būti skiriamos reglamentuojamų profesijų savivaldą įgyvendinančios asociacijos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
+
+7. Vadovaudamosi šio įstatymo 59 straipsnio 4 dalies 3 punktu, kompetentingos institucijos nuostatas ir jų proporcingumo vertinimą įtraukia į Europos Komisijos reglamentuojamų profesijų duomenų bazę ir praneša apie tai Europos Komisijai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
 59 straipsnis. Profesinių kvalifikacijų pripažinimo koordinatorius
 
@@ -1325,6 +1323,12 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 2) renka informaciją, kuri reikalinga šio įstatymo nuostatoms įgyvendinti;
 
 3) praneša kitoms valstybėms narėms ir Europos Komisijai apie Lietuvos Respublikos kompetentingas institucijas ir reglamentuojamų profesijų savivaldą įgyvendinančias asociacijas, nurodytas šio įstatymo 58 straipsnio 6 dalyje;
+
+31) stebi, kaip priimtos nuostatos taikomos praktikoje, ir, kilus abejonių dėl jų atitikties proporcingumo principui, kaip jis apibrėžtas Lietuvos Respublikos teisėkūros pagrindų įstatyme, atsižvelgdamas į pokyčius, įvykusius po atitinkamų nuostatų priėmimo, atsakingai institucijai teikia pasiūlymus dėl nuostatų peržiūros, kad būtų pakartotinai įvertinta jų atitiktis proporcingumo principui;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
 4) dalyvauja Europos Komisijos Profesinių kvalifikacijų pripažinimo komiteto veikloje;
 
@@ -1344,7 +1348,13 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
 12) inicijuoja įvairių klausimų dėl reglamentuojamų profesinių kvalifikacijų pripažinimo sprendimą;
 
-13) pagal kompetenciją užtikrina vienodą šio įstatymo nuostatų taikymą.
+13) pagal kompetenciją užtikrina vienodą šio įstatymo nuostatų taikymą;
+
+14) teikia išvadas dėl institucijų pateiktų teisės aktų projektų proporcingumo vertinimo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
 3. Profesinių kvalifikacijų pripažinimo koordinatorius turi teisę gauti informaciją iš Lietuvos Respublikos kompetentingų institucijų ar reglamentuojamų profesijų savivaldą įgyvendinančių asociacijų, nurodytų šio įstatymo 58 straipsnio 6 dalyje, ir 62 straipsnyje nurodyto Lietuvos Respublikos pagalbos centro šio straipsnio 2 dalyje numatytoms pareigoms atlikti.
 
@@ -1590,7 +1600,7 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -1760,6 +1770,8 @@ Priedo pakeitimai:
 
 Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 
+part_0e08ace611254ce680fafea6eab66c95_end
+
 Lietuvos Respublikos
 
 reglamentuojamų profesinių
@@ -1840,7 +1852,7 @@ Pagrindinė grupė
 
 Pagrindinė grupė
 
-37   elektros įrenginių pramonė 371 elektros laidų ir kabelių gamyba 372   elektros variklių, generatorių ir transformatorių, elektros srovės paskirstymo aparatūros ir kitų panašių įrenginių, skirtų elektros energijai tiekti, gamyba 373 elektros įrenginių, skirtų tiesioginiam komerciniam naudojimui, gamyba 374 telekomunikacijos įrangos, skaitiklių, kitų matavimo prietaisų ir elektromedicininės įrangos gamyba 375 elektroninės įrangos, radijo ir televizijos imtuvų audioaparatūros gamyba 376 elektros prietaisų, skirtų naudoti namų ūkyje, gamyba 377 lempų ir apšvietimo įrenginių gamyba 378 galvaninių baterijų ir akumuliatorių gamyba 379 specialistų atliekamas elektros įrenginių taisymas, surinkimas ir instaliavimas
+37   elektros įrenginių pramonė 371 elektros laidų ir kabelių gamyba 372 elektros variklių, generatorių ir transformatorių, elektros srovės paskirstymo aparatūros ir kitų panašių įrenginių, skirtų elektros energijai tiekti, gamyba 373 elektros įrenginių, skirtų tiesioginiam komerciniam naudojimui, gamyba 374 telekomunikacijos įrangos, skaitiklių, kitų matavimo prietaisų ir elektromedicininės įrangos gamyba 375 elektroninės įrangos, radijo ir televizijos imtuvų audioaparatūros gamyba 376 elektros prietaisų, skirtų naudoti namų ūkyje, gamyba 377 lempų ir apšvietimo įrenginių gamyba 378 galvaninių baterijų ir akumuliatorių gamyba 379 specialistų atliekamas elektros įrenginių taisymas, surinkimas ir instaliavimas
 
 Ex pagrindinė grupė
 
@@ -1864,7 +1876,7 @@ NICE nomenklatūra
 
 Pagrindinė grupė
 
-20A  200 gyvulinių ir augalinių riebalų bei aliejaus gamyba 20B  maisto produktų gamyba (išskyrus gėrimų gamybą) 201 mėsos gamyba, paruošimas ir konservavimas 202 pieno produktų gamyba 203 vaisių ir daržovių perdirbimas ir konservavimas 204 žuvies ir kitų jūros produktų perdirbimas ir konservavimas 205 grūdų malimo produktų gamyba 206 konditerijos kepinių, įskaitant džiūvėsėlius ir sausainius, gamyba 207 cukraus gamyba 208 kakavos, šokolado ir cukraus saldumynų gamyba 209 kitų, niekur nepriskirtų, maisto produktų gamyba
+20A 200 gyvulinių ir augalinių riebalų bei aliejaus gamyba 20B maisto produktų gamyba (išskyrus gėrimų gamybą) 201 mėsos gamyba, paruošimas ir konservavimas 202 pieno produktų gamyba 203 vaisių ir daržovių perdirbimas ir konservavimas 204 žuvies ir kitų jūros produktų perdirbimas ir konservavimas 205 grūdų malimo produktų gamyba 206 konditerijos kepinių, įskaitant džiūvėsėlius ir sausainius, gamyba 207 cukraus gamyba 208 kakavos, šokolado ir cukraus saldumynų gamyba 209 kitų, niekur nepriskirtų, maisto produktų gamyba
 
 Pagrindinė grupė
 
