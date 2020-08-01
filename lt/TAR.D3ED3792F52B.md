@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2020-07-08"
+last_updated: "2020-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-07-08 iki 2020-07-31
+Suvestinė redakcija nuo 2020-08-01 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -77,7 +77,11 @@ BENDROSIOS NUOSTATOS
 
 6) lojalumas valstybei. Valstybės tarnautojas turi veikti valstybės interesais, nepažeisti jos konstitucinės santvarkos, prireikus imtis visų teisėtų veiksmų, reikalingų šiai santvarkai apsaugoti;
 
-7) nesavanaudiškumas. Valstybės tarnautojas privalo naudoti jam patikėtą valstybės ir savivaldybių turtą, tarnybinę informaciją tik visuomenės gerovei, eidamas pareigas nesiekti naudos sau ar kitiems su juo susijusiems asmenims (sutuoktiniui, partneriui (kai partnerystė įregistruota įstatymų nustatyta tvarka) (toliau – partneris), artimajam giminaičiui, svainystės ryšiais susijusiam asmeniui ar kitam valstybės tarnautojo viešųjų ir privačių interesų deklaracijoje nurodytam asmeniui); tarnauti išimtinai visuomenės interesams;
+7) nesavanaudiškumas. Valstybės tarnautojas privalo naudoti jam patikėtą valstybės ir savivaldybių turtą, tarnybinę informaciją tik visuomenės gerovei, eidamas pareigas nesiekti naudos sau ar kitiems su juo susijusiems asmenims (sutuoktiniui, partneriui (kai partnerystė įregistruota įstatymų nustatyta tvarka) (toliau – partneris), artimajam giminaičiui, svainystės ryšiais susijusiam asmeniui ar kitam valstybės tarnautojo privačių interesų deklaracijoje nurodytam asmeniui); tarnauti išimtinai visuomenės interesams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 8) sąžiningumas ir nešališkumas. Valstybės tarnautojas privalo būti objektyvus, priimdamas sprendimus vengti asmeniškumų; išklausyti ir pateikti tokią informaciją, kuri padėtų asmeniui priimti tinkamiausią sprendimą; nedemonstruoti savo simpatijų ar antipatijų ir išskirtinio dėmesio atskiriems asmenims ar jų grupėms;
 
@@ -91,7 +95,11 @@ BENDROSIOS NUOSTATOS
 
 13) teisingumas. Valstybės tarnautojas privalo vienodai tarnauti visiems žmonėms, nepaisydamas tautybės, rasės, lyties, kalbos, kilmės, socialinės padėties, religinių įsitikinimų ir politinių pažiūrų; būti teisingas nagrinėdamas prašymus, skundus, pareiškimus, nepiktnaudžiauti jam suteiktomis galiomis; naudoti savo tarnybos laiką efektyviai ir tik tarnybos tikslams;
 
-14) viešumas ir skaidrumas. Valstybės tarnautojo tarnybinė veikla turi būti vieša ir suprantama, atvira įvertinti; valstybės tarnautojas savo veikloje privalo vengti viešųjų ir privačių interesų konflikto. Viešumo principo veikimas gali būti ribojamas siekiant apsaugoti asmens teises, valstybės, tarnybos ar komercinę paslaptį.
+14) viešumas ir skaidrumas. Valstybės tarnautojo tarnybinė veikla turi būti vieša ir suprantama, atvira įvertinti; valstybės tarnautojas savo veikloje privalo vengti Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme nustatyto interesų konflikto (toliau – interesų konfliktas). Viešumo principo veikimas gali būti ribojamas siekiant apsaugoti asmens teises, valstybės, tarnybos ar komercinę paslaptį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 2. Valstybės ar savivaldybės institucijos ar įstaigos vadovas, vadovaudamasis šiame įstatyme įtvirtintais valstybės tarnautojų veiklos ir tarnybinės etikos principais yra atsakingas už tarnybinės etikos politikos formavimą valstybės ar savivaldybės institucijoje, įstaigoje ar įstaigų sistemoje ir kontroliuoja, kaip tarnybinės etikos politika įgyvendinama.
 
@@ -613,7 +621,11 @@ PRIĖMIMAS Į VALSTYBĖS TARNAUTOJŲ PAREIGAS
 
 2) kurio teisę eiti valstybės tarnautojo pareigas yra atėmęs teismas;
 
-3) kurio sutuoktinis, partneris, sugyventinis, jeigu jis nurodytas valstybės tarnautojo viešųjų ir privačių interesų deklaracijoje (toliau – sugyventinis), artimasis giminaitis ar svainystės ryšiais susijęs asmuo eina valstybės tarnautojo pareigas valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu jie pagal pareigas būtų susiję tiesioginio pavaldumo santykiais;
+3) kurio sutuoktinis, partneris, sugyventinis, jeigu jis nurodytas valstybės tarnautojo privačių interesų deklaracijoje (toliau – sugyventinis), artimasis giminaitis ar svainystės ryšiais susijęs asmuo eina valstybės tarnautojo pareigas valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu jie pagal pareigas būtų susiję tiesioginio pavaldumo santykiais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 4) įstatymų nustatyta tvarka pripažintas neveiksniu su valstybės tarnautojo atliekamomis funkcijomis susijusioje srityje;
 
@@ -753,7 +765,11 @@ VALSTYBĖS TARNAUTOJŲ PAREIGOS IR TEISĖS
 
 4) tinkamai atlikti pareigybės aprašyme nustatytas funkcijas ir laiku bei kokybiškai atlikti pavedamas užduotis;
 
-5) laikytis šiame įstatyme, kituose teisės aktuose nustatytų valstybės tarnautojų veiklos ir tarnybinės etikos principų ir taisyklių, vengti viešųjų ir privačių interesų konflikto, teisės aktų nustatyta tvarka deklaruoti privačius interesus, nepiktnaudžiauti tarnyba;
+5) laikytis šiame įstatyme, kituose teisės aktuose nustatytų valstybės tarnautojų veiklos ir tarnybinės etikos principų ir taisyklių, vengti interesų konflikto, teisės aktų nustatyta tvarka deklaruoti privačius interesus, nepiktnaudžiauti tarnyba;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 6) laikytis valstybės ir savivaldybių institucijų ir įstaigų vidaus tvarkos taisyklių;
 
@@ -835,7 +851,11 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 18 straipsnis. Valstybės tarnautojų teisė dirbti kitą darbą
 
-1. Valstybės tarnautojui leidžiama dirbti įmonėse, įstaigose, organizacijose, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, ir gauti už šį darbą darbo užmokestį ar atlyginimą (toliau – dirbti kitą darbą), jeigu tai nesukelia viešųjų ir privačių interesų konflikto valstybės tarnyboje, nesudaro prielaidų valstybės tarnybą panaudoti asmeniniais interesais, nediskredituoja valstybės tarnybos autoriteto, nekliudo asmeniui, einančiam pareigas valstybės tarnyboje, tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai nėra darbas tose įmonėse, įstaigose, organizacijose, kurių atžvilgiu valstybės tarnautojas turi valdingus įgaliojimus arba kontroliuoja, prižiūri jų veiklą arba priima kokius nors kitus sprendimus dėl tos įmonės, įstaigos ar organizacijos, ir kai nėra kitų aplinkybių, dėl kurių valstybės tarnautojai negali dirbti kito darbo ir gauti už šį darbą darbo užmokestį ar atlyginimą.
+1. Valstybės tarnautojui leidžiama dirbti įmonėse, įstaigose, organizacijose, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, ir gauti už šį darbą darbo užmokestį ar atlyginimą (toliau – dirbti kitą darbą), jeigu tai nesukelia interesų konflikto valstybės tarnyboje, nesudaro prielaidų valstybės tarnybą panaudoti privačiais interesais, nediskredituoja valstybės tarnybos autoriteto, nekliudo asmeniui, einančiam pareigas valstybės tarnyboje, tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai nėra darbas tose įmonėse, įstaigose, organizacijose, kurių atžvilgiu valstybės tarnautojas turi valdingus įgaliojimus arba kontroliuoja, prižiūri jų veiklą arba priima kokius nors kitus sprendimus dėl tos įmonės, įstaigos ar organizacijos, ir kai nėra kitų aplinkybių, dėl kurių valstybės tarnautojai negali dirbti kito darbo ir gauti už šį darbą darbo užmokestį ar atlyginimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 2. Sprendimą dėl leidimo valstybės tarnautojui dirbti kitą darbą pagal darbo sutartį priima valstybės tarnautoją į pareigas priimantis asmuo valstybės tarnautojo prašymu. Valstybės tarnautojų prašymai leisti dirbti kitą darbą pagal darbo sutartį nagrinėjami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
@@ -849,7 +869,11 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 1. Valstybės tarnautojui draudžiama:
 
-1) užsiimti bet kokia veikla, jeigu tai sukelia viešųjų ir privačių interesų konfliktą valstybės tarnyboje;
+1) užsiimti bet kokia veikla, jeigu tai sukelia interesų konfliktą valstybės tarnyboje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 2) eiti daugiau negu vienas valstybės tarnautojo pareigas, dirbti pagal darbo sutartį valstybės ir savivaldybės institucijoje ar įstaigoje, kurioje jis eina valstybės tarnautojo pareigas, taip pat gauti iš valstybės ir savivaldybės institucijos ar įstaigos, kurioje jis eina valstybės tarnautojo pareigas, kitų pajamų negu darbo užmokestis ir šiame įstatyme nustatytos išmokos, kompensacijos ir pašalpos. Seimo nario patarėjas ir Seimo nario padėjėjas (toliau – Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojas) gali eiti ne vienas Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas pas tą patį Seimo narį ar skirtingus tai pačiai frakcijai priklausančius Seimo narius arba eiti Seimo frakcijos, kuriai priklauso Seimo narys, referento pareigas, bet jo darbo laikas einant visas šias pareigas negali būti ilgesnis kaip 60 valandų per savaitę.
 
@@ -1181,7 +1205,11 @@ Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 4) piktnaudžiavimas tarnyba;
 
-5) šiurkštus Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimų pažeidimas;
+5) šiurkštus Viešųjų ir privačių interesų derinimo įstatymo nuostatų pažeidimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 6) dalyvavimas su valstybės tarnyba nesuderinamoje veikloje;
 
@@ -1195,7 +1223,11 @@ Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 34 straipsnis. Tarnybinių nuobaudų skyrimas
 
-1. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį valstybės tarnautojas nebuvo darbe dėl ligos, buvo komandiruotėje arba atostogavo, o iškėlus baudžiamąją bylą arba Seimo kontrolieriui atliekant tyrimą, taip pat atliekant tarnybinį ar kitą kompetentingos institucijos patikrinimą, tarnybinio nusižengimo tyrimą šio straipsnio 2 dalies 1 punkte numatytu atveju, – ne vėliau kaip per 2 mėnesius nuo baudžiamosios bylos nutraukimo arba teismo nuosprendžio įsiteisėjimo dienos, Seimo kontrolieriaus pažymos surašymo, tarnybinio ar kito kompetentingos institucijos patikrinimo užbaigimo, motyvuotos išvados apie tyrimo rezultatus šio straipsnio 2 dalies 1 punkte numatytu atveju surašymo dienos. Valstybės tarnautoją į pareigas priimantis asmuo arba, jeigu valstybės tarnautoją į pareigas priima Seimas, Vyriausybė, savivaldybės taryba, – atitinkamai Seimo Pirmininkas, Ministras Pirmininkas, savivaldybės meras pradeda tarnybinio nusižengimo tyrimą savo sprendimu arba kai jie gauna oficialią informaciją apie valstybės tarnautojo tarnybinį nusižengimą. Jeigu įsiteisėjusiame teismo sprendime konstatuota, kad valstybės ar savivaldybės institucija ar įstaiga pažeidė įstatymus ar kitus teisės aktus, šioje valstybės ar savivaldybės institucijoje ar įstaigoje turi būti pradėtas valstybės tarnautojų, dėl kurių galimos kaltės buvo padaryti įsiteisėjusiame teismo sprendime konstatuoti įstatymų ar kitų teisės aktų pažeidimai, tarnybinio nusižengimo tyrimas. Tarnybinė nuobauda neskiriama, jeigu nuo nusižengimo padarymo dienos praėjo 6 mėnesiai, išskyrus atvejus, kai tarnybinis nusižengimas nustatomas atliekant auditą, piniginių ar kitokių vertybių reviziją (inventorizaciją) arba kai Seimo kontrolierius atlieka tyrimą, taip pat kai atliekamas tarnybinis ar kitas kompetentingos institucijos patikrinimas arba kai yra pažeidžiamos Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatos. Šiais atvejais tarnybinė nuobauda skiriama ne vėliau kaip per 3 metus nuo nusižengimo padarymo dienos.
+1. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį valstybės tarnautojas nebuvo darbe dėl ligos, buvo komandiruotėje arba atostogavo, o iškėlus baudžiamąją bylą arba Seimo kontrolieriui atliekant tyrimą, taip pat atliekant tarnybinį ar kitą kompetentingos institucijos patikrinimą, tarnybinio nusižengimo tyrimą šio straipsnio 2 dalies 1 punkte numatytu atveju, – ne vėliau kaip per 2 mėnesius nuo baudžiamosios bylos nutraukimo arba teismo nuosprendžio įsiteisėjimo dienos, Seimo kontrolieriaus pažymos surašymo, tarnybinio ar kito kompetentingos institucijos patikrinimo užbaigimo, motyvuotos išvados apie tyrimo rezultatus šio straipsnio 2 dalies 1 punkte numatytu atveju surašymo dienos. Valstybės tarnautoją į pareigas priimantis asmuo arba, jeigu valstybės tarnautoją į pareigas priima Seimas, Vyriausybė, savivaldybės taryba, – atitinkamai Seimo Pirmininkas, Ministras Pirmininkas, savivaldybės meras pradeda tarnybinio nusižengimo tyrimą savo sprendimu arba kai jie gauna oficialią informaciją apie valstybės tarnautojo tarnybinį nusižengimą. Jeigu įsiteisėjusiame teismo sprendime konstatuota, kad valstybės ar savivaldybės institucija ar įstaiga pažeidė įstatymus ar kitus teisės aktus, šioje valstybės ar savivaldybės institucijoje ar įstaigoje turi būti pradėtas valstybės tarnautojų, dėl kurių galimos kaltės buvo padaryti įsiteisėjusiame teismo sprendime konstatuoti įstatymų ar kitų teisės aktų pažeidimai, tarnybinio nusižengimo tyrimas. Tarnybinė nuobauda neskiriama, jeigu nuo nusižengimo padarymo dienos praėjo 6 mėnesiai, išskyrus atvejus, kai tarnybinis nusižengimas nustatomas atliekant auditą, piniginių ar kitokių vertybių reviziją (inventorizaciją) arba kai Seimo kontrolierius atlieka tyrimą, taip pat kai atliekamas tarnybinis ar kitas kompetentingos institucijos patikrinimas arba kai yra pažeidžiamos Viešųjų ir privačių interesų derinimo įstatymo nuostatos. Šiais atvejais tarnybinė nuobauda skiriama ne vėliau kaip per 3 metus nuo nusižengimo padarymo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 2. Tarnybinio nusižengimo tyrimas, gavus oficialią informaciją apie galimą valstybės tarnautojo tarnybinį nusižengimą, pradedamas, o pradėtas tarnybinio nusižengimo tyrimas tęsiamas ir atitinkamas sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas taip pat:
 
