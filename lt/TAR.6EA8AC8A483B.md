@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2020-01-01"
+last_updated: "2020-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-07-31
+Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -1892,7 +1892,11 @@ REIKALAVIMAI GELEŽINKELIŲ TRANSPORTO DARBUOTOJAMS
 
 3. Visos akcinės bendrovės „Lietuvos geležinkeliai“ akcijos nuosavybės teise priklauso Lietuvos valstybei.
 
-4. Akcinės bendrovės „Lietuvos geležinkeliai“ įsteigtų bendrovių kolegialių valdymo organų nariais gali būti renkami tik vertikaliosios integracijos įmonių grupės darbuotojai.
+4. Neteko galios nuo 2020-08-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-3193, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15514
 
 Papildyta straipsniu:
 
