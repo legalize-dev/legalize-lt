@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2020-01-01"
+last_updated: "2020-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-07-31
+Suvestinė redakcija nuo 2020-08-01 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -47,6 +47,12 @@ BENDROSIOS NUOSTATOS
 2. Šis Įstatymas reglamentuoja santykius, susijusius su alkoholio produktų, maisto ir kitų produktų, kuriuose yra etilo alkoholio, gamyba, prekyba, laikymu, gabenimu, įvežimu, importu, eksportu, vartojimu, reklama, rėmimu, ir nustato valstybės alkoholio kontrolės Lietuvos Respublikoje pagrindus.
 
 3. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.
+
+4. Šio Įstatymo nuostatos netaikomos maisto papildams, kurių sudėtyje yra etilo alkoholio ir apie kurių tiekimą Lietuvos Respublikos rinkai yra pranešta (notifikuota) teisės aktų nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
@@ -290,11 +296,13 @@ Nr. XI-1406, 2011-05-24, Žin., 2011, Nr. 65-3049 (2011-05-28)
 
 12 straipsnis. Teisės gaminti alkoholio produktus suteikimas
 
-1. Gaminti alkoholio produktus (išskyrus šio Įstatymo 10 straipsnyje nurodytus naminius alkoholinius gėrimus, kuriuos pasigamina fiziniai asmenys asmeniniam naudojimui) leidžiama tik įmonėms, turinčioms licenciją gaminti šiuos produktus. Licencijas ir jų dublikatus išduoda, papildo, rekvizitus patikslina Narkotikų, tabako ir alkoholio kontrolės departamentas. Licencijos išduodamos neterminuotam laikui.
+1. Gaminti alkoholio produktus (išskyrus šio Įstatymo 10 straipsnyje nurodytus naminius alkoholinius gėrimus, kuriuos pasigamina fiziniai asmenys asmeniniam naudojimui) leidžiama tik įmonėms, turinčioms licenciją gaminti šiuos produktus. Licencijas išduoda, papildo, rekvizitus patikslina Narkotikų, tabako ir alkoholio kontrolės departamentas. Licencijos išduodamos neterminuotam laikui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
+
+Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
 
 2. Licencija gaminti alkoholio produktus išduodama ne vėliau kaip per 30 kalendorinių dienų nuo visų tinkamai įformintų dokumentų, kurių reikia licencijai išduoti, gavimo licencijas išduodančioje institucijoje dienos. Jeigu buvo pateikti ne visi, neteisingai užpildyti dokumentai arba pateikti neteisingi duomenys, 30 kalendorinių dienų terminas skaičiuojamas nuo visų arba papildytų (patikslintų) dokumentų gavimo dienos. Licencijos neišdavimas arba atsakymo dėl licencijos išdavimo nepateikimas per 30 kalendorinių dienų nelaikomas licencijos išdavimu.
 
@@ -360,21 +368,27 @@ DIDMENINĖS IR MAŽMENINĖS PREKYBOS ALKOHOLIO PRODUKTAIS VALSTYBINIS REGLAMENTA
 
 16 straipsnis. Didmeninės ir mažmeninės prekybos alkoholio produktais licencijos
 
-1. Didmenine prekyba alkoholio produktais leidžiama verstis tik įmonėms, turinčioms licencijas verstis didmenine prekyba jais. Licencijas ir jų dublikatus išduoda, papildo, rekvizitus patikslina Narkotikų, tabako ir alkoholio kontrolės departamentas. Licencijos išduodamos neterminuotam laikui. Licencijose verstis didmenine prekyba alkoholio produktais, be kita ko, turi būti įrašyti leidžiami parduoti alkoholio produktai, nurodytos alkoholinių gėrimų grupės, taip pat alkoholinių gėrimų prekybos ir laikymo vieta.
+1. Didmenine prekyba alkoholio produktais leidžiama verstis tik įmonėms, turinčioms licencijas verstis didmenine prekyba alkoholio produktais. Licencijas išduoda, papildo, rekvizitus patikslina Narkotikų, tabako ir alkoholio kontrolės departamentas. Licencijos išduodamos neterminuotam laikui. Licencijose verstis didmenine prekyba alkoholio produktais, be kita ko, turi būti įrašyti leidžiami parduoti alkoholio produktai, nurodytos alkoholinių gėrimų grupės, taip pat alkoholinių gėrimų prekybos ir laikymo vieta.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
+Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
+
 2. Įmonės, turinčios licencijas gaminti alkoholio produktus, turi teisę verstis ir didmenine prekyba savo pagamintais produktais.
 
-3. Mažmenine prekyba alkoholiniais gėrimais leidžiama verstis tik turint licenciją verstis mažmenine prekyba alkoholiniais gėrimais. Licencijas ir jų dublikatus išduoda, papildo, rekvizitus patikslina atitinkamos savivaldybės vykdomoji institucija. Vienkartinės licencijos verstis mažmenine prekyba natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, parodose, natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, mugėse ir masiniuose renginiuose, taip pat verstis mažmenine prekyba visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariuose pastatuose, išduodamos teisę verstis mažmenine prekyba atitinkamų grupių alkoholiniais gėrimais turinčioms įmonėms, Europos juridiniams asmenims ir jų filialams ne ilgesniam kaip renginio trukmės laikui. Kitos licencijos verstis mažmenine prekyba alkoholiniais gėrimais išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams neterminuotam laikui. Įmonėms, Europos juridiniams asmenims ir jų filialams, prekiaujantiems alkoholiniais gėrimais stacionariosiose viešojo maitinimo vietose, jų turima neterminuota mažmeninės prekybos alkoholiniais gėrimais licencija suteikia teisę aptarnauti pirkėjus lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo stacionariosios viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose), išskyrus atvejus, kai savivaldybės taryba nustato mažesnį atstumą arba uždraudžia prekybą alkoholiniais gėrimais lauko sąlygomis.
+3. Mažmenine prekyba alkoholiniais gėrimais leidžiama verstis tik turint licenciją verstis mažmenine prekyba alkoholiniais gėrimais. Licencijas išduoda, papildo, rekvizitus patikslina atitinkamos savivaldybės vykdomoji institucija. Licencijos verstis mažmenine prekyba alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų, kurortuose ir kitose savivaldybių tarybų nustatytose poilsio bei turizmo teritorijose išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams savivaldybių tarybų nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiui. Vienkartinės licencijos verstis mažmenine prekyba natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, parodose, natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, mugėse ir masiniuose renginiuose, taip pat verstis mažmenine prekyba visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariuose pastatuose, išduodamos teisę verstis mažmenine prekyba atitinkamų grupių alkoholiniais gėrimais turinčioms įmonėms, Europos juridiniams asmenims ir jų filialams ne ilgesniam kaip renginio trukmės laikui. Kitos licencijos verstis mažmenine prekyba alkoholiniais gėrimais išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams neterminuotam laikui. Įmonėms, Europos juridiniams asmenims ir jų filialams, prekiaujantiems alkoholiniais gėrimais stacionariosiose viešojo maitinimo vietose, jų turima neterminuota mažmeninės prekybos alkoholiniais gėrimais licencija suteikia teisę aptarnauti pirkėjus lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo stacionariosios viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose). Savivaldybių tarybos turi teisę uždrausti prekybą alkoholiniais gėrimais lauko sąlygomis ar apriboti prekybos alkoholiniais gėrimais lauko sąlygomis laiką ir trukmę.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
 
 Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+
+Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
+
+Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
 
 4. Įmonėms, Europos juridiniams asmenims ar jų filialams, pateikusiems prašymą išduoti licenciją verstis didmenine prekyba alkoholio produktais ar mažmenine prekyba alkoholiniais gėrimais, licencija turi būti išduota ne vėliau kaip per 30 kalendorinių dienų nuo visų tinkamai įformintų dokumentų, kurių reikia licencijai išduoti, gavimo licencijas išduodančioje institucijoje dienos. Jeigu pateikti ne visi, neteisingai užpildyti dokumentai arba pateikti neteisingi duomenys, 30 kalendorinių dienų terminas skaičiuojamas nuo visų arba papildytų (patikslintų) dokumentų gavimo dienos. Jeigu per nurodytą terminą licenciją išduodanti institucija neišduoda licencijos ir nepateikia motyvuoto rašytinio atsisakymo išduoti licenciją, laikoma, kad licencija išduota. Šiuo atveju licenciją išduodanti institucija privalo per vieną darbo dieną nuo šioje dalyje nurodyto termino pabaigos išsiųsti licenciją įmonei, Europos juridiniam asmeniui ar jo filialui prašyme dėl licencijos išdavimo nurodytu pageidaujamu licencijos gavimo būdu.
 
@@ -574,7 +588,13 @@ Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 
 3) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, – parodose;
 
-4) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, – mugėse ir masiniuose renginiuose.
+4) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, – mugėse ir masiniuose renginiuose;
+
+5) alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų, – nestacionariosiose viešojo maitinimo vietose savivaldybės tarybos nustatyto kurortinio, poilsio ir turizmo sezono laikotarpiu.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
 
 Straipsnio dalies pakeitimai:
 
@@ -604,7 +624,11 @@ Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
 5) asmenims, jaunesniems kaip 18 metų;
 
-6) nestacionariosiose mažmeninės prekybos ir viešojo maitinimo vietose. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, parodose ir mugėse, vykstančiose stacionariuose pastatuose, viešbučių kambariuose įrengtuose minibaruose, taip pat šio straipsnio 1 dalies 2, 3, 4 punktuose nurodytais atvejais;
+6) nestacionariosiose mažmeninės prekybos ir viešojo maitinimo vietose. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, parodose ir mugėse, vykstančiose stacionariuose pastatuose, viešbučių kambariuose įrengtuose minibaruose, taip pat šio straipsnio 1 dalies 2, 3, 4, 5 punktuose nurodytais atvejais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
 
 7) mažmeninės prekybos, viešojo maitinimo vietose, įrengtose didmeninės prekybos įmonių ir importuotojų sandėliuose, kuriuose verčiamasi didmenine prekyba alkoholiniais gėrimais;
 
@@ -648,21 +672,27 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
-15) paplūdimiuose.
+15) paplūdimiuose, išskyrus alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų, – nestacionariosiose paplūdimiuose įrengtose viešojo maitinimo vietose savivaldybės tarybos nustatyto kurortinio, poilsio ir turizmo sezono laikotarpiu.
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
+
 4. Lietuvos Respublikoje draudžiama parduoti:
 
-1) pilstomus alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems stacionariosiose viešojo maitinimo vietose, stacionariuose pastatuose vykstančiose parodose ir mugėse, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, taip pat pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui, parduodamiems firminėse alkoholinių gėrimų gamybos įmonių parduotuvėse, pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais, natūralios fermentacijos midui ir natūralios fermentacijos sidrui (kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento), parduodamiems parodose, mugėse ir kituose masiniuose renginiuose;
+1) pilstomus alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems stacionariosiose viešojo maitinimo vietose, stacionariuose pastatuose vykstančiose parodose ir mugėse, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, alkoholiniams gėrimams (kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų), parduodamiems nestacionariosiose viešojo maitinimo vietose savivaldybės tarybos nustatyto kurortinio, poilsio ir turizmo sezono laikotarpiu, taip pat pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui, parduodamiems firminėse alkoholinių gėrimų gamybos įmonių parduotuvėse, pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais, natūralios fermentacijos midui ir natūralios fermentacijos sidrui (kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento), parduodamiems parodose, mugėse ir kituose masiniuose renginiuose;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
 
 Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+
+Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
 
 2) alkoholinius gėrimus neblaiviems asmenims;
 
@@ -1022,7 +1052,11 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
 5) įmonė, Europos juridinis asmuo ar jo filialas verčiasi licencijoje nurodyta veikla arba laiko licencijoje nurodytus alkoholio produktus ne toje vietoje, kuri nurodyta licencijoje;
 
-6) yra gautas teritorinės valstybinės maisto ir veterinarijos tarnybos pranešimas apie įmonei, Europos juridiniam asmeniui ar jo filialui išduoto maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimo panaikinimą už nustatytus pažeidimus (panaikinamas licencijos verstis mažmenine prekyba alkoholiniais gėrimais galiojimas toje prekybos vietoje, kuriai panaikintas maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimas, o alkoholio produktų gamybos ir didmeninės prekybos licencijose išbraukiami tie padaliniai, kuriems panaikintas maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimas);
+6) yra gautas Valstybinės maisto ir veterinarijos tarnybos departamento pranešimas apie įmonės, Europos juridinio asmens ar jo filialo kaip maisto tvarkymo subjekto registravimo panaikinimą už nustatytus pažeidimus (panaikinamas licencijos verstis mažmenine prekyba alkoholiniais gėrimais galiojimas toje prekybos vietoje, kurioje nustatyti maisto tvarkymo subjekto padaryti maisto tvarkymo reikalavimų pažeidimai, o licencijose verstis alkoholio produktų gamyba ir didmenine alkoholio produktų prekyba išbraukiami tie padaliniai, kuriems panaikintas maisto tvarkymo subjekto registravimas);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
 
 7) įmonė, Europos juridinis asmuo ar jo filialas pateikia paraišką panaikinti licencijos galiojimą;
 
@@ -2330,7 +2364,11 @@ KONTROLĖS ĮSTATYMO 29, 30 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 1) įmonės, Europos juridiniai asmenys ir jų filialai, kurie pagal šio straipsnio 1 ar 2 dalį buvo įspėti apie galimą licencijos galiojimo sustabdymą, per nustatytą laiką nepašalina nurodytų pažeidimų. Licencijas išduodanti institucija nustato licencijos sustabdymo terminą, kuris negali būti trumpesnis negu 10 dienų ir negali būti ilgesnis negu 30 dienų;
 
-2) gautas teritorinės valstybinės maisto ir veterinarijos tarnybos pranešimas apie įmonei, Europos juridiniam asmeniui ar jo filialui išduoto maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimo sustabdymą už nustatytus pažeidimus (sustabdomas licencijos verstis mažmenine prekyba alkoholiniais gėrimais galiojimas toje prekybos vietoje, kuriai sustabdytas maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimas, licencijos sustabdymo terminas nustatomas atsižvelgiant į maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimo sustabdymo terminą).
+2) gautas Valstybinės maisto ir veterinarijos tarnybos departamento pranešimas apie įmonės, Europos juridinio asmens ar jo filialo kaip maisto tvarkymo subjekto registravimo galiojimo sustabdymą už nustatytus pažeidimus (sustabdomas licencijos verstis mažmenine prekyba alkoholiniais gėrimais galiojimas toje prekybos vietoje, kurioje nustatyti maisto tvarkymo subjekto padaryti maisto tvarkymo reikalavimų pažeidimai, licencijos sustabdymo terminas nustatomas atsižvelgiant į maisto tvarkymo subjekto registravimo galiojimo sustabdymo terminą).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
 
 5. Licencijas išduodanti institucija sustabdo licencijų verstis didmenine prekyba alkoholio produktais ar mažmenine prekyba alkoholiniais gėrimais galiojimą ir apie licencijos galiojimo sustabdymą informuoja įmones, Europos juridinius asmenis ar jų filialus per 3 darbo dienas nuo šio straipsnio 4 dalyje nurodytų aplinkybių paaiškėjimo dienos.
 
@@ -2370,7 +2408,11 @@ KONTROLĖS ĮSTATYMO 29, 30 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 1) įmonė, Europos juridinis asmuo ar jo filialas, kuriems buvo sustabdytas licencijos galiojimas pagal šio straipsnio 4 dalies 1 punktą, per licenciją išdavusios institucijos nustatytą terminą pašalinę nurodytus pažeidimus, dėl kurių buvo sustabdytas licencijos galiojimas, apie tai praneša licenciją išdavusiai institucijai;
 
-2) licenciją išduodanti institucija gauna teritorinės valstybinės maisto ir veterinarijos tarnybos pranešimą apie įmonei, Europos juridiniam asmeniui ar jo filialui išduoto maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimo sustabdymo panaikinimą (kai licencijos galiojimas buvo sustabdytas pagal šio straipsnio 4 dalies 2 punktą);
+2) licenciją išduodanti institucija gauna Valstybinės maisto ir veterinarijos tarnybos departamento pranešimą apie įmonės, Europos juridinio asmens ar jo filialo kaip maisto tvarkymo subjekto registravimo galiojimo sustabdymo panaikinimą (kai licencijos galiojimas buvo sustabdytas pagal šio straipsnio 4 dalies 2 punktą);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
 
 3) įmonė, kuriai buvo sustabdytas licencijos galiojimas pagal šio straipsnio 9 dalį, pateikia prašymą į licenciją verstis didmenine prekyba alkoholio produktais įrašyti naują alkoholinių gėrimų didmeninės prekybos sandėlio adresą;
 
@@ -2418,7 +2460,11 @@ Nr. XII-975, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10011
 
 5) per pastaruosius penkerius metus iki prašymo išduoti licenciją pateikimo dienos licencijos prašytojo vadovai nebuvo įmonių, Europos juridinių asmenų ar jų filialų, kuriems buvo paskirtos ekonominės sankcijos už alkoholio produktų gaminimą, pardavimą ir (ar) laikymą, gabenimą Lietuvos Respublikoje neturint Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos, vadovai;
 
-6) licencijos prašytojui išduotas maisto tvarkymo subjekto patvirtinimo pažymėjimas (ši nuostata netaikoma įmonėms, norinčioms įsigyti licencijas gaminti denatūruotą etilo alkoholį, nemaistinius alkoholinius tirpalus su kvapiųjų medžiagų priedais ir (ar) nedenatūruotą dehidratuotą ir denatūruotą dehidratuotą etilo alkoholį, skirtą naudoti tik Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo reikalavimus atitinkančių biodegalų ir (ar) biodegalų ir degalų mišinių gamybai, arba licencijas verstis didmenine prekyba jais).
+6) licencijos prašytojas, vadovaujantis Lietuvos Respublikos maisto įstatymu, yra registruotas maisto tvarkymo subjektas (ši nuostata netaikoma įmonėms, norinčioms įsigyti licencijas gaminti denatūruotą etilo alkoholį, nemaistinius alkoholinius tirpalus su kvapiųjų medžiagų priedais ir (ar) nedenatūruotą dehidratuotą ir denatūruotą dehidratuotą etilo alkoholį, skirtą naudoti tik Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo reikalavimus atitinkančių biodegalų ir (ar) biodegalų ir degalų mišinių gamybai, arba licencijas verstis didmenine prekyba jais).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
 
 2. Licencijos gaminti alkoholio produktus išduodamos įmonėms, jeigu, be šio straipsnio 1 dalyje nurodytų reikalavimų, jos atitinka ir šiuos reikalavimus:
 
