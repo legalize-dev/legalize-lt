@@ -4,7 +4,7 @@ identifier: "TAR.10E8E285740C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-25"
-last_updated: "2020-05-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
 
@@ -49,9 +49,19 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 2) gydytojo teisės verstis medicinos praktika įgijimo, įgyvendinimo ir praradimo sąlygas;
 
-3) gydytojo pagrindines profesines teises, pareigas ir atsakomybę.
+3) gydytojo pagrindines profesines teises, pareigas ir atsakomybę;
 
-3. Šis Įstatymas taikomas gydytojams, dirbantiems Lietuvos Respublikoje.
+4) gydytojo vertimosi medicinos praktika savanoriškos veiklos pagrindais sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3156, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15134
+
+3. Šis Įstatymas taikomas gydytojams, kurie verčiasi medicinos praktika Lietuvos Respublikoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3156, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15134
 
 4. Šiuo Įstatymu įgyvendinami šio Įstatymo priede nurodyti Europos Sąjungos teisės aktai dėl gydytojų rengimo, diplomų, pažymėjimų ir kitų oficialią gydytojo kvalifikaciją patvirtinančių dokumentų abipusio pripažinimo ir gydytojo praktikos sąlygų.
 
@@ -140,6 +150,12 @@ Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+
+142. Paliatyvioji pagalba – paciento, sergančio pavojinga gyvybei, nepagydoma, progresuojančia liga, ir jo artimųjų gyvenimo kokybės gerinimo priemonės, lengvinančios kančias, padedančios spręsti kitas fizines, psichosocialines ir dvasines problemas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3156, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15134
 
 15. Neteko galios nuo 2015-11-01
 
@@ -585,7 +601,7 @@ Gydytojas, pažeidęs šio Įstatymo reikalavimus, atsako Lietuvos Respublikos t
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos medicinos  praktikos įstatymo
 
@@ -720,6 +736,16 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2872, 2020-04-30, paskelbta TAR 2020-04-30, i. k. 2020-09246
 
 Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 3 straipsnio pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3156, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15134
+
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 1, 2 straipsnių pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
+
+part_dc08c65fb181423aa0cebcaa121d705f_end
 
 13 straipsnis. Licencijų galiojimo panaikinimo tvarka
 
@@ -860,4 +886,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-282, 2001-04-19, Žin., 2001, Nr. 39-1352 (2001-05-09), i. k. 1011010ISTA00IX-282
 
 Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 8 straipsnio pakeitimo įstatymas
+
+51 straipsnis. Gydytojo vertimosi medicinos praktika savanoriškos veiklos pagrindais sąlygos
+
+1. Gydytojas, išskyrus gydytoją rezidentą, turi teisę verstis medicinos praktika savanoriškos veiklos pagrindais pagal Lietuvos Respublikos savanoriškos veiklos įstatymą tik sveikatos priežiūros įstaigoje, teikiančioje stacionarines, ambulatorines ir (ar) dienos stacionaro paliatyviosios pagalbos paslaugas, ir tik sudaręs su ja savanoriškos veiklos sutartį.
+
+2. Gydytojas, versdamasis medicinos praktika šio straipsnio 1 dalyje nustatytomis sąlygomis, turi tas pačias šio Įstatymo ir kitų teisės aktų, reguliuojančių medicinos praktiką, nustatytas teises ir pareigas.
+
+Papildyta straipsniu:
+
+Nr. XIII-3156, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15134
 
