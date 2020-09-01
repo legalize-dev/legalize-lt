@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2020-08-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2020-08-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-09-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -749,6 +749,12 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 10. Viešieji geriamojo vandens tiekėjai ir nuotekų tvarkytojai, paskirti Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo nustatyta tvarka.
 
 11. Įmonė, patikėjimo teise valdanti Lietuvos valstybinius miškus.
+
+12. Įmonė, patikėjimo teise valdanti valstybinės reikšmės automobilių kelius.
+
+Papildyta punktu:
+
+Nr. XIII-3090, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13967
 
 Lietuvos Respublikos
 
