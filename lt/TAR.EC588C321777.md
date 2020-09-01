@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2020-07-15"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2020-07-15 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-11-18
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -4311,11 +4311,15 @@ Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 
 38 straipsnis. Šeimos nariai
 
-Asmens šeimos nariais laikomi kartu su tuo asmeniu gyvenantys tėvai (įtėviai), vaikai (įvaikiai), broliai, seserys ir jų sutuoktiniai, asmens sutuoktinis arba asmuo, su kuriuo asmuo bendrai gyvena neįregistravęs santuokos, arba asmuo, su kuriuo tas asmuo Lietuvos Respublikos civilinio kodekso nustatyta tvarka susitarė sudaryti santuoką, taip pat sutuoktinio tėvai, buvę sutuoktiniai.
+Asmens šeimos nariais laikomi kartu su tuo asmeniu gyvenantys tėvai (įtėviai), vaikai (įvaikiai), broliai, seserys ir jų sutuoktiniai, asmens sutuoktinis arba asmuo, su kuriuo asmuo bendrai gyvena neįregistravęs santuokos, arba asmuo, su kuriuo tas asmuo Lietuvos Respublikos civilinio kodekso nustatyta tvarka susitarė sudaryti santuoką, taip pat sutuoktinio tėvai, išlaikytiniai ar buvę sutuoktiniai.
+
+Straipsnio pakeitimai:\
+
+Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 
 Straipsnio pakeitimai:
 
-Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
+Nr. XIII-2976, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11675
 
 78 straipsnis. Liudytojas
 
@@ -4763,7 +4767,11 @@ Nr. XII-1017, 2014-07-10, paskelbta TAR 2014-07-18, i. k. 2014-10348
 
 4. Gynėjas privalo su lietuvių kalbos nemokančiu įtariamuoju, kaltinamuoju, nuteistuoju ar išteisintuoju baudžiamojo proceso metu bendrauti jiems suprantama kalba, o jeigu tai neįmanoma, turi būti užtikrintas jų bendravimo vertimas žodžiu.
 
-5. Bylos dokumentai, kurie šio Kodekso nustatytais atvejais įteikiami įtariamajam, kaltinamajam ar nuteistajam, taip pat kitiems proceso dalyviams, turi būti raštu išversti į jų gimtąją kalbą arba į kitą kalbą, kurią jie moka. Lietuvių kalbos nemokantis įtariamasis, kaltinamasis, nuteistasis, išteisintasis ar tokio asmens gynėjas turi teisę ikiteisminio tyrimo pareigūnui, prokurorui ar teismui pateikti motyvuotą prašymą ir dėl kitų svarbių bylos dokumentų, su kuriais šio Kodekso nustatyta tvarka jie turi teisę susipažinti, ar jų dalių vertimo raštu į jų gimtąją kalbą arba į kitą kalbą, kurią jie moka. Toks prašymas gali būti teikiamas tik tais atvejais, kai šių dokumentų ar jų dalių vertimas yra būtinas tam, kad įtariamasis, kaltinamasis, nuteistasis ar išteisintasis tinkamai pasinaudotų savo teise į gynybą arba suprastų vykstantį baudžiamąjį procesą. Šį prašymą ikiteisminio tyrimo pareigūnas, prokuroras ar teismas ne vėliau kaip per penkias dienas nuo jo gavimo dienos išnagrinėja ir išsprendžia motyvuotu nutarimu ar nutartimi. Šis nutarimas ar nutartis gali būti skundžiami šio Kodekso nustatyta tvarka.
+5. Bylos dokumentai, kurie šio Kodekso nustatytais atvejais įteikiami įtariamajam, kaltinamajam ar nuteistajam, taip pat kitiems proceso dalyviams, turi būti raštu išversti į jų gimtąją kalbą arba į kitą kalbą, kurią jie moka. Lietuvių kalbos nemokantys įtariamasis, kaltinamasis, nuteistasis, išteisintasis ar tokio asmens gynėjas ir nukentėjusysis ar jo atstovas turi teisę ikiteisminio tyrimo pareigūnui, prokurorui ar teismui pateikti motyvuotą prašymą ir dėl kitų svarbių bylos dokumentų, su kuriais šio Kodekso nustatyta tvarka jie turi teisę susipažinti, ar jų dalių vertimo raštu į jų gimtąją kalbą arba į kitą kalbą, kurią jie moka. Toks prašymas gali būti teikiamas tik tais atvejais, kai šių dokumentų ar jų dalių vertimas yra būtinas tam, kad įtariamasis, kaltinamasis, nuteistasis ar išteisintasis tinkamai pasinaudotų savo teise į gynybą arba suprastų vykstantį baudžiamąjį procesą. Nukentėjusysis ar jo atstovas tokį prašymą turi teisę pateikti tik tais atvejais, kai šių dokumentų ar jų dalių vertimas yra būtinas tam, kad jie galėtų aktyviai dalyvauti baudžiamajame procese. Šį prašymą ikiteisminio tyrimo pareigūnas, prokuroras ar teismas ne vėliau kaip per penkias dienas nuo jo gavimo dienos išnagrinėja ir išsprendžia motyvuotu nutarimu ar nutartimi. Šis nutarimas ar nutartis gali būti skundžiami šio Kodekso nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2976, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11675
 
 6. Lietuvių kalbos nemokančiam nuo nusikalstamos veikos nukentėjusiam asmeniui ar jo atstovui užtikrinama teisė paduoti skundą ar pareiškimą dėl nusikalstamos veikos gimtąja kalba arba kita kalba, kurią jie moka, arba užtikrinama teisė naudotis vertėjo paslaugomis pateikiant skundą žodžiu.
 
@@ -4853,7 +4861,11 @@ Kasatorius yra kasacinį skundą padavęs asmuo.
 
 1. Nukentėjusysis yra fizinis asmuo, kuriam nusikalstama veika padarė fizinės, turtinės ar neturtinės žalos, arba nuo nusikalstamos veikos mirusio fizinio asmens šeimos narys ar artimasis giminaitis, kurie dėl to asmens mirties patyrė fizinės, turtinės ar neturtinės žalos. Asmuo pripažįstamas nukentėjusiuoju ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo nutartimi.
 
-2. Nukentėjusysis ir jo atstovas turi teisę: gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį; teikti įrodymus; pateikti prašymus; pareikšti nušalinimus; dalyvauti vertinant jo specialius apsaugos poreikius; ikiteisminio tyrimo metu ir teisme susipažinti su byla; dalyvauti bylą nagrinėjant teisme; apskųsti ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ir teismo veiksmus, taip pat apskųsti teismo nuosprendį ar nutartį; pasakyti baigiamąją kalbą.
+2. Nukentėjusysis ir jo atstovas turi teisę: gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį; teikti įrodymus; pateikti prašymus; pareikšti nušalinimus; dalyvauti vertinant jo specialius apsaugos poreikius; ikiteisminio tyrimo metu ir teisme susipažinti su byla; dalyvauti bylą nagrinėjant teisme; apskųsti ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ir teismo veiksmus, taip pat apskųsti teismo nuosprendį ar nutartį; pasakyti baigiamąją kalbą. Nukentėjusysis taip pat turi teisę atsisakyti gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį, nebent toks atsisakymas pažeistų įtariamojo ar kaltinamojo teises.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2976, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11675
 
 3. Nukentėjusysis privalo duoti parodymus. Jis prisiekia ir atsako už melagingus parodymus kaip liudytojas.
 
@@ -5435,7 +5447,11 @@ Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
 
 1. Respublikos Prezidentą jo sutikimu apklausia ikiteisminio tyrimo teisėjas Respublikos Prezidento rezidencijoje. Į teismo posėdį Respublikos Prezidentas nešaukiamas.
 
-2. Įtariamojo ir kaltinamojo šeimos nariai ar artimieji giminaičiai gali neduoti parodymų arba neatsakyti į kai kuriuos pateiktus klausimus.
+2. Asmuo gali neduoti parodymų arba neatsakyti į kai kuriuos pateiktus klausimus prieš savo šeimos narius ar artimuosius giminaičius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2976, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11675
 
 3. Asmuo, kuris prokuroro nutarimu yra apklausiamas apie savo galimai padarytą nusikalstamą veiką, turi teisę apklausos metu turėti įgaliotąjį atstovą, reikalauti būti pripažintas įtariamuoju. Tokiam asmeniui netaikoma atsakomybė, numatyta šio Kodekso 83 straipsnio 2 ir 4 dalyse.
 
