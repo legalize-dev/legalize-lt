@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2019-10-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-10-07
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -361,7 +361,13 @@ Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respubliko
 
 5) egzilio sąlygomis veikiančioms aukštosioms mokykloms;
 
-6) kitiems subjektams, jeigu tokio perdavimo tvarka ir sąlygos nustatytos Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos šeimynų įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme, tarptautinėse sutartyse ar tarptautiniuose susitarimuose.
+6) regionų plėtros taryboms;
+
+7) kitiems subjektams, jeigu tokio perdavimo tvarka ir sąlygos nustatytos Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos šeimynų įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme, Lietuvos Respublikos tarptautinėse sutartyse ar tarptautiniuose susitarimuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
 
 2. Valstybės ir savivaldybių turtas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas asociacijoms ir labdaros ir paramos fondams, kurių pagrindinis veiklos tikslas yra bent vienas iš šių tikslų:
 
@@ -383,13 +389,21 @@ Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respubliko
 
 9) tenkinti etninės kultūros, meno kūrėjų ir kultūros darbuotojų poreikius per kultūros ir meno plėtros, kultūrinės edukacijos ar kultūros paveldo apsaugos veiklą.
 
-3. Valstybės ir savivaldybių turtas šio straipsnio 1 dalies 2–5 punktuose nurodytiems subjektams gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis, jeigu:
+3. Valstybės ir savivaldybių turtas šio straipsnio 1 dalies 2–6 punktuose nurodytiems subjektams gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis, jeigu:
 
 1) panaudos subjektas pagrindžia, kad prašomas panaudos pagrindais suteikti turtas reikalingas jo vykdomai veiklai (jeigu subjektas yra asociacija ar labdaros ir paramos fondas, – šio straipsnio 2 dalyje nustatytiems veiklos tikslams), dėl kurios turtas galėtų būti perduotas, ir jo naudojimo paskirtis atitinka šio subjekto steigimo dokumentuose nustatytus veiklos sritis ir tikslus;
 
 2) Vyriausybės nustatyta tvarka yra įvertintas poveikis konkurencijai ir atitiktis valstybės pagalbos reikalavimams.
 
-4. Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima Vyriausybė arba jos įgalioti turto valdytojai Vyriausybės nustatyta tvarka. Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija. Valstybės ir savivaldybių ilgalaikis materialusis turtas šio straipsnio 1 dalies 2–6 punktuose nurodytiems subjektams gali būti perduotas panaudos teise ne ilgesniam kaip 10 metų laikotarpiui, jeigu įstatymai nenustato kitaip. Sprendime turi būti nurodytas panaudos sutarties terminas ir turto panaudojimo paskirtis, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos sutartį. Valstybės ar savivaldybės turto panaudos sutartį su panaudos subjektais sudaro valstybės ar savivaldybės turto valdytojas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
+
+4. Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima Vyriausybė arba jos įgalioti turto valdytojai Vyriausybės nustatyta tvarka. Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija. Valstybės ir savivaldybių ilgalaikis materialusis turtas šio straipsnio 1 dalies 2–7 punktuose nurodytiems subjektams gali būti perduotas panaudos teise ne ilgesniam kaip 10 metų laikotarpiui, jeigu įstatymai nenustato kitaip. Sprendime turi būti nurodytas panaudos sutarties terminas ir turto panaudojimo paskirtis, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos sutartį. Valstybės ar savivaldybės turto panaudos sutartį su panaudos subjektais sudaro valstybės ar savivaldybės turto valdytojas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
 
 5. Valstybės ar savivaldybės turto panaudos sutartyje turi būti nustatyta pagal panaudos sutartį perduodamo turto naudojimo paskirtis, panaudos gavėjo pareiga savo lėšomis atlikti nekilnojamojo daikto einamąjį ar statinio kapitalinį remontą, kito ilgalaikio materialiojo turto remontą, apmokėti visas turto išlaikymo išlaidas ir kitos Civiliniame kodekse nustatytos panaudos sąlygos. Panaudos davėjas privalo nutraukti panaudos sutartį, jeigu panaudos gavėjas nevykdo veiklos, dėl kurios buvo perduotas valstybės ar savivaldybės turtas, arba šį turtą naudoja ne pagal paskirtį. Panaudos davėjas gali nutraukti panaudos sutartį, jeigu panaudos gavėjas nevykdo įsipareigojimų savo lėšomis atlikti nekilnojamojo daikto einamąjį ar statinio kapitalinį remontą arba kito ilgalaikio materialiojo turto remontą. Panaudos gavėjui, pagerinusiam pagal panaudos sutartį perduotą turtą, už turto pagerinimą neatlyginama.
 
@@ -419,7 +433,11 @@ Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 5) bendrosios nuosavybės teise valdomas valstybės arba savivaldybės nekilnojamasis turtas išnuomojamas šio turto bendraturčiams arba kai išnuomojamas valstybės arba savivaldybės nekilnojamasis turtas yra greta šio turto nuomininkams priklausančių ir (arba) jų naudojamų statinių;
 
-6) valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas pelno nesiekiantiems subjektams, kurių pagrindinis veiklos tikslas atitinka bent vieną iš šio įstatymo 14 straipsnio 2 dalyje nustatytų tikslų;
+6) valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas pelno nesiekiantiems subjektams, kurių pagrindinis veiklos tikslas atitinka bent vieną iš šio įstatymo 14 straipsnio 2 dalyje nustatytų tikslų, arba regionų plėtros taryboms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
 
 7) valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas subjektams Lietuvos Respublikos įstatymų numatytais atvejais.
 
@@ -1574,6 +1592,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 5, 6, 10, 12, 14, 15, 16, 19, 20, 21, 24 straipsnių pakeitimo ir 18 straipsnio pripažinimo netekusiu galios įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 ir 15 straipsnių pakeitimo įstatymas
 
 26 straipsnis. Valstybės ir savivaldybių turto pripažinimas nereikalingu arba netinkamu (negalimu) naudoti
 
