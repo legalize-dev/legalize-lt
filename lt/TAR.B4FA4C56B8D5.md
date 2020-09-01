@@ -4,7 +4,7 @@ identifier: "TAR.B4FA4C56B8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2020-07-30"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
 
 LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-07-30 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
 
@@ -230,9 +230,17 @@ Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 16) savivaldybių institucijų norminiai teisės aktai, taip pat savivaldybių merų priimami teisės aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
 
-17) įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti norminiai teisės aktai. Kitų asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti teisės aktai Teisės aktų registro objektais yra tik tais atvejais, kai šiuos teisės aktus skelbti Teisės aktų registre privaloma pagal teisės aktus;
+17) įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų ir regionų plėtros tarybų kolegijų priimti norminiai teisės aktai. Kitų asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti teisės aktai Teisės aktų registro objektais yra tik tais atvejais, kai šiuos teisės aktus skelbti Teisės aktų registre privaloma pagal teisės aktus;
 
-18) ministrų, Vyriausybės įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų vadovų ir kolegialių institucijų, taip pat Lietuvos banko valdybos ar valdybos pirmininko, teisės aktų nustatyta tvarka įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti teisės taikymo aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3045, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13961
+
+18) ministrų, Vyriausybės įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų vadovų ir kolegialių institucijų, taip pat Lietuvos banko valdybos ar valdybos pirmininko, teisės aktų nustatyta tvarka įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų ir regionų plėtros tarybų kolegijų priimti teisės taikymo aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3045, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13961
 
 19) Konstitucinio Teismo nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo, taip pat Konstitucinio Teismo pirmininko pranešimai dėl ginčijamo akto galiojimo sustabdymo ir dėl sustabdyto akto galiojimo atnaujinimo;
 
@@ -748,6 +756,14 @@ Nr. XIII-2986, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12791
 
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15, 16 straipsnių pakeitimo ir 16-1 straipsnio pripažinimo netekusiu galios įstatymas
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3045, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13961
+
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 6 straipsnio pakeitimo ir Įstatymo papildymo 16-2 straipsniu įstatymas
+
 161 straipsnis. Neteko galios nuo 2020-07-30
 
 Straipsnio naikinimas:
@@ -795,4 +811,12 @@ Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 PENKTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
+
+162 straipsnis. Numatomo teisinio reguliavimo poveikio regionų plėtrai vertinimas
+
+Teisės akto projekto rengėjas atlieka teisės akto projekto poveikio regionų plėtrai vertinimą, kai teisės akto projektu nustatomas, keičiamas ar panaikinamas teisinis reguliavimas gali turėti įtakos regionų plėtrai. Teisinio reguliavimo poveikio regionų plėtrai vertinimo tvarką nustato Vyriausybė.
+
+Papildyta straipsniu:
+
+Nr. XIII-3045, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13961
 
