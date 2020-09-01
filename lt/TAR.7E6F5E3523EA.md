@@ -4,7 +4,7 @@ identifier: "TAR.7E6F5E3523EA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-10-26"
-last_updated: "2020-01-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E6F5E3523EA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos triukšmo valdymo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2023-01-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 164-5971, i. k. 1041010ISTA0IX-2499
 
@@ -354,7 +354,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 
-3) nustato pavaldžių viešojo administravimo institucijų kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama;
+3) nustato pavaldžių viešojo administravimo institucijų ir įmonių, kurių savininko teises ir pareigas įgyvendina, kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3091, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13969
 
 4) kartu su Aplinkos ministerija rengia ir tvirtina orlaivių triukšmo ribojimo taisykles;
 
@@ -622,7 +626,11 @@ Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 
 1) savivaldybių, kuriose yra aglomeracijų, tarybų tvirtinamus aglomeracijų triukšmo prevencijos veiksmų planus;
 
-2) Vyriausybės nustatyta tvarka Susisiekimo ministerijos ar jos įgaliotų pavaldžių įstaigų tvirtinamus ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos veiksmų planus.
+2) Vyriausybės nustatyta tvarka Susisiekimo ministerijos ar jos įgaliotų pavaldžių įstaigų ir įmonių, kurių savininko teises ir pareigas įgyvendina, tvirtinamus ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos veiksmų planus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3091, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13969
 
 2. Šio straipsnio 1 dalyje nurodyti triukšmo prevencijos veiksmų planai Vyriausybės nustatyta tvarka sudaromi ir patvirtinami ne rečiau kaip kas penkerius metus. Triukšmo prevencijos veiksmų planai sudaromi ir patvirtinami ne anksčiau negu strateginiai triukšmo žemėlapiai.
 
@@ -876,7 +884,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -939,4 +947,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2189, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09845
 
 Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 24 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3091, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13969
+
+Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 9 ir 18 straipsnių pakeitimo įstatymas
 
