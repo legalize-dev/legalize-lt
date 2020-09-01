@@ -4,7 +4,7 @@ identifier: "TAR.915C6D6EB2A5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-13"
-last_updated: "2020-01-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.915C6D6EB2A5"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 19 straipsnis įsigalioja 2006-06-30."
 ---
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 73-2755, i. k. 1061010ISTA000X-686
 
@@ -122,7 +122,11 @@ Socialinė parama mokiniams
 
 2. Mokiniai turi teisę į nemokamus pietus, maitinimą mokyklų organizuojamose vasaros poilsio stovyklose ir paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2 valstybės remiamų pajamų dydžiai, atsižvelgiant į bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas šiais atvejais: ligos, nelaimingo atsitikimo, netekus maitintojo, kai motina ar tėvas vieni augina vaiką (vaikus), kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar bent vienas iš bendrai gyvenančių asmenų ar vienas gyvenantis asmuo yra neįgalus.
 
-3. Mokiniai, kurie mokosi pagal priešmokyklinio ugdymo programą savivaldybių bendrojo ugdymo mokyklose, kuriose maitinimas organizuojamas taikant savitarnos principą Lietuvos Respublikos sveikatos apsaugos ministro nustatyta tvarka, turi teisę į nemokamus pietus, nevertinant gaunamų pajamų. Savivaldybių, kurių administracijų patvirtintuose sąrašuose esančiose bendrojo ugdymo mokyklose bus organizuojamas nemokamas maitinimas taikant savitarnos principą, sąrašą tvirtina socialinės apsaugos ir darbo ministras.
+3. Mokiniai, kurie mokosi mokyklose pagal priešmokyklinio ugdymo programą ar pagal pradinio ugdymo programą pirmoje klasėje, turi teisę į nemokamus pietus, nevertinant gaunamų pajamų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
 
 4. Mokiniai turi teisę į nemokamus pusryčius, pietus, pavakarius, maitinimą mokyklų organizuojamose vasaros poilsio stovyklose ir paramą mokinio reikmenims įsigyti pagal šio įstatymo 15 straipsnio 4 dalies 4 punktą.
 
