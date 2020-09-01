@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2020-07-24"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2020-07-24 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -38,9 +38,17 @@ Bendrosios nuostatos
 
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
-1. Šis įstatymas nustato eismo saugumo automobilių keliais Lietuvos Respublikoje teisinius pagrindus, valstybės ir savivaldybių institucijų ir įstaigų pareigas įgyvendinant saugaus eismo politiką, eismo dalyvių mokymą, pagrindines eismo dalyvių, už kelių priežiūrą atsakingų asmenų, policijos, muitinės pareigūnų ir kitų tikrinančių pareigūnų teises ir pareigas, taip pat pagrindinius su transporto priemonių technine būkle, techninės būklės tikrinimu, transporto priemonių registravimu susijusius reikalavimus, eismo saugumo reikalavimus keliams, siekiant apsaugoti eismo dalyvių ir kitų asmenų gyvybę, sveikatą ir turtą, gerinti transporto ir pėsčiųjų eismo sąlygas.
+1. Šis įstatymas nustato eismo saugumo automobilių keliais Lietuvos Respublikoje teisinius pagrindus, valstybės ir savivaldybių institucijų ir įstaigų bei valstybės įmonių pareigas įgyvendinant saugaus eismo politiką, eismo dalyvių mokymą, pagrindines eismo dalyvių, už kelių priežiūrą atsakingų asmenų, policijos, muitinės pareigūnų ir kitų tikrinančių pareigūnų teises ir pareigas, taip pat pagrindinius su transporto priemonių technine būkle, techninės būklės tikrinimu, transporto priemonių registravimu susijusius reikalavimus, eismo saugumo reikalavimus keliams, siekiant apsaugoti eismo dalyvių ir kitų asmenų gyvybę, sveikatą ir turtą, gerinti transporto ir pėsčiųjų eismo sąlygas.
 
-2. Reikalavimus keliams, jų projektavimui, tiesimui ir priežiūrai, kelio statiniams, įrenginiams, techninėms eismo reguliavimo priemonėms ir su tuo susijusias kelių savininkų bei kitų institucijų pareigas nustato Kelių įstatymas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
+
+2. Keliams, jų projektavimui, tiesimui ir priežiūrai, kelio statiniams, įrenginiams, techninėms eismo reguliavimo priemonėms keliamus reikalavimus ir su tuo susijusias kelių savininkų bei kitų institucijų ir valstybės įmonių pareigas nustato Lietuvos Respublikos kelių įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
@@ -678,7 +686,11 @@ Eismo saugumo užtikrinimą reglamentuoja šis įstatymas, kiti Lietuvos Respubl
 
 Eismo saugumas užtikrinamas:
 
-1) nustatant Vyriausybės, jos įgaliotų institucijų, savivaldybių įgaliojimus eismo saugumo užtikrinimo srityje;
+1) nustatant Vyriausybės įgaliojimus, valstybės ir savivaldybių institucijų, įstaigų ir valstybės įmonių kompetenciją eismo saugumo užtikrinimo srityje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 2) reguliuojant ir kontroliuojant juridinių ir fizinių asmenų veiklą eismo saugumo užtikrinimo srityje;
 
@@ -724,7 +736,11 @@ Nr. XI-893, 2010-06-10, Žin., 2010, Nr. 75-3791 (2010-06-29)
 
 4. Komisija:
 
-1) teikia Respublikos Prezidentui, Seimui, Vyriausybei, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms siūlymus šio įstatymo įgyvendinimo klausimais;
+1) teikia Respublikos Prezidentui, Seimui, Vyriausybei, kitoms valstybės ir savivaldybių institucijoms, įstaigoms ir įmonėms siūlymus šio įstatymo įgyvendinimo klausimais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 2) teikia valstybės ir savivaldybių institucijoms ir įstaigoms išvadas dėl teisės aktų atitikties eismo saugumo reikalavimams;
 
@@ -828,7 +844,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-107, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29786
 
-29) nustato transporto priemonių ir transporto priemonių sudedamųjų dalių (tarp jų ir ne keliais judančių mechanizmų vidaus degimo variklių) atitikties įvertinimo tvarką;
+29) Neteko galios nuo 2020-09-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 30) nustato techninės apžiūros kontrolierių kvalifikacinio ir žinių patikrinimo egzaminų tvarką;
 
@@ -992,7 +1012,11 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
-10. Užtikrindama eismo saugumą, Valstybinė kelių transporto inspekcija prie Susisiekimo ministerijos:
+10. Užtikrindama eismo saugumą, Lietuvos transporto saugos administracija:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 1) nustato N ir O kategorijų transporto priemonėse krovinio išdėstymo ir (ar) jo pritvirtinimo reikalavimus, krovinio išdėstymo ir (ar) jo pritvirtinimo trūkumų sąrašą ir jų klasifikaciją;
 
@@ -1006,11 +1030,49 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
-11. Tikrinantys pareigūnai, atlikdami savo funkcijas, neturi kelti grėsmės eismo saugumui.
+11. Užtikrindama eismo saugumą, valstybės įmonė Lietuvos automobilių kelių direkcija:
+
+1) vykdo automobilių srautų valdymą ir koordinuoja eismo tvarką valstybinės reikšmės keliuose;
+
+2) planuoja, organizuoja ir koordinuoja intelektinių transporto sistemų (eismo valdymo, eismo kontrolės, eismo stebėjimo ir eismo apskaitos, kelių oro sąlygų, viešojo transporto kelionių planavimo) diegimą, naudojimą ir plėtrą;
+
+3) valdo ir tvarko eismo valdymo, stebėjimo ir kontrolės sistemas valstybinės reikšmės keliuose;
+
+4) per visuomenės informavimo priemones informuoja visuomenę apie eismo sąlygas valstybinės ir vietinės reikšmės keliuose;
+
+5) organizuoja kelių saugumo audito, poveikio kelių saugumui vertinimo, kelių saugumo patikrinimo, didelio avaringumo ruožų ir saugumo lygio nustatymo kelių tinkle atlikimą valstybinės reikšmės keliuose;
+
+6) įgyvendina Valstybinėje eismo saugumo programoje nustatytas  priemones;
+
+7) atlieka kitas įstatymuose nustatytas funkcijas, susijusias su eismo saugumo užtikrinimu valstybinės reikšmės keliuose.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
+
+12. Užtikrindama eismo saugumą, viešoji įstaiga Transporto kompetencijų agentūra:
+
+1) atlieka valstybinės reikšmės kelių saugos stebėseną ir analizę;
+
+2) atlieka kelių saugos valdymą;
+
+3) atlieka eismo įvykių ir avaringų vietų analizę ir stebėseną;
+
+4) priskiria kelių saugos lygius;
+
+5) teikia pasiūlymus dėl Valstybinės eismo saugumo programos rengimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
+
+13. Tikrinantys pareigūnai, atlikdami savo funkcijas, neturi kelti grėsmės eismo saugumui.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 Straipsnio pakeitimai:
 
@@ -1030,7 +1092,11 @@ KELIAS
 
 11 straipsnis. Saugių eismo sąlygų užtikrinimas keliuose
 
-1. Saugių eismo sąlygų valstybinės reikšmės keliuose užtikrinimą įgyvendinant eismo saugumo priemones organizuoja ir koordinuoja Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos ir jai pavaldžios valstybinės reikšmės kelius prižiūrinčios valstybės įmonės. Savivaldybės ar kiti juridiniai ir (ar) fiziniai asmenys – kelių savininkai ar valdytojai, atlikdami priskirtąsias funkcijas, užtikrina vietinės reikšmės keliuose ir gatvėse saugias eismo sąlygas, įgyvendindami juose eismo saugumo priemones.
+1. Saugias eismo sąlygas valstybinės reikšmės keliuose užtikrinančių eismo saugumo priemonių įgyvendinimą koordinuoja Susisiekimo ministerija arba jos įgaliota viešoji įstaiga Transporto kompetencijų agentūra, organizuoja valstybės įmonė Lietuvos automobilių kelių direkcija. Savivaldybės ar kiti juridiniai ir (ar) fiziniai asmenys – kelių savininkai ar valdytojai, atlikdami priskirtąsias funkcijas, užtikrina vietinės reikšmės keliuose ir gatvėse saugias eismo sąlygas, įgyvendindami juose eismo saugumo priemones.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 2. Eismo saugumo priemonės įgyvendinamos projektuojant, tiesiant, rekonstruojant, taisant (remontuojant) ir prižiūrint kelius, vadovaujantis Lietuvos kelių projektavimo normatyviniais dokumentais, Lietuvos Respublikos standartais ir kitais normatyviniais teisės aktais.
 
@@ -1052,7 +1118,13 @@ KELIAS
 
 4) tobulinti eismo organizavimą, atsižvelgiant į eismo įvykių kelyje priežastis ir aplinkybes;
 
-5) atlyginti žalą asmenims, atsiradusią dėl teisės aktų nustatyta tvarka neatliktų kelio savininko pareigų.
+5) atlyginti žalą asmenims, atsiradusią dėl teisės aktų nustatyta tvarka neatliktų kelio savininko pareigų;
+
+6) Susisiekimo ministerijos nustatytais atvejais suderinti eismo organizavimą su Susisiekimo ministerija arba jos įgaliota institucija, įstaiga arba valstybės įmone.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 Straipsnio pakeitimai:
 
@@ -1070,13 +1142,21 @@ EISMO DALYVIAI
 
 3. Kiekvienas eismo dalyvis turi teisę naudotis keliais, laikydamasis šio ir kitų įstatymų, KET ir kitų teisės aktų nustatytų reikalavimų, tvarkos ir apribojimų.
 
-4. Eismo dalyviai privalo paklusti teisėtiems tikrinančių pareigūnų ir už kelių priežiūrą atsakingų institucijų įgaliotų pareigūnų, reguliuotojų reikalavimams, vykdyti jų nurodymus.
+4. Eismo dalyviai privalo vykdyti teisėtus tikrinančių pareigūnų reikalavimus ir kelyje dirbančių asmenų nurodymus, duotus kontroliuojant ir reguliuojant eismą keliuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 5. Eismo dalyviai privalo laikytis visų būtinų atsargumo priemonių, nekelti pavojaus kitų eismo dalyvių, kitų asmenų ar jų turto saugumui ir aplinkai, taip pat, siekdami išvengti nuostolingų padarinių arba juos sumažinti, privalo imtis visų būtinų priemonių, išskyrus atvejus, kai dėl to kiltų pavojus jų pačių, kitų žmonių gyvybei ar sveikatai arba tokios priemonės padarytų dar daugiau žalos, palyginti su ta, kurios būtų galima išvengti.
 
 6. Eismo dalyviai negali savavališkai perkelti, uždengti, pašalinti arba įrengti eismo tvarką nustatančias technines priemones, užtverti kelią, palikti kelyje kokius nors daiktus ar kitaip trukdyti eismui, gadinti kelio, eismo reguliavimo priemones, avarinio ryšio linijas ir želdinius, užtverti ar kitaip trukdyti privažiuoti prie priešgaisrinio hidranto ar kitos įrengtos gelbėjimo įrangos, mėtyti iš transporto priemonės kokius nors daiktus, šiukšles, pilti tepalus ne specialiai tam skirtose vietose ar kitaip teršti aplinką.
 
-7. Eismo dalyviai, sudarę ar pastebėję kliūtį kelyje, sukėlę ar pastebėję jame pavojų, privalo šią kliūtį ar pavojų pašalinti, o negalėdami to padaryti, – pranešti policijai, kelio savininkui ar kelią prižiūrinčiai įmonei, pažymėti kliūtį ar pavojingą vietą ir visais įmanomais būdais įspėti apie kliūtį ar pavojų kitus eismo dalyvius.
+7. Eismo dalyviai, sudarę ar pastebėję kliūtį kelyje, sukėlę ar pastebėję jame pavojų, privalo šią kliūtį ar pavojų pašalinti, o negalėdami to padaryti, – pranešti policijai ar kelio savininkui, pažymėti kliūtį ar pavojingą vietą ir visais įmanomais būdais įspėti apie kliūtį ar pavojų kitus eismo dalyvius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 8. Gavęs policijos kvietimą, eismo dalyvis privalo nurodytu laiku atvykti į policijos įstaigą. Su savimi jis privalo turėti asmens tapatybę patvirtinantį dokumentą ir kitus kvietime nurodytus dokumentus.
 
