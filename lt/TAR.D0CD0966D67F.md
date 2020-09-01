@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2020-07-11"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-07-11 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -195,9 +195,17 @@ SAVIVALDYBIŲ FUNKCIJOS
 
 2. Savivaldybių funkcijos pagal veiklos pobūdį skirstomos į vietos valdžios, viešojo administravimo ir viešųjų paslaugų teikimo. Vietos valdžios funkcijas įstatymų nustatyta tvarka atlieka savivaldybės taryba ir meras, įgyvendindami įstatymuose nustatytus įgaliojimus. Viešojo administravimo funkcijas įstatymų nustatyta tvarka atlieka savivaldybės taryba, meras, savivaldybės vykdomoji institucija (vykdomosios institucijos), kiti savivaldybės įstaigų ir tarnybų vadovai, valstybės tarnautojai, kuriems teisės aktai ar savivaldybės tarybos sprendimai suteikia viešojo administravimo teises savivaldybės teritorijoje. Viešąsias paslaugas teikia savivaldybių įsteigti paslaugų teikėjai arba pagal sudarytas sutartis kiti viešai pasirenkami fiziniai ar juridiniai asmenys.
 
-3. Bendriems tikslams pasiekti savivaldybė gali sudaryti jungtinės veiklos sutartis arba bendrų viešųjų pirkimų sutartis su valstybės institucijomis ir (arba) kitomis savivaldybėmis.
+3. Bendriems tikslams pasiekti savivaldybė gali sudaryti jungtinės veiklos sutartis arba bendrų viešųjų pirkimų sutartis su valstybės institucijomis, regionų plėtros tarybomis ir (arba) kitomis savivaldybėmis.
 
-4. Savivaldybė gali perduoti įgyvendinti administracinių ir viešųjų paslaugų funkcijas kitai savivaldybei abipusiu savivaldybių tarybų sutarimu sutarčių pagrindu, tačiau už šių funkcijų įgyvendinimą atsakinga yra funkcijas perduodanti savivaldybė.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
+
+4. Savivaldybė gali perduoti įgyvendinti administracinių ir viešųjų paslaugų funkcijas kitai savivaldybei abipusiu savivaldybių tarybų sutarimu sutarčių pagrindu. Savivaldybė taip pat gali savivaldybės tarybos sprendimu perduoti regiono plėtros tarybai konkrečius viešųjų paslaugų teikimo administravimo įgaliojimus, kurių įgyvendinimo tvarka detalizuojama savivaldybės ir regiono plėtros tarybos sutartyje. Už savivaldybės funkcijų, perduotų kitai savivaldybei ar regiono plėtros tarybai, įgyvendinimą yra atsakinga funkcijas perduodanti savivaldybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
 
 Straipsnio pakeitimai:
 
@@ -213,11 +221,13 @@ Savarankiškosios (Konstitucijos ir įstatymų nustatytos (priskirtos) savivaldy
 
 3) savivaldybei nuosavybės teise priklausančios žemės ir kito turto valdymas, naudojimas ir disponavimas juo;
 
-4) biudžetinių įstaigų steigimas ir išlaikymas, viešųjų įstaigų, savivaldybės įmonių ir kitų savivaldybės juridinių asmenų steigimas;
+4) biudžetinių įstaigų steigimas ir išlaikymas, viešųjų įstaigų, savivaldybės įmonių ir kitų savivaldybės juridinių asmenų, regionų plėtros tarybų steigimas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
 
 5) savivaldybės teritorijoje gyvenančių vaikų iki 16 metų mokymosi pagal privalomojo švietimo programas užtikrinimas;
 
@@ -1115,7 +1125,11 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 42) sprendimų dėl jungimosi į savivaldybių sąjungas, dėl bendradarbiavimo su užsienio šalių savivaldybėmis ar prisijungimo prie tarptautinių savivaldos organizacijų priėmimas;
 
-43) savivaldybės tarybos narių delegavimas į įstatymų nustatytas regionines tarybas, komisijas ir įgaliojimų jiems suteikimas reglamento nustatyta tvarka;
+43) savivaldybės tarybos narių delegavimas į regiono plėtros tarybos kolegiją, įstatymų nustatytas komisijas ir įgaliojimų jiems suteikimas reglamento nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
 
 44) vietos gyventojų apklausos tvarkos aprašo tvirtinimas;
 
@@ -1337,7 +1351,11 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 2) reglamente nustatyta tvarka atstovauja pats arba įgalioja kitus asmenis atstovauti savivaldybei teisme, bendradarbiaujant su kitomis savivaldybėmis, valstybės ar užsienio šalių institucijomis, kitais juridiniais ir fiziniais asmenimis;
 
-3) atstovauja savivaldybei regiono plėtros taryboje ir turi sprendžiamojo balso teisę sudarant ir įgyvendinant regiono plėtros programą;
+3) atstovauja savivaldybei regiono plėtros tarybos kolegijoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
 
 4) reglamento nustatyta tvarka pristato, derina ir teikia savivaldybės tarybai mero pavaduotojo (pavaduotojų), savivaldybės administracijos direktoriaus, savivaldybės administracijos direktoriaus pavaduotojo (savivaldybės administracijos direktoriaus siūlymu), savivaldybės tarybos Kontrolės komiteto pirmininko pavaduotojo, šiame įstatyme nustatytais atvejais Kontrolės komiteto pirmininko ir šiame įstatyme nustatytų savivaldybės tarybos komisijų pirmininkų kandidatūras, taip pat reglamento nustatyta tvarka gali siūlyti atleisti juos iš pareigų, siūlyti skirti nuobaudas savivaldybės administracijos direktoriui;
 
@@ -1411,7 +1429,11 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 3. Meras rūpinasi, kad:
 
-1) savivaldybei būtų tinkamai atstovaujama Regionų plėtros taryboje ir šios tarybos priimti sprendimai būtų tinkamai įgyvendinami savivaldybėje;
+1) savivaldybei būtų tinkamai atstovaujama regiono plėtros tarybos kolegijoje ir šios kolegijos priimti sprendimai būtų tinkamai įgyvendinami savivaldybėje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
 
 2) laiku ir tinkamai būtų rengiami savivaldybės teritorijos raidos analizės ir ilgalaikių socialinių, kultūrinių, ūkinių, investicinių ir kitų programų projektai, užtikrinama jų įgyvendinimo kontrolė;
 
