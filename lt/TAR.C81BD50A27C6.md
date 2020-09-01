@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2020-05-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-09-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
 
@@ -871,11 +871,23 @@ Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
 
 36 straipsnis. Viešosios įstaigos turtas
 
-1. Viešosios įstaigos turtą sudaro ilgalaikis materialusis turtas, turtas, gautas kaip labdara ar parama, turtas, gautas pagal testamentą, finansiniai ištekliai ir kitas su įstaigos veikla susijęs teisėtai įgytas turtas.
+1. LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosios įstaigos turtą sudaro ilgalaikis materialusis turtas, turtas, gautas kaip labdara ar parama, turtas, gautas pagal testamentą, finansiniai ištekliai ir kitas su įstaigos veikla susijęs teisėtai įgytas turtas.
 
-2. Valstybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – valstybės turtas) Vyriausybės nustatyta tvarka viešosioms įstaigoms, kurių savininkas (dalininkas) yra valstybė (toliau – valstybės viešoji įstaiga), perduoda patikėjimo teise pagal patikėjimo  sutartį. Sprendimą dėl valstybės turto perdavimo patikėjimo teise priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti valstybės turto patikėjimo sutartį. Valstybės viešosios įstaigos negali šio valstybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Valstybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų.
+Straipsnio dalies pakeitimai:
 
-3. Savivaldybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – savivaldybės turtas) savivaldybės tarybos nustatyta tvarka perduoda savivaldybių viešosioms įstaigoms patikėjimo teise pagal patikėjimo sutartį. Sprendimą dėl savivaldybės turto perdavimo patikėjimo teise priima savivaldybės taryba. Tokiame sprendime turi būti nurodyta savivaldybės institucija ar įstaiga, įgaliota sudaryti savivaldybės turto patikėjimo sutartį. Savivaldybių viešosios įstaigos negali šio savivaldybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Savivaldybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų.
+Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
+
+2. Valstybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – valstybės turtas) Vyriausybės nustatyta tvarka LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių savininkas (dalininkas) yra valstybė (toliau – valstybės viešoji įstaiga), perduoda patikėjimo teise pagal patikėjimo  sutartį. Sprendimą dėl valstybės turto perdavimo patikėjimo teise priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti valstybės turto patikėjimo sutartį. Valstybės viešosios įstaigos negali šio valstybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Valstybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
+
+3. Savivaldybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – savivaldybės turtas) savivaldybės tarybos nustatyta tvarka LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių  savininkas (dalininkas) yra savivaldybė (toliau – savivaldybės viešoji įstaiga), perduoda patikėjimo teise pagal patikėjimo sutartį. Sprendimą dėl savivaldybės turto perdavimo patikėjimo teise priima savivaldybės taryba. Tokiame sprendime turi būti nurodyta savivaldybės institucija ar įstaiga, įgaliota sudaryti savivaldybės turto patikėjimo sutartį. Savivaldybių viešosios įstaigos negali šio savivaldybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Savivaldybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
 
 4. Valstybės turto ir savivaldybės turto (toliau – turtas) patikėjimo sutartis sudaroma ne ilgesniam kaip 99 metų terminui. Patikėjimo sutarties pavyzdinę formą tvirtina Vyriausybė.
 
@@ -883,7 +895,11 @@ Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
 
 6. Turto patikėjimo sutartyje, be kitų Civiliniame kodekse nurodytų esminių turto patikėjimo sutarties sąlygų, turi būti numatyta valstybės ar savivaldybės viešosios įstaigos pareiga ne vėliau kaip iki kitų metų gegužės 1 dienos paskelbti praėjusių finansinių metų turto valdymo, naudojimo ir disponavimo juo ataskaitą valstybės ar savivaldybės viešosios įstaigos interneto svetainėje.
 
-7. Valstybės ar savivaldybių viešosios įstaigos joms pagal patikėjimo sutartį perduotą turtą gali nuomoti arba perduoti panaudai Vyriausybės nustatyta tvarka.
+7. Valstybės viešosios įstaigos joms pagal patikėjimo sutartį perduotą valstybės turtą gali nuomoti arba perduoti panaudai Vyriausybės nustatyta tvarka. Savivaldybės viešosios įstaigos joms pagal patikėjimo sutartį perduotą savivaldybės turtą gali nuomoti arba perduoti panaudai savivaldybės tarybos nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
 
 8. Į turtą, perduotą pagal patikėjimo sutartį, negali būti nukreipiamas išieškojimas pagal valstybės ar savivaldybės viešosios įstaigos prievoles, įskaitant prievoles, atsiradusias šį turtą valdant, naudojant ir juo disponuojant.
 
@@ -1830,6 +1846,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2643, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20986
 
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 1 ir 2 straipsnių pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
+
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 36 straipsnio pakeitimo įstatymas
 
 62 straipsnis. Įstaigos laikinojo
 
