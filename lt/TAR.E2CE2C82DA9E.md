@@ -4,7 +4,7 @@ identifier: "TAR.E2CE2C82DA9E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-26"
-last_updated: "2019-01-02"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2019-01-02 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-11-30
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
 
@@ -111,7 +111,11 @@ Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 
 4. Valstybinio socialinio draudimo fondo bei šio fondo administravimo įstaigų biudžeto vykdymo ataskaitos ir Privalomojo sveikatos draudimo fondo bei šio fondo administravimo įstaigų biudžeto vykdymo ataskaitos sudaromos vadovaujantis šių fondų veiklą reglamentuojančiais teisės aktais.
 
-5. Išteklių fondai, išskyrus Valstybinio socialinio draudimo fondą ir Privalomojo sveikatos draudimo fondą, mokesčių fondai ir viešosios įstaigos, kurių vadovai nėra asignavimų valdytojai ir kurios pagal šį įstatymą priskiriamos prie viešojo sektoriaus subjektų, nesudaro biudžeto vykdymo ataskaitų, jeigu kituose teisės aktuose nenustatyta kitaip.
+5. Išteklių fondai, išskyrus Valstybinio socialinio draudimo fondą ir Privalomojo sveikatos draudimo fondą, mokesčių fondai, regionų plėtros tarybos ir viešosios įstaigos, kurių vadovai nėra asignavimų valdytojai ir kurios pagal šį įstatymą priskiriamos prie viešojo sektoriaus subjektų, nesudaro biudžeto vykdymo ataskaitų, jeigu kituose teisės aktuose nenustatyta kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3046, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13962
 
 6. Viešojo sektoriaus subjektai, kurie į savo finansines ataskaitas įtraukia juridinių asmenų, nurodytų šio įstatymo 1 straipsnio 2 dalyje, finansinius duomenis, gali reikalauti, kad šie juridiniai asmenys jiems pateiktų finansinę informaciją, reikalingą viešojo sektoriaus subjektų finansinėms ataskaitoms parengti.
 
@@ -811,6 +815,12 @@ Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 
 4. Valstybės, savivaldybės, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo konsoliduotosiose biudžeto vykdymo ataskaitose turi būti parodytos visos atitinkamo biudžeto pajamos ir išlaidos, o kitų viešojo sektoriaus subjektų grupių konsoliduotosiose biudžeto vykdymo ataskaitose turi būti parodyta tik viešojo sektoriaus subjekto grupės atitinkamo biudžeto išlaidų dalis.
 
+5. Viešojo sektoriaus subjektas, kurio teisinė forma yra regiono plėtros taryba ir kurio finansinės ataskaitos pagal Lietuvos Respublikos regioninės plėtros įstatymą turi būti audituotos, veiklos ataskaitoje, be šio straipsnio 1 dalyje nurodytos informacijos, turi pateikti informaciją, nurodytą šio straipsnio 4 dalyje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3046, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13962
+
 Straipsnio pakeitimas:
 
 Nr. X-1821, 2008-11-14, Žin., 2008, Nr. 137-5370 (2008-11-29)
@@ -1054,6 +1064,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1634, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18924
 
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 30 ir 32 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3046, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13962
+
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 19 ir 22-1  straipsnių pakeitimo įstatymas
 
 221 straipsnis. Reikalavimai veiklos ataskaitai
 
