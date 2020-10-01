@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2020-09-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -879,6 +879,12 @@ trečios kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRA�
 3. Projekto įgyvendinimo bendrovė, numatyta Lietuvos Respublikos branduolinės (atominės) elektrinės įstatyme.
 
 4. Telia Lietuva, AB.
+
+5. Įmonė, teikianti penktosios kartos judriojo ryšio (5G) paslaugas ar valdanti šioms paslaugoms teikti reikalingą infrastruktūrą. Vyriausybė ar jos įgaliota institucija nustato kriterijus, pagal kuriuos įmonė laikoma teikianti penktosios kartos judriojo ryšio (5G) paslaugas ar valdanti šioms paslaugoms teikti reikalingą infrastruktūrą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 Lietuvos Respublikos
 
