@@ -4,7 +4,7 @@ identifier: "TAR.29CFE27F6B13"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "2020-07-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2021-08-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
 
@@ -294,11 +294,11 @@ Tarnybinis patikrinimas neatliekamas:
 
 21 straipsnis. Asmens duomenų tvarkymas
 
-Renkamų asmens duomenų, nurodytų šiame statute, tvarkymo tikslai – drausmės pažeidimų ir skundų nagrinėjimas, drausminės nuobaudos skyrimas.
+Nagrinėjant drausmės pažeidimus ir skundus, skiriant drausmines nuobaudas krašto apsaugos sistemos institucijų renkami karių asmens duomenys tvarkomi nacionalinio saugumo ir gynybos tikslais, vadovaujantis Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu ir Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymu.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
+Nr. XIII-3250, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15765
 
 II SKYRIUS
 
@@ -1150,9 +1150,11 @@ Už pakartotinį Karių etikos kodekso reikalavimų pažeidimą privalomosios ka
 
 Už Uniformos dėvėjimo taisyklių pažeidimą, taip pat neteisėtą apdovanojimų ir kitų pasižymėjimo ženklų nešiojimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos kareiviui (jūreiviui) ar puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
 
-96 straipsnis. Rikiuotės ir karinių ceremonijų statuto taisyklių pažeidimas
+96 straipsnis. Neteko galios nuo 2020-10-01
 
-Už Rikiuotės ir karinių ceremonijų statuto taisyklių pažeidimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos kareiviui (jūreiviui) ar puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
+Straipsnio naikinimas:
+
+Nr. XIII-3250, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15765
 
 97 straipsnis. Visuomenės sveikatos saugos reikalavimų nesilaikymas
 
@@ -1257,6 +1259,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
 
 Lietuvos Respublikos kariuomenės drausmės statuto 8, 21, 23, 38, 58 straipsnių pakeitimo ir Statuto papildymo 2-1 straipsniu įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3250, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15765
+
+Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto 2-1 straipsnio pakeitimo ir 96 straipsnio pripažinimo netekusiu galios įstatymas
 
 101 straipsnis. Rūkymas ne tam skirtose vietose
 
