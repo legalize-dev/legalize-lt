@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2020-07-09"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-09 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
 
@@ -248,7 +248,11 @@ PROFESINIŲ SĄJUNGŲ VEIKLOS STATUTINĖSE ĮSTAIGOSE YPATUMAI
 
 4. Kursantų statusas, mokymosi sąlygos ir tvarka nustatomi statutinių profesinio mokymo įstaigų nuostatuose ir kituose teisės aktuose. Kursantai centrinės statutinės įstaigos vadovo nustatytomis sąlygomis ir tvarka gali būti pasitelkiami statutinių įstaigų veiklą reglamentuojančiuose įstatymuose nustatytoms funkcijoms atlikti.
 
-5. Kiekvienam kursantui sudaroma kursanto asmens byla. Kursanto asmens bylos turinį nustato ministras.
+5. Kiekvienam kursantui sudaroma kursanto asmens byla. Kursanto asmens bylos turinį nustato vidaus reikalų ministras, suderinęs su finansų ir teisingumo ministrais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 6. Kursantams, statutinėje profesinio mokymo įstaigoje baigusiems formaliojo profesinio mokymo programą, organizuojamas kompetencijų vertinimas Profesinio mokymo įstatymo nustatyta tvarka.
 
@@ -328,9 +332,13 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 8. Tarnybinis patikrinimas, gavus oficialią informaciją apie galimą pareigūno tarnybinį nusižengimą ar pareigūno vardo pažeminimą, pradedamas, o pradėtas tarnybinis patikrinimas tęsiamas ir sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo, taip pat dėl pareigūno atleidimo iš vidaus tarnybos už pareigūno vardo pažeminimą priimamas:
 
-1) kai pareigūnas, dėl kurio galimo tarnybinio nusižengimo ar pareigūno vardo pažeminimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinis patikrinimas, perkeliamas į pareigas kitoje statutinėje įstaigoje. Šiuo atveju asmuo, pradėjęs tarnybinį patikrinimą, motyvuotą tarnybinio patikrinimo išvadą, kurioje konstatuojama, kad pareigūnas padarė tarnybinį nusižengimą ar pažemino pareigūno vardą, ir siūloma jam skirti tarnybinę nuobaudą ar jį atleisti iš vidaus tarnybos už pareigūno vardo pažeminimą, ministro nustatyta tvarka perduoda statutinės įstaigos, į kurią perkeltas pareigūnas, vadovui, valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai ir pareigūnui, kuris pripažintas padariusiu tarnybinį nusižengimą ar pažeminusiu pareigūno vardą. Sprendimą dėl tarnybinės nuobaudos skyrimo ar pareigūno atleidimo iš vidaus tarnybos už pareigūno vardo pažeminimą priima statutinės įstaigos, į kurią pareigūnas perkeltas, vadovas, atsižvelgdamas į šio straipsnio 4 dalyje nustatytus reikalavimus;
+1) kai pareigūnas, dėl kurio galimo tarnybinio nusižengimo ar pareigūno vardo pažeminimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinis patikrinimas, perkeliamas į pareigas kitoje statutinėje įstaigoje. Šiuo atveju asmuo, pradėjęs tarnybinį patikrinimą, motyvuotą tarnybinio patikrinimo išvadą, kurioje konstatuojama, kad pareigūnas padarė tarnybinį nusižengimą ar pažemino pareigūno vardą, ir siūloma jam skirti tarnybinę nuobaudą ar jį atleisti iš vidaus tarnybos už pareigūno vardo pažeminimą, šio straipsnio 12 dalyje nurodyta tvarka perduoda statutinės įstaigos, į kurią perkeltas pareigūnas, vadovui, valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai ir pareigūnui, kuris pripažintas padariusiu tarnybinį nusižengimą ar pažeminusiu pareigūno vardą. Sprendimą dėl tarnybinės nuobaudos skyrimo ar pareigūno atleidimo iš vidaus tarnybos už pareigūno vardo pažeminimą priima statutinės įstaigos, į kurią pareigūnas perkeltas, vadovas, atsižvelgdamas į šio straipsnio 4 dalyje nustatytus reikalavimus;
 
-2) kai pareigūnas, dėl kurio galimo tarnybinio nusižengimo ar pareigūno vardo pažeminimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinis patikrinimas, atleidžiamas iš vidaus tarnybos (netenka pareigūno statuso). Sprendimą dėl pareigūno, atleisto iš vidaus tarnybos, pripažinimo padariusiu tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, ar sprendimą dėl pareigūno pripažinimo pažeminusiu pareigūno vardą priima pareigūną į pareigas skiriantis asmuo, atsižvelgdamas į šio straipsnio 4 dalyje nustatytus reikalavimus. Šis sprendimas ministro nustatyta tvarka perduodamas valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai ir pareigūnui, atleistam iš vidaus tarnybos.
+2) kai pareigūnas, dėl kurio galimo tarnybinio nusižengimo ar pareigūno vardo pažeminimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinis patikrinimas, atleidžiamas iš vidaus tarnybos (netenka pareigūno statuso). Sprendimą dėl pareigūno, atleisto iš vidaus tarnybos, pripažinimo padariusiu tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, ar sprendimą dėl pareigūno pripažinimo pažeminusiu pareigūno vardą priima pareigūną į pareigas skiriantis asmuo, atsižvelgdamas į šio straipsnio 4 dalyje nustatytus reikalavimus. Šis sprendimas šio straipsnio 12 dalyje nurodyta tvarka perduodamas valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai ir pareigūnui, atleistam iš vidaus tarnybos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 9. Jeigu paaiškėja, kad tarnybinis nusižengimas ar pareigūno vardo pažeminimas turi nusikalstamos veikos ar administracinio nusižengimo požymių, tarnybinis patikrinimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama tirti kompetentingai institucijai. Tarnybinio nusižengimo ar pareigūno vardo pažeminimo tyrimas sustabdomas ir tuo atveju, kai paaiškėja, kad dėl šios pareigūno veikos yra pradėtas ikiteisminis tyrimas arba bylos dėl administracinio nusižengimo teisena. Jeigu atsisakoma pradėti ikiteisminį tyrimą, bylos dėl administracinio nusižengimo teiseną arba pasibaigia baudžiamasis procesas ar bylos dėl administracinio nusižengimo teisena, tarnybinis patikrinimas tęsiamas ir tarnybinė nuobauda turi būti paskirta ar sprendimas dėl pareigūno atleidimo iš vidaus tarnybos už pareigūno vardo pažeminimą turi būti priimtas ne vėliau kaip per 2 mėnesius nuo šių sąlygų atsiradimo. Kai pareigūno veika turi savarankiško tarnybinio nusižengimo ar pareigūno vardą žeminančios veikos požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį nusižengimą ar pareigūno vardo pažeminimą atriboti nuo nusikalstamos veikos ar administracinio nusižengimo, tarnybinio nusižengimo ar pareigūno vardo pažeminimo veikos tyrimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar bylos dėl administracinio nusižengimo teisenos eigą.
 
@@ -432,9 +440,15 @@ PRIĖMIMAS Į VIDAUS TARNYBĄ
 
 1) nustatyti pareigūnui ne mažiau kaip 0,5 ir ne daugiau kaip 1,5 didesnį pareiginės algos koeficientą pagal šio statuto priede šiai pareigybei nustatytą pareiginės algos koeficientų intervalą, tačiau neviršijantį tai pareigybei nustatyto didžiausio pareiginės algos koeficiento;
 
-2) perkelti pareigūną į aukštesnes pareigas;
+2) perkelti pareigūną į aukštesnes pareigas, išskyrus šio statuto 28 straipsnio 5 dalyje nurodytas pareigas;
 
-3) skirti pareigūnui ne didesnę kaip jo vidutinis darbo užmokestis vienkartinę piniginę išmoką Vyriausybės nustatyta tvarka. Ši išmoka mokama tais atvejais, kai pareigūnui pagal einamas pareigas jau nustatyta aukščiausia galima pareiginė alga.
+3) taikyti pareigūnui šio statuto 37 straipsnio 2 dalies 3 ir 4 punktuose nustatytas skatinimo priemones arba apdovanoti jį žinybiniu ženklu;
+
+4) skirti pareigūnui ne didesnę kaip jo vidutinis darbo užmokestis vienkartinę piniginę išmoką Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 16. Vertinimo komisijai įvertinus pareigūno tarnybinę veiklą gerai, iki vertinimo buvusi pareigūno teisinė padėtis nesikeičia. Šiuo atveju vertinimo komisija pareigūną į pareigas skiriančiam asmeniui gali siūlyti pareigūnui skirti padėką.
 
@@ -474,7 +488,11 @@ PRIĖMIMAS Į VIDAUS TARNYBĄ
 
 2. Paskatinimo tvarka suteiktos papildomos mokamos atostogos turi būti panaudotos per 12 mėnesių nuo jų suteikimo datos, išskyrus atvejus, kai pareigūnas suteiktų atostogų per šį laikotarpį negali panaudoti dėl tarnybos užsienyje arba dėl nuo jo nepriklausančių aplinkybių. Pareigūnas per šioje dalyje nustatytą laiką nepanaudotas paskatinimo tvarka suteiktas atostogas praranda.
 
-3. Papildomos mokamos atostogos dėl svarbių aplinkybių pareigūnams suteikiamos ministro nustatyta tvarka.
+3. Papildomos mokamos atostogos dėl svarbių aplinkybių pareigūnams suteikiamos vidaus reikalų ministro nustatyta tvarka, suderinta su finansų ir teisingumo ministrais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 4. Pareigūnui, kuris rotacijos tvarka perkeliamas į kitas lygiavertes pareigas kitoje tarnybos vietovėje arba kuris laikinai dėl tarnybinio būtinumo perkeliamas į kitas pareigas kitoje tarnybos vietovėje, suteikiamos iki 5 darbo dienų trukmės persikėlimo atostogos. Už šį laikotarpį pareigūnui mokamas jo vidutinis darbo užmokestis, apskaičiuotas Vyriausybės nustatyta tvarka.
 
@@ -832,7 +850,11 @@ PAREIGŪNŲ PROFESINIS MOKYMAS IR KVALIFIKACIJOS TOBULINIMAS
 
 20 straipsnis. Pareigūnų kvalifikacijos tobulinimas
 
-1. Pareigūnai privalo nuolat tobulinti kvalifikaciją. Pareigūnų kvalifikacijos tobulinimo tvarką nustato ministras ar jo įgaliotas centrinės statutinės įstaigos vadovas.
+1. Pareigūnai privalo nuolat tobulinti kvalifikaciją. Pareigūnų kvalifikacijos tobulinimo tvarką nustato vidaus reikalų ministras, suderinęs su finansų ir teisingumo ministrais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 2. Pareigūnai privalo atitikti fizinio pasirengimo reikalavimus. Pareigūnų fizinio pasirengimo reikalavimus ir pareigūnų fizinio pasirengimo tikrinimo tvarką nustato vidaus reikalų ministras, suderinęs su finansų ir teisingumo ministrais. Ministras ar jo įgalioti centrinių statutinių įstaigų vadovai pareigūnams gali nustatyti papildomų reikalavimų, susijusių su fiziniais ir praktiniais gebėjimais eiti tam tikras pareigas tam tikruose statutinių įstaigų padaliniuose, ir atitikties šiems reikalavimams tikrinimo tvarką.
 
@@ -1104,6 +1126,14 @@ Pareigūnai į aukštesnes pareigas gali būti perkelti tarnybinės veiklos vert
 
 6. Visais šiame statute nustatytais atvejais sprendimus dėl centrinių statutinių įstaigų vadovų tarnybos santykių (išskyrus sprendimus dėl skyrimo į pareigas, laipsnio suteikimo, atleidimo iš pareigų ir tarnybinių nuobaudų skyrimo), neatsižvelgiant į tai, kas juos paskyrė į šias pareigas, priima ministras.
 
+7. Buvęs centrinės statutinės įstaigos vadovas, iš šių pareigų atleistas šio statuto 72 straipsnio 1 dalies 1, 13, 17 ar 18 punkte nurodytu pagrindu, 5 metus nuo atleidimo dienos be atrankos gali būti paskirtas į bet kurias laisvas pareigūno pareigas.
+
+TAR pastaba. 7 dalyje nustatyta garantija taikoma buvusiems centrinių statutinių įstaigų vadovams, iš šių pareigų atleistiems po 2020 m. rugsėjo 30 d.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+
 30 straipsnis. Tarnybinis kaitumas
 
 1. Pareigūnas jo rašytiniu prašymu gali būti perkeltas į kitas laisvas lygiavertes ar žemesnes pareigas toje pačioje ar kitoje statutinėje įstaigoje.
@@ -1144,7 +1174,11 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 6. Pagal šį straipsnį, išskyrus šio straipsnio 5 dalį, perkeltam į kitas pareigas pareigūnui mokama ne mažesnė kaip iki perkėlimo gauta jo pareiginė alga. Šiame straipsnyje numatytais atvejais į aukštesnes pareigas perkeliamam pareigūnui nustatoma pareiginė alga pagal šio statuto priede šiai pareigybei nustatytą pareiginės algos koeficientų intervalą, taikant ne mažiau kaip 0,5 ir ne daugiau kaip 1,5 didesnį pareiginės algos koeficientą, negu jam buvo nustatytas iki perkėlimo, tačiau neviršijantį tai pareigybei nustatyto didžiausio pareiginės algos koeficiento. Į lygiavertes ar žemesnes pareigūno pareigas perkeliamam pareigūnui nustatoma jo iki perkėlimo gauta pareiginė alga.
 
-7. Pagal šį straipsnį pareigūną galima perkelti į kitas pareigas kitoje tarnybos vietovėje tik tuo atveju, kai atsižvelgiant į šeimos sudėtį jam suteikiamos teisės aktuose nustatyto ploto tarnybinės gyvenamosios patalpos (arba kompensuojamos gyvenamosios patalpos nuomos išlaidos) ir Vyriausybės nustatyta tvarka kompensuojamos kelionės, turto perkėlimo išlaidos. Šie reikalavimai netaikomi karo, nepaprastosios padėties ar kitų ekstremaliųjų situacijų atvejais ar kai yra pareigūno rašytinis sutikimas.
+7. Pagal šį straipsnį pareigūną galima perkelti į kitas pareigūno pareigas kitoje tarnybos vietovėje tik tuo atveju, kai užtikrinamos šio statuto 69 straipsnio 5 dalyje nustatytos garantijos ir Vyriausybės nustatyta tvarka kompensuojamos jo ir jo šeimos narių, nurodytų šio statuto 32 straipsnio 6 dalyje, kelionės ir turto perkėlimo išlaidos. Šie reikalavimai netaikomi karo, nepaprastosios padėties ar kitų ekstremaliųjų situacijų atvejais ar kai yra pareigūno rašytinis sutikimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 8. Pasibaigus pareigūno perkėlimo dėl tarnybinio būtinumo laikotarpiui, pareigūnas grąžinamas į iki perkėlimo eitas pareigas ir jam nustatoma iki perkėlimo gauta pareiginė alga. Tuo atveju, kai pareigūno laikino perkėlimo į kitas pareigas laikotarpiu buvo vertinta jo tarnybinė veikla ir jam buvo nustatyta didesnė pareiginė alga pagal šio statuto priede jo pareigybei nustatytą pareiginės algos koeficientų intervalą, pareigūnui, grąžintam į iki perkėlimo eitas pareigas, iki jo perkėlimo nustatytas pareiginės algos koeficientas didinamas tokiu dydžiu, kokiu jo laikino perkėlimo metu vykusio (vykusių) tarnybinės veiklos vertinimo (vertinimų) metu buvo padidintas pareiginės algos koeficientas, tačiau ne daugiau negu tai pareigybei nustatytas didžiausias pareiginės algos koeficientas.
 
@@ -1180,7 +1214,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
-6. Pareigūno, kuris rotacijos tvarka perkeliamas į kitas lygiavertes pareigas kitoje tarnybos vietovėje, ir jo šeimos narių kelionės ir turto perkėlimo išlaidos kompensuojamos Vyriausybės nustatyta tvarka.
+6. Pareigūno, kuris rotacijos tvarka perkeliamas į kitas lygiavertes pareigas kitoje tarnybos vietovėje, ir jo šeimos narių kelionės ir turto perkėlimo išlaidos kompensuojamos Vyriausybės nustatyta tvarka. Pareigūno šeimos nariai, kuriems kompensuojamos šioje dalyje nustatytos kelionės ir turto perkėlimo išlaidos, yra kartu su pareigūnu gyvenantys nepilnamečiai vaikai (įvaikiai), taip pat vyresni vaikai (įvaikiai), kurie mokosi įregistruotose bendrojo ugdymo mokyklose ir statutinėse profesinio mokymo įstaigose pagal bendrojo ugdymo ir profesinio mokymo programas grupinio mokymosi forma kasdieniu, neakivaizdiniu ir nuotoliniu mokymo proceso organizavimo būdais ar pavienio mokymosi forma savarankišku ir nuotoliniu mokymo proceso organizavimo būdais arba studijuoja aukštojoje mokykloje pagal nuolatinės formos studijų programas tol, kol jiems sukaks 24 metai, sutuoktinis, sugyventinis (partneris), tėvas (įtėvis), motina (įmotė) ir išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas pareigūnas ar jo sutuoktinis, sugyventinis (partneris).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 7. Pareigūnų rotacijos tvarką nustato vidaus reikalų ministras, suderinęs su finansų ir teisingumo ministrais.
 
@@ -1256,9 +1294,17 @@ PAREIGŪNŲ SKATINIMAS IR ATSAKOMYBĖ
 
 7. Pareigūnai, turintys galiojančią tarnybinę nuobaudą, neskatinami ir neapdovanojami.
 
-8. Apdovanojimas ministro nustatyta tvarka gali būti atimtas, kai paaiškėja aplinkybės, dėl kurių pareigūnas negalėjo būti apdovanotas, arba kai pareigūnas pažemina pareigūno vardą.
+8. Apdovanojimas gali būti atimtas, kai paaiškėja aplinkybės, dėl kurių pareigūnas negalėjo būti apdovanotas, arba kai pareigūnas pažemina pareigūno vardą.
 
-9. Pareigūnų skatinimo ir apdovanojimo tvarką, išskyrus vienkartinių piniginių išmokų skyrimą ir mokėjimą, nustato vidaus reikalų ministras, suderinęs su finansų ir teisingumo ministrais.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+
+9. Pareigūnų skatinimo ir apdovanojimo tvarką, išskyrus vienkartinių piniginių išmokų skyrimą ir mokėjimą, taip pat apdovanojimo atėmimo tvarką nustato vidaus reikalų ministras, suderinęs su finansų ir teisingumo ministrais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 41 straipsnis. Tarnybinių nuobaudų išnykimas
 
@@ -1396,7 +1442,11 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 2) už įprastą darbo krūvį viršijančią veiklą, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas neviršijant nustatytos darbo laiko trukmės;
 
-3) už darbą kenksmingomis, labai kenksmingomis ir pavojingomis darbo sąlygomis;
+3) už darbą nustačius pareigūną veikiančius kenksmingus ir (ar) pavojingus veiksnius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 4) už darbą, kuris tiesiogiai susijęs su tarnybinių gyvūnų priežiūra ir parengimu tarnybinėms užduotims atlikti;
 
@@ -1408,11 +1458,19 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 3. Pareigūnams, tarnaujantiems šio statuto 36 straipsnio 1 dalyje nurodytose misijose užsienyje, mokama priemoka. Šios priemokos dydį nustato Vyriausybė.
 
-4. Kenksmingų veiksnių valdymo vidaus tarnybos sistemoje tvarką nustato Vyriausybė.
+4. Kenksmingų ir pavojingų veiksnių valdymo ir priemokos dydžio už darbą, kai pareigūną veikia kenksmingi ir (ar) pavojingi veiksniai, nustatymo ir skyrimo vidaus tarnybos sistemoje tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 58 straipsnis. Sveikatos priežiūra
 
-1. Pareigūnai turi teisę į šiame statute ir kituose įstatymuose nustatytą sveikatos priežiūrą. Asmens sveikatos priežiūros paslaugos pareigūnams Vyriausybės nustatyta tvarka apmokamos iš Privalomojo sveikatos draudimo fondo, valstybės ir savivaldybių biudžetų lėšų.
+1. Pareigūnai turi teisę į šiame statute ir kituose įstatymuose nustatytą sveikatos priežiūrą. Asmens sveikatos priežiūros paslaugos pareigūnams apmokamos iš Privalomojo sveikatos draudimo fondo, valstybės ir savivaldybių biudžetų lėšų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 2. Pareigūnų sveikatos priežiūra, apimanti specializuotąją medicininę ekspertizę, prevencinę medicinos pagalbą, šio statuto 60 straipsnyje nustatytą asmens sveikatos priežiūrą, psichologinės paramos, sveikatos ugdymo ir stiprinimo priemonių taikymą, taip pat iš Privalomojo sveikatos draudimo fondo biudžeto neapmokamą asmens sveikatos priežiūrą įstaigose, kurių savininko teises ir pareigas įgyvendina Vidaus reikalų ministerija, papildomai per programas remiama iš valstybės biudžeto lėšų, skirtų Vidaus reikalų ministerijai. Papildomai per programas iš valstybės biudžeto remiamos pareigūnų sveikatos priežiūros mastą nustato vidaus reikalų ministras, suderinęs su finansų, teisingumo ir sveikatos apsaugos ministrais.
 
@@ -1534,13 +1592,21 @@ PAREIGŪNŲ MATERIALINIS APRŪPINIMAS, PENSIJOS IR KITOS SOCIALINĖS GARANTIJOS
 
 64 straipsnis. Aprūpinimas gyvenamosiomis patalpomis
 
-1. Pareigūnas, kuris pats ar kurio sutuoktinis, sugyventinis (partneris), vaikai ir įvaikiai pareigūno tarnybos vietovėje neturi nuosavybės teise priklausančio tinkamo gyventi vienam asmeniui ar šeimai ir atitinkančio statybos bei specialiųjų normų (higienos, gaisrinės saugos ir kitų) reikalavimus namo, buto ar kitos gyvenamosios patalpos ar jos dalies, iš ministerijos ar centrinės statutinės įstaigos atitinkamoje vietovėje turimo tarnybinių butų fondo aprūpinamas pagal tos gyvenamosios vietovės sąlygas įrengtu, tinkamu gyventi vienam asmeniui ar šeimai ir atitinkančiu statybos bei specialiųjų normų (higienos, gaisrinės saugos ir kitų) reikalavimus suremontuotu tarnybiniu butu (vienas gyvenantis pareigūnas arba pareigūnas, kurio šeima negali persikelti į pareigūno tarnybos vietovę, – atskira tarnybine gyvenamąja patalpa). Už suteiktą tarnybinį butą (tarnybinę gyvenamąją patalpą) pareigūnas moka Vyriausybės nustatyta tvarka apskaičiuotą gyvenamosios patalpos nuomos mokestį ir mokesčius už energiją, ryšių ir visas komunalines paslaugas pagal toje vietovėje galiojančius tarifus.
+1. Pareigūnas, kuris pats ar kurio sutuoktinis, sugyventinis (partneris), nepilnamečiai vaikai ir įvaikiai pareigūno tarnybos vietovėje neturi nuosavybės teise priklausančio tinkamo gyventi vienam asmeniui ar šeimai ir atitinkančio statybos bei specialiųjų normų (higienos, gaisrinės saugos ir kitų) reikalavimus namo, buto ar kitos gyvenamosios patalpos ar jos dalies, Vyriausybės nustatyta tvarka iš ministerijos ar centrinės statutinės įstaigos atitinkamoje vietovėje turimo tarnybinių butų fondo aprūpinamas pagal tos gyvenamosios vietovės sąlygas įrengtu, tinkamu gyventi vienam asmeniui ar šeimai ir atitinkančiu statybos bei specialiųjų normų (higienos, gaisrinės saugos ir kitų) reikalavimus suremontuotu tarnybiniu butu (vienas gyvenantis pareigūnas arba pareigūnas, kurio šeimos nariai, nurodyti šio statuto 32 straipsnio 6 dalyje, negali persikelti į pareigūno tarnybos vietovę, – atskira tarnybine gyvenamąja patalpa). Už suteiktą tarnybinį butą (tarnybinę gyvenamąją patalpą) pareigūnas moka Vyriausybės nustatyta tvarka apskaičiuotą gyvenamosios patalpos nuomos mokestį ir mokesčius už energiją, ryšių ir visas komunalines paslaugas pagal toje vietovėje galiojančius tarifus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 2. Pareigūnas, perėjęs tarnauti į kitą statutinę įstaigą toje pačioje tarnybos vietovėje, dėl šios priežasties negali būti iškeldinamas iš anksčiau suteikto tarnybinio buto (tarnybinės gyvenamosios patalpos).
 
 3. Pareigūnas gali naudotis tarnybiniu butu (tarnybine gyvenamąja patalpa) tol, kol turi pareigūno statusą. Atleistas iš vidaus tarnybos pareigūnas privalo išsikelti iš tarnybinio buto (tarnybinės gyvenamosios patalpos) ne vėliau kaip per 30 kalendorinių dienų nuo atleidimo iš vidaus tarnybos dienos. Vyriausybės nustatytais atvejais, sąlygomis ir tvarka šį terminą ministras gali pratęsti. Atsisakęs išsikelti iš tarnybinio buto (tarnybinės gyvenamosios patalpos) atleistas iš vidaus tarnybos pareigūnas kartu su gyvenančiais asmenimis iš jo (jos) iškeldinamas.
 
-4. Pareigūnui, kuris neaprūpintas tarnybiniu butu šio straipsnio 1 dalyje nustatyta tvarka (vienas gyvenantis pareigūnas arba pareigūnas, kurio šeima negali persikelti į pareigūno tarnybos vietovę, – atskira tarnybine gyvenamąja patalpa), šių gyvenamųjų patalpų tarnybos vietovėje išlaikymo išlaidoms kompensuoti iš ministerijai ar centrinei statutinei įstaigai skirtų lėšų mokami Vyriausybės nustatyto dydžio butpinigiai.
+4. Pareigūnui, kuris neaprūpintas tarnybiniu butu šio straipsnio 1 dalyje nustatyta tvarka (vienas gyvenantis pareigūnas arba pareigūnas, kurio šeimos nariai, nurodyti šio statuto 32 straipsnio 6 dalyje, negali persikelti į pareigūno tarnybos vietovę, – atskira tarnybine gyvenamąja patalpa), šių gyvenamųjų patalpų tarnybos vietovėje išlaikymo išlaidoms kompensuoti iš ministerijai ar centrinei statutinei įstaigai skirtų lėšų mokami Vyriausybės nustatyto dydžio butpinigiai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 65 straipsnis. Specialias tarnybines užduotis vykdančių ar atliekančių tarnybą lauko sąlygomis pareigūnų aprūpinimas maistu
 
@@ -1564,7 +1630,11 @@ Pareigūnui, kuris atlikdamas tarnybines pareigas viršijo tarnybinės rizikos r
 
 68 straipsnis. Pareigūnų, jų šeimos narių ir jų nuosavybės apsauga
 
-Pareigūnų, jų šeimos narių ir jų nuosavybės apsauga, kai dėl pareigūno tarnybos kyla reali grėsmė jų gyvybei, sveikatai ar turtui, užtikrinama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka iš ministerijai ar centrinei statutinei įstaigai valstybės biudžete skirtų asignavimų.
+Pareigūnų, jų šeimos narių, nurodytų šio statuto 32 straipsnio 6 dalyje, ir jų nuosavybės apsauga, kai dėl pareigūno tarnybos kyla reali grėsmė jų gyvybei, sveikatai ar turtui, užtikrinama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka iš ministerijai ar centrinei statutinei įstaigai valstybės biudžete skirtų asignavimų.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 69 straipsnis. Kompensacijos, pašalpos ir kitos išmokos
 
@@ -1584,7 +1654,11 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 4. Pareigūnams, kurie pagal tarnybos pobūdį važinėja keleiviniu ar asmeniniu transportu tarnybos tikslais, kompensuojamos važiavimo išlaidos, išskyrus taksi išlaidas. Pareigūnų važiavimo išlaidų kompensavimo tvarką ir maksimalų važiavimo išlaidų kompensacijos dydį nustato Vyriausybė ar jos įgaliota institucija.
 
-5. Pareigūnas, kuris dėl tarnybinio būtinumo arba rotacijos tvarka perkeltas į kitas pareigūno pareigas kitoje gyvenamojoje vietovėje, aprūpinamas tarnybiniu butu ar tarnybine gyvenamąja patalpa arba jam Vyriausybės nustatyta tvarka ir sąlygomis kompensuojamos nustatyto dydžio buto ar gyvenamosios patalpos tarnybos vietovėje išlaikymo išlaidos arba važiavimo į tarnybos vietą ir iš jos keleiviniu ar asmeniniu transportu išlaidos, išskyrus taksi išlaidas.
+5. Pareigūnas, kuris dėl tarnybinio būtinumo arba rotacijos tvarka perkeltas į kitas pareigūno pareigas kitoje tarnybos vietovėje, aprūpinamas tarnybiniu butu ar tarnybine gyvenamąja patalpa arba jam Vyriausybės nustatyta tvarka ir sąlygomis kompensuojamos Vyriausybės nustatyto dydžio buto ar gyvenamosios patalpos tarnybos vietovėje išlaikymo išlaidos arba važiavimo į tarnybos vietą ir iš jos keleiviniu ar asmeniniu transportu išlaidos, išskyrus taksi išlaidas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 6. Vyriausybė ar jos įgaliota institucija gali nustatyti, kad pareigūnams (išskyrus šio straipsnio 5 dalyje nurodytus pareigūnus), kurie pagal tarnybos reikmes ar pobūdį vyksta į tarnybos vietą ir iš jos, apmokamos kelionės išlaidos. Šių išlaidų dydį, apmokėjimo sąlygas ir tvarką nustato Vyriausybė ar jos įgaliota institucija. Šios dalies nuostatos netaikomos pareigūnams, kurie į tarnybos vietą vežami tarnybiniu transportu.
 
@@ -1784,7 +1858,11 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 80 straipsnis. Grąžinimas į vidaus tarnybą
 
-Buvęs pareigūnas, atitinkantis šio statuto 8 ir 9 straipsniuose nustatytus reikalavimus ir neturintis šio statuto 16 straipsnyje nustatytų apribojimų, jo prašymu gali būti grąžinamas į vidaus tarnybą ir skiriamas į pareigūno pareigas šio statuto 28 straipsnyje nurodytu atrankos būdu. Grąžinimo į vidaus tarnybą tvarką nustato ministras.
+Buvęs pareigūnas, atitinkantis šio statuto 8 ir 9 straipsniuose nustatytus reikalavimus ir neturintis šio statuto 16 straipsnyje nustatytų apribojimų, jo prašymu gali būti grąžinamas į vidaus tarnybą ir skiriamas į pareigūno pareigas šio statuto 28 straipsnyje nurodytu atrankos būdu. Šio statuto 29 straipsnio 7 dalyje nurodyti buvę pareigūnai į pareigūno pareigas skiriami be atrankos. Grąžinimo į vidaus tarnybą tvarką nustato ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 III SKYRIUS
 
