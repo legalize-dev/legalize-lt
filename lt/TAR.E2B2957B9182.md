@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2020-07-08"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-07-08 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -422,7 +422,11 @@ Nr. XI-766, 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
 
 3) farmacinė veikla;
 
-4) LNSS vykdomųjų subjektų teikiamos kitos (mokamos) paslaugos, nepriskiriamos sveikatos priežiūros ir farmacinėms paslaugoms, tačiau reikalingos jų teikimui užtikrinti. Paslaugų kainas nustato paslaugas teikiančių įstaigų administracija.
+4) LNSS vykdomųjų subjektų teikiamos kitos (mokamos) paslaugos, nepriskiriamos sveikatos priežiūros ir farmacinėms paslaugoms, tačiau reikalingos jų teikimui užtikrinti. Paslaugų kainas nustato paslaugas teikiančios įstaigos vadovas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3155, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15133
 
 2. LNSS vykdomieji subjektai pagal kompetenciją teikia šių rūšių sveikatos priežiūros paslaugas:
 
@@ -1152,7 +1156,11 @@ ir jo finansavimas
 
 53 straipsnis. Medicininis ir visuomenės sveikatos priežiūros auditas
 
-1. Kiekvienos asmens ar visuomenės sveikatos priežiūros įstaigos, įmonės, turinčios teisę vykdyti asmens ar visuomenės sveikatos priežiūrą, administracija privalo organizuoti vidaus medicininį ar visuomenės sveikatos priežiūros auditą Sveikatos apsaugos ministerijos nustatyta tvarka.
+1. Kiekvienos asmens ar visuomenės sveikatos priežiūros įstaigos, įmonės, turinčios teisę vykdyti asmens ar visuomenės sveikatos priežiūrą, vadovas privalo organizuoti vidaus medicininį ar visuomenės sveikatos priežiūros auditą sveikatos apsaugos ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3155, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15133
 
 2. Asmens ir visuomenės sveikatos priežiūros įstaigų ir įmonių, kurios verčiasi asmens ar visuomenės sveikatos priežiūros veikla, valstybinį medicininį ar visuomenės sveikatos priežiūros auditą pagal kompetenciją atlieka Sveikatos apsaugos ministerijos įgaliota institucija.
 
@@ -2673,6 +2681,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3148, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15131
 
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3155, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15133
+
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 11 ir 53 straipsnių pakeitimo įstatymas
 
 ir trečioji dalys, 94, 95 straipsniai, 96 straipsnis, 98  straipsnio antroji ir
 
