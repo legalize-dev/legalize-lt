@@ -4,7 +4,7 @@ identifier: "TAR.F4CA26A706AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-25"
-last_updated: "2020-07-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2021-09-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
 
@@ -268,7 +268,11 @@ Vyriausybė atlieka šias funkcijas:
 
 8) tvirtina detalių įslaptinamos informacijos sąrašų rengimo rekomendacijas;
 
-9) paslapčių subjektams tarpininkaujant, sprendžia klausimus dėl galimybės išduoti leidimus dirbti ar susipažinti su įslaptinta informacija asmenims, turintiems dvigubą pilietybę, arba asmenims, neturintiems šio įstatymo 17 straipsnio 2 dalies 1 punkte nustatyto nuolatinio gyvenimo Lietuvos Respublikoje, Europos Sąjungos ar NATO valstybėse narėse cenzo;
+9) paslapčių subjektams tarpininkaujant, sprendžia klausimus dėl galimybės išduoti leidimus dirbti ar susipažinti su įslaptinta informacija asmenims, turintiems dvigubą pilietybę, arba asmenims, neturintiems šio įstatymo 17 straipsnio 2 dalies 1 punkte nustatyto nuolatinio gyvenimo Lietuvos Respublikoje, Europos Sąjungos ar NATO valstybėse narėse cenzo, išskyrus asmenis, kurie yra (ar pretenduoja tapti) kriminalinės žvalgybos subjekto darbuotojai (darbuotojais), o jų tarnybinė priklausomybė kriminalinės žvalgybos subjektui yra įslaptinta ir užšifruota, ar įslaptinti (įslaptintais) žvalgybos pareigūnai (pareigūnais), taip pat asmenis, įtrauktus į žvalgybos pareigūnų rezervą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 10) sprendžia ginčus tarp paslapčių subjektų, taip pat ginčus tarp paslapčių subjektų ir kitų asmenų, kylančius dėl informacijos įslaptinimo, įslaptintos informacijos saugojimo, naudojimo, išslaptinimo, apsaugos kontrolės (priežiūros);
 
@@ -520,6 +524,12 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
+82. Atliekant kriminalinės žvalgybos tyrimą ar vykdant žvalgybą slaptai su kriminalinės žvalgybos subjektais bendradarbiaujantys asmenys ir žvalgybos slaptieji bendradarbiai su įslaptinta informacija gali būti supažindinti kriminalinės žvalgybos pagrindinių institucijų vadovų ar žvalgybos institucijų vadovų nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
+
 9. Šio straipsnio 6, 7 ir 8 dalyse išvardyti asmenys, prieš jiems suteikiant teisę susipažinti su įslaptinta informacija, yra įspėjami dėl atsakomybės už įslaptintos informacijos neteisėtą atskleidimą ar praradimą ir už įslaptintos informacijos apsaugą atsakingam asmeniui turi pateikti rašytinį pasižadėjimą saugoti įslaptintą informaciją.
 
 16 straipsnis. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“
@@ -552,13 +562,19 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
 
-3. Informaciją, ar asmuo atitinka šio straipsnio 2 dalyje nustatytas sąlygas, surenka paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, iš valstybės registrų (kadastrų), klasifikatorių ir kitų duomenų bankų arba kreipdamasis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, tvarkančias atitinkamą informaciją, kad šios ne vėliau kaip per 10 darbo dienų pateiktų apie tokį asmenį jų turimą informaciją. Paslapčių subjekto vadovas arba jo įgaliotas asmuo gali tikrinamo asmens paprašyti pateikti tikrinimui reikalingą informaciją ar dokumentus.
+3. Informaciją, ar asmuo atitinka šio straipsnio 2 dalyje nustatytas sąlygas, surenka paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, iš valstybės registrų (kadastrų), klasifikatorių ir kitų duomenų bankų arba kreipdamasis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, tvarkančias atitinkamą informaciją, o šios turimą informaciją privalo pateikti ne vėliau kaip per 15 darbo dienų nuo prašymo gavimo dienos. Paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, gali tikrinamo asmens paprašyti pateikti tikrinimui reikalingą informaciją ar dokumentus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
-4. Asmens tikrinimas dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo pradedamas gavus asmens rašytinį sutikimą būti tikrinamam. Sprendimas dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo turi būti priimtas ne vėliau kaip per 20 darbo dienų nuo tikrinimo pradžios.
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
+
+4. Sprendimas dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo turi būti priimtas ne vėliau kaip per 30 darbo dienų nuo prašymo suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 5. Asmenys, kuriems yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“, nėra tikrinami dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo.
 
@@ -574,7 +590,11 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 1) asmuo yra Lietuvos Respublikos pilietis;
 
-2) asmuo pateikia užpildytą nustatytos formos klausimyną ir pasirašytinai sutinka, kad būtų tikrinamas;
+2) asmuo pateikia užpildytą nustatytos formos klausimyną;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 3) asmuo pasirašytinai pasižada saugoti įslaptintą informaciją;
 
@@ -582,11 +602,19 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 2. Asmuo nėra patikimas ir lojalus Lietuvos valstybei ir leidimas dirbti ar susipažinti su įslaptinta informacija tokiam asmeniui neišduodamas, jeigu:
 
-1) asmuo nuolat gyveno Lietuvos Respublikoje, kitose Europos Sąjungos ar NATO valstybėse narėse mažiau kaip 5 pastaruosius metus ir Paslapčių apsaugos koordinavimo komisija priėmė sprendimą neišduoti leidimo dirbti ar susipažinti su įslaptinta informacija;
+1) asmuo nuolat gyveno Lietuvos Respublikoje, kitose Europos Sąjungos ar NATO valstybėse narėse mažiau kaip 5 pastaruosius metus ir Paslapčių apsaugos koordinavimo komisija,  o tuo atveju, kai asmuo yra (ar pretenduoja tapti) kriminalinės žvalgybos subjekto darbuotojas (darbuotoju), o jo tarnybinė priklausomybė kriminalinės žvalgybos subjektui yra įslaptinta ir užšifruota, ar įslaptintas (įslaptintu) žvalgybos pareigūnas (pareigūnu), taip pat kai asmuo yra įtrauktas į žvalgybos pareigūnų rezervą, paslapčių subjekto vadovas ar jo įgaliotas asmuo priėmė sprendimą neišduoti leidimo dirbti ar susipažinti su įslaptinta informacija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 2) asmuo per pastaruosius 5 metus yra kreipęsis į atitinkamas valstybės institucijas dėl Lietuvos Respublikos pilietybės atsisakymo;
 
-3) asmuo turi dvigubą pilietybę ir Paslapčių apsaugos koordinavimo komisija priėmė sprendimą neišduoti leidimo dirbti ar susipažinti su įslaptinta informacija;
+3) asmuo turi dvigubą pilietybę ir Paslapčių apsaugos koordinavimo komisija, o tuo atveju, kai asmuo yra (ar pretenduoja tapti) kriminalinės žvalgybos subjekto darbuotojas (darbuotoju), o jo tarnybinė priklausomybė kriminalinės žvalgybos subjektui yra įslaptinta ir užšifruota, ar įslaptintas (įslaptintu) žvalgybos pareigūnas (pareigūnu), taip pat kai asmuo yra įtrauktas į žvalgybos pareigūnų rezervą, paslapčių subjekto vadovas ar jo įgaliotas asmuo priėmė sprendimą neišduoti leidimo dirbti ar susipažinti su įslaptinta informacija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 4) asmuo įsiteisėjusiu nuosprendžiu buvo pripažintas kaltu dėl labai sunkaus nusikaltimo arba nusikaltimo Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai, arba nusikaltimo visuomenės saugumui, nepaisant to, ar išnyko, ar buvo panaikintas teistumas;
 
@@ -660,7 +688,11 @@ Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
 
 2) dėl asmens padaryto šiurkštaus darbo su įslaptinta informacija tvarkos pažeidimo kilo grėsmė, kad įslaptinta informacija gali būti prarasta ar neteisėtai atskleista;
 
-3) su paslapčių subjektu nutraukiami darbo (tarnybos) santykiai, pasibaigia renkamų arba skiriamų į pareigas asmenų įgaliojimų laikas;
+3) su paslapčių subjektu nutraukiami darbo (tarnybos) santykiai, pasibaigia renkamų arba skiriamų į pareigas asmenų įgaliojimų laikas arba asmuo išbraukiamas iš žvalgybos pareigūnų rezervo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 4) atlikus pakartotinį ar papildomą asmens tikrinimą nustatoma kuri nors iš aplinkybių, nurodytų šio įstatymo 17 straipsnio 2 dalyje.
 
@@ -938,9 +970,17 @@ Už įslaptintos informacijos apsaugą atsakingas asmuo:
 
 1) prašymą inicijuoti tiekėjo tikrinimo procedūrą;
 
-2) tiekėjo užpildytą įslaptintų sandorių saugumo klausimyną ir jo rašytinį sutikimą būti tikrinamam;
+2) tiekėjo užpildytą įslaptintų sandorių saugumo klausimyną;
 
-3) tiekėjo administracijos vadovo, vyriausiojo buhalterio arba buhalterinę apskaitą tvarkančio padalinio vadovo ar tikrinamo tiekėjo buhalterinę apskaitą tvarkančio kito tiekėjo darbuotojo, už įslaptintos informacijos apsaugą atsakingų asmenų, juos pavaduojančių asmenų ir darbuotojų ar įgaliotų asmenų, kurie dalyvaus rengiant ir teikiant komercinius pasiūlymus paslapčių subjektams dėl įslaptintų sandorių sudarymo, užpildytus klausimynus, šių asmenų rašytinius sutikimus būti tikrinamiems;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
+
+3) tiekėjo administracijos vadovo, vyriausiojo buhalterio arba buhalterinę apskaitą tvarkančio padalinio vadovo ar tikrinamo tiekėjo buhalterinę apskaitą tvarkančio kito asmens, už įslaptintos informacijos apsaugą atsakingų asmenų, juos pavaduojančių asmenų ir darbuotojų ar įgaliotų asmenų, kurie dalyvaus rengiant ir teikiant komercinius pasiūlymus paslapčių subjektams dėl įslaptintų sandorių sudarymo, užpildytus klausimynus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 4) informaciją, reikalingą patalpoms, kuriose numatoma dirbti su įslaptinta informacija ar tokią informaciją saugoti, įvertinti dėl jų pripažinimo tinkamomis dirbti su įslaptinta informacija ar tokią informaciją saugoti;
 
@@ -1052,7 +1092,11 @@ DEVINTASIS SKIRSNIS
 
 1. Pagrindinis asmens tikrinimo tikslas – nustatyti, ar asmeniui, kuris pretenduoja gauti leidimą dirbti ar susipažinti su įslaptinta informacija, gali būti patikėta įslaptinta informacija, ar tikrinamas asmuo yra patikimas ir lojalus Lietuvos valstybei – nėra šio įstatymo 17 straipsnio 2 dalyje nurodytų aplinkybių. Asmenys tikrinami paslapčių subjekto, užsienio valstybės, Europos Sąjungos ar tarptautinės organizacijos institucijos teikimu.
 
-2. Asmens tikrinimas dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo pradedamas gavus tinkamai užpildytą nustatyto pavyzdžio klausimyną ir asmens rašytinį sutikimą būti tikrinamam. Asmens rašytinio sutikimo būti tikrinamam nereikia gauti pradedant papildomą asmens tikrinimą.
+2. Asmens tikrinimas dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo pradedamas gavus tinkamai užpildytą nustatyto pavyzdžio klausimyną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 3. Asmens tikrinimo metu negali būti naudojami kriminalinės žvalgybos informacijos rinkimo būdai ir priemonės, išskyrus apklausą ir duomenų, esančių kriminalinės žvalgybos informacinėje sistemoje, peržiūrą.
 
@@ -1070,7 +1114,11 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 2) vidaus reikalų ministro įgaliotos institucijos, kai tikrinamas asmuo eina ar pretenduoja eiti pareigas vidaus reikalų sistemoje;
 
-3) paslapčių subjektai, kai tikrinamas asmuo yra ar pretenduoja tapti slaptuoju kriminalinės žvalgybos dalyviu, įslaptintu žvalgybos pareigūnu ar slaptuoju žvalgybos bendradarbiu;
+3) paslapčių subjektai, kai tikrinamas asmuo yra (ar pretenduoja tapti) kriminalinės žvalgybos subjekto darbuotojas (darbuotoju), o jo tarnybinė priklausomybė kriminalinės žvalgybos subjektui yra įslaptinta ir užšifruota, ar įslaptintas (įslaptintu) žvalgybos pareigūnas (pareigūnu), taip pat kai asmuo yra įtrauktas į žvalgybos pareigūnų rezervą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 4) Valstybės saugumo departamentas, kai leidimą dirbti ar susipažinti su įslaptinta informacija pretenduoja gauti asmuo, nenurodytas šios dalies 1, 2 ir 3 punktuose.
 
@@ -1080,9 +1128,17 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 9. Jeigu negauta iš institucijų ar specialistų tikrinimui atlikti reikalingos informacijos ar išvadų arba asmuo tiriamas poligrafu, šio straipsnio 8 dalyje nurodytas 40 darbo dienų tikrinimo terminas pratęsiamas tikrinančiosios institucijos vadovo ar jo įgalioto asmens sprendimu, bet ne ilgiau kaip 40 darbo dienų.
 
-10. Asmens tikrinimą atliekančios institucijos turi teisę neatlygintinai gauti duomenis apie tikrinamą asmenį iš valstybės registrų (kadastrų), klasifikatorių ir kitų duomenų bankų, taip pat kitą informaciją apie tikrinamą asmenį iš visų valstybės, savivaldybės institucijų, antstolių, notarų, kitų įmonių, įstaigų, organizacijų, juridinių ar fizinių asmenų.
+10. Asmens tikrinimą atliekančios institucijos, vertindamos, ar nėra šio įstatymo 17 straipsnio 2 dalyje nurodytų aplinkybių, turi teisę neatlygintinai gauti duomenis apie tikrinamą asmenį iš valstybės registrų (kadastrų), klasifikatorių ir kitų duomenų bankų, taip pat kitą informaciją apie tikrinamą asmenį iš visų valstybės, savivaldybių institucijų, antstolių, notarų, finansų ir kredito įstaigų (įskaitant banko paslaptį sudarančią informaciją), sveikatos priežiūros įstaigų (įskaitant konfidencialią informaciją apie pacientą), kitų įmonių, įstaigų, organizacijų, juridinių ar fizinių asmenų. Šie subjektai, gavę asmens tikrinimą atliekančios institucijos prašymą pateikti informaciją apie tikrinamą asmenį, šią informaciją privalo pateikti ne vėliau kaip per 15 darbo dienų nuo prašymo gavimo dienos.
 
-11. Asmenų tikrinimą atliekančios institucijos asmens duomenis tvarko automatiniu būdu, neatlikdamos Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme nustatytos išankstinės patikros.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
+
+11. Asmenų tikrinimą atliekančios institucijos asmens duomenis tvarko automatiniu būdu. Paslapčių subjektai ir šio straipsnio 6 dalyje nurodytos institucijos tikrinamų asmenų ir leidimus dirbti ar susipažinti su įslaptinta informacija turinčių asmenų, o šio straipsnio 6 dalyje nurodytos institucijos taip pat ir asmenų, kurių duomenis būtina tvarkyti siekiant įvertinti, ar dėl tikrinamo asmens ryšių negalėtų kilti grėsmė jam patikėtos įslaptintos informacijos saugumui, asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (tikrinamiems asmenims, leidimus dirbti ar susipažinti su įslaptinta informacija turintiems asmenims, taip pat asmenims, kurių duomenis būtina tvarkyti siekiant įvertinti, ar dėl tikrinamo asmens ryšių negalėtų kilti grėsmė jam patikėtos įslaptintos informacijos saugumui) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (tikrinamų asmenų, leidimus dirbti ar susipažinti su įslaptinta informacija turinčių asmenų, taip pat asmenų, kurių duomenis būtina tvarkyti siekiant įvertinti, ar dėl tikrinamo asmens ryšių negalėtų kilti grėsmė jam patikėtos įslaptintos informacijos saugumui) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma užtikrinti personalo patikimumo ir (arba) įslaptintų sandorių apsaugos. Paslapčių subjektai ir šio straipsnio 6 dalyje nurodytos institucijos turi kiekvienu konkrečiu atveju paslapčių subjekto vadovo ar atitinkamai šio straipsnio 6 dalyje nurodytos institucijos vadovo nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 12. Sprendimas dėl asmens tikrinimo nutraukimo gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
@@ -1096,7 +1152,11 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 2. Sprendimas dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Skundo dėl sprendimo išduoti leidimą dirbti ar susipažinti su įslaptinta informacija nustatytu laiku padavimas ir jo priėmimas sustabdo išduoto leidimo dirbti ar susipažinti su įslaptinta informacija galiojimą iki bylos dėl skundo išnagrinėjimo.
 
-3. Paslapčių subjektas iki kiekvieno mėnesio pabaigos privalo informuoti Valstybės saugumo departamentą apie išduotus leidimus dirbti ar susipažinti su įslaptinta informacija.
+3. Paslapčių subjektas iki kiekvieno mėnesio pabaigos privalo informuoti Valstybės saugumo departamentą apie išduotus leidimus dirbti ar susipažinti su įslaptinta informacija, išskyrus atvejus, kai leidimai dirbti ar susipažinti su įslaptinta informacija išduodami kriminalinės žvalgybos subjekto darbuotojams, kurių tarnybinė priklausomybė kriminalinės žvalgybos subjektui yra įslaptinta ir užšifruota, ar įslaptintam žvalgybos pareigūnui arba asmeniui, kuris yra įtrauktas į žvalgybos pareigūnų rezervą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 4. Asmeniui išdavus leidimą dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“, atliekamas saugumo instruktažas. Saugumo instruktažą atlieka asmens patikrinimą atlikusi institucija. Saugumo instruktažas taip pat atliekamas išdavus leidimą dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žymomis „Slaptai“ ir „Konfidencialiai“, jeigu asmens einamos ar pretenduojamos eiti pareigos yra susijusios su didelėmis grėsmėmis įslaptintos informacijos saugumui.
 
@@ -1675,4 +1735,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3073, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14348
 
 Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 7, 17 ir 36 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
+
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 12, 15, 16, 17, 18, 19, 20 ir 35 straipsnių pakeitimo įstatymas
 
