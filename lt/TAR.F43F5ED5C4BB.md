@@ -4,7 +4,7 @@ identifier: "TAR.F43F5ED5C4BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2020-07-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F43F5ED5C4BB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karių materialinės atsakomybės įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2023-01-04
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1928, i. k. 1001010ISTAIII-1857
 
@@ -263,13 +263,13 @@ Straipsnio pakeitimai:
 
 Nr. XIII-2675, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21531
 
-11 straipsnis. Asmens duomenų tvarkymo tikslai
+11 straipsnis. Asmens duomenų tvarkymas
 
-Renkamų asmens duomenų, nurodytų šiame įstatyme, tvarkymo tikslai – karių materialinės atsakomybės sutarčių administravimas, materialinės atsakomybės už padarytą žalą taikymas, padarytos žalos nustatymas ir atlyginimas, skundų dėl žalos atlyginimo nagrinėjimas.
+Administruojant karių materialinės atsakomybės sutartis, taikant materialinę atsakomybę už padarytą žalą, nustatant ir atlyginant padarytą žalą, nagrinėjant skundus dėl žalos atlyginimo krašto apsaugos sistemos institucijų renkami karių asmens duomenys tvarkomi nacionalinio saugumo ir gynybos tikslais, vadovaujantis Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu ir Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymu.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XIII-2675, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21531
+Nr. XIII-3249, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15764
 
 12 straipsnis. Tarnybinį patikrinimą atliekančio karininko teisės ir pareigos
 
@@ -639,7 +639,7 @@ Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010IST
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -690,4 +690,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2675, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21531
 
 Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 1, 4, 10, 12, 13, 15, 21, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 1-1 straipsniu įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3249, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15764
+
+Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 1-1 straipsnio pakeitimo įstatymas
 
