@@ -4,7 +4,7 @@ identifier: "TAR.1881C195D0E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2019-08-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2019-08-01 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
 
@@ -319,7 +319,11 @@ Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 3. Duomenys iš valstybės ir savivaldybių institucijų, įstaigų, įmonių ir organizacijų, kitų juridinių asmenų, atliekančių valstybės perduotas funkcijas, tvarkomų valstybės ir žinybinių registrų, informacinių sistemų ir duomenų bazių žvalgybos institucijoms teikiami Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme nustatytais būdais arba teikiant žvalgybos institucijoms valstybės ir žinybinių registrų, informacinių sistemų ar duomenų bazių nuolat atnaujinamą išrašą, jeigu būtina užtikrinti žvalgybos institucijų veiklos saugumą.
 
-4. Informacija apie duomenų pateikimą žvalgybos institucijoms iš šiame straipsnyje nurodytų valstybės ir žinybinių registrų, informacinių sistemų ir duomenų bazių tretiesiems asmenims neteikiama.
+4. Informacija apie duomenų pateikimą žvalgybos institucijoms iš šiame straipsnyje nurodytų valstybės ir žinybinių registrų, informacinių sistemų ir duomenų bazių tretiesiems asmenims ir duomenų subjektams neteikiama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
 
 15 straipsnis. Duomenų gavimas iš asmenų
 
@@ -335,17 +339,11 @@ Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 2. Žvalgybos institucijų veiklos metu surinkta žvalgybos informacija tvarkoma taip, kad nebūtų neteisėtai ar nepagrįstai atskleisti žvalgybos informacijos šaltiniai, pažeistos su žvalgybos institucijomis bendradarbiaujančių asmenų teisės ar teisėti jų interesai.
 
-3. Žvalgybos institucijos tvarko šių asmenų duomenis:
+3. Neteko galios nuo 2020-10-01
 
-1) asmenų, kurių veiksmai gali kelti pavojų ar grėsmę Lietuvos Respublikos nacionaliniam saugumui, valstybės interesams, gynybinei ir ekonominei galiai;
+Straipsnio dalies naikinimas:
 
-2) asmenų, pretenduojančių gauti leidimą dirbti ar susipažinti su valstybės ar tarnybos paslaptį sudarančia informacija ir davusių sutikimą tvarkyti jų asmens duomenis;
-
-3) asmenų, kurių duomenų tvarkymas yra būtinas siekiant įvertinti informaciją apie išorės rizikos veiksnius, pavojus ar grėsmes Lietuvos Respublikos nacionaliniam saugumui, valstybės interesams, gynybinei ir ekonominei galiai;
-
-4) asmenų, kurių duomenis teikia užsienio valstybių žvalgybos, saugumo institucijos;
-
-5) asmenų, kuriuos su žvalgybos institucija sieja ar siejo tarnybos arba bendradarbiavimo santykiai.
+Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
 
 4. Žvalgybos informacija tvarkoma žvalgybos institucijos vadovo nustatyta tvarka.
 
@@ -1865,6 +1863,14 @@ Nr. XIII-2349, 2019-07-16, paskelbta TAR 2019-07-31, i. k. 2019-12633
 
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 50 straipsnio pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
+
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 14, 16 straipsnių pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas
+
 641 straipsnis. Žvalgybos pareigūnų aprūpinimas tarnybos užsienyje laikotarpiu
 
 1. Tarnybos užsienyje laikotarpiu žvalgybos pareigūnui mokamas šiame įstatyme nustatytas tarnybinis atlyginimas (įskaitant priedus už kario laipsnį ar tarnybinį rangą ir tarnybos stažą), skaičiuojamas pagal nustatytą iki perkėlimo eitoms žvalgybos pareigūno pareigoms pareiginės algos koeficientą, išskyrus atvejus, kai darbo užmokestį jiems moka priimančioji institucija.
@@ -1926,4 +1932,30 @@ TAR pastaba. 641 straipsnio 16 dalies nuostatos pradedamos taikyti, kai Lietuvo
 Papildyta straipsniu:
 
 Nr. XIII-2349, 2019-07-16, paskelbta TAR 2019-07-31, i. k. 2019-12633
+
+161 straipsnis. Asmens duomenų tvarkymas nacionalinio saugumo ar gynybos tikslais
+
+1. Vykdydamos šiame įstatyme numatytą veiklą, žvalgybos institucijos renkamus asmens duomenis tvarko nacionalinio saugumo ar gynybos tikslais. Šiais tikslais žvalgybos institucijos turi teisę tvarkyti ir specialių kategorijų asmens duomenis.
+
+2. Šio straipsnio 1 dalyje nurodytais tikslais asmens duomenys tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu.
+
+3. Žvalgybos institucijos, tvarkydamos skirtingų kategorijų duomenų subjektų duomenis, privalo, kiek įmanoma, šiuos duomenis atskirti. Šis reikalavimas taikomas tvarkant šių kategorijų duomenų subjektų asmens duomenis:
+
+1) asmenų, kurių veiksmai gali kelti pavojų ar grėsmę Lietuvos Respublikos nacionaliniam saugumui, valstybės interesams, gynybinei ir ekonominei galiai;
+
+2) asmenų, kurių duomenų tvarkymas yra būtinas siekiant įvertinti informaciją apie rizikos veiksnius, pavojus ar grėsmes Lietuvos Respublikos nacionaliniam saugumui, valstybės interesams, gynybinei ir ekonominei galiai;
+
+3) asmenų, turinčių ar pretenduojančių gauti leidimą dirbti ar susipažinti su valstybės ar tarnybos paslaptį sudarančia informacija;
+
+4) asmenų, kurių duomenis teikia Lietuvos Respublikos ar užsienio valstybių teisėsaugos, žvalgybos ir saugumo institucijos;
+
+5) asmenų, kuriuos su žvalgybos institucija sieja ar siejo atrankos į žvalgybos instituciją,  tarnybos (darbo) arba bendradarbiavimo santykiai.
+
+4. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, taip pat Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų teisės susipažinti su asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis arba apriboti jų tvarkymą gali būti apribotos visiškai ar iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ar įgyvendinus šioje dalyje nurodytas jo teises gali būti atskleisti žvalgybos institucijų veiklos metodai ir priemonės, veiklos taktika ir (ar) padaryta žala žvalgybos institucijų veiklai. Žvalgybos institucijos turi kiekvienu konkrečiu atveju žvalgybos institucijos vadovo nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti šio straipsnio 5 dalyje nurodytiems subjektams jų prašymu.
+
+5. Žvalgybos institucijų veiksmai ar neveikimas, susiję su asmens duomenų tvarkymu nacionalinio saugumo ar gynybos tikslais galimai pažeidžiant šio įstatymo ar Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo nuostatas, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, taip pat asmuo turi teisę kreiptis į Seimo kontrolierių Lietuvos Respublikos Seimo kontrolierių įstatymo nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
 
