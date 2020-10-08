@@ -4,7 +4,7 @@ identifier: "TAR.026F44E06A27"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-10-12"
-last_updated: "2019-07-27"
+last_updated: "2020-10-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.026F44E06A27"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas
 
-Suvestinė redakcija nuo 2019-07-27 iki 2020-10-07
+Suvestinė redakcija nuo 2020-10-08 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 54-1048, i. k. 0931010ISTA000I-270
 
@@ -82,7 +82,11 @@ BENDROSIOS NUOSTATOS
 
 16. Statistinio stebėjimo vienetas – tiriamosios visumos vienetas (namų ūkis, fizinis asmuo, juridinis asmuo, užsienio įmonės filialas, registruotas Lietuvoje, įmonių grupė ar jos dalis arba kita organizacija ar jų padalinys ir pan.), turintis statistinio tyrimo metu tiriamus požymius.
 
-17. Statistinis formuliaras – statistiniams duomenims įrašyti ir teikti naudojamas oficialiąją statistiką tvarkančios įstaigos patvirtintas ir oficialiai paskelbtas dokumento blankas su informacija apie statistinį tyrimą ir paaiškinimais, kaip pildyti šį blanką.
+17. Statistinis formuliaras – statistiniams duomenims įrašyti ir elektroniniu būdu teikti naudojamas oficialiąją statistiką tvarkančios įstaigos patvirtintas ir oficialiai paskelbtas dokumento blankas su informacija apie statistinį tyrimą ir paaiškinimais, kaip pildyti šį blanką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
 
 18. Statistinis tyrimas – statistiniais metodais atliekamas statistikos darbas.
 
@@ -92,11 +96,13 @@ BENDROSIOS NUOSTATOS
 
 21. Visuotinis surašymas – valstybės mastu atliekamas statistinis tyrimas, kuriuo siekiama surinkti išsamius statistinius duomenis apie visus Lietuvos Respublikos statistinio stebėjimo vienetus.
 
-22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679) ir Lietuvos Respublikos viešojo administravimo įstatyme.
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos viešojo administravimo įstatyme ir Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
 
 3 straipsnis. Oficialiosios statistikos organizavimo principai
 
@@ -114,7 +120,11 @@ Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
 
 2. Siekdamos užtikrinti visuomenės pasitikėjimą oficialiąja statistika, oficialiąją statistiką tvarkančios įstaigos vadovaujasi Europos statistikos praktikos kodekso principais, kaip nurodyta Reglamento (EB) Nr. 223/2009 11 straipsnyje.
 
-3. Šiame straipsnyje nurodytus principus Lietuvos bankas, vykdydamas Oficialiosios statistikos programos II dalies nuostatas, taiko taip, kaip Europos centrinių bankų sistemos vykdomo Europos statistikos plėtojimo, rengimo ir sklaidos principus taiko Europos Centrinis Bankas, ir taip, kaip nurodyta 1998 m. lapkričio 23 d. Tarybos reglamento (EB) Nr. 2533/98 dėl Europos centrinio banko renkamos statistinės informacijos (OL 2004 m. specialusis leidimas, 1 skyrius, 3 tomas, p. 23) su paskutiniais pakeitimais, padarytais 2015 m. kovo 5 d. Tarybos reglamentu (ES) 2015/373 (OL 2015 L 64, p. 6) (toliau – Reglamentas (EB) Nr. 2533/98), 3a straipsnyje.
+3. Šiame straipsnyje nurodytus principus Lietuvos bankas, vykdydamas Oficialiosios statistikos programos II dalies nuostatas, taiko taip, kaip Europos centrinių bankų sistemos vykdomo Europos statistikos plėtojimo, rengimo ir sklaidos principus taiko Europos Centrinis Bankas, ir taip, kaip nurodyta 1998 m. lapkričio 23 d. Tarybos reglamento (EB) Nr. 2533/98 dėl Europos centrinio banko renkamos statistinės informacijos su visais pakeitimais 3a straipsnyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
 
 II SKYRIUS
 
@@ -128,7 +138,11 @@ OFICIALIOSIOS STATISTIKOS ORGANIZAVIMAS
 
 2) Lietuvos bankas;
 
-3) kitos oficialiąją statistiką tvarkančios įstaigos – valstybės ir savivaldybių institucijos ir įstaigos, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį (toliau – kitos oficialiąją statistiką tvarkančios įstaigos).
+3) kitos oficialiąją statistiką tvarkančios įstaigos – valstybės ir savivaldybių institucijos ir įstaigos, kurioms oficialiosios statistikos rengimo funkcija priskirta teisės aktuose, valstybės įmonės, viešosios įstaigos, kurioms oficialiosios statistikos rengimo funkcija priskirta Lietuvos Respublikos įstatymuose, o pavedimai rengti konkrečios srities statistinę informaciją nustatyti Europos Sąjungos teisės aktuose, Lietuvos Respublikos įstatymuose, Lietuvos Respublikos Vyriausybės nutarimuose, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį (toliau – kitos oficialiąją statistiką tvarkančios įstaigos).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
 
 2. Lietuvos statistikos departamentas ir kitos oficialiąją statistiką tvarkančios įstaigos, rengiančios Europos statistiką, nurodytą Europos statistikos programoje, priklauso Europos statistikos sistemai ir bendradarbiauja rengdamos, tobulindamos ir skleisdamos šią statistiką.
 
@@ -182,11 +196,9 @@ Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
 
 6 straipsnis. Lietuvos statistikos departamentas
 
-1. Lietuvos statistikos departamentas yra Lietuvos Respublikos Vyriausybės įstaiga, dalyvaujanti formuojant valstybės politiką finansų ministrui pavestoje statistikos valdymo srityje, ją įgyvendinanti ir koordinuojanti oficialiosios statistikos rengimą pagal Oficialiosios statistikos programos I dalies nuostatas.
+1. Lietuvos statistikos departamentas yra Lietuvos Respublikos Vyriausybės įstaiga, dalyvaujanti formuojant valstybės politiką finansų ministrui pavestoje oficialiosios statistikos valdymo srityje, ją įgyvendinanti ir koordinuojanti oficialiosios statistikos rengimą pagal Oficialiosios statistikos programos I dalies nuostatas.
 
-2. Lietuvos statistikos departamentui vadovauja generalinis direktorius. Į Lietuvos statistikos departamento generalinio direktoriaus pareigas gali būti priimamas asmuo, turintis ne žemesnį kaip magistro kvalifikacinį laipsnį arba jam lygiavertę aukštojo mokslo kvalifikaciją ir ne mažesnį kaip 5 metų darbo statistikos srityje, 5 metų vadovaujamo darbo ir 3 metų darbo viešojo administravimo srityje stažą. Jokia valstybės ir savivaldybių institucija ar įstaiga, politinė partija, kiti asmenys negali daryti poveikio Lietuvos statistikos departamento generalinio direktoriaus įgaliojimų įgyvendinimui.
-
-TAR pastaba. 6 straipsnio 2 dalyje nustatyti kvalifikacijos ir darbo patirties reikalavimai taikomi tik naujai į Lietuvos statistikos departamento generalinio direktoriaus pareigas priimamam asmeniui.
+2. Lietuvos statistikos departamentui vadovauja generalinis direktorius. Į Lietuvos statistikos departamento generalinio direktoriaus pareigas gali būti priimamas asmuo, turintis ne žemesnį kaip magistro kvalifikacinį laipsnį arba jam lygiavertę aukštojo mokslo kvalifikaciją ir ne mažesnį kaip 5 metų darbo statistikos srityje, 5 metų vadovaujamo darbo ir 3 metų darbo viešojo administravimo srityje stažą. Jokia valstybės ir savivaldybių institucija ar įstaiga, politinė partija, kiti asmenys negali daryti poveikio Lietuvos statistikos departamento generalinio direktoriaus įgaliojimų įgyvendinimui.
 
 3. Lietuvos statistikos departamento generalinis direktorius:
 
@@ -210,13 +222,17 @@ TAR pastaba. 6 straipsnio 2 dalyje nustatyti kvalifikacijos ir darbo patirties r
 
 3) tvirtina ir skelbia Lietuvos statistikos departamento atliekamų statistinių tyrimų statistinius formuliarus, metodikas, nustato statistinių duomenų pateikimo Lietuvos statistikos departamentui tvarką ir laiką, derina kitų oficialiąją statistiką tvarkančių įstaigų parengtus statistinių tyrimų, vykdomų pagal Oficialiosios statistikos programos I dalies nuostatas, statistinius formuliarus ir metodikas, vykdo statistinius tyrimus;
 
-4) oficialiosios statistikos tikslams nustato statistinio stebėjimo vieneto vykdomos ekonominės veiklos rūšį ir institucinį sektorių, kurie nelaikomi statistiniais duomenimis;
+4) oficialiosios statistikos tikslams nustato statistinio stebėjimo vieneto vykdomos ekonominės veiklos rūšį, institucinį sektorių ir nuosavybės formą, kurie nelaikomi statistiniais duomenimis;
 
 5) koordinuoja kitų oficialiąją statistiką tvarkančių įstaigų veiklą rengiant Europos statistiką, nurodytą Europos statistikos programoje, ir įgyvendinant Oficialiosios statistikos programos I dalies nuostatas bei oficialiosios statistikos organizavimo principus, teikia rekomendacijas dėl jų įgyvendinimo;
 
-6) atlieka kitas Lietuvos statistikos departamento nuostatuose ir kituose teisės aktuose, reglamentuojančiuose oficialiosios statistikos tvarkymą, nustatytas funkcijas.
+6) steigia Valstybės duomenų valdysenos informacinę sistemą (toliau – valstybės informacinė sistema), skirtą valstybės informacinių sistemų, registrų ir kitų šaltinių duomenims tvarkyti ir kaupti, taip pat šiems duomenims teikti atliekant valstybės ekonominės ir socialinės raidos stebėseną ir analizę bei užtikrinant efektyvius informacijos mainus, tvirtina šios informacinės sistemos nuostatus;
 
-5. Lietuvos statistikos departamentas, be šio įstatymo 5 straipsnyje išvardytų teisių, atlikdamas savo funkcijas, turi teisę:
+7) tvarko valstybės informacinėje sistemoje esančią informaciją, duomenis, įskaitant asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis, dokumentus ir (arba) jų kopijas, vadovaudamasis valstybės informacinės sistemos nuostatais ir juose nurodytais teisės aktais. Valstybės informacinėje sistemoje esančius tik oficialiosios statistikos tikslams skirtus statistinius duomenis išimtinai tvarko vadovaudamasis Reglamentu (EB) Nr. 223/2009, Reglamentu (ES) 2016/679, šiuo įstatymu ir kitais teisės aktais, reglamentuojančiais oficialiosios statistikos tvarkymą, ir valstybės informacinės sistemos nuostatais;
+
+8) atlieka kitas Lietuvos statistikos departamento nuostatuose ir kituose teisės aktuose, reglamentuojančiuose oficialiosios statistikos tvarkymą, nustatytas funkcijas.
+
+5. Lietuvos statistikos departamentas, be šio įstatymo 5 straipsnyje nustatytų teisių, atlikdamas savo funkcijas, turi teisę:
 
 1) Oficialiosios statistikos programos I daliai rengti iš kitų oficialiąją statistiką tvarkančių įstaigų gauti informaciją apie numatomus statistinius tyrimus;
 
@@ -226,7 +242,15 @@ TAR pastaba. 6 straipsnio 2 dalyje nustatyti kvalifikacijos ir darbo patirties r
 
 4) sudaryti su užsienio valstybių nacionalinėmis statistikos institucijomis, tarptautinėmis organizacijomis, aukštosiomis mokyklomis ir mokslinių tyrimų institutais dvišalius ir daugiašalius bendradarbiavimo susitarimus;
 
-5) naudotis kitomis Lietuvos statistikos departamento nuostatuose ir kituose teisės aktuose suteiktomis teisėmis.
+5) atlikti į Oficialiosios statistikos programos I dalį neįtrauktus užsakomuosius tyrimus, kurių atlikimo sąnaudas padengia užsakovas. Užsakomieji tyrimai gali būti atliekami naudojant valstybės informacinės sistemos duomenis, išskyrus tik oficialiosios statistikos tikslams skirtus statistinius duomenis, ir jeigu šie užsakomieji tyrimai netrukdo atlikti Oficialiosios statistikos programos I dalyje nurodytų statistinių tyrimų;
+
+6) neatlygintinai gauti iš valstybės ir savivaldybių institucijų ir įstaigų informaciją, duomenis, įskaitant asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis, dokumentus ir (arba) jų kopijas šio straipsnio 4 dalies 6 ir 7 punktuose nurodytoms funkcijoms atlikti;
+
+7) naudotis kitomis Lietuvos statistikos departamento nuostatuose ir kituose teisės aktuose suteiktomis teisėmis.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
 
 7 straipsnis. Kitos oficialiąją statistiką tvarkančios įstaigos
 
@@ -326,6 +350,12 @@ STATISTINĖS INFORMACIJOS SKLAIDA IR STATISTINIŲ DUOMENŲ IR STATISTINĖS INFOR
 
 4. Oficialiąją statistiką tvarkančios įstaigos sutarčių, sudarytų su aukštosiomis mokyklomis ar mokslinių tyrimų institutais, pagrindu gali teikti statistinius duomenis šių aukštųjų mokyklų ir mokslinių tyrimų institutų tyrėjams statistinėms analizėms mokslo tikslais atlikti. Statistiniai duomenys turi būti teikiami taip, kad pagal juos nebūtų galimas tiesioginis atpažinimas.
 
+5. Vykdydamos Lietuvos Respublikos tarptautinius įsipareigojimus, oficialiąją statistiką tvarkančios įstaigos bendradarbiauja su tarptautinėmis organizacijomis. Lietuvos statistikos departamentas gali teikti šioms tarptautinėms organizacijoms valstybės informacinės sistemos duomenis, išskyrus asmens duomenis, ir statistinę informaciją, nepažeisdamas oficialiosios statistikos tvarkymą reglamentuojančių teisės aktų reikalavimų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
+
 IV SKYRIUS
 
 STATISTINIŲ DUOMENŲ KONFIDENCIALUMAS IR NAUDOJIMAS, STATISTINIŲ DUOMENŲ IR STATISTINĖS INFORMACIJOS APSAUGA
@@ -341,6 +371,22 @@ STATISTINIŲ DUOMENŲ KONFIDENCIALUMAS IR NAUDOJIMAS, STATISTINIŲ DUOMENŲ IR S
 1) kai respondentas raštu leidžia juos skleisti;
 
 2) šio įstatymo 13 straipsnio 4 dalyje nurodytu atveju.
+
+4. Konfidencialiais nelaikomi šie statistinio stebėjimo vieneto (išskyrus namų ūkį, fizinį asmenį) duomenys:
+
+1) kodas;
+
+2) pavadinimas;
+
+3) ekonominės veiklos rūšis;
+
+4) institucinis sektorius;
+
+5) nuosavybės forma.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
 
 15 straipsnis. Statistinių duomenų ir statistinės informacijos apsauga
 
@@ -380,9 +426,17 @@ Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
 
 2) pastebėję, kad oficialiąją statistiką tvarkančiai įstaigai pateikė klaidingus ir (arba) netikslius statistinius duomenis, juos ištaisyti ir (arba) patikslinti. Oficialiąją statistiką tvarkanti įstaiga sudaro respondentams sąlygas ištaisyti ir (arba) patikslinti pateiktus statistinius duomenis ir informuoja juos apie taisymo ir (arba) tikslinimo būdą (būdus);
 
-3) savo parašu patvirtinti statistiniuose formuliaruose teikiamų statistinių duomenų teisingumą – fizinis asmuo, juridinio asmens ar kitos organizacijos vadovas arba jo įgaliotas asmuo, pagal teisės aktus juridinio asmens ar kitos organizacijos padalinio vardu turintis teisę veikti asmuo, išskyrus atvejus, kai nereikalaujama nurodyti respondento;
+3) Neteko galios nuo 2020-10-08
 
-4) teikdami statistinius duomenis elektroniniu būdu, saugiu elektroniniu parašu arba kitu būdu, leidžiančiu nustatyti juos pateikusio fizinio asmens tapatybę, patvirtinti statistinių duomenų teisingumą arba tai, kad statistiniame formuliare įrašyti statistiniai duomenys atitinka apklausos teiginius, išskyrus atvejus, kai nereikalaujama nurodyti respondento;
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
+
+4) teikdami statistinius duomenis, saugiu elektroniniu parašu arba kitu būdu, leidžiančiu nustatyti juos pateikusio fizinio asmens tapatybę, patvirtinti statistinių duomenų teisingumą arba tai, kad statistiniame formuliare įrašyti statistiniai duomenys atitinka apklausos teiginius, išskyrus atvejus, kai nereikalaujama nurodyti respondento;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
 
 5) sudaryti sąlygas oficialiąją statistiką tvarkančių įstaigų darbuotojams neatlygintinai rinkti viešai prieinamus statistinius duomenis Oficialiosios statistikos programai įgyvendinti;
 
@@ -414,7 +468,7 @@ atsakomybė
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -424,9 +478,11 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 177/2008, nustatantis bendrą verslo registrų sistemą statistikos tikslais ir panaikinantis Tarybos reglamentą (EEB) Nr. 2186/93 (OL 2008 L 61, p. 6).
+1. 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 223/2009 dėl Europos statistikos, panaikinantis Europos Parlamento ir Tarybos reglamentą (EB, Euratomas) Nr. 1101/2008 dėl konfidencialių statistinių duomenų perdavimo Europos Bendrijų statistikos tarnybai, Tarybos reglamentą (EB) Nr. 322/97 dėl Bendrijos statistikos ir Tarybos sprendimą 89/382/EEB, Euratomas, įsteigiantį Europos Bendrijų statistikos programų komitetą, su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu (ES) 2015/759.
 
-2. 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 223/2009 dėl Europos statistikos, panaikinantis Europos Parlamento ir Tarybos reglamentą (EB, Euratomas) Nr. 1101/2008 dėl konfidencialių statistinių duomenų perdavimo Europos Bendrijų statistikos tarnybai, Tarybos reglamentą (EB) Nr. 322/97 dėl Bendrijos statistikos ir Tarybos sprendimą 89/382/EEB, Euratomas, įsteigiantį Europos Bendrijų statistikos programų komitetą (OL 2009 L 87, p. 164), su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu (ES) 2015/759 (OL 2015 L 123, p. 90).
+Priedo pakeitimai:
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
 
 Pakeitimai:
 
@@ -485,4 +541,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
 
 Lietuvos Respublikos oficialiosios statistikos įstatymo Nr. I-270 2, 5, 15, 16 ir 17 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
+
+Lietuvos Respublikos oficialiosios statistikos įstatymo Nr. I-270 2, 3, 4, 6, 13, 14, 17 straipsnių ir priedo pakeitimo įstatymas
 
