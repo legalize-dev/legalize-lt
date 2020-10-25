@@ -4,7 +4,7 @@ identifier: "TAR.F62AD965997D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-05-20"
-last_updated: "2020-06-26"
+last_updated: "2020-10-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2020-06-26 iki 2020-10-24
+Suvestinė redakcija nuo 2020-10-25 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
 
@@ -197,6 +197,12 @@ Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
+
+6. Įvadinių atsiskaitomųjų šilumos apskaitos prietaisų ir šio straipsnio 4 dalyje nurodytų apskaitos prietaisų rodmenis turi būti galima nuskaityti nuotoliniu būdu. Karšto vandens skaitikliai, šilumos skaitikliai ir dalikliai, kurių rodmenis galima nuskaityti nuotoliniu būdu, įrengiami visame pastate, jeigu tai techniškai įmanoma ir ekonomiškai naudinga.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3018, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13235
 
 20 straipsnis. Pastatų šildymo ir karšto vandens sistemų priežiūra
 
@@ -1027,6 +1033,8 @@ Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
+
+11. Geriamojo vandens atsiskaitomųjų apskaitos prietaisų, įrengtų prieš karšto vandens ruošimo įrenginį, rodmenis turi būti galima nuskaityti nuotoliniu būdu.
 
 2. Kol vartotojai pasirenka karšto vandens tiekėją arba apsirūpinimo karštu vandeniu būdą, karšto vandens tiekėjas yra šilumos tiekėjas. Karšto vandens apskaitos prietaisus daugiabučio namo butuose ir kitose patalpose įrengia, prižiūri ir jų patikrą atlieka karšto vandens tiekėjas, jeigu iki šio įstatymo įsigaliojimo sudarytose karšto vandens apskaitos prietaisų įrengimo, priežiūros ir patikros daugiabučio namo butuose ir kitose patalpose sutartyse nenumatyta kitaip.
 
