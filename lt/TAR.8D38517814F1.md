@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2020-07-01"
+last_updated: "2020-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2020-11-03
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -374,6 +374,12 @@ Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+
+41. Draudžiama įvežti (importuoti) į Lietuvą iš kitų valstybių komunalines ir pavojingąsias atliekas, skirtas šalinti ir (arba) naudoti energijai gauti, ir komunalinių atliekų deginimo proceso likučius (pelenus ir šlakus).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3157, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15135
 
 5. Atliekų vežimą tranzitu, išvežimą iš Lietuvos Respublikos ir įvežimą į Lietuvos Respubliką reglamentuoja Lietuvos Respublikos, Europos Sąjungos teisės aktai ir tarptautinės sutartys. Aplinkos ministerijos įgaliota institucija pagal kompetenciją kontroliuoja atliekų vežimo tranzitu, išvežimo iš Lietuvos Respublikos ir įvežimo į Lietuvos Respubliką reikalavimų vykdymą pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) su paskutiniais pakeitimais, padarytais 2010 m. gegužės 12 d. Komisijos reglamentu (ES) Nr. 413/2010 (OL 2010 L 119, p. 1), ir kitų Lietuvos Respublikos, Europos Sąjungos teisės aktų ir tarptautinių sutarčių nuostatas.
 
