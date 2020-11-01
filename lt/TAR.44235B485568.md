@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2020-07-01"
+last_updated: "2020-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2020-11-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -863,7 +863,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
-4. Vartotojo, gamintojo ar kito asmens pageidaujami rekonstruoti ar perkelti energetikos įmonei priklausantys energetikos objektai, kliudantys statinių statybai ar dėl kitų priežasčių, yra rekonstruojami ar perkeliami vartotojo, gamintojo ar kito asmens ir energetikos įmonės susitarimu teisės aktų nustatyta tvarka ir sąlygomis. Šiuo atveju vartotojas, gamintojas ar kitas asmuo, kurio prašymu energetikos objektas yra rekonstruojamas ar perkeliamas, apmoka energetikos įmonei energetikos objekto rekonstravimo ar perkėlimo išlaidas. Perkeltų ar rekonstruotų energetikos objektų nuosavybė nekeičiama.
+4. Vartotojo, gamintojo ar kito asmens pageidaujami rekonstruoti ar perkelti energetikos įmonei priklausantys energetikos objektai, kliudantys statinių statybai ar dėl kitų priežasčių, yra rekonstruojami ar perkeliami vartotojo, gamintojo ar kito asmens ir energetikos įmonės susitarimu teisės aktų nustatyta tvarka ir sąlygomis. Vartotojas, gamintojas ar kitas asmuo, kurio prašymu energetikos objektas yra rekonstruojamas ar perkeliamas, apmoka energetikos objekto rekonstravimo ar perkėlimo išlaidas. Atskirus energetikos sektorius reglamentuojančiuose įstatymuose gali būti numatytos specialiosios energetikos objektų rekonstravimo ar perkėlimo išlaidų apmokėjimo sąlygos. Perkeltų ar rekonstruotų energetikos objektų nuosavybė nekeičiama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3337, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22205
 
 16 straipsnis. Energetikos veikla
 
@@ -2036,6 +2040,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 8, 13-1, 21, 22, 23, 24, 28 straipsnių pakeitimo ir Įstatymo papildymo 28-1 ir 28-2 straipsniais įstatymas
+
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3337, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22205
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 15 straipsnio pakeitimo įstatymas
 
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
