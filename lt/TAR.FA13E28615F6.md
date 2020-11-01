@@ -4,7 +4,7 @@ identifier: "TAR.FA13E28615F6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-11"
-last_updated: "2020-09-01"
+last_updated: "2020-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
 
@@ -56,6 +56,12 @@ BENDROSIOS NUOSTATOS
 6) šio įstatymo 19 straipsnio 1 dalyje numatytų dokumentų rinkinių sudarymo ir su dokumentų rinkiniais susijusių paslaugų teikimo tvarką.
 
 3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+
+4. Prašymų pateikimą ir nagrinėjimą reglamentuoja Lietuvos Respublikos viešojo administravimo įstatymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
 
 Straipsnio pakeitimai:
 
@@ -315,9 +321,15 @@ DOKUMENTŲ TEIKIMO SĄLYGOS
 
 2. Visa informacija apie nustatyto ar apskaičiuoto atlyginimo už dokumentų teikimą dydžio apskundimo tvarka skelbiama institucijos interneto svetainėje.
 
-III SKYRIUS
+3 skyrius. Neteko galios nuo 2020-11-01
 
-PRAŠYMŲ PATEIKIMAS IR NAGRINĖJIMAS
+Skyriaus naikinimas:
+
+Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
+
+IV SKYRIUS
+
+DOKUMENTŲ TEIKIMAS
 
 12 straipsnis. Prašymo pateikimas
 
@@ -421,7 +433,11 @@ Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 4. Dokumentų ir dokumentų rinkinių teikimas internetu ar elektroninių ryšių tinklais turi būti patogus pareiškėjams juos priimti ir naudoti ir neturi būti reikalaujama iš pareiškėjo įsigyti specialios mokamos programinės įrangos. Dokumentų rinkiniai rengiami atviru elektroniniu formatu ir kartu su jų metaduomenimis teikiami pareiškėjams. Uždari elektroniniai formatai gali būti naudojami tik institucijos ir pareiškėjo abipusiu susitarimu.
 
-5. Jeigu dokumentų tvarkymas institucijoje nutrauktas dėl to, kad pasikeitė viešoji funkcija (funkcijos), pareiškėjui dokumentai yra teikiami tik jų saugojimo institucijoje laiką, o jeigu dokumentai yra perduoti kitai institucijai, pareiškėjo prašymas persiunčiamas šio įstatymo 13 straipsnyje nustatyta tvarka.
+5. Jeigu dokumentų tvarkymas institucijoje nutrauktas dėl to, kad pasikeitė viešoji funkcija (funkcijos), pareiškėjui dokumentai yra teikiami tik jų saugojimo institucijoje laiką, o jeigu dokumentai yra perduoti kitai institucijai, pareiškėjo prašymas persiunčiamas Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
 
 6. Dokumentai pareiškėjui paprastai teikiami valstybine kalba. Jeigu dokumentai tvarkomi ne valstybine kalba, dokumentai rengiami ir pareiškėjui teikiami ta kalba, kokia jie institucijoje tvarkomi.
 
@@ -620,4 +636,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
 
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 2 ir 7 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 18 straipsnių pakeitimo ir III skyriaus pripažinimo netekusiu galios įstatymas
 
