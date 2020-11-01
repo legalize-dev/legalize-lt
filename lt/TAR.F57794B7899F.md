@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2020-07-15"
+last_updated: "2020-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-07-15 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2021-01-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -976,7 +976,11 @@ Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 
 19) vykdo Energetikos įstatyme numatytų priemonių, taikomų paskelbus valstybės lygio ekstremaliąją energetikos padėtį, įgyvendinimo elektros energetikos sektoriuje, taip pat aprūpinimo elektros energija nutraukimo ir ribojimo kitais pagrindais stebėseną, pagal kompetenciją bendradarbiauja įgyvendinant šias priemones ir teikia rekomendacijas dėl jų atitikties įstatymų nustatytiems reikalavimams;
 
-20) derina tinklų operatorių apskaičiuotus šių operatorių išduodamų prijungimo sąlygų, išankstinių prijungimo sąlygų parengimo, elektros energijos persiuntimo ir (ar) tiekimo nutraukimo, apribojimo, atnaujinimo ir elektros apskaitos prietaiso rodmenų nuskaitymo paslaugų įkainius, kurie nustatomi pagal tinklų operatorių parengtą, su Taryba suderintą ir tinklų operatorių patvirtintą šių įkainių apskaičiavimo metodiką;
+20) derina tinklų operatorių apskaičiuotus šių operatorių išduodamų prijungimo sąlygų, išankstinių prijungimo sąlygų, prijungimo paslaugos sutarčių, kai jose nurodomos prijungimo sąlygos, parengimo, elektros energijos persiuntimo ir (ar) tiekimo nutraukimo, apribojimo, atnaujinimo ir elektros apskaitos prietaiso rodmenų nuskaitymo paslaugų įkainius, kurie nustatomi pagal tinklų operatorių parengtą, su Taryba suderintą ir tinklų operatorių patvirtintą šių įkainių apskaičiavimo metodiką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 
 21) derina perdavimo sistemos operatoriaus parengtas elektros energijos perdavimo paslaugos teikimo sutarčių standartines sąlygas ir skirstomųjų tinklų operatoriaus parengtas elektros energijos persiuntimo paslaugos teikimo sutarčių standartines sąlygas;
 
@@ -2300,7 +2304,11 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 5) atlikti jam priklausančiais skirstomaisiais tinklais persiunčiamos elektros energijos matavimus, perduoti elektros energijos apskaitos rodmenis perdavimo sistemos operatoriui ir rinkos dalyviams teisės aktų nustatyta tvarka;
 
-6) prijungti vartotojų ir gamintojų elektros įrenginius, esančius skirstymo veiklos licencijoje nurodytoje teritorijoje, prie skirstomųjų tinklų pagal atitinkamus techninius norminius dokumentus ir technines sąlygas;
+6) Energetikos ministerijos nustatyta tvarka ir sąlygomis prijungti vartotojų ir gamintojų elektros įrenginius, esančius skirstymo veiklos licencijoje nurodytoje teritorijoje, prie skirstomųjų tinklų pagal atitinkamus techninius norminius dokumentus ir technines sąlygas bei vartotojui ir gamintojui pageidaujant, pateikti detalią informaciją apie skirstomųjų tinklų įrengimo darbų sąnaudas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 
 7) raštu motyvuoti, kai atsisakoma suteikti elektros energijos persiuntimo paslaugą esamiems ir potencialiems naudotojams. Atsisakymas gali būti pagrįstas tik techninio pobūdžio kriterijais;
 
@@ -3186,7 +3194,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 
-5. Taryba, tvirtindama vartotojų ir gamintojų įrenginių prijungimo prie elektros tinklų įkainių apskaičiavimo metodiką, nustatydama įkainius ir juos diferencijuodama, taip pat derindama operatorių parengtą prijungimo sąlygų ir išankstinių prijungimo sąlygų parengimo įkainių apskaičiavimo metodiką ir elektros energijos persiuntimo ir (ar) tiekimo nutraukimo, apribojimo, atnaujinimo ir elektros apskaitos prietaiso rodmenų nuskaitymo paslaugų įkainių apskaičiavimo metodiką, vadovaujasi šiais bendraisiais kriterijais:
+5. Taryba, tvirtindama vartotojų ir gamintojų įrenginių prijungimo prie elektros tinklų įkainių apskaičiavimo metodiką, nustatydama įkainius ir juos diferencijuodama, taip pat derindama tinklų operatorių parengtą šių operatorių išduodamų prijungimo sąlygų, išankstinių prijungimo sąlygų, prijungimo paslaugos sutarčių, kai jose nurodomos prijungimo sąlygos, parengimo, elektros energijos persiuntimo ir (ar) tiekimo nutraukimo, apribojimo, atnaujinimo ir elektros apskaitos prietaiso rodmenų nuskaitymo paslaugų įkainių apskaičiavimo metodiką bei šių paslaugų įkainius, vadovaujasi šiais bendraisiais kriterijais:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 
 1) tinklų naudotojų nediskriminavimo;
 
@@ -3214,7 +3226,11 @@ Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 
 1) buitiniai vartotojai, įskaitant ir pažeidžiamus vartotojus, apmoka 20 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį;
 
-2) vartotojai, kurių pirmą kartą prie skirstomųjų tinklų prijungiamų elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 1 MW ar kurie didina leistinąją naudoti galią ne mažiau kaip 1 MW ir kurie su skirstomųjų tinklų operatoriumi yra sudarę sutartį, kuria įsipareigoja 10 metų nuo elektros energijos persiuntimo paslaugos sutarties įsigaliojimo momento nemažinti leistinosios naudoti galios, apmoka 10 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį. Šis punktas netaikomas prijungiant gyvenamosios paskirties pastatų elektros įrenginius prie skirstomųjų tinklų;
+2) vartotojai, kurių pirmą kartą prie skirstomųjų tinklų prijungiamų elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 1 MW ar kurie didina leistinąją naudoti galią ne mažiau kaip 1 MW ir kurie skirstomųjų tinklų operatoriui įsipareigoja 10 metų nuo vartotojo elektros įrenginių prijungimo prie skirstomųjų tinklų nemažinti leistinosios naudoti galios, apmoka 10 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį. Šis punktas netaikomas prijungiant gyvenamosios paskirties pastatų elektros įrenginius prie skirstomųjų tinklų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 
 3) vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra didesnė kaip 250 kW ir kurių elektros įrenginiams prijungti prie elektros tinklų reikia įrengti transformatorių pastotes, transformatorines, skirstomuosius punktus, ir kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su skirstomųjų tinklų operatoriumi, įrengti šiuos elektros tinklus ir organizuoti jų įrengimo darbus, apmoka 100 procentų šių skirstomųjų tinklų įrengimo sąnaudų. Atlikti skirstomųjų tinklų įrengimo darbai laikomi vartotojų elektros įrenginių prijungimo prie skirstomųjų tinklų paslaugos dalimi ir šie vartotojų lėšomis vartotojų įrengti skirstomieji tinklai yra skirstomųjų tinklų operatoriaus nuosavybė. Prie šių skirstomųjų tinklų prijungiant kitų vartotojų įrenginius, už jų įrengimą ir (ar) naudojimą šių skirstomųjų tinklų įrengimą atlikusiems vartotojams neatlyginama;
 
@@ -3236,7 +3252,11 @@ Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
 
 10. Tuo atveju, kai buitinis vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 1 punkte nurodytą sąnaudų paskirstymo tvarką, ne vėliau kaip per 12 mėnesių nuo elektros įrenginių prijungimo momento pradeda vartoti šiais įrenginiais patiektą elektros energiją savo ar kitų asmenų ūkinės komercinės ar profesinės veiklos reikmėms tenkinti, toks vartotojas nėra laikomas buitiniu vartotoju ir, gavęs atitinkamą skirstomųjų tinklų operatoriaus reikalavimą, privalo apmokėti likusią sąnaudų dalį, apskaičiuojamą šio straipsnio 7 dalies 4 punkte nustatyta tvarka.
 
-11. Tuo atveju, kai vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 2 punkte nurodytą sąnaudų paskirstymo tvarką, sumažina leistinąją naudoti galią nepraėjus 10 metų nuo elektros energijos persiuntimo paslaugos sutarties, vartotojas privalo apmokėti visas patirtas skirstomųjų tinklų operatoriaus sąnaudas, susijusias su vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, proporcingai sumažintai leistinajai naudoti galiai. Jeigu skirstomųjų tinklų operatoriaus sąnaudos apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, perdavimo sistemos operatoriaus patirtas sąnaudas, proporcingai sumažintai leistinajai naudoti galiai, vartotojas apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriaus patirtas sąnaudas proporcingai vartotojo sumažintai leistinajai naudoti galiai.
+11. Tuo atveju, kai vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 2 punkte nurodytą sąnaudų paskirstymo tvarką, sumažina leistinąją naudoti galią nepraėjus 10 metų nuo vartotojo elektros įrenginių prijungimo prie skirstomųjų tinklų, vartotojas privalo apmokėti visas patirtas skirstomųjų tinklų operatoriaus sąnaudas, susijusias su vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, proporcingai sumažintai leistinajai naudoti galiai. Jeigu skirstomųjų tinklų operatoriaus sąnaudos apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, perdavimo sistemos operatoriaus patirtas sąnaudas, proporcingai sumažintai leistinajai naudoti galiai, vartotojas apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriaus patirtas sąnaudas proporcingai vartotojo sumažintai leistinajai naudoti galiai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 
 12. Taryba, vadovaudamasi jos patvirtinta metodika, nustato naudojimosi jungiamosiomis linijomis paslaugų kainą, kuri nustatoma ir pradedama taikyti atsižvelgus į motyvuotą Energetikos ministerijos pranešimą. Nustatant naudojimosi jungiamosiomis linijomis paslaugų kainą nėra vertinamos sąnaudos, kompensuojamos vadovaujantis 2010 m. rugsėjo 23 d. Europos Komisijos reglamento (ES) Nr. 838/2010 dėl perdavimo sistemos operatorių tarpusavio kompensavimo mechanizmo ir bendro perdavimo mokesčių reguliavimo metodo taikymo gairių nustatymo (OL 2010 L 250, p. 5) nuostatomis. Naudojimosi jungiamosiomis linijomis paslaugų kainos įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Tinklų naudotojai ir (ar) rinkos dalyviai, atsižvelgdami į tai, kas sukelia papildomas sąnaudas, už naudojimosi jungiamosiomis linijomis paslaugas atskirai moka tik tuo atveju, kai šių paslaugų sąnaudos teisės aktuose nustatyta tvarka nėra įtrauktos į elektros energijos perdavimo paslaugos kainą ar į Tarybos nustatomą įėjimo į Lietuvos Respublikos elektros energijos rinką įmoką.
 
