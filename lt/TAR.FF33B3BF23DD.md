@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2020-06-15"
+last_updated: "2020-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2020-12-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -1261,11 +1261,13 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 2. Kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių mažmeninės kainos apskaičiuojamos prie vaistinio preparato registruotojo ar jo atstovo, lygiagretaus importo leidimo turėtojo ar asmens, pagal šį įstatymą turinčio teisę vykdyti vaistinių preparatų lygiagretų platinimą, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo (toliau – vaistinio preparato ar medicinos pagalbos priemonės tiekėjas) Lietuvai taikomos vaistinio preparato ar medicinos pagalbos priemonės kainos pridedant ne didesnius negu sveikatos apsaugos ministro nustatytus didmeninės ir mažmeninės prekybos antkainius ir pridėtinės vertės mokestį, jeigu vaistinis preparatas ar medicinos pagalbos priemonė apmokestinama šiuo mokesčiu. Kompensuojamųjų ekstemporaliųjų vaistinių preparatų mažmeninės kainos apskaičiuojamos prie vaistinių medžiagų didmeninės kainos pridedant ne didesnį kaip 22 procentų šios kainos mažmeninės prekybos antkainį, ne didesnę kaip sveikatos apsaugos ministro patvirtintą šių vaistinių preparatų gamybos vaistinėse kainą, priklausančią nuo gamybos sąnaudų, vaistinių preparatų pakavimui ir ženklinimui naudojamų medžiagų kainas ir pridėtinės vertės mokestį, jeigu vaistinis preparatas apmokestinamas šiuo mokesčiu. Kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių bazinės kainos ir paciento priemokos už juos apskaičiuojamos Vyriausybės nustatyta tvarka.
 
-3. Kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės vaistinei ir asmens sveikatos priežiūros įstaigai parduodami ne brangiau kaip už didmeninę kainą, kuri apskaičiuojama prie vaistinio preparato ar medicinos pagalbos priemonės tiekėjo Lietuvai taikomos vaistinio preparato ar medicinos pagalbos priemonės kainos pridedant ne didesnį negu sveikatos apsaugos ministro nustatytą didmeninės prekybos antkainį.
+3. Kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės vaistinei, asmens sveikatos priežiūros įstaigai ir ūkio subjektams, nurodytiems Lietuvos Respublikos sveikatos draudimo įstatymo 262 straipsnyje, parduodami ne brangiau kaip už didmeninę kainą, kuri apskaičiuojama prie vaistinio preparato ar medicinos pagalbos priemonės tiekėjo Lietuvai taikomos vaistinio preparato ar medicinos pagalbos priemonės kainos pridedant ne didesnį negu sveikatos apsaugos ministro nustatytą didmeninės prekybos antkainį.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+
+Nr. XIII-2589, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20022
 
 4. Kompensuojamieji vaistiniai preparatai didmeninio platinimo licencijos turėtojui, kompensuojamos medicinos pagalbos priemonės didmeniniams šių priemonių platintojams parduodami ne didesne negu vaistinio preparato ar medicinos pagalbos priemonės tiekėjo Lietuvai taikoma vaistinio preparato ar medicinos pagalbos priemonės kaina.
 
@@ -1771,7 +1773,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
 
-part_8e4f518f7d3f47e3ba671d2af3af6c4b_end
+part_64586339d0164c7fb9b9dd5987b0bbca_end
 
 Pakeitimai:
 
