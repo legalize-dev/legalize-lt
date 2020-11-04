@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2020-09-01"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-11-03
+Suvestinė redakcija nuo 2020-11-04 iki 2020-11-18
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
@@ -215,9 +215,15 @@ Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 
 3. Specialiajai vietinės reikšmės žvyrkelių asfaltavimo programai finansuoti skiriama 2 procentai, o nuo 2021 m. sausio 1 d. – 4 procentai akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, suskystintas dujas, skirtas automobiliams, ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 3 dalis (2019 m. gegužės 16 d. redakcija, įsigaliojusi 2020 m. sausio 1 d.; TAR, 2019-05-24, Nr. 8304) prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
+
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 
 4. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina valstybės įmonė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą vykdo CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija. Susisiekimo ministras kiekvienais metais atsiskaito Seimui už Programos finansavimo lėšų panaudojimą.
 
