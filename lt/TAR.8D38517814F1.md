@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2020-11-01"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-11-03
+Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -888,6 +888,12 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 4) Programos lėšų ir mokesčio už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekomis ir mokesčio už aplinkos teršimą sąvartyne šalinamomis atliekomis administravimo priemones.
 
 4. Programos lėšos naudojamos einamaisiais biudžetiniais metais šio straipsnio 3 dalyje numatytoms priemonėms finansuoti, o jeigu nėra galimybės, – perkeliamos į kitus biudžetinius metus.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos atliekų tvarkymo įstatymo 34 straipsnio (2015 m. birželio 23 d. redakcija; TAR, 2015-06-29, Nr. 10371) 4 dalis prieštarauja Lietuvos Respublikos Konstitucijos 129 straipsniui, 131 straipsnio 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 
 5. Savivaldybės ir ūkio subjektai, įgyvendindami atliekų tvarkymo sistemų kūrimo, funkcionavimo ir vystymo projektus, Programos lėšas naudoja vadovaudamiesi Lietuvos Respublikos viešųjų pirkimų įstatymu.
 
