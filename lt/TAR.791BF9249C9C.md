@@ -4,7 +4,7 @@ identifier: "TAR.791BF9249C9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2020-06-30"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2020-06-30 iki 2020-11-03
+Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
 
@@ -304,6 +304,12 @@ SPORTO FINANSAVIMAS
 
 4) kiekvienais metais – 10 procentų praėjusių metų faktinių įplaukų iš loterijų ir azartinių lošimų mokesčio.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos sporto įstatymo (2018 m. spalio 18 d. redakcija; TAR, 2018-10-31, Nr. 17451) 16 straipsnio 2 dalis tiek, kiek joje nustatyti konkretūs lėšų (pajamų), gautų iš praėjusių metų faktinių įplaukų iš akcizo už alkoholinius gėrimus ir apdorotą tabaką (2, 2,5, 3 procentai), iš loterijų ir azartinių lošimų mokesčio dalies (10 procentų), dydžiai, skiriami planuojant kiekvienų metų valstybės biudžeto asignavimus sporto projektams įgyvendinti, prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+
 3. Šio straipsnio 2 dalyje nurodyti valstybės biudžeto asignavimai sudaro dalį kiekvienais metais numatomų fiziniam aktyvumui ir aukšto meistriškumo sportui finansuoti šio straipsnio 1 dalies 1 punkte nurodytų valstybės biudžeto asignavimų.
 
 17 straipsnis. Sporto projektų finansavimas
@@ -321,6 +327,12 @@ SPORTO FINANSAVIMAS
 5) esamų sporto paskirties pastatų arba sporto paskirties inžinerinių statinių plėtra, priežiūra ir remontu.
 
 2. Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos aprašą, Sporto rėmimo fondo lėšų paskirstymo proporcijas ir Sporto rėmimo fondo administravimui skirtų lėšų dalį nustato Vyriausybė. Sporto rėmimo fondo administravimui skirtos lėšos negali viršyti 4 procentų metinio Sporto rėmimo fondo biudžeto. Sporto rėmimo fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti, per metus nepanaudotos lėšos naudojamos kitais metais numatytiems sporto projektams finansuoti. Vyriausybė Sporto rėmimo fondo lėšomis finansuojamiems sporto projektams gali nustatyti bendrojo finansavimo dydį iš kitų šaltinių.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos sporto įstatymo 17 straipsnio (2019 m. gruodžio 12 d. redakcija; TAR, 2019-12-27, Nr. 21308) 2 dalies nuostata „Sporto rėmimo fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti, per metus nepanaudotos lėšos naudojamos kitais metais numatytiems sporto projektams finansuoti“ tiek, kiek pagal ją draudžiama perduoti Sporto rėmimo fondo lėšas į valstybės biudžetą ir per metus nepanaudotos lėšos naudojamos kitais metais numatytiems sporto projektams finansuoti, prieštarauja Lietuvos Respublikos Konstitucijos 129 straipsniui, 131 straipsnio 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 
 3. Planuojant kiekvienų metų valstybės biudžeto asignavimus sporto projektams įgyvendinti, Švietimo, mokslo ir sporto ministerijai skiriamos šio įstatymo 16 straipsnio 2 dalyje nurodyto dydžio lėšos. Švietimo mainų paramos fondui ir viešajai įstaigai Centrinei projektų valdymo agentūrai lėšos skiriamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. Ne mažiau kaip 10 procentų šio įstatymo 16 straipsnio 2 dalyje nurodytų lėšų skiriama neįgaliųjų sporto plėtros skatinimo projektams įgyvendinti.
 
@@ -771,6 +783,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3083, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14358
 
 Lietuvos Respublikos sporto įstatymo Nr. I-1151 24 straipsnio pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+
+Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
 27 straipsnis. Kūno kultūros ir sporto specialistų veiklos reglamentavimas
 
