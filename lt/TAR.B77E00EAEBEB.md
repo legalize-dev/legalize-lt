@@ -4,7 +4,7 @@ identifier: "TAR.B77E00EAEBEB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-07"
-last_updated: "2019-01-01"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B77E00EAEBEB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-11-03
+Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 87-3662, i. k. 1091010ISTA00XI-329
 
@@ -309,9 +309,13 @@ Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
 
 3) Programos lėšos, nepanaudotos einamaisiais biudžetiniais metais, naudojamos kitiems metams numatytoms šio straipsnio 3 dalies 1–7 punktuose nurodytoms priemonėms finansuoti.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 10 straipsnio 4 dalies (2018 m. birželio 30 d. redakcija; TAR, 2018-07-05, Nr. 11504) 3 punktas prieštarauja Lietuvos Respublikos Konstitucijos 129 straipsniui, 131 straipsnio 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
+
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
+
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 
 5. Jeigu Vyriausybė pagal šio įstatymo 9 straipsnio 4 dalį priima sprendimą dėl nustatytosios normos vienetų įsigijimo ir perleidimo sandorio sudarymo, pagal kurį nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo mainais už perleidžiamus nustatytosios normos vienetus atsiskaito turtu, ir šio straipsnio 4 dalies 1 punkte nurodyta Vyriausybės įgaliota institucija pasirašo nustatytosios normos vienetų įsigijimo ir perleidimo sutartį, mainais už perleistus nustatytosios normos vienetus gautas turtas Vyriausybės sprendimu perduodamas šio straipsnio 3 dalies 1 ir 2 punktuose nurodytų Programos lėšų panaudojimo krypčių projektus ir (ar) priemones įgyvendinantiems subjektams:
 
@@ -890,6 +894,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
 
 Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 2, 9, 10 straipsnių ir 1, 2 priedų pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+
+Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
 23 straipsnis. Pasiūlymas Vyriausybei
 
