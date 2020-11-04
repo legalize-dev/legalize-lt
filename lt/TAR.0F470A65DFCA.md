@@ -4,7 +4,7 @@ identifier: "TAR.0F470A65DFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2019-05-01"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-11-03
+Suvestinė redakcija nuo 2020-11-04 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
 
@@ -81,6 +81,8 @@ Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA0
 
 8) 50 procentų medžioklės plotų naudotojų mokamo mokesčio už medžiojamųjų gyvūnų išteklių naudojimą;
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio 8 punktas (2018 m. rugsėjo 11 d. redakcija; TAR, 2018-09-19, Nr. 14700) prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
+
 Papildyta straipsnio punktu:
 
 Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
@@ -88,6 +90,8 @@ Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010IST
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1472, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14700
+
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 
 9) lėšos, išieškotos už Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo pažeidimą;
 
@@ -189,13 +193,19 @@ Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010IST
 
 2. Programos lėšos, nepanaudotos einamaisiais biudžetiniais metais, yra naudojamos kitiems metams numatytoms priemonėms finansuoti.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo (Žin., 2000, Nr. 92-2872) 4 straipsnio 2 dalis prieštarauja Lietuvos Respublikos Konstitucijos 129 straipsniui, 131 straipsnio 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+
 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -310,4 +320,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1888, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00096
 
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 4 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+
+Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
