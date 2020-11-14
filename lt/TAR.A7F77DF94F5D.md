@@ -4,7 +4,7 @@ identifier: "TAR.A7F77DF94F5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-18"
-last_updated: "2020-01-01"
+last_updated: "2020-11-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14 iki 2020-11-20
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
 
@@ -807,7 +807,17 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 2. Švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio ugdymo programų mokiniai ir nuolatinių studijų programų studentai, sukakę 18 metų, turi teisę gauti našlaičių pensiją iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, kurie turi teisę gauti našlaičių pensiją iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), bet ne ilgiau, iki jiems sukaks 24 metai.
 
-3. Teisė gauti našlaičių pensiją išlieka, kai nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu) pripažintas našlaitis senatvės pensijos amžių sukanka našlaičių pensijos gavimo laikotarpiu.
+3. Teisė gauti našlaičių pensiją išlieka:
+
+1) kai nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu) pripažintas našlaitis senatvės pensijos amžių sukanka našlaičių pensijos gavimo laikotarpiu;
+
+2) šio straipsnio 2 dalyje nustatytus reikalavimus atitinkantiems našlaičiams, kurie tais pačiais kalendoriniais metais baigė bendrojo ugdymo programą ir įstojo į švietimo įstaigą mokytis pagal formaliojo profesinio ugdymo programą ar studijuoti pagal nuolatinių studijų programą, – laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigoje prasideda mokslo ar studijų metai pagal formaliojo profesinio ugdymo programą ar nuolatinių studijų programą, pagal kurią mokytis ar studijuoti įstojo našlaitis.
+
+TAR pastaba. 3 dalies 2 punkto nuostatos taikomos ir socialinio draudimo našlaičių pensijos jas turintiems teisę gauti našlaičiams, 2020 metais įstojusiems į švietimo įstaigas, kuriose mokslo ar studijų metai prasidėjo vėliau negu 2020 m. rugsėjo 1 d., mokytis pagal formaliojo profesinio ugdymo programas ar studijuoti pagal nuolatinių studijų programas, skiriamos ir (ar) mokamos nuo 2020 m. rugsėjo 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3370, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23937
 
 41 straipsnis. Socialinio draudimo pensijų skyrimo ir mokėjimo terminai
 
