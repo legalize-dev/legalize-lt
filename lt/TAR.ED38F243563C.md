@@ -4,7 +4,7 @@ identifier: "TAR.ED38F243563C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2019-07-24"
+last_updated: "2020-11-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-07-24 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
 
@@ -419,7 +419,17 @@ Valstybinės našlių pensijos dydis yra 20 procentų mirusiam asmeniui priklaus
 
 Teisę gauti valstybinę našlaičių pensiją turi mirusiojo (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) vaikai (įvaikiai) iki 18 metų, vyresni kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (invalidai), taip pat nustatyta tvarka įregistruotų  švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai ir dieninių ar nuolatinių studijų programų studentai – iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, kurie turi teisę gauti valstybinę našlaičių pensiją iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), bet ne ilgiau, iki jiems sukaks 24 metai.
 
-Mirusiojo vaikams (įvaikiams), turintiems teisę gauti valstybinę našlaičių pensiją, ši teisė išlieka ir tada, kai juos kas nors įvaikina.
+Teisė gauti valstybinę našlaičių pensiją išlieka:
+
+1) mirusiojo vaikams (įvaikiams), turintiems teisę gauti valstybinę našlaičių pensiją, kai juos įvaikina;
+
+2) šio straipsnio 6 dalies reikalavimus atitinkantiems našlaičiams, kurie tais pačiais kalendoriniais metais baigė bendrojo ugdymo programą ir įstojo į švietimo įstaigą mokytis pagal formaliojo profesinio ugdymo programą ar studijuoti pagal nuolatinių studijų programą – laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigoje prasideda mokslo ar studijų metai pagal formaliojo profesinio ugdymo programą ar nuolatinių studijų programą, pagal kurią mokytis ar studijuoti įstojo našlaitis.
+
+TAR pastaba. 7 dalies 2 punkto nuostatos taikomos ir valstybinės našlaičių pensijos jas turintiems teisę gauti našlaičiams, 2020 metais įstojusiems į švietimo įstaigas, kuriose mokslo ar studijų metai prasidėjo vėliau negu 2020 m. rugsėjo 1 d., mokytis pagal formaliojo profesinio ugdymo programas ar studijuoti pagal nuolatinių studijų programas, skiriamos ir (ar) mokamos nuo 2020 m. rugsėjo 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3371, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23938
 
 Asmeniui, turinčiam teisę gauti valstybinę našlaičių pensiją, ši pensija skiriama 30 procentų mirusiam priklausiusios valstybinės pensijos dydžio, jeigu teisę gauti valstybinę našlaičių pensiją turi vienas našlaitis. Jei tokią teisę turi daugiau našlaičių, kiekvienam skiriama po lygiai, bet ne daugiau kaip po 30 procentų ir ne daugiau kaip 80 procentų viso valstybinės pensijos dydžio. Tuo atveju, kai nėra asmenų, turinčių teisę gauti valstybinę našlių pensiją, kiekvienam našlaičiui skiriama po lygiai, bet ne daugiau kaip po 30 procentų mirusiajam priklausiusios valstybinės pensijos dydžio ir ne daugiau kaip 100 procentų šios pensijos dydžio.
 
