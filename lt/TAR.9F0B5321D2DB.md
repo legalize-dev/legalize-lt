@@ -4,7 +4,7 @@ identifier: "TAR.9F0B5321D2DB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-16"
-last_updated: "2019-01-01"
+last_updated: "2020-11-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0B5321D2DB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 101-4543, i. k. 1031010ISTA0IX-1789
 
@@ -163,6 +163,12 @@ Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010IS
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+
+6. Teisė gauti valstybinę signataro našlaičių rentą išlieka šio straipsnio 1 ir 4 dalyse nustatytus reikalavimus atitinkantiems našlaičiams, kurie tais pačiais kalendoriniais metais baigė bendrojo ugdymo programą ir įstojo į švietimo įstaigą mokytis pagal formaliojo profesinio ugdymo programą ar studijuoti pagal nuolatinių studijų programą – laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigoje prasideda mokslo ar studijų metai pagal formaliojo profesinio ugdymo programą ar nuolatinių studijų programą, pagal kurią mokytis ar studijuoti įstojo našlaitis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3373, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23940
 
 10 straipsnis. Valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos skyrimo ir mokėjimo tvarka
 
@@ -559,4 +565,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1352, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11454
 
 Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 6 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3373, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23940
+
+Lietuvos Respublikos Lietuvos nepriklausomybės akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 9 straipsnio pakeitimo įstatymas
 
