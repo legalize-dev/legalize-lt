@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2020-06-01"
+last_updated: "2020-11-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2020-06-01 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14 iki 2021-01-19
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -854,7 +854,13 @@ Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
-2) asmenys mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, kol jiems sukaks 24 metai ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, bet ne ilgiau, negu jiems sukaks 24 metai;
+2) asmenys mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, kol jiems sukaks 24 metai ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, bet ne ilgiau, negu jiems sukaks 24 metai. Kai švietimo įstaigose nustatoma vėlesnė mokslo ar studijų metų pradžia negu rugsėjo 1 diena, asmenims, tais pačiais kalendoriniais metais baigusiems bendrojo ugdymo programą ir įstojusiems mokytis pagal formaliojo profesinio mokymo programą ar studijuoti į aukštąją mokyklą, teisė gauti piniginę socialinę paramą išlieka ir laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigose prasideda mokslo ar studijų metai;
+
+TAR pastaba. 2 punkto nuostatos taikomos skiriant piniginę socialinę paramą nuo 2020 m. rugsėjo 1 d.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3375, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23942
 
 3) asmenys, sukakę senatvės pensijos amžių arba gaunantys bet kokios rūšies pensiją, pensijų išmokas ir (ar) šalpos išmokas, išskyrus pensijas, paskirtas asmenims, kuriems nustatytas 45–55 procentų darbingumo lygis (pensijas, paskirtas asmenims, iki 2005 m. liepos 1 d. pripažintiems III grupės invalidais), našlių ar našlaičių pensijas ir už tarnybą paskirtas pareigūnų ir karių valstybines pensijas, arba asmenys, kurie kreipėsi dėl bet kokios rūšies pensijos, pensijų išmokų ir (ar) šalpos išmokų, išskyrus pensijas asmenims, kuriems nustatytas 45–55 procentų darbingumo lygis (pensijas, paskirtas asmenims, iki 2005 m. liepos 1 d. pripažintiems III grupės invalidais), našlių ar našlaičių pensijas ir už tarnybą skiriamas pareigūnų ir karių valstybines pensijas, skyrimo, bet jos dar nėra paskirtos ar paskirtos, bet neišmokėtos;
 
@@ -1184,7 +1190,13 @@ Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
 
 1. Artimieji giminaičiai – kaip ši sąvoka apibrėžta Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas).
 
-2. Bendrai gyvenantys asmenys – sutuoktiniai ir jų vaikai (įvaikiai) iki 18 metų; susituokęs asmuo, su kuriuo teismo sprendimu dėl sutuoktinių gyvenimo skyrium yra likę gyventi jų nepilnamečiai vaikai (įvaikiai), arba vienas iš tėvų ir jo vaikai (įvaikiai) iki 18 metų; neįregistravę santuokos ir bendrą ūkį tvarkantys pilnamečiai ar veiksniais pripažinti nepilnamečiai vyras ir moteris ir jų vaikai (įvaikiai) iki 18 metų. Į bendrai gyvenančių asmenų sudėtį taip pat įskaitomi dirbantys (taip pat savarankiškai dirbantys), jeigu per mėnesį jų gaunamos pajamos yra mažesnės kaip 1 valstybės remiamų pajamų dydis, arba nedirbantys (taip pat savarankiškai nedirbantys) nesusituokę ir savo vaikų (įvaikių) neauginantys pilnamečiai vaikai (įvaikiai) iki 24 metų, kurie mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, taip pat pilnamečiai vaikai (įvaikiai) nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos.
+2. Bendrai gyvenantys asmenys – sutuoktiniai ir jų vaikai (įvaikiai) iki 18 metų; susituokęs asmuo, su kuriuo teismo sprendimu dėl sutuoktinių gyvenimo skyrium yra likę gyventi jų nepilnamečiai vaikai (įvaikiai), arba vienas iš tėvų ir jo vaikai (įvaikiai) iki 18 metų; neįregistravę santuokos ir bendrą ūkį tvarkantys pilnamečiai ar veiksniais pripažinti nepilnamečiai vyras ir moteris ir jų vaikai (įvaikiai) iki 18 metų. Į bendrai gyvenančių asmenų sudėtį taip pat įskaitomi dirbantys (taip pat savarankiškai dirbantys), jeigu per mėnesį jų gaunamos pajamos yra mažesnės kaip 1 valstybės remiamų pajamų dydis, arba nedirbantys (taip pat savarankiškai nedirbantys) nesusituokę ir savo vaikų (įvaikių) neauginantys pilnamečiai vaikai (įvaikiai) iki 24 metų, kurie mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, taip pat pilnamečiai vaikai (įvaikiai) nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, o kai švietimo įstaigose nustatoma vėlesnė mokslo ar studijų metų pradžia negu rugsėjo 1 diena, pilnamečiai vaikai (įvaikiai), tais pačiais kalendoriniais metais baigę bendrojo ugdymo programą ir įstoję mokytis pagal formaliojo profesinio mokymo programą ar studijuoti į aukštąją mokyklą, į bendrai gyvenančių asmenų sudėtį įskaitomi ir laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigose prasideda mokslo ar studijų metai.
+
+TAR pastaba. 2 dalies nuostatos taikomos skiriant piniginę socialinę paramą nuo 2020 m. rugsėjo 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3375, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23942
 
 3. Bendrojo naudojimo objektų valdytojas – kaip ši sąvoka apibrėžta Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatyme.
 
