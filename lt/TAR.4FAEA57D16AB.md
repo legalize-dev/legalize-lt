@@ -4,7 +4,7 @@ identifier: "TAR.4FAEA57D16AB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-12-12"
-last_updated: "2019-01-01"
+last_updated: "2020-11-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FAEA57D16AB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Prezidento valstybinės rentos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 141-5405, i. k. 1061010ISTA000X-980
 
@@ -61,7 +61,15 @@ Nr. XIII-1353, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11455
 
 3) pilnamečiai vaikai (įvaikiai), kurie mokosi pagal bendrojo ugdymo programą, pirmą kartą įgyja pirmąją kvalifikaciją pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinių studijų programą ir pirmą kartą įgyja bakalauro ar magistro laipsnį, iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti Respublikos Prezidento našlaičių valstybinę rentą iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 dienos), bet ne ilgiau, iki jiems sukaks 24 metai.
 
-2. Įvaikinus šio straipsnio 1 dalies 1 punkte nurodytus našlaičius, jų teisė gauti Respublikos Prezidento našlaičių valstybinę rentą išlieka.
+2. Teisė gauti Respublikos Prezidento našlaičių valstybinę rentą išlieka:
+
+1) įvaikinus šio straipsnio 1 dalies 1 punkte nurodytus našlaičius;
+
+2) šio straipsnio 1 dalies 3 punkto reikalavimus atitinkantiems našlaičiams, kurie tais pačiais kalendoriniais metais baigė bendrojo ugdymo programą ir įstojo į švietimo įstaigą mokytis pagal formaliojo profesinio ugdymo programą ar studijuoti pagal nuolatinių studijų programą – laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigoje prasideda mokslo ar studijų metai pagal formaliojo profesinio ugdymo programą ar nuolatinių studijų programą, pagal kurią mokytis ar studijuoti įstojo našlaitis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3374, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23941
 
 5 straipsnis. Respublikos Prezidento našlaičių valstybinės rentos skyrimo ir mokėjimo sąlygos
 
@@ -89,7 +97,11 @@ Nr. XIII-1353, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11455
 
 6. Jeigu asmeniui įsiteisėja apkaltinamasis teismo nuosprendis, kuriuo jis pripažintas kaltu už tyčinio nusikaltimo padarymą (neatsižvelgiant į atleidimą nuo bausmės atlikimo, vėlesnį teistumo išnykimą ar panaikinimą), valstybinė renta neskiriama, o paskirtoji nemokama.
 
-7. Valstybinės rentos gavėjas, kuris neteko Lietuvos Respublikos pilietybės arba kuriam įsiteisėjo apkaltinamasis teismo nuosprendis, kuriuo valstybinės rentos gavėjas pripažintas kaltu dėl tyčinio nusikaltimo padarymo, taip pat Respublikos Prezidento našlaitis, nebeatitinkantis šio įstatymo 4 straipsnio 1 dalyje nurodytų sąlygų, privalo per 10 darbo dienų nuo tokių aplinkybių atsiradimo apie jas pranešti Lietuvos Respublikos Prezidento kanceliarijai. Jeigu apie tokias aplinkybes laiku nepranešama, permokėta suma išieškoma įstatymų nustatyta tvarka.
+7. Valstybinės rentos gavėjas, kuris neteko Lietuvos Respublikos pilietybės arba kuriam įsiteisėjo apkaltinamasis teismo nuosprendis, kuriuo valstybinės rentos gavėjas pripažintas kaltu dėl tyčinio nusikaltimo padarymo, taip pat Respublikos Prezidento našlaitis, nebeatitinkantis šio įstatymo 4 straipsnio 1 dalyje nurodytų sąlygų, išskyrus šio įstatymo 4 straipsnio 2 dalyje nustatytus atvejus, privalo per 10 darbo dienų nuo tokių aplinkybių atsiradimo apie jas pranešti Lietuvos Respublikos Prezidento kanceliarijai. Jeigu apie tokias aplinkybes laiku nepranešama, permokėta suma išieškoma įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3374, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23941
 
 8 straipsnis. Valstybinės rentos mokėjimas jos gavėjui išvykus nuolat gyventi į užsienį
 
@@ -140,6 +152,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1353, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11455
 
 Lietuvos Respublikos Prezidento valstybinės rentos įstatymo Nr. X-980 3 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3374, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23941
+
+Lietuvos Respublikos Prezidento valstybinės rentos įstatymo Nr. X-980 4 ir 7 straipsnių pakeitimo įstatymas
 
 9 straipsnis. Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos mokėjimas jos gavėjui išvykus nuolat gyventi į užsienį
 
