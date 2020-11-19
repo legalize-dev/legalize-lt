@@ -4,7 +4,7 @@ identifier: "TAR.C8205E261830"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2020-01-01"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-11-18
+Suvestinė redakcija nuo 2020-11-19 iki 2021-02-28
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
 
@@ -242,11 +242,17 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
-17) nestacionarių priemonių prieš stacionarias pirmenybės – vaikams, jų tėvams ar kitiems vaiko atstovams pagal įstatymą, patyrusiems smurtą ar prievartą, siūlomos nestacionarios krizių įveikimo priemonės, pagalba siekiantiems padėti sau, socialinės pagalbos nepertraukiamumas.
+17) nestacionarių priemonių prieš stacionarias pirmenybės – vaikams, jų tėvams ar kitiems vaiko atstovams pagal įstatymą, patyrusiems smurtą ar prievartą, siūlomos nestacionarios krizių įveikimo priemonės, pagalba siekiantiems padėti sau, socialinės pagalbos nepertraukiamumas;
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+
+18) vaiko aplinkos ir globos (rūpybos) vietos pastovumo – parenkant vaiko globos (rūpybos) vietą, turi būti siekiama užtikrinti, kad tai būtų vienintelė vaiko globos (rūpybos) vieta, kuri būtų kaip įmanoma arčiau vaiko gyvenamosios vietos ir gali būti keičiama tik tuo atveju, jeigu tai atitinka geriausius vaiko interesus.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3397, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24268
 
 5 straipsnis. Įstatymai ir kiti teisės aktai, nustatantys vaiko teises ir laisves bei reguliuojantys jų apsaugą
 
@@ -1315,6 +1321,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2414, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13751
 
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, 50 straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-2035 14 ir 23 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3397, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24268
+
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 4 straipsnio pakeitimo įstatymas
 
 54 straipsnis. Vaiko, kuriam apribota ar atimta laisvė, teisės ir jų garantijos
 
