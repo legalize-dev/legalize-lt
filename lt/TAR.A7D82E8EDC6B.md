@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2020-11-04"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2020-11-04 iki 2020-11-18
+Suvestinė redakcija nuo 2020-11-19 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
@@ -287,7 +287,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
-4) tolimojo, vietinio (miesto) reguliaraus susisiekimo autobusų, dviračių, autocisternų, kuriomis vežamas kuras į Kuršių neriją;
+4) tolimojo, vietinio (miesto) reguliaraus susisiekimo autobusų, dviračių, autocisternų, kuriomis vežamas kuras į Kuršių neriją, ir transporto priemonių, kuriomis gabenamas biokuras į Kuršių neriją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3420, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24269
 
 5) juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę, transporto priemonių ir darbuotojų;
 
@@ -325,7 +329,7 @@ Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                   VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
