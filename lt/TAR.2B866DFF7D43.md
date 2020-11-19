@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2020-07-01"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-11-18
+Suvestinė redakcija nuo 2020-11-19 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -480,7 +480,11 @@ Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
 
 3) veika padaryta dėl chuliganiškų ar savanaudiškų paskatų;
 
-4) veika padaryta kankinant nukentėjusį asmenį ar tyčiojantis iš jo;
+4) veika padaryta kankinant nukentėjusį asmenį ar kitaip itin žiauriai elgiantis arba tyčiojantis iš jo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
 5) veika padaryta mažamečiui;
 
@@ -498,11 +502,17 @@ Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
 
 12) veika padaryta siekiant išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų;
 
-13) veiką padarė recidyvistas.
+13) veiką padarė recidyvistas;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
+
+14) 149 straipsnio 3 ir 4 dalyse, 150 straipsnio 3 ir 4 dalyse, 151 straipsnio 2 dalyje, 1511, 1521, 153, 162 straipsniuose, 307 straipsnio 3 dalyje, 308 straipsnio 3 dalyje, 309 straipsnio 2 ir 3 dalyse numatytas veikas padarė nukentėjusio nepilnamečio artimasis giminaitis, šeimos narys ar kartu gyvenantis asmuo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
 2. Skirdamas bausmę, teismas neatsižvelgia į tokią atsakomybę sunkinančią aplinkybę, kuri įstatyme numatyta kaip nusikaltimo sudėties požymis.
 
@@ -1138,9 +1148,13 @@ Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
 
 214 straipsnis. Netikros elektroninės mokėjimo priemonės gaminimas, tikros elektroninės mokėjimo priemonės klastojimas ar neteisėtas disponavimas elektronine mokėjimo priemone arba jos duomenimis
 
-1. Tas, kas gamino vieną ar daugiau netikrų elektroninių mokėjimo priemonių ar jų dalių ar suklastojo vieną ar daugiau tikrų elektroninių mokėjimo priemonių arba neteisėtai įgijo, laikė, perdavė ar realizavo vieną ar daugiau svetimų, netikrų ar suklastotų elektroninių mokėjimo priemonių, arba neteisėtai įgijo, laikė, perdavė ar realizavo vienos ar daugiau svetimų elektroninių mokėjimo priemonių ar jų naudotojo tapatybės patvirtinimo priemonių duomenis, pakankamus finansinei operacijai inicijuoti, arba gamino, įgijo, laikė, perdavė ar realizavo techninę įrangą, programinę įrangą ar kitokias priemones, tiesiogiai skirtas ar pritaikytas netikroms elektroninėms mokėjimo priemonėms ar jų dalims gaminti ar tikroms elektroninėms mokėjimo priemonėms klastoti,
+1. Tas, kas gamino vieną ar daugiau netikrų elektroninių mokėjimo priemonių ar jų dalių ar suklastojo vieną ar daugiau tikrų elektroninių mokėjimo priemonių arba neteisėtai įgijo, importavo, eksportavo, gabeno, laikė, perdavė ar realizavo vieną ar daugiau svetimų, netikrų ar suklastotų elektroninių mokėjimo priemonių, arba neteisėtai įgijo, importavo, eksportavo, gabeno, laikė, perdavė ar realizavo vienos ar daugiau svetimų elektroninių mokėjimo priemonių ar jų naudotojo tapatybės patvirtinimo priemonių duomenis, pakankamus finansinei operacijai inicijuoti, arba gamino, įgijo, importavo, eksportavo, gabeno, laikė, perdavė ar realizavo techninę įrangą, programinę įrangą ar kitokias priemones, tiesiogiai skirtas ar pritaikytas netikroms elektroninėms mokėjimo priemonėms ar jų dalims gaminti ar tikroms elektroninėms mokėjimo priemonėms klastoti,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -4292,13 +4306,21 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 
 189 straipsnis. Nusikalstamu būdu gauto turto įgijimas arba realizavimas
 
-1. Tas, kas įgijo, naudojosi arba realizavo turtą žinodamas, kad tas turtas gautas nusikalstamu būdu,
+1. Tas, kas įgijo, valdė, naudojosi arba realizavo turtą žinodamas, kad tas turtas gautas nusikalstamu būdu,
 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
 
-2. Tas, kas įgijo, naudojosi arba realizavo didelės vertės turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes žinodamas, kad tas turtas ar vertybės gauti nusikalstamu būdu,
+Straipsnio dalies pakeitimai:
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
+
+2. Tas, kas įgijo, valdė, naudojosi arba realizavo didelės vertės turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes žinodamas, kad tas turtas ar vertybės gauti nusikalstamu būdu,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki šešerių metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
 3. Tas, kas įgijo, naudojosi arba realizavo nedidelės vertės turtą, žinodamas, kad tas turtas gautas nusikalstamu būdu, padarė baudžiamąjį nusižengimą ir
 
@@ -4482,9 +4504,13 @@ NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI FINANSŲ SISTEMAI
 
 218 straipsnis. Manipuliavimas finansinių priemonių rinka
 
-1. Tas, kas tiesiogiai ar netiesiogiai sudarė sandorį ar davė pavedimą pirkti ar parduoti finansines priemones arba skleidė tikrovės neatitinkančią, klaidinančią ar neišsamią informaciją apie emitentą ar jo finansines priemones, siekdamas dirbtinai padidinti ar sumažinti finansinių priemonių kainą arba sudaryti tikrovės neatitinkantį ar klaidinantį įspūdį apie finansinių priemonių pasiūlą, paklausą ar kainą, arba palaikyti neįprastą ar dirbtinę finansinių priemonių kainą, arba tiesiogiai ar netiesiogiai sudarė sandorį ar davė pavedimą pirkti ar parduoti finansines priemones pasitelkęs fiktyvias priemones ar kitokiu teisės aktų draudžiamu būdu, jeigu dėl to tas asmuo savo ar kitų asmenų naudai išvengė didelės turtinės žalos arba gavo didelės turtinės naudos, arba padarė didelės turtinės žalos emitentui ar kitam rinkos dalyviui, arba atsirado sunkių padarinių finansinių priemonių rinkai ir (ar) finansų sistemai,
+1. Tas, kas tiesiogiai ar netiesiogiai sudarė sandorį ar davė pavedimą pirkti ar parduoti finansines priemones arba skleidė tikrovės neatitinkančią, klaidinančią ar neišsamią informaciją apie lyginamąjį indeksą arba emitentą ar jo finansines priemones, siekdamas paveikti lyginamojo indekso apskaičiavimą arba dirbtinai padidinti ar sumažinti finansinių priemonių kainą, arba sudaryti tikrovės neatitinkantį ar klaidinantį įspūdį apie finansinių priemonių pasiūlą, paklausą ar kainą, arba palaikyti neįprastą ar dirbtinę finansinių priemonių kainą, arba tiesiogiai ar netiesiogiai sudarė sandorį ar davė pavedimą pirkti ar parduoti finansines priemones pasitelkęs fiktyvias priemones ar kitokiu teisės aktų draudžiamu būdu, arba neteisėtai paveikė lyginamojo indekso apskaičiavimą, jeigu dėl to tas asmuo savo ar kitų asmenų naudai išvengė didelės turtinės žalos arba gavo didelės turtinės naudos, arba padarė didelės turtinės žalos emitentui ar kitam rinkos dalyviui, arba atsirado sunkių padarinių finansinių priemonių rinkai ir (ar) finansų sistemai,
 
 baudžiamas laisvės apribojimu arba bauda, arba laisvės atėmimu iki ketverių metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -5446,6 +5472,18 @@ Papildyta punktu:
 
 Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
+36. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1673 dėl kovos su pinigų plovimu baudžiamosios teisės priemonėmis (OL 2018 L 284, p. 22).
+
+Papildyta punktu:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
+
+37. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/713 dėl kovos su sukčiavimu negrynosiomis mokėjimo priemonėmis ir jų klastojimu, kuria pakeičiamas Tarybos pamatinis sprendimas 2001/413/TVR (OL 2019 L 123, p. 18).
+
+Papildyta punktu:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
+
 Kodeksas papildytas priedu:
 
 Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
@@ -6228,6 +6266,14 @@ Nr. XIII-2866, 2020-04-28, paskelbta TAR 2020-05-07, i. k. 2020-09790
 
 Lietuvos Respublikos baudžiamojo kodekso 277 straipsnio pakeitimo įstatymas
 
+40.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
+
+Lietuvos Respublikos baudžiamojo kodekso 60, 147-1, 151-1, 189, 214, 218, 224-1 straipsnių ir priedo pakeitimo įstatymas
+
 2771 straipsnis. Sąvokų išaiškinimas
 
 Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
@@ -6286,13 +6332,33 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-3. Tėvas, motina, globėjas, rūpintojas ar kitas teisėtas vaiko atstovas ar asmuo, turintis įstatymuose nustatytų įgaliojimų nepilnamečio asmens atžvilgiu, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su tuo nepilnamečiu asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+3. Tėvas, motina, globėjas, rūpintojas ar kitas teisėtas vaiko atstovas arba įstatymuose nustatytų įgaliojimų nepilnamečio asmens atžvilgiu turintis asmuo, arba pasitikėjimu, autoritetu arba įtaka nepilnamečiui piktnaudžiavęs asmuo, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su tuo nepilnamečiu asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki šešerių metų.
 
-4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+Straipsnio dalies pakeitimai:
 
-5. Šio straipsnio 1 dalyje nurodyti veiksmai nelaikomi nusikaltimu, jeigu tarp veiksmų dalyvių nėra didelio amžiaus, dvasinės ir fizinės brandos skirtumo.
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
+
+4. Tas, kas padarė šio straipsnio 3 dalyje numatytus veiksmus su jaunesniu negu šešiolikos metų asmeniu,
+
+baudžiamas laisvės atėmimu iki aštuonerių metų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
+
+5. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
+
+6. Šio straipsnio 1 dalyje nurodyti veiksmai nelaikomi nusikaltimu, jeigu tarp veiksmų dalyvių nėra didelio amžiaus, dvasinės ir fizinės brandos skirtumo.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
 Kodeksas papildytas straipsniu:
 
@@ -6660,7 +6726,17 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 baudžiamas areštu arba laisvės atėmimu iki aštuonerių metų.
 
-3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+3. Nukentėjęs nuo šiame straipsnyje numatytos veikos asmuo gali būti atleistas nuo baudžiamosios atsakomybės už nusikalstamą veiką, kurią jis buvo priverstas tiesiogiai padaryti dėl jam padarytos šiame straipsnyje numatytos veikos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
+
+4. Už šio straipsnio 1 ir 2 dalyse numatytas veikas atsako ir juridinis asmuo.“
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
 Kodeksas papildytas straipsniu:
 
@@ -6706,11 +6782,17 @@ Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)
 
 2241 straipsnis. Sąvokų išaiškinimas
 
-1. Šio skyriaus 216 straipsnyje nurodytas nusikalstamu būdu gautas turtas yra tiesiogiai ar netiesiogiai iš nusikalstamos veikos gautas bet kokio pavidalo turtas.
+1. Šio skyriaus 214, 215 straipsniuose nurodyta elektroninė mokėjimo priemonė yra apsaugotas materialus ar nematerialus įrenginys, daiktas ar duomenys arba jų derinys, leidžiantys tiesiogiai arba kartu atliekant vieną ar daugiau procedūrų jų turėtojui ar naudotojui inicijuoti ar atlikti finansinę operaciją, įskaitant operacijas, inicijuojamas ar atliekamas elektroniniais pinigais ar virtualiąja valiuta.
 
-2. Šio skyriaus 217, 218 straipsniuose nurodyta turtinė žala, turtinė nauda yra didelė, kai jos vertė viršija 250 MGL dydžio sumą.
+2. Šio skyriaus 216 straipsnyje nurodytas nusikalstamu būdu gautas turtas yra tiesiogiai ar netiesiogiai iš nusikalstamos veikos gautas bet kokio pavidalo turtas.
 
-3. Šio skyriaus 217 straipsnyje nurodyta viešai neatskleista informacija suprantama taip, kaip ji apibrėžta 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB 7 straipsnio 1–4 dalyse, ir gali būti viešai atskleidžiama tik šio reglamento 17 straipsnyje nustatyta tvarka.
+3. Šio skyriaus 217, 218 straipsniuose nurodyta turtinė žala, turtinė nauda yra didelė, kai jos vertė viršija 250 MGL dydžio sumą.
+
+4. Šio skyriaus 217 straipsnyje nurodyta viešai neatskleista informacija suprantama taip, kaip ji apibrėžta 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB 7 straipsnio 1–4 dalyse, ir gali būti viešai atskleidžiama tik šio reglamento 17 straipsnyje nustatyta tvarka.
+
+5. Šio skyriaus 218 straipsnyje nurodytos finansinės priemonės apima ir su finansinėmis priemonėmis susijusių biržos prekių neatidėliotinų sandorių sutartis, kurios suprantamos taip, kaip jos apibrėžtos Reglamento (ES) Nr. 596/2014 3 straipsnio 1 dalies 15 punkte.
+
+6. Šio skyriaus 218 straipsnyje nurodytas lyginamasis indeksas suprantamas taip, kaip jis apibrėžtas Reglamento (ES) Nr. 596/2014 3 straipsnio 1 dalies 29 punkte.
 
 Kodeksas papildytas straipsniu:
 
@@ -6719,6 +6801,8 @@ Nr. XII-702, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00068
 Straipsnio pakeitimai:
 
 Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
+
+Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
 XXXIII SKYRIUS
 
