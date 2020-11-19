@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2020-06-15"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-11-18
+Suvestinė redakcija nuo 2020-11-19 iki 2021-01-22
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -3095,7 +3095,13 @@ Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
 3) vaiko globa (rūpyba) šeimoje;
 
-4) brolių ir seserų neišskyrimas, išskyrus atvejus, kai tai pažeidžia vaiko interesus.
+4) brolių ir seserų neišskyrimas, išskyrus atvejus, kai tai pažeidžia vaiko interesus;
+
+5) vaiko aplinkos ir globos (rūpybos) vietos pastovumas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3396, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24264
 
 2. Nustatant ir naikinant vaiko globą (rūpybą), skiriant globėją (rūpintoją), vaikui, galinčiam išreikšti savo nuomonę, suteikiama galimybė būti išklausytam ir jo nuomonė yra svarbi priimant sprendimus.
 
@@ -11074,6 +11080,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2957, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11327
 
 Lietuvos Respublikos civilinio kodekso 2.79 straipsnio pakeitimo įstatymas
+
+48.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3396, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24264
+
+Lietuvos Respublikos civilinio kodekso 3.249 straipsnio pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
