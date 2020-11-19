@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2019-01-01"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-11-18
+Suvestinė redakcija nuo 2020-11-19 iki 2022-12-21
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -562,8 +562,6 @@ Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 
 
 6. Kiti rezervai sudaromi įmonės įstatuose nustatyta tvarka iš įmonės paskirstytinojo pelno, naudojami įmonės įstatuose nustatytiems tikslams ir naikinami įmonės įstatuose nustatyta tvarka. Šie rezervai gali būti sudaromi tik po to, kai yra atliktas atskaitymas į privalomąjį rezervą. Skirstant finansinių metų pelną, kiti nepanaudoti rezervai, jeigu jų nenumatoma panaudoti, gali būti pervedami į paskirstytinąjį pelną (nuostolius).
 
-TAR pastaba. 12 straipsnio 6 dalies nuostatos taikomos paskirstant įmonių 2017 metų ir vėlesnių metų paskirstytinąjį pelną.
-
 Straipsnio dalies pakeitimai:
 
 Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
@@ -700,7 +698,15 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 1) įmonė įgyvendina arba dalyvauja įgyvendinant Vyriausybės sprendimu pripažintą valstybei svarbų ekonominį projektą arba valstybės įmonė įgyvendina ar dalyvauja įgyvendinant Lietuvos Respublikos Seimo sprendimu pripažintą ypatingos valstybinės svarbos projektą;
 
-2) įmonės paskolos, išperkamosios nuomos įsipareigojimai ir kitos ilgalaikės mokėtinos sumos ir įsipareigojimai (išskyrus ateinančių laikotarpių pajamas, atidėtojo pelno mokesčio įsipareigojimus ir dotacijas), kurie nurodyti įmonės audituotame ataskaitinių metinių finansinių ataskaitų rinkinyje, sumokėjus pelno įmoką, viršytų įmonės nuosavo kapitalo dydį.
+2) įmonės paskolos, išperkamosios nuomos įsipareigojimai ir kitos ilgalaikės mokėtinos sumos ir įsipareigojimai (išskyrus ateinančių laikotarpių pajamas, atidėtojo pelno mokesčio įsipareigojimus ir dotacijas), kurie nurodyti įmonės audituotame ataskaitinių metinių finansinių ataskaitų rinkinyje, sumokėjus pelno įmoką, viršytų įmonės nuosavo kapitalo dydį;
+
+3) sumokėjusi pelno įmoką įmonė taptų nemoki.
+
+TAR pastaba. 9 dalies 3 punkto nuostatos taikomos priimant sprendimus dėl įmonės paskirstytinojo pelno (nuostolių) paskirstymo už 2020 ir vėlesnius metus.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3358, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24246
 
 10. Neteko galios nuo 2019-01-01.
 
@@ -711,8 +717,6 @@ Nr. XIII-1454, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11766
 11. Įmonės pelno dalis, likusi pagal šio straipsnio 9 dalies 1 punktą sumažinus įmonės pelno įmoką, turi būti skiriama Lietuvos Respublikos Seimo sprendimu pripažintiems ypatingos valstybinės svarbos arba Vyriausybės sprendimu pripažintiems valstybei svarbiems ekonominiams projektams, kuriuos ši įmonė įgyvendina arba dalyvauja juos įgyvendinant.
 
 12. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
-
-TAR pastaba. 15 straipsnio nuostatos taikomos paskirstant įmonių 2017 metų ir vėlesnių metų paskirstytinąjį pelną.
 
 Straipsnio pakeitimai:
 
@@ -1110,7 +1114,7 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -1361,6 +1365,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1861, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21886
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 4 ir 22 straipsnių pakeitimo įstatymas
+
+32.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3358, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24246
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 15 straipsnio pakeitimo įstatymas
 
 221 straipsnis. Įmonės pertvarkymas į viešąją įstaigą
 
