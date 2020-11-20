@@ -4,7 +4,7 @@ identifier: "TAR.EDDCB615126E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-13"
-last_updated: "2020-07-01"
+last_updated: "2020-11-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 @D1=19941213;D2=19960709;D3=19960918
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-11-19
+Suvestinė redakcija nuo 2020-11-20 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1958, i. k. 0941010ISTA000I-693
 
@@ -126,7 +126,17 @@ Pagal šį įstatymą skiriamos šios pareigūnų ir karių valstybinės pensijo
 
 5) žvalgybos pareigūnų darbo kitose Lietuvos, užsienio valstybių ar tarptautinėse institucijose, įstaigose, įmonėse, organizacijose laikas, taip pat laikas, kai žvalgybos pareigūnai užsiėmė kita teisėta veikla ir vykdė atskiras žvalgybos institucijų tarnybines užduotis, jeigu žvalgybos pareigūnai šiuo laikotarpiu buvo įtraukti į Valstybės saugumo departamento ir Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos žvalgybos pareigūnų rezervą;
 
-6) darbo tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose laikas, jeigu pareigūnas į jas buvo laikinai perkeltas Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka.
+6) darbo tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose laikas, jeigu pareigūnas į jas buvo laikinai perkeltas Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka, Reglamento (ES) 2017/1939 nustatyta tvarka buvo paskirtas eiti Europos deleguotojo prokuroro pareigas Europos prokuratūroje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
+
+7) darbo laikas, kai asmuo Reglamento (ES) 2017/1939 nustatyta tvarka buvo paskirtas eiti Europos prokuroro pareigas Europos prokuratūroje.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
 
 Straipsnio dalies pakeitimai:
 
@@ -135,6 +145,12 @@ Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
 2. Į tarnybos laiką, nurodytą šio straipsnio 1 dalies 1 punkte, pareigūnų ir karių valstybinei pensijai skirti įskaitomas tarnybos vidaus reikalų, vidaus tarnybos, krašto apsaugos, prokuratūros, valstybės saugumo sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente, jam pavaldžiose įstaigose bei valstybės įmonėse, muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) laikas iki 2018 m. gruodžio 31 d. ir tarnybos vidaus tarnybos, krašto apsaugos, prokuratūros, valstybės saugumo sistemose bei Specialiųjų tyrimų tarnyboje laikas nuo 2019 m. sausio 1 d.
 
 3. Vidaus tarnybos sistemos pareigūnams, tarnaujantiems muitinės sistemoje, į tarnybos laiką pensijai skirti neįskaitomas tarnybos muitinės sistemoje laikas, kada jiems buvo mokama pareigūnų ir karių valstybinė pensija.
+
+4. Pareigūnų, Reglamento (ES) 2017/1939 nustatyta tvarka paskirtų eiti Europos prokuroro pareigas Europos prokuratūroje, tarnybos Europos prokuratūroje laikas į tarnybos laiką pareigūnų ir karių valstybinei pensijai skirti įskaitomas tik nustatant šių asmenų teisę gauti pareigūnų ir karių valstybinę pensiją, jeigu šio straipsnio 1 dalies 1–6 punktuose nurodyto tarnybos laiko nepakanka pareigūnų ir karių valstybinei pensijai paskirti. Šioje dalyje nurodytas pareigūno tarnybos Europos prokuratūroje laikas, kuriuo jis ėjo Europos prokuroro pareigas, neįskaitomas į šio įstatymo 7 straipsnio 2 dalyje nurodytus laikotarpius, jis neįskaitomas ir apskaičiuojant pareigūnų ir karių valstybinės netekto darbingumo pensijos dydį šio įstatymo 9 straipsnio 1 dalyje nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
 
 Straipsnio pakeitimai:
 
@@ -152,7 +168,7 @@ Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
 
 7 straipsnis. Pareigūnų ir karių valstybinės pensijos už tarnybą dydis
 
-1. Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal pareigūno ar kario nurodytų paeiliui ištarnautų 5 tarnybos metų palankiausių nuosekliai einančių 12 mėnesių jam nustatyto darbo užmokesčio vidurkį. Pareigūnams ir kariams, nurodytiems šio įstatymo 3 straipsnio 1 dalies 3 punkte ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje, Vadovybės apsaugos tarnyboje mažiau negu 12 mėnesių, pareigūnų ir karių valstybinės netekto darbingumo pensijos skiriamos pagal pareigūno ar kario ištarnautų mėnesių jam nustatyto darbo užmokesčio vidurkį. Jeigu į pareigūno ar kario nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti patenka ir laikotarpis nuo 2019 m. sausio 1 d., šio laikotarpio darbo užmokestis mažinamas dalijant jį iš 1,289. Į darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka.
+1. Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal pareigūno ar kario nurodytų paeiliui ištarnautų 5 tarnybos metų palankiausių nuosekliai einančių 12 mėnesių, į šį laikotarpį neįskaitant pareigūno tarnybos laiko, kai Reglamento (ES) 2017/1939 nustatyta tvarka jis buvo paskirtas eiti Europos prokuroro pareigas Europos prokuratūroje, jam nustatyto darbo užmokesčio vidurkį. Pareigūnams ir kariams, nurodytiems šio įstatymo 3 straipsnio 1 dalies 3 punkte ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje mažiau negu 12 mėnesių, pareigūnų ir karių valstybinės netekto darbingumo pensijos skiriamos pagal pareigūno ar kario ištarnautų mėnesių jam nustatyto darbo užmokesčio vidurkį. Jeigu į pareigūno ar kario nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti patenka ir laikotarpis nuo 2019 m. sausio 1 d., šio laikotarpio darbo užmokestis mažinamas dalijant jį iš 1,289. Į darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
@@ -161,6 +177,8 @@ Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
 Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
 
 Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
+
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
 
 2. Už kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti, skiriama:
 
@@ -414,9 +432,233 @@ Nr. XII-636, 2013-12-03, Žin., 2013, Nr. 128-6522 (2013-12-14)
 
 Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
 
+2 straipsnis. Pareigūnų ir karių valstybinių pensijų mokėjimo šaltinis
+
+Pareigūnų ir karių valstybinės pensijos ir šio įstatymo 15 straipsnyje nurodytas priedas mokami iš Lietuvos Respublikos valstybės biudžeto lėšų.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
+
+3 straipsnis. Pareigūnų ir karių valstybinių pensijų skyrimo sąlygos
+
+1. Pareigūnų ir karių valstybinė pensija skiriama ir išmokama išėjusiems iš tarnybos šio įstatymo 1 straipsnyje nurodytiems pareigūnams ir kariams:
+
+1) ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje, Vadovybės apsaugos tarnyboje 25 ir daugiau metų, išskyrus šio straipsnio 3 dalyje nurodytus pareigūnus ir karius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
+
+Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
+
+2) ištarnavusiems prokuratūroje 20 ir daugiau metų ir sukakusiems Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
+
+3) pripažintiems nedarbingais ar iš dalies darbingais dėl priežasčių, susijusių su tarnyba;
+
+4) atleistiems dėl sveikatos, kai yra žinybinės centrinės medicininės ekspertizės komisijos išvada, arba pripažintiems nedarbingais ar iš dalies darbingais dėl priežasčių, nesusijusių su tarnyba, ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje, Vadovybės apsaugos tarnyboje 5 ir daugiau metų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
+
+Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
+
+5) sukakusiems įstatymų arba statutų nustatytą išleidimo į atsargą amžių (jeigu toks amžius nenustatytas, – senatvės pensijos amžių) ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje, Vadovybės apsaugos tarnyboje 5 ir daugiau metų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
+
+Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
+
+2. Pareigūnams ir kariams, dėl pačių kaltės pašalintiems iš vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos, Vadovybės apsaugos tarnybos, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 25 ar daugiau metų ir po atleidimo iš tarnybos dienos yra praėję 3 metai arba kai jie yra ištarnavę 25 ar daugiau metų ir yra sukakę įstatymų nustatytą išleidimo į atsargą amžių (jeigu toks amžius nenustatytas, – senatvės pensijos amžių), išskyrus šio straipsnio 4 ir 5 dalyse nurodytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
+
+Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
+
+3. Pareigūnams ir kariams, kurie priimti į tarnybą iki 2016 m. sausio 1 d. ir kurių tarnybos laikas pensijai skirti, apskaičiuotas šio įstatymo nustatyta tvarka, 2016 m. sausio 1 d. yra 11 ir daugiau metų, šio straipsnio 1 dalies 1 punktas netaikomas, o pareigūnų ir karių valstybinė pensija skiriama ir išmokama, kai jie vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje ištarnauja:
+
+1) 24 metus ir 6 mėnesius – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 11 ir daugiau metų, bet mažiau negu 12 metų;
+
+2) 24 metus – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 12 ir daugiau metų, bet mažiau negu 13 metų;
+
+3) 23 metus ir 6 mėnesius – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 13 ir daugiau metų, bet mažiau negu 14 metų;
+
+4) 23 metus – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 14 ir daugiau metų, bet mažiau negu 15 metų;
+
+5) 22 metus ir 6 mėnesius – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 15 ir daugiau metų, bet mažiau negu 16 metų;
+
+6) 22 metus – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 16 ir daugiau metų, bet mažiau negu 17 metų;
+
+7) 21 metus ir 6 mėnesius – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 17 ir daugiau metų, bet mažiau negu 18 metų;
+
+8) 20 metų – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 18 ir daugiau metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
+
+4. Pareigūnams ir kariams, kurie iki 2016 m. sausio 1 d. dėl pačių kaltės buvo pašalinti iš vidaus reikalų, valstybės saugumo, krašto apsaugos sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) ir kurie 2016 m. sausio 1 d. buvo ištarnavę vidaus reikalų, valstybės saugumo, krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbę muitinės mobiliosiose grupėse ar muitinės postuose arba atlikę kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) 20 ir daugiau metų, valstybinė pensija skiriama, kai po atleidimo iš tarnybos dienos yra praėję 3 metai arba kai jie yra sukakę įstatymų nustatytą išleidimo į atsargą amžių (jeigu toks amžius nenustatytas, – senatvės pensijos amžių).
+
+5. Pareigūnams ir kariams, kurie dėl pačių kaltės buvo pašalinti iš vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos po 2016 m. sausio 1 d. ir kurie 2016 m. sausio 1 d. buvo ištarnavę vidaus reikalų, valstybės saugumo, krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje 11 ir daugiau metų, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę šio straipsnio 3 dalyje nustatytą tarnybos metų skaičių, reikalingą pareigūnų ir karių valstybinei pensijai skirti, ir po atleidimo iš tarnybos dienos yra praėję 3 metai arba kai jie yra ištarnavę šio straipsnio 3 dalyje nustatytą tarnybos metų skaičių, reikalingą pareigūnų ir karių valstybinei pensijai skirti, ir yra sukakę įstatymų nustatytą išleidimo į atsargą amžių (jeigu toks amžius nenustatytas, – senatvės pensijos amžių).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
+
+6. Pareigūnams, kurie dėl pačių kaltės buvo pašalinti iš prokuratūros sistemos, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir yra sukakę Socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
+
+7. Tarnaujantiems pareigūnams ir kariams valstybinės pensijos nemokamos, išskyrus našlių pensijas.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
+
+11 straipsnis. Neteko galios nuo 2015-01-01.
+
+Straipsnio pakeitimai:
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2008-12-24, Žin., 2008, Nr. 150-6106 (2008-12-31)
+
+Nr. XI-229, 2009-04-23, Žin., 2009, Nr. 49-1938 (2009-04-30)
+
+Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
+
+12 straipsnis. Pareigūnų ir karių valstybinių pensijų skyrimas
+
+1. Asmenims, paskiausiai tarnavusiems vidaus reikalų, vidaus tarnybos sistemose, Lietuvos Respublikos prokuratūroje, Vadovybės apsaugos tarnyboje, Lietuvos Respublikos muitinėje, Kalėjimų departamente ar jam pavaldžiose įstaigose bei valstybės įmonėse, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems Specialiųjų tyrimų tarnyboje, Valstybės saugumo departamento sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria atitinkamai Specialiųjų tyrimų tarnyba ar Valstybės saugumo departamentas, o moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems krašto apsaugos sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria Krašto apsaugos ministerija, o moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Krašto apsaugos ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
+
+Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
+
+Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
+
+Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
+
+2. Skirdamos ir mokėdamos karių ir pareigūnų valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą, šio straipsnio 1 dalyje nurodytos institucijos ir įstaigos vadovaujasi šiuo įstatymu ir Vyriausybės patvirtintais Pareigūnų ir karių valstybinių pensijų skyrimo ir mokėjimo nuostatais (toliau – Nuostatai).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
+
+3. Kreiptis dėl pensijos paskyrimo galima prieš tris mėnesius iki teisės gauti pareigūno ar kario valstybinę pensiją atsiradimo arba bet kuriuo metu po teisės gauti pareigūno ar kario valstybinę pensiją atsiradimo.
+
+4. Kreipiantis dėl pensijos, privaloma pateikti visus Nuostatuose nurodytus dokumentus, būtinus pensijai paskirti.
+
+5. Šio straipsnio 1 dalyje nurodytos institucijos per Nuostatuose nustatytą laiką privalo priimti sprendimą dėl pensijos paskyrimo arba dėl atsisakymo ją paskirti ir apie sprendimą pranešti pareiškėjui. Jei atsisakoma skirti pensiją, privaloma nurodyti atsisakymo priežastį.
+
+6. Valstybinio socialinio draudimo fondo administravimo įstaigų sprendimai pensijų skyrimo ar mokėjimo klausimais gali būti skundžiami Valstybinio socialinio draudimo įstatymo nustatyta tvarka ir terminais. Kitų šio straipsnio 1 dalyje nurodytų institucijų ir įstaigų priimti sprendimai pensijų skyrimo klausimais gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka ir terminais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
+
+Straipsnio pakeitimas:
+
+Nr. X-1027, 2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
+
+Nr. XII-86, 2012-12-20, Žin., 2012, Nr. 155-7984 (2012-12-31)
+
+Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
+
+13 straipsnis. Pareigūnų ir karių valstybinės pensijos skyrimo ir mokėjimo terminai
+
+1. Pareigūnų ir karių valstybinė pensija skiriama ir mokama nuo teisės į pensiją atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki dokumentų pensijai skirti gavimo atitinkamoje institucijoje dienos.
+
+2. Pareigūnų ir karių valstybinės pensijos skiriamos iki gyvos galvos arba laikotarpiui, kuriuo pensijos gavėjas pagal šį įstatymą turi teisę gauti pensiją.
+
+3. Nuteistiems už tyčinių nusikaltimų padarymą asmenims pareigūnų ir karių valstybinė pensija neskiriama. Sprendimas dėl pareigūnų ir karių valstybinės pensijos skyrimo asmeniui, kuris yra įtariamasis arba kaltinamasis baudžiamajame procese, priimamas nutraukus ikiteisminį tyrimą, baudžiamąją bylą arba įsiteisėjus teismo nuosprendžiui. Nutraukus ikiteisminį tyrimą, baudžiamąją bylą arba įsiteisėjus išteisinamajam nuosprendžiui, pareigūnų ir karių valstybinė pensija skiriama už visą laikotarpį nuo teisės į pensiją atsiradimo dienos.
+
+4. Pareigūnų ir karių valstybinės pensijos gavėjui mirus, pirmajam besikreipusiam jį laidojusiam asmeniui išmokama asmens negauta praėjusio mėnesio pensija, pensija už tą mėnesį, kurį jos gavėjas mirė, ir dar paskirtos pensijos už vieną mėnesį dydžio suma. Asmeniui apskaičiuotos kitos pareigūnų ir karių valstybinių pensijų sumos, kurios jam priklausė ir kurių jis dėl mirties negavo, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, ir (arba) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
+
+Straipsnio pakeitimai:
+
+Nr. XI-534, 2009-12-08, Žin., 2009, Nr. 151-6781 (2009-12-22)
+
+Nr. XII-837, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04867
+
+151 straipsnis. Pensijos ir pareigūnų ir karių valstybinės pensijos priedo už tarnybą permokėjimas arba neprimokėjimas
+
+1. Pareigūnų ir karių valstybinė pensija arba šio įstatymo 15 straipsnyje nustatytas priedas, laiku negauti dėl pensiją skiriančios ar mokančios įstaigos kaltės, išmokami už praėjusį laiką neapribojant kokiu nors terminu.
+
+2. Pareigūnų ir karių valstybinės pensijos gavėjas privalo pranešti jam pensiją mokančiai įstaigai apie aplinkybes, turinčias įtakos pensijai ar šio įstatymo 15 straipsnyje nurodytam priedui mokėti, per 10 darbo dienų nuo šių aplinkybių atsiradimo dienos. Jeigu apie tai laiku nepranešama ir dėl to permokama pensija ar nurodytas priedas, permokėta suma šią pensiją mokančios įstaigos vadovo arba jo įgalioto šios įstaigos valstybės tarnautojo sprendimu išieškoma iš bet kurios asmens gaunamos išmokos, kurią moka Valstybinio socialinio draudimo fondo administravimo įstaigos (išskyrus tas išmokas, iš kurių išskaitos negalimos vadovaujantis Civilinio proceso kodekso nuostatomis), ne ginčo tvarka. Išieškomos sumos dydis per mėnesį negali viršyti 50 procentų gavėjui priklausančios tokių išmokų (pareigūnų ir karių valstybinės pensijos – kartu su šio įstatymo 15 straipsnyje nurodytu priedu) sumos. Jeigu asmuo negauna tokių išmokų, pareigūnų ir karių valstybinę pensiją mokėjusi įstaiga pasiūlo asmeniui grąžinti permokėtą sumą. Jeigu per nustatytą laiką permoka negrąžinama, permoka išieškoma teismo tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
+
+3. Jeigu pareigūnų ir karių valstybinė pensija arba šio įstatymo 15 straipsnyje nustatytas priedas yra permokami dėl pensiją skiriančios ar mokančios įstaigos kaltės, permokėta suma iš pensijos gavėjo neišieškoma.
+
+4. Pareigūnų ir karių valstybinės pensijos gavėjas, Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaravęs išvykimą iš Lietuvos Respublikos, kiekvienų metų pabaigoje Valstybinio socialinio draudimo fondo administravimo įstaigai privalo pateikti paties pasirašytą pareiškimą, patvirtinantį, kad jis gyvena užsienio valstybėje. Iki kiekvienų metų gruodžio 31 dienos nepateikus šio pareiškimo, pensijos ir šio įstatymo 15 straipsnyje nurodyto priedo mokėjimas sustabdomas nuo ateinančių metų sausio 1 dienos, o šį pareiškimą pateikus, – atnaujinamas nuo mokėjimo sustabdymo dienos, jeigu pensijos gavėjui teisė gauti šią pensiją ar nurodytą priedą yra išlikusi. Jeigu Valstybinio socialinio draudimo fondo administravimo įstaiga duomenis apie tai, kad asmuo gyvena užsienio valstybėje arba kad yra gyvas ir yra tam tikroje vietovėje, iš kitos valstybės kompetentingos įstaigos gauna tiesiogiai, ji privalo informuoti pareigūnų ir karių valstybinės pensijos gavėją, kad tokios informacijos pateikti nereikia.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
+
+Įstatymas papildytas straipsniu:
+
+Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
+
+152 straipsnis. Pareigūnų ir karių, išleidžiamų į pensiją, integracijos į darbo rinką ir medicininės reabilitacijos priemonių sistema
+
+1. Lietuvos Respublikos Vyriausybė nustato pareigūnų ir karių, išleidžiamų į pensiją, integracijos į darbo rinką ir medicininės reabilitacijos priemonių sistemos, kurią sudaro darbo rinkos paslaugos, užimtumo rėmimo priemonės ir medicininės reabilitacijos paslaugos, įgyvendinimo tvarką.
+
+2. Įstatymuose nustatytų darbo rinkos paslaugų teikimo ir dalyvavimo užimtumo rėmimo priemonėse ypatumus, kurie taikomi darbingo amžiaus pareigūnų ir karių valstybinės pensijos už tarnybą ir pareigūnų ir karių valstybinės netekto darbingumo pensijos gavėjams 2 metus nuo jų išleidimo į pensiją ar atsargą dienos, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+3. Medicininės reabilitacijos paslaugas turi teisę gauti pareigūnų ir karių valstybinės pensijos už tarnybą ir pareigūnų ir karių valstybinės netekto darbingumo pensijos gavėjai, kai tai nustatyta atitinkamuose  statutuose ar įstatymuose.
+
+Papildyta straipsniu:
+
+Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
+
+17 straipsnis. Įgyvendinami Europos Sąjungos teisės aktai
+
+Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
+Papildyta straipsniu:
+
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
+
+Lietuvos Respublikos
+
+pareigūnų ir karių valstybinių
+
+pensijų įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2017 m. spalio 12 d. Europos Tarybos reglamentas (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje.
+
+Papildyta priedu:
+
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
 
 Pakeitimai:
 
@@ -870,203 +1112,11 @@ Nr. XIII-3185, 2020-06-26, paskelbta TAR 2020-06-29, i. k. 2020-14371
 
 Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 1, 9, 10, 12 ir 16 straipsnių pakeitimo įstatymas
 
-2 straipsnis. Pareigūnų ir karių valstybinių pensijų mokėjimo šaltinis
+13.
 
-Pareigūnų ir karių valstybinės pensijos ir šio įstatymo 15 straipsnyje nurodytas priedas mokami iš Lietuvos Respublikos valstybės biudžeto lėšų.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Straipsnio pakeitimai:
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
 
-Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
-
-3 straipsnis. Pareigūnų ir karių valstybinių pensijų skyrimo sąlygos
-
-1. Pareigūnų ir karių valstybinė pensija skiriama ir išmokama išėjusiems iš tarnybos šio įstatymo 1 straipsnyje nurodytiems pareigūnams ir kariams:
-
-1) ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje, Vadovybės apsaugos tarnyboje 25 ir daugiau metų, išskyrus šio straipsnio 3 dalyje nurodytus pareigūnus ir karius;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
-
-Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
-
-2) ištarnavusiems prokuratūroje 20 ir daugiau metų ir sukakusiems Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
-
-3) pripažintiems nedarbingais ar iš dalies darbingais dėl priežasčių, susijusių su tarnyba;
-
-4) atleistiems dėl sveikatos, kai yra žinybinės centrinės medicininės ekspertizės komisijos išvada, arba pripažintiems nedarbingais ar iš dalies darbingais dėl priežasčių, nesusijusių su tarnyba, ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje, Vadovybės apsaugos tarnyboje 5 ir daugiau metų;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
-
-Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
-
-5) sukakusiems įstatymų arba statutų nustatytą išleidimo į atsargą amžių (jeigu toks amžius nenustatytas, – senatvės pensijos amžių) ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje, Vadovybės apsaugos tarnyboje 5 ir daugiau metų.
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
-
-Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
-
-2. Pareigūnams ir kariams, dėl pačių kaltės pašalintiems iš vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos, Vadovybės apsaugos tarnybos, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 25 ar daugiau metų ir po atleidimo iš tarnybos dienos yra praėję 3 metai arba kai jie yra ištarnavę 25 ar daugiau metų ir yra sukakę įstatymų nustatytą išleidimo į atsargą amžių (jeigu toks amžius nenustatytas, – senatvės pensijos amžių), išskyrus šio straipsnio 4 ir 5 dalyse nurodytus atvejus.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
-
-Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
-
-3. Pareigūnams ir kariams, kurie priimti į tarnybą iki 2016 m. sausio 1 d. ir kurių tarnybos laikas pensijai skirti, apskaičiuotas šio įstatymo nustatyta tvarka, 2016 m. sausio 1 d. yra 11 ir daugiau metų, šio straipsnio 1 dalies 1 punktas netaikomas, o pareigūnų ir karių valstybinė pensija skiriama ir išmokama, kai jie vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje ištarnauja:
-
-1) 24 metus ir 6 mėnesius – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 11 ir daugiau metų, bet mažiau negu 12 metų;
-
-2) 24 metus – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 12 ir daugiau metų, bet mažiau negu 13 metų;
-
-3) 23 metus ir 6 mėnesius – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 13 ir daugiau metų, bet mažiau negu 14 metų;
-
-4) 23 metus – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 14 ir daugiau metų, bet mažiau negu 15 metų;
-
-5) 22 metus ir 6 mėnesius – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 15 ir daugiau metų, bet mažiau negu 16 metų;
-
-6) 22 metus – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 16 ir daugiau metų, bet mažiau negu 17 metų;
-
-7) 21 metus ir 6 mėnesius – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 17 ir daugiau metų, bet mažiau negu 18 metų;
-
-8) 20 metų – taikoma pareigūnams ir kariams, kurių 2016 m. sausio 1 d. turėtas tarnybos laikas pensijai skirti yra 18 ir daugiau metų.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
-
-4. Pareigūnams ir kariams, kurie iki 2016 m. sausio 1 d. dėl pačių kaltės buvo pašalinti iš vidaus reikalų, valstybės saugumo, krašto apsaugos sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) ir kurie 2016 m. sausio 1 d. buvo ištarnavę vidaus reikalų, valstybės saugumo, krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbę muitinės mobiliosiose grupėse ar muitinės postuose arba atlikę kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) 20 ir daugiau metų, valstybinė pensija skiriama, kai po atleidimo iš tarnybos dienos yra praėję 3 metai arba kai jie yra sukakę įstatymų nustatytą išleidimo į atsargą amžių (jeigu toks amžius nenustatytas, – senatvės pensijos amžių).
-
-5. Pareigūnams ir kariams, kurie dėl pačių kaltės buvo pašalinti iš vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos po 2016 m. sausio 1 d. ir kurie 2016 m. sausio 1 d. buvo ištarnavę vidaus reikalų, valstybės saugumo, krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje 11 ir daugiau metų, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę šio straipsnio 3 dalyje nustatytą tarnybos metų skaičių, reikalingą pareigūnų ir karių valstybinei pensijai skirti, ir po atleidimo iš tarnybos dienos yra praėję 3 metai arba kai jie yra ištarnavę šio straipsnio 3 dalyje nustatytą tarnybos metų skaičių, reikalingą pareigūnų ir karių valstybinei pensijai skirti, ir yra sukakę įstatymų nustatytą išleidimo į atsargą amžių (jeigu toks amžius nenustatytas, – senatvės pensijos amžių).
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
-
-6. Pareigūnams, kurie dėl pačių kaltės buvo pašalinti iš prokuratūros sistemos, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir yra sukakę Socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
-
-7. Tarnaujantiems pareigūnams ir kariams valstybinės pensijos nemokamos, išskyrus našlių pensijas.
-
-Straipsnio pakeitimai:
-
-Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
-
-11 straipsnis. Neteko galios nuo 2015-01-01.
-
-Straipsnio pakeitimai:
-
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-
-2008-12-24, Žin., 2008, Nr. 150-6106 (2008-12-31)
-
-Nr. XI-229, 2009-04-23, Žin., 2009, Nr. 49-1938 (2009-04-30)
-
-Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
-
-12 straipsnis. Pareigūnų ir karių valstybinių pensijų skyrimas
-
-1. Asmenims, paskiausiai tarnavusiems vidaus reikalų, vidaus tarnybos sistemose, Lietuvos Respublikos prokuratūroje, Vadovybės apsaugos tarnyboje, Lietuvos Respublikos muitinėje, Kalėjimų departamente ar jam pavaldžiose įstaigose bei valstybės įmonėse, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems Specialiųjų tyrimų tarnyboje, Valstybės saugumo departamento sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria atitinkamai Specialiųjų tyrimų tarnyba ar Valstybės saugumo departamentas, o moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems krašto apsaugos sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria Krašto apsaugos ministerija, o moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Krašto apsaugos ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
-
-Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
-
-Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
-
-Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
-
-2. Skirdamos ir mokėdamos karių ir pareigūnų valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą, šio straipsnio 1 dalyje nurodytos institucijos ir įstaigos vadovaujasi šiuo įstatymu ir Vyriausybės patvirtintais Pareigūnų ir karių valstybinių pensijų skyrimo ir mokėjimo nuostatais (toliau – Nuostatai).
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
-
-3. Kreiptis dėl pensijos paskyrimo galima prieš tris mėnesius iki teisės gauti pareigūno ar kario valstybinę pensiją atsiradimo arba bet kuriuo metu po teisės gauti pareigūno ar kario valstybinę pensiją atsiradimo.
-
-4. Kreipiantis dėl pensijos, privaloma pateikti visus Nuostatuose nurodytus dokumentus, būtinus pensijai paskirti.
-
-5. Šio straipsnio 1 dalyje nurodytos institucijos per Nuostatuose nustatytą laiką privalo priimti sprendimą dėl pensijos paskyrimo arba dėl atsisakymo ją paskirti ir apie sprendimą pranešti pareiškėjui. Jei atsisakoma skirti pensiją, privaloma nurodyti atsisakymo priežastį.
-
-6. Valstybinio socialinio draudimo fondo administravimo įstaigų sprendimai pensijų skyrimo ar mokėjimo klausimais gali būti skundžiami Valstybinio socialinio draudimo įstatymo nustatyta tvarka ir terminais. Kitų šio straipsnio 1 dalyje nurodytų institucijų ir įstaigų priimti sprendimai pensijų skyrimo klausimais gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka ir terminais.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
-
-Straipsnio pakeitimas:
-
-Nr. X-1027, 2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
-
-Nr. XII-86, 2012-12-20, Žin., 2012, Nr. 155-7984 (2012-12-31)
-
-Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
-
-13 straipsnis. Pareigūnų ir karių valstybinės pensijos skyrimo ir mokėjimo terminai
-
-1. Pareigūnų ir karių valstybinė pensija skiriama ir mokama nuo teisės į pensiją atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki dokumentų pensijai skirti gavimo atitinkamoje institucijoje dienos.
-
-2. Pareigūnų ir karių valstybinės pensijos skiriamos iki gyvos galvos arba laikotarpiui, kuriuo pensijos gavėjas pagal šį įstatymą turi teisę gauti pensiją.
-
-3. Nuteistiems už tyčinių nusikaltimų padarymą asmenims pareigūnų ir karių valstybinė pensija neskiriama. Sprendimas dėl pareigūnų ir karių valstybinės pensijos skyrimo asmeniui, kuris yra įtariamasis arba kaltinamasis baudžiamajame procese, priimamas nutraukus ikiteisminį tyrimą, baudžiamąją bylą arba įsiteisėjus teismo nuosprendžiui. Nutraukus ikiteisminį tyrimą, baudžiamąją bylą arba įsiteisėjus išteisinamajam nuosprendžiui, pareigūnų ir karių valstybinė pensija skiriama už visą laikotarpį nuo teisės į pensiją atsiradimo dienos.
-
-4. Pareigūnų ir karių valstybinės pensijos gavėjui mirus, pirmajam besikreipusiam jį laidojusiam asmeniui išmokama asmens negauta praėjusio mėnesio pensija, pensija už tą mėnesį, kurį jos gavėjas mirė, ir dar paskirtos pensijos už vieną mėnesį dydžio suma. Asmeniui apskaičiuotos kitos pareigūnų ir karių valstybinių pensijų sumos, kurios jam priklausė ir kurių jis dėl mirties negavo, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, ir (arba) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
-
-Straipsnio pakeitimai:
-
-Nr. XI-534, 2009-12-08, Žin., 2009, Nr. 151-6781 (2009-12-22)
-
-Nr. XII-837, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04867
-
-151 straipsnis. Pensijos ir pareigūnų ir karių valstybinės pensijos priedo už tarnybą permokėjimas arba neprimokėjimas
-
-1. Pareigūnų ir karių valstybinė pensija arba šio įstatymo 15 straipsnyje nustatytas priedas, laiku negauti dėl pensiją skiriančios ar mokančios įstaigos kaltės, išmokami už praėjusį laiką neapribojant kokiu nors terminu.
-
-2. Pareigūnų ir karių valstybinės pensijos gavėjas privalo pranešti jam pensiją mokančiai įstaigai apie aplinkybes, turinčias įtakos pensijai ar šio įstatymo 15 straipsnyje nurodytam priedui mokėti, per 10 darbo dienų nuo šių aplinkybių atsiradimo dienos. Jeigu apie tai laiku nepranešama ir dėl to permokama pensija ar nurodytas priedas, permokėta suma šią pensiją mokančios įstaigos vadovo arba jo įgalioto šios įstaigos valstybės tarnautojo sprendimu išieškoma iš bet kurios asmens gaunamos išmokos, kurią moka Valstybinio socialinio draudimo fondo administravimo įstaigos (išskyrus tas išmokas, iš kurių išskaitos negalimos vadovaujantis Civilinio proceso kodekso nuostatomis), ne ginčo tvarka. Išieškomos sumos dydis per mėnesį negali viršyti 50 procentų gavėjui priklausančios tokių išmokų (pareigūnų ir karių valstybinės pensijos – kartu su šio įstatymo 15 straipsnyje nurodytu priedu) sumos. Jeigu asmuo negauna tokių išmokų, pareigūnų ir karių valstybinę pensiją mokėjusi įstaiga pasiūlo asmeniui grąžinti permokėtą sumą. Jeigu per nustatytą laiką permoka negrąžinama, permoka išieškoma teismo tvarka.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
-
-3. Jeigu pareigūnų ir karių valstybinė pensija arba šio įstatymo 15 straipsnyje nustatytas priedas yra permokami dėl pensiją skiriančios ar mokančios įstaigos kaltės, permokėta suma iš pensijos gavėjo neišieškoma.
-
-4. Pareigūnų ir karių valstybinės pensijos gavėjas, Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaravęs išvykimą iš Lietuvos Respublikos, kiekvienų metų pabaigoje Valstybinio socialinio draudimo fondo administravimo įstaigai privalo pateikti paties pasirašytą pareiškimą, patvirtinantį, kad jis gyvena užsienio valstybėje. Iki kiekvienų metų gruodžio 31 dienos nepateikus šio pareiškimo, pensijos ir šio įstatymo 15 straipsnyje nurodyto priedo mokėjimas sustabdomas nuo ateinančių metų sausio 1 dienos, o šį pareiškimą pateikus, – atnaujinamas nuo mokėjimo sustabdymo dienos, jeigu pensijos gavėjui teisė gauti šią pensiją ar nurodytą priedą yra išlikusi. Jeigu Valstybinio socialinio draudimo fondo administravimo įstaiga duomenis apie tai, kad asmuo gyvena užsienio valstybėje arba kad yra gyvas ir yra tam tikroje vietovėje, iš kitos valstybės kompetentingos įstaigos gauna tiesiogiai, ji privalo informuoti pareigūnų ir karių valstybinės pensijos gavėją, kad tokios informacijos pateikti nereikia.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
-
-Įstatymas papildytas straipsniu:
-
-Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
-
-152 straipsnis. Pareigūnų ir karių, išleidžiamų į pensiją, integracijos į darbo rinką ir medicininės reabilitacijos priemonių sistema
-
-1. Lietuvos Respublikos Vyriausybė nustato pareigūnų ir karių, išleidžiamų į pensiją, integracijos į darbo rinką ir medicininės reabilitacijos priemonių sistemos, kurią sudaro darbo rinkos paslaugos, užimtumo rėmimo priemonės ir medicininės reabilitacijos paslaugos, įgyvendinimo tvarką.
-
-2. Įstatymuose nustatytų darbo rinkos paslaugų teikimo ir dalyvavimo užimtumo rėmimo priemonėse ypatumus, kurie taikomi darbingo amžiaus pareigūnų ir karių valstybinės pensijos už tarnybą ir pareigūnų ir karių valstybinės netekto darbingumo pensijos gavėjams 2 metus nuo jų išleidimo į pensiją ar atsargą dienos, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
-
-3. Medicininės reabilitacijos paslaugas turi teisę gauti pareigūnų ir karių valstybinės pensijos už tarnybą ir pareigūnų ir karių valstybinės netekto darbingumo pensijos gavėjai, kai tai nustatyta atitinkamuose  statutuose ar įstatymuose.
-
-Papildyta straipsniu:
-
-Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
+Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 6 ir 7 straipsnių pakeitimo, Įstatymo papildymo 17 straipsniu ir priedu įstatymas
 
