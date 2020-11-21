@@ -4,7 +4,7 @@ identifier: "TAR.A7F77DF94F5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-18"
-last_updated: "2020-11-14"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-11-14 iki 2020-11-20
+Suvestinė redakcija nuo 2020-11-21 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
 
@@ -623,13 +623,15 @@ Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
 10. Per visus kalendorinius metus įgytas stažas sudedamas. Jis išreiškiamas metais ir skaičiuojamas keturių skaitmenų po kablelio tikslumu.
 
-11. Stažas, įgytas Jungtinėje Didžiosios Britanijos ir Šiaurės Airijos Karalystėje iki Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos, apskaičiuojamas Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentuose nustatyta tvarka.
-
-TAR pastaba. 10 straipsnio papildymas 11 dalimi įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+11. Stažas, įgytas Jungtinėje Didžiosios Britanijos ir Šiaurės Airijos Karalystėje iki pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos (toliau – Išstojimo susitarimas) 126 straipsnyje (toliau – pereinamasis laikotarpis), pabaigos ir Išstojimo susitarime nustatytais atvejais pasibaigus pereinamajam laikotarpiui, įskaitomas Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentuose nustatyta tvarka.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2048, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06366
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3384, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24530
 
 Straipsnio pakeitimai:
 
