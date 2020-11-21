@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2020-07-01"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-11-20
+Suvestinė redakcija nuo 2020-11-21 iki 2020-11-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -210,13 +210,15 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 
-30) dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (toliau – Jungtinė Karalystė) piliečiams ir jų šeimos nariams, kurie iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai ir dėl leidimo gyventi Lietuvos Respublikoje kreipėsi per 9 mėnesius nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos.
-
-TAR pastaba. 6 straipsnio papildymas 30 punktu įsigalioja Jungtinės Karalystės išstojimo iš Europos Sąjungos dieną.
+30) dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (toliau – Jungtinė Karalystė) piliečiams ir jų šeimos nariams, kurie iki pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje, pabaigos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-2054, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06690
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3391, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24540
 
 Straipsnio pakeitimai:
 
@@ -532,8 +534,6 @@ Nr. XII-2157, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19855
 
 Dvejus metus nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos šio įstatymo 6 straipsnio nuostatos, kuriose numatyta atleisti nuo valstybės rinkliavos už vizų išdavimą Europos Sąjungos piliečių šeimos narius ar Europos Sąjungos valstybėje narėje įgytą profesinę kvalifikaciją prašančius pripažinti asmenis, taikomos ir asmenims, prašantiems pripažinti Jungtinėje Karalystėje įgytą profesinę kvalifikaciją, ir Jungtinės Karalystės piliečiams bei jų šeimos nariams, kurie kreipiasi dėl vizų išdavimo.
 
-TAR pastaba. Įstatymo papildymas 19 straipsniu įsigalioja Jungtinės Karalystės išstojimo iš Europos Sąjungos dieną.
-
 Papildyta straipsniu:
 
 Nr. XIII-2054, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06690
@@ -847,6 +847,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 1, 6, 6-1, 8 straipsnių ir priedo pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3391, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24540
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo įstatymas
 
 132 straipsnis. Vietinės rinkliavos grąžinimas
 
