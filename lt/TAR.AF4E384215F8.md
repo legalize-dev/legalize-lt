@@ -4,7 +4,7 @@ identifier: "TAR.AF4E384215F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-11-07"
-last_updated: "2020-07-01"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-11-20
+Suvestinė redakcija nuo 2020-11-21 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
 
@@ -377,7 +377,17 @@ PRIĖMIMAS Į TARNYBĄ VADOVYBĖS APSAUGOS TARNYBOJE
 
 2) buvo pripažintas kaltu dėl tyčinio nusikaltimo padarymo (išskyrus šios dalies 1 punkte nurodytas veikas), nepaisant to, ar teistumas išnyko ar yra panaikintas, arba pripažintas kaltu dėl kitos nusikalstamos veikos padarymo ir nuo teismo nuosprendžio įsiteisėjimo dienos nepraėjo 5 metai, arba turi teistumą dėl padaryto nusikaltimo;
 
-3) buvo pašalintas arba atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, antstolio, antstolio padėjėjo pareigų arba iš valstybės tarnybos už profesinės ar tarnybinės veiklos pažeidimus, pareigūno vardo pažeminimą ar praradus pasitikėjimą juo ir nuo atleidimo dienos nepraėjo 5 metai;
+3) buvo pašalintas arba atleistas iš valstybės tarnautojo, teisėjo, prokuroro, kito valstybės pareigūno, advokato, advokato padėjėjo, notaro, antstolio, antstolio padėjėjo pareigų arba iš pareigų krašto apsaugos sistemoje už profesinės ar tarnybinės veiklos pažeidimus, pareigūno ar kario vardo pažeminimą ar praradus pasitikėjimą juo ir nuo pašalinimo ar atleidimo dienos nepraėjo 5 metai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
+
+31) šio įstatymo 66 straipsnio 1 dalyje arba Lietuvos Respublikos vidaus tarnybos statute nustatytais atvejais buvo pripažintas padariusiu tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų (tarnybos), arba buvo pripažintas pažeminusiu pareigūno vardą, arba Lietuvos Respublikos valstybės tarnybos įstatyme nustatytu atveju buvo pripažintas padariusiu tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, ir nuo šio pripažinimo dienos nepraėjo 5 metai;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 4) yra ar buvo įstatymų nustatyta tvarka uždraustos organizacijos narys ir nuo šios narystės pabaigos nepraėjo 3 metai;
 
@@ -469,7 +479,11 @@ Tepadeda man Dievas.“
 
 5. Išbandymo laikotarpiu Vadovybės apsaugos tarnybos direktorius, pripažinęs, kad pareigūno išbandymo rezultatai yra nepatenkinami, iki išbandymo termino pabaigos turi teisę nutraukti su pareigūnu sudarytą pareigūno tarnybos sutartį ir atleisti jį iš tarnybos, apie tai raštu įspėjęs pareigūną prieš 3 darbo dienas, ir nemokėti išeitinės išmokos. Pareigūnas išbandymo laikotarpiu turi teisę nutraukti tarnybą savo noru, Vadovybės apsaugos tarnybos direktoriui pateikęs rašytinį prašymą ne vėliau kaip prieš 3 darbo dienas. Šis prašymas gali būti atšauktas ne vėliau kaip kitą darbo dieną po pateikimo.
 
-6. Karjeros valstybės tarnautojai į pareigas Vadovybės apsaugos tarnyboje skiriami Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka. Karjeros valstybės tarnautojams, siekiantiems tarnauti ir tarnaujantiems Vadovybės apsaugos tarnyboje, taikomos šio įstatymo 19 straipsnio 3 dalies 5 punkto ir 4 dalies ir 20 straipsnio 1 dalies 5 punkto nuostatos.
+6. Karjeros valstybės tarnautojai į pareigas Vadovybės apsaugos tarnyboje skiriami Valstybės tarnybos įstatymo nustatyta tvarka. Karjeros valstybės tarnautojams, siekiantiems tarnauti ir tarnaujantiems Vadovybės apsaugos tarnyboje, taikomos šio įstatymo 19 straipsnio 3 dalies 5 punkto ir 4 dalies ir 20 straipsnio 1 dalies 5 punkto nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 7. Darbo sutartys su darbuotojais sudaromos Darbo kodekso nustatyta tvarka.
 
@@ -711,7 +725,7 @@ Tarnybos pakopos (nuo aukščiausiosios iki žemiausiosios) yra šios:
 
 36 straipsnis. Pareigūnų pareigybių, tarnybinių rangų ir tarnybos pakopų derinimas
 
-1. Į pareigas skiriantis subjektas, išskyrus šio įstatymo 18 straipsnio 7 ir 8 dalyse numatytus atvejus, pareigūnui suteikia jo pareigybę atitinkantį tarnybinį rangą:
+1. Į pareigas skiriantis subjektas, išskyrus šio įstatymo 18 straipsnio 8 ir 9 dalyse numatytus atvejus, pareigūnui suteikia jo pareigybę atitinkantį tarnybinį rangą:
 
 1) Vadovybės apsaugos tarnybos direktoriui – pirmąjį tarnybinį rangą;
 
@@ -730,6 +744,10 @@ Tarnybos pakopos (nuo aukščiausiosios iki žemiausiosios) yra šios:
 8) agentams – aštuntąjį tarnybinį rangą;
 
 9) jaunesniesiems agentams – devintąjį tarnybinį rangą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 2. Pareigūnui, skiriamam į pareigas Vadovybės apsaugos tarnyboje, nustatoma pirmoji tarnybos pakopa. Atsižvelgiant į pareigūno kvalifikaciją, profesinio pasirengimo lygį ir ankstesnės tarnybinės ar profesinės veiklos rezultatus, Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka pirmą kartą į pareigas Vadovybės apsaugos tarnyboje skiriamam pareigūnui Atrankos komisijos pasiūlymu gali būti nustatoma aukštesnė negu pirmoji, tačiau ne aukštesnė negu trečioji tarnybos pakopa. Kriterijus, kuriais vadovaudamasi Atrankos komisija gali siūlyti pirmą kartą į pareigas Vadovybės apsaugos tarnyboje skiriamam pareigūnui nustatyti aukštesnę negu pirmąją tarnybos pakopą, nustato Vadovybės apsaugos tarnybos direktorius.
 
@@ -1287,7 +1305,11 @@ Pareigūnas iš tarnybos atleidžiamas ir su juo sudaryta tarnybos sutartis nutr
 
 3. Pareigūnas turi teisę atšaukti prašymą nutraukti tarnybą savo noru ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo dienos.
 
-4. Pareigūnas, dėl kurio galimo tarnybinio nusižengimo atliekamas tarnybinis patikrinimas, turi teisę nutraukti tarnybą, ne vėliau kaip prieš 30 kalendorinių dienų pateikęs prašymą Vadovybės apsaugos tarnybos direktoriui. Į šį terminą neįskaitomas laikas, kurį pareigūnas nebuvo tarnyboje dėl laikinojo nedarbingumo arba dėl atostogų. Dėl šio pareigūno galimo tarnybinio nusižengimo pradėtas tarnybinis patikrinimas tęsiamas ir sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas šio įstatymo 65 straipsnyje nustatyta tvarka.
+4. Pareigūnas, dėl kurio galimo tarnybinio nusižengimo ar pareigūno vardo pažeminimo atliekamas tarnybinis patikrinimas, turi teisę nutraukti tarnybą, ne vėliau kaip prieš 30 kalendorinių dienų pateikęs prašymą Vadovybės apsaugos tarnybos direktoriui. Į šį terminą neįskaitomas laikas, kurį pareigūnas nebuvo tarnyboje dėl laikinojo nedarbingumo arba dėl atostogų. Dėl šio pareigūno galimo tarnybinio nusižengimo pradėtas tarnybinis patikrinimas tęsiamas ir sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo, taip pat sprendimas dėl pareigūno pripažinimo pažeminusiu pareigūno vardą priimamas šio įstatymo 66 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 63 straipsnis. Pareigūnų atleidimas iš tarnybos šalių susitarimu
 
@@ -1359,7 +1381,11 @@ PAREIGŪNŲ SKATINIMAS IR ATSAKOMYBĖ
 
 66 straipsnis. Tarnybinė atsakomybė
 
-1. Tarnybinis patikrinimas pradedamas ne vėliau kaip per 3 darbo dienas nuo momento, kai Vadovybės apsaugos tarnybos direktorius ar jo įgaliotas asmuo gauna informacijos apie pareigūno galimai padarytą tarnybinį nusižengimą. Tarnybinis patikrinimas susideda iš pavedimo atlikti tarnybinį patikrinimą, tarnybinio patikrinimo atlikimo ir tarnybinės nuobaudos skyrimo.
+1. Tarnybinis patikrinimas pradedamas ne vėliau kaip per 3 darbo dienas nuo momento, kai Vadovybės apsaugos tarnybos direktorius ar jo įgaliotas asmuo gauna informacijos apie pareigūno galimai padarytą tarnybinį nusižengimą ar pareigūno vardo pažeminimą. Tarnybinis patikrinimas susideda iš pavedimo atlikti tarnybinį patikrinimą, tarnybinio patikrinimo atlikimo ir tarnybinės nuobaudos skyrimo, pareigūno atleidimo iš tarnybos už pareigūno vardo pažeminimą ar sprendimo dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo arba sprendimo dėl pareigūno pripažinimo pažeminusiu pareigūno vardą priėmimo. Tarnybinis patikrinimas, gavus informacijos apie pareigūno galimai padarytą tarnybinį nusižengimą ar pareigūno vardo pažeminimą, pradedamas, o pradėtas tarnybinis patikrinimas tęsiamas ir sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo, taip pat sprendimas dėl pareigūno pripažinimo pažeminusiu pareigūno vardą priimamas, kai pareigūnas, dėl kurio galimo tarnybinio nusižengimo ar pareigūno vardo pažeminimo gauta informacijos apie jo galimai padarytą tarnybinį nusižengimą ar pareigūno vardo pažeminimą arba dėl kurio pradėtas tarnybinis patikrinimas, atleidžiamas iš tarnybos (netenka pareigūno statuso). Sprendimą dėl atleisto iš tarnybos pareigūno pripažinimo padariusiu tarnybinį nusižengimą ir tarnybinės nuobaudos skyrimo ar sprendimą dėl pareigūno pripažinimo pažeminusiu pareigūno vardą priima Vadovybės apsaugos tarnybos direktorius, atsižvelgdamas į šio straipsnio 8 dalyje nustatytus reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 2. Tarnybinį patikrinimą atlieka Vadovybės apsaugos tarnybos direktoriaus įgalioti pareigūnai.
 
@@ -1581,9 +1607,9 @@ vadovybės apsaugos įstatymo
 
 priedas
 
-LIETUVOS RESPUBLIKOS VADOVYBËS APSAUGOS TARNYBOS PAREIGÛNØ PAREIGINËS ALGOS
+LIETUVOS RESPUBLIKOS VADOVYBĖS APSAUGOS TARNYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
 
-(Baziniais dydiais)
+(Baziniais dydžiais)
 
 Eil.
 
@@ -1828,4 +1854,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2901, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10898
 
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
+
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 19, 23, 36, 54, 61, 62 ir 66 straipsnių pakeitimo įstatymas
 
