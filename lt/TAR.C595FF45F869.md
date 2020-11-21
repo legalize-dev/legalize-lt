@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2020-09-01"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-11-20
+Suvestinė redakcija nuo 2020-11-21 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -1018,6 +1018,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3269, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15545
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
+
+37.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3415, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24584
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 48, 52 ir 59 straipsnių pakeitimo įstatymas
 
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
@@ -2087,11 +2095,13 @@ MOKSLO IR (ARBA) MENO IR STUDIJŲ VEIKLA
 
 2. Išorinis studijų vertinimas apima visų tam tikros krypties studijų programų ir jų vykdymo kokybės analizę aukštosios mokyklos atliktos savianalizės ir stebėsenos duomenų pagrindu, pasitelkiant išorinius ekspertus. Išorinį studijų vertinimą atlieka Studijų kokybės vertinimo centras arba kita aukštojo mokslo kokybės užtikrinimo agentūra, įtraukta į Europos aukštojo mokslo kokybės užtikrinimo agentūrų registrą. Išorinio studijų vertinimo rezultatai skelbiami viešai. Po išorinio studijų įvertinimo aukštoji mokykla, bendradarbiaudama su Studijų kokybės vertinimo centru, įgyvendina išorinio vertinimo metu pateiktas rekomendacijas.
 
-3. Tam tikros krypties studijų akreditavimas – procedūra, kurios metu Studijų kokybės vertinimo centras patvirtina, kad įvertintos studijų krypties konkrečios pakopos (tarp jų trumposios studijos) arba profesinės studijos atitinka joms nustatytus rodiklius pagal vertinamąsias sritis. Sprendimas dėl akreditavimo priimamas remiantis išorinio studijų vertinimo išvadomis, kiekvienos pakopos (vientisosioms ir profesinėms studijoms atskirai) krypties studijos (tarp jų trumposios studijos) akredituojamos ne rečiau kaip kartą per 7 metus. Sektoriniai profesiniai komitetai, kaip jie suprantami Lietuvos Respublikos profesinio mokymo įstatyme, Švietimo ir mokslo ministerijai pateikia išvadą dėl trumpųjų studijų programų ne vėliau kaip per vieną mėnesį nuo prašymo vykdyti studijų programą pateikimo dienos.
+3. Tam tikros krypties studijų akreditavimas – procedūra, kurios metu Studijų kokybės vertinimo centras patvirtina, kad įvertintos studijų krypties konkrečios pakopos (tarp jų trumposios studijos) arba profesinės studijos atitinka joms nustatytus rodiklius pagal vertinamąsias sritis. Sprendimas dėl akreditavimo priimamas remiantis išorinio studijų vertinimo išvadomis, kiekvienos pakopos (vientisosioms ir profesinėms studijoms atskirai) krypties studijos (tarp jų trumposios studijos) akredituojamos ne rečiau kaip kartą per 7 metus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
+
+Nr. XIII-3415, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24584
 
 4. Aukštoji mokykla negali vykdyti neakredituotos studijų krypties studijų. Kai yra pagal tokią studijų kryptį studijuojančių studentų, švietimo ir mokslo ministras nustato tolesnes jų studijų galimybes.
 
@@ -2201,11 +2211,15 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
-11. Suteikiamų kvalifikacijų ir studijų krypčių, kuriose gali būti vykdomos trumposios studijos, sąrašą tvirtina švietimo ir mokslo ministras, gavęs sektorinių profesinių komitetų, kaip jie suprantami Profesinio mokymo įstatyme, išvadą.
+11. Suteikiamų kvalifikacijų ir studijų krypčių, kuriose gali būti vykdomos trumposios studijos, sąrašą tvirtina švietimo, mokslo ir sporto ministras, įvertinęs Lietuvos kolegijų direktorių konferencijos ir sektorinių profesinių komitetų, kaip jie suprantami Profesinio mokymo įstatyme, siūlymus.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3415, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24584
 
 12. Profesinės studijos yra medicinos, odontologijos, veterinarinės medicinos studijų krypčių rezidentūra, taip pat kitų Vyriausybės nustatytų krypčių studijos.
 
@@ -2303,8 +2317,6 @@ Valstybinėse aukštosiose mokyklose dėstomoji kalba yra lietuvių kalba. Kitom
 
 2. Iki 10 procentų geriausiai kolegijas baigusių studentų, siekiančių įgyti kompetencijų ir gebėjimų tęsti studijas pagal magistrantūros studijų programą, atsižvelgus į jų studijų kolegijoje rezultatus, gali studijuoti pagal universiteto vykdomas išlyginamąsias ir (ar) papildomas studijas, valstybės finansuojamoje vietoje švietimo ir mokslo ministro nustatyta tvarka.
 
-TAR pastaba. 56 straipsnio 2 dalis įsigalioja 2018 m. rugsėjo 1 d.
-
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
@@ -2361,11 +2373,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
-2. Į aukštosios mokyklos trumposios pakopos studijas konkurso būdu priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą ir švietimo ir mokslo ministro nustatyta tvarka pripažįstamą ne trumpesnę kaip 3 metų profesinę patirtį, atitinkančią pasirinktą studijų kryptį, arba profesinę kvalifikaciją, įgytą pagal Lietuvos kvalifikacijų sandaros ketvirtąjį lygį atitinkančią profesinio mokymo programą.
+2. Į aukštosios mokyklos trumposios pakopos studijas konkurso būdu priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą arba profesinę kvalifikaciją, įgytą pagal Lietuvos kvalifikacijų sandaros ketvirtąjį lygį atitinkančią profesinio mokymo programą, atsižvelgiant į mokymosi pasiekimus ir kitus aukštosios mokyklos nustatytus kriterijus, įvertinus profesinių standartų ir studijų krypties aprašų reikalavimus.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3415, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24584
 
 3. Konkursinio balo sudarymo principus ir kitus kriterijus aukštosios mokyklos skelbia kiekvienais metais iki gruodžio 1 dienos, likus ne mažiau kaip 6 mėnesiams iki priėmimo į aukštąsias mokyklas pradžios. Mažiausią stojamąjį konkursinį balą aukštosios mokyklos skelbia kiekvienais metais ne vėliau kaip iki birželio 1 dienos.
 
