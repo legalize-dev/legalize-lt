@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2020-02-01"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2020-02-01 iki 2020-11-20
+Suvestinė redakcija nuo 2020-11-21 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -3876,6 +3876,8 @@ Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
 16) jis yra Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris ketina dirbti ar užsiimti kita teisėta veikla Lietuvos Respublikoje.
 
+TAR pastaba. 1 dalies 16 punkto nuostatos taikomos nuo pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje, pabaigos.
+
 Papildyta straipsnio punktu:
 
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
@@ -3883,6 +3885,8 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
 
 2. Leidimas laikinai gyventi užsieniečio prašymu naujai įforminamas, jeigu:
 
@@ -4382,6 +4386,8 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 13) jis yra Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris atvyksta į Lietuvos Respubliką dirbti (įskaitant nurodytoje valstybėje įsteigtos įmonės atsiunčiamą laikinai dirbti į įmonę Lietuvos Respublikoje pagal tarp šių įmonių sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo) ar užsiimti kita teisėta veikla;
 
+TAR pastaba. 13 punkto nuostatos taikomos nuo pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje, pabaigos.
+
 Papildyta straipsnio punktu:
 
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
@@ -4389,6 +4395,8 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
 
 14) jis yra įgijęs šio Įstatymo 71 straipsnio 1 dalies 11 punkte nurodytą teisę.
 
@@ -5576,6 +5584,38 @@ Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 58, 64, 71 ir 88 straipsnių pakeitimo įstatymas
 
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymo Nr. XIII-2338 28 straipsnio pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 1, 2, 142 straipsnių pakeitimo ir Įstatymo papildymo X-1 skyriumi įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3162, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15493
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 1 straipsnio pakeitimo įstatymas
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+
 341 straipsnis. Leidimo gyventi išdavimas, keitimas ir naujas įforminimas skubos tvarka
 
 1. Užsieniečio prašymu prašymas išduoti ar pakeisti leidimą gyventi gali būti nagrinėjamas ir šis dokumentas gali būti išduodamas ar keičiamas skubos tvarka. Nagrinėjant užsieniečio prašymą išduoti ar pakeisti leidimą gyventi ir šį dokumentą išduodant ar keičiant skubos tvarka, šio Įstatymo 33 straipsnio 1 dalyje nustatyti terminai trumpinami per pusę.
@@ -5842,9 +5882,13 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 3) užsiima kita teisėta veikla ar pateikia dokumentus, patvirtinančius, kad ketina užsiimti kita teisėta veikla, įskaitant individualią veiklą, kaip ji apibrėžiama Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme.
 
+TAR pastaba. 1 dalies nuostatos taikomos nuo pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje, pabaigos.
+
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
 
 2. Šio straipsnio 1 dalyje nurodytas užsienietis, ketinantis dirbti ar užsiimti veikla pagal reglamentuojamą profesiją, kaip ji apibrėžta Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, turi turėti dokumentą, patvirtinantį, kad atitinka Lietuvos Respublikos teisės aktuose nustatytas sąlygas užsiimti reglamentuojama profesine veikla.
 
@@ -5862,15 +5906,17 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 2. Remdamasis Užimtumo tarnybos atliekama darbo rinkos stebėsena, padėties darbo rinkoje vertinimu ir jos pokyčių prognoze Užimtumo tarnybos direktorius tvirtina Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis kalendoriniams metams ir socialinės apsaugos ir darbo ministrui teikia siūlymą dėl kvotos nustatymo ar jos patikslinimo. Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašas pagal ekonominės veiklos rūšis gali būti patikslintas vieną kartą per metus.
 
-3. Atsižvelgdamas į šio straipsnio 2 dalyje nurodytą siūlymą dėl kvotos nustatymo, kvotą kalendoriniams metams tvirtina socialinės apsaugos ir darbo ministras, suderinęs su vidaus reikalų ministru. Kvotos dydis gali būti patikslintas vieną kartą per metus.
+3. Atsižvelgdamas į šio straipsnio 2 dalyje nurodytą siūlymą dėl kvotos nustatymo, kvotą kalendoriniams metams tvirtina socialinės apsaugos ir darbo ministras, suderinęs su vidaus reikalų ministru. Kvotos dydis gali būti patikslintas vieną kartą per metus. Kvotos nustatymo kalendoriniams metams tvarką nustato socialinės apsaugos ir darbo ministras, suderinęs su vidaus reikalų ministru.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 4. Kvota laikoma išnaudota, jeigu užsieniečiams, kurie atvyksta dirbti pagal profesiją, kuri įtraukta į Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis, Lietuvos Respublikos diplomatinių atstovybių ar konsulinių įstaigų užsienyje išduotų nacionalinių vizų, Migracijos departamento išduotų leidimų laikinai gyventi skaičius ir šio Įstatymo 62 straipsnio 11 dalyje nurodytų užsieniečių, apie kurių įdarbinimą pagal tokią profesiją pranešta Užimtumo tarnybai, skaičius bendrai pasiekia kalendoriniams metams nustatytą kvotą.
 
 5. Migracijos departamentas skaičiuoja kvotos išnaudojimą ir apie išnaudotą kvotą skelbia viešai. Užimtumo tarnyba teikia Migracijos departamentui informaciją apie šio Įstatymo 62 straipsnio 11 dalyje nurodytų užsieniečių įdarbinimą ne vėliau kaip kitą darbo dieną nuo informacijos apie užsieniečio įdarbinimą gavimo šio Įstatymo 62 straipsnio 7 dalyje nustatyta tvarka.
 
 6. Išnaudojus kvotą, šio straipsnio 1 dalyje nurodyti užsieniečiai, kurie ketina dirbti Lietuvos Respublikoje, privalo įsigyti leidimą dirbti.
-
-TAR pastaba. Įstatymas papildomas 571straipsniu nuo 2020-07-01.
 
 Papildyta straipsniu:
 
