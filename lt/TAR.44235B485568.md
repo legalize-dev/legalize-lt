@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2020-11-01"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -2049,6 +2049,14 @@ Nr. XIII-3337, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22205
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 15 straipsnio pakeitimo įstatymas
 
+26.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3431, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24606
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 13-1 straipsnio pakeitimo įstatymas
+
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
 1. Centralizuotai tiekiamų suskystintų naftos dujų kainos yra valstybės reguliuojamos.
@@ -2211,7 +2219,11 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 13) kaupia ir tvarko naftos produktų ir naftos valstybės atsargas;
 
-14) administruoja Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą;
+14) Neteko galios nuo 2020-12-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3431, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24606
 
 15) administruoja ir (ar) įgyvendina priemones, įskaitant finansinės paskatos priemones, kuriomis didinamas energijos vartojimo efektyvumas ir saugumas, vystoma atsinaujinančių energijos išteklių energetikos plėtra;
 
