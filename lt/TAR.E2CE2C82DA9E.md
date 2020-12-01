@@ -4,7 +4,7 @@ identifier: "TAR.E2CE2C82DA9E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-26"
-last_updated: "2020-09-01"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
 
@@ -399,11 +399,13 @@ Nr. XII-637, 2013-12-03, Žin., 2013, Nr. 130-6621 (2013-12-19)
 
 4. Aukštesniojo lygio biudžeto vykdymo ataskaitų aiškinamasis raštas – biudžeto vykdymo ataskaita, kurioje paaiškinamos aukštesniojo lygio biudžeto vykdymo ataskaitose nurodytos finansinės sumos, taip pat pateikiama papildoma reikšminga informacija, nenurodoma kitose aukštesniojo lygio biudžeto vykdymo ataskaitose.
 
-5. Biudžeto pajamos – teisės aktuose nustatytos piniginės įplaukos į atitinkamą biudžetą: valstybės, savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo, Rezervinio (stabilizavimo) fondo, valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo, Garantinio fondo ar kito išteklių fondo.
+5. Biudžeto pajamos – teisės aktuose nustatytos piniginės įplaukos į atitinkamą biudžetą: valstybės, savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo, Rezervinio (stabilizavimo) fondo, Garantinio fondo ar kito išteklių fondo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2028, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18620
+
+Nr. XIII-3434, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24610
 
 6. Biudžeto pajamų ir išlaidų plano vykdymo ataskaita – aukštesniojo lygio biudžeto vykdymo ataskaita, kurioje pateikiamas tam tikro biudžeto pajamų ir išlaidų planas ir jo vykdymo duomenys.
 
@@ -471,7 +473,7 @@ Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 
 18. Tarpinių ataskaitų rinkinys – ataskaitų rinkinys, sudaromas apibendrinus laikotarpio, trumpesnio negu finansiniai metai, duomenis.
 
-19. Išteklių fondas – valstybės, savivaldybės iždas, Valstybinio socialinio draudimo fondas, Privalomojo sveikatos draudimo fondas, Rezervinis (stabilizavimo) fondas, valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondas, Garantinis fondas, taip pat pagal atskirą įstatymą arba savivaldybės tarybos sprendimu įsteigtas fondas valstybės arba savivaldybių ištekliams kaupti ir naudoti, kuris laikomas atskiru viešojo sektoriaus subjektu, jei atitinka visus šiuos kriterijus:
+19. Išteklių fondas – valstybės, savivaldybės iždas, Valstybinio socialinio draudimo fondas, Privalomojo sveikatos draudimo fondas, Rezervinis (stabilizavimo) fondas, Garantinis fondas, taip pat pagal atskirą įstatymą arba savivaldybės tarybos sprendimu įsteigtas fondas valstybės arba savivaldybių ištekliams kaupti ir naudoti, kuris laikomas atskiru viešojo sektoriaus subjektu, jeigu atitinka visus šiuos kriterijus:
 
 1) įsteigtas tam tikroms valstybės arba savivaldybės funkcijoms atlikti;
 
@@ -482,6 +484,8 @@ Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2028, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18620
+
+Nr. XIII-3434, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24610
 
 20. Valstybės konsoliduotųjų ataskaitų rinkinys – biudžetinių įstaigų, mokesčių fondų, valstybės iždo, fondų fondų, licencijuotų sandėlių kompensavimo fondo ir kitų valstybės kontroliuojamų viešojo sektoriaus subjektų, išskyrus Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, šių fondų administravimo įstaigas ir jų kontroliuojamus viešojo sektoriaus subjektus bei kitus valstybės išteklių fondus, finansinių ataskaitų rinkinys, parengtas kaip vieno viešojo sektoriaus subjekto finansinių ataskaitų rinkinys, ir valstybės biudžeto vykdymo ataskaitų rinkinys, kuriame pateikiami valstybės biudžeto vykdymo duomenys.
 
@@ -973,7 +977,7 @@ Nr. X-1821, 2008-11-14, Žin., 2008, Nr. 137-5370 (2008-11-29)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -1072,6 +1076,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3046, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13962
 
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 19 ir 22-1  straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3434, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24610
+
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 2 straipsnio pakeitimo įstatymas
 
 221 straipsnis. Reikalavimai veiklos ataskaitai
 
