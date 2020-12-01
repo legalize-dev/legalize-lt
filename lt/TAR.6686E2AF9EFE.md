@@ -4,7 +4,7 @@ identifier: "TAR.6686E2AF9EFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2019-01-01"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6686E2AF9EFE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 48-2106, i. k. 1031010ISTA0IX-1541
 
@@ -197,7 +197,11 @@ UŽIMTUMO IR SOCIALINIŲ GARANTIJŲ FINANSAVIMAS
 
 12 straipsnis. Užimtumo ir socialinių garantijų finansavimas
 
-1. Šio Įstatymo 4 straipsnyje, 5 straipsnio 2 dalyje, 7, 8, 9, 11 straipsniuose nustatytos užimtumo ir socialinės garantijos finansuojamos Ignalinos AE eksploatavimo nutraukimo fondo, tarptautinės paramos ir kitų šaltinių lėšomis.
+1. Šio Įstatymo 4 straipsnyje, 5 straipsnio 2 dalyje, 8, 9, 11 straipsniuose nustatytos užimtumo ir socialinės garantijos finansuojamos tarptautinės paramos ir kitų šaltinių lėšomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3433, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24609
 
 2. Šio Įstatymo 5 straipsnio 1 dalyje nustatytos užimtumo ir socialinės garantijos finansuojamos valstybės biudžeto ir kitų šaltinių lėšomis.
 
@@ -229,7 +233,7 @@ Vyriausybė ar jos įgaliota institucija nustato:
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                                   ROLANDAS PAKSAS
 
 Pakeitimai:
 
@@ -288,4 +292,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
 
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4, 9, 11 ir 12 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3433, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24609
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 12 straipsnio pakeitimo įstatymas
 
