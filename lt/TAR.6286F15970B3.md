@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2020-01-01"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -852,11 +852,29 @@ Nr. XIII-654, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16004
 
 1. Branduolinės energetikos objektą eksploatuojanti organizacija užtikrina lėšų, reikalingų saugiai nutraukti branduolinės energetikos objekto eksploatavimą ir tvarkyti radioaktyviąsias atliekas, kaupimą branduolinės energetikos objekto eksploatavimo nutraukimo fonde (toliau – eksploatavimo nutraukimo fondas). Branduolinės energetikos objektą eksploatuojanti organizacija turi teisę užtikrinti savo įsipareigojimus, susijusius su saugaus eksploatavimo nutraukimo ir radioaktyviųjų atliekų tvarkymo finansavimu, pateikdama Vyriausybei ar jos įgaliotai institucijai nustatyto dydžio garantiją. Garantijos ir jos pateikimo sąlygas, garantijos terminus, garantijos dydžio nustatymo tvarką ir kitus privalomus reikalavimus reglamentuoja šio įstatymo 48 straipsnio 1 dalyje nurodytas įstatymas dėl eksploatavimo nutraukimo fondo ir (ar) jį įgyvendinantys teisės aktai. Garantijos pateikimas neatleidžia branduolinės energetikos objektą eksploatuojančios organizacijos nuo atsakomybės kaupti lėšas eksploatavimo nutraukimo fonde pasibaigus nustatytam garantijos terminui.
 
-2. Eksploatavimo nutraukimo licencijos turėtojas atsako už eksploatavimo nutraukimo metu branduolinės energetikos objekte įvykusią branduolinę ir (ar) radiologinę avariją ir iš jo pasklidusių radioaktyviųjų medžiagų padarytą žalą žmonėms, jų turtui ir aplinkai šio įstatymo ir kitų įstatymų nustatyta tvarka.
+2. Šio straipsnio 1 dalyje nustatyti reikalavimai netaikomi branduolinės energetikos objektą eksploatuojančiai organizacijai tiek, kiek tai susiję su Ignalinos atominės elektrinės ir kitų branduolinės energetikos objektų, skirtų Ignalinos atominės elektrinės eksploatavimo ir eksploatavimo nutraukimo metu susidariusioms ir susidarysiančioms radioaktyviosioms atliekoms tvarkyti, eksploatavimui saugiai nutraukti ir radioaktyviosioms atliekoms tvarkyti reikalingų lėšų kaupimu eksploatavimo nutraukimo fonde.
 
-3. Vyriausybė ar jos įgaliota institucija koordinuoja veiklą, susijusią su branduolinės (atominės) elektrinės, atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus eksploatavimo nutraukimu.
+Papildyta straipsnio dalimi:
 
-4. Branduolinės energetikos objektą eksploatuojanti organizacija ne vėliau kaip prieš dvejus metus iki branduolinės energetikos objekto galutinio sustabdymo rengia galutinį branduolinės energetikos objekto eksploatavimo nutraukimo planą. Planas turi būti suderintas su Valstybine atominės energetikos saugos inspekcija, Aplinkos ministerija, Sveikatos apsaugos ministerija, Energetikos ministerija ir Socialinės apsaugos ir darbo ministerija. Galutinį branduolinės energetikos objekto eksploatavimo nutraukimo planą tvirtina Energetikos ministerija.
+Nr. XIII-3430, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24605
+
+3. Eksploatavimo nutraukimo licencijos turėtojas atsako už eksploatavimo nutraukimo metu branduolinės energetikos objekte įvykusią branduolinę ir (ar) radiologinę avariją ir iš jo pasklidusių radioaktyviųjų medžiagų padarytą žalą žmonėms, jų turtui ir aplinkai šio įstatymo ir kitų įstatymų nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3430, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24605
+
+4. Vyriausybė ar jos įgaliota institucija koordinuoja veiklą, susijusią su branduolinės (atominės) elektrinės, atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus eksploatavimo nutraukimu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3430, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24605
+
+5. Branduolinės energetikos objektą eksploatuojanti organizacija ne vėliau kaip prieš dvejus metus iki branduolinės energetikos objekto galutinio sustabdymo rengia galutinį branduolinės energetikos objekto eksploatavimo nutraukimo planą. Planas turi būti suderintas su Valstybine atominės energetikos saugos inspekcija, Aplinkos ministerija, Sveikatos apsaugos ministerija, Energetikos ministerija ir Socialinės apsaugos ir darbo ministerija. Galutinį branduolinės energetikos objekto eksploatavimo nutraukimo planą tvirtina Energetikos ministerija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3430, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24605
 
 ŠEŠTASIS SKIRSNIS
 
@@ -1423,6 +1441,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2663, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20835
 
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 1 ir 2 straipsnių pakeitimo įstatymas
+
+29.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3430, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24605
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 32 straipsnio pakeitimo įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
