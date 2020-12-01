@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2020-07-10"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-07-10 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2020-12-17
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -124,13 +124,15 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 1. Valstybės biudžeto ir savivaldybių biudžetų pajamos ir asignavimai gali būti tik piniginės lėšos.
 
-2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą, Ilgalaikio darbo išmokų fondą.
+2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Rezervinį (stabilizavimo) fondą, Garantinį fondą, Ilgalaikio darbo išmokų fondą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
 
 Nr. XIII-85, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29273
+
+Nr. XIII-3429, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24626
 
 3. Seimas tvirtina trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos (neįskaitant savivaldybių biudžetams skirtų valstybės biudžeto asignavimų) planuojamus rodiklius – pajamas ir asignavimus.
 
