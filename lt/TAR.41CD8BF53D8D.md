@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2020-11-21"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2020-11-21 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2021-12-03
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -32,11 +32,15 @@ BENDROSIOS NUOSTATOS
 
 8 straipsnis. Valstybės rinkliavos keitimas ar neėmimas
 
-Tais atvejais, kai pariteto pagrindais, taip pat kai tai būtina įgyvendinant Lietuvos Respublikos Seimo priimtuose teisės aktuose numatytus užsienio politikos ar nacionalinio saugumo tikslus, didinamas, mažinamas ar neimamas konsulinis mokestis už prašymų išduoti vizas ar joms prilygintus dokumentus priėmimą ir svarstymą, sprendimų dėl vizų ar joms prilyginto dokumento išdavimo ar atsisakymo išduoti priėmimą užsienio valstybių piliečiams bei asmenims be pilietybės, taip pat keičiama ar neimama ir valstybės rinkliava už vizų išdavimą.
+Tais atvejais, kai pariteto pagrindais, taip pat kai tai būtina įgyvendinant Lietuvos Respublikos Seimo priimtuose teisės aktuose numatytus užsienio politikos ar nacionalinio saugumo tikslus, didinamas, mažinamas ar neimamas konsulinis mokestis už prašymų išduoti nacionalines vizas nagrinėjimą užsienio valstybių piliečiams ir asmenims be pilietybės, taip pat keičiama ar neimama ir valstybės rinkliava už prašymų išduoti nacionalines vizas nagrinėjimą.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1462, 2011-06-20, Žin., 2011, Nr. 78-3801 (2011-06-30)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 10 straipsnis. Valstybės rinkliavos grąžinimas
 
@@ -100,11 +104,13 @@ Nr. XII-1128, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13616
 
 Valstybės rinkliava neimama už:
 
-1) gimimo registravimą, civilinės būklės aktų įrašų ištaisymą, nepilnamečių vaikų civilinės būklės aktų įrašų pakeitimą ar papildymą pasikeitus tėvų civilinės būklės aktų įrašų duomenims;
+1) gimimo registravimą ir gimimo įrašą liudijančio išrašo išdavimą pirmą kartą, taip pat civilinės būklės aktų įrašų ištaisymą, nepilnamečių vaikų civilinės būklės aktų įrašų pakeitimą ar papildymą pasikeitus tėvų civilinės būklės aktų įrašų duomenims;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2115, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19702
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 2) vardo, pavardės, tėvo vardo pakeitimą, papildymą ir ištaisymą tikslinant civilinės būklės aktų įrašus, padarytus registruojant aktus okupacijų metais;
 
@@ -120,7 +126,11 @@ Nr. XII-2115, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19702
 
 4) dokumento, patvirtinančio asmens gyvenamąją vietą, išdavimą;
 
-5) asmens tapatybės kortelės arba paso (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą ir keitimą bendra tvarka asmenims, turintiems teisę gauti piniginę socialinę paramą įstatymų nustatyta tvarka, vaikams, kuriems nustatyta globa arba rūpyba, valstybės išlaikomiems stacionariose globos įstaigose asmenims, vienišiems asmenims, sukakusiems senatvės pensijos amžių, asmenims, kuriems nustatytas 0–40 procentų darbingumo lygis, ar senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka nustatytas didelių ar vidutinių specialiųjų poreikių lygis, asmenims iki 18 metų, kuriems nustatytas neįgalumo lygis;
+5) asmens tapatybės kortelės arba paso (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą ir keitimą bendra tvarka asmenims, turintiems teisę gauti piniginę socialinę paramą įstatymų nustatyta tvarka, vaikams, kuriems nustatyta globa arba rūpyba, valstybės išlaikomiems stacionariose globos įstaigose asmenims, sutuoktinio neturintiems senatvės pensijos amžiaus sulaukusiems asmenims, neįgaliesiems, kuriems Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nustatyta tvarka nustatytas neįgalumo lygis arba 55 procentų ir mažesnis darbingumo lygis, arba specialiųjų poreikių lygis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 6) asmens tapatybės kortelės arba paso (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą ir keitimą bendra tvarka, dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą ir keitimą, asmens be pilietybės kelionės dokumento išdavimą ir keitimą, nacionalinių vizų išdavimą pasipriešinimo (rezistencijos) dalyviams, kuriems kario savanorio ar laisvės kovų dalyvio teisinis statusas pripažįstamas Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatyme nustatyta tvarka, ir Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 3 straipsnyje nurodytiems nuo okupacijų nukentėjusiems asmenims, kuriems pagal šį įstatymą pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas;
 
@@ -138,23 +148,35 @@ Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 9) dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą asmeniui iki 18 metų, kurio globėju (rūpintoju) yra paskirtas Lietuvos Respublikos pilietis;
 
-10) nacionalinių vizų išdavimą užsieniečiams, turintiems diplomatinius ir tarnybinius pasus ar jiems prilygintus kelionės dokumentus, vizų išdavimą Europos Sąjungos valstybės narės ir Europos laisvosios prekybos asociacijos valstybės narės piliečio šeimos nariams, kurie yra trečiųjų šalių piliečiai, taip pat ir Lietuvos Respublikos piliečio šeimos nariams, kurie yra trečiųjų šalių piliečiai;
+10) prašymų išduoti nacionalines vizas diplomatinių ar tarnybinių pasų ar jiems prilygintų kelionės dokumentų turėtojams, kai jų atvykimas į Lietuvos Respubliką yra susijęs su kultūrinių, užsienio politikos srities, vystomojo bendradarbiavimo politikos ar kitų visuomenei svarbių sričių interesų skatinimu, nagrinėjimą;
 
-11) vizų išdavimą užsieniečiams, vykstantiems į Lietuvos Respubliką dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų valstybės ar savivaldybių institucijų, įstaigų ar tarnybų organizuojamuose oficialiuose susitikimuose, labdaros bei organizuotos pagalbos Lietuvai tikslais arba su Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų, kurių narė yra Lietuvos Respublika, atstovams;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
+
+11) prašymų išduoti Šengeno vizas Vizų kodekso 16 straipsnio 6 dalyje numatytais atvejais, kai vykstama dėl humanitarinių priežasčių ar tarptautinių įsipareigojimų arba kai yra gautas Lietuvos valstybės institucijų patvirtinimas, kad užsieniečiai vyksta į Lietuvos Respubliką dalyvauti susitikimuose ar renginiuose, skirtuose skatinti kultūrinius ar sportinius interesus, interesus užsienio politikos ar vystomojo bendradarbiavimo politikos srityse ir kitose esminių visuomeninės svarbos interesų srityse, nagrinėjimą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
-12) vizų išdavimą, dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą asmenims, pateikusiems lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančius dokumentus arba išduotus teisės į Lietuvos Respublikos pilietybės išsaugojimą patvirtinančius dokumentus, ir šių asmenų šeimos nariams;
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
+
+12) prašymų išduoti nacionalines vizas Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių arba Europos laisvosios prekybos asociacijos valstybių narių piliečių šeimos nariams nagrinėjimą ir prašymų išduoti nacionalines vizas nagrinėjimą, dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą asmenims, pateikusiems lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančius dokumentus arba išduotus teisės į Lietuvos Respublikos pilietybės išsaugojimą patvirtinančius dokumentus, ir šių asmenų šeimos nariams;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 13) nacionalinių vizų išdavimą sunkiai sergantiems užsieniečiams arba užsieniečiams, kuriems reikalinga skubi medicinos pagalba, kai pateikiami dokumentai, išduoti atitinkamos organizacijos ir patvirtinantys būtinumą nurodytiems asmenims būti Lietuvos Respublikos teritorijoje, taip pat šiuos asmenis lydintiesiems, kai pateikiamas dokumentas, patvirtinantis tokio lydėjimo būtinumą;
 
-14) Šengeno vizų išdavimą pasienio kontrolės punktuose užsieniečiams, vykstantiems į šeimos narių (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų) laidotuves, kai pateikiamas šias aplinkybes patvirtinantis dokumentas;
+14) Neteko galios nuo 2020-12-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 15) nacionalinių vizų (D) išdavimą užsieniečiams, vykstantiems dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias, profesines ir bendrojo lavinimo mokyklas, taip pat užsieniečiams, atvykstantiems studijuoti, mokytis į Lietuvos Respublikos aukštąsias, profesines ir bendrojo lavinimo mokyklas pagal tarptautines sutartis ir susitarimus;
 
@@ -192,7 +214,11 @@ Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 24) institucijų teikiamas paslaugas, kurių suteikimo išlaidos mažesnės už šio įstatymo 5 straipsnio 1 dalyje nustatytą minimalų valstybės rinkliavos dydį;
 
-25) Šengeno vizų išdavimą asmenims, nurodytiems 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 810/2009, nustatančio Bendrijos vizų kodeksą (Vizų kodeksas) (toliau – Reglamentas (EB) Nr. 810/2009), 16 straipsnio 4 dalyje;
+25) prašymų išduoti Šengeno vizas Vizų kodekso 16 straipsnio 4 dalyje numatytais atvejais nagrinėjimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 26) prašymų išduoti Šengeno vizas Vizų kodekso 16 straipsnio 5 dalyje numatytais atvejais, kai prašymus pateikia užsieniečiai, kurių pilietybės valstybė netaiko vizų režimo Lietuvos Respublikos piliečiams arba kurių pilietybės valstybė Lietuvos Respublikos piliečiams taiko ne mažiau palankias sąlygas, negu numatyta Vizų kodekso 16 straipsnio 5 dalyje, nagrinėjimą;
 
@@ -200,7 +226,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
-27) Šengeno vizų išdavimą asmenims, nurodytiems Reglamento (EB) Nr. 810/2009 16 straipsnio 5 dalies c punkte, kai Europos Sąjungos valstybės narės, vykdydamos bendradarbiavimą Šengeno klausimais vietos lygiu, numatytą Reglamente (EB) Nr. 810/2009, yra priėmusios sprendimą neimti valstybės rinkliavos;
+27) Neteko galios nuo 2020-12-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 28) išduotų Šengeno vizų galiojimo laiko ir (arba) buvimo trukmės pratęsimą asmenims, nurodytiems Reglamento (EB) Nr. 810/2009 33 straipsnio 1 dalyje;
 
@@ -219,6 +249,12 @@ Nr. XIII-2054, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06690
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-3391, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24540
+
+31) prašymų išduoti nacionalines vizas tyrėjams, kaip jie apibrėžti Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 2 straipsnio 282 dalyje, vykstantiems mokslinių tyrimų ir eksperimentinės plėtros darbų vykdymo tikslais, nagrinėjimą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 Straipsnio pakeitimai:
 
@@ -258,17 +294,11 @@ Nr. XI-1061, 2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
 
 61 straipsnis. Atleidimas nuo valstybės rinkliavos, kai yra sumokėtas konsulinis mokestis
 
-1. Nuo valstybės rinkliavos už paso ar asmens tapatybės kortelės išdavimą ar keitimą ir lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 4 ir 5 punktuose, atlikimą.
+1. Nuo valstybės rinkliavos už paso ar asmens tapatybės kortelės išdavimą ar keitimą ir lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 1 ar 15 punkte, atlikimą.
 
-Straipsnio dalies pakeitimai:
+2. Nuo valstybės rinkliavos už dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą yra atleidžiami asmenys, kurie dėl dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Konsulinio mokesčio įstatymo 3 straipsnio 16 punkte, atlikimą.
 
-Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
-
-Nr. XII-1520, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21282
-
-2. Nuo valstybės rinkliavos už dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą yra atleidžiami asmenys, kurie dėl dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 6 punkte, atlikimą.
-
-3. Nuo valstybės rinkliavos už civilinės būklės aktų įregistravimą ir dokumentų išdavimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 8 punkte, atlikimą.
+3. Nuo valstybės rinkliavos už civilinės būklės aktų įregistravimą, civilinės būklės aktų įrašus liudijančių išrašų išdavimą ir daugiakalbės standartinės formos pagal 2016 m. liepos 6 d. Europos Parlamento ir Tarybos reglamentą (ES) 2016/1191, kuriuo skatinamas laisvas piliečių judėjimas supaprastinant tam tikrų viešųjų dokumentų pateikimo Europos Sąjungoje reikalavimus ir iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012, išdavimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Konsulinio mokesčio įstatymo 3 straipsnio 5 punkte, atlikimą.
 
 Įstatymas papildytas straipsniu:
 
@@ -278,11 +308,21 @@ Straipsnio pakeitimai:
 
 Nr. X-1491, 2008-04-15, Žin., 2008, Nr. 50-1840 (2008-04-30)
 
+Straipsnio pakeitimai:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
+
 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas reglamentuoja rinkliavų nustatymą, rinkimą ir kontrolę.
 
 2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, nuostatomis.
+
+3. Šio įstatymo nuostatos, reglamentuojančios valstybės rinkliavos dydį, atleidimą nuo valstybės rinkliavos ar valstybės rinkliavos keitimą ar neėmimą, taikomos tiek, kiek jų tiesiogiai nereglamentuoja Europos Sąjungos teisės aktai, taip pat Lietuvos Respublikos ar Europos Sąjungos tarptautinės sutartys.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 Straipsnio pakeitimai:
 
@@ -540,7 +580,7 @@ Nr. XIII-2054, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06690
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -550,15 +590,15 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 610/2013 (OL 2013 L 182, p. 1).
-
-Punkto pakeitimai:
-
-Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
+2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas), su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1155.
 
 Įstatymas papildytas priedu:
 
 Nr. XII-608, 2013-11-21, Žin., 2013, Nr. 124-6284 (2013-12-05)
+
+Priedo pakeitimai:
+
+Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 Pakeitimai:
 
