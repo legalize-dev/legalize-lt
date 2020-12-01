@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2019-01-22"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto lengvatų įstatymas
 
-Suvestinė redakcija nuo 2019-01-22 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-890, i. k. 1001010ISTAIII-1605
 
@@ -131,7 +131,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
 
-3) į Sveikatos apsaugos ministerijos nustatytą sąrašą įrašytomis ligomis sergantys asmenys, kuriems gydyti nuolat reikalinga hemodializė, ir juos lydintys asmenys (vienam asmeniui – vienas lydintysis);
+3) asmenys, kuriems gydyti nuolat reikalinga hemodializė, ir juos lydintys asmenys (vienam asmeniui – vienas lydintysis);
+
+3 punkto redakcija nuo 2021-01-01:
+
+3) asmenys, kuriems gydyti nuolat reikalinga hemodializė, ir juos lydintys asmenys (vienam asmeniui – vienas lydintysis), taip pat onkologinėmis ligomis sergantys asmenys;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3418, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24574
 
 4) 80 metų ir vyresni asmenys;
 
@@ -440,4 +448,16 @@ VEŽĖJŲ IŠLAIDŲ KOMPENSAVIMO (NEGAUTŲ PAJAMŲ ATLYGINIMO) TVARKA IR ŠALTIN
 Skirsnio pavadinimas keistas:
 
 Nr. IX-1192, 2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
+
+51 straipsnis. Važiavimo keleiviniu transportu lengvatų teikimas
+
+1. Teisę naudotis važiavimo keleiviniu transportu lengvata turi asmenys, pateikę keleivinį transportą kontroliuojantiems pareigūnams ir vežėjui šio įstatymo 4 straipsnio 1 dalyje ir 5 straipsnyje nurodytą statusą ar aplinkybes patvirtinančius dokumentus (pažymėjimus) (toliau – statusą patvirtinantys dokumentai), išskyrus atvejus, kai nėra abejonių, kad vaikas, kuris ketina važiuoti ar važiuoja keleiviniu transportu, yra jaunesnis kaip 7 metų.
+
+2. Statusą patvirtinančių dokumentų pavyzdžių pateikimo keleivinį transportą kontroliuojantiems pareigūnams ir vežėjams tvarką nustato Vyriausybė.
+
+3. Asmenims Lietuvos Respublikoje naudojantis važiavimo keleiviniu transportu lengvata galioja kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių, taip pat kitų užsienio valstybių išduoti statusą patvirtinantys dokumentai.
+
+Papildyta straipsniu:
+
+Nr. XIII-3418, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24574
 
