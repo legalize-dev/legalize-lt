@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2020-11-21"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-11-21 iki 2020-12-15
+Suvestinė redakcija nuo 2020-12-16 iki 2020-12-29
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
 
@@ -3170,13 +3170,13 @@ Papildyta straipsniu:
 
 Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 
-191 straipsnis. Fondo administravimo įstaigų santykiai su draudėjais Lietuvos Respublikos Vyriausybei paskelbus karantiną
+191 straipsnis. Fondo administravimo įstaigų santykiai su draudėjais Vyriausybei paskelbus karantiną, kurio metu nustatyti ūkinės veiklos apribojimai
 
-Fondo administravimo įstaigos Lietuvos Respublikos Vyriausybei paskelbus karantiną Lietuvos Respublikos teritorijoje taiko šią supaprastintą socialinio draudimo įmokų, baudų, palūkanų ir delspinigių įsiskolinimo mokėjimo, palūkanų ir delspinigių skaičiavimo tvarką:
+Fondo administravimo įstaigos Vyriausybei paskelbus karantiną, kurio metu nustatyti ūkinės veiklos apribojimai (toliau – karantinas), draudėjams, įtrauktiems į Valstybinės mokesčių inspekcijos paskelbtą mokesčių mokėtojų, nukentėjusių dėl karantino, sąrašą, taiko šią supaprastintą socialinio draudimo įmokų, baudų, palūkanų ir delspinigių įsiskolinimo mokėjimo, palūkanų ir delspinigių skaičiavimo tvarką:
 
 1) nepriklausomai nuo draudėjo prašomos atidėti socialinio draudimo įmokų, baudų, palūkanų ir (ar) delspinigių įsiskolinimo (toliau – įsiskolinimas) sumos, sprendimus dėl įsiskolinimo mokėjimo atidėjimo priima Fondo valdybos teritoriniai skyriai;
 
-2) Fondo valdybos teritoriniai skyriai priima sprendimus dėl įsiskolinimo, viršijančio 30 000 Eur sumą, mokėjimo atidėjimo. Dėl šiame punkte nurodyto įsiskolinimo mokėjimo atidėjimo dokumentai Fondo tarybai neteikiami ir neprašoma jos nuomonės;
+2) Fondo valdybos teritoriniai skyriai priima sprendimus dėl įsiskolinimo, viršijančio 30 000 eurų sumą, mokėjimo atidėjimo. Dėl šiame punkte nurodyto įsiskolinimo mokėjimo atidėjimo dokumentai Fondo tarybai neteikiami ir neprašoma jos nuomonės;
 
 3) įsiskolinimo mokėjimas atidedamas Fondo valdybos teritoriniams skyriams priimant sprendimus dėl įsiskolinimo mokėjimo atidėjimo, įsiskolinimo mokėjimo atidėjimo sutartys su draudėjais nesudaromos;
 
@@ -3184,13 +3184,11 @@ Fondo administravimo įstaigos Lietuvos Respublikos Vyriausybei paskelbus karant
 
 5) kai draudėjas kreipiasi į Fondo valdybos teritorinį skyrių, pateikdamas prašymą atidėti įsiskolinimo mokėjimą, Fondo valdybos teritorinis skyrius nereikalauja papildomų dokumentų;
 
-6) draudėjai turi teisę prašyti atidėti įsiskolinimo mokėjimą ir Fondo valdybos teritoriniai skyriai priimti sprendimą dėl įsiskolinimo mokėjimo atidėjimo už laikotarpį nuo Lietuvos Respublikos Vyriausybės paskelbto karantino pradžios, iki praeis du kalendoriniai mėnesiai nuo karantino visoje Lietuvos Respublikos teritorijoje pasibaigimo;
+6) draudėjai turi teisę prašyti atidėti įsiskolinimo mokėjimą ir Fondo valdybos teritoriniai skyriai turi teisę priimti sprendimą dėl įsiskolinimo mokėjimo atidėjimo už karantino laikotarpį;
 
-7) palūkanos už laiku nesumokėtą atidėto įsiskolinimo sumą, taip pat delspinigiai už laiku nesumokėtas socialinio draudimo įmokas neskaičiuojami už laikotarpį nuo Lietuvos Respublikos Vyriausybės paskelbto karantino pradžios, iki praeis du kalendoriniai mėnesiai nuo karantino visoje Lietuvos Respublikos teritorijoje pasibaigimo.
+7) palūkanos už laiku nesumokėtą atidėto įsiskolinimo sumą, taip pat delspinigiai už laiku nesumokėtas socialinio draudimo įmokas neskaičiuojami už karantino laikotarpį.
 
-TAR pastaba. 191 straipsnio nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo  Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo dienos.
+Straipsnio pakeitimai:
 
-Papildyta straipsniu:
-
-Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
+Nr. XIV-36, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27344
 
