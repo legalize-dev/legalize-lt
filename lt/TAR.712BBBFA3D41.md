@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2020-12-01"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-12-01 iki 2020-12-17
+Suvestinė redakcija nuo 2020-12-18 iki 2020-12-29
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -550,7 +550,11 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 4) grynasis skolinių įsipareigojimų pokyčio limitas ir jo dalis, skiriama kaupti piniginiams ištekliams skolai grąžinti;
 
-5) biudžetiniais metais pasirašomų valstybės garantijų limitas;
+5) valstybės garantijų ir valstybės garantuojamų garantijų institucijų prisiimtų įsipareigojimų pagal garantijas limitai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-61, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27621
 
 6) savivaldybių biudžetams skiriamų dotacijų sumos;
 
