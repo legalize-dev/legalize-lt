@@ -4,7 +4,7 @@ identifier: "TAR.3E5A0E0D14C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-23"
-last_updated: "2020-03-19"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E5A0E0D14C8"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-03-19 iki 2020-12-22
+Suvestinė redakcija nuo 2020-12-23 iki 2022-07-21
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
 
@@ -79,7 +79,11 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 2) prekių tiekimo ar paslaugų teikimo ir vartojimo kredito sutartys sudaro vieną komercinį sandorį. Laikoma, kad prekių tiekimo ar paslaugų teikimo ir vartojimo kredito sutartys sudaro vieną komercinį sandorį, kai yra bent viena iš šių sąlygų: prekių tiekėjas arba paslaugų teikėjas pats finansuoja vartojimo kredito gavėjui suteikiamą vartojimo kreditą; vartojimo kredito suteikimą finansuoja trečioji šalis, kuri, sudarant ar rengiant vartojimo kredito sutartį, naudojasi prekių tiekėjo ar paslaugų teikėjo paslaugomis; vartojimo kredito sutartyje aiškiai nurodomos konkrečios tiekiamos prekės ar konkrečios teikiamos paslaugos.
 
-11. Tarpusavio skolinimas – veikla, kai per tarpusavio skolinimo platformą fiziniai asmenys (toliau – paskolos davėjas) teikia arba įsipareigoja suteikti vartojimo kreditus vartojimo kredito gavėjams.
+11. Tarpusavio skolinimas – veikla, kai per tarpusavio skolinimo platformą asmenys (toliau – paskolos davėjas) teikia arba įsipareigoja suteikti vartojimo kreditus vartojimo kredito gavėjams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-80, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28127
 
 12. Tarpusavio skolinimo platforma – tarpusavio skolinimo platformos operatoriaus administruojama informacinė sistema, per kurią vykdomas tarpusavio skolinimas.
 
@@ -1053,7 +1057,7 @@ Bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarką nustato 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 Lietuvos Respublikos vartojimo kredito įstatymo
 
@@ -1205,6 +1209,8 @@ Ginčų sprendimo ne teisme tvarka ir žalos atlyginimo tvarka
 
 [Ar vartojimo kredito gavėjui, kuris yra nuotolinio ryšio priemonėmis sudaromos sutarties šalis, yra numatyta ginčų sprendimo ne teisme tvarka, žalos atlyginimo tvarka ir, jei taip, naudojimosi ja būdai]
 
+part_816218f8c0c549ec8f9fd0b06edef0f9_end
+
 Lietuvos Respublikos vartojimo kredito įstatymo
 
 2 priedas
@@ -1349,6 +1355,8 @@ Ginčų sprendimo ne teisme tvarka ir žalos atlyginimo tvarka
 
 [Ar vartojimo kredito gavėjui, kuris yra nuotolinio ryšio priemonėmis sudaromos sutarties šalis, yra numatyta ginčų sprendimo ne teisme tvarka, žalos atlyginimo tvarka ir, jei taip, naudojimosi ja būdai]
 
+part_1ddeb2b9bd8a48a8bc5cdb60629b77db_end
+
 Lietuvos Respublikos
 
 vartojimo kredito įstatymo
@@ -1424,6 +1432,16 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2816, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05696
 
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 papildymo 18-1 straipsniu įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-80, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28127
+
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 2 straipsnio pakeitimo įstatymas
+
+part_ecbfcbf75f974781ae0fcbf2354822d0_end
 
 43 straipsnis. Viešas skelbimas
 
