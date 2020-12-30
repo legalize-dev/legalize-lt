@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2020-12-18"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-12-18 iki 2020-12-29
+Suvestinė redakcija nuo 2020-12-30 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -456,15 +456,21 @@ Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
 
 15 straipsnis. Vyriausybės rezervo lėšos
 
-1. Valstybės biudžete sudaromas Vyriausybės rezervas. Jis turi būti ne didesnis kaip 1 procentas patvirtintų valstybės biudžeto asignavimų sumos. Konkretų Vyriausybės rezervo dydį kasmet nustato Seimas Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme. Vyriausybės rezervo lėšos skirstomos Vyriausybės nutarimu.
+1. Valstybės biudžete sudaromas Vyriausybės rezervas. Jis turi būti ne didesnis kaip 1 procentas patvirtintų valstybės biudžeto asignavimų sumos, išskyrus atvejus, kai rengiant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą yra paskelbta valstybės lygio ekstremalioji situacija. Konkretų Vyriausybės rezervo dydį kasmet nustato Seimas Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme. Vyriausybės rezervo lėšos skirstomos Vyriausybės nutarimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-120, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28976
 
 2. Vyriausybės rezervo lėšos naudojamos:
 
-1) ekstremaliosioms situacijoms ar krizėms likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies padengti;
+1) ekstremaliosioms situacijoms ar krizėms likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies padengti, inter alia, fizinių ir juridinių asmenų, patyrusių ekstremaliosios situacijos ar krizės padarinių, rėmimui Vyriausybės patvirtintomis priemonėmis;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2259, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10929
+
+Nr. XIV-120, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28976
 
 2) įsipareigojimams, susijusiems su dalyvavimu tarptautinėse operacijose, vykdyti;
 
