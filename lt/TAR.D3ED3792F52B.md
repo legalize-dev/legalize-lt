@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2020-11-21"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-11-21 iki 2020-12-29
+Suvestinė redakcija nuo 2020-12-30 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -1504,6 +1504,12 @@ VALSTYBĖS TARNAUTOJŲ ATLEIDIMAS IŠ PAREIGŲ
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
+
+9. Kai savivaldybės teritorijoje įvedamas tiesioginis valdymas, šio įstatymo nuostatos, reglamentuojančios savivaldybės administracijos direktoriaus, direktoriaus pavaduotojo statusą ir savivaldybės mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų atleidimą iš pareigų, taikomos tiek, kiek šių santykių nereglamentuoja Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-95, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28946
 
 52 straipsnis. Valstybės tarnybos bendrasis valdymas
 
