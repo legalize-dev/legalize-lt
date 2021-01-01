@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2020-05-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -1102,7 +1102,11 @@ Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
 
 12. Statytojas (užsakovas) turi teisę pasirinkti paslaugų teikėją – inžinerinių tinklų ir susisiekimo komunikacijų savininką ar naudotoją, jeigu tokia galimybė yra numatyta teritorijų planavimo dokumentuose ar žemės valdos projektuose.
 
-13. Statytojas (užsakovas) turi teisę pasirinkti, ar jis naudosis komunaliniais inžineriniais tinklais, ar ties vietinius, jeigu tokia galimybė yra numatyta teritorijų planavimo dokumentuose arba jeigu teritorijų planavimo dokumentų sprendiniai, kuriuose numatomas komunalinių tinklų tiesimas, neįgyvendinti.
+13. Statytojas (užsakovas) turi teisę pasirinkti, ar jis naudosis komunaliniais inžineriniais tinklais, ar ties vietinius, jeigu tokia galimybė yra numatyta teritorijų planavimo dokumentuose arba jeigu teritorijų planavimo dokumentuose nustatytais terminais neįgyvendinti šių teritorijų planavimo dokumentų sprendiniai, numatantys komunalinių tinklų, priskirtų prioritetinei savivaldybės infrastruktūrai, tiesimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2899, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10873
 
 14. Prisijungimo sąlygose draudžiama nustatyti reikalavimą, kad statytojas (užsakovas) atliktų esamų inžinerinių tinklų ir susisiekimo komunikacijų remonto ar rekonstravimo darbus. Šiuos darbus privalo atlikti šių tinklų ar komunikacijų savininkas ar naudotojas.
 
@@ -1236,7 +1240,11 @@ Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
 
 7. Leidimui tęsti sustabdytą statybą gauti pateikiami dokumentai, patvirtinantys, kad statybos sustabdymo priežastys pašalintos.
 
-8. Jeigu pateikti ne visi statybą leidžiančiam dokumentui išduoti privalomi dokumentai ar prašantis išduoti statybą leidžiantį dokumentą asmuo negali įgyvendinti statytojo teisės pagal šio įstatymo 3 straipsnio 2 dalies 1 ir 3 punktų reikalavimus, ar nepateikta informacija, patvirtinanti apie žyminio mokesčio už statybą leidžiančio dokumento išdavimą sumokėjimą, Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ įregistruotas prašymas išduoti statybą leidžiantį dokumentą nepriimamas ir apie tai ne vėliau kaip per 3 darbo dienas (išskyrus šio straipsnio 11 dalyje nustatytą atvejį) nuo prašymo išduoti statybą leidžiantį dokumentą įregistravimo dienos pasinaudojant Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacine sistema „Infostatyba“ pranešama prašymą teikusiam asmeniui.
+8. Jeigu pateikti ne visi statybą leidžiančiam dokumentui išduoti privalomi dokumentai ir (ar) vadovaujantis Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymo nuostatomis nepasirašyta savivaldybės infrastruktūros plėtros sutartis, nesumokėta savivaldybės infrastruktūros plėtros įmoka, kai ją privaloma sumokėti, ar prašantis išduoti statybą leidžiantį dokumentą asmuo negali įgyvendinti statytojo teisės pagal šio įstatymo 3 straipsnio 2 dalies 1 ir 3 punktuose nustatytus reikalavimus, ar nepateikta informacija, patvirtinanti apie žyminio mokesčio už statybą leidžiančio dokumento išdavimą sumokėjimą, Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ įregistruotas prašymas išduoti statybą leidžiantį dokumentą nepriimamas ir apie tai ne vėliau kaip per 3 darbo dienas (išskyrus šio straipsnio 11 dalyje nustatytą atvejį) nuo prašymo išduoti statybą leidžiantį dokumentą įregistravimo dienos pasinaudojant Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacine sistema „Infostatyba“ pranešama prašymą teikusiam asmeniui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2899, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10873
 
 9. Šio įstatymo 24 straipsnio 1 dalies 1, 2, 3 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatytais atvejais ir tvarka tikrina:
 
@@ -1288,11 +1296,13 @@ Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
 
 14. Kai statybą leidžiančius dokumentus šio įstatymo nustatytais atvejais išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos, šio straipsnio 13 dalyje nurodytas procedūras atlieka jos įgaliotas valstybės tarnautojas.
 
-15. Laikoma, kad statybą leidžiantis dokumentas yra išduotas ir galiojantis, jeigu jo duomenys įregistruoti ir apie jo išdavimą visuomenė informuota paskelbiant šio straipsnio 151 dalyje nurodytus duomenis (dokumentus) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ (apie įregistruotą statybą leidžiantį dokumentą statytojas (užsakovas) ar jo įgaliotas asmuo turi būti informuojamas). Įregistravus statybą leidžiančio dokumento duomenis ir apie statybą leidžiančio dokumento išdavimą informavus visuomenę, tik statytojo (užsakovo) ar jo įgalioto asmens prašymu ne vėliau kaip per 3 darbo dienas išduodamas įgalioto valstybės tarnautojo pasirašytas statybą leidžiantis dokumentas ar nuotoliniu būdu pateikiamas įgalioto valstybės tarnautojo elektroniniu parašu pasirašytas statybą leidžiantis dokumentas. Pasikeitus statytojui (užsakovui), statybos darbai ir statybos užbaigimo procedūros gali būti vykdomi pagal tą patį statybą leidžiantį dokumentą.
+15. Laikoma, kad statybą leidžiantis dokumentas yra išduotas ir galiojantis, jeigu jo duomenys įregistruoti ir apie jo išdavimą visuomenė informuota paskelbiant šio straipsnio 151 dalyje nurodytus duomenis (dokumentus) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ (apie įregistruotą statybą leidžiantį dokumentą statytojas (užsakovas) ar jo įgaliotas asmuo turi būti informuojamas). Įregistravus statybą leidžiančio dokumento duomenis ir apie statybą leidžiančio dokumento išdavimą informavus visuomenę, tik statytojo (užsakovo) ar jo įgalioto asmens prašymu ne vėliau kaip per 3 darbo dienas išduodamas įgalioto valstybės tarnautojo pasirašytas statybą leidžiantis dokumentas ar nuotoliniu būdu pateikiamas įgalioto valstybės tarnautojo elektroniniu parašu pasirašytas statybą leidžiantis dokumentas. Pasikeitus statytojui (užsakovui), statybos darbai ir statybos užbaigimo procedūros gali būti vykdomi pagal tą patį statybą leidžiantį dokumentą. Kai prieš išduodant statybą leidžiantį dokumentą pasirašyta savivaldybės infrastruktūros plėtros sutartis, ši sutartis turi būti pakeista iki šių statybos darbų ir (ar) statybos užbaigimo procedūrų pradžios.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
+
+Nr. XIII-2899, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10873
 
 151. Apie statybą leidžiančio dokumento išdavimą, siekiant sukurti galimybes visuomenei ginti teisę gyventi sveikatai ir gerovei tinkamoje aplinkoje, visuomenė informuojama Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ paskelbiant statybą leidžiančio dokumento duomenis (statybą leidžiančio dokumento tipą, nurodytą šio įstatymo 27 straipsnio 1 dalyje, registracijos numerį, registracijos datą, statinių adresus, dokumento būseną (galiojantis, negaliojantis), dokumentą išdavusios institucijos pavadinimą), statinio projekto duomenis (projekto pavadinimą, numerį, parengimo metus), statinių duomenis (statinio pavadinimą, statybos rūšį, naudojimo paskirtį, kategoriją (ypatingasis, neypatingasis, nesudėtingasis), laikinojo statinio požymį, savavališkos statybos požymį, adresą, žemės sklypo registracijos duomenis (unikalų numerį, registro numerį), statinio registracijos duomenis (unikalų numerį, registro numerį), statinio statybos metus, planuojamų statyti naujų ar rekonstruoti esamų pastatų rodiklius (pastatų skaičių, butų skaičių, bendrą plotą, naudingą plotą, tūrį), statinio projekto patikrinimo išvadas (rezultatus) ir prie jų pridėtus dokumentus, statinio, kuriam išduotas statybą leidžiantis dokumentas, bendruosius rodiklius (sklypo užstatymo intensyvumą, sklypo užstatymo tankį, pastato bendrą plotą, aukštų skaičių, pastato aukštį). Kai išduodamas leidimas statyti naują statinį, leidimas rekonstruoti statinį, leidimas atnaujinti (modernizuoti) pastatą, leidimas pakeisti statinio ar jo dalies paskirtį, be šioje dalyje nurodytų duomenų (dokumentų), Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ turi būti paskelbti šio straipsnio 5 dalies 2, 3, 8, 10, 11, 13 ir 15 punktuose nurodyti dokumentai. Draudžiama skelbti statytojo (užsakovo), kuris yra fizinis asmuo, ir kitų fizinių asmenų, išskyrus asmenis, dalyvaujančius rengiant statinio projektą, atliekant statinio projekto ekspertizę, tikrinant statinio projektą, vardą ir pavardę. Draudžiama skelbti fizinių asmenų asmens kodą, gimimo datą, gyvenamąją vietą. Už duomenų pateikimą be draudžiamų skelbti asmens duomenų atsako asmenys, teikiantys skelbti duomenis (dokumentus) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“. Šioje dalyje nurodytų duomenų (dokumentų) skelbimą ir jo užbaigimą užtikrina Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos.
 
@@ -1338,7 +1348,11 @@ Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
 
 1) įsiteisėjusiu teismo sprendimu;
 
-2) viešojo administravimo subjekto, išdavusio šio straipsnio 1 dalies 1–7 punktuose nurodytus statybą leidžiančius dokumentus, sprendimu šiais atvejais: jeigu, pakeitus esminius statinio projekto sprendinius, šis subjektas išdavė naują statybą leidžiantį dokumentą; jeigu buvo pakeisti žemės sklypo matmenys jį padalijant į atskirus žemės sklypus, sujungiant žemės sklypus, atlikus žemės sklypų perdalijimą (amalgamaciją) ir dėl to pažeidžiami leidžiami žemės sklypo užstatymo rodikliai ir kiti teisės aktai; statytojo (užsakovo) prašymu;
+2) viešojo administravimo subjekto, išdavusio šio straipsnio 1 dalies 1–7 punktuose nurodytus statybą leidžiančius dokumentus, sprendimu šiais atvejais: jeigu, pakeitus esminius statinio projekto sprendinius, šis subjektas išdavė naują statybą leidžiantį dokumentą; jeigu buvo pakeisti žemės sklypo matmenys jį padalijant į atskirus žemės sklypus, sujungiant žemės sklypus, atlikus žemės sklypų perdalijimą (amalgamaciją) ir dėl to pažeidžiami leidžiami žemės sklypo užstatymo rodikliai ir kiti teisės aktai; jeigu pasikeitė savivaldybės infrastruktūros plėtros iniciatorius (iniciatoriai) (statytojas) ir pagal Savivaldybių infrastruktūros plėtros įstatymo 8 straipsnio 8 dalį nepakeista savivaldybės infrastruktūros plėtros sutartis iki šių statybos darbų ir (ar) statybos užbaigimo procedūrų pradžios; jeigu nutraukiama savivaldybės infrastruktūros plėtros sutartis; statytojo (užsakovo) prašymu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2899, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10873
 
 3) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos sprendimu – leidimo tęsti sustabdytą statybą, jeigu statinio statyba po šio statybą leidžiančio dokumento išdavimo pakartotinai sustabdyta;
 
