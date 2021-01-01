@@ -4,7 +4,7 @@ identifier: "TAR.DE0B1FF26D01"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2020-06-15"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
 
@@ -1250,9 +1250,23 @@ Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 
 4. Kredito unijos privalo įvykdyti šio straipsnio 2 ir 3 dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
 
-5. Priežiūros institucijos nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti kredito unijos organų ir kredito unijos komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti kredito unijos organų, kredito unijos komitetų ir kredito unijos vadovų veiklą.
+5. Priežiūros institucija nuomonę dėl indėlių draudžiamojo įvykio, kaip jis apibrėžtas Indėlių ir įsipareigojimų investuotojams draudimo įstatyme, patvirtinimo raštu pateikia ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti kredito unija dėl su savo finansine padėtimi tiesiogiai susijusių priežasčių negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir to negalės padaryti artimiausiu metu.
 
-6. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų teisinę apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie kredito unijos skolininkus. Kredito unija priežiūros institucijai privalo teikti duomenis apie kredito unijos skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktuose nustatyta tvarka.
+Papildyta straipsnio dalimi:
+
+Nr. XIV-110, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28966
+
+6. Priežiūros institucijos nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti kredito unijos organų ir kredito unijos komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti kredito unijos organų, kredito unijos komitetų ir kredito unijos vadovų veiklą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-110, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28966
+
+7. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų teisinę apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie kredito unijos skolininkus. Kredito unija priežiūros institucijai privalo teikti duomenis apie kredito unijos skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktuose nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-110, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28966
 
 Straipsnio pakeitimai:
 
@@ -1334,7 +1348,11 @@ Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 
 2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
 
-3. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo, kuris pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti kredito unija negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu.
+3. Neteko galios nuo 2021-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-110, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28966
 
 Straipsnio pakeitimai:
 
@@ -2105,4 +2123,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
 
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 7 ir 8 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-110, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28966
+
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 57 ir 61 straipsnių pakeitimo įstatymas
 
