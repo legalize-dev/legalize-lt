@@ -4,7 +4,7 @@ identifier: "TAR.CE3B174CA7E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-30"
-last_updated: "2016-10-18"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CE3B174CA7E6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas
 
-Suvestinė redakcija nuo 2016-10-18 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-05-15
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1909, i. k. 0981010ISTAVIII-822
 
@@ -114,23 +114,35 @@ Formaliojo švietimo programas vykdančios mokyklos:
 
 2) šio įstatymo ir kitų teisės aktų nustatyta tvarka pripažįsta neformaliojo švietimo ir savišvietos būdu asmenų įgytas kompetencijas;
 
-3) švietimo ir mokslo ministro nustatyta tvarka pagal kompetenciją prisideda prie neformaliojo suaugusiųjų švietimo kokybės užtikrinimo;
+3) švietimo, mokslo ir sporto ministro nustatyta tvarka pagal kompetenciją prisideda prie neformaliojo suaugusiųjų švietimo kokybės užtikrinimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
 
 4) teikia informaciją apie jų vykdomas neformaliojo suaugusiųjų švietimo programas, neformaliojo švietimo ir savišvietos būdu asmenų įgytų kompetencijų pripažinimą ir konsultuoja šiais klausimais.
 
 8 straipsnis. Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi planavimas
 
-1. Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) tvirtina Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi plėtros programą, kurioje nustato pagrindines neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi plėtros kryptis. Švietimo ir mokslo ministras, pasikonsultavęs su Lietuvos neformaliojo suaugusiųjų švietimo taryba ir kitais socialiniais partneriais, 3 metams tvirtina Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi plėtros programos įgyvendinimo veiksmų planą.
+1. Lietuvos Respublikos Vyriausybė tvirtina nacionalines plėtros programas, kuriose suplanuojamos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi priemonės. Švietimo, mokslo ir sporto ministras, pasikonsultavęs su Lietuvos neformaliojo suaugusiųjų švietimo taryba ir kitais socialiniais partneriais, rengia nacionalines plėtros programas, kuriose suplanuoja neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi priemones, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą.
 
-2. Savivaldybės taryba, atsižvelgdama į švietimo ir mokslo ministro patvirtintą Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi plėtros programos įgyvendinimo veiksmų planą ir savivaldybės gyventojų, darbdavių, kitų socialinių partnerių poreikius, tvirtina savivaldybės neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi veiksmų planą ir skiria jo įgyvendinimo koordinatorių.
+2. Savivaldybės taryba, atsižvelgdama į Vyriausybės patvirtintas nacionalines plėtros programas, savivaldybės gyventojų, darbdavių, kitų socialinių partnerių poreikius, tvirtina savivaldybės neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi veiksmų planą ir skiria jo įgyvendinimo koordinatorių.
 
-3. Vykdyti neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, finansuojamas iš valstybės ir (arba) savivaldybių biudžetų lėšų, turi teisę neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjai, įgiję šią teisę švietimo ir mokslo ministro nustatyta tvarka.
+3. Vykdyti neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, finansuojamas iš valstybės ir (arba) savivaldybių biudžetų lėšų, turi teisę neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjai, įgiję šią teisę švietimo, mokslo ir sporto ministro nustatyta tvarka.
 
-4. Valstybės tarnautojų, kitų biudžetinių įstaigų darbuotojų kvalifikaciją gali tobulinti neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjai, kuriems tokia teisė yra suteikta teisės aktų nustatyta tvarka.
+4. Valstybės tarnautojų, kitų biudžetinių įstaigų darbuotojų kvalifikaciją gali tobulinti neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjai, kuriems ši teisė yra suteikta teisės aktų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
 
 9 straipsnis. Visuomenės informavimas ir konsultavimas
 
-1. Švietimo ir mokslo ministro įgaliotos institucijos:
+1. Švietimo, mokslo ir sporto ministro įgaliotos institucijos:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
 
 1) koordinuoja suaugusiųjų informavimą apie neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjus, neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi finansavimo galimybes Lietuvoje, konsultavimą šiais klausimais;
 
@@ -158,7 +170,11 @@ Nr. XII-2675, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25272
 
 11 straipsnis. Neformaliojo švietimo ir savišvietos būdu asmenų įgytų kompetencijų pripažinimas
 
-1. Neformaliojo švietimo ar savišvietos būdu asmens įgyta bendroji ar specialioji kompetencija švietimo ir mokslo ministro nustatyta tvarka gali būti pripažįstama kaip baigta formaliojo švietimo programos (išskyrus studijų programas) dalis arba aukštosios mokyklos nustatyta tvarka – kaip studijų programos dalis.
+1. Neformaliojo švietimo ar savišvietos būdu asmens įgyta bendroji ar specialioji kompetencija švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti pripažįstama kaip baigta formaliojo švietimo programos (išskyrus studijų programas) dalis arba aukštosios mokyklos nustatyta tvarka – kaip studijų programos dalis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
 
 2. Neformaliojo švietimo ar savišvietos būdu asmens įgyta bendroji ar specialioji kompetencija teisės aktų nustatyta tvarka gali būti pripažinta ir įteisinta kaip kompetencija, reikalinga įstatymų reglamentuojamam darbui ar funkcijai atlikti.
 
@@ -166,11 +182,15 @@ Nr. XII-2675, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25272
 
 12 straipsnis. Lietuvos neformaliojo suaugusiųjų švietimo taryba
 
-1. Lietuvos neformaliojo suaugusiųjų švietimo taryba yra ekspertinė patariamoji institucija, kuri svarsto pagrindines Lietuvos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi plėtros perspektyvas ir strategines kryptis ir šiais klausimais teikia išvadas ir siūlymus.
+1. Lietuvos neformaliojo suaugusiųjų švietimo taryba yra ekspertinė patariamoji institucija, kuri svarsto Lietuvos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi plėtros perspektyvas ir teikia pasiūlymus Lietuvos Respublikos švietimo, mokslo ir sporto ministerijai dėl neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi priemonių įtraukimo į nacionalines plėtros programas.
 
 2. Lietuvos neformaliojo suaugusiųjų švietimo taryba sudaroma iš valstybės ir savivaldybių institucijų, darbdavių ir darbuotojų interesams atstovaujančių organizacijų, kitiems visuomenės interesams atstovaujančių organizacijų (neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi) atstovų. Lietuvos neformaliojo suaugusiųjų švietimo taryba susideda iš 15 asmenų.
 
-3. Lietuvos neformaliojo suaugusiųjų švietimo tarybos nuostatus tvirtina Vyriausybė, sudėtį tvirtina švietimo ir mokslo ministras.
+3. Lietuvos neformaliojo suaugusiųjų švietimo tarybos nuostatus tvirtina Vyriausybė, sudėtį – švietimo, mokslo ir sporto ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
 
 13 straipsnis. Trečiojo amžiaus universitetas
 
@@ -182,7 +202,11 @@ Nr. XII-2675, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25272
 
 1. Andragogo profesijos paskirtis yra ugdyti suaugusiųjų gebėjimą mokytis ir taip didinti suaugusiųjų įsidarbinimo galimybes, skatinti verslumą, nuolat siekti žinių savo ir visuomenės gerovei, plėtoti kultūrines kompetencijas.
 
-2. Andragogo profesinės veiklos aprašą tvirtina, andragogo kvalifikacijos tobulinimo ir atestavimo tvarką nustato švietimo ir mokslo ministras.
+2. Andragogo profesinės veiklos aprašą tvirtina, andragogo kvalifikacijos tobulinimo ir atestavimo tvarką nustato švietimo, mokslo ir sporto ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
 
 15 straipsnis. Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi dalyvių teisės
 
@@ -208,7 +232,11 @@ Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjai privalo:
 
 2) užtikrinti neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi dalyviams tinkamos kokybės neformalųjį suaugusiųjų švietimą ir tęstinį mokymąsi;
 
-3) viešai skelbti informaciją apie vykdomas neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas ir teikti švietimo ir mokslo ministro arba savivaldybės administracijos direktoriaus įgaliotai institucijai, koordinuojančiai suaugusiųjų informavimą ir konsultavimą, informaciją apie vykdomas neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, finansuojamas iš valstybės ir (arba) savivaldybių biudžetų lėšų.
+3) viešai skelbti informaciją apie vykdomas neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas ir teikti švietimo, mokslo ir sporto ministro arba savivaldybės administracijos direktoriaus įgaliotai institucijai, koordinuojančiai suaugusiųjų informavimą ir konsultavimą, informaciją apie vykdomas neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, finansuojamas iš valstybės ir (arba) savivaldybių biudžetų lėšų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
 
 TREČIASIS skirsnis
 
@@ -232,7 +260,11 @@ NEFORMALIOJO SUAUGUSIŲJŲ ŠVIETIMO ir tęstinio mokymosi FINANSAVIMAS IR RĖMI
 
 2) suaugusiųjų, kurie mokosi pagal neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, mokymuisi finansuoti pagal Vyriausybės patvirtintas finansavimo metodikas;
 
-3) Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi plėtros programos įgyvendinimo veiksmų plano priemonėms ir veiksmams vykdyti juos įgyvendinančioms institucijoms.
+3) nacionalinėse plėtros programose suplanuotoms neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi priemonėms ir jų įgyvendinimo projektams finansuoti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
 
 3. Lėšos valstybės tarnautojų, kitų biudžetinių įstaigų darbuotojų profesinei kvalifikacijai tobulinti skiriamos iš valstybės ir (arba) savivaldybių biudžetų įstatymų ar ministrų pagal valdymo sritį teisės aktų nustatyta tvarka.
 
@@ -240,7 +272,7 @@ NEFORMALIOJO SUAUGUSIŲJŲ ŠVIETIMO ir tęstinio mokymosi FINANSAVIMAS IR RĖMI
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -267,6 +299,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2675, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25272
 
 Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo Nr. VIII-822 10 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
+
+Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo Nr. VIII-822 7, 8, 9, 11, 12, 14, 16 ir 17 straipsnių pakeitimo įstatymas
 
 18 straipsnis. Patalpų suteikimas neformaliojo suaugusiųjų švietimo įstaigoms
 
