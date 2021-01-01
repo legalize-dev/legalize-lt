@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2020-03-19"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-03-19 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-28
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
 
@@ -1199,7 +1199,7 @@ Nr. X-1726, 2008-09-22, Žin., 2008, Nr. 117-4442 (2008-10-11)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -1583,7 +1583,11 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 6. Vyriausybės įstaiga Vyriausybės sprendimu gali turėti kolegiją. Šios kolegijos sudarymo tvarką ir kompetenciją nustato Vyriausybė.
 
-7. Vyriausybės įstaiga veikia pagal Vyriausybės nustatyta tvarka parengtus strateginį ir metinį veiklos planus. Vyriausybės įstaigos strateginį veiklos planą tvirtina atitinkamos valdymo srities ministras ar atitinkamų valdymo sričių ministrai bendru įsakymu, o metinį veiklos planą – Vyriausybės įstaigos vadovas, suderinęs su atitinkamos valdymo srities ministru ar atitinkamų valdymo sričių ministrais.
+7. Vyriausybės įstaiga veikia pagal Vyriausybės nustatyta tvarka parengtus strateginį ir metinį veiklos planus. Vyriausybės įstaigos strateginį veiklos planą tvirtina atitinkamos valdymo srities ministras ar atitinkamų valdymo sričių ministrai bendru įsakymu, o metinį veiklos planą – Vyriausybės įstaigos vadovas, suderinęs su atitinkamos valdymo srities ministru ar atitinkamų valdymo sričių ministrais, jeigu specialus Vyriausybės įstaigos veiklą reglamentuojantis įstatymas nenustato kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3409, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24576
 
 8. Vyriausybės įstaigai vadovauja jos vadovas, priimamas į pareigas ir atleidžiamas iš jų Valstybės tarnybos įstatymo nustatyta tvarka.
 
