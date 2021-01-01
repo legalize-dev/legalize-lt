@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2020-12-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-12-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -33,7 +33,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas nustato bendruosius energetikos veiklos Lietuvos Respublikoje tikslus, taip pat energetikos sektoriaus valstybinio valdymo, reguliavimo, priežiūros ir kontrolės teisinius pagrindus, visuomeninių santykių vykdant energetikos veiklą bendruosius kriterijus, sąlygas ir reikalavimus, pagrindines valstybės energetikos politikos kryptis.
+1. Šis įstatymas nustato bendruosius energetikos veiklos Lietuvos Respublikoje tikslus, taip pat energetikos sektoriaus valstybinio valdymo, reguliavimo, priežiūros ir kontrolės teisinius pagrindus, visuomeninių santykių vykdant energetikos veiklą bendruosius kriterijus, sąlygas ir reikalavimus, pagrindines valstybės energetikos politikos vystymosi kryptis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 2. Atskirų energetikos sektorių veiklos teisinius pagrindus ir visuomeninių santykių ypatumus nustato kiti įstatymai. Kitų įstatymų nuostatos, reglamentuojančios energetikos veiklą, galioja tiek, kiek neprieštarauja šiam įstatymui, išskyrus šio straipsnio 3 dalyje nurodytą išimtį.
 
@@ -269,11 +273,15 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
-40. Valstybinės svarbos energetikos objekto plėtros projektas – objekto statybos tikslingumą techniniu, finansiniu ir ekonominiu aspektu pagrindžiantis dokumentas, parengiamas iki teritorijų planavimo dokumentų rengimo pradžios, siekiant įsitikinti, ar planuojamas objektas atitinka valstybės politikos strategines kryptis ir Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimo priemones ir yra suderinamas su esama Lietuvos Respublikos energetikos sektoriaus infrastruktūra ir jos plėtra.
+40. Valstybinės svarbos energetikos objekto plėtros projektas – objekto statybos tikslingumą techniniu, finansiniu ir ekonominiu aspektu pagrindžiantis dokumentas, parengiamas iki teritorijų planavimo dokumentų rengimo pradžios, siekiant įsitikinti, ar planuojamas objektas atitinka valstybės vystymosi kryptis ir energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius ir yra suderinamas su esama Lietuvos Respublikos energetikos sektoriaus infrastruktūra ir jos plėtra.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -359,7 +367,11 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 4 straipsnis. Energetikos politikos formavimas ir energetikos veiklos valdymas, reguliavimas, priežiūra ir kontrolė
 
-1. Energetikos politikos kryptis nustato Lietuvos Respublikos Seimas (toliau – Seimas), tvirtindamas Nacionalinę energetinės nepriklausomybės strategiją ir priimdamas įstatymus.
+1. Energetikos politikos vystymosi kryptis nustato Lietuvos Respublikos Seimas, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 2. Energetikos veiklos valdymą, reguliavimą, priežiūrą ir kontrolę Lietuvos Respublikoje pagal kompetenciją atlieka:
 
@@ -415,9 +427,17 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 1. Vyriausybė:
 
-1) teikia Seimui tvirtinti Nacionalinę energetinės nepriklausomybės strategiją;
+1) Nacionaliniame pažangos plane nustato energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius;
 
-2) tvirtina Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimo planą ir programas;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
+
+2) tvirtina energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 3) skelbia valstybės lygio ekstremaliąją energetikos padėtį;
 
@@ -467,9 +487,17 @@ Energetikos ministerija:
 
 2) pagal kompetenciją tvirtina teisės aktus, reglamentuojančius energijos tiekimo saugumo, energetikos objektų ir įrenginių, vartotojų energetikos įrenginių įrengimo, eksploatavimo, naudojimo, techninės saugos, efektyvaus naudojimo ir kitus techninius klausimus;
 
-3) rengia Nacionalinės energetinės nepriklausomybės strategijos projektą ir teikia jį Vyriausybei;
+3) dalyvauja rengiant Nacionalinį pažangos planą dėl energetikos politikos strateginių tikslų ir (arba) pažangos uždavinių nustatymo;
 
-4) rengia Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimo planą ir programas, koordinuoja jų įgyvendinimą;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
+
+4) rengia energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 5) tvirtina energijos ir energijos išteklių perdavimo, skirstymo, tiekimo ir vartojimo taisykles;
 
@@ -571,7 +599,11 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 Susisiekimo ministerija:
 
-1) rengia energijos išteklių ir energijos vartojimo efektyvumo didinimo transporto objektuose programas ir koordinuoja jų įgyvendinimą;
+1) rengia energijos išteklių ir energijos vartojimo efektyvumo didinimo transporto objektuose nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 2) teikia rekomendacijas ir įgyvendina priemones, didinančias energijos išteklių ir energijos vartojimo efektyvumą transporto objektuose;
 
@@ -797,63 +829,55 @@ Konkurencijos taryba pagal kompetenciją kontroliuoja, kaip ūkio subjektai laik
 
 Tarnyba užtikrina energijos ir (ar) energijos išteklių vartotojų teisių apsaugą, nagrinėja vartotojų skundus ir atlieka kitas jai pavestas funkcijas vartotojų teisių apsaugos srityje Lietuvos Respublikos vartotojų teisių apsaugos įstatyme ir šiame įstatyme nustatyta tvarka.
 
-14 straipsnis. Nacionalinė energetinės nepriklausomybės strategija
+14 straipsnis. Energetikos politikos formavimas ir įgyvendinimas
 
-1. Nacionalinė energetinės nepriklausomybės strategija (toliau – Strategija) nustato valstybės politikos strategines kryptis energetikos sektoriuje.
+1. Valstybės pažangos strategijoje nustatomos energetikos politikos vystymosi kryptys, Nacionaliniame pažangos plane nustatomi energetikos politikos strateginiai tikslai ir (arba) pažangos uždaviniai, o šiuos uždavinius įgyvendinančiose nacionalinėse plėtros programose – priemonės.
 
-2. Strategiją Vyriausybės teikimu tvirtina Seimas.
+2. Energetikos politikos nacionalinėse plėtros programose turi būti numatyta:
 
-3. Strategija apima visus energetikos sektorius, ji peržiūrima ne rečiau kaip kas  penkeri metai. Strategija rengiama, peržiūrima ir įgyvendinama valstybės biudžeto ir kitomis lėšomis.
+1) valstybės energetinės nepriklausomybės ir energetikos saugumo priemonės;
 
-4. Strategijoje turi būti numatyta:
+2) energijos ar energijos išteklių poreikių, importo, eksporto prognozės;
 
-1) valstybės energetinės nepriklausomybės ir energetikos saugumo priemonės;
+3) energijos gamybos pajėgumų poreikis;
 
-2) energijos ar energijos išteklių poreikių, importo, eksporto prognozės;
+4) energetikos sektoriaus struktūros tobulinimo priemonės;
 
-3) energijos gamybos pajėgumų poreikis;
+5) energijos išteklių vartojimo struktūra ir jos prognozės;
 
-4) energetikos sektoriaus struktūros tobulinimo kryptys ir priemonės;
+6) energetikos žalingo poveikio aplinkai mažinimo priemonės;
 
-5) energijos išteklių vartojimo struktūra ir jos prognozės;
+7) atsinaujinančių ir vietinių energijos išteklių vartojimo plėtra;
 
-6) energetikos žalingo poveikio aplinkai mažinimo prognozės ir priemonės;
+8) energijos vartojimo efektyvumo priemonės;
 
-7) atsinaujinančių ir vietinių energijos išteklių vartojimo plėtra;
+9) reikalingos investicijos į energetikos sektorių;
 
-8) energijos vartojimo efektyvumo priemonės;
+10) energijos išteklių atsargų įvertinimas ir sudarymas;
 
-9) reikalingos investicijos į energetikos sektorių;
+11) energijos rinkų plėtros priemonės;
 
-10) energijos išteklių atsargų įvertinimas ir sudarymas;
+12) energetikos valdymo tobulinimo gairės;
 
-11) energijos rinkų plėtros priemonės;
+13) energijos kainodaros tobulinimo gairės;
 
-12) energetikos valdymo tobulinimo kryptys;
+14) kiti su energetikos plėtra susiję klausimai.
 
-13) energijos kainodaros tobulinimo kryptys;
+3. Energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, jų priemones ir jas įgyvendinančius projektus pagal kompetenciją įgyvendina valstybės ir savivaldybių institucijos, įstaigos, įmonės, organizacijos ir kiti energetikos politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose nurodyti asmenys.
 
-14) kiti su energetikos plėtra susiję klausimai.
+Straipsnio pakeitimai:
 
-5. Vadovaudamasi Seimo patvirtinta Strategija, Vyriausybė tvirtina Nacionalinę atsinaujinančių energijos išteklių plėtros programą, kaip nurodyta Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme. Vyriausybė užtikrina Strategijos ir Nacionalinės atsinaujinančių energijos išteklių plėtros programos suderinamumą.
-
-TAR pastaba. 5 dalis netenka galios 2019-06-01.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2018, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05353
-
-6. Vyriausybė ar jos įgaliota institucija tvirtina penkerių metų Strategijos įgyvendinimo planą ir programas.
-
-7. Strategiją, Strategijos įgyvendinimo planą ir programas pagal kompetenciją įgyvendina valstybės ir savivaldybių institucijos, įstaigos, įmonės, organizacijos ir kiti Strategijos įgyvendinimo plane ir (ar) programose nurodyti asmenys.
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 15 straipsnis. Energetikos objektų, įrenginių statyba, plėtra ir rekonstrukcija
 
-1. Energetikos objektai statomi Lietuvos Respublikos statybos įstatymo, Lietuvos Respublikos teritorijų planavimo įstatymo, Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų teisės aktų nustatyta tvarka. Valstybinės svarbos energetikos objektai plėtojami vadovaujantis Strategijos nuostatomis. Planuojami valstybinės svarbos energetikos objektai turi atitikti valstybės politikos strategines kryptis, Strategijos įgyvendinimo priemones ir turi subalansuoti Lietuvos Respublikos energetikos sektoriaus plėtrą, iki teritorijų planavimo dokumentų rengimo pradžios parengiant šių objektų plėtros projektus. Vartotojų aprūpinimo energija ir energijos ištekliais bendrieji ar specialieji planai rengiami vadovaujantis Strategija. Vartotojų energetikos įrenginiai įrengiami Energetikos ministerijos nustatyta tvarka.
+1. Energetikos objektai statomi Lietuvos Respublikos statybos įstatymo, Lietuvos Respublikos teritorijų planavimo įstatymo, Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų teisės aktų nustatyta tvarka. Valstybinės svarbos energetikos objektai plėtojami atsižvelgiant į Nacionaliniame pažangos plane nustatytus energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius. Planuojami valstybinės svarbos energetikos objektai turi subalansuoti Lietuvos Respublikos energetikos sektoriaus plėtrą, iki teritorijų planavimo dokumentų rengimo pradžios parengiant šių objektų plėtros projektus. Vartotojų aprūpinimo energija ir energijos ištekliais bendrieji ar specialieji planai rengiami atsižvelgiant į Nacionaliniame pažangos plane nustatytus energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius. Vartotojų energetikos įrenginiai įrengiami Energetikos ministerijos nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 2. Energetikos įmonės dalyvauja rengiant ir plėtojant subalansuoto, efektyvaus energijos tiekimo, skirstymo, perdavimo planus, taip pat planuoja valstybinės svarbos energetikos objektų plėtrą. Energetikos įmonės, perduodančios, skirstančios energiją, plėtoja energijos perdavimo, skirstymo įrenginius savo veiklos teritorijoje.
 
@@ -921,7 +945,11 @@ Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
 
 18 straipsnis. Nekilnojamųjų daiktų suteikimas naudotis
 
-1. Žemė energetikos objektams statyti išnuomojama ar kitaip suteikiama naudotis įstatymų nustatyta tvarka. Valstybei nuosavybės teise priklausanti žemė energijos gamybos, perdavimo ir skirstymo įrenginiams, skirtiems įgyvendinti Strategijoje nustatytus tikslus ir priemones bei užtikrinti energetikos sistemos plėtrą, statyti parduodama ar išnuomojama Vyriausybės nustatyta tvarka, laikantis įstatymų nustatytų reikalavimų žemės pardavimui ar nuomai aukciono būdu, o įstatymų nustatytais atvejais – be aukciono.
+1. Žemė energetikos objektams statyti išnuomojama ar kitaip suteikiama naudotis įstatymų nustatyta tvarka. Valstybei nuosavybės teise priklausanti žemė energijos gamybos, perdavimo ir skirstymo įrenginiams, skirtiems energetikos politikos strateginiams tikslams ir (arba) pažangos uždaviniams ir šiuos uždavinius įgyvendinančių nacionalinių plėtros programų priemonėms įgyvendinti ir energetikos sistemos plėtrai užtikrinti, statyti parduodama ar išnuomojama Vyriausybės nustatyta tvarka, laikantis įstatymų nustatytų žemės pardavimo ar nuomos aukciono būdu reikalavimų, o įstatymų nustatytais atvejais – be aukciono.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 2. Privati žemė energetikos objektams statyti gali būti naudojama energetikos įmonės ir žemės savininko susitarimu. Jeigu nesusitariama, privati žemė įstatymų nustatyta tvarka gali būti paimama visuomenės poreikiams arba įstatymu ar administraciniu aktu nustatomas servitutas.
 
@@ -1419,7 +1447,11 @@ Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 27 straipsnis. Efektyvus energijos išteklių ir energijos vartojimas
 
-1. Efektyvaus energijos ir energijos išteklių vartojimo pagrindinės kryptys nustatomos Strategijoje, o šių krypčių įgyvendinimo priemonės – energijos vartojimo efektyvumo didinimo ir kitose programose.
+1. Efektyvaus energijos ir energijos išteklių vartojimo priemonės suplanuojamos Vyriausybės tvirtinamose energijos vartojimo efektyvumo didinimo ir kitose nacionalinėse plėtros programose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 2. Importuojami, gaminami ir parduodami buitiniai prietaisai, kurie naudoja elektros ir kitų rūšių energiją, privalo turėti energijos vartojimo efektyvumo ženklinimo etiketes.
 
@@ -2057,6 +2089,14 @@ Nr. XIII-3431, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24606
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 13-1 straipsnio pakeitimo įstatymas
 
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 1, 2, 4, 5, 6, 7, 13-1, 14, 15, 18 ir 27 straipsnių pakeitimo įstatymas
+
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
 1. Centralizuotai tiekiamų suskystintų naftos dujų kainos yra valstybės reguliuojamos.
@@ -2189,7 +2229,11 @@ Nr. XIII-788, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18851
 
 1. Lietuvos energetikos agentūra yra viešoji įstaiga, kurios vienintelė savininkė yra valstybė. Lietuvos energetikos agentūra atlieka šias funkcijas:
 
-1) padeda Energetikos ministerijai koordinuoti Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimą, Nacionalinės energetinės nepriklausomybės strategijos priemonių įgyvendinimo plano parengimą ir vykdo Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimo stebėseną;
+1) padeda Energetikos ministerijai koordinuoti energetikos politikos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų įgyvendinimą ir vykdo jų įgyvendinimo stebėseną;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 2) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka renka, kaupia ir sistemina energetikos sektoriaus duomenis, jų pagrindu rengia ir teikia Energetikos ministerijai energetikos sektoriaus analizę;
 
