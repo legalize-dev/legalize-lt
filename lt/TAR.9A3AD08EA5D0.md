@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2020-09-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-08-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -284,11 +284,15 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 
-39. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Visuomenės informavimo įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme ir Lietuvos Respublikos elektroninių ryšių įstatyme.
+39. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Visuomenės informavimo įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme ir Lietuvos Respublikos elektroninių ryšių įstatyme.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 
 Straipsnio pakeitimai:
 
@@ -1508,11 +1512,23 @@ Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
 
 54 straipsnis. Švietimo planavimas
 
-1. Švietimo planavimo paskirtis – įvertinus švietimo būklę ir atsižvelgus į visuomenės švietimo poreikius, nustatyti ilgalaikius ir trumpalaikius švietimo tikslus ir uždavinius, apibrėžti prioritetus ir priemones uždaviniams vykdyti.
+1. Švietimo planavimo paskirtis – įvertinus švietimo būklę ir atsižvelgus į visuomenės švietimo poreikius, nustatyti švietimo politikos vystymosi kryptis, strateginius tikslus ir (arba) pažangos uždavinius ir priemones šiems uždaviniams įgyvendinti.
 
-2. Lietuvos švietimo politikos prioritetai, ilgalaikiai švietimo tikslai, švietimo turinio kaitos kryptys, finansavimo prioritetai nustatomi Valstybinėje švietimo strategijoje. Ją rengia ir teikia Seimui tvirtinti Vyriausybė. Strategija rengiama dešimčiai metų, tikslinama ne rečiau kaip kas ketveri metai.
+Straipsnio dalies pakeitimai:
 
-3. Savivaldybės, įgyvendindamos Valstybinę švietimo strategiją, nustato ilgalaikius švietimo plėtros tikslus ir priemones jiems pasiekti.
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
+
+2. Lietuvos švietimo politikos vystymosi kryptis nustato Seimas, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Švietimo politikos strateginiai tikslai ir pažangos uždaviniai nustatomi Vyriausybės tvirtinamame Nacionaliniame pažangos plane. Švietimo politikos pažangos uždavinius įgyvendinančios priemonės suplanuojamos Vyriausybės tvirtinamose nacionalinėse plėtros programose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
+
+3. Savivaldybės, įgyvendindamos švietimo politikos pažangos uždavinius, suplanuoja priemones ir projektus jiems įgyvendinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 
 4. Mokykla rengia strateginį planą. Mokyklos tarybos, savininko teises ir pareigas įgyvendinančios institucijos (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomosios institucijos ar jos įgalioto asmens (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos) savininko (dalyvių susirinkimas) (kitų mokyklų) pritarimu mokyklos strateginį planą tvirtina mokyklos vadovas.
 
@@ -1524,19 +1540,39 @@ Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
 
 Vyriausybė:
 
-1) vykdo švietimą reglamentuojančius įstatymus, Respublikos Prezidento dekretus ir Seimo nutarimus, ilgalaikes valstybines švietimo programas, Vyriausybės programą švietimo srityje, tvirtina jos įgyvendinimo programas;
+1) vykdo švietimą reglamentuojančius įstatymus, Respublikos Prezidento dekretus ir Seimo nutarimus, tvirtina Nacionaliniame pažangos plane švietimo politikos strateginius tikslus ir pažangos uždavinius, šiuos uždavinius įgyvendinančias nacionalines plėtros programas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 
 2) koordinuoja Švietimo ir mokslo ministerijos, kitų ministerijų ir Vyriausybės įstaigų veiklą švietimo klausimais;
 
 3) steigia, reorganizuoja, likviduoja ir pertvarko valstybines kolegijas, švietimo įstaigas, kurių teisinė forma – viešoji įstaiga, prireikus – švietimo valdymo subjektus – Vyriausybės įstaigas, steigia įstaigas prie Švietimo ir mokslo ministerijos ir paveda šiai ministerijai įgyvendinti įstaigos prie ministerijos savininko teises ir pareigas (išskyrus sprendimų dėl tokių įstaigų reorganizavimo ir likvidavimo priėmimą);
 
-4) paveda jai pavaldžioms vykdomosios valdžios institucijoms rengti Valstybinę švietimo strategiją, atsako už Valstybinės švietimo strategijos ir Vyriausybės programos švietimo srityje įgyvendinimą.
+4) neteko galios nuo 2021-01-01.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 
 56 straipsnis. Švietimo ir mokslo ministerijos įgaliojimai
 
 Švietimo ir mokslo ministerija yra įgaliota:
 
 1) dalyvauti formuojant, vykdyti ir užtikrinti valstybinę švietimo politiką;
+
+11) dalyvauti rengiant Nacionalinį pažangos planą dėl švietimo politikos strateginių tikslų ir pažangos uždavinių nustatymo;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
+
+12) rengti švietimo politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoti, koordinuoti ir kontroliuoti jų įgyvendinimą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 
 2) atsakyti už švietimo kokybę;
 
@@ -1638,7 +1674,11 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 1. Savivaldybės atstovaujamoji institucija:
 
-1) įgyvendina valstybinę švietimo politiką savivaldybėje, nustato ilgalaikius švietimo plėtros tikslus ir priemones jiems pasiekti;
+1) įgyvendina valstybinę švietimo politiką savivaldybėje, suplanuoja priemones ir projektus švietimo politikos pažangos uždaviniams įgyvendinti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 
 2) steigia, reorganizuoja ir likviduoja savivaldybės administracijos švietimo padalinius;
 
@@ -1792,7 +1832,11 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 3. Savivaldybės švietimo tarybos nuostatus tvirtina savivaldybės taryba.
 
-4. Savivaldybės švietimo taryba analizuoja, kaip vykdoma bendroji švietimo politika, pritaria ilgalaikiams švietimo plėtros tikslams ir telkia visuomenę jiems siekti.
+4. Savivaldybės švietimo taryba analizuoja, kaip vykdoma bendroji švietimo politika, pritaria švietimo politikos strateginius tikslus ir pažangos uždavinius įgyvendinančioms priemonėms ir projektams ir telkia visuomenę jiems siekti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 
 62 straipsnis. Valstybės švietimo savivaldos institucijos
 
@@ -1852,15 +1896,15 @@ SEPTINTASIS SKIRSNIS
 
 66 straipsnis. Investicijos į švietimo plėtotę
 
-1. Valstybės lygiu investicinės lėšos švietimo plėtotei (žmogiškiesiems ištekliams plėtoti ir optimizuoti, darbo sąlygoms gerinti, švietimo kokybei ir prieinamumui didinti, infrastruktūrai tobulinti ir kt.) skiriamos įgyvendinant Valstybinę švietimo strategiją ir Švietimo ir mokslo ministerijos strateginį veiklos planą. Jos paskirstomos Švietimo ir mokslo ministerijos nustatyta tvarka.
+1. Valstybės lygiu investicinės lėšos švietimo plėtotei (žmogiškiesiems ištekliams plėtoti ir optimizuoti, darbo sąlygoms gerinti, švietimo kokybei ir prieinamumui didinti, infrastruktūrai tobulinti ir kt.) skiriamos švietimo politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose suplanuotoms priemonėms įgyvendinti. Jos paskirstomos Švietimo, mokslo ir sporto ministerijos nustatyta tvarka.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
-
-2. Savivaldybių lygiu investicinės lėšos švietimo plėtotei skiriamos pagal programas, nustatytas savivaldybių tarybų patvirtintuose biudžetuose. Savivaldybių investicinės programos rengiamos atsižvelgiant į valstybės investicines programas ir vadovaujantis švietimo strateginiais planais.
+2. Savivaldybių lygiu investicinės lėšos švietimo plėtotei skiriamos pagal programas, nustatytas savivaldybių tarybų patvirtintuose biudžetuose. Savivaldybių investicinės programos rengiamos atsižvelgiant į švietimo politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas.
 
 3. Valstybės lėšos kapitalo investicijoms skiriamos savivaldybėms atsižvelgus į mokyklų tinklo pertvarkos veiksmingumą ir kitus švietimo kokybę laiduojančius kriterijus.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 
 67 straipsnis. Švietimo programų ir mokyklų finansavimas
 
@@ -2463,6 +2507,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3022, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13239
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 60 straipsnio pakeitimo įstatymas
+
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 54, 55, 56, 58, 61 ir 66 straipsnių pakeitimo įstatymas
 
 73 straipsnis.
 
