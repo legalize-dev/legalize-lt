@@ -4,7 +4,7 @@ identifier: "TAR.33DE665E5E0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-14"
-last_updated: "2019-07-02"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.33DE665E5E0E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2019-07-02 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 51-1392; Žin. 2004, Nr.98-3626, i. k. 0981010ISTAVIII-730
-
-TAR pastaba. Vyriausybės atstovai, paskirti į pareigas iki įstatymo Nr. XIII-1477 įsigaliojimo (2019-07-02), jų sutikimu nuo 2019 m. liepos 2 d. perkeliami į karjeros valstybės tarnautojo pareigas Vyriausybės atstovų įstaigoje. Vyriausybės atstovų, perkeltų į karjeros valstybės tarnautojo pareigas Vyriausybės atstovų įstaigoje, pareiginė alga nustatoma vadovaujantis Lietuvos Respublikos valstybės tarnybos įstatymo 29 straipsnio 4 dalies 4 punktu. Vyriausybės atstovas, kuris nesutinka būti perkeltas į karjeros valstybės tarnautojo pareigas Vyriausybės atstovų įstaigoje, atleidžiamas iš pareigų Valstybės tarnybos įstatymo nustatyta tvarka.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2236, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10355
-
-Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo Nr. VIII-730 pakeitimo įstatymo Nr. XIII-1477 1 ir 2 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2019-07-02:
 
@@ -187,7 +179,11 @@ Tepadeda man Dievas.“
 
 1) pasibaigia kadencijos laikas;
 
-2) jam sukanka senatvės pensijos amžius;
+2) Neteko galios nuo 2021-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3406, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24566
 
 3) jis atsistatydina;
 
@@ -203,7 +199,11 @@ Tepadeda man Dievas.“
 
 2. Šio straipsnio 1 dalyje nustatytais atvejais, išskyrus šio straipsnio 1 dalies 5 punktą, sprendimą dėl Vyriausybės atstovo atleidimo priima Vyriausybė Ministro Pirmininko teikimu.
 
-3. Vyriausybės atstovo sutikimu, šio straipsnio 1 dalies 1, 2 ir 3 punktuose nustatytais atvejais Vyriausybės atstovas eina pareigas tol, kol paskiriamas naujas Vyriausybės atstovas, bet ne ilgiau kaip 3 mėnesius.
+3. Vyriausybės atstovo sutikimu šio straipsnio 1 dalies 1 ir 3 punktuose nustatytais atvejais Vyriausybės atstovas eina pareigas tol, kol paskiriamas naujas Vyriausybės atstovas, bet ne ilgiau kaip 3 mėnesius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3406, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24566
 
 11 straipsnis. Vyriausybės atstovų darbo apmokėjimas ir socialinės garantijos
 
@@ -299,7 +299,7 @@ Vyriausybės atstovai kiekvienais metais parengia savo veiklos ataskaitas ir pat
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -382,4 +382,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2236, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10355
 
 Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo Nr. VIII-730 pakeitimo įstatymo Nr. XIII-1477 1 ir 2 straipsnių pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3406, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24566
+
+Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo Nr. VIII-730 10 straipsnio pakeitimo įstatymas
 
