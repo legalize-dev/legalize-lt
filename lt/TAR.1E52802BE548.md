@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2019-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
 
@@ -59,7 +59,11 @@ Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
 
 1. Viešoji įstaiga − tai pagal šį ir kitus įstatymus įsteigtas pelno nesiekiantis ribotos civilinės atsakomybės viešasis juridinis asmuo, kurio tikslas − tenkinti viešuosius interesus vykdant švietimo, mokymo ir mokslinę, kultūrinę, sveikatos priežiūros, aplinkos apsaugos, sporto plėtojimo, socialinės ar teisinės pagalbos teikimo, taip pat kitokią visuomenei naudingą veiklą.
 
-2. Viešoji įstaiga turi turėti bent vieną sąskaitą banke.
+2. Viešoji įstaiga turi turėti bent vieną sąskaitą kredito ar elektroninių pinigų įstaigoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-78, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28124
 
 3. Viešosios įstaigos buveinė turi būti Lietuvos Respublikoje.
 
@@ -914,6 +918,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-852, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20335
 
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 8-1 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-78, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28124
+
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 2 straipsnio pakeitimo įstatymas
 
 81 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
