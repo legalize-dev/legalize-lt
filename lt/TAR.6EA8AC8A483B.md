@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2020-08-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-15
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -108,11 +108,19 @@ Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
 
 1) įgyvendina geležinkelių transporto politiką;
 
-2) prižiūri, kaip juridiniai ir fiziniai asmenys, kitos organizacijos laikosi Lietuvos Respublikos įstatymų, Lietuvos Respublikos tarptautinių sutarčių, kitų teisės aktų, reglamentuojančių geležinkelių transporto eismo saugos klausimus, reikalavimų;
+2) Neteko galios nuo 2021-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 
 3) išduoda geležinkelio įmonės (vežėjo) licencijas, prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų, prireikus sustabdo ir panaikina šių licencijų galiojimą;
 
-4) išduoda saugos sertifikatus, suteikia įgaliojimus geležinkelių transporto eismo saugos srityje;
+4) Neteko galios nuo 2021-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 
 5) atlieka kitas šiame Kodekse ir kituose geležinkelių transporto veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
 
@@ -312,13 +320,21 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 13 straipsnis. Lietuvos Respublikos geležinkelių riedmenų registras
 
-1. Geležinkelių riedmenys registruojami ir duomenys apie geležinkelių riedmenis, jų naudotojus, asmenis, atsakingus už geležinkelių riedmenų techninę priežiūrą, tvarkomi Lietuvos Respublikos geležinkelių riedmenų registre įstatymų, Vyriausybės patvirtintų Lietuvos Respublikos geležinkelių riedmenų registro nuostatų ir kitų teisės aktų nustatyta tvarka.
+1. Geležinkelių riedmenys registruojami ir duomenys apie geležinkelių riedmenis, jų naudotojus, asmenis, atsakingus už geležinkelių riedmenų techninę priežiūrą, tvarkomi Lietuvos Respublikos geležinkelių riedmenų registre vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Vyriausybės tvirtinamais Lietuvos Respublikos geležinkelių riedmenų registro nuostatais ir kitais teisės aktais, reglamentuojančiais geležinkelių riedmenų registravimą ir duomenų tvarkymą.
 
-2. Lietuvos Respublikos geležinkelių riedmenų registre neregistruojami trečiųjų valstybių asmenims priklausantys prekiniai ir keleiviniai vagonai, bendrai naudojami tarptautiniam susisiekimui su trečiosiomis valstybėmis 1 520 mm pločio vėžės geležinkelių tinkle, jeigu leidimai pradėti naudoti šiuos geležinkelių riedmenis pirmą kartą išduoti ar teisė eksploatuoti šiuos geležinkelių riedmenis pirmą kartą suteikta trečiojoje valstybėje.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
+
+2. Lietuvos Respublikos geležinkelių riedmenų registre neregistruojami prekiniai ir keleiviniai vagonai, kuriuos ketinama naudoti Europos Sąjungoje kaip bendros 1 520 mm pločio vėžės geležinkelio sistemos vagonus, jeigu leidimai pradėti naudoti šiuos geležinkelių riedmenis pirmą kartą išduoti ar teisė eksploatuoti šiuos geležinkelių riedmenis pirmą kartą suteikta trečiojoje valstybėje įsteigtos organizacijos (asociacijos). Šio straipsnio 1 dalyje  nurodyti geležinkelių riedmenys geležinkelių riedmenų naudotojo prašymu išregistruojami iš Lietuvos Respublikos geležinkelių riedmenų registro.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-833, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20053
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 
 3. Geležinkelio įmonė (vežėjas), Lietuvos Respublikoje naudojanti šio straipsnio 2 dalyje nurodytus prekinius ir keleivinius vagonus, raštu neatlygintinai teikia geležinkelių transporto eismo saugos institucijai jos paprašytus duomenis apie šių Lietuvos Respublikos geležinkelių riedmenų registre neregistruotinų geležinkelių riedmenų naudotoją, už geležinkelių riedmenų techninę priežiūrą atsakingą subjektą ir geležinkelių riedmenų naudojimo apribojimus, taip pat kitus papildomus duomenis apie geležinkelių riedmenis, jeigu geležinkelio įmonė (vežėjas) tokius duomenis turi. Duomenys teikiami per 5 darbo dienas nuo geležinkelių transporto eismo saugos institucijos prašymo pateikti duomenis gavimo dienos. Geležinkelių transporto eismo saugos institucija šiuos duomenis kitiems subjektams teikia mutatis mutandis vadovaudamasi Lietuvos Respublikos geležinkelių riedmenų registro nuostatais.
 
@@ -394,25 +410,11 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 3. Regioninės reikšmės geležinkelių linijos yra geležinkelių linijos, skirtos susisiekimui tarp atskirų miestų (gyvenviečių), kurių sąrašą tvirtina susisiekimo ministras.
 
-16 straipsnis. Lietuvos Respublikos geležinkelių infrastruktūros registras
+16 straipsnis. Neteko galios nuo 2021-01-01
 
-1. Geležinkelių infrastruktūra registruojama bei duomenys apie geležinkelių infrastruktūrą ir registro duomenų teikėjus tvarkomi Lietuvos Respublikos geležinkelių infrastruktūros registre įstatymų, Lietuvos Respublikos susisiekimo ministro patvirtintų Lietuvos Respublikos geležinkelių infrastruktūros registro nuostatų ir kitų teisės aktų nustatyta tvarka.
+Straipsnio naikinimas:
 
-2. Lietuvos Respublikos geležinkelių infrastruktūros registro duomenų teikėjai nurodyti Lietuvos Respublikos geležinkelių infrastruktūros registro nuostatuose.
-
-3. Lietuvos Respublikos geležinkelių infrastruktūros registro valdytoja yra Susisiekimo ministerija. Registro tvarkytojo funkcijas atlieka geležinkelių transporto eismo saugos institucija.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
-
-Straipsnio pakeitimai:
-
-Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
-
-Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
-
-Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
+Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 
 18 straipsnis. Susisiekimas su geležinkelio stotimi
 
@@ -850,15 +852,15 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 34 straipsnis. Keleivių ir bagažo vežimo užmokestis
 
-1. Keleivių vežimo vietinio susisiekimo maršrutais, įskaitant kombinuotąjį keleivių vežimą vietiniais maršrutais, tarifus nustato geležinkelio įmonė (vežėjas). Didžiausi tarifai turi būti suderinti su Valstybine kainų ir energetikos kontrolės komisija. Bagažo vežimo vietinio susisiekimo maršrutais tarifus nustato geležinkelio įmonė (vežėjas).
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
+1. Keleivių vežimo vietinio susisiekimo maršrutais, įskaitant kombinuotąjį keleivių vežimą vietiniais maršrutais, tarifus nustato geležinkelio įmonė (vežėjas). Didžiausi leistini nustatyti tarifai turi būti suderinti su Valstybine energetikos reguliavimo taryba. Bagažo vežimo vietinio susisiekimo maršrutais tarifus nustato geležinkelio įmonė (vežėjas).
 
 2. Keleivių ir bagažo vežimo tarptautinio susisiekimo maršrutais užmokestį nustato geležinkelio įmonė (vežėjas) Lietuvos Respublikos tarptautinių sutarčių dėl tarptautinio susisiekimo nustatyta tvarka.
 
-3. Keleivių vežimo vietinio susisiekimo maršrutais lengvatas ir dėl šių lengvatų taikymo geležinkelio įmonių (vežėjų) patirtų išlaidų kompensavimo (negautų pajamų atlyginimo) tvarką nustato Lietuvos Respublikos įstatymai.
+3. Keleivių važiavimo keleiviniais traukiniais lengvatos ir geležinkelio įmonių (vežėjų) patirtų išlaidų (negautų pajamų) dėl keleiviams taikytų važiavimo keleiviniais traukiniais lengvatų kompensavimo (atlyginimo) tvarka nustatytos Transporto lengvatų įstatyme.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3419, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24575
 
 36 straipsnis. Atsiskaitymų su geležinkelio įmone (vežėju) užtikrinimas
 
@@ -1400,55 +1402,11 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 8. Privalomojo civilinės atsakomybės draudimo tvarką nustato Vyriausybė ar jos įgaliotos institucijos.
 
-11 straipsnis. Saugos sertifikavimas ir įgaliojimai geležinkelių transporto eismo saugos srityje
+11 straipsnis. Neteko galios nuo 2021-01-01
 
-1. Geležinkelio įmonės (vežėjai) ir šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės, pageidaujančios naudotis geležinkelių infrastruktūra, privalo turėti saugos sertifikatą. Geležinkelių infrastruktūros valdytojai, prieš pradėdami naudoti geležinkelių infrastruktūrą, privalo gauti įgaliojimus geležinkelių transporto eismo saugos srityje.
+Straipsnio naikinimas:
 
-2. Saugos sertifikato paskirtis – įrodyti, kad, siekdama kontroliuoti riziką, teikti saugias keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugas geležinkelių tinkle ir (ar) saugiai naudotis geležinkelių infrastruktūra, įmonė parengė savo eismo saugos valdymo sistemą ir laikosi Europos Sąjungos techninės sąveikos specifikacijų, kituose Europos Sąjungos teisės aktuose, nacionalinėse eismo saugos ir posistemių techninėse taisyklėse nustatytų reikalavimų.
-
-3. Saugos sertifikatą sudaro:
-
-1) liudijimas, patvirtinantis, kad geležinkelio įmonė (vežėjas) ir šio Kodekso 28 straipsnio 3 dalyje nurodyta įmonė turi eismo saugos valdymo sistemą, atitinkančią Europos Sąjungos reikalavimus, nurodytus Geležinkelių transporto eismo saugos įstatyme. Ši saugos sertifikato dalis, išduota geležinkelio įmonei (vežėjui) Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje, galioja Lietuvos Respublikoje keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugai, kuriai išduotas liudijimas, teikti, o išduota šio Kodekso 28 straipsnio 3 dalyje nurodytai įmonei – Lietuvos Respublikoje;
-
-2) liudijimas, patvirtinantis, kad geležinkelio įmonė (vežėjas), teikianti keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugas geležinkelių tinkle, ir šio Kodekso 28 straipsnio 3 dalyje nurodyta įmonė, kuri naudojasi geležinkelių infrastruktūra, atitinka nustatytus geležinkelių transporto eismo saugos ir sąveikos reikalavimus. Geležinkelio įmonė (vežėjas) ir šio Kodekso 28 straipsnio 3 dalyje nurodyta įmonė atitinka šiame punkte nurodytus reikalavimus, jeigu jos laikosi Europos Sąjungos techninės sąveikos specifikacijų, nacionalinių eismo saugos taisyklių, posistemių techninių taisyklių ir geležinkelio įmonės (vežėjo) darbuotojų kvalifikacija atitinka teisės aktų reikalavimus, o geležinkelių riedmenys atitinka techninius, eksploatacinius ir geležinkelių transporto eismo saugos reikalavimus. Ši saugos sertifikato dalis išduodama ir galioja tik saugos sertifikate nurodytoje Lietuvos Respublikos geležinkelių infrastruktūros dalyje.
-
-4. Įgaliojimai geležinkelių transporto eismo saugos srityje patvirtina, kad:
-
-1) geležinkelių infrastruktūros valdytojas turi eismo saugos valdymo sistemą, atitinkančią Geležinkelių transporto eismo saugos įstatyme nustatytus reikalavimus;
-
-2) geležinkelių infrastruktūros valdytojas atitinka nustatytus geležinkelių transporto eismo saugos reikalavimus. Geležinkelių infrastruktūros valdytojas laikosi šiame punkte nurodytų reikalavimų, jeigu jis užtikrina saugų geležinkelių infrastruktūros projektavimą, valdymą, priežiūrą ir naudojimą bei traukinių eismo valdymą ir organizavimą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
-
-5. Geležinkelių transporto eismo saugos institucija priima sprendimus:
-
-1) dėl saugos sertifikatų, nurodytų šio straipsnio 3 dalyje, išdavimo Lietuvos Respublikoje registruotoms geležinkelio įmonėms (vežėjams), taip pat įmonėms, nurodytoms šio Kodekso 28 straipsnio 3 dalyje, šių sertifikatų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo, atnaujinimo, papildymo ir pakeitimo;
-
-2) dėl saugos sertifikatų liudijimų, nurodytų šio straipsnio 3 dalies 2 punkte, išdavimo kitų Europos Sąjungos valstybių narių geležinkelio įmonėms (vežėjams), šių liudijimų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo, atnaujinimo, papildymo ir pakeitimo;
-
-3) dėl įgaliojimų geležinkelių transporto eismo saugos srityje suteikimo, jų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo, atnaujinimo ir pakeitimo.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
-
-Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
-
-6. Saugos sertifikatų ir įgaliojimų geležinkelių transporto eismo saugos srityje išdavimo ir suteikimo, jų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo, atnaujinimo, papildymo ir pakeitimo tvarką nustato susisiekimo ministras.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
-
-Straipsnio pakeitimai:
-
-Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
-
-Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
-
-Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
+Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 
 17 straipsnis. Geležinkelio stotis
 
