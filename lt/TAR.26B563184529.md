@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,9 +18,17 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-01-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
+
+TAR pastaba. Kituose įstatymuose vartojamos sąvokos „valstybei svarbus ekonominis projektas“ ir „valstybei svarbus kultūrinis projektas“ yra tapačios sąvokai „Seimo ir (ar) Vyriausybės nutarimu valstybei svarbiu pripažintas projektas“.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 4, 6, 17, 20, 23 ir 28 straipsnių pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2014-01-01:
 
@@ -72,7 +80,11 @@ BENDROSIOS NUOSTATOS
 
 12. Planuojama teritorija – teritorija, kuriai rengiamas teritorijų planavimo dokumentas.
 
-13. Prioritetinės plėtros teritorijos – savivaldybės ir vietovės lygmens bendruosiuose planuose išskirtos urbanizuojamos teritorijos, kuriose savivaldybė įsipareigoja vystyti socialinę ir (ar) inžinerinę infrastruktūrą.
+13. Prioritetinės plėtros teritorijos – savivaldybės ir vietovės lygmens bendruosiuose planuose išskirtos urbanizuotos ir (ar) urbanizuojamos teritorijos (jų dalys), kuriose savivaldybė įsipareigoja vystyti socialinę ir (ar) inžinerinę infrastruktūrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 14. Socialinė infrastruktūra – infrastruktūra, kurią sudaro kultūros, švietimo, visuomenės sveikatos saugos, sporto ir sveikatingumo, rekreacijos ir turizmo, religinės paskirties ir kiti viešojo naudojimo objektai.
 
@@ -94,7 +106,11 @@ BENDROSIOS NUOSTATOS
 
 23. Teritorijos naudojimo tipas – teritorijų planavimo dokumentuose nurodoma planuojamos teritorijos kategorija, apimanti pagrindinę žemės naudojimo paskirtį, galimus žemės naudojimo būdus ir galimas vyraujančias statinių ar jų grupių paskirtis. Kartu nustatomi didžiausi užstatymo intensyvumo ir užstatymo tankio rodikliai.
 
-24. Teritorijos planavimo sąlygos – planuojamai teritorijai taikomos ūkio šakų plėtros programų ir kitų strateginio planavimo dokumentų nuostatos, aukštesnio lygmens teritorijų planavimo dokumentų sprendiniai ir teisės aktais pagrįsti planavimo sąlygas pateikiančios institucijos reikalavimai dėl teritorijų planavimo dokumentuose būtinų nustatyti privalomųjų nuostatų, privalomųjų reikalavimų ar teritorijos naudojimo reglamentų, taip pat inžinerinių tinklų ir susisiekimo komunikacijų prisijungimo reikalavimai.
+24. Teritorijos planavimo sąlygos – planuojamai teritorijai taikomi aukštesnio lygmens teritorijų planavimo dokumentų sprendiniai, Lietuvos Respublikos strateginio valdymo įstatyme nurodytų, išskyrus teritorijų planavimo dokumentus, atitinkamų planavimo dokumentų (toliau – planavimo dokumentai) nuostatos ir teisės aktais pagrįsti planavimo sąlygas pateikiančios institucijos reikalavimai dėl teritorijų planavimo dokumentuose būtinų nustatyti privalomųjų nuostatų, privalomųjų reikalavimų ar teritorijos naudojimo reglamentų, taip pat inžinerinių tinklų ir susisiekimo komunikacijų prisijungimo reikalavimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 25. Teritorijos vystymas – planuojamos teritorijos ekonominės, socialinės ir (ar) aplinkos būklės urbanistiniai kokybiniai pokyčiai ir kiekybinė plėtra.
 
@@ -132,7 +148,11 @@ BENDROSIOS NUOSTATOS
 
 42. Užstatymo tūrio rodiklis – pramonės ir sandėliavimo ar inžinerinės infrastruktūros teritorijose nustatomas statinių tūrio santykis su žemės sklypo plotu.
 
-43. Valstybei svarbus projektas – Lietuvos Respublikos Seimo (toliau – Seimas) nutarimu pripažintas ypatingos valstybinės svarbos projektas, Seimo ir (ar) Vyriausybės nutarimu valstybei svarbiu pripažintas ekonominis ar kultūrinis projektas.
+43. Valstybei svarbus projektas – Lietuvos Respublikos Seimo nutarimu pripažintas ypatingos valstybinės svarbos projektas, įstatymu, Seimo ir (ar) Vyriausybės nutarimu valstybei svarbiu pripažintas projektas, taip pat Lietuvos Respublikos investicijų įstatymo nustatyta tvarka į stambių projektų sąrašą įtrauktas stambus projektas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
 
 44. Visuomenė – vienas arba daugiau fizinių ir (ar) juridinių asmenų, jų asociacijos, organizacijos arba grupės.
 
@@ -184,11 +204,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
-6. Krašto apsaugos tikslams skirtų teritorijų žemės valdytojai ir naudotojai vadovaujasi vietovės lygmens bendrojo plano sprendiniais, jeigu jis neparengtas, – savivaldybės lygmens bendrojo plano sprendiniais, o neurbanizuotose ir neurbanizuojamose teritorijose – ir specialiojo teritorijų planavimo dokumentais.
+6. Krašto apsaugos tikslams skirtų teritorijų žemės valdytojai ir naudotojai vadovaujasi vietovės lygmens bendrojo plano sprendiniais, jeigu jis neparengtas, – savivaldybės lygmens bendrojo plano sprendiniais, o neurbanizuotose ir neurbanizuojamose teritorijose – ir specialiojo teritorijų planavimo dokumentais, o Investicijų įstatyme nurodytiems stambiems projektams įgyvendinti ar pritraukti skirtos teritorijos (toliau – stambiems projektams skirtos teritorijos) vystomos vadovaujantis valstybei svarbių projektų teritorijų planavimo dokumentais arba vietovės lygmens bendrojo plano sprendiniais, jeigu jis neparengtas, – savivaldybės lygmens bendrojo plano sprendiniais.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
 
 5 straipsnis. Teritorijų planavimo dokumentų rūšys
 
@@ -242,13 +266,19 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 2. Savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentų rengimą organizuoja savivaldybės administracijos direktorius, išskyrus šio straipsnio 1 dalyje nurodytus teritorijų planavimo dokumentus ir atvejus, kai kiti įstatymai nustato kitus specialiojo teritorijų planavimo organizatorius.
 
-3. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi planavimo iniciatyvos teisę (toliau – planavimo iniciatoriai) ir gali Vyriausybės nustatyta tvarka ir sąlygomis tik savo valia ir sprendimu teikti savivaldybei ar kitų įstatymų nustatytiems specialiojo teritorijų planavimo organizatoriams pasiūlymus dėl vietovės lygmens teritorijų planavimo dokumentų rengimo, keitimo ar koregavimo ir (ar) finansavimo. Savivaldybės administracijos direktorius ar kitų įstatymų nustatyti specialiojo teritorijų planavimo organizatoriai per 10 darbo dienų nuo šio pasiūlymo gavimo dienos privalo priimti sprendimą tenkinti pasiūlymą arba motyvuotai atmesti pasiūlymą. Lietuvos Respublikos krašto apsaugos ministerija (toliau – Krašto apsaugos ministerija) ar jos įgaliota institucija šio įstatymo 28 straipsnio 51 dalyje nurodytais atvejais Vyriausybės nustatyta tvarka ir sąlygomis gali teikti savivaldybei pasiūlymus dėl savivaldybės lygmens ir vietovės lygmens bendrojo plano koregavimo. Savivaldybės administracijos direktorius per 5 darbo dienas nuo pasiūlymo gavimo dienos priima sprendimą dėl atitinkamo bendrojo plano koregavimo pradžios ir planavimo tikslų arba motyvuotai šį pasiūlymą atmeta. Savivaldybės administracijos direktorius ar kitų įstatymų nustatyti specialiojo teritorijų planavimo organizatoriai neturi teisės reikalauti naudotis iniciatyvos teise, kai šiame įstatyme nustatytais atvejais numatytai veiklai įgyvendinti teritorijų planavimas nereikalingas. Priėmus sprendimą rengti, keisti ar koreguoti siūlomą teritorijų planavimo dokumentą, planavimo iniciatoriai su savivaldybės administracijos direktoriumi ar kitų įstatymų nustatytu specialiojo teritorijų planavimo organizatoriumi Vyriausybės nustatyta tvarka ir sąlygomis sudaro teritorijų planavimo proceso inicijavimo sutartį, numatančią teritorijų planavimo dokumento rengimą, keitimą, koregavimą ir (ar) finansavimą (jeigu kitokia teritorijų planavimo dokumentų finansavimo tvarka nenustatyta kituose specialiojo teritorijų planavimo dokumentų rengimą reglamentuojančiuose teisės aktuose). Teritorijų planavimo proceso inicijavimo sutartis skelbiama viešai savivaldybės ar kitų įstatymų nustatyto specialiojo teritorijų planavimo organizatoriaus interneto svetainėje.
+3. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi planavimo iniciatyvos teisę (toliau – planavimo iniciatoriai) ir gali Vyriausybės nustatyta tvarka ir sąlygomis tik savo valia ir sprendimu teikti savivaldybei ar kitų įstatymų nustatytiems specialiojo teritorijų planavimo organizatoriams pasiūlymus dėl vietovės lygmens teritorijų planavimo dokumentų rengimo, keitimo ar koregavimo ir (ar) finansavimo. Savivaldybės administracijos direktorius ar kitų įstatymų nustatyti specialiojo teritorijų planavimo organizatoriai per 10 darbo dienų nuo šio pasiūlymo gavimo dienos privalo priimti sprendimą tenkinti pasiūlymą arba motyvuotai atmesti pasiūlymą. Lietuvos Respublikos krašto apsaugos ministerija ar jos įgaliota institucija šio įstatymo 28 straipsnio 51 dalyje, o Lietuvos Respublikos ekonomikos ir inovacijų ministerija ar jos įgaliota institucija šio įstatymo 28 straipsnio 52 dalyje nurodytais atvejais Vyriausybės nustatyta tvarka ir sąlygomis gali teikti savivaldybei pasiūlymus dėl savivaldybės lygmens ir vietovės lygmens bendrojo plano koregavimo. Savivaldybės administracijos direktorius per 5 darbo dienas nuo Krašto apsaugos ministerijos ar jos įgaliotos institucijos ir per 15 darbo dienų nuo Ekonomikos ir inovacijų ministerijos ar jos įgaliotos institucijos pasiūlymo gavimo dienos priima sprendimą dėl atitinkamo bendrojo plano koregavimo pradžios ir planavimo tikslų arba motyvuotai šį pasiūlymą atmeta. Savivaldybės administracijos direktorius ar kitų įstatymų nustatyti specialiojo teritorijų planavimo organizatoriai neturi teisės reikalauti naudotis iniciatyvos teise, kai šiame įstatyme nustatytais atvejais numatytai veiklai įgyvendinti teritorijų planavimas nereikalingas. Priėmus sprendimą rengti, keisti ar koreguoti siūlomą teritorijų planavimo dokumentą, planavimo iniciatoriai su savivaldybės administracijos direktoriumi ar kitų įstatymų nustatytu specialiojo teritorijų planavimo organizatoriumi Vyriausybės nustatyta tvarka ir sąlygomis sudaro teritorijų planavimo proceso inicijavimo sutartį, numatančią teritorijų planavimo dokumento rengimą, keitimą, koregavimą ir (ar) finansavimą (jeigu kitokia teritorijų planavimo dokumentų finansavimo tvarka nenustatyta kituose specialiojo teritorijų planavimo dokumentų rengimą reglamentuojančiuose teisės aktuose). Teritorijų planavimo proceso inicijavimo sutartis skelbiama viešai savivaldybės ar kitų įstatymų nustatyto specialiojo teritorijų planavimo organizatoriaus interneto svetainėje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
-4. Planavimo iniciatoriai su savivaldybės administracijos direktoriumi ar kitų įstatymų nustatytu specialiojo teritorijų planavimo organizatoriumi Vyriausybės nustatyta tvarka ir sąlygomis prieš tvirtinant teritorijų planavimo dokumentą sudaro teritorijų planavimo dokumento sprendinių įgyvendinimo sutartį, jeigu šiems sprendiniams įgyvendinti reikalingas žemės sklypų pertvarkymas, žemės paėmimas visuomenės poreikiams, inžinerinės ir (ar) socialinės infrastruktūros plėtra, kitais Vyriausybės nustatytais atvejais. Sutartis įsigalioja patvirtinus teritorijų planavimo dokumentą ir skelbiama viešai savivaldybės ar kitų įstatymų nustatyto specialiojo teritorijų planavimo organizatoriaus interneto svetainėje.
+Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
+
+4. Planavimo iniciatoriai su savivaldybės administracijos direktoriumi ar kitų įstatymų nustatytu specialiojo teritorijų planavimo organizatoriumi Vyriausybės nustatyta tvarka ir sąlygomis prieš tvirtinant teritorijų planavimo dokumentą sudaro teritorijų planavimo dokumento sprendinių įgyvendinimo sutartį, jeigu šiems sprendiniams įgyvendinti reikalingas žemės sklypų pertvarkymas, žemės paėmimas visuomenės poreikiams, kitais Vyriausybės nustatytais atvejais. Sprendinių įgyvendinimo sutartis įsigalioja patvirtinus teritorijų planavimo dokumentą ir skelbiama viešai savivaldybės ar kitų įstatymų nustatyto specialiojo teritorijų planavimo organizatoriaus interneto svetainėje. Kai teritorijų planavimo dokumento sprendiniams įgyvendinti reikalinga inžinerinės ir (ar) socialinės infrastruktūros plėtra, planavimo iniciatorius, vadovaudamasis Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymu, įsipareigoja sudaryti savivaldybės infrastruktūros plėtros sutartį. Kai teritorijų planavimo dokumento sprendiniuose numatomas prioritetinės savivaldybės infrastruktūros vystymas, prie savivaldybės infrastruktūros plėtros sutarties pateikiamas jos vystymui reikalingas preliminarus lėšų poreikis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 5. Teritorijų planavimo dokumentų rengėjus pasirenka planavimo organizatoriai Lietuvos Respublikos įstatymų nustatyta tvarka, išskyrus atvejus, kai sudarydamas teritorijų planavimo proceso inicijavimo sutartį planavimo iniciatorius pasirenka teritorijų planavimo dokumentų rengėją. Savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentai rengiami savivaldybės lėšomis, jeigu kiti Lietuvos Respublikos įstatymai nenustato kitaip arba jeigu dėl teritorijų planavimo dokumentų rengimo finansavimo susitariama kitaip pagal planavimo iniciatoriaus ir savivaldybės tarpusavio sutartį, taip pat teritorijų planavimo dokumentų rengimas gali būti finansuojamas iš Europos Sąjungos lėšų.
 
@@ -258,11 +288,19 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 7 straipsnis. Teritorijų planavimo politikos formavimas ir įgyvendinimas
 
-1. Valstybės teritorijos erdvinio vystymo kryptis ir teritorijų naudojimo funkcinius prioritetus nustato Seimas.
+1. Seimas tvirtina Lietuvos Respublikos teritorijos bendrojo plano koncepciją, nustatančią ilgalaikes valstybės teritorijos (įskaitant kontinentinį šelfą ir išskirtinę ekonominę zoną Baltijos jūroje) erdvinio vystymo kryptis ir teritorijų naudojimo funkcinius prioritetus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 2. Vyriausybė formuoja valstybės politiką teritorijų planavimo srityje:
 
-1) teikia Seimui tvirtinti valstybės teritorijos erdvinio vystymo kryptis ir teritorijų naudojimo funkcinius prioritetus;
+1) teikia Seimui tvirtinti Lietuvos Respublikos teritorijos bendrojo plano koncepciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 2) tvirtina valstybės teritorijos ar jos dalies bendruosius planus ir numato valstybės biudžeto lėšas jų rengimui, įgyvendinimui ir įgyvendinimo stebėsenai;
 
@@ -344,7 +382,11 @@ Kompleksinio teritorijų planavimo dokumentai rengiami vadovaujantis šiuo įsta
 
 11 straipsnis. Valstybės lygmens bendrieji planai, objektai ir uždaviniai
 
-1. Valstybės teritorijos bendrasis planas privalo būti parengtas pagal Seimo nustatytas valstybės teritorijos erdvinio vystymo kryptis ir teritorijų naudojimo funkcinius prioritetus. Valstybės teritorijos bendrojo plano objektas – Lietuvos Respublikos teritorija (įskaitant kontinentinį šelfą ir išskirtinę ekonominę zoną Baltijos jūroje).
+1. Valstybės teritorijos bendrojo plano sprendiniai privalo būti parengti pagal Lietuvos Respublikos teritorijos bendrojo plano koncepciją. Valstybės teritorijos bendrojo plano objektas – Lietuvos Respublikos teritorija (įskaitant kontinentinį šelfą ir išskirtinę ekonominę zoną Baltijos jūroje).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 2. Valstybės teritorijos bendrasis planas galioja neterminuotai.
 
@@ -380,7 +422,11 @@ Kompleksinio teritorijų planavimo dokumentai rengiami vadovaujantis šiuo įsta
 
 6) detalizuoti valstybei svarbių projektų objektų išdėstymą.
 
-8. Planavimo organizatorius, įvertinęs konkrečius visuomenės poreikius, socialinius, ekonominius planuojamos teritorijos ypatumus, strateginio planavimo dokumentus, rengiamo bendrojo plano mastelį, planavimo darbų programoje nustato planuojamą ne trumpesnį negu 20 metų laikotarpį ir papildomus teisės aktais pagrįstus planavimo uždavinius.
+8. Planavimo organizatorius, įvertinęs konkrečius visuomenės poreikius, socialinius, ekonominius planuojamos teritorijos ypatumus, planavimo dokumentus, rengiamo bendrojo plano mastelį, planavimo darbų programoje nustato planuojamą ne trumpesnį negu 20 metų laikotarpį ir papildomus teisės aktais pagrįstus planavimo uždavinius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 12 straipsnis. Valstybės lygmens bendruosiuose planuose nustatomos teritorijos naudojimo privalomosios nuostatos
 
@@ -422,7 +468,11 @@ Valstybės teritorijos ir valstybės teritorijos dalių bendrųjų planų sprend
 
 1) detalizuojant sprendinius žemesnio lygmens teritorijų planavimo dokumentuose;
 
-2) planavimo organizatoriui rengiant sprendinių įgyvendinimo programas, kurios derinamos su ilgos, vidutinės ar trumpalaikės trukmės atitinkamais strateginio planavimo dokumentais, numatančiais investicinių projektų įgyvendinimo planuojamose teritorijose galimybes ir sudarančiais sąlygas pritraukti privačias investicijas.
+2) planavimo organizatoriui rengiant sprendinių įgyvendinimo programas, kurios derinamos su ilgos, vidutinės ar trumpalaikės trukmės planavimo dokumentais, numatančiais investicinių projektų įgyvendinimo planuojamose teritorijose galimybes ir sudarančiais sąlygas pritraukti privačias investicijas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 14 straipsnis. Savivaldybės lygmens ir vietovės lygmens bendrieji planai, objektai ir uždaviniai
 
@@ -446,7 +496,11 @@ Valstybės teritorijos ir valstybės teritorijos dalių bendrųjų planų sprend
 
 4) detalizuoti atitinkamų aukštesnio lygmens kompleksinio teritorijų planavimo dokumentų sprendinius.
 
-7. Planavimo organizatorius, įvertinęs konkrečius visuomenės poreikius, socialinius, ekonominius planuojamos teritorijos ypatumus, strateginio planavimo dokumentus, rengiamo bendrojo plano lygmenį ir mastelį, planavimo darbų programoje nustato planuojamą ne trumpesnį negu 10 metų laikotarpį ir papildomus teisės aktais pagrįstus planavimo uždavinius.
+7. Planavimo organizatorius, įvertinęs konkrečius visuomenės poreikius, socialinius, ekonominius planuojamos teritorijos ypatumus, planavimo dokumentus, rengiamo bendrojo plano lygmenį ir mastelį, planavimo darbų programoje nustato planuojamą ne trumpesnį negu 10 metų laikotarpį ir papildomus teisės aktais pagrįstus planavimo uždavinius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 15 straipsnis. Savivaldybės lygmens ir vietovės lygmens bendruosiuose planuose nustatomi teritorijos naudojimo privalomieji reikalavimai
 
@@ -466,7 +520,11 @@ Valstybės teritorijos ir valstybės teritorijos dalių bendrųjų planų sprend
 
 7) teritorijos, skiriamos objektams, kurių išdėstymas planuojamoje teritorijoje priklauso nuo jų veiklos poveikio aplinkai ir visuomenės sveikatai;
 
-8) išskiriamos urbanizuotos, urbanizuojamos ir neurbanizuojamos teritorijos (arba nurodomos urbanizuotų teritorijų plėtros kryptys), nustatant prioritetinės plėtros teritorijas ir galimą plėtros mastą, prioritetines ir kitas galimas veiklas;
+8) išskiriamos urbanizuotos, urbanizuojamos ir neurbanizuojamos teritorijos (arba nurodomos urbanizuotų teritorijų plėtros kryptys), nustatomos prioritetinės plėtros teritorijos ir galimas plėtros mastas, prioritetinės ir kitos galimos veiklos, prioritetinės savivaldybės infrastruktūros vystymo etapai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 9) mažmeninės prekybos objektų išdėstymo privalomieji reikalavimai (miesto teritorijoje), nurodant didžiausią galimą vieno mažmeninės prekybos objekto bendrą plotą atskirose planuojamos teritorijos dalyse;
 
@@ -506,7 +564,11 @@ Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
 
 2) išduodant statybą leidžiančius dokumentus Lietuvos Respublikos statybos įstatymo (toliau – Statybos įstatymas) nustatyta tvarka, kai detalieji planai ar žemės valdos projektai nerengiami;
 
-3) rengiant sprendinių įgyvendinimo programas, kurios, atsižvelgiant į sprendinių įgyvendinimo lygmenį (valstybės, savivaldybės), derinamos su atitinkamo lygmens strateginio planavimo dokumentais, numatančiais valstybės ir savivaldybės investicijų panaudojimo galimybes planuojamose teritorijose.
+3) rengiant sprendinių įgyvendinimo programas, kurios, atsižvelgiant į sprendinių įgyvendinimo lygmenį (valstybės, savivaldybės), derinamos su atitinkamo lygmens planavimo dokumentais, numatančiais valstybės ir savivaldybės investicijų panaudojimo galimybes planuojamose teritorijose.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 2. Savivaldybės lygmens ir vietovės lygmens bendrųjų planų sprendiniai gali būti įgyvendinami pasinaudojant viešojo ir privataus sektorių partneryste pritraukiant privačias lėšas.
 
@@ -516,7 +578,11 @@ Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
 
 2. Detalieji planai galioja neterminuotai arba tol, kol parengiami ir patvirtinami juos keičiantys to paties lygmens teritorijų planavimo dokumentai.
 
-3. Detalieji planai yra privalomi valstybės ir savivaldybių institucijoms ir suteikia teisę joms veikti planuojant lėšas. Detalieji planai privalomi visiems suplanuotoje teritorijoje veikiantiems fiziniams ir juridiniams asmenims ar kitoms organizacijoms.
+3. Detalieji planai yra privalomi valstybės ir savivaldybių institucijoms, visiems suplanuotoje teritorijoje veikiantiems fiziniams ir juridiniams asmenims ar kitoms organizacijoms, išskyrus šio įstatymo 4 straipsnio 6 dalyje nurodytus atvejus. Detalieji planai suteikia teisę valstybės ir savivaldybių institucijoms veikti planuojant lėšas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
 
 4. Detalieji planai nerengiami:
 
@@ -558,11 +624,21 @@ Nr. XIII-2188, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09843
 
 7) numatyti teritorijas želdynų plėtrai, priemones jiems atkurti, esamų apsaugai ir naudojimui;
 
-8) suformuoti optimalią urbanistinę struktūrą.
+8) suformuoti optimalią urbanistinę struktūrą;
+
+9) nustatyti prioritetinės savivaldybės infrastruktūros vystymo etapus.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 7. Kvartalo, kaip planuojamos teritorijos, ribos kiekvienu konkrečiu atveju nustatomos planavimo darbų programoje, vadovaujantis šio įstatymo 2 straipsnio 10 dalyje nurodytais požymiais ir atsižvelgiant į konkrečius planavimo tikslus ir uždavinius.
 
-8. Planavimo organizatorius, įvertinęs konkrečius visuomenės poreikius, socialinius, ekonominius planuojamos teritorijos ypatumus, strateginio planavimo dokumentus, rengiamo detaliojo plano mastelį, planavimo darbų programoje nustato papildomus teisės aktais pagrįstus planavimo uždavinius.
+8. Planavimo organizatorius, įvertinęs konkrečius visuomenės poreikius, socialinius, ekonominius planuojamos teritorijos ypatumus, planavimo dokumentus, rengiamo detaliojo plano mastelį, planavimo darbų programoje nustato papildomus teisės aktais pagrįstus planavimo uždavinius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 18 straipsnis. Detaliuosiuose planuose nustatomas teritorijos naudojimo reglamentas
 
@@ -578,7 +654,11 @@ Nr. XIII-2188, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09843
 
 5) galimi užstatymo tipai, atitinkantys vietovės lygmens bendrąjį planą, jeigu jis parengtas, statinių statybos zona, riba ir linija;
 
-6) inžinerinei ir socialinei infrastruktūrai reikalingų teritorijų ir (ar) inžinerinių komunikacijų koridorių ribos;
+6) inžinerinei ir socialinei infrastruktūrai reikalingų teritorijų ir (ar) inžinerinių komunikacijų koridorių ribos, savivaldybės prioritetinės infrastruktūros vystymo etapai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 7) galimos žemės sklypų ribos ir (ar) žemės sklypų formavimo ir pertvarkymo principai (mažiausi ir (ar) didžiausi galimi žemės sklypų dydžiai);
 
@@ -620,11 +700,15 @@ Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
 
 2) kai, vadovaujantis įstatymais ir kitais teisės aktais, planuojamai statybai ir numatomai veiklai vykdyti privaloma pakeisti žemės sklypo žemės naudojimo paskirtį ir (ar) būdą, jie keičiami Vyriausybės nustatyta tvarka savivaldybės administracijos direktoriaus sprendimu pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu jis parengtas.
 
-21. Statyba krašto apsaugos tikslams skirtoje teritorijoje esančiame žemės sklype vykdoma pagal savivaldybės lygmens bendrojo plano ir (ar) vietovės lygmens bendrojo plano, jei jis parengtas, sprendinius, vadovaujantis Statybos įstatymo nuostatomis.
+21. Statyba krašto apsaugos tikslams skirtoje teritorijoje ir stambiems projektams skirtose teritorijose esančiuose žemės sklypuose vykdoma pagal valstybei svarbių projektų teritorijų planavimo dokumentus arba savivaldybės lygmens bendrojo plano ir (ar) vietovės lygmens bendrojo plano, jei jis parengtas, sprendinius, vadovaujantis Statybos įstatymo nuostatomis.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
 
 3. Ypatingų inžinerinių statinių, kurių statyba turi būti numatyta teritorijų planavimo dokumentuose, sąrašas nustatomas Kompleksinio teritorijų planavimo dokumentų rengimo taisyklėse.
 
@@ -696,7 +780,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2188, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09843
 
-3. Konkrečius specialiojo teritorijų planavimo uždavinius planavimo organizatorius nustato vadovaudamasis Žemės įstatymu, Lietuvos Respublikos žemės gelmių įstatymu, Miškų įstatymu, Saugomų teritorijų įstatymu, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymu (toliau – Nekilnojamojo kultūros paveldo apsaugos įstatymas), Lietuvos Respublikos želdynų įstatymu, Lietuvos Respublikos turizmo įstatymu, Lietuvos Respublikos kelių įstatymu, Lietuvos Respublikos šilumos ūkio įstatymu, Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymu, Lietuvos Respublikos pajūrio juostos įstatymu, Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymu (toliau – Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas) ir kitais Lietuvos Respublikos įstatymais.
+3. Konkrečius specialiojo teritorijų planavimo uždavinius planavimo organizatorius nustato vadovaudamasis Žemės įstatymu, Lietuvos Respublikos žemės gelmių įstatymu, Miškų įstatymu, Saugomų teritorijų įstatymu, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymu, Lietuvos Respublikos želdynų įstatymu, Lietuvos Respublikos turizmo įstatymu, Lietuvos Respublikos kelių įstatymu, Lietuvos Respublikos šilumos ūkio įstatymu, Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymu, Lietuvos Respublikos pajūrio juostos įstatymu, Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymu, Savivaldybių infrastruktūros plėtros įstatymu ir kitais Lietuvos Respublikos įstatymais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 22 straipsnis. Specialiojo teritorijų planavimo dokumentų teisinė galia
 
@@ -754,6 +842,12 @@ VALSTYBEI SVARBIŲ PROJEKTŲ TERITORIJŲ PLANAVIMAS
 
 8. Prieš valstybei svarbaus projekto teritorijų planavimo dokumento patvirtinimą teritorijų planavimo valstybinę priežiūrą atliekanti institucija ne vėliau kaip per 20 darbo dienų nuo teritorijų planavimo dokumento gavimo dienos patikrina ir pateikia išvadą dėl valstybei svarbaus projekto teritorijų planavimo dokumento tvirtinimo. Jeigu teritorijų planavimo valstybinę priežiūrą atliekančios institucijos išvada yra neigiama, planavimo organizatorius privalo nedelsdamas ištaisyti išvadoje nurodytus trūkumus. Kai išvadoje nurodyti trūkumai ištaisyti, teritorijų planavimo valstybinę priežiūrą atliekanti institucija, laikydamasi šioje dalyje nustatytų terminų ir tvarkos, iš naujo teikia išvadą dėl valstybei svarbaus projekto teritorijų planavimo dokumento tvirtinimo.
 
+9. Vystant stambiems projektams skirtas teritorijas, Ekonomikos ir inovacijų ministerijos pasirinkimu taikoma bendra arba šiame straipsnyje numatyta valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka. Pasirinkus taikyti bendrą teritorijų planavimo dokumentų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarką, šio įstatymo 35 straipsnio 4 dalies nuostatos netaikomos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
+
 PENKTASIS SKIRSNIS
 
 TERITORIJŲ PLANAVIMO PROCESAS
@@ -794,7 +888,11 @@ Nr. XIII-427, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10249
 
 1) esamos būklės įvertinimas – atsižvelgiant į teritorijų planavimo lygmenis, rengiamo dokumento tikslus ir uždavinius, patvirtintą planavimo darbų programą, atliekamas teritorijos gamtinės, demografinės, socialinės, kraštovaizdžio, gamtos ir nekilnojamojo kultūros paveldo apsaugos, aplinkos apsaugos, visuomenės sveikatos saugos, inžinerinės ir ekonominės būklės, valstybės ir viešojo saugumo, krašto apsaugos reikmių vertinimas, teritorijos vystymo tendencijų, probleminių situacijų ar (ir) arealų nustatymas, teisės aktų vertinimas. Pateikiamos galimo teritorijų vystymo prognozės, atsižvelgiant į nustatytas teritorijų vystymo tendencijas;
 
-2) bendrųjų sprendinių formavimas – atsižvelgiant į teritorijų planavimo lygmenis ir planuojamą teritoriją, atitinkamai teritorijai taikomų valstybės ir regionų strateginio planavimo dokumentų nuostatas, nustatomos svarbiausios teritorijos vystymo kryptys, parengiama koncepcija, jeigu planavimo darbų programoje numatyta ją rengti. Vyriausybės nustatyta tvarka atliekamas SPAV, jeigu parengiamuoju etapu priimamas sprendimas šį vertinimą atlikti. Šioje stadijoje teritorijų planavimo dokumentų rengėjas gali kreiptis į planavimo sąlygas išdavusias institucijas dėl planavimo sąlygų įvykdymo, o planavimo sąlygas išdavusios institucijos šiuo atveju privalo teikti konsultacijas. Koncepcijai raštu turi pritarti planavimo organizatorius;
+2) bendrųjų sprendinių formavimas – atsižvelgiant į teritorijų planavimo lygmenis ir planuojamą teritoriją, atitinkamai teritorijai taikomų atitinkamo lygmens planavimo dokumentų nuostatas, nustatomos svarbiausios teritorijos vystymo kryptys, parengiama koncepcija, jeigu planavimo darbų programoje numatyta ją rengti. Vyriausybės nustatyta tvarka atliekamas SPAV, jeigu parengiamuoju etapu priimamas sprendimas šį vertinimą atlikti. Šioje stadijoje teritorijų planavimo dokumentų rengėjas gali kreiptis į planavimo sąlygas išdavusias institucijas dėl planavimo sąlygų įvykdymo, o planavimo sąlygas išdavusios institucijos šiuo atveju privalo teikti konsultacijas. Koncepcijai raštu turi pritarti planavimo organizatorius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 3) sprendinių konkretizavimas – atsižvelgiant į teritorijų planavimo lygmenis, planavimo tikslus ir uždavinius, parengiami teritorijų planavimo dokumentų konkretūs sprendiniai, kuriuose nustatomos privalomosios nuostatos, privalomieji reikalavimai ar teritorijos naudojimo reglamentai.
 
@@ -820,11 +918,19 @@ Nr. XIII-427, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10249
 
 1. Kompleksinio teritorijų planavimo dokumentų derinimo, tikrinimo, tvirtinimo ir įsigaliojimo tvarką nustato šis įstatymas ir Aplinkos ministerijos patvirtintos Kompleksinio teritorijų planavimo dokumentų rengimo taisyklės.
 
-2. Valstybės lygmens kompleksinio teritorijų planavimo dokumentų derinimo procedūra atliekama šio dokumento sprendinius pateikus derinti planavimo sąlygas išdavusioms institucijoms ir kitoms derinančioms institucijoms, nurodytoms Kompleksinio teritorijų planavimo dokumentų rengimo taisyklėse (toliau – derinančios institucijos). Teritorijų planavimo dokumentai šiose institucijose turi būti išnagrinėti ir dokumentų derinimo ar atsisakymo juos derinti išvada pateikta per 20 darbo dienų (dėl savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentų – per 15 darbo dienų) nuo planavimo organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos. Derinimo procedūros atliekamos ir sprendimai derinti ar nederinti kompleksinio teritorijų planavimo dokumentą paskelbiami Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. Kompleksinio teritorijų planavimo dokumentas yra suderintas, jeigu jam pritarė ir pateikė išvadas visos derinant teritorijų planavimo dokumentą dalyvaujančios derinančios institucijos.
+2. Valstybės lygmens kompleksinio teritorijų planavimo dokumentų derinimo procedūra atliekama šio dokumento sprendinius pateikus derinti planavimo sąlygas išdavusioms institucijoms ir kitoms derinančioms institucijoms, nurodytoms Kompleksinio teritorijų planavimo dokumentų rengimo taisyklėse (toliau – derinančios institucijos). Teritorijų planavimo dokumentai šiose institucijose turi būti išnagrinėti ir dokumentų derinimo ar atsisakymo juos derinti išvada pateikta per 20 darbo dienų (dėl savivaldybės lygmens teritorijų planavimo dokumentų – per 15 darbo dienų, dėl vietovės lygmens teritorijų planavimo dokumentų – per 10 darbo dienų) nuo planavimo organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos. Derinimo procedūros atliekamos ir sprendimai derinti kompleksinio teritorijų planavimo dokumentą ar jo nederinti paskelbiami Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. Kompleksinio teritorijų planavimo dokumentas yra suderintas, jeigu jam pritarė ir pateikė išvadas visos derinant teritorijų planavimo dokumentą dalyvaujančios derinančios institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 3. Derinančios institucijos, gavusios derinti valstybės lygmens kompleksinio teritorijų planavimo dokumentus, pagal kompetenciją patikrina, ar:
 
-1) valstybės lygmens kompleksinio teritorijų planavimo dokumentai atitinka ūkio šakų plėtros programas ir strateginių dokumentų nuostatas;
+1) valstybės lygmens kompleksinio teritorijų planavimo dokumentai atitinka atitinkamo lygmens planavimo dokumentų nuostatas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 2) įvykdytos planavimo sąlygos (planavimo sąlygų reikalavimų įgyvendinimas kompensacinėmis ar alternatyviomis priemonėmis derinamas su planavimo sąlygas išdavusiomis institucijomis);
 
@@ -854,7 +960,11 @@ Nr. XII-1719, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08064
 
 6. Savivaldybės lygmens ir vietovės lygmens kompleksinio teritorijų planavimo dokumentų derinimo metu patikrinama, ar:
 
-1) pateiktas derinti kompleksinio teritorijų planavimo dokumentas atitinka ūkio šakų plėtros programas ir strateginių dokumentų nuostatas, galiojančius aukštesnio ir to paties lygmens teritorijų planavimo dokumentų sprendinius, specialiąsias žemės naudojimo sąlygas ir teritorijų planavimo normų reikalavimus, besiribojančių savivaldybių bendruosiuose planuose nurodytus sprendinius, šio įstatymo 6 straipsnio 1 dalyje nurodytus teritorijų planavimo dokumentus;
+1) pateiktas derinti kompleksinio teritorijų planavimo dokumentas atitinka atitinkamo lygmens planavimo dokumentų nuostatas, galiojančius aukštesnio ir to paties lygmens teritorijų planavimo dokumentų sprendinius, specialiąsias žemės naudojimo sąlygas ir teritorijų planavimo normų reikalavimus, besiribojančių savivaldybių bendruosiuose planuose nurodytus sprendinius, šio įstatymo 6 straipsnio 1 dalyje nurodytus teritorijų planavimo dokumentus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 2) pateiktas derinti kompleksinio teritorijų planavimo dokumentas neprieštarauja visuomenės (viešajam) interesui, įstatymams ir kitiems teisės aktams, reglamentuojantiems teritorijų planavimo dokumentų rengimą, ar jų sprendinių įgyvendinimas nedaro neigiamo poveikio kitoms (gretimoms) teritorijoms;
 
@@ -862,7 +972,11 @@ Nr. XII-1719, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08064
 
 7. Jeigu iškyla neaiškumų ar yra skirtinga Teritorijų planavimo komisijos narių nuomonė dėl kompleksinio teritorijų planavimo dokumento derinimo, planavimo organizatoriaus ar Teritorijų planavimo komisijos narių motyvuotu prašymu Teritorijų planavimo komisijos pirmininkas, nepasibaigus derinimo terminui, gali organizuoti Teritorijų planavimo komisijos posėdį.
 
-8. Savivaldybės lygmens ir vietovės lygmens kompleksinio teritorijų planavimo dokumento derinimas atliekamas ne vėliau kaip per 10 darbo dienų nuo planavimo organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos. Visos derinimo procedūros atliekamos ir sprendimai derinti ar nederinti teritorijų planavimo dokumentą paskelbiami Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. Kompleksinio teritorijų planavimo dokumentas yra suderintas, jeigu jam pritaria Teritorijų planavimo komisijos nariai. Jeigu Teritorijų planavimo komisijos narys nepritaria sprendimui, jis nepritarimo motyvus raštu per 5 darbo dienas nuo planavimo organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos pateikia Teritorijų planavimo komisijos pirmininkui. Jeigu šios komisijos pirmininkas mano, kad komisijos nario nepritarimas nėra tinkamai motyvuotas, jis kreipiasi į instituciją, delegavusią šį komisijos narį, prašydamas patvirtinti arba pripažinti nepagrįstais komisijos nario nepritarimo motyvus. Institucija, į kurią kreipiasi Teritorijų planavimo komisijos primininkas, privalo per 5 darbo dienas nuo tokio kreipimosi gavimo dienos pateikti savo išvadas.
+8. Savivaldybės lygmens kompleksinio teritorijų planavimo dokumento derinimas atliekamas ne vėliau kaip per 15 darbo dienų, vietovės lygmens kompleksinio teritorijų planavimo dokumento – ne vėliau kaip per 10 darbo dienų nuo planavimo organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos. Visos derinimo procedūros atliekamos ir sprendimai derinti teritorijų planavimo dokumentą ar jo nederinti paskelbiami Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. Kompleksinio teritorijų planavimo dokumentas yra suderintas, jeigu jam pritaria Teritorijų planavimo komisijos nariai. Jeigu Teritorijų planavimo komisijos narys pagal kompetenciją nepritaria pateikto derinti kompleksinio teritorijų planavimo dokumento sprendiniams, jis nepritarimo motyvus raštu per 5 darbo dienas nuo planavimo organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos pateikia Teritorijų planavimo komisijos pirmininkui. Jeigu Teritorijų planavimo komisijos pirmininkas mano, kad Teritorijų planavimo komisijos nario nepritarimas nėra tinkamai motyvuotas, jis kreipiasi į instituciją, delegavusią šį Teritorijų planavimo komisijos narį, prašydamas patvirtinti arba pripažinti nepagrįstais Teritorijų planavimo komisijos nario nepritarimo motyvus. Institucija, į kurią kreipiasi Teritorijų planavimo komisijos pirmininkas, privalo per 5 darbo dienas nuo tokio kreipimosi gavimo dienos pateikti savo išvadas. Teritorijų planavimo komisijos pirmininkas, atsižvelgdamas į motyvuotus rašytinius Teritorijų planavimo komisijos narių pasiūlymus, gali pratęsti teritorijų planavimo dokumento derinimo terminus, bet ne ilgiau kaip 5 darbo dienoms, apie tai pranešdamas planavimo organizatoriui ir Teritorijų planavimo komisijos nariams Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 9. Jeigu kompleksinio teritorijų planavimo dokumentui nepritariama, pateikiami nepritarimo motyvai. Teritorijų planavimo komisija kompleksinio teritorijų planavimo dokumentų derinimo metu negali nustatyti naujų planavimo sąlygose nenumatytų reikalavimų.
 
@@ -870,7 +984,11 @@ Nr. XII-1719, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08064
 
 11. Kompleksinio teritorijų planavimo dokumentą derinantys asmenys už savo pagal kompetenciją priimtų sprendimų teisėtumą asmeniškai atsako įstatymų nustatyta tvarka.
 
-12. Jeigu per šio straipsnio nustatytus terminus planavimo organizatoriui nepateikiama išvada ar Teritorijų planavimo komisijos posėdžio protokolas dėl kompleksinio teritorijų planavimo dokumento derinimo ar atsisakymo jį derinti, laikoma, kad derinanti institucija ar Teritorijų planavimo komisijos narys kompleksinio teritorijų planavimo dokumentą suderino ir jis gali būti teikiamas tikrinti teritorijų planavimo valstybinę priežiūrą atliekančiai institucijai.
+12. Jeigu per šiame straipsnyje nustatytus terminus planavimo organizatoriui nepateikiama išvada ar Teritorijų planavimo komisijos posėdžio protokolas dėl kompleksinio teritorijų planavimo dokumento derinimo ar atsisakymo jį derinti, laikoma, kad derinanti institucija ar Teritorijų planavimo komisija kompleksinio teritorijų planavimo dokumentą suderino ir jis gali būti teikiamas tikrinti teritorijų planavimo valstybinę priežiūrą atliekančiai institucijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 13. Suderintas kompleksinio teritorijų planavimo dokumentas teikiamas tikrinti teritorijų planavimo valstybinę priežiūrą atliekančiai institucijai. Teritorijų planavimo valstybinę priežiūrą atliekanti institucija patikrina kompleksinio teritorijų planavimo dokumentus ir per 20 darbo dienų (savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentus – per 15 darbo dienų) nuo planavimo organizatoriaus prašymo patikrinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos pateikia jam kompleksinio teritorijų planavimo dokumento patikrinimo aktą. Jeigu kompleksinio teritorijų planavimo dokumento patikrinimo aktas per šiame straipsnyje numatytą terminą nepateikiamas planavimo organizatoriui ir nenurodomos šio straipsnio 14 dalyje numatytos nepritarimo kompleksinio teritorijų planavimo dokumentui priežastys, laikoma, kad teritorijų planavimo valstybinę priežiūrą atliekanti institucija patikrino ir pritarė parengtam kompleksinio teritorijų planavimo dokumentui.
 
@@ -892,7 +1010,11 @@ Nr. XII-1022, 2014-07-15, paskelbta TAR 2014-07-22, i. k. 2014-10425
 
 2. Aplinkos ministerija parengtą valstybės teritorijos bendrąjį planą, valstybės teritorijos dalies bendrąjį planą teikia tvirtinti Vyriausybei. Valstybės teritorijos bendrasis planas, valstybės teritorijos dalies bendrasis planas patvirtinami ar atsisakoma juos tvirtinti vadovaujantis Vyriausybės darbo reglamentu per 3 mėnesius nuo jų pateikimo tvirtinti dienos.
 
-3. Savivaldybės administracijos direktorius savivaldybės bendrąjį planą ar savivaldybės dalies bendrąjį planą teikia tvirtinti savivaldybės tarybai. Savivaldybės bendrasis planas ar savivaldybės dalies bendrasis planas patvirtinami ar atsisakoma juos tvirtinti per 20 darbo dienų nuo jų pateikimo tvirtinti dienos.
+3. Savivaldybės administracijos direktorius savivaldybės bendrąjį planą ar savivaldybės dalies bendrąjį planą kartu su šiuose dokumentuose suplanuotai prioritetinei savivaldybės infrastruktūrai vystyti reikalingu preliminariu lėšų poreikiu teikia tvirtinti savivaldybės tarybai. Savivaldybės bendrasis planas ar savivaldybės dalies bendrasis planas patvirtinami ar atsisakoma juos tvirtinti per 20 darbo dienų nuo jų pateikimo tvirtinti dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 4. Detaliuosius planus tvirtina savivaldybės administracijos direktorius. Detalusis planas patvirtinamas ar atsisakoma jį tvirtinti per 5 darbo dienas nuo teritorijų planavimo valstybinę priežiūrą atliekančios institucijos kompleksinio teritorijų planavimo dokumento patikrinimo akto gavimo dienos.
 
@@ -914,11 +1036,13 @@ Nr. XII-2643, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24683
 
 1. Kompleksinio teritorijų planavimo dokumentai keičiami sprendimą rengti atitinkamą dokumentą priėmusios valstybės ar savivaldybės institucijos sprendimu dėl dokumento keitimo, taikant šiame įstatyme numatytą teritorijų planavimo procesą ir tą pačią dokumento tvirtinimo procedūrą.
 
-2. Sprendimą dėl kompleksinio teritorijų planavimo dokumento koregavimo priima planavimo organizatorius. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi iniciatyvos teisę siūlyti planavimo organizatoriui koreguoti vietovės lygmens teritorijų planavimo dokumentą šio įstatymo 6 straipsnio 3 ir 4 dalyse nustatyta tvarka. Krašto apsaugos ministerija ar jos įgaliota institucija turi iniciatyvos teisę siūlyti planavimo organizatoriui koreguoti ir savivaldybės lygmens bendrąjį planą šio įstatymo 6 straipsnio 3 ir 4 dalyse nustatyta tvarka.
+2. Sprendimą dėl kompleksinio teritorijų planavimo dokumento koregavimo priima planavimo organizatorius. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi iniciatyvos teisę siūlyti planavimo organizatoriui koreguoti vietovės lygmens teritorijų planavimo dokumentą šio įstatymo 6 straipsnio 3 ir 4 dalyse nustatyta tvarka. Krašto apsaugos ministerija ar jos įgaliota institucija, taip pat Ekonomikos ir inovacijų ministerija ar jos įgaliota institucija turi iniciatyvos teisę siūlyti planavimo organizatoriui koreguoti ir savivaldybės lygmens bendrąjį planą šio įstatymo 6 straipsnio 3 ir 4 dalyse nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
+
+Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
 
 3. Kompleksinio teritorijų planavimo dokumentų korektūros rengimo, derinimo, tikrinimo, tvirtinimo ir įsigaliojimo tvarka ir atvejai nustatyti šiame įstatyme ir Kompleksinio teritorijų planavimo dokumentų rengimo taisyklėse. Kompleksinio teritorijų planavimo dokumento koregavimas tvirtinamas teritorijų planavimo dokumentą tvirtinančio subjekto sprendimu ir registruojamas šio įstatymo nustatyta tvarka.
 
@@ -931,6 +1055,12 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
+
+52. Ekonomikos ir inovacijų ministerijos ar jos įgaliotos institucijos iniciatyva savivaldybės lygmens ir vietovės lygmens bendrieji planai koreguojami, kai stambiems projektams skirtų teritorijų vystymas nenumatytas savivaldybės lygmens ar vietovės lygmens bendruosiuose planuose. Šiuo atveju savivaldybės lygmens ir vietovės lygmens bendrojo plano koregavimas finansuojamas iš Ekonomikos ir inovacijų ministerijai skirtų valstybės biudžeto asignavimų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
 
 6. Planavimo organizatorius, norėdamas keisti ar koreguoti aukštesnio ar to paties lygmens kompleksinio teritorijų planavimo dokumento sprendinius, išskyrus sprendinius tų teritorijų planavimo dokumentų, kurių planavimo organizatoriumi yra jis pats, pateikia norimo keisti ar koreguoti kompleksinio teritorijų planavimo dokumento planavimo organizatoriui motyvuotą pasiūlymą dėl dokumento keitimo ar koregavimo. Norimo keisti ar koreguoti kompleksinio teritorijų planavimo dokumento planavimo organizatorius, įvertinęs pateiktą pasiūlymą, per 10 darbo dienų nuo pasiūlymo pateikimo dienos:
 
@@ -1306,6 +1436,30 @@ Nr. XIII-2188, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09843
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 17, 20 ir 21 straipsnių pakeitimo įstatymas
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 6, 15, 17, 18, 21, 26, 27 ir 39 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 7, 11, 13, 14, 16, 17, 25 ir 26 straipsnių pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 4, 6, 17, 20, 23 ir 28 straipsnių pakeitimo įstatymas
+
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai ir vadovai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
 1. Kompleksinio teritorijų planavimo dokumentų rengėjų ir vadovų teisės:
@@ -1668,7 +1822,11 @@ TERITORIJŲ PLANAVIMO ĮSTATYMO 2, 13, 16, 32 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 
 2. Lietuvos Respublikos teritorijų planavimo dokumentų registras yra valstybės registras. Lietuvos Respublikos teritorijų planavimo dokumentų registrą steigia ir Lietuvos Respublikos teritorijų planavimo dokumentų registro nuostatus tvirtina Vyriausybė.
 
-3. Planavimo organizatoriai duomenis apie patvirtintus teritorijų planavimo dokumentus ir teisės aktus, kuriais patvirtinti teritorijų planavimo dokumentai, Lietuvos Respublikos teritorijų planavimo dokumentų registro nuostatuose nustatyta tvarka privalomai pateikia registruoti ne vėliau kaip per 5 darbo dienas nuo teritorijų planavimo dokumento patvirtinimo dienos. Lietuvos Respublikos teritorijų planavimo dokumentų registro tvarkytojas registruoja patvirtintą teritorijų planavimo dokumentą ir teisės aktą, kuriuo patvirtintas teritorijų planavimo dokumentas, tik tuo atveju, jeigu yra pateikti patvirtinto teritorijų planavimo dokumento sprendiniai Lietuvos Respublikos teritorijų planavimo dokumentų registro nuostatuose nustatyta tvarka.
+3. Teritorijų planavimo dokumentai, parengti Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje, ir teisės aktai, kuriais šie dokumentai patvirtinami, automatiškai perkeliami ir įregistruojami Lietuvos Respublikos teritorijų planavimo dokumentų registro duomenų bazėje Lietuvos Respublikos teritorijų planavimo dokumentų registro nuostatuose nustatyta tvarka. Planavimo organizatoriai duomenis apie patvirtintus teritorijų planavimo dokumentus, pradėtus rengti iki Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinės sistemos sukūrimo, ir teisės aktus, kuriais patvirtinti šie teritorijų planavimo dokumentai, Lietuvos Respublikos teritorijų planavimo dokumentų registro nuostatuose nustatyta tvarka privalomai pateikia registruoti ne vėliau kaip per 5 darbo dienas nuo teritorijų planavimo dokumento patvirtinimo dienos. Lietuvos Respublikos teritorijų planavimo dokumentų registro tvarkytojas registruoja patvirtintą teritorijų planavimo dokumentą ir teisės aktą, kuriuo patvirtintas teritorijų planavimo dokumentas, tik tuo atveju, jeigu yra pateikti patvirtinto teritorijų planavimo dokumento sprendiniai Lietuvos Respublikos teritorijų planavimo dokumentų registro nuostatuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 4. Vadovaujančioji Lietuvos Respublikos teritorijų planavimo dokumentų registro tvarkymo įstaiga – Aplinkos ministerija. Centrinė Lietuvos Respublikos teritorijų planavimo dokumentų registro tvarkymo įstaiga – Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos. Lietuvos Respublikos teritorijų planavimo dokumentų registro tvarkymo įstaigos – savivaldybių administracijos.
 
