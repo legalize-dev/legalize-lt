@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2020-11-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 
@@ -795,23 +795,31 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 
 19 straipsnis. Tabako gaminių vartojimo ribojimas
 
-1. Lietuvos Respublikoje rūkyti (vartoti tabako gaminius ir elektronines cigaretes) draudžiama:
+1. Lietuvos Respublikoje rūkyti (vartoti tabaką, tabako gaminius, su tabako gaminiais susijusius gaminius) draudžiama:
 
 1) visose švietimo, socialinių paslaugų įstaigose, kuriose teikiamos socialinės priežiūros ir (ar) socialinės globos paslaugos vaikams, sveikatos priežiūros įstaigose ir šių įstaigų teritorijose;
 
 2) darbo vietose, esančiose uždarose patalpose. Įmonėse, įstaigose ir organizacijose gali būti įrengtos specialios patalpos (vietos), kuriose leidžiama rūkyti. Rūkymo patalpų (vietų) įrengimo ir eksploatavimo reikalavimus nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija;
 
-3) bendrose gyvenamosiose, kitose bendro naudojimo patalpose, kuriose nerūkantieji gali būti priversti kvėpuoti tabako dūmais užterštu oru;
+3) bendrosios dalinės nuosavybės teise priklausančiose gyvenamosiose patalpose, kitose bendrosios dalinės nuosavybės teisės patalpose ir kitose pastato dalyse;
 
 4) visų rūšių viešajame transporte, išskyrus tolimojo susisiekimo traukinius, kuriuose turi būti numatyti atskiri vagonai nerūkantiesiems ir rūkantiesiems, taip pat orlaivius, kuriuose numatytos atskiros vietos nerūkantiesiems ir rūkantiesiems;
 
 5) restoranuose, kavinėse, baruose, kitose viešojo maitinimo įstaigose, klubuose, diskotekose, interneto kavinėse (interneto klubuose ir pan.), lošimo namuose (kazino), automatų ar bingo salonuose, kitose laisvalaikio praleidimo įstaigose, patalpose, kuriose vyksta sporto varžybos ar kiti renginiai, ir kitose žmonėms aptarnauti skirtose patalpose, išskyrus specialiai įrengtus cigarų ir (ar) pypkių klubus. Cigarų ir (ar) pypkių klubų įrengimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija;
 
-6) transporto priemonių salonuose, jeigu juose yra asmenų iki 18 metų ir (ar) nėščių moterų.
+6) transporto priemonių salonuose, jeigu juose yra asmenų iki 18 metų ir (ar) nėščių moterų;
+
+7) dengtose viešojo transporto stotelių vietose (paviljonuose), vaikų žaidimo aikštelėse ir vietose, kuriose teikiamos viešojo maitinimo paslaugos aptarnaujant pirkėjus lauko sąlygomis (prie lauke esančių stalų, pavėsinėse, kituose lauko įrenginiuose), išskyrus rūkymui skirtas vietas;
+
+8) lauke vykstančių sporto varžybų ar kitų lauke vykstančių renginių metu, išskyrus rūkymui skirtas vietas;
+
+9) daugiabučių namų balkonuose, terasose, lodžijose, nuosavybės teise priklausančiuose atskiriems savininkams, kai bent vienas namo gyventojas prieštarauja rūkymui. Prieštaravimo dėl tabako, tabako gaminių ir su jais susijusių gaminių vartojimo daugiabučių namų balkonuose, terasose ir lodžijose, nuosavybės teise priklausančiuose atskiriems savininkams, pareiškimo savivaldybei, šio prieštaravimo atšaukimo ir informacijos apie daugiabučius namus, kuriuose draudžiama rūkyti, paskelbimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Už informacinių ženklų apie draudimą rūkyti daugiabučio namo balkonuose, terasose ir lodžijose, nuosavybės teise priklausančiuose atskiriems savininkams, įrengimą Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atsakingas to pastato bendrojo naudojimo objektų administratorius, to (tų) daugiabučio (daugiabučių) gyvenamojo (gyvenamųjų) namo (namų) ar kitos paskirties pastatų savininkų bendrija arba savivaldybės vykdomoji institucija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1905, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10695
+
+Nr. XIII-3320, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21261
 
 2. Neteko galios 2007-01-01.
 
@@ -825,11 +833,27 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-1648, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06525
 
-6. Šio straipsnio 1 dalies 3 ir 5 punktai netaikomi bedūmiams naujoviškiems tabako gaminiams.
+6. Neteko galios nuo 2021-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-3320, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21261
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
+
+7. Pastato (buto) savininkas ar kitas fizinis asmuo, kuris naudojasi pastatu (butu) ir jame rūko, privalo užtikrinti, kad tabako dūmai nepatektų į kito savininko pastato (buto) patalpas bei į to paties buto patalpas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3320, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21261
+
+8. Teisę atlikti administracinio nusižengimo tyrimą turinčio pareigūno reikalavimu buto ar patalpos savininkas arba kitų daiktinių teisių turėtojas turi šiam pareigūnui nurodyti asmens, kuris rūkė buto ar patalpos balkone, terasoje, lodžijoje, duomenis (vardą, pavardę ir gyvenamosios vietos adresą). Buto ar patalpos savininkas arba kitų daiktinių teisių turėtojas, nenurodęs asmens, kuris rūkė buto ar patalpos balkone, terasoje, lodžijoje, duomenų, atsako Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3320, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21261
 
 Straipsnio pakeitimai:
 
@@ -1578,6 +1602,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3225, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15138
 
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 papildymo 19-1 straipsniu įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3320, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21261
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 19 straipsnio pakeitimo įstatymas
 
 91 straipsnis. Tabako gaminių gamybos ir realizavimo ataskaitos
 
