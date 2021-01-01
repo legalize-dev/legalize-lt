@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2020-11-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-01-22
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -850,9 +850,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 
-4. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo 17 straipsnio 3, 4 ir 7 dalyse, taip pat paslaugų teikėjai, teikiantys žemės ūkio ar miškininkystės paslaugas pagal paslaugų kvitą, nurodyti šio Įstatymo 17 straipsnio 10 dalyje, turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas, atsižvelgdami į šio Įstatymo 17 straipsnio 3, 4, 7, 10, 11, 12 ir 13 dalių nuostatas, ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą.
+4. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo 17 straipsnio 3, 4 ir 7 dalyse, taip pat paslaugų teikėjai, teikiantys žemės ūkio ar miškininkystės paslaugas pagal paslaugų kvitą, nurodyti šio Įstatymo 17 straipsnio 10 dalyje, turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas, atsižvelgdami į šio Įstatymo 17 straipsnio 3, 4, 7, 10, 11, 12 ir 13 dalių nuostatas, ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą. Susidariusi privalomojo sveikatos draudimo įmokų permokos suma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka pirmiausia įskaitoma privalomojo sveikatos draudimo įmokų mokestinei nepriemokai padengti, po to socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Valstybinio socialinio draudimo fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl šioje dalyje nurodyto asmens kaltės, atlyginti, likusi suma – Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka, suderinta su Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos, įskaitoma Valstybinės mokesčių inspekcijos administruojamų mokesčių mokestinei nepriemokai, nesumokėtoms už administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų sumoms padengti, o kai mokestinės nepriemokos ir nesumokėtų baudų sumų nėra, ši permokos suma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, gavus šioje dalyje nurodyto asmens prašymą, įskaitoma kaip privalomojo sveikatos draudimo įmoka ar jos dalis už būsimus laikotarpius arba grąžinama jos mokėtojui.
 
-TAR pastaba. Asmenys, nurodyti Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio 7 dalyje, moka privalomojo sveikatos draudimo įmokas nuo įstatymo Nr. XIII-612 įsigaliojimo dienos (2018-01-01), o 2019 metais pagal Lietuvos Respublikos sveikatos draudimo įstatymo 18 straipsnio 4 dalies nuostatas perskaičiuoja nuo įstatymo Nr. XIII-612 įsigaliojimo dienos (2018-01-01) 2018 metais sumokėtas privalomojo sveikatos draudimo įmokas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3012, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13047
 
 5. Šio Įstatymo 17 straipsnio 5 dalyje nurodyti asmenys, kurie moka šio Įstatymo 17 straipsnio 1, 2, 3, 6, 7, 9 ir 10 dalyse nurodytas privalomojo sveikatos draudimo įmokas ir (arba) už kuriuos šios įmokos yra mokamos arba kurie yra priskiriami šio Įstatymo 6 straipsnio 4 dalyje išvardytiems asmenims, turi teisę sumokėti šio Įstatymo 17 straipsnio 5 dalyje nurodytas privalomojo sveikatos draudimo įmokas kartą per metus, tačiau ne vėliau kaip iki kitų metų gegužės 1 dienos.
 
