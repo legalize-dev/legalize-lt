@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2020-11-04"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
 
@@ -388,11 +388,23 @@ Nr. XIII-2418, 2019-08-22, paskelbta TAR 2019-08-23, i. k. 2019-13433
 
 1. Valstybės miškų ūkio politikos kryptis nustato Seimas, priimdamas įstatymus.
 
-2. Valstybės miškų ūkio strategiją formuoja bei valstybines miškų ūkio programas rengia Aplinkos ministerija. Aplinkos ministerija, atlikdama miškų ūkio valstybinio valdymo funkcijas:
+2. Valstybės miškų ūkio politikos priemones tvirtina Vyriausybė nacionalinėse plėtros programose. Aplinkos ministerija, atlikdama miškų ūkio valstybinio valdymo funkcijas:
 
-1) organizuoja miškų ūkio strategijos bei valstybinių miškų ūkio plėtros programų rengimą;
+Straipsnio dalies pakeitimai:
 
-2) organizuoja miškingumo didinimo, miško genofondo, kraštovaizdžio ir biologinės įvairovės miškuose išsaugojimo, selekcijos ir sėklininkystės, miško išteklių naudojimo, kitų programų projektų rengimą ir koordinuoja šių programų įgyvendinimą;
+Nr. XIII-3115, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15348
+
+1) rengia nacionalines plėtros programas, kuriose suplanuojamos valstybės miškų ūkio politikos priemonės, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3115, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15348
+
+2) organizuoja miškingumo didinimo, miško genofondo, kraštovaizdžio ir biologinės įvairovės miškuose išsaugojimo, selekcijos ir sėklininkystės, miško išteklių naudojimo, kitų valstybės miškų ūkio politiką įgyvendinančių nacionalinių plėtros programų priemonių rengimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3115, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15348
 
 3) rengia teisės aktų miškų ūkio klausimais projektus;
 
