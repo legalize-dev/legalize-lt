@@ -4,7 +4,7 @@ identifier: "TAR.F0E2E67B1F2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-03-19"
-last_updated: "2020-04-24"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2020-04-24 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-04-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
 
@@ -114,13 +114,13 @@ BENDROSIOS NUOSTATOS
 
 32. Vietinis turizmas – Lietuvos Respublikos gyventojų kelionės po Lietuvos Respubliką.
 
-33. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos vartotojų teisių apsaugos įstatyme, Lietuvos Respublikos civilinės saugos įstatyme, Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme ir Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme.
-
-TAR pastaba. 33 dalies nuostatos taikomos ir iki įstatymo Nr. XIII-2862 įsigaliojimo dienos (2020-04-24) sudarytoms organizuotų turistinių kelionių sutartims, pagal kurias neįvyko organizuotos turistinės kelionės dėl apribojimų, taikytų iki šio įstatymo įsigaliojimo.
+33. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos vartotojų teisių apsaugos įstatyme, Lietuvos Respublikos civilinės saugos įstatyme, Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme ir Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2862, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08529
+
+Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
 
 3 straipsnis. Turizmo paslaugų rūšys
 
@@ -842,7 +842,11 @@ TURIZMO VALDYMAS
 
 41 straipsnis. Turizmo taryba
 
-1. Turizmo plėtros ir skatinimo klausimams nagrinėti ir pasiūlymams strateginį Lietuvos turizmo veiklos planavimą atliekančioms valstybės institucijoms teikti iš turizmo verslo asociacijų, kitų asociacijų ar organizacijų, Lietuvos savivaldybių asociacijos ir valstybės institucijų atstovų sudaroma nuolatinė Turizmo taryba. Ne mažiau kaip pusę Turizmo tarybos narių turi sudaryti šioje dalyje nurodytų asociacijų ar organizacijų deleguoti atstovai.
+1. Turizmo plėtros ir skatinimo klausimams nagrinėti ir pasiūlymams turizmo valdymo funkcijas atliekančioms institucijoms teikti iš turizmo verslo asociacijų, kitų asociacijų ar organizacijų, Lietuvos savivaldybių asociacijos ir valstybės institucijų atstovų sudaroma nuolatinė Turizmo taryba. Ne mažiau kaip pusę Turizmo tarybos narių turi sudaryti šioje dalyje nurodytų asociacijų ar organizacijų deleguoti atstovai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
 
 2. Turizmo taryba sudaroma ir veikia vadovaudamasi ekonomikos ir inovacijų ministro patvirtintais Turizmo tarybos nuostatais.
 
@@ -864,7 +868,7 @@ Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -984,29 +988,47 @@ Nr. XIII-2862, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08529
 
 Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 15 straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 36, 37, 38, 39, 40 ir 41 straipsnių pakeitimo įstatymas
+
+part_1554d008ecbe48c7b9b5eb237e01af53_end
+
 36 straipsnis. Turizmo politikos formavimas ir turizmo valdymas
 
 1. Turizmo valdymo funkcijas Lietuvos Respublikoje atlieka Lietuvos Respublikos Seimas, Vyriausybė, Ekonomikos ir inovacijų ministerija, Vyriausybės įgaliota institucija, savivaldybės.
 
-Straipsnio dalies pakeitimai:
+2. Vyriausybė:
 
-Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
-
-2. Turizmo plėtros politikos kryptis nustato Seimas, tvirtindamas Lietuvos turizmo plėtros ilgalaikę strategiją ir priimdamas įstatymus.
-
-3. Vyriausybė:
-
-1) parengia Lietuvos turizmo plėtros ilgalaikę strategiją;
+1) Nacionaliniame pažangos plane nustato turizmo politikos pažangos uždavinius, nacionalinėse plėtros programose – šiuos uždavinius įgyvendinančias priemones;
 
 2) atlieka kitas įstatymų nustatytas funkcijas.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
 
 37 straipsnis. Ekonomikos ir inovacijų ministerija
 
 Ekonomikos ir inovacijų ministerija:
 
-1) atlieka strateginį Lietuvos turizmo veiklos planavimą;
+1) dalyvauja rengiant Nacionalinį pažangos planą dėl turizmo politikos pažangos uždavinių nustatymo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
 
 2) formuoja valstybės politiką turizmo srityje, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
+
+21) rengia turizmo politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas ir (arba) priemones, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
 
 3) rengia ir teikia pasiūlymus Vyriausybei dėl kurortų ir kurortinių teritorijų plėtros;
 
@@ -1022,11 +1044,13 @@ Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
 
 Vyriausybės įgaliota institucija, įgyvendindama šio įstatymo nuostatas, atlieka šias funkcijas:
 
-1) įgyvendina strateginių Lietuvos turizmo veiklos planavimo dokumentų nuostatas turizmo paslaugų teikėjų veiklos priežiūros srityje;
+1) įgyvendina turizmo politiką turizmo paslaugų teikėjų veiklos priežiūros srityje;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+
+Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
 
 2) atlieka kelionių organizatorių, kelionių pardavimo agentų, turizmo paslaugų rinkinių pardavėjų, apgyvendinimo paslaugų teikėjų priežiūrą;
 
@@ -1048,7 +1072,11 @@ Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
 
 2. Viešoji įstaiga „Keliauk Lietuvoje“:
 
-1) įgyvendina strateginių Lietuvos turizmo veiklos planavimo dokumentų nuostatas turizmo rinkodaros srityje;
+1) įgyvendina turizmo politikos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų priemones ir jas įgyvendinančius projektus turizmo rinkodaros srityje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
 
 2) teikia viešąsias paslaugas, rengdama ir įgyvendindama projektus, skirtus valstybės turizmo įvaizdžio kūrimo ir žinomumo didinimui bei atvykstamojo ir vietinio turizmo plėtrai;
 
@@ -1070,7 +1098,11 @@ Savivaldybės:
 
 1) skatina turizmo verslą kaip darbo vietų kūrimo ir gyventojų užimtumo priemonę;
 
-2) vadovaudamosi Lietuvos turizmo veiklos strateginių dokumentų nuostatomis, nustato savivaldybės turizmo plėtros priemones savivaldybės strateginio planavimo dokumentuose;
+2) turizmo politikos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų priemones įgyvendina per savivaldybės planavimo dokumentus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
 
 3) rengia ir įgyvendina viešosios turizmo ir poilsio infrastruktūros projektus;
 
