@@ -4,7 +4,7 @@ identifier: "TAR.5368B592234C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-11"
-last_updated: "2019-11-14"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-11-14 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-11-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
 
@@ -109,7 +109,11 @@ PRIEŽIŪROS INSTITUCIJOS
 
 8 straipsnis. Valstybinės duomenų apsaugos inspekcijos statusas ir veiklos principai
 
-1. Valstybinė duomenų apsaugos inspekcija yra Lietuvos Respublikos Vyriausybės įstaiga. Jos administracijos struktūrą tvirtina Valstybinės duomenų apsaugos inspekcijos direktorius.
+1. Valstybinė duomenų apsaugos inspekcija yra Lietuvos Respublikos Vyriausybės įstaiga. Jos administracijos struktūrą, strateginį ir metinį veiklos planus tvirtina Valstybinės duomenų apsaugos inspekcijos direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3410, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24577
 
 2. Valstybinės duomenų apsaugos inspekcijos veikla grindžiama teisėtumo, nešališkumo, viešumo, profesionalumo atliekant savo funkcijas principais. Valstybinė duomenų apsaugos inspekcija, atlikdama Reglamente (ES) 2016/679 nustatytas priežiūros institucijos užduotis ir šiame įstatyme jai nustatytas funkcijas bei priimdama sprendimus dėl jų atlikimo, yra nepriklausoma. Jos teisės gali būti suvaržytos tik įstatymų.
 
@@ -523,7 +527,7 @@ ADMINISTRACINĖS BAUDOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -650,6 +654,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
 
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 11 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3410, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24577
+
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 8 straipsnio pakeitimo įstatymas
 
 36 straipsnis. Šio įstatymo vykdymo priežiūros institucija ir jos teisinis statusas
 
