@@ -4,7 +4,7 @@ identifier: "TAR.6107B5F45F59"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-26"
-last_updated: "2019-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6107B5F45F59"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos tautinio paveldo produktų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3043, i. k. 1071010ISTA00X-1207
 
@@ -91,7 +91,11 @@ Tautinio paveldo produktų valstybinė apsauga vykdoma vadovaujantis Lietuvos Re
 
 Tautinio paveldo produktų valstybinės apsaugos uždaviniai yra:
 
-1) nustatyti ilgalaikius tautinio paveldo produktų išsaugojimo, populiarinimo, sukūrimo ir realizavimo skatinimo strateginius tikslus, uždavinius ir vertinimo kriterijus;
+1) nustatyti tautinio paveldo produktų išsaugojimo, populiarinimo, sukūrimo ir realizavimo skatinimo principus ir prioritetus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
 
 2) nustatyti Tautinio paveldo produktų klasifikatoriaus, Tradicinių amatų sąvado sudarymo principus;
 
@@ -131,7 +135,11 @@ Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
 
 Vyriausybė tautinio paveldo produktų valstybinės apsaugos srityje:
 
-1) tvirtina Tautinio paveldo produktų apsaugos, jų rinkos ir amatų plėtros programą;
+1) tvirtina nacionalines plėtros programas, kuriose suplanuojamos tautinio paveldo produktų valstybinės apsaugos priemonės;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
 
 2) nustato prašymų sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas ir atestuoti tradicinių amatų meistrus nagrinėjimo tvarką;
 
@@ -144,6 +152,12 @@ Vyriausybė tautinio paveldo produktų valstybinės apsaugos srityje:
 1. Žemės ūkio ministerija tautinio paveldo produktų valstybinės apsaugos srityje:
 
 1) formuoja tautinio paveldo produktų valstybinės apsaugos politiką;
+
+11) rengia tautinio paveldo produktų valstybinės apsaugos priemones ir (arba) koordinuoja jų rengimą, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
 
 2) nustato valstybės paramos tautinio paveldo produktams išsaugoti, sukurti, realizuoti ir populiarinti teikimo tvarką;
 
@@ -193,7 +207,11 @@ Savivaldybių institucijos tautinio paveldo produktų valstybinės apsaugos srit
 
 1) rūpinasi vietos tradicinių amatų išsaugojimu, plėtra ir populiarinimu, skatina vietos tautinio paveldo produktų kūrėjų sukurtų tautinio paveldo produktų gamybą ir realizavimą;
 
-2) savivaldybių strateginio planavimo dokumentuose, atsižvelgdamos į vietos sąlygas ir galimybes, teikia prioritetus projektams, skirtiems vietos tautinio paveldo produktų kūrėjų sukurtiems tautinio paveldo produktams realizuoti ir jų populiarinimui plėtoti, taip pat tradicinių amatų centrams bei kitoms tautinio paveldo produktų demonstravimo ir prekybos vietoms įsteigti ir plėtoti.
+2) savivaldybių planavimo dokumentuose, atsižvelgdamos į vietos sąlygas ir galimybes, teikia prioritetus projektams, skirtiems vietos tautinio paveldo produktų kūrėjų sukurtiems tautinio paveldo produktams realizuoti ir jų populiarinimui plėtoti, taip pat tradicinių amatų centrams bei kitoms tautinio paveldo produktų demonstravimo ir prekybos vietoms įsteigti ir plėtoti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
 
 III SKYRIUS
 
@@ -419,7 +437,7 @@ Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -446,4 +464,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1752, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20732
 
 Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 11 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
+
+Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 4, 6, 7 ir 8 straipsnių pakeitimo įstatymas
 
