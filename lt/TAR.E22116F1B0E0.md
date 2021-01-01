@@ -4,7 +4,7 @@ identifier: "TAR.E22116F1B0E0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-13"
-last_updated: "2020-11-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
 
@@ -297,7 +297,11 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 4. Bendrovės steigimo sutartį pasirašo visi steigėjai arba jų įgalioti asmenys.
 
-5. Bendrovės steigimo sutartis, sudaryta šiame straipsnyje nustatyta tvarka, suteikia teisę atidaryti steigiamos bendrovės kaupiamąją sąskaitą banke.
+5. Bendrovės steigimo sutartis, sudaryta šiame straipsnyje nustatyta tvarka, suteikia teisę atidaryti steigiamos bendrovės kaupiamąją sąskaitą kredito ar elektroninių pinigų įstaigoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-77, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28123
 
 6. Bendrovės steigimo sutartis pateikiama juridinių asmenų registro tvarkytojui kartu su kitais įstatymų nustatytais bendrovei įregistruoti reikalingais dokumentais. Steigimo sutartį pakeitus iki bendrovės įregistravimo, juridinių asmenų registro tvarkytojui kartu su steigimo sutartimi pateikiami ir pakeitimai.
 
