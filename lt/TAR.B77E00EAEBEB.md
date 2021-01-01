@@ -4,7 +4,7 @@ identifier: "TAR.B77E00EAEBEB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-07"
-last_updated: "2020-11-04"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B77E00EAEBEB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
 
-Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 87-3662, i. k. 1091010ISTA00XI-329
 
@@ -91,11 +91,15 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 
 ANTRASIS SKIRSNIS
 
-NACIONALINĖ KLIMATO KAITOS VALDYMO POLITIKOS STRATEGIJA
+NACIONALINĖS KLIMATO KAITOS VALDYMO POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
-3 straipsnis. Nacionalinė klimato kaitos valdymo politikos strategija ir jos įgyvendinimo priemonių planas
+Pakeistas skirsnio pavadinimas:
 
-1. Nacionalinė klimato kaitos valdymo politikos strategija apima šias valstybės valdymo sritis:
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
+
+3 straipsnis. Nacionalinės klimato kaitos valdymo politikos formavimas ir įgyvendinimas
+
+1. Nacionalinės klimato kaitos valdymo politikos formavimas ir įgyvendinimas apima šias sritis:
 
 1) aplinkos apsaugos ir racionalaus gamtos išteklių naudojimo;
 
@@ -115,21 +119,31 @@ NACIONALINĖ KLIMATO KAITOS VALDYMO POLITIKOS STRATEGIJA
 
 9) transporto;
 
-10) vidaus reikalų;
+10) teritorijų planavimo ir regioninės plėtros;
 
-11) žemės ūkio.
+11) vidaus reikalų;
 
-2. Nacionalinė klimato kaitos valdymo politikos strategija, atsižvelgiant į valstybės strateginius tikslus ir (ar) tarptautinius įsipareigojimus, gali būti skirta ir kitoms valstybės valdymo sritims, susijusioms su prisitaikymu prie klimato kaitos pokyčių ir klimato kaitos padarinių švelninimu, įgyvendinti.
+12) žemės ūkio.
 
-3. Nacionalinę klimato kaitos valdymo politikos strategiją ir jos įgyvendinimo priemonių planą rengia ministerijos ir Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) pavedimu – kitos valstybės valdymo institucijos. Nacionalinę klimato kaitos valdymo politikos strategiją tvirtina Lietuvos Respublikos Seimas (toliau – Seimas), o jos įgyvendinimo priemonių planą – Vyriausybė.
+2. Nacionalinė klimato kaitos valdymo politika, atsižvelgiant į valstybės strateginius tikslus ir (ar) tarptautinius įsipareigojimus, gali būti skirta ir kitoms sritims, susijusioms su prisitaikymu prie klimato kaitos pokyčių ir klimato kaitos padarinių švelninimu.
 
-4 straipsnis. Nacionalinę klimato kaitos valdymo politikos strategiją įgyvendinančios institucijos
+3. Nacionalinės klimato kaitos valdymo politikos kryptis nustato Lietuvos Respublikos Seimas tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Ilgesnės negu 10 metų trukmės nacionalinės klimato kaitos valdymo politikos tikslus ir uždavinius nustato Seimas tvirtindamas Nacionalinę klimato kaitos valdymo darbotvarkę. Nacionalinės klimato kaitos valdymo politikos 10 metų strateginius tikslus ir (arba) pažangos uždavinius tvirtina Lietuvos Respublikos Vyriausybė Nacionaliniame pažangos plane. Nacionalinės klimato kaitos valdymo politikos priemones Nacionaliniame pažangos plane ir Nacionalinėje klimato kaitos valdymo darbotvarkėje numatytiems uždaviniams įgyvendinti Vyriausybė suplanuoja nacionalinėse plėtros programose ir Nacionalinės klimato kaitos valdymo darbotvarkės plane.
 
-Nacionalinę klimato kaitos valdymo politikos strategiją ir jos įgyvendinimo priemonių planą įgyvendina:
+Straipsnio pakeitimai:
 
-1) Vyriausybė, ministerijos ar kitos Vyriausybės įgaliotos institucijos pagal kompetenciją;
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
+
+4 straipsnis. Nacionalinę klimato kaitos valdymo politiką formuojančios ir įgyvendinančios institucijos
+
+Nacionalinę klimato kaitos valdymo politiką formuoja ir įgyvendina:
+
+1) Seimas, Vyriausybė, ministerijos ar kitos Vyriausybės įgaliotos institucijos pagal kompetenciją;
 
 2) savivaldybių institucijos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
 
 TREČIASIS SKIRSNIS
 
@@ -247,7 +261,11 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 4. Kai nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo siūlo sudaryti sandorį, už kurį būtų atsiskaitoma nauju ilgalaikiu materialiuoju turtu, Vyriausybė įvertina šio įstatymo 10 straipsnio 4 dalies 1 punkte nurodytos Vyriausybės įgaliotos institucijos pateiktą aplinkosauginės ir finansinės naudos reikšmingumo pagrindimą. Pagrindimas parengiamas Vyriausybės nustatyta tvarka, numatant, kad turi būti įvertintas ir pagrįstas ekvivalentiškų gautinų lėšų už perleidžiamus nustatytosios normos vienetus ir siūlomo naujo ilgalaikio materialiojo turto verčių skirtumas. Vyriausybė gali priimti sprendimą, kad nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo už perleidžiamus nustatytosios normos vienetus gali atsiskaityti ekvivalentišku lėšų už perleidžiamus nustatytosios normos vienetus kiekiui nauju ilgalaikiu materialiuoju turtu, kuris atitinka Europos ir Lietuvos standartų reikalavimus ir bus naudojamas klimato kaitą mažinantiems šio įstatymo 10 straipsnio 3 dalies 1 ir 2 punktuose nurodytų Klimato kaitos programos lėšų panaudojimo krypčių projektams ir (ar) priemonėms įgyvendinti (toliau – turtas). Nustatytosios normos vienetų vertė nustatoma pagal šio įstatymo 10 straipsnio 4 dalies 1 punkte nurodytos Vyriausybės įgaliotos institucijos derybų būdu su nustatytosios normos vienetus perkančiąja valstybe ar jos įgaliotu asmeniu sutartą Lietuvos Respublikai palankiausią kainą.
 
-5. Ūkio subjektams, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą ir kurie priskiriami Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams, metiniai išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslai ir šių tikslų nustatymo principai nustatomi Nacionalinėje klimato kaitos valdymo politikos strategijoje. Vadovaudamasi Europos Sąjungos teisės aktais ir Nacionaline klimato kaitos valdymo politikos strategija, Vyriausybė arba jos įgaliota institucija nustato metiniams išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslams pasiekti taikomų lankstumo priemonių naudojimo tvarką.
+5. Ūkio subjektams, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą ir kurie priskiriami Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams, metiniai išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo įsipareigojimai ir prie šių įsipareigojimų pasiekimo prisidedančios priemonės suplanuojamos nacionalinės klimato kaitos valdymo politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose ir Nacionalinės klimato kaitos valdymo darbotvarkės plane. Vadovaudamasi Europos Sąjungos teisės aktais, Nacionaline klimato kaitos valdymo darbotvarke, Nacionaliniu pažangos planu, nacionalinės klimato kaitos valdymo politikos pažangos uždavinius įgyvendinančiomis nacionalinėmis plėtros programomis ir Nacionalinės klimato kaitos valdymo darbotvarkės planu, Vyriausybė arba jos įgaliota institucija nustato metiniams išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo įsipareigojimams pasiekti taikomų lankstumo priemonių naudojimo tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
 
 Straipsnio pakeitimai:
 
@@ -285,7 +303,11 @@ Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
 
 2) atsinaujinančių energijos išteklių panaudojimui skatinti, aplinkai palankioms technologijoms, tarp jų efektyvios energijos gamybos kogeneracijos būdu, diegti;
 
-3) Nacionalinės klimato kaitos valdymo politikos strategijos tikslų ir uždavinių įgyvendinimo priemonėms vykdyti;
+3) Nacionaliniame pažangos plane ir Nacionalinės klimato kaitos valdymo darbotvarkėje numatytus nacionalinės klimato kaitos valdymo politikos uždavinius įgyvendinančių nacionalinių plėtros programų ir Nacionalinės klimato kaitos valdymo darbotvarkės plano priemonėms ir jas įgyvendinantiems projektams vykdyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
 
 4) miškams atkurti ir įveisti;
 
@@ -513,9 +535,15 @@ BAIGIAMOSIOS NUOSTATOS
 
 3. Šio įstatymo 5 straipsnio 2 dalies reikalavimai kai kuriems veiklos vykdytojams pagal šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą taikomi nuo 2010 m. sausio 1 d.
 
+23 straipsnis. Neteko galios nuo 2021-01-01
+
+Straipsnio naikinimas:
+
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTĖ                                              DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                DALIA GRYBAUSKAITĖ
 
 Lietuvos Respublikos
 
@@ -903,391 +931,13 @@ Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 
 Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
-23 straipsnis. Pasiūlymas Vyriausybei
-
-Vyriausybė iki 2012 m. rugsėjo 1 d. pateikia Seimui tvirtinti Nacionalinę klimato kaitos valdymo politikos strategiją.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTĖ                                              DALIA GRYBAUSKAITĖ
-
-Lietuvos Respublikos
-
-klimato kaitos
-
-valdymo finansinių
-
-instrumentų įstatymo
-
-1 priedas
-
-VEIKLOS RŪŠIŲ SĄRAŠAS
-
-1. Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos reikalavimai netaikomi įrenginiams arba jų dalims, naudojamiems moksliniams tyrimams, technologijų plėtrai ir naujiems produktams bei technologiniams procesams, taip pat tik biomasę naudojantiems įrenginiams.
-
-2. Toliau nurodyti slenkstiniai dydžiai nusako gamybos pajėgumus arba našumą. Jei tame pačiame įrenginyje vykdoma tos pačios kategorijos kelių rūšių veikla, tokių veiklos rūšių pajėgumai sudedami.
-
-3. Jei norima apskaičiuoti įrenginio bendrą nominalų šiluminį našumą siekiant nustatyti, ar jį galima įtraukti į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemą, sudedamas visų jo techninių mazgų, kuriuose deginamas kuras, nominalus šiluminis našumas. Šie mazgai gali būti įvairių tipų katilai, degikliai, turbinos, šildytuvai, kūryklos, atliekų deginimo įrenginiai, kalkių deginimo krosnys, džiovinimo krosnys, krosnys, džiovyklos, varikliai, degalų elementai, cheminio deginimo mazgai, deglai ir terminio arba katalizinio deginimo įrenginiai. Į mazgus, kurių nominalus šiluminis našumas mažesnis kaip 3 MW, ir mazgus, kurie naudoja tik biomasę, šio skaičiavimo tikslais neatsižvelgiama. „Tik biomasę naudojantys įrenginiai“ yra mazgai, kurie kietąjį iškastinį kurą naudoja tik juos įjungiant ir išjungiant.
-
-4. Jei mazgas skirtas vykdyti veiklai, kuriai ribinis kiekis neišreiškiamas bendru nominaliu šiluminiu našumu, šios veiklos ribinis kiekis turi pirmenybę priimant sprendimą dėl įtraukimo į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemą.
-
-5. Jei įrenginio pajėgumų ribinė bet kokios veiklos vertė šiame priede viršijama, visi mazgai, kuriuose deginamas kuras, išskyrus mazgus, skirtus pavojingoms arba buitinėms atliekoms deginti, įtraukiami į leidimą išmesti šiltnamio efektą sukeliančias dujas.
-
-6. Nuo 2012 m. sausio 1 d. šiai veiklai priskiriami visi skrydžiai į valstybės narės, kuriai taikoma Sutartis dėl Europos Sąjungos veikimo, teritorijoje esantį aerodromą ir iš jo, išskyrus nukrypti leidžiančias Reglamente (ES) Nr. 421/2014 nurodytas nuostatas.
-
-Eil. Nr.
-
-Veiklos rūšys
-
-Išmetamos šiltnamio efektą sukeliančios dujos
-
-Įstatymo taikymas veiklos vykdytojams pagal veiklos rūšis
-
-1.
-
-Kuro deginimas įrenginiuose, kurių bendras nominalus šiluminis našumas didesnis negu 20 MW (išskyrus įrenginiuose, skirtuose pavojingoms arba komunalinėms atliekoms deginti)
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-2.
-
-Naftos perdirbimas
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-3.
-
-Kokso gamyba
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-4.
-
-Metalo rūdos (įskaitant sulfidinę rūdą) išdeginimas arba kaitinimas, įskaitant granuliavimą
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-5.
-
-Luitinio ketaus arba plieno gamyba (pirminis arba antrinis liejimas), įskaitant tolydinį liejimą, kai gamybos pajėgumai didesni negu 2,5 tonos per valandą
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-6.
-
-Juodųjų metalų (įskaitant juodųjų metalų lydinius) gamyba arba perdirbimas, kai eksploatuojami kuro deginimo įrenginiai, kurių bendras nominalus šiluminis našumas didesnis negu 20 MW. Perdirbimas apima ir apdorojimą valcavimo staklynuose, atkaitinimo krosnyse, kalvėse, liejyklose, dengimo ir dekapiravimo įrenginiuose
-
-Anglies dioksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-7.
-
-Pirminė aliuminio gamyba
-
-Anglies dioksidas ir perfluorangliavan-deniliai
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
 8.
 
-Antrinė aliuminio gamyba, kai eksploatuojami kuro deginimo įrenginiai, kurių bendras nominalus šiluminis našumas didesnis negu 20 MW
-
-Anglies dioksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-9.
-
-Spalvotųjų metalų gamyba arba perdirbimas, įskaitant lydinių gamybą, taurinimą, liejimą ir kt., kai eksploatuojami kuro deginimo įrenginiai, kurių bendras nominalus šiluminis našumas (įskaitant kurą, naudojamą kaip redukcinį reagentą) didesnis negu 20 MW
-
-Anglies dioksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-10.
-
-Cemento klinkerio gamyba rotacinėse krosnyse, kurių gamybos pajėgumai didesni negu 500 tonų per dieną, arba kitose krosnyse, kurių gamybos pajėgumai didesni negu 50 tonų per dieną
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-11.
-
-Kalkių gamyba arba dolomito ar magnezito kalcinavimas rotacinėse krosnyse, kurių gamybos pajėgumai didesni negu 50 tonų per dieną
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-12.
-
-Stiklo, įskaitant stiklo pluoštą, gamyba, kai lydymo pajėgumai didesni negu 20 tonų per dieną
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-13.
-
-Keraminių gaminių gamyba degimo būdu, visų pirma stogų čerpių, plytų, ugniai atsparių plytų, koklių, molio dirbinių arba porceliano gamybos, kai gamybos pajėgumai didesni negu 75 tonos per dieną
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-14.
-
-Akmens vatos gamyba naudojant stiklą, uolienas arba šlaką, kai lydymo pajėgumai didesni negu 20 tonų per dieną
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-15.
-
-Gipso džiovinimas arba kalcinavimas ar gipso plokščių ir kitų gipso gaminių gamyba, kai eksploatuojami kuro deginimo įrenginiai, kurių bendras nominalus šiluminis našumas didesnis negu 20 MW
-
-Anglies dioksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-16.
-
-Celiuliozės iš medienos ar kitų pluoštinių medžiagų gamyba
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-17.
-
-Popieriaus ir kartono gamyba, kai gamybos pajėgumai yra didesni negu 20 tonų per dieną
-
-Anglies dioksidas
-
-Taikoma nuo šio įstatymo įsigaliojimo datos
-
-18.
-
-Suodžių gamyba, įskaitant organinių medžiagų, tokių kaip alyva, degutas, krekingo ir distiliacijos likučiai, karbonizaciją, kai eksploatuojami kuro deginimo įrenginiai, kurių bendras nominalus šiluminis našumas didesnis negu 20 MW
-
-Anglies dioksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-19.
-
-Azoto rūgšties gamyba
-
-Anglies dioksidas ir azoto suboksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-20.
-
-Adipo rūgšties gamyba
-
-Anglies dioksidas ir azoto suboksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-21.
-
-Glioksilo ir glioksilo rūgšties gamyba
-
-Anglies dioksidas ir azoto suboksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-22.
-
-Amoniako gamyba
-
-Anglies dioksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-23.
-
-Didelio masto organinių cheminių medžiagų gamyba, taikant krekingą, riformingą, dalinę arba visišką oksidaciją arba kitus panašius metodus, kai gamybos pajėgumai didesni negu 100 tonų per dieną
-
-Anglies dioksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-24.
-
-Vandenilio (H2) ir sintezės dujų gamyba taikant riformingą arba dalinę oksidaciją, kai gamybos pajėgumai didesni negu 25 tonos per dieną
-
-Anglies dioksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-25.
-
-Natrio karbonato (Na2CO3) ir natrio hidrokarbonato (NaHCO3) gamyba
-
-Anglies dioksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai įrenginiams taikomi nuo 2013 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-26.
-
-Įrenginių, kuriems taikoma Direktyva 2009/29/EB, išmetamų šiltnamio efektą sukeliančių dujų surinkimas, kad jos galėtų būti transportuojamos ir saugomos Europos Sąjungos teisės aktais patvirtintoje geologinio saugojimo vietoje
-
-Anglies dioksidas
-
-Savanoriškai taikoma iki 2020 m.
-
-27.
-
-Anglies dioksido transportavimas vamzdynais į Europos Sąjungos teisės aktais patvirtintą geologinio saugojimo vietą
-
-Anglies dioksidas
-
-Savanoriškai taikoma iki 2020 m.
-
-28.
-
-Anglies dioksido geologinis saugojimas vadovaujantis Europos Sąjungos teisės aktais patvirtintoje saugojimo vietoje
-
-Anglies dioksidas
-
-Savanoriškai taikoma iki 2020 m.
-
-29.
-
-Aviacija Orlaivių skrydžiai į valstybės narės, kuriai taikoma Sutartis dėl Europos Sąjungos veikimo, teritorijoje esantį aerodromą arba iš jo. Šiai veiklai nepriskiriami: a) skrydžiai, išskirtinai skirti skraidinti šalies, kuri nėra valstybė narė, oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, jei tai įrodo atitinkamas statuso žymuo skrydžio plane; b) kariniais orlaiviais atliekami kariniai skrydžiai ir muitinės bei policijos tarnybų skrydžiai; c) skrydžiai, susiję su paieška ir gelbėjimu, gaisrų gesinimo skrydžiai, humanitariniai skrydžiai ir greitosios medicinos pagalbos skrydžiai, kuriuos leido atitinkama kompetentinga institucija; d) visi skrydžiai, atliekami išskirtinai pagal vizualiųjų skrydžių taisykles, kaip apibrėžta Tarptautinės civilinės aviacijos konvencijos (Čikagos konvencijos) 2 priede; e) skrydžiai be tarpinių nutūpimų, užbaigiami orlaivio pakilimo aerodrome; f) mokomieji skrydžiai, skirti išskirtinai gauti licenciją arba skrydžio įgulai – įgyti kvalifikaciją, jei tai įrodo atitinkamas žymuo skrydžio plane tuo atveju, jei skrydis nėra skirtas keleiviams ir (arba) kroviniams skraidinti arba orlaivio padėčiai nustatyti ar orlaiviui perkelti; g) skrydžiai, skirti išskirtinai moksliniams tyrimams atlikti arba orlaiviams ar įrangai (naudojamai ore arba antžeminei) tikrinti, bandyti ar patvirtinti; h) orlaivio, kurio patvirtinta didžiausioji kilimo masė yra ne didesnė kaip 5 700 kg, skrydžiai; i) skrydžiai, atliekami vykdant su viešosiomis paslaugomis susijusius įsipareigojimus, kurie nustatyti pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 1) maršrutams atokiausiuose regionuose, kaip nurodyta Sutarties dėl Europos Sąjungos veikimo 355 straipsnio 1 dalyje, arba maršrutams, kuriais per metus siūloma pervežti ne daugiau kaip 30 000 keleivių; ir j) skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka komercinės oro transporto priemonės naudotojas, vykdantis: – mažiau negu 243 skrydžius per tris iš eilės keturių mėnesių laikotarpius; arba – skrydžius, kurių bendras metinis išmetamųjų teršalų kiekis yra mažesnis negu 10 000 tonų. Skrydžiai, kurių vienintelis tikslas – skraidinti valstybės narės oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, pagal šį punktą šiai veiklai negali būti nepriskiriami; k) nuo 2013 m. sausio 1 d. iki 2030 m. gruodžio 31 d. – skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka nekomercinės oro transporto priemonės naudotojas, vykdantis skrydžius, kurių bendras metinis išmetamų teršalų kiekis yra mažesnis kaip 1 000 tonų.
-
-Anglies dioksidas
-
-Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai orlaivio naudotojams taikomi nuo 2012 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
-
-Punkto pakeitimai:
-
-Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
-
-Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
-
-Lietuvos Respublikos
-
-klimato kaitos
-
-valdymo finansinių
-
-instrumentų įstatymo
-
-2 priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 631), su paskutiniais pakeitimais, padarytais 2018 m. kovo 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/410 (OL 2018 L 76, p. 3).
-
-Punkto pakeitimai:
-
-Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
-
-2. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011 (OL 2013 L 122, p. 1).
-
-Punkto pakeitimai:
-
-Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
-
-3. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos sprendimas Nr. 406/2009/EB dėl valstybių narių pastangų mažinti jų šiltnamio efektą sukeliančių dujų emisijas, Bendrijai siekiant įvykdyti įsipareigojimus iki 2020 m. sumažinti šiltnamio efektą sukeliančių dujų emisijas (OL 2009 L 140, p. 136).
-
-4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES)  Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
-
-Papildyta punktu:
-
-Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
-
-Punkto pakeitimai:
-
-Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
-
-5. 2008 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 303/2008, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 842/2006 nustatomi būtiniausi įmonių sertifikavimo ir darbuotojų atestavimo, susijusio su stacionaria šaldymo, oro kondicionavimo įranga ir šilumos siurbliais, kuriuose yra tam tikrų fluorintų šiltnamio efektą sukeliančių dujų, reikalavimai ir pažymėjimų abipusio pripažinimo sąlygos (OL 2008 L 92, p. 3).
-
-Papildyta punktu:
-
-Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
-
-6. 2008 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 304/2008, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 842/2006 nustatomi būtiniausi įmonių sertifikavimo ir darbuotojų atestavimo, susijusio su stacionariomis priešgaisrinėmis sistemomis ir gesintuvais, kuriuose yra tam tikrų fluorintų šiltnamio efektą sukeliančių dujų, reikalavimai ir pažymėjimų abipusio pripažinimo sąlygos (OL 2008 L 92, p. 12).
-
-Papildyta punktu:
-
-Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
-
-7. 2017 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2392, kuriuo iš dalies keičiama Direktyva 2003/87/EB, siekiant išlaikyti dabartinius jos taikymo aviacijos veiklai apribojimus ir pasirengti nuo 2021 m. įgyvendinti pasaulinę rinkos priemonę (OL 2017 L 350, p. 7).
-
-Papildyta punktu:
-
-Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
-
-Punkto pakeitimai:
-
-Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
-
-Pakeitimai:
-
-1.
-
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
 
-Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 1, 5, 10, 12 straipsnių pakeitimo ir papildymo, Įstatymo papildymo penktuoju-1 skirsniu ir Įstatymo 2 priedo papildymo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
-
-Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 2, 9, 10, 12-1 straipsnių pakeitimo ir papildymo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
-
-Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 2, 5, 7, 8, 10, 12-1 straipsnių, penktojo skirsnio ir 2 priedo pakeitimo ir papildymo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
-
-Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 2, 5, 6, 8, 12-1, 13, 15, 18 ir 20 straipsnių, 1 ir 2 priedų pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-775, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18829
-
-Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 14 straipsnio pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
-
-Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 2, 9, 10 straipsnių ir 1, 2 priedų pakeitimo įstatymas
+Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 antrojo skirsnio pavadinimo, 3, 4, 9, 10 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas
 
 121 straipsnis. Fluorintų šiltnamio efektą sukeliančių dujų tvarkymo atestatų išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
 
