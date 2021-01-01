@@ -4,7 +4,7 @@ identifier: "TAR.46EF9E1D52E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-29"
-last_updated: "2019-12-20"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-12-20 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-01-20
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
 
@@ -1404,7 +1404,11 @@ DIPLOMATO TARNYBOS SUTARTIES IR TERMINUOTOS DIPLOMATO TARNYBOS SUTARTIES NUTRAUK
 
 7) diplomatas netenka leidimo dirbti ar susipažinti su įslaptinta informacija;
 
-8) politinio (asmeninio) pasitikėjimo valstybės tarnautojas, su kuriuo sudaryta terminuota diplomato tarnybos sutartis, praranda į pareigas jį pasirinkusio valstybės politiko pasitikėjimą;
+8) politinio (asmeninio) pasitikėjimo valstybės tarnautojas, su kuriuo sudaryta terminuota diplomato tarnybos sutartis, atleidžiamas iš pareigų Valstybės tarnybos įstatymo nustatytais pagrindais ir tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
 
 9) diplomatui šio įstatymo 63 straipsnyje nustatyta tvarka atimamas diplomatinis rangas;
 
@@ -1466,7 +1470,13 @@ Ginčai dėl diplomato tarnybos sutarties ir terminuotos diplomato tarnybos suta
 
 95 straipsnis. Išeitinės išmokos ir kompensacijos
 
-1. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 6 punkte nurodytu pagrindu, išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka.
+1. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 1 dalies 5 punkte nurodytu pagrindu (toliau – diplomatas, kuriam sukako 65 metai), ne vėliau kaip diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimo dieną išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Jeigu nutraukiant diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį dėl diplomato, kuriam sukako 65 metai, yra pradėtas ir nebaigtas šio įstatymo 72 straipsnio 2 dalyje nurodytas tarnybinio nusižengimo tyrimas, išeitinė išmoka diplomatui, kuriam sukako 65 metai, išmokama per 5 darbo dienas nuo užsienio reikalų ministro sprendimo atlikus tarnybinio nusižengimo tyrimą priėmimo dienos. Atlikus šio įstatymo 72 straipsnio 2 dalyje nurodytą tarnybinio nusižengimo tyrimą ir priėmus sprendimą dėl asmens, ėjusio diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, išeitinė išmoka diplomatui, kuriam sukako 65 metai, nemokama. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 6 punkte nurodytu pagrindu, išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka.
+
+TAR pastaba. 1 dalies nuostatos taikomos pareigas einantiems diplomatams, kuriems 65 metai sukanka po įstatymo Nr. XIII-3401 įsigaliojimo (2021-01-01).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
 
 2. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis arba terminuota diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 2 dalies 8 punktą, išmokama iki pareigybės panaikinimo jo gauto vidutinio darbo užmokesčio dydžio išeitinė išmoka, atsižvelgiant į diplomato tarnybos stažą:
 
@@ -1484,7 +1494,13 @@ Ginčai dėl diplomato tarnybos sutarties ir terminuotos diplomato tarnybos suta
 
 4. Kai diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 3 dalį arba kai diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 1 dalies 8 punktą, 92 straipsnio 2 dalies 2 punktą arba 92 straipsnio 8 dalį, diplomatui išmokama kompensacija. Kompensacijos dydis apskaičiuojamas pareiginę algą dauginant iš diplomatinėje tarnyboje išdirbtų pilnų metų skaičiaus ir dauginant iš koeficiento 0,5, bet ne daugiau kaip iš 12. Ši kompensacija išmokama lygiomis dalimis per 3 mėnesius nuo sutarties nutraukimo dienos, mokant po vieną dalį kas mėnesį.
 
-5. Užsienio reikalų ministerija su diplomatu, su kuriuo nutraukiama diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis, privalo visiškai atsiskaityti ne vėliau kaip jos nutraukimo dieną, išskyrus šio straipsnio 2 dalyje nurodytą išeitinę išmoką ir kompensaciją, nurodytą šio straipsnio 4 dalyje. Jeigu uždelsiama atsiskaityti dėl Užsienio reikalų ministerijos kaltės, diplomatui sumokamas vidutinis darbo užmokestis už uždelstą laikotarpį.
+5. Užsienio reikalų ministerija su diplomatu, su kuriuo nutraukiama diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis, privalo visiškai atsiskaityti ne vėliau kaip jos nutraukimo dieną, išskyrus šio straipsnio 1 dalyje nurodytą išeitinę išmoką, kai atliekamas tarnybinio nusižengimo tyrimas, šio straipsnio 2 dalyje nurodytą išeitinę išmoką ir kompensaciją, nurodytą šio straipsnio 4 dalyje. Jeigu uždelsiama atsiskaityti dėl Užsienio reikalų ministerijos kaltės, diplomatui sumokamas vidutinis darbo užmokestis už uždelstą laikotarpį.
+
+TAR pastaba. 5 dalies nuostatos taikomos pareigas einantiems diplomatams, kuriems 65 metai sukanka po įstatymo Nr. XIII-3401 įsigaliojimo (2021-01-01).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
 
 XIV SKYRIUS
 
