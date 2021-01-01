@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2020-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-10-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -355,17 +355,23 @@ Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
 
 2) Žemės gelmių įstatymo nustatyta tvarka gautas leidimas naudoti žemės gelmių išteklius ir ertmes;
 
-3) jos reikia įgyvendinti valstybei svarbiems ekonominiams ar kultūriniams projektams, kurių valstybinę svarbą savo sprendimu pripažįsta Seimas arba Vyriausybė, taip pat regiono socialinės, ekonominės plėtros ir (arba) infrastruktūros projektams, kuriuos regiono plėtros taryba Vyriausybės nustatyta tvarka pripažįsta regioninės svarbos projektais;
+3) jos reikia įgyvendinti valstybei svarbiems ekonominiams ar kultūriniams projektams, kurių valstybinę svarbą savo sprendimu pripažįsta Seimas arba Vyriausybė, regiono socialinės, ekonominės plėtros ir (arba) infrastruktūros projektams, kuriuos regiono plėtros taryba Vyriausybės nustatyta tvarka pripažįsta regioninės svarbos projektais, taip pat Lietuvos Respublikos investicijų įstatyme nustatytais atvejais, kai jos reikia stambiems projektams įgyvendinti;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2132, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19505
 
+Nr. XIII-3165, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15498
+
 4) Vyriausybės nustatyto dydžio neviršijantys žemės sklypai yra įsiterpę tarp valstybinės žemės išnuomotų žemės sklypų – šių sklypų valstybinės žemės nuomininkams;
 
 5) ji reikalinga koncesijos projektui įgyvendinti – Koncesijų įstatymo nustatytais atvejais;
 
-6) ji reikalinga valdžios ir privataus subjektų partnerystės sutarčiai įgyvendinti – Lietuvos Respublikos investicijų įstatymo nustatytais atvejais;
+6) ji reikalinga valdžios ir privataus subjektų partnerystės sutarčiai įgyvendinti – Investicijų įstatymo nustatytais atvejais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3165, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15498
 
 7) ji yra su įrengtais akvakultūros tvenkiniais (įskaitant užtvankos įrenginių užimtą žemę) – šioje žemėje esančių akvakultūrai naudojamų statinių ar įrenginių savininkams.
 
@@ -703,7 +709,13 @@ Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
 
 4) išnuomotiems ar perduotiems neatlygintinai naudotis valstybinės žemės sklypams, taip pat savivaldybių ir privačios žemės sklypams, kai pagal teritorijų planavimo dokumentus ar žemės valdos projektus numatomas servitutas, suteikiantis teisę tiesti centralizuotus (bendrojo naudojimo) inžinerinės infrastruktūros tinklus (požemines ir antžemines komunikacijas), kelius bei takus, jais naudotis ir juos aptarnauti;
 
-5) valstybinės, savivaldybių ir privačios žemės sklypams, konsoliduotiems (pertvarkytiems) pagal žemės konsolidacijos projektą.
+5) valstybinės, savivaldybių ir privačios žemės sklypams, konsoliduotiems (pertvarkytiems) pagal žemės konsolidacijos projektą;
+
+6) valstybinės, savivaldybių ir privačios žemės sklypams, kai Investicijų įstatyme nustatytais atvejais servitutai reikalingi stambiems projektams įgyvendinti.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3165, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15498
 
 3. Sprendimas nustatyti servitutą negali būti priimtas, jeigu iki teritorijų planavimo dokumento ar žemės valdos projekto patvirtinimo neišreikšta viešpataujančiuoju tampančio daikto savininko valia dėl servituto reikalingumo. Viešpataujančiuoju tampančio daikto savininkas savo valią išreiškia Nacionalinei žemės tarnybai pateikdamas prašymą dėl siūlomo servituto pagal parengtą teritorijų planavimo dokumentą ar žemės valdos projektą nustatymo. Kai siūloma nustatyti servitutą išnuomotiems ar perduotiems neatlygintinai naudotis valstybinės žemės sklypams, taip pat savivaldybių ir privačios žemės sklypams, kad būtų galima privažiuoti ar prieiti prie kapinių, rekreacinių ir kitų gyventojų bendram naudojimui skirtų teritorijų bei gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, taip pat centralizuotiems (bendrojo naudojimo) inžinerinės infrastruktūros tinklams (požeminėms ir antžeminėms komunikacijoms), keliams ir takams tiesti, jais naudotis bei juos aptarnauti, prašymą dėl siūlomo servituto pagal teritorijų planavimo dokumentą ar žemės valdos projektą nustatymo pateikia esamų statinių, prie kurių reikia prieiti ar privažiuoti, savininkai arba patikėjimo teisės subjektai; kai rekreacinėse bei kitose gyventojų bendram naudojimui skirtose teritorijose, gamtos ir kultūros paveldo teritorinių kompleksų ir objektų teritorijose statinių nėra, – šiose teritorijose esančių žemės sklypų savininkai arba valstybinės žemės patikėtiniai, o tais atvejais, kai žemės sklype numatoma tiesti centralizuotus (bendrojo naudojimo) inžinerinės infrastruktūros tinklus (požemines ir antžemines komunikacijas), kelius ir takus, – šių darbų užsakovas. Kai siūloma nustatyti servitutą prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, valią dėl servituto reikalingumo išreiškia valstybės ar savivaldybės institucija, atsakinga už šių kompleksų ir objektų apsaugą. Jeigu viešpataujančiuoju tampančio daikto patikėtinis yra Nacionalinė žemės tarnyba, jo valia išreiškiama priimant sprendimą dėl servituto nustatymo.
 
@@ -715,11 +727,13 @@ Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
 
 7. Žemės savininkams ir valstybinės žemės patikėtiniams nuostoliai dėl nustatytų servitutų (išskyrus nuostolius žemės savininkams dėl servitutų, nustatytų sandoriais, kai nuostoliai atlyginami šalių susitarimu) turi būti atlyginami viešpataujančiuoju tampančio daikto savininko lėšomis.
 
-8. Žemės savininkas ar valstybinės žemės patikėtinis dėl nuostolių, patiriamų dėl Nekilnojamojo turto registre įregistruoto servituto, atlyginimo turi teisę kreiptis į viešpataujančiojo daikto savininką, o kai nustatytas servitutas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – į valstybės ar savivaldybės instituciją, atsakingą už šių kompleksų ir objektų apsaugą. Nuostolių dydis ir atlyginimo terminai nustatomi viešpataujančiojo ir tarnaujančiojo daiktų savininkų ar valstybinės žemės patikėtinių susitarimu, o tais atvejais, kai servitutas nustatytas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – valstybės ar savivaldybės institucijos, atsakingos už tokių kompleksų ir objektų apsaugą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu. Šalims nesusitarus, ginčus dėl nuostolių dydžio ir atlyginimo Civilinio proceso kodekso nustatyta tvarka sprendžia teismas. Kai servitutas nustatomas administraciniu aktu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui atlyginama sunaikintų sodinių, pasėlių, iškirsto miško rinkos vertė bei nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą ar jo dalį pagal pagrindinę žemės naudojimo paskirtį, naudojimo būdą praradimo. Vienkartinės ar periodinės kompensacijos, mokamos už naudojimąsi administraciniu aktu nustatytu servitutu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui dydis apskaičiuojamas Vyriausybės nustatyta tvarka, jeigu įstatymai nenustato kitaip.
+8. Žemės savininkas ar valstybinės žemės patikėtinis dėl nuostolių, patiriamų dėl Nekilnojamojo turto registre įregistruoto servituto, atlyginimo turi teisę kreiptis į viešpataujančiojo daikto savininką, o kai nustatytas servitutas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – į valstybės ar savivaldybės instituciją, atsakingą už šių kompleksų ir objektų apsaugą. Tais atvejais, kai nustatytas servitutas, reikalingas stambiam projektui įgyvendinti, – į stambų projektą įgyvendinantį investuotoją. Nuostolių dydis ir atlyginimo terminai nustatomi viešpataujančiojo ir tarnaujančiojo daiktų savininkų ar valstybinės žemės patikėtinių susitarimu, o tais atvejais, kai servitutas nustatytas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – valstybės ar savivaldybės institucijos, atsakingos už tokių kompleksų ir objektų apsaugą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu. Tais atvejais, kai nustatytas servitutas, reikalingas stambiam projektui įgyvendinti, – investuotojo, įgyvendinančio stambų projektą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu. Šalims nesusitarus, ginčus dėl nuostolių dydžio ir atlyginimo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka sprendžia teismas. Kai servitutas nustatomas administraciniu aktu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui atlyginama sunaikintų sodinių, pasėlių, iškirsto miško rinkos vertė bei nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą ar jo dalį pagal pagrindinę žemės naudojimo paskirtį, naudojimo būdą praradimo. Vienkartinės ar periodinės kompensacijos, mokamos už naudojimąsi administraciniu aktu nustatytu servitutu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui dydis apskaičiuojamas Vyriausybės nustatyta tvarka, jeigu įstatymai nenustato kitaip.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2362, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14732
+
+Nr. XIII-3165, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15498
 
 9. Administraciniu aktu nustatytas servitutas Civilinio kodekso nustatytais pagrindais baigiasi, kai institucija, priėmusi sprendimą nustatyti servitutą, priima sprendimą tokį servitutą panaikinti.
 
@@ -2210,6 +2224,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2482, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17358
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 9 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3165, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15498
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 23 straipsnių pakeitimo įstatymas
 
 55 straipsnis. Žemės ginčų
 
