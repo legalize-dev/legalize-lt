@@ -4,7 +4,7 @@ identifier: "TAR.594F129CE9AD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2020-06-23"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2020-06-23 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
 
@@ -171,7 +171,11 @@ Vilnius
 
 2) išsiunčia atsakovui, tretiesiems suinteresuotiems asmenims skundo (prašymo) nuorašus ir paprašo per šio straipsnio 3 dalyje nurodytą terminą pateikti atsiliepimą į skundą (prašymą) ir su skundu (prašymu) susijusią medžiagą (įrodymus, paaiškinimus);
 
-3) suderina su Lietuvos administracinių ginčų komisijos pirmininku (komisijos pirmininko pavaduotoju teritoriniame padalinyje) bylos nagrinėjimo administracinių ginčų komisijos posėdyje datą ir laiką; išsiunčia bylos šalims ir jų atstovams pranešimus apie posėdžio vietą, datą ir laiką, kartu pasiūlo ginčo šalims išspręsti ginčą taikiai;
+3) suderina su Lietuvos administracinių ginčų komisijos pirmininku (komisijos pirmininko pavaduotoju teritoriniame padalinyje) bylos nagrinėjimo administracinių ginčų komisijos posėdyje datą ir laiką; išsiunčia bylos šalims ir jų atstovams pranešimus apie posėdžio vietą, datą ir laiką, kartu pasiūlo ginčo šalims išspręsti ginčą taikiai arba pasinaudoti galimybe spręsti ginčą neteisminės mediacijos būdu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
 
 4) atlieka kitus veiksmus, kad byla būtų parengta nagrinėti.
 
@@ -223,7 +227,11 @@ Vilnius
 
 8. Administracinių ginčų komisijos posėdis pradedamas posėdžio pirmininko pranešimu apie ginčo dalyką, bylos šalis, administracinių ginčų komisijos sudėtį posėdyje, administracinių ginčų komisijos posėdžio sekretorių. Administracinių ginčų komisijos posėdžio pirmininkas supažindina bylos šalis su posėdžio tvarka, eiga ir bylos šalių procesinėmis teisėmis. Bylos šalims suteikiama galimybė pateikti papildomus prašymus, dokumentus, pareikšti nušalinimus administracinių ginčų komisijos nariams. Bylos šalių prašymai sprendžiami nedelsiant.
 
-9. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys negali dalyvauti nagrinėjant bylą, jeigu jis yra bylos šalies giminaitis, jeigu jis arba jo giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi arba yra kitokių aplinkybių, kurios kelia abejonių dėl jo nešališkumo. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito (kitų) komisijos arba jos teritorinio padalinio nario (narių) nušalinimo klausimas išsprendžiamas administracinių ginčų komisijos posėdyje, bylos šalims nedalyvaujant.
+9. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys negali dalyvauti nagrinėjant bylą, jeigu jis yra bylos šalies giminaitis; jeigu jis arba jo giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi; jeigu jis toje byloje vykdė neteisminę mediaciją; yra kitokių aplinkybių, kurios kelia abejonių dėl jo nešališkumo. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito (kitų) komisijos arba jos teritorinio padalinio nario (narių) nušalinimo klausimas išsprendžiamas administracinių ginčų komisijos posėdyje, bylos šalims nedalyvaujant.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
 
 10. Bylos nagrinėjimas posėdyje pradedamas administracinių ginčų komisijos nario, paskirto pranešėju byloje, pranešimu apie pareiškėjo skundą (prašymą) ir pareiškėjo reikalavimo administracinių ginčų komisijai paskelbimu. Po to išklausomas pareiškėjas (pareiškėjai), jo (jų) įgaliotas atstovas (atstovai), atsakovo atstovas (atstovai), trečiasis suinteresuotas asmuo (tretieji suinteresuoti asmenys). Administracinių ginčų komisijos posėdžio pirmininkas gali nutraukti administracinių ginčų komisijos posėdyje dalyvaujančių asmenų kalbas, jeigu nukrypstama nuo ginčo esmės. Bylos šalims ir jų atstovams po jų kalbų administracinių ginčų komisijos nariai gali užduoti klausimų. Po to bylos šalys dėl nagrinėjamo ginčo gali trumpai atsakyti į viena kitos argumentus, užduoti viena kitai klausimų. Bylą nagrinėjant posėdyje, taip pat ištiriami kiti įrodymai: išklausomi liudytojų parodymai, specialistų paaiškinimai, apžiūrimi daiktiniai įrodymai ir kita. Bet kurios iš bylos šalių pageidavimu paskelbiami byloje esantys rašytiniai įrodymai.
 
@@ -272,8 +280,6 @@ Vilnius
 5. Jeigu taikos sutartis atitinka šio straipsnio 4 dalyje nustatytas sąlygas, administracinių ginčų komisija sprendimu taikos sutartį patvirtina ir bylą nutraukia. Šiame sprendime turi būti nurodytos tvirtinamos taikos sutarties sąlygos. Prieš tvirtindama taikos sutartį, administracinių ginčų komisija išaiškina ginčo šalims šių procesinių veiksmų pasekmes. Taikos sutartis pridedama prie bylos. Jeigu taikos sutartis neatitinka šio straipsnio 4 dalyje nustatytų sąlygų, administracinių ginčų komisija taikos sutarties netvirtina ir ginčą išsprendžia iš esmės.
 
 6. Neteisminės mediacijos metu ginčo šalims pasiekus taikų susitarimą ir sudarius taikos sutartį, šią sutartį šio straipsnio 5 dalyje nustatyta tvarka tvirtina administracinių ginčų komisija.
-
-TAR pastaba. 17straipsnio 6 dalis įsigalioja 2021 m. sausio 1 d.
 
 7. Jeigu ginčo šalys taikos sutartį sudaro ir pateikia ją administracinių ginčų komisijai po sprendimo, priimto išnagrinėjus skundą (prašymą), priėmimo, administracinių ginčų komisija, patvirtinusi taikos sutartį, nauju sprendimu panaikina priimtą sprendimą ir bylą nutraukia. Kol sprendžiamas taikos sutarties tvirtinimo klausimas, šio įstatymo 22 straipsnyje nurodyto termino eiga sustabdoma.
 
