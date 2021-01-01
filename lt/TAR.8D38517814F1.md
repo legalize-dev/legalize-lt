@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2020-11-04"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -663,85 +663,71 @@ Straipsnio pakeitimai:
 
 Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
 
-Šeštasis skirsnis
+ŠEŠTASIS SKIRSNIS
 
-atliekų tvarkymo planai IR PREVENCIJOS PROGRAMA
+Valstybinis atliekų prevencijos ir tvarkymo planas, Regioniniai ir savivaldybių ATLIEKŲ prevencijos ir TVARKYMO PLANAI
 
-Skirsnio pavadinimas keistas:
+26 straipsnis. Valstybinis atliekų prevencijos ir tvarkymo planas
 
-Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
+1. Šiame Įstatyme nurodytiems reikalavimams įgyvendinti parengiamas Valstybinis atliekų prevencijos ir tvarkymo planas. Šis planas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi būti derinamas su suinteresuotomis institucijomis ir visuomene.
 
-26 straipsnis. Valstybinis atliekų tvarkymo planas
+2. Valstybiniame atliekų prevencijos ir tvarkymo plane nustatomos atliekų tvarkymo užduotys, strateginiai atliekų tvarkymo tikslai ir uždaviniai jiems įgyvendinti.
 
-1. Šiame Įstatyme nurodytiems reikalavimams įgyvendinti parengiamas Valstybinis atliekų tvarkymo planas. Šis planas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi būti derinamas su suinteresuotomis institucijomis ir visuomene.
+3. Valstybinį atliekų prevencijos ir tvarkymo planą ir jo įgyvendinimo priemones rengia Aplinkos ministerija, tvirtina Vyriausybė.
 
-2. Valstybiniame atliekų tvarkymo plane nustatomos atliekų tvarkymo užduotys, strateginiai atliekų tvarkymo tikslai ir uždaviniai jiems įgyvendinti.
+4. Valstybiniame atliekų prevencijos ir tvarkymo plane turi būti numatyti tikslai ir uždaviniai į sąvartynus vežamų biologiškai skaidžių atliekų kiekiui mažinti.
 
-3. Valstybinį atliekų tvarkymo planą ir jo įgyvendinimo priemones rengia Aplinkos ministerija ir tvirtina Vyriausybė.
+5. Valstybinį atliekų prevencijos ir tvarkymo planą Aplinkos ministerija įvertina ne rečiau kaip kas šešeri metai ir prireikus patikslintą Valstybinį atliekų prevencijos ir tvarkymo planą teikia Vyriausybei tvirtinti.
 
-4. Valstybiniame atliekų tvarkymo plane turi būti numatyti tikslai ir uždaviniai į sąvartynus vežamų biologiškai skaidžių atliekų kiekiui mažinti.
+6. Už Valstybinio atliekų prevencijos ir tvarkymo plano įgyvendinimo priemonių vykdymo koordinavimą atsakinga Aplinkos ministerija.
 
-5. Valstybinį atliekų tvarkymo planą Aplinkos ministerija įvertina ne rečiau kaip kas šešeri metai ir prireikus patikslintą Valstybinį atliekų tvarkymo planą teikia Vyriausybei tvirtinti.
+7. Už Valstybinio atliekų prevencijos ir tvarkymo plano priemonių įgyvendinimo ataskaitų rinkimą ir viešinimą atsakinga Aplinkos ministerijos įgaliota institucija aplinkos ministro nustatyta tvarka.
 
-6. Už Valstybinio atliekų tvarkymo plano įgyvendinimo priemonių vykdymo koordinavimą atsakinga Aplinkos ministerija.
+27 straipsnis. Regioniniai atliekų prevencijos ir tvarkymo planai
 
-Straipsnio pakeitimai:
+1. Regioniniuose atliekų prevencijos ir tvarkymo planuose turi būti nustatytos priemonės, užtikrinančios Valstybiniame atliekų prevencijos ir tvarkymo plane nustatytų užduočių įgyvendinimą.
 
-Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
+2. Pagrindinis regioninių atliekų prevencijos ir tvarkymo planų tikslas – suderinti savivaldybių veiksmus organizuojant komunalinių atliekų tvarkymo sistemas ir steigiant kelioms savivaldybėms bendrus atliekų naudojimo ar šalinimo įrenginius.
 
-27 straipsnis. Regioniniai atliekų tvarkymo planai
+3. Regioniniai atliekų prevencijos ir tvarkymo planai turi būti suderinti su regionų plėtros planais.
 
-1. Regioniniuose atliekų tvarkymo planuose turi būti nustatytos priemonės, užtikrinančios valstybiniame strateginiame atliekų tvarkymo plane nustatytų užduočių įgyvendinimą.
+4. Regioninius atliekų prevencijos ir tvarkymo planus rengia ir tvirtina regionų plėtros tarybos.
 
-2. Pagrindinis regioninių atliekų tvarkymo planų tikslas – suderinti savivaldybių veiksmus organizuojant komunalinių atliekų tvarkymo sistemas ir steigiant kelioms savivaldybėms bendrus atliekų naudojimo ar šalinimo įrenginius.
+5. Komunalinių atliekų tvarkymo regiono regioninio atliekų prevencijos ir tvarkymo plano rengimą koordinuoja ir jį tvirtina su komunalinių atliekų tvarkymo regiono teritorija sutampančio teritorijos aukštesniojo administracinio vieneto regiono plėtros taryba. Tuo atveju, kai komunalinių atliekų tvarkymo regionas nesutampa su teritorijos aukštesniojo administracinio vieneto ribomis, regioninį atliekų prevencijos ir tvarkymo planą tvirtina teritorijos aukštesniojo administracinio vieneto, kuriame gyvena didžioji komunalinių atliekų tvarkymo regiono gyventojų dalis, regiono plėtros taryba savivaldybių, esančių tame komunalinių atliekų tvarkymo regione, pritarimu.
 
-3. Regioniniai atliekų tvarkymo planai turi būti suderinti su regionų plėtros planais.
+6. Regioniniuose atliekų prevencijos ir tvarkymo planuose turi būti numatytos priemonės į sąvartynus vežamų biologiškai skaidžių atliekų kiekiui mažinti.
 
-4. Regioninius atliekų tvarkymo planus rengia ir tvirtina regionų plėtros tarybos.
+7. Regioninių atliekų prevencijos ir tvarkymo planų reikalavimus nustato Aplinkos ministerija.
 
-5. Komunalinių atliekų tvarkymo regiono regioninio atliekų tvarkymo plano rengimą koordinuoja ir jį tvirtina su komunalinių atliekų tvarkymo regiono teritorija sutampančio teritorijos aukštesniojo administracinio vieneto regiono plėtros taryba. Tuo atveju, kai komunalinių atliekų tvarkymo regionas nesutampa su teritorijos aukštesniojo administracinio vieneto ribomis, regioninį atliekų tvarkymo planą tvirtina teritorijos aukštesniojo administracinio vieneto, kuriame gyvena didžioji komunalinių atliekų tvarkymo regiono gyventojų dalis, regiono plėtros taryba savivaldybių, esančių tame komunalinių atliekų tvarkymo regione, pritarimu.
+8. Regioninių atliekų prevencijos ir tvarkymo planų vykdymo laikotarpis turi sutapti su Valstybinio atliekų prevencijos ir tvarkymo plano vykdymo laikotarpiu.
 
-6. Regioniniuose atliekų tvarkymo planuose turi būti numatytos priemonės į sąvartynus vežamų biologiškai skaidžių atliekų kiekiui mažinti.
+9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka regiono plėtros taryba teikia Aplinkos ministerijai informaciją apie jos patvirtinto regioninio atliekų prevencijos ir tvarkymo plano priemonių, užtikrinančių Valstybiniame atliekų prevencijos ir tvarkymo plane nustatytų užduočių įgyvendinimą, vykdymą.
 
-7. Detalesnius regioninių atliekų tvarkymo planų reikalavimus nustato Aplinkos ministerija.
+28 straipsnis. Savivaldybių atliekų prevencijos ir tvarkymo planai
 
-8. Regioninių atliekų tvarkymo planų vykdymo laikotarpis turi sutapti su Valstybinio atliekų tvarkymo plano vykdymo laikotarpiu.
+1. Savivaldybių atliekų prevencijos ir tvarkymo planuose turi būti nustatytos priemonės, užtikrinančios Valstybiniame atliekų prevencijos ir tvarkymo plane bei regioniniuose atliekų prevencijos ir tvarkymo planuose nustatytų užduočių įgyvendinimą.
 
-9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka regiono plėtros taryba teikia Aplinkos ministerijai informaciją apie jos patvirtinto regioninio atliekų tvarkymo plano priemonių, užtikrinančių valstybiniame strateginiame atliekų tvarkymo plane nustatytų užduočių įgyvendinimą, vykdymą.
+2. Pagrindinis savivaldybių atliekų prevencijos ir tvarkymo planų tikslas – nustatyti komunalinių atliekų tvarkymo sistemų organizavimo priemones, kurios užtikrintų aplinkosaugos, techninius-ekonominius ir higienos reikalavimus atitinkančios komunalinių atliekų tvarkymo paslaugos pasiūlą visiems savivaldybės teritorijoje esantiems asmenims.
 
-Straipsnio pakeitimai:
+3. Savivaldybių atliekų prevencijos ir tvarkymo planus rengia savivaldybės ir tvirtina savivaldybių tarybos.
 
-Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
+4. Savivaldybių atliekų prevencijos ir tvarkymo planuose turi būti numatytos priemonės į sąvartynus vežamų biologiškai skaidžių atliekų kiekiui mažinti.
 
-Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
+5. Detalesnius savivaldybių atliekų prevencijos ir tvarkymo planų reikalavimus nustato Aplinkos ministerija.
 
-28 straipsnis. Savivaldybių atliekų tvarkymo planai
+6. Savivaldybių atliekų prevencijos ir tvarkymo planų vykdymo laikotarpis turi sutapti su Valstybinio atliekų prevencijos ir tvarkymo plano vykdymo laikotarpiu.
 
-1. Savivaldybių atliekų tvarkymo planuose turi būti nustatytos priemonės, užtikrinančios valstybiniame strateginiame atliekų tvarkymo plane bei regioniniuose atliekų tvarkymo planuose nustatytų užduočių įgyvendinimą.
+7. Už patvirtintų savivaldybių atliekų prevencijos ir tvarkymo planų priemonių įgyvendinimą, už savivaldybės teritorijoje esančių komunalinių atliekų ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, sutvarkymo organizavimą atsakinga savivaldybės vykdomoji institucija.
 
-2. Pagrindinis savivaldybių atliekų tvarkymo planų tikslas – nustatyti komunalinių atliekų tvarkymo sistemų organizavimo priemones, kurios užtikrintų aplinkosaugos, techninius-ekonominius ir higienos reikalavimus atitinkančios komunalinių atliekų tvarkymo paslaugos pasiūlą visiems savivaldybės teritorijoje esantiems asmenims.
+8. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savivaldybė teikia Aplinkos apsaugos departamentui informaciją apie įstatymuose ir kituose teisės aktuose savivaldybėms nustatytų reikalavimų ir Valstybiniame atliekų prevencijos ir tvarkymo plane nustatytų užduočių vykdymą atliekų tvarkymo srityje.
 
-3. Savivaldybių atliekų tvarkymo planus rengia savivaldybės ir tvirtina savivaldybių tarybos.
+Skirsnio pakeitimai:
 
-4. Savivaldybių atliekų tvarkymo planuose turi būti numatytos priemonės į sąvartynus vežamų biologiškai skaidžių atliekų kiekiui mažinti.
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
-5. Detalesnius savivaldybių atliekų tvarkymo planų reikalavimus nustato Aplinkos ministerija.
+septintasis skirsnis
 
-6. Savivaldybių atliekų tvarkymo planų vykdymo laikotarpis turi sutapti su Valstybinio atliekų tvarkymo plano vykdymo laikotarpiu.
-
-7. Už patvirtintų savivaldybių atliekų tvarkymo planų priemonių įgyvendinimą, už savivaldybės teritorijoje esančių komunalinių atliekų ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, sutvarkymo organizavimą atsakinga savivaldybės vykdomoji institucija.
-
-8. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savivaldybė teikia Aplinkos apsaugos departamentui informaciją apie įstatymuose ir kituose teisės aktuose savivaldybėms nustatytų reikalavimų ir valstybiniame strateginiame atliekų tvarkymo plane nustatytų užduočių vykdymą atliekų tvarkymo srityje.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-773, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18827
-
-Straipsnio pakeitimai:
-
-Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
-
-Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
+komunalinių atliekų tvarkymo sistemos
 
 29 straipsnis. Neteko galios nuo 2011 m. gegužės 3 d.
 
@@ -765,7 +751,11 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 4) registruoti komunalinių atliekų turėtojus;
 
-5) rinkti, analizuoti informaciją apie komunalinių atliekų tvarkymą savivaldybės ir (ar) atliekų tvarkymo regiono teritorijoje, regiono plėtros tarybos patvirtinto regioninio ir savivaldybės tarybos patvirtinto savivaldybės atliekų tvarkymo planų priemonių, užtikrinančių valstybiniame strateginiame atliekų tvarkymo plane nustatytų užduočių įgyvendinimą, vykdymą;
+5) rinkti, analizuoti informaciją apie komunalinių atliekų tvarkymą savivaldybės ir (ar) atliekų tvarkymo regiono teritorijoje, regiono plėtros tarybos patvirtinto regioninio ir savivaldybės tarybos patvirtinto savivaldybės atliekų prevencijos ir tvarkymo planų priemonių, užtikrinančių Valstybiniame atliekų prevencijos ir tvarkymo plane nustatytų užduočių įgyvendinimą, vykdymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 6) teikti pasiūlymus regiono plėtros tarybai ir savivaldybės tarybai dėl komunalinių atliekų tvarkymo sistemos tobulinimo ir plėtojimo;
 
@@ -815,7 +805,11 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 
 16. Siekdamos užtikrinti geros kokybės ir prieinamų komunalinių atliekų tvarkymo paslaugų teikimą visiems savivaldybės teritorijos gyventojams, organizuodamos komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos ir pakuočių atliekų tvarkymą, savivaldybės (arba savivaldybių įsteigti juridiniai asmenys, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) privalo su gamintojais ir importuotojais, jų įsteigtomis organizacijomis sudaryti šio Įstatymo 342, 343 straipsniuose ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje nurodytas gaminių ir pakuočių atliekų tvarkymo organizavimo sutartis. Komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos ir pakuočių atliekų surinkėjus savivaldybės turi išrinkti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
 
-17. Savivaldybės privalo įgyvendinti valstybiniame strateginiame atliekų tvarkymo plane joms nustatytas užduotis šiame plane nustatytais terminais ir užtikrinant plane numatytus minimalius reikalavimus:
+17. Savivaldybės privalo įgyvendinti Valstybiniame atliekų prevencijos ir tvarkymo plane joms nustatytas užduotis šiame plane nustatytais terminais ir užtikrinant plane numatytus minimalius reikalavimus:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 1) užtikrinti, kad komunalinių atliekų tvarkymo paslauga būtų visuotinė, geros kokybės, prieinama (įperkama) ir atitiktų aplinkosaugos, techninius-ekonominius ir visuomenės sveikatos saugos reikalavimus;
 
