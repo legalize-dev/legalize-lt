@@ -4,7 +4,7 @@ identifier: "TAR.23C5BC14E2B6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-10-22"
-last_updated: "2019-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.23C5BC14E2B6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,395 +16,369 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo policijos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 98-2713, i. k. 0981010ISTAVIII-911
 
-LIETUVOS RESPUBLIKOS KARO POLICIJOS ĮSTATYMAS
+Nauja redakcija nuo 2021-01-01:
+
+Nr. XIII-3437, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24614
+
+LIETUVOS RESPUBLIKOS
+
+KARO POLICIJos
+
+ĮSTATYMAS
 
 1998 m. spalio 22 d. Nr. VIII-911
 
 Vilnius
 
-PIRMASIS SKIRSNIS
+I SKYRIUS
 
 BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato karo policijos kompetenciją, funkcijas ir uždavinius, organizavimo tvarką, karo policininkų teises, pareigas ir atsakomybę bei karo policijos santykius su kitomis teisėsaugos institucijomis.
+Šis įstatymas nustato Karo policijos veiklos teisinius pagrindus, principus, uždavinius, funkcijas, Karo policijos pareigūnų teises, pareigas ir prievartos panaudojimo teisėtumo sąlygas.
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Karo policija – teisėsaugą Lietuvos Respublikos krašto apsaugos sistemoje šio įstatymo ir kitų teisės aktų nustatyta tvarka vykdantis Lietuvos kariuomenės padalinys.
+1. Karinis transportas – Lietuvos Respublikos krašto apsaugos sistemos valdomos ir naudojamos transporto priemonės, taip pat Lietuvos Respublikos teritorijoje esančios užsienio valstybių ar organizacijų karinių vienetų valdomos ir naudojamos transporto priemonės.
 
-2. Karo policininkas – profesinės karo tarnybos karys, tarnaujantis karo policijoje ir turintis šio įstatymo nustatytus viešojo administravimo įgaliojimus nepavaldiems asmenims.
+2. Karo policija – Lietuvos kariuomenės padalinys, vykdantis teisėsaugą ir palaikantis saugumą ir tvarką Lietuvos Respublikos krašto apsaugos sistemoje šiame įstatyme ir kituose teisės aktuose nustatyta tvarka.
 
-3. Karinis transportas – automobilių keliais, geležinkeliu, kita sausumos teritorija, taip pat oro ar vandens keliais karinius vežimus atliekančios krašto apsaugos sistemos valdomos ir naudojamos bendrosios ir specialiosios paskirties transporto priemonės.
+3. Karo policijos pareigūnas – karys, tarnaujantis Karo policijoje, atliekantis šiame įstatyme numatytas Karo policijos funkcijas ir turintis viešojo administravimo įgaliojimus sau nepavaldiems asmenims.
 
-4. Sąvoka „karinė teritorija“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme. Sąvoka „policija“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos policijos įstatyme.
+4. Prievarta – veiklos metodas, kuriuo siekiama įgyvendinti Karo policijai pavestus uždavinius ir kuris taikomas, kai nevykdomi Karo policijos pareigūno teisėti reikalavimai ar nurodymai arba siekiama išvengti pavojaus.
 
-Straipsnio dalies pakeitimai:
+5. Sąvokos „fizinė prievarta“ ir „psichinė prievarta“ suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos policijos įstatyme.
 
-Nr. XIII-1814, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21834
+6. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme ir Lietuvos Respublikos vadovybės apsaugos įstatyme.
 
-Straipsnio pakeitimai:
+3 straipsnis. Karo policijos veiklos teisiniai pagrindai
 
-Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
+Karo policija vadovaujasi Lietuvos Respublikos Konstitucija, krašto apsaugos sistemos veiklą ir karo tarnybą reglamentuojančiais įstatymais ir statutais, šiuo ir kitais įstatymais, Europos Sąjungos teisės aktais ir Lietuvos Respublikos tarptautinėmis sutartimis.
 
-3 straipsnis. Karo policijos veiklos principai
+4 straipsnis. Karo policijos veiklos principai
 
-1. Karo policijos veikla grindžiama kariuomenės civilinės kontrolės, pagarbos žmogaus teisėms, laisvėms ir orumui, humanizmo, teisėtumo, viešumo ir tarnybinės paslapties, karinės drausmės bei karinio pavaldumo principais.
+Karo policijos veiklos principai yra šie:
 
-2. Tarnybai karo policijoje taikomos profesinės karo tarnybos sąlygos.
+1) pagarbos žmogui ir valstybei – Karo policijos pareigūnas privalo gerbti žmogų ir pagrindines jo teises ir laisves, valstybę, jos institucijas ir įstaigas, laikytis Konstitucijos, įstatymų, kitų teisės aktų ir vykdyti teismų sprendimus;
 
-4 straipsnis. Karo policijos veiklos teisiniai pagrindai
+2) teisėtumo – Karo policijos pareigūnas privalo vienodai tarnauti visiems žmonėms, nepaisydamas tautybės, rasės, lyties, kalbos, kilmės, socialinės padėties, religinių įsitikinimų ir politinių pažiūrų; nepiktnaudžiauti jam suteiktomis galiomis; naudoti savo tarnybos laiką efektyviai ir tik tarnybos tikslams;
 
-Karo policija vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, krašto apsaugos sistemos veiklą ir karo tarnybą reglamentuojančiais įstatymais bei statutais, kitais Lietuvos Respublikos įstatymais bei teisės aktais, krašto apsaugos ministro ir kariuomenės vado įsakymais.
+3) viešumo – Karo policijos pareigūno tarnybinė veikla turi būti vieša ir suprantama; Karo policijos pareigūnas savo veikloje privalo vengti interesų konflikto. Viešumo principo veikimas gali būti ribojamas siekiant apsaugoti asmens teises, valstybės, tarnybos, komercinę, pramoninę ar banko paslaptį;
 
-5 straipsnis. Karo policijos kompetencija
+4) karinio pavaldumo principas – Karo policijos pareigūnai yra pavaldūs savo tiesioginiams vadams ir privalo vykdyti vadų įsakymus.
 
-1. Vykdydama šio įstatymo nustatytus uždavinius ir funkcijas, karo policija turi įgaliojimus:
+5 straipsnis. Karo policijos uždaviniai
 
-1) karinėse teritorijose ir kariniame transporte – visų asmenų atžvilgiu;
+Karo policijos uždaviniai yra:
 
-2) kitose teritorijose – karių atžvilgiu, taip pat asmenų, darančių nusikalstamas veikas ar kitus teisės pažeidimus prieš karius, krašto apsaugos institucijas ir jų valdomą ar naudojamą turtą, atžvilgiu.
+1) užtikrinti Lietuvos karinių vienetų, užsienio valstybių ir organizacijų karinių vienetų judėjimą ir judėjimo kontrolę Lietuvos Respublikoje;
 
-Straipsnio punkto pakeitimai:
+2) užtikrinti krašto apsaugos sistemos institucijų, sąjungininkų karinių vienetų, esančių Lietuvoje, dislokacijos vietovės, objektų, personalo ir informacijos saugumą;
 
-Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
+3) sulaikyti asmenis ir užtikrinti jų priežiūrą Lietuvos Respublikos baudžiamojo proceso kodekso, Lietuvos Respublikos administracinių nusižengimų kodekso, Lietuvos Respublikos kariuomenės drausmės statuto numatytais atvejais;
 
-2. Karo policijos įgaliojimai civilių atžvilgiu yra apriboti pagal šio įstatymo 21 straipsnio 5 dalį.
+4) užtikrinti nusikalstamų veikų, administracinių nusižengimų ir kitų teisės pažeidimų prevenciją krašto apsaugos sistemos institucijose;
 
-6 straipsnis. Karo policijos dalyvavimas tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose
+5) užtikrinti nusikalstamų veikų ir administracinių nusižengimų, kuriuos padarė kariai vykdydami tarnybą ar kuriais kėsinamasi į krašto apsaugos sistemos institucijų, Lietuvos, sąjungininkų karinių vienetų, dalyvaujančių Lietuvos Respublikoje vykstančiose tarptautinėse pratybose ir kituose karinio bendradarbiavimo renginiuose, interesus, ar kurie išaiškėja atliekant šiame straipsnyje numatytus uždavinius ir šio įstatymo 6 straipsnyje nustatytas funkcijas, atskleidimą ir tyrimą;
 
-1. Karo policininkai dalyvauja tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose įstatymų nustatyta tvarka.
+6) užtikrinti karinės drausmės ir tvarkos palaikymą krašto apsaugos sistemos institucijose.
 
-2. Karo policija turi šio įstatymo nustatytus įgaliojimus tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose dalyvaujantiems bei bendruose su kitomis valstybėmis kariniuose vienetuose tarnaujantiems Lietuvos kariams, krašto apsaugos sistemos valstybės tarnautojams, žvalgybos pareigūnams, tarnaujantiems pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojams, dirbantiems pagal darbo sutartis, taip pat kitus įgaliojimus, numatytus tarptautinėse sutartyse ar tarptautinių organizacijų rezoliucijose.
+6 straipsnis. Karo policijos funkcijos
 
-Straipsnio dalies pakeitimai:
+1. Karo policija, įgyvendindama jai pavestus uždavinius, atlieka šias funkcijas:
 
-Nr. XIII-1814, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21834
+1) reguliuoja eismą, užtikrindama karinio transporto judėjimą;
 
-Straipsnio pakeitimai:
+2) vykdo kertančių Lietuvos Respublikos valstybės sieną karių, karinėms pajėgoms priskirtų civilių tarnautojų ir jų gabenamų daiktų kontrolę;
 
-Nr. IX-2485, 2004-10-12, Žin., 2004, Nr. 156-5692 (2004-10-26), i. k. 1041010ISTA0IX-2485
+3) kontroliuoja užsienio valstybių ir organizacijų karių ir karinių krovinių atvykimą į Lietuvos Respubliką, išvykimą iš jos ar vykimą per Lietuvos Respublikos teritoriją tranzitu;
 
-7 straipsnis. Karo policijos veiklos kontrolė
+4) Lietuvos kariuomenės vado arba Lietuvos Respublikos krašto apsaugos ministro pavedimu vykdo krašto apsaugos sistemos valdomų objektų apsaugą;
 
-Karo policijos veiklą pagal kompetenciją kontroliuoja krašto apsaugos generalinė inspekcija, kariuomenės vadas ir krašto apsaugos ministras.
+5) vykdo saugomų asmenų, atvykstančių krašto apsaugos ministro ar Lietuvos kariuomenės vado oficialiu kvietimu, apsaugą;
 
-8 straipsnis. Karo policininkų veiksmų apskundimas
+6) Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka atlieka įslaptintų dokumentų, gaminių ir kitų įslaptintų objektų gabenimą Lietuvos Respublikos teritorijoje ir už jos ribų;
 
-1. Karo policininkų veiksmai skundžiami įstatymų ir kitų teisės aktų nustatyta tvarka.
+7) vykdo asmenų sulaikymą;
 
-2. Karo policininkų veiksmus krašto apsaugos ministro nustatyta tvarka taip pat galima apskųsti karo policijos vadui, kariuomenės vadui, krašto apsaugos generaliniam inspektoriui ir krašto apsaugos ministrui.
+8) organizuoja ir atlieka sulaikytųjų ar suimtųjų palydą (konvojų);
+
+9) užtikrina Karo policijoje laikomų sulaikytų asmenų, taip pat suimtųjų, su kuriais atliekami procesiniai veiksmai, priežiūrą;
+
+10) įgyvendina nusikalstamų veikų, administracinių nusižengimų ir kitų teisės pažeidimų prevenciją, atskleidimą, atlieka jų tyrimą, analizuoja jų priežastis bei sąlygas ir imasi priemonių joms pašalinti;
+
+11) registruoja ir nagrinėja pareiškimus ir pranešimus apie rengiamas, daromas ir padarytas nusikalstamas veikas, administracinius nusižengimus ir kitus teisės pažeidimus;
+
+12) atlieka pasislėpusių įtariamųjų, kaltinamųjų ar dingusių be žinios karių paiešką;
+
+13) tvarko nusikalstamų veikų, administracinių nusižengimų ir kitų teisės pažeidimų apskaitą, registrų ir informacinių sistemų duomenis;
+
+14) organizuoja ir įgyvendina priemones viešajai tvarkai karinėse teritorijose ar karių drausmei kitose teritorijose užtikrinti;
+
+15) organizuoja ir vykdo karių ir kitų teisėsaugos institucijų pareigūnų mokymą.
+
+2. Karo policija, vykdydama jai nustatytus uždavinius ir funkcijas, bendradarbiauja su prokuratūra, policija, kitomis Lietuvos Respublikos teisėsaugos, žvalgybos institucijomis ir palaiko profesinius ryšius su kitų valstybių karo policija ar analogiškomis institucijomis.
+
+3. Karo policija atlieka ir kitas įstatymų jai pavestas funkcijas.
+
+4. Karo policijos funkcijų vykdymo ypatumai diplomatinėse atstovybėse, konsulinėse įstaigose, tarptautinių organizacijų atstovybėse, karinėse teritorijose, kituose specialaus teisinio režimo objektuose ir dėl neliečiamybės teisę turinčių asmenų gali būti nustatyti kituose įstatymuose ir tarptautiniuose susitarimuose.
+
+7 straipsnis. Karo policijos veiklos viešumas
+
+1. Karo policija, nepažeisdama įstatymais ginamų asmens ir visuomenės interesų, apie savo veiklą informuoja valstybės ir savivaldybių institucijas bei įstaigas ir visuomenę, pateikdama informaciją Lietuvos kariuomenės interneto svetainėje.
+
+2. Karo policija negali teikti ar viešai skelbti informacijos, kuri yra valstybės, tarnybos, komercinė, pramoninė ar banko paslaptis, išskyrus įstatymų nustatytus atvejus. Neskelbiama tarnybinės veiklos metu gauta informacija, kuri pažeistų asmens nekaltumo prezumpciją, pakenktų žmogaus garbei, orumui ar saugumui, fizinių ir juridinių asmenų teisėtiems interesams, sutrukdytų užtikrinti nusikalstamų veikų, administracinių nusižengimų ar kitų teisės pažeidimų prevenciją, išaiškinimą arba lemtų jų padarymą.
+
+8 straipsnis. Teisė gauti informaciją
+
+1. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės privalo Karo policijos prašymu arba pagal duomenų teikimo sutartis Karo policijai neatlygintinai teikti jos uždaviniams įgyvendinti būtinus šių valstybės ir savivaldybių institucijų, įstaigų ir įmonių tvarkomus valstybės registrų (kadastrų) ir žinybinių registrų, klasifikatorių, informacinių sistemų ir duomenų rinkmenų duomenis.
+
+2. Kiti juridiniai asmenys, organizacijos, neturinčios juridinio asmens statuso, šių organizacijų ir juridinių asmenų padaliniai, taip pat fiziniai asmenys jų tvarkomus duomenis, būtinus Karo policijos uždaviniams įgyvendinti, neatlygintinai teikia Karo policijai, jeigu tai yra nustatyta kituose įstatymuose.
+
+3. Karo policija gali atidėti, apriboti ar atsisakyti teikti informaciją tretiesiems asmenims ir duomenų subjektams apie jai iš šiame straipsnyje nurodytų valstybės registrų (kadastrų) ir žinybinių registrų, klasifikatorių, informacinių sistemų ir duomenų rinkmenų pateiktus duomenis, bet tik tol, kol tai gali pakenkti nacionaliniam saugumui, gynybai, atliekamam nusikalstamų veikų tyrimui ar kitoms jos atliekamoms funkcijoms, arba jeigu tai numatyta kituose įstatymuose.
+
+9 straipsnis. Asmens duomenų tvarkymas Karo policijoje
+
+1. Karo policija, vykdydama šiame įstatyme numatytą veiklą, renkamus asmens duomenis tvarko nacionalinio saugumo, gynybos, nusikalstamų veikų, administracinių nusižengimų ir kitų teisės pažeidimų prevencijos, tyrimo, atskleidimo tikslais. Šiais tikslais Karo policija turi teisę tvarkyti ir specialių kategorijų asmens duomenis. Karo policijoje tvarkomi tie asmens duomenys, kurių reikia nurodytiems tikslams pasiekti, kitais tikslais asmens duomenys gali būti tvarkomi tik tuo atveju, jeigu laikomasi šio straipsnio 3 dalyje nurodytų reikalavimų.
+
+2. Karo policija, tvarkydama skirtingų kategorijų duomenų subjektų duomenis, privalo, kai įmanoma, šiuos duomenis atskirti. Šis reikalavimas taikomas tvarkant šių kategorijų duomenų subjektų asmens duomenis:
+
+1) asmenų, turinčių ar pretenduojančių gauti leidimą dirbti ar susipažinti su valstybės ar tarnybos paslaptį sudarančia informacija;
+
+2) asmenų, susijusių su Karo policijos vykdoma nusikalstamų veikų, administracinių nusižengimų ir kitų teisės pažeidimų prevencija, atskleidimu ar tyrimu;
+
+3) asmenų, kurių duomenis teikia Lietuvos Respublikos ar užsienio valstybių teisėsaugos institucijos;
+
+4) asmenų, kuriuos su Karo policija sieja ar siejo atrankos arba tarnybos (darbo), arba bendradarbiavimo santykiai.
+
+3. Šio straipsnio 1 dalyje nurodytais tikslais asmens duomenys tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu ir šiuo įstatymu. Tuo atveju, jeigu asmens duomenys tvarkomi kitais tikslais, negu nurodyta šio straipsnio 1 dalyje, taikoma 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) arba Asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymo 3 straipsnio 2 dalis.
+
+4. Karo policijos uždaviniams įgyvendinti būtini duomenys tvarkomi žinybiniuose registruose ir informacinėse sistemose. Karo policija, tvarkydama duomenis, turi teisę juos rinkti naudodama technines priemones.
+
+5. Karo policijos veiksmai ar neveikimas, susiję su asmens duomenų tvarkymu nacionalinio saugumo ar gynybos tikslais, galimai pažeidžiant šio įstatymo ar Asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymo nuostatas, gali būti skundžiami Lietuvos Respublikos Seimo kontrolieriui Lietuvos Respublikos Seimo kontrolierių įstatymo nustatyta tvarka arba teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, kitais šio straipsnio 1 dalyje nurodytais tikslais – Valstybinei duomenų apsaugos inspekcijai arba teismui.
+
+10 straipsnis. Karo policijos dalyvavimas tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose
+
+1. Karo policija turi šio įstatymo nustatytus įgaliojimus tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose dalyvaujantiems ir bendruose su kitomis valstybėmis kariniuose vienetuose tarnaujantiems Lietuvos kariams ir krašto apsaugos sistemos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, taip pat kitus įgaliojimus, numatytus Lietuvos Respublikos tarptautinėse sutartyse ir tarptautiniuose susitarimuose.
+
+2. Karo policijos įgaliojimai sąjungininkų karių atžvilgiu gali būti aptarti Lietuvos Respublikos tarptautinėse sutartyse su sąjungininkų pajėgomis.
+
+II SKYRIUS
+
+TEISINIS KARO POLICIJOS PAREIGŪNO STATUSAS IR TARNYBOS KARO POLICIJOJE YPATUMAI
+
+PIRMASIS SKIRSNIS
+
+KARO POLICIJOS PAREIGŪNO STATUSO ĮGIJIMAS, ĮGALIOJIMAI, TEISĖS IR PAREIGOS
+
+11 straipsnis. Karo policijos pareigūno statusas
+
+1. Karo policijos pareigūno statusą įgyja karys, paskirtas į tarnybą Karo policijoje.
+
+2. Karo policijos pareigūno statusą įrodo tarnybinis pažymėjimas ir tarnybinė uniforma arba tarnybinis ženklas.
+
+12 straipsnis. Karo policijos pareigūno įgaliojimai
+
+Įgyvendindamas Karo policijos uždavinius, Karo policijos pareigūnas turi teisę duoti sau nepavaldiems asmenims nurodymus ar pateikti reikalavimus, o jeigu asmenys jų nevykdo ar priešinasi, šio įstatymo nustatyta tvarka panaudoti prievartą. Teisėti ir pagrįsti Karo policijos pareigūno reikalavimai ar nurodymai yra privalomi visiems fiziniams ir juridiniams asmenims, organizacijoms, neturinčioms juridinio asmens statuso, šių organizacijų ir juridinių asmenų padaliniams ir turi būti vykdomi nedelsiant.
+
+13 straipsnis. Karo policijos pareigūno teisės
+
+1. Karo policijos pareigūnas, atlikdamas jam nustatytas funkcijas, turi šias teises:
+
+1) atlikti asmenų, kurie yra kariniame transporte ar karinėje teritorijoje, į ją atvyksta ar iš jos išvyksta, apžiūrą, tikrinti jų dokumentus, bagažą, naudojamas transporto priemones, karinėje teritorijoje esančius daiktus;
+
+2) stabdyti transporto priemones ir atlikti būtinąjį patikrinimą;
+
+3) nušalinti nuo transporto priemonių vairavimo asmenis, neturinčius teisės vairuoti transporto priemonės arba įtariamus, kad jie yra neblaivūs, apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, ir naudoti teisės aktų numatytas priemones apsvaigimui nustatyti arba pristatyti į sveikatos priežiūros įstaigą priverstiniam patikrinimui ar kitoms nustatytoms profilaktinėms priemonėms atlikti;
+
+4) Lietuvos Respublikos Vyriausybės nustatyta tvarka tikrinti, ar nusikalstamos veikos, administracinio nusižengimo ar drausmės pažeidimo padarymu įtariami asmenys yra blaivūs, ar nėra apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, taip pat pristatyti į sveikatos priežiūros įstaigą priverstiniam patikrinimui ar kitoms nustatytoms profilaktinėms priemonėms atlikti asmenis, įtariamus nusikalstamos veikos, administracinio nusižengimo padarymu, taip pat asmenis, kurie turi psichikos ligų požymių, kelia grėsmę savo, kitų asmenų ar Karo policijos pareigūnų saugumui;
+
+5) vykdydamas pareigas, bet kuriuo paros metu įeiti į visas karinėje teritorijoje esančias patalpas, o persekiodamas nusikalstamos veikos padarymu įtariamus asmenis, taip pat asmenis, kurie slepiasi nuo teisėsaugos institucijų, ar siekdamas užkirsti kelią nusikalstamai veikai, be patalpos savininko ar gyventojo sutikimo, be teismo sprendimo bet kuriuo paros metu įeiti į fiziniams ar juridiniams asmenims priklausančias gyvenamąsias ar negyvenamąsias patalpas, teritorijas, sustabdyti transporto priemones ar patekti į jas. Atsisakius paklusti, Karo policijos pareigūnai turi teisę jėga atidaryti patalpas ir transporto priemones. Apie tokius veiksmus per 24 valandas pranešama prokurorui;
+
+6) Baudžiamojo proceso kodekso, Administracinių nusižengimų kodekso numatytais atvejais atlikti nustatytus procesinius veiksmus;
+
+7) esant būtinybei, nekliudomai pasinaudoti fiziniams ir juridiniams asmenims priklausančiomis ryšių priemonėmis, išskyrus užsienio valstybių diplomatinių atstovybių, konsulinių įstaigų ir tarptautinių organizacijų atstovybių ar jų narių ryšių priemones. Už pasinaudojimą ryšių priemonėmis savininkui atlyginama Karo policijai skirtomis lėšomis per 7 dienas nuo ryšių priemonių savininko kreipimosi į Karo policiją dienos;
+
+8) važiuodamas į įvykio vietą, persekiodamas nusikalstamos veikos padarymu įtariamą asmenį, veždamas į sveikatos priežiūros įstaigą asmenį, kuriam būtina skubi medicinos pagalba, ar kitais neatidėliotinais atvejais nekliudomai pasinaudoti visomis fiziniams ar juridiniams asmenims priklausančiomis transporto priemonėmis, išskyrus užsienio valstybių diplomatinių atstovybių, konsulinių įstaigų ir tarptautinių organizacijų atstovybių ar jų narių transportą. Už pasinaudojimą transporto priemone savininkui atlyginama Karo policijai skirtomis lėšomis per 7 dienas nuo transporto priemonės savininko kreipimosi į Karo policiją dienos. Tokia pačia tvarka transporto priemonės savininkui atlyginama ir žala, kurią padaro Karo policijos pareigūnas naudodamasis jo transporto priemone;
+
+9) stabdyti transporto eismą, reguliuoti jo srautus;
+
+10) patruliuoti krašto apsaugos sistemos institucijų, sąjungininkų karinių vienetų, esančių Lietuvoje (jeigu tokia teisė numatyta susitarimuose su sąjungininkų pajėgomis), dislokacijos vietovėse, kitose karinėse teritorijose ir jų saugomų objektų prieigose;
+
+11) užtikrindamas saugomų objektų, asmenų saugumą ar įvykio vietos tyrimą, laikinai apriboti patekimą į tam tikrą teritoriją ar patalpą, įpareigoti fizinius ir juridinius asmenis nutraukti vykdomus darbus, apriboti ar uždrausti transporto eismą, kai kyla pavojus viešajai tvarkai, asmens ar valstybės saugumui;
+
+12) karinėse teritorijose malšinti masines riaušes ar grupinius veiksmus, kuriais pažeidžiama tvarka karinėje teritorijoje;
+
+13) panaudoti tarnybinius šunis;
+
+14) kai yra pakankamas pagrindas manyti, kad gali būti padaryta nusikalstama veika, administracinis teisės nusižengimas ar kitaip sutrikdyta viešoji tvarka, taip pat vykdant karių paiešką, tikrinti asmenų, transporto priemonių, krovinių, daiktų dokumentus, nustatyti asmens tapatybę, stabdyti transporto priemones, apžiūrėti asmenis, transporto priemones, kitus daiktus ir priemones, kviesti asmenis į Karo policijos tarnybines patalpas.
+
+2. Karo policijos pareigūnas naudojasi šio įstatymo ir kitų įstatymų jam suteiktomis teisėmis tiek, kiek reikia jam pavestoms pareigoms vykdyti.
+
+14 straipsnis. Karo policijos pareigūno pareigos
+
+1. Karo policijos pareigūnas privalo:
+
+1) gerbti ir ginti žmogaus orumą, užtikrinti ir saugoti jo teises ir laisves;
+
+2) imtis neatidėliotinų ir būtinų priemonių užkirsti kelią karių ir kitų asmenų daromoms nusikalstamoms veikoms, administraciniams nusižengimams ir kitiems teisės pažeidimams, įskaitant asmenų ne karinėse teritorijose daromas nusikalstamas veikas ir administracinius nusižengimus;
+
+3) įstatymų nustatyta tvarka sulaikyti ir (ar) pristatyti į Karo policijos ar kitas įstaigas asmenis, darančius ar įtariamus darant nusikalstamą veiką, administracinį nusižengimą ar kitokį teisės pažeidimą, imtis priemonių įvykio vietai apsaugoti ir nusikalstamos veikos liudytojams nustatyti, atlikti kitus būtinus procesinius veiksmus;
+
+4) užtikrinti sulaikytų ar pristatytų į Karo policiją asmenų teises ir teisėtus interesus;
+
+5) laikyti paslaptyje jam patikėtą įslaptintą (arba valstybės ir tarnybos paslaptį sudarančią) informaciją, jeigu konkrečios tarnybinių pareigų vykdymo aplinkybės nereikalauja kitaip.
+
+2. Karo policijos pareigūnas privalo atlikti ir kitas įstatymų jam nustatytas pareigas.
+
+3. Vykdydamas tarnybines pareigas ir kreipdamasis į asmenį, Karo policijos pareigūnas privalo prisistatyti. Asmens, į kurį kreipiasi Karo policijos pareigūnas, reikalavimu Karo policijos pareigūnas privalo parodyti tarnybinį pažymėjimą arba tarnybinį ženklą.
 
 ANTRASIS SKIRSNIS
 
-KARO POLICIJOS UŽDAVINIAI IR FUNKCIJOS
+PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ PANAUDOJIMAS
 
-9 straipsnis. Karo policijos uždaviniai
+15 straipsnis. Prievartos rūšys ir jos panaudojimo sąlygos
 
-Pagrindiniai karo policijos uždaviniai yra nusikalstamų veikų bei kitų teisės pažeidimų prevencija, jų atskleidimas ir tyrimas, tvarkos ir drausmės karinėse teritorijose ir kariuomenėje palaikymas, karinio transporto eismo saugumo priežiūra pagal šio įstatymo 5 straipsnyje nustatytą kompetenciją.
+1. Karo policijos pareigūnas turi teisę panaudoti prievartą, kai būtina užkirsti kelią teisės pažeidimams, sulaikyti juos padariusius asmenis ir kitais atvejais saugodamas ir gindamas asmens, visuomenės, valstybės teisėtus interesus. Prievarta, galinti sukelti kūno sužalojimų ar mirtį, gali būti naudojama tik tiek, kiek to reikia tarnybinei pareigai įvykdyti, ir tik po to, kai visos įmanomos įtikinimo ar kitos priemonės nebuvo veiksmingos. Prievartos rūšį ir jos panaudojimo ribas pasirenka Karo policijos pareigūnas, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodamas prievartą, Karo policijos pareigūnas privalo stengtis išvengti sunkių pasekmių.
 
-Straipsnio pakeitimai:
+2. Karo policijos pareigūnas šio įstatymo numatytais atvejais ir tvarka gali panaudoti psichinę ar fizinę prievartą, šaunamąjį ginklą ir sprogstamąsias medžiagas.
+
+3. Prieš naudodamas fizinę prievartą arba šaunamąjį ginklą, Karo policijos pareigūnas privalo įspėti asmenį apie tokį ketinimą, suteikdamas jam galimybę įvykdyti reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę Karo policijos pareigūno ar kito žmogaus gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
+
+4. Karo policijos pareigūnas, jeigu jis su savimi neturi specialiųjų priemonių ar šaunamojo ginklo, gali panaudoti kitas pagalbines priemones, būtinas kėsinimuisi atremti ar pavojaus šaltiniui likviduoti.
+
+5. Karo policijos pareigūnas, panaudojęs prievartą nepažeisdamas šio įstatymo reikalavimų ir padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
+
+6. Apie Karo policijos pareigūno panaudotą prievartą, sukėlusią asmens mirtį arba sužeidimą, nedelsiant informuojamas prokuroras.
+
+7. Kai stabdoma transporto priemonė ar joje esantys asmenys savo veiksmais kelia neišvengiamą pavojų Karo policijos pareigūnui ar kito žmogaus gyvybei ar sveikatai, Karo policijos pareigūnas turi teisę kita transporto priemone ar tam skirta specialiąja priemone stabdomą transporto priemonę taranuoti.
+
+8. Karo policijos pareigūnai turi būti specialiai parengti ir periodiškai tikrinami, ar jie geba veikti situacijomis, susijusiomis su fizinės prievartos, šaunamojo ginklo ar sprogstamųjų medžiagų panaudojimu. Karo policijos pareigūnų rengimo ir tikrinimo tvarką bei rengimo programas nustato Lietuvos kariuomenės vadas arba jo įgaliotas asmuo.
+
+16 straipsnis. Fizinės prievartos panaudojimo pagrindai
+
+1. Karo policijos pareigūnas turi teisę panaudoti fizinę prievartą:
+
+1) gindamas save, kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi;
+
+2) sulaikydamas teisės pažeidimą padariusį asmenį, taip pat viešąją tvarką ar tvarką karinėje teritorijoje pažeidžiantį asmenį, jeigu šie asmenys neklauso Karo policijos pareigūno reikalavimų ar priešinasi jam;
+
+3) kai kėsinamasi į karinę teritoriją, kariuomenės kontroliuojamą ar saugomą objektą, transporto priemonę, šaunamąjį ginklą, sprogstamąsias medžiagas, specialiąsias ryšio, aktyviosios ar pasyviosios gynybos priemones arba į kitą krašto apsaugos sistemos institucijų valdomą turtą;
+
+4) masinių riaušių ar grupinių veiksmų, kuriais pažeidžiama tvarka karinėje teritorijoje, metu;
+
+5) esant tarnybiniam būtinumui, stabdydamas transporto priemonę;
+
+6) stabdydamas transporto priemone kitą transporto priemonę šią blokuodamas.
+
+2. Draudžiama naudoti kovinių imtynių veiksmus ir specialiąsias priemones prieš moteris, jeigu akivaizdu, kad jos nėščios, prieš asmenis, jeigu Karo policijos pareigūnas žino, kad jie turi neliečiamybės teisę, taip pat prieš asmenis, jeigu akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius žinomas Karo policijos pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai asmenys, prieš kuriuos draudžiama naudoti kovinių imtynių veiksmus ir specialiąsias priemones, priešinasi pavojingu gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę Karo policijos pareigūno ar kito žmogaus gyvybei ar sveikatai.
+
+3. Jeigu Karo policijos pareigūnas, vairuojantis transporto priemonę, blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla pavojus kitų žmonių gyvybei ar sveikatai, po šių veiksmų nedelsdamas turi imtis priemonių šių veiksmų padariniams pašalinti.
+
+17 straipsnis. Šaunamojo ginklo panaudojimas
+
+1. Karo policijos pareigūnas, kai kitos prievartos priemonės yra neveiksmingos, kaip išimtinę priemonę turi teisę panaudoti šaunamąjį ginklą.
+
+2. Karo policijos pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenį tokiais atvejais:
+
+1) gindamas save, kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi;
+
+2) sulaikydamas nusikalstamą veiką galimai padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako įvykdyti reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, jeigu kyla pavojus Karo policijos pareigūno ar kito žmogaus gyvybei ar sveikatai ir kitaip neįmanoma asmens nuginkluoti;
+
+3) atremdamas karinės teritorijos, kariuomenės kontroliuojamo ar saugomo objekto užpuolimą;
+
+4) pabėgimo vykdant sulaikytųjų ar suimtųjų palydą (konvojavimą) metu.
+
+3. Karo policijos pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš transporto priemonę ir gyvūnus, jeigu kyla pavojus Karo policijos pareigūno ar kito žmogaus gyvybei ar sveikatai.
+
+4. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, jeigu akivaizdu, kad jos nėščios, prieš asmenis, jeigu Karo policijos pareigūnas žino, kad jie turi neliečiamybės teisę, taip pat prieš asmenis, jeigu akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius žinomas Karo policijos pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai asmenys, prieš kuriuos draudžiama naudoti šaunamąjį ginklą, priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę Karo policijos pareigūno ar kito žmogaus gyvybei ar sveikatai.
+
+18 straipsnis. Sprogstamųjų medžiagų panaudojimas
+
+Karo policijos pareigūnas, nesukeldamas grėsmės žmogaus gyvybei, turi teisę panaudoti sprogstamąsias medžiagas, kad patektų į patalpą (vietą), kurioje daromi nusikalstami veiksmai, keliantys grėsmę Karo policijos pareigūno ar kito žmogaus gyvybei ar sveikatai.
+
+19 straipsnis. Kiti Karo policijos pareigūno tarnybos ypatumai
+
+1. Karo policijos pareigūnas turi teisę išimti šaunamąjį ginklą iš dėklo ir parengti jį panaudoti, jeigu mano, kad konkrečioje situacijoje gali tekti ginklą panaudoti.
+
+2. Karo policijos pareigūnas, nesukeldamas grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą, išsikviesti pagalbą arba įspėti apie galimą šaunamojo ginklo panaudojimą.
+
+3. Karo policijos pareigūnas turi teisę panaudoti psichinę ar fizinę prievartą, jeigu sulaikomas ar sulaikytas asmuo bando panaudoti prievartą arba artinasi prie Karo policijos pareigūno ir neklauso jo reikalavimo laikytis nurodyto atstumo, arba kėsinasi atimti iš Karo policijos pareigūno šaunamąjį ginklą. Jeigu panaudotos prievartos priemonės yra neveiksmingos arba jų panaudojimas yra neįmanomas dėl asmens daromų veiksmų intensyvumo, o delsimas kelia grėsmę Karo policijos pareigūno ar kito asmens gyvybei, Karo policijos pareigūnas gali panaudoti šaunamąjį ginklą.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+
+Lietuvos Respublikos karo policijos įstatymo 10, 13, 14, 15, 17, 18, 20 ir 21 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2485, 2004-10-12, Žin., 2004, Nr. 156-5692 (2004-10-26), i. k. 1041010ISTA0IX-2485
+
+Lietuvos Respublikos karo policijos įstatymo 6 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
 
-10 straipsnis. Karo policijos funkcijos
+Lietuvos Respublikos karo policijos įstatymo 2, 5, 9, 10, 11, 12, 13, 14, 15, 20, 21 straipsnių pakeitimo ir penktojo skirsnio pripažinimo netekusiu galios įstatymas
 
-1. Karo policija:
+4.
 
-1) rengia ir įgyvendina priemones, užkardančias nusikalstamas veikas ir kitus teisės pažeidimus;
-
-2) imasi priemonių nusikalstamų veikų ir kitų teisės pažeidimų priežastims ir sąlygoms šalinti ir kontroliuoja, kaip tos priemonės vykdomos;
-
-3) registruoja ir tikrina pareiškimus ir pranešimus apie karių ar karinėse teritorijose ir kariniame transporte rengiamas ar padarytas nusikalstamas veikas ir kitus teisės pažeidimus;
-
-4) įstatymų nustatyta tvarka atlieka įtariamųjų, kaltinamųjų ar dingusių be žinios karių paiešką;
-
-5) įstatymų nustatyta tvarka atlieka ikiteisminį tyrimą;
-
-6) įstatymų nustatytais atvejais ir tvarka vykdo ikiteisminio tyrimo pareigūno, prokuroro, teisėjo ir teismo pavedimus;
-
-7) tvarko krašto apsaugos sistemoje padarytų nusikalstamų veikų ir kitų teisės pažeidimų apskaitą;
-
-8) palaiko viešąją tvarką ir padeda vadams užtikrinti karių drausmę karinėse teritorijose;
-
-9) organizuoja ir atlieka sulaikytųjų ar suimtųjų palydą (konvojų);
-
-10) perima iš policijos jos sulaikytus karius;
-
-11) pagal šio įstatymo 21 straipsnio 5 dalį sulaiko ir perduoda policijai civilius, įtariamus padarius nusikalstamą veiką ar kitą teisės pažeidimą;
-
-12) reguliuoja karinio transporto eismą, prireikus lydi šį transportą ir derina jo maršrutus su kelių policija;
-
-13) tiria karinio transporto eismo įvykius arba dalyvauja juos tiriant, taip pat tiria karinėse teritorijose ar karinio transporto priemonių vairuotojų padarytus Kelių eismo taisyklių pažeidimus;
-
-14) teikia neatidėliotiną pagalbą nukentėjusiems nuo teisės pažeidimų asmenims ir tiems, kurių būklė bejėgiška;
-
-15) teisės aktų nustatyta tvarka Lietuvos Respublikos teritorijoje lydi ir saugo užsienio valstybių karinį transportą;
-
-16) saugo rastus ir karo policijai perduotus dokumentus, daiktus, vertybes bei kitą turtą ir imasi priemonių grąžinti juos teisėtiems savininkams ar valdytojams;
-
-17) krašto apsaugos ministro nustatyta tvarka saugo karines teritorijas;
-
-18) teisės aktų nustatyta tvarka atlieka įslaptintų dokumentų, gaminių ir kitų įslaptintų objektų vežimą Lietuvos Respublikos teritorijoje ir už jos ribų;
-
-19) krašto apsaugos ministro įsakymu atlieka kitas įstatymų nustatytas funkcijas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
-
-2. Vykdydama šio straipsnio 1 dalyje numatytas funkcijas, karo policija bendradarbiauja su kriminalinės žvalgybos subjektais, žvalgybos institucijomis ir kitomis Lietuvos Respublikos teisėsaugos institucijomis ir palaiko profesinius ryšius su kitų valstybių karo policija ar analogiškomis institucijomis.
-
-Straipsnio dalies pakeitimai:
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XI-2249, 2012-10-02, Žin., 2012, Nr. 122-6108 (2012-10-20), i. k. 1121010ISTA0XI-2249
 
-TREČIASIS SKIRSNIS
+Lietuvos Respublikos karo policijos įstatymo 10 straipsnio pakeitimo įstatymas
 
-KARO POLICIJOS ORGANIZAVIMAS
+5.
 
-11 straipsnis. Karo policijos organizavimas
+Lietuvos Respublikos Seimas, Įstatymas
 
-1. Karo policiją steigia, jos struktūrą, simboliką tvirtina krašto apsaugos ministras.
+Nr. XII-1446, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20787
 
-Straipsnio dalies pakeitimai:
+Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 papildymo penktuoju-1 skirsniu įstatymas
 
-Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
+6.
 
-2. Karo policija yra kariuomenės dalis, tiesiogiai pavaldi kariuomenės vadui.
-
-3. Karo policijai vadovauja karo policijos vadas. Jį kariuomenės vado siūlymu skiria ir atleidžia krašto apsaugos ministras.
-
-12 straipsnis. Karo policininkų skyrimo ir atleidimo tvarka
-
-1. Karo policininko priėmimo į profesinę karo tarnybą ir atleidimo iš jos, tarnybos atlikimo tvarką, aprūpinimą ir socialines garantijas nustato krašto apsaugos sistemos organizavimą ir karo tarnybos atlikimą reglamentuojantys įstatymai.
-
-2. Į tarnybą karo policijoje asmenys skiriami atrankos būdu. Atrankos kriterijus ir tvarką karo policijos vado siūlymu nustato Lietuvos kariuomenės vadas.
-
-Straipsnio pakeitimai:
-
-Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
-
-KETVIRTASIS SKIRSNIS
-
-KARO POLICININKŲ PAREIGOS, TEISĖS IR ATSAKOMYBĖ
-
-13 straipsnis. Karo policininko pareigos
-
-1. Karo policininkas privalo:
-
-1) vykdydamas tarnybines pareigas nepažeisti žmogaus teisių ir laisvių, gerbti, saugoti ir ginti žmogaus orumą;
-
-14 straipsnis. Karo policininko teisės
-
-1. Karo policininkas turi šias teises:
-
-1) reikalauti iš karių ir kitų teisėtvarką pažeidžiančių asmenų nutraukti neteisėtus veiksmus, o prireikus, kai buvo imtasi visų įtikinimo priemonių, panaudoti fizinę prievartą, kad neteisėti veiksmai būtų nutraukti;
-
-2) įstatymų nustatyta tvarka sulaikyti asmenis, įtariamus padarius nusikalstamą veiką ar kitą teisės pažeidimą;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
-
-3) tikrinti karių ir kitų asmenų, kurie yra kariniame transporte ar karinėje teritorijoje, į ją atvyksta ar iš jos išvyksta, taip pat kitose teritorijose esančių karių dokumentus, bagažą, karines ar jų asmenines transporto priemones ir transporto priemonių dokumentus;
-
-4) stabdyti karinį transportą, tikrinti karinio transporto vairuotojų ir juos lydinčių pareigūnų asmens, transporto priemonių bei krovinių dokumentus;
-
-5) nušalinti nuo transporto priemonių vairavimo karius, neturinčius teisės vairuoti transporto priemonę, arba įtariamus, kad jie yra apsvaigę nuo alkoholio, narkotinių bei toksinių medžiagų ar paveikti vaistų, ir naudoti teisės aktų numatytas priemones apsvaigimui nustatyti arba įtariamuosius pristatyti mediciniškai patikrinti;
-
-6) vykdydamas tiesiogines pareigas, taip pat persekiodamas įtariamus padarius nusikalstamą veiką asmenis, besislepiančius nuo teisėsaugos institucijų nusikaltėlius ar siekdamas užkirsti kelią daromoms nusikalstamoms veikoms ir kitiems teisės pažeidimams, bet kuriuo paros metu įeiti į visas karinėje teritorijoje esančias patalpas;
-
-Straipsnio punkto pakeitimai:
-
-Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
-
-Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
-
-7) pagal įgaliojimus atlikti įstatymų nustatytus procesinius veiksmus;
-
-8) esant būtinybei, nekliudomai pasinaudoti fiziniams ir juridiniams asmenims priklausančiomis ryšių priemonėmis, išskyrus diplomatinių ar konsulinių atstovybių ar atstovų ryšių priemones. Jeigu ryšių priemonių savininkas reikalauja, už pasinaudojimą ryšių priemonėmis jam per 7 dienas atlyginama iš karo policijai skirtų lėšų;
-
-9) važiuodamas į įvykio vietą, persekiodamas nusikaltėlius, gabendamas į gydymo įstaigas asmenis, kuriems būtina skubi medicinos pagalba, ar kitais neatidėliotinais atvejais nekliudomai pasinaudoti visomis fiziniams ar juridiniams asmenims priklausančiomis transporto priemonėmis, išskyrus diplomatinių ar konsulinių atstovybių ar atstovų transportą. Jeigu transporto priemonės savininkas reikalauja, už pasinaudojimą transporto priemone jam per 7 dienas atlyginama iš karo policijai skirtų lėšų. Tokia pat tvarka transporto priemonės savininkui atlyginama ir žala, padaryta, kai karo policininkas naudojosi jo transporto priemone;
-
-10) įstatymų ir kitų teisės aktų nustatyta tvarka ir atvejais panaudoti ginklus ir specialiąsias priemones.
-
-Straipsnio punkto pakeitimai:
-
-Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
-
-2. Karo policininko teisėti reikalavimai, neviršijantys įgaliojimų, privalomi visiems asmenims. Jeigu asmuo atsisako vykdyti teisėtus karo policininko reikalavimus, karo policininkas turi teisę prieš jį panaudoti prievartą, tačiau tik tiek, kiek reikia tarnybinei pareigai įvykdyti, ir tik po to, kai visos įmanomos įtikinimo priemonės nebuvo veiksmingos.
-
-3. Karo policininkas naudojasi šio įstatymo suteiktomis teisėmis tiek, kiek reikia jam pavestoms pareigoms vykdyti.
-
-4. Karo policininkai turi teisę pristatyti ar sulaikyti nusikalstamą veiką ar kitą teisės pažeidimą darantį ar įtariamą padarius asmenį į karo policijos ar kito karinio vieneto tarnybines patalpas jo asmenybei nustatyti, įvykio aplinkybėms išsiaiškinti ir asmenims ar jų turimiems daiktams apžiūrėti pagal šio įstatymo 5 straipsnyje nustatytą kompetenciją.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
-
-15 straipsnis. Karo policininko atsakomybė
-
-1. Karo policininkas asmeniškai atsako už savo sprendimus, veiksmus ir jų pasekmes.
-
-2. Už padarytas nusikalstamas veikas ir administracinius nusižengimus karo policininkas atsako Lietuvos Respublikos baudžiamojo kodekso ir Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka. Už drausminius nusižengimus karo policininkas atsako drausmės statutų nustatyta tvarka.
-
-TAR pastaba. 15 straipsnio 2 dalies nuostatos taikomos ir tais atvejais, kai yra padaryti administraciniai teisės pažeidimai, numatyti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
-
-Straipsnio dalies pakeitimai:
-
-Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
-
-Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-2522, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20280
 
-3. Karo policininkas neturi vykdyti akivaizdžiai neteisėto įsakymo. Apie tokio įsakymo gavimą jis turi pranešti karo policijos vadovybei. Akivaizdžiai neteisėto įsakymo vykdymas karo policininko nuo atsakomybės neatleidžia.
+Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 15 straipsnio pakeitimo įstatymas
 
-4. Neteisėtais tarnybiniais karo policininko veiksmais padaryta žala atlyginama Lietuvos Respublikos įstatymų nustatyta tvarka.
+7.
 
-5. Karo policininkas, vykdantis įstatymų jam suteiktus įgaliojimus, neatsako už padarytą žalą, jei nebuvo peržengtos įtariamojo ar nusikaltėlio sulaikymo teisėtumo ribos.
+Lietuvos Respublikos Seimas, Įstatymas
 
-5 skirsnis. Neteko galios nuo 2012-01-01
+Nr. XIII-1814, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21834
 
-Skirsnio naikinimas:
+Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 2 ir 6 straipsnių pakeitimo įstatymas
 
-Nr. XI-1635, 2011-11-08, Žin. 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
+8.
 
-PENKTASIS1 SKIRSNIS
+Lietuvos Respublikos Seimas, Įstatymas
 
-ŠAUNAMŲJŲ GINKLŲ, FIZINĖS IR KITOKIOS
+Nr. XIII-3437, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24614
 
-PRIEVARTOS PANAUDOJIMAS
-
-16 straipsnis. Specialiųjų priemonių bei šaunamųjų ginklų panaudojimo tikslai ir ribos
-
-1. Karo policija turi teisę turėti ir šiame įstatyme numatytomis sąlygomis panaudoti specialiąsias priemones ir šaunamuosius ginklus.
-
-2. Karo policija specialiąsias priemones ir šaunamuosius ginklus naudoja siekdama nutraukti pavojingą veiką arba sulaikyti tokią veiką padariusį asmenį. Šaunamasis ginklas ir specialiosios priemonės naudojamos tik įstatymo numatytam tikslui pasiekti.
-
-3. Specialiosios priemonės ir šaunamieji ginklai naudojami atsižvelgiant į nusikaltimo ar kito teisės pažeidimo pobūdį, pažeidėjo asmenybę ir konkrečias aplinkybes. Naudodami specialiąsias priemones ar šaunamąjį ginklą, karo policininkai privalo stengtis išvengti sunkių pasekmių.
-
-4. Prieš panaudojant specialiąsias priemones ar šaunamuosius ginklus, asmenys, prieš kuriuos jie bus panaudojami, turi būti įspėjami, išskyrus atvejus, kai karo policininkas akivaizdžiai užpuolamas arba kyla tiesioginis pavojus kito asmens gyvybei arba sveikatai. Šaunamasis ginklas naudojamas tik tada, kai kiti galimi būdai ir priemonės panaudotos arba kai dėl laiko stygiaus ar situacijos jų panaudoti yra neįmanoma.
-
-5. Draudžiama naudoti specialiąsias priemones prieš nepilnamečius, nėščias moteris ir asmenis, turinčius su savimi mažamečių vaikų, invalidus su aiškiais invalidumo požymiais, išskyrus atvejus, kai minėti asmenys užpuola patys.
-
-6. Šaunamąjį ginklą draudžiama naudoti žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, taip pat prieš asmenis, turinčius su savimi mažamečių vaikų, prieš moteris ir nepilnamečius, invalidus su aiškiais invalidumo požymiais, išskyrus atvejus, kai minėti asmenys patys užpuola arba priešinasi ginklu.
-
-17 straipsnis. Šaunamųjų ginklų panaudojimo sąlygos ir tvarka
-
-1. Šaunamuosius ginklus karo policininkai gali panaudoti prieš asmenis, transporto priemones ir gyvūnus.
-
-2. Šaunamasis ginklas prieš asmenis panaudojamas tada, kai tai yra būtina, ir tokiu būdu, kuris atitinka gresiantį pavojų. Šaunamasis ginklas prieš asmenis gali būti panaudotas šiais atvejais:
-
-1) ginkluotam užpuolimui atremti;
-
-2) pasikėsinimui į karo policininkų gyvybę ar sveikatą, taip pat užpuolimui, kai siekiama atimti iš karo policininkų šaunamąjį ginklą, atremti;
-
-3) karo policininko užpuolimui, kai siekiama atimti jam patikėtą turtą, priemones ir tarnybos dokumentus, atremti, jeigu kitaip užpuolimo atremti neįmanoma;
-
-4) kitiems asmenims nuo užpuolimo apginti, kai gresia pavojus jų sveikatai ar gyvybei, taip pat pagrobtiems ar paimtiems įkaitais asmenims išlaisvinti;
-
-5) karo policijos saugomų objektų ar karinių teritorijų užpuolimui atremti;
-
-6) persekioti arba sulaikyti asmenis, užkluptus darant sunkų nusikaltimą, jeigu kitaip jų sulaikyti neįmanoma;
-
-7) persekioti arba sulaikyti įtariamą padarius nusikalstamą veiką asmenį, jeigu šis asmuo, norėdamas išvengti sulaikymo, ketina panaudoti ar panaudoja šaunamąjį ginklą, taip pat kitokius daiktus arba įrankius bei veiksmus, pavojingus žmonių sveikatai ar gyvybei;
-
-Straipsnio punkto pakeitimai:
-
-Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
-
-8) norint sulaikyti suimtąjį, bandantį pabėgti ar pabėgusį iš karinio vieneto areštinės arba palydos (konvojaus) metu;
-
-9) esant masinėms riaušėms ar grupiniams veiksmams, šiurkščiai pažeidžiantiems tvarką karinėje teritorijoje.
-
-3. Karo policininkai turi teisę panaudoti šaunamąjį ginklą prieš karinio transporto priemonę, jeigu jos vairuotojas nepaklūsta išankstiniam akivaizdžiai išreikštam karo policininko reikalavimui sustoti, o tolesnis šios transporto priemonės vairavimas gali sukelti grėsmę eismo saugumui ar žmonėms, taip pat ir prieš kitas transporto priemones šio straipsnio 2 dalies 6, 7 ir 8 punktuose nurodytais atvejais.
-
-4. Karo policininkas gali panaudoti šaunamąjį ginklą prieš gyvūnus, keliančius pavojų žmonių sveikatai ar gyvybei.
-
-5. Apie šaunamojo ginklo panaudojimo faktą ir pasekmes karo policininkas nedelsdamas praneša savo vadovybei. Karo policijos vadovybė apie šaunamojo ginklo panaudojimą praneša krašto apsaugos ministrui, kariuomenės vadui ir prokurorui, o jeigu šaunamasis ginklas panaudotas ne karinėje teritorijoje ir ne kariniame transporte, - taip pat ir atitinkamam teritoriniam policijos komisariatui.
-
-18 straipsnis. Karo policijos specialiosios priemonės ir jų panaudojimo sąlygos
-
-1. Karo policija gali panaudoti šias specialiąsias priemones:
-
-1) gumines lazdas;
-
-2) antrankius ir surišimo priemones;
-
-3) asmens apsaugai skirtas dujas ir specialios paskirties dujas;
-
-4) kovinių imtynių veiksmus;
-
-5) tarnybinius šunis;
-
-6) transporto priemonių priverstinio sustabdymo priemones.
-
-2. Guminė lazda gali būti panaudota šiais atvejais:
-
-1) šio įstatymo 17 straipsnio 2 ir 4 dalyse numatytais atvejais;
-
-2) sulaikant pažeidžiantį viešąją tvarką ar tvarką karinėje teritorijoje asmenį, jeigu jis neklauso karo policininko reikalavimų ar priešinasi jam.
-
-3. Antrankiai ir surišimo priemonės gali būti panaudotos šiais atvejais:
-
-1) šio įstatymo 17 straipsnio 2 dalies 6 ir 7 punktuose numatytais atvejais;
-
-2) sulaikant ir pristatant į karo policiją padariusį pavojingą veiką asmenį, jeigu yra pagrindo manyti, kad jis gali pasipriešinti karo policininkui arba bando išvengti sulaikymo;
-
-3) lydint sulaikytuosius ir suimtuosius;
-
-4) kai asmuo savo pavojingais veiksmais gali padaryti žalą sau ar aplinkiniams.
-
-4. Asmens apsaugai skirtos dujos gali būti panaudotos šio straipsnio 2 dalyje numatytais atvejais.
-
-5. Specialios paskirties dujos gali būti panaudotos šiais atvejais:
-
-1) masinių riaušių ar grupinių veiksmų, kuriais pažeidžiama tvarka karinėje teritorijoje, atvejais;
-
-2) sulaikant padariusį pavojingą veiką asmenį bei priverčiant jį apleisti patalpas, transporto priemonę.
-
-6. Kovinių imtynių veiksmai gali būti panaudoti šiais atvejais:
-
-1) šio įstatymo 17 straipsnio 2 dalyje numatytais atvejais;
-
-2) sulaikant ir pristatant į karo policiją padariusį pavojingą veiką asmenį, jeigu šis asmuo priešinasi sulaikymui ar kitais veiksmais stengiasi sulaikymo išvengti;
-
-3) kai asmuo piktybiškai nevykdo teisėto karo policininko reikalavimo arba pasipriešina teisėtiems karo policininko veiksmams.
-
-7. Tarnybiniai šunys gali būti panaudoti šiais atvejais:
-
-1) šio įstatymo 17 straipsnio 2 dalyje numatytais atvejais;
-
-2) sulaikant asmenį, pabėgusį iš sulaikymo vietos ar konvojavimo metu;
-
-3) sulaikant asmenį, įtariamą padarius nusikalstamą veiką arba šiurkščiai pažeidžiantį viešąją tvarką ar tvarką karinėje teritorijoje;
-
-Straipsnio punkto pakeitimai:
-
-Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
-
-4) ginant asmenį, save ar saugomą objektą nuo užpuolimo.
-
-8. Transporto priemonių priverstinio sustabdymo priemonės gali būti panaudotos:
-
-1) šio įstatymo 17 straipsnio 3 dalyje numatytais atvejais;
-
-2) kai karinio transporto priemonės vairuotojas nepaklūsta karo policininko ar specialaus kelio ženklo reikalavimui sustoti.
-
-ŠEŠTASIS SKIRSNIS
-
-SANTYKIAI SU KITOMIS TEISĖSAUGOS INSTITUCIJOMIS
-
-19 straipsnis. Bendradarbiavimas su policija, prokuratūra ir kitomis teisėsaugos institucijomis
-
-Karo policija bendradarbiauja su Lietuvos Respublikos policija, prokuratūra ir kitomis teisėsaugos institucijomis įstatymų, kitų teisės aktų bei karo policijos, policijos, prokuratūros ir kitų teisėsaugos institucijų vadovų nustatyta tvarka.
+Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 pakeitimo įstatymas
 
 20 straipsnis. Karo policijos santykiai su prokuratūra ir ikiteisminio tyrimo įstaigomis
 
