@@ -4,7 +4,7 @@ identifier: "TAR.E0EA485657C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2020-10-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
 
@@ -94,7 +94,11 @@ Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
 
 2. Lietuvos Respublikos asociacijų įstatymas LŠS taikomas tiek, kiek jis neprieštarauja šiam įstatymui.
 
-3. Ginkluotos gynybos nuo agresijos (karo) ir mokymų bei pratybų su Lietuvos kariuomenės (toliau – kariuomenė) vienetais metu LŠS koviniams būriams taikomi tarnybą kariuomenėje reglamentuojantys statutai.
+3. Karo padėties ar ginkluotos gynybos nuo agresijos (karo) ir mokymų bei pratybų su Lietuvos kariuomenės (toliau – kariuomenė) vienetais metu LŠS koviniams būriams taikomi tarnybą kariuomenėje reglamentuojantys statutai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
 
 4 straipsnis. LŠS statutas
 
@@ -194,7 +198,11 @@ LŠS tikslai – stiprinti Lietuvos Respublikos nacionalinį saugumą telkiant 
 
 Siekdama šio įstatymo 7 straipsnyje nustatytų tikslų, LŠS įgyvendina šiuos uždavinius:
 
-1) rengia šaulius ginkluotai valstybės gynybai ir pilietiniam pasipriešinimui, o ginkluotos gynybos nuo agresijos (karo) metu dalyvauja ginkluotoje valstybės gynyboje ir pilietiniame pasipriešinime;
+1) rengia šaulius ginkluotai valstybės gynybai ir pilietiniam pasipriešinimui, o karo padėties ar ginkluotos gynybos nuo agresijos (karo) metu dalyvauja ginkluotoje valstybės gynyboje ir pilietiniame pasipriešinime;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
 
 2) prisideda prie savanoriško Lietuvos Respublikos piliečių karinio rengimo ir padeda kariuomenei atrinkti Lietuvos Respublikos piliečius į profesinę karo tarnybą ir savanorišką nenuolatinę karo tarnybą;
 
@@ -232,11 +240,17 @@ Nr. XIII-1550, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17459
 
 7) saugo LŠS priklausančius ar jos naudojamus objektus ir teritorijas, taip pat krašto apsaugos ministro įsakymais ar sutarčių pagrindu LŠS priskirtus objektus ir teritorijas.
 
-2. Ginkluotos gynybos nuo agresijos (karo) metu LŠS dalyvauja valstybės ginkluotoje gynyboje ir pilietiniame pasipriešinime:
+2. Karo padėties ar ginkluotos gynybos nuo agresijos (karo) metu LŠS dalyvauja valstybės ginkluotoje gynyboje ir pilietiniame pasipriešinime:
 
-1) paskelbus mobilizaciją, LŠS koviniai būriai integruojami į kariuomenės karinius vienetus ir ginklu gina valstybę, o mobilizacijos neįvykdžius – ginklu gina valstybę veikdami kaip savarankiški ginkluotųjų pajėgų vienetai;
+1) LŠS koviniai būriai tampa ginkluotųjų pajėgų dalimi ir vykdo ginkluotos gynybos plane numatytas užduotis;
 
-2) netinkantys tikrajai karo tarnybai šauliai ir LŠS padaliniai atlieka pagalbines gynybos užduotis, taip pat organizuoja ir vykdo pilietinį pasipriešinimą.
+2) šauliai, išskyrus jaunuosius šaulius, šaulius, tarnaujančius LŠS koviniuose būriuose, esančius tikrosios karo tarnybos kariais, ir šaulius, įtrauktus į šios dalies 3 punkte nurodytus vienetus, šio įstatymo nustatytais atvejais ir tvarka teikia pagalbą savivaldybės administracijos direktoriui ar karo komendantui, taip pat organizuoja ir vykdo pilietinį pasipriešinimą;
+
+3) LŠS vadas iš šaulių, išskyrus jaunuosius šaulius ir šaulius, tarnaujančius LŠS koviniuose būriuose, esančius tikrosios karo tarnybos kariais, sudaro kovinius asmenų ir jų organizacijų ginkluoto pasipriešinimo vienetus, kurie Lietuvos Respublikos karo padėties įstatyme nustatyta tvarka ir sąlygomis priskiriami ginkluotosioms pajėgoms ir vykdo ginkluotos gynybos plane numatytas užduotis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
 
 10 straipsnis. LŠS veiklos organizavimas ir vykdymas
 
@@ -434,7 +448,11 @@ LŠS padeda švietimo įstaigoms įgyvendinti pilietinio ir tautinio ugdymo bei 
 
 21 straipsnis. Bendradarbiavimo sutartys
 
-LŠS bendradarbiavimą su valstybės ir savivaldybių institucijomis bei įstaigomis, švietimo įstaigomis išsamiau reglamentuoja LŠS ir atitinkamų valstybės ir savivaldybių institucijų bei įstaigų, švietimo įstaigų bendradarbiavimo sutartys.
+LŠS bendradarbiavimą su valstybės ir savivaldybių institucijomis bei įstaigomis, švietimo įstaigomis išsamiau reglamentuoja LŠS ir atitinkamų valstybės ir savivaldybių institucijų bei įstaigų, švietimo įstaigų bendradarbiavimo sutartys. Šis reikalavimas netaikomas, kai šauliai teikia pagalbą savivaldybės administracijos direktoriui ar karo komendantui karo padėties metu, kaip tai numatyta šio įstatymo 201 straipsnyje.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
 
 22 straipsnis. LŠS pareiga teikti informaciją apie savo veiklą valstybės ir savivaldybių institucijoms bei įstaigoms
 
@@ -886,10 +904,6 @@ Nr. XII-2525, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20283
 
 7) laikytis įstatymų, kitų teisės aktų, patikėtas užduotis atlikti laiku ir tiksliai.
 
-PENKTASIS1 SKIRSNIS
-
-ŠAULIŲ ATSAKOMYBĖ
-
 34 straipsnis. Kompensacijos ir vienkartinės pašalpos šaulio žūties ar sveikatos sutrikdymo atvejais
 
 1. Jeigu šaulys žuvo atlikdamas šaulio tarnybą, susijusią su padidėjusiu pavojumi ar padidėjusia rizika jo gyvybei ar sveikatai, taip pat tais atvejais, kai šaulys buvo nužudytas dėl šaulio tarnybos atlikimo ar šaulio statuso, neatsižvelgiant į draudimo išmokas jo šeimai, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 93,1 Vyriausybės nustatytų minimaliųjų mėnesinių algų, bet ne mažesnė negu po 38,79 Vyriausybės nustatytų minimaliųjų mėnesinių algų, kiekvienam šaulio išlaikytiniui ir ne didesnė negu 101 370 eurų dydžio kompensacija. Kitais atvejais šauliui žuvus dėl priežasčių, susijusių su šaulio tarnyba, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 46,55 Vyriausybės nustatytų minimaliųjų mėnesinių algų, dydžio kompensacija.
@@ -962,7 +976,11 @@ Nr. XIII-1809, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21822
 
 10. Šio straipsnio 9 dalyje nurodytos vienkartinės pašalpos mokamos iš LŠS lėšų. Joms mokėti negali būti naudojamos valstybės biudžeto lėšos. Pašalpų mokėjimo tvarką nustato LŠS vadas su LŠS Centro valdybos pritarimu.
 
-11. Šis straipsnis netaikomas ginkluotos gynybos nuo agresijos (karo) metu.
+11. Šis straipsnis netaikomas karo padėties ar ginkluotos gynybos nuo agresijos (karo) metu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
 
 35 straipsnis. Kitos šaulių garantijos
 
@@ -1184,7 +1202,7 @@ LŠS gali būti reorganizuojama ir likviduojama tik atskiru įstatymu.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -1611,4 +1629,36 @@ Nr. XIII-3247, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15781
 Papildyta straipsniu:
 
 Nr. XIII-3253, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15768
+
+201 straipsnis. Šaulių pagalba savivaldybės administracijos direktoriui ar karo komendantui karo padėties metu
+
+Šauliai, išskyrus jaunuosius šaulius, šaulius, tarnaujančius LŠS koviniuose būriuose, LŠS vado sudarytuose koviniuose asmenų ir jų organizacijų ginkluoto pasipriešinimo vienetuose, Karo padėties įstatyme nustatyta tvarka ir sąlygomis priskirtuose ginkluotosioms pajėgoms, taip pat šaulius, esančius tikrosios karo tarnybos kariais, karo padėties metu padeda savivaldybės administracijos direktoriui arba karo komendantui Karo padėties įstatyme nustatytais atvejais vykdyti minėtame įstatyme savivaldybės administracijos direktoriui nustatytas funkcijas. Šauliai šiame straipsnyje nurodytą pagalbą teikia LŠS vado ar jo įgalioto asmens įsakymu, gavus savivaldybės administracijos direktoriaus ar karo komendanto prašymą.
+
+Papildyta straipsniu:
+
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
+
+331 straipsnis. Šaulių teisės ir pareigos teikiant pagalbą savivaldybės administracijos direktoriui ar karo komendantui karo padėties metu
+
+1. Kai šauliai teikia šio įstatymo 201 straipsnyje nustatytą pagalbą savivaldybės administracijos direktoriui ar karo komendantui karo padėties metu, jie turi teisę:
+
+1) reikalauti, kad asmenys laikytųsi viešosios tvarkos, nepažeidinėtų įstatymų ir savivaldybės administracijos direktoriaus ar karo komendanto įsakymų;
+
+2) reikalauti, kad asmenys pateiktų informaciją ar dokumentus, kurie yra reikalingi šauliui pavestoms pareigoms vykdyti.
+
+2. Kai šauliai teikia šio įstatymo 201 straipsnyje nustatytą pagalbą savivaldybės administracijos direktoriui ar karo komendantui karo padėties metu, jie privalo:
+
+1) gerbti žmogaus teises ir laisves;
+
+2) atlikdami pavestas užduotis, dėvėti šaulio uniformą ar šaulio skiriamuosius ženklus, prisistatyti ir pateikti šaulio pažymėjimą;
+
+3) laikytis įstatymų, kitų teisės aktų, patikėtas užduotis atlikti laiku ir tiksliai.
+
+Papildyta straipsniu:
+
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
+
+PENKTASIS1 SKIRSNIS
+
+ŠAULIŲ ATSAKOMYBĖ
 
