@@ -4,7 +4,7 @@ identifier: "TAR.951DF53F837F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "2019-05-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-04-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
 
@@ -265,7 +265,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
-28. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės energijos įstatyme (toliau – Branduolinės energijos įstatymas), Lietuvos Respublikos branduolinės saugos įstatyme (toliau – Branduolinės saugos įstatymas) ir Lietuvos Respublikos radiacinės saugos įstatyme (toliau – Radiacinės saugos įstatymas).
+28. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme ir Lietuvos Respublikos strateginio valdymo įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3121, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15364
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -331,17 +335,25 @@ Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė):
 
 1) Lietuvos Respublikos energetikos ministerijos teikimu priima nutarimus dėl radioaktyviųjų atliekų tvarkymo įrenginių statybos ir jų eksploatavimo nutraukimo;
 
+11) tvirtina nacionalinę plėtros programą, kurioje suplanuojamos radioaktyviųjų atliekų tvarkymo priemonės;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3121, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15364
+
 2) teisės aktų nustatyta tvarka skiria žemės sklypus radioaktyviųjų atliekų saugykloms ir (arba) radioaktyviųjų atliekų atliekynams;
 
 3) Lietuvos Respublikos energetikos ministerijos teikimu priima nutarimus dėl radioaktyviųjų atliekų atliekynų uždarymo ir uždarytų atliekynų priežiūros nutraukimo;
 
-4) nustato arba įgalioja kitą instituciją nustatyti nacionalinės radioaktyviųjų atliekų tvarkymo sistemos (teisės aktų, reglamentuojančių radioaktyviųjų atliekų tvarkymą, radioaktyviųjų atliekų tvarkymo reglamentavimo ir priežiūros institucijų ir radioaktyviųjų atliekų tvarkymo programos) tarptautinio ekspertinio įvertinimo organizavimo tvarką;
+4) nustato arba įgalioja kitą instituciją nustatyti nacionalinės radioaktyviųjų atliekų tvarkymo sistemos (teisės aktų, reglamentuojančių radioaktyviųjų atliekų tvarkymą, radioaktyviųjų atliekų tvarkymo reglamentavimo ir priežiūros institucijų ir nacionalinės plėtros programos, kurioje suplanuotos radioaktyviųjų atliekų tvarkymo priemonės) tarptautinio ekspertinio įvertinimo organizavimo tvarką;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
+
+Nr. XIII-3121, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15364
 
 5) remia ir finansuoja mokslo tiriamųjų ir naujų technologijų įdiegimo programų įgyvendinimą ir radioaktyviųjų atliekų tvarkymo specialistų rengimą;
 
@@ -354,6 +366,12 @@ Lietuvos Respublikos energetikos ministerija (toliau – Energetikos ministerija
 1) teikia pasiūlymus Vyriausybei dėl radioaktyviųjų atliekų tvarkymo įrenginių statybos arba jų eksploatavimo nutraukimo, radioaktyviųjų atliekų atliekynų uždarymo ir uždarytų atliekynų priežiūros nutraukimo;
 
 2) po to, kai patvirtinamas radioaktyviųjų atliekų tvarkymo įrenginio statybos teritorijos detalusis planas, teisės aktų nustatyta tvarka inicijuoja žemės sklypo radioaktyviųjų atliekų tvarkymo įrenginio statybai paėmimą visuomenės poreikiams;
+
+21) rengia radioaktyviųjų atliekų tvarkymo priemones, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3121, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15364
 
 3) organizuoja dvišalį ir daugiašalį tarptautinį bendradarbiavimą radioaktyviųjų atliekų tvarkymo srityje;
 
@@ -687,7 +705,7 @@ Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Lietuvos Respublikos radioaktyviųjų atliekų
 
@@ -792,6 +810,16 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
 
 Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 2, 3, 4, 5, 7, 9, 10, 11, 15 ir 21 straipsnių pakeitimo ir 8-1 straipsnio pripažinimo netekusiu galios įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3121, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15364
+
+Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 2, 4, ir 5 straipsnių pakeitimo įstatymas
+
+part_4da19803f12b4089954382e6f5b29670_end
 
 26 straipsnis. Uždaryto kapinyno priežiūra
 
