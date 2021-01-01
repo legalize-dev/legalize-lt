@@ -4,7 +4,7 @@ identifier: "TAR.0AE0464E0EDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-07-13"
-last_updated: "2019-05-02"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ entry_into_force_conditions: "Geriamojo vandens tiekimo ir nuotekų tvarkymo įs
 ---
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2019-05-02 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-04-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
-
-TAR pastaba. Iki įstatymo Nr. XIII-1892 įsigaliojimo dienos (2019-05-02)  aglomeracijoje įrengtiems individualiems nuotekų valymo įrenginiams šio įstatymo nuostatos taikomos nuo 2030 m. sausio 1 d.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1892, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00098
-
-Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 2, 3, 6, 9, 10, 12, 16, 20, 21, 22, 23, 32, 33, 34, 35, 38 straipsnių ir dešimtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 34-1, 35-1 straipsniais ir priedu įstatymas
 
 Nauja redakcija nuo 2014-11-01:
 
@@ -159,7 +151,11 @@ Nr. XIII-1892, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00098
 
 48. Viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo teritorija (toliau – viešojo geriamojo vandens tiekimo teritorija) – šio įstatymo 12 straipsnyje nustatyta tvarka paskirtas plotas, kuriame savivaldybės institucijos privalo organizuoti ir užtikrinti viešąjį geriamojo vandens tiekimą ir nuotekų tvarkymą.
 
-49. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos viešųjų pirkimų įstatyme, Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme.
+49. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos viešųjų pirkimų įstatyme, Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2897, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10871
 
 Straipsnio pakeitimai:
 
@@ -551,15 +547,25 @@ Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 
 16 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros statyba, priežiūra ir naudojimas
 
-1. Geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros ir jos objektų statyba savivaldybės teritorijoje vykdoma laikantis šio įstatymo, Statybos įstatymo, Teritorijų planavimo įstatymo, savivaldybės tarybos patvirtinto geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros plano ir kitų teisės aktų reikalavimų.
+1. Geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros ir jos objektų statyba savivaldybės teritorijoje vykdoma laikantis šio įstatymo, Savivaldybių infrastruktūros plėtros įstatymo, Statybos įstatymo, Teritorijų planavimo įstatymo, savivaldybės tarybos patvirtinto Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros plano ir kitų teisės aktų reikalavimų.
 
-2. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų statyba, jeigu objektų statytojas (užsakovas) yra ne viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas ar ne savivaldybės institucija, galima, kai šių objektų statyba numatyta geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros plane ir (arba) yra sudaryta trišalė savivaldybės institucijos, viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo ir objekto statytojo (užsakovo) sutartis. Trišalė savivaldybės institucijos, viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo ir objekto statytojo (užsakovo) sutartis sudaroma, keičiama ir nutraukiama vadovaujantis Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) nuostatomis. Šioje sutartyje turi būti numatyti viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objekto statybos terminai, finansavimo šaltiniai, šio objekto naudojimo (eksploatavimo) sąlygos ir nuosavybės teisių perleidimo savivaldybei arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui terminai, tvarka ir kitos sąlygos, nustatytos Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų išpirkimo tvarkos apraše. Objekto statytojui (užsakovui) nutraukus veiklą (bankrutavus), savivaldybės institucija privalo organizuoti kito objekto statytojo (užsakovo) parinkimą geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros objektų statybai užbaigti. Geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros objekto statytojo (užsakovo) veiklos nutraukimo (bankroto) atveju savivaldybės institucijos iniciatyva kitas pradėto geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objekto statytojas (užsakovas) turi būti parinktas ne vėliau kaip po 18 mėnesių nuo pradinio objekto statytojo (užsakovo) veiklos nutraukimo (bankroto) momento.
+Straipsnio dalies pakeitimai:
 
-3. Paviršinių nuotekų tvarkymo infrastruktūros objektų statyba, jeigu objektų statytojas (užsakovas) yra ne paviršinių nuotekų tvarkytojas ar ne savivaldybės institucija, galima, kai šių objektų statyba numatyta geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros plane arba kitame teritorijų planavimo dokumente ir (arba) yra sudaryta trišalė savivaldybės institucijos, paviršinių nuotekų tvarkytojo ir objekto statytojo (užsakovo) sutartis. Trišalė savivaldybės institucijos, paviršinių nuotekų tvarkytojo ir objekto statytojo (užsakovo) sutartis sudaroma, keičiama ir nutraukiama vadovaujantis Civilinio kodekso nuostatomis. Šioje sutartyje turi būti numatyti paviršinių nuotekų tvarkymo infrastruktūros objekto statybos terminai, finansavimo šaltiniai, šio objekto naudojimo (eksploatavimo) sąlygos ir nuosavybės teisių perleidimo savivaldybei arba paviršinių nuotekų tvarkytojui terminai, tvarka ir kitos sąlygos, nustatytos Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų išpirkimo tvarkos apraše.
+Nr. XIII-2897, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10871
+
+2. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų statyba, jeigu objektų statytojas (užsakovas) yra ne viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas ar ne savivaldybės institucija, galima, kai šių objektų statyba numatyta Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros plane arba savivaldybės ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumente ir yra sudaryta trišalė ar daugiašalė savivaldybės institucijos, viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, objekto statytojo (užsakovo) ir (ar) kito savivaldybės infrastruktūros valdytojo savivaldybės infrastruktūros plėtros sutartis. Trišalė ar daugiašalė savivaldybės institucijos, viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, objekto statytojo (užsakovo) ir (ar) kito savivaldybės infrastruktūros valdytojo savivaldybės infrastruktūros plėtros sutartis sudaroma, keičiama ir nutraukiama Savivaldybių infrastruktūros plėtros įstatymo 8 straipsnyje nustatyta tvarka ir vadovaujantis Lietuvos Respublikos civilinio kodekso nuostatomis. Objekto statytojui (užsakovui) nutraukus veiklą (bankrutavus), savivaldybės institucija privalo organizuoti kito objekto statytojo (užsakovo) parinkimą geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros objektų statybai užbaigti. Geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros objekto statytojo (užsakovo) veiklos nutraukimo (bankroto) atveju savivaldybės institucijos iniciatyva kitas pradėto geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objekto statytojas (užsakovas) turi būti parinktas ne vėliau kaip po 18 mėnesių nuo pradinio objekto statytojo (užsakovo) veiklos nutraukimo (bankroto) momento.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2897, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10871
+
+3. Paviršinių nuotekų tvarkymo infrastruktūros objektų statyba, jeigu objektų statytojas (užsakovas) yra ne paviršinių nuotekų tvarkytojas ar ne savivaldybės institucija, galima, kai šių objektų statyba numatyta Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros plane arba savivaldybės ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumente ir yra sudaryta trišalė ar daugiašalė savivaldybės institucijos, paviršinių nuotekų tvarkytojo, objekto statytojo (užsakovo) ir (ar) kito savivaldybės infrastruktūros valdytojo savivaldybės infrastruktūros plėtros sutartis. Trišalė ar daugiašalė savivaldybės institucijos, paviršinių nuotekų tvarkytojo, objekto statytojo (užsakovo) ir (ar) kito savivaldybės infrastruktūros valdytojo savivaldybės infrastruktūros plėtros sutartis sudaroma, keičiama ir nutraukiama Savivaldybių infrastruktūros plėtros įstatymo 8 straipsnyje nustatyta tvarka ir vadovaujantis Civilinio kodekso nuostatomis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1892, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00098
+
+Nr. XIII-2897, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10871
 
 4. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra, skirta viešajam geriamojo vandens tiekimui ir nuotekų tvarkymui, nuosavybės teise turi priklausyti savivaldybei arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, išskyrus atvejus, nurodytus šio straipsnio 6 ir 8 dalyse ir šio įstatymo 13 straipsnio 4 dalyje.
 
@@ -583,11 +589,13 @@ Nr. XIII-1892, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00098
 
 12. Teismui priėmus sprendimą nustatyti geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros naudojimo sąlygas ir tvarką, geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objektų, viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo ir paviršinių nuotekų tvarkytojo pripažintų reikalingais ir tinkamais viešajam geriamojo vandens tiekimui ir (arba) nuotekų tvarkymui, paviršinių nuotekų tvarkymui, vertę nustato nepriklausomi turto vertintojai Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka. Nepriklausomą turto vertintoją Viešųjų pirkimų įstatymo nustatyta tvarka parenka ir sutartį su nepriklausomu turto vertintoju dėl geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objektų vertės nustatymo sudaro ir už turto vertinimo paslaugas sumoka savivaldybė.
 
-13. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra, vandentiekio įvadai ir (arba) nuotekų išvadai įrengiami viešojoje geriamojo vandens tiekimo teritorijoje (valstybės ar savivaldybės teisėtais pagrindais naudojamoje teritorijoje) iki abonentui ir (arba) vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto ribos (vandentiekio šulinys, nuotekų priėmimo šulinys, nuotekų siurblinė (esant slėginei nuotekų linijai), individualaus namo nuotekų valykla, sklypo riba ar statinio arba daugiabučio namo įvadas, nuotekų išvadas), esantys arčiausiai prie viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo nuosavybės teise ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros. Abonentui ir (arba) vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto ribos nurodomos sudarant geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo viešąją sutartį. Su geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros, vandentiekio įvadų ir (arba) nuotekų išvadų įrengimu iki abonentui ir (arba) vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto ribų, abonentų ir vartotojų vandentiekio įvadų ir (arba) nuotekų išvadų prijungimu prie geriamojo vandens tiekėjui ir (arba) nuotekų tvarkytojui, vykdančiam viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą, nuosavybės teise priklausančios ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros susijusias išlaidas apmoka geriamojo vandens tiekėjai ir nuotekų tvarkytojai, vykdantys viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą. Vandentiekio įvadų, nuotekų išvadų įrengimo ir prijungimo sąnaudos (jų sudedamosios dalys) nustatomos vadovaujantis Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodikos nuostatomis ir įtraukiamos į geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą.
+13. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra, vandentiekio įvadai ir (arba) nuotekų išvadai įrengiami viešojoje geriamojo vandens tiekimo teritorijoje (valstybės ar savivaldybės teisėtais pagrindais naudojamoje teritorijoje) iki abonentui ir (arba) vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto ribos (vandentiekio šulinys, nuotekų priėmimo šulinys, nuotekų siurblinė (esant slėginei nuotekų linijai), individualaus namo nuotekų valykla, sklypo riba ar statinio arba daugiabučio namo įvadas, nuotekų išvadas), esantys arčiausiai prie viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo nuosavybės teise ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros. Abonentui ir (arba) vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto ribos nurodomos sudarant geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo viešąją sutartį. Su prioritetinės savivaldybės infrastruktūros reikalavimus atitinkančios geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros, suplanuotos šio įstatymo 12 straipsnio 1 dalyje nurodytais teritorijų planavimo dokumentais vandentiekio įvadų ir (arba) nuotekų išvadų įrengimu iki abonentui ir (arba) vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto ribų, abonentų ir vartotojų vandentiekio įvadų ir (arba) nuotekų išvadų prijungimu prie geriamojo vandens tiekėjui ir (arba) nuotekų tvarkytojui, vykdančiam viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą, nuosavybės teise priklausančios ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros susijusias išlaidas, vadovaujantis šio įstatymo 34 straipsnio 4 dalyje nurodytais dokumentais, apmoka geriamojo vandens tiekėjai ir nuotekų tvarkytojai, vykdantys viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą. Vandentiekio įvadų, nuotekų išvadų įrengimo ir prijungimo sąnaudos (jų sudedamosios dalys) nustatomos vadovaujantis Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodikos nuostatomis ir įtraukiamos į geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą. Už neprioritetinės savivaldybės infrastruktūros reikalavimus atitinkančios geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrą kompensuojama Savivaldybių infrastruktūros plėtros įstatymo nustatyta tvarka ir atvejais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1892, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00098
+
+Nr. XIII-2897, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10871
 
 14. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra naudojama, geriamojo vandens naudojimo įrenginiai, geriamajam vandeniui tiekti reikalingos komunikacijos ir (arba) nuotekų tvarkymo įrenginiai prijungiami prie geriamojo vandens tiekėjo ir (arba) nuotekų tvarkytojo, vykdančio viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą, nuosavybės teise ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros vadovaujantis Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklių reikalavimais ir Naujų abonentų ir vartotojų prijungimo prie geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros reikalavimais.
 
@@ -1265,7 +1273,7 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvar
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -1364,6 +1372,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1892, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00098
 
 Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 2, 3, 6, 9, 10, 12, 16, 20, 21, 22, 23, 32, 33, 34, 35, 38 straipsnių ir dešimtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 34-1, 35-1 straipsniais ir priedu įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2897, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10871
+
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 3 ir 16 straipsnių pakeitimo įstatymas
 
 341 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo bei paviršinių nuotekų tvarkymo įmonių veiklos patikrinimai
 
