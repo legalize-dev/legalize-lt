@@ -4,7 +4,7 @@ identifier: "TAR.5A04D7CC7EF6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
 
@@ -85,7 +85,11 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 Kultūros ministerija atlieka bibliotekų valstybinio valdymo institucijos funkcijas:
 
-1) nustato valstybės ar savivaldybių įsteigtų bibliotekų plėtros strategiją, rengia ir finansuoja ją įgyvendinančias programas;
+1) nustato valstybės ar savivaldybių įsteigtų bibliotekų veiklos prioritetus, tvirtina ir koordinuoja juos įgyvendinančių veiksmų planų vykdymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
 
 2) vykdo bibliotekų, kurių savininko teises ir pareigas įgyvendina Kultūros ministerija, viešųjų paslaugų teikimo administravimą;
 
@@ -101,17 +105,25 @@ Nr. XII-752, 2013-12-23, Žin. 2013, Nr. 141-7113 (2013-12-31) ; paskelbta TAR 2
 
 4) rengia, derina ir teisės aktų nustatyta tvarka tvirtina bibliotekų veiklą reglamentuojančius dokumentus;
 
+41) tvirtina bibliotekų, kurių vadovai yra valstybės biudžeto asignavimų valdytojai, kaip jie apibrėžti Lietuvos Respublikos biudžeto sandaros įstatyme, strateginius veiklos planus;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
+
 5) užsako ir finansuoja mokslinius tyrimus;
 
 6) koordinuoja valstybės ar savivaldybių įsteigtų bibliotekų veiklą, jų dalyvavimą tarpvalstybinėse programose;
 
 7) finansuoja apskričių ir savivaldybių viešųjų bibliotekų dokumentų įsigijimą;
 
-8) gali finansuoti bibliotekas, įgyvendinančias valstybines bibliotekų plėtros programas, neatsižvelgdama į jų teisinę formą ir statusą;
+8) gali finansuoti bibliotekas, vykdančias valstybės ar savivaldybių įsteigtų bibliotekų veiklos prioritetus įgyvendinančius veiksmų planus, neatsižvelgdama į jų teisinę formą ir statusą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA00XI-775
+
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
 
 9) tvirtina valstybės ar savivaldybių įsteigtų bibliotekų teikiamų mokamų paslaugų sąrašą ir nustato, kad tame sąraše nesančias paslaugas šios bibliotekos teikia nemokamai;
 
@@ -155,7 +167,11 @@ Nr. XIII-1749, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20723
 
 6. Specialiosios ir kitos bibliotekos atitinkamai finansuojamos iš savininko, dalininko, savininko teises ir pareigas arba valstybės ar savivaldybės, kaip viešosios įstaigos dalininkės (savininkės), turtines ir neturtines teises įgyvendinančių institucijų lėšų.
 
-7. Valstybinės bibliotekų plėtojimo ir mokslinių tyrimų programos finansuojamos iš valstybės biudžeto ir savivaldybių biudžetų bei paramos teikėjų lėšų.
+7. Valstybės ar savivaldybių įsteigtų bibliotekų veiklos prioritetus įgyvendinantys veiksmų planai ir mokslinių tyrimų programos finansuojami iš valstybės biudžeto ir savivaldybių biudžetų bei paramos teikėjų lėšų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
 
 8. Bibliotekų lėšų šaltiniai gali būti teikiamos mokamos paslaugos ir kitos teisėtais būdais įgytos lėšos.
 
@@ -273,7 +289,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
 
-2. Apskrities viešoji biblioteka yra nustatytoje teritorijoje veikiančių bibliotekų veiklos tyrimo, koordinavimo, metodinės pagalbos, bibliotekininkų kvalifikacijos kėlimo, tarpbibliotekinio skolinimo paslaugų, bibliografijos, kraštotyros ir informacijos centras, kuris užtikrina valstybinių bibliotekininkystės plėtros programų vykdymą, aptarnauja vartotojus, suteikia galimybių tenkinti kultūros, savišvietos ir švietimo  poreikius, ugdyti etnografinių regionų tradicijas, didinti kultūros ir meno paslaugų sklaidą.
+2. Apskrities viešoji biblioteka yra nustatytoje teritorijoje veikiančių bibliotekų veiklos tyrimo, koordinavimo, metodinės pagalbos, bibliotekininkų kvalifikacijos kėlimo, tarpbibliotekinio skolinimo paslaugų, bibliografijos, kraštotyros ir informacijos centras, kuris užtikrina valstybės ar savivaldybių įsteigtų bibliotekų veiklos prioritetus įgyvendinančių veiksmų planų vykdymą, aptarnauja vartotojus, suteikia galimybių tenkinti kultūros, savišvietos ir švietimo poreikius, ugdyti etnografinių regionų tradicijas, didinti kultūros ir meno paslaugų sklaidą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
 
 3. Įstatymų ir kitų teisės aktų nustatyta tvarka gali būti pripažinta, kad apskrities viešoji biblioteka atlieka mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą.
 
@@ -465,7 +485,7 @@ Lietuvos bibliotekų fondas yra komplektuojamas iš Vyriausybės nustatyta tvark
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -532,6 +552,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2320, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12115
 
 Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 4 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
+
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 4, 6 ir 9 straipsnių pakeitimo įstatymas
 
 20 straipsnis. Lietuvos bibliotekų fondas
 
