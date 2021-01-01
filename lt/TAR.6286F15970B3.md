@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2020-12-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2020-12-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -80,7 +80,11 @@ Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
 
 6. Branduolinė energetika – energetikos šaka, kurioje energija, išsiskirianti branduolių dalijimosi metu, naudojama elektros ir šilumos energijai gaminti, taip pat kitiems taikiems tikslams.
 
-7. Branduolinė žala – jonizuojančiosios spinduliuotės, atsiradusios dėl branduolinės energetikos objekto veiklos, branduolinės ar radiologinės avarijos, sukelta žmogaus mirtis ar pakenkimas sveikatai, turto netektis ar sugadinimas, nepalankūs padariniai gamtinei aplinkai.
+7. Branduolinė žala – jonizuojančiosios spinduliuotės, atsiradusios dėl branduolinės energetikos objekto veiklos, branduolinės ar radiologinės avarijos, sukelta žmogaus mirtis ar pakenkimas sveikatai, turto netektis ar sugadinimas, nepalankūs padariniai aplinkai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3366, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24522
 
 8. Branduolinės (atominės) elektrinės energijos blokas – branduolinis reaktorius su priklausiniais, skirtas elektros arba elektros ir šilumos gamybai. Branduolinė (atominė) elektrinė gali būti sudaryta iš vieno ar kelių energijos blokų.
 
@@ -378,9 +382,17 @@ Lietuvos Respublikos aplinkos ministerija (toliau – Aplinkos ministerija) ar j
 
 1) teisės aktų nustatyta tvarka atlieka branduolinės energetikos objektų statinių valstybinę statybos priežiūrą;
 
-2) rengia ir tvirtina jonizuojančiosios spinduliuotės padarytos žalos aplinkai apskaičiavimo ir kompensavimo metodikas;
+2) Neteko galios nuo 2021-01-01
 
-3) periodiškai informuoja visuomenę ir valstybės ir savivaldybių institucijas apie šalies aplinkos radiologinę būklę;
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3366, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24522
+
+3) Neteko galios nuo 2021-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3366, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24522
 
 4) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
 
@@ -916,19 +928,21 @@ Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
 
 1. Branduolinės energetikos objektų, branduolinės energetikos objekto aikštelių, branduolinio kuro ciklo medžiagų ir (ar) Branduolinės saugos įstatymo 1 priede nurodytų branduolinių medžiagų nustatytų kiekių fizinė sauga turi būti užtikrinama atsižvelgiant į numatomą grėsmę, jeigu tokia yra nustatoma, bei galimus radiologinius padarinius, o Branduolinės saugos įstatymo 1 priede nurodytų branduolinių medžiagų nustatytų kiekių fizinė sauga turi būti užtikrinama atsižvelgiant ir į branduolinių medžiagų kategorijas.
 
-2. Licencijos turėtojai ir kiti branduolinėmis medžiagomis teisėtai disponuojantys asmenys, vadovaudamiesi šiuo ir Branduolinės saugos įstatymu ir kitais fizinę saugą reglamentuojančiais teisės aktais, organizuoja ir užtikrina branduolinės energetikos objektų, branduolinės energetikos objekto aikštelių, branduolinio kuro ciklo medžiagų ir (ar) Branduolinės saugos įstatymo 1 priede nurodytų branduolinių medžiagų nustatytų kiekių fizinę saugą.
+2. Licencijos turėtojai, vadovaudamiesi šiuo ir Branduolinės saugos įstatymu bei kitais fizinę saugą reglamentuojančiais teisės aktais, organizuoja ir užtikrina branduolinės energetikos objektų, branduolinės energetikos objekto aikštelių, branduolinio kuro ciklo medžiagų ir (ar) Branduolinės saugos įstatymo 1 priede nurodytų branduolinių medžiagų nustatytų kiekių fizinę saugą.
 
 3. Valstybinė atominės energetikos saugos inspekcija, atsižvelgdama į kiekviename branduolinės energetikos objekto statybos darbų etape galimą grėsmę statomam branduolinės energetikos objektui, nustato skirtingus fizinės saugos reikalavimus skirtingiems branduolinės energetikos objekto statybos darbų etapams.
 
-4. Branduolinės energetikos objektų numatomą grėsmę ir numatomą grėsmę Branduolinės saugos įstatymo 1 priede nurodytų branduolinių medžiagų nustatytų kiekių įsigijimui, turėjimui, naudojimui ir vežimui nustato ir ne rečiau kaip kartą per metus persvarsto Valstybinė atominės energetikos saugos inspekcija, šiuos veiksmus koordinuodama su Valstybės saugumo departamentu, Krašto apsaugos ministerija ir Vidaus reikalų ministerija.
+4. Numatomą grėsmę branduolinės energetikos objektams ir 1979 m. spalio 26 d. Branduolinių medžiagų fizinės saugos konvencijos II priede nurodytoms I ir II kategorijų branduolinėms medžiagoms, jas įsigyjant, turint, naudojant ir vežant, nustato ir ne rečiau kaip kartą per metus persvarsto Valstybinė atominės energetikos saugos inspekcija, šiuos veiksmus koordinuodama su Valstybės saugumo departamentu, Krašto apsaugos ministerija ir Vidaus reikalų ministerija.
 
-5. Valstybės ir savivaldybių institucijos ir įstaigos, branduolinės energetikos objektus eksploatuojančios ir vykdančios Branduolinės saugos įstatymo 1 priede nurodytų branduolinių medžiagų nustatytų kiekių įsigijimą, turėjimą, naudojimą ir vežimą, ir kitos organizacijos bei asmenys, galintys turėti informacijos, reikšmingos numatomos grėsmės nustatymui, teikia Valstybinei atominės energetikos saugos inspekcijai informaciją, kuri gali būti svarbi nustatant numatomas grėsmes ar gali daryti įtaką numatomų grėsmių pasikeitimams.
+5. Valstybės ir savivaldybių institucijos ir įstaigos, branduolinės energetikos objektus eksploatuojančios ir vykdančios 1979 m. spalio 26 d. Branduolinių medžiagų fizinės saugos konvencijos II priede nurodytų I ir II kategorijų branduolinių medžiagų įsigijimą, turėjimą, naudojimą ir vežimą, ir kitos organizacijos bei asmenys, galintys turėti informacijos, kuri yra reikšminga grėsmių vertinimui ar gali daryti įtaką numatomų grėsmių pasikeitimams, šią informaciją teikia Valstybinei atominės energetikos saugos inspekcijai.
 
-6. Vyriausybė, įgyvendindama šio straipsnio 4 ir 5 dalių nuostatas, nustato branduolinės energetikos objektų numatomos grėsmės ir Branduolinės saugos įstatymo 1 priede nurodytų branduolinių medžiagų nustatytų kiekių numatomos grėsmės įsigijimui, turėjimui, naudojimui ir vežimui nustatymo ir persvarstymo bei informacijos teikimo Valstybinei atominės energetikos saugos inspekcijai tvarką.
+6. Vyriausybė, įgyvendindama šio straipsnio 4 ir 5 dalių nuostatas, nustato numatomų grėsmių branduolinės energetikos objektams ir branduolinėms medžiagoms nustatymo ir persvarstymo bei informacijos teikimo Valstybinei atominės energetikos saugos inspekcijai tvarką.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
+
+Nr. XIV-74, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28360
 
 36 straipsnis. Teisė patekti į branduolinės energetikos objekto apsaugos zonas ir (ar) branduolinės energetikos objekto aikštelę, dalyvauti vežant branduolines ir (ar) branduolinio kuro ciklo medžiagas ir kitos su branduolinės energetikos objektais ir branduolinėmis ir (ar) branduolinio kuro ciklo medžiagomis susijusios saugumo priemonės
 
@@ -1449,6 +1463,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3430, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24605
 
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 32 straipsnio pakeitimo įstatymas
+
+30.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3366, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24522
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2 ir 11 straipsnių pakeitimo įstatymas
+
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-74, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28360
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 35 straipsnio pakeitimo įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
