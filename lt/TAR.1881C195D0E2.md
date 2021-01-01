@@ -4,7 +4,7 @@ identifier: "TAR.1881C195D0E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2020-10-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
 
@@ -511,7 +511,11 @@ Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 1. Valstybės saugumo departamentas yra juridinis asmuo, finansuojamas iš valstybės biudžeto, turintis savo antspaudą su Lietuvos valstybės herbu ir pavadinimu „Lietuvos Respublika. Valstybės saugumo departamentas“, taip pat sąskaitų bankuose.
 
-2. Antrasis operatyvinių tarnybų departamentas yra juridinis asmuo, finansuojamas iš valstybės biudžeto, turintis savo antspaudą su Lietuvos valstybės herbu ir užrašu „Lietuvos Respublika. Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos“, taip pat sąskaitų bankuose.
+2. Antrasis operatyvinių tarnybų departamentas yra juridinis asmuo, finansuojamas iš valstybės biudžeto, turintis savo antspaudą su Lietuvos valstybės herbu ir užrašu „Lietuvos Respublika. Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos“, taip pat sąskaitų bankuose. Įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu Antrasis operatyvinių tarnybų departamentas tampa ginkluotųjų pajėgų dalimi ir gina valstybę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3245, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15883
 
 3. Žvalgybos institucijos turi savo vėliavas, ženklus, medalius ir kitą atributiką. Žvalgybos institucijų vėliavas, ženklus, medalius ir kitą atributiką gaminti ne pagal žvalgybos institucijų užsakymus draudžiama. Žvalgybos institucijoms priklauso išimtinė vėliavų, ženklų, medalių ir kitos atributikos realizavimo ir naudojimo teisė.
 
@@ -1651,7 +1655,7 @@ Nr. XII-2621, 2016-09-20, paskelbta TAR 2016-09-28, i. k. 2016-24162
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -1723,7 +1727,7 @@ _________________ (vardas, pavardė) _________________ (parašas)
 
 A. V.
 
-Žvalgybos pareigūnas paskirtas į pareigas _____________ įsakymu Nr. _____________ .
+Žvalgybos pareigūnas paskirtas į pareigas _____________ įsakymu Nr. ____________ .
 
 (data)
 
@@ -1870,6 +1874,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
 
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 14, 16 straipsnių pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3245, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15883
+
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 27 straipsnio pakeitimo įstatymas
 
 641 straipsnis. Žvalgybos pareigūnų aprūpinimas tarnybos užsienyje laikotarpiu
 
