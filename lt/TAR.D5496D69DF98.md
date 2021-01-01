@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2020-11-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-07-07
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -461,7 +461,11 @@ Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
 
 4. Valstybės ir savivaldybių nekilnojamojo turto viešas nuomos konkursas gali būti organizuojamas ir vykdomas informacinių technologijų priemonėmis Vyriausybės nustatyta tvarka.
 
-5. Valstybės arba savivaldybės ilgalaikis materialusis turtas gali būti išnuomotas ne ilgesniam kaip 10 metų laikotarpiui (įskaitant nuomos termino pratęsimą), išskyrus atvejus, kai įstatymai, tarptautinės sutartys ar tarptautiniai susitarimai nustato kitaip, taip pat atvejus, kai valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas įgyvendinant valstybei svarbius ekonominius projektus, nuomos laikotarpį nustatant atsižvelgus į projekto investicijų grąžą ir projekto veiklos pobūdį. Valstybės ir savivaldybės trumpalaikis materialusis turtas gali būti išnuomojamas kartu su valstybės ar savivaldybės ilgalaikiu materialiuoju turtu, jeigu tuo siekiama užtikrinti efektyvią valstybės ar savivaldybės ilgalaikio materialiojo turto nuomą.
+5. Valstybės arba savivaldybės ilgalaikis materialusis turtas gali būti išnuomotas ne ilgesniam kaip 10 metų laikotarpiui (įskaitant nuomos termino pratęsimą), išskyrus atvejus, kai įstatymai, tarptautinės sutartys ar tarptautiniai susitarimai nustato kitaip, taip pat atvejus, kai valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas įgyvendinant valstybei svarbius ekonominius arba regioninės svarbos projektus, nuomos laikotarpį nustatant atsižvelgus į projekto investicijų grąžą ir projekto veiklos pobūdį. Valstybės ir savivaldybės trumpalaikis materialusis turtas gali būti išnuomojamas kartu su valstybės ar savivaldybės ilgalaikiu materialiuoju turtu, jeigu tuo siekiama užtikrinti efektyvią valstybės ar savivaldybės ilgalaikio materialiojo turto nuomą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3360, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23807
 
 6. Vyriausybė arba jos įgaliota institucija, savivaldybės taryba nustato atitinkamai nuompinigių už valstybės ar savivaldybės ilgalaikio ir trumpalaikio materialiojo turto nuomą skaičiavimo tvarką.
 
@@ -1253,7 +1257,7 @@ Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi,
 
 LIETUVOS RESPUBLIKOS
 
-SEIMO PIRMININKAS                                                           VYTAUTAS LANDSBERGIS
+SEIMO PIRMININKAS                                                             VYTAUTAS LANDSBERGIS
 
 Pakeitimai:
 
@@ -1626,6 +1630,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3285, 2020-09-17, paskelbta TAR 2020-09-18, i. k. 2020-19503
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 23 straipsnio pakeitimo ir Įstatymo papildymo 23-1 straipsniu įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3360, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23807
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 15 straipsnio pakeitimo įstatymas
 
 26 straipsnis. Valstybės ir savivaldybių turto pripažinimas nereikalingu arba netinkamu (negalimu) naudoti
 
