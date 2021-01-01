@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2020-11-14"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2020-11-14 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-01-01
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
 
@@ -618,9 +618,17 @@ Licencijas išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina ir
 
 23 straipsnis. Licencijos gavimo sąlygos
 
-1. Licencija gali būti išduodama įstaigai, tinkamai pasirengusiai teikti socialinę globą, – įstaigos numatoma teikti socialinė globa atitinka socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui ir patalpoms.
+1. Licencija gali būti išduodama įstaigai, kuri yra tinkamai pasirengusi teikti socialinę globą, – įstaigos numatoma teikti socialinė globa atitinka socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti asmeninės apsaugos priemonių ir kitų priemonių, būtinų veiklos vykdymui užtikrinti (toliau – apsaugos priemonės), sąrašui, kiekiui ir laikotarpiui. Apsaugos priemonių sąrašą, kiekį ir laikotarpį, kuriam sukauptų apsaugos priemonių turi pakakti nepertraukiamai įstaigų veiklai užtikrinti, nustato Vyriausybė ar jos įgaliota institucija.
 
-2. Licencijai gauti užpildoma ir Socialinių paslaugų priežiūros departamentui tiesiogiai, registruotu laišku, elektroninėmis priemonėmis arba per Paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) pateikiama paraiška-klausimynas, kurioje pateikiama rašytinė informacija, įrodanti, kad įstaigos numatoma teikti socialinė globa atitiks socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui ir patalpoms. Paraiškos-klausimyno formą tvirtina Socialinių paslaugų priežiūros departamentas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
+
+2. Licencijai gauti užpildoma ir Socialinių paslaugų priežiūros departamentui tiesiogiai, registruotu laišku, elektroninėmis priemonėmis arba per Paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) pateikiama paraiška-klausimynas, kuriame pateikiama rašytinė informacija, įrodanti, kad įstaigos numatoma teikti socialinė globa atitiks socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti apsaugos priemonių sąrašui bei kiekiui nustatytam laikotarpiui. Paraiškos-klausimyno formą tvirtina Socialinių paslaugų priežiūros departamentas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
 
 3. Tais atvejais, kai įstaiga, išskyrus šeimyną, be socialinių paslaugų teikimo, užsiima ir kitomis, ne su socialinių paslaugų teikimu susijusiomis, veiklomis, institucinė socialinė globa turi būti teikiama patalpose, atskirtose nuo patalpų, kuriose užsiimama kitomis veiklomis.
 
@@ -650,7 +658,11 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 1) nepateikta ar pateikta ne visa ar netiksli šio įstatymo 23 straipsnio 2 dalyje numatyta informacija ir per Socialinių paslaugų priežiūros departamento nurodytą terminą įstaiga trūkumų nepašalina, pateikta informacija neatitinka šio įstatymo 23 straipsnio 2 dalyje nustatytų reikalavimų, pateikti neteisingi duomenys ir informacija, duomenys suklastoti;
 
-2) atlikdamas patikrinimą vietoje nustato, kad įstaiga nėra pasirengusi teikti socialinę globą – įstaigos numatoma teikti socialinė globa neatitinka socialinės globos normose nustatytų reikalavimų personalo struktūrai, skaičiui, išsilavinimui ir patalpoms.
+2) atlikdamas patikrinimą vietoje nustato, kad įstaiga nėra pasirengusi teikti socialinę globą – įstaigos numatoma teikti socialinė globa neatitinka socialinės globos normose nustatytų reikalavimų personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti apsaugos priemonių sąrašui bei kiekiui nustatytam laikotarpiui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
 
 2. Socialinių paslaugų priežiūros departamentas, nustatęs, kad socialinės globos įstaiga teikia socialinę globą, neatitinkančią socialinės globos normų, įteikia socialinės globos įstaigai tiesiogiai, registruotu laišku ar pasirašytą saugiu elektroniniu parašu elektroninėmis priemonėmis rašytinį įspėjimą pareikalaudamas per nurodytą terminą pašalinti pažeidimus. Terminas pažeidimams pašalinti negali būti ilgesnis kaip 6 mėnesiai nuo įspėjimo gavimo dienos.
 
@@ -968,7 +980,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
-2. Socialinė priežiūra šeimoms finansuojama iš savivaldybės biudžeto lėšų ir iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams.
+2. Socialinė priežiūra šeimoms, vaikų dienos socialinė priežiūra finansuojama iš savivaldybės biudžeto lėšų ir iš valstybės biudžeto dotacijų savivaldybių biudžetams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 3. Socialinė globa senyvo amžiaus asmenims, suaugusiems asmenims su negalia, vaikams su negalia (išskyrus asmenis su sunkia negalia), socialinę riziką patiriantiems vaikams, socialinę riziką patiriantiems suaugusiems asmenims finansuojamos iš savivaldybės biudžeto lėšų.
 
