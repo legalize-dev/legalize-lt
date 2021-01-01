@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2020-07-09"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2020-07-09 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -2062,6 +2062,14 @@ TAR pastaba. 650 straipsnio 2 dalies nuostatos taikomos ir administracinių tei
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+
+3. Vykdomuosius dokumentus dėl pinigų sumų išieškojimo antstoliams paskirsto Antstolių informacinė sistema Sprendimų vykdymo instrukcijoje nustatyta tvarka: proporcingai visiems toje veiklos teritorijoje veikiantiems antstoliams atsižvelgiant į Sprendimų vykdymo instrukcijoje nustatytas vykdomųjų dokumentų kategorijas ir išieškotinų sumų dydžius, taip pat užtikrinant, kad naujas vykdomasis dokumentas dėl išieškojimo iš to paties skolininko būtų paskirtas vykdyti antstoliui, jau vykdančiam išieškojimą iš šio skolininko, išskyrus atvejus, kai naujas vykdomasis dokumentas nėra vykdytinas šio antstolio veiklos teritorijoje.
+
+TAR pastaba. Ppaildymas 3 dalimi taikomas vykdomuosius dokumentus pateikiant vykdyti nuo 2021 m. sausio 1 d. ir 3 dalyje nustatyta tvarka vykdomieji dokumentai antstoliams paskirstomi neatsižvelgiant į vykdomuosius dokumentus, pateiktus vykdyti iki įstatymo Nr. XIII-2721 įsigaliojimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 Straipsnio pakeitimai:
 
