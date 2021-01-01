@@ -4,7 +4,7 @@ identifier: "TAR.44FA08A7226F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-14"
-last_updated: "2020-06-15"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 98-2478, i. k. 0971010ISTAVIII-450
 
@@ -920,7 +920,11 @@ Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
 
 5) valstybės paskoloms arba valstybės remiamoms paskoloms;
 
-6) socialinėms stipendijoms, mokymosi stipendijoms ir kitai paramai;
+6) socialinėms stipendijoms, mokymosi stipendijoms, tikslinėms stipendijoms ir kitai paramai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3154, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14369
 
 7) profesinio mokymo plėtrai.
 
@@ -1009,6 +1013,12 @@ Teisės į valstybės finansuojamą profesinį mokymą neturi:
 38 straipsnis. Materialinė parama
 
 1. Mokiniams, kurie mokosi pagal profesinio mokymo programas siekdami įgyti pirmąją kvalifikaciją, pataisos pareigūnų profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali būti mokamos stipendijos ir teikiama kita materialinė parama.
+
+11. Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų tikslinės stipendijos gali būti mokamos mokiniams, įstojusiems į Vyriausybės patvirtintų prioritetinių formaliųjų profesinio mokymo programų valstybės finansuojamas vietas. Tikslinė stipendija mokama neturintiems skolų mokiniams ne rečiau kaip kartą per pusę metų visą mokymosi laikotarpį, bet ne ilgiau kaip mokymo programos nustatyta trukmė. Atitinkamų metų prioritetines formaliojo profesinio mokymo programas nustato Vyriausybė iki kiekvienų metų vasario 2 dienos, atsižvelgdama į ministerijų pasiūlymus, valstybės ūkinės, socialinės, kultūrinės ir regioninės plėtros poreikius, nacionalinės žmogiškųjų išteklių stebėsenos, užimtumo ir darbo rinkos stebėsenos informaciją bei valstybės finansines galimybes. Tikslines stipendijas administruoja Valstybinis studijų fondas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3154, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14369
 
 2. Specialiųjų poreikių mokiniams, siekiantiems įgyti kvalifikaciją ir negaunantiems stipendijos arba siekiantiems keisti kvalifikaciją, teisės aktų nustatyta tvarka skiriamas maitinimas ir teikiama kita materialinė parama.
 
@@ -1255,6 +1265,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
 
 Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 14 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3154, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14369
+
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 36 ir 38 straipsnių pakeitimo įstatymas
 
 231 straipsnis. Vidaus reikalų ministerijos ir vidaus reikalų ministro įgaliojimai
 
