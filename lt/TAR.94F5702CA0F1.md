@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2020-08-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -337,7 +337,11 @@ Nr. XIII-3216, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15753
 
 3) teisės teikti paslaugas, nurodytas šio Įstatymo 21 straipsnio 2 dalyje, atėmimas iki šešių mėnesių;
 
-4) teisės atlikti funkcijas, nurodytas šio Įstatymo 21 straipsnio 1 dalyje, atėmimas iki šešių mėnesių;
+4) teisės gauti vykdyti vykdomuosius dokumentus Civilinio proceso kodekso 650 straipsnio 3 dalyje nustatyta tvarka atėmimas iki šešių mėnesių;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
 
 5) Neteko galios nuo 2020-08-01
 
