@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2020-08-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
 
@@ -41,11 +41,13 @@ Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 
 2 straipsnis. Notaras
 
-Notaras yra valstybės įgaliotas asmuo, atliekantis šio įstatymo nustatytas funkcijas, užtikrinančias, kad civiliniuose teisiniuose santykiuose nebūtų neteisėtų sandorių ir dokumentų. Notaras taip pat gali būti civilinių ginčų taikinimo tarpininku (mediatoriumi), kai sprendžiami ginčai.
+Notaras yra valstybės įgaliotas asmuo, atliekantis šio įstatymo nustatytas funkcijas, užtikrinančias, kad civiliniuose teisiniuose santykiuose nebūtų neteisėtų sandorių ir dokumentų. Notaras taip pat gali būti civilinių ginčų mediatoriumi, kai sprendžiami ginčai, ir turto pardavimo ir nuomos viešųjų aukcionų (toliau – aukcionai) organizatoriumi bei vykdytoju.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
 
 Notarus skiria ir atleidžia Lietuvos Respublikos teisingumo ministras.
 
@@ -439,13 +441,15 @@ Notaras turi teisę savo blankuose ir iškabose naudoti Lietuvos valstybės herb
 
 19 straipsnis. Notaro pajamos
 
-Už notarinių veiksmų atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas notaras ima atlyginimą, kurio dydį (įkainius) nustato Lietuvos Respublikos teisingumo ministras, atsižvelgdamas į šio įstatymo 191 straipsnyje nurodytus notarų atlyginimo dydžių (įkainių) nustatymo kriterijus ir suderinęs su Lietuvos Respublikos finansų ministru. Atlyginimo dydis turi garantuoti notaro pajamas, kurios leistų jam būti ekonomiškai nepriklausomam, sudaryti geras klientų aptarnavimo sąlygas, įdarbinti reikalingos kvalifikacijos darbuotojus ir turėti gerai techniškai aprūpintą biurą. Notaras dėl civilinių ginčų taikinamojo tarpininkavimo (mediacijos) (toliau – taikinamasis tarpininkavimas) paslaugų kainos ir apmokėjimo tvarkos susitaria su klientais, sudarydamas sutartį dėl paslaugų teikimo, jeigu įstatymuose nenustatyta kitaip.
+Už notarinių veiksmų atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas notaras ima atlyginimą, kurio dydį (įkainius) nustato Lietuvos Respublikos teisingumo ministras, atsižvelgdamas į šio įstatymo 191 straipsnyje nurodytus notarų atlyginimo dydžių (įkainių) nustatymo kriterijus ir suderinęs su Lietuvos Respublikos finansų ministru. Atlyginimo dydis turi garantuoti notaro pajamas, kurios leistų jam būti ekonomiškai nepriklausomam, sudaryti geras klientų aptarnavimo sąlygas, įdarbinti reikalingos kvalifikacijos darbuotojus ir turėti gerai techniškai aprūpintą biurą. Notaras dėl mediacijos ir aukcionų organizavimo bei vykdymo paslaugų kainų ir apmokėjimo tvarkos susitaria su klientais, sudarydamas sutartį dėl paslaugų teikimo, jeigu įstatymuose nenustatyta kitaip.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 
 Nr. XIII-1605, 2018-11-08, paskelbta TAR 2018-11-20, i. k. 2018-18678
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
 
 Atsižvelgdamas į kliento turtinę padėtį, notaras gali iš viso ar iš dalies atleisti jį nuo atlyginimo mokėjimo.
 
@@ -471,11 +475,13 @@ Nr. XI-1979, 2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
 
 Notaras nevaržomai dalyvauja notarų savivaldos ir kitų renkamų institucijų veikloje. Notaras, eidamas savo pareigas, kartu gali eiti renkamas pareigas notarų savivaldos institucijose. Jeigu notaras eina renkamas pareigas kitose institucijose, jo įgaliojimai turi būti sustabdomi šio įstatymo 221 straipsnio nustatyta tvarka.
 
-Notaras negali gauti jokio kito atlyginimo, išskyrus notaro atlyginimą, atlygį už arbitro funkcijų atlikimą, atlyginimą už taikinamojo tarpininkavimo paslaugų teikimą, atlyginimą už darbą visų lygių rinkimų ir referendumo komisijose, kompensaciją už darbą Notarų rūmuose, užmokestį už pedagoginę ar kūrybinę veiklą. Ši nuostata netaikoma tais atvejais, kai sustabdomi notaro įgaliojimai.
+Notaras negali gauti jokio kito atlyginimo, išskyrus notaro atlyginimą, atlygį už arbitro funkcijų atlikimą, atlyginimą už mediacijos paslaugų teikimą, atlyginimą už aukcionų organizavimo ir vykdymo paslaugų teikimą, atlyginimą už darbą visų lygių rinkimų ir referendumo komisijose, kompensaciją už darbą Notarų rūmuose, užmokestį už pedagoginę ar kūrybinę veiklą. Ši nuostata netaikoma tais atvejais, kai sustabdomi notaro įgaliojimai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
 
 Atlikdamas arbitro funkcijas, notaras privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas. Notaras negali būti arbitru ginčuose, kylančiuose iš santykių, dėl kurių jis jau yra atlikęs įstatymų nustatytas funkcijas. Be to, notaras negali atlikti įstatymų nustatytų funkcijų dėl tų santykių, iš kurių kilusiame ginče jis buvo arbitru.
 
@@ -509,11 +515,13 @@ Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 
 Notaro atstovo skyrimas įforminamas Lietuvos Respublikos teisingumo ministro įsakymu nurodant laiką, kurį skiriamas asmuo eis notaro atstovo pareigas arba nurodant aplinkybes, kurioms esant skiriamas asmuo eis notaro atstovo pareigas. Šiuo atveju notaro atstovas skiriamas vienerių metų terminui.
 
-Asmuo gali būti skiriamas tik vieno notaro atstovu. Notaro atstovo pareigas gali eiti asmuo, paskirtas notaro atstovu ir prisiekęs šio įstatymo 5 straipsnyje nustatyta tvarka. Jeigu asmuo iki paskyrimo notaro atstovu buvo davęs notaro priesaiką šio įstatymo nustatyta tvarka, jam prisiekti iš naujo nereikia. Atstovaujamasis notaras atstovavimo metu negali atlikti notarinių veiksmų ir teikti taikinamojo tarpininkavimo paslaugų.
+Asmuo gali būti skiriamas tik vieno notaro atstovu. Notaro atstovo pareigas gali eiti asmuo, paskirtas notaro atstovu ir prisiekęs šio įstatymo 5 straipsnyje nustatyta tvarka. Jeigu asmuo iki paskyrimo notaro atstovu buvo davęs notaro priesaiką šio įstatymo nustatyta tvarka, jam prisiekti iš naujo nereikia. Atstovaujamasis notaras atstovavimo metu negali atlikti notarinių veiksmų ir teikti šio įstatymo 202 ir 203 straipsniuose nurodytų paslaugų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
 
 Atstovaujamasis notaras su paskirtu notaro atstovu iki jo pareigų atlikimo pradžios sudaro sutartį dėl notaro atstovo pareigų atlikimo apmokėjimo, notaro biuro darbo organizavimo. Tais atvejais, kai notaro atstovas skiriamas Lietuvos Respublikos teisingumo ministro iniciatyva, su paskirtu notaro atstovu iki jo pareigų atlikimo šioje straipsnio dalyje numatytą sutartį sudaro Notarų rūmai.
 
@@ -531,11 +539,13 @@ Notaro atstovas turi visas notaro teises ir pareigas, išskyrus šiame įstatyme
 
 Už notaro atstovo padarytą žalą fiziniams ar juridiniams asmenims, vykdant notaro profesinę veiklą, atsako atstovaujamasis notaras. Notaro atstovo atsakomybė notarui už notaro atstovo padarytą ir notaro fiziniams ar juridiniams asmenims atlygintą žalą nustatoma šio straipsnio šeštojoje dalyje nurodytoje sutartyje.
 
-Pavaduojantį notarą skiria Notarų rūmai pagal notaro, negalinčio eiti notaro pareigų, ir notaro, kuris sutinka jį pavaduoti, prašymus. Pavaduojantis notaras skiriamas ne ilgesniam kaip trisdešimt dienų terminui. Jei pasibaigus šiam terminui pavaduojamas notaras ir toliau negali eiti notaro pareigų, Lietuvos Respublikos teisingumo ministras skiria notaro atstovą. Pavaduojančiam notarui pavedama aptarnauti notaro, laikinai negalinčio eiti notaro pareigų, veiklos teritoriją, nustatytą pagal šio įstatymo 6 straipsnį. Notaras gali pavaduoti tik vieną notarą. Pavadavimo metu pavaduojamas notaras negali atlikti notarinių veiksmų ir teikti taikinamojo tarpininkavimo paslaugų. Pavaduojantis notaras pavadavimo metu savo vardu ir lėšomis atlieka notarinius veiksmus, susijusius su pavaduojamo notaro veiklos teritorijoje atsiradusiu palikimu, taip pat su pavaduojamo notaro sudarytų dokumentų, saugomų pavaduojamo notaro biure, išdavimu šio įstatymo 14, 38 ir 39 straipsniuose nustatyta tvarka. Pavadavimo metu pavaduojantis notaras notarinius veiksmus atlieka savo biure. Pavaduojamas notaras ir pavaduojantis notaras raštu susitaria dėl pavaduojamo notaro veiklos metu sudarytų dokumentų naudojimo pavadavimo metu.
+Pavaduojantį notarą skiria Notarų rūmai pagal notaro, negalinčio eiti notaro pareigų, ir notaro, kuris sutinka jį pavaduoti, prašymus. Pavaduojantis notaras skiriamas ne ilgesniam kaip trisdešimt dienų terminui. Jei pasibaigus šiam terminui pavaduojamas notaras ir toliau negali eiti notaro pareigų, Lietuvos Respublikos teisingumo ministras skiria notaro atstovą. Pavaduojančiam notarui pavedama aptarnauti notaro, laikinai negalinčio eiti notaro pareigų, veiklos teritoriją, nustatytą pagal šio įstatymo 6 straipsnį. Notaras gali pavaduoti tik vieną notarą. Pavadavimo metu pavaduojamas notaras negali atlikti notarinių veiksmų ir teikti šio įstatymo 202 ir 203 straipsniuose nurodytų paslaugų. Pavaduojantis notaras pavadavimo metu savo vardu ir lėšomis atlieka notarinius veiksmus, susijusius su pavaduojamo notaro veiklos teritorijoje atsiradusiu palikimu, taip pat su pavaduojamo notaro sudarytų dokumentų, saugomų pavaduojamo notaro biure, išdavimu šio įstatymo 14, 38 ir 39 straipsniuose nustatyta tvarka. Pavadavimo metu pavaduojantis notaras notarinius veiksmus atlieka savo biure. Pavaduojamas notaras ir pavaduojantis notaras raštu susitaria dėl pavaduojamo notaro veiklos metu sudarytų dokumentų naudojimo pavadavimo metu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
 
 Lietuvos Respublikos teisingumo ministerija apie paskirtą notaro atstovą informuoja Notarų rūmus. Notarų rūmai visuomenės informavimo tikslais savo interneto svetainėje skelbia notarų atstovų ir pavaduojančių notarų sąrašą. Šiame sąraše nurodoma atstovaujamo ar pavaduojamo notaro vardas, pavardė, notaro biuro pavadinimas, atstovavimo ar pavadavimo terminas, notaro atstovo vardas ir pavardė arba atstovaujančio ar pavaduojančio notaro vardas, pavardė, notaro biuro pavadinimas. Šiame sąraše duomenys skelbiami tol, kol baigsis notaro atstovavimas ar pavadavimas.
 
@@ -659,7 +669,7 @@ Nr. XI-1979, 2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
 
 24 straipsnis. Notaro veiklos tęstinumas
 
-Pasibaigus notaro įgaliojimams, Lietuvos Respublikos teisingumo ministras priima sprendimą dėl tolesnės notaro biuro veiklos, neatliktų notarinių veiksmų tęsimo, dokumentų ir depozitinėje sąskaitoje esančių lėšų perdavimo. Depozitinėje sąskaitoje esančių lėšų perdavimo tvarką nustato Lietuvos Respublikos teisingumo ministras, suderinęs su Notarų rūmais.
+Pasibaigus notaro įgaliojimams, Lietuvos Respublikos teisingumo ministras priima sprendimą dėl tolesnės notaro biuro veiklos, neatliktų notarinių veiksmų tęsimo, dokumentų ir depozitinėje sąskaitoje esančių lėšų perdavimo. Notaro depozitinėje sąskaitoje esančių lėšų perdavimo pasibaigus notaro įgaliojimams tvarką nustato Lietuvos Respublikos teisingumo ministras, suderinęs su Notarų rūmais.
 
 Straipsnio pakeitimai:
 
@@ -668,6 +678,8 @@ Nr. I-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 Straipsnio pakeitimai:
 
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
 
 25 straipsnis. Notarinių veiksmų atlikimas užsienyje
 
@@ -741,6 +753,12 @@ Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 
 Pripažįstama, kad notarine forma patvirtintuose dokumentuose esantys faktai yra nustatyti ir neįrodinėjami, iki šie dokumentai (jų dalys) įstatymų nustatyta tvarka nėra pripažinti negaliojančiais.
 
+Pinigų priėmimo į notaro depozitinę sąskaitą ir jų išmokėjimo tvarką nustato Lietuvos Respublikos teisingumo ministras, suderinęs su Notarų rūmais.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
+
 Straipsnio pakeitimai:
 
 Nr. I-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
@@ -757,23 +775,19 @@ Nr. XI-1848, 2011-12-22, Žin., 2012, Nr. 6-184 (2012-01-10)
 
 Lietuvos Respublikos konsuliniai pareigūnai atlieka šiuos notarinius veiksmus:
 
-1) tvirtina sandorius, išskyrus sutartis dėl Lietuvos Respublikoje esančių nekilnojamųjų daiktų perleidimo, perdavimo naudotis, įkeitimo ar kitų daiktinių teisių ar jų suvaržymo;
+1) tvirtina tokius sandorius: testamentus, įgaliojimus, pareiškimus dėl tėvystės pripažinimo, išankstinius nurodymus, sutartis dėl pagalbos priimant sprendimus, sutuoktinio ir bendraturčių rašytinius sutikimus sudaryti sandorius, bendraturčių pareiškimus dėl pirmenybės teisės pirkti parduodamas bendrosios nuosavybės turto dalis, pareiškimus dėl palikimo atsisakymo;
 
 2) liudija dokumentų nuorašų ir jų išrašų tikrumą;
 
 3) liudija parašo dokumentuose tikrumą;
 
-4) liudija dokumentų vertimo iš vienos kalbos į kitą tikrumą;
+4) tvirtina faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
 
-5) tvirtina faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
+5) priima saugoti asmeninius testamentus;
 
-6) priima saugoti asmeninius testamentus;
+6) tvirtina dokumentų pateikimo laiką;
 
-7) tvirtina dokumentų pateikimo laiką;
-
-8) priima jūrinius protestus;
-
-9) atlieka kitus įstatymų numatytus notarinius veiksmus.
+7) atlieka kitus įstatymų numatytus notarinius veiksmus.
 
 Straipsnio pakeitimai:
 
@@ -782,6 +796,10 @@ Nr. I-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 Nr. IX-371, 2001-06-12, Žin., 2001, Nr. 55-1943 (2001-06-27)
 
 Nr. IX-1311, 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3356, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24244
 
 27(1) straipsnis. Seniūnų atliekami notariniai veiksmai
 
@@ -931,37 +949,31 @@ Nr. IX-1311, 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
 Nr. XI-1916, 2011-12-23, Žin., 2012, Nr. 4-114 (2012-01-06)
 
-37 straipsnis. Notarinių veiksmų registravimas
+37 straipsnis. Notarinių veiksmų ir paslaugų registravimas
 
-Visi notariniai veiksmai registruojami viename notariniame registre.
+Visi notariniai veiksmai ir paslaugos registruojami viename notariniame registre.
 
-Notariniame registre turi būti nurodomi šie registruojamo notarinio veiksmo duomenys:
+Notariniame registre turi būti nurodomi šie registruojamo notarinio veiksmo ar paslaugos  duomenys:
 
-1) notarinio veiksmo registracijos numeris;
+1) notarinio veiksmo ar paslaugos registracijos numeris;
 
-2) notarinio veiksmo atlikimo data;
+2) notarinio veiksmo atlikimo ar paslaugos suteikimo data;
 
 3) fizinio asmens vardas, pavardė, asmens kodas arba gimimo data, juridinio asmens pavadinimas, kodas, atstovo vardas, pavardė, asmens kodas arba gimimo data;
 
 4) dokumentas, patvirtinantis asmens tapatybę;
 
-5) notarinio veiksmo arba suteiktos teisinės paslaugos turinys;
+5) notarinio veiksmo arba suteiktos paslaugos turinys;
 
-6) notaro atlyginimo dydis už notarinio veiksmo atlikimą;
+6) notaro atlyginimo dydis už notarinio veiksmo atlikimą ar suteiktą paslaugą;
 
-7) notaro atlyginimo dydis už sandorio projekto parengimą, konsultaciją ar techninę paslaugą;
-
-8) asmens, kuriam atliktas notarinis veiksmas ar suteikta teisinė paslauga, ir visų kitų notarinio veiksmo dalyvių parašai.
+7) notaro atlyginimo dydis už sandorio projekto parengimą, konsultaciją ar techninę paslaugą.
 
 Notarinio veiksmo registracijos numeris įrašomas notaro tvirtinamame, liudijamame ar išduodamame dokumente.
 
-Įrašas registre yra įrodymas, kad notarinis veiksmas buvo atliktas.
+Įrašas notariniame registre yra įrodymas, kad notarinis veiksmas buvo atliktas.
 
-Notarinis registras gali būti tvarkomas elektroniniu būdu. Elektroniniu būdu tvarkomam notariniam registrui netaikomas šio straipsnio antrosios dalies 8 punkte nurodytas reikalavimas. Elektroniniu būdu tvarkomo notarinio registro pildymo tvarką nustato Lietuvos Respublikos teisingumo ministras, suderinęs su Notarų rūmais.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+Notarinis registras tvarkomas elektroniniu būdu. Notarinio registro pildymo tvarką nustato Lietuvos Respublikos teisingumo ministras, suderinęs su Notarų rūmais.
 
 Straipsnio pakeitimai:
 
@@ -971,9 +983,17 @@ Nr. VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
 
 Nr. IX-1311, 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
+Straipsnio pakeitimai:
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
+
 38 straipsnis. Notarinio registro išrašo išdavimas
 
-Notaras notarinio registro išrašą išduoda pagal juridinių ir fizinių asmenų, kuriems arba kurių pavedimu buvo atlikti notariniai veiksmai, rašytinį pareiškimą.
+Notaras notarinio registro išrašą išduoda pagal juridinių ir fizinių asmenų, kuriems arba kurių pavedimu buvo atlikti notariniai veiksmai ar suteiktos paslaugos, rašytinį pareiškimą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
 
 39 straipsnis. Dingusio dokumento dublikato išdavimas
 
@@ -1043,11 +1063,15 @@ Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 
 44 straipsnis. Notarinio registro, tvirtinamųjų įrašų ir notarinių liudijimų formos
 
-Notarinio registro, tvirtinamųjų įrašų ir notarinių liudijimų formas ir jų pildymo taisykles nustato Lietuvos Respublikos teisingumo ministras.
+Notarinio registro, tvirtinamųjų įrašų ir notarinių liudijimų formas, tvirtinamųjų įrašų ir notarinių liudijimų formų pildymo taisykles nustato Lietuvos Respublikos teisingumo ministras.
 
 Straipsnio pakeitimai:
 
 Nr. IX-1311, 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
 
 IV SKYRIUS
 
@@ -1541,17 +1565,17 @@ Notarų atlyginimo už notarinių veiksmų atlikimą, sandorių projektų pareng
 
 Nr. XI-1979, 2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
 
-202 straipsnis. Notarų teikiamos taikinamojo tarpininkavimo paslaugos
+202 straipsnis. Notarų teikiamos mediacijos paslaugos
 
-Notarai teisės aktų nustatyta tvarka gali teikti taikinamojo tarpininkavimo paslaugas.
+Notarai teisės aktų nustatyta tvarka gali teikti mediacijos paslaugas.
 
-Taikinamojo tarpininkavimo paslaugų teikimas neturi trukdyti notarui atlikti įstatymų nustatytas funkcijas. Notaras privalo teikti pirmenybę įstatymų nustatytų funkcijų atlikimui. Teikdamas taikinamojo tarpininkavimo paslaugas, notaras privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas.
+Mediacijos paslaugų teikimas neturi trukdyti notarui atlikti notarinius veiksmus. Notaras privalo teikti pirmenybę notarinių veiksmų atlikimui. Teikdamas mediacijos paslaugas, notaras privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu atliekant notarinius veiksmus.
 
-Atlikdamas įstatymų nustatytas funkcijas ir teikdamas taikinamojo tarpininkavimo paslaugas, notaras turi atriboti savo funkcijų atlikimą nuo taikinamojo tarpininkavimo paslaugų teikimo. Notaras negali teikti taikinamojo tarpininkavimo paslaugų ginčuose, kylančiuose iš tų santykių, dėl kurių jis jau yra atlikęs įstatymų nustatytas funkcijas. Notaras taip pat negali atlikti įstatymų nustatytų funkcijų dėl tų santykių, iš kurių kilusiame ginče jis jau suteikė taikinamojo tarpininkavimo paslaugas.
+Atlikdamas notarinius veiksmus ir teikdamas mediacijos paslaugas, notaras turi atriboti notarinių veiksmų atlikimą nuo mediacijos paslaugų teikimo. Notaras negali teikti mediacijos paslaugų ginčuose, kylančiuose iš tų santykių, dėl kurių jis jau yra atlikęs notarinius veiksmus. Notaras taip pat negali atlikti notarinių veiksmų dėl tų santykių, iš kurių kilusiame ginče jis jau suteikė mediacijos paslaugas.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
 
 103 straipsnis. Notarų garbės teismo sprendimai
 
@@ -1604,4 +1628,22 @@ Notarų garbės teismas notaro prašymu gali panaikinti drausminę nuobaudą nes
 Papildyta straipsniu:
 
 Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
+
+203 straipsnis. Notarų teikiamos aukcionų organizavimo ir vykdymo paslaugos
+
+Notarai Civilinio kodekso, šio įstatymo, kitų teisės aktų nustatyta tvarka gali teikti aukcionų organizavimo ir vykdymo paslaugas, išskyrus turtą, kurio aukciono organizatoriumi ir vykdytoju pagal Lietuvos Respublikos teisės aktus notaras būti negali.
+
+Aukcionų organizavimo ir vykdymo paslaugų teikimas neturi trukdyti notarui atlikti notarinius veiksmus. Notaras privalo teikti pirmenybę notarinių veiksmų atlikimui.
+
+Aukcionai organizuojami ir vykdomi informacinių technologijų priemonėmis.
+
+Organizuojant ir vykdant aukcionus imamasi priemonių, kad būtų užtikrinama patikimas asmens tapatybės nustatymas, konfidencialumas, tvarkomos elektroninės informacijos sauga ir kibernetinis saugumas ir naudojamos tinkamos techninės ir organizacinės asmens duomenų tvarkymo priemonės. Šios priemonės užtikrinamos naudojantis bendra Notarų rūmų informacinių technologijų platforma.
+
+Aukciono dalyvio mokestis mokamas į notaro depozitinę sąskaitą.
+
+Aukcionų organizavimo ir vykdymo tvarka nustatyta Notarų organizuojamų ir vykdomų elektroninių aukcionų taisyklėse. Šiose taisyklėse nurodomos aukciono organizatoriaus teisės ir pareigos, aukciono objekto įsigijimo ir apmokėjimo tvarka, aukciono dalyvio mokesčio mokėjimo, jo grąžinimo sąlygos ir tvarka, aptariamos kitos organizuojant ir vykdant aukcioną reikšmingos aplinkybės. Notarų organizuojamų ir vykdomų elektroninių aukcionų taisykles tvirtina Lietuvos Respublikos teisingumo ministras Notarų rūmų prezidiumo teikimu.
+
+Papildyta straipsniu:
+
+Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
 
