@@ -4,7 +4,7 @@ identifier: "TAR.3E147F656BC4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-01"
-last_updated: "2019-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
 
@@ -186,9 +186,17 @@ PROFESIONALIOJO SCENOS MENO ĮSTAIGŲ SISTEMA IR ĮSTAIGŲ VEIKLOS PAGRINDAI
 
 4. Sprendimą dėl biudžetinės įstaigos nacionalinio ir valstybinio teatro ir koncertinės įstaigos pertvarkymo į viešąją įstaigą priima biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti institucija, gavusi išankstinį Vyriausybės sutikimą. Sprendimą dėl biudžetinės įstaigos savivaldybės teatro ir koncertinės įstaigos pertvarkymo į viešąją įstaigą priima savivaldybės taryba.
 
-5. Nacionalinių teatrų ir koncertinių įstaigų, nepaisant jų teisinės formos, vadovai rengia strateginius veiklos planus ir juos tvirtina, suderinę su savininko teises ir pareigas įgyvendinančia institucija.
+5. Nacionaliniai teatrai ir koncertinės įstaigos, kurių vadovai yra valstybės biudžeto asignavimų valdytojai, kaip jie apibrėžti Lietuvos Respublikos biudžeto sandaros įstatyme, rengia strateginius veiklos planus ir teikia juos tvirtinti savininko teises ir pareigas įgyvendinančiai institucijai.
 
-6. Valstybinių ir savivaldybių teatrų ir koncertinių įstaigų, nepaisant jų teisinės formos, vadovai rengia metinius veiklos planus ir teikia juos tvirtinti savininko teises ir pareigas įgyvendinančiai institucijai.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3135, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15381
+
+6. Valstybiniai ir savivaldybių teatrai ir koncertinės įstaigos, taip pat nacionaliniai teatrai ir koncertinės įstaigos, kurių vadovai nėra valstybės biudžeto asignavimų valdytojai, kaip jie apibrėžti Lietuvos Respublikos biudžeto sandaros įstatyme, nepaisant jų teisinės formos, rengia metinius veiklos planus ir teikia juos tvirtinti savininko teises ir pareigas įgyvendinančiai institucijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3135, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15381
 
 7 straipsnis. Profesionaliojo scenos meno įstaigų steigimo dokumentų papildomi duomenys
 
@@ -566,7 +574,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 LAIKINAI EINANTIS
 
-RESPUBLIKOS PREZIDENTO PAREIGAS                                      ARTŪRAS PAULAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                         ARTŪRAS PAULAUSKAS
 
 Pakeitimai:
 
@@ -657,6 +665,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1751, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20730
 
 Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 4 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3135, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15381
+
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 6 straipsnio pakeitimo įstatymas
 
 20 straipsnis. Teatrų ir koncertinių įstaigų taryba
 
