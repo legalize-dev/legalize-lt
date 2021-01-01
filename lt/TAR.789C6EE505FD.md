@@ -4,7 +4,7 @@ identifier: "TAR.789C6EE505FD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-01"
-last_updated: "2020-08-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.789C6EE505FD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-09-21
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
 
@@ -299,11 +299,17 @@ Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
 
 18) renka, kaupia, sistemina ir analizuoja duomenis (įskaitant asmens duomenis ir specialių kategorijų asmens duomenis), reikalingus interesų konfliktų rizikos stebėsenai, rizikos valdymui ir prevencijai, apribojimų pasibaigus tarnybai laikymosi priežiūrai;
 
-19) priima sprendimus dėl nustatytų apribojimų taikymo išimčių pagal Viešųjų ir privačių interesų derinimo įstatymo 18 straipsnį.
+19) priima sprendimus dėl nustatytų apribojimų taikymo išimčių pagal Viešųjų ir privačių interesų derinimo įstatymo 18 straipsnį;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
+
+20) tvarko asmenų, darančių įtaką teisėkūrai, sąrašą pagal Lietuvos Respublikos teisėkūros pagrindų įstatymo nuostatas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3173, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15505
 
 2. VTEK netiria pranešimų ir prašymų dėl valstybės ir savivaldybių institucijų (kaip kolegialių institucijų) veiklos, prokurorų ar ikiteisminio tyrimo pareigūnų procesinių sprendimų teisėtumo ir pagrįstumo. Be to, VTEK netikrina teismų priimtų sprendimų, nutarimų, nuosprendžių ir nutarčių pagrįstumo ir teisėtumo.
 
@@ -619,7 +625,7 @@ VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS KOMPETENCIJA
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -710,6 +716,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
 
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 4, 7, 17, 24, 31 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3173, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15505
+
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 17 straipsnio pakeitimo įstatymas
 
 241 straipsnis. Institucijų ir įstaigų priimtų sprendimų apskundimas VTEK
 
