@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2020-12-30"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-12-30 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-01-01
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -1357,11 +1357,13 @@ VIII SKYRIUS
 
 VALSTYBĖS TARNAUTOJŲ ATOSTOGOS IR GARANTIJOS
 
-2. Lietuvos Respublikos Prezidento kanceliarijos kancleriui ir Lietuvos Respublikos Vyriausybės kancleriui šis įstatymas taikomas be išlygų. Seimo kancleriui šis įstatymas taikomas tiek, kiek jo statuso nereglamentuoja Lietuvos Respublikos Seimo statutas. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams, Vyriausybės priimamiems ir Ministro Pirmininko skiriamiems valstybės pareigūnams taikomi šio įstatymo 4, 38 ir 39 straipsniai. Šiems valstybės pareigūnams, išskyrus tuos, kurių kasmetines atostogas reglamentuoja specialūs įstatymai, taip pat taikomas šio įstatymo 42 straipsnis.
+2. Lietuvos Respublikos Prezidento kanceliarijos kancleriui ir Lietuvos Respublikos Vyriausybės kancleriui šis įstatymas taikomas be išlygų. Seimo kancleriui šis įstatymas taikomas tiek, kiek jo statuso nereglamentuoja Lietuvos Respublikos Seimo statutas. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams, Vyriausybės priimamiems ir Ministro Pirmininko skiriamiems valstybės pareigūnams taikomi šio įstatymo 4, 38 ir 39 straipsniai. Šioje dalyje nurodytiems valstybės pareigūnams, išskyrus tuos, kurių kasmetines atostogas reglamentuoja specialūs įstatymai, taip pat taikomas šio įstatymo 42 straipsnis. Šioje dalyje nurodytiems valstybės pareigūnams, kurie savo noru (prašymu) atsistatydina (atleidžiami) iš pareigų dėl 65 metų sukakties, mutatis mutandis taikomos šio įstatymo 48 straipsnio 1 dalies nuostatos dėl išeitinių išmokų mokėjimo valstybės tarnautojams, sukakusiems 65 metus, jeigu specialūs įstatymai nenustato kitaip.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2660, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20995
+
+Nr. XIII-3399, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24541
 
 43 straipsnis. Atostogos kvalifikacijai tobulinti
 
@@ -1401,7 +1403,11 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 48 straipsnis. Išeitinės išmokos ir kompensacijos
 
-1. Šio įstatymo 51 straipsnio 1 dalies 12 punkte nurodytais pagrindais atleidžiamam iš pareigų valstybės tarnautojui jo atleidimo iš pareigų dieną išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šio įstatymo 51 straipsnio 1 dalies 13 punkte nurodytu pagrindu atleidžiamam iš pareigų valstybės tarnautojui jo atleidimo iš pareigų dieną išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šio įstatymo 51 straipsnio 1 dalies 6 punkte nurodytu pagrindu (baigiasi politinio (asmeninio) pasitikėjimo valstybės tarnautoją į pareigas pasirinkusio valstybės politiko ar kolegialios valstybės institucijos įgaliojimai) atleistam iš pareigų politinio (asmeninio) pasitikėjimo valstybės tarnautojui vieno mėnesio vidutinio darbo užmokesčio dydžio išeitinė išmoka mokama, jeigu jis ėjo pareigas ne mažiau kaip pusę jį į pareigas pasirinkusio valstybės politiko ar kolegialios valstybės institucijos teisės aktuose nustatytos kadencijos trukmės. Ši išeitinė išmoka politinio (asmeninio) pasitikėjimo valstybės tarnautojui išmokama praėjus mėnesiui nuo jo atleidimo iš pareigų dienos. Jeigu iki šios išmokos išmokėjimo asmuo pradėjo eiti valstybės tarnautojo pareigas ar buvo priimtas į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke, išeitinė išmoka mokama tik už laikotarpį iki asmens priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos.
+1. Šio įstatymo 51 straipsnio 1 dalies 12 punkte nurodytais pagrindais atleidžiamam iš pareigų valstybės tarnautojui jo atleidimo iš pareigų dieną išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šio įstatymo 51 straipsnio 1 dalies 13 punkte nurodytu pagrindu atleidžiamam iš pareigų valstybės tarnautojui jo atleidimo iš pareigų dieną išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šio įstatymo 51 straipsnio 1 dalies 6 punkte nurodytu pagrindu (valstybės tarnautojui sukanka 65 metai) arba specialiame įstatyme nustatytu pagrindu (valstybės tarnautojui sukanka 65 metai) atleidžiamam iš pareigų valstybės tarnautojui (toliau kartu – valstybės tarnautojas, kuriam sukako 65 metai), jo atleidimo iš pareigų dieną išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Jeigu dėl iš pareigų atleidžiamo valstybės tarnautojo, kuriam sukako 65 metai, yra pradėtas ir nebaigtas šio įstatymo 34 straipsnio 2 dalies 2 punkte nurodytas tarnybinio nusižengimo tyrimas, išeitinė išmoka valstybės tarnautojui, kuriam sukako 65 metai, išmokama per 5 darbo dienas nuo jį į pareigas priimančio asmens sprendimo, atlikus tarnybinio nusižengimo tyrimą, priėmimo dienos. Atlikus šio įstatymo 34 straipsnio 2 dalies 2 punkte nurodytą tarnybinio nusižengimo tyrimą ir priėmus sprendimą dėl asmens, ėjusio valstybės tarnautojo pareigas, pripažinimo padarius tarnybinį nusižengimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, išeitinė išmoka iš pareigų atleistam valstybės tarnautojui, kuriam sukako 65 metai, nemokama. Šio įstatymo 51 straipsnio 1 dalies 6 punkte nurodytu pagrindu (baigiasi politinio (asmeninio) pasitikėjimo valstybės tarnautoją į pareigas pasirinkusio valstybės politiko ar kolegialios valstybės institucijos įgaliojimai) atleistam iš pareigų politinio (asmeninio) pasitikėjimo valstybės tarnautojui vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka mokama, jeigu jis ėjo pareigas ne mažiau kaip pusę jį į pareigas pasirinkusio valstybės politiko ar kolegialios valstybės institucijos teisės aktuose nustatytos kadencijos trukmės. Ši išeitinė išmoka politinio (asmeninio) pasitikėjimo valstybės tarnautojui išmokama praėjus mėnesiui nuo jo atleidimo iš pareigų dienos. Jeigu iki šios išmokos išmokėjimo asmuo pradėjo eiti valstybės tarnautojo pareigas ar buvo priimtas į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke, išeitinė išmoka mokama tik už laikotarpį iki asmens priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3399, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24541
 
 2. Pagal šio įstatymo 51 straipsnio 1 dalies 9 punktą atleidžiamam iš pareigų valstybės tarnautojui išmokama iki pareigybės panaikinimo jo gauto vidutinio darbo užmokesčio dydžio išeitinė išmoka, atsižvelgiant į valstybės tarnautojo tarnybos valstybės ar savivaldybės institucijoje ar įstaigoje stažą (į tarnybos stažą valstybės ar savivaldybės institucijoje ar įstaigoje taip pat įskaitomas laikas, kurį valstybės tarnautojas šio įstatymo 21, 25 ir 26 straipsniuose nustatytais atvejais buvo perkeltas į kitas pareigas, taip pat šio įstatymo 49 straipsnio 1 dalyje nustatytais atvejais, kai valstybės tarnautojas iki pareigybės panaikinimo buvo perkeltas į kitas pareigas):
 
@@ -1419,11 +1425,13 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 4. Šio straipsnio 2 dalyje nustatyta išeitinė išmoka pradedama mokėti praėjus mėnesiui nuo valstybės tarnautojo atleidimo dienos ir mokama kas mėnesį lygiomis dalimis. Jos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos. Asmeniui mirus, išeitinės išmokos dalis, priklausanti asmeniui už tą mėnesį, kurį jis mirė, neišmokėta iki asmens mirties dienos, išmokama įpėdiniui, pateikusiam paveldėjimo dokumentus.
 
-5. Šio įstatymo 51 straipsnio 1 dalyje nurodytais pagrindais atleidžiamam, pagal šio įstatymo 21 straipsnio 2 dalį, 22 straipsnio 3 dalį, 26 straipsnio 1 dalį perkeliamam į kitą valstybės ar savivaldybės instituciją ar įstaigą valstybės tarnautojui jo atleidimo (perkėlimo) iš pareigų dieną išmokamos visos jam priklausančios pinigų sumos, išskyrus šio straipsnio 1 dalyje nurodytą išeitinę išmoką, mokamą politinio (asmeninio) pasitikėjimo valstybės tarnautojams, ir šio straipsnio 2 dalyje nurodytą išeitinę išmoką.
+5. Šio įstatymo 51 straipsnio 1 dalyje nurodytais pagrindais, specialiame įstatyme arba tiesiogiai taikomame Europos Sąjungos teisės akte nustatytais pagrindais atleidžiamam, pagal šio įstatymo 21 straipsnio 2 dalį, 22 straipsnio 3 dalį, 26 straipsnio 1 dalį perkeliamam į kitą valstybės ar savivaldybės instituciją ar įstaigą valstybės tarnautojui jo atleidimo (perkėlimo) iš pareigų dieną išmokamos visos jam priklausančios pinigų sumos, išskyrus šio straipsnio 1 dalyje nurodytą išeitinę išmoką, kai atliekamas tarnybinio nusižengimo tyrimas, šio straipsnio 1 dalyje nurodytą išeitinę išmoką, mokamą politinio (asmeninio) pasitikėjimo valstybės tarnautojams, atleidžiamiems iš pareigų šio įstatymo 51 straipsnio 1 dalies 6 punkte nurodytu pagrindu (baigiasi politinio (asmeninio) pasitikėjimo valstybės tarnautoją į pareigas pasirinkusio valstybės politiko ar kolegialios valstybės institucijos įgaliojimai), ir šio straipsnio 2 dalyje nurodytą išeitinę išmoką.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
+
+Nr. XIII-3399, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24541
 
 6. Šio įstatymo 51 straipsnio 1 dalies 18 punkte nurodytu pagrindu atleidžiamam iš pareigų įstaigos vadovui (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu) ir karjeros valstybės tarnautojui gali būti mokama kompensacija, kuri yra ne didesnė negu šio straipsnio 2 dalyje nurodyta išeitinė išmoka ir kuri išmokama tokiam valstybės tarnautojui jo atleidimo iš pareigų dieną.
 
