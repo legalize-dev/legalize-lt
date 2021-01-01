@@ -4,7 +4,7 @@ identifier: "TAR.72C31F8DD98E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 58-1704, i. k. 1001010ISTAIII-1764
 
@@ -142,7 +142,11 @@ Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
 
 12) duomenys apie statinio statybos būklę;
 
-13) statinio buvimo vieta žemės sklype (žemės sklypo, kuriame yra statinys, unikalus numeris);
+13) statinio (išskyrus jūrinėje teritorijoje esančio statinio buvimo vietą) buvimo vieta žemės sklype (žemės sklypo, kuriame yra statinys, unikalus numeris);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 14) patalpos, suformuotos kaip atskiras nekilnojamasis daiktas, buvimo vieta pastate (statinio, kuriame yra patalpa, unikalus numeris);
 
@@ -164,7 +168,11 @@ Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
 
 23) kiti teisės aktų nustatyti duomenys.
 
-3. Įrašant nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą, turi būti įrašomas nekilnojamajam daiktui Vyriausybės nustatyta tvarka suteiktas adresas (gyvenamosios vietovės pavadinimas, gatvės pavadinimas ir pastato numeris).
+3. Įrašant nekilnojamojo daikto (išskyrus jūrinėje teritorijoje esančio statinio kadastro duomenis) kadastro duomenis į Nekilnojamojo turto kadastrą, turi būti įrašomas nekilnojamajam daiktui Vyriausybės nustatyta tvarka suteiktas adresas (gyvenamosios vietovės pavadinimas, gatvės pavadinimas ir pastato numeris).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 4. Įrašant sodininkų bendrijai priskirtoje mėgėjų sodo teritorijoje esančio žemės sklypo kadastro duomenis į nekilnojamojo turto kadastrą, įrašomas sodininkų bendrijos, kurioje yra tas žemės sklypas, pavadinimas ir kodas.
 
@@ -177,6 +185,12 @@ Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
+
+6. Įrašant jūrinėje teritorijoje esančio statinio kadastro duomenis į Nekilnojamojo turto kadastrą, kartu turi būti nurodomas šios jūrinės teritorijos, kurioje yra šis statinys, pavadinimas ir unikalus skaitmeninis kodas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 Straipsnio pakeitimai:
 
@@ -220,7 +234,11 @@ Nr. XI-998, 2010-07-02, Žin., 2010, Nr. 84-4407 (2010-07-15)
 
 11 straipsnis. Nekilnojamųjų daiktų kadastro duomenis nustatantys asmenys, jų teisės ir pareigos
 
-1. Nekilnojamųjų daiktų kadastro duomenų nustatymo darbus Lietuvos Respublikos teritorijoje turi teisę atlikti Lietuvos Respublikos, kitų valstybių narių piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktų jiems suteiktomis judėjimo valstybėje narėje teisėmis, arba Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų padaliniai. Lietuvos Respublikos, kitų valstybių narių piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktų jiems suteiktomis judėjimo valstybėje narėje teisėmis, gali atlikti nekilnojamųjų daiktų duomenų nustatymo darbus turėdami jiems išduotus kvalifikacijos pažymėjimus arba kitus dokumentus, kurie suteikia teisę atlikti nekilnojamųjų daiktų kadastro duomenų nustatymo darbus. Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų padaliniai gali atlikti nekilnojamųjų daiktų kadastro duomenų nustatymo darbus, kai jų darbuotojas (fizinis asmuo) turi jam išduotą kvalifikacijos pažymėjimą ar kitą dokumentą, suteikiantį teisę atlikti nekilnojamųjų daiktų kadastro duomenų nustatymo darbus. Tuo atveju, jeigu valstybės narės pilietis, kitas fizinis asmuo, juridinių asmenų ar kitų organizacijų, ar jų padalinių darbuotojas turi kitos valstybės narės kompetentingos institucijos išduotą kvalifikacijos pažymėjimą arba kitą dokumentą, įrodantį, kad jis turi teisę atlikti nekilnojamųjų daiktų kadastro duomenų nustatymo darbus, reikalavimas tokį pažymėjimą gauti iš naujo netaikomas.
+1. Nekilnojamųjų daiktų kadastro duomenų nustatymo darbus Lietuvos Respublikos sausumos teritorijoje ir jūrinėje teritorijoje turi teisę atlikti Lietuvos Respublikos, kitų valstybių narių piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktų jiems suteiktomis judėjimo valstybėje narėje teisėmis, arba Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų padaliniai. Lietuvos Respublikos, kitų valstybių narių piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktų jiems suteiktomis judėjimo valstybėje narėje teisėmis, gali atlikti nekilnojamųjų daiktų duomenų nustatymo darbus turėdami jiems išduotus kvalifikacijos pažymėjimus arba kitus dokumentus, kurie suteikia teisę atlikti nekilnojamųjų daiktų kadastro duomenų nustatymo darbus. Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų padaliniai gali atlikti nekilnojamųjų daiktų kadastro duomenų nustatymo darbus, kai jų darbuotojas (fizinis asmuo) turi jam išduotą kvalifikacijos pažymėjimą ar kitą dokumentą, suteikiantį teisę atlikti nekilnojamųjų daiktų kadastro duomenų nustatymo darbus. Tuo atveju, jeigu valstybės narės pilietis, kitas fizinis asmuo, juridinių asmenų ar kitų organizacijų, ar jų padalinių darbuotojas turi kitos valstybės narės kompetentingos institucijos išduotą kvalifikacijos pažymėjimą arba kitą dokumentą, įrodantį, kad jis turi teisę atlikti nekilnojamųjų daiktų kadastro duomenų nustatymo darbus, reikalavimas tokį pažymėjimą gauti iš naujo netaikomas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 2. Neteko galios nuo 2012-01-01.
 
@@ -410,7 +428,7 @@ Nekilnojamojo turto kadastras reorganizuojamas ir likviduojamas įstatymu. Likvi
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -890,19 +908,31 @@ Trapinskienė (2001 02 22)
 
 autrap@lrs.lt
 
-1 straipsnis. Įstatymo paskirtis.
+1 straipsnis. Įstatymo paskirtis
 
-Šis Įstatymas reglamentuoja nekilnojamųjų daiktų, registruojamų Lietuvos Respublikos nekilnojamojo turto registre, kadastro duomenų nustatymą, jų įrašymą į nekilnojamojo turto kadastrą, nekilnojamojo turto kadastro statusą, šio kadastro steigimą, tvarkymą, reorganizavimą ir likvidavimą, matininkų ir matininkų ekspertų veiklos sąlygas, jų teises, pareigas ir atsakomybę.
+Šis Įstatymas reglamentuoja nekilnojamųjų daiktų, registruojamų Lietuvos Respublikos nekilnojamojo turto registre, kadastro duomenų nustatymą, jų įrašymą į Nekilnojamojo turto kadastrą, Nekilnojamojo turto kadastro statusą, šio kadastro steigimą, tvarkymą, reorganizavimą ir likvidavimą ir matininkų veiklos sąlygas, jų teises, pareigas ir atsakomybę.
 
 Straipsnio pakeitimai:
 
 Nr. X-1007, 2006-12-21, Žin., 2007, Nr. 4-159 (2007-01-11)
 
+Straipsnio pakeitimai:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
 17 straipsnis. Nekilnojamojo daikto pažymėjimas kadastro žemėlapyje
 
-1. Nekilnojamojo turto kadastro žemėlapis rengiamas ir tikslinamas naudojantis georeferencinių duomenų bazėmis, Nekilnojamojo turto registro duomenimis bei vadovaujantis žemės sklypo planu ir kitais nekilnojamojo daikto formavimo procese sudarytais dokumentais, kurie yra pateikti nekilnojamojo daikto kadastro duomenims įrašyti.
+1. Nekilnojamojo turto kadastro žemėlapis rengiamas ir tikslinamas naudojantis georeferencinių erdvinių duomenų rinkiniais, Nekilnojamojo turto registro duomenimis bei vadovaujantis žemės sklypo planu ir kitais nekilnojamojo daikto formavimo procese sudarytais dokumentais, kurie yra pateikti nekilnojamojo daikto kadastro duomenims įrašyti.
 
-2. Kadastro žemėlapis apima visą Lietuvos Respublikos teritoriją, jos išskirtinę ekonominę zoną ir kontinentinį šelfą Baltijos jūroje. Jį sudaro šie pagrindiniai grafiniai sluoksniai:
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
+2. Kadastro žemėlapis apima visą Lietuvos Respublikos sausumos teritoriją ir jūrinę teritoriją. Kadastro žemėlapį sudaro šie pagrindiniai grafiniai sluoksniai:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 1) georeferenciniai duomenys: vektorinė ar rastrinė kartografinė medžiaga; valstybinio ir vietinio geodezinio pagrindo taškų, susietų su valstybine koordinačių sistema, koordinatės ir kita šiuos taškus apibūdinanti atributinė informacija;
 
@@ -922,9 +952,13 @@ Nr. X-1007, 2006-12-21, Žin., 2007, Nr. 4-159 (2007-01-11)
 
 9) inžinerinių statinių (tiesinių) kontūrų ar ašinių linijų, jų pradžios, pabaigos ir posūkio taškų koordinačių valstybinėje koordinačių sistemoje ir unikalių numerių;
 
-10) nekilnojamojo daikto rinkos verčių, nustatytų masinio vertinimo būdu, zonų, pavadinimų, kodų.
+10) nekilnojamojo daikto rinkos verčių, nustatytų masinio vertinimo būdu, zonų, pavadinimų, kodų;
 
-TAR pastaba. 17 straipsnio 2 dalies nuostatos dėl sodininkų bendrijų pavadinimų ir kodų įrašymo į nekilnojamojo turto kadastrą taikomos ir nekilnojamojo turto kadastre įregistruotiems, ir naujai registruojamiems sodininkų bendrijoms priskirtose mėgėjų sodo teritorijose esantiems žemės sklypams.
+11) jūrinės teritorijos ribų, pavadinimo, unikalaus skaitmeninio kodo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 Straipsnio dalies pakeitimai:
 
@@ -934,11 +968,13 @@ Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
 
 4. Įrašydamas nekilnojamųjų daiktų kadastro duomenis į nekilnojamojo turto kadastrą, Kadastro tvarkytojas Kadastro nuostatų nustatyta tvarka pažymi šiuos daiktus nekilnojamojo turto kadastro žemėlapyje. Prieš pažymint nekilnojamojo turto kadastro žemėlapyje nekilnojamojo daikto ribas patikrinama, ar:
 
-1) nekilnojamojo daikto planai parengti taip, kad naudojantis valstybinės koordinačių sistemos duomenimis būtų galima nustatyti nekilnojamojo daikto vietą ir ribas Lietuvos teritorijoje, jos išskirtinėje ekonominėje zonoje ir kontinentiniame šelfe Baltijos jūroje;
+1) nekilnojamojo daikto planai parengti taip, kad naudojantis valstybinės koordinačių sistemos duomenimis būtų galima nustatyti nekilnojamojo daikto vietą ir ribas Lietuvos Respublikos sausumos teritorijoje ar jūrinėje teritorijoje;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 2) žemės sklypų ribos nekilnojamojo turto kadastro žemėlapyje nekerta gretimų ir jau pažymėtų nekilnojamojo turto kadastro žemėlapyje žemės sklypų ribų arba su jomis nesiriboja, išskyrus atvejus, kai šių žemės sklypų ribos Kadastro nuostatų nustatyta tvarka atliekant kadastrinius matavimus nustatytos tiksliau;
 
@@ -950,11 +986,15 @@ Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
 
 6. Leistinus nekilnojamojo turto kadastro duomenų neatitikimų dydžius ir nekilnojamojo turto kadastro žemėlapio tikslinimo dėl to, kad buvo naudota skirtingo tikslumo kartografinė medžiaga, tvarką nustato Kadastro nuostatai.
 
-7. Administracinių vienetų, gyvenamųjų vietovių, kadastro vietovių, kadastro blokų ir sodininkų bendrijoms priskirtų mėgėjų sodo teritorijų riboms pažymėti nekilnojamojo turto kadastro žemėlapyje reikalingų duomenų parengimo ir pateikimo Kadastro tvarkytojui tvarką nustato Kadastro nuostatai.
+7. Administracinių vienetų, gyvenamųjų vietovių, kadastro vietovių, kadastro blokų, sodininkų bendrijoms priskirtų mėgėjų sodo teritorijų ir jūrinės teritorijos riboms pažymėti Nekilnojamojo turto kadastro žemėlapyje reikalingų duomenų parengimo ir pateikimo Kadastro tvarkytojui tvarką nustato Kadastro nuostatai.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 Straipsnio pakeitimai:
 
@@ -962,29 +1002,83 @@ Nr. X-1007, 2006-12-21, Žin., 2007, Nr. 4-159 (2007-01-11)
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1. Kadastro vietovė – pagrindinis nekilnojamojo turto kadastro teritorinis vienetas, turintis nustatytas ribas, plotą, pavadinimą ir unikalų skaitmeninį kodą, skirtas nekilnojamųjų daiktų apskaitai ir žymėjimui. Kadastro vietovė skaidoma į kadastro blokus, kurie turi ribas ir unikalius skaitmeninius kodus. Kadastro vietovės nustatomos ir keičiamos Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nustatyta tvarka.
+1. Kadastro vietovė – pagrindinis Nekilnojamojo turto kadastro teritorinis vienetas Lietuvos Respublikos sausumos teritorijoje, turintis nustatytas ribas, plotą, pavadinimą ir unikalų skaitmeninį kodą, skirtas nekilnojamųjų daiktų apskaitai ir žymėjimui. Kadastro vietovė skaidoma į kadastro blokus, kurie turi ribas ir unikalius skaitmeninius kodus. Kadastro vietovės nustatomos ir keičiamos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-2. Matininkas – fizinis asmuo, turintis Vyriausybės įgaliotos institucijos išduotą matininko kvalifikacijos pažymėjimą, kuriuo suteikiama teisė nustatyti nekilnojamųjų daiktų kadastro duomenis.
+Straipsnio dalies pakeitimai:
 
-3. Nekilnojamojo daikto kadastriniai matavimai – veiksmai, kuriais nustatoma nekilnojamojo daikto tapatybė, žemės sklypo ribų posūkio taškų ir statinių fizinių ribų koordinatės, geometriniai matmenys ir techniniai nekilnojamųjų daiktų parametrai, apskaičiuojamas žemės sklypo ir jame esančių žemės naudmenų plotas ir kiti šį daiktą apibūdinantys kadastro duomenys.
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
-4. Nekilnojamojo daikto kadastro duomenys – duomenys, apibūdinantys nekilnojamojo daikto buvimo vietą, gamtines ir ūkines žemės savybes, geometrinius statinių parametrus ir nekilnojamųjų daiktų naudojimo sąlygas.
+2. Lietuvos Respublikos jūrinė teritorija (toliau – jūrinė teritorija) – nustatytą plotą ir unikalų skaitmeninį kodą turinti Baltijos jūros teritorijos dalis, apimanti Lietuvos Respublikos teritorinę jūrą, kontinentinį šelfą, išskirtinę ekonominę zoną.
 
-5. Nekilnojamojo daikto kadastro duomenų byla – nekilnojamojo daikto kadastro duomenų nustatymo metu parengtų planų, užpildytų kadastro formų ir kitų dokumentų apie nekilnojamąjį daiktą rinkinys.
+Papildyta straipsnio dalimi:
 
-6. Nekilnojamojo daikto kadastro duomenų nustatymas – nekilnojamojo daikto kadastriniai matavimai ar kiti teisės aktų nustatyti veiksmai, dokumentų, kurių reikia naujo nekilnojamojo daikto kadastro duomenims įrašyti į nekilnojamojo turto kadastrą ar jau įrašytiems duomenims pakeisti, ir nekilnojamojo daikto kadastro duomenų bylos parengimas ar jau sudarytos bylos papildymas.
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
-7. Nekilnojamojo daikto perdalijimas (amalgamacija) – nekilnojamojo daikto pertvarkymas, kai vieno nekilnojamojo daikto dalis atidalijama nesudarant atskiro nekilnojamojo daikto ir sujungiama su greta esančiu nekilnojamuoju daiktu.
+3. Matininkas – fizinis asmuo, turintis Vyriausybės įgaliotos institucijos išduotą matininko kvalifikacijos pažymėjimą, kuriuo suteikiama teisė nustatyti nekilnojamųjų daiktų kadastro duomenis.
 
-8. Nekilnojamojo turto kadastras – susistemintas ir metodiškai sutvarkytas nekilnojamųjų daiktų grafinių ir atributinių duomenų rinkinys (valstybinėje koordinačių sistemoje), saugomas kompiuterių laikmenose. Juo galima naudotis elektroniniu ar kitu būdu.
+Straipsnio dalies numeracijos pakeitimas:
 
-9. Nekilnojamojo turto kadastro žemėlapis – nekilnojamojo turto kadastro grafinė dalis, kurioje parodoma nekilnojamojo turto kadastre įrašytų nekilnojamųjų daiktų vieta ir ribos valstybinėje koordinačių sistemoje. Ši informacija pateikiama skaitmenimis, grafiniais elementais.
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
-10. Patalpa – nustatytos paskirties pastato dalis (butas, kontora ir pan.), atitvarinėmis konstrukcijomis atskirta nuo bendrojo naudojimo patalpų, kitų butų ar negyvenamųjų patalpų.
+4. Nekilnojamojo daikto kadastriniai matavimai – veiksmai, kuriais nustatoma nekilnojamojo daikto tapatybė, žemės sklypo ribų posūkio taškų ir statinių fizinių ribų koordinatės, geometriniai matmenys ir techniniai nekilnojamųjų daiktų parametrai, apskaičiuojamas žemės sklypo ir jame esančių žemės naudmenų plotas ir kiti šį daiktą apibūdinantys kadastro duomenys.
 
-11. Riboženklis – žemės sklypo ribas vietovėje žymintis ženklas, atitinkantis Vyriausybės įgaliotos institucijos nustatytą standartą ir teisiškai saugomas įstatymų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
 
-12. Žemės sklypo planas – pagal matavimus vietovėje Vyriausybės įgaliotos institucijos nustatyta tvarka parengtas brėžinys, kuriame pažymimos žemės sklypo ribos ir kadastro duomenys.
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
+5. Nekilnojamojo daikto kadastro duomenys – duomenys, apibūdinantys nekilnojamojo daikto buvimo vietą, gamtines ir ūkines žemės savybes, geometrinius statinių parametrus ir nekilnojamųjų daiktų naudojimo sąlygas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
+6. Nekilnojamojo daikto kadastro duomenų byla – nekilnojamojo daikto kadastro duomenų nustatymo metu parengtų planų, užpildytų kadastro formų ir kitų dokumentų apie nekilnojamąjį daiktą rinkinys.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
+7. Nekilnojamojo daikto kadastro duomenų nustatymas – nekilnojamojo daikto kadastriniai matavimai ar kiti teisės aktų nustatyti veiksmai, dokumentų, kurių reikia naujo nekilnojamojo daikto kadastro duomenims įrašyti į nekilnojamojo turto kadastrą ar jau įrašytiems duomenims pakeisti, ir nekilnojamojo daikto kadastro duomenų bylos parengimas ar jau sudarytos bylos papildymas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
+8. Nekilnojamojo daikto perdalijimas (amalgamacija) – nekilnojamojo daikto pertvarkymas, kai vieno nekilnojamojo daikto dalis atidalijama nesudarant atskiro nekilnojamojo daikto ir sujungiama su greta esančiu nekilnojamuoju daiktu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
+9. Nekilnojamojo turto kadastras – susistemintas ir metodiškai sutvarkytas nekilnojamųjų daiktų grafinių ir atributinių duomenų rinkinys (valstybinėje koordinačių sistemoje), saugomas kompiuterių laikmenose. Juo galima naudotis elektroniniu ar kitu būdu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
+10. Nekilnojamojo turto kadastro žemėlapis – Nekilnojamojo turto kadastro grafinė dalis, kurioje parodoma Nekilnojamojo turto kadastre įrašytų nekilnojamųjų daiktų, esančių Lietuvos Respublikos sausumos teritorijoje ir jūrinėje teritorijoje, vieta ir ribos valstybinėje koordinačių sistemoje. Ši informacija pateikiama skaitmenimis, grafiniais elementais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
+11. Patalpa – nustatytos paskirties pastato dalis (butas, kontora ir pan.), atitvarinėmis konstrukcijomis atskirta nuo bendrojo naudojimo patalpų, kitų butų ar negyvenamųjų patalpų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
+12. Riboženklis – žemės sklypo ribas vietovėje žymintis ženklas, atitinkantis Vyriausybės įgaliotos institucijos nustatytą standartą ir teisiškai saugomas įstatymų nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+
+13. Žemės sklypo planas – pagal matavimus vietovėje Vyriausybės įgaliotos institucijos nustatyta tvarka parengtas brėžinys, kuriame pažymimos žemės sklypo ribos ir kadastro duomenys.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 Straipsnio pakeitimai:
 
@@ -1056,7 +1150,11 @@ Nr. XII-421, 2013-06-27, Žin., 2013, Nr. 76-3838 (2013-07-16)
 
 9) nustatomos inžinerinių statinių kontūrų ir (arba) ašių koordinatės valstybinėje koordinačių sistemoje;
 
-10) nustatoma statinio paskirtis, pavadinimas, adresas (gyvenamosios vietovės pavadinimas, gatvės pavadinimas ir pastato numeris), statybos pradžios ir pabaigos, rekonstravimo metai;
+10) nustatoma statinio paskirtis, pavadinimas, adresas (gyvenamosios vietovės pavadinimas, gatvės pavadinimas ir pastato numeris, išskyrus jūrinėje teritorijoje esančio statinio duomenis), statybos pradžios ir pabaigos, rekonstravimo metai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 11) apskaičiuojami statinių ir patalpų plotai, tūriai ir kiti parametrai, kurių reikia nekilnojamojo daikto duomenims įrašyti į kadastrą;
 
@@ -1076,11 +1174,13 @@ Nr. XII-421, 2013-06-27, Žin., 2013, Nr. 76-3838 (2013-07-16)
 
 3) dokumentai, nurodyti šio Įstatymo 12 straipsnyje, kurių pagrindu nekilnojamojo turto kadastre yra įrašyti ar pakeisti nekilnojamojo daikto kadastro duomenys.
 
-5. Nekilnojamojo daikto planai turi būti parengti taip, kad naudojantis valstybinės koordinačių sistemos duomenimis būtų galima nustatyti nekilnojamojo daikto vietą Lietuvos Respublikos teritorijoje, jos išskirtinėje ekonominėje zonoje ir kontinentiniame šelfe Baltijos jūroje. Parengtas žemės sklypo planas turi būti suderintas Kadastro nuostatuose nustatyta tvarka.
+5. Nekilnojamojo daikto planai turi būti parengti taip, kad naudojantis valstybinės koordinačių sistemos duomenimis būtų galima nustatyti nekilnojamojo daikto vietą Lietuvos Respublikos sausumos teritorijoje ir jūrinėje teritorijoje. Parengtas žemės sklypo planas turi būti suderintas Kadastro nuostatuose nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+
+Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 6. Nekilnojamųjų daiktų kadastro duomenų nustatymo detalią tvarką ir reikalavimus, nekilnojamojo daikto planų bei kadastro duomenų formų turinį ir parengimo bei nekilnojamojo daikto kadastro duomenų bylos suformavimo tvarką nustato Kadastro nuostatai.
 
