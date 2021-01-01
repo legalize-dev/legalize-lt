@@ -4,7 +4,7 @@ identifier: "TAR.11A8B08A7405"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-01-18"
-last_updated: "2020-06-20"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2020-06-20 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
 
@@ -106,7 +106,11 @@ Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
 
 6) nuteistieji, palikti tardymo izoliatoriuose atlikti ūkio darbus Bausmių vykdymo kodekso 68 straipsnyje nustatyta tvarka;
 
-7) asmenys, nurodyti Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje.
+7) Neteko galios nuo 2021-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3242, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15879
 
 Straipsnio dalies pakeitimai:
 
@@ -186,7 +190,11 @@ Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
 
 6) asmenys, kuriems taikomos Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo nuostatos, – atskirai nuo kitų suimtųjų ir nuteistųjų;
 
-7) asmenys, nurodyti Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje, – atskirai nuo kitų suimtųjų ir nuteistųjų.
+7) Neteko galios nuo 2021-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3242, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15879
 
 2. Įtariamieji arba kaltinamieji, įtariami arba kaltinami toje pačioje byloje, arba proceso dalyviai toje pačioje byloje laikomi atskirai tik gavus ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinį nurodymą.
 
@@ -1053,4 +1061,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
 
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 17, 20, 22, 24, 26, 27, 28, 30, 32, 34, 36, 38, 39, 40 ir 42 straipsnių pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3242, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15879
+
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir 10 straipsnių pakeitimo įstatymas
 
