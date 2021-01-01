@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2020-07-04"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-07-04 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-05-25
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
 
@@ -546,7 +546,11 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 1. Prekių tiekimo bei įsigijimo iš kitos valstybės narės ir paslaugų teikimo atvejais, nenurodytais šio straipsnio 3, 4 ir 5 dalyse bei šio Įstatymo IV ir V skyriuose, taikomas standartinis PVM tarifas.
 
-2. Importuojamoms prekėms, nenurodytoms šio straipsnio 3 ir 4 dalyse bei šio Įstatymo V skyriuje, taikomas standartinis PVM tarifas.
+2. Importuojamoms prekėms, nenurodytoms šio straipsnio 3 ir 4 dalyse, šio straipsnio 5 dalies 2 ir 3 punktuose ir šio Įstatymo V skyriuje, taikomas standartinis PVM tarifas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
 
 3. Lengvatinis 9 procentų PVM tarifas taikomas:
 
@@ -562,47 +566,31 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 4. Lengvatinis 5 procentų PVM tarifas taikomas:
 
-1) vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams;
+1) vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams, išskyrus šio straipsnio 5 dalyje nustatytus atvejus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
 
 2) neįgaliųjų techninės pagalbos priemonėms ir jų remontui;
 
-3) laikraščiams, žurnalams ir kitiems periodiniams leidiniams, išskyrus erotinio ir (ar) smurtinio pobūdžio arba profesinės etikos nesilaikančius leidinius, kuriuos tokiais pripažino teisės aktų įgaliota institucija, bei spausdintą produkciją, kurioje mokama reklama sudaro daugiau kaip 4/5 viso leidinio ploto.
+3) spausdintiems ir (arba) elektroniniams laikraščiams, žurnalams ir kitiems periodiniams leidiniams (net jei jie skelbiami elektroniniais ryšiais), įskaitant viešosios informacijos skleidėjų redakcijų periodiškai atnaujinamus elektroninius informacinius dokumentus ir (arba) jų rinkinius, kurių turinys iš esmės būtų sudaromas analogiškai kaip spausdintų periodinių leidinių turinys (neatsižvelgiant į tai, ar yra leidžiamos šių elektroninių dokumentų ir (arba) jų rinkinių spausdintinės versijos, ar ne). Šio punkto nuostatos netaikomos techninėms, bibliografinėms ir panašaus pobūdžio duomenų bazėms, erotinio ir (ar) smurtinio pobūdžio arba profesinės etikos nesilaikantiems leidiniams, kuriuos tokiais pripažino teisės aktų įgaliota institucija, ir leidiniams, kuriuose mokama reklama sudaro daugiau kaip 4/5 viso leidinio arba kurių visą ar didžiąją dalį sudaro muzikos ar vaizdo turinys.
 
-5. 0 procentų PVM tarifas taikomas šio Įstatymo VI skyriuje nurodytais prekių tiekimo ir paslaugų teikimo bei prekių įsigijimo iš kitos valstybės narės atvejais.
+Straipsnio punkto pakeitimai:
 
-Straipsnio pakeitimai:
+Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
 
-Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
+5. 0 procentų PVM tarifas taikomas:
 
-Nr. X-225, 2005-05-26, Žin., 2005, Nr. 72-2590 (2005-06-09)
+1) šio Įstatymo VI skyriuje nurodytais prekių tiekimo ir paslaugų teikimo bei prekių įsigijimo iš kitos valstybės narės atvejais;
 
-Nr. X-487, 2006-01-12, Žin., 2006, Nr. 6-193 (2006-01-17)
+2) iki 2022 m. gruodžio 31 d. tiekiamoms vakcinoms nuo COVID-19 ligos (koronaviruso infekcijos);
 
-Nr. X-801, 2006-07-19, Žin., 2006, Nr. 82-3264 (2006-07-27)
+3) iki 2022 m. gruodžio 31 d. tiekiamoms in vitro diagnostikos medicinos priemonėms (prietaisams), skirtoms (skirtiems) COVID-19 ligos (koronaviruso infekcijos) diagnostikai.
 
-Nr. X-1083, 2007-04-12, Žin., 2007, Nr. 46-1717 (2007-04-26)
+Straipsnio dalies pakeitimai:
 
-Nr. X-1443, 2008-02-01, Žin., 2008, Nr. 18-632 (2008-02-12)
-
-Nr. XI-77, 2008-12-18, Žin., 2008, Nr. 149-6004 (2008-12-30)
-
-Nr. XI-114, 2008-12-23, Žin., 2008, Nr. 149-6034 (2008-12-30)
-
-Nr. XI-317, 2009-06-23, Žin., 2009, Nr. 77-3173 (2009-06-30)
-
-Nr. XI-397, 2009-07-23, Žin., 2009, Nr. 93-3988 (2009-08-04)
-
-Nr. XI-1002, 2010-07-02, Žin., 2010, Nr. 86-4541 (2010-07-20)
-
-Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
-
-Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
-
-Nr. XI-2188, 2012-06-29, Žin., 2012, Nr. 79-4090 (2012-07-05)
-
-Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
-
-Nr. XII-524, 2013-09-19, Žin., 2013, Nr. 101-4978 (2013-09-26)
+Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
 
 Straipsnio pakeitimai:
 
@@ -1038,7 +1026,11 @@ Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
 
 3. Importo PVM neapmokestinamos prekės, įvežamos kitų Šiaurės Atlanto Sutarties Organizacijos šalių kariuomenių vienetų šiems vienetams ar juos lydintiems civiliams darbuotojams naudoti, kai šie vienetai dalyvauja bendrose karinėse operacijose, pratybose ar kitame bendrame kariniame renginyje. Konkrečią šios dalies nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-4. Importo PVM neapmokestinamos prekės, atsiunčiamos nedidelės vertės nekomercinio pobūdžio siuntmenose (dokumentų siuntose, pašto siuntose ar pašto siuntiniuose). Siuntmena laikoma nedidelės vertės, jeigu bendra jos vertė neviršija 45 eurų. Siuntmena laikoma nekomercinio pobūdžio, jeigu tenkinamos visos šios sąlygos:
+4. Importo PVM neapmokestinamos prekės, fizinio asmens atsiunčiamos nedidelės vertės nekomercinio pobūdžio siuntmenose (dokumentų siuntose, pašto siuntose ar pašto siuntiniuose). Siuntmena laikoma nedidelės vertės, jeigu bendra jos vertė neviršija 45 eurų. Siuntmena laikoma nekomercinio pobūdžio, jeigu tenkinamos visos šios sąlygos:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3346, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23933
 
 1) siuntmenos gavėjas – fizinis asmuo;
 
@@ -1854,7 +1846,11 @@ Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
 
 6. Centrinis mokesčio administratorius turi teisę nustatyti ir kitus reikalavimus dėl PVM apskaičiavimui naudojamų apskaitos registrų, jų pildymo bei tvarkymo.
 
-7. Apmokestinamieji asmenys privalo užtikrinti, kad jų (ar jų vardu pirkėjų arba trečiosios šalies) išrašytos PVM sąskaitos faktūros, taip pat jų gautos PVM sąskaitos faktūros būtų saugomos šiame straipsnyje nustatyta tvarka. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros privalo būti saugomos 10 metų nuo jų išrašymo. Apmokestinamieji asmenys privalo saugoti dokumentus tokios formos (rašytinės ar elektroninės), kokios jie buvo išsiųsti ar pateikti, ir užtikrinti, kad per visą dokumentų saugojimo laikotarpį būtų išlaikytas PVM sąskaitų faktūrų kilmės autentiškumas ir turinio vientisumas, taip pat kad dokumentai išliktų įskaitomi, tačiau tais atvejais, kai tiekiamos prekės ar teikiamos paslaugos, nurodytos šio Įstatymo 14 straipsnio 6 dalyje, apmokestinamųjų asmenų išsiųstos rašytinės formos PVM sąskaitos faktūros gali būti saugomos tik elektronine forma. Jeigu PVM sąskaitos faktūros yra elektroninės formos, kartu naudojant elektronines priemones turi būti saugomi ir duomenys, užtikrinantys šių PVM sąskaitų faktūrų kilmės autentiškumą ir turinio vientisumą. Lietuvos Respublikos apmokestinamieji asmenys privalo šiuos dokumentus saugoti šalies teritorijoje, jeigu dokumentai nėra saugomi naudojant elektronines priemones. Jeigu Lietuvos Respublikos apmokestinamieji asmenys saugo dokumentus naudodami elektronines priemones ir užtikrina visišką prieigą prie juose esančių duomenų (t. y. galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti Mokesčių administravimo įstatymo nustatytais pagrindais), dokumentai gali būti saugomi ir ne šalies teritorijoje. Lietuvos Respublikos apmokestinamieji asmenys privalo informuoti vietos mokesčio administratorių apie dokumentų saugojimo vietą, jeigu dokumentai saugomi ne šalies teritorijoje. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros ir kiti su šiais dokumentais susiję duomenys bet kokiu atveju negali būti saugomi teritorijose, kuriose netaikoma Direktyva 2010/24/ES ir Reglamentas (ES) Nr. 904/2010 ar jiems iš esmės savo taikymo sritimi tolygūs savitarpio pagalbos taikymo dokumentai. Apmokestinamieji asmenys, kurie šalies teritorijoje saugo savo (ar jų vardu pirkėjų arba trečiosios šalies) išrašytas PVM sąskaitas faktūras, taip pat gautas PVM sąskaitas faktūras, naudodami elektronines priemones, kurios užtikrina visišką prieigą prie jose esančių duomenų, privalo sudaryti valstybių narių, kuriose šie apmokestinamieji asmenys yra įsikūrę arba kuriose tiekiamos prekės ar teikiamos paslaugos, kompetentingoms institucijoms galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti priežiūros tikslais.
+7. Apmokestinamieji asmenys privalo užtikrinti, kad jų (ar jų vardu pirkėjų arba trečiosios šalies) išrašytos PVM sąskaitos faktūros, taip pat jų gautos PVM sąskaitos faktūros būtų saugomos šiame straipsnyje nustatyta tvarka. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros privalo būti saugomos 10 metų nuo jų išrašymo. Apmokestinamieji asmenys privalo užtikrinti, kad per visą dokumentų saugojimo laikotarpį būtų išlaikytas PVM sąskaitų faktūrų kilmės autentiškumas ir turinio vientisumas, taip pat kad dokumentai išliktų įskaitomi. Jeigu PVM sąskaitos faktūros yra elektroninės formos ir (arba) saugomos elektronine forma, kartu naudojant elektronines priemones turi būti saugomi ir duomenys, užtikrinantys šių PVM sąskaitų faktūrų kilmės autentiškumą ir turinio vientisumą. Lietuvos Respublikos apmokestinamieji asmenys privalo šiuos dokumentus saugoti šalies teritorijoje, jeigu dokumentai nėra saugomi naudojant elektronines priemones. Jeigu Lietuvos Respublikos apmokestinamieji asmenys saugo dokumentus naudodami elektronines priemones ir užtikrina visišką prieigą prie juose esančių duomenų (t. y. galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti Mokesčių administravimo įstatymo nustatytais pagrindais), dokumentai gali būti saugomi ir ne šalies teritorijoje. Lietuvos Respublikos apmokestinamieji asmenys privalo informuoti vietos mokesčio administratorių apie dokumentų saugojimo vietą, jeigu dokumentai saugomi ne šalies teritorijoje. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros ir kiti su šiais dokumentais susiję duomenys bet kokiu atveju negali būti saugomi teritorijose, kuriose netaikoma Direktyva 2010/24/ES ir Reglamentas (ES) Nr. 904/2010 ar jiems iš esmės savo taikymo sritimi tolygūs savitarpio pagalbos taikymo dokumentai. Apmokestinamieji asmenys, kurie šalies teritorijoje saugo savo (ar jų vardu pirkėjų arba trečiosios šalies) išrašytas PVM sąskaitas faktūras, taip pat gautas PVM sąskaitas faktūras, naudodami elektronines priemones, kurios užtikrina visišką prieigą prie jose esančių duomenų, privalo sudaryti valstybių narių, kuriose šie apmokestinamieji asmenys yra įsikūrę arba kuriose tiekiamos prekės ar teikiamos paslaugos, kompetentingoms institucijoms galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti priežiūros tikslais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3346, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23933
 
 8. Juridiniai asmenys, kurie nėra apmokestinamieji asmenys, įsigyjantys prekes iš kitų valstybių narių, fiziniai asmenys, kurie nėra apmokestinamieji asmenys, įsigyjantys naujas transporto priemones iš kitų valstybių narių, taip pat juridiniai ir fiziniai asmenys, kurie nėra apmokestinamieji asmenys, į kitas valstybes nares tiekiantys naujas transporto priemones, privalo saugoti su tuo susijusias PVM sąskaitas-faktūras 10 metų nuo jų išrašymo.
 
@@ -3583,8 +3579,6 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 6. Jeigu beviltiškų skolų pripažinimo ar atitinkamai jų grąžinimo momentu prekių tiekėjas (paslaugų teikėjas) arba šių prekių (paslaugų) pirkėjas yra išregistruoti iš PVM mokėtojų, jie šio straipsnio nustatyta tvarka apskaičiuotas papildomai mokėtinas ar grąžintinas PVM sumas tikslina pateikdami patikslintą to mokestinio laikotarpio PVM deklaraciją, į kurią buvo įtraukti tikslinamieji duomenys.
 
 7. Šio straipsnio nuostatos netaikomos, jeigu prekių tiekėjas (paslaugų teikėjas) ir prekių (paslaugų) pirkėjas yra susiję asmenys arba jais tapo kalendoriniais metais, einančiais po tų kalendorinių metų, kuriais skola (įskaitant pardavimo PVM) buvo pripažinta beviltiška ir jai priskiriama pardavimo PVM suma buvo sumažinta mokėtina į biudžetą PVM suma.
-
-Pastaba. 891 straipsnio nuostatos taikomos pardavimo PVM sumoms, apskaičiuotoms ir deklaruotoms Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo nustatyta tvarka nuo 2012 m. sausio 1 d.
 
 Įstatymas papildytas straipsniu
 
