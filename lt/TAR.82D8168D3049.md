@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2020-01-17"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2020-01-17 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -130,7 +130,11 @@ Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
 
 3) dėl sveikatos būklės;
 
-4) kai sukanka pensinis amžius;
+4) Neteko galios nuo 2021-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3407, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24568
 
 5) išrinkus į kitas pareigas arba jų pačių sutikimu perkėlus į kitą darbą;
 
@@ -1963,6 +1967,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2516, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18824
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 12, 74 straipsnių ir 2 priedo pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3407, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24568
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 7 straipsnio pakeitimo įstatymas
 
 3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
