@@ -4,7 +4,7 @@ identifier: "TAR.D0429A864011"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-09"
-last_updated: "2010-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0429A864011"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos melioracijos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-01-02
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 71-1326, i. k. 0931010ISTA000I-323
 
@@ -72,9 +72,17 @@ III SKYRIUS
 
 Žemės savininkai ar kiti naudotojai turi teisę:
 
-1) nemokamai gauti informaciją iš valstybės ir savivaldybių institucijų apie melioracijos programų, finansuojamų valstybės lėšomis, įgyvendinimą, taip pat informaciją ir techninius dokumentus apie jų žemėje esančius melioracijos statinius;
+1) nemokamai gauti informaciją iš valstybės ir savivaldybių institucijų apie melioracijos priemonių, finansuojamų valstybės lėšomis, įgyvendinimą, taip pat informaciją ir techninius dokumentus apie jų žemėje esančius melioracijos statinius;
 
-2) dalyvauti valstybės ir savivaldybių institucijose svarstant melioracijos programas ir projektus, susijusius su jų interesais;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
+
+2) dalyvauti valstybės ir savivaldybių institucijose svarstant melioracijos priemones ir projektus, susijusius su jų interesais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
 
 3) reikalauti melioracijos statinių projekto ir jo ekspertizės, jei jų žemėje statomi nauji ar rekonstruojami valstybei nuosavybės teise priklausantys melioracijos statiniai;
 
@@ -110,7 +118,11 @@ MELIORACIJOS PROJEKTAVIMAS, STATYBA, EKSPERTIZĖ, MELIORUOTOS ŽEMĖS IR MELIORA
 
 7 straipsnis. Melioracijos organizavimas ir valdymas
 
-1. Žemės ūkio ministerija rengia melioracijos programas, nustato melioracijos prioritetus, koordinuoja melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą, melioruotos žemės ir melioracijos statinių apskaitos tvarkymą bei valstybei nuosavybės teise priklausančius melioracijos statinius patikėjimo teise valdančių institucijų veiklą šioje srityje, kartu su Aplinkos ministerija, kuriai pagal Statybos įstatymą pavesta rengti statybos techninius reglamentus, rengia melioracijos statinių projektavimo, statybos, statinio pripažinimo tinkamu naudoti normatyvinius dokumentus ir juos tvirtina, nustato melioracijos statinių techninių dokumentų pateikimo melioruotos žemės savininkams ar kitiems naudotojams tvarką.
+1. Žemės ūkio ministerija rengia Vyriausybės tvirtinamas nacionalines plėtros programas, kuriose planuojamos melioracijos priemonės, organizuoja, koordinuoja ir kontroliuoja  šių priemonių įgyvendinimą, nustato melioracijos prioritetus, koordinuoja melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą, melioruotos žemės ir melioracijos statinių apskaitos tvarkymą bei valstybei nuosavybės teise priklausančius melioracijos statinius patikėjimo teise valdančių institucijų veiklą šioje srityje, kartu su Aplinkos ministerija, kuriai pagal Statybos įstatymą pavesta rengti statybos techninius reglamentus, rengia melioracijos statinių projektavimo, statybos, statinio pripažinimo tinkamu naudoti normatyvinius dokumentus ir juos tvirtina, nustato melioracijos statinių techninių dokumentų pateikimo melioruotos žemės savininkams ar kitiems naudotojams tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
 
 2. Melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą atlieka valstybės įmonė Valstybinis žemėtvarkos institutas.
 
@@ -126,7 +138,11 @@ Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA
 
 1. Melioracijos statinio projektavimas, melioracijos statinio projekto ir melioracijos statinio ekspertizė, statyba, statybos techninė priežiūra, projekto vykdymo priežiūra, statinio pripažinimas tinkamu naudoti bei valstybinė priežiūra atliekama įstatymų nustatyta tvarka.
 
-2. Melioracijos statinių projektų, įrašytų į valstybės investicijų programą arba finansuojamų iš Europos Sąjungos struktūrinių ar kitų fondų, ekspertizė privaloma.
+2. Melioracijos statinių projektų, kuriais įgyvendinamos nacionalinių plėtros programų priemonės, ekspertizė privaloma.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
 
 3. Melioracijos statinių projektavimą, melioracijos statinių ir jų projektų ekspertizę (išskyrus avarinių gedimų šalinimo darbus), melioracijos statinių statybą turi teisę atlikti Lietuvos Respublikos ar Europos Sąjungos valstybės narės ar kitos Europos ekonominės erdvės valstybės (toliau – valstybė narė) pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktų jam suteiktomis judėjimo valstybėse narėse teisėmis, arba Lietuvos Respublikoje ar valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, taip pat jų filialai, turintys Žemės ūkio ministerijos išduotą arba pripažintą kvalifikacinį atestatą verstis konkrečia technine veikla. Kvalifikacinis atestatas verstis konkrečia technine veikla išduodamas arba pripažįstamas Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme nustatyta tvarka.
 
@@ -152,7 +168,7 @@ MELIORACIJOS FINANSAVIMAS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -203,6 +219,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA00XI-787
 
 Lietuvos Respublikos melioracijos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
+
+Lietuvos Respublikos melioracijos įstatymo Nr. I-323 4, 7 ir 8 straipsnių pakeitimo įstatymas
 
 11 straipsnis. Žemės savininkų pareigos
 
