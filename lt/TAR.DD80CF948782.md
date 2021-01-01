@@ -4,7 +4,7 @@ identifier: "TAR.DD80CF948782"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2020-05-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-10-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
 
@@ -239,7 +239,11 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 
 Nacionalinis visuomenės sveikatos centras:
 
-1) vykdo asmens sveikatos priežiūros, švietimo, stacionarių globos ir slaugos įstaigų, interneto kavinių ir klubų, keleivių vežimo traukiniais, laivais ir keltais vidaus maršrutais, policijos areštinių ir laisvės atėmimo vietų, juridinių asmenų, valstybės įmonių, savivaldybės įmonių, viešųjų įstaigų, taip pat užsienio valstybių juridinių asmenų ar kitų organizacijų filialų (toliau – įmonė), gaminančių kosmetikos gaminius, kirpyklų, kosmetikos, tatuiruočių kabinetų, grožio salonų, soliariumų, baseinų, skalbyklų, pirčių, saunų, sporto klubų teikiamų paslaugų, apgyvendinimo paslaugų, žmogaus palaikų laidojimo paslaugų (žmogaus palaikų laikymo, paruošimo šarvoti, šarvojimo) teikimo veiklos, balzamavimo ir kremavimo veiklos valstybinę visuomenės sveikatos saugos kontrolę;
+1) vykdo asmens sveikatos priežiūros, papildomosios ir alternatyviosios sveikatos priežiūros, švietimo, stacionarių socialinių paslaugų įstaigų, interneto kavinių ir klubų, keleivių vežimo traukiniais, laivais ir keltais vidaus maršrutais, policijos areštinių ir laisvės atėmimo vietų, juridinių asmenų, valstybės įmonių, savivaldybės įmonių, viešųjų įstaigų, taip pat užsienio valstybių juridinių asmenų ar kitų organizacijų filialų (toliau – įmonė), gaminančių kosmetikos gaminius, kirpyklų, kosmetikos, tatuiruočių kabinetų, grožio salonų, soliariumų, baseinų, skalbyklų, pirčių, saunų, sporto klubų teikiamų paslaugų, apgyvendinimo paslaugų, žmogaus palaikų laidojimo paslaugų (žmogaus palaikų laikymo, paruošimo šarvoti, šarvojimo) teikimo veiklos, balzamavimo ir kremavimo veiklos valstybinę visuomenės sveikatos saugos kontrolę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2773, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02008
 
 2) pagal asmenų prašymus, pranešimus, skundus vykdo visuomenės sveikatos saugos reglamentų (higienos normų), kurių kontrolė nėra pavesta kitiems viešojo administravimo subjektams, laikymosi kontrolę (valstybinę visuomenės sveikatos saugos kontrolę) pagal sveikatos apsaugos ministro nustatytą kontroliuojamų sričių sąrašą;
 
@@ -281,11 +285,19 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-2728, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26838
 
-14) atlieka kitas visuomenės sveikatos priežiūros viešojo administravimo funkcijas, kurias reglamentuoja šis ir kiti įstatymai bei teisės aktai.
+14) vykdo asmens sveikatos priežiūros įstaigų apsirūpinimo asmeninės apsaugos priemonių ir kitų veiklos vykdymui užtikrinti būtinų priemonių (toliau – apsaugos priemonės) atsargomis pagal Vyriausybės ar jos įgaliotos institucijos nustatytus apsaugos priemonių sąrašus, kiekį ir laikotarpį valstybinę visuomenės sveikatos saugos kontrolę;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3341, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24230
+
+15) atlieka kitas visuomenės sveikatos priežiūros viešojo administravimo funkcijas, kurias reglamentuoja šis ir kiti įstatymai bei teisės aktai.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-2728, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26838
+
+Nr. XIII-3341, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24230
 
 Straipsnio pakeitimai:
 
@@ -371,9 +383,19 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 
 3) kita asmens sveikatos priežiūros veikla, patvirtinta sveikatos apsaugos ministro;
 
+31) papildomosios ir alternatyviosios sveikatos priežiūros įstaigų veikla;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2773, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02008
+
 4) ugdymo veikla: ikimokyklinio ugdymo veikla, bendrojo lavinimo mokyklų ugdymo veikla, vaikų neformaliojo švietimo mokyklų ugdymo veikla, profesinių mokyklų ugdymo veikla, aukštųjų mokyklų ugdymo veikla;
 
-5) stacionarių suaugusiųjų globos ir slaugos įstaigų veikla, stacionarių vaikų ir jaunimo globos ir slaugos įstaigų veikla;
+5) stacionarių socialinių paslaugų įstaigų veikla;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2773, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02008
 
 6) apgyvendinimo paslaugų veikla (viešbučių, motelių, svečių namų, kurortų sanatorijų, kurortų reabilitacijos centrų, kempingų, turizmo centrų, poilsio namų, jaunimo nakvynės namų veikla);
 
@@ -955,6 +977,30 @@ Nr. XIII-2798, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02849
 
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 straipsnio pakeitimo įstatymas
 
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2773, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02008
+
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 ir 21 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3104, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15310
+
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 10, 18, 20 ir 36 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3341, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24230
+
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 straipsnio pakeitimo įstatymas
+
 5 straipsnis. Visuomenės sveikatos priežiūros įstaigų sistemos struktūra
 
 1. Visuomenės sveikatos priežiūros įstaigų sistemą sudaro:
@@ -999,7 +1045,11 @@ Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
 
 3) didinant visų vaikų imunitetą užkrečiamosioms ligoms, nuo kurių skiepijama.
 
-3. Vyriausybė tvirtina Vaikų sveikatos stiprinimo programą, numatančią vaikų aplinkos sveikatinimo priemones, sveikatos ugdymą, ligų ir traumų profilaktiką bei kontrolę.
+3. Neteko galios nuo 2021-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-3104, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15310
 
 Straipsnio pakeitimai:
 
@@ -1021,17 +1071,17 @@ Svarbiausi visuomenės sveikatos priežiūros principai, kuriais vadovaujantis a
 
 6) žalos visuomenės sveikatai atlyginimas Civilinio kodekso nustatyta tvarka.
 
-10 straipsnis. Valstybės ir savivaldybių visuomenės sveikatos priežiūros strateginis planavimas ir įgyvendinimas
+10 straipsnis. Valstybės ir savivaldybių visuomenės sveikatos priežiūros planavimas ir įgyvendinimas
 
-1. Nacionalinės visuomenės sveikatos priežiūros politikos tikslus ir uždavinius, gyventojų sveikatos lygio siekiamus rodiklius nustato Seimas, patvirtindamas Lietuvos sveikatos strategiją.
+1. Nacionalinės visuomenės sveikatos priežiūros politikos vystymosi kryptis nustato Seimas, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus.
 
-2. Lietuvos sveikatos strategijai įgyvendinti Vyriausybė tvirtina Nacionalinę visuomenės sveikatos priežiūros plėtros programą.
+2. Nacionalinės visuomenės sveikatos priežiūros politikos strateginius tikslus ir (ar) pažangos uždavinius, gyventojų sveikatos lygio siekiamus rodiklius nustato Vyriausybė, tvirtindama Nacionalinį pažangos planą.
 
-3. Valstybės institucijos pagal kompetenciją dalyvauja įgyvendinant Nacionalinę visuomenės sveikatos priežiūros  plėtros programą.
+3. Nacionalinės visuomenės sveikatos priežiūros politikos pažangos uždaviniams įgyvendinti Vyriausybė tvirtina nacionalines plėtros programas, kuriose suplanuojamos šiems uždaviniams įgyvendinti skirtos priemonės.
 
-4. Savivaldybių institucijos Nacionalinę visuomenės sveikatos priežiūros plėtros programą įgyvendina vykdydamos savivaldybės strateginį plėtros ir (ar) savivaldybės strateginį veiklos planus.
+4. Savivaldybių institucijos nacionalinės visuomenės sveikatos priežiūros politikos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų priemones įgyvendina vykdydamos savivaldybės strateginį plėtros ir (ar) savivaldybės strateginį veiklos planus.
 
-5. Lietuvos sveikatos strategijos, Nacionalinės visuomenės sveikatos priežiūros plėtros programos įgyvendinimą koordinuoja Vyriausybės įgaliota institucija. Nacionalinės visuomenės sveikatos priežiūros plėtros programos įgyvendinimo rezultatai skelbiami viešai.
+5. Nacionalinės visuomenės sveikatos priežiūros politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas rengia, jų įgyvendinimą organizuoja, koordinuoja ir kontroliuoja Sveikatos apsaugos ministerija. Nacionalinės visuomenės sveikatos priežiūros politikos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų įgyvendinimo rezultatai skelbiami viešai.
 
 Straipsnio pakeitimai:
 
@@ -1042,6 +1092,8 @@ Nr. XII-464, 2013-07-02, Žin., 2013, Nr. 79-3985 (2013-07-23)
 Straipsnio pakeitimai:
 
 Nr. XII-1958, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16899
+
+Nr. XIII-3104, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15310
 
 151 straipsnis. Visuomenės sveikatos priežiūrą reglamentuojančių teisės aktų
 
@@ -1085,13 +1137,21 @@ SVEIKATos APLINKa
 
 5) norint pradėti ar išplėsti ūkinę veiklą, galinčią kelti grėsmę (pavojų) žmogaus sveikatai, atliekamas poveikio visuomenės sveikatai vertinimas.
 
-2. Valstybės ir savivaldybių institucijos, priimdamos sprendimus, tvirtindamos programas, turi įgyvendinti šio straipsnio 1 dalyje numatytas priemones.
+2. Valstybės ir savivaldybių institucijos, priimdamos sprendimus, rengdamos ir (ar) tvirtindamos planavimo dokumentus, rengdamos nacionalines plėtros programas įgyvendinančias priemones ir jas įgyvendinančius projektus, turi įgyvendinti šio straipsnio 1 dalyje numatytas priemones.
 
-20 straipsnis. Nacionalinis aplinkos sveikatinimo veiksmų planas (programa)
+Straipsnio dalies pakeitimai:
 
-1. Vyriausybė tvirtina Nacionalinį aplinkos sveikatinimo veiksmų planą (programą), numatantį ligų ir traumų profilaktiką, kontrolę bei šio plano (programos) įgyvendinimo priemones.
+Nr. XIII-3104, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15310
 
-2. Sveikatos apsaugos ministerija ir visuomenės sveikatos priežiūros įstaigos pagal savo kompetenciją koordinuoja ir kartu su kitomis valstybės, savivaldybių institucijomis, ūkio subjektais įgyvendina Nacionalinį aplinkos sveikatinimo veiksmų planą (programą).
+20 straipsnis. Nacionalinis aplinkos sveikatinimo veiksmų planas
+
+1. Vyriausybė tvirtina Nacionalinį aplinkos sveikatinimo veiksmų planą, numatantį ligų ir traumų profilaktiką, kontrolę bei šio plano įgyvendinimo priemones.
+
+2. Sveikatos apsaugos ministerija ir visuomenės sveikatos priežiūros įstaigos pagal savo kompetenciją koordinuoja ir kartu su kitomis valstybės, savivaldybių institucijomis, ūkio subjektais įgyvendina Nacionalinį aplinkos sveikatinimo veiksmų planą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3104, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15310
 
 29 straipsnis. Nekenksmingumo vartotojų sveikatai užtikrinimas
 
