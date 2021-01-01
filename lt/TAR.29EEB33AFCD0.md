@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2020-06-15"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -1031,9 +1031,23 @@ Priežiūros institucija nustato priemones, kurios skatintų pranešti jai apie 
 
 9. Pagal šio straipsnio 2 dalį priežiūros institucija, nustatydama tinkamą individualaus centrinės kredito unijos kapitalo reikalavimo dydį arba tinkamus kapitalo rezervų dydžius, taip pat specialius likvidumo reikalavimus, atsižvelgia į kiekybinius ir kokybinius priežiūrinio tikrinimo ir vertinimo rezultatus, sisteminės rizikos įvertinimą, centrinės kredito unijos valdymo struktūrą, rizikos nustatymo, valdymo, vidaus kontrolės procesus.
 
-10. Priežiūros institucijos nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti centrinės kredito unijos organų ir centrinės kredito unijos komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti centrinės kredito unijos organų, komitetų ir centrinės kredito unijos vadovų veiklą.
+10. Priežiūros institucija nuomonę dėl indėlių draudžiamojo įvykio, kaip jis apibrėžtas Indėlių ir įsipareigojimų investuotojams draudimo įstatyme, patvirtinimo raštu pateikia ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti centrinė kredito unija dėl su savo finansine padėtimi tiesiogiai susijusių priežasčių negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir to negalės padaryti artimiausiu metu.
 
-11. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie centrinės kredito unijos skolininkus. Centrinė kredito unija priežiūros institucijai privalo teikti duomenis apie savo skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktų nustatyta tvarka.
+Papildyta straipsnio dalimi:
+
+Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+
+11. Priežiūros institucijos nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti centrinės kredito unijos organų ir centrinės kredito unijos komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti centrinės kredito unijos organų, komitetų ir centrinės kredito unijos vadovų veiklą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+
+12. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie centrinės kredito unijos skolininkus. Centrinė kredito unija priežiūros institucijai privalo teikti duomenis apie savo skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktų nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
 
 Straipsnio pakeitimai:
 
@@ -2034,6 +2048,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2960, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11333
 
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 8 ir 9 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 49 ir 55 straipsnių pakeitimo įstatymas
 
 71 straipsnis. Kreditorių reikalavimų tenkinimo eilė
 
