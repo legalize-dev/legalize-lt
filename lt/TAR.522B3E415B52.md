@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2020-12-29"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-12-29 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -2328,7 +2328,17 @@ Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
 
 19) tvirtina pavyzdinės apylinkių teismų, apygardų teismų ir apygardų administracinių teismų struktūros aprašymus, pavyzdinius pareigybių sąrašus ir aprašymus;
 
-20) svarsto ir aprobuoja pasiūlymus dėl teismų investicinių programų projektų ir pasiūlymus dėl teismų biudžetų projektų, pateikia juos Vyriausybei;
+20) svarsto ir aprobuoja pasiūlymus dėl teismų investicijų projektų ir pasiūlymus dėl teismų biudžetų projektų, pateikia juos Vyriausybei;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3133, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15378
+
+201) pagal kompetenciją teikia pasiūlymus Vyriausybei dėl strateginių tikslų ir pažangos uždavinių nustatymo Nacionaliniame pažangos plane ir dėl priemonių įtraukimo į nacionalines plėtros programas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3133, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15378
 
 21) išklauso Nacionalinės teismų administracijos veiklos ataskaitas;
 
@@ -2464,7 +2474,11 @@ NACIONALINĖ TEISMŲ ADMINISTRACIJA
 
 6) užtikrina teisėjų pensinį aprūpinimą;
 
-7) siekdama užtikrinti efektyvų ir racionalų valstybės lėšų valdymą ir naudojimą, organizuoja teismų vykdomų valstybės biudžeto programų projektų ir programų sąmatų projektų rengimą, įgyvendina teismų investicijų projektus (investicijų programas);
+7) siekdama užtikrinti efektyvų ir racionalų valstybės lėšų valdymą ir naudojimą, organizuoja teismų vykdomų valstybės biudžeto programų projektų ir programų sąmatų projektų rengimą, įgyvendina teismų investicijų projektus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3133, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15378
 
 8) kuria ir įgyvendina bendrosios teismų informacinės sistemos strategiją;
 
@@ -2528,11 +2542,19 @@ Nr. XII-295, 2013-05-14, Žin., 2013, Nr. 57-2839 (2013-06-01)
 
 2. Valstybės investicijų programoje numatytų investicijų, skirtų teismams, asignavimų valdytoja yra Nacionalinė teismų administracija.
 
-3. Nacionalinė teismų administracija, vadovaudamasi Teisėjų tarybos patvirtintu tvarkos aprašu, rengia teismų investicijų projektus, teikia juos Teisėjų tarybai derinti ir siūlo juos įtraukti į Valstybės investicijų programą.
+21. Nacionalinį pažangos planą įgyvendinančių nacionalinių plėtros programų priemonėms ir jų įgyvendinimo projektams, kuriuos vykdo teismai, skirtų asignavimų valdytoja yra Nacionalinė teismų administracija.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3133, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15378
+
+3. Nacionalinė teismų administracija, vadovaudamasi Teisėjų tarybos patvirtintu tvarkos aprašu, rengia teismų investicijų projektus ir teikia juos Teisėjų tarybai derinti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+
+Nr. XIII-3133, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15378
 
 4. Teismų investicijų projektus įgyvendina Nacionalinė teismų administracija.
 
@@ -3363,10 +3385,6 @@ Dalies numeracijos pakeitimas:
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 791 straipsnis. Aukščiausiojo Teismo pirmininko, skyriaus pirmininko skyrimo tvarka
-
-1. Kandidatūras į laisvas arba atsilaisvinsiančias Aukščiausiojo Teismo pirmininko, skyriaus pirmininko vietas atrenka šio Įstatymo 551 straipsnio 1 dalyje nurodyta Atrankos komisija pagal Teisėjų tarybos patvirtintus Teisėjų karjeros siekiančių asmenų atrankos nuostatus ir Teisėjų karjeros siekiančių asmenų vertinimo kriterijus.
-
-1 dalies redakcija nuo 2021-01-01:
 
 1. Kandidatūras į laisvas arba atsilaisvinsiančias Aukščiausiojo Teismo pirmininko, skyriaus pirmininko vietas atrenka Atrankos komisija pagal Teisėjų karjeros siekiančių asmenų vertinimo kriterijus šio Įstatymo 551 straipsnyje nustatyta tvarka. Kandidatų asmeninės būdo ir pažintinės savybės vertinamos šio Įstatymo 551 straipsnio 8 dalyje nustatyta tvarka.
 
