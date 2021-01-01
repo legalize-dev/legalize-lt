@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2020-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
 
@@ -282,11 +282,13 @@ Vartotojų teisių apsaugą Lietuvos Respublikoje užtikrina:
 
 1. Vyriausybė vartotojų teisių apsaugos srityje:
 
-1) tvirtina Valstybinę vartotojų apsaugos plėtros programą;
+1) tvirtina vartotojų teisių apsaugos užtikrinimo srities priemones nacionalinėse plėtros  programose;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+
+Nr. XIII-3126, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15370
 
 2) steigia Valstybinę vartotojų teisių apsaugos tarnybą ir tvirtina jos nuostatus;
 
@@ -301,6 +303,12 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 1) formuoja valstybės politiką vartotojų teisių apsaugos srityje;
 
 2) organizuoja, koordinuoja ir kontroliuoja valstybės politikos vartotojų teisių apsaugos srityje įgyvendinimą;
+
+21) rengia vartotojų teisių apsaugos užtikrinimo srities priemones ir (arba) koordinuoja jų rengimą, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3126, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15370
 
 3) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
@@ -506,14 +514,6 @@ Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
 
 13) kitas įstatymų ir kitų teisės aktų nustatytas teises.
 
-2. Šio įstatymo 31 straipsnio 1 dalyje nustatytas sąlygas atitinkančioms vartotojų asociacijoms, Vyriausybės nustatyta tvarka pateikusioms veiklos ataskaitą, teikiama valstybės finansinė parama pagal Vyriausybės patvirtintas taisykles.
-
-TAR pastaba. 2 dalis netenka galios 2021-01-01.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
-
 3. Savivaldybės turi teisę remti vartotojų asociacijas savivaldybės tarybos nustatyta tvarka.
 
 14 straipsnis. Prekių ir paslaugų kokybės ir saugos reikalavimai
@@ -562,7 +562,11 @@ VARTOTOJŲ ŠVIETIMAS
 
 1. Vartotojų švietimu laikomas procesas, kurio metu vartotojams sudaromos galimybės įgyti žinių ir gebėjimų, kurių reikės perkant ir naudojant prekes bei paslaugas asmeniniams, šeimos, namų ūkio poreikiams tenkinti, vartotojo teisėms įgyvendinti ir ginti.
 
-2. Vartotojų švietimo kryptys ir uždaviniai turi būti nustatyti Valstybinėje vartotojų teisių apsaugos strategijoje.
+2. Vartotojų švietimo priemonės numatomos nacionalinėse plėtros programose, kuriose suplanuojamos vartotojų teisių apsaugos užtikrinimo srities priemonės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3126, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15370
 
 18 straipsnis. Laidų vartotojų teisių apsaugos klausimais transliavimas
 
@@ -1685,8 +1689,6 @@ VARTOTOJŲ TEISIŲ GYNIMO ĮSTATYMO 1, 2, 4, 30 STRAIPSNIŲ PAKEITIMO IR PAPILDY
 3. Vartotojų asociacija išbraukiama iš įgaliotųjų vartotojų asociacijų sąrašo, jeigu nustatoma, kad ji neatitinka šio straipsnio 2 dalyje nustatytų sąlygų. Įgaliotųjų vartotojų asociacijų sąrašą sudaro ir tvarko Valstybinė vartotojų teisių apsaugos tarnyba teisingumo ministro nustatyta tvarka. Įgaliotųjų vartotojų asociacijų sąrašas skelbiamas viešai Valstybinės vartotojų teisių apsaugos tarnybos interneto svetainėje.
 
 4. Įgaliotųjų vartotojų asociacijų išlaidos, susijusios su šio straipsnio 1 dalyje nurodytų teisių įgyvendinimu, apmokamos ir įgaliotųjų vartotojų asociacijų įgyvendinami vartotojų apsaugos projektai atrenkami ir finansuojami teisingumo ministro nustatyta tvarka.
-
-TAR pastaba. 4 dalis įsigalioja 2021-01-01.
 
 Papildyta straipsniu:
 
