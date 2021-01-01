@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2020-11-21"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2020-11-21 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-02-28
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -1764,7 +1764,17 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 142 straipsnis. Užsieniečių registras
 
-1. Užsieniečių, kurių teisinė padėtis Lietuvos Respublikoje nustatoma pagal šį ir kitus Lietuvos Respublikos įstatymus, Europos Sąjungos teisės aktus ir tarptautines sutartis, duomenys yra registruojami Užsieniečių registre.
+1. Užsieniečių registro objektai yra asmenys, kurių duomenys tvarkomi Užsieniečių registre:
+
+1) užsieniečiai, kurių teisinė padėtis Lietuvos Respublikoje nustatoma pagal šį ir kitus Lietuvos Respublikos įstatymus, Europos Sąjungos teisės aktus ir tarptautines sutartis;
+
+2) e. rezidentai;
+
+3) kiti užsieniečiai, nenurodyti šios dalies 1 ir 2 punktuose, turintys ekonominių ir (arba) socialinių interesų, ir (arba) prievolių Lietuvos Respublikoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
 
 11. Užsieniečių registras yra valstybės registras.
 
@@ -2544,6 +2554,12 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 14. Leidimas laikinai gyventi Lietuvos Respublikoje (toliau – leidimas laikinai gyventi) – dokumentas, suteikiantis užsieniečiui teisę laikinai gyventi Lietuvos Respublikoje jame nurodytą laiką.
 
+141. Lietuvos Respublikos elektroninis rezidentas (toliau – e. rezidentas) – užsienietis, kuris siekia naudotis Lietuvos Respublikoje teikiamomis administracinėmis, viešosiomis ar komercinėmis elektroniniu (nuotoliniu) būdu teikiamomis paslaugomis ir kuriam šio Įstatymo nustatyta tvarka yra suteiktas e. rezidento statusas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
+
 15. Lietuvos Respublikos ilgalaikio gyventojo leidimas gyventi Europos Sąjungoje (toliau – leidimas nuolat gyventi) – dokumentas, suteikiantis užsieniečiui teisę gyventi Lietuvos Respublikoje ir patvirtinantis užsieniečio nuolatinio gyventojo statusą.
 
 151. Materialinės priėmimo sąlygos – būsto, maisto ir aprangos suteikimas prieglobsčio prašytojams Lietuvos Respublikoje ir (arba) socialinių išmokų skyrimas šioms reikmėms, taip pat piniginė pašalpa.
@@ -2741,6 +2757,12 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 32. Užsienietis – asmuo, kuris nėra Lietuvos Respublikos pilietis, neatsižvelgiant į tai, ar jis turi kurios nors užsienio valstybės pilietybę, ar neturi jokios.
 
 33. Viza – į užsieniečio kelionės dokumentą įklijuojamas įklijos formos leidimas, leidžiantis atvykti į Lietuvos Respubliką, būti joje ar vykti tranzitu.
+
+34. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB (OL 2014 L 257, p. 73).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
 
 Straipsnio pakeitimai:
 
@@ -3208,11 +3230,13 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
-1. Šis Įstatymas nustato užsieniečių atvykimo ir išvykimo, buvimo ir gyvenimo, prieglobsčio ir laikinosios apsaugos Lietuvos Respublikoje suteikimo, integracijos ir sprendimų dėl užsieniečių teisinės padėties apskundimo tvarką ir reglamentuoja kitus užsieniečių teisinės padėties Lietuvos Respublikoje klausimus.
+1. Šis Įstatymas nustato užsieniečių atvykimo ir išvykimo, buvimo ir gyvenimo, prieglobsčio ir laikinosios apsaugos Lietuvos Respublikoje suteikimo, integracijos ir sprendimų dėl užsieniečių teisinės padėties apskundimo tvarką ir kitus užsieniečių teisinės padėties Lietuvos Respublikoje klausimus, taip pat reglamentuoja Lietuvos Respublikos elektroninio rezidento statuso suteikimo ir panaikinimo sąlygas ir tvarką.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
+
+Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
 
 2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, nuostatomis.
 
@@ -3220,11 +3244,13 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 3. Šis Įstatymas netaikomas užsieniečiams, kurie naudojasi privilegijomis ir imunitetais pagal Lietuvos Respublikos tarptautines sutartis ir kitus teisės aktus.
 
-4. Kitų Lietuvos Respublikos įstatymų nuostatos šio Įstatymo reglamentuojamiems teisiniams santykiams taikomos tiek, kiek jų nereglamentuoja šis Įstatymas, išskyrus šio straipsnio 5 ir 6 dalyse nurodytas išimtis.
+4. Kitų Lietuvos Respublikos įstatymų nuostatos šio Įstatymo reglamentuojamiems teisiniams santykiams taikomos tiek, kiek jų nereglamentuoja šis Įstatymas, išskyrus šio straipsnio 5, 6 ir 7 dalyse nurodytas išimtis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
+
+Nr. XIII-3162, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15493
 
 5. Šio Įstatymo normos, reglamentuojančios leidimus dirbti ir leidimus gyventi Lietuvos Respublikoje, santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projekto įgyvendinimu, taikomos tiek, kiek jų nereglamentuoja Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas.
 
@@ -3233,6 +3259,12 @@ Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
+
+7. Šio Įstatymo normos, reglamentuojančios leidimus dirbti ir leidimus gyventi Lietuvos Respublikoje, teisiniams santykiams, susijusiems su stambaus projekto investicijų sutarties įgyvendinimu, taikomos tiek, kiek jų nereglamentuoja Lietuvos Respublikos investicijų įstatymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3162, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15493
 
 Straipsnio pakeitimai:
 
@@ -5662,9 +5694,9 @@ Straipsnio pakeitimai:
 
 Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
-XI SKYRIUS
+X1 SKYRIUS
 
-BAIGIAMOSIOS NUOSTATOS
+E. REZIDENTAS
 
 221 straipsnis. Teisė likti Lietuvos Respublikos teritorijoje
 
@@ -5963,4 +5995,64 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 Papildyta straipsniu:
 
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+
+1402 straipsnis. Prašymo dėl e. rezidento statuso suteikimo pateikimas ir nagrinėjimas
+
+1. Užsieniečio prašymas dėl e. rezidento statuso suteikimo teikiamas Migracijos departamentui. Užsienietis, esantis užsienyje, pašymą pateikia per pasirinktą išorės paslaugų teikėją, o užsienietis, esantis teisėtai Lietuvos Respublikoje, – asmeniškai Migracijos departamentui.
+
+2. Užsienietis, kuris siekia įgyti e. rezidento statusą, privalo pateikti savo biometrinius duomenis tapatybei patvirtinti (veido atvaizdą ir dviejų pirštų atspaudus), išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus, vidaus reikalų ministro nustatyta tvarka.
+
+1403 straipsnis. E. rezidento statuso nesuteikimo pagrindai
+
+E. rezidento statusas užsieniečiui nesuteikiamas, jeigu:
+
+1) dėl jo kita Šengeno valstybė į centrinę antrosios kartos Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo;
+
+2) jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą.
+
+1404 straipsnis. E. rezidento statuso užsieniečiui suteikimas
+
+1. E. rezidento statusas užsieniečiui suteikiamas jį įregistravus Užsieniečių registre.
+
+2. Užsieniečiui, kuriam suteiktas e. rezidento statusas, išduodama elektroninės atpažinties ir elektroninio parašo priemonė su joje įrašytais e. rezidento atpažinimo elektroninėje erdvėje sertifikatu ir e. rezidento kvalifikuotu elektroninio parašo sertifikatu.
+
+3. Užsieniečiui išduodama elektroninės atpažinties ir elektroninio parašo priemonė suteikia galimybę jam naudotis Lietuvos Respublikoje teikiamomis administracinėmis, viešosiomis ar komercinėmis elektroniniu (nuotoliniu) būdu teikiamomis paslaugomis.
+
+4. Elektroninės atpažinties ir elektroninio parašo priemonę parengia vidaus reikalų ministro įgaliota institucija, ją užsieniečiui išduoda šio Įstatymo 1402 straipsnio 1 dalyje nurodyti subjektai.
+
+5. Elektroninės atpažinties ir elektroninio parašo priemonės formą nustato vidaus reikalų ministras.
+
+1405 straipsnis. E. rezidento statuso panaikinimas
+
+1. Užsieniečiui suteiktas e. rezidento statusas panaikinamas, jeigu:
+
+1) užsienietis pateikia prašymą panaikinti e. rezidento statusą;
+
+2) gaunama duomenų apie užsieniečio mirtį;
+
+3) paaiškėja, kad yra šio Įstatymo 1403 straipsnyje nustatyti pagrindai;
+
+4) statusas įgytas apgaulės būdu, pateikus tikrovės neatitinkančius duomenis, suklastotus arba neteisėtai įgytus dokumentus;
+
+5) įsiteisėjusiu Lietuvos Respublikos teismo nuosprendžiu užsienietis pripažintas kaltu už sunkų ar labai sunkų nusikaltimą;
+
+6) paaiškėja, kad jis yra pripažintas kaltu už nusikaltimą taikai, nusikaltimą žmoniškumui ar karo nusikaltimą, kaip jie apibrėžiami Lietuvos Respublikos įstatymuose, tarptautinėse sutartyse arba kituose tarptautinės teisės šaltiniuose, arba kurstė ar kitaip dalyvavo darant tokius nusikaltimus;
+
+7) yra rimtas pagrindas manyti, kad užsienietis yra susijęs su neteisėtomis finansinėmis operacijomis, korupcinio pobūdžio nusikalstama veika ar pinigų plovimo požymius atitinkančia nusikalstama veika, kaip tai apibrėžta Lietuvos Respublikos įstatymuose, tarptautinėse sutartyse arba kituose tarptautinės teisės šaltiniuose;
+
+8) užsienietis turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai užsieniečiui mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), nevykdo įsipareigojimų muitinei arba yra nesumokėjęs Lietuvos Respublikos įstatymų nustatyta tvarka skirtos baudos (baudų), kurios (kurių) dydis (suma) didesnis (didesnė) negu vienas bazinės socialinės išmokos dydis (išskyrus atvejus, kai baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl baudų vyksta ginčas).
+
+2. E. rezidento statusas panaikinamas užsienietį išregistravus iš Užsieniečių registro. Sprendimą dėl e. rezidento statuso panaikinimo priima Migracijos departamentas.
+
+1406 straipsnis. E. rezidento statuso suteikimo, panaikinimo, elektroninės atpažinties ir elektroninio parašo priemonės išdavimo, išorės paslaugų teikėjo pasirinkimo tvarka
+
+Tvarką, reglamentuojančią užsieniečio prašymo dėl e. rezidento statuso suteikimo pateikimą, nagrinėjimą, e. rezidento statuso suteikimą ir panaikinimą, elektroninės atpažinties ir elektroninio parašo priemonės išdavimą ir keitimą, išorės paslaugų teikėjo pasirinkimą, nustato vidaus reikalų ministras, suderinęs su užsienio reikalų ministru.
+
+Papildyta skyriumi:
+
+Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
+
+XI SKYRIUS
+
+BAIGIAMOSIOS NUOSTATOS
 
