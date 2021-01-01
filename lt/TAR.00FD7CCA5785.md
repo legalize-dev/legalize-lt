@@ -4,7 +4,7 @@ identifier: "TAR.00FD7CCA5785"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-02"
-last_updated: "2020-12-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.00FD7CCA5785"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Ignalinos atominės elektrinės eksploatavimo nutraukimo įstatymas
 
-Suvestinė redakcija nuo 2020-12-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1189, i. k. 1001010ISTAIII-1661
 
@@ -36,13 +36,13 @@ Vilnius
 
 2 straipsnis. Ignalinos atominės elektrinės eksploatavimo nutraukimo planavimas
 
-1. Ignalinos atominės elektrinės eksploatavimo nutraukimas planuojamas pagal Ignalinos atominės elektrinės eksploatavimo nutraukimo tarpinstitucinį veiklos planą ir galutinį Ignalinos atominės elektrinės eksploatavimo nutraukimo planą.
+1. Ignalinos atominės elektrinės eksploatavimo nutraukimas planuojamas pagal nacionalinę plėtros programą, kurioje nustatomos Ignalinos atominės elektrinės eksploatavimo nutraukimo priemonės, ir galutinį Ignalinos atominės elektrinės eksploatavimo nutraukimo planą.
 
-2. Ignalinos atominės elektrinės eksploatavimo nutraukimo tarpinstitucinis veiklos planas rengiamas 3 metų laikotarpiui. Šio plano projektą rengia Lietuvos Respublikos energetikos ministerija (toliau – Energetikos ministerija) ir teikia tvirtinti Lietuvos Respublikos Vyriausybei (toliau – Vyriausybė). Šis planas atnaujinamas prireikus, atsižvelgiant į jo įgyvendinimą ir Ignalinos atominės elektrinės eksploatavimo nutraukimo eigą.
+2. Vadovaudamasi Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtintais branduolinės energetikos objektų eksploatavimo nutraukimo saugos reikalavimais ir taisyklėmis, Ignalinos atominę elektrinę eksploatuojanti organizacija rengia galutinio Ignalinos atominės elektrinės eksploatavimo nutraukimo plano projektą ir jį, suderinusi su Energetikos ministerija, Lietuvos Respublikos aplinkos ministerija, Lietuvos Respublikos socialinės apsaugos ir darbo ministerija, Lietuvos Respublikos sveikatos apsaugos ministerija ir Valstybine atominės energetikos saugos inspekcija, teikia tvirtinti Energetikos ministerijai.
 
-3. Ignalinos atominės elektrinės eksploatavimo nutraukimo tarpinstituciniame veiklos plane turi būti numatytos teisinės, organizacinės ir techninės Ignalinos atominės elektrinės eksploatavimo nutraukimo, radioaktyviųjų medžiagų bei radioaktyviųjų atliekų tvarkymo ir vėlesnės priežiūros priemonės, atsakingi priemonių vykdytojai ir finansavimo šaltiniai. Šis planas taip pat turi apimti priemones Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo nuostatoms įgyvendinti ir priemones neigiamiems socialiniams ir ekonominiams padariniams Ignalinos atominės elektrinės regione, nutraukus Ignalinos atominės elektrinės eksploatavimą, sušvelninti.
+Straipsnio pakeitimai:
 
-4. Vadovaudamasi Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtintais branduolinės energetikos objektų eksploatavimo nutraukimo saugos reikalavimais ir taisyklėmis, Ignalinos atominę elektrinę eksploatuojanti organizacija rengia galutinio Ignalinos atominės elektrinės eksploatavimo nutraukimo plano projektą ir jį, suderinusi su Energetikos ministerija, Lietuvos Respublikos aplinkos ministerija, Lietuvos Respublikos socialinės apsaugos ir darbo ministerija, Lietuvos Respublikos sveikatos apsaugos ministerija ir Valstybine atominės energetikos saugos inspekcija, teikia tvirtinti Energetikos ministerijai.
+Nr. XIII-3112, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15322
 
 3 straipsnis. Ignalinos atominės elektrinės eksploatavimo nutraukimo vykdymas
 
@@ -103,6 +103,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3432, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24608
 
 Lietuvos Respublikos Ignalinos atominės elektrinės eksploatavimo nutraukimo įstatymo Nr. VIII-1661 4 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3112, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15322
+
+Lietuvos Respublikos Ignalinos atominės elektrinės eksploatavimo nutraukimo įstatymo Nr. VIII-1661 papildymo 1-1 straipsniu ir 2 straipsnio pakeitimo įstatymas
 
 5 straipsnis. Eksploatavimo nutraukimo programos finansavimas
 
@@ -167,4 +175,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-202, 2005-05-17, Žin., 2005, Nr. 71-2553 (2005-06-07), i. k. 1051010ISTA000X-202
 
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo 4 ir 10 straipsnių pakeitimo įstatymas
+
+11 straipsnis. Įstatymo sąvokos
+
+Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme ir Lietuvos Respublikos strateginio valdymo įstatyme.
+
+Papildyta straipsniu:
+
+Nr. XIII-3112, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15322
 
