@@ -4,7 +4,7 @@ identifier: "TAR.F628061443C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-02"
-last_updated: "2019-05-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F628061443C6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 46 straipsnis įsigalioja 2010-12-09.
 
 LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-01-27
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
 
@@ -87,7 +87,11 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 17. Teisė atkurti Lietuvos Respublikos pilietybę – iki 1940 m. birželio 15 d. turėjusio Lietuvos Respublikos pilietybę asmens ir jo palikuonių teisė atkurti Lietuvos Respublikos pilietybę šio įstatymo nustatyta tvarka.
 
-18. Teisėtas nuolatinis gyvenimas Lietuvos Respublikoje – kitos valstybės piliečio ar asmens be pilietybės, turinčių įstatymų nustatytą dokumentą, suteikiantį ar patvirtinantį teisę gyventi Lietuvos Respublikoje, gyvenimas Lietuvos Respublikoje be pertraukos šiame įstatyme nustatytą laiką. Laikoma, kad asmuo gyvena Lietuvos Respublikoje be pertraukos vienus metus, jeigu jis per tuos metus yra gyvenęs Lietuvos Respublikoje ne mažiau kaip šešis mėnesius.
+18. Teisėtas nuolatinis gyvenimas Lietuvos Respublikoje – kitos valstybės piliečio ar asmens be pilietybės, turinčių įstatymų nustatytą dokumentą, suteikiantį ar patvirtinantį teisę gyventi Lietuvos Respublikoje, gyvenimas Lietuvos Respublikoje be pertraukos šiame įstatyme nustatytą laiką. Laikoma, kad asmuo gyvena Lietuvos Respublikoje be pertraukos vienus metus, jeigu jis per tuos metus yra gyvenęs Lietuvos Respublikoje ne mažiau kaip šešis mėnesius. Asmens pragyventą laikotarpį Lietuvos Respublikoje nutraukia teismo paskirtos laisvės atėmimo bausmės atlikimo laikas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 3 straipsnis. Lietuvos Respublikos pilietybės principai
 
@@ -191,11 +195,17 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
-10) Lietuvos Respublikos pilietybę įgijo turėdamas pabėgėlio statusą Lietuvos Respublikoje.
+10) Lietuvos Respublikos pilietybę įgijo turėdamas pabėgėlio statusą Lietuvos Respublikoje;
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
+
+11) yra asmuo, kuris gimdamas įgijo Lietuvos Respublikos pilietybę, o kitos valstybės pilietybę, iki jam sukako 18 metų, įgijo ne gimdamas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 8 straipsnis. Lietuvos Respublikos piliečio, kartu turinčio ir kitos valstybės pilietybę, statusas
 
@@ -223,7 +233,37 @@ Lietuvos Respublikos pilietybę patvirtinantys dokumentai yra Lietuvos Respublik
 
 12 straipsnis. Teisę atkurti Lietuvos Respublikos pilietybę ir lietuvių kilmę patvirtinantys dokumentai
 
-Asmenims, turintiems teisę atkurti Lietuvos Respublikos pilietybę, jų prašymu Lietuvos Respublikos Vyriausybės nustatyta tvarka išduodami šią teisę patvirtinantys dokumentai. Lietuvių kilmės asmenims jų prašymu Lietuvos Respublikos Vyriausybės nustatyta tvarka išduodami jų lietuvių kilmę patvirtinantys dokumentai.
+1. Asmenų, turinčių teisę atkurti Lietuvos Respublikos pilietybę, prašymu Lietuvos Respublikos Vyriausybės įgaliota institucija išduoda šią teisę patvirtinančius dokumentus Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+2. Lietuvių kilmės asmenų prašymu Lietuvos Respublikos Vyriausybės įgaliota institucija išduoda lietuvių kilmę patvirtinančius dokumentus Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+3. Lietuvos Respublikos Vyriausybės įgaliota institucija priima sprendimą nutraukti prašymo išduoti teisę atkurti Lietuvos Respublikos pilietybę ar lietuvių kilmę patvirtinantį dokumentą nagrinėjimą, jeigu:
+
+1) asmuo mirė;
+
+2) asmuo raštu pareiškė norą nutraukti prašymo išduoti teisę atkurti Lietuvos Respublikos pilietybę ar lietuvių kilmę patvirtinantį dokumentą nagrinėjimą;
+
+3) nustato, kad asmuo yra Lietuvos Respublikos pilietis;
+
+4) asmuo per vienus metus nuo Lietuvos Respublikos Vyriausybės įgaliotos institucijos prašymo pateikti papildomus dokumentus, patvirtinančius šiame įstatyme nurodytas aplinkybes, ir (ar) patikslinti duomenis išsiuntimo dienos nepateikia prašomos informacijos ar dokumentų.
+
+4. Teisę atkurti Lietuvos Respublikos pilietybę ar lietuvių kilmę patvirtinantis dokumentas pripažįstamas negaliojančiu, jeigu:
+
+1) asmuo mirė;
+
+2) jis prarastas;
+
+3) jis neteisėtai išduotas;
+
+4) jis pakeistas;
+
+5) asmuo atkuria ar įgyja Lietuvos Respublikos pilietybę;
+
+6) asmuo neatsiima šio dokumento per vienus metus nuo jo išrašymo dienos.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 III SKYRIUS
 
@@ -255,15 +295,23 @@ Lietuvos Respublikos pilietybė įgyjama:
 
 15 straipsnis. Lietuvos Respublikos pilietybės įgijimas gimstant, kai vaiko tėvai arba vienas iš jų yra asmenys be pilietybės
 
-1. Asmenų be pilietybės, teisėtai nuolat gyvenančių Lietuvos Respublikoje, vaikas yra Lietuvos Respublikos pilietis, nesvarbu, ar jis gimė Lietuvos Respublikos teritorijoje, ar už jos ribų, jeigu jis gimdamas neįgijo kitos valstybės pilietybės.
+1. Asmenų be pilietybės, teisėtai gyvenančių Lietuvos Respublikoje, vaikas yra Lietuvos Respublikos pilietis, nesvarbu, ar jis gimė Lietuvos Respublikos teritorijoje, ar už jos ribų, jeigu jis gimdamas neįgijo kitos valstybės pilietybės.
 
-2. Vaikas, kurio vienas iš tėvų yra asmuo be pilietybės, teisėtai nuolat gyvenantis Lietuvos Respublikoje, o kitas nežinomas, yra Lietuvos Respublikos pilietis, nesvarbu, ar jis gimė Lietuvos Respublikos teritorijoje, ar už jos ribų, jeigu jis gimdamas neįgijo kitos valstybės pilietybės.
+2. Vaikas, kurio vienas iš tėvų yra asmuo be pilietybės, teisėtai gyvenantis Lietuvos Respublikoje, o kitas nežinomas, yra Lietuvos Respublikos pilietis, nesvarbu, ar jis gimė Lietuvos Respublikos teritorijoje, ar už jos ribų, jeigu jis gimdamas neįgijo kitos valstybės pilietybės.
 
 3. Šiame straipsnyje nurodytų vaikų, jeigu jie gimdami neįgijo kitos valstybės pilietybės, Lietuvos Respublikos pilietybė įrašoma į vaiko gimimo faktą patvirtinantį dokumentą registruojant vaiko gimimą.
 
+Straipsnio pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
+
 16 straipsnis. Vaiko, kurio tėvai nežinomi, pilietybė
 
-Lietuvos Respublikos teritorijoje rastas ar gyvenantis vaikas, kurio abu tėvai nežinomi, laikomas gimusiu Lietuvos Respublikos teritorijoje ir įgyja Lietuvos Respublikos pilietybę, jeigu nepaaiškėja, kad vaikas yra įgijęs kitos valstybės pilietybę arba aplinkybių, dėl kurių vaikas įgytų kitos valstybės pilietybę. Ši nuostata taikoma ir vaikui, kurio abu tėvai ar turėtas vienintelis iš tėvų yra mirę arba pripažinti nežinia kur esančiais arba kurio abu tėvai ar turimas vienintelis iš tėvų nustatyta tvarka pripažinti neveiksniais, arba kurio tėvams ar turimam vieninteliam iš tėvų neterminuotai apribota tėvų (tėvo ar motinos) valdžia ir vaikui nustatyta nuolatinė globa (rūpyba).
+Lietuvos Respublikos teritorijoje rastas ar gyvenantis vaikas, kurio abu tėvai nežinomi, laikomas gimusiu Lietuvos Respublikos teritorijoje ir įgyja Lietuvos Respublikos pilietybę, jeigu nepaaiškėja, kad vaikas yra įgijęs kitos valstybės pilietybę, arba nepaaiškėja aplinkybių, dėl kurių vaikas įgytų kitos valstybės pilietybę. Ši nuostata taikoma ir vaikui, kurio abu tėvai ar turėtas vienintelis iš tėvų yra mirę arba pripažinti nežinia kur esančiais arba kurio abu tėvai ar turimas vienintelis iš tėvų teismo pripažinti neveiksniais tam tikroje srityje, arba kurio tėvams ar turimam vieninteliam iš tėvų neterminuotai apribota tėvų (tėvo ar motinos) valdžia ir vaikui nustatyta nuolatinė globa (rūpyba).
+
+Straipsnio pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 17 straipsnis. Įvaikinto vaiko pilietybė
 
@@ -301,11 +349,13 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
 
-4. Asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, ir asmenims, kuriems sukako senatvės pensijos amžius ir kuriems teisės aktų nustatyta tvarka yra nustatytas didelių ir vidutinių specialiųjų poreikių lygis, taip pat asmenims, turintiems sunkių lėtinių psichikos ir elgesio sutrikimų, šio straipsnio 1 dalies 3 ir 4 punktų nuostatos netaikomos.
+4. Asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, ir asmenims, kuriems sukako senatvės pensijos amžius ir kuriems teisės aktų nustatyta tvarka yra nustatytas didelių ir vidutinių specialiųjų poreikių lygis, taip pat asmenims, turintiems sunkių lėtinių psichikos ir elgesio sutrikimų, netaikomos šio straipsnio 1 dalies 3 ir 4 punktų nuostatos, o vaikams iki 18 metų netaikomos šio straipsnio 1 dalies 3, 4 ir 5 punktų nuostatos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1916, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00849
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -317,7 +367,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
 
-6. Asmenims, atitinkantiems šiame straipsnyje nustatytas sąlygas, Lietuvos Respublikos pilietybė teikiama atsižvelgiant į Lietuvos Respublikos interesus.
+6. Neteko galios nuo 2021-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -399,11 +453,13 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 3. Šio straipsnio 2 dalyje nurodytomis sąlygomis Lietuvos Respublikos pilietybė taip pat gali būti grąžinama Lietuvos Respublikos pilietybės netekusiam asmeniui, kuris buvo įgijęs Lietuvos Respublikos pilietybę iki jam sukako 18 metų dėl to, kad jo tėvai ar vienas iš tėvų buvo įgiję Lietuvos Respublikos pilietybę natūralizacijos tvarka.
 
-4. Asmeniui, kuris Lietuvos Respublikos pilietybę įgijo gimdamas, kuriam Lietuvos Respublikos pilietybė buvo atkurta arba suteikta supaprastinta tvarka ir kuris po to jos neteko, Lietuvos Respublikos pilietybė gali būti grąžinta, jeigu jis nėra kitos valstybės pilietis. Šis reikalavimas netaikomas asmeniui, kuris pagal šio įstatymo  7 straipsnio 1, 2, 3, 4 ir 7 punktus gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis.
+4. Asmeniui, kuris Lietuvos Respublikos pilietybę įgijo gimdamas arba kuriam Lietuvos Respublikos pilietybė buvo atkurta arba suteikta supaprastinta tvarka ir kuris po to jos neteko, Lietuvos Respublikos pilietybė gali būti grąžinta, jeigu jis nėra kitos valstybės pilietis. Šis reikalavimas netaikomas asmeniui, kuris pagal šio įstatymo 7 straipsnio 1, 2, 3, 4, 7 ir 11 punktus gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 5. Ypatingų nuopelnų Lietuvos valstybei, kaip jie apibrėžti šio įstatymo 91 straipsnio 2 dalyje, turinčiam asmeniui, kuris Lietuvos Respublikos pilietybę įgijo gimdamas, kuriam Lietuvos Respublikos pilietybė buvo atkurta, suteikta supaprastinta tvarka arba natūralizacijos tvarka ir kuris po to jos neteko, Lietuvos Respublikos pilietybė gali būti grąžinta, jeigu nėra šio įstatymo 22 straipsnio 1, 2 ir 3 punktuose nurodytų aplinkybių.
 
@@ -425,23 +481,21 @@ Lietuvos Respublikos pilietybė natūralizacijos tvarka, supaprastinta tvarka, i
 
 23 straipsnis. Priesaika Lietuvos Respublikai
 
-1. Asmuo, kuriam Lietuvos Respublikos pilietybė suteikta supaprastinta tvarka, natūralizacijos tvarka, išimties tvarka, ją grąžinus, taip pat Lietuvos Respublikos tarptautinių sutarčių nustatytais pagrindais, per šio straipsnio 4 dalyje nustatytą laiką turi viešai ir iškilmingai prisiekti Lietuvos Respublikai.
+1. Asmuo, kuriam Lietuvos Respublikos pilietybė suteikta supaprastinta tvarka, natūralizacijos tvarka, išimties tvarka, ją grąžinus, taip pat Lietuvos Respublikos tarptautinių sutarčių nustatytais pagrindais, per šio straipsnio 4 dalyje nustatytą laiką turi viešai ir iškilmingai prisiekti Lietuvos Respublikai. Reikalavimas prisiekti Lietuvos Respublikai netaikomas asmenims, teismo pripažintiems neveiksniais tam tikroje srityje, ir vaikams, nesukakusiems 18 metų.
 
 2. Nustatomas toks priesaikos Lietuvos Respublikai tekstas:
 
-1) „Aš, (vardas, pavardė), tapdamas Lietuvos Respublikos piliečiu, be išlygų prisiekiu būti ištikimas Lietuvos Respublikai, laikytis Lietuvos Respublikos Konstitucijos ir įstatymų, ginti Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką. Pasižadu gerbti Lietuvos valstybinę kalbą, kultūrą ir papročius, stiprinti Lietuvos demokratijos ir teisinės valstybės pagrindus. Tepadeda man Dievas.“;
+„Aš, (vardas, pavardė), tapdamas (tapdama) Lietuvos Respublikos piliečiu (piliete) be išlygų prisiekiu būti ištikimas (ištikima) Lietuvos Respublikai, laikytis Lietuvos Respublikos Konstitucijos ir įstatymų, ginti Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką. Pasižadu gerbti Lietuvos valstybinę kalbą, kultūrą ir papročius, stiprinti Lietuvos demokratijos ir teisinės valstybės pagrindus. Tepadeda man Dievas.“
 
-2) „Aš, (vardas, pavardė), tapdamas Lietuvos Respublikos piliečiu, be išlygų prisiekiu būti ištikimas Lietuvos Respublikai, laikytis Lietuvos Respublikos Konstitucijos ir įstatymų, ginti Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką. Pasižadu gerbti Lietuvos valstybinę kalbą, kultūrą ir papročius, stiprinti Lietuvos demokratijos ir teisinės valstybės pagrindus.“
+3. Prisiekti Lietuvos Respublikai galima ir be paskutinio priesaikos Lietuvos Respublikai sakinio.
 
-3. Asmuo, turintis prisiekti, pasirenka vieną iš šio straipsnio 2 dalyje nustatytų priesaikos Lietuvos Respublikai tekstų.
-
-4. Laikas, per kurį asmuo turi prisiekti:
+4. Laikas, per kurį asmuo turi prisiekti Lietuvos Respublikai:
 
 1) asmuo be pilietybės arba asmuo, kuris yra pilietis tokios valstybės, pagal kurios teisę Lietuvos Respublikos pilietybės įgijimo atveju praranda tos valstybės pilietybę, taip pat asmuo, kuriam Lietuvos Respublikos pilietybė buvo suteikta išimties tvarka, turi prisiekti per 6 mėnesius nuo dienos, kurią įsigalioja Respublikos Prezidento dekretas dėl Lietuvos Respublikos pilietybės suteikimo;
 
 2) asmuo, kuris yra raštu pareiškęs savo valią atsisakyti turimos kitos valstybės pilietybės, kai jam bus suteikta ar grąžinta Lietuvos Respublikos pilietybė, turi prisiekti per 2 metus nuo dienos, kurią įsigalioja Respublikos Prezidento dekretas dėl Lietuvos Respublikos pilietybės suteikimo ar grąžinimo.
 
-5. Asmuo prisiekia Lietuvos Respublikos vidaus reikalų ministerijoje (toliau – Vidaus reikalų ministerija) arba Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje. Asmens priesaiką Vidaus reikalų ministerijoje priima vidaus reikalų ministras ar jo įgaliotas viceministras, o diplomatinėje atstovybėje ar konsulinėje  įstaigoje – diplomatinės atstovybės ar konsulinės įstaigos vadovas.
+5. Asmuo prisiekia Lietuvos Respublikos vidaus reikalų ministerijoje arba Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje. Asmens priesaiką Vidaus reikalų ministerijoje priima vidaus reikalų ministras ar jo įgaliotas viceministras, o diplomatinėje atstovybėje ar konsulinėje įstaigoje – diplomatinės atstovybės ar konsulinės įstaigos vadovas.
 
 6. Asmuo prisiekia stovėdamas priešais priesaiką priimantį asmenį, skaito priesaikos tekstą padėjęs ranką ant Lietuvos Respublikos Konstitucijos. Baigęs skaityti priesaikos tekstą, asmuo pasirašo vardinį priesaikos lapą. Pasirašytas vardinis priesaikos lapas perduodamas priesaiką priėmusiam asmeniui.
 
@@ -449,13 +503,21 @@ Lietuvos Respublikos pilietybė natūralizacijos tvarka, supaprastinta tvarka, i
 
 8. Priesaikos Lietuvos Respublikai tekstas netaisomas ir nekeičiamas. Šios nuostatos nesilaikymas, taip pat atsisakymas pasirašyti vardinį priesaikos lapą arba pasirašymas su išlyga reiškia, kad asmuo neprisiekė.
 
-9. Asmenys, kurie, įgydami Lietuvos Respublikos pilietybę, turėjo kitos valstybės pilietybę, prisiekia Lietuvos Respublikai tik po to, kai šio straipsnio 5 dalyje nurodytoms institucijoms pateikia įrodymus, kad jie nėra kitos valstybės piliečiai. Reikalavimas pateikti įrodymus apie kitos valstybės pilietybės netekimą netaikomas asmenims, kurie pagal šio įstatymo 7 straipsnį gali būti kartu Lietuvos Respublikos ir kitos valstybės piliečiai. Reikalavimas pateikti įrodymus apie kitos valstybės pilietybės netekimą netaikomas tais atvejais, kai kitos valstybės teisėje nenustatyta jos pilietybės atsisakymo ar netekimo įgijus kitos valstybės pilietybę procedūrų arba šios procedūros neatitinka protingumo kriterijų vidaus reikalų ministro sprendimu.
+9. Asmenys, kurie, įgydami Lietuvos Respublikos pilietybę, turėjo kitos valstybės pilietybę, prisiekia Lietuvos Respublikai tik po to, kai šio straipsnio 5 dalyje nurodytoms institucijoms pateikia įrodymus, kad jie nėra kitos valstybės piliečiai. Reikalavimas pateikti įrodymus apie kitos valstybės pilietybės netekimą netaikomas asmenims, kurie pagal šio įstatymo 7 straipsnį gali būti kartu Lietuvos Respublikos ir kitos valstybės piliečiai. Reikalavimas pateikti įrodymus apie kitos valstybės pilietybės netekimą netaikomas tais atvejais, kai kitos valstybės teisėje nenustatyta jos pilietybės atsisakymo ar netekimo įgijus kitos valstybės pilietybę procedūrų arba šios procedūros neatitinka protingumo kriterijų.
 
 10. Priesaikos Lietuvos Respublikai tvarką nustato Lietuvos Respublikos Vyriausybė.
 
-11. Lietuvos Respublikos diplomatinės atstovybės, konsulinės įstaigos per savaitę praneša Respublikos Prezidento kanceliarijai ir Lietuvos Respublikos Vyriausybės įgaliotai institucijai apie asmenis, prisiekusius šiose diplomatinėse atstovybėse ir konsulinėse įstaigose. Lietuvos Respublikos Vyriausybės įgaliota institucija per savaitę praneša Respublikos Prezidento kanceliarijai apie asmenis, prisiekusius Vidaus reikalų ministerijoje.
+11. Lietuvos Respublikos diplomatinės atstovybės, konsulinės įstaigos per 7 kalendorines dienas nuo priesaikos Lietuvos Respublikai davimo dienos praneša Lietuvos Respublikos Vyriausybės įgaliotai institucijai apie asmenis, prisiekusius šiose diplomatinėse atstovybėse ir konsulinėse įstaigose.
 
-12. Asmuo, kuris Lietuvos Respublikos pilietybę įgyja supaprastinta tvarka, natūralizacijos tvarka, išimties tvarka, ją grąžinus, taip pat Lietuvos Respublikos tarptautinių sutarčių nustatytais pagrindais, Lietuvos Respublikos piliečiu tampa ir Lietuvos Respublikos piliečio teises, laisves ir pareigas įgyja tik po to, kai prisiekia Lietuvos Respublikai.
+12. Asmuo, kuris Lietuvos Respublikos pilietybę įgyja supaprastinta tvarka, natūralizacijos tvarka, išimties tvarka, ją grąžinus, taip pat Lietuvos Respublikos tarptautinių sutarčių nustatytais pagrindais, Lietuvos Respublikos piliečiu tampa ir Lietuvos Respublikos piliečio teises, laisves ir pareigas įgyja tik po to, kai prisiekia Lietuvos Respublikai. Asmuo, kuriam netaikomas reikalavimas prisiekti Lietuvos Respublikai, Lietuvos Respublikos piliečiu tampa ir Lietuvos Respublikos piliečio teises ir pareigas įgyja nuo Respublikos Prezidento dekreto dėl Lietuvos Respublikos pilietybės suteikimo ar grąžinimo įsigaliojimo dienos.
+
+13. Tais atvejais, kai kitos valstybės teisėje nustatyta jos pilietybės atsisakymo ar netekimo procedūra tik įgijus kitos valstybės pilietybę, asmuo, kuriam buvo leista prisiekti Lietuvos Respublikai, netaikant reikalavimo pateikti įrodymus apie kitos valstybės pilietybės netekimą, per vienus metus nuo priesaikos Lietuvos Respublikai davimo dienos privalo pateikti įrodymus apie kitos valstybės pilietybės netekimą. Asmuo, kuriam netaikomas reikalavimas prisiekti Lietuvos Respublikai ir kuris Lietuvos Respublikos piliečio teises ir pareigas įgijo nuo Respublikos Prezidento dekreto dėl Lietuvos Respublikos pilietybės suteikimo ar grąžinimo įsigaliojimo dienos, turi atsisakyti kitos valstybės pilietybės per vienus metus nuo Respublikos Prezidento dekreto dėl Lietuvos Respublikos pilietybės suteikimo ar grąžinimo įsigaliojimo dienos, išskyrus atvejus, kai kitos valstybės teisėje nenustatyta jos pilietybės atsisakymo ar netekimo įgijus kitos valstybės pilietybę procedūrų.
+
+14. Šio straipsnio 13 dalyje nurodytas terminas gali būti pratęstas Lietuvos Respublikos Vyriausybės įgaliotos institucijos sprendimu, bet ne ilgiau kaip vieniems metams, jeigu asmuo pateikia motyvuotą prašymą ir patvirtinančius dokumentus ir (ar) duomenis, kad per vienus metus nuo priesaikos Lietuvos Respublikai davimo dienos ar nuo Respublikos Prezidento dekreto dėl Lietuvos Respublikos pilietybės suteikimo ar grąžinimo įsigaliojimo dienos negali atsisakyti kitos valstybės pilietybės.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 IV SKYRIUS
 
@@ -483,7 +545,7 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 7) paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidus šį ar kitus Lietuvos Respublikos įstatymus;
 
-8) neteko galios 2018-10-31.
+8) neteko galios 2018-10-31;
 
 Straipsnio punkto pakeitimai:
 
@@ -491,17 +553,37 @@ Nr. XII-2050, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18859
 
 Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
 
+9) jeigu asmuo, kuriam taikomas reikalavimas pateikti įrodymus apie kitos valstybės pilietybės netekimą, jų nepateikė per šio įstatymo 23 straipsnio 13 ar 14 dalyje nustatytą terminą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
+
 25 straipsnis. Lietuvos Respublikos piliečio teisė atsisakyti pilietybės
 
 1. Lietuvos Respublikos piliečio teisė atsisakyti pilietybės negali būti varžoma, išskyrus šiame straipsnyje numatytus atvejus.
 
 2. Lietuvos Respublikos piliečio prašymas dėl Lietuvos Respublikos pilietybės atsisakymo negali būti nagrinėjamas, jeigu jis yra įtariamas ar kaltinamas padaręs nusikalstamą veiką arba jam yra įsiteisėjęs ir vykdytinas teismo nuosprendis.
 
-3. Lietuvos Respublikos piliečio prašymas dėl Lietuvos Respublikos pilietybės atsisakymo negali būti nagrinėjamas, jeigu jis liktų be pilietybės.
+3. Lietuvos Respublikoje paskelbus mobilizaciją, į civilinio mobilizacinio personalo rezervą įrašyto ar karo prievolininku esančio Lietuvos Respublikos piliečio prašymas dėl Lietuvos Respublikos pilietybės atsisakymo iki demobilizacijos paskelbimo negali būti nagrinėjamas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3241, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15878
+
+4. Lietuvos Respublikos piliečio prašymas dėl Lietuvos Respublikos pilietybės atsisakymo negali būti nagrinėjamas, jeigu jis liktų be pilietybės.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-3241, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15878
 
 26 straipsnis. Lietuvos Respublikos pilietybės netekimas įgijus kitos valstybės pilietybę
 
-1. Lietuvos Respublikos pilietis, įgijęs kitos valstybės pilietybę, netenka Lietuvos Respublikos pilietybės nuo kitos valstybės pilietybės įgijimo dienos, išskyrus asmenis, kurie pagal šio įstatymo 7 straipsnio 1–5, 7 ir 9 punktus gali būti kartu Lietuvos Respublikos ir kitos valstybės piliečiai.
+1. Lietuvos Respublikos pilietis, įgijęs kitos valstybės pilietybę, netenka Lietuvos Respublikos pilietybės nuo kitos valstybės pilietybės įgijimo dienos, išskyrus asmenis, kurie pagal šio įstatymo 7 straipsnio 1–5, 7, 9 ir 11 punktus gali būti kartu Lietuvos Respublikos ir kitos valstybės piliečiai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 2. Lietuvos Respublikos pilietis, įgijęs kitos valstybės pilietybę, privalo per 2 mėnesius nuo kitos valstybės pilietybės įgijimo dienos raštu pranešti apie tai Lietuvos Respublikos Vyriausybės įgaliotai institucijai arba Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai. Lietuvos Respublikos pilietis, šio įstatymo 411 straipsnyje nustatyta tvarka pateikęs prašymą dėl Lietuvos Respublikos pilietybės išsaugojimo, laikomas pranešusiu apie kitos valstybės pilietybės įgijimą.
 
@@ -517,7 +599,13 @@ VAIKŲ IKI 18 METŲ PILIETYBĖ PASIKEITUS TĖVŲ PILIETYBEI
 
 27 straipsnis. Vaiko pilietybė jo tėvams ar vienam iš tėvų įgijus Lietuvos Respublikos pilietybę
 
-Jeigu Lietuvos Respublikos pilietybę įgyja arba atkuria vienas iš vaiko tėvų ar abu tėvai, vaikas iki 14 metų taip pat įgyja Lietuvos Respublikos pilietybę, jeigu jis nėra kitos valstybės pilietis. Šiame straipsnyje nurodytų asmenų vaikas nuo 14 iki 18 metų Lietuvos Respublikos pilietybę įgyja tik jo sutikimu, jeigu jis nėra kitos valstybės pilietis.
+1. Jeigu Lietuvos Respublikos pilietybę įgyja arba atkuria vienas iš vaiko tėvų ar abu tėvai, vaikas iki 14 metų taip pat įgyja Lietuvos Respublikos pilietybę, jeigu jis nėra kitos valstybės pilietis. Šiame straipsnyje nurodytų asmenų vaikas nuo 14 iki 18 metų Lietuvos Respublikos pilietybę įgyja tik jo sutikimu, jeigu jis nėra kitos valstybės pilietis.
+
+2. Tais atvejais, kai kitos valstybės teisėje nenustatyta pilietybės atsisakymo ar netekimo įgijus kitos valstybės pilietybę procedūrų arba šios procedūros neatitinka protingumo kriterijų, pridedamas notaro patvirtintas pareiškimas, kad vaikas atsisako kitos valstybės pilietybės.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 28 straipsnis. Vaiko pilietybė jo tėvams ar vienam iš tėvų netekus Lietuvos Respublikos pilietybės
 
@@ -627,7 +715,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
 
-4) teikia asmenų dokumentus dėl Lietuvos Respublikos pilietybės suteikimo natūralizacijos tvarka ir supaprastinta tvarka svarstyti Pilietybės reikalų komisijai;
+4) rengia ir teikia asmenų dokumentus dėl Lietuvos Respublikos pilietybės suteikimo, išsaugojimo ar grąžinimo svarstyti Pilietybės reikalų komisijai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 5) nagrinėja klausimus ir dokumentus dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta ar grąžinta, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus, ir teikia vidaus reikalų ministrui siūlymus kreiptis į Vilniaus apygardos administracinį teismą šiais klausimais;
 
@@ -637,7 +729,17 @@ Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
 
 8) per Lietuvos Respublikos užsienio reikalų ministeriją siunčia kompetentingoms užsienio valstybių institucijoms asmenų prašymus dėl kitos valstybės pilietybės atsisakymo, kai kitos valstybės teisėje nenustatyta pilietybės atsisakymo ar netekimo įgijus kitos valstybės pilietybę procedūrų arba šios procedūros neatitinka protingumo kriterijų;
 
-9) teikia asmenų dokumentus dėl Lietuvos Respublikos pilietybės grąžinimo pagal šio įstatymo 21 straipsnio 2, 3 ir 4 dalis svarstyti Pilietybės reikalų komisijai.
+9) priima sprendimą, kad Lietuvos Respublikos pilietybės netekimas įgijus kitos valstybės pilietybę netaikomas, nes asmuo atitinka bent vieną iš šio įstatymo 7 straipsnio 1–5, 7, 9 ir 11 punktuose nurodytų sąlygų, ir praneša suinteresuotiems asmenims ir institucijoms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
+
+10) atlieka kitas šiame įstatyme nustatytas funkcijas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 34 straipsnis. Vilniaus apygardos administracinis teismas
 
@@ -661,19 +763,35 @@ VII SKYRIUS
 
 PRAŠYMAI DĖL LIETUVOS RESPUBLIKOS PILIETYBĖS
 
-37 straipsnis. Prašymų dėl Lietuvos Respublikos pilietybės padavimo bendrosios taisyklės
+37 straipsnis. Prašymų dėl Lietuvos Respublikos pilietybės padavimo ir nagrinėjimo bendrosios taisyklės
 
-1. Lietuvos Respublikos pilietybės klausimai nagrinėjami tik pagal pačių asmenų rašytinius prašymus. Vaikų, nesukakusių 18 metų, ir neveiksnių asmenų prašymus dėl Lietuvos Respublikos pilietybės paduoda jų atstovai.
+1. Lietuvos Respublikos pilietybės klausimai nagrinėjami tik pagal pačių asmenų rašytinius prašymus. Vaikų, nesukakusių 18 metų, ir asmenų, teismo pripažintų neveiksniais tam tikroje srityje, prašymus dėl Lietuvos Respublikos pilietybės paduoda jų atstovai.
 
-2. Asmenys, gyvenantys Lietuvos Respublikoje, prašymus dėl Lietuvos Respublikos pilietybės paduoda per Lietuvos Respublikos Vyriausybės įgaliotą instituciją. Asmenys, gyvenantys užsienyje, prašymus dėl Lietuvos Respublikos pilietybės paduoda per Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas arba per Lietuvos Respublikos Vyriausybės įgaliotą instituciją. Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos asmenų, nuolat gyvenančių užsienyje, prašymus dėl Lietuvos Respublikos pilietybės perduoda Lietuvos Respublikos Vyriausybės įgaliotai institucijai.
+2. Asmenys prašymus dėl Lietuvos Respublikos pilietybės paduoda per Lietuvos Respublikos Vyriausybės įgaliotą instituciją. Lietuvos Respublikos Vyriausybės nustatytais atvejais asmenys, nuolat gyvenantys užsienyje, prašymus dėl Lietuvos Respublikos pilietybės asmeniškai gali paduoti per Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas, kurios prašymus perduoda Lietuvos Respublikos Vyriausybės įgaliotai institucijai. Prašymai dėl Lietuvos Respublikos pilietybės paduodami ir perduodami Lietuvos Respublikos Vyriausybės įgaliotai institucijai Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 3. Asmenų prašymai dėl Lietuvos Respublikos pilietybės pakartotinai priimami ne anksčiau kaip po vienų metų nuo atsisakymo patenkinti ankstesnį prašymą, išskyrus atvejus, kai prašymas paduodamas kitu šiame įstatyme nustatytu Lietuvos Respublikos pilietybės įgijimo pagrindu arba pateikiami nauji dokumentai, patvirtinantys ankstesnio prašymo pagrįstumą.
 
-4. Asmenų, šio įstatymo nustatytais terminais ir tvarka neprisiekusių Lietuvos Respublikai, pakartotinai paduoti prašymai dėl Lietuvos Respublikos pilietybės suteikimo ar grąžinimo nenagrinėjami, išskyrus atvejus, kai šį terminą asmuo praleido dėl ypač svarbių priežasčių.
+4. Pilietybės reikalų komisija ar Lietuvos Respublikos Vyriausybės įgaliota institucija priima sprendimą nutraukti prašymo dėl Lietuvos Respublikos pilietybės nagrinėjimą, jeigu:
 
-5. Už prašymų dėl Lietuvos Respublikos pilietybės nagrinėjimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava arba konsulinis mokestis už dokumentų dėl Lietuvos Respublikos pilietybės priėmimą ir perdavimą.
+1) asmuo mirė;
 
-6. Šio straipsnio 2 dalyje nurodytos įstaigos turi teisę pareikalauti asmens pateikti papildomus dokumentus, patvirtinančius šiame įstatyme nurodytas aplinkybes dėl Lietuvos Respublikos pilietybės įgijimo ar atkūrimo.
+2) asmuo raštu pareiškė norą nutraukti prašymo dėl Lietuvos Respublikos pilietybės nagrinėjimą;
+
+3) nustato, kad asmuo yra Lietuvos Respublikos pilietis;
+
+4) asmuo per vienus metus nuo Pilietybės reikalų komisijos ar Lietuvos Respublikos Vyriausybės įgaliotos institucijos prašymo pateikti papildomus dokumentus, patvirtinančius šiame įstatyme nurodytas aplinkybes, ir (ar) patikslinti duomenis išsiuntimo dienos nepateikia prašomos informacijos ar dokumentų.
+
+5. Prašymai dėl Lietuvos Respublikos pilietybės, išskyrus prašymus, kuriuos nagrinėja Pilietybės reikalų komisija, nagrinėjami Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+6. Asmenų, šio įstatymo nustatytais terminais ir tvarka neprisiekusių Lietuvos Respublikai, pakartotinai paduoti prašymai dėl Lietuvos Respublikos pilietybės suteikimo ar grąžinimo nenagrinėjami, išskyrus atvejus, kai šį terminą asmuo praleido dėl ypač svarbių priežasčių.
+
+7. Už prašymų dėl Lietuvos Respublikos pilietybės nagrinėjimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava arba konsulinis mokestis už dokumentų dėl Lietuvos Respublikos pilietybės priėmimą ir perdavimą.
+
+8. Šio straipsnio 2 dalyje nurodytos įstaigos turi teisę pareikalauti asmens pateikti papildomus dokumentus, patvirtinančius šiame įstatyme nurodytas aplinkybes dėl Lietuvos Respublikos pilietybės įgijimo ar atkūrimo.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 38 straipsnis. Prašymai dėl Lietuvos Respublikos pilietybės atkūrimo
 
@@ -763,11 +881,13 @@ PRAŠYMAI DĖL LIETUVOS RESPUBLIKOS PILIETYBĖS
 
 4) dokumentus, patvirtinančius, kad asmuo turi teisėtą pragyvenimo šaltinį;
 
-5) dokumentus, patvirtinančius, kad asmuo išlaikė valstybinės kalbos ir Lietuvos Respublikos Konstitucijos pagrindų egzaminus. Šių dokumentų nereikia pateikti asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, asmenims, kuriems sukako senatvės pensijos amžius ir kuriems Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatyti nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikiai, taip pat asmenims, turintiems sunkių lėtinių psichikos ir elgesio sutrikimų.
+5) dokumentus, patvirtinančius, kad asmuo išlaikė valstybinės kalbos ir Lietuvos Respublikos Konstitucijos pagrindų egzaminus. Šių dokumentų nereikia pateikti asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, asmenims, kuriems sukako senatvės pensijos amžius ir kuriems Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatyti nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikiai, asmenims, turintiems sunkių lėtinių psichikos ir elgesio sutrikimų, taip pat vaikams iki 18 metų.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1916, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00849
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 3. Prie prašymo dėl Lietuvos Respublikos pilietybės suteikimo natūralizacijos tvarka sudarius santuoką su Lietuvos Respublikos piliečiu asmuo prideda šiuos dokumentus:
 
@@ -813,7 +933,11 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
 
-5. Jeigu dėl Lietuvos Respublikos pilietybės suteikimo natūralizacijos tvarka kreipiasi asmuo, turintis kitos valstybės pilietybę, išskyrus asmenį, kuris pagal šio įstatymo 7 straipsnio 9 punktą gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis, jis pateikia rašytinį pareiškimą, kad atsisakys turimos kitos valstybės pilietybės, kai jam bus suteikta Lietuvos Respublikos pilietybė.
+5. Jeigu dėl Lietuvos Respublikos pilietybės suteikimo natūralizacijos tvarka kreipiasi asmuo, turintis kitos valstybės pilietybę, išskyrus asmenį, kuris pagal šio įstatymo 7 straipsnio 10 punktą gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis, jis pateikia rašytinį pareiškimą, kad atsisakys turimos kitos valstybės pilietybės, kai jam bus suteikta Lietuvos Respublikos pilietybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -821,7 +945,11 @@ Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010IST
 
 41 straipsnis. Prašymai dėl Lietuvos Respublikos pilietybės suteikimo išimties tvarka
 
-1. Prašymai dėl Lietuvos Respublikos pilietybės suteikimo išimties tvarka paduodami Respublikos Prezidentui per Respublikos Prezidento kanceliariją.
+1. Prašymai dėl Lietuvos Respublikos pilietybės išimties tvarka paduodami Respublikos Prezidentui per Lietuvos Respublikos Vyriausybės įgaliotą instituciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 2. Prie prašymo dėl Lietuvos Respublikos pilietybės suteikimo išimties tvarka asmuo prideda šiuos dokumentus:
 
@@ -835,11 +963,13 @@ Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010IST
 
 42 straipsnis. Prašymai dėl Lietuvos Respublikos pilietybės grąžinimo
 
-1. Prašymai dėl Lietuvos Respublikos pilietybės grąžinimo pagal šio įstatymo 21 straipsnio 2, 3 ir 4 dalis paduodami Respublikos Prezidentui per šio įstatymo 37 straipsnio 2 dalyje nurodytas įstaigas, o prašymai dėl Lietuvos Respublikos pilietybės grąžinimo pagal šio įstatymo 21 straipsnio 5 dalį – per Respublikos Prezidento kanceliariją.
+1. Prašymai dėl Lietuvos Respublikos pilietybės grąžinimo pagal šio įstatymo 21 straipsnio 2, 3 ir 4 dalis paduodami Respublikos Prezidentui per šio įstatymo 37 straipsnio 2 dalyje nurodytas įstaigas, o prašymai dėl Lietuvos Respublikos pilietybės grąžinimo pagal šio įstatymo 21 straipsnio 5 dalį – per Lietuvos Respublikos Vyriausybės įgaliotą instituciją.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 2. Asmuo, kuris buvo įgijęs Lietuvos Respublikos pilietybę natūralizacijos tvarka ir po to jos neteko, prie prašymo dėl Lietuvos Respublikos pilietybės grąžinimo prideda šiuos dokumentus:
 
@@ -861,17 +991,21 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 2) vardo ar pavardės keitimą patvirtinantį dokumentą, jeigu šie asmens duomenys buvo keisti po Lietuvos Respublikos pilietybės netekimo;
 
-3) dokumentą, patvirtinantį, kad asmuo nėra kitos valstybės pilietis, išskyrus atvejus, kai pagal šio įstatymo 7 straipsnio 1, 2, 3, 4 ir 7 punktus asmuo gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis;
+3) dokumentą, patvirtinantį, kad asmuo nėra kitos valstybės pilietis, išskyrus atvejus, kai pagal šio įstatymo 7 straipsnio 1, 2, 3, 4, 7 ir 11 punktus asmuo gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
 
-4) dokumentus, patvirtinančius, kad yra bent viena iš šio įstatymo 7 straipsnio 1, 2, 3, 4 ir 7 punktuose nurodytų sąlygų, jeigu asmuo yra kitos valstybės pilietis.
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
+
+4) dokumentus, patvirtinančius, kad yra bent viena iš šio įstatymo 7 straipsnio 1, 2, 3, 4, 7 ir 11 punktuose nurodytų sąlygų, jeigu asmuo yra kitos valstybės pilietis.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 4. Jeigu dėl Lietuvos Respublikos pilietybės grąžinimo kreipiasi asmuo, turintis kitos valstybės pilietybę, jis pateikia rašytinį pareiškimą, kad atsisakys turimos kitos valstybės pilietybės, kai jam bus grąžinta Lietuvos Respublikos pilietybė.
 
@@ -949,7 +1083,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 Pakeitimai:
 
@@ -1009,6 +1143,22 @@ Nr. XIII-1916, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00849
 
 Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 18 ir 40 straipsnių pakeitimo įstatymas
 
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3241, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15878
+
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 25 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
+
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2, 7, 12, 15, 16, 18, 21, 23, 24, 26, 27, 33, 37, 40, 41, 41-1 ir 42 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
+
 91 straipsnis. Lietuvos Respublikos pilietybės išsaugojimas
 
 1. Respublikos Prezidentas, vadovaudamasis šiuo įstatymu, gali priimti sprendimą, kad ypatingų nuopelnų Lietuvos valstybei turintis Lietuvos Respublikos pilietis, įgijęs kitos valstybės pilietybę, Lietuvos Respublikos pilietybę išsaugo.
@@ -1023,7 +1173,11 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 411 straipsnis. Prašymai dėl Lietuvos Respublikos pilietybės išsaugojimo
 
-1. Prašymai dėl Lietuvos Respublikos pilietybės išsaugojimo paduodami Respublikos Prezidentui per Respublikos Prezidento kanceliariją. Prašymas dėl Lietuvos Respublikos pilietybės išsaugojimo turi būti paduotas per 2 mėnesius nuo kitos valstybės pilietybės įgijimo dienos.
+1. Prašymai dėl Lietuvos Respublikos pilietybės išsaugojimo paduodami Respublikos Prezidentui per Lietuvos Respublikos Vyriausybės įgaliotą instituciją. Prašymas dėl Lietuvos Respublikos pilietybės išsaugojimo turi būti paduotas per 2 mėnesius nuo kitos valstybės pilietybės įgijimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 2. Prie prašymo dėl Lietuvos Respublikos pilietybės išsaugojimo Lietuvos Respublikos pilietis prideda šiuos dokumentus:
 
@@ -1036,4 +1190,12 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 Papildyta straipsniu:
 
 Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
+
+211 straipsnis. Lietuvos Respublikos pilietybės suteikimas ir grąžinimas atsižvelgiant į valstybės interesus
+
+Lietuvos Respublikos pilietybė asmenims suteikiama ir grąžinama atsižvelgiant į Lietuvos Respublikos interesus.
+
+Papildyta straipsniu:
+
+Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
