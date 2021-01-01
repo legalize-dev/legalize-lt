@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2020-09-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-04-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -554,7 +554,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
-81. Transporto priemones tikrinantys pareigūnai (toliau – tikrinantys pareigūnai) – uniformuoti valstybės institucijų (policijos, muitinės, Lietuvos transporto saugos administracijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, aplinkos apsaugos valstybinės kontrolės) įgalioti pareigūnai, kuriems Lietuvos Respublikos įstatymų nustatyta tvarka suteikta teisė stabdyti transporto priemones ir atlikti būtiną patikrinimą.
+81. Transporto priemones tikrinantys pareigūnai (toliau – tikrinantys pareigūnai) – uniformuoti valstybės institucijų (policijos, Karo policijos, muitinės, Lietuvos transporto saugos administracijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, aplinkos apsaugos valstybinės kontrolės) įgalioti pareigūnai, kuriems Lietuvos Respublikos įstatymų nustatyta tvarka suteikta teisė stabdyti transporto priemones ir atlikti būtiną patikrinimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3441, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24618
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -714,17 +718,25 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 7 straipsnis. Valstybinė eismo saugumo užtikrinimo politika
 
-Valstybinę eismo saugumo užtikrinimo politiką formuoja, Valstybinę eismo saugumo programą ir šios programos įgyvendinimo priemonių planą tvirtina Vyriausybė.
+Valstybinę eismo saugumo užtikrinimo politiką formuoja ir valstybinės eismo saugumo užtikrinimo politikos įgyvendinimo priemones nacionalinėse plėtros programose tvirtina Vyriausybė.
 
 Straipsnio pakeitimai:
 
 Nr. XI-893, 2010-06-10, Žin., 2010, Nr. 75-3791 (2010-06-29)
 
-8 straipsnis. Valstybinės eismo saugumo programos vykdymo finansavimas
+Straipsnio pakeitimai:
 
-1. Valstybinė eismo saugumo programa finansuojama valstybės ir savivaldybių biudžetų lėšomis.
+Nr. XIII-3122, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15365
 
-2. Valstybinei eismo saugumo programai finansuoti gali būti naudojamos ir kitos teisėtai gautos lėšos.
+8 straipsnis. Valstybinės eismo saugumo užtikrinimo politikos įgyvendinimo priemonių finansavimas
+
+1. Valstybinės eismo saugumo užtikrinimo politikos įgyvendinimo priemonės, suplanuotos nacionalinėse plėtros programose, finansuojamos valstybės ir savivaldybių biudžetų lėšomis.
+
+2. Valstybinės eismo saugumo užtikrinimo politikos įgyvendinimo priemonėms, suplanuotoms nacionalinėse plėtros programose, finansuoti gali būti naudojamos ir kitos teisėtai gautos lėšos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3122, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15365
 
 9 straipsnis. Valstybinė eismo saugumo komisija
 
@@ -744,7 +756,11 @@ Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 2) teikia valstybės ir savivaldybių institucijoms ir įstaigoms išvadas dėl teisės aktų atitikties eismo saugumo reikalavimams;
 
-3) rengia Valstybinės eismo saugumo programos projektą ir jį teikia Vyriausybei;
+3) dalyvauja rengiant nacionalines plėtros programas, kuriose planuojamos valstybinės eismo saugumo užtikrinimo politikos įgyvendinimo priemonės;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3122, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15365
 
 4) svarsto eismo saugumo užtikrinimo klausimus ir priima dėl jų sprendimus.
 
@@ -765,6 +781,12 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
+
+11) rengia valstybinės eismo saugumo užtikrinimo politikos įgyvendinimo priemones, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3122, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15365
 
 2) suderinusi su Vidaus reikalų ministerija, nustato tvarką ir atvejus, kada taisomuose kelių (gatvių) ruožuose keliuose dirbantys asmenys gali reguliuoti eismą;
 
@@ -958,7 +980,11 @@ Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
 
 8. Užtikrindamas eismo saugumą, savivaldybės administracijos direktorius:
 
-1) vadovaudamasis Valstybine eismo saugumo programa, tvirtina savivaldybės eismo saugumo programą;
+1) vadovaudamasis nacionalinėse plėtros programose suplanuotomis valstybinės eismo saugumo užtikrinimo politikos įgyvendinimo priemonėmis, tvirtina savivaldybės eismo saugumo užtikrinimo priemones ir projektus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3122, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15365
 
 2) iš savivaldybės administravimo subjektų ir valstybinio administravimo subjektų savivaldybėje, nevyriausybinių organizacijų atstovų sudaro savivaldybės eismo saugumo komisiją, tvirtina jos nuostatus. Savivaldybės pagrįstu prašymu valstybinio administravimo subjektai turi deleguoti atstovus į savivaldybės saugaus eismo komisiją;
 
@@ -1011,6 +1037,16 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
+
+91. Užtikrindama eismo saugumą, Karo policija:
+
+1) reguliuoja eismą, užtikrindama karinio transporto judėjimą;
+
+2) įstatymų nustatytais atvejais tiria KET pažeidimus, atlieka ikiteisminį tyrimą eismo įvykių bylose, įstatymų nustatytais atvejais surašo administracinių nusižengimų protokolus, nagrinėja administracinių nusižengimų bylas ir priima nutarimus šiose bylose, taiko kitas įstatymų numatytas priemones.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3441, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24618
 
 10. Užtikrindama eismo saugumą, Lietuvos transporto saugos administracija:
 
