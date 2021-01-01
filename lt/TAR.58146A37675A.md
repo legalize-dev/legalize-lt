@@ -4,7 +4,7 @@ identifier: "TAR.58146A37675A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-09-21"
-last_updated: "2019-12-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2019-12-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-03
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
-
-TAR pastaba. Etninės kultūros globos taryba, sudaryta iki įstatymo Nr. XIII-2540 įsigaliojimo (2019-12-01), savo funkcijas atlieka iki 2021 m. gruodžio 15 d. Etninės kultūros globos tarybos sudėtis pagal šio įstatymo nuostatas turi būti pakeista iki 2020 m. sausio 1 d.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
-
-Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 straipsnio pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS ETNINĖS KULTŪROS VALSTYBINĖS GLOBOS PAGRINDŲ ĮSTATYMAS
 
@@ -193,9 +185,17 @@ Nr. IX-2531, 2004-11-02, Žin., 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010IS
 
 8 straipsnis. Etninės kultūros tęstinumas ir populiarinimas
 
-1. Etninės kultūros globos taryba inicijuoja ir padeda Vyriausybei parengti etninės kultūros plėtros valstybinę programą bei koordinuoti jos įgyvendinimą.
+1. Neteko galios nuo 2021-01-01
 
-2. Etninės kultūros globos taryba padeda Vyriausybei parengti ilgalaikę Lietuvos etnografinių kaimų išsaugojimo programą, užtikrinančią etninės kultūros subjektų gamybinės ir kultūrinės veiklos plėtrą.
+Straipsnio dalies naikinimas:
+
+Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
+
+2. Neteko galios nuo 2021-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 
 Straipsnio dalies pakeitimai:
 
@@ -325,7 +325,7 @@ Nr. X-484, 2006-01-09, Žin. 2006, Nr. 6-192 (2006-01-17), i. k. 1061010ISTA000X
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -385,6 +385,14 @@ Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
 
 Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 straipsnio pakeitimo įstatymas
 
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
+
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 ir 8 straipsnių pakeitimo įstatymas
+
 12 straipsnis. Pasiūlymas Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2004 m. gruodžio 31 d. parengia Etninės kultūros globos fondo nuostatus.
@@ -425,7 +433,11 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 
 4. Tarybos tikslas – etninės kultūros valstybinės globos stiprinimas, tautinės savimonės išsaugojimas ir etninės kultūros tęstinumas bei lygiavertis Lietuvos dalyvavimas pasaulio tautų kultūriniame gyvenime.
 
-5. Tarybos, kaip ekspertinės institucijos, pagrindinės strateginės veiklos kryptys apima šias sritis:
+5. Tarybos, kaip ekspertinės institucijos, pagrindinės veiklos kryptys apima šias sritis:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 
 1) etninės kultūros plėtrą ir integravimą į bendrąją kultūros politiką Lietuvoje;
 
@@ -447,7 +459,11 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 
 6. Svarbiausi Tarybos uždaviniai:
 
-1) patarti Seimui ir Vyriausybei etninės kultūros politikos ir strategijos formavimo, nematerialaus kultūros paveldo apsaugos klausimais, skatinti ir koordinuoti etninės kultūros plėtrą ir valstybinę globą;
+1) patarti Seimui ir Vyriausybei etninės kultūros politikos formavimo, nematerialaus kultūros paveldo apsaugos klausimais, skatinti ir koordinuoti etninės kultūros plėtrą ir valstybinę globą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 
 2) teikti išvadas ir pasiūlymus valstybės institucijoms ir savivaldybėms etninės kultūros bei nematerialaus kultūros paveldo klausimais;
 
@@ -459,7 +475,11 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 
 7. Įgyvendindama savo uždavinius, Taryba atlieka šias funkcijas:
 
-1) rengia, vertina ir teikia Seimui ir Vyriausybei siūlymus dėl etninės kultūros valstybinės globos ir plėtros, nematerialaus kultūros paveldo apsaugos strategijos, jos prioritetų ir įgyvendinimo koordinavimo;
+1) rengia, vertina ir teikia Seimui ir Vyriausybei siūlymus dėl etninės kultūros valstybinės globos ir plėtros, nematerialaus kultūros paveldo apsaugos politikos prioritetų ir jų įgyvendinimo koordinavimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 
 2) vertina Lietuvoje vykdomą etninės kultūros globos ir plėtros, nematerialaus kultūros paveldo apsaugos veiklą, rengia Seimui ir Vyriausybei siūlymus, kaip šią veiklą tobulinti ir plėtoti;
 
@@ -471,7 +491,11 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 
 6) atlieka Etninės kultūros tęstinumo ir kaitos tyrimų programos įgyvendinimo koordinavimą ir įgyvendinimo priemonių ekspertavimą;
 
-7) inicijuoja valstybinės Etninės kultūros plėtros programos rengimą ir padeda Vyriausybei koordinuoti bei prižiūrėti jos įgyvendinimą;
+7) Neteko galios nuo 2021-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 
 8) teikia siūlymus ir išvadas Seimui, Vyriausybei ir savivaldybėms dėl etninės kultūros objektų funkcionavimo užtikrinimo, dėl naujų institucijų ir infrastruktūros objektų steigimo;
 
