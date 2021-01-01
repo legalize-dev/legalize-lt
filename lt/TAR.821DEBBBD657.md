@@ -4,7 +4,7 @@ identifier: "TAR.821DEBBBD657"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-15"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.821DEBBBD657"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS MINIMALIOJO DARBO UŽMOKESČIO DYDŽIŲ, SOCIALINĖS
 
 APSAUGOS IŠMOKŲ IR BAZINIO BAUSMIŲ IR NUOBAUDŲ DYDŽIO INDEKSAVIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 83-3294, i. k. 1081010ISTA00X-1710
 
@@ -69,11 +69,19 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2604, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20563
 
-4. Valstybinių pensijų bazės dydis negali būti didesnis už galiojančios socialinio draudimo bazinės pensijos dydį.
+4. Neteko galios nuo 2021-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-82, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28363
 
 5. Laikoma, kad šio straipsnio 3 dalyje nurodyti socialinės apsaugos išmokų atskaitos rodikliai sudaro daugiau procentų už nurodytą atitinkamą praėjusių metų MVPD procentinį dydį, kai jų dydis viršija MVPD suapvalintu procentiniu sveikuoju skaičiumi, skaičiuojant pagal matematines skaičių apvalinimo taisykles: jeigu po paskutinio skaitmens, iki kurio apvalinama, yra skaitmuo 5 arba didesnis negu 5, prie paskutinio skaitmens, iki kurio apvalinama, yra pridedamas 1; jeigu skaitmuo po paskutinio skaitmens, iki kurio apvalinama, yra mažesnis negu 5, paskutinis skaitmuo, iki kurio apvalinama, lieka nepakitęs.
 
-6. Bazinės socialinės išmokos dydį, šalpos pensijų bazės dydį, tikslinių kompensacijų bazės dydį, valstybės remiamų pajamų dydį, valstybinių pensijų bazės dydį tvirtina Lietuvos Respublikos Vyriausybė.
+6. Bazinės socialinės išmokos dydį, šalpos pensijų bazės dydį, tikslinių kompensacijų bazės dydį, valstybės remiamų pajamų dydį tvirtina Lietuvos Respublikos Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-82, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28363
 
 3 straipsnis. MVPD apskaičiavimo tvarka
 
@@ -160,6 +168,14 @@ Lietuvos Respublikos socialinės apsaugos išmokų atskaitos rodiklių ir bazini
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-2604, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20563
+
+Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 2 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-82, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28363
 
 Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 2 straipsnio pakeitimo įstatymas
 
