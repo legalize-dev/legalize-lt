@@ -4,7 +4,7 @@ identifier: "TAR.AF228880894E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2020-04-25"
+last_updated: "2021-01-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF228880894E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas
 
-Suvestinė redakcija nuo 2020-04-25 iki 2021-01-07
+Suvestinė redakcija nuo 2021-01-08 iki 2021-04-29
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 68-2774, i. k. 1021010ISTA00IX-985
 
@@ -786,6 +786,14 @@ Nr. XIII-2856, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08720
 
 Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 3 ir 10 straipsnių pakeitimo įstatymas
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-146, 2020-12-23, paskelbta TAR 2020-12-30, i. k. 2020-29111
+
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 papildymo 11-1 straipsniu įstatymas
+
 121 straipsnis. Pranešimas, skundas ar prašymas dėl politinių partijų ir politinių kampanijų finansavimo pažeidimų
 
 1. Pranešimas, skundas ar prašymas dėl politinių partijų ir politinių kampanijų finansavimo pažeidimų (toliau – pranešimas) Vyriausiajai rinkimų komisijai gali būti pateiktas raštu per trejus metus nuo galimų pažeidimų atsiradimo dienos.
@@ -823,4 +831,24 @@ Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
 Papildyta straipsniu:
 
 Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
+
+111 straipsnis. Vyriausiosios rinkimų komisijos posėdžių organizavimas nuotoliniu būdu
+
+1. Įvedus nepaprastąją padėtį, Lietuvos Respublikos civilinės saugos įstatymo nustatyta tvarka paskelbus ekstremaliąją situaciją arba Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo nustatytais atvejais ir tvarka paskelbus karantiną ir kai yra pagrindas manyti, kad gali kilti grėsmė Vyriausiosios rinkimų komisijos darbui, nes dėl objektyvių aplinkybių gali kilti pavojus komisijos narių sveikatai ir (ar) gyvybei, Vyriausiosios rinkimų komisijos sprendimu jos posėdžiai gali būti organizuojami nuotoliniu būdu.
+
+2. Visuomenei apie Vyriausiosios rinkimų komisijos nuotoliniu būdu organizuojamą posėdį paskelbiama Vyriausiosios rinkimų komisijos interneto svetainėje, o komisijos nariams pranešama elektroninių ryšių priemonėmis (elektroniniu paštu arba telefonu).
+
+3. Vyriausiosios rinkimų komisijos posėdis organizuojamas, komisijos nariai jame dalyvauja ir sprendimai svarstomais klausimais priimami nuotoliniu būdu realiuoju laiku Nacionalinio kibernetinio saugumo centro įvertintomis ir saugiomis pripažintomis telekonferencijų platformomis.
+
+4. Vyriausiosios rinkimų komisijos nariai savo komisijos nario teises ir pareigas privalo įgyvendinti asmeniškai.
+
+5. Turi būti užtikrintas nuotoliniu būdu organizuojamo Vyriausiosios rinkimų komisijos posėdžio vaizdo ir garso įrašo darymas ir jo išsaugojimas. Šis įrašas viešai paskelbiamas Vyriausiosios rinkimų komisijos interneto svetainėje.
+
+6. Vyriausiosios rinkimų komisijos posėdžiai nuotoliniu būdu organizuojami, komisijos nariai juose dalyvauja, komisijos nario tapatybė ir balsavimo rezultatai nustatomi, sprendimai svarstomais klausimais priimami, asmeniškas komisijos nario teisių ir pareigų įgyvendinimas užtikrinamas Vyriausiosios rinkimų komisijos reglamente nustatyta tvarka.
+
+7. Kitos šio įstatymo nuostatos, susijusios su procedūromis, taikomomis įprastam Vyriausiosios rinkimų komisijos posėdžiui, Vyriausiosios rinkimų komisijos posėdį organizuojant nuotoliniu būdu suprantamos ir taikomos mutatis mutandis atsižvelgiant į Vyriausiosios rinkimų komisijos posėdžio organizavimo nuotoliniu būdu specifiką.
+
+Papildyta straipsniu:
+
+Nr. XIV-146, 2020-12-23, paskelbta TAR 2020-12-30, i. k. 2020-29111
 
