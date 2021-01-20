@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2020-11-14"
+last_updated: "2021-01-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2020-11-14 iki 2021-01-19
+Suvestinė redakcija nuo 2021-01-20 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -606,13 +606,13 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
 23) nedarbo socialinio draudimo išmoka, mokama pagal Lietuvos Respublikos nedarbo socialinio draudimo įstatymą, darbo paieškos išmoka, mokama pagal Užimtumo įstatymą.
 
-23 punkto redakcija nuo 2021-01-01:
-
-23) nedarbo socialinio draudimo išmoka, mokama pagal Lietuvos Respublikos nedarbo socialinio draudimo įstatymą;.
-
 Papildyta straipsnio punktu:
 
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-160, 2021-01-12, paskelbta TAR 2021-01-19, i. k. 2021-00837
 
 2. Apskaičiuojant šio straipsnio 1 dalyje nurodytas vidutines mėnesio pajamas, į bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamas neįskaitoma šio straipsnio 1 dalies 1, 7, 71 ir 23 punktuose nurodytų pajamų dalis:
 
