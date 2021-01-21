@@ -4,7 +4,7 @@ identifier: "TAR.46EF9E1D52E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-29"
-last_updated: "2021-01-01"
+last_updated: "2021-01-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-01-20
+Suvestinė redakcija nuo 2021-01-21 iki 2022-01-13
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
 
@@ -180,7 +180,11 @@ PRIĖMIMAS Į DIPLOMATINĘ TARNYBĄ
 
 1) būti Lietuvos Respublikos pilietis ir mokėti valstybinę lietuvių kalbą;
 
-2) būti ne jaunesnis kaip 18 metų ir ne vyresnis kaip 65 metų. Reikalavimas būti ne vyresniam kaip 65 metų netaikomas politinio (asmeninio) pasitikėjimo valstybės tarnautojams, su kuriais sudaroma terminuota diplomato tarnybos sutartis;
+2) būti ne jaunesnis kaip 18 metų ir ne vyresnis kaip 65 metų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 3) būti nepriekaištingos reputacijos;
 
@@ -440,7 +444,11 @@ DIPLOMATO DARBAS IR DIPLOMATO IR JO ŠEIMOS NARIŲ TEISINĖ PADĖTIS
 
 3. Pasibaigus terminuotai diplomato tarnybos sutarčiai, asmuo, su kuriuo buvo sudaryta terminuota diplomato tarnybos sutartis pagal šio įstatymo 28 straipsnio 2 ar 3 dalį, gali kreiptis į užsienio reikalų ministrą, kad su juo būtų sudaryta diplomato tarnybos sutartis šio įstatymo 28 straipsnio 7 dalyje nustatyta tvarka. Jis taip pat turi teisę per 3 mėnesius nuo terminuotos diplomato tarnybos sutarties pasibaigimo grįžti į iki terminuotos diplomato tarnybos sutarties sudarymo eitas ar, jeigu tokios galimybės nėra, į kitas ne mažiau negu iki terminuotos diplomato tarnybos sutarties sudarymo apmokamas karjeros valstybės tarnautojo, statutinio valstybės tarnautojo ar pareigūno pareigas valstybės ar savivaldybės institucijoje ar įstaigoje arba kitoje iš valstybės ar savivaldybės biudžetų finansuojamoje įstaigoje ar organizacijoje, kurioje dirbo iki terminuotos diplomato tarnybos sutarties sudarymo, jeigu tokią galimybę nustato atitinkami įstatymai ar statutai.
 
-4. Jeigu terminuotai diplomato tarnybos sutarčiai pasibaigus asmenį Respublikos Prezidentas vėl skiria diplomatiniu atstovu arba užsienio reikalų ministras pakartotinai skiria dirbti diplomatinėje atstovybėje laikinuoju reikalų patikėtiniu, konsulinės įstaigos vadovu ar ministru patarėju, su juo sudaroma nauja terminuota diplomato tarnybos sutartis.
+4. Jeigu terminuotai diplomato tarnybos sutarčiai pasibaigus asmenį Respublikos Prezidentas vėl skiria diplomatiniu atstovu, su juo sudaroma nauja terminuota diplomato tarnybos sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 46 straipsnis. Nuotolinis darbas
 
@@ -560,7 +568,11 @@ Laikinasis reikalų patikėtinis atstovauja Lietuvos Respublikai užsienio valst
 
 7) valstybės pripažįstamų tradicinių Lietuvos bažnyčių ir religinių organizacijų aukščiausiesiems hierarchams (Lietuvos katalikų bažnyčios kardinolams ir vyskupams, kitų konfesijų to paties lygio dvasininkams);
 
-8) diplomatams;
+8) diplomatams, užsienio reikalų viceministrams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 9) asmenims, kuriuos Respublikos Prezidentas, Vyriausybė ar užsienio reikalų ministras siunčia į užsienio valstybes su specialiąja misija;
 
@@ -862,7 +874,11 @@ Diplomatinė atstovybė, konsulinė įstaiga ir specialioji misija finansuojamos
 
 1. Terminuota diplomato tarnybos sutartis yra asmens, priimamo į diplomatinę tarnybą nustatytam terminui, ir Užsienio reikalų ministerijos rašytinis susitarimas, kuriuo asmuo įsipareigoja tam tikrą laiką eiti sutartyje nurodytas pareigas ir vykdyti jam šio įstatymo, kitų įstatymų ir teisės aktų nustatytus reikalavimus, o Užsienio reikalų ministerija įsipareigoja mokėti jam šio įstatymo nustatytą darbo užmokestį, išskyrus darbo užmokestį šio straipsnio 3 dalyje nurodytiems asmenims. Terminuotos diplomato tarnybos sutarties formą tvirtina užsienio reikalų ministras.
 
-2. Su asmeniu, Respublikos Prezidento skiriamu diplomatiniu atstovu ir iki paskyrimo nesudariusiu su Užsienio reikalų ministerija diplomato tarnybos sutarties, su asmeniu, užsienio reikalų ministro skiriamu užsienio reikalų viceministru, ir su asmeniu, užsienio reikalų ministro skiriamu laikinuoju reikalų patikėtiniu diplomatinėje atstovybėje, konsulinės įstaigos vadovu ar ministru patarėju, jeigu jie iki šio paskyrimo dienos nėra sudarę su Užsienio reikalų ministerija diplomato tarnybos sutarties, sudaroma terminuota diplomato tarnybos sutartis.
+2. Su asmeniu, Respublikos Prezidento skiriamu diplomatiniu atstovu ir iki paskyrimo nesudariusiu su Užsienio reikalų ministerija diplomato tarnybos sutarties, sudaroma terminuota diplomato tarnybos sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 3. Jeigu Respublikos Prezidentas, Seimo Pirmininkas ar Ministras Pirmininkas siūlo priimti į diplomatinę tarnybą asmenį, kuris eina pareigas, susijusias su užsienio politikos įgyvendinimu, Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, su šiuo asmeniu yra sudaroma terminuota diplomato tarnybos sutartis. Darbo užmokestį šiam asmeniui moka įstatymų nustatyta tvarka ta institucija, kurioje jis eina pareigas. Terminuotos diplomato tarnybos sutarties, sudaromos su šioje dalyje nurodytu asmeniu, terminas apibrėžiamas jo darbo einant šias pareigas, kai jis buvo pasiūlytas į diplomatinę tarnybą, terminu.
 
@@ -1378,7 +1394,11 @@ Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
 
 91 straipsnis. Diplomato amžiaus apribojimas
 
-1. Diplomatu gali dirbti asmuo, ne vyresnis kaip 65 metų, išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojus, su kuriais sudaroma terminuota diplomato tarnybos sutartis.
+1. Diplomatu gali dirbti asmuo, ne vyresnis kaip 65 metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 2. Su diplomatu, kuriam suėjo 65 metai ir kurio diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 1 dalies 5 punktą, Vyriausybės nustatyta tvarka gali būti sudaroma terminuota darbo sutartis dėl mentorystės ne ilgesniam kaip 2 metų laikotarpiui.
 
@@ -1398,13 +1418,21 @@ DIPLOMATO TARNYBOS SUTARTIES IR TERMINUOTOS DIPLOMATO TARNYBOS SUTARTIES NUTRAUK
 
 4) įsiteisėja teismo nuosprendis, kuriuo jam paskirta bausmė už sunkų ar labai sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką arba bausmė už nusikaltimo padarymą tyčia arba kuriuo diplomatui skiriama bausmė, dėl kurios negalima tęsti tarnybos;
 
-5) diplomatui sukanka šio įstatymo 91 straipsnio 1 dalyje nurodytas amžius, išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautoją, su kuriuo sudaryta terminuota diplomato tarnybos sutartis;
+5) diplomatui sukanka šio įstatymo 91 straipsnio 1 dalyje nurodytas amžius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 6) paskirta tarnybinė nuobauda – diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas;
 
 7) diplomatas netenka leidimo dirbti ar susipažinti su įslaptinta informacija;
 
-8) politinio (asmeninio) pasitikėjimo valstybės tarnautojas, su kuriuo sudaryta terminuota diplomato tarnybos sutartis, atleidžiamas iš pareigų Valstybės tarnybos įstatymo nustatytais pagrindais ir tvarka;
+8) Neteko galios nuo 2021-01-21
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 Straipsnio punkto pakeitimai:
 
@@ -1456,7 +1484,11 @@ Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
 
 12. Su diplomatiniu atstovu sudaryta terminuota diplomato tarnybos sutartis nutraukiama, jeigu diplomatinis atstovas atsistatydina. Diplomatinio atstovo, su kuriuo sudaryta diplomato tarnybos sutartis, atsistatydinimas iš diplomatinio atstovo pareigų nenutraukia diplomato tarnybos sutarties. Tokiu atveju vadovaujamasi šio įstatymo 44 straipsnio nuostatomis.
 
-13. Jeigu diplomatas tampa valstybės politiku arba pradeda eiti politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas, diplomato tarnybos sutartis turi būti nutraukta, išskyrus šio įstatymo 28 straipsnio 2 dalyje nustatytą atvejį, kai asmuo, užsienio reikalų ministro skiriamas užsienio reikalų viceministru, jo skyrimo metu yra sudaręs diplomato tarnybos sutartį. Šie asmenys turi teisę atkurti diplomato statusą šio įstatymo 62 straipsnio 5 dalyje nustatyta tvarka.
+13. Jeigu diplomatas tampa valstybės politiku arba pradeda eiti politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas, diplomato tarnybos sutartis turi būti nutraukta, išskyrus atvejį, kai asmuo, užsienio reikalų ministro skiriamas užsienio reikalų viceministru, jo skyrimo metu yra sudaręs diplomato tarnybos sutartį. Šie asmenys turi teisę atkurti diplomato statusą šio įstatymo 62 straipsnio 5 dalyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 93 straipsnis. Diplomato teisė reikalauti, kad jam būtų praneštos diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimo priežastys
 
@@ -1492,7 +1524,11 @@ Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
 
 3. Šio straipsnio 2 dalyje nustatyta išeitinė išmoka pradedama mokėti praėjus mėnesiui nuo diplomato tarnybos ar terminuotos diplomato tarnybos sutarties nutraukimo dienos ir mokama kas mėnesį lygiomis dalimis. Jos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas arba dirbti pagal darbo sutartį ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos. Diplomatui mirus, išeitinės išmokos dalis, priklausanti diplomatui už tą mėnesį, kurį jis mirė, neišmokėta iki diplomato mirties dienos, išmokama įpėdiniui, pateikusiam paveldėjimo dokumentus.
 
-4. Kai diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 3 dalį arba kai diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 1 dalies 8 punktą, 92 straipsnio 2 dalies 2 punktą arba 92 straipsnio 8 dalį, diplomatui išmokama kompensacija. Kompensacijos dydis apskaičiuojamas pareiginę algą dauginant iš diplomatinėje tarnyboje išdirbtų pilnų metų skaičiaus ir dauginant iš koeficiento 0,5, bet ne daugiau kaip iš 12. Ši kompensacija išmokama lygiomis dalimis per 3 mėnesius nuo sutarties nutraukimo dienos, mokant po vieną dalį kas mėnesį.
+4. Kai diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 3 dalį arba kai diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 2 dalies 2 punktą arba 92 straipsnio 8 dalį, diplomatui išmokama kompensacija. Kompensacijos dydis apskaičiuojamas pareiginę algą dauginant iš diplomatinėje tarnyboje išdirbtų pilnų metų skaičiaus ir dauginant iš koeficiento 0,5, bet ne daugiau kaip iš 12. Ši kompensacija išmokama lygiomis dalimis per 3 mėnesius nuo sutarties nutraukimo dienos, mokant po vieną dalį kas mėnesį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 5. Užsienio reikalų ministerija su diplomatu, su kuriuo nutraukiama diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis, privalo visiškai atsiskaityti ne vėliau kaip jos nutraukimo dieną, išskyrus šio straipsnio 1 dalyje nurodytą išeitinę išmoką, kai atliekamas tarnybinio nusižengimo tyrimas, šio straipsnio 2 dalyje nurodytą išeitinę išmoką ir kompensaciją, nurodytą šio straipsnio 4 dalyje. Jeigu uždelsiama atsiskaityti dėl Užsienio reikalų ministerijos kaltės, diplomatui sumokamas vidutinis darbo užmokestis už uždelstą laikotarpį.
 
