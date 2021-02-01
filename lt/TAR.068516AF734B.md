@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2021-01-01"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-01-31
+Suvestinė redakcija nuo 2021-02-01 iki 2021-06-15
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
 
@@ -457,11 +457,21 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 
 3. Asmenys, gaunantys pajamas iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, laikomi apdraustaisiais nuo valstybinio socialinio draudimo pradžios datos iki draudžiamojo įvykio dienos, jeigu per šį laikotarpį buvo sumokėtos valstybinio socialinio draudimo įmokos nuo pajamų sumos, ne mažesnės kaip šio laikotarpio minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys apdraustaisiais laikomi ne ilgesnį kaip 24 mėnesių laikotarpį nuo valstybinio socialinio draudimo pradžios datos.
 
-4. Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodyti asmenys laikomi apdraustaisiais, jeigu jie Valstybinio socialinio draudimo įstatyme nustatyta tvarka ir terminais iki pirmosios laikinojo nedarbingumo ar profesinės reabilitacijos programos dienos arba iki jų prilyginimo pagal šio įstatymo 5 straipsnio 4 dalį asmenims, kuriems suteiktos nėštumo ir gimdymo, tėvystės ar vaiko priežiūros atostogos, yra sumokėję ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas už paskutinį pagal Valstybinio socialinio draudimo įstatymą nustatytą laikotarpį.
+4. Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodyti asmenys laikomi apdraustaisiais, jeigu jie:
+
+1) Valstybinio socialinio draudimo įstatyme nustatyta tvarka ir terminais iki pirmosios laikinojo nedarbingumo ar profesinės reabilitacijos programos dienos arba iki jų prilyginimo pagal šio įstatymo 5 straipsnio 4 dalį asmenims, kuriems suteiktos nėštumo ir gimdymo, tėvystės ar vaiko priežiūros atostogos, yra sumokėję ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas už kalendorinį mėnesį, ėjusį prieš kalendorinį mėnesį, kurį jie įgijo teisę į ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmoką (toliau – praėjęs mėnuo);
+
+2) Valstybinio socialinio draudimo įstatyme nustatyta tvarka ir terminais iki pirmosios laikinojo nedarbingumo ar profesinės reabilitacijos programos dienos arba iki jų prilyginimo pagal šio įstatymo 5 straipsnio 4 dalį asmenims, kuriems suteiktos nėštumo ir gimdymo, tėvystės ar vaiko priežiūros atostogos, yra sumokėję ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas už einamąjį kalendorinį mėnesį, jeigu jų teisė į ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmoką atsirado veiklos vykdymo pradžios kalendorinį mėnesį ar ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokos už praėjusį mėnesį nebuvo mokėtos dėl to, kad šie asmenys praėjusį mėnesį buvo laikinai nedarbingi arba gavo šio įstatymo nustatytas ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokas;
+
+3) teisę į naują ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmoką įgyja be pertraukos kitą dieną po ankstesnės ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokos mokėjimo pabaigos, o ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas anksčiau paskirtai ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokai gauti yra sumokėję šio straipsnio 1 ar 2 punkte nustatyta tvarka.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
 
 5. Valstybinio socialinio draudimo įstatymo 6 straipsnio 1, 4 ir 7 dalyse nurodyti asmenys laikomi apdraustaisiais, jeigu už juos mokamos ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokos.
 
