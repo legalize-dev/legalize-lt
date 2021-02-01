@@ -4,7 +4,7 @@ identifier: "TAR.FC7AB69BE291"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-12"
-last_updated: "2021-01-01"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-01-31
+Suvestinė redakcija nuo 2021-02-01 iki 2021-06-29
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
 
@@ -2377,9 +2377,9 @@ Nr. XIII-3107, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15316
 
 11. Tinklų operatorių sąnaudos, susijusios su gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, elektros įrenginių prijungimu prie elektros tinklų, paskirstomos tokia tvarka:
 
-1) kai prijungiami elektros vartojimo ir gamybos įrenginiai, buitiniai vartotojai, įskaitant ir pažeidžiamus vartotojus, apmoka 20 procentų skirstomųjų tinklų operatoriaus sąnaudų, o kiti vartotojai – 40 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Valstybinės energetikos reguliavimo tarybos patvirtintą įkainį;
+1) kai prijungiami elektros vartojimo ir gamybos įrenginiai, pažeidžiami vartotojai apmoka 20 procentų skirstomųjų tinklų operatoriaus sąnaudų, o kiti vartotojai – 50 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Valstybinės energetikos reguliavimo tarybos patvirtintą įkainį;
 
-2) kai prijungiami elektros gamybos įrenginiai, o elektros vartojimo įrenginiai yra prijungti prie skirstomųjų tinklų, vartotojai apmoka 100 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Valstybinės energetikos reguliavimo tarybos patvirtintą įkainį;
+2) kai prijungiami elektros gamybos įrenginiai, o elektros vartojimo įrenginiai yra prijungti prie skirstomųjų tinklų, vartotojai apmoka 50 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Valstybinės energetikos reguliavimo tarybos patvirtintą įkainį;
 
 3) kai prijungiami elektros energijos gamybos įrenginiai, kurių prijungimo prie elektros tinklų taškas nesutampa su elektros energijos vartojimo vietos prijungimo tašku, vartotojai apmoka 100 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Valstybinės energetikos reguliavimo tarybos patvirtintą įkainį.
 
@@ -2387,7 +2387,19 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
-12. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 11 dalyje, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas gaminantis vartotojas ar asmuo, siekiantis tapti gaminančiu vartotoju, taikant šio straipsnio 11 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, nurodytų šio straipsnio 11 dalies 2 ir 3 punktuose, elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, nurodytų šio straipsnio 11 dalies 1 punkte, išskyrus buitinius ir pažeidžiamus vartotojus, elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis.
+Nr. XIII-3338, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22206
+
+111. Kai gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, elektros įrenginiams, nurodytiems šio straipsnio 11 dalies 1 ir 2 punktuose, prijungti reikia įrengti skirstomuosius tinklus pagal kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą ir prijungimo paslaugos kaina nėra apskaičiuojama vadovaujantis Valstybinės energetikos reguliavimo tarybos patvirtintais įkainiais ir kai gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, skirstomųjų tinklų įrengimo darbų sąnaudos yra ne mažiau kaip 10 procentų mažesnės negu skirstomųjų tinklų operatoriaus apskaičiuotos, gaminantys vartotojai ar asmenys, siekiantys tapti gaminančiais vartotojais, turi teisę Energetikos ministerijos nustatyta tvarka, suderinę su skirstomųjų tinklų operatoriumi, vykdyti ir (ar) organizuoti skirstomųjų tinklų įrengimo darbus. Skirstomųjų tinklų operatorius Energetikos ministerijos nustatyta tvarka padengia 80 procentų skirstomųjų tinklų įrengimo darbų sąnaudų, kai skirstomieji tinklai įrengiami pažeidžiamų vartotojų elektros įrenginiams, nurodytiems šio straipsnio 11 dalies 1 punkte, prijungti, ir 50 procentų skirstomųjų tinklų įrengimo darbų sąnaudų, kai skirstomieji tinklai įrengiami kitų vartotojų elektros įrenginiams, nurodytiems šio straipsnio 11 dalies 1 ar 2 punkte, prijungti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3338, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22206
+
+12. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 11 dalyje, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas gaminantis vartotojas ar asmuo, siekiantis tapti gaminančiu vartotoju, taikant šio straipsnio 11 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 50 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, nurodytų šio straipsnio 11 dalies 2 punkte, elektros įrenginius, 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, nurodytų šio straipsnio 11 dalies 3 punkte, elektros įrenginius, arba 50 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, nurodytų šio straipsnio 11 dalies 1 punkte, išskyrus pažeidžiamus vartotojus, elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3338, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22206
 
 13. Gaminančių vartotojų kaupimo laikotarpis taikomas iki 2040 m. balandžio 1 d.
 
