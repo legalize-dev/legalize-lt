@@ -4,7 +4,7 @@ identifier: "TAR.9F0EEBEC3B24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-06-12"
-last_updated: "2014-05-21"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0EEBEC3B24"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2014-05-21 iki 2021-02-11
+Suvestinė redakcija nuo 2021-02-12 iki 2021-10-31
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 18-468, i. k. 0901010ISTA000I-281
 
@@ -342,6 +342,12 @@ UNIVERSITETO AKADEMINĖ BENDRUOMENĖ
 8. Į dėstytojo ar mokslo (meno) darbuotojo pareigas asmuo rektoriaus sprendimu gali būti priimamas ir nesurengus viešo konkurso pagal terminuotą darbo sutartį, bet ne ilgiau kaip 2 metams, išskyrus Statuto 22 straipsnio 2 dalyje nurodytus atvejus.
 
 9. Dėstytojai ir mokslo (meno) darbuotojai, su kuriais yra sudaryta neterminuota darbo sutartis, yra atestuojami kas 5 metai. Pirmoji tokia atestacija rengiama likus ne daugiau kaip 3 mėnesiams iki 5 metų po neterminuotos darbo sutarties sudarymo pabaigos. Jeigu dėstytojas ar mokslo (meno) darbuotojas nėra atestuojamas, darbo sutartis su juo nutraukiama. Atsižvelgiant į neatestuoto asmens profesinę kvalifikaciją, dalykines savybes ir kitas svarbias aplinkybes, jam gali būti pasiūlytos kitos dėstytojo ar mokslo (meno) darbuotojo pareigos, bet ne ilgiau kaip 2 metams. Vyresni kaip 65 metų dėstytojai ir mokslo (meno) darbuotojai gali dirbti Universitete, jeigu Senatas pritaria, kad su jais būtų sudaryta terminuota darbo sutartis ne ilgesniam kaip 3 metų laikotarpiui. Tokia sutartis Senato sprendimu vieną kartą gali būti sudaroma pakartotinai.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymu (2014 m. gegužės 6 d. redakcija, TAR, 2014-05-20, Nr. 5522) patvirtinto Vilniaus universiteto statuto 15 straipsnio 9 dalies nuostata „Vyresni kaip 65 metų dėstytojai ir mokslo (meno) darbuotojai gali dirbti Universitete, jeigu Senatas pritaria, kad su jais būtų sudaryta terminuota darbo sutartis ne ilgesniam kaip 3 metų laikotarpiui. Tokia sutartis Senato sprendimu vieną kartą gali būti sudaroma pakartotinai“ tiek, kiek šia nuostata sudarytos prielaidos Senatui savo nuožiūra, nesant iš anksto žinomų kriterijų, pritarti terminuotų darbo sutarčių su vyresniais kaip 65 metų amžiaus dėstytojais ir mokslo (meno) darbuotojais sudarymui, prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 48 straipsnio 1 dalies nuostatai „Kiekvienas žmogus gali laisvai pasirinkti darbą bei verslą“, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT29-N1/2021, 2021-02-12, paskelbta TAR 2021-02-12, i. k. 2021-02775
 
 10. Universiteto teisės aktuose nustatytais atvejais ir tvarka gali būti rengiama neeilinė dėstytojo ar mokslo (meno) darbuotojo atestacija. Jeigu dėstytojas ar mokslo (meno) darbuotojas nėra atestuojamas, darbo sutartis su juo nutraukiama. Atsižvelgiant į neatestuoto asmens profesinę kvalifikaciją, dalykines savybes ir kitas svarbias aplinkybes, jam gali būti pasiūlytos kitos dėstytojo ar mokslo (meno) darbuotojo pareigos, bet ne ilgiau kaip 2 metams.
 
@@ -1240,4 +1246,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-862, 2014-05-06, paskelbta TAR 2014-05-20, i. k. 2014-05522
 
 Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymo Nr. I-281 pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT29-N1/2021, 2021-02-12, paskelbta TAR 2021-02-12, i. k. 2021-02775
+
+Dėl Lietuvos Respublikos Vilniaus universiteto statuto 15 straipsnio 9 dalies nuostatos atitikties Lietuvos Respublikos Konstitucijai
 
