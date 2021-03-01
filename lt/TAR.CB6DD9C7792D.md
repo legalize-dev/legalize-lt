@@ -4,7 +4,7 @@ identifier: "TAR.CB6DD9C7792D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-05-16"
-last_updated: "2017-01-01"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB6DD9C7792D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VYSTOMOJO BENDRADARBIAVIMO IR HUMANITARINĖS
 
 PAGALBOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2017-01-01 iki 2021-02-28
+Suvestinė redakcija nuo 2021-03-01 iki 2023-12-22
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 57-2850, i. k. 1131010ISTA0XII-311
 
@@ -128,7 +128,11 @@ Lietuvos vystomojo bendradarbiavimo politikoje laikomasi šių principų:
 
 2) informuojant ir šviečiant visuomenę vystomojo bendradarbiavimo klausimais.
 
-2. Dvišalė ir daugiašalė parama vystymuisi gali būti teikiama per projektus ir programas kaip techninė parama, deleguotasis bendradarbiavimas, pagalba valstybės partnerės prekybos sistemai vystyti, privačiam sektoriui plėtoti (įskaitant lengvatinių paskolų ir garantijų teikimą ir dalyvavimą valstybių partnerių privataus sektoriaus ūkio subjektuose) ir pilietinei visuomenei stiprinti, kitų valstybių lėšomis vykdomų projektų ir programų bendrasis finansavimas, taip pat per paramą biudžetui. Projektus ir programas gali įgyvendinti Lietuvos ir užsienio valstybių subjektai.
+2. Dvišalė ir daugiašalė parama vystymuisi gali būti teikiama per projektus ir programas kaip techninė parama, deleguotasis bendradarbiavimas, pagalba valstybės partnerės prekybos sistemai vystyti, privačiam sektoriui plėtoti (įskaitant lengvatinių paskolų ir garantijų teikimą ir dalyvavimą valstybių partnerių privataus sektoriaus ūkio subjektuose) ir pilietinei visuomenei stiprinti, tarptautinių donorų lėšomis vykdomų projektų ir programų bendrasis finansavimas, taip pat per paramą biudžetui. Projektus ir programas gali įgyvendinti Lietuvos ir užsienio valstybių subjektai pagal skelbiamus konkursus arba tiesioginio finansavimo būdu, mutatis mutandis taikant 2018 m. liepos 18 d. Europos Parlamento ir Tarybos reglamento (ES, Euratomas) 2018/1046 dėl Sąjungos bendrajam biudžetui taikomų finansinių taisyklių, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1296/2013, (ES) Nr. 1301/2013, (ES) Nr. 1303/2013, (ES) Nr. 1304/2013, (ES) Nr. 1309/2013, (ES) Nr. 1316/2013, (ES) Nr. 223/2014, (ES) Nr. 283/2014 ir Sprendimas Nr. 541/2014/ES, bei panaikinamas Reglamentas (ES, Euratomas) Nr. 966/2012, 195 straipsnio nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 7 straipsnis. Vystomojo bendradarbiavimo politikos formavimas, įgyvendinimas ir koordinavimas
 
@@ -148,13 +152,17 @@ Lietuvos vystomojo bendradarbiavimo politikoje laikomasi šių principų:
 
 2. Lietuvos Respublikos finansų ministerija yra atsakinga už vystomojo bendradarbiavimo politikos įgyvendinimo koordinavimą su tarptautinėmis finansų institucijomis ir lėšų narystės tarptautinėse finansų institucijose įnašams sumokėti, įskaitant dalį įmokų į ES biudžetą, planavimą valstybės biudžete Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nustatyta tvarka.
 
-3. Dalyvaudama įgyvendinant Programą, CPVA užsienio reikalų ministro nustatyta tvarka iš Programai skiriamų lėšų:
+3. CPVA užsienio reikalų ministro nustatyta tvarka iš Programai skiriamų lėšų ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka iš šio įstatymo 13 straipsnyje nurodytam Vystomojo bendradarbiavimo ir humanitarinės pagalbos fondui (toliau – Fondas) skiriamų lėšų:
 
-1) organizuoja Programos lėšomis finansuojamų vystomojo bendradarbiavimo projektų atranką, sudaro atrinktų projektų įgyvendinimo sutartis ir vykdo jų įgyvendinimo priežiūrą;
+1) organizuoja Programos ir Fondo lėšomis finansuojamų vystomojo bendradarbiavimo projektų atranką, sudaro atrinktų projektų įgyvendinimo sutartis ir vykdo jų įgyvendinimo priežiūrą;
 
-2) prisideda prie valstybės ir savivaldybių institucijų ir įstaigų darbuotojų gebėjimų rengti ir įgyvendinti vystomojo bendradarbiavimo projektus tobulinimo;
+2) prisideda prie valstybės ir savivaldybių institucijų ir įstaigų, nevyriausybinių organizacijų darbuotojų gebėjimų rengti ir įgyvendinti vystomojo bendradarbiavimo projektus tobulinimo;
 
-3) bendradarbiaudama su Užsienio reikalų ministerija renka ir teikia valstybės ir savivaldybių institucijoms ir įstaigoms informaciją apie numatomus skelbti ir (arba) paskelbtus konkursus dėl vystomojo bendradarbiavimo projektų, kurie finansuojami tarptautinių donorų lėšomis.
+3) bendradarbiaudama su Užsienio reikalų ministerija, renka ir teikia valstybės ir savivaldybių institucijoms, įstaigoms, taip pat nevyriausybinėms organizacijoms informaciją apie numatomus skelbti ir (arba) paskelbtus konkursus dėl vystomojo bendradarbiavimo projektų, kurie finansuojami tarptautinių donorų lėšomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 4. Vyriausybės nustatyta tvarka CPVA iš valstybės ir savivaldybių institucijoms ir įstaigoms skiriamų vystomojo bendradarbiavimo veiklai ar gaunamų vykdant šią veiklą lėšų:
 
@@ -164,9 +172,17 @@ Lietuvos vystomojo bendradarbiavimo politikoje laikomasi šių principų:
 
 3) dalyvaudama įgyvendinant šio įstatymo 8 straipsnio 2 dalyje nurodytas programas, sudaro sutartis, vykdo jų įgyvendinimo priežiūrą ir atlieka lėšų panaudojimo kontrolę.
 
-5. Vyriausybės nustatyta tvarka šio straipsnio 3 dalyje nurodytus vystomojo bendradarbiavimo projektus atrenka Užsienio reikalų ministerija, o šio straipsnio 4 dalyje nurodytus vystomojo bendradarbiavimo projektus – valstybės ir savivaldybių institucijos ir įstaigos.
+5. Vyriausybės nustatyta tvarka šio straipsnio 3 dalyje nurodytus vystomojo bendradarbiavimo Programos lėšomis finansuojamus projektus atrenka Užsienio reikalų ministerija, šio straipsnio 4 dalyje nurodytus vystomojo bendradarbiavimo projektus – valstybės ir savivaldybių institucijos, o šio įstatymo 13 straipsnio 3 dalyje nurodytus dvišalės paramos vystymuisi projektus, finansuojamus Fondo lėšomis, – Fondo taryba.
 
-6. Šio straipsnio 3 dalyje nurodytos funkcijos neapriboja CPVA galimybių dalyvauti Užsienio reikalų ministerijos tiesiogiai įgyvendinamuose ir administruojamuose vystomojo bendradarbiavimo projektuose, kai šie finansuojami Programos lėšomis.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
+
+6. Šio straipsnio 3 dalyje nurodytos funkcijos neapriboja CPVA galimybių dalyvauti Užsienio reikalų ministerijos tiesiogiai įgyvendinamuose ir administruojamuose vystomojo bendradarbiavimo projektuose, kai šie finansuojami Programos ir (ar) Fondo lėšomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 7. Valstybės ir savivaldybių institucijos ir įstaigos Vyriausybės nustatyta tvarka:
 
@@ -192,13 +208,27 @@ Lietuvos vystomojo bendradarbiavimo politikoje laikomasi šių principų:
 
 5) svarsto valstybės ir savivaldybių institucijų ir įstaigų vystomojo bendradarbiavimo veiklos ataskaitas ir vertina jų atitiktį Lietuvos vystomojo bendradarbiavimo politikos tikslams ir principams;
 
-6) svarsto kitus su vystomuoju bendradarbiavimu susijusius klausimus.
+6) teikia siūlymus Fondo tarybai dėl Fondo lėšų paskirstymo prioritetų, sričių ir krypčių;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
+
+7) svarsto kitus su vystomuoju bendradarbiavimu susijusius klausimus.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 10. Pilietinė visuomenė, įskaitant nevyriausybines organizacijas, dalyvauja įgyvendinant vystomojo bendradarbiavimo politiką, informuoja ir šviečia visuomenę vystomojo bendradarbiavimo klausimais, formuoja teigiamą visuomenės požiūrį į vystomąjį bendradarbiavimą ir skatina prisidėti prie jo plėtojimo ir stiprinimo.
 
 8 straipsnis. Vystomojo bendradarbiavimo politikos finansavimas
 
-1. Vystomojo bendradarbiavimo veikla finansuojama iš Užsienio reikalų ministerijai, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms patvirtintų biudžeto asignavimų ir kitomis įstatymų nustatyta tvarka gautomis lėšomis, kurios, remiantis EBPO metodologija, laikomos oficialia parama vystymuisi.
+1. Vystomojo bendradarbiavimo veikla finansuojama iš Užsienio reikalų ministerijai, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms patvirtintų biudžeto asignavimų, Fondo lėšomis ir kitomis įstatymų nustatyta tvarka gautomis lėšomis, kurios, remiantis EBPO metodologija, laikomos oficialia parama vystymuisi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 2. Programų, skirtų konkretiems vystomojo bendradarbiavimo tikslams pasiekti, lėšų šaltiniais gali būti dotacijos iš valstybės biudžeto, užsienio valstybių, tarptautinių organizacijų, finansinių institucijų savanoriški tiksliniai įnašai, savanoriškos fizinių ir juridinių asmenų lėšos, palūkanos už bankuose saugomas lėšas ir kitos teisėtai įgytos lėšos. Tokių programų valdymą nustato susitarimas tarp programos donorų, o kai tokio susitarimo nėra, – Vyriausybės patvirtintas programos aprašas. Programos lėšos kaupiamos atskiroje sąskaitoje, kurią atidaro programos donorų susitarime arba programos apraše nurodyta institucija.
 
@@ -242,15 +272,37 @@ Lietuvos vystomojo bendradarbiavimo politikoje laikomasi šių principų:
 
 12 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų darbuotojų dalyvavimas vystomojo bendradarbiavimo projektuose
 
-1. Vystomojo bendradarbiavimo projektą įgyvendinančių valstybės ir savivaldybių institucijų ir įstaigų darbuotojams, dalyvaujantiems projekte, (toliau – darbuotojai) iš šio projekto lėšų gali būti mokamas darbo užmokestis. Darbo užmokestis už dalyvavimą projekte mokamas pagal projekto sutartyje nustatytas sąlygas ir įkainius. Jeigu tokios sąlygos ir įkainiai nėra nustatyti, darbo užmokesčio už dalyvavimą projekte dydį nustato projektą įgyvendinančių valstybės ir savivaldybių institucijų ir įstaigų vadovai, tačiau ne didesnį negu 3, o projekto vadovui – ne didesnį negu 4 Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžio. Už laiką, kurį darbuotojai dalyvauja projekte ir už kurį gauna darbo užmokestį iš projekto lėšų, darbo užmokestis iš kitų valstybės ir savivaldybių institucijų ir įstaigų lėšų jiems nemokamas.
+1. Vystomojo bendradarbiavimo projektą įgyvendinančių valstybės ir savivaldybių institucijų ir įstaigų darbuotojams, dalyvaujantiems projekte (toliau – darbuotojai), iš šio projekto lėšų gali būti mokamas darbo užmokestis. Darbo užmokestis už dalyvavimą projekte mokamas pagal projekto sutartyje nustatytas sąlygas ir įkainius. Jeigu tokios sąlygos ir įkainiai nėra nustatyti, darbo užmokesčio už dalyvavimą projekte dydį nustato projektą įgyvendinančių valstybės ir savivaldybių institucijų ir įstaigų vadovai, neviršydami įgyvendinamam projektui nustatyto biudžeto. Už laiką, kurį darbuotojai dalyvauja projekte ir už kurį gauna darbo užmokestį iš projekto lėšų, darbo užmokestis iš kitų valstybės ir savivaldybių institucijų ir įstaigų lėšų jiems nemokamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 2. Kai valstybės ir savivaldybių institucijose ir įstaigose dėl darbuotojų dalyvavimo vystomojo bendradarbiavimo projekte šalių susitarimu yra nutraukiama darbo sutartis, darbuotojai turi teisę per 3 mėnesius nuo projekto pabaigos grįžti į tas pačias pareigas valstybės ir savivaldybių institucijose ir įstaigose, kuriose dirbo iki dalyvavimo projekte, išskyrus atvejus, kai pagal įstatymus pareigoms eiti turi būti skelbiamas konkursas. Tais atvejais, kai nėra galimybės grįžti į tas pačias pareigas, darbuotojai per šioje dalyje nustatytą terminą turi teisę grįžti į kitas pareigas, apmokamas ne mažiau negu iki dalyvavimo projekte, tose pačiose valstybės ir savivaldybių institucijose ir įstaigose.
 
 3. Valstybės ir savivaldybių institucijų ir įstaigų valstybės tarnautojų dalyvavimo vystomojo bendradarbiavimo projektuose sąlygas nustato Lietuvos Respublikos valstybės tarnybos įstatymas.
 
+13 straipsnis. Fondas
+
+1. Fondas sudaromas siekiant įgyvendinti šio įstatymo 3 straipsnyje nurodytus Lietuvos vystomojo bendradarbiavimo politikos tikslus. Projektai ir programos Fondo lėšomis yra finansuojami pagal skelbiamus konkursus arba tiesioginio finansavimo būdu.
+
+2. Fondas nėra juridinis asmuo.
+
+3. Fondo lėšos sudaromos iš valstybės biudžeto asignavimų, savivaldybių biudžetų lėšų, užsienio šalių, tarptautinių organizacijų, tarptautinių finansų institucijų ir Lietuvos Respublikos juridinių bei fizinių asmenų savanoriškų tikslinių įnašų, pajamų už investuotas laikinai laisvas lėšas, sugrąžintų projektų lėšų, delspinigių, palūkanų, baudų ir kitų teisėtai gautų lėšų. Planuojant kiekvienų metų valstybės biudžeto asignavimus, Fondui lėšos skiriamos atsižvelgiant į būtinybę tinkamai įgyvendinti šio įstatymo 3 straipsnyje nurodytus Lietuvos vystomojo bendradarbiavimo politikos tikslus siekiant, kad ateityje oficiali Lietuvos parama vystymuisi atitiktų Lietuvos tarptautinius įsipareigojimus. Siekiant užtikrinti daugiašalės ir dvišalės paramos vystymuisi konvergenciją, Fondui skiriami valstybės biudžeto asignavimai gali būti panaudojami tik kaip dvišalė parama vystymuisi ir siekiama šiuos asignavimus didinti atsižvelgiant į Lietuvos tarptautinius įsipareigojimus.
+
+4. Fondas administruojamas pagal šį įstatymą ir kitus teisės aktus, nustatančius valstybės biudžeto lėšų naudojimo principus ir tvarką, ir Vyriausybės patvirtintus Fondo nuostatus. Fondą administruoja CPVA. Fondo lėšos laikomos atskiroje CPVA sąskaitoje banke. Fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti. Per biudžetinius metus nepaskirstytos, taip pat nuo įgyvendinamų projektų likusios nepanaudotos Fondo lėšos lieka Fondo sąskaitoje ir naudojamos kitais biudžetiniais metais.
+
+5. Sprendimus dėl Fondo lėšų skyrimo Fondo nuostatuose nustatyta tvarka priima Fondo taryba. Fondo tarybą sudaro septyni nariai: keturi valstybės institucijų atstovai, po vieną Lietuvos savivaldybių asociacijos, verslo asocijuotų struktūrų ir nevyriausybinių organizacijų atstovą. Fondo tarybai vadovauja pirmininkas, kurį iš narių skiria užsienio reikalų ministras. Fondo tarybos nariu gali būti skiriamas Lietuvos Respublikos valstybės tarnybos įstatyme nustatytus nepriekaištingos reputacijos reikalavimus atitinkantis asmuo. Fondo tarybos institucinę sudėtį užsienio reikalų ministro teikimu trejiems metams tvirtina Vyriausybė. Personalinę Fondo tarybos sudėtį tvirtina užsienio reikalų ministras. Fondo tarybos darbą organizuoja Užsienio reikalų ministerija. Fondo tarybos sudarymo tvarka, Fondo tarybos narių kompetencijos reikalavimai nustatomi Fondo nuostatuose. Fondo tarybos nariams, kurie nėra valstybės institucijų ir įstaigų atstovai, už darbą apmokama Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
+
+6. Fondo veikla nutraukiama įstatymų nustatyta tvarka. Nutraukus Fondo veiklą, jo lėšos, atsižvelgiant į jų šaltinį, pervedamos į valstybės biudžetą arba atitinkamam subjektui, nurodytam šio straipsnio 3 dalyje.
+
+Papildyta straipsniu:
+
+Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 Pakeitimai:
 
@@ -261,4 +313,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2740, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26897
 
 Lietuvos Respublikos vystomojo bendradarbiavimo ir humanitarinės pagalbos įstatymo Nr. XII-311 pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
+
+Lietuvos Respublikos vystomojo bendradarbiavimo ir humanitarinės pagalbos įstatymo Nr. XII-311 6, 7, 8, 12 straipsnių pakeitimo ir Įstatymo papildymo 13 straipsniu įstatymas
 
