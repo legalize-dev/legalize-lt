@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2021-01-01"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-03-31
+Suvestinė redakcija nuo 2021-04-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
 
@@ -623,6 +623,12 @@ Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 5) draudėjo, kurio apdraustųjų asmenų skaičius yra didesnis negu 20, apdraustiesiems asmenims apskaičiuotų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, mediana, standartinis nuokrypis, 25 procentų kvantilis ir 75 procentų kvantilis;
 
 Straipsnio punkto pakeitimai:
+
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+
+6) draudėjo, kurio apdraustųjų asmenų skaičius yra ne mažesnis kaip 8, ir iš jų yra daugiau negu 3 moterys ir daugiau negu 3 vyrai, apdraustiesiems asmenims – moterims – apskaičiuotų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, vidurkis ir apdraustiesiems asmenims – vyrams – apskaičiuotų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, vidurkis. Nustatant draudėjo apdraustųjų asmenų – moterų ir vyrų – skaičių ir skaičiuojant jų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, vidurkius, vertinami tik tų apdraustųjų asmenų, kurių lyties duomuo yra Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registre, duomenys.
+
+Papildyta straipsnio punktu:
 
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
@@ -1240,11 +1246,27 @@ FONDO ADMINISTRAVIMO ĮSTAIGŲ TEISĖS, SPRENDIMŲ IR VEIKSMŲ APSKUNDIMAS
 
 2) kreiptis į įmonių, įstaigų, organizacijų vadovus dėl aplinkybių ir sąlygų, trukdančių Fondo administravimo įstaigų valstybės tarnautojams tinkamai atlikti pareigas. Įmonių, įstaigų, organizacijų vadovai privalo išnagrinėti Fondo administravimo įstaigų valstybės tarnautojų nurodymus ir nedelsdami pranešti Fondo administravimo įstaigai apie priimtas priemones.
 
-6. Fondo valdybos direktorius ir jo pavaduotojai turi teisę atsisakyti socialinio draudimo išmokos arba kitos išmokos, kurios mokėjimas pavestas Fondo valdybos teritoriniams skyriams, permokos išieškojimo, jeigu išmokos permokos nėra galimybės išieškoti arba jeigu ji yra susidariusi ne dėl išmokos gavėjo kaltės (nesąžiningumo) ir nėra galimybės jos išieškoti iš kaltų asmenų (jų teisių ir pareigų perėmėjų), arba jeigu jos neįmanoma išieškoti dėl objektyvių priežasčių, arba ją išieškoti netikslinga socialiniu ir (ar) ekonominiu požiūriu, kai: nerasta asmens turto arba rastas turtas yra nelikvidus (mažai likvidus); išieškojimo išlaidos didesnės už išmokos permoką; netikslinga išieškoti išmokos permoką, kadangi fizinio asmens ekonominė (socialinė) padėtis yra sunki: fiziniam asmeniui reikia valstybės paramos (asmuo yra pensinio amžiaus, neįgalusis (iki 2005 m. liepos 1 d. – invalidas), asmeniui reikalingas gydymas, medicininė profilaktika ir (ar) reabilitacija, asmuo yra bedarbis, gauna socialinę pašalpą) arba tokia parama jam jau teikiama.
+6. Fondo administravimo įstaigos direktorius turi teisę Fondo valdybos direktoriaus nustatyta tvarka atsisakyti socialinio draudimo išmokos arba kitos išmokos, kurios mokėjimas pavestas Fondo valdybos teritoriniams skyriams, permokos ar reikalavimo, kylančio iš regreso teisės (toliau kartu – žala), ir nepradėti žalos išieškojimo ar jį užbaigti, jeigu:
+
+1) nėra galimybės žalos išieškoti arba
+
+2) žala yra susidariusi ne dėl išmokos gavėjo kaltės (nesąžiningumo) ir nėra galimybės jos išieškoti iš kaltų asmenų (jų teisių ir pareigų perėmėjų), arba
+
+3) žalos neįmanoma išieškoti dėl objektyvių priežasčių, arba
+
+4) žalą išieškoti netikslinga socialiniu ir (ar) ekonominiu požiūriu, jei:
+
+a) nerasta asmens turto arba rastas turtas yra nelikvidus (mažai likvidus);
+
+b) išieškojimo sąnaudos didesnės už žalą arba neproporcingai didelės, palyginti su žala;
+
+c) netikslinga išieškoti žalą, nes fizinio asmens ekonominė (socialinė) padėtis yra sunki – fiziniam asmeniui teikiama piniginė socialinė parama nepasiturintiems gyventojams.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
 7. Šio įstatymo 20 straipsnio 3 dalies 2 punkte numatytais atvejais duomenys apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsiant, ne vėliau kaip per 24 valandas, pateikiami Hipotekos registrui ir priverstinė hipoteka (įkeitimas) įregistruojama Hipotekos registre Hipotekos registro nuostatuose nustatyta tvarka. Sprendimas dėl skolos išieškojimo iš priverstine hipoteka įkeisto turto yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.
 
