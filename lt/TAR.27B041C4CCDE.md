@@ -4,7 +4,7 @@ identifier: "TAR.27B041C4CCDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-15"
-last_updated: "2021-01-01"
+last_updated: "2021-04-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.27B041C4CCDE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ entry_into_force_conditions: "Šio įstatymo 10 straipsnis įsigalioja 2010 m. s
 ---
 # Lietuvos Respublikos mediacijos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-04-28
+Suvestinė redakcija nuo 2021-04-29 iki 2024-02-29
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 87-3462, i. k. 1081010ISTA00X-1702
-
-TAR pastaba. Asmenys, išklausę mokymus mediacijos tema ir išlaikę mediatorių kvalifikacinį egzaminą (jei jiems šis reikalavimas nustatytas) pagal iki įstatymo Nr. XIII-3048  įsigaliojimo (2021-01-01) galiojusias Lietuvos Respublikos mediacijos įstatymo nuostatas, įrašomi į Lietuvos Respublikos mediatorių sąrašą nenurodant jų specializacijos administracinių ginčų mediacijos srityje. Šioje dalyje nurodyti asmenys, kurie siekia vykdyti administracinių ginčų mediaciją, turi išklausyti ne trumpesnius kaip 4 akademinių valandų mokymus administracinių ginčų mediacijos tema (išskyrus teisėjus ir Lietuvos administracinių ginčų komisijos, jos teritorinių padalinių narius) ir pateikti Valstybės garantuojamos teisinės pagalbos tarnybai tai patvirtinančius dokumentus.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-3048, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13616
-
-Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 pakeitimo įstatymas
 
 Nauja redakcija nuo 2021-01-01:
 
@@ -427,11 +419,17 @@ PRIVALOMOSIOS MEDIACIJOS YPATUMAI
 
 20 straipsnis. Privalomosios mediacijos atvejai
 
-Privalomoji mediacija taikoma sprendžiant šiuos civilinius ginčus:
+1. Privalomoji mediacija taikoma sprendžiant šiuos civilinius ginčus:
 
-1) šeimos ginčus, nagrinėjamus ginčo teisena Civilinio proceso kodekso nustatyta tvarka;
+1) šeimos ginčus, nagrinėjamus ginčo teisena Civilinio proceso kodekso nustatyta tvarka, išskyrus atvejus, kai kreiptis į teismą dėl ginčo sprendimo siekia smurtą artimoje aplinkoje patyręs asmuo, o kita ginčo šalis yra galimas smurtautojas ir yra pradėtas ikiteisminis tyrimas, susijęs su smurtu artimoje aplinkoje, arba teisme nagrinėjama byla, susijusi su smurtu artimoje aplinkoje, arba yra priimtas apkaltinamasis teismo nuosprendis dėl smurto artimoje aplinkoje, arba yra pateikta įstatymų nustatyta tvarka įgalioto teikti specializuotą kompleksinę pagalbą subjekto pažyma apie specializuotos kompleksinės pagalbos teikimą asmeniui dėl galimai patirto smurto artimoje aplinkoje;
 
 2) kitais įstatymų nustatytais atvejais.
+
+2. Šio straipsnio 1 dalies 1 punkte nurodytų ginčų atvejais, kai privalomąja mediacija siekia pasinaudoti smurtą artimoje aplinkoje patyręs asmuo, šis asmuo turi teisę šio įstatymo nustatyta tvarka kreiptis dėl privalomosios mediacijos ir ginčo šalys turi teisę gauti šio įstatymo 22 straipsnyje nustatyta tvarka apmokamas mediacijos paslaugas.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-269, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08872
 
 21 straipsnis. Kreipimasis dėl privalomosios mediacijos
 
@@ -441,9 +439,17 @@ Privalomoji mediacija taikoma sprendžiant šiuos civilinius ginčus:
 
 3. Kai privalomąją mediaciją inicijuoja viena iš ginčo šalių, ši ginčo šalis turi Valstybės garantuojamos teisinės pagalbos tarnybai paduoti prašymą dėl mediatoriaus skyrimo šio įstatymo 14 straipsnyje nustatyta tvarka arba savo pasirinktam mediatoriui, įrašytam į Lietuvos Respublikos mediatorių sąrašą, paduoti prašymą vykdyti mediaciją šio įstatymo 13 straipsnyje nustatyta tvarka. Ginčo šalies prašyme turi būti nurodyta kitos ginčo šalies vardas, pavardė, ginčo dalykas, gyvenamosios vietos ar kitos dokumentų įteikimo vietos adresas, o kai kita ginčo šalis yra juridinis asmuo, – juridinio asmens pavadinimas, buveinės ar kitos dokumentų įteikimo vietos adresas.
 
-4. Valstybės garantuojamos teisinės pagalbos tarnyba arba mediatorius, gavę šio straipsnio 3 dalyje nurodytą ginčo šalies prašymą, ne vėliau kaip per tris darbo dienas nuo jo gavimo dienos išsiunčia kitai ginčo šaliai pranešimą apie gautą prašymą, kartu nurodydami, kad ne vėliau kaip per penkiolika darbo dienų nuo pranešimo išsiuntimo dienos turi būti gautas kitos ginčo šalies sutikimas dėl mediacijos vykdymo.
+4. Valstybės garantuojamos teisinės pagalbos tarnyba arba mediatorius, gavę šio straipsnio 3 dalyje nurodytą ginčo šalies prašymą, ne vėliau kaip per tris darbo dienas nuo jo gavimo dienos išsiunčia kitai ginčo šaliai pranešimą apie gautą prašymą, kartu nurodydami, kad ne vėliau kaip per keturiolika dienų nuo pranešimo išsiuntimo dienos turi būti gautas kitos ginčo šalies sutikimas dėl mediacijos vykdymo.
 
-5. Jeigu per penkiolika darbo dienų nuo šio straipsnio 4 dalyje nurodyto pranešimo išsiuntimo dienos negaunamas kitos ginčo šalies sutikimas dėl mediacijos vykdymo, laikoma, kad kita ginčo šalis nesutiko pasinaudoti privalomąja mediacija. Šiais atvejais privalomąją mediaciją inicijavusi ginčo šalis turi teisę kreiptis į teismą dėl ginčo išsprendimo ir yra laikoma, kad ginčo šalis įgyvendino įstatymuose nustatytą reikalavimą pasinaudoti privalomąja mediacija.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-269, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08872
+
+5. Jeigu per keturiolika dienų nuo šio straipsnio 4 dalyje nurodyto pranešimo išsiuntimo dienos negaunamas kitos ginčo šalies sutikimas dėl mediacijos vykdymo, laikoma, kad kita ginčo šalis nesutiko pasinaudoti privalomąja mediacija. Šiais atvejais privalomąją mediaciją inicijavusi ginčo šalis turi teisę kreiptis į teismą dėl ginčo išsprendimo ir yra laikoma, kad ginčo šalis įgyvendino įstatymuose nustatytą reikalavimą pasinaudoti privalomąja mediacija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-269, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08872
 
 6. Valstybės garantuojamos teisinės pagalbos tarnyba turi skirti patalpas privalomajai mediacijai vykdyti. Ginčo šalių ir mediatoriaus susitarimu privalomoji mediacija gali būti vykdoma ir kitose patalpose.
 
@@ -589,7 +595,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -634,4 +640,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3048, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13616
 
 Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-269, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08872
+
+Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 20 ir 21 straipsnių pakeitimo įstatymas
 
