@@ -4,7 +4,7 @@ identifier: "TAR.AF228880894E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2021-01-08"
+last_updated: "2021-04-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF228880894E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas
 
-Suvestinė redakcija nuo 2021-01-08 iki 2021-04-29
+Suvestinė redakcija nuo 2021-04-30 iki 2022-04-20
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 68-2774, i. k. 1021010ISTA00IX-985
 
@@ -370,7 +370,13 @@ Nr. XIII-2856, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08720
 
 10) Seimas priima nutarimą nutraukti Vyriausiosios rinkimų komisijos įgaliojimus pagal Konstitucinio Teismo išvadą, kad Vyriausiosios rinkimų komisijos nustatyti esminiai rinkimų rezultatai yra neteisingi arba kad jos veika neatitinka Seimo rinkimų ar Lietuvos Respublikos Prezidento rinkimų įstatymų;
 
-11) Seimas priima nutarimą atleisti jį iš Vyriausiosios rinkimų komisijos narių pagal partijos (koalicijos) motyvuotą teikimą atšaukti pasiūlytą atstovą.
+11) Seimas priima nutarimą atleisti jį iš Vyriausiosios rinkimų komisijos narių pagal partijos (koalicijos) motyvuotą teikimą atšaukti pasiūlytą atstovą;
+
+12) Vyriausiosios rinkimų komisijos narį delegavusią politinę partiją išregistravus iš Juridinių asmenų registro.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-263, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09120
 
 2. Be šio straipsnio 1 dalyje nustatytų pagrindų, Vyriausiosios rinkimų komisijos pirmininko ar pirmininko pavaduotojo, kuris pagal pareigas dirba vien Vyriausiojoje rinkimų komisijoje, įgaliojimai nutrūksta ir tuo atveju, jeigu pirmininkas ar pirmininko pavaduotojas per 14 dienų nuo paskyrimo į šias pareigas dienos neatsisako su Vyriausiosios rinkimų komisijos pirmininko ar pirmininko pavaduotojo pareigomis nesuderinamų darbo, pareigų ar statuso.
 
@@ -596,7 +602,7 @@ Vyriausiosios rinkimų komisijos darbo organizavimo, komisijos pirmininko, pirmi
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -793,6 +799,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-146, 2020-12-23, paskelbta TAR 2020-12-30, i. k. 2020-29111
 
 Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 papildymo 11-1 straipsniu įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-263, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09120
+
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 10 straipsnio pakeitimo įstatymas
 
 121 straipsnis. Pranešimas, skundas ar prašymas dėl politinių partijų ir politinių kampanijų finansavimo pažeidimų
 
