@@ -4,7 +4,7 @@ identifier: "TAR.424F7C72601E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-28"
-last_updated: "2021-01-01"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.424F7C72601E"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS BRANDUOLINĖS SAUGOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 91-4316; Žin. 2011, Nr.109-0; Žin. 2011, Nr.118-0, i. k. 1111010ISTA0XI-1539
 
@@ -147,11 +147,11 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
 2) branduolinės saugos taisyklės;
 
-3) standartai;
+3) standartai ir standartizacijos leidiniai, nustatantys branduolinės, radiacinės, fizinės saugos, avarinės parengties, vadybos sistemų ir (ar) kitas branduolinę, radiacinę, fizinę saugą, avarinę parengtį, vadybos sistemas reglamentuojantiems teisės aktų reikalavimams įgyvendinti naudojamas technines specifikacijas;
 
-4) licencijos ar leidimo turėtojo normatyviniai techniniai dokumentai;
+4) licencijos ar leidimo turėtojo normatyviniai techniniai dokumentai, nustatantys branduolinės, radiacinės, fizinės saugos, avarinės parengties, tarptautinių branduolinio ginklo neplatinimo įsipareigojimų įgyvendinimo, vadybos sistemų ir (ar) kitas normas, skirtas branduolinės, radiacinės, fizinės saugos, avarinės parengties, tarptautinių branduolinio ginklo neplatinimo įsipareigojimų įgyvendinimą ir vadybos sistemas reglamentuojantiems teisės aktams įgyvendinti;
 
-5) branduolinės energetikos objekto statybos vietos (aikštelės) vertinimą atliekančių asmenų normatyviniai techniniai dokumentai.
+5) branduolinės energetikos objekto statybos vietos (aikštelės) vertinimą atliekančių asmenų normatyviniai techniniai dokumentai, nustatantys branduolinės, radiacinės, fizinės saugos, avarinės parengties, tarptautinių branduolinio ginklo neplatinimo įsipareigojimų įgyvendinimo, vadybos sistemų ir (ar) kitas normas, skirtas branduolinės, radiacinės, fizinės saugos, avarinės parengties, tarptautinių branduolinio ginklo neplatinimo įsipareigojimų įgyvendinimą ir vadybos sistemas reglamentuojantiems teisės aktams įgyvendinti.
 
 2. Branduolinės saugos reikalavimų ir branduolinės saugos taisyklių rengimo tvarkos aprašą, taip pat parengtus branduolinės saugos reikalavimus ir branduolinės saugos taisykles tvirtina Valstybinės atominės energetikos saugos inspekcijos viršininkas.
 
@@ -159,15 +159,15 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
 4. Branduolinės saugos taisyklės nustato branduolinės saugos reikalavimų įgyvendinimo būdus, metodus, tam tikro darbo ar proceso organizavimo ir vykdymo tvarką, dokumentų rengimo tvarką, darbo su konstrukcijomis, sistemomis ir komponentais tvarką.
 
-5. Standartai taikomi savanoriškai, išskyrus atvejus, kai privalomuosiuose teisės aktuose nurodoma, kad atitinkamą standartą taikyti privaloma.
+5. Šio straipsnio 1 dalies 3 punkte nurodyti standartai ir standartizacijos leidiniai taikomi savanoriškai, išskyrus atvejus, kai privalomuosiuose teisės aktuose nurodoma, kad atitinkamą standartą ar standartizacijos leidinį taikyti privaloma.
 
-Straipsnio dalies pakeitimai:
+6. Asmenims, savanoriškai pasirinkusiems taikyti šio straipsnio 1 dalies 3 punkte nurodytus standartus ar standartizacijos leidinius, jie tampa privalomi.
 
-Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
+7. Licencijos ar leidimo turėtojo normatyvinius techninius dokumentus, nurodytus šio straipsnio 1 dalies 4 punkte, tvirtina pats licencijos ar leidimo turėtojas ir šių dokumentų nuostatų taikymas jam yra privalomas. Branduolinės energetikos objekto statybos vietos (aikštelės) vertinimą atliekančių asmenų normatyvinius techninius dokumentus, nurodytus šio straipsnio 1 dalies 5 punkte, tvirtina patys asmenys, atliekantys branduolinės energetikos objekto statybos vietos (aikštelės) vertinimą, ir šių dokumentų nuostatų taikymas jiems yra privalomas.
 
-6. Asmenims, savanoriškai pasirinkusiems ir teisės aktų nustatyta tvarka deklaravusiems, kad gaminiai, paslaugos ar procesai atitinka standartus, deklaruotų standartų techniniai reikalavimai tampa privalomi.
+Straipsnio pakeitimai:
 
-7. Licencijos ar leidimo turėtojo normatyvinius techninius dokumentus tvirtina pats licencijos ar leidimo turėtojas. Branduolinės energetikos objekto statybos vietos (aikštelės) vertinimą atliekančių asmenų normatyvinius techninius dokumentus tvirtina patys asmenys, atliekantys branduolinės energetikos objekto statybos vietos (aikštelės) vertinimą.
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 6 straipsnis. Administraciniai sprendimai, priimami vykdant priežiūrą, ir poveikio priemonės
 
@@ -511,7 +511,13 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
 6) vežti (įvežti, išvežti ir vežti tranzitu) radioaktyviąsias atliekas, susidariusias branduolinio kuro ciklo metu;
 
-7) vežti (įvežti, išvežti ir vežti tranzitu) panaudotą branduolinį kurą.
+7) vežti (įvežti, išvežti ir vežti tranzitu) panaudotą branduolinį kurą;
+
+8) vykdyti branduolinės (atominės) elektrinės, branduolinės (atominės) elektrinės energijos bloko radionuklidais užterštų konstrukcijų, sistemų ir komponentų dezaktyvavimo ir (ar) išmontavimo darbus branduolinės (atominės) elektrinės, branduolinės (atominės) elektrinės energijos bloko galutinio sustabdymo ir (ar) eksploatavimo nutraukimo metu.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 3. Bendra tos pačios rūšies licencija gali būti išduodama dėl kelių branduolinės energetikos objektų, jeigu jie yra numatyti viename bendrame projekte. Pareiškėjo prašymu atskiriems branduolinės (atominės) elektrinės energijos blokams gali būti išduodamos atskiros licencijos. Jeigu branduolinės energetikos objekto, dėl kurio yra išduota licencija, veikla dėl bendrų technologinių procesų yra susijusi su kitu branduolinės energetikos objektu (objektais), dėl šių branduolinės energetikos objektų taip pat gali būti išduodama bendra tos pačios rūšies licencija ir (arba) keičiama jau išduota licencija (licencijos).
 
@@ -593,6 +599,12 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
+121. Šio įstatymo 22 straipsnio 2 dalies 8 punkte nurodytas leidimas išduodamas šio įstatymo 22 straipsnio 1 dalies 2, 3 ir 4 punktuose nurodytų licencijų turėtojams, kai branduolinės energetikos objektas yra branduolinė (atominė) elektrinė, branduolinės (atominės) elektrinės energijos blokas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
+
 13. Licencija, nurodyta šio įstatymo 22 straipsnio 1 dalies 1 punkte, kai dėl licencijos panaikinimo kreipiamasi šio įstatymo 29 straipsnio 2 dalyje nustatytais atvejais, negali būti panaikinama tol, kol nėra išduota šio įstatymo 22 straipsnio 1 dalies 2 punkte nurodyta licencija, tačiau šios licencijos tam pačiam branduolinės energetikos objektui negali galioti vienu metu.
 
 Straipsnio dalies numeracijos pakeitimas:
@@ -609,7 +621,11 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
 1. Pareiškėjas paraišką gauti šio įstatymo 22 straipsnio 1 dalyje nurodytas licencijas ir dokumentų, pagrindžiančių atitiktį nuostatoms, nustatytoms gauti licencijas, pateikimo grafiką pateikia Valstybinei atominės energetikos saugos inspekcijai. Dokumentai ir dokumentų, teikiamų kartu su paraiška gauti licencijas, reikalavimai nustatomi šiame įstatyme ir licencijų ir leidimų išdavimo taisyklėse. Dokumentus pareiškėjas teikia vadovaudamasis dokumentų pateikimo grafiku. Dokumentų pateikimo grafikas ir jo pakeitimai turi būti suderinami su Valstybine atominės energetikos saugos inspekcija. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl dokumentų pateikimo grafiko ar jo pakeitimo suderinimo priimamas per 30 kalendorinių dienų nuo dokumentų pateikimo grafiko gavimo dienos. Šis terminas gali būti pratęsiamas vieną kartą ne ilgesniam kaip 30 kalendorinių dienų laikotarpiui. Valstybinė atominės energetikos saugos inspekcija pranešimą apie sprendimą pratęsti terminą pareiškėjui dokumentams pateikti išsiunčia ne vėliau kaip likus 5 darbo dienoms iki šio termino pabaigos ir nurodo termino pratęsimo priežastis.
 
-2. Pareiškėjas nustatytos formos paraišką gauti šio įstatymo 22 straipsnio 2 dalies 1–5 punktuose nurodytus leidimus ir šiame įstatyme ir (arba) kituose teisės aktuose nustatytus dokumentus pateikia Valstybinei atominės energetikos saugos inspekcijai.
+2. Pareiškėjas nustatytos formos paraišką gauti šio įstatymo 22 straipsnio 2 dalies 1–5 ir 8 punktuose nurodytus leidimus ir šiame įstatyme ir (arba) kituose teisės aktuose nustatytus dokumentus pateikia Valstybinei atominės energetikos saugos inspekcijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 3. Pareiškėjas nustatytos formos paraišką gauti šio įstatymo 22 straipsnio 2 dalies 6 ir 7 punktuose nurodytus leidimus ir šiame įstatyme, taip pat radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimą, išvežimą, vežimą tranzitu ir vežimą Lietuvos Respublikoje ir šių veiklų leidimų išdavimo tvarką reglamentuojančiame teisės akte, kurį tvirtina Valstybinės atominės energetikos saugos inspekcijos viršininkas kartu su sveikatos apsaugos ministru, ir (arba) kituose teisės aktuose nustatytus dokumentus pateikia Valstybinei atominės energetikos saugos inspekcijai.
 
@@ -637,7 +653,11 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
 7. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą išduoti licencijas, nurodytas šio įstatymo 22 straipsnio 1 dalies 1 ir 3 punktuose, kai Valstybinė atominės energetikos saugos inspekcija įsitikina, kad branduolinės energetikos objekto statybos vieta (aikštelė), projektavimo duomenys ir projektas atitinka teisės aktų ir branduolinės saugos normatyvinių techninių dokumentų reikalavimus.
 
-8. Licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 2, 4, 5 punktuose, išduodamos tik gavus teigiamą Europos Komisijos išvadą apie šią veiklą arba praėjus daugiau kaip 6 mėnesiams nuo informacijos pateikimo Europos Komisijai, jeigu Europos Komisija nepateikia savo išvados. Informaciją, reikalingą Europos Komisijos išvadai gauti, ir jos pateikimo tvarką nustato Vyriausybė.
+8. Licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 2, 4 (išskyrus, kai licencija išduodama vykdyti branduolinės (atominės) elektrinės ar branduolinės (atominės) elektrinės energijos bloko eksploatavimo nutraukimą), 5 punktuose, išduodamos tik gavus teigiamą Europos Komisijos išvadą apie šią veiklą arba praėjus daugiau kaip 6 mėnesiams nuo informacijos pateikimo Europos Komisijai, jeigu Europos Komisija nepateikia savo išvados. Informaciją, reikalingą Europos Komisijos išvadai gauti, ir jos pateikimo tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 9. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą neišduoti licencijos, kai:
 
@@ -741,11 +761,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
-8. Sprendimas dėl leidimų, nurodytų šio įstatymo 22 straipsnio 2 dalies 3 punkte, išdavimo priimamas per 90 dienų nuo visų tinkamai įformintų dokumentų gavimo dienos.
+8. Sprendimai dėl leidimų, nurodytų šio įstatymo 22 straipsnio 2 dalies 3 ir 8 punktuose, išdavimo priimami per 90 dienų nuo visų tinkamai įformintų dokumentų gavimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 9. Sprendimas dėl leidimų, nurodytų šio įstatymo 22 straipsnio 2 dalies 4 punkte, išdavimo priimamas per 60 dienų nuo visų tinkamai įformintų dokumentų gavimo dienos.
 
@@ -769,7 +791,11 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 15. Leidimai, nurodyti šio įstatymo 22 straipsnio 2 dalies 6 ir 7 punktuose, neišduodami, jeigu nėra gautas radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimą, išvežimą, vežimą tranzitu ir vežimą Lietuvos Respublikoje ir šių veiklų leidimų išdavimo tvarką reglamentuojančiame teisės akte, kurį tvirtina Valstybinės atominės energetikos saugos inspekcijos viršininkas kartu su sveikatos apsaugos ministru, nurodytų valstybių atitinkamų institucijų sutikimas leisti vežti radioaktyviąsias atliekas ir (ar) branduolinį kurą.
 
-16. Licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 3 punkte, turėtojui leidimai, nurodyti šio įstatymo 22 straipsnio 2 dalies 1 ir 2 punktuose, išduodami tik gavus teigiamą Europos Komisijos išvadą apie šią veiklą arba praėjus daugiau kaip 6 mėnesiams nuo informacijos pateikimo Europos Komisijai, jeigu Europos Komisija nepateikia savo išvados. Informaciją, reikalingą Europos Komisijos išvadai gauti ir jos pateikimo tvarką nustato Vyriausybė.
+16. Licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 3 punkte, turėtojui leidimai, nurodyti šio įstatymo 22 straipsnio 2 dalies 1 ir 2 punktuose, ir šio įstatymo 22 straipsnio 1 dalies 2, 3 ir 4 punktuose nurodytų licencijų turėtojams, kai branduolinės energetikos objektas – branduolinė (atominė) elektrinė, branduolinės (atominės) elektrinės energijos blokas, šio įstatymo 22 straipsnio 2 dalies 8 punkte nurodyti leidimai, kai planuojama išmontuoti radionuklidais užteršto branduolinio reaktoriaus įrenginį ar jo dalį, išduodami tik gavus teigiamą Europos Komisijos išvadą apie šią veiklą arba praėjus daugiau kaip 6 mėnesiams nuo informacijos pateikimo Europos Komisijai, jeigu Europos Komisija nepateikia savo išvados. Informaciją, reikalingą Europos Komisijos išvadai gauti, ir jos pateikimo tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 161. Leidimo turėtojas neturi teisės perleisti suteiktos teisės vykdyti leidimais reguliuojamą veiklą.
 
@@ -879,11 +905,19 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
 3) licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 2 ir 3 punktuose, turėtojui išduodama licencija, nurodyta šio įstatymo 22 straipsnio 1 dalies 4 punkte;
 
-4) branduolinės energetikos objekto statybos vietos (aikštelės) naudojimo apribojimai teisės aktų nustatyta tvarka yra panaikinti ir licencijuojama veikla branduolinės saugos požiūriu nebeturi būti prižiūrima;
+4) licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 4 punkte, turėtojas kreipėsi dėl šios licencijos galiojimo panaikinimo, pateikdamas patvirtinimą, kad branduolinės energetikos objekto eksploatavimo nutraukimas yra įvykdytas, ir dėl to veikla, vykdyta pagal šią licenciją, branduolinės energetikos objekto aikštelės vietoje liekantys (jeigu lieka) inžineriniai ar kiti statiniai, jeigu jie dėl bendrų technologinių procesų nėra susiję su kitu branduolinės energetikos objektu (objektais), branduolinės saugos požiūriu nebeturi būti prižiūrimi;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 5) licencijos ar leidimo turėtojas, kurio licencijos ar leidimo galiojimas sustabdytas, vykdo licencijoje ar leidime nurodytą veiklą;
 
-6) licencijos ar leidimo turėtojas kreipėsi dėl licencijos ar leidimo galiojimo panaikinimo;
+6) licencijos ar leidimo turėtojas kreipėsi dėl licencijos ar leidimo galiojimo panaikinimo kitais negu šios dalies 4 punkte nurodyti atvejais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 7) licencijos ar leidimo turėtojas buvo likviduotas;
 
@@ -904,6 +938,12 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
+
+51. Licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 4 punkte, turėtojas, siekdamas patvirtinti, kad branduolinės energetikos objekto eksploatavimo nutraukimas yra įvykdytas, Valstybinei atominės energetikos saugos inspekcijai kartu su prašymu panaikinti šios licencijos galiojimą turi pateikti galutinę branduolinės energetikos objekto eksploatavimo nutraukimo ataskaitą. Galutinėje branduolinės energetikos objekto eksploatavimo nutraukimo ataskaitoje turi būti pateikta informacija, skirta patvirtinti, kad branduolinės energetikos objekto eksploatavimo nutraukimas yra įvykdytas laikantis jam galutiniame branduolinės energetikos objekto eksploatavimo nutraukimo plane ir branduolinės energetikos objekto eksploatavimo nutraukimo saugos analizės ataskaitoje nustatytų sąlygų ir branduolinės energetikos objekto būklė po branduolinės energetikos objekto eksploatavimo nutraukimo darbų baigimo atitinka galutinę branduolinės energetikos objekto ir (ar) jo aikštelės būklę, nurodytą galutiniame branduolinės energetikos objekto eksploatavimo nutraukimo plane. Galutinės branduolinės energetikos objekto eksploatavimo nutraukimo ataskaitos turinio reikalavimus nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas. Sprendimas dėl licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 4 punkte, galiojimo panaikinimo priimamas šio įstatymo 34 straipsnio 2 dalyje nurodytais terminais.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 6. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl licencijos ar leidimo galiojimo panaikinimo įstatymų nustatyta tvarka gali būti skundžiamas teismui.
 
@@ -1051,7 +1091,11 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 12. Visus neįprastuosius įvykius branduolinės energetikos objektuose ir veiklos, susijusios su branduolinių ir (arba) branduolinio kuro ciklo medžiagų naudojimu, metu licencijos turėtojas turi ištirti, nustatyti jų priežastis ir Valstybinei atominės energetikos saugos inspekcijai pateikti tyrimo ataskaitą. Neįprastųjų įvykių tyrimo ataskaitų rengimo ir pateikimo tvarką nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas.
 
-13. Kartu su paraiškos gauti šio įstatymo 22 straipsnio 1 dalies 2 ir 4 punktuose nurodytas licencijas ir šio įstatymo 22 straipsnio 2 dalies 2 ir 3 punktuose nurodytus leidimus dokumentais pateikiamas su Sveikatos apsaugos ministerija suderintas radionuklidų išmetimo į aplinką planas. Radionuklidų išmetimo į aplinką planas parengiamas ir atnaujinamas vadovaujantis Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytais reikalavimais.
+13. Kartu su paraiškos gauti šio įstatymo 22 straipsnio 1 dalies 2 ir 4 punktuose nurodytas licencijas ir šio įstatymo 22 straipsnio 2 dalies 2 ir 3 punktuose nurodytus leidimus dokumentais pateikiamas su Sveikatos apsaugos ministerija suderintas radionuklidų išmetimo į aplinką planas. Kartu su paraiškos gauti šio įstatymo 22 straipsnio 1 dalies 2 punkte nurodytą licenciją ir šio įstatymo 22 straipsnio 2 dalies 2 ir 3 punktuose nurodytus leidimus dokumentais radionuklidų išmetimo į aplinką planas neteikiamas, jeigu saugos analizės ataskaitoje pagrindžiama, kad iš branduolinės energetikos objekto normalaus eksploatavimo sąlygomis radionuklidų išmetimų į aplinką nebus. Radionuklidų išmetimo į aplinką planas parengiamas ir atnaujinamas vadovaujantis Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytais reikalavimais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 14. Radionuklidų išmetimo į aplinką planas turi būti atnaujinamas ir teikiamas Valstybinei atominės energetikos saugos inspekcijai ir Sveikatos apsaugos ministerijai derinti šiais atvejais:
 
@@ -1064,6 +1108,12 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 4) kai gyventojų kritinių grupių narių apšvitos dozė viršija arba gali viršyti apribotąją dozę;
 
 5) kitais šiame įstatyme nustatytais atvejais.
+
+141. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą suderinti radionuklidų išmetimo į aplinką planą, kai Valstybinė atominės energetikos saugos inspekcija įsitikina, kad radionuklidų išmetimo į aplinką planas yra suderintas su Sveikatos apsaugos ministerija ir jo turinys bei jame pateikta informacija atitinka teisės aktų ir branduolinės saugos normatyvinių techninių dokumentų, reglamentuojančių radionuklidų išmetimo į aplinką iš branduolinės energetikos objektų ribojimą, reikalavimus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 15. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl šio straipsnio 1 dalyje nurodytų dokumentų suderinimo priimamas ne vėliau kaip per 12 mėnesių nuo visų tinkamai įformintų dokumentų gavimo dienos.
 
@@ -1557,7 +1607,13 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 3) sprendimus dėl leidimų, nurodytų šio įstatymo 22 straipsnio 2 dalies 1 punkte, išdavimo šio įstatymo 22 straipsnio 1 dalies 3 punkte nurodytų licencijų turėtojams;
 
-4) sprendimus dėl leidimų, nurodytų šio įstatymo 22 straipsnio 2 dalies 2 punkte, išdavimo šio įstatymo 22 straipsnio 1 dalies 3 punkte nurodytų licencijų turėtojams.
+4) sprendimus dėl leidimų, nurodytų šio įstatymo 22 straipsnio 2 dalies 2 punkte, išdavimo šio įstatymo 22 straipsnio 1 dalies 3 punkte nurodytų licencijų turėtojams;
+
+5) sprendimus dėl licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 4 punkte, galiojimo panaikinimo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 2. Dėl kitų Valstybinės atominės energetikos saugos inspekcijos ir kitų institucijų ar įstaigų sprendimų, priimamų vadovaujantis šiuo įstatymu, Branduolinės energijos įstatymu ir Radioaktyviųjų atliekų tvarkymo įstatymu, visuomenė turi teisę gauti informaciją vadovaudamasi kitais valstybės institucijų informacijos teikimą reglamentuojančiais teisės aktais, tačiau teikiant informaciją dėl tokių sprendimų mutatis mutandis taikomi šio straipsnio 10 ir 11 dalyse nurodyti apribojimai.
 
@@ -1583,13 +1639,25 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 3) 5 mėnesiams iki sprendimui dėl šio įstatymo 22 straipsnio 1 dalies 5 punkte nurodytos licencijos priimti šio įstatymo 25 straipsnio 17 dalyje nustatyto termino pabaigos;
 
-4) 2 mėnesiams iki šio straipsnio 1 dalies 3 ir 4 punktuose nurodytiems sprendimams priimti, kai dėl jų kreipiasi šio įstatymo 22 straipsnio 1 dalies 3 punkte nurodytos licencijos turėtojas, šio įstatymo 26 straipsnio 7 dalyje nustatyto termino pabaigos.
+4) 2 mėnesiams iki šio straipsnio 1 dalies 3 ir 4 punktuose nurodytiems sprendimams priimti, kai dėl jų kreipiasi šio įstatymo 22 straipsnio 1 dalies 3 punkte nurodytos licencijos turėtojas, šio įstatymo 26 straipsnio 7 dalyje nustatyto termino pabaigos;
+
+5) 2 mėnesiams iki šio straipsnio 1 dalies 5 punkte nurodytiems sprendimams priimti šio įstatymo 34 straipsnio 2 dalyje nustatyto termino pabaigos.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 6. Visuomenė turi teisę susipažinti su sprendimo projektu ir raštu pateikti pasiūlymus Valstybinei atominės energetikos saugos inspekcijai:
 
 1) dėl šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų sprendimų projektų – per 2 mėnesius nuo šio straipsnio 5 dalyje nurodyto informavimo;
 
-2) dėl šio straipsnio 1 dalies 3 ir 4 punktuose nurodytų sprendimų projektų – per vieną mėnesį nuo šio straipsnio 5 dalyje nurodyto informavimo.
+2) dėl šio straipsnio 1 dalies 3 ir 4 punktuose nurodytų sprendimų projektų – per vieną mėnesį nuo šio straipsnio 5 dalyje nurodyto informavimo;
+
+3) dėl šio straipsnio 1 dalies 5 punkte nurodytų sprendimų projektų – per 14 darbo dienų nuo šio straipsnio 5 dalyje nurodyto informavimo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 7. Visi visuomenės pateikti pasiūlymai turi būti įvertinti. Informaciją dėl to, kaip yra įvertinti pasiūlymai, kartu nurodant ir argumentus, jeigu į pasiūlymus nebuvo atsižvelgta arba atsižvelgta iš dalies, ūkio subjektas visuomenės atstovams, pateikusiems pasiūlymus ūkio subjektui, pateikia raštu, o Valstybinė atominės energetikos saugos inspekcija paskelbia kartu su galutiniu sprendimu.
 
