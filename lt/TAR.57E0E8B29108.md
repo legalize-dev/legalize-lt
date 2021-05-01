@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2020-11-01"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -160,13 +160,19 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 5 straipsnis. Operatorių, valdančių nacionaliniam saugumui užtikrinti svarbius įrenginius ir turtą, teisių įgyvendinimas
 
-Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos susitarimus, valstybės valdomų akcinių bendrovių akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių elektros perdavimo sistemos operatoriaus, suskystintų gamtinių dujų terminalo operatoriaus, gamtinių dujų perdavimo sistemos operatoriaus akcijų suteikiamas neturtines teises, užtikrina, kad:
+Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos susitarimus, valstybės valdomų akcinių bendrovių akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių elektros perdavimo sistemos operatoriaus, suskystintų gamtinių dujų terminalo operatoriaus, gamtinių dujų perdavimo sistemos operatoriaus ir (ar) paskirtojo kaupimo sistemos operatoriaus, numatyto Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatyme (toliau – paskirtasis kaupimo sistemos operatorius), akcijų suteikiamas neturtines teises, užtikrina, kad:
 
 1) elektros perdavimo sistemos operatorius, suskystintų gamtinių dujų terminalo operatorius, gamtinių dujų perdavimo sistemos operatorius, įvertinę atitinkamų nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto funkcinę paskirtį, prisidėtų prie pagrindinio Lietuvos Respublikos energetikos sistemos uždavinio įgyvendinimo – neribotą laiką, nepriklausomai, saugiai ir patikimai aprūpinti Lietuvos vartotojus elektros energija ir (arba) šiluma bei gamtinėmis dujomis ekonomiškai palankiausiomis sąlygomis;
 
 2) Lietuvos Respublikos elektros energetikos sistema sugebėtų užtikrinti savarankišką elektros energijos generavimą ir būtų parengta neatidėliotinam prisijungimui prie kontinentinės Europos elektros tinklų darbui sinchroniniu režimu, kai tik bus įrengtos elektros tinklų jungtys, įgyvendintos techninės priemonės ir atlikti veiksmai, reikalingi tam, kad Lietuvos Respublika taptų kontinentinės Europos elektros tinklų dalimi;
 
-3) gamtinių dujų perdavimo sistemos operatorius, atsakingas už Lietuvos Respublikos dujų perdavimo sistemos saugią ir patikimą veiklą bei plėtrą, įgyvendintų regioninės reikšmės dujų perdavimo sistemos plėtros projektus, kurie yra svarbūs Europos Sąjungos dujų sektoriaus vystymo tikslams pasiekti, diversifikuotų dujų tiekimo šaltinius, sudarytų sąlygas maksimaliai išnaudoti Klaipėdos suskystintų gamtinių dujų terminalo pajėgumus ir užtikrintų gamtinių dujų sistemos darbo saugumą ir patikimumą.
+3) gamtinių dujų perdavimo sistemos operatorius, atsakingas už Lietuvos Respublikos dujų perdavimo sistemos saugią ir patikimą veiklą bei plėtrą, įgyvendintų regioninės reikšmės dujų perdavimo sistemos plėtros projektus, kurie yra svarbūs Europos Sąjungos dujų sektoriaus vystymo tikslams pasiekti, diversifikuotų dujų tiekimo šaltinius, sudarytų sąlygas maksimaliai išnaudoti Klaipėdos suskystintų gamtinių dujų terminalo pajėgumus ir užtikrintų gamtinių dujų sistemos darbo saugumą ir patikimumą;
+
+4) paskirtasis kaupimo sistemos operatorius, atsakingas už elektros energijos kaupimo įrenginių sistemos įrengimą, eksploatavimą, priežiūrą ir valdymą, saugiai ir patikimai išimties tvarka teiktų izoliuoto elektros energetikos sistemos darbo rezervo užtikrinimo paslaugą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-233, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07424
 
 41 straipsnis. Ypatingą strateginę reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai bei jiems ir investuotojams taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės
 
@@ -862,6 +868,12 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-2529, 2019-11-14, paskelbta TAR 2019-11-15, i. k. 2019-18359
 
+23. Paskirtasis kaupimo sistemos operatorius, numatytas Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatyme.
+
+Papildyta punktu:
+
+Nr. XIV-233, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07424
+
 Lietuvos Respublikos
 
 nacionaliniam saugumui užtikrinti
@@ -956,7 +968,13 @@ l) valstybės kontroliuojamas naftos terminalas, esantis Subačiaus gyvenvietėj
 
 m) Būtingės naftos terminalas ir jo priklausiniai;
 
-n) aerodromai pagal Vyriausybės nutarimu patvirtintą sąrašą.
+n) aerodromai pagal Vyriausybės nutarimu patvirtintą sąrašą;
+
+o) elektros energijos kaupimo įrenginiai, įrengti įgyvendinant Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymą.
+
+Papildyta papunkčiu:
+
+Nr. XIV-233, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07424
 
 Lietuvos Respublikos
 
@@ -1151,6 +1169,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3284, 2020-09-17, paskelbta TAR 2020-09-18, i. k. 2020-19502
 
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 15 straipsnio pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-233, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07424
+
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 5 straipsnio, 2 ir 4 priedų pakeitimo įstatymas
 
 121 straipsnis. Asmenų, kurie siekia vykdyti (vykdo) veiklą nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje, kuri įstatymu yra pripažinta keliančia grėsmę nacionaliniam saugumui, atitikties nacionalinio saugumo interesams patikra
 
