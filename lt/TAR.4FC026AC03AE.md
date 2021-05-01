@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2021-04-14"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2021-04-14 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2021-07-22
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
 
@@ -2026,7 +2026,7 @@ Vyriausiasis patrulis, vyriausiasis postinis, skyrininkas, jaunesnysis specialis
 
 Vyresnysis postinis, vyresnysis patrulis, dispečeris, vyresnysis ugniagesys gelbėtojas, vyresnysis pasienietis, kovotojas
 
-4,6–11
+4,9–11
 
 4,5–10,5
 
@@ -2034,7 +2034,7 @@ Vyresnysis postinis, vyresnysis patrulis, dispečeris, vyresnysis ugniagesys gel
 
 Postinis, patrulis, pasienietis, ugniagesys gelbėtojas
 
-4,4–10,5
+4,7–10,5
 
 4,4–10
 
@@ -2043,6 +2043,8 @@ Priedo pakeitimai:
 Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 
 Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
+
+Nr. XIV-268, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08871
 
 Pakeitimai:
 
