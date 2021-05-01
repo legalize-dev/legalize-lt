@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2021-01-01"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -75,7 +75,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
 
-15) genetiškai modifikuotas organizmas – organizmas (išskyrus žmogų), kurio genetinė medžiaga yra taip pakeista ir įgijusi tokių savybių, kurios negalėtų atsirasti organizmui dauginantis natūraliu būdu;
+15) genetiškai modifikuotas organizmas – suprantama taip, kaip apibrėžta Lietuvos Respublikos genetiškai modifikuotų organizmų įstatyme;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3263, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15887
 
 16) pasekmės ar poveikis aplinkai – tokios pasekmės ar poveikis (fizinis, cheminis ir kt.) aplinkai, dėl kurių įvyksta ar gali įvykti reikšmingi ekosistemos ar jos elementų natūralių funkcijų pokyčiai;
 
@@ -3136,6 +3140,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 25, 26 ir 57 straipsnių pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3263, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15887
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1 straipsnio pakeitimo įstatymas
 
 193 straipsnis. Įrenginių registravimas
 
