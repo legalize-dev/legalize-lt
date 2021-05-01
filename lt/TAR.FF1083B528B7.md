@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2020-01-01"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -280,7 +280,7 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
-57. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos laukinės augalijos įstatyme, Lietuvos Respublikos laukinės gyvūnijos įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos ūkininko ūkio įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos želdynų įstatyme, Lietuvos Respublikos žemės įstatyme, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme.
+57. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos architektūros įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos laukinės gyvūnijos įstatyme, Lietuvos Respublikos laukinių augalų ir grybų įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos ūkininko ūkio įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos želdynų įstatyme, Lietuvos Respublikos žemės įstatyme, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme.
 
 Papildyta straipsnio dalimi:
 
@@ -291,6 +291,8 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-292, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06970
 
 Nr. XIII-2186, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09969
+
+Nr. XIII-3300, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21150
 
 Straipsnio pakeitimai:
 
@@ -332,11 +334,13 @@ Nr. XI-935, 2010-06-22, Žin., 2010, Nr. 81-4229 (2010-07-10)
 
 1. Veiklą saugomose teritorijose reglamentuoja:
 
-1) šis Įstatymas, Specialiųjų žemės naudojimo sąlygų, Aplinkos apsaugos, Nekilnojamojo kultūros paveldo apsaugos, Saugomų gyvūnų, augalų ir grybų rūšių, Laukinės gyvūnijos, Laukinės augalijos, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo, Miškų, Teritorijų planavimo, Statybos bei kiti įstatymai;
+1) šis Įstatymas, Specialiųjų žemės naudojimo sąlygų, Aplinkos apsaugos, Nekilnojamojo kultūros paveldo apsaugos, Saugomų gyvūnų, augalų ir grybų rūšių, Laukinės gyvūnijos, Laukinių augalų ir grybų, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo, Miškų, Teritorijų planavimo, Statybos bei kiti įstatymai;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2186, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09969
+
+Nr. XIII-3300, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21150
 
 2) saugomų teritorijų nuostatai;
 
