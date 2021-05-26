@@ -4,7 +4,7 @@ identifier: "TAR.303FC0152D04"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2020-01-17"
+last_updated: "2021-05-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2020-01-17 iki 2021-05-25
+Suvestinė redakcija nuo 2021-05-26 iki 2022-05-25
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
 
@@ -377,13 +377,17 @@ Straipsnio pakeitimai:
 
 Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
-15 straipsnis. Sveikatos priežiūros paslaugų ir medicinos priemonių (prietaisų) reklama
+15 straipsnis. Sveikatos priežiūros paslaugų ir medicinos priemonių reklama
 
-Sveikatos priežiūros paslaugų ir medicinos priemonių (prietaisų) reklamoje draudžiama naudoti paciento vardą, pavardę, įvaizdį, remtis sveikatos priežiūros įstaigų, sveikatos priežiūros specialistų ar jų profesinių organizacijų rekomendacijomis.
+1. Sveikatos priežiūros paslaugų ir medicinos priemonių reklamoje draudžiama naudoti paciento vardą, pavardę, įvaizdį, remtis sveikatos priežiūros įstaigų, sveikatos priežiūros specialistų ar jų profesinių organizacijų rekomendacijomis.
+
+2. Draudžiama Reglamento (ES) 2017/745 nuostatų neatitinkanti reklama.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+
+Nr. XIII-2757, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00041
 
 16 straipsnis. Ginklų ir šaudmenų reklama
 
@@ -667,11 +671,15 @@ Nr. XIII-2515, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18820
 
 6. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012 dėl biocidinių produktų tiekimo rinkai ir jų naudojimo (OL 2012 L 167, p. 1).
 
-7. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 (OL 2017 L 345, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 (OL 2019 L 136, p. 28).
+7. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB (OL 2017 L 117, p. 1).
 
 Papildyta punktu:
 
 Nr. XIII-2515, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18820
+
+Punkto pakeitimai:
+
+Nr. XIII-2757, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00041
 
 Pakeitimai:
 
@@ -778,6 +786,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2515, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18820
 
 Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 1 straipsnio ir priedo pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2757, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00041
+
+Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2950, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11073
+
+Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymo Nr. XIII-2757 3 straipsnio pakeitimo įstatymas
 
 211 straipsnis. Komercinių paslapčių apsauga
 
