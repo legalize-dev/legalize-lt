@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2021-01-01"
+last_updated: "2021-05-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-05-25
+Suvestinė redakcija nuo 2021-05-26 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
 
@@ -586,7 +586,7 @@ Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
 
 2) iki 2022 m. gruodžio 31 d. tiekiamoms vakcinoms nuo COVID-19 ligos (koronaviruso infekcijos);
 
-3) iki 2022 m. gruodžio 31 d. tiekiamoms in vitro diagnostikos medicinos priemonėms (prietaisams), skirtoms (skirtiems) COVID-19 ligos (koronaviruso infekcijos) diagnostikai.
+3) iki 2022 m. gruodžio 31 d. tiekiamoms in vitro diagnostikos medicinos priemonėms, skirtoms COVID-19 ligos (koronaviruso infekcijos) diagnostikai.
 
 Straipsnio dalies pakeitimai:
 
