@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2021-01-01"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-05-27
+Suvestinė redakcija nuo 2021-05-28 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -2445,11 +2445,19 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
 
-13) atlikti kitas šiame ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose numatytas pareigas.
+13) Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais, būdais ir tvarka fiksuoti atsiskaitymų už parduodamas prekes (kai prekės superkamos, – superkamas prekes) ir teikiamas paslaugas duomenis;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
+
+14) atlikti kitas šiame ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose numatytas pareigas.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
+
+Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
 
 Straipsnio pakeitimai:
 
