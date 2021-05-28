@@ -4,7 +4,7 @@ identifier: "TAR.06267D86738E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-07-09"
-last_updated: "2020-07-01"
+last_updated: "2021-05-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2020-07-01 iki 2021-05-27
+Suvestinė redakcija nuo 2021-05-28 iki 2021-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
 
@@ -2748,6 +2748,14 @@ Nr. XIII-3214, 2020-06-30, paskelbta TAR 2020-06-30, i. k. 2020-14376
 
 Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 62, 67-1 ir 70 straipsnių pakeitimo įstatymas
 
+20.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
+
+Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai ir bylos dalies nutraukimo
+
 671 straipsnis. Balsavimas namuose ir balsavimas iš anksto
 
 1. Balsuoti namuose gali tik šie rinkėjai: neįgalieji,  neįgaliuosius namuose slaugantys ar juos prižiūrintys (teikiantys pagalbą) asmenys, kurie yra pateikę Vyriausiosios rinkimų komisijos nustatytos formos rinkėjo prašymą balsuoti namuose ir yra įrašyti į namuose balsuojančių rinkėjų sąrašus, dėl ligos laikinai nedarbingi rinkėjai, sukakę 70 metų ir vyresni rinkėjai, jeigu jie dėl sveikatos būklės patys negali atvykti rinkimų dieną į rinkimų apylinkę, yra pateikę Vyriausiosios rinkimų komisijos nustatytos formos rinkėjo prašymą balsuoti namuose ir yra įrašyti į namuose balsuojančių rinkėjų sąrašus. Taip pat balsuoti namuose gali dėl paskelbtos specialios situacijos saviizoliacijoje esantys rinkėjai, pateikę Vyriausiosios rinkimų komisijos nustatytos formos rinkėjo prašymą balsuoti namuose. Saviizoliacijoje esantiems rinkėjams Vyriausiosios rinkimų komisijos nustatyta tvarka gali būti paštu siunčiamas elektroninio balsavimo kodas, leidžiantis rinkėjui balsuoti Vyriausiosios rinkimų komisijos interneto svetainėje. Namuose balsuojančių rinkėjų sąrašus sudarančios ir tikslinančios rinkimų komisijos turi teisę duomenis apie neįgalius asmenis gauti iš Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro bei darbingumo ir neįgalumo lygio nustatymo duomenų tvarkytojų, o duomenis apie laikinai nedarbingus asmenis – iš Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro tvarkytojo ir sveikatos priežiūros įstaigų. Šių duomenų rinkimų komisijos negali skleisti ir juos naudoja tik namuose balsuojančių rinkėjų sąrašų sudarymo ir tikslinimo tikslais. Rinkimų komisijų nariai, platindami pranešimus apie rinkimus, privalo juos įteikti asmeniškai tiems rinkėjams, kurie turi teisę balsuoti namuose, išskyrus saviizoliacijoje esančius rinkėjus.
@@ -2823,10 +2831,6 @@ Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
 1. Savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario pareigas einantis asmuo, išrinktas Seimo nariu arba juo tapęs užimdamas laisvą Seimo nario vietą, netenka savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario mandato.
 
 2. Vyriausioji rinkimų komisija per 15 dienų nuo šio straipsnio 1 dalyje nustatyto pagrindo atsiradimo savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario įgaliojimus pripažįsta nutrūkusiais prieš terminą.
-
-Papildyta straipsniu:
-
-Nr. XII-2052, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18860
 
 111 straipsnis. Rinkimų ir referendumo komisijų narių rezervas
 
