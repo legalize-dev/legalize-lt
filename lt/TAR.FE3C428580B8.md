@@ -4,7 +4,7 @@ identifier: "TAR.FE3C428580B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-20"
-last_updated: "2020-07-01"
+last_updated: "2021-05-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FE3C428580B8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2021-05-27
+Suvestinė redakcija nuo 2021-05-28 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 115-5192, i. k. 1031010ISTA0IX-1837
 
@@ -483,9 +483,15 @@ Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
 
 7) Europos Parlamento narį išrinkus Lietuvos Respublikos Seimo nariu.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo 94 straipsnio 7 punktas (2016 m. birželio 30 d. redakcija, TAR, 2016-07-15, Nr. 20665), 97 straipsnio 2 dalies (2016 m. birželio 30 d. redakcija, TAR, 2016-07-15, Nr. 20665) nuostata „tuo atveju, kai Europos Parlamento narys išrenkamas Lietuvos Respublikos Seimo nariu, Vyriausioji rinkimų komisija per 15 dienų nuo šio pagrindo atsiradimo Europos Parlamento nario įgaliojimus pripažįsta nutrūkusiais prieš terminą“ prieštarauja Lietuvos Respublikos Konstitucijos 34 straipsnio 2 daliai, 59 straipsnio 2, 3 dalims, 60 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+
 Papildyta straipsnio punktu:
 
 Nr. XII-2583, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20665
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
 
 22 straipsnis. Parama rinkimų komisijoms ir valstybės biudžeto lėšų rinkimams organizuoti naudojimas
 
@@ -1827,9 +1833,13 @@ Nr. XIII-3000, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12826
 
 2. Šio straipsnio 1 dalyje nurodytas pareigas einantis asmuo, išrinktas Europos Parlamento nariu arba juo tapęs užimdamas laisvą Europos Parlamento nario vietą, turi apsispręsti ir atsistatydinti iš su Europos Parlamento nario mandatu nesuderinamų pareigų arba atsistatydinti iš Europos Parlamento nario pareigų. Asmuo, kuris yra išrinktas į Europos Parlamentą arba juo tapo užimdamas laisvą Europos Parlamento nario vietą ir apsisprendžia atsistatydinti iš Europos Parlamento nario pareigų, privalo atsistatydinti šio įstatymo 94 straipsnio 2 punkte nustatyta tvarka ne vėliau kaip likus 15 dienų iki išrinkto Europos Parlamento pirmojo posėdžio arba ne vėliau kaip per 15 dienų nuo dienos, kurią Vyriausioji rinkimų komisija priėmė sprendimą dėl jo mandato pripažinimo. Tuo atveju, kai Europos Parlamento narys išrenkamas Lietuvos Respublikos Seimo nariu, Vyriausioji rinkimų komisija per 15 dienų nuo šio pagrindo atsiradimo Europos Parlamento nario įgaliojimus pripažįsta nutrūkusiais prieš terminą.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo 94 straipsnio 7 punktas (2016 m. birželio 30 d. redakcija, TAR, 2016-07-15, Nr. 20665), 97 straipsnio 2 dalies (2016 m. birželio 30 d. redakcija, TAR, 2016-07-15, Nr. 20665) nuostata „tuo atveju, kai Europos Parlamento narys išrenkamas Lietuvos Respublikos Seimo nariu, Vyriausioji rinkimų komisija per 15 dienų nuo šio pagrindo atsiradimo Europos Parlamento nario įgaliojimus pripažįsta nutrūkusiais prieš terminą“ prieštarauja Lietuvos Respublikos Konstitucijos 34 straipsnio 2 daliai, 59 straipsnio 2, 3 dalims, 60 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2583, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20665
+
+Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
 
 3. Jeigu išrinktas į Europos Parlamentą asmuo per nustatytą terminą neatsistatydina arba šio straipsnio 1 dalyje nurodytas asmuo pradėjo eiti Europos Parlamento nario pareigas, Vyriausioji rinkimų komisija per 5 darbo dienas po to, kai tapo žinoma apie Europos Parlamento nario mandato ir einamų pareigų nesuderinamumą, motyvuotu sprendimu privalo pripažinti šį asmenį netekusiu Europos Parlamento nario mandato, apie tai paskelbti savo interneto svetainėje ir iki 2014 m. sausio 1 d. – artimiausiame leidinio „Valstybės žinios“ numeryje, ir pranešti Europos Parlamentui. Laisva Europos Parlamento nario vieta užimama šio įstatymo 95 straipsnyje nustatyta tvarka.
 
@@ -2090,6 +2100,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3000, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12826
 
 Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 94 ir 96 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
+
+Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai ir bylos dalies nutraukimo
 
 971 straipsnis. Europos Parlamento nario mandato netekimas paaiškėjus, kad išrinkto į Europos Parlamentą asmens kilmės valstybėje narėje jam yra atimta teisė būti kandidatu
 
