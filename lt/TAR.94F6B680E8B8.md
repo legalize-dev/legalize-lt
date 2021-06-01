@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2021-05-26"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2021-05-26 iki 2021-05-31
+Suvestinė redakcija nuo 2021-06-01 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -486,7 +486,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2940, 2020-05-19, paskelbta TAR 2020-05-22, i. k. 2020-10980
 
-2) šio Įstatymo 11 straipsnyje numatytą medicininę reabilitaciją ir sanatorinį gydymą.
+2) šio Įstatymo 11 straipsnyje numatytą medicininę reabilitaciją ir sanatorinį (antirecidyvinį) gydymą (toliau – sanatorinis gydymas).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-285, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09686
 
 5. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokamos šios asmens sveikatos ekspertizės paslaugos:
 
@@ -578,35 +582,21 @@ Nr. X-194, 2005-05-12, Žin., 2005, Nr. 67-2402 (2005-05-28)
 
 Nr. X-317, 2005-07-05, Žin., 2005, Nr. 86-3209 (2005-07-16)
 
-11 straipsnis. Medicininės reabilitacijos ir sanatorinio gydymo išlaidų kompensavimas
+11 straipsnis. Medicininės reabilitacijos ir sanatorinio gydymo paslaugų apmokėjimas asmens sveikatos priežiūros įstaigoms
 
-apdraustiesiems
+1. Medicininės reabilitacijos ir sanatorinio gydymo paslaugų bazines kainas ir šių paslaugų apmokėjimo asmens sveikatos priežiūros įstaigoms tvarką nustato sveikatos apsaugos ministras. Medicininės reabilitacijos ir sanatorinio gydymo paslaugų bazinės kainos nustatomos įvertinus Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones.
 
-1. Visa bazinė medicininės reabilitacijos, įskaitant sveikatą grąžinantį gydymą, kaina kompensuojama šiems apdraustiesiems:
+2. Apmokama 100 procentų medicininės reabilitacijos paslaugų bazinės kainos.
 
-1) vaikams iki 18 metų;
+3. 90 procentų sanatorinio gydymo paslaugų bazinės kainos apmokama:
 
-2) asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis (iki 2005 m. liepos 1 d. pripažintiems I grupės invalidais), ar asmenims, sukakusiems senatvės pensijos amžių, kuriems yra nustatytas didelių specialiųjų poreikių lygis;
+1) už vaikų iki 7 metų gydymą;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
-
-3) asmenims, siunčiamiems baigti gydymą po sunkios ligos ar traumos, kurios įrašytos į sveikatos apsaugos ministro patvirtintą sąrašą.
-
-2. 90 procentų bazinės sanatorinio (antirecidyvinio) gydymo kainos kompensuojama šiems apdraustiesiems:
-
-1) vaikams iki 7 metų;
-
-2) asmenims iki 18 metų, kurie teisės aktų nustatyta tvarka pripažinti neįgaliaisiais.
-
-3. Bazinę medicininės reabilitacijos ir sanatorinio (antirecidyvinio) gydymo kainą nustato Sveikatos apsaugos ministerija, įvertinusi Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones.
-
-4. Išlaidų medicininei reabilitacijai ir sanatoriniam (antirecidyviniam) gydymui kompensacijų skyrimo ir mokėjimo tvarką nustato Sveikatos apsaugos ministerija.
+2) už asmenų iki 18 metų, kurie teisės aktų nustatyta tvarka pripažinti neįgaliaisiais, gydymą.
 
 Straipsnio pakeitimai:
 
-Nr. X-317, 2005-07-05, Žin., 2005, Nr. 86-3209 (2005-07-16)
+Nr. XIV-285, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09686
 
 12 straipsnis. Galūnių, sąnarių ir organų protezavimo, protezų įsigijimo ir
 
