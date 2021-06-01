@@ -4,7 +4,7 @@ identifier: "TAR.DEBA0718FB0F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2020-07-10"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2020-07-10 iki 2021-05-31
+Suvestinė redakcija nuo 2021-06-01 iki 2021-09-17
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
 
@@ -738,19 +738,29 @@ SEPTINTASIS SKIRSNIS
 
 KELEIVIŲ IR BAGAŽO VEŽIMAS
 
-30 straipsnis. Keleivio ir bagažo vežimo sutartys
+30 straipsnis. Keleivio ir bagažo vežimo sutartys, keleivių, transporto priemonių patekimo į keltą pirmumo tvarka ir sąlygos
 
-1. Keleivio vežimo sutartyje vežėjas įsipareigoja nuvežti keleivį ir jo rankinį bagažą į paskirties punktą, o keleivis įsipareigoja sumokėti nustatytą užmokestį už nuvežimą. Keleivių vežimo vidaus vandenų transportu tarifus nustato vežėjas. Keleivių ir transporto priemonių perkėlimo keltais per Kuršių marias (per Klaipėdos valstybinio jūrų uosto akvatoriją) į (iš) Kuršių neriją didžiausi tarifai turi būti suderinti su Valstybine kainų ir energetikos kontrolės komisija.
+1. Keleivio vežimo sutartyje vežėjas įsipareigoja nuvežti keleivį ir jo rankinį bagažą į paskirties punktą, o keleivis įsipareigoja sumokėti nustatytą užmokestį už nuvežimą. Keleivių vežimo vidaus vandenų transportu tarifus nustato vežėjas. Keleivių ir transporto priemonių perkėlimo keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos didžiausi tarifai turi būti suderinti su Valstybine energetikos reguliavimo taryba.
 
-2. Bagažo vežimo sutartyje vežėjas įsipareigoja nugabenti keleivio bagažą į paskirties punktą ir išduoti jį gavėjui, o keleivis įsipareigoja sumokėti nustatytą užmokestį už bagažo nuvežimą.
+2. Vežėjas, atsakingas už keleivių ir transporto priemonių perkėlimą keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos, į keltą pirmumo tvarka įleidžia transporto priemones ir asmenis, nurodytus:
 
-3. Draudžiamų vežti daiktų sąrašą numato Keleivių ir bagažo vežimo vidaus vandenų transportu taisyklės, kurias tvirtina Susisiekimo ministerija.
+1) Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 7 dalies 3, 5 ir 6 punktuose, nuo pirmadienio 00 val. 00 min. iki penktadienio 18 val. 00 min.;
+
+2) Kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 7 dalies 1, 2, 4, 7 ir 8 punktuose, 24 val. per parą, 7 dienas per savaitę.
+
+3. Bagažo vežimo sutartyje vežėjas įsipareigoja nuvežti keleivio bagažą į paskirties punktą ir išduoti jį gavėjui, o keleivis įsipareigoja sumokėti nustatytą užmokestį už bagažo nuvežimą.
+
+4. Draudžiamų vežti daiktų sąrašą, keleivių ir transporto priemonių patekimo į keltą pirmumo tvarką nustato Keleivių ir bagažo vežimo vidaus vandenų transportu taisyklės, kurias tvirtina susisiekimo ministras.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-926, 98.11.17, Žin., 1998, Nr.105-2897 (98.12.02)
 
 Nr. XI-495, 2009-11-19, Žin., 2009, Nr. 144-6347 (2009-12-05)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-294, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11762
 
 32 straipsnis. Keleivio bilietas
 
@@ -1483,6 +1493,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3182, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15383
 
 Lietuvos Respublikos vidaus vandenų transporto kodekso 18 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-294, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11762
+
+Lietuvos Respublikos vidaus vandenų transporto kodekso 30 straipsnio pakeitimo įstatymas
 
 161 straipsnis. Vidaus vandenų transporto priemonių techninė apžiūra, techninis patikrinimas, Europos Sąjungos vidaus vandenų laivybos sertifikato ir laikinojo Europos Sąjungos vidaus vandenų laivybos sertifikato išdavimas
 
