@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2021-03-01"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2021-03-01 iki 2021-06-01
+Suvestinė redakcija nuo 2021-06-02 iki 2021-06-14
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -2346,7 +2346,11 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 3. Draudimas atvykti į Lietuvos Respubliką netaikomas užsieniečiui, kuris buvo išsiųstas iš Lietuvos Respublikos dėl to, kad per nustatytą terminą neįvykdė įpareigojimo išvykti iš Lietuvos Respublikos arba savanoriškai neišvyko iš Lietuvos Respublikos per sprendime grąžinti jį į užsienio valstybę nustatytą terminą, jeigu jam buvo išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 12 punkte nustatytu pagrindu kaip prekybos žmonėmis aukai ir jeigu jis nekelia grėsmės valstybės saugumui ar visuomenei.
 
-4. Užsieniečiui uždraudžiama atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui, jeigu yra rimtas pagrindas manyti, kad užsienio valstybėje užsienietis yra padaręs sunkų ar labai sunkų nusikaltimą asmeniui ir dėl to buvo pažeistos visuotinai pripažintos žmogaus teisės ir laisvės, korupcinio pobūdžio nusikalstamą veiką ar pinigų plovimo požymius atitinkančią nusikalstamą veiką, kaip tai apibrėžta Lietuvos Respublikos įstatymuose ar tarptautinėse sutartyse, arba kad kurstė ar kitaip dalyvavo darant tokias nusikalstamas veikas ir (ar) dėl šių priežasčių užsienietis yra įtrauktas į kitos Europos Sąjungos valstybės narės, Europos laisvosios prekybos asociacijos ar Šiaurės Atlanto Sutarties Organizacijos valstybės narės nacionalinį užsieniečių, kuriems draudžiama atvykti, sąrašą.
+4. Užsieniečiui uždraudžiama atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui, jeigu yra rimtas pagrindas manyti, kad užsienio valstybėje užsienietis yra padaręs sunkų ar labai sunkų nusikaltimą asmeniui ir dėl to buvo pažeistos visuotinai pripažintos žmogaus teisės ir laisvės, korupcinio pobūdžio nusikalstamą veiką ar pinigų plovimo požymius atitinkančią nusikalstamą veiką, kaip tai apibrėžta Lietuvos Respublikos įstatymuose ar tarptautinėse sutartyse, arba kad kurstė ar kitaip dalyvavo darant tokias nusikalstamas veikas, arba kuris viešai ir (ar) aktyviai remia ir (ar) dalyvauja užsienio valstybės vykdomoje tarptautinės teisės principus ir normas pažeidžiančioje veikoje ir (ar) dėl šių priežasčių užsienietis yra įtrauktas į kitos Europos Sąjungos valstybės narės, Europos laisvosios prekybos asociacijos ar Šiaurės Atlanto sutarties organizacijos valstybės narės nacionalinį užsieniečių, kuriems draudžiama atvykti, sąrašą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-324, 2021-05-20, paskelbta TAR 2021-06-01, i. k. 2021-12500
 
 5. Užsieniečiui uždraudžiama atvykti į Lietuvos Respubliką, jeigu jis gali kelti grėsmę valstybės saugumui ar viešajai tvarkai. Uždraudimo atvykti į Lietuvos Respubliką laikotarpis gali būti ilgesnis negu penkeri metai.
 
@@ -5459,6 +5463,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-324, 2021-05-20, paskelbta TAR 2021-06-01, i. k. 2021-12500
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 133 straipsnio pakeitimo įstatymas
 
 341 straipsnis. Leidimo gyventi išdavimas, keitimas ir naujas įforminimas skubos tvarka
 
