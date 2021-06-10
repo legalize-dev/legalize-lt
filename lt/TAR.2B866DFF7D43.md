@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2021-01-01"
+last_updated: "2021-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-09
+Suvestinė redakcija nuo 2021-06-10 iki 2021-10-22
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -3146,7 +3146,11 @@ Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
 
 71 straipsnis. Įmoka į nukentėjusių nuo nusikaltimų asmenų fondą
 
-1. Teismas asmeniui gali paskirti nuo 5 iki 125 MGL, o nepilnamečiui – nuo 3 iki 25 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą. Nepilnamečiui įmoka į nukentėjusių nuo nusikaltimų asmenų fondą skiriama tik tuo atveju, kai nepilnametis dirba ar turi savo turto.
+1. Teismas asmeniui gali paskirti nuo 10 iki 250 MGL, o nepilnamečiui – nuo 3 iki 25 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą. Nepilnamečiui įmoka į nukentėjusių nuo nusikaltimų asmenų fondą skiriama tik tuo atveju, kai nepilnametis dirba ar turi savo turto.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-368, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13176
 
 2. Juridiniam asmeniui teismas gali paskirti nuo 100 iki 2 000 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą.
 
@@ -6309,6 +6313,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3353, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24238
 
 Lietuvos Respublikos baudžiamojo kodekso 42, 67 straipsnių pakeitimo ir Kodekso papildymo 72-4 straipsniu įstatymas
+
+43.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-368, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13176
+
+Lietuvos Respublikos baudžiamojo kodekso 71 straipsnio pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
