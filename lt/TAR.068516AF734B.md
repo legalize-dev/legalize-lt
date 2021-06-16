@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2021-02-01"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2021-02-01 iki 2021-06-15
+Suvestinė redakcija nuo 2021-06-16 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
 
@@ -213,13 +213,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
-3. Jeigu apdraustasis asmuo motinystės išmokos gavimo laikotarpiu turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš tuo laikotarpiu vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra draudžiamosios pajamos, ar gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, ir jų dydis mažesnis už motinystės išmoką, jam mokamas motinystės išmokos ir jo atitinkamą mėnesį turėtų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. Jeigu šių pajamų ir (ar) išmokų dydis yra didesnis už motinystės išmoką arba jai lygus, motinystės išmoka nemokama. Mokant motinystės išmoką, į draudžiamąsias pajamas neįtraukiamos motinystės išmokos mokėjimo metu gautos draudžiamosios pajamos už darbą, atliktą iki pirmosios nėštumo ir gimdymo atostogų dienos. Asmenys, gaunantys pajamų tik iš sporto, atlikėjo veiklos, pagal autorines sutartis arba iš individualios veiklos, laikomi turinčiais draudžiamųjų pajamų visą mėnesį, jeigu motinystės socialinio draudimo įmokos sumokėtos nuo pajamų sumos, ne mažesnės negu minimalioji mėnesinė alga. Jeigu motinystės socialinio draudimo įmokos sumokėtos nuo mažesnės negu minimalioji mėnesinė alga sumos, šių asmenų draudžiamųjų pajamų turėjimo laikotarpis laikomas proporcingai mažesniu. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti motinystės išmoką, ši išmoka mokama neatsižvelgiant į pajamas. Mokant motinystės išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
+3. Jeigu apdraustasis asmuo motinystės išmokos gavimo laikotarpiu turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš tuo laikotarpiu vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra draudžiamosios pajamos, ar gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, ir jų dydis yra mažesnis už motinystės išmoką, jam mokamas motinystės išmokos ir jo atitinkamą mėnesį turėtų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. Jeigu šių pajamų ir (ar) išmokų dydis yra didesnis už motinystės išmoką arba jai lygus, motinystės išmoka nemokama. Mokant motinystės išmoką, į draudžiamąsias pajamas neįtraukiamos motinystės išmokos mokėjimo metu gautos draudžiamosios pajamos už darbą, atliktą iki pirmosios nėštumo ir gimdymo atostogų dienos. Asmenys, gaunantys pajamų tik iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, laikomi turinčiais draudžiamųjų pajamų visą mėnesį, jeigu motinystės socialinio draudimo įmokos sumokėtos nuo pajamų sumos, ne mažesnės negu minimalioji mėnesinė alga. Jeigu motinystės socialinio draudimo įmokos sumokėtos nuo mažesnės negu minimalioji mėnesinė alga sumos, šių asmenų draudžiamųjų pajamų turėjimo laikotarpis laikomas proporcingai mažesniu. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti motinystės išmoką, ši išmoka mokama neatsižvelgiant į pajamas, gautas vykdant jų, kaip Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodytų savarankiškai dirbančių asmenų, veiklą. Mokant motinystės išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
+
+Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
 
 4. Jeigu asmeniui, atleidžiamam iš darbo ar tarnybos, išmokama išeitinė išmoka ar kompensacija už nepanaudotas kasmetines atostogas, paskirta motinystės išmoka mokama neatsižvelgiant į šias draudžiamąsias pajamas.
 
@@ -375,13 +377,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
-3. Jeigu apdraustasis asmuo tėvystės išmokos gavimo laikotarpiu turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš tuo laikotarpiu vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra draudžiamosios pajamos, ar gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, ir jų dydis mažesnis už tėvystės išmoką, jam mokamas tėvystės išmokos ir jo atitinkamą mėnesį turėtų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. Jeigu šių pajamų ir (ar) išmokų dydis yra didesnis už tėvystės išmoką arba jai lygus, tėvystės išmoka nemokama. Mokant tėvystės išmoką, į draudžiamąsias pajamas neįtraukiamos tėvystės išmokos mokėjimo metu gautos draudžiamosios pajamos už darbą, atliktą iki pirmosios tėvystės atostogų dienos. Asmenys, gaunantys pajamų tik iš sporto, atlikėjo veiklos, pagal autorines sutartis arba iš individualios veiklos, laikomi turinčiais draudžiamųjų pajamų visą mėnesį, jeigu motinystės socialinio draudimo įmokos sumokėtos nuo pajamų sumos, ne mažesnės negu minimalioji mėnesinė alga. Jeigu motinystės socialinio draudimo įmokos sumokėtos nuo mažesnės negu minimalioji mėnesinė alga sumos, šių asmenų draudžiamųjų pajamų turėjimo laikotarpis laikomas proporcingai mažesniu. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti tėvystės išmoką, ši išmoka mokama neatsižvelgiant į pajamas. Mokant tėvystės išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
+3. Jeigu apdraustasis asmuo tėvystės išmokos gavimo laikotarpiu turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš tuo laikotarpiu vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra draudžiamosios pajamos, ar gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, ir jų dydis yra mažesnis už tėvystės išmoką, jam mokamas tėvystės išmokos ir jo atitinkamą mėnesį turėtų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. Jeigu šių pajamų ir (ar) išmokų dydis yra didesnis už tėvystės išmoką arba jai lygus, tėvystės išmoka nemokama. Mokant tėvystės išmoką, į draudžiamąsias pajamas neįtraukiamos tėvystės išmokos mokėjimo metu gautos draudžiamosios pajamos už darbą, atliktą iki pirmosios tėvystės atostogų dienos. Asmenys, gaunantys pajamų tik iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, laikomi turinčiais draudžiamųjų pajamų visą mėnesį, jeigu motinystės socialinio draudimo įmokos sumokėtos nuo pajamų sumos, ne mažesnės negu minimalioji mėnesinė alga. Jeigu motinystės socialinio draudimo įmokos sumokėtos nuo mažesnės negu minimalioji mėnesinė alga sumos, šių asmenų draudžiamųjų pajamų turėjimo laikotarpis laikomas proporcingai mažesniu. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti tėvystės išmoką, ši išmoka mokama neatsižvelgiant į pajamas, gautas vykdant jų, kaip Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodytų savarankiškai dirbančių asmenų, veiklą. Mokant tėvystės išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
+
+Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
 
 4. Kai tėvystės išmokos gavimo laikotarpiu apdraustajam asmeniui išmokamos su darbo santykiais susijusios kompensacinio ar skatinamojo pobūdžio vienkartinės išmokos, tėvystės išmoka mokama neatsižvelgiant į tai, kad nuo šių išmokų mokamos valstybinio socialinio draudimo įmokos.
 
@@ -585,11 +589,13 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 5. Ligos išmoka, mokama iš Valstybinio socialinio draudimo fondo lėšų, per mėnesį negali būti mažesnė negu 11,64 procento šalies vidutinio mėnesinio darbo užmokesčio, galiojusio užpraeitą ketvirtį iki laikinojo nedarbingumo nustatymo mėnesio.
 
-6. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti ligos išmoką, ši išmoka mokama neatsižvelgiant į pajamas. Mokant ligos išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
+6. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti ligos išmoką, ši išmoka mokama neatsižvelgiant į pajamas, gautas vykdant jų, kaip Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodytų savarankiškai dirbančių asmenų, veiklą. Mokant ligos išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
+
+Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
 
 7. Kai ligos išmokos gavimo laikotarpiu apdraustajam asmeniui išmokamos su darbo santykiais susijusios kompensacinio ar skatinamojo pobūdžio vienkartinės išmokos, ligos išmoka mokama neatsižvelgiant į tai, kad nuo šių išmokų mokamos valstybinio socialinio draudimo įmokos.
 
@@ -669,7 +675,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
 
-4. Jeigu apdraustasis asmuo, kuriam paskirta vaiko priežiūros išmoka, pirmaisiais vaiko auginimo metais (iki vaikui sueis vieni metai arba pirmaisiais įvaikinto vaiko auginimo metais) turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš pirmaisiais vaiko auginimo metais (iki vaikui sueis vieni metai arba pirmaisiais įvaikinto vaiko auginimo metais) vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra draudžiamosios pajamos, ar gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, ir jų dydis mažesnis už vaiko priežiūros išmoką (bendrą šių išmokų sumą), jam mokamas vaiko priežiūros išmokos (bendros šių išmokų sumos) ir jo atitinkamą mėnesį turėtų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. Jeigu šių pajamų ir (ar) išmokų dydis yra didesnis už vaiko priežiūros išmoką arba jai lygus, vaiko priežiūros išmoka nemokama. Mokant vaiko priežiūros išmoką, į draudžiamąsias pajamas neįtraukiamos vaiko priežiūros išmokos mokėjimo metu gautos draudžiamosios pajamos už darbą, atliktą iki pirmosios vaiko priežiūros atostogų dienos. Antraisiais vaiko auginimo metais (iki vaikui sueis 2 metai arba antraisiais įvaikinto vaiko auginimo metais) vaiko priežiūros išmoka mokama neatsižvelgiant į tuo metu gautas pajamas ir (ar) išmokas. Asmenys, gaunantys pajamų tik iš sporto, atlikėjo veiklos, pagal autorines sutartis arba iš individualios veiklos, laikomi turinčiais draudžiamųjų pajamų visą mėnesį, jeigu motinystės socialinio draudimo įmokos sumokėtos nuo pajamų sumos, ne mažesnės negu minimalioji mėnesinė alga. Jeigu motinystės socialinio draudimo įmokos sumokėtos nuo mažesnės negu minimalioji mėnesinė alga sumos, šių asmenų draudžiamųjų pajamų turėjimo laikotarpis laikomas proporcingai mažesniu. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti vaiko priežiūros išmoką, ši išmoka mokama neatsižvelgiant į pajamas. Mokant vaiko priežiūros išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
+4. Jeigu apdraustasis asmuo, kuriam paskirta vaiko priežiūros išmoka, pirmaisiais vaiko auginimo metais (iki vaikui sueis vieni metai arba pirmaisiais įvaikinto vaiko auginimo metais) turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš pirmaisiais vaiko auginimo metais (iki vaikui sueis vieni metai arba pirmaisiais įvaikinto vaiko auginimo metais) vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra draudžiamosios pajamos, ar gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, ir jų dydis yra mažesnis už vaiko priežiūros išmoką (bendrą šių išmokų sumą), Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka jam mokamas vaiko priežiūros išmokos (bendros šių išmokų sumos) ir jo atitinkamą mėnesį turėtų pajamų ir (ar) išmokų skirtumas. Jeigu šių pajamų ir (ar) išmokų dydis yra didesnis už vaiko priežiūros išmoką arba jai lygus, vaiko priežiūros išmoka nemokama. Mokant vaiko priežiūros išmoką, į draudžiamąsias pajamas neįtraukiamos vaiko priežiūros išmokos mokėjimo metu gautos draudžiamosios pajamos už darbą, atliktą iki pirmosios vaiko priežiūros atostogų dienos. Antraisiais vaiko auginimo metais (iki vaikui sueis 2 metai arba antraisiais įvaikinto vaiko auginimo metais) vaiko priežiūros išmoka mokama neatsižvelgiant į tuo metu gautas pajamas ir (ar) išmokas. Asmenys, gaunantys pajamų tik iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, laikomi turinčiais draudžiamųjų pajamų visą mėnesį, jeigu motinystės socialinio draudimo įmokos sumokėtos nuo pajamų sumos, ne mažesnės negu minimalioji mėnesinė alga. Jeigu motinystės socialinio draudimo įmokos sumokėtos nuo mažesnės negu minimalioji mėnesinė alga sumos, šių asmenų draudžiamųjų pajamų turėjimo laikotarpis laikomas proporcingai mažesniu. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti vaiko priežiūros išmoką, ši išmoka mokama neatsižvelgiant į pajamas, gautas vykdant jų, kaip Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodytų savarankiškai dirbančių asmenų, veiklą. Mokant vaiko priežiūros išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
 
 Straipsnio dalies pakeitimai:
 
@@ -680,6 +686,8 @@ Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
 Nr. XIII-2323, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12116
 
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
+
+Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
 
 5. Jeigu asmeniui, atleidžiamam iš darbo ar tarnybos, išmokama išeitinė išmoka ar kompensacija už nepanaudotas kasmetines atostogas, paskirta vaiko priežiūros išmoka mokama neatsižvelgiant į šias draudžiamąsias pajamas.
 
@@ -1538,6 +1546,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
 
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 5, 11-1, 14, 18, 21 ir 24 straipsnių pakeitimo įstatymas
+
+26.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
+
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 11-1, 14, 18, 21, 24, 33 straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
 
 111 straipsnis. Ligos išmokų skyrimo ir mokėjimo ypatumai Vyriausybei paskelbus ekstremaliąją situaciją ir (ar) karantiną
 
