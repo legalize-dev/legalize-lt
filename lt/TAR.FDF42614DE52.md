@@ -4,7 +4,7 @@ identifier: "TAR.FDF42614DE52"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2020-06-12"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 17 straipsnio 4 ir 5 dalių bei 19 strai
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2020-06-12 iki 2021-06-15
+Suvestinė redakcija nuo 2021-06-16 iki 2021-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
 
@@ -180,7 +180,7 @@ Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
 
 1. Sustabdytos pagal šio įstatymo 9 straipsnio 1 dalį nedarbo draudimo išmokos mokėjimas atnaujinamas nuo tos dienos (įskaitytinai), nuo kurios atnaujinamas bedarbio statusas.
 
-2. Nutrauktos dėl Užimtumo įstatymo 24 straipsnio 4 dalies 1, 2, 4 ir 13 punktuose nustatytų atvejų nedarbo draudimo išmokos mokėjimas atnaujinamas visiems bedarbiams, iš naujo įsiregistravusiems Užimtumo tarnyboje per 6 mėnesius po nedarbo draudimo išmokos mokėjimo nutraukimo.
+2. Nutrauktos dėl Užimtumo įstatymo 24 straipsnio 4 dalies 1, 2, 4 ir 13 punktuose nustatytų atvejų nedarbo draudimo išmokos mokėjimas atnaujinamas visiems bedarbiams, iš naujo įsiregistravusiems Užimtumo tarnyboje per 6 mėnesius po nedarbo draudimo išmokos mokėjimo nutraukimo, nuo bedarbio statuso suteikimo dienos.
 
 Straipsnio dalies pakeitimai:
 
@@ -188,7 +188,13 @@ Nr. XIII-835, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20028
 
 Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
 
-3. Nutrauktos nedarbo draudimo išmokos mokėjimo atnaujinimas gali būti taikomas tik vieną kartą.
+Nr. XIV-376, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13641
+
+3. Nutrauktos nedarbo draudimo išmokos mokėjimo atnaujinimas pagal šio straipsnio 2 dalį gali būti taikomas du kartus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-376, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13641
 
 4. Atnaujinus sustabdytos arba nutrauktos nedarbo draudimo išmokos mokėjimą, nedarbo draudimo išmokos mokėjimas tęsiamas likusį šio įstatymo nustatytą laikotarpį, taikant šio įstatymo 8 straipsnio nuostatas, pagal tuos pačius apdraustojo draudžiamųjų pajamų duomenis, kurie buvo nedarbo draudimo išmokos paskyrimo metu.
 
