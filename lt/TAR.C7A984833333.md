@@ -4,7 +4,7 @@ identifier: "TAR.C7A984833333"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2021-01-01"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-15
+Suvestinė redakcija nuo 2021-06-16 iki 2022-06-15
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
 
@@ -567,7 +567,11 @@ REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALIN�
 
 7) pateikti eismo saugos institucijai prašymą papildyti turimą ECM sertifikatą tuo atveju, kai įgyvendinami esminiai techninės priežiūros pakeitimai ir (ar) ketinama vykdyti veiklą, kuri nėra nurodyta ECM sertifikate; šių prašymų ir dokumentų vertinimui mutatis mutandis taikomos šio straipsnio 3–6 dalių nuostatos;
 
-8) vykdyti Reglamento (ES) 2019/779 5 ir 9 straipsniuose nurodytas informavimo pareigas.
+8) vykdyti Reglamento (ES) 2019/779 4, 5 ir 9 straipsniuose nurodytas informavimo pareigas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 8. Eismo saugos institucija prižiūri, ar asmuo, įgijęs techninio prižiūrėtojo sertifikatą, laikosi šio straipsnio 7 dalyje nustatytų reikalavimų. Eismo saugos institucija ne rečiau kaip kartą per metus privalo atlikti techninio prižiūrėtojo, įgijusio ECM sertifikatą, patikrinimą jo veiklos vykdymo vietoje dėl šio straipsnio 7 dalies 2 punkte nustatytų veiklos sąlygų laikymosi.
 
