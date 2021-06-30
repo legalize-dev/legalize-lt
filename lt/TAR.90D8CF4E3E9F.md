@@ -4,7 +4,7 @@ identifier: "TAR.90D8CF4E3E9F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2021-01-01"
+last_updated: "2021-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.90D8CF4E3E9F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 31 ir 32 straipsniai įsigalioja 2007-07
 ---
 # Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-29
+Suvestinė redakcija nuo 2021-06-30 iki 2021-08-31
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3214, i. k. 1071010ISTA00X-1238
 
@@ -214,7 +214,11 @@ e) seniūnija;
 
 f) prokuroras;
 
-g) teismas (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų);
+g) teismas ir administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
 
 2) vaiko vidutinės priežiūros priemonės skyrimo turi teisę kreiptis:
 
@@ -228,7 +232,11 @@ d) seniūnija;
 
 e) prokuroras;
 
-f) teismas (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų);
+f) teismas ir administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
 
 3) vaiko minimalios priežiūros priemonių pakeitimo ar panaikinimo turi teisę kreiptis tarpinstitucinio bendradarbiavimo koordinatorius, vaikas, vaiko atstovai pagal įstatymą, teritorinė policijos įstaiga, mokykla, prokuroras, atvejo vadybininkas; dėl vaiko vidutinės priežiūros priemonių pakeitimo ar panaikinimo turi teisę kreiptis vaikas, vaiko atstovai pagal įstatymą, teritorinė policijos įstaiga, prokuroras, specialistas, vykdęs koordinuotai teikiamų paslaugų teikimo atvejo vadybininko funkcijas (toliau – atvejo vadybininkas) ir vaikų socializacijos centras;
 
@@ -853,6 +861,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3292, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20886
 
 Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
+
+Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 12 straipsnio pakeitimo įstatymas
 
 33 straipsnis. Įstatymo įsigaliojimas
 
