@@ -4,7 +4,7 @@ identifier: "TAR.ED38F243563C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
+
+TAR pastaba. Įsigaliojus (2021-07-01) Įstatymui Nr. XIV-217, be atskiro asmens prašymo Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos nuo šio įstatymo įsigaliojimo dienos atnaujina Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų mokėjimą asmenims, kuriems šių pensijų mokėjimas buvo sustabdytas vadovaujantis iki šio įstatymo įsigaliojimo galiojusio Lietuvos Respublikos valstybinių pensijų įstatymo 5 straipsnio 5 dalimi.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-217, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06556
+
+Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 5 ir 15-1 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMAS
 
@@ -289,7 +297,11 @@ Ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirm
 
 Asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo padarymą, pirmojo ar antrojo laipsnio valstybinės pensijos paskyrimas panaikinamas nuo nuosprendžio įsigaliojimo dienos.
 
-Asmenims, kurie po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos pensijų socialinio draudimo įmokos, arba kurie gauna ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, vaiko priežiūros, profesinės reabilitacijos ar nedarbo socialinio draudimo išmokas (toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos. Ši nuostata netaikoma ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, antrojo laipsnio valstybinių pensijų gavėjams daugiavaikiams motinai arba tėvui, garbės donorams. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo Socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
+5. Neteko galios nuo 2021-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-217, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06556
 
 Straipsnio dalies pakeitimai:
 
@@ -1233,7 +1245,11 @@ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 3, 6, 8 IR 15 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Teisę gauti Respublikos Prezidento sutuoktinio valstybinę pensiją turi asmuo, kuris, būdamas Respublikos Prezidento sutuoktiniu, Respublikos Prezidento kadencijos (kadencijų) metu ne mažiau kaip 3 metus vykdė valstybiniame ir (ar) diplomatiniame protokole nustatytas Respublikos Prezidento sutuoktinio (toliau – Respublikos Prezidento sutuoktinis) funkcijas.
 
-Respublikos Prezidento sutuoktinio valstybinė pensija skiriama ir mokama Respublikos Prezidento, kurio įgaliojimai nutrūko pasibaigus jo kadencijai Lietuvos Respublikos Konstitucijos 88 straipsnyje nustatytais pagrindais, sutuoktiniui, jeigu jis yra Lietuvos Respublikos pilietis, sukakęs senatvės pensijos amžių arba yra pripažintas nedarbingu ar iš dalies darbingu, netekusiu 60 procentų ir daugiau darbingumo, neturi draudžiamųjų pajamų, kurių sąvoka suprantama taip, kaip ji apibrėžta Valstybinio socialinio draudimo įstatyme, ir negauna kitos valstybinės pensijos.
+Respublikos Prezidento sutuoktinio valstybinė pensija skiriama ir mokama Respublikos Prezidento, kurio įgaliojimai nutrūko pasibaigus jo kadencijai Lietuvos Respublikos Konstitucijos 88 straipsnyje nustatytais pagrindais, sutuoktiniui, jeigu jis yra Lietuvos Respublikos pilietis, sukakęs senatvės pensijos amžių arba pripažintas netekusiu 60 procentų ir daugiau darbingumo, ir negauna kitos valstybinės pensijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-217, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06556
 
 Respublikos Prezidento sutuoktinio valstybinės pensijos dydis – 11,64 procento Respublikos Prezidento darbo užmokesčio dydžio per mėnesį.
 
