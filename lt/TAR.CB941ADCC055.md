@@ -4,7 +4,7 @@ identifier: "TAR.CB941ADCC055"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-01"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
 
@@ -34,7 +34,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis Įstatymas nustato aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdančias institucijas bei pareigūnus, jų teisinį statusą, veiklos teisinius pagrindus bei pagrindinius principus, veiklos organizavimą, reglamentuoja aplinkos apsaugos valstybinės kontrolės procesą.
+1. Šis Įstatymas nustato aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdančią instituciją ir aplinkos apsaugos valstybinės kontrolės pareigūnus, jų teisinį statusą, veiklos teisinius pagrindus bei pagrindinius principus, veiklos organizavimą, reglamentuoja aplinkos apsaugos valstybinės kontrolės procesą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.
 
@@ -44,7 +48,11 @@ Nr. X-648, 2006-06-08, Žin., 2006, Nr. 72-2667 (2006-06-28)
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1. Aplinkos apsaugos valstybinė kontrolė – valstybės įgaliotų institucijų ir pareigūnų veikla ūkio subjektų, kitų fizinių ir juridinių asmenų atžvilgiu, kuria siekiama užtikrinti teisėtumą ir teisėtvarką aplinkos apsaugos ir gamtos išteklių naudojimo srityje, pasireiškianti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų prevencija, pažeidimų nutraukimu bei šių pažeidimų padarymu kaltų asmenų nustatymu, jų patraukimu teisinėn atsakomybėn.
+1. Aplinkos apsaugos valstybinė kontrolė – aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdančios institucijos ir aplinkos apsaugos valstybinės kontrolės pareigūnų veikla ūkio subjektų, kitų fizinių ir juridinių asmenų atžvilgiu, kuria siekiama užtikrinti teisėtumą ir teisėtvarką aplinkos apsaugos ir gamtos išteklių naudojimo srityje, pasireiškianti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų prevencija, pažeidimų nutraukimu ir asmenų, padariusių šiuos pažeidimus, nustatymu, jų patraukimu teisinėn atsakomybėn.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 2. Aplinkos apsaugos valstybinės kontrolės pareigūnai – Lietuvos Respublikos aplinkos ministerijos sistemos pareigūnai, turintys šio ir kitų įstatymų jiems suteiktas galias.
 
@@ -62,7 +70,11 @@ Nr. X-648, 2006-06-08, Žin., 2006, Nr. 72-2667 (2006-06-28)
 
 9. Valstybiniai laboratoriniai tyrimai – aplinkos apsaugos valstybinės kontrolės tikslais atliekami į aplinką patenkančių teršalų, jų paveiktos aplinkos ir atliekų cheminės sudėties ir fizikinių savybių tyrimai ir matavimai (ėminių ėmimas, laboratorinių tyrimų ir matavimų atlikimas).
 
-10. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos arba vartojamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme, Lietuvos Respublikos policijos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
+10. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos arba vartojamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir Lietuvos Respublikos medžioklės įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 Straipsnio pakeitimai:
 
@@ -78,13 +90,21 @@ Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
 
 3 straipsnis. Aplinkos apsaugos valstybinės kontrolės turinys
 
-Siekdamos užtikrinti teisėtumą ir teisėtvarką aplinkos apsaugos ir gamtos išteklių naudojimo srityje, aplinkos apsaugos valstybinės kontrolės institucijos ir pareigūnai:
+Siekdami užtikrinti teisėtumą ir teisėtvarką aplinkos apsaugos ir gamtos išteklių naudojimo srityje, aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 1) organizuoja ir vykdo prevencinę veiklą, kuria siekiama, kad fiziniai ir juridiniai asmenys laikytųsi įstatymų ir kitų teisės aktų, reglamentuojančių aplinkos apsaugą ir gamtos išteklių naudojimą, reikalavimų;
 
 2) kontroliuoja, ar teisėtai, laikantis įstatymų ir kitų teisės aktų, fiziniai ir juridiniai asmenys naudoja žemės, žemės gelmių, paviršinių ir požeminių vandenų, aplinkos oro, augalijos (įskaitant miškus), gyvūnijos (įskaitant žuvų išteklius) bei kitus gamtos išteklius;
 
-3) kontroliuoja, ar fiziniai ir juridiniai asmenys, turintys pareigą atkurti gamtos išteklius, laiku ir tinkamai šią pareigą įvykdo;
+3) kontroliuoja, ar fiziniai ir juridiniai asmenys, turintys pareigą įveisti ar atkurti gamtos išteklius, laiku ir tinkamai šią pareigą vykdo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 4) kontroliuoja, ar fiziniai ir juridiniai asmenys vykdo savo pareigą saugoti aplinką;
 
@@ -110,7 +130,11 @@ Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
 
 12) kontroliuoja, ar genetiškai modifikuoti mikroorganizmai ir organizmai ribotai naudojami, išleidžiami į aplinką laikantis teisės aktuose nustatytų reikalavimų;
 
-13) kontroliuoja, ar teisėtai ir laikantis nustatytų reikalavimų naudojamas Bendrijos aplinkosaugos vadybos ir audito sistemos (toliau – EMAS) logotipas ir Europos Sąjungos ekologinis ženklas;
+13) kontroliuoja, ar teisėtai ir laikantis nustatytų reikalavimų naudojamas Bendrijos aplinkosaugos vadybos ir audito sistemos  logotipas ir Europos Sąjungos ekologinis ženklas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 14) konsultuoja ūkio subjektus Viešojo administravimo įstatymo ir šio įstatymo nustatyta tvarka;
 
@@ -118,13 +142,25 @@ Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
 
 16) vertina teisės aktų nustatyta tvarka gautą informaciją apie ūkio subjektų veiklą.
 
-17) prireikus atlieka patikrinimus prieš išduodant ar pakeičiant taršos integruotos prevencijos ir kontrolės leidimus, taršos leidimus, taip pat prireikus ir jeigu būtina ištirti su aplinkosauga susijusius skundus, ekologinius įvykius, jų priežastis ir pasekmes, teršimo incidentus ir kitus aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimus, nustatyti, ar laikomasi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų.
+17) prireikus atlieka patikrinimus prieš išduodant ar pakeičiant taršos integruotos prevencijos ir kontrolės leidimus, taršos leidimus, taip pat prireikus ir jeigu būtina ištirti su aplinkosauga susijusius skundus, ekologinius įvykius, jų priežastis ir pasekmes, teršimo incidentus ir kitus aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimus, nustatyti, ar laikomasi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+
+18) atlieka valstybinę saugomų teritorijų kontrolę aplinkos apsaugos ir gamtos išteklių naudojimo srityje;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+
+19) kai yra pagrindas manyti, kad viešasis interesas pažeistas aplinkos apsaugos ir gamtos išteklių naudojimo srityje, kreipiasi į teismą dėl viešojo intereso gynimo, išskyrus atvejus, kai viešasis interesas pažeistas dėl Aplinkos apsaugos departamento prie Aplinkos ministerijos veiksmų ar neveikimo. Tais atvejais, kai viešasis interesas pažeistas dėl Aplinkos apsaugos departamento prie Aplinkos ministerijos veiksmų ar neveikimo, Aplinkos apsaugos departamentas prie Aplinkos ministerijos dėl viešojo intereso gynimo kreipiasi į prokuratūrą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 Straipsnio pakeitimai:
 
@@ -146,23 +182,47 @@ Aplinkos apsaugos valstybinė kontrolė grindžiama šiais principais:
 
 1) prevencijos principas – užkirsti kelią aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimams, siekti išvengti neigiamo poveikio aplinkai;
 
-2) minimalios ir proporcingos kontrolės naštos principas – aplinkos apsaugos valstybinės kontrolės institucijų ir pareigūnų veiksmai privalo būti proporcingi ir tinkami siekiamam tikslui įgyvendinti, proporcingi ūkio subjektų dydžiui ir administraciniams gebėjimams, atliekami siekiant kuo mažiau trikdyti ūkio subjektų, kitų fizinių ir juridinių asmenų veiklą;
+2) minimalios ir proporcingos kontrolės naštos principas – aplinkos apsaugos valstybinę kontrolę vykdančios institucijos ir aplinkos apsaugos valstybinės kontrolės pareigūnų veiksmai privalo būti proporcingi ir tinkami siekiamam tikslui įgyvendinti, proporcingi ūkio subjektų dydžiui ir administraciniams gebėjimams, atliekami siekiant kuo mažiau trikdyti ūkio subjektų, kitų fizinių ir juridinių asmenų veiklą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 3) sprendimų priėmimo savarankiškumo ir pareigūnų asmeninės atsakomybės už priimtus sprendimus principas – aplinkos apsaugos valstybinės kontrolės pareigūnai sprendimus pagal savo kompetenciją priima savarankiškai ir asmeniškai už juos atsako;
 
-4) atsakomybės neišvengiamumo principas – aplinkos apsaugos valstybinės kontrolės institucijos ir pareigūnai turi siekti, kad kiekvienas asmuo, padaręs aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, būtų nustatytas, patrauktas atsakomybėn, teisingai ir laiku nubaustas, visiškai atlygintų aplinkai padarytą žalą bei pašalintų pažeidimo sukeltas neigiamas pasekmes;
+4) atsakomybės neišvengiamumo principas – aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai turi siekti, kad kiekvienas asmuo, padaręs aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, būtų nustatytas, patrauktas teisinėn atsakomybėn, nubaustas, visiškai atlygintų aplinkai padarytą žalą bei pašalintų pažeidimo sukeltas neigiamas pasekmes;
 
-5) objektyvumo principas – sprendimų priėmimas ir kiti aplinkos apsaugos valstybinės kontrolės institucijų ir pareigūnų veiksmai turi būti nešališki ir objektyvūs;
+Straipsnio punkto pakeitimai:
 
-6) nepiktnaudžiavimo valdžia principas – aplinkos apsaugos valstybinės kontrolės institucijoms ir pareigūnams draudžiama vykdyti veiklą neturint tam suteiktų galių arba priimti sprendimus pagal savo kompetenciją siekiant kitų, negu įstatymų nustatyta, tikslų;
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+
+5) objektyvumo principas – sprendimų priėmimas ir kiti aplinkos apsaugos valstybinę kontrolę vykdančios institucijos ir aplinkos apsaugos valstybinės kontrolės pareigūnų veiksmai turi būti nešališki ir objektyvūs;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+
+6) nepiktnaudžiavimo valdžia principas – aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai ir aplinkos apsaugos valstybinės kontrolės pareigūnams draudžiama vykdyti veiklą neturint tam suteiktų galių arba priimti sprendimus pagal savo kompetenciją siekiant kitų, negu įstatymų nustatyta, tikslų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 7) viešumo principas – informacija apie ūkio subjektų, kitų fizinių ir juridinių asmenų veiklos aplinkos apsaugos valstybinės kontrolės atlikimo principus, procedūras ir rezultatus, atskleidžiamus apibendrinta forma, yra vieša. Šis principas netaikomas, jeigu informacijos atskleidimas trukdo siekti ūkio subjektų veiklos priežiūros tikslų arba gali būti pažeisti kituose teisės aktuose nustatyti konfidencialumo reikalavimai;
 
-8) nediskriminavimo principas – aplinkos apsaugos valstybinės kontrolės institucijos ir pareigūnai negali atlikti ūkio subjektų, kitų fizinių ir juridinių asmenų veiklos kontrolės, kuria būtų diskriminuojami ūkio subjektai, kiti fiziniai ir juridiniai asmenys dėl jų nuosavybės formos, pilietybės, gyvenamosios vietos ar valstybės, kurioje asmuo yra įsisteigęs, ar pagal kitus objektyvius šių asmenų požymius, jeigu kitos sąlygos, turinčios reikšmės asmens veiklos rizikingumo laipsniui, iš esmės nesiskiria;
+8) nediskriminavimo principas – aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai negali atlikti ūkio subjektų, kitų fizinių ir juridinių asmenų veiklos kontrolės, kuria būtų diskriminuojami ūkio subjektai, kiti fiziniai ir juridiniai asmenys dėl jų nuosavybės formos, pilietybės, gyvenamosios vietos ar valstybės, kurioje asmuo yra įsisteigęs, ar pagal kitus objektyvius šių asmenų požymius, jeigu kitos sąlygos, turinčios reikšmės asmens veiklos rizikingumo laipsniui, iš esmės nesiskiria;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 9) planavimo principas – ūkio subjektų veiklos aplinkos apsaugos valstybinė kontrolė turi būti planuojama. Poveikio priemonių ūkio subjektams skaičius, dydis, vertė negali būti planavimo objektas;
 
-10) metodinės pagalbos teikimo principas – aplinkos apsaugos valstybinės kontrolės institucijos ir pareigūnai bendradarbiauja su ūkio subjektais, konsultuoja ūkio subjektus savo kompetencijos klausimais, įgyvendina kitas prevencinio pobūdžio priemones, padedančias ūkio subjektams laikytis teisės aktų reikalavimų, o poveikio priemones taiko kaip ultima ratio priemonę. Šis principas netaikomas ūkio subjektų veiklos patikrinimų metu, jeigu šio principo taikymas trukdo siekti ūkio subjektų veiklos aplinkos apsaugos valstybinės kontrolės tikslų, susijusių su teisės aktų reikalavimų laikymosi priežiūra.
+10) metodinės pagalbos teikimo principas – aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai bendradarbiauja su ūkio subjektais, konsultuoja ūkio subjektus savo kompetencijos klausimais, įgyvendina kitas prevencinio pobūdžio priemones, padedančias ūkio subjektams laikytis teisės aktų reikalavimų, o poveikio priemones taiko kaip ultima ratio priemonę. Šis principas netaikomas ūkio subjektų veiklos patikrinimų metu, jeigu šio principo taikymas trukdo siekti ūkio subjektų veiklos aplinkos apsaugos valstybinės kontrolės tikslų, susijusių su teisės aktų reikalavimų laikymosi priežiūra.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 Straipsnio pakeitimai:
 
@@ -194,13 +254,13 @@ Nr. XII-1952, 2015-10-01, paskelbta TAR 2015-10-08, i. k. 2015-14939
 
 Aplinkos apsaugos valstybinės kontrolės priežiūrą atliekanti institucija:
 
-1) tikrina, ar aplinkos apsaugos valstybinės kontrolės institucijos ir pareigūnai laikosi jų veiklą reglamentuojančių teisės aktų reikalavimų aplinkos apsaugos valdymo srityje, tinkamai atlieka savo funkcijas ir pareigas, tikrina, analizuoja ir vertina, ar aplinkos apsaugos valstybinės kontrolės institucijos efektyviai vykdo aplinkos apsaugos valstybinę kontrolę;
+1) tikrina, ar aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai laikosi jų veiklą reglamentuojančių teisės aktų reikalavimų aplinkos apsaugos valdymo srityje, tinkamai atlieka savo funkcijas ir pareigas, tikrina, analizuoja ir vertina, ar aplinkos apsaugos valstybinę kontrolę vykdanti institucija efektyviai vykdo aplinkos apsaugos valstybinę kontrolę;
 
-2) aplinkos apsaugos valstybinę kontrolę vykdančių institucijų ir pareigūnų veiklos efektyvumui įvertinti tikrina, ar fiziniai ir juridiniai asmenys laikosi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų;
+2) aplinkos apsaugos valstybinę kontrolę vykdančios institucijos ir aplinkos apsaugos valstybinės kontrolės pareigūnų veiklos efektyvumui įvertinti tikrina, ar fiziniai ir juridiniai asmenys laikosi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų;
 
-3) vykdo aplinkos apsaugos valstybinės kontrolės valdymą bei metodiškai vadovauja aplinkos apsaugos valstybinę kontrolę vykdančioms institucijoms;
+3) vykdo aplinkos apsaugos valstybinės kontrolės valdymą ir metodiškai vadovauja aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai;
 
-4) šio Įstatymo ir kitų teisės aktų nustatytais atvejais nagrinėja ginčus dėl aplinkos apsaugos valstybinės kontrolės institucijų ar pareigūnų priimtų sprendimų;
+4) šio Įstatymo ir kitų teisės aktų nustatytais atvejais nagrinėja ginčus dėl aplinkos apsaugos valstybinę kontrolę vykdančios institucijos ar aplinkos apsaugos valstybinės kontrolės pareigūnų priimtų sprendimų;
 
 5) atlieka kitas šio Įstatymo ir kitų teisės aktų pavestas funkcijas.
 
@@ -208,15 +268,23 @@ Straipsnio pakeitimai:
 
 Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 
-9 straipsnis. Aplinkos apsaugos valstybinės kontrolės bei aplinkos apsaugos valstybinės kontrolės priežiūros institucijų santykiai su kitomis valstybės ir savivaldybių institucijomis
+Straipsnio pakeitimai:
 
-1. Aplinkos apsaugos valstybinės kontrolės institucijos bei aplinkos apsaugos valstybinės kontrolės priežiūrą atliekanti institucija kitų valstybės bei savivaldybių institucijų prašymu privalo neatlygintinai joms pateikti turimą informaciją, būtiną šių institucijų funkcijoms atlikti.
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
-2. Kitos valstybės bei savivaldybių institucijos, valstybės, savivaldybių įmonės, aplinkos apsaugos valstybinės kontrolės bei aplinkos apsaugos valstybinės kontrolės priežiūros institucijų prašymu privalo neatlygintinai teikti turimą informaciją, būtiną aplinkos apsaugos valstybinei kontrolei vykdyti.
+9 straipsnis. Aplinkos apsaugos valstybinę kontrolę vykdančios ir aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijų santykiai su kitomis valstybės ir savivaldybių institucijomis
+
+1. Aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės priežiūrą atliekanti institucija kitų valstybės bei savivaldybių institucijų prašymu privalo neatlygintinai joms pateikti turimą informaciją, būtiną šių institucijų funkcijoms atlikti.
+
+2. Kitos valstybės bei savivaldybių institucijos, valstybės, savivaldybių įmonės aplinkos apsaugos valstybinę kontrolę vykdančios ir aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijų prašymu privalo neatlygintinai teikti turimą informaciją, būtiną aplinkos apsaugos valstybinei kontrolei organizuoti, vykdyti, priežiūrai atlikti.
 
 Straipsnio pakeitimai:
 
 Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 III SKYRIUS
 
@@ -234,7 +302,11 @@ Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdo Aplinkos min
 
 11 straipsnis. Aplinkos apsaugos valstybinės kontrolės pareigūnų galių suteikimas, sustabdymas ir atėmimas
 
-1. Vyriausiojo valstybinio aplinkos apsaugos inspektoriaus, vyresniojo valstybinio aplinkos apsaugos inspektoriaus, valstybinio aplinkos apsaugos inspektoriaus galios suteikiamos aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos ir aplinkos apsaugos valstybinę kontrolę vykdančių institucijų valstybės tarnautojams priimant juos į šias pareigas arba aplinkos ministro įsakymu.
+1. Vyriausiojo valstybinio aplinkos apsaugos inspektoriaus, vyresniojo valstybinio aplinkos apsaugos inspektoriaus, valstybinio aplinkos apsaugos inspektoriaus galios suteikiamos aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos ir aplinkos apsaugos valstybinę kontrolę vykdančios institucijos valstybės tarnautojams priimant juos į šias pareigas arba aplinkos ministro įsakymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 2. Neteko galios nuo 2018-07-01.
 
@@ -336,13 +408,17 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
 
-20) Vyriausybės nustatyta tvarka specialiosiomis techninėmis priemonėmis, kurių metrologinė patikra atlikta, tikrinti medžioklėje dalyvaujančių medžiotojų blaivumą.
+20) įtardami, kad medžioklėje dalyvaujantis medžiotojas yra neblaivus ar (ir) apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, Vyriausybės nustatyta tvarka tikrinti, ar jis yra neblaivus ar apsvaigęs, taip pat esant įtarimų dėl neblaivumo ar apsvaigimo, kai medžioklėje dalyvaujantis medžiotojas nesutinka tikrintis dėl neblaivumo ar apsvaigimo, ar užfiksavus, kad medžioklėje dalyvaujantis medžiotojas yra neblaivus ar apsvaigęs, neleisti šiam medžiotojui dalyvauti medžioklėje.
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
 
-2. Vyresnieji aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 18 punkte nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų galių.
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+
+2. Vyresnieji aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 18 punkte nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų teisių ir pareigų.
 
 Straipsnio dalies pakeitimai:
 
@@ -350,21 +426,33 @@ Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
 
 Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
 
-3. Valstybiniai aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 18 punkte nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų galių ir teisės vykdyti aplinkos apsaugos valstybinę kontrolę tarptautiniuose vandenyse.
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+
+3. Valstybiniai aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 18 punkte nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų teisių ir pareigų vykdyti aplinkos apsaugos valstybinę kontrolę tarptautiniuose vandenyse
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
 
 Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 4. Aplinkos apsaugos valstybinės kontrolės pareigūnai, nepaisant jų tarnybos vietos, turi teisę vykdyti aplinkos apsaugos valstybinę kontrolę visoje Lietuvos Respublikos teritorijoje, jos teritoriniuose vandenyse ir ekonominėje zonoje Baltijos jūroje.
 
-5. Aplinkos apsaugos valstybinės kontrolės pareigūnams aplinkos ministras išduoda jų galias patvirtinančius pažymėjimus.
+5. Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos aplinkos apsaugos valstybinės kontrolės pareigūnams jų galias patvirtinančius pažymėjimus išduoda Aplinkos apsaugos departamento prie Aplinkos ministerijos vadovas, o aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos aplinkos apsaugos valstybinės kontrolės pareigūnams – aplinkos ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 6. Aplinkos apsaugos valstybinės kontrolės pareigūnai ne darbo metu turi šio straipsnio 1 dalies 2 ir 15 punktuose nustatytas aplinkos apsaugos valstybinės kontrolės pareigūnų teises.
 
-7. Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos, gavusios aplinkos apsaugos valstybinės kontrolės pareigūno sutikimą, turi teisę nustatyti laiką, kada pareigūnas turi būti  pasirengęs vykdyti aplinkos apsaugos valstybinę kontrolę ne darbo metu.
+7. Aplinkos apsaugos valstybinę kontrolę vykdanti institucija, gavusi aplinkos apsaugos valstybinės kontrolės pareigūno sutikimą, turi teisę nustatyti laiką, kada aplinkos apsaugos valstybinės kontrolės pareigūnas turi būti pasirengęs vykdyti aplinkos apsaugos valstybinę kontrolę ne darbo metu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 8. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę ne darbo metu aplinkos ministro nustatyta tvarka būti pasirengęs bet kuriuo metu pradėti vykdyti aplinkos apsaugos valstybinę kontrolę (pasyvusis budėjimas namie). Pareigūnas, būdamas pasirengęs priimti pranešimus ir pradėti vykdyti aplinkos apsaugos valstybinę kontrolę bet kuriuo laiku ne darbo metu, privalo priimti pranešimus, susijusius su aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimais.
 
@@ -420,7 +508,11 @@ Nr. XI-1463, 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
 
 14 straipsnis. Ūkio subjektų konsultavimas, veiklos patikrinimas
 
-1. Ūkio subjektų konsultavimas, tam tikru laikotarpiu planuojamų tikrinti ūkio subjektų sąrašo (toliau – patikrinimų planas) įgyvendinimas, informacijos apie atliekamą patikrinimą visuomenės informavimo priemonėms ir kitiems su patikrinimu nesusijusiems asmenims pateikimas, poveikio priemonių taikymas ūkio subjektams, su ūkio subjektų veiklos aplinkos apsaugos valstybine kontrole susijusios informacijos skelbimas, informacijos aplinkos apsaugos valstybinės kontrolės institucijoms teikimas, aplinkos apsaugos valstybinės kontrolės institucijų veiklos vertinimas ir atskaitomybė atliekami Viešojo administravimo įstatymo ir kitų teisės aktų nustatyta tvarka.
+1. Ūkio subjektų konsultavimas, tam tikru laikotarpiu planuojamų tikrinti ūkio subjektų sąrašo (toliau – patikrinimų planas) įgyvendinimas, informacijos apie atliekamą patikrinimą visuomenės informavimo priemonėms ir kitiems su patikrinimu nesusijusiems asmenims pateikimas, poveikio priemonių taikymas ūkio subjektams, su ūkio subjektų veiklos aplinkos apsaugos valstybine kontrole susijusios informacijos skelbimas, informacijos aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai teikimas, aplinkos apsaugos valstybinę kontrolę vykdančios institucijos veiklos vertinimas ir atskaitomybė atliekami Viešojo administravimo įstatymo ir kitų teisės aktų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 2. Patikrinimų planų sudarymo kriterijus, planinių patikrinimų tvarką ir trukmę įtvirtinančios taisyklės, neplaninių patikrinimų atlikimo pagrindus, tvarką ir trukmę, tikrinamų ūkio subjektų atrankos kriterijus įtvirtinančios taisyklės rengiamos ir tvirtinamos, taip pat patikrinimų planas rengiamas, tvirtinamas, skelbiamas ir keičiamas Viešojo administravimo įstatymo ir aplinkos ministro nustatyta tvarka.
 
@@ -746,7 +838,7 @@ Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -950,6 +1042,14 @@ Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
 
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 2, 3, 12 straipsnių, IV skyriaus antrojo skirsnio pakeitimo, Įstatymo papildymo 6-1 straipsniu ir IV skyriaus trečiojo skirsnio pripažinimo netekusiu galios įstatymas
 
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 1, 2, 3, 4, 6, 8, 9, 11, 12, 14, 39-8, 46, 48, 49, 50, 53 ir 54 straipsnių pakeitimo įstatymas
+
 21 straipsnis. Privalomojo nurodymo įvykdymo terminai, privalomųjų nurodymų derinimas
 
 1. Privalomojo nurodymo įvykdymo terminus, ne ilgesnius kaip vienas mėnuo, nustato privalomąjį nurodymą duodantis aplinkos apsaugos valstybinės kontrolės pareigūnas pagal tai, koks laikotarpis, atsižvelgiant į asmens, kuriam duodamas privalomasis nurodymas, pateiktą informaciją, kitą informaciją ir objektyvias aplinkybes, yra reikalingas privalomajame nurodyme nustatytiems reikalavimams įgyvendinti.
@@ -1108,18 +1208,6 @@ Nr. XIII-755, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18806
 
 Jei aplinkos apsaugos valstybinės kontrolės pareigūnas įtaria su užsienio valstybės vėliava plaukiojantį laivą, kad jis užteršė jūros aplinką arba kitaip pažeidė jūros aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus, o dėl tokios veikos tyrimo iniciatyvos teisės nesuteikia šio įstatymo 39(1) straipsnis, aplinkos apsaugos valstybinės kontrolės pareigūnas turimą informaciją apie jūros aplinkos teršimą arba kitą jūros aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą pateikia artimiausio uosto, į kurį ketina įplaukti ar įplaukė tokią veiką įvykdęs laivas, valstybei ir paprašo atlikti šios veikos tyrimą.
 
-39(8) straipsnis. Tarptautinis bendradarbiavimas
-
-Aplinkos apsaugos valstybinės kontrolės pareigūnai ir institucijos privalo užsienio valstybių kompetentingoms institucijoms teikti turimą informaciją, susijusią su jūros aplinkos teršimu arba kitu jūros aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimu, taip pat atlikti kitus veiksmus, kurie padeda ar gali padėti nustatyti jūros aplinką teršiančius arba kitaip jūros aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus pažeidžiančius laivus ir (ar) su tokia veika susijusias aplinkybes.
-
-V SKYRIUS
-
-ŠAUNAMŲJŲ GINKLŲ, FIZINĖS IR PSICHINĖS PRIEVARTOS PANAUDOJIMAS
-
-Pakeistas skyriaus pavadinimas:
-
-Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
-
 29 straipsnis. Pasirengimo sustabdyti aplinkai kenksmingą veiklą terminų pratęsimas
 
 1. Pasirengimo sustabdyti aplinkai kenksmingą veiklą terminus fizinio ar juridinio asmens motyvuotu prašymu, kuris turi būti pateikiamas ne vėliau kaip 10 darbo dienų iki pasirengimo sustabdyti aplinkai kenksmingą veiklą termino pabaigos, pratęsti gali aplinkos apsaugos valstybinę kontrolę vykdančios institucijos, kurios pareigūnas nustatė pasirengimo sustabdyti aplinkai kenksmingą veiklą terminą, vadovas, įvertinęs prašymo motyvų pagrįstumą, tačiau ne ilgiau kaip dar vienam mėnesiui.
@@ -1208,7 +1296,7 @@ Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 6 straipsnis. Aplinkos apsaugos valstybinės kontrolės vykdymas
 
-Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdo biudžetinė įstaiga Aplinkos apsaugos departamentas.
+Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdo biudžetinė įstaiga Aplinkos apsaugos departamentas prie Aplinkos ministerijos.
 
 Straipsnio pakeitimai:
 
@@ -1223,6 +1311,8 @@ Straipsnio pakeitimai:
 Nr. XII-1952, 2015-10-01, paskelbta TAR 2015-10-08, i. k. 2015-14939
 
 Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 121 straipsnis. Teismo leidimų įeiti į fizinių asmenų gyvenamąsias patalpas išdavimo tvarka
 
@@ -1412,7 +1502,11 @@ Neetatiniai aplinkos apsaugos inspektoriai savo veikloje vadovaujasi Lietuvos Re
 
 46 straipsnis. Neetatinių aplinkos apsaugos inspektorių uždaviniai
 
-Pagrindinis neetatinių aplinkos apsaugos inspektorių uždavinys – teikti visokeriopą pagalbą institucijoms ir pareigūnams, vykdantiems aplinkos apsaugos valstybinę kontrolę.
+Pagrindinis neetatinių aplinkos apsaugos inspektorių uždavinys – teikti visokeriopą pagalbą aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai ir aplinkos apsaugos valstybinės kontrolės pareigūnams.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 48 straipsnis. Neetatinių aplinkos apsaugos inspektorių galių suteikimas
 
@@ -1420,17 +1514,21 @@ Pagrindinis neetatinių aplinkos apsaugos inspektorių uždavinys – teikti vis
 
 2. Neetatiniams aplinkos apsaugos inspektoriams išduodami jų galias patvirtinantys aplinkos ministro nustatyto pavyzdžio pažymėjimai.
 
-3. Pažymėjimus neetatiniams aplinkos apsaugos inspektoriams išduoda Aplinkos apsaugos departamentas.
+3. Pažymėjimus neetatiniams aplinkos apsaugos inspektoriams išduoda Aplinkos apsaugos departamentas prie Aplinkos ministerijos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
-4. Aplinkos apsaugos departamentas suteikia galias neetatiniams aplinkos apsaugos inspektoriams veikti visoje Lietuvos Respublikos teritorijoje ar jos dalyje.
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+
+4. Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos vadovas suteikia galias neetatiniams aplinkos apsaugos inspektoriams veikti visoje Lietuvos Respublikos teritorijoje ar jos dalyje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 Straipsnio pakeitimai:
 
@@ -1440,9 +1538,17 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 
 1. Neetatiniai aplinkos apsaugos inspektoriai, tikrindami, ar fiziniai ir juridiniai asmenys laikosi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų reikalavimų, privalo:
 
-1) užfiksavę aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, pagal savo kompetenciją imtis priemonių užkirsti jam kelią, išsiaiškinti priežastis bei pažeidimą padariusius asmenis. Kai neetatiniai aplinkos apsaugos inspektoriai pagal savo kompetenciją negali imtis priemonių dėl aplinkos apsaugos įstatymų pažeidimų, jie privalo apie tokius pažeidimus pranešti aplinkos apsaugos valstybinę kontrolę vykdančioms institucijoms ar pareigūnams;
+1) užfiksavę aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, pagal savo kompetenciją imtis priemonių užkirsti jam kelią, išsiaiškinti priežastis bei pažeidimą padariusius asmenis. Kai neetatiniai aplinkos apsaugos inspektoriai pagal savo kompetenciją negali imtis priemonių dėl aplinkos apsaugos įstatymų pažeidimų, jie privalo apie tokius pažeidimus pranešti aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai ar aplinkos apsaugos valstybinės kontrolės pareigūnams;
 
-2) pranešti aplinkos apsaugos valstybinės kontrolės institucijoms ar pareigūnams apie pastebėtus avarinius ir kitus aplinkos užteršimo, gyvūnų žuvimo, augalijos naikinimo bei ekologinių pokyčių atvejus ir dalyvauti organizuojant pasekmių likvidavimą;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+
+2) pranešti aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai ar aplinkos apsaugos valstybinės kontrolės pareigūnams apie pastebėtus avarinius ir kitus aplinkos užteršimo, gyvūnų žuvimo, augalijos naikinimo bei ekologinių pokyčių atvejus ir dalyvauti organizuojant pasekmių likvidavimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 3) išsiaiškinę aplinkos apsaugos įstatymų pažeidimą, nustatyta tvarka perduoti aplinkos apsaugos valstybinės kontrolės pareigūnams arba įstatymų nustatyta tvarka kitiems pareigūnams ar institucijoms pažeidimą fiksuojančius įrodymus.
 
@@ -1460,17 +1566,17 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 
 1. Neetatiniai aplinkos apsaugos inspektoriai turi teisę naudodami technines priemones fiksuoti asmenis, įtariamus darant ar darančius aplinkos apsaugos ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus, šių asmenų veiksmus ir jų transporto priemones.
 
-2. Neetatiniai aplinkos apsaugos inspektoriai kartu su aplinkos apsaugos valstybinės kontrolės pareigūnais, vykdančiais valstybinę aplinkos apsaugos kontrolę, turi teisę:
+2. Neetatiniai aplinkos apsaugos inspektoriai kartu su aplinkos apsaugos valstybinės kontrolės pareigūnais turi teisę:
 
 1) įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, patekti į ūkinių objektų teritorijas ir atlikti aplinkos apsaugos valstybinės kontrolės pareigūnų pavestas užduotis aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimams išaiškinti ar jų pasekmėms likviduoti;
 
 2) tikrinti asmenų ir pareigūnų dokumentus, suteikiančius teisę naudoti gamtos išteklius;
 
-3) padėti aplinkos apsaugos valstybinės kontrolės pareigūnams atlikti kontrolinius pirkimus, pristatyti administracinėn atsakomybėn traukiamą asmenį, jo sutikimu, į atitinkamų institucijų patalpas administracinio nusižengimo protokolui surašyti; reikalauti asmens tapatybę patvirtinančių dokumentų pažeidėjo asmens tapatybei nustatyti, o jos nenustačius – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo.
+3) padėti aplinkos apsaugos valstybinės kontrolės pareigūnams atlikti kontrolinius pirkimus, pristatyti administracinėn atsakomybėn traukiamą asmenį jo sutikimu į atitinkamų institucijų patalpas administracinio nusižengimo protokolui surašyti; reikalauti asmens tapatybę patvirtinančių dokumentų pažeidėjo asmens tapatybei nustatyti, o jos nenustačius, – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. XIII-1685, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20185
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 Straipsnio pakeitimai:
 
@@ -1504,7 +1610,11 @@ Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
 
 53 straipsnis. Neetatinių aplinkos apsaugos inspektorių atsakomybė
 
-1. Neetatiniams aplinkos apsaugos inspektoriams, nedalyvaujantiems arba neaktyviai dalyvaujantiems aplinkos apsaugos kontrolės veikloje, suteiktos galios gali būti nepratęsiamos.
+1. Neetatiniams aplinkos apsaugos inspektoriams, nedalyvaujantiems arba neaktyviai dalyvaujantiems aplinkos apsaugos valstybinės kontrolės veikloje, suteiktos galios gali būti nepratęsiamos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 2. Inspektoriams, piktnaudžiaujantiems suteiktomis galiomis, vykdantiems veiklą, nesuderinamą su neetatinio aplinkos apsaugos inspektoriaus statusu, suteiktos galios atšaukiamos.
 
@@ -1516,7 +1626,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 54 straipsnis. Fizinių ir juridinių asmenų teisės ir pareigos
 
-1. Fiziniai ir juridiniai asmenys įstatymų nustatyta tvarka turi teisę apskųsti aplinkos apsaugos valstybinę kontrolę vykdančių institucijų bei pareigūnų veiksmus (neveikimą).
+1. Fiziniai ir juridiniai asmenys įstatymų nustatyta tvarka turi teisę apskųsti aplinkos apsaugos valstybinę kontrolę vykdančios institucijos ir aplinkos apsaugos valstybinės kontrolės pareigūnų veiksmus (neveikimą).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 2. Fiziniai ir juridiniai asmenys privalo sudaryti visas sąlygas, būtinas aplinkos apsaugos valstybinės kontrolės pareigūnams aplinkos apsaugos valstybinei kontrolei vykdyti, ir paklusti aplinkos apsaugos valstybinės kontrolės pareigūnų teisėtiems reikalavimams.
 
@@ -1569,4 +1683,20 @@ Nr. XIII-1685, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20185
 Papildyta straipsniu:
 
 Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
+
+398 straipsnis. Tarptautinis bendradarbiavimas
+
+Aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai privalo užsienio valstybių kompetentingoms institucijoms teikti turimą informaciją, susijusią su jūros aplinkos teršimu arba kitu jūros aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimu, taip pat atlikti kitus veiksmus, kurie padeda ar gali padėti nustatyti jūros aplinką teršiančius arba kitaip jūros aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus pažeidžiančius laivus ir (ar) su tokia veika susijusias aplinkybes.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+
+V SKYRIUS
+
+ŠAUNAMŲJŲ GINKLŲ, FIZINĖS IR PSICHINĖS PRIEVARTOS PANAUDOJIMAS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 
