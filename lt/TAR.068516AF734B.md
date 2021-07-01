@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2021-06-16"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2021-06-16 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
 
@@ -959,7 +959,11 @@ Valstybinio socialinio draudimo įmokų tarifai ligos socialiniam draudimui ir m
 
 33 straipsnis. Išmokų skyrimas ir mokėjimas, permokėtų išmokų sumų išieškojimas
 
-1. Šiame įstatyme numatytas išmokas, išskyrus darbdavio mokamas ligos išmokas už dvi pirmąsias kalendorines nedarbingumo dienas, skiria ir moka Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai (toliau – Fondo valdybos teritoriniai skyriai), vadovaudamiesi šiuo įstatymu ir Ligos ir motinystės socialinio draudimo išmokų nuostatais.
+1. Šiame įstatyme numatytas išmokas, išskyrus darbdavio mokamas ligos išmokas už dvi pirmąsias kalendorines nedarbingumo dienas, skiria ir moka Fondo valdybos teritoriniai skyriai, vadovaudamiesi šiuo įstatymu ir Ligos ir motinystės socialinio draudimo išmokų nuostatais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
 
 2. Fondo valdybos teritorinis skyrius sprendimą dėl išmokų skyrimo priima ne vėliau kaip per 10 darbo dienų nuo prašymo, visų reikalingų dokumentų ir (ar) duomenų gavimo Fondo valdybos teritoriniame skyriuje dienos.
 
@@ -1557,11 +1561,13 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 
 111 straipsnis. Ligos išmokų skyrimo ir mokėjimo ypatumai Vyriausybei paskelbus ekstremaliąją situaciją ir (ar) karantiną
 
-1. Ligos išmoka asmeniui, kuris Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vykdydamas savo profesinės veiklos sveikatos, visuomenės saugumo, viešosios tvarkos palaikymo ir (ar) švietimo srityje (srityse) funkcijas, kurias vykdant neišvengiamas (būtinas) kontaktas su pavojinga užkrečiamąja liga sergančiu ir kartu su juo darbovietėje nedirbančiu asmeniu, susirgo liga, dėl kurios Vyriausybė paskelbė ekstremaliąją situaciją ir (ar) karantiną, mokama iš Valstybinio socialinio draudimo fondo lėšų nuo trečiosios jo laikinojo nedarbingumo dienos, yra lygi 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nurodytų aplinkybių buvimas nustatomas kiekvienu atveju individualiai, darbdaviui pateikus Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui dokumentus, pagrindžiančius profesinės veiklos funkcijų vykdymo ir ligos priežastinį ryšį.
+1. Ligos išmoka asmeniui, kuris Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vykdydamas savo profesinės veiklos sveikatos, visuomenės saugumo, viešosios tvarkos palaikymo ir (ar) švietimo srityje (srityse) funkcijas, kurias vykdant neišvengiamas (būtinas) kontaktas su pavojinga užkrečiamąja liga sergančiu asmeniu, susirgo liga, dėl kurios Vyriausybė paskelbė ekstremaliąją situaciją ir (ar) karantiną, mokama iš Valstybinio socialinio draudimo fondo lėšų nuo trečiosios jo laikinojo nedarbingumo dienos, yra lygi 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nurodytų aplinkybių buvimas patvirtinamas vadovaujantis Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui (toliau – Fondo valdybos teritorinis skyrius) darbdavio pateiktu patvirtinimu, kurio formą tvirtina Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius (toliau – Patvirtinimo forma). Jeigu darbdavys Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka Fondo valdybos teritoriniam skyriui nepateikia užpildytos Patvirtinimo formos, šioje dalyje nustatytu atveju, iki Fondo valdybos teritoriniam skyriui darbdavys pateikia užpildytą Patvirtinimo formą, asmeniui skiriama ir mokama šio įstatymo 14 straipsnio 2 dalyje nustatyto dydžio ligos išmoka, o gavus Patvirtinimo formą, paskirta ligos išmoka perskaičiuojama ir jos nepriemoka išmokama Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
+
+Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
 
 2. Ligos išmoka asmeniui, kuris serga sunkia lėtine liga, įrašyta į sveikatos apsaugos ministro patvirtintą sunkių lėtinių ligų sąrašą, ir kuris Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu vykdydamas savo profesinės veiklos funkcijas turi riziką susirgti užkrečiamąja liga, dėl kurios Vyriausybė paskelbė ekstremaliąją situaciją ir karantiną, ir dėl to tapti laikinai nedarbingas, ir jam dėl darbo organizavimo ypatumų nėra galimybės sulygto darbo dirbti nuotoliniu būdu ar darbdavys jam nepaskelbė prastovos Darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju, mokama iš Valstybinio socialinio draudimo fondo lėšų nuo trečiosios jo laikinojo nedarbingumo dienos, yra lygi 62,06 procento išmokos gavėjo kompensuojamojo uždarbio dydžio.
 
