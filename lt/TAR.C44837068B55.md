@@ -4,7 +4,7 @@ identifier: "TAR.C44837068B55"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-19"
-last_updated: "2021-06-03"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C44837068B55"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1998
 
-Suvestinė redakcija nuo 2021-06-03 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-07-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
 
@@ -281,7 +281,11 @@ UŽ PINIGŲ PLOVIMO IR (ar) TERORISTŲ FINANSAVIMO PREVENCIJĄ ATSAKINGOS INSTIT
 
 3 straipsnis. Už pinigų plovimo ir (ar) teroristų finansavimo prevenciją atsakingos institucijos
 
-Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba), Lietuvos Respublikos valstybės saugumo departamentas (toliau – Valstybės saugumo departamentas), Lietuvos bankas, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Kultūros paveldo departamentas prie Lietuvos Respublikos kultūros ministerijos (toliau – Kultūros paveldo departamentas), Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos (toliau – Lošimų priežiūros tarnyba), Lietuvos notarų rūmai, Lietuvos auditorių rūmai, Lietuvos antstolių rūmai, Lietuvos prabavimo rūmai ir Lietuvos advokatūra yra institucijos, pagal kompetenciją atsakingos už šiame įstatyme nustatytą pinigų plovimo ir (ar) teroristų finansavimo prevenciją.
+Lietuvos Respublikos Vyriausybė, Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba), Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos bankas, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Kultūros paveldo departamentas prie Kultūros ministerijos (toliau – Kultūros paveldo departamentas), Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos (toliau – Lošimų priežiūros tarnyba), Lietuvos notarų rūmai, Lietuvos auditorių rūmai, Lietuvos antstolių rūmai, viešoji įstaiga Lietuvos prabavimo rūmai (toliau – Lietuvos prabavimo rūmai) ir Lietuvos advokatūra yra institucijos, pagal kompetenciją atsakingos už šiame įstatyme nustatytą pinigų plovimo ir (ar) teroristų finansavimo prevenciją.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-334, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12773
 
 4 straipsnis. Už pinigų plovimo ir (ar) teroristų finansavimo prevenciją atsakingų institucijų pareigos
 
@@ -2215,7 +2219,13 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
 
-3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis.
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
+
+4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-249, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08862
 
 4. Atlyginimo už informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos (JADIS) administravimo išlaidų kartu su pagrįsta investicijų grąža.
 
