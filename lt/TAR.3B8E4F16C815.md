@@ -4,7 +4,7 @@ identifier: "TAR.3B8E4F16C815"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-10-02"
-last_updated: "2020-11-19"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3B8E4F16C815"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 straipsnio 2 dalis įsigalioja 2012-10-20"
 
 LIETUVOS RESPUBLIKOS KRIMINALINĖS ŽVALGYBOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-11-19 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 122-6093, i. k. 1121010ISTA0XI-2234
 
@@ -574,9 +574,17 @@ KRIMINALINĖS ŽVALGYBOS FINANSAVIMAS
 
 2. Kriminalinės žvalgybos metu gautos pajamos įtraukiamos į apskaitą kaip biudžetinių įstaigų pajamos ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti naudojamos šiai veiklai aprūpinti.
 
-3. Kriminalinės žvalgybos subjektų lėšų naudojimą kontroliuoja valstybės kontrolierius arba jo pavedimu specialiai tam įgalioti Valstybės kontrolės pareigūnai, taip pat kriminalinės žvalgybos subjektų vidaus audito tarnybų įgalioti pareigūnai.
+3. Valstybės kontrolė atlieka kriminalinės žvalgybos subjektų lėšų naudojimo valstybinį auditą. Centrinių įstaigų Centralizuotos vidaus audito tarnybos įgalioti darbuotojai visose centrinėms įstaigoms pavaldžiose ir (arba) jų valdymo sričiai priskirtose kriminalinės žvalgybos pagrindinėse institucijose, į kurių sudėtį įeina kriminalinės žvalgybos subjektai, ar šių institucijų vidaus audito tarnybų ar kiti tam įgalioti darbuotojai atlieka kriminalinės žvalgybos subjektų lėšų naudojimo vidaus auditą.
 
-4. Valstybės kontrolė apie kriminalinės žvalgybos subjektų lėšų naudojimo tikrinimų rezultatus informuoja šio įstatymo 24 straipsnio 1 dalyje numatytą Seimo struktūrinį padalinį.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-140, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00262
+
+4. Valstybės kontrolė apie kriminalinės žvalgybos subjektų lėšų naudojimo valstybinių auditų rezultatus informuoja šio įstatymo 24 straipsnio 1 dalyje numatytą Seimo struktūrinį padalinį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-140, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00262
 
 SEPTINTASIS SKIRSNIS
 
@@ -690,7 +698,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 Pakeitimai:
 
@@ -797,4 +805,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3352, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24237
 
 Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-140, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00262
+
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 20 straipsnio pakeitimo įstatymas
 
