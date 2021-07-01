@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2021-01-02"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-01-02 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-07-14
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -1223,7 +1223,11 @@ Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 8) buvimas tarnybos (darbo) metu neblaiviam ar apsvaigusiam nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, taip pat ne tarnybos (ne darbo) metu viešoje vietoje, jeigu valstybės tarnautojo elgesys įžeidžia žmogaus orumą ar diskredituoja valstybės ir savivaldybės institucijos ir įstaigos autoritetą;
 
-9) valstybės ar savivaldybės lėšų ir turto apskaitos pažeidimas, turėjęs reikšmingos įtakos valstybės ar savivaldybės institucijos ar įstaigos finansinių ir biudžeto vykdymo ataskaitų rinkinių, konsoliduotųjų ataskaitų rinkinių ir (ar) kitų ataskaitų duomenų teisingumui, ar reikšmingas valstybės ar savivaldybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo pažeidimas, nustatytas valstybės kontrolieriaus ar jo pavaduotojo arba savivaldybės kontrolieriaus sprendimu;
+9) valstybės ar savivaldybės lėšų ir turto apskaitos pažeidimas, turėjęs reikšmingos įtakos valstybės ar savivaldybės institucijos ar įstaigos finansinių ir biudžeto vykdymo ataskaitų rinkinių, konsoliduotųjų ataskaitų rinkinių ir (ar) kitų ataskaitų duomenų teisingumui, ar reikšmingas valstybės ar savivaldybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo pažeidimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-144, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00266
 
 10) įsiteisėjusių teismo sprendimų, susijusių su valstybės tarnautojo pareigomis ir jų atlikimu, nevykdymas.
 
@@ -1691,7 +1695,7 @@ skyriaus, kuris yra kitame struktūriniame padalinyje, vedėjas, biuro vedėjas,
 
 7.1.
 
-patarėjas, vyriausiasis valstybinis auditorius, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, vyriausiasis specialistas (Seimo kanceliarijoje)
+patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, vyriausiasis specialistas (Seimo kanceliarijoje)
 
 Respublikos Prezidento atstovas spaudai,  Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, ministro atstovas spaudai
 
@@ -1703,7 +1707,7 @@ Respublikos Prezidento atstovas spaudai,  Seimo Pirmininko atstovas spaudai, Min
 
 8.
 
-vyriausiasis specialistas, specialiojo atašė pavaduotojas, Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, vyresnysis valstybinis  auditorius, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo  kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje)
+vyriausiasis specialistas, specialiojo atašė pavaduotojas, Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo  kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje)
 
 savivaldybės tarybos sekretorius, mero patarėjas,  Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas
 
@@ -1715,7 +1719,7 @@ savivaldybės tarybos sekretorius, mero patarėjas,  Respublikos Prezidento refe
 
 9.
 
-vyresnysis specialistas, valstybinis auditorius, specialistas (Seimo kanceliarijoje)
+vyresnysis specialistas, specialistas (Seimo kanceliarijoje)
 
 Seimo nario patarėjas, Seimo nario padėjėjas, ministro padėjėjas, mero padėjėjas
 
@@ -1727,7 +1731,7 @@ Seimo nario patarėjas, Seimo nario padėjėjas, ministro padėjėjas, mero pad�
 
 10.
 
-specialistas, teismo administracijos sekretorius, valstybinio auditoriaus padėjėjas, teismo posėdžių sekretorius
+specialistas, teismo administracijos sekretorius, teismo posėdžių sekretorius
 
 5,6–11
 
@@ -1744,6 +1748,8 @@ Nr. XIII-1805, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21813
 Nr. XIII-2609, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20565
 
 Nr. XIII-2809, 2020-03-12, paskelbta TAR 2020-03-17, i. k. 2020-05602
+
+Nr. XIV-144, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00266
 
 Lietuvos Respublikos
 
