@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2021-06-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2021-06-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-28
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -691,7 +691,7 @@ Lietuvos Respublikos baudžiamojo proceso kodekso įgyvendinimo tvarka nustatoma
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
 
 PATVIRTINTAS
 
@@ -6059,23 +6059,25 @@ Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
 
 1. Užstatas – tai piniginė įmoka, kurią į prokuratūros ar teismo depozitinę sąskaitą sumoka įtariamasis, jo šeimos nariai ar giminaičiai, taip pat kiti asmenys, įmonės ar organizacijos ir kuri skiriama šio Kodekso 119 straipsnyje nurodytiems tikslams.
 
-2. Užstato dydį nustato šią kardomąją priemonę skiriantis pareigūnas ar teismas, atsižvelgdamas į nusikalstamą veiką, įtariamajam gresiančios bausmės dydį, įtariamojo ir užstato davėjo turtinę padėtį bei jų asmenybes.
+2. Užstato dydį ir jo sumokėjimo terminą nustato šią kardomąją priemonę skiriantis prokuroras, ikiteisminio tyrimo teisėjas ar teismas, atsižvelgdamas į nusikalstamą veiką, įtariamajam gresiančios bausmės dydį, įtariamojo ir užstato davėjo turtinę padėtį bei jų asmenybes. Tuo atveju, kai iki nutarimo ar nutarties skirti užstatą priėmimo dienos įtariamasis ar užstato davėjas nėra į prokuratūros ar teismo depozitinę sąskaitą savanoriškai sumokėjęs piniginės įmokos, kuri būtų pakankama šio Kodekso 119 straipsnyje nurodytiems tikslams pasiekti, užstatą skiriantis prokuroras, ikiteisminio tyrimo teisėjas ar teismas nustato trijų dienų terminą nutarime ar nutartyje nustatyto dydžio užstatui sumokėti. Šis terminas skaičiuojamas nuo nutarties ar nutarimo skirti užstatą įteikimo įtariamajam dienos. Prokuroras, ikiteisminio tyrimo teisėjas ar teismas, nustatydamas mokėtino užstato dydį, privalo įvertinti įtariamojo ar užstato davėjo į prokuratūros ar teismo depozitinę sąskaitą savanoriškai sumokėtas pinigines įmokas. Nutarimu paskirtas užstatas sumokamas į prokuratūros depozitinę sąskaitą, o nutartimi paskirtas užstatas – į teismo depozitinę sąskaitą. Įtariamasis ar užstato davėjas, per nutarime ar nutartyje numatytą terminą sumokėjęs nustatyto dydžio užstatą į prokuratūros ar teismo depozitinę sąskaitą, privalo nedelsdamas apie tai informuoti užstatą paskyrusį prokurorą, ikiteisminio tyrimo teisėją ar teismą ir pateikti įmokos sumokėjimą patvirtinantį dokumentą (kvitą).
 
-3. Priimant užstatą, užstato davėjui turi būti išaiškinta jo, kaip užstato davėjo, atsakomybė.
+3. Tuo atveju, kai nustatyto dydžio užstatas nesumokamas dėl objektyvių priežasčių, įtariamasis turi teisę kreiptis į prokurorą ar ikiteisminio tyrimo teisėją, ar teismą su prašymu nustatyti ilgesnį užstato sumokėjimo terminą. Įvertinęs įtariamojo prašyme nurodytas aplinkybes, prokuroras, ikiteisminio tyrimo teisėjas ar teismas turi teisę nustatyti naują užstato sumokėjimo terminą, kuris negali būti ilgesnis negu trys dienos. Nutarimas ar nutartis, kuriais atsisakoma nustatyti ilgesnį užstato sumokėjimo terminą, yra neskundžiami. Tuo atveju, kai nustatyto dydžio užstatas į prokuratūros ar teismo depozitinę sąskaitą nesumokamas per šio straipsnio 2 dalyje nurodytą ar naujai nustatytą terminą, prokuroras priima nutarimą pakeisti užstatą kita kardomąja priemone arba šio Kodekso nustatytais atvejais kreipiasi į ikiteisminio tyrimo teisėją ar teismą dėl griežtesnės kardomosios priemonės paskyrimo.
 
-4. Nutarime ar nutartyje skirti kardomąją priemonę – užstatą nurodoma, kad įtariamajam išaiškinta jo pareiga šaukiamam atvykti pas ikiteisminio tyrimo pareigūną, prokurorą, teisėją ar į teismą, nekliudyti proceso eigos, nedaryti naujų nusikalstamų veikų ir kad jis pasižada šią pareigą vykdyti, o užstato davėjas įspėtas, kad jei įtariamasis nevykdys šios pareigos, užstatas pereis valstybei. Be to, nutarime ar nutartyje pažymima, kokioje banko įstaigoje įtariamasis ar užstato davėjas sumokėjo nustatyto dydžio piniginę įmoką, ir nurodomas įmokos dokumento (kvito) numeris. Įmokos dokumentas (kvitas) pridedamas prie baudžiamosios bylos. Įtariamajam ir užstato davėjui pasirašytinai įteikiami nutarimo ar nutarties skirti kardomąją priemonę – užstatą nuorašas.
+4. Priimant užstatą, užstato davėjui turi būti išaiškinta jo, kaip užstato davėjo, atsakomybė.
 
-5. Jei įtariamasis pažeidžia kardomąją priemonę – užstatą, jam gali būti paskirta kita kardomoji priemonė, o užstatas pereina valstybei. Dėl to, kad kaip užstatas sumokėta piniginė įmoka pereina valstybei, priimamas nutarimas ar nutartis arba tai pažymima nuosprendžio rezoliucinėje dalyje. Prokuroro nutarimas gali būti apskųstas ikiteisminio tyrimo teisėjui, o teisėjo ar teismo nutartis – aukštesniajam teismui per penkias dienas nuo pranešimo apie tokio nutarimo ar nutarties priėmimą gavimo dienos.
+5. Nutarime ar nutartyje skirti kardomąją priemonę – užstatą nurodomi užstato dydis, užstato sumokėjimo terminas, įtariamojo gyvenamoji vieta, kurios adresu turi būti siunčiami ikiteisminio tyrimo pareigūno, prokuroro ar teismo šaukimai, taip pat nurodoma, kad įtariamajam išaiškinta jo pareiga šaukiamam atvykti pas ikiteisminio tyrimo pareigūną, prokurorą, teisėją ar į teismą, nekliudyti proceso eigos, nedaryti naujų nusikalstamų veikų ir kad jis pasižada šią pareigą vykdyti, o užstato davėjas įspėtas, kad jei įtariamasis nevykdys šios pareigos, užstatas pereis valstybei. Be to, nutarime ar nutartyje pažymima, kokioje banko įstaigoje įtariamasis ar užstato davėjas sumokėjo nustatyto dydžio piniginę įmoką, arba nurodoma prokuratūros ar teismo depozitinė sąskaita, į kurią per šio straipsnio 2 dalyje nurodytą terminą turi būti sumokėtas nustatyto dydžio užstatas. Įmokos dokumentas (kvitas) pridedamas prie baudžiamosios bylos. Įtariamajam ir užstato davėjui pasirašytinai įteikiamas nutarimo ar nutarties skirti kardomąją priemonę – užstatą nuorašas.
 
-Straipsnio dalies pakeitimai:
+6. Jei įtariamasis pažeidžia kardomąją priemonę – užstatą, jam gali būti paskirta kita kardomoji priemonė, o užstatas pereina valstybei. Dėl to, kad kaip užstatas sumokėta piniginė įmoka pereina valstybei, priimamas nutarimas ar nutartis arba tai pažymima nuosprendžio rezoliucinėje dalyje. Prokuroro nutarimas gali būti apskųstas ikiteisminio tyrimo teisėjui, o teisėjo ar teismo nutartis – aukštesniajam teismui per penkias dienas nuo pranešimo apie tokio nutarimo ar nutarties priėmimą gavimo dienos.
 
-Nr. XII-2047, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18710
-
-6. Kardomąją priemonę – užstatą  baigus taikyti, užstatas grąžinamas užstato davėjui.
+7. Kardomąją priemonę – užstatą baigus taikyti, užstatas grąžinamas užstato davėjui. Užstato davėjo ir įtariamojo sutikimu sumokėta užstato suma gali būti panaudota paskirtai baudžiamojo poveikio priemonei įvykdyti, baudai sumokėti, civiliniam ieškiniui patenkinti ar patirtoms proceso išlaidoms išieškoti.
 
 Straipsnio pakeitimai:
 
 Nr. XII-551, 2013-10-10, Žin., 2013, Nr. 109-5365 (2013-10-17)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-387, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14069
 
 137 straipsnis. Karinio dalinio vadovybės stebėjimas
 
