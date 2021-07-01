@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2020-07-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
 
@@ -716,15 +716,11 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 18. Šio straipsnio 4, 11 ir 14 dalių apribojimai taikomi ir bendrovėms, pateikusioms prašymą išduoti licenciją organizuoti azartinius lošimus.
 
-19. Lietuvos Respublikoje draudžiama skatinti dalyvauti lošimuose šiais būdais:
+19. Lietuvos Respublikoje draudžiama skatinti dalyvauti lošimuose – bet kuria forma ir bet kokiomis priemonėmis skleisti informaciją ar atlikti įtikinėjimo veiksmus, įskaitant paties lošimo organizatoriaus organizuojamus specialius renginius, bandomuosius lošimus, akcijas, nuolaidas, dovanas ir panašaus pobūdžio skatinamąsias priemones, skatinančius dalyvauti lošimuose ar nuotoliniuose lošimuose.
 
-1) suteikti teisę lošėjui iš karto ar per tam tikrą terminą po dalyvavimo lošimuose gauti dovanų iš lošimų organizatoriaus;
+Straipsnio dalies pakeitimai:
 
-2) ne lošimų organizavimo vietose ar lošimų organizatoriaus interneto svetainėje organizuoti žaidimus ar konkursus, bandomuosius lošimus, loterijas ir kitus renginius, kurie skatintų dalyvauti lošimuose, įskaitant nuotolinius lošimus.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
+Nr. XIV-337, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12786
 
 20. Kiekvienas asmuo turi teisę Priežiūros tarnybai arba lošimų organizatoriui pateikti prašymą neleisti jam lošti ir dalyvauti nuotoliniuose lošimuose (toliau – prašymas neleisti lošti). Prašyme neleisti lošti gali būti nurodomas asmens pasirinktas laikotarpis, per kurį jam neleidžiama lošti, kuris negali būti trumpesnis kaip 6 mėnesiai. Asmuo gali atsiimti pateiktą prašymą neleisti lošti arba sutrumpinti prašyme neleisti lošti nurodytą terminą, tačiau ne anksčiau kaip po 6 mėnesių nuo prašymo neleisti lošti pateikimo. Prašymų neleisti lošti pateikimo Priežiūros tarnybai arba lošimų organizatoriui tvarką nustato Priežiūros tarnyba.
 
