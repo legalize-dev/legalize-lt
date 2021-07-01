@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2021-05-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -218,7 +218,11 @@ BENDROSIOS NUOSTATOS
 
 85. Žurnalistas – fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui ir (ar) skleidėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
 
-86. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos alkoholio kontrolės įstatyme, Lietuvos Respublikos azartinių lošimų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos loterijų įstatyme, Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme, Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatyme, Lietuvos Respublikos politinių partijų įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme, Teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatyme, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme ir kituose įstatymuose.
+86. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos alkoholio kontrolės įstatyme, Lietuvos Respublikos azartinių lošimų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos loterijų įstatyme, Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme, Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatyme, Lietuvos Respublikos politinių partijų įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme, Teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme ir kituose įstatymuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-240, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08842
 
 Straipsnio pakeitimai:
 
@@ -272,7 +276,11 @@ Straipsnio pakeitimai:
 
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
-6 straipsnis. Teisė gauti informaciją iš valstybės ir savivaldybių institucijų bei įstaigų
+6 straipsnis. Teisė gauti informaciją
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-240, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08842
 
 1. Kiekvienas asmuo turi teisę gauti iš valstybės ir savivaldybių institucijų bei įstaigų, kitų biudžetinių įstaigų viešąją informaciją apie jų veiklą, oficialius jų dokumentus (kopijas), taip pat informaciją, kurią minėtos įstaigos turi apie jį patį.
 
@@ -287,6 +295,28 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 6. Valstybės ir savivaldybių institucijų bei įstaigų viešoji informacija yra nemokama. Šios įstaigos gali imti mokestį tik už paslaugas ir patarnavimus, susijusius su teikiamos informacijos paieška, informacijos ar dokumentų dauginimu (kopijavimu). Šis mokestis negali būti didesnis už realias informacijos pateikimo sąnaudas.
 
 7. Kitos įstaigos ir įmonės, taip pat politinės partijos, politinės organizacijos, profesinės sąjungos, asociacijos ir kitos organizacijos teikia viešosios informacijos rengėjams ir kitiems asmenims viešąją informaciją apie savo veiklą šių įstaigų, įmonių ar organizacijų įstatų (nuostatų) nustatyta tvarka.
+
+8. Žurnalistas turi teisę viešosios informacijos rengėjo ir (ar) skleidėjo, su kuriuo žurnalistą sieja sutartiniai santykiai, vardu neatlygintinai gauti šio įstatymo ir kitų įstatymų nustatytus duomenis ir informaciją iš registro ar valstybės informacinės sistemos tvarkytojo, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas, kurio vardu jis prašo pateikti duomenis ir kuriam rengia ketinamą skelbti informaciją, per paskutinius metus:
+
+1) yra padaręs ne daugiau kaip du šio įstatymo 19 straipsnio 1, 2 ir (ar) 3 dalių pažeidimus ir (ar)
+
+2) nėra Visuomenės informavimo etikos komisijos pripažintas profesinės etikos nesilaikančiu viešosios informacijos rengėju ir (ar) skleidėju.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-240, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08842
+
+9. Žurnalistai šio straipsnio 8 dalyje nustatytomis sąlygomis iš Juridinių asmenų dalyvių informacinės sistemos tvarkytojo turi teisę gauti aktualius ir istorinius juridinio asmens dalyvių ir (ar) naudos gavėjų duomenis, išskyrus fizinio asmens kodą, gyvenamąją vietą arba adresą korespondencijai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-240, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08842
+
+10. Neatlygintino registrų ir valstybės informacinių sistemų duomenų teikimo žurnalistams sąnaudos registro ir valstybės informacinių sistemų tvarkytojui kompensuojamos mutatis mutandis Valstybės informacinių išteklių valdymo įstatymo 29 straipsnyje nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-240, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08842
 
 7 straipsnis. Redagavimo apribojimai
 
