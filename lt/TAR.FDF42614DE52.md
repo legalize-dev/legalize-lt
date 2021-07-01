@@ -4,7 +4,7 @@ identifier: "TAR.FDF42614DE52"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2021-06-16"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 17 straipsnio 4 ir 5 dalių bei 19 strai
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2021-06-16 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
 
@@ -232,15 +232,15 @@ Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
 
 13 straipsnis. Nedarbo draudimo išmokos mokėjimas kartu su kitomis socialinės apsaugos išmokomis
 
-1. Asmenims, gaunantiems jiems patiems priklausančias socialinio draudimo pensijas, šalpos išmokas, valstybines pensijas, rentas buvusiems sportininkams, kompensacines išmokas profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, taip pat netekto darbingumo periodines kompensacijas ar ligos išmokas dėl nelaimingų atsitikimų darbe ir profesinių ligų, taip pat ligos, motinystės, tėvystės ar vaiko priežiūros socialinio draudimo išmokas, profesinės reabilitacijos išmokas, iš nedarbo draudimo lėšų mokama tik nedarbo draudimo išmokos dalis, viršijanti gaunamą pensijų, kompensacijų, rentų ar išmokų sumą.
-
-TAR pastaba. 1 dalies nuostatos taikomos skiriant nedarbo socialinio draudimo išmokas asmenims, kurie įsiregistravo Užimtumo tarnyboje prie Socialinės apsaugos ir darbo ministerijos ir kuriems suteiktas bedarbio statusas po 2020 m. sausio 1 d., bei skiriant dalinio darbo išmokas asmenims, kuriems Lietuvos Respublikos darbo kodekso nustatyta tvarka darbdavio sprendimas nustatyti dalinį darbą įsigalioja po 2020 m. sausio 1 d.
+1. Asmenims, gaunantiems valstybines pensijas, rentas buvusiems sportininkams, kompensacines išmokas profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, taip pat ligos išmokas dėl nelaimingų atsitikimų darbe ir profesinių ligų, ligos, motinystės, tėvystės ar vaiko priežiūros socialinio draudimo išmokas, profesinės reabilitacijos išmokas, iš nedarbo draudimo lėšų mokama tik nedarbo draudimo išmokos dalis, viršijanti gaunamą pensijų, kompensacijų, rentų ar išmokų sumą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1340, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11436
 
 Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
+
+Nr. XIV-360, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13163
 
 2. Asmeniui permokėta, atsižvelgiant į šio straipsnio 1 dalies nuostatas, nedarbo draudimo išmokos dalis Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) teritorinio skyriaus direktoriaus sprendimu gali būti išieškota (išskaityta) iš bet kurios kitos Valstybinio socialinio draudimo fondo valdybos teritoriniame skyriuje jam paskirtos (mokamos) išmokos.
 
@@ -330,7 +330,7 @@ Nedarbo draudimo įmokų mokėjimo tvarką nustato Valstybinio socialinio draudi
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                            ROLANDAS PAKSAS
 
 Pakeitimai:
 
