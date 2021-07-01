@@ -4,7 +4,7 @@ identifier: "TAR.C6E4170DB704"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-03"
-last_updated: "2021-05-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo I, II ir III skyriai įsigalioja nuo 199
 ---
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
 
@@ -57,10 +57,6 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
 
-3. Chirurginė operacija – medicininė procedūra, kai gydytojas, siekdamas diagnozuoti, gydyti ar koreguoti ligos ar traumos pažeistų organų ir jų sistemų funkciją, medicinos prietaisais veikia paciento audinius ir (ar) organus, pažeisdamas audinių ir (ar) organų vientisumą.
-
-3 dalies redakcija nuo 2021-05-26:
-
 3. Chirurginė operacija – medicininė procedūra, kai gydytojas, siekdamas diagnozuoti, gydyti ar koreguoti ligos ar traumos pažeistų organų ir jų sistemų funkciją, medicinos priemonėmis veikia paciento audinius ir (ar) organus, pažeisdamas audinių ir (ar) organų vientisumą.
 
 Straipsnio dalies pakeitimai:
@@ -72,10 +68,6 @@ Nr. XIII-2761, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00045
 5. Diagnostikos ir gydymo protokolas – sveikatos priežiūros įstaigos vadovo patvirtintas dokumentas, kuriuo nuosekliai nustatoma diagnostikos ir gydymo eiga.
 
 6. Diagnostikos ir gydymo tvarkos aprašas – sveikatos apsaugos ministro įsakymu patvirtintas dokumentas, kuriuo nustatoma diagnostikos ir gydymo, kompensuojamo iš Privalomojo sveikatos draudimo fondo biudžeto, tvarka.
-
-7. Invazinė ir (ar) intervencinė procedūra – medicininė procedūra, kai sveikatos priežiūros specialistas, siekdamas diagnozuoti, gydyti ar koreguoti organų ir jų sistemų funkciją, medicinos prietaisais veikia paciento audinius ir (ar) organus, pažeisdamas audinių ir (ar) organų vientisumą arba jo nepažeisdamas.
-
-7 dalies redakcija nuo 2021-05-26:
 
 7. Invazinė ir (ar) intervencinė procedūra – medicininė procedūra, kai sveikatos priežiūros specialistas, siekdamas diagnozuoti, gydyti ar koreguoti organų ir jų sistemų funkciją, medicinos priemonėmis veikia paciento audinius ir (ar) organus, pažeisdamas audinių ir (ar) organų vientisumą arba jo nepažeisdamas.
 
@@ -465,19 +457,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2703, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21552
 
-6. Žala atlyginama, jeigu Komisija nustato, kad teikiant asmens sveikatos priežiūros paslaugas paciento sveikatai yra padaryta žala ir kad tai nėra neišvengiama žala. Jeigu Komisija nustato, kad pacientas tyčia ar dėl didelio neatsargumo prisidėjo prie žalos atsiradimo, žala Apraše nustatytomis sąlygomis ir tvarka neatlyginama arba mažinamas atlygintinos žalos dydis. Nustatytas atlygintinos žalos dydis yra mažinamas ligos išmokos, mokamos pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą, šalpos neįgalumo pensijos ir socialinio draudimo netekto darbingumo pensijos, jeigu jos mokamos pacientui dėl žalos sukeltos ligos ir (ar) sveikatos sutrikimo, ir laidojimo pašalpos, šalpos našlaičių pensijos, socialinio draudimo našlių pensijos, socialinio draudimo našlaičių pensijos, valstybinės našlių pensijos ir valstybinės našlaičių pensijos, jeigu jos mokamos kitam asmeniui, turinčiam teisę į žalos atlyginimą, dėl žalos sukeltos paciento mirties (toliau – išmokos), dydžiu, kuris nustatomas skaičiuojant gautas ar gautinas sumas tuo pačiu laikotarpiu, kaip ir nustatyti netiesioginiai nuostoliai (negautos pajamos) – šiuo atveju pacientui ar kitam asmeniui, turinčiam teisę į žalos atlyginimą, iš sąskaitos išmokamas nustatyto atlygintinos žalos dydžio ir šioje dalyje nustatyta tvarka apskaičiuoto išmokų dydžio skirtumas. Komisija sprendimą atlyginti žalą priima nevertindama asmens sveikatos priežiūros įstaigos ir ją padariusio sveikatos priežiūros specialisto kaltės. Komisijos sprendime žalos atlyginimas nurodomas ir išmokamas vienkartine išmoka.
+6. Žala atlyginama, jeigu Komisija nustato, kad teikiant asmens sveikatos priežiūros paslaugas paciento sveikatai yra padaryta žala ir kad tai nėra neišvengiama žala. Jeigu Komisija nustato, kad pacientas tyčia ar dėl didelio neatsargumo prisidėjo prie žalos atsiradimo, žala Apraše nustatytomis sąlygomis ir tvarka neatlyginama arba mažinamas atlygintinos žalos dydis. Nustatytas atlygintinos žalos dydis yra mažinamas ligos išmokos, mokamos pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą, šalpos neįgalumo pensijos ir socialinio draudimo netekto darbingumo pensijos, jeigu jos mokamos pacientui dėl žalos sukeltos ligos ir (ar) sveikatos sutrikimo, ir laidojimo pašalpos, šalpos našlaičių pensijos, socialinio draudimo našlaičių pensijos, valstybinės našlių pensijos ir valstybinės našlaičių pensijos, jeigu jos mokamos kitam asmeniui, turinčiam teisę į žalos atlyginimą, dėl žalos sukeltos paciento mirties (toliau – išmokos), dydžiu, kuris nustatomas skaičiuojant gautas ar gautinas sumas tuo pačiu laikotarpiu, kaip ir nustatyti netiesioginiai nuostoliai (negautos pajamos), – šiuo atveju pacientui ar kitam asmeniui, turinčiam teisę į žalos atlyginimą, iš sąskaitos išmokamas nustatyto atlygintinos žalos dydžio ir šioje dalyje nustatyta tvarka apskaičiuoto išmokų dydžio skirtumas. Komisija sprendimą atlyginti žalą priima nevertindama asmens sveikatos priežiūros įstaigos ir ją padariusio sveikatos priežiūros specialisto kaltės. Komisijos sprendime žalos atlyginimas nurodomas ir išmokamas vienkartine išmoka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2703, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21552
 
+Nr. XIV-401, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14504
+
 7. Komisija atlygintinos žalos dydį nustato vadovaudamasi Apraše nurodytais atlygintinos žalos dydžiais, nustatytais  pagal šiuos kriterijus:
 
 1) turtinės žalos:
-
-a) pagal tiesioginius nuostolius (patirtas išlaidas asmens sveikatos priežiūros paslaugoms, vaistiniams preparatams ir medicinos priemonėms (prietaisams), išskyrus apmokėtus Privalomojo sveikatos draudimo fondo, valstybės ar savivaldybės biudžeto lėšomis, kitas pagrįstas išlaidas;
-
-1 punkto a) papunkčio redakcija nuo 2021-05-26:
 
 a) pagal tiesioginius nuostolius (patirtas išlaidas asmens sveikatos priežiūros paslaugoms, vaistiniams preparatams ir medicinos priemonėms, išskyrus apmokėtus Privalomojo sveikatos draudimo fondo, valstybės ar savivaldybės biudžeto lėšomis, kitas pagrįstas išlaidas;
 
@@ -599,7 +589,7 @@ Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -730,6 +720,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-257, 2021-04-20, paskelbta TAR 2021-04-26, i. k. 2021-08634
 
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 papildymo 16-1 straipsniu ir 17 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-401, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14504
+
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 24 straipsnio pakeitimo įstatymas
 
 161 straipsnis. Sutikimo skiepytis nuo užkrečiamosios pandemiją sukėlusios ligos, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, išreiškimas
 
