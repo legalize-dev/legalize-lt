@@ -4,7 +4,7 @@ identifier: "TAR.708F524D8B62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-03"
-last_updated: "2016-05-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.708F524D8B62"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2016-05-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2024-04-25
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1528, i. k. 0951010ISTA000I-996
 
@@ -112,7 +112,11 @@ BENDROSIOS NUOSTATOS
 
 4 straipsnis. Specialieji tauriųjų metalų naudojimo reikalavimai
 
-1. Tauriųjų metalų gaminiai gali būti padengti tuo pačiu tauriuoju metalu, kurio praba yra ne žemesnė kaip dengiamo tauriųjų metalų gaminio praba, arba tauriuoju metalu, kurio praba yra aukštesnė negu dengiamo tauriųjų metalų gaminio praba.
+1. Tauriųjų metalų gaminiai gali būti padengti tuo pačiu tauriuoju metalu, kurio praba yra ne žemesnė kaip dengiamo tauriųjų metalų gaminio praba, arba tauresniu metalu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 
 2. Tauriųjų metalų gaminiai negali būti dengiami kitais, negu šio įstatymo 3 straipsnyje nurodytais, tauriaisiais metalais.
 
@@ -126,7 +130,11 @@ BENDROSIOS NUOSTATOS
 
 Atsižvelgiant į brangakmenio tapatybę, nustatomos tokios brangakmenių charakteristikos:
 
-1) briaunų forma;
+1) forma;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 
 2) briaunų skaičius;
 
@@ -190,11 +198,23 @@ TAURIŲJŲ METALŲ IR BRANGAKMENIŲ PRABAVIMAS, ĮSPAUDAVIMAS IR ŽENKLINIMAS
 
 8) luitai;
 
-9) gaminiai, kurie negali būti įspauduoti dėl techninių arba technologinių priežasčių.
+9) gaminiai, kurie negali būti įspauduoti dėl techninių arba technologinių priežasčių. Prie tokių gaminių pritvirtinamas kokybės pažymėjimas.
 
-13. Tauriųjų metalų gaminių, susidedančių iš skirtingų tauriųjų metalų, kurių spalva skiriasi, praba įspauduojama juos atitinkančiose tauriųjų metalų gaminio dalyse. Jeigu dėl techninių kliūčių negalima tauriųjų metalų gaminio dalyje įspauduoti jos tauriojo metalo prabos, įspauduojama kita gaminio to paties tauriojo metalo dalis.
+Straipsnio punkto pakeitimai:
 
-14. Tauriųjų metalų gaminiai, susidedantys iš skirtingų tauriųjų metalų, kurių spalva nesiskiria, įspauduojami žemiausią prabą turinčio tauriojo metalo praba.
+Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
+
+13. Tauriųjų metalų gaminių, susidedančių iš skirtingų tauriųjų metalų, kurių spalva skiriasi, standartine praba įspauduojamas kiekvienas taurusis metalas. Jeigu tokiame tauriųjų metalų gaminyje dėl techninių arba technologinių priežasčių negalima įspauduoti kiekvieno tauriojo metalo prabos, tas taurusis metalas neįspauduojamas ir prie tokio gaminio pritvirtinamas kokybės pažymėjimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
+
+14. Tauriųjų metalų gaminiai, susidedantys iš skirtingų tauriųjų metalų, kurių spalva nesiskiria, įspauduojami mažiausiai tauraus metalo standartine praba. Tauriųjų metalų gaminiai, susidedantys iš skirtingų to paties tauriojo metalo lydinių, įspauduojami to gaminio žemiausią prabą turinčio tauriojo metalo lydinio standartine praba. Jeigu šioje dalyje nurodyti tauriųjų metalų gaminiai negali būti įspauduoti dėl techninių arba technologinių priežasčių, prie tokių gaminių pritvirtinamas kokybės pažymėjimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 
 15. Tauriaisiais metalais padengti tauriųjų metalų gaminiai įspauduojami ta praba, kuri atitinka nepadengtą tauriojo metalo gaminį.
 
@@ -214,7 +234,11 @@ TAURIŲJŲ METALŲ IR BRANGAKMENIŲ PRABAVIMAS, ĮSPAUDAVIMAS IR ŽENKLINIMAS
 
 23. Bendrojo kontrolės ženklo formą nustato Tauriųjų metalų gaminių kontrolės ir prabavimo konvencija. Bendrojo kontrolės ženklo pavyzdžius tvirtina priežiūros institucija.
 
-24. Priežiūros institucijos atliekamos prabavimo, įspaudavimo ir ženklinimo procedūros nustatomos Tauriųjų metalų ir brangakmenių prabavimo, įspaudavimo ir ženklinimo tvarkos apraše, kurį tvirtina priežiūros institucijos savininko teises ir pareigas įgyvendinanti institucija.
+24. Tauriųjų metalų ir brangakmenių prabavimo, įspaudavimo ir ženklinimo tvarką nustato priežiūros institucijos savininko teises ir pareigas įgyvendinanti institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 
 25. Prabavimui atlikti reikalingų bandinių ėmimo tvarką reglamentuoja Tauriųjų metalų gaminių kontrolės ir prabavimo konvencija.
 
@@ -290,11 +314,15 @@ Su tauriaisiais metalais ir brangakmeniais susijusios veiklos rūšys:
 
 10 straipsnis. Ūkio subjekto pareigos
 
-1. Ūkio subjektas savo su tauriaisiais metalais ir brangakmeniais susijusios veiklos vietose turi turėti:
+1. Ūkio subjektas savo su tauriaisiais metalais ir brangakmeniais susijusios veiklos vietose turi:
 
-1) tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo buhalterinės apskaitos registrus, laisvos formos su tauriaisiais metalais ir brangakmeniais susijusios veiklos dokumentų (toliau – veiklos dokumentas) apskaitos registrus, tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo apyvartos žiniaraščius (toliau – apyvartos žiniaraštis) ir (arba) ūkio subjekto naudojamo kasos aparato panaudotas kontrolines juostas arba elektronines kontrolines juostas, saugomas elektroninėse laikmenose, sudarytus po paskutinės atliktos tauriųjų metalų ir brangakmenių, jų gaminių, pusgaminių, atliekų ir laužo inventorizacijos, ir paskutinės atliktos inventorizacijos dokumentus;
+1) turėti tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo buhalterinės apskaitos registrus, laisvos formos su tauriaisiais metalais ir brangakmeniais susijusios veiklos dokumentų (toliau – veiklos dokumentas) apskaitos registrus, tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo apyvartos žiniaraščius (toliau – apyvartos žiniaraštis) ir (arba) ūkio subjekto naudojamo kasos aparato panaudotas kontrolines juostas arba elektronines kontrolines juostas, saugomas elektroninėse laikmenose, sudarytus po paskutinės atliktos tauriųjų metalų ir brangakmenių, jų gaminių, pusgaminių, atliekų ir laužo inventorizacijos, ir paskutinės atliktos inventorizacijos dokumentus;
 
-2) Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) arba jos įgaliotos institucijos sudaromus Europos ekonominės erdvės valstybių ir Turkijos įgaliotų tauriųjų metalų ir brangakmenių prabavimo valstybinės priežiūros institucijų sąrašą ir jų įspauduojamų valstybinių kontrolinių prabavimo ženklų ir išduodamų kokybės pažymėjimų blankų pavyzdžių (ir jų vertimo į lietuvių kalbą) rinkinius.
+2) suteikti vartotojui informaciją apie priežiūros institucijos sudaromus Europos ekonominės erdvės valstybių ir Turkijos įgaliotų tauriųjų metalų ir brangakmenių prabavimo valstybinės priežiūros institucijų sąrašą ir jų įspauduojamų valstybinių kontrolinių prabavimo ženklų ir išduodamų kokybės pažymėjimų blankų pavyzdžių (ir jų vertimo į lietuvių kalbą) rinkinius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 
 2. Ūkio subjektas tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo supirkimo, įkeitimo, gamybos ir (arba) taisymo vietose, be šio straipsnio 1 dalyje nurodytų veiklos dokumentų, taip pat turi turėti tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo masės nustatymo priemones su galiojančiais šių matavimo priemonių metrologinės patikros dokumentais.
 
@@ -398,15 +426,17 @@ TAURIŲJŲ METALŲ IR BRANGAKMENIŲ VALSTYBINĖ PRIEŽIŪRA
 
 1) tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir laužo prabavimą;
 
-2) ūkio subjektų su tauriaisiais metalais ir brangakmeniais susijusios veiklos atitikties šio įstatymo nustatytiems reikalavimams priežiūrą.
+2) ūkio subjektų su tauriaisiais metalais ir brangakmeniais susijusios veiklos atitikties šio įstatymo ir kitų su tauriaisiais metalais ir brangakmeniais susijusią veiklą reglamentuojančių teisės aktų nustatytiems reikalavimams priežiūrą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 
 16 straipsnis. Priežiūros institucija
 
-1. Priežiūros institucija yra valstybės įmonė „Lietuvos prabavimo rūmai“.
+1. Priežiūros institucija yra viešoji įstaiga Lietuvos prabavimo rūmai.
 
-2. Priežiūros institucija gali gauti Lietuvos Respublikos valstybės biudžeto lėšų šiame įstatyme jai pavestoms viešojo administravimo funkcijoms atlikti.
-
-3. Priežiūros institucija, įgyvendindama šį įstatymą:
+2. Priežiūros institucija, įgyvendindama šio įstatymo 15 straipsnio 2 dalies 1 punkto nuostatą:
 
 1) prabuoja ūkio subjektų pateiktus tauriuosius metalus, brangakmenius, jų gaminius, pusgaminius, atliekas ir (arba) laužą;
 
@@ -414,17 +444,13 @@ TAURIŲJŲ METALŲ IR BRANGAKMENIŲ VALSTYBINĖ PRIEŽIŪRA
 
 3) išduoda savo prabuotų tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo kokybės pažymėjimus;
 
-4) tvarko Ūkio subjektų sąrašą ir registruoja atsakomybės ženklo pavyzdžius;
+4) organizuoja ir užtikrina Lietuvos Respublikos valstybinio kontrolinio prabavimo ženklo ir bendrojo kontrolės ženklo įsigijimą savo pačios lėšomis;
 
-5) organizuoja ir užtikrina Lietuvos Respublikos valstybinio kontrolinio prabavimo ženklo ir bendrojo kontrolės ženklo įsigijimą savo pačios lėšomis;
+5) atlieka Lietuvos Respublikos valstybinio kontrolinio prabavimo ženklo, bendrojo kontrolės ženklo, kokybės pažymėjimo, tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo ekspertizę;
 
-6) prižiūri, kad ūkio subjektai laikytųsi šio įstatymo ir kitų su tauriaisiais metalais ir brangakmeniais susijusią veiklą reglamentuojančių teisės aktų reikalavimų;
+6) pagal kompetenciją konsultuoja ūkio subjektus ir asmenis, teikia jiems rekomendacijas su tauriaisiais metalais ir brangakmeniais susijusios veiklos klausimais.
 
-7) atlieka Lietuvos Respublikos valstybinio kontrolinio prabavimo ženklo, bendrojo kontrolės ženklo ir kokybės pažymėjimo ekspertizę;
-
-8) pagal kompetenciją konsultuoja ūkio subjektus ir asmenis, teikia jiems rekomendacijas su tauriaisiais metalais ir brangakmeniais susijusios veiklos klausimais.
-
-4. Priežiūros institucija, įgyvendindama šio straipsnio 3 dalies 6 punktą:
+3. Priežiūros institucija, įgyvendindama šio įstatymo 15 straipsnio 2 dalies 2 punkto nuostatą:
 
 1) atlieka ūkio subjekto su tauriaisiais metalais ir brangakmeniais susijusios veiklos patikrinimus;
 
@@ -432,19 +458,37 @@ TAURIŲJŲ METALŲ IR BRANGAKMENIŲ VALSTYBINĖ PRIEŽIŪRA
 
 3) nustato ūkio subjekto su tauriaisiais metalais ir brangakmeniais susijusios veiklos pažeidimus;
 
-4) duoda nurodymus ūkio subjektams pašalinti jos nustatytus ūkio subjekto su tauriaisiais metalais ir brangakmeniais susijusios veiklos pažeidimus ir nustato terminą, per kurį šie pažeidimai turi būti pašalinti ir apie tai ji informuota;
+4) duoda nurodymus ūkio subjektams pašalinti jos nustatytus ūkio subjekto su tauriaisiais metalais ir brangakmeniais susijusios veiklos pažeidimus ir nustato terminą, per kurį šie pažeidimai turi būti pašalinti ir apie tai ji turi būti informuota;
 
-5) konfiskuoja Lietuvos Respublikoje realizuoti skirtus tauriuosius metalus, brangakmenius, jų gaminius, pusgaminius, atliekas ir (arba) laužą, jeigu jų valstybiniai kontroliniai prabavimo ženklai ir (arba) kokybės pažymėjimai yra padirbti (suklastoti) arba taurieji metalai, brangakmeniai, jų gaminiai, pusgaminiai, atliekos ir (arba) laužas yra be kilmės (įsigijimo) dokumentų;
+5) konfiskuoja Lietuvos Respublikoje realizuoti skirtus tauriuosius metalus, brangakmenius, jų gaminius, pusgaminius, atliekas ir (arba) laužą, jeigu jų bendrasis kontrolės ženklas, valstybiniai kontroliniai prabavimo ženklai ir (arba) kokybės pažymėjimai yra padirbti (suklastoti) arba taurieji metalai, brangakmeniai, jų gaminiai, pusgaminiai, atliekos ir (arba) laužas yra be kilmės (įsigijimo) dokumentų;
 
-6) nagrinėja Lietuvos Respublikos administracinių nusižengimų kodekse jos kompetencijai priskirtas administracinių nusižengimų bylas ir skiria administracines nuobaudas.
+6) nagrinėja Lietuvos Respublikos administracinių nusižengimų kodekse jos kompetencijai priskirtas administracinių nusižengimų bylas ir skiria administracines nuobaudas;
 
-5. Priežiūros institucijos darbuotojai, pagal kompetenciją įgyvendinantys šio straipsnio 3 dalies 6 punkto nuostatas, turi teisę, pateikę tarnybinį pažymėjimą, nekliudomai lankytis visų Lietuvos Respublikos ūkio subjektų buveinėse ir su tauriaisiais metalais ir brangakmeniais susijusios veiklos vietose ir atlikti tauriųjų metalų ir brangakmenių prabavimo ir ūkio subjektų su tauriaisiais metalais ir brangakmeniais susijusios veiklos priežiūrą.
+7) tvarko Ūkio subjektų sąrašą ir registruoja atsakomybės ženklo pavyzdžius;
+
+8) sudaro Europos ekonominės erdvės valstybių ir Turkijos įgaliotų tauriųjų metalų ir brangakmenių prabavimo valstybinės priežiūros institucijų sąrašą ir jų įspauduojamų valstybinių kontrolinių prabavimo ženklų ir išduodamų kokybės pažymėjimų blankų pavyzdžių (ir jų vertimo į lietuvių kalbą) rinkinius ir skelbia juos priežiūros institucijos interneto svetainėje;
+
+9) vykdo pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimo priežiūrą pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą;
+
+10) pagal kompetenciją vykdo 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105 bei 2000/21/EB, su visais pakeitimais reikalavimų, susijusių su pavojingųjų cheminių medžiagų ir cheminių mišinių, jų turinčių gaminių gamybos, tiekimo rinkai ir (arba) naudojimo apribojimais, įgyvendinimo priežiūrą;
+
+11) tiria Lietuvos Respublikos aplinkos apsaugos įstatyme jos kompetencijai priskirtus juridinių asmenų padarytus pažeidimus, surašo juridinių asmenų padarytų pažeidimų protokolus ir perduoda bylas dėl ekonominės sankcijos skyrimo nagrinėti vyriausiesiems valstybiniams aplinkos apsaugos inspektoriams;
+
+12) atlieka kitas įstatymų nustatytas funkcijas, susijusias su tauriųjų metalų ir brangakmenių valstybine priežiūra.
+
+4. Priežiūros institucijos veikla, kuria įgyvendinama šio įstatymo 15 straipsnio 2 dalies 2 punkto nuostata, finansuojama iš Lietuvos Respublikos valstybės biudžeto lėšų.
+
+5. Priežiūros institucijos darbuotojai, pagal kompetenciją įgyvendinantys šio straipsnio 3 dalies nuostatas, turi teisę, pateikę tarnybinį pažymėjimą, nekliudomai lankytis visų Lietuvos Respublikos ūkio subjektų buveinėse ir su tauriaisiais metalais ir brangakmeniais susijusios veiklos vietose ir atlikti tauriųjų metalų ir brangakmenių prabavimo ir ūkio subjektų su tauriaisiais metalais ir brangakmeniais susijusios veiklos priežiūrą.
 
 6. Priežiūros institucijos darbuotojai ir buvę darbuotojai privalo saugoti ūkio subjektų komercines (gamybines) paslaptis, kurias jie sužinojo vykdydami tauriųjų metalų ir brangakmenių valstybinę priežiūrą. Už šios informacijos atskleidimą priežiūros institucijos darbuotojai ir buvę darbuotojai atsako Lietuvos Respublikos civilinio kodekso ir (arba) Lietuvos Respublikos darbo kodekso nustatyta tvarka.
 
-7. Priežiūros institucijos pagal šį įstatymą teikiamų paslaugų (tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir laužo prabavimo, tauriųjų metalų gaminių įspaudavimo, tauriųjų metalų, brangakmenių ir brangakmenių gaminių, tauriųjų metalų ir brangakmenių pusgaminių, atliekų ir laužo kokybės pažymėjimų išdavimo) tarifus, neviršijančius teikiamų paslaugų sąnaudų, nustato Vyriausybė.
+7. Priežiūros institucijos atlygio už šio straipsnio 2 dalyje nurodytas veiklas skaičiavimo tvarką nustato priežiūros institucijos savininko teises ir pareigas įgyvendinanti institucija.
 
-8. Priežiūros institucija pasibaigus kalendoriniams metams per vieną mėnesį pateikia Lietuvos Respublikos finansų ministerijai tauriųjų metalų ir brangakmenių valstybinės priežiūros, šios priežiūros rezultatų ir su tauriaisiais metalais ir brangakmeniais susijusios veiklos Lietuvos Respublikoje būklės ataskaitą.
+8. Priežiūros institucija, vykdydama šio įstatymo 15 straipsnio 2 dalyje nurodytas funkcijas, asmens duomenis tvarko vadovaudamasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir jų įgyvendinamaisiais teisės aktais.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 
 17 straipsnis. Priežiūros institucijos veiksmų apskundimas
 
@@ -452,7 +496,7 @@ Priežiūros institucijos sprendimai skundžiami Lietuvos Respublikos administra
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -487,6 +531,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2000, 2015-11-10, paskelbta TAR 2015-11-20, i. k. 2015-18478
 
 Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo Nr. I-996 pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
+
+Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo Nr. I-996 4, 5, 6, 10, 15 ir 16 straipsnių pakeitimo įstatymas
 
 18 straipsnis
 
