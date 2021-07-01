@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-10-15
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
 
@@ -927,6 +927,14 @@ Nr. XIV-78, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28124
 
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 2 straipsnio pakeitimo įstatymas
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-246, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08854
+
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 8-1 straipsnio pakeitimo įstatymas
+
 81 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
 1. Juridinių asmenų dalyvių informacinės sistemos, įsteigtos vadovaujantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu, tvarkytojui teikiami šie duomenys apie viešosios įstaigos dalininkus:
@@ -957,11 +965,17 @@ TAR pastaba. Viešosios įstaigos, įsteigtos iki 2017 m. spalio 31 d., kurių d
 
 2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
 
-3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis.
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-852, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20335
+
+4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-246, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08854
 
 8. Atlyginimo už Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų pagrindu parengtos informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos administravimo išlaidų kartu su pagrįsta investicijų grąža.
 
