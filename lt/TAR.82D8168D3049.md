@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-08-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -348,7 +348,11 @@ Nr. XIII-2516, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18824
 
 7. Lietuvos nacionalinė standartizacijos institucija bendradarbiauja su Vyriausybės įgaliota elektroninių ryšių veiklos politikos formavimo institucija ir Ryšių reguliavimo tarnyba, kai šios Standartizacijos įstatymo nustatyta tvarka dalyvauja standartizacijos, susijusios su elektroninių ryšių tinklų, paslaugų, susijusių priemonių ir paslaugų teikimu, įskaitant radijo ir (ar) televizijos programų transliavimą, techninėmis sąsajomis ir (ar) tinklų funkcionavimu, galinių įrenginių, įskaitant radijo ir televizijos programų priėmimo įrangą, sąveika, procese, keičiasi su standartizacija susijusia informacija.
 
-8. Siekiant užtikrinti elektroninių ryšių poreikius, nacionalinio saugumo institucijos pagal savo kompetenciją bendradarbiauja su Ryšių reguliavimo tarnyba.
+8. Siekiant užtikrinti elektroninių ryšių poreikius, taip pat kad radijo dažnių (kanalų), numatytų elektroninių ryšių tinklams ir (ar) elektroninių ryšių paslaugoms teikti, skyrimas ir naudojimas atitiktų nacionalinio saugumo interesus, nacionalinio saugumo institucijos pagal savo kompetenciją bendradarbiauja su Ryšių reguliavimo tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-346, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12502
 
 9. Sveikatos apsaugos ministerija, nustatydama higienos normas, susijusias su elektromagnetinio spinduliavimo normomis, konsultuojasi su Ryšių reguliavimo tarnyba. Sveikatos apsaugos ministerija keičiasi su Ryšių reguliavimo tarnyba informacija, susijusia su higienos normomis, turinčiomis ryšių su elektromagnetinio spinduliavimo normomis. Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos, atlikdamas savo funkcijas, susijusias su elektromagnetinio spinduliavimo normų priežiūra, konsultuojasi su Ryšių reguliavimo tarnyba, taip pat su šia institucija keičiasi susijusia informacija.
 
@@ -796,21 +800,27 @@ ELEKTRONINIŲ RYŠIŲ TINKLŲ TIESIMAS, PRIEŽIŪRA IR APSAUGA
 
 7. Ryšių reguliavimo tarnyba bendro elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros naudojimo tvarką ir sąlygas nustato elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklėse.
 
-8. Ryšių reguliavimo tarnyba sudaro galimybę infrastruktūros naudotojams proporcingomis, nediskriminacinėmis ir skaidriomis sąlygomis elektroniniu būdu gauti valstybės ar savivaldybių institucijų, valstybės ar savivaldybių įstaigų, valstybės ar savivaldybių įmonių ir viešųjų įstaigų, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, (toliau – valstybės ar savivaldybių institucijos, įstaigos, įmonės ir viešosios įstaigos) elektroniniu būdu valdomą ir (arba) tvarkomą informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą. Tuo atveju, kai infrastruktūros naudotojams reikalinga informacija valstybės ar savivaldybių institucijų, įstaigų, įmonių ir viešųjų įstaigų yra valdoma ir (arba) tvarkoma ne elektroniniu būdu, infrastruktūros naudotojai šią informaciją turi teisę proporcingomis, nediskriminacinėmis ir skaidriomis sąlygomis gauti šio straipsnio 9 dalies 2 punkte nustatyta tvarka, taip pat elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklių nustatyta tvarka ir sąlygomis iš infrastruktūros valdytojų. Infrastruktūros naudotojai turi teisę apžiūrėti esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą vietoje elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklių nustatyta tvarka ir sąlygomis.
+71. Infrastruktūros naudotojai turi teisę proporcingomis, nediskriminacinėmis ir skaidriomis sąlygomis elektroniniu būdu gauti valstybės ar savivaldybių institucijų, valstybės ar savivaldybių įstaigų, valstybės ar savivaldybių įmonių ir viešųjų įstaigų, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė (toliau – valstybės ar savivaldybių institucijos, įstaigos, įmonės ir viešosios įstaigos), elektroniniu būdu valdomą ir (arba) tvarkomą informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą (infrastruktūros rūšį, įrengimo vietą, maršrutą, užpildymą ir kitą informaciją) Lietuvos Respublikos geodezijos ir kartografijos įstatymo nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-363, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13171
+
+8. Tuo atveju, kai infrastruktūros naudotojams reikalinga informacija valstybės ar savivaldybių institucijų, įstaigų, įmonių ir viešųjų įstaigų yra valdoma ir (arba) tvarkoma ne elektroniniu būdu, infrastruktūros naudotojai šią informaciją turi teisę proporcingomis, nediskriminacinėmis ir skaidriomis sąlygomis gauti šio straipsnio 9 dalyje nustatyta tvarka, taip pat elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklėse nustatyta tvarka ir sąlygomis – iš infrastruktūros valdytojų. Infrastruktūros naudotojai turi teisę apžiūrėti esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą vietoje elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklėse nustatyta tvarka ir sąlygomis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
 
-9. Valstybės ar savivaldybių institucijos, įstaigos, įmonės ir viešosios įstaigos, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, valdančios ir (arba) tvarkančios informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą, privalo:
+Nr. XIV-363, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13171
 
-1) Lietuvos Respublikos Vyriausybės nustatyta tvarka ir sąlygomis suteikti Ryšių reguliavimo tarnybai prieigą prie jų elektroniniu būdu valdomos ir (arba) tvarkomos informacijos apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą (infrastruktūros rūšį, įrengimo vietą, maršrutą, užpildymą ir panašiai); prieiga prie atnaujintos informacijos Ryšių reguliavimo tarnybai turi būti suteikta ne vėliau kaip per du mėnesius nuo naujos šiame punkte nurodytos informacijos gavimo valstybės ar savivaldybių institucijoje, įstaigoje, įmonėje ar viešojoje įstaigoje dienos; šis terminas gali būti pratęstas ne ilgesniam kaip vieno mėnesio terminui, jeigu tai yra būtina pateikiamos informacijos patikimumui užtikrinti;
-
-2) infrastruktūros naudotojų prašymu pateikti jiems ne elektroniniu būdu valdomą ir (ar) tvarkomą informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą (infrastruktūros rūšį, įrengimo vietą, maršrutą, užpildymą ir panašiai).
+9. Valstybės ar savivaldybių institucijos, įstaigos, įmonės ir viešosios įstaigos, valdančios ir (arba) tvarkančios informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą, privalo infrastruktūros naudotojų prašymu pateikti jiems ne elektroniniu būdu valdomą ir (ar) tvarkomą informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą (infrastruktūros rūšį, įrengimo vietą, maršrutą, užpildymą ir kitą informaciją).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
+
+Nr. XIV-363, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13171
 
 10. Šio straipsnio 8 ir 9 dalys netaikomos informacijai, kurios pateikimas galėtų sukelti ar sukels grėsmę nacionaliniam saugumui, elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros saugumui ir (arba) vientisumui, visuomenės saugumui ir (arba) sveikatai. Atsisakymas infrastruktūros naudotojui pateikti šio straipsnio 8 ir (arba) 9 dalyse (dalyje) nurodytą informaciją turi būti motyvuotas ir pagrįstas.
 
@@ -912,7 +922,11 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 50 straipsnis. Elektroninių ryšių išteklių naudojimo ir skyrimo pagrindai
 
-1. Elektroninių ryšių ištekliai skiriami ir naudojami šio Įstatymo ir Ryšių reguliavimo tarnybos nustatytų elektroninių ryšių išteklių skyrimo ir naudojimo taisyklių nustatyta tvarka ir sąlygomis.
+1. Elektroninių ryšių ištekliai skiriami ir naudojami šiame Įstatyme ir Ryšių reguliavimo tarnybos nustatytose elektroninių ryšių išteklių skyrimo ir naudojimo taisyklėse nustatyta tvarka ir sąlygomis. Radijo dažniai (kanalai), numatyti elektroninių ryšių tinklams ir (ar) elektroninių ryšių paslaugoms teikti, skiriami ir naudojami atsižvelgiant į nacionalinio saugumo interesus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-346, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12502
 
 2. Elektroninių ryšių ištekliai gali būti naudojami:
 
@@ -964,9 +978,17 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 9. Ryšių reguliavimo tarnyba gali rezervuoti konkrečius elektroninių ryšių išteklius, siekdama užtikrinti tinkamą elektroninių ryšių tinklų ir (ar) paslaugų plėtrą bei technologijų vystymąsi.
 
-10. Sprendimas skirti elektroninių ryšių išteklius turi būti priimtas, išsiųstas pareiškėjui ir paskelbtas kaip įmanoma greičiau po to, kai Ryšių reguliavimo tarnyba gauna išsamų, nustatytus reikalavimus atitinkantį prašymą (visą informaciją ir dokumentus) – per 21 dieną telefono ryšio numerių skyrimo atveju ir per 42 dienas radijo dažnių (kanalų) skyrimo atveju. Šioje dalyje nurodyti terminai taikomi nepažeidžiant tarptautinėse sutartyse ir (arba) susitarimuose nustatytų terminų.
+10. Sprendimas skirti elektroninių ryšių išteklius turi būti priimtas, išsiųstas pareiškėjui ir paskelbtas kaip įmanoma greičiau po to, kai Ryšių reguliavimo tarnyba gauna išsamų, nustatytus reikalavimus atitinkantį prašymą (visą informaciją ir dokumentus), – per 21 dieną telefono ryšio numerių skyrimo atveju ir per 42 dienas radijo dažnių (kanalų) skyrimo atveju. Šioje dalyje nurodyti terminai taikomi nepažeidžiant tarptautinėse sutartyse ir (ar) susitarimuose nustatytų terminų. Šioje dalyje nurodytų terminų skaičiavimas yra sustabdomas tol, kol yra atliekamos šio Įstatymo 571 straipsnyje numatytos procedūros.
 
-11. Jei Ryšių reguliavimo tarnyba nusprendžia, kad telefono ryšio numerių naudojimo teisė turi būti suteikta konkurso tvarka ar aukciono būdu, šio straipsnio 10 dalyje nurodytas maksimalus 21 dienos terminas pratęsiamas dar 21 diena. Jei Ryšių reguliavimo tarnyba nusprendžia skirti radijo dažnius (kanalus) konkurso ar aukciono būdu, šio straipsnio 10 dalyje nurodytas maksimalus 42 dienų terminas pratęsiamas tiek, kiek būtina, kad būtų užtikrintos sąžiningos, pagrįstos, atviros ir skaidrios visoms suinteresuotoms šalims procedūros, tačiau bet kuriuo atveju ne ilgiau nei 8 mėnesiais. Šis terminas taikomas nepažeidžiant tarptautinėse sutartyse ir (ar) susitarimuose nustatytų terminų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-346, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12502
+
+11. Jeigu Ryšių reguliavimo tarnyba nusprendžia, kad telefono ryšio numerių naudojimo teisė turi būti suteikta konkurso tvarka ar aukciono būdu, šio straipsnio 10 dalyje nurodytas maksimalus 21 dienos terminas pratęsiamas dar 21 dienai. Jeigu Ryšių reguliavimo tarnyba nusprendžia skirti radijo dažnius (kanalus) konkurso tvarka ar aukciono būdu, šio straipsnio 10 dalyje nurodytas maksimalus 42 dienų terminas pratęsiamas tiek, kiek būtina, kad būtų užtikrintos sąžiningos, pagrįstos, atviros ir skaidrios visoms suinteresuotoms šalims procedūros, tačiau bet kuriuo atveju ne ilgiau kaip 8 mėnesiams. Šis terminas taikomas nepažeidžiant tarptautinėse sutartyse ir (ar) susitarimuose nustatytų terminų. Šioje dalyje nurodytų terminų skaičiavimas yra sustabdomas tol, kol yra atliekamos šio Įstatymo 571 straipsnyje numatytos procedūros.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-346, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12502
 
 12. Už suteikiamą teisę naudoti elektroninių ryšių išteklius įmokos, kurias įsipareigoja sumokėti konkurso ar aukciono laimėtojai, mokamos į valstybės biudžetą. Jeigu konkurso ar aukciono laimėtojas uždelsia sumokėti įmoką ar jos dalį, Ryšių reguliavimo tarnyba turi teisę priimti sprendimą įpareigoti konkurso ar aukciono laimėtoją šią įmoką sumokėti ir nustatyti sumokėjimo terminą. Toks Ryšių reguliavimo tarnybos sprendimas yra vykdomasis dokumentas, kurio neįvykdžius, sprendimas pateikiamas vykdyti Civilinio proceso kodekso nustatyta tvarka. Sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos.
 
@@ -1332,7 +1354,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 
-10) efektyvaus radijo dažnių (kanalų) naudojimu ir veiksmingo radijo dažnių (kanalų) valdymo užtikrinimu.
+10) efektyvaus radijo dažnių (kanalų) naudojimu ir veiksmingo radijo dažnių (kanalų) valdymo užtikrinimu;
+
+11) radijo dažnių (kanalų), numatytų elektroninių ryšių tinklams ir (ar) elektroninių ryšių paslaugoms teikti, skyrimo ir naudojimo atitikties nacionalinio saugumo interesams užtikrinimo tikslais.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-346, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12502
 
 4. Ryšių reguliavimo tarnyba negali reikalauti šio straipsnio 3 dalyje nurodytos informacijos, išskyrus šio straipsnio 3 dalies 3 punkte nurodytą informaciją, iš ūkio subjekto, ketinančio verstis elektroninių ryšių veikla, prieš ūkio subjektui įgyjant teisę ar pradedant faktiškai verstis (atsižvelgiant į tai, kuri aplinkybė ankstesnė) elektroninių ryšių veikla, arba nustatyti šios informacijos pateikimą kaip būtiną sąlygą tokiai teisei įgyti.
 
@@ -1976,6 +2004,22 @@ Nr. XIII-3407, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24568
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 7 straipsnio pakeitimo įstatymas
 
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-346, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12502
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 12, 50, 51, 57, 71 straipsnių pakeitimo ir Įstatymo papildymo 57-1 straipsniu įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-363, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13171
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 38-1 ir 39 straipsnių pakeitimo įstatymas
+
 3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 1. Abonentas – asmuo, kuris yra viešųjų elektroninių ryšių paslaugų teikimo sutarties su šių paslaugų teikėju šalis.
@@ -2408,11 +2452,15 @@ Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 57 straipsnis. Teisės naudoti elektroninių ryšių išteklius perleidimas
 
-Asmuo turi teisę kitam asmeniui Ryšių reguliavimo tarnybos nustatyta tvarka ir sąlygomis perleisti, įskaitant laikiną teisės naudoti elektroninių ryšių išteklius perleidimą, teisę naudoti jam skirtus elektroninių ryšių išteklius, išskyrus teisę naudoti radijo dažnius (kanalus), kurių paskirtis – radijo ir (arba) televizijos programų transliavimas (retransliavimas).
+Asmuo turi teisę kitam asmeniui Ryšių reguliavimo tarnybos nustatyta tvarka ir sąlygomis perleisti, įskaitant laikiną teisės naudoti elektroninių ryšių išteklius perleidimą, teisę naudoti jam skirtus elektroninių ryšių išteklius, išskyrus teisę naudoti radijo dažnius (kanalus), kurių paskirtis – radijo ir (arba) televizijos programų transliavimas (retransliavimas), ir atvejus, kai elektroninių ryšių ištekliai skiriami atliekant šio Įstatymo 571 straipsnyje numatytas procedūras.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-346, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12502
 
 1 straipsnis. Įstatymo paskirtis, tikslai ir taikymas
 
@@ -2846,19 +2894,35 @@ Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
 
 381 straipsnis. Bendras elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros įrengimas
 
-1. Infrastruktūros valdytojai, kurie ketina vykdyti elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros, skirtos gamybos, tiekimo, paskirstymo ir (ar) transporto paslaugoms teikti, įrengimo darbus, kurie visiškai ar iš dalies yra finansuojami valstybės, savivaldybės, Europos Sąjungos struktūrinių fondų lėšomis, (toliau – įrengimo darbai) privalo ne vėliau kaip prieš du mėnesius iki kreipimosi į kompetentingas institucijas dėl reikalingų leidimų atlikti įrengimo darbus gavimo (jeigu tokių leidimų nereikia, iki įrengimo darbų pradžios) elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklių nustatyta tvarka ir sąlygomis pateikti Ryšių reguliavimo tarnybai informaciją apie numatomą įrengimo darbų pradžią ir galimybes infrastruktūros naudotojams įsirengti elektroninių ryšių infrastruktūrą infrastruktūros valdytojams vykdant įrengimo darbus (toliau – bendras infrastruktūrų įrengimas).
+1. Infrastruktūros valdytojai, kurie ketina vykdyti elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros, skirtos gamybos, tiekimo, paskirstymo ir (ar) transporto paslaugoms teikti, įrengimo darbus, kurie visiškai ar iš dalies yra finansuojami valstybės, savivaldybės, Europos Sąjungos struktūrinių fondų lėšomis (toliau – įrengimo darbai), privalo ne vėliau kaip prieš du mėnesius iki kreipimosi į kompetentingas institucijas dėl reikalingų leidimų atlikti įrengimo darbus gavimo (jeigu tokių leidimų nereikia, iki įrengimo darbų pradžios) Topografijos ir inžinerinės infrastruktūros informacinėje sistemoje paskelbti informaciją apie numatomą įrengimo darbų pradžią ir galimybes infrastruktūros naudotojams įsirengti elektroninių ryšių infrastruktūrą infrastruktūros valdytojams vykdant įrengimo darbus (toliau – bendras infrastruktūrų įrengimas).
 
-2. Infrastruktūros valdytojai pagal šio straipsnio 1 dalį privalo pateikti Ryšių reguliavimo tarnybai informaciją apie:
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-363, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13171
+
+2. Infrastruktūros valdytojai pagal šio straipsnio 1 dalį privalo paskelbti informaciją apie:
 
 1) elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros rūšį, jos elementus ir įrengimo vietą;
 
-2) numatomą įrengimo darbų pradžios datą ir šių darbų trukmę;
+2) numatomas įrengimo darbų pradžios ir pabaigos datas;
 
 3) kontaktinius (asmens ar padalinio) duomenis.
 
-3. Šio straipsnio 2 dalyje nurodytą informaciją Ryšių reguliavimo tarnyba skelbia savo interneto svetainėje elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklių nustatyta tvarka.
+Straipsnio dalies pakeitimai:
 
-4. Infrastruktūros naudotojas, pageidaujantis įsirengti elektroninių ryšių infrastruktūrą, elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklių nustatyta tvarka ir sąlygomis nuo šio straipsnio 2 dalyje nurodytos informacijos paskelbimo Ryšių reguliavimo tarnybos interneto svetainėje dienos, bet ne vėliau kaip prieš vieną mėnesį iki infrastruktūros valdytojo kreipimosi į kompetentingas institucijas dėl reikalingų leidimų (jeigu tokių leidimų nereikia, iki įrengimo darbų pradžios), privalo pateikti infrastruktūros valdytojui prašymą bendrai įrengti infrastruktūras.
+Nr. XIV-363, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13171
+
+3. Neteko galios nuo 2021-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-363, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13171
+
+4. Infrastruktūros naudotojas, pageidaujantis įsirengti elektroninių ryšių infrastruktūrą, elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklėse nustatyta tvarka ir sąlygomis nuo šio straipsnio 2 dalyje nurodytos informacijos paskelbimo Topografijos ir inžinerinės infrastruktūros informacinėje sistemoje dienos, bet ne vėliau kaip prieš vieną mėnesį iki infrastruktūros valdytojo kreipimosi į kompetentingas institucijas dėl reikalingų leidimų (jeigu tokių leidimų nereikia, iki įrengimo darbų pradžios), privalo pateikti infrastruktūros valdytojui prašymą bendrai įrengti infrastruktūras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-363, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13171
 
 5. Infrastruktūros valdytojai, ketinantys vykdyti įrengimo darbus, privalo proporcingomis, skaidriomis ir nediskriminacinėmis sąlygomis leisti infrastruktūros naudotojams įsirengti elektroninių ryšių infrastruktūrą, išskyrus atvejus, kai:
 
@@ -2894,7 +2958,11 @@ Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
 
 1) šio straipsnio 8 dalyje nurodytos elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros rūšį, jos elementus ir įrengimo vietą;
 
-2) numatomą įrengimo darbų pradžios datą ir šių darbų trukmę;
+2) numatomas įrengimo darbų pradžios ir pabaigos datas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-363, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13171
 
 3) kontaktinius (asmens ar padalinio) duomenis.
 
@@ -2907,4 +2975,42 @@ Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
 Papildyta straipsniu:
 
 Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
+
+571 straipsnis. Specialiosios radijo dažnių (kanalų), numatytų elektroninių ryšių tinklams ir (ar) elektroninių ryšių paslaugoms teikti, skyrimo ir naudojimo sąlygos
+
+1. Šiame straipsnyje nustatyti reikalavimai yra taikomi:
+
+1) viešojo konkurso tvarka, aukciono būdu ar tiesiogiai radijo dažnių (kanalų) prašančiam asmeniui skiriant radijo dažnius (kanalus), numatytus elektroninių ryšių tinklams ir (ar) elektroninių ryšių paslaugoms teikti (toliau šiame straipsnyje – tam tikri radijo dažniai (kanalai);
+
+2) naudojant tam tikrus radijo dažnius (kanalus).
+
+2. Asmenys, teikiantys paraiškas dalyvauti šio straipsnio 1 dalies 1 punkte nurodytame konkurse, aukcione ar tiesiogiai prašantys skirti tam tikrus radijo dažnius (kanalus), privalo Ryšių reguliavimo tarnybai pateikti informaciją apie savo elektroninių ryšių veiklai vykdyti naudojant tam tikrus radijo dažnius (kanalus) planuojamos naudoti aparatūros, įrenginių ir (ar) programinės įrangos gamintojus, tiekėjus ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjus. Elektroninių ryšių veiklai vykdyti naudojamos aparatūros, įrenginių ir (ar) programinės įrangos, apie kurios gamintojus, tiekėjus ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjus privaloma pateikti informaciją Ryšių reguliavimo tarnybai, sąrašą, įvertinęs elektroninių ryšių tinkluose naudojamos ir (ar) elektroninių ryšių paslaugoms skirtos aparatūros, įrenginių ir (ar) programinės įrangos keliamą saugumo riziką ir suderinęs su Ryšių reguliavimo tarnyba, nustato Lietuvos Respublikos krašto apsaugos ministras.
+
+3. Ryšių reguliavimo tarnyba privalo kreiptis į Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos koordinavimo komisiją dėl asmenų, pateikusių paraiškas dalyvauti šio straipsnio 1 dalies 1 punkte nurodytame konkurse, aukcione ar tiesiogiai prašančių skirti tam tikrus radijo dažnius (kanalus), taip pat šio straipsnio 2 dalyje numatytame sąraše nurodytos aparatūros, įrenginių ir (ar) programinės įrangos gamintojų, tiekėjų ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjų atitikties nacionalinio saugumo interesams patikros Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka.
+
+4. Asmuo, pateikęs paraišką dalyvauti šio straipsnio 1 dalies 1 punkte nurodytame konkurse ar aukcione, netenka teisės jame dalyvauti, o tiesiogiai prašančiam skirti tam tikrus radijo dažnius (kanalus) asmeniui atsisakoma skirti jo prašyme nurodytus radijo dažnius (kanalus), jeigu Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka priimamas Vyriausybės sprendimas, kad jis ir (ar) jo planuojamos naudoti šio straipsnio 2 dalyje numatytame sąraše nurodytos aparatūros, įrenginių ir (ar) programinės įrangos gamintojas, tiekėjas ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjas neatitinka nacionalinio saugumo interesų.
+
+5. Asmuo, kuriam buvo suteikta teisė naudoti tam tikrus radijo dažnius (kanalus) ir kuris ketina naudodamasis šiais radijo dažniais (kanalais) elektroninių ryšių veiklai vykdyti naudoti kitų, negu buvo nurodyti pagal šio straipsnio 2 dalį, gamintojų ir (ar) tiekėjų šio straipsnio 2 dalyje numatytame sąraše nurodytą aparatūrą, įrenginius ir (ar) programinę įrangą ir (ar) pasitelkti kitus, negu buvo nurodyti pagal šio straipsnio 2 dalį, šio straipsnio 2 dalyje numatytame sąraše nurodytos aparatūros, įrenginių ir (ar) programinės įrangos priežiūros ir (ar) palaikymo paslaugų teikėjus, privalo apie tai pranešti Ryšių reguliavimo tarnybai. Gavusi šioje dalyje nurodytą informaciją, Ryšių reguliavimo tarnyba privalo ne vėliau kaip per 10 darbo dienų nuo jos gavimo dienos kreiptis į Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos koordinavimo komisiją dėl šioje dalyje nurodyto asmens planuojamos naudoti šioje dalyje nurodytos aparatūros, įrenginių ir (ar) programinės įrangos gamintojų, tiekėjų ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjų atitikties nacionalinio saugumo interesams patikros Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka. Šioje dalyje nurodytas asmuo negali naudoti šioje dalyje nurodytos aparatūros, įrenginių, programinės įrangos ir (ar) jų priežiūros ir (ar) palaikymo paslaugų elektroninių ryšių veiklai vykdyti naudodamas jam skirtus tam tikrus radijo dažnius (kanalus) tol, kol Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka nėra laikoma, kad tokios aparatūros, įrenginių ir (ar) programinės įrangos gamintojas, tiekėjas ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjas atitinka nacionalinio saugumo interesus.
+
+6. Asmenys, kuriems suteikta teisė naudoti tam tikrus radijo dažnius (kanalus) ir (ar) jų naudojamos šio straipsnio 2 dalyje numatytame sąraše nurodytos aparatūros, įrenginių ir (ar) programinės įrangos gamintojai, tiekėjai ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjai privalo atitikti nacionalinio saugumo interesus. Ryšių reguliavimo tarnyba, gavusi informacijos, kad asmenys, kuriems buvo suteikta teisė naudoti tam tikrus radijo dažnius (kanalus), ir (ar) jų naudojamos šio straipsnio 2 dalyje numatytame sąraše nurodytos aparatūros, įrenginių ir (ar) programinės įrangos gamintojai, tiekėjai ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjai galimai neatitinka nacionalinio saugumo interesų, ne vėliau kaip per 10 darbo dienų nuo šioje dalyje nurodytos informacijos gavimo dienos privalo kreiptis į Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos koordinavimo komisiją dėl šių asmenų ir (ar) jų naudojamos šioje dalyje nurodytos aparatūros, įrenginių ir (ar) programinės įrangos gamintojų, tiekėjų ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjų atitikties nacionalinio saugumo interesams patikros Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka. Ryšių reguliavimo tarnyba privalo per vieną darbo dieną nuo kreipimosi į Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos koordinavimo komisiją dienos informuoti asmenį, kuriam suteikta teisė naudoti tam tikrus radijo dažnius (kanalus), apie tai, kad dėl jo ar jo naudojamos aparatūros, įrenginių ir (ar) programinės įrangos gamintojų, tiekėjų ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjų atitikties nacionalinio saugumo interesams patikros yra kreiptasi į Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos koordinavimo komisiją.
+
+7. Ryšių reguliavimo tarnyba ne vėliau kaip per 5 darbo dienas nuo informacijos, pagrindžiančios šioje dalyje numatytų aplinkybių atsiradimą, gavimo dienos sustabdo asmeniui suteiktą teisę naudoti tam tikrus radijo dažnius (kanalus), jeigu Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka Vyriausybė priima sprendimą, kad:
+
+1) asmuo, kuriam buvo suteikta teisė naudoti tam tikrus radijo dažnius (kanalus), neatitinka nacionalinio saugumo interesų; šiame punkte nurodytu atveju teisė naudoti radijo dažnius (kanalus) sustabdoma tol, kol per Vyriausybės nustatytą terminą bus pašalintos ar išnyks neatitikties nacionalinio saugumo interesams priežastys;
+
+2) asmens, kuriam buvo suteikta teisė naudoti tam tikrus radijo dažnius (kanalus), naudojamos šio straipsnio 2 dalyje numatytame sąraše nurodytos aparatūros, įrenginių ir (ar) programinės įrangos gamintojai, tiekėjai ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjai neatitinka nacionalinio saugumo interesų; tokiu atveju asmuo, kuriam teisė naudoti tam tikrus radijo dažnius (kanalus) yra sustabdyta, privalo ne vėliau kaip per 12 mėnesių nuo Vyriausybės sprendimo priėmimo dienos pakeisti šiame punkte nurodytą aparatūrą, įrenginius, programinę įrangą ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjus.
+
+8. Ryšių reguliavimo tarnyba ne vėliau kaip per 5 darbo dienas nuo informacijos, pagrindžiančios šioje dalyje numatytų aplinkybių atsiradimą, gavimo dienos panaikina asmeniui suteiktą teisę naudoti tam tikrus radijo dažnius (kanalus), jeigu:
+
+1) Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka Vyriausybės priimtu sprendimu asmuo, kuriam buvo suteikta teisė naudoti tam tikrus radijo dažnius (kanalus), yra pripažįstamas neatitinkančiu nacionalinio saugumo interesų dėl priežasčių, kurios negali būti pašalintos arba išnykti per Vyriausybės nustatytą terminą;
+
+2) teisė naudoti tam tikrus radijo dažnius (kanalus) asmeniui buvo sustabdyta pagal šio straipsnio 7 dalies 1 punktą ir per Vyriausybės nustatytą terminą nebuvo pašalintos arba neišnyko neatitikties nacionalinio saugumo interesams priežastys;
+
+3) asmuo, kuriam teisė naudoti tam tikrus radijo dažnius (kanalus) buvo sustabdyta pagal šio straipsnio 7 dalies 2 punktą, nepakeitė aparatūros, įrenginių, programinės įrangos gamintojų, tiekėjų ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjų per šio straipsnio 7 dalies 2 punkte nustatytą terminą;
+
+4) Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka Vyriausybė priima sprendimą, kad nacionalinio saugumo interesų neatitinka aparatūros, įrenginių ir (ar) programinės įrangos gamintojai, tiekėjai ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjai, dėl kurių Ryšių reguliavimo tarnybai nebuvo pateikta informacija šio straipsnio 5 dalyje numatytu atveju ir kurių atitikties nacionalinio saugumo interesams patikros procedūra buvo pradėta šio straipsnio 6 dalyje nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIV-346, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12502
 
