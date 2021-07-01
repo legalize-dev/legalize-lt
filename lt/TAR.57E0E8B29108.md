@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2021-05-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-09-17
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -688,11 +688,17 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 10) teikia informaciją, nuomonę, išvadas ir rekomendacijas dėl kitų nacionalinio saugumo interesams užtikrinti būtinų priemonių, susijusių su nacionaliniam saugumui užtikrinti svarbių objektų apsauga;
 
-11) teikia Vyriausybės įgaliotai institucijai rekomendacijas dėl nacionaliniam saugumui užtikrinti svarbios įmonės naujo saugumo plano parengimo, esamo saugumo plano koregavimo ar vykdymo.
+11) teikia Vyriausybės įgaliotai institucijai rekomendacijas dėl nacionaliniam saugumui užtikrinti svarbios įmonės naujo saugumo plano parengimo, esamo saugumo plano koregavimo ar vykdymo;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+
+12) atlieka asmenų, tiesiogiai prašančių skirti tam tikrus radijo dažnius (kanalus) ar pateikusių paraiškas dalyvauti viešajame konkurse ar aukcione, kai skiriami tam tikri radijo dažniai (kanalai), ir (ar) turinčių teisę naudoti tam tikrus radijo dažnius (kanalus), taip pat jų naudojamos ir (ar) planuojamos naudoti Elektroninių ryšių įstatymo 571 straipsnio 2 dalyje numatytame sąraše nurodytos aparatūros, įrenginių ir (ar) programinės įrangos gamintojų, tiekėjų ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjų atitikties nacionalinio saugumo interesams patikrą ir priima sprendimą arba teikia išvadą Vyriausybei ir tiesiogiai prašančiam skirti tam tikrus radijo dažnius (kanalus) ar pateikusiam paraišką dalyvauti viešajame konkurse ar aukcione, kai skiriami tam tikri radijo dažniai (kanalai), ir (ar) turinčiam teisę naudoti tam tikrus radijo dažnius (kanalus) asmeniui, kurio patikrą atliko.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-347, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12503
 
 3. Pasibaigus metų ketvirčiui, per 20 darbo dienų Komisija privalo pateikti Seimo Nacionalinio saugumo ir gynybos komitetui informaciją apie praėjusio metų ketvirčio veiklos rezultatus, pasiektus atliekant šio straipsnio 2 dalyje nurodytas funkcijas.
 
@@ -1178,6 +1184,14 @@ Nr. XIV-233, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07424
 
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 5 straipsnio, 2 ir 4 priedų pakeitimo įstatymas
 
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-347, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12503
+
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 19 straipsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas
+
 121 straipsnis. Asmenų, kurie siekia vykdyti (vykdo) veiklą nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje, kuri įstatymu yra pripažinta keliančia grėsmę nacionaliniam saugumui, atitikties nacionalinio saugumo interesams patikra
 
 Asmenims, kurie siekia vykdyti (vykdo) veiklą nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje, kuri įstatymu yra pripažinta keliančia grėsmę nacionaliniam saugumui, mutatis mutandis taikoma patikra, numatyta investuotojams šio įstatymo 12 straipsnyje.
@@ -1225,4 +1239,14 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 Papildyta straipsniu:
 
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+
+132 straipsnis. Elektroninių ryšių tinklams ir (ar) elektroninių ryšių paslaugoms teikti numatytų radijo dažnių (kanalų) skyrimo ir (ar) naudojimo atitikties nacionalinio saugumo interesams patikra
+
+1. Į Komisiją dėl asmenų, tiesiogiai prašančių skirti radijo dažnius (kanalus), numatytus elektroninių ryšių tinklams ir (ar) elektroninių ryšių paslaugoms teikti (toliau – tam tikri radijo dažniai (kanalai), ar pateikusių paraiškas dalyvauti viešajame konkurse, aukcione, kai skiriami tam tikri radijo dažniai (kanalai), ir (ar) turinčių teisę naudoti tam tikrus radijo dažnius (kanalus), taip pat jų naudojamos ir (ar) planuojamos naudoti Lietuvos Respublikos elektroninių ryšių įstatymo 571 straipsnio 2 dalyje numatytame sąraše nurodytos aparatūros, įrenginių ir (ar) programinės įrangos gamintojų, tiekėjų ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjų atitikties nacionalinio saugumo interesams patikros kreipiasi Lietuvos Respublikos ryšių reguliavimo tarnyba Elektroninių ryšių įstatyme nustatytais atvejais.
+
+2. Šio straipsnio 1 dalyje nurodytiems asmenims, elektroninių ryšių veiklai vykdyti naudojamos aparatūros, įrenginių ir (ar) programinės įrangos gamintojams, tiekėjams ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjams mutatis mutandis taikoma patikra, numatyta investuotojams šio įstatymo 12 straipsnio 5, 7, 8, 9 dalyse, 10 dalies 1 ir 3 punktuose, 11–17, 19 ir 20 dalyse. Komisija konstatuoja, kad šio straipsnio 1 dalyje nurodytas asmuo, elektroninių ryšių veiklai vykdyti naudojamos aparatūros, įrenginių ir (ar) programinės įrangos gamintojas, tiekėjas ir (ar) priežiūros ir (ar) palaikymo paslaugų teikėjas neatitinka nacionalinio saugumo interesų, jeigu nustatoma, kad jis atitinka bent vieną šio įstatymo 11 straipsnio 1 dalyje nustatytų kriterijų ir (ar) šio straipsnio 1 dalyje nurodytas asmuo, elektroninių ryšių veiklai vykdyti naudojamos aparatūros, įrenginių ir (ar) programinės įrangos gamintojas, tiekėjas ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjas, ir (ar) juos kontroliuojantis asmuo yra registruotas trečiojoje valstybėje. Šio straipsnio 1 dalyje nurodyti elektroninių ryšių veiklai vykdyti naudojamos aparatūros, įrenginių ir (ar) programinės įrangos gamintojai, tiekėjai ir (ar) jų priežiūros ir (ar) palaikymo paslaugų teikėjai neinformuojami apie šio įstatymo 12 straipsnyje numatytus Komisijos ar Vyriausybės sprendimus.
+
+Papildyta straipsniu:
+
+Nr. XIV-347, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12503
 
