@@ -4,7 +4,7 @@ identifier: "TAR.94DB985EB965"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-01"
-last_updated: "2020-11-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2022-11-07
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
 
@@ -689,7 +689,7 @@ KOOPERATINIŲ BENDROVIŲ SĄJUNGOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -821,6 +821,14 @@ Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 3-1, 5, 10, 11, 14, 15, 16 straipsnių pakeitimo ir Įstatymo papildymo 16-1, 16-2 straipsniais įstatymas
 
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-243, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08849
+
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 6-1 straipsnio pakeitimo įstatymas
+
 31 straipsnis. Žemės ūkio kooperatinė bendrovė (kooperatyvas)
 
 1. Žemės ūkio kooperatinė bendrovė (kooperatyvas) – kooperatinė bendrovė (kooperatyvas), kuri (kuris) pagal šio straipsnio reikalavimus yra pripažinta žemės ūkio kooperatine bendrove (kooperatyvu). Teisę būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu) turi įregistruota kooperatinė bendrovė (kooperatyvas), jeigu ji (jis) atitinka šiuos reikalavimus:
@@ -911,13 +919,19 @@ KOOPERATINIŲ BENDROVIŲ STEIGIMAS IR JŲ TEISĖS
 
 3. Už kooperatinės bendrovės narių duomenų pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsako kooperatinės bendrovės administracijos vadovas.
 
-4. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų pagrindu parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, jeigu ji:
+4. Pagal Juridinių asmenų dalyvių informacinėje sistemoje sukauptus duomenis parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, jeigu ji:
 
 1) teikiama kooperatinės bendrovės nariams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
 
 2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
 
-3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams, kitoms valstybės institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti.
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
+
+4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-243, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08849
 
 5. Pagal šį įstatymą įregistruotos kredito unijos, kurios yra įsteigtos ir savo veikloje vadovaujasi Lietuvos Respublikos civiliniu kodeksu, Lietuvos Respublikos kredito unijų įstatymu, Lietuvos Respublikos finansų įstaigų įstatymu, šiuo įstatymu, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui duomenų apie savo narius neteikia.
 
