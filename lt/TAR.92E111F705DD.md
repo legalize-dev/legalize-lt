@@ -4,7 +4,7 @@ identifier: "TAR.92E111F705DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-04"
-last_updated: "2019-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.92E111F705DD"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos jaunimo politikos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 119-5406, i. k. 1031010ISTA0IX-1871
 
@@ -53,9 +53,21 @@ BENDROSIOS NUOSTATOS
 
 5. Darbas su jaunimu gatvėje – darbas su jaunimu ne institucinėje aplinkoje, bet tiesiogiai neformaliose jaunimo susibūrimo vietose (viešosiose erdvėse, gatvėse, parkuose, kavinėse, sporto aikštynuose, klubuose ir kt.).
 
+51. Išmanieji darbo su jaunimu metodai – skaitmeninėmis medijomis ir išmaniosiomis technologijomis grindžiami darbo su jaunimu metodai: jaunimo informavimas ir konsultavimas per įvairias skaitmenines platformas, socialinius tinklus ir kitas skaitmenines priemones, mobiliųjų programų, vaizdo ir fotografuotinių pranešimų kūrimas ir (ar) naudojimas ir kiti darbo su jaunimu metodai naudojant socialinius tinklus ir kitas skaitmenines priemones.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3204, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15397
+
 6. Jaunas žmogus – asmuo nuo 14 iki 29 metų (įskaitytinai).
 
 7. Jaunimas – du ir (ar) daugiau jaunų žmonių.
+
+71. Jaunimo informavimas ir konsultavimas – darbo su jaunimu forma, apimanti aktualios ir reikiamos informacijos jaunam žmogui pateikimą įvairiomis jaunam žmogui aktualiomis temomis, leidžianti jaunam žmogui, dirbant kartu su jaunimo informavimo ir konsultavimo darbuotoju, gauti atsakymus į rūpimus klausimus, užtikrinant jauno žmogaus nukreipimą į organizacijas ir institucijas, kuriose jis gali gauti jam reikalingą pagalbą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3204, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15397
 
 8. Jaunimo iniciatyva – savanoriška ir savarankiška jaunimo veikla, skirta savo ir visuomenės poreikiams tenkinti.
 
@@ -95,7 +107,7 @@ JAUNIMO POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 1. Lietuvos Respublikos socialinės apsaugos ir darbo ministerija formuoja jaunimo politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą.
 
-2. Jaunimo politiką įgyvendina socialinės apsaugos ir darbo ministro įgaliota institucija.
+2. Jaunimo politiką įgyvendina Lietuvos Respublikos Vyriausybės įgaliota institucija (toliau – jaunimo politiką įgyvendinanti institucija).
 
 3. Valstybinei (valstybės perduotai savivaldybėms) jaunimo politikos įgyvendinimo funkcijai atlikti savivaldybių administracijose steigiamos savivaldybės jaunimo reikalų koordinatoriaus pareigybės:
 
@@ -105,17 +117,45 @@ JAUNIMO POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 3) savivaldybės jaunimo reikalų koordinatorius rengia ir įgyvendina savivaldybėje įgyvendinamas jaunimo politikos programas ir priemones, analizuoja jaunimo, jaunimo organizacijų ir su jaunimu dirbančių organizacijų padėtį savivaldybėje, plėtoja savivaldybės institucijų ir įstaigų, dirbančių jaunimo politikos srityje, bendradarbiavimą, palaiko ryšius su užsienio lietuvių jaunimo organizacijomis ir atlieka kitas savivaldybės jaunimo reikalų koordinatoriaus pareigybės aprašyme nustatytas funkcijas.
 
-4. Viešoji įstaiga Jaunimo tarptautinio bendradarbiavimo agentūra, kurios steigėjos yra jaunimo politiką įgyvendinanti socialinės apsaugos ir darbo ministro įgaliota institucija ir asociacija Lietuvos jaunimo organizacijų taryba, įgyvendina ir (ar) administruoja tarptautines ir Europos Sąjungos programas jaunimo politikos srityje. Šios funkcijos finansuojamos iš Socialinės apsaugos ir darbo ministerijai skirtų valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+4. Lietuvos jaunimo organizacijų taryba ir savivaldybių jaunimo organizacijų tarybos, jaunimo organizacijos ir su jaunimu dirbančios organizacijos, Pasaulio lietuvių jaunimo sąjunga, vykdydamos savo veiklą, prisideda prie jaunimo politikos įgyvendinimo.
 
-5. Lietuvos jaunimo organizacijų taryba ir savivaldybių jaunimo organizacijų tarybos, jaunimo organizacijos ir su jaunimu dirbančios organizacijos, Pasaulio lietuvių jaunimo sąjunga, vykdydamos savo veiklą, prisideda prie jaunimo politikos įgyvendinimo.
+5. Jaunimo politiką įgyvendinanti institucija kiekvienais metais iki balandžio 1 dienos teikia savivaldybių administracijoms individualias jaunimo politikos įgyvendinimo rekomendacijas, kurių pagrindu turi būti užtikrinama valstybinė (valstybės perduota savivaldybėms) jaunimo politikos įgyvendinimo funkcija.
+
+6. Socialinės apsaugos ir darbo ministerija kiekvienais metais iki gegužės 15 dienos teikia Vyriausybei praėjusių kalendorinių metų jaunimo politikos įgyvendinimo ataskaitą ir rekomendacijas dėl jaunimo politikos įgyvendinimo.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3204, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15397
 
 4 straipsnis. Jaunimo reikalų taryba
 
-1. Jaunimo reikalų taryba – visuomeninė patariamoji institucija, vadovaujantis lygybės principu sudaroma iš valstybės institucijų, Lietuvos savivaldybių asociacijos, Lietuvos jaunimo organizacijų tarybos ir Pasaulio lietuvių jaunimo sąjungos deleguotų atstovų.
+1. Jaunimo reikalų taryba yra jaunimo politiką įgyvendinančios institucijos visuomeninė patariamoji institucija, sudaryta vadovaujantis lygybės ir pariteto principais iš valstybės institucijų, Lietuvos savivaldybių asociacijos, Lietuvos jaunimo organizacijų tarybos ir Pasaulio lietuvių jaunimo sąjungos deleguotų atstovų.
 
-2. Jaunimo reikalų tarybos sudarymo tvarką nustato, nuostatus ir sudėtį tvirtina socialinės apsaugos ir darbo ministras.
+2. Jaunimo reikalų tarybos sudarymo tvarką nustato, jos nuostatus ir sudėtį tvirtina socialinės apsaugos ir darbo ministras.
 
-3. Jaunimo reikalų taryba nagrinėja su jaunimo politika Lietuvos Respublikoje susijusius klausimus ir teikia Lietuvos Respublikos Vyriausybei, ministerijoms, kitoms valstybės ir savivaldybių institucijoms bei įstaigoms pasiūlymus dėl jaunimo politikos, jos įgyvendinimo, jaunimo politikos įgyvendinimo priemonių finansavimo prioritetų, bendradarbiavimo su užsienio lietuvių jaunimo organizacijomis, su jaunimo politikos įgyvendinimu susijusių teisės aktų projektų.
+3. Jaunimo reikalų taryba atlieka šias funkcijas:
+
+1) teikia siūlymus dėl jaunimo politiką įgyvendinančios institucijos vizijos, misijos, prioritetų, strateginių tikslų;
+
+2) vertina jaunimo politikai Socialinės apsaugos ir darbo ministerijos skirtų asignavimų jaunimo politiką įgyvendinančios institucijos projektus bei teikia savo siūlymus dėl jų tobulinimo;
+
+3) teikia siūlymus Socialinės apsaugos ir darbo ministerijai dėl jaunimo politiką įgyvendinančios institucijos strateginių ir metinių veiklos planų vykdymo;
+
+4) dalyvauja formuojant jaunimo politiką;
+
+5) nagrinėja su jaunimo politika susijusius klausimus ir teikia Vyriausybei, ministerijoms, kitoms valstybės ir savivaldybių institucijoms bei įstaigoms pasiūlymus dėl jaunimo politikos įgyvendinimo, jaunimo politikos priemonių finansavimo prioritetų, bendradarbiavimo su užsienio lietuvių jaunimo organizacijomis, taip pat dėl su jaunimo politikos įgyvendinimu susijusių teisės aktų projektų;
+
+6) teikia siūlymus dėl jaunimo politiką įgyvendinančios institucijos vadovo pateiktos įstaigos veiklos metinės ataskaitos ir teikia rekomendacijas Socialinės apsaugos ir darbo ministerijai dėl šios ataskaitos įgyvendinimo įvertinimo;
+
+7) teisės aktų nustatyta tvarka dalyvauja renkant jaunimo politiką įgyvendinančios institucijos vadovą;
+
+8) vykdo jaunimo politikos įgyvendinimo stebėseną, inicijuoja jaunimo politikos srities tyrimus, vertina ir teikia išvadas Socialinės apsaugos ir darbo ministerijai dėl atliktų tyrimų;
+
+9) svarsto jaunimo politiką įgyvendinančios institucijos biudžeto sąmatų projektus ir teikia siūlymus Socialinės apsaugos ir darbo ministerijai dėl jaunimo politiką įgyvendinančiai institucijai skiriamų asignavimų tinkamo panaudojimo.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3204, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15397
 
 5 straipsnis. Savivaldybės jaunimo reikalų taryba
 
@@ -151,7 +191,7 @@ Darbas su jaunimu atliekamas vadovaujantis šiais principais:
 
 7 straipsnis. Darbas su jaunimu ir jo formos
 
-1. Darbą su jaunimu atlieka jaunimo politiką įgyvendinančios institucijos, kiti subjektai, vadovaudamiesi darbo su jaunimu principais, nurodytais šio įstatymo 6 straipsnyje. Darbo su jaunimu tikslinė grupė – jaunimas.
+1. Darbą su jaunimu atlieka jaunimo ir su jaunimu dirbančios organizacijos, vadovaudamosi darbo su jaunimu principais, nurodytais šio įstatymo 6 straipsnyje. Darbo su jaunimu tikslinė grupė yra jaunimas.
 
 2. Išskiriamos šios darbo su jaunimu formos:
 
@@ -163,11 +203,17 @@ Darbas su jaunimu atliekamas vadovaujantis šiais principais:
 
 4) jaunimo praktinių įgūdžių ugdymas;
 
-5) kitos formos.
+5) jaunimo informavimas ir konsultavimas;
 
-3. Atliekant darbą su jaunimu, turi būti vykdomas neformalusis jaunimo ugdymas.
+6) kitos formos.
 
-4. Šio straipsnio 2 dalyje nurodytų formų darbo su jaunimu tvarką nustato socialinės apsaugos ir darbo ministras.
+3. Atliekant darbą su jaunimu, turi būti vykdomas neformalusis jaunimo ugdymas ir taikomi išmanieji darbo su jaunimu metodai.
+
+4. Šio straipsnio 2 dalyje nurodytų darbo su jaunimu formų turinį ir tvarką nustato socialinės apsaugos ir darbo ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3204, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15397
 
 8 straipsnis. Atviruosiuose jaunimo centruose ir atvirosiose jaunimo erdvėse vykdoma veikla
 
@@ -195,7 +241,7 @@ Darbas su jaunimu atliekamas vadovaujantis šiais principais:
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                               ROLANDAS PAKSAS
 
 Pakeitimai:
 
@@ -222,6 +268,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1224, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09738
 
 Lietuvos Respublikos jaunimo politikos pagrindų įstatymo Nr. IX-1871 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3204, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15397
+
+Lietuvos Respublikos jaunimo politikos pagrindų įstatymo Nr. IX-1871 2, 3, 4 ir 7 straipsnių pakeitimo įstatymas
 
 9 straipsnis. Jaunimo organizacijų funkcijos
 
