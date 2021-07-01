@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
 
@@ -825,6 +825,12 @@ Notariniai veiksmai gali būti atliekami pas bet kurį notarą, išskyrus turto 
 
 Notariniai veiksmai atliekami notaro biure. Atlikti notarinius veiksmus ne notaro biuro patalpose galima tik tada, kai suinteresuotas asmuo dėl svarbios priežasties (liga, invalidumas ar kiti atvejai) negali atvykti į notaro biurą ir iškviečia notarą į namus, medicinos pagalbos ar kitą įstaigą, kai atliekant notarinį veiksmą dalyvauja daugiau nei dešimt asmenų arba kai notarinis veiksmas atliekamas iškilmingoje aplinkoje.
 
+Notaro nuotoliniu būdu, naudojant informacinių technologijų priemones (toliau – nuotolinis būdas), atliekamų notarinių veiksmų atlikimo vieta yra laikoma notaro biuro buvimo vieta. Notaras nuotoliniu būdu gali atlikti notarinius veiksmus ir asmenims, esantiems užsienyje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-204, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06548
+
 Lietuvos Respublikos konsulinių pareigūnų atliekamų notarinių veiksmų vietą nustato Lietuvos Respublikos konsulinis statutas.
 
 Seniūnų atliekamų notarinių veiksmų vietą nustato Lietuvos Respublikos vietos savivaldos įstatymas.
@@ -931,15 +937,17 @@ Nr. VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
 
 36 straipsnis. Tvirtinamasis įrašas ir notarinis liudijimas
 
-Notaro tvirtinamuose dokumentuose notaras parašo tvirtinamąjį įrašą, pasirašo ir uždeda savo antspaudą.
+Notaro tvirtinamuose popieriniuose dokumentuose notaras parašo tvirtinamąjį įrašą, pasirašo ir uždeda savo antspaudą.
 
-Notaro liudijamuose dokumentuose notaras parašo notarinio liudijimo įrašą, pasirašo ir uždeda savo antspaudą.
+Notaro liudijamuose ir išduodamuose popieriniuose dokumentuose notaras parašo notarinio liudijimo įrašą, pasirašo ir uždeda savo antspaudą.
 
-Notaro išduodamuose dokumentuose notaras parašo notarinio liudijimo įrašą, pasirašo ir uždeda savo antspaudą. Paveldėjimo teisės liudijimuose notaras papildomai nurodo paveldėjimo bylos numerį.
+Notaro tvirtinamuose elektroniniuose dokumentuose notaras parašo tvirtinamąjį įrašą ir pasirašo juos kvalifikuotu elektroniniu parašu. Notaro liudijamuose ir išduodamuose elektroniniuose dokumentuose notaras parašo liudijimo įrašą ir pasirašo juos kvalifikuotu elektroniniu parašu. Kitus notaro išduodamus elektroninius dokumentus, kuriuose neturi būti rašomas tvirtinamasis ar liudijimo įrašas, notaras pasirašo kvalifikuotu elektroniniu parašu. Šioje dalyje nurodytais atvejais notaro antspaudas nededamas.
+
+Paveldėjimo teisės liudijimuose notaras papildomai nurodo paveldėjimo bylos numerį.
 
 Liudydamas užsienio kalba surašyto dokumento nuorašo tikrumą, notaras tvirtinamąjį įrašą parašo valstybine kalba.
 
-Jeigu tvirtinamasis įrašas ar notarinis liudijimas netelpa sudaromame notariniame dokumente, jis gali būti surašytas pridedamame prie dokumento popieriaus lape. Šiuo atveju lapai su dokumento tekstu ir lapas su tvirtinamuoju įrašu ar notariniu liudijimu susiuvami, sunumeruojami, susiūtų lapų skaičius patvirtinamas notaro parašu ir antspaudu.
+Jeigu tvirtinamasis įrašas ar notarinis liudijimas netelpa sudaromame popieriniame notariniame dokumente, jis gali būti surašytas pridedamame prie dokumento popieriaus lape. Šiuo atveju lapai su dokumento tekstu ir lapas su tvirtinamuoju įrašu ar notariniu liudijimu susiuvami, sunumeruojami, susiūtų lapų skaičius patvirtinamas notaro parašu ir antspaudu.
 
 Notaro byloje saugomų dokumentų, kuriais remiantis atlikti notariniai veiksmai, kopijų tikrumas liudijamas pagal Lietuvos vyriausiojo archyvaro nustatytas bendrąsias dokumentų rengimo taisykles.
 
@@ -949,11 +957,15 @@ Nr. IX-1311, 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
 Nr. XI-1916, 2011-12-23, Žin., 2012, Nr. 4-114 (2012-01-06)
 
+Straipsnio pakeitimai:
+
+Nr. XIV-204, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06548
+
 37 straipsnis. Notarinių veiksmų ir paslaugų registravimas
 
 Visi notariniai veiksmai ir paslaugos registruojami viename notariniame registre.
 
-Notariniame registre turi būti nurodomi šie registruojamo notarinio veiksmo ar paslaugos  duomenys:
+Notariniame registre turi būti nurodomi šie registruojamo notarinio veiksmo ar paslaugos  duomenys:
 
 1) notarinio veiksmo ar paslaugos registracijos numeris;
 
@@ -1150,6 +1162,12 @@ Notaras gali patvirtinti įgaliojimą vieno ar kelių asmenų vardu, išduodamą
 50 straipsnis. Dokumentų, kuriuose išdėstomas sandorių turinys, egzempliorių skaičius
 
 Notarui pateikiama ne mažiau kaip du egzemplioriai tvirtinamų sutarčių, testamentų, įgaliojimų ir kitų dokumentų, kuriuose išdėstytas sandorių turinys, ir vienas iš jų lieka notaro biuro bylose.
+
+Atliekant notarinius veiksmus nuotoliniu būdu, šio straipsnio 1 dalies nuostatos netaikomos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-204, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06548
 
 51 straipsnis. Notarų ryšys su valstybės registrais
 
@@ -1646,4 +1664,20 @@ Aukcionų organizavimo ir vykdymo tvarka nustatyta Notarų organizuojamų ir vyk
 Papildyta straipsniu:
 
 Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
+
+281 straipsnis. Notarų nuotoliniu būdu atliekami notariniai veiksmai
+
+Notarai nuotoliniu būdu gali atlikti notarinius veiksmus, išskyrus testamentų tvirtinimą ir šio įstatymo 26 straipsnio 1 dalies 7 ir 8 punktuose nurodytus notarinius veiksmus.
+
+Notarai nuotoliniu būdu atlieka notarinius veiksmus vadovaudamiesi tomis pačiomis notarų veiklą reglamentuojančiomis nuostatomis, kaip ir juos atlikdami šio įstatymo 28 straipsnio 2 dalyje nustatyta tvarka.
+
+Asmeniui paprašius atlikti notarinį veiksmą nuotoliniu būdu, dėl notarinio veiksmo atlikimo būdo sprendžia notaras. Siekdamas užtikrinti asmens teisėtų interesų apsaugą ar notarinių veiksmų atlikimą reglamentuojančių nuostatų įgyvendinimą, notaras gali neatlikti notarinio veiksmo nuotoliniu būdu, nors ir turi galimybę užtikrinti šio straipsnio 4 ir 5 dalyse nurodytas sąlygas. Šiuo atveju notaras informuoja asmenį, kad jo prašomas notarinis veiksmas gali būti atliktas šio įstatymo 28 straipsnio 2 dalyje nustatyta tvarka. Atsisakymas atlikti notarinį veiksmą nuotoliniu būdu neskundžiamas.
+
+Notarai gali nuotoliniu būdu atlikti notarinius veiksmus, jeigu užtikrina, kad bus laikomasi teisės aktų, reglamentuojančių asmens tapatybės nustatymą, reikalavimų nustatant asmens tapatybę, gali nuotoliniu būdu išaiškinti notarinių veiksmų prasmę ir pasekmes ir įsitikinti asmens valia, kuri patvirtinama kvalifikuotu elektroniniu parašu.
+
+Notarai imasi priemonių, kad būtų užtikrinta notaro tvarkomos elektroninės informacijos sauga ir kibernetinis saugumas, naudojamos tinkamos techninės ir organizacinės asmens duomenų tvarkymo priemonės, sudarytos techninės galimybės tinkamai perduoti duomenis valstybės registrams ir informacinėms sistemoms. Šios priemonės užtikrinamos naudojantis bendra Notarų rūmų informacinių technologijų platforma.
+
+Papildyta straipsniu:
+
+Nr. XIV-204, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06548
 
