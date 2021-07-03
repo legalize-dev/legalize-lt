@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2021-07-01"
+last_updated: "2021-07-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-07-02
+Suvestinė redakcija nuo 2021-07-03 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -740,11 +740,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 
-2. Seimas gali įstatymu patvirtinti Privalomojo sveikatos draudimo fondo biudžetui skiriamus papildomus valstybės biudžeto asignavimus, jeigu padidėja Privalomojo sveikatos draudimo fondo biudžeto išlaidos arba sumažėja šio fondo biudžeto pajamos ir dėl to Privalomojo sveikatos draudimo fondo biudžetas negali įvykdyti visų šio Įstatymo nustatytų įpareigojimų.
+2. Seimas gali įstatymu patvirtinti Privalomojo sveikatos draudimo fondo biudžetui skiriamus papildomus valstybės biudžeto asignavimus, jeigu:
+
+1) padidėja Privalomojo sveikatos draudimo fondo biudžeto išlaidos arba sumažėja šio fondo biudžeto pajamos ir dėl to Privalomojo sveikatos draudimo fondo biudžetas negali įvykdyti visų šio Įstatymo nustatytų įpareigojimų;
+
+2) einamaisiais metais panaudojama pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis ir ją numatoma atkurti iš papildomų valstybės biudžeto asignavimų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+
+Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
 
 3. Seimas įstatymu gali skirti valstybės biudžeto lėšų visoms ūkininkų privalomojo sveikatos draudimo įmokoms, numatytoms šio Įstatymo 17 straipsnio 5 dalyje, ar jų daliai sumokėti.
 
@@ -964,7 +970,11 @@ Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
 
 7) išlaidos Valstybinio socialinio draudimo fondo veiklos sąnaudoms, susidarančioms dėl privalomojo sveikatos draudimo įmokų surinkimo ir pervedimo į Privalomojo sveikatos draudimo fondą, kompensuoti;
 
-8) išlaidos Privalomojo sveikatos draudimo fondo biudžeto rezervui papildyti (sudaryti).
+8) Neteko galios nuo 2021-07-03
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
 
 Straipsnio dalies pakeitimai:
 
@@ -994,7 +1004,11 @@ Nr. XII-655, 2013-12-10, Žin., 2013, Nr. 132-6734 (2013-12-21)
 
 3) praėjusių biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto apyvartos lėšų dalis, metų pabaigoje viršijanti tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintas apyvartos lėšas.
 
-2. Privalomojo sveikatos draudimo fondo biudžeto rezervą sudaro pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis ir Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalis. Pagrindinę Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalį sudaro 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalį sudaro likusios Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos.
+2. Privalomojo sveikatos draudimo fondo biudžeto rezervą sudaro pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis ir Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalis. Pagrindinę Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalį sudaro 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Einamaisiais metais panaudota pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis gali būti atkuriama iš pagal šio Įstatymo 15 straipsnio 2 dalies 2 punktą skirtų papildomų valstybės biudžeto asignavimų ir gali sudaryti daugiau kaip 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalį sudaro likusios Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
 
 Straipsnio pakeitimai:
 
@@ -1016,7 +1030,13 @@ Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
 
 2) Privalomojo sveikatos draudimo fondo biudžeto pajamoms ir išlaidoms, paskirstytoms metų ketvirčiais, subalansuoti;
 
-3) šio Įstatymo II skyriuje nustatytoms privalomojo sveikatos draudimo paslaugų išlaidoms kompensuoti.
+3) šio Įstatymo II skyriuje nustatytoms privalomojo sveikatos draudimo paslaugų išlaidoms kompensuoti;
+
+4) Vyriausybės nutarimu šio straipsnio 2 dalyje nurodytiems pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalies naudojimo tikslams, kai pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis einamaisiais biudžetiniais metais jau panaudota ar jos neužtenka šio straipsnio 2 dalyje nurodytoms išlaidoms padengti.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
 
 4. Valstybinė ligonių kasa ir teritorinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšas laiko konkurso būdu pasirinktame banke arba investuoja šio straipsnio 5 dalyje nustatyta tvarka.
 
