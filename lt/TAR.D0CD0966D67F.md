@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2021-07-01"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-07-14
+Suvestinė redakcija nuo 2021-07-15 iki 2021-08-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -2001,7 +2001,7 @@ SAVIVALDYBĖS VYKDOMOJI INSTITUCIJA, VIEŠOJO ADMINISTRAVIMO ĮSTAIGOS, JŲ SUDA
 
 2. Savivaldybės administracijos direktorius vadovauja savivaldybės administracijai. Jis yra įstaigos vadovas. Savivaldybės administracijos direktoriaus skyrimo ir atleidimo tvarka nustatyta šiame ir Valstybės tarnybos įstatymuose.
 
-3. Savivaldybės administracijos direktorius į pareigas skiriamas mero teikimu savivaldybės tarybos sprendimu savivaldybės tarybos įgaliojimų laikui politinio (asmeninio) pasitikėjimo pagrindu. Savivaldybės administracijos direktoriaus kadencijų skaičius tam pačiam asmeniui neribojamas. Tol, kol savivaldybės administracijos direktorius ir direktoriaus pavaduotojas nepaskirti, savivaldybės administracijos direktoriaus pareigas gali eiti mero ar laikinai mero pareigas einančio tarybos nario siūlymu savivaldybės tarybos paskirtas savivaldybės administracijos valstybės tarnautojas. Savivaldybės administracijos direktoriaus pavaduotojas (pavaduotojai) į pareigas skiriamas (skiriami) savivaldybės administracijos direktoriaus siūlymu mero teikimu savivaldybės tarybos sprendimu politinio (asmeninio) pasitikėjimo pagrindu. Asmuo, skiriamas į savivaldybės administracijos direktoriaus, direktoriaus pavaduotojo pareigas, turi atitikti įstatymuose ir kituose teisės aktuose nustatytus reikalavimus, taikomus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija. Tarnybines nuobaudas savivaldybės administracijos direktoriui (direktoriaus pavaduotojui) už tarnybinius nusižengimus skiria savivaldybės taryba. Atleidimo iš pareigų praradus pasitikėjimą procedūra ar tarnybinio nusižengimo tyrimas pradedami mero iniciatyva. Meras šias procedūras gali inicijuoti, o gavęs ne mažiau kaip 1/2 visų savivaldybės tarybos narių raštu pateiktus nepasitikėjimo savivaldybės administracijos direktoriumi (direktoriaus pavaduotoju) motyvus ar oficialią informaciją apie savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) galimą tarnybinį nusižengimą privalo inicijuoti savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo iš pareigų praradus pasitikėjimą procedūrą ar tarnybinio nusižengimo tyrimą.
+3. Savivaldybės administracijos direktorius į pareigas skiriamas mero teikimu savivaldybės tarybos sprendimu savivaldybės tarybos įgaliojimų laikui politinio (asmeninio) pasitikėjimo pagrindu. Savivaldybės administracijos direktoriaus kadencijų skaičius tam pačiam asmeniui neribojamas. Tol, kol savivaldybės administracijos direktorius ir direktoriaus pavaduotojas nepaskirti, savivaldybės administracijos direktoriaus pareigas gali eiti mero ar laikinai mero pareigas einančio tarybos nario siūlymu savivaldybės tarybos paskirtas savivaldybės administracijos valstybės tarnautojas. Savivaldybės administracijos direktoriaus pavaduotojas (pavaduotojai) į pareigas skiriamas (skiriami) savivaldybės administracijos direktoriaus siūlymu mero teikimu savivaldybės tarybos sprendimu politinio (asmeninio) pasitikėjimo pagrindu. Asmuo, skiriamas į savivaldybės administracijos direktoriaus, direktoriaus pavaduotojo pareigas, turi atitikti įstatymuose ir kituose teisės aktuose nustatytus reikalavimus, taikomus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija. Tarnybines nuobaudas savivaldybės administracijos direktoriui (direktoriaus pavaduotojui) už tarnybinius nusižengimus skiria savivaldybės taryba. Meras gali inicijuoti administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo praradus pasitikėjimą procedūrą arba tarnybinio nusižengimo tyrimą. Meras privalo inicijuoti savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo iš pareigų praradus pasitikėjimą procedūrą ar tarnybinio nusižengimo tyrimą gavęs oficialią informaciją apie savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) galimą tarnybinį nusižengimą arba gavęs ne mažiau kaip 1/2 visų savivaldybės tarybos narių raštu pateiktus nepasitikėjimo savivaldybės administracijos direktoriumi (direktoriaus pavaduotoju) motyvus. Meras administracijos direktoriaus (direktoriaus pavaduotojo) tarnybinio nusižengimo tyrimą pradeda teisės aktų, reglamentuojančių valstybės tarnybos santykius, nustatytais terminais, o atleidimo praradus pasitikėjimą procedūrą inicijuoja artimiausiame savivaldybės tarybos posėdyje.
 
 Straipsnio dalies pakeitimai:
 
@@ -2010,6 +2010,8 @@ Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
 
 Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
+
+Nr. XIV-482, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15862
 
 4. Dėl savivaldybės administracijos direktoriaus pavaduotojo pareigybės (pavaduotojų pareigybių) steigimo ir savivaldybės administracijos direktoriaus pavadavimo sprendžia savivaldybės taryba. Didžiausias galimas savivaldybės administracijos direktoriaus pavaduotojų skaičius nustatomas atsižvelgiant į savivaldybės tarybos narių skaičių. Savivaldybėje, kurios taryboje Savivaldybių tarybų rinkimų įstatymo nustatyta tvarka yra 41 ir daugiau tarybos narių, gali būti steigiamos ne daugiau kaip trys savivaldybės administracijos direktoriaus pavaduotojo pareigybės, savivaldybėje, kurios taryboje Savivaldybių tarybų rinkimų įstatymo nustatyta tvarka yra 27–31 tarybos narys, gali būti steigiamos ne daugiau kaip dvi savivaldybės administracijos direktoriaus pavaduotojo pareigybės; kitose savivaldybėse gali būti steigiama ne daugiau kaip viena savivaldybės administracijos direktoriaus pavaduotojo pareigybė.
 
