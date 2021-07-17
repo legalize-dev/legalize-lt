@@ -4,7 +4,7 @@ identifier: "TAR.FA13E28615F6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-11"
-last_updated: "2021-07-01"
+last_updated: "2021-07-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,15 +17,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-07-16
+Suvestinė redakcija nuo 2021-07-17 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
 
-Nauja redakcija nuo 2017-04-01:
+Nauja redakcija nuo 2021-07-17:
 
-Nr. XII-2666, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25262
+Nr. XIV-491, 2021-06-30, paskelbta TAR 2021-07-12, i. k. 2021-15751
 
-LIETUVOS RESPUBLIKOS  TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR  SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ
+LIETUVOS RESPUBLIKOS
+
+TEISĖS GAUTI INFORMACIJĄ IR duomenų PAKARTOTINIO NAUDOJIMO
 
 ĮSTATYMAS
 
@@ -39,233 +41,195 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo tikslas ir paskirtis
 
-1. Šio įstatymo tikslas – nustatyti asmenų teisės gauti iš valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, jeigu šios asociacijos įsteigtos bendrojo intereso poreikiams, kurie nėra pramoninio ar komercinio pobūdžio, tenkinti (toliau – šių subjektų asociacijos), regionų plėtros tarybų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, informaciją, nurodytą šio įstatymo 5 straipsnyje, ir dokumentus, kuriais jos disponuoja ar (ir) kuriuos tvarko vykdydamos įstatymų ar kitų norminių teisės aktų nustatytas funkcijas (toliau – viešoji funkcija), įgyvendinimo priemones ir tvarką.
+1. Šio įstatymo tikslas – nustatyti asmenų teisės gauti iš valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ar šių subjektų asociacijų, regionų plėtros tarybų informaciją apie jų veiklą bei šių institucijų ir kitų juridinių asmenų, nurodytų šio įstatymo 2 straipsnio 1 dalies 2 punkte duomenis, kuriais jie disponuoja ir (ar) kuriuos jie tvarko vykdydami viešojo administravimo įgaliojimus, suteiktus Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka, kituose įstatymuose nustatytas funkcijas, įskaitant viešųjų paslaugų teikimo funkcijas (toliau – viešoji funkcija), ir kuriuos būtų galima pakartotinai naudoti komerciniams arba nekomerciniams tikslams, įgyvendinimo priemones ir tvarką.
 
 2. Šis įstatymas nustato:
 
-1) valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, pareigą teikti dokumentus, taip pat atvejus, kai draudžiama suteikti išimtines teises pakartotinai naudoti dokumentus;
+1) valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų ir kitų juridinių asmenų, nurodytų šio įstatymo 2 straipsnio 1 dalies 2 punkte, pareigą teikti duomenis, įskaitant pakartotiniam naudojimui skirtus duomenis, taip pat duomenų teikimo principus ir sąlygas, atvejus, kai draudžiama suteikti išimtines teises pakartotinai naudoti duomenis;
 
-2) dokumentų pakartotinio naudojimo sąlygas;
+2) duomenų pakartotinio naudojimo sąlygas;
 
-3) prašymų gauti dokumentus pateikimo ir nagrinėjimo tvarką, kitus valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, veiksmus teikiant dokumentus pareiškėjams;
+3) atlyginimo už duomenų teikimą nustatymo principus;
 
-4) atlyginimo už dokumentų teikimą nustatymo principus;
+4) informacijos apie valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų, nurodytų šio įstatymo 2 straipsnio 1 dalies 1 punkte, veiklą skelbimo tvarką;
 
-5) informacijos apie valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, veiklą skelbimo tvarką;
+5) valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų ir kitų juridinių asmenų, nurodytų šio įstatymo 2 straipsnio 1 dalies 2 punkte, pareigą sudaryti duomenų rinkinius ir jų skelbimo tvarką;
 
-6) šio įstatymo 19 straipsnio 1 dalyje numatytų dokumentų rinkinių sudarymo ir su dokumentų rinkiniais susijusių paslaugų teikimo tvarką.
+6) su duomenų rinkiniais susijusių paslaugų teikimo tvarką;
+
+7) didelės vertės duomenų rinkinių skelbimo sąlygas.
 
 3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
 
-4. Prašymų pateikimą ir nagrinėjimą reglamentuoja Lietuvos Respublikos viešojo administravimo įstatymas.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
-
-Straipsnio pakeitimai:
-
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
-
-Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
-
 2 straipsnis. Įstatymo taikymas
 
-1. Šis įstatymas taikomas valstybės ir savivaldybių institucijoms ir įstaigoms, įmonėms ir viešosioms įstaigoms, finansuojamoms iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka įgaliotoms atlikti viešąjį administravimą arba teikiančioms asmenims viešąsias ar administracines paslaugas ar atliekančioms kitas viešąsias funkcijas, įskaitant bibliotekas, muziejus ir valstybės archyvus, taip pat šių subjektų asociacijoms ir regionų plėtros taryboms (toliau – institucijos). Šio įstatymo 5 straipsnio 2 dalies 6 punktas taip pat taikomas įmonėms ir viešosioms įstaigoms, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei priklauso daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, joms skelbiant informaciją apie savo darbuotojų darbo užmokestį šio įstatymo nustatyta tvarka.
+1. Šis įstatymas taikomas:
 
-Straipsnio dalies pakeitimai:
+1) viešąsias funkcijas atliekančioms valstybės ir savivaldybių institucijoms ir įstaigoms, įmonėms ir viešosioms įstaigoms, kurių savininkė ar viena iš dalininkių yra valstybė ar savivaldybė ir kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų, įskaitant bibliotekas, muziejus ir valstybės archyvus, taip pat šių subjektų asociacijoms ir regionų plėtros taryboms (toliau – institucijos);
 
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+2) viešosioms įstaigoms, kurių savininkė arba bent viena iš dalininkių, turinti pusę ir daugiau balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, kurios nėra finansuojamos iš valstybės ir savivaldybių biudžetų bei valstybės pinigų fondų, tačiau atlieka viešąsias funkcijas, taip pat akcinėms bendrovėms ar uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei tiesiogiai arba netiesiogiai priklauso (suprantama taip, kaip nustatyta Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnyje) akcijos, suteikiančios daugiau kaip pusę balsų visuotiniame akcininkų susirinkime, ir valstybė ar savivaldybė tiesiogiai ar netiesiogiai gali daryti lemiamą įtaką (suprantama taip, kaip nustatyta Akcinių bendrovių įstatymo 5 straipsnyje) rinkdama ir atšaukdama akcinės bendrovės arba uždarosios akcinės bendrovės vadovą, taip pat daugiau kaip pusę valdybos arba stebėtojų tarybos narių, ir kurios teikia viešąsias paslaugas bent vienoje iš šių sričių: dujų ir šilumos ūkio, elektros energetikos, vandentvarkos, transporto paslaugų, uostų ir oro uostų, pašto paslaugų, naftos ir dujų gavybos, anglių ar kito kietojo kuro žvalgymo arba gavybos, viešojo keleivinio transporto pagal 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančio Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 su visais pakeitimais 2 straipsnį, oro susisiekimo paslaugų teikimo pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (nauja redakcija) su visais pakeitimais 16 straipsnį, visuomenės aptarnavimo paslaugų teikimo pagal 1992 m. gruodžio 7 d. Tarybos reglamento (EEB) Nr. 3577/92, taikančio laisvės teikti paslaugas principą jūrų transportui valstybėse narėse (jūrų kabotažas), su visais pakeitimais 4 straipsnį (toliau – valstybės valdomi subjektai);
 
-Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
+3) šio įstatymo 5 straipsnio 2 dalies 5 punktas taip pat taikomas viešosioms įstaigoms, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, tačiau kurios nėra finansuojamos iš valstybės ir savivaldybių biudžetų bei valstybės pinigų fondų ir neatlieka viešųjų funkcijų, kai jos skelbia informaciją apie savo darbuotojų darbo užmokestį šio įstatymo nustatyta tvarka.
 
 2. Šis įstatymas netaikomas:
 
-1) dokumentams, kurių tvarkymas nėra institucijai įstatymuose ar kituose norminiuose teisės aktuose nustatyta viešoji funkcija, išskyrus informaciją apie darbuotojų darbo užmokestį;
+1) duomenims, kurių tvarkymas nėra įstatymų ar kitų norminių teisės aktų nustatyta institucijos viešoji funkcija, išskyrus informaciją apie darbuotojų darbo užmokestį;
 
-2) dokumentams, į kuriuos trečiosios šalys turi pramoninės nuosavybės, autorių, gretutines ar duomenų bazių gamintojų (sui generis) teises (toliau – intelektinės nuosavybės teisės);
+2) duomenims, į kuriuos trečiosios šalys turi pramoninės nuosavybės, autorių, gretutines ar duomenų bazių gamintojų (sui generis) teises (toliau – intelektinės nuosavybės teisės);
 
-3) dokumentams, kuriuos teikti draudžia įstatymai ar jų pagrindu priimti kiti norminiai teisės aktai, įskaitant dokumentus, kurie nėra prieinami dėl nacionalinio ar visuomenės saugumo, šalies gynybos interesų, statistinių duomenų slaptumo, komercinio konfidencialumo arba kurie sudaro valstybės, tarnybos, banko, komercinę, profesinę paslaptį;
+3) duomenims, kuriuos teikti draudžia įstatymai ar jais vadovaujantis priimti kiti norminiai teisės aktai, įskaitant duomenis, kurie nėra prieinami dėl nacionalinio ar visuomenės saugumo, šalies gynybos interesų, statistinių duomenų konfidencialumo, komercinio konfidencialumo arba kurie sudaro valstybės, tarnybos, banko, komercinę, profesinę paslaptį;
 
-4) dokumentams, kuriuos teikti riboja įstatymai ar jų pagrindu priimti kiti norminiai teisės aktai, taip pat kai pareiškėjai turi pagrįsti dokumentų, kurių prašo, panaudojimo tikslą;
+4) duomenims, kurių teikimą riboja įstatymai ar jais vadovaujantis priimti kiti norminiai teisės aktai, taip pat kai pareiškėjai turi pagrįsti prašomų duomenų panaudojimo tikslą;
 
-5) dokumentams, kuriuos sudaro tik logotipai, ornamentai ir (arba) emblemos;
+5) duomenims, kuriuos sudaro tik logotipai, ornamentai ir (arba) emblemos;
 
-6) dokumentų, kurių teikimas nėra draudžiamas, daliai, kurią sudaro asmens duomenys, kurių pakartotinis naudojimas nėra suderinamas su norminiais teisės aktais, susijusiais su asmens duomenų tvarkymu;
+6) duomenims, prie kurių prieiga pagal nustatytą tvarką neleidžiama arba ribojama dėl asmens duomenų apsaugos, taip pat duomenų, kurių teikimas nėra draudžiamas, daliai, kurią sudaro asmens duomenys, kurių pakartotinis naudojimas pažeistų asmens teisę į privataus gyvenimo neliečiamumą pagal Europos Sąjungos ar nacionalinę teisę dėl asmens duomenų apsaugos;
 
-7) dokumentams, kuriais disponuoja Lietuvos nacionalinis radijas ir televizija, kiti iš valstybės ar savivaldybės biudžeto išlaikomi radijo ar televizijos programų transliuotojai;
+7) duomenims, kuriais disponuoja Lietuvos nacionalinis radijas ir televizija, kiti iš valstybės ar savivaldybės biudžeto išlaikomi radijo ar televizijos programų transliuotojai;
 
-8) dokumentams, kuriais disponuoja valstybės ir savivaldybių švietimo įstaigos, valstybinės aukštosios mokyklos (toliau – aukštoji mokykla), išskyrus aukštųjų mokyklų bibliotekas, ir valstybiniai mokslinių tyrimų institutai;
+8) duomenims, kuriais disponuoja valstybės ir savivaldybių švietimo įstaigos, valstybinės aukštosios mokyklos (toliau – aukštoji mokykla), išskyrus aukštųjų mokyklų bibliotekas, ir valstybiniai mokslinių tyrimų institutai. Ši nuostata netaikoma mokslinių tyrimų duomenims, jeigu šie tyrimai finansuojami valstybės lėšomis, o tyrėjai, mokslinius tyrimus atliekančios organizacijos arba mokslinius tyrimus finansuojančios organizacijos jau yra juos viešai paskelbę;
 
-9) dokumentams, kuriais disponuoja teatrai, koncertinės įstaigos, kitos įstaigos, kurios veikia pagal kultūros įstaigų veiklą reglamentuojančius įstatymus, išskyrus bibliotekas, muziejus.
+9) duomenims, kuriais disponuoja teatrai, koncertinės įstaigos, kitos įstaigos, veikiančios pagal kultūros įstaigų veiklą reglamentuojančius įstatymus, išskyrus bibliotekas ir muziejus;
 
-3. Jeigu dokumentų tvarkymą, teikimą ir skelbimą reglamentuoja kiti įstatymai, šis įstatymas taikomas tiek, kiek kiti įstatymai nenustato kitaip.
+10) duomenims, kuriais disponuoja valstybės valdomi subjektai, kai jie rengiami kitais tikslais negu viešųjų paslaugų teikimas arba kai šie duomenys susiję su konkurencijos tiesiogiai veikiama veikla, kuriai netaikomas Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas.
 
-4. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+3. Jeigu duomenų tvarkymą, teikimą ir skelbimą reglamentuoja kiti įstatymai ar tarptautiniai susitarimai, reglamentuojantys intelektinės nuosavybės teisių apsaugą, šis įstatymas taikomas tiek, kiek kiti įstatymai ar tarptautiniai susitarimai nenustato kitaip. Jeigu kituose įstatymuose, reglamentuojančiuose duomenų bazių gamintojų teises, būtų nustatytas leidimas drausti pakartotinai naudoti duomenis arba duomenų pakartotinis naudojimas būtų ribojamas labiau, negu tai nustatyta šiame įstatyme, kitų įstatymų nuostatos taikomos tiek, kiek jos neprieštarauja šiam įstatymui.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+4. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Lietuvos Respublikos elektroninių ryšių įstatymu ir kitais Lietuvos Respublikos įstatymais, reglamentuojančiais asmens duomenų tvarkymą.
 
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Dokumentas – institucijos veikloje užfiksuota informacija ar jos dalis, nepaisant jos pateikimo būdo, formos ir laikmenos, įskaitant registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas, valstybės informacinės sistemos duomenis.
+1. Atvirasis formatas – failo formatas, kuris nepriklauso nuo programinės įrangos ir yra atpažįstamas ir prieinamas visuomenei be jokių apribojimų, trukdančių pakartotinai naudoti duomenis.
 
-2. Dokumento pakartotinis naudojimas (toliau – pakartotinis naudojimas) – pareiškėjų ir (arba) jų atstovų naudojimasis dokumentais komerciniais arba nekomerciniais tikslais, kurie skiriasi nuo pirminio dokumento parengimo tikslo vykdant viešąją funkciją. Keitimasis dokumentais tarp institucijų teikiant viešąsias ar administracines paslaugas ar vykdant kitas viešąsias funkcijas nelaikomas dokumentų pakartotiniu naudojimu.
+2. Didelės vertės duomenų rinkiniai – duomenys, kurių pakartotinis naudojimas siejamas su reikšminga nauda visuomenei, aplinkai ir ekonomikai dėl jų tinkamumo naujoms paslaugoms, taikomosioms programoms, produktams ir naujoms darbo vietoms kurti ir kurie suteikia naudą dideliam vartotojų skaičiui.
 
-3. Dokumento skelbimas – dokumento viešas perdavimas, įskaitant jo padarymą viešai prieinamo, kad pareiškėjas ar jo atstovas galėtų jį pasiekti pasirinktoje vietoje ir pasirinktu laiku.
+3. Duomenys – užfiksuota informacija apie institucijos ar valstybės valdomo subjekto veiklą ar jos dalis, neatsižvelgiant į jos pateikimo būdą, formą (raštu arba elektronine forma ar kaip garso, vaizdo ar garso ir vaizdo įrašas) ir laikmeną, įskaitant registro duomenis, registro informaciją, registrui pateiktus duomenis ir (arba) jų kopijas, valstybės informacinės sistemos duomenis.
 
-4. Dokumento teikimas – dokumento atskleidimas perduodant ar kitu būdu padarant jį prieinamą pareiškėjui ar jo atstovui jų prašymu.
+4. Duomenų pakartotinis naudojimas – pareiškėjų ir (arba) jų atstovų naudojimasis duomenimis komerciniais arba nekomerciniais tikslais, kurie skiriasi nuo pirminio duomenų parengimo tikslo, atliekant viešąją funkciją. Keitimasis duomenimis tarp institucijų ar tarp institucijų ir valstybės valdomų subjektų atliekant viešąsias funkcijas nelaikomas duomenų pakartotiniu naudojimu.
 
-5. Informacija – žinios, kuriomis disponuoja institucija, vykdydama viešąsias funkcijas.
+5. Duomenų rinkinys – metodiškai susistemintų duomenų, turinčių vienodą konceptualią prasmę, visuma, įskaitant juos apibūdinančius duomenis (toliau – metaduomenys).
 
-6. Mobilioji programa – institucijų arba jų įgaliotų subjektų sukurta ir plėtojama taikomoji programa, skirta visuomenei naudotis mobiliaisiais prietaisais. Mobilioji programa neapima programinės įrangos, skirtos mobiliesiems įrenginiams valdyti (mobiliųjų įrenginių operacinės sistemos), ir (arba) aparatinės įrangos.
+6. Duomenų skelbimas – duomenų tam tikra forma atskleidimas iš anksto neapibrėžtai asmenų grupei, įskaitant prieigos prie jų sukūrimą tam, kad asmenys galėtų pasiekti duomenis pasirinktoje vietoje reikiamu laiku.
 
-Papildyta straipsnio dalimi:
+7. Duomenų teikimas – duomenų atskleidimas perduodant ar kitu būdu padarant juos prieinamus konkrečiam pareiškėjui ar jo atstovui jų prašymu.
 
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+8. Elektroninis formatas – failo formatas, kurio struktūra yra vientisa ir leidžia kompiuterinėms taikomosioms programoms lengvai nustatyti, atpažinti ir gauti konkrečius duomenis ir jų struktūrą.
 
-7. Pareiškėjas – Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių fizinis, juridinis asmuo, juridinio asmens statuso neturintis subjektas ir (arba) jo filialas ir atstovybė.
+9. Informacija – žinios, kuriomis disponuoja institucija, atlikdama viešąsias funkcijas.
 
-Straipsnio dalies numeracijos pakeitimas:
+10. Kintamieji duomenys – duomenys, kurie dažnai arba tikruoju laiku atnaujinami dėl jų kintamumo arba aktualumo. Iš jutiklių gaunami duomenys paprastai laikomi kintamaisiais duomenimis.
 
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+11. Mobilioji programa – institucijų arba jų įgaliotų subjektų sukurta ir plėtojama taikomoji programa, skirta visuomenei naudotis mobiliųjų prietaisų funkcijomis. Ši sąvoka neapima mobiliesiems įrenginiams (mobiliųjų įrenginių operacinėms sistemoms) valdyti skirtos programinės įrangos ir (arba) aparatinės įrangos sąvokos.
 
-8. Pareiškėjo atstovas – asmuo, turintis teisę atstovauti pareiškėjui.
+12. Mokslinių tyrimų duomenys – duomenys, išskyrus mokslines publikacijas, kurie renkami ar rengiami vykdant mokslinių tyrimų veiklą ir naudojami kaip įrodymai atliekant mokslinius tyrimus arba mokslinės bendruomenės visuotinai pripažinti būtinais mokslinių tyrimų išvadoms ir rezultatams patvirtinti.
 
-Straipsnio dalies numeracijos pakeitimas:
+13. Nuasmeninimas – procesas, kai fizinio asmens duomenys pakeičiami anoniminiais duomenimis, kurie nėra susiję su fiziniu asmeniu, kurio tapatybė yra žinoma arba gali būti nustatyta, arba procesas, kai asmens duomenų anonimiškumas užtikrinamas taip, kad duomenų subjekto tapatybė nebegali būti nustatyta.
 
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+14. Pagrįstoji investicijų grąža – viso atlyginimo už išlaidas, į kurį įtraukta ir suma, reikalinga reikalavimus atitinkančioms sąnaudoms kompensuoti, procentinė dalis, negalinti daugiau kaip penkiais procentiniais punktais viršyti Europos Centrinio Banko nustatytos fiksuotosios palūkanų normos.
 
-9. Skaitmeninių dokumentų rinkinys (toliau – dokumentų rinkinys) – informacinių technologijų priemonėmis sudarytų ir metodiškai susistemintų dokumentų visuma, įskaitant juos apibūdinančius duomenis (toliau – metaduomenys).
+15. Pareiškėjas – Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių fizinis arba juridinis asmuo, juridinio asmens statuso neturintis subjektas ir (arba) jo filialas ir atstovybė.
 
-Straipsnio dalies numeracijos pakeitimas:
+16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) 2016/679, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Viešojo administravimo įstatyme.
 
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+4 straipsnis. Institucijos ir valstybės valdomo subjekto pareiga teikti duomenis, įskaitant pakartotiniam naudojimui skirtus duomenis
 
-10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) 2016/679, Viešojo administravimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme.
+1. Institucijos ir valstybės valdomi subjektai privalo teikti pareiškėjams ar jų atstovams duomenis, įskaitant pakartotiniam naudojimui skirtus duomenis, išskyrus šio įstatymo ir kitų įstatymų nustatytus atvejus.
 
-Straipsnio dalies pakeitimai:
+2. Duomenys kitų valstybių, išskyrus Europos Sąjungos valstybes nares ir Europos ekonominės erdvės valstybes, fiziniams, juridiniams asmenims, juridinio asmens statuso neturintiems subjektams, jų filialams ir atstovybėms teikiami tokia pačia tvarka kaip ir pareiškėjams, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams, tarptautinėms sutartims, Europos Sąjungos teisės aktams ir kitiems norminiams teisės aktams.
 
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+5 straipsnis. Institucijos pareiga skelbti informaciją apie institucijos veiklą
 
-4 straipsnis. Institucijos pareiga teikti dokumentus pareiškėjams
+1. Informacija apie institucijos veiklą yra vieša ir Lietuvos Respublikos Vyriausybės nustatyta tvarka skelbiama institucijos interneto svetainėje, taip pat mobiliojoje programoje, jeigu institucija ją turi. Institucijos interneto svetainė ir mobilioji programa turi atitikti Vyriausybės nustatytus prieinamumo reikalavimus, išskyrus Vyriausybės nustatytus atvejus, kai nėra automatizuotų arba efektyvių ir lengvai įgyvendinamų būdų užtikrinti prieinamumą prie tam tikros informacijos arba kai institucija faktiškai nekontroliuoja interneto svetainių ir mobiliųjų programų turinio, arba jeigu prieinamumo reikalavimų laikymasis sudarys institucijai neproporcingai didelę naštą.
 
-1. Institucijos privalo teikti pareiškėjams ar jų atstovams (toliau – pareiškėjas) dokumentus, išskyrus šio įstatymo ir kitų įstatymų nustatytus atvejus.
-
-2. Dokumentai kitų valstybių, išskyrus Europos Sąjungos valstybes nares ir Europos ekonominės erdvės valstybes, fiziniams, juridiniams asmenims, juridinio asmens statuso neturintiems subjektams, jų filialams ir atstovybėms teikiami tokia pačia tvarka kaip pareiškėjams, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams, tarptautinėms sutartims, Europos Sąjungos teisės aktams ir kitiems norminiams teisės aktams.
-
-5 straipsnis. Informacija apie institucijos veiklą
-
-1. Informacija apie institucijos veiklą yra vieša ir Lietuvos Respublikos Vyriausybės nustatyta tvarka skelbiama institucijos interneto svetainėje, taip pat mobiliojoje programoje, jeigu institucija ją turi. Institucijos interneto svetainė ir mobilioji programa turi atitikti Vyriausybės nustatytus prieinamumo reikalavimus, išskyrus Vyriausybės nustatytus atvejus, kai nėra automatizuotų arba efektyvių ir lengvai įgyvendinamų būdų užtikrinti prieinamumą prie tam tikros informacijos arba kai institucija faktiškai nekontroliuoja interneto svetainių ir mobiliųjų programų turinio ar prieinamumo reikalavimų laikymasis sudarys institucijai neproporcingą naštą.
-
-TAR pastaba. 1 dalies nuostatos institucijų interneto svetainėms, kurios nebuvo paskelbtos iki 2018 m. rugsėjo 23 d., taikomos nuo 2019 m. rugsėjo 23 d., nenurodytoms institucijų interneto svetainėms taikomos nuo 2020 m. rugsėjo 23 d., institucijų mobiliosioms programoms taikomos nuo 2021 m. birželio 23 d.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
-
-2. Institucijos interneto svetainėje, laikantis asmens duomenų apsaugos, valstybės, tarnybos, komercinės, profesinės paslapčių ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, turi būti skelbiama:
+2. Institucijos interneto svetainėje, laikantis asmens duomenų apsaugos, valstybės, tarnybos, komercinės, profesinės paslapčių ir saugomų paslapčių apsaugos reikalavimų, turi būti skelbiama:
 
 1) nuasmenintos Lietuvos Respublikos Seimo kontrolierių pažymos dėl atlikto tyrimo dėl skundo ir informacija apie Seimo kontrolierių siūlymų (rekomendacijų) nagrinėjimo institucijoje rezultatus;
 
-2) Neteko galios nuo 2021-07-01
+2) įsiteisėję nuasmeninti teismų sprendimai, kuriuose konstatuojami pažeidimai institucijoje, taip pat informacija apie priemones, kurių buvo imtasi dėl šių teisės aktų pažeidimų pašalinimo;
 
-Straipsnio punkto naikinimas:
+3) nuasmeninta informacija apie institucijoje nustatytus tarnybinius nusižengimus ir už juos paskirtas galiojančias tarnybines nuobaudas; jeigu sprendimas dėl tarnybinės nuobaudos skyrimo buvo apskųstas įstatymų nustatyta tvarka, informacija apie jį skelbiama tik įsiteisėjus teismo ar kitos tarnybinį ginčą nagrinėjusios institucijos sprendimui;
 
-Nr. XIV-145, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00267
+4) nuasmeninta informacija apie institucijos valstybės tarnautojų gautus paskatinimus ir apdovanojimus;
 
-3) įsiteisėję nuasmeninti teismų sprendimai, kuriuose konstatuojami pažeidimai institucijoje, taip pat informacija apie priemones, kurių buvo imtasi dėl šių teisės aktų pažeidimų pašalinimo;
+5) institucijos valstybės tarnautojų, valstybės politikų, teisėjų, valstybės pareigūnų ir darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), vidutinis nustatytasis (paskirtasis) darbo užmokestis pagal einamas pareigas (darbuotojo, kuris vienintelis įstaigoje eina atitinkamas pareigas, vidutinis nustatytasis (paskirtasis) darbo užmokestis skelbiamas tik gavus jo sutikimą);
 
-4) nuasmeninta informacija apie institucijoje nustatytus tarnybinius nusižengimus ir už juos paskirtas galiojančias tarnybines nuobaudas; jeigu sprendimas dėl tarnybinės nuobaudos skyrimo buvo apskųstas įstatymų nustatyta tvarka, informacija apie jį skelbiama tik įsiteisėjus teismo ar kitos tarnybinį ginčą nagrinėjusios institucijos sprendimui;
-
-5) nuasmeninta informacija apie institucijos valstybės tarnautojų gautus paskatinimus ir apdovanojimus;
-
-6) institucijos valstybės tarnautojų, valstybės politikų, teisėjų, valstybės pareigūnų ir darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), vidutinis nustatytasis (paskirtasis) darbo užmokestis pagal einamas pareigas (darbuotojo, kuris vienintelis įstaigoje eina atitinkamas pareigas, vidutinis nustatytasis (paskirtasis) darbo užmokestis skelbiamas tik gavus jo sutikimą);
-
-7) kita Vyriausybės nustatyta informacija.
+6) kita Vyriausybės nustatyta informacija, įskaitant institucijų darbuotojų kontaktinius duomenis, jeigu jie skelbiami asmens duomenų teisėto tvarkymo tikslais.
 
 3. Visa informacija apie institucijos veiklą pareiškėjams teikiama neatlygintinai.
 
-6 straipsnis. Dokumentų teikimo principai
+4. Šio straipsnio 2 dalies 5 punktas taip pat taikomas viešosioms įstaigoms, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, tačiau kurios nėra finansuojamos iš valstybės ir savivaldybių biudžetų bei valstybės pinigų fondų ir neatlieka viešųjų funkcijų, taip pat akcinėms bendrovėms ar uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei tiesiogiai arba netiesiogiai priklauso (suprantama taip, kaip nustatyta Akcinių bendrovių įstatymo 5 straipsnyje) akcijos, suteikiančios daugiau kaip pusę balsų visuotiniame akcininkų susirinkime, ir valstybė ar savivaldybė tiesiogiai ar netiesiogiai gali daryti lemiamą įtaką (suprantama taip, kaip nustatyta Akcinių bendrovių įstatymo 5 straipsnyje) rinkdama ir atšaukdama akcinės bendrovės arba uždarosios akcinės bendrovės vadovą, taip pat daugiau kaip pusę valdybos arba stebėtojų tarybos narių.
 
-1. Institucija, teikdama dokumentus, vadovaujasi šiais principais:
+6 straipsnis. Duomenų, įskaitant pakartotiniam naudojimui skirtus duomenis, teikimo principai
 
-1) dokumentų išsamumo – pareiškėjui turi būti pateikti visi pagal teisės aktus teiktini jo prašymo turinį atitinkantys dokumentai;
+1. Institucija ir valstybės valdomas subjektas, teikdami duomenis, įskaitant pakartotiniam naudojimui skirtus duomenis, vadovaujasi šiais principais:
 
-2) dokumentų tikslumo – pareiškėjui teikiami dokumentai turi atitikti institucijos disponuojamus dokumentus;
+1) duomenų išsamumo – pareiškėjui turi būti pateikti visi pagal teisės aktus teiktini jo prašymo turinį atitinkantys duomenys;
 
-3) teisėtumo – institucijos veiksmai teikiant dokumentus grindžiami šiuo ir kitais įstatymais ar kitais norminiais teisės aktais;
+2) duomenų tikslumo – pareiškėjui teikiami duomenys turi atitikti institucijos ar valstybės valdomo subjekto disponuojamus duomenis;
 
-4) objektyvumo – institucijos darbuotojai, teikdami dokumentus, turi būti nešališki ir objektyvūs;
+3) teisėtumo – institucijos ir valstybės valdomo subjekto veiksmai teikiant duomenis grindžiami šiuo ir kitais įstatymais ar kitais norminiais teisės aktais;
 
-5) pagalbos – pareiškėjams teikiama pagalba įgyvendinant teisę gauti dokumentus;
+4) objektyvumo – institucijos ir valstybės valdomo subjekto darbuotojai, teikdami duomenis, turi būti nešališki ir objektyvūs;
 
-6) dokumentų prieinamumo – sudaromos palankios sąlygos pareiškėjams naudoti dokumentus neatsižvelgiant į jų veiklos tikslus ir teisinę formą, o prireikus nustatomos tik būtiniausios teisinės, techninės ir (arba) finansinės dokumentų teikimo pareiškėjams sąlygos;
+5) pagalbos – pareiškėjams teikiama pagalba įgyvendinant teisę gauti duomenis;
 
-7) abipusio naudojimo – institucija pareiškėjui pateiktus dokumentus prireikus toliau pati juos naudoja;
+6) duomenų prieinamumo – sudaromos palankios sąlygos pareiškėjams naudoti duomenis neatsižvelgiant į jų veiklos tikslus ir teisinę formą, o prireikus nustatomos tik būtiniausios teisinės, techninės ir (arba) finansinės duomenų teikimo pareiškėjams sąlygos;
 
-8) nediskriminavimo – pakartotinio naudojimo sąlygos turi būti tokios, kad būtų nediskriminuojami pareiškėjai, naudojantys dokumentus tam pačiam (komerciniam arba nekomerciniam) tikslui.
+7) abipusio naudojimo – institucija ir valstybės valdomas subjektas pareiškėjui pateiktus duomenis prireikus vėliau naudoja patys;
 
-2. Jeigu institucija pakartotinai dokumentus naudoja veiklai, kuri nesusijusi su viešųjų funkcijų vykdymu, jai šie dokumentai teikiami tokiomis pačiomis sąlygomis kaip ir visiems pareiškėjams.
+8) nediskriminavimo – duomenų pakartotinio naudojimo sąlygos turi būti tokios, kad būtų nediskriminuojami pareiškėjai, naudojantys duomenis tam pačiam (komerciniam arba nekomerciniam) tikslui.
 
-Straipsnio pakeitimai:
+2. Jeigu institucija duomenis pakartotinai naudoja su viešųjų funkcijų atlikimu nesusijusiai veiklai, jai šie duomenys teikiami tokiomis pačiomis sąlygomis kaip ir visiems pareiškėjams.
 
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+7 straipsnis. Valstybės institucijų kompetencija duomenų pakartotinio naudojimo ir institucijų interneto svetainių ir mobiliųjų programų pritaikymo prieinamumo reikalavimams srityse
 
-7 straipsnis. Valstybės institucijų kompetencija pakartotinio naudojimo ir institucijų interneto svetainių ir mobiliųjų programų pritaikymo prieinamumo reikalavimams srityse
+1. Vyriausybė nustato duomenų pakartotinio naudojimo plėtros kryptis, siektinus rezultatus ir jų pasiekimo būdus.
 
-1. Vyriausybė nustato pakartotinio naudojimo plėtros kryptis, siektinus rezultatus ir jų pasiekimo būdus.
+2. Lietuvos Respublikos ekonomikos ir inovacijų ministerija formuoja valstybės politiką duomenų pakartotinio naudojimo srityje, taip pat organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą ir pagal kompetenciją:
 
-2. Lietuvos Respublikos ūkio ministerija formuoja valstybės politiką pakartotinio naudojimo srityje ir pagal kompetenciją:
+1) teikia Vyriausybei pasiūlymus dėl duomenų pakartotinio naudojimo plėtros krypčių, siektinų rezultatų ir jų pasiekimo būdų;
 
-1) teikia Vyriausybei pasiūlymus dėl pakartotinio naudojimo plėtros krypčių, siektinų rezultatų ir jų pasiekimo būdų;
+2) rengia ir tvirtina teisės aktus, susijusius su duomenų pakartotinio naudojimo politikos įgyvendinimu;
 
-2) koordinuoja ir derina institucijų veiksmus, joms pagal kompetenciją įgyvendinant valstybės politiką pakartotinio naudojimo srityje;
+3) koordinuoja ir derina institucijų veiksmus, joms pagal kompetenciją įgyvendinant valstybės politiką duomenų pakartotinio naudojimo srityje;
 
-3) teikia išvadas dėl įstatymų ir kitų teisės aktų, susijusių su pakartotiniu naudojimu, projektų;
+4) teikia išvadas dėl įstatymų ir kitų teisės aktų, susijusių su duomenų pakartotiniu naudojimu, projektų;
 
-4) kas 3 metai, įsigaliojus šio įstatymo priedo 1 punkte nurodytai direktyvai, rengia dokumentų, skirtų pakartotinai naudoti, prieinamumo, sąlygų, kuriomis šie dokumentai prieinami, ir pareiškėjų teisės gynimo priemonių ataskaitą ir pateikia ją Europos Komisijai; ši ataskaita skelbiama viešai, pagal šią viešai skelbiamą ataskaitą atliekama šio įstatymo 10 straipsnio nuostatų įgyvendinimo stebėsena;
+5) atlieka kitas įstatymų nustatytas funkcijas, susijusias su duomenų pakartotinio naudojimo sritimi.
 
-5) atlieka kitas pavestas funkcijas, susijusias su pakartotiniu naudojimu.
+3. Lietuvos Respublikos ekonomikos ir inovacijų ministro įgaliota institucija:
 
-3. Lietuvos Respublikos ūkio ministro įgaliota institucija atlieka pakartotinio naudojimo stebėseną ir:
+1) rengia ir tvirtina techninius dokumentus, padedančius institucijoms ir viešojo valdymo subjektams įgyvendinti duomenų pakartotinio naudojimo politiką;
 
-1) teikia institucijoms metodinę pagalbą dėl dokumentų rinkinių ir metaduomenų sudarymo;
+2) teikia institucijoms ir valstybės valdomiems subjektams metodinę pagalbą dėl duomenų rinkinių ir metaduomenų sudarymo;
 
-2) teikia dokumentų rinkinių metaduomenis į Europos atvirų duomenų portalą, užtikrina jų integralumą ir sklaidą Europos Sąjungos mastu;
+3) teikia duomenų rinkinių metaduomenis į Europos duomenų portalą;
 
-3) atlieka dokumentų rinkinių sudarymo stebėseną, apibendrintą informaciją teikia Ūkio ministerijai;
+4) atlieka duomenų rinkinių stebėseną, apibendrintą informaciją teikia Ekonomikos ir inovacijų ministerijai;
 
-4) konsultuoja institucijas ir pareiškėjus dokumentų rinkinių rengimo, gavimo, pakartotinio naudojimo sąlygų klausimais;
+5) konsultuoja institucijas, valstybės valdomus subjektus ir pareiškėjus duomenų rinkinių rengimo, teikimo, skelbimo, gavimo, duomenų pakartotinio naudojimo sąlygų klausimais;
 
-5) atlieka kitas jai pavestas funkcijas.
+6) atlieka kitas jai pavestas funkcijas.
 
 4. Vyriausybės įgaliota institucija yra atsakinga už:
 
-1) valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų interneto svetainių ir mobiliųjų programų pritaikymo Vyriausybės nustatytiems prieinamumo reikalavimams stebėseną; šią stebėseną Vyriausybės įgaliota institucija atlieka remdamasi Europos Komisijos nustatyta stebėsenos metodika;
+1) institucijų interneto svetainių ir mobiliųjų programų pritaikymo Vyriausybės nustatytiems prieinamumo reikalavimams stebėseną; šią stebėseną Vyriausybės įgaliota institucija atlieka remdamasi Europos Komisijos nustatyta stebėsenos metodika;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
-
-2) skundų dėl institucijų interneto svetainių ir mobiliųjų programų nepritaikymo ar netinkamo pritaikymo prieinamumo reikalavimams nagrinėjimą Vyriausybės nustatyta tvarka ir dėl institucijos netinkamai atlikto vertinimo, ar prieinamumo reikalavimų laikymasis sudarys institucijai neproporcingą naštą, nagrinėjimą Vyriausybės nustatyta tvarka;
+2) skundų dėl institucijų interneto svetainių ir mobiliųjų programų nepritaikymo ar netinkamo pritaikymo prieinamumo reikalavimams nagrinėjimą ir dėl institucijos netinkamai atlikto vertinimo, ar prieinamumo reikalavimų laikymasis sudarys institucijai neproporcingai didelę naštą, nagrinėjimą Viešojo administravimo įstatymo nustatyta tvarka;
 
 3) institucijų interneto svetainių ir mobiliųjų programų pritaikymo Vyriausybės nustatytiems prieinamumo reikalavimams stebėsenos rezultatų, įskaitant institucijų interneto svetainių ir mobiliųjų programų atitikties prieinamumo reikalavimams vertinimo duomenis, ataskaitų parengimą ir pateikimą Europos Komisijai.
 
-5. Institucijos pagal kompetenciją įgyvendina valstybės politiką pakartotinio naudojimo ir institucijų interneto svetainių ir mobiliųjų programų pritaikymo prieinamumo reikalavimams srityse.
+5. Institucijos ir valstybės valdomi subjektai pagal kompetenciją įgyvendina valstybės politiką duomenų pakartotinio naudojimo srityje.
 
-Straipsnio pakeitimai:
-
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+6. Institucijos įgyvendina Vyriausybės nustatytas priemones institucijų interneto svetainių ir mobiliųjų programų pritaikymo prieinamumo reikalavimams srityje.
 
 II SKYRIUS
 
-DOKUMENTŲ TEIKIMO SĄLYGOS
+DUOMENŲ PAKARTOTINIO NAUDOJIMO SĄLYGOS
 
-8 straipsnis. Leidimas pakartotinai naudoti dokumentus
+8 straipsnis. Duomenų pakartotinio naudojimo sąlygos
 
-1. Pareiškėjas, be atskiro institucijos sutikimo ir nesudaręs sutarties, gali gautus dokumentus:
+1. Be atskiro institucijos ar valstybės valdomo subjekto sutikimo ir nesudaręs sutarties pareiškėjas gautus duomenis gali:
 
 1) viešai skelbti bet kokiu būdu, taip pat padaryti juos viešai prieinamus internete;
 
@@ -277,185 +241,309 @@ DOKUMENTŲ TEIKIMO SĄLYGOS
 
 5) platinti ir kitaip teikti (perduoti) tretiesiems asmenims.
 
-2. Gauti iš institucijos dokumentai negali būti iškraipomi ir (arba) naudojami siekiant tiesiogiai reklamuoti produktus ar paslaugas arba siekiant sudaryti prielaidą, kad produktas ar paslauga yra institucijos remiami ar kitaip skatinami, taip pat naudojami neteisėtais, apgaulingais, nesąžiningais tikslais, arba remiant tokius tikslus ir naudojami taip, kad klaidintų trečiuosius asmenis.
+2. Iš institucijos ar valstybės valdomo subjekto gauti duomenys negali būti iškraipomi ir (arba) naudojami siekiant tiesiogiai reklamuoti produktus ar paslaugas arba siekiant sudaryti prielaidą, kad produktas ar paslauga yra institucijos ar valstybės valdomo subjekto remiami ar kitaip skatinami, taip pat naudojami neteisėtais, apgaulingais, nesąžiningais tikslais arba remiant tokius tikslus ir naudojami taip, kad klaidintų trečiuosius asmenis.
 
-3. Pareiškėjas, pakartotinai naudodamas iš institucijos gautus dokumentus, privalo nurodyti gautų dokumentų šaltinį ir datą, kada jie buvo gauti, taip pat užtikrinti, kad nebus pažeistos kitų asmenų teisės ir teisėti interesai. Už adaptuotų, apdorotų ar kitaip perdirbtų dokumentų teisingumą atsako pareiškėjas. Atsakomybė už tokių dokumentų sukeltas teisines pasekmes tenka pareiškėjui.
+3. Pareiškėjas, pakartotinai naudodamas iš institucijos ar valstybės valdomo subjekto gautus duomenis, privalo nurodyti gautų duomenų šaltinį ir datą, kada jie buvo gauti, taip pat užtikrinti, kad nebus pažeistos kitų asmenų teisės ir teisėti interesai. Už adaptuotų, apdorotų ar kitaip perdirbtų duomenų teisingumą atsako pareiškėjas. Atsakomybė už tokių duomenų sukeltas teisines pasekmes tenka pareiškėjui.
 
-4. Kitos pakartotinio naudojimo sąlygos, negu nurodytos šio straipsnio 1, 2 ir 3 dalyse, gali būti nustatytos tik Lietuvos Respublikos įstatymuose arba Europos Sąjungos teisės aktuose.
+4. Kitos duomenų pakartotinio naudojimo sąlygos, negu nurodytos šio straipsnio 1, 2 ir 3 dalyse, gali būti nustatytos tik Lietuvos Respublikos įstatymuose arba Europos Sąjungos teisės aktuose.
 
-5. Pareiškėjui pakartotinai naudoti dokumentus leidžiama be institucijos leidimo laikantis šio straipsnio 1, 2 ir 3 dalyse, kituose Lietuvos Respublikos įstatymuose ir Europos Sąjungos teisės aktuose nurodytų sąlygų. Dokumentai, kuriuos leidžiama pareiškėjui pakartotinai naudoti be institucijos leidimo, ir atitinkama nuoroda į šį įstatymą, kitus Lietuvos Respublikos įstatymus ir Europos Sąjungos teisės aktus, nustatančius pakartotinio naudojimo sąlygas, skelbiama institucijos interneto svetainėje.
+5. Jeigu, vadovaujantis Lietuvos Respublikos įstatymais arba Europos Sąjungos teisės aktais, institucijai ar valstybės valdomam subjektui pavesta nustatyti kitas duomenų pakartotinio naudojimo sąlygas, negu nurodytos šio straipsnio 1, 2 ir 3 dalyse, šios sąlygos negali nepagrįstai riboti duomenų pakartotinio naudojimo galimybių ir konkurencijos, taip pat neturi diskriminuoti pareiškėjų, naudojančių duomenis tam pačiam tikslui.
 
-6. Jeigu Lietuvos Respublikos įstatymų arba Europos Sąjungos teisės aktų pagrindu institucijai pavesta nustatyti kitas pakartotinio naudojimo sąlygas, negu nurodytos šio straipsnio 5 dalyje, šios sąlygos neturi nepagrįstai riboti pakartotinio naudojimo galimybių ir konkurencijos, taip pat neturi diskriminuoti pareiškėjų, naudojančių dokumentus tam pačiam tikslui.
+6. Šio straipsnio 5 dalyje nurodytu atveju institucija ar valstybės valdomas subjektas parengia specialiąsias duomenų pakartotinio naudojimo sąlygas ir jas įtraukia į sutartį, kurią duomenis teikianti institucija ar valstybės valdomas subjektas privalo sudaryti su bet kuriuo pareiškėju, kai šis kreipiasi, išskyrus įstatymų ar jais vadovaujantis priimtų kitų norminių teisės aktų nustatytas išimtis. Sudarydama šią sutartį, institucija ar valstybės valdomas subjektas neturi teisės suteikti pareiškėjui privilegijų dėl jo rasės, tautybės, lyties, socialinio statuso ir kitų ypatybių, išskyrus šio įstatymo nustatytus atvejus. Sutartimi pareiškėjui suteikiamas specialusis leidimas pakartotinai naudoti duomenis. Specialiosios duomenų pakartotinio naudojimo sąlygos skelbiamos institucijos ar valstybės valdomo subjekto interneto svetainėje.
 
-7. Šio straipsnio 6 dalyje nurodytu atveju institucija parengia specialiąsias pakartotinio naudojimo sąlygas ir jas įtraukia į sutartį, kurią dokumentus teikianti institucija privalo sudaryti su bet kuriuo pareiškėju, kai šis kreipiasi, išskyrus įstatymų ar jų pagrindu priimtų kitų norminių teisės aktų nustatytas išimtis. Sudarydama šią sutartį, institucija neturi teisės suteikti pareiškėjui privilegijų dėl jo rasės, tautybės, lyties, socialinio statuso ir kitų ypatybių, išskyrus šio įstatymo nustatytus atvejus. Sutartimi pareiškėjui suteikiamas specialusis leidimas pakartotinai naudoti dokumentus. Specialiosios pakartotinio naudojimo sąlygos skelbiamos institucijos interneto svetainėje.
-
-8. Institucija sudaro galimybę pareiškėjui šio straipsnio 7 dalyje numatytą sutartį sudaryti raštu arba elektroninėmis priemonėmis. Teikiant dokumentų rinkinį elektroniniu būdu, rekomenduojama sutartis sudaroma tik elektroninėmis priemonėmis. Dokumentai, kuriems taikomos specialiosios pakartotinio naudojimo sąlygos, skelbiami institucijos interneto svetainėje.
+7. Institucija ar valstybės valdomas subjektas sudaro galimybę pareiškėjui šio straipsnio 6 dalyje nurodytą sutartį sudaryti raštu arba elektroninėmis priemonėmis. Teikiant duomenų rinkinį elektroniniu būdu, ši sutartis sudaroma tik elektroninėmis priemonėmis. Duomenys, kuriems taikomos specialiosios duomenų pakartotinio naudojimo sąlygos, skelbiami institucijos ar valstybės valdomo subjekto interneto svetainėje.
 
 9 straipsnis. Draudimas suteikti išimtines teises
 
-1. Institucijai draudžiama sudaryti su pareiškėjais susitarimus dėl išimtinių teisių suteikimo pakartotinai naudoti dokumentus, išskyrus šio įstatymo nustatytas išimtis.
+1. Institucijai ir valstybės valdomam subjektui draudžiama su pareiškėjais sudaryti susitarimus dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo, išskyrus šiame straipsnyje nustatytas išimtis.
 
-2. Iš institucijos gautų dokumentų pakartotinis naudojimas, susitarimai su institucija dėl dokumentų teikimo nesuteikia pareiškėjui išimtinių teisių pakartotinai naudoti dokumentus.
+2. Iš institucijos ar valstybės valdomo subjekto gautų duomenų pakartotinis naudojimas, susitarimai su institucija ar valstybės valdomu subjektu dėl duomenų teikimo nesuteikia pareiškėjui išimtinių teisių pakartotinai naudoti duomenis.
 
-3. Išimtinė teisė pakartotinai naudoti dokumentus pareiškėjui suteikiama tik tuo atveju, jeigu yra būtina pareiškėjui viešosioms paslaugoms teikti, išskyrus šio straipsnio 4 dalyje nurodytą atvejį. Susitarimas dėl išimtinės teisės suteikimo turi būti periodiškai peržiūrimas ne rečiau kaip kas 3 metai.
+3. Išimtinės teisės pakartotinai naudoti duomenis pareiškėjui suteikiamos tik tuo atveju, jeigu jos yra būtinos pareiškėjui viešosioms paslaugoms teikti, išskyrus šio straipsnio 4 dalyje nurodytą atvejį. Susitarimas dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo turi būti periodiškai peržiūrimas ne rečiau kaip kas 3 metai.
 
-4. Jeigu išimtinė teisė pakartotinai naudoti dokumentus yra būtina Lietuvos kultūros paveldui skaitmeninti, susitarimas dėl išimtinės teisės suteikimo sudaromas ne ilgiau kaip 10 metų.
+4. Jeigu išimtinės teisės pakartotinai naudoti duomenis yra būtinos duomenims apie Lietuvos kultūros paveldą skaitmeninti, susitarimas dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo sudaromas ne ilgiau kaip 10 metų.
 
-5. Šio straipsnio 3 ir 4 dalyse nurodyti susitarimai dėl išimtinių teisių pakartotinai naudoti dokumentus suteikimo turi būti skaidrūs ir skelbiami.
+5. Šio straipsnio 3 ir 4 dalyse nurodytų susitarimų dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo ir susitarimų, kuriais nesuteikiamos išimtinės teisės, tačiau kuriais apribojama pareiškėjų galimybė pakartotinai naudoti duomenis, esminės nuostatos turi būti skelbiamos viešai institucijų ir valstybės valdomų subjektų interneto svetainėse likus ne mažiau kaip 2 mėnesiams iki jų įsigaliojimo.
 
-6. Pagal šio straipsnio 4 dalies nuostatas sudarius susitarimą dėl išimtinės teisės suteikimo, pareiškėjas privalo pateikti institucijai vieną nemokamą suskaitmeninto Lietuvos kultūros paveldo kopiją. Pasibaigus šio susitarimo terminui, institucija sudaro galimybę kitiems pareiškėjams šią kopiją pakartotinai naudoti.
+6. Pagal šio straipsnio 4 dalies nuostatas sudarius susitarimą dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo, pareiškėjas privalo pateikti institucijai vieną nemokamą suskaitmenintų duomenų apie Lietuvos kultūros paveldą kopiją. Pasibaigus šio susitarimo terminui, institucija sudaro galimybę kitiems pareiškėjams šią kopiją pakartotinai naudoti.
 
-10 straipsnis. Atlyginimas už dokumentų teikimą pakartotiniam naudojimui
+III SKYRIUS
 
-1. Dokumentai, išskyrus registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas, pareiškėjams pakartotiniam naudojimui teikiami neatlygintinai, jeigu kiti įstatymai nenustato kitaip.
+DUOMENŲ TEIKIMAS
 
-2. Kai imamas atlyginimas už dokumentų, įskaitant registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas, valstybės informacinės sistemos duomenis, teikimą pakartotiniam naudojimui, jis neturi viršyti sąnaudų, patiriamų juos dauginant (atgaminant, išleidžiant, kopijuojant), teikiant ir skelbiant.
+10 straipsnis. Atlyginimas už duomenų teikimą pakartotinai naudoti
 
-3. Apskaičiuojant atlyginimą už dokumentų teikimą pakartotiniam naudojimui, šio straipsnio 2 dalyje nurodytas reikalavimas netaikomas institucijai, kuri įstatymų nustatyta tvarka pajamomis iš dokumentų teikimo pakartotiniam naudojimui finansuoja didžiąją dalį (daugiau negu 50 procentų) sąnaudų, patiriamų jai teikiant viešąsias ar administracines paslaugas ar vykdant kitas viešąsias funkcijas, arba institucijai, kuri įstatymų nustatyta tvarka pajamomis iš dokumentų teikimo finansuoja didžiąją dalį (daugiau negu 50 procentų) sąnaudų, patiriamų juos renkant, rengiant, dauginant ir skelbiant.
+1. Duomenys pakartotinai naudoti pareiškėjams teikiami neatlygintinai, jeigu Lietuvos Respublikos įstatymai ar Europos Sąjungos teisės aktai nenustato kitaip.
 
-4. Šio straipsnio 3 dalyje nurodytais atvejais atlyginimo už dokumentų, įskaitant registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas, valstybės informacinės sistemos duomenis, teikimą pakartotiniam naudojimui dydis apskaičiuojamas vadovaujantis Vyriausybės nustatyta tvarka. Vyriausybės patvirtintame apraše taip pat nustatomos išlaidų kategorijos, priskiriamos sąnaudoms, kurias galima įtraukti apskaičiuojant atlyginimo dydį (registro, informacinės sistemos amortizacijos, priežiūros, administravimo, darbo užmokesčio ir kitos Vyriausybės nustatytos išlaidos). Bendros institucijos pajamos, gautos iš dokumentų, įskaitant registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas, valstybės informacinės sistemos duomenis, teikimo pakartotiniam naudojimui, neturi viršyti dokumentų, įskaitant registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas, valstybės informacinės sistemos duomenis, rinkimo, rengimo, dauginimo ir skelbimo sąnaudų kartu su pagrįsta investicijų grąža.
+2. Kai imamas atlyginimas už duomenų teikimą pakartotinai naudoti, jis neturi viršyti ribinių sąnaudų, patiriamų duomenis atgaminant, teikiant ir skelbiant, taip pat nuasmeninant ir imantis priemonių konfidencialiai verslo informacijai apsaugoti.
 
-5. Šio straipsnio 2 dalyje nurodytas reikalavimas netaikomas bibliotekoms, įskaitant aukštųjų mokyklų bibliotekas, muziejams ir valstybės archyvams. Bendros šioje dalyje nurodytų institucijų pajamos, gautos iš dokumentų teikimo pakartotiniam naudojimui, neturi viršyti dokumentų rinkimo, rengimo, dauginimo, skelbimo, saugojimo ir atsiskaitymo už intelektinės nuosavybės teises sąnaudų kartu su pagrįsta investicijų grąža. Atlyginimo už bibliotekų, įskaitant aukštųjų mokyklų bibliotekas, muziejų ir valstybės archyvų dokumentų teikimą dydis apskaičiuojamas vadovaujantis Vyriausybės nustatyta tvarka.
+3. Šio straipsnio 2 dalyje nurodytas reikalavimas netaikomas:
 
-6. Atlyginimo už dokumentų, parengtų pagal individualius pareiškėjo poreikius, teikimą pakartotiniam naudojimui dydis neturi viršyti sąnaudų, patiriamų juos sisteminant, adaptuojant, apdorojant ar kitaip perdirbant, perduodant ir teikiant pareiškėjui.
+1) valstybės valdomiems subjektams;
 
-11 straipsnis. Atlyginimo už dokumentų teikimą skelbimas
+2) institucijoms, kurios turi gauti pajamų, kad padengtų didžiąją dalį (daugiau negu 50 procentų) sąnaudų, patiriamų joms atliekant viešąsias funkcijas. Šiame punkte nurodytų institucijų sąrašą sudaro Vyriausybė ar jos įgaliota institucija Vyriausybės nustatyta tvarka;
 
-1. Nustatytas atlyginimo už dokumentų teikimą dydis, jo apskaičiavimo teisinis pagrindas ir atlyginimo mokėjimo tvarka skelbiami institucijos interneto svetainėje.
+3) bibliotekoms, įskaitant aukštųjų mokyklų bibliotekas, muziejams ir valstybės archyvams.
 
-2. Visa informacija apie nustatyto ar apskaičiuoto atlyginimo už dokumentų teikimą dydžio apskundimo tvarka skelbiama institucijos interneto svetainėje.
+4. Šio straipsnio 3 dalies 1 ir 2 punktuose nurodytų subjektų bendros pajamos, gautos iš duomenų teikimo pakartotinai naudoti, neturi viršyti duomenų rinkimo, rengimo, atgaminimo, platinimo, saugojimo, nuasmeninimo ir konfidencialios verslo informacijos apsaugojimo sąnaudų kartu su pagrįstąja investicijų grąža.
 
-3 skyrius. Neteko galios nuo 2020-11-01
+5. Šio straipsnio 3 dalies 3 punkte nurodytų subjektų bendros pajamos, gautos iš duomenų teikimo pakartotinai naudoti, neturi viršyti dokumentų rinkimo, rengimo, atgaminimo, platinimo, saugojimo, atsiskaitymo už intelektinės nuosavybės teises, taip pat, kai taikytina, nuasmeninimo ir konfidencialios verslo informacijos apsaugojimo sąnaudų kartu su pagrįstąja investicijų grąža.
 
-Skyriaus naikinimas:
+6. Šio straipsnio 2 ir 3 dalyse nurodytais atvejais atlyginimo už duomenų teikimą pakartotinai naudoti dydis apskaičiuojamas vadovaujantis Vyriausybės nustatyta tvarka, pagal kurią taip pat nustatomos išlaidų kategorijos, priskiriamos sąnaudoms, kurias galima įtraukti apskaičiuojant atlyginimo dydį (registro, informacinės sistemos amortizacijos, priežiūros, administravimo, darbo užmokesčio ir kitos Vyriausybės nustatytos išlaidos).
 
-Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
+7. Atlyginimo už duomenų, parengtų pagal individualius pareiškėjo poreikius pakartotinai naudoti, teikimą dydis neturi viršyti sąnaudų, patiriamų juos sisteminant, adaptuojant, apdorojant ar kitaip perdirbant, perduodant ir teikiant pareiškėjui.
 
-IV SKYRIUS
+8. Valstybės lėšomis finansuojamų mokslinių tyrimų duomenys ir didelės vertės duomenų rinkiniai pakartotinai naudoti teikiami neatlygintinai.
 
-DOKUMENTŲ TEIKIMAS
+11 straipsnis. Atlyginimo už duomenų teikimą skelbimas
 
-12 straipsnis. Prašymo pateikimas
+1. Nustatytas atlyginimo už duomenų teikimą dydis, jo apskaičiavimo teisinis pagrindas ir atlyginimo mokėjimo tvarka skelbiami institucijos ir valstybės valdomo subjekto interneto svetainėje.
 
-1. Pareiškėjas, norėdamas gauti dokumentus, kreipiasi į instituciją ir pateikia prašymą. Prašyme nurodo, kokius dokumentus ir kokiu būdu pageidauja gauti, savo vardą, pavardę, adresą (jeigu pareiškėjas yra fizinis asmuo) arba pavadinimą, juridinio asmens kodą, buveinės adresą, atstovo vardą ir pavardę (jeigu pareiškėjas yra juridinis asmuo) ir kontaktinius duomenis. Jeigu dėl dokumentų kreipiasi pareiškėjo atstovas, prašyme nurodoma, kokius dokumentus ir kokiu būdu pageidaujama gauti, atstovo vardas, pavardė, adresas (jeigu atstovas yra fizinis asmuo), pavadinimas, juridinio asmens kodas, buveinės adresas (jeigu atstovas yra juridinis asmuo), atstovavimą liudijantis dokumentas, pareiškėjas, kurio vardu jis kreipiasi, ir kontaktiniai duomenys. Prašymo formą institucija skelbia savo interneto svetainėje.
+2. Nustatyto ar apskaičiuoto atlyginimo už duomenų teikimą dydžio apskundimo tvarka skelbiama institucijos interneto svetainėje.
 
-2. Prašymai gali būti teikiami tiesiogiai, pareiškėjui atvykus į instituciją, siunčiami paštu arba teikiami elektroninėmis priemonėmis, jeigu yra galimybė nustatyti pareiškėjo tapatumą. Prašymai, išskyrus žodinius prašymus, registruojami, tvarkomi Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka.
+12 straipsnis. Institucijos ir valstybės valdomo subjekto pareigos teikiant duomenis pareiškėjams
 
-3. Žodiniai prašymai telefonu arba pareiškėjui atvykus į instituciją gali būti pateikiami tais atvejais, kai pareiškėjas pageidauja gauti informaciją žodžiu arba susipažinti su dokumentu, neprašydamas kopijos, kai dokumentą galima pateikti tuoj pat, nepažeidžiant šio įstatymo ir Reglamento (ES) 2016/679 nustatytos tvarkos.
+1. Institucija ir valstybės valdomas subjektas, teikdami duomenis, užtikrina, kad:
 
-Straipsnio dalies pakeitimai:
+1) duomenis, įskaitant tuos, kurių intelektinės nuosavybės teisės priklauso bibliotekoms (įskaitant aukštųjų mokyklų bibliotekas), muziejams ir valstybės archyvams, pareiškėjas galėtų pakartotinai naudoti šio įstatymo nustatytomis sąlygomis;
 
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+2) pirmenybė būtų teikiama atviriesiems formatams,
 
-4. Institucija, nustačiusi, kad pareiškėjo prašyme nurodyti duomenys yra neišsamūs ar netikslūs, per 3 darbo dienas nuo prašymo gavimo dienos kreipiasi į pareiškėją, kad šis patikslintų prašymą, ir nurodo, kokių duomenų prašyme nepakanka ir kur juos gauti, o kai prašyme pateikti duomenys netikslūs, išaiškina pateiktų duomenų netikslumus ir kaip juos pašalinti.
-
-5. Visi raštu, įskaitant elektroninę formą, institucijai pateikti prašymai turi būti pasirašyti pareiškėjo arba jo atstovo. Elektroninės formos prašymas turi būti pasirašytas elektroniniu parašu, kuriam Lietuvos Respublikos įstatymais ar Europos Sąjungos teisės aktais yra suteikta lygiavertė rašytiniam parašui teisinė galia, arba suformuotas elektroninėmis priemonėmis, kurios leidžia užtikrinti teksto vientisumą ir nepakeičiamumą.
-
-13 straipsnis. Prašymo persiuntimas
-
-1. Jeigu prašomu dokumentu disponuoja kita institucija, pareiškėjo prašymas persiunčiamas šiai institucijai ne vėliau kaip per 3 darbo dienas nuo prašymo gavimo institucijoje dienos ir apie tai per 3 darbo dienas nuo prašymo persiuntimo informuojamas pareiškėjas. Persiųstą prašymą gavusi institucija dokumentus pareiškėjui pateikia šio įstatymo 14 straipsnyje nustatytais terminais. Jeigu pareiškėjas kreipėsi žodžiu, institucija nedelsdama turi informuoti pareiškėją ir nurodyti institucijos, į kurią pareiškėjas turėtų kreiptis dėl dokumentų, kontaktinius duomenis.
-
-2. Jeigu dalis prašomų dokumentų yra toje institucijoje, į kurią kreipėsi pareiškėjas, ir juos galima pateikti atskirai nuo visų prašomų dokumentų, institucija dokumentus pateikia šio įstatymo nustatyta tvarka ir terminais; dėl kitos dokumentų dalies šio straipsnio 1 dalyje nustatyta tvarka persiunčia pareiškėjo prašymą institucijai, kuri jais disponuoja.
-
-14 straipsnis. Prašymo nagrinėjimo terminai
-
-1. Jeigu kiti įstatymai nenustato kitaip, institucija nagrinėja pareiškėjo prašymą ir pareiškėjui pateikia dokumentus ne vėliau kaip per 20 darbo dienų nuo prašymo gavimo institucijoje dienos. Jeigu pareiškėjo buvo paprašyta patikslinti ar papildyti prašymą, prašymo nagrinėjimo ir dokumentų pateikimo terminas skaičiuojamas nuo patikslinto ar papildyto prašymo gavimo institucijoje dienos.
-
-2. Jeigu pareiškėjas prašo pateikti didelės apimties ar specialiai adaptuotų, apdorotų ar kitaip perdirbtų dokumentų, institucijos vadovo ar jo įgalioto darbuotojo sprendimu šio straipsnio 1 dalyje nurodytas terminas gali būti pratęstas dar iki 20 darbo dienų ir ne vėliau kaip kitą darbo dieną po prašymo nagrinėjimo termino pabaigos raštu apie tai privaloma pranešti pareiškėjui ir nurodyti prašymo nagrinėjimo termino pratęsimo priežastis.
-
-3. Nepaisant to, ar dokumentai teikiami be institucijos leidimo, ar prieš pateikiant dokumentus pareiškėjui yra būtina gauti jo sutikimą su specialiomis pakartotinio naudojimo sąlygomis šio įstatymo 8 straipsnio 8 dalyje numatyta tvarka, institucija dokumentus pareiškėjui privalo pateikti, o jeigu reikalinga, ir pareiškėjo sutikimą gauti, laikydamasi šio straipsnio 1 ir 2 dalyse nurodytų dokumentų pateikimo terminų.
-
-15 straipsnis. Atsisakymas pateikti dokumentus
-
-1. Institucija atsisako pateikti pareiškėjui dokumentus, jeigu:
-
-1) tas pats pareiškėjas pakartotinai prašo tų pačių dokumentų, kurie jam jau buvo pateikti;
-
-2) prašomi dokumentai yra paskelbti institucijos interneto svetainėje, visuomenės informavimo priemonėse, taip pat naudojant elektronines priemones; tokiu atveju per 3 darbo dienas nuo prašymo gavimo institucijoje dienos pareiškėjui nurodomas jų paskelbimo šaltinis;
-
-3) pagal pareiškėjo prašymą reikėtų specialiai adaptuoti, apdoroti ar kitaip perdirbti dokumentus ir tai būtų susiję su neproporcingai didelėmis darbo ir laiko sąnaudomis;
-
-4) šio įstatymo 12 straipsnio 4 dalyje nustatyta tvarka paprašius patikslinti ir (ar) papildyti prašymą, pareiškėjas jo nepatikslina arba patikslinto prašymo turinys yra nekonkretus;
-
-5) institucija prašomų dokumentų tvarkymą nutraukė pasikeitus institucijos funkcijoms;
-
-6) nėra galimybės nustatyti pareiškėjo tapatumo;
-
-7) pareiškėjas kreipiasi dėl dokumentų, kurių teikimui šio įstatymo nuostatos netaikomos šio įstatymo 2 straipsnio 2 dalyje nurodytais atvejais.
-
-2. Jeigu institucija nustato šio straipsnio 1 dalyje nurodytus atsisakymo pateikti dokumentus pareiškėjui pagrindus, ji per 3 darbo dienas nuo prašymo gavimo institucijoje dienos priima sprendimą dėl atsisakymo pateikti dokumentus pareiškėjui. Nustačiusi, kad yra pagrindas atsisakyti pateikti jam dokumentus, institucija kitą darbo dieną nuo sprendimo priėmimo apie tai privalo pranešti pareiškėjui, nurodyti teisinį pagrindą ir informuoti apie šio sprendimo apskundimo tvarką. Jeigu atsisakoma pateikti dokumentus šio įstatymo 2 straipsnio 2 dalies 2 punkte nurodytu pagrindu, pranešime nurodomas asmuo, kuriam priklauso intelektinės nuosavybės teisės, jeigu tas asmuo žinomas, arba nurodomas teisių turėtojas, iš kurio institucija yra gavusi pareiškėjo prašomus dokumentus. Bibliotekoms, įskaitant aukštųjų mokyklų bibliotekas, muziejams ir valstybės archyvams pareiga nurodyti tokį asmenį nėra privaloma.
-
-IV SKYRIUS
-
-DOKUMENTŲ TEIKIMAS
-
-16 straipsnis. Institucijos teisės ir pareigos teikiant dokumentus pareiškėjams
-
-1. Institucija, teikdama dokumentus, užtikrina, kad:
-
-1) dokumentus, įskaitant dokumentus, kurių intelektinės nuosavybės teisės priklauso bibliotekoms (įskaitant aukštųjų mokyklų bibliotekas), muziejams ir valstybės archyvams, pareiškėjas galėtų pakartotinai naudoti šio įstatymo nustatytomis sąlygomis;
-
-2) pirmenybė būtų teikiama tokiems dokumentų rinkinių formatams, kurių techninės specifikacijos yra viešai prieinamos ir kuriuos programinė įranga geba nustatyti, atpažinti ir nuskaityti, ir kuriuos pareiškėjas gali laisvai gauti ir naudoti (toliau – atviras elektroninis formatas);
-
-3) dokumentų teikimo informacinė aplinka Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka būtų tinkamai pritaikyta neįgaliųjų poreikiams.
+3) duomenų teikimo informacinė aplinka Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka būtų tinkamai pritaikyta neįgaliųjų poreikiams.
 
 2. Institucija privalo:
 
-1) teikdama adaptuotus, apdorotus ar kitaip perdirbtus dokumentus pagal individualų pareiškėjo prašymą, pagrįsti apskaičiuotą atlyginimo už tokių dokumentų teikimą dydį ir pateikti informaciją apie šio dydžio, kuris neturi viršyti sąnaudų, patiriamų dokumentus sisteminant, adaptuojant, apdorojant ar kitaip perdirbant, perduodant ir teikiant pareiškėjui, apskundimo tvarką;
+1) teikdama susistemintus, adaptuotus, apdorotus ar kitaip perdirbtus duomenis pagal individualų pareiškėjo prašymą, pagrįsti apskaičiuotą atlyginimo už tokių duomenų teikimą dydį ir pateikti informaciją apie šio dydžio, kuris neturi viršyti sąnaudų, patiriamų sisteminant, adaptuojant, apdorojant ar kitaip perdirbant, perduodant ir teikiant pareiškėjui duomenis, apskundimo tvarką;
 
-2) teikdama dokumentus kartu su teikiamais dokumentais pareiškėją informuoti apie institucijos veiksmų apskundimo tvarką;
+2) skelbti savo interneto svetainėje informaciją apie veiksnius, į kuriuos atsižvelgiama apskaičiuojant atlyginimą už duomenų sisteminimą, adaptavimą, apdorojimą ar kitokį perdirbimą pagal individualų pareiškėjo prašymą;
 
-3) sudaryti dokumentų rinkinius šio įstatymo nustatyta tvarka ir užtikrinti dokumentų rinkinių ir metaduomenų aktualumą ir teisingumą;
+3) teikdama duomenis, pareiškėją informuoti apie institucijos veiksmų apskundimo tvarką.
 
-4) atlikti kitas šiame įstatyme nurodytas pareigas.
+3. Šio straipsnio 2 dalies 3 punktas netaikomas švietimo įstaigoms, mokslinius tyrimus atliekančioms organizacijoms ir mokslinius tyrimus finansuojančioms organizacijoms.
 
-17 straipsnis. Dokumentų pateikimas
+13 straipsnis. Informacijos ir duomenų teikimas
 
-1. Atsižvelgdama į pareiškėjo prašymą, institucija dokumentus pareiškėjui teikia žodžiu, raštu arba elektroniniu būdu elektroninių ryšių tinklais. Elektroninių ryšių tinklais teikiama:
+1. Prašymai dėl duomenų teikimo ir jų pakartotinio naudojimo teikiami ir nagrinėjami Viešojo administravimo įstatymo nustatyta tvarka.
 
-1) leidžiamosios kreipties būdu, kai pareiškėjas dokumentus gauna pagal konkrečias užklausas;
+2. Atsižvelgdami į pareiškėjo prašymą, institucija ir valstybės valdomas subjektas informaciją ir duomenis pareiškėjui teikia žodžiu, raštu arba elektroniniu būdu elektroninių ryšių priemonėmis ekonomikos ir inovacijų ministro įgaliotos institucijos nustatyta tvarka.
 
-2) paketiniu būdu, kai pareiškėjas gauna didelės apimties (daugiau negu 50 dokumentų) dokumentų rinkinį;
+3. Jeigu prašyme nenurodytas informacijos ir duomenų teikimo būdas, informacija ir duomenys teikiami tokiu pačiu būdu, kokiu gautas prašymas.
 
-3) interaktyviuoju būdu, kai pareiškėjas dokumentų rinkinį gauna naudodamasis naršymo dokumentų rinkinyje priemone.
+4. Kai duomenys teikiami duomenų rinkiniais arba jų dalimis, pirmenybė teikiama duomenų teikimui internetu arba elektroninių ryšių priemonėmis.
 
-2. Jeigu prašyme nenurodytas dokumentų pateikimo būdas, dokumentai pateikiami tokiu pačiu būdu, kokiu gautas prašymas.
+5. Prieiga prie kintamųjų duomenų suteikiama per programų sąsają, sudarančią galimybę atsisiųsti šiuos duomenis vienu kartu.
 
-3. Dokumentai pareiškėjams teikiami dokumentų rinkiniais arba jų dalimis, pirmenybę teikiant dokumentų teikimui internetu arba elektroninių ryšių tinklais.
+6. Institucija ar valstybės valdomas subjektas užtikrina, kad galimybė naudoti kintamuosius duomenis būtų suteikta iš karto, kai tik jie surenkami ar atnaujinami, išskyrus šio straipsnio 7 dalyje nustatytą išimtį.
 
-18 straipsnis. Dokumentų parengimo ir pateikimo reikalavimai
+7. Jeigu institucijai ar valstybės valdomam subjektui užtikrinus galimybę naudoti kintamuosius duomenis iš karto, kai tik jie surenkami ar atnaujinami, neproporcingai padidėtų finansinė ir techninė našta, šių kintamųjų duomenų pakartotinio naudojimo galimybė turi būti suteikiama per tokį laikotarpį arba taikant tokius techninius apribojimus, kurie nesukeltų trikdžių pakartotinai naudoti kintamuosius duomenis.
 
-1. Dokumentai pareiškėjui teikiami tokio turinio ir tokiu formatu, kurie naudojami institucijoje ir kurie nereikalauja papildomo dokumentų adaptavimo, apdorojimo ar kitokio perdirbimo. Jeigu parengtinis dokumentų ar dokumentų rinkinių turinys ar formatas nebeatitinka pareiškėjų, kurie nuolat kreipiasi tų pačių dokumentų, poreikių, institucija pritaiko turinį ir (arba) formatą pagal pareiškėjų poreikius. Rekomenduojamus formatus ir standartus nustato ūkio ministro įgaliota institucija.
+14 straipsnis. Duomenų ir duomenų rinkinių parengimo ir teikimo reikalavimai
 
-Straipsnio dalies pakeitimai:
+1. Duomenys pareiškėjui teikiami tokio turinio ir tokiu formatu, kuris naudojamas institucijoje ar valstybės valdomame subjekte ir kurio nereikia papildomai adaptuoti, apdoroti ar kitaip koreguoti. Jeigu parengtinis duomenų, išskyrus registro duomenis, registro informaciją, registrui pateiktus duomenis ir (arba) jų kopijas, valstybės informacinės sistemos duomenis, ar duomenų rinkinių turinys ar formatas nebeatitinka pareiškėjų poreikių, institucija ar valstybės valdomas subjektas pritaiko jų turinį ir (arba) formatą pareiškėjų poreikiams. Rekomenduojamus duomenų formatus ir standartus nustato ekonomikos ir inovacijų ministro įgaliota institucija.
 
-Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
+2. Iš institucijos ir valstybės valdomo subjekto negali būti reikalaujama tvarkyti duomenis vien dėl to, kad pareiškėjas galėtų juos pakartotinai naudoti, arba pritaikyti duomenų turinį ir (arba) formatą pareiškėjų poreikiams, jeigu tai būtų susiję su institucijos ir valstybės valdomo subjekto neproporcingai didelėmis darbo ir laiko sąnaudomis.
 
-2. Iš institucijos negali būti reikalaujama tvarkyti dokumentų vien dėl to, kad pareiškėjas galėtų juos pakartotinai naudoti.
+3. Jeigu pareiškėjas prašo duomenų, kurių tam tikrą dalį sudaro duomenys, nurodyti šio įstatymo 2 straipsnio 2 dalyje, teikiama tik ta duomenų dalis, kuri nėra nurodyta šio įstatymo 2 straipsnio 2 dalyje. Kai institucija ir valstybės valdomas subjektas atsisako raštu teikti duomenis, kaip nustatyta šio įstatymo 2 straipsnio 2 dalies 2 punkte, nurodomas asmuo, kuriam priklauso intelektinės nuosavybės teisės, jeigu tas asmuo žinomas, arba teisių turėtojas, iš kurio institucija yra gavusi pareiškėjo prašomus duomenis. Bibliotekoms, įskaitant aukštųjų mokyklų bibliotekas, muziejams, valstybės archyvams, valstybės valdomiems subjektams, švietimo įstaigoms, mokslinius tyrimus atliekančioms organizacijoms ir mokslinius tyrimus finansuojančioms organizacijoms pareiga nurodyti tokį asmenį nėra privaloma.
 
-3. Jeigu pareiškėjas prašo dokumentų, kurių tam tikra dalis priklauso dokumentams, nustatytiems šio įstatymo 2 straipsnio 2 dalyje, teikiama tik ta dokumentų dalis, kuri nėra nustatyta šio įstatymo 2 straipsnio 2 dalyje.
+4. Duomenys ir duomenų rinkiniai internetu ar elektroninių ryšių priemonėmis turi būti teikiami taip, kad pareiškėjams būtų patogu juos gauti ir naudoti. Iš pareiškėjo neturi būti reikalaujama įsigyti specialios mokamos programinės įrangos. Duomenų rinkiniai kartu su jų metaduomenimis pareiškėjams teikiami atviraisiais formatais. Kiti elektroniniai formatai gali būti naudojami tik institucijos arba valstybės valdomo subjekto ir pareiškėjo abipusiu susitarimu.
 
-4. Dokumentų ir dokumentų rinkinių teikimas internetu ar elektroninių ryšių tinklais turi būti patogus pareiškėjams juos priimti ir naudoti ir neturi būti reikalaujama iš pareiškėjo įsigyti specialios mokamos programinės įrangos. Dokumentų rinkiniai rengiami atviru elektroniniu formatu ir kartu su jų metaduomenimis teikiami pareiškėjams. Uždari elektroniniai formatai gali būti naudojami tik institucijos ir pareiškėjo abipusiu susitarimu.
+5. Jeigu duomenų tvarkymas institucijoje ar valstybės valdomame subjekte nutrauktas dėl to, kad pasikeitė institucijos ar valstybės valdomo subjekto viešoji (viešosios) funkcija (funkcijos), pareiškėjui duomenys yra teikiami tik jų saugojimo institucijoje ar valstybės valdomame subjekte laiką, o jeigu duomenys yra perduoti kitai institucijai arba valstybės valdomam subjektui, pareiškėjo prašymas persiunčiamas Viešojo administravimo įstatymo nustatyta tvarka.
 
-5. Jeigu dokumentų tvarkymas institucijoje nutrauktas dėl to, kad pasikeitė viešoji funkcija (funkcijos), pareiškėjui dokumentai yra teikiami tik jų saugojimo institucijoje laiką, o jeigu dokumentai yra perduoti kitai institucijai, pareiškėjo prašymas persiunčiamas Vyriausybės nustatyta tvarka.
+6. Duomenys pareiškėjui paprastai teikiami valstybine kalba. Jeigu duomenys tvarkomi ne valstybine kalba, jie rengiami ir pareiškėjui teikiami ta kalba, kokia yra tvarkomi institucijoje ar valstybės valdomame subjekte.
 
-Straipsnio dalies pakeitimai:
+IV SKYRIUS
 
-Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
+DUOMENŲ RINKINIAI IR JŲ TVARKYMAS
 
-6. Dokumentai pareiškėjui paprastai teikiami valstybine kalba. Jeigu dokumentai tvarkomi ne valstybine kalba, dokumentai rengiami ir pareiškėjui teikiami ta kalba, kokia jie institucijoje tvarkomi.
+15 straipsnis. Institucijos ir valstybės valdomo subjekto pareiga sudaryti duomenų rinkinius
+
+1. Visi institucijos ar valstybės valdomo subjekto duomenys turi būti inventorizuoti laikantis principo, kad duomenys gali būti skelbiami pakartotinai naudoti, jeigu tai neprieštarauja šiam ir kitiems įstatymams. Inventorizuotų duomenų sąrašas turi būti skelbiamas Lietuvos atvirų duomenų portale.
+
+2. Institucijos ir valstybės valdomi subjektai turi sudaryti duomenų, dėl kurių yra pateiktos užklausos Lietuvos atvirų duomenų portale arba kurių pakartotinis naudojimas, institucijos ir valstybės valdomo subjekto vertinimu, gali kurti pridėtinę vertę, rinkinius ir juos skelbti šiame portale, jeigu tai neprieštarauja šiam ir kitiems įstatymams.
+
+3. Institucijos ir valstybės valdomi subjektai, sudarydami duomenų rinkinius ir juos perduodami į Lietuvos atvirų duomenų portalą, naudojasi Vyriausybės įgaliotos institucijos valdomos valstybės informacinės sistemos funkcionalumu įgaliotos institucijos nustatyta tvarka.
+
+16 straipsnis. Didelės vertės duomenų rinkiniai
+
+1. Didelės vertės duomenų teminių kategorijų sąrašą ir didelės vertės duomenų rinkinių sąrašą tvirtina Vyriausybė.
+
+2. Didelės vertės duomenų rinkiniai skelbiami Lietuvos atvirų duomenų portale elektroniniu formatu per programų sąsają, sudarančią galimybę atsisiųsti šiuos duomenis vienu kartu.
+
+3. Didelės vertės duomenų rinkiniai turi būti skelbiami sudarant galimybę juos nuskaityti automatiniu būdu.
+
+4. Didelės vertės duomenų rinkiniai turi būti prieinami neatlygintinai. Šis reikalavimas netaikomas bibliotekų, įskaitant aukštųjų mokyklų bibliotekas, muziejų ir valstybės archyvų didelės vertės duomenų rinkinių skelbimui.
+
+17 straipsnis. Lietuvos atvirų duomenų portalas
+
+1. Lietuvos atvirų duomenų portalas yra valstybės informacinė sistema, skirta duomenų rinkiniams ir jų metaduomenims sisteminti ir skelbti naudojant vienodą metaduomenų aprašymo formatą, taip pat vieno langelio principu institucijų ir valstybės valdomų subjektų sudarytiems duomenų rinkiniams ir jų metaduomenims ieškoti, peržiūrėti, parsisiųsti, pareiškėjų užklausoms registruoti ir kitoms paslaugoms, susijusioms su šios informacinės sistemos paskirtimi, teikti.
+
+2. Pareiškėjų prieiga prie institucijų ir valstybės valdomų subjektų sudarytų duomenų rinkinių ir jų metaduomenų per Lietuvos atvirų duomenų portalą yra vieša. Duomenų rinkiniai per šį portalą teikiami neatlygintinai.
+
+3. Lietuvos atvirų duomenų portalo nuostatus tvirtina Vyriausybė.
+
+4. Lietuvos atvirų duomenų portalo tvarkytojas teikia duomenų rinkinių metaduomenis į Europos duomenų portalą.
+
+5. Institucijos ir valstybės valdomi subjektai privalo užtikrinti, kad inventorizuotų duomenų sąrašai ir sudaryti duomenų rinkiniai Lietuvos atvirų duomenų portale bus surasti ir pasiekiami šio portalo tvarkytojo nustatyta tvarka ir priemonėmis.
 
 V SKYRIUS
 
-DOKUMENTŲ RINKINIAI IR JŲ TVARKYMAS
+BAIGIAMOSIOS NUOSTATOS
 
-19 straipsnis. Dokumentų rinkiniai, jų sudarymas
+18 straipsnis. Pareiškėjo teisė apskųsti institucijos ar valstybės valdomo subjekto veiksmus
 
-1. Institucijos vadovo ar jo įgalioto asmens sprendimu dokumentai, dėl kurių dažniausia kreipiasi pareiškėjai arba kurie yra aktualūs vykdant viešąsias funkcijas ar gali būti aktualūs pareiškėjams pakartotinai naudoti, gali būti susisteminami ir sudaromi dokumentų rinkiniai.
+Pareiškėjo teisės gali būti ginamos šiais būdais:
 
-2. Į dokumentų rinkinius susisteminti dokumentai turi būti tinkami pakartotinai naudoti.
+1) pareiškėjas turi teisę apskųsti institucijos veiksmus, neveikimą ar administracinį sprendimą, taip pat institucijos vilkinimą atlikti jos kompetencijai šiuo įstatymu priskirtus veiksmus Viešojo administravimo įstatymo nustatyta tvarka;
 
-3. Dokumentų rinkinio pavadinimą, jo sudarymo ir duomenų atnaujinimo datą, atsakingo asmens kontaktinius duomenis, kitus metaduomenis ir prieigą prie dokumentų rinkinių institucija teikia Dokumentų rinkinių portalui (toliau – portalas).
+2) pareiškėjas turi teisę apskųsti valstybės valdomo subjekto veiksmus ar neveikimą, taip pat valstybės valdomo subjekto vilkinimą atlikti jo kompetencijai šiuo įstatymu priskirtus veiksmus tam pačiam valstybės valdomam subjektui arba bendrosios kompetencijos teismui.
+
+19 straipsnis. Susitarimų dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo galiojimas
+
+1. Susitarimai dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo, kurie galiojo 2013 m. liepos 17 d. ir kuriems nėra taikomos šio įstatymo 9 straipsnio 3 ir 4 dalyse nurodytos išimtys, galioja iki susitarimo termino pabaigos, bet ne ilgiau kaip iki 2043 m. liepos 18 d.
+
+2. Susitarimai dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo, kurie galiojo 2019 m. liepos 16 d. ir kuriems nėra taikomos šio įstatymo 9 straipsnio 3 ir 4 dalyse nurodytos išimtys, galioja iki susitarimo termino pabaigos, bet ne ilgiau kaip iki 2049 m. liepos 17 d.
+
+Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi, skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+LIETUVOS RESPUBLIKOS
+
+SEIMO PIRMININKAS                                                                      VYTAUTAS LANDSBERGIS
+
+Lietuvos Respublikos
+
+teisės gauti informaciją ir duomenų
+
+pakartotinio naudojimo įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2016 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2102 dėl viešojo sektoriaus institucijų interneto svetainių ir mobiliųjų programų prieinamumo.
+
+2. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1024 dėl atvirųjų duomenų ir viešojo sektoriaus informacijos pakartotinio naudojimo.
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1700, 2000-05-23, Žin., 2000, Nr. 47-1344 (2000-06-09), i. k. 1001010ISTAIII-1700
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1844, 2003-11-25, Žin., 2003, Nr. 116-5250 (2003-12-12), i. k. 1031010ISTA0IX-1844
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 13 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-383, 2005-11-10, Žin., 2005, Nr. 139-5008 (2005-11-26), i. k. 1051010ISTA000X-383
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1716, 2008-07-15, Žin., 2008, Nr. 87-3473 (2008-07-31), i. k. 1081010ISTA00X-1716
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-285, 2009-06-11, Žin., 2009, Nr. 75-3064 (2009-06-25), i. k. 1091010ISTA00XI-285
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-809, 2010-05-13, Žin., 2010, Nr. 63-3088 (2010-05-31), i. k. 1101010ISTA00XI-809
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 6 straipsnio papildymo ir pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1980, 2012-04-19, Žin., 2012, Nr. 51-2529 (2012-05-03), i. k. 1121010ISTA0XI-1980
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2, 4, 6, 12 straipsnių pakeitimo ir papildymo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-871, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05357
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 6 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2666, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25262
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 7, 18 ir 20 straipsnių pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 2, 3, 5, 6, 7, 12, 22 straipsnių ir priedo pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 2 ir 7 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 18 straipsnių pakeitimo ir III skyriaus pripažinimo netekusiu galios įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-145, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00267
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 5 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-491, 2021-06-30, paskelbta TAR 2021-07-12, i. k. 2021-15751
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 pakeitimo įstatymas
 
 21 straipsnis. Portalo paslaugos
 
