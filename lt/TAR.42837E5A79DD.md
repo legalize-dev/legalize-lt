@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2021-06-15"
+last_updated: "2021-07-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2021-06-15 iki 2021-07-22
+Suvestinė redakcija nuo 2021-07-23 iki 2021-08-11
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -774,6 +774,12 @@ Prieglobsčio prašytojui, neteisėtai atvykusiam į Lietuvos Respublikos terito
 
 11) naudotis kitomis priėmimo sąlygomis ir teisėmis, kurios jam garantuojamos pagal Lietuvos Respublikos tarptautines sutartis, įstatymus ir kitus teisės aktus.
 
+11. Paskelbus karo padėtį, nepaprastąją padėtį, taip pat ekstremaliąją situaciją ar ekstremalųjį įvykį dėl masinio užsieniečių antplūdžio, gali būti laikinai ir proporcingai ribojamos šio straipsnio 1 dalyje nurodytos prieglobsčio prašytojų teisės, jeigu jų negalima užtikrinti dėl objektyvių ir pagrįstų priežasčių, išskyrus teisę į materialines priėmimo sąlygas, būtinosios medicinos pagalbos teikimą ir valstybės garantuojamą teisinę pagalbą, o pažeidžiamiems asmenims – ir teisė naudotis jų specialiuosius poreikius atitinkančiomis priėmimo sąlygomis. Išnykus šioje dalyje nurodytoms priežastims, pažeidžiamiems asmenims šio straipsnio 1 dalyje nurodytos prieglobsčio prašytojų teisės užtikrinamos prioriteto tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
+
 2. Nepilnamečiai prieglobsčio prašytojai turi teisę mokytis pagal ikimokyklinio, priešmokyklinio, bendrojo ugdymo arba profesinio mokymo programą (programas) švietimo, mokslo ir sporto ministro nustatyta tvarka. Teisė mokytis pagal priešmokyklinio, bendrojo ugdymo ar profesinio mokymo programą (programas) užtikrinama nedelsiant ir ne vėliau kaip per 3 mėnesius nuo prašymo suteikti prieglobstį pateikimo dienos. Prieglobsčio prašytojas, pradėjęs mokytis būdamas nepilnametis, turi teisę pabaigti bendrojo ugdymo arba profesinio mokymo programą (programas), net jeigu mokydamasis sulaukė pilnametystės.
 
 3. Teisę likti Lietuvos Respublikos teritorijoje turintiems prieglobsčio prašytojams, gyvenantiems Lietuvos Respublikos institucijų paskirtose apgyvendinimo arba sulaikymo vietose, socialinės apsaugos ir darbo ministro ir vidaus reikalų ministro nustatyta tvarka kas mėnesį mokama 10 procentų valstybės remiamų pajamų dydžio piniginė pašalpa. Ši pašalpa mokama nuo prašymo gauti piniginę pašalpą socialinės apsaugos ir darbo ministro ir vidaus reikalų ministro nustatyta tvarka pateikimo dienos.
@@ -888,9 +894,17 @@ PRIEGLOBSČIO LIETUVOS RESPUBLIKOJE SUTEIKIMO TVARKA
 
 8) dėl rimtų priežasčių gali būti laikomas keliančiu grėsmę valstybės saugumui arba viešajai tvarkai arba buvo išsiųstas iš Lietuvos Respublikos šio Įstatymo 126 straipsnio 1 dalies 3 punkte nustatytu pagrindu.
 
-5. Migracijos departamentas apie prašymo suteikti prieglobstį nagrinėjimą iš esmės informuoja prieglobsčio prašytoją ne vėliau kaip per 2 dienas nuo prašymo suteikti prieglobstį pateikimo dienos, apie prašymo suteikti prieglobstį nagrinėjimą iš esmės skubos tvarka informuoja prieglobsčio prašytoją ne vėliau kaip per 2 dienas nuo šio straipsnio 4 dalyje nurodytų pagrindų nustatymo dienos, o šiems pagrindams išnykus ir nebetaikant nagrinėjimo iš esmės skubos tvarka, – per 2 dienas nuo šio straipsnio 4 dalyje nurodytų pagrindų išnykimo dienos.
+5. Migracijos departamentas apie prašymo suteikti prieglobstį nagrinėjimą iš esmės informuoja prieglobsčio prašytoją ne vėliau kaip per 2 dienas nuo prašymo suteikti prieglobstį pateikimo dienos, apie prašymo suteikti prieglobstį nagrinėjimą iš esmės skubos tvarka informuoja prieglobsčio prašytoją ne vėliau kaip per 2 dienas nuo šio straipsnio 4 dalyje nurodytų pagrindų nustatymo dienos, o šiems pagrindams išnykus ir nebetaikant nagrinėjimo iš esmės skubos tvarka, – per 2 dienas nuo šio straipsnio 4 dalyje nurodytų pagrindų išnykimo dienos. Ši nuostata netaikoma paskelbus karo padėtį, nepaprastąją padėtį, taip pat ekstremaliąją situaciją ar ekstremalųjį įvykį dėl masinio užsieniečių antplūdžio.
 
-6. Šio straipsnio 4 dalis netaikoma nelydimiems nepilnamečiams prieglobsčio prašytojams ir prieglobsčio prašytojams, kurie buvo kankinti, išprievartauti ar patyrė kitokį sunkų psichologinį, fizinį ar seksualinį smurtą.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
+
+6. Šio straipsnio 4 dalis netaikoma nelydimiems nepilnamečiams prieglobsčio prašytojams ir prieglobsčio prašytojams, kurie buvo kankinti, išprievartauti ar patyrė kitokį sunkų psichologinį, fizinį ar seksualinį smurtą. Ši nuostata netaikoma paskelbus karo padėtį, nepaprastąją padėtį, taip pat ekstremaliąją situaciją ar ekstremalųjį įvykį dėl masinio užsieniečių antplūdžio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 Straipsnio pakeitimai:
 
@@ -910,7 +924,11 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 2. Sprendimas, nurodytas šio straipsnio 1 dalyje, priimamas per 3 darbo dienas nuo prašymo suteikti prieglobstį pateikimo dienos.
 
-3. Šio straipsnio 1 dalis netaikoma pažeidžiamiems asmenims.
+3. Šio straipsnio 1 dalis netaikoma pažeidžiamiems asmenims, išskyrus atvejus, kai yra paskelbta karo padėtis, nepaprastoji padėtis, taip pat ekstremalioji situacija ar ekstremalusis įvykis dėl masinio užsieniečių antplūdžio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 Straipsnio pakeitimai:
 
@@ -1576,7 +1594,7 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 3. Valstybės išlaidos, patirtos dėl užsieniečio išsiuntimo iš Lietuvos Respublikos, įpareigojimo išvykti iš Lietuvos Respublikos ar grąžinimo į užsienio valstybę (įskaitant apgyvendinimo ir išlaikymo), civilinio proceso tvarka išieškomos iš fizinių ar juridinių asmenų, kurių užsienietis buvo pakviestas į Lietuvos Respubliką, iš darbdavio, pas kurį nelegaliai dirbo užsienietis, arba iš vežėjų, kurių užsienietis buvo atvežtas į Lietuvos Respubliką, arba iš užsieniečio, jeigu jis į Lietuvos Respubliką atvyko be fizinio ar juridinio asmens kvietimo, arba kreipiamasi dėl lėšų grąžinimo į sprendimą užsienietį išsiųsti priėmusią kitą valstybę, kuriai taikoma 2001 m. gegužės 28 d. Tarybos direktyva 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo, vadovaujantis 2004 m. vasario 23 d. Tarybos sprendimu 2004/191/EB, nustatančiu finansinių skirtumų, atsirandančių dėl Direktyvos 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo taikymo, kompensavimo kriterijus ir praktines priemones.
 
-4. Savanoriškai grįžtančiam į užsienio valstybę užsieniečiui vieną kartą gali būti suteikiama pagalba grįžti į užsienio valstybę pagal savanoriško grįžimo ir reintegracijos programas, įgyvendinamas Lietuvos Respublikos valstybės, Europos Sąjungos fondų, tarptautinių organizacijų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšomis.
+4. Savanoriškai grįžtančiam į užsienio valstybę užsieniečiui vieną kartą gali būti suteikiama pagalba grįžti į užsienio valstybę pagal savanoriško grįžimo ir reintegracijos programas, įgyvendinamas Lietuvos Respublikos valstybės, Europos Sąjungos fondų, tarptautinių organizacijų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšomis. Valstybės sienos apsaugos tarnyba arba Migracijos departamentas vidaus reikalų ministro nustatyta tvarka gali užsieniečiams teikti paramą savanoriškai grįžti ir reintegruotis kilmės valstybėje.
 
 Straipsnio pakeitimai:
 
@@ -1585,6 +1603,10 @@ Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 Straipsnio pakeitimai:
 
@@ -1614,11 +1636,15 @@ Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 
 136 straipsnis. Sprendimo apskundimo teisė
 
-Sprendimai, priimti pagal šį Įstatymą, gali būti skundžiami šio Įstatymo ir Administracinių bylų teisenos įstatymo nustatyta tvarka.
+Sprendimai, priimti pagal šį Įstatymą, gali būti skundžiami šio Įstatymo IX1,  X skyriuose ir Administracinių bylų teisenos įstatyme nustatyta tvarka.
 
-Straipsnio pakeitimas:
+Straipsnio pakeitimai:
 
 Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 141 straipsnis. Teisė gauti duomenis ir Migracijos departamento valstybės tarnautojų įgaliojimai
 
@@ -2054,7 +2080,17 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 2) patenkinti skundą.
 
-4. Priimtas sprendimas gali būti skundžiamas Lietuvos vyriausiajam administraciniam teismui per 14 dienų nuo sprendimo paskelbimo.
+4. Priimtas sprendimas gali būti skundžiamas Lietuvos vyriausiajam administraciniam teismui per 14 dienų nuo sprendimo paskelbimo, išskyrus teismo sprendimą, priimtą dėl šio Įstatymo 1352 straipsnio 1 dalyje nurodyto sprendimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
+
+41. Teismo sprendimas, priimtas dėl šio Įstatymo 1352 straipsnio 1 dalyje nurodyto sprendimo, yra galutinis ir neskundžiamas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 5. Administracinės bylos pagal skundus dėl sprendimų, kurie priimti dėl užsieniečio keliamos grėsmės valstybės saugumui, viešajai tvarkai ar visuomenei, gali būti nagrinėjamos naudojant faktinius duomenis, sudarančius valstybės ar tarnybos paslaptį, ir dalyvaujant Valstybės saugumo departamentui, policijos generalinio komisaro įgaliotai policijos įstaigai ir (arba) Valstybės sienos apsaugos tarnybai. Šiems duomenims netaikomos Administracinių bylų teisenos įstatyme numatytos nuostatos dėl išslaptinimo.
 
@@ -2199,6 +2235,12 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 4. Prieglobsčio prašytojas gali būti sulaikytas tik šiais atvejais:
 
 1) siekiant nustatyti ir (arba) patikrinti jo tapatybę ir (arba) pilietybę;
+
+11) kai jis į Lietuvos Respublikos teritoriją atvyko neteisėtai kirsdamas Lietuvos Respublikos valstybės sieną esant karo padėčiai, nepaprastajai padėčiai, dėl masinio užsieniečių antplūdžio paskelbtai ekstremaliajai situacijai ar ekstremaliajam įvykiui;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 2) siekiant išsiaiškinti motyvus, kuriais grindžiamas jo prašymas suteikti prieglobstį (kai informacija dėl motyvų negalėtų būti gauta prieglobsčio prašytojo nesulaikius), ir įvertinus šio straipsnio 5 dalies 1, 6–11 punktuose nurodytas aplinkybes, yra pagrindas manyti, kad užsienietis gali pasislėpti siekdamas išvengti grąžinimo į užsienio valstybę ar išsiuntimo iš Lietuvos Respublikos;
 
@@ -3212,27 +3254,27 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 1. Užsieniečiams, atvykstantiems į Lietuvos Respubliką ir išvykstantiems iš jos, taikomos Reglamento (ES) 2016/399 (toliau – Šengeno sienų kodeksas) nuostatos.
 
-2. Užsieniečių buvimas Lietuvos Respublikos tarptautinių oro uostų tranzito zonose (toliau – tranzito zonos) nelaikomas atvykimu į Lietuvos Respublikos teritoriją. Užsieniečių, pateikusių prašymą suteikti prieglobstį pasienio kontrolės punktuose ar tranzito zonose, buvimas pasienio kontrolės punktuose ar tranzito zonose nelaikomas atvykimu į Lietuvos Respublikos teritoriją, iki nepriimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką. Užsieniečiai, sulaikyti neteisėtai kirtę Lietuvos Respublikos valstybės sieną, kurie nedelsdami kreipiasi su prašymu suteikti prieglobstį, nelaikomi atvykusiais į Lietuvos Respublikos teritoriją, iki nepriimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką.
+2. Užsieniečių buvimas Lietuvos Respublikos tarptautinių oro uostų tranzito zonose (toliau – tranzito zonos) nelaikomas atvykimu į Lietuvos Respublikos teritoriją. Užsieniečių, pateikusių prašymą suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo, buvimas šio straipsnio 6 dalyje nurodytose laikino apgyvendinimo vietose nelaikomas atvykimu į Lietuvos Respublikos teritoriją, iki nepriimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką.
 
-3. Jeigu užsienietis, būdamas pasienio kontrolės punkte ar tranzito zonoje, pateikia prašymą suteikti prieglobstį, per 48 valandas nuo tokio prašymo pateikimo momento Migracijos departamentas priima sprendimą įleisti prieglobsčio prašytoją į Lietuvos Respubliką, išskyrus prieglobsčio prašytojus, kuriems taikytina šio Įstatymo 76 straipsnio 4 dalis arba 77 straipsnio 1 dalis.
+3. Jeigu užsienietis, būdamas pasienio kontrolės punkte, tranzito zonoje ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo pateikia prašymą suteikti prieglobstį, per 48 valandas nuo tokio prašymo pateikimo momento Migracijos departamentas priima sprendimą įleisti prieglobsčio prašytoją į Lietuvos Respubliką, išskyrus prieglobsčio prašytojus, kuriems taikytina šio Įstatymo 76 straipsnio 4 dalis arba 77 straipsnio 1 dalis.
 
-4. Užsieniečiai, išskyrus prašymą suteikti prieglobstį pasienio kontrolės punktuose ar tranzito zonose pateikusius prieglobsčio prašytojus, dėl kurių nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, turi teisę pasilikti Lietuvos Respublikoje šio Įstatymo 138 straipsnyje nustatyto skundo padavimo termino laikotarpiu, o šiuo laikotarpiu pateikus prašymą dėl reikalavimo užtikrinimo priemonių, – iki atitinkamo administracinio teismo nutarties dėl reikalavimo užtikrinimo priemonių priėmimo arba kai apskųsto sprendimo vykdymas sustabdomas pagal šio Įstatymo 139 straipsnio 1 dalį. Prašymą suteikti prieglobstį pasienio kontrolės punktuose ar tranzito zonose pateikę prieglobsčio prašytojai, dėl kurių nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, turi teisę pasilikti pasienio kontrolės punktuose ar tranzito zonose šio Įstatymo 138 straipsnyje nustatyto skundo padavimo termino laikotarpiu, o šiuo laikotarpiu pateikus prašymą dėl reikalavimo užtikrinimo priemonių, – iki atitinkamo administracinio teismo nutarties dėl reikalavimo užtikrinimo priemonių priėmimo arba kai apskųsto sprendimo vykdymas sustabdomas pagal šio Įstatymo 139 straipsnio 1 dalies 2 punktą.
+4. Užsieniečiai, išskyrus prašymą suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo pateikusius prieglobsčio prašytojus, dėl kurių nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, turi teisę pasilikti Lietuvos Respublikoje šio Įstatymo 138 straipsnyje nustatyto skundo padavimo termino laikotarpiu, o šiuo laikotarpiu pateikus prašymą dėl reikalavimo užtikrinimo priemonių, – iki atitinkamo administracinio teismo nutarties dėl reikalavimo užtikrinimo priemonių priėmimo arba kai apskųsto sprendimo vykdymas sustabdomas pagal šio Įstatymo 139 straipsnio 1 dalį. Prašymą suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo pateikę prieglobsčio prašytojai, dėl kurių nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, turi teisę pasilikti šio straipsnio 6 dalyje nurodytose laikino apgyvendinimo vietose šio Įstatymo 138 straipsnyje nustatyto skundo padavimo termino laikotarpiu, o šiuo laikotarpiu pateikus prašymą dėl reikalavimo užtikrinimo priemonių, – iki atitinkamo administracinio teismo nutarties dėl reikalavimo užtikrinimo priemonių priėmimo arba kai apskųsto sprendimo vykdymas sustabdomas pagal šio Įstatymo 139 straipsnio 1 dalies 2 punktą.
 
 5. Šio straipsnio 4 dalies nuostatos netaikomos tuo atveju, kai užsieniečio, išskyrus prieglobsčio prašytoją, buvimas Lietuvos Respublikoje kelia grėsmę valstybės saugumui arba visuomenei. Europos Sąjungos valstybės narės piliečiui, jo šeimos nariui arba kitam asmeniui, kuris pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, šio straipsnio 4 dalies nuostata netaikoma, kai jo buvimas Lietuvos Respublikoje kelia labai rimtą grėsmę valstybės saugumui.
 
-6. Prieglobsčio prašytojai, pateikę prašymus suteikti prieglobstį pasienio kontrolės punktuose ar tranzito zonose, iki nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, laikinai apgyvendinami pasienio kontrolės punktuose, tranzito zonose arba Valstybės sienos apsaugos tarnyboje.
+6. Prieglobsčio prašytojai, pateikę prašymus suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo, iki nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, laikinai apgyvendinami pasienio kontrolės punktuose, tranzito zonose, Valstybės sienos apsaugos tarnyboje. Esant karo padėčiai, nepaprastajai padėčiai, dėl masinio užsieniečių antplūdžio paskelbtai ekstremaliajai situacijai ar ekstremaliajam įvykiui, prieglobsčio prašytojai, pateikę prašymus suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo, iki nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, laikinai apgyvendinami pasienio kontrolės punktuose, tranzito zonose, Valstybės sienos apsaugos tarnyboje ar kitose tam pritaikytose vietose, nesuteikiant jiems teisės laisvai judėti Lietuvos Respublikos teritorijoje.
 
-7. Šio straipsnio 6 dalyje nurodytų prieglobsčio prašytojų laikino apgyvendinimo pasienio kontrolės punktuose, tranzito zonose ir Valstybės sienos apsaugos tarnyboje sąlygas ir tvarką nustato vidaus reikalų ministras.
+7. Šio straipsnio 6 dalyje nurodytų prieglobsčio prašytojų laikino apgyvendinimo toje pačioje dalyje nurodytose laikino apgyvendinimo vietose sąlygas ir tvarką nustato vidaus reikalų ministras.
 
-8. Jeigu per 28 dienas nuo prieglobsčio prašytojo, laikinai apgyvendinto pasienio kontrolės punkte, tranzito zonoje ar Valstybės sienos apsaugos tarnyboje, prašymo suteikti prieglobstį pateikimo dienos nebuvo priimtas galutinis sprendimas, Migracijos departamentas priima sprendimą įleisti tokį prieglobsčio prašytoją į Lietuvos Respubliką.
+8. Jeigu per 28 dienas nuo prieglobsčio prašytojo, laikinai apgyvendinto šio straipsnio 6 dalyje nurodytose laikino apgyvendinimo vietose, prašymo suteikti prieglobstį pateikimo dienos nebuvo priimtas galutinis sprendimas, Migracijos departamentas priima sprendimą įleisti tokį prieglobsčio prašytoją į Lietuvos Respubliką. Paskelbus karo padėtį, nepaprastąją padėtį, taip pat ekstremaliąją situaciją ar ekstremalųjį įvykį dėl masinio užsieniečių antplūdžio, šioje dalyje nurodytas 28 dienų terminas pratęsiamas karo padėties, nepaprastosios padėties, dėl masinio užsieniečių antplūdžio paskelbtos ekstremaliosios situacijos ar ekstremaliojo įvykio laikotarpiui ir 28 dienoms po jų pabaigos, tačiau ne ilgiau kaip 6 mėnesiams.
 
-9. Kai pagal šio straipsnio 4 ar 8 dalį priimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką ir yra šio Įstatymo 113 straipsnio 4 dalyje nurodytas bent vienas užsieniečio sulaikymo pagrindas, Valstybės sienos apsaugos tarnyba kreipiasi į teismą dėl užsieniečio sulaikymo ar alternatyvios sulaikymui priemonės taikymo.
+9. Kai pagal šio straipsnio 4 ar 8 dalį priimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką ir yra šio Įstatymo 113 straipsnio 4 dalyje nurodytas bent vienas užsieniečio sulaikymo pagrindas, Valstybės sienos apsaugos tarnyba kreipiasi į teismą dėl užsieniečio sulaikymo ar alternatyvios sulaikymui priemonės taikymo. Jeigu pagal šio straipsnio 4 ar 8 dalį priimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką ir jo prašymas suteikti prieglobstį nagrinėjamas iš esmės skubos tvarka, toks prieglobsčio prašytojas Valstybės sienos apsaugos tarnybos sprendimu apgyvendinamas šio straipsnio 6 dalyje nurodytose laikino apgyvendinimo vietose, nesuteikiant jam teisės laisvai judėti Lietuvos Respublikos teritorijoje tol, kol įsigalios Migracijos departamento sprendimas, priimtas išnagrinėjus prašymą suteikti prieglobstį iš esmės skubos tvarka.
 
 10. Užsienietis, kuriam buvo išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 41 punkte nustatytu pagrindu, ir jo šeimos nariai, kuriems buvo išduoti leidimai laikinai gyventi šeimos susijungimo su šiuo užsieniečiu pagrindu, gali atvykti į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės, į kurią užsienietis išvyko dirbti aukštos profesinės kvalifikacijos reikalaujančio darbo ir kuri atsisakė jam išduoti leidimą laikinai gyventi, ir tais atvejais, jeigu leidimas laikinai gyventi Lietuvos Respublikoje nebegalioja arba užsieniečio prašymo išduoti leidimą laikinai gyventi toje Europos Sąjungos valstybėje narėje nagrinėjimo laikotarpiu leidimas laikinai gyventi Lietuvos Respublikoje buvo panaikintas. Sprendimą dėl šių užsieniečių įleidimo į Lietuvos Respubliką priima Migracijos departamentas, gavęs kitos Europos Sąjungos valstybės narės, kuri užsieniečiui atsisakė išduoti leidimą laikinai gyventi, prašymą. Šių užsieniečių teisinė padėtis Lietuvos Respublikoje nustatoma pagal šį Įstatymą.
 
 11. Užsienietis, kuriam buvo išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 42 punkte nustatytu pagrindu, išskyrus leidimą laikinai gyventi, išduotą pagal šio Įstatymo 442 straipsnio 9 dalį, ir jo šeimos nariai, kuriems buvo išduoti leidimai laikinai gyventi šeimos susijungimo su šiuo užsieniečiu pagrindu, gali atvykti į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės, kurioje į priimančiąją įmonę užsienietis buvo perkeltas įmonės viduje, ir tais atvejais, jeigu leidimas laikinai gyventi Lietuvos Respublikoje nebegalioja arba užsieniečio perkėlimo įmonės viduje į priimančiąją įmonę kitoje Europos Sąjungos valstybėje narėje laikotarpiu leidimas laikinai gyventi Lietuvos Respublikoje buvo panaikintas. Sprendimą dėl šių užsieniečių įleidimo į Lietuvos Respubliką priima Migracijos departamentas, gavęs kitos Europos Sąjungos valstybės narės, į kurią užsienietis buvo perkeltas įmonės viduje, prašymą. Šių užsieniečių teisinė padėtis Lietuvos Respublikoje nustatoma pagal šį Įstatymą.
 
-12. Užsienietis, kuriam buvo išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 6 ar 13 punkte nustatytu pagrindu, ir jo šeimos nariai, kuriems buvo išduoti leidimai laikinai gyventi šeimos susijungimo su šiuo užsieniečiu pagrindu, gali atvykti į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės, į kurią užsienietis išvyko tęsti dalį studijų arba vykdyti dalį savo mokslinių tyrimų ir eksperimentinės plėtros darbų, ir tais atvejais, jeigu leidimas laikinai gyventi Lietuvos Respublikoje buvimo kitoje Europos Sąjungos valstybėje narėje laikotarpiu tapo negaliojančiu arba buvo panaikintas. Sprendimą dėl šių užsieniečių įleidimo į Lietuvos Respubliką priima Migracijos departamentas, gavęs kitos Europos Sąjungos valstybės narės, kuri užsienietį įpareigojo išvykti, prašymą. Šių užsieniečių teisinė padėtis Lietuvos Respublikoje nustatoma pagal šį Įstatymą.
+12. Užsienietis, kuriam buvo išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 6 ar 13 punkte nustatytu pagrindu, ir jo šeimos nariai, kuriems buvo išduoti leidimai laikinai gyventi šeimos susijungimo su šiuo užsieniečiu pagrindu, gali atvykti į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės, į kurią užsienietis išvyko tęsti dalį studijų arba vykdyti dalį savo mokslinių tyrimų ir eksperimentinės plėtros darbų, ir tais atvejais, jeigu leidimas laikinai gyventi Lietuvos Respublikoje buvimo kitoje Europos Sąjungos valstybėje narėje laikotarpiu tapo negaliojantis arba buvo panaikintas. Sprendimą dėl šių užsieniečių įleidimo į Lietuvos Respubliką priima Migracijos departamentas, gavęs kitos Europos Sąjungos valstybės narės, kuri užsienietį įpareigojo išvykti, prašymą. Šių užsieniečių teisinė padėtis Lietuvos Respublikoje nustatoma pagal šį Įstatymą.
 
 Straipsnio pakeitimai:
 
@@ -3245,6 +3287,8 @@ Straipsnio pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 6 straipsnis. Pareiga turėti galiojantį kelionės dokumentą
 
@@ -4562,7 +4606,11 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 79 straipsnis. Prieglobsčio prašytojo apgyvendinimas Lietuvos Respublikoje
 
-1. Migracijos departamentas priima sprendimą dėl prieglobsčio prašytojo apgyvendinimo, išskyrus atvejus, kai prieglobsčio prašytojas yra sulaikytas arba jam skirta alternatyvi sulaikymui priemonė Lietuvos Respublikos įstatymų nustatyta tvarka.
+1. Migracijos departamentas priima sprendimą dėl prieglobsčio prašytojo apgyvendinimo, išskyrus atvejus, kai prieglobsčio prašytojas yra sulaikytas, jam skirta alternatyvi sulaikymui priemonė Lietuvos Respublikos įstatymų nustatyta tvarka arba kai jis apgyvendinamas įgalioto Valstybės sienos apsaugos tarnybos pareigūno sprendimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 2. Prieglobsčio prašytojai, išskyrus nurodytus šio Įstatymo 5 straipsnio 6 dalyje, laikinai apgyvendinami Valstybės sienos apsaugos tarnyboje arba Pabėgėlių priėmimo centre. Prieglobsčio prašytojai gali būti apgyvendinami ir kitose apgyvendinimo vietose. Prieglobsčio prašytojui Migracijos departamento sprendimu gali būti leista apsigyventi ir jo pasirinktoje gyvenamojoje vietoje, jeigu pats prieglobsčio prašytojas to pageidauja.
 
@@ -4582,7 +4630,11 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
-4. Nelydimas nepilnametis prieglobsčio prašytojas vidaus reikalų ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka apgyvendinamas pas pilnamečius giminaičius, atstovą arba Pabėgėlių priėmimo centre, jeigu jo atstovas tam neprieštarauja. Sprendžiant dėl nelydimo nepilnamečio apgyvendinimo, atsižvelgiama į nepilnamečio nuomonę pagal jo amžių ir brandą. Pabėgėlių priėmimo centrą steigia, reorganizuoja ir likviduoja socialinės apsaugos ir darbo ministras.
+4. Nelydimas nepilnametis prieglobsčio prašytojas vidaus reikalų ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka apgyvendinamas pas pilnamečius giminaičius, atstovą arba Pabėgėlių priėmimo centre, jeigu jo atstovas tam neprieštarauja. Sprendžiant dėl nelydimo nepilnamečio apgyvendinimo, atsižvelgiama į nepilnamečio nuomonę pagal jo amžių ir brandą. Pabėgėlių priėmimo centrą steigia, reorganizuoja ir likviduoja socialinės apsaugos ir darbo ministras. Paskelbus karo padėtį, nepaprastąją padėtį, taip pat ekstremaliąją situaciją ar ekstremalųjį įvykį dėl masinio užsieniečių antplūdžio, nelydimas nepilnametis prieglobsčio prašytojas gali būti apgyvendinamas ir kitose apgyvendinimo vietose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 5. Pažeidžiami asmenys ir jų šeimos nariai gali būti apgyvendinti kitose apgyvendinimo vietose, atitinkančiose jų specialiuosius poreikius. Pažeidžiamiems asmenims Migracijos departamento sprendimu, kai tai įmanoma, leidžiama apsigyventi su teisėtai Lietuvos Respublikos teritorijoje esančiu pilnamečiu artimuoju giminaičiu arba atstovu.
 
@@ -5010,17 +5062,9 @@ Straipsnio pakeitimai:
 
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
-X SKYRIUS
+IX1 SKYRIUS
 
-SPRENDIMŲ DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES APSKUNDIMAS TEISMUI
-
-Skyriaus pavadinimas keistas:
-
-Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
-
-Pakeistas skyriaus pavadinimas:
-
-Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
+SPRENDIMŲ DĖL PRAŠYMŲ SUTEIKTI PRIEGLOBSTĮ APSKUNDIMAS IKITEISMINE TVARKA
 
 137 straipsnis. Skundo padavimas
 
@@ -5036,7 +5080,11 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 1. Užsienietis skundą dėl sprendimo, priimto pagal šį Įstatymą, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, gali paduoti atitinkamam apygardos administraciniam teismui per 14 dienų nuo sprendimo įteikimo dienos.
 
-2. Skundą dėl sprendimo nesuteikti prieglobsčio, priimto išnagrinėjus prašymą suteikti prieglobstį iš esmės skubos tvarka, ir dėl sprendimo, priimto pagal šio Įstatymo 77 straipsnio 2 dalį, prieglobsčio prašytojas gali paduoti atitinkamam apygardos administraciniam teismui per 7 dienas nuo sprendimo įteikimo dienos.
+2. Skundą dėl šio Įstatymo 1352 straipsnio 1 dalyje nurodyto sprendimo užsienietis gali paduoti apygardos administraciniam teismui per 7 dienas nuo sprendimo įteikimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 Straipsnio pakeitimai:
 
@@ -5052,13 +5100,11 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 1) panaikinamas užsieniečio leidimas gyventi, išskyrus atvejus, kai sprendimas panaikinti leidimą laikinai gyventi priimtas šio Įstatymo 50 straipsnio 1 dalies 14 punkte nurodytu pagrindu, o leidimas nuolat gyventi – šio Įstatymo 54 straipsnio 1 dalies 2 ar 21 punkte nurodytais pagrindais;
 
-Straipsnio punkto pakeitimai:
+2) kai nutraukiamas prašymo suteikti prieglobstį nagrinėjimas arba suteiktas prieglobstis panaikinamas ir užsienietis išsiunčiamas iš Lietuvos Respublikos arba grąžinamas į užsienio valstybę.
 
-Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+Straipsnio dalies pakeitimai:
 
-2) užsieniečio, atvykusio į Lietuvos Respubliką iš saugios trečiosios valstybės, prašymas suteikti prieglobstį nenagrinėjamas ir jis grąžinamas arba išsiunčiamas iš Lietuvos Respublikos į saugią trečiąją valstybę;
-
-3) užsieniečiui atsisakoma suteikti prieglobstį, išskyrus atvejį, kai sprendimas priimtas prašymą suteikti prieglobstį išnagrinėjus iš esmės skubos tvarka, nutraukiamas prašymo suteikti prieglobstį nagrinėjimas arba suteiktas prieglobstis panaikinamas ir jis išsiunčiamas iš Lietuvos Respublikos arba grąžinamas į užsienio valstybę.
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 
 2. Šio straipsnio 1 dalyje nenustatytais atvejais apskųsto sprendimo vykdymas gali būti sustabdomas atitinkamo administracinio teismo nutartimi dėl reikalavimo užtikrinimo priemonių. Teismas nutartį dėl reikalavimo užtikrinimo priemonių, kai skundas pateiktas šio Įstatymo 138 straipsnio 2 dalyje nustatytais atvejais, priima ne vėliau kaip per 2 dienas nuo prašymo taikyti tokias priemones gavimo dienos, o jeigu toks prašymas pateikiamas kartu su skundu, – nuo skundo gavimo dienos.
 
@@ -5483,6 +5529,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-378, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13520
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 1 straipsnio pakeitimo įstatymas
+
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 5, 71, 76, 77, 79, 113, 131, 136, 138, 139, 140 straipsnių pakeitimo ir Įstatymo papildymo IX-1  skyriumi įstatymas
 
 341 straipsnis. Leidimo gyventi išdavimas, keitimas ir naujas įforminimas skubos tvarka
 
@@ -5981,4 +6035,34 @@ Užsieniečių, sulaikytų ilgiau kaip 48 valandoms, arba užsieniečių, kuriem
 Papildyta straipsniu:
 
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+
+1351 straipsnis. Skundo padavimas
+
+1. Skundas dėl sprendimų, nurodytų šio Įstatymo 77 straipsnio 1 dalyje, 86 straipsnio 3 dalyje ir 87 straipsnio 3 dalyje, vidaus reikalų ministro nustatyta tvarka gali būti paduotas Migracijos departamentui per 7 dienas nuo užsieniečio supažindinimo su sprendimu dienos.
+
+2. Šio straipsnio 1 dalyje nurodytą skundą dėl sprendimo, priimto nagrinėjant pagal šio Įstatymo 67 straipsnio 2 dalį pateiktą prašymą, gali paduoti užsienietis, pateikęs prašymą savo, kitų šeimos narių vardu, arba bet kuris pilnametis tos šeimos narys.
+
+3. Šio straipsnio 1 dalyje nurodyti skundai privalomai ikiteismine tvarka nagrinėjami Migracijos departamente.
+
+1352  straipsnis. Skundo nagrinėjimas ir sprendimo priėmimas
+
+1. Migracijos departamentas šio Įstatymo 1351 straipsnio 1 dalyje nurodytą skundą išnagrinėja ir dėl jo sprendimą priima vidaus reikalų ministro nustatyta tvarka per 7 dienas nuo šio Įstatymo 1351 straipsnio 1 dalyje nurodyto skundo gavimo.
+
+2. Šio straipsnio 1 dalyje nurodyto sprendimo apskundimas nesustabdo šio Įstatymo 1351  straipsnio 1 dalyje nurodyto sprendimo vykdymo.
+
+Papildyta skyriumi:
+
+Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
+
+X SKYRIUS
+
+SPRENDIMŲ DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES APSKUNDIMAS TEISMUI
+
+Skyriaus pavadinimas keistas:
+
+Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
