@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2021-07-02"
+last_updated: "2021-07-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2021-07-02 iki 2021-07-22
+Suvestinė redakcija nuo 2021-07-23 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -1279,7 +1279,11 @@ Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 
 2) jeigu paaiškėja, kad byla buvo priimta teismo žinion pažeidžiant priskirtinumo teismams taisykles;
 
-3) pripažinęs, kad byla operatyviau ir ekonomiškiau bus išnagrinėta kitame teisme, o kai teismas sudarytas iš teismo rūmų, – to teismo kituose teismo rūmuose, konkrečiai – pagal pareiškėjo ar daugumos pareiškėjų, jei skundą (prašymą, pareiškimą) padavė ne vienas asmuo, gyvenamąją vietą ar buveinę arba pagal nekilnojamojo turto, tiesiogiai susijusio su kilusiu ginču, buvimo vietą, arba pagal ginčijamo teisės akto priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas teisės aktas, vietą.
+3) pripažinęs, kad byla operatyviau ir ekonomiškiau bus išnagrinėta kitame teisme, o kai teismas sudarytas iš teismo rūmų, – to teismo kituose teismo rūmuose, konkrečiai – pagal pareiškėjo ar daugumos pareiškėjų, jei skundą (prašymą, pareiškimą) padavė ne vienas asmuo, gyvenamąją vietą ar buveinę arba pagal nekilnojamojo turto, tiesiogiai susijusio su kilusiu ginču, buvimo vietą, arba pagal ginčijamo teisės akto priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas teisės aktas, vietą, arba atsižvelgęs į kitas faktines aplinkybes, susijusias su pagrįstu tolygaus darbo krūvio paskirstymu konkrečios kategorijos bylų nagrinėjimo atvejais.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-508, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16269
 
 2. Bylos perdavimo iš vieno teismo kitam teismui klausimą išsprendžia bylą perduodančio teismo teisėjų kolegija arba Lietuvos vyriausiojo administracinio teismo pirmininkas, o bylos perdavimo iš vieno teismo kitam teismui šio straipsnio 1 dalies 3 punkte nustatytais atvejais klausimą – Lietuvos vyriausiojo administracinio teismo pirmininkas bylą perduodančio teismo pirmininko teikimu. Bylos perdavimo to paties teismo kitiems teismo rūmams klausimą išsprendžia šio teismo pirmininkas.
 
