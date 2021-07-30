@@ -4,7 +4,7 @@ identifier: "TAR.B8B6AFC2BFF1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-03-23"
-last_updated: "2020-11-01"
+last_updated: "2021-07-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2021-07-29
+Suvestinė redakcija nuo 2021-07-30 iki 2023-06-22
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
 
@@ -635,7 +635,11 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 3) priima į darbą ir atleidžia iš darbo Konkurencijos tarybos administracijos darbuotojus;
 
-4) kiekvienais metais teikia Seimui ir Vyriausybei Konkurencijos tarybos veiklos ataskaitas;
+4) kiekvienais metais teikia Seimui ir Vyriausybei Konkurencijos tarybos metinių ataskaitų rinkinį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
 
 5) pasirašo Konkurencijos tarybos nutarimus;
 
@@ -1737,7 +1741,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -1751,11 +1755,15 @@ priedas
 
 2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos direktyva 2014/104/ES dėl tam tikrų taisyklių, kuriomis reglamentuojami pagal nacionalinę teisę nagrinėjami ieškiniai dėl žalos, patirtos dėl valstybių narių ir Europos Sąjungos konkurencijos teisės nuostatų pažeidimo, atlyginimo.
 
-3. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1, kuria siekiama įgalinti valstybių narių konkurencijos institucijas, kad jos būtų veiksmingesnės vykdymo užtikrintojos, ir kuria užtikrinamas tinkamas vidaus rinkos veikimas.
+3. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1151.
+
+4. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1, kuria siekiama įgalinti valstybių narių konkurencijos institucijas, kad jos būtų veiksmingesnės vykdymo užtikrintojos, ir kuria užtikrinamas tinkamas vidaus rinkos veikimas.
 
 Priedo pakeitimai:
 
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
+
+Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
 
 Pakeitimai:
 
@@ -1902,4 +1910,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 1, 3, 11, 16, 17, 18, 19, 21, 22, 25, 26, 27, 29, 32, 33, 35, 36, 37, 38, 38-1, 40, 45, 53, 55, 57 straipsnių, priedo pakeitimo ir Įstatymo papildymo 39-1 straipsniu, VIII skyriumi įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
+
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 20, 41 straipsnių ir priedo pakeitimo įstatymas
 
