@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2021-07-15"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-07-15 iki 2021-07-31
+Suvestinė redakcija nuo 2021-08-01 iki 2021-10-08
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -697,23 +697,25 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 
-11 straipsnis. Konkursas ir jo rezultatai
+11 straipsnis. Konkursas ir pakaitinių karjeros valstybės tarnautojų atranka
 
-1. Pagal valstybės ir savivaldybių institucijų ir įstaigų poreikį konkursus į įstaigų vadovų ir karjeros valstybės tarnautojų bei atrankas į pakaitinių valstybės tarnautojų pareigas Vyriausybės nustatyta tvarka pagal patvirtintus ir viešai paskelbtus vertinimo metodus ir kriterijus centralizuotai organizuoja Vyriausybės įgaliota įstaiga.
+1. Pagal valstybės ir savivaldybių institucijų ir įstaigų poreikį konkursus į įstaigų vadovų ir karjeros valstybės tarnautojų pareigas Vyriausybės nustatyta tvarka pagal patvirtintus ir viešai paskelbtus vertinimo metodus ir kriterijus centralizuotai organizuoja Vyriausybės įgaliota įstaiga.
 
-2. Į įstaigos vadovo, įstaigos vadovo pavaduotojo ir įstaigos padalinio vadovo pareigas priimančiam asmeniui Vyriausybės įgaliota įstaiga atrenka 2 geriausiai centralizuotame konkurse įvertintus pretendentus.
+2. Į įstaigos vadovo, įstaigos vadovo pavaduotojo ir įstaigos padalinio vadovo, išskyrus pakaitinį karjeros valstybės tarnautoją, pareigas priimančiam asmeniui Vyriausybės įgaliota įstaiga atrenka 2 geriausiai centralizuotame konkurse įvertintus pretendentus.
 
-Straipsnio dalies pakeitimai:
+3. Galutinį sprendimą dėl šio straipsnio 2 dalyje nurodytų pretendentų priėmimo į valstybės tarnautojo pareigas priima į pareigas priimantis asmuo.
 
-Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
+4. Vyriausybės įgaliota įstaiga atrenka valstybės tarnautojus į šio straipsnio 2 dalyje nenurodytas valstybės tarnautojų pareigas, išskyrus pakaitinio karjeros valstybės tarnautojo pareigas.
 
-3. Į pareigas priimantis asmuo priima galutinį sprendimą, kurį iš šio straipsnio 2 dalyje nurodytų pretendentų priimti į valstybės tarnautojo pareigas.
+5. Valstybės ar savivaldybės institucijoje ar įstaigoje į pareigas priimantis asmuo ir (ar) jo įgalioti asmenys dalyvauja centralizuoto konkurso procedūrose.
 
-4. Vyriausybės įgaliota įstaiga atrenka valstybės tarnautojus į šio straipsnio 2 dalyse nenurodytas valstybės tarnautojų pareigas.
+6. Pakaitinių karjeros valstybės tarnautojų atranką Vyriausybės nustatyta tvarka organizuoja atranką paskelbusios valstybės ar savivaldybių institucijos ar įstaigos.
 
-5. Valstybės ar savivaldybės institucijos ar įstaigos į pareigas priimantis asmuo ir (ar) jo įgalioti asmenys dalyvauja centralizuoto konkurso procedūrose.
+7. Vyriausybės nustatyta tvarka konkurso ir atrankos į pakaitinio karjeros valstybės tarnautojo pareigas metu stebėtojo teisėmis gali dalyvauti valstybės ar savivaldybės institucijoje ar įstaigoje veikiančios profesinės sąjungos ar darbo tarybos atstovai bei kiti visuomenės atstovai.
 
-6. Vyriausybės nustatyta tvarka konkurso metu stebėtojo teisėmis gali dalyvauti valstybės ar savivaldybės institucijoje ar įstaigoje veikiančios profesinės sąjungos ar darbo tarybos atstovai bei kiti visuomenės atstovai.
+Straipsnio pakeitimai:
+
+Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 
 12 straipsnis. Priėmimas į karjeros valstybės tarnautojų pareigas
 
@@ -829,7 +831,13 @@ Nr. XIII-2610, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20634
 
 9) į karjerą valstybės tarnyboje pagal turimą kvalifikaciją;
 
-10) į saugias ir sveikatai nekenksmingas darbo sąlygas ir būti aprūpinti kokybiška darbo įranga ir priemonėmis, o naudodami asmeninę įrangą ir priemones, – į kompensaciją už jų naudojimą.
+10) į saugias ir sveikatai nekenksmingas darbo sąlygas ir būti aprūpinti kokybiška darbo įranga ir priemonėmis, o naudodami asmeninę įrangą ir priemones, – į kompensaciją už jų naudojimą;
+
+11) į ne trumpesnę negu vieno mėnesio nuo priėmimo, perkėlimo ar grįžimo į pareigas dienos adaptaciją valstybės ar savivaldybės institucijos ar įstaigos nustatyta tvarka.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 
 2. Teisę atkurti karjeros valstybės tarnautojo statusą – Vyriausybės nustatyta tvarka grįžti į eitas arba, jeigu nėra galimybės, kitas lygiavertes ar žemesnes karjeros valstybės tarnautojo pareigas toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje – ir teisę atkurti įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymuose nustatytai kadencijai) statusą – Vyriausybės nustatyta tvarka grįžti į eitas arba, jeigu nėra galimybės, kitas lygiavertes ar žemesnes įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje – turi savo noru iš karjeros valstybės tarnautojo arba įstaigos vadovo pareigų dėl šių priežasčių atsistatydinę asmenys:
 
