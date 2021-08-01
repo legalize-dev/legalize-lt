@@ -4,7 +4,7 @@ identifier: "TAR.AB0DC76B69A0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-06"
-last_updated: "2019-01-01"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0DC76B69A0"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2019-01-01 iki 2021-07-31
+Suvestinė redakcija nuo 2021-08-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
 
@@ -56,7 +56,13 @@ Nr. XI-83, 2008-12-19, Žin., 2008, Nr. 149-6009 (2008-12-30), i. k. 1081010ISTA
 
 1) pareiginės algos;
 
-2) priedo už ištarnautus Lietuvos valstybei metus.
+2) priedo už ištarnautus Lietuvos valstybei metus;
+
+3) priemokos už padidėjusį darbo krūvį.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-509, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16270
 
 3. Bendrosios kompetencijos ir specializuotų teismų teisėjų pareiginė alga apskaičiuojama atitinkamos pareiginės algos koeficientą, nustatytą šio įstatymo priedėlyje, padauginus iš bazinio dydžio.
 
@@ -88,7 +94,7 @@ Kol bus patvirtintas naujas bazinis dydis, skaičiuojant teisėjų atlyginimus, 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -337,4 +343,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1689, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20188
 
 Lietuvos Respublikos teisėjų atlyginimų įstatymo Nr. X-1771 priedėlio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-509, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16270
+
+Lietuvos Respublikos teisėjų atlyginimų įstatymo Nr. X-1771 4 straipsnio pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
+
+51 straipsnis. Priemoka už padidėjusį darbo krūvį
+
+1. Bendrosios kompetencijos ar specializuoto teismo teisėjui mokama ne didesnė kaip 30 procentų jo pareiginės algos dydžio priemoka už padidėjusį darbo krūvį, kai yra padidėjęs darbų mastas dėl iš anksto nenumatytų priežasčių žymiai padaugėjus gaunamų nagrinėti tam tikros kategorijos bylų per mėnesį.
+
+2. Priemokų už padidėjusį darbo krūvį skyrimo ir mokėjimo bendrosios kompetencijos ir specializuotų teismų teisėjams tvarką nustato Teisėjų taryba. Bendrosios kompetencijos ir specializuotų teismų teisėjams mokamos priemokos už padidėjusį darbo krūvį dydį nustato bendrosios kompetencijos ar  specializuoto teismo pirmininkas.
+
+Papildyta straipsniu:
+
+Nr. XIV-509, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16270
 
