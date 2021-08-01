@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2021-07-01"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-07-31
+Suvestinė redakcija nuo 2021-08-01 iki 2021-10-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -601,15 +601,27 @@ Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 19 straipsnis. Ūkinės veiklos objektų eksploatavimas
 
-Fizinis asmuo, juridinis asmuo ar jo padalinys (įskaitant užsienio valstybės juridinį asmenį ir kitą organizaciją, taip pat jų padalinį) (toliau šiame straipsnyje ir šio įstatymo 191, 192 ir 193 straipsniuose – fizinis ar juridinis asmuo), prieš pradėdamas eksploatuoti ūkinės veiklos objektą ir vykdyti ūkinę veiklą, privalo šio ir kitų įstatymų nustatytais atvejais gauti taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą (toliau – leidimas) arba įrenginį įregistruoti.
+Fizinis ar juridinis asmuo, prieš pradėdamas eksploatuoti ūkinės veiklos objektą ir vykdyti ūkinę veiklą, privalo šio ir kitų įstatymų nustatytais atvejais gauti taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą (toliau – leidimas) arba įrenginį įregistruoti. Apie planuojamą ūkinės veiklos objekto, kuriam išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas, eksploatavimo ir ūkinės veiklos vykdymo pradžią fizinis ar juridinis asmuo turi aplinkos ministro nustatyta tvarka informuoti aplinkos ministro įgaliotą instituciją. Aplinkos ministro įgaliota institucija prieš fiziniam ar juridiniam asmeniui pradedant eksploatuoti ūkinės veiklos objektą ir vykdyti ūkinę veiklą aplinkos ministro nustatyta tvarka patikrina, ar ūkinės veiklos objekte įgyvendintos leidime nurodytos sąlygos, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios. Pradėti eksploatuoti ūkinės veiklos objektą ir (ar) vykdyti ūkinę veiklą galima tik aplinkos ministro nustatyta tvarka aplinkos ministro įgaliotai institucijai įsitikinus, kad ūkinės veiklos objektas atitinka šias sąlygas. Toks patikrinimas nemažina fizinio ar juridinio asmens atsakomybės dėl leidime nurodytų sąlygų laikymosi.
 
-Fizinis ar juridinis asmuo ūkinės veiklos objektą eksploatuoja pagal leidime nustatytas sąlygas ir neviršydamas aplinkos apsaugos normatyvų bei standartų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
+
+Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai reikalingas leidimas, privalo laikytis leidime nustatytų sąlygų ir tokiems objektams eksploatuoti ir (ar) ūkinei veiklai vykdyti nustatytų aplinkos apsaugos normatyvų ir aplinkos apsaugos standartų. Vykdant leidime nurodytą ūkinę veiklą, kietosios medžiagos (šalutiniai produktai, nurodyti Lietuvos Respublikos atliekų tvarkymo įstatyme, atliekos, žaliavos ir produktai) už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų gali patekti tik tokiais atvejais, kiekiais ir būdais, kaip tai numatyta leidimo sąlygose ir (ar) aplinkos apsaugos normatyvuose bei aplinkos apsaugos standartuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 
 Fizinis ar juridinis asmuo, eksploatuodamas ūkinės veiklos objektą, kurio veikla susijusi su kenksmingu poveikiu aplinkai, privalo savo lėšomis stebėti aplinkos teršimo laipsnį, teršimo poveikį aplinkai, užtikrinti informacijos apie tai viešumą ir sudaryti sąlygas teršimo kontrolei.
 
 Fizinis ar juridinis asmuo, eksploatuodamas ūkinės veiklos objektą, privalo nustatyta tvarka vykdyti gamtos išteklių naudojimo ir išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų apskaitą.
 
-Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai nereikalingas leidimas, privalo laikytis tokiems objektams bei veiklai nustatytų aplinkos apsaugos normatyvų ir standartų.
+Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai nereikalingas leidimas, privalo laikytis tokiems objektams eksploatuoti ir (ar) ūkinei veiklai vykdyti nustatytų aplinkos apsaugos normatyvų ir aplinkos apsaugos standartų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 
 Straipsnio pakeitimai:
 
@@ -3205,6 +3217,14 @@ Nr. XIV-333, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12771
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37 straipsnio pakeitimo įstatymas
 
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-227, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07421
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, 127 straipsnių pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymo Nr. XIII-2795 10 straipsnio pakeitimo įstatymas
+
 193 straipsnis. Įrenginių registravimas
 
 Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame straipsnyje suprantamas kaip stacionarus technikos objektas, kuriame vykdant aplinkos ministro patvirtintose Lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikrų veiklos rūšių įrenginiuose, išmetimo ribojimo ir įrenginių registravimo taisyklėse (toliau – LOJ taisyklės) nurodytą vienos arba kelių rūšių veiklą, taip pat kitą toje pačioje vietoje vykdomą tiesiogiai techniškai susijusią veiklą, kurios metu išmetami lakieji organiniai junginiai, suvartojamas organinio tirpiklio kiekis atitinka LOJ taisyklėse nurodytąjį. Šios taisyklės nustato įrenginių įregistravimo, registracijos duomenų teikimo, tikslinimo ir įrenginių išregistravimo tvarką.
@@ -3400,4 +3420,14 @@ Požeminio vandens gavybos gręžinio naudojimas nenustačius požeminio vandens
 Papildyta straipsniu:
 
 Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
+
+551 straipsnis. Juridinių asmenų atsakomybė už neteisėtą šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimą už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai ūkinės veiklos objektui eksploatuoti ar ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas
+
+Šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimas už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai tokios ūkinės veiklos objektui eksploatuoti ar tokiai ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas ir kai tai nenumatyta leidimo sąlygose, aplinkos apsaugos normatyvuose ir aplinkos apsaugos standartuose, užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+Šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimas už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai tokios ūkinės veiklos objektui eksploatuoti ar tokiai ūkinei veiklai vykdyti išduotas taršos leidimas ir kai tai nenumatyta leidimo sąlygose, aplinkos apsaugos normatyvuose ir aplinkos apsaugos standartuose, užtraukia baudą nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+Papildyta straipsniu:
+
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 
