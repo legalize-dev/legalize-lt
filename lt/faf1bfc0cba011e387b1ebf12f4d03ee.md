@@ -4,7 +4,7 @@ identifier: "faf1bfc0cba011e387b1ebf12f4d03ee"
 country: "lt"
 rank: "istatymas"
 publication_date: "2014-04-17"
-last_updated: "2014-04-25"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/faf1bfc0cba011e387b1ebf12f4d03ee"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Nacionalinio vėžio instituto įstatymas
+
+Suvestinė redakcija nuo 2021-08-01
+
+Įstatymas paskelbtas: TAR 2014-04-24, i. k. 2014-04697
 
 LIETUVOS RESPUBLIKOS
 
@@ -63,17 +67,21 @@ Instituto veiklos tikslai:
 
 9) pagal savo kompetenciją atstovauti Lietuvos onkologijai Europos ir tarptautinėse organizacijose ir Lietuvai sprendžiant su vėžio kontrole susijusius klausimus.
 
-3 straipsnis. Instituto steigimo sąlygos
+3 straipsnis. Instituto statusas
 
-1. Instituto steigėja – Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
+1. Instituto steigėja – Lietuvos Respublikos Vyriausybė.
 
 2. Institutas steigiamas Vilniaus universiteto Onkologijos instituto, įmonės kodas 111959420, pagrindu Lietuvos Respublikos mokslo ir studijų įstatymo nustatyta tvarka.
 
-2. Instituto teisinė forma – biudžetinė įstaiga.
+3. Instituto teisinė forma – viešoji įstaiga.
 
-3. Instituto buveinės adresas – Santariškių g. 1, LT-08660 Vilnius.
+4. Instituto buveinės adresas – Santariškių g. 1, LT-08660 Vilnius.
 
-4. Į tvirtinamą Instituto struktūrą įtraukiama klinika.
+5. Į tvirtinamą Instituto struktūrą įtraukiama klinika.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-372, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13180
 
 4 straipsnis. Instituto įsteigimo terminas
 
@@ -86,4 +94,14 @@ Vyriausybė iki 2014 m. liepos 1 d. reorganizuoja Vilniaus universiteto Onkologi
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-372, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13180
+
+Lietuvos Respublikos Nacionalinio vėžio instituto įstatymo Nr. XII-838 3 straipsnio pakeitimo įstatymas
 
