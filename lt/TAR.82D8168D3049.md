@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2021-07-01"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-08-01
+Suvestinė redakcija nuo 2021-08-02 iki 2021-11-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -1288,6 +1288,12 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
 
+7. Ypatingų aplinkybių ar kitų aplinkybių, dėl kurių yra kilusi grėsmė žmonių gyvybei, sveikatai ir (ar) saugumui užsienio valstybėje ar jos tam tikroje dalyje, atvejais, siekiant užtikrinti konsulinės pagalbos teikimą, Lietuvos Respublikos užsienio reikalų ministerijos prašymu viešųjų judriojo telefono ryšio paslaugų teikėjai Užsienio reikalų ministerijai teikia konsulinės pagalbos teikimo poreikiui ir mastui nustatyti reikalingą informaciją apie užsienio valstybėje esančių faktinių viešųjų judriojo telefono ryšio paslaugų naudotojų skaičių ir (arba) siunčia Užsienio reikalų ministerijos nustatyto turinio pranešimus užsienio valstybėje ar jos tam tikroje dalyje esantiems faktiniams viešųjų judriojo telefono ryšio paslaugų naudotojams. Lietuvos Respublikos užsienio reikalų ministras nustato šioje dalyje nurodytos informacijos gavimo iš viešųjų judriojo telefono ryšio paslaugų teikėjų ir su šioje dalyje nurodytų viešųjų judriojo telefono ryšio paslaugų teikėjų pareigų vykdymu susijusių patirtų išlaidų, neviršijančių Užsienio reikalų ministerijos prašymu suteiktų paslaugų sąnaudų, kompensavimo tvarką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-348, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12504
+
 Straipsnio pakeitimai:
 
 Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
@@ -1568,7 +1574,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 LAIKINAI EINANTIS
 
-RESPUBLIKOS PREZIDENTO PAREIGAS                                 ARTŪRAS PAULAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                   ARTŪRAS PAULAUSKAS
 
 Lietuvos Respublikos
 
@@ -2019,6 +2025,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-363, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13171
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 38-1 ir 39 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-348, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12504
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 68 straipsnio pakeitimo įstatymas
 
 3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
