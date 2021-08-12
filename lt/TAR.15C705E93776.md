@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2021-07-01"
+last_updated: "2021-08-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-08-11
+Suvestinė redakcija nuo 2021-08-12 iki 2021-12-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -2171,7 +2171,7 @@ IR VALDYMO PAGRINDAI
 
 3. Nustatomi šie karių laipsniai:
 
-Sausumos, specialiųjų operacijų                                           Karinių jūrų pajėgų karių
+Sausumos, specialiųjų operacijų                                             Karinių jūrų pajėgų karių
 
 ir karinių oro pajėgų karių
 
@@ -2181,39 +2181,39 @@ jaunesnysis eilinis                               
 
 eilinis                                                                                    jūreivis
 
-vyresnysis eilinis                                                                  vyresnysis jūreivis
+vyresnysis eilinis                                                                   vyresnysis jūreivis
 
 2) puskarininkių
 
-grandinis                                                                               grandinis
+grandinis                                                                              grandinis
 
-seržantas, seržantas specialistas                       seržantas, seržantas specialistas
+seržantas, seržantas specialistas                        seržantas, seržantas specialistas
 
-vyresnysis seržantas, vyresnysis seržantas       vyresnysis seržantas, vyresnysis
+vyresnysis seržantas, vyresnysis seržantas          vyresnysis seržantas, vyresnysis
 
-specialistas                                                                            seržantas specialistas
+specialistas                                                                           seržantas specialistas
 
-štabo seržantas, štabo seržantas                       štabo laivūnas, štabo laivūnas
+štabo seržantas, štabo seržantas     štabo laivūnas, štabo laivūnas
 
-specialistas                                                                            specialistas
+specialistas                                                                           specialistas
 
-viršila                                                                                    laivūnas
+viršila                                                                                   laivūnas
 
 seržantas majoras                                                                  vyresnysis laivūnas
 
 3) jaunesniųjų karininkų
 
-leitenantas                                                                             leitenantas
+leitenantas                                                                            leitenantas
 
-vyresnysis leitenantas                                                           vyresnysis leitenantas
+vyresnysis leitenantas                                                            vyresnysis leitenantas
 
-kapitonas                                                                              kapitonas leitenantas
+kapitonas                                                                              kapitonas leitenantas
 
 4) vyresniųjų karininkų
 
-majoras                                                                                 komandoras leitenantas
+majoras                                                                                komandoras leitenantas
 
-pulkininkas leitenantas                                                         komandoras
+pulkininkas leitenantas                                                          komandoras
 
 pulkininkas                                                                           jūrų kapitonas
 
@@ -3403,7 +3403,7 @@ Atskirų šio įstatymo normų įgyvendinimo tvarką nustato Krašto apsaugos si
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                       VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -3933,7 +3933,11 @@ Nr. XII-1450, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20790
 
 1. Kariniai vienetai gali būti pasitelkiami teikiant pagalbą kitoms valstybės ir savivaldybių institucijoms šiais atvejais:
 
-1) ekstremalių situacijų atvejais, kai įvykio mastas sparčiai didėja, tam tikroms gelbėjimo ir kitų neatidėliotinų darbų užduotims ekstremalios situacijos židinyje atlikti;
+1) ekstremalių situacijų atvejais, kai ekstremaliojo įvykio mastas sparčiai didėja, tam tikroms gelbėjimo ir kitų neatidėliotinų darbų užduotims ekstremalios situacijos židinyje atlikti, taip pat ekstremalių situacijų atvejais, kai ekstremaliojo įvykio mastas sparčiai didėja ir kai, siekiant išvengti grėsmės visuomenės rimčiai, yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos ar Viešojo saugumo tarnybos pajėgoms vykdyti jų funkcijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-512, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17356
 
 2) nepaprastosios padėties atveju, kai Seimo nutarime ar Respublikos Prezidento dekrete dėl nepaprastosios padėties įvedimo nurodoma, kad nepaprastosios padėties metu pasitelkiama Lietuvos kariuomenė;
 
@@ -3971,7 +3975,11 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
-2. Šio straipsnio 1 dalies 1 punkte nurodytais atvejais kariniai vienetai gali būti pasiųsti padėti civilinės saugos sistemos pajėgoms krašto apsaugos ministro įsakymu, gavę Vyriausybės Ekstremalių situacijų komisijos pirmininko arba savivaldybės, kurios teritorijoje yra ekstremalios situacijos židinys, administracijos direktoriaus rašytinį prašymą. Karinių vienetų bei civilinės saugos sistemos pajėgų veiksmai koordinuojami pagal kariuomenės vado ar jo įgaliotų karinių vienetų vadų ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus ar jo įgaliotų civilinės saugos sistemos pareigūnų iš anksto parengtus sąveikos planus.
+2. Šio straipsnio 1 dalies 1 punkte nurodytais atvejais kariniai vienetai gali būti pasiųsti padėti civilinės saugos sistemos pajėgoms krašto apsaugos ministro įsakymu, krašto apsaugos ministrui gavus Vyriausybės ekstremalių situacijų komisijos arba savivaldybės, kurios teritorijoje yra ekstremalios situacijos židinys, administracijos direktoriaus rašytinį prašymą. Karinių vienetų ir civilinės saugos sistemos pajėgų veiksmai koordinuojami pagal kariuomenės vado ar jo įgaliotų karinių vienetų vadų ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus ar jo įgaliotų civilinės saugos sistemos pareigūnų iš anksto parengtus sąveikos planus, išskyrus atvejus, kai, siekiant išvengti grėsmės visuomenės rimčiai, yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos ar Viešojo saugumo tarnybos pajėgoms vykdyti jų funkcijas. Kai, siekiant išvengti grėsmės visuomenės rimčiai, yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos ar Viešojo saugumo tarnybos pajėgoms vykdyti jų funkcijas ir kai šiuo tikslu pasitelkiami kariniai vienetai, karinių vienetų ir šių civilinės saugos sistemos pajėgų veiksmus koordinuoja ekstremalios situacijos operacijų vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-512, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17356
 
 3. Šio straipsnio 1 dalies 2 punkte nurodytu atveju kariniai vienetai siunčiami padėti institucijoms, užtikrinančioms Nepaprastosios padėties įstatymo vykdymą, krašto apsaugos ministro įsakymu, gavę institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovo rašytinį prašymą. Karinių vienetų sąveiką su kitomis valstybės ir savivaldybių institucijomis koordinuoja institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovas.
 
@@ -4023,17 +4031,25 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
-14. Šio straipsnio nurodytais atvejais teikdama pagalbą kitoms valstybės ar savivaldybių institucijoms karinę jėgą kariuomenė gali naudoti tik tiek, kiek yra būtina pagalbos tikslams pasiekti. Karinė jėga naudojama Karinės jėgos naudojimo statute nustatyta tvarka.
+14. Šio straipsnio nurodytais atvejais teikdama pagalbą kitoms valstybės ar savivaldybių institucijoms karinę jėgą kariuomenė gali naudoti tik tiek, kiek yra būtina pagalbos tikslams pasiekti. Karinė jėga naudojama Karinės jėgos naudojimo statute nustatytomis sąlygomis ir tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+
+Nr. XIV-512, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17356
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+
+15. Kariui, kuris atlikdamas tarnybines pareigas teikiant pagalbą kitoms valstybės ar savivaldybių institucijoms viršijo tarnybinės rizikos ribas ir tuo būdu padarė nusikalstamą veiką ar kitokį teisės pažeidimą, ir dėl to tapo įtariamuoju (specialiuoju liudytoju), kaltinamuoju arba kuris nukentėjo atlikdamas jam priskirtas tarnybines funkcijas ar dėl tikrosios karo tarnybos, iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų krašto apsaugos ministro nustatyta tvarka ir dydžiu kompensuojamos teisinės pagalbos išlaidos ar jų dalis. Ši kompensacija skiriama krašto apsaugos ministro ar jo įgalioto asmens sprendimu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-512, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17356
 
 Straipsnio pakeitimai:
 
