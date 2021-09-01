@@ -4,7 +4,7 @@ identifier: "TAR.C15592B096FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-15"
-last_updated: "2021-08-12"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2021-08-12 iki 2021-08-31
+Suvestinė redakcija nuo 2021-09-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
+
+TAR pastaba. Įstatymuose ir kituose teisės aktuose vartojamą sąvoką „privalomi darbai“ atstoja sąvoka „būtinos užduotys“.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 9, 13, 15, 17, 18, 24, 28, 31 ir 32 straipsnių pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2010-01-01:
 
@@ -43,49 +51,71 @@ Bendrosios nuostatos
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Cheminis mišinys – dviejų arba daugiau cheminių medžiagų mišinys arba tirpalas.
+1. Būtinos užduotys – ekstremaliajai situacijai likviduoti ir jos padariniams šalinti skubiai būtini atlikti darbai, kurių neatlikus atsirastų arba galėtų atsirasti žala nacionaliniam saugumui, gyventojams, aplinkai ar turtui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+2. Cheminis mišinys – dviejų arba daugiau cheminių medžiagų mišinys arba tirpalas.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-2. Civilinė sauga – veikla, apimanti valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir gyventojų pasirengimą ekstremaliosioms situacijoms, veiksmus joms gresiant ar susidarius, ekstremaliųjų situacijų likvidavimą ir jų padarinių šalinimą.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+3. Civilinė sauga – veikla, apimanti valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir gyventojų pasirengimą ekstremaliosioms situacijoms, veiksmus joms gresiant ar susidarius, ekstremaliųjų situacijų likvidavimą ir jų padarinių šalinimą.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-3. Civilinės saugos sistemos parengtis – civilinės saugos sistemos subjektų pasirengimas reaguoti į susidariusią ekstremaliąją situaciją.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+4. Civilinės saugos sistemos parengtis – civilinės saugos sistemos subjektų pasirengimas reaguoti į susidariusią ekstremaliąją situaciją.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-4. Civilinės saugos pratybos – valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų mokymas ir civilinės saugos sistemos parengties patikrinimas, kai tariamomis ekstremaliosiomis sąlygomis tikrinami veiksmai ir procedūros, numatytos ekstremaliųjų situacijų valdymo planuose, tobulinami valdymo įgūdžiai, mokomasi praktiškai organizuoti gyventojų ir turto apsaugą nuo ekstremaliųjų situacijų poveikio ir atlikti gelbėjimo, paieškos ir neatidėliotinus darbus, likviduoti įvykius, ekstremaliuosius įvykius ar ekstremaliąsias situacijas ir šalinti jų padarinius.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+5. Civilinės saugos pratybos – valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų mokymas ir civilinės saugos sistemos parengties patikrinimas, kai tariamomis ekstremaliosiomis sąlygomis tikrinami veiksmai ir procedūros, numatytos ekstremaliųjų situacijų valdymo planuose, tobulinami valdymo įgūdžiai, mokomasi praktiškai organizuoti gyventojų ir turto apsaugą nuo ekstremaliųjų situacijų poveikio ir atlikti gelbėjimo, paieškos ir neatidėliotinus darbus, likviduoti įvykius, ekstremaliuosius įvykius ar ekstremaliąsias situacijas ir šalinti jų padarinius.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-5. Didelė pramoninė avarija – dėl nekontroliuojamos padėties eksploatuojant pavojingąjį objektą įvykstantis nenumatytas staigus įvykis (sprogimas, gaisras arba didelio kiekio pavojingųjų medžiagų išsiveržimas į aplinką), kuris sukelia tiesioginį ar uždelstą didelį pavojų gyventojams ir (ar) aplinkai pavojingajame objekte ar už jo ribų ir kuris yra susijęs su viena ar keliomis pavojingosiomis medžiagomis.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+6. Didelė pramoninė avarija – dėl nekontroliuojamos padėties eksploatuojant pavojingąjį objektą įvykstantis nenumatytas staigus įvykis (sprogimas, gaisras arba didelio kiekio pavojingųjų medžiagų išsiveržimas į aplinką), kuris sukelia tiesioginį ar uždelstą didelį pavojų gyventojams ir (ar) aplinkai pavojingajame objekte ar už jo ribų ir kuris yra susijęs su viena ar keliomis pavojingosiomis medžiagomis.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-6. Ekstremalioji situacija – dėl ekstremaliojo įvykio susidariusi padėtis, kuri gali sukelti staigų didelį pavojų gyventojų gyvybei ar sveikatai, turtui, aplinkai arba gyventojų žūtį, sužalojimą ar padaryti kitą žalą.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+7. Ekstremalioji situacija – dėl ekstremaliojo įvykio susidariusi padėtis, kuri gali sukelti staigų didelį pavojų gyventojų gyvybei ar sveikatai, turtui, aplinkai arba gyventojų žūtį, sužalojimą ar padaryti kitą žalą.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-7. Ekstremalusis įvykis – nustatytus kriterijus atitinkantis, pasiekęs ar viršijęs gamtinis, techninis, ekologinis ar socialinis įvykis, kuris kelia pavojų gyventojų gyvybei ar sveikatai, jų socialinėms sąlygoms, turtui ir (ar) aplinkai.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+8. Ekstremalusis įvykis – nustatytus kriterijus atitinkantis, pasiekęs ar viršijęs gamtinis, techninis, ekologinis ar socialinis įvykis, kuris kelia pavojų gyventojų gyvybei ar sveikatai, jų socialinėms sąlygoms, turtui ir (ar) aplinkai.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-8. Ekstremalių situacijų komisija – iš valstybės politikų, valstybės ir (ar) savivaldybių institucijų ir įstaigų valstybės tarnautojų ir (ar) darbuotojų, profesinės karo tarnybos karių sudaroma nuolatinė komisija, priimanti sprendimus dėl ekstremaliųjų situacijų prevencijos, valdymo, likvidavimo ir padarinių šalinimo.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+9. Ekstremalių situacijų komisija – iš valstybės politikų, valstybės ir (ar) savivaldybių institucijų ir įstaigų valstybės tarnautojų ir (ar) darbuotojų, profesinės karo tarnybos karių sudaroma nuolatinė komisija, priimanti sprendimus dėl ekstremaliųjų situacijų prevencijos, valdymo, likvidavimo ir padarinių šalinimo.
 
 Straipsnio dalies pakeitimai:
 
@@ -95,135 +125,209 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-9. Ekstremaliojo įvykio kriterijai – stebėjimais ir skaičiavimais nustatyti arba tarptautinėje praktikoje naudojami fizikiniai, cheminiai, geografiniai, medicininiai, socialiniai ar kiti įvykio mastą, padarinius ar faktą apibūdinantys dydžiai arba aplinkybės (kritinės ribos), kuriuos atitinkantis, pasiekęs ar viršijęs įvykis laikomas ekstremaliuoju.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+10. Ekstremaliojo įvykio kriterijai – stebėjimais ir skaičiavimais nustatyti arba tarptautinėje praktikoje naudojami fizikiniai, cheminiai, geografiniai, medicininiai, socialiniai ar kiti įvykio mastą, padarinius ar faktą apibūdinantys dydžiai arba aplinkybės (kritinės ribos), kuriuos atitinkantis, pasiekęs ar viršijęs įvykis laikomas ekstremaliuoju.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-10. Ekstremaliosios situacijos židinys – vieta, kurioje įvyko įvykis ar ekstremalusis įvykis, ir teritorija, apimanti didžiausio pavojaus sritį apie tų įvykių vietą, kurioje gresia įvykio ar ekstremaliojo įvykio veiksnių pavojai ten esančių gyventojų sveikatai ir (ar) gyvybei, turtui ir (ar) aplinkai.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+11. Ekstremaliosios situacijos židinys – vieta, kurioje įvyko įvykis ar ekstremalusis įvykis, ir teritorija, apimanti didžiausio pavojaus sritį apie tų įvykių vietą, kurioje gresia įvykio ar ekstremaliojo įvykio veiksnių pavojai ten esančių gyventojų sveikatai ir (ar) gyvybei, turtui ir (ar) aplinkai.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-11. Ekstremaliųjų situacijų operacijų centras (toliau – operacijų centras) – iš valstybės ir (ar) savivaldybių institucijų ir įstaigų valstybės tarnautojų ir (ar) darbuotojų, ūkio subjektų darbuotojų sudaromas organas, vykdantis ekstremaliųjų situacijų prevenciją, užtikrinantis ekstremalių situacijų komisijos priimtų sprendimų įgyvendinimą, organizuojantis ir koordinuojantis įvykių, ekstremaliųjų įvykių ir ekstremaliųjų situacijų likvidavimą, padarinių šalinimą, gyventojų ir turto gelbėjimą.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+12. Ekstremaliųjų situacijų operacijų centras (toliau – operacijų centras) – iš valstybės ir (ar) savivaldybių institucijų ir įstaigų valstybės tarnautojų ir (ar) darbuotojų, ūkio subjektų darbuotojų sudaromas organas, vykdantis ekstremaliųjų situacijų prevenciją, užtikrinantis ekstremalių situacijų komisijos priimtų sprendimų įgyvendinimą, organizuojantis ir koordinuojantis įvykių, ekstremaliųjų įvykių ir ekstremaliųjų situacijų likvidavimą, padarinių šalinimą, gyventojų ir turto gelbėjimą.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-12. Ekstremaliosios situacijos operacijų vadovas (toliau – operacijų vadovas) – civilinės saugos sistemos subjekto valstybės tarnautojas, darbuotojas ar valstybės politikas, paskirtas vadovauti visoms civilinės saugos sistemos pajėgoms, dalyvaujančioms likviduojant ekstremalųjį įvykį ar ekstremaliąją situaciją ir šalinant jų padarinius ekstremaliosios situacijos židinyje.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+13. Ekstremaliosios situacijos operacijų vadovas (toliau – operacijų vadovas) – civilinės saugos sistemos subjekto valstybės tarnautojas, darbuotojas ar valstybės politikas, paskirtas vadovauti visoms civilinės saugos sistemos pajėgoms, dalyvaujančioms likviduojant ekstremalųjį įvykį ar ekstremaliąją situaciją ir šalinant jų padarinius ekstremaliosios situacijos židinyje.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-13. Ekstremaliųjų situacijų prevencija – kryptingai vykdoma pasirengimo ekstremaliosioms situacijoms priemonių visuma, kad būtų išvengta ekstremaliųjų situacijų arba mažėtų jų galimybė, o susidarius ekstremaliajai situacijai būtų kuo mažiau pakenkta gyventojams, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų ir ūkio subjektų veiklai, turtui ir aplinkai.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+14. Ekstremaliųjų situacijų prevencija – kryptingai vykdoma pasirengimo ekstremaliosioms situacijoms priemonių visuma, kad būtų išvengta ekstremaliųjų situacijų arba mažėtų jų galimybė, o susidarius ekstremaliajai situacijai būtų kuo mažiau pakenkta gyventojams, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų ir ūkio subjektų veiklai, turtui ir aplinkai.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-14. Ekstremaliųjų situacijų valdymo planas – dokumentas, kuriuo reglamentuojamas materialinių ir žmogiškųjų išteklių sutelkimas ir valdymas gresiant ar susidarius ekstremaliosioms situacijoms.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+15. Ekstremaliųjų situacijų valdymo planas – dokumentas, kuriuo reglamentuojamas materialinių ir žmogiškųjų išteklių sutelkimas ir valdymas gresiant ar susidarius ekstremaliosioms situacijoms.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-15. Gelbėjimo darbai – veiksmai, kuriais įvykių, ekstremaliųjų įvykių ar ekstremaliųjų situacijų metu siekiama išgelbėti gyventojų gyvybes, sveikatą ir turtą, suteikti jiems pirmąją medicinos pagalbą ir (ar) nugabenti juos į sveikatos priežiūros įstaigas, taip pat apsaugoti aplinką.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+16. Gelbėjimo darbai – veiksmai, kuriais įvykių, ekstremaliųjų įvykių ar ekstremaliųjų situacijų metu siekiama išgelbėti gyventojų gyvybes, sveikatą ir turtą, suteikti jiems pirmąją medicinos pagalbą ir (ar) nugabenti juos į sveikatos priežiūros įstaigas, taip pat apsaugoti aplinką.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-16. Gelbėjimo darbų vadovas – civilinės saugos sistemos pajėgų valstybės tarnautojas ar darbuotojas, iki operacijų vadovo paskyrimo ekstremaliosios situacijos židinyje vadovaujantis gelbėjimo, paieškos ir neatidėliotiniems darbams, taip pat įvykio, ekstremaliojo įvykio likvidavimo ir jų padarinių šalinimo darbams.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+17. Gelbėjimo darbų vadovas – civilinės saugos sistemos pajėgų valstybės tarnautojas ar darbuotojas, iki operacijų vadovo paskyrimo ekstremaliosios situacijos židinyje vadovaujantis gelbėjimo, paieškos ir neatidėliotiniems darbams, taip pat įvykio, ekstremaliojo įvykio likvidavimo ir jų padarinių šalinimo darbams.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-17. Gyventojas – fizinis asmuo, esantis Lietuvos Respublikos teritorijoje.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+18. Gyventojas – fizinis asmuo, esantis Lietuvos Respublikos teritorijoje.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-18. Gyventojų evakavimas – dėl gresiančios ar susidariusios ekstremaliosios situacijos organizuotas gyventojų perkėlimas iš teritorijų, kuriose pavojinga gyventi ir dirbti, į kitas teritorijas, laikinai suteikiant jiems gyvenamąsias patalpas.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+19. Gyventojų evakavimas – dėl gresiančios ar susidariusios ekstremaliosios situacijos organizuotas gyventojų perkėlimas iš teritorijų, kuriose pavojinga gyventi ir dirbti, į kitas teritorijas, laikinai suteikiant jiems gyvenamąsias patalpas.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-19. Įvykis – ekstremaliojo įvykio kriterijų neatitinkantis, nepasiekęs gamtinis, techninis, ekologinis ar socialinis įvykis, keliantis pavojų gyventojų gyvybei ar sveikatai, jų socialinėms sąlygoms, turtui ir (ar) aplinkai.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
 
-20. Kita įstaiga – socialinėje, švietimo, mokslo, kultūros, sporto, sveikatos priežiūros srityse veikiantis juridinis asmuo, kurio veiklos tikslas – tenkinti tam tikrus viešuosius interesus, išskyrus valstybės ir savivaldybių institucijas ir įstaigas.
+20. Įvykis – ekstremaliojo įvykio kriterijų neatitinkantis, nepasiekęs gamtinis, techninis, ekologinis ar socialinis įvykis, keliantis pavojų gyventojų gyvybei ar sveikatai, jų socialinėms sąlygoms, turtui ir (ar) aplinkai.
 
-21. Kolektyvinės apsaugos statinys – statinys ar patalpa, kurią ekstremaliųjų situacijų ar karo metu galima pritaikyti gyventojams apsaugoti nuo atsiradusių gyvybei ar sveikatai pavojingų veiksnių.
+Straipsnio dalies numeracijos pakeitimas:
 
-22. Neatidėliotini darbai – veiksmai, užtikrinantys gelbėjimo, paieškos darbų vykdymą, turto išsaugojimą, sanitarinį švarinimą ir būtiniausių gyvenimo sąlygų atkūrimą įvykių, ekstremaliųjų įvykių ar ekstremaliųjų situacijų metu.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
 
-23. Materialiniai ištekliai – nekilnojamasis turtas, transporto priemonės, statybinės medžiagos ir kiti ištekliai, kurie teisės aktų nustatyta tvarka gali būti panaudoti gresiančioms ar susidariusioms ekstremaliosioms situacijoms likviduoti ir jų padariniams šalinti, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų veiklai palaikyti ir atkurti.
+21. Kita įstaiga – socialinėje, švietimo, mokslo, kultūros, sporto, sveikatos priežiūros srityse veikiantis juridinis asmuo, kurio veiklos tikslas – tenkinti tam tikrus viešuosius interesus, išskyrus valstybės ir savivaldybių institucijas ir įstaigas.
 
-24. Pavojingasis objektas – visa veiklos vykdytojo kontroliuojama teritorija, kurios bent viename įrenginyje, įskaitant įprastą ir susijusią infrastruktūrą, kuriame vykdoma įprastinė ir susijusi veikla, yra pavojingųjų medžiagų.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+22. Kolektyvinės apsaugos statinys – statinys ar patalpa, kurią ekstremaliųjų situacijų ar karo metu galima pritaikyti gyventojams apsaugoti nuo atsiradusių gyvybei ar sveikatai pavojingų veiksnių.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+23. Neatidėliotini darbai – veiksmai, užtikrinantys gelbėjimo, paieškos darbų vykdymą, turto išsaugojimą, sanitarinį švarinimą ir būtiniausių gyvenimo sąlygų atkūrimą įvykių, ekstremaliųjų įvykių ar ekstremaliųjų situacijų metu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+24. Materialiniai ištekliai – nekilnojamasis turtas, transporto priemonės, statybinės medžiagos ir kiti ištekliai, kurie teisės aktų nustatyta tvarka gali būti panaudoti gresiančioms ar susidariusioms ekstremaliosioms situacijoms likviduoti ir jų padariniams šalinti, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų veiklai palaikyti ir atkurti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+25. Pavojingasis objektas – visa veiklos vykdytojo kontroliuojama teritorija, kurios bent viename įrenginyje, įskaitant įprastą ir susijusią infrastruktūrą, kuriame vykdoma įprastinė ir susijusi veikla, yra pavojingųjų medžiagų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-25. Pavojingoji medžiaga – cheminė medžiaga arba cheminis mišinys, nurodyti Lietuvos Respublikos Vyriausybės patvirtintame pavojingųjų medžiagų ir mišinių sąraše arba atitinkantys Lietuvos Respublikos Vyriausybės nustatytus kriterijus; pavojingosios medžiagos gali būti žaliavos, produktai, šalutiniai produktai, liekanos ar tarpiniai produktai.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+26. Pavojingoji medžiaga – cheminė medžiaga arba cheminis mišinys, nurodyti Lietuvos Respublikos Vyriausybės patvirtintame pavojingųjų medžiagų ir mišinių sąraše arba atitinkantys Lietuvos Respublikos Vyriausybės nustatytus kriterijus; pavojingosios medžiagos gali būti žaliavos, produktai, šalutiniai produktai, liekanos ar tarpiniai produktai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-26. Pavojingojo objekto įrenginys – žemės lygyje ar po žeme esantis pavojingojo objekto techninis vienetas, kuriame gaminamos, naudojamos, tvarkomos ar laikomos pavojingosios medžiagos, įskaitant visą įrangą, struktūras, vamzdynus, mašinas, įrankius, atskiras geležinkelio atšakas, dokus, įrenginiams veikti reikalingas krovos krantines, dambas, sandėlius ir kitas sausumoje ar vandenyje esančias struktūras, būtinas pavojingojo objekto įrenginio veiklai.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+27. Pavojingojo objekto įrenginys – žemės lygyje ar po žeme esantis pavojingojo objekto techninis vienetas, kuriame gaminamos, naudojamos, tvarkomos ar laikomos pavojingosios medžiagos, įskaitant visą įrangą, struktūras, vamzdynus, mašinas, įrankius, atskiras geležinkelio atšakas, dokus, įrenginiams veikti reikalingas krovos krantines, dambas, sandėlius ir kitas sausumoje ar vandenyje esančias struktūras, būtinas pavojingojo objekto įrenginio veiklai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-27. Paieškos darbai – veiksmai, kuriais siekiama surasti įvykių, ekstremaliųjų įvykių ar ekstremaliųjų situacijų metu dingusius, pasiklydusius ar nukentėjusius gyventojus, patyrusius avariją laivus ir orlaivius.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+28. Paieškos darbai – veiksmai, kuriais siekiama surasti įvykių, ekstremaliųjų įvykių ar ekstremaliųjų situacijų metu dingusius, pasiklydusius ar nukentėjusius gyventojus, patyrusius avariją laivus ir orlaivius.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-28. Perspėjimo sistema – visuma organizacinių ir techninių priemonių, kuriomis perspėjami gyventojai, valstybės ir savivaldybių institucijos ir įstaigos, kitos įstaigos ir ūkio subjektai apie gresiančią ar susidariusią ekstremaliąją situaciją ir išplatinama valstybės ir savivaldybių institucijų ir įstaigų turima arba joms skirta informacija, kuri leistų imtis priemonių, siekiant išvengti galimos žalos arba ją sušvelninti.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+29. Perspėjimo sistema – visuma organizacinių ir techninių priemonių, kuriomis perspėjami gyventojai, valstybės ir savivaldybių institucijos ir įstaigos, kitos įstaigos ir ūkio subjektai apie gresiančią ar susidariusią ekstremaliąją situaciją ir išplatinama valstybės ir savivaldybių institucijų ir įstaigų turima arba joms skirta informacija, kuri leistų imtis priemonių, siekiant išvengti galimos žalos arba ją sušvelninti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-29. Slėptuvė – specialiosios paskirties statinys arba specialiai įrengta patalpa gyventojams, kurie užtikrina valstybės ir savivaldybių institucijų ir įstaigų veiklą ekstremaliųjų situacijų ar karo metu, apsaugoti nuo atsiradusių gyvybei ar sveikatai pavojingų veiksnių.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+30. Slėptuvė – specialiosios paskirties statinys arba specialiai įrengta patalpa gyventojams, kurie užtikrina valstybės ir savivaldybių institucijų ir įstaigų veiklą ekstremaliųjų situacijų ar karo metu, apsaugoti nuo atsiradusių gyvybei ar sveikatai pavojingų veiksnių.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-30. Ūkio subjektas – Lietuvos Respublikoje įregistruotas ir gamybinę, komercinę, finansinę ar kitokią ūkinę veiklą vykdantis juridinis asmuo, užsienio juridinio asmens filialas ar atstovybė.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+31. Ūkio subjektas – Lietuvos Respublikoje įregistruotas ir gamybinę, komercinę, finansinę ar kitokią ūkinę veiklą vykdantis juridinis asmuo, užsienio juridinio asmens filialas ar atstovybė.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-31. Valstybinės reikšmės objektas – valstybės institucija, įmonė, ūkio, energetikos, transporto, telekomunikacijų ar kitas infrastruktūros objektas, neatsižvelgiant į jo nuosavybės formą, kurio kontrolės ar funkcionavimo sutrikimas arba sutrikdymas keltų pavojų ar padarytų didelę žalą nacionaliniam saugumui – sutrikdytų valstybės valdymą, ūkio sistemos, valstybei svarbios ūkio šakos ar infrastruktūros funkcionavimą arba kuris karo, antpuolių ar teroro aktų metu gali būti pasirinktas kaip taikinys ir dėl to tapti ekstremaliosios situacijos židiniu.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+32. Valstybinės reikšmės objektas – valstybės institucija, įmonė, ūkio, energetikos, transporto, telekomunikacijų ar kitas infrastruktūros objektas, neatsižvelgiant į jo nuosavybės formą, kurio kontrolės ar funkcionavimo sutrikimas arba sutrikdymas keltų pavojų ar padarytų didelę žalą nacionaliniam saugumui – sutrikdytų valstybės valdymą, ūkio sistemos, valstybei svarbios ūkio šakos ar infrastruktūros funkcionavimą arba kuris karo, antpuolių ar teroro aktų metu gali būti pasirinktas kaip taikinys ir dėl to tapti ekstremaliosios situacijos židiniu.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-32. Veiklos vykdytojas – fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, kurie eksploatuoja ar valdo pavojingąjį objektą ar pavojingojo objekto įrenginį arba kurie kitu teisiniu pagrindu turi suteiktus įgaliojimus priimti ekonominius sprendimus ar sprendimus pavojingojo objekto ar pavojingojo objekto įrenginio veikimo techniniais klausimais.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+33. Veiklos vykdytojas – fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, kurie eksploatuoja ar valdo pavojingąjį objektą ar pavojingojo objekto įrenginį arba kurie kitu teisiniu pagrindu turi suteiktus įgaliojimus priimti ekonominius sprendimus ar sprendimus pavojingojo objekto ar pavojingojo objekto įrenginio veikimo techniniais klausimais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
-33. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme, Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos Respublikos vandens įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme, Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos Respublikos vandens įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
 
 Straipsnio pakeitimai:
 
@@ -335,7 +439,11 @@ Nr. XIII-3129, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15374
 
 6) nustato materialinių išteklių teikimo ir kompensavimo už jų teikimą tvarką;
 
-7) nustato privalomų darbų atlikimo ekstremaliųjų situacijų atvejais ir kompensavimo už jų atlikimą tvarką;
+7) nustato būtinų užduočių atlikimo ekstremaliųjų situacijų atvejais ir kompensavimo už jų atlikimą tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
 
 8) nustato civilinės saugos mokymo tvarką;
 
@@ -749,7 +857,11 @@ Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
 2) pranešti civilinės saugos sistemos pajėgoms apie gresiančią ar susidariusią ekstremaliąją situaciją;
 
-3) Vyriausybės nustatyta tvarka atlikti privalomus darbus;
+3) Vyriausybės nustatyta tvarka atlikti būtinas užduotis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
 
 4) vykdyti gelbėjimo darbų vadovo, operacijų vadovo teisėtus nurodymus ir ekstremalių situacijų komisijos sprendimus, reikalingus įvykiui, ekstremaliajam įvykiui ar ekstremaliajai situacijai likviduoti, o neatidėliotinais atvejais, kai kyla didelis pavojus gyventojų gyvybei, sveikatai, turtui ar aplinkai, leisti naudotis jiems nuosavybės teise priklausančiais materialiniais ištekliais;
 
@@ -797,17 +909,31 @@ Nr. XII-732, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00065
 
 5. Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatytų ūkio subjektų, įregistruotų Valstybinės reikšmės ir pavojingų objektų registre, vadovai nedelsdami perspėja gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas ir ūkio subjektus, patenkančius į galimos taršos ar pavojaus zoną, apie gresiančią ar susidariusią ekstremaliąją situaciją.
 
-17 straipsnis. Privalomų darbų atlikimas
+17 straipsnis. Būtinų užduočių atlikimas
 
-1. Susidarius ekstremaliajai situacijai gyventojai, ūkio subjektai ir kitos įstaigos Vyriausybės nustatyta tvarka atlieka privalomus darbus, būtinus ekstremaliajai situacijai likviduoti ir jos padariniams šalinti.
+1. Susidarius ekstremaliajai situacijai, gyventojai, ūkio subjektai ir kitos įstaigos Vyriausybės nustatyta tvarka atlieka būtinas užduotis.
 
-2. Privalomi darbai atliekami tik tada, kai civilinės saugos sistemos pajėgų ir materialinių išteklių, esančių operacijų vadovo žinioje, nepakanka ekstremaliajai situacijai likviduoti ir jos padariniams šalinti.
+2. Būtinos užduotys atliekamos tik tada, kai civilinės saugos sistemos pajėgų ar materialinių išteklių, esančių operacijų vadovo žinioje, nepakanka ekstremaliajai situacijai likviduoti ir jos padariniams šalinti.
+
+3. Būtinoms užduotims, kurioms atlikti reikalingi tik žmogiškieji ištekliai, gali būti pasitelkiami gyventojai, ūkio subjektai ir kitos įstaigos.
+
+4. Būtinoms užduotims, kurioms atlikti reikalingi žmogiškieji ir materialiniai ištekliai, gali būti pasitelkiami tik ūkio subjektai ir kitos įstaigos.
+
+5. Būtinų užduočių paskyrimo, atlikimo ir kompensavimo už jų atlikimą tvarką nustato Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
 
 18 straipsnis. Materialinių išteklių teikimas
 
 1. Ekstremaliųjų situacijų atvejais savivaldybės administracijos direktoriaus reikalavimu ūkio subjektai, kitos įstaigos, su kuriais šio įstatymo 16 straipsnio 2 dalyje nustatyta tvarka sudarytos sutartys, teikia materialinius išteklius.
 
-2. Neatidėliotinais atvejais, kai kyla didelis pavojus gyventojų gyvybei, sveikatai, aplinkai ar turtui, visi ūkio subjektai ir kitos įstaigos savivaldybės administracijos direktoriaus reikalavimu teikia turimus materialinius išteklius.
+2. Neatidėliotinais atvejais, kai kyla didelis pavojus gyventojų gyvybei, sveikatai, aplinkai ar turtui, visi ūkio subjektai ir kitos įstaigos Vyriausybės nustatyta tvarka teikia turimus materialinius išteklius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
 
 3. Ekstremaliųjų situacijų atvejais ūkio subjektai, teikiantys elektroninių ryšių tinklą ar elektroninių ryšių paslaugas, turi suteikti civilinės saugos sistemos subjektams pirmumo teisę naudotis elektroninių ryšių tinklais ir gauti kitas elektroninių ryšių paslaugas, būtinas civilinės saugos ekstremaliųjų situacijų valdymo ryšių sistemos tinkamam funkcionavimui užtikrinti, taip pat skirti reikalingus ekspertus ir specialistus.
 
@@ -1113,7 +1239,11 @@ Nr. XIII-657, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16015
 
 32 straipsnis. Valstybės paramos teikimas
 
-Vyriausybės nustatyta tvarka valstybės parama gali būti teikiama gyventojams, ūkio subjektams, kitoms įstaigoms, kurie dėl ekstremaliosios situacijos patyrė žalą.
+Vyriausybės nustatyta tvarka valstybės parama gali būti teikiama gyventojams, ūkio subjektams, kitoms įstaigoms, kurie dėl ekstremaliosios situacijos patyrė žalą. Gyventojai, ūkio subjektai ir kitos įstaigos, kurie dėl ekstremaliosios situacijos patyrė žalą, turi teisę kreiptis į Vyriausybę su rašytiniais prašymais suteikti valstybės paramą už žalą, patirtą dėl ekstremaliosios situacijos, ne vėliau kaip per trejus metus nuo žalos atsiradimo.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
 
 33 straipsnis. Asmenų, dalyvaujančių likviduojant ekstremaliąsias situacijas ir šalinant ekstremaliųjų situacijų padarinius, socialinės garantijos
 
@@ -1493,15 +1623,31 @@ ausra.bodin@lrs.lt
 
 1. Ekstremaliųjų situacijų metu valstybės tarnautojai ir darbuotojai, vykdantys valstybės ir savivaldybių institucijoms ir įstaigoms nustatytus uždavinius ir funkcijas, nuo gyventojų gyvybei ar sveikatai gresiančių pavojingų veiksnių apsaugomi slėptuvėse.
 
-2. Kiti gyventojai, kurie ekstremaliųjų situacijų metu neturi priskirtų privalomų darbų ir užduočių, laikinai apsaugomi kolektyvinės apsaugos statiniuose.
+2. Kiti gyventojai, kurie ekstremaliųjų situacijų metu neturi priskirtų būtinų užduočių, laikinai apsaugomi kolektyvinės apsaugos statiniuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
 
 3. Vyriausybės nustatytos valstybės ir savivaldybių institucijos ir įstaigos savivaldybės administracijos direktoriui teikia duomenis apie savivaldybėje esančias slėptuves, jų atitiktį įstatymų nustatyta tvarka patvirtintiems statybos techniniams reglamentams ir kolektyvinės apsaugos statinius.
 
-31 straipsnis. Kompensacija už materialinių išteklių teikimą, privalomų darbų atlikimą ir žalos atlyginimas
+31 straipsnis. Kompensacija už materialinių išteklių teikimą, būtinų užduočių atlikimą ir žalos atlyginimas“.
 
-1. Gyventojams, ūkio subjektams ir kitoms įstaigoms, kurie atliko privalomus darbus, Vyriausybės nustatyta tvarka gali būti kompensuojamos išlaidos, susijusios su privalomų darbų atlikimu.
+Pakeistas straipsnio pavadinimas:
 
-2. Ūkio subjektams ir kitoms įstaigoms, kurie teikė materialinius išteklius, išlaidos kompensuojamos Vyriausybės nustatyta tvarka.
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+1. Gyventojams, ūkio subjektams ir kitoms įstaigoms, kurie atliko būtinas užduotis, Vyriausybės nustatyta tvarka kompensuojamos išlaidos, susijusios su būtinų užduočių atlikimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+
+2. Ūkio subjektams, savivaldybėms ir kitoms įstaigoms, kurie teikė materialinius išteklius, išlaidos kompensuojamos Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
 
 3. Žala, atsiradusi gyventojams, ūkio subjektams ar kitoms įstaigoms, dėl teisėto gelbėjimo darbų vadovo ar operacijų vadovo nurodymo ar ekstremalių situacijų komisijos sprendimo įvykio, ekstremaliojo įvykio ar ekstremaliosios situacijos metu, atlyginama Vyriausybės nustatyta tvarka.
 
