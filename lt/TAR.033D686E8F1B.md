@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2021-01-01"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto lengvatų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-08-31
+Suvestinė redakcija nuo 2021-09-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-890, i. k. 1001010ISTAIII-1605
 
@@ -175,19 +175,31 @@ Nr. XIII-853, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20336
 
 5) asmenys nuo 70 iki 80 metų.
 
-3. Teisę įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo arba vietinio (priemiestinio) reguliaraus susisiekimo autobusais, keleiviniais traukiniais bilietą su 50 procentų nuolaida turi aukštųjų mokyklų studentai, studijuojantys pagal nuolatinę arba dieninę studijų formą, Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių piliečiai bei jų šeimos nariai, studijuojantys Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių aukštosiose mokyklose pagal nuolatinę arba dieninę studijų formą, taip pat mokiniai, kurie mokosi pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu, pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu.
+3. Teisę įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo arba vietinio (priemiestinio) reguliaraus susisiekimo autobusais, keleiviniais traukiniais bilietą su 50 procentų nuolaida turi aukštųjų mokyklų studentai, studijuojantys pagal nuolatinę arba dieninę studijų formą, Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių piliečiai bei jų šeimos nariai, studijuojantys Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių aukštosiose mokyklose pagal nuolatinę arba dieninę studijų formą, taip pat mokiniai, kurie mokosi pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu, pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, vaikai nuo 7 iki 8 metų. Taip pat teisę įsigyti vienkartinį važiavimo vietinio (priemiestinio) reguliaraus susisiekimo autobusais bilietą su 50 procentų nuolaida, o terminuotą vardinį važiavimo bilietą su 80 procentų nuolaida turi mokiniai, kurie mokosi mokyklose pagal bendrojo ugdymo programas (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
 
-4. Teisė įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo ir vietinio (priemiestinio) reguliaraus susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais bilietą su 50 procentų nuolaida suteikiama vežamiems vaikams nuo 7 iki 10 metų.
+Nr. XIII-3333, 2020-10-15, paskelbta TAR 2020-10-21, i. k. 2020-21839
+
+4. Teisė įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais bilietą su 50 procentų nuolaida suteikiama vežamiems vaikams nuo 7 iki 10 metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3333, 2020-10-15, paskelbta TAR 2020-10-21, i. k. 2020-21839
 
 5. Keleiviui, vežančiam vaiką (vaikus) iki 7 metų tolimojo reguliaraus susisiekimo autobusais, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais, suteikiama teisė vaikui (vaikams) iki 7 metų įgyti vienkartinį arba terminuotą vardinį važiavimo bilietą su 50 procentų nuolaida.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1935, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00865
+
+51. Teisę įsigyti vienkartinį reguliaraus susisiekimo laivais ir keltais bilietą su 50 procentų nuolaida turi mokiniai nuo 7 iki 14 metų, kurie mokosi mokyklose pagal bendrojo ugdymo programas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3333, 2020-10-15, paskelbta TAR 2020-10-21, i. k. 2020-21839
 
 6. Aukštųjų mokyklų studentai, studijuojantys pagal nuolatinę arba dieninę studijų formą, Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių piliečiai bei jų šeimos nariai, studijuojantys Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių aukštosiose mokyklose pagal nuolatinę arba dieninę studijų formą, vaikai nuo 7 iki 8 metų, mokiniai, kurie mokosi mokyklose pagal bendrojo ugdymo programas (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, ir mokyklų, vykdančių specializuoto ugdymo krypties programas, mokiniai turi teisę įsigyti važiavimo vietinio (miesto) reguliaraus susisiekimo autobusais ir troleibusais bilietą su šiomis nuolaidomis:
 
@@ -199,7 +211,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
 
-7. Mokyklų, vykdančių specializuoto ugdymo krypties programas, mokiniai, turi teisę įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo arba vietinio (priemiestinio) reguliaraus susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais bilietą su 50 procentų nuolaida.
+7. Mokyklų, vykdančių specializuoto ugdymo krypties programas, mokiniai turi teisę įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais bilietą su 50 procentų nuolaida, vienkartinį važiavimo vietinio (priemiestinio) reguliaraus susisiekimo autobusais bilietą su 50 procentų nuolaida ir terminuotą vardinį važiavimo vietinio (priemiestinio) reguliaraus susisiekimo autobusais bilietą su 80 procentų nuolaida.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3333, 2020-10-15, paskelbta TAR 2020-10-21, i. k. 2020-21839
 
 8. Savivaldybės savo nustatyta tvarka gali papildomai leisti įsigyti važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais bilietą su nuolaida ir kitų kategorijų asmenims, taip pat įsigyti važiavimo bilietą su nuolaida tam tikromis savaitės dienomis ar paros valandomis. Su šiomis lengvatomis susijusias išlaidas savivaldybės kompensuoja iš savo biudžeto lėšų.
 
@@ -273,7 +289,11 @@ Vežėjų išlaidos (negautos pajamos), susijusios su lengvatų taikymu, kompens
 
 1) dėl važiavimo keleiviniais traukiniais lengvatų, nustatytų šio įstatymo 5 straipsnio 1-5 ir 7 dalyse, – iš valstybės biudžeto;
 
-2) dėl važiavimo reguliaraus susisiekimo laivais ir keltais lengvatų, nustatytų šio įstatymo 5 straipsnio 1, 2, 4, 5 ir 7 dalyse, – iš savivaldybių, kuriose įregistruotos šių vežėjų įmonės, biudžetų;
+2) dėl važiavimo reguliaraus susisiekimo laivais ir keltais lengvatų, nustatytų šio įstatymo 5 straipsnio 1, 2, 4, 5, 51 ir 7 dalyse, – iš savivaldybių, kuriose įregistruotos šių vežėjų įmonės, biudžetų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3333, 2020-10-15, paskelbta TAR 2020-10-21, i. k. 2020-21839
 
 3) dėl važiavimo tolimojo reguliaraus susisiekimo autobusais lengvatų, nustatytų šio įstatymo 5 straipsnio 1–5 ir 7 dalyse, – iš valstybės biudžeto;
 
