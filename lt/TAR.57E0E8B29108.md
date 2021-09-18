@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2021-07-01"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-09-17
+Suvestinė redakcija nuo 2021-09-18 iki 2021-11-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -716,7 +716,7 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -734,7 +734,11 @@ Punkto pakeitimai:
 
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
-2. Įmonė, patikėjimo teise valdanti Klaipėdos valstybinį jūrų uostą (uosto žemę, akvatoriją, krantines, hidrotechninius įrenginius, navigacijos kelius, kanalus ir kitus infrastruktūros objektus).
+2. Įmonė, valdanti Klaipėdos valstybinį jūrų uostą.
+
+Punkto pakeitimai:
+
+Nr. XIV-529, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19624
 
 3. Neteko galios nuo 2019-01-01.
 
@@ -744,9 +748,17 @@ Nr. XIII-1453, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11765
 
 4. Įmonė, teikianti oro eismo vadybos, ryšių, navigacijos ir stebėjimo, oro navigacijos informacijos bei paieškos ir gelbėjimo koordinavimo paslaugas.
 
-5. Įmonė, patikėjimo teise valdanti valstybinės reikšmės vidaus vandenų kelius.
+5. Įmonė, tvarkanti, prižiūrinti ir eksploatuojanti valstybinės reikšmės vidaus vandenų kelius.
 
-6. Įmonė, patikėjimo teise valdanti tarptautinius Vilniaus, Kauno ir Palangos oro uostus.
+Punkto pakeitimai:
+
+Nr. XIV-529, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19624
+
+6. Įmonė, valdanti tarptautinius Vilniaus, Kauno ir Palangos oro uostus.
+
+Punkto pakeitimai:
+
+Nr. XIV-529, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19624
 
 7. Įmonė, tvarkanti pagrindinius Lietuvos Respublikos registrus (Juridinių asmenų registrą, Nekilnojamojo turto kadastrą ir registrą).
 
@@ -940,11 +952,17 @@ Papildyta papunkčiu:
 
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
-i) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklas.
+i) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklas;
 
 Papildyta papunkčiu:
 
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+
+j) valstybinės reikšmės vidaus vandens keliuose esančios apsauginės dambos, bunos, laivų šliuzai.
+
+Papildyta papunkčiu:
+
+Nr. XIV-529, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19624
 
 2. Nacionaliniam saugumui užtikrinti svarbią reikšmę turinti infrastruktūra:
 
@@ -1191,6 +1209,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-347, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12503
 
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 19 straipsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas
+
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-529, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19624
+
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 1 ir 4 priedų pakeitimo įstatymas
 
 121 straipsnis. Asmenų, kurie siekia vykdyti (vykdo) veiklą nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje, kuri įstatymu yra pripažinta keliančia grėsmę nacionaliniam saugumui, atitikties nacionalinio saugumo interesams patikra
 
