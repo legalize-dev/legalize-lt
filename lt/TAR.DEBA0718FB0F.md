@@ -4,7 +4,7 @@ identifier: "TAR.DEBA0718FB0F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2021-06-01"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2021-06-01 iki 2021-09-17
+Suvestinė redakcija nuo 2021-09-18 iki 2021-12-31
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
 
@@ -48,9 +48,11 @@ Nr. IX-1214, 2002-12-03, Žin., 2002, Nr. 123-5510 (2002-12-24)
 
 Nr. XII-226, 2013-04-11, Žin., 2013, Nr. 42-2042 (2013-04-24)
 
-2 straipsnis. Vidaus vandenų transporto sąvoka
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-Vidaus vandenų transportas – sudėtinė Lietuvos Respublikos ūkio ir socialinės infrastruktūros dalis, skirta laivybai, žmonėms, bagažui ir (arba) kroviniams vežti vidaus vandenimis.
+1. Vidaus vandenų transportas – sudėtinė Lietuvos Respublikos ūkio ir socialinės infrastruktūros dalis, skirta laivybai, žmonėms, bagažui ir (arba) kroviniams vežti vidaus vandenimis.
+
+2. Vidaus vandenų transporto infrastruktūra – transporto infrastruktūros dalis, kurią sudaro vidaus vandenų keliai, apsauginės dambos, bunos, laivų šliuzai.
 
 Straipsnio pakeitimai:
 
@@ -58,17 +60,19 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 
+Straipsnio pakeitimai:
+
+Nr. XIV-526, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19619
+
 3 straipsnis. Vidaus vandenų transporto objektų nuosavybė
 
-1. Vidaus vandenų transporto priemonės, uostų ir prieplaukų pastatai ir įrenginiai nuosavybės teise gali priklausyti Lietuvos Respublikos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio fiziniams bei juridiniams asmenims, kitoms organizacijoms ar jų padaliniams, užsienio valstybėms.
+1. Vidaus vandenų transporto infrastruktūra ir vidaus vandenų transporto priemonės nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio fiziniams bei juridiniams asmenims, kitoms organizacijoms ar jų padaliniams, užsienio valstybėms.
 
-Straipsnio dalies pakeitimai:
+2. Valstybinės reikšmės vidaus vandenų keliai nuosavybės teise priklauso tik Lietuvos valstybei.
 
-Nr. XII-2255, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06344
+3. Valstybinės reikšmės vidaus vandenų transporto infrastruktūra, išskyrus valstybinės reikšmės vidaus vandenų kelius, gali priklausyti valstybei, uždarajai akcinei bendrovei ar akcinei bendrovei, kurių visos akcijos nuosavybės teise priklauso valstybei (toliau – valstybės valdoma bendrovė), arba uždarajai akcinei bendrovei ar akcinei bendrovei, kurių visos akcijos nuosavybės teise priklauso valstybės valdomai bendrovei.
 
-2. Valstybinės reikšmės vidaus vandenų keliai ir jų infrastruktūra (hidrotechninių ir inžinerinių statinių kompleksas) nuosavybės teise priklauso tik Lietuvos valstybei.
-
-3. Vietinės reikšmės vidaus vandenų keliai ir jų infrastruktūra (hidrotechninių ir inžinerinių statinių kompleksas) nuosavybės teise priklauso savivaldybėms.
+4. Vietinės reikšmės vidaus vandenų transporto infrastruktūra nuosavybės teise priklauso savivaldybėms.
 
 Straipsnio pakeitimai:
 
@@ -77,6 +81,10 @@ Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
 
 Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-526, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19619
 
 5 straipsnis. Tarptautinės sutartys
 
@@ -94,7 +102,11 @@ VIDAUS VANDENŲ KELIAI IR JŲ ĮRENGINIAI
 
 3. Vidaus vandenų kelius valdo, tvarko, prižiūri ir eksploatuoja vidaus vandenų kelių valdytojas.
 
-4. Valstybinės reikšmės vidaus vandenų kelių valdytojas – valstybės įmonė, kurią skiria Vyriausybė ar jos įgaliota institucija, – valdo, tvarko, prižiūri ir eksploatuoja valstybinės reikšmės vidaus vandenų kelius.
+4. Vyriausybė skiria valstybinės reikšmės vidaus vandenų kelių valdytoją, kuris tvarko, prižiūri ir eksploatuoja valstybinės reikšmės vidaus vandenų kelius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-526, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19619
 
 5. Vietinės reikšmės vidaus vandenų kelių valdytojas, kurį skiria savivaldybės institucija, organizuoja vietinės reikšmės vidaus vandenų kelių valdymą, tvarkymą, priežiūrą ir eksploatavimą. Valdytojui parinkti skelbiamas konkursas arba vietinės reikšmės vidaus vandenų keliams valdyti steigiama įmonė.
 
@@ -1501,6 +1513,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-294, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11762
 
 Lietuvos Respublikos vidaus vandenų transporto kodekso 30 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-526, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19619
+
+Lietuvos Respublikos vidaus vandenų transporto kodekso 2, 3 ir 6 straipsnių pakeitimo įstatymas
 
 161 straipsnis. Vidaus vandenų transporto priemonių techninė apžiūra, techninis patikrinimas, Europos Sąjungos vidaus vandenų laivybos sertifikato ir laikinojo Europos Sąjungos vidaus vandenų laivybos sertifikato išdavimas
 
