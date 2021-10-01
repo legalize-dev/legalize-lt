@@ -4,7 +4,7 @@ identifier: "TAR.9BC8AEE9D9F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2020-04-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9BC8AEE9D9F8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-04-01 iki 2021-09-30
+Suvestinė redakcija nuo 2021-10-01 iki 2022-07-15
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 3-37, i. k. 0941010ISTA000I-733
 
@@ -113,6 +113,18 @@ Nr. XIII-2318, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12113
 10. Konservavimas – kultūros paveldo objekto vertingąsias savybes naikinančių ar žalojančių veiksnių poveikio sustabdymas ir autentiškumo požymių sutvirtinimas atliekant tyrimais pagrįstus tvarkomuosius paveldosaugos, statybos ir kraštotvarkos darbus.
 
 11. Kultūrinis kraštovaizdis – žmogaus veiklos sukurtas ir jo sambūvį su aplinka atspindintis kraštovaizdis.
+
+111. Kultūros kelias – kultūros paveldo, kultūrinių kraštovaizdžių, kultūros ir švietimo bendradarbiavimo priemonėmis sukurta teminių komunikacijos kelių sistema, kuria siekiama atgaivinti ir įprasminti su istoriniais keliais, asmenybėmis ir reiškiniais, įvykiais, papročiais ar tradicijomis susijusias kultūros vertybes, sudaryti sąlygas jas pažinti, skatinti visuomenės bei vietos bendruomenių įsitraukimą į šią veiklą ir atsakingumą atskleidžiant ir išryškinant jų kultūrinį tapatumą nacionaliniame ir europiniame kontekste.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
+
+112. Kultūros kelio lygmuo – kultūrinė bei geografinė ir (ar) teritorinė administracinė aprėptis, kuria įgyvendinamas kultūros kelias.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
 
 12. Kultūros paminklai – nacionalinės reikšmės kultūros paveldo objektai.
 
@@ -306,13 +318,15 @@ Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
 
 5. Vyriausybė skelbia kultūros paminklais nacionalinio reikšmingumo lygmens kultūros paveldo objektus ir vietoves, atsako už tarptautinėmis sutartimis prisiimtų paveldosaugos įsipareigojimų įgyvendinimą, atlieka kitas įstatymų nustatytas funkcijas.
 
-6. Kultūros ministras tvirtina valstybės biudžeto lėšomis finansuojamas nekilnojamojo kultūros paveldo paveldosaugos (apskaitos, paveldotvarkos, kontrolės, saugomų teritorijų apsaugos ir tvarkymo ir kitas) programas, organizuoja paveldotvarkos programų įgyvendinimą, skelbia nekilnojamąsias kultūros vertybes valstybės saugomomis, tvirtina Nekilnojamojo kultūros paveldo apsaugos specialistų (tyrėjų, projektuotojų, paveldosaugos ekspertų) atestavimo komisijos nuostatus ir jos sudėtį, Nekilnojamojo kultūros paveldo apsaugos ekspertų komisijos nuostatus ir jos sudėtį, teikia kultūros paveldo objektus ir vietoves įrašyti į tarptautinės svarbos kultūros paveldo objektų ar vietovių sąrašus, jeigu tarptautinėmis sutartimis nenustatyta kitaip, atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+6. Kultūros ministras tvirtina valstybės biudžeto lėšomis finansuojamas nekilnojamojo kultūros paveldo paveldosaugos (apskaitos, paveldotvarkos, kontrolės, saugomų teritorijų apsaugos ir tvarkymo ir kitas) programas, organizuoja paveldotvarkos programų įgyvendinimą, skelbia nekilnojamąsias kultūros vertybes valstybės saugomomis, tvirtina Nekilnojamojo kultūros paveldo apsaugos specialistų (tyrėjų, projektuotojų, paveldosaugos ekspertų) atestavimo komisijos nuostatus ir jos sudėtį, Nekilnojamojo kultūros paveldo apsaugos ekspertų komisijos nuostatus ir jos sudėtį, teikia kultūros paveldo objektus ir vietoves įrašyti į tarptautinės svarbos kultūros paveldo objektų ar vietovių sąrašus, jeigu tarptautinėmis sutartimis nenustatyta kitaip, tvirtina kultūros kelių Lietuvoje lygmenų nustatymo ir sertifikavimo tvarkos aprašą, atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
+
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
 
 7. Kultūros ministerija kartu su Švietimo ir mokslo ministerija organizuoja nekilnojamojo kultūros paveldo apsaugos specialistų rengimą, profesinį mokymą ir tobulinimąsi.
 
@@ -406,7 +420,17 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 26) bendradarbiauja su atitinkamomis užsienio valstybių ir tarptautinėmis institucijomis;
 
-27) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas, vykdo kultūros ministro įsakymus.
+27) kultūros ministro nustatyta tvarka organizuoja ir vykdo kultūros kelių lygmenų nustatymo ir sertifikavimo procesą, išduoda kultūros kelių sertifikatus (išskyrus Europos Tarybos kultūros kelių sertifikatus), vykdo sertifikuotų kultūros kelių veiklos stebėseną;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
+
+28) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas, vykdo kultūros ministro įsakymus.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
 
 11. Šio straipsnio 6 dalyje nurodytos Nekilnojamojo kultūros paveldo apsaugos specialistų (tyrėjų, projektuotojų, paveldosaugos ekspertų) atestavimo komisija ir Nekilnojamojo kultūros paveldo apsaugos ekspertų komisija atlieka joms jų nuostatuose priskirtas funkcijas, o jų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
 
@@ -1138,25 +1162,19 @@ Straipsnio pakeitimai:
 
 Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
 
-31 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+31 straipsnis. Kultūros kelio lygmenys Lietuvoje
 
-1. Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo nuostatas, atsako įstatymų nustatyta tvarka.
+1. Regioninis kultūros kelio lygmuo aprėpia kultūros kelią, vystomą ne mažiau kaip trijų savivaldybių mastu. Šio lygmens kultūros kelio tema remiasi regiono ir vietos kultūros ištekliais: istorija, materialiuoju ir nematerialiuoju paveldu, krašto istorijai reikšmingomis asmenybėmis, siekiant įtraukti ne tik vietos bendruomenę, bet ir suinteresuotas grupes, stiprinti jų kultūrinę edukaciją bei kultūrinę tapatybę. Šiuo lygmeniu rengiami pažintiniai maršrutai nuolat aktualinami rengiant jų populiarinimo akcijas, siekiant pritraukti lankytojų iš visos Lietuvos.
 
-2. Už šio įstatymo pažeidimą juridiniams asmenims arba kitoms organizacijoms ar jų padaliniams skiriama bauda nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vienuolikos tūkstančių penkių šimtų aštuoniasdešimt keturių eurų. Juridinių asmenų arba kitų organizacijų ar jų padalinių padaryti šio įstatymo pažeidimai nagrinėjami, nutarimai skundžiami ir vykdomi šio ir kitų įstatymų nustatyta tvarka.
+2. Nacionalinis kultūros kelio lygmuo aprėpia kultūros kelią, vystomą ne mažiau kaip trijuose Lietuvos regionuose arba ne mažiau kaip šešiose Lietuvos savivaldybėse, o dalis kultūros kelio gali būti vystoma ne Lietuvos teritorijoje ir (arba) bendradarbiaujant su kitos šalies organizacijomis. Šio lygmens kultūros kelio tema remiasi Lietuvai reikšmingais istoriniais procesais ir reiškiniais, ja atskleidžiamas ir populiarinamas materialusis ar nematerialusis kultūros paveldas ir (arba) istorinės asmenybės, jų sąsajos su bendra istorija ir vertybėmis. Šiuo lygmeniu rengiami tęstiniai kultūrinio turizmo maršrutai Lietuvos teritorijoje ir už jos ribų, jie populiarinami skatinant vietinį ir atvykstamąjį turizmą.
 
-Straipsnio dalies pakeitimai:
+3. Tarptautinis kultūros kelio lygmuo aprėpia kultūros kelią, vystomą ne mažiau kaip dviejų kaimyninių valstybių, įskaitant Lietuvą, teritorijose bendradarbiaujant su šių valstybių organizacijomis. Šio lygmens kultūros kelio tema remiasi Lietuvai reikšmingu materialiuoju ir nematerialiuoju kultūros paveldu, esančiu kitose valstybėse, jo aktualinimu, kelioms valstybėms reikšmingais kultūros reiškiniais, istorinėmis asmenybėmis, atskleidžiamos sąsajos su Lietuvos ir Europos istorija bei vertybėmis. Šiuo lygmeniu siekiama sukurti tęstinius kultūrinio turizmo maršrutus kultūros kelio teritorijoje, juos populiarinti skatinant vietinį ir atvykstamąjį turizmą.
 
-Nr. XII-1141, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13459
+4. Europos Tarybos kultūros kelio lygmuo aprėpia Europos Tarybos kultūros kelią, kurio dalis vystoma Lietuvos teritorijoje. Šio lygmens kultūros kelias yra sertifikuojamas Išplėstinio dalinio susitarimo dėl Europos Tarybos kultūros kelių valdybos sprendimu, priimtu remiantis Europos kultūros kelių instituto teikimu ir pagal šio instituto nustatytą tvarką, bei remiantis Europos Tarybos Ministrų komiteto sprendimais.
 
-3. Konkretus pagal šio straipsnio 2 dalį skiriamos baudos dydis nustatomas atsižvelgiant į pažeidimo pobūdį, mastą, atsakomybę lengvinančias, sunkinančias aplinkybes ir kitas reikšmingas aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už šiame įstatyme nustatytų reikalavimų nesilaikymą, nutarime.
+Papildyta straipsniu:
 
-4. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad padarę pažeidimą juridiniai asmenys arba kitos organizacijos ar jų padaliniai savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo kompetentingoms institucijoms tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą. Skirianti baudą institucija gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes.
-
-5. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad padarę pažeidimą juridiniai asmenys arba kitos organizacijos ar jų padaliniai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, toliau pažeidinėjo šio įstatymo reikalavimus nepaisydami kompetentingos institucijos nurodymo nutraukti neteisėtus veiksmus. Skirianti baudą institucija gali pripažinti atsakomybę sunkinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes.
-
-Straipsnio pakeitimai:
-
-Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
 
 32 straipsnis. Atsakomybė už
 
@@ -1687,6 +1705,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
 
 Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 5 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
+
+Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2, 5 straipsnių pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
 
 231 straipsnis. Teisė vykdyti su nekilnojamojo kultūros paveldo tvarkyba susijusią veiklą
 
