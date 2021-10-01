@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2021-06-30"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-06-30 iki 2021-09-30
+Suvestinė redakcija nuo 2021-10-01 iki 2021-12-28
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -460,7 +460,13 @@ Nr. IX-2555, 2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
 
 1) savivaldybių;
 
-2) valstybės.
+2) valstybės;
+
+3) mišrus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-456, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15474
 
 2. Sveikatos priežiūros paslaugų lygiai yra:
 
@@ -486,7 +492,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1231, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14522
 
-6. Sveikatos apsaugos ministerija ir jai pavaldžios valstybės institucijos pagal kompetenciją organizuoja nustatyto masto asmens ir visuomenės sveikatos priežiūrą joms pavaldžiose LNSS įstaigose. Sveikatos priežiūros įstaigose, kurių steigėja yra Krašto apsaugos ministerija, Teisingumo ministerija arba Vidaus reikalų ministerija, nustatyto masto sveikatos priežiūrą organizuoja atitinkamai Krašto apsaugos ministerija, Teisingumo ministerija, Vidaus reikalų ministerija arba joms pavaldžios valstybės institucijos.
+6. Sveikatos apsaugos ministerija ir jai pavaldžios valstybės institucijos pagal kompetenciją organizuoja nustatyto masto asmens ir visuomenės sveikatos priežiūrą LNSS įstaigose, kuriose Sveikatos apsaugos ministerija įgyvendina valstybės, kaip LNSS įstaigos savininkės ar dalininkės, teises ir pareigas. Sveikatos priežiūros įstaigose, kuriose valstybės, kaip LNSS įstaigos savininkės, teises ir pareigas įgyvendina Krašto apsaugos ministerija, Teisingumo ministerija arba Vidaus reikalų ministerija, nustatyto masto sveikatos priežiūrą organizuoja atitinkamai Krašto apsaugos ministerija, Teisingumo ministerija, Vidaus reikalų ministerija arba joms pavaldžios valstybės institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-456, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15474
 
 7. Tretinio LNSS sveikatos priežiūros paslaugų lygio įstaigos pirmine ir antrine sveikatos priežiūra gali verstis tik mokslo ir mokymo tikslais. Pirminės ir antrinės sveikatos priežiūros mastą ir apimtį nustato Sveikatos apsaugos ministerija.
 
@@ -1320,7 +1330,11 @@ reikalams tvarkyti
 
 1. Sveikatos apsaugos ministerija:
 
-1) steigia, reorganizuoja, likviduoja jos pavaldumui priskirtas įstaigas ir valdymo institucijas;
+1) įstatymų nustatytais atvejais įgyvendina valstybės, kaip sveikatinimo veiklos srityje veiklą vykdančių juridinių asmenų savininkės ar dalininkės, teises ir pareigas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-456, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15474
 
 2) analizuoja gyventojų sveikatos būklę ir jos raidos prognozę, dalyvauja rengiant Nacionalinį pažangos planą dėl nacionalinės sveikatinimo veiklos strateginių tikslų ir (arba) pažangos uždavinių, valstybės siekiamo sveikatos lygio rodiklių nustatymo;
 
@@ -1412,7 +1426,11 @@ Nr. XII-1336, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17990
 
 6) sudaro bendruomenės sveikatos tarybą, skiria jos pirmininką ir tvirtina šios tarybos nuostatus;
 
-7) steigia, reorganizuoja ar likviduoja pirminės sveikatos priežiūros įstaigas, farmacijos įmones ir vykdo jų steigėjos funkcijas;
+7) įstatymų nustatytais atvejais įgyvendina savivaldybės, kaip sveikatinimo veiklos srityje veiklą vykdančių juridinių asmenų savininkės ar dalininkės, teises ir pareigas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-456, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15474
 
 8) valdo jos pavaldumui priskirtas antrinio lygio sveikatos priežiūros įstaigas;
 
@@ -2278,7 +2296,7 @@ Jeigu Lietuvos Respublikos tarptautinėje sutartyje nustatyti kitokie reikalavim
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                        VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
 
 Priedas. Neteko galios nuo 2017-11-24
 
@@ -2853,6 +2871,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-403, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14507
 
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 67 straipsnio pakeitimo įstatymas
+
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-456, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15474
+
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 12, 61 ir 63 straipsnių pakeitimo įstatymas
 
 ir trečioji dalys, 94, 95 straipsniai, 96 straipsnis, 98  straipsnio antroji ir
 
