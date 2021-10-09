@@ -4,7 +4,7 @@ identifier: "TAR.C44837068B55"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-19"
-last_updated: "2021-08-01"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C44837068B55"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1998
 
-Suvestinė redakcija nuo 2021-08-01 iki 2021-10-08
+Suvestinė redakcija nuo 2021-10-09 iki 2021-12-30
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
 
@@ -399,7 +399,11 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 9) informuoja finansų įstaigas ir kitus įpareigotuosius subjektus, teisėsaugos ir kitas valstybės institucijas apie jų pranešimų apie įtartinas pinigines operacijas ar sandorius, apie pastebėtus galimo pinigų plovimo ir (ar) teroristų finansavimo požymius ar šio įstatymo pažeidimus, analizės ir tyrimų rezultatus;
 
-10) pagal Reglamentą (ES) Nr. 1093/2010, Reglamentą (ES) Nr. 1094/2010 ir Reglamentą (ES) Nr. 1095/2010 bendradarbiauja su Europos priežiūros institucijomis ir teikia joms visą jų užduotims atlikti būtiną informaciją.
+10) pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
 
 2. Šio straipsnio 1 dalies 2 ir 3 punktuose nurodyta informacija pagal poreikį teikiama Lietuvos Respublikos Seimo Nacionalinio saugumo ir gynybos komitetui bei Teisės ir teisėtvarkos komitetui vykdant parlamentinę kontrolę.
 
@@ -1387,11 +1391,13 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 4) finansų įstaigoms ir kitiems įpareigotiesiems subjektams tvarkant informaciją šio įstatymo 19 straipsnyje nustatytais atvejais.
 
-2. Asmens duomenys tvarkomi vadovaujantis Reglamentu (ES) 2016/679, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu.
+2. Asmens duomenys tvarkomi vadovaujantis Reglamentu (ES) 2016/679, 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1725 dėl fizinių asmenų apsaugos Sąjungos institucijoms, organams, tarnyboms ir agentūroms tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinamas Reglamentas (EB) Nr. 45/2001 ir Sprendimas Nr. 1247/2002/EB, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
 
 3. Draudžiama keistis informacija su finansų įstaigomis ir kitais įpareigotaisiais subjektais, institucijomis ir kitais asmenimis iš trečiosios valstybės, jeigu dėl to yra priimtas atskiras Europos Komisijos sprendimas.
 
@@ -1963,11 +1969,13 @@ Priežiūros institucija, svarstydama, ar taikyti šiame įstatyme nustatytas po
 
 4) Europos Komisijai, Europos priežiūros institucijoms, jeigu ši informacija reikalinga jų funkcijoms atlikti;
 
-5) prižiūrimos finansų įstaigos ir kito įpareigotojo subjekto arba įmonių grupės, kuriai priklauso prižiūrimas subjektas, auditoriams, taip pat Lietuvos ir kitos Europos Sąjungos valstybės narės institucijoms, atsakingoms už šių subjektų priežiūrą, jeigu ji reikalinga jų funkcijoms atlikti, Europos Centriniam Bankui, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63), nuostatas finansų rinkos priežiūros funkciją atlieka Europos Centrinis Bankas;
+5) prižiūrimos finansų įstaigos ir kito įpareigotojo subjekto arba įmonių grupės, kuriai priklauso prižiūrimas subjektas, auditoriams, taip pat Lietuvos ir kitos Europos Sąjungos valstybės narės institucijoms, atsakingoms už šių subjektų priežiūrą, jeigu ji reikalinga jų funkcijoms atlikti, Europos Centriniam Bankui, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas finansų rinkos priežiūros funkciją atlieka Europos Centrinis Bankas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
 
 6) kitoms valstybės institucijoms, jeigu ši informacija reikalinga jų funkcijoms atlikti ir jeigu tai būtina dėl finansų įstaigų ar kitų įpareigotųjų subjektų priežiūros ar pažeidimų prevencijos, jeigu joms keliami reikalavimai saugoti informaciją yra ne mažesni, negu nustatyta šiame įstatyme.
 
