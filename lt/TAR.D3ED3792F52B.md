@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2021-08-01"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-08-01 iki 2021-10-08
+Suvestinė redakcija nuo 2021-10-09 iki 2021-11-12
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -1713,7 +1713,7 @@ skyriaus, kuris yra kitame struktūriniame padalinyje, vedėjas, biuro vedėjas,
 
 7.1.
 
-patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, vyriausiasis specialistas (Seimo kanceliarijoje)
+patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, prekybos atstovas, vyriausiasis specialistas (Seimo kanceliarijoje)
 
 Respublikos Prezidento atstovas spaudai,  Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, ministro atstovas spaudai
 
@@ -1768,6 +1768,8 @@ Nr. XIII-2609, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20565
 Nr. XIII-2809, 2020-03-12, paskelbta TAR 2020-03-17, i. k. 2020-05602
 
 Nr. XIV-144, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00266
+
+Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
 
 Lietuvos Respublikos
 
