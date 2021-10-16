@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2021-07-01"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-10-15
+Suvestinė redakcija nuo 2021-10-16 iki 2021-12-03
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
 
@@ -935,6 +935,14 @@ Nr. XIV-246, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08854
 
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 8-1 straipsnio pakeitimo įstatymas
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-547, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21634
+
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11-1 straipsnio pakeitimo įstatymas
+
 81 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
 1. Juridinių asmenų dalyvių informacinės sistemos, įsteigtos vadovaujantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu, tvarkytojui teikiami šie duomenys apie viešosios įstaigos dalininkus:
@@ -985,15 +993,23 @@ Nr. XII-2346, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13913
 
 111 straipsnis. Viešųjų įstaigų, kurių savininkė arba dalininkė yra valstybė arba savivaldybė, bendrųjų funkcijų centralizuotas atlikimas
 
-1. Dalis viešųjų įstaigų, kurių savininkė arba dalininkė yra valstybė arba savivaldybė,  bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo ir kitos pagalbinio pobūdžio funkcijos), kurios padeda įgyvendinti viešajai įstaigai teisės aktuose nustatytus uždavinius (toliau –  bendrosios funkcijos), gali būti atliekamos centralizuotai.
+1. Dalis viešųjų įstaigų, kurių savininkė arba dalininkė yra valstybė arba savivaldybė, bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo, viešųjų pirkimų procedūrų atlikimo ir kitos pagalbinio pobūdžio funkcijos), kurios padeda įgyvendinti viešajai įstaigai teisės aktuose nustatytus uždavinius (toliau – bendrosios funkcijos), gali būti atliekamos centralizuotai.
 
-2. Sprendimą dėl biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šio straipsnio 1 dalyje nurodytas bendrąsias funkcijas, priima:
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-547, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21634
+
+2. Sprendimą dėl įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šio straipsnio 1 dalyje nurodytas bendrąsias funkcijas, priima:
 
 1) Vyriausybė – dėl viešosios įstaigos, kurios savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė;
 
 2) savivaldybės taryba – dėl viešosios įstaigos, kurios savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra savivaldybė;
 
 3) visuotinis dalininkų susirinkimas – dėl šios dalies 1 ir 2 punktuose nenurodytų viešųjų įstaigų, kurių dalininkė yra valstybė arba savivaldybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-547, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21634
 
 3. Centralizuoto viešųjų įstaigų bendrųjų funkcijų atlikimo tvarką nustato Vyriausybė.
 
