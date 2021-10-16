@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2019-07-02"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-07-02 iki 2021-10-15
+Suvestinė redakcija nuo 2021-10-16 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
 
@@ -489,15 +489,25 @@ Nr. XII-1073, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10458
 
 91 straipsnis. Biudžetinių įstaigų bendrųjų funkcijų centralizuotas atlikimas
 
-1. Dalis biudžetinių įstaigų bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo ir kitos pagalbinio pobūdžio funkcijos), kurios padeda įgyvendinti biudžetinei įstaigai teisės aktuose nustatytus uždavinius (toliau – bendrosios funkcijos), gali būti atliekamos centralizuotai.  Biudžetinės įstaigos bendrųjų funkcijų atlikimas gali būti centralizuotas tiek, kad nebūtų ribojama šios įstaigos vadovo galimybė atlikti pareigas, nustatytas šio įstatymo 9 straipsnyje.
+1. Dalis biudžetinių įstaigų bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo, viešųjų pirkimų procedūrų atlikimo ir kitos pagalbinio pobūdžio funkcijos), kurios padeda įgyvendinti biudžetinei įstaigai teisės aktuose nustatytus uždavinius (toliau – bendrosios funkcijos), gali būti atliekamos centralizuotai. Biudžetinės įstaigos bendrųjų funkcijų atlikimas gali būti centralizuotas tiek, kad nebūtų ribojama šios įstaigos vadovo galimybė atlikti pareigas, nustatytas šio įstatymo 9 straipsnyje.
 
-2. Vyriausybė turi teisę priimti sprendimą dėl Vyriausybės kanceliarijos, ministerijų, Vyriausybės įstaigų, Vyriausybės atstovų įstaigos, atitinkamo ministro valdymo sritims priskirtų įstaigų prie ministerijos, kitų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba jos įgaliota institucija, bendrųjų funkcijų centralizuoto atlikimo ir konkrečių biudžetinių įstaigų, kurių bendrosios funkcijos bus atliekamos centralizuotai. Sprendimą dėl biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, priima Vyriausybė.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-548, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21635
+
+2. Vyriausybė turi teisę priimti sprendimą dėl Vyriausybės kanceliarijos, ministerijų, Vyriausybės įstaigų, Vyriausybės atstovų įstaigos, atitinkamo ministro valdymo sritims priskirtų įstaigų prie ministerijos, kitų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba jos įgaliota institucija, bendrųjų funkcijų centralizuoto atlikimo ir konkrečių biudžetinių įstaigų, kurių bendrosios funkcijos bus atliekamos centralizuotai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2237, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10358
 
-3. Savivaldybės taryba turi teisę priimti sprendimą dėl biudžetinių įstaigų, kurių savininkė yra savivaldybė, bendrųjų funkcijų centralizuoto atlikimo ir konkrečių biudžetinių įstaigų, kurių bendrosios funkcijos bus atliekamos centralizuotai. Sprendimą dėl biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, priima savivaldybės taryba.
+Nr. XIV-548, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21635
+
+3. Savivaldybės taryba turi teisę priimti sprendimą dėl biudžetinių įstaigų, kurių savininkė yra savivaldybė, bendrųjų funkcijų centralizuoto atlikimo ir konkrečių biudžetinių įstaigų, kurių bendrosios funkcijos bus atliekamos centralizuotai. Sprendimą dėl įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, priima savivaldybės taryba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-548, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21635
 
 4. Dėl šio straipsnio 2 ir 3 dalyse nenurodytų biudžetinių įstaigų bendrųjų funkcijų centralizuoto atlikimo ir biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, sprendimą turi teisę priimti šios biudžetinės įstaigos vadovas.
 
