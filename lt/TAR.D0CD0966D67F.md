@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2021-09-01"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2021-09-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2022-04-07
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -295,7 +295,11 @@ Nr. XIII-3127, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15372
 
 25) savivaldybės saugomų teritorijų steigimas, apsauga ir tvarkymas;
 
-26) kraštovaizdžio, nekilnojamųjų kultūros vertybių ir savivaldybės įsteigtų saugomų teritorijų tvarkymas ir apsauga, savivaldybės teritorijoje esančių želdynų, želdinių apsauga, tvarkymas ir kūrimas, inventorizacijos, apskaitos, atskirųjų želdynų žemės sklypų kadastrinių matavimų ir įrašymo į Nekilnojamojo turto registrą organizavimas ir stebėsena;
+26) kraštovaizdžio, nekilnojamųjų kultūros vertybių ir savivaldybės įsteigtų saugomų teritorijų tvarkymas ir apsauga, savivaldybės želdynų ir želdinių teritorijose esančių želdynų ir želdinių apsauga, priežiūra ir tvarkymas, būklės stebėsena, želdynų kūrimo ir želdinių veisimo organizavimas ir (ar) vykdymas, želdinių ir želdynų, neatsižvelgiant į žemės, kurioje jie yra, nuosavybės formą, inventorizavimas ir apskaita, atskirųjų želdynų žemės sklypų formavimo, šių sklypų kadastro duomenų nustatymo ir jų įrašymo į Nekilnojamojo turto kadastrą organizavimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-203, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07420
 
 27) adresų suteikimas žemės sklypams, kuriuose pagal jų naudojimo paskirtį (būdą) ar teritorijų planavimo dokumentus leidžiama pastatų statyba, pastatams, butams ir kitoms patalpoms, pavadinimų suteikimas gatvėms, savivaldybės teritorijose esantiems pastatams, statiniams ir kitiems objektams, šių adresų ir pavadinimų keitimas ar panaikinimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
 
@@ -2767,7 +2771,7 @@ Nr. X-1830, 2008-11-14, Žin., 2008, Nr. 137-5379 (2008-11-29)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
