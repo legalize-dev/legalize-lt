@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2021-01-01"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -1519,7 +1519,11 @@ VIII skyrius
 
 45 straipsnis. Žemės paėmimo visuomenės poreikiams atvejai
 
-1. Žemė visuomenės poreikiams iš privačios žemės savininkų gali būti paimama ir privačios žemės nuomos ir panaudos sutartys prieš terminą nutraukiamos arba tam tikslui valstybinės žemės nuomos ir panaudos sutartys prieš terminą nutraukiamos tik išimtiniais atvejais Nacionalinės žemės tarnybos vadovo sprendimu pagal valstybės institucijos ar savivaldybės tarybos prašymą, kai ši žemė pagal specialiojo teritorijų planavimo dokumentus ar detaliuosius planus, parengtus Teritorijų planavimo įstatymo nustatyta tvarka, tenkinant viešąjį interesą reikalinga:
+1. Žemė visuomenės poreikiams iš privačios žemės savininkų gali būti paimama ir privačios žemės nuomos ir panaudos sutartys prieš terminą nutraukiamos arba tam tikslui valstybinės žemės nuomos ir panaudos sutartys prieš terminą nutraukiamos tik išimtiniais atvejais Nacionalinės žemės tarnybos vadovo sprendimu pagal valstybės institucijos ar savivaldybės tarybos prašymą, kai ši žemė pagal specialiojo teritorijų planavimo dokumentus ar vietovės lygmens kompleksinio teritorijų planavimo dokumentus, parengtus Teritorijų planavimo įstatymo nustatyta tvarka, tenkinant viešąjį interesą reikalinga:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-273, 2021-04-22, paskelbta TAR 2021-04-30, i. k. 2021-09306
 
 1) valstybei svarbiems ekonominiams projektams, kurių svarbą visuomenės poreikiams savo sprendimu pripažįsta Seimas arba Vyriausybė, įgyvendinti;
 
@@ -1529,7 +1533,11 @@ VIII skyrius
 
 4) viešosios geležinkelių infrastruktūros objektams, keliams, magistraliniams vamzdynams, aukštos įtampos elektros linijoms tiesti, taip pat jiems eksploatuoti reikalingiems visuomenės reikmėms skirtiems inžineriniams statiniams;
 
-5) socialinei infrastruktūrai plėsti – švietimo ir mokslo, kultūros, sveikatos apsaugos ir priežiūros, aplinkos apsaugos, socialinės apsaugos, viešosios tvarkos užtikrinimo, kūno kultūros ir sporto plėtojimo objektams statyti (įrengti) ir eksploatuoti;
+5) socialinei infrastruktūrai plėsti – švietimo ir mokslo, kultūros, sveikatos apsaugos ir priežiūros, aplinkos apsaugos, socialinės apsaugos, viešosios tvarkos užtikrinimo, kūno kultūros ir sporto plėtojimo objektams statyti (įrengti) ir eksploatuoti, viešiesiems atskiriesiems želdynams kurti ir tvarkyti miestuose, miesteliuose ir kurortuose, siekiant įvykdyti viešųjų atskirųjų želdynų normas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-273, 2021-04-22, paskelbta TAR 2021-04-30, i. k. 2021-09306
 
 6) išžvalgytų naudingųjų iškasenų ištekliams eksploatuoti;
 
@@ -1539,7 +1547,11 @@ VIII skyrius
 
 9) gamtos ir kultūros paveldo teritorinių kompleksų ir objektų (vertybių) apsaugos reikalams.
 
-2. Visuomenės poreikiams reikalingam konkrečiam objektui statyti (įrengti) konkrečios vietos ir ploto motyvuotas pagrindimas turi būti atliktas rengiant detalųjį planą ar specialiojo teritorijų planavimo dokumentą. Konkrečios vietos ir ploto motyvuotas pagrindimas gali būti sudedamoji detaliojo plano ar specialiojo teritorijų planavimo dokumento dalis arba gali būti parengtas kaip atskiras dokumentas, teikiamas kartu su detaliuoju planu ar specialiojo teritorijų planavimo dokumentu.
+2. Visuomenės poreikiams reikalingam konkrečiam objektui statyti (įrengti) konkrečios vietos ir ploto motyvuotas pagrindimas turi būti atliktas rengiant vietovės lygmens kompleksinio teritorijų planavimo dokumentą ar specialiojo teritorijų planavimo dokumentą. Konkrečios vietos ir ploto motyvuotas pagrindimas gali būti sudedamoji vietovės lygmens kompleksinio teritorijų planavimo dokumento ar specialiojo teritorijų planavimo dokumento dalis arba gali būti parengtas kaip atskiras dokumentas, teikiamas kartu su vietovės lygmens kompleksinio teritorijų planavimo dokumentu ar specialiojo teritorijų planavimo dokumentu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-273, 2021-04-22, paskelbta TAR 2021-04-30, i. k. 2021-09306
 
 3. Vyriausybės teikimu Seimas gali pripažinti tam tikrą energetikos infrastruktūros, transporto infrastruktūros ar krašto apsaugos sričių projektą ypatingos valstybinės svarbos projektu. Kai žemės paėmimas visuomenės poreikiams yra reikalingas tokiam ypatingos valstybinės svarbos projektui įgyvendinti, vadovaujamasi Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymu. Tokiais atvejais šio skyriaus nuostatos ir jas įgyvendinantys įstatymų lydimieji teisės aktai netaikomi.
 
@@ -1563,7 +1575,11 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 1) pateiktas konkretaus visuomenės poreikio objektyvaus egzistavimo pagrindimas, paremtas sąnaudų ir naudos analize bei visuomeninės naudos, efektyvumo ir racionalumo principais, ir
 
-2) galioja specialiojo teritorijų planavimo dokumentas ar detalusis planas, kuriame nurodytas konkretus visuomenės poreikis ir pateiktas konkretaus žemės sklypo paėmimo visuomenės poreikiams būtinumo pagrindimas, paremtas sąnaudų ir naudos analize bei visuomeninės naudos, efektyvumo ir racionalumo principais.
+2) galioja specialiojo teritorijų planavimo dokumentas ar vietovės lygmens kompleksinio teritorijų planavimo dokumentas, kuriame nurodytas konkretus visuomenės poreikis ir pateiktas konkretaus žemės sklypo paėmimo visuomenės poreikiams būtinumo pagrindimas, paremtas sąnaudų ir naudos analize bei visuomeninės naudos, efektyvumo ir racionalumo principais.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-273, 2021-04-22, paskelbta TAR 2021-04-30, i. k. 2021-09306
 
 3. Sprendimą pradėti žemės paėmimo visuomenės poreikiams procedūrą Nacionalinės žemės tarnybos vadovas gali priimti be valstybės institucijos ar savivaldybės tarybos prašymo, kai žemės paėmimas visuomenės poreikiams reikalingas įstatymams, kuriuose nustatytas konkretus visuomenės poreikis, kuriam paimamas tam tikroje vietoje esantis tam tikro ploto žemės sklypas, tiesiogiai įgyvendinti, taip pat tais atvejais, kai Nacionalinė žemės tarnyba yra Vyriausybės įgaliota žemės paėmimu suinteresuota institucija. Kai žemės paėmimas visuomenės poreikiams reikalingas įstatymui, kuriame nustatytas konkretus visuomenės poreikis, kuriam paimamas tam tikroje vietoje esantis tam tikro ploto žemės sklypas, tiesiogiai įgyvendinti, tame įstatyme turi būti nurodyta žemės paėmimu visuomenės poreikiams suinteresuota institucija. Kai Nacionalinė žemės tarnyba yra žemės paėmimu suinteresuota institucija, sprendimas pradėti žemės paėmimo visuomenės poreikiams procedūrą priimamas, jeigu yra tenkinamos šio straipsnio 2 dalies 1 ir 2 punktuose nustatytos sąlygos.
 
@@ -1621,7 +1637,11 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 11. Paimtas visuomenės poreikiams žemės sklypas, Nekilnojamojo turto registre įregistruotas kaip valstybinė žemė, perduodamas patikėjimo teise, perduodamas neatlygintinai naudotis arba išnuomojamas šio Įstatymo 7, 8 ar 9 straipsnyje nustatyta tvarka tik toms reikmėms, kurioms šis žemės sklypas buvo paimtas visuomenės poreikiams.
 
-12. Kai nuo sprendimo paimti žemę visuomenės poreikiams priėmimo dienos praėjus ne daugiau kaip 10 metų pagal Teritorijų planavimo įstatymo nustatyta tvarka naujai parengtus arba pakeistus detaliuosius planus ar specialiojo teritorijų planavimo dokumentus žemės sklypo nenumatoma naudoti toms reikmėms, kurioms šis žemės sklypas buvo paimtas visuomenės poreikiams, Nacionalinė žemės tarnyba privalo raštu pasiūlyti žemės savininkui, iš kurio šis žemės sklypas buvo paimtas visuomenės poreikiams, išpirkti šį žemės sklypą už kainą, nustatytą atlikus individualų turto vertinimą pagal Turto ir verslo vertinimo pagrindų įstatymą. Apie sutikimą išpirkti žemės sklypą buvęs žemės savininkas Nacionalinės žemės tarnybos teritoriniam padaliniui pagal žemės sklypo buvimo vietą turi pranešti per 6 mėnesius nuo pasiūlymo gavimo dienos. Žemės sklypo išpirkimas įforminamas įstatymų nustatyta tvarka sudaroma žemės sklypo pirkimo–pardavimo sutartimi. Kai buvęs žemės savininkas atsisako išpirkti žemės sklypą arba per nustatytą terminą nepraneša apie sutikimą išpirkti žemės sklypą, taip pat kai nuo sprendimo paimti žemę visuomenės poreikiams priėmimo dienos praėjo daugiau kaip 10 metų, žemės sklypas valdomas, naudojamas ir juo disponuojama įstatymų nustatyta tvarka, netaikant šio straipsnio 11 dalyje nustatyto apribojimo.
+12. Kai nuo sprendimo paimti žemę visuomenės poreikiams priėmimo dienos praėjus ne daugiau kaip 10 metų pagal Teritorijų planavimo įstatymo nustatyta tvarka naujai parengtus arba pakeistus vietovės lygmens kompleksinio teritorijų planavimo dokumentus ar specialiojo teritorijų planavimo dokumentus žemės sklypo nenumatoma naudoti toms reikmėms, kurioms šis žemės sklypas buvo paimtas visuomenės poreikiams, Nacionalinė žemės tarnyba privalo raštu pasiūlyti žemės savininkui, iš kurio šis žemės sklypas buvo paimtas visuomenės poreikiams, išpirkti šį žemės sklypą už kainą, nustatytą atlikus individualų turto vertinimą pagal Turto ir verslo vertinimo pagrindų įstatymą. Apie sutikimą išpirkti žemės sklypą buvęs žemės savininkas Nacionalinės žemės tarnybos teritoriniam padaliniui pagal žemės sklypo buvimo vietą turi pranešti per 6 mėnesius nuo pasiūlymo gavimo dienos. Žemės sklypo išpirkimas įforminamas įstatymų nustatyta tvarka sudaroma žemės sklypo pirkimo–pardavimo sutartimi. Kai buvęs žemės savininkas atsisako išpirkti žemės sklypą arba per nustatytą terminą nepraneša apie sutikimą išpirkti žemės sklypą, taip pat kai nuo sprendimo paimti žemę visuomenės poreikiams priėmimo dienos praėjo daugiau kaip 10 metų, žemės sklypas valdomas, naudojamas ir juo disponuojama įstatymų nustatyta tvarka, netaikant šio straipsnio 11 dalyje nustatyto apribojimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-273, 2021-04-22, paskelbta TAR 2021-04-30, i. k. 2021-09306
 
 Straipsnio pakeitimai:
 
@@ -1635,7 +1655,11 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 48 straipsnis. Žemės paėmimo visuomenės poreikiams projektai
 
-1. Žemės paėmimo visuomenės poreikiams projektų rengimą ir jų įgyvendinimą savo lėšomis organizuoja žemės paėmimu visuomenės poreikiams suinteresuotos institucijos. Prašymus paimti žemę visuomenės poreikiams projektų organizatoriai paduoda Nacionalinės žemės tarnybos teritoriniam padaliniui pagal žemės sklypo buvimo vietą. Kai Nacionalinės žemės tarnybos vadovas priima sprendimą dėl žemės paėmimo visuomenės poreikiams procedūros pradžios, Nacionalinės žemės tarnybos teritorinis padalinys išduoda žemės paėmimo visuomenės poreikiams projekto rengimo reikalavimų sąrašą. Žemės paėmimo visuomenės poreikiams projekto rengimo reikalavimų sąrašas išduodamas tais atvejais, kai paimamas visuomenės poreikiams žemės sklypas ir (ar) po žemės sklypo dalies, reikalingos visuomenės poreikiams, atidalijimo ar padalijimo liekantis žemės sklypas (sklypai) nebuvo suprojektuoti detaliajame plane ar specialiojo teritorijų planavimo dokumente, taip pat kai yra su paimamu privačios žemės sklypu besiribojantis laisvos valstybinės žemės plotas, kuriame pagal teisės aktus gali būti formuojamas vietoj paimamo visuomenės poreikiams žemės sklypo suteikiamas nuosavybėn kitas žemės sklypas. Tais atvejais, kai paimamas visuomenės poreikiams žemės sklypas ir po žemės sklypo dalies, reikalingos visuomenės poreikiams, atidalijimo ar padalijimo liekantis žemės sklypas (sklypai) suprojektuoti detaliajame plane ar specialiojo teritorijų planavimo dokumente, vietoj žemės paėmimo visuomenės poreikiams projekto Nekilnojamojo turto kadastro nuostatuose nustatyta tvarka rengiami nurodytų suprojektuotų žemės sklypų planai.
+1. Žemės paėmimo visuomenės poreikiams projektų rengimą ir jų įgyvendinimą savo lėšomis organizuoja žemės paėmimu visuomenės poreikiams suinteresuotos institucijos. Prašymus paimti žemę visuomenės poreikiams projektų organizatoriai paduoda Nacionalinės žemės tarnybos teritoriniam padaliniui pagal žemės sklypo buvimo vietą. Kai Nacionalinės žemės tarnybos vadovas priima sprendimą dėl žemės paėmimo visuomenės poreikiams procedūros pradžios, Nacionalinės žemės tarnybos teritorinis padalinys išduoda žemės paėmimo visuomenės poreikiams projekto rengimo reikalavimų sąrašą. Žemės paėmimo visuomenės poreikiams projekto rengimo reikalavimų sąrašas išduodamas tais atvejais, kai paimamas visuomenės poreikiams žemės sklypas ir (ar) po žemės sklypo dalies, reikalingos visuomenės poreikiams, atidalijimo ar padalijimo liekantis žemės sklypas (sklypai) nebuvo suprojektuoti vietovės lygmens kompleksinio teritorijų planavimo dokumente ar specialiojo teritorijų planavimo dokumente, taip pat kai yra su paimamu privačios žemės sklypu besiribojantis laisvos valstybinės žemės plotas, kuriame pagal teisės aktus gali būti formuojamas vietoj paimamo visuomenės poreikiams žemės sklypo suteikiamas nuosavybėn kitas žemės sklypas. Tais atvejais, kai paimamas visuomenės poreikiams žemės sklypas ir po žemės sklypo dalies, reikalingos visuomenės poreikiams, atidalijimo ar padalijimo liekantis žemės sklypas (sklypai) suprojektuoti vietovės lygmens kompleksinio teritorijų planavimo dokumente ar specialiojo teritorijų planavimo dokumente, vietoj žemės paėmimo visuomenės poreikiams projekto Nekilnojamojo turto kadastro nuostatuose nustatyta tvarka rengiami nurodytų suprojektuotų žemės sklypų planai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-273, 2021-04-22, paskelbta TAR 2021-04-30, i. k. 2021-09306
 
 2. Žemės paėmimu visuomenės poreikiams suinteresuota institucija, gavusi Nacionalinės žemės tarnybos teritorinio padalinio išduotą žemės paėmimo visuomenės poreikiams projekto rengimo reikalavimų sąrašą, Viešųjų pirkimų įstatymo nustatyta tvarka parenka žemės paėmimo visuomenės poreikiams projekto rengėją ir su juo sudaro sutartį dėl žemės paėmimo visuomenės poreikiams projekto rengimo. Tais atvejais, kai vietoj žemės paėmimo visuomenės poreikiams projekto rengiami žemės sklypų planai, žemės paėmimu visuomenės poreikiams suinteresuota institucija žemės sklypų planų rengėją parenka Viešųjų pirkimų įstatymo nustatyta tvarka.
 
@@ -2232,6 +2256,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3165, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15498
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 23 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-273, 2021-04-22, paskelbta TAR 2021-04-30, i. k. 2021-09306
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 45, 46, 47 ir 48 straipsnių pakeitimo įstatymas
 
 55 straipsnis. Žemės ginčų
 
