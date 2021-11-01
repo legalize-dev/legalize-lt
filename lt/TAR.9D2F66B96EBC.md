@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2021-10-01"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2021-10-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2022-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -608,9 +608,17 @@ LTSA nustato aerodromų, kuriems netaikomos Reglamento (ES) Nr. 139/2014 nuostat
 
 1. Tarptautinių oro uostų žemė yra valstybės nuosavybė.
 
-2. Tarptautinį oro uostą valdanti įmonė, valstybės institucija ar įstaiga oro uosto žemę valdo, naudoja ir ja disponuoja turto patikėjimo teise, vadovaudamasi šiuo įstatymu, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu ir Lietuvos Respublikos žemės įstatymu. Tarptautinio oro uosto teritorijos ribas ir plotą tvirtina Vyriausybė.
+2. Tarptautinį oro uostą valdanti įmonė, valstybės institucija ar įstaiga oro uosto žemę valdo, naudoja ir disponuoja ja turto patikėjimo teise, vadovaudamasi šiuo įstatymu, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu ir Lietuvos Respublikos žemės įstatymu. Tarptautinio oro uosto teritorijos ribas ir plotą tvirtina Vyriausybė. Tarptautinį oro uostą valdančiai įmonei, valstybės institucijai ar įstaigai žemės sklypai perduodami patikėjimo teise Vyriausybei nutarus patvirtinti tarptautinio oro uosto teritorijos ribas ir plotą. Tarptautinį oro uostą valdanti įmonė, valstybės institucija ar įstaiga šių žemės sklypų negali perduoti nuosavybės teise kitiems asmenims, jų įkeisti ar kitaip suvaržyti daiktines teises į juos, jais garantuoti, laiduoti ar kitu būdu jais užtikrinti savo ir kitų asmenų prievolių įvykdymą.
 
-3. Tarptautinį oro uostą valdanti įmonė, valstybės institucija ar įstaiga turi teisę išnuomoti tarptautinio oro uosto žemės sklypus (jų dalis) su šio oro uosto veikla susijusioms reikmėms, taip pat juridiniams ar fiziniams asmenims, kurių veikla nesusijusi su šio oro uosto veikla, šiems asmenims nuosavybės teise priklausantiems ar jų nuomojamiems statiniams ar įrenginiams, esantiems tarptautinio oro uosto teritorijoje, eksploatuoti. Kontroliuojamojoje zonoje esanti tarptautinio oro uosto žemė gali būti išnuomojama tik su šio oro uosto veikla susijusioms reikmėms.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-525, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19618
+
+3. Tarptautinį oro uostą valdanti įmonė, valstybės institucija ar įstaiga turi teisę išnuomoti tarptautinio oro uosto žemės sklypus (jų dalis) su šio oro uosto veikla susijusioms reikmėms, taip pat juridiniams ar fiziniams asmenims, kurių veikla nesusijusi su šio oro uosto veikla, šiems asmenims nuosavybės teise priklausantiems ar jų nuomojamiems statiniams ar įrenginiams, esantiems tarptautinio oro uosto teritorijoje, eksploatuoti. Kontroliuojamojoje zonoje esanti tarptautinio oro uosto žemė gali būti išnuomojama ir subnuomojama tik su šio oro uosto veikla susijusioms reikmėms. Tarptautinį oro uostą valdančios įmonės, valstybės institucijos ar įstaigos išnuomotas žemės sklypas (jo dalis), nepažeidžiant žemės nuomos sutarties sąlygų, subnuomojamas tik gavus rašytinį žemės nuomotojo sutikimą, ne aukciono būdu Vyriausybės nustatyta tvarka. Žemės subnuomos sutarties terminas negali būti ilgesnis už nuomos sutarties terminą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-525, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19618
 
 4. Tarptautinio oro uosto žemės nuomos aukciono ir ne aukciono būdu tvarką, oro uosto žemės nuomos mokesčio apskaičiavimo tvarką nustato ir oro uosto žemės nuomos mokesčio dydžius tvirtina Vyriausybė.
 
