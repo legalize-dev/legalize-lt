@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2021-07-01"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
 
@@ -987,7 +987,7 @@ Ginčai dėl šio įstatymo taikymo sprendžiami įstatymų nustatyta tvarka.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -1608,4 +1608,32 @@ Straipsnio pakeitimai:
 Nr. XIII-3006, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13045
 
 Nr. XIII-3305, 2020-09-29, paskelbta TAR 2020-10-09, i. k. 2020-21152
+
+61 straipsnis. Kompensuojamojo uždarbio ir stažo motinystės, tėvystės ir vaiko priežiūros išmokoms skirti apskaičiavimo ypatumai Vyriausybei paskelbus ekstremaliąją situaciją ir (ar) karantiną dėl COVID-19 ligos (koronaviruso infekcijos) ir (ar) jos plitimo grėsmės
+
+1. Vadovaujantis šiuo straipsniu apskaičiuojamas asmenų kompensuojamasis uždarbis, pagal kurį nustatomi motinystės, tėvystės ir vaiko priežiūros išmokų dydžiai, jeigu apskaičiuojant asmens kompensuojamąjį uždarbį:
+
+1) netaikoma šio įstatymo 6 straipsnio 3 dalis ir
+
+2) į laikotarpį per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš asmens teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo mėnesį, patenka visas laikotarpis ar jo dalis nuo 2020 m. vasario 26 d. iki 2021 m. birželio 30 d., kuriuo Vyriausybė buvo paskelbusi ekstremaliąją situaciją ir (ar) karantiną dėl COVID-19 ligos (koronaviruso infekcijos) ir (ar) jos plitimo grėsmės.
+
+2. Jeigu visą šio straipsnio 1 dalies 2 punkte nurodytą laikotarpį ar jo dalį asmeniui, vadovaujantis Darbo kodekso 47 straipsnio 1 dalies 2 punktu, dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino dėl COVID-19 ligos (koronaviruso infekcijos) ir (ar) jos plitimo grėsmės taikytų ūkinės veiklos apribojimų buvo paskelbta prastova, šioje dalyje nurodyto asmens kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokos dydis, apskaičiuojamas pagal jo nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. turėtas draudžiamąsias pajamas.
+
+3. Jeigu, apskaičiuojant asmens, kuris Valstybinio socialinio draudimo įstatymo 5 straipsnio 1 ar 2 dalyje nurodytas kaip savarankiškai dirbantis asmuo ir kuris turi teisę gauti motinystės, tėvystės ir (ar) vaiko priežiūros išmokas, kompensuojamąjį uždarbį, visas kompensuojamojo uždarbio skaičiavimo laikotarpis ar jo dalis patenka į visą šio straipsnio 1 dalies 2 punkte nurodytą laikotarpį ar jo dalį, kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokos dydis, apskaičiuojamas:
+
+1) pagal asmens nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. turėtas draudžiamąsias pajamas iš sporto, atlikėjo veiklos, pagal autorines sutartis ir individualios veiklos, kai visą šio straipsnio 1 dalies 2 punkte nurodytą laikotarpį ar jo dalį jis buvo savarankiškai dirbantis asmuo, nurodytas Valstybinio socialinio draudimo įstatymo 5 straipsnio 1 dalyje, ir (ar)
+
+2) pagal asmens už nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. deklaruotas draudžiamąsias pajamas iš individualios veiklos, nuo kurių sumokėtos valstybinio socialinio draudimo įmokos, kai visą šio straipsnio 1 dalies 2 punkte nurodytą laikotarpį ar jo dalį jis buvo savarankiškai dirbantis asmuo, nurodytas Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje.
+
+4. Jeigu asmuo, kurio kompensuojamasis uždarbis apskaičiuojamas vadovaujantis šio straipsnio 3 dalimi, neturi reikiamo motinystės socialinio draudimo stažo, nes į stažo skaičiavimo laikotarpį patenka visas šio straipsnio 1 dalies 2 punkte nurodytas laikotarpis ar jo dalis, jo motinystės socialinio draudimo stažas apskaičiuojamas pagal Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro ir (ar) asmens pateiktus duomenis apie jo turėtas draudžiamąsias pajamas 2020 m. kovo 1 d.
+
+5. Jeigu asmens kompensuojamasis uždarbis gali būti apskaičiuojamas vadovaujantis šio straipsnio 2 ir 3 dalimis, jo kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokos dydis, apskaičiuojamas pagal asmens nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. turėtas draudžiamąsias pajamas iš sporto, atlikėjo veiklos, pagal autorines sutartis, individualios veiklos ir nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. turėtas su darbo santykiais susijusias draudžiamąsias pajamas.
+
+6. Jeigu pagal šio straipsnio 2, 3 ar 5 dalį apskaičiuotas asmens kompensuojamasis uždarbis yra mažesnis už kompensuojamąjį uždarbį, apskaičiuotą pagal šio įstatymo 6 straipsnio 2 dalį, apskaičiuojant asmeniui skiriamos motinystės, tėvystės ar vaiko priežiūros išmokos dydį, taikomas didesnis kompensuojamojo uždarbio dydis. Pagal šio straipsnio 2, 3 ar 5 dalį apskaičiuotas kompensuojamojo uždarbio dydis, apskaičiuojant asmeniui skiriamos tėvystės ar vaiko priežiūros išmokos dydį, negali viršyti šio įstatymo 6 straipsnio 5 dalyje nurodyto maksimalaus kompensuojamojo uždarbio dydžio.
+
+7. Motinystės, tėvystės ir vaiko priežiūros išmokoms, jeigu asmens kompensuojamasis uždarbis apskaičiuotas pagal šio straipsnio 2, 3 ar 5 dalį, mokėti skirtų motinystės socialinio draudimo išlaidų dalis, apskaičiuota iš motinystės, tėvystės ir vaiko priežiūros išmokų, kurioms apskaičiuoti naudotas kompensuojamasis uždarbis, apskaičiuotas pagal šio straipsnio 2, 3 ar 5 dalį, sumos atėmus motinystės, tėvystės ir vaiko priežiūros išmokų, jeigu joms apskaičiuoti būtų naudotas kompensuojamasis uždarbis, apskaičiuotas pagal šio įstatymo 6 straipsnio 2 dalį, sumą, apmokama iš valstybės biudžeto.
+
+Papildyta straipsniu:
+
+Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
 
