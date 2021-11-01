@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2021-07-01"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2022-01-28
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
 
@@ -1568,6 +1568,14 @@ Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 3, 6, 7, 11, 13, 14, 15, 16, 17, 18, 20, 23, 25, 26, 27, 28, 30, 31, 33, 35, 37, 39, 47 ir 49 straipsnių pakeitimo įstatymas
 
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-500, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15875
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 40 straipsnio pakeitimo įstatymas
+
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai ir vadovai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
 1. Kompleksinio teritorijų planavimo dokumentų rengėjų ir vadovų teisės:
@@ -1582,7 +1590,11 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 3, 6, 7, 11, 
 
 2) vadovauti specialiojo teritorijų planavimo dokumentų rengimui (išskyrus atvejus, kai konkrečių specialiojo teritorijų planavimo dokumentų rengimą reglamentuojančiuose įstatymuose nustatyta kitaip) turi teisę teritorijų planavimo vadovas, turintis profesinę patirtį vadovaujant aukštesnio ar atitinkamo lygmens kompleksinio teritorijų planavimo dokumentų rengimui, jeigu juose buvo sprendžiami atitinkami specialiojo teritorijų planavimo dokumentui priskirtini uždaviniai, arba fizinis asmuo, pagal Vyriausybės nustatytas studijų sritis ir kryptis įgijęs aukštąjį (universitetinį ar koleginį) arba jam lygiavertį išsilavinimą, atitinkantį specialiojo teritorijų planavimo dokumento rūšį, ir turintis atestatą, suteikiantį teisę vadovauti specialiojo teritorijų planavimo dokumentų rengimui pagal teritorijų planavimo dokumentų rūšis ir teritorijų planavimo lygmenis. Šiame punkte nurodytų asmenų atestavimą atlieka valstybės įmonė Statybos produkcijos sertifikavimo centras, išskyrus asmenų, įgijusių aukštąjį universitetinį meno studijų srities architektūros krypties arba jam lygiavertį išsilavinimą, kurių atestavimą atlieka Lietuvos Respublikos architektų rūmai. Šis reikalavimas netaikomas kitos Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo teisėmis, jeigu jie turi kitos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, kompetentingos institucijos išduotą atestatą arba kitą dokumentą, įrodantį, kad jie kilmės valstybėje turi teisę užsiimti specialiojo teritorijų planavimo dokumentų rengimą atitinkančia veikla.
 
-3. Atestatų (išskyrus nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovų, kurių atestavimas vykdomas Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo nustatyta tvarka) išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką, atestavimą vykdančios atestavimo komisijos nuostatus ir jos sudėtį nustato aplinkos ministras kartu su kultūros ministru. Atestavimo komisija įvertina pretendento išsilavinimą, profesinę patirtį, gebėjimus ir kūrybingumą, profesinių ir teisinių žinių egzamino rezultatus, kvalifikacijos tobulinimo dokumentus, kitą pretendento pateiktą medžiagą ir pateikia išvadą atestatą išduoti arba prašymo netenkinti. Atestavimą atliekanti organizacija, remdamasi atestavimo komisijos išvada, priima atitinkamą sprendimą ir išduoda atestatą arba informuoja pretendentą apie prašymo netenkinimo motyvus ne vėliau kaip per 30 darbo dienų nuo visų dokumentų atestatui gauti gavimo dienos. Fiziniai asmenys turi teisę visas su atestavimu susijusias procedūras atestavimą atliekančios organizacijos nustatyta tvarka atlikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipdamiesi į atestavimą atliekančias organizacijas.
+3. Atestatų (išskyrus nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovų, kurių atestavimas vykdomas Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo nustatyta tvarka) išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką nustato aplinkos ministras kartu su kultūros ministru. Atestavimo komisija įvertina pretendento išsilavinimą, profesinę patirtį, gebėjimus ir kūrybingumą, profesinių ir teisinių žinių egzamino rezultatus, kvalifikacijos tobulinimo dokumentus, kitą pretendento pateiktą medžiagą ir pateikia išvadą atestatą išduoti arba prašymo netenkinti. Atestavimą atliekanti organizacija, remdamasi atestavimo komisijos išvada, priima atitinkamą sprendimą ir išduoda atestatą arba informuoja pretendentą apie prašymo netenkinimo motyvus ne vėliau kaip per 30 darbo dienų nuo visų dokumentų atestatui gauti gavimo dienos. Fiziniai asmenys turi teisę visas su atestavimu susijusias procedūras atestavimą atliekančios organizacijos nustatyta tvarka atlikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipdamiesi į atestavimą atliekančias organizacijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-500, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15875
 
 4. Atestatas pagal teritorijų planavimo dokumentų rūšis ir teritorijų planavimo lygmenis išduodamas neterminuotam laikui šio straipsnio 1 ir 2 dalyse nurodytiems fiziniams asmenims, atitinkantiems šiuos kvalifikacinius reikalavimus:
 
@@ -1592,9 +1604,19 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 3, 6, 7, 11, 
 
 3) profesinė patirtis dalyvaujant rengiant teritorijų planavimo dokumentus ar vadovaujant teritorijų planavimo dokumentų rengimui įrodoma pateikiant patvirtinto teritorijų planavimo dokumento pagrindinio ir (ar) kitų brėžinių su asmens pavarde ir parašu kampiniame brėžinio spaude kopijas. Atestavimo komisijos vertinimui papildomai gali būti pateiktos teritorijų planavimo viešinimo procedūrų, numatytų atitinkamose teritorijų planavimo dokumentų rengimo taisyklėse, dokumentų kopijos ir (ar) patvirtinto teritorijų planavimo dokumento rengėjo pažyma, nurodanti, kokiuose teritorijų planavimo proceso etapuose ir stadijose asmuo dalyvavo. Atestavimo komisija vertina asmens profesinę patirtį atsižvelgdama į pateiktų teritorijų planavimo dokumentų planavimo tikslus ir uždavinius bei asmens indėlį dalyvaujant rengiant šiuos dokumentus ir (ar) vadovaujant jų rengimui.
 
-5. Fiziniai asmenys, gavę atestatus, ne rečiau kaip kas 5 metai privalo tobulinti savo kvalifikaciją kvalifikacijos tobulinimo kursuose, išklausydami ne mažiau kaip 20 valandų teritorijų planavimo dokumentų rengimo, teisinių ir profesinių žinių srities paskaitų pagal aukštųjų mokyklų, asociacijų, mokymo įstaigų patvirtintas mokymo programas, suderintas su atestavimą atliekančia organizacija. Kvalifikacijos tobulinimą patvirtinantys dokumentai pateikiami atestavimą atliekančiai organizacijai šios organizacijos nustatyta tvarka. Jeigu atestavimą atliekanti organizacija nustato, kad atestato turėtojas nevykdė šio reikalavimo, atestato galiojimas sustabdomas iki 6 mėnesių terminui, iki atestuotas asmuo pateikia atestavimą atliekančiai organizacijai kvalifikacijos tobulinimą patvirtinančius dokumentus šios organizacijos nustatyta tvarka.
+5. Fiziniai asmenys, gavę atestatus, ne rečiau kaip kas 5 metai privalo tobulinti savo kvalifikaciją kvalifikacijos tobulinimo kursuose, išklausydami ne mažiau kaip 20 valandų teritorijų planavimo dokumentų rengimo, teisinių ir profesinių žinių srities paskaitų pagal aukštųjų mokyklų, asociacijų, mokymo įstaigų patvirtintas mokymo programas, suderintas su atestavimą atliekančia organizacija. Kvalifikacijos tobulinimą patvirtinantys dokumentai pateikiami atestavimą atliekančiai organizacijai šios organizacijos nustatyta tvarka. Jeigu atestavimą atliekanti organizacija nustato, kad atestato turėtojas nevykdė šio reikalavimo, atestato galiojimas sustabdomas 6 mėnesių terminui, iki atestuotas asmuo pateikia atestavimą atliekančiai organizacijai kvalifikacijos tobulinimą patvirtinančius dokumentus šios organizacijos nustatyta tvarka. Atestavimą atliekanti organizacija sustabdo atestato galiojimą tuo atveju, kai asmuo po atestavimą atliekančios organizacijos įspėjimo per 2 mėnesius nepateikė kvalifikacijos tobulinimą patvirtinančių dokumentų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-500, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15875
 
 6. Kai teritorijų planavimo valstybinę priežiūrą atliekanti institucija nustato, kad šio straipsnio 1 ir 2 dalyse nurodyti asmenys, rengdami teritorijų planavimo dokumentus ar vadovaudami jų rengimui, pažeidė įstatymų, kitų teisės aktų, teritorijų planavimo dokumentų rengimo reikalavimus, atestatų galiojimas gali būti sustabdomas, iki bus pašalinti pažeidimai, dėl kurių buvo sustabdytas atestatų galiojimas, visais atvejais ne ilgiau kaip 6 mėnesiams.
+
+61. Atestavimą atliekanti organizacija, atsižvelgdama į pažeidimo pobūdį, pasekmes, aplinkybes, kuriomis padarytas pažeidimas, 6 mėnesiams sustabdo atestato galiojimą architektams, kai jų veikloje nustatomi Europos architektūros paslaugų teikėjų etikos kodekso pažeidimai, taip pat kai paaiškėja, kad jie padarė pažeidimus, nurodytus Lietuvos Respublikos architektūros įstatyme, ir nustato terminą pažeidimams, dėl kurių sustabdomas atestato galiojimas, pašalinti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-500, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15875
 
 7. Atestato turėtojui pateikus dokumentus, įrodančius, kad pažeidimai, dėl kurių buvo sustabdytas atestato galiojimas, pašalinti, atestato galiojimo sustabdymas panaikinamas per 10 darbo dienų nuo šių dokumentų pateikimo dienos.
 
@@ -1610,7 +1632,19 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 3, 6, 7, 11, 
 
 5) paaiškėja, kad atestato turėtojas pateikė neteisingus duomenis atestatui gauti;
 
-6) atestato turėtojo prašymu.
+6) atestato turėtojo prašymu;
+
+7) atestato turėtojas miršta;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-500, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15875
+
+8) paaiškėja, kad atestato turėtojas padarė pažeidimus, nurodytus Architektūros įstatyme.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-500, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15875
 
 9. Panaikinus atestato galiojimą, šio straipsnio 1 ir 2 dalyse nurodyti fiziniai asmenys dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po vienų metų, išskyrus šio straipsnio 8 dalies 6 punkte nurodytą atvejį.
 
