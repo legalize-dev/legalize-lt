@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2020-01-01"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -602,11 +602,17 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 
 5) atlyginti neteisėtais veiksmais žuvų ištekliams padarytą žalą;
 
-6) vykdyti Aplinkos ministerijos arba jos įgaliotos institucijos ir Žuvininkystės tarnybos pareigūnų reikalavimus.
+6) vykdyti Aplinkos ministerijos arba jos įgaliotos institucijos ir Žuvininkystės tarnybos pareigūnų reikalavimus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
+
+7) pildyti žvejybos žurnalą aplinkos ministro nustatyta tvarka, jeigu vykdo verslinę žvejybą vidaus vandenyse.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 TREČIASIS SKIRSNIS
 
@@ -670,7 +676,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-765, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18818
 
-5. Žuvininkystės tarnyba patvirtina atrankos Lietuvos Respublikos žvejybos laivų varomojo variklio galios patikrai planą ir atlieka Lietuvos Respublikos žvejybos laivų varomojo variklio galios patikrą.
+5. Žemės ūkio ministras nustato Lietuvos Respublikos žvejybos laivų varomųjų variklių galios sertifikavimo tvarką. Žuvininkystės tarnyba patvirtina atrankos Lietuvos Respublikos žvejybos laivų varomojo variklio galios patikrai planą ir atlieka Lietuvos Respublikos žvejybos laivų varomojo variklio galios patikrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 13 straipsnis. Lietuvos Respublikos žvejybos laivo liudijimo išdavimas, jo galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, liudijimo pakeitimas ir liudijimo galiojimo panaikinimas
 
@@ -696,13 +706,23 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
-9) ūkio subjektas turi ne mažesnio kaip žvejybos laivo, kuriam prašoma išduoti Lietuvos Respublikos žvejybos laivo liudijimą, žvejybos pajėgumo dydžio laisvą žvejybos pajėgumą;
+9) ūkio subjektas turi ne mažesnio kaip žvejybos laivo, kuriam prašoma išduoti Lietuvos Respublikos žvejybos laivo liudijimą, žvejybos pajėgumo dydžio laisvą žvejybos pajėgumą. Šis reikalavimas netaikomas, jeigu ne ilgesniam kaip 24 mėnesių laikotarpiui, reikalingam moksliniams tyrimams atlikti, prašoma išduoti Lietuvos Respublikos žvejybos laivo liudijimą vykdyti žvejybą tik mokslinių tyrimų tikslais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 10) nėra galutinai panaikintas žvejybos laivo, kuriam prašoma išduoti Lietuvos Respublikos žvejybos laivo liudijimą, anksčiau išduotas Lietuvos Respublikos žvejybos laivo liudijimas, pritaikius Reglamento (EB) Nr. 1224/2009 92 straipsnio 3 dalyje nustatytą priemonę.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
+
+11. Dėl vieno žvejybos laivo Lietuvos Respublikos žvejybos laivo liudijimas gali būti išduodamas tik vienam ūkio subjektui. Lietuvos Respublikos žvejybos laivą verslinei žvejybai gali naudoti tik tas ūkio subjektas, kuriam yra išduotas Lietuvos Respublikos žvejybos laivo liudijimas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 2. Prašymą išduoti Lietuvos Respublikos žvejybos laivo liudijimą ir atitikties tam tikriems šio straipsnio 1 dalyje nustatytiems reikalavimams patvirtinimo dokumentus (toliau – dokumentai liudijimui išduoti) galima pateikti per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba tiesiogiai kreipiantis į Žemės ūkio ministerijos įgaliotą instituciją. Žemės ūkio ministerijos įgaliota institucija per 5 darbo dienas nuo dokumentų liudijimui išduoti gavimo dienos išsiunčia pareiškėjui patvirtinimą apie gautus dokumentus.
 
@@ -732,7 +752,11 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 1) dėl atlikto Lietuvos Respublikos žvejybos laivo modifikavimo pasikeičia Lietuvos Respublikos žvejybos laivo liudijime nurodyti duomenys apie žvejybos pajėgumą, jeigu ūkio subjektas turi laisvą žvejybos pajėgumą, kuris panaudojamas padidinant Lietuvos Respublikos žvejybos laivo žvejybos pajėgumą, ir yra įvykdyti šio įstatymo 12 straipsnyje nustatyti reikalavimai;
 
-2) pasikeičia kiti Lietuvos Respublikos žvejybos laivo liudijime nurodyti duomenys (išskyrus duomenis apie žvejybos pajėgumą).
+2) pasikeičia kiti Lietuvos Respublikos žvejybos laivo liudijime nurodyti duomenys (išskyrus duomenis apie žvejybos pajėgumą ir Lietuvos Respublikos žvejybos laivo valdytojo pasikeitimo atvejį).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 8. Pakeitus Lietuvos Respublikos žvejybos laivo liudijimą, anksčiau tam pačiam žvejybos laivui išduotas Lietuvos Respublikos žvejybos laivo liudijimas laikomas negaliojančiu.
 
@@ -750,7 +774,11 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 1) Lietuvos Respublikos žvejybos laivas išregistruotas iš Lietuvos Respublikos jūrų laivų registro arba Lietuvos Respublikos vidaus vandenų laivų registro;
 
-2) prieš nuosavybės teisės į Lietuvos Respublikos žvejybos laivą perleidimą be to žvejybos laivo Lietuvos Respublikos žvejybos laivo liudijime nurodyto žvejybos pajėgumo;
+2) pasikeitus Lietuvos Respublikos žvejybos laivo valdytojui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 3) rašytiniu ūkio subjekto prašymu;
 
@@ -782,7 +810,11 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 
 15 straipsnis. Verslinės žvejybos vidaus vandenyse leidimų išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir leidimų galiojimo panaikinimas
 
-1. Verslinės žvejybos vidaus vandenyse leidimo galiojimo laikotarpis sutampa su teisės į žvejybos kvotą galiojimo laikotarpiu, išskyrus verslinės žvejybos vidaus vandenyse leidimus, išduotus žvejybos ploto naudotojams.
+1. Verslinės žvejybos vidaus vandenyse leidimo galiojimo laikotarpis sutampa su žvejybos kvotos galiojimo laikotarpiu, išskyrus verslinės žvejybos vidaus vandenyse leidimus, išduotus žvejybos ploto naudotojams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 2. Ūkio subjektui išduodamas verslinės žvejybos vidaus vandenyse leidimas pateikus prašymą, jeigu yra visos šios sąlygos:
 
@@ -930,7 +962,11 @@ a) ūkio subjektas pateikia dokumentus, kuriais įrodoma, kad tas žvejybos laiv
 
 b) jeigu užsienio valstybė, suteikusi teisę plaukioti su jos vėliava laikotarpiu, kai tas žvejybos laivas nebuvo Europos Sąjungos žvejybos laivyno registre, nėra pripažinta kaip nebendradarbiaujanti valstybė kovos su neteisėta, nedeklaruojama ir nereglamentuojama žvejyba, atgrasymo nuo jos ir jos panaikinimo srityje arba kaip valstybė, leidžianti netausiai naudoti žuvų išteklius (toliau – nebendradarbiaujanti valstybė), arba jeigu nuo datos, kai tokia valstybė buvo pripažinta kaip nebendradarbiaujanti valstybė, ūkio subjektas nutraukė verslinę žvejybą ir ne vėliau kaip per 2 mėnesius išbraukė tą žvejybos laivą iš tos užsienio valstybės laivyno registro;
 
-7) nėra sustabdyta verslinė žvejyba tam tikrame geografiniame žvejybos rajone;
+7) nėra sustabdyta verslinė žvejyba tam tikrame geografiniame žvejybos rajone (ši sąlyga netaikoma, kai žvejybą planuojama vykdyti tik mokslinių tyrimų tikslais);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 8) ūkio subjektas nėra įtariamas padaręs arba užkluptas darantis sunkų pažeidimą, nurodytą šio įstatymo 53 straipsnyje, dėl kurio būtų siekiama užkirsti kelią toliau tęsti sunkų pažeidimą ir užtikrinti sunkaus pažeidimo ištyrimą neleidžiant vykdyti verslinės žvejybos.
 
@@ -1038,29 +1074,47 @@ Mėgėjų žvejyba vidaus ir jūrų vandenyse leidžiama Mėgėjų žvejybos įs
 
 4) pareiškėjui nėra atimta teisė vykdyti specialiąją žvejybą arba išduoto specialiosios žvejybos leidimo galiojimas nėra sustabdytas;
 
-5) jeigu specialiosios žvejybos leidimas reikalingas žvejoti privačiuose vidaus vandenų telkiniuose arba telkiniuose, naudojamuose kaip žvejybos plotai (yra išduotas leidimas naudoti žvejybos plotą), pareiškėjas pateikė šių vandens telkinių savininkų arba žvejybos ploto naudotojų rašytinį sutikimą.
+5) jeigu specialiosios žvejybos leidimas reikalingas žvejoti privačiuose vidaus vandenų telkiniuose arba telkiniuose, naudojamuose kaip žvejybos plotai (yra išduotas leidimas naudoti žvejybos plotą), pareiškėjas pateikė šių vandens telkinių savininkų arba žvejybos ploto naudotojų rašytinį sutikimą;
+
+6) jeigu specialiosios žvejybos leidimas reikalingas žvejoti jūrų vandenyse mokslinių tyrimų tikslais – specialioji žvejyba bus vykdoma Lietuvos Respublikos žvejybos laivu, dėl kurio eksploatavimo yra išduotas verslinės žvejybos jūrų vandenyse leidimas (ši sąlyga netaikoma, jeigu verslinės žvejybos jūrų vandenyse leidimo nereikia pagal Reglamento (ES) Nr. 404/2011 4 straipsnio 5 dalį).
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 3. Specialiosios žvejybos leidimai išduodami tam tikram žuvų kiekiui sugauti arba galioja specialiosios žvejybos tikslams pasiekti reikalingą laikotarpį. Leidžiamą sugauti žuvų kiekį arba specialiosios žvejybos tikslams pasiekti reikalingą laikotarpį nustato Žemės ūkio ministerijos arba Aplinkos ministerijos įgaliota institucija pagal kompetenciją pagal pareiškėjo prašyme nurodytą pagrįstą poreikį.
 
 4. Prašymą išduoti specialiosios žvejybos leidimą ir šio straipsnio 2 dalies 5 punkte nurodytą dokumentą, jeigu jo reikia, (toliau – dokumentai leidimui išduoti) galima pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipiantis pagal kompetenciją į Aplinkos ministerijos arba Žemės ūkio ministerijos įgaliotą instituciją. Aplinkos ministerijos arba Žemės ūkio ministerijos įgaliota institucija per 5 darbo dienas nuo dokumentų specialiosios žvejybos leidimui išduoti gavimo dienos išsiunčia pareiškėjui patvirtinimą apie gautus dokumentus.
 
-5. Specialiosios žvejybos leidimą išduoti įgaliota institucija ne vėliau kaip per 10 darbo dienų nuo dokumentų leidimui išduoti gavimo dienos išduoda specialiosios žvejybos leidimą arba informuoja apie atsisakymą jį išduoti, nurodydama atsisakymo priežastis, tokiu būdu, kokiu buvo gauti dokumentai leidimui išduoti, arba kitu pareiškėjo prašyme nurodytu būdu.
+5. Specialiosios žvejybos leidimą išduoti įgaliota institucija ne vėliau kaip per 10 darbo dienų nuo dokumentų leidimui išduoti gavimo dienos išduoda specialiosios žvejybos leidimą arba informuoja apie atsisakymą jį išduoti, nurodydama atsisakymo priežastis, tokiu būdu, kokiu buvo gauti dokumentai leidimui išduoti, arba kitu pareiškėjo prašyme nurodytu būdu. Jeigu specialiąją žvejybą mokslinių tyrimų tikslais planuojama vykdyti jūrų vandenyse, į kuriuos viena ar kelios kitos Europos Sąjungos valstybės narės turi suverenias teises arba kurie priklauso jų jurisdikcijai, specialiosios žvejybos leidimo išdavimo terminas gali būti pratęstas dviem savaitėms, išskyrus atvejį, kai specialiąją žvejybą planuojama vykdyti vandens organizmų išteklių atkūrimo arba perkėlimo tikslais, – tokiu atveju terminas pratęsiamas 20 kalendorinių dienų ir specialiosios žvejybos leidimas išduodamas tik gavus suinteresuotų Europos Sąjungos valstybių narių leidimą. Jeigu specialiąją žvejybą jūrų vandenyse planuojama vykdyti daugiau kaip šešiais žvejybos laivais, specialiosios žvejybos leidimo išdavimo terminas pratęsiamas 3 mėnesiams ir specialiosios žvejybos leidimas išduodamas tik gavus Europos Komisijos pritarimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 6. Jeigu pareiškėjas pateikia ne visus dokumentus specialiosios žvejybos leidimui išduoti arba prašyme pateikta ne visa privaloma pateikti informacija, specialiosios žvejybos leidimą išduodanti institucija per 5 darbo dienas nuo dokumentų leidimui išduoti gavimo dienos apie tai raštu praneša pareiškėjui ir informuoja, kad terminas specialiosios žvejybos leidimui išduoti bus pradedamas skaičiuoti gavus visus trūkstamus dokumentus ar informaciją.
 
 7. Specialiosios žvejybos leidimas yra elektroninės arba pareiškėjo prašymu popierinės formos.
 
-8. Specialiosios žvejybos leidimo galiojimas sustabdomas, iki vadovaujantis Administracinių nusižengimų kodeksu bus išnagrinėta pažeidimo byla, jeigu fizinis arba juridinis asmuo yra įtariamas specialiąją žvejybą reglamentuojančių teisės aktų pažeidimu, kurio metu padaryta žala žuvų ištekliams.
+8. Specialiosios žvejybos leidimo galiojimas sustabdomas, jeigu yra bent viena iš šių sąlygų:
+
+1) fizinis arba juridinis asmuo yra įtariamas padaręs specialiąją žvejybą reglamentuojančių teisės aktų pažeidimą, kuriuo padaryta žala žuvų ištekliams, ir pradėta nagrinėti pažeidimo byla;
+
+2) sustabdomas verslinės žvejybos jūrų vandenyse leidimo, išduoto Lietuvos Respublikos žvejybos laivui, kuriuo vykdoma specialioji žvejyba mokslinių tyrimų tikslais jūrų vandenyse, galiojimas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
-9. Specialiosios žvejybos leidimo galiojimo sustabdymas panaikinamas, kai priimamas nutarimas pažeidimo byloje ir pažeidėjas sumoka jam skirtą baudą ir atlygina žuvų ištekliams padarytą žalą arba kai pažeidimo byloje priimamas nutarimas nutraukti bylą.
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
+
+9. Specialiosios žvejybos leidimo galiojimo sustabdymas panaikinamas, kai priimamas nutarimas pažeidimo byloje ir pažeidėjas sumoka jam skirtą baudą ir atlygina žuvų ištekliams padarytą žalą arba kai pažeidimo byloje priimamas nutarimas nutraukti bylą. Jeigu specialiosios žvejybos leidimo galiojimas buvo sustabdytas dėl verslinės žvejybos jūrų vandenyse leidimo galiojimo sustabdymo, specialiosios žvejybos leidimo galiojimo sustabdymas panaikinamas panaikinus verslinės žvejybos jūrų vandenyse leidimo galiojimo sustabdymą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 10. Specialiosios žvejybos leidimo galiojimas panaikinamas, jeigu yra bent viena iš šių sąlygų:
 
@@ -1068,7 +1122,13 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 2) išduodant specialiosios žvejybos leidimą, buvo pažeistos jo išdavimo sąlygos;
 
-3) pasibaigia juridinis asmuo arba miršta fizinis asmuo, kuriam buvo išduotas specialiosios žvejybos leidimas.
+3) pasibaigia juridinis asmuo arba miršta fizinis asmuo, kuriam buvo išduotas specialiosios žvejybos leidimas;
+
+4) panaikinamas verslinės žvejybos jūrų vandenyse leidimo, išduoto Lietuvos Respublikos žvejybos laivui, kuriuo vykdoma specialioji žvejyba jūrų vandenyse mokslinių tyrimų tikslais, galiojimas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 11. Neteko galios nuo 2017-01-01
 
@@ -1084,7 +1144,11 @@ SEPTINTASIS SKIRSNIS
 
 1. Planuojant, projektuojant, statant ir eksploatuojant ūkinės ar kitokios veiklos objektus, galinčius neigiamai veikti žuvis ir jų aplinką, turi būti numatytos priemonės, užtikrinančios palankias žuvų reprodukcijos, migracijos ir gyvenimo sąlygas. Jeigu dėl tokios veiklos neigiamas poveikis žuvims ir jų aplinkai neišvengiamas, projektuose turi būti numatytas žalos atlyginimas arba žalos kompensavimo priemonės, kurias turi atlikti darbų užsakovai.
 
-2. Saugomų rūšių žuvų ir jų buveinių bei migracijos kelių išsaugojimo priemones nustato ir jų vykdymą kontroliuoja Aplinkos ministerija. Saugomų rūšių žuvų veisimo, neršto ir migracijos sąlygų gerinimo darbus organizuoja Žemės ūkio ministerija arba jos įgaliota institucija.
+2. Saugomų rūšių žuvų ir jų buveinių bei migracijos kelių išsaugojimo priemones nustato ir jų vykdymą kontroliuoja Aplinkos ministerija. Saugomų rūšių žuvų veisimo, neršto ir migracijos sąlygų gerinimo darbus organizuoja žemės ūkio ministro ir (ar) aplinkos ministro įgaliotos institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 3. Valstybinė maisto ir veterinarijos tarnyba kontroliuoja vandens telkinių epizootinę būklę, o masiškai pasireiškus užkrečiamosioms žuvų ligoms – atlieka diagnostinius tyrimus ir organizuoja gydymo ir profilaktikos darbus.
 
@@ -1992,7 +2056,11 @@ VIENUOLIKTASIS SKIRSNIS
 
 2) Reglamento (EB) Nr. 1224/2009 90 straipsnio 1 dalyje nurodyti pažeidimai, jeigu juos sunkiais pripažįsta šio įstatymo 54 straipsnio 1 dalyje nurodyti pareigūnai.
 
-2. Sunkiais pažeidimais žuvininkystės srityje šio straipsnio 1 dalyje nurodyti pažeidimai pripažįstami, jeigu yra atitiktis bent vienam iš šių kriterijų:
+2. Sunkiais pažeidimais žuvininkystės srityje šio straipsnio 1 dalies 1 ir 2 punktuose nurodyti pažeidimai pripažįstami, jeigu yra atitiktis bent vienam iš šių kriterijų:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 1) dėl pažeidimo žuvų ištekliams padaryta didesnė negu 50 bazinių bausmių ir nuobaudų dydžių žala;
 
@@ -2236,7 +2304,7 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                 VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -2246,29 +2314,33 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2002 m. gruodžio 16 d. Tarybos reglamentas (EB) Nr. 2347/2002, nustatantis konkrečius prieinamumo reikalavimus ir susijusias sąlygas, taikomas giliavandenių žuvų išteklių žvejybai (OL 2004 m. specialusis leidimas, 4 skyrius, 5 tomas, p. 391), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812 (OL 2015 L 133, p. 1).
+1. 2002 m. gruodžio 16 d. Tarybos reglamentas (EB) Nr. 2347/2002, nustatantis konkrečius prieinamumo reikalavimus ir susijusias sąlygas, taikomas giliavandenių žuvų išteklių žvejybai, su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812.
 
-2. 2007 m. rugsėjo 18 d. Tarybos reglamentas (EB) Nr. 1098/2007, nustatantis Baltijos jūros menkių išteklių ir jų žvejybos būdų daugiametį planą bei iš dalies keičiantis Reglamentą (EEB) Nr. 2847/93 ir panaikinantis Reglamentą (EB) Nr. 779/97 (OL 2007 L 248, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812 (OL 2015 L 133, p. 1).
+2. 2007 m. rugsėjo 18 d. Tarybos reglamentas (EB) Nr. 1098/2007, nustatantis Baltijos jūros menkių išteklių ir jų žvejybos būdų daugiametį planą bei iš dalies keičiantis Reglamentą (EEB) Nr. 2847/93 ir panaikinantis Reglamentą (EB) Nr. 779/97, su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812.
 
-3. 2008 m. liepos 14 d. Komisijos reglamentas (EB) Nr. 665/2008, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 199/2008 dėl Bendrijos sistemos, skirtos duomenų rinkimui, tvarkymui ir naudojimui žuvininkystės sektoriuje bei paramai mokslinėms rekomendacijoms dėl bendros žuvininkystės politikos, sukūrimo, taikymo taisyklės (OL 2008 L 186, p. 3).
+3. 2008 m. liepos 14 d. Komisijos reglamentas (EB) Nr. 665/2008, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 199/2008 dėl Bendrijos sistemos, skirtos duomenų rinkimui, tvarkymui ir naudojimui žuvininkystės sektoriuje bei paramai mokslinėms rekomendacijoms dėl bendros žuvininkystės politikos, sukūrimo, taikymo taisyklės.
 
-4. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1005/2008, nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis reglamentus (EB) Nr. 1093/94 ir (EB) Nr. 1447/1999 (OL 2008 L 286, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. kovo 1 d. Komisijos reglamentu (ES) Nr. 202/2011 (OL 2011 L 57, p. 10).
+4. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1005/2008, nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis reglamentus (EB) Nr. 1093/94 ir (EB) Nr. 1447/1999, su paskutiniais pakeitimais, padarytais 2011 m. kovo 1 d. Komisijos reglamentu (ES) Nr. 202/2011.
 
-5. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1006/2008 dėl Bendrijos žvejybos laivų žvejybos veiklos ne Bendrijos vandenyse leidimų ir trečiųjų šalių laivų žvejybos galimybių Bendrijos vandenyse, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93 ir (EB) Nr. 1627/94 bei panaikinantis Reglamentą (EB) Nr. 3317/94 (OL 2008 L 286, p. 33).
+5. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1006/2008 dėl Bendrijos žvejybos laivų žvejybos veiklos ne Bendrijos vandenyse leidimų ir trečiųjų šalių laivų žvejybos galimybių Bendrijos vandenyse, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93 ir (EB) Nr. 1627/94 bei panaikinantis Reglamentą (EB) Nr. 3317/94.
 
-6. 2009 m. spalio 22 d. Komisijos reglamentas (EB) Nr. 1010/2009, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1005/2008, nustatančio Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, įgyvendinimo taisyklės (OL 2009 L 280, p. 5), su paskutiniais pakeitimais, padarytais 2013 m. rugsėjo 9 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 865/2013 (OL 2013 L 241, p. 1).
+6. 2009 m. spalio 22 d. Komisijos reglamentas (EB) Nr. 1010/2009, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1005/2008, nustatančio Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, įgyvendinimo taisyklės, su paskutiniais pakeitimais, padarytais 2013 m. rugsėjo 9 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 865/2013.
 
-7. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006 (OL 2009 L 343, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812 (OL 2015 L 133, p. 1).
+7. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006, su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812.
 
-8. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1224/2009, nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės (OL 2011 L 112, p. 1).
+8. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1224/2009, nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės.
 
-9. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000 (OL 2013 L 354, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812 (OL 2015 L 133, p. 1).
+9. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000, su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812.
 
-10. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB (OL 2013 L 354, p. 22), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812 (OL 2015 L 133, p. 1).
+10. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB, su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812.
+
+11. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1241 dėl žuvininkystės išteklių išsaugojimo ir jūrų ekosistemų apsaugos taikant technines priemones, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 2019/2006, (EB) Nr. 1224/2009 ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1380/2013, (ES) 2016/1139, (ES) 2018/973, (ES) 2019/472 ir (ES) 2019/1022 ir panaikinami Tarybos reglamentai (EB) Nr. 894/97, (EB) Nr. 850/98, (EB) Nr. 2549/2000, (EB) Nr. 254/2002, (EB) Nr. 812/2004 bei (EB) Nr. 2187/2005.
 
 Priedo pakeitimai:
 
 Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 Pakeitimai:
 
@@ -2432,9 +2504,21 @@ Nr. XIII-2196, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09855
 
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 24 straipsnio pakeitimo įstatymas
 
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
+
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 8, 12, 13, 14-1, 14-3, 14-4, 15, 17-1, 17-7, 18, 21, 22, 53 straipsnių ir priedo pakeitimo įstatymas
+
 141 straipsnis. Teisės į žvejybos kvotą suteikimas
 
-1. Teisė į žvejybos kvotą suteikiama aukciono ir ne aukciono būdu ne trumpiau kaip 5 ir ne ilgiau kaip 10 kalendorinių metų laikotarpiui.
+1. Teisė į žvejybos kvotą suteikiama aukciono būdu ir ne aukciono būdu 5 kalendorinių metų laikotarpiui. Jeigu teisė į žvejybos kvotą buvo panaikinta dėl šio įstatymo 143 straipsnio 3 dalyje nustatytų priežasčių, pakartotinai ši teisė į žvejybos kvotą (likusią neišnaudotą jos dalį) ūkio subjektams suteikiama aukciono būdu laikotarpiui, kurį būtų galiojusi panaikinta teisė į žvejybos kvotą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 2. Teisė į žvejybos kvotą ežeruose, polderiuose ir tvenkiniuose suteikiama aukciono būdu atitinkamam ūkio subjektų skaičiui, atsižvelgiant į didžiausią ūkio subjektų, kuriems gali būti suteikta teisė į žvejybos kvotą, skaičių: ežeruose, polderiuose ir tvenkiniuose, kurių plotas iki 499 ha, – 1; nuo 500 iki 999 ha – 2; nuo 1 000 iki 7 000 ha – 3.
 
@@ -2458,7 +2542,11 @@ Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 24 straipsnio pakei
 
 3) balai didinami 15 procentų, jeigu ūkio subjektas yra pasirašęs sutartį su Nacionaline mokėjimo agentūra prie Žemės ūkio ministerijos dėl paramos gavimo vykdant projektą, susijusį su žuvų išteklių naudojimu;
 
-4) balai mažinami 1 procentu už kiekvieną ūkio subjekto padarytą verslinę žvejybą vidaus vandenyse reglamentuojančių teisės aktų pažeidimą, kuris nelaikomas šiurkščiu, ir 3 procentais už kiekvieną ūkio subjekto padarytą šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą per paskutinius 3 kalendorinius metus.
+4) balai mažinami 3 procentais už kiekvieną ūkio subjekto padarytą verslinę žvejybą vidaus vandenyse reglamentuojančių teisės aktų pažeidimą, kuris nelaikomas šiurkščiu, ir 10 procentų už kiekvieną ūkio subjekto padarytą šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą per paskutinius 3 kalendorinius metus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 5. Ūkio subjektai, gavę teisę į žvejybos kvotą ne aukciono būdu, žuvų ištekliams atkurti ir saugoti kiekvienais metais skiria žemės ūkio ministro nustatytą pradinę aukciono kainą, kuri apskaičiuojama atsižvelgiant į vidutinį žvejybos įrankių naudojimo efektyvumą ir vidutinę pirminio žvejybos produktų pardavimo kainą. Ūkio subjektai, laimėję teisę į žvejybos kvotą aukciono būdu, žuvų ištekliams atkurti ir saugoti kiekvienais metais skiria aukcione pasiūlytą kainą.
 
@@ -2524,9 +2612,17 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 
 1) taikoma žvejybos reglamentavimo priemonė – verslinės žvejybos draudimas arba ribojimas tame vidaus vandenų telkinyje. Verslinės žvejybos ribojimo atveju, kai draudžiama tam tikrų žuvų rūšių verslinė žvejyba ar žvejyba tam tikrais verslinės žvejybos įrankiais, teisės į žvejybos kvotą galiojimas sustabdomas iš dalies;
 
-2) ūkio subjektas žemės ūkio ministro nustatyta tvarka neskyrė lėšų žuvų ištekliams atkurti ir saugoti. Prieš sustabdant teisės į žvejybos kvotą galiojimą, žemės ūkio ministro įgaliota institucija ūkio subjektą įspėja ir šiam įsipareigojimui įvykdyti nustato ne trumpesnį kaip 5 darbo dienų terminą, kuris ūkio subjekto prašymu gali būti pratęstas, bet ne ilgiau kaip 15 kalendorinių dienų. Jeigu per nustatytą laikotarpį ūkio subjektas neįvykdo šio įsipareigojimo, jo teisės į žvejybos kvotą galiojimas sustabdomas;
+2) ūkio subjektas žemės ūkio ministro nustatyta tvarka neskyrė lėšų žuvų ištekliams atkurti ir saugoti. Prieš sustabdant teisės į žvejybos kvotą galiojimą, žemės ūkio ministro įgaliota institucija ūkio subjektą įspėja ir šiam įsipareigojimui įvykdyti nustato 5 darbo dienų terminą, kuris ūkio subjekto prašymu gali būti pratęstas, bet ne ilgiau kaip 15 darbo dienų. Jeigu per nustatytą laikotarpį ūkio subjektas neįvykdo šio įsipareigojimo, jo teisės į žvejybos kvotą galiojimas sustabdomas;
 
-3) ūkio subjektas aplinkos ministro nustatyta tvarka nepateikė duomenų apie žvejybos produktus, įrankius, trukmę ir žvejybos produktų pirminio pardavimo kainą;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
+
+3) ūkio subjektas aplinkos ministro nustatyta tvarka nepateikė duomenų arba pateikė neteisingus duomenis apie žvejybos produktus, įrankius, trukmę ir žvejybos produktų pirminio pardavimo kainą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 4) ūkio subjektas padarė:
 
@@ -2542,7 +2638,11 @@ c) keturis šiurkščius verslinės žvejybos vidaus vandenyse tvarkos pažeidim
 
 2) ūkio subjektas per 5 darbo dienas nuo teisės į žvejybos kvotą galiojimo sustabdymo skyrė lėšų žuvų ištekliams atkurti ir saugoti. Šis terminas, atsižvelgiant į objektyvias aplinkybes, pratęsiamas, bet ne daugiau kaip 15 kalendorinių dienų;
 
-3) ūkio subjektas pateikė duomenis apie žvejybos produktus, įrankius, trukmę ir žvejybos produktų pirminio pardavimo kainą;
+3) ūkio subjektas pateikė trūkstamus arba tikslius duomenis apie žvejybos produktus, įrankius, trukmę ir žvejybos produktų pirminio pardavimo kainą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 4) pasibaigė nustatytas teisės į žvejybos kvotą galiojimo sustabdymo už šiurkščius pažeidimus laikotarpis.
 
@@ -2566,11 +2666,19 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 
 144 straipsnis. Teisės į žvejybos kvotą ar žvejybos kvotos perleidimas
 
-1. Ūkio subjektas jam skirtą žvejybos kvotą, išreikštą didžiausiu galimu sugauti žuvų kiekiu, ar jos dalį gali žemės ūkio ministro nustatyta tvarka perleisti kitam ūkio subjektui, turinčiam teisę į žvejybos kvotą verslinei žvejybai tame pačiame vandens telkinyje, arba apsikeisti su juo žvejybos kvotomis. Jeigu žvejybos kvota yra išreikšta žvejybos įrankių ar žvejybos dienų skaičiumi, ūkio subjektas gali ją ar jos dalį išnuomoti, atiduoti panaudai ar apsikeisti žvejybos kvotomis iki vienų kalendorinių metų laikotarpiui žemės ūkio ministro nustatyta tvarka su kitu ūkio subjektu, turinčiu teisę į žvejybos kvotą verslinei žvejybai tame pačiame vidaus vandenų telkinyje. Pasibaigus teisės į žvejybos kvotą galiojimo laikotarpiui ir iš naujo suteikiant teisę į žvejybos kvotą ūkio subjektui, kuris buvo išnuomojęs, perleidęs ar atidavęs panaudai savo žvejybos kvotą arba apsikeitęs ja, vertinama tik to ūkio subjekto vykdyta verslinė žvejyba.
+1. Ūkio subjektas jam skirtą žvejybos kvotą, išreikštą didžiausiu galimu sugauti žuvų kiekiu, ar jos dalį gali žemės ūkio ministro nustatyta tvarka perleisti kitam ūkio subjektui, turinčiam teisę į žvejybos kvotą verslinei žvejybai tame pačiame vandens telkinyje, arba apsikeisti su juo žvejybos kvotomis. Jeigu žvejybos kvota yra išreikšta žvejybos įrankių ar žvejybos dienų skaičiumi, ūkio subjektas gali ją ar jos dalį išnuomoti, atiduoti panaudai ar apsikeisti žvejybos kvotomis iki vienų kalendorinių metų laikotarpiui žemės ūkio ministro nustatyta tvarka su kitu ūkio subjektu, turinčiu teisę į žvejybos kvotą verslinei žvejybai tame pačiame vidaus vandenų telkinyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 2. Ūkio subjektas jam suteiktą teisę į žvejybos kvotą kartu su įsipareigojimu mokėti atitinkamą lėšų žuvų ištekliams atkurti ir išsaugoti dydį turi teisę perleisti žemės ūkio ministro nustatyta tvarka kitam ūkio subjektui.
 
-3. Pasibaigus teisės į žvejybos kvotą galiojimo laikotarpiui, iš naujo suteikiant šią teisę ūkio subjektui, kuriam buvo perleista teisė į žvejybos kvotą, vertinama tiek jo, tiek ir perleidusio teisę į žvejybos kvotą ūkio subjekto anksčiau vykdyta verslinė žvejyba.
+3. Neteko galios nuo 2021-11-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 4. Teisės į žvejybos kvotą ir žvejybos kvotos negali perleisti ūkio subjektas, jeigu:
 
@@ -2608,7 +2716,11 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 
 7. Žvejybos galimybių vertė apskaičiuojama pagal paskutinių vienų kalendorinių metų, kuriais buvo vykdoma tam tikros rūšies žuvų verslinė žvejyba, tos rūšies vidutinę pirminio žvejybos produktų pardavimo kainą Lietuvos Respublikos teritorijoje arba kitose Europos Sąjungos valstybėse narėse ar užsienio valstybėse, jeigu tos rūšies pirminis žvejybos produktų pardavimas Lietuvos Respublikos teritorijoje nebuvo vykdomas. Jeigu žvejybos produktai parduodami apdoroti ar perdirbti, perskaičiuojama į gyvų žuvų svorį, kaip numatyta Reglamento (ES) Nr. 404/2011 50 straipsnyje.
 
-8. Ūkio subjektai, atitinkantys šio įstatymo 17 straipsnio 11 dalyje nustatytas sąlygas, gali tarpusavyje keistis individualiomis žvejybos galimybėmis žemės ūkio ministro nustatyta tvarka. Jeigu ūkio subjektai keičiasi nelygiavertėmis individualiomis žvejybos galimybėmis, žemės ūkio ministro nustatyta tvarka žuvų ištekliams atkurti ir saugoti ūkio subjektas, kuris, apsikeitęs individualiomis žvejybos galimybėmis, gauna mažesnės vertės individualias žvejybos galimybes negu jam buvo skirta, turi sumokėti 10 procentų nuo apsikeičiamų individualių žvejybos galimybių verčių skirtumo.
+8. Ūkio subjektai, atitinkantys šio įstatymo 17 straipsnio 11 dalyje nustatytas sąlygas, gali tarpusavyje keistis individualiomis žvejybos galimybėmis žemės ūkio ministro nustatyta tvarka. Jeigu ūkio subjektai keičiasi nelygiavertėmis individualiomis žvejybos galimybėmis arba perleidžia savo individualias žvejybos galimybes ar jų dalį, žemės ūkio ministro nustatyta tvarka žuvų ištekliams atkurti ir saugoti individualias žvejybos galimybes ar jų dalį perleidęs ūkio subjektas arba ūkio subjektas, kuris, apsikeitęs individualiomis žvejybos galimybėmis, gauna mažesnės vertės individualias žvejybos galimybes, negu jam buvo skirta, turi sumokėti 10 procentų atitinkamai nuo perleidžiamų individualių žvejybos galimybių vertės arba apsikeičiamų individualių žvejybos galimybių verčių skirtumo, išskyrus atvejį, kai ūkio subjektai būna iš anksto susitarę dėl apsikeičiamų individualių žvejybos galimybių verčių išlyginimo per kelis apsikeitimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 9. Ūkio subjektai, atitinkantys šio įstatymo 17 straipsnio 11 dalyje nustatytas sąlygas, norėdami tarpusavyje keistis individualiomis žvejybos galimybėmis kreipiasi į žemės ūkio ministro įgaliotą instituciją.
 
@@ -2754,7 +2866,11 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 2) nustatoma, kad ūkio subjektas žemės ūkio ministro įgaliotai institucijai pateikė iš esmės neteisingus duomenis, kuriais remiantis buvo suteikta teisė į didesnes žvejybos galimybes negu turėjo būti suteikta. Tokiu atveju panaikinama teisė į tą žvejybos galimybių dalį, į kurią teisė neturėjo būti suteikta;
 
-3) galutinai panaikinamas ūkio subjekto valdomo Lietuvos Respublikos žvejybos laivo liudijimas, pritaikius Reglamento (EB) Nr. 1224/2009 92 straipsnio 3 dalyje nustatytą priemonę, arba ūkio subjekto valdomas Lietuvos Respublikos žvejybos laivas įtraukiamas į Neteisėtą, nedeklaruojamą ir nereglamentuojamą žvejybą vykdančių laivų ES sąrašą, pateiktą 2010 m. gegužės 28 d. Komisijos reglamento (ES) Nr. 468/2010, kuriuo sudaromas neteisėtą, nedeklaruojamą ir nereglamentuojamą žvejybą vykdančių laivų ES sąrašas (OL 2010 L 131, p. 22), priede, už sunkų pažeidimą, padarytą po teisės į žvejybos galimybes suteikimo. Tokiais atvejais panaikinama teisės į žvejybos galimybes dalis, pagal kurią apskaičiuotas individualias žvejybos galimybes paskutiniais iki sunkaus pažeidimo padarymo kalendoriniais metais ūkio subjektas buvo panaudojęs tuo Lietuvos Respublikos žvejybos laivu.
+3) galutinai panaikinamas ūkio subjekto valdomo Lietuvos Respublikos žvejybos laivo liudijimas, pritaikius Reglamento (EB) Nr. 1224/2009 92 straipsnio 3 dalyje nustatytą priemonę, arba ūkio subjekto valdomas Lietuvos Respublikos žvejybos laivas įtraukiamas į Neteisėtą, nedeklaruojamą ir nereglamentuojamą žvejybą vykdančių laivų ES sąrašą, pateiktą 2010 m. gegužės 28 d. Komisijos reglamento (ES) Nr. 468/2010, kuriuo sudaromas neteisėtą, nedeklaruojamą ir nereglamentuojamą žvejybą vykdančių laivų ES sąrašas, priede, už sunkų pažeidimą, padarytą po teisės į žvejybos galimybes suteikimo. Tokiais atvejais panaikinama teisės į žvejybos galimybes dalis, pagal kurią apskaičiuotas individualias žvejybos galimybes paskutiniais iki sunkaus pažeidimo padarymo kalendoriniais metais ūkio subjektas buvo panaudojęs tuo Lietuvos Respublikos žvejybos laivu.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
 
 6. Teisė į žvejybos galimybes panaikinama šioje dalyje nurodyta tvarka ūkio subjektą apie tai raštu įspėjus ne mažiau kaip prieš 20 darbo dienų, jeigu yra bent viena iš šių sąlygų:
 
