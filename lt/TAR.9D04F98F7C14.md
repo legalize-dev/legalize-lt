@@ -4,7 +4,7 @@ identifier: "TAR.9D04F98F7C14"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-07"
-last_updated: "2020-01-01"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2022-07-14
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 79-0; Žin. 1992, Nr.14-378, i. k. 0921010ISTA00I-2455
 
@@ -445,6 +445,14 @@ Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modern
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-1996, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04589
+
+Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 3 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-441, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15441
 
 Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 3 straipsnio pakeitimo įstatymas
 
@@ -3380,7 +3388,7 @@ Nr. XIII-1996, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04589
 
 3. Šio straipsnio 1 ir 2 dalyse nurodytos valstybės paramos daugiabučiams namams atnaujinti teikimo ir atnaujinimo projektų įgyvendinimo priežiūros taisykles tvirtina Vyriausybė.
 
-4. Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimą administruoja Vyriausybės įsteigta viešoji įstaiga Būsto energijos taupymo agentūra (toliau – Agentūra), kurios veikla finansuojama valstybės biudžeto lėšomis. Agentūra atlieka šias funkcijas:
+4. Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimą administruoja Lietuvos Respublikos aplinkos ministerijos įgaliota institucija, kuri atlieka šias funkcijas:
 
 1) vertina savivaldybių programų atitiktį Vyriausybės patvirtintai Daugiabučių namų atnaujinimo (modernizavimo) programai;
 
@@ -3388,13 +3396,17 @@ Nr. XIII-1996, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04589
 
 3) administruoja ir teikia šio straipsnio 1 ir 2 dalyse nurodytą valstybės paramą (išskyrus lengvatinių kreditų teikimą ir kredito bei palūkanų apmokėjimą už nepasiturinčius gyventojus);
 
-4) teikia ūkinę veiklą vykdantiems butų ir kitų patalpų savininkams nereikšmingą valstybės pagalbą, kuriai taikomos Europos Sąjungos valstybės pagalbos taisyklės;
+4) teikia ūkinę veiklą vykdantiems butų ir kitų patalpų savininkams nereikšmingą (de minimis) pagalbą, kuriai taikomos Europos Sąjungos nereikšmingos (de minimis) pagalbos taisyklės;
 
-5) kompensuoja bankams ar kitoms finansų įstaigoms lengvatinio kredito bendrą metinių palūkanų dalį, viršijančią šio įstatymo 3 straipsnio 1 dalies 1 punkte nurodytą lengvatinio kredito palūkanų dydį, pagal šio straipsnio 3 dalyje nurodytas taisykles;
+5) kompensuoja bankams ar kitoms finansų įstaigoms lengvatinio kredito bendrą metinių palūkanų dalį, viršijančią šio straipsnio 1 dalies 1 punkte nurodytą lengvatinio kredito palūkanų dydį, pagal šio straipsnio 3 dalyje nurodytas taisykles;
 
 6) konsultuoja daugiabučio namo atnaujinimo proceso dalyvius (daugiabučio namo butų ir kitų patalpų savininkus, bendrojo naudojimo objektų valdytojus, savivaldybes ir savivaldybių programų įgyvendinimo administratorius) atnaujinimo ir valstybės paramos teikimo klausimais, organizuoja ir vykdo visuomenės informavimą, švietimą ir mokymą;
 
 7) organizuoja ir vykdo Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimo stebėseną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-441, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15441
 
 14 straipsnis.
 
