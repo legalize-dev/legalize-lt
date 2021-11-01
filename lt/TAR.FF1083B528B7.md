@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2021-07-01"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -1898,15 +1898,23 @@ Nr. XIII-2186, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09969
 
 1. Rengti šio Įstatymo 28 straipsnio 2 dalyje nurodytus saugomų teritorijų planavimo dokumentus turi teisę atestuoti specialistai, kurie yra saugomų teritorijų specialiojo teritorijų planavimo vadovai, juridiniai asmenys ir jų padaliniai, kitos užsienio organizacijos ir jų padaliniai, jeigu šių organizacijų įstatuose numatyta teritorijų planavimo veikla ir kai jų rengimo darbams vadovauja saugomų teritorijų specialiojo teritorijų planavimo vadovo atestatą (toliau – atestatas) turintys specialistai. Šis reikalavimas netaikomas Europos ekonominės erdvės valstybių piliečiams ir Šveicarijos Konfederacijos piliečiams, kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje teisėmis, jeigu jie turi kitos valstybės narės kompetentingos institucijos išduotą atestatą arba kitą dokumentą, įrodantį jų teisę vadovauti nurodytų dokumentų rengimui. Jeigu planavimo darbų programoje numatoma nustatyti kultūros paveldo kompleksinių objektų ir kultūrinių draustinių ar kultūros paveldo vietovių nekilnojamojo kultūros paveldo apsaugos ir veiklos plėtojimo paveldosaugos reikalavimus, rengiant šio Įstatymo 28 straipsnio 2 dalies 4 punkte nurodytus saugomų teritorijų planavimo dokumentus specialiojo teritorijų planavimo dokumentų rengimo taisyklėse nustatyta tvarka turi dalyvauti asmenys, turintys teisę vadovauti nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentų rengimui.
 
-2. Atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką, atestavimą vykdančios atestavimo komisijos nuostatus ir jos sudėtį nustato aplinkos ministras kartu su kultūros ministru. Atestavimą atlieka Teritorijų planavimo įstatymo 40 straipsnio 2 dalyje nurodytos atestavimą atliekančios organizacijos (toliau – atestavimą atliekanti organizacija). Atestatas pagal teritorijų planavimo lygmenis neterminuotam laikui ne vėliau kaip per 30 darbo dienų nuo visų reikiamų atestatui gauti dokumentų pateikimo dienos išduodamas asmeniui:
+2. Atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką nustato aplinkos ministras kartu su kultūros ministru. Atestavimą atlieka Teritorijų planavimo įstatymo 40 straipsnio 2 dalyje nurodytos atestavimą atliekančios organizacijos (toliau – atestavimą atliekanti organizacija). Atestatas pagal teritorijų planavimo lygmenis neterminuotam laikui ne vėliau kaip per 30 darbo dienų nuo visų reikiamų atestatui gauti dokumentų pateikimo dienos išduodamas asmeniui:
 
-1) įgijusiam aukštąjį (universitetinį ar koleginį) arba lygiavertį biomedicinos mokslų studijų srities biologijos, botanikos, zoologijos, žemės ūkio ar miškininkystės studijų krypties arba fizinių mokslų studijų srities geologijos, aplinkotyros ir gamtinės geografijos studijų krypčių, arba technologijų mokslų studijų srities bendrosios inžinerijos, statybos inžinerijos ir inžinerijos mokslų studijų krypčių, arba socialinių mokslų studijų srities visuomeninės geografijos ir teritorijų planavimo studijų krypties, arba meno studijų srities architektūros studijų krypties išsilavinimą;
+1) įgijusiam aukštąjį (universitetinį ar koleginį) arba jam lygiavertį biomedicinos mokslų studijų srities biologijos, botanikos, zoologijos, žemės ūkio ar miškininkystės studijų krypties arba fizinių mokslų studijų srities geologijos, aplinkotyros ir gamtinės geografijos studijų krypčių, arba technologijų mokslų studijų srities bendrosios inžinerijos, statybos inžinerijos ir inžinerijos mokslų studijų krypčių, arba socialinių mokslų studijų srities visuomeninės geografijos ir teritorijų planavimo studijų krypties, arba meno studijų srities architektūros studijų krypties išsilavinimą;
 
 2) turinčiam ne mažesnę kaip 3 metų darbo rengiant saugomų teritorijų specialiojo teritorijų planavimo dokumentus patirtį;
 
 3) išlaikiusiam teisinių ir profesinių žinių egzaminą pagal aplinkos ministro patvirtintą programą. Profesinių žinių egzaminų rezultatai nustatyta tvarka kvalifikaciją kėlusiems atestuotiems specialistams, neturintiems administracinių nuobaudų profesinėje srityje ir dėl kurių nėra nustatyta profesinės etikos pažeidimų, galioja neterminuotai.
 
-3. Kai teritorijų planavimo valstybinę priežiūrą atliekanti institucija nustato, kad asmuo, turintis atestatą, rengdamas saugomų teritorijų specialiojo teritorijų planavimo dokumentus ar vadovaudamas jų rengimui, pažeidė įstatymų, kitų teisės aktų teritorijų planavimo dokumentų rengimo srityje reikalavimus, jo atestato galiojimas atestavimą atliekančios organizacijos sprendimu gali būti sustabdomas 6 mėnesiams, iki bus pašalinti nustatyti pažeidimai. Architektams, kai jų veikloje nustatomi Europos architektūros paslaugų teikėjų etikos kodekso pažeidimai, Lietuvos architektų rūmai, atsižvelgdami į pažeidimo pobūdį, pasekmes, aplinkybes, kuriomis padarytas pažeidimas, gali sustabdyti atestato galiojimą 6 mėnesiams.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-502, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15878
+
+3. Kai teritorijų planavimo valstybinę priežiūrą atliekanti institucija nustato, kad asmuo, turintis atestatą, rengdamas saugomų teritorijų specialiojo teritorijų planavimo dokumentus ar vadovaudamas jų rengimui pažeidė įstatymų, kitų teisės aktų teritorijų planavimo dokumentų rengimo srityje reikalavimus, jo atestato galiojimas atestavimą atliekančios organizacijos sprendimu gali būti sustabdomas 6 mėnesiams, iki bus pašalinti nustatyti pažeidimai. Architektams, kai jų veikloje nustatomi Europos architektūros paslaugų teikėjų etikos kodekso pažeidimai, taip pat kai paaiškėja, kad jie padarė pažeidimus, nurodytus Architektūros įstatyme, Lietuvos architektų rūmai, atsižvelgdami į pažeidimo pobūdį, pasekmes, aplinkybes, kuriomis padarytas pažeidimas, gali sustabdyti atestato galiojimą 6 mėnesiams, nustatydami terminą pažeidimams, dėl kurių sustabdomas atestato galiojimas, pašalinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-502, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15878
 
 4. Kai šio straipsnio 3 dalyje nurodytas asmuo pateikia dokumentus, įrodančius, kad pažeidimai, dėl kurių buvo sustabdytas atestato galiojimas, pašalinti, per 10 darbo dienų nuo šių dokumentų pateikimo dienos atestato galiojimo sustabdymas atestavimą atliekančios organizacijos sprendimu panaikinamas.
 
@@ -1924,7 +1932,17 @@ Nr. XIII-2186, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09969
 
 6) yra asmens, turinčio atestatą, prašymas;
 
-7) kituose Lietuvos Respublikos įstatymuose nustatytais pagrindais.
+7) paaiškėja, kad asmuo padarė pažeidimus, nurodytus Architektūros įstatyme;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-502, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15878
+
+8) atestato turėtojas miršta.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-502, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15878
 
 6. Jeigu šiame straipsnyje nurodyti pažeidimai nepadarė esminės žalos teisės aktuose tiesiogiai nurodytam visuomenės (viešajam) interesui ar žmonių sveikatai, gyvybei ir kitiems teisės aktuose tiesiogiai nurodytiems interesams arba padaryta žala yra labai nežymi, o asmuo nutraukė neteisėtus veiksmus, pašalino jų padarinius ir atlygino žalą, atestavimą atliekanti organizacija, vadovaudamasi teisingumo ir protingumo kriterijais, gali priimti sprendimą atestato galiojimo nestabdyti ir (ar) atestato galiojimo nepanaikinti.
 
