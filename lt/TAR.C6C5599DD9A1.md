@@ -4,7 +4,7 @@ identifier: "TAR.C6C5599DD9A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-10-28"
-last_updated: "2020-10-01"
+last_updated: "2021-11-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2020-10-01 iki 2021-11-01
+Suvestinė redakcija nuo 2021-11-02 iki 2023-06-29
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
 
@@ -869,7 +869,7 @@ MOKĖJIMO OPERACIJŲ VYKDYMAS
 
 42 straipsnis. Mokėjimo nurodymo gavimo momentas
 
-1. Mokėjimo nurodymo gavimo momentu laikomas momentas, kai mokėtojo mokėjimo paslaugų teikėjas gauna mokėjimo nurodymą. Jeigu mokėjimo nurodymo gavimo momentas nėra mokėtojo mokėjimo paslaugų teikėjo darbo diena, laikoma, kad mokėjimo nurodymas gautas kitą darbo dieną. Mokėjimo paslaugų teikėjas gali nustatyti laiką baigiantis darbo dienai, po kurio bet kuris gautas mokėjimo nurodymas laikomas gautu kitą darbo dieną. Mokėjimo paslaugų teikėjas negali nurašyti lėšų iš mokėtojo sąskaitos anksčiau, negu gaunamas mokėjimo nurodymas, jeigu 2019 metais jis įvykdė daugiau negu vieną milijoną kredito pervedimų.
+1. Mokėjimo nurodymo gavimo momentu laikomas momentas, kai mokėtojo mokėjimo paslaugų teikėjas gauna mokėjimo nurodymą. Lėšos iš mokėtojo sąskaitos negali būti nurašomos anksčiau, negu gaunamas mokėjimo nurodymas. Jeigu mokėjimo nurodymo gavimo momentas nėra mokėtojo mokėjimo paslaugų teikėjo darbo diena, laikoma, kad mokėjimo nurodymas gautas kitą darbo dieną. Mokėjimo paslaugų teikėjas gali nustatyti laiką baigiantis darbo dienai, po kurio bet kuris gautas mokėjimo nurodymas laikomas gautu kitą darbo dieną.
 
 Straipsnio dalies pakeitimai:
 
