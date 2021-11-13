@@ -4,7 +4,7 @@ identifier: "TAR.F62AD965997D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-05-20"
-last_updated: "2021-01-01"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-11-12
+Suvestinė redakcija nuo 2021-11-13 iki 2022-05-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
 
@@ -770,9 +770,17 @@ ANTRASIS SKIRSNIS
 
 2. Šilumos ir (ar) karšto vandens kainos grindžiamos tiekėjo būtinomis (valstybės normuojamomis) šilumos ar karšto vandens ruošimo (pirkimo), perdavimo, įvadinių atsiskaitomųjų šilumos ir (ar) karšto vandens apskaitos prietaisų įrengimo, priežiūros ir patikros, sąskaitų (mokėjimo pranešimų) už šilumą ir (ar) karštą vandenį parengimo ir pateikimo vartotojams bei apskaitos sąnaudomis. Turto nuomos mokesčiai ir kitos sąnaudos, nesusiję su šilumos ir (ar) karšto vandens tiekimo veikla, negali būti įtraukiami į šilumos ar karšto vandens kainas. Į šilumos ar karšto vandens kainas negali būti įtraukiamos jokios sąnaudos, susijusios su pastatų vidaus šildymo (įskaitant ir šilumos punktus) ir karšto vandens sistemomis. Apyvartinių taršos leidimų prekybos pajamos ar sąnaudos įvertinamos skaičiuojant šilumos kainas Šilumos kainų nustatymo metodikoje nustatyta tvarka.
 
-3. Į šilumos ir (ar) karšto vandens kainą įtraukiant pagrįstas sąnaudas už kurą, privalo būti įvertinama, ar energetikos įmonė laikėsi Energijos išteklių rinkos įstatyme numatytų įpareigojimų. Kai kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, įsigijimas buvo vykdomas ne per energijos išteklių biržą ir (ar) gamtinių dujų biržą, pagrįstomis sąnaudomis pripažįstamos ir į šilumos ir (ar) karšto vandens kainos kintamąją dedamąją gali būti įtraukiamos įmonės biokuro ir gamtinių dujų įsigijimo sąnaudos, neviršijančios vidutinės biokuro kainos arba vidutinės biokuro biržos kainos, arba vidutinės gamtinių dujų biržos kainos. Vidutinę biokuro kainą, vidutinę biokuro biržos kainą ir vidutinę gamtinių dujų biržos kainą, vadovaudamasi savo nustatyta tvarka, nustato Taryba.
+3. Į šilumos ir (ar) karšto vandens kainą įtraukiant pagrįstas sąnaudas už kurą, privalo būti įvertinama, ar energetikos įmonė laikėsi Energijos išteklių rinkos įstatyme numatytų įpareigojimų.
 
-4. Šio straipsnio 3 dalyje nurodytas kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, sąnaudų įtraukimo į šilumos ir (ar) karšto vandens kainą ribojimas pagal vidutinę biokuro biržos kainą ir (ar) gamtinių dujų biržos kainą nėra taikomas tais atvejais, kai energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies ir (ar) gamtinių dujų biržoje nebuvo galima įsigyti reikalingo gamtinių dujų kiekio.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-607, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23529
+
+4. Šio straipsnio 20 dalyje nurodytas kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, sąnaudų įtraukimo į šilumos ir (ar) karšto vandens kainą ribojimas pagal vidutinę biokuro biržos kainą ir (ar) gamtinių dujų biržos kainą nėra taikomas tais atvejais, kai energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies ir (ar) gamtinių dujų biržoje nebuvo galima įsigyti reikalingo gamtinių dujų kiekio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-607, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23529
 
 5. Šilumos kainos, atsižvelgiant į patiriamas sąnaudas, gali būti diferencijuojamos pagal šilumos tiekimo sistemas, vartotojų grupes, šilumos pirkimo–pardavimo vietą, tiekimo–vartojimo ribą, šilumos vartojimo mastą, šilumnešius ir jų kokybę, tiekimo patikimumą, vartojimo sezoniškumą, periodiškumą ir apskaitos būdus. Diferencijuojant kainas, kryžminis subsidijavimas tarp vartotojų grupių yra draudžiamas.
 
@@ -816,7 +824,11 @@ ANTRASIS SKIRSNIS
 
 19. Taryba ir savivaldybės kontroliuoja, ar įmonės teisingai skaičiuoja šilumos ir karšto vandens kainų kintamosios dedamosios dydį ir kaip taikomos šilumos ir karšto vandens kainos.
 
-20. Šilumos ar karšto vandens kainų dedamųjų galiojimo laikotarpiu patirtos, bet nepadengtos sąnaudos arba gautos papildomos pajamos, susidariusios dėl kuro, pirktos šilumos, geriamojo vandens faktinių kainų ir nustatant šilumos ar karšto vandens kainas įskaičiuotų kainų skirtumo, įvertinamos skaičiuojant būsimojo laikotarpio šilumos ar karšto vandens kainų dedamąsias.
+20. Šilumos ar karšto vandens kainų dedamųjų galiojimo laikotarpiu patirtos, bet nepadengtos sąnaudos arba gautos papildomos pajamos, susidariusios dėl kuro, pirktos šilumos, geriamojo vandens faktinių kainų ir nustatant šilumos ar karšto vandens kainas įskaičiuotų kainų skirtumo, įvertinamos skaičiuojant būsimojo laikotarpio šilumos ar karšto vandens kainų dedamąsias. Kai kuras, naudojamas šilumos ir (ar) karšto vandens gamybai, įsigyjamas ne per energijos išteklių biržą ir (ar) gamtinių dujų biržą, pagrįstomis sąnaudomis pripažįstamos metinės įmonės biokuro ir gamtinių dujų įsigijimo ne per energijos išteklių biržą ir (ar) gamtinių dujų biržą sąnaudos, neviršijančios vidutinės metinės biokuro kainos arba vidutinės metinės biokuro biržos kainos, arba vidutinės metinės gamtinių dujų biržos kainos. Vidutinę metinę biokuro kainą, vidutinę metinę biokuro biržos kainą ir vidutinę metinę gamtinių dujų biržos kainą, vadovaudamasi savo nustatyta tvarka, nustato Taryba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-607, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23529
 
 Straipsnio pakeitimai:
 
