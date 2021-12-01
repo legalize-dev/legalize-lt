@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2020-08-01"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2020-08-01 iki 2021-11-30
+Suvestinė redakcija nuo 2021-12-01 iki 2021-12-03
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -1016,65 +1016,153 @@ PIRKIMO DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 
 12) prekių, paslaugų ar darbų energijos vartojimo efektyvumo ir aplinkos apsaugos reikalavimai ir (arba) kriterijai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais ir tvarka;
 
-13) perkančiosios organizacijos siūlomos šalims sudaryti pirkimo sutarties sąlygos ir (arba) pirkimo sutarties projektas pagal šio įstatymo 87 straipsnyje nustatytus reikalavimus, jeigu jis yra parengtas. Jeigu ketinama sudaryti preliminariąją sutartį, pirkimo dokumentuose taip pat turi būti preliminariosios sutarties sąlygos ir (arba) preliminariosios sutarties projektas, jeigu jis yra parengtas;
+13) reikalavimai ir (arba) kriterijai dėl statinio informacinio modeliavimo metodų taikymo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais ir tvarka;
 
-14) teisinės formos reikalavimai, kai perkančioji organizacija reikalauja, kad, tiekėjų grupės pateiktą pasiūlymą nustačius laimėjusį ir pasiūlius sudaryti pirkimo sutartį, tiekėjų grupė įgytų tam tikrą teisinę formą. Jeigu reikalaujama, kad tiekėjų grupė įsteigtų juridinį asmenį, nurodoma pareiga tiekėjams laiduoti už jų įsteigto juridinio asmens prievoles, susijusias su pirkimo sutarties sąlygų įvykdymu;
+Papildyta straipsnio punktu:
 
-15) subtiekimo reikalavimai, nustatyti vadovaujantis šio įstatymo 88 straipsnio nuostatomis;
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
 
-16) informacija, ar perkančioji organizacija leidžia, neleidžia ar reikalauja pateikti alternatyvius pasiūlymus, šių pasiūlymų reikalavimai;
+14) perkančiosios organizacijos siūlomos šalims sudaryti pirkimo sutarties sąlygos ir (arba) pirkimo sutarties projektas pagal šio įstatymo 87 straipsnyje nustatytus reikalavimus, jeigu jis yra parengtas. Jeigu ketinama sudaryti preliminariąją sutartį, pirkimo dokumentuose taip pat turi būti preliminariosios sutarties sąlygos ir (arba) preliminariosios sutarties projektas, jeigu jis yra parengtas;
 
-17) informacija, kaip turi būti apskaičiuota ir išreikšta pasiūlymuose nurodoma kaina ar sąnaudos. Į kainą ar sąnaudas turi būti įskaityti visi mokesčiai;
+Straipsnio punkto numeracijos pakeitimas:
 
-18) pasiūlymų galiojimo užtikrinimo, jeigu taikytina, reikalavimai;
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
 
-19) pasiūlymų pateikimo termino pabaiga, vieta ir būdas;
+15) teisinės formos reikalavimai, kai perkančioji organizacija reikalauja, kad, tiekėjų grupės pateiktą pasiūlymą nustačius laimėjusį ir pasiūlius sudaryti pirkimo sutartį, tiekėjų grupė įgytų tam tikrą teisinę formą. Jeigu reikalaujama, kad tiekėjų grupė įsteigtų juridinį asmenį, nurodoma pareiga tiekėjams laiduoti už jų įsteigto juridinio asmens prievoles, susijusias su pirkimo sutarties sąlygų įvykdymu;
 
-20) būdai, kuriais tiekėjai gali prašyti pirkimo dokumentų paaiškinimų, sužinoti, ar perkančioji organizacija ketina rengti dėl to susitikimą su tiekėjais, taip pat būdai, kuriais perkančioji organizacija savo iniciatyva gali paaiškinti (patikslinti) pirkimo dokumentus;
+Straipsnio punkto numeracijos pakeitimas:
 
-21) data, iki kada turi galioti pasiūlymas, arba laikotarpis, kurį turi galioti pasiūlymas;
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
 
-22) susipažinimo su pasiūlymais data, o jeigu pirkimas atliekamas ne elektroninėmis priemonėmis, – vieta, data, valanda ir minutė;
+16) subtiekimo reikalavimai, nustatyti vadovaujantis šio įstatymo 88 straipsnio nuostatomis;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+17) informacija, ar perkančioji organizacija leidžia, neleidžia ar reikalauja pateikti alternatyvius pasiūlymus, šių pasiūlymų reikalavimai;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+18) informacija, kaip turi būti apskaičiuota ir išreikšta pasiūlymuose nurodoma kaina ar sąnaudos. Į kainą ar sąnaudas turi būti įskaityti visi mokesčiai;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+19) pasiūlymų galiojimo užtikrinimo, jeigu taikytina, reikalavimai;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+20) pasiūlymų pateikimo termino pabaiga, vieta ir būdas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+21) būdai, kuriais tiekėjai gali prašyti pirkimo dokumentų paaiškinimų, sužinoti, ar perkančioji organizacija ketina rengti dėl to susitikimą su tiekėjais, taip pat būdai, kuriais perkančioji organizacija savo iniciatyva gali paaiškinti (patikslinti) pirkimo dokumentus;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+22) data, iki kada turi galioti pasiūlymas, arba laikotarpis, kurį turi galioti pasiūlymas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+23) susipažinimo su pasiūlymais data, o jeigu pirkimas atliekamas ne elektroninėmis priemonėmis, – vieta, data, valanda ir minutė;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
-23) susipažinimo su pasiūlymais ir jų nagrinėjimo procedūros;
+Straipsnio punkto numeracijos pakeitimas:
 
-24) informacija, kad pasiūlymuose nurodytos kainos bus vertinamos eurais. Jeigu pasiūlymuose kainos nurodytos užsienio valiuta, jos bus perskaičiuojamos eurais pagal Europos Centrinio Banko skelbiamą orientacinį euro ir užsienio valiutų santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos Centrinis Bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutų santykį paskutinę pasiūlymų pateikimo termino dieną;
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
 
-25) perkančiosios organizacijos valstybės tarnautojų ar darbuotojų arba Komisijos narių (vieno ar kelių), kurie įgalioti palaikyti tiesioginį ryšį su tiekėjais ir gauti iš jų (ne tarpininkų) pranešimus, susijusius su pirkimų procedūromis, vardai, pavardės, kontaktinė informacija;
+24) susipažinimo su pasiūlymais ir jų nagrinėjimo procedūros;
 
-26) nuorodos į išankstinį informacinį skelbimą, paskelbtą Europos Sąjungos leidinių biuro, taip pat paskelbtą Centrinėje viešųjų pirkimų informacinėje sistemoje, kituose leidiniuose ir internete, jeigu apie pirkimą buvo skelbta iš anksto;
+Straipsnio punkto numeracijos pakeitimas:
 
-27) informacija apie atidėjimo termino taikymą, ginčų nagrinėjimo tvarką;
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
 
-28) informacija apie numatomą skelbti savanoriško ex ante skaidrumo skelbimą;
+25) informacija, kad pasiūlymuose nurodytos kainos bus vertinamos eurais. Jeigu pasiūlymuose kainos nurodytos užsienio valiuta, jos bus perskaičiuojamos eurais pagal Europos Centrinio Banko skelbiamą orientacinį euro ir užsienio valiutų santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos Centrinis Bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutų santykį paskutinę pasiūlymų pateikimo termino dieną;
 
-29) informacija apie tai, ar į Komisijos posėdžius kviečiami dalyvauti stebėtojai, jų dalyvavimo sąlygos;
+Straipsnio punkto numeracijos pakeitimas:
 
-30) informacija apie tai, kad tiekėjas privalo nurodyti, ar jo pasiūlyme yra konfidencialios informacijos, ir kuri informacija, vadovaujantis šio įstatymo 20 straipsnio 2 dalimi, yra konfidenciali;
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
 
-31) informacija apie tai, kad tiekėjas, sudarius sutartį, bet ne vėliau kaip iki sutarties vykdymo pradžios, turi pateikti sutartį vykdysiančių ir perkančiosios organizacijos nurodytas užduotis atliksiančių darbuotojų sąrašą (vardus, pavardes, gimimo datas) ir jiems siūlomo mokėti darbo užmokesčio mėnesio medianą, taip pat informacija, kad sutarties vykdymo metu pasikeitus nurodytai informacijai tiekėjas nedelsdamas turi informuoti perkančiąją organizaciją ir pateikti atnaujintą nurodytų darbuotojų sąrašą ir patikslintą darbo užmokesčio mėnesio medianą, jeigu taikytina;
+26) perkančiosios organizacijos valstybės tarnautojų ar darbuotojų arba Komisijos narių (vieno ar kelių), kurie įgalioti palaikyti tiesioginį ryšį su tiekėjais ir gauti iš jų (ne tarpininkų) pranešimus, susijusius su pirkimų procedūromis, vardai, pavardės, kontaktinė informacija;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+27) nuorodos į išankstinį informacinį skelbimą, paskelbtą Europos Sąjungos leidinių biuro, taip pat paskelbtą Centrinėje viešųjų pirkimų informacinėje sistemoje, kituose leidiniuose ir internete, jeigu apie pirkimą buvo skelbta iš anksto;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+28) informacija apie atidėjimo termino taikymą, ginčų nagrinėjimo tvarką;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+29) informacija apie numatomą skelbti savanoriško ex ante skaidrumo skelbimą;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+30) informacija apie tai, ar į Komisijos posėdžius kviečiami dalyvauti stebėtojai, jų dalyvavimo sąlygos;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+31) informacija apie tai, kad tiekėjas privalo nurodyti, ar jo pasiūlyme yra konfidencialios informacijos, ir kuri informacija, vadovaujantis šio įstatymo 20 straipsnio 2 dalimi, yra konfidenciali;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+32) informacija apie tai, kad tiekėjas, sudarius sutartį, bet ne vėliau kaip iki sutarties vykdymo pradžios, turi pateikti sutartį vykdysiančių ir perkančiosios organizacijos nurodytas užduotis atliksiančių darbuotojų sąrašą (vardus, pavardes, gimimo datas) ir jiems siūlomo mokėti darbo užmokesčio mėnesio medianą, taip pat informacija, kad sutarties vykdymo metu pasikeitus nurodytai informacijai tiekėjas nedelsdamas turi informuoti perkančiąją organizaciją ir pateikti atnaujintą nurodytų darbuotojų sąrašą ir patikslintą darbo užmokesčio mėnesio medianą, jeigu taikytina;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
-32) informacija apie tai, kad, jeigu pirkimo metu bus atliekama patikra Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka, tiekėjas turės pateikti tokiai patikrai atlikti reikalingus dokumentus;
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+33) informacija apie tai, kad, jeigu pirkimo metu bus atliekama patikra Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka, tiekėjas turės pateikti tokiai patikrai atlikti reikalingus dokumentus;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-3258, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15773
 
-33) kita Viešųjų pirkimų tarnybos nustatyta informacija.
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
+
+34) kita Viešųjų pirkimų tarnybos nustatyta informacija.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 Nr. XIII-3258, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15773
+
+Nr. XIV-251, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08623
 
 3. Pirkimo dokumentų sudedamoji dalis yra išankstinis informacinis skelbimas ir skelbimas apie pirkimą. Perkančioji organizacija skelbimuose esančios informacijos vėliau papildomai gali neteikti. Tuo atveju, kai skelbime apie pirkimą ar išankstiniame informaciniame skelbime, kuriuo tiekėjai kviečiami dalyvauti ribotame konkurse ar skelbiamose derybose, kaip nurodyta šio įstatymo 30 straipsnio 3 dalyje, pateikta informacija neatitinka informacijos, pateiktos kituose pirkimo dokumentuose, teisinga laikoma informacija, nurodyta skelbime apie pirkimą ir išankstiniame informaciniame skelbime, kuriuo tiekėjai kviečiami dalyvauti ribotame konkurse ar skelbiamose derybose.
 
