@@ -4,7 +4,7 @@ identifier: "TAR.EE245B47423C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-25"
-last_updated: "2021-03-26"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Šio įstatymo 3, 5, 10 straipsniai, 13 straipsnio
 ---
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2021-03-26 iki 2021-11-30
+Suvestinė redakcija nuo 2021-12-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
 
@@ -505,7 +505,17 @@ Asmenų, mirusių nuo pavojingų ir ypač pavojingų užkrečiamųjų ligų, pal
 
 6. Asmenims, įtariamiems, kad serga, ar susirgusiems pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis arba tapusiems šių ligų sukėlėjų nešiotojais, iki šeimos gydytojo leidimo draudžiama tęsti šio straipsnio 1 dalyje nurodytuose sąrašuose nustatytus darbus ar tęsti darbą šio straipsnio 2 dalyje nurodytoje darbovietėje, išskyrus atvejus, kai dirbama nuotoliniu būdu arba asmuo yra perkeltas toje pačioje darbovietėje į kitą darbą, kurį jam leidžiama dirbti pagal sveikatos būklę. Pavojingų ir ypač pavojingų ligų, dėl kurių asmenims draudžiama tęsti šio straipsnio 1 dalyje nurodytame Darbų ir veiklos sričių, kuriose leidžiama dirbti darbuotojams, tik iš anksto pasitikrinusiems ir vėliau periodiškai besitikrinantiems, ar neserga užkrečiamosiomis ligomis, sąraše nustatytus darbus iki šeimos gydytojo leidimo, sąrašą tvirtina sveikatos apsaugos ministras. Šie asmenys darbdavio iniciatyva, taip pat vykdant apskričių vyriausiųjų epidemiologų sprendimus, atsižvelgiant į darbo pobūdį skiriami dirbti nuotoliniu būdu arba perkeliami toje pačioje darbovietėje į kitą darbą, kurį jiems leidžiama dirbti pagal sveikatos būklę, o jeigu tokių galimybių nėra, laikinai nušalinami nuo darbo.
 
-7. Išlaidas už periodinius sveikatos patikrinimus ir vidutinį darbo užmokestį darbuotojams už sveikatos patikrinimams sugaištą laiką apmoka darbdavys, o už sveikatos patikrinimą prieš pradedant dirbti – darbuotojas, jeigu kituose įstatymuose nenumatyta kitaip. Darbuotojų, dirbančių ar vykdančių veiklą, nurodytą Darbų ir veiklos sričių, kuriose leidžiama dirbti darbuotojams, pasitikrinusiems ir (ar) periodiškai besitikrinantiems, ar neserga užkrečiamąja liga, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, sąraše, ir darbuotojų, nurodytų šio straipsnio 2 dalyje, sveikatos patikrinimai dėl užkrečiamosios ligos, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, finansuojami valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka.
+7. Išlaidas už periodinius sveikatos patikrinimus ir vidutinį darbo užmokestį darbuotojams už sveikatos patikrinimams sugaištą laiką apmoka darbdavys, o už sveikatos patikrinimą prieš pradedant dirbti – darbuotojas, jeigu kituose įstatymuose nenumatyta kitaip. Darbuotojų, dirbančių ar vykdančių veiklą, nurodytą Darbų ir veiklos sričių, kuriose leidžiama dirbti darbuotojams, pasitikrinusiems ir (ar) periodiškai besitikrinantiems, ar neserga užkrečiamąja liga, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, sąraše, sveikatos patikrinimai dėl užkrečiamosios ligos, dėl kurios Vyriausybė yra paskelbusi valstybės lygio ekstremaliąją situaciją ir (ar) karantiną visoje Lietuvos Respublikos teritorijoje, kai Vyriausybės nutarime dėl valstybės lygio ekstremaliosios situacijos ir (ar) karantino visoje Lietuvos Respublikos teritorijoje paskelbimo (toliau – Vyriausybės nutarimas) nurodytos vakcinos (toliau – vakcina) yra prieinamos, finansuojami darbuotojo lėšomis arba darbdavio sprendimu – darbdavio lėšomis, išskyrus atvejus, kai darbuotojai negali pasiskiepyti dėl medicininių kontraindikacijų, nurodytų sveikatos apsaugos ministro patvirtintame medicininių kontraindikacijų sąraše (toliau – medicininės kontraindikacijos). Darbuotojų, nurodytų šio straipsnio 2 dalyje, ir darbuotojų, negalinčių pasiskiepyti dėl medicininių kontraindikacijų, sveikatos patikrinimai dėl užkrečiamosios ligos, dėl kurios Vyriausybė yra paskelbusi valstybės lygio ekstremaliąją situaciją ir (ar) karantiną visoje Lietuvos Respublikos teritorijoje, finansuojami valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-620, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23538
+
+8. Kai Vyriausybė yra paskelbusi valstybės lygio ekstremaliąją situaciją ir (ar) karantiną visoje Lietuvos Respublikos teritorijoje dėl užkrečiamosios ligos, darbdavio prašymu darbuotojas privalo pateikti jam sveikatos apsaugos ministro nustatytą dokumentą, patvirtinantį, kad darbuotojas pasitikrino, ar neserga užkrečiamąja liga, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, arba kad darbuotojas yra paskiepytas vakcina, arba kad jis negali pasiskiepyti nuo šios užkrečiamosios ligos dėl medicininių kontraindikacijų, arba kad darbuotojas yra persirgęs šia užkrečiamąja liga. Šiuose dokumentuose pateiktus asmens duomenis apie darbuotojo pasitikrinimo, ar neserga užkrečiamąja liga, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, faktą ir rezultatą (serga ar ne), taip pat pasiskiepijimo vakcina, negalėjimo pasiskiepyti nuo šios užkrečiamosios ligos dėl medicininių kontraindikacijų buvimo bei persirgimo šia užkrečiamąja liga faktą ir pareigos tikrintis, ar neserga šia užkrečiamąja liga, netaikymo trukmę darbdavys tvarko užkrečiamosios ligos, dėl kurios Vyriausybė yra paskelbusi valstybės lygio ekstremaliąją situaciją ir (ar) karantiną visoje Lietuvos Respublikos teritorijoje, profilaktikos ir kontrolės įmonėje, įstaigoje ar organizacijoje tikslais. Šie asmens duomenys tvarkomi Vyriausybės paskelbtos valstybės lygio ekstremaliosios situacijos ir (ar) karantino visoje Lietuvos Respublikos teritorijoje dėl užkrečiamosios ligos laikotarpiu. Darbdavys užkrečiamųjų ligų profilaktikos ir kontrolės ir (arba) darbuotojų saugos ir sveikatos reikalavimų laikymosi priežiūrą atliekančių institucijų reikalavimu privalo pateikti joms šiuos duomenis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-620, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23538
 
 Straipsnio pakeitimai:
 
@@ -1033,11 +1043,13 @@ Iš valstybės biudžete sveikatos priežiūrai numatytų lėšų finansuojama:
 
 1) užkrečiamųjų ligų profilaktikos ir kontrolės priemonės, pagal Vyriausybės patvirtintą sąrašą priskirtos būtinosioms visuomenės sveikatos priežiūros priemonėms;
 
-2) valstybės lygio ekstremaliosios situacijos, paskelbtos dėl užkrečiamosios ligos, karantino ir (ar) riboto karantino, kurie nustatomi pagal šį Įstatymą ir kitus teisės aktus, priemonių taikymas žmonėms, jų sveikatos patikrinimai, mikrobiologiniai tyrimai, ypač pavojingų užkrečiamųjų ligų imunoprofilaktika, izoliavimas, atliekami Lietuvos Respublikos ir (ar) tarptautinės teisės aktų nustatyta tvarka;
+2) valstybės lygio ekstremaliosios situacijos, paskelbtos dėl užkrečiamosios ligos, karantino ir (ar) riboto karantino, kurie nustatomi pagal šį Įstatymą ir kitus teisės aktus, priemonių taikymas žmonėms, jų sveikatos patikrinimai, išskyrus šio Įstatymo 18 straipsnio 7 dalyje nurodytus atvejus, kai sveikatos patikrinimai finansuojami darbuotojo lėšomis arba darbdavio sprendimu – darbdavio lėšomis, mikrobiologiniai tyrimai, ypač pavojingų užkrečiamųjų ligų imunoprofilaktika, izoliavimas, atliekami Lietuvos Respublikos ir (ar) tarptautinės teisės aktų nustatyta tvarka;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-195, 2021-03-23, paskelbta TAR 2021-03-25, i. k. 2021-05878
+
+Nr. XIV-620, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23538
 
 3) asmenų, atvykstančių į Lietuvos Respubliką, sveikatos patikrinimai ir mikrobiologiniai tyrimai, atliekami pagal tarptautinės teisės aktus.
 
@@ -1065,7 +1077,7 @@ Vyriausybė iki 2002 m. liepos 1 d. patvirtina šį Įstatymą įgyvendinančius
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -1204,6 +1216,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-195, 2021-03-23, paskelbta TAR 2021-03-25, i. k. 2021-05878
 
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 18, 26 ir 40 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-620, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23538
+
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 18 ir 40 straipsnių pakeitimo įstatymas
 
 321 straipsnis. Sveikatos priežiūros įstaigų darbuotojų, įskaitant gydytojus rezidentus, karantino metu organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų ligų židiniuose, darbo užmokesčio didinimas ir su tuo susijusių sveikatos priežiūros įstaigų išlaidų apmokėjimas
 
