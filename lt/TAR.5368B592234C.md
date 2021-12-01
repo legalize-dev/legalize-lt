@@ -4,7 +4,7 @@ identifier: "TAR.5368B592234C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-11"
-last_updated: "2021-01-01"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-11-30
+Suvestinė redakcija nuo 2021-12-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
 
@@ -337,7 +337,11 @@ SKUNDŲ NAGRINĖJIMAS
 
 2) duomenų subjektas – dėl šio ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų;
 
-3) fizinis ar juridinis asmuo – dėl Lietuvos Respublikos elektroninių ryšių įstatymo devintojo skirsnio, išskyrus 61 straipsnio 5 dalį, 64 straipsnio 7 dalį ir 68 straipsnio 2 dalį, pažeidimų.
+3) fizinis ar juridinis asmuo – dėl Lietuvos Respublikos elektroninių ryšių įstatymo IX skyriaus, išskyrus 73 straipsnio 5 dalį, 76 straipsnio 7 dalį ir 80 straipsnio 2 ir 3 dalis, pažeidimų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-640, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24251
 
 2. Skundą žurnalistų etikos inspektoriui turi teisę pateikti duomenų subjektas, nurodytas Reglamento (ES) 2016/679 77 straipsnio 1 dalyje, dėl Reglamento (ES) 2016/679 pažeidimų.
 
@@ -662,6 +666,16 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3410, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24577
 
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 8 straipsnio pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-640, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24251
+
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 24 straipsnio pakeitimo įstatymas
+
+part_d69e1e6bb6bd4b7cacc2e440c6b1444f_end
 
 36 straipsnis. Šio įstatymo vykdymo priežiūros institucija ir jos teisinis statusas
 
