@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2021-12-01"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2021-12-01 iki 2021-12-03
+Suvestinė redakcija nuo 2021-12-04 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -1468,7 +1468,11 @@ Nr. XIII-2814, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05694
 
 1) yra pažeidęs bent vieną iš šio įstatymo 17 straipsnio 2 dalies 2 punkte nurodytų aplinkos apsaugos, socialinės ir darbo teisės įpareigojimų ir už tai tiekėjui paskirta administracinė nuobauda ar ekonominė sankcija, nustatytos Lietuvos Respublikos įstatymuose ar kitų valstybių teisės aktuose, kai nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos praėjo mažiau kaip vienu metai;
 
-2) yra nemokus, jam iškelta restruktūrizavimo ar bankroto byla, inicijuotos ar pradėtos likvidavimo procedūros, kai jo turtą valdo teismas ar bankroto administratorius, kai jis su kreditoriais yra sudaręs taikos sutartį (tiekėjo ir kreditorių susitarimą tęsti tiekėjo veiklą, kai tiekėjas prisiima tam tikrus įsipareigojimus, o kreditoriai sutinka savo reikalavimus atidėti, sumažinti ar jų atsisakyti), kai jo veikla sustabdyta ar apribota arba jo padėtis pagal šalies, kurioje jis registruotas, teisės aktus yra tokia pati ar panaši. Tačiau kai yra šiame punkte apibrėžta situacija, perkančioji organizacija negali pašalinti tiekėjo iš pirkimo procedūros, jeigu jis pateikė pagrįstų įrodymų, kad sugebės tinkamai įvykdyti pirkimo sutartį;
+2) yra nemokus, jam iškelta restruktūrizavimo ar bankroto byla, inicijuotos ar pradėtos likvidavimo procedūros, kai jo turtą valdo teismas ar nemokumo administratorius, kai jis su kreditoriais yra sudaręs taikos sutartį (tiekėjo ir kreditorių susitarimą tęsti tiekėjo veiklą, kai tiekėjas prisiima tam tikrus įsipareigojimus, o kreditoriai sutinka savo reikalavimus atidėti, sumažinti ar jų atsisakyti), kai jo veikla sustabdyta ar apribota arba jo padėtis pagal šalies, kurioje jis registruotas, teisės aktus yra tokia pati ar panaši. Tačiau kai yra šiame punkte apibrėžta situacija, perkančioji organizacija negali pašalinti tiekėjo iš pirkimo procedūros, jeigu jis pateikė pagrįstų įrodymų, kad sugebės tinkamai įvykdyti pirkimo sutartį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-687, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25114
 
 3) yra padaręs rimtą profesinį pažeidimą ir dėl to kyla abejonių, kad jis sąžiningai vykdys sudarytą pirkimo sutartį. Šiuo pagrindu tiekėjas iš pirkimo procedūros gali būti pašalinamas, kai yra bent vienas iš šių perkančiosios organizacijos pirkimo dokumentuose pasirinktinai nurodytų pažeidimų:
 
@@ -1478,7 +1482,11 @@ b) konkurencijos, darbuotojų saugos ir sveikatos, informacijos apsaugos, intele
 
 c) draudimo sudaryti draudžiamus susitarimus, įtvirtinto Lietuvos Respublikos konkurencijos įstatyme ar panašaus pobūdžio kitos valstybės teisės akte, pažeidimas, kai nuo sprendimo paskirti Konkurencijos įstatyme ar kitos valstybės teisės akte nustatytą ekonominę sankciją įsiteisėjimo dienos praėjo mažiau kaip 3 metai;
 
-d) tiekėjas, kuris yra fizinis asmuo, arba tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovas, kitas valdymo ar priežiūros organo narys ar kitas asmuo, turintis (turintys) teisę atstovauti tiekėjui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, arba dalyvis, turintis balsų daugumą juridinio asmens dalyvių susirinkime, yra pripažintas kaltu dėl tyčinio bankroto, kaip jis apibrėžtas Lietuvos Respublikos įmonių bankroto įstatyme ar panašaus pobūdžio kitų valstybių teisės aktuose, kai nuo teismo sprendimo įsiteisėjimo dienos praėjo mažiau kaip 3 metai;
+d) tiekėjas, kuris yra fizinis asmuo, arba tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovas, kitas valdymo ar priežiūros organo narys ar kitas asmuo, turintis (turintys) teisę atstovauti tiekėjui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, arba dalyvis, turintis balsų daugumą juridinio asmens dalyvių susirinkime, yra pripažintas kaltu dėl tyčinio bankroto, kaip jis apibrėžtas Lietuvos Respublikos juridinių asmenų nemokumo įstatyme ar panašaus pobūdžio kitų valstybių teisės aktuose, kai nuo teismo sprendimo įsiteisėjimo dienos praėjo mažiau kaip 3 metai;
+
+Papunkčio pakeitimai:
+
+Nr. XIV-687, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25114
 
 4) neteko galios 2019-01-01.
 
