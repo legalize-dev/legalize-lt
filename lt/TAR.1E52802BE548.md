@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2021-10-16"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2021-10-16 iki 2021-12-03
+Suvestinė redakcija nuo 2021-12-04 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
 
@@ -679,7 +679,11 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 3. Jei likvidavimo pagrindas yra laikotarpio, kuriam buvo įsteigta viešoji įstaiga, pabaiga, likus ne mažiau kaip trims mėnesiams iki šio laikotarpio pabaigos, visuotinis dalininkų susirinkimas privalo paskirti likvidatorių arba priimti sprendimą pratęsti veiklos laikotarpį ir pakeisti viešosios įstaigos įstatus. Šiuo atveju priėmus nutarimą dėl likvidavimo, viešoji įstaiga įgyja likviduojamos viešosios įstaigos statusą ir likvidatorius įgyja valdymo organų teises ir pareigas ne vėliau kaip pirmą dieną po įstatuose nustatyto veiklos laikotarpio pabaigos. Jei visuotinis dalininkų susirinkimas nepriima sprendimo pratęsti viešosios įstaigos veiklos laikotarpį ir nepaskiria likvidatoriaus, bet kuris viešosios įstaigos dalininkas, taip pat juridinių asmenų registro tvarkytojas turi teisę kreiptis į teismą, kad šis paskirtų likvidatorių.
 
-4. Jei likvidavimo pagrindas yra teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusią viešąją įstaigą, ji likviduojama Įmonių bankroto įstatymo nustatyta tvarka.
+4. Jeigu likvidavimo pagrindas yra teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusią viešąją įstaigą, ji likviduojama Lietuvos Respublikos juridinių asmenų nemokumo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-683, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25108
 
 5. Jeigu viešosios įstaigos likvidavimo pagrindas yra juridinių asmenų registro tvarkytojo sprendimas, viešoji įstaiga likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą juridinių asmenų registro tvarkytojo iniciatyva.
 
@@ -942,6 +946,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-547, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21634
 
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11-1 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-683, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25108
+
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 9, 10, 11, 11-1, 12, 13, 15, 17 ir 18 straipsnių pakeitimo įstatymas
 
 81 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
