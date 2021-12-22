@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2021-11-13"
+last_updated: "2021-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-11-13 iki 2021-12-21
+Suvestinė redakcija nuo 2021-12-22 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -1361,6 +1361,12 @@ Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 3) jeigu šio straipsnio 3 dalyje nurodyti asmenys gauna informacijos, kad valstybės tarnautojas įtariamas ar kaltinamas padaręs tyčinį sunkų arba labai sunkų nusikaltimą arba įtariamas ar kaltinamas padaręs nusikaltimą arba baudžiamąjį nusižengimą valstybės tarnybai ar viešiesiems interesams. Šiuo atveju valstybės tarnautojas nušalinamas iki baudžiamojo proceso pabaigos;
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybės tarnybos įstatymo (2018 m. birželio 29 d. redakcija, TAR, 2018-07-16, Nr. 12037) 40 straipsnio 1 dalies 3 punktas tiek, kiek pagal jį asmenys, priimantys sprendimą dėl valstybės tarnautojo nušalinimo nuo pareigų, gavę informacijos, kad valstybės tarnautojas įtariamas ar kaltinamas padaręs tyčinį sunkų arba labai sunkų nusikaltimą arba įtariamas ar kaltinamas padaręs nusikaltimą arba baudžiamąjį nusižengimą valstybės tarnybai ar viešiesiems interesams, visais atvejais privalo nušalinti tokį valstybės tarnautoją nuo pareigų, taip pat visais atvejais privalo nušalinti jį nuo pareigų iki baudžiamojo proceso pabaigos, prieštarauja Lietuvos Respublikos Konstitucijos 33 straipsnio 1 dalies nuostatai „piliečiai turi teisę <...> lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti darbą“, konstituciniam teisinės valstybės principui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT201-A-N15/2021, 2021-12-22, paskelbta TAR 2021-12-22, i. k. 2021-26640
+
 4) kitų įstatymų nustatytų subjektų sprendimu šių įstatymų nustatytomis sąlygomis ir tvarka.
 
 2. Valstybės tarnautojas nuo pareigų gali būti nušalintas, jeigu:
@@ -1378,6 +1384,12 @@ Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 1. Nušalinimo terminui pasibaigus, valstybės tarnautojas grąžinamas į eitas pareigas, jeigu po nušalinimo nėra pagrindo atleisti jį iš pareigų.
 
 2. Už nušalinimo laikotarpį valstybės tarnautojui darbo užmokestis nemokamas. Valstybės tarnautojas, nuo tarnybos nušalintas nepagrįstai ar nepasitvirtinus aplinkybėms, lėmusioms nušalinimą, grąžinamas į eitas pareigas ir per 10 darbo dienų, kai valstybės tarnautojas vėl pradėjo eiti pareigas, jam išmokamas darbo užmokestis už laikotarpį, kurį jis buvo nušalintas nuo tarnybos, taip pat delspinigiai, kurių dydį tvirtina Lietuvos Respublikos socialinės apsaugos ir darbo ministras. Delspinigiai nemokami, jeigu valstybės tarnautojui žala atlyginta kitų įstatymų nustatyta tvarka. Delspinigių dydį socialinės apsaugos ir darbo ministras tvirtina kiekvienais metais iki vasario 1 dienos, atsižvelgdamas į Lietuvos statistikos departamento paskelbtą vartotojų kainų indeksą per praėjusius kalendorinius metus (lygindamas praėjusių metų gruodžio mėnesį su užpraeitų metų gruodžio mėnesiu).
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybės tarnybos įstatymo (2018 m. birželio 29 d. redakcija, TAR, 2018-07-16, Nr. 12037) 41 straipsnio 2 dalis tiek, kiek pagal ją sudarytos prielaidos neapibrėžtą, taigi ir ilgą, laiką nemokėti darbo užmokesčio pagal šio įstatymo 40 straipsnio 1 dalies 3 punktą nuo pareigų nušalintam valstybės tarnautojui, prieštarauja Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus <...> turi teisę <...> gauti teisingą apmokėjimą už darbą“, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT201-A-N15/2021, 2021-12-22, paskelbta TAR 2021-12-22, i. k. 2021-26640
 
 3. Sprendimą nušalinti valstybės tarnautoją nuo pareigų priėmusio subjekto reikalavimu nušalintas valstybės tarnautojas grąžina valstybės tarnautojo pažymėjimą, visas jam patikėtas su jo pareigų vykdymu susijusias priemones ir jo žinioje esančius dokumentus.
 
