@@ -4,7 +4,7 @@ identifier: "TAR.8447F63760E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-18"
-last_updated: "2021-10-09"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2021-10-09 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
 
@@ -2050,7 +2050,11 @@ BENDROSIOS NUOSTATOS
 
 93 straipsnis. Informacija draudėjui
 
-1. Visa informacija, kurią draudimo ar perdraudimo produktų platintojas teikia esamiems ar galimiems draudėjams, apdraustiesiems, naudos gavėjams ar nukentėjusiems tretiesiems asmenims, įskaitant reklaminę informaciją, turi būti teisinga, aiški ir neklaidinanti. Draudimo ar perdraudimo produktų platintojas, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas gali reklamuoti savo paslaugas visomis prieinamomis ryšio priemonėmis, laikydamiesi priežiūros institucijos patvirtintų reklamos formą ir turinį reglamentuojančių taisyklių, kuriomis siekiama užtikrinti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesus. Reklaminė informacija turi būti aiškiai atpažįstama.
+1. Visa informacija, kurią draudimo ar perdraudimo produktų platintojas teikia esamiems ar galimiems draudėjams, apdraustiesiems, naudos gavėjams ar nukentėjusiems tretiesiems asmenims, įskaitant reklaminę informaciją, turi būti teisinga, aiški ir neklaidinanti. Draudimo ar perdraudimo produktų platintojas, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas gali reklamuoti savo paslaugas visomis prieinamomis ryšio priemonėmis, laikydamiesi priežiūros institucijos patvirtintų reklamos formą ir turinį reglamentuojančių taisyklių, kuriomis siekiama užtikrinti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesus. Reklaminė informacija turi būti aiškiai atpažįstama. Draudimo ar perdraudimo produktų platintojas atskleidžia informaciją, nurodytą Reglamente (ES) 2019/2088.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
 
 2. Prieš ne gyvybės draudimo sutarties sudarymą, išskyrus atvejus, kai draudimo sutartis sudaroma dėl didelės draudimo rizikos, kaip nustatyta šio įstatymo 10 straipsnyje, draudikas arba draudimo tarpininkas privalo draudėjui raštu pateikti:
 
@@ -2948,10 +2952,6 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 3. Draudimo brokerių įmonė privalo apdrausti profesinę civilinę atsakomybę. Draudimo suma turi būti ne mažesnė kaip 1 250 000 eurų vienam draudžiamajam įvykiui ir 1 850 000 eurų visiems draudžiamiesiems įvykiams per metus. Draudimo apsauga privalo galioti visose Europos ekonominės erdvės valstybėse. Draudimo brokerių įmonė privalo turėti draudimo apsaugą visą savo veiklos laiką.
 
-4. Draudimo brokerių įmonė neturi teisės vykdyti jokios kitos ūkinės veiklos, išskyrus draudimo, perdraudimo ir pensijų kaupimo produktų platinimo veiklą. Be to, draudimo brokerių įmonė gali vertinti draudžiamą turtą Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka.
-
-4 dalies redakcija nuo 2019-05-01:
-
 4. Draudimo brokerių įmonė neturi teisės vykdyti jokios kitos ūkinės veiklos, išskyrus draudimo, perdraudimo ir pensijų kaupimo produktų platinimo ir kitų finansinių paslaugų teikimo veiklą. Be to, draudimo brokerių įmonė gali vertinti draudžiamą turtą Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka.
 
 5. Su draudimo ir perdraudimo produktų platinimu susijusias funkcijas draudimo brokerių įmonėje gali atlikti tik joje dirbantis ar renkamas pareigas einantis draudimo brokeris.
@@ -3690,7 +3690,11 @@ Priežiūros institucija, įgyvendindama šio įstatymo nuostatas, atlieka šias
 
 7) atlieka Direktyvos (ES) 2016/97 11 straipsnio 4 dalyje nustatyto kontaktinio punkto, teikiančio informaciją apie Lietuvos Respublikos teisės aktų reikalavimus, taikomus draudimo ir perdraudimo produktų platinimo veiklą Lietuvos Respublikoje vykdantiems asmenims, funkcijas;
 
-8) atlieka kitas šiame įstatyme ir kituose Lietuvos Respublikos teisės aktuose nustatytas funkcijas.
+8) atlieka kitas šiame įstatyme, kituose Lietuvos Respublikos teisės aktuose ir Reglamente (ES) 2019/2088 kompetentingai institucijai nustatytas funkcijas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
 
 Straipsnio pakeitimai:
 
@@ -3829,6 +3833,12 @@ Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
 15) pažeisti Reglamente (EB) Nr. 1060/2009 nustatyti reikalavimai;
 
 16) pažeisti Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai;
+
+161) pažeisti Reglamente (ES) 2019/2088 nustatyti reikalavimai;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
 
 17) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus;
 
@@ -4262,37 +4272,41 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1995 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies keičianti direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, direktyvas 73/239/EEB ir 92/49/EEB dėl ne gyvybės draudimo, direktyvas 79/267/EEB ir 92/96/EEB dėl gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių įmonių, Direktyvą 85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektų (KIPVPS), kad būtų gerinama riziką ribojanti priežiūra, su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB.
+1. 1995 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies keičianti Direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, Direktyvas 73/239/EEB ir 92/49/EEB dėl ne gyvybės draudimo, Direktyvas 79/267/EEB ir 92/96/EEB dėl gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių įmonių, Direktyvą 85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektų (KIPVPS), kad būtų gerinama riziką ribojanti priežiūra, su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB.
 
-2. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto.
+2. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos reglamentu (ES) Nr. 517/2013.
 
 3. 2002 m. kovo 5 d. Europos Parlamento ir Tarybos direktyva 2002/13/EB, iš dalies keičianti Tarybos direktyvą 73/239/EEB dėl ne gyvybės draudimo įmonėms taikomų mokumo atsargos reikalavimų.
 
-4. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl finansiniam konglomeratui priklausančių kredito įstaigų, draudimo įmonių ir investicinių firmų papildomos priežiūros ir iš dalies keičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB ir 2000/12/EB su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES.
+4. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl finansiniam konglomeratui priklausančių kredito įstaigų, draudimo įmonių ir investicinių firmų papildomos priežiūros ir iš dalies keičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB ir 2000/12/EB, su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2034.
 
 5. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo.
 
 6. 2005 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2005/1/EB, iš dalies keičianti Tarybos direktyvas 73/239/EEB, 85/611/EEB, 91/675/EEB, 92/49/EEB bei 93/6/EEB, taip pat Europos Parlamento ir Tarybos direktyvas 94/19/EB, 98/78/EB, 2000/12/EB, 2001/34/EB, 2002/83/EB ir 2002/87/EB, siekiant sukurti naują finansinių paslaugų komitetų organizacinę struktūrą, su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB.
 
-7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/51/ES.
+7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentu (ES) 2017/2402.
 
 8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo.
 
-9. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2177.
+9. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2177.
 
 10. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos direktyva 2011/89/ES, kuria iš dalies keičiamos direktyvų 98/78/EB, 2002/87/EB, 2006/48/EB ir 2009/138/EB nuostatos dėl finansų konglomeratui priklausančių finansų subjektų papildomos priežiūros.
 
-11. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB.
+11. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2014 m. lapkričio 7 d. Europos Parlamento ir Tarybos direktyva 2014/102/ES.
 
-12. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų.
+12. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156.
 
-13. 2016 m. sausio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/97 dėl draudimo produktų platinimo.
+13. 2016 m. sausio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/97 dėl draudimo produktų platinimo su paskutiniais pakeitimais, padarytais 2019 m. gegužės 13 d. Komisijos deleguotuoju reglamentu (ES) 2019/1935.
+
+14. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
 
 Priedo pakeitimai:
 
 Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
 
 Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
+
+Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
 
 Pakeitimai:
 
@@ -4609,6 +4623,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
 
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 2, 17, 30, 39, 64 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 71-1, 74-1 straipsniais įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
+
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 93, 200, 205 straipsnių ir priedo pakeitimo įstatymas
 
 224 straipsnis. Piniginis vienetas
 
