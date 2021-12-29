@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2021-06-16"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2021-06-16 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -802,7 +802,11 @@ KELEIVIŲ, BAGAŽO IR KROVINIŲ VEŽIMAS
 
 33 straipsnis. Keleivių ir bagažo vežimas
 
-1. Keleivių ir bagažo vežimo sąlygos ir tvarka, taip pat geležinkelio įmonės (vežėjo), keleivio, bagažo siuntėjo (gavėjo) teisės, pareigos ir atsakomybė, geležinkelių transportu keliaujančių neįgaliųjų arba ribotos judėsenos asmenų apsauga ir pagalbos taisyklės nustatytos 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų (toliau – Reglamentas (EB) Nr. 1371/2007), šiame Kodekse, Civiliniame kodekse, Lietuvos Respublikos tarptautinėse sutartyse ir kituose teisės aktuose.
+1. Keleivių ir bagažo vežimo sąlygos ir tvarka, taip pat geležinkelio įmonės (vežėjo), keleivio, bagažo siuntėjo (gavėjo) teisės, pareigos ir atsakomybė, geležinkelių transportu keliaujančių neįgaliųjų arba ribotos judėsenos asmenų apsauga ir pagalbos taisyklės nustatytos Reglamente (EB) Nr. 1371/2007, šiame Kodekse, Civiliniame kodekse, Lietuvos Respublikos tarptautinėse sutartyse ir kituose teisės aktuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 
 2. Geležinkelio įmonė (vežėjas), teikianti keleivių ir bagažo vežimo geležinkelių transportu paslaugas, privalo sudaryti nenumatytų atvejų planus ir užtikrinti, kad šie planai būtų tinkamai koordinuojami su keleivių geležinkelio stoties operatoriumi ir viešosios geležinkelių infrastruktūros valdytoju tam, kad įvykus esminiam keleivių ir bagažo vežimo geležinkelių transportu paslaugų teikimo sutrikimui keleiviams būtų suteikta pagalba, kaip nustatyta Reglamento (EB) Nr. 1371/2007 18 straipsnyje.
 
@@ -1142,89 +1146,29 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. Neteko galios 2019-12-08.
+1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/49/EB dėl saugos Bendrijos geležinkeliuose ir iš dalies pakeičianti Tarybos direktyvą 95/18/EB dėl geležinkelio įmonių licencijavimo bei Direktyvą 2001/14/EB dėl geležinkelių infrastruktūros pajėgumų paskirstymo, mokesčių už naudojimąsi geležinkelių infrastruktūra ėmimo ir saugos sertifikavimo (Saugos geležinkeliuose direktyva) su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/110/EB.
 
-Punkto pakeitimai:
+2. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70.
 
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+3. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų.
 
-2. Neteko galios 2019-12-08.
+4. 2010 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 913/2010 dėl konkurencingo krovinių vežimo Europos geležinkeliais tinklo su paskutiniais pakeitimais, padarytais 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1316/2013.
 
-Punkto pakeitimai:
+5. 2012 m. lapkričio 21 d. Europos Parlamento ir Tarybos direktyva 2012/34/ES, kuria sukuriama bendra Europos geležinkelių erdvė, su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2370.
 
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+6. 2015 m. liepos 7 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 2015/1100 dėl valstybių narių pareigų teikti geležinkelių rinkos stebėjimo ataskaitas.
 
-3. Neteko galios 2019-12-08.
+7. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/797 dėl geležinkelių sistemos sąveikos Europos Sąjungoje.
 
-Punkto pakeitimai:
+8. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos.
 
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+9. 2016 m. balandžio 7 d. Komisijos įgyvendinimo reglamentas (ES) 2016/545 dėl procedūrų ir kriterijų, susijusių su pamatiniais susitarimais dėl geležinkelių infrastruktūros pajėgumų paskirstymo.
 
-4. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/49/EB dėl saugos Bendrijos geležinkeliuose ir iš dalies pakeičianti Tarybos direktyvą 95/18/EB dėl geležinkelio įmonių licencijavimo bei Direktyvą 2001/14/EB dėl geležinkelių infrastruktūros pajėgumų paskirstymo, mokesčių už naudojimąsi geležinkelių infrastruktūra ėmimo ir saugos sertifikavimo (Saugos geležinkeliuose direktyva) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 227) su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/110/EB  (OL 2008 L 345, p. 62).
-
-5. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1).
-
-6. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų (OL 2007 L 315, p. 14).
-
-TAR pastaba. Vežant keleivius vietinio susisiekimo maršrutais, Reglamento (EB) Nr. 1371/2007 8 straipsnio 2 ir 3 dalių, 21 straipsnio, 24 straipsnio d dalies, atsižvelgiant į 22 ir 23 straipsnius, nuostatos netaikomos iki 2024 m. gruodžio 2 d. Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, Reglamento (EB) Nr. 1371/2007 nuostatos netaikomos iki 2024 m. gruodžio 2 d.
-
-Punkto pakeitimai:
-
-Nr. XII-1622, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06523
-
-Nr. XIII-2686, 2019-12-13, paskelbta TAR 2019-12-20, i. k. 2019-20857
-
-7. 2010 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 913/2010 dėl konkurencingo krovinių vežimo Europos geležinkeliais tinklo (OL 2010 L 276, p. 22) su paskutiniais pakeitimais, padarytais 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1316/2013 (OL 2013 L 348, p. 129).
-
-Papildyta punktu:
-
-Nr. XII-1604, 2015-04-09, paskelbta TAR 2015-04-15, i. k. 2015-05813
-
-8. 2012 m. lapkričio 21 d. Europos Parlamento ir Tarybos direktyva 2012/34/ES, kuria sukuriama bendra Europos geležinkelių erdvė (OL 2012 L 343, p. 32), su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2370 (OL 2016 L 352, p. 1).
-
-Papildyta punktu:
-
-Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
-
-Punkto pakeitimai:
-
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
-
-9. 2015 m. liepos 7 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 2015/1100 dėl valstybių narių pareigų teikti geležinkelių rinkos stebėjimo ataskaitas (OL 2015 L 181, p. 1).
-
-Papildyta punktu:
-
-Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
-
-10. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/797 dėl geležinkelių sistemos sąveikos Europos Sąjungoje (OL 2016 L 138, p. 44).
-
-Papildyta punktu:
-
-Nr. XIII-833, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20053
-
-11. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos (OL 2016 L 138, p. 102).
-
-Papildyta punktu:
-
-Nr. XIII-833, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20053
-
-12. 2016 m. balandžio 7 d. Komisijos įgyvendinimo reglamentas (ES) 2016/545 dėl procedūrų ir kriterijų, susijusių su pamatiniais susitarimais dėl geležinkelių infrastruktūros pajėgumų paskirstymo (OL 2016 L 94, p. 1).
-
-Papildyta punktu:
-
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
-
-13. 2017 m. lapkričio 22 d. Komisijos įgyvendinimo reglamentas (ES) 2017/2177 dėl galimybės naudotis geležinkelių paslaugų įrenginiais ir su geležinkeliais susijusiomis paslaugomis (OL 2017 L 307, p. 1).
-
-Papildyta punktu:
-
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+10. 2017 m. lapkričio 22 d. Komisijos įgyvendinimo reglamentas (ES) 2017/2177 dėl galimybės naudotis geležinkelių paslaugų įrenginiais ir su geležinkeliais susijusiomis paslaugomis.
 
 Priedo pakeitimai:
 
-Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
-
-Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 
 Pakeitimai:
 
