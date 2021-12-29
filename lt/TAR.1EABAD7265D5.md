@@ -4,7 +4,7 @@ identifier: "TAR.1EABAD7265D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-06-18"
-last_updated: "2020-06-15"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1EABAD7265D5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS INFORMUOTIESIEMS INVESTUOTOJAMS SKIRTŲ KOLEKTYVINIO
 
 INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-06-15 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
 
@@ -1066,10 +1066,6 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
 4. Kolektyvinio investavimo subjekto reklamoje turi būti aiškiai ir suprantamai nurodyta, kad įsigyti jo investicinius vienetus ar akcijas arba įnešti įnašą gali tik šiame įstatyme nustatytus reikalavimus atitinkantys informuotieji investuotojai.
 
-IV SKYRIUS
-
-VALDYMO ĮMONIŲ IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ AUDITAS IR METŲ IR PUSMEČIO VEIKLOS ATASKAITOS REIKALAVIMAI
-
 51 straipsnis. Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų ar investicinės bendrovės-valdytojos buhalterinė apskaita ir auditas
 
 1. Valdymo įmonės buhalterinė apskaita tvarkoma ir finansinių atskaitų rinkinys rengiamas vadovaujantis Lietuvos Respublikos įstatymais, kitais teisės aktais, reglamentuojančiais buhalterinę apskaitą ir finansinių ataskaitų rinkinio rengimą, tarptautiniais apskaitos standartais.
@@ -1108,6 +1104,14 @@ VALDYMO ĮMONIŲ IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ AUDITAS IR METŲ IR PUSME
 
 4) veiklos apžvalga;
 
+41) informacija, nurodyta Reglamente (ES) 2019/2088;
+
+TAR pastaba. 52 straipsnio 2 dalies 41 punkto nuostatos taikomos rengiant 2021 metų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų metų veiklos ataskaitas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
+
 5) kita svarbi informacija, iš kurios investuotojai galėtų daryti pagrįstas išvadas dėl investicinio fondo veiklos ir jos rezultatų.
 
 3. Investicinės bendrovės metų veiklos ataskaitoje privalo būti pateikiama:
@@ -1115,6 +1119,14 @@ VALDYMO ĮMONIŲ IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ AUDITAS IR METŲ IR PUSME
 1) finansinių ataskaitų rinkinys (balansas, pelno (nuostolių) ataskaita, nuosavo kapitalo pokyčių ataskaita, pinigų srautų ataskaita, aiškinamasis raštas);
 
 2) metinis pranešimas;
+
+21) informacija, nurodyta Reglamente (ES) 2019/2088;
+
+TAR pastaba. 52 straipsnio 3 dalies 21 punkto nuostatos taikomos rengiant 2021 metų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų metų veiklos ataskaitas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 
 3) kita svarbi informacija, iš kurios investuotojai galėtų daryti pagrįstas išvadas dėl investicinės bendrovės veiklos ir jos rezultatų.
 
@@ -1290,7 +1302,11 @@ Nr. XIII-1246, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09861
 
 3) tikrina kolektyvinio investavimo subjekto turto saugotojų veiklą;
 
-4) atlieka kitas šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas funkcijas.
+4) atlieka kitas šiame įstatyme, kituose Lietuvos Respublikos teisės aktuose ir Reglamente (ES) 2019/2088 kompetentingai institucijai nustatytas funkcijas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 
 2. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų teisių, priežiūros institucija, atlikdama jai pavestas funkcijas, turi teisę:
 
@@ -1370,7 +1386,11 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 6) nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 63 straipsnį duoti privalomi nurodymai;
 
-7) pažeidžiami Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai;
+7) pažeidžiami Reglamente (ES) Nr. 1286/2014 ir Reglamente (ES) 2019/2088 nustatyti reikalavimai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 
 8) valdymo įmonės ir investicinės bendrovės-valdytojos vadovais, investicinius sprendimus priimančiais asmenimis išrenkami arba vadovų, investicinius sprendimus priimančių asmenų pareigas eina vienas ar keli asmenys, neatitinkantys šio įstatymo 11 straipsnio 2 dalyje nustatytų reputacijos, kvalifikacijos ir darbo patirties reikalavimų;
 
@@ -1426,29 +1446,25 @@ RESPUBLIKOS PREZIDENTĖ                            �
 
 Lietuvos Respublikos
 
-informuotiesiems investuotojams skirtų
+informuotiesiems investuotojams
 
-kolektyvinio investavimo subjektų
+skirtų kolektyvinio investavimo
 
-įstatymo
+subjektų įstatymo
 
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektais (KIPVPS), derinimo (OL 2009 L 302, p. 32) su paskutiniais pakeitimais, padarytais 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2014/91/ES (OL 2014 L 257, p. 186).
+1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektais (KIPVPS), derinimo su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2162.
 
-TAR pastaba. 1 punktas netenka galios 2022 m. sausio 1 d..
+2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156.
 
-Punkto pakeitimai:
+3. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
 
-Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
+Priedo pakeitimai:
 
-2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1) su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156 (OL 2019 L 188, p. 55).
-
-Punkto pakeitimai:
-
-Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
+Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 
 Pakeitimai:
 
@@ -1523,4 +1539,24 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2965, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11345
 
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 9 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
+
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 52, 61, 65 straipsnių, priedo pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymas
+
+501 straipsnis. Su tvarumu susijusios informacijos teikimo investuotojams tvarka
+
+Prieš pradedant investuoti valdymo įmonė investuotojams turi pateikti informaciją, nurodytą Reglamente (ES) 2019/2088.
+
+Papildyta straipsniu:
+
+Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
+
+IV SKYRIUS
+
+VALDYMO ĮMONIŲ IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ AUDITAS IR METŲ IR PUSMEČIO VEIKLOS ATASKAITOS REIKALAVIMAI
 
