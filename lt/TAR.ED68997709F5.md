@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2021-07-01"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
 
@@ -3370,7 +3370,11 @@ Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 3) šios dalies 2 punkte nurodytų paslaugų, susijusių su prekių gabenimu iš pirmosios paskirties vietos į kitą paskirties vietą Europos Sąjungos teritorijoje, jeigu ši vieta yra žinoma apmokestinimo momentu, vertę.
 
-16. Kai reimportuojamos laikinai išvežtos už Europos Sąjungos teritorijos ribų remontuoti, perdirbti, pritaikyti ar panašioms operacijoms atlikti prekės, neatsižvelgiant į šio straipsnio 15 dalies nuostatas, jų apmokestinamąją vertę sudaro už Europos Sąjungos teritorijos ribų suteiktų atitinkamų paslaugų vertė, nustatyta vadovaujantis šio straipsnio nuostatomis.
+16. Kai reimportuojamos laikinai išvežtos už Europos Sąjungos teritorijos ribų remontuoti, perdirbti, pritaikyti ar panašioms operacijoms atlikti prekės, neatsižvelgiant į šio straipsnio 15 dalies nuostatas, jų apmokestinamąją vertę sudaro už Europos Sąjungos teritorijos ribų suteiktų atitinkamų paslaugų vertė, nustatyta vadovaujantis šio straipsnio nuostatomis. Iš šios apskaičiuotos vertės atimama paslaugų, kurios pagal šio Įstatymo 13 straipsnio arba kitos valstybės narės apmokestinimą PVM reglamentuojančių teisės aktų nuostatas laikomos suteiktomis šalies ar Europos Sąjungos teritorijoje, apmokestinamoji vertė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
 
 17. Į importuojamų prekių apmokestinamąją vertę neįtraukiamos įvairios nuolaidos, žinomos prievolės apskaičiuoti importo PVM atsiradimo momentu.
 
