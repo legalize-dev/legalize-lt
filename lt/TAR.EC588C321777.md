@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2021-07-01"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2022-01-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -1411,15 +1411,21 @@ Ikiteisminio tyrimo bendrosios nuostatos
 
 167 straipsnis. Ikiteisminio tyrimo pradžia tik pagal nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą, ar prokuroro reikalavimą
 
-1. Dėl nusikalstamų veikų, numatytų Lietuvos Respublikos baudžiamojo kodekso 139 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 145, 148 straipsniuose, 149 straipsnio 1 dalyje, 150 straipsnio 1 dalyje, 151 straipsnio 1 dalyje, 152, 154, 165, 168 straipsniuose, 178 straipsnio 1 ir 4 dalyse, 179 straipsnio 1 ir 3 dalyse, 182 straipsnio 1 ir 3 dalyse, 183 straipsnio 1 ir 3 dalyse, 184 straipsnio 1 ir 3 dalyse, 186 straipsnyje, 187 straipsnio 1 ir 3 dalyse, 188 straipsnyje, 294 straipsnio 1 dalyje, 313 straipsnyje, ikiteisminis tyrimas pradedamas tik tuo atveju, kai yra nukentėjusiojo skundas ar jo teisėto atstovo pareiškimas. Šiais atvejais procesas vyksta bendra tvarka.
+1. Dėl nusikalstamų veikų, numatytų Lietuvos Respublikos baudžiamojo kodekso 139 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 145, 148, 1481 straipsniuose, 149 straipsnio 1 dalyje, 150 straipsnio 1 dalyje, 151 straipsnio 1 dalyje, 152, 154, 165, 168 straipsniuose, 178 straipsnio 1 ir 4 dalyse, 179 straipsnio 1 ir 3 dalyse, 182 straipsnio 1 ir 3 dalyse, 183 straipsnio 1 ir 3 dalyse, 184 straipsnio 1 ir 3 dalyse, 186 straipsnyje, 187 straipsnio 1 ir 3 dalyse, 188 straipsnyje, 294 straipsnio 1 dalyje, 313 straipsnyje, ikiteisminis tyrimas pradedamas tik tuo atveju, kai yra nukentėjusiojo skundas ar jo teisėto atstovo pareiškimas. Šiais atvejais procesas vyksta bendra tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
 
+Nr. XIV-786, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27363
+
 2. Jeigu šio straipsnio 1 dalyje nurodytos nusikalstamos veikos turi visuomeninę reikšmę ar jomis padaryta žala asmeniui, kuris dėl svarbių priežasčių negali ginti teisėtų savo interesų, ir nėra nukentėjusiojo skundo ar jo teisėto atstovo pareiškimo, ikiteisminis tyrimas dėl šių veikų privalo būti pradėtas prokuroro reikalavimu.
 
-3. Jeigu Lietuvos Respublikos baudžiamojo kodekso 145 straipsnyje, 149 straipsnio 1 dalyje, 150 straipsnio 1 dalyje, 151 straipsnio 1 dalyje numatytos nusikalstamos veikos turi smurto artimoje aplinkoje požymių, ikiteisminis tyrimas pradedamas, nesvarbu, ar yra nukentėjusiojo skundas arba jo teisėto atstovo pareiškimas. Šiais atvejais ikiteisminis tyrimas pradedamas ir procesas vyksta bendra tvarka.
+3. Jeigu Lietuvos Respublikos baudžiamojo kodekso 140 straipsnio 1 dalyje, 145, 148, 1481 straipsniuose, 149 straipsnio 1 dalyje, 150 straipsnio 1 dalyje, 151 straipsnio 1 dalyje, 165 straipsnyje numatytos nusikalstamos veikos turi smurto artimoje aplinkoje požymių, ikiteisminis tyrimas pradedamas, nesvarbu, ar yra nukentėjusiojo skundas arba jo teisėto atstovo pareiškimas, ar nėra. Šiais atvejais ikiteisminis tyrimas pradedamas ir procesas vyksta bendra tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-786, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27363
 
 4. Jeigu ikiteisminio tyrimo metu nustatyta, kad įtariamojo veikoje yra ir tokios nusikalstamos veikos, dėl kurios tyrimas daromas tik pagal nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą, ar prokuroro reikalavimą, požymių, tai ikiteisminis tyrimas dėl tos veikos daromas tik gavus atitinkamą skundą, pareiškimą ar reikalavimą.
 
