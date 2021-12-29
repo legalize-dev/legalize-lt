@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2021-01-01"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
 
@@ -65,7 +65,11 @@ Vyriausybė savo veiklą grindžia kolegialumo, demokratijos, teisėtumo ir vie�
 
 5 straipsnis. Vyriausybės atsakomybė ir atskaitomybė
 
-1. Vyriausybė solidariai atsako Seimui už bendrą savo veiklą. Vyriausybė ne rečiau kaip kartą per metus pateikia Seimui savo metinę veiklos ataskaitą.
+1. Vyriausybė solidariai atsako Seimui už bendrą savo veiklą. Vyriausybė ne rečiau kaip kartą per metus pateikia Seimui metinę Vyriausybės veiklos ataskaitą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-788, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27364
 
 2. Seimo reikalavimu Seimo statuto nustatyta tvarka Vyriausybė arba atskiri ministrai atsiskaito Seime už savo veiklą.
 
