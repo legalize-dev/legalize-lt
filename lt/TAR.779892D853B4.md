@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2018-04-28"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2018-04-28 iki 2021-12-30
+Suvestinė redakcija nuo 2021-12-31 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -80,13 +80,15 @@ Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010IST
 
 6. Finansinė garantija – finansų įstaigos įstatymų nustatyta tvarka suteikta garantija, kuria neatšaukiamai įsipareigojama išmokėti garantijoje nustatytą pinigų sumą, jeigu bus įvykdytos visos garantijoje nurodytos sąlygos.
 
-7. Finansų įmonė – Lietuvos Respublikos įmonė arba užsienio valstybės įmonės padalinys, kurie veikia Lietuvos Respublikoje įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka ir kurių pagrindinę veiklos dalį sudaro vienos arba daugiau šio Įstatymo 3 straipsnio 1 dalyje, išskyrus 1 punktą, nurodytų finansinių paslaugų teikimas.
+7. Finansų įmonė – Lietuvos Respublikos įmonė arba užsienio valstybės įmonės padalinys, kurie veikia Lietuvos Respublikoje įstatymų ar Europos Sąjungos teisės aktų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka ir kurių pagrindinę veiklos dalį sudaro vienos arba daugiau šio Įstatymo 3 straipsnio 1 dalyje, išskyrus 1 punktą, nurodytų finansinių paslaugų teikimas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1306, 2007-10-25, Žin., 2007, Nr. 117-4775 (2007-11-15), i. k. 1071010ISTA00X-1306
 
 Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 8. Finansų įstaigos klientas – asmuo, kuriam finansų įstaiga teikia finansines paslaugas.
 
@@ -216,7 +218,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
 
-26. Licencinės finansinės paslaugos – finansinės paslaugos, kurių teikimu galima verstis tik gavus įstatymų nustatyta tvarka išduotą licenciją.
+26. Licencinės finansinės paslaugos – finansinės paslaugos, kurių teikimu galima verstis tik gavus įstatymų ar Europos Sąjungos teisės aktų nustatyta tvarka išduotą licenciją (leidimą).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -466,7 +472,11 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2772, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26973
 
-2. Licencines finansines paslaugas nustato Lietuvos Respublikos įstatymai.
+2. Licencines finansines paslaugas nustato Lietuvos Respublikos įstatymai arba Europos Sąjungos teisės aktai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 3. Teikti licencines finansines paslaugas be licencijos yra draudžiama.
 
@@ -506,11 +516,15 @@ Nr. XII-1694, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07670
 
 4. Finansų įstaigos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo Įstatymu, Lietuvos Respublikos įstatymais, reglamentuojančiais finansinių paslaugų teikimą ir finansų įstaigų veiklą, taip pat atitinkamos teisinės formos, kurios pagrindu finansų įstaiga yra įsteigta ir veikia, juridinį asmenį, ir kitais teisės aktais.
 
-5. Jei Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustato kitokias normas negu šis Įstatymas, taikomos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, normos.
+5. Jeigu Lietuvos Respublikos įstatymai ar Europos Sąjungos teisės aktai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustato kitokias normas negu šis Įstatymas, taikomos Lietuvos Respublikos įstatymų arba Europos Sąjungos teisės aktų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, normos.
 
 Papildyta straipsnio dalimi:
 
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 6. Šio įstatymo 20 straipsnio 2 dalyje, 44 straipsnio 3 dalyje ir 46 straipsnio 3 dalyje nustatyta tvarka netaikoma finansų įstaigoms, kurios teikia tik nelicencines finansines paslaugas, nustatytas Lietuvos Respublikos vartojimo kredito įstatyme.
 
@@ -556,7 +570,11 @@ Nr. IX-1481, 2003-04-03, Žin., 2003, Nr. 38-1726 (2003-04-24), i. k. 1031010IST
 
 3) atitinka kitus šio Įstatymo bei kitų Lietuvos Respublikos teisės aktų reikalavimus, keliamus finansų įstaigos dalyviams.
 
-2. Licencines finansines paslaugas teikiančios finansų įstaigos kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimo, padidinimo, perleidimo ir sumažinimo tvarką nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą.
+2. Licencines finansines paslaugas teikiančios finansų įstaigos kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimo, padidinimo, perleidimo ir sumažinimo tvarką nustato Lietuvos Respublikos įstatymai arba Europos Sąjungos teisės aktai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 Straipsnio pakeitimai:
 
@@ -586,9 +604,17 @@ Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA
 
 2. Lietuvos Respublikos juridinių asmenų registre įregistruotos finansų įstaigos buveinė turi būti Lietuvos Respublikoje.
 
-3. Įregistruota finansų įstaiga arba veikianti įmonė, priėmusi sprendimą verstis finansinių paslaugų teikimu, gali pradėti teikti finansines paslaugas tik gavusi licenciją (leidimą) jas teikti, jeigu Lietuvos Respublikos įstatymai nustato, kad tokia licencija (leidimas) yra būtina.
+3. Įregistruota finansų įstaiga arba veikianti įmonė, priėmusi sprendimą verstis finansinių paslaugų teikimu, gali pradėti teikti finansines paslaugas tik gavusi licenciją (leidimą) jas teikti, jeigu Lietuvos Respublikos įstatymai ar Europos Sąjungos teisės aktai nustato, kad tokia licencija (toks leidimas) yra būtina (būtinas).
 
-4. Licencija (leidimas) teikti finansines paslaugas finansų įstaigai išduodama Lietuvos Respublikos įstatymų, reglamentuojančių finansinių paslaugų teikimą bei finansų įstaigų veiklą, nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
+
+4. Licencija (leidimas) teikti finansines paslaugas finansų įstaigai išduodama (išduodamas) Lietuvos Respublikos įstatymų arba Europos Sąjungos teisės aktų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 5. Lietuvos Respublikos įstatymuose gali būti nustatyta, kad priežiūros institucijos leidimas yra būtinas norint:
 
@@ -612,7 +638,11 @@ Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA
 
 10) nebesiversti visų arba dalies finansinių paslaugų teikimu.
 
-6. Lietuvos Respublikos įstatymuose gali būti nustatyti ir kiti atvejai, kada yra būtinas priežiūros institucijos leidimas.
+6. Lietuvos Respublikos įstatymuose arba Europos Sąjungos teisės aktuose gali būti nustatyti ir kiti atvejai, kada yra būtinas priežiūros institucijos leidimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 10 straipsnis. Licencijos atšaukimas
 
@@ -640,7 +670,11 @@ Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA
 
 8) jos dalyviai priima sprendimą grąžinti licenciją teikti licencines finansines paslaugas;
 
-9) kitais Lietuvos Respublikos įstatymų nustatytais atvejais.
+9) kitais Lietuvos Respublikos įstatymų arba Europos Sąjungos teisės aktų nustatytais atvejais.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 3. Priežiūros institucija, atsižvelgdama į pažeidimo turinį, šio pažeidimo ir poveikio priemonės taikymo pasekmes finansų įstaigų sistemos saugumui, stabilumui ir patikimumui, priėmusi sprendimą atšaukti finansų įstaigai išduotą licenciją teikti finansines paslaugas, gali pasiūlyti jos dalyviams likviduoti finansų įstaigą ar inicijuoti jos bankroto procedūrą, taip pat pati inicijuoti finansų įstaigos bankroto procedūrą.
 
@@ -692,7 +726,11 @@ FINANSŲ ĮSTAIGOS DALYVIAI
 
 14 straipsnis. Finansų įstaigos dalyvių teisės ir pareigos
 
-1. Finansų įstaigos dalyvių teises ir pareigas nustato Lietuvos Respublikos įstatymai, reglamentuojantys atitinkamos teisinės formos, kurios pagrindu veikia finansų įstaiga, juridinio asmens veiklą, ir šių įstaigų steigimo dokumentai, jeigu kiti Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nenustato ko kita.
+1. Finansų įstaigos dalyvių teises ir pareigas nustato Lietuvos Respublikos įstatymai, reglamentuojantys atitinkamos teisinės formos, kurios pagrindu veikia finansų įstaiga, juridinio asmens veiklą, ir šių įstaigų steigimo dokumentai, jeigu kiti Lietuvos Respublikos įstatymai arba Europos Sąjungos teisės aktai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nenustato ko kita.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 2. Lietuvos Respublikos įstatymai finansų įstaigos dalyviams gali nustatyti ir šias papildomas pareigas:
 
@@ -728,7 +766,11 @@ FINANSŲ ĮSTAIGOS ORGANAI
 
 16 straipsnis. Finansų įstaigos organai
 
-Finansų įstaigos organus, jų struktūrą, sudėtį, sudarymo, sušaukimo ir darbo tvarką, pareigas ir teises, atsakomybės ribas nustato Lietuvos Respublikos civilinis kodeksas ir Lietuvos Respublikos įstatymai, reglamentuojantys atitinkamos teisinės formos, kurios pagrindu veikia finansų įstaiga, juridinio asmens veiklą ir jo steigimo dokumentai, jeigu šis Įstatymas ir kiti Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nenustato ko kita.
+Finansų įstaigos organus, jų struktūrą, sudėtį, sudarymo, sušaukimo ir darbo tvarką, pareigas ir teises, atsakomybės ribas nustato Lietuvos Respublikos civilinis kodeksas ir Lietuvos Respublikos įstatymai, reglamentuojantys atitinkamos teisinės formos, kurios pagrindu veikia finansų įstaiga, juridinio asmens veiklą ir jo steigimo dokumentai, jeigu šis Įstatymas ir kiti Lietuvos Respublikos įstatymai arba Europos Sąjungos teisės aktai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nenustato ko kita.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 17 straipsnis. Visuotinis finansų įstaigos dalyvių susirinkimas
 
@@ -764,13 +806,17 @@ Nr. XIII-1097, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06736
 
 19 straipsnis. Finansų įstaigos administracija
 
-1. Finansų įstaigos administracijos sudarymo tvarką, įgaliojimus, jos funkcijas ir pareigas bei darbo tvarką nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą bei atitinkamos teisinės formos, kurios pagrindu veikia finansų įstaiga, juridinio asmens veiklą.
+1. Finansų įstaigos administracijos sudarymo tvarką, įgaliojimus, jos funkcijas, pareigas ir darbo tvarką nustato Lietuvos Respublikos įstatymai arba Europos Sąjungos teisės aktai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą bei atitinkamos teisinės formos, kurios pagrindu veikia finansų įstaiga, juridinio asmens veiklą.
 
-2. Finansų įstaigos administracijoje, jeigu Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą nenustato ko kita, turi būti du asmenys – vadovas ir jo pavaduotojas (toliau – administracijos vadovai), kurie, vadovaudamiesi steigimo dokumentais, pareiginėmis instrukcijomis, aukštesniųjų valdymo organų nutarimais ir administracijos darbo reglamentu, turi teisę sudaryti sandorius finansų įstaigos vardu. Finansų įstaigos steigimo dokumentuose, administracijos darbo reglamente turi būti nustatytos veiklos sritys, kuriose:
+2. Finansų įstaigos administracijoje, jeigu Lietuvos Respublikos įstatymai ar Europos Sąjungos teisės aktai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nenustato ko kita, turi būti du asmenys – vadovas ir jo pavaduotojas (toliau – administracijos vadovai), kurie, vadovaudamiesi steigimo dokumentais, pareiginėmis instrukcijomis, aukštesniųjų valdymo organų nutarimais ir administracijos darbo reglamentu, turi teisę sudaryti sandorius finansų įstaigos vardu. Finansų įstaigos steigimo dokumentuose, administracijos darbo reglamente turi būti nustatytos veiklos sritys, kuriose:
 
 1) teisę veikti ir sudaryti sandorius gali tik abu administracijos vadovai, veikdami kartu ir turėdami bendrą nuomonę;
 
 2) teisę veikti ir sudaryti sandorius gali savarankiškai ir administracijos vadovas, ir jo pavaduotojas arba jų įgalioti asmenys.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 20 straipsnis. Finansų įstaigos vadovai
 
@@ -804,7 +850,11 @@ Nr. IX-1481, 2003-04-03, Žin., 2003, Nr. 38-1726 (2003-04-24), i. k. 1031010IST
 
 4) turi įsipareigojimų arba atlieka funkcijas, kurios kelia grėsmę saugiai ir patikimai finansų įstaigos veiklai;
 
-5) neatitinka kituose Lietuvos Respublikos įstatymuose ir teisės aktuose vadovams nustatytų reikalavimų.
+5) neatitinka kituose Lietuvos Respublikos įstatymuose, jų įgyvendinamuosiuose teisės aktuose ar Europos Sąjungos teisės aktuose vadovams nustatytų reikalavimų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 4. Finansų kontroliuojančiosios (holdingo) bendrovės valdymo organų nariai privalo būti nepriekaištingos reputacijos, turėti reikiamą kvalifikaciją ir pakankamai patirties eiti tokias pareigas. Asmuo nėra nepriekaištingos reputacijos, jei:
 
@@ -880,7 +930,7 @@ Finansų įstaigos skolintąjį kapitalą sudaro lėšos, kurias finansų įstai
 
 1. Finansų įstaigos nuosavas kapitalas sudaromas iš finansų įstaigos dalyvių įnašų už jų įsigytas finansų įstaigos įstatinio arba pajinio kapitalo ir (arba) balsavimo teisių dalis bei finansų įstaigos pelno.
 
-2. Finansų įstaigos nuosavą kapitalą, jei Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nenustato ko kita, sudaro:
+2. Finansų įstaigos nuosavą kapitalą, jeigu Lietuvos Respublikos įstatymai ar Europos Sąjungos teisės aktai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nenustato ko kita, sudaro:
 
 1) įstatinis kapitalas (apmokėtas akcinis kapitalas) arba pajinis kapitalas;
 
@@ -897,6 +947,10 @@ Finansų įstaigos skolintąjį kapitalą sudaro lėšos, kurias finansų įstai
 7) kiti rezervai;
 
 8) nepaskirstytasis pelnas (nuostolis).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 27 straipsnis. Įstatinis kapitalas
 
@@ -1781,6 +1835,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1097, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06736
 
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 18, 44 straipsnių ir priedo pakeitimo įstatymas
+
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
+
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 3, 4, 7, 9, 10, 14, 16, 19, 20, 26 straipsnių ir priedo pakeitimo įstatymas
 
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
