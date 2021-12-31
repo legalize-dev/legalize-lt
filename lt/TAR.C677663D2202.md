@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2021-01-01"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-30
+Suvestinė redakcija nuo 2021-12-31 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
 
@@ -1753,17 +1753,9 @@ gyventojų pajamų mokesčio
 
 1. 1985 m. liepos 25 d. Tarybos reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių interesų grupių (EEIG).
 
-2. 1990 m. liepos 23 d. Tarybos direktyva 90/434/EEB dėl bendros mokesčių sistemos, taikomos įvairių valstybių narių įmonių jungimui, skaidymui, turto perleidimui ir keitimuisi akcijomis.
+2. Europos Parlamento 2005 m. rugsėjo 28 d. sprendimas dėl Europos Parlamento narių statuto priėmimo (2005/684/EB, Euratomas).
 
-3. Neteko galios nuo 2017-05-31.
-
-Punkto pakeitimai:
-
-Nr. XIII-376, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09156
-
-4. Europos Parlamento 2005 m. rugsėjo 28 d. sprendimas dėl Europos Parlamento narių statuto priėmimo (2005/684/EB, Euratomas) (OL 2005 L 262, p. 1).
-
-5. 2006 m. lapkričio 20 d. Tarybos direktyva 2006/98/EB dėl Bulgarijos ir Rumunijos stojimo, adaptuojanti tam tikras direktyvas mokesčių srityje (OL 2006 L 363, p. 129).
+3. 2006 m. lapkričio 20 d. Tarybos direktyva 2006/98/EB dėl Bulgarijos ir Rumunijos stojimo, adaptuojanti tam tikras direktyvas mokesčių srityje.
 
 Įstatymas papildytas priedu:
 
@@ -1774,6 +1766,10 @@ Priedo pakeitimai:
 Nr. IX-2103, 2004-04-08, Žin., 2004, Nr. 60-2118 (2004-04-24)
 
 Nr. IX-2419, 2004-08-23, Žin., 2004, Nr. 134-4837 (2004-09-02)
+
+Priedo pakeitimai:
+
+Nr. XIV-829, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27721
 
 Pakeitimai:
 
