@@ -4,7 +4,7 @@ identifier: "TAR.C44837068B55"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-19"
-last_updated: "2021-10-09"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C44837068B55"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1998
 
-Suvestinė redakcija nuo 2021-10-09 iki 2021-12-30
+Suvestinė redakcija nuo 2021-12-31 iki 2022-01-01
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
 
@@ -751,11 +751,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
 
-5) prieš pradedant naudotis finansų įstaigos ar kito įpareigotojo subjekto paslaugomis, į jo mokėjimo sąskaitą iš kliento vardu kredito įstaigoje, kuri yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingų institucijų prižiūrima dėl šių reikalavimų laikymosi, turimos sąskaitos atliekamas mokėjimo pavedimas ir pateikiama Lietuvos Respublikos teisės aktų nustatyta tvarka patvirtinta popierinė tapatybę patvirtinančio dokumento kopija. Tapatybę patvirtinančio dokumento kopijos tvirtinimo ir pateikimo tvarką nustato Finansinių nusikaltimų tyrimo tarnyba.
+5) prieš pradedant naudotis finansų įstaigos ar kito įpareigotojo subjekto paslaugomis, į jo mokėjimo sąskaitą iš kliento vardu kredito, mokėjimo ar elektroninių pinigų įstaigoje, kuri yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingų institucijų prižiūrima dėl šių reikalavimų laikymosi, turimos sąskaitos atliekamas mokėjimo pavedimas ir pateikiama Lietuvos Respublikos teisės aktų nustatyta tvarka patvirtinta popierinė tapatybę patvirtinančio dokumento kopija. Tapatybę patvirtinančio dokumento kopijos tvirtinimo ir pateikimo tvarką nustato Finansinių nusikaltimų tyrimo tarnyba.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
+
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 
 2. Nustatant kliento ir naudos gavėjo tapatybę šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais atvejais, laikomasi šių sąlygų:
 
@@ -945,11 +947,13 @@ Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
 
 6) vykdyti sustiprintą nuolatinę dalykinių santykių su šiais klientais stebėseną, padidindami taikomų kontrolės priemonių skaičių ir terminus ir atrinkdami sandorių, kuriems reikės tolesnio ištyrimo, tipus;
 
-7) užtikrinti, kad tada, kai klientui atidaroma sąskaita, pirmasis kliento mokėjimas būtų atliekamas iš kredito įstaigoje turimos to kliento sąskaitos, kai kredito įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi.
+7) užtikrinti, kad tada, kai klientui atidaroma sąskaita, pirmasis kliento mokėjimas būtų atliekamas iš kredito, mokėjimo ar elektroninių pinigų įstaigoje turimos to kliento sąskaitos, kai kredito, mokėjimo ar elektroninių pinigų įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 
 Papildyta straipsnio dalimi:
 
@@ -1085,13 +1089,21 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
-10) indėlių, priimamų iš fizinių asmenų, atvejais, kai bendrai per kalendorinius metus priimamų indėlių vertei taikoma 30 000 eurų arba ją atitinkančios sumos užsienio valiuta riba ir sukaupta indėlio, palūkanų ar kita mokėtina suma yra grąžinama tik į kliento kredito įstaigoje turimą sąskaitą, iš kurios buvo pervedamos lėšos indėliui laikyti, kaip nurodyta šio straipsnio 2 dalies 2 punkte.
+10) indėlių, priimamų iš fizinių asmenų, atvejais, kai bendrai per kalendorinius metus priimamų indėlių vertei taikoma 30 000 eurų arba ją atitinkančios sumos užsienio valiuta riba ir sukaupta indėlio, palūkanų ar kita mokėtina suma yra grąžinama tik į kliento kredito, mokėjimo ar elektroninių pinigų įstaigoje turimą sąskaitą, iš kurios buvo pervedamos lėšos indėliui laikyti, kaip nurodyta šio straipsnio 2 dalies 2 punkte;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 
 2. Taikydami supaprastintą kliento tapatybės nustatymą, išskyrus šio straipsnio 3 dalyje nustatytą atvejį, finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo 9 straipsnio 12, 13, 14 dalyse, 10 straipsnyje, 11 straipsnio 3 dalyje ir 12 straipsnyje nurodytų nuostatų ir privalo tik:
 
 1) gauti šio įstatymo 10 straipsnio 1 dalies 1, 2, 3 punktuose ir 10 straipsnio 2 dalies 1, 2, 3 punktuose nurodytus duomenis;
 
-2) užtikrinti, kad pirmasis kliento mokėjimas būtų atliekamas iš kredito įstaigoje turimos sąskaitos, kai kredito įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi.
+2) užtikrinti, kad pirmasis kliento mokėjimas būtų atliekamas iš kredito, mokėjimo ar elektroninių pinigų įstaigoje turimos sąskaitos, kai kredito, mokėjimo ar elektroninių pinigų įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 
 Straipsnio dalies pakeitimai:
 
@@ -1773,7 +1785,11 @@ d) vidaus kontrolės procedūrų reikalavimus, nurodytus šio įstatymo 29 strai
 
 4) kai finansų įstaiga ar kitas įpareigotasis subjektas sistemingai pažeidžia šį įstatymą arba padaro vieną šiurkštų šio įstatymo pažeidimą, arba šį įstatymą pažeidžia pakartotinai per vienus metus nuo poveikio priemonės už šio įstatymo pažeidimą paskyrimo, – laikinas ar visam laikui vieno ar kelių finansų įstaigų ar kitų įpareigotųjų subjektų filialų ar kitų padalinių veiklos uždraudimas (apribojimas);
 
-5) laikinas teisės finansų įstaigoms ir kitiems įpareigotiesiems subjektams disponuoti lėšomis, esančiomis sąskaitose kredito įstaigose, ir (ar) kitu turtu apribojimas;
+5) laikinas teisės finansų įstaigoms ir kitiems įpareigotiesiems subjektams disponuoti lėšomis, esančiomis sąskaitose kredito, mokėjimo ar elektroninių pinigų įstaigose, ir (ar) kitu turtu apribojimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 
 6) kai finansų įstaiga ar kitas įpareigotasis subjektas sistemingai pažeidžia šį įstatymą arba padaro vieną šiurkštų šio įstatymo pažeidimą, arba šį įstatymą pažeidžia pakartotinai per vienus metus nuo poveikio priemonės už šio įstatymo pažeidimą paskyrimo, kai finansų įstaigai ar kitam įpareigotajam subjektui būtina turėti licenciją ar leidimą vykdyti veiklą, – išduotos licencijos ar leidimo vykdyti veiklą panaikinimas ar laikinas jo galiojimo sustabdymas tol, kol tęsiamas šio įstatymo pažeidimas;
 
