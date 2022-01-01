@@ -4,7 +4,7 @@ identifier: "TAR.D38B48DC3EF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-06-05"
-last_updated: "2017-06-28"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D38B48DC3EF0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2025-04-08
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2754, i. k. 1031010ISTA0IX-1597
 
@@ -90,7 +90,11 @@ BENDROSIOS NUOSTATOS
 
 17. Operacijų sustabdymas – pagal Lietuvos Respublikos, kitos valstybės narės arba trečiosios valstybės teisę priimtas sprendimas, kuriuo draudžiama sistemos dalyviui disponuoti atsiskaitymų sąskaitos lėšomis ar vertybiniais popieriais, arba teismo laikinųjų apsaugos priemonių ar priežiūros institucijos poveikio priemonių tos sistemos dalyviui taikymas – vertybinių popierių pervedimo ir (ar) mokėjimo nurodymų sustabdymas ar apribojimas.
 
-18. Pagrindinė sutarties šalis – juridinis asmuo, kuris yra įstaigų tarpininkas sistemoje ir veikia kaip jų sandorio šalis ir kuris prisiima įstaigų neįvykdytus pervedimo arba mokėjimo nurodymų vykdymo įsipareigojimus.
+18. Pagrindinė sutarties šalis – pagrindinė sandorio šalis, kaip apibrėžta 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (su visais pakeitimais) 2 straipsnio 1 punkte.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-764, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26893
 
 19. Pervedimo nurodymas – sistemos dalyvio nurodymas pervesti gavėjui vertybinius popierius, darant įrašus vertybinių popierių sąskaitose, arba kitu būdu perduoti nuosavybės teisę į vertybinius popierius ar su jais susijusias turtines teises.
 
@@ -102,7 +106,11 @@ BENDROSIOS NUOSTATOS
 
 23. Sistema – mokėjimo arba vertybinių popierių atsiskaitymo sistema, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje (taip pat dėl dalyvio operacijų sustabdymo ir (ar) bankroto), pasirinko Lietuvos Respublikos arba kitos valstybės narės teisę. Lietuvos Respublikos teisę sistemos dalyviai gali pasirinkti tik tuo atveju, kai bent vieno sistemos dalyvio buveinė yra Lietuvos Respublikoje. Sąveikaujančių sistemų susitarimas nėra sistema.
 
-24. Sistemos dalyvis – įstaiga, pagrindinė sutarties šalis, atsiskaitymų tarpininkas, tarpuskaitos namai arba sistemos operatorius. Sistemos taisyklės gali numatyti, kad tas pats dalyvis atlieka pagrindinės sutarties šalies, atsiskaitymų tarpininko, tarpuskaitos namų ir sistemos operatoriaus arba kelių minėtų asmenų funkcijas. Sistemos dalyviu gali būti laikomas ir netiesioginis jos dalyvis, jeigu tokį dalyvavimą nustato sistemos taisyklės, atsižvelgiant į to dalyvio keliamą sisteminę riziką. Tai, kad netiesioginis sistemos dalyvis laikomas sistemos dalyviu, neriboja to dalyvio, per kurį netiesioginis sistemos dalyvis perduoda pervedimo arba mokėjimo nurodymus į sistemą, atsakomybės.
+24. Sistemos dalyvis – įstaiga, atsiskaitymų tarpininkas, tarpuskaitos namai, sistemos operatorius arba pagrindinės sutarties šalies, kuriai suteiktas leidimas pagal Reglamento (ES) Nr. 648/2012 17 straipsnį, tarpuskaitos narys. Sistemos taisyklės gali numatyti, kad tas pats dalyvis atlieka pagrindinės sutarties šalies, atsiskaitymų tarpininko, tarpuskaitos namų ir sistemos operatoriaus arba kelių minėtų asmenų funkcijas. Sistemos dalyviu gali būti laikomas ir netiesioginis jos dalyvis, jeigu tokį dalyvavimą nustato sistemos taisyklės, atsižvelgiant į to dalyvio keliamą sisteminę riziką. Tai, kad netiesioginis sistemos dalyvis laikomas sistemos dalyviu, neriboja to dalyvio, per kurį netiesioginis sistemos dalyvis perduoda pervedimo arba mokėjimo nurodymus į sistemą, atsakomybės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-764, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26893
 
 25. Sistemos operatorius – vienas ar keli juridiniai asmenys, atsakingi už sistemos veiklą. Sistemos operatorius gali veikti ir kaip atsiskaitymų tarpininkas, pagrindinė sutarties šalis arba tarpuskaitos namai.
 
@@ -232,11 +240,7 @@ OPERACIJŲ SUSTABDYMO IR BANKROTO PROCESO PADARINIŲ APRIBOJIMAS
 
 3) Europos sisteminės rizikos valdybai ir
 
-TAR pastaba 8 straipsnio 3 dalies 3 punktas įsigalioja 2011 m. gruodžio 31 d.
-
 4) Europos vertybinių popierių ir rinkų institucijai.
-
-TAR pastaba 8 straipsnio 3 dalies 4 punktas įsigalioja 2011 m. gruodžio 31 d.
 
 4. Lietuvos bankas, gavęs pranešimą iš kitos valstybės narės atsakingos institucijos apie sistemos, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma Lietuvos Respublikos teisė, dalyvio operacijų sustabdymą arba pradėtą jo bankroto procesą, nedelsdamas privalo pranešti tos sistemos operatoriui.
 
@@ -294,17 +298,23 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 Lietuvos Respublikos
 
-atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo
+atsiskaitymų baigtinumo
+
+mokėjimo ir vertybinių popierių
+
+atsiskaitymo sistemose įstatymo
 
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/26/EB dėl atsiskaitymų baigtinumo mokėjimų ir vertybinių popierių atsiskaitymų sistemose (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 107) su paskutiniais pakeitimais, padarytais 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (OL 2012 L 201, p. 1).
+1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/26/EB dėl atsiskaitymų baigtinumo mokėjimų ir vertybinių popierių atsiskaitymų sistemose su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879.
 
 Priedo pakeitimai:
 
 Nr. XII-1479, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21140
+
+Nr. XIV-764, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26893
 
 Pakeitimai:
 
@@ -355,6 +365,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-466, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10827
 
 Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo Nr. IX-1597 4 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-764, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26893
+
+Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo Nr. XI-1428 2 straipsnio ir priedo pakeitimo įstatymas
 
 11 straipsnis. Įstatymo įsigaliojimas
 
