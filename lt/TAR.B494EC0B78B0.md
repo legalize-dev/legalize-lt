@@ -4,7 +4,7 @@ identifier: "TAR.B494EC0B78B0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2020-04-25"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos prekių ženklų įstatymas
 
-Suvestinė redakcija nuo 2020-04-25 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
 
@@ -446,7 +446,11 @@ PENKTASIS SKIRSNIS
 
 1. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti įkeista Lietuvos Respublikos civilinio kodekso nustatyta tvarka.
 
-2. Gavęs hipotekos registro tvarkytojo pranešimą apie įkeistą teisę į ženklą, Valstybinis patentų biuras teisės į ženklą įkeitimo duomenis įrašo į Registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+2. Gavęs Sutarčių ir teisių suvaržymų registro tvarkytojo pranešimą apie įkeistą teisę į ženklą, Valstybinis patentų biuras teisės į ženklą įkeitimo duomenis įrašo į Registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2736, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00123
 
 29 straipsnis. Teisės į ženklą areštas ir išieškojimas vykdymo procese
 
@@ -1391,4 +1395,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2860, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08724
 
 Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 54 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2736, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00123
+
+Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 28 straipsnio pakeitimo įstatymas
 
