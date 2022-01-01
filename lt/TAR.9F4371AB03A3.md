@@ -4,7 +4,7 @@ identifier: "TAR.9F4371AB03A3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-18"
-last_updated: "2021-07-08"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2021-07-08 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-07-14
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
 
@@ -124,7 +124,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
-7) neturi sveikatos sutrikimų, dėl kurių negalėtų atlikti advokato pareigų. Pareiškėjų ir advokatų sveikatos reikalavimus bei sveikatos tikrinimo tvarką nustato Lietuvos Respublikos sveikatos apsaugos ministerija ir Lietuvos Respublikos teisingumo ministerija.
+7) neteko galios nuo 2022-01-01.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
 
 Straipsnio pakeitimai:
 
@@ -180,7 +184,11 @@ Asmuo, siekiantis būti pripažintas advokatu, turi pateikti Lietuvos advokatūr
 
 1) prašymą pripažinti advokatu. Prašyme turi būti nurodyti pareiškėjo asmens duomenys (vardas, pavardė, asmens kodas, gyvenamoji vieta, pilietybė), taip pat atsakyta į klausimą, ar nėra šiame Įstatyme nurodytų pagrindų, dėl kurių jis negalėtų būti pripažintas advokatu;
 
-2) sveikatos pažymėjimą ir kitus dokumentus, įrodančius, kad asmuo atitinka šio Įstatymo 7 straipsnyje nustatytus reikalavimus, išskyrus atvejį, kai šie dokumentai buvo pateikti pagal šio Įstatymo 16 straipsnį ir nuo pateikimo nepasikeitė juose nurodyti duomenys.
+2) dokumentus, įrodančius, kad jis atitinka šio Įstatymo 7 straipsnyje nustatytus reikalavimus, išskyrus atvejį, kai šie dokumentai buvo pateikti pagal šio Įstatymo 16 straipsnį ir nuo pateikimo nepasikeitė juose nurodyti duomenys.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
 
 10 straipsnis. Pripažinimo advokatu tvarka
 
@@ -530,11 +538,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
-5) neturi sveikatos sutrikimų, dėl kurių negalėtų atlikti advokato padėjėjo pareigų. Advokatų padėjėjai tikrinasi sveikatą, kaip nustatyta šio Įstatymo 7 straipsnio 7 punkte.
+5) neteko galios nuo 2022-01-01.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
 
 2. Norintis būti įrašytas į Lietuvos advokatų padėjėjų sąrašą asmuo Lietuvos advokatūrai pateikia:
 
@@ -644,7 +654,11 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
-2. Advokatas privalo kas penkeri metai Lietuvos Respublikos sveikatos apsaugos ministerijos ir Lietuvos Respublikos teisingumo ministerijos nustatyta tvarka pasitikrinti sveikatą.
+2. Neteko galios nuo 2022-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
 
 Straipsnio pakeitimai:
 
@@ -838,9 +852,17 @@ ADVOKATŲ SAVIVALDA
 
 5. Lietuvos advokatūros veikla finansuojama iš advokatų mokamų įmokų ir kitų šaltinių.
 
-6. Lietuvos advokatūra, atlikdama šio Įstatymo 57 straipsnyje nustatytas funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant advokatų, advokatų padėjėjų, Europos Sąjungos valstybių narių teisininkų, asmenų, siekiančių būti pripažintais advokatais, siekiančių būti įrašytais į Lietuvos advokatų padėjėjų sąrašą ar Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą, asmens duomenis ir duomenis apie asmens sveikatą ar teistumą), dokumentus ar dokumentų nuorašus.
+6. Lietuvos advokatūra, atlikdama šio Įstatymo 57 straipsnyje nustatytas funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant advokatų, advokatų padėjėjų, Europos Sąjungos valstybių narių teisininkų, asmenų, siekiančių būti pripažintais advokatais, siekiančių būti įrašytais į Lietuvos advokatų padėjėjų sąrašą ar Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą, asmens duomenis ir duomenis apie asmens teistumą), dokumentus ar dokumentų nuorašus.
 
-7. Lietuvos advokatūra, atlikdama šiame Įstatyme nustatytas funkcijas, susijusias su drausmės bylos iškėlimu advokatui ar advokato padėjėjui, be šio straipsnio 6 dalyje nurodytų teisių, turi teisę gauti šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant pareiškėjų asmens duomenis ir duomenis apie asmens sveikatą ar teistumą), dokumentus ar dokumentų nuorašus ir iš fizinių ar juridinių asmenų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
+
+7. Lietuvos advokatūra, atlikdama šiame Įstatyme nustatytas funkcijas, susijusias su drausmės bylos iškėlimu advokatui ar advokato padėjėjui, be šio straipsnio 6 dalyje nurodytų teisių, turi teisę gauti šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant pareiškėjų asmens duomenis ir duomenis apie asmens teistumą), dokumentus ar dokumentų nuorašus ir iš fizinių ar juridinių asmenų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
 
 Straipsnio pakeitimai:
 
@@ -862,11 +884,15 @@ Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 6) neteko galios 2009-01-01;
 
-7) tvarkyti advokatų, advokatų padėjėjų ir Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, asmens duomenis ir duomenis apie asmens sveikatą ar teistumą teisės aktų nustatyta tvarka;
+7) teisės aktų nustatyta tvarka tvarkyti advokatų, advokatų padėjėjų ir Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, asmens duomenis ir duomenis apie asmens teistumą;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
 
 8) teikti išvadas dėl teisės aktų projektų, susijusių su asmens teisės į teisingą teismą įgyvendinimu;
 
@@ -1084,17 +1110,25 @@ Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
 
-3. Advokatų taryba, atlikdama šio straipsnio 2 dalyje nustatytas funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant advokatų, advokatų padėjėjų, Europos Sąjungos valstybių narių teisininkų, asmenų, siekiančių būti pripažintais advokatais, siekiančių būti įrašytais į Lietuvos advokatų padėjėjų sąrašą ar Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą, asmens duomenis ir duomenis apie asmens sveikatą ar teistumą), dokumentus ar dokumentų nuorašus.
+3. Advokatų taryba, atlikdama šio straipsnio 2 dalyje nustatytas funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant advokatų, advokatų padėjėjų, Europos Sąjungos valstybių narių teisininkų, asmenų, siekiančių būti pripažintais advokatais, siekiančių būti įrašytais į Lietuvos advokatų padėjėjų sąrašą ar Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą, asmens duomenis ir duomenis apie asmens teistumą), dokumentus ar dokumentų nuorašus.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
-4. Advokatų taryba, atlikdama šiame Įstatyme nustatytas funkcijas, susijusias su drausmės bylos iškėlimu advokatui ar advokato padėjėjui, be šio straipsnio 3 dalyje nurodytų teisių, turi teisę gauti šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant asmens duomenis ir duomenis apie asmens sveikatą ir teistumą), dokumentus ar dokumentų nuorašus ir iš fizinių ar juridinių asmenų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
+
+4. Advokatų taryba, atlikdama šiame Įstatyme nustatytas funkcijas, susijusias su drausmės bylos iškėlimu advokatui ar advokato padėjėjui, be šio straipsnio 3 dalyje nurodytų teisių, turi teisę gauti šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant asmens duomenis ir duomenis apie asmens teistumą), dokumentus ar dokumentų nuorašus ir iš fizinių ar juridinių asmenų.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
 
 Straipsnio pakeitimai:
 
@@ -1338,7 +1372,11 @@ Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 7. Lietuvos advokatūros sprendimai dėl atsisakymo įregistruoti Europos Sąjungos valstybės narės teisininką į Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą, taip pat dėl išregistravimo iš šio sąrašo turi būti motyvuoti. Šie sprendimai gali būti skundžiami Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo įteikimo Europos Sąjungos valstybės narės teisininkui dienos.
 
-8. Europos Sąjungos valstybės narės teisininkui, teikiančiam nuolatines teisines paslaugas Lietuvos Respublikoje savo valstybės kompetentingos institucijos suteiktu teisininko profesiniu vardu, taikomos šio Įstatymo nuostatos, išskyrus šio Įstatymo 7 straipsnio 2–7 punktus, 9–19 straipsnius, 23 straipsnį, 39 straipsnio 2 dalį ir 41 straipsnį.
+8. Europos Sąjungos valstybės narės teisininkui, teikiančiam nuolatines teisines paslaugas Lietuvos Respublikoje savo valstybės kompetentingos institucijos suteiktu teisininko profesiniu vardu, taikomos šio Įstatymo nuostatos, išskyrus šio Įstatymo 7 straipsnio 2–6 punktus, 9–19 straipsnius, 23 ir 41 straipsnius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
 
 Straipsnio pakeitimai:
 
