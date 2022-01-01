@@ -4,7 +4,7 @@ identifier: "TAR.1FEF229DA7C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
 
@@ -134,7 +134,13 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-11. Ilgai saugomi dokumentai – dokumentai, kurių nustatytas saugojimo terminas nuo 26 iki 100 metų.
+11. Dokumentų valdymo bendroji informacinė sistema (DBSIS) – valstybės informacinė sistema, skirta valstybės ir savivaldybių institucijų, įstaigų ir įmonių dokumentams ir informacijai valdyti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+12. Ilgai saugomi dokumentai – dokumentai, kurių nustatytas saugojimo terminas nuo 26 iki 100 metų.
 
 Papildyta straipsnio dalimi:
 
@@ -144,7 +150,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 
-12. Kontekstinė informacija – informacija apie dokumento sandarą, turinį ir aplinką, sudaranti būtinas ir pakankamas sąlygas dokumento autentiškumui ir prieinamumui užtikrinti.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+13. Kontekstinė informacija – informacija apie dokumento sandarą, turinį ir aplinką, sudaranti būtinas ir pakankamas sąlygas dokumento autentiškumui ir prieinamumui užtikrinti.
 
 Papildyta straipsnio dalimi:
 
@@ -154,7 +164,9 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 
-13. Nevalstybinės organizacijos – politinės partijos, asociacijos, kitos organizacijos ir susivienijimai, sudaryti narių poreikiams ir viešiems interesams tenkinti.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+14. Nevalstybinės organizacijos – politinės partijos, asociacijos, kitos organizacijos ir susivienijimai, sudaryti narių poreikiams ir viešiems interesams tenkinti.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -166,7 +178,9 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 
 Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 
-14. Nuolat saugomi dokumentai – dokumentai, kuriuos nustatyta saugoti neribotą laiką.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+15. Nuolat saugomi dokumentai – dokumentai, kuriuos nustatyta saugoti neribotą laiką.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -178,7 +192,9 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 
 Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 
-15. Oficialusis dokumentas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens sudarytas, patvirtintas ar gautas dokumentas, įtrauktas į apskaitą.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+16. Oficialusis dokumentas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens sudarytas, patvirtintas ar gautas dokumentas, įtrauktas į apskaitą.
 
 Straipsnio dalies pakeitimai:
 
@@ -192,7 +208,9 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 
-16. Oficialusis elektroninis dokumentas – Lietuvos vyriausiojo archyvaro nustatyta tvarka valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens informacinių technologijų priemonėmis sudarytas, patvirtintas ar gautas elektroninis dokumentas, pasirašytas elektroniniu parašu ir įtrauktas į apskaitą.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+17. Oficialusis elektroninis dokumentas – Lietuvos vyriausiojo archyvaro nustatyta tvarka valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens informacinių technologijų priemonėmis sudarytas, patvirtintas ar gautas elektroninis dokumentas, pasirašytas elektroniniu parašu ir įtrauktas į apskaitą.
 
 Straipsnio dalies pakeitimai:
 
@@ -206,7 +224,9 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-17. Priėjimas prie dokumentų – teisė susipažinti su dokumentais įstatymų nustatyta tvarka.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+18. Priėjimas prie dokumentų – teisė susipažinti su dokumentais įstatymų nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
@@ -220,7 +240,9 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-18. Specialios įrangos priemonės – dokumentų saugojimo ir (ar) peržiūrėjimo programinė ir techninė įranga.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+19. Specialios įrangos priemonės – dokumentų saugojimo ir (ar) peržiūrėjimo programinė ir techninė įranga.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -230,7 +252,9 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-19. Saugojimo terminas – laikas, kurį dokumentas turi būti išsaugotas.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+20. Saugojimo terminas – laikas, kurį dokumentas turi būti išsaugotas.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -240,19 +264,29 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-20. Trumpai saugomi dokumentai – dokumentai, kurių nustatytas saugojimo terminas nuo 1 iki 25 metų įskaitytinai.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+21. Trumpai saugomi dokumentai – dokumentai, kurių nustatytas saugojimo terminas nuo 1 iki 25 metų įskaitytinai.
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-21. Valstybė narė – bet kuri Europos Sąjungos valstybė narė ar kita Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+22. Valstybė narė – bet kuri Europos Sąjungos valstybė narė ar kita Europos ekonominės erdvės valstybė.
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-22. Valstybės įgalioti asmenys – asmenys, atliekantys valstybės suteiktas įstatymų nustatytas funkcijas (antstoliai, notarai).
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+23. Valstybės įgalioti asmenys – asmenys, atliekantys valstybės suteiktas įstatymų nustatytas funkcijas (antstoliai, notarai).
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -262,7 +296,9 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-23. Valstybės ir savivaldybių institucijos, įstaigos, įmonės – valstybės ir savivaldybių institucijos ir įstaigos, finansuojamos iš valstybės ar savivaldybių biudžetų, valstybės pinigų fondų, valstybės ir savivaldybių įmonės.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+24. Valstybės ir savivaldybių institucijos, įstaigos, įmonės – valstybės ir savivaldybių institucijos ir įstaigos, finansuojamos iš valstybės ar savivaldybių biudžetų, valstybės pinigų fondų, valstybės ir savivaldybių įmonės.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -272,7 +308,9 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-24. Veiklos dokumentai – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens, nevalstybinės organizacijos, privataus juridinio asmens vykdant veiklą sudaryti, patvirtinti, gauti, iš kitų juridinių ar fizinių asmenų perimti dokumentai.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+25. Veiklos dokumentai – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens, nevalstybinės organizacijos, privataus juridinio asmens vykdant veiklą sudaryti, patvirtinti, gauti, iš kitų juridinių ar fizinių asmenų perimti dokumentai.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -281,6 +319,8 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
 
 3 straipsnis. Nacionalinis dokumentų fondas
 
@@ -522,13 +562,21 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2473, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16483
 
-3. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, perduodančios valstybės archyvams nuolat saugomus dokumentus ir ilgai saugomus elektroninius dokumentus, per Elektroninio archyvo informacinę sistemą su valstybės archyvais derina dokumentacijos planų duomenis ir šio straipsnio 2 dalies 1 punkte nurodytų apskaitos dokumentų duomenis.
+3. Lietuvos Respublikos Vyriausybės patvirtintame sąraše nurodytos valstybės ir savivaldybių institucijos, įstaigos ir įmonės dokumentus valdo naudodamos Dokumentų valdymo bendrąją informacinę sistemą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, perduodančios valstybės archyvams nuolat saugomus dokumentus ir ilgai saugomus elektroninius dokumentus, Lietuvos vyriausiojo archyvaro nustatyta tvarka su valstybės archyvais derina dokumentacijos planų duomenis ir šio straipsnio 2 dalies 1 punkte nurodytų apskaitos dokumentų duomenis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, neperduodančios dokumentų valstybės archyvams, šio straipsnio 2 dalies 1 punkte nurodytus apskaitos dokumentus ir dokumentacijos planus derina su tos institucijos, įstaigos ar įmonės savininko teises ir pareigas įgyvendinančia institucija ar jos įgaliota įstaiga.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+5. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, neperduodančios dokumentų valstybės archyvams, šio straipsnio 2 dalies 1 punkte nurodytus apskaitos dokumentus ir dokumentacijos planus derina su tos institucijos, įstaigos ar įmonės savininko teises ir pareigas įgyvendinančia institucija ar jos įgaliota įstaiga.
 
 Straipsnio dalies pakeitimai:
 
@@ -536,11 +584,27 @@ Nr. X-1497, 2008-04-15, Žin., 2008, Nr. 50-1846 (2008-04-30), i. k. 1081010ISTA
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-5. Valstybės įgalioti asmenys veiklos dokumentų valdymą organizuoja šio ir įgaliojimus suteikiančių įstatymų nustatyta tvarka tiek, kiek jie neprieštarauja šiam Įstatymui.
+Straipsnio dalies numeracijos pakeitimas:
 
-6. Nevalstybinės organizacijos, privatūs juridiniai ir fiziniai asmenys veiklos dokumentų valdymą organizuoja vadovaudamiesi įstatymais, kitais teisės norminiais aktais ir atsižvelgdami į savo prievoles bei poreikius.
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
 
-7. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, nevalstybinės organizacijos, privatūs juridiniai asmenys turimų dokumentų pagrindu privalo teisės aktų nustatyta tvarka išduoti juridinius faktus patvirtinančius dokumentus, susijusius su asmens teisių įgyvendinimu.
+6. Valstybės įgalioti asmenys veiklos dokumentų valdymą organizuoja šio ir įgaliojimus suteikiančių įstatymų nustatyta tvarka tiek, kiek jie neprieštarauja šiam Įstatymui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+7. Nevalstybinės organizacijos, privatūs juridiniai ir fiziniai asmenys veiklos dokumentų valdymą organizuoja vadovaudamiesi įstatymais, kitais teisės norminiais aktais ir atsižvelgdami į savo prievoles bei poreikius.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+8. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, nevalstybinės organizacijos, privatūs juridiniai asmenys turimų dokumentų pagrindu privalo teisės aktų nustatyta tvarka išduoti juridinius faktus patvirtinančius dokumentus, susijusius su asmens teisių įgyvendinimu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
 
 11 straipsnis. Dokumentų rengimas, tvarkymas, apskaita
 
@@ -868,7 +932,7 @@ Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, atsako Li
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos dokumentų
 
@@ -987,4 +1051,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3110, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15320
 
 Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2 ir 10 straipsnių pakeitimo įstatymas
 
