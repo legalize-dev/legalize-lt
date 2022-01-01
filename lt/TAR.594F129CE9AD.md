@@ -4,7 +4,7 @@ identifier: "TAR.594F129CE9AD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
 
@@ -103,11 +103,35 @@ Vilnius
 
 7 straipsnis. Skundo (prašymo) padavimas administracinių ginčų komisijai
 
-1. Administracinių ginčų komisijai duodamas skundas (prašymas) turi atitikti Administracinių bylų teisenos įstatymo 24 straipsnyje (išskyrus 24 straipsnio 2 dalies 9 punktą) nustatytus formos ir turinio reikalavimus. Skundas (prašymas) administracinių ginčų komisijai gali būti paduodamas raštu tiesiogiai, siunčiamas paštu arba elektroninių ryšių priemonėmis. Paduodant skundą (prašymą) elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama pasirašant saugiu elektroniniu parašu.
+1. Skundas (prašymas) administracinių ginčų komisijai paduodamas raštu per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis, pašto siunta, tiesiogiai. Elektroninių ryšių priemonėmis paduodamas skundas (prašymas) turi būti pasirašytas kvalifikuotu elektroniniu parašu, išskyrus atvejus, kai jis paduodamas per E. pristatymo sistemą.
 
-2. Administracinių ginčų komisijai duodamas skundas (prašymas) turi būti surašytas valstybine kalba, o jeigu jis surašytas kita kalba, turi būti pridedamas įstatymų nustatyta tvarka patvirtintas skundo (prašymo) vertimas į valstybinę kalbą. Šioje dalyje nustatytas reikalavimas taikomas ir skundo (prašymo) priedams.
+2. Administracinių ginčų komisijai paduodamame skunde (prašyme) turi būti nurodyti:
 
-3. Prie skundo (prašymo) pridedami šie priedai:
+1) administracinių ginčų komisijos pavadinimas;
+
+2) pareiškėjo vardas, pavardė (pavadinimas), asmens kodas (kodas), gyvenamoji vieta (buveinė), jeigu pareiškėjas turi, – ir elektroninio pašto adresas, telefono, fakso numeriai ar kitų elektroninių ryšių priemonių adresai, taip pat pareiškėjo atstovo, jeigu šis yra, vardas, pavardė ir adresas, jeigu žinoma, – ir pareiškėjo atstovo elektroninio pašto adresas, telefono, fakso numeriai ar kitų elektroninių ryšių priemonių adresai;
+
+3) pageidavimai dėl atsiliepimo į skundą (prašymą), administracinių ginčų komisijos sprendimo, kitų procesinių dokumentų gavimo elektroninių ryšių priemonėmis;
+
+4) viešojo administravimo subjekto ar kito asmens, kurio teisės aktas arba veiksmai (neveikimas) ar vilkinimas atlikti veiksmus skundžiami, pavadinimas (vardas, pavardė), buveinė (gyvenamoji vieta), jeigu žinoma, – ir viešojo administravimo subjekto ar kito asmens elektroninio pašto adresas, telefono ir fakso numeriai, kitų elektroninių ryšių priemonių adresai;
+
+5) trečiųjų suinteresuotų asmenų vardai, pavardės (pavadinimai), asmens kodai (kodai, jeigu žinomi), gyvenamosios vietos (buveinės) adresai, jeigu žinomi, – ir elektroninio pašto adresai, telefono ir fakso numeriai, kitų elektroninių ryšių priemonių adresai;
+
+6) konkretus skundžiamas veiksmas (neveikimas) ar teisės aktas, jo įvykdymo (priėmimo) data;
+
+7) aplinkybės, kuriomis pareiškėjas grindžia savo reikalavimą, ir tai patvirtinantys įrodymai, liudytojų vardai, pavardės ir gyvenamosios vietos, kitų įrodymų buvimo vieta;
+
+8) pareiškėjo reikalavimas;
+
+9) ar nagrinėjant skundą (prašymą) administracinių ginčų komisijos posėdyje bus reikalingas vertėjas;
+
+10) prie skundo (prašymo) pridedamų dokumentų sąrašas;
+
+11) skundo (prašymo) surašymo data ir vieta.
+
+3. Administracinių ginčų komisijai duodamas skundas (prašymas) turi būti surašytas valstybine kalba, o jeigu jis surašytas kita kalba, turi būti pridedamas įstatymų nustatyta tvarka patvirtintas skundo (prašymo) vertimas į valstybinę kalbą. Šioje dalyje nustatytas reikalavimas taikomas ir skundo (prašymo) priedams.
+
+4. Prie skundo (prašymo) pridedami šie priedai:
 
 1) skundžiamas individualus administracinis aktas;
 
@@ -115,9 +139,13 @@ Vilnius
 
 3) dokumentai ir kiti įrodymai, kuriais pareiškėjas grindžia savo reikalavimus.
 
-4. Skunde (prašyme) turi būti nurodyta, ar nagrinėjant skundą (prašymą) administracinių ginčų komisijos posėdyje bus reikalingas vertėjas.
+5. Skundo (prašymo) su priedais egzempliorių (kopijų) turi būti tiek, kad juos būtų galima įteikti kiekvienai bylos šaliai ir vienas egzempliorius liktų administracinių ginčų komisijoje, išskyrus atvejus, kai skundas (prašymas) paduodamas elektroninių ryšių priemonėmis. Kai skundas (prašymas) paduodamas per E. pristatymo sistemą arba kitomis elektroninių ryšių priemonėmis, prie jo turi būti pridedamos ir priedų skaitmeninės kopijos.
 
-5. Skundo (prašymo) su priedais egzempliorių (kopijų) turi būti tiek, kad juos būtų galima įteikti kiekvienai bylos šaliai ir vienas egzempliorius liktų administracinių ginčų komisijoje, išskyrus atvejus, kai skundas (prašymas) paduodamas elektroninių ryšių priemonėmis. Kai skundas (prašymas) paduodamas elektroninių ryšių priemonėmis, prie jo turi būti pridedamos ir priedų skaitmeninės kopijos.
+6. Skundą (prašymą) pasirašo pareiškėjas ar jo atstovas. Prie pareiškėjo atstovo paduodamo skundo (prašymo) turi būti pridedamas įgaliojimas ar kitoks dokumentas, patvirtinantis atstovo įgaliojimus.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
 8 straipsnis. Skundų (prašymų) padavimo administracinių ginčų komisijai terminai
 
@@ -129,7 +157,11 @@ Vilnius
 
 1. Pareiškėjo prašymu Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys skundo (prašymo) padavimo terminą gali atnaujinti, jeigu pripažįsta, kad jis praleistas dėl svarbios priežasties.
 
-2. Prašyme atnaujinti skundo (prašymo) padavimo terminą nurodomos termino praleidimo priežastys ir pateikiami praleidimo priežastis patvirtinantys įrodymai. Kartu su prašymu atnaujinti skundo (prašymo) padavimo terminą administracinių ginčų komisijai turi būti paduotas skundas (prašymas). Kai prašymas atnaujinti terminą paduodamas elektroninių ryšių priemonėmis, skundas (prašymas) taip pat paduodamas elektroninių ryšių priemonėmis.
+2. Prašyme atnaujinti skundo (prašymo) padavimo terminą nurodomos termino praleidimo priežastys ir pateikiami praleidimo priežastis patvirtinantys įrodymai. Kartu su prašymu atnaujinti skundo (prašymo) padavimo terminą administracinių ginčų komisijai turi būti paduotas skundas (prašymas). Kai prašymas atnaujinti skundo (prašymo) padavimo terminą paduodamas per E. pristatymo sistemą, skundas (prašymas) taip pat paduodamas per E. pristatymo sistemą. Kai prašymas atnaujinti skundo (prašymo) padavimo terminą paduodamas kitomis elektroninių ryšių priemonėmis, skundas (prašymas) taip pat paduodamas kitomis elektroninių ryšių priemonėmis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
 3. Prašymą atnaujinti skundo (prašymo) padavimo terminą išnagrinėja Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys rašytinio proceso tvarka per 3 darbo dienas nuo prašymo su termino praleidimo priežastis patvirtinančiais įrodymais pateikimo dienos. Skundo (prašymo) padavimo termino atnaujinimas įforminamas rezoliucija. Jeigu atsisakoma atnaujinti skundo (prašymo) padavimo terminą, Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys surašo motyvuotą sprendimą.
 
@@ -149,9 +181,13 @@ Vilnius
 
 3. Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys priima sprendimą nustatyti pareiškėjui 14 dienų terminą skundo (prašymo) trūkumams pašalinti, jeigu:
 
-1) skundas (prašymas) neatitinka Administracinių bylų teisenos įstatymo 24 straipsnyje (išskyrus 24 straipsnio 2 dalies 9 punktą) nustatytų reikalavimų ir (ar) šio įstatymo 7 straipsnio 2 dalyje nustatytų reikalavimų;
+1) skundas (prašymas) neatitinka šio įstatymo 7 straipsnio 2, 3 ar 6 dalyje nustatytų reikalavimų;
 
-2) prie skundo (prašymo) nepridėti šio įstatymo 7 straipsnio 3 dalyje nurodyti priedai ir (ar) nepateikta šio įstatymo 7 straipsnio 4 dalyje nurodyta informacija.
+2) prie skundo (prašymo) nepridėti šio įstatymo 7 straipsnio 4 dalyje nurodyti priedai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
 4. Atsisakęs priimti skundą (prašymą) nagrinėti ar nustatęs pareiškėjui 14 dienų terminą skundo (prašymo) trūkumams pašalinti, Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys surašo motyvuotą sprendimą. Jeigu pareiškėjas per šioje dalyje nurodytą terminą pašalina skundo (prašymo) trūkumus, laikoma, kad skundas (prašymas) paduotas pirminio jo pateikimo administracinių ginčų komisijai dieną. Nepašalinus per šioje dalyje nurodytą terminą skundo (prašymo) trūkumų, skundas (prašymas) laikomas nepaduotu ir Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys sprendimu grąžina skundą (prašymą) jį padavusiam asmeniui.
 
@@ -169,13 +205,19 @@ Vilnius
 
 1) prireikus įpareigoja pareiškėją per nurodytą terminą pateikti su skundu (prašymu) susijusius įrodymus ir (ar) papildomus rašytinius paaiškinimus;
 
-2) išsiunčia atsakovui, tretiesiems suinteresuotiems asmenims skundo (prašymo) nuorašus ir paprašo per šio straipsnio 3 dalyje nurodytą terminą pateikti atsiliepimą į skundą (prašymą) ir su skundu (prašymu) susijusią medžiagą (įrodymus, paaiškinimus);
+2) per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis arba registruotąja pašto siunta išsiunčia atsakovui, tretiesiems suinteresuotiems asmenims skundo (prašymo) nuorašus ir paprašo per šio straipsnio 3 dalyje nurodytą terminą pateikti atsiliepimą į skundą (prašymą) ir su skundu (prašymu) susijusią medžiagą (įrodymus, paaiškinimus). Jeigu atsakovo, trečiųjų suinteresuotų asmenų E. pristatymo sistemos elektroninio pristatymo dėžutė yra neaktyvi, skundo (prašymo) nuorašai siunčiami per E. pristatymo sistemą, bet įteikiami kaip registruotoji pašto siunta. Kai asmuo yra nurodęs pageidaujamą informacijos gavimo būdą ir reikalingus kontaktinius duomenis, skundo (prašymo) nuorašas jam siunčiamas šiuo būdu. Dokumento, siunčiamo per E. pristatymo sistemą, kai elektroninio pristatymo dėžutė yra aktyvi, arba kitomis elektroninių ryšių priemonėmis, įteikimo diena laikoma po dokumento išsiuntimo dienos einanti darbo diena;
 
-3) suderina su Lietuvos administracinių ginčų komisijos pirmininku (komisijos pirmininko pavaduotoju teritoriniame padalinyje) bylos nagrinėjimo administracinių ginčų komisijos posėdyje datą ir laiką; išsiunčia bylos šalims ir jų atstovams pranešimus apie posėdžio vietą, datą ir laiką, kartu pasiūlo ginčo šalims išspręsti ginčą taikiai arba pasinaudoti galimybe spręsti ginčą neteisminės mediacijos būdu;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
+
+3) suderina su Lietuvos administracinių ginčų komisijos pirmininku (komisijos pirmininko pavaduotoju teritoriniame padalinyje) bylos nagrinėjimo administracinių ginčų komisijos posėdyje datą ir laiką; šio straipsnio 1 dalies 2 punkte nustatytais būdais išsiunčia bylos šalims ir jų atstovams pranešimus apie posėdžio vietą, datą ir laiką, kartu pasiūlo ginčo šalims išspręsti ginčą taikiai arba pasinaudoti galimybe spręsti ginčą neteisminės mediacijos būdu;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
+
+Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
 4) atlieka kitus veiksmus, kad byla būtų parengta nagrinėti.
 
@@ -187,7 +229,11 @@ Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
 
 3) pasitelkti savivaldybių institucijų, administracinių ginčų komisijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, taip pat specialistus, viešojo administravimo subjektus, kitus fizinius ar juridinius asmenis (šių asmenų sutikimu), kad jie pateiktų paaiškinimą ir (ar) išvadą dėl skundo (prašymo) ar atliktų kitus pasirengimo nagrinėti bylą ar bylos nagrinėjimo veiksmus.
 
-3. Administracinių ginčų komisijos reikalaujama medžiaga ar dokumentų kopijos turi būti jai perduotos ne vėliau kaip per 5 darbo dienas nuo reikalavimo gavimo dienos. Prireikus administracinių ginčų komisijos narys, paskirtas pranešėju byloje, šį terminą gali pratęsti.
+3. Administracinių ginčų komisijos reikalaujama medžiaga ar dokumentų kopijos turi būti jai perduotos per E. pristatymo sistemą, siunčiant registruotąja pašto siunta arba tiesiogiai ne vėliau kaip per 5 darbo dienas nuo reikalavimo gavimo dienos. Prireikus administracinių ginčų komisijos narys, paskirtas pranešėju byloje, šį terminą gali pratęsti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
 4. Prireikus administracinių ginčų komisija su byla susijusias aplinkybes, faktus ir (ar) dokumentus gali tirti vietoje.
 
@@ -343,7 +389,11 @@ Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
 
 8. Administracinių ginčų komisijos sprendimą pasirašo administracinių ginčų komisijos posėdžio pirmininkas ir kiti administracinių ginčų komisijos nariai, dalyvavę nagrinėjant bylą.
 
-9. Administracinių ginčų komisijos sprendimo patvirtinta kopija išsiunčiama bylos šalims ne vėliau kaip kitą darbo dieną po sprendimo priėmimo.
+9. Administracinių ginčų komisijos sprendimo patvirtinta kopija bylos šalims išsiunčiama šio įstatymo 11 straipsnio 1 dalies 2 punkte nustatytais būdais ne vėliau kaip kitą darbo dieną po sprendimo priėmimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
 10. Kol sprendimas neįvykdytas, administracinių ginčų komisija gali savo iniciatyva ar bylos šalių prašymu ištaisyti sprendime aptiktus rašymo apsirikimus ar aiškias aritmetines klaidas. Sprendimo ištaisymo klausimas išsprendžiamas sprendimu, priimamu nepranešus bylos šalims.
 
@@ -371,7 +421,7 @@ Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -463,6 +513,14 @@ Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
 
 Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo Nr. VIII-1031 pakeitimo įstatymas
 
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
+
+Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo Nr. VIII-1031 papildymo 6-1 straipsniu ir 7, 9, 10, 11, 20 straipsnių pakeitimo įstatymas
+
 2. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojų teritoriniuose padaliniuose ir kitų komisijos ir komisijos teritorinių padalinių narių darbas Lietuvos administracinių ginčų komisijoje laikytinas darbu pagrindinėje darbovietėje ir už jį mokama Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba komisijos teritorinio padalinio narys pareigas gali eiti tik Lietuvos administracinių ginčų komisijoje, taip pat dirbti mokslinį, pedagoginį ar kūrybinį darbą. Lietuvos administracinių ginčų komisijos pirmininkui, komisijos pirmininko pavaduotojui, komisijos pirmininko pavaduotojui teritoriniame padalinyje ir kitiems komisijos arba komisijos teritorinio padalinio nariams taikomas Lietuvos Respublikos valstybės tarnybos įstatymo 42 straipsnis, jiems, vadovaujantis Darbo kodekso nuostatomis, gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, nemokamos, ir taikomos Darbo kodekse nustatytos lengvatos asmenims, auginantiems vaikus. Lietuvos administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, jų darbo užmokesčio mokėjimo tvarką ir sąlygas nustato Valstybės tarnybos įstatymas, kiti įstatymai ir teisės aktai.
 
 3. Lietuvos administracinių ginčų komisijos teritoriniai padaliniai, nagrinėdami skundus (prašymus), sprendimus priima savarankiškai ir nepriklausomai.
@@ -470,4 +528,14 @@ Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos 
 4. Lietuvos administracinių ginčų komisija materialiai aprūpina savo teritorinius padalinius ir metodiškai jiems vadovauja organizuojant darbą.
 
 5. Lietuvos administracinių ginčų komisijos teritoriniai padaliniai kartą per metus teikia savo veiklos ataskaitas Lietuvos administracinių ginčų komisijai. Lietuvos administracinių ginčų komisija kartą per metus teikia informaciją apie savo veiklą Vyriausybei.
+
+61 straipsnis. Informacinių ir elektroninių ryšių technologijų naudojimas
+
+1. Lietuvos administracinių ginčų komisija ir jos teritoriniai padaliniai rengia oficialius elektroninius dokumentus, juos siunčia ir iš kitų asmenų gauna per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą (toliau – E. pristatymo sistema). Jeigu E. pristatymo sistemos elektroninio pristatymo dėžutė yra neaktyvi, dokumentas siunčiamas per E. pristatymo sistemą, bet įteikiamas kaip pašto siunta. Lietuvos administracinių ginčų komisija ir jos teritoriniai padaliniai gali keistis parengtais oficialiais elektroniniais dokumentais ir informacija su kitais viešojo administravimo subjektais kitais būdais, jeigu keitimosi oficialiais elektroniniais dokumentais ir informacija tarp valstybės informacinių sistemų ir (ar) registrų funkciją užtikrina jų sąveika.
+
+2. Elektroninio pristatymo paslaugos fiziniams asmenims, kai jie elektronines siuntas per E. pristatymo sistemą siunčia Lietuvos administracinių ginčų komisijai ir jos teritoriniams padaliniams, teikiamos neatlygintinai.
+
+Papildyta straipsniu:
+
+Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
