@@ -4,7 +4,7 @@ identifier: "TAR.07786E0929A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-18"
-last_updated: "2020-04-25"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ X skirsnis įsigalioja pradėjus galioti Lietuvos Respublikos Vyriausybės ir Eu
 ---
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2020-04-25 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
 
@@ -747,7 +747,11 @@ Suinteresuotas asmuo gali pareikšti teismui ieškinį dėl teisės į patento p
 
 1. Teisė į patento paraišką ar patentą gali būti įkeista ar areštuota (laikinai apribota teisė naudoti, valdyti teisę į paraišką arba patentą arba ja disponuoti) Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-2. Gavęs hipotekos ar turto arešto aktų registro tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į patento paraišką ar patentą, Valstybinis patentų biuras teisės į patento paraišką ar patentą įkeitimo ar arešto duomenis įrašo į Lietuvos Respublikos patentų registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+2. Gavęs Sutarčių ir teisių suvaržymų registro ar Turto arešto aktų registro tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į patento paraišką ar patentą, Valstybinis patentų biuras teisės į patento paraišką ar patentą įkeitimo ar arešto duomenis įrašo į Lietuvos Respublikos patentų registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2734, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00109
 
 ŠEŠTASIS SKIRSNIS
 
@@ -1494,4 +1498,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2859, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08723
 
 Lietuvos Respublikos patentų įstatymo Nr. I-372 31 straipsnio pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2734, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00109
+
+Lietuvos Respublikos patentų įstatymo Nr. I-372 47 straipsnio pakeitimo įstatymas
 
