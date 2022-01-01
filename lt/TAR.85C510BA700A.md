@@ -4,7 +4,7 @@ identifier: "TAR.85C510BA700A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-15"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.85C510BA700A"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
 
@@ -552,13 +552,21 @@ Pagrindiniai registrai yra valstybės registrai, kuriuose registruojami:
 
 2) gyventojai;
 
-3) nekilnojamasis turtas ir teisės į jį;
+3) nekilnojamasis turtas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2729, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00093
 
 4) objektų, kurių geografinė padėtis nesikeičia, adresai;
 
 5) teisės aktai;
 
-6) daiktų ir turtinių teisių įkeitimas.
+6) daiktinės teisės.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2729, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00093
 
 17 straipsnis. Pagrindas steigti registrą
 
