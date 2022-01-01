@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2021-11-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2021-11-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-28
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -1827,7 +1827,11 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 10. Žemės konsolidacijos projekte suprojektuotus žemės sklypus paženklinus vietovėje ir sudarius žemės konsolidacijos sutartį, Nekilnojamojo turto registro įstatymo nustatyta tvarka pagal žemės konsolidacijos sutartį sudariusių asmenų ar jų įgaliotų asmenų prašymus vienu metu išregistruojami šių asmenų iki žemės konsolidacijos sutarties sudarymo turėti žemės sklypai ir teisės į juos, šių teisių suvaržymai ir juridiniai faktai, taip pat įregistruojami šių asmenų pagal žemės konsolidacijos sutartį jiems perduoti pagal žemės konsolidacijos projektą konsoliduoti žemės sklypai ir teisės į juos, šių teisių suvaržymai ir juridiniai faktai.
 
-11. Pertvarkius pagal žemės konsolidacijos projektą įkeistą (įkeistus) žemės sklypą (sklypus), hipoteka apima žemės savininkui pagal žemės konsolidacijos sutartį perduotą (perduotus) vietoj turėto įkeisto (įkeistų) žemės sklypo (sklypų) žemės konsolidacijos projekte konsoliduotą (konsoliduotus) žemės sklypą (sklypus). Nekilnojamojo turto registro tvarkytojas apie įkeisto žemės sklypo konsolidaciją ir jo naujus kadastro bei unikalius numerius praneša Lietuvos Respublikos hipotekos registrui per 3 darbo dienas nuo perduoto pagal žemės konsolidacijos sutartį žemės sklypo, teisių į jį, šių teisių suvaržymų ir juridinių faktų įregistravimo Nekilnojamojo turto registre.
+11. Pertvarkius pagal žemės konsolidacijos projektą įkeistą (įkeistus) žemės sklypą (sklypus), hipoteka apima žemės savininkui pagal žemės konsolidacijos sutartį perduotą (perduotus) vietoj turėto įkeisto (įkeistų) žemės sklypo (sklypų) žemės konsolidacijos projekte konsoliduotą (konsoliduotus) žemės sklypą (sklypus).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2738, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00113
 
 12. Pagal žemės konsolidacijos projektą pertvarkius žemės sklypą (sklypus), kuriam (kuriems) buvo nustatytas servitutas, servitutas lieka galioti žemės sklypui (sklypams), pagal žemės konsolidacijos projektą suformuotam (suformuotiems) buvusiame žemės sklype (sklypuose), išskyrus atvejus, kai servitutas baigiasi Civilinio kodekso nustatytais pagrindais. Nauji servitutai konsoliduotam žemės sklypui nustatomi administraciniu aktu – Nacionalinės žemės tarnybos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimu šio Įstatymo 23 straipsnyje ir Vyriausybės nustatyta tvarka.
 
@@ -2264,6 +2268,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-273, 2021-04-22, paskelbta TAR 2021-04-30, i. k. 2021-09306
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 45, 46, 47 ir 48 straipsnių pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2738, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00113
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 52 straipsnio pakeitimo įstatymas
 
 55 straipsnis. Žemės ginčų
 
