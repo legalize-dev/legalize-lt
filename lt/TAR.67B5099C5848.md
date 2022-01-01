@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2021-07-23"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2021-07-23 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-19
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -381,11 +381,13 @@ Nr. XIII-609, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12430
 
 14 straipsnis. Bylos medžiagos viešumas
 
-1. Išnagrinėtos administracinės bylos medžiaga, išskyrus medžiagą tų bylų, kurios buvo išnagrinėtos uždarame teismo posėdyje, arba bylos medžiagą, kurioje yra asmens, kurio konfidencialumas užtikrintas Lietuvos Respublikos pranešėjų apsaugos įstatymo (toliau – Pranešėjų apsaugos įstatymas) nustatyta tvarka, asmens duomenų, yra vieša ir su ja gali susipažinti suinteresuoti asmenys, įskaitant ir byloje nedalyvavusius asmenis. Tokią teisę šie asmenys įgyja, kai sprendimas byloje arba nutartis nutraukti bylą ar skundą (prašymą, pareiškimą) palikti nenagrinėtą įsiteisėja. Lietuvos Respublikos Seimo kontrolierius (toliau – Seimo kontrolierius), Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (toliau – vaiko teisių apsaugos kontrolierius) ir Lietuvos Respublikos lygių galimybių kontrolierius (toliau – lygių galimybių kontrolierius) turi teisę susipažinti ir su neišnagrinėtos bylos medžiaga, kai tai reikalinga vykdant jų pareigas.
+1. Išnagrinėtos administracinės bylos medžiaga, išskyrus medžiagą tų bylų, kurios buvo išnagrinėtos uždarame teismo posėdyje, arba bylos medžiagą, kurioje yra asmens, kurio konfidencialumas užtikrintas Lietuvos Respublikos pranešėjų apsaugos įstatymo (toliau – Pranešėjų apsaugos įstatymas) nustatyta tvarka, asmens duomenų, yra vieša ir su ja gali susipažinti suinteresuoti asmenys, įskaitant ir byloje nedalyvavusius asmenis. Tokią teisę šie asmenys įgyja, kai sprendimas byloje arba nutartis nutraukti bylą ar skundą (prašymą, pareiškimą) palikti nenagrinėtą įsiteisėja. Lietuvos Respublikos Seimo kontrolierius (toliau – Seimo kontrolierius), žvalgybos kontrolierius, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (toliau – vaiko teisių apsaugos kontrolierius) ir Lietuvos Respublikos lygių galimybių kontrolierius (toliau – lygių galimybių kontrolierius) turi teisę susipažinti ir su neišnagrinėtos bylos medžiaga, kai tai reikalinga vykdant jų pareigas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1848, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21880
+
+Nr. XIV-871, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26908
 
 2. Priimdamas viešame teismo posėdyje sprendimą byloje arba nutartį nutraukti bylą ar skundą (prašymą, pareiškimą) palikti nenagrinėtą arba gavęs prašymą susipažinti su bylos medžiaga, teismas turi teisę proceso dalyvių prašymu ar savo iniciatyva motyvuota nutartimi nustatyti, kad bylos medžiaga ar jos dalis yra nevieša, kai reikia apsaugoti žmogaus asmens, jo privataus gyvenimo ir nuosavybės slaptumą, informacijos apie asmens sveikatą konfidencialumą, taip pat jeigu yra rimtas pagrindas manyti, kad bus atskleista valstybės, tarnybos, profesinė ar komercinė paslaptis. Dėl tokios teismo nutarties gali būti duodamas atskirasis skundas.
 
@@ -423,7 +425,11 @@ ADMINISTRACINIŲ TEISMŲ KOMPETENCIJA
 
 1. Administraciniai teismai nesprendžia bylų, kurios yra priskirtos Konstitucinio Teismo kompetencijai, taip pat bylų, priskirtų bendrosios kompetencijos arba kitiems specializuotiems teismams.
 
-2. Administracinių teismų kompetencijai nepriskiriama tirti Respublikos Prezidento, Seimo, Seimo narių, Ministro Pirmininko, Vyriausybės, Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo ir Lietuvos apeliacinio teismo teisėjų veiklos, kitų teismų teisėjų, taip pat prokurorų, ikiteisminio tyrimo pareigūnų ir antstolių procesinių veiksmų, susijusių su teisingumo vykdymu ar bylos tyrimu, taip pat su sprendimų vykdymu, ir Seimo kontrolieriaus ir vaiko teisių apsaugos kontrolieriaus sprendimų.
+2. Administracinių teismų kompetencijai nepriskiriama tirti Respublikos Prezidento, Seimo, Seimo narių, Ministro Pirmininko, Vyriausybės, Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo ir Lietuvos apeliacinio teismo teisėjų veiklos, kitų teismų teisėjų, taip pat prokurorų, ikiteisminio tyrimo pareigūnų ir antstolių procesinių veiksmų, susijusių su teisingumo vykdymu ar bylos tyrimu, taip pat su sprendimų vykdymu, ir Seimo kontrolieriaus, žvalgybos kontrolieriaus ir vaiko teisių apsaugos kontrolieriaus sprendimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-871, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26908
 
 19 straipsnis. Administracinių bylų priskyrimas teismams
 
@@ -505,15 +511,27 @@ BENDROSIOS NUOSTATOS DĖL SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ)
 
 6. Kitais atvejais skundas (prašymas, pareiškimas) gali būti paduodamas pasirinktinai: administracinių ginčų komisijai arba tiesiogiai administraciniam teismui.
 
-7. Skundas (prašymas, pareiškimas) gali būti siunčiamas paštu, išskyrus šio įstatymo 20 straipsnio 2 dalies 9 punkte ir 21 straipsnio 1 dalies 3 punkte nurodytus ginčus, ir elektronine forma elektroninių ryšių priemonėmis. Jeigu skundas (prašymas, pareiškimas) siunčiamas faksimiliniu laišku arba kitomis elektroninių ryšių priemonėmis (išskyrus atvejus, kai asmens tapatybė patvirtinama Lietuvos Respublikos teismų įstatyme (toliau – Teismų įstatymas) nustatytais būdais), ne vėliau kaip per tris kalendorines dienas turi būti pateiktas skundo (prašymo, pareiškimo) originalas.
+7. Skundas (prašymas, pareiškimas) teismui gali būti siunčiamas paštu, išskyrus šio įstatymo 20 straipsnio 2 dalies 9 punkte ir 21 straipsnio 1 dalies 3 punkte nurodytus ginčus, ir elektronine forma elektroninių ryšių priemonėmis. Jeigu skundas (prašymas, pareiškimas) siunčiamas faksimiliniu laišku arba kitomis elektroninių ryšių priemonėmis (išskyrus atvejus, kai asmens tapatybė patvirtinama Lietuvos Respublikos teismų įstatyme (toliau – Teismų įstatymas) nustatytais būdais), ne vėliau kaip per tris kalendorines dienas turi būti pateiktas skundo (prašymo, pareiškimo) originalas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-417, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14574
 
 24 straipsnis. Skundo (prašymo, pareiškimo) forma ir turinys
 
-1. Skundai (prašymai, pareiškimai) administracinių ginčų komisijai arba administraciniam teismui paduodami raštu. Skundai (prašymai, pareiškimai) gali būti elektroninės formos ir paduodami elektroninių ryšių priemonėmis. Skundo (prašymo, pareiškimo) padavimo elektroninių ryšių priemonėmis tvarką ir skundo (prašymo, pareiškimo) formą nustato teisingumo ministras.
+1. Skundai (prašymai, pareiškimai) administraciniam teismui paduodami raštu. Skundai (prašymai, pareiškimai) gali būti elektroninės formos ir paduodami elektroninių ryšių priemonėmis. Skundo (prašymo, pareiškimo) padavimo elektroninių ryšių priemonėmis tvarką ir skundo (prašymo, pareiškimo) formą nustato teisingumo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-417, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14574
 
 2. Skunde (prašyme, pareiškime) turi būti nurodyta:
 
-1) administracinių ginčų komisijos arba teismo, kuriam skundas (prašymas, pareiškimas) paduodamas, pavadinimas;
+1) teismo, kuriam skundas (prašymas, pareiškimas) paduodamas, pavadinimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-417, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14574
 
 2) pareiškėjo vardas, pavardė (pavadinimas), asmens kodas (kodas), gyvenamoji vieta (buveinė), jeigu pareiškėjas turi, – ir elektroninio pašto adresas, telefono, fakso numeriai ar kitų elektroninių ryšių priemonių adresai, taip pat atstovo, jeigu jis yra, vardas, pavardė ir adresas, jeigu žinoma, – atstovo elektroninio pašto adresas, telefono, fakso numeriai ar kitų elektroninių ryšių priemonių adresai;
 
@@ -537,7 +555,11 @@ BENDROSIOS NUOSTATOS DĖL SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ)
 
 3. Skundą (prašymą, pareiškimą) pasirašo pareiškėjas ar jo atstovas. Paduodant skundą (prašymą, pareiškimą) elektroninių ryšių priemonėmis šio straipsnio 4 dalyje nustatyta tvarka, laikoma, kad skundas (prašymas, pareiškimas) yra pasirašytas. Prie atstovo paduodamo skundo (prašymo, pareiškimo) turi būti pridedamas įgaliojimas ar kitoks dokumentas, patvirtinantis atstovo įgaliojimus.
 
-4. Kai skundas (prašymas, pareiškimas) administraciniam teismui paduodamas elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama Teismų įstatyme nustatytais būdais. Paduodant skundą (prašymą, pareiškimą) administracinių ginčų komisijai elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama pasirašant saugiu elektroniniu parašu.
+4. Kai skundas (prašymas, pareiškimas) administraciniam teismui paduodamas elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama Teismų  įstatyme nustatytais būdais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-417, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14574
 
 25 straipsnis. Skundo (prašymo, pareiškimo) priedai
 
@@ -1979,13 +2001,15 @@ AKTŲ TEISĖTUMĄ
 
 112 straipsnis. Abstraktus pareiškimas ištirti norminio administracinio akto teisėtumą
 
-1. Kreiptis į administracinį teismą prašydami ištirti, ar norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės norminį teisės aktą, turi teisę Seimo nariai, Seimo kontrolieriai, vaiko teisių apsaugos kontrolierius, lygių galimybių kontrolierius, valstybės kontrolierius, bendrosios kompetencijos ir specializuoti teismai, prokurorai ir profesinės savivaldos asociacijos, įsteigtos pagal įstatymą vykdyti viešąsias funkcijas. Šie subjektai taip pat turi teisę kreiptis į administracinį teismą prašydami ištirti konkrečios bendrijos, politinės partijos, politinės organizacijos ar asociacijos priimto bendro pobūdžio teisės akto teisėtumą. Kreiptis į administracinį teismą prašydama ištirti, ar su aplinka susijęs norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės norminį teisės aktą, taip pat turi teisę suinteresuota visuomenė, kaip ji apibrėžta Lietuvos Respublikos aplinkos apsaugos įstatyme. Šioje dalyje nurodyti subjektai, išskyrus bendrosios kompetencijos ir specializuotus teismus, kreipiasi į administracinį teismą su pareiškimu. Bendrosios kompetencijos ir specializuoti teismai prašymą ištirti norminio administracinio akto teisėtumą išdėsto nutartyje.
+1. Kreiptis į administracinį teismą prašydami ištirti, ar norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės norminį teisės aktą, turi teisę Seimo nariai, Seimo kontrolieriai, žvalgybos kontrolieriai, vaiko teisių apsaugos kontrolierius, lygių galimybių kontrolierius, valstybės kontrolierius, bendrosios kompetencijos ir specializuoti teismai, prokurorai ir profesinės savivaldos asociacijos, įsteigtos pagal įstatymą vykdyti viešąsias funkcijas. Šie subjektai taip pat turi teisę kreiptis į administracinį teismą prašydami ištirti konkrečios bendrijos, politinės partijos, politinės organizacijos ar asociacijos priimto bendro pobūdžio teisės akto teisėtumą. Kreiptis į administracinį teismą prašydama ištirti, ar su aplinka susijęs norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės norminį teisės aktą, taip pat turi teisę suinteresuota visuomenė, kaip ji apibrėžta Lietuvos Respublikos aplinkos apsaugos įstatyme. Šioje dalyje nurodyti subjektai, išskyrus bendrosios kompetencijos ir specializuotus teismus, kreipiasi į administracinį teismą su pareiškimu. Bendrosios kompetencijos ir specializuoti teismai prašymą ištirti norminio administracinio akto teisėtumą išdėsto nutartyje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-136, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00257
 
 Nr. XIV-364, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13172
+
+Nr. XIV-871, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26908
 
 2. Kad būtų ištirta, ar savivaldybių administravimo subjekto priimtas norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės norminį teisės aktą, su pareiškimu į administracinį teismą turi teisę kreiptis ir savivaldybių veiklos priežiūrą vykdantys Vyriausybės atstovai.
 
@@ -3249,7 +3273,7 @@ NEĮSITEISĖJUSIŲ TEISMO SPRENDIMŲ APSKUNDIMAS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                              VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                          VALDAS ADAMKUS
 
 Pakeitimai:
 
