@@ -4,7 +4,7 @@ identifier: "TAR.EC01522BCE65"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "2018-12-12"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2018-12-12 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
 
@@ -161,9 +161,17 @@ Seimo kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis ar sk
 
 11 straipsnis. Metų veiklos ataskaitų pateikimas
 
-1. Seimo kontrolieriai kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų veiklos ataskaitą. Ši ataskaita, išskyrus jos dalį, kuri yra susijusi su žvalgybos institucijų veikla, nagrinėjama Seime ir yra skelbiama Seimo kontrolierių įstaigos interneto tinklalapyje.
+1. Seimo kontrolieriai kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų veiklos ataskaitą. Ši ataskaita nagrinėjama Seime ir yra skelbiama Seimo kontrolierių įstaigos interneto svetainėje.
 
-2. Seimo kontrolierių veiklos ataskaitos dalis, kuri yra susijusi su žvalgybos institucijų veikla, nagrinėjama Seimo statuto nustatyta tvarka Seimo statute nurodytame Seimo komitete ir ši Seimo kontrolierių veiklos ataskaitos dalis nėra skelbiama.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-872, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26909
+
+2. Neteko galios nuo 2022-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-872, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26909
 
 3. Seimo kontrolieriai apie savo veiklą periodiškai skelbia visuomenės informavimo priemonėse.
 
@@ -179,7 +187,11 @@ SKUNDŲ PRIĖMIMAS IR TYRIMAS
 
 1. Seimo kontrolieriai tiria pareiškėjų skundus dėl pareigūnų piktnaudžiavimo, biurokratizmo ar kitaip pažeidžiamų žmogaus teisių ir laisvių viešojo administravimo srityje.
 
-2. Seimo kontrolieriai netiria Respublikos Prezidento, Seimo narių, Ministro Pirmininko, Vyriausybės (kaip kolegialios institucijos), valstybės kontrolieriaus ir Konstitucinio Teismo bei kitų teismų teisėjų veiklos, savivaldybių tarybų (kaip kolegialių institucijų) veiklos.
+2. Seimo kontrolieriai netiria Respublikos Prezidento, Seimo narių, Ministro Pirmininko, Vyriausybės (kaip kolegialios institucijos), valstybės kontrolieriaus, Konstitucinio Teismo bei kitų teismų teisėjų veiklos, savivaldybių tarybų (kaip kolegialių institucijų) ir žvalgybos institucijų veiklos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-872, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26909
 
 3. Seimo kontrolieriai taip pat netiria prokurorų, ikiteisminio tyrimo pareigūnų procesinių sprendimų teisėtumo ir pagrįstumo, tačiau tiria skundus dėl prokurorų, ikiteisminio tyrimo pareigūnų veiksmų, pažeidžiančių žmogaus teises ir laisves.
 
@@ -191,7 +203,11 @@ SKUNDŲ PRIĖMIMAS IR TYRIMAS
 
 2. Seimo kontrolierius taip pat tiria Seimo narių jam perduotus pareiškėjų skundus, kurie atitinka šio įstatymo 14 straipsnio reikalavimus.
 
-3. Skundai paprastai paduodami raštu. Jeigu skundas gautas žodžiu, telefonu arba Seimo kontrolierius nustatė pareigūnų piktnaudžiavimo, biurokratizmo ar kitaip pažeistų žmogaus teisių ir laisvių požymių iš visuomenės informavimo priemonių bei iš kitų šaltinių, Seimo kontrolierius gali pradėti tyrimą savo iniciatyva.
+3. Skundai paprastai paduodami raštu per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą (toliau – E. pristatymo sistema), kitomis elektroninių ryšių priemonėmis, paštu arba tiesiogiai. Elektroninio pristatymo paslaugos fiziniams asmenims, kai jie elektronines siuntas per E. pristatymo sistemą siunčia Seimo kontrolieriui, teikiamos neatlygintinai. Skundo padavimo kitomis elektroninių ryšių priemonėmis arba tiesiogiai tvarka nustatyta Seimo kontrolierių įstaigos reglamente. Jeigu skundas gautas žodžiu, telefonu arba Seimo kontrolierius nustatė pareigūnų piktnaudžiavimo, biurokratizmo ar kitaip pažeistų žmogaus teisių ir laisvių požymių iš visuomenės informavimo priemonių bei iš kitų šaltinių, Seimo kontrolierius gali pradėti tyrimą savo iniciatyva.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-424, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14587
 
 4. Pareiškėjų kreipimaisi žodžiu ar raštu, kuriuose neskundžiami pareigūnai, o prašoma paaiškinti, suteikti kitą informaciją ar pageidaujamus dokumentus ir t. t., nelaikomi skundais.
 
@@ -229,7 +245,7 @@ Anoniminiai skundai netiriami, jeigu Seimo kontrolierius nenusprendžia kitaip.
 
 17 straipsnis. Atsisakymas nagrinėti skundą
 
-1. Seimo kontrolierius ne vėliau kaip per 7 darbo dienas nuo skundo gavimo dienos priima sprendimą atsisakyti nagrinėti skundą, apie tai informuodamas pareiškėją, jeigu:
+1. Seimo kontrolierius ne vėliau kaip per 7 darbo dienas nuo skundo gavimo dienos priima sprendimą atsisakyti nagrinėti skundą, apie tai šio įstatymo 21 straipsnyje nustatyta tvarka informuodamas pareiškėją, jeigu:
 
 1) padaro išvadą, kad skundo dalykas yra mažareikšmis;
 
@@ -243,6 +259,10 @@ Anoniminiai skundai netiriami, jeigu Seimo kontrolierius nenusprendžia kitaip.
 
 6) padaro išvadą, kad skundą nagrinėti tikslinga kitoje institucijoje ar įstaigoje.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-424, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14587
+
 2. Jeigu priimamas sprendimas atsisakyti nagrinėti skundą, turi būti nurodyti atsisakymo jį nagrinėti pagrindai. Tais atvejais, kai skundas nepriskirtas Seimo kontrolierių kompetencijai, atsisakyme nagrinėti nurodoma, į kokią instituciją ar įstaigą tuo klausimu galėtų kreiptis pareiškėjas.
 
 3. Skundą ištyrus, pakartotinai paduotas skundas netiriamas, išskyrus atvejus, kai nurodoma naujų aplinkybių ar pateikiama naujų faktų. Jeigu pareiškėjas piktnaudžiauja teise kreiptis į Seimo kontrolierių, Seimo kontrolieriaus sprendimu susirašinėjimas su tokiu pareiškėju gali būti nutrauktas.
@@ -255,7 +275,11 @@ Anoniminiai skundai netiriami, jeigu Seimo kontrolierius nenusprendžia kitaip.
 
 18 straipsnis. Skundo ištyrimo terminai
 
-Skundas turi būti ištirtas ir pareiškėjui atsakyta per 3 mėnesius nuo skundo gavimo dienos, išskyrus atvejus, kai dėl skunde nurodytų aplinkybių sudėtingumo, informacijos gausos ar skundžiamų veiksmų tęstinio pobūdžio būtina skundo tyrimą pratęsti. Apie Seimo kontrolieriaus sprendimą pratęsti skundo tyrimo terminą informuojamas pareiškėjas. Skundai turi būti ištirti per įmanomai trumpiausią laiką.
+Skundas turi būti ištirtas ir pareiškėjui atsakyta šio įstatymo 21 straipsnyje nustatyta tvarka per 3 mėnesius nuo skundo gavimo dienos, išskyrus atvejus, kai dėl skunde nurodytų aplinkybių sudėtingumo, informacijos gausos ar skundžiamų veiksmų tęstinio pobūdžio būtina skundo tyrimą pratęsti. Apie Seimo kontrolieriaus sprendimą pratęsti skundo tyrimo terminą šio įstatymo 21 straipsnyje nustatyta tvarka informuojamas pareiškėjas. Skundai turi būti ištirti per įmanomai trumpiausią laiką.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-424, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14587
 
 19 straipsnis. Seimo kontrolieriaus teisės
 
@@ -327,11 +351,13 @@ Nr. XIII-458, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11072
 
 21 straipsnis. Skundo tyrimas
 
-Seimo kontrolierius ištiria skunde nurodytas aplinkybes ir surašo pažymą. Pažymoje nurodoma tyrimo metu nustatytos aplinkybės, surinkti įrodymai ir pareigūno veikos juridinis įvertinimas. Pažymą pasirašo Seimo kontrolierius. Seimo kontrolieriaus pažyma pateikiama pareiškėjui, taip pat skelbiama oficialiame Seimo kontrolierių įstaigos interneto tinklalapyje. Pažyma taip pat gali būti pateikiama institucijos ar įstaigos, kurioje buvo atliekamas tyrimas, vadovui ar pareigūnui, kurio veiksmai buvo tiriami, o prireikus – ir aukštesnės pagal pavaldumą institucijos ar įstaigos vadovui, taip pat – ir kitoms institucijoms ar įstaigoms. Tais atvejais, kai pažymoje yra informacijos, kuri pagal įstatymus yra valstybės, tarnybos, komercinė ar banko paslaptis, arba įstatymų saugomi asmens duomenys, pateikiama ir skelbiama ne visa pažyma.
+Seimo kontrolierius ištiria skunde nurodytas aplinkybes ir surašo pažymą. Pažymoje nurodoma tyrimo metu nustatytos aplinkybės, surinkti įrodymai ir pareigūno veikos juridinis įvertinimas. Pažymą pasirašo Seimo kontrolierius. Jeigu asmuo nėra nurodęs pageidaujamo atsakymo į skundą gavimo būdo ir (ar) reikalingų kontaktinių duomenų, Seimo kontrolieriaus pažyma pateikiama pareiškėjui per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis, registruotąja pašto siunta. Jeigu asmens E. pristatymo sistemos elektroninio pristatymo dėžutė yra neaktyvi, pažyma jam siunčiama per E. pristatymo sistemą, bet įteikiama kaip registruotoji pašto siunta vadovaujantis Lietuvos Respublikos pašto įstatymu. Kai asmuo yra nurodęs pageidaujamą atsakymo į skundą gavimo būdą ir reikalingus kontaktinius duomenis, pažyma jam įteikiama šiuo būdu, taip pat skelbiama oficialiame Seimo kontrolierių įstaigos interneto tinklalapyje. Pažyma taip pat gali būti pateikiama institucijos ar įstaigos, kurioje buvo atliekamas tyrimas, vadovui ar pareigūnui, kurio veiksmai buvo tiriami, o prireikus – ir aukštesnės pagal pavaldumą institucijos ar įstaigos vadovui, taip pat – ir kitoms institucijoms ar įstaigoms. Tais atvejais, kai pažymoje yra informacijos, kuri pagal įstatymus yra valstybės, tarnybos, komercinė ar banko paslaptis, arba įstatymų saugomi asmens duomenys, pateikiama ir skelbiama ne visa pažyma.
 
 Straipsnio pakeitimai:
 
 Nr. XI-808, 2010-05-13, Žin., 2010, Nr. 63-3087 (2010-05-31), i. k. 1101010ISTA00XI-808
+
+Nr. XIV-424, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14587
 
 22 straipsnis. Seimo kontrolieriaus sprendimai
 
@@ -437,7 +463,7 @@ Nr. X-1781, 2008-11-06, Žin., 2008, Nr. 131-5031 (2008-11-15), i. k. 1081010IST
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -568,6 +594,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1684, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20235
 
 Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 7 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-424, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14587
+
+Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 13, 17, 18 ir 21 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-872, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26909
+
+Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 11 ir 12 straipsnių pakeitimo įstatymas
 
 30 straipsnis. Seimo kontrolierių darbo apmokėjimas ir garantijos
 
