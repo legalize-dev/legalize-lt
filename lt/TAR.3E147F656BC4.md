@@ -4,7 +4,7 @@ identifier: "TAR.3E147F656BC4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
 
@@ -484,7 +484,11 @@ PROFESIONALIOJO SCENOS MENO ĮSTAIGŲ FINANSAVIMAS
 
 3. Savivaldybių teatrai ir koncertinės įstaigos finansuojamos iš savivaldybės biudžetų ir kitų lėšų, nurodytų šio straipsnio 1 dalyje.
 
-4. Kultūros rėmimo fondas gali finansuoti nacionalinių, valstybinių teatrų ir koncertinių įstaigų profesionaliojo scenos meno įstaigos kultūrinės edukacijos projektus.
+4. Lietuvos kultūros taryba gali finansuoti nacionalinių, valstybinių teatrų ir koncertinių įstaigų profesionaliojo scenos meno įstaigos kultūrinės edukacijos projektus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-698, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25126
 
 5. Nacionaliniams ir valstybiniams teatrams ir koncertinėms įstaigoms kultūros ministro nustatyta tvarka valstybės biudžeto bazinio finansavimo lėšos skiriamos:
 
@@ -673,6 +677,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3135, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15381
 
 Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 6 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-698, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25126
+
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 16 straipsnio pakeitimo įstatymas
 
 20 straipsnis. Teatrų ir koncertinių įstaigų taryba
 
