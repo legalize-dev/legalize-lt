@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-06-01
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
+
+TAR pastaba. Įsigaliojus (2022-01-01) įstatymo Nr. XIV-721 nuostatoms, būsto šildymo išlaidų kompensacijos skiriamos taip: 1) jeigu dėl būsto šildymo išlaidų kompensacijos buvo kreiptasi iki įstatymo Nr. XIV-721 įsigaliojimo dienos (2022-01-01), skiriant būsto šildymo išlaidų kompensaciją už mėnesius, buvusius iki įstatymo Nr. XIV-721 įsigaliojimo dienos (2022-01-01), taikomos iki  įstatymo Nr. XIV-721 įsigaliojimo dienos (2022-01-01) galiojusios Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nuostatos; 2) jeigu dėl būsto šildymo išlaidų kompensacijos buvo kreiptasi įsigaliojus (2022-01-01) įstatymui Nr. XIV-721 ir, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 21 straipsnio 4, 5 ir (ar) 6 dalimis, būsto šildymo išlaidų kompensacija skiriama už mėnesius, buvusius iki įstatymo Nr. XIV-721 įsigaliojimo dienos (2022-01-01), taikomos iki įstatymo Nr. XIV-721  įsigaliojimo dienos (2022-01-01) galiojusios Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nuostatos; 3) jeigu sprendimas dėl būsto šildymo išlaidų kompensacijos skyrimo priimtas iki įstatymo Nr. XIV-721 įsigaliojimo dienos (2022-01-01), įsigaliojus įstatymui Nr. XIV-721 apskaičiuojant būsto šildymo išlaidų kompensaciją taikomos įstatymo Nr. XIV-721 nuostatos.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
+
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 7 ir 11 straipsnių pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2012-01-01:
 
@@ -202,7 +210,7 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
 1. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui kompensuojama:
 
-1) šildymo sezono metu – būsto šildymo išlaidų, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, dalis, viršijanti 10 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinių pajamų per mėnesį ir valstybės remiamų pajamų bendrai gyvenantiems asmenims dydžio arba 1,5 valstybės remiamų pajamų dydžio vienam gyvenančiam asmeniui;
+1) šildymo sezono metu – būsto šildymo išlaidų, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, dalis, viršijanti 10 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinių pajamų per mėnesį ir 2 valstybės remiamų pajamų dydžių kiekvienam bendrai gyvenančiam asmeniui arba 3 valstybės remiamų pajamų dydžių vienam gyvenančiam asmeniui;
 
 Straipsnio punkto pakeitimai:
 
@@ -210,29 +218,51 @@ Nr. XIII-373, 2017-05-23, paskelbta TAR 2017-05-31, i. k. 2017-09277
 
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 
+Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
+
 2) geriamojo vandens, kurio kiekis ne didesnis už šio įstatymo 12 straipsnyje nustatytą normatyvą, išlaidų dalis, viršijanti 2 procentus bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų;
 
 3) karšto vandens, kurio kiekis ir atskirų energijos ar kuro rūšių sąnaudos karštam vandeniui ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, išlaidų dalis, viršijanti 5 procentus bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų.
 
-2. Jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį neviršija valstybės remiamų pajamų bendrai gyvenantiems asmenims dydžio arba 1,5 valstybės remiamų pajamų dydžio vienam gyvenančiam asmeniui, skiriama būsto šildymo išlaidų kompensacija yra lygi faktinėms būsto šildymo išlaidoms, jeigu naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti yra ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus.
+2. Jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamos neviršija 2 valstybės remiamų pajamų dydžių kiekvienam bendrai gyvenančiam asmeniui arba 3 valstybės remiamų pajamų dydžių vienam gyvenančiam asmeniui, skiriama būsto šildymo išlaidų kompensacija yra lygi faktinėms būsto šildymo išlaidoms, jeigu naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti yra ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 
-3. Apskaičiuojant būsto šildymo išlaidas ir karšto vandens išlaidas, centralizuotai tiekiamos šilumos, karšto vandens, kitų būstui šildyti ir karštam vandeniui ruošti naudojamų energijos ir kuro rūšių, kurių kainos reguliuojamos, taip pat geriamojo vandens karštam vandeniui ruošti sąnaudos įvertinamos pagal įstatymų nustatyta tvarka patvirtintas kainas, taikant vienanares ar dvinares centralizuotai tiekiamos šilumos kainas, o kuro, kurio kainos nereguliuojamos ir už kurį atsiskaitoma kas mėnesį pagal apskaitos prietaisų rodmenis, – pagal nustatytas tiekėjų kainas; kietojo ar kitokio kuro, kurio faktinės sąnaudos kiekvieną mėnesį nenustatomos, – pagal savivaldybėse patvirtintas vidutines kainas.
+Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
+
+3. Jeigu viename būste gyvenamąją vietą yra deklaravę ir (arba) būstą nuomojasi bendrai gyvenantys asmenys ir vienas gyvenantis asmuo ir (arba) dvi ar daugiau bendrai gyvenančių asmenų grupių, ir (arba) du ar daugiau vienų gyvenančių asmenų, turinčių teisę į būsto šildymo išlaidų kompensacijas, kurie už komunalines paslaugas atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), šioms bendrai gyvenančių asmenų grupėms ir (arba) vieniems gyvenantiems asmenims būsto šildymo išlaidų kompensacijos dydis apskaičiuojamas tokia pat tvarka kaip vienai bendrai gyvenančiai asmenų grupei.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
+
+4. Apskaičiuojant būsto šildymo išlaidas ir karšto vandens išlaidas, centralizuotai tiekiamos šilumos, karšto vandens, kitų būstui šildyti ir karštam vandeniui ruošti naudojamų energijos ir kuro rūšių, kurių kainos reguliuojamos, taip pat geriamojo vandens karštam vandeniui ruošti sąnaudos įvertinamos pagal įstatymų nustatyta tvarka patvirtintas kainas, taikant vienanares ar dvinares centralizuotai tiekiamos šilumos kainas, o kuro, kurio kainos nereguliuojamos ir už kurį atsiskaitoma kas mėnesį pagal apskaitos prietaisų rodmenis, – pagal nustatytas tiekėjų kainas; kietojo ar kitokio kuro, kurio faktinės sąnaudos kiekvieną mėnesį nenustatomos, – pagal savivaldybėse patvirtintas vidutines kainas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
 
-4. Apskaičiuojant geriamojo vandens išlaidas, geriamojo vandens sąnaudos įvertinamos pagal nustatytas tiekėjų kainas.
+Straipsnio dalies numeracijos pakeitimas:
 
-5. Jeigu namui, kuriame gyvenamąją vietą yra deklaravę ir (arba) būstą nuomojasi bendrai gyvenantys asmenys ir vienas gyvenantis asmuo ir (arba) dvi ar daugiau bendrai gyvenančių asmenų grupių, ir (arba) du ar daugiau vienų gyvenančių asmenų, šildyti ir (ar) karštam vandeniui paruošti yra įrengta bendra autonominė katilinė, kompensacijos apskaičiuojamos atskirai kiekvienai (kiekvienam) iš jų. Katilinėje per mėnesį sunaudotas kuras perskaičiuojamas į pagamintą šilumą, o šiluma būstams ir skirtingoms reikmėms (būstui šildyti ir karštam vandeniui paruošti) paskirstoma pagal būstų savininkų pasirinktą vieną iš Valstybinės energetikos reguliavimo tarybos rekomenduotų arba pagal būstų savininkų siūlomą ir su Valstybine energetikos reguliavimo taryba suderintą šilumos paskirstymo metodą.
+Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
+
+5. Apskaičiuojant geriamojo vandens išlaidas, geriamojo vandens sąnaudos įvertinamos pagal nustatytas tiekėjų kainas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
+
+6. Jeigu namui, kuriame gyvenamąją vietą yra deklaravę ir (arba) būstą nuomojasi bendrai gyvenantys asmenys ir vienas gyvenantis asmuo ir (arba) dvi ar daugiau bendrai gyvenančių asmenų grupių, ir (arba) du ar daugiau vienų gyvenančių asmenų, šildyti ir (ar) karštam vandeniui paruošti yra įrengta bendra autonominė katilinė, kompensacijos apskaičiuojamos atskirai kiekvienai (kiekvienam) iš jų. Katilinėje per mėnesį sunaudotas kuras perskaičiuojamas į pagamintą šilumą, o šiluma būstams ir skirtingoms reikmėms (būstui šildyti ir karštam vandeniui paruošti) paskirstoma pagal būstų savininkų pasirinktą vieną iš Valstybinės energetikos reguliavimo tarybos rekomenduotų arba pagal būstų savininkų siūlomą ir su Valstybine energetikos reguliavimo taryba suderintą šilumos paskirstymo metodą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
 
 14 straipsnis. Turtas
 
@@ -432,13 +462,15 @@ Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 
 2. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, pagal šio straipsnio 1 dalį turintiems teisę į kompensacijas, kompensacijos skiriamos, jeigu laikotarpiu, už kurį kompensacijos apskaičiuojamos:
 
-1) būsto šildymo išlaidos, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, viršija 10 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinių pajamų per mėnesį ir valstybės remiamų pajamų bendrai gyvenantiems asmenims dydžio arba 1,5 valstybės remiamų pajamų dydžio vienam gyvenančiam asmeniui arba (ir)
+1) būsto šildymo išlaidos, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, viršija 10 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinių pajamų per mėnesį ir 2 valstybės remiamų pajamų dydžių kiekvienam bendrai gyvenančiam asmeniui arba 3 valstybės remiamų pajamų dydžių vienam gyvenančiam asmeniui arba (ir)
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-373, 2017-05-23, paskelbta TAR 2017-05-31, i. k. 2017-09277
 
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+
+Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
 
 2) geriamojo vandens, kurio kiekis ne didesnis už šio įstatymo 12 straipsnyje nustatytą normatyvą, išlaidos viršija 2 procentus bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų, arba (ir)
 
