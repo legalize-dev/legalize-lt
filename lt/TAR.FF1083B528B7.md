@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2021-11-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2021-11-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-01-03
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -1902,7 +1902,11 @@ Nr. XIII-2186, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09969
 
 1) įgijusiam aukštąjį (universitetinį ar koleginį) arba jam lygiavertį biomedicinos mokslų studijų srities biologijos, botanikos, zoologijos, žemės ūkio ar miškininkystės studijų krypties arba fizinių mokslų studijų srities geologijos, aplinkotyros ir gamtinės geografijos studijų krypčių, arba technologijų mokslų studijų srities bendrosios inžinerijos, statybos inžinerijos ir inžinerijos mokslų studijų krypčių, arba socialinių mokslų studijų srities visuomeninės geografijos ir teritorijų planavimo studijų krypties, arba meno studijų srities architektūros studijų krypties išsilavinimą;
 
-2) turinčiam ne mažesnę kaip 3 metų darbo rengiant saugomų teritorijų specialiojo teritorijų planavimo dokumentus patirtį;
+2) turinčiam ne mažesnę kaip 3 metų darbo rengiant saugomų teritorijų specialiojo teritorijų planavimo dokumentus arba rengiant ne žemesnio negu savivaldybės lygmens kompleksinio teritorijų planavimo dokumentus, jeigu juose buvo sprendžiami atitinkami saugomų teritorijų specialiojo teritorijų planavimo dokumentui priskirtini uždaviniai, patirtį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-599, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23520
 
 3) išlaikiusiam teisinių ir profesinių žinių egzaminą pagal aplinkos ministro patvirtintą programą. Profesinių žinių egzaminų rezultatai nustatyta tvarka kvalifikaciją kėlusiems atestuotiems specialistams, neturintiems administracinių nuobaudų profesinėje srityje ir dėl kurių nėra nustatyta profesinės etikos pažeidimų, galioja neterminuotai.
 
