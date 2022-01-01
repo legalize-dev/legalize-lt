@@ -4,7 +4,7 @@ identifier: "TAR.1881C195D0E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-07-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
 
@@ -473,9 +473,13 @@ Nr. XII-2382, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14743
 
 3. Žvalgybos institucijos teikia Ministrui Pirmininkui metinį rizikos veiksnių, pavojų ir grėsmių nacionaliniam saugumui ir valstybės interesams vertinimą ir ataskaitą pagal savo veiklos sritis. Metinis rizikos veiksnių, pavojų ir grėsmių nacionaliniam saugumui ir valstybės interesams vertinimas ir ataskaita teikiami prieš Vyriausybės nacionalinio saugumo būklės ir plėtros ataskaitos rengimą. Ministras Pirmininkas su žvalgybos institucijų pateiktais vertinimais ir ataskaita pagal kompetenciją gali supažindinti atskirus ministrus.
 
-23 straipsnis. Skundų dėl žvalgybos pareigūnų, vykdančių žvalgybą ir kontržvalgybą, veiksmų tyrimas ir nagrinėjimas
+23 straipsnis. Skundų dėl žvalgybos pareigūnų, vykdančių žvalgybą ir kontržvalgybą, veiksmų nagrinėjimas
 
-Skundus dėl žvalgybos pareigūnų veiksmų, pažeidžiančių žmogaus teises ar laisves, vykdant žvalgybą ir kontržvalgybą, tiria ir nagrinėja Lietuvos Respublikos Seimo kontrolieriai Lietuvos Respublikos Seimo kontrolierių įstatymo nustatyta tvarka.
+Fizinių ir juridinių asmenų pateiktus skundus dėl žvalgybos institucijų ir (ar) žvalgybos pareigūnų veiksmų, pažeidžiančių žmogaus teises ar laisves, vykdant žvalgybą ir kontržvalgybą, nagrinėja žvalgybos kontrolieriai Žvalgybos kontrolierių įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-869, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26906
 
 24 straipsnis. Žvalgybos institucijų vidaus kontrolė
 
@@ -1883,6 +1887,14 @@ Nr. XIII-3245, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15883
 
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 27 straipsnio pakeitimo įstatymas
 
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-869, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26906
+
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 16-1, 23 straipsnių pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas
+
 641 straipsnis. Žvalgybos pareigūnų aprūpinimas tarnybos užsienyje laikotarpiu
 
 1. Tarnybos užsienyje laikotarpiu žvalgybos pareigūnui mokamas šiame įstatyme nustatytas tarnybinis atlyginimas (įskaitant priedus už kario laipsnį ar tarnybinį rangą ir tarnybos stažą), skaičiuojamas pagal nustatytą iki perkėlimo eitoms žvalgybos pareigūno pareigoms pareiginės algos koeficientą, išskyrus atvejus, kai darbo užmokestį jiems moka priimančioji institucija.
@@ -1965,9 +1977,23 @@ Nr. XIII-2349, 2019-07-16, paskelbta TAR 2019-07-31, i. k. 2019-12633
 
 4. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, taip pat Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų teisės susipažinti su asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis arba apriboti jų tvarkymą gali būti apribotos visiškai ar iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ar įgyvendinus šioje dalyje nurodytas jo teises gali būti atskleisti žvalgybos institucijų veiklos metodai ir priemonės, veiklos taktika ir (ar) padaryta žala žvalgybos institucijų veiklai. Žvalgybos institucijos turi kiekvienu konkrečiu atveju žvalgybos institucijos vadovo nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti šio straipsnio 5 dalyje nurodytiems subjektams jų prašymu.
 
-5. Žvalgybos institucijų veiksmai ar neveikimas, susiję su asmens duomenų tvarkymu nacionalinio saugumo ar gynybos tikslais galimai pažeidžiant šio įstatymo ar Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo nuostatas, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, taip pat asmuo turi teisę kreiptis į Seimo kontrolierių Lietuvos Respublikos Seimo kontrolierių įstatymo nustatyta tvarka.
+5. Žvalgybos institucijų veiksmai ar neveikimas, susiję su asmens duomenų tvarkymu nacionalinio saugumo ar gynybos tikslais galimai pažeidžiant šio įstatymo ar Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo nuostatas, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, taip pat asmuo turi teisę kreiptis į žvalgybos kontrolierių Lietuvos Respublikos žvalgybos kontrolierių įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-869, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26906
 
 Papildyta straipsniu:
 
 Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
+
+221 straipsnis. Žvalgybos institucijų nepriklausoma išorės kontrolė
+
+1. Žvalgybos institucijų nepriklausomą išorės kontrolę Žvalgybos kontrolierių įstatymo nustatyta tvarka atlieka žvalgybos kontrolieriai.
+
+2. Žvalgybos pareigūnai turi teisę tiesiogiai kreiptis į žvalgybos kontrolierių dėl žvalgybos institucijos vykdomos galimai neteisėtos veiklos ir (ar) jos priimtų galimai neteisėtų sprendimų dėl asmenų, kurių atžvilgiu vykdoma žvalgybinė veikla.
+
+Papildyta straipsniu:
+
+Nr. XIV-869, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26906
 
