@@ -4,7 +4,7 @@ identifier: "TAR.0CC6CB2A9E42"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-18"
-last_updated: "2019-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0CC6CB2A9E42"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-06-01
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 114-5115, i. k. 1031010ISTA0IX-1826
 
@@ -390,7 +390,11 @@ SKUNDŲ PATEIKIMAS IR TYRIMAS
 
 1. Kiekvienas fizinis, juridinis asmuo, kita organizacija ir jos padalinys turi teisę pateikti lygių galimybių kontrolieriui skundą dėl lygių galimybių pažeidimo.
 
-2. Skundai teikiami raštu.
+2. Skundai teikiami raštu per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą (toliau – E. pristatymo sistema), kitomis elektroninių ryšių priemonėmis, paštu arba tiesiogiai. Elektroninio pristatymo paslaugos fiziniams asmenims, kai jie elektronines siuntas per E. pristatymo sistemą siunčia lygių galimybių kontrolieriui, teikiamos neatlygintinai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-425, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14588
 
 3. Jeigu lygių galimybių kontrolierius nustatė lygių galimybių pažeidimo požymius iš visuomenės informavimo priemonių ar kitokių šaltinių, jis gali pradėti tyrimą savo iniciatyva.
 
@@ -430,7 +434,7 @@ Skundą galima pateikti per 3 mėnesius nuo skundžiamų veiksmų padarymo arba 
 
 27 straipsnis. Atsisakymas nagrinėti skundą
 
-1. Lygių galimybių kontrolierius ne vėliau kaip per 10 darbo dienų nuo skundo gavimo dienos priima sprendimą atsisakyti nagrinėti skundą, apie tai informuodamas pareiškėją, jeigu:
+1. Lygių galimybių kontrolierius ne vėliau kaip per 10 darbo dienų nuo skundo gavimo dienos priima sprendimą atsisakyti nagrinėti skundą, apie tai informuodamas pareiškėją šio įstatymo 29 straipsnio 5 dalyje nustatyta tvarka, jeigu:
 
 1) neįmanoma pradėti tyrimo dėl duomenų trūkumo arba jeigu skundo tekstas neįskaitomas, o pareiškėjas lygių galimybių kontrolieriaus prašymu per nustatytą terminą jų nepateikia ar nepatikslina;
 
@@ -444,7 +448,15 @@ Skundą galima pateikti per 3 mėnesius nuo skundžiamų veiksmų padarymo arba 
 
 6) pakartotinai pateiktas skundas tuo pačiu klausimu jau buvo išnagrinėtas Lygių galimybių kontrolieriaus tarnyboje, išskyrus atvejus, kai nurodoma naujų aplinkybių ar pateikiama naujų faktų.
 
-2. Atsisakant nagrinėti skundą, turi būti nurodyti atsisakymo jį nagrinėti pagrindai. Tais atvejais, kai skundas nepriklauso lygių galimybių kontrolieriaus kompetencijai, ne vėliau kaip per 5 darbo dienas skundas turi būti perduotas viešojo administravimo subjektui, turinčiam reikiamus įgaliojimus nagrinėti skundą, ir apie tai pranešama pareiškėjui.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-425, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14588
+
+2. Atsisakant nagrinėti skundą, turi būti nurodyti atsisakymo jį nagrinėti pagrindai. Tais atvejais, kai skundas nepriklauso lygių galimybių kontrolieriaus kompetencijai, ne vėliau kaip per 5 darbo dienas skundas turi būti per E. pristatymo sistemą perduotas viešojo administravimo subjektui, turinčiam reikiamus įgaliojimus nagrinėti skundą, ir apie tai šio įstatymo 29 straipsnio 5 dalyje nustatyta tvarka pranešama pareiškėjui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-425, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14588
 
 3. Ištyrus skundą, pakartotinai pateiktas skundas nenagrinėjamas, išskyrus atvejus, kai nurodomos naujos aplinkybės ar pateikiami nauji faktai.
 
@@ -492,7 +504,11 @@ Skundą galima pateikti per 3 mėnesius nuo skundžiamų veiksmų padarymo arba 
 
 4. Jeigu skundo tyrimo metu išaiškėja šio įstatymo 27 straipsnio 1 dalyje nurodytos aplinkybės, tyrimas nutraukiamas.
 
-5. Su sprendimu supažindinamas pareiškėjas ir asmuo, kurio veiksmai (neveikimas) arba priimtas administracinis aktas arba sprendimas yra skundžiami.
+5. Kai asmuo nėra nurodęs pageidaujamo atsakymo į skundą gavimo būdo ir (ar) reikalingų kontaktinių duomenų, su sprendimu supažindinamas pareiškėjas ir asmuo, kurio veiksmai (neveikimas) arba priimtas administracinis aktas ar sprendimas yra skundžiami, per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis, registruotąja pašto siunta. Jeigu asmens E. pristatymo sistemos elektroninio pristatymo dėžutė yra neaktyvi, sprendimas jam siunčiamas per E. pristatymo sistemą, bet įteikiamas kaip registruotoji pašto siunta vadovaujantis Lietuvos Respublikos pašto įstatymu. Kai asmuo yra nurodęs pageidaujamą atsakymo į skundą gavimo būdą ir reikalingus kontaktinius duomenis, atsakymas į skundą jam įteikiamas šiuo būdu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-425, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14588
 
 30 straipsnis. Lygių galimybių kontrolieriaus reikalavimų privalomumas
 
@@ -510,7 +526,7 @@ Nr. XIII-457, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11071
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                                   ROLANDAS PAKSAS
 
 Lietuvos Respublikos
 
@@ -601,6 +617,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2105, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07642
 
 Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 1, 16 ir 17 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIII-1760 1 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-425, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14588
+
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 24, 27 ir 29 straipsnių pakeitimo įstatymas
 
 151 straipsnis. Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėsena
 
