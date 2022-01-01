@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-07-14
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -81,7 +81,11 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 
 6) jis buvo atleistas iš darbo, pareigų ar neteko teisės verstis tam tikra veikla dėl to, kad neatitiko įstatymuose keliamo nepriekaištingos reputacijos reikalavimo, arba buvo atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus (asesoriaus), notaro atstovo, teismo antstolio, antstolio, antstolio atstovo, antstolio padėjėjo pareigų arba iš valstybės tarnybos už profesinės ar tarnybinės veiklos pažeidimus ir nuo atleidimo dienos nepraėjo penkeri metai.
 
-2. Lietuvos Respublikos teisingumo ministerija turi teisę gauti iš visų teisėsaugos institucijų, Lietuvos Respublikos sveikatos priežiūros įstaigų, valstybės ir savivaldybių institucijų, valstybės registrų ir informacinių sistemų informaciją, dokumentus ar duomenis (įskaitant asmens duomenis), reikalingus įsitikinti, kad asmuo atitinka šio straipsnio 1 dalyje nustatytus reikalavimus.
+2. Lietuvos Respublikos teisingumo ministerija turi teisę gauti iš visų teisėsaugos institucijų, valstybės ir savivaldybių institucijų, valstybės registrų ir informacinių sistemų informaciją, dokumentus ar duomenis (įskaitant asmens duomenis), reikalingus įsitikinti, kad asmuo atitinka šio straipsnio 1 dalyje nustatytus reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-612, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23534
 
 Straipsnio pakeitimai:
 
@@ -237,7 +241,11 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 
 2) jo prašymu;
 
-3) kai dėl sveikatos būklės pagal medicininės komisijos išvadą negali dirbti antstoliu;
+3) Neteko galios nuo 2022-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-612, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23534
 
 4) įsiteisėjus teismo nuosprendžiui, kuriuo antstolis nuteistas už nusikalstamą veiką arba pripažintas kaltu dėl nusikalstamos veikos padarymo, bet atleistas nuo baudžiamosios atsakomybės;
 
@@ -813,7 +821,11 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 
 2. Antstolių kvalifikacijos kėlimo nuostatus Lietuvos antstolių rūmų prezidiumo teikimu tvirtina teisingumo ministras.
 
-39 straipsnis. Antstolių atestavimas ir sveikatos tikrinimas
+39 straipsnis. Antstolių atestavimas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-612, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23534
 
 1. Siekiant patikrinti antstolių kvalifikaciją ir profesines žinias, rengiama eilinė ir neeilinė antstolių atestacijos. Eilinė antstolių atestacija vyksta kas ketveri metai. Antstolius atestuoja Antstolių atestavimo komisija. Šios komisijos personalinę sudėtį, Antstolių atestavimo komisijos nuostatus ir Antstolių atestavimo taisykles tvirtina teisingumo ministras.
 
@@ -833,7 +845,11 @@ Nr. XIII-3216, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15753
 
 3) antstolio neatestuoti ir pasiūlyti teisingumo ministrui spręsti klausimą dėl asmens atleidimo iš antstolių.
 
-5. Antstolis privalo kas penkerius metus tikrintis sveikatą sveikatos apsaugos ministro ir teisingumo ministro nustatyta tvarka.
+5. Neteko galios nuo 2022-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-612, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23534
 
 Straipsnio pakeitimai:
 
@@ -1025,7 +1041,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -1172,6 +1188,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3216, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15753
 
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 5, 6, 8, 11, 12, 13, 14, 15, 22, 27, 28, 29, 30, 34, 35, 36, 39, 47 ir 49 straipsnių pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-612, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23534
+
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 5, 12 ir 39 straipsnių pakeitimo įstatymas
 
 431 straipsnis. Elektroninės vykdomosios bylos, informacinių ir elektroninių ryšių technologijų naudojimas antstolių veikloje
 
