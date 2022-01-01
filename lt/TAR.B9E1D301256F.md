@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2020-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -55,11 +55,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
-6. Apmokestinant akcizais kaitinamojo tabako produktus, kaip jie apibrėžti šio įstatymo 3 straipsnio 181 dalyje, taikomos tik šio įstatymo 4, 5, 6, 11, 13 straipsnių, 14 straipsnio 1, 2, 3, 4, 5 ir 6 dalių, 17 straipsnio, 18 straipsnio 1, 2, 3 ir 4 dalių, 19 straipsnio 1, 2 ir 4 dalių, 20, 21, 22 straipsnių ir II skyriaus septintojo skirsnio nuostatos.
+6. Apmokestinant akcizais kaitinamojo tabako produktus, kaip jie apibrėžti šio įstatymo 3 straipsnio 181 ir 36 dalyse, taikomos tik šio įstatymo 4, 5, 6, 11, 13 straipsnių, 14 straipsnio 1, 2, 3, 4, 5 ir 6 dalių, 17 straipsnio, 18 straipsnio 1, 2, 3 ir 4 dalių, 19 straipsnio 1, 2 ir 4 dalių, 20, 21, 22 straipsnių ir II skyriaus septintojo skirsnio nuostatos.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 7. Apmokestinant akcizais elektroninių cigarečių skystį, kaip jis apibrėžtas šio įstatymo 3 straipsnio 111 dalyje, taikomos tik šio įstatymo 11, 13 straipsnių, 19 straipsnio 1, 2 ir 4 dalių, 20, 21, 22 straipsnių ir II skyriaus septintojo skirsnio nuostatos.
 
@@ -673,7 +677,11 @@ Nr. XIII-172, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29862
 
 22 straipsnis. Atsakomybė
 
-1. Asmenys už šio įstatymo pažeidimus atsako Mokesčių administravimo įstatymo ir kitų įstatymų nustatyta tvarka.
+1. Asmenys už šio įstatymo ir (ar) jo įgyvendinamųjų teisės aktų pažeidimus atsako Mokesčių administravimo įstatymo ir kitų įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 2. Asmeniui, pardavusiam cigaretes už didesnę kainą, negu šiame įstatyme nurodyta didžiausia leistinoji pardavimo kaina, taikomos įstatymų nustatytos sankcijos.
 
@@ -687,7 +695,7 @@ ETILO ALKOHOLIS IR ALKOHOLINIAI GĖRIMAI
 
 23 straipsnis. Alui taikomi akcizų tarifai
 
-1. Alui taikomas 7,11 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.
+1. Alui taikomas 7,82 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.
 
 Straipsnio dalies pakeitimai:
 
@@ -699,7 +707,19 @@ Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
 
-2. Akcizų už alų apskaičiavimo pagal faktinę tūrinę alkoholio koncentraciją taisykles nustato Vyriausybė ar jos įgaliota institucija.
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+
+2. Mažos alų gaminančios įmonės (toliau – mažosios alaus daryklos) 10 tūkst. hektolitrų per metus realizuoto alaus taikomas 50 procentų mažesnis akcizo tarifas, negu nustatytas šio straipsnio 1 dalyje. Šiame įstatyme mažąja alaus darykla, kuriai taikoma šioje dalyje nurodyta akcizų lengvata, laikoma per kalendorinius metus ne daugiau kaip 80 tūkst. hektolitrų alaus pagaminanti įmonė, pagal Vyriausybės ar jos įgaliotos institucijos nustatytus kriterijus pripažįstama teisiškai ir ekonomiškai nepriklausančia nuo bet kurios kitos alų gaminančios įmonės (išskyrus atvejus, kai šių alų gaminančių įmonių kartu per kalendorinius metus pagaminto alaus kiekis neviršija 80 tūkst. hektolitrų), o įmonės gamybinės patalpos yra fiziškai atskirtos nuo bet kurios kitos alų gaminančios įmonės. Šioje dalyje nurodyta akcizų lengvata netaikoma pagal licencines sutartis pagamintam alui. Šioje dalyje alaus gamyba nelaikomas kitoje alų gaminančioje įmonėje pagaminto alaus maišymas ir (arba) pilstymas. Šios lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+
+3. Akcizų už alų apskaičiavimo pagal faktinę tūrinę alkoholio koncentraciją taisykles nustato Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 Straipsnio pakeitimai:
 
@@ -709,9 +729,9 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 
 Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai:
 
-1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 65,46 euro už produkto hektolitrą;
+1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 78 eurai už produkto hektolitrą;
 
-2) šio straipsnio 1 punkte nenurodytiems gėrimams – 164,67 euro už produkto hektolitrą.
+2) šio straipsnio 1 punkte nenurodytiems gėrimams – 181 euras už produkto hektolitrą.
 
 Straipsnio pakeitimai:
 
@@ -728,14 +748,16 @@ Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
+
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 25 straipsnis. Tarpiniams produktams taikomi akcizų tarifai
 
 Tarpiniams produktams taikomi tokie akcizų tarifai:
 
-1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 185,82 euro už produkto hektolitrą;
+1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 200 eurų už produkto hektolitrą;
 
-2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 264,52 euro už produkto hektolitrą.
+2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 285 eurai už produkto hektolitrą.
 
 Straipsnio pakeitimai:
 
@@ -753,13 +775,11 @@ Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
 
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+
 26 straipsnis. Etilo alkoholiui taikomi akcizų tarifai
 
-1. Etilo alkoholiui taikomas 1 832 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas.
-
-1 dalies redakcija nuo 2020-03-01:
-
-1. Etilo alkoholiui taikomas 2 025 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas.
+1. Etilo alkoholiui taikomas 2 163 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas.
 
 Straipsnio dalies pakeitimai:
 
@@ -774,6 +794,8 @@ Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
 Nr. XIII-1709, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20967
 
 Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
+
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 2. Apskaičiuojant mokėtiną akcizų sumą už šiame straipsnyje nurodytus produktus, gryno etilo alkoholio hektolitru laikoma 100 litrų etilo alkoholio, kurio faktinė tūrinė alkoholio koncentracija procentais yra 100 procentų, o temperatūra – 20 °C. Visas gryno etilo alkoholio kiekis hektolitrais apvalinamas iki sveikojo skaičiaus tūkstantosios dalies.
 
@@ -815,17 +837,17 @@ Nr. XI-2024, 2012-05-22, Žin., 2012, Nr. 63-3165 (2012-06-05)
 
 Akcizai netaikomi šiam etilo alkoholiui:
 
-1) denatūruotam pagal atitinkamos valstybės narės reikalavimus ir panaudotam ne maistui skirtų produktų gamybai etilo alkoholiui, kuriam akcizai turi būti netaikomi pagal 1992 m. spalio 19 d. Tarybos direktyvos 92/83/EEB dėl akcizų už alkoholį ir alkoholinius gėrimus struktūrų suderinimo 27 straipsnio 1 dalies b punktą. Lietuvos Respublikoje tokius denatūravimo reikalavimus nustato Vyriausybė ar jos įgaliota institucija;
+1) denatūruotam pagal atitinkamos valstybės narės reikalavimus ir panaudotam ne maistui skirtų produktų gamybai arba gamybos įrangos, naudojamos šiam konkrečiam gamybos procesui, techninei priežiūrai ir valymui. Lietuvos Respublikoje tokius denatūravimo reikalavimus nustato Vyriausybė ar jos įgaliota institucija. Denatūruotas etilo alkoholis, kuris dar nėra panaudotas šiame punkte nustatytais būdais, turi būti gabenamas taikant akcizų mokėjimo laikino atidėjimo režimą;
 
-2) etilo alkoholiui, kuris pripažintas denatūruotu etilo alkoholiu pagal 1993 m. lapkričio 22 d. Komisijos reglamentą (EB) Nr. 3199/93 dėl visiško etilo alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akcizų tikslais.
+2) etilo alkoholiui, kuris pripažintas denatūruotu etilo alkoholiu pagal 1993 m. lapkričio 22 d. Komisijos reglamentą (EB) Nr. 3199/93 dėl visiško etilo alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akcizų tikslais ir atitinka valstybės narės, kurioje jis buvo išleistas vartoti, reikalavimus. Toks denatūruotas etilo alkoholis turi būti gabenamas kaip akcizais apmokestinamos prekės, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 29 straipsnis. Etilo alkoholio ir alkoholinių gėrimų ženklinimas banderolėmis
 
 Etilo alkoholis (klasifikuojamas KN 2208 pozicijoje) ir alkoholiniai gėrimai, skirti parduoti Lietuvos Respublikoje, turi būti paženklinti specialiais ženklais – banderolėmis. Ženklinimo tvarką, taip pat atvejus, kai ženklinti nereikalaujama, nustato Vyriausybė.
-
-ANTRASIS SKIRSNIS
-
-APDOROTAS TABAKAS
 
 30 straipsnis. Cigaretėms taikomi akcizų tarifai
 
@@ -833,15 +855,7 @@ APDOROTAS TABAKAS
 
 2. Cigaretėms taikomas toks akcizų tarifas:
 
-1) specifinis elementas – 62,25 euro;
-
-1 punkto redakcija nuo 2020-03-01:
-
-1) specifinis elementas – 65,7 euro;
-
-1 punkto redakcija nuo 2021-03-01:
-
-1) specifinis elementas – 69,4 euro;
+1) specifinis elementas – 74,3 euro;
 
 Straipsnio punkto pakeitimai:
 
@@ -855,17 +869,11 @@ Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
 
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
 
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+
 2) vertybinis elementas – 25 procentai.
 
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 102 eurai už 1 000 cigarečių.
-
-3 dalies redakcija nuo 2020-03-01:
-
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 108,5 euro už 1 000 cigarečių
-
-3 dalies redakcija nuo 2021-03-01:
-
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 115,5 euro už 1 000 cigarečių.“
+3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 122,5 euro už 1 000 cigarečių.
 
 Straipsnio dalies pakeitimai:
 
@@ -878,6 +886,8 @@ Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
 Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
 
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
+
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 4. Šio įstatymo 3 straipsnio 11 dalyje nurodytus požymius atitinkantis tabako ritinėlis, kuris (be filtro ar kandiklio) yra ilgesnis kaip 8 cm, bet ne ilgesnis kaip 11 cm, šiame įstatyme laikomas dviem cigaretėmis; ritinėlis, kuris ilgesnis kaip 11 cm, bet ne ilgesnis kaip 14 cm, atitinkamai laikomas trimis cigaretėmis ir taip toliau.
 
@@ -899,11 +909,25 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 31 straipsnis. Kitam apdorotam tabakui taikomi akcizų tarifai
 
-1. Cigarams ir cigarilėms taikomas 42 eurų už kilogramą produkto akcizų tarifas.
+1. Cigarams ir cigarilėms taikomas 66 eurų už kilogramą produkto akcizų tarifas.
 
-2. Rūkomajam tabakui taikomas 68,6 euro už kilogramą produkto akcizų tarifas.
+2. Rūkomajam tabakui taikomas 97 eurų už kilogramą produkto akcizų tarifas.
 
-31 straipsnio redakcija nuo 2020-03-01:
+Straipsnio pakeitimai:
+
+Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
+
+Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
+
+Nr. XII-80, 2012-12-20, Žin., 2012, Nr. 153-7830 (2012-12-29)
+
+Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
+
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 32 straipsnis. Apdoroto tabako ženklinimas banderolėmis
 
@@ -1061,11 +1085,15 @@ Nr. XI-2024, 2012-05-22, Žin., 2012, Nr. 63-3165 (2012-06-05)
 
 3) tabako ritinėliai, kurie nepramoniniu būdu gali būti įvynioti į cigarečių popierių.
 
-111. Elektroninių cigarečių skystis – elektroninėms cigaretėms skirtas skystas gaminys, 2018 metų KN versijoje klasifikuojamas 3824 99 56 ir 3824 99 57 subpozicijose (įskaitant atvejus, kai šie gaminiai yra gaminio, klasifikuojamo KN 8543 70 70 subpozicijoje, sudedamoji dalis).
+111. Elektroninių cigarečių skystis – elektroninėms cigaretėms skirtas skystas gaminys, 2019 metų KN versijoje klasifikuojamas 3824 99 56 ir 3824 99 57 subpozicijose (įskaitant atvejus, kai šie gaminiai yra gaminio, klasifikuojamo KN 8543 70 70 subpozicijoje, sudedamoji dalis).
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 12. Elektros energija – KN 2716 pozicijoje klasifikuojama energija.
 
@@ -1073,11 +1101,15 @@ Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
 
 14. Etilo alkoholis – visi šie produktai:
 
-1) KN 2207 ir 2208 pozicijose klasifikuojami produktai, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 1,2 procento;
+1) KN 2207 ir 2208 pozicijose klasifikuojami produktai, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 1,2 procento, taip pat kai šie produktai yra produkto, klasifikuojamo kitoje KN pozicijoje, sudedamoji dalis;
 
 2) KN 2204, 2205 ir 2206 pozicijose klasifikuojami produktai, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 22 procentai;
 
-3) etilo alkoholio turintys produktai nepaisant, ar tai mišinys, ar ne.
+3) etilo alkoholio turintys produktai, nepaisant, ar tai tirpalas (skysto pavidalo), ar ne.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 15. Sąjungos muitų teritorija – teritorija, apibrėžta 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1) (toliau – Sąjungos muitinės kodeksas), 4 straipsnyje.
 
@@ -1107,7 +1139,11 @@ Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
 
 21. Kiti putojantys fermentuoti gėrimai – alkoholiniai gėrimai, kurie atitinka visus šiuos požymius:
 
-1) klasifikuojami KN 2206 00 91, taip pat KN 2204 10, 2204 21 10, 2204 29 10 subpozicijose ir KN 2205 pozicijoje (išskyrus gėrimus, kurie pagal šį įstatymą laikomi vynais iš šviežių vynuogių);
+1) klasifikuojami KN 2206 00 31 ir 2206 00 39, taip pat KN 2204 10, 2204 21 06, 2204 21 07, 2204 21 08, 2204 21 09, 2204 29 10 subpozicijose ir KN 2205 pozicijoje (išskyrus gėrimus, kurie pagal šį įstatymą laikomi vynais iš šviežių vynuogių);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 2) pateikiami išpilstyti į butelius su grybo pavidalo kamščiais, kurie pritvirtinti raiščiais arba apkaustais, arba pateikiami kitaip, jeigu jų perteklinis slėgis dėl ištirpusio anglies dioksido yra ne mažesnis kaip 3 barai;
 
@@ -1127,7 +1163,11 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 23. Putojantis vynas iš šviežių vynuogių – alkoholinis gėrimas, kuris atitinka visus šiuos požymius:
 
-1) klasifikuojamas KN 2204 10, 2204 21 10 arba 2204 29 10 subpozicijoje, arba KN 2205 pozicijoje;
+1) klasifikuojamas KN 2204 10, 2204 21 06, 2204 21 07, 2204 21 08, 2204 21 09 arba 2204 29 10 subpozicijoje, arba KN 2205 pozicijoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 2) pateikiamas išpilstytas į butelius su grybo pavidalo kamščiais, kurie pritvirtinti raiščiais arba apkaustais, arba pateikiamas kitaip, jeigu jo perteklinis slėgis dėl ištirpusio anglies dioksido yra ne mažesnis kaip 3 barai;
 
@@ -1183,7 +1223,11 @@ Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 
 35. Produktai, kurių dalį sudaro kitos negu tabakas medžiagos, bet kurie pagal kitus kriterijus atitinka šio straipsnio 10 dalyje nurodytus požymius, laikomi cigarais ir cigarilėmis.
 
-36. Produktai, kurie visiškai ar iš dalies pagaminti iš tabako pakaitalų, bet pagal kitus kriterijus atitinka šio straipsnio 11 ar 27 dalyje nurodytus požymius, laikomi atitinkamai cigaretėmis arba rūkomuoju tabaku. Šios nuostatos netaikomos produktams, kuriuose nėra tabako, jeigu jie skirti medicinos reikmėms.
+36. Produktai, kurie visiškai ar iš dalies pagaminti iš kitų negu tabakas medžiagų, bet pagal kitus kriterijus atitinka šio straipsnio 11, 181 ar 27 dalyje nurodytus požymius, laikomi atitinkamai cigaretėmis, kaitinamojo tabako produktais arba rūkomuoju tabaku. Šios nuostatos netaikomos produktams, kuriuose nėra tabako, jeigu jie skirti medicinos reikmėms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 37. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas) ir Sąjungos muitinės kodekse, tačiau mokesčių administratoriumi šiame įstatyme vadinama tik Valstybinė mokesčių inspekcija.
 
@@ -1191,7 +1235,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 
-38. Šiame įstatyme ir jo prieduose prekių kodai yra nurodyti pagal tų metų KN versiją, kuri nurodyta atitinkamoje Tarybos direktyvoje, nustatančioje atitinkamų prekių apmokestinimą.
+38. Šiame įstatyme ir jo prieduose prekių kodai yra nurodyti pagal tų metų KN versiją, kuri nurodyta atitinkamoje Tarybos direktyvoje, nustatančioje atitinkamų prekių apmokestinimą, išskyrus etilo alkoholio ir alkoholinių gėrimų kodus, nurodytus 2018 m. spalio 11 d. Komisijos įgyvendinimo reglamente (ES) 2018/1602, kuriuo iš dalies keičiamas Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo I priedas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 Straipsnio pakeitimai:
 
@@ -1591,17 +1639,13 @@ Akcizų už elektroninių cigarečių skystį mokėtojai yra registruoti akcizų
 
 65 straipsnis. Kaitinamojo tabako produktams ir elektroninių cigarečių skysčiui taikomi akcizų tarifai
 
-1. Kaitinamojo tabako produktams taikomas 68,6 euro už kilogramą tabako akcizų tarifas.
+1. Kaitinamojo tabako produktams taikomas 45,6 euro už 1 000 vienetų kaitinamojo tabako produktų akcizų tarifas.
 
-1 dalies redakcija nuo 2020-03-01:
+2. Elektroninių cigarečių skysčiui taikomas 0,15 euro už mililitrą skysčio akcizų tarifas.
 
-1. Kaitinamojo tabako produktams taikomas 113,2 euro už kilogramą tabako akcizų tarifas.
+Straipsnio pakeitimai:
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2612, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20642
-
-2. Elektroninių cigarečių skysčiui taikomas 0,12 euro už mililitrą skysčio akcizų tarifas.
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 66 straipsnis. Mokestinių prievolių dėl akcizų už kaitinamojo tabako produktus ir elektroninių cigarečių skystį įvykdymo užtikrinimas
 
@@ -1723,15 +1767,11 @@ Akcizų už neapdorotą tabaką mokėtojai yra asmenys, kurie gavo iš kitos val
 
 74 straipsnis. Neapdorotam tabakui taikomas akcizų tarifas
 
-Neapdorotam tabakui taikomas 68,6 euro už kilogramą neapdoroto tabako akcizų tarifas.
+Neapdorotam tabakui taikomas 97 eurų už kilogramą neapdoroto tabako akcizų tarifas.
 
-1 dalies redakcija nuo 2020-03-01 iki 2021-02-28:
+Straipsnio pakeitimai:
 
-Neapdorotam tabakui taikomas 78,5 euro už kilogramą neapdoroto tabako akcizų tarifas.
-
-1 dalies redakcija nuo 2021-03-01:
-
-Neapdorotam tabakui taikomas 90 eurų už kilogramą neapdoroto tabako akcizų tarifas.
+Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 Papildyta skirsniu:
 
@@ -1833,63 +1873,39 @@ akcizų įstatymo
 
 3 priedas
 
-(Lietuvos Respublikos
-
-2010 m. balandžio 1 d.
-
-įstatymo Nr. XI-722 redakcija)
-
 ĮGYVENDINAMI Europos Sąjungos teisės aktai
 
-1. 1992 m. vasario 25 d. Tarybos direktyva 92/12/EEB dėl bendros tvarkos, susijusios su akcizais apmokestinamais produktais ir jų laikymu, judėjimu ir kontrole (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 179), su paskutiniais pakeitimais, padarytais 2004 m. lapkričio 16 d. Tarybos direktyva 2004/106/EB (OL 2004 L 359, p. 30).
+1. 1992 m. spalio 19 d. Tarybos direktyva 92/83/EEB dėl akcizų už alkoholį ir alkoholinius gėrimus struktūrų suderinimo su paskutiniais pakeitimais, padarytais 2020 m. liepos 29 d. Tarybos direktyva (ES) 2020/1151.
 
-2. Neteko galios.
+2. 1992 m. spalio 19 d. Tarybos direktyva 92/84/EEB dėl alkoholiui ir alkoholiniams gėrimams taikomų akcizo tarifų suderinimo.
 
-3. Neteko galios.
+3. 1992 m. gruodžio 17 d. Komisijos reglamentas (EEB) 3649/92 dėl supaprastinto administracinio lydraščio, skirto Bendrijos viduje judantiems akcizu apmokestinamiems produktams, kurie išleisti vartojimui išsiuntimo valstybėje narėje.
 
-4. 1992 m. spalio 19 d. Tarybos direktyva 92/83/EEB dėl akcizų už alkoholį ir alkoholinius gėrimus struktūrų suderinimo (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 206).
+4. 1993 m. lapkričio 22 d. Komisijos reglamentas (EB) Nr. 3199/93 dėl visiško etilo alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akcizų tikslais su paskutiniais pakeitimais, padarytais 2018 m. lapkričio 30 d. Komisijos įgyvendinimo reglamentu (ES) 2018/1880.
 
-5. 1992 m. spalio 19 d. Tarybos direktyva 92/84/EEB dėl alkoholiui ir alkoholiniams gėrimams taikomų akcizo tarifų suderinimo (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 213).
+5. 2003 m. spalio 27 d. Tarybos direktyva 2003/96/EB, pakeičianti Bendrijos energetikos produktų ir elektros energijos mokesčių struktūrą, su paskutiniais pakeitimais, padarytais 2018 m. balandžio 6 d. Komisijos įgyvendinimo sprendimu (ES) 2018/552.
 
-6. 1992 m. rugsėjo 11 d. Komisijos reglamentas (EEB) Nr. 2719/92 dėl administracinio lydraščio gabenant akcizais apmokestinamus produktus pagal akcizų sustabdymo režimą (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 192) su paskutiniais pakeitimais, padarytais 2006 m. spalio 23 d. Komisijos reglamentu (EB) Nr. 1792/2006 (OL 2006 L 362, p. 1).
+6. 2008 m. gruodžio 16 d. Tarybos direktyva 2008/118/EB dėl bendros akcizų tvarkos, panaikinanti Direktyvą 92/12/EEB, su paskutiniais pakeitimais, padarytais 2019 m. vasario 18 d. Tarybos direktyva (ES) 2019/475.
 
-7. 1992 m. gruodžio 17 d. Komisijos reglamentas (EEB) 3649/92 dėl supaprastinto administracinio lydraščio, skirto Bendrijos viduje judantiems akcizu apmokestinamiems produktams, kurie išleisti vartojimui išsiuntimo valstybėje narėje (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 216).
+7. 2009 m. liepos 24 d. Komisijos reglamentas (EB) Nr. 684/2009, kuriuo įgyvendinamos Tarybos direktyvos 2008/118/EB nuostatos, susijusios su akcizais apmokestinamų prekių, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, gabenimo kompiuterinėmis procedūromis, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 1 d. Komisijos įgyvendinimo reglamentu (ES) 2020/1811.
 
-8. 1993 m. lapkričio 22 d. Komisijos reglamentas (EB) Nr. 3199/93 dėl visiško etilo alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akcizų tikslais (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 249) su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 28 d. Komisijos reglamentu (EB) Nr. 849/2008 (OL 2008 L 231, p. 11).
+8. 2011 m. birželio 21 d. Tarybos direktyva 2011/64/ES dėl akcizų, taikomų apdorotam tabakui, struktūros ir tarifų.
 
-9. Neteko galios.
+9. 2012 m. balandžio 20 d. Komisijos įgyvendinimo sprendimas Nr. 2012/209/ES dėl Tarybos direktyvos 2008/118/EB kontrolės ir judėjimo nuostatų taikymo tam tikriems priedams, vadovaujantis Tarybos direktyvos 2003/96/EB 20 straipsnio 2 dalimi.
 
-10. 2003 m. spalio 27 d. Tarybos direktyva 2003/96/EB, pakeičianti Bendrijos energetikos produktų ir elektros energijos mokesčių struktūrą (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 405), su paskutiniais pakeitimais, padarytais 2004 m. balandžio 29 d. Tarybos direktyva 2004/75/EB (OL 2004 m. specialusis leidimas, 9 skyrius, 2 tomas, p. 21).
+10. 2014 m. birželio 17 d. Komisijos reglamentas (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2021 m. kovo 15 d. Komisijos reglamentu (ES) 2021/452.
 
-11. 2008 m. gruodžio 16 d. Tarybos direktyva 2008/118/EB dėl bendros akcizų tvarkos, panaikinanti Direktyvą 92/12/EEB (OL 2009 L 9, p. 12), su paskutiniais pakeitimais, padarytais 2010 m. vasario 16 d. Tarybos direktyva 2010/12/ES (OL 2010 L 50, p. 1).
-
-12. 2009 m. liepos 24 d. Komisijos reglamentas (EB) Nr. 684/2009, kuriuo įgyvendinamos Tarybos direktyvos 2008/118/EB nuostatos, susijusios su akcizais apmokestinamų prekių, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, gabenimo kompiuterinėmis procedūromis (OL 2009 L 197, p. 24).
-
-13. 2011 m. birželio 21 d. Tarybos direktyva 2011/64/ES dėl akcizų, taikomų apdorotam tabakui, struktūros ir tarifų (OL 2011 L 176, p. 24).
-
-14. 2012 m. balandžio 20 d. Komisijos įgyvendinimo sprendimas Nr. 2012/209/ES dėl Tarybos direktyvos 2008/118/EB kontrolės ir judėjimo nuostatų taikymo tam tikriems priedams, vadovaujantis Tarybos direktyvos 2003/96/EB 20 straipsnio 2 dalimi (OL 2012 L 110, p. 41).
-
-Papildyta punktu:
-
-Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
-
-15. 2014 m. birželio 17 d. Komisijos reglamentas (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius (OL 2014 L 187, p. 1).
-
-Papildyta punktu:
-
-Nr. XII-1902, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10505
-
-16. 2014 m. gruodžio 16 d. Komisijos reglamentas (ES) Nr. 1388/2014, kuriuo tam tikrų kategorijų pagalba įmonėms, kurios verčiasi žvejybos ir akvakultūros produktų gamyba, perdirbimu ir prekyba, skelbiama suderinama su vidaus rinka taikant Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnius (OL 2014 L 369, p. 37).
-
-Papildyta punktu:
-
-Nr. XII-1902, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10505
+11. 2014 m. gruodžio 16 d. Komisijos reglamentas (ES) Nr. 1388/2014, kuriuo tam tikrų kategorijų pagalba įmonėms, kurios verčiasi žvejybos ir akvakultūros produktų gamyba, perdirbimu ir prekyba, skelbiama suderinama su vidaus rinka taikant Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 8 d. Komisijos reglamentu (ES) 2020/2008.
 
 3 priedo pakeitimai:
 
 Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
 Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
+
+Priedo pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 Pakeitimai:
 
@@ -1920,4 +1936,16 @@ Nr. IX-1228, 2002-12-10, Žin., 2002, Nr. 123-5520 (2002-12-24)
 AKCIZŲ ĮSTATYMO 25, 31 IR 40 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis Įstatymas, išskyrus 1 ir 3 straipsnius, įsigalioja nuo 2003 m. sausio 1 d.
+
+291 straipsnis. Nepriklausomo smulkiojo gamintojo metinio pažymėjimo išdavimas
+
+Lietuvos Respublikos nepriklausomų smulkiųjų alkoholinių gėrimų ir etilo alkoholio gamintojų prašymu mokesčių administratorius centrinio mokesčių administratoriaus nustatyta tvarka išduoda metinį pažymėjimą, kuriuo patvirtinama šių gamintojų bendra metinės produkcijos apimtis ir nepriklausomo smulkiojo gamintojo atitiktis centrinio mokesčių administratoriaus nustatytiems nepriklausomo smulkiojo gamintojo kriterijams, atitinkantiems Direktyvos 92/83/EEB 4 straipsnio 2 dalies, 9a straipsnio 2 dalies, 13a straipsnio 4 dalies, 18a straipsnio 3 dalies ar 22 straipsnio 2 dalies nuostatas. Nuoroda į šį pažymėjimą turi būti pateikiama akcizais apmokestinamų prekių vežimo dokumente arba supaprastintame akcizais apmokestinamų prekių vežimo dokumente.
+
+Papildyta straipsniu:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
+
+ANTRASIS SKIRSNIS
+
+APDOROTAS TABAKAS
 
