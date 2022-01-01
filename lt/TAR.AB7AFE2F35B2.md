@@ -4,7 +4,7 @@ identifier: "TAR.AB7AFE2F35B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2020-09-03"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2020-09-03 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
 
@@ -514,7 +514,11 @@ BENDROSIOS NUOSTATOS
 
 2. Kapitalo rezervų dydžiai, jų apskaičiavimo metodika nustatomi vadovaujantis Reglamentu (ES) Nr. 575/2013 ir priežiūros institucijos teisės aktais.
 
-3. Paskirstymai iš kapitalo rezervų atliekami priežiūros institucijos nustatyta tvarka.
+3. Neteko galios nuo 2022-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 83 straipsnis. Pareiga nuolat laikytis reikalavimų, keliamų siekiant gauti licenciją
 
@@ -3434,7 +3438,11 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 10) nevykdyti tam tikros veiklos, nesudaryti tam tikrų sandorių, sumažinti tokios veiklos arba sandorių apimtis arba sumažinti investicijas į veiklą, kuri kelia pernelyg didelę riziką finansų maklerio įmonės patikimumui;
 
-11) sumažinti su finansų maklerio įmonės veikla, produktais ir sistemomis susijusias rizikas;
+11) sumažinti su finansų maklerio įmonės veikla, produktais ir sistemomis, įskaitant tretiesiems asmenims perduotą veiklą, susijusias rizikas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 12) sumažinti kintamąją atlygio dalį, mokamą finansų maklerio įmonės vadovams ir darbuotojams, jeigu tai nesuderinama su patikimos kapitalo bazės išlaikymu;
 
@@ -3458,7 +3466,17 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 22) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą;
 
-23) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar veiklos trūkumai.
+23) pateikti priežiūros institucijai reikalavimų laikymosi atkūrimo planą, parengtą pagal šio įstatymo ir Reglamento (ES) Nr. 575/2013 reikalavimus, ir nustatyti galutinį šio plano įgyvendinimo terminą, įskaitant to plano patobulinimus atsižvelgiant į jo taikymo sritį ir galutinį įgyvendinimo terminą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
+
+24) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar veiklos trūkumai.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 4. Šio straipsnio 3 dalyje nustatyti privalomi nurodymai gali būti duodami, kai yra bent vienas iš šių pagrindų:
 
@@ -3468,7 +3486,11 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 3) kyla grėsmė finansų maklerio įmonės, finansų patarėjo įmonės, trečiosios valstybės įmonės filialo, rinkos operatoriaus, informacijos apie sandorius paslaugų teikėjo ar centrinio depozitoriumo veiklos stabilumui ir patikimumui arba siekiant išvengti esminės žalos ar nepataisomų pasekmių visuomenės ir (arba) investuotojų interesams.
 
-5. Pagal šio straipsnio 3 dalį nustatant tinkamą individualaus kapitalo reikalavimo dydį ar tinkamus kapitalo rezervų dydžius, taip pat specialius likvidumo reikalavimus, atsižvelgiama į kiekybinius ir kokybinius priežiūros institucijos atlikto tikrinimo ir vertinimo rezultatus, sisteminės rizikos įvertinimą, finansų maklerio įmonės valdymo struktūrą, rizikos nustatymo, valdymo, vidaus kontrolės procesus.
+5. Pagal šio straipsnio 3 dalies 6 ir 16 punktus nustatant tinkamą individualaus kapitalo reikalavimo dydį ar tinkamus kapitalo rezervų dydžius, taip pat specialius likvidumo reikalavimus, atsižvelgiama į kiekybinius ir kokybinius priežiūros institucijos atlikto tikrinimo ir vertinimo rezultatus, finansų maklerio įmonės valdymo struktūrą, rizikos nustatymo, valdymo, vidaus kontrolės procesus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 6. Šio straipsnio 4 dalies 1 ir 3 punktuose nurodytais atvejais priežiūros institucija, mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje teismo leidimams nustatyta tvarka, turi teisę prašyti teismo nutartimi laikinai areštuoti šio straipsnio 3 dalyje nurodytų asmenų turtą. Priežiūros institucijos prašymus dėl turto areštavimo nagrinėja Vilniaus apygardos administracinis teismas.
 
@@ -3511,6 +3533,12 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 3) laiku neatsako į prašymą leisti priežiūros institucijos tarnautojams dalyvauti atliekant patikrinimą šios valstybės narės teritorijoje arba jį atmeta.
 
 14. Priežiūros institucija, spręsdama dėl privalomų nurodymų davimo pagal šio straipsnio 7 dalį, taip pat turi vadovautis taikytinais Europos Sąjungos teisės aktais.
+
+15. Priežiūros institucija pertvarkymo instituciją informuoja apie papildomo kapitalo reikalavimo dydžius, nustatytus pagal šio straipsnio 3 dalies 6 punktą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 103 straipsnis. Laikinasis atstovas finansų maklerio įmonės veiklos priežiūrai
 
@@ -3568,7 +3596,11 @@ Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
 
 1. Priežiūros institucija atlieka finansinės grupės jungtinę (konsoliduotą) priežiūrą, jeigu:
 
-1) finansinės grupės patronuojančioji įmonė yra finansų maklerio įmonė ar valdymo įmonė, turinčios priežiūros institucijos išduotą licenciją;
+1) finansinės grupės, kurioje nėra kredito įstaigų, patronuojančioji įmonė yra finansų maklerio įmonė ar valdymo įmonė, turinčios priežiūros institucijos išduotą licenciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 2) finansų maklerio įmonės ar valdymo įmonės, turinčių priežiūros institucijos išduotą licenciją, patronuojančioji įmonė yra patronuojančioji finansų kontroliuojančioji bendrovė ar mišrios veiklos finansų kontroliuojančioji įmonė.
 
@@ -3778,9 +3810,17 @@ priedas
 
 4. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų.
 
-5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB.
+5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/878.
 
-6. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012.
+Punkto pakeitimai:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
+
+6. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 su paskutiniais pakeitimais, padarytais 2020 m. birželio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/873.
+
+Punkto pakeitimai:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033.
 
@@ -3788,7 +3828,11 @@ priedas
 
 9. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033.
 
-10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2399.
+10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879.
+
+Punkto pakeitimai:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 11. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 909/2014 dėl atsiskaitymo už vertybinius popierius gerinimo Europos Sąjungoje ir centrinių vertybinių popierių depozitoriumų, kuriuo iš dalies keičiamos direktyvos 98/26/EB ir 2014/65/ES bei Reglamentas (ES) Nr. 236/2012, su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033.
 
@@ -3992,6 +4036,14 @@ Nr. XIII-2964, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11343
 
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 6 ir 79 straipsnių pakeitimo įstatymas
 
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
+
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 15, 102, 107 straipsnių, priedo pakeitimo ir Įstatymo papildymo 29-1 ir 105-1 straipsniais įstatymas
+
 411 straipsnis. Dalyvavimo politika
 
 1. Instituciniai investuotojai ir turto valdytojai privalo laikytis šioje dalyje nustatytų reikalavimų arba viešai paskelbti aiškų ir pagrįstą paaiškinimą, kodėl jie pasirinko nesilaikyti bent vieno iš šių reikalavimų:
@@ -4151,4 +4203,26 @@ PREKYBA REGULIUOJAMOJE RINKOJE. SKAIDRUMO REIKALAVIMAI
 Papildyta straipsniu:
 
 Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+
+291 straipsnis. Subordinuotųjų tinkamų įsipareigojimų pardavimas neprofesionaliesiems klientams
+
+1. Pardavėjas ‒ finansų maklerio įmonė, kredito įstaiga, valdymo įmonė, kuri turi valdymo įmonės licenciją pagal Kolektyvinio investavimo subjektų įstatymą ir (arba) Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą, kurioje numatyta šios valdymo įmonės teisė teikti investicines paslaugas, taip pat kitose valstybėse narėse įsteigtos valdymo įmonės, turinčios valdymo įmonės licenciją pagal tų valstybių teisės aktus, perkeliančius 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvą 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo (su visais pakeitimais), arba pagal 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvą 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 1095/2010 (su visais pakeitimais), kurioje (valdymo įmonės licencijoje) numatyta teisė teikti investicines paslaugas (toliau kartu šiame straipsnyje – pardavėjas), turi teisę parduoti neprofesionaliajam klientui Lietuvos Respublikoje įsteigtų Finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytų įstaigų išleistus tinkamus įsipareigojimus, tenkinančius visas Reglamento (ES) Nr. 575/2013 72a straipsnyje, išskyrus 72a straipsnio 1 dalies b punktą, ir šio reglamento 72b straipsnio 3–5 dalyse nurodytas sąlygas, jeigu pardavėjas užtikrina, kad pirkimo metu neprofesionaliojo kliento pradinė minimali suma, investuojama į vieną ar kelias šioje dalyje nurodytas įsipareigojimų priemones, ne mažesnė kaip 10 000 eurų.
+
+2. Pardavėjas turi teisę parduoti kitose valstybėse narėse įsteigtų Finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytų įstaigų išleistus šio straipsnio 1 dalyje nurodytus įsipareigojimus neprofesionaliajam klientui, jeigu tokių įsipareigojimų minimali nominalioji vertė ne mažesnė kaip 50 000 eurų.
+
+3 straipsnio redakcija, įsigaliojanti kitą darbo dieną po Lietuvos banko pranešimo Teisės aktų registro tvarkytojui, kad Lietuvos Respublikoje įsteigtų bankų ir centrinių kredito unijų, kurioms taikomas Lietuvos Respublikos finansinio tvarumo įstatymo 26 straipsnyje nurodytas reikalavimas, bendra turto vertė viršija 50 milijardų eurų, gavimo dienos:
+
+1051 straipsnis. Finansų maklerio įmonės, kuriai taikomas šio įstatymo 14 straipsnio 2 dalyje nurodytas pradinio kapitalo reikalavimas, pripažinimo nemokia sąlygos
+
+Finansų maklerio įmonė, kuriai taikomas šio įstatymo 14 straipsnio 2 dalyje nurodytas pradinio kapitalo reikalavimas, gali būti pripažinta nemokia, jeigu yra bent viena iš šių sąlygų:
+
+1) finansų maklerio įmonė dėl to, kad patyrė arba, tikėtina, patirs nuostolių, kuriems padengti reikės visų jos nuosavų lėšų arba didelės jų dalies, arba dėl kitų su jos finansine būkle susijusių priežasčių pažeidžia arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, artimiausiu metu pažeis licencijai išduoti taikomus reikalavimus taip, kad priežiūros institucija turėtų pagrindą atšaukti licenciją;
+
+2) finansų maklerio įmonės turtas yra arba, remiantis objektyviais veiksniais, nustatoma, kad artimiausiu metu bus mažesnis už jos įsipareigojimus;
+
+3) finansų maklerio įmonė negali arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, nustatoma, kad artimiausiu metu negalės suėjus terminui apmokėti savo skolų arba įvykdyti kitų įsipareigojimų.
+
+Papildyta straipsniu:
+
+Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
