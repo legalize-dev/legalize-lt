@@ -4,7 +4,7 @@ identifier: "TAR.70F4FFCAE536"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-25"
-last_updated: "2019-05-14"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
-Suvestinė redakcija nuo 2019-05-14 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
 
@@ -239,7 +239,11 @@ SKUNDŲ PRIĖMIMAS IR TYRIMAS
 
 2. Vaikas į vaiko teisių apsaugos kontrolierių gali kreiptis savarankiškai. Vaikui kreipiantis į vaiko teisių apsaugos kontrolierių, šio įstatymo 18 straipsnio reikalavimai netaikomi.
 
-3. Skundai paprastai paduodami raštu. Jeigu skundas gautas kitu būdu arba vaiko teisių apsaugos kontrolierius nustatė šio įstatymo 16 straipsnio 1 dalyje nurodytų pažeidimų požymių, vaiko teisių apsaugos kontrolierius gali pradėti tyrimą savo iniciatyva.
+3. Skundai paprastai paduodami raštu per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą (toliau – E. pristatymo sistema), kitomis elektroninių ryšių priemonėmis, paštu arba tiesiogiai. Elektroninio pristatymo paslaugos fiziniams asmenims, kai jie elektronines siuntas per E. pristatymo sistemą siunčia vaiko teisių apsaugos kontrolieriui, teikiamos neatlygintinai. Jeigu skundas gautas kitu būdu arba vaiko teisių apsaugos kontrolierius nustatė šio įstatymo 16 straipsnio 1 dalyje nurodytų pažeidimų požymių, vaiko teisių apsaugos kontrolierius gali pradėti tyrimą savo iniciatyva.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-423, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14580
 
 4. Pareiškėjo prašymu jo pavardė, vardas tolesniame tyrime neskelbiami.
 
@@ -301,11 +305,17 @@ Anoniminiai skundai netiriami, jeigu vaiko teisių apsaugos kontrolierius nenusp
 
 4. Jeigu skundo tyrimo metu nustatomi šio straipsnio 1 dalyje ir 23 straipsnio 4 dalyje nurodyti pagrindai, skundo tyrimas nutraukiamas.
 
-22 straipsnis. Skundo ištyrimo terminai
+22 straipsnis. Skundo ištyrimo terminai ir pareiškėjo informavimo būdai
 
-1. Skundas turi būti ištirtas ir pareiškėjui atsakyta per 3 mėnesius nuo jo skundo gavimo dienos.
+1. Skundas turi būti ištirtas ir pareiškėjui šio straipsnio 3 dalyje nustatyta tvarka atsakyta per 3 mėnesius nuo jo skundo gavimo dienos.
 
-2. Dėl skunde nurodytų aplinkybių sudėtingumo, informacijos gausos, skundžiamų veiksmų tęstinio pobūdžio ar dėl to, kad skundo nagrinėjimo metu prireikia atlikti papildomą tyrimą (gauti dokumentus, paaiškinimus, apklausti suinteresuotus asmenis ir kt.), skundo tyrimo terminas pratęsiamas. Apie vaiko teisių apsaugos kontrolieriaus sprendimą pratęsti skundo tyrimo terminą informuojamas pareiškėjas. Skundai turi būti ištirti ir vaiko teisių apsaugos kontrolieriaus iniciatyva pradėti tyrimai turi būti atlikti per kuo trumpesnį laiką.
+2. Dėl skunde nurodytų aplinkybių sudėtingumo, informacijos gausos, skundžiamų veiksmų tęstinio pobūdžio ar dėl to, kad skundo nagrinėjimo metu prireikia atlikti papildomą tyrimą (gauti dokumentus, paaiškinimus, apklausti suinteresuotus asmenis ir kt.), skundo tyrimo terminas pratęsiamas. Apie vaiko teisių apsaugos kontrolieriaus sprendimą pratęsti skundo tyrimo terminą pareiškėjas informuojamas šio straipsnio 3 dalyje nustatyta tvarka. Skundai turi būti ištirti ir vaiko teisių apsaugos kontrolieriaus iniciatyva pradėti tyrimai turi būti atlikti per kuo trumpesnį laiką.
+
+3. Kai pareiškėjas nėra nurodęs pageidaujamo atsakymo į skundą gavimo būdo ir (ar) reikalingų kontaktinių duomenų, jis apie vaiko teisių apsaugos kontrolieriaus sprendimus informuojamas per E. pristatymo sistemą; jeigu pareiškėjo elektroninio pristatymo sistemos dėžutė yra neaktyvi, atsakymas jam siunčiamas per E. pristatymo sistemą, bet įteikiamas kaip registruotoji pašto siunta; kitomis elektroninių ryšių priemonėmis ar registruotąja pašto siunta vadovaujantis Lietuvos Respublikos pašto įstatymu. Kai pareiškėjas yra nurodęs pageidaujamą atsakymo į skundą gavimo būdą ir reikalingus kontaktinius duomenis, atsakymas į skundą jam įteikiamas šiuo būdu.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-423, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14580
 
 23 straipsnis. Vaiko teisių apsaugos kontrolieriaus atliekamas tyrimas
 
@@ -407,7 +417,7 @@ VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS VEIKLOS IR KITOS GARANTIJOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -490,6 +500,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2106, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07643
 
 Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 6 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-423, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14580
+
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 17 ir 22 straipsnių pakeitimo įstatymas
 
 29 straipsnis. Fiziniai ir juridiniai asmenys, įmonės, neturinčios juridinių asmenų teisių, su kuriais vaiko teisių apsaugos kontrolierius bendradarbiauja įgyvendindamas šį įstatymą
 
