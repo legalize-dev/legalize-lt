@@ -4,7 +4,7 @@ identifier: "TAR.ED28779BEADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2021-12-29"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
 
@@ -332,9 +332,15 @@ Nr. XIII-2966, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11346
 
 3. Priežiūros institucija, atsižvelgdama į kolektyvinio investavimo subjekto pobūdį, mastą ir sudėtingumą, stebi valdymo įmonės kredito rizikos vertinimo procesų tinkamumą, įskaitant nuorodų į kredito reitingus kolektyvinio investavimo subjekto investavimo politikos apraše naudojimo vertinimą atsižvelgiant į šio straipsnio 1 dalies 4 punkte nustatytus reikalavimus. Prireikus priežiūros institucija skatina mažinti tokių nuorodų daromą poveikį, siekdama, kad būtų mažiau automatiškai pasikliaunama tokiais kredito reitingais.
 
-17 straipsnis. Pranešimas apie pažeidimus valdymo įmonėje ir depozitoriume
+17 straipsnis. Neteko galios nuo 2022-01-01
 
-Valdymo įmonė ir depozitoriumas turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje ar depozitoriume atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo ir kitų kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą reglamentuojančių teisės aktų pažeidimą. Šioms priemonėms įdiegti valdymo įmonė ir depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatyti reikalavimai.
+Straipsnio naikinimas:
+
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 
 19 straipsnis. Priežiūros institucijos teisė priimti šio įstatymo įgyvendinamuosius teisės aktus
 
@@ -1272,6 +1278,10 @@ LIETUVOS RESPUBLIKOJE ĮSTEIGTŲ SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKT�
 
 Valdymo įmonė ir depozitoriumas turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje ar depozitoriume atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 1286/2014 ir kitų kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą reglamentuojančių teisės aktų pažeidimą. Šioms priemonėms įdiegti valdymo įmonė ir depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatyti reikalavimai.
 
+Straipsnio pakeitimai:
+
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+
 22 straipsnis. Draudimas perleisti investicinį fondą sudarantį ar investicinei bendrovei priklausantį turtą
 
 1. Investicinį fondą sudarantis ar investicinei bendrovei priklausantis turtas negali būti perleistas jį valdančiai valdymo įmonei, tokios įmonės vadovams, darbuotojams ir jų sutuoktiniams. Valdymo įmonei jos valdomo kolektyvinio investavimo subjekto sąskaita ar investicinei bendrovei taip pat draudžiama iš šioje dalyje numatytų asmenų turtą įsigyti.
@@ -1314,35 +1324,23 @@ Valdymo įmonė ir depozitoriumas turi užtikrinti, kad būtų įdiegtos priemon
 
 10. Valdymo įmonės, kuri tęsia veiklą, dalis gali būti atskiriama ir šiai daliai priskirtų turto, teisių ir pareigų pagrindu gali būti kuriama viena ar kelios naujos tos pačios teisinės formos valdymo įmonės. Valdymo įmonės atskyrimui mutatis mutandis taikomos šio įstatymo nuostatos, reglamentuojančios valdymo įmonės reorganizavimą, ir Civilinio kodekso nuostatos, reglamentuojančios reorganizavimą padalijimo būdu.
 
-30 straipsnis. Pagrindinės informacijos investuotojams dokumentas
+30 straipsnis. Neteko galios nuo 2022-01-01
 
-1. Pagrindinės informacijos investuotojams dokumente turi būti aiškiai nurodyti žodžiai „pagrindinė informacija investuotojams“ ir pateikiama visa investuotojams reikalinga informacija apie esmines kolektyvinio investavimo subjekto savybes, kurios pagrindu jie galėtų suprasti jiems siūlomo kolektyvinio investavimo subjekto esmę bei jam būdingą riziką ir galėtų priimti pagrįstus investicinius sprendimus.
+Straipsnio naikinimas:
 
-2. Siekiant, kad informaciją būtų galima palyginti, pagrindinės informacijos investuotojams dokumentas turi būti parengtas laikantis Europos Komisijos patvirtintos formos. Rengiant pagrindinės informacijos investuotojams dokumentą, taip pat turi būti vadovaujamasi 2010 m. liepos 1 d. Komisijos reglamentu (ES) Nr. 583/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl pagrindinės informacijos investuotojams ir dėl sąlygų, kurių reikia laikytis teikiant pagrindinę informaciją investuotojams ar prospektą patvariojoje laikmenoje, išskyrus popierių, arba svetainėje (OL 2010 L 176, p. 1), ir laikomasi priežiūros institucijos nustatyto pagrindinės informacijos investuotojams dokumento turinio ir formos reikalavimų.
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 
-3. Jeigu kitoje valstybėje narėje ar trečiojoje valstybėje įsteigtas suderintasis kolektyvinio investavimo subjektas ar jo valdymo įmonė yra gavę šio įstatymo 124 straipsnio 1 dalyje nustatytą pranešimą apie dokumentų perdavimą priežiūros institucijai, Lietuvos Respublikos investuotojams turi būti pateikiamas iš originalo kalbos į lietuvių kalbą be jokių pakeitimų ar papildymų išverstas pagrindinės informacijos investuotojams dokumentas.
+Straipsnio pakeitimai:
 
-4. Pagrindinės informacijos investuotojams dokumentas laikomas ikisutartine informacija. Jame pateikta informacija turi būti teisinga, aiški ir neklaidinanti ir turi atitikti prospekte esančią informaciją.
-
-5. Vadovaujantis vien pagrindinės informacijos investuotojams dokumente ar jo vertime pateikta informacija, civilinė atsakomybė valdymo įmonei neatsiranda, išskyrus atvejį, kai dokumente pateikta informacija yra klaidinanti, netiksli ar neatitinka prospekte pateiktos informacijos. Apie tai turi būti aiškiai įspėta pagrindinės informacijos investuotojams dokumente.
-
-6. Priežiūros institucija detalizuoja pagrindinės informacijos investuotojams dokumento turinio, formos ir jo pateikimo investuotojams tvarkos reikalavimus.
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 
 31 straipsnis. Pagrindinės informacijos investuotojams dokumento pateikimo tvarka
 
-1. Valdymo įmonė, prieš sudarydama su investuotoju susitarimą dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų pardavimo, privalo investuotojui pateikti atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Jeigu kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos valdymo įmonės vardu platinami per tarpininkus, valdymo įmonė privalo užtikrinti, kad atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentas būtų pateiktas investuotojui prieš sudarant su juo susitarimą dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų pardavimo.
+Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, turi būti vadovaujamasi Reglamente (ES) Nr. 1286/2014 nustatytais reikalavimais.
 
-2. Valdymo įmonė privalo investicinių produktų teikėjų ir tarpininkų, kurie platina atitinkamo kolektyvinio investavimo subjekto investicinius vienetus ar akcijas ne valdymo įmonės vardu arba konsultuoja investavimo į kolektyvinio investavimo subjektus ar produktus, sudarančius galimybę investuoti į šiuos kolektyvinio investavimo subjektus, klausimais, prašymu pateikti jiems atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą.
+Straipsnio pakeitimai:
 
-3. Šio straipsnio 2 dalyje nurodyti tarpininkai privalo investuotojams pateikti pagrindinės informacijos investuotojams dokumentą šiame straipsnyje nustatyta tvarka.
-
-4. Valdymo įmonė pagrindinės informacijos investuotojams dokumentą turi nemokamai pateikti investuotojui patvariojoje laikmenoje, pateikdama nuorodą į interneto svetainę arba investuotojo prašymu pateikti popieriuje išspausdintą pagrindinės informacijos investuotojams dokumento kopiją.
-
-5. Valdymo įmonė privalo nuolat atnaujinti pagrindinės informacijos investuotojams dokumentą ir naujausią šio dokumento versiją skelbti savo interneto svetainėje.
-
-6. Valdymo įmonė privalo pagrindinės informacijos investuotojams dokumentą ir visus jo pakeitimus nedelsdama, ne vėliau kaip per 3 darbo dienas, pateikti priežiūros institucijai.
-
-31 straipsnio redakcija nuo 2022-01-01:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 
 32 straipsnis. Informavimas apie esminius kolektyvinio investavimo subjekto steigimo dokumentų ir prospekto pakeitimus
 
@@ -2620,7 +2618,7 @@ PRIEŽIŪROS INSTITUCIJA, JOS FUNKCIJOS IR TEISĖS
 
 4) nuolat atnaujina ir savo interneto svetainėje lietuvių ir anglų kalbomis skelbia kolektyvinio investavimo subjektų steigimą ir veiklą reglamentuojančius Lietuvos Respublikos įstatymus ir kitus teisės aktus;
 
-5) atlieka kitas šiame ir kituose įstatymuose, taip pat Reglamente (ES) 2017/1131, Reglamente (ES) 2019/1156 ir Reglamente (ES) 2019/2088 nustatytas funkcijas.
+5) atlieka kitas šiame ir kituose įstatymuose, taip pat Reglamente (ES) 2017/1131, Reglamente (ES) 2019/1156, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 nustatytas funkcijas.
 
 Straipsnio punkto pakeitimai:
 
@@ -2659,8 +2657,6 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 4) atkurti prieš pažeidžiant teisės aktus buvusią padėtį;
 
 5) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą;
-
-TAR pastaba. 164 straipsnio 3 dalies 5 punktas įsigalioja 2022 m. sausio 1 d.
 
 Straipsnio punkto pakeitimai:
 
@@ -2803,8 +2799,6 @@ priedas
 5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
 
 6. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1) su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156 (OL 2019 L 188, p. 55).
-
-TAR pastaba. 6 punktas įsigalioja 2022 m. sausio 1 d.
 
 Punkto pakeitimai:
 
@@ -3792,15 +3786,17 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 8) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (ES) Nr. 1286/2014 ir Reglamente (ES) 2019/1156 nustatytus reikalavimus;
 
-TAR pastaba. 171 straipsnio 1 dalies 8 punktas įsigalioja 2022 m. sausio 1 d.
-
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 
-81) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (ES) 2019/2088 nustatytus reikalavimus;
+81) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (ES) 2019/2088 ar Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose nustatytus reikalavimus;
 
 Papildyta straipsnio punktu:
+
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
+
+Straipsnio punkto pakeitimai:
 
 Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
 
