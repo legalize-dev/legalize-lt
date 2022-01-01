@@ -4,7 +4,7 @@ identifier: "TAR.72C31F8DD98E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 58-1704, i. k. 1001010ISTAIII-1764
 
@@ -30,11 +30,19 @@ NEKILNOJAMOJO TURTO KADASTRO
 
 4 straipsnis. Nekilnojamojo turto kadastro tvarkymas
 
-1. Nekilnojamojo turto kadastrą tvarko Vyriausybės įsteigta valstybės įmonė Kadastro tvarkytojas.
+1. Nekilnojamojo turto kadastro tvarkytojas (toliau – Kadastro tvarkytojas) paskiriamas Vyriausybės priimtu teisės aktu, kuriuo tvirtinami Nekilnojamojo turto kadastro nuostatai (toliau – Kadastro nuostatai).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 2. Kadastro tvarkytojas įstatymų nustatyta tvarka atsako, kad nekilnojamojo turto kadastre kaupiami duomenys atitiktų dokumentus, kurių pagrindu jie buvo įrašyti, ir už šių duomenų apsaugą.
 
-3. Nekilnojamųjų daiktų kadastro duomenis į nekilnojamojo turto kadastrą įrašo Kadastro tvarkytojo darbuotojai, turintys Nekilnojamojo turto kadastro nuostatų (toliau – Kadastro nuostatai) nustatyta tvarka suteiktą kvalifikaciją. Kadastro nuostatus tvirtina Vyriausybė.
+3. Nekilnojamųjų daiktų kadastro duomenis į nekilnojamojo turto kadastrą įrašo Kadastro tvarkytojas Kadastro nuostatų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 4. Lietuvos Respublikos žemės ūkio ministerija formuoja valstybės politiką Nekilnojamojo turto kadastro srityje.
 
@@ -106,11 +114,19 @@ Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
 
 10) saugomos teritorijos, kurioje yra kultūros paminklų ir kultūros vertybių, duomenys;
 
-11) žemės sklypo vertės, nustatytos Vyriausybės nustatyta tvarka; verčių nustatymo datos;
+11) žemės sklypo vidutinė rinkos vertė, nustatyta Vyriausybės nustatyta tvarka; vertės nustatymo data;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 12) įsigijimo kaina ir įsigijimo data;
 
-13) žemės sklypo ribų posūkio taškų koordinatės valstybinėje koordinačių sistemoje;
+13) žemės sklypo ribų posūkio taškų ir riboženklių koordinatės valstybinėje koordinačių sistemoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 14) žemės sklypo kadastro duomenų nustatymo data;
 
@@ -258,11 +274,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
 
-4. Fizinis asmuo, pageidaujantis gauti matininko kvalifikacijos pažymėjimą, Vyriausybės įgaliotai institucijai pateikia prašymą ir dokumentus, įrodančius kvalifikacijos atitiktį. Matininko kvalifikacijos pažymėjimas išduodamas arba rašytinis motyvuotas atsisakymas išduoti kvalifikacijos pažymėjimą pareiškėjui pateikiamas ne vėliau kaip per 30 dienų nuo dokumentų, reikalingų kvalifikacijos pažymėjimui išduoti, gavimo dienos. Matininko kvalifikacijos pažymėjimas išduodamas Vyriausybės įgaliotos institucijos nustatyta tvarka.
+4. Fizinis asmuo, pageidaujantis gauti matininko kvalifikacijos pažymėjimą, Vyriausybės įgaliotai institucijai pateikia prašymą ir dokumentus, įrodančius kvalifikacijos atitiktį. Matininko kvalifikacijos pažymėjimas išduodamas arba rašytinis motyvuotas atsisakymas išduoti kvalifikacijos pažymėjimą pareiškėjui pateikiamas ne vėliau kaip per 30 dienų nuo dokumentų, reikalingų kvalifikacijos pažymėjimui išduoti, gavimo dienos. Matininko kvalifikacijos pažymėjimas išduodamas Vyriausybės nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 5. Neteko galios nuo 2016-05-01
 
@@ -302,7 +320,11 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1832, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10582
 
-7. Matininkas, parengęs įstatymų ir kitų teisės aktų nustatytus nekilnojamojo turto kadastro dokumentus, pasirašydamas juose patvirtina, kad parengti dokumentai atitinka įstatymų ir kitų teisės aktų, reglamentuojančių nekilnojamųjų daiktų kadastrinius matavimus, reikalavimus.
+7. Matininkas, parengęs įstatymų ir kitų teisės aktų nustatytus nekilnojamojo daikto kadastro duomenų byloje komplektuojamus dokumentus, pasirašydamas juose patvirtina, kad parengti dokumentai atitinka įstatymų ir kitų teisės aktų, reglamentuojančių nekilnojamųjų daiktų kadastrinius matavimus, reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 8. Matininkas privalo:
 
@@ -316,11 +338,19 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
 
-4) Vyriausybės nustatyta tvarka teikti informaciją suinteresuotiesiems asmenims dėl savo parengtų nekilnojamojo turto kadastro dokumentų;
+4) Vyriausybės nustatyta tvarka teikti informaciją suinteresuotiesiems asmenims dėl savo parengtų nekilnojamojo daikto kadastro duomenų byloje komplektuojamų dokumentų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 5) atlikti kitas teisės aktų nustatytas pareigas.
 
-9. Matininko veiklos pažeidimu laikoma, kai matininkas nesilaiko šio straipsnio 8 dalyje nustatytų jo veiklos reikalavimų.
+9. Matininko veiklos pažeidimu laikoma, kai matininkas nesilaiko šio straipsnio 8 dalyje nustatytų jo veiklos reikalavimų. Šio straipsnio 10 ir 12 dalyse numatytos poveikio priemonės matininkui už jo veiklos pažeidimą gali būti taikomos ne vėliau kaip per penkerius metus nuo pažeidimo padarymo dienos. Trunkamojo pažeidimo atveju penkerių metų terminas, per kurį matininkui gali būti taikomos atitinkamos poveikio priemonės, skaičiuojamas nuo pažeidimo paaiškėjimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 10. Vyriausybės įgaliotai institucijai nustačius nešiurkštų matininko veiklos pažeidimą, matininkas įspėjamas, kad ne vėliau kaip per 20 darbo dienų nuo įspėjimo gavimo dienos turi pašalinti nustatytą pažeidimą ir pateikti šio pažeidimo pašalinimo įrodymo dokumentus. Nešiurkščiu pažeidimu laikomas toks įstatymų, kitų teisės aktų, reglamentuojančių nekilnojamųjų daiktų kadastro duomenų nustatymą, pažeidimas, kuris nesukelia pagrindo žalai tretiesiems asmenims atsirasti ir kurį pašalinti gali pats matininkas. Matininko kvalifikacijos pažymėjimo galiojimas sustabdomas 3 mėnesiams, jeigu iki termino, per kurį turėjo pašalinti pažeidimus, pabaigos matininkas nepateikė pažeidimų pašalinimo įrodymo dokumentų.
 
@@ -366,7 +396,11 @@ Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
 
 14. Matininko kvalifikacijos pažymėjimų išdavimo, galiojimo sustabdymo, galiojimo panaikinimo taisykles tvirtina Vyriausybė.
 
-15. Matininko veiklos kontrolę vykdo Vyriausybės įgaliota institucija.
+15. Matininko veiklos priežiūrą vykdo Vyriausybės įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 16. Matininkas už neteisėtais veiksmais kitiems asmenims padarytą žalą nustatant nekilnojamųjų daiktų kadastro duomenis atsako Darbo kodekso ir šio įstatymo nustatyta tvarka.
 
@@ -384,9 +418,7 @@ Nr. XI-924, 2010-06-22, Žin., 2010, Nr. 76-3870 (2010-06-30)
 
 Nr. XII-421, 2013-06-27, Žin., 2013, Nr. 76-3838 (2013-07-16)
 
-14 straipsnis. Kadastro tvarkytojo teisė atsisakyti įrašyti nekilnojamojo daikto
-
-kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti
+14 straipsnis. Kadastro tvarkytojo teisė atsisakyti įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti
 
 Kadastro tvarkytojas atsisako įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti, jeigu prašymo nagrinėjimo metu nustatoma nors viena iš šių aplinkybių:
 
@@ -398,7 +430,25 @@ Kadastro tvarkytojas atsisako įrašyti nekilnojamojo daikto kadastro duomenis �
 
 4) nekilnojamojo daikto kadastro duomenų byla neatitinka šio Įstatymo reikalavimų;
 
-5) šio Įstatymo 17 straipsnio 4 dalyje nustatyta tvarka negalima nekilnojamojo daikto pažymėti kadastro žemėlapyje.
+5) šio Įstatymo 17 straipsnio 4 dalyje nustatyta tvarka negalima nekilnojamojo daikto pažymėti nekilnojamojo turto kadastro žemėlapyje;
+
+6) nepateikta teisės aktų nustatyta tvarka parengta nekilnojamojo daikto kadastro duomenų byla, išskyrus šio įstatymo 12 straipsnio 4 dalyje nurodytus atvejus;
+
+7) nepateikti šio įstatymo 12 straipsnio 1 dalyje nurodyti dokumentai dėl nekilnojamojo daikto kadastro duomenų įrašymo į nekilnojamojo turto kadastrą ar jų pakeitimo, išskyrus šio įstatymo 12 straipsnio 3 dalyje nurodytą atvejį;
+
+8) šio Įstatymo 9 straipsnio 2 dalyje nustatytais atvejais nepakeisti žemės sklypo kadastro duomenys;
+
+9) įstatymuose ir Kadastro nuostatuose nenumatyta galimybė nekilnojamojo daikto kadastro duomenis įrašyti į nekilnojamojo turto kadastrą ar juos pakeisti;
+
+10) jau yra priimtas Kadastro tvarkytojo sprendimas atsisakyti įrašyti tuos pačius nekilnojamojo daikto kadastro duomenis ar juos pakeisti tų pačių dokumentų pagrindu;
+
+11) dokumentas, kurio pagrindu prašoma įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti, neatitinka teisės aktų nustatytų reikalavimų;
+
+12) nesumokėtas Vyriausybės nustatytas atlyginimas už nekilnojamojo daikto kadastro duomenų įrašymą į nekilnojamojo turto kadastrą ar jų pakeitimą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 15 straipsnis. Kadastro tvarkytojo sprendimų apskundimas
 
@@ -428,7 +478,7 @@ Nekilnojamojo turto kadastras reorganizuojamas ir likviduojamas įstatymu. Likvi
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -946,13 +996,21 @@ Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 6) sodininkų bendrijoms priskirtų mėgėjų sodo teritorijų ribų, sodininkų bendrijų pavadinimų ir kodų;
 
-7) žemės sklypų ribų, šių ribų posūkio taškų koordinačių valstybinėje koordinačių sistemoje ir jų unikalių bei kadastro numerių;
+7) žemės sklypų ribų, šių ribų posūkio taškų ir riboženklių koordinačių valstybinėje koordinačių sistemoje ir jų unikalių bei kadastro numerių;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 8) pastatų kontūrų ar centro taškų koordinačių valstybinėje koordinačių sistemoje ir unikalių numerių;
 
 9) inžinerinių statinių (tiesinių) kontūrų ar ašinių linijų, jų pradžios, pabaigos ir posūkio taškų koordinačių valstybinėje koordinačių sistemoje ir unikalių numerių;
 
-10) nekilnojamojo daikto rinkos verčių, nustatytų masinio vertinimo būdu, zonų, pavadinimų, kodų;
+10) nekilnojamųjų daiktų vidutinių rinkos verčių, nustatytų masinio vertinimo būdu, zonų, pavadinimų, kodų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 11) jūrinės teritorijos ribų, pavadinimo, unikalaus skaitmeninio kodo.
 
@@ -1020,7 +1078,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
-4. Nekilnojamojo daikto kadastriniai matavimai – veiksmai, kuriais nustatoma nekilnojamojo daikto tapatybė, žemės sklypo ribų posūkio taškų ir statinių fizinių ribų koordinatės, geometriniai matmenys ir techniniai nekilnojamųjų daiktų parametrai, apskaičiuojamas žemės sklypo ir jame esančių žemės naudmenų plotas ir kiti šį daiktą apibūdinantys kadastro duomenys.
+4. Nekilnojamojo daikto kadastriniai matavimai – veiksmai, kuriais nustatoma nekilnojamojo daikto tapatybė, žemės sklypo ribų posūkio taškų ir riboženklių bei statinių fizinių ribų koordinatės valstybinėje koordinačių sistemoje, nekilnojamojo daikto geometriniai matmenys ir techniniai parametrai, apskaičiuojamas žemės sklypo ir jame esančių žemės naudmenų plotas ir kiti šį daiktą apibūdinantys kadastro duomenys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -1090,7 +1152,11 @@ Nr. XI-924, 2010-06-22, Žin., 2010, Nr. 76-3870 (2010-06-30)
 
 1. Nekilnojamojo turto kadastras steigiamas nekilnojamųjų daiktų kadastro duomenims kaupti, oficialiai informacijai apie kadastre sukauptus duomenis teikti.
 
-2. Nekilnojamojo turto kadastre įrašyti duomenys kaupiami ir saugomi Nekilnojamojo turto registro centriniame duomenų banke.
+2. Nekilnojamojo turto kadastre įrašyti duomenys kaupiami ir saugomi Nekilnojamojo turto registro duomenų bazėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 3. Nekilnojamojo daikto kadastro duomenų įrašymas į nekilnojamojo turto kadastrą yra laikomas nekilnojamojo daikto įregistravimu Nekilnojamojo turto registre.
 
@@ -1142,7 +1208,11 @@ Nr. XII-421, 2013-06-27, Žin., 2013, Nr. 76-3838 (2013-07-16)
 
 5) parengiamas žemės sklypo planas;
 
-6) apskaičiuojama žemės sklypo vertė Vyriausybės nustatyta tvarka;
+6) neteko galios nuo 2022-01-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 7) užpildoma žemės sklypo kadastro duomenų forma;
 
@@ -1216,9 +1286,7 @@ Nr. XII-1832, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10582
 
 4) kitais teisės aktų nustatytais atvejais.
 
-12 straipsnis. Nekilnojamojo daikto kadastro duomenų įrašymo į nekilnojamojo
-
-turto kadastrą ir jų pakeitimo teisiniai pagrindai
+12 straipsnis. Nekilnojamojo daikto kadastro duomenų įrašymo į nekilnojamojo turto kadastrą ir jų pakeitimo teisiniai pagrindai
 
 1. Atskiru nekilnojamojo turto kadastro objektu formuojamo nekilnojamojo daikto kadastro duomenų įrašymo į nekilnojamojo turto kadastrą ir jų pakeitimo dokumentai yra:
 
@@ -1228,25 +1296,35 @@ turto kadastrą ir jų pakeitimo teisiniai pagrindai
 
 3) rašytiniai sandoriai;
 
-4) kitų valstybės kadastrų ir registrų dokumentai;
+4) kitų valstybės kadastrų ir registrų duomenys, informacija, kadastrams ir registrams pateikti dokumentai;
 
 5) kiti įstatymų ir Vyriausybės nustatyti dokumentai.
 
-2. Kartu su dokumentais dėl nekilnojamojo daikto kadastro duomenų įrašymo į nekilnojamojo turto kadastrą ar jų pakeitimo, išskyrus atvejus, nurodytus šio straipsnio 3 dalyje, Kadastro tvarkytojui turi būti pateikiamas prašymas įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ir nekilnojamojo daikto kadastro duomenų byla.
+2. Kartu su prašymu įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti Kadastro tvarkytojui turi būti pateikti šio straipsnio 1 dalyje nurodyti dokumentai dėl nekilnojamojo daikto kadastro duomenų įrašymo į nekilnojamojo turto kadastrą ar jų pakeitimo ir nekilnojamojo daikto kadastro duomenų byla. Dokumentų dėl nekilnojamojo daikto kadastro duomenų įrašymo į nekilnojamojo turto kadastrą ar jų pakeitimo pateikti nereikia šio straipsnio 3 dalyje nurodytu atveju, o nekilnojamojo daikto kadastro duomenų bylos – šio straipsnio 4 dalyje nurodytais atvejais.
 
 3. Kai prašoma nekilnojamojo turto kadastre pakeisti nekilnojamojo daikto kadastro duomenis dėl skirtingo tikslumo kadastrinių matavimų, Kadastro tvarkytojas šiuos duomenis pakeičia pagal nekilnojamojo daikto kadastro duomenų bylą Kadastro nuostatų nustatyta tvarka.
 
-4. Kadastro tvarkytojui pateikiamų dokumentų sąrašą, kai yra prašoma įrašyti į nekilnojamojo turto kadastrą duomenis apie statinius, kurie buvo įgyti ar pastatyti iki 1991 m. liepos 25 d., nustato Vyriausybė.
+4. Kai prašoma nekilnojamojo turto kadastre įrašyti ir (ar) pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) žemės sklypo naudojimo būdą, Kadastro tvarkytojas šiuos duomenis įrašo ir (ar) pakeičia pagal pateiktą šio straipsnio 1 dalyje nurodytą dokumentą.
+
+5. Kadastro tvarkytojui pateikiamų dokumentų sąrašą, kai yra prašoma įrašyti į nekilnojamojo turto kadastrą duomenis apie statinius, kurie buvo įgyti ar pastatyti iki 1991 m. liepos 25 d., nustato Vyriausybė.
 
 Straipsnio pakeitimai:
 
 Nr. XI-998, 2010-07-02, Žin., 2010, Nr. 84-4407 (2010-07-15)
 
+Straipsnio pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
+
 13 straipsnis. Nekilnojamojo daikto kadastro duomenų įrašymas į nekilnojamojo
 
 turto kadastrą ir jų pakeitimas
 
-1. Nekilnojamojo daikto kadastro duomenys įrašomi į nekilnojamojo turto kadastrą ir pakeičiami pagal nekilnojamojo daikto buvimo vietą Kadastro nuostatų nustatyta tvarka.
+1. Nekilnojamojo daikto kadastro duomenys įrašomi į nekilnojamojo turto kadastrą ir pakeičiami Kadastro nuostatų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 2. Prašymą įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti pateikia nekilnojamojo daikto savininkas ar patikėjimo teise valdantis nekilnojamąjį daiktą asmuo, išskyrus šio Įstatymo 9 straipsnio 4 dalyje ir Specialiųjų žemės naudojimo sąlygų įstatymo 9 straipsnyje nustatytus atvejus, kai nekilnojamojo turto kadastre įrašyti duomenys Kadastro nuostatuose nustatyta tvarka keičiami atitinkamai šioje dalyje nurodytuose straipsniuose nustatytų institucijų teikimu ar asmenų prašymu. Keičiant nekilnojamojo turto kadastre įrašytus žemės sklypų kadastro duomenis, kai Kadastro nuostatuose nustatyta tvarka įrašomas sodininkų bendrijos, kurioje yra mėgėjų sodo sklypas, pavadinimas ir kodas, prašymą įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti Kadastro nuostatuose nustatyta tvarka gali pateikti sodininkų bendrijos pirmininkas, jo įgaliotas asmuo arba sodininkų bendrijos valdyba, jeigu ji yra sudaryta. Kai nekilnojamojo daikto kadastro duomenys į nekilnojamojo turto kadastrą įrašomi ar pakeičiami mokesčių administravimo tikslais, prašymą įrašyti ar pakeisti kadastro duomenis pateikia mokesčių administratorius.
 
@@ -1292,7 +1370,11 @@ Nr. XII-421, 2013-06-27, Žin., 2013, Nr. 76-3838 (2013-07-16)
 
 19 straipsnis. Naudojimasis nekilnojamojo turto kadastre įrašytais duomenimis
 
-1. Nekilnojamojo turto kadastre įrašyti duomenys kaupiami, saugomi ir teikiami iš Nekilnojamojo turto registro centrinio duomenų banko. Nekilnojamojo turto registro įstatyme nustatyta nekilnojamojo turto registro duomenų teikimo tvarka mutatis mutandis taikoma ir nekilnojamojo turto kadastre įrašytų duomenų teikimui.
+1. Nekilnojamojo turto kadastre įrašyti duomenys kaupiami, saugomi ir teikiami iš Nekilnojamojo turto registro duomenų bazės. Nekilnojamojo turto registro įstatyme nustatyta Nekilnojamojo turto registro duomenų teikimo tvarka mutatis mutandis taikoma ir teikiant nekilnojamojo turto kadastre įrašytus duomenis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 2. Nekilnojamojo turto kadastre įrašytų duomenų suvestines rengia Kadastro tvarkytojas Kadastro nuostatų nustatyta tvarka.
 
