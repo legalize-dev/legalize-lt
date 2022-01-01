@@ -4,7 +4,7 @@ identifier: "TAR.ED38F243563C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
-
-TAR pastaba. Įsigaliojus (2021-07-01) Įstatymui Nr. XIV-217, be atskiro asmens prašymo Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos nuo šio įstatymo įsigaliojimo dienos atnaujina Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų mokėjimą asmenims, kuriems šių pensijų mokėjimas buvo sustabdytas vadovaujantis iki šio įstatymo įsigaliojimo galiojusio Lietuvos Respublikos valstybinių pensijų įstatymo 5 straipsnio 5 dalimi.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-217, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06556
-
-Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 5 ir 15-1 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMAS
 
@@ -123,7 +115,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2514, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20671
 
-Kiekvienos šio įstatymo 1 straipsnio 1 dalies 1–4 punktuose nurodytos ir pagal šio įstatymo 2 straipsnį indeksuotos valstybinės pensijos dydis (pareigūnų ir karių valstybinių pensijų – kartu su mokamu priedu už tarnybą) bei pagal šio įstatymo 2 straipsnį indeksuoto šios pensijos dydžio (pareigūnų ir karių valstybinių pensijų – kartu su mokamu priedu už tarnybą) ir tam pačiam asmeniui paskirtų pagal šio straipsnio 1 dalį valstybinių pensijų ir socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Lietuvos statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) 1,1637 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.
+Kiekvienos šio įstatymo 1 straipsnio 1 dalies 1–4 punktuose nurodytos ir pagal šio įstatymo 2 straipsnį indeksuotos valstybinės pensijos dydis (pareigūnų ir karių valstybinių pensijų – kartu su mokamu priedu už tarnybą) bei pagal šio įstatymo 2 straipsnį indeksuoto šios pensijos dydžio (pareigūnų ir karių valstybinių pensijų – kartu su mokamu priedu už tarnybą) ir tam pačiam asmeniui pagal šio straipsnio 1 dalį paskirtų valstybinių pensijų, socialinio draudimo pensijų ir vienišo asmens išmokos bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio, buvusio prieš tą mėnesį, už kurį mokama valstybinė pensija, Lietuvos statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) 1,1637 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.
 
 Straipsnio dalies pakeitimai:
 
@@ -132,6 +124,8 @@ Nr. XII-2514, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20671
 Nr. XIII-1351, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11453
 
 Nr. XIV-81, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28362
+
+Nr. XIV-355, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13158
 
 Susidarius valstybinės pensijos, kurios skyrimas ir (ar) mokėjimas siejamas su asmens draudžiamosiomis pajamomis, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, permokai dėl to, kad valstybinės pensijos gavėjas turėjo šių pajamų už tą laikotarpį, per kurį jam buvo paskirta ir mokėta pensija, taip pat, jeigu gavėjui socialinio draudimo ir (ar) valstybinė pensija paskirta už praėjusį laiką ar pasikeitė šių pensijų dydis už praėjusį laiką, kai buvo mokama valstybinė pensija ir buvo ar turėjo būti taikomas valstybinės pensijos ribojimas pagal šio straipsnio 3 dalį, permoka valstybinę pensiją mokančios institucijos vadovo (ar jo pavaduotojo) sprendimu išieškoma iš valstybinės pensijos gavėjo ne ginčo tvarka.
 
@@ -853,7 +847,7 @@ Nr. VIII-189, 97.04.22, Žin., 1997, Nr.38-925 (97.05.02)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                               ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
