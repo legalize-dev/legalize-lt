@@ -4,7 +4,7 @@ identifier: "TAR.38E82AA2664C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
 
@@ -93,7 +93,11 @@ Centrinio registratoriaus funkcijos yra administruoti nekilnojamojo turto regist
 
 4) patalpos.
 
-2. Nekilnojamojo daikto įregistravimu nekilnojamojo turto registre yra laikomas Nekilnojamojo turto kadastro įstatymo nustatyta tvarka to daikto duomenų įrašymas į nekilnojamojo turto kadastrą. Registruojant nekilnojamąjį daiktą į nekilnojamojo turto registrą, padaromas nekilnojamojo daikto registro įrašas. Nekilnojamojo daikto kadastro duomenys kaupiami nekilnojamojo turto registro duomenų banke.
+2. Nekilnojamojo daikto įregistravimu nekilnojamojo turto registre yra laikomas Nekilnojamojo turto kadastro įstatymo nustatyta tvarka to daikto duomenų įrašymas į nekilnojamojo turto kadastrą. Registruojant nekilnojamąjį daiktą į nekilnojamojo turto registrą, padaromas nekilnojamojo daikto registro įrašas. Nekilnojamojo daikto kadastro duomenys kaupiami Nekilnojamojo turto registro duomenų bazėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-666, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24266
 
 3. Nekilnojamojo daikto registro įrašo sudarymo tvarką ir turinį nustato Nekilnojamojo turto registro nuostatai.
 
@@ -128,6 +132,18 @@ Centrinio registratoriaus funkcijos yra administruoti nekilnojamojo turto regist
 6) užstatymo teisė (superficies);
 
 7) ilgalaikė nuoma (emphyteusis);
+
+8) hipoteka (išskyrus Sutarčių ir teisių suvaržymų registre registruojamą Lietuvos Respublikos civilinio kodekso 1.98 straipsnio 3 dalyje ir 4.177 straipsnyje nurodyto turto hipoteką, taip pat 4.184 straipsnyje nurodytą sąlyginę hipoteką);
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
+
+9) turtinės teisės į nekilnojamąjį daiktą įkeitimas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
 
 2. Nekilnojamojo turto registre neregistruojamos įstatymų nustatytos daiktinės teisės.
 
@@ -199,7 +215,11 @@ Daiktinės teisės į nekilnojamąjį daiktą nekilnojamojo turto registre regis
 
 12) civilinių bylų dėl įregistruoto nekilnojamojo daikto teisinio statuso iškėlimą;
 
-13) hipoteką;
+13) notaro vykdomojo įrašo atlikimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
 
 14) sandoriuose numatytus daiktinių teisių į nekilnojamuosius daiktus suvaržymus;
 
@@ -229,7 +249,11 @@ Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
 
 4. Nekilnojamojo turto registre įregistruotų daiktinių teisių į nekilnojamąjį daiktą ir juridinių faktų išregistravimo tvarką nustato Nekilnojamojo turto registro nuostatai.
 
-17 straipsnis. Informacija apie sudarytą ir patvirtintą nuosavybės teisės į nekilnojamąjį daiktą perleidimo sandorį
+17 straipsnis. Informacija apie sudarytus ir patvirtintus daiktinių teisių į nekilnojamąjį daiktą sandorius
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
 
 1. Notaras, patvirtinęs nuosavybės teisės į nekilnojamąjį daiktą perleidimo sandorį ar išdavęs paveldėjimo teisės liudijimą ir (ar) nuosavybės teisės liudijimą, nedelsdamas, bet ne vėliau kaip per vieną darbo dieną nuo sandorio patvirtinimo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo privalo perduoti Nekilnojamojo turto registro tvarkytojui šio sandorio pagrindinius duomenis, būtinus šio įstatymo 15 straipsnio 2 dalyje numatytai žymai. Perduodamų duomenų turinį ir perdavimo tvarką nustato Centrinio registratoriaus ir Lietuvos notarų rūmų sudaryta sutartis.
 
@@ -267,9 +291,13 @@ Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
 
 21 straipsnis. Nekilnojamojo daikto, daiktinių teisių į jį, šių teisių suvaržymų ir juridinių faktų registravimo vieta
 
-1. Nekilnojamasis daiktas registruojamas pagal daikto buvimo vietą Nekilnojamojo turto registro nuostatų nustatyta tvarka.
+1. Nekilnojamasis daiktas registruojamas Nekilnojamojo turto registro nuostatų nustatyta tvarka.
 
-2. Daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus ir juridinius faktus įregistruoja bet kuris Nekilnojamojo turto registro tvarkytojo teritorinis registratorius Nekilnojamojo turto registro nuostatų nustatyta tvarka.
+2. Daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus ir juridinius faktus registruoja bet kuris Nekilnojamojo turto registro tvarkytojo teritorinis registratorius Nekilnojamojo turto registro nuostatų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-666, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24266
 
 22 straipsnis. Daiktinių teisių į nekilnojamąjį daiktą, šių teisių suvaržymų ir juridinių faktų įregistravimo nekilnojamojo turto registre teisiniai pagrindai
 
@@ -329,7 +357,11 @@ Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
 
 26 straipsnis. Prašymų įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus nagrinėjimas ir sprendimų priėmimas
 
-1. Prašymas įregistruoti nuosavybės teisę į nekilnojamąjį daiktą turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per dešimt darbo dienų po prašymo padavimo dienos arba asmens prašymu – skubos tvarka, per vieną darbo dieną. Prašymas įregistruoti kitą daiktinę teisę, šios teisės suvaržymus, juridinius faktus turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per penkias darbo dienas po prašymo padavimo. Vyriausybės nustatyta tvarka asmens prašymas gali būti išnagrinėtas ir duomenys į Nekilnojamojo turto registro duomenų bazę įrašyti skubos tvarka.
+1. Prašymas įregistruoti daiktinę teisę į nekilnojamąjį daiktą, šios teisės suvaržymus, juridinius faktus turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per penkias darbo dienas po prašymo padavimo dienos, o kai kartu prašoma įregistruoti ir nekilnojamąjį daiktą arba pakeisti jo kadastro duomenis, – ne vėliau kaip per penkias darbo dienas nuo dienos, kurią baigiasi Nekilnojamojo turto kadastro nuostatuose nustatytas prašymų įregistruoti nekilnojamąjį daiktą ar pakeisti jo kadastro duomenis nagrinėjimo terminas. Asmens pageidavimu prašymas gali būti išnagrinėtas ir duomenys į Nekilnojamojo turto registro duomenų bazę įrašyti skubos tvarka – per tris, dvi arba vieną darbo dieną. Daiktinės teisės – hipoteka ir turtinės teisės į nekilnojamąjį daiktą įkeitimas – turi būti įregistruotos ne vėliau kaip per vieną darbo dieną nuo pranešimo apie patvirtintą hipotekos ar įkeitimo sandorį arba nustatytą priverstinę hipoteką ar priverstinį įkeitimą gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-666, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24266
 
 2. Prašymus įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus nagrinėja ir sprendimus priima teritorinio registratoriaus įgalioti darbuotojai.
 
@@ -465,15 +497,15 @@ Straipsnio pakeitimai:
 
 Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
 
-38 straipsnis. Nekilnojamojo turto registro, hipotekos registro, turto arešto aktų registro ir kitų valstybinės registrų keitimasis duomenimis
+38 straipsnis. Nekilnojamojo turto registro, turto arešto aktų registro ir kitų valstybės registrų keitimasis duomenimis
 
-1. Centrinis hipotekos registras Hipotekos registro nuostatų nustatyta tvarka duomenis apie nekilnojamojo daikto įkeitimo (hipotekos) įregistravimą ne vėliau kaip per 24 valandas perduoda Nekilnojamojo turto registro tvarkytojui. Nekilnojamojo turto registro centrinis duomenų bankas, pasikeitus įkeisto nekilnojamojo daikto duomenims nekilnojamojo turto registre, taip pat gavęs hipotekos teisėjo arba Centrinio hipotekos registro paklausimą, Nekilnojamojo turto registro nuostatų nustatyta tvarka ne vėliau kaip per 24 valandas perduoda duomenis apie nekilnojamojo daikto ir daiktinių teisių į jį statuso pasikeitimą Centriniam hipotekos registrui.
+1. Nekilnojamojo turto registro ir turto arešto aktų registro keitimosi duomenimis tvarka nustatyta šių registrų nuostatuose.
 
-2. Keitimosi kitais nekilnojamojo turto registro ir hipotekos registro duomenimis tvarką nustato šių registrų tvarkytojų susitarimas.
+2. Nekilnojamojo turto registro ir kitų valstybės registrų keitimosi duomenimis tvarka nustatyta įstatymuose ir šių registrų nuostatuose bei šių registrų tvarkytojų susitarimuose.
 
-3. Nekilnojamojo turto registro ir turto arešto aktų registro keitimosi duomenimis tvarką nustato šių registrų nuostatai.
+Straipsnio pakeitimai:
 
-4. Nekilnojamojo turto registro ir kitų valstybės registrų keitimosi duomenimis tvarką nustato įstatymai ir šių registrų nuostatai bei šių registrų tvarkytojų susitarimai.
+Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
 
 39 straipsnis. Nekilnojamojo turto registro dokumentų bylų formavimas
 
@@ -583,7 +615,7 @@ Nekilnojamojo turto registro integravimo į Lietuvos Respublikos kadastrų ir re
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -698,6 +730,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-248, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08859
 
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-666, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24266
+
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 9, 21 ir 26 straipsnių pakeitimo įstatymas
 
 47 straipsnis. Nekilnojamojo turto registro integravimas į Lietuvos Respublikos kadastrų ir registrų informacinę infrastruktūrą
 
