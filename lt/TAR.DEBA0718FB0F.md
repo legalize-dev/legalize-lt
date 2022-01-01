@@ -4,7 +4,7 @@ identifier: "TAR.DEBA0718FB0F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2021-09-18"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2021-09-18 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-28
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
 
@@ -538,7 +538,13 @@ VIDAUS VANDENŲ TRANSPORTO PERSONALAS
 
 3) asmenys, turintys budinčiojo kapitono padėjėjo, vyresniojo kapitono padėjėjo ir kapitono jūrinio laipsnio diplomus, valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone;
 
-4) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos arba paplūdimio administratoriaus nurodymu skęstančiųjų gelbėjimo darbus vykdantys juridinių asmenų darbuotojai (toliau šiame straipsnyje – darbuotojai), valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone jų darbo laiku skęstančiųjų gelbėjimo funkcijai, numatytai jų pareigybės aprašyme (nuostatuose) ir (ar) darbo sutartyje, atlikti darbdavio suteiktomis darbo priemonėmis. Darbdavys privalo užtikrinti, kad darbuotojai yra išmokyti saugiai valdyti motorinius pramoginius laivus ar kitas motorines plaukiojimo priemones.
+4) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos arba paplūdimio administratoriaus nurodymu skęstančiųjų gelbėjimo darbus vykdantys juridinių asmenų darbuotojai (toliau šiame straipsnyje – darbuotojai), valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone jų darbo laiku skęstančiųjų gelbėjimo funkcijai, numatytai jų pareigybės aprašyme (nuostatuose) ir (ar) darbo sutartyje, atlikti darbdavio suteiktomis darbo priemonėmis. Darbdavys privalo užtikrinti, kad darbuotojai yra išmokyti saugiai valdyti motorinius pramoginius laivus ar kitas motorines plaukiojimo priemones;
+
+5) vyresni negu 18 metų asmenys, vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone valdantys išsinuomotus iš asmenų, vykdančių asmeninių laivų nuomos veiklą, asmeninius laivus. Asmenys, vykdantys asmeninių laivų nuomos veiklą, atsako už šios veiklos vykdymą ir privalo užtikrinti, kad asmuo, ketinantis išsinuomoti asmeninį laivą, būtų pasirašytinai supažindintas su asmeninio laivo valdymu (asmeninio laivo įsibėgėjimo, stabdymo, posūkio darymo, variklio išjungimo pagrindais) ir teritorijos, kurioje plaukiojama išsinuomotais asmeniniais laivais, ribomis. Plaukiojimas išsinuomotais asmeniniais laivais gali būti organizuojamas tik pažymėtose ir kitiems vandenyje esantiems asmenims matomose vandens telkinių teritorijose, saugiu atstumu nuo pakrantės ar maudyklų. Asmenys, vykdantys asmeninių laivų nuomos veiklą, iki šios veiklos pradžios apie konkrečios vandens telkinio teritorijos, kurioje plaukiojama išnuomotais asmeniniais laivais, ribas raštu (asmeniškai, registruotąja pašto siunta arba elektroninių ryšių priemonėmis) informuoja Transporto saugos administraciją.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-664, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25030
 
 Straipsnio dalies pakeitimai:
 
@@ -1521,6 +1527,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-526, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19619
 
 Lietuvos Respublikos vidaus vandenų transporto kodekso 2, 3 ir 6 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-664, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25030
+
+Lietuvos Respublikos vidaus vandenų transporto kodekso 18 straipsnio pakeitimo įstatymas
 
 161 straipsnis. Vidaus vandenų transporto priemonių techninė apžiūra, techninis patikrinimas, Europos Sąjungos vidaus vandenų laivybos sertifikato ir laikinojo Europos Sąjungos vidaus vandenų laivybos sertifikato išdavimas
 
