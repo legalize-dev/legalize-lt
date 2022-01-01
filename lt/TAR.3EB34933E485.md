@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2021-05-28"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2021-05-28 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-03-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -1881,7 +1881,11 @@ Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 2) sudaryti su mokesčių mokėtoju hipotekos arba įkeitimo sutartį.
 
-2. Šio straipsnio 1 dalies 1 punkte numatytais atvejais mokesčių administratorius duomenis apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsdamas, ne vėliau kaip per 24 valandas, pateikia Hipotekos registrui ir priverstinė hipoteka (įkeitimas) įregistruojama Hipotekos registre Hipotekos registro nuostatų nustatyta tvarka.
+2. Šio straipsnio 1 dalies 1 punkte numatytais atvejais mokesčių administratorius duomenis apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsdamas, ne vėliau kaip per 24 valandas, pateikia priklausomai nuo įkeisto objekto – Nekilnojamojo turto registrui arba Sutarčių ir teisių suvaržymų registrui ir priverstinė hipoteka (įkeitimas) įregistruojama atitinkamai Nekilnojamojo turto registre arba Sutarčių ir teisių suvaržymų registre šio registro nuostatų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2733, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00108
 
 Straipsnio pakeitimai:
 
@@ -3113,7 +3117,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 LAIKINAI EINANTIS
 
-RESPUBLIKOS PREZIDENTO PAREIGAS                                 ARTŪRAS PAULAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                   ARTŪRAS PAULAUSKAS
 
 Lietuvos Respublikos
 
