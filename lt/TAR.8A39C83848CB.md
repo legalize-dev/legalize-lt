@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2021-07-30"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2021-07-30 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-04
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -559,7 +559,11 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597
 
-2. Rašytinės formos sandoriai sudaromi surašant vieną dokumentą, pasirašomą visų sandorio šalių, arba šalims apsikeičiant atskirais dokumentais. Rašytinės formos dokumentui prilyginami šalių pasirašyti dokumentai, perduoti telegrafinio, faksimilinio ryšio ar kitokiais telekomunikacijų galiniais įrenginiais, jeigu yra užtikrinta teksto apsauga ir galima identifikuoti parašą.
+2. Rašytinės formos sandoriai sudaromi surašant vieną dokumentą, pasirašomą visų sandorio šalių, arba šalims apsikeičiant atskirais dokumentais. Rašytinės formos dokumentui prilyginami šalių pasirašyti dokumentai, perduoti telekomunikacijų galiniais įrenginiais, jeigu yra užtikrinta teksto apsauga ir galima identifikuoti parašą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
 
 3. Šalys susitarimu gali nustatyti papildomų rašytinės sandorio formos reikalavimų (tam tikrų asmenų parašų buvimas, dokumento antspaudavimas, specialios formos dokumento surašymas ir t. t.) bei numatyti tokių papildomų reikalavimų nesilaikymo teisines pasekmes. Kai šalys šių reikalavimų nesilaiko, sandoris laikomas nesudarytu, jeigu šalių susitarimu nenustatyta ko kita.
 
@@ -1879,7 +1883,11 @@ Savaitėmis skaičiuojamas terminas pasibaigia atitinkamą paskutinės termino s
 
 1. Jeigu kuriam nors veiksmui atlikti yra nustatytas terminas, tai šis veiksmas turi būti atliktas iki paskutinės termino dienos dvidešimt ketvirtos valandos nulis minučių. Tačiau jeigu veiksmas turi būti atliktas organizacijoje, terminas baigiasi tą valandą, kurią šioje organizacijoje pagal nustatytas taisykles baigiasi darbo laikas.
 
-2. Visi rašytiniai pareiškimai ir pranešimai, įteikti paštui ar telegrafui arba perduoti kitomis ryšio priemonėmis iki paskutinės termino dienos dvidešimt ketvirtos valandos nulis minučių, laikomi atliktais laiku.
+2. Visi rašytiniai pareiškimai ir pranešimai, įteikti paštui arba perduoti ryšio priemonėmis iki paskutinės termino dienos dvidešimt ketvirtos valandos nulis minučių, laikomi atliktais laiku.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
 
 1.125 straipsnis. Ieškinio senaties terminai
 
@@ -1891,25 +1899,51 @@ Savaitėmis skaičiuojamas terminas pasibaigia atitinkamą paskutinės termino s
 
 4. Sutrumpintas trijų mėnesių ieškinio senaties terminas taikomas reikalavimams pripažinti juridinio asmens organų sprendimus negaliojančiais.
 
-5. Sutrumpintas šešių mėnesių ieškinio senaties terminas taikomas:
+5. Sutrumpintas šešių mėnesių ieškinio senaties terminas taikomas ieškiniams dėl netesybų (baudos, delspinigių) išieškojimo.
 
-1) ieškiniams dėl netesybų (baudos, delspinigių) išieškojimo;
+Straipsnio dalies pakeitimai:
 
-2) ieškiniams dėl parduotų daiktų trūkumų.
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
 6. Sutrumpintas šešių mėnesių ieškinio senaties terminas taikomas iš ryšių įmonių santykių su klientais atsirandantiems reikalavimams, jeigu siuntos buvo siunčiamos Lietuvoje, arba vienerių metų ieškinio senaties terminas, jeigu siuntos buvo siunčiamos į užsienį.
 
 7. Sutrumpintas vienerių metų ieškinio senaties terminas taikomas iš draudimo teisinių santykių atsirandantiems reikalavimams.
 
-8. Sutrumpintas trejų metų ieškinio senaties terminas taikomas reikalavimams dėl padarytos žalos atlyginimo, tarp jų ir reikalavimams atlyginti žalą, atsiradusią dėl netinkamos kokybės produkcijos.
+8. Sutrumpintas dvejų metų ieškinio senaties terminas taikomas reikalavimams dėl prekių, paslaugų ar skaitmeninio turinio trūkumų (netinkamos kokybės).
 
-9. Sutrumpintas penkerių metų ieškinio senaties terminas taikomas reikalavimams dėl palūkanų ir kitokių periodinių išmokų išieškojimo.
+Papildyta straipsnio dalimi:
 
-10. Reikalavimams dėl atliktų darbų trūkumų taikomi šio kodekso šeštojoje knygoje nustatyti sutrumpinti ieškinio senaties terminai.
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
-11. Iš krovinių, keleivių ir bagažo vežimo atsirandantiems reikalavimams taikomi atskirų transporto rūšių kodeksuose (įstatymuose) nustatyti ieškinio senaties terminai.
+9. Sutrumpintas trejų metų ieškinio senaties terminas taikomas reikalavimams dėl padarytos žalos atlyginimo, tarp jų ir reikalavimams atlyginti žalą, atsiradusią dėl netinkamos kokybės produkcijos.
 
-12. Šalių susitarimu pakeisti ieškinio senaties terminus ir jų skaičiavimo tvarką draudžiama.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+10. Sutrumpintas penkerių metų ieškinio senaties terminas taikomas reikalavimams dėl palūkanų ir kitokių periodinių išmokų išieškojimo.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+11. Reikalavimams dėl atliktų darbų trūkumų taikomi šio kodekso šeštojoje knygoje nustatyti sutrumpinti ieškinio senaties terminai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+12. Iš krovinių, keleivių ir bagažo vežimo atsirandantiems reikalavimams taikomi atskirų transporto rūšių kodeksuose (įstatymuose) nustatyti ieškinio senaties terminai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+13. Šalių susitarimu pakeisti ieškinio senaties terminus ir jų skaičiavimo tvarką draudžiama.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
 1.127 straipsnis. Ieškinio senaties termino pradžia
 
@@ -3833,61 +3867,67 @@ Bendrosios pirkėjo pareigos ir teisės
 
 3. Pardavėjo papildomos išlaidos, susijusios su daiktų perdavimu pirkėjui per tam tikrą terminą, įskaitomos į daiktų kainą, jeigu sutartis ar įstatymai nenumato ko kita.
 
-6.363 straipsnis. Daikto kokybė (atitiktis sutarčiai) ir pirkėjo teisės, kai jam parduotas netinkamos kokybės daiktas
+6.363 straipsnis. Prekių kokybės reikalavimai
 
-1. Laikoma, kad pardavėjas visais atvejais garantuoja daiktų kokybę (garantija pagal įstatymą).
+1. Pardavėjas privalo pristatyti vartotojui šiame straipsnyje nustatytus reikalavimus atitinkančias prekes.
 
-2. Parduodamas daiktas turi būti tinkamos kokybės, t. y. daikto savybės turi atitikti vartojimo pirkimo–pardavimo sutartį. Pardavėjas atsako pirkėjui už bet kokią daikto neatitiktį sutarčiai, esančią daikto perdavimo metu.
+2. Prekės turi atitikti visus šiuos reikalavimus, jeigu jie yra taikytini:
 
-3. Daikto savybės atitinka sutartį, jeigu:
+1) atitikti aprašymą, rūšį, kiekį ir kokybę ir turėti funkcionalumo, suderinamumo, sąveikumo ir kitas savybes, kaip numatyta pirkimo–pardavimo sutartyje;
 
-1) daiktas atitinka pardavėjo pateiktą aprašymą ir turi tokias savybes kaip ir daiktas, kurį pardavėjas pateikė kaip pavyzdį ar modelį;
+2) atitikti bet kokią konkrečią paskirtį, dėl kurios vartotojui reikia šių prekių, apie kurią vartotojas pranešė pardavėjui vėliausiai pirkimo–pardavimo sutarties sudarymo metu ir dėl kurios pardavėjas sutiko;
 
-2) daiktas tinka naudoti tam, kam tokios rūšies daiktai paprastai naudojami;
+3) būti pristatytos su visais priedais ir instrukcijomis (įskaitant įdiegimo instrukcijas), kaip numatyta pirkimo–pardavimo sutartyje;
 
-3) daiktas tinka naudoti pagal konkrečią paskirtį, apie kurią pirkėjas pranešė pardavėjui sutarties sudarymo metu ir su kuria pardavėjas sutiko;
+4) būti tiekiamos su naujiniais, kaip numatyta pirkimo–pardavimo sutartyje.
 
-4) daiktas atitinka kokybės rodiklius, kurie paprastai yra būdingi to paties pobūdžio daiktams ir kurių pirkėjas gali pagrįstai tikėtis pagal daikto pobūdį ir daikto gamintojo, jo atstovo ar pardavėjo viešai paskelbtus pareiškimus, įskaitant reklamą ir daiktų ženklinimą, dėl daikto konkrečių savybių.
+3. Prekės taip pat turi atitikti visus šiuos reikalavimus:
 
-4. Pardavėjo neįpareigoja šio straipsnio 3 dalies 4 punkte nurodyti vieši pareiškimai, jeigu jis įrodo, kad:
+1) atitikti paskirtį, dėl kurios tos rūšies prekės paprastai naudojamos, atsižvelgiant į taikomas teisės normas, techninius standartus, o jeigu jų nėra, – į elgesio kodeksus;
 
-1) apie atitinkamą pareiškimą nežinojo ir negalėjo žinoti;
+2) kai taikytina, būti tokios kokybės kaip pavyzdys ar modelis, kurį pardavėjas vartotojui pateikė iki sutarties sudarymo, ir atitikti to pavyzdžio ar modelio aprašymą;
 
-2) pareiškimas buvo ištaisytas iki sutarties sudarymo momento;
+3) kai taikytina, būti pristatytos kartu su tokiais priedais (įskaitant pakuotę, įdiegimo ar kitas instrukcijas), kuriuos gauti vartotojas gali pagrįstai tikėtis;
 
-3) sprendimui pirkti daiktą pareiškimas negalėjo turėti įtakos.
+4) atitikti kiekį ir turėti tokias savybes (įskaitant su patvarumu, funkcionalumu, suderinamumu ir saugumu susijusias savybes) ir ypatybes, kuriomis paprastai pasižymi tokios pat rūšies prekės ir kurių vartotojas gali pagrįstai tikėtis atsižvelgiant į prekių pobūdį ir į bet kokius pardavėjo ar kitų asmenų (įskaitant gamintoją) arba jų vardu pateiktus viešus pareiškimus, visų pirma, prekes reklamuojant ar jas ženklinant.
 
-5. Jeigu sutarties sudarymo metu pirkėjas žinojo arba negalėjo nežinoti apie tai, kad daiktas neatitinka sutarties, arba jeigu ši neatitiktis atsirado dėl pirkėjo pateiktų medžiagų, laikoma, kad daiktas buvo tinkamos kokybės.
+4. Šio straipsnio 3 dalies 4 punkte nurodyti vieši pareiškimai pardavėjo neįpareigoja, jeigu jis įrodo, kad yra bent viena iš šių sąlygų:
 
-6. Jeigu pirkimo–pardavimo sutartyje numatytas daikto instaliavimas, įrengimas ar montavimas ir daiktą instaliavo, įrengė ar sumontavo pardavėjas arba jo pasitelkti tretieji asmenys, bet koks dėl netinkamo daikto instaliavimo, įrengimo ar montavimo atsiradęs trūkumas prilyginamas daikto kokybės trūkumui. Ši taisyklė taip pat taikoma ir tais atvejais, kai daiktą turi instaliuoti, įrengti ar montuoti pirkėjas ir netinkamo instaliavimo, įrengimo ar montavimo priežastis yra instrukcijos trūkumai.
+1) pardavėjas nežinojo ir dėl pagrįstos priežasties negalėjo žinoti apie viešą pareiškimą;
 
-7. Pirkėjas, kuriam buvo parduotas netinkamos kokybės daiktas, savo pasirinkimu turi teisę per šio kodekso 6.338 straipsnyje nurodytą terminą:
+2) iki sutarties sudarymo momento viešas pareiškimas buvo pataisytas tokiu pat ar panašiu būdu, kokiu buvo pateiktas;
 
-1) reikalauti iš pardavėjo nemokamai pašalinti daikto trūkumus (pataisyti daiktą);
+3) viešas pareiškimas negalėjo turėti įtakos vartotojo sprendimui įsigyti prekę.
 
-2) reikalauti iš pardavėjo nemokamai pakeisti netinkamos kokybės daiktą tinkamos kokybės daiktu;
+5. Skaitmeninių elementų turinčių prekių pardavėjas turi užtikrinti, kad vartotojas būtų informuotas apie naujinius (įskaitant su saugumu susijusius naujinius), kurie yra būtini siekiant užtikrinti tinkamą šių prekių kokybę, ir kad šie naujiniai būtų teikiami:
 
-3) reikalauti iš pardavėjo atitinkamai sumažinti kainą;
+1) tokį laikotarpį, kokio vartotojas gali pagrįstai tikėtis atsižvelgiant į prekės rūšį ir paskirtį, skaitmeninius elementus bei sutarties aplinkybes ir pobūdį, kai pirkimo–pardavimo sutartyje numatytas vienkartinis skaitmeninio turinio ar skaitmeninės paslaugos teikimo veiksmas;
 
-4) vienašališkai nutraukti sutartį ir pareikalauti sugrąžinti sumokėtą kainą.
+2) šio kodekso 6.364 straipsnio 2 dalyje nurodytą laikotarpį, kai pirkimo–pardavimo sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį.
 
-8. Pirkėjas neturi teisės nutraukti sutarties, jeigu daikto trūkumas yra mažareikšmis. Pirkėjui nutraukus sutartį dėl daikto netinkamos kokybės, pardavėjas privalo nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo daikto grąžinimo dienos, grąžinti sumokėtą kainą. Netinkamos kokybės daikto grąžinimo išlaidos tenka pardavėjui. Pardavėjas, grąžindamas pirkėjui sumokėtą kainą, neturi teisės iš jos išskaičiuoti sumą, kuria sumažėjo daikto vertė dėl jo naudojimo ar daikto išvaizdos praradimo arba dėl kitokių aplinkybių.
+6. Jeigu vartotojas per protingą terminą neįdiegia pagal šio straipsnio 5 dalį pateiktų naujinių, pardavėjas nėra atsakingas už trūkumus, kuriuos lemia tik naujinio neįdiegimas, jeigu yra abi šios sąlygos:
 
-TAR pastaba. Nustatytas keturiolikos dienų terminas taikomas po įstatymo Nr. XIII-64 įsigaliojimo (2017-11-01) sudarytoms vartojimo pirkimo–pardavimo sutartims.
+1) pardavėjas informavo vartotoją apie naujinio prieinamumą ir pasekmes jo neįdiegus;
 
-Straipsnio dalies pakeitimai:
+2) vartotojas neįdiegia naujinio arba jį įdiegia netinkamai ne dėl jam pateiktų netikslių įdiegimo instrukcijų.
 
-Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
+7. Jeigu sudarant pirkimo–pardavimo sutartį vartotojas buvo aiškiai informuotas apie tai, kad konkreti prekės savybė neatitinka šio straipsnio 3 ar 5 dalyje nustatytų reikalavimų, ir jis, sudarydamas sutartį, aiškiai ir atskirai su tuo sutiko, laikoma, kad prekė yra tinkamos kokybės.
 
-9. Visais atvejais pirkėjas turi teisę į nuostolių, atsiradusių dėl netinkamos kokybės prekės pardavimo, atlyginimą. Nuostoliais laikomos ir prekės trūkumų pašalinimo išlaidos, jeigu, pardavėjui per protingą terminą jų nepašalinus, trūkumus pašalino pirkėjas ar jo pasitelkti tretieji asmenys.
+8. Pardavėjas yra atsakingas už trūkumus, atsiradusius dėl netinkamo prekių įdiegimo (instaliavimo, įrengimo ar montavimo), šiais atvejais:
 
-10. Pardavėjas atsako už daikto trūkumus, kurie išaiškėja per dvejus metus nuo daikto perdavimo, jeigu įstatymai ar sutartis nenumato ilgesnio termino. Šiame straipsnyje nustatytoms pirkėjo teisėms taikomas dvejų metų ieškinio senaties terminas.
+1) įdiegimas yra  pirkimo–pardavimo sutarties dalykas ir jį atliko pardavėjas arba jis už tai yra atsakingas;
 
-11. Jeigu neįrodoma kitaip, daikto trūkumai, išaiškėję per 6 mėnesius nuo daikto perdavimo, laikomi buvusiais perdavimo metu, išskyrus atvejus, kai tai yra nesuderinama su daikto ar jo trūkumo pobūdžiu.
+2) įdiegimą turėjo atlikti vartotojas ir tai buvo padaryta netinkamai dėl netikslių įdiegimo instrukcijų, kurias pateikė pardavėjas, o skaitmeninių elementų turinčių prekių netinkamo įdiegimo atveju – pardavėjas ar skaitmeninio turinio ar skaitmeninės paslaugos teikėjas.
+
+9. Jeigu dėl kitų asmenų intelektinės nuosavybės ar kitų teisių pažeidimo panaikinama ar apribojama vartotojo galimybė naudotis preke, vartotojas gali ginti savo teises vadovaudamasis šio kodekso 6.3641 straipsnio nuostatomis.
 
 Straipsnio pakeitimai:
 
 Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
+
+Straipsnio pakeitimai:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
 6.366 straipsnis. Neteko galios nuo 2014-06-13.
 
@@ -4837,13 +4877,9 @@ Nr. XII-396, 2013-06-20, Žin., 2013, Nr. 73-3654 (2013-07-09)
 
 4. Kreditorius privalo išieškojimą vykdyti kuo ekonomiškiau ir negali nepagrįstai praturtėti skolininko (įkaito davėjo) sąskaita.
 
-5. Nuo vykdomojo įrašo įregistravimo Hipotekos registre dienos skolininkas (įkaito davėjas) turi teisę perleisti hipotekos objektą tik kreditoriaus sutikimu. Kreditorius, įsitikinęs skolininko pasiūlyto pirkėjo mokumu, privalo duoti sutikimą sudaryti perleidimo sandorį, jeigu įkeisto daikto pardavimo kaina atitinka hipoteka užtikrinto pagrindinio reikalavimo ir iš šio reikalavimo atsirandančių palūkanų dydį. Pardavus įkeistą daiktą gautų lėšų suma, reikalinga hipotekos kreditoriaus reikalavimui patenkinti, turi būti pervesta į notaro, tvirtinančio perleidimo sandorį, depozitinę sąskaitą.
+5. Nuo duomenų apie vykdomąjį įrašą įrašymo viešame registre dienos skolininkas (įkaito davėjas) turi teisę perleisti hipotekos objektą tik kreditoriaus sutikimu. Kreditorius, įsitikinęs skolininko pasiūlyto pirkėjo mokumu, privalo duoti sutikimą sudaryti perleidimo sandorį, jeigu įkeisto daikto pardavimo kaina atitinka hipoteka užtikrinto pagrindinio reikalavimo ir iš šio reikalavimo atsirandančių palūkanų dydį. Pardavus įkeistą daiktą gautų lėšų suma, reikalinga hipotekos kreditoriaus reikalavimui patenkinti, turi būti pervesta į notaro, tvirtinančio perleidimo sandorį, depozitinę sąskaitą.
 
 6. Jeigu kreditorius pradėjo nepagrįstą išieškojimą be pagrindo arba pareiškė nepagrįstą reikalavimą, skolininkas (įkaito davėjas) turi teisę ginčyti kreditoriaus veiksmų teisėtumą ieškinio teisenos tvarka. Ieškinio padavimas nesustabdo išieškojimo veiksmų. Išieškojimas gali būti sustabdytas tik įstatymų nustatytais atvejais teismui pritaikius laikinąsias apsaugos priemones.
-
-Kodeksas papildytas straipsniu:
-
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 6.650 straipsnis. Generalinis rangovas ir subrangovas
 
@@ -4979,11 +5015,13 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 2) duomenys apie verslininką (vardas ir pavardė ar pavadinimas, juridinio asmens teisinė forma);
 
-3) verslininko buveinės adresas ir, jei turi, telefono ryšio, fakso numeriai ir elektroninio pašto adresas, kuriais vartotojas gali susisiekti su verslininku, ir, jeigu reikalinga, duomenys apie verslininką, kurio vardu veikiama (vardas ir pavardė ar pavadinimas, buveinės adresas). Verslininko ir, jeigu reikalinga, verslininko, kurio vardu veikiama, ekonominės veiklos vietos adresas, kuriuo vartotojas gali pateikti skundus, nurodomas, jeigu ekonominės veiklos vietos adresas skiriasi nuo buveinės adreso;
+3) verslininko buveinės adresas, elektroninio pristatymo dėžutės adresas ir, jei turi, telefono ryšio, fakso numeriai ir elektroninio pašto adresas, kuriais vartotojas gali susisiekti su verslininku, ir, jeigu reikalinga, duomenys apie verslininką, kurio vardu veikiama (vardas ir pavardė ar pavadinimas, buveinės adresas). Verslininko ir, jeigu reikalinga, verslininko, kurio vardu veikiama, ekonominės veiklos vietos adresas, kuriuo vartotojas gali pateikti skundus, nurodomas, jeigu ekonominės veiklos vietos adresas skiriasi nuo buveinės adreso;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
 
 4) bendra prekių ar paslaugų kaina, į kurią įskaičiuoti mokesčiai, arba kai dėl prekių arba paslaugų pobūdžio kaina pagrįstai negali būti iš anksto apskaičiuota, metodas, pagal kurį ši kaina apskaičiuojama, ir, jeigu reikalinga, visos papildomos vežimo, pristatymo, pašto ir kitos išlaidos, arba kai šios papildomos išlaidos dėl pagrįstų priežasčių negali būti iš anksto apskaičiuotos, informacija apie tai, kad gali tekti jas apmokėti. Kai sudaroma neterminuota sutartis arba sutartis, kurioje numatytas periodinių įmokų mokėjimas, bendrą kainą sudaro visos tam tikro sąskaitos pateikimo laikotarpio išlaidos. Jeigu pagal sutartį turi būti mokamas fiksuotas mokestis, bendra kaina taip pat reiškia visas mėnesio išlaidas. Jeigu visos išlaidos negali būti iš anksto pagrįstai apskaičiuotos, turi būti nurodytas metodas, pagal kurį apskaičiuojama kaina;
 
@@ -5103,15 +5141,25 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 10. Jeigu sudaręs sutartį ne prekybos patalpose vartotojas nori, kad paslaugos būtų pradėtos teikti arba energija pradėta tiekti nepasibaigus šiame straipsnyje nustatytam ne prekybos patalpose sudarytos sutarties atsisakymo terminui, verslininkas gali teikti paslaugas ar tiekti energiją tik gavęs aiškų vartotojo prašymą patvariojoje laikmenoje.
 
-6.22812 straipsnis. Vartojimo sutarčių dėl skaitmeninio turinio teikimo ypatumai
+6.22812 straipsnis. Vartotojų teisės atsisakyti vartojimo sutarčių dėl skaitmeninio turinio teikimo ypatumai
 
-1. Vartojimo sutartimi dėl skaitmeninio turinio teikimo verslininkas įsipareigoja vartotojui suteikti patvariojoje laikmenoje neįrašytą skaitmeninį turinį (duomenis, kurie kuriami ir pateikiami skaitmenine forma).
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+1. Neteko galios nuo 2022-01-01.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
-2. Vartojimo sutartims dėl skaitmeninio turinio teikimo taikomos šio skyriaus nuostatos, jeigu šiame kodekse ar kituose įstatymuose nenustatyta kitaip.
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+2. Neteko galios nuo 2022-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
 3. Neteko galios nuo 2016-11-18
 
@@ -5141,9 +5189,17 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 1. Kokybės garantija (komercinė garantija) – verslininko (pardavėjo ar gamintojo) įsipareigojimas vartotojui grąžinti sumokėtą prekės ar paslaugos kainą, pakeisti, sutaisyti prekę ar kitaip pašalinti prekės ar paslaugos trūkumus, kai prekė ar paslauga neatitinka garantijos dokumente ar reklamoje, pateikiamoje sudarant sutartį ar iki jos sudarymo, numatytų sąlygų ar reikalavimų, kurie nesusiję su prekės ar paslaugos atitiktimi sutarčiai.
 
-2. Kokybės garantija negali suvaržyti vartotojo teisių, nustatytų šio kodekso 6.363 straipsnyje.
+2. Kokybės garantija negali suvaržyti vartotojo teisių, nustatytų šio kodekso 6.3641 straipsnyje.
 
-3. Kokybės garantija turi būti pateikta valstybine kalba. Joje turi būti nurodyta, kad kokybės garantija nevaržo vartotojo teisių įsigijus netinkamos kokybės prekę ar paslaugą, taip pat kokybės garantijoje aiškiai ir suprantamai turi būti nurodytas garantijos teikėjo pavadinimas ir buveinės adresas ir išdėstytos garantijos sąlygos, įskaitant trukmę, taikymo teritoriją, informaciją, reikalingą reikalavimams dėl garantijos pareikšti.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+3. Kokybės garantija turi būti pateikta valstybine kalba. Joje turi būti nurodyta, kad kokybės garantija nevaržo vartotojo teisių įsigijus netinkamos kokybės prekę ar paslaugą, taip pat kokybės garantijoje aiškiai ir suprantamai turi būti nurodytas garantijos teikėjo pavadinimas, buveinės adresas, elektroninio pristatymo dėžutės adresas ir išdėstytos garantijos sąlygos, įskaitant trukmę, taikymo teritoriją, informaciją, reikalingą reikalavimams dėl garantijos pareikšti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
 
 4. Vartotojo reikalavimu kokybės garantija turi būti jam pateikiama raštu popieriuje arba kitoje jam prieinamoje patvariojoje laikmenoje.
 
@@ -5160,14 +5216,6 @@ Jeigu verslininkas neįvykdo savo prievolių pagal vartojimo sutartį, nuostoli�
 2. Vartotojo, kuriam be jo užsakymo buvo perduotos prekės ar suteiktos paslaugos, neveikimas (tylėjimas) nelaikomas sutikimu pirkti.
 
 3. Pareiga įrodyti, kad vartotojas išreiškė valią sudaryti vartojimo sutartį (užsakė prekes ar paslaugas) tenka verslininkui.
-
-III dalis
-
-KITAIS PAGRINDAIS ATSIRANDANČIOS PRIEVOLĖS
-
-XIX skyrius
-
-KITO ASMENS REIKALŲ TVARKYMAS
 
 6.350 straipsnis. Vartojimo pirkimo–pardavimo sutarties samprata
 
@@ -5225,6 +5273,12 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 5. Kai, įvykus aukcionui, sutartį sudaro verslininkas ir vartotojas, šiai sutarčiai taikomos vartojimo sutartis reglamentuojančios normos, jeigu kiti įstatymai nenustato ko kita. Sudarant sutartį viešojo aukciono būdu, šio kodekso 6.2287 straipsnio 1 dalies 2 ir 3 punktuose nurodyta informacija gali būti pateikiama apie aukciono vedėją.
 
+6. Kai, įvykus viešajam aukcionui dėl naudotos prekės, sutartį sudaro verslininkas ir vartotojas, vartotojui turi būti lengvai prieinama aiški ir išsami informacija, kad šiai sutarčiai netaikomos vartojimo pirkimo–pardavimo sutarčių ypatumus reglamentuojančios šio kodekso normos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
 Straipsnio pakeitimai:
 
 Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
@@ -5253,15 +5307,41 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 1. Vartojimo sutartimi verslininkas įsipareigoja perduoti vartotojui prekes nuosavybės teise arba suteikti paslaugas vartotojui, o vartotojas įsipareigoja priimti prekes ar paslaugas ir sumokėti jų kainą. Šio kodekso nustatytais atvejais vartojimo sutartimis laikomos ir kitos verslininko ir vartotojo sudarytos sutartys.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
-
 2. Vartotojas – fizinis asmuo, su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekiantis sudaryti ar sudarantis sutartis.
 
 3. Verslininkas – fizinis asmuo arba juridinis asmuo ar kita organizacija, ar jų padalinys, savo prekybos, verslo, amato arba profesijos tikslais siekiantys sudaryti ar sudarantys sutartis, įskaitant asmenis, veikiančius verslininko vardu arba jo naudai. Juridinis asmuo gali būti laikomas verslininku neatsižvelgiant į jo dalyvių teisinę formą.
 
-4. Šiame skyriuje preke laikomas materialus kilnojamasis daiktas, išskyrus daiktus, kurie yra realizuojami Civilinio proceso kodekso nustatyta tvarka vykdymo proceso metu, ir kitas įstatymų nustatytas išimtis. Elektros energija, vanduo ir gamtinės dujos taip pat laikomi prekėmis, jeigu parduodamas jų ribotas tūris arba nustatytas kiekis. Šio kodekso 6.2284 straipsnio tikslais preke laikomas ir nekilnojamasis daiktas, taip pat šilumos ir elektros energija, vanduo, gamtinės dujos.
+4. Prekė:
+
+1) materialus kilnojamasis daiktas;
+
+2) elektros energija, vanduo ir gamtinės dujos, kai parduodamas ribotas jų tūris arba nustatytas kiekis;
+
+3) materialus kilnojamasis daiktas, į kurį įtrauktas skaitmeninis turinys ar skaitmeninė paslauga arba kuris yra su skaitmeniniu turiniu ar skaitmenine paslauga susietas taip, kad be jų negalėtų atlikti savo funkcijų (toliau – skaitmeninių elementų turinti prekė).
+
+5. Skaitmeninis turinys – skaitmenine forma sukurti ir pateikti duomenys.
+
+6. Skaitmeninė paslauga:
+
+1) paslauga, kuria vartotojui sudaromos sąlygos skaitmenine forma kurti, tvarkyti, saugoti duomenis arba turėti prieigą prie jų;
+
+2) paslauga, kuria sudaromos sąlygos skaitmenine forma dalytis duomenimis, kuriuos įkėlė arba sukūrė vartotojas ar kiti tos paslaugos naudotojai, arba atlikti kitus sąveikos su tais duomenimis veiksmus.
+
+7. Funkcionalumas – skaitmeninio turinio ar skaitmeninės paslaugos gebėjimas atlikti funkcijas pagal paskirtį.
+
+8. Integravimas – skaitmeninio turinio ar skaitmeninės paslaugos susiejimas su vartotojo skaitmeninės aplinkos komponentais ir įtraukimas į juos, kad būtų galima skaitmeninį turinį ar skaitmeninę paslaugą naudoti laikantis šiame skyriuje nustatytų skaitmeninio turinio ir skaitmeninių paslaugų kokybės reikalavimų.
+
+9. Sąveikumas – skaitmeninio turinio ar skaitmeninės paslaugos gebėjimas veikti su kita aparatine ar programine įranga negu ta, su kuria tos pačios rūšies skaitmeninis turinys ar skaitmeninės paslaugos paprastai yra naudojami.
+
+10. Skaitmeninė aplinka – aparatinė įranga, programinė įranga ir bet koks tinklo ryšys, naudojami vartotojo prieigai prie skaitmeninio turinio ar skaitmeninės paslaugos arba naudojimuisi jais.
+
+11. Skaitmeninio turinio ar skaitmeninės paslaugos kaina – pinigai arba skaitmeninis jų vertės atitikmuo už pateiktus skaitmeninį turinį ar skaitmeninę paslaugą.
+
+12. Suderinamumas – skaitmeninio turinio ar skaitmeninės paslaugos gebėjimas veikti su aparatine ar programine įranga, su kuria tos pačios rūšies skaitmeninis turinys ar skaitmeninės paslaugos yra paprastai naudojami, kai nėra būtinybės keisti skaitmeninio turinio ar skaitmeninės paslaugos.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
 6.2283 straipsnis. Vartojimo sutartis reglamentuojančių normų taikymas
 
@@ -5829,15 +5909,21 @@ Straipsnio pakeitimai:
 
 Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
-6.364 straipsnis. Kainų skirtumo atlyginimas
+6.364 straipsnis. Garantija pagal įstatymą
 
-1. Jeigu pardavėjas pakeičia netinkamos kokybės daiktą tinkamos kokybės daiktu, tai jis neturi teisės reikalauti iš pirkėjo atlyginti vartojimo pirkimo–pardavimo sutartyje numatytos kainos ir daikto kainos, galiojusios jo pakeitimo ar teismo arba kitokios institucijos sprendimo, įpareigojančio pakeisti daiktą, priėmimo momentu, skirtumą.
+1. Pardavėjas yra atsakingas vartotojui už bet kokią prekių (įskaitant skaitmeninių elementų turinčias prekes) kokybės reikalavimų neatitiktį prekės pristatymo momentu ir paaiškėjusią ne vėliau kaip per dvejus metus nuo prekės pristatymo (garantija pagal įstatymą).
 
-2. Kai netinkamos kokybės daiktas keičiamas kitu analogišku, kuris skiriasi pagal matmenis, modelį, rūšį ar kitus požymius, pirkėjas turi atlyginti sutartyje numatytos kainos ir naujo daikto kainos, galiojusios keitimo momentu, skirtumą. Jeigu pirkėjas kainų skirtumo neatlygina, tai kainų skirtumas nustatomas pagal teismo arba kitokios institucijos sprendimo pakeisti prekę priėmimo metu galiojusias kainas.
+2. Jeigu skaitmeninių elementų turinčios prekės pirkimo–pardavimo sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, pardavėjas yra atsakingas už skaitmeninio turinio ar skaitmeninės paslaugos trūkumus, kurių atsiranda ar kurie paaiškėja per dvejus metus nuo skaitmeninių elementų turinčios prekės pristatymo. Jeigu sutartyje numatytas ilgiau negu dvejus metus trunkantis nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas, pardavėjas yra atsakingas už skaitmeninio turinio ar skaitmeninės paslaugos trūkumus, kurių atsiranda ar kurie paaiškėja šiuo sutartyje numatytu skaitmeninio turinio ar skaitmeninės paslaugos teikimo laikotarpiu.
 
-3. Kai pirkėjas reikalauja atitinkamai sumažinti netinkamos kokybės daikto kainą, atsižvelgiama į daikto kainą šio reikalavimo pareiškimo momentu, o jeigu pardavėjas pirkėjo reikalavimo netenkino, – į kainą teismo arba kitokios institucijos sprendimo dėl kainos sumažinimo priėmimo momentu.
+3. Pardavėjas ir vartotojas gali susitarti dėl trumpesnio, negu nustatyta šio straipsnio 1 ir 2 dalyse, pardavėjo atsakomybės už naudotas prekes termino, tačiau šis terminas negali būti trumpesnis negu vieneri metai.
 
-4. Pirkėjas, grąžindamas prastos kokybės daiktą pardavėjui, turi teisę reikalauti atlyginti nustatytos sutartyje kainos ir kainos, galiojančios jo reikalavimo patenkinimo momentu, o jeigu jo reikalavimo pardavėjas netenkina, – teismo arba kitokios institucijos sprendimo priėmimo momentu, skirtumą.
+4. Prekės (įskaitant skaitmeninių elementų turinčias prekes) trūkumas, kuris paaiškėja per vienerius metus nuo jos pristatymo, laikomas buvusiu pristatant prekę, nebent pardavėjas įrodo kitaip arba kai tai nesuderinama su prekės pobūdžiu ar trūkumo pobūdžiu.
+
+5. Jeigu skaitmeninių elementų turinčios prekės pirkimo–pardavimo sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, pareiga įrodyti, kad skaitmeninis turinys ar skaitmeninė paslauga yra tinkamos kokybės šio straipsnio 2 dalyje nurodytu laikotarpiu, tenka pardavėjui, jeigu trūkumas paaiškėja šiuo laikotarpiu.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
 6.365 straipsnis. Neteko galios nuo 2014-06-13.
 
@@ -7041,7 +7127,11 @@ Prieš parduodamas ar kitaip perleisdamas nuomojamą žemės sklypą arba jį į
 
 6.561 straipsnis. Draudimas išnuomoti įkeistą žemę
 
-Jeigu įkeistos žemės savininkas sutartyje nustatytu laiku neįvykdo skolinio įsipareigojimo ir hipotekos teisėjas priima nutartį areštuoti įkeistą žemę, šią žemę draudžiama išnuomoti.
+Jeigu įkeistos žemės savininkas sutartyje nustatytu laiku neįvykdo skolinio įsipareigojimo ir viešame registre yra žyma apie atliktą notaro vykdomąjį įrašą, šią žemę draudžiama išnuomoti.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
 
 6.562 straipsnis. Žemės nuomos sutarties pabaiga
 
@@ -9437,7 +9527,11 @@ Tretieji asmenys turi teisę įmokėti pinigus į indėlininko sąskaitą, jeigu
 
 1. Jeigu sutartis nenustato ko kita, banko indėlio sutartis įforminama indėlininko knygele. Indėlininko knygelė gali būti tik vardinė.
 
-2. Indėlininko knygelėje privalo būti nurodytas banko ar kitos kredito įstaigos pavadinimas, adresas ir kiti jų rekvizitai, indėlininkas, indėlio dydis, visos sutarties sąlygos, taip pat tvarkoma įmokėtų ir išmokėtų pinigų sumų apskaita, nurodomos apskaičiuotos ir išmokėtos palūkanos.
+2. Indėlininko knygelėje privalo būti nurodytas banko ar kitos kredito įstaigos pavadinimas, adresas, elektroninio pristatymo dėžutės adresas ir kiti jų rekvizitai, indėlininkas, indėlio dydis, visos sutarties sąlygos, taip pat tvarkoma įmokėtų ir išmokėtų pinigų sumų apskaita, nurodomos apskaičiuotos ir išmokėtos palūkanos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
 
 3. Visos su indėliu susijusios operacijos atliekamos tik pateikus indėlininko knygelę.
 
@@ -10091,7 +10185,11 @@ Draudimo sutartimi viena šalis (draudikas) įsipareigoja už sutartyje nustatyt
 
 1) draudimo liudijimo (poliso) numeris;
 
-2) draudiko pavadinimas ir buveinės adresas;
+2) draudiko pavadinimas, buveinės adresas ir elektroninio pristatymo dėžutės adresas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
 
 3) draudėjo, apdrausto asmens ar naudos gavėjo vardas, pavardė ar pavadinimas;
 
@@ -10143,7 +10241,11 @@ Nr. XII-503, 2013-07-02, Žin., 2013, Nr. 75-3774 (2013-07-13)
 
 7. Jeigu draudikas, žinodamas aplinkybes, apie kurias draudėjas neinformavo dėl neatsargumo, nebūtų sudaręs draudimo sutarties, tai jis per du mėnesius nuo sužinojimo, kad draudėjas nepateikė šio straipsnio 1 dalyje nustatytos informacijos dėl neatsargumo, turi teisę reikalauti nutraukti draudimo sutartį. Įvykus draudiminiam įvykiui, draudikas turi teisę atsisakyti išmokėti draudimo išmoką tik įrodęs, kad nė vienas draudikas, žinodamas aplinkybes, kurių draudėjas nenurodė dėl neatsargumo, nebūtų sudaręs draudimo sutarties.
 
-8. Sudarant draudimo sutartį ir jos galiojimo metu draudikas privalo suteikti draudėjui šią informaciją: draudiko pavadinimą, draudiko įmonės rūšį, adresą, draudiko padalinio ar draudiko atstovo adresą (jei draudimo sutartis sudaroma ne draudiko buveinėje), iš draudimo sutarties kylančių ar su ja susijusių ginčų sprendimo tvarką, draudiko elgesį, kai draudėjas pažeidžia draudimo sutarties sąlygas, galimus draudimo rizikos padidėjimo atvejus bei kitą draudimo veiklą reglamentuojančiuose teisės aktuose nurodytą informaciją.
+8. Sudarant draudimo sutartį ir jos galiojimo metu draudikas privalo suteikti draudėjui šią informaciją: draudiko pavadinimą, draudiko įmonės rūšį, adresą, elektroninio pristatymo dėžutės adresą, draudiko padalinio ar draudiko atstovo adresą (jei draudimo sutartis sudaroma ne draudiko buveinėje), iš draudimo sutarties kylančių ar su ja susijusių ginčų sprendimo tvarką, draudiko elgesį, kai draudėjas pažeidžia draudimo sutarties sąlygas, galimus draudimo rizikos padidėjimo atvejus bei kitą draudimo veiklą reglamentuojančiuose teisės aktuose nurodytą informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
 
 6.994 straipsnis. Draudiko teisė įvertinti draudimo riziką
 
@@ -10311,23 +10413,23 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais.
+1. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais su pakeitimais, padarytais 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES.
 
 2. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/6/EB dėl vartotojų apsaugos žymint vartotojams siūlomų prekių kainas.
 
-3. 1999 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva 1999/44/EB dėl vartojimo prekių pardavimo ir susijusių garantijų tam tikrų aspektų.
+3. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais.
 
-4. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais.
+4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302.
 
-5. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB.
+5. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB.
 
-6. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos.
+6. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/943 dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo.
 
-7. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB.
+7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
 
-8. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/943 dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo.
+8. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/770 dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų.
 
-9. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
+9. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB.
 
 Kodeksas papildytas priedu:
 
@@ -10337,11 +10439,13 @@ Priedo pakeitimai:
 
 Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
-Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753
+Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753)
 
 Priedo pakeitimai:
 
 Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
 Pakeitimai:
 
@@ -11147,6 +11251,30 @@ Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
 
 Lietuvos Respublikos civilinio kodekso 2.54, 2.64, 2.71, 2.72 straipsnių ir priedo pakeitimo įstatymas
 
+54.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+
+Lietuvos Respublikos civilinio kodekso 4.173, 4.177 straipsnių, ketvirtosios knygos II dalies XI skyriaus antrojo skirsnio, 4.184, 4.189 straipsnių, ketvirtosios knygos II dalies XI skyriaus ketvirtojo ir penktojo skirsnių, 4.207, 4.209, 4.210, 4.212, 4.213, 4.223, 4.224, 4.225, 6.104, 6.561 straipsnių pakeitimo įstatymas
+
+55.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+
+Lietuvos Respublikos civilinio kodekso 1.73, 1.122, 2.44, 2.49, 2.54, 2.66, 6.166, 6.192, 6.228-7, 6.228-14, 6.901, 6.991 ir 6.993 straipsnių pakeitimo įstatymas
+
+56.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+Lietuvos Respublikos civilinio kodekso 1.125, 6.228-1, 6.228-12, 6.228-14, 6.363, 6.364, 6.419 straipsnių ir priedo pakeitimo ir Kodekso papildymo 6.228-17, 6.228-18, 6.228-19, 6.228-20, 6.228-21, 6.228-22, 6.228-23, 6.228-24, 6.350-1, 6.364-1, 6.364-2, 6.364-3, 6.364-4 straipsniais įstatymas
+
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
 Motorinės transporto priemonės pirkimo–pardavimo sutartyje privalo būti nurodyti duomenys apie motorinę transporto priemonę, kurią pardavėjas privalo pagal sutartį perduoti pirkėjui. Pardavėjas pirkimo–pardavimo sutartyje privalo pirkėjui nurodyti (deklaruoti) ridos duomenis, visus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta per laikotarpį, kurį pardavėjas yra motorinės transporto priemonės savininkas, taip pat visus jam žinomus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta. Privalomų pirkimo–pardavimo sutartyje nurodyti duomenų apie motorinę transporto priemonę ir jos trūkumus sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
@@ -11350,4 +11478,398 @@ Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 2) trečiosios šalies, nesusijusios su paslaugų teikimu pagal organizuotos turistinės kelionės sutartį, kaltės, ir todėl nebuvo įmanoma kaltės numatyti arba jos išvengti;
 
 3) nenugalimos jėgos.
+
+6.22817 straipsnis. Vartojimo sutartys dėl skaitmeninio turinio ir skaitmeninių paslaugų teikimo
+
+1. Šio kodekso 6.22817–6.22824 straipsnių nuostatos taikomos sutartims, pagal kurias verslininkas teikia arba įsipareigoja teikti skaitmeninį turinį ar skaitmeninę paslaugą vartotojui, o vartotojas sumoka ar įsipareigoja sumokėti skaitmeninio turinio ar skaitmeninės paslaugos kainą. Šių straipsnių nuostatos taikomos ir tais atvejais, kai skaitmeninis turinys ar skaitmeninė paslauga yra kuriami pagal vartotojo nurodymus.
+
+2. Be to, šio kodekso 6.22817–6.22824 straipsnių nuostatos taikomos, kai verslininkas teikia arba įsipareigoja vartotojui teikti skaitmeninį turinį ar skaitmeninę paslaugą, o vartotojas verslininkui pateikia arba įsipareigoja pateikti asmens duomenis, išskyrus atvejus, kai tuos duomenis verslininkas tvarko tik siekdamas teikti skaitmeninį turinį ar skaitmeninę paslaugą arba užtikrinti teisės aktuose nustatytų reikalavimų įgyvendinimą ir netvarko tų duomenų jokiais kitais tikslais.
+
+3. Šio kodekso 6.22817–6.22824 straipsnių nuostatos taip pat taikomos fizinėms laikmenoms, kurios naudojamos tik kaip skaitmeninio turinio pateikimo priemonė, išskyrus šio kodekso 6.22818 straipsnį ir 6.22822 straipsnio 1, 2 ir 3 dalis.
+
+4. Šio kodekso 6.22817–6.22824 straipsnių nuostatos netaikomos skaitmeniniam turiniui ir skaitmeninėms paslaugoms, kurie yra įtraukti į skaitmeninių elementų turinčias prekes arba su jomis susieti ir teikiami kartu su šiomis prekėmis pagal tą pačią pirkimo–pardavimo sutartį, neatsižvelgiant į tai, ar skaitmeninį turinį arba skaitmeninę paslaugą teikia pardavėjas ar kitas asmuo. Kilus abejonių, ar į prekę įtraukto arba su ja susieto skaitmeninio turinio ar į prekę įtrauktos arba su ja susietos skaitmeninės paslaugos teikimas yra pirkimo–pardavimo sutarties dalykas, laikoma, kad pirkimo–pardavimo sutartis apima jų teikimą.
+
+5. Šio kodekso 6.22817–6.22824 straipsnių nuostatos netaikomos sutartims dėl:
+
+1) paslaugų, kurios nėra skaitmeninės paslaugos, teikimo, nors verslininkas naudoja skaitmenines formas ar skaitmenines priemones paslaugos rezultatui sukurti, pateikti arba perduoti vartotojui;
+
+2) elektroninių ryšių paslaugų, išskyrus su numeriu nesiejamas asmenų tarpusavio ryšio paslaugas, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme;
+
+3) sveikatos priežiūros paslaugų;
+
+4) nuotolinio lošimo paslaugų, sudarytų individualiu vartotojo prašymu;
+
+5) finansinių paslaugų;
+
+6) verslininko pagal laisvo naudojimo ir atvirojo kodo licenciją siūlomos programinės įrangos, kai vartotojas nemoka skaitmeninio turinio ar skaitmeninės paslaugos kainos ir jo pateiktus asmens duomenis verslininkas tvarko tik siekdamas pagerinti tos programinės įrangos saugumą, suderinamumą ar sąveikumą;
+
+7) skaitmeninio turinio teikimo, kai jis teikiamas visuomenei kitu – ne transliacijos signalu per pasirodymą ar renginį, pavyzdžiui, skaitmeninėmis kinematografijos projekcijomis;
+
+8) skaitmeninio turinio, kurį pateikė viešojo sektoriaus institucijos pagal Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymą.
+
+6. Jeigu pagal tą pačią vartojimo sutartį teikiami skaitmeninis turinys ar skaitmeninės paslaugos ir kitos paslaugos arba parduodama prekė, šio kodekso 6.22817–6.22824 straipsnių nuostatos taikomos tik sutarties daliai dėl skaitmeninio turinio ar skaitmeninės paslaugos teikimo.
+
+7. Jeigu kituose įstatymuose ar Europos Sąjungos teisės aktuose, reglamentuojančiuose asmens duomenų apsaugą, nustatytos kitokios negu šio kodekso 6.22817–6.22824 straipsnių normos, šių straipsnių normos taikomos tiek, kiek jos neprieštarauja asmens duomenų apsaugą reglamentuojančioms normoms.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.22818 straipsnis. Skaitmeninio turinio ar skaitmeninių paslaugų teikimas
+
+1. Verslininkas skaitmeninį turinį ar skaitmeninę paslaugą turi pateikti vartotojui nedelsdamas po sutarties sudarymo, nebent sutarties šalys susitaria kitaip.
+
+2. Verslininko pareiga pateikti skaitmeninį turinį ar skaitmeninę paslaugą vartotojui yra įvykdyta, kai:
+
+1) vartotojui arba vartotojo tuo tikslu pasirinktam fiziniam ar virtualiam įrenginiui pateikiami ar padaromi prieinami skaitmeninis turinys ar bet kokios priemonės, tinkamos prieigai prie skaitmeninio turinio gauti arba jam atsisiųsti;
+
+2) vartotojui arba vartotojo tuo tikslu pasirinktam fiziniam ar virtualiam įrenginiui yra suteikta prieiga prie skaitmeninės paslaugos.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.22819 straipsnis. Skaitmeninio turinio ir skaitmeninių paslaugų kokybės reikalavimai
+
+1. Verslininkas privalo teikti vartotojui skaitmeninį turinį ar skaitmeninę paslaugą, atitinkančius šiame straipsnyje nustatytus reikalavimus.
+
+2. Skaitmeninis turinys ar skaitmeninė paslauga turi atitikti visus šiuos reikalavimus, jeigu jie yra taikytini:
+
+1) atitikti aprašymą, kiekį ir kokybę ir turėti funkcionalumo, suderinamumo, sąveikumo ir kitas savybes, kaip numatyta sutartyje;
+
+2) atitikti konkrečią paskirtį, dėl kurios vartotojui reikia skaitmeninio turinio ar skaitmeninės paslaugos, apie kurią vartotojas pranešė verslininkui vėliausiai tada, kai buvo sudaroma sutartis, ir dėl kurios verslininkas sutiko;
+
+3) būti pateikti kartu su visais priedais, instrukcijomis (įskaitant įdiegimo instrukcijas) ir pagalba vartotojui, kaip numatyta sutartyje;
+
+4) atnaujinami, kaip numatyta sutartyje.
+
+3. Skaitmeninis turinys arba skaitmeninė paslauga taip pat turi atitikti visus šiuos reikalavimus:
+
+1) atitikti paskirtį, dėl kurios tos pačios rūšies skaitmeninis turinys ar skaitmeninės paslaugos paprastai naudojami, atsižvelgiant į taikomas teisės normas, techninius standartus, o jeigu jų nėra, – į elgesio kodeksus;
+
+2) atitikti kiekį ir turėti tokias kokybės ir veikimo savybes (įskaitant su funkcionalumu, suderinamumu, prieinamumu, nuoseklumu ir saugumu susijusias savybes), kuriomis paprastai pasižymi tokios pat rūšies skaitmeninis turinys ar skaitmeninės paslaugos ir kurių vartotojas gali pagrįstai tikėtis atsižvelgiant į skaitmeninio turinio ar skaitmeninės paslaugos pobūdį ir į bet kokius verslininko ar kitų asmenų, dalyvavusių tiekimo grandinėje, arba jų vardu pateiktus viešus pareiškimus, visų pirma, reklamuojant turinį ar paslaugas arba juos ženklinant, išskyrus šio straipsnio 4 dalyje nurodytus atvejus;
+
+3) jeigu taikytina, turi būti pateikti kartu su visais priedais ir instrukcijomis, kurias gauti vartotojas gali pagrįstai tikėtis;
+
+4) atitikti verslininko iki sutarties sudarymo pateiktas skaitmeninio turinio ar skaitmeninės paslaugos bandomąsias arba demonstracines versijas.
+
+4. Šio straipsnio 3 dalies 2 punkte nurodyti vieši pareiškimai verslininko neįpareigoja, jeigu jis įrodo, kad yra bent viena iš šių sąlygų:
+
+1) verslininkas nežinojo ir dėl pagrįstos priežasties negalėjo žinoti apie viešą pareiškimą;
+
+2) iki sutarties sudarymo momento viešas pareiškimas buvo pataisytas tokiu pat ar panašiu būdu, kokiu buvo pateiktas;
+
+3) viešas pareiškimas negalėjo turėti įtakos vartotojo sprendimui įsigyti skaitmeninį turinį ar skaitmeninę paslaugą.
+
+5. Verslininkas turi užtikrinti, kad vartotojas būtų informuotas apie naujinius (įskaitant saugumo naujinius), kurie yra būtini siekiant užtikrinti skaitmeninio turinio ar skaitmeninės paslaugos tinkamą kokybę, ir kad šie naujiniai vartotojui būtų teikiami tokiu laikotarpiu:
+
+1) kurį pagal sutartį turi būti teikiamas skaitmeninis turinys ar skaitmeninė paslauga, kai sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikru laikotarpiu;
+
+2) kokio vartotojas gali pagrįstai tikėtis atsižvelgiant į skaitmeninio turinio ar skaitmeninės paslaugos rūšį ir paskirtį bei sutarties aplinkybes ir pobūdį, kai sutartyje numatyti vienkartinis skaitmeninio turinio ar skaitmeninės paslaugos teikimo veiksmas ar atskirų teikimo veiksmų seka.
+
+6. Jeigu vartotojas per protingą terminą neįdiegia verslininko pagal šio straipsnio 5 dalį pateiktų naujinių, verslininkas nėra atsakingas už skaitmeninio turinio ar skaitmeninės paslaugos trūkumus, kuriuos lemia tik naujinio neįdiegimas, jeigu yra abi šios sąlygos:
+
+1) verslininkas informavo vartotoją apie naujinio prieinamumą ir pasekmes jo neįdiegus;
+
+2) vartotojas neįdiegia naujinio arba jį įdiegia netinkamai ne dėl to, kad jam pateiktos netikslios įdiegimo instrukcijos.
+
+7. Jeigu sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, verslininkas yra atsakingas už skaitmeninio turinio ar skaitmeninės paslaugos tinkamą teikimą šiuo laikotarpiu.
+
+8. Jeigu sudarant sutartį vartotojas buvo aiškiai informuotas apie tai, kad konkreti skaitmeninio turinio ar skaitmeninės paslaugos savybė neatitinka šio straipsnio 3, 4 ar 5 dalyje nustatytų reikalavimų, ir vartotojas, sudarydamas sutartį, aiškiai ir atskirai su tuo sutiko, laikoma, kad skaitmeninis turinys ar skaitmeninė paslauga yra tinkamos kokybės.
+
+9. Jeigu sutarties šalys nesusitaria kitaip, turi būti pateikta skaitmeninio turinio ar skaitmeninės paslaugos naujausia versija, prieinama sutarties sudarymo momentu.
+
+10. Verslininkas yra atsakingas už trūkumus, atsiradusius dėl skaitmeninio turinio ar skaitmeninės paslaugos netinkamo integravimo į vartotojo skaitmeninę aplinką, šiais atvejais:
+
+1) skaitmeninio turinio ar skaitmeninės paslaugos integravimą atliko verslininkas arba jis už tai yra atsakingas;
+
+2) skaitmeninio turinio ar skaitmeninės paslaugos integravimą turėjo atlikti vartotojas ir netinkamas integravimas buvo atliktas dėl netikslių instrukcijų, kurias pateikė verslininkas.
+
+11. Jeigu dėl kitų asmenų intelektinės nuosavybės teisių ar kitų teisių pažeidimo panaikinama ar apribojama vartotojo galimybė naudotis skaitmeniniu turiniu ar skaitmenine paslauga, vartotojas gali ginti savo teises vadovaudamasis  šio kodekso 6.22822 straipsnio 4–9 dalių nuostatomis.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.22820 straipsnis. Garantija pagal įstatymą
+
+1. Verslininkas yra atsakingas vartotojui, jeigu skaitmeninis turinys ar skaitmeninė paslauga nebuvo pateikti pagal šio kodekso 6.22818 straipsnyje nustatytus reikalavimus.
+
+2. Jeigu sutartyje numatyti vienkartinis skaitmeninio turinio ar skaitmeninės paslaugos teikimo veiksmas ar atskirų teikimo veiksmų seka, verslininkas yra atsakingas už bet kokią skaitmeninio turinio ar skaitmeninės paslaugos neatitiktį šio kodekso 6.22819 straipsnyje nustatytiems reikalavimams, kuri buvo skaitmeninio turinio ar skaitmeninės paslaugos pateikimo metu ir paaiškėjo ne vėliau kaip per dvejus metus nuo pateikimo momento.
+
+3. Jeigu sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, verslininkas yra atsakingas už bet kokią skaitmeninio turinio ar skaitmeninės paslaugos neatitiktį šio kodekso 6.22819 straipsnyje nustatytiems reikalavimams, kuri atsirado ar paaiškėjo sutartyje numatytu skaitmeninio turinio ar skaitmeninės paslaugos teikimo laikotarpiu.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.22821 straipsnis. Pareiga įrodyti
+
+1. Pareiga įrodyti, kad skaitmeninis turinys arba skaitmeninė paslauga buvo pateikti laikantis šio kodekso 6.22818 straipsnyje nustatytų reikalavimų, tenka verslininkui.
+
+2. Jeigu sutartyje numatyti vienkartinis skaitmeninio turinio ar skaitmeninės paslaugos teikimo veiksmas ar atskirų teikimo veiksmų seka ir per vienerius metus nuo skaitmeninio turinio ar skaitmeninės paslaugos pateikimo momento paaiškėja netinkama jų kokybė, pareiga įrodyti, kad skaitmeninis turinys ar skaitmeninė paslauga jų pateikimo metu atitiko kokybės reikalavimus, tenka verslininkui.
+
+3. Jeigu sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį ir per jį paaiškėja netinkama skaitmeninio turinio ar skaitmeninės paslaugos kokybė, pareiga įrodyti, kad skaitmeninis turinys ar skaitmeninė paslauga sutartyje numatytu laikotarpiu atitinka kokybės reikalavimus, tenka verslininkui.
+
+4. Šio straipsnio 2 ir 3 dalių nuostatos netaikomos, jeigu verslininkas įrodo, kad vartotojo skaitmeninė aplinka yra nesuderinama su skaitmeninio turinio ar skaitmeninės paslaugos techniniais reikalavimais, ir jeigu jis aiškiai ir suprantamai informavo vartotoją apie tokius reikalavimus iki sutarties sudarymo.
+
+5. Vartotojas turi bendradarbiauti su verslininku tiek, kiek tai pagrįstai įmanoma ir būtina siekiant išsiaiškinti, ar skaitmeninio turinio ar skaitmeninės paslaugos trūkumo, paaiškėjusio šio kodekso 6.22820 straipsnio 2 ar 3 dalyje nurodytu laikotarpiu, priežastis yra susijusi su vartotojo skaitmenine aplinka. Vartotojo pareiga bendradarbiauti apima bendradarbiavimą tik techniškai prieinamomis priemonėmis, dėl kurių vartotojas patiria mažiausiai suvaržymų. Jeigu vartotojas nebendradarbiauja, o verslininkas iki sutarties sudarymo aiškiai ir suprantamai jį informavo apie reikalavimą bendradarbiauti, pareiga įrodyti skaitmeninio turinio ar skaitmeninės paslaugos netinkamą kokybę tenka vartotojui.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.22822 straipsnis. Vartotojo teisės skaitmeninio turinio ar skaitmeninės paslaugos neteikimo ar netinkamos kokybės atvejais
+
+1. Jeigu verslininkas neįvykdo savo pareigos teikti skaitmeninį turinį ar skaitmeninę paslaugą pagal šio kodekso 6.22818 straipsnį, vartotojas pateikia verslininkui reikalavimą teikti skaitmeninį turinį ar skaitmeninę paslaugą. Jeigu pateikus šį reikalavimą verslininkas neteikia skaitmeninio turinio ar skaitmeninės paslaugos nedelsdamas ar per sutarties šalių aiškiai sutartą papildomą terminą, vartotojas turi teisę vienašališkai nutraukti sutartį.
+
+2. Šio straipsnio 1 dalies nuostatos netaikomos ir vartotojas turi teisę nedelsdamas vienašališkai nutraukti sutartį, jeigu:
+
+1) verslininkas pareiškė arba, atsižvelgiant į aplinkybes, yra aišku, kad jis skaitmeninio turinio ar skaitmeninės paslaugos neteiks;
+
+2) vartotojas ir verslininkas susitarė arba, atsižvelgiant į su sutarties sudarymu susijusias aplinkybes, yra aišku, kad skaitmeninio turinio ar skaitmeninės paslaugos teikimas per sutartyje nustatytą terminą turi esminės reikšmės vartotojui, o verslininkas per nustatytą terminą jų neteikė.
+
+3. Vartotojui nutraukiant sutartį šio straipsnio 1 ar 2 dalyje numatytais pagrindais, taikomos šio kodekso 6.22823 straipsnio nuostatos.
+
+4. Jeigu skaitmeninis turinys ar skaitmeninė paslauga neatitinka šio kodekso 6.22819 straipsnyje nustatytų reikalavimų, vartotojas pagal šio straipsnio nuostatas turi teisę į tai, kad skaitmeninio turinio ar skaitmeninės paslaugos teikimo trūkumai būtų ištaisyti, sumažinta skaitmeninio turinio ar skaitmeninės paslaugos kaina arba vienašališkai nutraukta sutartis.
+
+5. Vartotojas turi teisę į skaitmeninio turinio ar skaitmeninės paslaugos teikimo trūkumų ištaisymą, išskyrus atvejus, kai to neįmanoma padaryti arba jeigu dėl to verslininkas patirtų neproporcingų išlaidų, atsižvelgiant į visas aplinkybes, įskaitant:
+
+1) skaitmeninio turinio ar skaitmeninės paslaugos vertę, jeigu nebūtų trūkumų;
+
+2) trūkumų reikšmingumą.
+
+6. Verslininkas privalo ištaisyti skaitmeninio turinio ar skaitmeninės paslaugos trūkumus laikydamasis visų šių reikalavimų:
+
+1) per protingą terminą nuo momento, kai vartotojas informavo verslininką apie trūkumus;
+
+2) nemokamai;
+
+3) nesukeldamas vartotojui didelių nepatogumų atsižvelgiant į skaitmeninio turinio ar skaitmeninės paslaugos pobūdį ir paskirtį, dėl kurios vartotojui reikalingi skaitmeninis turinys ar skaitmeninė paslauga.
+
+7. Vartotojas turi teisę į skaitmeninio turinio ar skaitmeninės paslaugos kainos sumažinimą, kai skaitmeninis turinys ar skaitmeninė paslauga teikiami už skaitmeninio turinio ar skaitmeninės paslaugos kainą, arba teisę į vienašališką sutarties nutraukimą bet kuriuo iš šių atvejų:
+
+1) neįmanoma ištaisyti skaitmeninio turinio ar skaitmeninės paslaugos trūkumų arba dėl to verslininkas patirtų neproporcingų išlaidų atsižvelgiant į visas aplinkybes;
+
+2) verslininkas neištaisė skaitmeninio turinio ar skaitmeninės paslaugos trūkumų pagal šio straipsnio 6 dalį;
+
+3) skaitmeninio turinio ar skaitmeninės paslaugos trūkumų atsirado po to, kai verslininkas bandė užtikrinti tinkamą skaitmeninio turinio ar skaitmeninės paslaugos kokybę;
+
+4) trūkumas yra esminis;
+
+5) verslininkas pareiškė arba iš aplinkybių yra aišku, kad jis per protingą terminą neištaisys skaitmeninio turinio ar skaitmeninės paslaugos trūkumų arba tai sukels didelių nepatogumų vartotojui.
+
+8. Skaitmeninio turinio ar skaitmeninės paslaugos kainos sumažinimas turi būti proporcingas vartotojui teikiamų skaitmeninio turinio ar skaitmeninės paslaugos vertės sumažėjimui, palyginti su skaitmeninio turinio ar skaitmeninės paslaugos verte, kurią jie turėtų, jeigu būtų tinkamos kokybės. Tais atvejais, kai sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį ir vartotojas moka skaitmeninio turinio ar skaitmeninės paslaugos kainą, ji sumažinama už skaitmeninio turinio ar skaitmeninės paslaugos teikimą laikotarpiu, kurį nebuvo užtikrinta tinkama skaitmeninio turinio ar skaitmeninės paslaugos kokybė.
+
+9. Vartotojas turi teisę nutraukti sutartį, kurioje numatyta jo pareiga sumokėti skaitmeninio turinio ar skaitmeninės paslaugos kainą už skaitmeninio turinio ar skaitmeninės paslaugos teikimą, tik tuo atveju, kai trūkumas nėra nedidelis. Pareiga įrodyti, kad trūkumas yra nedidelis, tenka verslininkui.
+
+10. Vartotojas turi teisę sustabdyti skaitmeninio turinio ar skaitmeninės paslaugos kainos ar jos dalies mokėjimą, iki verslininkas ištaisys skaitmeninio turinio ar skaitmeninės paslaugos trūkumus.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.22823 straipsnis. Sutarties nutraukimas
+
+1. Šis straipsnis taikomas, kai vartotojas nutraukia sutartį vadovaudamasis šio kodekso 6.22822 straipsnio 1, 2 ar 7 dalies arba 6.22824 straipsnio nuostatomis.
+
+2. Vartotojas savo teisę nutraukti sutartį įgyvendina pateikdamas verslininkui pareiškimą, kuriame išreiškiamas jo sprendimas nutraukti sutartį.
+
+3. Nutraukus sutartį, verslininkas turi grąžinti vartotojui visas šio pagal sutartį sumokėtas sumas. Kai sutartyje numatytas skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį ir vartotojas moka skaitmeninio turinio ar skaitmeninės paslaugos kainą, jeigu iki sutarties nutraukimo skaitmeninis turinys ar skaitmeninė paslauga tam tikrą laikotarpį buvo teikiami tinkamos kokybės, verslininkas vartotojui turi grąžinti sumokėtos kainos dalį, proporcingą laikotarpiui, kurį skaitmeninis turinys ar skaitmeninė paslauga buvo netinkamos kokybės, ir kitą vartotojo iš anksto sumokėtos kainos dalį už likusį sutarties, jeigu ji nebūtų buvusi nutraukta, laikotarpį.
+
+4. Nutraukus sutartį, verslininkas turi laikytis įstatymuose ir Europos Sąjungos teisės aktuose, reglamentuojančiuose asmens duomenų apsaugą, nustatytų vartotojo asmens duomenų apsaugos reikalavimų.
+
+5. Verslininkas turi nenaudoti bet kokio skaitmeninio turinio, kurį vartotojas pateikė ar sukūrė naudodamas verslininko pateiktą skaitmeninį turinį ar skaitmeninę paslaugą ir kuris nelaikomas asmens duomenimis, išskyrus atvejus, kai toks turinys:
+
+1) negali būti panaudotas kitoje aplinkoje negu verslininko suteikti skaitmeninis turinys ar skaitmeninė paslauga;
+
+2) susijęs tik su vartotojo veikla naudojantis verslininko suteiktais skaitmeniniu turiniu ar skaitmenine paslauga;
+
+3) buvo susietas su kitais duomenimis ir negali būti atsietas arba atsiejimas sukeltų neproporcingų išlaidų;
+
+4) buvo sukurtas vartotojo kartu su kitais asmenimis ir kiti vartotojai gali toliau naudotis turiniu.
+
+6. Verslininkas, gavęs vartotojo prašymą, turi padaryti prieinamą vartotojui skaitmeninį turinį, kurį vartotojas pateikė ar sukūrė naudodamas verslininko teikiamus skaitmeninį turinį ar skaitmeninę paslaugą ir kuris nėra laikomas asmens duomenimis, išskyrus šio straipsnio 5 dalies 1, 2 ir 3 punktuose numatytus atvejus. Vartotojas turi teisę šį skaitmeninį turinį atgauti nemokamai, verslininkui nesudarant kliūčių, per protingą terminą ir įprastai naudojamu kompiuterio skaitomu formatu.
+
+7. Nutraukus sutartį, verslininkas turi teisę apriboti vartotojo galimybę toliau naudotis skaitmeniniu turiniu ar skaitmenine paslauga nebesuteikdamas vartotojui prieigos prie skaitmeninio turinio ar skaitmeninės paslaugos, deaktyvuodamas vartotojo paskyrą ar kitu būdu.
+
+8. Nutraukus sutartį, vartotojas turi nesinaudoti skaitmeniniu turiniu ar skaitmenine paslauga ir nesuteikti galimybės jais naudotis kitiems asmenims.
+
+9. Jeigu skaitmeninis turinys buvo pateiktas fizinėje laikmenoje, vartotojas, gavęs verslininko prašymą, turi nedelsdamas grąžinti fizinę laikmeną verslininkui. Grąžinimo išlaidos tenka verslininkui. Verslininkas turi teisę pateikti prašymą grąžinti fizinę laikmeną per keturiolika dienų nuo dienos, kurią verslininkas gavo vartotojo sprendimą nutraukti sutartį.
+
+10. Vartotojas neturi mokėti už skaitmeninio turinio ar skaitmeninės paslaugos naudojimą laikotarpiu iki sutarties nutraukimo, kuriuo skaitmeninis turinys ar skaitmeninė paslauga buvo netinkamos kokybės.
+
+11. Verslininkas turi grąžinti vartotojui sumą dėl skaitmeninio turinio ar skaitmeninės paslaugos kainos sumažinimo arba sutarties nutraukimo ne vėliau kaip per keturiolika dienų nuo dienos, kurią verslininkas buvo informuotas apie vartotojo sprendimą reikalauti sumažinti kainą arba nutraukti sutartį.
+
+12. Grąžinti vartotojui visas sumokėtas sumas verslininkas turi tokiu pačiu mokėjimo būdu, kokį naudojo vartotojas mokėdamas už skaitmeninį turinį ar skaitmeninę paslaugą, nebent vartotojas aiškiai sutinka dėl kitokio būdo ir dėl to jis nepatiria jokių papildomų išlaidų.
+
+13. Draudžiama verslininkui reikalauti iš vartotojo bet kokio užmokesčio už vartotojo sumokėtų sumų grąžinimą.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.22824 straipsnis. Skaitmeninio turinio ar skaitmeninės paslaugos pakeitimas
+
+1. Jeigu sutartyje numatyta, kad skaitmeninis turinys ar skaitmeninė paslauga turi būti teikiami ar padaromi prieinami vartotojui tam tikrą laikotarpį, verslininkas turi teisę pakeisti skaitmeninį turinį ar skaitmeninę paslaugą daugiau, negu tai yra būtina skaitmeninio turinio ar skaitmeninės paslaugos tinkamai kokybei užtikrinti, kai yra visos šios sąlygos:
+
+1) sutartyje leidžiama tai daryti ir yra nurodyta pagrįsta pakeitimo priežastis;
+
+2) pakeitimas nelemia papildomų vartotojo išlaidų;
+
+3) vartotojui aiškiai ir suprantamai pranešama apie pakeitimą;
+
+4) šio straipsnio 2 dalyje nurodytais atvejais vartotojui patvariojoje laikmenoje pakankamai iš anksto suteikiama informacija apie pakeitimo ypatybes ir laiką, taip pat apie vartotojo teisę nutraukti sutartį vadovaujantis šio straipsnio 2 dalimi arba apie teisę išlaikyti skaitmeninį turinį ar skaitmeninę paslaugą be pakeitimų pagal šio straipsnio 3 dalį.
+
+2. Vartotojas turi teisę nutraukti sutartį, jeigu skaitmeninio turinio ar skaitmeninės paslaugos pakeitimas daro neigiamą poveikį jo prieigai prie skaitmeninio turinio ar skaitmeninės paslaugos arba naudojimuisi jais, išskyrus atvejus, kai neigiamas poveikis yra nedidelis.  Vartotojas turi teisę nutraukti sutartį per trisdešimt dienų nuo šio straipsnio 1 dalies 4 punkte nurodytos informacijos gavimo dienos arba nuo momento, kai buvo pakeisti skaitmeninis turinys ar skaitmeninė paslauga, atsižvelgiant į tai, kas įvyko vėliau, ir nepatirti išlaidų. Vartotojui nutraukus sutartį, taikomos šio kodekso 6.22823 straipsnio nuostatos.
+
+3. Šio straipsnio 2 dalies nuostatos netaikomos, jeigu verslininkas suteikia vartotojui galimybę nepatiriant papildomų išlaidų išlaikyti nepakeistą skaitmeninį turinį ar skaitmeninę paslaugą ir yra užtikrinama tinkama skaitmeninio turinio ar skaitmeninės paslaugos kokybė.
+
+4. Šio straipsnio nuostatos netaikomos tais atvejais, kai pagal tą pačią vartojimo sutartį teikiami skaitmeninis turinys ar skaitmeninė paslauga ir interneto prieigos paslauga arba su numeriu siejama asmenų tarpusavio ryšių paslauga.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+III dalis
+
+KITAIS PAGRINDAIS ATSIRANDANČIOS PRIEVOLĖS
+
+XIX skyrius
+
+KITO ASMENS REIKALŲ TVARKYMAS
+
+6.3501 straipsnis. Taikymo ribos
+
+1. Šio skirsnio nuostatos taikomos vartojimo pirkimo–pardavimo sutartims, įskaitant sutartis dėl prekių, kurios turi būti pagamintos.
+
+2. Šio skirsnio nuostatos netaikomos sutartims dėl skaitmeninio turinio ar skaitmeninės paslaugos teikimo, išskyrus skaitmeninį turinį ir skaitmenines paslaugas, kurie atitinka šiuos reikalavimus:
+
+1) yra įtraukti į skaitmeninių elementų turinčią prekę arba su ja susieti taip, kad be skaitmeninio turinio ar skaitmeninės paslaugos ši prekė negalėtų atlikti savo funkcijų;
+
+2) teikiami kartu su skaitmeninių elementų turinčia preke pagal tą pačią pirkimo–pardavimo sutartį, neatsižvelgiant į tai, ar skaitmeninį turinį ar skaitmeninę paslaugą teikia pardavėjas ar kitas asmuo. Kilus abejonių, ar į prekę įtraukto arba su ja susieto skaitmeninio turinio ar į prekę įtrauktos arba su ja susietos skaitmeninės paslaugos teikimas yra  pirkimo–pardavimo sutarties dalykas, laikoma, kad pirkimo–pardavimo sutartis apima jų teikimą.
+
+3. Šio skirsnio nuostatos netaikomos:
+
+1) fizinėms laikmenoms, naudojamoms tik kaip skaitmeninio turinio pateikimo priemonė;
+
+2) prekėms, kurios realizuojamos Civilinio proceso kodekso nustatyta tvarka vykdymo proceso metu, ir kitais įstatymų nustatytais atvejais;
+
+3) naudotų prekių pirkimui–pardavimui viešajame aukcione;
+
+4) gyvų gyvūnų pirkimui–pardavimui.
+
+4. Šiame skirsnyje:
+
+1) funkcionalumas – prekių gebėjimas atlikti funkcijas pagal paskirtį;
+
+2) suderinamumas – prekių gebėjimas veikti su aparatine ar programine įranga, su kuria tos pačios rūšies prekės yra paprastai naudojamos, kai nėra būtinybės keisti prekių, aparatinės ar programinės įrangos;
+
+3) sąveikumas – prekių gebėjimas veikti su kita aparatine ar programine įranga negu ta, su kuria tos pačios rūšies prekės yra paprastai naudojamos;
+
+4) patvarumas – prekių, kai jos naudojamos įprastai, gebėjimas išlaikyti savo reikalingas funkcijas ir veikimo savybes.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.3641 straipsnis. Vartotojo teisės, kai prekė yra netinkamos kokybės
+
+1. Jeigu prekė neatitinka kokybės reikalavimų, vartotojas pagal šiame straipsnyje nustatytas sąlygas turi teisę reikalauti, kad būtų užtikrinta tinkama prekės kokybė, proporcingai sumažinta prekės kaina, arba vienašališkai nutraukti pirkimo–pardavimo sutartį.
+
+2. Kad būtų užtikrinta tinkama prekės kokybė, vartotojas turi teisę pasirinkti reikalauti prekę pataisyti (remontuoti) arba reikalauti ją pakeisti, išskyrus atvejus, kai reikalavimo nebūtų įmanoma įvykdyti arba pardavėjas dėl to patirtų neproporcingų išlaidų, palyginti su išlaidomis kitam reikalavimui įgyvendinti, atsižvelgiant į visas aplinkybes, įskaitant:
+
+1) prekės vertę, jeigu prekė neturėtų trūkumų;
+
+2) prekės trūkumų (neatitikties) reikšmingumą;
+
+3) tai, ar kitokio reikalavimo taikymas nesukeltų nepatogumų vartotojui.
+
+3. Pardavėjas turi teisę atsisakyti užtikrinti tinkamą prekės kokybę, jeigu prekės neįmanoma pataisyti ar pakeisti arba jeigu dėl to pardavėjas patirtų neproporcingų išlaidų, atsižvelgiant į visas aplinkybes, įskaitant šio straipsnio 2 dalies 1 ir 2 punktuose nurodytąsias.
+
+4. Vartotojas turi teisę reikalauti proporcingai sumažinti prekės kainą arba nutraukti pirkimo–pardavimo sutartį, vadovaudamasis šio kodekso 6.3643 straipsniu, jeigu:
+
+1) pardavėjas prekės nepataisė ar nepakeitė arba prekės pataisymas ar pakeitimas neatitinka šio kodekso 6.3642 straipsnio 2 ir 3 dalyse nustatytų reikalavimų, arba pardavėjas, vadovaudamasis šio straipsnio 3 dalimi, atsisakė užtikrinti tinkamą prekės kokybę;
+
+2) prekės trūkumas atsirado, nors pardavėjas bandė užtikrinti prekės kokybę;
+
+3) prekės trūkumas yra esminis;
+
+4) pardavėjas pareiškė ar iš aplinkybių yra aišku, kad jis per protingą terminą neužtikrins tinkamos prekės kokybės arba tai sukels didelių nepatogumų vartotojui.
+
+5. Vartotojas neturi teisės nutraukti sutartį, jeigu trūkumas yra nedidelis. Pareiga įrodyti, kad trūkumas yra nedidelis, tenka pardavėjui.
+
+6. Vartotojas turi teisę sustabdyti prekės kainos ar jos dalies mokėjimą, iki pardavėjas įvykdys šiame skirsnyje nustatytas pardavėjo pareigas.
+
+7. Vartotojas turi teisę į žalos, atsiradusios dėl netinkamos prekės kokybės, atlyginimą.
+
+8. Vartotojas, siekdamas įgyvendinti šiame straipsnyje nustatytas teises, privalo pranešti pardavėjui apie prekės kokybės reikalavimų neatitiktį ne vėliau kaip per du mėnesius nuo neatitikties aptikimo dienos. Pareiga įrodyti, kad vartotojas praleido šį terminą, tenka pardavėjui.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.3642 straipsnis. Prekės pataisymas ar pakeitimas
+
+1. Pardavėjas turi pareigą užtikrinti, kad prekė būtų pataisyta ar pakeista, laikantis šių reikalavimų:
+
+1) nemokamai – netaikant mokesčių už prekei pataisyti ar pakeisti būtinas išlaidas, įskaitant išlaidas už pašto, vežimo paslaugas, už darbą ar medžiagas;
+
+2) per protingą terminą nuo momento, kai vartotojas informavo pardavėją apie netinkamą prekės kokybę;
+
+3) nesukeliant vartotojui didelių nepatogumų, atsižvelgiant į prekės pobūdį ir paskirtį, dėl kurios prekė reikalinga vartotojui.
+
+2. Vartotojas grąžina prekę pardavėjui, kad ji būtų pataisyta ar pakeista. Prekės grąžinimo išlaidos tenka pardavėjui.
+
+3. Jeigu iki trūkumo paaiškėjimo prekė buvo tinkamai įdiegta (instaliuota, įrengta ar įmontuota), atsižvelgiant į jos pobūdį ir paskirtį, pardavėjo pareiga pataisyti ar pakeisti prekę apima ir prekės pašalinimą bei pataisytos ar pakeistos prekės įdiegimą arba išlaidų už prekės pašalinimą ir įdiegimą padengimą.
+
+4. Pardavėjas neturi teisės reikalauti iš vartotojo sumokėti už įprastinį pakeistų prekių naudojimą laikotarpiu iki jų pakeitimo.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.3643 straipsnis. Kainos sumažinimas ir pirkimo–pardavimo sutarties nutraukimas
+
+1. Kainos sumažinimas turi būti proporcingas vartotojo gautos prekės vertės sumažėjimui, palyginti su verte, kurią prekė turėtų, jeigu nebūtų trūkumų.
+
+2. Vartotojas savo teisę nutraukti pirkimo–pardavimo sutartį įgyvendina pateikdamas pardavėjui pareiškimą, kuriame išreiškia sprendimą nutraukti pirkimo–pardavimo sutartį.
+
+3. Kai paaiškėja tik dalies pagal pirkimo–pardavimo sutartį pristatytų prekių trūkumai ir yra šio kodekso 6.3641 straipsnyje nustatytas pagrindas nutraukti sutartį, vartotojas turi teisę nutraukti pirkimo–pardavimo sutartį tik dėl prekių su trūkumais, taip pat dėl kitų kartu įgytų tiesiogiai susijusių prekių.
+
+4. Vartotojui nutraukus pirkimo–pardavimo sutartį:
+
+1) vartotojas turi grąžinti pardavėjui prekę pardavėjo sąskaita;
+
+2) pardavėjas, gavęs sugrąžintą prekę arba vartotojo pateiktus įrodymus, kad prekė buvo išsiųsta, turi ne vėliau kaip per keturiolika dienų grąžinti vartotojui už prekę sumokėtą kainą.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+
+6.3644 straipsnis. Prekės kokybės garantijos (komercinės garantijos) ypatumai
+
+1. Prekės kokybės garantija (komercinė garantija) – pardavėjo arba gamintojo (garanto) įsipareigojimas vartotojui, papildomas prekės garantijai pagal įstatymą, grąžinti sumokėtą kainą ar pakeisti, pataisyti prekes ar teikti jų priežiūros paslaugas, jeigu prekės neatitinka kokybės garantijos dokumente arba reklamoje, paskelbtoje sudarant sutartį arba iki jos sudarymo, išdėstytų sąlygų ar kitų reikalavimų, nesusijusių su nustatytaisiais šio kodekso 6.363 straipsnyje. Šiame straipsnyje gamintoju laikomas prekių gamintojas, prekių importuotojas į Europos Sąjungą ar bet koks asmuo, ant prekių nurodantis savo pavadinimą, prekės ženklą ar kitą skiriamąjį ženklą.
+
+2. Prekės kokybės garantija įpareigoja garantą pagal sąlygas, kurios nustatytos kokybės garantijos dokumente ir susijusioje reklamoje, paskelbtoje sudarant sutartį arba iki jos sudarymo. Jeigu kiti teisės aktai nenustato kitaip, kai gamintojas suteikia vartotojui kokybės garantiją dėl prekės patvarumo tam tikru laikotarpiu, gamintojas yra tiesiogiai atsakingas vartotojui už prekės pataisymą arba pakeitimą pagal šio kodekso 6.3642 straipsnį visą šios garantijos galiojimo laikotarpį. Gamintojas kokybės garantijos dėl prekės patvarumo dokumente gali vartotojui siūlyti palankesnes sąlygas.
+
+3. Jeigu kokybės garantijos dokumente nustatytos sąlygos vartotojui yra ne tokios palankios kaip nurodytosios susijusioje reklamoje, taikomos reklamoje nurodytos sąlygos, išskyrus atvejus, kai iki sutarties sudarymo reklama buvo ištaisyta tokiu pačiu ar panašiu būdu, kaip buvo paskelbta.
+
+4. Kokybės garantijos dokumentas turi būti pateikiamas vartotojui patvariojoje laikmenoje ne vėliau kaip pristatant prekes. Kokybės garantijos dokumentas turi būti išreikštas aiškia ir suprantama kalba. Jame turi būti nurodyta visa ši informacija:
+
+1) aiškus pareiškimas, kad dėl netinkamos prekės kokybės vartotojas pagal įstatymą turi teisę reikalauti iš pardavėjo užtikrinti nemokamą šio kodekso 6.3641 straipsnyje nustatytų teisių įgyvendinimą ir kad prekės kokybės garantija neturi įtakos šių teisių įgyvendinimui;
+
+2) garanto pavadinimas ir adresas;
+
+3) procedūra, kurios turi laikytis vartotojas, kad būtų užtikrintas prekės kokybės garantijos įvykdymas;
+
+4) prekė, kuriai taikoma kokybės garantija;
+
+5) prekės kokybės garantijos sąlygos.
+
+5. Vartotojas turi teisę reikalauti taikyti prekės kokybės garantiją neatsižvelgiant į tai, kad ji suteikta pažeidžiant šio straipsnio 4 dalyje nustatytus reikalavimus.
+
+Papildyta straipsniu:
+
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
