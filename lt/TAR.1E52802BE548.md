@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2021-12-04"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2021-12-04 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
 
@@ -323,15 +323,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
 
-6. Visuotinio dalininkų susirinkimo įgaliotas asmuo viešosios įstaigos vardu sudaro darbo sutartį su viešosios įstaigos vadovu ir ją nutraukia. Kai visuotinis dalininkų susirinkimas priima sprendimą atšaukti viešosios įstaigos vadovą, su viešosios įstaigos vadovu sudaryta darbo sutartis nutraukiama. Darbo ginčai tarp viešosios įstaigos vadovo ir viešosios įstaigos nagrinėjami teisme.
-
-TAR pastaba. 9 straipsnio 6 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
-
-9 straipsnio 6 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+6. Visuotinio dalininkų susirinkimo įgaliotas asmuo viešosios įstaigos vardu sudaro darbo sutartį su viešosios įstaigos vadovu ir ją nutraukia. Kai visuotinis dalininkų susirinkimas priima sprendimą atšaukti viešosios įstaigos vadovą, su viešosios įstaigos vadovu sudaryta darbo sutartis nutraukiama. Su viešosios įstaigos, kuri nėra priskiriama prie viešojo sektoriaus subjektų ir kuri Juridinių asmenų registre yra registruota kaip nevyriausybinė organizacija, vadovu vietoj darbo sutarties gali būti sudaroma savanoriškos veiklos sutartis. Darbo ginčai tarp viešosios įstaigos vadovo ir viešosios įstaigos nagrinėjami teisme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+
+Nr. XIV-574, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21914
 
 7. Viešosios įstaigos įstatuose gali būti numatytas ir kolegialus viešosios įstaigos valdymo organas, taip pat kiti kolegialūs organai. Kolegialių viešosios įstaigos organų narių skaičius, kompetencija, šių organų narių rinkimo ir atšaukimo tvarka nustatoma viešosios įstaigos įstatuose. Visuotinis dalininkų susirinkimas neturi teisės pavesti kolegialiems viešosios įstaigos organams spręsti visuotinio dalininkų susirinkimo kompetencijai šiame Įstatyme ir viešosios įstaigos įstatuose priskirtų klausimų. Kolegialūs viešosios įstaigos organai veikia pagal jų patvirtintus darbo reglamentus. Už veiklą viešosios įstaigos kolegialiuose organuose šių organų nariams neatlyginama, jeigu viešosios įstaigos įstatuose nenustatyta kitaip.
 
@@ -954,6 +952,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-683, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25108
 
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 9, 10, 11, 11-1, 12, 13, 15, 17 ir 18 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-574, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21914
+
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 9 straipsnio pakeitimo įstatymas
 
 81 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
