@@ -4,7 +4,7 @@ identifier: "TAR.0258F89BCE57"
 country: "lt"
 rank: "istatymas"
 publication_date: "2005-06-30"
-last_updated: "2019-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0258F89BCE57"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2005, Nr. 85-3140, i. k. 1051010ISTA000X-296
-
-TAR pastaba. Įstatymo Nr. XIII-1928 nuostatos taikomos kompensuojant žalą, atsiradusią dėl po šio įstatymo įsigaliojimo (2019-07-01) padarytų smurtinių nusikaltimų.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1928, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00858
-
-Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 pakeitimo įstatymas
 
 Nauja redakcija nuo 2019-07-01:
 
@@ -314,7 +306,13 @@ BAIGIAMOSIOS NUOSTATOS
 
 20 straipsnis. Įstatymo taikymas
 
-Pagal šį įstatymą kompensuojama tik dėl po 2005 m. liepos 1 d. padarytų smurtinių nusikaltimų atsiradusi žala.
+1. Pagal šį įstatymą kompensuojama tik dėl po 2005 m. liepos 1 d. padarytų smurtinių nusikaltimų atsiradusi žala, išskyrus šio straipsnio 2 dalyje numatytą atvejį.
+
+2. Dėl nuo 2000 m. rugsėjo 26 d. iki 2005 m. liepos 1 d. padarytų sunkių ir labai sunkių smurtinių nusikaltimų atsiradusi žala kompensuojama, jeigu galutinis sprendimas baudžiamajame procese priimtas po 2005 m. liepos 1 d.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-369, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13177
 
 21 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
@@ -322,7 +320,7 @@ Lietuvos Respublikos Vyriausybė kiekvienų metų valstybės biudžeto ir saviva
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                            VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -361,6 +359,16 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1928, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00858
 
 Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-369, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13177
+
+Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 20 straipsnio pakeitimo įstatymas
+
+part_d60028a12580431e97294cd8287fd543_end
 
 22 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
