@@ -4,7 +4,7 @@ identifier: "TAR.38B0127A21E8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-12"
-last_updated: "2021-04-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymas
 
-Suvestinė redakcija nuo 2021-04-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 101-2300, i. k. 0961010ISTA00I-1513
 
@@ -662,7 +662,7 @@ Nr. XII-1219, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14529
 
 1. Jūrų kruizo sutartis įforminama kelialapyje arba kitame dokumente, kurį kruizo organizatorius išduoda kruizo dalyviui.
 
-2. Kruizo dalyvis iki kruizo pradžios turi teisę nutraukti sutartį. Kruizo dalyvis, pranešęs       kruizo organizatoriui apie jūrų kruizo sutarties nutraukimą, turi teisę gauti visą arba dalį sumokėtos už kruizą sumos sutartyje nustatyta tvarka. Jei kruizo organizatorius negali aprūpinti kruizo dalyvio vieta jūrų kruizo sutartyje nurodytame arba kitame analogiškame laive, kruizo dalyvis turi teisę nutraukti jūrų kruizo sutartį ir gauti visą sumokėtą sumą.
+2. Kruizo dalyvis iki kruizo pradžios turi teisę nutraukti sutartį. Kruizo dalyvis, pranešęs  kruizo organizatoriui apie jūrų kruizo sutarties nutraukimą, turi teisę gauti visą arba dalį sumokėtos už kruizą sumos sutartyje nustatyta tvarka. Jei kruizo organizatorius negali aprūpinti kruizo dalyvio vieta jūrų kruizo sutartyje nurodytame arba kitame analogiškame laive, kruizo dalyvis turi teisę nutraukti jūrų kruizo sutartį ir gauti visą sumokėtą sumą.
 
 3. Kruizo organizatorius turi teisę nutraukti jūrų kruizo sutartį esant šio įstatymo 34 straipsnio 1 dalyje nurodytoms aplinkybėms.
 
@@ -1006,7 +1006,11 @@ Nr. XI-1847, 2011-12-22, Žin., 2012, Nr. 6-183 (2012-01-10)
 
 1. Įkeistas laivas negali būti išregistruotas iš Lietuvos Respublikos jūrų laivų registro iki laivo hipotekos baigimo arba iki nebus pateiktas notariškai patvirtintas visų hipotekos kreditorių sutikimas tai padaryti.
 
-2. Jeigu pagal Laivų registravimo taisykles įkeistas laivas privalo būti išregistruotas iš Lietuvos Respublikos jūrų laivų registro kitais negu laivo pardavimas atvejais, apie tai turi būti pranešta visiems Hipotekos registre nurodytiems hipotekos kreditoriams, kad šie turėtų laiko imtis veiksmų savo interesams apsaugoti. Šioje dalyje nurodytu atveju įkeistas laivas negali būti išregistruotas anksčiau negu po 3 mėnesių nuo hipotekos kreditorių įspėjimo. Šio reikalavimo galima nepaisyti, jei yra pateiktas notariškai patvirtintas visų hipotekos kreditorių sutikimas tai padaryti anksčiau.
+2. Jeigu įkeistas laivas pagal Laivų registravimo taisykles privalo būti išregistruotas iš Lietuvos Respublikos jūrų laivų registro kitais negu laivo pardavimas atvejais, apie tai turi būti pranešta visiems Sutarčių ir teisių suvaržymų registre nurodytiems hipotekos kreditoriams, kad šie turėtų laiko imtis veiksmų savo interesams apsaugoti. Šioje dalyje nurodytu atveju įkeistas laivas negali būti išregistruotas anksčiau negu po 3 mėnesių nuo hipotekos kreditorių įspėjimo. Šio reikalavimo galima nepaisyti, jei yra pateiktas notariškai patvirtintas visų hipotekos kreditorių sutikimas tai padaryti anksčiau.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2735, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00110
 
 Straipsnio pakeitimai:
 
