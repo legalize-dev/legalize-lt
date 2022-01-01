@@ -4,7 +4,7 @@ identifier: "TAR.A7F77DF94F5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-18"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
 
@@ -123,11 +123,11 @@ Netekto darbingumo pensijos bendrosios dalies dydis apskaičiuojamas pagal formu
 
 2) d – netekto darbingumo lygio daugiklis, nurodytas šio įstatymo 3 priede;
 
-3) β – asmens turimo ir būtinojo stažo santykio daugiklis, kuris nustatomas tokia tvarka:
+3) β – asmens įgyto stažo ir teisės gauti netekto darbingumo pensiją atsiradimo metais galiojančio būtinojo stažo senatvės pensijai santykis (šio įstatymo 57 straipsnio 2 dalis, 5 priedas). Jeigu asmens įgyto stažo ir būtinojo stažo senatvės pensijai santykis yra mažesnis už vienetą, laikoma, kad jis lygus vienetui. Jeigu taikant Lietuvos Respublikos tarptautinių sutarčių nuostatas teisė gauti netekto darbingumo pensiją Lietuvoje nustatoma atsižvelgiant į kitoje valstybėje įgytą stažą, β lygus asmens įgyto stažo, už kurį skiriama pensija Lietuvoje, ir tam asmeniui nustatyto minimaliojo stažo netekto darbingumo pensijai gauti (šio įstatymo 28 straipsnio 1 dalis) santykiui.
 
-a) tuo atveju, kai teisės gauti netekto darbingumo pensiją atsiradimo metu asmens stažas yra ne didesnis už tais metais galiojantį būtinąjį stažą senatvės pensijai (šio įstatymo 57 straipsnio 2 dalis, 5 priedas), daugiklis β lygus asmens turimo ir tam asmeniui būtinojo stažo netekto darbingumo pensijai santykiui, bet ne didesnis už vienetą;
+Straipsnio punkto pakeitimai:
 
-b) tuo atveju, kai teisės gauti netekto darbingumo pensiją atsiradimo metu asmens stažas didesnis už tais metais galiojantį būtinąjį stažą senatvės pensijai (šio įstatymo 57 straipsnio 2 dalis, 5 priedas), daugiklis β lygus asmens turimo stažo ir būtinojo stažo senatvės pensijai santykiui.
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 
 34 straipsnis. Senatvės pensija neįgaliajam
 
@@ -195,11 +195,27 @@ SENATVĖS PENSIJOS
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Bendroji socialinio draudimo pensijos dalis (toliau – bendroji dalis) – socialinio draudimo pensijos dalis, kurios dydis nustatomas pagal asmens įgytą pensijų socialinio draudimo stažą ir patvirtintą socialinio draudimo bazinės pensijos dydį.
+1. Bendroji socialinio draudimo pensijos dalis (toliau – bendroji dalis, bendroji pensijos dalis) – socialinio draudimo pensijos dalis, skirta pagal šį įstatymą paskirtų socialinio draudimo netekto darbingumo (invalidumo) ir senatvės pensijų gavėjų minimalioms pajamoms užtikrinti.
 
-2. Būtinasis pensijų socialinio draudimo stažas (toliau – būtinasis stažas) – šio įstatymo tam tikrai socialinio draudimo pensijos rūšiai nustatyto pensijų socialinio draudimo stažo trukmė metais bendrosios socialinio draudimo pensijos dalies dydžiui apskaičiuoti.
+Straipsnio dalies pakeitimai:
 
-3. Individualioji socialinio draudimo pensijos dalis (toliau – individualioji dalis) – socialinio draudimo pensijos dalis, kurios dydis nustatomas pagal per visą pensijų socialinio draudimo laikotarpį už asmenį priskaičiuotų ir (ar) asmens sumokėtų pensijų socialinio draudimo įmokų dydį.
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
+
+2. Būtinasis pensijų socialinio draudimo stažas (toliau – būtinasis stažas) – šio įstatymo tam tikros rūšies socialinio draudimo pensijai nustatyto pensijų socialinio draudimo stažo trukmė metais. Būtinasis stažas taikomas:
+
+1) asmenų, įgijusių pensijų socialinio draudimo stažą, didesnį už būtinąjį stažą senatvės pensijai skirti, bendrajai socialinio draudimo pensijos daliai didinti;
+
+2) socialinio draudimo netekto darbingumo ir senatvės pensijų gavėjams pagal Lietuvos Respublikos šalpos pensijų įstatymą mokamoms pensijų priemokoms apskaičiuoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
+
+3. Individualioji socialinio draudimo pensijos dalis (toliau – individualioji dalis, individualioji pensijos dalis) – socialinio draudimo pensijos dalis, kurios dydis nustatomas pagal per visą pensijų socialinio draudimo laikotarpį už asmenį priskaičiuotų ir (ar) asmens sumokėtų pensijų socialinio draudimo įmokų dydį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 
 4. Kaupiamoji pensijų įmoka – privalomosios pensijų socialinio draudimo įmokos dalis, pagal Lietuvos Respublikos pensijų kaupimo įstatymą (toliau – Pensijų kaupimo įstatymas) kaupiama asmens pensijų sąskaitoje jo pasirinktoje pensijų kaupimo bendrovėje.
 
@@ -269,11 +285,13 @@ Pagal šį įstatymą skiriamos šios socialinio draudimo pensijos:
 
 8 straipsnis. Socialinio draudimo pensijų dydžių mato rodiklių indeksavimas
 
-1. Kiekvienais metais nuo sausio 1 dienos bazinės pensijos ir apskaitos vieneto vertės dydžiai ir našlių pensijos bazinis dydis, kurie naudojami skiriant ir mokant šiame įstatyme nustatytų rūšių pensijas, indeksuojami pagal praėjusiais metais apskaičiuotą ir patvirtintą indeksavimo koeficientą (toliau – IK). IK išreiškiamas keturių skaitmenų po kablelio tikslumu.
+1. Kiekvienais metais nuo sausio 1 dienos bazinės pensijos ir apskaitos vieneto vertės dydžiai, išskyrus našlių pensijos bazinį dydį, lygų vienišo asmens išmokos, mokamos pagal Lietuvos Respublikos vienišo asmens išmokos įstatymą, dydžiui, kurie taikomi skiriant ir mokant šiame įstatyme nustatytų rūšių pensijas, indeksuojami pagal praėjusiais metais apskaičiuotą ir patvirtintą indeksavimo koeficientą (toliau – IK). IK išreiškiamas keturių skaitmenų po kablelio tikslumu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
+
+Nr. XIV-356, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13159
 
 2. IK apskaičiuojamas tokia tvarka:
 
@@ -299,7 +317,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 
-6. IK apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuoti bazinės pensijos, apskaitos vieneto vertės dydžiai ir našlių pensijos bazinis dydis euro cento tikslumu tvirtinami atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
+6. IK apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuoti bazinės pensijos, apskaitos vieneto vertės dydžiai euro cento tikslumu tvirtinami atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
 
 Straipsnio dalies pakeitimai:
 
@@ -307,11 +325,29 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
 
-7. Nuo 2020 m. sausio 1 d. bazinės pensijos dydis gali būti didinamas daugiau negu pagal bazinės pensijos dydžiui taikomą šio straipsnio 2 dalyje nustatyta tvarka apskaičiuotą IK, atsižvelgiant į valstybės biudžeto finansines galimybes. Nuo 2021 m. sausio 1 d., atsižvelgiant į valstybės biudžeto ir Valstybinio socialinio draudimo fondo biudžeto finansines galimybes, gali būti nustatomas didesnis negu pagal šio straipsnio 2 dalį apskaičiuotas IK.
+Nr. XIV-356, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13159
+
+7. Jeigu Lietuvos statistikos departamento vėliausiai paskelbtas 65 metus sukakusių ir vyresnių asmenų skurdo rizikos lygis yra didesnis negu 25 procentai ir (arba) indeksavimo metais prognozuojamos vidutinės senatvės pensijos santykis su tais metais prognozuojamu vidutiniu neto darbo užmokesčiu yra mažesnis kaip 50 procentų, individualioji pensijos dalis indeksuojama papildomai, prie šio straipsnio 1 ir 2 dalyse nustatyta tvarka apskaičiuoto IK pridedant papildomą indeksą, apskaičiuotą taip, kad indeksavimo metais panaudotinos papildomos lėšos individualiajai pensijos daliai indeksuoti neviršytų 75 procentų planuojamo Valstybinio socialinio draudimo fondo biudžeto teigiamo pinigų srautų rezultato, apskaičiuoto taikant šio straipsnio 1 ir 2 dalyse nustatyta tvarka apskaičiuotą IK ir atėmus Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto sandaros įstatyme nustatytą būtinų kasos apyvartos lėšų sumą. Konkreti papildomų lėšų suma, skiriama individualiajai daliai indeksuoti, nustatoma indeksavimo metais galiojančiame Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatyme.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2651, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20992
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
+
+8. Šio straipsnio 7 dalyje nurodytas papildomas individualiosios pensijos dalies indeksavimas netaikomas, jeigu indeksavimo metais prognozuojamas neigiamas Valstybinio socialinio draudimo fondo biudžeto pinigų srautų rezultatas arba jeigu pagal šio straipsnio 7 dalies nuostatas apskaičiuotas papildomas indeksas yra mažesnis negu 1,01.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
+
+9. Šio straipsnio 7 dalyje nurodytas papildomas individualiosios pensijos dalies indeksavimas taikomas toms socialinio draudimo pensijoms, kurias sudaro bendroji ir individualioji pensijos dalys. Pensijos, nurodytos šio įstatymo 58 straipsnio 1 dalyje ir 60 straipsnyje (išskyrus priedą už stažo metus), ir socialinio draudimo pensijos, kurių nesudaro bendroji ir individualioji pensijos dalys, indeksuojamos dauginant asmeniui paskirtos ir mokamos pensijos dydį (pensijos dalį) tik iš šio straipsnio 1 ir 2 dalyse nustatyta tvarka apskaičiuoto IK.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 
 9 straipsnis. Socialinio draudimo pensijų mokėjimo šaltiniai
 
@@ -345,7 +381,7 @@ Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
 17 straipsnis. Senatvės pensijos bendrosios dalies dydis
 
-Senatvės pensijos bendrosios dalies dydis nustatomas pagal bazinės pensijos dydį, atsižvelgiant į asmens įgyto stažo ir būtinojo stažo santykį ir apskaičiuojamas euro cento tikslumu pagal formulę β · B, kurioje:
+Senatvės pensijos bendrosios dalies dydis nustatomas pagal bazinės pensijos dydį, atsižvelgiant į asmens įgyto stažo ir būtinojo stažo santykį, ir apskaičiuojamas euro cento tikslumu pagal formulę β · B, kurioje:
 
 18 straipsnis. Senatvės pensijos individualiosios dalies dydis
 
@@ -435,7 +471,11 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 1. Nuo kiekvienų kalendorinių metų sausio 1 dienos, pradedant 2019 metais, netekto darbingumo pensijos dydis kasmet naujinamas, įvertinant asmens įgytą stažą ir apskaitos vienetų skaičių:
 
-1) jeigu asmeniui naudinga, netekto darbingumo pensijos bendroji dalis apskaičiuojama šio įstatymo 29 straipsnyje nustatyta tvarka, įskaitant papildomai įgytą stažą ir taikant tam asmeniui būtinojo stažo netekto darbingumo pensijai reikalavimus pagal jo amžių einamųjų metų sausio 1 dieną;
+1) jeigu asmeniui naudinga, netekto darbingumo pensijos bendroji dalis apskaičiuojama šio įstatymo 29 straipsnyje nustatyta tvarka, įskaitant papildomai įgytą stažą ir taikant tam asmeniui būtinojo stažo senatvės pensijai reikalavimus einamųjų metų sausio 1 dieną;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 
 2) netekto darbingumo pensijos individualioji dalis apskaičiuojama šio įstatymo 30 straipsnyje nustatyta tvarka, didinant įgytų iki tų metų sausio 1 dienos apskaitos vienetų skaičių šio įstatymo 13 straipsnyje nustatyta tvarka, o netekto darbingumo pensijos apskaitos vienetų skaičių mažinant pakaitinių pensijos apskaitos vienetų vidurkio dydžiu.
 
@@ -559,7 +599,11 @@ PENSIJŲ, PASKIRTŲ IKI ŠIO ĮSTATYMO ĮSIGALIOJIMO, MOKĖJIMAS
 
 1. Nuo šio įstatymo įsigaliojimo asmenims, kuriems senatvės pensija jau buvo paskirta, bendroji pensijos dalis apskaičiuojama pagal formulę β · B, kurioje:
 
-1) β – asmenims, turintiems mažiau kaip 30 metų stažo, – asmens turimo ir būtinojo stažo senatvės pensijai, galiojusio pensijos skyrimo tam asmeniui metais, santykis (šio įstatymo 5 priedas), kuris negali būti didesnis negu vienetas; asmenims, turintiems 30 metų ir didesnį stažą, – asmens turimo stažo ir 30 metų santykis;
+1) β – asmenims, turintiems 30 metų ir daugiau stažo, – asmens turimo stažo ir 30 metų santykis. Asmenų, turinčių mažesnį kaip 30 metų stažą, β lygus vienetui. Jeigu taikant Lietuvos Respublikos tarptautinių sutarčių nuostatas teisė į senatvės pensiją Lietuvoje nustatoma atsižvelgiant į kitoje valstybėje įgytą stažą, β lygus asmens turimo stažo, už kurį skiriama senatvės pensija Lietuvoje, ir minimaliojo stažo senatvės pensijai (šio įstatymo 16 straipsnio 1 dalis) santykiui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 
 2) B – tą mėnesį, už kurį mokama pensija, galiojantis bazinės pensijos dydis.
 
@@ -627,21 +671,43 @@ Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
 3) S5 – nuo 1994 metų iki netekto darbingumo pensijos skyrimo įgytas stažas.
 
-3. Jei asmuo iki netekto darbingumo pensijos paskyrimo pagal Lietuvos Respublikos pensijų sistemos reformos įstatymą (toliau – Pensijų sistemos reformos įstatymas) buvo pasirinkęs dalyvavimą pensijų kaupime, jam apskaičiuojamas iki šio įstatymo įsigaliojimo buvusia tvarka sumažintas dėl dalyvavimo kaupime asmens draudžiamųjų pajamų koeficientas k. Įgytų 2017 m. gruodžio 31 d. apskaitos vienetų skaičiumi šiuo atveju laikoma sandauga S1 · k + S2 · K (šio straipsnio 2 dalyje nurodytu atveju – S4 · K4 + S5 · k + S2 · K; jeigu asmuo yra įgijęs stažo iki 1994 metų, bet pensija 2017 m. gruodį buvo mokama tik pagal draudžiamųjų pajamų koeficientą už laikotarpį nuo 1994 metų, - sandauga S4 × K + S5 × k + S2 × K), o laikinųjų pensijos apskaitos vienetų skaičiumi – sandauga S5 · (K – k).
+3. Asmens, kuriam iki šio įstatymo įsigaliojimo buvo paskirta netekto darbingumo (invalidumo) pensija, įgyti apskaitos vienetai apskaičiuojami pagal šio įstatymo 51 straipsnį, jeigu asmeniui tai naudinga.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-458, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15455
+
+4. Jei asmuo iki netekto darbingumo pensijos paskyrimo pagal Lietuvos Respublikos pensijų sistemos reformos įstatymą (toliau – Pensijų sistemos reformos įstatymas) buvo pasirinkęs dalyvavimą pensijų kaupime, jam apskaičiuojamas iki šio įstatymo įsigaliojimo buvusia tvarka sumažintas dėl dalyvavimo kaupime asmens draudžiamųjų pajamų koeficientas k. Įgytų 2017 m. gruodžio 31 d. apskaitos vienetų skaičiumi šiuo atveju laikoma sandauga S1 · k + S2 · K (šio straipsnio 2 dalyje nurodytu atveju – S4 · K4 + S5 · k + S2 · K; jeigu asmuo yra įgijęs stažo iki 1994 metų, bet pensija 2017 m. gruodį buvo mokama tik pagal draudžiamųjų pajamų koeficientą už laikotarpį nuo 1994 metų, - sandauga S4 × K + S5 × k + S2 × K), o laikinųjų pensijos apskaitos vienetų skaičiumi – sandauga S5 · (K – k).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
-4. Jei nuo paskutinio netekto darbingumo pensijos skyrimo iki 2017 m. gruodžio 31 d. asmuo turėjo draudžiamųjų pajamų, nuo kurių buvo skaičiuojamos pensijų socialinio draudimo įmokos, asmeniui už kiekvienus metus apskaičiuojami metiniai draudžiamųjų pajamų koeficientai (dalyvavusiems pensijų kaupime – sumažinti šio straipsnio 3 dalyje nustatyta tvarka). Jei kurių nors metų metinis draudžiamųjų pajamų koeficientas didesnis už asmens draudžiamųjų pajamų koeficientą, pagal kurį tais metais asmeniui buvo mokėta netekto darbingumo pensija, skirtumas pridedamas prie šio straipsnio 1 dalyje nurodyto dydžio.
+Straipsnio dalies numeracijos pakeitimas:
 
-5. Šio įstatymo įsigaliojimo dieną įgytais ir laikinaisiais pensijos apskaitos vienetais laikomi pagal šį straipsnį apskaičiuoti apskaitos vienetai, padauginti iš koregavimo koeficiento 0,78.
+Nr. XIV-458, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15455
+
+5. Jei nuo paskutinio netekto darbingumo pensijos skyrimo iki 2017 m. gruodžio 31 d. asmuo turėjo draudžiamųjų pajamų, nuo kurių buvo skaičiuojamos pensijų socialinio draudimo įmokos, asmeniui už kiekvienus metus apskaičiuojami metiniai draudžiamųjų pajamų koeficientai (dalyvavusiems pensijų kaupime – sumažinti šio straipsnio 3 dalyje nustatyta tvarka). Jei kurių nors metų metinis draudžiamųjų pajamų koeficientas didesnis už asmens draudžiamųjų pajamų koeficientą, pagal kurį tais metais asmeniui buvo mokėta netekto darbingumo pensija, skirtumas pridedamas prie šio straipsnio 1 dalyje nurodyto dydžio.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-458, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15455
+
+6. Šio įstatymo įsigaliojimo dieną įgytais ir laikinaisiais pensijos apskaitos vienetais laikomi pagal šį straipsnį apskaičiuoti apskaitos vienetai, padauginti iš koregavimo koeficiento 0,78.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-458, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15455
 
 49 straipsnis. Netekto darbingumo pensijos skyrimas pagal šio įstatymo nuostatas, kai asmeniui, kuriam iki šio įstatymo įsigaliojimo buvo paskirta netekto darbingumo pensija, pasikeičia netekto darbingumo procentai ar iš naujo nustatomas darbingumo lygio terminas
 
 1. Pasikeitus asmens netekto darbingumo procentams ar nustačius naują darbingumo lygio terminą, netekto darbingumo pensija skiriama pagal šio įstatymo nuostatas.
 
-2. Bendroji pensijos dalis apskaičiuojama pagal šio įstatymo 29 straipsnį, įskaitant į stažą visą iki pensijos skyrimo asmens įgytą stažą ir visą netekto darbingumo pensijos gavimo laikotarpį, taip pat taikant būtinojo stažo reikalavimus, šio įstatymo nustatytus to amžiaus asmeniui, kuriam skiriama netekto darbingumo pensija.
+2. Bendroji pensijos dalis apskaičiuojama pagal šio įstatymo 29 straipsnį, įskaitant į stažą visą iki pensijos skyrimo asmens įgytą stažą ir visą netekto darbingumo pensijos gavimo laikotarpį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 
 3. Individualioji pensijos dalis apskaičiuojama pagal šio įstatymo 30 straipsnį, asmens įgytų apskaitos vienetų skaičiumi laikant dydį, apskaičiuotą pagal formulę  AV3 + 0,78 · S3 · K, kurioje:
 
@@ -903,13 +969,13 @@ Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
 3. Individualioji netekto darbingumo (invalidumo) pensijos dalis nuo šio įstatymo įsigaliojimo mokama 2017 m. gruodį mokėtos papildomos pensijos dalies dydžio.
 
-1) β – asmens įgyto stažo ir būtinojo stažo, galiojančio teisės gauti senatvės pensiją atsiradimo metais, santykis (šio įstatymo 57 straipsnis), išreiškiamas keturių skaitmenų po kablelio tikslumu. Tuo atveju, kai teisė gauti senatvės pensiją atsirado iki 2017 m. gruodžio 31 d., daugiklis β lygus asmens turimo stažo ir 30 metų santykiui;
+1) β – asmens įgyto stažo ir būtinojo stažo, galiojančio teisės gauti senatvės pensiją atsiradimo metais, santykis (šio įstatymo 57 straipsnis), išreiškiamas keturių skaitmenų po kablelio tikslumu. Jeigu asmens įgyto stažo ir būtinojo stažo, galiojančio teisės gauti senatvės pensiją atsiradimo metais, santykis yra mažesnis už vienetą, laikoma, kad jis lygus vienetui. Jeigu teisė gauti senatvės pensiją atsirado iki 2017 m. gruodžio 31 d., β lygus asmens turimo stažo ir 30 metų santykiui, bet negali būti mažesnis už vienetą. Jeigu taikant Lietuvos Respublikos tarptautinių sutarčių nuostatas teisė į senatvės pensiją Lietuvoje nustatoma atsižvelgiant į kitoje valstybėje įgytą stažą, β lygus asmens turimo stažo, už kurį skiriama senatvės pensija Lietuvoje, ir minimaliojo stažo senatvės pensijai (šio įstatymo 16 straipsnio 1 dalis) santykiui;
 
-Straipsnio punkto pakeitimai:
+2) B – tą mėnesį, už kurį mokama pensija, galiojantis bazinės pensijos dydis.
 
-Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
+Straipsnio pakeitimai:
 
-1) B – tą mėnesį, už kurį mokama pensija, galiojantis bazinės pensijos dydis.
+Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 
 58 straipsnis. Šiame įstatyme nenumatytų pensijų, paskirtų pagal anksčiau galiojusius teisės aktus, mokėjimas
 
