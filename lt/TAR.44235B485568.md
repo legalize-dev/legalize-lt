@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-05-23
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -77,7 +77,11 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 7. Energetikos įmonė – asmuo, kuris verčiasi energetikos veikla.
 
-8. Energetikos įrenginiai – techninės konstrukcijos, tarp jų mechanizmai, mašinos, aparatai, linijos, jų pagalbiniai įtaisai ir technologiniai priklausiniai, skirti energijos ištekliams ir (ar) energijai žvalgyti, išgauti, perdirbti, gaminti, laikyti, transportuoti, perduoti ir (ar) skirstyti.
+8. Energetikos įrenginiai – techninės konstrukcijos, tarp jų mechanizmai, mašinos, aparatai, linijos, jų pagalbiniai įtaisai ir technologiniai priklausiniai, skirti energijos ištekliams ir (ar) energijai žvalgyti, išgauti, perdirbti, gaminti, laikyti, kaupti, transportuoti, perduoti ir (ar) skirstyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 9. Energetikos įrenginių eksploatavimas – energetikos įrenginių technologinis valdymas, techninė priežiūra, remontas, matavimai, bandymai, paleidimo ir derinimo darbai.
 
@@ -87,11 +91,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
-10. Energetikos objektai – elektrinės ir katilinės; elektros tinklai ir jų technologiniai priklausiniai; magistraliniai dujotiekiai, gamtinių dujų sistemos, gamtinių dujų saugyklos, suskystintų gamtinių dujų terminalai ir saugyklos; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įrenginiai, naftos ir naftos produktų terminalai ir saugyklos, suskystintų naftos dujų įrenginiai; šilumos perdavimo tinklai ir jų technologiniai priklausiniai.
+10. Energetikos objektai – elektrinės ir katilinės; elektros tinklai ir jų technologiniai priklausiniai; energijos kaupimo įrenginiai; magistraliniai dujotiekiai, gamtinių dujų sistemos, gamtinių dujų saugyklos, suskystintų gamtinių dujų terminalai ir saugyklos; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įrenginiai, naftos ir naftos produktų terminalai ir saugyklos, suskystintų naftos dujų įrenginiai; šilumos perdavimo tinklai ir jų technologiniai priklausiniai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2174, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09947
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 11. Energetikos sektorius – energetikos sritis, apimanti vieną iš energijos rūšių ar energijos išteklių: elektros energiją, branduolinę energiją, šilumos energiją, vėsumos energiją, atsinaujinančių išteklių energiją ar gamtines dujas, kietąjį kurą, naftą, naftos produktus.
 
@@ -101,11 +107,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
-13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, transportavimą, perdavimą, skirstymą, tiekimą, prekybą, rinkodarą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą.
+13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, kaupimą, transportavimą, perdavimą, skirstymą, tiekimą, prekybą, rinkodarą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 14. Energija – elektros energija, šilumos energija ir (ar) vėsumos energija. Energija yra laikoma preke. Šio įstatymo tikslais energijai priskiriamos gamtinės dujos ir centralizuotai tiekiamos suskystintos naftos dujos.
 
@@ -131,11 +139,15 @@ Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 21. Energijos vartotojas (toliau – vartotojas) – asmuo, kurio įrenginiai yra prijungti prie energetikos įmonių valdomų energetikos objektų ir kuris perka energiją vartojimo tikslams.
 
-22. Išmanioji energijos apskaitos sistema – elektroninė energijos vartojimo ir gamybos matavimo sistema, kurią naudojant gaunama daugiau informacijos nei naudojant įprastą energijos apskaitos prietaisą ir kuri gali perduoti ir gauti duomenis elektroniniu ryšiu.
+22. Išmanioji energijos apskaitos sistema – energijos vartojimo ir gamybos matavimo priemonę ir duomenų perdavimo įrenginius apimanti elektroninė sistema, kurią naudojant gaunama daugiau informacijos nei naudojant įprastą energijos matavimo priemonę ir kuri informacijos, stebėjimo ir kontrolės tikslais perduoda ir gauna duomenis elektroniniu ryšiu.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 23. Išmanusis energijos tinklas – energijos transportavimo, perdavimo ir (ar) skirstomasis tinklas, kuriame veikia abipusis skaitmeninis tiekėjo ir vartotojo ryšys ir yra įdiegtos išmaniosios energijos apskaitos, stebėjimo ir valdymo sistemos.
 
@@ -309,7 +321,11 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
-43. Viešuosius interesus atitinkančios paslaugos – įstatymų nustatytais atvejais Lietuvos Respublikos Vyriausybės įpareigojimu energetikos įmonių teikiamos viešuosius interesus atitinkančios paslaugos, kuriomis siekiama įgyvendinti valstybės energetikos, ūkio ir (ar) aplinkos apsaugos politikos strateginius tikslus energetikos sektoriuje ir apginti teisėtus visuomenės interesus.
+43. Viešuosius interesus atitinkančios paslaugos – įstatymų nustatytais atvejais Lietuvos Respublikos Vyriausybės įpareigojimu energetikos įmonių teikiamos paslaugos, kuriomis siekiama įgyvendinti valstybės energetikos, ūkio ir (ar) aplinkos apsaugos politikos strateginius tikslus ir apginti teisėtus visuomenės interesus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -328,6 +344,12 @@ Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
+
+45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos buhalterinės apskaitos įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės kontrolės įstatyme ir Europos Sąjungos reglamentuose, reglamentuojančiuose energetikos sektorių veiklą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 Straipsnio pakeitimai:
 
@@ -463,7 +485,11 @@ Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 
 4) nustato energetikos veiklos leidimų išdavimo tvarką;
 
-5) nustato energijos apskaitos, matavimo priemonių įrengimo ir eksploatavimo tvarką;
+5) nustato atskirų energetikos sektorių energijos apskaitos organizavimo, matavimo priemonių ir išmaniųjų energijos apskaitos sistemų įrengimo ir eksploatavimo tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 6) įstatymų nustatytais atvejais turi teisę įpareigoti energetikos įmonę teikti viešuosius interesus atitinkančias paslaugas;
 
@@ -563,7 +589,11 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
-21) tvirtina išmaniųjų tinklų ir išmaniųjų energijos apskaitos sistemų plėtros planus ir nustato reikalavimus šiems tinklams ir sistemoms (planai ir reikalavimai gali būti nustatomi atskirai kiekvienam energetikos sektoriui, jeigu tai lemia objektyvios priežastys). Įgyvendindama šią funkciją Energetikos ministerija privalo vadovautis veiksmingo ribotų išteklių valdymo ir naudojimo, technologinio neutralumo, funkcinio lygiavertiškumo, proporcingumo, teisinio tikrumo kintančioje rinkoje, ekonominės plėtros, veiksmingos konkurencijos užtikrinimo, vartotojų teisių apsaugos, reguliavimo kriterijų, sąlygų ir procedūrų objektyvumo, skaidrumo ir nediskriminavimo principais;
+21) Neteko galios nuo 2022-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 Papildyta straipsnio punktu:
 
@@ -693,13 +723,25 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 11) įpareigoja energetikos įmones sudaryti sutartis dėl energijos perdavimo, skirstymo ar tiekimo, kai energetikos įmonės nepagrįstai atsisako suteikti paslaugas tretiesiems asmenims ar tiekti vartotojams energiją;
 
-12) kontroliuoja, kad energetikos sektoriuje būtų veiksmingai atskirtos veiklos, užtikrinant energijos perdavimo ir skirstymo veiklos nepriklausomumą nuo komercinių energetikos veiklos interesų ir siekiant išvengti kryžminio subsidijavimo;
+12) kontroliuoja, kad energetikos sektoriuose būtų užtikrintas energijos perdavimo ir skirstymo veiklos nepriklausomumas nuo energijos gamybos ir tiekimo veiklos interesų taip, kaip nustatyta atskirų energetikos sektorių veiklą reglamentuojančiuose įstatymuose, ir išvengta kryžminio šių veiklų arba kitos su energetika susijusios ar nesusijusios veiklos subsidijavimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 13) prižiūri rinkos atvėrimo ir konkurencijos didmeninėje ir mažmeninėje prekyboje mastą ir veiksmingumą (įskaitant elektros energijos ir (ar) dujų biržas), buitiniams vartotojams taikomas kainas (įskaitant išankstinio mokėjimo sistemas), tiekėją pakeitusių vartotojų procentinę dalį, nuo elektros energijos tinklų ir dujų sistemų atjungtų vartotojų procentinę dalį, įmokas už priežiūros paslaugas ir šių paslaugų teikimą, taip pat pagal kompetenciją konkurencijos iškraipymo ar apribojimo energetikos veikloje atvejus;
 
-14) prižiūri, ar nepasitaiko konkurenciją ribojančios sutartinės praktikos, įskaitant išimtinių teisių sąlygas, kurias taikant stambiems ne buitiniams vartotojams gali būti užkirstas kelias arba apribota galimybė vienu metu sudaryti sutartis su daugiau negu vienu tiekėju, ir apie tokią praktiką praneša Konkurencijos tarybai;
+14) prižiūri, ar nepasitaiko konkurenciją ribojančios sutartinės praktikos, įskaitant išimtinių teisių sąlygas, kurias taikant vartotojams gali būti užkirstas kelias arba apribota galimybė vienu metu sudaryti sutartis su daugiau negu vienu tiekėju, ir apie tokią praktiką praneša Konkurencijos tarybai;
 
-15) ne rečiau kaip kartą per 5 metus skelbia rekomendacijas, susijusias su paslaugų energetikos sektoriuje kainų atitiktimi skaidrumo, nediskriminavimo ir kitiems teisės aktų nustatytiems reikalavimams, ir teikia jas Konkurencijos tarybai;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
+
+15) ne rečiau kaip kartą per 5 metus arba kitais įstatymuose nustatytais terminais skelbia rekomendacijas, susijusias su paslaugų energetikos sektoriuje kainų atitiktimi skaidrumo, nediskriminavimo ir kitiems teisės aktų nustatytiems reikalavimams, ir teikia jas Konkurencijos tarybai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 16) teisės aktų nustatyta tvarka pagal kompetenciją turi teisę tikrinti energetikos įmonių valstybės institucijoms ir (ar) vartotojams teikiamą informaciją, vertinti jos patikimumą, nepažeisdama komercine (gamybine) ar profesine paslaptimi laikomos informacijos apsaugos reikalavimų;
 
@@ -745,11 +787,27 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
-34) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas.
+34) pagal kompetenciją užtikrina keitimosi duomenimis procesų derinimą su svarbiausiais rinkos procesais regioniniu lygmeniu, įskaitant Tarybos keitimąsi duomenimis šio įstatymo 26 straipsnio tikslais ir tinklų (sistemos) operatorių, tinklų (sistemos) naudotojų ir rinkos dalyvių keitimąsi duomenimis vykdant teisės aktuose nustatytus reikalavimus;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
+
+35) pagal kompetenciją priima energetikos įmonėms privalomus vykdyti sprendimus;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
+
+36) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 12. Taryba turi teisę visas arba dalį savo funkcijų, nustatytų šio straipsnio 11 dalies 21 ir 30 punktuose, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę dalį šio straipsnio 11 dalies 71 punkte nustatytų Tarybos funkcijų, susijusių su energetikos veiklos leidimų keitimu, leidimų galiojimo sustabdymu ir galiojimo sustabdymo panaikinimu, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę visas arba dalį Tarybos funkcijų, nustatytų šio straipsnio 11 dalies 20 punkte, susijusių su energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių įrengimo, eksploatavimo, techninės saugos, energijos ir energijos išteklių gamybos, perdavimo, skirstymo, tiekimo patikimumo patikrinimais, 22 punkte, 23 punkte, išskyrus funkcijas, susijusias su energetikos objektų, įrenginių avarijų ir darbo sutrikimais, 24 punkte, pavesti vykdyti Tarybos valstybės tarnautojui.
 
@@ -771,7 +829,11 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 14. Taryba, siekdama atlikti Reglamento (ES) Nr. 1227/2011 13 straipsnio 2 dalies d, f ir g punktuose nurodytus veiksmus, turi teisę pateikti prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones Vilniaus apygardos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Vilniaus apygardos administracinis teismas prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones patenkinti, patenkinti iš dalies arba atmesti. Prašymas išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones pateikimo momento. Jeigu Taryba nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones, ji turi teisę per 7 dienas nuo Vilniaus apygardos administracinio teismo nutarties priėmimo apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 dienas nuo Tarybos skundo priėmimo dienos. Tarybos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo išdavimo atlikti veiksmus ar taikyti laikinąsias apsaugos priemones, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Šio įstatymo 36 straipsnyje nustatytais atvejais Tarybai kreipiantis į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, mutatis mutandis taikomos šios dalies nuostatos.
 
-15. Tarybos strateginio veiklos plano projektas skelbiamas viešai teisės aktų nustatyta tvarka. Pasibaigus kalendoriniams metams, Taryba per keturis mėnesius parengia praėjusių metų veiklos ataskaitą, kurioje pateikiami ir strateginio veiklos plano įgyvendinimo rezultatai, ją paskelbia savo interneto svetainėje ir pateikia Respublikos Prezidentui, Seimui ir Vyriausybei. Tarybos finansinį ir veiklos auditą atlieka Lietuvos Respublikos valstybės kontrolė.
+15. Tarybos strateginio veiklos plano projektas skelbiamas viešai teisės aktų nustatyta tvarka. Pasibaigus kalendoriniams metams, Taryba per keturis mėnesius parengia praėjusių metų veiklos ataskaitą, kurioje pateikiami strateginio veiklos plano įgyvendinimo rezultatai, nurodomi veiksmai, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, pasiekti rezultatai, ir ją pateikia Respublikos Prezidentui, Seimui, Vyriausybei, o per šešis mėnesius šios ataskaitos dalis, skirtas gamtinių dujų ir elektros energetikos sektoriams, kaip nustatyta Direktyvos (ES) 2009/73/EB 41 straipsnyje ir Direktyvos (ES) 2019/944 59 straipsnyje, – Europos Komisijai ir Europos Sąjungos Energetikos reguliavimo institucijų bendradarbiavimo agentūrai (ACER), veikiančiai pagal Reglamentą (ES) 2019/942 (toliau – Energetikos reguliavimo institucijų bendradarbiavimo agentūra). Veiklos ataskaitoje Taryba taip pat nurodo veiksmus, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, ir pasiektus rezultatus. Taryba ataskaitą paskelbia savo interneto svetainėje. Tarybos finansinį ir veiklos auditą atlieka Lietuvos Respublikos valstybės kontrolė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 16. Tarybos veiklą užtikrina Tarybos administracija. Tarybos administracijos struktūrą, administracijos padalinių nuostatus, pareigybių sąrašus ir pareigybių aprašymus tvirtina Tarybos pirmininkas.
 
@@ -779,7 +841,11 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 18. Tarybos pajamos ir jų naudojimo tvarka:
 
-1) Tarybos kitų metų pajamos apskaičiuojamos pagal praėjusių metų atskirų energetikos sektorių energetikos įmonių veiklų, kurių kainos yra valstybės reguliuojamos, metines pajamas: 2,19 procento šilumos perdavimo veiklos pajamų, 0,5 procento elektros energijos perdavimo ir skirstymo pajamų bei Vyriausybės nutarimu patvirtintų Lietuvos Respublikos elektros energetikos įstatymo 74 straipsnio 2 dalies 2, 3 ir 4 punktuose nustatytas viešuosius interesus atitinkančias paslaugas teikiančių asmenų veiklų pajamų ir 1,37 procento gamtinių dujų skystinimo (pakartotinio dujinimo), perdavimo ir skirstymo veiklų pajamų;
+1) Tarybos kitų metų pajamos apskaičiuojamos pagal praėjusių metų atskirų energetikos sektorių energetikos įmonių veiklų, kurių kainos yra valstybės reguliuojamos, metines pajamas: 2,19 procento šilumos perdavimo veiklos pajamų, 0,59 procento elektros energijos perdavimo ir skirstymo pajamų bei Vyriausybės nutarimu patvirtintų Elektros energetikos įstatymo 74 straipsnio 2 dalies 2, 3 ir 4 punktuose nustatytas viešuosius interesus atitinkančias paslaugas teikiančių asmenų veiklų pajamų ir 1,37 procento gamtinių dujų skystinimo (pakartotinio dujinimo), perdavimo ir skirstymo veiklų pajamų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 2) šios dalies 1 punkte nustatyta tvarka apskaičiuotos Tarybos pajamos pripažįstamos energetikos įmonių pagrįstomis sąnaudomis nustatant šios dalies 1 punkte nurodytų veiklų kainas arba jų dalį;
 
@@ -861,7 +927,17 @@ Tarnyba užtikrina energijos ir (ar) energijos išteklių vartotojų teisių aps
 
 13) energijos kainodaros tobulinimo gairės;
 
-14) kiti su energetikos plėtra susiję klausimai.
+14) energetikos infrastuktūros plėtros gairės ir priemonės;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
+
+15) kiti su energetikos plėtra susiję klausimai.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 3. Energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, jų priemones ir jas įgyvendinančius projektus pagal kompetenciją įgyvendina valstybės ir savivaldybių institucijos, įstaigos, įmonės, organizacijos ir kiti energetikos politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose nurodyti asmenys.
 
@@ -899,11 +975,13 @@ Nr. XIII-3337, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22205
 
 2. Energetikos įmonės perduoda, skirsto, tiekia energiją vartotojams pagal energijos perdavimo, skirstymo, tiekimo ir vartojimo taisykles. Energetikos įmonės teisės aktų nustatyta tvarka turi teisę sustabdyti vartotojų aprūpinimą energija tik įstatymų nustatytais atvejais.
 
-3. Energetikos įmonės savo veiklos teritorijoje nustatyta tvarka prijungia energijos gamintojų, vartotojų energiją gaminančius ir (ar) naudojančius įrenginius prie veikiančių energijos perdavimo ar skirstymo tinklų ar sistemų. Prijungimo išlaidas pagal nustatytus įkainius, Tarybos nustatyta tvarka įvertinus būtinas prijungimo sąnaudas, padengia gamintojai ir (ar) vartotojai, jeigu įstatymuose nenustatytas išlaidų paskirstymas tarp tinklų (sistemų) operatoriaus ir gamintojo ar vartotojo. Prijungimo darbai atliekami pagal energetikos įmonės ir energijos gamintojo ar vartotojo privalomai sudaromą įrenginių prijungimo paslaugos sutartį.
+3. Energetikos įmonės savo veiklos teritorijoje nustatyta tvarka prijungia energijos gamintojų, energijos kaupimo įrenginių savininkų, vartotojų atitinkamai energiją gaminančius, kaupiančius ir (ar) naudojančius įrenginius prie veikiančių energijos perdavimo ar skirstymo tinklų ar sistemų. Prijungimo išlaidas pagal nustatytus įkainius, Tarybos nustatyta tvarka įvertinus būtinas prijungimo sąnaudas, padengia gamintojai, energijos kaupimo įrenginių savininkai ir (ar) vartotojai, jeigu įstatymuose nenustatytas išlaidų paskirstymas tarp tinklų (sistemų) operatoriaus ir gamintojo, energijos kaupimo įrenginių savininko ar vartotojo. Prijungimo darbai atliekami pagal energetikos įmonės, energijos kaupimo įrenginių savininko ir energijos gamintojo ar vartotojo privalomai sudaromą įrenginių prijungimo paslaugos sutartį.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 4. Energetikos įmonės, nuosavybės teise ar kitais teisėtais pagrindais valdančios energijos perdavimo ar skirstymo tinklus ar sistemas, teisės aktų nustatyta tvarka privalo trečiajam asmeniui teikti energijos perdavimo ar skirstymo paslaugas objektyviomis, nediskriminuojančiomis sąlygomis, atsižvelgdamos į technines perdavimo ir skirstymo tinklų ir (ar) sistemų galimybes.
 
@@ -1385,11 +1463,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
-19. Taryba, atlikdama jai pavestas energetikos veiklos reguliavimo, priežiūros ir kontrolės funkcijas, vadovaujasi Lietuvos Respublikos ir Europos Sąjungos teisės aktais, taip pat laikosi visų teisiškai privalomų Energetikos reguliavimo institucijų bendradarbiavimo agentūros (ACER), veikiančios pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 713/2009, įsteigiantį Energetikos reguliavimo institucijų bendradarbiavimo agentūrą, ir Europos Komisijos sprendimų ir juos įgyvendina. Tarybos vykdomų konsultacijų ir nacionalinio bei tarptautinio bendradarbiavimo principus nustato šio įstatymo 26 straipsnis ir atskirų energetikos sektorių veiklą reglamentuojančių įstatymų nuostatos.
+19. Taryba, atlikdama jai pavestas energetikos veiklos reguliavimo, priežiūros ir kontrolės funkcijas, vadovaujasi Lietuvos Respublikos ir Europos Sąjungos teisės aktais, taip pat laikosi visų teisiškai privalomų Energetikos reguliavimo institucijų bendradarbiavimo agentūros ir Europos Komisijos sprendimų ir juos įgyvendina. Tarybos vykdomų konsultacijų ir nacionalinio bei tarptautinio bendradarbiavimo principus nustato šio įstatymo 26 straipsnis ir atskirų energetikos sektorių veiklą reglamentuojančių įstatymų nuostatos.
 
 Straipsnio pakeitimai:
 
 Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 Straipsnio pakeitimai:
 
@@ -1411,19 +1493,19 @@ Straipsnio pakeitimai:
 
 Nr. XII-554, 2013-10-15, Žin., 2013, Nr. 111-5490 (2013-10-24)
 
-30 straipsnis. Energijos apskaita
+30 straipsnis. Energijos apskaita
 
-1. Pagaminta, perduodama, skirstoma, parduodama, eksportuojama, importuojama ar tranzitu perduodama energija turi būti įtraukiama į apskaitą.
+1. Pagaminta, perduodama, skirstoma, parduodama, eksportuojama, importuojama ar tranzitu perduodama energija turi būti įtraukiama į apskaitą.
 
-2. Šio straipsnio 1 dalyje nurodytos energijos apskaita turi būti tvarkoma energijos matavimo priemonėmis, kurių teisinis metrologinis patvirtinimas yra atliktas Lietuvos Respublikos metrologijos įstatymo nustatyta tvarka.
+2. Šio straipsnio 1 dalyje nurodytos energijos apskaita turi būti tvarkoma energijos matavimo priemonėmis ar išmaniosiomis energijos apskaitos sistemomis, išskyrus atskirų energetikos sektorių veiklą reglamentuojančiuose įstatymuose nustatytus atvejus. Matavimo priemonių, įskaitant matavimo priemones, kurios yra išmaniosios energijos apskaitos sistemos sudedamoji dalis, teisinis metrologinis patvirtinimas turi būti atliktas Metrologijos įstatymo nustatyta tvarka.
 
-Straipsnio dalies pakeitimai:
+3. Energijos matavimo priemones ar išmaniąsias energijos apskaitos sistemas savo lėšomis įrengia ir eksploatuoja perdavimo, skirstymo ar laikymo energetikos objektus nuosavybės teise ar kitais teisėtais pagrindais valdančios energetikos įmonės, išskyrus atskirų energetikos sektorių veiklą reglamentuojančiuose įstatymuose nustatytus atvejus. Atskirų energetikos sektorių veiklą reglamentuojančių įstatymų nustatytais atvejais ir tvarka šioje dalyje nurodytos energetikos įmonės energijos vartojimo ir (ar) gamybos apskaitai diegia išmaniąsias energijos apskaitos sistemas.
 
-Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+4. Energijos matavimo priemones ar išmaniąsias energijos apskaitos sistemas tarp energetikos objektų įrengia ir eksploatuoja energiją perduodančius energetikos objektus nuosavybės teise ar kitais teisėtais pagrindais juos valdančios energetikos įmonės savo lėšomis.
 
-3. Energijos matavimo priemones savo lėšomis įrengia ir eksploatuoja perdavimo, skirstymo ar laikymo energetikos objektus nuosavybės teise ar kitais teisėtais pagrindais valdančios energetikos įmonės.
+Straipsnio pakeitimai:
 
-4. Energijos matavimo priemones tarp energetikos objektų įrengia ir eksploatuoja energiją perduodančius energetikos objektus nuosavybės teise ar kitais teisėtais pagrindais juos valdančios energetikos įmonės savo lėšomis.
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 13 straipsnis. Savivaldybės administracijos direktoriaus kompetencija
 
@@ -1511,7 +1593,11 @@ Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 31 straipsnis. Duomenų saugojimas
 
-1. Energetikos įmonės, vykdančios energijos ar energijos išteklių tiekimo veiklą, ne mažiau kaip penkerius metus saugo ir kompetentingoms valstybės institucijoms, tarp jų Tarybai ir Konkurencijos tarybai, šių prašymu pateikia visų sandorių su vartotojais (išskyrus buitinius vartotojus) ir perdavimo sistemos operatoriais, sudarytų pagal elektros energijos ar dujų tiekimo sutartis ir elektros energijos ar dujų rinkos išvestines finansines priemones, duomenis.
+1. Energetikos įmonės, vykdančios energijos ar energijos išteklių tiekimo veiklą, ne mažiau kaip penkerius metus saugo ir kompetentingoms valstybės institucijoms, tarp jų Tarybai, Konkurencijos tarybai ir Europos Komisijai, šių prašymu pateikia visų sandorių su elektros energijos didmenininkais ir didmeniniais gamtinių dujų vartotojais ir perdavimo sistemos operatoriais, sudarytų pagal elektros energijos ar dujų tiekimo sutartis ir elektros energijos ar dujų rinkos išvestines finansines priemones, duomenis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 2. Šio straipsnio 1 dalyje nurodytus duomenis sudaro išsamūs sandorių su vartotojais duomenys, tarp jų sandorių galiojimo terminai, tiekimo ir apmokėjimo sąlygos, šalių įsipareigojimai, sandorio vykdymo datos ir terminai, sandorio kainos, atitinkamo didmeninio vartotojo identifikavimo priemonės, taip pat išsami informacija apie visas neįvykdytas elektros energijos ar dujų tiekimo sutartis ir elektros energijos ar dujų rinkos išvestines finansines priemones.
 
@@ -1707,53 +1793,43 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
-Lietuvos Respublikos                                                                                                 energetikos įstatymo                                                                                                 priedas
+Lietuvos Respublikos
+
+energetikos įstatymo
+
+priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1992 m. gegužės 21 d. Tarybos direktyva 92/42/EEB dėl naudingumo koeficiento reikalavimų naujiems karšto vandens katilams, deginantiems skystąjį arba dujinį kurą (OL 2004 m. specialusis leidimas, 13 skyrius, 11 tomas, p. 186), su paskutiniais pakeitimais, padarytais 2008 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2007/28/EB, iš dalies keičiančia Direktyvą 2005/32/EB, nustatančią ekologinio projektavimo reikalavimų energiją vartojantiems gaminiams nustatymo sistemą, taip pat Tarybos direktyvą 92/42/EEB bei direktyvų 96/57/EB ir 2000/55/EB nuostatas, susijusias su Komisijai suteiktais įgyvendinimo įgaliojimais (OL 2008 L 81, p. 48).
+1. 1992 m. gegužės 21 d. Tarybos direktyva 92/42/EEB dėl naudingumo koeficiento reikalavimų naujiems karšto vandens katilams, deginantiems skystąjį arba dujinį kurą, su paskutiniais pakeitimais, padarytais 2008 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2007/28/EB, iš dalies keičiančia Direktyvą 2005/32/EB, nustatančią ekologinio projektavimo reikalavimų energiją vartojantiems gaminiams nustatymo sistemą, taip pat Tarybos direktyvą 92/42/EEB bei direktyvų 96/57/EB ir 2000/55/EB nuostatas, susijusias su Komisijai suteiktais įgyvendinimo įgaliojimais.
 
-2. 1992 m. rugsėjo 22 d. Tarybos direktyva 92/75/EEB dėl buitinių prietaisų energijos ir kitų išteklių sunaudojimo parodymo ženklinant gaminį bei pateikiant standartinę informaciją apie gaminį (OL 2004 m. specialusis leidimas, 13 skyrius, 11 tomas, p. 216) su paskutiniais pakeitimais, padarytais 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/30/ES dėl su energija susijusių gaminių suvartojamos energijos ir kitų išteklių nurodymo ženklinant gaminį ir apie jį pateikiant standartinę informaciją (OL 2010 L 153, p. 1).
+2. 2009 m. kovo 18 d. Komisijos reglamentas (EB) Nr. 245/2009, kuriuo įgyvendinama Europos Parlamento ir Tarybos direktyva 2005/32/EB, nustatant liuminescencinių lempų su įmontuotu balastiniu įtaisu, didelio intensyvumo išlydžio lempų, balastinių įtaisų ir tas lempas naudoti pritaikytų šviestuvų ekologinio projektavimo reikalavimus, ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2000/55/EB, su paskutiniais pakeitimais, padarytais 2010 m. balandžio 21 d. Komisijos reglamentu (ES) Nr. 347/2010, kuriuo iš dalies keičiamas Komisijos reglamentas (EB) Nr. 245/2009 dėl liuminescencinių lempų be įmontuoto balastinio įtaiso, didelio intensyvumo išlydžio lempų, balastinių įtaisų ir tas lempas naudoti pritaikytų šviestuvų ekologinio projektavimo reikalavimų.
 
-3. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/91/EB dėl pastatų energinio naudingumo (OL 2004 m. specialusis leidimas, 12 skyrius, 2 tomas, p. 168) su paskutiniais pakeitimais, padarytais 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/31/ES dėl pastatų energinio naudingumo (OL 2010 L 153, p. 13).
+3. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/28/EB dėl skatinimo naudoti atsinaujinančių išteklių energiją, iš dalies keičianti bei vėliau panaikinanti direktyvas 2001/77/EB ir 2003/30/EB.
 
-4. 2006 m. sausio 18 d. Europos Parlamento ir Tarybos direktyva 2005/89/EB dėl priemonių siekiant užtikrinti elektros energijos tiekimo saugumą ir investicijas į infrastruktūrą (OL 2006 L 33, p. 22).
+4. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB.
 
-5. 2006 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2006/32/EB dėl energijos galutinio vartojimo efektyvumo ir energetinių paslaugų, panaikinanti Tarybos direktyvą 93/76/EEB (OL 2006 L 114, p. 64), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 dėl kai kurių teisės aktų, kuriems taikoma Sutarties 251 straipsnyje nustatyta tvarka, nuostatų, susijusių su reguliavimo procedūra su tikrinimu, suderinimo su Tarybos sprendimu 1999/468/EB (OL 2008 L 311, p. 1).
+5. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinantis Reglamentą (EB) Nr. 1775/2005, su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančiu Reglamentą (EB) Nr. 1775/2005.
 
-6. 2009 m. kovo 18 d. Komisijos reglamentas (EB) Nr. 245/2009, kuriuo įgyvendinama Europos Parlamento ir Tarybos direktyva 2005/32/EB, nustatant liuminescencinių lempų su įmontuotu balastiniu įtaisu, didelio intensyvumo išlydžio lempų, balastinių įtaisų ir tas lempas naudoti pritaikytų šviestuvų ekologinio projektavimo reikalavimus, ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2000/55/EB (OL 2009 L 76, p. 17), su paskutiniais pakeitimais, padarytais 2010 m. balandžio 21 d. Komisijos reglamentu (ES) Nr. 347/2010, kuriuo iš dalies keičiamas Komisijos reglamentas (EB) Nr. 245/2009 dėl liuminescencinių lempų be įmontuoto balastinio įtaiso, didelio intensyvumo išlydžio lempų, balastinių įtaisų ir tas lempas naudoti pritaikytų šviestuvų ekologinio projektavimo reikalavimų (OL 2010 L 104, p. 20).
+6. 2009 m. liepos 22 d. Komisijos reglamentas (EB) Nr. 643/2009, kuriuo įgyvendinant Europos Parlamento ir Tarybos direktyvą 2005/32/EB nustatomi buitinių šaldymo aparatų ekologinio projektavimo reikalavimai, su paskutiniais pakeitimais, padarytais 2009 m. liepos 22 d. Komisijos reglamentu (EB) Nr. 643/2009, kuriuo įgyvendinant Europos Parlamento ir Tarybos direktyvą 2005/32/EB nustatomi buitinių šaldymo aparatų ekologinio projektavimo reikalavimai.
 
-7. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/28/EB dėl skatinimo naudoti atsinaujinančių išteklių energiją, iš dalies keičianti bei vėliau panaikinanti direktyvas 2001/77/EB ir 2003/30/EB (OL 2009 L 140, p. 16).
+7. 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/31/ES dėl pastatų energinio naudingumo.
 
-8. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/72/EB dėl elektros energijos vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/54/EB (OL 2009 L 211, p. 55).
+8. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo.
 
-9. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB (OL 2009 L 211, p. 94).
+9. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/27/ES dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamos direktyvos 2009/125/EB ir 2010/30/ES bei kuria panaikinamos direktyvos 2004/8/EB ir 2006/32/EB.
 
-10. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 713/2009, įsteigiantis Energetikos reguliavimo institucijų bendradarbiavimo agentūrą (OL 2009 L 211, p. 1).
+10. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/942, kuriuo įsteigiama Europos Sąjungos energetikos reguliavimo institucijų bendradarbiavimo agentūra.
 
-11. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinantis Reglamentą (EB) Nr. 1228/2003 (OL 2009 L 211, p. 15).
+11. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/943 dėl elektros energijos vidaus rinkos.
 
-12. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinantis Reglamentą (EB) Nr. 1775/2005 (OL 2009 L 211, p. 36), su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančio Reglamentą (EB) Nr. 1775/2005 (OL 2009 L 309, p. 87).
-
-13. 2009 m. liepos 22 d. Komisijos reglamentas (EB) Nr. 643/2009, kuriuo įgyvendinant Europos Parlamento ir Tarybos direktyvą 2005/32/EB nustatomi buitinių šaldymo aparatų ekologinio projektavimo reikalavimai (OL 2009 L 191, p. 53), su paskutiniais pakeitimais, padarytais 2009 m. liepos 22 d. Komisijos reglamentu (EB) Nr. 643/2009, kuriuo įgyvendinant Europos Parlamento ir Tarybos direktyvą 2005/32/EB nustatomi buitinių šaldymo aparatų ekologinio projektavimo reikalavimai (OL 2009 L 226, p. 23).
-
-14. 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/30/ES dėl su energija susijusių gaminių suvartojamos energijos ir kitų išteklių nurodymo ženklinant gaminį ir apie jį pateikiant standartinę informaciją (OL 2010 L 153, p. 1).
-
-15. 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/31/ES dėl pastatų energinio naudingumo (OL 2010 L 153, p. 13).
-
-16. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1).
-
-17. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/27/ES dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamos direktyvos 2009/125/EB ir 2010/30/ES bei kuria panaikinamos direktyvos 2004/8/EB ir 2006/32/EB (OL 2012 L 315, p. 1).
-
-Papildyta punktu:
-
-Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+12. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES.
 
 Priedo pakeitimai:
 
-Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 Pakeitimai:
 
@@ -2096,6 +2172,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 1, 2, 4, 5, 6, 7, 13-1, 14, 15, 18 ir 27 straipsnių pakeitimo įstatymas
+
+28.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 5, 6, 8, 14, 16, 26, 30 ir 31 straipsnių ir priedo pakeitimo įstatymas
 
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
