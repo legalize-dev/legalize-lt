@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2021-10-16"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-10-16 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
 
@@ -75,6 +75,12 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
 
+41. Ekonomikos ir inovacijų ministerija, jos savininko teises ir pareigas įgyvendinančios institucijos pritarimu, gali steigti ir panaikinti prekybos atstovybes.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-557, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21225
+
 5. Biudžetinei įstaigai draudžiama:
 
 Straipsnio dalies numeracijos pakeitimas:
@@ -87,7 +93,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
 
-2) steigti atstovybes;
+2) steigti atstovybes (išskyrus prekybos atstovybes);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-557, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21225
 
 3) užtikrinti kitų asmenų prievolių vykdymą.
 
@@ -526,4 +536,12 @@ BIUDŽETINĖS ĮSTAIGOS TURTAS. BUHALTERINĖ APSKAITA, METINIŲ ATASKAITŲ RINKI
 Pakeistas skyriaus pavadinimas:
 
 Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
+
+21 straipsnis. Lietuvos Respublikos prekybos atstovybė
+
+Lietuvos Respublikos prekybos atstovybė – Lietuvos Respublikos ekonomikos ir inovacijų ministerijos atstovybė, veikianti užsienyje ir padedanti įgyvendinti valstybės ekonomikos politiką (toliau – prekybos atstovybė).
+
+Papildyta straipsniu:
+
+Nr. XIV-557, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21225
 
