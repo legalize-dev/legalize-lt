@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -2759,17 +2759,23 @@ Nr. XI-1843, 2011-12-22, Žin., 2012, Nr. 6-179 (2012-01-10)
 
 746 straipsnis. Išieškojimo iš hipoteka ar įkeitimu įkeisto turto tvarkos ypatumai
 
-1. Priėmęs vykdyti vykdomąjį įrašą, antstolis skolininkui išsiunčia raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą per vieną mėnesį nuo raginimo įteikimo dienos, o raginimo kopiją išsiunčia įkaito davėjui (kai jis nėra skolininkas) ir kitiems Hipotekos registre nurodytiems kreditoriams. Šiame raginime turi būti nurodyta skolininko teisė pateikti duomenis apie įvykdytą hipoteka ar įkeitimu užtikrintą įsipareigojimą ar jo dalį. Raginimo turiniui ir įteikimui mutatis mutandis taikomos šio Kodekso XLVI skyriaus normos.
+1. Priėmęs vykdyti vykdomąjį įrašą, antstolis skolininkui išsiunčia raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą per vieną mėnesį nuo raginimo įteikimo dienos, o raginimo kopiją išsiunčia įkaito davėjui (kai jis nėra skolininkas) ir kitiems viešame registre nurodytiems kreditoriams. Šiame raginime turi būti nurodyta skolininko teisė pateikti duomenis apie įvykdytą hipoteka ar įkeitimu užtikrintą įsipareigojimą ar jo dalį. Raginimo turiniui ir įteikimui mutatis mutandis taikomos šio Kodekso XLVI skyriaus normos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2724, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00083
 
 2. Išsiuntęs ar įteikęs raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą, antstolis areštuoja įkaito davėjo turtą šio Kodekso XLVIII skyriaus nustatyta tvarka.
 
-3. Jeigu skolininkas, gavęs antstolio raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą, per raginime nurodytą terminą neįvykdo hipoteka ar įkeitimu užtikrinto skolinio įsipareigojimo, antstolis nustato įkeisto turto administravimą arba įkeistą turtą realizuoja priverstine tvarka. Hipotekos ar įkeitimo kreditoriaus prašymu skolininko pasiūlytam pirkėjui ar varžytynėse pardavęs įkeistą turtą ir surašęs turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių aktą arba įkeistą turtą perdavęs hipotekos ar įkeitimo kreditoriui ir surašęs neparduoto iš varžytynių turto perdavimo išieškotojui aktą, antstolis nedelsdamas apie tai praneša Hipotekos registrui ir pateikia tai patvirtinančius dokumentus.
+3. Jeigu skolininkas, gavęs antstolio raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą, per raginime nurodytą terminą neįvykdo hipoteka ar įkeitimu užtikrinto skolinio įsipareigojimo, antstolis nustato įkeisto turto administravimą arba įkeistą turtą realizuoja priverstine tvarka. Hipotekos ar įkeitimo kreditoriaus prašymu skolininko pasiūlytam pirkėjui ar varžytynėse pardavęs įkeistą turtą ir surašęs turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių aktą arba įkeistą turtą perdavęs hipotekos ar įkeitimo kreditoriui ir surašęs neparduoto iš varžytynių turto perdavimo išieškotojui aktą, antstolis nedelsdamas apie tai praneša viešam registrui ir pateikia tai patvirtinančius dokumentus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+
+Nr. XIII-2724, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00083
 
 4. Kai išieškoma pagal įmonės hipotekos sandorį, vykdomąjį įrašą priėmęs vykdyti antstolis šio Kodekso 677 straipsnyje nustatyta tvarka sudaro hipotekos objektu esančios įmonės turto aprašą ir priima patvarkymą paskirti hipotekos kreditorių arba kreditoriaus sutikimu kitą asmenį įmonės turto administratoriumi. Šiuo atveju įkeistos įmonės valdymo organai iš administruojamo įmonės turto gaunamas pajamas perveda į antstolio depozitinę sąskaitą, iš kurios lėšos paskirstomos hipotekos kreditoriams atsižvelgiant į jų reikalavimų tenkinimo eilę.
 
@@ -4599,7 +4605,7 @@ Prašymai dėl užsienio teismų sprendimų pripažinimo ir vykdymo, gauti iki C
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 PATVIRTINTAS
 
@@ -11621,7 +11627,11 @@ Negalima išieškoti iš sumų, kurios priklauso skolininkui kaip:
 
 6) išmokos, mokamos pagal Šalpos pensijų įstatymą ir Lietuvos Respublikos tikslinių kompensacijų įstatymą, ir kitos tikslinės socialinės išmokos, pašalpos ir kompensacijos iš valstybės ir savivaldybių biudžetų nepasiturinčių gyventojų socialinei paramai;
 
-7) valstybinė socialinio draudimo našlaičių pensija, mokama pagal Lietuvos Respublikos valstybinio socialinio draudimo pensijų įstatymą, valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos valstybinių pensijų įstatymą, pareigūnų ir karių valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymą, valstybinė signataro našlaičių renta, Respublikos Prezidento našlaičių valstybinė renta;
+7) socialinio draudimo našlaičių pensija ir socialinio draudimo našlių pensija, mokamos pagal Lietuvos Respublikos socialinio draudimo pensijų įstatymą, valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos valstybinių pensijų įstatymą, pareigūnų ir karių valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymą, valstybinė signataro našlaičių renta, Respublikos Prezidento našlaičių valstybinė renta;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-722, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25840
 
 8) išeitinės išmokos, išskyrus atvejus, kai vykdomi šio Kodekso 736 straipsnio 1 dalies 1 punkte nurodyti išieškojimai. Jeigu skolininkui išmokama didesnė negu vieno mėnesio jo vidutinio darbo užmokesčio išeitinė išmoka, vykdant šio Kodekso 736 straipsnio 1 dalies 1 punkte nurodytus išieškojimus, šio Kodekso 736 straipsnyje nustatyto dydžio išskaitos daromos atskirai iš kiekvieno mėnesio vidutinio darbo užmokesčio išeitinės išmokos;
 
@@ -11629,11 +11639,17 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
-9) laisvės atėmimo vietos įstaigoje atidarytoje nuteistojo asmeninėje sąskaitoje esančios piniginės lėšos, neviršijančios pusės Lietuvos Respublikos bausmių vykdymo kodekso 92 straipsnio 2 dalyje nustatytų dydžių.
+9) laisvės atėmimo vietos įstaigoje atidarytoje nuteistojo asmeninėje sąskaitoje esančios piniginės lėšos, neviršijančios pusės Lietuvos Respublikos bausmių vykdymo kodekso 92 straipsnio 2 dalyje nustatytų dydžių;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
+
+10) vienišo asmens išmoka, mokama pagal Lietuvos Respublikos vienišo asmens išmokos įstatymą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-722, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25840
 
 Straipsnio pakeitimai:
 
