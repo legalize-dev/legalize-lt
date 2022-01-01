@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2021-12-31"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2021-12-31 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-07-21
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
 
@@ -96,7 +96,11 @@ Vilnius
 
 27. Vidaus kreditoriai – juridiniai ar fiziniai asmenys, kurių pagrindiniai asmeniniai ir ekonominiai interesai yra Lietuvos Respublikoje, kurie nuolat veikia ar gyvena Lietuvos Respublikoje arba veikia ar gyvena kitose šalyse trumpiau negu vienus metus ir yra įsigiję Vyriausybės vertybinių popierių arba ne nuosavybės vertybinių popierių, suteikę paskolų pagal paskolų sutartis arba kitus įsipareigojamuosius skolos dokumentus.
 
-28. Vyriausybės depozitinio įsipareigojimo sutartis – sutartis, kuria patvirtinamas Vyriausybės valstybės vardu prisiimtas įsipareigojimas grąžinti iš užsienio šalies vyriausybės arba užsienio šalies skolos valdymo įstaigos, kuri įpareigota valdyti arba dalyvauja valdant valstybės skolą, gautą pinigų sumą šioje sutartyje nustatytomis sąlygomis ir tvarka.
+28. Vyriausybės depozitinio įsipareigojimo sutartis – sutartis, kuria patvirtinamas Vyriausybės valstybės vardu prisiimtas įsipareigojimas grąžinti iš vidaus ar užsienio kreditoriaus gautą pinigų sumą šioje sutartyje nustatytomis sąlygomis ir tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-660, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24264
 
 29. Vyriausybės vertybiniai popieriai – vidaus ar užsienio rinkose Vyriausybės valstybės vardu išleidžiami vertybiniai popieriai, kuriais patvirtinama jų turėtojų teisė nustatytais terminais gauti jų nominaliąją vertę atitinkančią sumą, palūkanas ar kitą ekvivalentą.
 
@@ -607,6 +611,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-845, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27744
 
 Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymo Nr. XIII-3031 2 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-660, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24264
+
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 straipsnio pakeitimo įstatymas
 
 12 straipsnis. Atskaitomybė
 
