@@ -4,7 +4,7 @@ identifier: "TAR.DCBDC82E26CD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-23"
-last_updated: "2020-11-21"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2020-11-21 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
 
@@ -138,7 +138,11 @@ Nr. XII-2116, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19704
 
 18) duomenys apie asmens neveiksnumą ir veiksnumo apribojimą;
 
-19) asmens kontaktiniai duomenys (virtualusis adresas, tai yra Lietuvos Respublikos adresų registre įregistruoto adreso atitikmuo elektroninėje erdvėje; Nacionalinės elektroninių pranešimų ir elektroninių dokumentų pristatymo fiziniams ir juridiniams asmenims, naudojant pašto tinklą, informacinėje sistemoje sukurtos elektroninio pristatymo dėžutės adresas; fiksuotojo arba judriojo ryšio telefono numeris, jeigu asmuo sutinka, kad jo telefono numeris būtų naudojamas Gyventojų registro tvarkymo tikslais ir (ar) teikiamas tretiesiems asmenims).
+19) asmens kontaktiniai duomenys (Nacionalinės elektroninių siuntų pristatymo, naudojant pašto tinklą, informacinės sistemos aktyvuotos elektroninio pristatymo dėžutės adresas; elektroninio pašto adresas ir fiksuotojo arba judriojo ryšio telefono numeris, kurie naudojami susisiekti su asmenimis teikiant jiems Gyventojų registro duomenis, dokumentus ar informaciją pagal pateiktus prašymus, informuojant asmenis apie jiems išduoto kvalifikuoto elektroninio parašo sertifikato galiojimo sustabdymą ar galiojimo atšaukimą).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
 
 2. Šio straipsnio 1 dalies 13, 14 ir 15 punktuose nurodyti duomenys apie asmenis be pilietybės ir kitų valstybių piliečius į Gyventojų registrą įrašomi, jeigu jie pagrįsti Lietuvos Respublikoje išduotais dokumentais.
 
@@ -146,17 +150,29 @@ Nr. XII-2116, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19704
 
 10 straipsnis. Gyventojų registro duomenų tvarkymas
 
-1. Gyventojų registro duomenys tvarkomi vadovaujantis šiuo įstatymu, Valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu (toliau – Asmens duomenų teisinės apsaugos įstatymas) ir Gyventojų registro nuostatais.
+1. Gyventojų registro duomenys tvarkomi vadovaujantis šiuo įstatymu, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – Bendrasis duomenų apsaugos reglamentas), Valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir Gyventojų registro nuostatais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
 
 2. Gyventojų registrui teikiami duomenys turi būti pagrįsti dokumentais. Duomenys apie asmenį renkami, į Gyventojų registrą įrašomi ir atnaujinami Gyventojų registro nuostatuose nustatyta tvarka.
 
 3. Visi Gyventojų registre įregistruotų Gyventojų registro objektų duomenys ir jų pakeitimai yra saugomi ir tvarkomi vienoje Gyventojų registro duomenų bazėje.
 
-4. Gyventojų registro duomenys saugomi Asmens duomenų teisinės apsaugos įstatyme, Valstybės informacinių išteklių valdymo įstatyme, šiame įstatyme ir Gyventojų registro nuostatuose nustatyta tvarka.
+4. Gyventojų registro duomenys saugomi Bendrajame duomenų apsaugos reglamente, Valstybės informacinių išteklių valdymo įstatyme, šiame įstatyme ir Gyventojų registro nuostatuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
 
 11 straipsnis. Gyventojų registro duomenų teikimas ir naudojimas
 
-1. Gyventojų registro duomenys teikiami ir naudojami vadovaujantis šiuo įstatymu, Valstybės informacinių išteklių valdymo įstatymu, Asmens duomenų teisinės apsaugos įstatymu ir Gyventojų registro nuostatais.
+1. Gyventojų registro duomenys teikiami ir naudojami vadovaujantis šiuo įstatymu, Bendruoju duomenų apsaugos reglamentu, Valstybės informacinių išteklių valdymo įstatymu, Asmens duomenų teisinės apsaugos įstatymu ir Gyventojų registro nuostatais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
 
 2. Registrų ir valstybės informacinių sistemų valdytojai, tvarkytojai, kitos Lietuvos Respublikos valdžios institucijos, viešojo administravimo subjektai, savo funkcijoms atlikti naudojantys šio įstatymo 9 straipsnyje išvardytus asmens duomenis, privalo užtikrinti, kad jie atitiktų Gyventojų registre tvarkomus duomenis.
 
@@ -170,25 +186,21 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1405, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11466
 
-6. Informacija apie giminystės ir svainystės ryšius gali būti teikiama teisėtvarkos, žvalgybos subjektams, mokesčių administravimo institucijoms, Vyriausiajai tarnybinės etikos komisijai teisės aktuose nustatytoms funkcijoms atlikti; Lietuvos Respublikos Seimo komisijoms – įstatymų, Lietuvos Respublikos Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Informacija apie giminystės ryšius gali būti teikiama notarams paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinei veiklai atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais; Nekilnojamojo turto registro tvarkytojui – kai įregistruojami nekilnojamieji daiktai, įgyti nuosavybėn įgyjamąja senatimi; Įmonių bankroto valdymo departamentui prie Ūkio ministerijos – bankroto administratoriaus giminystės ir svainystės apribojimams nustatyti.
+6. Informacija apie giminystės ir svainystės ryšius gali būti teikiama teisėtvarkos, žvalgybos subjektams, mokesčių administravimo institucijoms teisės aktuose nustatytoms funkcijoms atlikti; Lietuvos Respublikos Seimo komisijoms – įstatymų, Lietuvos Respublikos Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Informacija apie giminystės ryšius gali būti teikiama Vyriausiajai tarnybinės etikos komisijai teisės aktuose jai nustatytoms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinei veiklai atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais; Nekilnojamojo turto registro tvarkytojui – kai įregistruojami nekilnojamieji daiktai, įgyti nuosavybėn įgyjamąja senatimi; Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybai prie Lietuvos Respublikos finansų ministerijos – nemokumo administratoriaus skyrimo apribojimams nustatyti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3411, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24581
 
+Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
+
 7. Informacija apie asmens tautybę, neveiksnumą ir veiksnumo apribojimą kitiems asmenims ir institucijoms gali būti teikiama tik įstatymų ar kitų teisės aktų nustatytoms tiesioginėms funkcijoms atlikti.
 
-12 straipsnis. Asmens, kurio duomenys tvarkomi Gyventojų registre, teisės
+12 straipsnis. Neteko galios nuo 2022-01-01
 
-1. Asmens, kurio duomenys tvarkomi Gyventojų registre, teises reglamentuoja šis įstatymas, Asmens duomenų teisinės apsaugos įstatymas ir Gyventojų registro nuostatai.
+Straipsnio naikinimas:
 
-2. Asmuo, kurio duomenys įrašyti į Gyventojų registrą, Gyventojų registro nuostatuose nustatyta tvarka turi teisę:
-
-1) susipažinti ir gauti dokumentą su savo, savo nepilnamečių vaikų ir įvaikių, taip pat asmenų, kuriems nustatyta globa ar rūpyba, duomenimis;
-
-2) reikalauti patikslinti į Gyventojų registrą įrašytus netikslius, neteisingus, neišsamius savo, savo nepilnamečių vaikų ir įvaikių, taip pat asmenų, kuriems nustatyta globa ar rūpyba, duomenis;
-
-3) apskųsti Gyventojų registro tvarkytojo (tvarkytojų) atsisakymą pateikti arba patikslinti prašomus Gyventojų registro duomenis Gyventojų registro valdytojui; Gyventojų registro valdytojo atsakymą – Valstybinei duomenų apsaugos inspekcijai; Valstybinės duomenų apsaugos inspekcijos sprendimą – teismui Lietuvos Respublikos įstatymų nustatyta tvarka.
+Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
 
 13 straipsnis. Gyventojų registro duomenų teikėjai, jų pagrindinės teisės ir pareigos
 
@@ -200,7 +212,11 @@ Nr. XIII-3411, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24581
 
 4. Gyventojų registro duomenų teikėjai privalo:
 
-1) teikti duomenis Gyventojų registro tvarkytojui (tvarkytojams) šiame įstatyme, Valstybės informacinių išteklių valdymo įstatyme, Asmens duomenų teisinės apsaugos įstatyme ir Gyventojų registro nuostatuose nustatyta tvarka;
+1) teikti duomenis Gyventojų registro tvarkytojui (tvarkytojams) šiame įstatyme, Bendrajame duomenų apsaugos reglamente, Valstybės informacinių išteklių valdymo įstatyme ir Gyventojų registro nuostatuose nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
 
 2) užtikrinti, kad teikiami duomenys būtų teisingi, tikslūs, išsamūs, atitiktų dokumentus ir kad būtų nuolat atnaujinami Gyventojų registro nuostatuose nustatyta tvarka;
 
@@ -212,7 +228,11 @@ Nr. XIII-3411, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24581
 
 1. Gyventojų registro valdytojas ir tvarkytojas (tvarkytojai) pagal kompetenciją užtikrina Gyventojų registro asmens duomenų apsaugą ir duomenų saugą, kaip to reikalauja Lietuvos Respublikos įstatymai ir kiti teisės aktai.
 
-2. Gyventojų registro tvarkytojo (tvarkytojų) darbuotojai turi pasirašyti pasižadėjimus, kad saugos asmens duomenų paslaptį ir nepažeis šio įstatymo ir Asmens duomenų teisinės apsaugos įstatymo.
+2. Gyventojų registro tvarkytojo (tvarkytojų) darbuotojai turi pasirašyti pasižadėjimus, kad saugos asmens duomenų paslaptį ir nepažeis šio įstatymo, Bendrojo duomenų apsaugos reglamento ir Asmens duomenų teisinės apsaugos įstatymo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
 
 15 straipsnis. Gyventojų registro finansavimas
 
@@ -232,7 +252,7 @@ LIETUVOS RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS TARYBOS
 
-PIRMININKO PAVADUOTOJAS                            BRONISLOVAS KUZMICKAS
+PIRMININKO PAVADUOTOJAS                             BRONISLOVAS KUZMICKAS
 
 Vilnius, 1992 m. sausio 23 d.
 
@@ -319,6 +339,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3411, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24581
 
 Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 11 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
+
+Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 9, 10, 11, 13, 14 straipsnių pakeitimo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
 
 18 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
