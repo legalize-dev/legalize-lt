@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2021-07-03"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2021-07-03 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-05-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -802,7 +802,11 @@ Nr. XI-1961, 2012-04-12, Žin., 2012, Nr. 48-2330 (2012-04-24)
 
 1. Asmenų, nurodytų šio straipsnio 2 dalyje, privalomojo sveikatos draudimo įmokas apskaičiuoja ir sumoka draudėjai Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
 
-2. Asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 1–5 dalyse, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos.
+2. Asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 1–5 dalyse, ir 4 straipsnio 6 dalyje nurodyti asmenys, atlygintinai einantys renkamąsias ar skiriamąsias pareigas, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-751, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26583
 
 3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 ir 4–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Šios įmokos dydis – 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną.
 
