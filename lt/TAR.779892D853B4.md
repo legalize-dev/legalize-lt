@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2022-01-01"
+last_updated: "2022-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2022-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -140,11 +140,15 @@ Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA0
 
 3) lėšų priėmimas išduodant korteles ar kitas priemones, kurios naudojamos įsigyjant prekes arba paslaugas tik iš šias korteles ar kitas priemones išdavusio asmens;
 
-4) sutelktinio finansavimo sandorių sudarymas per sutelktinio finansavimo platformą, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme, jeigu projekto savininkas nesiverčia sandorių, turinčių galimos rizikos požymių, sudarymu;
+4) sutelktinio finansavimo sandorių sudarymas per sutelktinio finansavimo platformą, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme, arba sutelktinio finansavimo paslaugų teikimas per sutelktinio finansavimo platformą, kaip tai apibrėžta 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, jeigu projekto savininkas nesiverčia sandorių, turinčių galimos rizikos požymių, sudarymu;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 5) viešas skolos vertybinių popierių leidimas, jeigu emitentas nesiverčia sandorių, turinčių galimos rizikos požymių, sudarymu.
 
@@ -462,11 +466,15 @@ Papildyta straipsnio punktu:
 
 Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA00XI-203
 
-21) sutelktinio finansavimo platformos operatoriaus veikla, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme;
+21) sutelktinio finansavimo platformos operatoriaus veikla, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme, arba sutelktinio finansavimo paslaugų teikėjo veikla, kaip tai apibrėžta Reglamente (ES) 2020/1503;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 22) tarpusavio skolinimo platformos operatoriaus veikla.
 
@@ -489,6 +497,12 @@ Straipsnio dalies pakeitimai:
 Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
 
 5. Finansų įstaigos gali teikti finansines paslaugas užsienio valiuta, jeigu tai nustatyta Lietuvos Respublikos įstatymuose.
+
+6. Reglamento (ES) 2020/1503 1 straipsnio 3 dalyje nurodytais atvejais nereikalaujama kredito įstaigos ar kitų licencijų ir leidimų, susijusių su sutelktinio finansavimo paslaugų teikimu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 4 straipsnis. Finansų įstaiga
 
@@ -1632,7 +1646,11 @@ priedas
 
 1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366.
 
-2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/878.
+2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2021 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/338.
+
+Punkto pakeitimai:
+
+Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 3. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB.
 
