@@ -4,7 +4,7 @@ identifier: "TAR.DCBDC82E26CD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-23"
-last_updated: "2022-01-01"
+last_updated: "2022-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2025-05-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
 
@@ -186,13 +186,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1405, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11466
 
-6. Informacija apie giminystės ir svainystės ryšius gali būti teikiama teisėtvarkos, žvalgybos subjektams, mokesčių administravimo institucijoms teisės aktuose nustatytoms funkcijoms atlikti; Lietuvos Respublikos Seimo komisijoms – įstatymų, Lietuvos Respublikos Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Informacija apie giminystės ryšius gali būti teikiama Vyriausiajai tarnybinės etikos komisijai teisės aktuose jai nustatytoms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinei veiklai atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais; Nekilnojamojo turto registro tvarkytojui – kai įregistruojami nekilnojamieji daiktai, įgyti nuosavybėn įgyjamąja senatimi; Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybai prie Lietuvos Respublikos finansų ministerijos – nemokumo administratoriaus skyrimo apribojimams nustatyti.
+6. Informacija apie giminystės ir svainystės ryšius gali būti teikiama teisėtvarkos, žvalgybos subjektams, mokesčių administravimo institucijoms teisės aktuose nustatytoms funkcijoms atlikti; Lietuvos Respublikos Seimo komisijoms – įstatymų, Lietuvos Respublikos Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Informacija apie giminystės ryšius gali būti teikiama Vyriausiajai tarnybinės etikos komisijai teisės aktuose jai nustatytoms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinei veiklai atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais; Nekilnojamojo turto registro tvarkytojui – kai įregistruojami nekilnojamieji daiktai, įgyti nuosavybėn įgyjamąja senatimi; Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybai prie Lietuvos Respublikos finansų ministerijos – nemokumo administratoriaus skyrimo apribojimams nustatyti; Lietuvos gyventojų genocido ir rezistencijos tyrimo centrui – kai to reikia organizuojant okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų palaikų identifikavimą, ieškant jų giminaičių.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3411, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24581
 
 Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
+
+Nr. XIV-729, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25847
 
 7. Informacija apie asmens tautybę, neveiksnumą ir veiksnumo apribojimą kitiems asmenims ir institucijoms gali būti teikiama tik įstatymų ar kitų teisės aktų nustatytoms tiesioginėms funkcijoms atlikti.
 
@@ -347,6 +349,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
 
 Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 9, 10, 11, 13, 14 straipsnių pakeitimo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-729, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25847
+
+Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 11 straipsnio pakeitimo įstatymas
 
 18 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
