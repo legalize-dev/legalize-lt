@@ -4,7 +4,7 @@ identifier: "TAR.2C94E75C224B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2022-01-01"
+last_updated: "2022-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2C94E75C224B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4433, i. k. 1041010ISTA0IX-2387
 
