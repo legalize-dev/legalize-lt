@@ -4,7 +4,7 @@ identifier: "TAR.3DF892F52616"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2021-12-31"
+last_updated: "2022-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vertybinių popierių įstatymas
 
-Suvestinė redakcija nuo 2021-12-31 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2022-11-30
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-626, i. k. 1071010ISTA00X-1023
 
@@ -103,7 +103,13 @@ PERIODINĖS IR EINAMOSIOS INFORMACIJOS ATSKLEIDIMAS
 
 3. Emitento, kurio išleisti vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje, metiniame pranešime turi būti nurodyta, kaip jis laikosi šios reguliuojamos rinkos operatoriaus patvirtinto bendrovių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, valdymo kodekso. Jeigu tokių bendrovių valdymo kodekso ar kai kurių jo nuostatų nesilaikoma, metiniame pranešime turi būti konkrečiai nurodyta, kokių bendrovių valdymo kodekso nuostatų ir dėl kokių priežasčių nesilaikoma.
 
-4. Metinė informacija kartu su auditoriaus išvada, pasirašyta už auditą atsakingo auditoriaus (auditorių), turi būti paskelbta ir pateikta priežiūros institucijai ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos.
+4. Metinė informacija kartu su auditoriaus išvada, pasirašyta už auditą atsakingo auditoriaus (auditorių), turi būti paskelbta ir pateikta priežiūros institucijai ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos. Metinė informacija rengiama elektroniniu formatu, kaip tai nurodyta 2018 m. gruodžio 17 d. Komisijos deleguotajame reglamente (ES) 2019/815, kuriuo Europos Parlamento ir Tarybos direktyva 2004/109/EB papildoma techniniais reguliavimo standartais, kuriais nustatomas vienas elektroninio ataskaitų teikimo formatas, su visais pakeitimais.
+
+TAR pastaba. 12 straipsnio 4 dalies nuostatos taikomos rengiant 2021-01-01 ir vėliau prasidėsiančių finansinių metų metinę informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 
 5. Lietuvos Respublikoje įsteigtų emitentų buhalterinė apskaita turi būti tvarkoma ir metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis Lietuvos Respublikos teisės aktų nustatytais buhalterinės apskaitos ir finansinių ataskaitų sudarymo reikalavimais. Valstybėse narėse įsteigtų emitentų metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis valstybės narės, kurioje įsteigtas emitentas, nacionalinių teisės aktų reikalavimais. Ne valstybėse narėse įsteigtų emitentų metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis tarptautiniais apskaitos standartais arba bendrai priimtais buhalterinės apskaitos principais.
 
@@ -833,6 +839,12 @@ BAIGIAMOSIOS NUOSTATOS
 
 2. Šiame skyriuje nustatytų informacinio dokumento rengimo ir paskelbimo reikalavimų turi būti laikomasi, kai emitento vertybinius popierius ketinama viešai siūlyti Lietuvos Respublikoje. Informacinio dokumento rengimo ir paskelbimo reikalavimai netaikomi emitentui, kuriam nustatyta pareiga parengti prospektą pagal Kolektyvinio investavimo subjektų įstatymą, Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą, Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą.
 
+3. Šio skyriaus nuostatos netaikomos viešiems vertybinių popierių siūlymams, vykdomiems vadovaujantis 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
+
 6 straipsnis. Atsakomybė už prospekte pateiktą informaciją
 
 1. Už prospekte pateiktos informacijos teisingumą ir išsamumą yra atsakingas bent emitentas arba emitento administravimo, valdymo ar priežiūros organas, siūlytojas, asmuo, kuris kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje, arba garantas, priklausomai nuo konkretaus atvejo.
@@ -1084,6 +1096,8 @@ priedas
 Priedo pakeitimai:
 
 Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
+
+part_d4e44b7a07f74bd0a1d72ae5b3155cd9_end
 
 Pakeitimai:
 
