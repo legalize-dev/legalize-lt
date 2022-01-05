@@ -4,7 +4,7 @@ identifier: "TAR.55FFE350795A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-12-21"
-last_updated: "2019-09-01"
+last_updated: "2022-01-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55FFE350795A"
 department: "Lietuvos Respublikos Seimas"
@@ -21,17 +21,9 @@ LIETUVOS RESPUBLIKOS NESĄŽININGOS KOMERCINĖS VEIKLOS VARTOTOJAMS
 
 DRAUDIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2019-09-01 iki 2022-01-04
+Suvestinė redakcija nuo 2022-01-05 iki 2022-05-27
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 6-212, i. k. 1071010ISTA00X-1409
-
-TAR pastaba. Įstatymo Nr. XIII-2217 nuostatos taikomos pažeidimams, padarytiems po šio įstatymo įsigaliojimo (2019-09-01).
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
-
-Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 13, 14, 16 ir 20 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS  NESĄŽININGOS KOMERCINĖS VEIKLOS VARTOTOJAMS DRAUDIMO  ĮSTATYMAS
 
@@ -529,7 +521,11 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 9) sprendimo apskundimo terminai ir tvarka.
 
-3. Tarnybos nutarimai per tris darbo dienas nuo jų priėmimo registruotu paštu išsiunčiami asmenims, dėl kurių šie nutarimai priimti.
+3. Tarnybos nutarimai per tris darbo dienas nuo jų priėmimo išsiunčiami asmenims, dėl kurių šie nutarimai priimti, ir paskelbiami Tarnybos interneto svetainėje nepažeidžiant asmens duomenų apsaugos, valstybės, tarnybos, komercinės, banko, profesinės ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, taip pat vartotojo teisės į privataus gyvenimo neliečiamumą. Tarnybos interneto svetainėje kartu su Tarnybos nutarimais nurodoma informacija apie nukentėjusių vartotojų teisių gynimo tvarką, susijusią su jų teisės į pažeistų teisių gynimą įgyvendinimu. Tarnybos nutarimai Tarnybos interneto svetainėje nustojami skelbti praėjus trejiems metams nuo jų priėmimo dienos. Tarnybos nutarime išdėstyti teisiniai argumentai visais atvejais yra vieši.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
 
 22 straipsnis. Nutarimų vykdymas
 
@@ -612,4 +608,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
 
 Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 13, 14, 16 ir 20 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
+
+Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 2, 5, 6, 7, 13, 14, 16, 20, 21, 23 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
 
