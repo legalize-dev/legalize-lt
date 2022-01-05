@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2022-01-01"
+last_updated: "2022-01-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-04
+Suvestinė redakcija nuo 2022-01-05 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
 
@@ -364,7 +364,11 @@ Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 
 4. Karjeros valstybės tarnautojams, tarnaujantiems ir siekiantiems tarnauti statutinėse įstaigose, taikomos šio statuto 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 5 ir 7 punktų nuostatos. Muitinės departamento ir jam pavaldžių įstaigų karjeros valstybės tarnautojams, be to, taikomos ir šio statuto 9 straipsnio 2 dalies 1 punkto ir 16 straipsnio 1 dalies 2 punkto nuostatos, Kalėjimų departamento ir jam pavaldžių įstaigų karjeros valstybės tarnautojams – ir šio statuto 9 straipsnio 2 dalies 1 punkto, 16 straipsnio 1 dalies 2 punkto ir 3 dalies nuostatos.
 
-5. Muitinės departamento ir jam pavaldžių įstaigų darbuotojams, dirbantiems pagal darbo sutartis, taikomos šio statuto 9 straipsnio 2 dalies 1 punkto, 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 2 ir 5 punktų nuostatos. Kalėjimų departamento ir jam pavaldžių įstaigų darbuotojams, dirbantiems pagal darbo sutartis, ir valstybės įmonių prie pataisos įstaigų darbuotojams taikomos šio statuto 9 straipsnio 2 dalies 1 punkto, 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 2 ir 5 punktų ir 3 dalies nuostatos.
+5. Muitinės departamento ir jam pavaldžių įstaigų darbuotojams, dirbantiems pagal darbo sutartis, taikomos šio statuto 9 straipsnio 2 dalies 1 punkto, 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 2 ir 5 punktų nuostatos. Kalėjimų departamento ir jam pavaldžių įstaigų darbuotojams, dirbantiems pagal darbo sutartis, ir valstybės įmonių prie pataisos įstaigų administracijos darbuotojams taikomos šio statuto 9 straipsnio 2 dalies 1 punkto, 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 2 ir 5 punktų ir 3 dalies nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-856, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00064
 
 II SKYRIUS
 
@@ -688,23 +692,23 @@ Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 
 2. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
-1) pripažintas kaltu dėl tyčinio nusikaltimo padarymo, nesvarbu, ar teistumas išnyko, ar yra panaikintas, arba pripažintas kaltu dėl kitos nusikalstamos veikos padarymo ir nuo teismo nuosprendžio įsiteisėjimo dienos nepraėjo 5 metai, arba turi teistumą dėl padaryto nusikaltimo;
+1) pripažintas kaltu dėl sunkaus arba labai sunkaus nusikaltimo arba tyčinio nusikaltimo valstybės tarnybai ar viešiesiems interesams padarymo, nesvarbu, ar teistumas išnyko, ar yra panaikintas;
 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymu patvirtinto Lietuvos Respublikos vidaus tarnybos statuto (2018 m. birželio 29 d. redakcija; TAR, 2018-07-16, Nr. 12049) 9 straipsnio 2 dalies 1 punkto nuostata „pripažintas kaltu dėl tyčinio nusikaltimo padarymo, nesvarbu, ar teistumas išnyko, ar yra panaikintas“ prieštarauja Lietuvos Respublikos Konstitucijos 33 straipsnio 1 dalies nuostatai „piliečiai turi <...> teisę lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti darbą“, konstituciniam teisinės valstybės principui.
+2) pripažintas kaltu dėl nusikalstamos veikos (išskyrus šios dalies 1 punkte nurodytas nusikalstamas veikas) padarymo ir nuo teismo nuosprendžio įsiteisėjimo dienos nepraėjo 5 metai arba nėra atlikęs bausmės arba baudžiamojo poveikio priemonės, arba turi teistumą;
 
-Straipsnio punkto pakeitimai:
+3) buvo atleistas nuo baudžiamosios atsakomybės už tyčinės nusikalstamos veikos padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai nusikalstama veika prarado pavojingumą, ir atleidimą nuo baudžiamosios atsakomybės, kai paskirta baudžiamojo poveikio priemonė) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai arba buvo atleistas nuo baudžiamosios atsakomybės už nusikalstamos veikos padarymą ir paskirta baudžiamojo poveikio priemonė, ir nuo baudžiamojo poveikio priemonės įvykdymo dienos nepraėjo 3 metai;
 
-Nr.  KT58-A-N4/2021, 2021-04-14, paskelbta TAR 2021-04-14, i. k. 2021-07723
+4) anksčiau ėjo statutinio valstybės tarnautojo ar valstybės pareigūno pareigas, dirbo teisėju, notaru, prokuroru, advokatu ar krašto apsaugos sistemoje ir buvo atleistas atitinkamai už pareigūno vardo pažeminimą, teisėjo vardą žeminantį poelgį, notarų profesinės etikos ir tarnybinius nusižengimus, prokuroro vardą žeminantį poelgį, advokato profesinės etikos ir profesinės veiklos pažeidimus ar kario vardą žeminančius teisės pažeidimus arba šio statuto 39 straipsnio 8 dalyje numatytu atveju buvo pripažintas pažeminusiu pareigūno vardą ir nuo atleidimo ar pripažinimo pažeminusiu pareigūno vardą dienos nepraėjo 5 metai;
 
-2) įstatymų nustatyta tvarka buvo atleistas nuo baudžiamosios atsakomybės (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai nusikalstama veika prarado pavojingumą) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai;
+5) buvo atleistas iš valstybės tarnybos už tarnybinį nusižengimą ir nuo šio atleidimo dienos nepraėjo 3 metai arba šio statuto 39 straipsnio 8 dalies 2 punkte numatytu atveju pripažintas padariusiu tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, arba Lietuvos Respublikos valstybės tarnybos įstatymo numatytu atveju pripažintas padariusiu tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, ir nuo šio pripažinimo dienos nepraėjo 3 metai;
 
-3) anksčiau ėjo statutinio valstybės tarnautojo pareigas, dirbo teisėju, notaru, prokuroru, advokatu ar krašto apsaugos sistemoje ir buvo atleistas atitinkamai už pareigūno vardo pažeminimą, teisėjo vardą žeminantį poelgį, notarų profesinės etikos ir tarnybinius nusižengimus, prokuroro vardo pažeminimą, advokato profesinės etikos ir profesinės veiklos pažeidimus ar kario vardą žeminančius teisės pažeidimus arba šio statuto 39 straipsnio 8 dalyje numatytu atveju buvo pripažintas pažeminusiu pareigūno vardą;
+6) buvo atleistas iš darbo, pareigų ar praradęs teisę verstis tam tikra veikla dėl to, kad neatitinka kituose įstatymuose keliamo nepriekaištingos reputacijos reikalavimo, ar dėl etikos normų pažeidimo ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla praradimo dienos nepraėjo 3 metai;
 
-4) buvo atleistas iš valstybės tarnybos už tarnybinį nusižengimą ir nuo šio atleidimo dienos nepraėjo 3 metai arba šio statuto 39 straipsnio 8 dalies 2 punkte numatytu atveju pripažintas padariusiu tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, arba Lietuvos Respublikos valstybės tarnybos įstatymo numatytu atveju pripažintas padariusiu tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, ir nuo šio pripažinimo dienos nepraėjo 3 metai;
+7) yra ar buvo įstatymų nustatyta tvarka uždraustos organizacijos narys, jeigu nuo narystės pabaigos nepraėjo 3 metai.
 
-5) buvo atleistas iš darbo, pareigų ar praradęs teisę verstis tam tikra veikla dėl to, kad neatitinka kituose įstatymuose keliamo nepriekaištingos reputacijos reikalavimo, ar dėl etikos normų pažeidimo ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla praradimo dienos nepraėjo 3 metai;
+Straipsnio dalies pakeitimai:
 
-6) yra ar buvo įstatymų nustatyta tvarka uždraustos organizacijos narys, jeigu nuo narystės pabaigos nepraėjo 3 metai.
+Nr. XIV-856, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00064
 
 11 straipsnis. Asmenų tikrinimas ir siuntimų į statutines profesinio mokymo įstaigas ar kitas švietimo įstaigas išdavimas
 
@@ -1420,13 +1424,15 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 53 straipsnis. Pareiginė alga
 
-1. Pareigūno pareiginė alga nustatoma taikant šio statuto priede tai pareigūno pareigybei nustatytą pareiginės algos koeficientą iš atitinkamos pareigybių grupės pareigybėms nustatytų pareiginės algos koeficientų intervalo. Finansinių nusikaltimų tyrimo tarnybos pareigūnams, kurių pareigybės priskirtos 5, 6 pareigybių grupėms, taikomas papildomas koeficientas – 1, kurių pareigybės priskirtos 7, 8, 9, 10, 11 pareigybių grupėms, – papildomas koeficientas – 1,2. Šioje dalyje nurodytas papildomas koeficientas pridedamas prie šio statuto priede nurodytų pareigūnų pareiginės algos koeficientų, atitinkamai keičiant pareiginės algos koeficientų intervalo minimalią ir maksimalią ribas. Pareiginės algos koeficiento vienetas yra lygus Lietuvos Respublikos Seimo patvirtintam atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) baziniam dydžiui (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio. Ateinančių finansinių metų bazinis dydis, atsižvelgiant į praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą), minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, nustatomas nacionalinėje kolektyvinėje sutartyje. Nacionalinėje kolektyvinėje sutartyje sulygtą bazinį dydį tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Jeigu nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 dienos, ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, įvertindamas ir atsižvelgdamas į šioje dalyje numatytas aplinkybes, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės.
+1. Pareigūno pareiginė alga nustatoma taikant šio statuto priede tai pareigūno pareigybei nustatytą pareiginės algos koeficientą iš atitinkamos pareigybių grupės pareigybėms nustatytų pareiginės algos koeficientų intervalo. Finansinių nusikaltimų tyrimo tarnybos pareigūnams, kurių pareigybės priskirtos 5, 6 pareigybių grupėms, taikomas papildomas koeficientas – 1, kurių pareigybės priskirtos 7, 8, 9, 10, 11 pareigybių grupėms, – papildomas koeficientas – 1,2. Šioje dalyje nurodytas papildomas koeficientas pridedamas prie šio statuto priede nurodytų pareigūnų pareiginės algos koeficientų, atitinkamai keičiant pareiginės algos koeficientų intervalo minimalią ir maksimalią ribas. Pareiginės algos koeficiento vienetas yra lygus Lietuvos Respublikos Seimo patvirtintam atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) baziniam dydžiui (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio. Ateinančių finansinių metų bazinis dydis, atsižvelgiant į praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą), minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, nustatomas nacionalinėje kolektyvinėje sutartyje. Nacionalinėje kolektyvinėje sutartyje sulygtą bazinį dydį tvirtina Seimas. Jeigu nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 dienos, ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, įvertindamas ir atsižvelgdamas į šioje dalyje numatytas aplinkybes, tvirtina Seimas. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 
 Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
+
+Nr. XIV-856, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00064
 
 2. Pareigūno pareiginė alga nustatoma atsižvelgiant į įstaigų grupę, kuriai priskirta statutinė įstaiga, kurioje pareigūnas eina pareigas. Statutinės įstaigos į grupes skirstomos vadovaujantis Valstybės tarnybos įstatyme nustatytais valstybės ir savivaldybių institucijų ir įstaigų skirstymo į grupes kriterijais. Statutinių įstaigų sąrašą pagal grupes tvirtina Vyriausybė, atsižvelgdama į Valstybės tarnybos įstatyme nustatytus valstybės ir savivaldybių institucijų ir įstaigų skirstymo į grupes kriterijus.
 
@@ -1764,7 +1770,11 @@ Nr. XIII-3176, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15239
 
 8) kai jo stažuotės rezultatai yra nepatenkinami;
 
-9) kai įsiteisėja teismo nuosprendis, kuriuo pareigūnas nuteisiamas už tyčinio nusikaltimo ar tyčinio baudžiamojo nusižengimo padarymą arba jam atimama teisė dirbti teisėsaugos institucijose, arba dėl kurio vykdymo jis negali atlikti savo pareigų, arba kai buvo padaręs tyčinį nusikaltimą ir buvo teismo atleistas nuo baudžiamosios atsakomybės įstatymų nustatyta tvarka;
+9) kai įsiteisėja teismo nuosprendis, kuriuo pareigūnas nuteisiamas už nusikalstamos veikos padarymą ar jam atimama teisė dirbti teisėsaugos institucijose arba dėl kurio vykdymo jis negali atlikti savo pareigų, arba kai buvo padaręs tyčinę nusikalstamą veiką ir teismo atleistas nuo baudžiamosios atsakomybės, arba už padarytą neatsargią nusikalstamą veiką buvo atleistas nuo baudžiamosios atsakomybės ir jam paskirta baudžiamojo poveikio priemonė;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-856, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00064
 
 10) kai atsiranda arba paaiškėja (jei nebuvo žinomos pareigūno priėmimo į vidaus tarnybą metu) šio statuto 16 straipsnyje nurodytos aplinkybės;
 
