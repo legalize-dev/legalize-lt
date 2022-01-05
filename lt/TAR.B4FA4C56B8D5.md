@@ -4,7 +4,7 @@ identifier: "TAR.B4FA4C56B8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2021-01-01"
+last_updated: "2022-01-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
 
 LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-01-04
+Suvestinė redakcija nuo 2022-01-05 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
 
@@ -470,7 +470,11 @@ TEISĖS AKTŲ PRIĖMIMAS, PASIRAŠYMAS, REGISTRAVIMAS, SKELBIMAS IR ĮSIGALIOJIM
 
 2. Priimtas teisės aktas negali būti taisomas, išskyrus po teisės akto priėmimo pastebėtas rašybos ir gramatines klaidas, nekeičiančias teisės akto turinio ir prasmės.
 
-3. Priimtus teisės aktus pasirašo tam įgaliojimus turintys subjektai teisės aktų nustatyta tvarka. Priimti teisės aktai, išskyrus įstatymus ir kitus Respublikos Prezidento pasirašomus teisės aktus, gali būti pasirašomi Teisės aktų informacinėje sistemoje saugiu elektroniniu parašu.
+3. Priimtus teisės aktus pasirašo tam įgaliojimus turintys subjektai teisės aktų nustatyta tvarka. Priimti teisės aktai gali būti pasirašomi saugiu elektroniniu parašu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-857, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00065
 
 19 straipsnis. Teisės aktų registravimas ir skelbimas
 
@@ -787,6 +791,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3243, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15880
 
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 20 straipsnio pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-857, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00065
+
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 18 straipsnio pakeitimo įstatymas
 
 161 straipsnis. Neteko galios nuo 2020-07-30
 
