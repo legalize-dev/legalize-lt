@@ -4,7 +4,7 @@ identifier: "TAR.46EF9E1D52E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-29"
-last_updated: "2021-01-21"
+last_updated: "2022-01-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-01-21 iki 2022-01-13
+Suvestinė redakcija nuo 2022-01-14 iki 2022-08-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
 
@@ -762,7 +762,11 @@ DIPLOMATO SKATINIMAS IR ATSAKOMYBĖ
 
 3. Specialiosios misijos nariais gali būti paskirti diplomatai ar kiti asmenys, atitinkantys šio įstatymo 6 straipsnyje nustatytus nepriekaištingos reputacijos reikalavimus ir, jeigu taikoma, atitinkantys teisės aktų nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija arba teisei dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikti.
 
-4. Su diplomatinės atstovybės, konsulinės įstaigos ar specialiosios misijos darbuotojais, kurie nėra valstybės tarnautojai ar kariai, (administratoriais, raštvedžiais, sekretoriais, specialiaisiais kurjeriais, ūkvedžiais, vairuotojais, vyresniaisiais specialiaisiais kurjeriais, valytojais, kiemsargiais) Užsienio reikalų ministerija ar jos įgaliotos diplomatinės atstovybės, konsulinės įstaigos, specialiosios misijos, atsižvelgdamos į Lietuvos Respublikos darbo kodekso 68 straipsnio 4 dalį, sudaro terminuotas darbo sutartis. Užsienio reikalų ministras tvirtina tipines šių pareigybių aprašymų formas, kuriose nurodomi bendri specialieji reikalavimai, taikomi pareigybei, ir bendros (konkrečiam darbui atlikti reikalingos) darbo funkcijos, (toliau – tipinė pareigybės aprašymo forma) ir darbuotojų pareigybių aprašymus, kuriuose gali būti nurodyti ir kiti, negu nurodyta tipinėje pareigybės aprašymo formoje, specialieji reikalavimai, taikomi konkrečiai pareigybei, ir funkcijos.
+4. Su diplomatinės atstovybės, konsulinės įstaigos ar specialiosios misijos darbuotojais, kurie nėra valstybės tarnautojai ar kariai, (administratoriais, raštvedžiais, sekretoriais, specialiaisiais kurjeriais, ūkvedžiais, vairuotojais, vyresniaisiais specialiaisiais kurjeriais, valytojais, kiemsargiais) Užsienio reikalų ministerija ar jos įgaliotos diplomatinės atstovybės, konsulinės įstaigos, specialiosios misijos, atsižvelgdamos į Lietuvos Respublikos darbo kodekso 68 straipsnio 4 dalį, sudaro terminuotas darbo sutartis. Užsienio reikalų ministras tvirtina šių pareigybių skaičių, tipines šių pareigybių aprašymų formas, kuriose nurodomi bendri specialieji reikalavimai, taikomi pareigybei, ir bendros (konkrečiam darbui atlikti reikalingos) darbo funkcijos, (toliau – tipinė pareigybės aprašymo forma) ir darbuotojų pareigybių aprašymus, kuriuose gali būti nurodyti ir kiti, negu nurodyta tipinėje pareigybės aprašymo formoje, specialieji reikalavimai, taikomi konkrečiai pareigybei, ir funkcijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-864, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00167
 
 5. Lietuvos Respublikos specialiųjų atašė, tarp jų ir Lietuvos Respublikos gynybos atašė, ir jų pavaduotojų skyrimą ir veiklą reglamentuoja Vyriausybės patvirtinti Lietuvos Respublikos specialiųjų atašė nuostatai.
 
@@ -1764,6 +1768,8 @@ Atašė
 
 6,6–11,0
 
+part_831634e06cde420c8d86b6c0711e8736_end
+
 Lietuvos Respublikos
 
 diplomatinės tarnybos įstatymo
@@ -1807,6 +1813,8 @@ Trečiasis sekretorius
 Atašė
 
 1,8
+
+part_c36581baa1dd491cbde71bf9e28ffe7f_end
 
 Lietuvos Respublikos
 
@@ -1899,6 +1907,8 @@ Atašė
 Priedo pakeitimai:
 
 Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
+
+part_1fb0a05cd4034a9fbfccf25e9370cf43_end
 
 Pakeitimai:
 
