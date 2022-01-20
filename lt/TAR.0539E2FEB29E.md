@@ -4,7 +4,7 @@ identifier: "TAR.0539E2FEB29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-15"
-last_updated: "2021-01-01"
+last_updated: "2022-01-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0539E2FEB29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,17 +18,17 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-01-19
+Suvestinė redakcija nuo 2022-01-20 iki 2022-07-07
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 82-1965, i. k. 0961010ISTA00I-1495
 
-TAR pastaba. Programos, patvirtintos iki įstatymo Nr. XIII-3166 įsigaliojimo (2021-01-01), galioja 3 metus nuo šio įstatymo įsigaliojimo dienos.
+TAR pastaba. Planuojamos miško įveisimo ūkinės veiklos poveikio aplinkai vertinimo atrankos procedūros, pradėtos iki Nr. XIV-898 įstatymo įsigaliojimo (2022-01-20), baigiamos pagal iki  įstatymo Nr. XIV-898 įsigaliojimo  (2022-01-20) galiojusias Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XIII-3166, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15499
+Nr. XIV-898, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00756
 
-Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 6, 8, 9, 10 straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
+Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2 priedo pakeitimo įstatymas
 
 Nauja redakcija nuo 2017-11-01:
 
@@ -626,11 +626,23 @@ PLANUOJAMOS ŪKINĖS VEIKLOS, KURIAI TURI BŪTI ATLIEKAMA ATRANKA DĖL POVEIKIO 
 
 1.6.1. ūkininko sodybos statinių – vieno buto gyvenamosios paskirties pastato su pagalbinio ūkio paskirties statiniais statybos zonos nustatymą;
 
-1.6.2. miško įveisimą plotuose, kuriuose pagal savivaldybių teritorijų miškų išdėstymo žemėtvarkos schemas numatyta įveisti mišką;
+1.6.2. neteko galios nuo 2022-01-20;
+
+Papunkčio pakeitimai:
+
+Nr. XIV-898, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00756
 
 1.6.3. kai planuojamoje teritorijoje numatoma vykdyti šio įstatymo 1 priede ar šiame priede nurodytą ūkinę veiklą;
 
-1.7. miško įveisimas, išskyrus plotus, kuriuose pagal savivaldybių teritorijų miškų išdėstymo žemėtvarkos schemas numatyta įveisti mišką, ar miško iškirtimas siekiant pakeisti žemės naudojimą, išskyrus atvejus, kai atkuriamos atviros Europos Bendrijos svarbos natūralios buveinės ar rūšių buveinės (miško iškirtimas miestuose – visais atvejais, kaimo vietovėse – kai įveisiamas ar iškertamas 1 ha ar didesnis plotas);
+1.7. miško įveisimas ar miško iškirtimas keičiant žemės naudmenas, kai:
+
+1.7.1. miškas įveisiamas didesniame kaip 10 ha žemės plote;
+
+1.7.2. miškas iškertamas kaimo vietovėse 1 ha ir didesniame žemės plote, miestuose – bet kokio dydžio žemės plote, išskyrus atvejus, kai atkuriamos atviros Europos Bendrijos svarbos natūralios buveinės ar rūšių buveinės;
+
+Papunkčio pakeitimai:
+
+Nr. XIV-898, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00756
 
 1.8. žemės plotų atgavimas iš jūros.
 
