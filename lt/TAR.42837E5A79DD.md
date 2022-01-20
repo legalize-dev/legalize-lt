@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2022-01-01"
+last_updated: "2022-01-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-19
+Suvestinė redakcija nuo 2022-01-20 iki 2022-01-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
-
-TAR pastaba. Užsieniečių prašymai suteikti prieglobstį Lietuvos Respublikoje, pateikti iki  įstatymo Nr. XIV-816 įsigaliojimo dienos (2022-01-01), baigiami nagrinėti ir sprendimai priimami vadovaujantis iki šio įstatymo įsigaliojimo dienos galiojusio Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nuostatomis.  Užsieniečių skundai, iki šio įstatymo įsigaliojimo dienos paduoti vidaus reikalų ministro nustatyta tvarka sudarytam kolegialiam organui, šio kolegialaus organo baigiami nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo dienos galiojusio Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nuostatomis. Vidaus reikalų ministro nustatyta tvarka sudaryto kolegialaus organo sprendimai, kurie priimti įsigaliojus šiam įstatymui arba kurių apskundimo terminas baigiasi įsigaliojus šiam įstatymui, gali būti skundžiami apygardos administraciniam teismui per 7 dienas nuo sprendimo įteikimo dienos. Apygardų administracinių teismų sprendimai dėl vidaus reikalų ministro nustatyta tvarka sudaryto kolegialaus organo sprendimų, priimti įsigaliojus šiam įstatymui, gali būti skundžiami vadovaujantis šio įstatymo 23 straipsnyje išdėstyto Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ X-2 skyriaus 140-24 straipsnio 2 dalies nuostatomis.  Skundai dėl Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 125, 126 ir 133 straipsniuose nurodytų sprendimų, priimtų iki šio įstatymo įsigaliojimo dienos, gali būti paduodami vadovaujantis Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 138 straipsnio 1 dalies nuostatomis.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
-
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 3, 5, 26, 32, 40, 50, 67, 71, 76, 77, 79, 113, 125, 126, 130-1, 136, 138, 139, 140 straipsnių pakeitimo, 69 straipsnio ir IX-1 skyriaus pripažinimo netekusiais galios ir Įstatymo papildymo X-2 skyriumi įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -88,11 +80,15 @@ LIETUVOS RESPUBLIKOJE
 
 PIRMASIS SKIRSNIS
 
-VIZOS
+KELIONĖS LEIDIMAS IR VIZOS
 
 Pirmojo skirsnio pakeitimas:
 
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 20 straipsnis. Neteko galios nuo 2013-01-01.
 
@@ -142,13 +138,15 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
-3) dėl jo kita Šengeno valstybė į centrinę antrosios kartos Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas ir nėra pagrindo išduoti leidimą gyventi dėl humanitarinių priežasčių ar tarptautinių įsipareigojimų arba jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą;
+3) dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas kartu su draudimu atvykti ir nėra pagrindo išduoti leidimą gyventi dėl humanitarinių priežasčių ar tarptautinių įsipareigojimų arba jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 4) neteko galios nuo 2008-02-23;
 
@@ -2166,11 +2164,19 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 1. Sprendimas grąžinti užsienietį į užsienio valstybę priimamas, kai:
 
-1) jam panaikinta viza;
+1) jam panaikintas ar atšauktas kelionės leidimas arba viza;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 2) jam panaikintas leidimas laikinai gyventi arba leidimas nuolat gyventi;
 
-3) jis yra Lietuvos Respublikoje pasibaigus vizos galiojimui;
+3) jis yra Lietuvos Respublikoje pasibaigus kelionės leidimo arba vizos galiojimui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 4) jis gyvena Lietuvos Respublikoje pasibaigus leidimo laikinai gyventi galiojimui;
 
@@ -2268,7 +2274,7 @@ Nr. XI-1786, 2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
 
 6) kai siekiama užkirsti kelią pavojingoms ar ypač pavojingoms užkrečiamosioms ligoms plisti;
 
-7) kai užsieniečio buvimas Lietuvos Republikoje kelia grėsmę valstybės saugumui, viešajai tvarkai arba žmonių sveikatai.
+7) kai užsieniečio buvimas Lietuvos Respublikoje kelia grėsmę valstybės saugumui, viešajai tvarkai arba žmonių sveikatai.
 
 2. Kai sprendžiama dėl užsieniečio grąžinimo į užsienio valstybę, išsiuntimo iš Lietuvos Respublikos, įpareigojimo užsieniečiui išvykti iš Lietuvos Respublikos arba prieglobsčio prašytojo perdavimo kitai Europos Sąjungos valstybei narei, atsakingai už prašymo suteikti prieglobstį nagrinėjimą, užsienietis gali būti sulaikytas tik tuo atveju, jeigu sulaikymas būtinas atitinkamam sprendimui priimti ir (ar) vykdyti (jeigu užsienietis trukdo priimti ir (ar) vykdyti sprendimą, gali pasislėpti vengdamas grąžinimo, išsiuntimo ar perdavimo).
 
@@ -2432,11 +2438,13 @@ Nr. XI-1786, 2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
 
 133 straipsnis. Draudimas atvykti į Lietuvos Respubliką
 
-1. Užsieniečiui, kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta, ar atšaukta Šengeno viza arba kuriam buvo atsisakyta išduoti leidimą gyventi ar jis buvo panaikintas, užsieniečiui, kuris buvo neįleistas į Lietuvos Respubliką, įpareigotas išvykti iš Lietuvos Respublikos, grąžintas į užsienio valstybę, perduotas užsienio valstybei pagal Lietuvos Respublikos sudarytą tarptautinę sutartį dėl neteisėtai esančių asmenų grąžinimo (readmisijos) arba bandė neteisėtai išvykti iš Lietuvos Respublikos ar išvyko iš jos, arba užsieniečiui, kuris neturi teisės gyventi Lietuvos Respublikoje ir nevykdo įsipareigojimų muitinei ar nesumokėjo Lietuvos Respublikos įstatymų nustatyta tvarka skirtos (skirtų) baudos (baudų), gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui.
+1. Užsieniečiui, kuriam buvo atsisakyta išduoti kelionės leidimą ar jis buvo panaikintas ar atšauktas dėl vienos ar kelių priežasčių, nustatytų Reglamento (ES) 2018/1240 37 straipsnio 1 dalies a–e punktuose, arba kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta, ar atšaukta Šengeno viza, arba kuriam buvo atsisakyta išduoti leidimą gyventi ar jis buvo panaikintas, užsieniečiui, kuris buvo neįleistas į Lietuvos Respubliką, įpareigotas išvykti iš Lietuvos Respublikos, grąžintas į užsienio valstybę, perduotas užsienio valstybei pagal Lietuvos Respublikos sudarytą tarptautinę sutartį dėl neteisėtai esančių asmenų grąžinimo (readmisijos) arba bandė neteisėtai išvykti iš Lietuvos Respublikos ar išvyko iš jos, arba užsieniečiui, kuris neturi teisės gyventi Lietuvos Respublikoje ir nevykdo įsipareigojimų muitinei ar nesumokėjo Lietuvos Respublikos įstatymų nustatyta tvarka skirtos (skirtų) baudos (baudų), gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 11. Užsieniečiui, kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta arba kuriam buvo atsisakyta išduoti leidimą gyventi ar jis buvo panaikintas, nustačius, kad užsieniečio sudaryta santuoka, registruota partnerystė ar įvaikinimas fiktyvūs arba kad įmonė, kurios dalyvis ar vadovas yra užsienietis, priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeltas įmonės viduje, ar priimantysis subjektas yra fiktyvūs, uždraudžiama atvykti į Lietuvos Respubliką ne ilgesniam kaip penkerių metų laikotarpiui.
 
@@ -2547,6 +2555,12 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 9. Įpareigojimas išvykti iš Lietuvos Respublikos – teisės aktų nustatyta tvarka priimtas sprendimas, pagal kurį užsienietis per nustatytą laiką savanoriškai privalo išvykti į tą Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybę narę, kurioje jis turi teisę būti ar gyventi.
 
 10. Kelionės dokumentas – užsienio valstybės piliečio pasas ar jį atitinkantis dokumentas, skirtas vykti į užsienio valstybę bei pripažintas Lietuvos Respublikoje.
+
+101. Kelionės leidimas – sprendimas, priimtas pagal Reglamentą (ES) 2018/1240.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 11. Kilmės valstybė – valstybė, kurios pilietybę turi užsienietis, o jei užsieniečio pilietybės nustatyti neįmanoma arba jis neturi jokios pilietybės, – valstybė, kurioje yra jo nuolatinė gyvenamoji vieta.
 
@@ -2808,7 +2822,7 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 33. Viza – į užsieniečio kelionės dokumentą įklijuojamas įklijos formos leidimas, leidžiantis atvykti į Lietuvos Respubliką, būti joje ar vykti tranzitu.
 
-34. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Vizų kodekse ir 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB.
+34. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Vizų kodekse, 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB, ir Reglamente (ES) 2018/1240.
 
 Papildyta straipsnio dalimi:
 
@@ -2817,6 +2831,8 @@ Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 Straipsnio pakeitimai:
 
@@ -2860,7 +2876,11 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 11) jis nepateikia leidimo dirbti, kai jį būtina turėti;
 
-12) dėl jo kita Šengeno valstybė į centrinę antrosios kartos Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas arba jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą;
+12) dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas ar perspėjimą dėl užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas kartu su draudimu atvykti arba jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 13) nepateikia įrodymų, kad turi pakankamai pragyvenimo lėšų ir (arba) negauna reguliarių pajamų tiek numatomo buvimo Lietuvos Respublikoje laikotarpiu, tiek grįžti į savo kilmės ar gyvenamosios vietos šalį;
 
@@ -3424,11 +3444,19 @@ Straipsnio pakeitimai:
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
-11 straipsnis. Bevizis režimas ir reikalavimas turėti vizą
+11 straipsnis. Reikalavimas turėti kelionės leidimą taikant bevizį režimą ir reikalavimas turėti vizą
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 1. Užsieniečio, kuris nėra Europos Sąjungos valstybės narės pilietis, atvykimui į Lietuvos Respubliką ir buvimui joje taikomos Reglamento (ES) 2018/1806, nustatančio trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams tas reikalavimas netaikomas, sąrašus (toliau – Vizų režimo reglamentas), nuostatos. Lietuvos Respublikos Vyriausybė Vizų režimo reglamento nustatytais atvejais gali taikyti vizų režimo išimtis.
 
-2. Užsienietis, kuriam taikomas bevizis režimas, turi teisę atvykti į Lietuvos Respubliką ir būti Lietuvos Respublikoje be vizos, bet jo buvimas Lietuvos Respublikoje ir kitose Šengeno valstybėse negali trukti ilgiau negu 90 dienų per bet kurį 180 dienų laikotarpį.
+2. Užsienietis, kuriam taikomas bevizis režimas, turi teisę atvykti į Lietuvos Respubliką ir būti Lietuvos Respublikoje turėdamas galiojantį kelionės leidimą, jeigu to reikalaujama pagal Reglamentą (ES) 2018/1240, bet jo buvimas Lietuvos Respublikoje ir kitose Šengeno valstybėse negali trukti ilgiau negu 90 dienų per bet kurį 180 dienų laikotarpį. Užsienietis, turintis riboto teritorinio galiojimo kelionės leidimą, išduotą pagal Reglamento (ES) 2018/1240 44 straipsnį, suteikiantį teisę būti Lietuvos Respublikos teritorijoje, gali atvykti į Lietuvos Respubliką ir būti joje ne ilgiau kaip 90 dienų nuo pirmo atvykimo su šiuo leidimu dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 3. Užsienietis, turintis galiojančią Šengeno vizą (išskyrus oro uosto tranzitinę vizą ir riboto teritorinio galiojimo vizą, kuri negalioja Lietuvos Respublikos teritorijoje), gali atvykti į Lietuvos Respubliką ir būti Lietuvos Respublikoje Šengeno vizoje nurodytą laiką, bet jo buvimas Lietuvos Respublikoje ir kitose Šengeno valstybėse negali trukti ilgiau negu 90 dienų per bet kurį 180 dienų laikotarpį.
 
@@ -3444,7 +3472,11 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
 9. Užsieniečio, kuris turi kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi ar nacionalinę vizą mokslinių tyrimų ir eksperimentinės plėtros darbų vykdymo tikslu, šeimos nariai, turintys kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi ar nacionalinę vizą, turi teisę atvykti į Lietuvos Respubliką ir būti Lietuvos Respublikoje tuo pačiu laikotarpiu kaip ir užsienietis.
 
-10. Vizos turėjimas automatiškai nesuteikia teisės atvykti į Lietuvos Respubliką.
+10. Kelionės leidimo ar vizos turėjimas savaime nesuteikia teisės atvykti į Lietuvos Respubliką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 11. Į Lietuvos Respublikos jūrų uostus atplaukusių laivų civiliams įgulų nariams, kurie turi jūrininko tapatybės dokumentus, išduotus vadovaujantis Tarptautinės darbo organizacijos konvencijomis – 1958 m. gegužės 13 d. Konvencija Nr. 108 dėl jūreivių nacionalinių asmens pažymėjimų arba 2003 m. birželio 16 d. Konvencija Nr. 185 dėl jūrininkų nacionalinių asmens pažymėjimų (pataisyta) – arba 1965 m. balandžio 9 d. Tarptautinės jūrų organizacijos konvencija dėl tarptautinės jūrų laivybos sąlygų lengvinimo, taip pat civiliams jūrininkams, kurie atvyko į laivą vizos galiojimo laiku ir yra įtraukti į laivo įgulos sąrašą ir kurie turi šioje dalyje nurodytus jūrininko tapatybės dokumentus, leidžiama be vizos išlipti į krantą Lietuvos Respublikoje ir būti savivaldybės, į kurią įplaukia jų laivas, teritorijoje tol, kol laivas stovi uoste, bet ne ilgiau kaip šešis mėnesius.
 
@@ -3526,19 +3558,29 @@ Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
-2) yra Lietuvos Respublikoje pasibaigus vizos galiojimo laikui;
+2) yra Lietuvos Respublikoje pasibaigus kelionės leidimo ar vizos galiojimo laikui;
 
-3) yra Lietuvos Respublikoje turėdamas panaikintą arba atšauktą vizą;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+
+3) yra Lietuvos Respublikoje turėdamas panaikintą arba atšauktą kelionės leidimą ar vizą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+
 4) turi kelionės dokumentą, kuris yra suklastotas;
 
 5) turi vizą, kuri yra suklastota;
 
-6) yra Lietuvos Respublikoje be vizos, jeigu ji būtina;
+6) yra Lietuvos Respublikoje be kelionės leidimo ar vizos, jeigu jie būtini;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 7) yra Lietuvos Respublikoje be galiojančio kelionės dokumento;
 
@@ -3548,11 +3590,15 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 8) yra neteisėtai atvykęs į Lietuvos Respubliką;
 
-9) yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą arba dėl jo kita Šengeno valstybė į centrinę antrosios kartos Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, išskyrus Vizų kodekse numatytą atvejį, kai užsieniečiui išduota riboto teritorinio galiojimo viza, ir šios aplinkybės paaiškėja užsieniečio buvimo Lietuvos Respublikoje metu.
+9) yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą arba dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas, išskyrus Vizų kodekse numatytą atvejį, kai užsieniečiui išduota riboto teritorinio galiojimo viza, arba Reglamente (ES) 2018/1240 numatytą atvejį, kai užsieniečiui išduotas riboto teritorinio galiojimo kelionės leidimas, ir šios aplinkybės paaiškėja užsieniečio buvimo Lietuvos Respublikoje metu.
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 ANTRASIS SKIRSNIS
 
@@ -3624,19 +3670,23 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
 5. Šio straipsnio 1 dalies nuostatos, išskyrus šio Įstatymo 6 straipsnio 1 dalyje numatytą pareigą užsieniečiui turėti galiojantį kelionės dokumentą, netaikomos leidimo nuolat gyventi keitimo atveju.
 
-6. Jeigu išduodant ar keičiant leidimą gyventi nustatoma, kad kita Šengeno valstybė į centrinę antrosios kartos Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl užsieniečio neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, Migracijos departamentas turi konsultuotis su šia Šengeno valstybe ir atsižvelgti į jos interesus. Leidimas gyventi gali būti išduodamas ar keičiamas tik dėl humanitarinių priežasčių arba dėl tarptautinių įsipareigojimų.
+6. Jeigu išduodant ar keičiant leidimą gyventi nustatoma, kad kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl užsieniečio neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas kartu su draudimu atvykti, Migracijos departamentas turi konsultuotis su šia Šengeno valstybe ir atsižvelgti į jos interesus. Leidimas gyventi gali būti išduodamas ar keičiamas tik dėl humanitarinių priežasčių arba dėl tarptautinių įsipareigojimų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
-7. Migracijos departamentas konsultuoja kitas Šengeno valstybes dėl leidimo gyventi išdavimo tokiam užsieniečiui, kai įspėjimą dėl jo neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas yra pateikusi Lietuvos Respublika. Jeigu kita Šengeno valstybė po konsultacijų su Lietuvos Respublika užsieniečiui išduoda leidimą gyventi arba jeigu šis jau turi vienos iš susitariančiųjų šalių išduotą galiojantį leidimą gyventi, įspėjimas dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas centrinėje antrosios kartos Šengeno informacinėje sistemoje atšaukiamas, tačiau duomenys apie tokį užsienietį turi būti perkelti į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą.
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+
+7. Migracijos departamentas konsultuoja kitas Šengeno valstybes dėl leidimo gyventi ar nacionalinės vizos išdavimo užsieniečiui, kai įspėjimą dėl jo neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas kartu su draudimu atvykti yra pateikusi Lietuvos Respublika. Jeigu kita Šengeno valstybė po konsultacijų su Lietuvos Respublika užsieniečiui išduoda leidimą gyventi ar nacionalinę vizą arba jeigu šis jau turi vienos iš susitariančiųjų šalių išduotą galiojantį leidimą gyventi ar galiojančią nacionalinę vizą, įspėjimas dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas ar perspėjimas dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas ištrinamas iš Šengeno informacinės sistemos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 Straipsnio pakeitimai:
 
@@ -5118,7 +5168,11 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 124 straipsnis. Išvykimas iš Lietuvos Respublikos
 
-1. Užsienietis privalo išvykti iš Lietuvos Respublikos iki vizos arba leidimo laikinai gyventi galiojimo pabaigos.
+1. Užsienietis privalo išvykti iš Lietuvos Respublikos iki kelionės leidimo, vizos arba leidimo laikinai gyventi galiojimo pabaigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 2. Užsienietis privalo išvykti iš Lietuvos Respublikos iki šio Įstatymo 11 straipsnio 2–9, 11 dalyse užsieniečiams nustatyto buvimo laiko pabaigos, išskyrus atvejus, kai jis gauna dokumentą, patvirtinantį jo teisę būti arba gyventi Lietuvos Respublikoje.
 
@@ -5392,7 +5446,29 @@ priedas
 
 29. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/801 dėl trečiųjų šalių piliečių atvykimo ir gyvenimo mokslinių tyrimų, studijų, stažavimosi, savanoriškos tarnybos, mokinių mainų programų arba edukacinių projektų ir dalyvavimo Au pair programoje tikslais sąlygų (nauja redakcija).
 
-30. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1806, nustatantis trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams tas reikalavimas netaikomas, sąrašus.
+30. 2018 m. rugsėjo 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1240, kuriuo sukuriama Europos kelionių informacijos ir leidimų sistema (ETIAS) ir iš dalies keičiami reglamentai (ES) Nr. 1077/2011, (ES) Nr. 515/2014, (ES) 2016/399, (ES) 2016/1624 ir (ES) 2017/2226, su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/1152.
+
+Papildyta punktu:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+
+31. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1806, nustatantis trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams tas reikalavimas netaikomas, sąrašus.
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+
+32. 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1860 dėl Šengeno informacinės sistemos naudojimo neteisėtai esančių trečiųjų šalių piliečių grąžinimui su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/1152
+
+Papildyta punktu:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+
+33. 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1861 dėl Šengeno informacinės sistemos (SIS) sukūrimo, eksploatavimo ir naudojimo patikrinimams kertant sieną, kuriuo iš dalies keičiama Konvencija dėl Šengeno susitarimo įgyvendinimo ir iš dalies keičiamas bei panaikinamas Reglamentas (EB) Nr. 1987/2006, su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/1152.
+
+Papildyta punktu:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 Priedo pakeitimai:
 
@@ -5703,6 +5779,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 3, 5, 26, 32, 40, 50, 67, 71, 76, 77, 79, 113, 125, 126, 130-1, 136, 138, 139, 140 straipsnių pakeitimo, 69 straipsnio ir IX-1 skyriaus pripažinimo netekusiais galios ir Įstatymo papildymo X-2 skyriumi įstatymas
+
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 11, 19, 23, 26, 35, 53, 62, 98-1, 124, 125, 133, 140-3 straipsnių, III skyriaus pirmojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
 
 341 straipsnis. Leidimo gyventi išdavimas, keitimas ir naujas įforminimas skubos tvarka
 
@@ -6098,7 +6182,11 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 E. rezidento statusas užsieniečiui nesuteikiamas, jeigu:
 
-1) dėl jo kita Šengeno valstybė į centrinę antrosios kartos Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo;
+1) dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo, įvedusi perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas kartu su draudimu atvykti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 2) jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą.
 
@@ -6425,4 +6513,12 @@ Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 XI SKYRIUS
 
 BAIGIAMOSIOS NUOSTATOS
+
+201 straipsnis. Sprendimų dėl kelionės leidimų priėmimas
+
+Sprendimus dėl kelionės leidimo išdavimo ar atsisakymo jį išduoti, jo panaikinimo arba atšaukimo priima Valstybės sienos apsaugos tarnyba, vadovaudamasi Reglamento (ES) 2018/1240 nuostatomis, vidaus reikalų ministro nustatyta ir su užsienio reikalų ministru suderinta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
