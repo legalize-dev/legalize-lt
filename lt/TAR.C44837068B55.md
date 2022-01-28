@@ -4,7 +4,7 @@ identifier: "TAR.C44837068B55"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-19"
-last_updated: "2022-01-02"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C44837068B55"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1998
 
-Suvestinė redakcija nuo 2022-01-02 iki 2022-01-27
+Suvestinė redakcija nuo 2022-01-28 iki 2022-07-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
 
@@ -839,13 +839,15 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 7. Naudos gavėjo tapatybė turi būti nustatyta iki kliento tapatybės nustatymo procedūros pabaigos, išskyrus šio įstatymo 9 straipsnio 4, 5 ir 6 dalyse nustatytus atvejus.
 
-8. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami naudos gavėjo tapatybę, papildomai privalo naudotis Juridinių asmenų dalyvių informacine sistema (JADIS), iš kurios turi gauti duomenis apie to kliento naudos gavėjus, ir turi teisę naudotis kitomis valstybės informacinėmis sistemomis, registrais, kuriuose kaupiami duomenys apie juridinių asmenų dalyvius.
+8. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami naudos gavėjo tapatybę, turi teisę naudotis valstybės informacinėmis sistemomis, registrais, kuriuose kaupiami duomenys apie juridinių asmenų dalyvius.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
-9. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatę informacijos apie kliento – juridinio asmens naudos gavėjus, šio įstatymo 25 straipsnyje nustatyta tvarka pateiktos Juridinių asmenų dalyvių informacinėje sistemoje (JADIS), ir jų turimos informacijos apie to paties kliento naudos gavėjus neatitiktį, praneša apie tai klientui ir pasiūlo pateikti tikslią informaciją apie savo naudos gavėjus Juridinių asmenų dalyvių informacinės sistemos (JADIS) tvarkytojui.
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
+
+9. Neteko galios nuo 2022-01-28.
 
 Papildyta straipsnio dalimi:
 
@@ -855,7 +857,9 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
-10. Nustatant kliento tapatybę, finansų įstaigoms ir kitiems įpareigotiesiems subjektams draudžiama pradėti dalykinius santykius arba vykdyti vienkartinę piniginę operaciją ar sandorį (išskyrus pinigines operacijas ar sandorius, sudarytus ir (ar) vykdomus dalykinių santykių metu), kai informacija apie kliento juridinio asmens naudos gavėjus nėra šio įstatymo 25 straipsnio nustatyta tvarka pateikta Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) arba kai informacija apie kliento – juridinio asmens naudos gavėjus, šio įstatymo 25 straipsnyje nustatyta tvarka pateikta Juridinių asmenų dalyvių informacinėje sistemoje (JADIS), neatitinka jų turimos informacijos apie to paties kliento naudos gavėjus.
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
+
+10. Neteko galios nuo 2022-01-28.
 
 Papildyta straipsnio dalimi:
 
@@ -864,6 +868,8 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
 
 13 straipsnis. Naudojimasis trečiųjų šalių informacija
 
