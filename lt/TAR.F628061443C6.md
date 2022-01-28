@@ -4,7 +4,7 @@ identifier: "TAR.F628061443C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-02"
-last_updated: "2021-01-01"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F628061443C6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 46 straipsnis įsigalioja 2010-12-09.
 
 LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-01-27
+Suvestinė redakcija nuo 2022-01-28 iki 2023-05-31
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
 
@@ -40,6 +40,12 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Asmuo be pilietybės – asmuo, kuris nėra jokios valstybės pilietis.
+
+11. Asmuo, iki 1940 m. birželio 15 d. turėjęs Lietuvos Respublikos pilietybę, – asmuo, bet kuriuo metu iki 1940 m. birželio 15 d. turėjęs Lietuvos Respublikos pilietybę. Ši sąvoka neapima asmenų, kurie Lietuvos Respublikos pilietybės neteko atlikus Lietuvos Respublikos įstatymuose nustatytas privalomas procedūras ir dėl kurių yra priimti Lietuvos Respublikos įstatymuose numatyti sprendimai dėl Lietuvos Respublikos pilietybės netekimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-925, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01291
 
 2. Asmuo, ištremtas iš okupuotos Lietuvos Respublikos iki 1990 m. kovo 11 d., – iki 1940 m. birželio 15 d. Lietuvos Respublikos pilietybę turėjęs asmuo ar jo palikuonis, kurie 1940 m. birželio 15 d. – 1990 m. kovo 11 d. okupacinių režimų institucijų arba teismų sprendimais buvo prievarta iškeldinti iš Lietuvos dėl pasipriešinimo okupaciniams režimams, politinių, socialinių ar kilmės motyvų.
 
@@ -1158,6 +1164,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
 Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2, 7, 12, 15, 16, 18, 21, 23, 24, 26, 27, 33, 37, 40, 41, 41-1 ir 42 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-925, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01291
+
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2 straipsnio pakeitimo įstatymas
 
 91 straipsnis. Lietuvos Respublikos pilietybės išsaugojimas
 
