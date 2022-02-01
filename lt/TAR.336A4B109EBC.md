@@ -4,7 +4,7 @@ identifier: "TAR.336A4B109EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2021-05-28"
+last_updated: "2022-02-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2021-05-28 iki 2022-01-31
+Suvestinė redakcija nuo 2022-02-01 iki 2022-04-26
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
 
@@ -239,6 +239,12 @@ Nr. XIII-1587, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18201
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
+
+6. Vyriausioji rinkimų komisija savo interneto svetainėje per 3 dienas nuo Vyriausiosios rinkimų komisijos sprendimo sudaryti savivaldybių rinkimų komisijas įsigaliojimo ir per 3 dienas nuo savivaldybių rinkimų komisijų sprendimų sudaryti apylinkių rinkimų komisijas įsigaliojimo skelbia rinkimų komisijų narių sąrašus ir duomenis apie tuos narius (jų vardus, pavardes, pareigas, komisijos narį pasiūliusį subjektą, savivaldybių ir rinkimų apylinkių pavadinimus bei numerius, telefono numerį ir elektroninio pašto adresą). Rinkimų komisijų narių sąrašai skelbiami ir tikslinami ne ilgiau kaip iki politinės kampanijos laikotarpio pabaigos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 
 13 straipsnis. Savivaldybių rinkimų komisijų sudarymas
 
@@ -680,7 +686,7 @@ KANDIDATŲ KĖLIMAS
 
 34 straipsnis. Kandidatų į savivaldybės tarybos narius ir kandidatų į savivaldybės tarybos narius – merus kėlimas
 
-1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal  Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus ir neturinčios partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso, ir rinkimų komitetai.
+1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal  Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus ir neturinčios partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso, ir rinkimų komitetai.
 
 2. Asmuo į savivaldybės tarybos narius – merus gali išsikelti pats arba gali būti iškeltas partijos ar rinkimų komiteto. Kandidatu į savivaldybės tarybos narius – merus išsikėlusiam asmeniui yra taikomi tokie patys šiame įstatyme nustatyti reikalavimai, kurie yra taikomi ir kandidatui, į savivaldybės tarybos narius – merus keliamam partijos ar rinkimų komiteto.
 
@@ -773,6 +779,12 @@ Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 3) pasibaigia rinkimų politinė kampanija;
 
 4) rinkimų komitetas atšaukia rinkimų pareiškinius dokumentus ir (arba) nelieka šio komiteto keliamų kandidatų.
+
+8. Vyriausioji rinkimų komisija iki politinės kampanijos laikotarpio pabaigos savo interneto svetainėje skelbia rinkimų komiteto pavadinimą, rinkimų komiteto narių duomenis (vardą, pavardę), savivaldybės, kurioje rinkimų komitetas dalyvavo rinkimuose, pavadinimą, rinkimų, kuriuose dalyvauti šis komitetas buvo įsteigtas, pavadinimą, rinkimų komiteto atstovo (koordinatoriaus) telefono numerį ir elektroninio pašto adresą. Pasibaigus politinei kampanijai, Vyriausioji rinkimų komisija neterminuotai skelbia rinkimuose dalyvavusio rinkimų komiteto pavadinimą ir jo atstovo (koordinatoriaus) vardą bei pavardę.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 
 36 straipsnis. Kandidatų į savivaldybės tarybą pareiškiniai dokumentai
 
@@ -972,6 +984,12 @@ Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 
 3. Jeigu iki rinkimų dienos partija, rinkimų komitetas ar išsikėlęs kandidatu asmuo panaikina savo atstovo rinkimams įgaliojimą, apie tai nedelsiant turi būti raštu pranešta Vyriausiajai rinkimų komisijai. Ši nedelsdama panaikina atstovo rinkimams įgaliojimo registravimą ir išduoto atstovo rinkimams pažymėjimo galiojimą. Kito atstovo rinkimams paskyrimui, šio atstovo rinkimams įgaliojimo registravimui ir atstovo rinkimams pažymėjimo išdavimui taikomos šio įstatymo nuostatos.
 
+4. Vyriausioji rinkimų komisija politinės kampanijos laikotarpiu savo interneto svetainėje skelbia atstovų rinkimams duomenis (vardą, pavardę, atstovą rinkimams pasiūliusį subjektą, savivaldybės ir rinkimų apylinkės pavadinimą bei numerį, telefono numerį ir elektroninio pašto adresą).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
+
 39 straipsnis. Rinkimų užstatas
 
 1. Rinkimų užstatas vienam kandidatų sąrašui kartu toje pačioje savivaldybėje keliant vieną kandidatą į savivaldybės tarybos narius – merus, tik keliamam kandidatų sąrašui arba tik keliamam ar išsikeliančiam kandidatui į savivaldybės tarybos narius – merus vienoje savivaldybėje įregistruoti yra paskutinio paskelbto šalies ūkio darbuotojų vieno vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžio.
@@ -1056,11 +1074,13 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 43 straipsnis. Kandidatų ir kandidatų sąrašų paskelbimas. Rinkimų agitacijos pradžia. Rinkimų numeriai
 
-1. Iki rinkimų dienos likus ne mažiau kaip 30 dienų, Vyriausioji rinkimų komisija savo interneto svetainėje paskelbia kiekvienoje savivaldybėje rinkimuose dalyvaujančioms partijoms, partijų koalicijoms, rinkimų komitetams burtais nustatytus rinkimų numerius, kandidatų sąrašus, kandidatus, įrašytus į kandidatų sąrašus, ir kandidatus į savivaldybės tarybos narius – merus.
+1. Iki rinkimų dienos likus ne mažiau kaip 30 dienų, Vyriausioji rinkimų komisija savo interneto svetainėje paskelbia kiekvienoje savivaldybėje rinkimuose dalyvaujančioms partijoms, partijų koalicijoms, rinkimų komitetams burtais nustatytus rinkimų numerius, kandidatų sąrašus ir duomenis apie juose įrašytus kandidatus (vardą, pavardę, iškėlusią partiją ar iškėlusį rinkimų komitetą), kandidatus, įrašytus į kandidatų sąrašus, kandidatus į savivaldybės tarybos narius – merus (vardą, pavardę, iškėlusią partiją ar iškėlusį rinkimų komitetą arba kad išsikėlė patys). Šioje dalyje nurodyta informacija Vyriausiosios rinkimų komisijos interneto svetainėje skelbiama 10 metų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
+
+Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 
 2. Partijų rinkimų numeriai visose savivaldybėse yra tie patys. Konkrečius rinkimų komitetų rinkimų numerius iš rinkimų komitetams rezervuotų numerių burtais nustato savivaldybių rinkimų komisijos Vyriausiosios rinkimų komisijos nustatyta tvarka. Partijų jungtinio kandidatų sąrašo numerį partijos – koalicijos dalyvės pasirenka iš joms nustatytų rinkimų numerių bendru sutarimu. Jeigu partijos – koalicijos dalyvės rinkimų numerio nepasirenka, Vyriausioji rinkimų komisija partijų jungtiniam kandidatų sąrašui suteikia mažiausią iš partijoms – koalicijos dalyvėms burtais nustatytų numerių.
 
@@ -1360,7 +1380,11 @@ Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 
 2) savivaldybės rinkimų komisija – stebėti rinkimus visoje rinkimų apygardoje arba tos rinkimų apygardos konkrečiose rinkimų apylinkėse.
 
-5. Rinkimų stebėtojai registruojami Vyriausiosios rinkimų komisijos nustatyta tvarka, užtikrinant lygiateisiškumo tarp politinių partijų, kandidatų ir nevyriausybinių organizacijų siūlomų rinkimų stebėtojų principo laikymąsi.
+5. Rinkimų stebėtojai registruojami Vyriausiosios rinkimų komisijos nustatyta tvarka, užtikrinant lygiateisiškumo tarp politinių partijų, kandidatų ir nevyriausybinių organizacijų siūlomų rinkimų stebėtojų principo laikymąsi. Vyriausioji rinkimų komisija politinės kampanijos laikotarpiu savo interneto svetainėje skelbia rinkimų stebėtojų duomenis (vardą, pavardę, rinkimų stebėtoją pasiūliusį subjektą, savivaldybės ir rinkimų apylinkės pavadinimą bei numerį).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 
 6. Rinkimų komisijos gali atsisakyti registruoti rinkimų stebėtoją, jeigu jis neatitinka šio įstatymo reikalavimų ar jo veikla neatitinka Konstitucijos ar įstatymų, arba panaikinti rinkimų stebėtojo registravimą, jeigu jis pažeidžia Konstituciją ar įstatymus, nesilaiko Vyriausiosios rinkimų komisijos sprendimų. Rinkimų stebėtojo registravimas gali būti panaikintas jį įregistravusios rinkimų komisijos arba aukštesnės rinkimų komisijos pirmininko. Rinkimų stebėtoją pasiūliusiam asmeniui pranešama apie atsisakymą išduoti rinkimų stebėtojo pažymėjimą arba apie registravimo panaikinimą.
 
@@ -2154,7 +2178,7 @@ Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -2763,4 +2787,30 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
 
 Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai ir bylos dalies nutraukimo
+
+371 straipsnis. Duomenų apie kandidatus skelbimas
+
+1. Vyriausiosios rinkimų komisijos interneto svetainėje 10 metų skelbiama informacija apie kandidatą:
+
+1) informacija apie kandidatą į savivaldybės tarybos narius, kandidatą į savivaldybės tarybos narius – merus: vardas, pavardė, gimimo data, darbovietė, einamos pareigos (tarnyba), narystė politinėje partijoje ir asociacijose; šio įstatymo 36 straipsnio 11 dalyje nurodyti duomenys: ar kandidatas neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės; turima pilietybė; taip pat ar jo pasyvioji rinkimų teisė nėra teismo apribota valstybėje, kurios pilietis jis yra; šio įstatymo 36 straipsnio 12 dalyje nurodyti duomenys;
+
+2) kandidato į savivaldybės tarybos narius, kandidato į savivaldybės tarybos narius – merus biografija;
+
+3) gyventojų pajamų mokesčio ir gyventojo turto deklaracijų, pateiktų Valstybinei mokesčių inspekcijai, pagrindinių duomenų išrašai, patvirtinti mokesčių inspekcijos, kuriai deklaracijos buvo pateiktos;
+
+4) privačių interesų deklaracija;
+
+5) ar kandidatas dalyvauja visuomeninėje veikloje;
+
+6) kita kandidato nurodyta informacija, kurią jis norėtų paskelbti.
+
+2. Informacija apie kandidatų į savivaldybės tarybos narius, kandidatų į savivaldybės tarybos narius – merus gimimo vietą, pilietybę, išsilavinimą, užsienio kalbų mokėjimą, pomėgius, šeiminę padėtį, sutuoktinio ar sutuoktinės vardą (pavardę), vaikų vardus (pavardes), telefono numerį, elektroninio pašto adresą Vyriausiosios rinkimų komisijos interneto svetainėje skelbiama iki politinės kampanijos laikotarpio pabaigos.
+
+3. Kandidatų į savivaldybės tarybos narius, kandidatų į savivaldybės tarybos narius – merus duomenys: vardas, pavardė, iškėlusi partija arba iškėlęs rinkimų komitetas, arba kad išsikėlė patys, taip pat rinkimų rezultatai (gauti balsai; gauti pirmumo balsai; priešrinkiminis numeris kandidatų sąraše; porinkiminis numeris kandidatų sąraše; gauti mandatai, savivaldybės pavadinimas) Vyriausiosios rinkimų komisijos interneto svetainėje skelbiami neterminuotai.
+
+4. Kandidato į savivaldybės tarybos narius, kandidato į savivaldybės tarybos narius – merus asmens kodas, paso arba asmens tapatybės kortelės ar kito asmens tapatybę arba teisę nuolat gyventi Lietuvos Respublikoje patvirtinančio dokumento numeris, nuolatinės gyvenamosios vietos adresas viešai neskelbiami.
+
+Papildyta straipsniu:
+
+Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 
