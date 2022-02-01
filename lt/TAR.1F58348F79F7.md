@@ -4,7 +4,7 @@ identifier: "TAR.1F58348F79F7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2021-01-01"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-01-31
+Suvestinė redakcija nuo 2022-02-01 iki 2022-07-11
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
 
@@ -649,7 +649,11 @@ Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
 
 8. Asmuo turi teisę vienašališkai atsisakyti įsigyti pensijų anuitetą, apie tai raštu pranešęs pensijų anuitetų mokėtojui per 10 darbo dienų nuo dienos, kai pensijų anuitetų mokėtojas šio straipsnio 5 dalyje nustatyta tvarka pateikia (išsiunčia) jam sprendimą dėl pensijų anuiteto mokėjimo. Jeigu pensijų anuitetų mokėtojas per 10 darbo dienų nuo dienos, kai asmeniui šio straipsnio 5 dalyje nustatyta tvarka pateikiamas (išsiunčiamas) sprendimas dėl pensijų anuiteto mokėjimo, negauna asmens atsisakymo įsigyti pensijų anuitetą, laikoma, kad asmuo nepasinaudojo teise vienašališkai atsisakyti įsigyti pensijų anuitetą. Asmeniui vienašališkai atsisakius įsigyti pensijų anuitetą, pensijų anuitetų mokėtojui neatsiranda pareigų, susijusių su jo priimto sprendimo dėl pensijų anuiteto mokėjimo vykdymu. Jeigu asmuo atsisako įsigyti pensijų anuitetą, jis kartu vienašališkai atsisako ir pensijų išmokos sutarties su pensijų kaupimo bendrove. Vienašališkai atsisakęs pensijų anuiteto, asmuo tęsia dalyvavimą pensijų kaupime tol, kol jo dalyvavimas baigsis šio įstatymo 4 straipsnio 8 dalyje nurodytais pagrindais. Pensijų anuitetų mokėtojas per 3 darbo dienas nuo šioje dalyje nustatyto vienašališko atsisakymo įsigyti pensijų anuitetą termino pabaigos praneša pensijų kaupimo bendrovei su ja suderinta informacijos pateikimo tvarka apie dalyvio vienašališką atsisakymą arba neatsisakymą įsigyti pensijų anuitetą.
 
-9. Pensijų anuitetas mokamas kas mėnesį. Pensijų anuitetas pervedamas į prašyme dėl pensijų anuiteto įsigijimo nurodytą asmeninę pensijų išmokos gavėjo sąskaitą kredito ar mokėjimo įstaigoje arba pensijų anuiteto gavėjo pasirinkimu jis gali būti pristatomas kitu VSDF valdybos nustatytu būdu. Pensijų anuitetas į pensijų anuitetų gavėjo sąskaitą kredito ar mokėjimo įstaigoje pervedamas nemokamai. Jeigu pensijų anuiteto gavėjas pasirenka gauti pensijų anuitetą kitu VSDF valdybos nustatytu būdu, jis padengia su pensijų anuiteto mokėjimu susijusias išlaidas.
+9. Pensijų anuitetas mokamas kas mėnesį. Pensijų anuitetas pervedamas į prašyme dėl pensijų anuiteto įsigijimo nurodytą asmeninę pensijų išmokos gavėjo sąskaitą kredito ar mokėjimo įstaigoje arba pensijų anuiteto gavėjo pasirinkimu jis gali būti pristatomas kitu VSDF valdybos nustatytu būdu. Pensijų anuitetas į pensijų anuitetų gavėjo sąskaitą kredito ar mokėjimo įstaigoje, esančioje Lietuvos Respublikos teritorijoje, pervedamas nemokamai. Jeigu pensijų anuiteto gavėjas pasirenka gauti pensijų anuitetą į sąskaitą kredito ar mokėjimo įstaigoje, esančioje ne Lietuvos Respublikos teritorijoje, arba kitu VSDF valdybos nustatytu būdu, jis padengia su pensijų anuiteto mokėjimu susijusias išlaidas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-659, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24261
 
 10. Standartinis pensijų anuitetas pradedamas mokėti nuo sprendime dėl pensijų anuiteto mokėjimo nurodytos dienos, kurią gautas dalyvio prašymas dėl pensijų išmokos sutarties sudarymo.
 
@@ -779,7 +783,7 @@ Iš valstybės biudžeto už pensijų fondo dalyvį mokamos pensijų įmokos dyd
 
 1,5
 
-part_5af656ccea9a4ca98fbb44f730be590e_end
+part_a45080f1492244e3adf98db2d136330a_end
 
 Pakeitimai:
 
