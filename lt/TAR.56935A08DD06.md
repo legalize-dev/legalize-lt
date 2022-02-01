@@ -4,7 +4,7 @@ identifier: "TAR.56935A08DD06"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-13"
-last_updated: "2021-07-01"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2022-01-31
+Suvestinė redakcija nuo 2022-02-01
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
 
@@ -346,9 +346,17 @@ TERŠIMO INCIDENTŲ LIKVIDAVIMAS
 
 1. Teršimo incidentų likvidavimo darbus Lietuvos Respublikos jūros rajone organizuoja, koordinuoja ir jiems vadovauja Lietuvos kariuomenė. Šiuos darbus Lietuvos kariuomenė organizuoja, koordinuoja ir jiems vadovauja per Jūrų gelbėjimo koordinavimo centrą.
 
-2. Teršimo incidentų likvidavimo darbus Lietuvos Respublikos jūros rajone, išskyrus jūros rajono vidaus vandenis, vykdo Lietuvos kariuomenė, Kuršių mariose – Vidaus reikalų ministerijos įgaliotos institucijos, jūrų uostų akvatorijose – uostų administracijos.
+2. Teršimo incidentų likvidavimo darbus Lietuvos Respublikos jūros rajone, išskyrus jūros rajono vidaus vandenis, vykdo Lietuvos kariuomenė, Kuršių mariose – Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos, prireikus pasitelkdamas Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos pajėgas ir priemones, jūrų uostų akvatorijose – uostų administracijos.
 
-3. Teršimo incidentų likvidavimo darbams vykdyti Jūrų gelbėjimo koordinavimo centro vadovo prašymu gali būti pasitelkiamos Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos, jūrų uostų administracijų, kitų valstybės ir savivaldybių institucijų pajėgos ir priemonės, priskirtos šiems darbams vykdyti pagal Teršimo incidentų likvidavimo jūros rajone darbų planą (toliau – Planas). Šį planą tvirtina krašto apsaugos, aplinkos ir vidaus reikalų ministrai. Jeigu teršimo incidentų likvidavimo darbams vykdyti pagal Planą priskirtų pajėgų ir priemonių neužtenka, turi būti pasitelkiamos papildomos, pagal Planą nurodytoms institucijoms nepriskirtos pajėgos ir priemonės.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-892, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00749
+
+3. Teršimo incidentų likvidavimo darbams vykdyti Jūrų gelbėjimo koordinavimo centro vadovo prašymu gali būti pasitelkiamos Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos, jūrų uostų administracijų, kitų valstybės ir savivaldybių institucijų pajėgos ir priemonės, priskirtos šiems darbams vykdyti pagal Teršimo incidentų likvidavimo jūros rajone darbų planą (toliau – Planas). Šį planą tvirtina krašto apsaugos, aplinkos ir vidaus reikalų ministrai. Jeigu teršimo incidentų likvidavimo darbams vykdyti pagal Planą priskirtų pajėgų ir priemonių neužtenka, turi būti pasitelkiamos papildomos, pagal Planą nurodytoms institucijoms nepriskirtos pajėgos ir priemonės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-892, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00749
 
 4. Šiame straipsnyje nurodytų institucijų pareigas ir įgaliojimus organizuojant, koordinuojant, vadovaujant ir vykdant teršimo incidentų likvidavimo darbus Lietuvos Respublikos jūros rajone nustato Vyriausybė. Šie darbai organizuojami, koordinuojami, jiems vadovaujama ir jie vykdomi remiantis Planu.
 
@@ -585,6 +593,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
 
 Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 8, 9, 11, 15, 16, 17, 18, 20 straipsnių, ketvirtojo skirsnio pavadinimo ir 3 priedo pakeitimo, Įstatymo papildymo 15-1 straipsniu ir 19 straipsnio pripažinimo netekusiu galios įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-892, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00749
+
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 21 straipsnio pakeitimo įstatymas
 
 35 straipsnis. Pasirengimas likviduoti teršimo incidentus
 
