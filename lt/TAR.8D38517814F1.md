@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2022-01-01"
+last_updated: "2022-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-02-28
+Suvestinė redakcija nuo 2022-03-01 iki 2022-04-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -2155,7 +2155,7 @@ Pakuočių ATLIEKŲ TVARKYMO YPATUMAI
 
 3425 straipsnis. Gaminių ir pakuočių atliekų tvarkymo organizavimo licencijų išdavimo sąlygos
 
-1. Gaminių ar pakuočių atliekų tvarkymo organizavimo licencija (toliau – licencija) išduodama atitinkamų gaminių ar pakuočių atliekų tvarkymo organizavimo veiklai, vykdomai pagal šio Įstatymo 342, 345, 3412, 3416, 3419, 3422 straipsniuose ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje nustatytus kolektyvaus gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo reikalavimus, ir licencijas išduodančiai institucijai pateikus:
+1. Gaminių ar pakuočių atliekų tvarkymo organizavimo licencija (toliau – licencija) išduodama atitinkamų gaminių ar pakuočių atliekų tvarkymo organizavimo veiklai, vykdomai pagal šio Įstatymo 342, 345, 3412, 3416, 3419, 3422, 3433, 3436, 3439 straipsniuose ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje nustatytus kolektyvaus gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo reikalavimus, ir licencijas išduodančiai institucijai pateikus:
 
 1) prašymą išduoti licenciją;
 
@@ -2165,11 +2165,13 @@ a) atliekų tvarkymo veiklos organizavimo planą, kuriame turi būti numatytos p
 
 b) atliekų tvarkymo finansavimo schemą, garantuojančią, kad gaminių ar pakuočių atliekų tvarkymas bus finansuojamas;
 
-c) visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programą;
+c) visuomenės švietimo ir informavimo atliekų prevencijos ir tvarkymo klausimais programą;
 
-3) dokumentą, įrodantį, kad elektros ir elektroninės įrangos, alyvos, baterijų ir akumuliatorių atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymas bus finansuojamas (taikoma asmeniui, siekiančiam gauti elektros ir elektroninės įrangos, alyvos, baterijų ir akumuliatorių atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licenciją);
+3) dokumentą, įrodantį, kad elektros ir elektroninės įrangos, alyvos, baterijų ir akumuliatorių atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymas bus finansuojamas (taikoma asmeniui, siekiančiam gauti elektros ir elektroninės įrangos, alyvos, baterijų ir akumuliatorių atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licenciją).
 
-4) dokumentus, įrodančius, kad licenciją siekiantis gauti asmuo nėra skolingas Valstybinio socialinio draudimo fondui, vykdo įsipareigojimus muitinei ir neturi mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams, fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (įskaitant atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas).
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 2. Tam pačiam licencijos turėtojui gali būti išduodama tik viena iš šio Įstatymo 3424 straipsnyje nurodytų licencijų, išskyrus šio straipsnio 3 ir 4 dalyse numatytas išimtis.
 
