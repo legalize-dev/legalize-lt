@@ -4,7 +4,7 @@ identifier: "TAR.7E8386C5AA76"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2022-01-01"
+last_updated: "2022-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-02-28
+Suvestinė redakcija nuo 2022-03-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
 
@@ -642,7 +642,11 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas, valdymo o
 
 5. Pasibaigus kolegijos nario, kuris yra deleguotas savivaldybės tarybos, įgaliojimams šio straipsnio 4 dalyje nustatytais pagrindais, regiono plėtros tarybos dalyvėmis esančių savivaldybių tarybos privalo deleguoti savo atstovus į kolegiją ne vėliau kaip per 2 mėnesius nuo ankstesnio kolegijos nario įgaliojimų pabaigos dienos.
 
-25 straipsnis. Kolegijos narių darbo apmokėjimas
+25 straipsnis. Kolegijos narių darbo ir komandiruočių išlaidų apmokėjimas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 1. Už darbo laiką atliekant kolegijos nario pareigas kolegijos nariui (išskyrus kolegijos narį – savivaldybės merą ir ne visuomeniniais pagrindais dirbantį mero pavaduotoją) mokamas atlyginimas iš Vidaus reikalų ministerijai regionų plėtros tarybų veiklai skiriamų valstybės biudžeto asignavimų, kai kolegijos nario pareigų atlikimas yra neatsiejamai susijęs su šio įstatymo 12 straipsnio 3 dalies 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu. Kolegijos narių darbo laikas apskaičiuojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Atlyginimą kolegijos nariams moka regiono plėtros taryba.
 
@@ -672,7 +676,11 @@ TAR pastaba. 25 straipsnio 6 dalis įsigalioja 2022 m. kovo 1 d.
 
 4) užtikrinti šio įstatymo 23 straipsnio 11 dalyje nurodytų dokumentų pateikimą regiono plėtros tarybos partnerių grupei ir partnerių grupės išvados, kuri pateikta dėl šių dokumentų, pateikimą kolegijai;
 
-5) užtikrinti regiono plėtros tarybos metinių veiklos planų parengimą ir pateikimą visuotiniam dalyvių susirinkimui ir kolegijai;
+5) užtikrinti regiono plėtros tarybos metinių veiklos planų parengimą, atsižvelgiant į vidaus reikalų ministro patvirtintą pavyzdinę regiono plėtros tarybos metinio veiklos plano formą, ir pateikimą regiono plėtros tarybos visuotiniam dalyvių susirinkimui ir kolegijai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 6) užtikrinti regiono plėtros tarybos metinių finansinių ataskaitų rinkinio parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliekamas) visuotiniam dalyvių susirinkimui ir Juridinių asmenų registro tvarkytojui;
 
