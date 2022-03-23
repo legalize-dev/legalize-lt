@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2022-02-01"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2022-02-01 iki 2022-03-22
+Suvestinė redakcija nuo 2022-03-23 iki 2022-03-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -624,7 +624,11 @@ Užsieniečio darbas arba užsiėmimas kita veikla Lietuvos Respublikoje laikomi
 
 2) užsiima kita veikla, kuriai neturi leidimo, jei būtina jį turėti, ir neturi leidimo laikinai gyventi ar vizos;
 
-3) studijuoja, mokosi švietimo įstaigoje, stažuoja ar tobulina kvalifikaciją be leidimo laikinai gyventi ar vizos, išskyrus atvejus, nurodytus šio Įstatymo 32 straipsnio 2 dalies 2 punkte ir 71 straipsnio 2 dalyje;
+3) studijuoja, mokosi švietimo įstaigoje, stažuoja ar tobulina kvalifikaciją be leidimo laikinai gyventi ar vizos, išskyrus atvejus, nurodytus šio Įstatymo 32 straipsnio 4 dalies 2 punkte ir 71 straipsnio 2 dalyje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
 
 4) yra prieglobsčio prašytojas, kuris dirba be užsieniečio registracijos pažymėjimo, patvirtinančio jo teisę dirbti, ir (arba) be darbo sutarties.
 
@@ -734,7 +738,11 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 2. Užsieniečio prašyme suteikti prieglobstį pateikta informacija ir prašymo nagrinėjimo metu gauta informacija užsieniečio kilmės valstybei neteikiama. Nagrinėjant prašymą suteikti prieglobstį, nesikreipiama dėl informacijos į užsieniečio kilmės valstybę, jeigu toks kreipimasis galėtų atskleisti, kad užsienietis pateikė prašymą suteikti prieglobstį, ir dėl to galėtų kilti grėsmė jo ar jo šeimos narių gyvybei, sveikatai, saugumui ar laisvei.
 
-3. Pagal šio Įstatymo 32 straipsnio 3 dalį vykdant nelydimo nepilnamečio šeimos narių paiešką, užtikrinamas informacijos rinkimo ir tvarkymo konfidencialumas.
+3. Pagal šio Įstatymo 32 straipsnio 6 dalį vykdant nelydimo nepilnamečio užsieniečio šeimos narių paiešką, užtikrinamas informacijos rinkimo ir tvarkymo konfidencialumas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
 
 4. Kompetentingų Lietuvos Respublikos institucijų ar įstaigų valstybės tarnautojams ir darbuotojams, kurių veikla susijusi su prašymų suteikti prieglobstį nagrinėjimu ir (ar) priėmimo sąlygų užtikrinimu, draudžiama atskleisti informaciją, gautą atliekant savo funkcijas, išskyrus Lietuvos Respublikos įstatymuose nustatytus atvejus.
 
@@ -3742,65 +3750,45 @@ Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 
 32 straipsnis. Nelydimi nepilnamečiai užsieniečiai
 
-1. Nelydimiems nepilnamečiams užsieniečiams, neatsižvelgiant į jų buvimo Lietuvos Respublikos teritorijoje teisėtumą, jų buvimo Lietuvos Respublikos teritorijoje laikotarpiu Lietuvos Respublikos teisės aktų nustatyta tvarka nedelsiant skiriamas atstovas. Skiriant atstovą nelydimam nepilnamečiam užsieniečiui, kuris atvyko į Lietuvos Respubliką be tėvų ar kitų teisėtų atstovų, į teismą dėl teismo leidimo paimti vaiką iš jo atstovų pagal įstatymą nesikreipiama. Nepilnamečiam užsieniečiui, kuris, atvykęs į Lietuvos Respubliką, liko be tėvų ar kitų teisėtų atstovų, atstovas skiriamas Lietuvos Respublikos teisės aktuose nustatytais pagrindais ir tvarka. Jeigu atstovu paskiriamas juridinis asmuo, jis paskiria atsakingą asmenį, kuris atlieka nelydimo nepilnamečio užsieniečio atstovo pareigas.
+1. Nelydimiems nepilnamečiams užsieniečiams, neatsižvelgiant į jų buvimo Lietuvos Respublikos teritorijoje teisėtumą, jų buvimo Lietuvos Respublikos teritorijoje laikotarpiu Lietuvos Respublikos teisės aktų nustatyta tvarka nedelsiant skiriamas atstovas.
 
-Straipsnio dalies pakeitimai:
+2. Skiriant atstovą nelydimam nepilnamečiam užsieniečiui, į teismą dėl teismo leidimo paimti vaiką iš jo atstovų pagal įstatymą nesikreipiama.
 
-Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+3. Jeigu nelydimo nepilnamečio užsieniečio atstovu paskiriamas juridinis asmuo, jis ne vėliau kaip kitą darbo dieną nuo savivaldybės administracijos direktoriaus įsakymo dėl vaiko laikinosios globos (rūpybos) nustatymo priėmimo dienos paskiria atsakingą darbuotoją, kuris vykdo nelydimo nepilnamečio užsieniečio atstovo pareigas.
 
-Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
+4. Nelydimi nepilnamečiai užsieniečiai, neatsižvelgiant į jų buvimo Lietuvos Respublikos teritorijoje teisėtumą, turi šias teises:
 
-2. Nelydimi nepilnamečiai užsieniečiai, neatsižvelgiant į jų buvimo Lietuvos Respublikos teritorijoje teisėtumą, turi šias teises:
-
-1) būti aprūpinti nemokama gyvenamąja patalpa bei būti išlaikomi Lietuvos Respublikoje socialinės apsaugos ir darbo ministro nustatyta tvarka;
+1) būti nemokamai aprūpinti gyvenamąja patalpa ir būti išlaikomi Lietuvos Respublikoje socialinės apsaugos ir darbo ministro nustatyta tvarka;
 
 2) mokytis pagal ikimokyklinio, priešmokyklinio, bendrojo ugdymo arba profesinio mokymo programą (programas) švietimo, mokslo ir sporto ministro nustatyta tvarka. Teisė mokytis pagal ikimokyklinio, priešmokyklinio, bendrojo ugdymo arba profesinio mokymo programą (programas) užtikrinama ne vėliau kaip per 3 mėnesius nuo nelydimo nepilnamečio užsieniečio buvimo Lietuvos Respublikoje nustatymo dienos;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
-
-Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
-
 3) gauti Lietuvos Respublikos sveikatos sistemos įstatyme nurodytą valstybės laiduojamą (nemokamą) sveikatos priežiūrą;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
-
-4) nemokamai gauti socialines paslaugas socialinės apsaugos ir darbo ministro nustatyta tvarka;
+4) nemokamai gauti socialines paslaugas socialinės apsaugos ir darbo ministro nustatyta tvarka, išskyrus šio straipsnio 5 dalyje nurodytą atvejį;
 
 5) naudotis valstybės garantuojama teisine pagalba, jeigu Lietuvos Respublikos įstatymai nenumato kitaip;
 
 6) susisiekti su Lietuvos Respublikos nevyriausybinių ar tarptautinių organizacijų atstovais;
 
-7) kitų teisių, jiems garantuojamų pagal Lietuvos Respublikos tarptautines sutartis, įstatymus ir kitus teisės aktus.
+7) kitų teisių, garantuojamų pagal Lietuvos Respublikos tarptautines sutartis, įstatymus ir kitus teisės aktus.
 
-Papildyta straipsnio punktu:
+5. Leidimą nuolat ar laikinai gyventi Lietuvos Respublikoje gavusiems nelydimiems nepilnamečiams užsieniečiams socialinės paslaugos teikiamos vadovaujantis Lietuvos Respublikos socialinių paslaugų įstatymu.
 
-Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
+6. Migracijos departamentas, gavęs informaciją apie nelydimą nepilnametį užsienietį, privalo kartu su šio straipsnio 4 dalies 6 punkte nurodytomis organizacijomis bei nelydimo nepilnamečio užsieniečio atstovu nedelsdamas organizuoti jo šeimos narių paiešką ir ne vėliau kaip per 2 dienas nuo informacijos apie nelydimą nepilnametį užsienietį gavimo dienos išduoti jam užsieniečio registracijos pažymėjimą.
 
-3. Migracijos departamentas, gavęs informaciją apie nustatytą nelydimą nepilnametį užsienietį, privalo kartu su šio straipsnio 2 dalies 6 punkte nurodytomis organizacijomis bei nelydimo nepilnamečio užsieniečio atstovu nedelsdamas organizuoti jo šeimos narių paiešką ir ne vėliau kaip per 2 dienas nuo informacijos apie nustatytą nelydimą nepilnametį užsienietį gavimo dienos išduoti jam užsieniečio registracijos pažymėjimą.
+7. Atliekant nelydimo nepilnamečio užsieniečio šeimos narių paiešką, sprendžiamas ir jo teisinės padėties Lietuvos Respublikoje klausimas.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
-
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
-
-4. Atliekant nelydimo nepilnamečio užsieniečio šeimos narių paiešką kartu sprendžiamas jo teisinės padėties Lietuvos Respublikoje klausimas.
-
-5. Nelydimi nepilnamečiai užsieniečiai, kurie nėra prieglobsčio prašytojai, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimu apgyvendinami socialinės apsaugos ir darbo ministro, vidaus reikalų ministro ir sveikatos apsaugos ministro nustatyta tvarka.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+8. Nelydimi nepilnamečiai užsieniečiai, kurie nėra prieglobsčio prašytojai, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimu apgyvendinami socialinės apsaugos ir darbo ministro, vidaus reikalų ministro ir sveikatos apsaugos ministro nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 
 Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
+
+Straipsnio pakeitimai:
+
+Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
 
 36 straipsnis. Duomenų pranešimas
 
@@ -5808,6 +5796,14 @@ Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 11, 19, 23, 26, 35, 53, 62, 98-1, 124, 125, 133, 140-3 straipsnių, III skyriaus pirmojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
 
+28.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 32, 64, 68 ir 108 straipsnių pakeitimo ir Įstatymo X-2 skyriaus papildymo ketvirtuoju skirsniu įstatymas
+
 341 straipsnis. Leidimo gyventi išdavimas, keitimas ir naujas įforminimas skubos tvarka
 
 1. Užsieniečio prašymu prašymas išduoti ar pakeisti leidimą gyventi gali būti nagrinėjamas ir šis dokumentas gali būti išduodamas ar keičiamas skubos tvarka. Nagrinėjant užsieniečio prašymą išduoti ar pakeisti leidimą gyventi ir šį dokumentą išduodant ar keičiant skubos tvarka, šio Įstatymo 33 straipsnio 1 dalyje nustatyti terminai trumpinami per pusę.
@@ -6526,13 +6522,9 @@ SPRENDIMŲ DĖL PRAŠYMO SUTEIKTI PRIEGLOBSTĮ, GRĄŽINIMO, IŠSIUNTIMO IR UŽD
 
 Atitinkamas apygardos administracinis teismas skundą privalo išnagrinėti ir sprendimą priimti per 2 mėnesius nuo skundo priėmimo dienos, o Lietuvos vyriausiasis administracinis teismas – per vieną mėnesį nuo apeliacinio skundo priėmimo dienos.
 
-Papildyta skyriumi:
+KETVIRTASIS SKIRSNIS
 
-Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
-
-XI SKYRIUS
-
-BAIGIAMOSIOS NUOSTATOS
+NELYDIMŲ NEPILNAMEČIŲ UŽSIENIEČIŲ ATSTOVŲ SKYRIMAS
 
 201 straipsnis. Sprendimų dėl kelionės leidimų priėmimas
 
@@ -6541,4 +6533,26 @@ Sprendimus dėl kelionės leidimo išdavimo ar atsisakymo jį išduoti, jo panai
 Papildyta straipsniu:
 
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+
+14027 straipsnis. Nelydimų nepilnamečių užsieniečių atstovų skyrimas
+
+1. Jeigu įvesta karo padėtis, nepaprastoji padėtis, paskelbta ekstremalioji situacija dėl masinio užsieniečių antplūdžio, skiriant nelydimo nepilnamečio užsieniečio atstovu fizinį asmenį, kuris yra:
+
+1) užsienio valstybės pilietis ar asmuo be pilietybės, neatsižvelgiant į jo buvimo Lietuvos Respublikos teritorijoje teisėtumą, išskyrus Europos Sąjungos valstybės narės piliečius, turinčius teisės laikinai ar nuolat gyventi Lietuvos Respublikoje pažymėjimą, Europos Sąjungos valstybės narės piliečių šeimos narius, turinčius Europos Sąjungos leidimo laikinai ar nuolat gyventi kortelę, jam netaikomi Lietuvos Respublikos civilinio kodekso 3.268 straipsnio 2 dalyje ir 3.269 straipsnyje nustatyti reikalavimai;
+
+2) Lietuvos Respublikos pilietis, Europos Sąjungos valstybės narės pilietis, turintis teisės laikinai ar nuolat gyventi Lietuvos Respublikoje pažymėjimą, Europos Sąjungos valstybės narės piliečio šeimos narys, turintis Europos Sąjungos leidimo laikinai ar nuolat gyventi kortelę, jam netaikomas Civilinio kodekso 3.268 straipsnio 2 dalies 2 punkte nustatytas reikalavimas.
+
+2. Fizinis asmuo, nurodytas šio straipsnio 1 dalies 2 punkte, gali būti paskirtas nelydimo nepilnamečio užsieniečio atstovu, iki Vyriausybės tvirtinamų Vaiko globos organizavimo nuostatų nustatyta tvarka bus patikrintas jo pasirengimas tapti nelydimo nepilnamečio užsieniečio globėju (rūpintoju), jeigu tai neprieštarauja vaiko interesams.
+
+Papildyta skirsniu:
+
+Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
+
+Papildyta skyriumi:
+
+Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
+
+XI SKYRIUS
+
+BAIGIAMOSIOS NUOSTATOS
 
