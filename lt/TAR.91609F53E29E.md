@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2022-01-01"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-22
+Suvestinė redakcija nuo 2022-03-23 iki 2022-03-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
 
@@ -114,11 +114,15 @@ Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 
 13. Vaikus globojanti šeima – sutuoktiniai ar vienas gyvenantis asmuo, ne jaunesnis kaip 21 metų (reikalavimas būti sukakusiam 21 metų amžių netaikomas vaiko artimajam giminaičiui), įstatymų ir kitų teisės aktų nustatyta tvarka prižiūrintys ar globojantys (besirūpinantys) vaikus (vaikais).
 
-14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme, Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
+14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme, Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme, Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
 
 Straipsnio pakeitimai:
 
@@ -734,7 +738,11 @@ Pakeistas straipsnio pavadinimas:
 
 Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
 
-1. Licencija gali būti išduodama įstaigai, kuri atitinka visas toliau išvardytas sąlygas:
+1. Licencija gali būti išduodama įstaigai, kuri atitinka visas toliau išvardytas sąlygas, išskyrus šio straipsnio 11 dalyje nurodytą atvejį:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
 
 1) yra tinkamai pasirengusi teikti socialinę globą – įstaigos numatoma teikti socialinė globa atitinka socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti asmeninės apsaugos priemonių ir kitų priemonių, būtinų veiklos vykdymui užtikrinti (toliau – apsaugos priemonės), sąrašui, kiekiui ir laikotarpiui (apsaugos priemonių sąrašą, kiekį ir laikotarpį, kuriam sukauptų apsaugos priemonių turi pakakti nepertraukiamai įstaigų veiklai užtikrinti, nustato Vyriausybė ar jos įgaliota institucija);
 
@@ -752,13 +760,25 @@ Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
 
 Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
 
-2. Licencijai gauti užpildoma ir Socialinių paslaugų priežiūros departamentui tiesiogiai, registruotu laišku, elektroninėmis priemonėmis arba per Paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) pateikiama paraiška-klausimynas, kuriame pateikiama rašytinė informacija, įrodanti, kad įstaigos numatoma teikti socialinė globa atitiks socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti apsaugos priemonių sąrašui bei kiekiui nustatytam laikotarpiui, taip pat informacija apie tai, ar įstaiga yra teikusi socialinę globą neturėdama licencijos, ar įstaigai buvo panaikintas licencijos teikti socialinę globą galiojimas, išskyrus atvejus, kai licencijos galiojimas buvo panaikintas šio įstatymo 24 straipsnio 7 dalies 2 punkte nustatytu pagrindu, ar įstaigos vadovams ar kitiems atsakingiems asmenims buvo paskirta administracinė nuobauda už socialinės globos teikimą neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų. Paraiškos-klausimyno formą tvirtina Socialinių paslaugų priežiūros departamentas.
+11. Jeigu įstaiga institucinę socialinę globą numato teikti tik iš užsienio valstybės (-ių), kurią (-ias), Lietuvos Respublikos užsienio reikalų ministerijos Socialinių paslaugų priežiūros departamentui pateiktais duomenimis, ištiko humanitarinė krizė, atvykusiems nelydimiems nepilnamečiams užsieniečiams ar likusiems be tėvų globos vaikams, išduodant licenciją netaikomos šio straipsnio 1 dalies 1 punkte nustatytos sąlygos ir licencija išduodama, jeigu:
+
+1) įstaiga užtikrina nelydimų nepilnamečių užsieniečių ar likusių be tėvų globos vaikų nepertraukiamą priežiūrą, tinkamas gyvenamąsias patalpas, maitinimą;
+
+2) įstaigos numatoma teikti institucinė socialinė globa atitinka socialinės globos normose nustatytus reikalavimus apsaugos priemonių sąrašui, kiekiui ir laikotarpiui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
+
+2. Licencijai gauti užpildoma ir Socialinių paslaugų priežiūros departamentui tiesiogiai, registruotu laišku, elektroninio ryšio priemonėmis arba per Paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) pateikiama paraiška-klausimynas, kuriame pateikiama rašytinė informacija, išskyrus atvejį, kai licenciją prašoma išduoti šio įstatymo 23 straipsnio 11 dalyje nurodytu atveju, įrodanti, kad įstaigos numatoma teikti socialinė globa atitiks socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti apsaugos priemonių sąrašui bei kiekiui nustatytu laikotarpiu, taip pat informacija apie tai, ar įstaiga yra teikusi socialinę globą neturėdama licencijos, ar įstaigai buvo panaikintas licencijos teikti socialinę globą galiojimas, išskyrus atvejus, kai licencijos galiojimas buvo panaikintas šio įstatymo 24 straipsnio 7 dalies 2 punkte nustatytu pagrindu, ar įstaigos vadovams ar kitiems atsakingiems asmenims buvo paskirta administracinė nuobauda už socialinės globos teikimą neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų. Licencijai, išduodamai vadovaujantis šio įstatymo 23 straipsnio 11 dalimi, gauti užpildoma ir Socialinių paslaugų priežiūros departamentui tiesiogiai, registruotu laišku, elektroninio ryšio priemonėmis arba per kontaktinį centrą pateikiama paraiška-klausimynas, kuriame pateikiama rašytinė informacija, įrodanti, kad įstaigos numatoma teikti socialinė globa atitiks šio įstatymo 23 straipsnio 11 dalyje nustatytas sąlygas. Paraiškos-klausimyno formą tvirtina Socialinių paslaugų priežiūros departamentas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
 
 Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+
+Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
 
 3. Tais atvejais, kai įstaiga, išskyrus šeimyną, be socialinių paslaugų teikimo, užsiima ir kitomis, ne su socialinių paslaugų teikimu susijusiomis, veiklomis, institucinė socialinė globa turi būti teikiama patalpose, atskirtose nuo patalpų, kuriose užsiimama kitomis veiklomis.
 
@@ -798,11 +818,17 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
 
-3) įstaiga šio įstatymo 23 straipsnio 1 dalyje nurodytu laikotarpiu teikė socialinę globą neturėdama licencijos ir (ar) įstaigai buvo panaikintas licencijos teikti socialinę globą galiojimas, išskyrus atvejus, kai licencijos galiojimas buvo panaikintas šio įstatymo 24 straipsnio 7 dalies 2 punkte nustatytu pagrindu, ir (ar) įstaigos vadovams ar kitiems atsakingiems asmenims buvo du kartus ir daugiau paskirta administracinė nuobauda už socialinės globos teikimą neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų.
+3) įstaiga šio įstatymo 23 straipsnio 1 dalyje nurodytu laikotarpiu teikė socialinę globą neturėdama licencijos ir (ar) įstaigai buvo panaikintas licencijos teikti socialinę globą galiojimas, išskyrus atvejus, kai licencijos galiojimas buvo panaikintas šio įstatymo 24 straipsnio 7 dalies 2 punkte nustatytu pagrindu, ir (ar) įstaigos vadovams ar kitiems atsakingiems asmenims buvo du kartus ir daugiau paskirta administracinė nuobauda už socialinės globos teikimą neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+
+4) įstaiga, numatanti teikti institucinę socialinę globą tik iš užsienio valstybės (-ių), kurią (-ias), Užsienio reikalų ministerijos Socialinių paslaugų priežiūros departamentui pateiktais duomenimis, ištiko humanitarinė krizė, atvykusiems nelydimiems nepilnamečiams užsieniečiams ar likusiems be tėvų globos vaikams, neatitinka šio įstatymo 23 straipsnio 1 dalies 2 punkte, 11 dalies 1 punkte ir (ar) 2 punkte nurodytų sąlygų.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
 
 2. Socialinių paslaugų priežiūros departamentas, nustatęs, kad socialinės globos įstaiga teikia socialinę globą, neatitinkančią socialinės globos normų, įteikia socialinės globos įstaigai tiesiogiai, registruotu laišku ar pasirašytą saugiu elektroniniu parašu elektroninėmis priemonėmis rašytinį įspėjimą pareikalaudamas per nurodytą terminą pašalinti pažeidimus. Terminas pažeidimams pašalinti negali būti ilgesnis kaip 6 mėnesiai nuo įspėjimo gavimo dienos.
 
@@ -822,7 +848,13 @@ Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
 
 1) sustabdžius licencijos galiojimą, socialinės globos įstaiga per nurodytą terminą nepašalino pažeidimų;
 
-2) socialinės globos įstaiga nepradėjo teikti socialinės globos per 12 mėnesių nuo licencijos išdavimo.
+2) socialinės globos įstaiga nepradėjo teikti socialinės globos per 12 mėnesių nuo licencijos išdavimo;
+
+3) jeigu socialinės globos įstaigai, kuriai licencija teikti institucinę socialinę globą buvo išduota taikant šio įstatymo 23 straipsnio 11 dalyje nustatytą išimtį, per 24 mėnesius nuo šios licencijos išdavimo dienos nepavyko užtikrinti, kad jos teikiama institucinė socialinė globa atitiktų šio įstatymo 23 straipsnio 1 dalyje nustatytas sąlygas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
 
 8. Socialinių paslaugų priežiūros departamentas apie numatomą licencijos panaikinimą privalo ne vėliau kaip prieš 30 kalendorinių dienų elektroninėmis priemonėmis informuoti savivaldybę, kurios teritorijoje socialinės globos įstaiga teikia socialines paslaugas, ir savivaldybes, kurių gyventojai šias paslaugas gauna.
 
@@ -835,6 +867,12 @@ Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+
+12. Jeigu Socialinių paslaugų priežiūros departamentas nustato, kad socialinės globos įstaiga, kuriai licencija teikti institucinę socialinę globą išduota taikant šio įstatymo 23 straipsnio 11 dalyje nustatytą išimtį, neatitinka visų ar dalies šio įstatymo 23 straipsnio 11 dalyje nurodytų sąlygų, šalinant nustatytus institucinės socialinės globos teikimo pažeidimus, stabdant šios licencijos galiojimą ar ją panaikinant mutatis mutandis taikomos šio straipsnio 2–11 dalių nuostatos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
 
 Straipsnio pakeitimai:
 
@@ -1457,6 +1495,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, 3, 4, 6, 8, 11, 14, 15, 16, 17, 18, 19, 20, 26, 29, 34, 38 straipsnių pakeitimo, Įstatymo papildymo 6-1, 19-3, 20-1, 20-2 straipsniais ir 36, 37 straipsnių pripažinimo netekusiais galios įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
+
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 23, 24 ir 34 straipsnių pakeitimo įstatymas
 
 141 straipsnis. Lietuvos statistikos departamento kompetencija
 
