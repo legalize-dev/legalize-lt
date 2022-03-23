@@ -4,7 +4,7 @@ identifier: "TAR.199156E4E004"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2021-07-01"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,17 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2022-03-22
+Suvestinė redakcija nuo 2022-03-23 iki 2022-07-14
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
-
-TAR pastaba. Kituose teisės aktuose vartojama sąvoka „nedidelių specialiųjų poreikių lygis“ atstoja sąvoką „vidutinių specialiųjų poreikių lygis“.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
-
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 16, 18 ir 20-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
 
 Nauja redakcija nuo 2005-07-01:
 
@@ -46,7 +38,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
 
-2. Šis Įstatymas taikomas Lietuvos Respublikos piliečiams, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės susitarimą sudariusios valstybės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys jų teisę gyventi Lietuvos Respublikoje, asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas, užsieniečiams, turintiems Lietuvos Respublikoje ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje, užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje, ir Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir jų šeimos nariams, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir jų šeimos nariams, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje.
+2. Šis Įstatymas taikomas Lietuvos Respublikos piliečiams, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės susitarimą sudariusios valstybės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys jų teisę gyventi Lietuvos Respublikoje, asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas, užsieniečiams, turintiems Lietuvos Respublikoje ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje, užsieniečiams, kuriems suteiktas prieglobstis arba laikinoji apsauga Lietuvos Respublikoje, ir Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir jų šeimos nariams, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir jų šeimos nariams, kaip jie apibrėžti Įstatyme „Dėl užsieniečių teisinės padėties“, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje.
 
 Straipsnio dalies pakeitimai:
 
@@ -55,6 +47,8 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 Nr. XIII-445, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10807
 
 Nr. XIII-2343, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12409
+
+Nr. XIV-953, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05131
 
 3. Šio Įstatymo 20 ir 23 straipsniai taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, kaip ši sąvoka apibrėžta tai reglamentuojančiuose Lietuvos Respublikos teisės aktuose.
 
@@ -744,29 +738,27 @@ Vilnius, 1991 m. lapkričio 28 d.
 
 Nr. I-2044
 
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo
+Lietuvos Respublikos
+
+neįgaliųjų socialinės
+
+integracijos įstatymo
 
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
+1. 2001 m. liepos 20 d. Tarybos direktyva 2001/55/EB dėl minimalių normų suteikiant perkeltiesiems asmenims laikiną apsaugą esant masiniam jų srautui ir dėl priemonių, skatinančių valstybių narių tarpusavio pastangų priimant tokius asmenis ir atsakant už tokio veiksmo padarinius pusiausvyrą.
 
-2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
+2. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą.
 
-Papildyta punktu:
+3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių.
 
-Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
+4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
 
-3. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+Priedo pakeitimai:
 
-Papildyta punktu:
-
-Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
-
-Papildyta priedu:
-
-Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010ISTA0XI-1488
+Nr. XIV-953, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05131
 
 Pakeitimai:
 
@@ -1001,6 +993,16 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
 
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 16, 18 ir 20-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
+
+30.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-953, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05131
+
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1 straipsnio ir priedo pakeitimo įstatymas
+
+part_e1895d2017c24aafb638f13c6fce1b65_end
 
 201 straipsnis. Specialiųjų poreikių rūšys, specialiųjų poreikių ir specialiųjų poreikių lygio nustatymas
 
