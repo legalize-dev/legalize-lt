@@ -4,7 +4,7 @@ identifier: "TAR.9C9FA25983BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-02"
-last_updated: "2022-01-01"
+last_updated: "2022-03-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-23
+Suvestinė redakcija nuo 2022-03-24 iki 2023-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
 
@@ -373,17 +373,23 @@ Pareigūnas privalo:
 
 1) būti politinių partijų ar politinių organizacijų nariais, dalyvauti politinėje veikloje;
 
-2) būti įmonių, įstaigų ar organizacijų valdymo organų nariais, gauti atlyginimą už darbą tokiuose organuose, išskyrus atvejus, kai tai būtina Tarnybos vykdomai žvalgybinei veiklai ir ne ilgiau, negu tai yra būtina nustatytam užduoties tikslui pasiekti, arba atvejus, kai pareigūnas nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Tarnybos funkcijomis ir užduotimis susijusi veikla;
+2) būti įmonių, įstaigų ar organizacijų valdymo organų nariais, gauti atlyginimą už darbą tokiuose organuose, išskyrus atvejus, kai tai būtina Tarnybos vykdomai žvalgybinei veiklai ir ne ilgiau, negu tai yra būtina nustatytam užduoties tikslui pasiekti, arba atvejus, kai pareigūnas nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Tarnybos tikslu ir uždaviniais susijusi veikla;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-958, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05381
 
 3) sudaryti sandorius Specialiųjų tyrimų tarnybos vardu su įmonėmis, kurių savininkai ar dalininkai yra jų šeimos nariai, arba valdyti pagal įgaliojimą kito asmens akcijas;
 
 4) atstovauti šalies ir užsienio valstybių įmonių interesams;
 
-5) dirbti samdomais darbuotojais, patarėjais, ekspertais ar konsultantais įmonėse, įstaigose, organizacijose ir kitose institucijose, taip pat gauti kitą, negu nustatyta šiame įstatyme, atlyginimą, išskyrus atvejus, kai tai būtina Tarnybos vykdomai žvalgybinei veiklai, ir ne ilgiau, negu tai yra būtina nustatytam užduoties tikslui pasiekti, taip pat išskyrus atlyginimą už pedagoginę ir kūrybinę veiklą, tarnybos aktyviajame kariuomenės personalo rezerve ir savanoriškos nenuolatinės karo tarnybos atlikimą, ir atvejus, kai pareigūnas nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Tarnybos funkcijomis ir užduotimis susijusi veikla;
+5) dirbti samdomais darbuotojais, patarėjais, ekspertais ar konsultantais įmonėse, įstaigose, organizacijose ir kitose institucijose, taip pat gauti kitą, negu nustatyta šiame įstatyme, atlyginimą, išskyrus atvejus, kai tai būtina Tarnybos vykdomai žvalgybinei veiklai, ir ne ilgiau, negu tai yra būtina nustatytam užduoties tikslui pasiekti, taip pat išskyrus atlyginimą už pedagoginę ir kūrybinę veiklą, tarnybos aktyviajame kariuomenės personalo rezerve ir savanoriškos nenuolatinės karo tarnybos atlikimą, ir atvejus, kai pareigūnas nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Tarnybos tikslu ir uždaviniais susijusi veikla;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2677, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21318
+
+Nr. XIV-958, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05381
 
 6) streikuoti ar dalyvauti piketuose, mitinguose, kurie tiesiogiai trikdytų Specialiųjų tyrimų tarnybos veiklą arba kliudytų atlikti Specialiųjų tyrimų tarnybos pareigūno tarnybines pareigas, būti profesinės sąjungos nariais;
 
@@ -401,7 +407,11 @@ Nr. XIII-2677, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21318
 
 4. Leidimą eiti kitas pareigas taip pat turi gauti pareigūnas, siekiantis būti perkeltas į kitas pareigas šio įstatymo 37 straipsnio 5 ir 6 dalyse nurodytais atvejais. Jeigu sprendimas dėl leidimo dirbti kitą darbą priimtas dėl pareigūno perkėlimo į kitas pareigas šioje dalyje nurodytais atvejais, leidimas galioja perkėlimo į kitas pareigas laikotarpiu.
 
-5. Šiame straipsnyje nurodytas leidimas nereikalingas tais atvejais, kai pareigūnas nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Tarnybos funkcijomis ir užduotimis susijusi veikla, ir dėl šio pareigūno delegavimo yra priimamas Specialiųjų tyrimų tarnybos direktoriaus įsakymas.
+5. Šiame straipsnyje nurodytas leidimas nereikalingas tais atvejais, kai pareigūnas nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Tarnybos tikslu ir uždaviniais susijusi veikla, ir dėl šio pareigūno delegavimo ar dalyvavimo yra priimamas Specialiųjų tyrimų tarnybos direktoriaus įsakymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-958, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05381
 
 VII SKYRIUS
 
@@ -1041,7 +1051,13 @@ SOCIALINĖS GARANTIJOS
 
 6) nemokamos – iki 30 kalendorinių dienų per metus;
 
-7) kūrybinės.
+7) kūrybinės;
+
+8) atostogos dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, kuriuose vykdoma su Tarnybos tikslu ir uždaviniais susijusi veikla.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-958, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05381
 
 4. Pareigūnų atostogų trukmę ir suteikimo tvarką nustato šis įstatymas, Darbo kodeksas ir kiti teisės aktai.
 
@@ -1052,6 +1068,12 @@ SOCIALINĖS GARANTIJOS
 7. Pareigūnui, keičiančiam gyvenamąją vietą dėl perkėlimo į kitas pareigas (išskyrus atvejus, kai tarnybos vieta keičiama pareigūno prašymu) ar laikino pavedimo atlikti kitas pareigas kitoje gyvenamojoje vietovėje, persikelti skiriama iki 5 darbo dienų. Už šį laikotarpį pareigūnui mokamas jo vidutinis darbo užmokestis, taip pat Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka kompensuojamos persikėlimo išlaidos.
 
 8. Pareigūnai, esant tarnybiniam būtinumui, Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka gali būti atšaukiami iš kasmetinių atostogų. Pareigūno dėl atšaukimo iš atostogų patirtas išlaidas atlygina Specialiųjų tyrimų tarnyba Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka.
+
+9. Atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, kuriuose vykdoma su Tarnybos tikslu ir uždaviniais susijusi veikla, metu pareigūnui paliekamos jo eitos pareigos ir pareigūno statusas, dalyvavimo projekte laikas įskaitomas į tarnybos stažą. Šių atostogų laiku šio įstatymo 51 straipsnio 1 dalyje nustatytas darbo užmokestis pareigūnui nemokamas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-958, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05381
 
 59 straipsnis. Kompensacijos ir pašalpos
 
@@ -1584,4 +1606,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-472, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15851
 
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 2, 7 ir 8 straipsnių pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-958, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05381
+
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 23, 24 ir 58 straipsnių pakeitimo įstatymas
+
+part_1b91190ce20b458ea8f3368bf564810b_end
 
