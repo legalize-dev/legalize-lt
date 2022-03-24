@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2022-01-01"
+last_updated: "2022-03-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-23
+Suvestinė redakcija nuo 2022-03-24 iki 2022-03-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -1414,6 +1414,24 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 2. Perkančioji organizacija gali nuspręsti nesudaryti pirkimo sutarties su ekonomiškai naudingiausią pasiūlymą pateikusiu tiekėju, jeigu ji nustato, kad pasiūlymas neatitinka šio įstatymo 17 straipsnio 2 dalies 2 punkte nurodytų aplinkos apsaugos, socialinės ir darbo teisės įpareigojimų.
 
+21. Mobilizacijos, karo, nepaprastosios padėties atveju ar kai Lietuvos Respublikos Vyriausybė, įvertinusi riziką, kad veiksniai, dėl kurių buvo ar gali būti paskelbta mobilizacija, įvesta karo ar nepaprastoji padėtis, kelia grėsmę nacionaliniam saugumui, yra priėmusi sprendimą dėl šios nuostatos taikymo, perkančioji organizacija gali atmesti paraišką ar pasiūlymą, jeigu yra bent viena iš šių sąlygų:
+
+1) tiekėjas, jo subtiekėjas, ūkio subjektai, kurių pajėgumais remiamasi, tiekėjo siūlomų prekių (įskaitant jų sudedamąsias dalis) gamintojas ar juos kontroliuojantys asmenys yra juridiniai asmenys, registruoti šio įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose;
+
+2) tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, tiekėjo siūlomų prekių (įskaitant jų sudedamąsias dalis) gamintojas ar juos kontroliuojantys asmenys yra fiziniai asmenys, nuolat gyvenantys šio įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose arba turintys šių valstybių pilietybę;
+
+3) prekių (įskaitant jų sudedamąsias dalis) kilmė yra ar paslaugos teikiamos iš šio įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytų valstybių ar teritorijų;
+
+4) Lietuvos Respublikos Vyriausybė, vadovaudamasi Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme įtvirtintais kriterijais, yra priėmusi sprendimą, patvirtinantį, kad šios dalies 1 ir 2 punktuose nurodyti subjektai ar su jais ketinamas sudaryti (sudarytas) sandoris neatitinka nacionalinio saugumo interesų;
+
+5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies 1 ir 2 punktuose nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui.
+
+TAR pastaba. Iki įstatymo Nr. XIV-954 įsigaliojimo (2022-03-24) pradėtoms pirkimo procedūroms, sukurtoms dinaminėms pirkimo sistemoms, sudarytoms pirkimo ir preliminariosioms sutartims taikomos Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies nuostatos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
+
 3. Jeigu kandidatas ar dalyvis pateikė netikslius, neišsamius ar klaidingus dokumentus ar duomenis apie atitiktį pirkimo dokumentų reikalavimams arba šių dokumentų ar duomenų trūksta, perkančioji organizacija privalo nepažeisdama lygiateisiškumo ir skaidrumo principų prašyti kandidatą ar dalyvį šiuos dokumentus ar duomenis patikslinti, papildyti arba paaiškinti per jos nustatytą protingą terminą. Tikslinami, papildomi, paaiškinami ir pateikiami nauji gali būti tik dokumentai ar duomenys dėl tiekėjo pašalinimo pagrindų nebuvimo, atitikties kvalifikacijos reikalavimams, kokybės vadybos sistemos ir aplinkos apsaugos vadybos sistemos standartams, tiekėjo įgaliojimas asmeniui pasirašyti paraišką ar pasiūlymą, jungtinės veiklos sutartis, pasiūlymo galiojimo užtikrinimą patvirtinantis dokumentas ir dokumentai, nesusiję su pirkimo objektu, jo techninėmis charakteristikomis, sutarties vykdymo sąlygomis ar pasiūlymo kaina. Kiti tiekėjo pasiūlymo dokumentai ar duomenys gali būti tikslinami, pildomi arba aiškinami vadovaujantis šio įstatymo 55 straipsnio 9 dalimi.
 
 46 straipsnis. Tiekėjo pašalinimo pagrindai
@@ -1667,6 +1685,18 @@ Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
 10. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo tinkamumo, ji turi kreiptis į kompetentingas institucijas, kad gautų visą reikiamą informaciją. Jeigu reikalinga informacija yra susijusi su tiekėju iš kitos valstybės negu perkančioji organizacija, ji turi kreiptis į atitinkamas tos valstybės kompetentingas institucijas.
 
 11. Perkančioji organizacija ne vėliau kaip per 5 darbo dienas nuo tiekėjo prašymo gavimo dienos išduoda pažymą apie tiekėjo per paskutinius 5 metus atliktų svarbiausių darbų ir galutinių rezultatų tinkamumą vykdant su ja sudarytas pirkimo sutartis.
+
+12. Perkančioji organizacija, tikrindama paraiškos ar pasiūlymo atitiktį šio įstatymo 45 straipsnio 21 dalies 1, 2 punktų ir (ar) 47 straipsnio 9 dalies reikalavimams, iš tiekėjo reikalauja šių dokumentų:
+
+1) jeigu tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, tiekėjo siūlomų prekių (įskaitant jų sudedamąsias dalis) gamintojas ar juos kontroliuojantis asmuo yra juridinis asmuo, pateikiama juridinio asmens vadovo patvirtinta juridinio asmens steigimo dokumentų kopija, Juridinių asmenų registro išplėstinis išrašas su istorija, Juridinių asmenų dalyvių informacinės sistemos išrašas arba atitinkami valstybės narės ar trečiosios šalies dokumentai;
+
+2) jeigu tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, tiekėjo siūlomų prekių (įskaitant jų sudedamąsias dalis) gamintojas ar juos kontroliuojantis asmuo yra fizinis asmuo, pateikiama asmens tapatybę patvirtinančio dokumento (tapatybės kortelės ar paso) kopija, leidimo verstis atitinkama ūkine veikla patvirtinančio dokumento (pavyzdžiui, verslo liudijimo, individualios veiklos pažymėjimo ir pan.) kopija ir pažyma apie deklaruotą gyvenamąją vietą arba atitinkami valstybės narės ar trečiosios šalies dokumentai.
+
+TAR pastaba. Iki įstatymo Nr. XIV-954 įsigaliojimo (2022-03-24) pradėtoms pirkimo procedūroms, sukurtoms dinaminėms pirkimo sistemoms, sudarytoms pirkimo ir preliminariosioms sutartims taikomos Viešųjų pirkimų įstatymo 51 straipsnio 12 dalies nuostatos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
 
 52 straipsnis. Informacijos nuslėpimas ar melagingos informacijos pateikimas arba dokumentų nepateikimas
 
@@ -2812,7 +2842,15 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 2) paaiškėjo, kad tiekėjas, su kuriuo sudaryta pirkimo sutartis ar preliminarioji sutartis, turėjo būti pašalintas iš pirkimo procedūros pagal šio įstatymo 46 straipsnio 1 dalį;
 
-3) paaiškėjo, kad su tiekėju neturėjo būti sudaryta pirkimo sutartis ar preliminarioji sutartis dėl to, kad Europos Sąjungos Teisingumo Teismas procese pagal Sutarties dėl Europos Sąjungos veikimo 258 straipsnį pripažino, kad nebuvo įvykdyti įsipareigojimai pagal Europos Sąjungos steigiamąsias sutartis ir Direktyvą 2014/24/ES.
+3) paaiškėjo, kad su tiekėju neturėjo būti sudaryta pirkimo sutartis ar preliminarioji sutartis dėl to, kad Europos Sąjungos Teisingumo Teismas procese pagal Sutarties dėl Europos Sąjungos veikimo 258 straipsnį pripažino, kad nebuvo įvykdyti įsipareigojimai pagal Europos Sąjungos steigiamąsias sutartis ir Direktyvą 2014/24/ES;
+
+4) paaiškėjo šio įstatymo 45 straipsnio 21 dalyje nurodytos aplinkybės.
+
+TAR pastaba. Iki įstatymo Nr. XIV-954 įsigaliojimo (2022-03-24) pradėtoms pirkimo procedūroms, sukurtoms dinaminėms pirkimo sistemoms, sudarytoms pirkimo ir preliminariosioms sutartims taikomos Viešųjų pirkimų įstatymo 90 straipsnio 1 dalies 4 punkto nuostatos.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
 
 2. Nutraukiant pirkimo sutartį, preliminariąją sutartį ar sutartį, kuria keičiama pirkimo sutartis ar preliminarioji sutartis, šio straipsnio 1 dalyje nurodytais pagrindais, laikomasi šių reikalavimų:
 
@@ -2909,6 +2947,12 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3258, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15773
+
+15. Lietuvos Respublikos Vyriausybė, atsižvelgdama į veiksnius, nulėmusius mobilizaciją, karo ar nepaprastąją padėtį, tvirtina valstybių ar teritorijų, su kuriomis susijusiems pasiūlymams taikomos šio įstatymo 45 straipsnio 21 dalies nuostatos, sąrašą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
 
 93 straipsnis. Viešųjų pirkimų tarnyba
 
