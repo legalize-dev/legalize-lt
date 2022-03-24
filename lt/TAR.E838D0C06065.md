@@ -4,7 +4,7 @@ identifier: "TAR.E838D0C06065"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-21"
-last_updated: "2020-07-01"
+last_updated: "2022-03-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E838D0C06065"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ, ATLIEKAMŲ GYNYBOS IR SAUGUMO
 
 SRITYJE, ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-07-01 iki 2022-03-23
+Suvestinė redakcija nuo 2022-03-24 iki 2022-03-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4135, i. k. 1111010ISTA0XI-1491
 
@@ -309,8 +309,6 @@ BENDROSIOS NUOSTATOS
 
 8. Komisijos posėdžiai gali vykti Centrinės viešųjų pirkimų informacinės sistemos priemonėmis.
 
-TAR pastaba. 10 straipsnio 8 dalis įsigalioja 2020 m. liepos 1 d.
-
 11 straipsnis. Įgaliojimų suteikimas centrinei perkančiajai organizacijai
 
 1. Perkančioji organizacija gali pirkti prekes, paslaugas ir darbus per centrinę perkančiąją organizaciją arba iš jos. Tam ji centrinei perkančiajai organizacijai suteikia reikalingus įgaliojimus. Įgaliojimai įforminami Lietuvos Respublikos civilinio kodekso nustatyta tvarka.
@@ -371,13 +369,9 @@ TAR pastaba. 10 straipsnio 8 dalis įsigalioja 2020 m. liepos 1 d.
 
 9. Perkančioji organizacija turi teisę reikalauti, kad faksu pateiktos paraiškos dalyvauti pirkime būtų patvirtintos pakartotinai atsiunčiant jas paštu ar elektroninėmis priemonėmis. Toks reikalavimas nurodomas skelbime apie pirkimą. Skelbime taip pat turi būti nurodyta vėliausia tokio patvirtinimo data.
 
-TAR pastaba. 12 straipsnio 9 dalis įsigalioja 2019 m. balandžio 18 d.
-
 10. Vykdant pirkimo sutartis, sąskaitos faktūros teikiamos tik elektroniniu būdu. Elektroninės sąskaitos faktūros, atitinkančios Europos elektroninių sąskaitų faktūrų standartą, teikiamos tiekėjo laisvai pasirinktomis priemonėmis. Šio standarto neatitinkančios elektroninės sąskaitos faktūros gali būti teikiamos tik naudojantis informacinės sistemos „E. sąskaita“ priemonėmis. Perkančioji organizacija elektronines sąskaitas faktūras priima ir apdoroja naudodamasi informacinės sistemos „E. sąskaita“ priemonėmis, išskyrus šio straipsnio 12 dalyje nustatytus atvejus ir kai pirkimas ar pirkimo sutarties vykdymas yra susijęs su įslaptinta informacija arba jiems valstybės saugumo aspektus reglamentuojančiuose įstatymuose ir jų įgyvendinamuosiuose teisės aktuose taikomi specialūs saugumo reikalavimai ir jeigu atitinkamų esminių valstybės saugumo interesų negalima apsaugoti kitomis priemonėmis negu šio įstatymo reikalavimų netaikymas.
 
 11. Informacinė sistema „E. sąskaita“ turi sudaryti galimybes perkančiosioms organizacijoms priimti ir apdoroti elektronines sąskaitas faktūras, atitinkančias Europos elektroninių sąskaitų faktūrų standartą.
-
-TAR pastaba. 12 straipsnio 11 dalis įsigalioja 2019 m. balandžio 18 d.
 
 12. Jeigu mobilizacijos, karo ir nepaprastosios padėties atveju yra Centrinės viešųjų pirkimų informacinės sistemos ar informacinės sistemos „E. sąskaita“ pažeidimų, dėl kurių perkančioji organizacija ir tiekėjas negali bendrauti ir keistis informacija naudodamiesi šiomis sistemomis, atliekant pirkimus gali būti naudojamos kitos šiame straipsnyje keliamus reikalavimus atitinkančios elektroninės priemonės. Vykdant pirkimo sutartis, sąskaitos faktūros gali būti teikiamos ne elektroninėmis priemonėmis.
 
@@ -1025,6 +1019,32 @@ PIRKIMO DOKUMENTAI
 
 8. Pirkimo procedūras atliekant atviro konkurso būdu, vietoj kvalifikaciją patvirtinančių dokumentų perkančioji organizacija gali prašyti tiekėjų pateikti minimalių kvalifikacinių reikalavimų atitikties deklaraciją, kurios formą tvirtina Viešųjų pirkimų tarnyba. Tokiais atvejais atitiktį minimaliems kvalifikaciniams reikalavimams patvirtinančių dokumentų reikalaujama tik iš to tiekėjo, kurio pasiūlymas pagal vertinimo rezultatus gali būti pripažintas laimėjusiu.
 
+9. Mobilizacijos, karo, nepaprastosios padėties atveju ar kai Lietuvos Respublikos Vyriausybė, įvertinusi riziką, kad veiksniai, dėl kurių buvo ar gali būti paskelbta mobilizacija, įvesta karo ar nepaprastoji padėtis, kelia grėsmę nacionaliniam saugumui, yra priėmusi sprendimą dėl šios nuostatos taikymo, perkančioji organizacija gali atmesti paraišką ar pasiūlymą, jeigu yra bent viena iš šių sąlygų:
+
+1) tiekėjas, jo subtiekėjas, ūkio subjektai, kurių pajėgumais remiamasi, tiekėjo siūlomų prekių (įskaitant jų sudedamąsias dalis) gamintojas ar juos kontroliuojantys asmenys yra juridiniai asmenys, registruoti Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose;
+
+2) tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, tiekėjo siūlomų prekių (įskaitant jų sudedamąsias dalis) gamintojas ar juos kontroliuojantys asmenys yra fiziniai asmenys, nuolat gyvenantys Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose arba turintys šių valstybių pilietybę;
+
+3) prekių (įskaitant jų sudedamąsias dalis) kilmė yra ar paslaugos teikiamos iš Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytų valstybių ar teritorijų;
+
+4) Lietuvos Respublikos Vyriausybė, vadovaudamasi Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme įtvirtintais kriterijais, yra priėmusi sprendimą, patvirtinantį, kad šios dalies 1 ir 2 punktuose nurodyti subjektai ar su jais ketinamas sudaryti (sudarytas) sandoris neatitinka nacionalinio saugumo interesų;
+
+5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies 1 ir 2 punktuose nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui.
+
+TAR pastaba. Iki įstatymo Nr. XIV-956 įsigaliojimo (2022-03-24) pradėtoms pirkimo procedūroms, sudarytoms pirkimo ir preliminariosioms sutartims taikomos Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo 33 straipsnio 9 dalies nuostatos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
+
+10. Perkančioji organizacija, tikrindama paraiškos ar pasiūlymo atitiktį šio straipsnio 9 dalies 1 ir 2 punktų reikalavimams, iš tiekėjo reikalauja Viešųjų pirkimų įstatymo 51 straipsnio 12 dalyje nurodytų dokumentų.
+
+TAR pastaba. Iki įstatymo Nr. XIV-956 įsigaliojimo (2022-03-24) pradėtoms pirkimo procedūroms, sudarytoms pirkimo ir preliminariosioms sutartims taikomos Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo 33 straipsnio 10 dalies nuostatos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
+
 34 straipsnis. Sąlygos, kuriomis draudžiamas ir ribojamas tiekėjų dalyvavimas pirkime
 
 1. Perkančioji organizacija atmeta paraiškas ir pasiūlymus, jeigu tiekėjas:
@@ -1499,7 +1519,15 @@ b) dėl pradinio tiekėjo reorganizavimo, restruktūrizavimo ar bankroto proced�
 
 2) paaiškėjo, kad tiekėjas, su kuriuo sudaryta pirkimo sutartis ar preliminarioji sutartis, turėjo būti pašalintas iš pirkimo procedūros pagal šio įstatymo 34 straipsnio 1 dalį;
 
-3) paaiškėjo, kad su tiekėju neturėjo būti sudaryta pirkimo sutartis ar preliminarioji sutartis dėl to, kad Europos Sąjungos Teisingumo Teismas procese pagal Sutarties dėl Europos Sąjungos veikimo 258 straipsnį pripažino, kad nebuvo įvykdyti įsipareigojimai pagal Europos Sąjungos steigiamąsias sutartis ir Direktyvą 2009/81/ES.
+3) paaiškėjo, kad su tiekėju neturėjo būti sudaryta pirkimo sutartis ar preliminarioji sutartis dėl to, kad Europos Sąjungos Teisingumo Teismas procese pagal Sutarties dėl Europos Sąjungos veikimo 258 straipsnį pripažino, kad nebuvo įvykdyti įsipareigojimai pagal Europos Sąjungos steigiamąsias sutartis ir Direktyvą 2009/81/ES;
+
+4) paaiškėjo šio įstatymo 33 straipsnio 9 dalyje nurodytos aplinkybės.
+
+TAR pastaba. Iki įstatymo Nr. XIV-956 įsigaliojimo (2022-03-24) pradėtoms pirkimo procedūroms, sudarytoms pirkimo ir preliminariosioms sutartims taikomos Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo 54 straipsnio 1 dalies 4 punkto nuostatos.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 
 2. Nutraukiant pirkimo sutartį, preliminariąją sutartį ar sutartį, kuria keičiama pirkimo sutartis ar preliminarioji sutartis, šio straipsnio 1 dalyje nurodytais pagrindais, laikomasi šių reikalavimų:
 
@@ -2068,4 +2096,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2621, 2019-12-05, paskelbta TAR 2019-12-20, i. k. 2019-20802
 
 Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 17 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
+
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 4, 6, 17, 24, 33, 34, 40, 44 ir 54 straipsnių pakeitimo įstatymas
 
