@@ -4,7 +4,7 @@ identifier: "TAR.EDDCB615126E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-13"
-last_updated: "2021-01-01"
+last_updated: "2022-03-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 @D1=19941213;D2=19960709;D3=19960918
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-03-23
+Suvestinė redakcija nuo 2022-03-24 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1958, i. k. 0941010ISTA000I-693
 
@@ -168,7 +168,7 @@ Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
 
 7 straipsnis. Pareigūnų ir karių valstybinės pensijos už tarnybą dydis
 
-1. Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal pareigūno ar kario nurodytų paeiliui ištarnautų 5 tarnybos metų palankiausių nuosekliai einančių 12 mėnesių, į šį laikotarpį neįskaitant pareigūno tarnybos laiko, kai Reglamento (ES) 2017/1939 nustatyta tvarka jis buvo paskirtas eiti Europos prokuroro pareigas Europos prokuratūroje, jam nustatyto darbo užmokesčio vidurkį. Pareigūnams ir kariams, nurodytiems šio įstatymo 3 straipsnio 1 dalies 3 punkte ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje mažiau negu 12 mėnesių, pareigūnų ir karių valstybinės netekto darbingumo pensijos skiriamos pagal pareigūno ar kario ištarnautų mėnesių jam nustatyto darbo užmokesčio vidurkį. Jeigu į pareigūno ar kario nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti patenka ir laikotarpis nuo 2019 m. sausio 1 d., šio laikotarpio darbo užmokestis mažinamas dalijant jį iš 1,289. Į darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka.
+1. Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal pareigūno ar kario nurodytų paeiliui ištarnautų 5 tarnybos metų palankiausių nuosekliai einančių 12 mėnesių, į šį laikotarpį neįskaitant pareigūno tarnybos laiko, kai Reglamento (ES) 2017/1939 nustatyta tvarka jis buvo paskirtas eiti Europos prokuroro pareigas Europos prokuratūroje, jam nustatyto darbo užmokesčio vidurkį. Pareigūnams ir kariams, nurodytiems šio įstatymo 3 straipsnio 1 dalies 3 punkte ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje mažiau negu 12 mėnesių, pareigūnų ir karių valstybinės netekto darbingumo pensijos skiriamos pagal pareigūno ar kario ištarnautų mėnesių jam nustatyto darbo užmokesčio vidurkį. Kai į pareigūno ar kario nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti (jeigu ištarnauta mažiau negu 12 mėnesių, – į šį laikotarpį) patenka ir laikotarpis, kuriuo jis institucijos, kurioje tarnavo, sprendimu dalyvavo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, kuriuose buvo vykdoma su atitinkamos institucijos tikslu ir uždaviniais susijusi veikla, darbo užmokesčio vidurkis skaičiuojamas pagal šiuo laikotarpiu jam, kaip pareigūnui ar kariui, nustatytą darbo užmokestį. Jeigu į pareigūno ar kario nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti patenka ir laikotarpis nuo 2019 m. sausio 1 d., šio laikotarpio darbo užmokestis mažinamas dalijant jį iš 1,289. Į nustatytą darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
@@ -179,6 +179,8 @@ Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
 Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
 
 Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
+
+Nr. XIV-959, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05383
 
 2. Už kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti, skiriama:
 
@@ -1121,4 +1123,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
 
 Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 6 ir 7 straipsnių pakeitimo, Įstatymo papildymo 17 straipsniu ir priedu įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-959, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05383
+
+Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 7 straipsnio pakeitimo įstatymas
 
