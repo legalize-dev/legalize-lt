@@ -4,7 +4,7 @@ identifier: "TAR.389CB90C666D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-15"
-last_updated: "2021-05-05"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "1. Įstatymo 51 straipsnis įsigalioja 2002 m. vas
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2021-05-05 iki 2022-03-30
+Suvestinė redakcija nuo 2022-03-31 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
 
@@ -1465,7 +1465,11 @@ GINKLŲ IR ŠAUDMENŲ laikymas, saugojimas, nešiojimasis, GABENIMAS ir naudojim
 
 7. Medžioklės plotuose medžioklei skirti ginklai ir šaudmenys naudojami šio įstatymo ir medžioklę reglamentuojančių teisės aktų nustatyta tvarka. Medžioklei taip pat gali būti naudojami teisėtai turimi A, B kategorijų trumpieji šaunamieji ginklai.
 
-8. Šaulio tarnybai skirti ginklai ir šoviniai mokymų ir pratybų metu naudojami Lietuvos šaulių sąjungos vado nustatyta tvarka, o atliekant nustatytą šaulio tarnybą, šaunamieji ginklai naudojami Karinės jėgos naudojimo statuto nustatytais pagrindais.
+8. Šaulio tarnybai skirti ginklai ir šoviniai mokymų ir pratybų metu naudojami Lietuvos šaulių sąjungos vado nustatyta tvarka, o atliekant nustatytą šaulio tarnybą, šaunamieji ginklai naudojami Karinės jėgos naudojimo statuto ir Lietuvos šaulių sąjungos įstatymo nustatytais pagrindais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-972, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06309
 
 9. Sportui, profesinei veiklai vykdyti, kolekcijoms sudaryti, parodoms, mokymui, moksliniam tyrimui šio įstatymo 3 straipsnio 6–10 punktuose nurodyti ginklai, B, C, D kategorijų ginklai, šaudmenys naudojami šią veiklą reglamentuojančių teisės aktų nustatyta tvarka.
 
