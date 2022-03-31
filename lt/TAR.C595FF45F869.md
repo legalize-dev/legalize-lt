@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2022-03-01"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2022-03-01 iki 2022-03-30
+Suvestinė redakcija nuo 2022-03-31 iki 2022-04-30
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -1107,6 +1107,14 @@ Nr. XIV-894, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00751
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 15, 73 straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
 
+47.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-738, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25851
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 14, 84 straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -1517,19 +1525,17 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 14 straipsnis. Mokslo ir studijų politiką formuojančios ir įgyvendinančios institucijos
 
-1. Valstybės mokslo ir studijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją formuoja Lietuvos Respublikos Seimas, Vyriausybė, Lietuvos Respublikos švietimo ir mokslo ministerija ir kitos ministerijos.
+1. Valstybės mokslo ir studijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją formuoja Lietuvos Respublikos Seimas, Vyriausybė, Lietuvos Respublikos švietimo, mokslo ir sporto ministerija ir kitos ministerijos.
 
-2. Valstybės mokslo ir studijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją įgyvendina Lietuvos mokslo taryba, Lietuvos mokslų akademija, Technologijų ir inovacijų įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija, Valstybinis studijų fondas, Aukštojo mokslo taryba, Studijų kokybės vertinimo centras, akademinės etikos ir procedūrų kontrolierius, Vyriausybės ir švietimo ir mokslo ministro įgaliotos institucijos, mokslo ir studijų institucijos.
+2. Valstybės mokslo ir studijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją įgyvendina Lietuvos mokslo taryba, Lietuvos mokslų akademija, šio įstatymo 181 straipsnyje nurodyta Vyriausybės įgaliota institucija, Valstybinis studijų fondas, Aukštojo mokslo taryba, Studijų kokybės vertinimo centras, akademinės etikos ir procedūrų kontrolierius, Vyriausybės ir švietimo, mokslo ir sporto ministro įgaliotos institucijos, mokslo ir studijų institucijos.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2367, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12448
-
-3. Mokslo, technologijų ir inovacijų taryba pataria Vyriausybei formuojant valstybės mokslo, technologijų ir inovacijų politiką pagal Technologijų ir inovacijų įstatyme, šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją.
+3. Mokslo, technologijų ir inovacijų taryba padeda Vyriausybei koordinuoti ministerijų ir Vyriausybės įstaigų, kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė, veiklą siekiant strateginių, sisteminių ir tarpinstitucinių sprendimų, kurių reikia mokslo, technologijų ir inovacijų politikai formuoti ir įgyvendinti, pagal Technologijų ir inovacijų įstatyme, šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-1415, 2018-06-30, paskelbta TAR 2018-07-13, i. k. 2018-11960
+
+Nr. XIV-738, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25851
 
 16 straipsnis. Lietuvos mokslų akademija
 
@@ -2677,7 +2683,11 @@ Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
 
 4. Pareiškėjai konkuruoja dėl programinio konkursinio finansavimo teikdami paraiškas, kurios vertinamos pagal atitiktį konkrečių mokslinių tyrimų projektų keliamiems tikslams, aktualumo, kompetencijos, kokybės ir kitiems programinį konkursinį finansavimą administruojančių institucijų nustatytiems kriterijams.
 
-5. Programinį konkursinį finansavimą administruoja Lietuvos mokslo taryba, Technologijų ir inovacijų įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija, ūkio ministro, švietimo ir mokslo ministro įgaliotos institucijos.
+5. Programinį konkursinį finansavimą administruoja Lietuvos mokslo taryba, šio įstatymo 181 straipsnyje nurodyta Vyriausybės įgaliota institucija, ekonomikos ir inovacijų ministro, švietimo, mokslo ir sporto ministro įgaliotos institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-738, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25851
 
 6. Su konkursinėmis mokslinių tyrimų programomis susiję Lietuvos ūkio, kultūros, socialinės, sveikatos, krašto ir gamtos apsaugos, kitų sričių moksliniai tyrimai, specialistų rengimas ir kitos veiklos sritys finansuojami iš tvirtinant šias programas joms numatomų lėšų, kuriomis disponuoja suinteresuotos ministerijos, fondai, mokslo ir studijų institucijos, verslo subjektai.
 
@@ -3226,4 +3236,34 @@ Atstovauti Lietuvai su moksliniais tyrimais ir eksperimentine plėtra susijusios
 Papildyta straipsniu:
 
 Nr. XIV-894, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00751
+
+181 straipsnis. Vyriausybės įgaliota institucija
+
+1. Vyriausybės įgaliota institucija yra biudžetinė įstaiga, kurios savininko teises ir pareigas įgyvendina Vyriausybė ar jos įgaliota institucija.
+
+2. Vyriausybės įgaliota institucija atlieka šias su mokslo ir studijų institucijų veiklos rezultatų kūrimu ir šių rezultatų įveiklinimu susijusias funkcijas:
+
+1) įgyvendina mokslo ir studijų politiką mokslinių tyrimų ir eksperimentinės plėtros srityje;
+
+2) teikia siūlymus dėl teisinio reglamentavimo, skirto moksliniams tyrimams ir eksperimentinei plėtrai palankiai aplinkai kurti;
+
+3) finansuoja mokslinių tyrimų ir eksperimentinės plėtros veiklą;
+
+4) įgyvendina mokslo vadybos ir žinių komercinimo gebėjimų stiprinimo priemones;
+
+5) įgyvendina mokslo ir studijų institucijų ir ūkio subjektų bendradarbiavimo plėtros priemones;
+
+6) teikia mokslinių tyrimų ir eksperimentinės plėtros informavimo ir konsultavimo paslaugas;
+
+7) dalyvauja Europos Sąjungos ir tarptautinių institucijų veikloje ir skatina Lietuvos Respublikos fizinių ir juridinių asmenų integraciją į Europos Sąjungos ir tarptautinę mokslinių tyrimų erdvę;
+
+8) atlieka kitas Vyriausybės ar jos įgaliotos institucijos jai nustatytas funkcijas.
+
+3. Vyriausybės įgaliota institucija turi teisę gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų, valstybės registrų, kitų asmenų, kurių veikla susijusi su valstybės reguliuojamomis mokslo ir studijų sritimis, informaciją, būtiną jai nustatytoms funkcijoms atlikti.
+
+4. Vyriausybės įgaliota institucija gali būti tarptautinių ne pelno siekiančių organizacijų, veikiančių su Vyriausybės įgaliotos institucijos veikla susijusiose srityse, nare.
+
+Papildyta straipsniu:
+
+Nr. XIV-738, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25851
 
