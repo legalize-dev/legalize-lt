@@ -4,7 +4,7 @@ identifier: "TAR.640D50DB8877"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-11-24"
-last_updated: "2019-06-20"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2019-06-20 iki 2022-03-30
+Suvestinė redakcija nuo 2022-03-31 iki 2024-05-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
 
@@ -359,7 +359,11 @@ Valstybės institucijos ir įstaigos ar savivaldybės, nustatydamos priemones, p
 
 1. Įgyvendinti finansines paramos priemones, išskyrus subsidijas, kai jas įgyvendina įstaigos, kurioms viešojo administravimo įgaliojimai suteikti Vyriausybės nutarimu, priimtu vadovaujantis tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, nustatančiais Europos Sąjungos ar atskirų valstybių narių finansinės paramos Lietuvai teikimo mastą, principus ar bendrąsias taisykles, Vyriausybė paveda finansų įstaigoms, kurių 100 procentų akcijų nuosavybės teise priklauso valstybei, kai valstybės, kaip 100 procentų akcijų savininkės, teises ir pareigas įgyvendina Vyriausybės įgaliota institucija.
 
-2. Šio įstatymo 2 straipsnio 1 dalyje nurodytas administracines paslaugas smulkiajam ir vidutiniam verslui teikia viešoji įstaiga „Versli Lietuva“.
+2. Šio įstatymo 2 straipsnio 1 dalyje nurodytas administracines paslaugas smulkiajam ir vidutiniam verslui teikia viešoji įstaiga Inovacijų agentūra.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-739, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25852
 
 3. Šio įstatymo 2 straipsnio 1 dalyje nurodytų administracinių paslaugų smulkiajam ir vidutiniam verslui teikimas yra finansuojamas iš Lietuvos Respublikos ekonomikos ir inovacijų ministerijai (toliau – Ekonomikos ir inovacijų ministerija) skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
 
@@ -550,4 +554,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
 Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2, 8 ir 9 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-739, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25852
+
+Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 8 straipsnio pakeitimo įstatymas
 
