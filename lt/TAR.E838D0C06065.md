@@ -4,7 +4,7 @@ identifier: "TAR.E838D0C06065"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-21"
-last_updated: "2022-03-24"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E838D0C06065"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ, ATLIEKAMŲ GYNYBOS IR SAUGUMO
 
 SRITYJE, ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-03-24 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4135, i. k. 1111010ISTA0XI-1491
 
@@ -181,7 +181,11 @@ BENDROSIOS NUOSTATOS
 
 24. Viešojo pirkimo–pardavimo sutartis (toliau – pirkimo sutartis) – šio įstatymo nustatyta tvarka dėl ekonominės naudos vieno ar daugiau tiekėjų ir vienos ar kelių perkančiųjų organizacijų raštu, išskyrus šiame įstatyme nurodytus atvejus, kai ši sutartis gali būti sudaroma žodžiu, sudaryta sutartis, kurios dalykas yra prekės, paslaugos ar darbai.
 
-25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Viešųjų pirkimų įstatyme, Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, Valstybės ir tarnybos paslapčių įstatyme ir kituose teisės aktuose.
+25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Viešųjų pirkimų įstatyme, Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, Valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir kituose teisės aktuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 
 5 straipsnis. Mišrūs pirkimai
 
@@ -195,7 +199,11 @@ BENDROSIOS NUOSTATOS
 
 1. Perkančioji organizacija užtikrina, kad atliekant pirkimo procedūras būtų laikomasi lygiateisiškumo, nediskriminavimo, abipusio pripažinimo, proporcingumo ir skaidrumo principų.
 
-2. Perkančioji organizacija turi teisę neleisti pirkimuose dalyvauti tiekėjams (juridiniams asmenims), kurie nėra registruoti valstybėje narėje, ir tiekėjams (fiziniams asmenims), kurie nėra deklaravę gyvenamosios vietos valstybėje narėje, ar neleisti tiekėjams pasitelkti tokių subrangovų, prekių subtiekėjų, paslaugų subteikėjų (toliau – subrangovai). Ši informacija nurodoma pirkimo dokumentuose.
+2. Perkančioji organizacija turi teisę neleisti pirkimuose dalyvauti tiekėjams, kurie nėra registruoti (jeigu tiekėjas yra fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) valstybėje narėje, ar neleisti tiekėjams pasitelkti tokių subrangovų, prekių subtiekėjų, paslaugų subteikėjų (toliau – subrangovai) ar ūkio subjektų, kurių pajėgumais remiamasi. Ši informacija nurodoma pirkimo dokumentuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 
 7 straipsnis. Tiekėjai
 
@@ -465,7 +473,11 @@ Perkančioji organizacija, siekdama apsaugoti atliekant pirkimo procedūras tiek
 
 3. Jeigu šio įstatymo 2 priede nurodytos paslaugos perkamos kartu su šio įstatymo 1 priede nurodytomis paslaugomis, kurių vertė didesnė už šio įstatymo 2 priede nurodytų perkamų paslaugų vertę, viso pirkimo ypatumai pasirenkami vadovaujantis šio straipsnio 1 dalies nuostatomis, kitu atveju – šio straipsnio 2 dalies nuostatomis.
 
-4. Perkančioji organizacija, atlikdama mažos vertės pirkimus, vadovaujasi šio įstatymo I skyriuje (išskyrus šio įstatymo 12 straipsnį), 33, 34 straipsniuose (išskyrus šio straipsnio 1 dalį), 35, 36, 37, 40, 43, 47, 48 straipsniuose, 52 straipsnio 4, 5, 6, 8 dalyse ir IV skyriuje nustatytais reikalavimais. Mažos vertės pirkimai atliekami pagal perkančiosios organizacijos patvirtintas taisykles. Perkančiosios organizacijos taisyklėse gali būti nustatyta atvejų, kai perkančioji organizacija tiekėjams nenustato kvalifikacijos reikalavimų.
+4. Perkančioji organizacija, atlikdama mažos vertės pirkimus, vadovaujasi šio įstatymo I skyriuje (išskyrus šio įstatymo 12 straipsnį), 33, 34 straipsniuose (išskyrus 34 straipsnio 1 dalį), 35, 36, 37, 40, 43, 47, 48 straipsniuose, 52 straipsnio 4, 5, 6, 8 dalyse ir IV skyriuje nustatytais reikalavimais. Mažos vertės pirkimai atliekami pagal perkančiosios organizacijos patvirtintas taisykles. Perkančiosios organizacijos taisyklėse gali būti nustatyta atvejų, kai perkančioji organizacija tiekėjams nenustato kvalifikacijos reikalavimų, išskyrus atvejus, kai perkamos prekės ar paslaugos, kurių objektų BVPŽ kodai nurodomi Viešųjų pirkimų įstatymo 92 straipsnio 13 dalyje numatytame sąraše.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 
 5. Neteko galios 2020-07-01.
 
@@ -805,7 +817,17 @@ PIRKIMO DOKUMENTAI
 
 26) informacija apie numatomą skelbti skelbimą dėl savanoriško ex ante skaidrumo;
 
-27) kiti Viešųjų pirkimų tarnybos pagal šį įstatymą ir kitus pirkimus reglamentuojančius teisės aktus nustatyti reikalavimai.
+27) informacija apie tai, kad, jeigu pirkimo metu bus atliekama patikra dėl atitikties nacionalinio saugumo interesams, tiekėjas turės pateikti tokiai patikrai atlikti reikalingus dokumentus;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
+
+28) kiti Viešųjų pirkimų tarnybos pagal šį įstatymą ir kitus pirkimus reglamentuojančius teisės aktus nustatyti reikalavimai.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 
 3. Perkančioji organizacija pirkimo dokumentuose gali nustatyti specialias sutarties vykdymo sąlygas, siejamas su socialinės apsaugos ir aplinkos apsaugos reikalavimais subrangos, prekių subtiekimo, paslaugų subteikimo (toliau – subranga) sutarčių sudarymo reikalavimais, informacijos saugumo ir tiekimo patikimumo užtikrinimo reikalavimais, jeigu tos sąlygos atitinka Europos Sąjungos teisės aktus.
 
@@ -1071,7 +1093,11 @@ c) profesinės etikos pažeidimas, kai nuo tiekėjo pripažinimo nesilaikančiu 
 
 d) tiekėjas yra neįvykdęs pirkimo sutarties, sudarytos vadovaujantis šiuo įstatymu, Viešųjų pirkimų įstatymu ar Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymu, ar koncesijos sutarties arba netinkamai ją įvykdęs ir tai buvo esminis sutarties pažeidimas, kaip nustatyta Civiliniame kodekse (toliau – esminis pirkimo sutarties pažeidimas), dėl kurio per pastaruosius 3 metus buvo nutraukta sutartis arba per pastaruosius 3 metus buvo priimtas ir įsiteisėjęs teismo sprendimas, kuriuo tenkinamas perkančiosios organizacijos reikalavimas atlyginti nuostolius, patirtus dėl to, kad tiekėjas sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais. Šiuo pagrindu tiekėjas taip pat pašalinamas iš pirkimo procedūros, kai vadovaujantis kitų valstybių teisės aktais per pastaruosius 3 metus nustatyta, kad jis, vykdydamas ankstesnę pirkimo ar koncesijos sutartį, sutartyje nustatytą esminį reikalavimą įgyvendino su dideliais arba nuolatiniais trūkumais ir dėl to ta ankstesnė sutartis buvo nutraukta anksčiau laiko, buvo pareikalauta atlyginti žalą ar taikomos kitos panašios sankcijos. Perkančioji organizacija iš pirkimo procedūros pašalina tiekėją ir tuo atveju, kai ji turi įtikinamų duomenų, kad tiekėjas yra įsteigtas siekiant išvengti šio pašalinimo pagrindo taikymo;
 
-5) yra įrodymų (įskaitant atvejus, kai šie įrodymai susiję su tiekėjo struktūra (valdymu, akcininkais) ar jo tiekiamų prekių, įrangos ypatybėmis), patvirtinančių, kad tiekėjas nėra patikimas ir kelia pavojų nacionaliniam ar kitos valstybės narės saugumui;
+5) tiekėjas, jo subrangovas, ūkio subjektas, kurio pajėgumais remiamasi, gamintojas ar juos kontroliuojantis asmuo (įskaitant jų teikiamų paslaugų, tiekiamų prekių, įrangos ypatybes) nėra patikimas ar kelia grėsmę nacionaliniam ar kitos valstybės narės saugumui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 
 6) tiekėjas nėra įvykdęs įsipareigojimų, susijusių su socialinio draudimo įmokų mokėjimu pagal valstybės, kurioje jis registruotas, ar valstybės, kurioje yra perkančioji organizacija, reikalavimus;
 
@@ -1081,7 +1107,11 @@ d) tiekėjas yra neįvykdęs pirkimo sutarties, sudarytos vadovaujantis šiuo į
 
 3. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog šio straipsnio 1 dalyje ir 2 dalies 1, 2, 3, 6 ir 7 punktuose nurodytų aplinkybių nėra, kaip pakankamą įrodymą priima teismo, valstybės įmonės Registrų centro ar kitos kompetentingos institucijos dokumentą. Tiekėjas nurodytoms aplinkybėms įrodyti gali pateikti valstybės įmonės Registrų centro Vyriausybės nustatyta tvarka išduotą dokumentą, patvirtinantį jungtinius kompetentingų institucijų tvarkomus duomenis. Perkančioji organizacija negali reikalauti dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą ar kitus teisės aktus yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose.
 
-4. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog šio straipsnio 2 dalies 5 punkte nurodytų aplinkybių nėra, pirkimų, susijusių su įslaptinta informacija atvejais kaip įrodymą priima tiekėjo patikimumo pažymėjimą, įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimų atitiktį patvirtinančią pažymą ar tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija. Perkančioji organizacija visais atvejais gali laikyti, kad tiekėjas nėra patikimas ir kelia pavojų nacionaliniam ar kitos valstybės narės saugumui, jeigu ji gauna kompetentingų institucijų pateiktą tai patvirtinančią informaciją.
+4. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas ar jo subrangovas įrodytų, jog šio straipsnio 2 dalies 5 punkte nurodytų aplinkybių nėra, pirkimų, susijusių su įslaptinta informacija, atvejais kaip įrodymą priima tiekėjo patikimumo pažymėjimą, įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimų atitiktį patvirtinančią pažymą ar tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija. Perkančioji organizacija visais atvejais gali laikyti, kad tiekėjas, jo subrangovas, ūkio subjektas, kurio pajėgumais remiamasi, gamintojas ar juos kontroliuojantis asmuo nėra patikimas ar kelia grėsmę nacionaliniam ar kitos valstybės narės saugumui, jeigu ji gauna kompetentingų institucijų pateiktą tai patvirtinančią informaciją. Informaciją, reikalingą įvertinti, ar tiekėjas, jo subrangovas, ūkio subjektas, kurio pajėgumais remiamasi, gamintojas ar juos kontroliuojantis asmuo kelia grėsmę nacionaliniam ar kitos valstybės narės saugumui, pagal perkančiosios organizacijos kreipimąsi teikia kompetentingos institucijos, vadovaudamosi Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytais patikros dėl atitikties nacionalinio saugumo interesams vertinimo kriterijais. Perkančiųjų organizacijų, veikiančių gynybos srityje, atliekamiems pirkimams atitikties nacionalinio saugumo interesams vertinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 
 5. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo tinkamumo, ji turi teisę kreiptis į kompetentingas institucijas, kad gautų visą reikiamą informaciją. Jeigu reikalinga informacija yra susijusi su tiekėju iš kitos valstybės narės negu perkančioji organizacija, ji gali kreiptis į atitinkamas tos valstybės narės kompetentingas institucijas.
 
@@ -1191,6 +1221,26 @@ d) tiekėjas yra neįvykdęs pirkimo sutarties, sudarytos vadovaujantis šiuo į
 
 8. Apibūdinant pirkimo objektą, techninėje specifikacijoje negali būti nurodytas konkretus modelis ar šaltinis, konkretus procesas ar prekių ženklas, patentas, tipai, konkreti kilmė ar gamyba, dėl kurių tam tikroms įmonėms ar tam tikriems produktams būtų sudarytos palankesnės sąlygos arba jie būtų atmesti. Tokia nuoroda yra leistina išimties tvarka, kai pirkimo objekto neįmanoma tiksliai ir suprantamai apibūdinti pagal šio straipsnio 3 ir 4 dalyse nustatytus reikalavimus. Šiuo atveju nuoroda pateikiama kartu su žodžiais „arba lygiavertis“.
 
+9. Perkančioji organizacija, atlikdama prekių ar paslaugų pirkimus, kurių objektų BVPŽ kodai nurodomi Viešųjų pirkimų įstatymo 92 straipsnio 13 dalyje numatytame sąraše, laiko, kad prekės ar paslaugos kelia grėsmę nacionaliniam saugumui, kai:
+
+1) techninės ar programinės įrangos tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, ar gamintojas bei juos kontroliuojantis asmuo yra registruoti (jeigu tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, gamintojas ar juos kontroliuojantis asmuo yra fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) Viešųjų pirkimų įstatymo 92 straipsnio 14 dalyje numatytame sąraše nurodytose valstybėse;
+
+2) techninės ar programinės įrangos priežiūra ar palaikymas būtų vykdomas iš Viešųjų pirkimų įstatymo 92 straipsnio 14 dalyje numatytame sąraše nurodytų valstybių ar teritorijų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
+
+10. Perkančioji organizacija, tikrindama tiekėjo pasiūlymo atitiktį šio įstatymo 40 straipsnio 9 dalies reikalavimams, iš tiekėjo reikalauja šių dokumentų:
+
+1) jeigu techninės ar programinės įrangos priežiūrą ir palaikymą vykdantis asmuo, tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, arba gamintojas ar juos kontroliuojantis asmuo yra juridinis asmuo, pateikiama juridinio asmens vadovo patvirtinta juridinio asmens steigimo dokumentų kopija, Juridinių asmenų registro išplėstinis išrašas su istorija arba atitinkami valstybės narės ar trečiosios šalies dokumentai;
+
+2) jeigu techninės ar programinės įrangos priežiūrą ir palaikymą vykdantis asmuo, tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, arba gamintojas ar juos kontroliuojantis asmuo yra fizinis asmuo, pateikiama jo asmens tapatybę patvirtinančio dokumento (tapatybės kortelės ar paso) kopija, leidimo verstis atitinkama ūkine veikla patvirtinančio dokumento (pavyzdžiui, verslo liudijimo, individualios veiklos pažymėjimo ir pan.) kopija ir pažyma apie deklaruotą gyvenamąją vietą arba atitinkami valstybės narės ar trečiosios šalies dokumentai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
+
 41 straipsnis. Alternatyvūs pasiūlymai
 
 1. Skelbime apie pirkimą perkančioji organizacija privalo nurodyti, ar leidžiama, ar neleidžiama pateikti alternatyvius pasiūlymus. Perkančioji organizacija gali leisti pateikti alternatyvius pasiūlymus tik tuo atveju, kai pasiūlymams vertinti taikomas ekonomiškai naudingiausio pasiūlymo vertinimo kriterijus. Perkančioji organizacija nagrinėja tik tuos dalyvio pateiktus alternatyvius pasiūlymus, kurie atitinka minimalius perkančiosios organizacijos keliamus reikalavimus.
@@ -1247,7 +1297,11 @@ d) tiekėjas yra neįvykdęs pirkimo sutarties, sudarytos vadovaujantis šiuo į
 
 2) duomenis apie visus apribojimus perkančiajai organizacijai, susijusius su perkamų prekių ir paslaugų arba su šiomis prekėmis ir paslaugomis susijusių rezultatų viešinimu, perdavimu ar naudojimu ir galinčius atsirasti taikant eksporto kontrolės ar saugumo priemones;
 
-3) pažymėjimus ar dokumentus, įrodančius, kad dalyvio tiekimo grandinės organizavimas ir išdėstymas leis dalyviui laikytis perkančiosios organizacijos pirkimo dokumentuose nustatytų tiekimo patikimumo reikalavimų, ir dalyvio pasižadėjimą užtikrinti, kad galimi tiekimo grandinės organizavimo ir išdėstymo pokyčiai pirkimo sutarties vykdymo metu neturės neigiamos įtakos šių reikalavimų laikymuisi;
+3) pažymėjimus ar dokumentus, įrodančius prekės ar jos sudedamųjų dalių kilmę ar kad dalyvio tiekimo grandinės organizavimas ir išdėstymas leis dalyviui laikytis perkančiosios organizacijos pirkimo dokumentuose nustatytų tiekimo patikimumo reikalavimų, ir dalyvio pasižadėjimą užtikrinti, kad galimi tiekimo grandinės organizavimo ir išdėstymo pokyčiai pirkimo sutarties vykdymo metu neturės neigiamos įtakos šių reikalavimų laikymuisi;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 
 4) dalyvio įsipareigojimą pagal pirkimo sutarties sąlygas turėti ir (arba) įgyti galimybę patenkinti papildomus perkančiosios organizacijos poreikius, galinčius atsirasti krizių atvejais, išskyrus Lietuvos Respublikos karo padėties įstatyme nustatytus atvejus;
 
@@ -1260,6 +1314,12 @@ d) tiekėjas yra neįvykdęs pirkimo sutarties, sudarytos vadovaujantis šiuo į
 8) dalyvio įsipareigojimą perkančiajai organizacijai pateikti pagal pirkimo sutarties sąlygas, dėl kurių turi būti susitarta, visas specialias priemones, būtinas įrangos atsarginių dalių, sudedamųjų dalių, konstrukcijų ir specialių bandymo įrenginių gamybai, įskaitant techninius brėžinius, leidimus ir naudojimo instrukcijas, tuo atveju, jeigu jis daugiau negalėtų tiekti šių priemonių.
 
 2. Perkančioji organizacija iš dalyvio negali reikalauti gauti valstybės narės įsipareigojimą, kuris apribotų tos valstybės narės laisvę, laikantis atitinkamų tarptautinių ir Europos Sąjungos teisės aktų, taikyti savo pačios eksporto, perdavimo arba tranzito licencijų išdavimo kriterijus, galiojančius priimant sprendimą dėl tokios licencijos.
+
+3. Perkančioji organizacija pirkimo sąlygose gali nustatyti draudimą siūlyti prekes ar paslaugas, jų dalis, komponentus ir (arba) jų mazgus, kurie yra pagaminti Viešųjų pirkimų įstatymo 92 straipsnio 14 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 
 TREČIASIS SKIRSNIS
 
@@ -1943,6 +2003,8 @@ Mokymų ir modeliavimo paslaugos gynybos ir saugumo srityse
 
 80330000-6, 80600000-0, 80610000-3, 80620000-6, 80630000-9, 80640000-2, 80650000-5, 80660000-8
 
+part_54f81ebd4f314ac8809535cb3e704056_end
+
 Lietuvos Respublikos
 
 viešųjų pirkimų, atliekamų gynybos
@@ -1993,6 +2055,8 @@ Sveikatos ir socialinės paslaugos
 
 Kitos paslaugos
 
+part_8b311af4402f46e8a772b1d23542bb3e_end
+
 Lietuvos Respublikos
 
 viešųjų pirkimų, atliekamų gynybos
@@ -2024,6 +2088,8 @@ b) Europos standartas – Europos standartizacijos organizacijos priimtas standa
 c) nacionalinis standartas – nacionalinės standartizacijos organizacijos priimtas standartas, kuriuo gali naudotis plačioji visuomenė;
 
 7) techninis etalonas – bet kuris Europos standartizacijos organizacijos paskelbtas produktas, išskyrus oficialius standartus, priimtas pagal kintantiems rinkos poreikiams pritaikytas procedūras.
+
+part_b608d6fd831a4996bc8adfb3e2bb95c7_end
 
 Lietuvos Respublikos
 
@@ -2104,4 +2170,6 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 
 Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 4, 6, 17, 24, 33, 34, 40, 44 ir 54 straipsnių pakeitimo įstatymas
+
+part_44dbbb351398424a8a34cbf8abe2df1b_end
 
