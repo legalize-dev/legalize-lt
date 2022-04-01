@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2022-01-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
 
@@ -107,7 +107,11 @@ LIGOS IŠMOKA
 
 9 straipsnis. Ligos išmokos dėl apdraustojo asmens ligos arba traumos mokėjimo trukmė
 
-1. Turintiems darbo ar tarnybos santykius apdraustiesiems asmenims, tapusiems laikinai nedarbingiems šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais, ligos išmoką dvi pirmąsias kalendorines nedarbingumo dienas, sutampančias su darbuotojo darbo ar tarnybos grafiku, moka darbdavys. Ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti trečiąją nedarbingumo dieną ir mokama iki darbingumo atgavimo dienos ar darbingumo lygio nustatymo dienos. Tuo atveju, kai asmenims Neįgalumo ir darbingumo nustatymo tarnyba nustato profesinės reabilitacijos paslaugų poreikį, ligos išmoka mokama iki pirmosios dalyvavimo profesinės reabilitacijos programoje dienos. Šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais ligos išmoka po atleidimo iš darbo ar tarnybos dėl tos ligos ar traumos, dėl kurių asmuo tapo nedarbingas iki atleidimo iš darbo ar tarnybos, mokama ne ilgiau kaip 5 kalendorines ligos dienas, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos.
+1. Turintiems darbo ar tarnybos santykius apdraustiesiems asmenims, tapusiems laikinai nedarbingiems šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais, ligos išmoką dvi pirmąsias kalendorines nedarbingumo dienas, sutampančias su darbuotojo darbo ar tarnybos grafiku, moka kiekvienas darbdavys, neatsižvelgiant į apdraustojo asmens turimą ligos socialinio draudimo stažą. Ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų šio įstatymo 8 straipsnyje nustatytas sąlygas atitinkantiems asmenims pradedama mokėti trečiąją nedarbingumo dieną ir mokama iki darbingumo atgavimo dienos ar darbingumo lygio nustatymo dienos. Tuo atveju, kai asmenims Neįgalumo ir darbingumo nustatymo tarnyba nustato profesinės reabilitacijos paslaugų poreikį, ligos išmoka mokama iki pirmosios dalyvavimo profesinės reabilitacijos programoje dienos. Šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais ligos išmoka po atleidimo iš darbo ar tarnybos dėl tos ligos ar traumos, dėl kurių asmuo tapo nedarbingas iki atleidimo iš darbo ar tarnybos, mokama ne ilgiau kaip 5 kalendorines ligos dienas, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 
 2. Apdraustiesiems asmenims, gaunantiems valstybinę socialinio draudimo netekto darbingumo (invalidumo) pensiją, ligos išmoka šio įstatymo 5 straipsnio 2 dalies 1 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 90 kalendorinių dienų per kalendorinius metus.
 
@@ -325,6 +329,12 @@ Nr. XIII-2323, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12116
 
 3. Jeigu motinystės išmoką už nėštumo ir gimdymo atostogų laikotarpį gavusi motina mirė, vaiko priežiūros išmoka turintiems teisę ją gauti šio įstatymo 22 straipsnyje nurodytiems asmenims skiriama nuo motinos mirties dienos.
 
+31. Tais atvejais, kai motinystės išmokos gavėjui, kuriam suteiktos nėštumo ir gimdymo atostogos, išskyrus atvejus, kai apdraustasis asmuo pagal šio įstatymo 5 straipsnio 4 dalį prilyginamas asmeniui, išleistam nėštumo ir gimdymo atostogų, taip pat atvejus, numatytus šio įstatymo 16 straipsnio 3 dalyje, gimė daugiau negu vienas vaikas ar jis vienu metu globoja du ir daugiau vaikų, kol jiems sueis 70 dienų, vaiko priežiūros išmoka už vieną iš vaikų vaiko priežiūros atostogų laikotarpį, sutampantį su motinystės išmokos mokėjimo laikotarpiu, kitam iš turinčių teisę ją gauti šio įstatymo 22 straipsnyje nurodytų asmenų jo prašymu skiriama nuo vaiko gimimo dienos arba nuo pirmosios dienos po tėvystės atostogų pabaigos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+
 4. Tėvystės atostogų metu tėvui, gaunančiam tėvystės išmoką, vaiko priežiūros išmoka nemokama.
 
 5. Apdraustojo asmens, turinčio teisę į vaiko priežiūros išmoką, vaikui teisės aktų nustatyta tvarka nustačius laikinąją ar nuolatinę globą ar apdraustajam asmeniui, turinčiam teisę gauti vaiko priežiūros išmoką, teismo sprendimu apribojus tėvų (tėvo ar motinos) valdžią arba apdraustąjį asmenį teismo nutartimi atleidus ar nušalinus nuo globėjo pareigų, ši išmoka neskiriama arba jos mokėjimas nutraukiamas kitą dieną po laikinosios globos nustatymo kitam globėjui arba teismo sprendimo ar nutarties įsiteisėjimo dienos, jeigu teismas nenutaria jų vykdyti skubiai, Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka.
@@ -491,11 +501,13 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 1. Kompensuojamasis uždarbis, pagal kurį nustatomas ligos ir profesinės reabilitacijos išmokų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 3 kalendorinius mėnesius, buvusius iki praeito kalendorinio mėnesio prieš laikinojo nedarbingumo nustatymo ar profesinės reabilitacijos programos pradžios mėnesį.
 
-2. Kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo mėnesį. Jeigu apdraustasis asmuo, turintis teisę gauti motinystės išmoką, per šioje dalyje nurodytą laikotarpį draudžiamųjų pajamų neturėjo iš viso ar iš dalies dėl to, kad dirbo užsienyje, motinystės išmokos dydis apskaičiuojamas iš paskutinių kalendorinių mėnesių, kuriais apdraustasis asmuo dirbo Lietuvoje, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės išmoką atsiradimo mėnesį, Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka.
+2. Kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo mėnesį. Jeigu apdraustasis asmuo, turintis teisę gauti motinystės išmoką, per šioje dalyje nurodytą laikotarpį draudžiamųjų pajamų Lietuvoje neturėjo iš viso ar iš dalies dėl to, kad dirbo ir (ar) buvo draudžiamas užsienyje, kompensuojamasis uždarbis, pagal kurį nustatomas motinystės išmokos dydis, apskaičiuojamas iš paskutinių kalendorinių mėnesių, kuriais motinystės socialiniu draudimu apdraustasis asmuo Lietuvoje dirbo ir gavo draudžiamųjų pajamų, nurodytų šio įstatymo 3 straipsnio 2 dalyje, arba iš paeiliui einančių 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės išmoką atsiradimo mėnesį, draudžiamųjų pajamų Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka, taikant iš jų palankesnį kompensuojamojo uždarbio dydį.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
+
+Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 
 3. Jeigu visą šio straipsnio 2 dalyje nurodytą laikotarpį arba jo dalį apdraustajam asmeniui buvo mokama vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką arba jam buvo suteiktos prieš tai gimusio vaiko nėštumo ir gimdymo, tėvystės, vaiko priežiūros atostogos, globojamo vaiko nėštumo ir gimdymo, vaiko priežiūros atostogos arba įvaikinto vaiko tėvystės, vaiko priežiūros atostogos, jo prašymu nauja motinystės, tėvystės ar vaiko priežiūros išmoka gali būti apskaičiuota iš kompensuojamojo uždarbio, pagal kurį buvo apskaičiuota atitinkama ankstesnė (pirmesnė) motinystės, tėvystės ar vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką. Kai ankstesnė (pirmesnė) motinystės, tėvystės ar vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką buvo apskaičiuota iš kompensuojamojo uždarbio, apriboto maksimaliu kompensuojamojo uždarbio dydžiu, nauja motinystės, tėvystės ar vaiko priežiūros išmoka apskaičiuojama pagal faktinį asmens kompensuojamąjį uždarbį, apskaičiuotą teisės į atitinkamą ankstesnę (pirmesnę) motinystės, tėvystės ar vaiko priežiūros išmoką dieną. Apskaičiuojant tėvystės ar vaiko priežiūros išmoką, taikomas šio straipsnio 5 dalyje nurodytas maksimalus kompensuojamojo uždarbio dydis.
 
@@ -547,7 +559,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
-4. Ligos išmoką taip pat turi teisę gauti apdraustieji asmenys, jeigu jie iki laikinojo nedarbingumo pradžios neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 6 straipsnio 4 dalyje, ir pertrauka nuo jų statuso pasikeitimo yra ne ilgesnė kaip 3 mėnesiai.
+4. Ligos išmoką taip pat turi teisę gauti apdraustieji asmenys, jeigu jie iki laikinojo nedarbingumo pradžios neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 6 straipsnio 4 dalyje, ir jeigu laikinasis nedarbingumas prasideda per 6 mėnesius nuo privalomosios karo tarnybos ar alternatyviosios krašto apsaugos tarnybos pabaigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 
 Straipsnio dalies numeracijos pakeitimas:
 
