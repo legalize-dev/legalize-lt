@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2022-03-23"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2022-03-23 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
 
@@ -1179,6 +1179,12 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 4. Socialinė globa asmenims su sunkia negalia finansuojama iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams.
 
 5. Socialinė globa likusiems be tėvų globos vaikams finansuojama iš savivaldybės biudžeto lėšų ir iš valstybės biudžeto lėšų, skirtų globos (rūpybos) išmokai pagal Išmokų vaikams įstatymą mokėti.
+
+51. Institucinė socialinė globa iš užsienio valstybės (-ių), kurią (-ias), Užsienio reikalų ministerijos Socialinių paslaugų priežiūros departamentui pateiktais duomenimis, ištiko humanitarinė krizė, atvykusiems nelydimiems nepilnamečiams užsieniečiams ar likusiems be tėvų globos vaikams finansuojama iš valstybės biudžeto lėšų, skiriamų socialinės apsaugos ir darbo ministro nustatyta tvarka, ir iš valstybės biudžeto lėšų, skirtų globos (rūpybos) išmokai pagal Išmokų vaikams įstatymą mokėti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
 
 6. Vaikų priežiūra ar globa (rūpyba) vaikus globojančioje šeimoje, pas budintį globotoją, taip pat globos centro vykdoma vaikų globa (rūpyba) ir kitos teikiamos socialinės paslaugos finansuojamos iš savivaldybių biudžetų lėšų ir iš valstybės biudžeto lėšų, skirtų išmokoms vaikams, o kai vaikui nustatyta nuolatinė ar laikinoji globa (rūpyba), – ir iš lėšų, skirtų vaikų globos (rūpybos) išmokoms, globos (rūpybos) tiksliniams priedams pagal Išmokų vaikams įstatymą mokėti.
 
