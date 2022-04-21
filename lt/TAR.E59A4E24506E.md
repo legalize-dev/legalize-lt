@@ -4,7 +4,7 @@ identifier: "TAR.E59A4E24506E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-02"
-last_updated: "2018-03-01"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E59A4E24506E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos susirinkimų įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2022-04-20
+Suvestinė redakcija nuo 2022-04-21 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 69-1291, i. k. 0931010ISTA000I-317
 
@@ -104,7 +104,11 @@ Susirinkimo ar pavienio asmens akcijos metu draudžiama:
 
 2) pažeisti dorovės, geros moralės ir etikos normas;
 
-3) demonstruoti nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavą ar herbą arba vėliavą, ženklą ar uniformą, kurių sudedamoji dalis yra nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliava ar herbas, atsakingų už Lietuvos gyventojų represijas Vokietijos nacionalsocialistų ar SSRS komunistų partijos vadovų atvaizdus, nacistinių ar komunistinių organizacijų simbolius ar uniformas arba nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavos ar herbo, nacistinės svastikos, nacistinio SS ženklo, sovietinio kūjo ir pjautuvo ženklo, sovietinės raudonos penkiakampės žvaigždės ženklo pagrindu sudarytas vėliavas ar ženklus arba į juos klaidinančiai panašius antikonstitucinių organizacijų simbolius, atlikti nacistinės Vokietijos, SSRS ar Lietuvos SSR himną;
+3) demonstruoti nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavą ar herbą arba vėliavą, ženklą ar uniformą, kurių sudedamoji dalis yra nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliava ar herbas, atsakingų už Lietuvos gyventojų represijas Vokietijos nacionalsocialistų ar SSRS komunistų partijos vadovų atvaizdus, nacistinių ar komunistinių organizacijų simbolius ar uniformas arba nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavos ar herbo, nacistinės svastikos, nacistinio SS ženklo, sovietinio kūjo ir pjautuvo ženklo, sovietinės raudonos penkiakampės žvaigždės ženklo pagrindu sudarytas vėliavas ar ženklus arba į juos klaidinančiai panašius antikonstitucinių organizacijų simbolius, totalitarinių ar autoritarinių režimų simbolius, kuriuos šie režimai naudojo ar  naudoja jų įvykdytai ar vykdomai karinei agresijai, vykdomiems ar įvykdytiems nusikaltimams žmoniškumui ir karo nusikaltimams propaguoti, atlikti nacistinės Vokietijos, SSRS ar Lietuvos SSR himną. Totalitarinių ar autoritarinių režimų simboliu, kurį šie režimai naudojo ar naudoja jų įvykdytai ar vykdomai karinei agresijai, vykdomiems ar įvykdytiems nusikaltimams žmoniškumui ir karo nusikaltimams propaguoti, visais atvejais laikoma dvispalvė (juodos ir oranžinės spalvų) Georgijaus (šv. Jurgio) juosta;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1023, 2022-04-19, paskelbta TAR 2022-04-20, i. k. 2022-08030
 
 4) kitokiais būdais rengtis atlikti ar atlikti Lietuvos Respublikos baudžiamajame kodekse numatytas veikas.
 
@@ -267,6 +271,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1008, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01021
 
 Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 4 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1023, 2022-04-19, paskelbta TAR 2022-04-20, i. k. 2022-08030
+
+Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 5 straipsnio pakeitimo įstatymas
 
 15 straipsnis. Susirinkimų vedimo tvarka
 
