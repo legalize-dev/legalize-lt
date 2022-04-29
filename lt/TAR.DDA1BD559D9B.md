@@ -4,7 +4,7 @@ identifier: "TAR.DDA1BD559D9B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-03"
-last_updated: "2022-01-01"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-04-28
+Suvestinė redakcija nuo 2022-04-29 iki 2022-11-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1765, i. k. 0991010ISTAIII-1212
 
@@ -654,13 +654,15 @@ Nr. XIII-2855, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08969
 
 10) užtikrinti, kad sprendimus dėl turto valdymo priimantys asmenys turėtų tinkamą kvalifikaciją, darbo patirtį ir būtų nepriekaištingos reputacijos. Sprendimus priimančių asmenų kvalifikacija ir darbo patirtis vertinama atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir darbo patirčiai;
 
-TAR pastaba. Jeigu valdymo įmonė, rengdama pagrindinės informacijos investuotojams dokumentą, vietoj Reglamento (ES) Nr. 1286/2014 nustatytų reikalavimų pasirenka vadovautis Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme ir jo įgyvendinamuosiuose teisės aktuose pagrindinės informacijos investuotojams dokumento rengimui ir teikimui nustatytais reikalavimais, 6 straipsnio 1 dalies 10 punkte nustatytas reikalavimas ir kiti Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai jai taikomi nuo 2022 m. sausio 1 d. Tokiu atveju valdymo įmonė iki 2021 m. gruodžio 31 d. privalo vadovautis Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme ir Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatytais reikalavimais dėl priemonių, leidžiančių jos darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo ir kitų kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimą. Valdymo įmonė apie tokį savo pasirinkimą informuoja priežiūros instituciją nedelsdama po įstatymo Nr. XIII-2675 įsigaliojimo.
+TAR pastaba. Jeigu valdymo įmonė, rengdama pagrindinės informacijos investuotojams dokumentą, vietoj Reglamento (ES) Nr. 1286/2014 nustatytų reikalavimų pasirenka vadovautis Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme ir jo įgyvendinamuosiuose teisės aktuose pagrindinės informacijos investuotojams dokumento rengimui ir teikimui nustatytais reikalavimais, šio įstatymo 3 straipsnyje nustatytas reikalavimas ir kiti Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai jai taikomi nuo 2023 m. sausio 1 d. Tokiu atveju valdymo įmonė iki 2022 m. gruodžio 31 d. privalo vadovautis Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme ir Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatytais reikalavimais dėl priemonių, leidžiančių jos darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo ir kitų kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimą. Valdymo įmonė apie tokį savo pasirinkimą informuoja priežiūros instituciją nedelsdama po  įstatymo Nr. XIV-1036 įsigaliojimo .
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
+
+Nr. XIV-1036, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08783
 
 11) laikytis įstatymuose ir priežiūros institucijos nustatytų kapitalo, riziką ribojančių ir kitų reikalavimų veiklai;
 
@@ -1487,6 +1489,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
 
 Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 57, 58-2 straipsnių ir priedo pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1036, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08783
+
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, 59 straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, 60 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-1237 20 straipsnio pakeitimo įstatymas
 
 61 straipsnis. Pranešimas apie pažeidimus valdymo įmonėje
 
