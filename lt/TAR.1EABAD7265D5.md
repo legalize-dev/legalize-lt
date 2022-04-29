@@ -4,7 +4,7 @@ identifier: "TAR.1EABAD7265D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-06-18"
-last_updated: "2022-01-02"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1EABAD7265D5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS INFORMUOTIESIEMS INVESTUOTOJAMS SKIRTŲ KOLEKTYVINIO
 
 INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-01-02 iki 2022-04-28
+Suvestinė redakcija nuo 2022-04-29 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
 
@@ -1573,6 +1573,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-834, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27726
 
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 19 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1035, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08781
+
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 47 straipsnio ir priedo pakeitimo įstatymas
 
 501 straipsnis. Su tvarumu susijusios informacijos teikimo investuotojams tvarka
 
