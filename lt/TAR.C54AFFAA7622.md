@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2022-04-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2022-04-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -145,6 +145,12 @@ PIRKIMŲ YPATUMAI
 3) statinio statymas bet kokiomis priemonėmis pagal perkančiosios organizacijos, darančios lemiamą poveikį darbo pobūdžiui arba projektui, nustatytus reikalavimus.
 
 8. Elektroninės priemonės – elektroninė įranga, naudojama duomenims, perduodamiems ir gaunamiems laidinėmis, radijo, optinėmis ar kitomis elektromagnetinėmis priemonėmis, apdoroti (įskaitant skaitmeninį glaudinimą) ir saugoti.
+
+81. Europos elektroninių sąskaitų faktūrų standartas – standartas, kurio nuoroda paskelbta 2017 m. spalio 16 d. Komisijos įgyvendinimo sprendime (ES) 2017/1870 dėl nuorodos į Europos elektroninių sąskaitų faktūrų standartą ir sintaksių sąrašo paskelbimo pagal Europos Parlamento ir Tarybos direktyvą 2014/55/ES.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-687, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25114
 
 9. Europos standartas – Europos standartizacijos organizacijos priimtas visuomenei skirtas standartas.
 
@@ -690,11 +696,13 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 2. Atliekant pirkimo procedūras centrinės perkančiosios organizacijos sudarytos preliminariosios sutarties ar sukurtos dinaminės pirkimų sistemos pagrindu, perkančiosios organizacijos ir tiekėjo bendravimas ir keitimasis informacija, įskaitant tiekėjų pasiūlymų pateikimą, gali vykti centrinės perkančiosios organizacijos siūlomomis elektroninėmis priemonėmis.
 
-3. Pasirašant ar nutraukiant pirkimo ir preliminariąsias sutartis, vykdant ir keičiant pirkimo sutartis, perkančiosios organizacijos ir tiekėjo bendravimas ir keitimasis informacija gali vykti ne Centrinės viešųjų pirkimų informacinės sistemos priemonėmis. Vykdant pirkimo sutartis, sąskaitos faktūros teikiamos tik elektroniniu būdu. Elektroninės sąskaitos faktūros, atitinkančios Europos elektroninių sąskaitų faktūrų standartą, kurio nuoroda paskelbta 2017 m. spalio 16 d. Komisijos įgyvendinimo sprendime (ES) 2017/1870 dėl nuorodos į Europos elektroninių sąskaitų faktūrų standartą ir sintaksių sąrašo paskelbimo pagal Europos Parlamento ir Tarybos direktyvą 2014/55/ES (OL 2017 L 266, p. 19) (toliau – Europos elektroninių sąskaitų faktūrų standartas), teikiamos tiekėjo pasirinktomis priemonėmis. Europos elektroninių sąskaitų faktūrų standarto neatitinkančios elektroninės sąskaitos faktūros gali būti teikiamos tik naudojantis informacinės sistemos „E. sąskaita“ priemonėmis. Perkančioji organizacija elektronines sąskaitas faktūras priima ir apdoroja naudodamasi informacinės sistemos „E. sąskaita“ priemonėmis, išskyrus šio straipsnio 12 dalyje nustatytus atvejus ir atvejus, kai pirkimo sutartys sudaromos žodžiu. Šiame straipsnyje elektroninė sąskaita faktūra suprantama kaip sąskaita faktūra, išrašyta, perduota ir gauta tokiu elektroniniu formatu, kuris sudaro galimybę ją apdoroti automatiniu ir elektroniniu būdu.
+3. Pasirašant ar nutraukiant pirkimo ir preliminariąsias sutartis, vykdant ir keičiant pirkimo sutartis, perkančiosios organizacijos ir tiekėjo bendravimas ir keitimasis informacija gali vykti ne Centrinės viešųjų pirkimų informacinės sistemos priemonėmis. Vykdant pirkimo sutartis, sąskaitos faktūros priimamos ir apdorojamos vadovaujantis Lietuvos Respublikos finansinės apskaitos įstatymo 6 straipsnio 4 dalimi, išskyrus šio straipsnio 12 dalyje nustatytus atvejus. Elektroninės sąskaitos faktūros, atitinkančios Europos elektroninių sąskaitų faktūrų standartą, teikiamos tiekėjo pasirinktomis priemonėmis. Europos elektroninių sąskaitų faktūrų standarto neatitinkančios elektroninės sąskaitos faktūros gali būti teikiamos tik naudojantis informacinės sistemos „E. sąskaita“ priemonėmis. Šiame straipsnyje elektroninė sąskaita faktūra suprantama kaip sąskaita faktūra, išrašyta, perduota ir gauta tokiu elektroniniu formatu, kuris sudaro galimybę ją apdoroti automatiniu ir elektroniniu būdu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+
+Nr. XIV-687, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25114
 
 4. Centrinės viešųjų pirkimų informacinės sistemos priemonės, centrinės perkančiosios organizacijos siūlomos elektroninės priemonės, informacinės sistemos „E. sąskaita“ priemonės ir jų techninės charakteristikos turi nediskriminuoti tiekėjų, būti visiems prieinamos ir suderintos su visuotinai naudojamomis informacinių ir ryšių technologijų priemonėmis, neriboti tiekėjų galimybių dalyvauti pirkimo procedūrose.
 
@@ -1502,7 +1510,11 @@ Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
 
 1) tiekėjo, kuris yra fizinis asmuo, per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis ir šis asmuo turi neišnykusį ar nepanaikintą teistumą;
 
-2) tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovo, kito valdymo ar priežiūros organo nario ar kito asmens, turinčio (turinčių) teisę atstovauti tiekėjui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, ar buhalterio (buhalterių) ar kito (kitų) asmens (asmenų), turinčio (turinčių) teisę surašyti ir pasirašyti tiekėjo apskaitos dokumentus, per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis ir šis asmuo turi neišnykusį ar nepanaikintą teistumą;
+2) tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovo, kito valdymo ar priežiūros organo nario ar kito asmens, turinčio (turinčių) teisę atstovauti tiekėjui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį asmens (asmenų), turinčio (turinčių) teisę surašyti ir pasirašyti tiekėjo finansinės apskaitos dokumentus, per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis ir šis asmuo turi neišnykusį ar nepanaikintą teistumą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-687, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25114
 
 3) tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis arba šio straipsnio 3 dalies atveju – galutinis administracinis sprendimas, jeigu toks sprendimas priimamas pagal tiekėjo šalies teisės aktų reikalavimus.
 
