@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2022-04-27"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2022-04-27 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-06-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -3097,6 +3097,8 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 
 3. Šiame straipsnyje nurodytos teismo nutartys yra galutinės ir neskundžiamos.
 
+part_7753471a3f4b4dae9468076f2636a6ef_end
+
 Lietuvos Respublikos
 
 baudžiamojo proceso kodekso
@@ -3577,9 +3579,33 @@ Kitos procesinės prievartos priemonės
 
 106 straipsnis. Advokato darbo apmokėjimas
 
-1. Kai įtariamajam, kaltinamajam ar nuteistajam buvo paskirta valstybės garantuojama teisinė pagalba, advokatui apmokama įstatymo, reglamentuojančio valstybės garantuojamos teisinės pagalbos teikimą, nustatyta tvarka. Kitais atvejais advokatui moka įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu – kiti asmenys.
+1. Kai įtariamajam, kaltinamajam ar nuteistajam buvo paskirta valstybės garantuojama teisinė pagalba, advokatui arba advokato padėjėjui apmokama įstatymo, reglamentuojančio valstybės garantuojamos teisinės pagalbos teikimą, nustatyta tvarka. Kitais atvejais advokatui arba advokato padėjėjui moka įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu – kiti asmenys.
 
-2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas nuosprendį, priima sprendimą iš kaltinamojo išieškoti valstybės garantuojamos teisinės pagalbos išlaidas, susidariusias dėl būtino gynėjo dalyvavimo, atsižvelgdamas į kaltinamojo turtinę padėtį, išskyrus šio Kodekso 51 straipsnio 1 dalies 1 ir 2 punktuose nurodytus atvejus. Be to, teismas turi teisę nuspręsti iš kaltinamojo išieškoti nukentėjusiojo ir civilinio ieškovo patirtas išlaidas advokato, kuris dalyvavo byloje kaip nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti.
+2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas nuosprendį, priima sprendimą iš kaltinamojo išieškoti valstybės garantuojamos teisinės pagalbos išlaidas, susidariusias dėl būtino gynėjo dalyvavimo, atsižvelgdamas į kaltinamojo turtinę padėtį, išskyrus šio Kodekso 51straipsnio 1 dalies 1 ir 2 punktuose nurodytus atvejus. Be to, teismas turi teisę nuspręsti iš kaltinamojo išieškoti nukentėjusiojo ir civilinio ieškovo patirtas išlaidas advokato arba advokato padėjėjo, kuris dalyvavo byloje kaip nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti.
+
+3. Kai asmuo išteisinamas, teismas, priimdamas nuosprendį ar nutartį, priima sprendimą dėl asmens patirtų būtinų ir pagrįstų išlaidų advokato arba advokato padėjėjo, kuris dalyvavo byloje kaip šio asmens gynėjas, paslaugoms apmokėti, atsižvelgiant į bylos aplinkybes, atlyginimo iš valstybės lėšų teisės aktų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. X-81, 2005-01-20, Žin., 2005, Nr. 18-575 (2005-02-08)
+
+Nr. XII-275, 2013-05-09, Žin., 2013, Nr. 54-2680 (2013-05-25)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-165, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29859
+
+Nr. KT45-A-N3/2021, 2021-03-19, paskelbta TAR 2021-03-19, i. k. 2021-05546
+
+Nr. XIV-1011, 2022-04-12, paskelbta TAR 2022-04-20, i. k. 2022-08022
+
+II dalis
+
+Nusikalstama veika padarytos žalos atlyginimas
+
+IX skyrius
+
+Žalos atlyginimas, kai civilinis ieškinys baudžiamojoje byloje nepareiškiamas
 
 118 straipsnis. Žalos kompensavimas iš valstybės lėšų
 
