@@ -4,7 +4,7 @@ identifier: "TAR.B3CC2C0B9BD2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-21"
-last_updated: "2020-01-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
 
@@ -54,7 +54,17 @@ BENDROSIOS NUOSTATOS
 
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Dirbtinis vandens telkinys – techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis ir (arba) konstrukcijomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir panašiai).
+1. Buitinės nuotekos – nuotekos, kurios susidaro namų ūkyje naudojant vandenį buitiniams poreikiams. Prie buitinių nuotekų priskiriamos ir nuotekos, susidarančios naudojant vandenį įmonių, įstaigų, organizacijų darbuotojų buitiniams poreikiams, jeigu jos surenkamos ir išleidžiamos atskirai nuo kitų objekte susidarančių nuotekų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
+
+11. Dirbtinis vandens telkinys – techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis ir (arba) konstrukcijomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir panašiai).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
 
 2. Galimai teršiama teritorija – atvira teritorija, kuri dėl joje vykdomos veiklos yra arba gali būti teršiama (eksploatacijos ar avarinės taršos atvejais) pavojingosiomis medžiagomis: transporto priemonių remonto, ardymo, techninės priežiūros, dažymo teritorija (teritorija, kurioje teikiamos išvardytos paslaugos, ir didesnė kaip 0,1 ha teritorija, kurioje minėta veikla vykdoma savo reikmėms); trąšų, augalų apsaugos produktų, buitinės chemijos, naftos produktų ir kitų pavojingųjų medžiagų perpylimo, perkrovimo ar sandėliavimo vieta (išskyrus galutinius nurodytų medžiagų vartotojus); didesnė kaip 0,5 ha transporto priemonių stovėjimo aikštelė; transporto priemonių stovėjimo aikštelės, naudojamos komerciniais tikslais ir esančios arčiau kaip 100 m atstumu nuo vandens telkinių; centralizuota betono ruošimo ir išdavimo vieta; degalinės, naftos bazės ir naftos išgavimo gręžinių teritorija; degalų ir kitų naftos produktų pilstymo vieta; chemijos, naftos perdirbimo, pieno, mėsos, žuvies perdirbimo, celiuliozės ir popieriaus, odų dirbimo, cukraus pramonės objekto teritorija; atliekų tvarkymo objekto, pabėgių mirkyklos, jūrų uosto, dokų teritorija.
 
@@ -350,9 +360,17 @@ Paviršinių vandens telkinių ir (arba) jų vandens naudojimo žuvininkystei ir
 
 4) išleidžiamos (planuojamos išleisti) paviršinės nuotekos, į kurių surinkimo sistemą patenka paviršinės nuotekos nuo galimai teršiamų teritorijų, kurių bendras paviršinių nuotekų surinkimo plotas didesnis kaip 1 ha;
 
-5) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos, kuriose yra prioritetinių medžiagų, kurių išleidimas turi būti nuosekliai nutrauktas (neatsižvelgiant į išleidžiamų prioritetinių medžiagų kiekį);
+5) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos (išskyrus buitines nuotekas), kuriose prioritetinių medžiagų, kurių išleidimas turi būti nuosekliai nutrauktas, koncentracija viršija aplinkos ministro nustatytas išleidžiamųjų teršalų ribines vertes;
 
-6) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos (neatsižvelgiant į išleidžiamų nuotekų kiekį / debitą), kuriose prioritetinių medžiagų, kurių išleidimas turi būti mažinamas, koncentracija yra lygi arba didesnė už aplinkos ministro nustatytą ribinės koncentracijos į gamtinę aplinką vertę;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
+
+6) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos (išskyrus buitines nuotekas), kuriose prioritetinių medžiagų, kurių išleidimas turi būti mažinamas, koncentracija viršija aplinkos ministro nustatytas išleidžiamųjų teršalų ribines vertes;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
 
 7) išleidžiamos (planuojamos išleisti) nuotekos, susidariusios valant išmetamąsias dujas iš atliekų deginimo arba bendro atliekų deginimo įrenginių;
 
@@ -593,6 +611,16 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112
 
 Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
+
+Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3 ir 18 straipsnių pakeitimo įstatymas
+
+part_62f8e77b0fd447d4b658779caf439505_end
 
 30 straipsnis. Ataskaitų teikimas Europos Bendrijų Komisijai
 
