@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2022-01-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-09-26
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -712,6 +712,12 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
+921. Vairuotojo kvalifikacijos kortelė – dokumentas, kuriame nurodomas suderintas Europos Sąjungos kodas (95), jeigu nėra galimybės jo įrašyti vairuotojo pažymėjime, patvirtinantis turimą C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių, jų junginių su priekabomis vairuotojų kvalifikaciją vežti krovinius ar keleivius komerciniais tikslais.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
+
 93. Vairuotojo pažymėjimas – teisės aktų nustatyta tvarka išduodamas dokumentas, kuriuo patvirtinama asmens teisė vairuoti tam tikros kategorijos motorinę transporto priemonę (motorines transporto priemones) ir nurodomos vairavimo sąlygos.
 
 Straipsnio dalies numeracijos pakeitimas:
@@ -832,7 +838,11 @@ Nr. XIII-3122, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15365
 
 2. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Vyriausybės patvirtintais Komisijos veiklos nuostatais ir kitais teisės aktais.
 
-3. Komisiją sudaro Ministras Pirmininkas, susisiekimo ministras, vidaus reikalų ministras, Finansų ministerijos atstovas, Sveikatos apsaugos ministerijos atstovas, Švietimo ir mokslo ministerijos atstovas bei Lietuvos savivaldybių asociacijos prezidentas. Komisijos pirmininkas yra Ministras Pirmininkas.
+3. Komisiją sudaro Ministras Pirmininkas, susisiekimo ministras, vidaus reikalų ministras, Finansų ministerijos atstovas, Sveikatos apsaugos ministerijos atstovas, Švietimo, mokslo ir sporto ministerijos atstovas bei Lietuvos savivaldybių asociacijos prezidentas. Komisijos pirmininkas yra Ministras Pirmininkas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 4. Komisija:
 
@@ -904,7 +914,11 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 10) nustato papildomo vairuotojų mokymo tvarką;
 
-11) suderinusi su Švietimo ir mokslo ministerija, nustato C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių vairuotojų mokymo pradinei profesinei kvalifikacijai įgyti ir vairuotojų periodinio profesinio mokymo tvarką;
+11) suderinusi su Švietimo, mokslo ir sporto ministerija nustato C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių vairuotojų mokymo pradinei profesinei kvalifikacijai įgyti ir vairuotojų periodinio profesinio mokymo tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 12) nustato motorinių transporto priemonių vairuotojų, kuriems teisė vairuoti buvo atimta dėl KET pažeidimų, papildomo vairuotojų mokymo tvarką;
 
@@ -930,7 +944,11 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 21) suteikia įstaigoms ar įmonėms teisę vykdyti vairuotojų mokymą ir (ar) papildomą vairuotojų mokymą ir nustato šios teisės suteikimo, sustabdymo, atnaujinimo ar panaikinimo tvarką;
 
-22) atlieka vairuotojų mokymo ir papildomo vairuotojų mokymo priežiūrą;
+22) atlieka vairuotojų mokymo, papildomo vairuotojų mokymo priežiūrą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 23) prižiūri, kaip laikomasi privalomosios techninės apžiūros ir techninės ekspertizės atlikimo tvarkos;
 
@@ -1016,17 +1034,17 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 4) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
 
-4. Užtikrindama eismo saugumą, Švietimo ir mokslo ministerija ar jos įgaliotos institucijos:
+4. Užtikrindama eismo saugumą, Švietimo, mokslo ir sporto ministerija ar jos įgaliotos institucijos:
 
-1) organizuoja ir koordinuoja privalomąjį eismo saugumo pagrindų mokymą ikimokyklinio ugdymo, bendrojo ugdymo ir neformaliojo suaugusiųjų švietimo įstaigose;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-1584, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05020
+1) organizuoja ir koordinuoja privalomąjį eismo saugumo pagrindų mokymą ikimokyklinio ugdymo, priešmokyklinio ugdymo, bendrojo ugdymo ir neformaliojo suaugusiųjų švietimo įstaigose;
 
 2) organizuoja mokinių (vaikų) mokymą, per kurį įgyjama saugaus važiavimo dviračiais įgūdžių;
 
 3) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 5. Užtikrindama eismo saugumą, Vidaus reikalų ministerija ar jos įgaliotos institucijos:
 
@@ -1048,7 +1066,17 @@ Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
 
 7) suderinusi su Susisiekimo ministerija, nustato specialiųjų transporto priemonių vairuotojų papildomo mokymo tvarką;
 
-8) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
+8) nustato vairuotojo kvalifikacijos kortelių išdavimo tvarką;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
+
+9) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 6. Užtikrindama eismo saugumą, Žemės ūkio ministerija ar jos įgaliotos institucijos:
 
@@ -1058,7 +1086,11 @@ Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
 
 3) nustato ir tvirtina traktorių ir savaeigių mašinų techninės apžiūros tvarką ir techninius reikalavimus traktoriams ir savaeigėms mašinoms ir jų priekaboms;
 
-4) nustato ir tvirtina traktorių ir savaeigių mašinų vairuotojų rengimo ir teisės vairuoti šias transporto priemones įgijimo tvarką (jei mokymai susiję su pirminiu profesiniu, tęstiniu profesiniu ar neformaliuoju suaugusiųjų švietimu, tvarka turi būti suderinta su Švietimo ir mokslo ministerija);
+4) nustato ir tvirtina traktorių ir savaeigių mašinų vairuotojų rengimo ir teisės vairuoti šias transporto priemones įgijimo tvarką (kai mokymai susiję su formaliuoju profesiniu mokymu ar neformaliuoju suaugusiųjų švietimu, ši tvarka turi būti suderinta su Švietimo, mokslo ir sporto ministerija);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 5) nustato ir tvirtina dokumento, patvirtinančio teisę vairuoti traktorius ir (ar) savaeiges mašinas, formą, išdavimo tvarką;
 
@@ -1418,11 +1450,13 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 17 straipsnis. Reikalavimai dviračių vairuotojams
 
-1. Važiuoti važiuojamąja kelio dalimi dviračiu leidžiama ne jaunesniems kaip 14 metų, o išklausiusiems Švietimo ir mokslo ministerijos nustatytą mokymo kursą ir turintiems mokyklos išduotą pažymėjimą, – ne jaunesniems kaip 12 metų asmenims. Prižiūrint suaugusiajam, važiuoti važiuojamąja kelio dalimi dviračiu leidžiama ne jaunesniems kaip 8 metų asmenims. Gyvenamojoje zonoje dviračių vairuotojų amžius neribojamas.
+1. Važiuoti važiuojamąja kelio dalimi dviračiu leidžiama ne jaunesniems kaip 14 metų, o išklausiusiems Švietimo, mokslo ir sporto ministerijos nustatytą mokymo kursą ir turintiems mokyklos išduotą pažymėjimą, – ne jaunesniems kaip 12 metų asmenims. Prižiūrint suaugusiajam, važiuoti važiuojamąja kelio dalimi dviračiu leidžiama ne jaunesniems kaip 8 metų asmenims. Gyvenamojoje zonoje dviračių vairuotojų amžius neribojamas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1584, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05020
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 2. Dviračio vairuotojui leidžiama važiuoti keliu tik tvarkingą stabdį ir garso signalą turinčiu dviračiu. Dviračio gale turi būti raudonas šviesos atšvaitas arba raudonas šviesos žibintas, iš abiejų šonų – oranžiniai šviesos atšvaitai, pritvirtinti prie ratų stipinų. Važiuodamas važiuojamąja kelio dalimi, dviračio vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais arba dviračio priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas. Važiuojant keliu tamsiuoju paros metu arba kai blogas matomumas, dviračio priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas, dviračio vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais. Dviračio vairuotojai (keleiviai) iki 18 metų, važiuodami (vežami) keliu, privalo būti užsidėję ir užsisegę dviratininko šalmus. Vyresniems kaip 18 metų asmenims, dviračiu važiuojantiems keliu, rekomenduojama būti užsidėjus ir užsisegus dviratininko šalmą.
 
@@ -1550,7 +1584,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
 
-6. C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių vairuotojai privalo nustatyta tvarka baigti mokymus pradinei profesinei kvalifikacijai įgyti bei periodinius profesinius mokymus.
+6. Neteko galios nuo 2022-05-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 7. Asmenims, iki 2004 m. balandžio 30 d. įgijusiems teisę vairuoti C, D kategorijų transporto priemones, suteikiama teisė Lietuvos Respublikos teritorijoje vairuoti B kategorijos transporto priemones.
 
@@ -1734,11 +1772,23 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 1. Keleivius vežti leidžiama tik tam skirtomis (arba specialiai tam pritaikytomis) transporto priemonėmis ir tik pagal konstrukciją žmonėms skirtose vietose.
 
-2. Vairuotojas, kuris verčiasi keleivių vežimu, privalo su savimi turėti Vyriausybės nustatyta tvarka išduotą galiojančią licencijos kortelę, o veždamas keleivius reguliariais reisais nustatytais maršrutais, – ir nustatyta tvarka išduotą galiojantį leidimą, ir tikrinančių pareigūnų reikalavimu juos bei kitus dokumentus pateikti.
+2. Vairuotojai, kurie verčiasi keleivių vežimu, privalo su savimi turėti Vyriausybės nustatyta tvarka išduotą galiojančią licencijos kortelę, o veždami keleivius reguliariais reisais nustatytais maršrutais, – ir nustatyta tvarka išduotą galiojantį leidimą ir tikrinančio pareigūno reikalavimu juos bei kitus dokumentus pateikti. Jeigu C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių, jų junginių su priekabomis vairuotojas verčiasi komerciniu krovinių arba keleivių vežimu ir jo vairuotojo pažymėjime prie atitinkamų kategorijų neįrašytas suderintas Europos Sąjungos kodas (95), šis vairuotojas tikrinančio pareigūno reikalavimu privalo pateikti vairuotojo kvalifikacijos kortelę arba vairuotojo liudijimą, kaip jis apibrėžtas 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1072/2009 dėl bendrųjų patekimo į tarptautinio krovinių vežimo kelių transportu rinką taisyklių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 3. Vairuotojui draudžiama važiuoti (tęsti judėjimą), jei yra (atsirado važiuojant) keleivių (krovinių) vežimo tvarkos reikalavimų pažeidimai, keliantys pavojų žmonėms ir aplinkai, iki jie bus pašalinti.
 
 4. Reikalavimus, kurių turi laikytis transporto priemonių, vežančių keleivius (krovinius), vairuotojai, ir keleivių (krovinių) vežimo tvarką užtikrinant eismo saugumą nustato KET.
+
+5. C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių, jų junginių su priekabomis vairuotojai, ketinantys verstis komerciniu krovinių arba keleivių vežimu, privalo nustatyta tvarka įgyti vairuotojo kvalifikaciją ir ją periodiškai tobulinti.
+
+TAR pastaba. Vairuotojams, kurie teisę vairuoti D1, D1E, D ar DE kategorijų motorines transporto priemones, jų junginius su priekabomis įgijo iki 2008 m. rugsėjo 9 d. (įskaitytinai), ir vairuotojams, kurie teisę vairuoti C1, C1E, C ar CE kategorijų motorines transporto priemones, jų junginius su priekabomis įgijo iki 2009 m. rugsėjo 9 d. (įskaitytinai), 14 straipsnio 5 dalyje nustatytas reikalavimas įgyti vairuotojo kvalifikaciją netaikomas. Vairuotojai, įgiję teisę vairuoti šioje dalyje nurodytų kategorijų transporto priemones iki šioje dalyje nurodytų datų, pageidaujantys vežti krovinius ir (ar) keleivius komerciniais tikslais, privalo užbaigti periodinį profesinį vairuotojų mokymą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 Straipsnio pakeitimai:
 
@@ -1816,7 +1866,7 @@ Nr. XIII-3218, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15754
 
 16) T kategorija – troleibusai, tai yra nebėginės transporto priemonės, sujungtos su išoriniu elektros šaltiniu.
 
-2. Minimalus amžius, nuo kurio leidžiama įgyti teisę vairuoti motorines transporto priemones, jų junginius su priekabomis ir galima išduoti vairuotojo pažymėjimus:
+2. Asmenų, išskyrus šio straipsnio 3 dalyje nurodytus asmenis, minimalus amžius, nuo kurio leidžiama įgyti teisę vairuoti motorines transporto priemones, jų junginius su priekabomis ir galima išduoti vairuotojo pažymėjimą:
 
 1) AM kategorija – 15 metų;
 
@@ -1824,7 +1874,7 @@ Nr. XIII-3218, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15754
 
 3) A2 kategorija – 18 metų;
 
-4) A kategorija – 20 metų, išskyrus teisę vairuoti triračius. Norint įgyti teisę vairuoti A kategorijos motociklus, reikia turėti dvejų metų A2 kategorijos transporto priemonių vairavimo stažą. Reikalavimas turėti dvejų metų A2 kategorijos transporto priemonių vairavimo stažą netaikomas 24 metų sulaukusiems asmenims. Teisė vairuoti triračius, kurių galia didesnė kaip 15 kW, suteikiama nuo 21 metų;
+4) A kategorija – 20 metų, išskyrus teisę vairuoti triračius; norint įgyti teisę vairuoti A kategorijos motociklus, reikia turėti dvejų metų A2 kategorijos transporto priemonių vairavimo stažą; reikalavimas turėti dvejų metų A2 kategorijos transporto priemonių vairavimo stažą netaikomas 24 metų sulaukusiems asmenims; teisė vairuoti triračius, kurių galia didesnė kaip 15 kW, suteikiama asmenims nuo 21 metų;
 
 5) B1 kategorija – 16 metų;
 
@@ -1836,23 +1886,31 @@ Nr. XIII-3218, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15754
 
 9) C1E kategorija – 18 metų;
 
-10) C kategorija – 21 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję pradinę profesinę kvalifikaciją vežti krovinius;
+10) C kategorija – 21 metai;
 
-11) CE kategorija – 21 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję pradinę profesinę kvalifikaciją vežti krovinius;
+11) CE kategorija – 21 metai;
 
-12) D1 kategorija – 21 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję pradinę profesinę kvalifikaciją vežti keleivius;
+12) D1 kategorija – 21 metai;
 
-13) D1E kategorija – 21 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję pradinę profesinę kvalifikaciją vežti keleivius;
+13) D1E kategorija – 21 metai;
 
-14) D kategorija – 24 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję pradinę profesinę kvalifikaciją vežti keleivius;
+14) D kategorija – 24 metai;
 
-15) DE kategorija – 24 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję pradinę profesinę kvalifikaciją vežti keleivius;
+15) DE kategorija – 24 metai;
 
 16) T kategorija – 21 metai;
 
 17) galingieji keturračiai – 18 metų.
 
-3. Minimalus amžius, nuo kurio leidžiama įgyti teisę vairuoti C, CE, D1, D1E, D, DE kategorijų motorines transporto priemones, jų junginius su priekabomis ir galima išduoti vairuotojo pažymėjimus, asmenims, kurie nustatyta tvarka yra įgiję pradinę profesinę kvalifikaciją vežti krovinius (keleivius), yra reglamentuojamas Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
+
+3. Asmenų, įgijusių kvalifikaciją vežti krovinius ar keleivius komerciniais tikslais, minimalus amžius, nuo kurio leidžiama įgyti teisę vairuoti C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorines transporto priemones, jų junginius su priekabomis ir galima išduoti vairuotojo pažymėjimą, nurodytas šio įstatymo 2 priede.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 4. Vairuotojo pažymėjimu patvirtinta teisė vairuoti:
 
@@ -2092,7 +2150,7 @@ saugaus eismo automobilių
 
 keliais įstatymo
 
-priedas
+1 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
@@ -2106,9 +2164,17 @@ priedas
 
 5. 2002 m. kovo 18 d. Europos Parlamento ir Tarybos direktyva 2002/24/EB dėl dviračių ir triračių motorinių transporto priemonių tipo patvirtinimo, panaikinanti Tarybos direktyvą 92/61/EEB (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 399), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1).
 
-6. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva 2003/59/EB dėl tam tikrų kelių transporto priemonių kroviniams ir keleiviams vežti vairuotojų pradinės kvalifikacijos ir periodinio mokymo, iš dalies keičianti Tarybos reglamentą (EEB) Nr. 3820/85 ir Tarybos direktyvą 91/439/EEB bei panaikinanti Tarybos direktyvą 76/914/EEB (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 441), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1).
+6. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva 2003/59/EB dėl tam tikrų kelių transporto priemonių kroviniams ir keleiviams vežti vairuotojų pradinės kvalifikacijos ir periodinio mokymo, iš dalies keičianti Tarybos reglamentą (EEB) Nr. 3820/85 ir Tarybos direktyvą 91/439/EEB bei panaikinanti Tarybos direktyvą 76/914/EEB, su paskutiniais pakeitimais, padarytais 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/645.
 
-7. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų (OL 2006 L 403, p. 18) su paskutiniais pakeitimais, padarytais 2009 m. rugpjūčio 25 d. Komisijos direktyva 2009/113/EB (OL 2009 L 223, p. 31).
+Punkto pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
+
+7. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų su paskutiniais pakeitimais, padarytais 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/645.
+
+Punkto pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 8. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/46/EB, nustatanti motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, sudėtinių dalių ir atskirų techninių mazgų patvirtinimo pagrindus (Pagrindų direktyva) (OL 2007 L 263, p. 1), su paskutiniais pakeitimais, padarytais 2010 m. balandžio 16 d. Komisijos reglamentu (ES) Nr. 371/2010 (OL 2010 L 110, p. 1).
 
@@ -2116,33 +2182,105 @@ priedas
 
 10. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/96/EB dėl kelių infrastruktūros saugumo valdymo su paskutiniais pakeitimais, padarytais 2019 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1936.
 
-Punkto pakeitimai:
-
-Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
-
 11. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/45/ES dėl motorinių transporto priemonių ir jų priekabų periodinės techninės apžiūros, kuria panaikinama Direktyva 2009/40/EB (OL 2014 L 127, p. 51).
-
-Papildyta punktu:
-
-Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 12. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/46/ES, kuria iš dalies keičiama Tarybos direktyva 1999/37/EB dėl transporto priemonių registracijos dokumentų (OL 2014 L 127, p. 129).
 
-Papildyta punktu:
-
-Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
-
 13. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/47/ES dėl Sąjungoje važinėjančių komercinių transporto priemonių techninio patikrinimo kelyje, kuria panaikinama Direktyva 2000/30/EB (OL 2014 L 127, p. 134).
-
-Papildyta punktu:
-
-Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 Priedo pakeitimai:
 
 Nr. XI-261, 2009-05-14, Žin., 2009, Nr. 61-2405 (2009-05-26)
 
 Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
+
+Priedo pakeitimai:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
+
+part_b892bcf9cc934f8f8ced545418bfd78b_end
+
+Lietuvos Respublikos
+
+saugaus eismo automobilių keliais įstatymo
+
+2 priedas
+
+MINIMALUS AMŽIUS, NUO KURIO ASMENIMS, ĮGIJUSIEMS KVALIFIKACIJĄ VEŽTI KROVINIUS AR KELEIVIUS KOMERCINIAIS TIKSLAIS, LEIDŽIAMA ĮGYTI TEISĘ VAIRUOTI C1, C1E, C, CE, D1, D1E, D, DE KATEGORIJŲ MOTORINES TRANSPORTO PRIEMONES, JŲ JUNGINIUS SU PRIEKABOMIS IR GALIMA IŠDUOTI VAIRUOTOJO PAŽYMĖJIMĄ
+
+Motorinių transporto priemonių, jų junginių su priekabomis kategorija
+
+Minimalus amžius, nuo kurio asmenims, įgijusiems kvalifikaciją vežti krovinius ar keleivius komerciniais tikslais, leidžiama įgyti teisę vairuoti C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorines transporto priemones, jų junginius su priekabomis ir galima išduoti vairuotojo pažymėjimą
+
+Galioja Europos Sąjungos teritorijoje
+
+Galioja tik Lietuvos Respublikos teritorijoje
+
+Vairuotojo kvalifikacija
+
+Vairuotojo kvalifikacija, įgyta mokantis pagal atitinkamą profesinio mokymo programą
+
+Vairuotojo kvalifikacija
+
+Vairuotojo kvalifikacija, įgyta mokantis pagal atitinkamą profesinio mokymo programą
+
+Krovinių vežimas
+
+C1
+
+18
+
+18
+
+–
+
+–
+
+C1E
+
+C
+
+18
+
+21
+
+–
+
+–
+
+CE
+
+Keleivių vežimas
+
+D1
+
+21
+
+21
+
+18
+
+–
+
+D1E
+
+D
+
+21
+
+23; 21 (tik vežti keleivius reguliariais reisais, jeigu maršrutas ne ilgesnis kaip 50 km)
+
+20; 18 (vairuojant D ar DE kategorijų motorines transporto priemones, jų junginius su priekabomis, kuriose nėra keleivių)
+
+–
+
+DE
+
+Papildyta priedu:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
+
+part_59362a37ed3d44d5b4abb17c72a05387_end
 
 Pakeitimai:
 
@@ -2243,6 +2381,12 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 4. Lietuvos techninės apžiūros įmonių asociacija prireikus teikia šio straipsnio 2 dalyje nurodytus duomenis kitoms Europos ekonominės erdvės šalių įgaliotoms institucijoms, taip pat prireikus gauna iš šių institucijų su technine apžiūra susijusius duomenis.
 
 5. Su eismo saugumo sritimi susiję registrai ir valstybės informacinės sistemos valdomi ir tvarkomi vadovaujantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu. Su eismo saugumo sritimi susijusiuose registruose, valstybės informacinėse sistemose ir duomenų bazėse kaupiami asmens duomenys tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+
+6. Kai yra techninės galimybės, tikrinantys pareigūnai, vykdydami eismo priežiūrą, gali vairuotojo pažymėjimo, vairuotojo kvalifikacijos kortelės, vairuotojo liudijimo ir kitų dokumentų galiojimą ir šiuose dokumentuose įrašytus duomenis patikrinti naudodami su eismo saugumo sritimi susijusius registrus, valstybės informacines sistemas, duomenų bazes ir Europos Sąjungos vairuotojo pažymėjimų tinklą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 Papildyta straipsniu:
 
@@ -2419,4 +2563,46 @@ Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 KETVIRTASIS SKIRSNIS
 
 EISMO DALYVIAI
+
+221 straipsnis. C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių, jų junginių su priekabomis vairuotojų, ketinančių verstis komerciniu krovinių arba keleivių vežimu, kvalifikacijos reikalavimai ir jų taikymo išimtys, vairuotojo kvalifikacijos įgijimas ir jos periodinis tobulinimas
+
+1. Vairuotojo kvalifikacija įgyjama baigus pradinį profesinį vairuotojų mokymą (formaliojo profesinio mokymo programą) ir gavus kvalifikacijai reikalingų kompetencijų įvertinimą (išlaikius vairuotojo kvalifikacijos egzaminą). Išlaikiusių kvalifikacijos egzaminą vairuotojų kvalifikacijos įgijimas patvirtinamas švietimo, mokslo ir sporto ministro nustatytos formos profesinio mokymo diplomu, kuris laikomas ir vairuotojo kvalifikacijos pažymėjimu. Vairuotojų kvalifikacija tobulinama mokantis pagal periodinio profesinio vairuotojų mokymo programą. Periodinio profesinio vairuotojų mokymo (neformaliojo profesinio mokymo programos) baigimas patvirtinamas švietimo, mokslo ir sporto ministro nustatytos formos pažymėjimu, kuris laikomas ir vairuotojo profesinės kvalifikacijos periodinio tobulinimo pažymėjimu.
+
+2. Šio įstatymo 14 straipsnio 5 dalyje nurodyti reikalavimai netaikomi:
+
+1) transporto priemonių, kurių didžiausiasis leistinas greitis ne didesnis kaip 45 km/h, vairuotojams;
+
+2) ginkluotųjų pajėgų, civilinės mobilizacijos institucijų, civilinės saugos sistemos pajėgų, valstybinės priešgaisrinės gelbėjimo tarnybos ir savivaldybių priešgaisrinių tarnybų, už viešosios tvarkos palaikymą atsakingų pajėgų ir greitosios medicinos pagalbos įstaigų naudojamų arba kontroliuojamų transporto priemonių vairuotojams, kai vežimas yra tiesiogiai susijęs su toms tarnyboms paskirtomis užduotimis;
+
+3) transporto priemonių, naudojamų atliekant techninio tobulinimo, remonto ar techninės priežiūros bandymus kelyje, taip pat naujų ar suremontuotų transporto priemonių, kurios dar nepradėtos eksploatuoti, vairuotojams;
+
+4) transporto priemonių, kurios naudojamos paskelbus nepaprastąją padėtį arba skiriamos gelbėjimo darbams, įskaitant nekomerciniam humanitarinės pagalbos vežimui naudojamas transporto priemones, vairuotojams;
+
+5) transporto priemonių, kurios naudojamos visų asmenų, siekiančių įgyti teisę vairuoti, gauti vairuotojo kvalifikacijos pažymėjimą ar vairuotojo profesinės kvalifikacijos periodinio tobulinimo pažymėjimą, mokymui vairuoti ir egzaminavimui, jeigu tos transporto priemonės nenaudojamos komerciniam krovinių ir keleivių vežimui, vairuotojams, taip pat asmenims, norintiems gauti vairuotojo kvalifikacijos pažymėjimą arba vairuotojo profesinės kvalifikacijos periodinio tobulinimo pažymėjimą, jeigu toks asmuo papildomai mokosi vairuoti mokydamasis darbo vietoje ir jeigu jį lydi kitas vairuotojo kvalifikaciją patvirtinantį pažymėjimą turintis asmuo;
+
+6) transporto priemonių, kurios naudojamos nekomerciniam krovinių arba keleivių vežimui, vairuotojams;
+
+7) transporto priemonių, kuriomis vežamos medžiagos, mechanizmai arba įranga, kuriuos vairuotojas naudoja atlikdamas savo darbą, vairuotojams, jeigu toks transporto priemonės vairavimas nėra pagrindinė vairuotojo veikla;
+
+8) transporto priemonių, kurioms vairuoti būtina turėti D arba D1 kategorijos transporto priemonių vairuotojo pažymėjimą, kuriose nėra keleivių ir kurias techninės priežiūros personalas vairuoja į artimiausią techninės priežiūros centrą, kuriuo naudojasi vežėjas, arba iš jo, su sąlyga, kad transporto priemonės vairavimas nėra pagrindinė vairuotojo veikla, vairuotojams;
+
+9) jeigu įvykdomos visos šios sąlygos: vairuotojai transporto priemones naudoja kaimo gyvenamosiose vietovėse kroviniams pristatyti į vairuotojui nuosavybės teise priklausančią įmonę, neteikia transporto paslaugų, o transporto veikla yra nenuolatinė ir neturi poveikio eismo saugumui;
+
+10) žemės ūkio, sodininkystės, miškų ūkio, gyvulininkystės ar žuvininkystės įmonių naudojamų arba jų išsinuomotų be vairuotojo transporto priemonių, kurios naudojamos su šių įmonių veikla susijusiam krovinių vežimui, vairuotojams, išskyrus atvejus, kai vairavimas yra pagrindinė vairuotojo veikla.
+
+3. Prieš gaudamas vairuotojo kvalifikacijos pažymėjimą, vairuotojas neprivalo įgyti teisės vairuoti tam tikras šio įstatymo 14 straipsnio 5 dalyje nurodytų kategorijų transporto priemones, bet privalo turėti teisę vairuoti B kategorijos motorines transporto priemones. Vairuotojai kartu su pradiniu profesiniu vairuotojų mokymu gali įgyti teisę vairuoti atitinkamos (atitinkamų) kategorijos (kategorijų) motorinę (motorines) transporto priemonę (priemones).
+
+4. Vairuotojai, turintys vairuotojo kvalifikacijos pažymėjimą arba vairuotojo profesinės kvalifikacijos periodinio tobulinimo pažymėjimą, patvirtinančius kvalifikaciją vežti krovinius, ir teisę vairuoti bent vienos kategorijos (C1, C1E, C arba CE) transporto priemonę, neprivalo pakartotinai įgyti vairuotojo kvalifikacijos pažymėjimo arba vairuotojo profesinės kvalifikacijos periodinio tobulinimo pažymėjimo, kai siekia įgyti teisę vairuoti kitos kategorijos motorinę transporto priemonę kroviniams vežti. Analogiška nuostata taikoma ir vairuotojams, turintiems vairuotojo kvalifikacijos pažymėjimą arba vairuotojo profesinės kvalifikacijos periodinio tobulinimo pažymėjimą, patvirtinančius kvalifikaciją vežti keleivius, ir teisę vairuoti bent vienos kategorijos (D1, D1E, D arba DE) transporto priemonę.
+
+5. Šio įstatymo 14 straipsnio 5 dalyje nurodyti vairuotojai kas 5 metus privalo užbaigti periodinį profesinį vairuotojų mokymą Europos Sąjungos valstybėje narėje, kurioje jie nuolat gyvena, arba Europos Sąjungos valstybėje narėje, kurioje dirba. Jeigu vairuotojas nustatytu laiku neužbaigia periodinio profesinio vairuotojų mokymo, vairuotojui draudžiama verstis komerciniu krovinių arba keleivių vežimu tol, kol jis užbaigs šį mokymą.
+
+6. Vairuotojų, kuriuos įdarbina Lietuvos Respublikos vežėjai vežti krovinius arba keleivius Europos Sąjungos teritorijos keliais, kvalifikaciją arba kvalifikacijos tobulinimą patvirtina vairuotojo pažymėjime įrašyti suderintas Europos Sąjungos kodas (95) ir data, iki kurios galioja vairuotojo kvalifikacija, arba vairuotojo kvalifikacijos kortelė. Vairuotojų, kurie nėra Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių piliečiai ir kuriuos įdarbina Lietuvos Respublikos vežėjai vežti krovinius Europos Sąjungos teritorijos keliais, kvalifikaciją arba kvalifikacijos tobulinimą patvirtina susisiekimo ministro įgaliotos institucijos išduodami vairuotojo liudijimai. Asmenims, vairuotojo pažymėjimą gavusiems Lietuvos Respublikoje, į vairuotojo pažymėjimą šalia atitinkamų kategorijų įrašomi suderintas Europos Sąjungos kodas (95) ir data, iki kurios galioja vairuotojo kvalifikacija.
+
+7. Jeigu Europos Sąjungos kodo (95) negalima nurodyti vairuotojo pažymėjime, vairuotojui išduodama vairuotojo kvalifikacijos kortelė. Lietuvos Respublikoje pripažįstamos kitų Europos Sąjungos valstybių narių išduotos vairuotojo kvalifikacijos kortelės. Valstybės įmonė „Regitra“, išduodama vairuotojo kvalifikacijos kortelę, patikrina teisės vairuoti tam tikros kategorijos transporto priemones galiojimą, nurodytą vairuotojo pažymėjime.
+
+8. Vairuotojai, turintys vairuotojo kvalifikacijos pažymėjimą arba vairuotojo profesinės kvalifikacijos periodinio tobulinimo pažymėjimą, arba šio įstatymo 14 straipsnio 5 dalyje nurodyti vairuotojai, kurie nustojo verstis komerciniu krovinių arba keleivių vežimu ir kurie neatitinka šio straipsnio 5 dalies reikalavimų, prieš pradėdami vėl verstis komerciniu krovinių arba keleivių vežimu, privalo užbaigti periodinį profesinį vairuotojų mokymą.
+
+Papildyta straipsniu:
+
+Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
