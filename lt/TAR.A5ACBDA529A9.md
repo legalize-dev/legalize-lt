@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2021-01-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -711,7 +711,11 @@ APMOKESTINAMOJO PELNO APSKAIČIAVIMO TVARKA
 
 3. Užsienio vieneto apmokestinamąjį pelną, neuždirbtą per nuolatines buveines, sudaro visos gautos pajamos, kurių šaltinis yra Lietuvos Respublikoje, ir šio Įstatymo 37 straipsnyje nustatyta prievolė jas apmokestinti prie šaltinio be jokių atskaitymų.
 
-4. Išlaidos, kurių pagrindu pripažįstamos sąnaudos, gali būti grindžiamos tik juridinę galią turinčiais dokumentais, kurie privalo turėti visus buhalterinę apskaitą reglamentuojančių teisės aktų nustatytus privalomus apskaitos dokumentų rekvizitus. Be šių rekvizitų, išlaidas, kurių pagrindu pripažįstamos sąnaudos, pagrindžiančiuose dokumentuose privalo būti nurodyti ir kiti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyti papildomi rekvizitai.
+4. Išlaidos, kurių pagrindu pripažįstamos sąnaudos, gali būti grindžiamos tik dokumentais, kurie privalo turėti finansinę apskaitą reglamentuojančių teisės aktų nustatytą privalomą finansinės apskaitos dokumentų informaciją. Be šios informacijos, išlaidų, kurių pagrindu pripažįstamos sąnaudos, pagrindimo dokumentuose privalo būti nurodyta ir kita Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta informacija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
 
 5. Neteko galios nuo 2005-06-30.
 
@@ -1061,21 +1065,23 @@ MOKESTINIŲ NUOSTOLIŲ PERDAVIMAS
 
 Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
-57 straipsnis. Buhalterinės apskaitos tvarkymo reikalavimai
+57 straipsnis. Finansinės apskaitos tvarkymo reikalavimai
 
-1. Mokesčio mokėtojų buhalterinė apskaita privalo būti tvarkoma taip, kad ji teiktų pakankamą informaciją pelno mokesčiui apskaičiuoti.
+1. Mokesčio mokėtojų finansinė apskaita privalo būti tvarkoma taip, kad ji teiktų pakankamą informaciją pelno mokesčiui apskaičiuoti.
 
-2. Mokesčio mokėtojai apskaitą tvarko ir finansinių ataskaitų rinkinius sudaro vadovaudamiesi Lietuvos Respublikos buhalterinės apskaitos įstatymu ir kitais teisės aktais.
+2. Mokesčio mokėtojai finansinę apskaitą tvarko vadovaudamiesi Finansinės apskaitos įstatymu ir kitais teisės aktais, reglamentuojančiais finansinės apskaitos tvarkymą.
 
-3. Pelno mokesčiui skaičiuoti vienetas gali naudoti buhalterinėje apskaitoje naudojamus visuotinai pripažintus pajamų, sąnaudų pripažinimo, atsargų įkainojimo metodus, jei šis Įstatymas nenustato ko kita.
-
-4. Apskaičiuojant pelno mokestį, atsargos apskaitomos „pirmasis į – pirmasis iš (FIFO)“ metodu. Centrinio mokesčio administratoriaus nustatyta tvarka mokesčio mokėtojo prašymu ir atsižvelgdamas į jo veiklos ypatybes vietos mokesčio administratorius gali leisti apskaityti atsargas taikant tą buhalterinę apskaitą reglamentuojančių teisės aktų numatytą metodą, kurį vienetas taiko sudarydamas finansinių ataskaitų rinkinį.
+3. Pelno mokesčiui skaičiuoti vienetas gali naudoti finansinėje apskaitoje naudojamus visuotinai pripažintus pajamų, sąnaudų pripažinimo, atsargų įkainojimo būdus, jeigu šis Įstatymas nenustato ko kita.
 
 Straipsnio pakeitimai:
 
 Nr. IX-1659, 2003-07-01, Žin., 2003, Nr. 74-3417 (2003-07-25)
 
 Nr. XI-1716, 2011-11-22, Žin., 2011, Nr. 146-6852 (2011-12-01)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
 
 XII SKYRIUS
 
@@ -1431,7 +1437,11 @@ Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 
 7 straipsnis. Pajamų ir sąnaudų pripažinimas
 
-1. Pajamos ir sąnaudos pripažįstamos pagal pajamų ir sąnaudų kaupimo bei kitus buhalterinę apskaitą reglamentuojančiuose teisės aktuose nustatytus apskaitos principus, išskyrus atvejus, kai pagal šio skyriaus nuostatas pajamos gali būti pripažįstamos taikant pinigų apskaitos principą, ir šio straipsnio nuostatas.
+1. Pajamos ir sąnaudos pripažįstamos pagal pajamų ir sąnaudų kaupimo bei kitus finansinę apskaitą reglamentuojančiuose teisės aktuose nustatytus apskaitos principus, išskyrus atvejus, kai pagal šio skyriaus nuostatas pajamos gali būti pripažįstamos taikant pinigų apskaitos principą, ir šio straipsnio nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
 
 2. Neigiama prestižo vertė priskiriama pajamoms jos įsigijimo momentu, jei šiame straipsnyje nenustatyta kitaip.
 
@@ -1473,7 +1483,11 @@ Nr. X-1110, 2007-05-03, Žin., 2007, Nr. 55-2126 (2007-05-19)
 
 13) kitos nesusiję su pajamų uždirbimu ir neįprastinės vieneto vykdomai veiklai sąnaudos bei sąnaudos, nelaikomos leidžiamais atskaitymais pagal šį Įstatymą;
 
-14) praėjusių mokestinių laikotarpių klaidų ir netikslumų taisymai pagal Lietuvos Respublikos buhalterinės apskaitos įstatymo 18 straipsnį;
+14) praėjusių mokestinių laikotarpių klaidų ir netikslumų taisymai pagal finansinės apskaitos tvarkymą reglamentuojančius teisės aktus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
 
 15) sąnaudos dėl turto ir įsipareigojimų, išskyrus sąnaudas dėl išvestinių finansinių priemonių, įsigytų rizikai drausti, perkainojimo, atlikto teisės aktų nustatyta tvarka;
 
@@ -1657,7 +1671,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
-11) praėjusių mokestinių laikotarpių klaidų ir netikslumų taisymai pagal Lietuvos Respublikos buhalterinės apskaitos įstatymo 18 straipsnį;
+11) praėjusių mokestinių laikotarpių klaidų ir netikslumų taisymai pagal finansinės apskaitos tvarkymą reglamentuojančius teisės aktus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
 
 12) vieneto gautas žalos atlyginimas, išskyrus šio straipsnio 2 punkte nustatytais atvejais;
 
@@ -2581,11 +2599,13 @@ Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 
 5. Europos ekonominių interesų grupės dalyvis iš savo pajamų atskaito tas Europos ekonominių interesų grupės sąnaudas, kurios pagal šio Įstatymo nuostatas priskiriamos leidžiamiems atskaitymams ir ribojamų dydžių leidžiamiems atskaitymams.
 
-6. Priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos išreiškiamos eurais taikant euro ir užsienio valiutos santykį, nustatytą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą pajamų ir sąnaudų priskyrimo dieną.
+6. Priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos išreiškiamos eurais taikant euro ir užsienio valiutos santykį, nustatytą pagal Lietuvos Respublikos finansinės apskaitos įstatymą pajamų ir sąnaudų priskyrimo dieną.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
+
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
 
 7. Europos ekonominių interesų grupės dalyvis į savo pajamas neįtraukia iš Europos ekonominių interesų grupės gauto pelno ar jo dalies.
 
