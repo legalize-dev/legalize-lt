@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2022-03-31"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2022-03-31 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-08-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -1115,6 +1115,14 @@ Nr. XIV-738, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25851
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 14, 84 straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
 
+48.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-977, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06313
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -1579,7 +1587,11 @@ Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
 
 6. Kontrolieriumi skiriamas nepriekaištingos reputacijos asmuo, turintis mokslo (meno) daktaro laipsnį ir vadovaujamo darbo patirties.
 
-7. Kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis arba skiriamomis pareigomis valstybės ir savivaldybių institucijose, taip pat su darbu kitose įstaigose, įmonėse, organizacijose. Kontrolierius negali gauti jokio kito atlyginimo, išskyrus atlyginimą už kūrybinę veiklą.
+7. Kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis arba skiriamomis pareigomis valstybės ir savivaldybių institucijose, taip pat su darbu kitose įstaigose, įmonėse, organizacijose. Kontrolierius negali gauti jokio kito atlyginimo, išskyrus atlyginimą už kūrybinę veiklą ir dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose projektuose, kurie yra susiję su akademine etika ir Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos veiklos tobulinimu ir kuriuose nedalyvauja Lietuvos mokslo ir studijų institucijose dirbantys asmenys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-977, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06313
 
 8. Kontrolieriaus veikla grindžiama teisėtumo, nešališkumo, teisingumo ir viešumo principais.
 
