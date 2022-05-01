@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2022-01-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-07-14
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -2905,7 +2905,7 @@ LIETUVOS RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS TARYBOS
 
-PIRMININKO PAVADUOTOJAS                                                       BRONISLOVAS KUZMICKAS
+PIRMININKO PAVADUOTOJAS                                                        BRONISLOVAS KUZMICKAS
 
 Vilnius, 1992 m. sausio 21 d.
 
@@ -2974,6 +2974,8 @@ Nr. XII-287, 2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
 Priedo pakeitimai:
 
 Nr. XIII-2799, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02851
+
+part_5e2c185096a944d8a95be0108b24fbf5_end
 
 Pakeitimai:
 
@@ -3281,6 +3283,14 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 36, 37, 47 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 94-1, 95-1, 100-1, 102-1, 108-2, 128-1 straipsniais įstatymas
 
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-489, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15888
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 papildymo 85-1 straipsniu įstatymas
+
 193 straipsnis. Įrenginių registravimas
 
 Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame straipsnyje suprantamas kaip stacionarus technikos objektas, kuriame vykdant aplinkos ministro patvirtintose Lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikrų veiklos rūšių įrenginiuose, išmetimo ribojimo ir įrenginių registravimo taisyklėse (toliau – LOJ taisyklės) nurodytą vienos arba kelių rūšių veiklą, taip pat kitą toje pačioje vietoje vykdomą tiesiogiai techniškai susijusią veiklą, kurios metu išmetami lakieji organiniai junginiai, suvartojamas organinio tirpiklio kiekis atitinka LOJ taisyklėse nurodytąjį. Šios taisyklės nustato įrenginių įregistravimo, registracijos duomenų teikimo, tikslinimo ir įrenginių išregistravimo tvarką.
@@ -3560,4 +3570,14 @@ IX SKYRIUS. LIETUVOS RESPUBLIKOS TARPTAUTINIS BENDRADARBIAVIMAS APLINKOS APSAUGO
 Skyriaus numeracijos pakeitimas:
 
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
+
+851 straipsnis. Juridinių asmenų atsakomybė už Atliekų tvarkymo įstatyme nustatytų atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo reikalavimų ar aplinkos ministro nustatytos atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo tvarkos pažeidimą
+
+Atliekų tvarkymo įstatyme nustatytų atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo reikalavimų ar aplinkos ministro nustatytos atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo tvarkos pažeidimas užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
+
+Papildyta straipsniu:
+
+Nr. XIV-489, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15888
 
