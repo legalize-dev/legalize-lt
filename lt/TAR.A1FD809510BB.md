@@ -4,7 +4,7 @@ identifier: "TAR.A1FD809510BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-06-29"
-last_updated: "2021-12-04"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A1FD809510BB"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "32 straipsnis įsigalioja 2012-07-14"
 
 LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2021-12-04 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
 
@@ -263,11 +263,19 @@ Mažosios bendrijos narių susirinkimas turi išimtinę teisę:
 
 5) priimti sprendimą dėl nepiniginio įnašo vertės, jo įnešimo sąlygų ir terminų;
 
-6) priimti sprendimą dėl mažosios bendrijos nario ar kito asmens, kuris tvarkys mažosios bendrijos apskaitą;
+6) priimti sprendimą dėl mažosios bendrijos nario ar kito asmens, kuris tvarkys mažosios bendrijos finansinę apskaitą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
 
 7) spręsti, ar mažajai bendrijai reikalingi darbuotojai. Jeigu taip, – nustatyti mažosios bendrijos struktūrą, etatų sąrašą ir darbuotojams mokamų atlyginimų dydžius;
 
-8) tvirtinti finansinių ataskaitų rinkinį;
+8) tvirtinti finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
 
 9) priimti sprendimą dėl pelno (nuostolių) paskirstymo;
 
@@ -403,7 +411,11 @@ Mažosios bendrijos narių susirinkimo sprendimas laikomas priimtu, kai už jį 
 
 5) inicijuoja turto išieškojimą iš mažosios bendrijos narių ir buvusių mažosios bendrijos narių, neįvykdžiusių šio įstatymo 26 straipsnio 6 dalyje nustatytų pareigų;
 
-6) organizuoja mažosios bendrijos apskaitą, finansinių ataskaitų rinkinio sudarymą ir apskaitos dokumentų išsaugojimą;
+6) organizuoja mažosios bendrijos finansinę apskaitą, finansinių ataskaitų rinkinio sudarymą ir apskaitos dokumentų išsaugojimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
 
 7) teikia Juridinių asmenų registro tvarkytojui mažosios bendrijos dokumentus, duomenis ir kitą Juridinių asmenų registro tvarkytojui teiktiną informaciją;
 
@@ -481,13 +493,17 @@ V SKYRIUS
 
 MAŽOSIOS BENDRIJOS FINANSINĖ ATSKAITOMYBĖ IR PELNO PASKIRSTYMAS
 
-23 straipsnis. Mažosios bendrijos apskaita ir finansinė atskaitomybė
+23 straipsnis. Mažosios bendrijos finansinė apskaita ir finansinė atskaitomybė
 
-1. Mažosios bendrijos buhalterinę apskaitą, jos organizavimą bei tvarkymą ir finansinių ataskaitų rinkinių sudarymą nustato įstatymai ir kiti teisės aktai.
+1. Mažosios bendrijos finansinę apskaitą, jos organizavimą bei tvarkymą ir finansinių ataskaitų rinkinių sudarymą nustato Lietuvos Respublikos finansinės apskaitos įstatymas ir Lietuvos Respublikos įmonių atskaitomybės įstatymas.
 
 2. Finansinių ataskaitų rinkinius mažoji bendrija sudaro šio įstatymo 11 straipsnio 3 dalyje, šio straipsnio 3 dalyje ir 26 straipsnio 3 dalyje nustatytais atvejais.
 
-3. Mažoji bendrija turi sudaryti metinių finansinių ataskaitų rinkinį. Mažosios bendrijos metinių finansinių ataskaitų rinkinys ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos turi būti patvirtintas mažosios bendrijos narių susirinkime ir pateiktas Juridinių asmenų registro tvarkytojui.
+3. Mažoji bendrija turi sudaryti metinių finansinių ataskaitų rinkinį. Mažosios bendrijos metinių finansinių ataskaitų rinkinys ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos turi būti patvirtintas mažosios bendrijos narių susirinkime, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama, ir pateiktas Juridinių asmenų registro tvarkytojui. Kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama, jos nepatvirtintas metinių finansinių ataskaitų rinkinys Juridinių asmenų registro tvarkytojui pateikiamas per 4 mėnesius nuo finansinių metų pabaigos.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
 
 24 straipsnis. Mažosios bendrijos narių gaunamos išmokos kaip avansu išmokamas pelnas
 
@@ -691,7 +707,11 @@ Nr. XII-1075, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10456
 
 1) Juridinių asmenų registro tvarkytojui pateikti duomenis apie save (kiekvieno likvidatoriaus vardą, pavardę, asmens kodą, gyvenamąją vietą; jeigu sudaroma likvidacinė komisija, nurodomas jos pirmininkas) ir ne vėliau kaip pirmą viešo paskelbimo apie priimtą sprendimą likviduoti mažąją bendriją dieną pateikti dokumentus, patvirtinančius sprendimo likviduoti mažąją bendriją priėmimą;
 
-2) sudaryti laikotarpio, kurio pradžia sutampa su mažosios bendrijos finansinių metų pradžia, o pabaiga – su sprendimo likviduoti mažąją bendriją priėmimo diena (kai sprendimą priima teismas – sprendimo įsiteisėjimo diena), mažosios bendrijos balansą;
+2) neteko galios nuo 2022-05-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
 
 3) baigti vykdyti mažosios bendrijos prievoles, atsiskaityti su likviduojamos mažosios bendrijos kreditoriais;
 
