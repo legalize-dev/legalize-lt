@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2022-05-01"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-05-06
+Suvestinė redakcija nuo 2022-05-07 iki 2022-05-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -1322,7 +1322,7 @@ Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
 
 7) leidimas nugriauti statinį – ypatingojo ar neypatingojo statinio griovimui, išskyrus atvejus, kai statinys griaunamas vykdant teismo sprendimą ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomąjį nurodymą, griaunamas krašto apsaugos tikslams skirtose teritorijose esantis neypatingasis statinys arba nedarant fizinės įtakos kitiems savininkams priklausančio turto būklei išardomos (pašalinamos) statinio dalys, likusios po statinio avarijos ar stichinės nelaimės, pašalinamos sunykusio, sugriuvusio statinio likusios dalys, nugriaunamas atskirai stovintis neypatingasis statinys, pastatytas ne anksčiau kaip prieš 50 metų ir nepatenkantis į kultūros paveldo objekto teritoriją ar kultūros paveldo vietovę;
 
-TAR pastaba. 27 straipsnio 1 dalies 7 punkto redakcija galioja nuo 2027-01-01:
+27 straipsnio 1 dalies 7 punkto redakcija, įsigaliojanti 2027-01-01:
 
 7) leidimas nugriauti statinį – ypatingojo ar neypatingojo statinio griovimui, išskyrus atvejus, kai statinys griaunamas vykdant teismo sprendimą ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomąjį nurodymą, griaunamas krašto apsaugos tikslams skirtose teritorijose esantis neypatingasis statinys arba nedarant fizinės įtakos kitiems savininkams priklausančio turto būklei išardomos (pašalinamos) statinio dalys, likusios po statinio avarijos ar stichinės nelaimės, pašalinamos sunykusio, sugriuvusio statinio likusios dalys, nugriaunamas atskirai stovintis neypatingasis statinys;
 
@@ -1573,6 +1573,12 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 Papildyta straipsnio dalimi:
 
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
+
+34. Lietuvos Respublikoje įvedus nepaprastąją padėtį, statiniai, kurie Vyriausybės sprendimu pripažįstami statiniais, tiesiogiai susijusiais su nepaprastosios padėties įvedimo tikslais ir priemonėmis, gali būti pradėti statyti neturint statybą leidžiančio dokumento.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 
 28 straipsnis. Statybos užbaigimas
 
