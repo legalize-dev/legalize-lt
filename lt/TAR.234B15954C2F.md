@@ -4,7 +4,7 @@ identifier: "TAR.234B15954C2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-11"
-last_updated: "2022-01-31"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
-Suvestinė redakcija nuo 2022-01-31 iki 2022-05-06
+Suvestinė redakcija nuo 2022-05-07 iki 2022-05-25
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
 
@@ -931,6 +931,14 @@ Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 1, 2, 6, 7, 8, 11, 12, 20, 21, 22, 25 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 11-1, 24-1  straipsniais įstatymo Nr. XIII-735 pakeitimo įstatymas
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 1, 2, 6, 7, 11, 12, 20, 21, 22, 24-1, 24-2 straipsnių ir priedo pakeitimo įstatymas
+
 2. Klinikiniams tyrimams su medicinos priemone taikomi šio įstatymo 2 straipsnio 4, 6, 7, 9, 10, 13–16 ir 26 dalys, 4 straipsnio 3 ir 4 punktas, 6 straipsnio 1 dalies 1, 2, 4, 5, 7 punktai, 3 ir 4 dalys, 7 straipsnio 3 ir 4 dalys, 11 straipsnio 5 dalis, 12 straipsnio 31 ir 4 dalys, 21 straipsnio 1 dalis, 2 dalies 13 punktas ir 3–7 dalys, 22 straipsnio 1–4 dalys, 5 dalies 3 punktas, 241 straipsnis, 25 straipsnio 6 dalis ir 26 straipsnis ir Reglamento (ES) 2017/745 reikalavimai.
 
 Papildyta straipsnio dalimi:
@@ -962,6 +970,12 @@ Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 5. Lietuvos bioetikos komitetas Reglamento (ES) Nr. 536/2014 44 straipsnyje nustatyta tvarka dalyvauja vertinant Reglamento (ES) Nr. 536/2014 42 ir 43 straipsniuose nurodytą informaciją.
 
 6. Lietuvos bioetikos komitetas kreipiasi į Valstybinę vaistų kontrolės tarnybą, prašydamas imtis Reglamento (ES) Nr. 536/2014 77 straipsnyje numatytų priemonių, kai turi duomenų, kad nesilaikoma Reglamente (ES) Nr. 536/2014 nustatytų reikalavimų.
+
+7. Valstybinė vaistų kontrolės tarnyba sveikatos apsaugos ministro nustatyta tvarka atlieka patikrinimus, kuriais siekiama įvertinti klinikinių vaistinių preparatų tyrimų atitiktį Reglamente (ES) Nr. 536/2014 nustatytiems reikalavimams ir kitiems teisės aktams, reglamentuojantiems klinikinius vaistinių preparatų tyrimus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 Papildyta straipsniu:
 
