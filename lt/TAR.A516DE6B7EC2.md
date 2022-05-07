@@ -4,7 +4,7 @@ identifier: "TAR.A516DE6B7EC2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-22"
-last_updated: "2022-01-01"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A516DE6B7EC2"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS ENERGIJOS IŠTEKLIŲ RINKOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-05-06
+Suvestinė redakcija nuo 2022-05-07 iki 2023-04-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 63-3164, i. k. 1121010ISTA0XI-2023
 
@@ -164,7 +164,11 @@ Nr. XIV-629, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24221
 
 5) energijos išteklių biržos operatoriaus teikimu tvirtina Energijos išteklių biržos reglamentą;
 
-6) energijos išteklių biržos operatoriaus teikimu derina energijos išteklių biržos operatoriaus tvirtinamas jo veiklos ketvirčio ir metines ataskaitas, taip pat energijos išteklių biržos ataskaitos formas, teikia pasiūlymus ir nurodymus dėl ataskaitose nurodytų duomenų patikslinimo ar papildomų duomenų pateikimo;
+6) energijos išteklių biržos operatoriaus teikimu derina energijos išteklių biržos operatoriaus tvirtinamas jo veiklos ketvirčio ataskaitos ir veiklos metinės ataskaitos formas, taip pat derina veiklos metinę ataskaitą, teikia pasiūlymus ir nurodymus dėl energijos išteklių biržos operatoriaus veiklos ataskaitose nurodytų duomenų patikslinimo ar papildomų duomenų pateikimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1068, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09677
 
 7) energijos išteklių biržos operatoriaus teikimu derina jo nustatomus įkainius už energijos išteklių biržos operatoriaus energijos išteklių biržos dalyviams teikiamas paslaugas;
 
@@ -645,6 +649,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-629, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24221
 
 Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 24, 28-1, 29, 30 straipsnių pakeitimo ir septintojo skirsnio pripažinimo netekusiu galios įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1068, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09677
+
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 8, 13, 17 ir 18 straipsnių pakeitimo įstatymas
 
 171 straipsnis. Atsiskaitymas pagal energijos išteklių biržoje sudarytus sandorius
 
