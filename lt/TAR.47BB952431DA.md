@@ -4,7 +4,7 @@ identifier: "TAR.47BB952431DA"
 country: "lt"
 rank: "konstitucija"
 publication_date: "1992-10-25"
-last_updated: "2019-09-01"
+last_updated: "2022-05-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
 department: "Piliečių referendumas"
@@ -14,7 +14,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Konstitucija
 
-Suvestinė redakcija nuo 2019-09-01 iki 2022-05-21
+Suvestinė redakcija nuo 2022-05-22
 
 Konstitucija paskelbtas: Lietuvos aidas 1992, Nr. 220-0; Žin. 1992, Nr.33-1014, i. k. 0921010KONSRG922324
 
@@ -476,7 +476,11 @@ Seimo narių rinkimų tvarką nustato įstatymas.
 
 56 straipsnis
 
-Seimo nariu gali būti renkamas Lietuvos Respublikos pilietis, kuris nesusijęs priesaika ar pasižadėjimu užsienio valstybei ir rinkimų dieną yra ne jaunesnis kaip 25 metų bei nuolat gyvena Lietuvoje.
+Seimo nariu gali būti renkamas Lietuvos Respublikos pilietis, kuris nesusijęs priesaika ar pasižadėjimu užsienio valstybei ir rinkimų dieną yra ne jaunesnis kaip 21 metų bei nuolat gyvena Lietuvoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1030, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08144
 
 Seimo nariais negali būti renkami asmenys, nebaigę atlikti bausmės pagal teismo paskirtą nuosprendį, taip pat asmenys, teismo pripažinti neveiksniais.
 
@@ -604,7 +608,11 @@ Seimas:
 
 11) skiria ir atleidžia valstybės kontrolierių, Lietuvos banko valdybos pirmininką;
 
-12) skiria savivaldybių tarybų rinkimus;
+12) skiria savivaldybių tarybų ir savivaldybių merų rinkimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1028, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08142
 
 13) sudaro Vyriausiąją rinkimų komisiją ir keičia jos sudėtį;
 
@@ -673,6 +681,12 @@ Prireikus Seimas steigia ir kitas kontrolės institucijas. Jų sistemą ir įgal
 74 straipsnis
 
 Respublikos Prezidentą, Konstitucinio Teismo pirmininką ir teisėjus, Aukščiausiojo Teismo pirmininką ir teisėjus, Apeliacinio teismo pirmininką ir teisėjus, Seimo narius, šiurkščiai pažeidusius Konstituciją arba sulaužiusius priesaiką, taip pat paaiškėjus, jog padarytas nusikaltimas, Seimas 3/5 visų narių balsų dauguma gali pašalinti iš užimamų pareigų ar panaikinti Seimo nario mandatą. Tai atliekama apkaltos proceso tvarka, kurią nustato Seimo statutas.
+
+Asmuo, kurį Seimas už šiurkštų Konstitucijos pažeidimą arba priesaikos sulaužymą apkaltos proceso tvarka pašalino iš užimamų pareigų ar panaikino jo Seimo nario mandatą, gali užimti Konstitucijoje nurodytas pareigas, kurių ėjimo pradžia pagal Konstituciją yra susieta su Konstitucijoje numatytos priesaikos davimu, kai nuo Seimo sprendimo, kuriuo jis buvo pašalintas iš užimamų pareigų ar panaikintas jo Seimo nario mandatas, yra praėję ne mažiau kaip dešimt metų.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1029, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08143
 
 75 straipsnis
 
@@ -1136,19 +1150,15 @@ VIETOS SAVIVALDA IR VALDYMAS
 
 119 straipsnis
 
-Savivaldos teisė laiduojama įstatymo numatytiems valstybės teritorijos administraciniams vienetams. Ji įgyvendinama per atitinkamas savivaldybių tarybas.
+Savivaldos teisė laiduojama įstatymo numatytiems valstybės teritorijos administraciniams vienetams. Ji įgyvendinama per savivaldybių tarybas ir savivaldybių merus.
 
-Savivaldybių tarybų nariais Lietuvos Respublikos piliečius ir kitus nuolatinius administracinio vieneto gyventojus pagal įstatymą ketveriems metams renka Lietuvos Respublikos piliečiai ir kiti nuolatiniai administracinio vieneto gyventojai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
-
-Straipsnio dalies pakeitimai:
-
-Nr. VIII-32, 1996-12-12, Žin., 1996, Nr. 122-2863 (1996-12-18), i. k. 0961010ISTA0VIII-32
-
-Nr. IX-959, 2002-06-20, Žin., 2002, Nr. 65-2629 (2002-06-28), i. k. 1021010ISTA00IX-959
+Savivaldybių tarybų nariais Lietuvos Respublikos piliečius ir kitus nuolatinius administracinio vieneto gyventojus, savivaldybių merais – Lietuvos Respublikos piliečius pagal įstatymą ketveriems metams renka Lietuvos Respublikos piliečiai ir kiti nuolatiniai administracinio vieneto gyventojai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
 
 Savivaldos institucijų organizavimo ir veiklos tvarką nustato įstatymas.
 
-Lietuvos Respublikos įstatymams, Vyriausybės bei savivaldybės tarybos sprendimams tiesiogiai įgyvendinti savivaldybės taryba sudaro jai atskaitingus vykdomuosius organus.
+Straipsnio pakeitimai:
+
+Nr. XIV-1028, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08142
 
 120 straipsnis
 
@@ -1164,7 +1174,11 @@ Savivaldybių tarybos turi teisę įstatymo numatytose ribose ir tvarka nustatyt
 
 122 straipsnis
 
-Savivaldybių tarybos dėl jų teisių pažeidimo turi teisę kreiptis į teismą.
+Savivaldybių tarybos ir savivaldybių merai dėl jų teisių pažeidimo turi teisę kreiptis į teismą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1028, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08142
 
 123 straipsnis
 
@@ -1178,7 +1192,11 @@ Vyriausybės atstovo įgaliojimus ir jų vykdymo tvarką nustato įstatymas.
 
 124 straipsnis
 
-Savivaldybių tarybų, jų vykdomųjų organų bei jų pareigūnų aktai ar veiksmai, pažeidžiantys piliečių ir organizacijų teises, gali būti skundžiami teisme.
+Savivaldybių tarybų ir savivaldybių merų aktai ar veiksmai, pažeidžiantys piliečių ar organizacijų teises, gali būti skundžiami teisme.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1028, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08142
 
 XI SKIRSNIS
 
@@ -1314,7 +1332,11 @@ Už valstybės ginkluotųjų pajėgų tvarkymą ir vadovavimą joms Seimui yra a
 
 141 straipsnis
 
-Asmenys, atliekantys tikrąją karo arba alternatyviąją tarnybą, taip pat neišėję į atsargą krašto apsaugos sistemos, policijos ir vidaus tarnybos karininkai, puskarininkiai ir liktiniai, kitų sukarintų ir saugumo tarnybų apmokami pareigūnai negali būti Seimo nariais ir savivaldybių tarybų nariais. Jie negali užimti renkamų ar skiriamų pareigų civilinėje valstybinėje tarnyboje, dalyvauti politinių partijų ir politinių organizacijų veikloje.
+Asmenys, atliekantys tikrąją karo arba alternatyviąją tarnybą, taip pat neišėję į atsargą krašto apsaugos sistemos, policijos ir vidaus tarnybos karininkai, puskarininkiai ir liktiniai, kitų sukarintų ir saugumo tarnybų apmokami pareigūnai negali būti Seimo nariais, savivaldybių tarybų nariais ir savivaldybių merais. Jie negali užimti renkamų ar skiriamų pareigų civilinėje valstybinėje tarnyboje, dalyvauti politinių partijų ir politinių organizacijų veikloje.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1028, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08142
 
 142 straipsnis
 
@@ -1324,7 +1346,11 @@ Ginkluoto užpuolimo atveju, kai kyla grėsmė valstybės suverenumui ar teritor
 
 143 straipsnis
 
-Jeigu karo veiksmų metu turi būti rengiami eiliniai rinkimai, Seimas arba Respublikos Prezidentas priima sprendimą pratęsti Seimo, Respublikos Prezidento ar savivaldybių tarybų įgaliojimus. Šiuo atveju rinkimai turi būti skiriami ne vėliau kaip po trijų mėnesių karui pasibaigus.
+Jeigu karo veiksmų metu turi būti rengiami eiliniai rinkimai, Seimas arba Respublikos Prezidentas priima sprendimą pratęsti Seimo, Respublikos Prezidento ar savivaldybių tarybų ir savivaldybių merų įgaliojimus. Šiuo atveju rinkimai turi būti skiriami ne vėliau kaip po trijų mėnesių karui pasibaigus.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1028, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08142
 
 144 straipsnis
 
@@ -1511,4 +1537,28 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2004, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05330
 
 Lietuvos Respublikos Konstitucijos 106 ir 107 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1028, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08142
+
+Lietuvos Respublikos Konstitucijos 67, 119, 122, 124, 141 ir 143 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1029, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08143
+
+Lietuvos Respublikos Konstitucijos 74 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1030, 2022-04-21, paskelbta TAR 2022-04-21, i. k. 2022-08144
+
+Lietuvos Respublikos Konstitucijos 56 straipsnio pakeitimo įstatymas
 
