@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2022-05-17"
+last_updated: "2022-05-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2022-05-17 iki 2022-05-23
+Suvestinė redakcija nuo 2022-05-24 iki 2022-05-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -3482,7 +3482,7 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
-8. Visuomeninę elektros energijos kainą ir tarifus nustato visuomeninis tiekėjas 6 kalendoriniams mėnesiams. Visuomeninė elektros energijos kaina nustatoma kaip elektros energijos įsigijimo kainos, perdavimo, viešuosius interesus atitinkančių paslaugų, skirstymo, visuomeninio tiekimo kainos ir faktinės elektros energijos įsigijimo kainos bei ankstesnio laikotarpio prognozuotos elektros energijos kainos skirtumo suma. Visuomeninio tiekėjo nustatytas visuomenines elektros energijos kainas ir tarifus tikrina Taryba šio straipsnio 9 dalyje nustatyta tvarka. Tuo atveju, jeigu visuomeninė elektros energijos kaina buitiniams vartotojams kiltų daugiau kaip 40 procentų, visuomeninis tiekėjas gali pasiūlyti Tarybai priimti sprendimą, nustatant visuomeninę elektros energijos kainą, nevertinti elektros energijos įsigijimo kainos dalies, o dėl neįvertintos kainos dalies susidariusį sąnaudų skirtumą tarp Tarybos nustatytų ir faktinių kainų išdėstyti ilgesniam kaip vienų metų laikotarpiui. Taryba priima sprendimą dėl skirtumo, susidariusio tarp Tarybos nustatytų ir faktinių kainų bei pagrįstų sąnaudų, ir Tarybos sprendimais numatytų sąnaudų skirtumų, patirtų iki 2022 m. gruodžio 31 d., įskaitant ir tokių sąnaudų skirtumo pinigų kainą (skolinimosi sąnaudas, kurios įvertinamos Tarybos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų viršutinių ribų metodikoje nustatyta tvarka), taip pat šio įstatymo 60 straipsnio 3 dalyje nurodytų sąnaudų Tarybos nustatyta tvarka ir sąlygomis įvertinimo nustatant papildomą dedamąją prie persiuntimo paslaugos kainos. Tarybos apskaičiuotas lėšų perviršis grąžinamas buitiniams vartotojams sumažinant papildomą dedamąją prie persiuntimo paslaugos kainos, kai visuomeninio tiekimo veiklą iki 2023 m. sausio 1 d. vykdęs asmuo perveda perrinktas lėšas skirstomųjų tinklų operatoriui, o nesurinktos lėšos surenkamos taikant papildomą dedamąją prie persiuntimo paslaugos kainos, ir visuomeninio tiekimo veiklą iki 2023 m. sausio 1 d. vykdžiusiam asmeniui išmokamos dalimis kas kalendorinį mėnesį skirstomųjų tinklų operatoriaus, kurio turimoje elektros energijos skirstymo veiklos licencijoje nurodytoje teritorijoje veikė toks visuomeninis tiekėjas, tačiau ne vėliau kaip iki 2027 m. gruodžio 31 d.
+8. Visuomeninę elektros energijos kainą ir tarifus nustato visuomeninis tiekėjas 6 kalendoriniams mėnesiams. Visuomeninė elektros energijos kaina nustatoma kaip elektros energijos įsigijimo kainos, perdavimo, viešuosius interesus atitinkančių paslaugų, skirstymo, visuomeninio tiekimo kainos ir faktinės elektros energijos įsigijimo kainos bei ankstesnio laikotarpio prognozuotos elektros energijos kainos skirtumo suma, sumažinus ją Energetikos įstatymo 192 straipsnyje nurodytais suvartotos elektros energijos kainos dalies kompensavimo buitiniams vartotojams dydžiais, jeigu tokie dydžiai nustatomi. Visuomeninio tiekėjo nustatytas visuomenines elektros energijos kainas ir tarifus tikrina Taryba šio straipsnio 9 dalyje nustatyta tvarka. Jeigu visuomeninė elektros energijos kaina buitiniams vartotojams kiltų daugiau kaip 40 procentų, visuomeninis tiekėjas gali pasiūlyti Tarybai priimti sprendimą, nustatant visuomeninę elektros energijos kainą, nevertinti elektros energijos įsigijimo kainos dalies, o dėl neįvertintos kainos dalies susidariusį sąnaudų skirtumą tarp Tarybos nustatytų ir faktinių kainų išdėstyti ilgesniam kaip vienų metų laikotarpiui. Taryba priima sprendimą dėl skirtumo, susidariusio tarp Tarybos nustatytų ir faktinių kainų, taip pat Tarybos nustatytų ir prognozuojamų kainų už likusį laikotarpį, kuriam galioja nustatyti visuomeniniai elektros energijos tarifai, bei pagrįstų sąnaudų, ir Tarybos sprendimais numatytų sąnaudų skirtumų, patirtų iki 2022 m. gruodžio 31 d., įskaitant ir tokių sąnaudų skirtumo pinigų kainą (skolinimosi sąnaudas, kurios įvertinamos Tarybos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų viršutinių ribų metodikoje nustatyta tvarka), taip pat šio įstatymo 60 straipsnio 3 dalyje nurodytų sąnaudų Tarybos nustatyta tvarka ir sąlygomis įvertinimo nustatant papildomą dedamąją prie persiuntimo paslaugos kainos. Tarybos apskaičiuotas lėšų perviršis grąžinamas buitiniams vartotojams sumažinant papildomą dedamąją prie persiuntimo paslaugos kainos, kai visuomeninio tiekimo veiklą iki 2023 m. sausio 1 d. vykdęs asmuo perveda perrinktas lėšas skirstomųjų tinklų operatoriui, o nesurinktos lėšos surenkamos taikant papildomą dedamąją prie persiuntimo paslaugos kainos, ir visuomeninio tiekimo veiklą iki 2023 m. sausio 1 d. vykdžiusiam asmeniui išmokamos dalimis kas kalendorinį mėnesį skirstomųjų tinklų operatoriaus, kurio turimoje elektros energijos skirstymo veiklos licencijoje nurodytoje teritorijoje veikė toks visuomeninis tiekėjas, tačiau ne vėliau kaip iki 2027 m. gruodžio 31 d.
 
 Straipsnio dalies pakeitimai:
 
@@ -3491,6 +3491,14 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 Nr. XIV-604, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23526
+
+Nr. XIV-1096, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10295
+
+81. Kai visuomeninė elektros energijos kaina ir tarifai nustatomi 6 kalendoriniams mėnesiams patvirtinus Energetikos įstatymo 192 straipsnyje nurodytus suvartotos elektros energijos kainos dalies kompensavimo buitiniams vartotojams dydžius arba perskaičiuojami pakeitus elektros energijos kainos dalies kompensavimo buitiniams vartotojams dydžius, Energetikos įstatymo 19 straipsnio 3 dalies nuostata netaikoma. Nustatyti visuomeninė elektros energijos kaina ir tarifai taikomi nuo prasidedančio kalendorinio pusmečio pirmo mėnesio pirmos dienos, o perskaičiuoti visuomeninė elektros energijos kaina ir tarifai – nuo kito mėnesio, einančio po to mėnesio, kurį buvo priimtas Tarybos sprendimas dėl visuomeninių elektros energijos kainų ir tarifų paskelbimo, pirmos dienos, jeigu Tarybos sprendime nenumatyta vėlesnė įsigaliojimo data.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1096, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10295
 
 9. Paslaugos teikėjo nustatytas kainas ir tarifus per 15 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Taryba, prieš tai patikrinusi, ar nustatant kainas ir tarifus nebuvo pažeisti kainų ir tarifų nustatymo reikalavimai, ar nediskriminuojami vartotojai. Taryba, nustačiusi, kad paslaugos teikėjo pateiktos paslaugų kainos ir tarifai nustatyti nesilaikant kainų ir tarifų nustatymo reikalavimų arba kad yra diskriminuojami vartotojai, nurodo paslaugų teikėjui klaidas, kurias paslaugų teikėjas turi ištaisyti, ir kad ne vėliau kaip per 10 kalendorinių dienų nuo Tarybos pastabų gavimo Tarybai turi būti pateiktos pataisytos paslaugų kainos ir tarifai. Taryba ne vėliau kaip per 15 kalendorinių dienų nuo pataisytų paslaugų kainų ir tarifų pateikimo juos paskelbia arba, jeigu paslaugų teikėjas per nustatytą terminą neištaiso nurodytų klaidų, paslaugų kainas ir tarifus nustato vienašališkai ir juos paskelbia.
 
