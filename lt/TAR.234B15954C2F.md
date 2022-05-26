@@ -4,7 +4,7 @@ identifier: "TAR.234B15954C2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-11"
-last_updated: "2022-05-07"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
-Suvestinė redakcija nuo 2022-05-07 iki 2022-05-25
+Suvestinė redakcija nuo 2022-05-26 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
 
@@ -59,23 +59,27 @@ Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 6. Bioetikos reikalavimai – Lietuvos Respublikos ir tarptautiniuose teisės aktuose bei etikos kodeksuose įtvirtinti etikos reikalavimai, taikomi teikiant sveikatos priežiūros paslaugas ir atliekant biomedicininius tyrimus.
 
-7. Biomedicininiai tyrimai – biomedicinos mokslų hipotezių patikrinimas mokslo tiriamaisiais metodais, kuriuo siekiama plėtoti mokslo žinias apie žmogaus sveikatą, ligas, jų diagnostiką, gydymą ar profilaktiką. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „klinikinis tyrimas su medicinos priemone“ ir vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 45 punkte apibrėžtomis reikšmėmis. Ši sąvoka šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „klinikinis tyrimas“ ir vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2  dalies 2 punkte apibrėžtomis reikšmėmis.
+7. Biomedicininiai tyrimai – biomedicinos mokslų hipotezių patikrinimas mokslo tiriamaisiais metodais, kuriuo siekiama plėtoti mokslo žinias apie žmogaus sveikatą, ligas, jų diagnostiką, gydymą ar profilaktiką. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvokas „klinikinis tyrimas su medicinos priemone“ arba „veiksmingumo tyrimas“ ir vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 45 punkte arba Reglamento (ES) 2017/746 2 straipsnio 42 punkte apibrėžtomis reikšmėmis. Ši sąvoka šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „klinikinis tyrimas“ ir vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 2 punkte apibrėžtomis reikšmėmis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 8. Biomedicininio tyrimo centras (toliau – tyrimo centras) – juridinis asmuo, kuriame atliekamas biomedicininis tyrimas.
 
-9. Biomedicininio tyrimo užsakovas – fizinis, juridinis asmuo, kita organizacija ar jų padalinys, inicijuojantys, valdantys biomedicininį tyrimą (išskyrus klinikinį vaistinio preparato tyrimą ir klinikinį tyrimą su medicinos priemone), užtikrinantys jo finansavimą. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „užsakovas“ ir vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 49 punkte apibrėžtomis reikšmėmis, o šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „užsakovas“ ir vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 14 punkte apibrėžtomis reikšmėmis.
+9. Biomedicininio tyrimo užsakovas – fizinis, juridinis asmuo, kita organizacija ar jų padalinys, inicijuojantys, valdantys biomedicininį tyrimą (išskyrus klinikinį vaistinio preparato tyrimą, klinikinį tyrimą su medicinos priemone ir veiksmingumo tyrimą), užtikrinantys jo finansavimą. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „užsakovas“ ir vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 49 punkte arba Reglamento (ES) 2017/746 2 straipsnio 57 punkte apibrėžtomis reikšmėmis, o šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „užsakovas“ ir vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 14 punkte apibrėžtomis reikšmėmis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 10. Biomedicininių tyrimų etikos reikalavimai – šiame įstatyme nustatyti bioetikos reikalavimai, taikomi atliekant biomedicininius tyrimus.
 
@@ -93,7 +97,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
-13. Informuoto asmens sutikimas dalyvauti biomedicininiame tyrime (toliau – asmens sutikimas dalyvauti tyrime) – savanoriškas, aiškus, sąmoningas rašytinis sutikimas dalyvauti biomedicininiame tyrime, išskyrus klinikinį vaistinio preparato tyrimą ir klinikinį tyrimą su medicinos priemone, pasirašytas asmens ar šio įstatymo numatytais atvejais ir tvarka kito asmens sutikimą dalyvauti tyrime turinčio teisę duoti asmens, pergyvenusio sutuoktinio, jeigu asmuo buvo nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyveno skyrium, – artimojo giminaičio. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „informuoto asmens sutikimas“ ir vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 55 punkte apibrėžtomis reikšmėmis, o šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „informuoto asmens sutikimas“ ir vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 21 punkte apibrėžtomis reikšmėmis.
+13. Informuoto asmens sutikimas dalyvauti biomedicininiame tyrime (toliau – asmens sutikimas dalyvauti tyrime) – savanoriškas, aiškus, sąmoningas rašytinis sutikimas dalyvauti biomedicininiame tyrime, išskyrus klinikinį vaistinio preparato tyrimą, klinikinį tyrimą su medicinos priemone ir veiksmingumo tyrimą, pasirašytas asmens ar šio įstatymo numatytais atvejais ir tvarka kito asmens sutikimą dalyvauti tyrime turinčio teisę duoti asmens, pergyvenusio sutuoktinio, jeigu asmuo buvo nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyveno skyrium, – artimojo giminaičio. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „informuoto asmens sutikimas“ ir vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 55 punkte arba Reglamento (ES) 2017/746 2 straipsnio 58 punkte apibrėžtomis reikšmėmis, o šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „informuoto asmens sutikimas“ ir vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 21 punkte apibrėžtomis reikšmėmis.
 
 Straipsnio dalies pakeitimai:
 
@@ -101,13 +105,17 @@ Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
-14. Klinikinis tyrimas – biomedicininis tyrimas, išskyrus klinikinį vaistinių preparatų tyrimą ir klinikinius tyrimus su medicinos priemone, su gyvais žmonėmis. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 45 punkte apibrėžtomis reikšmėmis, o šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 2 punkte apibrėžtomis reikšmėmis.
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+14. Klinikinis tyrimas – biomedicininis tyrimas, išskyrus klinikinį vaistinių preparatų tyrimą, klinikinį tyrimą su medicinos priemone ir veiksmingumo tyrimą, su gyvais žmonėmis. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 45 punkte arba Reglamento (ES) 2017/746 2 straipsnio 42 punkte apibrėžtomis reikšmėmis, o šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 2 punkte apibrėžtomis reikšmėmis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 141. Klinikinis tyrimas su medicinos priemone – ši sąvoka atitinka sąvoką „klinikinis tyrimas“ ir vartojama ta pačia reikšme, kaip ji apibrėžta Reglamento (ES) 2017/745 2 straipsnio 45 punkte.
 
@@ -133,7 +141,7 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
-15. Tyrėjas – biomedicininį tyrimą, išskyrus klinikinį vaistinio preparato tyrimą ir klinikinį tyrimą su medicinos priemone, atliekantis fizinis asmuo, atitinkantis šiame įstatyme nustatytus reikalavimus. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 54 punkte apibrėžtomis reikšmėmis, o šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 15 punkte apibrėžtomis reikšmėmis.
+15. Tyrėjas – biomedicininį tyrimą, išskyrus klinikinį vaistinio preparato tyrimą, klinikinį tyrimą su medicinos priemone ir veiksmingumo tyrimą, atliekantis fizinis asmuo, atitinkantis šiame įstatyme nustatytus reikalavimus. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 54 punkte arba Reglamento (ES) 2017/746 2 straipsnio 48 punkte apibrėžtomis reikšmėmis, o šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 15 punkte apibrėžtomis reikšmėmis.
 
 Straipsnio dalies pakeitimai:
 
@@ -141,13 +149,17 @@ Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
-16. Tiriamasis – asmuo, dalyvaujantis biomedicininiame tyrime, išskyrus klinikinį vaistinio preparato tyrimą ir klinikinį tyrimą su medicinos priemone. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „tiriamasis asmuo“ ir vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 50 punkte apibrėžtomis reikšmėmis, o šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „tiriamasis asmuo“ ir vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 17 punkte apibrėžtomis reikšmėmis.
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+16. Tiriamasis – asmuo, dalyvaujantis biomedicininiame tyrime, išskyrus klinikinį vaistinio preparato tyrimą, klinikinį tyrimą su medicinos priemone ir veiksmingumo tyrimą. Ši sąvoka šio įstatymo 1 straipsnio 2 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „tiriamasis asmuo“ ir vartojama šioje dalyje ir Reglamento (ES) 2017/745 2 straipsnio 50 punkte arba Reglamento (ES) 2017/746 2 straipsnio 47 punkte apibrėžtomis reikšmėmis, o šio įstatymo 1 straipsnio 3 dalyje nurodytuose šio įstatymo straipsniuose, jų dalyse ir punktuose atitinka sąvoką „tiriamasis asmuo“ ir vartojama šioje dalyje ir Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 17 punkte apibrėžtomis reikšmėmis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 17. Žmogaus biologinis ėminys – biologinė medžiaga, paimta iš gyvo ar mirusio žmogaus organizmo.
 
@@ -167,13 +179,15 @@ Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
 25. Žmogaus vaisius – besivystantis žmogaus organizmas nuo devintos nėštumo savaitės pradžios iki gimimo.
 
-26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos lygių galimybių įstatyme, Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme, Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatyme, Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatyme, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1), Reglamente (ES) 2017/745 ir Reglamente (ES) Nr. 536/2014.
+26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos lygių galimybių įstatyme, Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme, Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatyme, Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatyme, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Reglamente (ES) 2017/745, Reglamente (ES) 2017/746 ir Reglamente (ES) Nr. 536/2014.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 3 straipsnis. Biomedicininių tyrimų objektai
 
@@ -257,7 +271,11 @@ Nr. XIII-2381, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12804
 
 7) įkalinimo įstaigose ar kitose laisvės atėmimo vietose esantys asmenys.
 
-2. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas, vertindamas dokumentus dėl leidimo atlikti biomedicininį tyrimą išdavimo, Lietuvos bioetikos komitetas, vertindamas dokumentus dėl pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimo išdavimo, motyvuotu sprendimu gali pripažinti ir kitas asmenų grupes pažeidžiamais asmenimis.
+2. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas, vertindamas dokumentus dėl leidimo atlikti biomedicininį tyrimą išdavimo, pažeidžiamais asmenimis gali pripažinti ir kitas asmenų grupes.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 3. Klinikinius tyrimus su pažeidžiamais asmenimis leidžiama atlikti tik šiais atvejais:
 
@@ -267,11 +285,15 @@ Nr. XIII-2381, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12804
 
 3) kai klinikinis tyrimas tiesiogiai susijęs su tiriamojo gyvybei pavojų keliančia arba sekinančia sveikatos būkle, kurios atveju nėra pakankamos asmens sveikatos priežiūros, ir yra mokslinio pagrindo tikėtis, kad dalyvavimas klinikiniame tyrime tiriamajam duos tiesioginės naudos, kuri bus didesnė negu su klinikiniu tyrimu susijusi rizika ir nepatogumai.
 
-4. Klinikinius tyrimus su medicinos priemone su šio straipsnio 1 dalies 4, 5 ir 7 punktuose nurodytais asmenimis leidžiama atlikti šio straipsnio 3 dalyje nurodytais atvejais.
+4. Klinikinius tyrimus su medicinos priemone ir veiksmingumo tyrimus su šio straipsnio 1 dalies 4, 5 ir 7 punktuose nurodytais asmenimis leidžiama atlikti šio straipsnio 3 dalyje nurodytais atvejais.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 7 straipsnis. Asmens sutikimas dalyvauti tyrime
 
@@ -287,13 +309,15 @@ Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 2. Jeigu asmuo dėl fizinio trūkumo, ligos ar kitokių priežasčių negali pats pasirašyti asmens sutikimo dalyvauti tyrime, asmens sutikimas dalyvauti tyrime pasirašomas Civilinio kodekso nustatyta tvarka.
 
-3. Vaikui pagal jo amžių ir gebėjimą suprasti turi būti suteikta šio straipsnio 8 dalyje nurodyta informacija. Dėl vaiko dalyvavimo biomedicininiame tyrime asmens sutikimą dalyvauti tyrime duoda vaiko atstovai pagal įstatymą, tačiau jeigu vaikas, gebantis suprasti jam pateiktą informaciją, pareiškia norą nedalyvauti biomedicininiame tyrime ar, jeigu vaikas tokiame biomedicininiame tyrime jau dalyvauja, – jame nebedalyvauti, vaiko dalyvavimas tyrime nepradedamas ar nutraukiamas, išskyrus atvejus, kai tai prieštarauja paties vaiko interesams. Ar vaiko noras nedalyvauti tyrime neprieštarauja vaiko interesams, sprendžia vaiko atstovai pagal įstatymą, atsižvelgdami į tyrėjo nuomonę. Jeigu priimant sprendimą dėl vaiko dalyvavimo biomedicininiame tyrime kyla vaiko ir jo atstovų pagal įstatymą interesų konfliktas arba vaiko atstovų pagal įstatymą tarpusavio interesų konfliktas, sprendimas dėl vaiko dalyvavimo biomedicininiame tyrime priimamas Civilinio kodekso 3.163 straipsnyje nustatyta tvarka. Kai biomedicininiame tyrime dalyvauja vaikai, priimant sprendimą dėl klinikinio vaistinio preparato tyrimo paraiškos Reglamento (ES) Nr. 536/2014 6 ir (ar) 7 straipsniuose nurodytais aspektais etinio vertinimo išvados (toliau – klinikinio vaistinio preparato tyrimo paraiškos etinio vertinimo išvada), esminio klinikinio vaistinio preparato tyrimo pakeitimo paraiškos Reglamento (ES) Nr. 536/2014 6 ir (ar) 7 straipsniuose nurodytais aspektais etinio vertinimo išvados (toliau – esminio klinikinio vaistinio preparato tyrimo pakeitimo paraiškos etinio vertinimo išvada) ar klinikinio tyrimo su medicinos priemone paraiškos etinio vertinimo išvados dėl klinikinio tyrimo su medicinos priemone atitikties Reglamente (ES) 2017/745 ir šiame įstatyme nustatytiems reikalavimams, Lietuvos bioetikos komiteto posėdyje dalyvauja Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos atstovas. Vaiko dalyvavimo biomedicininiame tyrime tvarką nustato sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras.
+3. Vaikui pagal jo amžių ir gebėjimą suprasti turi būti suteikta šio straipsnio 8 dalyje nurodyta informacija. Dėl vaiko dalyvavimo biomedicininiame tyrime asmens sutikimą dalyvauti tyrime duoda vaiko atstovai pagal įstatymą, tačiau, jeigu vaikas, gebantis suprasti jam pateiktą informaciją, pareiškia norą nedalyvauti biomedicininiame tyrime arba, jeigu vaikas tokiame biomedicininiame tyrime jau dalyvauja, – jame nebedalyvauti, vaiko dalyvavimas tyrime nepradedamas ar nutraukiamas, išskyrus atvejus, kai tai prieštarauja paties vaiko interesams. Ar vaiko noras nedalyvauti tyrime neprieštarauja vaiko interesams, sprendžia vaiko atstovai pagal įstatymą, atsižvelgdami į tyrėjo nuomonę. Jeigu priimant sprendimą dėl vaiko dalyvavimo biomedicininiame tyrime kyla vaiko ir jo atstovų pagal įstatymą interesų konfliktas arba vaiko atstovų pagal įstatymą tarpusavio interesų konfliktas, sprendimas dėl vaiko dalyvavimo biomedicininiame tyrime priimamas Civilinio kodekso 3.163 straipsnyje nustatyta tvarka. Kai biomedicininiame tyrime dalyvauja vaikai, priimant sprendimą dėl klinikinio vaistinio preparato tyrimo paraiškos Reglamento (ES) Nr. 536/2014 6 ir (ar) 7 straipsniuose nurodytais aspektais etinio vertinimo išvados (toliau – klinikinio vaistinio preparato tyrimo paraiškos etinio vertinimo išvada), esminio klinikinio vaistinio preparato tyrimo pakeitimo paraiškos Reglamento (ES) Nr. 536/2014 6 ir (ar) 7 straipsniuose nurodytais aspektais etinio vertinimo išvados (toliau – esminio klinikinio vaistinio preparato tyrimo pakeitimo paraiškos etinio vertinimo išvada) ar klinikinio tyrimo su medicinos priemone paraiškos etikos aspektų vertinimo išvados dėl klinikinio tyrimo su medicinos priemone atitikties Reglamente (ES) 2017/745 ar veiksmingumo tyrimo paraiškos etikos aspektų vertinimo išvados dėl veiksmingumo tyrimo atitikties Reglamente (ES) 2017/746 ir šiame įstatyme nustatytiems reikalavimams, Lietuvos bioetikos komiteto posėdyje dalyvauja Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos atstovas. Vaiko dalyvavimo biomedicininiame tyrime tvarką nustato sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 4. Dėl pilnamečio asmens ar sudariusio santuoką nepilnamečio asmens, ar teismo pripažinto visiškai veiksniu (emancipuotu) nepilnamečio asmens, kurių sveikatos būklė neleidžia jiems vertinti savo interesų ar trukdo juos vertinti protingai, dalyvavimo biomedicininiame tyrime asmens sutikimą dalyvauti tyrime duoda asmens sutuoktinis arba, jeigu asmuo yra nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyvena skyrium, – vienas iš asmens tėvų (įtėvių), arba vienas iš pilnamečių vaikų (įvaikių), išskyrus atvejį, kai vienas iš asmens tėvų (įtėvių) pareiškė nesutikimą dėl asmens dalyvavimo biomedicininiame tyrime (šiuo atveju biomedicininį tyrimą su asmeniu atlikti draudžiama), o jeigu asmuo Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka yra paskyręs atstovą pagal pavedimą, – atstovas pagal pavedimą. Dėl asmens, kuris yra teismo pripažintas neveiksniu sveikatos priežiūros srityje, dalyvavimo biomedicininiame tyrime asmens sutikimą dalyvauti tyrime duoda jo globėjas, dėl asmens, kuris yra teismo pripažintas ribotai veiksniu sveikatos priežiūros srityje, – jo rūpintojas ir pats teismo pripažintas ribotai veiksniu sveikatos priežiūros srityje asmuo. Tiriamajam pagal jo gebėjimą suprasti turi būti suteikta šio straipsnio 8 dalyje nurodyta informacija. Tyrėjas atsižvelgia į tiriamojo, galinčio suprasti jam pateiktą informaciją, norą nedalyvauti biomedicininiame tyrime arba, jeigu tiriamasis tokiame biomedicininiame tyrime jau dalyvauja, norą jame nebedalyvauti.
 
@@ -425,11 +449,13 @@ Tiriamieji turi teisę gauti kompensaciją už dėl dalyvavimo biomedicininiame 
 
 2. Tyrėjas atsako už biomedicininį tyrimą, atliekamą tyrimo centre. Jeigu biomedicininį tyrimą tyrėjas atlieka vienas arba tyrimo centre vadovauja biomedicininį tyrimą atliekančių asmenų grupei ir yra atsakingas už šios grupės veiklą, jis vadinamas pagrindiniu tyrėju.
 
-3. Tyrėjas, išskyrus tyrėją, atliekantį šio straipsnio 4 ir 5 dalyse nurodytus biomedicininius tyrimus, privalo turėti biomedicininio tyrimo pobūdį atitinkančią aukštojo mokslo kvalifikaciją, biomedicininio tyrimo pobūdį atitinkančių biomedicininių tyrimų patirties. Tyrėjas, biomedicininio tyrimo metu taikantis intervencinį biomedicininio tyrimo metodą, keliantį riziką tiriamojo sveikatai, taip pat turi turėti atitinkamą asmens sveikatos priežiūros specialisto licenciją, pacientų priežiūros patirties ir būti įdarbintas tyrimo centre. Konkrečius tyrėjo, taikančio intervencinį biomedicininio tyrimo metodą, keliantį riziką tiriamojo sveikatai, aukštojo mokslo kvalifikacijos ir patirties reikalavimus nustato sveikatos apsaugos ministras.
+3. Tyrėjas, išskyrus tyrėją, atliekantį šio straipsnio 4 ir 5 dalyse nurodytus biomedicininius tyrimus, privalo turėti biomedicininio tyrimo pobūdį atitinkančią aukštojo mokslo kvalifikaciją, o pagrindinis tyrėjas taip pat privalo turėti biomedicininio tyrimo pobūdį atitinkančių biomedicininių tyrimų patirties. Tyrėjas, biomedicininio tyrimo metu taikantis intervencinį biomedicininio tyrimo metodą, keliantį riziką tiriamojo sveikatai, taip pat turi turėti atitinkamą asmens sveikatos priežiūros specialisto licenciją, pacientų priežiūros patirties ir būti įdarbintas tyrimo centre. Konkrečius tyrėjo, taikančio intervencinį biomedicininio tyrimo metodą, keliantį riziką tiriamojo sveikatai, aukštojo mokslo kvalifikacijos ir patirties reikalavimus nustato sveikatos apsaugos ministras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 4. Kai atliekamas klinikinis vaistinio preparato tyrimas, tyrėjas privalo turėti klinikinio vaistinio preparato tyrimo pobūdį atitinkančią aukštojo mokslo kvalifikaciją, teisę verstis atitinkamai medicinos praktika arba odontologijos praktika, turėti ne mažesnę kaip vienų metų pacientų priežiūros patirtį ir per paskutinius penkerius metus būti baigęs geros klinikinės praktikos mokymus arba per šį laikotarpį būti buvęs tyrėju atliekant klinikinį vaistinio preparato tyrimą ir įdarbintas tyrimo centre. Geros klinikinės praktikos mokymų organizavimo tvarką ir geros klinikinės praktikos mokymo programų rengimo reikalavimus tvirtina ir konkrečius tyrėjo, atliekančio klinikinį vaistinio preparato tyrimą, aukštojo mokslo kvalifikacijos reikalavimus nustato sveikatos apsaugos ministras. Kai atliekami šioje dalyje nurodyti biomedicininiai tyrimai, pagrindinis tyrėjas taip pat privalo turėti klinikinių vaistinio preparato tyrimų patirties. Asmuo gali dirbti pagrindiniu tyrėju tik viename to paties tyrimo centre.
 
@@ -437,11 +463,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
-5. Kai atliekamas klinikinis tyrimas su medicinos priemone, tyrėjai, kurie tiriamiesiems atlieka pagal Lietuvos Respublikos įstatymus ir kitus teisės aktus asmens sveikatos priežiūros specialistų kompetencijai priskirtus veiksmus, privalo turėti klinikinio tyrimo su medicinos priemone pobūdį atitinkančią aukštojo mokslo kvalifikaciją, teisę verstis atitinkama asmens sveikatos priežiūros praktika. Kai atliekami šioje dalyje nurodyti tyrimai, pagrindinis tyrėjas taip pat privalo turėti tokių tyrimų pobūdį atitinkančių klinikinių tyrimų su medicinos priemone patirties. Konkrečius pagrindinio tyrėjo patirties reikalavimus nustato sveikatos apsaugos ministras. Kiti klinikiniame tyrime su medicinos priemone dalyvaujantys tyrėjai turi turėti klinikinio tyrimo su medicinos priemone pobūdį atitinkančią aukštojo mokslo kvalifikaciją. Klinikinis tyrimas su medicinos priemone turi būti atliekamas klinikinio tyrimo su medicinos priemone tyrimo centre, kuris privalo turėti teisę teikti asmens sveikatos priežiūros paslaugas, reikalingas atliekant klinikinį tyrimą su medicinos priemone.
+5. Kai atliekamas klinikinis tyrimas su medicinos priemone arba veiksmingumo tyrimas, tyrėjai, kurie atlieka pagal Lietuvos Respublikos įstatymus ir kitus teisės aktus asmens sveikatos priežiūros specialistų kompetencijai priskirtus veiksmus, privalo turėti atitinkamai klinikinio tyrimo su medicinos priemone arba veiksmingumo tyrimo pobūdį atitinkančią aukštojo mokslo kvalifikaciją, teisę verstis atitinkama asmens sveikatos priežiūros praktika. Kai atliekami šioje dalyje nurodyti tyrimai, pagrindinis tyrėjas taip pat privalo turėti klinikinių tyrimų patirties. Konkrečius pagrindinio tyrėjo patirties reikalavimus nustato sveikatos apsaugos ministras. Klinikinis tyrimas su medicinos priemone arba veiksmingumo tyrimas turi būti atliekamas tyrimo centre, kuris privalo turėti teisę teikti asmens sveikatos priežiūros paslaugas, reikalingas atliekant klinikinį tyrimą su medicinos priemone arba veiksmingumo tyrimą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 12 straipsnis. Turtinės ir neturtinės žalos, padarytos tiriamajam, atlyginimas
 
@@ -453,7 +483,7 @@ Nr. XIII-2760, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21604
 
 1. Biomedicininio tyrimo užsakovas ir tyrėjas atsako už turtinę ir neturtinę žalą, padarytą tiriamajam, išskyrus turtinę ir neturtinę žalą, kuri atsirado dėl priežasčių, nesusijusių su biomedicininiais tyrimais, arba dėl tiriamojo tyčinių veiksmų. Biomedicininio tyrimo užsakovas ir tyrėjas atsako solidariai už šioje dalyje nurodytą turtinę ir neturtinę žalą, padarytą tiriamajam, išskyrus atvejus, kai biomedicininio tyrimo užsakovas ir tyrėjas raštu susitaria kitaip. Biomedicininio tyrimo užsakovo ir tyrėjo padaryta turtinė ir neturtinė žala tiriamojo sveikatai atlyginama Civilinio kodekso, Draudimo įstatymo ir kitų teisės aktų nustatyta tvarka.
 
-2. Biomedicininio tyrimo (išskyrus klinikinį tyrimą su medicinos priemone), kuriame dalyvaujančiam asmeniui tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, taip pat klinikinio vaistinio preparato tyrimo užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl galimos turtinės ir neturtinės žalos, atsiradusios dėl tiriamojo sveikatos sužalojimo ar tiriamojo mirties, atlyginimo, sudarydami biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo sutartis su draudikais, išskyrus šio straipsnio 3 dalyje nurodytus atvejus, kai biomedicininius tyrimus leidžiama atlikti ir neturint biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo. Tai, ar biomedicininio tyrimo (išskyrus klinikinį tyrimą su medicinos priemone) tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą.
+2. Biomedicininio tyrimo (išskyrus klinikinį tyrimą su medicinos priemone ir veiksmingumo tyrimą), kuriame dalyvaujančiam asmeniui tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, taip pat klinikinio vaistinio preparato tyrimo užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl galimos turtinės ir neturtinės žalos, atsiradusios dėl tiriamojo sveikatos sužalojimo ar tiriamojo mirties, atlyginimo, sudarydami biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo sutartis su draudikais, išskyrus šio straipsnio 3 dalyje nurodytus atvejus, kai biomedicininius tyrimus leidžiama atlikti ir neturint biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo. Ar biomedicininio tyrimo (išskyrus klinikinį tyrimą su medicinos priemone ir veiksmingumo tyrimą) tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą.
 
 Straipsnio dalies pakeitimai:
 
@@ -463,7 +493,9 @@ Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
-3. Mažos intervencijos klinikinį vaistinio preparato tyrimą, taip pat kitą biomedicininį tyrimą (išskyrus klinikinį tyrimą su medicinos priemone), kuriame dalyvaujančiam asmeniui taikomi intervenciniai biomedicininio tyrimo metodai kelia tik nedidelį nepageidaujamą laikiną poveikį jo sveikatai, asmens sveikatos priežiūros įstaigai, kuri pati arba jos darbuotojas yra tokio biomedicininio tyrimo užsakovas arba jos darbuotojas yra tokio biomedicininio tyrimo tyrėjas, leidžiama atlikti ir neturint biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo. Šioje dalyje nurodytu atveju biomedicininio tyrimo užsakovo ir tyrėjo padaryta turtinė ir neturtinė žala tiriamojo sveikatai atlyginama Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka iš Vyriausybės įgaliotos institucijos valdomos sąskaitos, kurioje kaupiamos sveikatos priežiūros įstaigų įmokos pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, lėšų.
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+3. Mažos intervencijos klinikinį vaistinio preparato tyrimą, taip pat kitą biomedicininį tyrimą (išskyrus klinikinį tyrimą su medicinos priemone ir veiksmingumo tyrimą), kuriame dalyvaujančiam asmeniui taikomi intervenciniai biomedicininio tyrimo metodai kelia tik nedidelį nepageidaujamą laikiną poveikį jo sveikatai, asmens sveikatos priežiūros įstaigai, kuri pati arba jos darbuotojas yra tokio biomedicininio tyrimo užsakovas arba jos darbuotojas yra tokio biomedicininio tyrimo tyrėjas, leidžiama atlikti ir neturint biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo. Šioje dalyje nurodytu atveju biomedicininio tyrimo užsakovo ir tyrėjo padaryta turtinė ir neturtinė žala tiriamojo sveikatai atlyginama Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka iš Vyriausybės įgaliotos institucijos valdomos sąskaitos, kurioje kaupiamos sveikatos priežiūros įstaigų įmokos pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, lėšų.
 
 Straipsnio dalies pakeitimai:
 
@@ -475,11 +507,17 @@ Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
-31. Klinikinio tyrimo su medicinos priemone, kuriame dalyvaujančiam asmeniui tyrimo tikslais taikomi tyrimo metodai kelia riziką tiriamojo sveikatai, tyrimo užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl galimos turtinės ir neturtinės žalos, atsiradusios dėl tiriamojo sveikatos sužalojimo ar tiriamojo mirties, atlyginimo, sudarydami biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo sutartis su draudikais. Klinikinį tyrimą su medicinos priemone, kuriame dalyvaujančiam asmeniui taikomi biomedicininio tyrimo metodai kelia tik nedidelį nepageidaujamą laikiną poveikį jo sveikatai, asmens sveikatos priežiūros įstaigai, kuri pati arba jos darbuotojas yra tokio biomedicininio tyrimo užsakovas arba jos darbuotojas yra tokio biomedicininio tyrimo tyrėjas, leidžiama atlikti ir neturint biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo. Šioje dalyje nurodytu atveju biomedicininio tyrimo užsakovo ir tyrėjo padaryta turtinė ir neturtinė žala tiriamojo sveikatai atlyginama Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka iš Vyriausybės įgaliotos institucijos valdomos sąskaitos, kurioje kaupiamos sveikatos priežiūros įstaigų įmokos pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, lėšų. Tai, ar klinikinio tyrimo su medicinos priemone tikslais taikomi tyrimo metodai kelia riziką tiriamojo sveikatai, ir tai, ar klinikinio tyrimo su medicinos priemone tikslais taikomi tyrimo metodai kelia nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, vertina Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos ir Lietuvos bioetikos komitetas, vertindami paraišką dėl klinikinio tyrimo su medicinos priemone ir paraišką dėl klinikinio tyrimo esminio pakeitimo, vadovaudamiesi sveikatos apsaugos ministro patvirtintu Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių biomedicininių tyrimų metodų sąrašu. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos ir Lietuvos bioetikos komitetas motyvuotu bendru sprendimu gali pripažinti keliančiais nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai ir kitus Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąraše nenurodytus klinikinio tyrimo su medicinos priemone metodus pagal sveikatos apsaugos ministro nustatytus kriterijus.
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+31. Klinikinio tyrimo su medicinos priemone arba veiksmingumo tyrimo, kuriame dalyvaujančiam asmeniui tyrimo tikslais taikomi tyrimo metodai kelia riziką tiriamojo sveikatai, tyrimo užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl galimos turtinės ir neturtinės žalos, atsiradusios dėl tiriamojo sveikatos sužalojimo ar tiriamojo mirties, atlyginimo, sudarydami biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo sutartis su draudikais. Klinikinį tyrimą su medicinos priemone arba veiksmingumo tyrimą, kuriame dalyvaujančiam asmeniui taikomi biomedicininio tyrimo metodai kelia tik nedidelį nepageidaujamą laikiną poveikį jo sveikatai, asmens sveikatos priežiūros įstaigai, kuri pati arba jos darbuotojas yra tokio biomedicininio tyrimo užsakovas arba jos darbuotojas yra tokio biomedicininio tyrimo tyrėjas, leidžiama atlikti ir neturint biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo. Šioje dalyje nurodytu atveju biomedicininio tyrimo užsakovo ir tyrėjo padaryta turtinė ir neturtinė žala tiriamojo sveikatai atlyginama Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka iš Vyriausybės įgaliotos institucijos valdomos sąskaitos, kurioje kaupiamos sveikatos priežiūros įstaigų įmokos pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, lėšų. Ar klinikinio tyrimo su medicinos priemone arba veiksmingumo tyrimo tikslais taikomi tyrimo metodai kelia riziką tiriamojo sveikatai, taip pat ar klinikinio tyrimo su medicinos priemone arba veiksmingumo tyrimo tikslais taikomi tyrimo metodai kelia nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, vertina Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos ir Lietuvos bioetikos komitetas, vertindami paraišką dėl klinikinio tyrimo su medicinos priemone arba paraišką dėl veiksmingumo tyrimo ir paraišką dėl klinikinio tyrimo su medicinos priemone esminio pakeitimo arba paraišką dėl veiksmingumo tyrimo esminio pakeitimo, vadovaudamiesi sveikatos apsaugos ministro patvirtintu Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąrašu. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos ir Lietuvos bioetikos komitetas motyvuotu bendru sprendimu gali pripažinti keliančiais nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai ir kitus Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąraše nenurodytus klinikinio tyrimo su medicinos priemone arba veiksmingumo tyrimo metodus pagal sveikatos apsaugos ministro nustatytus kriterijus.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 32. Tai, ar klinikinis vaistinio preparato tyrimas yra mažos intervencijos, vertina Lietuvos bioetikos komitetas ir Valstybinė vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos (toliau – Valstybinė vaistų kontrolės tarnyba), vertindami paraišką išduoti leidimą atlikti klinikinį vaistinio preparato tyrimą ir kartu pateikiamus dokumentus (toliau – klinikinio vaistinio preparato tyrimo paraiška) ar paraišką išduoti leidimą atlikti esminį klinikinio vaistinio preparato tyrimo pakeitimą ir kartu pateikiamus dokumentus (toliau – esminio klinikinio vaistinio preparato tyrimo pakeitimo paraiška).
 
@@ -487,11 +525,15 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
-33. Tai, ar biomedicininio tyrimo, išskyrus klinikinį vaistinio preparato tyrimą ir klinikinius tyrimus su medicinos priemone, tikslais taikomi intervenciniai tyrimo metodai kelia nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą, vadovaudamiesi sveikatos apsaugos ministro patvirtintu nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąrašu. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas motyvuotu sprendimu gali pripažinti keliančiais nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai ir kitus nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąraše nenurodytus intervencinius biomedicininių tyrimų metodus pagal sveikatos apsaugos ministro nustatytus kriterijus.
+33. Ar biomedicininio tyrimo, išskyrus klinikinį vaistinio preparato tyrimą, klinikinius tyrimus su medicinos priemone ir veiksmingumo tyrimus, tikslais taikomi intervenciniai tyrimo metodai kelia nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą, vadovaudamiesi sveikatos apsaugos ministro patvirtintu Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąrašu. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas motyvuotu sprendimu gali pripažinti keliančiais nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai ir kitus Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąraše nenurodytus intervencinius biomedicininių tyrimų metodus pagal sveikatos apsaugos ministro nustatytus kriterijus.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 4. Biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo suma negali būti mažesnė kaip 29 000 eurų turtinei ir neturtinei žalai, padarytai vienam tiriamajam, kompensuoti. Biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo apsauga turi galioti nuo biomedicininio tyrimo pradžios iki jo pabaigos ir ne trumpiau kaip 5 metus nuo biomedicininio tyrimo pabaigos. Biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo taisykles, kurios nustato kitas biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo sutarties sąlygas, turtinės ir neturtinės žalos tiriamojo sveikatai dydžio apskaičiavimo ir atlyginimo tvarką, nustato Vyriausybė ar jos įgaliota institucija.
 
@@ -583,13 +625,15 @@ IV SKYRIUS
 
 BIOMEDICININIŲ TYRIMŲ ATLIKIMO PRIEŽIŪRA
 
-20 straipsnis. Institucijos, suteikiančios teisę atlikti biomedicininius tyrimus (išskyrus klinikinius vaistinių preparatų tyrimus ir klinikinius tyrimus su medicinos priemone)
+20 straipsnis. Institucijos, suteikiančios teisę atlikti biomedicininius tyrimus (išskyrus klinikinius vaistinių preparatų tyrimus, klinikinius tyrimus su medicinos priemone ir veiksmingumo tyrimus)
 
-Leidimus atlikti biomedicininį tyrimą, išskyrus klinikinius vaistinių preparatų tyrimus ir klinikinius tyrimus su medicinos priemone, išduoda Lietuvos bioetikos komitetas šio įstatymo 21 straipsnio 2 dalies 2 punkte numatytu atveju arba regioninis biomedicininių tyrimų etikos komitetas šio įstatymo 22 straipsnio 5 dalies 1 punkte numatytu atveju.
+Leidimus atlikti biomedicininį tyrimą, išskyrus klinikinius vaistinių preparatų tyrimus, klinikinius tyrimus su medicinos priemone ir veiksmingumo tyrimus, išduoda Lietuvos bioetikos komitetas šio įstatymo 21 straipsnio 2 dalies 2 punkte numatytu atveju arba regioninis biomedicininių tyrimų etikos komitetas šio įstatymo 22 straipsnio 5 dalies 1 punkte numatytu atveju.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 21 straipsnis. Lietuvos bioetikos komitetas
 
@@ -599,11 +643,13 @@ Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
 1) analizuoja bioetikos problemas ir konsultuoja valstybės ir savivaldybių institucijas, įstaigas, organizacijas bioetikos klausimais, teikia išvadas ir pasiūlymus dėl šiuos klausimus reglamentuojančių įstatymų ir kitų teisės aktų projektų;
 
-2) išduoda leidimus atlikti biomedicininius tyrimus, išskyrus klinikinius vaistinių preparatų tyrimus ir klinikinius tyrimus su medicinos priemone, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje, ir atlieka šių tyrimų etinę priežiūrą;
+2) išduoda leidimus atlikti biomedicininius tyrimus, išskyrus klinikinius vaistinių preparatų tyrimus, klinikinius tyrimus su medicinos priemone ir veiksmingumo tyrimus, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje, ir atlieka šių tyrimų etinę priežiūrą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 3) atlieka klinikinio vaistinio preparato tyrimo paraiškos ir esminio klinikinio vaistinio preparato tyrimo pakeitimo paraiškos Reglamento (ES) Nr. 536/2014 6 ir (ar) 7 straipsniuose nurodytais aspektais etinį vertinimą ir teikia klinikinio vaistinio preparato tyrimo paraiškos etinio vertinimo išvadą ir esminio klinikinio vaistinio preparato tyrimo pakeitimo paraiškos etinio vertinimo išvadą šio įstatymo 242 straipsnyje nustatyta tvarka;
 
@@ -633,19 +679,29 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
-13) atlieka kitas šiame įstatyme, kituose įstatymuose ir Lietuvos bioetikos komiteto nuostatuose nustatytas funkcijas.
+13) atlieka veiksmingumo tyrimo paraiškos ir esminio veiksmingumo tyrimo pakeitimo paraiškos Reglamente (ES) 2017/746 ir šiame įstatyme nurodytais aspektais etinį vertinimą ir teikia išvadą dėl veiksmingumo tyrimo paraiškos ir esminio veiksmingumo tyrimo pakeitimo paraiškos šio įstatymo 241 straipsnyje nustatyta tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+14) atlieka kitas šiame įstatyme, kituose įstatymuose ir Lietuvos bioetikos komiteto nuostatuose nustatytas funkcijas.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
-3. Lietuvos bioetikos komitetas išduoda leidimus atlikti biomedicininius tyrimus, teikia klinikinių vaistinių preparatų tyrimų paraiškų etinio vertinimo išvadas bei esminių klinikinių vaistinių preparatų tyrimų pakeitimų paraiškų etinio vertinimo išvadas, kad atitinkamai klinikinis vaistinio preparato tyrimas arba esminis klinikinio vaistinio preparato tyrimo pakeitimas atitinka Reglamente (ES) Nr. 536/2014 nustatytus reikalavimus ir teikia klinikinių tyrimų su medicinos priemone paraiškų ir esminių klinikinių tyrimų su medicinos priemone pakeitimų paraiškų etinio vertinimo išvadas, kad atitinkamai klinikinis tyrimas su medicinos priemone arba esminis klinikinio tyrimo su medicinos priemone pakeitimas atitinka Reglamente (ES) 2017/745 ir šiame įstatyme nustatytus reikalavimus, kai yra Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės pritarimas. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupė sprendimą šio įstatymo 22 straipsnio 5 dalies 2 ir 3 punktuose nurodytais atvejais priima įvertinusi regioninių biomedicininių tyrimų etikos komitetų siūlymus.
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+3. Lietuvos bioetikos komitetas išduoda leidimus atlikti biomedicininius tyrimus, teikia klinikinių vaistinių preparatų tyrimų paraiškų etinio vertinimo išvadas bei esminių klinikinių vaistinių preparatų tyrimų pakeitimų paraiškų etinio vertinimo išvadas, kad klinikinis vaistinio preparato tyrimas arba esminis klinikinio vaistinio preparato tyrimo pakeitimas atitinka Reglamente (ES) Nr. 536/2014 nustatytus reikalavimus, ir teikia klinikinių tyrimų su medicinos priemone, veiksmingumo tyrimų paraiškų, esminių klinikinių tyrimų su medicinos priemone pakeitimų ir esminių veiksmingumo tyrimų pakeitimų paraiškų etikos aspektų vertinimo išvadas, kad klinikinis tyrimas su medicinos priemone, veiksmingumo tyrimas, esminis klinikinio tyrimo su medicinos priemone pakeitimas arba esminis veiksmingumo tyrimo pakeitimas atitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 ir šiame įstatyme nustatytus reikalavimus, kai yra Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės pritarimas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 4. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę sudaro 9 nariai, iš jų 5 yra biomedicinos mokslų specialistai, 3 – mokslo laipsnį turintys socialinių ar humanitarinių mokslų srities specialistai ir vienas pacientų organizacijos atstovas. Per sveikatos apsaugos ministro nustatytą terminą ir jo nustatyta tvarka biomedicinos mokslų srities specialistus į Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę siūlo asmens sveikatos priežiūros specialistų asociacijos, socialinių ar humanitarinių mokslų srities specialistus siūlo universitetai, kuriuose yra dėstomi bioetikos arba sveikatos teisės dalykai, o pacientų organizacijos atstovą siūlo pacientų organizacijos. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės personalinę sudėtį tvirtina sveikatos apsaugos ministras, vadovaudamasis nešališkumo ir skaidrumo principais, atsižvelgdamas į kandidatų profesinę kvalifikaciją ir kompetenciją bei patirtį biomedicininių tyrimų etikos srityje. Šios grupės veiklos tvarką nustato sveikatos apsaugos ministras.
 
@@ -681,25 +737,31 @@ Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 5. Regioninis biomedicininių tyrimų etikos komitetas:
 
-1) išduoda leidimus atlikti biomedicininius tyrimus, išskyrus klinikinius vaistinių preparatų tyrimus ir klinikinius tyrimus su medicinos priemone, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose tik atitinkamo regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje;
+1) išduoda leidimus atlikti biomedicininius tyrimus, išskyrus klinikinius vaistinių preparatų tyrimus, klinikinius tyrimus su medicinos priemone ir veiksmingumo tyrimus, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose tik to regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
-2) teikia siūlymus Lietuvos bioetikos komitetui, kai biomedicininius tyrimus, išskyrus klinikinius vaistinių preparatų tyrimus ir klinikinius tyrimus su medicinos priemone, planuojama atlikti tyrimo centruose, esančiuose daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje;
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+2) neteko galios nuo 2022-05-26;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
-3) teikia siūlymus Lietuvos bioetikos komitetui dėl klinikinio vaistinio preparato tyrimo paraiškos Reglamento (ES) Nr. 536/2014 7 straipsnyje nurodytais aspektais etinio vertinimo ir teikia siūlymus Lietuvos bioetikos komitetui dėl klinikinių tyrimų su medicinos priemone paraiškos Reglamente (ES) 2017/745 ir šiame įstatyme nurodytais aspektais etinio vertinimo, kai klinikinius vaistinio preparato tyrimus ir klinikinius tyrimus su medicinos priemone planuojama atlikti jų veiklai priskirtoje teritorijoje;
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+3) neteko galios nuo 2022-05-26;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 4) atlieka biomedicininių tyrimų, kuriuos atlikti jis išdavė leidimą, etinę priežiūrą;
 
@@ -815,15 +877,19 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1).
+1. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB.
 
-2. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB (OL 2017 L 117, p. 1).
+2. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB.
+
+3. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/746 dėl in vitro diagnostikos medicinos priemonių, kuriuo panaikinama Direktyva 98/79/EB ir Komisijos sprendimas 2010/227/ES.
 
 Priedo pakeitimai:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 Pakeitimai:
 
@@ -939,17 +1005,27 @@ Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 1, 2, 6, 7, 11, 12, 20, 21, 22, 24-1, 24-2 straipsnių ir priedo pakeitimo įstatymas
 
-2. Klinikiniams tyrimams su medicinos priemone taikomi šio įstatymo 2 straipsnio 4, 6, 7, 9, 10, 13–16 ir 26 dalys, 4 straipsnio 3 ir 4 punktas, 6 straipsnio 1 dalies 1, 2, 4, 5, 7 punktai, 3 ir 4 dalys, 7 straipsnio 3 ir 4 dalys, 11 straipsnio 5 dalis, 12 straipsnio 31 ir 4 dalys, 21 straipsnio 1 dalis, 2 dalies 13 punktas ir 3–7 dalys, 22 straipsnio 1–4 dalys, 5 dalies 3 punktas, 241 straipsnis, 25 straipsnio 6 dalis ir 26 straipsnis ir Reglamento (ES) 2017/745 reikalavimai.
+part_4b8b2e7bd9904401a7e1cf9ad664ef38_end
+
+2. Klinikiniams tyrimams su medicinos priemone ir veiksmingumo tyrimams taikomi šio įstatymo 2 straipsnio 4, 6, 7, 9, 13, 14, 141, 15, 16 ir 26 dalys, 4 straipsnio 3 ir 4 punktai, 6 straipsnio 1 dalies 1, 2, 4, 5, 7 punktai, 3 ir 4 dalys, 7 straipsnio 3 ir 4 dalys, 11 straipsnio 5 dalis, 12 straipsnio 31 ir 4 dalys, 21 straipsnio 1 dalis, 2 dalies 12, 13 punktai ir 3–7 dalys, 241 straipsnis, 25 straipsnio 6 dalis ir 26 straipsnis, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimai.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 
-3. Klinikiniams vaistinių preparatų tyrimams taikomi šio įstatymo 2 straipsnio 4, 6, 7, 9, 10, 111, 13–16 ir 26 dalys, 3 straipsnio 8 dalis, 6 straipsnio 1 dalies 1, 2, 4, 5, 7 punktai ir 3 dalis, 7 straipsnio 3 ir 4 dalys, 11 straipsnio 4 dalis, 111 straipsnis, 12 straipsnio 1, 2, 32, 33 ir 4 dalys, 21 straipsnio 1 dalis, 2 dalies 3 punktas ir 3–7 dalys, 22 straipsnio 1–4 dalys, 5 dalies 3 punktas, 242 straipsnis, 25 straipsnio 6 dalis, 26 straipsnis ir Reglamento (ES) Nr. 536/2014 reikalavimai.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+3. Klinikiniams vaistinių preparatų tyrimams taikomi šio įstatymo 2 straipsnio 4, 6, 7, 9, 111, 13, 14, 142, 143, 144, 15, 16 ir 26 dalys, 3 straipsnio 8 dalis, 6 straipsnio 1 dalies 1, 2, 4, 5, 7 punktai ir 3 dalis, 7 straipsnio 3 ir 4 dalys, 11 straipsnio 4 dalis, 111 straipsnis, 12 straipsnio 1, 2, 3, 32 ir 4 dalys, 21 straipsnio 1 dalis, 2 dalies 3 punktas ir 3–7 dalys, 242 straipsnis, 25 straipsnio 6 dalis, 26 straipsnis ir Reglamento (ES) Nr. 536/2014 reikalavimai.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
@@ -965,9 +1041,17 @@ Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
 3. Lietuvos bioetikos komitetas šio straipsnio 1 ir 2 dalyse nurodytas išvadas Valstybinei vaistų kontrolės tarnybai pateikia ne vėliau kaip likus 2 darbo dienoms iki Reglamento (ES) Nr. 536/2014 8 straipsnio 1 dalyje, 14 straipsnio 3 dalyje, 19 straipsnio 1 dalyje, 20 straipsnio 5 dalyje ar 23 straipsnio 1 dalyje nustatyto atitinkamos paraiškos vertinimo termino pabaigos.
 
-4. Valstybinė vaistų kontrolės tarnyba atlieka Reglamento (ES) Nr. 536/2014 II, III ir XIII skyriuose nurodytas ataskaitą rengiančios valstybės narės, o kai Lietuvos Respublika pagal Reglamentą (ES) Nr. 536/2014 yra ataskaitą rengianti valstybė narė, – susijusios valstybės narės ir sveikatos apsaugos ministro nustatyta tvarka nacionalinio kontaktinio centro, nurodyto Reglamento (ES) Nr. 536/2014 83 straipsnyje, funkcijas ir užtikrina Lietuvos bioetikos komitetui ir regioniniams biomedicininių tyrimų etikos komitetams prieigą prie Reglamento (ES) Nr. 536/2014 80 straipsnyje nurodyto Europos Sąjungos portalo.
+4. Valstybinė vaistų kontrolės tarnyba atlieka Reglamento (ES) Nr. 536/2014 II, III ir XIII skyriuose nurodytas ataskaitą rengiančios valstybės narės, o kai Lietuvos Respublika pagal Reglamentą (ES) Nr. 536/2014 nėra ataskaitą rengianti valstybė narė, – susijusios valstybės narės, ir sveikatos apsaugos ministro nustatyta tvarka nacionalinio kontaktinio centro, nurodyto Reglamento (ES) Nr. 536/2014 83 straipsnyje, funkcijas ir užtikrina Lietuvos bioetikos komitetui prieigą prie Reglamento (ES) Nr. 536/2014 80 straipsnyje nurodyto Europos Sąjungos portalo.
 
-5. Lietuvos bioetikos komitetas Reglamento (ES) Nr. 536/2014 44 straipsnyje nustatyta tvarka dalyvauja vertinant Reglamento (ES) Nr. 536/2014 42 ir 43 straipsniuose nurodytą informaciją.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+
+5. Neteko galios nuo 2022-05-26.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 6. Lietuvos bioetikos komitetas kreipiasi į Valstybinę vaistų kontrolės tarnybą, prašydamas imtis Reglamento (ES) Nr. 536/2014 77 straipsnyje numatytų priemonių, kai turi duomenų, kad nesilaikoma Reglamente (ES) Nr. 536/2014 nustatytų reikalavimų.
 
