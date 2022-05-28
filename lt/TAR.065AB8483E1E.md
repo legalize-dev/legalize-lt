@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2022-04-29"
+last_updated: "2022-05-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2022-04-29 iki 2022-05-27
+Suvestinė redakcija nuo 2022-05-28 iki 2022-09-28
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -1652,13 +1652,15 @@ Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
 
 8. Komisijos nario įgaliojimai nutrūksta pasibaigus jo kadencijai.
 
-9. Komisijos nariais negali būti Seimo, Vyriausybės nariai, LRT tarybos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, asmenys, susiję su radijo ir (ar) televizijos programų transliuotojais, retransliuotojais, kitais asmenimis, teikiančiais Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjais darbo, autorinių sutarčių ar kitais sutartiniais santykiais, taip pat radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų dalyviai, juos skiriančių institucijų ar organizacijų vadovai, Komisijos administracijos darbuotojai. Komisijos pirmininkas, jo pavaduotojas negali dirbti verslo, komercijos ar kitokiose įstaigose, įmonėse ar organizacijose, negali gauti jokio kito atlyginimo, išskyrus darbo užmokestį, nustatytą pagal einamas pareigas, ir užmokestį už mokslinį bei pedagoginį darbą ir autorinį atlyginimą už kūrybinę veiklą, nesusijusią su radijo ir (ar) televizijos programų transliuotojais, retransliuotojais, kitais asmenimis, teikiančiais Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjais ir (ar) jų dalyviais. Komisijos nariu negali būti asmuo, kurio artimi asmenys, kaip jie apibrėžti Viešųjų ir privačių interesų derinimo įstatyme, yra susiję su radijo ir (ar) televizijos programų transliuotojais, retransliuotojais, kitais asmenimis, teikiančiais Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjais darbo, autorinių sutarčių ar kitais sutartiniais santykiais arba yra radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų dalyviai. Politinių partijų nariai, paskirti į Komisiją, sustabdo savo narystę politinėje partijoje ir dalyvavimą jos veikloje iki savo kadencijos Komisijoje pabaigos.
+9. Komisijos nariais negali būti Seimo, Vyriausybės nariai, LRT tarybos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, Komisijos administracijos darbuotojai, asmenys, einantys pareigas Komisijos prižiūrimų ūkio subjektų, nurodytų šio straipsnio 1 dalyje, valdymo organuose ar esantys šių ūkio subjektų dalyviai. Komisijos nariai negali būti susiję darbo santykiais, autorinėmis sutartimis su Komisijos prižiūrimais ūkio subjektais ar teikti jiems paslaugas pagal kitą sutartį, išskyrus atvejus, kai jie šiuose subjektuose dirba mokslinį ar pedagoginį darbą. Komisijos nariu negali būti asmuo, kurio artimi asmenys, kaip jie apibrėžti Viešųjų ir privačių interesų derinimo įstatyme, yra susiję darbo santykiais, autorinėmis sutartimis su Komisijos prižiūrimais ūkio subjektais ar teikia jiems paslaugas pagal kitą sutartį arba eina pareigas Komisijos prižiūrimų ūkio subjektų valdymo organuose, arba yra šių subjektų dalyviai, išskyrus atvejus, kai jie šiuose subjektuose dirba mokslinį ar pedagoginį darbą. Komisijos pirmininkas, jo pavaduotojas gali dirbti tik Komisijoje, joje eiti tik šias pareigas ir negali verstis jokia kita veikla, išskyrus atvejus, kai Komisijos pirmininkas, jo pavaduotojas dirba mokslinį ar pedagoginį darbą ir (arba) gauna autorinį atlyginimą už kūrybinę veiklą, jei tokia veikla nesukelia viešųjų ir privačių interesų konflikto. Politinių partijų nariai, paskirti į Komisiją, sustabdo savo narystę politinėje partijoje ir dalyvavimą jos veikloje iki savo kadencijos Komisijoje pabaigos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+
+Nr. XIV-1079, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11314
 
 10. Komisijos pirmininką ir jo pavaduotoją Seimo Kultūros komiteto teikimu iš Komisijos narių ketverių metų laikotarpiui skiria ir atleidžia Seimas. Kol Komisijos pirmininkas nėra paskirtas, jo pareigas eina vyriausias pagal amžių Komisijos narys. Asmuo negali būti Komisijos pirmininku ilgiau kaip dvi kadencijas iš eilės.
 
@@ -2243,6 +2245,8 @@ Priedo pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
+
+part_c83e88cbdd9e4593a113e85975042171_end
 
 Pakeitimai:
 
