@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2022-03-30"
+last_updated: "2022-05-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2022-03-30 iki 2022-05-27
+Suvestinė redakcija nuo 2022-05-28 iki 2022-05-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -5023,13 +5023,27 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 6. Bet kuri vartojimo sutarties rašytinė sąlyga turi būti išreikšta aiškiai ir suprantamai. Šio reikalavimo neatitinkančios sąlygos laikomos nesąžiningomis. Kai kyla abejonių dėl vartojimo sutarties sąlygų turinio, sutarties sąlygos turi būti aiškinamos vartotojų naudai. Ši taisyklė netaikoma kolektyvinio vartotojų interesų gynimo atvejais, kai siekiama parengtas standartines sutarčių sąlygas uždrausti toliau naudoti.
 
-7. Vartojimo sutarties dalyką apibūdinančios sąlygos, taip pat su parduotos prekės ar suteiktos paslaugos ir jų kainos atitikimu susijusios sąlygos neturi būti vertinamos nesąžiningumo požiūriu, jeigu jos išreikštos aiškiai ir suprantamai.
+7. Vartojimo sutarties dalyką apibūdinančios sąlygos, taip pat su parduotos prekės ar suteiktos paslaugos ir jų kainos atitikimu susijusios sąlygos neturi būti vertinamos nesąžiningumo požiūriu, jeigu jos išdėstytos aiškiai ir suprantamai. Be to, nesąžiningumo požiūriu neturi būti vertinamos vartojimo sutarčių sąlygos, tapačios įstatymų ar kitų teisės aktų nuostatoms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 8. Kai teismas sutarties sąlygą (sąlygas) pripažįsta nesąžininga (nesąžiningomis), ši sąlyga (šios sąlygos) negalioja nuo sutarties sudarymo, o likusios sutarties sąlygos šalims lieka privalomos, jeigu toliau vykdyti sutartį galima panaikinus nesąžiningas sąlygas.
 
 9. Bylą nagrinėjantis teismas turi pareigą vartojimo sutarčių sąlygų atitiktį nesąžiningumo kriterijams vertinti ex officio.
 
-10. Vartotojų teises ginančios institucijos turi teisę įstatymų nustatyta tvarka kontroliuoti vartojimo sutarčių standartines sąlygas ir ginčyti vartojimo sutarčių nesąžiningas sąlygas.
+10. Vartotojų reikalavimams pripažinti vartojimo sutarčių sąlygas nesąžiningomis senaties terminas netaikomas. Vartotojų reikalavimams susigrąžinti pagal vartojimo sutarčių nesąžiningas sąlygas nepagrįstai sumokėtas sumas taikomas bendrasis ieškinio senaties terminas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+11. Vartotojų apsaugos institucijos atlieka vartojimo sutarčių nesąžiningų sąlygų kontrolę įstatymų nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 6.2287 straipsnis. Vartotojų teisė į informaciją, kai sudaromos nuotolinės sutartys ir ne prekybos patalpose sudaromos sutartys
 
@@ -5039,13 +5053,15 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 2) duomenys apie verslininką (vardas ir pavardė ar pavadinimas, juridinio asmens teisinė forma);
 
-3) verslininko buveinės adresas, elektroninio pristatymo dėžutės adresas ir, jei turi, telefono ryšio, fakso numeriai ir elektroninio pašto adresas, kuriais vartotojas gali susisiekti su verslininku, ir, jeigu reikalinga, duomenys apie verslininką, kurio vardu veikiama (vardas ir pavardė ar pavadinimas, buveinės adresas). Verslininko ir, jeigu reikalinga, verslininko, kurio vardu veikiama, ekonominės veiklos vietos adresas, kuriuo vartotojas gali pateikti skundus, nurodomas, jeigu ekonominės veiklos vietos adresas skiriasi nuo buveinės adreso;
+3) verslininko buveinės adresas, telefono ryšio numeris ir elektroninio pašto adresas. Jeigu verslininkas pateikia kitas internetinio ryšio priemones, kuriomis vartotojui užtikrinama galimybė saugoti patvariojoje laikmenoje bet kokį rašytinį susirašinėjimą su verslininku, įskaitant susirašinėjimo datą ir laiką, turi būti nurodomos šios kitos ryšio priemonės. Visos šios verslininko pateiktos ryšio priemonės turi leisti vartotojui greitai susisiekti su verslininku ir veiksmingai su juo bendrauti. Be to, privaloma pateikti, jeigu reikalinga, duomenis apie verslininką, kurio vardu veikiama (vardas ir pavardė ar pavadinimas, buveinės adresas). Verslininko ir, jeigu reikalinga, verslininko, kurio vardu veikiama, ekonominės veiklos vietos adresas, kuriuo vartotojas gali pateikti skundus, nurodomas, jeigu ekonominės veiklos vietos adresas skiriasi nuo buveinės adreso;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 4) bendra prekių ar paslaugų kaina, į kurią įskaičiuoti mokesčiai, arba kai dėl prekių arba paslaugų pobūdžio kaina pagrįstai negali būti iš anksto apskaičiuota, metodas, pagal kurį ši kaina apskaičiuojama, ir, jeigu reikalinga, visos papildomos vežimo, pristatymo, pašto ir kitos išlaidos, arba kai šios papildomos išlaidos dėl pagrįstų priežasčių negali būti iš anksto apskaičiuotos, informacija apie tai, kad gali tekti jas apmokėti. Kai sudaroma neterminuota sutartis arba sutartis, kurioje numatytas periodinių įmokų mokėjimas, bendrą kainą sudaro visos tam tikro sąskaitos pateikimo laikotarpio išlaidos. Jeigu pagal sutartį turi būti mokamas fiksuotas mokestis, bendra kaina taip pat reiškia visas mėnesio išlaidas. Jeigu visos išlaidos negali būti iš anksto pagrįstai apskaičiuotos, turi būti nurodytas metodas, pagal kurį apskaičiuojama kaina;
 
@@ -5059,11 +5075,13 @@ Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
 
 9) informacija, kad vartotojas, atsisakęs sutarties pagal šio kodekso 6.22810 straipsnio 9 ar 10 dalį, turi sumokėti verslininkui pagrįstas išlaidas pagal šio kodekso 6.22811 straipsnio 9 dalį;
 
-10) priminimas apie prekės garantiją pagal įstatymą;
+10) priminimas apie prekės, skaitmeninio turinio ar skaitmeninės paslaugos garantiją pagal įstatymą (teisinę garantiją);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 11) jeigu reikalinga, vartotojų aptarnavimas, jiems teikiamos paslaugos po sutarties sudarymo ir kokybės garantija (komercinė garantija) bei jų sąlygos;
 
@@ -5077,17 +5095,31 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 16) jeigu reikalinga, galimybė pateikti skundą ar reikalauti žalos atlyginimo ne teismo tvarka ir pasinaudojimo ja sąlygos;
 
-17) jeigu reikalinga, skaitmeninio turinio funkcinės savybės, įskaitant taikomas technines apsaugos priemones;
+17) jeigu reikalinga, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų funkcionalumas, įskaitant taikomas technines apsaugos priemones;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
-18) jeigu reikalinga, skaitmeninio turinio suderinamumas su technine ir programine įranga tiek, kiek verslininkas žino ar turi žinoti.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+18) jeigu reikalinga, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų suderinamumas ir sąveikumas tiek, kiek verslininkas žino ar turi žinoti;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+19) jeigu reikalinga, tai, kad kaina buvo individualizuota taikant automatizuotą sprendimų priėmimą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 2. Šio straipsnio 1 dalies 7, 8 ir 9 punktuose nurodyta informacija gali būti vartotojui suteikta pateikiant užpildytą pavyzdinę informacijos apie sutarties atsisakymą formą. Šią formą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Jeigu verslininkas pateikė vartotojui tinkamai užpildytą pavyzdinę informacijos apie sutarties atsisakymą formą, laikoma, kad verslininkas tinkamai įvykdė šio straipsnio 1 dalies 7, 8 ir 9 punktuose nustatytus informacijos teikimo reikalavimus.
 
@@ -5097,7 +5129,25 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 5. Pareiga įrodyti, kad pagal šį straipsnį informacija yra suteikta vartotojui, tenka verslininkui.
 
-6. Kituose įstatymuose gali būti nustatyta papildomų informacijos teikimo reikalavimų atskirų rūšių nuotolinėms sutartims ar ne prekybos patalpose sudarytoms sutartims.
+6. Elektroninės prekyvietės paslaugos teikėjas prieš vartojimo sutarties sudarymą elektroninėje prekyvietėje privalo, atsižvelgdamas į naudojamas nuotolinio ryšio priemones, pateikti vartotojui aiškiai ir suprantamai šią informaciją:
+
+1) bendrąją informaciją apie pagrindinius parametrus, pagal kuriuos nustatomas vartotojams pasiūlytų produktų reitingas pagal paieškos užklausą, ir tų parametrų santykinis reikšmingumas, palyginti su kitais parametrais. Ši informacija turi būti pateikta atskiroje elektroninės sąsajos dalyje, tiesiogiai ir lengvai prieinamoje iš puslapio, kuriame pateikti pasiūlymai;
+
+2) tai, ar prekes, paslaugas arba skaitmeninį turinį siūlo verslininkas. Ši informacija pateikiama remiantis elektroninėje prekyvietėje pasiūlymą pateikusio asmens pateikta deklaracija;
+
+3) tai, kad vartotojų apsaugos reikalavimai netaikomi sutarčiai, kai prekes, paslaugas arba skaitmeninį turinį siūlantis asmuo nėra verslininkas;
+
+4) jeigu reikalinga, informaciją apie prekes, paslaugas arba skaitmeninį turinį siūlančio asmens ir elektroninės prekyvietės paslaugos teikėjo sutartinių įsipareigojimų paskirstymą. Ši informacija negali pakeisti kituose įstatymuose ar Europos Sąjungos teisės aktuose nustatytų elektroninės prekyvietės paslaugos teikėjo ar verslininko pareigų, atsirandančių dėl sutarties vykdymo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+7. Kituose įstatymuose gali būti nustatyta papildomų informacijos teikimo reikalavimų atskirų rūšių nuotolinėms sutartims ar ne prekybos patalpose sudarytoms sutartims.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 6.22810 straipsnis. Vartotojų teisė atsisakyti nuotolinės sutarties ir ne prekybos patalpose sudarytos sutarties
 
@@ -5105,11 +5155,19 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 2. Vartotojo teisė atsisakyti nuotolinės sutarties ir ne prekybos patalpose sudarytos sutarties netaikoma šioms sutartims:
 
-1) paslaugų sutartims, pagal kurias paslaugos vartotojui visiškai suteiktos, jeigu prieš paslaugų teikimą buvo gautas vartotojo aiškus sutikimas ir pripažinimas, kad jis neteks teisės atsisakyti sutarties, kai verslininkas visiškai įvykdys sutartį;
+1) paslaugų sutartims, pagal kurias paslaugos vartotojui visiškai suteiktos ir kurios numato vartotojo pareigą sumokėti kainą, jeigu prieš pradedant teikti paslaugas buvo gautas vartotojo aiškus sutikimas ir pripažinimas, kad jis neteks teisės atsisakyti sutarties, kai verslininkas visiškai įvykdys sutartį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 2) sutartims, pagal kurias parduodamų prekių ar teikiamų paslaugų kaina priklauso nuo finansų rinkos svyravimų šio straipsnio 1 dalyje nustatytu sutarties atsisakymo laikotarpiu;
 
-3) sutartims dėl pagal specialius vartotojo nurodymus pagamintų prekių, kurios nėra iš anksto pagamintos ir kurios gaminamos atsižvelgiant į vartotojo asmeninį pasirinkimą ar nurodymą, arba dėl prekių, kurios yra aiškiai pritaikytos vartotojo asmeninėms reikmėms;
+3) sutartims dėl pagal specialius vartotojo nurodymus gaminamų prekių, t. y. prekių, kurios nėra iš anksto pagamintos ir kurios gaminamos atsižvelgiant į vartotojo asmeninį pasirinkimą ar nurodymą, neatsižvelgiant į tai, ar prekės pradėtos gaminti, ar ne, arba dėl prekių, kurios yra aiškiai pritaikytos vartotojo asmeninėms reikmėms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 4) sutartims dėl greitai gendančių prekių ar prekių, kurių galiojimo laikas yra trumpas;
 
@@ -5129,7 +5187,17 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 12) sutartims dėl apgyvendinimo, prekių vežimo, automobilių nuomos, viešojo maitinimo ar laisvalaikio paslaugų, jeigu sutartyje nustatyta konkreti paslaugų teikimo data ar laikotarpis;
 
-13) sutartims dėl skaitmeninio turinio teikimo, jeigu skaitmeninio turinio teikimas buvo pradėtas vartotojui iš anksto aiškiai sutikus ir pripažinus, kad dėl to jis praras teisę atsisakyti sutarties.
+13) sutartims dėl skaitmeninio turinio teikimo, kurios yra pradėtos vykdyti ir kuriose numatyta vartotojo pareiga sumokėti kainą, jeigu yra visos šios sąlygos:
+
+a) vartotojas aiškiai iš anksto sutiko, kad sutartis būtų pradėta vykdyti, nors nėra suėjęs teisės atsisakyti sutarties įgyvendinimo terminas;
+
+b) vartotojas pripažino, kad jis netenka teisės atsisakyti sutarties;
+
+c) verslininkas pateikė patvirtinimą pagal šio kodekso 6.2288 straipsnio 6 dalį arba 6.2289 straipsnio 5 dalį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 3. Šio straipsnio 1 dalyje nurodytas nuotolinės sutarties ir ne prekybos patalpose sudarytos sutarties atsisakymo terminas pasibaigia po keturiolikos dienų:
 
@@ -5161,9 +5229,17 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 8. Pareiga įrodyti, kad laikėsi šio straipsnio reikalavimų dėl sutarties atsisakymo, tenka vartotojui.
 
-9. Jeigu sudaręs nuotolinę sutartį vartotojas nori, kad paslaugos būtų pradėtos teikti arba energija pradėta tiekti nepasibaigus šiame straipsnyje nustatytam nuotolinės sutarties atsisakymo terminui, verslininkas gali teikti paslaugas ar tiekti energiją tik gavęs aiškų vartotojo prašymą.
+9. Jeigu sudaręs nuotolinę sutartį vartotojas nori, kad paslaugos būtų pradėtos teikti arba energija pradėta tiekti nepasibaigus šiame straipsnyje nustatytam nuotolinės sutarties atsisakymo terminui, ir vartotojui pagal sutartį atsiranda pareiga sumokėti kainą, verslininkas gali teikti paslaugas ar tiekti energiją tik gavęs aiškų vartotojo prašymą patvariojoje laikmenoje ir vartotojo pripažinimą, kad, verslininkui visiškai įvykdžius sutartį, vartotojas praranda teisę atsisakyti sutarties.
 
-10. Jeigu sudaręs sutartį ne prekybos patalpose vartotojas nori, kad paslaugos būtų pradėtos teikti arba energija pradėta tiekti nepasibaigus šiame straipsnyje nustatytam ne prekybos patalpose sudarytos sutarties atsisakymo terminui, verslininkas gali teikti paslaugas ar tiekti energiją tik gavęs aiškų vartotojo prašymą patvariojoje laikmenoje.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+10. Jeigu sudaręs sutartį ne prekybos patalpose vartotojas nori, kad paslaugos būtų pradėtos teikti arba energija pradėta tiekti nepasibaigus šiame straipsnyje nustatytam ne prekybos patalpose sudarytos sutarties atsisakymo terminui ir vartotojui pagal sutartį atsiranda pareiga sumokėti kainą, verslininkas gali teikti paslaugas ar tiekti energiją tik gavęs aiškų vartotojo prašymą patvariojoje laikmenoje ir vartotojo pripažinimą, kad, verslininkui visiškai įvykdžius sutartį, vartotojas praranda teisę atsisakyti sutarties.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 6.22812 straipsnis. Vartotojų teisės atsisakyti vartojimo sutarčių dėl skaitmeninio turinio teikimo ypatumai
 
@@ -5363,13 +5439,31 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 12. Suderinamumas – skaitmeninio turinio ar skaitmeninės paslaugos gebėjimas veikti su aparatine ar programine įranga, su kuria tos pačios rūšies skaitmeninis turinys ar skaitmeninės paslaugos yra paprastai naudojami, kai nėra būtinybės keisti skaitmeninio turinio ar skaitmeninės paslaugos.
 
+13. Elektroninės prekyvietės paslauga – programine įranga, įskaitant interneto svetainę, jos dalį ar taikomąją programą, grindžiama paslauga, kuri teikiama verslininko paties arba jo vardu ir kuria vartotojams suteikiama galimybė sudaryti nuotolines sutartis su kitais verslininkais ar vartotojais.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+14. Elektroninės prekyvietės paslaugos teikėjas – verslininkas, suteikiantis vartotojams galimybę naudotis elektroninės prekyvietės paslauga.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+15. Produktų reitingas – verslininko bet kokiomis technologinėmis priemonėmis produktams suteikiamas santykinis reikšmingumas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
 Straipsnio pakeitimai:
 
 Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
 6.2283 straipsnis. Vartojimo sutartis reglamentuojančių normų taikymas
 
-1. Šio skyriaus nuostatos taikomos visoms vartojimo sutartims, išskyrus šiame straipsnyje nustatytas išimtis.
+1. Šio skyriaus nuostatos taikomos visoms vartojimo sutartims, išskyrus šiame straipsnyje nustatytas išimtis. Šio skyriaus nuostatos taip pat taikomos tais atvejais, kai verslininkas teikia arba įsipareigoja teikti skaitmeninį turinį, kuris neįrašytas fizinėje laikmenoje, ar skaitmeninę paslaugą vartotojui, o vartotojas verslininkui pateikia arba įsipareigoja pateikti asmens duomenis, išskyrus atvejus, kai šiuos asmens duomenis verslininkas tvarko tik siekdamas pateikti skaitmeninį turinį, kuris neįrašytas fizinėje laikmenoje, ar skaitmeninę paslaugą arba užtikrinti teisės aktuose nustatytų reikalavimų įgyvendinimą ir netvarko tų duomenų jokiais kitais tikslais.
 
 2. Šio skyriaus, išskyrus 6.2284 straipsnį, nuostatos netaikomos šioms sutartims:
 
@@ -5387,11 +5481,7 @@ Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
 7) pakaitinio naudojimosi patalpomis, ilgalaikio atostogų produkto, perpardavimo arba keitimosi sutartims (šio kodekso 6.369, 6.370 straipsniai);
 
-8) organizuotos turistinės kelionės sutartims (šio kodekso 6.747–6.755 straipsniai), išskyrus šio kodekso 6.22810 straipsnio 1 dalyje numatytą teisę atsisakyti ne prekybos patalpose sudarytos organizuotos turistinės kelionės sutarties su išimtimis, nurodytomis šio kodekso 6.22810 straipsnio 2 dalyje, ir šio kodekso 6.2285 straipsnio 3, 5 ir 6 dalių, 6.2286 straipsnio 1 dalies, 6.2288 straipsnio 3 ir 5 dalių nuostatas, kurios taikomos organizuotos turistinės kelionės sutartims;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-1448, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11760
+8) organizuotos turistinės kelionės sutartims (šio kodekso 6.747–6.755 straipsniai), išskyrus šio kodekso 6.22810 straipsnio 1 dalyje numatytą teisę atsisakyti ne prekybos patalpose sudarytos organizuotos turistinės kelionės sutarties su išimtimis, nurodytomis šio kodekso 6.22810 straipsnio 2 dalyje, ir šio kodekso 6.2285 straipsnio 3, 5 ir 6 dalių, 6.2286 straipsnio 1 dalies, 6.2288 straipsnio 3 ir 5 dalių nuostatas, kurios taikomos organizuotos turistinės kelionės sutartims;
 
 9) sutartims dėl dažno ir reguliaraus maisto produktų, gėrimų ar kitų prekių, skirtų einamajam vartojimui namų ūkyje, tiekimo vartotojui;
 
@@ -5401,17 +5491,19 @@ Nr. XIII-1448, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11760
 
 12) sutartims dėl azartinių lošimų, loterijos ar kitokių žaidimų, grindžiamų rizika ar atsitiktinumu;
 
-13) sutartims dėl keleivių vežimo, išskyrus šio kodekso 6.2285 straipsnio 3 ir 6 dalis bei 6.2288 straipsnio 3 dalį.
+13) sutartims dėl keleivių vežimo, išskyrus šio kodekso 6.2285 straipsnio 3, 5 ir 6 dalis bei 6.2288 straipsnio 3 dalį;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+14) sandoriams dėl turto realizavimo vykdymo proceso metu.
 
 3. Šio skyriaus normos, reglamentuojančios vartotojų teisių apsaugą, taip pat taikomos šiais atvejais:
 
-1) kai fizinis asmuo sudaro sutartį dvigubo naudojimo tikslais, t. y. vartojimo ir verslo tikslais, tačiau, atsižvelgiant į visas su sutartimi susijusias aplinkybes, verslo tikslai nevyrauja;
+1) kai fizinis asmuo sudaro sutartį dvigubo naudojimo tikslais, t. y. vartojimo ir verslo tikslais, tačiau, atsižvelgiant į visas su sutartimi susijusias aplinkybes, verslo tikslai nevyrauja;
 
 2) kai fizinis asmuo faktiškai naudojasi preke ar faktiškai gauna paslaugą vartojimo tikslais ir už ją sumoka, nors sutartį su verslininku sudarė fiziniam asmeniui atstovaujantis viešasis juridinis asmuo.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 6.2285 straipsnis. Kaina ir kiti mokėjimai
 
@@ -5457,25 +5549,35 @@ Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
 
 4) jeigu reikalinga, apmokėjimo, pristatymo, sutarties vykdymo tvarka, prekių pristatymo ar paslaugų suteikimo terminas, verslininko atliekamo vartotojų skundų nagrinėjimo tvarka;
 
-5) priminimas apie prekės garantiją pagal įstatymą, tinkamumo naudoti terminas, garantinio aptarnavimo ir kokybės garantijos (komercinės garantijos) sąlygos, jeigu reikalinga;
+5) garantinio aptarnavimo ir kokybės garantijos (komercinės garantijos) sąlygos, jeigu reikalinga, kartu su priminimu apie prekės, skaitmeninio turinio ar skaitmeninės paslaugos garantiją pagal įstatymą (teisinę garantiją);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
 6) jeigu reikalinga, sutarties trukmė, o kai sutartis neterminuota ar pratęsiama automatiškai, – sutarties nutraukimo sąlygos;
 
-7) jeigu reikalinga, skaitmeninio turinio funkcinės savybės, įskaitant taikomas technines apsaugos priemones;
+7) jeigu reikalinga, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų funkcionalumas, įskaitant taikomas technines apsaugos priemones;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
-8) jeigu reikalinga, skaitmeninio turinio suderinamumas su technine ir programine įranga tiek, kiek verslininkas žino ar turi žinoti.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+8) jeigu reikalinga, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų suderinamumas ir sąveikumas tiek, kiek verslininkas žino ar turi žinoti.
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 2. Įstatymuose ir Mažmeninės prekybos taisyklėse gali būti nustatyta reikalavimų dėl papildomos informacijos, kurią būtina suteikti vartotojams prieš sudarant vartojimo sutartis dėl tam tikrų rūšių prekių ar paslaugų, teikimo.
 
@@ -5493,7 +5595,11 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 3. Jeigu pagal elektroninėmis priemonėmis sudaromą nuotolinę sutartį vartotojas turi prievolę sumokėti, verslininkas aiškiai, pastebimu būdu ir prieš pat vartotojo užsakymo pateikimą privalo supažindinti vartotoją su šio kodekso 6.2287 straipsnio 1 dalies 1, 4, 13 ir 14 punktuose nurodyta informacija. Verslininkas privalo užtikrinti, kad vartotojas, pateikdamas savo užsakymą, aiškiai patvirtintų, kad po užsakymo pateikimo vartotojui atsiranda prievolė sumokėti. Jeigu pateikiant užsakymą reikia paspausti mygtuką ar naudoti panašią funkciją, mygtukas ar panaši funkcija turi būti pažymėti taip, kad būtų lengvai įskaitoma (suprantama), t. y. pateikti tik žodžiai „užsakymas su prievole sumokėti“ ar panaši nedviprasmiška formuluotė, nurodanti, kad pateikus užsakymą vartotojui atsiranda prievolė sumokėti verslininkui. Jeigu verslininkas pažeidžia šį reikalavimą, iš nuotolinės sutarties vartotojui mokėjimo prievolė neatsiranda.
 
-4. Jeigu nuotolinė sutartis sudaroma ryšio priemonėmis, kurias naudojant nėra pakankamai vietos ar laiko informacijai pateikti, verslininkas prieš sutarties sudarymą privalo šiomis priemonėmis pateikti bent šio kodekso 6.2287 straipsnio 1 dalies 1, 2, 4, 7 ir 13 punktuose nurodytą informaciją. Kitą šio kodekso 6.2287 straipsnio 1 dalyje nurodytą informaciją verslininkas privalo pateikti vartotojui, kaip nustatyta šio straipsnio 2 dalyje.
+4. Jeigu nuotolinė sutartis sudaroma ryšio priemonėmis, kurias naudojant nėra pakankamai vietos ar laiko informacijai pateikti, verslininkas prieš sutarties sudarymą privalo šiomis priemonėmis pateikti bent šio kodekso 6.2287 straipsnio 1 dalies 1, 2, 4, 7 ir 13 punktuose nurodytą informaciją, išskyrus pavyzdinę sutarties atsisakymo formą. Kitą šio kodekso 6.2287 straipsnio 1 dalyje nurodytą informaciją, įskaitant pavyzdinę sutarties atsisakymo formą, verslininkas privalo pateikti vartotojui, kaip nustatyta šio straipsnio 2 dalyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 5. Verslininkas, kuris skambina vartotojui telefonu siekdamas sudaryti nuotolinę sutartį, pokalbio su vartotoju pradžioje privalo atskleisti savo tapatybę (vardą ir pavardę ar pavadinimą) ir, jeigu reikalinga, asmens, kurio vardu jis skambina, tapatybę (vardą ir pavardę ar pavadinimą) ir nurodyti komercinį šio pokalbio tikslą. Jeigu šiuo atveju vartotojas sutinka sudaryti nuotolinę sutartį, verslininkas privalo patvirtinti pasiūlymą vartotojui patvariojoje laikmenoje. Nuotolinė sutartis laikoma sudaryta, kai vartotojas pasirašo pasiūlymą arba išsiunčia verslininkui savo rašytinį sutikimą.
 
@@ -5568,6 +5674,44 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 11. Dėl vartotojo teisės atsisakyti sutarties įgyvendinimo negali vartotojui susidaryti jokių kitų šiame straipsnyje ar šio kodekso 6.22812 straipsnyje nenumatytų išlaidų.
 
 12. Vartotojui įgyvendinus teisę atsisakyti nuotolinės sutarties arba ne prekybos patalpose sudarytos sutarties, automatiškai nutraukiamos papildomos sutartys be jokių išlaidų vartotojui, išskyrus išlaidas, kurios numatytos šiame straipsnyje ar šio kodekso 6.22812 straipsnyje. Papildomomis sutartimis laikomos sutartys, pagal kurias vartotojas įsigyja prekių ar paslaugų, susijusių su nuotoline sutartimi ar su ne prekybos patalpose sudaryta sutartimi, o tas prekes tiekia ar paslaugas teikia verslininkas ar kitas asmuo pagal susitarimą su verslininku. Vartotojas privalo nedelsdamas pranešti raštu kitai sutarties šaliai apie papildomos sutarties nutraukimą ir pateikti duomenis apie nuotolinės sutarties arba ne prekybos patalpose sudarytos sutarties atsisakymą. Atskiras vartotojo pranešimas nereikalingas tais atvejais, kai papildoma sutartis buvo sudaryta su tuo pačiu verslininku, kuriam buvo pranešta apie sutarties atsisakymą pagal šio kodekso 6.22810 straipsnį.
+
+13. Vartotojui įgyvendinus teisę atsisakyti sutarties, verslininkas turi laikytis teisės aktuose nustatytų vartotojo asmens duomenų apsaugos reikalavimų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+14. Verslininkas turi nenaudoti bet kokio skaitmeninio turinio, kurį pateikė ar sukūrė vartotojas, naudodamas verslininko pateiktą skaitmeninį turinį ar skaitmeninę paslaugą, ir kuris nėra laikomas asmens duomenimis, išskyrus atvejus, kai tas skaitmeninis turinys:
+
+1) negali būti panaudotas kitoje aplinkoje negu verslininko suteikti skaitmeninis turinys ar skaitmeninė paslauga;
+
+2) susijęs tik su vartotojo veikla naudojantis verslininko suteiktais skaitmeniniu turiniu ar skaitmenine paslauga;
+
+3) buvo susietas su kitais verslininko duomenimis ir negali būti atsietas arba dėl atsiejimo atsirastų neproporcingų išlaidų;
+
+4) buvo sukurtas vartotojo kartu su kitais asmenimis ir kiti vartotojai gali toliau juo naudotis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+15. Verslininkas, gavęs vartotojo prašymą, turi padaryti prieinamą vartotojui skaitmeninį turinį, kurį pateikė ar sukūrė vartotojas, naudodamas verslininko teikiamus skaitmeninį turinį ar skaitmeninę paslaugą, ir kuris nėra laikomas asmens duomenimis, išskyrus šio straipsnio 14 dalies 1, 2 ir 3 punktuose numatytus atvejus. Vartotojas turi teisę atgauti tą skaitmeninį turinį nemokamai, verslininkui nesudarant kliūčių, per protingą terminą ir įprastai naudojamu kompiuterio skaitomu formatu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+16. Vartotojui įgyvendinus teisę atsisakyti sutarties, verslininkas turi teisę apriboti vartotojo galimybę toliau naudotis skaitmeniniu turiniu ar skaitmenine paslauga nebesuteikdamas prieigos prie skaitmeninio turinio ar skaitmeninės paslaugos, deaktyvuodamas vartotojo paskyrą ar kitu būdu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+17. Įgyvendinęs teisę atsisakyti sutarties, vartotojas turi nesinaudoti skaitmeniniu turiniu ar skaitmenine paslauga ir nesuteikti galimybės jais naudotis kitiems asmenims.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 6.22813 straipsnis. Prekių ir paslaugų kokybės ir saugos reikalavimai
 
@@ -10437,13 +10581,25 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais su pakeitimais, padarytais 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES.
+1. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2161.
 
-2. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/6/EB dėl vartotojų apsaugos žymint vartotojams siūlomų prekių kainas.
+Punkto pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+2. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/6/EB dėl vartotojų apsaugos žymint vartotojams siūlomų prekių kainas su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2161.
+
+Punkto pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 3. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais.
 
-4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302.
+4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2161.
+
+Punkto pakeitimai:
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 5. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB.
 
@@ -11314,6 +11470,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-965, 2022-03-22, paskelbta TAR 2022-03-29, i. k. 2022-06190
 
 Lietuvos Respublikos civilinio kodekso 3.242 straipsnio pakeitimo įstatymas
+
+59.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
+
+Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-6, 6.228-7, 6.228-8, 6.228-10, 6.228-11 straipsnių ir priedo pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
