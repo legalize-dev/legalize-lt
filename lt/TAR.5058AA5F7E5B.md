@@ -4,7 +4,7 @@ identifier: "TAR.5058AA5F7E5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-02-05"
-last_updated: "2004-05-01"
+last_updated: "2022-05-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5058AA5F7E5B"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2004-02-05"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įstatymas dėl konvencijos dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose, kurią pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba, ir dėl Konvencijos dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose Protokolo, kurį pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba, ratifikavimo
+
+Suvestinė redakcija nuo 2022-05-28
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 67-2352, i. k. 1041010ISTA0IX-2007
 
 LIETUVOS RESPUBLIKOS
 
@@ -27,7 +31,11 @@ Vilnius
 
 1 straipsnis. Konvencijos ir Protokolo ratifikavimas
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 7 d. dekretą Nr. 328, ratifikuoja 2000 m. gegužės 29 d. Briuselyje priimtą Konvenciją dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose, kurią pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba, ir 2001 m. spalio 16 d. Liuksemburge priimtą Konvencijos dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose Protokolą, kurį pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2004 m. sausio 7 d. dekretą Nr. 328, ratifikuoja 2000 m. gegužės 29 d. Briuselyje priimtą Konvenciją dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose, kurią pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba (toliau – Konvencija), ir 2001 m. spalio 16 d. Liuksemburge priimtą Konvencijos dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose Protokolą, kurį pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1082, 2022-05-10, paskelbta TAR 2022-05-27, i. k. 2022-11305
 
 2 straipsnis. Lietuvos Respublikos išlygos
 
@@ -54,6 +62,16 @@ Vadovaudamasis Konvencijos 6 straipsnio 7 dalimi, Lietuvos Respublikos Seimas pa
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                   ROLANDAS PAKSAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1082, 2022-05-10, paskelbta TAR 2022-05-27, i. k. 2022-11305
+
+Lietuvos Respublikos įstatymo „Dėl Konvencijos dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose, kurią pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba, ir dėl Konvencijos dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose Protokolo, kurį pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba, ratifikavimo“ Nr. IX-2007 1 straipsnio pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
 
 31 straipsnis. Papildomi Lietuvos Respublikos pareiškimai, susiję su Europos prokuratūros kompetencija
 
