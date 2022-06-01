@@ -4,7 +4,7 @@ identifier: "TAR.F62AD965997D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-05-20"
-last_updated: "2021-11-13"
+last_updated: "2022-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2021-11-13 iki 2022-05-31
+Suvestinė redakcija nuo 2022-06-01 iki 2022-07-14
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
 
@@ -106,6 +106,18 @@ Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
 
 2) atlygina dėl šildymo būdo keitimo atsiradusias pastato remonto ir (ar) pastato šilumos įrenginių rekonstravimo, techninių sprendimų, pastato šildymo ir karšto vandens sistemos balansavimo, pastato šildymo ir karšto vandens sistemos dokumentų pakeitimo išlaidas.
 
+4. Šilumos vartotojai turi teisę nutraukti šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartis ir atjungti viso pastato šildymo ir (ar) karšto vandens sistemos įrenginius nuo šilumos tiekimo sistemos, jeigu ji neatitinka efektyvaus centralizuoto šilumos tiekimo sistemos kriterijų, nurodytų šio įstatymo 2 straipsnio 10 dalyje, ir šilumos ūkio specialiajame plane nėra numatyta iki 2025 m. gruodžio 31 d. jų pasiekti, ir šilumos vartotojai pastato energinio naudingumo sertifikatu gali pagrįsti, kad numatytas pastato apsirūpinimo šiluma ir (ar) karštu vandeniu iš atsinaujinančių išteklių energijos būdas užtikrins ne mažiau kaip 20 procentų didesnį šilumos tiekimo sistemos energinį naudingumą. Kai šilumos ir (ar) karšto vandens pirkimo–pardavimo sutarties nutraukimas yra susijęs su šilumos vartotojų įrenginių atjungimu nuo šilumos tiekimo sistemos, šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartį nutraukti galima tik tuo atveju, jeigu šilumos ir (ar) karšto vandens tiekėjui kompensuojamos išlaidos, tiesiogiai patirtos dėl fizinio atjungimo, ir neamortizuota turto dalis (likutinė vertė), reikalinga šilumai ir (ar) karštam vandeniui vartotojui tiekti. Daugiabučio namo šildymo ir (ar) apsirūpinimo karštu vandeniu būdas keičiamas Lietuvos Respublikos statybos įstatymo nustatyta tvarka remontuojant pastatą
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
+
+5. Šio straipsnio 4 dalyje nustatyta teise gali pasinaudoti pastato savininkai, daugiabučio namo butų ir kitų patalpų savininkai, visų savininkų balsų dauguma priėmę sprendimą nutraukti šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartis ir atjungti viso pastato šildymo ir (ar) karšto vandens sistemos įrenginius nuo šilumos tiekimo sistemos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
+
 Straipsnio pakeitimai:
 
 Nr. XI-133, 2009-01-12, Žin., 2009, Nr. 10-355 (2009-01-27)
@@ -133,6 +145,12 @@ Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
 4. Šilumos ir (ar) karšto vandens įmonių informacija apie veiklos sąnaudas, sistemų eksploatavimą, modernizavimą, plėtrą, investicijas į sistemos plėtrą, kainų ir tarifų struktūrą, paslaugų teikimo sąlygas yra vieša.
 
 5. Pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) informacija apie jo veiklos pajamas, sąnaudas, sistemų eksploatavimą, kainas ir tarifus, jų struktūrą, paslaugų teikimo sąlygas, taip pat pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) ketvirtiniai ir metiniai finansiniai-balansiniai rodikliai, investicijų dydžiai, duomenys apie investuotojus, darbuotojų skaičių yra vieši ir turi būti skelbiami energetikos ministro nustatyta tvarka.
+
+6. Informacija apie šilumos tiekimo sistemos energinį naudingumą ir atsinaujinančių išteklių energijos procentinę dalį šilumos tiekimo sistemose vieną kartą per metus (už praėjusius kalendorinius metus) turi būti viešai skelbiama šilumos tiekėjų interneto svetainėje, taip pat, jeigu šilumos vartotojai pageidauja, papildomai nurodoma vartotojams išrašomose sąskaitose (mokėjimo pranešimuose).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 
 Straipsnio pakeitimai:
 
@@ -206,15 +224,21 @@ Nr. XIII-3018, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13235
 
 20 straipsnis. Pastatų šildymo ir karšto vandens sistemų priežiūra
 
-1. Prie šilumos tiekimo sistemos prijungtas daugiabučio namo šildymo ir karšto vandens sistemas, bendrosios dalinės nuosavybės teise priklausančias butų ir kitų patalpų savininkams, taip pat šilumos punktus, tiek nuosavybės teise priklausančius šilumos ir (ar) karšto vandens tiekėjui ar tretiesiems asmenims, tiek butų ir kitų patalpų savininkams, turi prižiūrėti (eksploatuoti) pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas). Teisę reguliuoti (nuotoliniu būdu ar kitaip daryti įtaką) namo šilumos punkto įrenginių darbą, laikydamasis nustatytų higienos normų, turi tik pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) arba atitinkamą kvalifikaciją turintys daugiabučio namo bendrijos atstovas ar daugiabučio namo butų ir kitų patalpų savininkų išrinktas jų įgaliotas atstovas. Daugiabučio namo šilumos punktus, nuosavybės teise priklausančius šilumos ir (ar) karšto vandens tiekėjui ar tretiesiems asmenims, pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) prižiūri (eksploatuoja) šio įstatymo pagrindu, nesudarydamas atskirų sutarčių su šilumos punktų savininkais. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) savo prievoles vykdo apdairiai, sąžiningai ir šilumos ir (ar) karšto vandens vartotojų interesais. Pastato šildymo ir karšto vandens sistemos prižiūrėtoją (eksploatuotoją) Civilinio kodekso 4.85 straipsnyje nustatyta sprendimų priėmimo tvarka pasirenka daugiabučio namo butų ir kitų patalpų savininkai, daugiabučio namo butų ir kitų patalpų savininkų bendrija arba, jeigu šie nepriima sprendimo, bendrojo naudojimo objektų administratorius. Daugiabučio namo šildymo ir karšto vandens sistemos priežiūros (eksploatavimo) sutartį su pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) sudaro daugiabučio namo butų ir kitų patalpų savininkų bendrija, butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotas asmuo arba bendrojo naudojimo objektų administratorius. Pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) neturi teisės įgalioti kitų asmenų verstis atestatu reguliuojama veikla arba perduoti jiems šią teisę pagal sutartį, arba kitaip pavesti vykdyti šią veiklą. Kai pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) yra bendrija, ji gali pirkti atskirus darbus ar paslaugas iš subjektų, turinčių atitinkamą kompetenciją, technines priemones ir gebėjimus. Daugiabučio namo savininkų bendrija ir (ar) bendrojo naudojimo objektų administratorius gali būti pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas).
+1. Prie šilumos tiekimo sistemos prijungtas daugiabučio namo šildymo ir karšto vandens sistemas, bendrosios dalinės nuosavybės teise priklausančias butų ir kitų patalpų savininkams, taip pat šilumos punktus, tiek nuosavybės teise priklausančius šilumos ir (ar) karšto vandens tiekėjui ar tretiesiems asmenims, tiek butų ir kitų patalpų savininkams, turi prižiūrėti (eksploatuoti) pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas). Teisę reguliuoti (nuotoliniu būdu ar kitaip daryti įtaką) namo šilumos punkto įrenginių darbą, laikydamasis nustatytų higienos normų, turi tik pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) arba atitinkamą kvalifikaciją turintys daugiabučio namo bendrijos atstovas ar daugiabučio namo butų ir kitų patalpų savininkų išrinktas jų įgaliotas atstovas. Daugiabučio namo šilumos punktus, nuosavybės teise priklausančius šilumos ir (ar) karšto vandens tiekėjui ar tretiesiems asmenims, pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) prižiūri (eksploatuoja) ir informuoja šilumos ir (ar) karšto vandens tiekėjus ar trečiuosius asmenis apie jiems nuosavybės teise priklausančių šilumos punktų įrenginių techninę būklę šio įstatymo pagrindu, nesudarydamas atskirų sutarčių su šilumos punktų savininkais. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) savo prievoles vykdo apdairiai, sąžiningai ir šilumos ir (ar) karšto vandens vartotojų interesais. Pastato šildymo ir karšto vandens sistemos prižiūrėtoją (eksploatuotoją) Civilinio kodekso 4.85 straipsnyje nustatyta sprendimų priėmimo tvarka pasirenka daugiabučio namo butų ir kitų patalpų savininkai, daugiabučio namo butų ir kitų patalpų savininkų bendrija arba, jeigu šie nepriima sprendimo, bendrojo naudojimo objektų administratorius. Daugiabučio namo šildymo ir karšto vandens sistemos priežiūros (eksploatavimo) sutartį su pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) sudaro daugiabučio namo butų ir kitų patalpų savininkų bendrija, butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotas asmuo arba bendrojo naudojimo objektų administratorius. Pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) neturi teisės įgalioti kitų asmenų verstis atestatu reguliuojama veikla arba perduoti jiems šią teisę pagal sutartį, arba kitaip pavesti vykdyti šią veiklą. Kai pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) yra bendrija, ji gali pirkti atskirus darbus ar paslaugas iš subjektų, turinčių atitinkamą kompetenciją, technines priemones ir gebėjimus. Daugiabučio namo savininkų bendrija ir (ar) bendrojo naudojimo objektų administratorius gali būti pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas). Šilumos ir (ar) karšto vandens tiekėjai ar tretieji asmenys turi organizuoti ir (ar) atlikti jiems nuosavybės teise priklausančių šilumos punktų įrenginių remonto darbus, už kuriuos nėra atsakingas pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) ir kurie nėra įtraukti į šildymo ir karšto vandens sistemos priežiūros (eksploatavimo) tarifą.
 
-2. Pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) negali būti šilumos tiekėjas, tiekiantis šilumą tam namui, ar fiziniai asmenys, susiję su šilumos tiekėju darbo santykiais, išskyrus atvejus, kai su darbo santykiais susiję fiziniai asmenys gyvena tame name ir patys prižiūri savo ar daugiabučio gyvenamojo namo bendrijai priklausančius kitus namus, taip pat asmenys, kartu su šioje dalyje nurodytais asmenimis priklausantys susijusių ūkio subjektų grupei pagal Konkurencijos įstatymą. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) pagal faktinį šilumos energijos suvartojimą pastate skaičiuoja santykinius šilumos šildymui, cirkuliacijai ir karštam vandeniui ruošti sunaudojimo rodiklius, vadovaudamasis Tarybos patvirtinta skaičiavimo metodika, analizuoja gautus duomenis, teikia juos pastato savininkui arba daugiabučio namo bendrojo naudojimo objektų valdytojui, daugiabučio namo butų ir kitų patalpų savininkų bendrijai, butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotam asmeniui arba bendrojo naudojimo objektų administratoriui, pagal kompetenciją rengia pasiūlymus dėl šilumos energijos taupymo priemonių įgyvendinimo.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
+
+2. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) pagal faktinį šilumos energijos suvartojimą pastate skaičiuoja santykinius šilumos šildymui, cirkuliacijai ir karštam vandeniui ruošti sunaudojimo rodiklius, vadovaudamasis Tarybos patvirtinta skaičiavimo metodika, analizuoja gautus duomenis, teikia juos pastato savininkui ir daugiabučio namo bendrojo naudojimo objektų valdytojui, daugiabučio namo butų ir kitų patalpų savininkų bendrijai, butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotam asmeniui arba bendrojo naudojimo objektų administratoriui, pagal kompetenciją rengia pasiūlymus dėl šilumos energijos taupymo priemonių įgyvendinimo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
 
 Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 
 3. Daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrija arba pastato bendrojo naudojimo objektų administratorius kontroliuoja pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) veiklą ir pasirengimą naujam šildymo sezonui pagal jiems priskirtą kompetenciją energetikos ministro tvirtinamose Šilumos tiekimo ir vartojimo taisyklėse. Pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) sudaro ir kartu su daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrija arba pastato bendrojo naudojimo objektų administratoriumi pasirašo pastato parengties naujam šildymo sezonui aktą. Ginčus tarp šio proceso dalyvių sprendžia Taryba.
 
@@ -222,11 +246,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
 
-4. Šio straipsnio 2 dalyje nustatytas draudimas netaikomas prižiūrint daugiabučio namo šildymo ir karšto vandens sistemas pastatuose, esančiuose gyvenamojoje vietovėje, kurioje, Lietuvos statistikos departamento duomenimis, gyvena mažiau negu 150 000 gyventojų, jeigu savivaldybės taryba nenusprendžia kitaip. Šis draudimas netaikomas šilumos tiekėjams, kurie pagal Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymą yra sudarę su Energetikos ministerija susitarimą dėl energijos sutaupymo ir susitarimo galiojimo laikotarpiu pastate įdiegia naujas energijos vartojimo efektyvumo didinimo priemones, ir šilumos tiekėjams, aptarnaujantiems mažiau kaip 5 000 prijungtų vartotojų arba per metus realizuojantiems mažiau negu 50 000 MWh šilumos, taip pat tais atvejais, kai atestuotas pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) yra fizinis asmuo, kuris gyvena tame pastate.
+4. Neteko galios nuo 2022-06-01.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 
 5. Jeigu butų savininkai nenusprendžia, kokį šildymo ir karšto vandens sistemos prižiūrėtoją pasirinkti, ir dėl to nesudaroma šios sistemos priežiūros sutartis, laikinai, kol toks prižiūrėtojas bus pasirinktas, šildymo ir karšto vandens sistemą prižiūri esamas prižiūrėtojas. Daugiabučio namo šildymo ir karšto vandens sistemos priežiūros sutartys ir šilumos ir (ar) karšto vandens vartojimo pirkimo–pardavimo sutartys sudaromos atskirai.
 
@@ -301,6 +327,12 @@ Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
 5) gaminant šilumą, plačiau naudoti vietinį kurą, biokurą ir atsinaujinančiuosius energijos išteklius;
 
 6) mažinti šilumos energetikos neigiamą poveikį aplinkai.
+
+3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -400,7 +432,11 @@ Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
 Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
 
-16. Kompensacija už rezervinę galią – pagal Vyriausybės ar jos įgaliotos institucijos patvirtintą metodiką apskaičiuota su rezervuota galia susijusių papildomų sąnaudų kompensacija, mokama vartotojo, naudojančio šilumos tiekimo sistemą kaip rezervinį šildymo būdą.
+16. Neteko galios nuo 2022-06-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -770,11 +806,13 @@ ANTRASIS SKIRSNIS
 
 2. Šilumos ir (ar) karšto vandens kainos grindžiamos tiekėjo būtinomis (valstybės normuojamomis) šilumos ar karšto vandens ruošimo (pirkimo), perdavimo, įvadinių atsiskaitomųjų šilumos ir (ar) karšto vandens apskaitos prietaisų įrengimo, priežiūros ir patikros, sąskaitų (mokėjimo pranešimų) už šilumą ir (ar) karštą vandenį parengimo ir pateikimo vartotojams bei apskaitos sąnaudomis. Turto nuomos mokesčiai ir kitos sąnaudos, nesusiję su šilumos ir (ar) karšto vandens tiekimo veikla, negali būti įtraukiami į šilumos ar karšto vandens kainas. Į šilumos ar karšto vandens kainas negali būti įtraukiamos jokios sąnaudos, susijusios su pastatų vidaus šildymo (įskaitant ir šilumos punktus) ir karšto vandens sistemomis. Apyvartinių taršos leidimų prekybos pajamos ar sąnaudos įvertinamos skaičiuojant šilumos kainas Šilumos kainų nustatymo metodikoje nustatyta tvarka.
 
-3. Į šilumos ir (ar) karšto vandens kainą įtraukiant pagrįstas sąnaudas už kurą, privalo būti įvertinama, ar energetikos įmonė laikėsi Energijos išteklių rinkos įstatyme numatytų įpareigojimų.
+3. Į šilumos ir (ar) karšto vandens kainą įtraukiant pagrįstas sąnaudas už kurą, privalo būti įvertinama, ar energetikos įmonė laikėsi Energijos išteklių rinkos įstatyme numatytų įpareigojimų. Šilumos tiekėjai, realizuojantys ne mažiau kaip 100 GWh šilumos per metus, įsigydami elektros ir (ar) šilumos energijai gaminti reikalingą biokurą, privalo įsigyti ne mažiau kaip 30 procentų biokuro, kurio gamybai kaip žaliava naudojamos miško kirtimo liekanos. Jeigu biokuras ir (ar) gamtinės dujos buvo įsigyti nepažeidžiant Energijos išteklių rinkos įstatyme numatytų reikalavimų ir reikalavimo įsigyti biokurą, kurio gamybai kaip žaliava naudojamos miško kirtimo liekanos, kuro sąnaudų įtraukimas į šilumos ir (ar) karšto vandens kainą neribojamas. Kitų biokuro rūšių, kuriomis neprekiaujama biržoje, arba, jeigu buvo nustatyta, kad kuras, naudojamas šilumos ir (ar) karšto vandens gamybai, buvo perkamas nesilaikant Energijos išteklių rinkos įstatyme numatytų reikalavimų ir reikalavimo įsigyti biokurą, kurio gamybai kaip žaliava naudojamos miško kirtimo liekanos, įsigijimo sąnaudų įtraukimas į šilumos ir (ar) karšto vandens kainą ribojamas pagal vidutinę metinę biokuro biržos kainą, vidutinę metinę biokuro kainą arba vidutinę metinę gamtinių dujų biržos kainą, arba vidutinę biokuro biržos produkto, kurio gamybai kaip žaliava naudojamos miško kirtimo liekanos, kainą, vadovaudamasi savo nustatyta tvarka nustato Taryba.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-607, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23529
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 
 4. Šio straipsnio 20 dalyje nurodytas kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, sąnaudų įtraukimo į šilumos ir (ar) karšto vandens kainą ribojimas pagal vidutinę biokuro biržos kainą ir (ar) gamtinių dujų biržos kainą nėra taikomas tais atvejais, kai energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies ir (ar) gamtinių dujų biržoje nebuvo galima įsigyti reikalingo gamtinių dujų kiekio.
 
@@ -1026,6 +1064,12 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
+5. Šilumos vartotojai daugiabučiuose namuose privalo apmokėti proporcingai daugiabučio namo butų ir kitų patalpų savininkų daliai bendrojoje dalinėje nuosavybėje šilumos tiekėjui už daugiabučio namo šilumos punkto, nuosavybės teise priklausančio šilumos ir (ar) karšto vandens tiekėjui, remonto darbus (įskaitant medžiagas, atsargines dalis ir įrenginius) bei su tuo susijusias administracines sąnaudas, kurios nėra įskaičiuotos į šildymo ir karšto vandens sistemos priežiūros (eksploatavimo) tarifą. Šilumos vartotojui išrašomoje sąskaitoje (mokėjimo pranešime) turi būti atskirai nurodytos darbų, medžiagų, atsarginių dalių ir įrenginių kainos, pagrįstos administracinės sąnaudos, šilumos vartotojui privalomos mokėti sumos, taip pat pateikta informacija apie galimybę daugiabučio namo butų ir kitų patalpų savininkams įgyti bendrosios dalinės nuosavybės teisę į šilumos punktą šio įstatymo 24 straipsnio 2 dalyje nustatytais pagrindais.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
+
 Straipsnio pakeitimai:
 
 Nr. XI-592, 2009-12-21, Žin., 2010, Nr. 1-6 (2010-01-05)
@@ -1082,7 +1126,11 @@ Nr. XI-250, 2009-05-12, Žin., 2009, Nr. 61-2402 (2009-05-26)
 
 17 straipsnis. Nenutrūkstamo aprūpinimo šiluma vartotojai
 
-Nenutrūkstamo aprūpinimo šiluma vartotojams turi būti užtikrintos techninės nenutrūkstamo šilumos tiekimo galimybės, kai laikinai neįmanoma naudotis pagrindine aprūpinimo šiluma sistema. Nenutrūkstamas aprūpinimas šiluma užtikrinamas šilumos vartotojo įrenginius prijungiant atskirais įvadais prie techninių sutrikimų atvejais nepriklausomų šilumos perdavimo tinklo dalių arba pastatant rezervinį šilumos įrenginį. Kai įrengiamas rezervinis šilumos įrenginys, nenutrūkstamo aprūpinimo šiluma vartotojai laikomi naudojančiais aprūpinimo šiluma sistemą ir rezervinį šilumos įrenginį. Jeigu nenutrūkstamo aprūpinimo šiluma vartotojai naudojasi aprūpinimo šiluma sistema tik kaip rezervine, jie privalo mokėti šilumos tiekėjui kompensaciją už rezervinę galią. Aplinkos ir sveikatos apsaugos ministrai nustato sveikatos priežiūros įstaigų, kurioms būtinas rezervinis šilumos įrenginys, sąrašą.
+Nenutrūkstamo aprūpinimo šiluma vartotojams turi būti užtikrintos techninės nenutrūkstamo šilumos tiekimo galimybės, kai laikinai neįmanoma naudotis pagrindine aprūpinimo šiluma sistema. Nenutrūkstamas aprūpinimas šiluma užtikrinamas šilumos vartotojo įrenginius prijungiant atskirais įvadais prie techninių sutrikimų atvejais nepriklausomų šilumos perdavimo tinklo dalių arba pastatant rezervinį šilumos įrenginį. Kai įrengiamas rezervinis šilumos įrenginys, nenutrūkstamo aprūpinimo šiluma vartotojai laikomi naudojančiais aprūpinimo šiluma sistemą ir rezervinį šilumos įrenginį. Jeigu nenutrūkstamo aprūpinimo šiluma vartotojai naudojasi aprūpinimo šiluma sistema tik kaip rezervine, jie šilumos tiekėjui moka dvinarę kainą, kuri apskaičiuojama pagal Tarybos patvirtintą Šilumos kainų nustatymo metodiką ir kuri taikoma rezervinės šilumos galios užtikrinimo paslaugos teikimo sutartyje nustatytai rezervuojamai galiai. Sveikatos apsaugos ministras nustato sveikatos priežiūros įstaigų, kurioms būtinas rezervinis šilumos įrenginys, sąrašą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 
 18 straipsnis. Šilumos tiekimo nutraukimas
 
@@ -1188,7 +1236,13 @@ Nr. XI-592, 2009-12-21, Žin., 2010, Nr. 1-6 (2010-01-05)
 
 2) atsiskaitomųjų šilumos ir (ar) karšto vandens apskaitos prietaisų techninę būklę, atitinkančią teisės aktų reikalavimus;
 
-3) šilumos ir (ar) karšto vandens kokybę, nustatytą sutartimis ir atitinkančią teisės aktų reikalavimus, iki tiekimo–vartojimo ribos.
+3) šilumos ir (ar) karšto vandens kokybę, nustatytą sutartimis ir atitinkančią teisės aktų reikalavimus, iki tiekimo–vartojimo ribos;
+
+4) saugų, patikimą ir ekonomišką daugiabučio namo šilumos punkto įrenginių, nuosavybės teise priklausančių šilumos ir (ar) karšto vandens tiekėjui, darbą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 
 3. Šilumos ir (ar) karšto vandens tiekėjas statinio projekte (ar jo dalyje) nurodytoje vietoje įrengia atsiskaitomuosius šilumos ir (ar) karšto vandens apskaitos prietaisus.
 
@@ -1280,7 +1334,13 @@ Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
 
 7) teikti valstybės ir savivaldybių institucijoms informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti. Šilumos tiekėjas privalo pateikti reikalaujamą informaciją per 10 darbo dienų nuo reikalavimo gavimo, jeigu nėra pagrįstų priežasčių, dėl kurių nustatomas ilgesnis terminas;
 
-8) informuoti ir konsultuoti vartotojus teisės aktų nustatyta tvarka, sąlygomis ir mastu.
+8) informuoti ir konsultuoti vartotojus teisės aktų nustatyta tvarka, sąlygomis ir mastu;
+
+9) šilumos tiekėjai, realizuojantys ne mažiau kaip 100 GWh šilumos per metus, turi užtikrinti, kad bendrame kuro balanse ne mažiau kaip 30 procentų sudarytų biokuras, kurio gamybai kaip žaliava naudojamos miško kirtimo liekanos.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 
 Straipsnio pakeitimai:
 
@@ -1387,6 +1447,20 @@ Nr. XI-592, 2009-12-21, Žin., 2010, Nr. 1-6 (2010-01-05)
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                         ROLANDAS PAKSAS
+
+Lietuvos Respublikos
+
+šilumos ūkio įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/2001 dėl skatinimo naudoti atsinaujinančiųjų išteklių energiją.
+
+Papildyta priedu:
+
+Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 
 Pakeitimai:
 
