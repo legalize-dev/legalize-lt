@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2022-05-07"
+last_updated: "2022-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-05-07 iki 2022-05-31
+Suvestinė redakcija nuo 2022-06-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -1616,7 +1616,11 @@ Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 
 1) asmuo neturi teisės būti šio statinio statytoju;
 
-2) yra nukrypimų nuo esminių statinio projekto sprendinių arba konstatuota savavališka statyba;
+2) yra nukrypimų nuo esminių statinio projekto sprendinių, per nustatytą terminą nepašalinti statybos užbaigimo procedūrų metu nustatyti pažeidimai ar trūkumai arba konstatuota savavališka statyba;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 
 3) statybos užbaigimo aktą išduodančiam subjektui nepateikti visi privalomi pateikti dokumentai;
 
