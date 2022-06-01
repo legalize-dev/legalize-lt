@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2022-05-28"
+last_updated: "2022-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2022-05-28 iki 2022-05-31
+Suvestinė redakcija nuo 2022-06-01 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -477,7 +477,11 @@ IEŠKINIO SENATIS
 
 2.146 straipsnis. Teisė panaikinti įgaliojimą bei perįgaliojimą ir teisė jų atsisakyti
 
-1. Įgaliotojas turi teisę bet kada panaikinti įgaliojimą, o įgaliotinis – įgaliojimo atsisakyti. Perįgaliojimą gali bet kada panaikinti tiek įgaliotojas, tiek ir įgaliotinis. Savo ruožtu ir asmuo, kuriam įgaliojimas duotas perįgaliojant, gali bet kada jo atsisakyti.
+1. Įgaliotojas turi teisę bet kada panaikinti įgaliojimą, o įgaliotinis – įgaliojimo atsisakyti. Perįgaliojimą gali bet kada panaikinti tiek įgaliotojas, tiek ir įgaliotinis. Savo ruožtu ir asmuo, kuriam įgaliojimas duotas perįgaliojant, gali bet kada jo atsisakyti. Kai įgaliojimas įregistruotas Įgaliojimų registre, įgaliotojo ar įgaliotinio prašymas dėl įgaliojimo ar perįgaliojimo pabaigos gali būti pateikiamas informacinių technologijų priemonėmis, įregistruojant įgaliojimo ar perįgaliojimo pabaigą Įgaliojimų registre šio registro nuostatuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 2. Įstatymai arba šalių sutartis gali nustatyti atvejus, kuriais išduodamas neatšaukiamas įgaliojimas.
 
@@ -515,7 +519,11 @@ Nr. XIII-1127, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07479
 
 1. Įgaliotinis turi pats atlikti tuos veiksmus, kuriuos atlikti jis įgaliotas. Jis gali perįgalioti juos atlikti kitą asmenį tik tuo atveju, kai jam tokią teisę suteikia gautasis įgaliojimas arba kai jis dėl susidariusių aplinkybių priverstas tai padaryti, kad apsaugotų įgaliotojo interesus. Perįgaliotas asmuo turi tokias pat teises ir pareigas kaip ir atstovas tiek atstovaujamajam, tiek ir tretiesiems asmenims.
 
-2. Įgaliojimo, duodamo perįgaliojant, forma turi atitikti duoto įgaliojimo formą.
+2. Perįgaliojant įgaliojimas duodamas tokiu pačiu būdu ir tokios pačios formos, kaip ir duotas įgaliojimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 3. Perįgaliojant duodamo įgaliojimo terminas negali būti ilgesnis už įgaliojimo, kuriuo remiantis jis duodamas, terminą.
 
@@ -1039,7 +1047,11 @@ BENDRAS GYVENIMAS NEĮREGISTRAVUS SANTUOKOS
 
 2.144 straipsnis. Pareiga grąžinti įgaliojimą
 
-Pasibaigus įgaliojimo terminui ar panaikinus jo galiojimą prieš terminą, atstovas privalo grąžinti įgaliojimą atstovaujamajam ar jo teisių perėmėjams.
+Pasibaigus įgaliojimo terminui ar panaikinus jo galiojimą prieš terminą, atstovas privalo grąžinti įgaliojimą atstovaujamajam ar jo teisių perėmėjams, išskyrus atvejus, kai įgaliojimas sudarytas informacinių technologijų priemonėmis ir duotas jį įregistruojant Įgaliojimų registre.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 3.207 straipsnis. Nedarbingų tėvų papildomų išlaidų kompensacija
 
@@ -2129,7 +2141,11 @@ Nr. XII-432, 2013-06-27, Žin., 2013, Nr. 76-3843 (2013-07-16)
 
 2.143 straipsnis. Teisė reikalauti pateikti įgaliojimą ir jo kopiją
 
-Trečiasis asmuo, su kuriuo atstovaujamasis sudaro sandorį, turi teisę reikalauti, kad atstovas pateiktų savo įgaliojimą ir jo kopiją.
+Trečiasis asmuo, su kuriuo atstovaujamasis sudaro sandorį, turi teisę reikalauti, kad atstovas pateiktų jam duotą įgaliojimą ir jo kopiją, o kai įgaliojimas sudarytas informacinių technologijų priemonėmis ir duotas jį įregistruojant Įgaliojimų registre, – įgaliojimą identifikuojančius duomenis.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 2.147 straipsnis. Įgaliojimo pasibaigimas
 
@@ -2175,7 +2191,11 @@ Nr. XII-432, 2013-06-27, Žin., 2013, Nr. 76-3843 (2013-07-16)
 
 2. Įgaliotojo ir jo teisių perėmėjų teisės ir pareigos, atsiradusios kaip įgaliotinio veiksmų rezultatas iki to laiko, kai įgaliotinis sužinojo ar turėjo sužinoti apie įgaliojimo pasibaigimą, lieka galioti tretiesiems asmenims. Ši nuostata netaikoma, jeigu trečiasis asmuo žinojo ar turėjo žinoti, kad įgaliojimas pasibaigė.
 
-3. Įgaliojimui pasibaigus, įgaliotinis ar jo teisių perėmėjai privalo tuojau grąžinti įgaliojimą įgaliotojui ar jo teisių perėmėjams.
+3. Įgaliojimui pasibaigus, įgaliotinis ar jo teisių perėmėjai privalo tuojau grąžinti įgaliojimą įgaliotojui ar jo teisių perėmėjams, išskyrus atvejus, kai įgaliojimas sudarytas informacinių technologijų priemonėmis ir duotas jį įregistruojant Įgaliojimų registre.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 2.150 straipsnis. Atstovo pareiga atsiskaityti
 
@@ -2441,9 +2461,15 @@ Prokuristas atsako atstovaujamajam ir tretiesiems asmenims taip pat kaip ir prek
 
 4) likviduojamas ar reorganizuojamas išdavęs prokūrą juridinis asmuo;
 
-5) prokuristas miręs.
+5) prokuristas miręs arba pripažintas neveiksniu srityje, kurioje duota prokūra, arba pripažintas ribotai veiksniu srityje, kurioje duota prokūra, arba pripažintas nežinia kur esančiu.
 
-2. Prokūra pasibaigia nuo atitinkamo įrašo atitinkamame registre datos, išskyrus šio straipsnio 1 dalies 4 ir 5 punktuose numatytus atvejus.
+2. Prokūra pasibaigia ją išregistravus iš Įgaliojimų registro, išskyrus šio straipsnio 1 dalies 4 ir 5 punktuose numatytus atvejus.
+
+TAR pastaba. 2.184 straipsnio 2 dalis įsigalioja 2023-01-01.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 2.185 straipsnis. Veiksmai, kuriems atlikti prokūra nereikalinga
 
@@ -4797,7 +4823,11 @@ Turto patikėjimas
 
 2.1381 straipsnis. Įgaliojimų registras
 
-1. Notarine tvarka patvirtinti įgaliojimai, šio kodekso 2.138 straipsnio 2 dalyje nurodyti notaro patvirtintiems prilyginami įgaliojimai ir šio kodekso 2.139 straipsnio 2 dalyje nurodyti įgaliojimai turi būti registruojami viešame Įgaliojimų registre. Be to, Įgaliojimų registre šio registro nuostatų nustatyta tvarka gali būti registruojami ir kiti teisės aktuose nustatyti informacinių technologijų priemonėmis sudaryti įgaliojimai, duodami juos įregistruojant Įgaliojimų registre. Duomenis Įgaliojimų registrui pateikia įgaliojimus patvirtinę notarai, Lietuvos Respublikos konsuliniai pareigūnai, šio kodekso 2.138 straipsnio 2 dalyje ir 2.139 straipsnio 2 dalyje nurodyti asmenys ir asmenys, Įgaliojimų registro nuostatų nustatyta tvarka įregistruojantys Įgaliojimų registre kitus teisės aktuose nustatytus informacinių technologijų priemonėmis sudarytus įgaliojimus.
+1. Notarine tvarka patvirtinti įgaliojimai, šio kodekso 2.138 straipsnio 2 dalyje nurodyti notaro patvirtintiems prilyginami įgaliojimai ir šio kodekso 2.139 straipsnio 2 dalyje nurodyti įgaliojimai turi būti registruojami viešame Įgaliojimų registre. Įgaliojimų registre šio registro nuostatuose nustatyta tvarka registruojami ir kiti įgaliojimai, sudaromi informacinių technologijų priemonėmis ir duodami juos įregistruojant Įgaliojimų registre.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 2. Registruojant šio straipsnio 1 dalyje nurodytus įgaliojimus, Įgaliojimų registrui pateikiami duomenys apie įgaliojimą davusį asmenį, įgaliotinį, įgaliojimą patvirtinusį asmenį (išskyrus atvejus, kai šiame kodekse nustatytais atvejais įgaliojimas neturi būti ir nėra patvirtinamas), įgaliojimo patvirtinimo ir pasibaigimo datas, įgaliojimo turinį ir kiti Įgaliojimų registro nuostatų nustatyti duomenys.
 
@@ -11478,6 +11508,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-6, 6.228-7, 6.228-8, 6.228-10, 6.228-11 straipsnių ir priedo pakeitimo įstatymas
+
+60.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
+
+Lietuvos Respublikos civilinio kodekso 2.137, 2.138, 2.138-1, 2.143, 2.144, 2.145, 2.146, 2.148, 2.178, 2.181 ir 2.184 straipsnių pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
