@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "2022-01-01"
+last_updated: "2022-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-05-31
+Suvestinė redakcija nuo 2022-06-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 
@@ -252,7 +252,11 @@ Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010IS
 
 4) teikia Susisiekimo ministerijai pasiūlymus dėl valstybinės reikšmės kelių tinklo plėtros, modernizavimo ir priežiūros užtikrinimo programų rengimo;
 
-5) atlieka planuojamų valstybinės reikšmės kelių tiesimo, statybos ir rekonstrukcijos projektų analizę;
+5) atlieka planuojamų valstybinės reikšmės kelių tiesimo, statybos ir rekonstrukcijos projektų analizę, Lietuvos Respublikos Vyriausybės nustatytais atvejais ir jos nustatyta tvarka pasirenka geriausią projekto įgyvendinimo galimybę ir šio pasirinkimo rezultatus paskelbia savo interneto svetainėje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-979, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06314
 
 6) atlieka valstybinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbų, kurie finansuojami valstybės biudžeto lėšomis ar iš kitų finansavimo šaltinių, kokybės vertinimą, kokybės kontrolinius patikrinimus ir techninę, ekonominę ir aplinkos apsaugos stebėseną.
 
@@ -845,6 +849,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-866, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27772
 
 Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-979, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06314
+
+Lietuvos Respublikos kelių įstatymo Nr. I-891 5 straipsnio pakeitimo įstatymas
 
 25 straipsnis.
 
