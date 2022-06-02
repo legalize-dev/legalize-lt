@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2022-05-01"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-06-01
+Suvestinė redakcija nuo 2022-06-02 iki 2022-09-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -399,7 +399,7 @@ Apeliacinės instancijos teismas panaikina pirmosios instancijos teismo nuospren
 
 1) yra šio Kodekso 3 straipsnio 1 dalies 3–7 punktuose numatytos aplinkybės, dėl kurių baudžiamasis procesas negalimas;
 
-2) yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1471 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės arba suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas.
+2) yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 118 straipsnio 2 dalyje, 119 straipsnio 3 ir 4 dalyse, 147 straipsnio 3 dalyje, 1471 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės arba suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas.
 
 Straipsnio pakeitimai:
 
@@ -407,9 +407,13 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
-Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
+Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 Nr. XI-2199, 2012-06-30, Žin., 2012, Nr. 82-4277 (2012-07-13)
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1118, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11876
 
 Straipsnio pakeitimai:
 
@@ -1059,13 +1063,23 @@ Straipsnio pakeitimai:
 
 Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 
-77 straipsnis. Suimto arba su laisvės atėmimu susijusią bausmę atliekančio asmens laikinas perdavimas kitai valstybei ar Tarptautiniam baudžiamajam teismui ir laikinas perėmimas iš kitos valstybės proceso veiksmams atlikti
+77 straipsnis. Suimto arba su laisvės atėmimu susijusią bausmę atliekančio asmens laikinas perdavimas kitai valstybei ar Tarptautiniam baudžiamajam teismui ir laikinas perėmimas iš kitos valstybės proceso veiksmams atlikti ar išklausymo tikslais
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-1118, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11876
 
 1. Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais ir tvarka suimtas arba su laisvės atėmimu susijusią bausmę atliekantis asmuo gali būti laikinai perduotas kitai valstybei ar Tarptautiniam baudžiamajam teismui ir laikinai perimtas iš kitos valstybės proceso veiksmams atlikti.
 
 2. Sprendimą dėl suimto arba su laisvės atėmimu susijusią bausmę atliekančio asmens laikino perdavimo kitai valstybei ir laikino perėmimo iš kitos valstybės priima ir dėl šio perdavimo ar perėmimo sąlygų su kitos valstybės kompetentinga institucija susitaria Lietuvos Respublikos generalinės prokuratūros prokuroras.
 
 3. Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ numatytais atvejais ir tvarka suimtas arba su laisvės atėmimu susijusią bausmę atliekantis asmuo gali būti laikinai perduotas kitai Europos Sąjungos valstybei narei arba perimtas iš kitos Europos Sąjungos valstybės narės į Lietuvos Respubliką proceso veiksmams atlikti.
+
+4. Sprendimą dėl suimto asmens, kuriam Lietuvos Respublikoje yra pradėtas baudžiamasis persekiojimas, laikino perėmimo iš kitos Europos Sąjungos valstybės narės į Lietuvos Respubliką jo išklausymo dėl išduoto Europos arešto orderio tikslais priima Lietuvos Respublikos generalinės prokuratūros prokuroras, įvertinęs, ar šio asmens laikinas perdavimas atitiktų proporcingumo ir proceso ekonomiškumo principus. Kitos Europos Sąjungos valstybės narės kompetentingai institucijai pritarus, asmuo laikinai perimamas į Lietuvos Respubliką, iš anksto su šia institucija susitarus dėl tokio perdavimo sąlygų ir trukmės. Šioje dalyje nurodytą asmenį išklausius, jis nedelsiant grąžinamas į jį perdavusią Europos Sąjungos valstybę narę.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1118, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11876
 
 Straipsnio pakeitimai:
 
@@ -1773,13 +1787,15 @@ Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
 
 Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
 
-5. Nagrinėjimo teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1471 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės, byla nutraukiama nuosprendžiu.
+5. Nagrinėjimo teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 118 straipsnio 2 dalyje, 119 straipsnio 3 ir 4 dalyse, 147 straipsnio 3 dalyje, 1471 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės, byla nutraukiama nuosprendžiu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
 
 Nr. XIII-3351, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24236
+
+Nr. XIV-1118, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11876
 
 Straipsnio pakeitimai:
 
@@ -3097,7 +3113,7 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 
 3. Šiame straipsnyje nurodytos teismo nutartys yra galutinės ir neskundžiamos.
 
-part_7753471a3f4b4dae9468076f2636a6ef_end
+part_ece5a2bf24ec4f418370b77716b58f17_end
 
 Lietuvos Respublikos
 
@@ -3919,13 +3935,15 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-1845, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21875
 
-8) kai yra Lietuvos Respublikos baudžiamojo kodekso 93 straipsnyje, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1471 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje, 291 straipsnio 2 ir 3 dalyse numatyti atleidimo nuo baudžiamosios atsakomybės sąlygos ir pagrindai;
+8) kai yra Lietuvos Respublikos baudžiamojo kodekso 93 straipsnyje, 114 straipsnio 3 dalyje, 118 straipsnio 2 dalyje, 119 straipsnio 3 ir 4 dalyse, 147 straipsnio 3 dalyje, 1471 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje, 291 straipsnio 2 ir 3 dalyse numatyti atleidimo nuo baudžiamosios atsakomybės sąlygos ir pagrindai;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1845, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21875
 
 Nr. XIII-3351, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24236
+
+Nr. XIV-1118, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11876
 
 9) dėl atskirų veikų, kelių nusikalstamų veikų padarymo, kai yra šio Kodekso 213 straipsnyje numatytos sąlygos;
 
@@ -5393,6 +5411,12 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
+11. Jeigu iki sprendimo dėl asmens perdavimo priėmimo Europos arešto orderį išdavusios valstybės kompetentinga institucija pateikė prašymą išklausyti asmenį, dėl kurio Europos arešto orderis išduotas baudžiamojo persekiojimo tikslais, Lietuvos Respublikos generalinė prokuratūra arba Vilniaus apygardos teismas, kai prašymas gautas jau teismui nagrinėjant asmens perdavimo pagal Europos arešto orderį klausimą, priima sprendimą leisti išklausyti asmenį arba laikinai perduoti jį Europos arešto orderį išdavusiai valstybei išklausymo tikslais, iš anksto su Europos arešto orderį išdavusios valstybės kompetentinga institucija susitarus dėl tokio perdavimo sąlygų ir trukmės. Asmens išklausymo Lietuvos Respublikoje atveju Europos arešto orderį išdavusios valstybės kompetentinga institucija išklauso asmenį vadovaudamasi Lietuvos Respublikos įstatymais ir laikydamasi sutartų sąlygų, dalyvaujant Europos arešto orderį išdavusioje valstybėje paskirtam jo gynėjui ir sprendimą dėl asmens išklausymo priėmusios Lietuvos Respublikos generalinės prokuratūros prokurorui arba Vilniaus apygardos teismo teisėjui. Laikino perdavimo atveju asmeniui turi būti suteikta galimybė grįžti į Lietuvos Respubliką, kad dalyvautų teismo posėdyje, kuriame sprendžiamas jo perdavimo pagal Europos arešto orderį klausimas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1118, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11876
+
 Kodeksas papildytas straipsniu:
 
 Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
@@ -5407,7 +5431,11 @@ Nr. XII-346, 2013-05-30, Žin., 2013, Nr. 62-3058 (2013-06-12)
 
 2. Vilniaus apygardos teismo teisėjas per septynias dienas turi surengti posėdį, kuriame privalo dalyvauti išduotinas (perduotinas) asmuo, jo gynėjas ir prokuroras. Posėdis protokoluojamas.
 
-3. Jei Vilniaus apygardos teismas nusprendžia asmenį išduoti iš Lietuvos Respublikos ar perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, tokiam asmeniui suėmimo skyrimo ar pratęsimo klausimai sprendžiami bendra šio Kodekso 127 straipsnyje numatyta tvarka apylinkės ar apygardos teisme, atsižvelgiant į reikalingą skirti suėmimui terminą. Teisėjas, nusprendęs išduoti ar atsisakyti išduoti asmenį, priima nutartį. Nutartis atsisakyti perduoti asmenį pagal Europos arešto orderį turi būti motyvuota.
+3. Jei Vilniaus apygardos teismas nusprendžia asmenį išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, suėmimo skyrimo tokiam asmeniui ar jo suėmimo pratęsimo klausimai sprendžiami bendra šio Kodekso 127 straipsnyje numatyta tvarka apylinkės ar apygardos teisme, atsižvelgiant į suėmimui skirti reikalingą terminą. Teisėjas, nusprendęs išduoti ar atsisakyti išduoti asmenį, priima nutartį. Nutartis priimama ir paskelbiama per įmanomai trumpiausią laiką, bet ne vėliau kaip per dešimt dienų nuo teismo posėdžio, kuriame buvo baigtas nagrinėti pareiškimas, dienos. Nutartis atsisakyti perduoti asmenį pagal Europos arešto orderį turi būti motyvuota.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1118, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11876
 
 4. Vilniaus apygardos teismas, spręsdamas, ar perduoti Lietuvos Respublikos pilietį arba nuolat Lietuvos Respublikoje gyvenantį asmenį pagal Europos arešto orderį, atsižvelgia į laisvės atėmimo bausmės vykdymo perėmimo sąlygas, nustatytas Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“. Nusprendęs atsisakyti perduoti asmenį pagal Europos arešto orderį Lietuvos Respublikos baudžiamojo kodekso 91 straipsnio 4 dalies 3 punkte numatytu pagrindu ir perimti bausmės, dėl kurios buvo išduotas Europos arešto orderis, vykdymą, Vilniaus apygardos teismas ta pačia nutartimi išsprendžia šios bausmės suderinimo su Lietuvos Respublikos baudžiamaisiais įstatymais klausimą, vadovaudamasis Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ nustatytomis taisyklėmis.
 
@@ -5453,7 +5481,11 @@ Nr. XII-346, 2013-05-30, Žin., 2013, Nr. 62-3058 (2013-06-12)
 
 3) kitais tarptautinėse sutartyse numatytais atvejais.
 
-3. Užsienio valstybės suimtą Lietuvos Respublikos pilietį vežti tranzitu per Lietuvos Respublikos teritoriją į trečiąją valstybę baudžiamojo persekiojimo tikslais gali būti leidžiama tuo atveju, kai nuteistas asmuo galės atlikti paskirtą su laisvės atėmimu susijusią bausmę Lietuvos Respublikoje, jei to pageidautų.
+3. Užsienio valstybės suimtą Lietuvos Respublikos pilietį vežti tranzitu per Lietuvos Respublikos teritoriją į trečiąją valstybę baudžiamojo persekiojimo tikslais gali būti leidžiama tuo atveju, kai nuteistas asmuo galės atlikti paskirtą su laisvės atėmimu susijusią bausmę Lietuvos Respublikoje, jei to pageidautų. Ši sąlyga taikoma ir nuolat Lietuvos Respublikoje gyvenančiam asmeniui, kai jis vežamas pagal Europos arešto orderį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1118, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11876
 
 Kodeksas papildytas straipsniu:
 
@@ -7405,11 +7437,13 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 3. Kai kaltinamasis iki nuosprendžio priėmimo suserga sunkia nepagydoma liga, dėl kurios bausmę atlikti būtų per sunku, teismas, priimdamas apkaltinamąjį nuosprendį, gali atleisti nuteistąjį nuo bausmės atlikimo.
 
-4. Teismas nuosprendžiu nutraukia baudžiamąją bylą, jeigu yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės. Teismas taip pat nuosprendžiu nutraukia baudžiamąją bylą, jeigu bylos nagrinėjimo teisme metu nustatoma, kad kaltinamasis pagrįstai buvo kaltinamas nusikalstamos veikos padarymu, tačiau dėl šios nusikalstamos veikos suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas.
+4. Teismas nuosprendžiu nutraukia baudžiamąją bylą, jeigu yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 118 straipsnio 2 dalyje, 119 straipsnio 3 ir 4 dalyse, 147 straipsnio 3 dalyje, 1471 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės. Teismas taip pat nuosprendžiu nutraukia baudžiamąją bylą, jeigu bylos nagrinėjimo teisme metu nustatoma, kad kaltinamasis pagrįstai buvo kaltinamas nusikalstamos veikos padarymu, tačiau dėl šios nusikalstamos veikos suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+
+Nr. XIV-1118, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11876
 
 5. Teismas priima išteisinamąjį nuosprendį, jeigu:
 
