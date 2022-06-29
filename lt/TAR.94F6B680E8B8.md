@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2022-05-02"
+last_updated: "2022-06-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2022-05-02 iki 2022-06-28
+Suvestinė redakcija nuo 2022-06-29 iki 2022-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -416,11 +416,13 @@ Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
 3. Asmenys, nurodyti šio Įstatymo 6 straipsnio 4 dalyje, apdraustaisiais laikomi nuo šio Įstatymo 6 straipsnio 4 dalyje nurodyto statuso įgijimo dienos iki jo netekimo dienos.
 
-4. Asmenys, nurodyti šio Įstatymo 6 straipsnio 4 dalyje ir 17 straipsnio 2–11 dalyse (išskyrus draudėjus), šio Įstatymo 9–12 straipsniuose nurodytas paslaugas, kompensuojamuosius vaistus ir medicinos pagalbos priemones, už kuriuos mokama iš Privalomojo sveikatos draudimo fondo biudžeto, gauna dar vieną mėnesį po to, kai nustoja galioti privalomasis sveikatos draudimas pagal šio Įstatymo 8 straipsnio 1 ir 3 dalis. Ši garantija neatleidžia nuo prievolės mokėti šio Įstatymo 17 straipsnyje nustatyto dydžio įmokas. Jeigu įmokos nesumokamos, asmenys, kuriems tą mėnesį Privalomojo sveikatos draudimo fondo biudžeto lėšomis buvo suteiktos asmens sveikatos priežiūros paslaugos, atlygina Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą.
+4. Asmenys, nurodyti šio Įstatymo 6 straipsnio 4 dalyje ir 17 straipsnio 2–11 dalyse (išskyrus draudėjus), šio Įstatymo 9–12 straipsniuose nurodytas paslaugas, kompensuojamuosius vaistus ir medicinos pagalbos priemones, už kuriuos mokama iš Privalomojo sveikatos draudimo fondo biudžeto, gauna dar vieną mėnesį po to, kai nustoja galioti privalomasis sveikatos draudimas pagal šio Įstatymo 8 straipsnio 1 ir 3 dalis. Ši garantija neatleidžia nuo prievolės mokėti šio Įstatymo 17 straipsnyje nustatyto dydžio įmokas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
+
+Nr. XIV-1144, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13883
 
 5. Asmenys, nelaikomi apdraustaisiais privalomuoju sveikatos draudimu pagal šio Įstatymo 6 straipsnio 3 dalį, patys moka asmens sveikatos priežiūros įstaigai už jiems suteiktas asmens sveikatos priežiūros paslaugas (išskyrus valstybės biudžeto lėšomis apmokamas nuolatiniams Lietuvos Respublikos gyventojams suteiktas būtinosios medicinos pagalbos paslaugas ir būtinąsias paslaugas).
 
@@ -1060,21 +1062,9 @@ Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
 
 3) šio Įstatymo II skyriuje nustatytoms privalomojo sveikatos draudimo paslaugų išlaidoms kompensuoti;
 
-4) Vyriausybės nutarimu šio straipsnio 2 dalyje nurodytiems pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalies naudojimo tikslams, kai pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis einamaisiais biudžetiniais metais jau panaudota ar jos neužtenka šio straipsnio 2 dalyje nurodytoms išlaidoms padengti.
-
-Papildyta straipsnio punktu:
-
-Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
-
 4. Valstybinė ligonių kasa ir teritorinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšas laiko konkurso būdu pasirinktame banke arba investuoja šio straipsnio 5 dalyje nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
-
-Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
-
-5. Valstybinei ligonių kasai priėmus sprendimą investuoti laikinai laisvas (šio Įstatymo nustatyta tvarka nepaskirstytas ir mokėjimams atlikti nenaudojamas) Privalomojo sveikatos draudimo fondo lėšas, jos pervedamos į Finansų ministerijos vardu atidarytą Lietuvos banko sąskaitą. Šias lėšas neatlygintinai valdo ir sprendimus dėl jų investavimo finansų ministro nustatyta tvarka priima Finansų ministerija, garantuodama, kad investuotos lėšos ir investavimo metu gautos pajamos Valstybinės ligonių kasos pageidavimu būtų grąžinamos į Privalomojo sveikatos draudimo fondo sąskaitą. Pajamos, gautos investuojant, naudojamos tik šiame Įstatyme nustatytoms Privalomojo sveikatos draudimo fondo biudžeto išlaidoms apmokėti. Valstybinė ligonių kasa Finansų ministerijos investavimo išlaidas kompensuoja šio Įstatymo 21 straipsnio 1 dalies 6 punkte numatytomis lėšomis.
-
-Papildyta straipsnio dalimi:
 
 Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
 
