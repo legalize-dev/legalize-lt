@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2021-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -216,13 +216,21 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
 
-40. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės saugos įstatyme (toliau – Branduolinės saugos įstatymas), Lietuvos Respublikos radiacinės saugos įstatyme (toliau – Radiacinės saugos įstatymas) ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme (toliau – Radioaktyviųjų atliekų tvarkymo įstatymas).
+40. Zonos kontrolė – į branduolinės energetikos objekto apsaugos zoną atvykstančių, iš jos išvykstančių ir (ar) joje esančių asmenų, transporto priemonių, gabenamų daiktų ir jų dokumentų tikrinimas ir apžiūra, taip pat asmenų, transporto priemonių ir gabenamų daiktų patekimo į šią zoną ribojimas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-573, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21913
+
+41. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės saugos įstatyme (toliau – Branduolinės saugos įstatymas), Lietuvos Respublikos radiacinės saugos įstatyme (toliau – Radiacinės saugos įstatymas) ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme (toliau – Radioaktyviųjų atliekų tvarkymo įstatymas).
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
 
 Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
+
+Nr. XIV-573, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21913
 
 3 straipsnis. Veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais teisiniai pagrindai
 
@@ -430,13 +438,19 @@ Lietuvos Respublikos vidaus reikalų ministerija (toliau – Vidaus reikalų min
 
 4) derina branduolinės energetikos objektų darbuotojų priešgaisrinės saugos mokymo programas ir dalyvauja šių objektų vadovaujančių darbuotojų žinių patikrinimuose;
 
-5) vykdo ir užtikrina branduolinės (atominės) elektrinės, Lietuvos Respublikos pasienio ruože esančių kitų branduolinės energetikos objektų ir per Lietuvos Respublikos teritoriją vežamų Branduolinės saugos įstatymo 1 priede nurodytų branduolinių medžiagų nustatytais kiekiais krovinių fizinę apsaugą pagal Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytus reikalavimus;
+5) vykdo ir užtikrina branduolinės energetikos objektų, išskyrus Maišiagalos radioaktyviųjų atliekų saugyklą, fizinę apsaugą, įskaitant riboto patekimo ir saugomų zonų kontrolę, ir per Lietuvos Respublikos teritoriją vežamų Branduolinės saugos įstatymo 1 priede nurodytų branduolinių medžiagų nustatytais kiekiais krovinių fizinę apsaugą pagal Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytus reikalavimus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
 
-6) vykdo branduolinės energetikos objektų ir vežamų per Lietuvos Respublikos teritoriją branduolinių medžiagų krovinių apsaugos reagavimo pajėgų funkcijas, įskaitant pagalbos prašymo priėmimą, įvertinimą, teiktinos pagalbos poreikio nustatymą, pagalbos išsiuntimą į įvykio vietą, pagalbos įvykio vietoje užtikrinimą, pagalbos veiksmų koordinavimą;
+Nr. XIV-573, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21913
+
+6) vykdo reagavimo į neteisėtą veiklą pajėgų funkcijas – priima pagalbos prašymą, įvertina, nustato teiktinos pagalbos poreikį, išsiunčia pagalbą į įvykio vietą, užtikrina pagalbą įvykio vietoje, koordinuoja pagalbos veiksmus – branduolinės energetikos objektų apsaugos zonose ir branduolinių medžiagų krovinių vežimo per Lietuvos Respublikos teritoriją metu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-573, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21913
 
 7) sudaro, koordinuoja ir vykdo branduolinės (atominės) elektrinės ir kitų branduolinės energetikos objektų antiteroristinės ir antiintervencinės tarpžinybinės sąveikos planus;
 
@@ -918,7 +932,11 @@ Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
 
 1. Riboto patekimo zonos ribas konkrečiam branduolinės energetikos objektui, atsižvelgdama į branduolinės energetikos objekto charakteristikas, nustato Valstybinė atominės energetikos saugos inspekcija. Branduolinės energetikos objekto riboto patekimo zonos išorinės ribos negali būti nutolusios nuo branduolinės energetikos objekto daugiau kaip 3 kilometrus, o zonos išorinės ribos turi būti branduolinės energetikos objektą eksploatuojančios organizacijos pažymėtos informaciniais ženklais. Tuo atveju, kai vieno branduolinės energetikos objekto riboto patekimo zona patenka į kito branduolinės energetikos objekto riboto patekimo zoną, o zonų išorinės ribos skiriasi, informaciniais ženklais turi būti pažymėtos tik tos riboto patekimo zonos išorinės ribos, kurios apima didesnę teritoriją.
 
-2. Branduolinės energetikos objekto fizinės saugos tikslams pasiekti Valstybinė atominės energetikos saugos inspekcija, įgyvendindama šio įstatymo 22 straipsnio 1 dalies 3 punktą, nustato papildomas branduolinės energetikos objekto apsaugos zonų rūšis, esančias saugomos zonos viduje. Licencijos turėtojas privalo nusistatyti branduolinės energetikos objekto saugomos ir papildomų branduolinės energetikos objekto apsaugos zonų, esančių saugomos zonos viduje, ribas ir kontroliuoti asmenų ir transporto priemonių patekimą į šias zonas.
+2. Branduolinės energetikos objekto fizinės saugos tikslams pasiekti Valstybinė atominės energetikos saugos inspekcija, įgyvendindama šio įstatymo 22 straipsnio 1 dalies 3 punktą, nustato papildomas branduolinės energetikos objekto apsaugos zonų rūšis, esančias saugomos zonos viduje. Licencijos turėtojas privalo nusistatyti branduolinės energetikos objekto saugomos ir papildomų branduolinės energetikos objekto apsaugos zonų, esančių saugomos zonos viduje, ribas ir vykdyti papildomų branduolinės energetikos objekto apsaugos zonų kontrolę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-573, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21913
 
 Straipsnio pakeitimai:
 
@@ -970,11 +988,13 @@ Nr. XIV-74, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28360
 
 9. Pareiškėjas ar licencijos turėtojas užtikrina, kad TATENA, Euratomo inspektoriai ir Valstybinės atominės energetikos saugos inspekcijos ir kitų priežiūrą vykdančių institucijų ar įstaigų darbuotojai, turintys įgaliojimus lankytis branduolinės energetikos objekto aikštelėje ir (ar) branduolinės energetikos apsaugos zonose, įgaliojimus dalyvauti vežant Branduolinės saugos įstatymo 1 priede nurodytas branduolines medžiagas nustatytais kiekiais ir (ar) branduolinio kuro ciklo medžiagas, netrukdomi galėtų patekti į branduolinės energetikos objekto apsaugos zonas ir (ar) branduolinės energetikos objekto aikštelę, netrukdomi galėtų dalyvauti vežant Branduolinės saugos įstatymo 1 priede nurodytas branduolines medžiagas nustatytais kiekiais ir (ar) branduolinio kuro ciklo medžiagas, taip pat sudaro jiems sąlygas pareigoms atlikti.
 
-10. Vykdant nusikalstamų veikų, galinčių sutrikdyti branduolinės energetikos objekto eksploatavimą, prevenciją, branduolinės energetikos objekto riboto patekimo zonoje gali būti tikrinami ir apžiūrimi joje esantys fiziniai asmenys, transporto priemonės, gabenami kroviniai bei jų dokumentai, taip pat gali būti ribojamas fizinių asmenų patekimas į šią zoną. Teisę tikrinti fizinius asmenis, transporto priemones, krovinius ir jų dokumentus bei riboti fizinių asmenų patekimą į riboto patekimo zoną turi Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos ir Policijos departamento prie Vidaus reikalų ministerijos pareigūnai, vadovaudamiesi jų teises ir pareigas reglamentuojančiais įstatymais.
+10. Užtikrinant nusikalstamų veikų, galinčių sutrikdyti branduolinės energetikos objekto eksploatavimą, prevenciją, branduolinės energetikos objekto riboto patekimo zonos kontrolę vykdo Vidaus reikalų ministerijos įgaliotos institucijos pareigūnai, vadovaudamiesi jų teises ir pareigas reglamentuojančiais įstatymais. Asmenys, esantys branduolinės energetikos objekto riboto patekimo zonoje, Vidaus reikalų ministerijos įgaliotos institucijos pareigūnų reikalavimu privalo sustabdyti transporto priemones, pateikti asmens, transporto priemonės, gabenamų daiktų dokumentus, sudaryti galimybes apžiūrėti transporto priemones, gabenamus daiktus, vykdyti kitus pareigūnų reikalavimus, susijusius su branduolinės energetikos objektų fizinės apsaugos vykdymu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2156, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09408
+
+Nr. XIV-573, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21913
 
 11. Visų rūšių orlaiviams ir kitiems skraidymo aparatams draudžiama skraidyti virš branduolinės (atominės) elektrinės ir Vyriausybės ar jos įgaliotos institucijos ar įstaigos nustatytos neskraidymo zonos, išskyrus atvejus, kai skraidyti būtina dėl branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko statybos, eksploatavimo, eksploatavimo nutraukimo arba branduolinei ar radiologinei avarijai likviduoti.
 
@@ -1208,7 +1228,7 @@ Užsienio valstybių laivai su branduoliniais reaktoriais ar užsienio valstybi�
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -1479,6 +1499,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-74, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28360
 
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 35 straipsnio pakeitimo įstatymas
+
+32.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-573, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21913
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2, 15, 34 ir 36 straipsnių pakeitimo įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
