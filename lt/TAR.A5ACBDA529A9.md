@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2022-05-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-22
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -2927,29 +2927,25 @@ Nr. XIII-2052, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06688
 
 383 straipsnis. Papildomo kredito įstaigų pelno mokesčio apskaičiavimas, deklaravimas ir sumokėjimas
 
-1. Pagal Lietuvos Respublikos bankų įstatymą veikiantys bankai, tarp jų užsienio komercinių bankų filialai, pagal Lietuvos Respublikos kredito unijų įstatymą veikiančios kredito unijos ir pagal Lietuvos Respublikos centrinių kredito unijų įstatymą veikiančios centrinės kredito unijos papildomą kredito įstaigų pelno mokestį apskaičiuoja, deklaruoja ir sumoka šiame straipsnyje nustatyta tvarka.
+1. Pagal Bankų įstatymą veikiantys bankai, tarp jų užsienio komercinių bankų filialai, pagal Kredito unijų įstatymą veikiančios kredito unijos ir pagal Lietuvos Respublikos centrinių kredito unijų įstatymą veikiančios centrinės kredito unijos papildomą kredito įstaigų pelno mokestį apskaičiuoja, deklaruoja ir sumoka šiame straipsnyje nustatyta tvarka.
 
-2. Kredito įstaigų apmokestinamasis pelnas, apskaičiuotas iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus ir ribojamų dydžių leidžiamus atskaitymus (išskyrus mokslinių tyrimų ir eksperimentinės plėtros darbų sąnaudų padidintų atskaitymų sumą, apmokestinamųjų pajamų sumažinimo dėl filmo arba jo dalies gamybai neatlygintinai suteiktų lėšų sumą, atskaitomą suteiktos paramos sumą ir praėjusių mokestinių laikotarpių nuostolių, atskaitomų iš mokestinio laikotarpio pajamų, sumą), apmokestinamas taikant 5 procentų papildomo kredito įstaigų pelno mokesčio tarifą.
+2. Kredito įstaigų apmokestinamasis pelnas, apskaičiuotas iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus ir ribojamų dydžių leidžiamus atskaitymus (išskyrus mokslinių tyrimų ir eksperimentinės plėtros darbų sąnaudų padidintų atskaitymų sumą, apmokestinamųjų pajamų sumažinimo dėl filmo arba jo dalies gamybai neatlygintinai suteiktų lėšų sumą, atskaitomą suteiktos paramos sumą ir praėjusių mokestinių laikotarpių nuostolių, atskaitomų iš mokestinio laikotarpio pajamų, sumą), apmokestinamas taikant 5 procentų papildomo kredito įstaigų pelno mokesčio tarifą.
 
-3.  Apskaičiuojant pagal šį straipsnį apmokestinamą kredito įstaigų pelną, į šio Įstatymo IX1ir X1 skyrių nuostatas neatsižvelgiama.
+3. Apskaičiuojant pagal šį straipsnį apmokestinamą kredito įstaigų apmokestinamąjį pelną, į šio Įstatymo IX1 ir X1 skyrių nuostatas neatsižvelgiama.
 
 4. Šio straipsnio taikymo tikslais į kredito įstaigos pajamas neįtraukiamos pozityviosios pajamos ir gauti dividendai.
 
-5. Papildomu kredito įstaigų pelno mokesčiu neapmokestinama šio straipsnio 2, 3 ir 4 dalyse nustatyta tvarka apskaičiuoto pelno dalis, neviršijanti 2 000 000 eurų.
+5. Papildomu kredito įstaigų pelno mokesčiu neapmokestinama šio straipsnio 2, 3 ir 4 dalyse nustatyta tvarka apskaičiuoto pelno dalis, neviršijanti 2 000 000 eurų.
 
-6. Kredito įstaigos moka avansinį papildomą kredito įstaigų pelno mokestį. Pirmųjų dviejų mokestinio laikotarpio ketvirčių avansinis papildomas kredito įstaigų pelno mokestis sudaro po 1/4 už mokestinį laikotarpį, buvusį prieš praėjusį mokestinį laikotarpį, šiame straipsnyje nustatyta tvarka apskaičiuojamo papildomo kredito įstaigų pelno mokesčio sumos. Trečiojo ir ketvirtojo mokestinio laikotarpio ketvirčių avansinis papildomas kredito įstaigų pelno mokestis sudaro po 1/4 už praėjusį mokestinį laikotarpį šiame straipsnyje nustatyta tvarka apskaičiuojamo papildomo kredito įstaigų pelno mokesčio sumos. Pirmųjų dviejų mokestinio laikotarpio ketvirčių avansinio papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama mokesčių administratoriui ne vėliau kaip mokestinio laikotarpio trečio mėnesio penkioliktą dieną. Trečiojo ir ketvirtojo mokestinio laikotarpio ketvirčių avansinio papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama mokesčių administratoriui ne vėliau kaip mokestinio laikotarpio devinto mėnesio penkioliktą dieną. Avansinis pelno mokestis turi būti sumokėtas į valstybės biudžetą ne vėliau kaip kiekvieno mokestinio laikotarpio ketvirčio paskutinio mėnesio penkioliktą dieną.
+6. Kredito įstaigos moka avansinį papildomą kredito įstaigų pelno mokestį. Pirmųjų dviejų mokestinio laikotarpio ketvirčių avansinis papildomas kredito įstaigų pelno mokestis sudaro po 1/4 už mokestinį laikotarpį, buvusį prieš praėjusį mokestinį laikotarpį, šiame straipsnyje nustatyta tvarka apskaičiuojamo papildomo kredito įstaigų pelno mokesčio sumos. Trečiojo ir ketvirtojo mokestinio laikotarpio ketvirčių avansinis papildomas kredito įstaigų pelno mokestis sudaro po 1/4 už praėjusį mokestinį laikotarpį šiame straipsnyje nustatyta tvarka apskaičiuojamo papildomo kredito įstaigų pelno mokesčio sumos. Pirmųjų dviejų mokestinio laikotarpio ketvirčių avansinio papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama mokesčių administratoriui ne vėliau kaip mokestinio laikotarpio trečio mėnesio penkioliktą dieną. Trečiojo ir ketvirtojo mokestinio laikotarpio ketvirčių avansinio papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama mokesčių administratoriui ne vėliau kaip mokestinio laikotarpio devinto mėnesio penkioliktą dieną. Avansinis papildomas kredito įstaigų pelno mokestis turi būti sumokėtas į valstybės biudžetą ne vėliau kaip kiekvieno mokestinio laikotarpio ketvirčio paskutinio mėnesio penkioliktą dieną.
 
-7. Kredito įstaigos atleidžiamos nuo avansinio papildomo kredito įstaigų pelno mokesčio mokėjimo už pirmąjį mokestinį laikotarpį, kaip jis suprantamas pagal šio Įstatymo 6 straipsnio 3 dalį, o antrąjį mokestinį laikotarpį avansinis papildomas kredito įstaigų pelno mokestis pradedamas mokėti nuo trečiojo ketvirčio. Jeigu mokestinis laikotarpis, buvęs prieš praėjusį mokestinį laikotarpį, buvo trumpesnis negu dvylika mėnesių, apskaičiuojant avansinį papildomą kredito įstaigų pelno mokestį už tą mokestinį laikotarpį šiame straipsnyje nustatyta tvarka apskaičiuojamo papildomo kredito įstaigų pelno mokesčio suma padalijama iš to mokestinio laikotarpio mėnesių skaičiaus ir padauginama iš dvylikos.
+7. Kredito įstaigos atleidžiamos nuo avansinio papildomo kredito įstaigų pelno mokesčio mokėjimo už pirmąjį mokestinį laikotarpį, kaip jis suprantamas pagal šio Įstatymo 6 straipsnio 3 dalį, o antrąjį mokestinį laikotarpį avansinis papildomas kredito įstaigų pelno mokestis pradedamas mokėti nuo trečiojo ketvirčio. Jeigu mokestinis laikotarpis, buvęs prieš praėjusį mokestinį laikotarpį, buvo trumpesnis negu dvylika mėnesių, apskaičiuojant avansinį papildomą kredito įstaigų pelno mokestį už tą mokestinį laikotarpį šiame straipsnyje nustatyta tvarka apskaičiuojamo papildomo kredito įstaigų pelno mokesčio suma dalijama iš to mokestinio laikotarpio mėnesių skaičiaus ir dauginama iš dvylikos.
 
-8. Metinė papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama mokesčių administratoriui iki kito mokestinio laikotarpio šešto mėnesio penkioliktos dienos. Jeigu metinėje mokestinio laikotarpio papildomo kredito įstaigų pelno mokesčio deklaracijoje apskaičiuota pelno mokesčio suma viršija sumokėtą to mokestinio laikotarpio avansinio papildomo kredito įstaigų pelno mokesčio sumą, apskaičiuotas skirtumas sumokamas į valstybės biudžetą iki kito mokestinio laikotarpio šešto mėnesio penkioliktos dienos. Mokesčio permoka grąžinama Mokesčių administravimo įstatymo nustatyta tvarka. Paskutinio mokestinio laikotarpio papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama ir mokestis sumokamas per 30 dienų nuo veiklos pabaigos.
+8. Metinė papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama mokesčių administratoriui iki kito mokestinio laikotarpio šešto mėnesio penkioliktos dienos. Jeigu metinėje mokestinio laikotarpio papildomo kredito įstaigų pelno mokesčio deklaracijoje nurodyta pelno mokesčio suma viršija sumokėtą to mokestinio laikotarpio avansinio papildomo kredito įstaigų pelno mokesčio sumą, apskaičiuotas skirtumas sumokamas į valstybės biudžetą iki kito mokestinio laikotarpio šešto mėnesio penkioliktos dienos. Mokesčio permoka grąžinama Mokesčių administravimo įstatymo nustatyta tvarka. Paskutinio mokestinio laikotarpio papildomo kredito įstaigų pelno mokesčio deklaracija pateikiama ir mokestis sumokamas per 30 dienų nuo veiklos pabaigos.
 
 9. Papildomo kredito įstaigų pelno mokesčio ir avansinio papildomo kredito įstaigų pelno mokesčio deklaracijų formas, jų pildymo tvarką, kartu su deklaracijomis reikalaujamus pateikti kitus duomenis nustato centrinis mokesčių administratorius.
 
-TAR pastaba. 383 straipsnio nuostatos taikomos apskaičiuojant ir deklaruojant 2020, 2021 ir 2022 metų mokestinių laikotarpių pelno mokestį.
-
-Papildyta straipsniu:
-
-Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
+TAR pastaba. 383 straipsnio nuostatos yra taikomas apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 
 402 straipsnis. Turto perkėlimo apmokestinimas
 
