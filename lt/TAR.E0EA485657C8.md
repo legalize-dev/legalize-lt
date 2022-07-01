@@ -4,7 +4,7 @@ identifier: "TAR.E0EA485657C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2021-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
 
@@ -87,6 +87,12 @@ Nr. XIII-3247, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15781
 Papildyta straipsnio dalimi:
 
 Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
+
+8. Prievarta suprantama taip, kaip ji apibrėžta Lietuvos Respublikos policijos įstatyme ir Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-971, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06308
 
 3 straipsnis. LŠS veiklos teisiniai pagrindai
 
@@ -404,27 +410,31 @@ Policijos, Valstybės sienos apsaugos tarnybos, Priešgaisrinės apsaugos ir gel
 
 16 straipsnis. LŠS pagalba policijai užtikrinant viešąjį saugumą
 
-1. LŠS gali padėti policijai užtikrinti viešąją tvarką, taip pat vykdyti atskiras policijos priemones. Pagalba policijai teikiama, gavus policijos generalinio komisaro ar atitinkamoje apskrityje veikiančios teritorinės policijos įstaigos vadovo ar jo pavaduotojo prašymą. Pagalbos policijai teikimo tvarka nustatoma policijos generalinio komisaro ir LŠS vado sudarytoje bendradarbiavimo sutartyje. Šauliai siunčiami teikti pagalbą policijai LŠS vado ar jo įgalioto rinktinės vado sprendimu.
+1. LŠS gali padėti policijai užtikrinti viešąją tvarką, taip pat vykdyti atskiras policijos priemones. Pagalba policijai teikiama, gavus policijos generalinio komisaro ar jo įgalioto pareigūno prašymą. Pagalbos policijai teikimo tvarka nustatoma policijos generalinio komisaro ir LŠS vado sudarytoje bendradarbiavimo sutartyje. Šauliai siunčiami teikti pagalbą policijai LŠS vado ar jo įgalioto rinktinės vado sprendimu.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-3247, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15781
-
-2. Pagal šio straipsnio 1 dalį policijai padedantiems LŠS padaliniams vadovauja teritorinės policijos įstaigos arba policijos komisariato, atsakingo už viešąją tvarką atitinkamoje teritorijoje, vadovas ar jo įgaliotas policijos pareigūnas arba policijos priemonei vadovaujantis policijos pareigūnas.
+2. Pagal šio straipsnio 1 dalį policijai padedantiems LŠS padaliniams vadovauja bei teikiant pagalbą galimas turėti specialiąsias priemones ir (ar) ginklus nustato policijos įstaigos, atsakingos už viešąją tvarką atitinkamoje teritorijoje, vadovas ar jo įgaliotas policijos pareigūnas arba policijos priemonei vadovaujantis policijos pareigūnas.
 
 3. Šio straipsnio 1 dalyje nenustatytais atvejais šauliai gali padėti policijai įstatymų nustatyta tvarka tapę policijos rėmėjais.
 
 4. Šauliai gali įspėti viešosios tvarkos pažeidėjus, taip pat privalo pranešti policijos pareigūnams apie vykdomą viešosios tvarkos pažeidimą.
 
+5. LŠS teikiant pagalbą policijai, prievarta, specialiosios priemonės ir šaunamieji ginklai gali būti naudojami tik tiek, kiek tai būtina pagalbos tikslams pasiekti.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-971, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06308
+
 17 straipsnis. LŠS pagalba Valstybės sienos apsaugos tarnybai
 
-1. LŠS gali padėti Valstybės sienos apsaugos tarnybai prireikus vykdyti skubias operacijas, skirtas Lietuvos Respublikos valstybės sienos apsaugai užtikrinti. Ši pagalba teikiama gavus Valstybės sienos apsaugos tarnybos vado arba atitinkamoje apskrityje veikiančios Valstybės sienos apsaugos tarnybos rinktinės vado prašymą. Pagalbos Valstybės sienos apsaugos tarnybai teikimo tvarka nustatoma Valstybės sienos apsaugos tarnybos vado ir LŠS vado sudarytoje bendradarbiavimo sutartyje. Šauliai siunčiami teikti pagalbą Valstybės sienos apsaugos tarnybai LŠS vado ar jo įgalioto rinktinės vado sprendimu.
+1. LŠS gali padėti Valstybės sienos apsaugos tarnybai prireikus vykdyti skubias operacijas, skirtas Lietuvos Respublikos valstybės sienos apsaugai užtikrinti. Ši pagalba teikiama, gavus Valstybės sienos apsaugos tarnybos vado ar jo įgalioto pareigūno prašymą. Pagalbos Valstybės sienos apsaugos tarnybai teikimo tvarka nustatoma Valstybės sienos apsaugos tarnybos vado ir LŠS vado sudarytoje bendradarbiavimo sutartyje. Šauliai siunčiami teikti pagalbą Valstybės sienos apsaugos tarnybai LŠS vado ar jo įgalioto rinktinės vado sprendimu.
 
-Straipsnio dalies pakeitimai:
+2. Pagal šio straipsnio 1 dalį Valstybės sienos apsaugos tarnybai padedantiems LŠS padaliniams vadovauja bei teikiant pagalbą galimas turėti specialiąsias priemones ir (ar) ginklus nustato Valstybės sienos apsaugos tarnybos vadas ar jo įgaliotas pareigūnas.
 
-Nr. XIII-3247, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15781
+3. LŠS teikiant pagalbą Valstybės sienos apsaugos tarnybai, prievarta, specialiosios priemonės ir šaunamieji ginklai gali būti naudojami tik tiek, kiek tai būtina pagalbos tikslams pasiekti.
 
-2. Pagal šio straipsnio 1 dalį Valstybės sienos apsaugos tarnybai padedantiems LŠS padaliniams vadovauja Valstybės sienos apsaugos tarnybos rinktinės, kuriai teikiama pagalba, vado įgaliotas pareigūnas.
+Straipsnio pakeitimai:
+
+Nr. XIV-971, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06308
 
 18 straipsnis. LŠS pagalba civilinės saugos ir gelbėjimo sistemos pajėgoms
 
@@ -860,21 +870,31 @@ Nr. XIII-3253, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15768
 
 5. Jeigu sulaukęs pilnametystės jaunasis šaulys atsisako duoti šaulio priesaiką arba duoda ją su išlygomis, jo narystė LŠS nutrūksta.
 
-32 straipsnis. Šaulių teisė naudoti šaunamuosius ginklus ir specialiąsias priemones
+32 straipsnis. Šaulių teisė naudoti prievartą, šaunamuosius ginklus ir specialiąsias priemones
 
 1. Šauliai, atlikdami šio įstatymo 9 straipsnio 1 dalies 7 punkte ir 14 straipsnyje nustatytą šaulio tarnybą, turi teisę naudoti šaunamuosius ginklus ir specialiąsias priemones Karinės jėgos naudojimo statuto 8 straipsnyje nustatytais pagrindais.
 
-Straipsnio dalies pakeitimai:
+2. Šauliai, atlikdami šio įstatymo 9 straipsnio 1 dalies 5 punkte ir 16 straipsnyje nustatytą šaulio tarnybą, veikdami kartu su policijos pareigūnais, turi teisę naudoti prievartą, specialiąsias priemones ir šaunamuosius ginklus Policijos įstatymo 27 ir 28 straipsniuose nustatyta tvarka ir pagrindais.
 
-Nr. XII-1444, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20785
+3. Šauliai, atlikdami šio įstatymo 9 straipsnio 1 dalies 5 punkte ir 17 straipsnyje nustatytą šaulio tarnybą, veikdami kartu su Valstybės sienos apsaugos tarnybos pareigūnais, turi teisę naudoti prievartą, specialiąsias priemones ir šaunamuosius ginklus Valstybės sienos ir jos apsaugos įstatymo 28 ir 29 straipsniuose nustatyta tvarka ir pagrindais.
 
-2. Teisę naudoti šaunamuosius ginklus ir specialiąsias priemones, išskyrus savigynos atvejį, turi tik pilnamečiai šauliai, išlaikę šaunamųjų ginklų ir specialiųjų priemonių naudojimo taisyklių egzaminus.
+4. Teisę naudoti prievartą, šaunamuosius ginklus ir specialiąsias priemones, išskyrus savigynos atvejį, turi tik pilnamečiai šauliai LŠS vado nustatyta tvarka, suderinta su policija, Valstybės sienos apsaugos tarnyba, išlaikę šaunamųjų ginklų ir specialiųjų priemonių naudojimo taisyklių egzaminus.
+
+5. Už neteisėtą prievartos, šaunamojo ginklo ar specialiųjų priemonių panaudojimą šauliai atsako Lietuvos Respublikos teisės aktų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-971, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06308
 
 33 straipsnis. Šaulių teisės ir pareigos, kai LŠS teikia pagalbą policijai, Valstybės sienos apsaugos tarnybai bei civilinės saugos ir gelbėjimo sistemos pajėgoms
 
 1. Kai LŠS teikia šio įstatymo 16 straipsnio 1 dalyje nustatytą pagalbą policijai, 17 straipsnio 1 dalyje nustatytą pagalbą Valstybės sienos apsaugos tarnybai ar 18 straipsnio 1 dalyje nustatytą pagalbą civilinės saugos ir gelbėjimo sistemos pajėgoms, šauliai turi šias teises:
 
-1) įstatymų ir kitų teisės aktų nustatyta tvarka kartu su policijos ir Valstybės sienos apsaugos tarnybos pareigūnais panaudoti specialiąsias priemones;
+1) įstatymų ir kitų teisės aktų nustatyta tvarka kartu su policijos ir Valstybės sienos apsaugos tarnybos pareigūnais panaudoti prievartą, specialiąsias priemones ir šaunamuosius ginklus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-971, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06308
 
 2) reikalauti, kad asmenys laikytųsi viešosios tvarkos ir nepažeidinėtų įstatymų;
 
@@ -1349,6 +1369,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3253, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15768
 
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 30 straipsnio pakeitimo ir Įstatymo papildymo 36-2 straipsniu įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-971, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06308
+
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 16, 17, 32 ir 33 straipsnių pakeitimo įstatymas
 
 361 straipsnis. Šaulių teisė susipažinti su įslaptinta informacija ir ją naudoti
 
