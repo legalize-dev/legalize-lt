@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -263,7 +263,11 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 1. Prievolė mokėti akcizus Lietuvos Respublikoje atsiranda už:
 
-1) akcizais apmokestinamas prekes, kurioms Lietuvos Respublikoje panaikintas akcizų mokėjimo laikino atidėjimo režimas (t. y. už iš akcizais apmokestinamų prekių sandėlio išgabentas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, už prekes, registruoto gavėjo gautas iš kitos valstybės narės, už akcizais apmokestinamas prekes, pristatytas į akcizais apmokestinamų prekių sandėlio savininko, gaunančio akcizais apmokestinamas prekes, ar registruoto gavėjo nurodytą tiesioginio pristatymo vietą, taip pat už šio įstatymo 19 straipsnio 1 dalies 2, 3, 6, 7 ir 8 punktuose nurodytiems asmenims skirtas iš kitų valstybių narių atgabentas akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas). Šio punkto nuostatos taikomos ir toms akcizais apmokestinamoms prekėms, kurioms akcizų mokėjimo laikino atidėjimo režimas panaikinamas pažeidžiant teisės aktų nustatytus reikalavimus;
+1) akcizais apmokestinamas prekes, kurioms Lietuvos Respublikoje panaikintas akcizų mokėjimo laikino atidėjimo režimas (t. y. už iš akcizais apmokestinamų prekių sandėlio išgabentas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, už prekes, registruoto gavėjo gautas iš kitos valstybės narės, už akcizais apmokestinamas prekes, pristatytas į akcizais apmokestinamų prekių sandėlio savininko, gaunančio akcizais apmokestinamas prekes, ar registruoto gavėjo nurodytą tiesioginio pristatymo vietą, taip pat už šio įstatymo 19 straipsnio 1 dalies 2, 3, 6, 7, 8 ir 9 punktuose nurodytiems asmenims skirtas iš kitų valstybių narių atgabentas akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas). Šio punkto nuostatos taikomos ir toms akcizais apmokestinamoms prekėms, kurioms akcizų mokėjimo laikino atidėjimo režimas panaikinamas pažeidžiant teisės aktų nustatytus reikalavimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 2) akcizais apmokestinamas prekes, prarastas Lietuvos Respublikos akcizais apmokestinamų prekių sandėlyje, už Lietuvos Respublikoje gabenimo metu prarastas prekes, taip pat už dėl Lietuvos Respublikoje įvykusių ar nustatytų (jei nėra įrodymų, kad šie pažeidimai įvyko kitoje valstybėje narėje) gabenimo pažeidimų nepristatytas į paskirties vietą akcizais apmokestinamas prekes. Akcizais apmokestinamų prekių gabenimo pažeidimu laikomi atvejai, kai akcizais apmokestinamų prekių gavimas (eksportas) nėra patvirtinamas vadovaujantis šio įstatymo 14, 15 ar 16 straipsnių ar savo esme tolygiomis kitų valstybių narių teisės aktų nuostatomis. Akcizais apmokestinamų prekių gabenimo pažeidimu nelaikoma ir akcizai neskaičiuojami už prarastą prekių kiekį, neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prekes, prarastas dėl nenugalimos jėgos (force majeure) aplinkybių, taip pat už kitas negrįžtamai prarastas ar visiškai sunaikintas prekes (jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jeigu tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
 
@@ -463,51 +467,103 @@ Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 
 1) išgabentos į kitos valstybės narės akcizais apmokestinamų prekių sandėlį;
 
+TAR pastaba. 15 straipsnio 1 dalies 1 punktas įsigalioja 2023-02-13.
+
 2) išgabentos kitos valstybės narės registruotam gavėjui;
+
+TAR pastaba. 15 straipsnio 1 dalies 2 punktas įsigalioja 2023-02-13.
 
 3) išgabentos į kitos valstybės narės akcizais apmokestinamų prekių sandėlio savininko, gaunančio akcizais apmokestinamas prekes, ar registruoto gavėjo nurodytą tiesioginio pristatymo vietą;
 
-4) eksportuojamos per kitą valstybę narę;
+TAR pastaba. 15 straipsnio 1 dalies 3 punktas įsigalioja 2023-02-13.
 
-5) išgabentos šio įstatymo 19 straipsnio 1 dalies 3, 6 ir 7 punktuose nurodytiems asmenims;
+4) eksportuojamos per kitą valstybę narę, t. y. išgabenamos pagal 2015 m. lapkričio 24 d. Komisijos įgyvendinimo reglamento (ES) 2015/2447, kuriuo nustatomos išsamios tam tikrų Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, nuostatų įgyvendinimo taisyklės, su visais pakeitimais (toliau – Įgyvendinimo reglamentas (ES) 2015/2447) 329 straipsnį į išvežimo muitinės įstaigą;
+
+TAR pastaba. 15 straipsnio 1 dalies 4 punktas įsigalioja 2023-02-13.
+
+5) išgabentos šio įstatymo 19 straipsnio 1 dalies 3, 6, 7 ir 9 punktuose nurodytiems asmenims;
 
 6) išgabenamos pagal kitų valstybių narių sutartis su trečiosiomis valstybėmis ar pagal tarptautines sutartis, jeigu šiose sutartyse numatyta šias prekes atleisti nuo pridėtinės vertės mokesčio;
 
-7) išgabenamos Kipre pagal 1960 m. rugpjūčio 16 d. Sutartį dėl Kipro Respublikos įkūrimo dislokuotiems Jungtinės Karalystės kariuomenių vienetams ar juos lydintiems civiliams darbuotojams naudoti.
+TAR pastaba. 15 straipsnio 1 dalies 6 punktas įsigalioja 2023-02-13.
 
-2. Išgabenant iš Lietuvos Respublikos akcizais apmokestinamų prekių sandėlio akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, į šio straipsnio 1 dalyje nurodytas paskirties vietas, centrinio mokesčių administratoriaus nustatyta tvarka turi būti parengtas elektroninio vežimo dokumento projektas vadovaujantis Reglamento (EB) Nr. 684/2009 nuostatomis. Šį elektroninio vežimo dokumento projektą akcizais apmokestinamų prekių siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, turi pateikti vietos mokesčių administratoriui. Vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi patvirtinti elektroninio vežimo dokumento projekte pateiktus duomenis, suteikti elektroniniam vežimo dokumentui unikalų administracinį nuorodos kodą ir pranešti jį akcizais apmokestinamų prekių siuntėjui. Vietos mokesčių administratoriaus įgalioti asmenys šį elektroninį vežimo dokumentą turi išsiųsti paskirties valstybės narės kompetentingoms institucijoms. Šioje dalyje nurodyto elektroninio vežimo dokumento spausdintinis variantas ar kitas dokumentas, kuriame nurodytas unikalus administracinis nuorodos kodas, turi lydėti gabenamas akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas. Šio straipsnio 1 dalies 5, 6 ir 7 punktuose nurodytiems asmenims gabenamas akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, turi lydėti kitos valstybės narės kompetentingų institucijų įgaliotų asmenų patvirtintas dokumentas, kuriuo suteikiama teisė šias prekes įsigyti taikant akcizų lengvatą.
+7) išgabenamos Kipre pagal 1960 m. rugpjūčio 16 d. Sutartį dėl Kipro Respublikos įkūrimo dislokuotiems Jungtinės Karalystės kariuomenių vienetams ar juos lydintiems civiliams darbuotojams naudoti;
 
-3. Tuo atveju, kai akcizais apmokestinamos prekės eksportuojamos per vieną ar per kelias kitas valstybes nares, vietos mokesčių administratoriaus įgalioti asmenys parengtą elektroninį vežimo dokumentą turi išsiųsti valstybės narės, kurioje pateikta eksporto deklaracija taikant Sąjungos muitinės kodekso, jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų nuostatas, kompetentingoms institucijoms. Iš valstybės narės, iš kurios akcizais apmokestinamos prekės išgabenamos iš Europos Sąjungos teritorijos, kompetentingų institucijų gautą pranešimą, kuriuo patvirtinamas akcizais apmokestinamų prekių išgabenimo iš Europos Sąjungos teritorijos faktas (toliau – pranešimas apie eksportą), vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi persiųsti šių prekių siuntėjui.
+TAR pastaba. 15 straipsnio 1 dalies 7 punktas įsigalioja 2023-02-13.
 
-Straipsnio dalies pakeitimai:
+8) išgabenamos pagal Įgyvendinimo reglamento (ES) 2015/2447 329 straipsnio 5 dalį į išvežimo muitinės įstaigą, kuri yra ir išvykimo muitinės įstaiga, kai įforminama išorinio tranzito procedūra 2015 m. liepos 28 d. Komisijos deleguotojo reglamento (ES) 2015/2446, kuriuo Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013 papildomas išsamiomis taisyklėmis, kuriomis patikslinamos kai kurios Sąjungos muitinės kodekso nuostatos, su visais pakeitimais (toliau – Deleguotasis reglamentas (ES) 2015/2446) 189 straipsnio 4 dalyje nurodytais atvejais.
 
-Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+TAR pastaba. 15 straipsnio 1 dalies 8 punktas įsigalioja 2023-02-13.
 
-4. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, siuntėjas gali atšaukti šių prekių gabenimą, jeigu šių prekių gabenimas dar neprasidėjo. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo pradžiai nustatyti ir gabenimui atšaukti mutatis mutandis taikomos šio įstatymo 14 straipsnio 5 ir 8 dalių nuostatos.
+2. Išgabenant iš Lietuvos Respublikos akcizais apmokestinamų prekių sandėlio akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, į šio straipsnio 1 dalyje nurodytas paskirties vietas, centrinio mokesčių administratoriaus nustatyta tvarka turi būti parengtas elektroninio vežimo dokumento projektas vadovaujantis Reglamento (EB) Nr. 684/2009 nuostatomis. Šį elektroninio vežimo dokumento projektą akcizais apmokestinamų prekių siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, turi pateikti vietos mokesčių administratoriui. Vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi patvirtinti elektroninio vežimo dokumento projekte pateiktus duomenis, suteikti elektroniniam vežimo dokumentui unikalų administracinį nuorodos kodą ir pranešti jį akcizais apmokestinamų prekių siuntėjui. Vietos mokesčių administratoriaus įgalioti asmenys šį elektroninį vežimo dokumentą turi išsiųsti paskirties valstybės narės kompetentingoms institucijoms. Gabenantis akcizais apmokestinamas prekes asmuo Lietuvos Respublikos ar valstybių, kuriose yra šio straipsnio 1 dalyje nurodytos paskirties vietos, kompetentingų institucijų prašymu privalo pateikti unikalų administracinį nuorodos kodą, atspausdintą elektroninio vežimo dokumento kopiją ar kitą dokumentą, kuriuo patvirtinamas šių prekių gabenimas ar tiekimas. Šio straipsnio 1 dalies 5, 6 ir 7 punktuose nurodytiems asmenims gabenamas akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, turi lydėti kitos valstybės narės kompetentingų institucijų įgaliotų asmenų patvirtintas dokumentas, kuriuo suteikiama teisė šias prekes įsigyti taikant akcizų lengvatą. Šiame atleidimo nuo akcizų dokumente turi būti nurodytas gabenamų akcizais apmokestinamų prekių pobūdis, kiekis, vertė, gavėjas ir valstybė narė, į kurią gabenamos šios prekės.
 
-5. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka gabenimo metu gali keisti šių prekių paskirties vietą, kuri turi būti viena iš šio straipsnio 1 dalies 1, 2, 3 ir 4 punktuose nurodytų vietų arba Lietuvos Respublikoje esantis akcizais apmokestinamų prekių sandėlis ar šio sandėlio savininko nurodyta tiesioginio pristatymo vieta, esanti Lietuvos Respublikoje (šiuo atveju akcizais apmokestinamų prekių gabenimui taikomos šio įstatymo 14 straipsnio nuostatos).
+TAR pastaba. 15 straipsnio 2 dalis įsigalioja 2023-02-13.
+
+3. Tuo atveju, kai akcizais apmokestinamos prekės eksportuojamos arba gabenamos pagal šio straipsnio 1 dalies 8 punktą per vieną ar per kelias kitas valstybes nares, vietos mokesčių administratoriaus įgalioti asmenys parengtą elektroninį vežimo dokumentą turi išsiųsti valstybės narės, kurioje pateikta eksporto deklaracija taikant Įgyvendinimo reglamento (ES) 2015/2447 221 straipsnio 2 dalies nuostatas (toliau – eksporto valstybė narė), kompetentingoms institucijoms. Iš eksporto valstybės narės kompetentingų institucijų gautą pranešimą, kuriuo patvirtinamas akcizais apmokestinamų prekių išgabenimo iš Europos Sąjungos teritorijos faktas (toliau – pranešimas apie eksportą), arba pranešimą apie elektroninio vežimo dokumento ir eksporto deklaracijos neatitikimą, arba pranešimą, kad prekių nebeketinama išvežti iš Sąjungos muitų teritorijos, vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi persiųsti šių prekių siuntėjui. Siuntėjas, gavęs pranešimą, kad prekių nebeketinama išvežti iš Sąjungos muitų teritorijos, turi atšaukti elektroninį vežimo dokumentą, kaip nustatyta šio straipsnio 4 dalyje, arba pakeisti prekių paskirties vietą, kaip nustatyta šio straipsnio 5 dalyje.
+
+TAR pastaba. 15 straipsnio 3 dalis įsigalioja 2023-02-13.
+
+4. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, gali atšaukti šių prekių gabenimą, jeigu šių prekių gabenimas dar neprasidėjo. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo pradžiai nustatyti ir gabenimui atšaukti mutatis mutandis taikomos šio įstatymo 14 straipsnio 5 ir 8 dalių nuostatos.
+
+TAR pastaba. 15 straipsnio 4 dalis įsigalioja 2023-02-13.
+
+5. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka gabenimo metu gali keisti šių prekių gavėją arba paskirties vietą, kuri turi būti viena iš šio straipsnio 1 dalies 1, 2, 3, 4 ir 8 punktuose nurodytų vietų arba Lietuvos Respublikoje esantis akcizais apmokestinamų prekių sandėlis ar šio sandėlio savininko nurodyta tiesioginio pristatymo vieta, esanti Lietuvos Respublikoje (šiuo atveju akcizais apmokestinamų prekių gabenimui taikomos šio įstatymo 14 straipsnio nuostatos). Šiuo tikslu siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, elektroninio paskirties vietos pakeitimo dokumento projektą turi pateikti mokesčių administratoriui.
+
+TAR pastaba. 15 straipsnio 5 dalis įsigalioja 2023-02-13.
 
 6. Akcizais apmokestinamų prekių siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka ir sąlygomis gali suskaidyti energinių produktų, kuriems taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimą į du ar daugiau gabenimų.
 
+TAR pastaba. 15 straipsnio 6 dalis įsigalioja 2023-02-13.
+
 7. Išgabenant akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, prekių pakuotės centrinio mokesčių administratoriaus nustatyta tvarka ir atvejais turi būti užplombuotos ir sunumeruotos, o duomenys apie tokius komercinius antspaudus (plombas) turi būti pateikti parengtame elektroniniame vežimo dokumente.
 
-8. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimas laikomas pasibaigusiu, kai šias prekes priima šių prekių gavėjas, o šio straipsnio 1 dalies 4 punkte nurodytu atveju – kai jos išgabenamos iš Europos Sąjungos teritorijos. Laikoma, kad akcizais apmokestinamų prekių siuntėjas tinkamai įvykdė su į kitą valstybę narę išgabentomis akcizais apmokestinamomis prekėmis susijusias mokestines prievoles, jeigu yra gautas pranešimas apie akcizais apmokestinamų prekių gavimą paskirties vietoje (eksportuojant prekes – pranešimas apie eksportą) ar kiti įrodymai, patvirtinantys prekių pristatymą į paskirties vietą (eksportuojant prekes – išgabenimą iš Europos Sąjungos teritorijos), ir už prekių kiekį, prarastą gabenimo metu dėl gabenimo tvarkos pažeidimų, valstybėje narėje, kurioje buvo padaryta ar nustatyta pažeidimų, yra sumokėti akcizai (arba nuo akcizų mokėjimo kitų valstybių narių teisės aktų nustatyta tvarka akcizais apmokestinamų prekių siuntėjas yra atleistas).
+TAR pastaba. 15 straipsnio 7 dalis įsigalioja 2023-02-13.
 
-9. Jeigu pasibaigus 4 mėnesių laikotarpiui nuo prekių gabenimo pradžios negaunama įrodymų apie prekių pristatymą į paskirties vietą (eksportuojant prekes – apie išgabenimą iš Europos Sąjungos teritorijos) ir nebuvo nustatyta, kad gabenimo tvarkos pažeidimas įvyko kitoje valstybėje narėje, akcizais apmokestinamų prekių siuntėjas privalo už šias prekes, taikydamas išgabenimo dieną galiojusius tarifus, apskaičiuotus akcizus deklaruoti mokestinio laikotarpio, kurį suėjo minėtas 4 mėnesių terminas, akcizų deklaracijoje ir šio įstatymo nustatyta tvarka juos sumokėti. Jeigu įrodymai, kad gabenimo tvarkos pažeidimas įvyko kitoje valstybėje narėje ir joje sumokėti akcizai, gaunami vėliau, sumokėti akcizai įskaitomi arba grąžinami Mokesčių administravimo įstatymo nustatyta tvarka, tačiau tik tuo atveju, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne ilgiau kaip 3 metai.
+8. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimas laikomas pasibaigusiu, kai šias prekes priima šių prekių gavėjas, šio straipsnio 1 dalies 4 punkte nurodytu atveju – kai jos išgabenamos iš Europos Sąjungos teritorijos, o šio straipsnio 1 dalies 8 punkte nurodytu atveju – kai prekėms įforminama išorinio tranzito procedūra. Laikoma, kad akcizais apmokestinamų prekių siuntėjas tinkamai įvykdė su į kitą valstybę narę išgabentomis akcizais apmokestinamomis prekėmis susijusias mokestines prievoles, jeigu iš paskirties valstybės narės kompetentingos institucijos yra gautas pranešimas apie akcizais apmokestinamų prekių gavimą paskirties vietoje (eksportuojant prekes – pranešimas apie eksportą arba šio straipsnio 1 dalies 8 punkte nurodytu atveju – apie išorinio tranzito procedūros įforminimą) ar kiti įrodymai, patvirtinantys prekių pristatymą į paskirties vietą (eksportuojant prekes – išgabenimą iš Europos Sąjungos teritorijos arba šio straipsnio 1 dalies 8 punkte nurodytu atveju – išorinio tranzito procedūros įforminimą), ir už prekių kiekį, prarastą gabenimo metu dėl gabenimo tvarkos pažeidimų, valstybėje narėje, kurioje buvo padaryta ar nustatyta pažeidimų, yra sumokėti akcizai (arba nuo akcizų mokėjimo kitų valstybių narių teisės aktų nustatyta tvarka akcizais apmokestinamų prekių siuntėjas yra atleistas). Kitais įrodymais, kuriais patvirtinamas prekių išgabenimas iš Europos Sąjungos teritorijos, taip pat įrodymais šio straipsnio 1 dalies 8 punkte nurodytu atveju gali būti pripažinti šie įrodymai ar bet kokie jų deriniai:
 
-10. Jeigu asmuo, laidavęs ar garantavęs, kad akcizai bus sumokėti, neturėjo galimybės sužinoti apie tai, kad prekės nepristatytos į paskirties vietą (ar atitinkamai neišgabentos iš Europos Sąjungos teritorijos), vietos mokesčių administratorius centrinio mokesčių administratoriaus nustatyta tvarka apie tai turi informuoti asmenį, laidavusį ar garantavusį, kad akcizai bus sumokėti, ir suteikti vieną mėnesį įrodymams, kad prekės pasiekė paskirties vietą, pateikti. Vieno mėnesio laikotarpis skaičiuojamas nuo dienos, kurią vietos mokesčių administratorius informavo asmenį, laidavusį arba garantavusį, kad akcizai bus sumokėti.
+1) prekių pristatymo pranešimas;
 
-11. Akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimas į kitą valstybę narę turi būti įformintas supaprastintu akcizais apmokestinamų prekių vežimo dokumentu. Vieną vežimo dokumento egzempliorių privalo pasirašytinai patvirtinti prekių gavėjo ir gaunančiosios valstybės narės kompetentingos už akcizų administravimą atsakingos institucijos įgalioti asmenys. Šis egzempliorius turi būti grąžintas prekių siuntėjui. Tuo atveju, kai pagal kitos valstybės narės teisės aktus supaprastinto akcizais apmokestinamų prekių vežimo dokumento atitinkamo egzemplioriaus kompetentingos institucijos tvirtinti neprivalo, pakanka prekių gavėjo įgaliotų asmenų patvirtinimo. Šiuo atveju akcizais apmokestinamų prekių siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka turi informuoti vietos mokesčių administratorių apie numatomą akcizais apmokestinamų prekių išsiuntimą.
+2) ekonominės veiklos vykdytojo, kuris akcizais apmokestinamas prekes išvežė iš Sąjungos muitų teritorijos, pasirašytas arba patvirtintas dokumentas, kuriuo patvirtintas prekių išvežimas;
 
-12. Akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimas (laikantis tinkamo maršruto) iš Lietuvos Respublikos per kitos valstybės narės teritoriją į paskirties vietą, esančią Lietuvos Respublikoje, turi būti įformintas supaprastintu akcizais apmokestinamų prekių vežimo dokumentu. Šiuo atveju akcizais apmokestinamų prekių siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka turi informuoti vietos mokesčių administratorių apie numatomą akcizais apmokestinamų prekių išsiuntimą, o šių prekių gavėjas – apie šių prekių gavimą.
+3) dokumentas, kuriame valstybės narės arba trečiosios valstybės muitinė patvirtino prekių pristatymą pagal toje valstybėje narėje ar trečiojoje valstybėje tokiam patvirtinimui taikomas taisykles ir procedūras;
 
-13. Supaprastintas akcizais apmokestinamų prekių vežimo dokumentas nenaudojamas tais atvejais, kai iš Lietuvos Respublikos išgabenamos akcizais apmokestinamos prekės, kurios prekių pardavėjo ar jo užsakymu kito asmens gabenamos į kitą valstybę narę asmeniui, kuris nėra registruotas gavėjas ir nevykdo ekonominės veiklos, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme, arba ne į akcizais apmokestinamų prekių sandėlį. Šiuo atveju prekių pardavėjas, prieš taip išsiųsdamas prekes, privalo turėti įrodymų, kad akcizų sumokėjimas paskirties valstybėje narėje yra garantuotas.
+4) informacija apie ekonominės veiklos vykdytojo valdomiems laivams, orlaiviams arba jūroje esantiems įrenginiams tiekiamų prekių apskaitą;
 
-14. Tais atvejais, kai akcizais apmokestinamos prekės, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, registruoto siuntėjo išgabenamos iš importo vietos, esančios Lietuvos Respublikoje, į šio straipsnio 1 dalyje nurodytas vietas, mutatis mutandis taikomos šio straipsnio nuostatos.
+5) kiti Lietuvos Respublikos kompetentingoms institucijoms priimtini įrodymai.
+
+TAR pastaba. 15 straipsnio 8 dalis įsigalioja 2023-02-13.
+
+9. Jeigu pasibaigus 4 mėnesių laikotarpiui nuo prekių gabenimo pradžios negaunama įrodymų apie prekių pristatymą į paskirties vietą (eksportuojant prekes – apie išgabenimą iš Europos Sąjungos teritorijos arba šio straipsnio 1 dalies 8 punkte nurodytu atveju – apie išorinio tranzito procedūros įforminimą) ir nebuvo nustatyta, kad gabenimo tvarkos pažeidimas įvyko ar buvo nustatytas kitoje valstybėje narėje, akcizais apmokestinamų prekių siuntėjas privalo už šias prekes, taikydamas išgabenimo dieną galiojusius tarifus, apskaičiuotus akcizus deklaruoti mokestinio laikotarpio, kurį suėjo minėtas 4 mėnesių terminas, akcizų deklaracijoje ir šio įstatymo nustatyta tvarka juos sumokėti. Jeigu įrodymai, kad gabenimo tvarkos pažeidimas įvyko ar buvo nustatytas kitoje valstybėje narėje ir joje sumokėti akcizai, gaunami vėliau, šio įstatymo nustatyta tvarka sumokėti akcizai įskaitomi arba grąžinami Mokesčių administravimo įstatymo nustatyta tvarka arba atsisakoma akcizus išieškoti, tačiau tik tuo atveju, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne daugiau kaip 3 metai.
+
+TAR pastaba. 15 straipsnio 9 dalis įsigalioja 2023-02-13.
+
+10. Jeigu asmuo, laidavęs ar garantavęs, kad akcizai bus sumokėti, neturėjo galimybės sužinoti apie tai, kad prekės nepristatytos į paskirties vietą (ar atitinkamai neišgabentos iš Europos Sąjungos teritorijos arba joms neįforminta išorinio tranzito procedūra), vietos mokesčių administratorius centrinio mokesčių administratoriaus nustatyta tvarka apie tai turi informuoti asmenį, laidavusį ar garantavusį, kad akcizai bus sumokėti, ir suteikti vieną mėnesį įrodymams, kad prekės pasiekė paskirties vietą arba kad gabenimo tvarkos pažeidimas įvyko ar buvo nustatytas kitoje valstybėje narėje, pateikti. Vieno mėnesio laikotarpis skaičiuojamas nuo dienos, kurią vietos mokesčių administratorius informavo asmenį, laidavusį arba garantavusį, kad akcizai bus sumokėti.
+
+TAR pastaba. 15 straipsnio 10 dalis įsigalioja 2023-02-13.
+
+11. Kai akcizais apmokestinamos prekės, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, išgabenamos iš Lietuvos Respublikos patvirtinto siuntėjo patvirtintam gavėjui į kitą valstybę narę komerciniams tikslams, laikoma, kad toks prekių gabenimas prasideda, kai tos prekės išvežamos iš patvirtinto siuntėjo patalpų arba bet kurios Lietuvos Respublikoje esančios vietos, apie kurią iki gabenimo pradžios pranešta mokesčių administratoriui. Taip išgabenant akcizais apmokestinamas prekes, centrinio mokesčių administratoriaus nustatyta tvarka turi būti parengtas elektroninio supaprastinto akcizais apmokestinamų prekių vežimo dokumento (toliau – elektroninis supaprastintas vežimo dokumentas) projektas. Šį elektroninio supaprastinto vežimo dokumento projektą patvirtintas siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, turi pateikti vietos mokesčių administratoriui. Vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi patvirtinti elektroninio supaprastinto vežimo dokumento projekte pateiktus duomenis, suteikti elektroniniam supaprastintam vežimo dokumentui supaprastintą unikalų administracinį nuorodos kodą ir pranešti jį patvirtintam siuntėjui. Vietos mokesčių administratoriaus įgalioti asmenys šį elektroninį supaprastintą vežimo dokumentą turi išsiųsti paskirties valstybės narės kompetentingoms institucijoms. Patvirtintas siuntėjas akcizais apmokestinamas prekes lydinčiam asmeniui, o kai tokio asmens nėra, – transportuotojui ar vežėjui turi pateikti supaprastintą unikalų administracinį nuorodos kodą, kuris Lietuvos Respublikos ar valstybių, kuriose yra šio straipsnio 1 dalyje nurodytos paskirties vietos, kompetentingų institucijų prašymu joms turi būti pateiktas bet kuriuo prekių gabenimo metu. Akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, patvirtintas siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka gabenimo metu gali pakeisti šių prekių paskirties vietą į kitą toje pačioje valstybėje narėje esančią ir to paties patvirtinto gavėjo valdomą pristatymo vietą arba į išsiuntimo vietą. Šiuo tikslu patvirtintas siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, elektroninio paskirties vietos pakeitimo dokumento projektą turi pateikti vietos mokesčių administratoriui. Akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimas laikomas pasibaigusiu, kai patvirtintas gavėjas priima pristatytas akcizais apmokestinamas prekes savo patalpose arba bet kurioje paskirties valstybėje narėje esančioje vietoje, apie kurią iki gabenimo pradžios pranešta paskirties valstybės narės kompetentingoms institucijoms. Iš paskirties valstybės narės kompetentingos institucijos gautas pranešimas apie akcizais apmokestinamų prekių gavimą paskirties vietoje ar kiti įrodymai, patvirtinantys prekių pristatymą į paskirties vietą, laikomi įrodymu, kad akcizais apmokestinamos prekės pristatytos patvirtintam gavėjui, kuris tinkamai įvykdė su šiomis prekėmis susijusias mokestines prievoles paskirties valstybėje narėje.
+
+TAR pastaba. 15 straipsnio 11 dalis įsigalioja 2023-02-13.
+
+12. Akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimas (laikantis tinkamo maršruto) iš Lietuvos Respublikos per kitos valstybės narės teritoriją į paskirties vietą, esančią Lietuvos Respublikoje, turi būti įformintas elektroniniu supaprastintu vežimo dokumentu. Šiuo atveju patvirtintas gavėjas centrinio mokesčių administratoriaus nustatyta tvarka turi patvirtinti, kad gavo prekes, ir kartu su patvirtintu siuntėju turi leisti centrinio mokesčių administratoriaus nustatyta tvarka atlikti patikrinimus, siekiant įsitikinti, kad akcizais apmokestinamos prekės iš tiesų buvo gautos.
+
+TAR pastaba. 15 straipsnio 12 dalis įsigalioja 2023-02-13.
+
+13. Elektroninis supaprastintas vežimo dokumentas nenaudojamas tais atvejais, kai iš Lietuvos Respublikos išgabenamos akcizais apmokestinamos prekės, kurios ekonominę veiklą vykdančio prekių siuntėjo ar jo užsakymu kito asmens gabenamos į kitą valstybę narę asmeniui, kuris nėra registruotas gavėjas ar patvirtintas gavėjas ir nevykdo ekonominės veiklos, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme, arba ne į akcizais apmokestinamų prekių sandėlį. Šiuo atveju prekių siuntėjas, prieš taip išsiųsdamas prekes, privalo turėti įrodymų, kad akcizų sumokėjimas paskirties valstybėje narėje yra garantuotas.
+
+TAR pastaba. 15 straipsnio 13 dalis įsigalioja 2023-02-13.
+
+14. Tais atvejais, kai akcizais apmokestinamos prekės, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, registruoto siuntėjo išgabenamos iš importo vietos, esančios Lietuvos Respublikoje, į šio straipsnio 1 dalyje nurodytas vietas, mutatis mutandis taikomos šio straipsnio nuostatos. Akcizais apmokestinamos prekės, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, iš importo vietos gali būti išgabentos tik tuo atveju, kai deklarantas arba kitas tiesiogiai ar netiesiogiai su muitinės formalumų atlikimu, kaip nustatyta Sąjungos muitinės kodekso 15 straipsnyje, susijęs asmuo muitinei pateikia Reglamento (ES) Nr. 389/2012 19 straipsnio 2 dalies a punkte nurodytą unikalų akcizų numerį, pagal kurį identifikuojamas registruotas gabenamų prekių siuntėjas, gavėjas, kuriam siunčiamos prekės, ir įrodymą, kad importuotas prekes ketinama išsiųsti iš Lietuvos Respublikos teritorijos į kitos valstybės narės teritoriją, išskyrus atvejus, kai importas vyksta akcizais apmokestinamų prekių sandėlyje.
+
+TAR pastaba. 15 straipsnio 14 dalis įsigalioja 2023-02-13.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 16 straipsnis. Akcizais apmokestinamų prekių atgabenimas į Lietuvos Respubliką, taip pat gabenimas per Lietuvos Respubliką
 
@@ -515,37 +571,65 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
 1) atgabenamos į Lietuvos Respublikos akcizais apmokestinamų prekių sandėlį;
 
+TAR pastaba. 16 straipsnio 1 dalies 1 punktas įsigalioja 2023-02-13.
+
 2) atgabenamos Lietuvos Respublikoje registruotam gavėjui;
 
-3) atgabenamos į Lietuvos Respublikos akcizais apmokestinamų prekių sandėlio, gaunančio akcizais apmokestinamas prekes, savininko ar registruoto gavėjo nurodytą tiesioginio pristatymo vietą;
+TAR pastaba. 16 straipsnio 1 dalies 2 punktas įsigalioja 2023-02-13.
 
-4) atgabenamos jas eksportuojant per Lietuvos Respubliką;
+3) atgabenamos į Lietuvos Respublikos akcizais apmokestinamų prekių sandėlio, gaunančio akcizais apmokestinamas prekes, savininko ar registruoto gavėjo, kurio statusas nėra apribotas pagal šio įstatymo 7 straipsnio 6 dalies nuostatas, nurodytą tiesioginio pristatymo vietą;
 
-5) atgabenamos šio įstatymo 19 straipsnio 1 dalies 2, 3, 6, 7 ir 8 punktuose nurodytiems asmenims.
+TAR pastaba. 16 straipsnio 1 dalies 3 punktas įsigalioja 2023-02-13.
 
-2. Akcizais apmokestinamos prekės, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas ir kurios į Lietuvos Respubliką atgabenamos šio straipsnio 1 dalyje nurodytais atvejais, privalo būti atgabentos su parengtu elektroniniu vežimo dokumentu, kurio spausdintinis variantas ar kitas dokumentas, kuriame aiškiai nurodytas unikalus administracinis nuorodos kodas, turi lydėti gabenamas akcizais apmokestinamas prekes. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimas laikomas pasibaigusiu, kai šias prekes priima šių prekių gavėjas, o eksportuojant prekes – kai prekės išgabenamos iš Europos Sąjungos teritorijos. Gavęs akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, akcizais apmokestinamų prekių gavėjas ne vėliau kaip per 5 darbo dienas nuo tokių prekių gabenimo pabaigos (dėl objektyvių aplinkybių šis terminas gali būti pratęstas) centrinio mokesčių administratoriaus nustatyta tvarka turi parengti pranešimą apie akcizais apmokestinamų prekių gavimą. Kai akcizais apmokestinamos prekės atgabenamos į šio straipsnio 1 dalies 3 punkte nurodytą tiesioginio pristatymo vietą, pranešimą apie akcizais apmokestinamų prekių gavimą turi parengti Lietuvos Respublikos akcizais apmokestinamų prekių sandėlio savininkas ar registruotas gavėjas, nurodęs tiesioginio pristatymo vietą. Centrinio mokesčių administratoriaus nustatyta tvarka turi būti patvirtinti pranešime apie gavimą pateikti duomenys ir šis pranešimas turi būti nusiųstas akcizais apmokestinamų prekių siuntėjo valstybės narės kompetentingoms institucijoms. Tais atvejais, kai akcizais apmokestinamos prekės eksportuojamos iš Europos Sąjungos teritorijos, centrinio mokesčių administratoriaus nustatyta tvarka, remiantis muitinės išvežimo įstaigos pranešimu apie eksportą, turi būti parengtas ir patvirtintas pranešimas apie gavimą, kuris turi būti nusiųstas išsiuntimo valstybės narės kompetentingoms institucijoms. Tais atvejais, kai akcizais apmokestinamos prekės atgabenamos į Lietuvos Respubliką šio straipsnio 1 dalies 5 punkte nurodytiems asmenims, šių prekių gavimas patvirtinamas centrinio mokesčių administratoriaus nustatyta tvarka.
+4) atgabenamos jas eksportuojant per Lietuvos Respubliką, t. y. išgabenamos pagal Įgyvendinimo reglamento (ES) 2015/2447 329 straipsnį į išvežimo muitinės įstaigą;
 
-3. Jeigu į Lietuvos Respubliką atgabentų akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, kiekis nesutampa su elektroniniame vežimo dokumente nurodytu kiekiu, apmokestinamų prekių sandėlio savininko, gaunančio akcizais apmokestinamas prekes, ar registruoto gavėjo ir vietos mokesčių administratoriaus įgalioti asmenys pranešime apie prekių gavimą centrinio mokesčių administratoriaus nustatyta tvarka privalo nurodyti gautų prekių kiekio neatitikimus (eksportuojant prekes, remiamasi muitinės išvežimo įstaigos pranešimu apie eksportą). Centrinio mokesčių administratoriaus nustatyta tvarka šis pranešimas turi būti išsiųstas išsiuntimo valstybės narės kompetentingoms institucijoms. Jeigu gabenamų akcizais apmokestinamų prekių trūkumas nustatytas tik Lietuvos Respublikos kompetentingų asmenų, už trūkstamą prekių kiekį, viršijantį kiekį, kuris pagal Lietuvos Respublikos teisės aktus gali būti laikomas prarastu dėl natūralios netekties, ir (arba) kiekį, kuris negali būti laikomas prarastu dėl nenugalimos jėgos (force majeure) aplinkybių arba negrįžtamai prarastu ar visiškai sunaikintu, Lietuvos Respublikoje turi būti sumokėti akcizai. Jeigu vėliau gaunami įrodymai, kad prekės prarastos kitoje valstybėje narėje ir joje sumokami nustatyti akcizai, permokėta akcizų suma įskaitoma arba grąžinama Mokesčių administravimo įstatymo nustatyta tvarka, tačiau tik tuo atveju, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne ilgiau kaip 3 metai.
+TAR pastaba. 16 straipsnio 1 dalies 4 punktas įsigalioja 2023-02-13.
 
-4. Jeigu akcizais apmokestinamos prekės, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, yra gabenamos tarp kitų valstybių narių per Lietuvos Respublikos teritoriją, jos privalo būti gabenamos su parengtu elektroniniu vežimo dokumentu, kurio spausdintinis variantas ar kitas dokumentas, kuriame aiškiai nurodytas unikalus administracinis nuorodos kodas, turi lydėti gabenamas akcizais apmokestinamas prekes, o šio įstatymo ir savo esme tolygių kitų valstybių narių teisės aktų nustatytais atvejais – ir su kitais papildomais dokumentais (atleidimo nuo akcizų dokumentu ar kt.). Jeigu gabenimo per Lietuvos Respublikos teritoriją metu nustatomi gabenamų prekių kiekio neatitikimai, kurie nebuvo anksčiau nustatyti, ar gabenimo pažeidimai, vietos mokesčių administratorius centrinio mokesčių administratoriaus nustatyta tvarka privalo apie tai informuoti išsiuntimo valstybės narės kompetentingas institucijas. Už Lietuvos Respublikos teritorijoje prarastas prekes ar prekes, kurių praradimas nustatytas Lietuvos Respublikoje, akcizai privalo būti sumokėti šio įstatymo nustatyta tvarka. Akcizai neskaičiuojami už prarastą prekių kiekį, neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prekes, prarastas dėl nenugalimos jėgos (force majeure) aplinkybių, taip pat už negrįžtamai prarastas ar visiškai sunaikintas prekes, jei tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Jeigu vėliau gaunami įrodymai, kad prekės prarastos kitoje valstybėje narėje ir joje sumokami nustatyti akcizai, permokėta akcizų suma įskaitoma arba grąžinama Mokesčių administravimo įstatymo nustatyta tvarka, tačiau tik tuo atveju, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne ilgiau kaip 3 metai.
+5) atgabenamos šio įstatymo 19 straipsnio 1 dalies 2, 3, 6, 7, 8 ir 9 punktuose nurodytiems asmenims;
 
-5. Tuo atveju, kai akcizais apmokestinamos prekės, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, atgabenamos į Lietuvos Respubliką komerciniams tikslams, asmenys, pristatantys arba laikantys pristatymui skirtas akcizais apmokestinamas prekes, arba asmenys, gaunantys šias prekes, privalo:
+6) į Lietuvos Respubliką atgabenamos pagal Įgyvendinimo reglamento (ES) 2015/2447 329 straipsnio 5 dalį į išvežimo muitinės įstaigą, kuri yra ir išvykimo muitinės įstaiga, kai įforminama išorinio tranzito procedūra Deleguotojo reglamento (ES) 2015/2446 189 straipsnio 4 dalyje nurodytais atvejais
 
-1) centrinio mokesčių administratoriaus nustatyta tvarka informuoti vietos mokesčių administratorių apie numatomą akcizais apmokestinamų prekių gavimą;
+TAR pastaba. 16 straipsnio 1 dalies 6 punktas įsigalioja 2023-02-13.
 
-2) Vyriausybės nustatyta tvarka užtikrinti, kad už iš kitos valstybės narės numatomas gauti prekes Lietuvos Respublikoje mokėtini akcizai bus sumokėti.
+2. Akcizais apmokestinamos prekės, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas ir kurios į Lietuvos Respubliką atgabenamos šio straipsnio 1 dalyje nurodytais atvejais, privalo būti atgabentos su parengtu elektroniniu vežimo dokumentu, kuriam suteiktas unikalus administracinis nuorodos kodas. Gabenantis akcizais apmokestinamas prekes asmuo Lietuvos Respublikos ar valstybių narių, kuriose yra šio straipsnio 1 dalyje nurodytos išsiuntimo vietos, kompetentingų institucijų prašymu privalo pateikti unikalų administracinį nuorodos kodą, atspausdintą elektroninio vežimo dokumento kopiją ar kitą dokumentą, kuriuo patvirtinamas šių prekių gabenimas ar tiekimas. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimas laikomas pasibaigusiu, kai šias prekes priima šių prekių gavėjas, eksportuojant prekes – kai prekės išgabenamos iš Europos Sąjungos teritorijos, o šio straipsnio 1 dalies 6 punkte nurodytu atveju – kai prekėms įforminama išorinio tranzito procedūra. Gavęs akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, akcizais apmokestinamų prekių gavėjas ne vėliau kaip per 5 darbo dienas nuo tokių prekių gabenimo pabaigos (dėl objektyvių aplinkybių šis terminas gali būti pratęstas) centrinio mokesčių administratoriaus nustatyta tvarka turi parengti pranešimą apie akcizais apmokestinamų prekių gavimą. Kai akcizais apmokestinamos prekės atgabenamos į šio straipsnio 1 dalies 3 punkte nurodytą tiesioginio pristatymo vietą, pranešimą apie akcizais apmokestinamų prekių gavimą turi parengti Lietuvos Respublikos akcizais apmokestinamų prekių sandėlio savininkas ar registruotas gavėjas, nurodęs tiesioginio pristatymo vietą. Centrinio mokesčių administratoriaus nustatyta tvarka turi būti patvirtinti pranešime apie gavimą pateikti duomenys ir šis pranešimas turi būti nusiųstas akcizais apmokestinamų prekių siuntėjo valstybės narės kompetentingoms institucijoms. Tais atvejais, kai akcizais apmokestinamos prekės eksportuojamos iš Europos Sąjungos teritorijos arba gabenamos pagal šio straipsnio 1 dalies 6 punktą, centrinio mokesčių administratoriaus nustatyta tvarka, remiantis muitinės išvežimo įstaigos pranešimu apie eksportą arba išorinio tranzito procedūros įforminimą, turi būti parengtas ir patvirtintas pranešimas apie gavimą ir, naudojantis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, nusiųstas išsiuntimo valstybės narės kompetentingoms institucijoms. Jeigu akcizais apmokestinamų prekių nebeketinama išvežti iš Sąjungos muitų teritorijos, apie tai, naudodamosi kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, Lietuvos Respublikos kompetentingos institucijos centrinio mokesčių administratoriaus nustatyta tvarka turi pranešti išsiuntimo valstybės narės kompetentingoms institucijoms. Tais atvejais, kai akcizais apmokestinamos prekės atgabenamos į Lietuvos Respubliką šio straipsnio 1 dalies 5 punkte nurodytiems asmenims, šių prekių gavimas patvirtinamas centrinio mokesčių administratoriaus nustatyta tvarka.
 
-6. Šio straipsnio 5 dalyje nurodytos prekės privalo būti atgabentos su supaprastintu akcizais apmokestinamų prekių vežimo dokumentu, kurio atitinkamą egzempliorių privalo pasirašytinai patvirtinti prekių gavėjo ir vietos mokesčių administratoriaus, kurio veiklos teritorijoje jis registruotas mokesčių mokėtoju, įgalioti asmenys.
+TAR pastaba. 16 straipsnio 2 dalis įsigalioja 2023-02-13.
 
-7. Tuo atveju, kai akcizais apmokestinamos prekės pardavėjo ar jo užsakymu kito asmens atgabenamos į Lietuvos Respubliką asmeniui, kuris nėra registruotas gavėjas ir nevykdo ekonominės veiklos, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme, arba ne į akcizais apmokestinamų prekių sandėlį, prekių pardavėjas ar jo fiskalinis agentas centrinio mokesčių administratoriaus nustatyta tvarka, prieš prekes atgabendamas į Lietuvos Respubliką, privalo įsiregistruoti akcizais apmokestinamų prekių pardavėju ir Vyriausybės nustatyta tvarka užtikrinti, kad už iš kitos valstybės narės numatomas gauti prekes Lietuvos Respublikoje mokėtini akcizai bus sumokėti.
+3. Jeigu į Lietuvos Respubliką atgabentų akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, kiekis nesutampa su elektroniniame vežimo dokumente nurodytu kiekiu, akcizais apmokestinamų prekių sandėlio savininko, gaunančio akcizais apmokestinamas prekes, ar registruoto gavėjo ir vietos mokesčių administratoriaus įgalioti asmenys pranešime apie prekių gavimą centrinio mokesčių administratoriaus nustatyta tvarka privalo nurodyti gautų prekių kiekio neatitikimus (eksportuojant prekes, remiamasi eksporto deklaracija). Centrinio mokesčių administratoriaus nustatyta tvarka šis pranešimas turi būti išsiųstas išsiuntimo valstybės narės kompetentingoms institucijoms. Jeigu gabenamų akcizais apmokestinamų prekių trūkumas nustatytas tik Lietuvos Respublikos kompetentingų asmenų, už trūkstamą prekių kiekį, viršijantį Europos Komisijos nustatytą tarp valstybių narių gabenamų prekių bendrąją dalinio praradimo ribą (išskyrus atvejus, kai yra pagrįstų priežasčių įtarti sukčiavimą ar pažeidimą), o kai ši riba nenustatyta, – viršijantį Vyriausybės ar jos įgaliotos institucijos nustatytas natūralios netekties normas, ir (arba) kiekį, kuris negali būti laikomas prarastu dėl nenugalimos jėgos (force majeure) aplinkybių arba negrįžtamai prarastu ar visiškai sunaikintu, Lietuvos Respublikoje turi būti sumokėti akcizai. Jeigu vėliau gaunami įrodymai, kad prekės prarastos kitoje valstybėje narėje ir joje sumokami nustatyti akcizai, permokėta akcizų suma įskaitoma arba grąžinama Mokesčių administravimo įstatymo nustatyta tvarka, tačiau tik tuo atveju, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne daugiau kaip 3 metai.
 
-8. Už Lietuvos Respublikos teritorijoje prarastas akcizais apmokestinamas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, ar prekes, kurių praradimas nustatytas Lietuvos Respublikoje, akcizai privalo būti sumokėti šio įstatymo nustatyta tvarka. Akcizais apmokestinamų prekių gabenimo pažeidimu nelaikoma ir akcizai neskaičiuojami už akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas ir kurių praradimas nustatytas Lietuvos Respublikoje, kiekį, neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prarastą dėl nenugalimos jėgos (force majeure) aplinkybių arba negrįžtamai prarastą ar visiškai sunaikintą akcizais apmokestinamų prekių kiekį, jei tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Jei gaunami įrodymai, kad akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo tvarkos pažeidimas įvyko ne Lietuvos Respublikoje, piniginio užstato ar prievolių įvykdymo užtikrinimo suma grąžinama naudoti, o Lietuvos Respublikoje sumokėti akcizai turi būti grąžinami Mokesčių administravimo įstatymo nustatyta tvarka, tačiau tik tuo atveju, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne ilgiau kaip 3 metai. Šiuo atveju gabenimo pažeidimu laikomi atvejai, kai akcizais apmokestinamų prekių gavimas nėra patvirtinamas šio įstatymo 15 ar 16 straipsnio arba savo esme tolygių kitų valstybių narių teisės aktų nustatyta tvarka.
+TAR pastaba. 16 straipsnio 3 dalis įsigalioja 2023-02-13.
 
-9. Kai prievolė mokėti akcizus Lietuvos Respublikoje atsiranda dėl šio straipsnio 3 ar 4 dalyje nurodytų aplinkybių, asmuo, pateikęs mokestinių prievolių, galinčių atsirasti gabenimo prekėms taikant akcizų mokėjimo laikino atidėjimo režimą metu, įvykdymo užtikrinimo dokumentą, centrinio mokesčių administratoriaus nustatyta tvarka ir terminais privalo deklaruoti ir sumokėti šį mokestį, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne ilgiau kaip 3 metai.
+4. Jeigu akcizais apmokestinamos prekės, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, yra gabenamos tarp kitų valstybių narių per Lietuvos Respublikos teritoriją, jos privalo būti gabenamos su parengtu elektroniniu vežimo dokumentu, kuriam suteiktas unikalus administracinis nuorodos kodas (kai tikslinga, Lietuvos Respublikos ar valstybių narių, kuriose yra šio straipsnio 1 dalyje nurodytos išsiuntimo vietos, kompetentingos institucijos gali paprašyti atspausdintos elektroninio vežimo dokumento kopijos ar kito dokumento, kuriuo patvirtinamas šių prekių gabenimas ar tiekimas), o šio įstatymo ir savo esme tolygių kitų valstybių narių teisės aktų nustatytais atvejais – ir su kitais papildomais dokumentais (atleidimo nuo akcizų dokumentu ar kt.). Jeigu gabenimo per Lietuvos Respublikos teritoriją metu nustatoma gabenamų prekių kiekio neatitikimų, kurie nebuvo anksčiau nustatyti, ar gabenimo pažeidimų, vietos mokesčių administratorius centrinio mokesčių administratoriaus nustatyta tvarka privalo apie tai informuoti išsiuntimo valstybės narės kompetentingas institucijas. Už Lietuvos Respublikos teritorijoje prarastas prekes ar prekes, kurių praradimas nustatytas Lietuvos Respublikoje, akcizai privalo būti sumokėti šio įstatymo nustatyta tvarka. Akcizai neskaičiuojami už prarastą prekių kiekį, neviršijantį Europos Komisijos nustatytos tarp valstybių narių gabenamų prekių bendrosios dalinio praradimo ribos (išskyrus atvejus, kai yra pagrįstų priežasčių įtarti sukčiavimą ar pažeidimą), o kai ši riba nenustatyta, – neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prekes, prarastas dėl nenugalimos jėgos (force majeure) aplinkybių, taip pat už negrįžtamai prarastas ar visiškai sunaikintas prekes, jei tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Jeigu vėliau gaunami įrodymai, kad prekės prarastos kitoje valstybėje narėje ir joje sumokami nustatyti akcizai, šio įstatymo nustatyta tvarka sumokėta akcizų suma įskaitoma arba grąžinama Mokesčių administravimo įstatymo nustatyta tvarka arba atsisakoma akcizus išieškoti, tačiau tik tuo atveju, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne daugiau kaip 3 metai.
+
+TAR pastaba. 16 straipsnio 4 dalis įsigalioja 2023-02-13.
+
+5. Tuo atveju, kai akcizais apmokestinamos prekės, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, atgabenamos į Lietuvos Respubliką patvirtintam gavėjui komerciniams tikslams, laikoma, kad toks prekių gabenimas baigiasi, kai patvirtintas gavėjas priima šias pristatytas prekes savo patalpose arba bet kurioje Lietuvos Respublikoje esančioje vietoje, apie kurią iki gabenimo pradžios pranešta mokesčių administratoriui.
+
+TAR pastaba. 16 straipsnio 5 dalis įsigalioja 2023-02-13.
+
+6. Šio straipsnio 5 dalyje nurodytos prekės privalo būti atgabentos su elektroniniu supaprastintu vežimo dokumentu. Gavęs akcizais apmokestinamas prekes patvirtintas gavėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, nedelsdamas ir ne vėliau kaip per 5 darbo dienas nuo tokių prekių gabenimo pabaigos (dėl objektyvių aplinkybių šis terminas gali būti pratęstas) centrinio mokesčių administratoriaus nustatyta tvarka turi pateikti pranešimą apie akcizais apmokestinamų prekių gavimą. Centrinis mokesčių administratorius centrinio mokesčių administratoriaus nustatyta tvarka turi patvirtinti pranešime apie gavimą pateiktus duomenis ir šį pranešimą nusiųsti patvirtinto siuntėjo valstybės narės kompetentingoms institucijoms.
+
+TAR pastaba. 16 straipsnio 6 dalis įsigalioja 2023-02-13.
+
+7. Tuo atveju, kai akcizais apmokestinamos prekės ekonominę veiklą vykdančio siuntėjo ar jo užsakymu kito asmens atgabenamos į Lietuvos Respubliką asmeniui, kuris nėra registruotas gavėjas ar patvirtintas gavėjas ir nevykdo ekonominės veiklos, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme, arba ne į akcizais apmokestinamų prekių sandėlį, prekių siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka, prieš prekes atgabendamas į Lietuvos Respubliką, privalo įsiregistruoti kaip akcizais apmokestinamų prekių siuntėjas ir Vyriausybės nustatyta tvarka užtikrinti, kad už iš kitos valstybės narės numatomas gauti prekes Lietuvos Respublikoje mokėtini akcizai bus sumokėti.
+
+TAR pastaba. 16 straipsnio 7 dalis įsigalioja 2023-02-13.
+
+8. Už Lietuvos Respublikos teritorijoje prarastas akcizais apmokestinamas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, ar prekes, kurių praradimas nustatytas Lietuvos Respublikoje, akcizai privalo būti sumokėti šio įstatymo nustatyta tvarka. Šiuo atveju prievolė mokėti akcizus tenka šio įstatymo 9 straipsnio 8 dalyje nurodytiems asmenims ir bet kuriam kitam asmeniui, dalyvavusiam darant pažeidimą. Tais atvejais, kai prievolė mokėti akcizus tenka keliems asmenims, jie solidariai atsako už akcizų sumokėjimą. Akcizais apmokestinamų prekių gabenimo pažeidimu nelaikoma ir akcizai neskaičiuojami už akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas ir kurių praradimas nustatytas Lietuvos Respublikoje, kiekį, neviršijantį Europos Komisijos nustatytos tarp valstybių narių gabenamų prekių bendrosios dalinio praradimo ribos (išskyrus atvejus, kai yra pagrįstų priežasčių įtarti sukčiavimą ar pažeidimą), o kai ši riba nenustatyta, – neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prarastą dėl nenugalimos jėgos (force majeure) aplinkybių arba negrįžtamai prarastą ar visiškai sunaikintą akcizais apmokestinamų prekių kiekį (jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jei tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Jei gaunami įrodymai, kad akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo tvarkos pažeidimas įvyko ar buvo nustatytas ne Lietuvos Respublikoje, arba akcizai neskaičiuojami už prarastą prekių kiekį, neviršijantį Europos Komisijos nustatytos tarp valstybių narių gabenamų prekių bendrosios dalinio praradimo ribos (išskyrus atvejus, kai yra pagrįstų priežasčių įtarti sukčiavimą ar pažeidimą), o kai ši riba nenustatyta, – neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prarastą dėl nenugalimos jėgos (force majeure) aplinkybių arba negrįžtamai prarastą ar visiškai sunaikintą akcizais apmokestinamų prekių kiekį (jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jei tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, piniginio užstato ar laidavimo (garantijos) suma grąžinama naudoti, o Lietuvos Respublikoje šio įstatymo nustatyta tvarka sumokėti akcizai turi būti grąžinami Mokesčių administravimo įstatymo nustatyta tvarka arba atsisakoma akcizus išieškoti, tačiau tik tuo atveju, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne daugiau kaip 3 metai. Šiuo atveju gabenimo pažeidimu laikomi atvejai, kai akcizais apmokestinamų prekių gavimas nėra patvirtinamas šio įstatymo 15 ar 16 straipsnio arba savo esme tolygių kitų valstybių narių teisės aktų nustatyta tvarka, kai vienas ar visi gabenant akcizais apmokestinamas prekes dalyvaujantys asmenys nėra registruoti kaip patvirtinti gavėjai ir (arba) patvirtinti siuntėjai ar veikiantys kaip patvirtinti gavėjai ar patvirtinti siuntėjai pagal šio įstatymo 81 straipsnio 1 ir 2 dalių ar tolygias kitų valstybių narių teisės aktų nuostatas arba nėra įregistruoti kaip akcizais apmokestinamų prekių siuntėjai, taip pat kai akcizais apmokestinamų prekių gabenimas komerciniams tikslams nėra įformintas elektroniniu supaprastintu vežimo dokumentu.
+
+TAR pastaba. 16 straipsnio 8 dalis įsigalioja 2023-02-13.
+
+9. Kai prievolė mokėti akcizus Lietuvos Respublikoje atsiranda dėl šio straipsnio 3 ar 4 dalyje nurodytų aplinkybių, asmuo, pateikęs mokestinių prievolių, galinčių atsirasti gabenimo prekėms taikant akcizų mokėjimo laikino atidėjimo režimą metu, įvykdymo užtikrinimo dokumentą, centrinio mokesčių administratoriaus nustatyta tvarka privalo deklaruoti ir sumokėti šį mokestį, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne daugiau kaip 3 metai.
+
+TAR pastaba. 16 straipsnio 9 dalis įsigalioja 2023-02-13.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 17 straipsnis. Atvejai, kai akcizais apmokestinamų prekių gabenimo ir kontrolės sistema neveikia
 
@@ -595,9 +679,19 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
 7) skirtos Lietuvos Respublikoje pripažintoms tarptautinėms organizacijoms ir jų atstovybėms bei jų nariams tiek, kiek tai numatyta tarptautinėse sutartyse, pagal kurias steigiamos tarptautinės organizacijos, arba Lietuvos Respublikos tarptautinėse sutartyse, sudarytose su atitinkama tarptautine organizacija. Nuo akcizų taip pat atleidžiamos prekės, skirtos tarptautinėms organizacijoms, kurias tokiomis pripažino bet kuri kita valstybė narė, ar jų atstovybėms, taip pat šių organizacijų ar atstovybių nariams (prekės nuo akcizų atleidžiamos laikantis tarptautinėse sutartyse, pagal kurias steigiamos tarptautinės organizacijos, arba bet kurios kitos valstybės narės tarptautinėse sutartyse su tarptautinėmis organizacijomis nustatytų sąlygų ir apribojimų);
 
-8) įsigyjamos arba importuojamos pagal tarptautines sutartis, sudarytas tarp Lietuvos Respublikos ir valstybės, kuri nėra Europos Sąjungos valstybė narė, ar tarptautinės organizacijos, jeigu šiose sutartyse numatyta šias prekes atleisti nuo pridėtinės vertės mokesčio.
+8) įsigyjamos arba importuojamos pagal tarptautines sutartis, sudarytas tarp Lietuvos Respublikos ir valstybės, kuri nėra Europos Sąjungos valstybė narė, ar tarptautinės organizacijos, jeigu šiose sutartyse numatyta šias prekes atleisti nuo pridėtinės vertės mokesčio;
 
-2. Vyriausybė ar jos įgaliota institucija nustato šio straipsnio 1 dalies 2, 3, 5, 6, 7 ir 8 punktuose nurodytų akcizų lengvatų taikymo tvarką.
+9) skirtos kitos valstybės narės ginkluotosioms pajėgoms ar jas lydintiems civiliams darbuotojams naudoti, kai šios pajėgos dalyvauja gynybos operacijose, kurios įgyvendinamos vykdant Sąjungos veiklą pagal bendrą saugumo ir gynybos politiką.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
+
+2. Vyriausybė ar jos įgaliota institucija nustato šio straipsnio 1 dalies 2, 3, 5, 6, 7, 8 ir 9 punktuose nurodytų akcizų lengvatų taikymo tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 3. Kiti atvejai, kai atskiros akcizais apmokestinamos prekės atleidžiamos nuo akcizų, nustatyti šio įstatymo specialiosiose nuostatose.
 
@@ -959,11 +1053,15 @@ ENERGINIAI PRODUKTAI
 
 Variklių benzinui taikomi tokie akcizų tarifai:
 
-1) bešviniam benzinui – 466 eurai už 1 000 litrų produkto;
+1) bešviniam benzinui – 466 eurai už 1 000 litrų produkto;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
+
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+
+Nr. XIV-724, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25842
 
 2) benzinui, turinčiam švino, – 579,24 euro už 1 000 litrų produkto.
 
@@ -981,9 +1079,9 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 37 straipsnis. Gazoliams taikomi akcizų tarifai
 
-1. Gazoliams taikomas 372 eurų už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
+1. Gazoliams taikomas 372 eurų už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
 
-2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 21,14 euro už 1 000 litrų produkto akcizų tarifas.
+2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 21,14 euro už 1 000 litrų produkto akcizų tarifas.
 
 3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 ℃ temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
@@ -998,6 +1096,10 @@ Nr. XII-917, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07397
 Straipsnio pakeitimai:
 
 Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
+
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+
+Nr. XIV-724, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25842
 
 38 straipsnis. Skystajam kurui (mazutams), orimulsijai taikomi akcizų tarifai
 
@@ -1641,6 +1743,12 @@ Akcizų už elektroninių cigarečių skystį mokėtojai yra registruoti akcizų
 
 1. Kaitinamojo tabako produktams taikomas 45,6 euro už 1 000 vienetų kaitinamojo tabako produktų akcizų tarifas.
 
+TAR pastaba. Lietuvos Respublikos akcizų įstatymo 65 straipsnio 1 dalis (2019 m. gruodžio 5 d. redakcija) įsigaliojo 2020 m. kovo 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+
 2. Elektroninių cigarečių skysčiui taikomas 0,15 euro už mililitrą skysčio akcizų tarifas.
 
 Straipsnio pakeitimai:
@@ -1829,6 +1937,8 @@ Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 7. KN 1507–1518, 3824 90 97 pozicijose klasifikuojami produktai, jeigu jie skirti naudoti kaip variklių degalai arba kaip šildymui skirtas kuras.
 
+part_e914d3b663e3410aa111876cbdb2b19f_end
+
 Lietuvos Respublikos
 
 akcizų įstatymo
@@ -1867,6 +1977,8 @@ Punkto numeracijos pakeitimas:
 
 Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
+part_78cbbd9eea5d45e09b848b90d21793af_end
+
 Lietuvos Respublikos
 
 akcizų įstatymo
@@ -1885,7 +1997,11 @@ akcizų įstatymo
 
 5. 2003 m. spalio 27 d. Tarybos direktyva 2003/96/EB, pakeičianti Bendrijos energetikos produktų ir elektros energijos mokesčių struktūrą, su paskutiniais pakeitimais, padarytais 2018 m. balandžio 6 d. Komisijos įgyvendinimo sprendimu (ES) 2018/552.
 
-6. 2008 m. gruodžio 16 d. Tarybos direktyva 2008/118/EB dėl bendros akcizų tvarkos, panaikinanti Direktyvą 92/12/EEB, su paskutiniais pakeitimais, padarytais 2019 m. vasario 18 d. Tarybos direktyva (ES) 2019/475.
+6. 2008 m. gruodžio 16 d. Tarybos direktyva 2008/118/EB dėl bendros akcizų tvarkos, panaikinanti Direktyvą 92/12/EEB, su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 16 d. Tarybos direktyva (ES) 2019/2235.
+
+Punkto pakeitimai:
+
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 7. 2009 m. liepos 24 d. Komisijos reglamentas (EB) Nr. 684/2009, kuriuo įgyvendinamos Tarybos direktyvos 2008/118/EB nuostatos, susijusios su akcizais apmokestinamų prekių, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, gabenimo kompiuterinėmis procedūromis, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 1 d. Komisijos įgyvendinimo reglamentu (ES) 2020/1811.
 
@@ -1906,6 +2022,8 @@ Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 Priedo pakeitimai:
 
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
+
+part_8bc432d41a63403cabf9aff0094212e4_end
 
 Pakeitimai:
 
