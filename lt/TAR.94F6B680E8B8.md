@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2022-06-29"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2022-06-29 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -222,11 +222,13 @@ Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
 1) asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą bet kurios rūšies pensiją ar šalpos kompensaciją;
 
-2) Užimtumo tarnyboje įsiregistravę bedarbiai ir asmenys, dalyvaujantys Užimtumo tarnybos organizuojamose profesinio mokymo priemonėse, jeigu su jais nesudaromos darbo sutartys;
+2) Užimtumo tarnyboje įsiregistravę bedarbiai, darbo rinkai besirengiantys asmenys ir asmenys, dalyvaujantys Užimtumo tarnybos organizuojamose paramos mokymuisi priemonėse, jeigu su jais nesudaromos darbo sutartys;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
+
+Nr. XIV-1107, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11865
 
 3) nedirbantys darbingo amžiaus asmenys, turintys įstatymų nustatytą būtinąjį pensijų socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti arba turintys iki 2017 m. gruodžio 31 d. įgytą ne mažesnį kaip 30 metų pensijų socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti;
 
@@ -834,7 +836,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-751, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26583
 
-3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 ir 4–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Šios įmokos dydis – 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną.
+3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 ir 4–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Už sportininkus, pagal Lietuvos Respublikos sporto įstatymą gaunančius valstybės stipendiją, neturinčius draudžiamųjų pajamų ir nepriklausančius asmenims, nurodytiems šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 ir 4–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka valstybės sporto politiką įgyvendinanti institucija iš atitinkamai programai skiriamų lėšų šios programos finansavimą reglamentuojančių teisės aktų nustatyta tvarka. Šių įmokų dydis – 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1174, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13890
 
 4. 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos socialinio draudimo įmokos, moka asmenys, kurie verčiasi:
 
