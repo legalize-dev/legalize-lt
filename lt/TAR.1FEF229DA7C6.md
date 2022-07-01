@@ -4,7 +4,7 @@ identifier: "TAR.1FEF229DA7C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
 
@@ -140,7 +140,11 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
 
-12. Ilgai saugomi dokumentai – dokumentai, kurių nustatytas saugojimo terminas nuo 26 iki 100 metų.
+12. Neteko galios nuo 2022-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 Papildyta straipsnio dalimi:
 
@@ -266,7 +270,11 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 
 Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
 
-21. Trumpai saugomi dokumentai – dokumentai, kurių nustatytas saugojimo terminas nuo 1 iki 25 metų įskaitytinai.
+21. Neteko galios nuo 2022-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 Papildyta straipsnio dalimi:
 
@@ -321,6 +329,12 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 3 straipsnis. Nacionalinis dokumentų fondas
 
@@ -464,11 +478,29 @@ Nr. XIII-3110, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15320
 
 8) pagal kompetenciją įgyvendina Europos Sąjungos teisės aktų nuostatas dokumentų valdymo ir naudojimo srityje;
 
-9) turi teisę iš valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų, nevalstybinių organizacijų, privačių juridinių asmenų gauti informaciją, susijusią su savo uždavinių ir funkcijų vykdymu;
+9) vykdo kultūrinę edukaciją;
 
-10) turi teisę sudaryti sutartis su Lietuvos Respublikos ir užsienio valstybių juridiniais ir fiziniais asmenimis;
+Papildyta straipsnio punktu:
 
-11) turi kitų teisės aktuose nustatytų teisių.
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
+
+10) turi teisę iš valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų, nevalstybinių organizacijų, privačių juridinių asmenų gauti informaciją, susijusią su savo uždavinių ir funkcijų vykdymu;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
+
+11) turi teisę sudaryti sutartis su Lietuvos Respublikos ir užsienio valstybių juridiniais ir fiziniais asmenimis;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
+
+12) turi kitų teisės aktuose nustatytų teisių.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 5. Archyvų taryba – ekspertinė institucija, patarianti kultūros ministro kompetencijai priskirtais šio Įstatymo įgyvendinimo klausimais. Archyvų tarybą sudaro valstybės archyvų deleguoti ir kultūros ministro paskirti asmenys. Archyvų tarybos personalinę sudėtį ir jos veiklos nuostatus tvirtina kultūros ministras. Archyvų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. Archyvų taryba kultūros ministrui pataria dėl:
 
@@ -526,13 +558,15 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 8 straipsnis. Valstybės archyvų mokamos paslaugos
 
-Valstybės archyvai gali teikti mokamas dokumentų saugojimo, tvarkymo, paieškos, restauravimo, kopijavimo, konvertavimo, demonstravimo, taip pat mokymo ir konsultavimo paslaugas. Detalų mokamų paslaugų sąrašą, jų įkainius ir teikimo tvarką Lietuvos vyriausiojo archyvaro teikimu nustato kultūros ministras.
+Valstybės archyvai gali teikti mokamas dokumentų saugojimo, tvarkymo, paieškos, restauravimo, kopijavimo, konvertavimo, demonstravimo, taip pat mokymo ir konsultavimo paslaugas. Detalų mokamų paslaugų sąrašą ir mokamų paslaugų įkainių apskaičiavimo tvarką Lietuvos vyriausiojo archyvaro teikimu nustato kultūros ministras. Mokamų paslaugų įkainius ir šių paslaugų teikimo tvarką nustato Lietuvos vyriausiasis archyvaras.
 
 Straipsnio pakeitimai:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 9 straipsnis. Neteko galios nuo 2011-01-01
 
@@ -568,13 +602,15 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
 
-4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, perduodančios valstybės archyvams nuolat saugomus dokumentus ir ilgai saugomus elektroninius dokumentus, Lietuvos vyriausiojo archyvaro nustatyta tvarka su valstybės archyvais derina dokumentacijos planų duomenis ir šio straipsnio 2 dalies 1 punkte nurodytų apskaitos dokumentų duomenis.
+4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, perduodančios valstybės archyvams nuolat saugomus dokumentus, Lietuvos vyriausiojo archyvaro nustatyta tvarka su valstybės archyvais derina dokumentacijos planų duomenis ir šio straipsnio 2 dalies 1 punkte nurodytų apskaitos dokumentų duomenis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 5. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, neperduodančios dokumentų valstybės archyvams, šio straipsnio 2 dalies 1 punkte nurodytus apskaitos dokumentus ir dokumentacijos planus derina su tos institucijos, įstaigos ar įmonės savininko teises ir pareigas įgyvendinančia institucija ar jos įgaliota įstaiga.
 
@@ -718,7 +754,11 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 15 straipsnis. Dokumentų perdavimas valstybės archyvams saugoti
 
-1. Nuolat saugomus dokumentus ir ilgai saugomus elektroninius veiklos dokumentus valstybės archyvams perduoda Lietuvos Respublikos Seimas, Respublikos Prezidentas, jų įsteigtos institucijos ir įstaigos, Lietuvos Respublikos Vyriausybė, teismai, Lietuvos bankas, ministerijos ir Vyriausybės įstaigos, kariuomenės, teisėsaugos institucijos ir įstaigos, kiti centriniai ir teritoriniai valstybinio administravimo ir savivaldybių administravimo subjektai, viešąsias paslaugas teikiančios įstaigos ir įmonės, kurių veikloje susidaro nuolat saugomų dokumentų ir ilgai saugomų elektroninių dokumentų. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių, perduodančių dokumentus valstybės archyvams, sąrašą tvirtina Lietuvos vyriausiasis archyvaras.
+1. Nuolat saugomus dokumentus valstybės archyvams perduoda Lietuvos Respublikos Seimas, Respublikos Prezidentas, jų įsteigtos institucijos ir įstaigos, Vyriausybė, teismai, Lietuvos bankas, ministerijos ir Vyriausybės įstaigos, kariuomenės, teisėsaugos institucijos ir įstaigos, kiti centriniai ir teritoriniai valstybinio administravimo ir savivaldybių administravimo subjektai, viešąsias paslaugas teikiančios įstaigos ir įmonės, kurių veikloje susidaro nuolat saugomų dokumentų. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių, perduodančių dokumentus valstybės archyvams, sąrašą tvirtina Lietuvos vyriausiasis archyvaras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės nuolat saugomus dokumentus gali saugoti iki 20 metų nuo jų įtraukimo į apskaitą. Per šį laikotarpį institucijos, įstaigos ar įmonės dokumentus turi perduoti nuolat saugoti valstybės archyvams.
 
@@ -728,7 +768,11 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 2) nustatyti konkretų perdavimo valstybės archyvams terminą elektroniniams ir kitiems dokumentams, prie kurių prieinama tik specialios įrangos priemonėmis.
 
-4. Perduodami valstybės archyvams valstybės ir savivaldybių institucijų, įstaigų ir įmonių nuolat saugomi ir ilgai saugomi elektroniniai veiklos dokumentai turi būti tvarkomi teisės norminių aktų nustatyta tvarka. Kartu su perduodamais valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentais gali būti perduotos informacijos paieškos priemonės ir dokumentų atsarginės kopijos. Dokumentų perdavimo valstybės archyvams tvarką nustato Lietuvos vyriausiasis archyvaras.
+4. Perduodami valstybės archyvams valstybės ir savivaldybių institucijų, įstaigų ir įmonių nuolat saugomi dokumentai turi būti tvarkomi teisės norminių aktų nustatyta tvarka. Kartu su perduodamais valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentais gali būti perduotos informacijos paieškos priemonės ir dokumentų atsarginės kopijos. Dokumentų perdavimo valstybės archyvams tvarką nustato Lietuvos vyriausiasis archyvaras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 5. Nevalstybinių organizacijų, privačių juridinių ir fizinių asmenų veiklos dokumentai į valstybės archyvus, papildant Nacionalinį dokumentų fondą, perduodami šalių sutartimi. Sutartyje aptariamos šių dokumentų perdavimo, tvarkymo, priėjimo prie jų ir naudojimo sąlygos.
 
@@ -740,11 +784,13 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 
 16 straipsnis. Likviduojamų ar reorganizuojamų valstybės ir savivaldybių institucijų, įstaigų ir įmonių veiklos dokumentų perdavimas
 
-1. Likviduojamos ar reorganizuojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės, kuri po reorganizavimo pasibaigia, nuolat saugomi dokumentai ir ilgai saugomi elektroniniai dokumentai perduodami valstybės archyvui.
+1. Likviduojamos ar reorganizuojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės, kuri po reorganizavimo pasibaigia, nuolat saugomi dokumentai perduodami valstybės archyvui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 2. Likviduojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentai, kurių saugojimo terminas, nustatytas norminiuose teisės aktuose, nėra pasibaigęs, perduodami likviduojamos institucijos, įstaigos ar įmonės funkcijų perėmėjui, o jeigu jo nėra, – savininko teises ir pareigas įgyvendinančiai institucijai ar jos įgaliotai įstaigai arba, jeigu likviduojamos valstybės institucijos, įstaigos ar įmonės savininko teises ir pareigas įgyvendinanti institucija yra Lietuvos Respublikos Seimas, Lietuvos Respublikos Vyriausybė arba ministerija, – savivaldybei, kurios teritorijoje buvo valstybės institucijos, įstaigos ar įmonės buveinė.
 
@@ -866,11 +912,13 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 4. Priėjimas prie nevalstybinių organizacijų, privačių juridinių ar fizinių asmenų veiklos dokumentų, perduotų papildant Nacionalinį dokumentų fondą, gali būti ribojamas, jei tai numatyta dokumentų perdavimo sutartyje.
 
-5. Priėjimas prie Nacionalinio dokumentų fondo dokumentų, kuriuose yra informacijos apie asmens privatų gyvenimą, taip pat prie susistemintų asmens duomenų rinkmenų ribojamas 30 metų po to asmens mirties, o jei asmens mirties data nenustatyta, – 100 metų nuo to asmens gimimo. Jeigu nenustatyta nei asmens gimimo, nei mirties data, šis priėjimas ribojamas 70 metų nuo dokumentų sudarymo, išskyrus atvejus, kai taikomi šio straipsnio 3 dalyje nustatyti terminai.
+5. Priėjimas prie Nacionalinio dokumentų fondo dokumentų, kuriuose yra informacijos apie asmens privatų gyvenimą, taip pat prie susistemintų asmens duomenų rinkinių ribojamas 30 metų po to asmens mirties, o jeigu asmens mirties data nenustatyta, – 100 metų nuo to asmens gimimo. Jeigu nenustatyta nei asmens gimimo, nei mirties data, šis priėjimas ribojamas 70 metų nuo dokumentų sudarymo, išskyrus atvejus, kai taikomi šio straipsnio 3 dalyje nustatyti terminai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 6. Priėjimas prie blogos fizinės būklės dokumentų gali būti ribojamas tol, kol bus pataisyta tokių dokumentų būklė ar pagamintos jų atsarginės kopijos.
 
@@ -942,17 +990,13 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1995 m. spalio 24 d. Europos Parlamento ir Tarybos direktyva 95/46/EB dėl asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo (OL 1995 m. ES skyrius, 13 tomas 015, p. 355).
+1. 1995 m. spalio 24 d. Europos Parlamento ir Tarybos direktyva 95/46/EB dėl asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo.
 
-2. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/123/EB dėl paslaugų vidaus rinkoje (OL 2006 L 376, p. 36).
-
-Papildyta priedu:
-
-Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+2. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/123/EB dėl paslaugų vidaus rinkoje.
 
 Priedo pakeitimai:
 
-Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 Pakeitimai:
 
@@ -1059,4 +1103,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
 
 Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2 ir 10 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
+
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2, 3, 5, 8, 10, 15, 16, 20 straipsnių ir priedo pakeitimo įstatymas
+
+part_be9342059c53487e802b1f249fddba31_end
 
