@@ -4,7 +4,7 @@ identifier: "TAR.A7F77DF94F5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-18"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2023-07-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
 
@@ -285,7 +285,7 @@ Pagal šį įstatymą skiriamos šios socialinio draudimo pensijos:
 
 8 straipsnis. Socialinio draudimo pensijų dydžių mato rodiklių indeksavimas
 
-1. Kiekvienais metais nuo sausio 1 dienos bazinės pensijos ir apskaitos vieneto vertės dydžiai, išskyrus našlių pensijos bazinį dydį, lygų vienišo asmens išmokos, mokamos pagal Lietuvos Respublikos vienišo asmens išmokos įstatymą, dydžiui, kurie taikomi skiriant ir mokant šiame įstatyme nustatytų rūšių pensijas, indeksuojami pagal praėjusiais metais apskaičiuotą ir patvirtintą indeksavimo koeficientą (toliau – IK). IK išreiškiamas keturių skaitmenų po kablelio tikslumu.
+1. Kiekvienais metais nuo sausio 1 dienos bazinės pensijos, apskaitos vieneto vertės ir našlių pensijos bazinis dydžiai, kurie taikomi skiriant ir mokant šiame įstatyme nustatytų rūšių pensijas, indeksuojami pagal praėjusiais metais apskaičiuotą ir patvirtintą indeksavimo koeficientą (toliau – IK). IK išreiškiamas keturių skaitmenų po kablelio tikslumu.
 
 Straipsnio dalies pakeitimai:
 
@@ -317,7 +317,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 
-6. IK apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuoti bazinės pensijos, apskaitos vieneto vertės dydžiai euro cento tikslumu tvirtinami atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
+6. IK apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuoti bazinės pensijos, apskaitos vieneto vertės ir našlių pensijos bazinis dydžiai euro cento tikslumu tvirtinami atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
 
 Straipsnio dalies pakeitimai:
 
@@ -1091,7 +1091,7 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                        ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                         ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -1106,6 +1106,8 @@ pensijų įstatymo
 1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
 
 2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
+
+part_4b6c4cfd462d4f3f981ba93ee80ede4d_end
 
 Lietuvos Respublikos
 
@@ -1164,6 +1166,8 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 4. Šiame priede išvardyti laikotarpiai į stažą įskaitomi Socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nustatyta tvarka ir tik tuo atveju, jei už juos asmuo negauna užsienio valstybės pensijos.
 
 5. Šio įstatymo 3 straipsnio 2 dalyje ir 42 straipsnio 1 dalyje nurodytiems asmenims į stažą įskaitomi tik tie šiame priede išvardyti laikotarpiai, kuriais šie asmenys dirbo Lietuvos įmonėse.
+
+part_60e975074bfa40459b0eef7193ef59a6_end
 
 Lietuvos Respublikos
 
@@ -1226,6 +1230,8 @@ Daugiklis
 100
 
 1,500
+
+part_a3c279b1fc074dbc9c41aea9eb5a0619_end
 
 Lietuvos Respublikos
 
@@ -1360,6 +1366,8 @@ Kaupimo dalyvių daugiklis
 445 Eur
 
 0,7849
+
+part_dad674e54af7401b9318008beebe278f_end
 
 Lietuvos Respublikos
 
@@ -1532,6 +1540,8 @@ Moterų būtinasis stažas
 2027
 
 35
+
+part_6ee92f93a7db4b72915837974c434b6f_end
 
 Lietuvos Respublikos
 
@@ -1819,6 +1829,8 @@ Būtinasis stažas
 
 35 metai
 
+part_8e924ab8d8a34ad3bc0deeb409f8024a_end
+
 Lietuvos Respublikos socialinio
 
 draudimo pensijų įstatymo
@@ -2030,6 +2042,8 @@ Gimimo data
 Papildyta priedu:
 
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
+
+part_09acc3616be745e98d53ac8cdb417649_end
 
 Pakeitimai:
 
