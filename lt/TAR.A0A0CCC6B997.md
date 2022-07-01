@@ -4,7 +4,7 @@ identifier: "TAR.A0A0CCC6B997"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-27"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0A0CCC6B997"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Lietuvos Respublikos bausmių vykdymo kodeksas įsigalioja 2003-05-01."
 
 PATVIRTINTAS
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
 
@@ -76,6 +76,10 @@ Juridinio asmens veiklos apribojimo ir juridinio asmens likvidavimo bausmes vykd
 18 straipsnis. Viešųjų darbų bausmę vykdanti institucija
 
 1. Viešųjų darbų bausmę vykdo probacijos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-881, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00172
 
 2. Policija atlieka nuteistųjų, kurių buvimo vieta nežinoma, paiešką.
 
@@ -685,7 +689,11 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 
 3. Elektroninio stebėjimo įtaisas nuo nuteistojo nuimamas paskutinę intensyvios priežiūros vykdymo dieną.
 
-4. Intensyvios priežiūros sąlygų laikymosi kontrolės taisykles tvirtina Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas) direktorius.
+4. Neteko galios nuo 2022-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-881, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00172
 
 5. Kai nuteistasis yra teismo įpareigotas dalyvauti elgesio pataisos programoje, elgesio pataisos programą jam parenka probacijos tarnyba. Elgesio pataisos programą gali įgyvendinti probacijos tarnyba arba kitos įstaigos, organizacijos ar kiti asmenys. Už dalyvavimą kitų įstaigų, organizacijų ar kitų asmenų įgyvendinamose elgesio pataisos programose susimoka pats nuteistasis.
 
@@ -709,7 +717,11 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 
 1) lankytis nuteistojo gyvenamojoje vietoje, nemokamų darbų atlikimo vietose;
 
-2) Kalėjimų departamento direktoriaus nustatyta tvarka nuteistajam teismo paskirtų baudžiamojo poveikio priemonių ar auklėjamojo poveikio priemonių, įpareigojimų vykdymą ir draudimų laikymąsi kontroliuoti elektroninio stebėjimo ir specialiosiomis techninėmis priemonėmis;
+2) nuteistajam teismo paskirtų baudžiamojo poveikio priemonių ar auklėjamojo poveikio priemonių, įpareigojimų vykdymą ir draudimų laikymąsi kontroliuoti elektroninio stebėjimo ir specialiosiomis techninėmis priemonėmis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-881, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00172
 
 3) sudaryti ir nutraukti sutartis su darbdaviais, pas kuriuos atliekami nemokami darbai, įmonėmis, įstaigomis, organizacijomis ar kitais asmenimis, kurie įgyvendina elgesio pataisos programas.
 
@@ -726,6 +738,16 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 Straipsnio pakeitimai:
 
 Nr. IX-2338, 2004-07-08, Žin., 2004, Nr. 115-4278 (2004-07-24)
+
+3. Elektroninio stebėjimo priemonių naudojimo ir nuteistųjų stebėjimo šiomis priemonėmis tvarką nustato probacijos tarnybos direktorius ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas) direktorius, o specialiųjų techninių priemonių naudojimo tvarką – probacijos tarnybos direktorius.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2338, 2004-07-08, Žin., 2004, Nr. 115-4278 (2004-07-24)
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-881, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00172
 
 Straipsnio pakeitimai:
 
@@ -1949,9 +1971,17 @@ BAUSMIŲ VYKDYMO INSTITUCIJŲ, ĮSTAIGŲ IR PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ A
 
 1. Viešųjų darbų, laisvės apribojimo, arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes vykdančių institucijų ir įstaigų pareigūnų veiksmai ir sprendimai per vieną mėnesį gali būti skundžiami atitinkamą bausmę vykdančios institucijos ar įstaigos vadovui. Šis skundą turi išnagrinėti ne vėliau kaip per dvidešimt darbo dienų nuo skundo gavimo dienos.
 
-2. Šio straipsnio 1 dalyje nurodytas bausmes vykdančių institucijų ir įstaigų vadovų veiksmai ir sprendimai per vieną mėnesį gali būti skundžiami Kalėjimų departamento direktoriui. Šis skundą turi išnagrinėti ne vėliau kaip per dvidešimt darbo dienų nuo jo gavimo dienos, o jei dėl skundo atliekamas tyrimas, – per dvidešimt darbo dienų nuo tyrimo baigimo dienos.
+2. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes vykdančių institucijų ir įstaigų vadovų veiksmai ir sprendimai per vieną mėnesį gali būti skundžiami Kalėjimų departamento direktoriui, o šis skundą turi išnagrinėti ne vėliau kaip per dvidešimt darbo dienų nuo jo gavimo dienos, o jei dėl skundo atliekamas tyrimas, – per dvidešimt darbo dienų nuo tyrimo baigimo dienos.
 
-3. Kalėjimų departamento direktoriaus veiksmai ir sprendimai per dvidešimt dienų nuo jų įteikimo gali būti skundžiami apygardos administraciniam teismui.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-881, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00172
+
+3. Probacijos tarnybos direktoriaus ir Kalėjimų departamento direktoriaus veiksmai ir sprendimai gali būti skundžiami apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-881, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00172
 
 4. Baudos, juridinio asmens veiklos apribojimo ir juridinio asmens likvidavimo bausmes vykdančių antstolių veiksmai ir sprendimai skundžiami antstolio veiklos teritorijos apylinkės teismui Civilinio proceso kodekso nustatyta tvarka.
 
@@ -1963,7 +1993,7 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 
 Nr. XI-1474, 2011-06-21, Žin., 2011, Nr. 81-3961 (2011-07-05)
 
-part_2b48731db7dc41aa8ec7cbe5cbe8a3de_end
+part_71382f36900543e19f75d94c4c8ada4a_end
 
 Lietuvos Respublikos
 
@@ -2232,6 +2262,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3024, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13460
 
 Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymo Nr. XIII-2264 36, 44, 70, 75 straipsnių pakeitimo, Įstatymo papildymo 70-1 straipsniu ir 42 straipsnio pripažinimo netekusiu galios įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-881, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00172
+
+Lietuvos Respublikos bausmių vykdymo kodekso 18, 47, 48, 159 ir 183 straipsnių pakeitimo įstatymas
 
 62 straipsnis. Pataisos įstaigų rūšys
 
@@ -3643,13 +3681,17 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 
 3. Pataisos įstaiga, lygtinai paleidusi iš pataisos įstaigos nuteistąjį pagal šio Kodekso 157 straipsnio 3 dalį, teismo nuosprendį su patvarkymu pateikia probacijos tarnybai.
 
-4. Pataisos įstaiga kartu su probacijos tarnyba Kalėjimų departamento direktoriaus nustatyta tvarka užtikrina, kad lygtinai paleistam iš pataisos įstaigos nuteistajam intensyvi priežiūra ir probacija būtų pradėta vykdyti nuo nuteistojo paleidimo iš pataisos įstaigos momento.
+4. Kalėjimų departamento direktoriaus ir probacijos tarnybos direktoriaus nustatyta tvarka probacijos tarnybai sudaromos sąlygos dalyvauti nuteistąjį rengiant lygtinai paleisti iš pataisos įstaigos ir užtikrinama, kad lygtinai paleisto iš pataisos įstaigos nuteistojo intensyvi priežiūra ir probacija būtų pradėta vykdyti nuo jo paleidimo iš pataisos įstaigos momento.
 
 Straipsnio pakeitimai:
 
 Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17)
 
 Nr. XI-1863, 2011-12-22, Žin., 2012, Nr. 4-110 (2012-01-06)
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-881, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00172
 
 Straipsnio pakeitimai:
 
