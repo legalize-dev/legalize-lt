@@ -4,7 +4,7 @@ identifier: "TAR.68CC8934A031"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-13"
-last_updated: "2018-04-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.68CC8934A031"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS
 
 IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2018-04-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-07-31
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
 
@@ -54,11 +54,11 @@ Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
 
 TREČIASIS SKIRSNIS
 
-2007 M. LAPKRIČIO 13 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (EB) NR. 1393/2007 DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO VALSTYBĖSE NARĖSE („DOKUMENTŲ ĮTEIKIMAS“) IR PANAIKINANČIO TARYBOS REGLAMENTĄ (EB) NR. 1348/2000 IR 1965 M. LAPKRIČIO 15 D. HAGOS KONVENCIJOS DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO UŽSIENYJE ĮGYVENDINIMAS
+REGLAMENTO (ES) 2020/1784 IR 1965 M. LAPKRIČIO 15 D. HAGOS KONVENCIJOS DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO UŽSIENYJE ĮGYVENDINIMAS
 
 3 straipsnis. Iš užsienio gautų dokumentų įteikimo tvarka
 
-1. Iš užsienio gauti dokumentai įteikiami Lietuvos Respublikos civilinio proceso kodekso ir Lietuvos Respublikos teisingumo ministro nustatyta tvarka tiek, kiek 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1393/2007 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse („dokumentų įteikimas“) ir panaikinantis Tarybos reglamentą (EB) Nr. 1348/2000 (toliau šiame skirsnyje – Reglamentas (EB) Nr. 1393/2007), 1965 m. lapkričio 15 d. Hagos konvencija dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo užsienyje (toliau šiame skirsnyje – 1965 m. Hagos konvencija) ir šis įstatymas nenustato kitaip.
+1. Iš užsienio gauti dokumentai įteikiami Lietuvos Respublikos civilinio proceso kodekso ir Lietuvos Respublikos teisingumo ministro nustatyta tvarka tiek, kiek Reglamentas (ES) 2020/1784, 1965 m. lapkričio 15 d. Hagos konvencija dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo užsienyje (toliau šiame skirsnyje – 1965 m. Hagos konvencija) ir šis įstatymas nenustato kitaip.
 
 2. Apmokestinimo už dokumentų įteikimą Lietuvos Respublikoje tvarką nustato Lietuvos Respublikos teisingumo ministras Lietuvos Respublikos antstolių įstatymo nustatyta tvarka.
 
@@ -92,15 +92,7 @@ KETVIRTASIS1 SKIRSNIS
 
 6 straipsnis. Centrinė įstaiga
 
-Centrinė įstaiga 2001 m. gegužės 28 d. Tarybos reglamento (EB) Nr. 1206/2001 dėl valstybių narių teismų tarpusavio bendradarbiavimo renkant įrodymus civilinėse ar komercinėse bylose 3 straipsnyje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos teisingumo ministerija.
-
-ŠEŠTASIS SKIRSNIS
-
-2003 M. LAPKRIČIO 27 D. TARYBOS REGLAMENTO (EB) NR. 2201/2003 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ, SUSIJUSIŲ SU SANTUOKA IR TĖVŲ PAREIGOMIS, PRIPAŽINIMO BEI VYKDYMO, PANAIKINANČIO REGLAMENTĄ (EB) NR. 1347/2000, 1980 M. SPALIO 25 D. HAGOS KONVENCIJOS DĖL TARPTAUTINIO VAIKŲ GROBIMO CIVILINIŲ ASPEKTŲ IR 1996 M. SPALIO 19 D. HAGOS KONVENCIJOS DĖL JURISDIKCIJOS, TAIKYTINOS TEISĖS, PRIPAŽINIMO, VYKDYMO IR BENDRADARBIAVIMO TĖVŲ PAREIGŲ IR VAIKŲ APSAUGOS PRIEMONIŲ SRITYJE ĮGYVENDINIMAS
-
-Pakeistas skirsnio pavadinimas:
-
-Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
+Centrinė įstaiga Reglamento (ES) 2020/1783 4 straipsnio 1 dalyje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos teisingumo ministerija.
 
 7 straipsnis. Vaiko grąžinimas
 
@@ -288,15 +280,15 @@ Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
 
 32 straipsnis. Centrinė įstaiga
 
-1. Centrinė įstaiga Reglamento (EB) Nr. 1393/2007 3 straipsnyje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos teisingumo ministerija.
+1. Centrinė įstaiga Reglamento (ES) 2020/1784 4 straipsnyje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos teisingumo ministerija.
 
 2. Centrinė įstaiga 1965 m. Hagos konvencijoje nustatytoms funkcijoms atlikti, paskirta pagal 1965 m. Hagos konvencijos 2 straipsnį, yra Lietuvos Respublikos teisingumo ministerija.
 
 33 straipsnis. Dokumentus perduodančios ir priimančios įstaigos
 
-1. Perduoti dokumentus užsienio valstybei pagal Reglamentą (EB) Nr. 1393/2007 ir 1965 m. Hagos konvenciją yra kompetentingi visi Lietuvos Respublikos bendrosios kompetencijos teismai, kurie nagrinėja civilines ir komercines bylas.
+1. Perduoti dokumentus užsienio valstybei pagal Reglamentą (ES) 2020/1784 ir 1965 m. Hagos konvenciją yra kompetentingi visi Lietuvos Respublikos bendrosios kompetencijos teismai, kurie nagrinėja civilines ir komercines bylas.
 
-2. Pagal Reglamento (EB) Nr. 1393/2007 2 straipsnio 2 dalį paskirta įstaiga, kompetentinga priimti kitų valstybių narių prašymus dėl dokumentų įteikimo, yra Lietuvos antstolių rūmai.
+2. Pagal Reglamento (ES) 2020/1784 3 straipsnio 2 dalį paskirta įstaiga, kompetentinga priimti kitų valstybių narių prašymus dėl dokumentų įteikimo, yra Lietuvos antstolių rūmai.
 
 3. Pagal 1965 m. Hagos konvencijos 2 straipsnį paskirta centrinė įstaiga priima kitų susitariančiųjų valstybių prašymus dėl dokumentų įteikimo ir perduoda Lietuvos antstolių rūmams.
 
@@ -444,7 +436,7 @@ Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
 
 PENKTASIS SKIRSNIS
 
-2001 M. GEGUŽĖS 28 D. TARYBOS REGLAMENTO (EB) NR. 1206/2001 DĖL VALSTYBIŲ NARIŲ TEISMŲ TARPUSAVIO BENDRADARBIAVIMO RENKANT ĮRODYMUS CIVILINĖSE AR KOMERCINĖSE BYLOSE ĮGYVENDINIMAS
+REGLAMENTO (ES) 2020/1783 ĮGYVENDINIMAS
 
 3113 straipsnis. Pažymos išdavimas, pranešimas apie pažymos išdavimą, išduotos pažymos taisymas ar panaikinimas
 
@@ -492,21 +484,11 @@ DEVINTASIS4 SKIRSNIS
 
 2013 M. BIRŽELIO 12 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 606/2013 DĖL APSAUGOS PRIEMONIŲ TARPUSAVIO PRIPAŽINIMO CIVILINĖSE BYLOSE ĮGYVENDINIMAS
 
-34 straipsnis. Praleisto apeliacinio skundo padavimo termino atnaujinimas
+34 straipsnis. Įstaiga, teikianti pagalbą nustatant adresą
 
-Reglamento (EB) Nr. 1393/2007 19 straipsnio 4 dalyje ir 1965 m. Hagos konvencijos 16 straipsnio 1 dalyje nustatytais atvejais atsakovas turi teisę paduoti prašymą atnaujinti praleistą apeliacinio skundo padavimo terminą. Prašymas atnaujinti praleistą apeliacinio skundo padavimo terminą nenagrinėjamas, jeigu praėjo daugiau kaip vieni metai nuo teismo sprendimo priėmimo dienos.
+1. Pagal Reglamento (ES) 2020/1784 7 straipsnio 1 dalies a punktą paskirta įstaiga, kuriai kitų valstybių narių perduodančiosios agentūros gali teikti prašymus nustatyti asmens, kuriam turi būti įteikti dokumentai, adresą, yra Lietuvos antstolių rūmai.
 
-Skirsnio pakeitimai:
-
-Nr. XII-2197, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20895
-
-KETVIRTASIS SKIRSNIS
-
-EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ PRIPAŽINIMO IR VYKDYMO TVARKA
-
-Pakeistas skirsnio pavadinimas:
-
-Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+2. Lietuvos antstolių rūmai turi teisę neatlygintinai gauti iš valstybės registrų duomenis, reikalingus Reglamento (ES) 2020/1784 7 straipsnio 1 dalies a punkte nustatytai funkcijai atlikti.
 
 3117 straipsnis. Proceso ypatumai
 
@@ -577,4 +559,48 @@ Reglamento (EB) Nr. 861/2007 11 straipsnio 1 dalyje nurodytą praktinę pagalbą
 Papildyta straipsniu:
 
 Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
+
+35 straipsnis. Atsakovo neatvykimas į teismą
+
+1. Lietuvos Respublikos teismai gali priimti sprendimą net ir tuo atveju, kai nebuvo gautas bylos iškėlimo dokumento arba lygiaverčio dokumento įteikimo ar pristatymo pažymėjimas, jeigu įvykdomos visos Reglamento (ES) 2020/1784 22 straipsnio 2 dalyje nustatytos sąlygos arba visos 1965 m. Hagos konvencijos 15 straipsnio 2 dalyje nustatytos sąlygos.
+
+2. Reglamento (ES) 2020/1784 22 straipsnio 4 dalyje, išskyrus Reglamento (ES) 2020/1784 22 straipsnio 5 dalyje numatytą išimtį, ir 1965 m. Hagos konvencijos 16 straipsnio 1 dalyje, išskyrus 1965 m. Hagos konvencijos 16 straipsnio 4 dalyje numatytą išimtį, nustatytais atvejais atsakovas turi teisę paduoti prašymą atnaujinti praleistą apeliacinio skundo padavimo terminą. Prašymas atnaujinti praleistą apeliacinio skundo padavimo terminą nenagrinėjamas, jeigu praėjo daugiau kaip vieni metai nuo teismo sprendimo priėmimo dienos.
+
+36 straipsnis. Kalbos
+
+Lietuvos Respublikoje priimtinos kalbos pagal Reglamento (ES) 2020/1784 3 straipsnio 4 dalies d punktą, 8 straipsnio 2 dalį ir 14 straipsnio 2 dalį yra lietuvių ir anglų kalbos.
+
+Skirsnio pakeitimai:
+
+Nr. XII-2197, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20895
+
+Nr. XIV-673, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24271
+
+KETVIRTASIS SKIRSNIS
+
+EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ PRIPAŽINIMO IR VYKDYMO TVARKA
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+
+61 straipsnis. Įstaiga, atsakinga už sprendimų dėl prašymų tiesiogiai surinkti įrodymus priėmimą
+
+Įstaiga, pagal Reglamento (ES) 2020/1783 4 straipsnio 3 dalį ir 19 straipsnį atsakinga už sprendimų dėl kitų valstybių narių teismų prašymų tiesiogiai surinkti įrodymus priėmimą, yra Lietuvos Respublikos teisingumo ministerija.
+
+62 straipsnis. Kalbos
+
+Lietuvos Respublikoje priimtinos kalbos pagal Reglamento (ES) 2020/1783 6 straipsnį yra lietuvių ir anglų kalbos.
+
+Skirsnio pakeitimai:
+
+Nr. XIV-673, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24271
+
+ŠEŠTASIS SKIRSNIS
+
+2003 M. LAPKRIČIO 27 D. TARYBOS REGLAMENTO (EB) NR. 2201/2003 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ, SUSIJUSIŲ SU SANTUOKA IR TĖVŲ PAREIGOMIS, PRIPAŽINIMO BEI VYKDYMO, PANAIKINANČIO REGLAMENTĄ (EB) NR. 1347/2000, 1980 M. SPALIO 25 D. HAGOS KONVENCIJOS DĖL TARPTAUTINIO VAIKŲ GROBIMO CIVILINIŲ ASPEKTŲ IR 1996 M. SPALIO 19 D. HAGOS KONVENCIJOS DĖL JURISDIKCIJOS, TAIKYTINOS TEISĖS, PRIPAŽINIMO, VYKDYMO IR BENDRADARBIAVIMO TĖVŲ PAREIGŲ IR VAIKŲ APSAUGOS PRIEMONIŲ SRITYJE ĮGYVENDINIMAS
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
 
