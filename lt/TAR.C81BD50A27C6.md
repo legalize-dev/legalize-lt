@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2022-05-26"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-05-26 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
 
@@ -697,31 +697,33 @@ Nr. XI-767, 2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
 
 1. LNSS savivaldybių visuomenės sveikatos priežiūros biudžetinė įstaiga yra savivaldybės visuomenės sveikatos biuras.
 
-2. LNSS valstybės visuomenės sveikatos priežiūros biudžetinės įstaigos, kurių steigėja yra Sveikatos apsaugos ministerija:
+2. LNSS valstybės visuomenės sveikatos priežiūros biudžetinės įstaigos, kurių valstybės, kaip biudžetinių įstaigų savininkės, teises ir pareigas įgyvendina Sveikatos apsaugos ministerija:
 
-1) Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos (toliau – Nacionalinis visuomenės sveikatos centras);
+1) Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos (toliau – Nacionalinis visuomenės sveikatos centras);
 
-Straipsnio punkto pakeitimai:
+2) Radiacinės saugos centras;
 
-Nr. XII-1715, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08058
+3) Sveikatos apsaugos ministerijos Ekstremalių sveikatai situacijų centras;
 
-2) Nacionalinė visuomenės sveikatos priežiūros laboratorija;
+4) Higienos institutas;
 
-3) Užkrečiamųjų ligų ir AIDS centras;
+5) kitos visuomenės sveikatos priežiūros įstaigos, įsteigtos kitų įstatymų ir teisės aktų nustatyta tvarka.
 
-4) Radiacinės saugos centras;
+Straipsnio dalies pakeitimai:
 
-5) Ekstremalių situacijų sveikatai centras;
+Nr. XIV-794, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27370
 
-6) Valstybinis psichikos sveikatos centras;
+3. Šio straipsnio 2 dalies 1, 2 ir 3 punktuose nurodytos visuomenės sveikatos priežiūros biudžetinės įstaigos gali įgyvendinti valstybės, kaip LNSS valstybės visuomenės sveikatos priežiūros biudžetinių įstaigų savininkės, teises ir pareigas.
 
-7) Sveikatos mokymo ir ligų prevencijos centras;
+Papildyta straipsnio dalimi:
 
-8) Higienos institutas;
+Nr. XIV-794, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27370
 
-9) kitos visuomenės sveikatos priežiūros įstaigos, įsteigtos kitų įstatymų ir teisės aktų nustatyta tvarka.
+4. LNSS savivaldybių ir valstybės visuomenės sveikatos priežiūros biudžetinių įstaigų pavyzdinius nuostatus tvirtina Sveikatos apsaugos ministerija.
 
-3. LNSS savivaldybių ir valstybės visuomenės sveikatos priežiūros biudžetinių įstaigų pavyzdinius nuostatus tvirtina Sveikatos apsaugos ministerija.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-794, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27370
 
 Straipsnio pakeitimai:
 
@@ -2138,6 +2140,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
 
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 45, 50 ir 54 straipsnių pakeitimo įstatymas
+
+34.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-794, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27370
+
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 24 straipsnio pakeitimo įstatymas
 
 62 straipsnis. Įstaigos laikinojo
 
