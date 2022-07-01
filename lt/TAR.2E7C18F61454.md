@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-07-21
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
+
+TAR pastaba. Iki Įstatymo Nr. XIV-889 įsigaliojimo (2022-07-01) pradėtos nagrinėti Lietuvos Respublikos civilinio proceso kodekso V dalies XXX skyriuje nurodytos bylos baigiamos nagrinėti pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-889, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00071
+
+Lietuvos Respublikos civilinio proceso kodekso 494, 496-1, 500 ir 501 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -1395,13 +1403,21 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Pagal globėjo ar rūpintojo, globos ir rūpybos institucijos pareiškimą globėjas ar rūpintojas gali būti jį paskyrusio teismo nutartimi atleistas nuo pareigų, jeigu jų negali atlikti dėl savo ar artimųjų giminaičių ligos, savo turtinės padėties pablogėjimo ar dėl kitų svarbių priežasčių.
 
-2. Pagal globos ir rūpybos institucijos arba prokuroro pareiškimą globėjas ar rūpintojas gali būti jį paskyrusio teismo nutartimi nušalintas nuo pareigų, jeigu jis netinkamai atlieka globėjo ar rūpintojo pareigas, neužtikrina globotinio ar rūpintinio teisių ir interesų apsaugos, naudojasi savo teisėmis savanaudiškais tikslais.
+2. Pagal neveiksnaus tam tikroje srityje ar ribotai veiksnaus tam tikroje srityje asmens, globos ir rūpybos institucijos, rūpintinio arba prokuroro pareiškimą globėjas ar rūpintojas gali būti jį paskyrusio teismo nutartimi nušalintas nuo pareigų, jeigu jis netinkamai atlieka globėjo ar rūpintojo pareigas, neužtikrina globotinio ar rūpintinio teisių ir interesų apsaugos, naudojasi savo teisėmis savanaudiškais tikslais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-889, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00071
 
 3. Pareiškimą dėl veiksniam asmeniui paskirto rūpintojo atleidimo ar nušalinimo nuo pareigų taip pat gali paduoti rūpintinis.
 
 4. Globėją ar rūpintoją atleidus arba nušalinus nuo pareigų, kito globėjo ar rūpintojo paskyrimo klausimas sprendžiamas atitinkamai pagal šio skyriaus antrojo ar trečiojo skirsnių nuostatas.
 
-5. Pagal globėjo ar rūpintojo, globos ir rūpybos institucijos, vaiko tėvų arba įtėvių pareiškimą vaiko globėjas ar rūpintojas gali būti jį paskyrusio teismo nutartimi atleistas nuo pareigų, jeigu vaikas grąžinamas tėvams arba įtėviams.
+5. Neteko galios nuo 2022-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-889, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00071
 
 498 straipsnis. Pareiškimo dėl vaiko nuolatinės globos ar rūpybos nustatymo turinys
 
@@ -2171,7 +2187,11 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 668 straipsnis. Turtas, iš kurio negali būti išieškoma
 
-1. Vykdant išieškojimą iš fizinių asmenų, išieškojimas negali būti nukreipiamas į buities, ūkio, darbo, mokymosi reikmenis ir kitą turtą, kurie būtini skolininko ar jo šeimos pragyvenimui, darbui pagal jo profesiją ar mokymuisi. Šio turto sąrašas nustatytas Sprendimų vykdymo instrukcijoje. Be to, išieškojimas negali būti nukreipiamas į pinigų sumą, neviršijančią Vyriausybės nustatytos vienos minimaliosios mėnesinės algos (MMA), visus būtinus vaikų ir neįgaliųjų reikmenis. Šių reikmenų sąrašas nustatytas Sprendimų vykdymo instrukcijoje.
+1. Vykdant išieškojimą iš fizinių asmenų, išieškojimas negali būti nukreipiamas į buities, ūkio, darbo, mokymosi reikmenis ir kitą turtą, kuris būtinas skolininkui ar jo šeimai gyventi, dirbti pagal profesiją ar mokytis, visus būtinus vaikų ir neįgaliųjų reikmenis. Šio turto ir reikmenų sąrašas nustatytas Sprendimų vykdymo instrukcijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 2. Vykdant išieškojimą iš valstybės, savivaldybės ar biudžetinių įstaigų, išieškojimas gali būti nukreipiamas tik į joms priklausančias pinigines lėšas, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto ir mirusio skolininko turtą paveldi valstybė. Vykdant išieškojimą iš valstybės ar biudžetinių įstaigų, išieškojimas negali būti nukreipiamas į valstybės iždo bendrąją sąskaitą Lietuvos Respublikos valstybės iždo įstatyme nustatytais atvejais.
 
@@ -2257,7 +2277,11 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 5. Piniginių lėšų apribojimų informacinėje sistemoje gavus duomenis iš Turto arešto aktų registro apie skolininko piniginių lėšų areštą (areštus) Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka, pateikti nurodymai priverstinai nurašyti skolininko pinigines lėšas sustabdomi ir nevykdomi tiek, kokio dydžio piniginių lėšų suma yra areštuota. Piniginių lėšų apribojimų informacinėje sistemoje iš Turto arešto aktų registro gavus antstolio nurodymą areštuoti skolininko pinigines lėšas, pateikti nurodymai priverstinai nurašyti skolininko pinigines lėšas vykdomi Sprendimų vykdymo instrukcijoje nustatyta tvarka laikantis šio Kodekso 626 straipsnio 3 dalyje ir 754 straipsnyje nustatytų reikalavimų. Piniginių lėšų apribojimų informacinėje sistemoje gavus duomenis iš Turto arešto aktų registro apie areštą (areštus) pagal teismo nutartį (nutartis) dėl laikinųjų apsaugos priemonių taikymo skolininko lėšoms su nurodytu reikalavimų patenkinimo eiliškumu arba duomenis apie tai, kad nurodymą pateikia antstolis, institucija ar pareigūnas, turintys teisę areštuoti skolininko pinigines lėšas arba nutraukti lėšų išmokėjimą iš skolininko sąskaitos (sąskaitų), vykdomi pateikti tos pačios ir (ar) pirmesnės eilės nurodymai šio Kodekso 626 straipsnio 3 dalyje ir 754 straipsnyje nustatyta tvarka.
 
-6. Piniginių lėšų apribojimų informacinėje sistemoje gavus visus šio straipsnio 2, 3 ir 4 dalyse numatytiems nurodymams vykdyti reikalingus duomenis, piniginės lėšos Vyriausybės, Sprendimų vykdymo instrukcijoje ir šio Kodekso 754 straipsnyje nustatyta tvarka paskirstomos pagal reikalavimų patenkinimo eilę ir reikalaujamos sumos elektroninių ryšių priemonėmis išsiunčiamos į kredito, mokėjimo ir (ar) elektroninių pinigų įstaigas nurodymams vykdyti. Kredito, mokėjimo ir (ar) elektroninių pinigų įstaigos, gavusios nurodymus dėl piniginių lėšų nurašymo, privalo nurodytas sumas ne vėliau kaip kitą darbo dieną pervesti į šio straipsnio 2 ir 3 dalyse nustatyta tvarka pateiktuose nurodymuose nurodytą antstolio depozitinę ir (ar) institucijos, turinčios teisę duoti nurodymus nurašyti skolininko pinigines lėšas iš skolininko sąskaitos (sąskaitų), sąskaitą.
+6. Piniginių lėšų apribojimų informacinėje sistemoje gavus visus šio straipsnio 2, 3 ir 4 dalyse nustatytiems nurodymams vykdyti reikalingus duomenis, piniginės lėšos, viršijančios pagal Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymą apskaičiuotą minimalių vartojimo poreikių dydį, Vyriausybės, Sprendimų vykdymo instrukcijoje ir šio Kodekso 754 straipsnyje nustatyta tvarka paskirstomos pagal reikalavimų patenkinimo eilę ir reikalaujamos sumos elektroninių ryšių priemonėmis išsiunčiamos į kredito, mokėjimo ir (ar) elektroninių pinigų įstaigas nurodymams vykdyti. Kredito, mokėjimo ir (ar) elektroninių pinigų įstaigos, gavusios nurodymus dėl piniginių lėšų nurašymo, privalo nurodytas sumas ne vėliau kaip kitą darbo dieną pervesti į šio straipsnio 2 ir 3 dalyse nustatyta tvarka pateiktuose nurodymuose nurodytą antstolio depozitinę ir (ar) institucijos, turinčios teisę duoti nurodymus nurašyti skolininko pinigines lėšas iš skolininko sąskaitos (sąskaitų), sąskaitą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 7. Nurodymą priverstinai nurašyti skolininko pinigines lėšas pateikęs antstolis, pareigūnas ar institucija, nustatę, kad gauta pinigų suma yra didesnė, negu reikia reikalavimams patenkinti, arba kad gautos piniginės lėšos, į kurias negali būti nukreiptas išieškojimas, ne vėliau kaip per penkias darbo dienas nuo šių aplinkybių paaiškėjimo privalo pinigines lėšas, viršijančias reikalavimus, grąžinti skolininkui.
 
@@ -9907,13 +9931,23 @@ Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
 
 1) įrodymai, pagrindžiantys reikalingumą nustatyti vaiko nuolatinę globą ar rūpybą;
 
-2) vaiko ir rekomenduojamo skirti globėju ar rūpintoju fizinio asmens sveikatos būklės pažymos, išduotos sveikatos apsaugos ministro nustatyta tvarka;
+2) vaiko, rekomenduojamo skirti globėju ar rūpintoju fizinio asmens ir kartu su juo gyvenančių vyresnių kaip šešiolikos metų asmenų sveikatos būklės pažymos, išduotos sveikatos apsaugos ministro nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-889, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00071
 
 3) asmens, rekomenduojamo skirti globėju ar rūpintoju, rašytinis sutikimas;
 
 4) jei globėju ar rūpintoju rekomenduojama skirti fizinį asmenį ar šeimyną, pateikiamas kartu su juo gyvenančių asmenų sąrašas ir vyresnių kaip šešiolikos metų asmenų rašytinis sutikimas;
 
-5) jei pareiškimą paduoda valstybinė vaiko teisių apsaugos institucija, prie pareiškimo turi būti pridėta išvada dėl vaiko nuolatinės globos ar rūpybos nustatymo reikalingumo ir globėjo ar rūpintojo paskyrimo.
+5) jei pareiškimą paduoda valstybinė vaiko teisių apsaugos institucija, prie pareiškimo turi būti pridėta išvada dėl vaiko nuolatinės globos ar rūpybos nustatymo reikalingumo ir globėjo ar rūpintojo paskyrimo;
+
+6) jei globėju ar rūpintoju rekomenduojama skirti fizinį asmenį ar šeimyną, – valstybinės vaiko teisių apsaugos institucijos atestuotų asmenų išvados, kurioje pagrindžiama, kad asmuo ir jo sutuoktinis ar kartu gyvenantis santuokos neįregistravęs asmuo Vyriausybės patvirtintuose Vaiko globos organizavimo nuostatuose nustatyta tvarka yra tinkamai pasirengę globoti (rūpinti) vaiką, kopija.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-889, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00071
 
 2. Jei pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo paduoda prokuroras, prie šio pareiškimo gali būti pridėti valstybinės vaiko teisių apsaugos institucijos pareiškimas dėl globėjo ar rūpintojo skyrimo ir išvada dėl vaiko nuolatinės globos ar rūpybos nustatymo reikalingumo ir globėjo ar rūpintojo paskyrimo. Šie valstybinės vaiko teisių apsaugos institucijos dokumentai turi būti parengti ne anksčiau kaip prieš mėnesį iki prokuroro pareiškimo teismui įteikimo dienos.
 
@@ -9933,13 +9967,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
-2. Priėmęs valstybinės vaiko teisių apsaugos institucijos pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo ir (ar) globėjo ar rūpintojo paskyrimo, teismas, jeigu globėju ar rūpintoju rekomenduojama skirti fizinį asmenį arba šeimyną, išreikalauja duomenis apie šio fizinio asmens ir kartu su juo gyvenančių kitų asmenų ar šeimynos narių teistumą ir padarytus administracinius nusižengimus.
-
-TAR pastaba. 501 straipsnio 2 dalies nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti Administracinių teisės pažeidimų kodekse.
+2. Priėmęs valstybinės vaiko teisių apsaugos institucijos pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo ir (ar) globėjo ar rūpintojo paskyrimo, teismas, jeigu globėju ar rūpintoju rekomenduojama skirti fizinį asmenį arba šeimyną, išreikalauja duomenis apie šio fizinio asmens ir kartu su juo gyvenančių vyresnių kaip šešiolikos metų asmenų ar šeimynos narių teistumą ir padarytus administracinius nusižengimus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+
+Nr. XIV-889, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00071
 
 502 straipsnis. Bylos nagrinėjimas
 
@@ -12355,7 +12389,11 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 2. Teismas, priėmęs sprendimą apriboti tėvų valdžią, tą pačią dieną nutartimi paveda valstybinei vaiko teisių apsaugos institucijai per dešimt dienų pateikti teismui šio Kodekso 498 ir 499 straipsniuose nurodytus duomenis, būtinus bylai išnagrinėti, taip pat išvadą dėl vaiko nuolatinės globos ar rūpybos nustatymo ir vaiko globėjo ar rūpintojo paskyrimo reikalingumo.
 
-3. Jeigu reikalinga skirti vaiko globėją ar rūpintoją ir jeigu vaiko globėju ar rūpintoju rekomenduojama skirti fizinį asmenį arba šeimyną, teismas išreikalauja duomenis apie šio fizinio asmens ir kartu su juo gyvenančių kitų asmenų ar šeimynos dalyvių teistumą ir administracinius nusižengimus.
+3. Jeigu reikalinga skirti vaiko globėją ar rūpintoją ir jeigu vaiko globėju ar rūpintoju rekomenduojama skirti fizinį asmenį arba šeimyną, teismas išreikalauja duomenis apie šio fizinio asmens ir kartu su juo gyvenančių vyresnių kaip šešiolikos metų asmenų ar šeimynos dalyvių teistumą ir padarytus administracinius nusižengimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-889, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00071
 
 Papildyta straipsniu:
 
