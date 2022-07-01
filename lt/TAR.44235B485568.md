@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2022-05-24"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2022-05-24 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-21
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -1127,7 +1127,11 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 
 10) paaiškėja aplinkybės dėl leidimo importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, galiojimo panaikinimo, nustatytos Būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo 4 straipsnio 2 dalyje.
 
-8. Išduoti licencijos, leidimai ar atestatai gali būti keičiami juos išduodančios institucijos iniciatyva, kai pasikeičia įstatymų nustatyti reikalavimai, taikomi reguliuojamajai veiklai, arba asmens, turinčio licenciją, leidimą ar atestatą, iniciatyva, kai pasikeičia licencijoje, leidime ar atestate nurodyti asmens duomenys ar teritorija, kurioje vykdoma reguliuojamoji veikla. Pasikeitus licencijoje, leidime ar atestate nurodytiems asmens duomenims ar teritorijai, kurioje vykdoma reguliuojamoji veikla, toks asmuo privalo raštu pranešti licenciją, leidimą ar atestatą išduodančiai institucijai apie šiuos pasikeitimus ne vėliau kaip per 10 darbo dienų nuo pasikeitimų atsiradimo. Asmeniui, siekiančiam pakeisti išduotą energetikos veiklos leidimą ir pateikusiam deklaraciją, laikoma, kad leidimas pakeistas ar patikslintas kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos.
+8. Išduoti licencijos, leidimai ar atestatai gali būti keičiami juos išdavusios institucijos iniciatyva, kai pasikeičia įstatymų nustatyti reikalavimai, taikomi reguliuojamajai veiklai, arba asmens, turinčio licenciją, leidimą ar atestatą, iniciatyva, kai pasikeičia licencijoje, leidime ar atestate nurodyti asmens duomenys ar teritorija, kurioje vykdoma reguliuojamoji veikla. Pasikeitus licencijoje, leidime ar atestate nurodytiems asmens duomenims ar teritorijai, kurioje vykdoma reguliuojamoji veikla, toks asmuo privalo raštu pranešti licenciją, leidimą ar atestatą išdavusiai institucijai apie šiuos pasikeitimus ne vėliau kaip per 10 darbo dienų nuo pasikeitimų atsiradimo dienos. Asmeniui, siekiančiam pakeisti išduotą energetikos veiklos leidimą ir pateikusiam deklaraciją, laikoma, kad leidimas pakeistas ar patikslintas kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos. Atskirus energetikos sektorius reglamentuojančiuose įstatymuose gali būti nustatyti atvejai, kai leidimai negali būti keičiami pasikeitus teritorijai, kurioje vykdoma reguliuojamoji veikla.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1003, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07253
 
 9. Už licencijos, leidimo ar atestato išdavimą ar jų pakeitimą mokama Vyriausybės nustatyto dydžio valstybės rinkliava.
 
@@ -1830,6 +1834,8 @@ priedas
 Priedo pakeitimai:
 
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
+
+part_106b67804d59416da5c43f56c4d9b999_end
 
 Pakeitimai:
 
