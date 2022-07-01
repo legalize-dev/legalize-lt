@@ -4,7 +4,7 @@ identifier: "TAR.389CB90C666D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-15"
-last_updated: "2022-03-31"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "1. Įstatymo 51 straipsnis įsigalioja 2002 m. vas
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2022-03-31 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-07-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
 
@@ -81,11 +81,13 @@ GINKLų, GINKLŲ PRIEDĖLIŲ, ŠAUDMENų IR JŲ DALIŲ įSIgijimas IR TURĖJIMAS
 
 8. Moksliniam tyrimui, savo pagamintų ginklų, jų priedėlių, šaudmenų ir jų dalių išbandymui A, B, C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti Lietuvos Respublikoje įregistruoti juridiniai asmenys, gavę leidimą laikyti ginklus.
 
-9. Šaulio tarnybai A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, duslintuvus, naktinius taikiklius, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų šauliai, Lietuvos šaulių sąjungos vado nustatyta tvarka išlaikę egzaminą ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti profesinės karo tarnybos kariai, kariai savanoriai ar kiti savanoriškos nenuolatinės karo tarnybos kariai, turintys teisę tarnybos metu nešiotis šaunamąjį ginklą, pateikę specialiojo statuso subjekto pažymą, patvirtinančią, kad jie turi teisę tarnybos metu nešiotis šaunamąjį ginklą, ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Leidimas laikyti ginklus ir leidimas nešiotis ginklus taip pat suteikia teisę nešiotis savigynai B kategorijos trumpuosius šaunamuosius ginklus taip, kad kiti asmenys jų nematytų.
+9. Šaulio tarnybai A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 2, 6, 7, 8 ir 9 punktuose, duslintuvus, naktinius taikiklius, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų šauliai, Lietuvos šaulių sąjungos vado nustatyta tvarka išlaikę egzaminą ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 2, 6, 7, 8 ir 9 punktuose, duslintuvus, naktinius taikiklius, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti profesinės karo tarnybos kariai, kariai savanoriai ar kiti savanoriškos nenuolatinės karo tarnybos kariai, turintys teisę tarnybos metu nešiotis šaunamąjį ginklą, pateikę specialiojo statuso subjekto pažymą, patvirtinančią, kad jie turi teisę tarnybos metu nešiotis šaunamąjį ginklą, ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Leidimas laikyti ginklus ir leidimas nešiotis ginklus taip pat suteikia teisę nešiotis savigynai B kategorijos trumpuosius šaunamuosius ginklus taip, kad kiti asmenys jų nematytų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+
+Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
 
 10. D kategorijos ginklus, jų šaudmenis be leidimų gali įsigyti ir turėti juridiniai asmenys, kitos organizacijos ar jų padaliniai bei fiziniai asmenys nuo 18 metų, jais prekiaujančiam prekiautojui pateikę asmens tapatybę patvirtinančius dokumentus. Sportui D kategorijos pneumatinius ginklus, jų šaudmenis be leidimų gali įsigyti ir turėti fiziniai asmenys nuo 16 metų – šaudymo sporto organizacijų nariai, jais prekiaujančiam prekiautojui pateikę asmens tapatybę patvirtinančius dokumentus, sporto organizacijos tarpininkavimo raštą ir šios organizacijos nario pažymėjimą.
 
@@ -935,7 +937,7 @@ Ginklų, ginklų priedėlių, šaudmenų, jų dalių nuosavybės teisės subjekt
 
 58. Signalinis ginklas – šaunamasis ginklas, skirtas garso, šviesos signalui sukurti signaliniu pirotechnikos įtaisu ar signaliniais šaudmenimis.
 
-59. Specialiojo statuso subjektai – Lietuvos Respublikos specialiųjų tyrimų tarnyba, krašto apsaugos sistemos institucijos, Lietuvos Respublikos vidaus reikalų ministerija, Vyriausybės įgaliota institucija, kuriai suteiktos teisės ir pareigos, nustatytos šio įstatymo 451 straipsnyje, vidaus reikalų ministro valdymo srities statutinės įstaigos, Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos generalinė prokuratūra, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos šaulių sąjunga, jų padaliniai ir pavaldžios įstaigos, Lietuvos Respublikos muitinė (ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos muitinės įstatyme), taip pat Lietuvos Respublikos vadovybės apsaugos tarnyba.
+59. Specialiojo statuso subjektai – Lietuvos Respublikos specialiųjų tyrimų tarnyba, krašto apsaugos sistemos institucijos, Lietuvos Respublikos vidaus reikalų ministerija, Vyriausybės įgaliota institucija, kuriai suteiktos teisės ir pareigos, nustatytos šio įstatymo 451 straipsnyje, vidaus reikalų ministro valdymo srities statutinės įstaigos, Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos generalinė prokuratūra, teisingumo ministro valdymo srities statutinės įstaigos, Lietuvos šaulių sąjunga, jų padaliniai ir pavaldžios įstaigos, Lietuvos Respublikos muitinė (ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos muitinės įstatyme), taip pat Lietuvos Respublikos vadovybės apsaugos tarnyba.
 
 Straipsnio dalies pakeitimai:
 
@@ -944,6 +946,8 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 Nr. XIII-2908, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10905
 
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+
+Nr. XIV-883, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00174
 
 60. Sviedinys – šaudmens dalis (kulka, šratai, artilerijos sviedinys ar kita), strėlė, skirti taikiniui paveikti.
 
@@ -1051,7 +1055,11 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 8. Leidimas įsigyti ginklus galioja 6 mėnesius nuo leidimo įsigyti ginklus išdavimo dienos, tačiau ne ilgiau, negu galioja Europos Sąjungos valstybės narės kompetentingos institucijos išduotas išankstinis sutikimas dėl ginklų vežimo arba kitos užsienio valstybės, kurios piliečiai yra nenuolatiniai Lietuvos Respublikos gyventojai ar kurioje jie nuolat gyvena, išduotas kitas dokumentas, patvirtinantis teisę įvežti į užsienio valstybę ginklus ir (ar) šaudmenis. Neįsigijus ginklo ir (ar) šaudmenų iki leidimo įsigyti ginklus galiojimo termino pabaigos, dėl kito leidimo įsigyti ginklus gavimo galima kreiptis šiame straipsnyje nustatyta tvarka į policijos įstaigą. Leidimai įsigyti ginklus suteikia teisę įsigyti ginklų priedėlių, šaudmenų, jų dalių.
 
-9. Leidimas laikyti ginklus ir leidimas nešiotis ginklus galioja 5 metus ir gali būti teritorinės policijos įstaigos vadovo ar jo įgalioto asmens sprendimu pratęstas kas 5 metai 5 metų laikotarpiui. Šio straipsnio 10 dalyje nurodytas bendras leidimas laikyti (nešiotis) C kategorijos ginklus galioja neribotą laiką.
+9. Leidimas laikyti ginklus ir leidimas nešiotis ginklus galioja 5 metus ir gali būti teritorinės policijos įstaigos vadovo ar jo įgalioto asmens sprendimu pratęsiamas kas 5 metai 5 metų laikotarpiui. Leidimas laikyti ginklus ir leidimas nešiotis A kategorijos ginklus šaulio tarnybai ar profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti, išduotas asmeniui pirmą kartą, galioja 2 metus, o po to gali būti teritorinės policijos įstaigos vadovo ar jo įgalioto asmens sprendimu pratęsiamas kas 5 metai 5 metų laikotarpiui. Šio straipsnio 10 dalyje nurodytas bendras leidimas laikyti (nešiotis) C kategorijos ginklus galioja neribotą laiką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
 
 10. Leidimai įsigyti ginklus, leidimai laikyti ir leidimai nešiotis A, B, C kategorijų ginklus asmenims išduodami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Fiziniams asmenims gali būti išduodamas vienas bendras leidimas laikyti (nešiotis) ginklus. Šiame leidime nurodoma, kokius ginklus asmuo gali laikyti, kokius – nešiotis. Fiziniams asmenims gali būti išduodamas vienas bendras neterminuotas leidimas laikyti (nešiotis) C kategorijos ginklus. Išduodant šioje dalyje nurodytus leidimus, ginklų identifikaciniai duomenys (ginklo šalis gamintoja ir gamybos vieta, markė, modelis, kalibras, gamintojo pavadinimas, pagaminimo metai ir identifikacinis numeris) į šiuos leidimus neįrašomi.
 
@@ -1105,17 +1113,13 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 17 straipsnis. Teisės įsigyti ir turėti ginklus ir šaudmenis apribojimai
 
-1. Šio įstatymo 3 straipsnio 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų negali įsigyti ir turėti fizinis asmuo:
+1. Šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų negali įsigyti ir turėti fizinis asmuo:
 
 1) jaunesnis, negu šio įstatymo nustatyto amžiaus;
 
 2) nesantis nepriekaištingos reputacijos;
 
-3) nepateikęs sveikatos patikrinimo išvados, patvirtinančios, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+3) nepateikęs sveikatos patikrinimo išvados, patvirtinančios, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo. Išvados išdavimo data jos pateikimo dieną turi būti ne vėlesnė negu 3 mėnesiai;
 
 4) nenurodęs gyvenamosios vietos;
 
@@ -1132,6 +1136,10 @@ Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 10) apie kurį policijos įstaiga turi duomenų, kad jis gali kelti arba kelia grėsmę kitų asmenų ar savo gyvybei ar sveikatai, nuosavybei, viešajai tvarkai ar visuomenės saugumui. Šiuo atveju policijos įstaiga nurodo atsisakymo išduoti leidimą laikyti ginklus, leidimą nešiotis ginklus ar sprendimo panaikinti šių leidimų galiojimą motyvus;
 
 11) apie kurį Valstybės saugumo departamentas turi duomenų, kad jis gali kelti arba kelia grėsmę valstybės saugumui. Šiuos duomenis Valstybės saugumo departamentas perduoda policijos įstaigai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
 
 2. Ligų ir fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo, sąrašą nustato sveikatos apsaugos ministras.
 
