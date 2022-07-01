@@ -4,7 +4,7 @@ identifier: "TAR.58398896D322"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-22"
-last_updated: "2020-07-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.58398896D322"
 department: "Lietuvos Respublikos Seimas"
@@ -18,17 +18,9 @@ entry_into_force_conditions: "34 str. 1 dalis įsigalioja 2012-01-06"
 
 LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-07-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 4-108, i. k. 1111010ISTA0XI-1860
-
-TAR pastaba. Iki 2020 m. birželio 30 d. lygtinai paleistiems iš pataisos įstaigų nuteistiesiems probacija vykdoma pagal teismo nutartyje, kuria taikytas lygtinis paleidimas iš pataisos įstaigos, nustatytas probacijos sąlygas, o Lietuvos Respublikos probacijos įstatymo 15 straipsnio nuostatos netaikomos. Iki 2020 m. birželio 30 d. pradėta vykdyti intensyvi probuojamojo priežiūra – probuojamojo buvimo vietos pagal nustatytą probuojamojo dienotvarkę kontrolė elektroninėmis stebėjimo priemonėmis – po įstatymo Nr. XIII-2266 1 straipsnio įsigaliojimo (2020-07-01) tęsiama tol, kol bus pakeista kitomis probacijos sąlygomis ar jos vykdymas pasibaigs Probacijos įstatymo 28, 29 ar 30 straipsnyje nustatyta tvarka.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2266, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11184
-
-Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas
 
 Nauja redakcija nuo 2020-07-01:
 
@@ -104,7 +96,11 @@ BENDROSIOS NUOSTATOS
 
 5 straipsnis. Probaciją vykdanti institucija
 
-Probaciją vykdo probacijos tarnyba. Ši tarnyba turi ir kitų įstatymų nustatytų įgaliojimų.
+Probaciją vykdo probacijos tarnyba.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 II SKYRIUS
 
@@ -118,7 +114,11 @@ BENDRADARBIAVIMAS SU VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJOMIS, ĮSTAIGOMIS, OR
 
 3. Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas), laisvės atėmimo vietų įstaigos ir probacijos tarnyba kartu vertina resocializacijos priemonių nuteistiesiems, atliekantiems arešto ir laisvės atėmimo bausmes, veiksmingumą.
 
-4. Laisvės atėmimo vietų įstaigos, rengdamos nuteistuosius lygtinai paleisti iš pataisos įstaigų, savarankiškai ar kartu su probacijos tarnyba vykdo resocializacijos priemones, padedančias užtikrinti sėkmingą nuteistųjų resocializaciją, teikia probuotojams informaciją apie rengiamus lygtinai paleisti iš pataisos įstaigų nuteistuosius, jiems taikytas resocializacijos priemones, atliktą rizikos vertinimą ir kitą informaciją, Kalėjimų departamento nustatyta tvarka kartu su probacijos tarnyba rengia socialinio tyrimo išvadas dėl nuteistųjų, kuriuos rengiamasi lygtinai paleisti iš pataisos įstaigų.
+4. Laisvės atėmimo vietų įstaigos, rengdamos nuteistuosius lygtinai paleisti iš pataisos įstaigų, savarankiškai ar kartu su probacijos tarnyba vykdo nuteistųjų resocializacijos priemones, teikia probuotojams informaciją apie rengiamus lygtinai paleisti iš pataisos įstaigų nuteistuosius, jiems taikytas resocializacijos priemones, atliktą rizikos vertinimą ir kitą informaciją, Kalėjimų departamento direktoriaus ir probacijos tarnybos direktoriaus nustatyta tvarka kartu su probacijos tarnyba rengia socialinio tyrimo išvadas dėl nuteistųjų, kuriuos rengiamasi lygtinai paleisti iš pataisos įstaigų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 5. Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) probuojamiesiems sudaro individualius užimtumo veiklos planus, numato užimtumo rėmimo priemones, sudarančias palankias probuojamųjų integracijos į darbo rinką sąlygas.
 
@@ -150,31 +150,29 @@ SOCIALINIO TYRIMO IŠVADŲ RENGIMAS. RIZIKOS VERTINIMAS
 
 1. Probacijos tarnyba rengia socialinio tyrimo išvadas Lietuvos Respublikos baudžiamojo proceso kodekso nustatytais pagrindais.
 
-2. Socialinio tyrimo išvados formą tvirtina Lietuvos Respublikos teisingumo ministras.
+2. Socialinio tyrimo išvados formą ir jos rengimo metodines rekomendacijas tvirtina probacijos tarnybos direktorius ir Kalėjimų departamento direktorius.
 
-9 straipsnis. Socialinio tyrimo išvados turinys
+Straipsnio dalies pakeitimai:
 
-1. Socialinio tyrimo išvadoje apibūdinama:
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
-1) kaltinamasis (nuteistasis) ir jo socialinė aplinka;
+9 straipsnis. Neteko galios nuo 2022-07-01
 
-2) rizikos vertinimo rezultatai ir kriminogeniniai veiksniai;
+Straipsnio naikinimas:
 
-3) nuteistajam taikytos socialinės reabilitacijos priemonės ir jų įgyvendinimo rezultatai, kai socialinio tyrimo išvada rengiama dėl asmens, teikiamo lygtinai paleisti iš pataisos įstaigos;
-
-4) kiti reikšmingi duomenys;
-
-5) motyvuota nuomonė dėl probacijos sąlygų kaltinamajam individualizavimo.
-
-2. Socialinio tyrimo išvados rengimo metodines rekomendacijas tvirtina teisingumo ministras.
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 10 straipsnis. Rizikos vertinimas
 
-1. Rizika vertinama rengiant socialinio tyrimo išvadą ar kitais būtinais atvejais.
+1. Rizika vertinama rengiant socialinio tyrimo išvadą ar kitais probacijos tarnybos direktoriaus nustatytais atvejais.
 
 2. Rizikos vertinimo rezultatai gali būti naudojami sprendžiant dėl probacijos skyrimo tikslingumo, nustatant arba keičiant probacijos sąlygas ar sudarant arba keičiant individualų probuojamojo priežiūros planą ir kitais būtinais atvejais.
 
-3. Rizika vertinama vadovaujantis Kalėjimų departamento direktoriaus aprobuotomis metodikomis ir programomis.
+3. Rizika vertinama vadovaujantis probacijos tarnybos direktoriaus ir (ar) Kalėjimų departamento direktoriaus aprobuotomis metodikomis ir programomis.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 IV SKYRIUS
 
@@ -280,7 +278,11 @@ Probuojamieji privalo:
 
 6) sudaryti ir nutraukti sutartis su darbdaviais, pas kuriuos probuojamasis atlieka nemokamus darbus ar nemokamus auklėjamojo pobūdžio darbus, taip pat lankytis šių darbų atlikimo vietose;
 
-7) Kalėjimų departamento direktoriaus nustatyta tvarka probuojamųjų elgesio kontrolei naudoti elektroninio stebėjimo ir specialiąsias technines priemones.
+7) probuojamųjų elgesio kontrolei vykdyti naudoti elektroninio stebėjimo ir specialiąsias technines priemones.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 2. Probuotojai privalo:
 
@@ -296,6 +298,12 @@ Probuojamieji privalo:
 
 4. Pradedant vykdyti priežiūrą, probuojamasis informuojamas apie jo teisinę padėtį ir probacijos sąlygų keitimo pagrindus, taip pat teisines pasekmes už vengimą vykdyti probacijos sąlygas.
 
+5. Elektroninio stebėjimo priemonių naudojimo ir probuojamųjų stebėjimo šiomis priemonėmis tvarką nustato probacijos tarnybos direktorius ir Kalėjimų departamento direktorius, o specialiųjų techninių priemonių naudojimo tvarką – probacijos tarnybos direktorius.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
+
 V SKYRIUS
 
 PROBUOJAMOJO PRIEŽIŪROS PLANAVIMAS IR VYKDYMAS
@@ -306,27 +314,21 @@ PROBUOJAMOJO PRIEŽIŪROS PLANAVIMAS IR VYKDYMAS
 
 2. Individualus probuojamojo priežiūros planas sudaromas atsižvelgiant į šio įstatymo nustatytas ir teismo paskirtas probacijos sąlygas, probuojamojo rizikos lygį, kriminogeninius veiksnius. Nepilnamečiams probuojamiesiems individualus priežiūros planas sudaromas atsižvelgiant ir į jų socialinę brandą, asmenybės ugdymo poreikius. Lygtinai paleistiems iš pataisos įstaigų nuteistiesiems sudarant individualų priežiūros planą, taip pat atsižvelgiama į jų elgesį atliekant laisvės atėmimo bausmę ir šios bausmės atlikimo metu jiems taikytas socialinės reabilitacijos priemones ir jų įgyvendinimo rezultatus.
 
-3. Individualiame probuojamojo priežiūros plane turi būti nustatyta:
+3. Neteko galios nuo 2022-07-01
 
-1) probuojamojo resocializacijos ilgalaikiai tikslai, priemonės ir jų įgyvendinimo terminai;
+Straipsnio dalies naikinimas:
 
-2) priemonės, padėsiančios probuojamajam įvykdyti probacijos sąlygas, ir jų įgyvendinimo terminai;
-
-3) probuojamojo elgesio kontrolės priemonės ir jų vykdymo intensyvumas;
-
-4) valstybės ir savivaldybių institucijos ir įstaigos, asociacijos, religinės bendruomenės ir bendrijos, kiti juridiniai asmenys, taip pat savanoriai, vykdantys probuojamojo resocializaciją;
-
-5) nepilnamečio probuojamojo atstovų pagal įstatymą dalyvavimo vykdant probaciją formos;
-
-6) probuojamojo atsiskaitymo apie įvykdytas probacijos sąlygas periodiškumas;
-
-7) kitos priemonės, kurių įgyvendinimas padėtų probuojamajam socialiai integruotis.
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 4. Individualus probuojamojo priežiūros planas lygtinai paleistiems iš pataisos įstaigų nuteistiesiems turi būti sudarytas iki jų lygtinio paleidimo iš pataisos įstaigų, o kitiems probuojamiesiems – ne vėliau kaip per dešimt darbo dienų nuo priežiūros vykdymo bylos pradžios dienos. Individualus probuojamojo priežiūros planas gali būti nesudaromas, kai probacijos terminas yra ne ilgesnis kaip du mėnesiai, o nepilnamečiams probuojamiesiems ir lygtinai paleistiems iš pataisos įstaigų nuteistiesiems – ne ilgesnis kaip vienas mėnuo. Kai planas nesudaromas, probuojamasis supažindinamas su probacijos vykdymo tvarka ir sąlygomis, jo teisėmis ir pareigomis ir vykdomos šio įstatymo 19 straipsnyje nustatytos trumpalaikės probuojamojo resocializacijos priemonės. Individualus probuojamojo priežiūros planas gali būti tikslinamas atsižvelgiant į šio straipsnio 2 dalyje nustatytas aplinkybes.
 
 5. Probuojamasis su individualiu probuojamojo priežiūros planu, išskyrus šiame plane nustatytą elgesio kontrolės priemonių vykdymo intensyvumą, supažindinamas pasirašytinai. Su individualiu nepilnamečio probuojamojo priežiūros planu, išskyrus šiame plane nustatytą elgesio kontrolės priemonių vykdymo intensyvumą, pasirašytinai supažindinami ir nepilnamečio probuojamojo atstovai pagal įstatymą.
 
-6. Individualaus probuojamojo priežiūros plano forma ir rengimo metodika nustatyta teisingumo ministro tvirtinamame Probacijos vykdymo tvarkos apraše.
+6. Individualaus probuojamojo priežiūros plano formą ir jo rengimo metodines rekomendacijas tvirtina probacijos tarnybos direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 19 straipsnis. Probuojamojo resocializacijos priemonės
 
@@ -368,7 +370,11 @@ Probuotojai padeda probuojamiesiems spręsti asmenines ir socialines problemas:
 
 21 straipsnis. Elgesio pataisos programų įgyvendinimas
 
-1. Probuotojas, atsižvelgdamas į probuojamojo kriminogeninius veiksnius ir riziką, nustato individualias socialinės pagalbos kryptis ir įgyvendina Kalėjimų departamento direktoriaus aprobuotas elgesio pataisos programas.
+1. Probuotojas, atsižvelgdamas į probuojamojo kriminogeninius veiksnius ir riziką, nustato individualias socialinės pagalbos kryptis ir įgyvendina probacijos tarnybos direktoriaus ir (ar) Kalėjimų departamento direktoriaus aprobuotas elgesio pataisos programas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 2. Nepilnamečiams probuojamiesiems turi būti taikomos specialios elgesio pataisos programos, atitinkančios jų amžių, socialinę brandą, ugdymo poreikius.
 
@@ -388,11 +394,21 @@ Probuotojai padeda probuojamiesiems spręsti asmenines ir socialines problemas:
 
 6) kitos įstatymuose nustatytos priemonės.
 
-2. Elektroninio stebėjimo ir specialiosiomis techninėmis priemonėmis galima stebėti ir tikrinti ir kitų, negu nurodyta šio straipsnio 1 dalies 4 ir 5 punktuose, probacijos sąlygų vykdymą, jeigu taip būtų užtikrinta efektyvesnė probuojamųjų elgesio kontrolė. Elektroninio stebėjimo ir specialiųjų techninių priemonių naudojimo tvarką ir sąlygas nustato Kalėjimų departamento direktorius.
+2. Elektroninio stebėjimo ir specialiosiomis techninėmis priemonėmis galima stebėti ir tikrinti ne tik šio straipsnio 1 dalies 4 ir 5 punktuose nurodytų probacijos sąlygų vykdymą, jeigu taip būtų užtikrinta efektyvesnė probuojamųjų elgesio kontrolė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 3. Probuojamieji, kurių probacijos sąlygų vykdymas stebimas elektroninio stebėjimo priemonėmis, turi laikytis šio įstatymo 26 straipsnio 1, 4, 5 ir 6 punktuose nustatytų pareigų ir šio įstatymo 27 straipsnio 1 punkte nustatyto draudimo.
 
 4. Probuojamojo atsisakymas arba nesutikimas, kad jam nustatytų pareigų ir draudimų vykdymas būtų kontroliuojamas elektroninio stebėjimo priemonėmis ir specialiosiomis techninėmis priemonėmis, taip pat tokių priemonių tyčinis sugadinimas prilyginamas vengimui vykdyti probacijos sąlygas.
+
+5. Probuojamųjų elgesio kontrolės tvarką nustato probacijos tarnybos direktorius.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 23 straipsnis. Probuojamojo priežiūros vykdymo sustabdymas
 
@@ -422,7 +438,11 @@ INTENSYVI PRIEŽIŪRA
 
 3. Elektroninio stebėjimo įtaisas nuo nuteistojo nuimamas paskutinę intensyvios priežiūros vykdymo dieną.
 
-4. Intensyvios priežiūros sąlygų laikymosi kontrolės taisykles tvirtina Kalėjimų departamento direktorius.
+4. Neteko galios nuo 2022-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 26 straipsnis. Probuojamojo, kuriam vykdoma intensyvi priežiūra, specialiosios pareigos
 
@@ -450,7 +470,11 @@ Probuojamajam, kuriam paskirta intensyvi priežiūra, draudžiama:
 
 28 straipsnis. Intensyvios priežiūros vykdymo terminas
 
-1. Intensyvi probuojamojo priežiūra vykdoma tris mėnesius, išskyrus probuojamuosius, kuriems arešto bausmės vykdymas atidėtas. Atsižvelgusi į probuojamojo rizikos lygį ir elgesį probacijos vykdymo metu, probacijos tarnyba gali pratęsti probuojamojo intensyvios priežiūros vykdymą trims mėnesiams, tačiau bendras vykdomos probuojamojo intensyvios priežiūros terminas negali būti ilgesnis už bausmės vykdymo atidėjimo ar likusios neatliktos bausmės laiką.
+1. Intensyvi probuojamojo priežiūra vykdoma tris mėnesius, išskyrus probuojamuosius, kuriems arešto bausmės vykdymas atidėtas. Atsižvelgęs į probuojamojo rizikos lygį ir elgesį probacijos vykdymo metu, probacijos tarnybos direktorius arba jo įgaliotas probuotojas gali pratęsti jo intensyvios priežiūros vykdymą trims mėnesiams, tačiau bendras probuojamojo intensyvios priežiūros terminas negali būti ilgesnis už bausmės vykdymo atidėjimo ar likusios neatliktos bausmės laiką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 2. Probuojamųjų, kuriems arešto bausmės vykdymas atidėtas, intensyvi priežiūra vykdoma visą bausmės vykdymo atidėjimo laiką.
 
@@ -506,15 +530,27 @@ PROBACIJOS VYKDYMO TEISĖTUMO PRIEŽIŪRA
 
 32 straipsnis. Probacijos vykdymo teisėtumo priežiūra
 
-Probacijos tarnybos ir probuotojų veiklos vykdant probaciją priežiūrą atlieka Lietuvos Respublikos teismai, prokurorai, Lietuvos Respublikos Seimo kontrolieriai, lygių galimybių kontrolierius, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius, Lietuvos Respublikos teisingumo ministerija, Kalėjimų departamentas ir kitos valstybės institucijos pagal Lietuvos Respublikos įstatymus.
+Probacijos tarnybos ir probuotojų veiklos vykdant probaciją priežiūrą atlieka Lietuvos Respublikos teismai, prokurorai, Lietuvos Respublikos Seimo kontrolieriai, lygių galimybių kontrolierius, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius, Lietuvos Respublikos teisingumo ministerija ir kitos valstybės institucijos pagal Lietuvos Respublikos įstatymus.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 33 straipsnis. Probacijos tarnybos ir probuotojų veiksmų ir sprendimų apskundimas
 
 1. Probuotojų veiksmai ir sprendimai skundžiami probacijos tarnybos direktoriui. Šis skundą turi išnagrinėti ne vėliau kaip per dvidešimt darbo dienų nuo skundo gavimo probacijos tarnyboje dienos, o kai dėl skundo atliekamas tarnybinis tyrimas, – per dešimt darbo dienų nuo tarnybinio tyrimo baigimo dienos.
 
-2. Probacijos tarnybos direktoriaus veiksmai ir sprendimai gali būti skundžiami Kalėjimų departamento direktoriui, o veiksmai ir sprendimai, susiję su nuosprendžio ar nutarties vykdymo teisiniais santykiais, – apylinkės teismui Baudžiamojo proceso kodekso nustatyta tvarka. Kalėjimų departamento direktorius skundą turi išnagrinėti ne vėliau kaip per dvidešimt darbo dienų nuo skundo gavimo dienos, o kai dėl skundo atliekamas tarnybinis tyrimas, – per dešimt darbo dienų nuo tyrimo baigimo dienos.
+2. Probacijos tarnybos direktoriaus veiksmai ir sprendimai gali būti skundžiami apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, o veiksmai ir sprendimai, susiję su nuosprendžio ar nutarties vykdymo teisiniais santykiais, – apylinkės teismui Baudžiamojo proceso kodekso nustatyta tvarka.
 
-3. Kalėjimų departamento direktoriaus veiksmai ir sprendimai gali būti skundžiami apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
+
+3. Neteko galios nuo 2022-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 4. Lietuvos Respublikos įstatymų nustatytais atvejais ir tvarka probacijos tarnybos ir probuotojų veiksmai ir sprendimai gali būti skundžiami Seimo kontrolieriams, lygių galimybių kontrolieriui, vaiko teisių apsaugos kontrolieriui ir (ar) kitoms įgaliotoms valstybės institucijoms.
 
@@ -571,6 +607,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2266, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11184
 
 Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
+
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 5, 6, 8, 10, 17, 18, 21, 22, 25, 28, 32, 33 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas
 
 34 straipsnis. Įstatymo įgyvendinimas
 
