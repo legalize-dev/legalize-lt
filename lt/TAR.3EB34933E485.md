@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2022-04-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2022-04-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-10-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -2055,11 +2055,15 @@ MOKESTINIS PATIKRINIMAS
 
 4. Šio straipsnio 3 dalis netaikoma su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimams, teisės aktams, kurie derinami su Europos Sąjungos teisės aktų nuostatomis, Lietuvos Respublikos mokesčių įstatymams, reikalingiems susidarius išskirtinėms aplinkybėms, kaip jos apibrėžtos Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, taip pat kai šie įstatymai reikalingi nepaprastosios padėties įvedimo tikslams pasiekti ar valstybės gynybai, kitoms gyvybiškai svarbioms valstybės funkcijoms mobilizacijos ar karo padėties metu atlikti.
 
+TAR pastaba. Lietuvos Respublikos mokesčių administravimo įstatymo 3 straipsnio 4 dalies (2020 m. birželio 30 d. redakcija, TAR, 2020-07-16, Nr. 15875) nuostata „su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimams“ prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3086, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14361
 
 Nr. XIII-3238, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15875
+
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
 
 5. Visi Lietuvos Respublikos mokesčių teisės aktų prieštaravimai ar neaiškumai aiškinami mokesčių mokėtojo naudai.
 
@@ -3153,7 +3157,7 @@ Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
 
 Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
 
-part_a52b3e127b4d49b0af8fbdc0ae3b7cd1_end
+part_8ec6441924534e5692c5ab73afb94ac4_end
 
 Pakeitimai:
 
