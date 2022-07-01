@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2022-05-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 
@@ -1655,6 +1655,14 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 1, 2, 3, 9-1, 10, 11, 12, 14, 25, 26 straipsnių ir II skyriaus pavadinimo, II skyriaus pirmojo skirsnio pavadinimo, IV skyriaus pavadinimo pakeitimo įstatymas
 
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-909, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01408
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 9-2 straipsnio pakeitimo įstatymas
+
 91 straipsnis. Tabako gaminių gamybos, neapdoroto tabako ir tabako gaminių realizavimo ataskaitos
 
 1. Tabako gaminių gamintojai kas ketvirtį iki kito ketvirčio pirmojo mėnesio 10 dienos Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui tabako gaminių gamybos ir realizavimo per ketvirtį ataskaitą.
@@ -1941,7 +1949,7 @@ Nr. XII-1917, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11095
 
 3. Gaminant skystį naudojamos tik labai grynos sudedamosios dalys. Kitų medžiagų negu gaminio (pagal gaminio prekių ženklą ir rūšį) sudedamųjų dalių ir jį vartojant susidarančių išsiskiriančių medžiagų skystyje gali būti tik toks kiekis, kurio technologiškai negalima išvengti gamybos metu.
 
-4. Draudžiama pateikti rinkai elektronines cigaretes ir elektroninių cigarečių pildykles, jeigu skystyje yra šių priedų:
+4. Draudžiama pateikti rinkai elektronines cigaretes ir elektroninių cigarečių pildykles su skysčiu, pritaikytu elektroninėms cigaretėms pildyti, jeigu šiame skystyje yra šių priedų:
 
 1) vitaminų arba kitų priedų, kurie sudaro įspūdį, kad elektroninės cigaretės ir elektroninių cigarečių pildyklės yra naudingos ar mažiau kenksmingos sveikatai;
 
@@ -1949,7 +1957,13 @@ Nr. XII-1917, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11095
 
 3) priedų, nudažančių išsiskiriančias medžiagas;
 
-4) priedų, kurie nesudeginto pavidalo turi KMR savybių.
+4) priedų, kurie nesudeginto pavidalo turi KMR savybių;
+
+5) kvapiųjų medžiagų, išskyrus tabako kvapą ir (ar) skonį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-909, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01408
 
 Straipsnio pakeitimai:
 
