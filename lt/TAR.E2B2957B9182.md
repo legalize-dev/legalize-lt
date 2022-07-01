@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2022-05-26"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-05-26 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-14
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -498,7 +498,11 @@ Nr. XI-766, 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
 
 III SKYRIUS
 
-LIETUVOS RESPUBLIKOS ELEKTRONINĖ SVEIKATOS SISTEMA
+SVEIKATOS DUOMENŲ TVARKYMAS ELEKTRONINĖMIS PRIEMONĖMIS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. XIV-790, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27366
 
 14 straipsnis. Sveikatinimo veiklos turinys
 
@@ -2304,6 +2308,8 @@ Priedo pakeitimai:
 
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
+part_ef9aa9f631c243b684ea96077b9f0d70_end
+
 Pakeitimai:
 
 1.
@@ -2889,6 +2895,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, 75 straipsnių ir priedo pakeitimo įstatymas
+
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-790, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27366
+
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 I dalies III skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas
+
+32.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1060, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09669
+
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, 75 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymo Nr. XIII-2754 5, 10 ir 14 straipsnių pakeitimo įstatymas
 
 ir trečioji dalys, 94, 95 straipsniai, 96 straipsnis, 98  straipsnio antroji ir
 
@@ -5566,6 +5588,14 @@ Straipsnio pakeitimai:
 
 Nr. XI-1432, 2011-06-07, Žin., 2011, Nr. 74-3541 (2011-06-18)
 
+132 straipsnis. Pakartotinis sveikatos duomenų, tvarkomų elektroninėmis priemonėmis, naudojimas
+
+Sveikatos duomenys, tvarkomi elektroninėmis priemonėmis, Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatyme nurodytose srityse ir nustatytomis sąlygomis bei tvarka gali būti naudojami pakartotinai.
+
+Papildyta straipsniu:
+
+Nr. XIV-790, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27366
+
 II DALIS
 
 SVEIKATINIMO VEIKLA
@@ -5573,138 +5603,6 @@ SVEIKATINIMO VEIKLA
 I SKYRIUS
 
 BENDROSIOS NUOSTATOS
-
-132 straipsnis.
-
-Gyventojų teisės sveikatinimo veikloje
-
-Lietuvos
-
-Respublikos gyventojai turi teisę:
-
-1) turėti
-
-sveiką, saugią  fizinę ir  socialinę aplinką  bei
-
-informaciją apie
-
-pavojų sveikatai šioje aplinkoje;
-
-2) turėti
-
-sveikatai saugias  vartojimui  skirtas  žaliavas,
-
-gaminius, prekes ir
-
-paslaugas;
-
-3) turėti
-
-informaciją apie sveikatos priežiūros įstaigas ir
-
-tarnybas bei jų teikiamas
-
-sveikatos priežiūros paslaugas;
-
-4) gauti
-
-informaciją apie  savo sveikatą  ir garantijas dėl
-
-šios informacijos
-
-konfidencialumo;
-
-5)  turėti
-
-priimtiną,  prieinamą   ir  tinkamą   sveikatos
-
-priežiūrą;
-
-6)
-
-pasirinkti   nustatyta   tvarka   sveikatos   priežiūros
-
-specialistą,
-
-sveikatos  priežiūros įstaigą,  sveikatos priežiūros
-
-rūšį arba jų
-
-atsisakyti, jeigu įstatymuose nenumatyta kitaip;
-
-7) turėti
-
-nemokamą sveikatos  priežiūrą (valstybės  remiamą
-
-sveikatos
-
-priežiūrą);
-
-8) gauti
-
-valstybės nustatytą  paramą saugant,  atgaunant ir
-
-stiprinant sveikatą;
-
-9)  dalyvauti
-
-šio  įstatymo   nustatyta  tvarka  nustatant
-
-sveikatos
-
-priežiūros    plėtojimo    prioritetines    kryptis,
-
-kontroliuojant
-
-sveikatos priežiūros prieinamumą ir tinkamumą.
-
-Nepilnamečio
-
-ar  neveiksnaus asmens tėvai, įtėviai, globėjai
-
-ar rūpintojai  turi
-
-teisę savo vaikams, įvaikiams ar globotiniams
-
-parinkti sveikatos
-
-priežiūros specialistą,  sveikatos priežiūros
-
-įstaigą,  sveikatos
-
-priežiūros  rūšį  ar  atsisakyti  jų,  jeigu
-
-įstatymuose
-
-nenumatyta kitaip.
-
-Teisę turėti
-
-nemokamą sveikatos priežiūrą (valstybės remiamą
-
-asmens  ir
-
-visuomenės  sveikatos  priežiūrą  bei  paslaugas  ir
-
-patarnavimus),
-
-valstybės  nustatytą paramą  saugant, atgaunant ir
-
-stiprinant sveikatą
-
-turi tik  Lietuvos Respublikos  piliečiai ir
-
-asmenys be
-
-pilietybės, nuolat gyvenantys Lietuvoje.
-
-Užsieniečių
-
-asmens  sveikatos priežiūros  tvarka ir  sąlygos
-
-apibrėžiamos
-
-Lietuvos Respublikos tarptautinėmis sutartimis.
 
 133 straipsnis.
 
@@ -6746,11 +6644,7 @@ Nr. XIV-792, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27368
 
 14. Sustabdžius medicinos priemonių registracijos galiojimą šio straipsnio 8 dalies 2 ar 3 punkte nurodytais pagrindais arba panaikinus medicinos priemonių registracijos galiojimą šio straipsnio 12 dalies 3 ar 4 punkte nurodytais pagrindais, atsižvelgiant į nustatyto pažeidimo pobūdį pagal šio įstatymo 596 straipsnio 2 dalį, kartu taikomos šio įstatymo 596 straipsnio 1 dalies 2 ir (arba) 3 punktuose nurodytos poveikio priemonės.
 
-Straipsnio pakeitimai:
-
-Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
-
-Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
+TAR pastaba. 591 straipsnio žemiau išdėstyta redakcija pagal įstatymą Nr. XIV-1060.
 
 592 straipsnis. Medicinos priemonių naudojimas ir techninės būklės tikrinimas
 
@@ -7022,11 +6916,7 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 6. Medicinos priemonių rinkos subjektai turi teisę gauti iš sveikatos apsaugos ministro įgaliotos institucijos informaciją apie jų medicinos priemonių įregistravimą, reikalavimų neatitinkančių medicinos priemonių registracijos galiojimo sustabdymą, medicinos priemonių registracijos galiojimo sustabdymo panaikinimą ar medicinos priemonių registracijos galiojimo panaikinimą, medicinos priemonių pateikimo rinkai, tiekimo, naudojimo sustabdymą, medicinos priemonių pašalinimą iš rinkos, medicinos priemonių atšaukimą iš rinkos, jeigu tai neprieštarauja komercinės paslapties neviešinimo ir asmens duomenų apsaugos principams.
 
-Straipsnio pakeitimai:
-
-Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
-
-Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
+TAR pastaba. 595 straipsnio žemiau išdėstyta redakcija pagal įstatymą Nr. XIV-1060.
 
 596 straipsnis. Poveikio priemonės ir jų taikymas
 
