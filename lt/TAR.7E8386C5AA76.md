@@ -4,7 +4,7 @@ identifier: "TAR.7E8386C5AA76"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2022-03-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2022-03-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
 
@@ -194,7 +194,7 @@ NACIONALINĖS REGIONINĖS POLITIKOS TIKSLAS, UŽDAVINIAI, PLANAVIMAS IR ĮGYVEND
 
 11) apibendrina ir teikia regiono plėtros tarybai svarstyti valstybės ir savivaldybių institucijų ir įstaigų pasiūlymus dėl projektų įtraukimo į regiono plėtros tarybos Lietuvos Respublikos vidaus reikalų ministro nustatyta tvarka sudaromus ir tvirtinamus siūlomų finansuoti projektų sąrašus;
 
-TAR pastaba. 10 straipsnio 1 dalies 11 punktas įsigalioja 2022 m. liepos 1 d. ir galioja iki 2023 m. gruodžio 31 d.
+TAR pastaba. 10 straipsnio 1 dalies 11 punktas galioja iki 2023 m. gruodžio 31 d.
 
 12) atlieka kitas šiame ir kituose įstatymuose, Lietuvos Respublikos Seimo ir Vyriausybės nutarimuose nustatytas funkcijas, susijusias su nacionalinės regioninės politikos formavimu, įgyvendinimo organizavimu, koordinavimu ir kontrole.
 
@@ -330,13 +330,15 @@ III SKYRIUS
 
 NACIONALINĘ REGIONINĘ POLITIKĄ FORMUOJANTYS IR ĮGYVENDINANTYS SUBJEKTAI IR JŲ ĮGALIOJIMAI
 
-15 straipsnis. Vyriausybės įgaliotos įstaigos prie Vidaus reikalų ministerijos įgaliojimai
+15 straipsnis. Neteko galios nuo 2022-07-01
 
-Vyriausybės įgaliota įstaiga prie Vidaus reikalų ministerijos:
+Straipsnio naikinimas:
 
-1) apibendrina ir teikia regiono plėtros tarybai svarstyti valstybės ir savivaldybių institucijų pasiūlymus dėl projektų įtraukimo į regiono plėtros tarybos vidaus reikalų ministro nustatyta tvarka sudaromus ir tvirtinamus siūlomų finansuoti projektų sąrašus;
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
-2) atlieka kitas teisės aktuose nustatytas funkcijas.
+IV SKYRIUS
+
+REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PABAIGA
 
 16 straipsnis. Regiono plėtros tarybos statusas, veiklos pagrindai ir ribojimai
 
@@ -659,8 +661,6 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 5. Kolegijos narys turi teisę atsisakyti atlyginimo už darbą kolegijoje, kolegijos darbo reglamente nustatyta tvarka pateikdamas regiono plėtros tarybos administracijos direktoriui prašymą dėl kolegijos nario pareigų atlikimo neatlygintinai (tai yra visuomeniniais pagrindais). Tokį prašymą pateikusiam kolegijos nariui atlyginimas neskaičiuojamas ir nemokamas, taip pat neskaičiuojami ir nemokami teisės aktų nustatyti privalomi mokesčiai, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokos.
 
 6. Kolegijos nariui regiono plėtros taryba apmoka komandiruotės išlaidas, kai kolegijos narys už savivaldybės, kurios meras ar savivaldybės tarybos narys jis yra, ribų atlieka šio įstatymo 24 straipsnio 2 dalies 4 punkte nustatytą kolegijos pirmininko pareigą, kolegijos sprendimu atstovauja regiono plėtros tarybai ar kolegijos sprendimu dalyvauja veikloje, skirtoje kolegijos nario pareigoms atlikti reikalingai kolegijos nario kvalifikacijai tobulinti. Kolegijos nario komandiruotės išlaidos, neatsiejamai susijusios su šio įstatymo 12 straipsnio 3 dalies 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu ar su kolegijos nario dalyvavimu jo kvalifikacijai tobulinti skirtoje veikloje, apmokamos iš Vidaus reikalų ministerijai regionų plėtros tarybų veiklai skiriamų valstybės biudžeto asignavimų, kitos kolegijos nario komandiruotės išlaidos – iš šio įstatymo 28 straipsnio 3 dalyje nurodytų regiono plėtros tarybos lėšų. Kolegijos nariams komandiruotės išlaidos apmokamos Vyriausybės nustatyta tvarka.
-
-TAR pastaba. 25 straipsnio 6 dalis įsigalioja 2022 m. kovo 1 d.
 
 7. Kolegijos narys atleidžiamas nuo tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje ar organizacijoje tuo laiku, kai jis atlieka kolegijos nario pareigas.
 
