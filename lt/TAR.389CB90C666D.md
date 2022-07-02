@@ -4,7 +4,7 @@ identifier: "TAR.389CB90C666D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-15"
-last_updated: "2022-07-01"
+last_updated: "2022-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "1. Įstatymo 51 straipsnis įsigalioja 2002 m. vas
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-07-01
+Suvestinė redakcija nuo 2022-07-02 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
 
@@ -81,13 +81,15 @@ GINKLų, GINKLŲ PRIEDĖLIŲ, ŠAUDMENų IR JŲ DALIŲ įSIgijimas IR TURĖJIMAS
 
 8. Moksliniam tyrimui, savo pagamintų ginklų, jų priedėlių, šaudmenų ir jų dalių išbandymui A, B, C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti Lietuvos Respublikoje įregistruoti juridiniai asmenys, gavę leidimą laikyti ginklus.
 
-9. Šaulio tarnybai A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 2, 6, 7, 8 ir 9 punktuose, duslintuvus, naktinius taikiklius, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų šauliai, Lietuvos šaulių sąjungos vado nustatyta tvarka išlaikę egzaminą ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 2, 6, 7, 8 ir 9 punktuose, duslintuvus, naktinius taikiklius, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti profesinės karo tarnybos kariai, kariai savanoriai ar kiti savanoriškos nenuolatinės karo tarnybos kariai, turintys teisę tarnybos metu nešiotis šaunamąjį ginklą, pateikę specialiojo statuso subjekto pažymą, patvirtinančią, kad jie turi teisę tarnybos metu nešiotis šaunamąjį ginklą, ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Leidimas laikyti ginklus ir leidimas nešiotis ginklus taip pat suteikia teisę nešiotis savigynai B kategorijos trumpuosius šaunamuosius ginklus taip, kad kiti asmenys jų nematytų.
+9. Šaulio tarnybai A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 2, 6, 7, 8 ir 9 punktuose, duslintuvus, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų šauliai, Lietuvos šaulių sąjungos vado nustatyta tvarka išlaikę egzaminą ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 2, 6, 7, 8 ir 9 punktuose, duslintuvus, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti profesinės karo tarnybos kariai, kariai savanoriai ar kiti savanoriškos nenuolatinės karo tarnybos kariai, turintys teisę tarnybos metu nešiotis šaunamąjį ginklą, pateikę specialiojo statuso subjekto pažymą, patvirtinančią, kad jie turi teisę tarnybos metu nešiotis šaunamąjį ginklą, ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Leidimas laikyti ginklus ir leidimas nešiotis ginklus taip pat suteikia teisę nešiotis savigynai B kategorijos trumpuosius šaunamuosius ginklus taip, kad kiti asmenys jų nematytų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 
 Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
+
+Nr. XIV-1071, 2022-05-10, paskelbta TAR 2022-05-16, i. k. 2022-10290
 
 10. D kategorijos ginklus, jų šaudmenis be leidimų gali įsigyti ir turėti juridiniai asmenys, kitos organizacijos ar jų padaliniai bei fiziniai asmenys nuo 18 metų, jais prekiaujančiam prekiautojui pateikę asmens tapatybę patvirtinančius dokumentus. Sportui D kategorijos pneumatinius ginklus, jų šaudmenis be leidimų gali įsigyti ir turėti fiziniai asmenys nuo 16 metų – šaudymo sporto organizacijų nariai, jais prekiaujančiam prekiautojui pateikę asmens tapatybę patvirtinančius dokumentus, sporto organizacijos tarpininkavimo raštą ir šios organizacijos nario pažymėjimą.
 
@@ -445,11 +447,19 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 37 straipsnis. Pavienių ginklų, jų priedėlių, šaudmenų, jų dalių įvežimas, išvežimas, vežimas, gabenimas tranzitu
 
-1. Fiziniai ir juridiniai asmenys turi teisę įvežti į Lietuvos Respubliką, išvežti iš jos, gabenti tranzitu per Lietuvos Respubliką teisėtai įgytus šio įstatymo 3 straipsnio 6–10 punktuose nurodytus ginklus, duslintuvus, naktinius taikiklius, B, C, D kategorijų ginklus, ginklų priedėlius, šaudmenis, jų dalis, taip pat visų kategorijų kolekcinius pavienius ginklus, gavę policijos įstaigos leidimą įvežti (išvežti) pavienius ginklus. Be šio leidimo galima įvežti į Lietuvos Respubliką, išvežti iš jos, gabenti tranzitu per Lietuvos Respubliką senovinius ginklus, D kategorijos ginklus, nurodytus šio įstatymo 6 straipsnio 1–4 punktuose, ir pneumatinio ginklo šaudmenis. Be leidimo įvežti (išvežti) pavienius ginklus taip pat galima išvežti šio įstatymo 3 straipsnio 6–10 punktuose nurodytus ginklus, duslintuvus, naktinius taikiklius, B, C, D kategorijų ginklus, ginklų priedėlius, šaudmenis, jų dalis, kurie su Policijos departamento leidimu buvo laikinai (ne ilgiau kaip 24 mėnesiams) įvežti į Lietuvos Respubliką jų tinkamumui nustatyti, eksponuoti, taisyti, laikinai sandėliuoti, medžioklės ar sporto tikslais, arba laikinai (ne ilgiau kaip 24 mėnesiams) išvežti šio įstatymo 3 straipsnio 6–10 punktuose nurodytus ginklus, duslintuvus, naktinius taikiklius, B, C, D kategorijų ginklus, ginklų priedėlius, šaudmenis, jų dalis iš Lietuvos Respublikos jų tinkamumui nustatyti, eksponuoti, taisyti, laikinai sandėliuoti, medžioklės ar sporto tikslais, tuo atveju, kada fizinis ar juridinis asmuo pagrindžia, kad šie ginklai, ginklų priedėliai, šaudmenys, jų dalys jiems teisėtai priklauso ir kad ginklai, ginklų priedėliai, šaudmenys, jų dalys šiam tikslui išvežami laikinai.
+1. Fiziniai ir juridiniai asmenys turi teisę įvežti į Lietuvos Respubliką, išvežti iš jos, gabenti tranzitu per Lietuvos Respubliką teisėtai įgytus šio įstatymo 3 straipsnio 6–10 punktuose nurodytus ginklus, duslintuvus, B, C, D kategorijų ginklus, ginklų priedėlius, šaudmenis, jų dalis, taip pat visų kategorijų kolekcinius pavienius ginklus, gavę policijos įstaigos leidimą įvežti (išvežti) pavienius ginklus. Be šio leidimo galima įvežti į Lietuvos Respubliką, išvežti iš jos, gabenti tranzitu per Lietuvos Respubliką senovinius ginklus, D kategorijos ginklus, nurodytus šio įstatymo 6 straipsnio 1–4 punktuose, ir pneumatinio ginklo šaudmenis. Be leidimo įvežti (išvežti) pavienius ginklus taip pat galima išvežti šio įstatymo 3 straipsnio 6–10 punktuose nurodytus ginklus, duslintuvus, B, C, D kategorijų ginklus, ginklų priedėlius, šaudmenis, jų dalis, kurie su Policijos departamento leidimu buvo laikinai (ne ilgiau kaip 24 mėnesiams) įvežti į Lietuvos Respubliką jų tinkamumui nustatyti, eksponuoti, taisyti, laikinai sandėliuoti, medžioklės ar sporto tikslais, arba laikinai (ne ilgiau kaip 24 mėnesiams) išvežti šio įstatymo 3 straipsnio 6–10 punktuose nurodytus ginklus, duslintuvus, B, C, D kategorijų ginklus, ginklų priedėlius, šaudmenis, jų dalis iš Lietuvos Respublikos jų tinkamumui nustatyti, eksponuoti, taisyti, laikinai sandėliuoti, medžioklės ar sporto tikslais tuo atveju, kai fizinis ar juridinis asmuo pagrindžia, kad šie ginklai, ginklų priedėliai, šaudmenys, jų dalys jiems teisėtai priklauso ir kad ginklai, ginklų priedėliai, šaudmenys, jų dalys šiam tikslui išvežami laikinai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1071, 2022-05-10, paskelbta TAR 2022-05-16, i. k. 2022-10290
 
 2. Fiziniai asmenys pavienius ginklus, jų priedėlius, šaudmenis medžioklės, istorinio įvykio atkūrimo ar sporto tikslais gali vežti į Lietuvos Respubliką ar vežti iš jos turėdami Europos šaunamojo ginklo leidimą ir dokumento, patvirtinančio atvykimo tikslą, kopiją. Be to, fiziniai asmenys turi teisę vežti iš Europos Sąjungos valstybės narės į Lietuvos Respubliką šio įstatymo 3 straipsnio 6–10 punktuose nurodytus ginklus, B, C, D kategorijų pavienius ginklus, ginklų priedėlius, šaudmenis, jų dalis, taip pat visų kategorijų kolekcinius pavienius ginklus, turėdami policijos įstaigos išduotą išankstinį sutikimą dėl ginklų vežimo į Lietuvos Respubliką, ir vežti juos iš Lietuvos Respublikos į kitą Europos Sąjungos valstybę narę, turėdami tam policijos įstaigos išduotą leidimą vežti ginklus. Policijos įstaiga leidimą vežti ginklus išduoda po to, kai gauna tos kitos Europos Sąjungos valstybės narės išankstinį sutikimą dėl ginklų vežimo. Šių išankstinių sutikimų ar leidimų vežti ginklus nereikia, kai vežami senoviniai ginklai.
 
-3. Pavieniai A kategorijos ginklai, jų šaudmenys (išskyrus šio įstatymo 3 straipsnio 2,  6–10 punktuose nurodytus ginklus, duslintuvus, naktinius taikiklius) įvežami į Lietuvos Respubliką, išvežami iš jos, vežami, gabenami tranzitu per Lietuvos Respubliką gavus Krašto apsaugos ministerijos leidimą Lietuvos Respublikos krašto apsaugos ministro nustatyta tvarka.
+3. Pavieniai A kategorijos ginklai, jų šaudmenys (išskyrus šio įstatymo 3 straipsnio 2,  6–10 punktuose nurodytus ginklus, duslintuvus) įvežami į Lietuvos Respubliką, išvežami iš jos, vežami, gabenami tranzitu per Lietuvos Respubliką gavus Krašto apsaugos ministerijos leidimą krašto apsaugos ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1071, 2022-05-10, paskelbta TAR 2022-05-16, i. k. 2022-10290
 
 4. Juridinių asmenų, turinčių tarpvalstybinio grynųjų pinigų vežimo licenciją, išduotą Reglamento (ES) Nr. 1214/2011 nustatytomis sąlygomis, grynųjų pinigų vežimo apsaugos darbuotojai (kaip jie apibrėžti šio reglamento 1 straipsnio i punkte) pavienius ginklus, kurių civilinė apyvarta Lietuvos Respublikoje draudžiama, gali gabenti tranzitu šiame reglamente nustatyta tvarka.
 
@@ -465,7 +475,11 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 10. Asmenys pavienius ginklus Lietuvos Respublikoje iš vienos vietos į kitą gali vežti be leidimo laikydamiesi ginklų gabenimo reikalavimų.
 
-11. Tvarką, reglamentuojančią pavienių šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytų ginklų, duslintuvų, naktinių taikiklių, B, C, D kategorijų ginklų, ginklų priedėlių, šaudmenų, jų dalių įvežimą, išvežimą, vežimą, gabenimą tranzitu, vežimą Lietuvos Respublikoje ir informacijos apie pavienių šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytų ginklų, duslintuvų, naktinių taikiklių, B, C, D kategorijų ginklų, ginklų priedėlių, šaudmenų, jų dalių vežimą užsienio valstybėms pateikimą, nustato Vyriausybė arba jos įgaliota institucija.
+11. Tvarką, reglamentuojančią pavienių šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytų ginklų, duslintuvų, B, C, D kategorijų ginklų, ginklų priedėlių, šaudmenų, jų dalių įvežimą, išvežimą, vežimą, gabenimą tranzitu, vežimą Lietuvos Respublikoje ir informacijos apie pavienių šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytų ginklų, duslintuvų, B, C, D kategorijų ginklų, ginklų priedėlių, šaudmenų, jų dalių vežimą užsienio valstybėms pateikimą, nustato Vyriausybė arba jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1071, 2022-05-10, paskelbta TAR 2022-05-16, i. k. 2022-10290
 
 12. Leidimas įvežti (išvežti) pavienius ginklus, išankstinis sutikimas dėl ginklų vežimo, leidimas vežti ginklus ir Europos šaunamojo ginklo leidimas neišduodamas, jeigu paaiškėja bent viena iš šių aplinkybių:
 
@@ -679,7 +693,11 @@ A kategorijos ginklams, ginklų priedėliams ir šaudmenims priskiriami:
 
 10) bet kokie A kategorijos šaunamieji ginklai, kurie buvo perdirbti į signalinius, dujinius ar imitacinius ginklus;
 
-11) duslintuvai, naktiniai taikikliai;
+11) duslintuvai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1071, 2022-05-10, paskelbta TAR 2022-05-16, i. k. 2022-10290
 
 12) visų kalibrų patrankos, haubicos, mortyros, minosvaidžiai;
 
