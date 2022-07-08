@@ -4,7 +4,7 @@ identifier: "TAR.0539E2FEB29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-15"
-last_updated: "2022-01-20"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0539E2FEB29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,17 +18,9 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-01-20 iki 2022-07-07
+Suvestinė redakcija nuo 2022-07-08 iki 2022-11-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 82-1965, i. k. 0961010ISTA00I-1495
-
-TAR pastaba. Planuojamos miško įveisimo ūkinės veiklos poveikio aplinkai vertinimo atrankos procedūros, pradėtos iki Nr. XIV-898 įstatymo įsigaliojimo (2022-01-20), baigiamos pagal iki  įstatymo Nr. XIV-898 įsigaliojimo  (2022-01-20) galiojusias Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-898, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00756
-
-Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2 priedo pakeitimo įstatymas
 
 Nauja redakcija nuo 2017-11-01:
 
@@ -108,6 +100,12 @@ Nr. XIII-3166, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15499
 
 14. Suinteresuota visuomenė – visuomenė, kuriai daro arba gali daryti poveikį sprendimai, veiksmai ar neveikimas poveikio aplinkai vertinimo srityje arba kuri yra suinteresuota atrankos dėl poveikio aplinkai vertinimo ir (ar) poveikio aplinkai vertinimo procesu. Pagal šią apibrėžtį viešieji juridiniai asmenys (išskyrus valstybės ar savivaldybės, jų institucijų įsteigtus juridinius asmenis), kurie skatina aplinkos apsaugą, visais atvejais laikomi suinteresuotais asmenimis.
 
+141. Viršesniam viešajam interesui priskiriama ir svarbia viešajam saugumui laikoma planuojama ūkinė veikla – planuojama ūkinė veikla, skirta energijos gamybai iš atsinaujinančiųjų išteklių įrenginių, kaip ji suprantama 2022 m. gegužės 18 d. Komisijos rekomendacijoje (ES) 2022/822 dėl greitesnio leidimų atsinaujinančiųjų išteklių energijos projektams išdavimo procedūrų ir palankesnių sąlygų elektros energijos pirkimo sutartims.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
+
 15. Visuomenė – vienas arba daugiau fizinių ir (ar) juridinių asmenų, jų asociacijos, organizacijos arba grupės.
 
 3 straipsnis. Atranka dėl poveikio aplinkai vertinimo ir poveikio aplinkai vertinimas planuojant, keičiant ir plečiant ūkinę veiklą
@@ -125,6 +123,12 @@ Nr. XIII-3166, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15499
 3. Atranka dėl poveikio aplinkai vertinimo ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimas (toliau – poveikio aplinkai vertinimas) turi būti atlikti iki įstatymuose įtvirtinto leidimo (statybą leidžiančio dokumento, leidimo naudoti žemės gelmių išteklius arba ertmes, taršos integruotos prevencijos ir kontrolės leidimo, taršos leidimo ir kitų įstatymuose nurodytų leidimų) išdavimo. Jeigu atranka dėl poveikio aplinkai vertinimo ir (ar) poveikio aplinkai vertinimas neatlikti, leidimas neišduodamas.
 
 4. Kai planuojamos ūkinės veiklos tikslas – valstybės sienos apsauga, krašto apsauga, ar planuojama tokia ūkinė veikla, kuri būtų vykdoma atsitikus ekstremaliajam įvykiui, apibrėžtam Lietuvos Respublikos civilinės saugos įstatyme, atsakingoji institucija, gavusi informaciją iš planuojamos ūkinės veiklos organizatoriaus (užsakovo), gali priimti sprendimą neatlikti atrankos dėl poveikio aplinkai vertinimo ar poveikio aplinkai vertinimo, jeigu procedūrų atlikimas tokiai veiklai gali turėti neigiamą poveikį valstybės gynybos, gaisrinės ar civilinės saugos tikslams.
+
+41. Atranka dėl poveikio aplinkai vertinimo ir (ar) poveikio aplinkai vertinimas neatliekami saulės šviesos energijos elektrinių statybai. Saulės šviesos energijos elektrinės planuojamos, statomos ir eksploatuojamos laikantis aplinkos ministro nustatytų aplinkosauginių reikalavimų. Ši išimtis netaikoma, kai poveikio aplinkai vertinimas privalomas pagal šio straipsnio 1 dalies 3 punktą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
 
 5. Kai planuojama ūkinė veikla tiesiogiai uždrausta įstatymais, tokios planuojamos ūkinės veiklos atranka dėl poveikio aplinkai vertinimo ar poveikio aplinkai vertinimas negali būti atliekami.
 
@@ -334,7 +338,11 @@ Nr. XIII-3166, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15499
 
 4. Poveikio aplinkai vertinimo dokumentų rengėjas kartu su planuojamos ūkinės veiklos organizatoriumi (užsakovu) įvertina suinteresuotos visuomenės pasiūlymus ir pagal juos patikslina ataskaitą, kurią kartu su suinteresuotos visuomenės pasiūlymų įvertinimu pateikia poveikio aplinkai vertinimo subjektams.
 
-5. Poveikio aplinkai vertinimo subjektai išnagrinėja ir įvertina ataskaitą ir kartu su ja pateiktą suinteresuotos visuomenės pasiūlymų įvertinimą ir per 20 darbo dienų nuo jų gavimo dienos pateikia poveikio aplinkai vertinimo dokumentų rengėjui savo motyvuotas išvadas dėl ataskaitos ir planuojamos ūkinės veiklos poveikio aplinkai. Motyvuotose išvadose poveikio aplinkai vertinimo subjektai turi nurodyti: teisės aktų reikalavimais pagrįstus motyvus dėl pritarimo ar nepritarimo planuojamai ūkinei veiklai; kokiai konkrečiai alternatyvai pritaria ar nepritaria, jeigu ataskaitoje buvo nagrinėtos alternatyvos; sąlygas, kurios turi būti įgyvendintos iki veiklos vykdymo pradžios, jeigu tokias sąlygas galima nustatyti pagal teisės aktų reikalavimus, ir pateikti pagrįstą nuomonę dėl vertinimo metodų, rezultatų, ataskaitos kokybės ir numatomų priemonių numatomam reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti.
+5. Poveikio aplinkai vertinimo subjektai išnagrinėja ir įvertina ataskaitą, kartu su ja pateiktą suinteresuotos visuomenės pasiūlymų įvertinimą ir pateikia poveikio aplinkai vertinimo dokumentų rengėjui savo motyvuotas išvadas dėl ataskaitos ir planuojamos ūkinės veiklos poveikio aplinkai per 20 darbo dienų nuo ataskaitos gavimo dienos, o dėl ataskaitos dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos – per 15 darbo dienų nuo ataskaitos gavimo dienos. Motyvuotose išvadose poveikio aplinkai vertinimo subjektai turi nurodyti: teisės aktų reikalavimais pagrįstus motyvus dėl pritarimo ar nepritarimo planuojamai ūkinei veiklai; kokiai konkrečiai alternatyvai pritaria ar nepritaria, jeigu ataskaitoje buvo nagrinėtos alternatyvos; sąlygas, kurios turi būti įgyvendintos iki veiklos vykdymo pradžios, jeigu tokias sąlygas galima nustatyti pagal teisės aktų reikalavimus, ir pateikti pagrįstą nuomonę dėl vertinimo metodų, rezultatų, ataskaitos kokybės ir numatomų priemonių numatomam reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
 
 51. Jeigu nebuvo rengta programa ir jei iki sprendimo dėl planuojamos ūkinės veiklos priėmimo, tačiau ne vėliau kaip per 20 darbo dienų nuo ataskaitos gavimo savivaldybės vykdomojoje institucijoje dienos savivaldybės, kurios teritorijoje planuojama ūkinė veikla, taryba priima neigiamą motyvuotą sprendimą dėl planuojamos ūkinės veiklos galimybių, poveikio aplinkai vertinimo procedūros negali būti tęsiamos tol, kol galioja savivaldybės tarybos priimtas neigiamas motyvuotas sprendimas, išskyrus atvejus, kai planuojama ūkinė veikla yra valstybinės reikšmės ir jos įgyvendinimas numatytas Vyriausybės patvirtintuose valstybės strateginiuose planuose arba planuojama ūkinė veikla reikalinga valstybei svarbiam ar regioninės svarbos projektui įgyvendinti. Apie savivaldybės tarybos priimtą neigiamą motyvuotą sprendimą savivaldybės administracija nedelsdama – per 3 darbo dienas – informuoja atsakingąją instituciją ir planuojamos ūkinės veiklos organizatorių (užsakovą) ir kartu pateikia neigiamą motyvuotą savivaldybės tarybos sprendimą. Atsakingoji institucija, gavusi šį savivaldybės tarybos sprendimą, apie tai informuoja visuomenę aplinkos ministro nustatyta tvarka.
 
@@ -343,6 +351,12 @@ Papildyta straipsnio dalimi:
 Nr. XIII-3166, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15499
 
 6. Poveikio aplinkai vertinimo subjektai turi teisę pateikti motyvuotus reikalavimus, kad poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų ataskaitą. Poveikio aplinkai vertinimo dokumentų rengėjas turi papildyti ar pataisyti ataskaitą ir pakartotinai pateikti ją poveikio aplinkai vertinimo subjektams. Šie ataskaitą išnagrinėja, įvertina ir per 10 darbo dienų nuo jos gavimo dienos pateikia motyvuotas išvadas dėl ataskaitos ir planuojamos ūkinės veiklos poveikio aplinkai poveikio aplinkai vertinimo dokumentų rengėjui.
+
+61. Poveikio aplinkai vertinimo subjektas, nustatęs ataskaitos dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos trūkumus, prieš pateikdamas motyvuotus reikalavimus, kad poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų ataskaitą, ne vėliau kaip iki šio straipsnio 5 dalyje nustatyto termino pabaigos aplinkos ministro nustatyta tvarka informuoja apie nustatytus trūkumus ir savo iniciatyva arba poveikio aplinkai vertinimo dokumentų rengėjo prašymu organizuoja susitikimą, kurio metu aptariami nustatyti ataskaitos trūkumai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
 
 7. Jeigu poveikio aplinkai vertinimo subjektai per šio straipsnio 5 ar 6 dalyje nustatytą terminą nepateikia išvadų dėl ataskaitos ir planuojamos ūkinės veiklos poveikio aplinkai, laikoma, kad jie pritaria ataskaitai.
 
@@ -356,15 +370,33 @@ Nr. XIII-3166, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15499
 
 11 straipsnis. Sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai
 
-1. Atsakingoji institucija, išnagrinėjusi suinteresuotos visuomenės pasiūlymų įvertinimą, raštu gautus suinteresuotos visuomenės pasiūlymus, išnagrinėjusi ir įvertinusi ataskaitą ir remdamasi poveikio aplinkai vertinimo subjektų išvadomis dėl ataskaitos ir planuojamos ūkinės veiklos poveikio aplinkai, per 25 darbo dienas nuo ataskaitos gavimo dienos:
+1. Atsakingoji institucija, išnagrinėjusi suinteresuotos visuomenės pasiūlymų įvertinimą, raštu gautus suinteresuotos visuomenės pasiūlymus, išnagrinėjusi ir įvertinusi ataskaitą ir remdamasi poveikio aplinkai vertinimo subjektų išvadomis dėl ataskaitos ir planuojamos ūkinės veiklos poveikio aplinkai, per 25 darbo dienas nuo ataskaitos gavimo dienos, o dėl ataskaitos dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos – per 20 darbo dienų nuo ataskaitos gavimo dienos:
 
 1) teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti arba
 
 2) priima sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai. Sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai turinį nustato aplinkos ministras.
 
-2. Kai vadovaudamasi šio įstatymo 6 straipsnio 1 dalies 3 punktu atsakingoji institucija ataskaitai nagrinėti pasitelkia konsultantų, ši institucija, atlikusi veiksmus, nurodytus šio straipsnio 1 dalyje, ir remdamasi konsultantų išvadomis, teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti arba priima sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai per 50 darbo dienų nuo ataskaitos gavimo dienos. Atsakingoji institucija priima motyvuotą sprendimą pasitelkti konsultantų ir pateikia jį planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio aplinkai vertinimo dokumentų rengėjui per 5 darbo dienas nuo ataskaitos gavimo dienos. Sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai priėmimo terminas vieną kartą gali būti pratęstas iki 25 darbo dienų dėl objektyvių, nuo atsakingosios institucijos nepriklausomų priežasčių. Atsakingoji institucija apie priimtą sprendimą pratęsti terminą privalo ne vėliau kaip likus 5 darbo dienoms iki termino pabaigos pranešti planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio aplinkai vertinimo dokumentų rengėjui ir nurodyti priežastis, dėl kurių terminas pratęsiamas.
+Straipsnio dalies pakeitimai:
 
-3. Kai atsakingoji institucija pateikia motyvuotus reikalavimus ataskaitą pataisyti ir (ar) papildyti, poveikio aplinkai vertinimo dokumentų rengėjas turi papildyti ar pataisyti ataskaitą ir pakartotinai pateikti ją atsakingajai institucijai. Atsakingoji institucija ataskaitą išnagrinėja ir per 15 darbo dienų nuo ataskaitos gavimo dienos priima sprendimą arba, nepažeisdama šio įstatymo 6 straipsnio 7 dalies nuostatų, dar kartą teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti.
+Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
+
+11. Atsakingoji institucija, nustačiusi ataskaitos dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos trūkumus, prieš pateikdama motyvuotus reikalavimus ataskaitą pataisyti ar papildyti, ne vėliau kaip iki šio straipsnio 1 dalyje nustatyto termino pabaigos aplinkos ministro nustatyta tvarka informuoja apie nustatytus trūkumus ir savo iniciatyva arba poveikio aplinkai vertinimo dokumentų rengėjo prašymu organizuoja susitikimą, kurio metu aptariami nustatyti ataskaitos trūkumai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
+
+2. Kai vadovaudamasi šio įstatymo 6 straipsnio 1 dalies 3 punktu atsakingoji institucija ataskaitai nagrinėti pasitelkia konsultantų, ši institucija, atlikusi veiksmus, nurodytus šio straipsnio 1 dalyje, ir remdamasi konsultantų išvadomis, teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti arba priima sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai per 50 darbo dienų nuo ataskaitos gavimo dienos. Atsakingoji institucija priima motyvuotą sprendimą pasitelkti konsultantų ir pateikia jį planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio aplinkai vertinimo dokumentų rengėjui per 5 darbo dienas nuo ataskaitos gavimo dienos. Sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai priėmimo terminas vieną kartą gali būti pratęstas iki 25 darbo dienų, o dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos – iki 20 darbo dienų, dėl nuo atsakingosios institucijos nepriklausomų objektyvių priežasčių. Atsakingoji institucija apie priimtą sprendimą pratęsti terminą privalo ne vėliau kaip likus 5 darbo dienoms iki termino pabaigos pranešti planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio aplinkai vertinimo dokumentų rengėjui ir nurodyti priežastis, dėl kurių terminas pratęsiamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
+
+3. Kai atsakingoji institucija pateikia motyvuotus reikalavimus ataskaitą pataisyti ir (ar) papildyti, poveikio aplinkai vertinimo dokumentų rengėjas turi pataisyti ar papildyti ataskaitą ir pakartotinai pateikti ją atsakingajai institucijai. Atsakingoji institucija ataskaitą išnagrinėja ir per 15 darbo dienų, o dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos – per 10 darbo dienų, nuo ataskaitos gavimo dienos priima sprendimą arba, nepažeisdama šio įstatymo 6 straipsnio 7 dalies nuostatų, dar kartą teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
 
 4. Kai dėl planuojamos ūkinės veiklos atliktas tarpvalstybinis poveikio aplinkai vertinimas pagal šio įstatymo 9 straipsnio nuostatas, poveikio aplinkai vertinimo dokumentų rengėjas turi parengti ir iki sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai priėmimo pateikti atsakingajai institucijai galinčios patirti reikšmingą poveikį aplinkai kitos Europos Sąjungos valstybės narės ir (ar) užsienio valstybės pasiūlymų įvertinimą.
 
@@ -472,7 +504,17 @@ PLANUOJAMOS ŪKINĖS VEIKLOS, KURIOS POVEIKIS APLINKAI PRIVALO BŪTI VERTINAMAS,
 
 3.4. branduolinio kuro gamyba, sodrinimas, saugojimas ar laidojimas;
 
-3.5. anglių arba bituminio skalūno dujinimas ar suskystinimas (kai įrenginių pajėgumas – 500 ir daugiau tonų per parą).
+3.5. anglių arba bituminio skalūno dujinimas ar suskystinimas (kai įrenginių pajėgumas – 500 ir daugiau tonų per parą);
+
+3.6. vėjo elektrinių statyba:
+
+3.6.1. Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje;
+
+3.6.2. sausumoje, kai planuojama statyti 7 ar daugiau vėjo elektrinių ir atstumas nuo planuojamų statyti vėjo elektrinių iki pastatytų, statomų ar planuojamų statyti yra 5 km ar mažesnis (matuojant tarp stiebų centrų) arba kai šie skaičiaus ir atstumo dydžiai pasiekiami, įskaitant jau pastatytas, statomas ar planuojamas statyti vėjo elektrines.
+
+Papildyta papunkčiu:
+
+Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
 
 4. Metalų gamybos ir perdirbimo pramonė:
 
@@ -678,11 +720,15 @@ Nr. XIV-898, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00756
 
 3.7. vandens jėgainių (hidroelektrinių, malūnų, lentpjūvių, naudojančių sukauptą vandens energiją) įrengimas;
 
-3.8. vėjo elektrinių įrengimas, kai:
+3.8. vėjo elektrinių statyba, kai:
 
-3.8.1. įrengiamos 3 vėjo elektrinės, kurių bent vienos aukštis 50 m (matuojant iki aukščiausio konstrukcijų taško) ar daugiau;
+3.8.1. planuojama statyti 3 ar daugiau vėjo elektrinių, kurių bent vienos aukštis 50 m ar daugiau (matuojant iki aukščiausio konstrukcijų taško, įskaitant ir sparnuotės aukštį), išskyrus šio įstatymo 1 priedo 3.6.2 papunktyje nurodytą veiklą;
 
-3.8.2. vėjo elektrinė įrengiama arčiau kaip 1 km atstumu nuo saugomos teritorijos, išskyrus atvejus, kai įrengiama ne daugiau kaip viena ir ne aukštesnė kaip 25 m (matuojant iki aukščiausio konstrukcijų taško) vėjo elektrinė sodyboje ar prie ūkinių pastatų;
+3.8.2. vėjo elektrinę planuojama statyti arčiau kaip 1 km atstumu nuo saugomos teritorijos, išskyrus atvejus, kai planuojama statyti ne daugiau kaip vieną ir ne aukštesnę kaip 25 m (matuojant iki aukščiausio konstrukcijų taško) vėjo elektrinę sodyboje ar prie ūkinių pastatų;
+
+Papunkčio pakeitimai:
+
+Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
 
 3.9. įrenginių, naudojamų anglies dioksido (CO2), kuris saugomas geologinėse saugyklose, surinkimui iš įrenginių, nenurodytų šio įstatymo 1 priedo 9.12 papunktyje, įrengimas.
 
