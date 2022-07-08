@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2022-05-01"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-07-07
+Suvestinė redakcija nuo 2022-07-08 iki 2022-11-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
 
@@ -766,11 +766,13 @@ Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
 
 3. Statyba krašto apsaugos tikslams skirtoje teritorijoje ir stambiems projektams skirtose teritorijose esančiuose žemės sklypuose vykdoma pagal valstybei svarbių projektų teritorijų planavimo dokumentus arba savivaldybės lygmens bendrojo plano ir (ar) vietovės lygmens bendrojo plano, jeigu jis parengtas, sprendinius, vadovaujantis Statybos įstatymo nuostatomis.
 
-4. 30 m aukščio ir aukštesnių ypatingųjų inžinerinių statinių, atsinaujinančių išteklių energetikos objektų statyba turi būti numatyta teritorijų planavimo dokumentuose (išskyrus saulės šviesos energijos elektrines ir kitus Atsinaujinančių išteklių energetikos įstatyme numatytus atvejus).
+4. 30 m aukščio ir aukštesnių ypatingųjų inžinerinių statinių, atsinaujinančių išteklių energetikos objektų statyba turi būti numatyta teritorijų planavimo dokumentuose, išskyrus Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme numatytus atvejus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-921, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01362
+
+Nr. XIV-1246, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14912
 
 5. Savivaldybės administracijos direktoriaus patvirtintais žemės sklypų formavimo ir pertvarkymo projektais:
 
@@ -1601,6 +1603,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-384, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13828
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 40 straipsnio pakeitimo įstatymas
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1246, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14912
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 20 straipsnio pakeitimo įstatymas
 
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai ir vadovai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
