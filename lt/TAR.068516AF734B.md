@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2022-07-01"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-07-11
+Suvestinė redakcija nuo 2022-07-12 iki 2022-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
 
@@ -1586,6 +1586,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1176, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13892
 
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 3 ir 4 straipsnių pakeitimo įstatymas
+
+29.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1191, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15182
+
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 6, 8, 9, 10, 11, 11-1, 14, 16, 22, 23 ir 30 straipsnių pakeitimo įstatymo Nr. XIV-752 pavadinimo, 14 straipsnio pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
 
 111 straipsnis. Ligos išmokų skyrimo ir mokėjimo ypatumai Vyriausybei paskelbus ekstremaliąją situaciją ir (ar) karantiną
 
