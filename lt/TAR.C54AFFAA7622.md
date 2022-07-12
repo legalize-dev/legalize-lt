@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2022-07-01"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-07-11
+Suvestinė redakcija nuo 2022-07-12 iki 2022-12-29
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -75,10 +75,6 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 4. Šiame straipsnyje nustatyti reikalavimai taikomi visu vidaus sandorio galiojimo laikotarpiu.
 
 5. Valstybės įmonės, akcinės bendrovės ir uždarosios akcinės bendrovės, kuriose valstybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, vidaus sandorių sudaryti negali.
-
-KETVIRTASIS SKIRSNIS
-
-PIRKIMŲ YPATUMAI
 
 30 straipsnis. Išankstinis informacinis skelbimas
 
@@ -3286,23 +3282,23 @@ GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, PIRKIMO SUTARTIES PRIPAŽINIMAS NEGAL
 
 2. Komisijos nariai, ekspertai, stebėtojai, už sutarties vykdymą atsakingi asmenys ir kiti asmenys už savo veiką atsako pagal Lietuvos Respublikos įstatymus.
 
-101 straipsnis. Teisė ginčyti perkančiosios organizacijos veiksmus ar priimtus sprendimus
+101 straipsnis. Bendradarbiavimo sutartys
 
-1. Tiekėjas, kuris mano, kad perkančioji organizacija nesilaikė šio įstatymo reikalavimų ar nepagrįstai nutraukė sutartį dėl esminio pirkimo sutarties pažeidimo ir tuo pažeidė ar pažeis jo teisėtus interesus, šiame skyriuje nustatyta tvarka gali kreiptis į apygardos teismą, kaip pirmosios instancijos teismą, dėl:
+Šio įstatymo reikalavimai netaikomi bendradarbiavimo sutartims, kurias sudaro dvi ar daugiau perkančiųjų organizacijų, kai yra visos šios sąlygos kartu:
 
-1) perkančiosios organizacijos sprendimų, neatitinkančių šio įstatymo reikalavimų, panaikinimo ar pakeitimo;
+1) sutartimi nustatomas ar įgyvendinamas dalyvaujančių perkančiųjų organizacijų bendradarbiavimas, siekiant užtikrinti, kad, teikiant viešąsias paslaugas, būtų siekiama Vyriausybės patvirtintų bendrų jų tikslų;
 
-2) žalos atlyginimo;
+2) bendradarbiavimas įgyvendinamas vadovaujantis vien su viešuoju interesu susijusiais motyvais;
 
-3) pirkimo sutarties ar preliminariosios sutarties pripažinimo negaliojančia;
+3) dalyvaujančios perkančiosios organizacijos rinkoje vykdo mažiau kaip 20 procentų tos veiklos, kurią apima bendradarbiavimas. Vertinant, ar perkančioji organizacija atitinka šią sąlygą, atsižvelgiama į 3 metų iki sutarties sudarymo duomenis apie šios perkančiosios organizacijos vidutinę bendrąją apyvartą iš tos veiklos arba į kitą perkančiosios organizacijos ta veikla grindžiamą rodiklį. Jeigu bendradarbiavimo sutartį sudaranti perkančioji organizacija veiklą vykdo trumpiau kaip 3 finansinius metus ar dėl jos reorganizavimo šioje dalyje nurodyti duomenys yra nebeaktualūs, vertinant, ar ji atitinka šią sąlygą, gali būti remiamasi jos veiklos planais.
 
-4) alternatyvių sankcijų taikymo pagal šio įstatymo 106 straipsnio 1 dalį;
+Papildyta straipsniu:
 
-5) pirkimo sutarties nutraukimo dėl esminio pirkimo sutarties pažeidimo pripažinimo nepagrįstu.
+Nr. XIV-1186, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15171
 
-2. Tiekėjas gali pateikti prašymą teismui dėl laikinųjų apsaugos priemonių taikymo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+KETVIRTASIS SKIRSNIS
 
-3. Tiekėjas, norėdamas iki pirkimo sutarties ar preliminariosios sutarties sudarymo teisme ginčyti perkančiosios organizacijos sprendimus ar veiksmus, pirmiausia raštu (faksu, elektroninėmis priemonėmis arba pasirašytinai per pašto paslaugos teikėją ar kitą tinkamą vežėją) turi pateikti pretenziją perkančiajai organizacijai.
+PIRKIMŲ YPATUMAI
 
 102 straipsnis. Pretenzijos pateikimo perkančiajai organizacijai, prašymo pateikimo ar ieškinio pareiškimo teismui terminai
 
@@ -3666,7 +3662,7 @@ Priedo pakeitimai:
 
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
-part_953bdf781df349f2a1716337035da7f0_end
+part_95ba6588aed54030a9b748dd85f74e85_end
 
 Lietuvos Respublikos
 
