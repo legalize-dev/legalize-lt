@@ -4,7 +4,7 @@ identifier: "TAR.1F58348F79F7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2022-02-01"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2022-02-01 iki 2022-07-11
+Suvestinė redakcija nuo 2022-07-12 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
 
@@ -375,7 +375,11 @@ PENSIJŲ KAUPIMO BENDROVIŲ VEIKLOS YPATUMAI
 
 7. Asmuo, įgijęs teisę į vienkartinę pensijų išmoką ar periodines pensijų išmokas pagal šio straipsnio 3 ir 4 dalis, gali vietoj vienkartinės pensijų išmokos ar periodinių pensijų išmokų šio įstatymo nustatyta tvarka įsigyti pensijų anuitetą.
 
-8. Šio straipsnio 3–6 dalyse nurodyti dydžiai, nuo kurių priklauso asmeniui mokėtinos pensijų išmokos rūšis, kas 5 metus indeksuojami vidutinės metinės infliacijos, apskaičiuotos pagal Lietuvos statistikos departamento skelbiamą suderintą vartotojų kainų indeksą, suminį 5 paskutinių metų rodiklį. Euro tikslumu suapvalintus naujus dydžius, pradedant 2025 metais taikomais dydžiais, ne vėliau kaip iki metų, einančių prieš taikymo metus, lapkričio 30 dienos savo interneto svetainėse paskelbia Socialinės apsaugos ir darbo ministerija ir pensijų anuitetų mokėtojas.
+8. Šio straipsnio 3–6 dalyse nurodyti dydžiai, nuo kurių priklauso asmeniui mokėtinos pensijų išmokos rūšis, kas 3 metus indeksuojami vidutinės metinės infliacijos, apskaičiuotos pagal Lietuvos statistikos departamento skelbiamą suderintą vartotojų kainų indeksą, suminį 3 paskutinių kalendorinių metų rodiklį. Euro tikslumu suapvalintus naujus dydžius, pradedant 2023 metais taikomais dydžiais, ne vėliau kaip iki metų, einančių prieš taikymo metus, lapkričio 30 dienos savo interneto svetainėse paskelbia Socialinės apsaugos ir darbo ministerija ir pensijų anuitetų mokėtojas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1251, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15193
 
 9. Pensijų anuitetų mokėtojas yra VSDF valdyba. Vienkartines ir periodines išmokas jų gavėjams moka pensijų kaupimo bendrovės.
 
@@ -783,7 +787,7 @@ Iš valstybės biudžeto už pensijų fondo dalyvį mokamos pensijų įmokos dyd
 
 1,5
 
-part_a45080f1492244e3adf98db2d136330a_end
+part_d8c49221dd5f42459fefab5670edb273_end
 
 Pakeitimai:
 
