@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2022-04-08"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-04-08 iki 2022-07-11
+Suvestinė redakcija nuo 2022-07-12 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -487,7 +487,11 @@ Nr. XII-1232, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14521
 
 35) visuomenės sveikatos priežiūra savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas, visuomenės sveikatos stiprinimas, visuomenės sveikatos stebėsena;
 
-36) radiacinė sauga;
+36) Neteko galios nuo 2022-07-12
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1264, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15194
 
 37) neveiksnių asmenų būklės peržiūrėjimo užtikrinimas;
 
