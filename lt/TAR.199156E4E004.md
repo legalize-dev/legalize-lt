@@ -4,7 +4,7 @@ identifier: "TAR.199156E4E004"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2022-03-23"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2022-03-23 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2022-08-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
 
@@ -49,20 +49,6 @@ Nr. XIII-445, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10807
 Nr. XIII-2343, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12409
 
 Nr. XIV-953, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05131
-
-3. Šio Įstatymo 20 ir 23 straipsniai taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, kaip ši sąvoka apibrėžta tai reglamentuojančiuose Lietuvos Respublikos teisės aktuose.
-
-4. Neteko galios nuo 2016-09-01
-
-Straipsnio dalies naikinimas:
-
-Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
-
-5. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, nuostatomis.
-
-Straipsnio pakeitimai:
-
-Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010ISTA0XI-1488
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
@@ -468,57 +454,23 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
 
-20 straipsnis. Darbingumo lygio nustatymas
-
-1. Darbingumo lygis nustatomas asmenims nuo 18 metų iki senatvės pensijos amžiaus.
-
-2. Jeigu jaunesnis kaip 18 metų asmuo teisės aktų nustatyta tvarka yra (buvo) draudžiamas valstybiniu socialiniu draudimu, darbingumo lygis nustatomas nesukakusiam 18 metų asmeniui.
-
-3. Darbingumo lygis dėl nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba susirgimo profesine liga nustatomas asmenims neatsižvelgiant į jų amžių.
+3. Šio Įstatymo 20 straipsnis, 201 straipsnio 1 dalies 1 ir 2 punktai ir 23 straipsnis taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą.
 
 Straipsnio dalies pakeitimai:
 
-Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+Nr. XIV-1283, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15430
 
-4. Darbingumo lygis nustatomas įvertinus asmens sveikatos būklę ir galimybes atlikti turimos kvalifikacijos darbus, įgyti naują kvalifikaciją ar dirbti darbus, nereikalaujančius profesinės kvalifikacijos po to, kai yra panaudotos visos galimos medicininės ir profesinės reabilitacijos bei specialiosios pagalbos priemonės.
+4. Neteko galios nuo 2016-09-01
 
-5. Kai dėl asmens sunkių organizmo funkcinių sutrikimų profesinė reabilitacija nėra galima arba dėl asmens amžiaus netikslinga, darbingumo lygis nustatomas vadovaujantis medicininiais kriterijais.
+Straipsnio dalies naikinimas:
 
-6. Darbingumo lygis nustatomas remiantis asmenį gydančių gydytojų, profesinės reabilitacijos ir kitų specialistų pateiktais dokumentais. Nustatant darbingumo lygį turi teisę dalyvauti asmuo, kurio darbingumo lygis vertinamas, ir (ar) jo atstovas pagal įstatymą. Darbingumo lygį nustatanti institucija gali nuspręsti pakviesti asmenį ir (ar) jo atstovą pagal įstatymą dalyvauti nustatant darbingumo lygį.
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
-7. Darbingumas įvertinamas procentais, jo lygis nustatomas 5 punktų intervalais.
+5. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, nuostatomis.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
-
-8. Darbingumo lygis gali būti nustatomas tokiais terminais:
-
-1) 6 mėnesiams, kai darbingumo lygis vertinamas pirmą kartą ir prognozuojamas asmens sveikatos būklės ir profesinių, funkcinių veiksnių pasikeitimas, darantis įtaką asmens darbingumo lygiui, per artimiausius 6 mėnesius;
-
-2) vieniems metams, kai darbingumo lygis vertinamas pirmą kartą ir (ar) prognozuojamas asmens sveikatos būklės ir profesinių, funkcinių veiksnių pasikeitimas, darantis įtaką asmens darbingumo lygiui, per artimiausius 12 mėnesių;
-
-3) 2 metams, kai prognozuojamas asmens sveikatos būklės ir profesinių, funkcinių veiksnių pasikeitimas, darantis įtaką asmens darbingumo lygiui, per artimiausius 24 mėnesius, ir asmenims, kurie mokosi, iki 26 metų;
-
-4) iki profesinės reabilitacijos programos pabaigos, kai asmeniui nustatomas profesinės reabilitacijos poreikis;
-
-5) iki senatvės pensijos amžiaus sukakties dienos, kai neprognozuojamas asmens sveikatos būklės ir profesinių funkcinių veiksnių pasikeitimas, darantis įtaką asmens darbingumo lygiui, ir (ar) asmens sveikatos sutrikimai yra nuolatinio, nekintamo pobūdžio;
-
-6) neterminuotai, kai darbingumo lygis nustatomas dėl nelaimingo atsitikimo darbe ar dėl profesinės ligos.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
-
-9. Darbingumo lygio nustatymo kriterijus ir tvarką nustato socialinės apsaugos ir darbo ministras kartu su sveikatos apsaugos ministru.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
+Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010ISTA0XI-1488
 
 21 straipsnis. Profesinės reabilitacijos paslaugų poreikio tenkinimas
 
@@ -750,11 +702,21 @@ priedas
 
 1. 2001 m. liepos 20 d. Tarybos direktyva 2001/55/EB dėl minimalių normų suteikiant perkeltiesiems asmenims laikiną apsaugą esant masiniam jų srautui ir dėl priemonių, skatinančių valstybių narių tarpusavio pastangų priimant tokius asmenis ir atsakant už tokio veiksmo padarinius pusiausvyrą.
 
-2. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą.
+2. Neteko galios nuo 2022-07-15.
+
+Punkto pakeitimai:
+
+Nr. XIV-1283, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15430
 
 3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių.
 
 4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
+
+5. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1883 dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB.
+
+Papildyta punktu:
+
+Nr. XIV-1283, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15430
 
 Priedo pakeitimai:
 
@@ -1002,7 +964,15 @@ Nr. XIV-953, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05131
 
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1 straipsnio ir priedo pakeitimo įstatymas
 
-part_e1895d2017c24aafb638f13c6fce1b65_end
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1283, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15430
+
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1 straipsnio ir priedo pakeitimo įstatymas
+
+part_6a87ed6bdf9e410780e2db48445fe8ed_end
 
 201 straipsnis. Specialiųjų poreikių rūšys, specialiųjų poreikių ir specialiųjų poreikių lygio nustatymas
 
