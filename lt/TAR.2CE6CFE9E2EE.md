@@ -4,7 +4,7 @@ identifier: "TAR.2CE6CFE9E2EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-29"
-last_updated: "2022-04-01"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2022-04-01 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2022-08-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
 
@@ -68,11 +68,17 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-2346, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12437
 
-6) asmenims, kuriems taikomos Lietuvos Respublikos tarptautinės sutartys dėl socialinio draudimo pensijų mokėjimo.
+6) asmenims, kuriems taikomos Lietuvos Respublikos tarptautinės sutartys dėl socialinio draudimo pensijų mokėjimo;
 
 Papildyta straipsnio punktu:
 
 Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
+
+7) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1285, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15434
 
 Straipsnio dalies pakeitimai:
 
@@ -636,6 +642,12 @@ priedas
 
 2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
 
+3. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1883 dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB.
+
+Papildyta punktu:
+
+Nr. XIV-1285, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15434
+
 Priedo pakeitimai:
 
 Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
@@ -881,6 +893,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
 
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 15, 22-4 straipsnių ir priedo pakeitimo įstatymas
+
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1285, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15434
+
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1 straipsnio ir priedo pakeitimo įstatymas
 
 part_fd31069eae57422fb111ef0cb533d002_end
 
