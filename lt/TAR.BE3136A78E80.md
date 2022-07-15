@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2022-01-01"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2022-08-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
 
@@ -481,13 +481,15 @@ Nr. XI-1979, 2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
 
 Notaras nevaržomai dalyvauja notarų savivaldos ir kitų renkamų institucijų veikloje. Notaras, eidamas savo pareigas, kartu gali eiti renkamas pareigas notarų savivaldos institucijose. Jeigu notaras eina renkamas pareigas kitose institucijose, jo įgaliojimai turi būti sustabdomi šio įstatymo 221 straipsnio nustatyta tvarka.
 
-Notaras negali gauti jokio kito atlyginimo, išskyrus notaro atlyginimą, atlygį už arbitro funkcijų atlikimą, atlyginimą už mediacijos paslaugų teikimą, atlyginimą už aukcionų organizavimo ir vykdymo paslaugų teikimą, atlyginimą už darbą visų lygių rinkimų ir referendumo komisijose, kompensaciją už darbą Notarų rūmuose, užmokestį už pedagoginę ar kūrybinę veiklą. Ši nuostata netaikoma tais atvejais, kai sustabdomi notaro įgaliojimai.
+Notaras negali gauti jokio kito atlyginimo, išskyrus notaro atlyginimą, atlygį už arbitro funkcijų atlikimą, atlyginimą už mediacijos paslaugų teikimą, atlyginimą už aukcionų organizavimo ir vykdymo paslaugų teikimą, atlyginimą už darbą visų lygių rinkimų ir referendumo komisijose, tarnybinį atlyginimą už savanoriškos nenuolatinės karo tarnybos atlikimą, kompensaciją už darbą Notarų rūmuose, užmokestį už pedagoginę ar kūrybinę veiklą. Ši nuostata netaikoma tais atvejais, kai sustabdomi notaro įgaliojimai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 
 Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
+
+Nr. XIV-1362, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15456
 
 Atlikdamas arbitro funkcijas, notaras privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas. Notaras negali būti arbitru ginčuose, kylančiuose iš santykių, dėl kurių jis jau yra atlikęs įstatymų nustatytas funkcijas. Be to, notaras negali atlikti įstatymų nustatytų funkcijų dėl tų santykių, iš kurių kilusiame ginče jis buvo arbitru.
 
@@ -1429,7 +1431,11 @@ Nr. XI-1697, 2011-11-17, Žin., 2011, Nr. 146-6843 (2011-12-01)
 
 62 straipsnis. Kandidatų į notarus (asesorių) veiklos apribojimai
 
-Kandidatui į notarus (asesoriui) neleidžiama dirbti jokio kito darbo arba verstis kokia nors kitokia mokama veikla (išskyrus mokslinį ar pedagoginį bei kūrybinį darbą, arbitro funkcijų atlikimą, darbą visų lygių rinkimų ir referendumo komisijose). Kandidatas į notarus (asesorius) gali dirbti pagal darbo sutartį notaro biure, kuriame jis atlieka praktiką.
+Kandidatui į notarus (asesoriui) neleidžiama dirbti jokio kito darbo arba verstis kokia nors kitokia mokama veikla (išskyrus mokslinį ar pedagoginį bei kūrybinį darbą, savanoriškos nenuolatinės karo tarnybos atlikimą, arbitro funkcijų atlikimą, darbą visų lygių rinkimų ir referendumo komisijose). Kandidatas į notarus (asesorius) gali dirbti pagal darbo sutartį notaro biure, kuriame jis atlieka praktiką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1362, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15456
 
 Atlikdamas arbitro funkcijas, kandidatas į notarus (asesorius) privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas. Kandidatas į notarus (asesorius) negali būti arbitru ginčuose, kylančiuose iš santykių, dėl kurių jis jau yra atlikęs įstatymų nustatytas funkcijas. Be to, kandidatas į notarus (asesorius) negali atlikti įstatymų nustatytų funkcijų dėl tų santykių, iš kurių kilusiame ginče jis buvo arbitru.
 
