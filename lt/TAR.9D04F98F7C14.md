@@ -4,7 +4,7 @@ identifier: "TAR.9D04F98F7C14"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-07"
-last_updated: "2021-11-01"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2024-05-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 79-0; Žin. 1992, Nr.14-378, i. k. 0921010ISTA00I-2455
 
@@ -453,6 +453,14 @@ Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modern
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIV-441, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15441
+
+Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 3 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1299, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14927
 
 Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 3 straipsnio pakeitimo įstatymas
 
@@ -3360,29 +3368,33 @@ autrap@lrs.lt
 
 3 straipsnis. Valstybės paramos daugiabučiams namams atnaujinti teikimo sąlygos ir būdai
 
-1. Valstybės parama daugiabučio namo butų ir kitų patalpų savininkams, įgyvendinantiems atnaujinimo projektus pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančias savivaldybių programas, teikiama, jeigu pagal atnaujinimo projekte numatytas priemones pasiekiama ne mažesnė kaip C pastato energinio naudingumo klasė, nustatoma pagal Statybos įstatymą įgyvendinančius statybos techninius reglamentus, ir skaičiuojamosios šiluminės energijos sąnaudos įgyvendinus atnaujinimo projektą sumažinamos ne mažiau kaip 40 procentų, palyginti su skaičiuojamosiomis šiluminės energijos sąnaudomis iki atnaujinimo projekto įgyvendinimo. Jeigu atnaujinamas daugiabutis, kuriam pagal Statybos įstatymą minimalūs privalomi pastatų energinio naudingumo reikalavimai nenustatomi, valstybės parama pagal šį įstatymą teikiama, jeigu skaičiuojamosios šiluminės energijos sąnaudos sumažinamos ne mažiau kaip 25 procentais, palyginti su skaičiuojamosiomis šiluminės energijos sąnaudomis iki atnaujinimo projekto įgyvendinimo. Valstybės parama teikiama šiais būdais:
+1. Valstybės parama daugiabučio namo butų ir kitų patalpų savininkams, įgyvendinantiems atnaujinimo projektus pagal Lietuvos Respublikos Vyriausybės patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančias savivaldybių programas, teikiama, jeigu pagal atnaujinimo projekte numatytas priemones pasiekiama ne mažesnė kaip C pastato energinio naudingumo klasė, nustatoma pagal Statybos įstatymą įgyvendinančius statybos techninius reglamentus, ir skaičiuojamosios šiluminės energijos sąnaudos įgyvendinus atnaujinimo projektą sumažinamos ne mažiau kaip 40 procentų, palyginti su skaičiuojamosiomis šiluminės energijos sąnaudomis iki atnaujinimo projekto įgyvendinimo. Jeigu atnaujinamas daugiabutis, kuriam pagal Statybos įstatymą minimalūs privalomi pastatų energinio naudingumo reikalavimai nenustatomi, valstybės parama pagal šį įstatymą teikiama, jeigu skaičiuojamosios šiluminės energijos sąnaudos sumažinamos ne mažiau kaip 25 procentais, palyginti su skaičiuojamosiomis šiluminės energijos sąnaudomis iki atnaujinimo projekto įgyvendinimo. Valstybės parama teikiama šiais būdais:
 
-1) suteikiant lengvatinį kreditą atnaujinimo projekto daliai (techniniam darbo projektui) parengti, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, ir (ar) įgyvendinti (rangos darbams atlikti) ir penkerius metus nuo pirmosios kredito dalies išmokėjimo už atnaujinimo projekto dalies (techninio darbo projekto) parengimą ir (ar) atliktus rangos darbus dienos apmokant šio kredito bendrų metinių palūkanų dalį, viršijančią 3 procentus, tuo atveju, jeigu kredito metinės palūkanos viršija 3 procentus, ir
+1) pagal šio straipsnio 3 dalyje nurodytose taisyklėse nustatytas sąlygas  suteikiant lengvatinį kreditą atnaujinimo projekto daliai (techniniam darbo projektui) parengti, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, ir (ar) įgyvendinti (rangos darbams atlikti) ir  penkerius metus nuo pirmosios kredito dalies išmokėjimo už atnaujinimo projekto dalies (techninio darbo projekto) parengimą ir (ar) atliktus rangos darbus dienos apmokant šio kredito bendrų metinių palūkanų dalį, viršijančią 3 procentus, tuo atveju, jeigu kredito metinės palūkanos viršija 3 procentus, ir
 
-2) apmokant arba kompensuojant 100 procentu ne didesnę kaip Vyriausybės nustatyto dydžio išlaidų dalį atnaujinimo projektui ar jo daliai parengti, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, kai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka parengtą investicijų planą patvirtina butų ir kitų patalpų savininkai, ir
+2) pagal šio straipsnio 3 dalyje nurodytose taisyklėse nustatytus dydžius subsidijuojant ar dotuojant iki 100 procentų arba pagal šiose taisyklėse nustatytą fiksuotą įkainį, išlaidų dalį atnaujinimo projektui ar jo daliai parengti, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, kai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka parengtą investicijų planą patvirtina butų ir kitų patalpų savininkai, ir
 
-3) apmokant arba kompensuojant 100 procentu ne didesnes kaip Vyriausybės nustatyto dydžio atnaujinimo projekto įgyvendinimo administravimo ir statybos techninės priežiūros išlaidas, ir
+3) pagal šio straipsnio 3 dalyje nurodytose taisyklėse nustatytus dydžius subsidijuojant ar dotuojant iki 100 procentų atnaujinimo projekto įgyvendinimo administravimo ir statybos techninės priežiūros išlaidų arba joms taikant šiose taisyklėse nustatytą fiksuotą įkainį, ir
 
-4) kompensuojant 30 procentų investicijų, tenkančių Vyriausybės nustatytoms energinio efektyvumo didinimo priemonėms, ir
+4) pagal šio straipsnio 3 dalyje nurodytose taisyklėse nustatytus dydžius subsidijuojant ar dotuojant iki 30 procentų investicijų, tenkančių Vyriausybės nustatytoms energinio efektyvumo didinimo priemonėms, arba joms taikant šiose taisyklėse nustatytą fiksuotą įkainį, ir
 
-5) teikiant papildomą valstybės paramą, kai įgyvendinant atnaujinimo projektą daugiabučiame name įrengiamas atskiras ar modernizuojamas esamas neautomatizuotas šilumos punktas, įrengiami balansiniai ventiliai ant stovų ir (ar) pertvarkoma ar keičiama šildymo sistema, butuose ir kitose patalpose įrengiant individualios šilumos apskaitos prietaisus ar daliklių sistemą ir (ar) termostatinius ventilius, papildomai kompensuojant 10 procentų šių priemonių įgyvendinimo kainos;
+5) teikiant papildomą valstybės paramą, kai įgyvendinant atnaujinimo projektą daugiabučiame name įrengiamas atskiras ar modernizuojamas esamas neautomatizuotas šilumos punktas, įrengiami balansiniai ventiliai ant stovų ir (ar) pertvarkoma ar keičiama šildymo ir (ar) karšto vandens sistemos, butuose ir kitose patalpose įrengiant individualios šilumos apskaitos prietaisus ar daliklių sistemą ir (ar) termostatinius ventilius, papildomai pagal šio straipsnio 3 dalyje nurodytose taisyklėse nustatytus dydžius subsidijuojant ar dotuojant iki 20 procentų šių priemonių įgyvendinimo kainos arba jai taikant šiose taisyklėse nustatytą fiksuotą įkainį;
 
 6) apmokant nepasiturintiems gyventojams ir Lietuvos Respublikos nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, tenkančias atnaujinimo projekto parengimo, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, jo įgyvendinimo administravimo, statybos techninės priežiūros išlaidas, kredito draudimo įmoką, kiekvieno mėnesio kredito ir palūkanų įmokas.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. XIII-1899, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00886
+Nr. XIV-1299, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14927
 
-11. Valstybės parama teikiama kompensuojant 30 procentų priemonių įgyvendinimo kainos, jeigu įgyvendinant atnaujinimo projektą daugiabučiame name įrengiamas atskiras automatizuotas šilumos punktas ar modernizuojamas esamas neautomatizuotas šilumos punktas, įrengiami balansiniai ventiliai ant stovų ir (ar) pertvarkomos ar keičiamos šildymo ir (ar) karšto vandens sistemos, butuose ir kitose patalpose įrengiant individualios šilumos apskaitos prietaisus ar šilumos daliklių sistemą ir (ar) termostatinius ventilius; šiuo atveju šio straipsnio 1 dalyje nustatyti valstybės paramos teikimo reikalavimai netaikomi. Šio straipsnio 1 dalyje nustatyti valstybės paramos teikimo reikalavimai taikomi, jeigu įgyvendinus šioje dalyje nurodytą priemonę vėlesniu etapu yra įgyvendinamos likusios energinį efektyvumą didinančios ir (ar) kitos priemonės pagal Daugiabučių namų atnaujinimo (modernizavimo) programą.
+11. Valstybės parama daugiabučio namo butų ir kitų patalpų savininkams ir šilumos tiekėjams teikiama subsidijuojant ar dotuojant aplinkos ministro įsakymu nustatytą dalį, iki 80 procentų priemonių įgyvendinimo kainos, jeigu įgyvendinant atnaujinimo projektą daugiabučiame name įrengiamas atskiras automatizuotas šilumos punktas ar modernizuojamas esamas neautomatizuotas šilumos punktas, įrengiami balansiniai ventiliai ant stovų ir (ar) pertvarkomos ar keičiamos šildymo ir (ar) karšto vandens sistemos, butuose ir kitose patalpose įrengiant individualios šilumos apskaitos prietaisus ar šilumos daliklių sistemą ir (ar) termostatinius ventilius; šiuo atveju šio straipsnio 1 dalyje nustatyti valstybės paramos teikimo reikalavimai netaikomi. Įgyvendinant šioje dalyje išvardytas priemones, taikomas siekiant užtikrinti nustatytus daugiabučio namo šildymo ir karšto vandens sistemos privalomuosius reikalavimus, subsidijuojama ar dotuojama ne mažiau kaip 60 ir ne daugiau kaip 80 procentų šių priemonių įgyvendinimo kainos. Šio straipsnio 1 dalyje nustatyti valstybės paramos teikimo reikalavimai taikomi, jeigu įgyvendinus šioje dalyje nurodytą priemonę vėlesniu etapu yra įgyvendinamos likusios energinį efektyvumą didinančios ir (ar) kitos priemonės pagal Daugiabučių namų atnaujinimo (modernizavimo) programą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1996, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04589
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1299, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14927
 
 2. Jeigu atnaujinimo projekto ar jo dalies parengimą pirkdamas paslaugas teisės aktų nustatyta tvarka savo iniciatyva organizuoja projekto administratorius ar savivaldybė, šio atnaujinimo projekto ar jo dalies parengimo išlaidos, neviršijant šio straipsnio 1 dalies 2 punkte nurodytos paramos dydžio, apmokamos pirkimo metu projekto administratoriaus ar savivaldybės atrinktam atnaujinimo projekto ar jo dalies rengėjui arba kompensuojamos projekto administratoriui ar savivaldybei, jeigu atnaujinimo projekto ar jo dalies parengimo išlaidas jis (ji) apmokėjo savo lėšomis, kai investicijų planą patvirtina daugiabučio namo butų ir kitų patalpų savininkai.
 
