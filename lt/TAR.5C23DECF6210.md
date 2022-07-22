@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2022-01-01"
+last_updated: "2022-07-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
 
@@ -187,6 +187,12 @@ Nr. XIV-660, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24264
 7) prisiimti naujų įsipareigojimų išplatinant skolos vertybinius popierius, pasirašant paskolų sutartis (išskyrus atvejus, kai imama valstybės perskolinama paskola), finansinės nuomos (lizingo) sutartis ar kitus įsipareigojamuosius skolos dokumentus (išskyrus atvejus, kai suteikiama valstybės garantija).
 
 14. Šio įstatymo reglamentuojamiems santykiams netaikomi Lietuvos Respublikos akcinių bendrovių įstatymo nustatyti apribojimai, susiję su draudimu bendrovėms skolinantis iš akcininkų įkeisti akcininkams savo turtą ir su metinių palūkanų normos ribojimu.
+
+15. Jeigu valstybės garantija užtikrintos reikalavimo teisės perleidžiamos pagal Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymą, valstybės garantija, kuria užtikrinamos šios perleidžiamos reikalavimo teisės, galioja neatsižvelgiant į tai, kad valstybės garantija reikalavimo teisių perleidimas draudžiamas ar ribojamas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1342, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15416
 
 4 straipsnis. Vyriausybės skolinimosi valstybės vardu ir valstybės garantijų suteikimo tikslai
 
@@ -619,6 +625,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-660, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24264
 
 Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1342, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15416
+
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 straipsnio pakeitimo įstatymas
 
 12 straipsnis. Atskaitomybė
 
