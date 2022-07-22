@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2022-05-01"
+last_updated: "2022-07-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-11-09
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -514,13 +514,15 @@ Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010IST
 
 Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
 
-2. Finansų įstaigomis nelaikomi informuotiesiems investuotojams skirti kolektyvinio investavimo subjektai ir tik šiuos subjektus valdančios valdymo įmonės.
+2. Finansų įstaigomis nelaikomi informuotiesiems investuotojams skirti kolektyvinio investavimo subjektai ir tik šiuos subjektus valdančios valdymo įmonės, taip pat specialiosios paskirties bendrovės, nurodytos Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
 
 Nr. XII-377, 2013-06-18, Žin., 2013, Nr. 68-3411 (2013-06-28), i. k. 1131010ISTA0XII-377
+
+Nr. XIV-1336, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15401
 
 3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos bankas, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas priežiūrą atlieka Europos Centrinis Bankas (toliau – priežiūros institucija).
 
@@ -544,7 +546,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
-6. Šio įstatymo 20 straipsnio 2 dalyje, 44 straipsnio 3 dalyje ir 46 straipsnio 3 dalyje nustatyta tvarka netaikoma finansų įstaigoms, kurios teikia tik nelicencines finansines paslaugas, nustatytas Lietuvos Respublikos vartojimo kredito įstatyme.
+6. Neteko galios nuo 2022-07-22.
 
 Papildyta straipsnio dalimi:
 
@@ -554,11 +556,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
 
-7. Finansų įstaigos, teikiančios šio Įstatymo 3 straipsnio 1 dalies 2 ir 3 punktuose nurodytas finansines paslaugas ir atitinkančios priežiūros institucijos nustatyta tvarka apskaičiuotą reikšmingumo kriterijų pagal užimamą rinkos dalį, priežiūros institucijai privalo teikti duomenis apie šio Įstatymo 3 straipsnio 1 dalies 2 ir 3 punktuose nurodytų finansinių paslaugų gavėjus ir turi teisę naudotis šiais duomenimis priežiūros institucijos nustatyta tvarka. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie šio Įstatymo 3 straipsnio 1 dalies 2 ir 3 punktuose nurodytų finansinių paslaugų gavėjus.
+Nr. XIV-1336, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15401
+
+7. Finansų įstaigos, teikiančios šio Įstatymo 3 straipsnio 1 dalies 2, 3 ir 21 punktuose nurodytas finansines paslaugas ir atitinkančios priežiūros institucijos nustatyta tvarka apskaičiuotą reikšmingumo kriterijų pagal užimamą rinkos dalį, priežiūros institucijai privalo teikti duomenis apie šio Įstatymo 3 straipsnio 1 dalies 2, 3 ir 21 punktuose nurodytų finansinių paslaugų gavėjus ir turi teisę naudotis šiais duomenimis priežiūros institucijos nustatyta tvarka. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie šio Įstatymo 3 straipsnio 1 dalies 2, 3 ir 21 punktuose nurodytų finansinių paslaugų gavėjus.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1336, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15401
 
 ANTRASIS SKIRSNIS
 
@@ -1904,7 +1912,15 @@ Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
 
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 4, 44 straipsnių ir priedo pakeitimo įstatymas
 
-part_83ce497e6aa64ab1843155e8d3a83020_end
+30.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1336, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15401
+
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4 straipsnio pakeitimo įstatymas
+
+part_a6c3b67e8bd9493582778d4752202e3a_end
 
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
