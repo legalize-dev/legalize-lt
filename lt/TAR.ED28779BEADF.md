@@ -4,7 +4,7 @@ identifier: "TAR.ED28779BEADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2022-04-29"
+last_updated: "2022-07-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2022-04-29 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
 
@@ -2790,7 +2790,11 @@ PRIEŽIŪROS INSTITUCIJOS BENDRADARBIAVIMAS SU KITOMIS PRIEŽIŪROS INSTITUCIJOM
 
 2) kurioms Lietuvos Respublikos institucijoms galima perduoti konfidencialią informaciją apie kolektyvinio investavimo subjektų veiklą;
 
-3) kurios kredito įstaigos atitinka šio įstatymo 80 straipsnio 6 dalyje nurodytus reikalavimus, taip pat nurodyti tokių kredito įstaigų išleidžiamas obligacijas ir priemones, užtikrinančias obligacijų savininkų interesus;
+3) neteko galios nuo 2022-07-22;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1343, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15417
 
 4) apie atvejus, kai Lietuvos Respublikoje licencijuotoms valdymo įmonėms trukdoma teikti paslaugas arba platinti kolektyvinio investavimo subjekto investicinius vienetus ar akcijas trečiosiose valstybėse;
 
@@ -3049,6 +3053,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
 
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 18, 31, 164, 171 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1343, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15417
+
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 80 ir 174 straipsnių pakeitimo įstatymas
 
 175 straipsnis. Nuostatos, susijusios su naryste Europos Sąjungoje
 
@@ -3642,8 +3654,6 @@ INVESTICINIS FONDAS
 
 8. Kai suderintojo kolektyvinio investavimo subjekto valdymo įmonė arba investicinė bendrovė-valdytoja prisiima riziką, susijusią su pakeitimu vertybiniais popieriais, kuris nebeatitinka 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/2402, kuriuo nustatoma bendroji pakeitimo vertybiniais popieriais sistema ir sukuriama specialioji paprasto, skaidraus ir standartizuoto pakeitimo vertybiniais popieriais sistema, ir iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB ir 2011/61/ES bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 648/2012 (OL 2017 L 347, p. 35), nustatytų reikalavimų, suderintojo kolektyvinio investavimo subjekto valdymo įmonė arba investicinė bendrovė-valdytoja veikia ir prireikus imasi taisomųjų veiksmų kuo labiau atsižvelgdamos į investuotojų interesus.
 
-TAR pastaba. 79 straipsnio 8 dalis įsigalioja 2019 m. sausio 1 d.
-
 80 straipsnis. Investicinių priemonių portfelio diversifikavimas
 
 1. Į vieno asmens išleistus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai suderintojo kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio 2, 5 ir 6 dalyse nustatytus atvejus.
@@ -3656,7 +3666,11 @@ TAR pastaba. 79 straipsnio 8 dalis įsigalioja 2019 m. sausio 1 d.
 
 5. Investicijos į valstybės narės ar jos savivaldybės, kitos valstybės, tarptautinės organizacijos, kuriai priklauso bent viena valstybė narė, išleistus arba garantuotus vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones negali būti didesnės kaip 35 procentai kolektyvinio investavimo subjekto grynųjų aktyvų vertės. Priežiūros institucija gali leisti investuoti į šioje dalyje nurodytus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones ir didesnę dalį grynųjų aktyvų, jeigu tokiu atveju investuotojų interesai būtų pakankamai apsaugoti, investuota į ne mažiau kaip 6 emisijų perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones, o į vienos emisijos perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones investuota ne daugiau kaip 30 procentų grynųjų aktyvų.
 
-6. Investicijos į obligacijas, išleistas tokios valstybėje narėje registruotą buveinę turinčios kredito įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai prižiūrima pagal teisės aktus, o iš obligacijų leidimo gauta suma visam obligacijų galiojimo laikui investuojama į tokį turtą, kurio pakaktų obligacijų savininkų reikalavimams patenkinti ir iš kurio emitentui tapus nemokiam obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir palūkanas būtų patenkinti pirmumo teise, negali būti didesnės kaip 25 procentai grynųjų aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip 5 procentai, bet ne daugiau kaip 25 procentai grynųjų aktyvų, bendra tokių investicijų suma negali būti didesnė kaip 80 procentų grynųjų aktyvų.
+6. Investicijos į obligacijas, išleistas tokios valstybėje narėje registruotą buveinę turinčios kredito įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai prižiūrima pagal teisės aktus, o iš obligacijų leidimo gauta suma visam obligacijų galiojimo laikui investuojama į tokį turtą, kurio pakaktų obligacijų savininkų reikalavimams patenkinti ir iš kurio emitentui tapus nemokiam obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir palūkanas būtų patenkinti pirmumo teise, jei tokios obligacijos išleistos iki 2022 m. liepos 7 d., arba investicijos į padengtąsias obligacijas, kurios atitinka Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymo 3 straipsnio 4 dalyje nurodytus reikalavimus, negali būti didesnės kaip 25 procentai grynųjų aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip 5 procentai, bet ne daugiau kaip 25 procentai grynųjų aktyvų, bendra tokių investicijų suma negali būti didesnė kaip 80 procentų grynųjų aktyvų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1343, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15417
 
 7. Šio straipsnio 5 ir 6 dalyse numatyti perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal šio straipsnio 2 dalį taikoma didžiausia leidžiama 40 procentų riba. Šio straipsnio 1–6 dalyse ir šio įstatymo 84 straipsnio 5 dalyje nustatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius ar įsipareigojimus, atsirandančius iš sandorių su tuo asmeniu dėl išvestinių finansinių priemonių, sudarytų už šio įstatymo 79 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytų rinkų ribų, suma negali būti didesnė kaip 35 procentai kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų.
 
