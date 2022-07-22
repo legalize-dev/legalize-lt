@@ -4,7 +4,7 @@ identifier: "TAR.E22116F1B0E0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-13"
-last_updated: "2022-05-01"
+last_updated: "2022-07-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-11-29
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
 
@@ -81,13 +81,21 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1883, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00239
 
-5. Įstatymo nuostatos yra suderintos su šio Įstatymo priede pateiktais Europos Sąjungos teisės aktais.
+5. Šis Įstatymas specialiosios paskirties bendrovėms, nurodytoms Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme, taikomas tiek, kiek Pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme nenustatyta kitaip.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1332, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15397
+
+6. Įstatymo nuostatos yra suderintos su šio Įstatymo priede pateiktais Europos Sąjungos teisės aktais.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
 
 Nr. XIII-1883, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00239
+
+Nr. XIV-1332, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15397
 
 Straipsnio pakeitimai:
 
@@ -910,10 +918,6 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 3. Akcininkas gali balsuoti raštu užpildydamas bendrąjį balsavimo biuletenį. Užpildytas bendrasis balsavimo biuletenis bendrovei gali būti perduotas elektroninių ryšių priemonėmis, jeigu užtikrinamas perduodamos informacijos saugumas ir galima nustatyti akcininko tapatybę.
-
-4. Bendrovė gali sudaryti galimybę akcininkams visuotiniame akcininkų susirinkime dalyvauti ir balsuoti elektroninių ryšių priemonėmis.
-
-4 dalies redakcija nuo 2020-09-03:
 
 4. Bendrovė gali sudaryti galimybę akcininkams visuotiniame akcininkų susirinkime dalyvauti ir balsuoti elektroninių ryšių priemonėmis. Akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, privalo užtikrinti, kad tais atvejais, kai akcininkas ar jo įgaliotinis visuotiniame akcininkų susirinkime dalyvavo ir balsavo elektroninių ryšių priemonėmis, jam nedelsiant būtų išsiųstas balsavimo elektroninių ryšių priemonėmis rezultato gavimo patvirtinimas ir akcininko ar jo įgaliotinio prašymu, kuris gali būti pateiktas ne vėliau kaip per 7 dienas nuo visuotinio akcininkų susirinkimo dienos, būtų pateiktas patvirtinimas, kad jo balsas užregistruotas ir įskaitytas tinkamai (nebent jis jau turi šią informaciją). Jeigu šioje dalyje nurodytą patvirtinimą gauna juridinis asmuo, kuris, vadovaujantis Finansinių priemonių rinkų įstatymu, yra atidaręs ir tvarko akcininko asmeninę vertybinių popierių sąskaitą, jis nedelsdamas bet kokiomis priemonėmis šį patvirtinimą perduoda akcininkui ar jo įgaliotiniui. Jeigu perduodant patvirtinimą yra daugiau negu vienas juridinis asmuo, kuris, vadovaujantis Finansinių priemonių rinkų įstatymu, turi teisę atidaryti ir tvarkyti finansinių priemonių asmenines sąskaitas, taikomos Finansinių priemonių rinkų įstatymo 89 straipsnio 9–11 dalys.
 
@@ -3349,7 +3353,7 @@ Priedo pakeitimai:
 
 Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
 
-part_a83e74f421334b9eb3777a90428f5701_end
+part_af5475a7bfbb42ebb5002455ab0c9852_end
 
 Pakeitimai:
 
