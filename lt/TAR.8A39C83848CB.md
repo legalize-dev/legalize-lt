@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2022-07-15"
+last_updated: "2022-07-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2022-07-15 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-08-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -10121,6 +10121,12 @@ Paskelbęs viešą konkursą asmuo privalo grąžinti konkurso dalyviams darbus 
 
 2. Turto perdavimas kitam asmeniui patikėjimo teise nepakeičia turto nuosavybės teisės. Perduoto turto savininku ir toliau lieka patikėtojas.
 
+3. Investuotojų į vertybinius popierius patikėtinio reikalavimus gali nustatyti kiti Lietuvos Respublikos įstatymai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
+
 6.954 straipsnis. Turto patikėjimo teisės turinys
 
 6.955 straipsnis. Sandorių sudarymas
@@ -10159,7 +10165,11 @@ Patikėjimo teisės steigėju (patikėtoju) gali būti turto savininkas arba kit
 
 1. Turtas, perduotas patikėtiniui patikėjimo teise, turi būti atskirtas nuo patikėtojo ir patikėtinio turto. Patikėtinis privalo sudaryti ir tvarkyti jam perduoto turto apskaitą (balansą), o atsiskaitymams atlikti turi atidaryti atskirą banko sąskaitą.
 
-2. Išieškoti pagal patikėtojo kreditorių ieškinius iš turto, perduoto patikėjimo teise, draudžiama, išskyrus atvejus, kai patikėtojui iškeliama bankroto byla ar jis tampa nemokus. Iškėlus patikėtojui bankroto bylą ar jam tapus nemokiam, turto patikėjimo teisė baigiasi, o turtas turi būti grąžintas patikėtojui.
+2. Išieškoti pagal patikėtojo kreditorių ieškinius iš turto, perduoto patikėjimo teise, draudžiama, išskyrus atvejus, kai patikėtojui iškeliama bankroto byla ar jis tampa nemokus. Iškėlus patikėtojui bankroto bylą ar jam tapus nemokiam, turto patikėjimo teisė baigiasi, o turtas turi būti grąžintas patikėtojui, išskyrus kituose Lietuvos Respublikos įstatymuose nustatytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
 
 6.962 straipsnis. Įkeisto turto perdavimas patikėjimo teise
 
@@ -10215,7 +10225,11 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 6.968 straipsnis. Turto patikėjimo teisės ypatumai
 
-Įstatymai gali nustatyti turto patikėjimo teisės ypatumus, kai patikėtinis yra valstybės arba savivaldybės įmonės, įstaigos ar organizacijos, taip pat kai turto patikėjimo teisė atsiranda ne sutarties, o kitais pagrindais.
+Įstatymai gali nustatyti turto patikėjimo teisės ypatumus, kai patikėjimo teise perduodamas valstybės ar savivaldybės turtas, taip pat kai turto patikėjimo teisė atsiranda ne sutarties, o kitais pagrindais ir kitais atvejais.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
 
 LI skyrius
 
@@ -11520,6 +11534,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1357, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15452
 
 Lietuvos Respublikos civilinio kodekso 2.24 straipsnio pakeitimo įstatymas
+
+62.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
+
+Lietuvos Respublikos civilinio kodekso 4.181, 6.66, 6.953, 6.961 ir 6.968 straipsnių pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
