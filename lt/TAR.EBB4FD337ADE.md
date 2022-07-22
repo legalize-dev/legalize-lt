@@ -4,7 +4,7 @@ identifier: "TAR.EBB4FD337ADE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-22"
-last_updated: "2022-01-01"
+last_updated: "2022-07-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EBB4FD337ADE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-11-30
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
 
@@ -143,6 +143,12 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 12. Krizių valdymo priemonė – finansų sektoriaus subjekto pertvarkymo veiksmai, specialiojo valdytojo paskyrimas ar asmens, nurodyto šio įstatymo 45 straipsnio 2 dalyje, paskyrimas.
 
 13. Nuosavybės priemonės – akcijos, finansinės priemonės, kuriomis suteikiama nuosavybės teisė arba kurias galima konvertuoti į akcijas ar kitas nuosavybės priemones, arba kurios suteikia teisę jų įsigyti.
+
+131. Padengtoji obligacija – kaip apibrėžiama Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme arba iki 2022 m. liepos 7 d. išleista obligacija, atitinkanti Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo 80 straipsnio 6 dalyje nurodytas sąlygas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 14. Pagrindinės verslo dalys – verslo dalys, įskaitant susijusias paslaugas, kurios yra reikšmingi finansų įstaigos arba finansinės grupės, kuriai ji priklauso, pajamų, pelno ar franšizės vertės šaltiniai.
 
@@ -2198,7 +2204,11 @@ Turto valdymo įmonė neturi pareigos veikti pertvarkomo subjekto akcininkų ir 
 
 1) apdraustieji indėliai, kaip apibrėžta Indėlių ir įsipareigojimų investuotojams įstatyme;
 
-2) užtikrinti įsipareigojimai, įskaitant hipotekines obligacijas ir įsipareigojimus, kylančius iš finansinių priemonių, naudojamų siekiant valdyti riziką, kurie yra užtikrinti įstaigos turto portfeliu;
+2) užtikrinti įsipareigojimai, įskaitant padengtąsias obligacijas ir įstaigos turto portfeliu užtikrintus įsipareigojimus, kylančius iš finansinių priemonių, naudojamų siekiant valdyti riziką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 3) bet kokie įsipareigojimai, kylantys pertvarkomam subjektui laikant klientų turtą arba pinigus, įskaitant klientų turtą arba pinigus, laikomus kolektyvinio investavimo subjektų vardu, kai tokių klientų interesai apsaugoti pagal bankroto ir restruktūrizavimo procedūras reglamentuojančius Lietuvos Respublikos teisės aktus;
 
@@ -2226,7 +2236,11 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
-2. Gelbėjimo privačiomis lėšomis priemonė netaikoma hipotekinėms obligacijoms užtikrinti skirto turto portfeliui. Šis užtikrinimui skirtas turtas turi būti atskirtas nuo pertvarkomo subjekto turto, užtikrinant pakankamą šio turto finansavimą.
+2. Gelbėjimo privačiomis lėšomis priemonė netaikoma padengtosioms obligacijoms užtikrinti skirto turto portfeliui. Šis užtikrinti skirtas turtas turi būti atskirtas nuo pertvarkomo subjekto turto, užtikrinant pakankamą šio turto finansavimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 3. Nepaisydama šio straipsnio 2 dalies ir šio straipsnio 1 dalies 2 punkto nuostatų, pertvarkymo institucija prireikus gali nurašyti ar konvertuoti bet kokią užtikrintų įsipareigojimų arba įsipareigojimų, garantuojamų įkeistu turtu, dalį, kuri viršija užtikrinimui skirto turto, įkeisto turto, sulaikymo teisės ar kitokio užstato, kuriais užtikrinamas toks įsipareigojimas, vertę.
 
@@ -2558,7 +2572,11 @@ APSAUGOS PRIEMONĖS VYKDANT PERTVARKYMĄ
 
 4) užskaitos sandorių;
 
-5) hipotekinių obligacijų sandorių;
+5) padengtųjų obligacijų sandorių;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 6) struktūrizuoto finansavimo sandorių, įskaitant pakeitimo vertybiniais popieriais sandorius ir sandorius dėl rizikos draudimo priemonių, kurios sudaro neatskiriamą užstato dalį ir pagal teisės aktus yra užtikrintos, prievolės įvykdymo užtikrinimo priemonę pateikiant ir valdant sandorio šaliai, patikėtiniui, agentui ar paskirtajam asmeniui.
 
@@ -2580,13 +2598,17 @@ APSAUGOS PRIEMONĖS VYKDANT PERTVARKYMĄ
 
 2. Šio straipsnio 1 dalyje nurodyti įpareigojimai yra laikomi įvykdytais, jeigu finansinio užtikrinimo perduodant užstato nuosavybės teisę sandorio, įskaitymo ar užskaitos sandorio šalys turi teisę įskaityti tarpusavio prievoles pagal įskaitymo ar užskaitos sandorius.
 
-94 straipsnis. Struktūrizuoto finansavimo sandorių ir hipotekinių obligacijų sandorių apsauga
+94 straipsnis. Struktūrizuoto finansavimo sandorių ir padengtųjų obligacijų sandorių apsauga
 
 Pertvarkymo institucija turi užtikrinti, kad:
 
-1) būtų nedalomai perduodamas turtas, teisės ir įsipareigojimai, kurie yra struktūrizuoto finansavimo sandorio ar hipotekinių obligacijų sandorio dalis, kurio šalis yra pertvarkomas subjektas;
+1) būtų nedalomai perduodamas turtas, teisės ir įsipareigojimai, kurie yra struktūrizuoto finansavimo sandorio ar padengtųjų obligacijų sandorio, kurio šalis yra pertvarkomas subjektas, dalis;
 
-2) nebūtų panaikinamos ar pakeičiamos iš struktūrizuoto finansavimo sandorio ar hipotekinių obligacijų sandorio, kurio šalis yra pertvarkymo institucija, kylančios teisės ir pareigos ar su turtu, kuris yra šių sandorių objektas, susijusios teisės ir pareigos.
+2) nebūtų panaikinamos ar pakeičiamos iš struktūrizuoto finansavimo sandorio ar padengtųjų obligacijų sandorio, kurio šalis yra pertvarkomas subjektas, kylančios teisės ir pareigos ar su turtu, kuris yra šių sandorių objektas, susijusios teisės ir pareigos.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 3. Kai taikomas šio įstatymo 95 straipsnis, pertvarkymo institucija taiko šio straipsnio 1 dalyje nurodytus apribojimus visiems finansinės grupės subjektams, kurių pertvarkymo veiksmai atliekami.
 
@@ -2692,6 +2714,12 @@ Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 4) specialieji valdytojai arba laikinieji administratoriai;
 
+41) specialieji administratoriai, paskirti pagal Pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
+
 5) potencialūs įsigyjantieji asmenys, su kuriais priežiūros institucija susisiekė arba kuriems pertvarkymo institucija pateikė pasiūlymą pirkti;
 
 6) auditoriai, buhalteriai, teisės konsultantai, vertintojai ir kiti ekspertai ar konsultantai, kuriuos tiesiogiai ar netiesiogiai pasitelkė pertvarkymo institucija, priežiūros institucija arba potencialūs įsigyjantieji asmenys, nurodyti šios dalies 5 punkte;
@@ -2708,7 +2736,11 @@ Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 3. Šio straipsnio 2 dalies 1, 2, 3, 7, 8, 9 punktuose nurodyti asmenys privalo nustatyti vidaus tvarkos taisykles, kuriomis būtų užtikrinta, kad su informacija, gauta atliekant šiame įstatyme nustatytas funkcijas, galėtų susipažinti tik tiesiogiai pertvarkymo procese dalyvaujantys asmenys, ir būtų nustatyti kiti tokios informacijos apsaugą užtikrinantys reikalavimai.
 
-4. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas, jeigu informacijos, gautos šio įstatymo tikslais, atskleidimas yra būtinas tinkamam šiame įstatyme nustatytų funkcijų atlikimui arba jeigu atskleidžiama informacija yra apibendrinta ir neįmanoma atpažinti atskirų įstaigų arba šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytų subjektų, arba jeigu gaunamas aiškus išankstinis informaciją pateikusios institucijos, įstaigos arba šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodyto subjekto sutikimas.
+4. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas, jeigu informacijos, gautos šio įstatymo tikslais, atskleidimas yra būtinas šiame įstatyme nustatytoms funkcijoms tinkamai atlikti arba jeigu atskleidžiama informacija yra apibendrinta ir neįmanoma atpažinti atskirų įstaigų arba šio įstatymo 1 straipsnio 2 dalies 4, 41 ar 5 punkte nurodytų subjektų, arba jeigu gaunamas aiškus išankstinis informaciją pateikusios institucijos, įstaigos arba šio įstatymo 1 straipsnio 2 dalies 4, 41 ar 5 punkte nurodyto subjekto sutikimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 5. Kiekvieno šio straipsnio 2 dalies 1−7 punktuose nurodyto subjekto darbuotojai ir šio subjekto pasitelkti ekspertai ar konsultantai turi teisę tarpusavyje keistis šiame straipsnyje nurodyta saugoma informacija.
 
@@ -3390,7 +3422,15 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 pakeitimo įstatymas
 
-part_1af424f6f33448c58fb87ba5f959e221_end
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 77, 91, 94 ir 99 straipsnių pakeitimo įstatymas
+
+part_13a91a74f71b475da9da496a54240981_end
 
 211 straipsnis. Įgaliojimai uždrausti tam tikrus paskirstymus
 
