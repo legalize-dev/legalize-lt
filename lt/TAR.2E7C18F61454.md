@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2022-07-01"
+last_updated: "2022-07-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-07-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
-
-TAR pastaba. Iki Įstatymo Nr. XIV-889 įsigaliojimo (2022-07-01) pradėtos nagrinėti Lietuvos Respublikos civilinio proceso kodekso V dalies XXX skyriuje nurodytos bylos baigiamos nagrinėti pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-889, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00071
-
-Lietuvos Respublikos civilinio proceso kodekso 494, 496-1, 500 ir 501 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -2803,11 +2795,13 @@ Nr. XIII-2724, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00083
 
 4. Kai išieškoma pagal įmonės hipotekos sandorį, vykdomąjį įrašą priėmęs vykdyti antstolis šio Kodekso 677 straipsnyje nustatyta tvarka sudaro hipotekos objektu esančios įmonės turto aprašą ir priima patvarkymą paskirti hipotekos kreditorių arba kreditoriaus sutikimu kitą asmenį įmonės turto administratoriumi. Šiuo atveju įkeistos įmonės valdymo organai iš administruojamo įmonės turto gaunamas pajamas perveda į antstolio depozitinę sąskaitą, iš kurios lėšos paskirstomos hipotekos kreditoriams atsižvelgiant į jų reikalavimų tenkinimo eilę.
 
-5. Kai skolininkui (įkeisto turto savininkui) pradėtas bankroto ar restruktūrizavimo procesas, įkeistas turtas parduodamas ir hipotekos ar įkeitimo kreditorių reikalavimai tenkinami atitinkamai Juridinių asmenų nemokumo įstatymo ar Fizinių asmenų bankroto įstatymo nustatyta tvarka.
+5. Kai skolininkui (įkeisto turto savininkui) pradėtas bankroto ar restruktūrizavimo procesas, įkeistas turtas parduodamas ir hipotekos ar įkeitimo kreditorių reikalavimai tenkinami atitinkamai Juridinių asmenų nemokumo įstatymo ar Fizinių asmenų bankroto įstatymo nustatyta tvarka, atsižvelgiant į Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme nustatytas sąlygas dėl užtikrinamojo turto valdymo, disponavimo juo, specialiųjų kreditorių ir investuotojų teisių į užtikrinamąjį turtą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
+
+Nr. XIV-1331, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15396
 
 Straipsnio pakeitimai:
 
