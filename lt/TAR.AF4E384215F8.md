@@ -4,7 +4,7 @@ identifier: "TAR.AF4E384215F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-11-07"
-last_updated: "2021-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-08-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
 
@@ -1209,6 +1209,12 @@ TAR pastaba. 55 straipsnio 3 dalyje nustatytos kompensacijos mokamos pagal sveik
 
 7. Pareigūnui ir jo šeimos nariams padaryta materialinė žala, kurią jie patyrė dėl su pareigūno tarnyba susijusių priežasčių ir kuri yra nustatyta remiantis tarnybinio patikrinimo išvada, atlyginama Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka.
 
+8. Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka pareigūnas informuojamas apie šiame įstatyme nustatytas jo tarnybos sąlygas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1193, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15184
+
 PENKTASIS SKIRSNIS
 
 PAREIGŪNŲ NUŠALINIMAS NUO PAREIGŲ IR ATLEIDIMAS IŠ TARNYBOS
@@ -1877,5 +1883,13 @@ Nr. XIII-3439, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24616
 
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 1 straipsnio pakeitimo įstatymas
 
-part_4699943a682e42dc90a92492ec8afeb1_end
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1193, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15184
+
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 58 straipsnio pakeitimo įstatymas
+
+part_9628c66d24d349e1bca91aad7926fbee_end
 
