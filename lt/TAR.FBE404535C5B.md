@@ -4,7 +4,7 @@ identifier: "TAR.FBE404535C5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-08"
-last_updated: "2021-09-18"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2021-09-18 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-10-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 215-0; Žin. 1991, Nr.30-804, i. k. 0911010ISTA00I-1863
 
@@ -312,7 +312,11 @@ Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
 
 12 straipsnis. Kombinuotieji krovinių ir keleivių vežimai
 
-1. Kombinuotasis krovinių vežimas – krovinių vežimas ne mažiau kaip dviejų rūšių transporto priemonėmis, kai tas pats krovinys, esantis sunkvežimyje, priekaboje ar puspriekabėje (su vilkiku ar be jo), keičiamoje talpykloje arba 20 ar daugiau pėdų konteineryje, didžiąją maršruto dalį yra vežamas geležinkelių, vidaus vandenų arba jūrų transportu, o pradinę ir (arba) galutinę maršruto dalį – kelių transporto priemonėmis.
+1. Kombinuotasis vežimas – krovinių vežimas iš vienos Europos Sąjungos valstybės narės teritorijos į kitos Europos Sąjungos valstybės narės teritoriją ne mažiau kaip dviejų rūšių – geležinkelių, vidaus vandenų arba jūrų transporto priemonėmis, o pradinę ir (arba) galutinę maršruto dalį – kelių transporto priemonėmis, kai tas pats krovinys, esantis sunkvežimyje, priekaboje ar puspriekabėje su vilkiku ar be jo, keičiamoje talpykloje arba 20 ar daugiau pėdų konteineryje, yra vežamas didesniu kaip 100 km atstumu, matuojant tiesia linija, arba kai krovinys yra vežamas iš krovinio pakrovimo vietos iki artimiausios geležinkelio pakrovimo stoties ar iš artimiausios geležinkelio iškrovimo stoties iki krovinio iškrovimo vietos, arba iš vidaus vandenų ar jūrų uosto ne didesniu kaip 150 km spindulio, matuojant tiesia linija, atstumu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1168, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15162
 
 2. Kombinuotasis keleivių vežimas – keleivių vežimas ne mažiau kaip dviejų transporto rūšių transporto priemonėmis, kai toks vežimas vykdomas vienos keleivių vežimo sutarties pagrindu.
 
@@ -570,7 +574,7 @@ Papildyta priedu:
 
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
-part_30053e31fbd245c58a2e81958887a142_end
+part_fa6878261d474129bce4509fea5cbadd_end
 
 Lietuvos Respublikos
 
@@ -787,6 +791,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
 
 Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2, 4, 6, 9, 14, 15 ir 18 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1168, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15162
+
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 12 straipsnio pakeitimo įstatymas
 
 13 straipsnis. Viešųjų keleivinio transporto paslaugų teikimas
 
