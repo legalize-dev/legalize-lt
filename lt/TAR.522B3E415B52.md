@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2022-01-27"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-01-27 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -3376,10 +3376,6 @@ Papildyta straipsniu:
 
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
-ANTRASIS SKIRSNIS
-
-TEISĖJŲ NEPRIKLAUSOMUMO GARANTIJOS
-
 1301 straipsnis. Teismų sistemos apdovanojimai
 
 1. Lietuvos Respublikos Konstitucinio Teismo, bendrosios kompetencijos ir specializuotų teismų teisėjams, šių teismų valstybės tarnautojams ir darbuotojams bei kitiems teismų sistemai nusipelniusiems asmenims gali būti skiriami teismų sistemos apdovanojimai.
@@ -3407,4 +3403,16 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 Papildyta straipsniu:
 
 Nr. XIII-2775, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02010
+
+442 straipsnis. Teisėjo informavimas apie jo darbo sąlygas
+
+Teisėjas informuojamas apie jo darbo sąlygas Teisėjų tarybos nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIV-1195, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15186
+
+ANTRASIS SKIRSNIS
+
+TEISĖJŲ NEPRIKLAUSOMUMO GARANTIJOS
 
