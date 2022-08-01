@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2022-07-22"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-12-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -211,7 +211,11 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 71 straipsnis. Neleistinumas teisėjui pakartotinai dalyvauti nagrinėjant bylas
 
-1. Teisėjas, dalyvavęs nagrinėjant civilinę bylą pirmosios instancijos teisme, negali dalyvauti nagrinėjant tą bylą apeliacinės instancijos teisme ir kasaciniame teisme, taip pat nagrinėjant bylą pirmosios instancijos teisme, jeigu panaikintas sprendimas, buvo priimtas jam dalyvaujant.
+1. Teisėjas, dalyvavęs nagrinėjant civilinę bylą pirmosios instancijos teisme, negali dalyvauti nagrinėjant tą bylą apeliacinės instancijos teisme ir kasaciniame teisme, taip pat nagrinėjant bylą pirmosios instancijos teisme, jeigu panaikintas sprendimas buvo priimtas jam dalyvaujant.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1353, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15449
 
 2. Teisėjas, dalyvavęs nagrinėjant civilinę bylą apeliacinės instancijos teisme, negali dalyvauti nagrinėjant tą bylą kasaciniame teisme ir pirmosios instancijos teisme, taip pat apeliacinės instancijos teisme, jeigu panaikintas sprendimas ar nutartis, kuriais byla išspręsta iš esmės, buvo priimti jam dalyvaujant apeliacinės instancijos teisme.
 
@@ -9649,7 +9653,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
 
-4) jeigu įvaikinti prašo vienas iš sutuoktinių, – notaro patvirtintas kito sutuoktinio rašytinis sutikimas įvaikinti, išskyrus įstatymų numatytus atvejus;
+4) jeigu įvaikinti prašo vienas iš sutuoktinių, – kito sutuoktinio rašytinis sutikimas įvaikinti, išskyrus įstatymų numatytus atvejus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1353, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15449
 
 5) duomenys, kad įvaikintojas yra įrašytas į asmenų, norinčių įvaikinti, sąrašą ir kad įvaikinamasis yra įrašytas į įvaikinamų vaikų sąrašą, išskyrus Civiliniame kodekse nustatytus atvejus;
 
