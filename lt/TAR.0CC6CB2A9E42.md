@@ -4,7 +4,7 @@ identifier: "TAR.0CC6CB2A9E42"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-18"
-last_updated: "2022-06-02"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0CC6CB2A9E42"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2022-06-02 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 114-5115, i. k. 1031010ISTA0IX-1826
 
@@ -72,7 +72,11 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
 
-8. Socialinė padėtis – fizinio asmens įgytas išsilavinimas, kvalifikacija ar mokymasis ir studijos mokslo ir studijų institucijose, turima nuosavybė, gaunamos pajamos, teisės aktuose nustatytos valstybės paramos poreikis ir (arba) kiti su asmens finansine (ekonomine) padėtimi susiję veiksniai.
+8. Socialinė padėtis – asmens padėtis, kurią lemia jo šeiminė padėtis, įgytas išsilavinimas, kvalifikacija ar mokymasis ir studijos mokslo ir studijų institucijose, turima nuosavybė, gaunamos pajamos, teisės aktuose nustatytos valstybės paramos poreikis ir (arba) kiti su asmens turtine padėtimi susiję veiksniai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 
 9. Tiesioginė diskriminacija – elgesys su asmeniu, kai lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu jam taikomos mažiau palankios sąlygos, negu panašiomis aplinkybėmis yra, buvo ar būtų taikomos kitam asmeniui, išskyrus:
 
@@ -92,9 +96,21 @@ Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
 
 8) kai ribojimų, specialių reikalavimų arba tam tikrų sąlygų dėl asmens socialinės padėties teisinį reguliavimą pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis;
 
-9) atskirų sporto varžybų neįgaliesiems rengimą.
+9) atskirų sporto varžybų neįgaliesiems rengimą;
+
+10) lengvatų teikimą amžiaus, negalios bei socialinės padėties pagrindu, kai tai pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 
 10. Nurodymas diskriminuoti asmenį lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu laikomas diskriminacija, apibrėžtas šio straipsnio 5 ir 9 dalyse.
+
+11. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos ar vartojamos Lietuvos Respublikos darbo kodekse.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 
 Straipsnio pakeitimai:
 
@@ -202,7 +218,17 @@ Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
 
 7) imtis priemonių, kad darbuotojai, valstybės tarnautojai, pateikę skundą dėl diskriminacijos, dalyvaujantys byloje dėl diskriminacijos ar pranešę apie diskriminaciją, jų atstovai ar asmenys, liudijantys ir teikiantys paaiškinimus dėl diskriminacijos, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių;
 
-8) imtis tinkamų priemonių, kad neįgaliesiems būtų sudarytos sąlygos gauti darbą, dirbti, siekti karjeros arba mokytis, įskaitant tinkamą patalpų pritaikymą, jeigu dėl tokių priemonių nebus neproporcingai apsunkinamos darbdavio pareigos.
+8) imtis tinkamų priemonių, kad neįgaliesiems būtų sudarytos sąlygos gauti darbą, dirbti, siekti karjeros arba mokytis, įskaitant tinkamą darbo sąlygų sudarymą, jeigu dėl tokių priemonių nebus neproporcingai apsunkinamos darbdavio pareigos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
+
+9) imtis priemonių, kad darbuotojas ar valstybės tarnautojas darbo vietoje nebūtų diskriminuojamas dėl tėvystės atostogų, atostogų vaikui prižiūrėti, nemokamų atostogų, skirtų sergančiam šeimos nariui ar kartu su darbuotoju ar valstybės tarnautoju gyvenančiam asmeniui slaugyti (prižiūrėti), suteikimo ir lankstaus darbo grafiko nustatymo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 
 Straipsnio pakeitimai:
 
@@ -576,6 +602,12 @@ priedas
 
 5. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
 
+6. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1158 dėl tėvų ir prižiūrinčiųjų asmenų profesinio ir asmeninio gyvenimo pusiausvyros, kuria panaikinama Tarybos direktyva 2010/18/ES.
+
+Papildyta punktu:
+
+Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
+
 Priedo pakeitimai:
 
 Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
@@ -661,6 +693,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
 
 Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 4, 6, 7, 8, 9 straipsnių ir priedo pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
+
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 7 straipsnių ir priedo pakeitimo įstatymas
 
 part_4a7c9507e4344e77bf92c75e581cf9e7_end
 
