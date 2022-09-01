@@ -4,7 +4,7 @@ identifier: "TAR.AF4E384215F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-11-07"
-last_updated: "2022-08-01"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
 
@@ -161,7 +161,11 @@ Saugomi asmenys turi teisę:
 
 1) motyvuotai prašyti, kad būtų paskirta apsauga jų šeimos nariams;
 
-2) motyvuotai prašyti, kad būtų sustiprinta jų, taip pat jų gyvenamosios ir (ar) darbo vietos apsauga;
+2) motyvuotai prašyti, kad būtų sustiprinta jų, taip pat jų gyvenamosios ir (ar) darbo vietos apsauga arba kad apsauga būtų taikoma ir kitu laiku, kaip nustatyta šio įstatymo 9 straipsnio 1 dalyje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1181, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14911
 
 3) į privataus gyvenimo neliečiamumą. Pareigūnams draudžiama pažeisti asmeninio saugomų asmenų gyvenimo, jų tarpusavio santykių su šeimos nariais ar kitais asmenimis privatumą, išskyrus atvejus, kai šios teisės užtikrinimas iš esmės pakenktų saugomo asmens saugumui;
 
@@ -189,9 +193,17 @@ Saugomi asmenys privalo:
 
 9 straipsnis. Saugomų asmenų ir saugomų objektų saugumo užtikrinimas
 
-1. Vadovybės apsaugos tarnyba saugo vadovybę 24 valandas per parą. Kitų saugomų asmenų apsaugos laikas nustatomas atsižvelgiant į jų saugumo užtikrinimo būtinybę ir poreikį.
+1. Vadovybės apsaugos tarnyba saugo Respublikos Prezidentą (asmenį, laikinai einantį Respublikos Prezidento pareigas) 24 valandas per parą. Kiti vadovybei priskiriami asmenys saugomi užsienio vizitų, oficialių susitikimų metu ir kai vykdo funkcijas, dėl kurių jiems skirta apsauga. Jeigu kyla grėsmė šių asmenų saugumui, Vyriausybės nustatyta tvarka jie gali būti saugomi ir kitu laiku. Kitų saugomų asmenų apsaugos laikas nustatomas atsižvelgiant į jų saugumo užtikrinimo būtinybę ir poreikį.
 
-2. Saugomų asmenų ir saugomų objektų saugumas užtikrinamas atsižvelgiant į nustatytą saugumo lygį. Saugomų asmenų ir saugomų objektų saugumo užtikrinimo lygius tvirtina Vadovybės apsaugos tarnybos direktorius.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1181, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14911
+
+2. Vadovybės gyvenamoji vieta saugoma 24 valandas per parą. Saugomų asmenų ir saugomų objektų saugumas užtikrinamas atsižvelgiant į nustatytą saugumo lygį. Saugomų asmenų ir saugomų objektų saugumo užtikrinimo lygius tvirtina Vadovybės apsaugos tarnybos direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1181, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14911
 
 3. Vadovybės apsaugos tarnyba, užtikrindama saugomų asmenų ir saugomų objektų saugumą, saugomuose objektuose, išskyrus oro uostus, nustato specialų režimą. Apie saugomame objekte nustatytą specialų režimą Vadovybės apsaugos tarnyba praneša saugomo objekto administracijai. Oro uostuose specialus režimas nustatomas suderinus su oro uosto administracija, atstovybėse – suderinus su Lietuvos Respublikos užsienio reikalų ministerija.
 
@@ -1891,5 +1903,13 @@ Nr. XIV-1193, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15184
 
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 58 straipsnio pakeitimo įstatymas
 
-part_9628c66d24d349e1bca91aad7926fbee_end
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1181, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14911
+
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 7 ir 9 straipsnių pakeitimo įstatymas
+
+part_d454bbd77a3e44fbbce90b5c56254185_end
 
