@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2021-11-26"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2021-11-26 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2023-05-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2319; Žin. 1996, Nr.103-0, i. k. 0961010ISTA00I-1571
 
@@ -104,7 +104,11 @@ LRT yra nepriklausoma viešoji įstaiga, kurios vienintelė savininkė yra valst
 
 3) programos, pritaikytos regos negalią turintiems asmenims, – ne mažiau kaip 10 procentų viso mėnesio transliavimo laiko.
 
-11. LRT suteikia laiką rinkimų politinės kampanijos metu kandidatams į Respublikos Prezidentus, politinėms partijoms, visuomeniniams rinkimų komitetams ir jų keliamiems kandidatams į Seimo arba savivaldybių tarybų narius ar savivaldybių tarybų narius – merus Lietuvos Respublikos Prezidento rinkimų įstatymo, Lietuvos Respublikos Seimo rinkimų įstatymo ir Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nustatytomis sąlygomis ir tvarka. LRT suteikia laiką referendumų iniciatyvinėms grupėms, jų oponentams, taip pat rinkimuose į Europos Parlamentą dalyvaujantiems kandidatams ir kandidatų sąrašams (kandidatų sąrašų deleguotiems atstovams) Lietuvos Respublikos referendumo įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo nustatytomis sąlygomis ir tvarka.
+11. LRT rengia ir transliuoja nacionalinio lygmens specialias rinkimų agitacijai skirtas laidas Lietuvos Respublikos rinkimų kodekse nustatytomis sąlygomis ir tvarka. LRT taip pat rengia ir transliuoja referendumo agitacijai skirtas laidas Lietuvos Respublikos referendumo konstituciniame įstatyme nustatytomis sąlygomis ir tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1387, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15858
 
 12. LRT naudojamuose kanaluose be Tarybos leidimo neleidžiama veikti kitoms radijo ir televizijos stotims.
 
@@ -661,4 +665,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-645, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24254
 
 Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 19 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1387, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15858
+
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5 straipsnio pakeitimo įstatymas
 
