@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2022-05-28"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-05-28 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -897,11 +897,13 @@ Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 
 1) diplomatų sutuoktiniai, kurie atsistatydino savo noru iš karjeros valstybės tarnautojo arba įstaigos vadovo pareigų dėl išvykimo kartu su sutuoktiniu, paskirtu dirbti užsienyje, – per 3 mėnesius po sutuoktinio perkėlimo laikotarpio pabaigos arba per 3 mėnesius nuo prašymo atkurti karjeros valstybės tarnautojo statusą arba įstaigos vadovo statusą pateikimo dienos, jeigu toks prašymas pateikiamas nepasibaigus sutuoktinio perkėlimo laikotarpiui;
 
-2) asmenys, kurie atsistatydino savo noru iš karjeros valstybės tarnautojo ar įstaigos vadovo pareigų dėl terminuotos diplomato tarnybos sutarties sudarymo pagal Diplomatinės tarnybos įstatymo 28 straipsnio 2, 3 ir 4 dalis, – per 3 mėnesius nuo terminuotos diplomato tarnybos sutarties pabaigos.
+2) asmenys, kurie atsistatydino savo noru iš karjeros valstybės tarnautojo ar įstaigos vadovo pareigų dėl terminuotos diplomato tarnybos sutarties sudarymo pagal Diplomatinės tarnybos įstatymo 28 straipsnio 2 ir 4 dalis, – per 3 mėnesius nuo terminuotos diplomato tarnybos sutarties pabaigos.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
+
+Nr. XIV-1125, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12617
 
 4. Jeigu nėra galimybės atkurti įstaigos vadovo statuso šio straipsnio 2 ir 3 dalyse nurodytiems asmenims, turintiems teisę atkurti įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymuose nustatytai kadencijai) statusą, nuo šio straipsnio 2 dalyje nurodytų aplinkybių atsiradimo dienos Vyriausybės nustatyta tvarka 3 mėnesius siūlomos lygiavertės ar žemesnės karjeros valstybės tarnautojo pareigos toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, o nuo šio straipsnio 3 dalyje nurodytų aplinkybių atsiradimo dienos Vyriausybės nustatyta tvarka 3 mėnesius siūlomos lygiavertės karjeros valstybės tarnautojo pareigos toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje.
 
@@ -1941,7 +1943,7 @@ Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
 
 Nr. XIV-711, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25137
 
-part_636b9ce3283e4fb09ece8eff3a14574a_end
+part_7f28de126a0f44239e5b9ef1af7fa867_end
 
 Lietuvos Respublikos
 
