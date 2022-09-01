@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2022-07-15"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2022-07-15 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
 
@@ -723,7 +723,11 @@ Notarai atlieka šiuos notarinius veiksmus:
 
 5) liudija parašo dokumentuose tikrumą;
 
-6) liudija dokumentų vertimo iš vienos kalbos į kitą tikrumą;
+6) Neteko galios nuo 2022-09-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1354, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15450
 
 7) tvirtina faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
 
