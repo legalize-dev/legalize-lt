@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2022-05-01"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-11-30
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
+
+TAR pastaba. 2022 m. birželio 30 d. įstatymo Nr. XIV-1257 nuostatos taikomos mokslo ir studijų institucijų dėstytojams ir mokslo darbuotojams, priimtiems į pareigas nuo 2023 m. liepos 1 d. Iki 2023 m. liepos 1 d. priimtų į pareigas dėstytojų, mokslo darbuotojų ir tyrėjų pareigos ir kitos darbo sąlygos gali būti keičiamos atsižvelgiant į 2022 m. birželio 30 d. įstatymo Nr. XIV-1257 nuostatas tik šių darbuotojų sutikimu
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
 Nauja redakcija nuo 2017-01-01:
 
@@ -105,9 +113,11 @@ Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
 
 8. Lietuvos mokslo taryba, atlikdama jai pavestas funkcijas, privalo imtis visų priemonių, kuriomis būtų užtikrintas mokslinės veiklos etikos principų laikymasis.
 
-9. Lietuvos mokslo tarybos valdymo organų ir ekspertinių komitetų nariams už atitinkamą veiklą Lietuvos mokslo taryboje gali būti mokamos išmokos Lietuvos mokslo tarybos nuostatuose nustatyta tvarka.
+9. Lietuvos mokslo tarybos valdybos nariams ir ekspertų komitetų nariams už jų darbą apmokama Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
 
-TAR pastaba. Lietuvos mokslo tarybos nariai, išskyrus Lietuvos mokslo tarybos valdybą, paskirti Lietuvos Respublikos Seimo ar Lietuvos Respublikos Vyriausybės, savo veiklą tęsia iki jiems nustatytos kadencijos pabaigos. Lietuvos mokslo tarybos valdyba turi būti sudaryta pagal įstatymo Nr. XIV-894 nuostatas iki 2022-09-01.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 Straipsnio pakeitimai:
 
@@ -1122,6 +1132,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-977, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06313
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
+
+49.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
