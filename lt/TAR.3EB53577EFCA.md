@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2021-01-01"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.03.17)
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
 
@@ -1717,7 +1717,7 @@ Papildyta priedu:
 
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 
-part_89f3d501b2094c06be330d32b5bc4ae8_end
+part_4e7b3cd32728460d8e418bdc6d956d87_end
 
 Lietuvos Respublikos
 
@@ -2059,6 +2059,14 @@ Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
 
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 47 ir 49 straipsnių pakeitimo įstatymas
 
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1124, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12616
+
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 37-5 straipsnio pakeitimo įstatymas
+
 371 straipsnis. Prokuroro delegavimas į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas
 
 1. Prokuroras jo paties sutikimu gali būti deleguojamas į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas arba į kitas Lietuvos Respublikos tarptautinėse sutartyse numatytas pareigas paprastai ne ilgiau kaip trejiems metams, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip.
@@ -2150,6 +2158,18 @@ Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 2. Lietuvos nacionaliniam nariui Eurojuste, jo pavaduotojui ir padėjėjui, kurių darbo vieta yra Eurojusto buveinės vietoje, mokamas šiame Įstatyme nustatytas darbo užmokestis. Pasibaigus paskyrimo į pareigas laikotarpiui, prokuroras jo sutikimu be atrankos perkeliamas į prokuroro pareigas Generalinėje prokuratūroje arba teritorinėje prokuratūroje. Šiuo pagrindu prokuroras be atrankos negali būti paskirtas į vyriausiojo prokuroro ar jo pavaduotojo pareigas.
 
 3. Lietuvos nacionaliniam nariui Eurojuste, jo pavaduotojui ir padėjėjui, taip pat šio Įstatymo 372 straipsnio 4 dalyje nurodytu atveju paskirtam prokurorui, kurių darbo vieta yra Eurojusto buveinės vietoje, ir jų šeimos nariams taikomos šio Įstatymo 371 straipsnio 2 dalies nuostatos.
+
+4. Kai su šio straipsnio 3 dalyje nurodytais prokurorais kartu gyvena jų ar jų sutuoktinių vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai, kurių globėjais ar rūpintojais šie prokurorai ar jų sutuoktiniai yra paskirti, visiškai ar iš dalies apmokamos ar kompensuojamos šių vaikų (įvaikių), nepilnamečių išlaikytinių ikimokyklinio ugdymo ir priešmokyklinio ugdymo išlaidos. Vyriausybė nustato, kokia šioje dalyje nurodytų ikimokyklinio ugdymo išlaidų ir priešmokyklinio ugdymo išlaidų dalis yra apmokama ar kompensuojama, o generalinis prokuroras – apmokamas ar kompensuojamas ikimokyklinio ugdymo ir priešmokyklinio ugdymo išlaidas, jų apskaičiavimo, apmokėjimo ir kompensavimo tvarką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1124, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12616
+
+5. Kai su šio straipsnio 3 dalyje nurodytais prokurorais kartu gyvena ir pagal bendrojo ugdymo programas mokosi jų ar jų sutuoktinių vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai ar kiti išlaikytiniai, kurių globėjais ar rūpintojais šie prokurorai ar jų sutuoktiniai yra paskirti, visiškai ar iš dalies apmokamos arba kompensuojamos šių vaikų (įvaikių), išlaikytinių mokymosi išlaidos, iki jie įgis vidurinį išsilavinimą. Šioje dalyje nurodytos išlaidos apmokamos ar kompensuojamos nuo to laiko, kai vaikams (įvaikiams), išlaikytiniams paprastai sueina 6 metai, bet ne ilgiau negu jiems sueina 20 metų. Vyriausybė nustato, kokia šioje dalyje nurodytų mokymosi išlaidų dalis apmokama ar kompensuojama, o generalinis prokuroras – apmokamas ar kompensuojamas mokymosi išlaidas, jų apskaičiavimo, apmokėjimo ir kompensavimo tvarką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1124, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12616
 
 Straipsnio pakeitimai:
 
