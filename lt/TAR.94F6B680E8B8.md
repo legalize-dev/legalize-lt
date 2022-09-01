@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2022-07-01"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-12-14
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -256,7 +256,11 @@ Nr. XIV-166, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01179
 
 8) nepasiturintys gyventojai, gaunantys socialinę pašalpą;
 
-9) vienas iš tėvų (įtėvių), globėjas ar rūpintojas, slaugantis namuose asmenį, kuriam nustatytas neįgalumo lygis (vaiką invalidą), arba asmenį, pripažintą nedarbingu (iki 2005 m. liepos 1 d. – I grupės invalidu) iki 24 metų, arba asmenį, pripažintą nedarbingu (iki 2005 m. liepos 1 d. – I grupės invalidu) iki 26 metų dėl ligų, atsiradusių iki 24 metų, arba asmenį, kuriam nustatytas specialusis nuolatinės slaugos poreikis (iki 2005 m. liepos 1 d. – visiška negalia);
+9) vienas iš tėvų (įtėvių), globėjas ar rūpintojas, neįgaliojo aprūpintojas, slaugantys namuose asmenį, kuriam nustatytas neįgalumo lygis (vaiką invalidą), arba asmenį, kuriam nustatytas specialusis nuolatinės slaugos poreikis. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugantiems namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d.;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1367, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15462
 
 10) asmenys, teisės aktų nustatyta tvarka pripažinti neįgaliaisiais;
 
