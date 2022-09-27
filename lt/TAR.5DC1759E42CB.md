@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2022-05-01"
+last_updated: "2022-09-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-09-26
+Suvestinė redakcija nuo 2022-09-27 iki 2022-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -558,7 +558,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
-71. Techninis patikrinimas kelyje (toliau – techninis patikrinimas) – policijos ir (ar) Lietuvos transporto saugos administracijos atliekamas netikėtas M2, M3, N2, N3, O3, O4 klasių transporto priemonių, T5 kategorijos ratinių traktorių, kurie dažniausiai naudojami viešuosiuose keliuose vežimams už atlygį ir kurių didžiausiasis projektinis greitis yra didesnis kaip 40 km/h, techninės būklės, krovinio išdėstymo ir (ar) pritvirtinimo patikrinimas kelyje. Techninį patikrinimą sudaro pradinis techninis patikrinimas kelyje ir esant pagrįstam poreikiui išsamesnis techninis patikrinimas techninės apžiūros įmonėje.
+71. Techninis patikrinimas kelyje (toliau – techninis patikrinimas) – policijos ir (ar) Lietuvos transporto saugos administracijos atliekamas netikėtas M2, M3, N2, N3, O3, O4 klasių transporto priemonių, T1b, T2b, T3b, T4.1b, T4.2b, T4.3b ir T5 kategorijų ratinių traktorių, kurie dažniausiai naudojami viešuosiuose keliuose vežimams už atlygį ir kurių didžiausiasis projektinis greitis yra didesnis kaip 40 km/h, techninės būklės, krovinio išdėstymo ir (ar) pritvirtinimo patikrinimas kelyje. Techninį patikrinimą sudaro pradinis techninis patikrinimas kelyje ir esant pagrįstam poreikiui išsamesnis techninis patikrinimas techninės apžiūros įmonėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -1138,11 +1142,13 @@ Nr. XIII-106, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29755
 
 5) kontroliuoja, kaip fiziniai ir juridiniai asmenys vykdo įstatymuose ir kituose teisės aktuose nustatytas pareigas dėl eismo saugumo užtikrinimo;
 
-6) kontroliuoja transporto priemonių techninę būklę, vairuotojų vairavimo ir poilsio režimą keliuose, atlieka M2, M3, N2, N3, O3 ir O4 klasių transporto priemonių, T5 kategorijos ratinių traktorių, kurie dažniausiai naudojami viešuosiuose keliuose vežimams už atlygį ir kurių didžiausias projektinis greitis yra didesnis kaip 40 km/h, pradinius techninius patikrinimus kelyje;
+6) kontroliuoja transporto priemonių techninę būklę, vairuotojų vairavimo ir poilsio režimą keliuose, atlieka M2, M3, N2, N3, O3, O4 klasių transporto priemonių ir T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 kategorijų ratinių traktorių, kurie dažniausiai naudojami viešuosiuose keliuose vežimams už atlygį ir kurių didžiausiasis projektinis greitis yra didesnis kaip 40 km/h, pradinius techninius patikrinimus kelyje;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
+
+Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 7) kaupia ir analizuoja duomenis apie KET pažeidimus ir eismo įvykius;
 
@@ -1364,7 +1370,11 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 4. Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo mokėti suteikti pirmąją pagalbą per eismo įvykį nukentėjusiems asmenims.
 
-5. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti galiojantį vairuotojo pažymėjimą, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, M2, M3, N2, N3, O3 ir O4 klasių transporto priemonių ir T5 kategorijos ratinių traktorių paskutinio techninio patikrinimo ataskaitą, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų ir KET nustatytus dokumentus (išskyrus šio straipsnio 6, 7 ir 8 dalyse nurodytus atvejus, kai motorinės transporto priemonės ir (ar) priekabos vairuotojas neprivalo su savimi turėti atitinkamų dokumentų), taip pat leisti jam patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis.
+5. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti galiojantį atitinkamai vairuotojo pažymėjimą ar dokumentą, patvirtinantį teisę vairuoti traktorius ir (ar) savaeiges mašinas, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, M2, M3, N2, N3, O3, O4 klasių transporto priemonių ir T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 kategorijų ratinių traktorių paskutinio techninio patikrinimo ataskaitą, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų ir KET nustatytus dokumentus (išskyrus šio straipsnio 6, 7 ir 8 dalyse nurodytus atvejus, kai motorinės transporto priemonės ir (ar) priekabos vairuotojas neprivalo su savimi turėti atitinkamų dokumentų), taip pat leisti jam patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 6. Motorinės transporto priemonės ir (ar) priekabos vairuotojas, kuriam Lietuvos Respublikoje išduotas vairuotojo pažymėjimas galioja, neprivalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti vairuotojo pažymėjimo, jeigu jis pateikia galiojantį savo asmens tapatybę patvirtinantį dokumentą.
 
@@ -2108,7 +2118,11 @@ Siekiant užtikrinti eismo keliais saugumą ir apsaugoti žmonių gyvybę, sveik
 
 2. Nustačius transporto priemonės techninės būklės, krovinių ar keleivių vežimo tvarkos pažeidimų, vairuotojų vairavimo ir poilsio režimo reikalavimų pažeidimų, kai tolesnis važiavimas kelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei, taip pat nustačius N2, N3, O3, O4 klasės transporto priemonės didelį ir (ar) pavojingą trūkumą, susijusį su krovinio išdėstymu ir (ar) jo pritvirtinimu, uždraudžiama transporto priemonei toliau važiuoti, kol pašalinama grėsmė eismo dalyvių ar kitų asmenų sveikatai ar gyvybei. Dėl didelio ir (ar) pavojingo trūkumo, susijusio su krovinio išdėstymu ir (ar) jo pritvirtinimu, uždraudus toliau važiuoti N2, N3, O3, O4  klasės transporto priemonei, laikinai paimami transporto priemonės registracijos dokumentai, kol bus pašalinti krovinio išdėstymo ir (ar) jo pritvirtinimo trūkumai.
 
-3. Pradinio techninio patikrinimo kelyje ar išsamesnio techninio patikrinimo techninės apžiūros įmonėje metu nustačius didelį ir (ar) pavojingą trūkumą, uždraudžiama M2, M3, N2, N3, O3, O4  klasės transporto priemonei, T5 kategorijos ratiniam traktoriui, kurie dažniausiai naudojami viešuosiuose keliuose vežimams už atlygį ir kurių didžiausias projektinis greitis yra didesnis kaip 40 km/h, toliau važiuoti ir laikinai paimami transporto priemonės registracijos dokumentai, kol bus pašalinti nustatyti dideli ir (ar) pavojingi trūkumai. Nustačius Lietuvoje registruotos transporto priemonės pavojingą trūkumą, panaikinamas privalomosios techninės apžiūros dokumentų galiojimas. Uždraudus transporto priemonei toliau važiuoti, policijos ar Lietuvos transporto saugos administracijos pareigūnai gali išduoti leidimą transporto priemonei nuvykti iki vienos iš artimiausių remonto vietų, kurioje galima pašalinti nustatytus trūkumus, jeigu pavojingi trūkumai gali būti ištaisyti taip, kad būtų galima nuvažiuoti iki šios remonto vietos nesukeliant tiesioginio pavojaus toje transporto priemonėje esančių asmenų ar kitų eismo dalyvių saugumui.
+3. Pradinio techninio patikrinimo kelyje ar išsamesnio techninio patikrinimo techninės apžiūros įmonėje metu nustačius didelį ir (ar) pavojingą trūkumą, uždraudžiama M2, M3, N2, N3, O3 ar O4 klasės transporto priemonei, T1b, T2b, T3b, T4.1b, T4.2b, T4.3b ar T5 kategorijos ratiniam traktoriui, kuris dažniausiai naudojamas viešuosiuose keliuose vežimams už atlygį ir kurio didžiausiasis projektinis greitis yra didesnis kaip 40 km/h, toliau važiuoti ir laikinai paimami transporto priemonės registracijos dokumentai, kol bus pašalinti nustatyti dideli ir (ar) pavojingi trūkumai. Nustačius Lietuvoje registruotos transporto priemonės pavojingą trūkumą, panaikinamas privalomosios techninės apžiūros dokumentų galiojimas. Uždraudus transporto priemonei toliau važiuoti, policijos ar Lietuvos transporto saugos administracijos pareigūnai gali išduoti leidimą transporto priemonei nuvykti iki vienos iš artimiausių remonto vietų, kurioje galima pašalinti nustatytus trūkumus, jeigu pavojingi trūkumai gali būti ištaisyti taip, kad būtų galima nuvažiuoti iki šios remonto vietos nesukeliant tiesioginio pavojaus toje transporto priemonėje esančių asmenų ar kitų eismo dalyvių saugumui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 4. Transporto priemonė priverstinai gali būti nuvežama į kitą vietą iš vietų, kuriose leidžiama transporto priemonėms stovėti, šiais atvejais:
 
@@ -2122,7 +2136,11 @@ Siekiant užtikrinti eismo keliais saugumą ir apsaugoti žmonių gyvybę, sveik
 
 6. Pareigūnai, priėmę sprendimą dėl priverstinio transporto priemonės nuvežimo, apie jį praneša transporto priemonės savininkui (valdytojui).
 
-7. Priverstinio transporto priemonių nuvežimo ir uždraudimo toliau važiuoti tvarką, M2, M3, N2, N3, O3, O4  klasės kelių transporto priemonių ir T5 kategorijos ratinių traktorių techninių patikrinimų organizavimo Lietuvos Respublikos keliuose taisykles nustato Vyriausybė arba jos įgaliota institucija.
+7. Priverstinio transporto priemonių nuvežimo ir uždraudimo toliau važiuoti tvarką, M2, M3, N2, N3, O3, O4 klasių transporto priemonių ir T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 kategorijų ratinių traktorių techninių patikrinimų organizavimo Lietuvos Respublikos keliuose taisykles nustato Vyriausybė arba jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 8. Išlaidas, susijusias su priverstiniu transporto priemonės nuvežimu į transporto priemonių stovėjimo aikštelę šio straipsnio 1 dalyje nurodytais atvejais ir jos saugojimu transporto priemonių stovėjimo aikštelėje, ūkio subjektui ir (ar) išlaidas patyrusiai institucijai transporto priemonės savininkas ir valdytojas atlygina solidariai. Šios išlaidos atlyginamos arba adekvatus prievolės atlyginti išlaidas įvykdymo užtikrinimas Civiliniame kodekse nustatytais būdais ir tvarka pateikiamas iki transporto priemonės paėmimo iš transporto priemonių stovėjimo aikštelės. Šio straipsnio 4 dalyje numatytais atvejais transporto priemonės savininkas ar valdytojas išlaidų, susijusių su transporto priemonės priverstiniu nuvežimu, neatlygina.
 
@@ -2146,59 +2164,37 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 Lietuvos Respublikos
 
-saugaus eismo automobilių
-
-keliais įstatymo
+saugaus eismo automobilių keliais įstatymo
 
 1 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1970 m. vasario 6 d. Tarybos direktyva 70/156/EEB dėl valstybių narių įstatymų, reglamentuojančių transporto priemonių ir jų priekabų tipo patvirtinimą, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 44) su paskutiniais pakeitimais, padarytais 2007 m. birželio 21 d. Komisijos direktyva 2007/37/EB, iš dalies keičiančia Tarybos direktyvos 70/156/EEB dėl valstybių narių įstatymų, reglamentuojančių motorinių transporto priemonių ir jų priekabų tipo patvirtinimą, suderinimo I ir III priedus (OL 2007 L 161, p. 60).
+1. Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d. Hagoje.
 
-2. Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d. Hagoje.
+2. 1998 m. birželio 4 d. Tarybos rekomendacija 98/376/EB dėl neįgalių asmenų automobilių statymo kortelių.
 
-3. 1991 m. liepos 29 d. Tarybos direktyva 91/439/EEB dėl vairuotojo pažymėjimų (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 317) su paskutiniais pakeitimais, padarytais 2009 m. rugpjūčio 25 d. Komisijos direktyva 2009/112/EB (OL 2009 L 223, p. 23).
+3. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva 2003/59/EB dėl tam tikrų kelių transporto priemonių kroviniams ir keleiviams vežti vairuotojų pradinės kvalifikacijos ir periodinio mokymo, iš dalies keičianti Tarybos reglamentą (EEB) Nr. 3820/85 ir Tarybos direktyvą 91/439/EEB bei panaikinanti Tarybos direktyvą 76/914/EEB, su paskutiniais pakeitimais, padarytais 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/645.
 
-4. 1998 m. birželio 4 d. Tarybos rekomendacija 98/376/EB dėl neįgalių asmenų automobilių statymo kortelių.
+4. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų su paskutiniais pakeitimais, padarytais 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/645.
 
-5. 2002 m. kovo 18 d. Europos Parlamento ir Tarybos direktyva 2002/24/EB dėl dviračių ir triračių motorinių transporto priemonių tipo patvirtinimo, panaikinanti Tarybos direktyvą 92/61/EEB (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 399), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1).
+5. 2008 m. kovo 3 d. Tarybos rekomendacija 2008/205/EB, pritaikanti Rekomendaciją 98/376/EB dėl neįgalių asmenų automobilių statymo kortelių, siekiant atsižvelgti į Bulgarijos Respublikos, Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Rumunijos, Slovėnijos Respublikos ir Slovakijos Respublikos įstojimą.
 
-6. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva 2003/59/EB dėl tam tikrų kelių transporto priemonių kroviniams ir keleiviams vežti vairuotojų pradinės kvalifikacijos ir periodinio mokymo, iš dalies keičianti Tarybos reglamentą (EEB) Nr. 3820/85 ir Tarybos direktyvą 91/439/EEB bei panaikinanti Tarybos direktyvą 76/914/EEB, su paskutiniais pakeitimais, padarytais 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/645.
+6. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/96/EB dėl kelių infrastruktūros saugumo valdymo su paskutiniais pakeitimais, padarytais 2019 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1936.
 
-Punkto pakeitimai:
+7. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/45/ES dėl motorinių transporto priemonių ir jų priekabų periodinės techninės apžiūros, kuria panaikinama Direktyva 2009/40/EB.
 
-Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
+8. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/46/ES, kuria iš dalies keičiama Tarybos direktyva 1999/37/EB dėl transporto priemonių registracijos dokumentų.
 
-7. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų su paskutiniais pakeitimais, padarytais 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/645.
-
-Punkto pakeitimai:
-
-Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
-
-8. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/46/EB, nustatanti motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, sudėtinių dalių ir atskirų techninių mazgų patvirtinimo pagrindus (Pagrindų direktyva) (OL 2007 L 263, p. 1), su paskutiniais pakeitimais, padarytais 2010 m. balandžio 16 d. Komisijos reglamentu (ES) Nr. 371/2010 (OL 2010 L 110, p. 1).
-
-9. 2008 m. kovo 3 d. Tarybos rekomendacija 2008/205/EB, pritaikanti Rekomendaciją 98/376/EB dėl neįgalių asmenų automobilių statymo kortelių, siekiant atsižvelgti į Bulgarijos Respublikos, Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Rumunijos, Slovėnijos Respublikos ir Slovakijos Respublikos įstojimą (OL 2008 L 63, p. 43).
-
-10. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/96/EB dėl kelių infrastruktūros saugumo valdymo su paskutiniais pakeitimais, padarytais 2019 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1936.
-
-11. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/45/ES dėl motorinių transporto priemonių ir jų priekabų periodinės techninės apžiūros, kuria panaikinama Direktyva 2009/40/EB (OL 2014 L 127, p. 51).
-
-12. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/46/ES, kuria iš dalies keičiama Tarybos direktyva 1999/37/EB dėl transporto priemonių registracijos dokumentų (OL 2014 L 127, p. 129).
-
-13. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/47/ES dėl Sąjungoje važinėjančių komercinių transporto priemonių techninio patikrinimo kelyje, kuria panaikinama Direktyva 2000/30/EB (OL 2014 L 127, p. 134).
-
-Priedo pakeitimai:
-
-Nr. XI-261, 2009-05-14, Žin., 2009, Nr. 61-2405 (2009-05-26)
-
-Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
+9. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/47/ES dėl Sąjungoje važinėjančių komercinių transporto priemonių techninio patikrinimo kelyje, kuria panaikinama Direktyva 2000/30/EB, su paskutiniais pakeitimais, padarytais 2021 m. birželio 29 d. Komisijos deleguotąja direktyva (ES) 2021/1716.
 
 Priedo pakeitimai:
 
 Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
-part_b892bcf9cc934f8f8ced545418bfd78b_end
+Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
+
+part_23821eff571d4570a0dde179497c779f_end
 
 Lietuvos Respublikos
 
