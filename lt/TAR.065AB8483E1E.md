@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2022-05-28"
+last_updated: "2022-09-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2022-05-28 iki 2022-09-28
+Suvestinė redakcija nuo 2022-09-29 iki 2023-04-27
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -2246,7 +2246,7 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
 
-part_c83e88cbdd9e4593a113e85975042171_end
+part_ec35b735b7e64db08822805042ba79c1_end
 
 Pakeitimai:
 
@@ -2991,6 +2991,12 @@ Nr. XI-1820, 2011-12-20, Žin., 2011, Nr. 163-7740 (2011-12-31)
 1. Lietuvos Respublikoje laiduojamas laisvas audiovizualinės žiniasklaidos paslaugų priėmimas iš kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių.
 
 2. Ne iš Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir kitų Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių teikiamas audiovizualinės žiniasklaidos paslaugas, radijo ir (ar) televizijos programas ir (ar) atskiras programas leidžiama transliuoti ir retransliuoti, platinti internete ar laikyti kataloguose Lietuvos Respublikoje nepažeidžiant šio ir kitų įstatymų nuostatų.
+
+21. Lietuvos Respublikoje draudžiama retransliuoti ir (ar) platinti internete Rusijos Federacijos ar Baltarusijos Respublikos įsteigtų, tiesiogiai ar netiesiogiai valdomų, kontroliuojamų ar finansuojamų subjektų radijo programas, televizijos programas ir (ar) atskiras programas, išskyrus atvejus, kai Komisija suteikia leidimą retransliuoti ir (ar) platinti tokias programas arba kai jos retransliuojamos ir (ar) platinamos iš Europos Sąjungos valstybių narių ar Europos konvenciją dėl televizijos be sienų ratifikavusių valstybių.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1425, 2022-09-22, paskelbta TAR 2022-09-28, i. k. 2022-19594
 
 3. Iš Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių teikiamų audiovizualinės žiniasklaidos paslaugų, transliuojamų, retransliuojamų arba internete platinamų televizijos programų ar atskirų programų, kai perduodama tik atskira programa, ar užsakomųjų audiovizualinės žiniasklaidos paslaugų kataloguose esančių programų laisvas priėmimas (retransliavimas ir kitoks platinimas ar skleidimas) Lietuvos Respublikoje laikinai sustabdomas, kai:
 
