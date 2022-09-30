@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2022-06-02"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2022-06-02 iki 2022-09-29
+Suvestinė redakcija nuo 2022-09-30 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -1300,7 +1300,11 @@ Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 3. Jeigu pasibaigus paskirtos socialinės pašalpos teikimo laikotarpiui kreipiamasi vėliau kaip po 2 mėnesių nuo anksčiau paskirtos socialinės pašalpos teikimo laikotarpio pabaigos, socialinė pašalpa skiriama nuo prašymo-paraiškos pateikimo mėnesio pirmos dienos.
 
-4. Kompensacijos skiriamos 3 mėnesiams nuo mėnesio, kurį bendrai gyvenantys asmenys arba vienas gyvenantis asmuo įgijo teisę į kompensacijas, pirmos dienos, tačiau ne daugiau kaip už 2 praėjusius mėnesius iki prašymo-paraiškos pateikimo mėnesio, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi dėl kompensacijų ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį skiriamos kompensacijos, turi teisę gauti kompensacijas.
+4. Kompensacijos skiriamos 3 mėnesiams nuo mėnesio, kurį bendrai gyvenantys asmenys arba vienas gyvenantis asmuo įgijo teisę į kompensacijas, pirmos dienos, tačiau ne daugiau kaip už 2 praėjusius mėnesius iki prašymo-paraiškos pateikimo mėnesio, o jeigu dėl kompensacijų kreipiamasi likus vienam mėnesiui iki šildymo sezono pradžios mėnesio ar vėliau arba šildymo sezono metu, kompensacijos skiriamos visam šildymo sezono laikotarpiui, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi dėl kompensacijų ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį skiriamos kompensacijos, turi teisę gauti kompensacijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1428, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19806
 
 5. Jeigu pasibaigus paskirtos kompensacijos teikimo laikotarpiui dėl tolesnio jos skyrimo bendrai gyvenantys asmenys arba vienas gyvenantis asmuo per 3 mėnesius kreipiasi su prašymu-paraiška pateikdami naujus dokumentus ir duomenis apie bendrai gyvenančius asmenis arba vieną gyvenantį asmenį bei jų (jo) pajamas, kompensacijos skiriamos nuo prašymą-paraišką pateikusio asmens nurodyto vieno iš 3 mėnesių, einančių po kompensacijų gavimo laikotarpio pabaigos, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi dėl kompensacijų metu ir laikotarpiu, už kurį skiriamos kompensacijos, turi teisę jas gauti.
 
