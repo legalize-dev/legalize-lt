@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2022-09-01"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-09-30
+Suvestinė redakcija nuo 2022-10-01 iki 2022-11-21
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -3549,13 +3549,17 @@ RESPUBLIKOS PREZIDENTAS                             
 
 Lietuvos Respublikos
 
-krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo
+krašto apsaugos sistemos organizavimo
+
+ir karo tarnybos įstatymo
 
 1 priedas
 
 profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
 (baziniais dydžiais)
+
+Eil. Nr.
 
 Karių laipsniai
 
@@ -3573,81 +3577,149 @@ tarnybos metai pagal laipsnį
 
 5-ieji ir tolesni
 
+1.
+
 Generolas leitenantas, viceadmirolas
 
-25,9
+28
 
-25,9
+28
 
-25,9
+28
 
-25,9
+28
 
-25,9
+28
+
+2.
 
 Generolas majoras, kontradmirolas
 
-23,5
+25,4
 
-23,8
+25,7
 
-23,8
+25,7
 
-23,8
+25,7
 
-23,8
+25,7
+
+3.
 
 Brigados generolas, flotilės admirolas
 
-21,3
+23
 
-21,6
+23,3
 
-21,6
+23,3
 
-21,6
+23,3
 
-21,6
+23,3
+
+4.
 
 Pulkininkas, jūrų kapitonas
 
-18,5
+20
 
-18,8
+20,3
 
-19,1
+20,6
 
-19,4
+20,9
 
-19,4
+20,9
+
+5.
 
 Pulkininkas leitenantas, komandoras
 
-15,8
+17,1
 
-16,1
+17,4
 
-16,4
+17,7
 
-16,7
+18
 
-17
+18,3
+
+6.
 
 Majoras, komandoras leitenantas
 
-13,9
+15
 
-14,2
+15,3
 
-14,5
+15,6
 
-14,8
+15,9
 
-15,1
+16,2
+
+7.
 
 Kapitonas, kapitonas leitenantas
 
-12
+13
+
+13,2
+
+13,4
+
+13,6
+
+13,6
+
+8.
+
+Vyresnysis leitenantas
+
+11,7
+
+11,9
+
+12,1
+
+12,1
+
+12,1
+
+9.
+
+Leitenantas
+
+9,8
+
+10
+
+10
+
+10
+
+10
+
+10.
+
+Seržantas majoras, vyresnysis laivūnas
+
+14,4
+
+14,7
+
+15
+
+15
+
+15
+
+11.
+
+Viršila, laivūnas
 
 12,2
 
@@ -3657,143 +3729,115 @@ Kapitonas, kapitonas leitenantas
 
 12,6
 
-Vyresnysis leitenantas
+12,6
 
-10,8
-
-11
-
-11,2
-
-11,2
-
-11,2
-
-Leitenantas
-
-9,1
-
-9,3
-
-9,3
-
-9,3
-
-9,3
-
-Seržantas majoras, vyresnysis laivūnas
-
-13,3
-
-13,6
-
-13,9
-
-13,9
-
-13,9
-
-Viršila, laivūnas
-
-11,3
-
-11,5
-
-11,7
-
-11,7
-
-11,7
+12.
 
 Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas
 
-10,1
+10,9
 
-10,3
+11,1
 
-10,5
+11,3
 
-10,5
+11,3
 
-10,5
+11,3
+
+13.
 
 Vyresnysis seržantas, vyresnysis seržantas specialistas
 
-9,3
+10
 
-9,5
+10,2
 
-9,7
+10,4
 
-9,7
+10,4
 
-9,7
+10,4
+
+14.
 
 Seržantas, seržantas specialistas
 
-8,3
+9
 
-8,5
+9,2
 
-8,5
+9,2
 
-8,5
+9,2
 
-8,5
+9,2
+
+15.
 
 Grandinis
 
-7,8
+8,4
 
-8
+8,6
 
-8
+8,6
 
-8
+8,6
 
-8
+8,6
+
+16.
 
 Vyresnysis eilinis, vyresnysis jūreivis
 
-7,2
+7,8
 
-7,2
+7,8
 
-7,2
+7,8
 
-7,2
+7,8
 
-7,2
+7,8
+
+17.
 
 Eilinis, jūreivis
 
-6,6
+7,1
 
-6,6
+7,1
 
-6,6
+7,1
 
-6,6
+7,1
 
-6,6
+7,1
+
+18.
 
 Jaunesnysis eilinis, jaunesnysis jūreivis
 
-6,4
+6,9
 
-6,4
+6,9
 
-6,4
+6,9
 
-6,4
+6,9
 
-6,4
-
-TAR pastaba. Taikant šį priedą, profesinės karo tarnybos karių tarnybinis atlyginimas perskaičiuojamas ir taikytinas koeficientas nustatomas atsižvelgiant į kario ištarnautus metus pagal turimą kario laipsnį.
+6,9“
 
 Papildyta priedu:
 
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
+
+Priedo pakeitimai:
+
+Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
+
+part_124c6f4d1ce14aa1b10ef66aa2f03cf9_end
 
 Lietuvos Respublikos
 
