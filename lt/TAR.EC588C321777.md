@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2022-06-02"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2022-06-02 iki 2022-09-30
+Suvestinė redakcija nuo 2022-10-01 iki 2022-11-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -3113,7 +3113,7 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 
 3. Šiame straipsnyje nurodytos teismo nutartys yra galutinės ir neskundžiamos.
 
-part_ece5a2bf24ec4f418370b77716b58f17_end
+part_424d0454a04d4e718aab0fb0a713a9d6_end
 
 Lietuvos Respublikos
 
@@ -3461,45 +3461,69 @@ Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 
 140 straipsnis. Laikinas sulaikymas
 
-1. Prokuroras, ikiteisminio tyrimo pareigūnas ar kiekvienas asmuo gali sulaikyti asmenį, užkluptą darant nusikalstamą veiką ar tuoj po jos padarymo. Jei asmenį sulaiko ne prokuroras ar ikiteisminio tyrimo pareigūnas, apie sulaikymą tuoj pat turi būti pranešta policijai.
+1. Prokuroras, ikiteisminio tyrimo pareigūnas ar kiekvienas asmuo gali sulaikyti asmenį, užkluptą darant nusikalstamą veiką ar tuoj po jos padarymo. Jei asmenį sulaiko ne prokuroras ar ne ikiteisminio tyrimo pareigūnas, apie sulaikymą tuoj pat turi būti pranešta policijai.
 
-2. Laikinas sulaikymas, neužklupus asmens nusikalstamos veikos padarymo vietoje ar tuoj po nusikalstamos veikos padarymo, galimas prokuroro ar ikiteisminio tyrimo pareigūno nutarimu tik išimtiniais atvejais, kai yra visos šios sąlygos:
+2. Laikinas sulaikymas, neužklupus asmens nusikalstamos veikos padarymo vietoje ar tuoj po jos padarymo, galimas prokuroro ar ikiteisminio tyrimo pareigūno nutarimu tik išimtiniais atvejais ir tik tada, kai yra visos šios sąlygos:
 
-1) paaiškėja, kad yra šio Kodekso 122 straipsnyje numatyti suėmimo skyrimo pagrindai ir sąlygos;
+1) nustatytas bent vienas šio Kodekso 122 straipsnyje numatytas suėmimo skyrimo pagrindas ir visos suėmimo skyrimo sąlygos;
 
-2) tuoj pat būtina suvaržyti asmeniui laisvę siekiant šio Kodekso 119 straipsnyje numatytų tikslų;
+2) tuoj pat būtina suvaržyti asmens laisvę siekiant šio Kodekso 119 straipsnyje numatytų tikslų;
 
 3) nėra galimybės šio Kodekso 123 straipsnio 2 dalyje nustatyta tvarka itin skubiai kreiptis į teismą dėl suėmimo skyrimo.
 
-3. Apie kiekvieną ikiteisminio tyrimo pareigūno ar kito asmens sulaikytą asmenį per įmanomai trumpiausią laiką turi būti pranešta prokurorui išsiunčiant laikino sulaikymo protokolo nuorašą.
+3. Nutarime skirti laikiną sulaikymą turi būti nurodoma:
 
-4. Laikinas sulaikymas negali trukti ilgiau, negu tai būtina asmens tapatybei nustatyti ir būtiniems proceso veiksmams atlikti. Maksimalus laikino sulaikymo terminas yra keturiasdešimt aštuonios valandos. Jei šio straipsnio 2 dalyje numatytais atvejais sulaikomas asmuo anksčiau procese buvo apklaustas kaip įtariamasis, laikinas sulaikymas gali trukti ne ilgiau kaip dvidešimt keturias valandas, prokuroro nutarimu šis terminas gali būti pratęstas iki maksimalaus laikino sulaikymo termino. Jei sulaikytam asmeniui reikia skirti suėmimą, jis ne vėliau kaip per keturiasdešimt aštuonias valandas turi būti pristatytas teisėjui, kuris šio Kodekso nustatyta tvarka išsprendžia suėmimo skyrimo klausimą. Laikino sulaikymo terminas skaičiuojamas nuo asmens faktinio sulaikymo nusikalstamos veikos padarymo ar kitoje vietoje.
+1) laikinai sulaikomo asmens vardas, pavardė, gimimo data, gyvenamoji vieta, darbo vieta;
 
-5. Apie asmens sulaikymą per įmanomai trumpiausią laiką ikiteisminio tyrimo pareigūnas ar prokuroras surašo laikino sulaikymo protokolą.
+2) nusikalstama veika, dėl kurios asmuo laikinai sulaikomas, šios veikos padarymo vieta, laikas ir kitos aplinkybės, atsakomybę už tą nusikalstamą veiką numatantis baudžiamasis įstatymas;
 
-6. Laikinai sulaikytas asmuo po jo pristatymo į ikiteisminio tyrimo įstaigą ar prokuratūrą ne vėliau kaip per dvidešimt keturias valandas turi būti apklaustas kaip įtariamasis, prieš tai atlikus šio Kodekso 187 straipsnyje numatytus veiksmus.
+3) nustatytas bent vienas šio Kodekso 122 straipsnyje numatytas suėmimo skyrimo pagrindas, visos suėmimo skyrimo sąlygos ir jų nustatymo momentas, taip pat pagrįsta, kodėl tuoj pat būtina suvaržyti asmens laisvę siekiant šio Kodekso 119 straipsnyje numatytų tikslų;
 
-7. Apie sulaikymą nedelsiant pranešama šio Kodekso 128 straipsnio 1 ir 3 dalyse nustatyta tvarka.
+4) priežastys, dėl kurių nebuvo galimybės kreiptis į teismą dėl asmens suėmimo šio Kodekso 123 straipsnio 2 dalyje nustatyta tvarka;
 
-Straipsnio dalies pakeitimai:
+5) nutarimo apskundimo tvarka.
 
-Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+4. Apie kiekvieną ikiteisminio tyrimo pareigūno ar kito asmens sulaikytą asmenį per įmanomai trumpiausią laiką turi būti pranešta prokurorui ir jam pateikti dokumentai, pagal kuriuos asmuo buvo sulaikytas, ar šių dokumentų nuorašas. Prokuroras, susipažinęs su asmens laikino sulaikymo dokumentais, privalo nedelsdamas įvertinti laikino sulaikymo teisėtumą ir pagrįstumą. Įvertinęs asmens laikino sulaikymo teisėtumą ir pagrįstumą, prokuroras rezoliucija patvirtina arba šio Kodekso 170 straipsnio 3 dalies pagrindu nutarimu panaikina pagal šio straipsnio 1 ar 2 dalį paskirtą laikiną sulaikymą.
 
-8. Sulaikytas asmuo turi būti nedelsiant paleistas, jeigu:
+5. Šio straipsnio 3 dalyje nurodytas nutarimas ar jo nuorašas skirti laikiną sulaikymą nedelsiant pasirašytinai įteikiamas sulaikytam asmeniui.
+
+6. Maksimalus laikino sulaikymo terminas yra keturiasdešimt aštuonios valandos. Jei šio straipsnio 2 dalyje numatytais atvejais sulaikomas asmuo anksčiau procese buvo apklaustas kaip įtariamasis, laikinas sulaikymas gali trukti ne ilgiau kaip dvidešimt keturias valandas; prokuroro nutarimu šis terminas gali būti pratęstas iki maksimalaus laikino sulaikymo termino. Šio straipsnio 1 dalyje numatytu atveju laikinas sulaikymas negali trukti ilgiau, negu tai būtina asmens tapatybei nustatyti ir (ar) būtiniems proceso veiksmams atlikti. Šie veiksmai turi būti atlikti per įmanomai trumpiausią terminą. Jei šio straipsnio 1 dalyje numatytu atveju atlikus proceso veiksmus sulaikytam asmeniui būtina skirti suėmimą, jis ne vėliau kaip per keturiasdešimt aštuonias valandas turi būti pristatytas teisėjui, kuris šio Kodekso nustatyta tvarka išsprendžia suėmimo skyrimo klausimą. Šio straipsnio 2 dalyje numatytais atvejais sulaikytas asmuo ne vėliau kaip per keturiasdešimt aštuonias valandas turi būti pristatytas teisėjui, kuris šio Kodekso nustatyta tvarka išsprendžia suėmimo skyrimo klausimą, išskyrus atvejus, kai per laikiną sulaikymą paaiškėja naujų aplinkybių, kurios nebuvo žinomos priimant nutarimą skirti laikiną sulaikymą ir paneigia šio Kodekso 122 straipsnyje nustatytų suėmimo skyrimo pagrindo (pagrindų) ir sąlygų egzistavimą. Šiame straipsnyje nurodytas laikino sulaikymo terminas skaičiuojamas nuo asmens faktinio sulaikymo nusikalstamos veikos padarymo ar kitoje vietoje.
+
+7. Apie asmens sulaikymą per įmanomai trumpiausią laiką ikiteisminio tyrimo pareigūnas ar prokuroras surašo laikino sulaikymo protokolą. Laikino sulaikymo protokolas ar jo nuorašas nedelsiant turi būti pasirašytinai įteiktas sulaikytam asmeniui ir (ar) jo gynėjui.
+
+8. Laikinai sulaikytas asmuo nedelsiant pristatomas į ikiteisminio tyrimo įstaigą ar prokuratūrą, ar laikino sulaikymo vietą, ar vietą, kurioje atliekamas proceso veiksmas, kuriame laikinai sulaikytas asmuo privalo ar sutinka dalyvauti. Šio straipsnio 1 dalyje nustatytu pagrindu laikinai sulaikytas asmuo po jo pristatymo į ikiteisminio tyrimo įstaigą ar prokuratūrą, ar laikino sulaikymo vietą ne vėliau kaip per dvidešimt keturias valandas, o šio straipsnio 2 dalyje numatytu atveju – nedelsiant turi būti apklaustas kaip įtariamasis, prieš tai atlikus šio Kodekso 187 straipsnyje numatytus veiksmus.
+
+9. Jei laikinai sulaikytas asmuo prašo per apklausą užtikrinti gynėjo dalyvavimą, apklausa atidedama iki gynėjo atvykimo. Gynėjas kviečiamas ar paskiriamas šio Kodekso 50 ar 51 straipsnyje nustatyta tvarka. Sulaikytam asmeniui užtikrinama galimybė iki apklausos, nedalyvaujant pašaliniams asmenims, susitikti su gynėju.
+
+10. Apie asmens laikiną sulaikymą ir jo laikino sulaikymo vietą nedelsiant pranešama šio Kodekso 128 straipsnio 1 ir 3 dalyse nustatyta tvarka. Apie asmens laikiną sulaikymą ir jo laikino sulaikymo vietą taip pat pranešama laikinai sulaikyto asmens nurodytam gynėjui.
+
+11. Asmens laikinas sulaikymas pagal šio straipsnio 1 dalį ar ikiteisminio tyrimo pareigūno ar prokuroro nutarimas dėl laikino sulaikymo paskyrimo pagal šio straipsnio 2 dalį gali būti skundžiamas ikiteisminio tyrimo teisėjui. Skundas paduodamas per ikiteisminio tyrimo pareigūną ar prokurorą, dėl kurio veiksmo ar sprendimo skundžiamasi. Ikiteisminio tyrimo pareigūnas arba prokuroras, susipažinęs su laikinai sulaikyto asmens skundu, nedelsdamas jį pateikia ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjas privalo tokį skundą išnagrinėti rašytinio proceso tvarka per dvidešimt valandų nuo skundo gavimo momento ir priimti dėl jo nutartį. Jeigu ikiteisminio tyrimo teisėjas patenkina skundą, sulaikytas asmuo nedelsiant paleidžiamas, išskyrus atvejus, kai jam paskirtas suėmimas. Tais atvejais, kai tuo pačiu metu yra paduoti asmens skundas dėl laikino sulaikymo ir prokuroro pareiškimas dėl suėmimo skyrimo tam pačiam asmeniui, šiuos klausimus nagrinėja šio Kodekso 123 straipsnyje nustatyta tvarka ir išsprendžia tas pats ikiteisminio tyrimo teisėjas nutartimi dėl suėmimo skyrimo. Ikiteisminio tyrimo teisėjo nutartis ar jos dalis, kuria išsprendžiamas laikino sulaikymo klausimas, yra galutinė ir neskundžiama.
+
+12. Sulaikytas asmuo turi būti nedelsiant paleistas, jeigu:
 
 1) nepasitvirtino įtarimas, kad jis padarė nusikalstamą veiką;
 
-2) nustatyta, kad nėra šio Kodekso 122 straipsnyje numatytų suėmimo skyrimo pagrindų ir sąlygų ar suėmimas nėra būtinas;
+2) šio straipsnio 1 dalyje numatytais atvejais nustatyta sulaikyto asmens tapatybė ir (ar) atlikti kiti būtini proceso veiksmai bei nėra nustatyta šio Kodekso 122 straipsnyje numatyto suėmimo skyrimo pagrindo (pagrindų) ir sąlygų;
 
-3) baigėsi įstatymo numatytas sulaikymo terminas;
+3) šio straipsnio 6 dalyje numatytais atvejais paaiškėja naujų aplinkybių, kurios nebuvo žinomos priimant nutarimą skirti laikiną sulaikymą ir kurios paneigia šio Kodekso 122 straipsnyje numatytų suėmimo skyrimo pagrindo (pagrindų) ir sąlygų egzistavimą;
 
-4) teismas priima nutartį atsisakyti skirti suėmimą.
+4) baigėsi įstatymo numatytas laikino sulaikymo terminas;
 
-9. Laikino sulaikymo laikas įskaitomas į suėmimo ir bausmės laiką.
+5) šio straipsnio 4 dalyje nurodytu pagrindu priimamas nutarimas panaikinti pagal šio straipsnio 1 ar 2 dalį paskirtą laikiną sulaikymą;
+
+6) teismas priima nutartį atsisakyti skirti suėmimą;
+
+7) šio straipsnio 11 dalyje numatytu atveju ikiteisminio tyrimo teisėjas priima nutartį dėl laikino sulaikymo panaikinimo ir laikinai sulaikytam asmeniui nėra skirta kardomoji priemonė – suėmimas.
+
+13. Laikino sulaikymo laikas įskaitomas į suėmimo ir bausmės laiką.
 
 Straipsnio pakeitimai:
 
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1359, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15453
 
 237 straipsnis. Susipažinimas su baudžiamąja byla
 
