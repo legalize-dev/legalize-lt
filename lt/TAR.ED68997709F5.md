@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2022-07-01"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-09-30
+Suvestinė redakcija nuo 2022-10-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
 
@@ -4027,4 +4027,18 @@ TAR pastaba. Straipsnis nelaimių aukoms, nukentėjusioms dėl Rusijos Federacij
 Papildyta straipsniu:
 
 Nr. XIV-1056, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09433
+
+1253 straipsnis. PVM kompensavimas iš biudžeto
+
+1. Iš valstybės biudžeto kompensuojamas už šio Įstatymo 19 straipsnio 3 dalies 1 punkte nurodytas prekes apskaičiuotas PVM – 9 procentinių punktų tarifo dydžio.
+
+2. Šio straipsnio nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+1254 straipsnis. PVM kompensavimas iš biudžeto
+
+1. Iš valstybės biudžeto kompensuojamas už šio Įstatymo 19 straipsnio 3 dalies 1 punkte nurodytas prekes apskaičiuotas PVM – 9 procentinių punktų tarifo dydžio.
+
+2. Šio straipsnio nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+TAR pastaba. Įstatymas papildomas 1254 straipsniu 2023-10-01.
 
