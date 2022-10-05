@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2022-07-15"
+last_updated: "2022-10-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-07-15 iki 2022-10-04
+Suvestinė redakcija nuo 2022-10-05 iki 2022-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -155,11 +155,17 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
-33) radiologinis aplinkos monitoringas – suprantama, kaip apibrėžta Lietuvos Respublikos aplinkos monitoringo įstatyme.
+33) radiologinis aplinkos monitoringas – suprantama, kaip apibrėžta Lietuvos Respublikos aplinkos monitoringo įstatyme;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
+
+34) kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos civilinės saugos įstatyme, Lietuvos Respublikos energetikos įstatyme.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1433, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20225
 
 Straipsnio pakeitimai:
 
@@ -3449,6 +3455,22 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 19-3, 37, 47, 55, 56, 81, 89 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 20-1, 58-1 straipsniais įstatymas
 
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1267, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14923
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 25 straipsnio pakeitimo įstatymas
+
+26.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1433, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20225
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1 straipsnio pakeitimo, Įstatymo papildymo 19-4 straipsniu ir 19-4 straipsnio pakeitimo įstatymas
+
 193 straipsnis. Įrenginių registravimas
 
 Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame straipsnyje suprantamas kaip stacionarus technikos objektas, kuriame vykdant aplinkos ministro patvirtintose Lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikrų veiklos rūšių įrenginiuose, išmetimo ribojimo ir įrenginių registravimo taisyklėse (toliau – LOJ taisyklės) nurodytą vienos arba kelių rūšių veiklą, taip pat kitą toje pačioje vietoje vykdomą tiesiogiai techniškai susijusią veiklą, kurios metu išmetami lakieji organiniai junginiai, suvartojamas organinio tirpiklio kiekis atitinka LOJ taisyklėse nurodytąjį. Šios taisyklės nustato įrenginių įregistravimo, registracijos duomenų teikimo, tikslinimo ir įrenginių išregistravimo tvarką.
@@ -3469,7 +3491,7 @@ Aplinkos ministro įgaliota institucija savo interneto svetainėje skelbia įreg
 
 2) LOJ taisyklėse nustatyta tvarka atlikus įrenginio eksploatavimo atitikties LOJ taisyklių reikalavimams įvertinimą, nustatoma, kad reikia laikytis griežtesnių ar papildomų įrenginio eksploatavimo sąlygų arba užtikrinti naujo ar pakeisto aplinkos apsaugos normatyvo ar aplinkos apsaugos standarto laikymąsi ir (ar) atitiktį naujai ar pakeistai aplinkos kokybės normai;
 
-3) nustatoma, kad fizinio ar juridinio asmens pateikti įrenginio registracijos duomenys arba pateikti patikslinti įrenginio registracijos duomenys netikslūs, neišsamūs (ne visi) ar klaidingi, tačiau šie trūkumai nėra tokie, dėl kurių būtų pripažinta, kad įrenginys neprivalo būti įregistruotas.
+3) nustatoma, kad fizinio ar juridinio asmens pateikti įrenginio registracijos duomenys arba pateikti patikslinti įrenginio registracijos duomenys netikslūs, neišsamūs (ne visi) ar klaidingi, tačiau šie trūkumai nėra tokie, dėl kurių būtų pripažinta, kad įrenginys neprivalo būti įregistruotas;
 
 Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes LOJ taisyklėse nustatyta tvarka nustato aplinkos ministro įgaliota institucija, ji raštu informuoja fizinį ar juridinį asmenį apie pareigą tikslinti įrenginio registracijos duomenis ir nustato protingą terminą, per kurį turi būti pateikti patikslinti duomenys. Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes nustato fizinis ar juridinis asmuo, jis privalo LOJ taisyklėse nustatyta tvarka ir terminais pateikti aplinkos ministro įgaliotai institucijai patikslintus įrenginio registracijos duomenis.
 
@@ -3738,4 +3760,14 @@ Atliekų tvarkymo įstatyme nustatytų atliekas naudojančių ar šalinančių �
 Papildyta straipsniu:
 
 Nr. XIV-489, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15888
+
+194 straipsnis. Ūkinės veiklos objektų eksploatavimas paskelbus ekstremaliąją energetikos padėtį arba ekstremaliąją situaciją
+
+Šio įstatymo 19 straipsnio antrojoje dalyje nustatytos sąlygos gali būti laikinai netaikomos ūkinės veiklos objektą eksploatuojančiam ir (ar) ūkinę veiklą vykdančiam fiziniam ar juridiniam asmeniui, kai tai būtina gresiančiai ar susidariusiai ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai, taip pat savivaldybės lygio ekstremaliajai situacijai šilumos energijos gamybos ir šilumos tiekimo srityje valdyti, likviduoti ir (ar) jų padariniams šalinti. Konkrečios laikinosios ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygos, pagal kurias gali būti eksploatuojamas ūkinės veiklos objektas ir (ar) vykdoma ūkinė veikla gresiant arba susidarius ekstremaliajai energetikos padėčiai arba ekstremaliajai situacijai, nustatomos ekstremalių situacijų komisijos ar ekstremaliosios situacijos operacijų vadovo sprendimu, priimtu Civilinės saugos įstatymo nustatyta tvarka, arba Vyriausybės ar jos įgaliotos valstybės institucijos arba savivaldybės administracijos direktoriaus sprendimu, priimtu Energetikos įstatymo nustatyta tvarka. Šioje dalyje nustatyta išimtis negali būti taikoma platesniu mastu ir ilgesnį laikotarpį, negu būtina gresiančiai ar susidariusiai ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai, taip pat savivaldybės lygio ekstremaliajai situacijai šilumos energijos gamybos ir šilumos tiekimo srityje valdyti, likviduoti ir (ar) jų padariniams šalinti. Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ir (ar) vykdantis ūkinę veiklą pagal šioje dalyje nustatyta tvarka nustatytas laikinąsias ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygas, privalo taikyti visas įmanomas neigiamą poveikį aplinkai ir žmonių sveikatai mažinančias priemones.
+
+Apie šio straipsnio pirmojoje dalyje priimtą sprendimą dėl laikinųjų ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygų šį sprendimą priėmęs subjektas informuoja Aplinkos ministeriją per 10 darbo dienų nuo sprendimo priėmimo dienos, o Aplinkos ministerija, gavusi nurodytą informaciją apie nustatytas laikinąsias ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygas, nedelsdama informuoja Europos Komisiją apie šio straipsnio pirmojoje dalyje nustatytos išimties taikymą, kai tokią informaciją pateikti būtina pagal Europos Sąjungos aplinkos apsaugos teisės aktus.
+
+Papildyta straipsniu:
+
+Nr. XIV-1433, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20225
 
