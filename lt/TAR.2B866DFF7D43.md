@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2022-09-01"
+last_updated: "2022-10-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-10-19
+Suvestinė redakcija nuo 2022-10-20 iki 2022-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -150,13 +150,15 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 baudžiamas laisvės atėmimu iki aštuonerių metų.
 
-2. Tas, kas teroristiniais tikslais sukėlė potvynį arba sutrikdė vandens, energijos ar kitų gamtos išteklių tiekimą, arba sprogdino, padegė arba kitaip dideliu mastu naikino ar gadino turtą, arba paveikė informacinę sistemą ar elektroninius duomenis, arba paskleidė radioaktyviąsias, biologines ar chemines kenksmingas medžiagas, preparatus ar mikroorganizmus, jeigu dėl to atsirado ar galėjo atsirasti sunkių padarinių, taip pat tas, kas teroristiniais tikslais nesunkiai sutrikdė sveikatą vienam ar daugiau žmonių arba sukėlė pavojų daugelio žmonių gyvybei ar sveikatai, arba paveikė didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčią informacinę sistemą ar jos elektroninius duomenis,
+2. Tas, kas teroristiniais tikslais sukėlė potvynį arba sutrikdė vandens, energijos ar kitų gamtos išteklių tiekimą, arba sprogdino, padegė arba kitaip dideliu mastu naikino ar gadino turtą, arba paveikė informacinę sistemą ar elektroninius duomenis, arba paskleidė radioaktyviąsias, biologines ar chemines kenksmingas medžiagas, preparatus ar mikroorganizmus, jeigu dėl to atsirado ar galėjo atsirasti sunkių padarinių, taip pat tas, kas teroristiniais tikslais sutrikdė sveikatą ar sukėlė fizinį skausmą vienam ar daugiau žmonių arba sukėlė pavojų daugelio žmonių gyvybei ar sveikatai, arba paveikė didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčią informacinę sistemą ar jos elektroninius duomenis,
 
 baudžiamas laisvės atėmimu iki dešimties metų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+
+Nr. XIV-1451, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21166
 
 3. Tas, kas teroristiniais tikslais sunkiai sutrikdė sveikatą vienam ar daugiau žmonių,
 
@@ -180,13 +182,21 @@ Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)
 
 251 straipsnis. Orlaivio, laivo ar kitos viešojo ar krovininio transporto priemonės arba stacionarios platformos kontinentiniame šelfe užgrobimas
 
-1. Tas, kas užgrobė orlaivį, laivą arba stacionarią platformą kontinentiniame šelfe,
+1. Tas, kas užgrobė orlaivį, laivą ar kitą viešąją ar krovininio transporto priemonę arba stacionarią platformą kontinentiniame šelfe,
 
 baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
-2. Tas, kas panaudodamas fizinį smurtą ar grasindamas smurtu užgrobė orlaivį, laivą arba stacionarią platformą kontinentiniame šelfe,
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1451, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21166
+
+2. Tas, kas panaudodamas fizinį smurtą ar grasindamas smurtu užgrobė orlaivį, laivą ar kitą viešąją ar krovininio transporto priemonę arba stacionarią platformą kontinentiniame šelfe,
 
 baudžiamas laisvės atėmimu nuo trejų iki aštuonerių metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1451, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21166
 
 3. Tas, kas panaudodamas šaunamąjį ginklą, sprogmenį ar kitą orlaivio, laivo ar kitos viešojo ar krovininio transporto priemonės įgulos ar keleivių arba stacionarioje platformoje kontinentiniame šelfe esančių asmenų gyvybei ar sveikatai pavojingą priemonę užgrobė orlaivį, laivą ar kitą viešojo ar krovininio transporto priemonę arba stacionarią platformą kontinentiniame šelfe,
 
@@ -212,9 +222,13 @@ Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)
 
 252 straipsnis. Žmogaus pagrobimas įkaitu
 
-1. Tas, kas pagrobė ar laikė pagrobtą žmogų ir už paleidimą reikalavo iš tarptautinės viešosios organizacijos, valstybės ar jos institucijos atlikti bet kokį veiksmą ar susilaikyti nuo veiksmų, taip pat tas, kas grasino tuoj pat nužudysiąs ar sužalosiąs pagrobtą žmogų reikalaudamas sudaryti sąlygas išvengti sulaikymo,
+1. Tas, kas teroristiniais tikslais pagrobė ar laikė pagrobtą žmogų, taip pat tas, kas grasino tuoj pat nužudysiąs ar sužalosiąs pagrobtą žmogų reikalaudamas sudaryti sąlygas išvengti sulaikymo,
 
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1451, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21166
 
 2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu pagrobė ar laikė pagrobtus du ar daugiau žmonių,
 
@@ -5388,7 +5402,7 @@ Straipsnio pakeitimai:
 
 Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
 
-part_27e44d84642e48338f3997bf83e6e1bd_end
+part_a2fefd56720a4fdca09935feb6ecabcb_end
 
 Lietuvos Respublikos
 
@@ -6463,6 +6477,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1384, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15855
 
 Lietuvos Respublikos baudžiamojo kodekso XXVI skyriaus pavadinimo, 175-1 ir 295 straipsnių pakeitimo įstatymas
+
+50.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1451, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21166
+
+Lietuvos Respublikos baudžiamojo kodekso 250, 251 ir 252 straipsnių pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
