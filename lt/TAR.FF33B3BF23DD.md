@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2022-01-31"
+last_updated: "2022-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2022-01-31 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-12-21
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -135,7 +135,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
-15. Farmacinės atliekos – naikintini vaistiniai preparatai ir naikintini veterinariniai vaistai (nekokybiški, pasibaigusio tinkamumo laiko, konfiskuoti, surinkti iš gyventojų, falsifikuoti).
+15. Farmacinės atliekos – naikintini vaistiniai preparatai (nekokybiški, pasibaigusio tinkamumo vartoti laiko, konfiskuoti, surinkti iš gyventojų, falsifikuoti).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
 
 16. Neteko galios nuo 2013-01-01.
 
@@ -359,7 +363,7 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 50. Vaistas (vaistinis preparatas) – vaistinė medžiaga arba jų derinys, pagaminti ir teikiami vartoti, kadangi atitinka bent vieną šių kriterijų: 1) pasižymi savybėmis, dėl kurių tinka žmogaus ligoms gydyti arba jų profilaktikai; 2) dėl farmakologinio, imuninio ar metabolinio poveikio gali būti vartojamas ar skiriamas atkurti, koreguoti ar modifikuoti žmogaus fiziologines funkcijas arba diagnozuoti žmogaus ligas.
 
-51. Vaistinė – Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, užsienio valstybės juridinio asmens ar kitos organizacijos padalinys, įsteigtas Lietuvos Respublikoje (toliau – juridinis asmuo), konkrečioje veiklos vietoje vykdantis farmacinę veiklą, apimančią vaistinių preparatų įsigijimą, laikymą, pardavimą (išdavimą) galutiniam vartotojui, farmacinių paslaugų teikimą ir (ar) ekstemporaliųjų vaistinių preparatų gamybą, jų kokybės kontrolę, farmacinę rūpybą. Šiame įstatyme sąvoka „vaistinė“ neapima veterinarijos vaistinių.
+51. Vaistinė – Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, užsienio valstybės juridinio asmens ar kitos organizacijos padalinys, įsteigtas Lietuvos Respublikoje (toliau – juridinis asmuo), konkrečioje veiklos vietoje vykdantis farmacinę veiklą, apimančią vaistinių preparatų įsigijimą, laikymą, pardavimą (išdavimą) galutiniam vartotojui, farmacinių paslaugų teikimą ir (ar) ekstemporaliųjų vaistinių preparatų gamybą, jų kokybės kontrolę, farmacinę rūpybą.
 
 Straipsnio dalies pakeitimai:
 
@@ -368,6 +372,8 @@ Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
 
 52. Vaistinė medžiaga – bet kuri medžiaga, kurios kilmė gali būti: 1) žmogaus, pvz.: žmogaus kraujas ir žmogaus kraujo produktai; 2) gyvūninė, pvz.: mikroorganizmai, gyvūnai, organų dalys, gyvūnų išskyros, toksinai, ištraukos, kraujo produktai; 3) augalinė, pvz.: mikroorganizmai, augalai, jų dalys, augalų išskyros, ištraukos; 4) cheminė, pvz.: elementai, natūralios cheminės medžiagos ir cheminiai produktai, gauti cheminės sandaros keitimo ar sintezės būdu.
 
@@ -533,21 +539,53 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 721. Veiklioji medžiaga – vaistinio preparato gamybai skirta medžiaga ar medžiagų mišinys, kurie gaminant vaistinį preparatą tampa jo veikliąja sudedamąja medžiaga, darančia farmakologinį, imuninį ar metabolinį poveikį, kuriuo siekiama atkurti, koreguoti ar modifikuoti fiziologines funkcijas arba diagnozuoti ligas.
 
-73. Veterinarijos felčeris – fizinis asmuo, įgijęs veterinarijos felčerio arba Vyriausybės įgaliotos institucijos nustatyta tvarka jam prilygintą profesinę kvalifikaciją.
+73. Neteko galios nuo 2022-11-01.
 
-74. Veterinarijos gydytojas – aukštąjį universitetinį išsilavinimą turintis asmuo, Vyriausybės įgaliotos institucijos nustatyta tvarka įgijęs veterinarijos gydytojo kvalifikaciją.
+Straipsnio dalies pakeitimai:
 
-75. Veterinarijos vaistinė – juridinis asmuo, turintis teisę įsigyti, laikyti, parduoti (išduoti), gaminti veterinarinius vaistus ir kontroliuoti jų kokybę.
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
 
-76. Veterinarinė farmacija – juridinių ir (ar) fizinių asmenų veikla, apimanti veterinarinių vaistų gamybą, importą, tiekimą (prekybą), kokybės kontrolę.
+74. Neteko galios nuo 2022-11-01.
 
-77. Veterinarinės farmacijos įmonė – juridinis asmuo, kuris verčiasi veterinarine farmacija.
+Straipsnio dalies pakeitimai:
 
-78. Veterinarinės farmacijos vadovas – fizinis asmuo, atitinkantis nustatytus reikalavimus ir juridinio asmens, turinčio veterinarinės farmacijos veiklos licenciją, paskirtas vadovauti veterinarinei farmacijai.
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
 
-79. Veterinarinis vaistas – medžiaga ar medžiagų derinys, pateikiamas kaip turintis gyvūnus gydančių savybių ar apsaugantis juos nuo ligų arba skiriamas gyvūnams, norint nustatyti diagnozę arba farmaciniu, imuniniu ar metaboliniu poveikiu atkurti, koreguoti ar pakeisti fiziologines funkcijas.
+75. Neteko galios nuo 2022-11-01.
 
-80. Veterinarinių vaistų registras – duomenų apie leidžiamus naudoti Lietuvos Respublikoje veterinarinius vaistus kaupimo, saugojimo ir tvarkymo sistema.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+
+76. Neteko galios nuo 2022-11-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+
+77. Neteko galios nuo 2022-11-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+
+78. Neteko galios nuo 2022-11-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+
+79. Neteko galios nuo 2022-11-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+
+80. Neteko galios nuo 2022-11-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
 
 81. Vidinė pakuotė – pakuotė ar kitokia talpyklė, tiesiogiai besiliečianti su vaistiniu preparatu.
 
@@ -1603,9 +1641,19 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
 
-SEPTYNIOLIKTASIS skIRSNIS
+17 skirsnis. Neteko galios nuo 2022-11-01
 
-VETERINARINĖ FarmaciJA
+Skirsnio naikinimas:
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+
+AŠTUONIOLIKTASIS SKIRSNIS
+
+ASMENŲ NEŠALIŠKUMO UŽTIKRINIMAS, ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS, VALSTYBINĖS VAISTŲ KONTROLĖS TARNYBOS SPRENDIMŲ APSKUNDIMAS
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 74 straipsnis. Sprendimus priimančių asmenų nešališkumo užtikrinimas
 
@@ -1715,7 +1763,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
 
-part_0456459568d24d94a6d25c948c991fd6_end
+part_51e0aa0f84ca44749bbb13ffc1b483f3_end
 
 Pakeitimai:
 
@@ -1929,9 +1977,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
-2. Veterinarijos vaistinės privalo iš gyventojų nemokamai priimti naikintinus veterinarinius vaistus. Priimtus naikintinus veterinarinius vaistus iš veterinarinių vaistinių surenka ir kitą jų tvarkymo veiklą vykdo atliekų tvarkytojas Lietuvos Respublikos atliekų tvarkymo įstatymo ir kitų teisės aktų nustatyta tvarka. Naikintinų veterinarinių vaistų priėmimo iš gyventojų tvarką ir apmokėjimą už jų tvarkymą nustato Vyriausybė ar jos įgaliota institucija.
+2. Neteko galios nuo 2022-11-01.
 
-3. Už priimtų iš gyventojų naikintinų vaistinių preparatų ir veterinarinių vaistų tvarkymą apmokama iš atitinkamoms institucijoms, atsakingoms už šio įstatymo įgyvendinimą, valstybės biudžete patvirtintų bendrųjų asignavimų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+
+3. Už priimtų iš gyventojų naikintinų vaistinių preparatų tvarkymą apmokama iš atitinkamoms institucijoms, atsakingoms už šio įstatymo įgyvendinimą, valstybės biudžete patvirtintų bendrųjų asignavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
 
 Straipsnio pakeitimai:
 
@@ -2269,11 +2325,13 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas reglamentuoja farmacinę ir kitą veiklą, susijusią su vaistiniais, tiriamaisiais vaistiniais preparatais, veterinariniais vaistais, veikliosiomis ir kitomis vaistinėmis medžiagomis, veterinarinės farmacijos veiklą, taip pat šios veiklos valstybinį valdymą ir priežiūrą.
+1. Šis įstatymas reglamentuoja farmacinę ir kitą veiklą, susijusią su vaistiniais, tiriamaisiais vaistiniais preparatais, veikliosiomis ir kitomis vaistinėmis medžiagomis, taip pat šios veiklos valstybinį valdymą ir priežiūrą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
 
 2. Šis įstatymas nereglamentuoja su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) susijusios veiklos, šios veiklos valstybinio valdymo ir kontrolės.
 
@@ -4191,11 +4249,13 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 75 straipsnis. Atsakomybė už pažeidimus
 
-Fiziniai ir juridiniai asmenys už veiklos su farmacijos produktais ir veterinarinės farmacijos pažeidimus bei neteisėtą veiklą atsako šio įstatymo ir kitų įstatymų nustatyta tvarka.
+Fiziniai ir juridiniai asmenys už veiklos su farmacijos produktais pažeidimus bei neteisėtą veiklą atsako šio įstatymo ir kitų įstatymų nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
+
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
 
 76 straipsnis. Įstatymo įsigaliojimas
 
