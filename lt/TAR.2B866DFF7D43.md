@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2022-10-20"
+last_updated: "2022-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2022-10-20 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-12-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -3190,11 +3190,13 @@ Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
 
 1. Teismas gali uždrausti asmeniui naudotis specialiomis teisėmis (teise vairuoti kelių, oro ar vandens transporto priemones, teise laikyti ir nešioti ginklą, teise medžioti, teise žvejoti ir pan.) tais atvejais, kai naudodamasis šiomis teisėmis asmuo padarė nusikalstamą veiką.
 
-2. Teismas uždraudžia naudotis specialiomis teisėmis nuo vienerių iki penkerių metų. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis.
+2. Teismas uždraudžia naudotis specialiomis teisėmis nuo vienerių iki penkerių metų. Už šio kodekso 281 straipsnio 2, 4, 6 dalyse ar 2811 straipsnyje numatytas nusikalstamas veikas gali būti uždraudžiama naudotis teise vairuoti kelių transporto priemones nuo vienerių iki septynerių metų asmeniui, kuriam šių nusikalstamų veikų padarymo metu šio kodekso nustatyta tvarka jau buvo uždrausta naudotis teise vairuoti kelių transporto priemones dėl nusikalstamos veikos, jo padarytos neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų. Šioje dalyje nurodyti terminai skaičiuojami metais, mėnesiais ir dienomis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859
+
+Nr. XIV-1447, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21163
 
 3. Teismas, uždrausdamas asmeniui naudotis specialiomis teisėmis, konkrečiai nurodo, kokia teise ar teisėmis naudotis uždrausta, ir šio draudimo terminą.
 
@@ -5402,7 +5404,7 @@ Straipsnio pakeitimai:
 
 Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
 
-part_a2fefd56720a4fdca09935feb6ecabcb_end
+part_98c94c24c23d48cd985649b37f1f1a9e_end
 
 Lietuvos Respublikos
 
@@ -6485,6 +6487,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1451, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21166
 
 Lietuvos Respublikos baudžiamojo kodekso 250, 251 ir 252 straipsnių pakeitimo įstatymas
+
+51.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1447, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21163
+
+Lietuvos Respublikos baudžiamojo kodekso 68 straipsnio pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
