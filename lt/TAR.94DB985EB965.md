@@ -4,7 +4,7 @@ identifier: "TAR.94DB985EB965"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-01"
-last_updated: "2021-07-01"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2022-11-07
+Suvestinė redakcija nuo 2022-11-08 iki 2023-01-02
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
 
@@ -161,9 +161,17 @@ Nr. XI-1021, 2010-09-21, Žin., 2010, Nr. 118-5994 (2010-10-02), i. k. 1101010IS
 
 9) kooperatinės bendrovės narių susirinkimo šaukimo ir balsavimo jame tvarka;
 
-10) kooperatinės bendrovės bei jos narių prekių ir paslaugų apyvartos operacijų registravimo ir atlikimo tvarka, kooperatinės bendrovės metinės finansinės atskaitomybės sudarymo ir tvirtinimo tvarka;
+10) kooperatinės bendrovės bei jos narių prekių ir paslaugų apyvartos operacijų registravimo ir atlikimo tvarka, kooperatinės bendrovės metinių finansinių ataskaitų sudarymo ir tvirtinimo tvarka;
 
-11) pelno (nuostolio) paskirstymo ir tvirtinimo tvarka;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
+
+11) pelno (nuostolio) dengimo, paskirstymo ir tvirtinimo tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 12) lėšų skolinimosi iš savo narių tvarka;
 
@@ -271,11 +279,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-1154, 2007-05-24, Žin., 2007, Nr. 64-2458 (2007-06-09), i. k. 1071010ISTA00X-1154
 
-4. Su asmeniu, kurio narystė kooperatinėje bendrovėje pasibaigė dėl jo išstojimo, pašalinimo ar pajaus perleidimo kitam asmeniui, kooperatinė bendrovė turi atsiskaityti ne vėliau kaip per metus nuo bendrovės narių susirinkimo, patvirtinusio finansinių metų, kuriais pasibaigė šio asmens narystė kooperatinėje bendrovėje, atskaitomybę ir pelno (nuostolio) paskirstymą, dienos arba per kooperatinės bendrovės įstatuose nustatytą terminą, kuris negali būti ilgesnis kaip penkeri metai.
+4. Su asmeniu, kurio narystė kooperatinėje bendrovėje pasibaigė dėl jo išstojimo, pašalinimo ar pajaus perleidimo kitam asmeniui, kooperatinė bendrovė turi atsiskaityti ne vėliau kaip per metus nuo bendrovės narių susirinkimo, patvirtinusio finansinių metų, kuriais pasibaigė šio asmens narystė kooperatinėje bendrovėje, finansines ataskaitas ir pelno (nuostolio) paskirstymą, dienos arba per kooperatinės bendrovės įstatuose nustatytą terminą, kuris negali būti ilgesnis kaip 5 metai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 5. Asmeniui, kurio narystė kooperatinėje bendrovėje pasibaigė dėl jo išstojimo, pašalinimo ar pajaus perleidimo kitam asmeniui, kooperatinė bendrovė privalo grąžinti už pajų, jei jis nėra perleistas kitam asmeniui, įneštą pajinį įnašą, atlyginti narių susirinkimų sprendimais iki finansinių metų, kuriais pasibaigė narystė kooperatinėje bendrovėje, pradžios nariui priskirtą turto dalį piniginiu ekvivalentu rinkos kainomis, išmokėti apyvartai proporcingą išmoką ir dividendą, jeigu dėl jų išmokėjimo už tuos metus yra priimtas narių susirinkimo sprendimas. Nepiniginiai pajiniai įnašai, jeigu šis asmuo pageidauja, grąžinami natūra, išskyrus atvejus, kai tai neįmanoma arba sukeltų neproporcingos žalos kooperatinei bendrovei ar asmeniui, kurio narystė kooperatinėje bendrovėje pasibaigė. Stojamasis mokestis negrąžinamas.
 
@@ -291,7 +301,7 @@ Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
 1) dalyvauti kooperatinės bendrovės narių susirinkime, rinkti valdymo ir kontrolės organų narius ir būti į juos išrinktas;
 
-2) balsuojant turėti vieną balsą, nepaisant pajaus dydžio, arba kooperatinės bendrovės įstatuose gali būti nustatyta, kad nario turimų balsų skaičius nustatomas pagal jo dalyvavimą kooperatinės bendrovės veikloje (apyvartą), išskyrus kapitalo investicijas (pajinius įnašus), ir nustatyta tokio balsų skaičiavimo tvarka – vienam nariui gali būti skiriami ne daugiau kaip 5 balsai, tačiau ne daugiau kaip 20 procentų visų balsų, o kooperatinės bendrovės, kurios daugiau kaip pusę visų narių sudaro kooperatinės bendrovės, nariui – ne daugiau kaip 30 procentų visų balsų. Kai kooperatinės bendrovės, kurios daugiau kaip pusę visų narių sudaro kooperatinės bendrovės, įstatuose nustatyta, kad vienam nariui skiriama daugiau kaip 20 procentų visų balsų, įstatų nustatyta riba netaikoma ir kiekvieno kooperatinės bendrovės nario balsai proporcingai sumažinami, kad būtų skiriama ne daugiau kaip 20 procentų visų balsų, jei kooperatinę bendrovę sudarančių narių – kooperatinių bendrovių skaičius sumažėja iki pusės visų narių ar tampa dar mažesnis. Kooperatinės bendrovės narys turi teisę įstatuose nustatyta tvarka perleisti jam priklausančią balsavimo teisę kitam kooperatinės bendrovės nariui (narių atstovui) ar trečiajam asmeniui arba paskirti įgaliotinį, atstovausiantį jam narių susirinkime. Kooperatinės bendrovės įstatuose turi būti nustatytas didžiausias vieno įgaliotinio galimų atstovauti narių skaičius;
+2) balsuojant turėti vieną balsą, nepaisant pajaus dydžio, arba kooperatinės bendrovės įstatuose gali būti nustatyta, kad nario turimų balsų skaičius nustatomas pagal jo dalyvavimą kooperatinės bendrovės veikloje (apyvartą), išskyrus kapitalo investicijas (pajinius įnašus), ir nustatyta tokio balsų skaičiavimo tvarka – vienam nariui gali būti skiriami ne daugiau kaip 5 balsai, tačiau ne daugiau kaip 20 procentų visų balsų, o kooperatinės bendrovės, kurios daugiau kaip pusę visų narių sudaro kooperatinės bendrovės, nariui – ne daugiau kaip 30 procentų visų balsų. Kai kooperatinės bendrovės, kurios daugiau kaip pusę visų narių sudaro kooperatinės bendrovės, įstatuose nustatyta, kad vienam nariui skiriama daugiau kaip 20 procentų visų balsų, įstatuose nustatyta riba netaikoma ir kiekvieno kooperatinės bendrovės nario balsai proporcingai sumažinami, kad būtų skiriama ne daugiau kaip 20 procentų visų balsų, jeigu kooperatinę bendrovę sudarančių narių – kooperatinių bendrovių skaičius sumažėja iki pusės visų narių ar tampa dar mažesnis. Kooperatinės bendrovės narys turi teisę įstatuose nustatyta tvarka perleisti jam priklausančią balsavimo teisę kitam asmeniui, su juo sudarydamas balsavimo teisės perleidimo sutartį, kurios formą tvirtina kooperatinės bendrovės administracijos vadovas, arba paprastos rašytinės formos įgaliojimu paskirti įgaliotinį, atstovausiantį jam narių susirinkime;
 
 Straipsnio punkto pakeitimai:
 
@@ -300,6 +310,8 @@ Nr. IX-2179, 2004-04-27, Žin., 2004, Nr. 78-2709 (2004-05-11), i. k. 1041010IST
 Nr. X-1154, 2007-05-24, Žin., 2007, Nr. 64-2458 (2007-06-09), i. k. 1071010ISTA00X-1154
 
 Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 3) disponuoti pajumi šio ir kitų įstatymų bei įstatų nustatyta tvarka;
 
@@ -357,7 +369,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-1154, 2007-05-24, Žin., 2007, Nr. 64-2458 (2007-06-09), i. k. 1071010ISTA00X-1154
 
-14 straipsnis. Grynojo pelno skirstymas
+14 straipsnis. Grynojo pelno skirstymas ir nuostolių dengimas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 1. Kooperatinės bendrovės per finansinius metus uždirbto grynojo pelno paskirstymas patvirtinamas ne vėliau kaip per 4 mėnesius pasibaigus finansiniams metams.
 
@@ -375,9 +391,21 @@ Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
 3. Pelno likutis naudojamas įstatuose nustatyta tvarka.
 
-4. Dividendams mokėti skiriama iki 10 procentų grynojo pelno.
+4. Neteko galios nuo 2022-11-08.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 5. Maksimalus dividendo dydis nustatomas kooperatinės bendrovės įstatuose.
+
+6. Nuostoliams dengti pirmiausia naudojamas atsargos (rezervinis) kapitalas, likusios nuostolių dalies dengimo tvarka nustatoma kooperatinės bendrovės įstatuose.
+
+TAR pastaba. 14 straipsnio 6 dalies nuostatos taikomos kooperatinėms bendrovėms, kurios įsigaliojus (2022-11-08) įstatymui Nr. XIV-1463 Kooperatinių bendrovių (kooperatyvų) įstatymo nustatyta tvarka pakeitė savo įstatus, nuo šių įstatų įregistravimo Juridinių asmenų registre. Iki įstatymo Nr. XIV-1463 įsigaliojimo (2022-11-08) ir kooperatinės bendrovės įstatų pakeitimo bei jų įregistravimo Juridinių asmenų registre toms kooperatinėms bendrovėms taikomos iki įstatymo Nr. XIV-1463 įsigaliojimo (2022-11-08) galiojusios Kooperatinių bendrovių (kooperatyvų) įstatymo ir kooperatinės bendrovės įstatų nuostatos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 PENKTASIS SKIRSNIS
 
@@ -403,15 +431,25 @@ Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
 2) tvirtina, keičia kooperatinės bendrovės įstatus;
 
-3) renka, atšaukia stebėtojų tarybos narius (kai ji sudaroma), valdybos narius ir jos pirmininką arba, kai valdyba nesudaroma, renka, atšaukia administracijos vadovą; taip pat renka, atšaukia revizijos komisijos narius ir jos pirmininką (revizorių) arba, kai revizijos komisija (revizorius) nesudaroma, tvirtina audito įmonę;
+3) renka, atšaukia stebėtojų tarybos narius (kai ji sudaroma), valdybos narius ir jos pirmininką arba, kai valdyba nesudaroma, renka, atšaukia administracijos vadovą; taip pat renka, atšaukia revizijos komisijos narius ir jos pirmininką (revizorių) arba, kai revizijos komisija (revizorius) nesudaroma ar finansinių ataskaitų auditas privalomas vadovaujantis Lietuvos Respublikos įmonių atskaitomybės įstatymu, tvirtina auditorių ar audito įmonę;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
-4) įvertina valdybos, o tuo atveju, kai kooperatinėje bendrovėje valdyba nėra sudaroma, administracijos vadovo ir revizijos komisijos (revizoriaus) darbą, taip pat revizijos komisijos (revizoriaus) arba audito įmonės išvadą dėl kooperatinės bendrovės finansinės atskaitomybės;
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
-5) tvirtina metinę finansinę atskaitomybę, priima nutarimą dėl pelno paskirstymo arba nuostolių padengimo;
+4) įvertina valdybos, o tuo atveju, kai kooperatinėje bendrovėje valdyba nėra sudaroma, administracijos vadovo ir revizijos komisijos (revizoriaus) darbą, taip pat revizijos komisijos (revizoriaus) išvadą arba auditoriaus išvadą dėl kooperatinės bendrovės finansinių ataskaitų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
+
+5) tvirtina metines finansines ataskaitas, priima nutarimą dėl pelno paskirstymo arba nuostolių padengimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 6) tvirtina kooperatinės bendrovės veiklos programą;
 
@@ -449,13 +487,35 @@ Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
 11. Kooperatinės bendrovės narių susirinkimo protokolą ne vėliau kaip per 5 darbo dienas pasirašo susirinkimo sekretorius, pirmininkas ir susirinkimo įgaliotas kooperatinės bendrovės narys.
 
-12. Prie narių susirinkimo protokolo pridedamas kooperatinės bendrovės narių, atvykusių ir užsiregistravusių iki susirinkimo pradžios, sąrašas.
+12. Prie narių susirinkimo protokolo pridedamas kooperatinės bendrovės narių, atvykusių ir užsiregistravusių iki susirinkimo pradžios, taip pat balsavusių raštu ir (ar) elektroninių ryšių priemonėmis, sąrašas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
+
+13. Kooperatinės bendrovės narys gali balsuoti raštu užpildydamas bendrąjį balsavimo biuletenį kooperatinės bendrovės įstatuose nustatyta tvarka.
+
+TAR pastaba. 16 straipsnio 13 dalies nuostatos taikomos kooperatinėms bendrovėms, kurios įsigaliojus (2022-11-08) įstatymui Nr. XIV-1463 Kooperatinių bendrovių (kooperatyvų) įstatymo nustatyta tvarka pakeitė savo įstatus, nuo šių įstatų įregistravimo Juridinių asmenų registre. Iki įstatymo Nr. XIV-1463 įsigaliojimo (2022-11-08) ir kooperatinės bendrovės įstatų pakeitimo bei jų įregistravimo Juridinių asmenų registre toms kooperatinėms bendrovėms taikomos iki įstatymo Nr. XIV-1463 įsigaliojimo (2022-11-08) galiojusios Kooperatinių bendrovių (kooperatyvų) įstatymo ir kooperatinės bendrovės įstatų nuostatos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
+
+14. Kooperatinė bendrovė gali sudaryti galimybę kooperatinės bendrovės nariams susirinkime dalyvauti ir balsuoti atviru balsavimu elektroninių ryšių priemonėmis, išskyrus atvejus, kai vadovaujantis šio straipsnio 9 dalimi turi būti balsuojama slaptai. Tam, kad kooperatinės bendrovės nariai galėtų dalyvauti ir balsuoti kooperatinės bendrovės narių susirinkime elektroninių ryšių priemonėmis, gali būti taikomi tik tie elektroninių ryšių priemonių naudojimo reikalavimai ir apribojimai, kurie yra būtini kooperatinės bendrovės nario tapatybei nustatyti ir perduodamos informacijos saugumui užtikrinti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 17 straipsnis. Kooperatinės bendrovės valdyba ir administracijos vadovas
 
 1. Valdyba yra kolegialus kooperatinės bendrovės valdymo organas. Valdybos veiklai vadovauja jos pirmininkas. Valdybos narių skaičius nustatomas įstatuose, tačiau jis negali būti mažesnis kaip 3.
 
-2. Valdybos narius ir jos pirmininką renka kooperatinės bendrovės narių susirinkimas ne ilgesnei kaip 4 metų kadencijai. Valdybos narys, valdybos pirmininkas arba visa valdyba gali būti atšaukti arba gali atsistatydinti įstatuose nustatyta tvarka kadencijai nepasibaigus.
+2. Valdybos narius ir jos pirmininką renka kooperatinės bendrovės narių susirinkimas ne ilgesnei kaip 4 metų kadencijai. Valdybos nariai ir pirmininkas savo veiklą pradeda kitą dieną po juos išrinkusio kooperatinės bendrovės narių susirinkimo. Valdybos narys, valdybos pirmininkas arba visa valdyba gali būti atšaukti arba gali atsistatydinti kooperatinės bendrovės įstatuose nustatyta tvarka kadencijai nepasibaigus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 3. Valdybos darbo tvarką, valdybos narių ir jos pirmininko pareigas bei įgaliojimus nustato kooperatinės bendrovės narių susirinkimo patvirtintas valdybos (administracijos vadovo) darbo reglamentas.
 
@@ -467,7 +527,11 @@ Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
 7. Administracijos vadovu gali būti valdybos narys, jos pirmininkas, kooperatinės bendrovės narys, taip pat kitas veiksnus fizinis asmuo. Reikalavimai administracijos vadovui nustatomi įstatuose. Administracijos vadovu negali būti revizijos komisijos narys, jos pirmininkas (revizorius).
 
-8. Administracijos vadovas yra vienasmenis valdymo organas, vadovaujantis administracijai. Administracijos vadovas organizuoja ir vykdo kooperatinės bendrovės ūkinę finansinę veiklą, atstovauja kooperatinei bendrovei santykiuose su trečiaisiais asmenimis, teisme, arbitraže, sudaro sandorius, priima į darbą ir atleidžia darbuotojus, sudaro su jais darbo sutartis, teikia valdybai medžiagą apie savo darbą, kooperatinės bendrovės veiklos programos, pajamų ir sąnaudų sąmatos, finansinės atskaitomybės ir pelno (nuostolio) paskirstymo projektus, atlieka kitus kooperatinės bendrovės įstatuose jo kompetencijai priskirtus veiksmus. Administracijos darbo tvarka nustatoma administracijos darbo reglamente.
+8. Administracijos vadovas yra vienasmenis valdymo organas, vadovaujantis administracijai. Administracijos vadovas organizuoja ir vykdo kooperatinės bendrovės ūkinę finansinę veiklą, atstovauja kooperatinei bendrovei santykiuose su trečiaisiais asmenimis teisme, arbitraže, sudaro sandorius, priima į darbą ir atleidžia darbuotojus, sudaro su jais darbo sutartis, teikia valdybai medžiagą apie savo darbą, kooperatinės bendrovės veiklos programos, pajamų ir sąnaudų sąmatos, finansinių ataskaitų ir pelno (nuostolio) paskirstymo projektus, atlieka kitus kooperatinės bendrovės įstatuose jo kompetencijai priskirtus veiksmus. Administracijos darbo tvarka nustatoma administracijos darbo reglamente.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 9. Administracijos vadovas dalyvauja valdybos posėdžiuose patariamojo balso teise, jei jis nėra valdybos narys.
 
@@ -487,7 +551,11 @@ Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
 2) informuoja kooperatinės bendrovės narių susirinkimą, valdybą ir administracijos vadovą apie kooperatinės bendrovės veiklos pažeidimus;
 
-3) finansiniams metams pasibaigus, narių susirinkimui pateikia išvadą dėl kooperatinės bendrovės metinės finansinės atskaitomybės.
+3) finansiniams metams pasibaigus, narių susirinkimui pateikia revizijos komisijos (revizoriaus) išvadą ar auditoriaus išvadą dėl kooperatinės bendrovės metinių finansinių ataskaitų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 4. Kooperatinės bendrovės narių susirinkimas, valdyba (kai ji nėra sudaryta – administracijos vadovas), revizijos komisija (revizorius) patikrinimams gali kviestis ekspertus.
 
@@ -541,7 +609,11 @@ KOOPERATINĖS BENDROVĖS PABAIGA IR PERTVARKYMAS
 
 8. Kooperatinės bendrovės reorganizavimo sąlygos turi būti įvertintos reikiamos kvalifikacijos nepriklausomų ekspertų. Kiekviena reorganizavime dalyvaujanti kooperatinė bendrovė skiria ekspertą.
 
-9. Apie reorganizavimo sąlygų sudarymą turi būti paskelbta viešai tris kartus, darant ne mažesnes kaip 30 dienų pertraukas, arba paskelbta viešai vieną kartą ir pranešta visiems kooperatinės bendrovės kreditoriams raštu. Pranešime turi būti nurodyta: kiekvienos reorganizuojamos kooperatinės bendrovės pavadinimas, buveinė, kodas, pridėtinės vertės mokesčio mokėtojo kodas, registras, kuriame kaupiami ir saugomi duomenys apie šią kooperatinę bendrovę, reorganizavimo būdas, pasibaigiančios kooperatinės bendrovės ir tęsiančios veiklą po reorganizavimo kooperatinės bendrovės momentas, nuo kurio pasibaigiančios kooperatinės bendrovės teisės ir pareigos pereina tęsiančiai veiklą po reorganizavimo kooperatinei bendrovei, kur ir nuo kada galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo tęsiančių veiklą ir (ar) naujai kuriamų kooperatinių bendrovių steigimo dokumentais ar jų projektais ir visų reorganizavime dalyvaujančių kooperatinių bendrovių valdymo organų parengtomis ataskaitomis, ekspertų vertinimais bei praėjusių 3 finansinių metų finansinėmis atskaitomybėmis.
+9. Apie reorganizavimo sąlygų sudarymą turi būti paskelbta viešai tris kartus, darant ne mažesnes kaip 30 dienų pertraukas, arba paskelbta viešai vieną kartą ir pranešta visiems kooperatinės bendrovės kreditoriams raštu. Pranešime turi būti nurodyta: kiekvienos reorganizuojamos kooperatinės bendrovės pavadinimas, buveinė, kodas, pridėtinės vertės mokesčio mokėtojo kodas, registras, kuriame kaupiami ir saugomi duomenys apie šią kooperatinę bendrovę, reorganizavimo būdas, pasibaigiančios kooperatinės bendrovės ir tęsiančios veiklą po reorganizavimo kooperatinės bendrovės momentas, nuo kurio pasibaigiančios kooperatinės bendrovės teisės ir pareigos pereina tęsiančiai veiklą po reorganizavimo kooperatinei bendrovei, kur ir nuo kada galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo tęsiančių veiklą ir (ar) naujai kuriamų kooperatinių bendrovių steigimo dokumentais ar jų projektais ir visų vykdant reorganizavimą dalyvaujančių kooperatinių bendrovių valdymo organų parengtomis ataskaitomis, ekspertų vertinimais bei praėjusių 3 finansinių metų finansinėmis ataskaitomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 10. Sprendimas dėl kooperatinės bendrovės reorganizavimo turi būti priimtas ne mažiau kaip 2/3 kooperatinės bendrovės narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų. Sprendimas dėl kooperatinės bendrovės reorganizavimo gali būti priimtas tik praėjus 30 dienų nuo reorganizavimo sąlygų viešo paskelbimo. Sprendimu dėl kooperatinės bendrovės reorganizavimo turi būti patvirtintos reorganizavimo sąlygos ir pakeisti ar priimti nauji įstatai.
 
@@ -589,7 +661,11 @@ Nr. XI-2161, 2012-06-29, Žin., 2012, Nr. 83-4335 (2012-07-14), i. k. 1121010IST
 
 7) momentas, nuo kurio pertvarkomos kooperatinės bendrovės teisės ir pareigos pereina po pertvarkymo tęsiančiam veiklą juridiniam asmeniui;
 
-8) kur ir nuo kada galima susipažinti su pertvarkymo sąlygomis, jeigu jos sudaromos, po pertvarkymo veiksiančio juridinio asmens steigimo dokumentais ir pertvarkomos kooperatinės bendrovės praėjusių 3 finansinių metų metinėmis finansinėmis atskaitomybėmis.
+8) kur ir nuo kada galima susipažinti su pertvarkymo sąlygomis, jeigu jos sudaromos, po pertvarkymo veiksiančio juridinio asmens steigimo dokumentais ir pertvarkomos kooperatinės bendrovės praėjusių 3 finansinių metų finansinėmis ataskaitomis.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 5. Sprendimo dėl kooperatinės bendrovės pertvarkymo priėmimą patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui ne vėliau kaip pirmą viešo paskelbimo dieną. Juridinių asmenų registro tvarkytojas apie sprendimą pertvarkyti kooperatinę bendrovę turi paskelbti teisės aktų nustatyta tvarka.
 
@@ -829,6 +905,14 @@ Nr. XIV-243, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08849
 
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 6-1 straipsnio pakeitimo įstatymas
 
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
+
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 5, 10, 11, 14, 16, 16-1, 16-2, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas
+
 31 straipsnis. Žemės ūkio kooperatinė bendrovė (kooperatyvas)
 
 1. Žemės ūkio kooperatinė bendrovė (kooperatyvas) – kooperatinė bendrovė (kooperatyvas), kuri (kuris) pagal šio straipsnio reikalavimus yra pripažinta žemės ūkio kooperatine bendrove (kooperatyvu). Teisę būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu) turi įregistruota kooperatinė bendrovė (kooperatyvas), jeigu ji (jis) atitinka šiuos reikalavimus:
@@ -949,7 +1033,11 @@ Nr. XIII-744, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18512
 
 3. Stebėtojų tarybą renka kooperatinės bendrovės narių susirinkimas.
 
-4. Stebėtojų taryba renkama kooperatinės bendrovės įstatuose nustatytam, bet ne ilgesniam kaip 4 metų laikotarpiui. Stebėtojų taryba savo funkcijas atlieka kooperatinės bendrovės įstatuose nustatytą laiką arba tol, kol bus išrinkta nauja stebėtojų taryba, bet ne ilgiau kaip iki stebėtojų tarybos kadencijos pabaigos metais vyksiančio eilinio kooperatinės bendrovės narių susirinkimo. Stebėtojų tarybos nario kadencijų skaičius neribojamas.
+4. Stebėtojų taryba renkama kooperatinės bendrovės įstatuose nustatytam, bet ne ilgesniam kaip 4 metų laikotarpiui. Stebėtojų taryba savo funkcijas pradeda kitą dieną po jos išrinkimo kooperatinės bendrovės narių susirinkime ir atlieka kooperatinės bendrovės įstatuose nustatytą laiką arba tol, kol bus išrinkta nauja stebėtojų taryba, bet ne ilgiau kaip iki stebėtojų tarybos kadencijos pabaigos metais vyksiančio eilinio kooperatinės bendrovės narių susirinkimo. Stebėtojų tarybos nario kadencijų skaičius neribojamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 5. Stebėtojų taryba iš savo narių renka stebėtojų tarybos pirmininką.
 
@@ -987,7 +1075,11 @@ Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
 2) prižiūri valdybos ir administracijos vadovo veiklą;
 
-3) pateikia kooperatinės bendrovės narių susirinkimui atsiliepimus ir pasiūlymus dėl metinės finansinės atskaitomybės, pelno paskirstymo ar nuostolio padengimo, apyvartai proporcingų išmokų, dividendų mokėjimo, taip pat valdybos ir administracijos vadovo veiklos;
+3) pateikia kooperatinės bendrovės narių susirinkimui atsiliepimus ir pasiūlymus dėl metinių finansinių ataskaitų, pelno paskirstymo ar nuostolių padengimo, apyvartai proporcingų išmokų, dividendų mokėjimo, taip pat valdybos ir administracijos vadovo veiklos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
 4) teikia valdybai ir administracijos vadovui siūlymus atšaukti jų sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, kooperatinės bendrovės įstatams ar kooperatinės bendrovės narių susirinkimo sprendimams;
 
