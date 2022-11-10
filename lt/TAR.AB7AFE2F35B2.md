@@ -4,7 +4,7 @@ identifier: "TAR.AB7AFE2F35B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2022-11-08"
+last_updated: "2022-11-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2022-11-08 iki 2022-11-09
+Suvestinė redakcija nuo 2022-11-10 iki 2022-11-30
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
 
@@ -4448,7 +4448,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
-part_cbbde2915e6847b9b87320cac39dafb8_end
+part_b36b56b190b34297b19f55a1c7cafc93_end
 
 Lietuvos Respublikos
 
@@ -4540,11 +4540,15 @@ Papildyta punktu:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
-21. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937.
+21. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, su paskutiniais pakeitimais, padarytais 2022 m. liepos 12 d. Komisijos deleguotuoju reglamentu (ES) 2022/1988.
 
 Papildyta punktu:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+
+Punkto pakeitimai:
+
+Nr. XIV-1495, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22683
 
 Priedo pakeitimai:
 
@@ -4552,7 +4556,7 @@ Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
-part_4dead4163c434eeaba58212bb8a8303f_end
+part_7f774a168d074d5fa98f3a0c72c5a29d_end
 
 Pakeitimai:
 
@@ -4761,6 +4765,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 93, 111 straipsnių ir priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1495, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22683
+
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 priedo pakeitimo įstatymas
 
 411 straipsnis. Dalyvavimo politika
 
