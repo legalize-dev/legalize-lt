@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2022-07-01"
+last_updated: "2022-11-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-11-09
+Suvestinė redakcija nuo 2022-11-10 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
 
@@ -775,7 +775,11 @@ Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
 
 202) palūkanų už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą Lietuvos Respublikos vartojimo kredito įstatyme ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, taip pat palūkanų už lėšas, suteiktas per sutelktinio finansavimo platformą Lietuvos Respublikos sutelktinio finansavimo įstatyme arba 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, suma, neviršijanti 500 eurų per mokestinį laikotarpį;
 
-TAR pastaba. 17 straipsnio 1 dalies 202 punktas taikomas palūkanoms už lėšas, suteiktas nuo 2022-01-01 iki 2022-11-10 per sutelktinio finansavimo platformą Lietuvos Respublikos sutelktinio finansavimo įstatyme nustatyta tvarka, neatsižvelgiant į tai, kuriuo mokestiniu laikotarpiu šios palūkanos buvo gautos.
+TAR pastaba. 17 straipsnio 1 dalies 202 punktas taikomas palūkanoms už lėšas, suteiktas nuo 2022-01-01 iki 2023-11-10 per sutelktinio finansavimo platformą Lietuvos Respublikos sutelktinio finansavimo įstatyme nustatyta tvarka, neatsižvelgiant į tai, kuriuo mokestiniu laikotarpiu šios palūkanos buvo gautos.
+
+202 punkto redakcija nuo 2023-11-10:
+
+202) palūkanų už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą Lietuvos Respublikos vartojimo kredito įstatyme ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, taip pat palūkanų už lėšas, suteiktas per sutelktinio finansavimo platformą 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, suma, neviršijanti 500 eurų per mokestinį laikotarpį;
 
 Papildyta straipsnio punktu:
 
@@ -1813,7 +1817,7 @@ Priedo pakeitimai:
 
 Nr. XIV-829, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27721
 
-part_1b0ba5c368bb4922b3efaf84474afd44_end
+part_37571e0590f04503a4722dc62512517d_end
 
 Pakeitimai:
 
