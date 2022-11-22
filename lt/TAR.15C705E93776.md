@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2022-10-01"
+last_updated: "2022-11-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-10-01 iki 2022-11-21
+Suvestinė redakcija nuo 2022-11-22 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -3837,7 +3837,7 @@ Priedo pakeitimai:
 
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
-part_124c6f4d1ce14aa1b10ef66aa2f03cf9_end
+part_f4699f79cabf4048b11e55005ac513aa_end
 
 Lietuvos Respublikos
 
@@ -4473,7 +4473,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2169, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20139
 
-4. Profesinės karo tarnybos karininkas krašto apsaugos ministro įsakymu gali būti iki 3 metų perkeltas į Lietuvos šaulių sąjungos vado, jo pavaduotojo ar rinktinės vado pareigas.
+4. Profesinės karo tarnybos karininkas Ministro Pirmininko teikimu, suderintu su krašto apsaugos ministru, Vyriausybės nutarimu gali būti iki 3 metų perkeltas į Lietuvos šaulių sąjungos vado ar jo pavaduotojo pareigas. Profesinės karo tarnybos karininkas krašto apsaugos ministro įsakymu, suderintu su Lietuvos šaulių sąjungos vadu, Lietuvos šaulių sąjungos Centro valdybos pritarimu gali būti iki 3 metų perkeltas į Lietuvos šaulių sąjungos rinktinės vado ar Lietuvos šaulių sąjungos Mokymų ir nekinetinių operacijų centro viršininko pareigas.
+
+TAR pastaba. 4 dalies pirmojo sakinio nuostata taikoma nuo 2022 m. gruodžio 1 d., antrojo sakinio nuostata – nuo 2023 m. sausio 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1507, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23355
 
 5. Kai yra tarnybinė būtinybė valstybės institucijose ar įstaigose vykdyti funkcijas, kurioms atlikti reikia specialių karybos žinių, ir kai valstybės institucijų ar įstaigų vadovai šį klausimą suderina, krašto apsaugos ministro įsakymu profesinės karo tarnybos karys, išskyrus profesinės karo tarnybos karį, turintį žvalgybos pareigūno statusą, gali būti laikinai, iki 3 metų, perkeltas į karjeros valstybės tarnautojo pareigas kitoje valstybės institucijoje ar įstaigoje, jeigu profesinės karo tarnybos karys atitinka Valstybės tarnybos įstatyme nustatytus priėmimo į valstybės tarnautojo pareigas bendruosius reikalavimus ir pareigybės, į kurią jis perkeliamas, aprašyme nustatytus specialiuosius reikalavimus. Tarnybinio būtinumo atveju profesinės karo tarnybos kario perkėlimo į karjeros valstybės tarnautojo pareigas terminas, valstybės institucijų ar įstaigų vadovams suderinus, gali būti pratęstas, tačiau ne ilgiau kaip 2 metams. Profesinės karo tarnybos kario perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpis įskaitomas į profesinės karo tarnybos stažą. Perkėlimo laikotarpiu valstybės institucija ar įstaiga, į kurią profesinės karo tarnybos karys perkeltas, moka šiam kariui ne mažesnį negu šiame įstatyme nustatyta tvarka apskaičiuotą tarnybinį atlyginimą, taiko profesinės karo tarnybos kariams nustatytą aprūpinimą (išskyrus aprūpinimą apranga), kitas garantijas. Į karjeros valstybės tarnautojo pareigas perkeltam profesinės karo tarnybos kariui taikomi karių tarnybai nustatyti apribojimai, o pažeidęs drausmę karys atsako Kariuomenės drausmės statuto nustatyta tvarka. Profesinės karo tarnybos karių, turinčių žvalgybos pareigūno statusą, perkėlimą į kitas valstybės institucijas ar įstaigas nustato Žvalgybos įstatymas.
 
