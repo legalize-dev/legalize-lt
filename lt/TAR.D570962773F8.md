@@ -4,7 +4,7 @@ identifier: "TAR.D570962773F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-03"
-last_updated: "2022-05-28"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymas
 
-Suvestinė redakcija nuo 2022-05-28 iki 2022-11-29
+Suvestinė redakcija nuo 2022-11-30 iki 2023-01-04
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1672, i. k. 0971010ISTAVIII-397
 
@@ -729,7 +729,11 @@ Nr. XIV-459, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15456
 
 Nr. XIV-1110, 2022-05-19, paskelbta TAR 2022-05-27, i. k. 2022-11333
 
-57) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena;
+57) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena, Besimokančių senjorų diena;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1544, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24194
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -1498,6 +1502,14 @@ Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIV-1110, 2022-05-19, paskelbta TAR 2022-05-27, i. k. 2022-11333
+
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1544, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24194
 
 Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
 
