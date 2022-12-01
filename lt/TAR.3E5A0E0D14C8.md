@@ -4,7 +4,7 @@ identifier: "TAR.3E5A0E0D14C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-23"
-last_updated: "2022-07-22"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E5A0E0D14C8"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2024-06-26
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
 
@@ -747,7 +747,11 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 1. Teisę verstis vartojimo kreditų teikimo veikla asmuo turi tik tada, kai priežiūros institucija įrašo jį į viešąjį vartojimo kredito davėjų sąrašą. Teisės verstis vartojimo kreditų teikimo veikla neturi fiziniai asmenys ir pelno nesiekiantys asmenys.
 
-2. Vartojimo kredito davėjo vadovu, fiziniu arba juridiniu asmeniu arba kartu veikiančiu asmeniu, kuriam tiesiogiai ar netiesiogiai priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, vartojimo kredito davėjo veiklai, negali būti asmuo, atitinkantis bent vieną iš šių sąlygų:
+2. Vartojimo kredito davėjo vadovu, fiziniu arba juridiniu asmeniu ar kartu veikiančiu asmeniu, kuriam tiesiogiai ar netiesiogiai priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios atskaitomybės įstatyme, vartojimo kredito davėjo veiklai, negali būti asmuo, atitinkantis bent vieną iš šių sąlygų:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
 
 1) fizinis asmuo yra pripažintas kaltu padaręs sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas už pirmiau nurodytus nusikaltimus nėra išnykęs ar panaikintas arba nepraėjo 3 metai nuo teismo nuosprendžio, kuriuo fizinis asmuo yra pripažintas kaltu dėl šiame punkte nurodytų baudžiamųjų nusižengimų padarymo, įsiteisėjimo;
 
@@ -769,9 +773,39 @@ Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 3. Šio straipsnio 2 dalyje nurodytais kartu veikiančiais asmenimis laikomi du arba daugiau asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu arba rašytiniu susitarimu, įgyvendina arba siekia įgyvendinti savo teises, turimas pagal šioje dalyje nurodytą vartojimo kredito davėjo įstatinio kapitalo ir (arba) balsavimo teisių dalį.
 
-4. Vartojimo kredito davėjas privalo iš anksto pranešti priežiūros institucijai apie visus būsimus šio straipsnio 2 dalyje nurodytų asmenų pasikeitimus, kartu pateikdamas priežiūros institucijos nustatytą informaciją, reikalingą įvertinti, ar naujai skiriami arba planuojami rinkti vadovai ir (arba) kiti asmenys atitinka šio straipsnio 2 dalyje nustatytus reikalavimus. Naujai paskirti arba išrinkti vartojimo kredito davėjo vadovai gali pradėti eiti pareigas, o kiti asmenys – įsigyti vartojimo kredito davėjo balsavimo teisių arba įstatinio kapitalo dalį tik po to, kai priežiūros institucija pritaria jų kandidatūroms arba įsigijimo sandoriui.
+31. Jeigu vartojimo kredito davėjo kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turi juridinis asmuo, šio juridinio asmens organų, išskyrus dalyvių susirinkimą, nariu negali būti asmuo, atitinkantis šio straipsnio 2 dalies 1 punkte nurodytą sąlygą.
 
-5. Šio straipsnio 4 dalyje nurodyti priežiūros institucijos pritarimai išduodami šio straipsnio 7 dalyje nustatyta tvarka.
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
+
+4. Fizinis arba juridinis asmuo ar kartu veikiantys asmenys, nusprendę įsigyti vartojimo kredito davėjo balsavimo teisių ir (arba) įstatinio kapitalo dalį, lygią arba viršijančią 20 procentų, arba tokią dalį, kuri leistų fiziniam arba juridiniam asmeniui ar kartu veikiantiems asmenims daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį vartojimo kredito davėjo veiklai, privalo pateikti priežiūros institucijai informaciją, reikalingą įvertinti, ar šie asmenys atitinka šio straipsnio 2 dalyje nustatytus reikalavimus. Vartojimo kredito davėjo balsavimo teisių arba įstatinio kapitalo dalies, lygios arba viršijančios 20 procentų, arba tokios dalies, kuri leistų fiziniam arba juridiniam asmeniui ar kartu veikiantiems asmenims daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį vartojimo kredito davėjo veiklai, negali įsigyti fizinis arba juridinis asmuo ar kartu veikiantys asmenys, jeigu jie atitinka bent vieną iš šio straipsnio 2 dalies 1–4 punktuose nurodytų sąlygų ir jeigu negautas priežiūros institucijos pritarimas įsigijimo sandoriui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
+
+41. Vartojimo kredito davėjas privalo pranešti priežiūros institucijai apie būsimą vartojimo kredito davėjo vadovo pasikeitimą ir pateikti informaciją, reikalingą įvertinti, ar naujai skiriamas arba planuojamas rinkti vartojimo kredito davėjo vadovas atitinka šio straipsnio 2 dalyje nustatytus reikalavimus. Vartojimo kredito davėjo vadovas gali pradėti eiti pareigas, jeigu jis atitinka šio straipsnio 2 dalyje nustatytus reikalavimus ir tik po to, kai priežiūros institucija pritaria jo kandidatūrai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
+
+5. Šio straipsnio 4 ir 41 dalyse nurodyti priežiūros institucijos pritarimai išduodami šio straipsnio 7 dalyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
+
+51. Priežiūros institucija atsisako pritarti vartojimo kredito davėjo vadovo kandidatūrai arba įsigijimo sandoriui, jeigu asmuo:
+
+1) atitinka bent vieną iš šio straipsnio 2 dalies 1–4 punktuose nustatytų sąlygų;
+
+2) priežiūros institucijai paprašius pateikti trūkstamus ar patikslintus dokumentus, duomenis ir (arba) informaciją, reikalingus sprendimui priimti, per priežiūros institucijos nurodytą terminą nepateikia šiame straipsnyje ir jo nuostatas detalizuojančiuose teisės aktuose nurodytų dokumentų, duomenų ir (arba) informacijos ar pateikia neteisingus dokumentus, duomenis ir (arba) informaciją.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
 
 6. Asmuo gali būti įrašytas į viešąjį vartojimo kredito davėjų sąrašą, jeigu jis atitinka šio įstatymo ir priežiūros institucijos teisės aktų reikalavimus ir pateikia priežiūros institucijai šiuos dokumentus, duomenis ir informaciją:
 
@@ -798,6 +832,12 @@ Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
+
+91. Priežiūros institucija vartojimo kredito davėją, turintį priežiūros institucijos išduotą kredito įstaigos veiklos licenciją, įrašo į viešąjį vartojimo kredito davėjų sąrašą licencijos išdavimo dieną, o vartojimo kredito davėją, turintį kitos valstybės narės priežiūros institucijos išduotą licenciją, – kitos valstybės narės priežiūros institucijos pranešimo, gauto Lietuvos Respublikos bankų įstatymo 20 straipsnyje nustatyta tvarka, gavimo dieną.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
 
 10. Vartojimo kredito davėjas išbraukiamas iš viešojo vartojimo kredito davėjų sąrašo paties vartojimo kredito davėjo prašymu arba priežiūros institucijos iniciatyva, kai yra šiame straipsnyje nurodyti pagrindai.
 
@@ -1209,8 +1249,6 @@ Ginčų sprendimo ne teisme tvarka ir žalos atlyginimo tvarka
 
 [Ar vartojimo kredito gavėjui, kuris yra nuotolinio ryšio priemonėmis sudaromos sutarties šalis, yra numatyta ginčų sprendimo ne teisme tvarka, žalos atlyginimo tvarka ir, jei taip, naudojimosi ja būdai]
 
-part_7ce532a74d1243218a0603a6474d6e58_end
-
 Lietuvos Respublikos vartojimo kredito įstatymo
 
 2 priedas
@@ -1355,8 +1393,6 @@ Ginčų sprendimo ne teisme tvarka ir žalos atlyginimo tvarka
 
 [Ar vartojimo kredito gavėjui, kuris yra nuotolinio ryšio priemonėmis sudaromos sutarties šalis, yra numatyta ginčų sprendimo ne teisme tvarka, žalos atlyginimo tvarka ir, jei taip, naudojimosi ja būdai]
 
-part_1ddeb2b9bd8a48a8bc5cdb60629b77db_end
-
 Lietuvos Respublikos
 
 vartojimo kredito įstatymo
@@ -1451,7 +1487,13 @@ Nr. XIV-1341, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15415
 
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22-1 straipsnio ir 3 priedo pakeitimo įstatymas
 
-part_412620ec176b48059b3a5efff5deb137_end
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
+
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22, 22-1, 23-1 ir 25-1 straipsnių pakeitimo įstatymas
 
 43 straipsnis. Viešas skelbimas
 
@@ -1877,35 +1919,17 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 221 straipsnis. Teisių ir pareigų pagal vartojimo kredito sutartis perleidimas
 
-1. Vartojimo kredito davėjas turi teisę perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis tik į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 dalyje nustatytą atvejį.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
-
-Nr. XIV-1341, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15415
+1. Vartojimo kredito davėjas turi teisę perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis tik į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 ir 5 dalyse nustatytus atvejus.
 
 2. Priežiūros institucija, priimdama sprendimą išbraukti vartojimo kredito davėją iš viešojo vartojimo kredito davėjų sąrašo vadovaudamasi šio įstatymo 331 straipsnio 5 punktu, įpareigoja vartojimo kredito davėją perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis kitam į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui.
 
-Papildyta straipsnio dalimi:
-
-Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
-
 3. Teisių ir pareigų pagal vartojimo kredito sutartis perleidimo tvarką nustato priežiūros institucija.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 4. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas, kai specialiosios paskirties bendrovė ar bet koks ne Lietuvos Respublikoje įsteigtas subjektas iš kredito davėjo perima teises ir pareigas pagal kredito sutartis, kaip nustatyta Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme.
 
-Papildyta straipsnio dalimi:
+5. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas vartojimo kredito davėjo teisių ir pareigų pagal vartojimo kredito sutartis perleidimui Lietuvos bankui, Europos Centriniam Bankui ir kitiems Europos centrinių bankų sistemos nacionaliniams centriniams bankams, kai jie atlieka savo funkcijas ir operacijas, nustatytas jų veiklą reglamentuojančiuose teisės aktuose (toliau šiame straipsnyje – funkcijos ir operacijos).
 
-Nr. XIV-1341, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15415
-
-Papildyta straipsniu:
-
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+6. Lietuvos bankui, Europos Centriniam Bankui ir kitiems Europos centrinių bankų sistemos nacionaliniams centriniams bankams, kai jie, atlikdami savo funkcijas ir operacijas, perima teises ir pareigas pagal vartojimo kredito sutartis, taikomos tik šio įstatymo nuostatos, reglamentuojančios vartojimo kredito davėjo pareigų vykdymą ir vartojimo kredito gavėjo teisių įgyvendinimą.
 
 222 straipsnis. Neteko galios nuo 2018-06-15
 
@@ -1915,7 +1939,11 @@ Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 231 straipsnis. Vartojimo kredito davėjo finansinių ataskaitų rinkiniai
 
-1. Jeigu pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymą vartojimo kredito davėjas privalo sudaryti metinius finansinių ataskaitų rinkinius, jie turi būti audituoti.
+1. Jeigu pagal Lietuvos Respublikos įmonių atskaitomybės įstatymą vartojimo kredito davėjas privalo sudaryti metinius finansinių ataskaitų rinkinius, jie turi būti audituoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
 
 2. Metinių finansinių ataskaitų rinkinio sudarymui, auditui ir jo atlikimo tvarkai taikomi Lietuvos Respublikos įstatymai ir kiti teisės aktai.
 
@@ -1927,17 +1955,39 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 1. Teisę verstis tarpusavio skolinimo platformos operatoriaus veikla asmuo turi tik tada, kai priežiūros institucija įrašo jį į viešąjį tarpusavio skolinimo platformos operatorių sąrašą. Teisės verstis tarpusavio skolinimo platformos operatoriaus veikla neturi fiziniai asmenys ir pelno nesiekiantys asmenys.
 
-2. Tarpusavio skolinimo platformos operatoriaus vadovu, fiziniu arba juridiniu asmeniu arba kartu veikiančiu asmeniu, kuriam tiesiogiai ar netiesiogiai priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, tarpusavio skolinimo platformos operatoriaus veiklai, negali būti asmuo, atitinkantis bent vieną iš šio įstatymo 22 straipsnio 2 dalyje nustatytų sąlygų.
+2. Tarpusavio skolinimo platformos operatoriaus vadovu, fiziniu arba juridiniu asmeniu ar kartu veikiančiu asmeniu, kuriam tiesiogiai ar netiesiogiai priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Įmonių grupių konsoliduotosios atskaitomybės įstatyme, tarpusavio skolinimo platformos operatoriaus veiklai, negali būti asmuo, atitinkantis bent vieną iš šio įstatymo 22 straipsnio 2 dalyje nustatytų sąlygų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
+
 3. Šio straipsnio 2 dalyje nurodytais kartu veikiančiais asmenimis laikomi du arba daugiau asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu arba rašytiniu susitarimu, įgyvendina arba siekia įgyvendinti savo teises, turimas pagal šioje dalyje nurodytą tarpusavio skolinimo platformos operatoriaus įstatinio kapitalo ir (arba) balsavimo teisių dalį.
 
-4. Tarpusavio skolinimo platformos operatorius privalo iš anksto pranešti priežiūros institucijai apie visus būsimus šio straipsnio 2 dalyje nurodytų asmenų pasikeitimus, kartu pateikdamas priežiūros institucijos nustatytą informaciją, reikalingą įvertinti, ar naujai skiriami arba planuojami rinkti vadovai ir (arba) kiti asmenys atitinka šio straipsnio 2 dalyje nustatytus reikalavimus. Naujai paskirti arba išrinkti tarpusavio skolinimo platformos vadovai gali pradėti eiti pareigas, o kiti asmenys – įsigyti tarpusavio skolinimo platformos operatoriaus balsavimo teisių arba įstatinio kapitalo dalį tik po to, kai priežiūros institucija pritaria jų kandidatūroms arba įsigijimo sandoriui.
+31. Jeigu tarpusavio skolinimo platformos operatoriaus kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turi juridinis asmuo, šio juridinio asmens organų, išskyrus dalyvių susirinkimą, nariu negali būti asmuo, atitinkantis šio įstatymo 22 straipsnio 2 dalies 1 punkte nurodytą sąlygą.
 
-5. Šio straipsnio 4 dalyje nurodyti priežiūros institucijos pritarimai išduodami šio įstatymo 22 straipsnio 7 dalyje nustatyta tvarka.
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
+
+4. Fizinis arba juridinis asmuo ar kartu veikiantys asmenys, nusprendę įsigyti tarpusavio skolinimo platformos operatoriaus balsavimo teisių ir (arba) įstatinio kapitalo dalį, lygią arba viršijančią 20 procentų, arba tokią dalį, kuri leistų fiziniam arba juridiniam asmeniui ar kartu veikiantiems asmenims daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį tarpusavio skolinimo platformos operatoriaus veiklai, privalo pateikti priežiūros institucijai informaciją, reikalingą įvertinti, ar šie asmenys atitinka šio straipsnio 2 dalyje nustatytus reikalavimus. Tarpusavio skolinimo platformos operatoriaus balsavimo teisių arba įstatinio kapitalo dalies, lygios arba viršijančios 20 procentų, arba tokios dalies, kuri leistų fiziniam arba juridiniam asmeniui ar kartu veikiantiems asmenims daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį tarpusavio skolinimo platformos operatoriaus veiklai, negali įsigyti fizinis arba juridinis asmuo ar kartu veikiantys asmenys, jeigu jie neatitinka šio straipsnio 2 dalyje nustatytų reikalavimų ir jeigu negautas priežiūros institucijos pritarimas įsigijimo sandoriui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
+
+41. Tarpusavio skolinimo platformos operatorius privalo pranešti priežiūros institucijai apie būsimą tarpusavio skolinimo platformos operatoriaus vadovo pasikeitimą ir pateikti informaciją, reikalingą įvertinti, ar naujai skiriamas arba planuojamas rinkti tarpusavio skolinimo platformos operatoriaus vadovas atitinka šio straipsnio 2 dalyje nustatytus reikalavimus. Tarpusavio skolinimo platformos operatoriaus vadovas gali pradėti eiti pareigas, jeigu jis atitinka šio straipsnio 2 dalyje nustatytus reikalavimus ir tik po to, kai priežiūros institucija pritaria jo kandidatūrai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
+
+5. Šio straipsnio 4 ir 41 dalyse nurodyti priežiūros institucijos pritarimai išduodami šio įstatymo 22 straipsnio 51 ir 7 dalyse nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
 
 6. Asmuo gali būti įrašytas į viešąjį tarpusavio skolinimo platformos operatorių sąrašą, jeigu jis atitinka šio įstatymo ir priežiūros institucijos teisės aktų reikalavimus ir pateikia priežiūros institucijai šiuos dokumentus, duomenis ir informaciją:
 
