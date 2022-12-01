@@ -4,7 +4,7 @@ identifier: "TAR.291FFED8D558"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2022-01-01"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.291FFED8D558"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 61-2183, i. k. 1041010ISTA0IX-2127
 
@@ -156,11 +156,15 @@ Nr. XIV-769, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26898
 
 7. Šis įstatymas netaikomas kredito reikalavimams, atsirandantiems iš vartojimo kredito sutarčių, išskyrus atvejus, kai užstato gavėjas ar tokių kredito reikalavimų užstato davėjas yra vienas iš šio straipsnio 2 dalies 2 punkte nurodytų subjektų.
 
-8. Šis įstatymas Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytiems subjektams taikomas tiek, kiek Finansinio tvarumo įstatymas nenustato kitaip.
+8. Šis įstatymas Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 ir 21 dalyse nurodytiems subjektams taikomas tiek, kiek Finansinio tvarumo įstatymas nenustato kitaip.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2061, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19172
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1458, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22569
 
 ANTRASIS SKIRSNIS
 
@@ -348,7 +352,11 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES.
+1. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/23.
+
+Punkto pakeitimai:
+
+Nr. XIV-1458, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22569
 
 Priedo pakeitimai:
 
@@ -403,6 +411,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-769, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26898
 
 Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 2, 9 straipsnių ir priedo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1458, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22569
+
+Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 3 straipsnio ir priedo pakeitimo įstatymas
 
 part_d385bc25ff604860886c7e9ca4cb4c50_end
 
