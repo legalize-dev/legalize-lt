@@ -4,7 +4,7 @@ identifier: "TAR.3CD1008B88A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2021-01-01"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2023-05-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
 
@@ -166,7 +166,17 @@ Vyriausybė:
 
 9) nustato mobilizacijos sistemos būklės ir civilinių mobilizacijos institucijų, išskyrus Lietuvos Respublikos valstybės saugumo departamentą, ir civilinėms mobilizacijos institucijoms pavaldžių subjektų pasirengimo mobilizacijai ir priimančiosios šalies paramai teikti vertinimo kriterijus ir tvarką bei kiekvienais metais teikia Seimo Nacionalinio saugumo ir gynybos komitetui informaciją apie vertinimo kriterijų įgyvendinimą;
 
-10) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas mobilizacijos, demobilizacijos ir priimančiosios šalies paramos funkcijas.
+10) tvirtina karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti, sąrašą, kuriame nurodoma priimančiosios šalies paramai užtikrinti reikalinga karinė infrastruktūra, jos paskirtis, jos pritaikymui ir (ar) sukūrimui reikalinga teritorija ar žemės sklypai, nuosavybės teise priklausantys valstybei, ir vieta Lietuvos regione. Teritorija, reikalinga karinei infrastruktūrai pritaikyti ir (ar) sukurti, parenkama įvertinus urbanizuotas teritorijas, kraštovaizdį, gamtos ir kultūros paveldą, suderinus tose teritorijose vykdomas veiklas su veiklomis, vykdomomis karinėse teritorijose;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
+
+11) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas mobilizacijos, demobilizacijos ir priimančiosios šalies paramos funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
 
 7 straipsnis. Krašto apsaugos ministerijos įgaliojimai mobilizacijos ir priimančiosios šalies paramos srityje
 
@@ -180,7 +190,17 @@ Vyriausybė:
 
 4) rengia Krašto apsaugos ministerijos ir jai, kaip civilinei mobilizacijos institucijai, pavaldžių subjektų, išskyrus Lietuvos kariuomenę ir Antrąjį operatyvinių tarnybų departamentą prie Lietuvos Respublikos krašto apsaugos ministerijos, mobilizacijos planą;
 
-5) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas mobilizacijos ir priimančiosios šalies paramos funkcijas.
+5) rengia ir, suderinusi su Lietuvos Respublikos aplinkos ministerija, teikia Vyriausybei tvirtinti karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti, sąrašą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
+
+6) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas mobilizacijos ir priimančiosios šalies paramos funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
 
 2. Krašto apsaugos ministras:
 
@@ -679,6 +699,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3228, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15862
 
 Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
+
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 6 ir 7 straipsnių pakeitimo įstatymas
 
 27 straipsnis. Sprendimų dėl priimančiosios šalies paramos teikimo užduočių ir sutarčių vykdymo priėmimas
 
