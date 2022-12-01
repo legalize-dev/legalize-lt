@@ -4,7 +4,7 @@ identifier: "TAR.0539E2FEB29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-15"
-last_updated: "2022-07-08"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0539E2FEB29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-07-08 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 82-1965, i. k. 0961010ISTA00I-1495
 
@@ -45,6 +45,12 @@ BENDROSIOS NUOSTATOS
 1. Šis įstatymas reglamentuoja planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo ir planuojamos ūkinės veiklos poveikio aplinkai vertinimo procesus ir šių procesų dalyvių tarpusavio santykius.
 
 2. Šiuo įstatymu siekiama suderinti planuojamos ūkinės veiklos poveikio aplinkai vertinimo proceso reglamentavimą su Europos Sąjungos teisės aktais, nurodytais šio įstatymo 3 priede.
+
+3. Šio įstatymo nuostatos netaikomos karinės infrastruktūros, nurodytos Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 6 straipsnio 10 punkte nurodytame sąraše, statybai, šioje karinėje infrastruktūroje ir teritorijose, kurioms Lietuvos Respublikos žemės įstatymo nustatyta tvarka rengiami karinės infrastruktūros projektai, planuojamai ūkinei veiklai, kurių vienintelis tikslas – valstybės gynyba ir kurių planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo ar poveikio aplinkai vertinimo procedūrų atlikimas darys neigiamą poveikį valstybės gynybos tikslams.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1535, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24181
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
