@@ -4,7 +4,7 @@ identifier: "TAR.AB7AFE2F35B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2022-11-10"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2022-11-10 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2023-02-27
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
 
@@ -158,7 +158,11 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
-11. Finansų maklerio įmonėms Lietuvos Respublikos akcinių bendrovių įstatymo nuostatos taikomos tiek, kiek šis įstatymas nenustato kitaip.
+11. Finansų maklerio įmonėms, taip pat pagrindinėms sandorio šalims Lietuvos Respublikos akcinių bendrovių įstatymo nuostatos taikomos tiek, kiek šis įstatymas nenustato kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -1808,13 +1812,9 @@ Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
 
 Centrinio depozitoriumo organizacinius ir veiklos reikalavimus nustato Reglamentas (ES) Nr. 909/2014.
 
-VII SKYRIUS
+VI1 SKYRIUS
 
-FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
-
-PIRMASIS SKIRSNIS
-
-PRIEŽIŪROS INSTITUCIJOS UŽDAVINIAI IR FUNKCIJOS
+PAGRINDINIŲ SANDORIO ŠALIŲ VEIKLOS IR BANKROTO PROCESO YPATUMAI
 
 92 straipsnis. Finansinių priemonių rinkos priežiūros tikslai
 
@@ -1842,9 +1842,13 @@ Finansinių priemonių rinkos priežiūros tikslai:
 
 2. Įgyvendindama šio straipsnio 1 dalyje nustatytus uždavinius, priežiūros institucija atlieka šias funkcijas:
 
-1) reguliuojamoms rinkoms, finansų maklerio įmonėms, finansų patarėjo įmonėms, informacijos apie sandorius paslaugų teikėjams, centriniams depozitoriumams ir lyginamojo indekso administratoriams išduoda licencijas ar panaikina jų galiojimą;
+1) reguliuojamoms rinkoms, finansų maklerio įmonėms, finansų patarėjo įmonėms, informacijos apie sandorius paslaugų teikėjams, centriniams depozitoriumams, pagrindinėms sandorio šalims ir lyginamojo indekso administratoriams išduoda licencijas (veiklos leidimus) ar panaikina jų galiojimą;
 
-2) stebi, analizuoja, tikrina ir kitaip prižiūri finansų maklerio įmonių, finansų patarėjo įmonių, trečiųjų valstybių įmonių filialų, reguliuojamų rinkų ir jų narių, centrinio depozitoriumo, sąskaitų tvarkytojų, įgaliotųjų konsultantų, institucinių investuotojų, turto valdytojų, lyginamojo indekso administratorių, informacijos apie sandorius paslaugų teikėjų ir sutelktinio finansavimo paslaugų teikėjų veiklą;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
+
+2) stebi, analizuoja, tikrina ir kitaip prižiūri finansų maklerio įmonių, finansų patarėjo įmonių, trečiųjų valstybių įmonių filialų, reguliuojamų rinkų ir jų narių, centrinio depozitoriumo, sąskaitų tvarkytojų, įgaliotųjų konsultantų, institucinių investuotojų, turto valdytojų, lyginamojo indekso administratorių, pagrindinių sandorio šalių, informacijos apie sandorius paslaugų teikėjų ir sutelktinio finansavimo paslaugų teikėjų veiklą;
 
 Straipsnio punkto pakeitimai:
 
@@ -1852,11 +1856,15 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
-3) atlieka priežiūros institucijai priskirtas funkcijas, nustatytas Reglamente (ES) Nr. 648/2012, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 236/2012, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2019/2088, Reglamente (ES) 2020/852 ir Reglamente (ES) 2020/1503;
+Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
+
+3) atlieka priežiūros institucijai priskirtas funkcijas, nustatytas Reglamente (ES) Nr. 236/2012, Reglamente (ES) Nr. 648/2012, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2019/2088, Reglamente (ES) 2020/852, Reglamente (ES) 2020/1503 ir Reglamente (ES) 2021/23;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+
+Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 
 31) atlieka Reglamento (ES) Nr. 2016/1011 23b straipsnio 5 dalies a punkte nurodytą vertinimą;
 
@@ -1888,11 +1896,13 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 8) duoti šio įstatymo 102 straipsnio 3 ir 7 dalyse nustatytus privalomus nurodymus;
 
-9) turėti kitokių įgaliojimų ir teisių, nustatytų Lietuvos banko įstatyme, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 2015/2365, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2019/2088, Reglamente (ES) 2020/852, Reglamente (ES) 2020/1503 ir jų įgyvendinamuosiuose teisės aktuose.
+9) turėti kitokių įgaliojimų ir teisių, nustatytų Lietuvos banko įstatyme, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 2015/2365, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2019/2088, Reglamente (ES) 2020/852, Reglamente (ES) 2020/1503, Reglamente (ES) 2021/23 ir jų įgyvendinamuosiuose teisės aktuose.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+
+Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 
 6. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų pareigų ir teisių, priežiūros institucija, atlikdama jai pavestas funkcijas, turi teisę imtis kitų priemonių, užtikrinančių, kad finansų maklerio įmonės, finansų patarėjo įmonės, centrinis depozitoriumas, reguliuojamos rinkos, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, sutelktinio finansavimo paslaugų teikėjai nuolat laikytųsi šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų.
 
@@ -4300,11 +4310,17 @@ Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 18) laikinai uždraudžia finansų maklerio įmonei būti reguliuojamos rinkos arba daugiašalės prekybos sistemos nare arba dalyve, organizuotos prekybos sistemos kliente.
 
-19) dėl Reglamento (ES) 2020/1503 pažeidimo laikinai uždraudžia šį Reglamentą pažeidusiam sutelktinio finansavimo paslaugų teikėjo valdymo organo nariui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už pažeidimą, atlikti vadovaujamas funkcijas sutelktinio finansavimo paslaugų teikėjų įmonėse.
+19) dėl Reglamento (ES) 2020/1503 pažeidimo laikinai uždraudžia šį Reglamentą pažeidusiam sutelktinio finansavimo paslaugų teikėjo valdymo organo nariui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už pažeidimą, atlikti vadovaujamas funkcijas sutelktinio finansavimo paslaugų teikėjų įmonėse;
 
 Papildyta straipsnio punktu:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+
+20) pagrindinei sandorio šaliai paskiria, laikydamasi Reglamente (ES) 2021/23 nustatytų sąlygų, laikinąjį administratorių.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 
 2. Taikant šio straipsnio 1 dalies 11 punktą, šiurkščiu pažeidimu laikomi centrinio depozitoriumo valdymo organo nario, finansų maklerio įmonės stebėtojų tarybos nario, finansų maklerio įmonės valdymo organo nario, finansų maklerio įmonės vadovo, kitos valstybės narės finansų maklerio įmonės filialo vadovo arba kito fizinio asmens, kuris laikomas atsakingu už pažeidimą, veiksmai, kuriais pažeidžiamos šio įstatymo, Reglamento (ES) Nr. 600/2014, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 909/2014, Reglamento (ES) Nr. 596/2014, Reglamento (ES) Nr. 2015/2365, Reglamento (ES) Nr. 2016/1011 ar jų įgyvendinamųjų teisės aktų nuostatos ir dėl kurių už pažeidimą atsakingas asmuo savo ar kitų asmenų naudai išvengė didelės turtinės žalos arba gavo didelės turtinės naudos, arba padarė didelės turtinės žalos tretiesiems asmenims, arba kilo grėsmė finansų rinkos stabilumui ir patikimumui. Turtinė žala, turtinė nauda yra didelė, kai jos vertė viršija 250 bazinių bausmių ir nuobaudų dydžio sumą.
 
@@ -4448,7 +4464,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
-part_b36b56b190b34297b19f55a1c7cafc93_end
+part_78889c7b9eae4f57a6d54d6f36b0e751_end
 
 Lietuvos Respublikos
 
@@ -4550,13 +4566,19 @@ Punkto pakeitimai:
 
 Nr. XIV-1495, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22683
 
+22. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132.
+
+Papildyta punktu:
+
+Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
+
 Priedo pakeitimai:
 
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
-part_7f774a168d074d5fa98f3a0c72c5a29d_end
+part_54cceb0d40d94c3080437fe99ef295f6_end
 
 Pakeitimai:
 
@@ -5185,4 +5207,44 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 Papildyta straipsniu:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+
+911 straipsnis. Informavimo apie šaukiamą pagrindinės sandorio šalies neeilinį visuotinį akcininkų susirinkimą ypatumai
+
+1. Pagrindinės sandorio šalies visuotinis akcininkų susirinkimas ne mažesne kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų dauguma gali nuspręsti, kad tuo atveju, kai, priežiūros institucijos vertinimu, tenkinamos Reglamento (ES) 2021/23 18 straipsnio 1 dalies pirmojoje pastraipoje nurodytos sąlygos ir būtina padidinti įstatinį kapitalą siekiant išvengti Reglamento (ES) 2021/23 22 straipsnyje nustatytų pertvarkymo sąlygų, pranešimui apie šaukiamą neeilinį visuotinį akcininkų susirinkimą dėl įstatinio kapitalo didinimo taikomas trumpesnis terminas, negu nustatyta Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse ar 261 straipsnio 3, 4 ir 5 dalyse, arba gali nuspręsti savo įstatuose nustatyti galimybę taikyti trumpesnį pranešimo apie šaukiamą neeilinį visuotinį akcininkų susirinkimą terminą. Pranešimas apie šaukiamą neeilinį visuotinį akcininkų susirinkimą bet kokiu atveju turi būti paskelbtas likus ne mažiau kaip 10 dienų iki susirinkimo dienos.
+
+2. Kai apie šaukiamą neeilinį visuotinį akcininkų susirinkimą pranešama per trumpesnį terminą, kaip numatyta šio straipsnio 1 dalyje, netaikomi Akcinių bendrovių įstatymo 21 straipsnio 1 dalies nuostatos dėl apskaitos dienos, Akcinių bendrovių įstatymo 25 straipsnio 3 dalyje nustatytas siūlymo papildyti visuotinio akcininkų susirinkimo darbotvarkę pateikimo terminas ir Akcinių bendrovių įstatymo 25 straipsnio 5 dalyje nustatyta pareiga ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo dienos pranešti akcininkams apie visuotinio akcininkų susirinkimo darbotvarkės papildymus, taip pat Akcinių bendrovių įstatymo 26 straipsnio 7 dalyje nustatytas reikalavimas gauti visų akcininkų rašytinį sutikimą norint sušaukti visuotinį akcininkų susirinkimą nesilaikant Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse nustatytų terminų.
+
+912 straipsnis. Pagrindinės sandorio šalies bankroto proceso teisinis reglamentavimas
+
+Pagrindinės sandorio šalies bankroto procesui taikomas Lietuvos Respublikos juridinių asmenų nemokumo įstatymas, jeigu šiame įstatyme, Finansų įstaigų įstatyme ir Reglamente (ES) 2021/23 nenustatyta kitaip.
+
+913 straipsnis. Pagrindinės sandorio šalies pripažinimo nemokia sąlygos
+
+Pagrindinė sandorio šalis gali būti pripažinta nemokia, jeigu yra bent viena iš šių sąlygų:
+
+1) pagrindinė sandorio šalis dėl to, kad patyrė arba, tikėtina, patirs nuostolių, kuriems padengti reikės visų jos nuosavų lėšų arba didelės jų dalies, arba dėl kitų su jos finansine būkle susijusių priežasčių pažeidžia arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, artimiausiu metu pažeis veiklos leidimo išdavimo reikalavimus taip, kad priežiūros institucijai yra pagrindas atšaukti veiklos leidimą;
+
+2) pagrindinės sandorio šalies turtas yra arba, remiantis objektyviais veiksniais, nustatoma, kad artimiausiu metu bus mažesnis už jos įsipareigojimus;
+
+3) pagrindinė sandorio šalis negali arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, nustatoma, kad artimiausiu metu negalės suėjus terminui apmokėti savo skolų arba įvykdyti kitų įsipareigojimų.
+
+914 straipsnis. Pagrindinės sandorio šalies kreditorių reikalavimų tenkinimo eilė
+
+Pagrindinės sandorio šalies kreditorių reikalavimų tenkinimui mutatis mutandis taikoma Bankų įstatymo 87 straipsnyje nustatyta kreditorių reikalavimų tenkinimo eilė.
+
+915 straipsnis. Pagrindinės sandorio šalies laikinojo administratoriaus skyrimas
+
+Pagrindinės sandorio šalies laikinojo administratoriaus skyrimui ir veiklai mutatis mutandis taikomos Bankų įstatymo 751 straipsnio nuostatos.
+
+Papildyta skyriumi:
+
+Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
+
+VII SKYRIUS
+
+FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
+
+PIRMASIS SKIRSNIS
+
+PRIEŽIŪROS INSTITUCIJOS UŽDAVINIAI IR FUNKCIJOS
 
