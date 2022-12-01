@@ -4,7 +4,7 @@ identifier: "TAR.40DFB5151B33"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-22"
-last_updated: "2020-06-15"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.40DFB5151B33"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2020-06-15 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2024-07-24
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
 
@@ -589,7 +589,11 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS KAPITALO IR APSAUGOS REIKALAVIMAI
 
 1. Elektroninių pinigų įstaiga privalo apsaugoti iš elektroninių pinigų turėtojų už leistus elektroninius pinigus gautas lėšas vienu iš šių būdų:
 
-1) atskirdama šias lėšas nuo kitų fizinių arba juridinių asmenų, kurie nėra elektroninių pinigų turėtojai, lėšų. Jeigu gavus lėšas kitos darbo dienos pabaigoje jas vis dar turi elektroninių pinigų įstaiga, šios lėšos turi būti laikomos atskiroje sąskaitoje, atidarytoje Lietuvos Respublikos kredito įstaigoje (įskaitant užsienio valstybės kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje), kitos valstybės narės kredito įstaigoje, Lietuvos banke arba kitos valstybės narės centriniame banke ar investuojamos į saugų, likvidų ir mažos rizikos turtą priežiūros institucijos teisės aktų nustatyta tvarka. Elektroninių pinigų įstaiga, šiame punkte nustatytu būdu saugodama iš elektroninių pinigų turėtojų gautas lėšas, privalo imtis priemonių, užtikrinančių elektroninių pinigų turėtojų nuosavybės teisių apsaugą, ypač jeigu ji yra nemoki. Elektroninių pinigų turėtojų lėšos, perduotos elektroninių pinigų įstaigai, yra jų nuosavybė ir į jas negali būti nukreiptas išieškojimas pagal elektroninių pinigų įstaigos skolas;
+1) atskirdama šias lėšas nuo kitų fizinių arba juridinių asmenų, kurie nėra elektroninių pinigų turėtojai, lėšų. Jeigu gautas lėšas kitos darbo dienos pabaigoje vis dar turi elektroninių pinigų įstaiga, šios lėšos turi būti laikomos atskiroje sąskaitoje, atidarytoje Lietuvos Respublikos arba kitos valstybės narės kredito įstaigoje (įskaitant užsienio valstybės kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje arba kitoje valstybėje narėje), Lietuvos banke arba kitos valstybės narės centriniame banke ar investuojamos į saugų, likvidų ir mažos rizikos turtą priežiūros institucijos teisės aktų nustatyta tvarka. Elektroninių pinigų įstaiga, šiame punkte nustatytu būdu saugodama iš elektroninių pinigų turėtojų gautas lėšas, privalo imtis priemonių, užtikrinančių elektroninių pinigų turėtojų nuosavybės teisių apsaugą, ypač jeigu ji yra nemoki. Elektroninių pinigų turėtojų lėšos, perduotos elektroninių pinigų įstaigai, yra jų nuosavybė ir į jas negali būti nukreiptas išieškojimas pagal elektroninių pinigų įstaigos skolas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1479, 2022-11-03, paskelbta TAR 2022-11-17, i. k. 2022-23198
 
 2) apdrausdama šias lėšas draudimo sutartimi arba gaudama dėl jų garantiją ar laidavimo raštą, išduotą Lietuvos Respublikos draudimo įmonės ar kredito įstaigos (įskaitant užsienio valstybės draudimo įmonės ar kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje) arba kitos valstybės narės draudimo įmonės ar kredito įstaigos, nepriklausančios tai pačiai kaip elektroninių pinigų įstaiga įmonių grupei, tokiai elektroninių pinigų įstaigai negalint įvykdyti savo įsipareigojimų dėl išmokamos sumos, kuri turėtų būti atskirta, jeigu būtų taikomas šios dalies 1 punkte nurodytas būdas.
 
@@ -1093,5 +1097,11 @@ Nr. XIII-2962, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11335
 
 Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 15 straipsnio pakeitimo įstatymas
 
-part_03b1bcb0ce6f4337a1f8a2a91fa09b5d_end
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1479, 2022-11-03, paskelbta TAR 2022-11-17, i. k. 2022-23198
+
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 25 straipsnio pakeitimo įstatymas
 
