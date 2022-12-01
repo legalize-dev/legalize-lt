@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2022-09-01"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
-
-TAR pastaba. 2022 m. birželio 30 d. įstatymo Nr. XIV-1257 nuostatos taikomos mokslo ir studijų institucijų dėstytojams ir mokslo darbuotojams, priimtiems į pareigas nuo 2023 m. liepos 1 d. Iki 2023 m. liepos 1 d. priimtų į pareigas dėstytojų, mokslo darbuotojų ir tyrėjų pareigos ir kitos darbo sąlygos gali būti keičiamos atsižvelgiant į 2022 m. birželio 30 d. įstatymo Nr. XIV-1257 nuostatas tik šių darbuotojų sutikimu
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
-
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
 Nauja redakcija nuo 2017-01-01:
 
@@ -1141,6 +1133,14 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
+50.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1040, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08794
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 14, 84 straipsnių pakeitimo ir 18-1, 20 straipsnių pripažinimo netekusiais galios įstatymas
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -1553,7 +1553,11 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 1. Valstybės mokslo ir studijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją formuoja Lietuvos Respublikos Seimas, Vyriausybė, Lietuvos Respublikos švietimo, mokslo ir sporto ministerija ir kitos ministerijos.
 
-2. Valstybės mokslo ir studijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją įgyvendina Lietuvos mokslo taryba, Lietuvos mokslų akademija, šio įstatymo 181 straipsnyje nurodyta Vyriausybės įgaliota institucija, Valstybinis studijų fondas, Aukštojo mokslo taryba, Studijų kokybės vertinimo centras, akademinės etikos ir procedūrų kontrolierius, Vyriausybės ir švietimo, mokslo ir sporto ministro įgaliotos institucijos, mokslo ir studijų institucijos.
+2. Valstybės mokslo ir studijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją įgyvendina Lietuvos mokslo taryba, Lietuvos mokslų akademija, Valstybinis studijų fondas, Studijų kokybės vertinimo centras, akademinės etikos ir procedūrų kontrolierius, Vyriausybės ir švietimo, mokslo ir sporto ministro įgaliotos institucijos, mokslo ir studijų institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1040, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08794
 
 3. Mokslo, technologijų ir inovacijų taryba padeda Vyriausybei koordinuoti ministerijų ir Vyriausybės įstaigų, kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė, veiklą siekiant strateginių, sisteminių ir tarpinstitucinių sprendimų, kurių reikia mokslo, technologijų ir inovacijų politikai formuoti ir įgyvendinti, pagal Technologijų ir inovacijų įstatyme, šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją.
 
@@ -1747,17 +1751,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
 
-20 straipsnis. Aukštojo mokslo taryba
+20 straipsnis. Neteko galios nuo 2022-12-01.
 
-1. Aukštojo mokslo taryba yra ekspertinė institucija aukštojo mokslo raidos klausimais.
+Straipsnio pakeitimai:
 
-2. Aukštojo mokslo taryba svarsto aukštojo mokslo būklės apžvalgas ir teikia siūlymus, išvadas bei rekomendacijas Vyriausybei, Švietimo, mokslo ir sporto ministerijai ir kitoms aukštojo mokslo politiką įgyvendinančioms institucijoms dėl aukštojo mokslo strateginių tikslų ir pažangos uždavinių nustatymo Nacionaliniame pažangos plane, dėl šiuos tikslus ir uždavinius įgyvendinančiose nacionalinėse plėtros programose planuojamų aukštojo mokslo plėtros ir kokybės užtikrinimo priemonių, dėl teisės aktų, susijusių su aukštuoju mokslu, inicijuoja tyrimus, analizes, konferencijas, pasitarimus, forumus, ekspertinius renginius aukštojo mokslo plėtros klausimais, atlieka kitas įstatymų ir kitų teisės aktų pavestas funkcijas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-3116, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15349
-
-3. Aukštojo mokslo tarybos sudėtį tvirtina švietimo ir mokslo ministras, Aukštojo mokslo tarybos nuostatus tvirtina Vyriausybė.
+Nr. XIV-1040, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08794
 
 21 straipsnis. Vyriausybės strateginės analizės centras
 
@@ -2713,11 +2711,13 @@ Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
 
 4. Pareiškėjai konkuruoja dėl programinio konkursinio finansavimo teikdami paraiškas, kurios vertinamos pagal atitiktį konkrečių mokslinių tyrimų projektų keliamiems tikslams, aktualumo, kompetencijos, kokybės ir kitiems programinį konkursinį finansavimą administruojančių institucijų nustatytiems kriterijams.
 
-5. Programinį konkursinį finansavimą administruoja Lietuvos mokslo taryba, šio įstatymo 181 straipsnyje nurodyta Vyriausybės įgaliota institucija, ekonomikos ir inovacijų ministro, švietimo, mokslo ir sporto ministro įgaliotos institucijos.
+5. Programinį konkursinį finansavimą administruoja Lietuvos mokslo taryba, ekonomikos ir inovacijų ministro, švietimo, mokslo ir sporto ministro įgaliotos institucijos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-738, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25851
+
+Nr. XIV-1040, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08794
 
 6. Su konkursinėmis mokslinių tyrimų programomis susiję Lietuvos ūkio, kultūros, socialinės, sveikatos, krašto ir gamtos apsaugos, kitų sričių moksliniai tyrimai, specialistų rengimas ir kitos veiklos sritys finansuojami iš tvirtinant šias programas joms numatomų lėšų, kuriomis disponuoja suinteresuotos ministerijos, fondai, mokslo ir studijų institucijos, verslo subjektai.
 
@@ -3267,33 +3267,9 @@ Papildyta straipsniu:
 
 Nr. XIV-894, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00751
 
-181 straipsnis. Vyriausybės įgaliota institucija
+181 straipsnis. Neteko galios nuo 2022-12-01.
 
-1. Vyriausybės įgaliota institucija yra biudžetinė įstaiga, kurios savininko teises ir pareigas įgyvendina Vyriausybė ar jos įgaliota institucija.
+Straipsnio pakeitimai:
 
-2. Vyriausybės įgaliota institucija atlieka šias su mokslo ir studijų institucijų veiklos rezultatų kūrimu ir šių rezultatų įveiklinimu susijusias funkcijas:
-
-1) įgyvendina mokslo ir studijų politiką mokslinių tyrimų ir eksperimentinės plėtros srityje;
-
-2) teikia siūlymus dėl teisinio reglamentavimo, skirto moksliniams tyrimams ir eksperimentinei plėtrai palankiai aplinkai kurti;
-
-3) finansuoja mokslinių tyrimų ir eksperimentinės plėtros veiklą;
-
-4) įgyvendina mokslo vadybos ir žinių komercinimo gebėjimų stiprinimo priemones;
-
-5) įgyvendina mokslo ir studijų institucijų ir ūkio subjektų bendradarbiavimo plėtros priemones;
-
-6) teikia mokslinių tyrimų ir eksperimentinės plėtros informavimo ir konsultavimo paslaugas;
-
-7) dalyvauja Europos Sąjungos ir tarptautinių institucijų veikloje ir skatina Lietuvos Respublikos fizinių ir juridinių asmenų integraciją į Europos Sąjungos ir tarptautinę mokslinių tyrimų erdvę;
-
-8) atlieka kitas Vyriausybės ar jos įgaliotos institucijos jai nustatytas funkcijas.
-
-3. Vyriausybės įgaliota institucija turi teisę gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų, valstybės registrų, kitų asmenų, kurių veikla susijusi su valstybės reguliuojamomis mokslo ir studijų sritimis, informaciją, būtiną jai nustatytoms funkcijoms atlikti.
-
-4. Vyriausybės įgaliota institucija gali būti tarptautinių ne pelno siekiančių organizacijų, veikiančių su Vyriausybės įgaliotos institucijos veikla susijusiose srityse, nare.
-
-Papildyta straipsniu:
-
-Nr. XIV-738, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25851
+Nr. XIV-1040, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08794
 
