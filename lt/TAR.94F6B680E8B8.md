@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2022-09-01"
+last_updated: "2022-12-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-12-14
+Suvestinė redakcija nuo 2022-12-15 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -196,11 +196,17 @@ Nr. XIII-2625, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20566
 
 5) asmenys, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas;
 
-6) perkeliamieji asmenys.
+6) perkeliamieji asmenys;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
+
+7) užsieniečiai, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje ir kurie yra asmenys iki 18 metų arba asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą senatvės pensiją, netekto darbingumo pensiją ar šalpos neįgalumo pensiją, arba asmenys, gaunantys šalpos kompensaciją, jiems sukakus Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių ar juos pripažinus netekusiais 60 procentų ir daugiau darbingumo, arba senatvės ar neįgalumo pensiją pagal šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktus, arba Lietuvos Respublikos arba šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktų nustatyta tvarka yra pripažinti neįgaliaisiais.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1636, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25403
 
 2. Lietuvos Respublikos piliečiai, nuolat ar laikinai gyvenantys šalyse, su kuriomis Lietuvos Respublika yra sudariusi tarptautines sutartis dėl privalomojo sveikatos draudimo, ir šių šalių piliečiai, nuolat ar laikinai gyvenantys Lietuvos Respublikoje, draudžiami privalomuoju sveikatos draudimu šių sutarčių nustatyta tvarka.
 
@@ -294,11 +300,17 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-2625, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20566
 
-22) suimtieji ir nuteistieji, atliekantys arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes.
+22) suimtieji ir nuteistieji, atliekantys arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-2698, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21416
+
+23) šio straipsnio 1 dalies 7 punkte nurodyti asmenys.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1636, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25403
 
 Straipsnio dalies pakeitimai:
 
@@ -310,7 +322,11 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 2) baudžiamojo įstatymo uždraustą veiką padariusių asmenų, kuriems teismo nutartimi paskirtos priverčiamosios medicinos priemonės, ir asmenų, atliekančių arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes Lietuvos Respublikoje, sveikatos priežiūra;
 
-3) užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, ir užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, būtinoji medicinos pagalba ir kitos būtinos asmens sveikatos priežiūros paslaugos, kurių nesuteikus paciento sveikatos būklė galėtų pablogėti tiek, kad jam prireiktų skubiosios medicinos pagalbos paslaugų (toliau – būtinosios paslaugos);
+3) užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, ir užsieniečių, turinčių teisę gauti laikinąją apsaugą, iki sprendimo dėl laikinosios apsaugos suteikimo (nesuteikimo) priėmimo, tačiau ne ilgiau kaip laikinosios apsaugos laikotarpiu būtinoji medicinos pagalba ir kitos būtinos asmens sveikatos priežiūros paslaugos, kurių nesuteikus paciento sveikatos būklė galėtų pablogėti tiek, kad jam prireiktų skubiosios medicinos pagalbos paslaugų (toliau – būtinosios paslaugos);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1636, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25403
 
 4) užsieniečių, kuriems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 40 straipsnio 1 dalies 8 punkte nurodytu pagrindu suteiktas leidimas laikinai gyventi Lietuvos Respublikoje, būtinoji medicinos pagalba ir būtinosios paslaugos;
 
