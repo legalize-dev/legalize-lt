@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2022-07-01"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-21
+Suvestinė redakcija nuo 2022-12-22 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
+
+TAR pastaba. 19-2 straipsnio 1 dalies nuostata dėl dalinio kompensavimo dydžio apskaičiavimo elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, taikoma iki 2022 m. gruodžio 31 d. suvartotam elektros energijos kiekiui, jeigu pirmiau nurodyti nepriklausomo elektros energijos tiekėjo veiksmai ar neveikimas atlikti 2022 metais.  19-2 straipsnio 1 dalies nuostata dėl dalinio kompensavimo dydžio apskaičiavimo elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, taikoma iki 2023 m. balandžio 30 d. suvartotam elektros energijos kiekiui, jeigu pirmiau nurodyti nepriklausomo elektros energijos tiekėjo veiksmai ar neveikimas atlikti nuo 2023 m. sausio 1 d. iki 2023 m. balandžio 30 d. 19-2 straipsnio 1 dalies nuostata dėl dalinio kompensavimo dydžio apskaičiavimo elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, netaikoma, jeigu nepriklausomas elektros energijos tiekėjas turi galiojantį prievolių įvykdymo užtikrinimą.  19-2 straipsnio 1 dalies nuostata dėl dalinio kompensavimo dydžio apskaičiavimo elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, netaikoma elektros energijos buitiniams vartotojams, kurie dėl šioje dalyje nurodytų jų pasirinkto nepriklausomo elektros energijos tiekėjo veiksmų ar neveikimo pasirinko kitą nepriklausomą elektros energijos tiekėją ir vėliau su juo nutraukė sutartį, norėdami, kad jiems būtų užtikrinamas elektros energijos garantinis tiekimas.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 19-2 ir 21 straipsnių pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2012-01-01:
 
@@ -1125,7 +1133,7 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 
 9) energetikos įmonė deklaracijoje pateikė klaidingus duomenis;
 
-10) paaiškėja aplinkybės dėl leidimo importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, galiojimo panaikinimo, nustatytos Būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo 4 straipsnio 2 dalyje.
+10) paaiškėja aplinkybės dėl leidimo importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, galiojimo panaikinimo, nustatytos Būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo 4 straipsnio 2 dalyje;
 
 8. Išduoti licencijos, leidimai ar atestatai gali būti keičiami juos išdavusios institucijos iniciatyva, kai pasikeičia įstatymų nustatyti reikalavimai, taikomi reguliuojamajai veiklai, arba asmens, turinčio licenciją, leidimą ar atestatą, iniciatyva, kai pasikeičia licencijoje, leidime ar atestate nurodyti asmens duomenys ar teritorija, kurioje vykdoma reguliuojamoji veikla. Pasikeitus licencijoje, leidime ar atestate nurodytiems asmens duomenims ar teritorijai, kurioje vykdoma reguliuojamoji veikla, toks asmuo privalo raštu pranešti licenciją, leidimą ar atestatą išdavusiai institucijai apie šiuos pasikeitimus ne vėliau kaip per 10 darbo dienų nuo pasikeitimų atsiradimo dienos. Asmeniui, siekiančiam pakeisti išduotą energetikos veiklos leidimą ir pateikusiam deklaraciją, laikoma, kad leidimas pakeistas ar patikslintas kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos. Atskirus energetikos sektorius reglamentuojančiuose įstatymuose gali būti nustatyti atvejai, kai leidimai negali būti keičiami pasikeitus teritorijai, kurioje vykdoma reguliuojamoji veikla.
 
@@ -2211,6 +2219,14 @@ Nr. XIV-1094, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10292
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 papildymo 19-2 ir 19-3 straipsniais įstatymas
 
+32.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 19-2 ir 21 straipsnių pakeitimo įstatymas
+
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
 1. Centralizuotai tiekiamų suskystintų naftos dujų kainos yra valstybės reguliuojamos.
@@ -2515,7 +2531,15 @@ ENERGETIKOS SEKTORIAUS REGULIAVIMAS
 
 192 straipsnis. Energijos kainos dalies kompensavimas elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams
 
+1. Kai Tarybos prognozuojami elektros energijos ir (ar) gamtinių dujų tarifai, palyginti su taikomais tarifais, didėja daugiau kaip 40 procentų, siekiant sumažinti energijos išlaidas elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams, įvertinus valstybės finansines galimybes, iš valstybės biudžeto lėšų kompensuojama energijos kainos dalis, tokiam kompensavimui numatant lėšas atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme (toliau – dalinis kompensavimas). Šiame straipsnyje nustatytas dalinis kompensavimas skirtas visiems elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams ir negali būti didesnis kaip 60 procentų galutinės elektros energijos kainos ir (ar) 80 procentų galutinės gamtinių dujų kainos, taikomos elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams. Elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį, arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, dalinis kompensavimas apskaičiuojamas kaip skirtumas tarp elektros energijos buitiniams vartotojams taikomos elektros energijos garantinio tiekimo kainos ir minimalios 1 kWh elektros energijos kainos ribos, žemiau kurios elektros energijos dalinis kompensavimas netaikomas, ir šis skirtumas negali būti didesnis kaip 60 procentų galutinės elektros energijos kainos, taikomos elektros energijos buitiniams vartotojams. Šiuo paskutiniuoju atveju nustatytas dalinis kompensavimas netaikomas, jei nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį dėl to, kad buitinis elektros energijos vartotojas nevykdo ar netinkamai vykdo sutartinius įpareigojimus ir tai yra esminis sutarties pažeidimas.
+
+1 dalies redakcija, įsigaliojanti 2023-05-01:
+
 1. Kai Tarybos prognozuojami elektros energijos ir (ar) gamtinių dujų tarifai, palyginti su taikomais tarifais, didėja daugiau kaip 40 procentų, siekiant sumažinti energijos išlaidas elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams, įvertinus valstybės finansines galimybes, iš valstybės biudžeto lėšų kompensuojama energijos kainos dalis, tokiam kompensavimui numatant lėšas atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme (toliau – dalinis kompensavimas). Šiame straipsnyje nustatytas dalinis kompensavimas skirtas visiems elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams ir negali būti didesnis kaip 60 procentų galutinės elektros energijos kainos ir (ar) 80 procentų galutinės gamtinių dujų kainos, taikomos elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
 2. Šio straipsnio 1 dalyje nurodytą dalinį kompensavimą sudaro:
 
@@ -2554,6 +2578,30 @@ b) gamtinių dujų tiekimo kainos, susijusios su gamtinių dujų įsigijimo sąn
 13. Energetikos įmonėms už reguliuojamosios veiklos sąlygų, nurodytų šio straipsnio 7, 10, 11 ir 12 dalyse, nesilaikymą taikomos šio įstatymo 36 straipsnio 1 dalies 1, 2 ar 3 punkte nustatytos sankcijos.
 
 14. Šio straipsnio nuostatos taip pat taikomos asmenims, turintiems teisę į elektros energijos buitiniams vartotojams nustatytas kainas ir tarifus, kaip tai nustatyta Elektros energetikos įstatyme, išskyrus Elektros energetikos įstatymo 69 straipsnio 12 dalyje nurodytus asmenis.
+
+15. Šio straipsnio 1 dalyje nurodytam dalinio kompensavimo dydžiui apskaičiuoti, kai elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį, arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, netaikomos šio straipsnio 3 dalies nuostatos, taip pat šio straipsnio 4 dalyje įtvirtinta nuostata, numatanti, kad konkretus dalinio kompensavimo taikymo laikotarpis prasideda kalendorinio pusmečio pirmo mėnesio pirmą dieną.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
+
+16. Jeigu nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį ir dėl to elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas, yra taikomas šio straipsnio 1 dalies 3 sakinyje nustatyta tvarka apskaičiuotas dalinis kompensavimas, Taryba privalo pateikti rašytinį reikalavimą nepriklausomam elektros energijos tiekėjui per nurodytą terminą sumokėti apskaičiuotą elektros energijos buitiniams vartotojams dalinio kompensavimo sumą ir palūkanas į valstybės biudžetą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
+
+17. Šio straipsnio 16 dalyje nurodytame rašytiniame reikalavime į valstybės biudžetą mokėtina suma apskaičiuojama be visiems elektros energijos buitiniams vartotojams taikomo šio straipsnio 2 dalies 1 punkte nurodyto dalinio kompensavimo. Palūkanos apskaičiuojamos pagal Lietuvos banko interneto svetainėje viešai skelbiamas Lietuvos pinigų finansų įstaigos euro zonos ne finansų bendrovių ir namų ūkių paskoloms eurais taikomas palūkanų normas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
+
+18. Nepriklausomam elektros energijos tiekėjui nesumokėjus šio straipsnio 16 dalyje nurodytame Tarybos rašytiniame reikalavime nurodytos sumos ir palūkanų per nurodytą terminą, Taryba kreipiasi į teismą Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka su reikalavimu priteisti į valstybės biudžetą apskaičiuotą elektros energijos buitiniams vartotojams dalinio kompensavimo sumą ir palūkanas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
 Papildyta straipsniu:
 
