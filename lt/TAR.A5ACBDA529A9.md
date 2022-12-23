@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2022-07-01"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-22
+Suvestinė redakcija nuo 2022-12-23 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -1491,9 +1491,11 @@ Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
 
 15) sąnaudos dėl turto ir įsipareigojimų, išskyrus sąnaudas dėl išvestinių finansinių priemonių, įsigytų rizikai drausti, perkainojimo, atlikto teisės aktų nustatyta tvarka;
 
-16) socialinis mokestis;
+16) Neteko galios nuo 2022-12-23
 
-TAR pastaba. 16 punkto nuostatos taikomos apskaičiuojant 2006 metų ir 2007 metų mokestinių laikotarpių apmokestinamąjį pelną (Įstatymas Nr. X-232).
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1664, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26368
 
 17) neapmokestinamosioms pajamoms tenkantys leidžiami atskaitymai ir ribojamų dydžių leidžiami atskaitymai;
 
