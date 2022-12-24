@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2021-01-02"
+last_updated: "2022-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2021-01-02 iki 2022-12-23
+Suvestinė redakcija nuo 2022-12-24 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
 
@@ -429,7 +429,11 @@ Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
 
 7) draudimas be specialaus leidimo atvykti į teritoriją, kurioje įvesta nepaprastoji padėtis, arba pakeisti nuolatinę gyvenamąją vietą;
 
-8) užsieniečių buvimo ir tranzito per Lietuvos Respublikos teritoriją apribojimas, jų priežiūros bei vizų režimo sugriežtinimas;
+8) užsieniečių atvykimo, buvimo, tranzito per Lietuvos Respublikos teritoriją ir teisės gyventi Lietuvos Respublikoje apribojimas, jų priežiūros ir kontrolės sugriežtinimas, prašymų ir (ar) sprendimų dėl Lietuvos Respublikos pilietybės priėmimo, paslaugų užsieniečiams teikimo ar sandorių su užsieniečiais sudarymo apribojimas ar sustabdymas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 9) nustatant leidimų tvarką, ne ūkinės veiklos ir privačių suėjimų, į kuriuos susirenka daugiau nei 50 žmonių, ribojimas;
 
@@ -652,4 +656,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-93, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28942
 
 Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 12, 15, 22 ir 31 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 3, 6, 7, 12, 13, 14, 15, 16, 20, 21, 22, 24, 27, 28, 29 ir 31 straipsnių pakeitimo įstatymas
 
