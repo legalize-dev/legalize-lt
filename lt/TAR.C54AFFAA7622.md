@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2022-07-12"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2022-07-12 iki 2022-12-29
+Suvestinė redakcija nuo 2022-12-30 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -1000,7 +1000,11 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 2. Informacija, kuri turi būti nurodyta pirkimo skelbimuose, skelbimų, įskaitant klaidų ištaisymo skelbimus, standartinės formos ir skelbimų reikalavimai nustatyti:
 
-1) tarptautinio pirkimo atveju – 2015 m. lapkričio 11 d. Komisijos įgyvendinimo reglamente (ES) 2015/1986, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas Įgyvendinimo reglamentas (EB) Nr. 842/2011 (OL 2015 L 296, p. 1);
+1) tarptautinio pirkimo atveju – 2019 m. rugsėjo 23 d. Komisijos įgyvendinimo reglamente (ES) 2019/1780, kuriuo nustatomos viešųjų pirkimų skelbimo standartinės formos ir panaikinamas Įgyvendinimo reglamentas (ES) 2015/1986 (e. formos);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 2) supaprastinto pirkimo atveju – Viešųjų pirkimų tarnybos priimtuose teisės aktuose.
 
@@ -3662,7 +3666,7 @@ Priedo pakeitimai:
 
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
-part_95ba6588aed54030a9b748dd85f74e85_end
+part_8a5087be424d400b8cc104a2792d82d2_end
 
 Lietuvos Respublikos
 
