@@ -4,7 +4,7 @@ identifier: "TAR.FC7AB69BE291"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-12"
-last_updated: "2022-11-01"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2022-12-29
+Suvestinė redakcija nuo 2022-12-30 iki 2023-01-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
 
@@ -2709,7 +2709,7 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 
 6) gamintojai, kurių eksploatuojamų elektrinių leistina generuoti galia lygi nuliui;
 
-7) gamintojai, kurie laimėjo šio įstatymo 20 straipsnio 4 dalyje nurodytą skatinimo kvotų paskirstymo aukcioną arba šio įstatymo 22 straipsnio 3 dalyje nurodytą konkursą;
+7) gamintojai, kurie laimėjo šio įstatymo 20 straipsnio 4 dalyje nurodytą skatinimo kvotų paskirstymo aukcioną arba šio įstatymo 22 ir (ar) 221 straipsniuose nurodytą (nurodytus) konkursą (konkursus);
 
 8) gamintojai, eksploatuojantys saulės šviesos energijos elektrines, prijungtas prie elektros energijos skirstomųjų tinklų;
 
