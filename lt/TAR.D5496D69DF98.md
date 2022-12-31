@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2022-12-22"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2022-12-22 iki 2022-12-30
+Suvestinė redakcija nuo 2022-12-31 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -385,7 +385,11 @@ Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respubliko
 
 7) regionų plėtros taryboms;
 
-8) kitiems subjektams, jeigu tokio perdavimo tvarka ir sąlygos nustatytos Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos šeimynų įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme, Lietuvos Respublikos tarptautinėse sutartyse ar tarptautiniuose susitarimuose.
+8) kitiems subjektams, jeigu tokio perdavimo tvarka ir sąlygos nustatytos Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos šeimynų įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos tarptautinėse sutartyse ar tarptautiniuose susitarimuose.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1683, 2022-12-15, paskelbta TAR 2022-12-30, i. k. 2022-27545
 
 Straipsnio dalies pakeitimai:
 
@@ -435,7 +439,11 @@ Nr. XIII-3295, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20890
 
 5. Valstybės ar savivaldybės turto panaudos sutartyje turi būti nustatyta pagal panaudos sutartį perduodamo turto naudojimo paskirtis, panaudos gavėjo pareiga savo lėšomis atlikti nekilnojamojo daikto einamąjį ar statinio kapitalinį remontą, kito ilgalaikio materialiojo turto remontą, apmokėti visas turto išlaikymo išlaidas ir kitos Civiliniame kodekse nustatytos panaudos sąlygos. Panaudos davėjas privalo nutraukti panaudos sutartį, jeigu panaudos gavėjas nevykdo veiklos, dėl kurios buvo perduotas valstybės ar savivaldybės turtas, arba šį turtą naudoja ne pagal paskirtį. Panaudos davėjas gali nutraukti panaudos sutartį, jeigu panaudos gavėjas nevykdo įsipareigojimų savo lėšomis atlikti nekilnojamojo daikto einamąjį ar statinio kapitalinį remontą arba kito ilgalaikio materialiojo turto remontą. Panaudos gavėjui, pagerinusiam pagal panaudos sutartį perduotą turtą, už turto pagerinimą neatlyginama.
 
-6. Asmenys, kuriems valstybės ir savivaldybių turtas perduotas neatlygintinai naudotis, negali jo išnuomoti ar kitaip perduoti naudotis tretiesiems asmenims.
+6. Asmenys, kuriems valstybės ir savivaldybių turtas perduotas neatlygintinai naudotis, negali jo išnuomoti ar kitaip perduoti naudotis tretiesiems asmenims, išskyrus įstatyme „Dėl užsieniečių teisinės padėties“ numatytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1683, 2022-12-15, paskelbta TAR 2022-12-30, i. k. 2022-27545
 
 Straipsnio pakeitimai:
 
@@ -1682,6 +1690,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1631, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26095
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 15, 23 ir 23-1 straipsnių pakeitimo įstatymas
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1683, 2022-12-15, paskelbta TAR 2022-12-30, i. k. 2022-27545
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
 
 26 straipsnis. Valstybės ir savivaldybių turto pripažinimas nereikalingu arba netinkamu (negalimu) naudoti
 
