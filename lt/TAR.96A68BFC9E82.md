@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2022-12-24"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-12-24 iki 2022-12-30
+Suvestinė redakcija nuo 2022-12-31 iki 2023-11-29
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
 
@@ -1175,7 +1175,11 @@ Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
 
 VIENUOLIKTASIS SKIRSNIS
 
-KLAUSIMŲ, SUSIJUSIŲ SU LIETUVOS RESPUBLIKOS NARYSTE  EUROPOS SĄJUNGOJE, SPRENDIMAS
+KLAUSIMŲ, SUSIJUSIŲ SU LIETUVOS RESPUBLIKOS NARYSTE EUROPOS SĄJUNGOJE IR KITAIS LIETUVOS RESPUBLIKOS TARPTAUTINIAIS ĮSIPAREIGOJIMAIS, SPRENDIMAS
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XIV-1768, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27582
 
 48 straipsnis. Vyriausybės pareiga informuoti Seimą ir Respublikos Prezidentą apie pasiūlymus priimti Europos Sąjungos teisės aktus ir kitus Europos Sąjungos dokumentus
 
@@ -1199,13 +1203,21 @@ KLAUSIMŲ, SUSIJUSIŲ SU LIETUVOS RESPUBLIKOS NARYSTE  EUROPOS SĄJUNGOJE, SPREN
 
 Vyriausybė, pateikdama Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento, Seimui teikia nuomonę, ar Europos Sąjungos teisės aktas atitinka subsidiarumo principą.
 
-52 straipsnis. Pareigūnų ir patariamųjų institucijų narių, kuriuos į pareigas Europos Sąjungos institucijose teikia Lietuvos Respublika, kandidatūrų siūlymas
+52 straipsnis. Pareigūnų ir patariamųjų institucijų narių, kuriuos į pareigas Europos Sąjungos institucijose ir Europos Žmogaus Teisių Teisme teikia Lietuvos Respublika, kandidatūrų siūlymas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-1768, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27582
 
 1. Vyriausybė siūlo kandidatus į aukščiausius Europos Sąjungos pareigūnus. Jų skyrimą numato sutartys, kuriomis yra grindžiama Europos Sąjunga.
 
 2. Vyriausybė, Respublikos Prezidentui pritarus, siūlydama kandidatus į Europos Komisijos narius ir Audito Rūmų narius Seimo statuto nustatyta tvarka konsultuojasi su Seimu.
 
-3. Vyriausybė, Respublikos Prezidentui pritarus, siūlydama kandidatus į Europos Bendrijų Teisingumo Teismo ir Pirmosios instancijos teismo teisėjus Seimo statuto nustatyta tvarka konsultuojasi su Seimu.
+3. Vyriausybė, Respublikos Prezidentui pritarus, siūlydama kandidatus į Europos Sąjungos Teisingumo Teismo teisėjus ir generalinius advokatus bei Europos Žmogaus Teisių Teismo teisėjus (toliau – kandidatai) Seimo statuto nustatyta tvarka konsultuojasi su Seimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1768, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27582
 
 4. Vyriausybė, siūlydama kandidatus į Regionų komiteto narius, teisės aktų nustatyta tvarka konsultuojasi su Lietuvos savivaldybių asociacija.
 
@@ -1214,6 +1226,198 @@ Vyriausybė, pateikdama Lietuvos Respublikos poziciją dėl pasiūlymo priimti E
 Straipsnio pakeitimai:
 
 Nr. X-1726, 2008-09-22, Žin., 2008, Nr. 117-4442 (2008-10-11)
+
+47 straipsnis. Lietuvos Respublikos pozicijos dėl pasiūlymo priimti Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento rengimas, derinimas ir pristatymas
+
+1. Vyriausybės nustatyta tvarka jos įgaliota institucija rengia Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos Sąjungos teisės aktą, o prireikus rengia poziciją dėl kito Europos Sąjungos dokumento.
+
+2. Vyriausybė, rengdama, derindama ir pristatydama Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos Sąjungos teisės aktą, šio įstatymo 49 straipsnyje nustatyta tvarka konsultuojasi su Seimu, sudaro sąlygas pateikti savo nuomonę kitoms suinteresuotoms valstybės institucijoms, viešosioms įstaigoms bei nevyriausybinėms organizacijoms.
+
+3. Vyriausybė arba jos įgaliota institucija, rengdama Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos Sąjungos teisės aktą užsienio politikos, nacionalinio saugumo klausimais, taip pat Europos Vadovų Taryboje svarstomais klausimais, rengiamą poziciją derina su Respublikos Prezidentu.
+
+4. Lietuvos Respublikos pozicija dėl pasiūlymo priimti Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento rengiama, nagrinėjama ir pristatoma įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+Įstatymas papildytas skirsniu:
+
+Nr. IX-2576, 2004-11-11, Žin., 2004, Nr. 171-6322 (2004-11-26)
+
+51 straipsnis. Europos Sąjungos teisės perkėlimas į Lietuvos Respublikos nacionalinę teisę ir jos įgyvendinimas
+
+Vyriausybė pagal savo kompetenciją yra atsakinga už Europos Sąjungos teisės perkėlimą į nacionalinę teisę ir jos įgyvendinimą. Europos Sąjungos teisės aktai į Lietuvos Respublikos nacionalinę teisę perkeliami ir įgyvendinami Vyriausybės nustatyta tvarka.
+
+281 straipsnis. Kitų įstatymų taikymas ministerijų, Vyriausybės įstaigų, įstaigų prie ministerijų steigimui, pertvarkymui, pabaigai, veiklai ir valdymui
+
+Lietuvos Respublikos biudžetinių įstaigų įstatymas ministerijų, Vyriausybės įstaigų, įstaigų prie ministerijų steigimui, pertvarkymui, pabaigai, veiklai ir valdymui taikomas tiek, kiek to nereglamentuoja šis įstatymas.
+
+Įstatymas papildytas straipsniu:
+
+Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
+
+441 straipsnis. Vyriausybės kanceliarija
+
+1. Vyriausybės kanceliarija yra Vyriausybės įsteigta biudžetinė įstaiga, padedanti atlikti Vyriausybės ir Ministro Pirmininko funkcijas. Vyriausybės kanceliarijai vadovauja Vyriausybės kancleris.
+
+2. Vyriausybės kanceliarijoje gali būti steigiamas centras (-ai) bendriems ministerijų, taip pat kitų valstybės ir savivaldybių institucijų ir įstaigų veiksmams koordinuoti, reikiamoms viešojo administravimo subjektų kompetencijoms sutelkti, padėti Vyriausybei ir kitiems viešojo administravimo subjektams valdyti valstybės lygio situacijas ar procesus (toliau – centras). Centrui vadovauja centro vadovas arba Vyriausybės kanclerio paskirtas Vyriausybės kanclerio pavaduotojas.
+
+3. Vyriausybės kancleris turi du pavaduotojus: Vyriausybės kanclerio pirmasis pavaduotojas yra politinio (asmeninio) pasitikėjimo valstybės tarnautojas; Vyriausybės kanclerio pavaduotojas yra karjeros valstybės tarnautojas. Nusprendus Vyriausybės kanceliarijoje įsteigti centrą, Vyriausybės kancleris gali turėti papildomą pavaduotoją, jeigu jis skiriamas vadovauti centrui. Vyriausybės kanclerio pavaduotojas yra pavaldus Vyriausybės kancleriui ir atskaitingas Ministrui Pirmininkui.
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-842, 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+
+Straipsnio pakeitimai:
+
+Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+
+Nr. XI-319, 2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
+
+Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
+
+311 straipsnis. Ministerijos kancleris
+
+1. Ministerijos kancleris yra politinio (asmeninio) pasitikėjimo valstybės tarnautojas, ministerijos administracijos vadovas, kurį priima į pareigas ir atleidžia iš jų ministras. Užsienio reikalų ministerijos kancleris gali būti ir diplomatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+
+Nr. XIII-1804, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21812
+
+2. Ministerijos kancleris:
+
+1) koordinuoja ir kontroliuoja ministerijos administracijos padalinių veiklą, užtikrina, kad įgyvendinant ministerijos strateginius veiklos planus optimaliai būtų valdomi ir panaudojami finansiniai, materialiniai, intelektiniai ir informacijos ištekliai; ministro pavedimu koordinuoja ir kontroliuoja įstaigų prie ministerijos veiklą;
+
+2) kontroliuoja ministerijos administracinę ūkinę veiklą;
+
+3) organizuoja ir koordinuoja ministerijos strateginių veiklos planų rengimą ir jų įgyvendinimą;
+
+4) dalyvauja organizuojant ir koordinuojant Ministro Pirmininko ir Vyriausybės pavedimų vykdymą, teisės aktų projektų rengimą ir derinimą, vadovaudamasis strateginiu veiklos planu ir kitais strateginio planavimo dokumentais, užtikrina ministerijos rengiamų teisės aktų projektų ir kitų sprendimų suderinamumą;
+
+5) organizuoja ministerijos nuostatų, ministerijos administracijos padalinių nuostatų, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių sąrašo, pareigybių aprašymų ir ministro įsakymų projektų rengimą;
+
+6) ministro pavedimu įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, taip pat juos skatina, skiria pašalpas, skiria valstybės tarnautojams tarnybines nuobaudas ar priima sprendimus dėl darbo pareigų pažeidimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+
+7) atlieka kitas įstatymų, Vyriausybės nutarimų ir ministro pavestas funkcijas.
+
+3. Jeigu ministerijos kanclerio laikinai nėra, visas arba dalį jo funkcijų ministras paveda atlikti vienam iš ministerijos administracijos padalinių vadovų.
+
+4. Ministerijos kancleris, o kai jo laikinai nėra, ministro paskirtas ministerijos administracijos padalinio vadovas pagal savo kompetenciją priima potvarkius. Ministerijos kancleris saugo ministerijos antspaudą ir atsako už antspaudo naudojimą. Ministras saugoti ministerijos antspaudą gali įgalioti kitą ministerijos valstybės tarnautoją. Šiuo atveju už antspaudo naudojimą atsako ministro įgaliotas ministerijos valstybės tarnautojas.
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-842, 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+
+Straipsnio pakeitimai:
+
+Nr. IX-2521, 2004-11-02, Žin., 2004, Nr. 167-6100 (2004-11-17)
+
+Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+
+Nr. XI-185, 2009-03-10, Žin., 2009, Nr. 29-1139 (2009-03-17)
+
+Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
+
+291 straipsnis. Vyriausybės įstaigos
+
+1. Vyriausybės įstaiga steigiama dalyvauti formuojant politiką ministrui pavestose valdymo srityse ir ją įgyvendinti.
+
+2. Vyriausybės įstaiga yra viešasis juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu ir savo pavadinimu.
+
+3. Vyriausybės įstaiga yra iš valstybės biudžeto ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga, kuriai lėšos skiriamos ir administruojamos Biudžeto sandaros įstatymo nustatyta tvarka.
+
+4. Vyriausybės įstaiga veikia pagal Vyriausybės patvirtintus nuostatus.
+
+5. Specialus Vyriausybės įstaigos veiklą reglamentuojantis įstatymas Vyriausybės įstaigai gali suteikti specialias teises, užtikrinančias jai pavestų funkcijų atlikimo nepriklausomumą.
+
+6. Vyriausybės įstaiga Vyriausybės sprendimu gali turėti kolegiją. Šios kolegijos sudarymo tvarką ir kompetenciją nustato Vyriausybė.
+
+7. Vyriausybės įstaiga veikia pagal Vyriausybės nustatyta tvarka parengtus strateginį ir metinį veiklos planus. Vyriausybės įstaigos strateginį veiklos planą tvirtina atitinkamos valdymo srities ministras ar atitinkamų valdymo sričių ministrai bendru įsakymu, o metinį veiklos planą – Vyriausybės įstaigos vadovas, suderinęs su atitinkamos valdymo srities ministru ar atitinkamų valdymo sričių ministrais, jeigu specialus Vyriausybės įstaigos veiklą reglamentuojantis įstatymas nenustato kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3409, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24576
+
+8. Vyriausybės įstaigai vadovauja jos vadovas, priimamas į pareigas ir atleidžiamas iš jų Valstybės tarnybos įstatymo nustatyta tvarka.
+
+9. Vyriausybės nustatyta tvarka Vyriausybės įstaigos vadovas atsiskaito už įstaigos veiklą, Vyriausybės ar atsakingo už pavestą valdymo sritį ministro reikalavimu atsiskaito už savo veiklą.
+
+Įstatymas papildytas straipsniu:
+
+Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19), atitaisymas skelbtas: Žin., 2010, Nr. 87
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+
+301 straipsnis. Vyriausybės įsteigtos kitos įstaigos
+
+1. Vyriausybė gali steigti įstaigas, kurios centralizuotai atlieka dalį viešojo sektoriaus subjektų bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo, viešųjų pirkimų procedūrų atlikimo ir kitos pagalbinio pobūdžio funkcijos), kurios padeda įgyvendinti įstaigai teisės aktuose nustatytus uždavinius. Šių funkcijų apimtį nustato Vyriausybė.
+
+2. Šio straipsnio 1 dalyje nurodytų įstaigų nuostatus ar įstatus tvirtina Vyriausybė ar jos pavedimu atitinkamos valdymo srities ministras, o jų struktūrą – Vyriausybė arba jos pavedimu atitinkamos valdymo srities ministras ar atitinkamos įstaigos vadovas.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-549, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21636
+
+302 straipsnis. Vyriausybės strateginės analizės centras
+
+1. Vyriausybės strateginės analizės centras yra viešoji įstaiga, kurios savininkė yra valstybė, o savininko teises ir pareigas įgyvendina Vyriausybė arba jos įgaliota institucija.
+
+2. Vyriausybės strateginės analizės centras yra ekspertinė institucija, teikianti Vyriausybei ir ministerijoms nepriklausomą, tiriamąja veikla grįstą informaciją, reikalingą įrodymais pagrįstiems viešosios politikos sprendimams priimti. Vyriausybės strateginės analizės centras veikia pagal Vyriausybės tvirtinamus įstatus.
+
+3. Vyriausybės strateginės analizės centras:
+
+1) atlieka tyrimus ir vertinimus, rengia prognozes strateginiais klausimais;
+
+2) remdamasis atliktų tyrimų ir vertinimų rezultatais, teikia išvadas Vyriausybei dėl valstybės valdymo sričių tobulinimo;
+
+3) telkia valstybės institucijų ir įstaigų, kitų organizacijų turimas analitines kompetencijas į bendradarbiavimo tinklą ir koordinuoja šio tinklo veiklą;
+
+4) konsultuoja valstybės ir savivaldybių institucijas ir įstaigas metodiniais klausimais dėl įrodymais grįstų sprendimų projektų rengimo;
+
+5) renka, apdoroja jo funkcijoms atlikti reikalingus duomenis, pagal kompetenciją teikia statistinę informaciją Vyriausybei ir ministerijoms;
+
+6) atlieka Lietuvos Respublikos technologijų ir inovacijų įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos profesinio mokymo įstatyme, Lietuvos Respublikos užimtumo įstatyme ir kituose teisės aktuose nustatytas funkcijas.
+
+4. Vyriausybės strateginės analizės centro lėšas sudaro valstybės biudžeto asignavimai, pajamos už suteiktas paslaugas, lėšos, gautos kaip parama, ir kitos gautos lėšos.
+
+5. Vyriausybės strateginės analizės centras turi teisę gauti iš valstybės ir savivaldybių institucijų, įstaigų, įmonių ir kitų organizacijų, valstybės registrų ir informacinių sistemų visą jo funkcijoms atlikti reikalingą informaciją.
+
+6. Vyriausybės strateginės analizės centras gali būti organizacijų, veikiančių su jo veikla susijusiose srityse, narys.
+
+Papildyta straipsniu:
+
+Nr. XIII-2366, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12445
+
+201 straipsnis. Vyriausybės pareiga užtikrinti veiksmingą įstatymų ir kitų Seimo priimtų teisės aktų vykdymą
+
+Vyriausybė užtikrina veiksmingą įstatymų ir kitų Seimo priimtų teisės aktų vykdymą priimdama jiems įgyvendinti reikalingus teisės aktus. Vyriausybė gali įgalioti priimti teisės aktą atitinkamos valdymo srities ministrą, Vyriausybės įstaigą ar įstaigą prie ministerijos, jeigu teisės aktu reglamentuojamų santykių Lietuvos Respublikos Konstitucija tiesiogiai nepriskiria Vyriausybės įgaliojimams.
+
+Papildyta straipsniu:
+
+Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
+
+53 straipsnis. Kandidatų atranka
+
+1. Kai Lietuvos Respublika turi pasiūlyti kandidatus, juos Vyriausybės nustatyta atrankos tvarka atrenka Ministro Pirmininko potvarkiu konkrečiai atrankai sudaryta darbo grupė. Apie kandidatų atranką skelbiama viešai.
+
+2. Šio straipsnio 1 dalyje nurodytą darbo grupę sudaro 7 nariai: Konstitucinio Teismo deleguotas teisėjas (darbo grupės pirmininkas), Lietuvos Aukščiausiojo Teismo deleguotas teisėjas, Lietuvos vyriausiojo administracinio teismo deleguotas teisėjas, Teisėjų tarybos deleguotas teisėjas, Lietuvos advokatūros Advokatų tarybos deleguotas atstovas, Lietuvos Respublikos Seimo kontrolierių įstaigos (nacionalinės žmogaus teisių institucijos) deleguotas atstovas, Lietuvos teisininkų draugijos deleguotas atstovas.
+
+3. Šio straipsnio 1 dalyje nurodyta darbo grupė, atlikusi atranką, informuoja teisingumo ministrą apie kandidatus, atitinkančius Europos Sąjungos Teisingumo Teismo teisėjo ar generalinio advokato ir Europos Žmogaus Teisių Teismo teisėjo pareigoms eiti keliamus reikalavimus. Teisingumo ministras informuoja Ministrą Pirmininką apie atrinktus kandidatus. Ministras Pirmininkas, įvertinęs kandidatūras, Vyriausybei teikia motyvuotą siūlymą dėl konkrečių kandidatų.
+
+4. Vyriausybė, įgyvendindama Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos 26 straipsnį, nustato kandidatų į Europos Žmogaus Teisių Teismo ad hoc teisėjų sąrašą atrankos tvarką.
+
+Papildyta straipsniu:
+
+Nr. XIV-1768, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27582
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -1492,182 +1696,4 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 VYRIAUSYBĖS ĮSTATYMO 3, 6, 22, 24, 26, 29, 30, 31(1), 35, 38, 45 STRAIPSNIŲ, AŠTUNTOJO SKIRSNIO PAVADINIMO PAKEITIMO, ĮSTATYMO PAPILDYMO 28(1), 29(1) STRAIPSNIAIS IR 33 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
 Šis įstatymas, išskyrus 1 straipsnį, 5 straipsnio 3 dalį ir 18 straipsnį, įsigalioja 2010 m. liepos 1 d.
-
-47 straipsnis. Lietuvos Respublikos pozicijos dėl pasiūlymo priimti Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento rengimas, derinimas ir pristatymas
-
-1. Vyriausybės nustatyta tvarka jos įgaliota institucija rengia Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos Sąjungos teisės aktą, o prireikus rengia poziciją dėl kito Europos Sąjungos dokumento.
-
-2. Vyriausybė, rengdama, derindama ir pristatydama Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos Sąjungos teisės aktą, šio įstatymo 49 straipsnyje nustatyta tvarka konsultuojasi su Seimu, sudaro sąlygas pateikti savo nuomonę kitoms suinteresuotoms valstybės institucijoms, viešosioms įstaigoms bei nevyriausybinėms organizacijoms.
-
-3. Vyriausybė arba jos įgaliota institucija, rengdama Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos Sąjungos teisės aktą užsienio politikos, nacionalinio saugumo klausimais, taip pat Europos Vadovų Taryboje svarstomais klausimais, rengiamą poziciją derina su Respublikos Prezidentu.
-
-4. Lietuvos Respublikos pozicija dėl pasiūlymo priimti Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento rengiama, nagrinėjama ir pristatoma įstatymų ir kitų teisės aktų nustatyta tvarka.
-
-Įstatymas papildytas skirsniu:
-
-Nr. IX-2576, 2004-11-11, Žin., 2004, Nr. 171-6322 (2004-11-26)
-
-51 straipsnis. Europos Sąjungos teisės perkėlimas į Lietuvos Respublikos nacionalinę teisę ir jos įgyvendinimas
-
-Vyriausybė pagal savo kompetenciją yra atsakinga už Europos Sąjungos teisės perkėlimą į nacionalinę teisę ir jos įgyvendinimą. Europos Sąjungos teisės aktai į Lietuvos Respublikos nacionalinę teisę perkeliami ir įgyvendinami Vyriausybės nustatyta tvarka.
-
-281 straipsnis. Kitų įstatymų taikymas ministerijų, Vyriausybės įstaigų, įstaigų prie ministerijų steigimui, pertvarkymui, pabaigai, veiklai ir valdymui
-
-Lietuvos Respublikos biudžetinių įstaigų įstatymas ministerijų, Vyriausybės įstaigų, įstaigų prie ministerijų steigimui, pertvarkymui, pabaigai, veiklai ir valdymui taikomas tiek, kiek to nereglamentuoja šis įstatymas.
-
-Įstatymas papildytas straipsniu:
-
-Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
-
-441 straipsnis. Vyriausybės kanceliarija
-
-1. Vyriausybės kanceliarija yra Vyriausybės įsteigta biudžetinė įstaiga, padedanti atlikti Vyriausybės ir Ministro Pirmininko funkcijas. Vyriausybės kanceliarijai vadovauja Vyriausybės kancleris.
-
-2. Vyriausybės kanceliarijoje gali būti steigiamas centras (-ai) bendriems ministerijų, taip pat kitų valstybės ir savivaldybių institucijų ir įstaigų veiksmams koordinuoti, reikiamoms viešojo administravimo subjektų kompetencijoms sutelkti, padėti Vyriausybei ir kitiems viešojo administravimo subjektams valdyti valstybės lygio situacijas ar procesus (toliau – centras). Centrui vadovauja centro vadovas arba Vyriausybės kanclerio paskirtas Vyriausybės kanclerio pavaduotojas.
-
-3. Vyriausybės kancleris turi du pavaduotojus: Vyriausybės kanclerio pirmasis pavaduotojas yra politinio (asmeninio) pasitikėjimo valstybės tarnautojas; Vyriausybės kanclerio pavaduotojas yra karjeros valstybės tarnautojas. Nusprendus Vyriausybės kanceliarijoje įsteigti centrą, Vyriausybės kancleris gali turėti papildomą pavaduotoją, jeigu jis skiriamas vadovauti centrui. Vyriausybės kanclerio pavaduotojas yra pavaldus Vyriausybės kancleriui ir atskaitingas Ministrui Pirmininkui.
-
-Įstatymas papildytas straipsniu:
-
-Nr. IX-842, 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
-
-Straipsnio pakeitimai:
-
-Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
-
-Nr. XI-319, 2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
-
-Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
-
-Straipsnio pakeitimai:
-
-Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
-
-311 straipsnis. Ministerijos kancleris
-
-1. Ministerijos kancleris yra politinio (asmeninio) pasitikėjimo valstybės tarnautojas, ministerijos administracijos vadovas, kurį priima į pareigas ir atleidžia iš jų ministras. Užsienio reikalų ministerijos kancleris gali būti ir diplomatas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
-
-Nr. XIII-1804, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21812
-
-2. Ministerijos kancleris:
-
-1) koordinuoja ir kontroliuoja ministerijos administracijos padalinių veiklą, užtikrina, kad įgyvendinant ministerijos strateginius veiklos planus optimaliai būtų valdomi ir panaudojami finansiniai, materialiniai, intelektiniai ir informacijos ištekliai; ministro pavedimu koordinuoja ir kontroliuoja įstaigų prie ministerijos veiklą;
-
-2) kontroliuoja ministerijos administracinę ūkinę veiklą;
-
-3) organizuoja ir koordinuoja ministerijos strateginių veiklos planų rengimą ir jų įgyvendinimą;
-
-4) dalyvauja organizuojant ir koordinuojant Ministro Pirmininko ir Vyriausybės pavedimų vykdymą, teisės aktų projektų rengimą ir derinimą, vadovaudamasis strateginiu veiklos planu ir kitais strateginio planavimo dokumentais, užtikrina ministerijos rengiamų teisės aktų projektų ir kitų sprendimų suderinamumą;
-
-5) organizuoja ministerijos nuostatų, ministerijos administracijos padalinių nuostatų, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių sąrašo, pareigybių aprašymų ir ministro įsakymų projektų rengimą;
-
-6) ministro pavedimu įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, taip pat juos skatina, skiria pašalpas, skiria valstybės tarnautojams tarnybines nuobaudas ar priima sprendimus dėl darbo pareigų pažeidimo;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
-
-7) atlieka kitas įstatymų, Vyriausybės nutarimų ir ministro pavestas funkcijas.
-
-3. Jeigu ministerijos kanclerio laikinai nėra, visas arba dalį jo funkcijų ministras paveda atlikti vienam iš ministerijos administracijos padalinių vadovų.
-
-4. Ministerijos kancleris, o kai jo laikinai nėra, ministro paskirtas ministerijos administracijos padalinio vadovas pagal savo kompetenciją priima potvarkius. Ministerijos kancleris saugo ministerijos antspaudą ir atsako už antspaudo naudojimą. Ministras saugoti ministerijos antspaudą gali įgalioti kitą ministerijos valstybės tarnautoją. Šiuo atveju už antspaudo naudojimą atsako ministro įgaliotas ministerijos valstybės tarnautojas.
-
-Įstatymas papildytas straipsniu:
-
-Nr. IX-842, 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
-
-Straipsnio pakeitimai:
-
-Nr. IX-2521, 2004-11-02, Žin., 2004, Nr. 167-6100 (2004-11-17)
-
-Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
-
-Nr. XI-185, 2009-03-10, Žin., 2009, Nr. 29-1139 (2009-03-17)
-
-Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
-
-291 straipsnis. Vyriausybės įstaigos
-
-1. Vyriausybės įstaiga steigiama dalyvauti formuojant politiką ministrui pavestose valdymo srityse ir ją įgyvendinti.
-
-2. Vyriausybės įstaiga yra viešasis juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu ir savo pavadinimu.
-
-3. Vyriausybės įstaiga yra iš valstybės biudžeto ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga, kuriai lėšos skiriamos ir administruojamos Biudžeto sandaros įstatymo nustatyta tvarka.
-
-4. Vyriausybės įstaiga veikia pagal Vyriausybės patvirtintus nuostatus.
-
-5. Specialus Vyriausybės įstaigos veiklą reglamentuojantis įstatymas Vyriausybės įstaigai gali suteikti specialias teises, užtikrinančias jai pavestų funkcijų atlikimo nepriklausomumą.
-
-6. Vyriausybės įstaiga Vyriausybės sprendimu gali turėti kolegiją. Šios kolegijos sudarymo tvarką ir kompetenciją nustato Vyriausybė.
-
-7. Vyriausybės įstaiga veikia pagal Vyriausybės nustatyta tvarka parengtus strateginį ir metinį veiklos planus. Vyriausybės įstaigos strateginį veiklos planą tvirtina atitinkamos valdymo srities ministras ar atitinkamų valdymo sričių ministrai bendru įsakymu, o metinį veiklos planą – Vyriausybės įstaigos vadovas, suderinęs su atitinkamos valdymo srities ministru ar atitinkamų valdymo sričių ministrais, jeigu specialus Vyriausybės įstaigos veiklą reglamentuojantis įstatymas nenustato kitaip.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-3409, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24576
-
-8. Vyriausybės įstaigai vadovauja jos vadovas, priimamas į pareigas ir atleidžiamas iš jų Valstybės tarnybos įstatymo nustatyta tvarka.
-
-9. Vyriausybės nustatyta tvarka Vyriausybės įstaigos vadovas atsiskaito už įstaigos veiklą, Vyriausybės ar atsakingo už pavestą valdymo sritį ministro reikalavimu atsiskaito už savo veiklą.
-
-Įstatymas papildytas straipsniu:
-
-Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19), atitaisymas skelbtas: Žin., 2010, Nr. 87
-
-Straipsnio pakeitimai:
-
-Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
-
-301 straipsnis. Vyriausybės įsteigtos kitos įstaigos
-
-1. Vyriausybė gali steigti įstaigas, kurios centralizuotai atlieka dalį viešojo sektoriaus subjektų bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo, viešųjų pirkimų procedūrų atlikimo ir kitos pagalbinio pobūdžio funkcijos), kurios padeda įgyvendinti įstaigai teisės aktuose nustatytus uždavinius. Šių funkcijų apimtį nustato Vyriausybė.
-
-2. Šio straipsnio 1 dalyje nurodytų įstaigų nuostatus ar įstatus tvirtina Vyriausybė ar jos pavedimu atitinkamos valdymo srities ministras, o jų struktūrą – Vyriausybė arba jos pavedimu atitinkamos valdymo srities ministras ar atitinkamos įstaigos vadovas.
-
-Straipsnio pakeitimai:
-
-Nr. XIV-549, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21636
-
-302 straipsnis. Vyriausybės strateginės analizės centras
-
-1. Vyriausybės strateginės analizės centras yra viešoji įstaiga, kurios savininkė yra valstybė, o savininko teises ir pareigas įgyvendina Vyriausybė arba jos įgaliota institucija.
-
-2. Vyriausybės strateginės analizės centras yra ekspertinė institucija, teikianti Vyriausybei ir ministerijoms nepriklausomą, tiriamąja veikla grįstą informaciją, reikalingą įrodymais pagrįstiems viešosios politikos sprendimams priimti. Vyriausybės strateginės analizės centras veikia pagal Vyriausybės tvirtinamus įstatus.
-
-3. Vyriausybės strateginės analizės centras:
-
-1) atlieka tyrimus ir vertinimus, rengia prognozes strateginiais klausimais;
-
-2) remdamasis atliktų tyrimų ir vertinimų rezultatais, teikia išvadas Vyriausybei dėl valstybės valdymo sričių tobulinimo;
-
-3) telkia valstybės institucijų ir įstaigų, kitų organizacijų turimas analitines kompetencijas į bendradarbiavimo tinklą ir koordinuoja šio tinklo veiklą;
-
-4) konsultuoja valstybės ir savivaldybių institucijas ir įstaigas metodiniais klausimais dėl įrodymais grįstų sprendimų projektų rengimo;
-
-5) renka, apdoroja jo funkcijoms atlikti reikalingus duomenis, pagal kompetenciją teikia statistinę informaciją Vyriausybei ir ministerijoms;
-
-6) atlieka Lietuvos Respublikos technologijų ir inovacijų įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos profesinio mokymo įstatyme, Lietuvos Respublikos užimtumo įstatyme ir kituose teisės aktuose nustatytas funkcijas.
-
-4. Vyriausybės strateginės analizės centro lėšas sudaro valstybės biudžeto asignavimai, pajamos už suteiktas paslaugas, lėšos, gautos kaip parama, ir kitos gautos lėšos.
-
-5. Vyriausybės strateginės analizės centras turi teisę gauti iš valstybės ir savivaldybių institucijų, įstaigų, įmonių ir kitų organizacijų, valstybės registrų ir informacinių sistemų visą jo funkcijoms atlikti reikalingą informaciją.
-
-6. Vyriausybės strateginės analizės centras gali būti organizacijų, veikiančių su jo veikla susijusiose srityse, narys.
-
-Papildyta straipsniu:
-
-Nr. XIII-2366, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12445
-
-201 straipsnis. Vyriausybės pareiga užtikrinti veiksmingą įstatymų ir kitų Seimo priimtų teisės aktų vykdymą
-
-Vyriausybė užtikrina veiksmingą įstatymų ir kitų Seimo priimtų teisės aktų vykdymą priimdama jiems įgyvendinti reikalingus teisės aktus. Vyriausybė gali įgalioti priimti teisės aktą atitinkamos valdymo srities ministrą, Vyriausybės įstaigą ar įstaigą prie ministerijos, jeigu teisės aktu reglamentuojamų santykių Lietuvos Respublikos Konstitucija tiesiogiai nepriskiria Vyriausybės įgaliojimams.
-
-Papildyta straipsniu:
-
-Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
 
