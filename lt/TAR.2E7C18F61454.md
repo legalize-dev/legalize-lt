@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2022-08-01"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-12-30
+Suvestinė redakcija nuo 2022-12-31 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -6099,6 +6099,12 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
 
+7) atsakovo prašymas taikyti šio Kodekso 951 straipsnio 2 dalyje nurodytą procedūrą, kai atsakovas pageidauja, kad ji būtų taikoma, ir aplinkybės, pagrindžiančios, kodėl atsakovas mano, kad ieškovas siekia pakenkti atsakovo vykdomai visuomenės informavimo ar kitokiai su viešojo intereso tenkinimu ar gynimu susijusiai veiklai ar atgrasyti atsakovą nuo šios veiklos, šias aplinkybes pagrindžiantys įrodymai.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
+
 3. Teismas turi teisę atsisakyti priimti įrodymus ir motyvus, kurie galėjo būti pateikti atsiliepime į ieškinį, jeigu mano, kad vėlesnis jų pateikimas užvilkins sprendimo priėmimą byloje.
 
 4. Jeigu atsakovas be pateisinamos priežasties per nustatytą terminą nepateikia atsiliepimo į ieškinį, teismas turi teisę, jei yra ieškovo prašymas, priimti sprendimą už akių.
@@ -7563,7 +7569,17 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 11) jeigu bylos nagrinėjimo pirmosios instancijos teisme metu paaiškėja, kad pareiškimas neatitinka ieškinio turiniui keliamų reikalavimų;
 
-12) kitais šio Kodekso ir Civilinio kodekso numatytais atvejais.
+12) šio Kodekso 951 straipsnio 3 dalyje nurodytu atveju;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
+
+13) kitais šio Kodekso ir Civilinio kodekso numatytais atvejais.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
 
 2. Šio straipsnio 1 dalies 7, 8 ir 11 punktų pagrindu ieškinys gali būti paliekamas nenagrinėtas tik tuo atveju, jeigu šalis per teismo nustatytą terminą trūkumų nepašalina, ir tik pirmosios instancijos teisme.
 
@@ -7577,7 +7593,11 @@ Nr. XI-2090, 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
 
 297 straipsnis. Pareiškimo palikimo nenagrinėto tvarka ir pasekmės
 
-1. Tais atvejais, kada pareiškimas paliekamas nenagrinėtas, byla užbaigiama teismo nutartimi. Šioje nutartyje teismas privalo nurodyti, kaip pašalinti aplinkybes, išvardytas šio Kodekso 296 straipsnio 1 dalies 1, 2, 3, 7, 8 ir 11 punktuose, kliudančias nagrinėti bylą.
+1. Tais atvejais, kai pareiškimas paliekamas nenagrinėtas, byla užbaigiama teismo nutartimi. Šioje nutartyje teismas privalo nurodyti, kaip pašalinti aplinkybes, išvardytas šio Kodekso 296 straipsnio 1 dalies 1, 2, 3, 7, 8, 11 ir 12 punktuose, kliudančias nagrinėti bylą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
 
 2. Pašalinus aplinkybes, kurios buvo pagrindas pareiškimą palikti nenagrinėtą, suinteresuotas asmuo turi teisę vėl kreiptis į teismą su pareiškimu bendra tvarka.
 
@@ -12464,4 +12484,20 @@ KITOS VALSTYBĖS FIZINIO iR JURIDINIO ASMENS atleidimas
 nuo bylinėjimosi išlaidų APmokėjimo, teisinė pagalba,
 
 įteikimai, įrodymų užtikrinimas
+
+951 straipsnis. Piktnaudžiavimas procesinėmis teisėmis siekiant pakenkti atsakovo vykdomai veiklai
+
+1. Jeigu atsakovas mano, kad ieškovas nesąžiningai pareiškė nepagrįstą ieškinį siekdamas pakenkti atsakovo vykdomai visuomenės informavimo ar kitokiai su viešojo intereso tenkinimu ar gynimu susijusiai veiklai ar atgrasyti atsakovą nuo šios veiklos, jis turi teisę atsiliepime į ieškinį pateikti teismui prašymą taikyti šio straipsnio 2 dalyje nurodytą procedūrą.
+
+2. Gavęs šio straipsnio 1 dalyje nurodytą atsakovo prašymą ir preliminariai įsitikinęs jo pagrįstumu, teismas ne vėliau kaip per tris darbo dienas nuo prašymo gavimo dienos persiunčia jo kopiją ieškovui. Kartu su prašymo kopija teismas ieškovui nusiunčia pranešimą, kuriuo įpareigoja jį ne vėliau kaip per keturiolika dienų raštu pateikti atsikirtimus į atsakovo prašymą, tikėtinai pagrindžiant savo ieškinio reikalavimą ir pateikiant įrodymus, patvirtinančius ieškovo nurodomas aplinkybes, jei tokie įrodymai nebuvo pateikti su ieškiniu, taip pat informuoja apie atsikirtimų nepateikimo pasekmes.
+
+3. Jeigu ieškovas per šio straipsnio 2 dalyje nustatytą terminą nepateikia atsikirtimų į atsakovo prašymą arba nepateikia įrodymų, patvirtinančių ieškovo nurodomas aplinkybes, jei tokie įrodymai nebuvo pateikti su ieškiniu, arba teismas nustato, kad ieškovas nesąžiningai pareiškė nepagrįstą ieškinį siekdamas pakenkti atsakovo vykdomai visuomenės informavimo ar kitokiai su viešojo intereso tenkinimu ar gynimu susijusiai veiklai ar atgrasyti atsakovą nuo šios veiklos, ieškinys paliekamas nenagrinėtas. Teismas, vertindamas, ar ieškovas nesąžiningai pareiškė šioje dalyje nurodytą nepagrįstą ieškinį, atsižvelgia į šią teismo byloje turimą informaciją: į ieškinyje pareikšto reikalavimo ar jo dalies neproporcingumą, perteklinį pobūdį, į tai, kad ieškovas dėl panašių reikalavimų yra inicijavęs daugiau bylų, į tai, kad yra požymių, kad ieškovas baugina atsakovą ar jam grasina, į kitas reikšmingas aplinkybes. Ieškovo pateiktus atsikirtimus teismas turi įvertinti ir priimti nutartį ne vėliau kaip per trisdešimt dienų nuo atsikirtimų gavimo teisme dienos arba, kai ieškovas nepateikia atsikirtimų, – nuo šio straipsnio 2 dalyje nurodyto termino ieškovo atsikirtimams pateikti pabaigos dienos. Šioje dalyje nurodytą nutartį teismas priima rašytinio proceso tvarka.
+
+4. Jeigu teismas, gavęs šio straipsnio 1 dalyje nurodytą atsakovo prašymą ar įvertinęs ieškovo pateiktus atsikirtimus, priima nutartį atmesti atsakovo prašymą kaip nepagrįstą, ši teismo nutartis gali būti skundžiama atskiruoju skundu.
+
+5. Pritaikius šio straipsnio 2 dalyje nurodytą procedūrą, teismui įstatymuose nustatyti bylos išnagrinėjimo terminai pradedami skaičiuoti nuo šio straipsnio 4 dalyje nurodytos teismo nutarties priėmimo dienos.
+
+Papildyta straipsniu:
+
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
 
