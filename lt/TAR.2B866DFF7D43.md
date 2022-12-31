@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2022-11-01"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2022-12-30
+Suvestinė redakcija nuo 2022-12-31 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -3150,12 +3150,6 @@ BAUDŽIAMOJO POVEIKIO PRIEMONĖS IR JŲ SKYRIMAS
 
 10) išplėstinis turto konfiskavimas;
 
-11) įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos.
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-3353, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24238
-
 3. Uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas, įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos gali būti skiriami kartu su bausme. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama.
 
 Straipsnio dalies pakeitimai:
@@ -4098,21 +4092,23 @@ Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404
 
 XXII SKYRIUS
 
-NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS
+NUSIKALTIMAI ASMENS GARBEI IR ORUMUI
 
-GARBEI IR ORUMUI
+Pakeistas skyriaus pavadinimas:
+
+Nr. XIV-1749, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27570
 
 154 straipsnis. Šmeižimas
 
-1. Tas, kas paskleidė apie kitą žmogų tikrovės neatitinkančią informaciją, galinčią paniekinti ar pažeminti tą asmenį arba pakirsti pasitikėjimą juo,
+1. Tas, kas per visuomenės informavimo priemonę paskleidė apie kitą žmogų tikrovės neatitinkančią informaciją, galinčią paniekinti ar pažeminti tą asmenį arba pakirsti pasitikėjimą juo, arba šmeižė asmenį, neva šis padarė tyčinį nusikaltimą,
 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
 
-2. Tas, kas šmeižė asmenį, neva šis padarė sunkų ar labai sunkų nusikaltimą, arba per visuomenės informavimo priemonę ar spaudinyje,
+2. Už šiame straipsnyje numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
+Straipsnio pakeitimai:
 
-3. Už šiame straipsnyje numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+Nr. XIV-1749, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27570
 
 155 straipsnis. Neteko galios nuo 2015-07-10
 
@@ -5404,7 +5400,7 @@ Straipsnio pakeitimai:
 
 Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
 
-part_98c94c24c23d48cd985649b37f1f1a9e_end
+part_543dedcf8e014f12b29f67a4c4ca9a84_end
 
 Lietuvos Respublikos
 
@@ -6495,6 +6491,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1447, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21163
 
 Lietuvos Respublikos baudžiamojo kodekso 68 straipsnio pakeitimo įstatymas
+
+52.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1199, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15557
+
+Lietuvos Respublikos baudžiamojo kodekso 51, 67, 72-4 ir 82 straipsnių pakeitimo įstatymas
+
+53.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1749, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27570
+
+Lietuvos Respublikos baudžiamojo kodekso XXII skyriaus pavadinimo ir 154 straipsnio pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
