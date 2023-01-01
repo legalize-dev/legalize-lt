@@ -4,7 +4,7 @@ identifier: "TAR.65AD818F5F9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
 
@@ -1314,6 +1314,14 @@ Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
 
 Lietuvos Respublikos kelių transporto kodekso 1, 7, 8, 8-1, 8-2, 8-3, 9, 10, 11, 12, 13, 14, 17, 23, 24, 26, 30, 32, 38, 41 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo, Kodekso papildymo 8-4, 8-5, 8-6, 9-1, 10-1, 39-1 ir 39-2 straipsniais ir 39 straipsnio pripažinimo netekusiu galios įstatymas
 
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1665, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26369
+
+Lietuvos Respublikos kelių transporto kodekso 18-1 straipsnio pakeitimo įstatymas
+
 part_75e8e3f2d9524038984477f731bdd122_end
 
 171 straipsnis. Viešųjų paslaugų teikimo organizavimas
@@ -1554,7 +1562,11 @@ Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
 
 4. Keleivių vežimo organizatorius privalo:
 
-1) teikti Valstybinei mokesčių inspekcijai informaciją apie keleivių vežimo organizatoriaus paslaugomis besinaudojančių vežėjų iš keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą veiklos gaunamas pajamas ir kitus duomenis, susijusius su mokesčių apskaičiavimu ir deklaravimu Valstybinės mokesčių inspekcijos nustatyta tvarka ir terminais. Keleivių vežimo organizatoriui nepateikus šios informacijos, Valstybinė mokesčių inspekcija turi teisę duoti interneto prieigos paslaugų teikėjams privalomus nurodymus panaikinti galimybę pasiekti keleivių vežimo organizatoriaus paslaugų interneto svetainę, kuria naudojantis priimami užsakymai vežti keleivius už atlygį lengvaisiais automobiliais pagal užsakymą, blokuojant interneto domeno vardą, identifikuojantį interneto svetainę, tol, kol nepašalinamas pažeidimas. Valstybinės mokesčių inspekcijos sprendimą taikyti numatytus privalomus nurodymus interneto prieigos paslaugų teikėjams turi sankcionuoti Vilniaus apygardos administracinis teismas. Valstybinė mokesčių inspekcija privalo Vilniaus apygardos administraciniam teismui pateikti prašymą. Šiame prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jeigu žinomi), įtariamo pažeidimo pobūdis ir veiksmai, kuriuos numatoma atlikti, interneto svetainės, prie kurios prašoma panaikinti prieigą, tikslus adresas. Vilniaus apygardos administracinis teismas Valstybinės mokesčių inspekcijos prašymą sankcionuoti Valstybinės mokesčių inspekcijos sprendimą išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 15 kalendorinių dienų nuo prašymo gavimo dienos. Jeigu Valstybinė mokesčių inspekcija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, Valstybinė mokesčių inspekcija turi teisę per 7 kalendorines dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui;
+1) neteko galios 2023-01-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1665, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26369
 
 2) užtikrinti, kad vežimo paslaugas teiktų vežėjai, turintys galiojantį leidimą vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą veiklą. Keleivių vežimo organizatorius turi teisę elektroninio ryšio priemonėmis nuolat gauti informaciją iš leidimus išduodančios institucijos apie konkretiems vežėjams išduotus, sustabdytus ar panaikintus leidimus.
 
