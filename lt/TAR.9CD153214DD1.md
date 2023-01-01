@@ -4,7 +4,7 @@ identifier: "TAR.9CD153214DD1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-04-15"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9CD153214DD1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos pašto įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 36-1070, i. k. 0991010ISTAIII-1141
 
@@ -83,7 +83,11 @@ Pašto paslaugos teikimo veikla reguliuojama vadovaujantis laisvės teikti pašt
 
 14. Pašto tinklas – visuma pašto infrastruktūros elementų ir kitų priemonių, naudojamų pašto paslaugai teikti.
 
-15. Periodinių leidinių pristatymas kaimo gyvenamųjų vietovių prenumeratoriams – laikraščių ir žurnalų, išskyrus priskirtų prie erotinio ir (ar) smurtinio pobūdžio leidinių ir tų, kurių daugiau kaip 50 procentų teksto sudaro reklama, priėmimas iš leidėjų, paskirstymas ir pateikimas kaimo gyvenamųjų vietovių prenumeratoriams.
+15. Periodinių leidinių pristatymas kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams – laikraščių ir žurnalų, išskyrus priskirtus prie erotinio ir (ar) smurtinio pobūdžio leidinių ir tuos, kurių daugiau kaip 50 procentų teksto sudaro reklama, priėmimas iš leidėjų, paskirstymas ir pateikimas kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1682, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26107
 
 16. Pristatymas – visuma veiksmų, atliekamų nuo pašto siuntų rūšiavimo iki jų pateikimo gavėjams per pašto tinklą, įskaitant įteikimą asmeniškai pasirašytinai gavėjams.
 
@@ -103,11 +107,13 @@ Pašto paslaugos teikimo veikla reguliuojama vadovaujantis laisvės teikti pašt
 
 24. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
 
-25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Pasaulinės pašto sąjungos Pašto siuntinių reglamente, Pašto korespondencijos reglamente, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme (toliau – Viešojo administravimo įstatymas), Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos kelių transporto kodekse, Lietuvos Respublikos reklamos įstatyme ir Lietuvos Respublikos vartotojų teisių apsaugos įstatyme (toliau – Vartotojų teisių apsaugos įstatymas).
+25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2003 m. gegužės 26 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1059/2003 dėl bendro teritorinių statistinių vienetų klasifikatoriaus (NUTS) nustatymo su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentu (ES) 2017/2391, Pasaulinės pašto sąjungos Pašto siuntinių reglamente, Pašto korespondencijos reglamente, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos kelių transporto kodekse, Lietuvos Respublikos reklamos įstatyme ir Lietuvos Respublikos vartotojų teisių apsaugos įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2087, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19365
+
+Nr. XIV-1682, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26107
 
 II SKYRIUS
 
@@ -399,17 +405,21 @@ Nr. XII-2087, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19365
 
 3. Universaliosios pašto paslaugos teikėjas gali taikyti specifinius tarifus pagal sudarytas sutartis su naudotojais. Universaliosios pašto paslaugos teikėjas šiems tarifams ir su jais susijusioms sąlygoms taiko skaidrumo ir nediskriminavimo principus. Nustatant tokius tarifus, turi būti įvertintos nepatirtos sąnaudos, palyginti su įprastai teikiamos universaliosios pašto paslaugos sąnaudomis. Tarifai turi būti vienodi visiems tos pačios kategorijos universaliosios pašto paslaugos naudotojams.
 
-17 straipsnis. Periodinių leidinių pristatymas kaimo gyvenamųjų vietovių prenumeratoriams
+17 straipsnis. Periodinių leidinių pristatymas kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams
 
-1. Periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslauga nėra priskiriama universaliajai pašto paslaugai.
+1. Periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslauga nėra priskiriama universaliajai pašto paslaugai.
 
-2. Pašto paslaugos teikėjas (teikėjai), Vyriausybės įpareigotas (įpareigoti) teikti universaliąją pašto paslaugą, privalo pristatyti periodinius leidinius kaimo gyvenamųjų vietovių prenumeratoriams.
+2. Pašto paslaugos teikėjas (teikėjai), Vyriausybės įpareigotas (įpareigoti) teikti universaliąją pašto paslaugą, privalo pristatyti periodinius leidinius kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams.
 
-3. Universaliosios pašto paslaugos teikėjas (teikėjai) privalo periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos tarifus pagrįsti sąnaudomis, o šios paslaugos apskaitą tvarkyti pagal Ryšių reguliavimo tarnybos nustatytus pagrindinius sąnaudų apskaitos tvarkymo principus ir sąnaudų apskaitos sistemos reikalavimus, taip pat kitus su sąnaudų apskaitos sistema susijusius reikalavimus.
+3. Universaliosios pašto paslaugos teikėjas (teikėjai) privalo periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslaugos tarifus pagrįsti sąnaudomis, o šios paslaugos apskaitą tvarkyti pagal Ryšių reguliavimo tarnybos nustatytus pagrindinius sąnaudų apskaitos tvarkymo principus ir sąnaudų apskaitos sistemos reikalavimus, taip pat kitus su sąnaudų apskaitos sistema susijusius reikalavimus.
 
-4. Universaliosios pašto paslaugos teikėjas (teikėjai) turi atlikti 6 mėnesių ir kalendorinių metų periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos pajamų ir sąnaudų nepriklausomą auditą ir pateikti audito išvadas, 6 mėnesių ir kalendorinių metų periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos pajamų ir sąnaudų ataskaitas Susisiekimo ministerijai ir Ryšių reguliavimo tarnybai.
+4. Universaliosios pašto paslaugos teikėjas (teikėjai) turi atlikti 6 mėnesių ir kalendorinių metų periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslaugos pajamų ir sąnaudų nepriklausomą auditą ir pateikti audito išvadas, 6 mėnesių ir kalendorinių metų periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslaugos pajamų ir sąnaudų ataskaitas Ryšių reguliavimo tarnybai.
 
-5. Jeigu Vyriausybė pagal iš anksto patvirtintus kriterijus periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos tarifus nustato mažesnius už šios paslaugos sąnaudas, tokių sąnaudų ir tarifų skirtumas padengiamas Vyriausybės nustatyta tvarka iš valstybės biudžete numatytų lėšų. Periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos pajamų ir sąnaudų skirtumas už periodinių leidinių pristatymą kaimo gyvenamųjų vietovių prenumeratoriams universaliosios pašto paslaugos teikėjui (teikėjams) kompensuojamas kas 6 mėnesiai.
+5. Jeigu Vyriausybė pagal iš anksto patvirtintus kriterijus periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslaugos tarifus nustato mažesnius už šios paslaugos sąnaudas, tokių sąnaudų ir tarifų skirtumas padengiamas Vyriausybės nustatyta tvarka iš valstybės biudžete numatytų lėšų. Periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslaugos pajamų ir sąnaudų skirtumas už periodinių leidinių pristatymą kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams universalios pašto paslaugos teikėjui (teikėjams) kompensuojamas kas 6 mėnesiai.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1682, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26107
 
 V SKYRIUS
 
@@ -483,7 +493,11 @@ EKONOMINĖS SANKCIJOS
 
 6) rengia ir teikia Vyriausybei tvirtinti nuostolingos universaliosios pašto paslaugos kompensavimo taisyklių, įskaitant nepagrįstai didelės finansinės naštos nustatymo kriterijus, projektą;
 
-7) rengia ir teikia Vyriausybei tvirtinti nuostolingos periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos kompensavimo taisyklių projektą;
+7) rengia ir teikia Vyriausybei tvirtinti nuostolingos periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslaugos kompensavimo taisyklių projektą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1682, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26107
 
 8) tvirtina pašto paslaugos teikimo taisykles ir prižiūri, kaip laikomasi jose nustatytų reikalavimų;
 
@@ -509,7 +523,11 @@ Nr. XII-2087, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19365
 
 17) pagal savo kompetenciją tiria ir nagrinėja šio įstatymo pažeidimus ir pažeidėjams taiko sankcijas šio įstatymo nustatytais atvejais, sąlygomis ir tvarka;
 
-18) atlieka universaliosios pašto paslaugos tarifų ir periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos tarifų taikymo priežiūrą;
+18) atlieka universaliosios pašto paslaugos tarifų ir periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslaugos tarifų taikymo priežiūrą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1682, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26107
 
 19) skelbia informaciją, reikalingą atviros ir konkurencingos rinkos plėtrai. Ryšių reguliavimo tarnyba, atsižvelgdama į teisės aktus, reglamentuojančius konfidencialios informacijos apsaugą, nustato šios informacijos skelbimo taisykles, įskaitant ir teikiamos informacijos mastą;
 
@@ -537,9 +555,17 @@ REGULIAVIMO PAGRINDAI
 
 2) praneša Europos Komisijai apie pašto paslaugos teikėją, įpareigotą teikti universaliąją pašto paslaugą visoje Lietuvos Respublikos teritorijoje, apie valstybinio valdymo instituciją, nurodytą šio įstatymo 6 straipsnio 1 dalyje, taip pat apie naudotojams ir pašto paslaugos teikėjams sudarytas galimybes naudotis informacija, nurodyta šio įstatymo 16 straipsnio 2 dalies 2 punkte;
 
-3) tvirtina nuostolingos universaliosios pašto paslaugos kompensavimo taisykles, įskaitant nepagrįstai didelės finansinės naštos nustatymo kriterijus, ir nuostolingos periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos kompensavimo taisykles;
+3) tvirtina nuostolingos universaliosios pašto paslaugos kompensavimo taisykles, įskaitant nepagrįstai didelės finansinės naštos nustatymo kriterijus, ir nuostolingos periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslaugos kompensavimo taisykles;
 
-4) tvirtina periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos tarifų nustatymo kriterijus ir kas 3 metai tvirtina periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos didžiausius tarifus.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1682, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26107
+
+4) tvirtina periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslaugos tarifų nustatymo kriterijus ir kas 3 metai tvirtina šios paslaugos didžiausius tarifus; šių tarifų galiojimo laikotarpiui Vyriausybė ar jos įgaliota institucija tvirtina miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, sąrašą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1682, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26107
 
 2. Susisiekimo ministerija formuoja valstybės politiką pašto srityje, taip pat organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą.
 
@@ -553,7 +579,11 @@ REGULIAVIMO PAGRINDAI
 
 4) tvirtina universaliosios pašto paslaugos teikimo taisykles;
 
-5) rengia ir teikia Vyriausybei tvirtinti periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos tarifų nustatymo kriterijus;
+5) rengia ir teikia Vyriausybei tvirtinti periodinių leidinių pristatymo kaimo gyvenamųjų vietovių ir miestų, kurie patenka į retai ir vidutiniškai tankiai apgyvendintas gyvenamąsias vietoves, prenumeratoriams paslaugos tarifų nustatymo kriterijus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1682, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26107
 
 6) ekstremaliųjų situacijų atvejais nustato išskirtines sąlygas, užtikrinančias universaliosios pašto paslaugos teikimą;
 
@@ -924,4 +954,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-641, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24252
 
 Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 19, 21, 22, 24, 25, 29, 30, 32 ir 33 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1682, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26107
+
+Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 3, 5, 6 ir 17 straipsnių pakeitimo įstatymas
 
