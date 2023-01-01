@@ -4,7 +4,7 @@ identifier: "TAR.E90A0DD29952"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2022-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E90A0DD29952"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos loterijų įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3341, i. k. 1031010ISTA0IX-1661
 
@@ -437,9 +437,11 @@ Laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominaliosios numa
 
 6. Draudžiama teikti informaciją apie laimėjusius asmenis be šių asmenų sutikimo.
 
-7. Lietuvos Respublikoje draudžiama išmokėti laimėjimus asmenims, jaunesniems kaip 16 metų. Šių reikalavimų laikymąsi privalo užtikrinti loterijų organizatorius ir loterijos bilietų platintojai. Loterijos organizatorius ir loterijos bilietų platintojai iš besikreipiančio dėl laimėjimo asmens privalo reikalauti pateikti asmens amžių liudijantį dokumentą tuo atveju, kai yra abejonių, kad asmuo yra jaunesnis negu 16 metų. Jeigu toks asmuo nepateikia jo amžių liudijančio dokumento, laimėjimas jam nėra išmokamas. Loterijos bilietų platinimo vietose privalo būti pakabinti (nurodyti) įspėjamieji užrašai apie draudimą išmokėti laimėjimus jaunesniems kaip 16 metų asmenims. Su šia informacija privalo būti supažindinti ir loterijos bilietus internetu ir (ar) telefono ryšiu ketinantys įsigyti asmenys. Įspėjamųjų užrašų turinį, formą, jų pateikimo loterijos bilietų platinimo vietose, interneto svetainėse ir (ar) telefono ryšiu taisykles tvirtina priežiūros institucija.
+7. Lietuvos Respublikoje draudžiama dalyvauti loterijose asmenims, jaunesniems kaip 18 metų. Šių reikalavimų laikymąsi privalo užtikrinti loterijų organizatorius ir (ar) loterijos bilietų platintojai. Loterijos organizatorius ir (ar) loterijos bilietų platintojai iš perkančio loterijos bilietus ar besikreipiančio dėl laimėjimo asmens privalo reikalauti pateikti asmens amžių liudijantį dokumentą tuo atveju, kai yra abejonių, kad asmuo yra jaunesnis negu 18 metų. Jeigu toks asmuo nepateikia jo amžių liudijančio dokumento, loterijos organizatorius ir (ar) loterijos bilietų platintojai privalo atsisakyti parduoti jam loterijos bilietus ar išmokėti laimėjimą. Loterijos bilietų platinimo vietose privalo būti pakabinti (nurodyti) įspėjamieji užrašai apie draudimą dalyvauti loterijose jaunesniems kaip 18 metų asmenims. Su šia informacija privalo būti supažindinti ir loterijos bilietus internetu ir (ar) telefono ryšiu ketinantys įsigyti asmenys. Įspėjamųjų užrašų turinį, formą, jų pateikimo loterijos bilietų platinimo vietose, interneto svetainėse ir (ar) telefono ryšiu taisykles tvirtina priežiūros institucija.
 
-TAR pastaba. 28 straipsnio 7 dalyje nurodytas draudimas netaikomas jaunesniems negu 16 metų asmenims, kurie dėl laimėjimo išmokėjimo pagal loterijos bilietus, įgytus pagal iki įstatymo Nr. XIII-2598 įsigaliojimo dienos   (2020-05-01) galiojusį Loterijų įstatymą, kreipiasi po šio įstatymo įsigaliojimo dienos.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1184, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15166
 
 8. Lietuvos Respublikos teritorijoje draudžiama loterijų reklama vaikams ir paaugliams skirtuose renginiuose, laikraščiuose, žurnaluose, knygose, radijo ir televizijos laidose, interneto svetainėse.
 
@@ -448,6 +450,12 @@ TAR pastaba. 28 straipsnio 7 dalyje nurodytas draudimas netaikomas jaunesniems n
 10. Draudžiama eksploatuoti atitikties sertifikato neturinčią loterijos įrenginio programinę įrangą.
 
 11. Loterijų pavadinimuose draudžiama vartoti Azartinių lošimų įstatyme nurodytų rūšių azartinių lošimų, lošimo vietų ir (ar) lošimo įrenginių pavadinimus.
+
+12. Loterijos organizatoriams ir (ar) loterijos bilietų platintojams bei jų darbuotojams draudžiama skatinti asmenis dalyvauti loterijose siūlant jiems įsigyti loterijos bilietus jų platinimo vietose. Šis draudimas netaikomas, kai loterijos bilietai platinami interneto ryšiu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1184, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15166
 
 29 straipsnis. Loterijų organizavimo apskaitos ypatumai
 
@@ -672,4 +680,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-601, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23522
 
 Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 18, 31 straipsnių pakeitimo ir 19 straipsnio pripažinimo netekusiu galios įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1184, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15166
+
+Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 28 straipsnio pakeitimo įstatymas
 
