@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
 
@@ -251,13 +251,15 @@ Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
 
 3. Šio straipsnio 2 dalies 3 punkte nurodytas lėšas iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga naudoja Vyriausybės, o iš savivaldybės biudžeto išlaikoma biudžetinė įstaiga – savivaldybės tarybos nustatyta tvarka.
 
-11 straipsnis. Biudžetinės įstaigos buhalterinė apskaita, metinių ataskaitų rinkinys, metinė veiklos ataskaita
+11 straipsnis. Biudžetinės įstaigos atskaitomybė
 
-Biudžetinės įstaigos buhalterinė apskaita organizuojama ir metinių ataskaitų rinkinys, metinė veiklos ataskaita rengiami, teikiami ir skelbiami Buhalterinės apskaitos įstatymo, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir jų įgyvendinamųjų teisės aktų nustatyta tvarka.
+Biudžetinės įstaigos atskaitomybę reglamentuoja Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
+
+Nr. XIII-3310, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21248
 
 12 straipsnis. Biudžetinės įstaigos auditas
 
@@ -289,11 +291,13 @@ BIUDŽETINĖS ĮSTAIGOS PERTVARKYMAS IR PABAIGA
 
 2) juridinio asmens, į kurį pertvarkoma biudžetinė įstaiga, teisinė forma ir jo savininko ar dalyvio teises ir pareigas įgyvendinsianti institucija;
 
-3) kur ir kada galima susipažinti su juridinio asmens, kuris veiks po pertvarkymo, įstatais, pertvarkomos biudžetinės įstaigos praėjusių trejų finansinių metų metinių ataskaitų rinkiniais ir metinėmis veiklos ataskaitomis.
+3) kur ir kada galima susipažinti su juridinio asmens, kuris veiks po pertvarkymo, įstatais, pertvarkomos biudžetinės įstaigos paskutinių penkerių finansinių metų metinių ataskaitų rinkiniais.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
+
+Nr. XIII-3310, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21248
 
 5. Reorganizuojama biudžetinė įstaiga negali būti pertvarkoma.
 
@@ -331,21 +335,25 @@ Nr. XII-1790, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09812
 
 1) šio straipsnio 6 dalies 1, 2 ir 3 punktuose nurodyta informacija;
 
-2) kur ir nuo kada galima susipažinti su biudžetinės įstaigos reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, reorganizavime dalyvaujančių biudžetinių įstaigų praėjusių trejų finansinių metų metinių ataskaitų rinkiniais ir metinėmis veiklos ataskaitomis.
+2) kur ir nuo kada galima susipažinti su biudžetinės įstaigos reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, reorganizavime dalyvaujančių biudžetinių įstaigų paskutinių penkerių finansinių metų metinių ataskaitų rinkiniais.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
 
+Nr. XIII-3310, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21248
+
 8. Biudžetinės įstaigos reorganizavimo sąlygų aprašas ne vėliau kaip pirmą viešo paskelbimo apie jų parengimą dieną turi būti pateiktas Juridinių asmenų registrui.
 
 9. Nuo viešo paskelbimo apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą dienos biudžetinė įstaiga, kuri po reorganizavimo pasibaigia, įgyja reorganizuojamos biudžetinės įstaigos statusą, o biudžetinė įstaiga, kuri po reorganizavimo tęsia veiklą, – dalyvaujančios reorganizavime biudžetinės įstaigos teisinį statusą.
 
-10. Reorganizuojamos biudžetinės įstaigos kreditorius turi teisę reikalauti prievolę nutraukti ar ją įvykdyti prieš terminą, taip pat atlyginti nuostolius, jeigu tai numatyta sandoryje ar yra pagrindas manyti, kad prievolės įvykdymas dėl reorganizavimo pasunkės, ir jeigu kreditoriaus reikalavimu biudžetinė įstaiga papildomai neužtikrino prievolių įvykdymo. Reorganizuojamos biudžetinės įstaigos kreditorius savo reikalavimus gali pateikti ne vėliau kaip per 60 dienų nuo viešo paskelbimo apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą pirmos dienos. Reorganizuojamos biudžetinės įstaigos kreditoriai turi teisę susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, taip pat visų reorganizavime dalyvaujančių biudžetinių įstaigų praėjusių trejų finansinių metų metinių ataskaitų rinkiniais ir metinėmis veiklos ataskaitomis. Kiekvienas biudžetinės įstaigos kreditorius turi teisę gauti visų šioje dalyje išvardytų dokumentų kopijas.
+10. Reorganizuojamos biudžetinės įstaigos kreditorius turi teisę reikalauti prievolę nutraukti ar ją įvykdyti prieš terminą, taip pat atlyginti nuostolius, jeigu tai numatyta sandoryje ar yra pagrindas manyti, kad prievolės įvykdymas dėl reorganizavimo pasunkės, ir jeigu kreditoriaus reikalavimu biudžetinė įstaiga papildomai neužtikrino prievolių įvykdymo. Reorganizuojamos biudžetinės įstaigos kreditorius savo reikalavimus gali pateikti ne vėliau kaip per 60 dienų nuo viešo paskelbimo apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą pirmos dienos. Reorganizuojamos biudžetinės įstaigos kreditoriai turi teisę susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, taip pat visų reorganizavime dalyvaujančių biudžetinių įstaigų paskutinių penkerių finansinių metų metinių ataskaitų rinkiniais. Kiekvienas biudžetinės įstaigos kreditorius turi teisę gauti visų šioje dalyje išvardytų dokumentų kopijas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
+
+Nr. XIII-3310, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21248
 
 11. Sprendimas dėl biudžetinės įstaigos reorganizavimo gali būti priimtas tik praėjus 30 dienų nuo paskutinio viešo paskelbimo arba viešo paskelbimo, kai apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą paskelbta vieną kartą ir apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą raštu pranešta visiems biudžetinės įstaigos kreditoriams, dienos.
 
@@ -531,11 +539,13 @@ Nr. XIII-932, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21607
 
 III SKYRIUS
 
-BIUDŽETINĖS ĮSTAIGOS TURTAS. BUHALTERINĖ APSKAITA, METINIŲ ATASKAITŲ RINKINYS, JO AUDITAS IR METINĖ VEIKLOS ATASKAITA
+BIUDŽETINĖS ĮSTAIGOS TURTAS. ATSKAITOMYBĖ IR AUDITAS
 
 Pakeistas skyriaus pavadinimas:
 
 Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
+
+Nr. XIII-3310, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21248
 
 21 straipsnis. Lietuvos Respublikos prekybos atstovybė
 
