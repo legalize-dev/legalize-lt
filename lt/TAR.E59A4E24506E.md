@@ -4,7 +4,7 @@ identifier: "TAR.E59A4E24506E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-02"
-last_updated: "2022-04-21"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E59A4E24506E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos susirinkimų įstatymas
 
-Suvestinė redakcija nuo 2022-04-21 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 69-1291, i. k. 0931010ISTA000I-317
 
@@ -88,7 +88,11 @@ BENDROSIOS NUOSTATOS
 
 1. Susirinkimai ar pavienio asmens akcija gali vykti viešosiose vietose, gyvenamųjų vietovių gatvėse, aikštėse, parkuose, skveruose ir bendrojo naudojimo pastatuose visomis savaitės dienomis nuo 8 iki 22 valandos. Suderinus susirinkimai gali būti organizuojami ir kitu paros metu, tačiau tik tose vietose, kuriose įrengtas stacionarus apšvietimas, ir netrikdant gyventojų poilsio.
 
-2. Neleidžiama organizuoti susirinkimų ar vykdyti pavienio asmens akcijos valstybės valdžios ir valdymo įstaigose, savivaldybių, policijos, areštinių, tardymo izoliatorių, bausmių vykdymo, sveikatos priežiūros, taip pat krašto apsaugos, Lietuvos Respublikos valstybės saugumo departamento sistemos, prokuratūros, teismų patalpose, Lietuvos banke ir kituose Lietuvos Respublikoje veikiančiuose bankuose, nacionaliniam saugumui užtikrinti svarbiose įmonėse, taip pat branduolinės energetikos objektų apsaugos zonose.
+2. Neleidžiama organizuoti susirinkimų ar vykdyti pavienio asmens akcijos valstybės valdžios ir valdymo įstaigose, savivaldybių, policijos, areštinių, laisvės atėmimo vietų įstaigos, sveikatos priežiūros, krašto apsaugos, Lietuvos Respublikos valstybės saugumo departamento sistemos, prokuratūros, teismų patalpose, Lietuvos banke ir kituose Lietuvos Respublikoje veikiančiuose bankuose, nacionaliniam saugumui užtikrinti svarbiose įmonėse, taip pat branduolinės energetikos objektų apsaugos zonose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1231, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15597
 
 3. Susirinkimai ar pavienio asmens akcija prie Lietuvos Respublikos Seimo, Respublikos Prezidento kanceliarijos, Lietuvos Respublikos Vyriausybės ir teismų pastatų gali būti organizuojami ne arčiau kaip 75 metrai, o prie kitų valstybės valdžios ir valdymo įstaigų, užsienio diplomatinių atstovybių, savivaldybių, Lietuvos Respublikos valstybės saugumo departamento sistemos, policijos, prokuratūros, Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos krašto apsaugos ministerijos įstaigų ir kitų krašto apsaugos sistemos objektų, nacionaliniam saugumui užtikrinti svarbių įmonių, branduolinės energetikos objektų apsaugos zonų – ne arčiau kaip 25 metrai iki šių pastatų, objektų ir apsaugos zonų. Visais atvejais užtikrinamas laisvas priėjimas ir privažiavimas prie šių pastatų, objektų ir apsaugos zonų.
 
@@ -279,6 +283,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1023, 2022-04-19, paskelbta TAR 2022-04-20, i. k. 2022-08030
 
 Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 5 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1231, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15597
+
+Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 4 straipsnio pakeitimo įstatymas
 
 15 straipsnis. Susirinkimų vedimo tvarka
 
