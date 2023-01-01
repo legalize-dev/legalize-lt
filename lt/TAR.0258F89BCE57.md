@@ -4,7 +4,7 @@ identifier: "TAR.0258F89BCE57"
 country: "lt"
 rank: "istatymas"
 publication_date: "2005-06-30"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0258F89BCE57"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2005, Nr. 85-3140, i. k. 1051010ISTA000X-296
 
@@ -48,7 +48,11 @@ BENDROSIOS NUOSTATOS
 
 2. Nuo smurtinio nusikaltimo mirusio asmens išlaikytinis (toliau – išlaikytinis) – asmens, kuriam smurtiniu nusikaltimu buvo atimta gyvybė, mirties dieną išlaikomas arba tą dieną turėjęs teisę gauti iš jo išlaikymą asmuo.
 
-3. Nuo smurtinio nusikaltimo nukentėjęs asmuo (toliau – nukentėjęs asmuo) – Lietuvos Respublikos pilietis, kitos Europos Sąjungos valstybės narės pilietis ar jo šeimos narys, kitas Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje teisėtai nuolat gyvenantis asmuo ar Lietuvos Respublikos tarptautinėse sutartyse nurodytais atvejais – kitas asmuo, kuriems padarytas smurtinis nusikaltimas, arba tokio asmens, kurio gyvybė buvo atimta smurtiniu nusikaltimu, sutuoktinis, partneris, vaikas, įvaikis, tėvas, motina, įtėvis, įmotė, išlaikytinis, jeigu jie atitinka šioje dalyje nurodytus kriterijus.
+3. Nuo smurtinio nusikaltimo nukentėjęs asmuo (toliau – nukentėjęs asmuo) – Lietuvos Respublikos pilietis, kitos Europos Sąjungos valstybės narės pilietis ar jo šeimos narys, kitas Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje teisėtai nuolat gyvenantis asmuo ar Lietuvos Respublikos tarptautinėse sutartyse nurodytais atvejais – kitas asmuo, kuriems padarytas smurtinis nusikaltimas, arba jei toks asmuo nužudytas – kitas šioje dalyje nurodytus kriterijus atitinkantis asmuo, kuris dėl to pripažintas nukentėjusiuoju ir civiliniu ieškovu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 4. Smurtinis nusikaltimas – Lietuvos Respublikos baudžiamajame kodekse nurodyto nusikaltimo sudėties požymių turinti veika, kuria buvo tyčia atimta žmogaus gyvybė arba sunkiai ar nesunkiai sutrikdyta jo sveikata, arba apysunkio, sunkaus ar labai sunkaus nusikaltimo žmogaus laisvei, seksualinio apsisprendimo laisvei ar neliečiamumui sudėties požymių turinti veika. Smurtinių nusikaltimų sąrašą tvirtina Fondo programos vykdytojas.
 
@@ -102,7 +106,11 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 
 1. Prašymai kompensuoti smurtiniais nusikaltimais padarytą žalą nagrinėjami ir sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo priimami Fondo programos vykdytojo nustatyta tvarka.
 
-2. Fondo programos vykdytojas, siekdamas priimti sprendimą dėl smurtiniais nusikaltimais padarytos žalos kompensavimo, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, giminystės ryšį, kontaktinius duomenis, mokėjimo sąskaitos rekvizitus, informaciją apie padarytą smurtinį nusikaltimą, informaciją apie asmens teistumą, informaciją apie nukentėjusiam asmeniui iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotą žalą ir kitą informaciją, reikalingą nustatyti, ar egzistuoja šiame įstatyme nustatytos smurtiniais nusikaltimais padarytos žalos kompensavimo sąlygos.
+2. Fondo programos vykdytojas, siekdamas priimti sprendimą dėl smurtiniais nusikaltimais padarytos žalos kompensavimo, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, giminystės ryšį, kontaktinius duomenis, mokėjimo sąskaitos rekvizitus, informaciją apie padarytą smurtinį nusikaltimą, informaciją apie nukentėjusiam asmeniui iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotą žalą ir kitą informaciją, reikalingą nustatyti, ar egzistuoja šiame įstatyme nustatytos smurtiniais nusikaltimais padarytos žalos kompensavimo sąlygos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 3. Fondo programos vykdytojas turi teisę neatlygintinai gauti iš teismo, prokuratūros, ikiteisminio tyrimo įstaigų, kitų valstybės ir savivaldybių institucijų, užsienio valstybių kompetentingų institucijų ar kitų asmenų sprendimams dėl smurtiniais nusikaltimais padarytos žalos kompensavimo priimti ar valstybės regreso teisei įgyvendinti reikalingą informaciją, nurodytą šio straipsnio 2 dalyje, ir ją patvirtinančius dokumentus. Šioje dalyje nurodyti subjektai prašomą informaciją ir ją patvirtinančius dokumentus privalo pateikti per Fondo programos vykdytojo nurodytą terminą. Šis terminas negali būti trumpesnis negu 5 darbo dienos. Gautus asmens duomenis Fondo programos vykdytojas saugo 10 metų ir naikina pasibaigus nustatytam saugojimo terminui.
 
@@ -136,7 +144,11 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 
 5. Jeigu nukentėjusiam asmeniui žala padaryta keliais smurtiniais nusikaltimais, kurie sudaro idealiąją nusikaltimų sutaptį, žala kompensuojama neviršijant šio straipsnio 2 ir 3 dalyse nustatytų dydžių dėl sunkiausio iš šių nusikaltimų.
 
-6. Kompensacija mažinama pagal šį įstatymą avansu kompensuotos, už žalą atsakingo asmens atlygintos ar iš jo išieškotos, iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotos žalos suma.
+6. Kompensacija kartu su pagal šį įstatymą avansu kompensuotos žalos suma negali viršyti šio straipsnio 2 ir 3 dalyse nustatytų dydžių. Kompensacija mažinama už žalą atsakingo asmens atlygintos ar iš jo išieškotos, iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotos žalos suma.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 III SKYRIUS
 
@@ -148,7 +160,11 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 
 2. Žala šio straipsnio 1 dalyje nurodytiems asmenims kompensuojama avansu, jeigu yra visos šios sąlygos:
 
-1) vyksta baudžiamasis procesas dėl smurtinio nusikaltimo ir asmuo yra pripažintas civiliniu ieškovu arba įsiteisėjusiu teismo sprendimu konstatuota, kad smurtinį nusikaltimą padarė nepakaltinamas, ribotai pakaltinamas asmuo ar asmuo, kuriam po nusikalstamos veikos padarymo sutriko psichika ir dėl to jis negali suvokti savo veiksmų esmės ar jų valdyti, arba nustatyta Lietuvos Respublikos baudžiamojo proceso kodekso 3 straipsnio 1 dalies 4 ar 7 punkte, 31 straipsnio 1 dalyje arba 32 straipsnio 2 dalyje nurodyta aplinkybė;
+1) vyksta baudžiamasis procesas dėl smurtinio nusikaltimo ir asmuo yra pripažintas civiliniu ieškovu arba įsiteisėjusiu teismo sprendimu konstatuota, kad smurtinį nusikaltimą padarė nepakaltinamas, ribotai pakaltinamas asmuo ar asmuo, kuriam po nusikalstamos veikos padarymo sutriko psichika ir dėl to jis negali suvokti savo veiksmų esmės ar jų valdyti, arba nustatyta Lietuvos Respublikos baudžiamojo proceso kodekso 3 straipsnio 1 dalies 3 ar 5 punkte, 31 straipsnio 1 dalyje arba 32 straipsnio 2 dalyje nurodyta aplinkybė;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 2) smurtinis nusikaltimas padarytas Lietuvos Respublikos teritorijoje arba laive ar orlaivyje su Lietuvos valstybės vėliava ar skiriamaisiais ženklais;
 
@@ -170,7 +186,11 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 
 1. Prašymai avansu kompensuoti smurtiniais nusikaltimais padarytą žalą nagrinėjami ir sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu priimami Fondo programos vykdytojo nustatyta tvarka.
 
-2. Fondo programos vykdytojas, siekdamas priimti sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, giminystės ryšį, kontaktinius duomenis, mokėjimo sąskaitos rekvizitus, informaciją apie padarytą smurtinį nusikaltimą, informaciją apie asmens teistumą, informaciją apie nukentėjusiam asmeniui iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotą žalą ir kitą informaciją, reikalingą nustatyti, ar egzistuoja šiame įstatyme nustatytos smurtiniais nusikaltimais padarytos žalos kompensavimo avansu sąlygos.
+2. Fondo programos vykdytojas, siekdamas priimti sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, giminystės ryšį, kontaktinius duomenis, mokėjimo sąskaitos rekvizitus, informaciją apie padarytą smurtinį nusikaltimą, informaciją apie nukentėjusiam asmeniui iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotą žalą ir kitą informaciją, reikalingą nustatyti, ar egzistuoja šiame įstatyme nustatytos smurtiniais nusikaltimais padarytos žalos kompensavimo avansu sąlygos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 3. Fondo programos vykdytojas turi teisę neatlygintinai gauti iš teismo, prokuratūros, ikiteisminio tyrimo įstaigų, kitų valstybės ir savivaldybių institucijų, užsienio valstybių kompetentingų institucijų ar kitų asmenų sprendimams dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu priimti ar valstybės regreso teisei įgyvendinti reikalingą informaciją, nurodytą šio straipsnio 2 dalyje, ir ją patvirtinančius dokumentus. Šioje dalyje nurodyti subjektai prašomą informaciją ir ją patvirtinančius dokumentus privalo pateikti per Fondo programos vykdytojo nurodytą terminą. Šis terminas negali būti trumpesnis negu 5 darbo dienos. Gautus asmens duomenis Fondo programos vykdytojas saugo 10 metų ir pasibaigus šiam saugojimo terminui sunaikina.
 
@@ -190,13 +210,21 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 
 3) 12 BSI neviršijančios laidojimo išlaidos, jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė. Šios išlaidos mažinamos gautos laidojimo pašalpos dydžiu;
 
-4) negautos pajamos, kurias gavo ar turėjo teisę gauti asmens, kurio gyvybė buvo atimta smurtiniu nusikaltimu, sutuoktinis, partneris, vaikas, įvaikis, tėvas, motina, įtėvis, įmotė, išlaikytinis mirusiajam esant gyvam.
+4) negautos pajamos, kurias nukentėjęs asmuo gavo ar turėjo teisę gauti mirusiajam esant gyvam.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 2. Avansu dėl turtinės žalos padarymo mokama kompensacija negali viršyti pusės šio įstatymo 7 straipsnio 2 dalyje nustatytų dydžių ir civilinio ieškinio dydžio. Avansu kompensuojamos turtinės žalos dydis nustatomas pagal turtinės žalos dydį pagrindžiančius dokumentus.
 
 3. Avansu dėl neturtinės žalos padarymo mokama kompensacija sudaro pusę šio įstatymo 7 straipsnio 3 dalyje nustatytų dydžių, tačiau negali viršyti civilinio ieškinio dydžio.
 
-4. Jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė ir teisę į tuo nusikaltimu padarytos žalos kompensavimą avansu turi daugiau negu vienas nukentėjęs asmuo, avansu dėl neturtinės žalos padarymo mokama kompensacija dalijama lygiomis dalimis visiems asmenims, turintiems teisę į žalos kompensavimą avansu.
+4. Jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė ir teisę į tuo nusikaltimu padarytos žalos kompensavimą avansu turi daugiau negu vienas nukentėjęs asmuo, avansu dėl turtinės ir neturtinės žalos padarymo mokama kompensacija dalijama lygiomis dalimis visiems asmenims, turintiems teisę į žalos kompensavimą avansu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 5. Avansu mokama kompensacija mažinama už žalą atsakingo asmens atlygintos ar iš jo išieškotos, iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotos žalos suma.
 
@@ -238,7 +266,11 @@ NUKENTĖJUSIŲ NUO NUSIKALTIMŲ ASMENŲ FONDO PROGRAMA
 
 3. Šio straipsnio 1 ir 2 dalyse nurodytais atvejais valstybės reikalavimo teisės įgyvendinamos Fondo programos vykdytojo patvirtinta tvarka. Fondo programos vykdytojo sprendimas dėl valstybės reikalavimo teisių įgyvendinimo kartu yra ir vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. Fondo programos vykdytojas taip pat turi teisę įgyvendinti valstybės reikalavimo teises teismo tvarka.
 
-4. Fondo programos vykdytojas, siekdamas įgyvendinti šio straipsnio 1 ir 2 dalyse numatytas valstybės reikalavimo teises, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, laisvės atėmimo bausmės vykdymo vietą, kontaktinius duomenis, mokėjimo sąskaitos rekvizitus, informaciją apie padarytą smurtinį nusikaltimą, informaciją apie dėl asmens priimtus sprendimus baudžiamosiose ir civilinėse bylose, susijusiose su smurtinio nusikaltimo padarymu ar juo padarytos žalos atlyginimu, informaciją apie asmens teistumą ir kitą įgyvendinant šio straipsnio 1 ir 2 dalyse numatytas valstybės reikalavimo teises reikalingą informaciją.
+4. Fondo programos vykdytojas, siekdamas įgyvendinti šio straipsnio 1 ir 2 dalyse numatytas valstybės reikalavimo teises, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, laisvės atėmimo bausmės vykdymo vietą, kontaktinius duomenis, mokėjimo sąskaitos rekvizitus, informaciją apie padarytą smurtinį nusikaltimą, informaciją apie dėl asmens priimtus sprendimus baudžiamosiose ir civilinėse bylose, susijusiose su smurtinio nusikaltimo padarymu ar juo padarytos žalos atlyginimu, ir kitą įgyvendinant šio straipsnio 1 ir 2 dalyse numatytas valstybės reikalavimo teises reikalingą informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 5. Šio straipsnio 3 dalyje nurodyti sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
@@ -368,7 +400,15 @@ Nr. XIV-369, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13177
 
 Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 20 straipsnio pakeitimo įstatymas
 
-part_d60028a12580431e97294cd8287fd543_end
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
+
+Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 2, 6, 7, 8, 10, 11 ir 14 straipsnių pakeitimo įstatymas
+
+part_019830e38fe84de5b1b4ba79b8592116_end
 
 22 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
