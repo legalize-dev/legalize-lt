@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2022-09-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
 
@@ -116,6 +116,12 @@ Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
 Papildyta straipsnio dalimi:
 
 Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
+
+131. Padalinys – įstaigos struktūrinis vienetas ar tokiame struktūriniame vienete esantis kitas struktūrinis vienetas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1031, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08773
 
 14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme, Lietuvos Respublikos viešųjų įstaigų įstatyme, Lietuvos Respublikos biudžetinių įstaigų įstatyme.
 
@@ -545,9 +551,17 @@ Pakeistas straipsnio pavadinimas:
 
 Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
 
-1. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą priimami viešo konkurso būdu. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų, išskyrus įstaigas, kuriose dirba dešimt ar mažiau sveikatos priežiūros specialistų, turinčių medicinos praktikos licenciją, vadovai į darbą priimami viešo konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos steigėjas arba visuotinis dalininkų susirinkimas.
+1. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą priimami viešo konkurso būdu. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų, išskyrus viešąsias įstaigas, kuriose dirba dešimt ar mažiau sveikatos priežiūros specialistų, turinčių medicinos praktikos licenciją, vadovai į darbą priimami penkerių metų kadencijai. Tos pačios LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės ir ne anksčiau kaip po penkerių metų nuo paskutinės kadencijos pabaigos, jeigu paskutinė kadencija buvo iš eilės antra. Viešą konkursą organizuoja ir jo nuostatus tvirtina įstaigos savininko teises ir pareigas įgyvendinanti institucija arba visuotinis dalininkų susirinkimas. Likus šešiems mėnesiams iki LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo kadencijos pabaigos, jeigu įstaigos vadovo kadencija nustatoma pagal šios dalies nuostatas, šios įstaigos savininko teises ir pareigas įgyvendinanti institucija arba visuotinis dalininkų susirinkimas skelbia viešą konkursą LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo pareigoms eiti. Jeigu su LNSS valstybės ar savivaldybės biudžetinės įstaigos vadovu, kurio kadencijos terminas nėra pasibaigęs, arba viešosios įstaigos vadovu, kurio kadencija nenustatoma pagal šios dalies nuostatas arba kurio kadencijos terminas nėra pasibaigęs, darbo sutartis nutraukiama, ne vėliau kaip per dešimt darbo dienų nuo darbo sutarties nutraukimo dienos skelbiamas viešas konkursas LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo pareigoms eiti.
 
-2. Valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų padalinių ir filialų vadovai į darbą priimami viešo konkurso būdu. Universitetų ligoninių padalinių ir filialų vadovai į darbą priimami viešo konkurso būdu penkeriems metams.Viešą konkursą organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos vadovas. Įstaigos vadovas turi teisę organizuoti padalinių ir filialų vadovų atestaciją.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1031, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08773
+
+2. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų padalinių ir filialų vadovai į darbą priimami viešo konkurso būdu. LNSS valstybės ir savivaldybių viešųjų įstaigų, išskyrus viešąsias įstaigas, kuriose dirba dešimt ar mažiau sveikatos priežiūros specialistų, turinčių medicinos praktikos licenciją, padalinių ir filialų vadovai į darbą priimami penkerių metų kadencijai. Viešą konkursą organizuoja ir jo nuostatus tvirtina įstaigos vadovas. Likus šešiems mėnesiams iki įstaigos padalinio ar filialo vadovo kadencijos pabaigos, jeigu padalinio ar filialo vadovo kadencija nustatoma pagal šios dalies nuostatas, šios įstaigos vadovas skelbia viešą konkursą viešosios įstaigos padalinio ar filialo vadovo pareigoms eiti. Jeigu su LNSS valstybės ar savivaldybės biudžetinės  įstaigos padalinio ar filialo vadovu arba viešosios įstaigos padalinio ar filialo vadovu, kurių kadencija nenustatoma pagal šios dalies nuostatas arba kurių kadencijos terminas nėra pasibaigęs, darbo sutartis nutraukiama, ne vėliau kaip per dešimt darbo dienų nuo darbo sutarties nutraukimo dienos skelbiamas viešas konkursas LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos padalinio ar filialo vadovo pareigoms eiti. Įstaigos vadovas turi teisę organizuoti padalinių ir filialų vadovų atestaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1031, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08773
 
 3. LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovais gali būti asmenys, kurie atitinka Sveikatos apsaugos ministerijos patvirtintus kvalifikacinius reikalavimus. LNSS biudžetinių ir viešųjų įstaigų vadovai privalo periodiškai tobulinti vadovavimo įstaigai gebėjimus. Privalomo tobulinimosi tvarka nustatoma sveikatos apsaugos ministro įsakymu.
 
@@ -580,6 +594,12 @@ Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+
+9. Šio straipsnio nuostatos netaikomos LNSS biudžetinėms įstaigoms, kurios turi įstaigos prie ministerijos statusą pagal Lietuvos Respublikos Vyriausybės įstatymo 30 straipsnį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1031, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08773
 
 Straipsnio pakeitimai:
 
@@ -1223,19 +1243,9 @@ Sveikatos priežiūros įstaigų teises nustato Sveikatos sistemos įstatymas, �
 
 41) ESPBI IS veiklą reguliuojančių teisės aktų nustatyta tvarka sudaryti sutartį dėl naudojimosi ESPBI IS ir ESPBI IS pildyti elektroninius dokumentus bei teikti jų duomenis į ESPBI IS;
 
-TAR pastaba. 45. Straipsnio 1 dalies 4-1 punkto papildymas įsigalioja nuo 2022-09-01.
-
-Papildyta straipsnio punktu:
-
-Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
-
 5) užtikrinti lygias pacientų teises į teikiamas sveikatos priežiūros paslaugas;
 
 6) mokėti įmokas, reikalingas pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, į Vyriausybės įgaliotos institucijos administruojamą sąskaitą, kurioje kaupiamos asmens sveikatos priežiūros įstaigų įmokos pacientų sveikatai padarytai žalai atlyginti;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
 
 7) saugoti paciento medicininę paslaptį, išskyrus atvejus, kai asmens sveikatos priežiūros įstaiga privalo pateikti informaciją apie pacientą arba kai pacientas duoda sutikimą skelbti informaciją apie jo sveikatos būklę;
 
@@ -1247,47 +1257,25 @@ Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
 
 11) jeigu ji priklauso LNSS ir teikia pirminės ambulatorinės asmens sveikatos priežiūros paslaugas, užtikrinti nepertraukiamą (visomis dienomis ištisą parą) pirminės ambulatorinės asmens sveikatos priežiūros paslaugų (išskyrus pirminės ambulatorinės psichikos sveikatos ir odontologijos priežiūros paslaugas) teikimą sveikatos apsaugos ministro nustatyta tvarka;
 
-12) naudoti, instaliuoti ir prižiūrėti medicinos priemones 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009 ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, arba 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/746 dėl in vitro diagnostikos medicinos priemonių, kuriuo panaikinama Direktyva 98/79/EB ir Komisijos sprendimas 2010/227/ES, Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatyta tvarka;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
-
-Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
+12) naudoti, instaliuoti ir prižiūrėti medicinos priemones 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009 ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, arba 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/746 dėl in vitro diagnostikos medicinos priemonių, kuriuo panaikinama Direktyva 98/79/EB ir Komisijos sprendimas 2010/227/ES, Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatyta tvarka;
 
 13) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
-
-Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
-
 14) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
-
-Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
 
 15) sužinojusi, kad medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, Sveikatos sistemos įstatymo ar sveikatos apsaugos ministro nustatytų reikalavimų, nedelsdama nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
-
-Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
-
 16) pasiūlyti pacientui artimiausią objektyviai įmanomą asmens sveikatos priežiūros paslaugos suteikimo datą ir laiką ir registruoti visus pacientus jų kreipimosi į asmens sveikatos priežiūros įstaigą momentu, neribojant registravimosi terminų, sveikatos apsaugos ministro nustatyta tvarka.
 
-2. Savivaldybės asmens sveikatos priežiūros įstaiga, teikianti pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas, Lietuvos Respublikos bausmių vykdymo kodekso ir Lietuvos Respublikos suėmimo vykdymo įstatymo nustatytais atvejais sudaro sutartis su laisvės atėmimo vietų ligonine, pataisos įstaiga arba tardymo izoliatoriumi dėl pirminio lygio ambulatorinių asmens sveikatos priežiūros paslaugų teikimo suimtiesiems ir arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems. Tipinę šios sutarties formą tvirtina sveikatos apsaugos ministras ir teisingumo ministras.
+2. Savivaldybės asmens sveikatos priežiūros įstaiga, teikianti pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas, Lietuvos Respublikos bausmių vykdymo kodekso ir Lietuvos Respublikos suėmimo vykdymo įstatymo nustatytais atvejais sudaro sutartis su laisvės atėmimo vietų įstaiga dėl pirminio lygio ambulatorinių asmens sveikatos priežiūros paslaugų teikimo suimtiesiems ir arešto bei laisvės atėmimo bausmes uždaro ir pusiau atviro tipo bausmės atlikimo vietose atliekantiems nuteistiesiems, taip pat atviro tipo bausmės atlikimo vietose laikomiems nuteistiesiems, kurie atlieka Bausmių vykdymo kodekso 79 straipsnio 2 dalyje nurodytą nuobaudą. Tipinę šios sutarties formą tvirtina sveikatos apsaugos ministras ir teisingumo ministras.
 
-3. Už šio straipsnio 2 dalyje nurodytas paslaugas jas suteikusioms savivaldybių asmens sveikatos priežiūros įstaigoms laisvės atėmimo vietų ligoninė, pataisos įstaiga arba tardymo izoliatorius sumoka pagal sveikatos apsaugos ministro ir teisingumo ministro nustatytus paslaugų įkainius ir mokėjimo tvarką.
+3. Už šio straipsnio 2 dalyje nurodytas paslaugas jas suteikusioms savivaldybių asmens sveikatos priežiūros įstaigoms laisvės atėmimo vietų įstaiga sumoka pagal sveikatos apsaugos ministro ir teisingumo ministro nustatytus paslaugų įkainius ir mokėjimo tvarką.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-2702, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21420
+
+Nr. XIV-1211, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15575
 
 46 straipsnis. Asmens sveikatos priežiūros įstaigų vidaus tvarkos taisyklės
 
