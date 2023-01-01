@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2022-07-22"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-06-20
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
 
@@ -42,7 +42,11 @@ Vilnius
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Eksporto kredito draudėjas – kredituojantis eksportuotojas, su draudimo įmone sudaręs draudimo sutartį dėl nuostolių, patirtų negavus komerciniu kreditu atidėtų mokėjimų už eksportuotas prekes, turinčias Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, ar suteiktas paslaugas, padengimo.
+1. Eksporto kredito draudėjas – kredituojantis eksportuotojas, su draudimo įmone sudaręs draudimo sutartį dėl nuostolių, patirtų negavus komerciniu kreditu atidėtų mokėjimų už eksportuotas Lietuvos Respublikoje pagamintas prekes ar suteiktas paslaugas, padengimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
 
 2. Finansinė priemonė – kaip tai apibrėžta Lietuvos Respublikos finansinių priemonių rinkų įstatyme.
 
@@ -54,7 +58,11 @@ Vilnius
 
 6. Kiti įsipareigojamieji skolos dokumentai – dokumentai, kuriais patvirtinamas skolinantis prisiimtas įsipareigojimas (neapimantis įsipareigojimų, prisiimamų išplatinant Vyriausybės vertybinius popierius, pasirašant paskolų sutartis, finansinės nuomos (lizingo) sutartis, suteikiant valstybės garantijas) grąžinti dokumentuose nurodytą pinigų sumą šiuose dokumentuose sutartomis (nustatytomis) sąlygomis (komerciniai popieriai, paprastieji ir įsakomieji vekseliai, depozitų sertifikatai, Vyriausybės depozitinių įsipareigojimų sutartys ir pan.).
 
-7. Kredituojantis eksportuotojas – Lietuvos Respublikoje veikiantis, ūkinę komercinę veiklą vykdantis juridinis asmuo arba juridinio asmens statuso neturintis Europos ekonominės erdvės valstybės narės įmonės filialas, kuris eksportuoja į kitas šalis prekes, turinčias Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, arba kuris eksportuoja paslaugas ir taiko šių prekių ar paslaugų pirkėjui apmokėjimo už parduotas prekes ar suteiktas paslaugas atidėjimą (tai yra suteikia pirkėjui komercinį kreditą).
+7. Kredituojantis eksportuotojas – Lietuvos Respublikoje veikiantis, ūkinę komercinę veiklą vykdantis juridinis asmuo arba juridinio asmens statuso neturintis Europos ekonominės erdvės valstybės narės įmonės filialas, kuris eksportuoja į kitas šalis Lietuvos Respublikoje pagamintas prekes arba kuris eksportuoja paslaugas ir taiko šių prekių ar paslaugų pirkėjui apmokėjimo už parduotas prekes ar suteiktas paslaugas atidėjimą (tai yra suteikia pirkėjui komercinį kreditą).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
 
 8. Ne nuosavybės vertybiniai popieriai – kaip tai apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme.
 
@@ -164,9 +172,17 @@ Nr. XIV-660, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24264
 
 9. Lietuvos banko aukso ir užsienio valiutos rezervai negali būti įkeisti kaip valstybės turtinių įsipareigojimų įvykdymo užtikrinimo priemonė.
 
-10. Vyriausybė valstybės vardu pasiskolintas lėšas gali naudoti tik šiame įstatyme nurodytiems tikslams.
+10. Vyriausybė arba jos įgaliota institucija valstybės vardu pasiskolintas lėšas gali naudoti tik šiame įstatyme nurodytiems tikslams.
 
-11. Vyriausybė turi teisę teikti perskolinamas paskolas, išskyrus atvejus, kai lėšos gaunamos pagal paskolų sutartis, kuriose nustatyta kitaip. Perskolinamų paskolų sutartis su valstybės skolininkais pasirašo finansų ministras arba jo įgaliotas asmuo.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1696, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27553
+
+11. Vyriausybė arba jos įgaliota institucija turi teisę teikti perskolinamas paskolas, išskyrus atvejus, kai lėšos gaunamos pagal paskolų sutartis, kuriose nustatyta kitaip. Perskolinamų paskolų sutartis su valstybės skolininkais pasirašo finansų ministras arba jo įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1696, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27553
 
 12. Perskolinamų paskolų ir valstybės garantijų teikimo, suteiktų perskolinamų paskolų grąžinimo ir valstybės garantijų administravimo tvarką nustato Vyriausybė.
 
@@ -240,7 +256,11 @@ Nr. XIV-1342, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15416
 
 4) piniginio reikalavimo dalinio apmokėjimo finansuotojui, kurio paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, pagal faktoringo sutartis, skirtas kliento apyvartinėms lėšoms papildyti;
 
-5) dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą prekių, turinčių Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, pirkimo–pardavimo sutartį ir (ar) kredituojančio eksportuotojo sudarytą paslaugų teikimo sutartį sumokėjimo kredituojančiam eksportuotojui ar jį pagal faktoringo sutartį finansuojančiam finansuotojui ar draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimo;
+5) dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą Lietuvos Respublikoje pagamintų prekių pirkimo–pardavimo sutartį ir (ar) kredituojančio eksportuotojo sudarytą paslaugų teikimo sutartį sumokėjimo kredituojančiam eksportuotojui ar jį pagal faktoringo sutartį finansuojančiam finansuotojui arba draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
 
 6) piniginio reikalavimo dalinio apmokėjimo finansuotojui pagal įsigytas emitento, kurio paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, obligacijas, skirtas investicijoms finansuoti ir (ar) apyvartinėms lėšoms papildyti;
 
@@ -248,7 +268,15 @@ Nr. XIV-1342, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15416
 
 8) draudimo įmonės pagal laidavimo draudimo sutartį arba finansų įstaigos pagal finansinę garantiją sumokėtos draudimo arba garantijos išmokos dalies padengimo, kai laidavimo draudimas arba finansinė garantija buvo suteikta dėl prekių gamintojo, prekių tiekėjo, paslaugų teikėjo ar darbų rangovo pateikto pasiūlymo galiojimo, jo sudarytos sutarties įvykdymo, garantinio laikotarpio įsipareigojimų vykdymo, avanso grąžinimo arba apmokėjimo už prekes, suteiktas paslaugas ar atliktus darbus, gavimo;
 
-9) dalies atidėto mokėjimo pagal sudarytą prekių pirkimo–pardavimo sutartį ar sudarytą paslaugų teikimo sutartį sumokėjimo mokėjimo atidėjimą suteikusiam prekių gamintojui ar paslaugų teikėjui arba jį pagal faktoringo sutartį finansuojančiam finansuotojui ar draudimo įmonės prekinio kredito draudėjui sumokėtos draudimo išmokos dalies padengimo.
+9) dalies atidėto mokėjimo pagal sudarytą prekių pirkimo–pardavimo sutartį ar sudarytą paslaugų teikimo sutartį sumokėjimo mokėjimo atidėjimą suteikusiam prekių gamintojui ar paslaugų teikėjui arba jį pagal faktoringo sutartį finansuojančiam finansuotojui ar draudimo įmonės prekinio kredito draudėjui sumokėtos draudimo išmokos dalies padengimo;
+
+10) savo garantuotų paskolų, kurias finansų įstaigos gali pateikti kaip finansinį užstatą ar kitaip įkeisti Lietuvos bankui, užtikrindamos savo įsipareigojimus pagal Lietuvos banko suteiktas paskolas arba kitas Lietuvos banko operacijas už jo paskolas finansų įstaigai. Garantijų institucijos įsipareigojimai pagal suteiktą šiame punkte nurodytą garantiją yra vykdomi, jeigu šios garantijų institucijos garantuotos paskolos gavėjas neįvykdo visų ar dalies savo įsipareigojimų pagal individualia garantija garantuotą paskolą Lietuvos bankui arba kitai finansų įstaigai, kuriai Lietuvos bankas yra perleidęs pateiktas kaip finansinį užstatą ar kitaip įkeistas garantijų institucijos garantuotas paskolas.
+
+TAR pastaba. 4 straipsnio 4 dalies 10 punktas taikomas, kai garantijų institucijos garantuotos paskolos suteikiamos po įstatymo Nr. XIV-1164 įsigaliojimo dienos (2023-01-01).
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
 
 5. Šio straipsnio 4 dalyje nurodytos garantijos teikiamos vadovaujantis valstybės pagalbą reglamentuojančiais Europos Sąjungos teisės aktais.
 
@@ -631,6 +659,22 @@ Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIV-1342, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15416
+
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
+
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 ir 4 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1696, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27553
 
 Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 straipsnio pakeitimo įstatymas
 
