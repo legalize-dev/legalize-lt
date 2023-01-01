@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2022-12-24"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2022-12-24 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
 
@@ -55,21 +55,31 @@ Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
 
 Nr. XIV-93, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28942
 
-4. Specialus leidimas – viešosios tvarkos apsaugos komendantūros (savivaldybės administracijos direktoriaus) išduotas dokumentas, suteikiantis asmeniui ar transporto priemonei teisę būti tam tikru nustatytu laiku ir (ar) tam tikroje teritorijoje, kur yra įvesta nepaprastoji padėtis.
+4. Specialus leidimas – viešosios tvarkos apsaugos komendantūros arba, jeigu komendantūros nesteigiamos, institucijos, atsakingos už nepaprastosios padėties valdymą, ar jos įgaliotos institucijos išduotas dokumentas, suteikiantis asmeniui ar transporto priemonei teisę būti tam tikru nustatytu laiku ir (ar) tam tikroje teritorijoje, kur yra įvesta nepaprastoji padėtis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
 
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
+
 5. Komendanto valanda – paros laikas, kai teritorijoje, kurioje įvesta nepaprastoji padėtis, draudžiama būti viešose vietose be specialaus leidimo ir asmens dokumentų. Be specialaus leidimo teritorijoje, kurioje įvesta nepaprastoji padėtis, gali būti tik asmenys, išvardyti šio Įstatymo 22 straipsnio 2 dalyje.
 
-51. Krizė – išorės arba vidaus įvykių ar procesų nulemta situacija, kuri kelia grėsmę gyvybiniams ar pirmaeiliams Lietuvos Respublikos nacionalinio saugumo interesams. Ši sąvoka neapima situacijos, kai grėsmė valstybės suverenumui ar teritorijos vientisumui kyla dėl ginkluoto užpuolimo, įskaitant vietinio pobūdžio ginkluotus incidentus ir valstybės sienos pažeidimus, į kuriuos reaguojama naudojant karinę jėgą.
+51. Neteko galios nuo 2023-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
 
-6. Ekstremali situacija – padėtis, kuri atsiranda dėl gamtinio, techninio, ekologinio ar socialinio pobūdžio priežasčių ir sukelia staigų bei didelį pavojų žmonių gyvybei ar sveikatai, turtui, gamtai arba lemia žmonių žūtį, sužalojimą ar didelius turtinius nuostolius.
+6. Neteko galios nuo 2023-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 7. Laikinasis turto paėmimas ir turto rekvizicija suprantami taip, kaip jie apibrėžiami Lietuvos Respublikos karo padėties įstatyme.
 
@@ -79,7 +89,11 @@ Nr. XIII-3240, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15877
 
 3 straipsnis. Nepaprastosios padėties įvedimo pagrindas
 
-1. Nepaprastoji padėtis gali būti įvedama, kai dėl valstybėje susidariusios ekstremalios situacijos ar krizės kyla grėsmė Lietuvos Respublikos konstitucinei santvarkai ar visuomenės rimčiai ir šios grėsmės neįmanoma pašalinti nepanaudojus Konstitucijoje ir šiame Įstatyme nustatytų nepaprastųjų priemonių.
+1. Nepaprastoji padėtis gali būti įvedama, kai valstybėje kyla grėsmė Lietuvos Respublikos konstitucinei santvarkai ar visuomenės rimčiai ir šios grėsmės neįmanoma pašalinti nepanaudojus Konstitucijoje ir šiame Įstatyme įtvirtintų nepaprastųjų priemonių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 2. Nepaprastoji padėtis gali būti įvesta, kai šio straipsnio 1 dalyje nustatyta grėsmė Lietuvos Respublikos konstitucinei santvarkai ar visuomenės rimčiai kyla dėl kitose valstybėse susidariusios ekstremalios situacijos ar krizės.
 
@@ -107,17 +121,19 @@ NEPAPRASTOSIOS PADĖTIES ĮVEDIMO IR ATŠAUKIMO TVARKA
 
 1. Sprendimą įvesti nepaprastąją padėtį visoje valstybės teritorijoje ar jos dalyje priima Seimas, jeigu valstybėje iškyla grėsmė konstitucinei santvarkai ar visuomenės rimčiai. Tarp Seimo sesijų neatidėliotinais atvejais tokį sprendimą turi teisę priimti Respublikos Prezidentas, kartu šaukdamas neeilinę Seimo sesiją svarstyti šio klausimo. Seimas patvirtina arba panaikina Respublikos Prezidento sprendimą.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1544, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04364
-
-2. Seimas, tvirtindamas Respublikos Prezidento sprendimą įvesti nepaprastąją padėtį, gali pakeisti jo nuostatas, sumažindamas ar padidindamas:
+2. Seimas, tvirtindamas Respublikos Prezidento sprendimą įvesti nepaprastąją padėtį, gali pakeisti:
 
 1) teritoriją, kurioje įvedama nepaprastoji padėtis;
 
 2) nepaprastosios padėties trukmę;
 
-3) nustatytų konstitucinių teisių ir laisvių apribojimus bei nepaprastųjų priemonių, kurios gali būti taikomos, mastą.
+3) nustatytus konstitucinių teisių ir laisvių apribojimus ir nepaprastąsias priemones, kurios gali būti taikomos, arba jų taikymo mastą.
+
+3. Vyriausybė gali siūlyti Seimui, o tarp Seimo sesijų – Respublikos Prezidentui priimti sprendimą įvesti nepaprastąją padėtį. Vyriausybė teikia vienam iš šioje dalyje nurodytų subjektų sprendimo dėl nepaprastosios padėties įvedimo projektą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 7 straipsnis. Nutarimo ar Respublikos Prezidento dekreto dėl nepaprastosios padėties įvedimo turinys
 
@@ -137,7 +153,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. X-677, 2006-06-08, Žin., 2006, Nr. 72-2692 (2006-06-28), i. k. 1061010ISTA000X-677
 
-6) prireikus – siūlymas Vyriausybei panaudoti valstybės rezervą.
+6) prireikus – siūlymas Vyriausybei panaudoti valstybės rezervą;
+
+7) institucija, atsakinga už nepaprastosios padėties valdymą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 2. Respublikos Prezidento dekretas dėl nepaprastosios padėties įvedimo turi galią tik pasirašytas Ministro Pirmininko.
 
@@ -187,21 +209,25 @@ PADĖTIES METU
 
 1. Nepaprastosios padėties metu visoje Lietuvos Respublikos teritorijoje veikia Konstitucijos ir kitų įstatymų nustatytos bei nustatyta tvarka įsteigtos valstybės ir savivaldybių institucijos.
 
-2. Lietuvos Respublikos tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatytais atvejais ir tvarka nepaprastosios padėties metu savivaldybės teritorijoje (savivaldybių teritorijose), kurioje (kuriose) nepaprastoji padėtis įvesta, gali būti įvestas tiesioginis valdymas, o kai būtina, sudarytos viešosios tvarkos apsaugos komendantūros.
+2. Lietuvos Respublikos tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatytais atvejais ir tvarka nepaprastosios padėties metu savivaldybės teritorijoje (savivaldybių teritorijose), kurioje (kuriose) nepaprastoji padėtis įvesta, gali būti įvestas tiesioginis valdymas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-93, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28942
 
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
+
 13 straipsnis. Institucijos, užtikrinančios šio Įstatymo vykdymą
 
 Nepaprastosios padėties įstatymo vykdymą tiesiogiai užtikrina ir kontroliuoja šios institucijos:
 
-1) institucija, atsakinga už ekstremalios situacijos ar krizės valdymą;
+1) institucija, atsakinga už nepaprastosios padėties valdymą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 2) viešosios tvarkos apsaugos komendantūros;
 
@@ -211,37 +237,41 @@ Straipsnio punkto pakeitimai:
 
 Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
 
-14 straipsnis. Institucija, atsakinga už ekstremalių situacijų ar krizės valdymą
+14 straipsnis. Institucija, atsakinga už nepaprastosios padėties valdymą
 
-1. Įvedus nepaprastąją padėtį, institucija, atsakinga už ekstremalių situacijų ar krizės valdymą, imasi visų reikalingų priemonių nepaprastosios padėties įvedimo tikslui pasiekti. Institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, veikla apima visą valstybės teritoriją.
+1. Įvedus nepaprastąją padėtį, sprendime įvesti nepaprastąją padėtį nurodyta institucija, atsakinga už nepaprastosios padėties valdymą, imasi visų reikalingų priemonių nepaprastosios padėties įvedimo tikslui pasiekti. Institucijos, atsakingos už nepaprastosios padėties valdymą, veikla apima visą valstybės teritoriją.
 
-2. Institucija, atsakinga už ekstremalių situacijų ar krizės valdymą, nedelsdama imasi šalinti ekstremalios situacijos ar krizės priežastis, organizuoja žmonių ir jų turto apsaugą; iškilus būtinybei, organizuoja gyventojų evakuaciją iš gaivalinių nelaimių, katastrofų ar ginkluotų veiksmų zonos, suteikia kitą reikalingą neatidėliotiną pagalbą. Institucija, atsakinga už ekstremalių situacijų ar krizės valdymą, visais įmanomais būdais stengiasi sušvelninti ekstremalią situaciją ar krizę ir pašalinti jos padarinius.
+2. Institucija, atsakinga už nepaprastosios padėties valdymą, nedelsdama imasi priemonių, siekdama šalinti nepaprastosios padėties įvedimo priežastis, organizuoja žmonių ir jų turto apsaugą; iškilus būtinybei, organizuoja gyventojų evakuaciją iš stichinių nelaimių, katastrofų ar ginkluotų veiksmų zonos, suteikia kitą reikalingą neatidėliotiną pagalbą. Institucija, atsakinga už nepaprastosios padėties valdymą, visais įmanomais būdais stengiasi sušvelninti ir pašalinti nepaprastosios padėties padarinius, koordinuoja viešosios tvarkos komendantūrų veiklą.
 
-3. Prireikus institucija, atsakinga už ekstremalių situacijų ar krizės valdymą, nepaprastosios padėties tikslams pasiekti steigia viešosios tvarkos apsaugos komendantūras ir koordinuoja jų veiklą. Prireikus institucija, atsakinga už ekstremalių situacijų ar krizės valdymą, į pagalbą gali pasitelkti ir kitoms valstybės institucijoms pavaldžias tarnybas bei techniką ir joms vadovauti.
+3. Prireikus nepaprastosios padėties tikslams pasiekti institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas steigia viešosios tvarkos apsaugos komendantūras, į pagalbą gali pasitelkti ir kitoms valstybės ir savivaldybių institucijoms pavaldžias tarnybas bei techniką ir joms vadovauti.
 
-4. Nepaprastosios padėties metu institucijai, atsakingai už ekstremalių situacijų ar krizės valdymą, vadovauja Vyriausybės skiriamas asmuo. Jis užtikrina operatyvų vadovavimą visai šios institucijos veiklai. Institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovo pagal savo kompetenciją duoti teisėti nurodymai ir išleisti įsakymai yra privalomi visoms valstybės ir savivaldybių institucijoms, viešosios tvarkos apsaugos komendantūroms bei fiziniams ir juridiniams asmenims. Asmenys, nevykdantys šios institucijos nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka.
-
-5. Šio straipsnio 1 dalyje nurodytos institucijos įgaliojimus ir funkcijas nustato šis Įstatymas ir šios institucijos nuostatai. Institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, steigėja yra Vyriausybė. Ši institucija veikia pagal Vyriausybės patvirtintus nuostatus.
+4. Institucijos, atsakingos už nepaprastosios padėties valdymą, vadovo duoti teisėti nurodymai ir išleisti įsakymai yra privalomi visoms valstybės ir savivaldybių institucijoms, viešosios tvarkos apsaugos komendantūroms bei fiziniams ir juridiniams asmenims. Asmenys, nevykdantys šios institucijos nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
 
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
+
 15 straipsnis. Viešosios tvarkos apsaugos komendantūros
 
 1. Šio Įstatymo 3 straipsnyje nurodytai grėsmei Lietuvos Respublikos konstitucinei santvarkai ar visuomenės rimčiai pašalinti, valstybės ir savivaldybių institucijų darbui koordinuoti taikant Įstatymo nustatytas nepaprastąsias priemones visoje valstybės teritorijoje ar jos dalyje (atskiruose valstybės teritorijos administraciniuose vienetuose, pasienio ruože ar kitose valstybės teritorijos dalyse) nepaprastosios padėties metu gali būti įsteigtos viešosios tvarkos apsaugos komendantūros (toliau – komendantūros).
 
-2. Komendantūros yra pavaldžios institucijai, atsakingai už ekstremalių situacijų ar krizės valdymą.
+2. Komendantūros yra pavaldžios institucijai, atsakingai už nepaprastosios padėties valdymą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
 
-3. Komendantūrų darbą organizuoja ir jų veiklai vadovauja institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovo teikimu Ministro Pirmininko paskirtas vyriausiasis komendantas. Vyriausiasis komendantas skiria komendantūrų komendantus.
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
+
+3. Komendantūrų darbą organizuoja ir jų veiklai vadovauja institucijos, atsakingos už nepaprastosios padėties valdymą, vadovo teikimu Ministro Pirmininko paskirtas vyriausiasis komendantas. Vyriausiasis komendantas skiria komendantūrų komendantus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 4. Komendantūroje dirbantys valstybės ir savivaldybių institucijų darbuotojai yra tiesiogiai pavaldūs tos komendantūros komendantui ir privalo vykdyti visus jo teisėtus nurodymus bei įsakymus.
 
@@ -261,23 +291,31 @@ Nr. XIV-93, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28942
 
 1. Šio Įstatymo normų vykdymą savivaldybėse užtikrina ir už tai yra tiesiogiai atsakingi savivaldybių administracijų direktoriai.
 
-2. Savivaldybės administracijos direktorius įgyvendina institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą nurodytose vietose, nurodymus, organizuoja stichinių nelaimių, avarijų, masinių neramumų likvidavimo, paieškos ir gelbėjimo darbus ir taiko kitas nepaprastosios padėties priemones.
+2. Savivaldybės administracijos direktorius įgyvendina institucijos, atsakingos už nepaprastosios padėties valdymą, vadovo nurodymus, organizuoja stichinių nelaimių, avarijų, masinių neramumų likvidavimo, paieškos ir gelbėjimo darbus ir įgyvendina nepaprastosios padėties priemones.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
 
-3. Savivaldybių administracijų direktorių veiksmus įgyvendinant nepaprastosios padėties priemones koordinuoja institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovas ar jo įgaliotas asmuo.
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
+
+3. Savivaldybių administracijų direktorių veiksmus įgyvendinant nepaprastosios padėties priemones koordinuoja institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas ar jo įgaliotas asmuo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 4. Savivaldybės administracijos direktoriaus teisėti nurodymai ir įsakymai dėl žmonių gyvybės gelbėjimo, jų sveikatos ir turto apsaugos, viešosios tvarkos ir visuomenės rimties užtikrinimo nepaprastosios padėties metu yra privalomi visoms savivaldybės teritorijoje esančioms valstybės ir savivaldybių institucijoms, fiziniams ir juridiniams asmenims. Šio Įstatymo 15 straipsnio 5 dalyje nurodyti komendantų nurodymai savivaldybių administracijų direktoriams yra privalomi.
 
 5. Asmenys, nevykdantys teisėtų savivaldybės administracijos direktoriaus nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka.
 
-6. Jeigu nepaprastosios padėties metu komendantūros nėra steigiamos, savivaldybių administracijų direktoriai turi teisę išduoti specialius leidimus, taip pat nustatyti privalomuosius darbus, nurodytus šio Įstatymo 27 straipsnyje.
+6. Jeigu nepaprastosios padėties metu komendantūros nėra steigiamos, institucija, atsakinga už nepaprastosios padėties valdymą, ar jos įgaliota institucija, turi teisę išduoti specialius leidimus, o šios institucijos vadovas – nustatyti privalomuosius darbus, nurodytus šio Įstatymo 27 straipsnyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 Straipsnio pakeitimai:
 
@@ -319,33 +357,35 @@ Nr. XI-2253, 2012-10-02, Žin., 2012, Nr. 122-6112 (2012-10-20), i. k. 1121010IS
 
 20 straipsnis. Žmogaus teisės naudotis būsto neliečiamumu apribojimas
 
-1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad nepaprastosios padėties metu, siekiant pašalinti ekstremalios situacijos ar krizės padarinius ar užtikrinti visuomenės saugumą ir viešąją tvarką, komendantūros pareigūnai turi teisę bet kuriuo paros laiku įeiti į asmens būstą be jo sutikimo.
+1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad nepaprastosios padėties metu, siekiant pašalinti nepaprastosios padėties padarinius ar užtikrinti visuomenės saugumą ir viešąją tvarką, komendantūros pareigūnai turi teisę bet kuriuo paros laiku įeiti į asmens būstą be jo sutikimo.
 
-2. Institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovas, komendantai turi teisę panaudoti būstą komendantūros pareigūnams, asmenims, pasitraukusiems iš savo gyvenamųjų vietų, apgyvendinti užtikrinant šių būstų gyventojams galimybę toliau gyventi šiuose būstuose arba perkelti gyventojus į kitus gyventi tinkamus būstus. Nepaprastajai padėčiai pasibaigus, būsto savininko reikalavimu šiais veiksmais padarytą žalą atlygina valstybė Vyriausybės nustatyta tvarka.
+2. Institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas, komendantai turi teisę panaudoti būstą komendantūros pareigūnams, asmenims, pasitraukusiems iš savo gyvenamųjų vietų, apgyvendinti užtikrinant šių būstų gyventojams galimybę toliau gyventi šiuose būstuose arba perkelti gyventojus į kitus gyventi tinkamus būstus. Nepaprastajai padėčiai pasibaigus, būsto savininko reikalavimu šiais veiksmais padarytą žalą atlygina valstybė Vyriausybės nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
 
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
+
 21 straipsnis. Teisės reikšti savo įsitikinimus, ieškoti informacijos ir ją gauti ar skleisti apribojimas
 
-1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad ieškoti, gauti, skleisti informaciją apie ekstremalią situaciją ar krizę arba valstybės institucijų ir pareigūnų, komendantūrų veiksmus leidžiama tik atitinkamų valstybės institucijų vadovų sutikimu ar leidimu.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
+1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad ieškoti, gauti, skleisti informaciją apie nepaprastąją padėtį arba valstybės institucijų ir pareigūnų, komendantūrų veiksmus leidžiama tik atitinkamų valstybės institucijų vadovų sutikimu ar leidimu.
 
 2. Nepaprastosios padėties metu, išskyrus įstatymų nustatytus atvejus, gali būti apribota asmens teisė gauti valstybės institucijų turimą apie jį informaciją.
 
-3. Komendantūrų komendantai kontroliuoja, kaip laikomasi šiame straipsnyje nustatytų apribojimų. Jei nepaprastosios padėties metu komendantūros nėra steigiamos, savivaldybių administracijų direktoriai kontroliuoja, kaip laikomasi šiame straipsnyje nustatytų apribojimų.
+3. Komendantūrų komendantai kontroliuoja, kaip laikomasi šiame straipsnyje nustatytų apribojimų. Jeigu nepaprastosios padėties metu komendantūros nėra steigiamos, institucija, atsakinga už nepaprastosios padėties valdymą, ar jos įgaliota institucija kontroliuoja, kaip laikomasi šiame straipsnyje nustatytų apribojimų.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 22 straipsnis. Laisvės kilnotis apribojimas
 
-1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad įvedus nepaprastąją padėtį visoje valstybės teritorijoje ar jos dalyje asmenys neturi teisės be specialaus leidimo pakeisti savo nuolatinės gyvenamosios vietos, išskyrus atvejus, kai pasitraukiama iš nepaprastosios padėties teritorijos arba šie asmenys evakuojami. Leidimus pakeisti nuolatinę gyvenamąją vietą nepaprastosios padėties metu išduoda komendantūrų komendantai, o jeigu komendantūros nesteigiamos, – savivaldybių administracijų direktoriai.
+1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad įvedus nepaprastąją padėtį visoje valstybės teritorijoje ar jos dalyje asmenys neturi teisės be specialaus leidimo pakeisti savo nuolatinės gyvenamosios vietos, išskyrus atvejus, kai pasitraukiama iš nepaprastosios padėties teritorijos arba šie asmenys evakuojami. Leidimus pakeisti nuolatinę gyvenamąją vietą nepaprastosios padėties metu išduoda komendantūrų komendantai, o jeigu komendantūros nesteigiamos, – institucija, atsakinga už nepaprastosios padėties valdymą, ar jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 2. Specialaus leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, Vyriausybės įgaliotiniui (įgaliotiniams), Vyriausybės įgaliotinio pavaduotojui (pavaduotojams), taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, savivaldybių administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus tarnybos sistemos ir prokuratūros pareigūnams, krašto apsaugos sistemos institucijų kariams ir valstybės tarnautojams, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnams.
 
@@ -375,11 +415,13 @@ Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA
 
 2. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad nepaprastosios padėties metu asmenims draudžiama vienytis į politines partijas ir politines organizacijas, visuomenines organizacijas ar asociacijas, jei dėl jų veiklos kyla grėsmė Lietuvos Respublikos konstitucinei santvarkai ar visuomenės rimčiai.
 
-3. Sprendimus dėl šio straipsnio 1 ir 2 dalyse nustatytų apribojimų visoje valstybės teritorijoje priima vyriausiasis komendantas, o valstybės teritorijos dalyje – atitinkamos teritorijos komendantūros komendantas. Jeigu komendantūros nesteigiamos, sprendimus dėl šio straipsnio 1 ir 2 dalyse nustatytų apribojimų priima institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovas.
+3. Sprendimus dėl šio straipsnio 1 ir 2 dalyse nustatytų apribojimų visoje valstybės teritorijoje priima vyriausiasis komendantas, o valstybės teritorijos dalyje – atitinkamos teritorijos komendantūros komendantas. Jeigu komendantūros nesteigiamos, sprendimus dėl šio straipsnio 1 ir 2 dalyse nustatytų apribojimų priima institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 25 straipsnis. Teisės rinktis į susirinkimus apribojimas
 
@@ -389,13 +431,15 @@ Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prez
 
 Nepaprastosios padėties metu asmenys su savimi visada privalo turėti asmens tapatybę patvirtinančius dokumentus. Asmenys, neturintys su savimi asmens tapatybę patvirtinančių dokumentų, gali būti sulaikomi, kol bus nustatytas asmens tapatumas, bet ne ilgiau kaip 24 valandoms.
 
-27 straipsnis. Privalomieji darbai nepaprastosios padėties metu
+27 straipsnis. Privalomieji darbai nepaprastosios padėties metu
 
-Vyriausiasis komendantas ar komendantai pagal savo kompetenciją nepaprastosios padėties metu darbingiems asmenims gali nustatyti privalomuosius gelbėjimo darbus, siekiant evakuoti gyventojus, gelbėti juos bei turtą, ir šių darbų organizavimo tvarką. Jeigu komendantūros nėra steigiamos, privalomuosius darbus nepaprastosios padėties metu gali nustatyti savivaldybių administracijų direktoriai. Už tokius darbus gali būti atlyginama teisės aktų nustatyta tvarka.
+Vyriausiasis komendantas ar komendantai pagal savo kompetenciją nepaprastosios padėties metu darbingiems asmenims gali nustatyti privalomuosius gelbėjimo darbus, siekiant evakuoti gyventojus, gelbėti juos bei turtą, ir šių darbų organizavimo tvarką. Jeigu komendantūros nėra steigiamos, privalomuosius darbus nepaprastosios padėties metu gali nustatyti institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas. Už tokius darbus gali būti atlyginama teisės aktų nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 28 straipsnis. Nepaprastosios padėties metu taikomos nepaprastosios priemonės
 
@@ -473,7 +517,11 @@ NEPAPRASTOSIOS PADĖTIES METU
 
 29 straipsnis. Teisės normų taikymo ypatumai nepaprastosios padėties metu
 
-1. Nepaprastosios padėties metu galioja Lietuvos Respublikos įstatymai, išskyrus šio Įstatymo nustatytas išimtis.
+1. Nepaprastosios padėties metu galioja Lietuvos Respublikos įstatymai ir kiti teisės aktai, išskyrus šio Įstatymo nustatytas išimtis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 2. Nepaprastosios padėties metu negali būti keičiama Konstitucija.
 
@@ -481,19 +529,27 @@ NEPAPRASTOSIOS PADĖTIES METU
 
 4. Teisės aktai, reglamentuojantys konkrečios nepaprastosios padėties nuostatas, jai pasibaigus netenka galios.
 
+5. Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo nuostatos šio Įstatymo reglamentuojamiems santykiams nepaprastosios padėties metu taikomos tiek, kiek jų nereglamentuoja šis Įstatymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
+
 30 straipsnis. Seimo vykdoma nepaprastosios padėties kontrolė
 
 Seimas nepaprastosios padėties parlamentinę kontrolę vykdo šiame ir kituose įstatymuose nustatyta tvarka. Prireikus Seimas sudaro specialią nepaprastosios padėties kontrolės komisiją – Seimo stebėtojus ir nustato jų įgaliojimus.
 
 31 straipsnis. Respublikos Prezidento ir Vyriausybės vykdoma nepaprastosios padėties kontrolė
 
-Respublikos Prezidentas ir Vyriausybė nepaprastosios padėties kontrolę vykdo per Vidaus reikalų ministeriją, Krašto apsaugos ministeriją, Valstybės saugumo departamentą, Vyriausybės įgaliotinį (įgaliotinius) ir kitas valstybės institucijas, taip pat per instituciją, atsakingą už ekstremalių situacijų ar krizės valdymą, komendantūras, koordinuodami ir kontroliuodami jų veiklą vykdant priemones, skirtas susidariusiai padėčiai normalizuoti, gyventojų teisėms ir teisėtiems interesams, konstitucinei santvarkai ar visuomenės rimčiai užtikrinti.
+Respublikos Prezidentas ir Vyriausybė nepaprastosios padėties kontrolę vykdo per Vidaus reikalų ministeriją, Krašto apsaugos ministeriją, Valstybės saugumo departamentą, Vyriausybės įgaliotinį (įgaliotinius) ir kitas valstybės institucijas, taip pat per instituciją, atsakingą už nepaprastosios padėties valdymą, komendantūras, koordinuodami ir kontroliuodami jų veiklą vykdant priemones, skirtas susidariusiai padėčiai normalizuoti, gyventojų teisėms ir teisėtiems interesams, konstitucinei santvarkai ar visuomenės rimčiai užtikrinti.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
 
 Nr. XIV-93, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28942
+
+Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 32 straipsnis. Teisingumo vykdymas ir teismų veikla nepaprastosios padėties metu
 
