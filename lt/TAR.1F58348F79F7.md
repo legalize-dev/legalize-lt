@@ -4,7 +4,7 @@ identifier: "TAR.1F58348F79F7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2022-07-12"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2022-07-12 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-03-06
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
 
@@ -787,8 +787,6 @@ Iš valstybės biudžeto už pensijų fondo dalyvį mokamos pensijų įmokos dyd
 
 1,5
 
-part_d8c49221dd5f42459fefab5670edb273_end
-
 Pakeitimai:
 
 1.
@@ -1019,7 +1017,11 @@ Pensijų kaupimo bendrovės iki 2007 m. liepos 1 d. privalo parengti ir prieži�
 
 4) kitos teisėtai gautos lėšos.
 
-3. Pensijų anuitetų fondo lėšos kaupiamos kredito įstaigos sąskaitose atskirai nuo kitų VSDF valdybos ir VSDF administravimo įstaigų valdomų lėšų. Į šias lėšas negali būti nukreipiamas išieškojimas pagal prievoles, nesusijusias su pensijų anuitetų mokėjimo veikla, ir bet kokių laikinųjų apsaugos priemonių taikymas.
+3. Pensijų anuitetų fondo lėšos laikomos, kaip nustatyta Lietuvos Respublikos valstybės iždo įstatyme, įstaigos tvarkomose sąskaitose valstybės ižde ir (arba) finansų įstaigos sąskaitose atskirai nuo kitų VSDF valdybos ir VSDF administravimo įstaigų valdomų lėšų. Į šias lėšas negali būti nukreipiamas išieškojimas pagal prievoles, nesusijusias su pensijų anuitetų mokėjimo veikla, ir bet kokių laikinųjų apsaugos priemonių taikymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-659, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24261
 
 4. Pensijų anuitetų fondo lėšos gali būti naudojamos tik:
 
