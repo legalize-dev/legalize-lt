@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2022-09-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
 
@@ -231,19 +231,17 @@ Straipsnio pakeitimai:
 
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 
-7 straipsnis. Notarų ir jų savivaldos institucijų veiklos tarnybinė priežiūra
+7 straipsnis. Notarų ir jų savivaldos institucijų veiklos priežiūra
 
-Notarų ir jų savivaldos institucijų veiklos tarnybinę priežiūrą atlieka Lietuvos Respublikos teisingumo ministro paskirti asmenys.
+Lietuvos Respublikos teisingumo ministerija analizuoja notarinių veiksmų ir notarų pajamų už atliktus notarinius veiksmus statistiką ir atlieka šio straipsnio antrojoje dalyje numatytą notarų veiklos tarnybinę priežiūrą.
 
-Lietuvos Respublikos teisingumo ministerija analizuoja notarinių veiksmų ir notarų pajamų už atliktus notarinius veiksmus statistiką bei atlieka šiame straipsnyje numatytą notarų veiklos priežiūrą. Notarų veiklos priežiūra atliekama Lietuvos Respublikos teisingumo ministro nustatyta tvarka. Lietuvos Respublikos teisingumo ministro paskirti asmenys kontroliuoja, kaip notarai laikosi notarų biurams ir notarų darbo laikui keliamų reikalavimų, organizuoja asmenų priėmimą, laikosi notarinio registro, tvirtinamųjų įrašų ir notarinių liudijimų formų pildymo taisyklių, parengia, tvarko, saugo ir naudoja savo veikloje sudarytus dokumentus, laikosi kitų Lietuvos Respublikos teisingumo ministro patvirtintais teisės aktais nustatytų notaro profesinės veiklos reikalavimų. Į notarų veiklos priežiūrą neįeina notarų atliekamų notarinių veiksmų teisėtumo priežiūra.
+Kaip notarai laikosi notarų biurams ir notarų darbo laikui keliamų reikalavimų, organizuoja asmenų priėmimą, laikosi notarinio registro, tvirtinamųjų įrašų ir notarinių liudijimų formų pildymo taisyklių, rengia, tvarko, saugo ir naudoja savo veikloje sudarytus dokumentus, laikosi kitų Lietuvos Respublikos teisingumo ministro patvirtintuose teisės aktuose nustatytų notarų profesinės veiklos reikalavimų, pagal kompetenciją Lietuvos Respublikos teisingumo ministro nustatyta tvarka kontroliuoja Lietuvos Respublikos teisingumo ministerija ir Notarų rūmai. Į notarų veiklos tarnybinę priežiūrą neįeina notarų atliekamų notarinių veiksmų teisėtumo priežiūra.
 
-Straipsnio dalies pakeitimai:
+Lietuvos Respublikos teisingumo ministerija ir Notarų rūmai, atlikdami notarų veiklos tarnybinę priežiūrą, turi teisę reikalauti iš notarų pasiaiškinti dėl pažeidimų ir trūkumų, susijusių su šio straipsnio antrojoje dalyje nurodyta notarų profesine veikla.
 
-Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+Lietuvos Respublikos teisingumo ministerija notarų savivaldos institucijų priežiūrą atlieka šio įstatymo 11 straipsnyje nustatyta tvarka.
 
-Lietuvos Respublikos teisingumo ministro paskirti asmenys, atlikdami notarų veiklos tarnybinę priežiūrą, turi teisę reikalauti iš notarų pasiaiškinti dėl pažeidimų ir trūkumų, susijusių su šio straipsnio 2 dalyje nurodyta notaro profesine veikla.
-
-Notarų savivaldos institucijų priežiūra atliekama šio įstatymo 11 straipsnyje nustatyta tvarka.
+Notarų savivaldos institucijų valstybinį auditą atlieka Valstybės kontrolė Lietuvos Respublikos valstybės kontrolės įstatymo nustatytais atvejais ir tvarka.
 
 Straipsnio pakeitimai:
 
@@ -252,6 +250,10 @@ Nr. VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
 Nr. IX-778, 2002-03-12, Žin., 2002, Nr. 31-1126 (2002-03-27)
 
 Nr. IX-1311, 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1715, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27560
 
 8 straipsnis. Notarų rūmai ir jų statuto priėmimo tvarka
 
@@ -1125,9 +1127,29 @@ Nekilnojamųjų ar kilnojamųjų daiktų, kuriems įstatymų nustatyta privaloma
 
 Notaras tvirtina sandorį, susijusį su sutuoktinių bendrąja jungtine nuosavybe, jei Civilinio kodekso nustatytais atvejais sandorį sudaro abu sutuoktiniai arba vienas iš sutuoktinių turi kito sutuoktinio įgaliojimą sudaryti tokį sandorį, arba yra kito sutuoktinio rašytinis sutikimas, arba yra teismo leidimas.
 
-Sandorį dėl nekilnojamojo daikto, kuris yra vieno sutuoktinio asmeninė nuosavybė ir tas daiktas priskirtas šeimos turtui, perleidimo, įkeitimo ar kitokio teisių į jį suvaržymo notaras tvirtina tik tada, kai yra kito sutuoktinio rašytinis sutikimas. Jeigu šeimoje yra nepilnamečių vaikų, sandorį dėl nekilnojamojo daikto, kuris yra šeimos turtas, notaras tvirtina tada, kai yra teismo leidimas.
+Sandorį dėl nekilnojamojo daikto, kuris yra vieno sutuoktinio asmeninė nuosavybė ir priskirtas šeimos turtui, perleidimo, įkeitimo ar kitokio teisių į jį suvaržymo notaras tvirtina tik tada, kai yra kito sutuoktinio rašytinis sutikimas. Jeigu šeimoje yra nepilnamečių vaikų, sandorį dėl nekilnojamojo daikto, kuris yra šeimos turtas, notaras tvirtina tada, kai sutuoktiniai pateikia reikiamą informaciją ir ją pagrindžiančius dokumentus (dokumentus, patvirtinančius šeimos turtinę padėtį (pajamas, santaupas, kitą turtą, prievoles), duomenis apie perleidžiamą šeimos turtą, būsimo sandorio įvykdymo galimybes ir vaiko teisių apsaugos galimybes tuo atveju, jei sandoris nebus įvykdytas, ir kitus reikalingus duomenis), kad dėl tokio sandorio nepilnametis vaikas nebus paliktas be gyvenamojo būsto ir nebus pažeista jo teisė į gyvenimo sąlygas, būtinas jo fiziniam, protiniam, dvasiniam ir doroviniam vystymuisi užtikrinti. Prieš tvirtindamas sandorį dėl nekilnojamojo daikto, kuris yra šeimos turtas, kai šeimoje yra nepilnamečių vaikų, notaras Socialinės paramos šeimai informacinėje sistemoje patikrina duomenis apie nustatytus vaiko teisių pažeidimus, tėvų valdžios ribojimą bei apie tai, ar šeima iki 2018 m. birželio 30 d. buvo įtraukta į socialinės rizikos šeimų apskaitą, taip pat vaiko situacijos vertinimo rezultatus ir (ar) nepilnamečiam vaikui nustatytą globą (rūpybą). Jeigu yra nustatytas bent vienas iš šioje dalyje nurodytų atvejų, notaras kreipiasi į valstybinę vaiko teisių apsaugos instituciją ir prašo pateikti informaciją, su kokiais galimais vaiko teisių pažeidimais yra susijęs tas atvejis. Valstybinė vaiko teisių apsaugos institucija šioje dalyje nurodytą informaciją notarui pateikia ne vėliau kaip per penkias darbo dienas nuo jo kreipimosi gavimo dienos. Gavęs informaciją iš valstybinės vaiko teisių apsaugos institucijos, notaras įvertina, ar sudarius šį sandorį bus užtikrinta tinkama nepilnamečio vaiko teisių ir interesų apsauga.
 
-Sandorius, susijusius su nepilnamečio vaiko turtu, Civilinio kodekso nustatytais atvejais notaras tvirtina tik tada, kai yra išankstinis teismo leidimas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1347, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15442
+
+Sandorius, susijusius su nepilnamečio vaiko turtu, Civilinio kodekso nustatytais atvejais notaras tvirtina tik tada, kai tėvai pateikia reikiamą informaciją ir ją pagrindžiančius dokumentus (dokumentus, patvirtinančius vaiko turtinę padėtį (pajamas, santaupas, kitą turtą, prievoles), duomenis apie vaiko turtą, dėl kurio sudaromas sandoris, būsimo sandorio įvykdymo galimybes ir vaiko teisių apsaugos galimybes tuo atveju, jei sandoris nebus įvykdytas, ir kitus reikalingus duomenis), kad toks sandoris atitinka nepilnamečio vaiko interesus. Prieš tvirtindamas Civilinio kodekso 3.188 straipsnio 1 dalyje nurodytą sandorį, notaras Socialinės paramos šeimai informacinėje sistemoje patikrina duomenis apie nustatytus vaiko teisių pažeidimus, tėvų valdžios ribojimą bei apie tai, ar šeima iki 2018 m. birželio 30 d. buvo įtraukta į socialinės rizikos šeimų apskaitą, taip pat vaiko situacijos vertinimo rezultatus ir (ar) nepilnamečiam vaikui nustatytą globą (rūpybą). Jeigu yra nustatytas bent vienas iš šioje dalyje nurodytų atvejų, notaras kreipiasi į valstybinę vaiko teisių apsaugos instituciją ir prašo pateikti informaciją, su kokiais galimais vaiko teisių pažeidimais yra susijęs tas atvejis. Valstybinė vaiko teisių apsaugos institucija šioje dalyje nurodytą informaciją notarui pateikia ne vėliau kaip per penkias darbo dienas nuo jo kreipimosi gavimo dienos. Gavęs informaciją iš valstybinės vaiko teisių apsaugos institucijos, notaras įvertina, ar sudarius šį sandorį bus užtikrinta tinkama nepilnamečio vaiko teisių ir interesų apsauga.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1347, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15442
+
+Notaras, nustatęs, kad sudarius šio straipsnio 3 ir 4 dalyse nurodytus sandorius nebus užtikrinta tinkama nepilnamečio vaiko teisių ir interesų apsauga, atsisako atlikti notarinį veiksmą šio įstatymo 40 straipsnyje nustatyta tvarka. Notaro atsisakymas atlikti notarinį veiksmą registruojamas Notarų rūmų informacinių technologijų platformoje. Asmuo turi teisę notaro atsisakymą atlikti notarinį veiksmą apskųsti teismui Civilinio proceso kodekso 511 straipsnyje nustatyta tvarka. Notaro atsisakymas atlikti notarinį veiksmą neatima iš asmens teisės, pasikeitus aplinkybėms, pakartotinai kreiptis į notarinį veiksmą atsisakiusį atlikti notarą dėl to paties notarinio veiksmo atlikimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1347, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15442
+
+Notaras, atsisakęs tvirtinti šio straipsnio 3 ir 4 dalyse nurodytus sandorius, Civilinio kodekso 3.185 straipsnio 3 dalyje ar 3.250 straipsnio 1 dalyje nurodytais atvejais ne vėliau kaip per penkias darbo dienas nuo atsisakymo atlikti notarinį veiksmą informuoja apie tai valstybinę vaiko teisių apsaugos instituciją.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1347, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15442
 
 Nuosavybės teisės į nekilnojamąjį daiktą perleidimo sutartyse notaras nurodo sutarties sudarymo laiką (valandas ir minutes). Šiose sutartyse taip pat nurodoma, kad nuosavybės teisė į nekilnojamąjį daiktą įgijėjui pereina nuo daikto perdavimo momento, o sutarties šalys prieš trečiuosius asmenis nuosavybės teisės į nekilnojamąjį daiktą perleidimo sutartį gali panaudoti tik tuo atveju, jei nuosavybės teisės perėjimo faktas daikto priėmimo-perdavimo akto ar kito dokumento pagrindu įstatymų nustatyta tvarka įregistruotas viešame registre. Duomenis apie patvirtintą sutartį notaras perduoda viešo registro tvarkytojui per 24 valandas nuo sutarties patvirtinimo momento teisės aktų nustatyta tvarka.
 
