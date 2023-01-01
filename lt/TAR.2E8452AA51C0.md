@@ -4,7 +4,7 @@ identifier: "TAR.2E8452AA51C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-09-19"
-last_updated: "2020-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E8452AA51C0"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešojo saugumo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-11-22
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 102-3935, i. k. 1061010ISTA000X-813
 
@@ -39,7 +39,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
 
-2. Ypatinga situacija – riaušės, masiniai neramumai, grupiniai veiksmai, kuriais pažeidžiama viešoji tvarka ar priešinamasi teisėsaugos pareigūnams, riaušės laisvės atėmimo vietoje ar grupinis pasipriešinimas laisvės atėmimo vietos administracijai, kai jų metu vyksta pogromai, padegimai, įkaitų grobimai ir kitokie tyčiniai veiksmai, taip pat laisvės atėmimo vietoje laikomų asmenų pabėgimas, įkaitų paėmimas ar kitokie tyčiniai veiksmai, šiurkščiai pažeidžiantys laisvės atėmimo vietų vidaus tvarką.
+2. Ypatingoji situacija – riaušės, masiniai neramumai, grupiniai veiksmai, kuriais pažeidžiama viešoji tvarka ar priešinamasi teisėsaugos pareigūnams, riaušės laisvės atėmimo vietų įstaigoje ar grupinis pasipriešinimas šios įstaigos administracijai, per kuriuos smurtaujama, padegami objektai, grobiami įkaitai ir atliekami kitokie tyčiniai veiksmai, taip pat laisvės atėmimo vietų įstaigoje laikomų asmenų pabėgimas, įkaitų paėmimas ar kitokie tyčiniai veiksmai, šiurkščiai pažeidžiantys įstaigos vidaus tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
 
 3. Prievarta – Tarnybos veiklos metodas, kuriuo siekiama įgyvendinti Tarnybos uždavinius ir kuris taikomas, kai nevykdomi Tarnybos pareigūno reikalavimai ar nurodymai arba siekiama išvengti pavojaus. Tarnybos pareigūnas šio įstatymo nustatytais atvejais ir tvarka gali naudoti psichinę ir (ar) fizinę prievartą.
 
@@ -59,7 +63,11 @@ Straipsnio dalies naikinimas:
 
 Nr. XII-2371, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14174
 
-6. Sulaikymas – Tarnybos funkcijas atliekančio Tarnybos pareigūno veiksmai, kuriais fiziškai apribojama nusikalstamos veikos padarymu įtariamo asmens ar ją padariusio asmens, pabėgusio iš laisvės atėmimo vietos ar konvojavimo metu, taip pat atsisakančio įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, laisvė siekiant nutraukti neteisėtus veiksmus ir perduoti tą asmenį policijos ar kitų kompetentingų įstaigų pareigūnams.
+6. Sulaikymas – Viešojo saugumo tarnybos funkcijas atliekančio šios tarnybos pareigūno veiksmai, kuriais fiziškai apribojama nusikalstamos veikos padarymu įtariamo asmens ar ją padariusio asmens, pabėgusio iš laisvės atėmimo vietų įstaigos ar konvojavimo metu, taip pat atsisakančio įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, laisvė siekiant nutraukti neteisėtus tokio asmens veiksmus ir perduoti jį policijos ar kitų kompetentingų įstaigų pareigūnams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
 
 7. Svarbus valstybės objektas – nacionaliniam saugumui užtikrinti svarbi įmonė, įrenginys ir (ar) turtas, taip pat Lietuvos Respublikos valstybės ar savivaldybės institucijos ar įstaigos pastatas, teritorija, infrastruktūra ar kitas objektas, kurių sunaikinimas, pažeidimas ar veiklos sutrikdymas sukeltų grėsmę nacionaliniam saugumui ar pažeistų valstybės interesus.
 
@@ -149,21 +157,43 @@ Nr. XIII-2926, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10935
 
 Tarnyba, įgyvendindama jai pavestus uždavinius:
 
-1) slopina riaušes, masinius neramumus, grupinius veiksmus, kuriais pažeidžiama viešoji tvarka ar priešinamasi teisėsaugos pareigūnams, riaušes laisvės atėmimo vietose ar grupinius pasipriešinimus laisvės atėmimo vietų administracijai, taip pat kitokius tyčinius veiksmus, šiurkščiai pažeidžiančius laisvės atėmimo vietų vidaus tvarką, išlaisvina įkaitus;
+1) slopina riaušes, masinius neramumus, grupinius veiksmus, kuriais pažeidžiama viešoji tvarka ar priešinamasi teisėsaugos pareigūnams, riaušes laisvės atėmimo vietų įstaigoje ar grupinius pasipriešinimus laisvės atėmimo vietų įstaigos administracijai, taip pat kitokius tyčinius veiksmus, šiurkščiai pažeidžiančius laisvės atėmimo vietų įstaigos vidaus tvarką, išlaisvina įkaitus;
 
-2) ypatingų ir ekstremaliųjų situacijų atvejais užkerta kelią veiksmams, keliantiems pavojų žmonių gyvybei ar sveikatai, turtui, gamtai arba šiurkščiai pažeidžiantiems viešąją tvarką ar laisvės atėmimo vietos vidaus tvarką;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
+
+2) ypatingųjų ir ekstremaliųjų situacijų atvejais užkerta kelią veiksmams, keliantiems pavojų žmonių gyvybei ar sveikatai, turtui, gamtai arba šiurkščiai pažeidžiantiems viešąją tvarką ar laisvės atėmimo vietų įstaigos vidaus tvarką;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
 
-3) konvojuoja suimtuosius ir nuteistuosius į laisvės atėmimo vietas, iš vienos laisvės atėmimo vietos į kitą;
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
 
-4) įstatymų nustatyta tvarka konvojuoja sulaikytuosius, suimtuosius ir nuteistuosius iš laisvės atėmimo vietų į Lietuvos Aukščiausiąjį Teismą, Apeliacinį, apygardos teismus, Lietuvos vyriausiąjį administracinį ir apygardos administracinius teismus, o ypatingo konvojaus atvejais (kai konvojuojami nuteistieji, kuriems įsiteisėjęs teismo nuosprendis dėl laisvės atėmimo iki gyvos galvos, taip pat kitais įstatymų nustatytais atvejais) – ir į miestų ir rajonų apylinkės teismus ir atgal į laisvės atėmimo vietas, saugo juos per teismo posėdžius;
+3) vidaus reikalų ministro nustatyta tvarka konvojuoja suimtuosius ir nuteistuosius į laisvės atėmimo vietų įstaigą, iš vieno laisvės atėmimo vietų įstaigos padalinio į kitą;
 
-5) konvojuoja sulaikytuosius, suimtuosius ir nuteistuosius jų ekstradicijos atvejais, juos deportuojant, perduodant Tarptautiniam baudžiamajam teismui, perduodant pagal Europos arešto orderį, taip pat nuteistuosius perduodant toliau atlikti bausmę;
+Straipsnio punkto pakeitimai:
 
-6) teisės aktų nustatyta tvarka dalyvauja ieškant iš laisvės atėmimo vietų pabėgusių ar konvojavimo metu pabėgusių asmenų ir juos sulaiko;
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
+
+4) vidaus reikalų ministro nustatyta tvarka konvojuoja sulaikytuosius, suimtuosius ir nuteistuosius iš laisvės atėmimo vietų įstaigos į Lietuvos Aukščiausiąjį Teismą, Apeliacinį, apygardos teismus, Lietuvos vyriausiąjį administracinį ir apygardos administracinius teismus, o ypatingo konvojaus atvejais (kai konvojuojami nuteistieji, kuriems įsiteisėjęs teismo nuosprendis dėl laisvės atėmimo iki gyvos galvos, taip pat kitais įstatymų nustatytais atvejais) – ir į miestų ir rajonų apylinkės teismus ir atgal į laisvės atėmimo vietų įstaigą, saugo juos per teismo posėdžius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
+
+5) vidaus reikalų ministro nustatyta tvarka konvojuoja sulaikytuosius, suimtuosius ir nuteistuosius jų ekstradicijos atvejais, juos deportuojant, perduodant Tarptautiniam baudžiamajam teismui, perduodant pagal Europos arešto orderį, taip pat nuteistuosius perduodant toliau atlikti bausmės;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
+
+6) teisės aktų nustatyta tvarka dalyvauja ieškant iš laisvės atėmimo vietų įstaigos pabėgusių ar konvojavimo metu pabėgusių asmenų ir juos sulaiko;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
 
 7) saugo svarbius valstybės objektus pagal Vyriausybės patvirtintą sąrašą;
 
@@ -245,13 +275,19 @@ IV SKYRIUS  TARNYBOS PAREIGŪNŲ TEISĖS IR PAREIGOS
 
 9) apžiūrėti asmenį, jeigu pagrįstai mano, kad jis turi daiktų, kuriais gali susižaloti, sužaloti kitą asmenį ar Tarnybos pareigūną;
 
-10) persekiodamas konvojavimo metu ar iš laisvės atėmimo vietos pabėgusį asmenį arba nusikalstamos veikos padarymu įtariamą asmenį, taip pat siekdamas užkirsti kelią daromai nusikalstamai veikai, bet kuriuo paros laiku įeiti į fiziniams ir juridiniams asmenims priklausančias gyvenamąsias ar negyvenamąsias patalpas, teritorijas, sustabdyti ir patekti į transporto priemones. Atsisakius paklusti, Tarnybos pareigūnas turi teisę visomis įmanomomis priemonėmis atidaryti patalpas ir transporto priemones. Ši teisė taip pat suteikiama ekstremaliųjų situacijų atvejais. Apie tokius veiksmus per 24 valandas turi būti pranešta prokurorui;
+10) persekiodamas konvojavimo metu ar iš laisvės atėmimo vietų įstaigos pabėgusį asmenį arba nusikalstamos veikos padarymu įtariamą asmenį, taip pat siekdamas užkirsti kelią daromai nusikalstamai veikai, bet kuriuo paros laiku įeiti į fiziniams ir juridiniams asmenims priklausančias gyvenamąsias ar negyvenamąsias patalpas, teritorijas, sustabdyti transporto priemones ir į jas patekti. Atsisakius paklusti, Tarnybos pareigūnas turi teisę visomis įmanomomis priemonėmis atidaryti patalpas ir transporto priemones. Ši teisė taip pat suteikiama ekstremaliųjų situacijų atvejais. Apie tokius veiksmus per 24 valandas turi būti pranešta prokurorui;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
 
-11) persekiodamas konvojavimo metu ar iš laisvės atėmimo vietos pabėgusį asmenį arba administracinio teisės pažeidimo ar nusikalstamos veikos padarymu įtariamą asmenį, veždamas asmenį, kuriam būtina neatidėliotina medicinos pagalba, į sveikatos priežiūros įstaigą ar kitais neatidėliotinais atvejais nekliudomai naudotis visomis transporto priemonėmis, priklausančiomis fiziniams ar juridiniams asmenims, išskyrus diplomatinių ir konsulinių įstaigų transporto priemones;
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
+
+11) persekiodamas konvojavimo metu ar iš laisvės atėmimo vietų įstaigos pabėgusį asmenį arba administracinio teisės pažeidimo ar nusikalstamos veikos padarymu įtariamą asmenį, veždamas asmenį, kuriam būtina neatidėliotina medicinos pagalba, į sveikatos priežiūros įstaigą ar kitais neatidėliotinais atvejais nekliudomai naudotis visomis transporto priemonėmis, priklausančiomis fiziniams ar juridiniams asmenims, išskyrus diplomatinių ir konsulinių įstaigų transporto priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
 
 12) tikrinti ir apžiūrėti į saugomų objektų teritoriją įvažiuojančias ir iš jos išvažiuojančias transporto priemones, fiziniams ar juridiniams asmenims priklausančiose transporto priemonėse esančius krovinius ir daiktus, taip pat kontrolės postuose tikrinti ir apžiūrėti asmenis ir jų bagažą.
 
@@ -542,6 +578,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2926, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10935
 
 Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 6 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
+
+Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 2, 7 ir 10 straipsnių pakeitimo įstatymas
 
 201 straipsnis. Tarnybos teritorija
 
