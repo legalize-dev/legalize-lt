@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2021-12-04"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2021-12-04 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -256,6 +256,12 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
+32) dokumentų išduoti arba pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą arba keitimą bendra tvarka užsieniečiams, kurie Lietuvos Respublikoje užbaigė studijas arba mokslinius tyrimus ir eksperimentinės plėtros darbus. Valstybės rinkliava už dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo arba pakeitimo tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą arba keitimą bendra tvarka neimama vieną kartą šių asmenų pasirinkimu;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
+
 Straipsnio pakeitimai:
 
 Nr. IX-1077, 2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
@@ -282,6 +288,12 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2477, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17214
 
+11. Valstybės rinkliavos už dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo ar pakeitimo tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą ar pakeitimą bendra tvarka užsieniečiams, kurie priimti studijuoti į Lietuvos mokslo ir studijų instituciją pagal studijų programą (programas) arba į doktorantūrą, dydis sumažinamas 50 procentų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
+
 2. Savivaldybės taryba turi teisę savo biudžeto sąskaita paskiriems valstybės rinkliavos mokėtojams sumažinti valstybės rinkliavos dydį arba iš viso nuo jos atleisti tais atvejais, kai valstybės rinkliava įskaitoma į tos savivaldybės biudžetą.
 
 Straipsnio pakeitimai:
@@ -296,7 +308,11 @@ Nr. XI-1061, 2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
 
 1. Nuo valstybės rinkliavos už paso ar asmens tapatybės kortelės išdavimą ar keitimą ir lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 1 ar 15 punkte, atlikimą.
 
-2. Nuo valstybės rinkliavos už dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą yra atleidžiami asmenys, kurie dėl dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Konsulinio mokesčio įstatymo 3 straipsnio 16 punkte, atlikimą.
+2. Neteko galios nuo 2023-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
 
 3. Nuo valstybės rinkliavos už civilinės būklės aktų įregistravimą, civilinės būklės aktų įrašus liudijančių išrašų išdavimą ir daugiakalbės standartinės formos pagal 2016 m. liepos 6 d. Europos Parlamento ir Tarybos reglamentą (ES) 2016/1191, kuriuo skatinamas laisvas piliečių judėjimas supaprastinant tam tikrų viešųjų dokumentų pateikimo Europos Sąjungoje reikalavimus ir iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012, išdavimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Konsulinio mokesčio įstatymo 3 straipsnio 5 punkte, atlikimą.
 
@@ -911,6 +927,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-702, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25130
 
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 2 ir 12 straipsnių pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6, 6-1, 7 ir 8 straipsnių pakeitimo įstatymas
 
 132 straipsnis. Vietinės rinkliavos grąžinimas
 
