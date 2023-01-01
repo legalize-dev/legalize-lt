@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2022-12-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -1185,7 +1185,11 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 34 straipsnis. Žemės informacinė sistema
 
-1. Žemės informacinės sistemos paskirtis – naudojantis atskiruose teminiuose erdvinių duomenų rinkiniuose sukauptais ir į vieną sistemą susietais erdviniais duomenimis apie žemę, tvarkyti ir teikti naudotojams informaciją apie Lietuvos Respublikos žemės fondą, žemės naudmenų sudėtį, žemės kiekybines ir kokybines savybes, žemės naudojimo sąlygas, kitas žemės naudojimui turinčias įtakos charakteristikas.
+1. Žemės informacinės sistemos paskirtis – naudojantis atskiruose teminiuose erdvinių duomenų rinkiniuose sukauptais ir į vieną sistemą susietais erdviniais duomenimis apie žemę, tvarkyti ir teikti naudotojams informaciją apie Lietuvos Respublikos žemės fondą, žemės naudmenų sudėtį, žemės kiekybines ir kokybines savybes.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
 
 2. Žemės informacinę sistemą valdo Nacionalinė žemės tarnyba, tvarko – Valstybės žemės fondas.
 
