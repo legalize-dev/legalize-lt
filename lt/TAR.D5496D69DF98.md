@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2022-12-31"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2022-12-31 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-05-02
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -403,7 +403,11 @@ Nr. XIII-3295, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20890
 
 2) teikti pagalbą nusikaltimų aukoms ir (arba) smurtą artimoje aplinkoje patyrusiems asmenims;
 
-3) užtikrinti neįgaliųjų ar kitų socialinę atskirtį patiriančių asmenų grupių (prekybos žmonėmis aukų, asmenų, turinčių psichikos ir elgesio sutrikimų dėl psichoaktyviųjų medžiagų vartojimo, nuteistųjų ir asmenų, paleistų iš laisvės atėmimo vietų, bei kitoms socialinę atskirtį patiriančių asmenų grupėms priklausančių asmenų) ir užsieniečių socialinę integraciją;
+3) užtikrinti neįgaliųjų ar kitų socialinę atskirtį patiriančių asmenų grupių (prekybos žmonėmis aukų, asmenų, turinčių psichikos ir elgesio sutrikimų dėl psichoaktyviųjų medžiagų vartojimo, nuteistųjų ir asmenų, paleistų iš laisvės atėmimo vietų įstaigos, bei kitoms socialinę atskirtį patiriančių asmenų grupėms priklausančių asmenų) ir užsieniečių socialinę integraciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1235, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15601
 
 4) teikti pagalbą ir (arba) socialines paslaugas asmenims, dėl amžiaus, neįgalumo ar kitų socialinių problemų negalintiems pasirūpinti savo asmeniniu gyvenimu ir dalyvauti visuomenės gyvenime ar patiriantiems skurdą ir socialinę atskirtį;
 
@@ -1696,6 +1700,14 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIV-1683, 2022-12-15, paskelbta TAR 2022-12-30, i. k. 2022-27545
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1235, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15601
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
 
