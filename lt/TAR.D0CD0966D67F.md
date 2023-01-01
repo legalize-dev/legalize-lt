@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2022-07-12"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-07-12 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -171,7 +171,7 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
-15) viešumo. Savivaldybė savo interneto svetainėje teikia ir nuolat atnaujina šio įstatymo numatytą informaciją, taip pat informaciją apie savivaldybės valdomas įmones, jų vadovus, valdybų narius, pateikia šių įmonių įstatus, ne mažiau kaip trejų paskutinių finansinių metų veiklos rezultatų ir finansines ataskaitas bei kitą aktualią informaciją, taip pat informaciją apie savivaldybės gaunamą paramą (paramos teikėją (teikėjus), paramos sumas, paramos tikslą, paramos laikotarpį ir pan.), savivaldybės skiriamas pinigines lėšas nevyriausybinių organizacijų ir viešųjų įstaigų projektams finansuoti bei projektų finansavimo ir atrankos kriterijus, kvietimus organizacijoms teikti paraiškas paramai gauti ir kitą informaciją, susijusią su savivaldybės veikla.
+15) viešumo. Savivaldybė savo interneto svetainėje teikia ir nuolat atnaujina šio įstatymo numatytą informaciją, taip pat informaciją apie savivaldybės valdomas įmones, jų vadovus, valdybų narius, pateikia šių įmonių įstatus, ne mažiau kaip penkerių paskutinių finansinių metų veiklos rezultatų ir finansines ataskaitas bei kitą aktualią informaciją, taip pat informaciją apie savivaldybės gaunamą paramą (paramos teikėją (teikėjus), paramos sumas, paramos tikslą, paramos laikotarpį ir pan.), savivaldybės skiriamas lėšas nevyriausybinių organizacijų ir viešųjų įstaigų projektams finansuoti bei projektų finansavimo ir atrankos kriterijus, kvietimus organizacijoms teikti paraiškas paramai gauti ir kitą informaciją, susijusią su savivaldybės veikla.
 
 Papildyta straipsnio punktu:
 
@@ -180,6 +180,8 @@ Nr. XII-2741, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26839
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 Straipsnio pakeitimai:
 
@@ -303,7 +305,11 @@ Nr. XIV-203, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07420
 
 27) adresų suteikimas žemės sklypams, kuriuose pagal jų naudojimo paskirtį (būdą) ar teritorijų planavimo dokumentus leidžiama pastatų statyba, pastatams, butams ir kitoms patalpoms, pavadinimų suteikimas gatvėms, savivaldybės teritorijose esantiems pastatams, statiniams ir kitiems objektams, šių adresų ir pavadinimų keitimas ar panaikinimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
 
-28) aplinkos kokybės gerinimas ir apsauga;
+28) aplinkos kokybės gerinimas ir apsauga, aplinkos monitoringas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1265, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14921
 
 29) kūno kultūros ir sporto plėtojimas, gyventojų poilsio organizavimas;
 
@@ -543,7 +549,11 @@ Nr. XII-620, 2013-11-26, Žin., 2013, Nr. 126-6413 (2013-12-10)
 
 TREČIASIS SKIRSNIS
 
-VIEŠŲJŲ IR ADMINISTRACINIŲ PASLAUGŲ TEIKIMAS
+PLANAVIMAS IR ATSKAITOMYBĖ SAVIVALDYBĖJE
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 8 straipsnis. Viešųjų paslaugų teikimas
 
@@ -687,7 +697,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
 
-2. Savivaldybės taryba ne rečiau kaip vieną kartą per metus reglamento nustatyta tvarka turi pateikti savivaldybės bendruomenei savivaldybės veiklos ataskaitą, kurios sudedamoji dalis yra mero veiklos ataskaita. Savivaldybės veiklos ataskaitą savivaldybės tarybos vardu pateikia meras. Savivaldybės veiklos ataskaita turi būti paskelbta laikantis šio įstatymo 37 straipsnyje nustatytų reikalavimų.
+2. Neteko galios nuo 2023-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 Straipsnio dalies pakeitimai:
 
@@ -1141,13 +1155,17 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
 
-8) sprendimų dėl savivaldybės kontrolieriaus priėmimo į pareigas ir atleidimo iš jų priėmimas, savivaldybės kontrolės ir audito tarnybos steigimas, didžiausio valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis, skaičiaus šioje tarnyboje nustatymas, savivaldybės kontrolės ir audito tarnybos metinės veiklos ataskaitos svarstymas ir sprendimo dėl jos priėmimas, įstatymų numatyto savivaldybės kontrolieriaus darbo užmokesčio nustatymas, savivaldybės kontrolės ir audito tarnybos nuostatų tvirtinimas;
+8) sprendimų dėl savivaldybės kontrolieriaus priėmimo į pareigas ir atleidimo iš jų priėmimas, savivaldybės kontrolės ir audito tarnybos steigimas, didžiausio valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis, skaičiaus šioje tarnyboje nustatymas, savivaldybės kontrolės ir audito tarnybos metinių ataskaitų rinkinio svarstymas ir sprendimo dėl jo priėmimas, įstatymų numatyto savivaldybės kontrolieriaus darbo užmokesčio nustatymas, savivaldybės kontrolės ir audito tarnybos nuostatų tvirtinimas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
 
 Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
+
+Nr. XIV-846, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27746
 
 9) savivaldybės administracijos direktoriaus (savivaldybės administracijos direktoriaus pavaduotojo) priėmimas į pareigas ir atleidimas iš jų; sprendimų dėl savivaldybės administracijos direktoriaus pavaduotojo pareigybės (pareigybių) steigimo priėmimas; sprendimų dėl šiame įstatyme nustatytų savivaldybės vykdomosios institucijos funkcijų paskirstymo savivaldybės administracijos direktoriui ir, jei tokia (tokios) pareigybė (pareigybės) steigiama (steigiamos), savivaldybės administracijos direktoriaus pavaduotojui (pavaduotojams) priėmimas; sprendimų dėl savivaldybės administracijos direktoriaus teisės pavesti įgyvendinti funkcijas apribojimo priėmimas; sprendimų dėl savivaldybės administracijos direktoriaus pavadavimo priėmimas, savivaldybės administracijos direktoriaus ir savivaldybės administracijos direktoriaus pavaduotojo darbo užmokesčio nustatymas;
 
@@ -1165,7 +1183,11 @@ Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
 
 14) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
-15) savivaldybės biudžeto ir savivaldybės konsoliduotųjų ataskaitų rinkinio tvirtinimas Biudžeto sandaros įstatymo ir Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka, prireikus savivaldybės biudžeto tikslinimas;
+15) savivaldybės biudžeto ir savivaldybės metinių ataskaitų rinkinio tvirtinimas, prireikus savivaldybės biudžeto tikslinimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 16) sprendimo dėl mero fondo sudarymo, mero fondo dydžio, naudojimo ir atsiskaitymo tvarkos priėmimas;
 
@@ -1183,7 +1205,7 @@ Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
 
 Nr. XIII-1444, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12066
 
-19) mero, savivaldybės administracijos direktoriaus, savivaldybės kontrolės ir audito tarnybos, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės valdomų įmonių ir organizacijų metinių veiklos ataskaitų (švietimo įstaigų metinės veiklos ataskaitos yra švietimo įstaigos vadovų metų veiklos ataskaitų dalis ir yra rengiamos Lietuvos Respublikos švietimo įstatyme nustatyta tvarka) ir atsakymų į savivaldybės tarybos narių paklausimus išklausymas reglamento nustatyta tvarka, sprendimų dėl šių ataskaitų ir atsakymų priėmimas šio įstatymo 13 straipsnio 5, 6, 8 ir 9 dalyse nustatyta tvarka rengiant, pateikiant sprendimų projektus ir dėl jų balsuojant;
+19) savivaldybės kontrolės ir audito tarnybos metinių ataskaitų rinkinio tvirtinimas;
 
 Straipsnio punkto pakeitimai:
 
@@ -1194,6 +1216,8 @@ Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
 Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 
 Nr. XIII-3267, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15541
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 20) pasiūlymų valstybės institucijoms dėl savivaldybės teritorijoje esančių šių institucijų padalinių veiklos gerinimo teikimas, prireikus šių padalinių vadovų išklausymas reglamento nustatyta tvarka;
 
@@ -1231,7 +1255,7 @@ Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
 
 27) sprendimų dėl savivaldybei priskirtos valstybinės žemės ir kito valstybės turto valdymo, naudojimo ir disponavimo juo patikėjimo teise priėmimas;
 
-28) sprendimų dėl savivaldybės prisiimamų įsipareigojimų pagal paskolų, finansinės nuomos (lizingo), kitų įsipareigojamųjų skolos dokumentų sutartis ir garantijų teikimo už savivaldybės valdomų įmonių prisiimamus įsipareigojimus pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis priėmimas, laikantis Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytų skolos, skolinimosi bei garantijų limitų ir gavus savivaldybės kontrolės ir audito tarnybos išvadą;
+28) sprendimų dėl savivaldybės prisiimamų įsipareigojimų pagal paskolų, finansinės nuomos (lizingo), kitų įsipareigojamųjų skolos dokumentų sutartis ir garantijų teikimo už savivaldybės valdomų įmonių prisiimamus įsipareigojimus pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis priėmimas, laikantis Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme numatytų ir Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytų limitų ir gavus savivaldybės kontrolės ir audito tarnybos išvadą;
 
 Straipsnio punkto pakeitimai:
 
@@ -1240,6 +1264,8 @@ Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
 Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
 
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+
+Nr. XIV-1762, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27577
 
 29) įstatymų nustatyta tvarka gavus savivaldybės kontrolės ir audito tarnybos išvadą, sprendimų dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo priėmimas; gavus savivaldybės kontrolės ir audito tarnybos išvadą, pritarimas galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų;
 
@@ -1275,7 +1301,7 @@ Nr. XII-2342, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13909
 
 36) taisyklių, už kurių pažeidimą atsiranda administracinė atsakomybė, ir kitų taisyklių tvirtinimas;
 
-37) kainų ir tarifų už savivaldybės valdomų įmonių, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė) teikiamas atlygintinas viešąsias paslaugas ir keleivių vežimą vietiniais maršrutais nustatymas, centralizuotai tiekiamos šilumos, šalto ir karšto vandens kainų nustatymas (tvirtinimas) įstatymų nustatyta tvarka, vietinių rinkliavų, įmokų ir mokesčių tarifų nustatymas įstatymų nustatyta tvarka;
+37) kainų ir tarifų už savivaldybės valdomų įmonių, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė) teikiamas atlygintinas viešąsias paslaugas ir keleivių vežimą vietiniais maršrutais nustatymas, centralizuotai tiekiamos šilumos ir karšto vandens kainų nustatymas (tvirtinimas) įstatymų nustatyta tvarka, vietinių rinkliavų, įmokų ir mokesčių tarifų nustatymas įstatymų nustatyta tvarka;
 
 Straipsnio punkto pakeitimai:
 
@@ -1284,6 +1310,8 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
 
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+
+Nr. XIV-1467, 2022-10-27, paskelbta TAR 2022-11-15, i. k. 2022-22946
 
 38) sprendimų dėl kompensacijų tam tikroms vartotojų grupėms mokėjimo priėmimas, papildomos socialinės paramos, socialinių pašalpų ir kompensacijų skyrimo iš savivaldybės biudžeto tvarkos nustatymas, priedo fiziniam asmeniui (globėjui (rūpintojui) už vaiko globą (rūpybą) dydžio ir mokėjimo iš savivaldybės biudžeto tvarkos nustatymas;
 
@@ -1323,11 +1351,13 @@ Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
 
 1) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
-2) biudžetinių įstaigų finansinių ataskaitų rinkinių tvirtinimas;
+2) savivaldybės biudžetinių įstaigų metinių ataskaitų rinkinių tvirtinimas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 3) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
@@ -1337,17 +1367,25 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
-5) viešųjų įstaigų (kurių savininkė yra savivaldybė) finansinių ataskaitų rinkinių tvirtinimas;
+5) viešųjų įstaigų (kurių savininkė yra savivaldybė) metinių ataskaitų rinkinių tvirtinimas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 6) viešųjų įstaigų (kurių savininkė yra savivaldybė) vidaus kontrolės tvarkos nustatymas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+
+61) savivaldybės valdomų įmonių metinių finansinių ataskaitų, metinių pranešimų ir (arba) veiklos ataskaitų tvirtinimas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 7) sprendimų dėl valstybės socialinių ir ekonominių programų tikslinių lėšų, kitų valstybės fondų lėšų ir materialiojo turto paskirstymo biudžetinėms įstaigoms priėmimas;
 
@@ -1679,7 +1717,11 @@ Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
 
 6. Meras negali būti savivaldybės tarybos sudaromų komitetų nariu.
 
-7. Meras reglamento nustatyta tvarka ne rečiau kaip kartą per metus atsiskaito savivaldybės tarybai ir bendruomenei už savo veiklą, taip pat rengia ir pateikia rinkėjams ir savivaldybės bendruomenei savivaldybės veiklos ataskaitą.
+7. Meras atsiskaito bendruomenei už savo veiklą. Ši informacija apie mero veiklos rezultatus įtraukiama į šio įstatymo 105 straipsnyje nurodytą savivaldybės metinių ataskaitų rinkinį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 8. Mero pavaduotojas atlieka mero nustatytas funkcijas ir pavedimus. Meras mero pavaduotojo funkcijas nustato mero pavaduotojo kadencijos laikotarpiui ir gali jas keisti. Kai meras negali eiti pareigų, mero pavaduotojas ar laikinai mero pareigas einantis savivaldybės tarybos narys atlieka visas mero pareigas, išskyrus šio straipsnio 2 dalies 4–8, 15, 18, 19 ir 22 punktuose nustatytus įgaliojimus. Tokiu atveju šio straipsnio 2 dalies 15, 18, 19 ir 22 punktuose nustatytus mero įgaliojimus atlieka savivaldybės taryba. Mero veikla ir jo pavadavimo procedūra nustatyta reglamente.
 
@@ -1865,7 +1907,11 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 1) atlieka išorės finansinį ir veiklos auditą savivaldybės administracijoje, savivaldybės administravimo subjektuose ir savivaldybės valdomose įmonėse;
 
-2) kiekvienais metais iki liepos 15 dienos parengia ir reglamente nustatyta tvarka pateikia savivaldybės tarybai išvadą dėl pateikto tvirtinti savivaldybės konsoliduotųjų ataskaitų rinkinio;
+2) kiekvienais metais iki gegužės 15 dienos parengia ir reglamente nustatyta tvarka pateikia savivaldybės tarybai išvadą dėl pateikto tvirtinti savivaldybės metinių ataskaitų rinkinio;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 3) rengia ir savivaldybės tarybai teikia sprendimams priimti reikalingas išvadas dėl savivaldybės prisiimamų įsipareigojimų pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis, garantijų suteikimo kreditoriams už savivaldybės valdomų įmonių prisiimamus įsipareigojimus pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis;
 
@@ -1929,13 +1975,21 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-143, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00265
 
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
+
+Nr. XIV-239, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08840
+
 7) pats atlieka ir (arba) skiria savivaldybės kontrolės ir audito tarnybos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, atlikti išorės finansinį ir veiklos auditą, įgyvendina įstatymuose ir kituose teisės aktuose priskirtas funkcijas;
 
 8) priima sprendimus pagal atlikto finansinio ir veiklos audito ataskaitas, nurodo savivaldybės administracijos direktoriui, audituotų subjektų vadovams jų veiklos trūkumus ir nustato terminą, per kurį turi būti pašalinti nustatyti teisės aktų pažeidimai. Savivaldybės administracijos direktorius, audituotų subjektų vadovai per savivaldybės kontrolieriaus nustatytą terminą (bet ne trumpesnį kaip 30 dienų) privalo ištaisyti audito metu nustatytus jų veiklos trūkumus ir pažeidimus ir apie jų pašalinimą raštu pranešti savivaldybės kontrolieriui;
 
 9) teikia merui, savivaldybės vykdomajai institucijai, audituotų subjektų vadovams išvadas, ataskaitas ir sprendimus, kurie buvo priimti dėl finansinio ir veiklos audito metu nustatytų ir nepašalintų teisės aktų pažeidimų. Audito ataskaitos ir išvados skelbiamos savivaldybės interneto svetainėje, o jeigu įmanoma, – ir per kitas visuomenės informavimo priemones;
 
-10) kiekvienais metais iki liepos 15 dienos reglamente nustatyta tvarka pateikia savivaldybės tarybai išvadą dėl pateikto tvirtinti savivaldybės konsoliduotųjų ataskaitų rinkinio, savivaldybės biudžeto ir turto naudojimo;
+10) kiekvienais metais iki gegužės 15 dienos reglamente nustatyta tvarka pateikia savivaldybės tarybai išvadą dėl pateikto tvirtinti savivaldybės metinių ataskaitų rinkinio, savivaldybės biudžeto ir turto naudojimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 11) finansinio ir veiklos audito metu nustatęs nusikalstamos veikos požymių, apie tai praneša teisėsaugos institucijoms;
 
@@ -1945,7 +1999,13 @@ Nr. XIV-143, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00265
 
 14) įstatymų ir kitų teisės aktų nustatyta tvarka teikia informaciją valstybės ir savivaldybės institucijoms;
 
-15) reglamente nustatyta tvarka ir terminais pateikia savivaldybės kontrolės ir audito tarnybos veiklos ataskaitą; savivaldybės kontrolės ir audito tarnybos veiklos ataskaitą arba jos santrauką paskelbia vietinėje spaudoje, savivaldybės interneto svetainėje, o jeigu įmanoma, – ir per kitas visuomenės informavimo priemones;
+15) reglamente nustatyta tvarka ir terminais pateikia savivaldybės kontrolės ir audito tarnybos metinių ataskaitų rinkinį; savivaldybės kontrolės ir audito tarnybos metinių ataskaitų rinkinį arba jo santrauką paskelbia vietinėje spaudoje, savivaldybės interneto svetainėje, o jeigu įmanoma, – ir per kitas visuomenės informavimo priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
+
+Nr. XIV-846, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27746
 
 16) savivaldybės tarybos arba savivaldybės tarybos Kontrolės komiteto prašymu teikia informaciją pagal savo kompetenciją;
 
@@ -1955,11 +2015,15 @@ Nr. XIV-143, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00265
 
 19) teikia Vyriausybės atstovui informaciją apie savivaldybės kontrolės ir audito tarnybos teiktas išvadas ir rekomendacijas;
 
-20) sudaro sąlygas Valstybės kontrolei dalyvauti atliekant savivaldybės konsoliduotųjų ataskaitų rinkinio auditą tokiu mastu, kad Valstybės kontrolė surinktų tinkamus ir pakankamus įrodymus, reikalingus išvadai dėl nacionalinio finansinių ataskaitų rinkinio parengti, ir teikia Valstybės kontrolei duomenis apie savivaldybės konsoliduotųjų ataskaitų rinkinio audito rezultatus.
+20) sudaro sąlygas Valstybės kontrolei dalyvauti atliekant savivaldybės metinių ataskaitų rinkinio auditą tokiu mastu, kad Valstybės kontrolė surinktų tinkamus ir pakankamus įrodymus, reikalingus išvadai dėl nacionalinio metinių ataskaitų rinkinio parengti, ir teikia Valstybės kontrolei duomenis apie savivaldybės metinių ataskaitų rinkinio audito rezultatus.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-143, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00265
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
+
+Nr. XIV-239, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08840
 
 10. Savivaldybės kontrolės ir audito tarnybos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis:
 
@@ -2095,7 +2159,11 @@ Nr. XIII-1664, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19164
 
 8) organizuoja savivaldybės tarybos narių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, mokymą;
 
-9) reglamento nustatyta tvarka atsiskaito už savo ir savivaldybės administracijos veiklą teikdamas veiklos ataskaitas savivaldybės tarybai ir merui;
+9) Neteko galios nuo 2023-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 10) reglamento nustatyta tvarka ir terminais, bet ne rečiau kaip kartą per metus informuoja savivaldybės gyventojus apie savo veiklą;
 
@@ -2785,11 +2853,15 @@ SAVIVALDYBIŲ ATRIBUTIKA IR RAŠTVEDYBA
 
 57 straipsnis. Savivaldybių raštvedyba
 
-Savivaldybių raštvedyba, apskaitos, savivaldybių ataskaitų rinkinių ir konsoliduotųjų ataskaitų rinkinių, finansiniai ir techniniai dokumentai tvarkomi lietuvių kalba ir turi atitikti galiojančiuose teisės aktuose nustatytus raštvedybos reikalavimus.
+Savivaldybių raštvedyba, apskaitos, savivaldybių ataskaitų rinkinių finansiniai ir techniniai dokumentai tvarkomi lietuvių kalba ir turi atitikti galiojančiuose teisės aktuose nustatytus raštvedybos reikalavimus.
 
 Straipsnio pakeitimai:
 
 Nr. X-1830, 2008-11-14, Žin., 2008, Nr. 137-5379 (2008-11-29)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -3275,10 +3347,6 @@ Nr. XIII-3127, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15372
 
 Nr. XII-460, 2013-07-02, Žin., 2013, Nr. 79-3981 (2013-07-23)
 
-KETVIRTASIS SKIRSNIS
-
-SAVIVALDYBIŲ INSTITUCIJOS, JŲ SUDARYMAS IR ĮGALIOJIMAI
-
 56 straipsnis. Savivaldybių atributika
 
 1. Savivaldybės turi savo atributiką.
@@ -3454,4 +3522,22 @@ VIETOS GYVENTOJŲ DALYVAVIMAS TVARKANT VIEŠUOSIUS SAVIVALDYBĖS REIKALUS
 Papildyta straipsniu:
 
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+
+105 straipsnis. Savivaldybės metinių ataskaitų rinkinio rengimas ir tvirtinimas
+
+1. Savivaldybės taryba už savo veiklą atsiskaito bendruomenei teikdama savivaldybės metinių ataskaitų rinkinį. Savivaldybės metinių ataskaitų rinkinį sudaro savivaldybės veiklos ataskaita, finansinių ataskaitų rinkinys ir biudžeto vykdymo ataskaitų rinkinys.
+
+2. Savivaldybės metinių ataskaitų rinkinio rengimo, pasirašymo, teikimo, skelbimo ir audito reikalavimus nustato Viešojo sektoriaus atskaitomybės įstatymas.
+
+3. Savivaldybės metinių ataskaitų rinkinį rengia savivaldybės administracija ir (arba) kitas savivaldybės tarybos įgaliotas viešojo sektoriaus subjektas.
+
+4. Savivaldybės administracijos direktorius savivaldybės metinių ataskaitų rinkinį teikia svarstyti ir tvirtinti savivaldybės tarybai.
+
+Papildyta straipsniu:
+
+Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
+
+KETVIRTASIS SKIRSNIS
+
+SAVIVALDYBIŲ INSTITUCIJOS, JŲ SUDARYMAS IR ĮGALIOJIMAI
 
