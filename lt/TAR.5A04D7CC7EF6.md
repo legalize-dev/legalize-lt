@@ -4,7 +4,7 @@ identifier: "TAR.5A04D7CC7EF6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "2021-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
 
@@ -205,7 +205,11 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 3. Valstybinės reikšmės bibliotekos yra:
 
-1) Lietuvos aklųjų biblioteka;
+1) Lietuvos audiosensorinė biblioteka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
 
 2) Lietuvos medicinos biblioteka;
 
@@ -275,11 +279,15 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 16) atlieka kitas nuostatuose apibrėžtas funkcijas.
 
-6. Įstatymų ir kitų teisės aktų nustatyta tvarka gali būti pripažinta, kad nacionalinė biblioteka atlieka mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą.
+6. Nacionalinė biblioteka gali atlikti mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
 
 9 straipsnis. Apskrities viešoji biblioteka
 
@@ -295,11 +303,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
 
-3. Įstatymų ir kitų teisės aktų nustatyta tvarka gali būti pripažinta, kad apskrities viešoji biblioteka atlieka mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą.
+3. Apskrities viešoji biblioteka gali atlikti mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
 
 4. Apskrities viešoji biblioteka kaupia ir saugo nustatytos teritorijos poreikius tenkinantį universalų dokumentų fondą, dalyvauja sudarant Lietuvos bibliotekų fondą ir kuriant bibliotekų informacijos sistemą.
 
@@ -333,11 +345,15 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 2. Savivaldybės viešoji biblioteka kaupia ir saugo savivaldybės poreikius tenkinantį universalų dokumentų fondą, aptarnauja vartotojus, dalyvauja formuojant Lietuvos bibliotekų fondą ir kuriant bibliotekų informacijos sistemą.
 
-3. Įstatymų ir kitų teisės aktų nustatyta tvarka gali būti pripažinta, kad savivaldybės viešoji biblioteka atlieka mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą.
+3. Savivaldybės viešoji biblioteka gali atlikti mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
 
 4. Kiekvienoje savivaldybėje turi būti įsteigta savivaldybės viešoji biblioteka, išskyrus šio įstatymo 9 straipsnio 4 dalyje ir šio straipsnio 7 dalyje nustatytus atvejus.
 
@@ -449,11 +465,13 @@ LIETUVOS BIBLIOTEKŲ FONDAS IR JO APSAUGA
 
 2. Pagrindiniai fondai yra sudaromi bibliotekos vartotojams aptarnauti ir turi atitikti bibliotekos veiklos tikslą bei vartotojų poreikius.
 
-3. Depozitiniai fondai yra sudaromi iš retai vartotojų naudojamų, bet nepraradusių savo kultūrinės, mokslinės ir istorinės vertės dokumentų, siekiant optimaliai panaudoti bibliotekų saugyklas ir sumažinti saugojimo išlaidas. Depozitinis fondas yra saugomas Nacionalinėje bibliotekoje, išskyrus Lietuvos aklųjų bibliotekoje saugomus dokumentus aklųjų (Brailio) raštu, specialiai silpnaregiams išspausdintus didesniu šriftu, ir garsinius dokumentus.
+3. Depozitiniai fondai yra sudaromi iš retai vartotojų naudojamų, bet nepraradusių savo kultūrinės, mokslinės ir istorinės vertės dokumentų, siekiant optimaliai panaudoti bibliotekų saugyklas ir sumažinti saugojimo išlaidas. Depozitinis fondas yra saugomas Nacionalinėje bibliotekoje, išskyrus Lietuvos audiosensorinėje bibliotekoje saugomus dokumentus aklųjų (Brailio) raštu, specialiai silpnaregiams išspausdintus didesniu šriftu, ir garsinius dokumentus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-676, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16706
+
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
 
 4. Mainų fonduose kaupiami dubletai, neprofiliniai ir specialiai įsigyti keistis su kitomis bibliotekomis bei informacijos įstaigomis dokumentai.
 
@@ -560,6 +578,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
 
 Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 4, 6 ir 9 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
+
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 6-1, 7, 8, 9, 10, 17 straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
 
 20 straipsnis. Lietuvos bibliotekų fondas
 
@@ -707,7 +733,11 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 1. Bibliotekų, kurių savininkė yra valstybė ar savivaldybė, vadovai į darbą priimami konkurso būdu Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-2. Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų (išskyrus Vilniaus universiteto biblioteką) vadovai į pareigas skiriami 5 metų kadencijai. Lietuvos nacionalinės bibliotekos vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
+2. Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų (išskyrus Vilniaus universiteto biblioteką) vadovai į pareigas skiriami 5 metų kadencijai. Lietuvos nacionalinės bibliotekos vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų vadovų kadencijų skaičius neribojamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
 
 3. Kvalifikacinius reikalavimus šio straipsnio 2 dalyje nurodytų bibliotekų vadovams nustato kultūros ministras.
 
@@ -746,4 +776,36 @@ Nr. XIII-1316, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10968
 TREČIASIS SKIRSNIS
 
 BIBLIOTEKŲ SISTEMA
+
+81 straipsnis. Lietuvos audiosensorinė biblioteka
+
+1. Lietuvos audiosensorinė biblioteka yra biudžetinė įstaiga. Jos savininkė yra valstybė, jos savininko teises ir pareigas įgyvendina Kultūros ministerija.
+
+2. Lietuvos audiosensorinė biblioteka atlieka šias funkcijas:
+
+1) aptarnauja asmenis, negalinčius skaityti įprasto spausdinto teksto;
+
+2) kaupia ir saugo tradicinių tiflotyrinių, prieinamumo bei įtraukties tematikos, skaitmeninių dokumentų ir dokumentų prieinamais formatais fondą;
+
+3) vykdo informacijos išteklių prieinamais formatais leidybinę veiklą ir pritaiko bei adaptuoja išleistus ar viešai paskelbtus leidinius;
+
+4) vykdo tarptautinį keitimąsi kūrinių ar kitų objektų prieinamos formos kopijomis;
+
+5) kuria ir diegia Elektroninių leidinių valdymo informacinę sistemą (ELVIS);
+
+6) teikia metodinę pagalbą leidėjams, rinkos priežiūros institucijoms, rengia gaires, rekomendacijas ir kitus dokumentus, padedančius įgyvendinti įtraukios leidybos principus, užtikrinant skaitmeninių leidinių prieinamumo reikalavimus;
+
+7) atlieka aklųjų (Brailio) rašto naudojimo leidyboje stebėseną ir kontrolę;
+
+8) vykdo skaitmeninio ir medijų raštingumo ugdymo, kultūrinės edukacijos ir kitas neformalaus švietimo veiklas;
+
+9) atlieka asmenų, negalinčių skaityti įprasto spausdinto teksto, aptarnavimo metodinio centro funkcijas;
+
+10) atlieka kitas teisės aktuose ir savo nuostatuose nustatytas funkcijas.
+
+3. Lietuvos audiosensorinė biblioteka gali atlikti mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą.
+
+Papildyta straipsniu:
+
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
 
