@@ -4,7 +4,7 @@ identifier: "TAR.3B8E4F16C815"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-10-02"
-last_updated: "2021-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3B8E4F16C815"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 straipsnio 2 dalis įsigalioja 2012-10-20"
 
 LIETUVOS RESPUBLIKOS KRIMINALINĖS ŽVALGYBOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2021-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-05-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 122-6093, i. k. 1121010ISTA0XI-2234
 
@@ -80,13 +80,15 @@ BENDROSIOS NUOSTATOS
 
 10. Kriminalinės žvalgybos objektai – galimai rengiamos, daromos ar padarytos nusikalstamos veikos, jas rengiantys, darantys ar padarę asmenys, šių asmenų aktyvūs veiksmai neutralizuojant kriminalinę žvalgybą, kiti su valstybės nacionaliniu saugumu susiję įvykiai ir asmenys.
 
-11. Kriminalinės žvalgybos pagrindinės institucijos – Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos Respublikos vadovybės apsaugos tarnyba, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Specialiųjų tyrimų tarnyba, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. Kriminalinės žvalgybos pagrindinių institucijų teises ir pareigas taip pat turi Antrasis operatyvinių tarnybų departamentas prie Lietuvos Respublikos krašto apsaugos ministerijos ir Valstybės saugumo departamentas, kai jų padaliniai atlieka kriminalinės žvalgybos tyrimą šio įstatymo nustatytais pagrindais ir tvarka.
+11. Kriminalinės žvalgybos pagrindinės institucijos – Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos kalėjimų tarnyba, Lietuvos Respublikos vadovybės apsaugos tarnyba, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos specialiųjų tyrimų tarnyba, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. Kriminalinės žvalgybos pagrindinių institucijų teises ir pareigas taip pat turi Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos ir Lietuvos Respublikos valstybės saugumo departamentas, kai jų padaliniai atlieka kriminalinės žvalgybos tyrimą šio įstatymo nustatytais pagrindais ir tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
 
 Nr. XIII-2912, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10910
+
+Nr. XIV-1210, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15574
 
 12. Kriminalinės žvalgybos subjektai – kriminalinę žvalgybą įgalioti vykdyti padaliniai. Šių padalinių sąrašą sudaro ir jų veiklos mastą nustato Lietuvos Respublikos Vyriausybė.
 
@@ -813,4 +815,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-140, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00262
 
 Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 20 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1210, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15574
+
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 2 straipsnio pakeitimo įstatymas
 
