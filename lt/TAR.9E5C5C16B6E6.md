@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2022-05-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-07-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -104,6 +104,12 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
 15. Įmonė – Lietuvos Respublikoje įsteigtas juridinis asmuo, Lietuvos Respublikoje įstatymų nustatyta tvarka įsteigtas užsienio juridinio asmens filialas.
 
+151. Kombinuotoji pakuotė – kaip tai apibrėžta Lietuvos Respublikos pakuočių ir pakuočių atliekų įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1619, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25043
+
 16. Masinis renginys – šventė, festivalis ar kitas didelei žmonių grupei skirtas renginys, kurį organizuoja valstybės ar savivaldybių institucijos ar įstaigos, fiziniai asmenys, juridiniai asmenys ar juridinio asmens statuso neturinčios organizacijos ar jų filialai, suderinę renginio laiką ir jo organizavimo tvarką su reikiamomis savivaldybės institucijomis (kai toks suderinimas būtinas pagal Lietuvos Respublikos susirinkimų įstatymą).
 
 17. Mažmeninės prekybos vieta – parduotuvė, automobilinė parduotuvė ir kitos vietos, kuriose verčiamasi mažmenine prekyba ir kurios yra įrengtos laikantis maisto tvarkymą reglamentuojančių teisės aktų reikalavimų.
@@ -153,6 +159,12 @@ Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 26. Stacionarioji mažmeninės prekybos vieta – mažmeninės prekybos vieta, įrengta Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka Nekilnojamojo turto registre įregistruotame pastate.
 
 27. Stacionarioji viešojo maitinimo vieta – viešojo maitinimo vieta, įrengta Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka Nekilnojamojo turto registre įregistruotame pastate.
+
+271. Sudėtinė pakuotė – alkoholinio gėrimo vieneto pakuotė, sudaryta iš dviejų ar daugiau skirtingų medžiagų pakuočių, kurios viena nuo kitos gali būti atskirtos rankomis ar paprastomis fizinėmis priemonėmis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1619, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25043
 
 28. Ugdymo įstaiga – formaliojo ir (ar) neformaliojo švietimo įstaiga.
 
@@ -694,7 +706,11 @@ Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
 
 3) alkoholinius gėrimus asmenims, jaunesniems kaip 20 metų;
 
-4) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 6 procentai, išpilstytus į didesnę negu 0,2 litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą;
+4) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 6 procentai, išpilstytus į didesnę negu 0,2 litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą. Natūralios fermentacijos vaisių ir (ar) uogų vynai bei vaisių ir (ar) uogų vyno gėrimai, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 6 procentai, gali būti išpilstyti ir į ne didesnę kaip 3,5 litro plastikinę tarą, sudėtinę pakuotę ar kombinuotąją pakuotę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1619, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25043
 
 5) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra ne didesnė kaip 6 procentai, išpilstytus į didesnę negu vieno litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą;
 
@@ -886,7 +902,11 @@ Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
 
 3. Kaip laikomasi šiame straipsnyje nustatytų reikalavimų, kontroliuoja Narkotikų, tabako ir alkoholio kontrolės departamentas.
 
-4. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta alkoholio reklama, turi teisę duoti privalomus nurodymus informacijos prieglobos paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo saugomą informaciją, kuri naudojama skleidžiant alkoholio reklamą, arba panaikinti galimybę alkoholio reklamą pasiekti.
+4. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta alkoholio reklama, turi teisę duoti privalomus nurodymus informacijos prieglobos paslaugų teikėjui ir (ar) viešojo elektroninių ryšių tinklo paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo ir (ar) viešojo elektroninių ryšių tinklo paslaugų teikėjo saugomą informaciją, kuri naudojama skleidžiant alkoholio reklamą, arba panaikinti galimybę pasiekti alkoholio reklamą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1618, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25042
 
 5. Narkotikų, tabako ir alkoholio kontrolės departamentas, siekdamas atlikti šio straipsnio 4 dalyje nurodytus veiksmus, privalo pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, o jeigu tokio asmens vardo, pavardės arba pavadinimo neįmanoma nustatyti ar šių duomenų nustatymas reikalauja neproporcingai daug sąnaudų, turi būti nurodytas asmens (asmenų), kurių naudai arba interesais skleidžiama alkoholio reklama, pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Vilniaus apygardos administracinis teismas išnagrinėja prašymą išduoti leidimą atlikti veiksmus ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 darbo dienas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Narkotikų, tabako ir alkoholio kontrolės departamentas nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, jis turi teisę per 7 darbo dienas nuo tokios nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus ne vėliau kaip per 7 darbo dienas nuo Narkotikų, tabako ir alkoholio kontrolės departamento skundo priėmimo dienos. Narkotikų, tabako ir alkoholio kontrolės departamento atstovas turi teisę dalyvauti nagrinėjant skundą, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
 
