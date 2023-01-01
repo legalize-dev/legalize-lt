@@ -4,7 +4,7 @@ identifier: "TAR.8DDDD8D87491"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2021-05-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-05-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
-
-TAR pastaba. Katės, šunys ir šeškai, atvesti įsigaliojus (2021-05-01) įstatymui Nr. XIV-231, turi būti paženklinti ir registruoti Gyvūnų augintinių registre per 4 mėnesius nuo jų atvedimo, bet ne vėliau kaip iki jų perdavimo kitam savininkui ar laikytojui. Iki šio įstatymo įsigaliojimo dienos atvesti katės, šunys ir šeškai, kurie nėra paženklinti mikroschemomis, turi būti paženklinti ir registruoti Gyvūnų augintinių registre iki 2022 m. gegužės 1 d., bet ne vėliau kaip iki jų perdavimo kitam savininkui ar laikytojui. Jeigu katės, šunys ar šeškai yra naudojami versliniam veisimui ir yra atvesti iki šio įstatymo įsigaliojimo dienos, jie privalo būti paženklinti mikroschemomis ir registruoti Gyvūnų augintinių registre iki 2021 m. rugsėjo 1 d.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
-
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 4, 7, 9, 10 ir 12 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2013-01-01:
 
@@ -183,7 +175,11 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 
 3. Aplinkos ministerija ar jos įgaliotos institucijos:
 
-1) pagal kompetenciją formuoja valstybės politiką laukinių gyvūnų gerovės ir apsaugos srityje, padeda ją įgyvendinti įgaliotoms institucijoms;
+1) pagal kompetenciją formuoja valstybės politiką laukinių gyvūnų ir gyvūnų augintinių gerovės ir apsaugos srityje, organizuoja, koordinuoja ir kontroliuoja, kaip ji įgyvendinama;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 2) Neteko galios nuo 2021-05-01
 
@@ -199,17 +195,33 @@ Straipsnio punkto naikinimas:
 
 Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
 
-5) informuoja ir konsultuoja suinteresuotus asmenis dėl laukinių gyvūnų gerovės ir apsaugos;
+5) nustato kačių, šunų, šeškų ir kitų gyvūnų augintinių ženklinimo ir registravimo tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 6) atlieka kitas teisės aktuose nustatytas funkcijas.
 
 4. Žemės ūkio ministerija ar jos įgaliotos institucijos:
 
-1) pagal kompetenciją formuoja valstybės politiką ūkinių gyvūnų, gyvūnų augintinių gerovės ir apsaugos srityje, paveda ją įgyvendinti įgaliotoms institucijoms, organizuoja, koordinuoja ir kontroliuoja, kaip ji įgyvendinama;
+1) pagal kompetenciją formuoja valstybės politiką ūkinių gyvūnų gerovės ir apsaugos srityje, organizuoja, koordinuoja ir kontroliuoja, kaip ji įgyvendinama;
 
-2) informuoja ir konsultuoja suinteresuotus asmenis dėl ūkinių gyvūnų, gyvūnų augintinių gerovės ir apsaugos;
+Straipsnio punkto pakeitimai:
 
-3) nustato kačių, šunų ir šeškų bei kitų gyvūnų augintinių ženklinimo ir registravimo tvarką;
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
+
+2) neteko galios nuo 2023-01-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
+
+3) neteko galios nuo 2023-01-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 4) atlieka kitas teisės aktuose nustatytas funkcijas.
 
@@ -269,7 +281,11 @@ Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 11) rengia gyvūnų laikymo savivaldybių teritorijų gyvenamosiose vietovėse tvarkos aprašą;
 
-12) organizuoja kačių, šunų ir šeškų, taip pat pagal poreikį kitų gyvūnų augintinių registravimą ir ženklinimą;
+12) vykdo gyvūnų globėjų, gyvūnų augintinių veisėjų, gyvūnų globos namuose ir gyvūnų augintinių viešbučiuose laikomų kačių, šunų ir šeškų ženklinimo ir registravimo reikalavimų laikymosi priežiūrą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 13) tvirtina gyvūnų galimybes stimuliuojančių medžiagų, didinančių gyvūnų produktyvumą, darbingumą, sportinius rezultatus, naudojimo reikalavimus;
 
@@ -279,7 +295,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
-15) informuoja ir konsultuoja suinteresuotus asmenis apie gyvūnų gerovės ir apsaugos reikalavimus;
+15) neteko galios nuo 2023-01-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 16) atlieka kitas teisės aktuose nustatytas funkcijas.
 
@@ -301,7 +321,17 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
-7) atlieka kitas teisės aktuose nustatytas funkcijas.
+7) kontroliuoja, ar šunų, kačių ir šeškų laikytojai ar savininkai nustatyta tvarka yra paženklinę ir registravę laikomus gyvūnus augintinius;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
+
+8) atlieka kitas teisės aktuose nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 4 straipsnis. Žiaurus elgesys su gyvūnais ir jų kankinimas
 
@@ -441,7 +471,25 @@ GYVŪNŲ LAIKYMAS, REGISTRAVIMAS, ŽENKLINIMAS, GYDYMAS
 
 6 straipsnis. Gyvūnų laikymas
 
-Kiekvienas gyvūnas privalo būti laikomas ir prižiūrimas gyvūno rūšį, amžių, fiziologiją ir elgseną atitinkančiomis sąlygomis, pagal gyvūnų laikymą reglamentuojančių teisės aktų reikalavimus, užtikrinant, kad nebūtų varžoma gyvūno judėjimo laisvė ir gyvūnui nebūtų keliamas nepatogumo jausmas, skausmas ar kančia.
+1. Kiekvienas gyvūnas privalo būti laikomas ir prižiūrimas gyvūno rūšį, amžių, fiziologiją ir elgseną atitinkančiomis sąlygomis, pagal gyvūnų laikymą reglamentuojančių teisės aktų reikalavimus, užtikrinant, kad nebūtų varžoma gyvūno judėjimo laisvė ir gyvūnui nebūtų keliamas nepatogumo jausmas, skausmas ar kančia.
+
+2. Gyvūno laikytoju negali būti asmuo, kuris:
+
+1) yra baustas už administracinius nusižengimus, numatytus Administracinių nusižengimų kodekso 346 straipsnio 16 dalyje, ir iš kurio buvo konfiskuoti visi gyvūnai, – 2 metus įsiteisėjus nuobaudai;
+
+2) yra baustas už administracinius nusižengimus, numatytus Administracinių nusižengimų kodekso 346 straipsnio 17, 18, 19 dalyse, ir iš kurio buvo konfiskuoti visi gyvūnai, – 4 metus įsiteisėjus nuobaudai;
+
+3) yra teistas už nusikalstamos veikos, nurodytos Baudžiamojo kodekso 310 straipsnyje, padarymą ar atleistas nuo baudžiamosios atsakomybės pagal Baudžiamojo kodekso 310 straipsnį šio kodekso 38, 39, 40 straipsniuose nurodytais pagrindais, – vykdant teismo sprendimą ir 10 metų įvykdžius teismo sprendimą.
+
+3. Šio straipsnio 2 dalies 1 ir 2 punktai taikomi atžvilgiu tų gyvūnų rūšių, prieš kurioms priklausančius gyvūnus asmuo naudojo neteisėtus veiksmus ir už šiuos veiksmus buvo patrauktas administracinėn atsakomybėn, visi šie gyvūnai buvo konfiskuoti. Šio straipsnio 2 dalies 3 punktas taikomas visų gyvūnų rūšių atžvilgiu.
+
+4. Teisinę atsakomybę už žiaurų elgesį su gyvūnais asmeniui taikiusi institucija raštu jį informuoja apie šio straipsnio 2 dalyje nustatytą draudimą.
+
+5. Asmeniui, pažeidusiam šio straipsnio 2 dalies nuostatas, taikoma administracinė atsakomybė ir įsiteisėjus nuobaudai šio straipsnio 2 dalyje nurodyti laikotarpiai pradedami skaičiuoti iš naujo.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
 
 7 straipsnis. Gyvūnų registravimas ir ženklinimas
 
@@ -461,7 +509,11 @@ Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
 
 Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 
-4. Gyvūnų augintinių registro valdytoja – Žemės ūkio ministerija, tvarkytojos – valstybės įmonė Žemės ūkio informavimo ir kaimo verslo centras ir Valstybinė maisto ir veterinarijos tarnyba.
+4. Gyvūnų augintinių registro valdytoja – Aplinkos ministerija, tvarkytojai – valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras ir Valstybinė maisto ir veterinarijos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -753,21 +805,55 @@ Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
 
 3. Šio įstatymo vykdymą kontroliuojančių institucijų pareigūnai turi teisę:
 
-1) įeiti į gyvenamuosius ar negyvenamuosius pastatus ar kitas teritorijas, kuriuose yra laikomi gyvūnai, gavę to pastato ar teritorijos savininko sutikimą, ir atlikti tikrinimus, gauti ar paimti visą su tikrinimu susijusią informaciją ar įrodymus;
+1) įeiti į gyvenamuosius ar negyvenamuosius pastatus ar kitas teritorijas, kuriuose yra laikomi gyvūnai, gavę to pastato ar teritorijos savininko sutikimą, ir atlikti tikrinimus, gauti ar paimti visą su tikrinimu susijusią informaciją ar įrodymus. Savininko ar šios dalies 2 punkte nurodyto teismo leidimo nereikia, kai, esant pakankamai duomenų, kad gyvenamajame, negyvenamajame pastate ar kitoje teritorijoje gyvūnui gresia suluošinimas ar žūtis, siekiama apsaugoti šį gyvūną nuo galimo suluošinimo ar žūties ir šio tikslo neįmanoma pasiekti kitomis priemonėmis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
 
 2) patekti į gyvenamuosius ar negyvenamuosius pastatus ar kitas teritorijas, kur yra laikomi gyvūnai, ir atlikti tikrinimus, gauti ar paimti visą su tikrinimu susijusią informaciją ar įrodymus, su teismo leidimu, išduotu vadovaujantis šio straipsnio 4 dalimi, jeigu gyvūnų laikytojas, savininkas trukdo ar vengia, kad jo veikla būtų tikrinama, ir yra pagrindo manyti, kad jis pažeidžia šio įstatymo ir kitų teisės aktų, reglamentuojančių gyvūnų gerovę ir apsaugą, reikalavimus;
 
-3) nepažeisdami teisės aktų, reglamentuojančių asmens duomenų tvarkymą ir fizinių asmenų privataus gyvenimo neliečiamumą, fotografuoti, daryti garso ir vaizdo įrašus, imti dokumentus ar daryti jų kopijas, reikalingus jiems pavestoms funkcijoms atlikti;
+3) atlikti kontrolinius patikrinimus, ar asmenys, kurie pagal šio įstatymo 6 straipsnio 2 dalies nuostatas negali būti gyvūnų laikytojais, nepažeidžia draudimo laikyti gyvūnus;
 
-4) teikti pranešimus, pareiškimus teisėsaugos institucijoms, kad asmenys būtų patraukti baudžiamojon atsakomybėn už šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų pažeidimus;
+Papildyta straipsnio punktu:
 
-5) vykdydami šiuo įstatymu jiems pavestas funkcijas, pasitelkti kitų valstybės ir savivaldybės institucijų ir įstaigų pareigūnų pagalbą;
+Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
 
-6) teisės aktuose nustatyta tvarka taikyti administracines nuobaudas, administracinio poveikio priemones ir priimti administracinius sprendimus;
+4) nepažeisdami teisės aktų, reglamentuojančių asmens duomenų tvarkymą ir fizinių asmenų privataus gyvenimo neliečiamumą, fotografuoti, daryti garso ir vaizdo įrašus, imti dokumentus ar daryti jų kopijas, reikalingus jiems pavestoms funkcijoms atlikti;
 
-7) perduoti bešeimininkius ar bepriežiūrius gyvūnus laikinajai globai ar gyvūnus, paimtus iš gyvūnų savininkų, laikytojų pagal šio įstatymo 4 straipsnio 5 dalį, gyvūnų globėjams ar kitiems gyvūnų laikytojams;
+Straipsnio punkto numeracijos pakeitimas:
 
-8) įstatyme nustatytais atvejais organizuoti iš gyvūnų savininkų, laikytojų paimtų gyvūnų nugaišinimo procedūrą.
+Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
+
+5) teikti pranešimus, pareiškimus teisėsaugos institucijoms, kad asmenys būtų patraukti baudžiamojon atsakomybėn už šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų pažeidimus;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
+
+6) vykdydami šiuo įstatymu jiems pavestas funkcijas, pasitelkti kitų valstybės ir savivaldybės institucijų ir įstaigų pareigūnų pagalbą;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
+
+7) teisės aktuose nustatyta tvarka taikyti administracines nuobaudas, administracinio poveikio priemones ir priimti administracinius sprendimus;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
+
+8) perduoti bešeimininkius ar bepriežiūrius gyvūnus laikinajai globai ar gyvūnus, paimtus iš gyvūnų savininkų, laikytojų pagal šio įstatymo 4 straipsnio 5 dalį, gyvūnų globėjams ar kitiems gyvūnų laikytojams;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
+
+9) įstatyme nustatytais atvejais organizuoti iš gyvūnų savininkų, laikytojų paimtų gyvūnų nugaišinimo procedūrą.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
 
 4. Prašymas išduoti leidimą atlikti šio straipsnio 3 dalies 2 punkte nurodytus veiksmus pateikiamas apygardos administraciniam teismui. Apygardos administracinis teismas išnagrinėja prašymą ir priima motyvuotą nutartį prašymą patenkinti arba atmesti ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo momento. Jeigu šio įstatymo vykdymą kontroliuojanti institucija nesutinka su apygardos administracinio teismo sprendimu atmesti prašymą, ji turi teisę per 7 darbo dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl apygardos administracinio teismo nutarties ne vėliau kaip per 7 darbo dienas. Įstatymo vykdymą kontroliuojančios institucijos įgaliotas pareigūnas ir (arba) atstovas turi teisę dalyvauti Lietuvos vyriausiajame administraciniame teisme nagrinėjant skundą žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti atitinkamus veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
 
@@ -884,6 +970,24 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 
 Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 4, 7, 9, 10 ir 12 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
+
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 3 ir 7 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
+
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 6 ir 21 straipsnių pakeitimo įstatymas
+
+part_f8b33ec10b4a42e49e4f5cca38279a57_end
 
 61 straipsnis. Agresyvių šunų įvežimas, įsigijimas, laikymas, registravimas, ženklinimas, veisimas, dresavimas, prekyba jais bei jų paėmimas
 
