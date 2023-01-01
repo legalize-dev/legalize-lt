@@ -4,7 +4,7 @@ identifier: "TAR.EC01522BCE65"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-09
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
 
@@ -611,6 +611,14 @@ Nr. XIV-872, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26909
 
 Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 11 ir 12 straipsnių pakeitimo įstatymas
 
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1227, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15593
+
+Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 19-1 straipsnio pakeitimo įstatymas
+
 30 straipsnis. Seimo kontrolierių darbo apmokėjimas ir garantijos
 
 1. Seimo kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Seimo kontrolierių įstaigos vadovas ar laikinai jį pavaduojantis kontrolierius gauna 10 procentų didesnį atlyginimą negu Seimo kontrolieriaus atlyginimas. Kiti priedai ar premijos Seimo kontrolieriams nemokami. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, Seimo kontrolieriams taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
@@ -703,9 +711,17 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 25 straipsnio pakeitimo įsta
 
 3. Laisvės apribojimo vieta yra bet kuri Lietuvos Respublikos jurisdikcijai priklausanti ar jos kontroliuojama vieta, kurioje asmenų laisvė yra arba gali būti apribota, vadovaujantis valdžios įstaigos sprendimu ar jai paraginus arba su jos pritarimu ar sutikimu. Laisvės apribojimo vietomis laikytinos:
 
-1) pataisos įstaigos;
+1) laisvės atėmimo vietų įstaiga;
 
-2) tardymo izoliatoriai;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1227, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15593
+
+2) neteko galios nuo 2023-01-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1227, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15593
 
 3) areštinės;
 
