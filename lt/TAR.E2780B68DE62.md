@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2022-10-05"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-10-05 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-04
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -731,23 +731,19 @@ Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
 
 V SKYRIUS. APLINKOS BŪKLĖS STEBĖJIMO IR NEIGIAMOPOVEIKIO APLINKAI RIBOJIMO SISTEMA
 
-25 straipsnis. Aplinkos būklės stebėjimo sistema
+25 straipsnis. Gamtinės aplinkos stebėjimas
 
-Aplinkai ir jos komponentų būklei stebėti Lietuvos Respublikoje sudaroma vieninga aplinkos monitoringo sistema, apimanti valstybinį ir ūkio subjektų aplinkos monitoringą. Aplinkos ministerija organizuoja aplinkos monitoringą ir koordinuoja ūkio subjektų vykdomą aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
-
-Valstybinis aplinkos monitoringas finansuojamas iš valstybės lėšų.Ūkio subjektai aplinkos monitoringą vykdo savo lėšomis.
-
-Valstybinio ir ūkio subjektų aplinkos monitoringo turinį, struktūrą bei vykdymo tvarką nustato Aplinkos monitoringo įstatymas.
+Gamtinės aplinkos būklės kitimui ir antropogeniniam poveikiui šiai aplinkai stebėti, vertinti ir prognozuoti Lietuvos Respublikoje sudaroma aplinkos monitoringo sistema, apimanti valstybinį, savivaldybių ir ūkio subjektų aplinkos monitoringą. Valstybinio, savivaldybių ir ūkio subjektų aplinkos monitoringo turinį, struktūrą, įgyvendinimą, aplinkos monitoringo procese dalyvaujančių subjektų teises, pareigas ir atsakomybę nustato Lietuvos Respublikos aplinkos monitoringo įstatymas.
 
 Straipsnio pakeitimai:
 
 Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
 Nr. IX-2113, 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1267, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14923
 
 26 straipsnis. Neigiamo poveikio aplinkai ribojimo sistema
 
@@ -3770,4 +3766,50 @@ Apie šio straipsnio pirmojoje dalyje priimtą sprendimą dėl laikinųjų ūkin
 Papildyta straipsniu:
 
 Nr. XIV-1433, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20225
+
+941 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pateikimo Lietuvos Respublikos rinkai apskaitos vykdymo ir ataskaitos teikimo reikalavimų nevykdymą
+
+Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pateikimo Lietuvos Respublikos rinkai apskaitos vykdymas nesilaikant teisės aktuose nustatytų reikalavimų po to, kai juridinis asmuo apie pažeidimą buvo įspėtas raštu, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+Akivaizdžiai neteisingų ar suklastotų duomenų vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) apskaitos dokumentuose ir (ar) apskaitos ir atliekų tvarkymo ataskaitose pateikimas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) apskaitos ir atliekų tvarkymo ataskaitos nepateikimas po to, kai raštu buvo įspėta apie šių dokumentų pateikimo terminus, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+
+Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pateikimo Lietuvos Respublikos rinkai apskaitos nevykdymas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+
+Papildyta straipsniu:
+
+Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
+
+951 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pateikimą Lietuvos Respublikos rinkai neįsiregistravus teisės aktų nustatyta tvarka
+
+Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pateikimas Lietuvos Respublikos rinkai neįsiregistravus Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+
+Papildyta straipsniu:
+
+Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
+
+1021 straipsnis. Juridinių asmenų atsakomybė už gaminių atliekų tvarkymo finansavimo neorganizavimą
+
+Įstatymuose numatytos pareigos organizuoti atliekų ir šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai tabako gaminius su filtrais ir (ar) filtrus, parduodamus naudoti kartu su tabako gaminiais, išrinkimo, surinkimo, vežimo, apdorojimo finansavimą nevykdymas užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturiolikos tūkstančių iki dvidešimt trijų tūkstančių eurų.
+
+Papildyta straipsniu:
+
+Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
+
+1082 straipsnis. Juridinių asmenų atsakomybė už atliekų ir šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai užpildytus vienkartinius plastikinius gaminius, tvarkymo finansavimo neorganizavimą
+
+Įstatymuose numatytos pareigos organizuoti atliekų ir šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai užpildytus vienkartinius plastikinius gaminius (be papildomo paruošimo suvartoti skirto maisto tarą, lanksčius pakelius ir vyniojamojo popieriaus pakuotes, ne didesnę kaip trijų litrų talpos gėrimų tarą, gėrimų indelius, įskaitant jų kamštelius ir dangtelius, lengvuosius plastikinius pirkinių maišelius), išrinkimo, surinkimo, vežimo, apdorojimo finansavimą nevykdymas užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturiolikos tūkstančių iki dvidešimt trijų tūkstančių eurų.
+
+Papildyta straipsniu:
+
+Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
