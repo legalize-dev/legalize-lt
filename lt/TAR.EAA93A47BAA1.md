@@ -4,7 +4,7 @@ identifier: "TAR.EAA93A47BAA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-28"
-last_updated: "2020-07-15"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2020-07-15 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
 
@@ -653,11 +653,13 @@ PIRMINĖS TEISINĖS PAGALBOS TEIKIMAS
 
 15 straipsnis. Pirminės teisinės pagalbos teikimo tvarka
 
-1. Asmenys, norintys gauti pirminę teisinę pagalbą, turi teisę kreiptis į savivaldybės, kurioje gyvena, vykdomąją instituciją. Laisvės atėmimo bausmę atliekantys asmenys ir kardomojo kalinimo vietose laikomi asmenys turi teisę kreiptis į savivaldybės vykdomąją instituciją pagal laisvės atėmimo vietą.
+1. Asmenys, norintys gauti pirminę teisinę pagalbą, turi teisę kreiptis į savivaldybės, kurioje gyvena, vykdomąją instituciją. Laisvės atėmimo vietų įstaigoje laikomi asmenys turi teisę kreiptis į savivaldybės vykdomąją instituciją pagal bausmės atlikimo ar suėmimo vykdymo vietą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
+
+Nr. XIV-1217, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15582
 
 2. Pirminė teisinė pagalba turi būti suteikta iš karto, kai asmuo kreipiasi į savivaldybės vykdomąją instituciją. Jeigu nėra galimybės iš karto suteikti pirminę teisinę pagalbą, pareiškėjui pranešama apie priėmimo laiką, kuris turi būti ne vėlesnis kaip 5 darbo dienos nuo kreipimosi dienos. Jeigu, vadovaujantis šio įstatymo 11 straipsnio 6 dalimi, pirminė teisinė pagalba neteikiama, apie tai asmeniui pranešama raštu ne vėliau kaip per 5 darbo dienas nuo sprendimo atsisakyti teikti pirminę teisinę pagalbą dienos. Sprendimas atsisakyti teikti pirminę teisinę pagalbą gali būti skundžiamas Lietuvos administracinių ginčų komisijai arba teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka.
 
