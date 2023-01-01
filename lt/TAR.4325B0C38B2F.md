@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-07-01
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
 
@@ -193,7 +193,11 @@ Nr. XIII-3027, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13465
 
 2 straipsnis. Nelaimingų atsitikimų darbe socialinis draudimas
 
-1. Nelaimingų atsitikimų darbe socialinis draudimas šio įstatymo nustatytais atvejais kompensuoja dėl draudžiamųjų įvykių (nelaimingų atsitikimų darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba profesinių ligų) negautas pajamas šios rūšies draudimu apdraustiesiems asmenims, o jų mirties dėl draudžiamųjų įvykių atvejais – jų šeimos nariams.
+1. Nelaimingų atsitikimų darbe socialinis draudimas šio įstatymo nustatytais atvejais kompensuoja dėl draudžiamųjų įvykių (nelaimingų atsitikimų darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba profesinių ligų) negautas pajamas ar pajamų dalį šios rūšies draudimu apdraustiesiems asmenims, o jų mirties dėl draudžiamųjų įvykių atvejais – jų šeimos nariams, mokant iš Valstybinio socialinio draudimo fondo ir (ar) valstybės biudžeto lėšų šiame įstatyme nustatytas išmokas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-753, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26585
 
 2. Nukentėjusiųjų gydymo ir medicininės reabilitacijos paslaugos kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka.
 
@@ -279,7 +283,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-948, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21640
 
-6) pataisos pareigūnų švietimo įstaigos, kuriose asmenys mokosi pagal profesinio mokymo programas (kursantai), vidaus reikalų profesinio mokymo įstaigos, kuriose arba kurių įvadinio mokymo kursuose mokosi asmenys, kurie yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai), karo mokymo įstaigos, kuriose studijuodami asmenys atlieka karo tarnybą (kariūnai);
+6) bausmių vykdymo sistemos įstaigos, kuriose asmenys mokosi pagal profesinio mokymo programas (kursantai), vidaus reikalų profesinio mokymo įstaigos, kuriose arba kurių įvadinio mokymo kursuose mokosi asmenys, kurie yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai), karo mokymo įstaigos, kuriose studijuodami asmenys atlieka karo tarnybą (kariūnai);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1222, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15587
 
 7) įmonės, įstaigos, organizacijos ar kitos organizacinės struktūros, kuriose asmenys atlieka savanorišką praktiką Lietuvos Respublikos užimtumo įstatymo nustatyta tvarka;
 
@@ -295,7 +303,11 @@ Nr. XIII-948, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21640
 
 3) dirbant darbą, už kurį mokamas darbo užmokestis, nuo kurio mokamos arba turi būti mokamos nelaimingų atsitikimų darbe socialinio draudimo įmokos.
 
-2. Draudžiamaisiais įvykiais pripažįstami apdraustiesiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 6 straipsnio 4, 5, 8 ir 10 dalyse (išskyrus pataisos pareigūnų švietimo įstaigose pagal profesinio mokymo programas besimokančius asmenis (kursantus), vidaus reikalų profesinio mokymo įstaigoje ar vidaus reikalų profesinio mokymo įstaigos įvadinio mokymo kursuose besimokančius asmenis (kursantus), kurie yra pasirašę stojimo į vidaus tarnybą sutartį, bei atliekančius karo tarnybą studijuojant karo mokymo įstaigoje asmenis (kariūnus), įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos, kuriuos ištyrus nustatoma, kad jie įvyko esant visoms šioms sąlygoms:
+2. Draudžiamaisiais įvykiais pripažįstami apdraustiesiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 6 straipsnio 4, 5, 8 ir 10 dalyse (išskyrus bausmių vykdymo sistemos įstaigose pagal profesinio mokymo programas besimokančius asmenis (kursantus), vidaus reikalų profesinio mokymo įstaigoje ar vidaus reikalų profesinio mokymo įstaigos įvadinio mokymo kursuose besimokančius asmenis (kursantus), kurie yra pasirašę stojimo į vidaus tarnybą sutartį, bei atliekančius karo tarnybą studijuojant karo mokymo įstaigoje asmenis (kariūnus), įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos, kuriuos ištyrus nustatoma, kad jie įvyko esant visoms šioms sąlygoms:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1222, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15587
 
 1) dirbant draudėjo nustatytu darbo laiku, taip pat atskiru draudėjo nurodymu paskirtu dirbti laiku bei dirbant tarnybinių komandiruočių laiku;
 
@@ -307,7 +319,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-3027, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13465
 
-3. Draudžiamaisiais įvykiais pripažįstami ir su pareigūno tarnybinių pareigų atlikimu susiję įvykiai, kurių metu pareigūnas patiria rizikos veiksnio (cheminio, fizikinio, biologinio, fizinio arba ergonominio) ar kelių veiksnių poveikį, kurio padarinys yra pareigūno mirtis ar sveikatos sutrikdymas. Draudžiamaisiais įvykiais taip pat pripažįstami apdraustiesiems asmenims, kurie mokosi pataisos pareigūnų švietimo įstaigoje pagal profesinio mokymo programas (kursantams), vidaus reikalų profesinio mokymo įstaigoje ar vidaus reikalų profesinio mokymo įstaigos įvadinio mokymo kursuose ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantams) arba atlieka karo tarnybą studijuodami karo mokymo įstaigoje (kariūnams), įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos jų mokymo ir pratybų laiku.
+3. Draudžiamaisiais įvykiais pripažįstami ir su pareigūno tarnybinių pareigų atlikimu susiję įvykiai, kurių metu pareigūnas patiria rizikos veiksnio (cheminio, fizikinio, biologinio, fizinio arba ergonominio) ar kelių veiksnių poveikį, kurio padarinys yra pareigūno mirtis ar sveikatos sutrikdymas. Draudžiamaisiais įvykiais taip pat pripažįstami apdraustiesiems asmenims, kurie mokosi bausmių vykdymo sistemos įstaigose pagal profesinio mokymo programas (kursantams), vidaus reikalų profesinio mokymo įstaigoje ar vidaus reikalų profesinio mokymo įstaigos įvadinio mokymo kursuose ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantams) arba atlieka karo tarnybą studijuodami karo mokymo įstaigoje (kariūnams), įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos jų mokymo ir pratybų laiku.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1222, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15587
 
 4. Draudžiamaisiais įvykiais pripažįstamos nustatytos lėtinės profesinės ligos, kai nustatoma, kad nukentėjusieji, įsigaliojus šiam įstatymui, buvo draudžiami nelaimingų atsitikimų darbe socialiniu draudimu kaip šio įstatymo 4 straipsnyje nurodyti apdraustieji asmenys.
 
