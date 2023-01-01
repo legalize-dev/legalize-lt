@@ -4,7 +4,7 @@ identifier: "TAR.7E8386C5AA76"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2022-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-07-05
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
 
@@ -468,9 +468,17 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas, valdymo o
 
 3) tvirtina kolegijos personalinę sudėtį ir kolegijos darbo reglamentą;
 
-4) tvirtina regiono plėtros tarybos metinių finansinių ataskaitų rinkinį;
+4) tvirtina regiono plėtros tarybos metinių ataskaitų rinkinį;
 
-5) priima sprendimą dėl regiono plėtros tarybos metinių finansinių ataskaitų rinkinio audito ir veiklos audito atlikimo ir parenka auditorių ar audito įmonę;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+
+5) priima sprendimus dėl regiono plėtros tarybos metinių finansinių ataskaitų audito ir veiklos audito atlikimo ir parenka auditorių ar audito įmonę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 6) priima sprendimą dėl kitų juridinių asmenų steigimo ar dėl tapimo kitų juridinių asmenų dalyviu;
 
@@ -552,7 +560,11 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas, valdymo o
 
 6) priima sprendimus dėl pasiūlymų teikimo savivaldybių taryboms perduoti savivaldybių viešųjų paslaugų teikimo administravimo įgaliojimus regiono plėtros tarybai, o savivaldybių taryboms priėmus sprendimą perduoti konkrečius viešųjų paslaugų teikimo administravimo įgaliojimus regiono plėtros tarybai, priima sprendimus dėl šių įgaliojimų įgyvendinimo;
 
-7) tvirtina regiono plėtros tarybos metinį veiklos planą ir metinę veiklos ataskaitą;
+7) vertina regiono plėtros tarybos metinių ataskaitų rinkinį, teikia atsiliepimus apie jį regiono plėtros tarybos visuotiniam dalyvių susirinkimui ir tvirtina regiono plėtros tarybos metinį veiklos planą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 8) skiria regiono plėtros tarybos administracijos direktorių ir atleidžia jį iš pareigų;
 
@@ -682,7 +694,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
-6) užtikrinti regiono plėtros tarybos metinių finansinių ataskaitų rinkinio parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliekamas) visuotiniam dalyvių susirinkimui ir Juridinių asmenų registro tvarkytojui;
+6) užtikrinti regiono plėtros tarybos metinių ataskaitų rinkinio parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliekamas) visuotiniam dalyvių susirinkimui ir Juridinių asmenų registro tvarkytojui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 7) užtikrinti duomenų, nurodytų Civilinio kodekso 2.66 straipsnyje, pateikimą Juridinių asmenų registro tvarkytojui;
 
@@ -696,7 +712,11 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 2. Administracijos direktorius veikia regiono plėtros tarybos vardu su kitais asmenimis tais klausimais, kurie šiame įstatyme ir regiono plėtros tarybos nuostatuose nepriskirti kolegijos ir regiono plėtros tarybos visuotinio dalyvių susirinkimo kompetencijai.
 
-3. Administracijos direktorius atsiskaito už savo ir administracijos veiklą teikdamas regiono plėtros tarybos metines veiklos ataskaitas kolegijai.
+3. Administracijos direktorius atsiskaito už savo ir administracijos veiklą teikdamas regiono plėtros tarybos metinių ataskaitų rinkinį regiono plėtros tarybos visuotiniam dalyvių susirinkimui ir kolegijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 4. Administracijos direktorius priimamas į pareigas konkurso, organizuojamo ir vykdomo Vyriausybės nustatyta tvarka, būdu. Administracijos direktoriaus kadencija prasideda nuo jo priėmimo į pareigas dienos ir baigiasi, kai kolegija, sudaryta po savivaldybių tarybų ir merų rinkimų iš naujai kadencijai išrinktų savivaldybių tarybų narių ir merų, susirenka į pirmąjį kolegijos posėdį. Kai steigiama regiono plėtros taryba, administracijos direktoriaus kadencija prasideda nuo regiono plėtros tarybos įregistravimo Juridinių asmenų registre. Tas pats asmuo tos pačios regiono plėtros tarybos administracijos direktoriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
 
@@ -710,7 +730,11 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 9. Administracijos direktorius turi būti atleistas iš pareigų nesibaigus jo kadencijai, jeigu:
 
-1) kolegija du kartus iš eilės nepatvirtina regiono plėtros tarybos metinės veiklos ataskaitos;
+1) regiono plėtros tarybos visuotinis dalyvių susirinkimas du kartus iš eilės nepatvirtina regiono plėtros tarybos metinių ataskaitų rinkinio;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 2) jis nebeatitinka šiame įstatyme nustatytų nepriekaištingos reputacijos reikalavimų;
 
@@ -794,11 +818,23 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 4. Regiono plėtros tarybos lėšos ir turtas gali būti naudojami tik regiono plėtros tarybos nuostatuose nustatytiems regiono plėtros tarybos veiklos tikslams.
 
-29 straipsnis. Regiono plėtros tarybos metinių finansinių ataskaitų rinkinys, metinė veiklos ataskaita ir auditas
+29 straipsnis. Regiono plėtros tarybos metinių ataskaitų rinkinys ir auditas
 
-1. Regiono plėtros tarybos metinių finansinių ataskaitų rinkinys ir metinė veiklos ataskaita rengiami Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
+Pakeistas straipsnio pavadinimas:
 
-2. Regiono plėtros taryba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Juridinių asmenų registro tvarkytojui turi pateikti regiono plėtros tarybos metinių finansinių ataskaitų rinkinį, o kai atliktas metinių finansinių ataskaitų auditas, – audituotą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada, taip pat metinę veiklos ataskaitą. Šie Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai paskelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+
+1. Regiono plėtros tarybos metinių ataskaitų rinkinys rengiamas Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+
+2. Regiono plėtros taryba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Juridinių asmenų registro tvarkytojui turi pateikti regiono plėtros tarybos metinių ataskaitų rinkinį, o kai atliktas metinių finansinių ataskaitų auditas, – metinių ataskaitų rinkinį kartu su auditoriaus išvada. Šie Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai paskelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 3. Regiono plėtros tarybos finansinių ataskaitų auditas turi būti atliekamas, jeigu paskutinę finansinių metų dieną finansinės būklės ataskaitoje nurodyto regiono plėtros tarybos turto vertė viršija 1 800 000 eurų arba jeigu regiono plėtros tarybos pajamos per ataskaitinius finansinius metus viršija 3 500 000 eurų.
 
