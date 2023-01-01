@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2022-11-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -546,11 +546,13 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
-65. Specialioji transporto priemonė – policijos, greitosios medicinos pagalbos, priešgaisrinės apsaugos ir gelbėjimo tarnybos, dujų įmonės avarinės tarnybos, aplinkos apsaugos valstybinės kontrolės institucijos motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžios įstaigos transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, pritaikyta suimtiesiems ir nuteistiesiems konvojuoti į gydymo įstaigas, vidaus reikalų ministro valdymo srities statutinės įstaigos, prokuratūros, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos, Lietuvos Respublikos vadovybės apsaugos tarnybos, Lietuvos kariuomenės Specialiųjų operacijų pajėgų, Karo policijos, muitinės, Lietuvos transporto saugos administracijos specialiomis spalvomis nudažyta ar nenudažyta motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais.
+65. Specialioji transporto priemonė – policijos, greitosios medicinos pagalbos, priešgaisrinės apsaugos ir gelbėjimo tarnybos, dujų įmonės avarinės tarnybos, aplinkos apsaugos valstybinės kontrolės institucijos motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, laisvės atėmimo vietų įstaigos transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, pritaikyta suimtiesiems ir nuteistiesiems konvojuoti į gydymo įstaigas, vidaus reikalų ministro valdymo srities statutinės įstaigos, prokuratūros, Lietuvos Respublikos valstybės saugumo departamento, Lietuvos Respublikos specialiųjų tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos, Lietuvos Respublikos vadovybės apsaugos tarnybos, Lietuvos kariuomenės Specialiųjų operacijų pajėgų, Karo policijos, muitinės, Lietuvos transporto saugos administracijos specialiomis spalvomis nudažyta ar nenudažyta motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2920, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10921
+
+Nr. XIV-1226, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15592
 
 Straipsnio dalies numeracijos pakeitimas:
 
