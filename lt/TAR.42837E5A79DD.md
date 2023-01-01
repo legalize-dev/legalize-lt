@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -96,15 +96,11 @@ Straipsnio pakeitimai:
 
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
-29 straipsnis. Leidimo gyventi keitimas
+29 straipsnis. Neteko galios nuo 2023-01-01
 
-1. Išduotas leidimas gyventi užsieniečiui keičiamas šio Įstatymo nustatytais pagrindais.
+Straipsnio naikinimas:
 
-2. Užsienietis dėl leidimo gyventi keitimo prašymą turi pateikti Migracijos departamentui.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 31 straipsnis. Leidimo gyventi išdavimas užsieniečio vaikui, gimusiam Lietuvos Respublikoje
 
@@ -1862,41 +1858,37 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 1. Užsieniečio prašymas išduoti ar pakeisti leidimą gyventi turi būti išnagrinėtas ir leidimas gyventi turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti:
 
-1) dėl leidimo laikinai gyventi išdavimo, išskyrus šios dalies 2, 3 ir 4 punktuose nurodytus atvejus, – ne vėliau kaip per 4 mėnesius nuo prašymo pateikimo atitinkamoje institucijoje dienos;
+1) dėl leidimo laikinai gyventi išdavimo, išskyrus šios dalies 2 ir 3 punktuose nurodytus atvejus, – ne vėliau kaip per 3 mėnesius nuo prašymo pateikimo dienos;
 
-2) dėl leidimo laikinai gyventi išdavimo ‒ ne vėliau kaip per 3 mėnesius nuo prašymo pateikimo atitinkamoje institucijoje dienos:
+2) dėl leidimo laikinai gyventi išdavimo ‒ ne vėliau kaip per 2 mėnesius nuo prašymo pateikimo dienos:
 
-a) šio Įstatymo 40 straipsnio 1 dalies 42 punkte nustatytu pagrindu, kai užsienietis yra perkeliamas įmonės viduje, ir yra šio Įstatymo 442 straipsnio 1 dalies 3 punkte nurodytas atvejis, taip pat šio Įstatymo 40 straipsnio 1 dalies 13, 15 ir 16 punktuose nustatytais pagrindais;
+a) šio Įstatymo 40 straipsnio 1 dalies 42 punkte nustatytu pagrindu, kai užsienietis yra perkeliamas įmonės viduje, ir yra šio Įstatymo 442 straipsnio 1 dalies 3 punkte nurodytas atvejis, taip pat šio Įstatymo 40 straipsnio 1 dalies 16 punkte nustatytu pagrindu;
 
-Papunkčio pakeitimai:
-
-Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
-
-b) šio punkto a papunktyje nurodyto užsieniečio šeimos nariui. Ši nuostata netaikoma studijas užbaigusio užsieniečio, kuris kreipiasi dėl leidimo laikinai gyventi išdavimo šio Įstatymo 40 straipsnio 1 dalies 15 punkte nustatytu pagrindu, šeimos nariui;
+b) šio punkto a papunktyje nurodyto užsieniečio šeimos nariui;
 
 c) šio Įstatymo 40 straipsnio 1 dalies 5 punkte nustatytu pagrindu, kai yra šio Įstatymo 45 straipsnio 1 dalies 8 punkte nurodytas atvejis, taip pat šio Įstatymo 40 straipsnio 1 dalies 6 punkte nustatytu pagrindu, kai yra šio Įstatymo 46 straipsnio 1 dalies 1 ar 3 punkte nurodytas atvejis;
 
-3) dėl leidimo laikinai gyventi išdavimo – ne vėliau kaip per 2 mėnesius nuo prašymo pateikimo atitinkamoje institucijoje dienos:
+d) šio Įstatymo 40 straipsnio 1 dalies 4 punkte nustatytu pagrindu, kai užsienietis yra studijas ar mokymąsi pagal formaliojo profesinio mokymo programą pabaigęs Lietuvos Respublikoje;
 
-a) kai užsienietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, išskyrus šios dalies 4 punkto a papunktyje nurodytus atvejus;
+3) dėl leidimo laikinai gyventi išdavimo ar keitimo – ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo dienos:
+
+a) kai užsienietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą;
 
 b) šio Įstatymo 40 straipsnio 1 dalies 42 punkte nustatytu pagrindu, kai užsienietis yra perkeliamas įmonės viduje, ir yra šio Įstatymo 442 straipsnio 1 dalies 1 ar 2 punkte nurodytas atvejis;
 
-c) šio Įstatymo 40 straipsnio 1 dalies 51 punkte nustatytu pagrindu;
+c) šio Įstatymo 40 straipsnio 1 dalies 51, 13 ir 15 punktuose nustatytais pagrindais;
 
 d) šio Įstatymo 45 straipsnio 1 dalies 21 ir 22 punktuose nustatytais pagrindais;
 
 e) šio punkto a, b, c ir d papunkčiuose nurodyto užsieniečio šeimos nariui;
 
-4) dėl leidimo laikinai gyventi išdavimo – ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo atitinkamoje institucijoje dienos:
+4) dėl leidimo nuolat gyventi išdavimo – ne vėliau kaip per 3 mėnesius nuo prašymo pateikimo dienos;
 
-a) kai užsienietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą ir yra šio Įstatymo 441 straipsnio 1 dalies 3 punkto a ar b papunktyje nurodytas atvejis;
+5) dėl leidimo laikinai gyventi keitimo, išskyrus šios dalies 3 punkte nurodytus atvejus, – ne vėliau kaip per 2 mėnesius nuo prašymo pateikimo dienos.
 
-b) šio punkto a papunktyje nurodyto užsieniečio šeimos nariui;
+Straipsnio dalies pakeitimai:
 
-5) dėl leidimo nuolat gyventi išdavimo – ne vėliau kaip per 4 mėnesius nuo prašymo pateikimo atitinkamoje institucijoje dienos;
-
-6) dėl leidimo laikinai gyventi keitimo – ne vėliau kaip per 2 mėnesius nuo prašymo pateikimo atitinkamoje institucijoje dienos.
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 2. Užsieniečio prašymas dėl leidimo nuolat gyventi pakeitimo turi būti išnagrinėtas ir leidimas nuolat gyventi pakeistas arba atsisakyta jį pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo Migracijos departamentui dienos.
 
@@ -1907,6 +1899,12 @@ b) šio punkto a papunktyje nurodyto užsieniečio šeimos nariui;
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+
+5. Jeigu nėra gauti prašymą pateikusio užsieniečio šeimos narių ar kitų asmenų paaiškinimai arba Lietuvos Respublikos valstybės ar savivaldybių institucijos ar įstaigos, užsienio valstybės institucijos atsakymas ir prašoma informacija (paaiškinimai), būtini sprendimui dėl leidimo gyventi priimti, Migracijos departamentas sustabdo prašymo išduoti ar pakeisti leidimą gyventi nagrinėjimo terminą iki prašomos informacijos (paaiškinimų) gavimo dienos, bet ne ilgiau kaip 2 mėnesiams. Apie prašymo išduoti ar pakeisti leidimą gyventi nagrinėjimo termino sustabdymą užsienietis informuojamas raštu ne vėliau kaip per 2 darbo dienas nuo termino sustabdymo dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 Straipsnio pakeitimai:
 
@@ -3326,21 +3324,11 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 
-51 straipsnis. Leidimo laikinai gyventi išdavimas, keitimas ir panaikinimas
+51 straipsnis. Neteko galios nuo 2023-01-01
 
-1. Prašymas išduoti arba pakeisti leidimą laikinai gyventi pateikiamas šio Įstatymo 28, 29 straipsniuose nurodytoms institucijoms.
+Straipsnio naikinimas:
 
-2. Sprendimą dėl leidimo laikinai gyventi užsieniečiui išdavimo, keitimo ir panaikinimo priima ir leidimą laikinai gyventi užsieniečiui išduoda ir keičia Migracijos departamentas.
-
-3. Prašymų išduoti ar pakeisti leidimą laikinai gyventi pateikimo ir leidimų laikinai gyventi užsieniečiams išdavimo, keitimo, panaikinimo tvarką, taip pat tvarką, kaip įvertinama, ar užsienietis atitinka leidimo laikinai gyventi išdavimo ar keitimo sąlygas, ar nėra atsisakymo išduoti ar pakeisti leidimą laikinai gyventi ir leidimo laikinai gyventi panaikinimo pagrindų, ir tvarką, kaip įvertinama, ar santuoka, registruota partnerystė, įvaikinimas ar įmonė yra fiktyvūs, nustato vidaus reikalų ministras, suderinęs su užsienio reikalų ministru.
-
-Straipsnio pakeitimas:
-
-Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
-
-Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
-
-Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 Straipsnio pakeitimai:
 
@@ -3410,11 +3398,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
-6. Policija arba Valstybės sienos apsaugos tarnyba, nustatę, kad užsienietis, kuriam išduota viza, leidimas gyventi ar kitas šiame Įstatyme nurodytas užsieniečio teisę gyventi Lietuvos Respublikoje patvirtinantis dokumentas, kelia grėsmę viešajai tvarkai, nedelsdami apie tai informuoja Migracijos departamentą, kuris ne vėliau kaip per 14 kalendorinių dienų nuo šios informacijos gavimo dienos panaikina užsieniečiui išduotą vizą, leidimą gyventi, jeigu tokie dokumentai buvo išduoti, arba užsieniečio teisę gyventi Lietuvos Respublikoje ir apie tai nedelsdamas informuoja užsienietį.
+6. Valstybės saugumo departamentas, turėdamas duomenų, kad užsienietis, kuriam išduota viza, leidimas gyventi ar kitas šiame Įstatyme nurodytas užsieniečio teisę gyventi Lietuvos Respublikoje patvirtinantis dokumentas, kelia grėsmę valstybės saugumui, nedelsdamas apie tai informuoja Migracijos departamentą, kuris ne vėliau kaip per 7 kalendorines dienas nuo šios informacijos gavimo dienos panaikina užsieniečiui išduotą vizą, leidimą gyventi, jeigu tokie dokumentai buvo išduoti, arba užsieniečio teisę gyventi Lietuvos Respublikoje ir apie tai nedelsdamas informuoja užsienietį.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 7. Valstybės saugumo departamentas, turėdamas duomenų, kad užsienietis, kuriam suteiktas pabėgėlio statusas, papildoma arba laikinoji apsauga, kelia grėsmę valstybės saugumui, policija arba Valstybės sienos apsaugos tarnyba, nustatę, kad užsienietis, kuriam suteikta papildoma apsauga, kelia grėsmę visuomenei, užsienietis, kuriam suteiktas pabėgėlio statusas arba laikinoji apsauga, įsiteisėjusiu teismo nuosprendžiu pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir kelia grėsmę visuomenei, nedelsdami apie tai informuoja Migracijos departamentą. Migracijos departamentas sprendimą dėl pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo priima ne vėliau kaip per 14 kalendorinių dienų nuo šios informacijos gavimo dienos, gavęs užsieniečio paaiškinimus žodžiu arba raštu. Migracijos departamentui priėmus sprendimą panaikinti pabėgėlio statusą, papildomą arba laikinąją apsaugą, užsieniečiui turi būti išaiškinta šio sprendimo apskundimo tvarka.
 
@@ -3794,29 +3784,23 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 Pragyvenimo Lietuvos Respublikoje lėšų dydį, kuris gali būti laikomas pakankamu pragyventi Lietuvos Respublikoje, užsieniečiui, prašančiam išduoti leidimą gyventi, nustato socialinės apsaugos ir darbo ministras.
 
-28 straipsnis. Leidimo gyventi išdavimas
+28 straipsnis. Leidimo gyventi išdavimas, keitimas ir panaikinimas
 
-1. Pirmą kartą išduodant užsieniečiui leidimą gyventi, paprastai išduodamas leidimas laikinai gyventi, išskyrus šiame Įstatyme nustatytus atvejus.
+1. Pirmą kartą išduodant užsieniečiui leidimą gyventi, paprastai išduodamas leidimas laikinai gyventi, išskyrus šiame Įstatyme nustatytus atvejus. Leidimas laikinai gyventi keičiamas šio Įstatymo nustatytais pagrindais.
 
-2. Užsienietis, esantis Lietuvos Respublikos teritorijoje teisėtai, prašymą išduoti leidimą gyventi pateikia Migracijos departamentui, tačiau tokio prašymo pateikimas nesuteikia teisės užsieniečiui būti Lietuvos Respublikos teritorijoje, iki bus išnagrinėtas užsieniečio prašymas išduoti leidimą gyventi ir priimtas sprendimas.
+2. Užsienietis, esantis ne Lietuvos Respublikoje, prašymą išduoti leidimą laikinai gyventi pateikia per Migracijos departamento pasirinktą išorės paslaugų teikėją. Užsienietis, esantis Lietuvos Respublikos teritorijoje teisėtai, prašymą išduoti leidimą gyventi pateikia Migracijos departamentui, tačiau tokio prašymo pateikimas nesuteikia teisės užsieniečiui būti Lietuvos Respublikos teritorijoje, iki bus išnagrinėtas užsieniečio prašymas išduoti leidimą gyventi ir priimtas sprendimas.
 
-3. Užsienietis prašymą išduoti leidimą gyventi šio Įstatymo 40 straipsnio 1 dalies 1 ir 2 punktuose nustatytais pagrindais gali pateikti Lietuvos Respublikos diplomatinei atstovybei arba konsulinei įstaigai užsienyje arba būdamas Lietuvos Respublikos teritorijoje teisėtai – Migracijos departamentui.
+3. Užsienietis prašymą pakeisti leidimą gyventi pateikia Migracijos departamentui.
 
-4. Užsienietis, kuris perkeliamas įmonės viduje, prašymą išduoti leidimą laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 42 punkte nustatytu pagrindu pateikia Lietuvos Respublikos diplomatinei atstovybei arba konsulinei įstaigai, nesančiai Europos Sąjungos valstybių narių teritorijoje, arba būdamas Lietuvos Respublikos teritorijoje teisėtai – Migracijos departamentui, laikydamasis šio Įstatymo 442 straipsnio 5 ir 6 dalyse nustatytų reikalavimų. Šio Įstatymo 442 straipsnio 9 dalyje nurodytu atveju prašymą išduoti leidimą laikinai gyventi perkeliamas įmonės viduje užsienietis gali pateikti Lietuvos Respublikos diplomatinei atstovybei arba konsulinei įstaigai, esančiai kitoje Europos Sąjungos valstybėje narėje, arba būdamas Lietuvos Respublikos teritorijoje teisėtai – Migracijos departamentui.
+4. Sprendimą dėl leidimo laikinai gyventi užsieniečiui išdavimo, keitimo ir panaikinimo priima ir leidimą laikinai gyventi užsieniečiui išduoda ir keičia Migracijos departamentas.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
-
-5. Neteko galios nuo 2021-03-01
-
-Straipsnio dalies naikinimas:
-
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+5. Vidaus reikalų ministras nustato tvarką, reglamentuojančią prašymų išduoti ar pakeisti leidimą laikinai gyventi pateikimą ir leidimų laikinai gyventi užsieniečiams išdavimą, keitimą, panaikinimą, vertinimą, ar užsienietis atitinka leidimo laikinai gyventi išdavimo ar keitimo sąlygas, ar nėra atsisakymo išduoti ar pakeisti leidimą laikinai gyventi ir leidimo laikinai gyventi panaikinimo pagrindų, taip pat vertinimą, ar santuoka, registruota partnerystė, įvaikinimas ar įmonė yra fiktyvūs.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 30 straipsnis. Neteko galios nuo 2006-12-16.
 
@@ -3934,7 +3918,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
-4) Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos – apie užsienietį, kuris yra sulaikytas ikiteisminio tyrimo laikotarpiui arba atlieka teismo paskirtą bausmę;
+4) laisvės atėmimo vietų įstaiga – apie užsienietį, kuris yra sulaikytas ikiteisminio tyrimo laikotarpiui arba atlieka teismo paskirtą bausmę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1220, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15585
 
 5) ekonomikos ir inovacijų ministro įgaliota institucija – apie užsienietį, kuriam leidimas laikinai gyventi išduotas šio Įstatymo 40 straipsnio 1 dalies 51 punkte nustatytu pagrindu ir kuris per šio Įstatymo 451 straipsnio 3 dalyje nustatytą terminą neįsteigė startuolio ar nevykdo jo steigimo dokumentuose nurodytos veiklos arba kuris per šio Įstatymo 451 straipsnio 3 dalyje nustatytą terminą netapo startuolio dalyviu, taip pat apie užsienietį, kuriam išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 51 punkte nustatytu pagrindu, jeigu paaiškėja, kad jis nebėra startuolio dalyvis ar šio užsieniečio buvimas Lietuvos Respublikoje nėra būtinas startuolio veiklai;
 
@@ -4526,7 +4514,11 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
 55 straipsnis. Leidimo nuolat gyventi išdavimas, keitimas ir panaikinimas
 
-1. Užsienietis prašymą išduoti arba pakeisti leidimą nuolat gyventi pateikia šio Įstatymo 28, 29 straipsniuose nurodytoms institucijoms.
+1. Užsienietis prašymą išduoti arba pakeisti leidimą nuolat gyventi pateikia Migracijos departamentui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 2. Sprendimą dėl leidimo nuolat gyventi užsieniečiui išdavimo, keitimo ir panaikinimo priima ir leidimą nuolat gyventi užsieniečiui išduoda ir keičia Migracijos departamentas.
 
@@ -5955,6 +5947,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+
+30.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1220, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15585
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 36 straipsnio pakeitimo įstatymas
 
 341 straipsnis. Leidimo gyventi išdavimas, keitimas ir naujas įforminimas skubos tvarka
 
