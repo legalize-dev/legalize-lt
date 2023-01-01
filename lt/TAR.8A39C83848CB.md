@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2022-11-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -759,7 +759,11 @@ paveldėjimo santykiams taikytina teisė
 
 1. Įstatymų ar sutarties nustatytais atvejais asmuo turi teisę išreikšti savo valią viešu skelbimu šio straipsnio nustatyta tvarka (viešas įgaliojimas, viešas įgaliojimo panaikinimas ir kt.).
 
-2. Viešas skelbimas skelbiamas paskutinės žinomos kitos sandorio šalies gyvenamosios ar verslo vietos arba viešai išreiškiančio savo valią asmens gyvenamosios ar verslo vietos laikraštyje (jeigu toks yra) ir viename iš nacionalinių Lietuvos Respublikos laikraščių, o sutartyje numatytais atvejais – sutartyje nurodytame interneto tinklalapyje. Teismas prireikus gali nustatyti ir kitokią asmens valios viešo skelbimo tvarką.
+2. Viešas skelbimas skelbiamas paskutinės žinomos kitos sandorio šalies gyvenamosios ar verslo vietos arba viešai išreiškiančio savo valią asmens gyvenamosios ar verslo vietos laikraštyje (jeigu toks yra) ir viename iš nacionalinių Lietuvos Respublikos laikraščių arba atitinkamų visuomenės informavimo priemonių interneto svetainėse, o sutartyje numatytais atvejais – sutartyje nurodytoje interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
 
 3. Preziumuojama, kad valios išreiškimas tapo žinomas kitai sandorio šaliai praėjus keturiolikai dienų nuo paskutinio viešo paskelbimo dienos. Tačiau ši prezumpcija netaikoma, jeigu savo valią viešai paskelbęs asmuo neatliko visų įmanomų ir jam prieinamų veiksmų kitos sandorio šalies gyvenamajai ar verslo vietai nustatyti.
 
@@ -832,6 +836,12 @@ Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 3. Jeigu kyla interesų konfliktas tarp nepilnamečio vaiko ir vieno iš jo tėvų, vaiko interesams atstovauja ir sandorius sudaro tas iš tėvų, tarp kurio ir vaiko nėra interesų konflikto.
 
 4. Pažeidus šio straipsnio 1, 2 ir 3 dalyse nustatytas normas, sandoris gali būti pripažintas negaliojančiu pagal vaiko, vieno iš jo tėvų ar jų įpėdinių ieškinį.
+
+5. Išankstinio teismo leidimo sudaryti šio straipsnio 1 dalyje nurodytus sandorius nereikalaujama, kai sandoris sudaromas notarine forma. Notaras, prieš tvirtindamas sandorį, Notariato įstatymo nustatyta tvarka įvertina, ar jį sudarius bus užtikrinta tinkama nepilnamečio vaiko teisių ir interesų apsauga.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
 
 1. Sutartyje turi būti nurodyta parduodamos įmonės turto sudėtis ir įmonės kaina, taip pat asmuo, kuriam bus sumokėta ir kuris atsiskaitys su įmonės kreditoriais (šio kodekso 6.405 straipsnis).
 
@@ -1857,11 +1867,19 @@ Civilinių teisių objektai yra įvairūs veiksmai ir jų rezultatai (krovinių 
 
 3. Terminai gali būti atnaujinamieji, įgyjamieji ir naikinamieji.
 
-4. Atnaujinamasis terminas yra toks terminas, kuriam pasibaigus teismas gali jį atnaujinti, jeigu terminas buvo praleistas dėl svarbių priežasčių.
+4. Atnaujinamasis terminas yra toks terminas, kuriam pasibaigus teismas arba įstatymų nustatytais atvejais – kitas subjektas gali jį atnaujinti, jeigu jis buvo praleistas dėl svarbių priežasčių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
 
 5. Įgyjamasis terminas yra toks terminas, kuriam pasibaigus atsiranda (įgyjama) tam tikra civilinė teisė ar pareiga.
 
-6. Naikinamasis terminas yra toks terminas, kuriam pasibaigus išnyksta tam tikra civilinė teisė ar pareiga. Naikinamieji terminai negali būti teismo ar arbitražo atnaujinti.
+6. Naikinamasis terminas yra toks terminas, kuriam pasibaigus išnyksta tam tikra civilinė teisė ar pareiga. Naikinamieji terminai negali būti teismo ar kito subjekto atnaujinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
 
 1.118 straipsnis. Termino pradžia
 
@@ -2403,7 +2421,13 @@ Prokūra
 
 1. Prokūra turi būti rašytinė ir pasirašyta asmens, turinčio teisę išduoti prokūrą.
 
-2. Prokūra turi būti įregistruota teisės aktų nustatyta tvarka.
+2. Prokūra gali būti sudaroma ir informacinių technologijų priemonėmis ir duodama ją įregistruojant Įgaliojimų registre.
+
+3. Prokūra turi būti įregistruota Įgaliojimų registre šio registro nuostatuose nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 2.179 straipsnis. Prokuristo teisės
 
@@ -2435,7 +2459,11 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 1. Atstovaujamojo ir prokuristo santykiams prokūra įsigalioja nuo jos išdavimo.
 
-2. Prokuristo ir trečiųjų asmenų santykiams prokūra įsigalioja nuo jos įregistravimo teisės aktų nustatyta tvarka.
+2. Prokuristo ir trečiųjų asmenų santykiams prokūra įsigalioja nuo jos įregistravimo Įgaliojimų registre šio registro nuostatuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 2.182 straipsnis. Prokuristo parašas
 
@@ -4157,7 +4185,11 @@ Išlaikymas iki gyvos galvos
 
 1. Nuomotojas privalo savo lėšomis daryti išnuomoto daikto kapitalinį remontą, jeigu ko kita nenumato įstatymai arba sutartis.
 
-2. Jeigu nuomotojas šio straipsnio 1 dalyje nurodytos pareigos nevykdo, nuomininkas teismo leidimu įgyja teisę atlikti kapitalinį remontą ir išieškoti remonto kainą iš nuomotojo ar įskaityti tą kainą į nuomos mokestį arba nutraukti sutartį ir išieškoti dėl sutarties nevykdymo atsiradusius nuostolius. Šiais atvejais nuomininkas privalo pateikti nuomotojui kapitalinio remonto darbų sąmatą ir sąskaitą.
+2. Jeigu nuomotojas šio straipsnio 1 dalyje nurodytos pareigos nevykdo, nuomininkas įgyja teisę šio kodekso 6.493 straipsnio 3 dalyje nurodytais atvejais atlikti kapitalinį remontą ir iš nuomotojo išieškoti remonto kainą ar šią kainą įskaityti į nuomos mokestį arba turi teisę nutraukti sutartį ir išieškoti dėl sutarties nevykdymo atsiradusius nuostolius. Šiais atvejais nuomininkas privalo pateikti nuomotojui kapitalinio remonto darbų sąmatą ir sąskaitą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
 
 3. Nuomininkas privalo sudaryti visas sąlygas šio straipsnio 1 dalyje numatytai nuomotojo pareigai tinkamai įvykdyti.
 
@@ -4253,9 +4285,19 @@ Pastatų, statinių ar įrenginių nuoma
 
 Kai žemės sklypas, kuriame yra išnuomoti pastatai, statiniai ar įrenginiai, parduodamas ar kitokiu pagrindu pereina kitam asmeniui nuosavybės teise, tai nuomininkui išlieka teisė naudotis žemės sklypu, būtinu pastatams, statiniams ar įrenginiams naudoti pagal paskirtį, tokiomis pat sąlygomis kaip ir iki žemės sklypo nuosavybės teisės perleidimo kitam asmeniui, jeigu nuomos sutartis buvo įregistruota viešame registre įstatymų nustatyta tvarka.
 
-6.543 straipsnis. Sandorių negaliojimo ir kitokių teisinių pasekmių atsiradimas įmonės nuomos sutartims
+3.543 straipsnis. Kreditorių interesų apsauga nutraukiant santuoką notarine tvarka
 
-Šio kodekso taisyklės, nustatančios sandorių negaliojimo, sutarties nutraukimo ar pakeitimo teisines pasekmes, taip pat nustatančios turto grąžinimą ar išieškojimą natūra, taikomos įmonės nuomos sutartims, jeigu tai iš esmės nepažeidžia nuomotojo, nuomininko ar kitų asmenų teisių ir interesų ir neprieštarauja viešajai tvarkai.
+1. Kai sutartyje dėl santuokos nutraukimo pasekmių aptariami sutuoktinių turto, kuris yra bendroji jungtinė sutuoktinių nuosavybė, padalijimo klausimai, sutuoktiniai, prieš kreipdamiesi į notarą dėl šios sutarties patvirtinimo, apie tai turi informuoti visus žinomus bendrus jų abiejų ar vieno iš jų kreditorius. Kartu su šiuo pranešimu kreditoriams turi būti išsiųstas sutarties dėl santuokos nutraukimo pasekmių projektas, taip pat notaro, į kurį ketinama kreiptis dėl šios sutarties patvirtinimo, kontaktiniai duomenys.
+
+2. Kreditoriai turi teisę per trisdešimt dienų nuo šio straipsnio 1 dalyje nurodytos informacijos gavimo dienos sutuoktiniams ir jų pranešime nurodytam notarui raštu pateikti savo motyvuotus prieštaravimus dėl bendrosios jungtinės sutuoktinių nuosavybės padalijimo būdo ar kitų sutarties dėl santuokos nutraukimo pasekmių nuostatų, galinčių pažeisti sutuoktinių bendrų kreditorių ar vieno iš jų kreditorių interesus, ir konkrečius siūlymus, kaip į šiuos prieštaravimus būtų galima atsižvelgti. Šiuo atveju notaras klausimą dėl santuokos nutraukimo bendru sutuoktinių sutikimu sprendžia ne anksčiau kaip pasibaigus šioje dalyje nurodytam terminui.
+
+3. Jeigu kreditoriai pateikia savo prieštaravimus, į kuriuos sutuoktiniai nesutinka atsižvelgti ir pagal juos pakeisti sutarties dėl santuokos nutraukimo pasekmių sąlygas, notaras sutarties dėl santuokos nutraukimo pasekmių netvirtina ir sutuoktiniai turi teisę dėl santuokos nutraukimo kreiptis į teismą.
+
+4. Šio straipsnio nuostatos taip pat taikomos, kai keičiama sutartis dėl santuokos nutraukimo pasekmių.
+
+Papildyta straipsniu:
+
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
 
 6.554 straipsnis. Nuomininko išlaidų žemės ūkio paskirties žemei pagerinti atlyginimas
 
@@ -4819,7 +4861,7 @@ Turto patikėjimas
 
 2.1381 straipsnis. Įgaliojimų registras
 
-1. Notarine tvarka patvirtinti įgaliojimai, šio kodekso 2.138 straipsnio 2 dalyje nurodyti notaro patvirtintiems prilyginami įgaliojimai ir šio kodekso 2.139 straipsnio 2 dalyje nurodyti įgaliojimai turi būti registruojami viešame Įgaliojimų registre. Įgaliojimų registre šio registro nuostatuose nustatyta tvarka registruojami ir kiti įgaliojimai, sudaromi informacinių technologijų priemonėmis ir duodami juos įregistruojant Įgaliojimų registre.
+1. Notarine tvarka patvirtinti įgaliojimai, šio kodekso 2.138 straipsnio 2 dalyje nurodyti notaro patvirtintiems prilyginami įgaliojimai, šio kodekso 2.139 straipsnio 2 dalyje nurodyti įgaliojimai ir prokūros turi būti registruojami viešame Įgaliojimų registre. Įgaliojimų registre šio registro nuostatuose nustatyta tvarka registruojami ir kiti įgaliojimai, sudaromi informacinių technologijų priemonėmis ir duodami juos įregistruojant Įgaliojimų registre.
 
 Straipsnio dalies pakeitimai:
 
@@ -6979,7 +7021,11 @@ Išsinuomoto daikto duodamos pajamos, vaisiai, gyvulių prieauglis priklauso nuo
 
 2. Nuomininkas, sužinojęs apie išsinuomoto daikto sužalojimus ar kitus rimtus trūkumus, kuriems pašalinti reikalingas neatidėliotinas kapitalinis remontas, privalo nedelsdamas apie tai pranešti nuomotojui.
 
-3. Jeigu nuomotojas, gavęs nuomininko pranešimą, daikto trūkumų nepašalina, nuomininkas turi teisę pradėti būtinus daikto remonto darbus ir be teismo leidimo, kai tai būtina daiktui išsaugoti, apie tai pranešti nuomotojui ir vėliau pateikti atliktų darbų vertę patvirtinančius dokumentus bei pakeistas daikto dalis. Prireikus nuomininkas būtiną daikto remontą gali atlikti nuomos mokesčio sąskaita.
+3. Jeigu nuomotojas, gavęs nuomininko pranešimą, daikto trūkumų nepašalina, nuomininkas turi teisę pradėti būtinus daikto remonto darbus, kai tai būtina daiktui išsaugoti, apie tai pranešti nuomotojui ir vėliau pateikti atliktų darbų vertę patvirtinančius dokumentus bei pakeistas daikto dalis. Prireikus nuomininkas būtiną daikto remontą gali atlikti nuomos mokesčio sąskaita.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
 
 6.495 straipsnis. Nuomotojo pareiga pranešti apie nuomos sutartį
 
@@ -7199,25 +7245,41 @@ Aštuntasis skirsnis
 
 2. Jeigu ko kita nenumato įmonės nuomos sutartis, nuomininkas neturi teisės be nuomotojo sutikimo keisti išnuomotos įmonės kaip turtinio komplekso, rekonstruoti, modernizuoti, išplėsti pajėgumus, techniškai pertvarkyti įmonę bei atlikti kitus pakeitimus.
 
-6.541 straipsnis. Nuomininko pareiga užtikrinti įmonės eksploatavimą
+3.541 straipsnis. Kreipimasis dėl santuokos nutraukimo notarine tvarka
 
-1. Nuomininkas privalo per visą nuomos laikotarpį užtikrinti tinkamą įmonės techninę būklę, daryti įmonės einamąjį ir kapitalinį remontą.
+1. Sutuoktiniai, kreipdamiesi į notarą dėl santuokos nutraukimo bendru jų sutikimu, turi pateikti notarui rašytinį patvirtinimą, kad daugiau negu metus netvarko bendro ūkio ir negyvena santuokinio gyvenimo, ir sutartį dėl santuokos nutraukimo pasekmių. Šio kodekso 3.543 straipsnio 1 dalyje nurodytu atveju sutuoktiniai taip pat turi pateikti notarui įrodymus, kad apie kreipimąsi į notarą dėl santuokos nutraukimo bendru sutuoktinių sutikimu informavo visus žinomus bendrus jų ar vieno iš jų kreditorius.
 
-2. Nuomininkas privalo apmokėti visas su įmonės eksploatavimu susijusias išlaidas, mokėti įmonės turto draudimo bei kitokias įmokas, jeigu įmonės nuomos sutartis nenumato ko kita.
+2. Sutartyje dėl santuokos nutraukimo pasekmių turi būti aptarti sutuoktinių vienas kito išlaikymo klausimai, kitos turtinės teisės ir pareigos (jeigu šie klausimai neaptarti vedybų sutartyje ir (ar) jeigu turtas, kuris yra bendroji jungtinė sutuoktinių nuosavybė, nepadalytas bendru jų susitarimu, patvirtintu notarine tvarka ar teismo sprendimu), taip pat nurodyta, kokios bus sutuoktinių pavardės po santuokos nutraukimo.
 
-6.542 straipsnis. Įmonės pagerinimai
+Papildyta straipsniu:
 
-1. Nuomininkas turi teisę į neatskiriamo įmonės pagerinimo išlaidų atlyginimą, jeigu buvo gautas nuomotojo sutikimas tokiam pagerinimui atlikti, išskyrus atvejus, kai įmonės nuomos sutartis nenumato ko kita.
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
 
-2. Nuomotojas gali būti atleistas nuo šio straipsnio 1 dalyje numatytų išlaidų atlyginimo, jeigu įrodo, kad dėl nuomininko išlaidų įmonės vertė padidėja neproporcingai atsižvelgiant į jos kokybės ir (arba) eksploatacinių savybių pagerėjimą arba kad atliekant pagerinimus buvo pažeisti sąžiningumo ir protingumo kriterijai.
+3.542 straipsnis. Santuokos nutraukimas notarine tvarka
 
-6.544 straipsnis. Išnuomotos įmonės grąžinimas
+1. Prieš tvirtindamas sutartį dėl santuokos nutraukimo pasekmių, notaras turi pasiūlyti sutuoktiniams susitaikyti ir tokiu atveju iki šešių mėnesių atidėti sutarties dėl santuokos nutraukimo pasekmių tvirtinimą. Sutuoktiniai gali raštu atsisakyti siūlymo susitaikyti ir kad būtų atidėtas sutarties dėl santuokos nutraukimo pasekmių tvirtinimas. Jeigu pasibaigus terminui, kuriam buvo atidėtas sutarties dėl santuokos nutraukimo pasekmių tvirtinimas, sutuoktiniai ar vienas iš jų neatvyksta pas notarą, notaras netvirtina sutarties dėl santuokos nutraukimo pasekmių.
 
-Kai įmonės nuomos sutartis pasibaigia, nuomininkas privalo grąžinti įmonę nuomotojui pagal šio kodekso 6.536, 6.537 ir 6.539 straipsnių nustatytas taisykles. Paruošti įmonę perdavimui, parengti jos perdavimo–priėmimo aktą privalo nuomininkas savo lėšomis, jeigu įmonės nuomos sutartis nenumato ko kita.
+2. Santuoka bendru sutuoktinių sutikimu nutraukiama notarine tvarka, notarui patvirtinant sutartį dėl santuokos nutraukimo pasekmių, jeigu toks santuokos nutraukimas atitinka šiame kodekse nustatytas sąlygas, taip pat jeigu sutuoktinių pateikta sutartis dėl santuokos nutraukimo pasekmių neprieštarauja viešajai tvarkai ar iš esmės nepažeidžia vieno iš sutuoktinių teisių ir (ar) teisėtų interesų. Sutartis dėl santuokos nutraukimo pasekmių įsigalioja kitą darbo dieną po jos notarinio patvirtinimo dienos.
 
-XXIX skyrius
+Papildyta straipsniu:
 
-Žemės nuoma
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+
+3.544 straipsnis. Sutarties dėl santuokos nutraukimo pasekmių keitimas ar pripažinimas negaliojančia
+
+1. Iš esmės pasikeitus aplinkybėms (buvusio sutuoktinio liga, nedarbingumas ar kt.), buvę sutuoktiniai gali keisti sutarties dėl santuokos nutraukimo pasekmių sąlygas. Sutartis dėl sutarties dėl santuokos nutraukimo pasekmių sąlygų pakeitimo taip pat turi būti sudaryta notarine tvarka. Vieno iš buvusių sutuoktinių reikalavimu sutartis dėl santuokos nutraukimo pasekmių gali būti pakeista teismo sprendimu.
+
+2. Buvusio sutuoktinio reikalavimu teismas sutartį dėl santuokos nutraukimo pasekmių gali pripažinti visiškai ar iš dalies negaliojančia, jeigu ji iš esmės pažeidžia sutuoktinių lygiateisiškumo principą ir vienam iš jų yra labai nepalanki, taip pat šio kodekso pirmojoje knygoje numatytais sandorių negaliojimo pagrindais. Reikalavimas pripažinti sutartį dėl santuokos nutraukimo pasekmių visiškai ar iš dalies negaliojančia gali būti pareikštas ne vėliau kaip per metus nuo sutarties dėl santuokos nutraukimo pasekmių įsigaliojimo dienos. Sutarties dėl santuokos nutraukimo pasekmių pripažinimas visiškai ar iš dalies negaliojančia neturi poveikio santuokos nutraukimui pagal šią sutartį.
+
+3. Vieno ar abiejų sutuoktinių kreditoriai, kurie šio kodekso 3.543 straipsnio 1 dalyje nustatyta tvarka nebuvo informuoti apie sutarties dėl santuokos nutraukimo pasekmių sudarymą ar šios sutarties pakeitimą ir kurių teisės buvo pažeistos dėl sutarties dėl santuokos nutraukimo pasekmių sąlygų, turi teisę per vienus metus nuo dienos, kurią sužinojo apie sutarties dėl santuokos nutraukimo pasekmių sudarymą ar jos pakeitimą, šias sąlygas ginčyti teismo tvarka ir reikalauti atkurti pažeistas teises.
+
+Papildyta straipsniu:
+
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+
+Trečiasis skirsnis
+
+Santuokos nutraukimas vieno sutuoktiniO PRAŠYMU
 
 6.545 straipsnis. Žemės nuomos sutarties samprata
 
@@ -8677,17 +8739,19 @@ Pavedimas
 
 8. Įgaliotinis neturi teisės naudoti gautos vykdant pavedimą informacijos ar turto savo interesais, išskyrus sutarties ar įstatymo numatytais atvejais, taip pat kai sutikimą naudoti informaciją ar turtą duoda įgaliotojas. Jeigu įgaliotinis šios pareigos nevykdo, jis privalo atlyginti įgaliotojui dėl to padarytus nuostolius bei grąžinti visa tai, kas yra jo nepagrįstas praturtėjimas, o jeigu jis neteisėtai naudojo daiktą ar pinigus, – atitinkamai sumokėti nuomos mokestį ar palūkanas.
 
-6.761 straipsnis. Įgaliotojo pareigos
+3.761 straipsnis. Gyvenimo skyrium patvirtinimas notarine tvarka
 
-1. Įgaliotojas privalo bendradarbiauti su įgaliotiniu, kai šis vykdo pavedimą.
+1. Sutuoktiniai, kreipdamiesi į notarą dėl gyvenimo skyrium patvirtinimo, turi jam pateikti sutartį dėl gyvenimo skyrium pasekmių. Kai sutartyje dėl gyvenimo skyrium pasekmių aptariami sutuoktinių turto, kuris yra bendroji jungtinė sutuoktinių nuosavybė, padalijimo klausimai, sutuoktiniai taip pat turi notarui pateikti įrodymus, kad apie kreipimąsi į notarą dėl sutuoktinių gyvenimo skyrium patvirtinimo informavo visus žinomus bendrus jų ar vieno iš jų kreditorius.
 
-2. Įgaliotojas privalo tuojau pat priimti iš įgaliotinio visa, ką šis įvykdė pagal pavedimo sutartį.
+2. Sutartyje dėl gyvenimo skyrium pasekmių sutuoktiniai turi aptarti vienas kito išlaikymo, sutuoktinių turto padalijimo klausimus, taip pat nurodyti, kuris iš jų išlaiko teisę gyventi šeimos gyvenamojoje patalpoje, jeigu šie klausimai nebuvo aptarti vadovaujantis šio kodekso nuostatomis sudarytoje vedybų sutartyje ir (ar) jeigu turtas, kuris yra bendroji jungtinė sutuoktinių nuosavybė, nepadalytas bendru jų susitarimu, patvirtintu notarine tvarka ar teismo sprendimu.
 
-3. Jeigu ko kita nenustato sutartis, įgaliotojas privalo aprūpinti įgaliotinį priemonėmis, reikalingomis pavedimui įvykdyti, atlyginti įgaliotiniui išlaidas, kurios buvo būtinos pavedimui tinkamai įvykdyti, o esant reikalui – išmokėti avansą, būtiną išlaidoms, susijusioms su pavedimo vykdymu, padengti.
+3. Tvirtinant, keičiant ir ginčijant sutartį dėl gyvenimo skyrium pasekmių, mutatis mutandis taikomos šio kodekso 3.541–3.544 straipsnių nuostatos.
 
-4. Įgaliotiniui tinkamai įvykdžius pavedimą, įgaliotojas privalo sumokėti jam atlyginimą, jeigu pavedimo sutartis yra atlygintinė.
+4. Notaras, patvirtinęs sutartį dėl gyvenimo skyrium pasekmių, ne vėliau kaip kitą darbo dieną nuo šios sutarties įsigaliojimo dienos elektroninių ryšių priemonėmis perduoda vedybų sutarčių registrui pranešimą apie patvirtintą sutartį dėl gyvenimo skyrium pasekmių. Jeigu notaro patvirtintoje sutartyje dėl gyvenimo skyrium pasekmių keičiamas registruojamo daikto teisinis statusas ar iš esmės keičiamos jo valdymo, naudojimo ir disponavimo juo sąlygos, pranešimą apie patvirtintą sutartį dėl gyvenimo skyrium pasekmių, laikydamasis šioje dalyje nustatytų terminų, notaras perduoda registro, kuriame įregistruotas tas daiktas ar daiktinės teisės į jį, tvarkytojui.
 
-5. Įgaliotojas turi atlyginti įgaliotiniui šio patirtą vykdant pavedimą žalą, jeigu paties įgaliotinio veiksmuose nėra kaltės ir žalos neprivalo atlyginti kiti už ją atsakingi asmenys.
+Papildyta straipsniu:
+
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
 
 6.762 straipsnis. Perįgaliojimas
 
