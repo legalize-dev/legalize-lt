@@ -4,7 +4,7 @@ identifier: "TAR.FFF9AE9162EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-13"
-last_updated: "2021-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
 
@@ -62,7 +62,13 @@ Vilnius
 
 11. Nuslėpta tarša:
 
-1) neturint leidimo, kai leidimas privalomas, išmestas teršalo kiekis ir (ar)
+1) neturint leidimo, kai leidimas privalomas, arba eksploatuojant neįregistruotą organinius tirpiklius naudojantį įrenginį, kai jis privalo būti įregistruotas, išmestas teršalo kiekis ir (ar)
+
+TAR pastaba. 2 straipsnio 11 dalies 1 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 2) nedeklaruotas ar deklaruotas pradėjus mokestinį patikrinimą: į aplinką išmesto teršalo faktinis kiekis, leidime nustatyto teršalo metinio normatyvo ir (ar) didžiausios leidžiamos momentinės ar paros vidutinės teršalo koncentracijos ir (ar) ribinės vertės neviršijantis ir (ar) faktinis leidime nustatytą metinį normatyvą ir (ar) didžiausią leidžiamą momentinę ar paros vidutinę teršalo koncentraciją ir (ar) ribinę vertę viršijantis teršalo kiekis; Lietuvos Respublikoje sunaudotų degalų kiekis; kilimo ir tūpimo ciklų skaičius; tiektų Lietuvos Respublikos vidaus rinkai gaminių ir (ar) pripildytų pakuočių kiekis; pašalintų sąvartyne atliekų kiekis, ir (ar)
 
@@ -112,23 +118,67 @@ Vilnius
 
 Mokesčio objektas yra:
 
-1) iš stacionariųjų taršos šaltinių, kuriems teršalų išmetimui į aplinką privalomas leidimas, kuriame nustatyti taršos normatyvai, išmesti į aplinką (orą, vandens telkinius ir žemės paviršių bei jos gelmes) teršalai, nurodyti šio įstatymo 1 ir 2 prieduose;
+1) iš stacionariųjų taršos šaltinių, kuriems išmesti teršalus į aplinką privalomas leidimas, kuriame nustatyti taršos normatyvai, – išmesti į aplinką (orą, vandens telkinius ir žemės paviršių bei jos gelmes) teršalai, nurodyti šio įstatymo 1 ir 2 prieduose, ir teršalai, pagal šį įstatymą priskirti vienai iš šio įstatymo 1 ir 2 prieduose nurodytų teršalų grupių pagal jų kenksmingumą aplinkai;
 
-2) Lietuvos Respublikos vidaus rinkai tiekti gaminiai, nurodyti šio įstatymo 3 priede, kurie buvo tiekti Lietuvos Respublikos vidaus rinkai kaip atskiri gaminiai, neįeinantys į kito gaminio sudėtį;
+TAR pastaba. 4 straipsnio 1 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
 
-3) Lietuvos Respublikos vidaus rinkai tiektos pripildytos pakuotės, nurodytos šio įstatymo 4 priede;
+Straipsnio punkto pakeitimai:
 
-4) mobiliųjų taršos šaltinių, išskyrus oro transporto priemones, naudojamas keleiviams ir kroviniams vežti, ir žemės ūkio veiklai naudojamus ne keliais judančius mechanizmus, eksploatavimui Lietuvos Respublikoje sunaudoti degalai, nurodyti šio įstatymo 5 priede;
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
-5) oro transporto priemonių, naudojamų keleiviams ir kroviniams vežti, kilimo ir tūpimo ciklai, nurodyti šio įstatymo 5 priede;
+2) iš stacionariųjų taršos šaltinių, kuriems išmesti teršalus į aplinką privalomas organinius tirpiklius naudojančio įrenginio įregistravimas, – išmesti į aplinkos orą teršalai, nurodyti šio įstatymo 1 priede, ir teršalai, pagal šį įstatymą priskirti vienai iš šio įstatymo 1 priede nurodytų teršalų grupių pagal jų kenksmingumą aplinkai;
 
-6) sąvartyne šalintos atliekos, nurodytos šio įstatymo 8 priede;
+TAR pastaba. 4 straipsnio 2 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
 
-7) žemės ūkio veiklai naudojami ne keliais judantys mechanizmai, registruojami pirmą kartą Lietuvoje ar keičiantis žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojui Traktorių, savaeigių ir žemės ūkio mašinų bei jų priekabų registre (toliau – Registras).
+Papildyta straipsnio punktu:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+3) Lietuvos Respublikos vidaus rinkai tiekti gaminiai, nurodyti šio įstatymo 3 priede, kurie buvo tiekti Lietuvos Respublikos vidaus rinkai kaip atskiri gaminiai, neįeinantys į kito gaminio sudėtį;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+4) Lietuvos Respublikos vidaus rinkai tiektos pripildytos pakuotės, nurodytos šio įstatymo 4 priede;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+5) mobiliųjų taršos šaltinių, išskyrus oro transporto priemones, naudojamas keleiviams ir kroviniams vežti, ir žemės ūkio veiklai naudojamus ne keliais judančius mechanizmus, eksploatavimui Lietuvos Respublikoje sunaudoti degalai, nurodyti šio įstatymo 5 priede;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+6) oro transporto priemonių, naudojamų keleiviams ir kroviniams vežti, kilimo ir tūpimo ciklai, nurodyti šio įstatymo 5 priede;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+7) sąvartyne šalintos atliekos, nurodytos šio įstatymo 8 priede;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+8) žemės ūkio veiklai naudojami ne keliais judantys mechanizmai, registruojami pirmą kartą Lietuvoje ar keičiantis žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojui Traktorių, savaeigių ir žemės ūkio mašinų bei jų priekabų registre (toliau – Registras).
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 5 straipsnis. Mokesčio mokėtojai
 
-1. Mokestį už aplinkos teršimą iš stacionariųjų taršos šaltinių moka fiziniai asmenys, juridiniai asmenys, kitos organizacijos ir jų padaliniai, kurie įstatymų nustatytais atvejais privalo turėti leidimą, kuriame nustatyti taršos normatyvai.
+1. Mokestį už aplinkos teršimą iš stacionariųjų taršos šaltinių moka fiziniai asmenys, juridiniai asmenys, kitos organizacijos ir jų padaliniai, kurie įstatymų nustatytais atvejais privalo turėti leidimą, kuriame nustatyti taršos normatyvai, arba kurie eksploatuoja organinius tirpiklius naudojančius įrenginius, kuriuos privaloma įregistruoti.
+
+TAR pastaba. 5 straipsnio 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 2. Mokestį už aplinkos teršimą iš mobiliųjų taršos šaltinių moka fiziniai asmenys, juridiniai asmenys, kitos organizacijos ir jų padaliniai, kurie komercinei veiklai naudoja mobiliuosius taršos šaltinius, siekdami gauti ir (ar) uždirbti pajamų ar kitos ekonominės naudos.
 
@@ -138,7 +188,13 @@ Mokesčio objektas yra:
 
 6 straipsnis. Mokesčio lengvatos
 
-1. Mokesčio mokėtojai, įgyvendinantys aplinkos apsaugos priemones, mažinančias teršalų išmetimą į aplinką iš stacionariųjų taršos šaltinių ne mažiau kaip 5 procentais skaičiuojant nuo nustatyto didžiausios leidžiamos taršos normatyvo, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atleidžiami nuo mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių už tuos teršalus, kurių kiekis sumažinamas 5 procentais, išskyrus atvejus, kai aplinkos apsaugos priemonei įgyvendinti naudojamos valstybės biudžeto lėšos, taip pat kai įgyvendinamos aplinkos apsaugos priemonės, skirtos biokurui naudoti. Atleidimas nuo mokesčio galioja ne ilgiau kaip 3 metus nuo aplinkos apsaugos priemonės įgyvendinimo pradžios. Jeigu aplinkos apsaugos priemonė nustatytu laiku neįgyvendinama arba negaunamas planuotas efektas, mokestis už aplinkos teršimą iš stacionariųjų taršos šaltinių už visą laikotarpį sumokamas arba išieškomas šio įstatymo ir Mokesčių administravimo įstatymo nustatyta tvarka.
+1. Mokesčio mokėtojai, įgyvendinantys aplinkos apsaugos priemones, mažinančias teršalų išmetimą į aplinką iš stacionariųjų taršos šaltinių ne mažiau kaip 5 procentais, skaičiuojant nuo faktinio, tačiau ne didesnio už nustatytą didžiausios leidžiamos taršos normatyvą, kiekio, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atleidžiami nuo mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių už tuos teršalus, kurių kiekis sumažinamas 5 procentais, išskyrus atvejus, kai aplinkos apsaugos priemonei įgyvendinti naudojamos valstybės biudžeto lėšos, taip pat kai įgyvendinamos aplinkos apsaugos priemonės, skirtos biokurui naudoti. Atleidimas nuo mokesčio galioja ne ilgiau kaip 3 metus nuo aplinkos apsaugos priemonės įgyvendinimo pradžios. Jeigu aplinkos apsaugos priemonė nustatytu laiku neįgyvendinama arba negaunamas planuotas efektas, mokestis už aplinkos teršimą iš stacionariųjų taršos šaltinių už visą laikotarpį sumokamas arba išieškomas šio įstatymo ir Mokesčių administravimo įstatymo nustatyta tvarka.
+
+TAR pastaba. 6 straipsnio 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 2. Nuo mokesčio už aplinkos teršimą iš mobiliųjų taršos šaltinių atleidžiami:
 
@@ -172,21 +228,71 @@ Mokesčio objektas yra:
 
 7 straipsnis. Mokesčio tarifų nustatymo ir jų indeksavimo tvarka
 
-1. Mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių tarifai, mokant mokestį už išmestą normatyvo neviršijantį teršalo ar teršalų junginio kiekį, nustatyti teršalams ar teršalų junginiams įstatymu ar priskirti vienai iš teršalų grupių pagal jų kenksmingumą aplinkai šio įstatymo 1 priede, o už normatyvą viršijantį teršalo kiekį – šio įstatymo 2 priede.
+1. Mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių, kuriems išmesti teršalus į aplinką privalomas leidimas su nustatytais taršos normatyvais, tarifai, mokant mokestį už išmestą taršos normatyvo neviršijantį teršalo kiekį, nustatyti šio įstatymo 1 priede, už taršos normatyvą viršijantį teršalo kiekį – šio įstatymo 2 priede.
 
-2. Iš stacionariųjų taršos šaltinių išmetamiems į aplinką teršalams ir teršalų junginiams, kuriems nustatytas laikinai leidžiamos taršos normatyvas, mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių tarifai, nurodyti šio įstatymo 1 ir 2 prieduose, didinami taikant koeficientą 1,2.
+TAR pastaba. 7 straipsnio 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
 
-3. Mokesčio už aplinkos teršimą iš mobiliųjų taršos šaltinių tarifai už degalus, sunaudotus Lietuvos Respublikoje, o oro transporto priemonėms, skirtoms keleiviams ir kroviniams vežti, – už kilimo ir tūpimo ciklų skaičių, nurodyti šio įstatymo 5 priede. Mokesčio už aplinkos teršimą iš mobiliųjų taršos šaltinių tarifai, atsižvelgiant į transporto priemonių, išskyrus kelių ir oro transporto priemones, technines savybes, yra koreguojami (mažinami ar didinami) taikant šio įstatymo 7 priede nustatytus koeficientus. Mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų tarifai nustatyti šio įstatymo 6 priede; šie tarifai, atsižvelgiant į technines ne keliais judančių mechanizmų savybes, koreguojami taikant šio įstatymo 7 priede nustatytus koeficientus.
+Straipsnio dalies pakeitimai:
 
-4. Apmokestinamuosius teršalus, išskyrus šio įstatymo 1 priede nurodytus teršalus ar teršalų junginius, šiuo įstatymu nustatytoms teršalų grupėms, atsižvelgiant į teršalo poveikį aplinkai ir žmonių sveikatai, taip pat į Europos Sąjungos teisės aktuose nustatytas teršalų ribines ar kitas aplinkos užterštumo vertes ir jų normavimo reikalavimus, priskiria Vyriausybė ar jos įgaliotos institucijos.
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
-5. Mokesčio už aplinkos teršimą gaminių atliekomis tarifai ir gaminių sąrašas nurodyti šio įstatymo 3 priede.
+2. Mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių, kuriems išmesti teršalus į aplinką privalomas organinius tirpiklius naudojančio įrenginio įregistravimas, tarifai, mokant mokestį už išmestą teršalo kiekį, nustatyti šio įstatymo 1 priede.
 
-6. Mokesčio už aplinkos teršimą pakuočių atliekomis tarifai ir pakuočių rūšių sąrašas nurodyti šio įstatymo 4 priede.
+TAR pastaba. 7 straipsnio 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
 
-7. Mokesčio už aplinkos teršimą sąvartyne šalinamomis atliekomis tarifai ir šalinamų atliekų rūšių sąrašas nurodyti šio įstatymo 8 priede.
+Papildyta straipsnio dalimi:
 
-8. Mokesčio už aplinkos teršimą tarifai indeksuojami kiekvienais metais, pasibaigus mokestiniam laikotarpiui, taikant indeksavimo koeficientą, kuris nustatomas Lietuvos statistikos departamento apskaičiuotą ir Oficialiosios statistikos portale paskelbtą mokestinių metų vartotojų kainų indeksą dalijant iš šimto. Mokestinių metų vartotojų kainų indeksas nustatomas kiekvienų mokestinių metų gruodžio mėnesio kainas palyginus su 2018 metų gruodžio mėnesio kainomis.
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+3. Iš stacionariųjų taršos šaltinių išmetamiems į aplinką teršalams, kuriems nustatytas laikinai leidžiamos taršos normatyvas, mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių tarifai, nurodyti šio įstatymo 1 ir 2 prieduose, didinami taikant koeficientą 1,2.
+
+TAR pastaba. 7 straipsnio 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+4. Mokesčio už aplinkos teršimą iš mobiliųjų taršos šaltinių tarifai už degalus, sunaudotus Lietuvos Respublikoje, o oro transporto priemonėms, skirtoms keleiviams ir kroviniams vežti, – už kilimo ir tūpimo ciklų skaičių, nurodyti šio įstatymo 5 priede. Mokesčio už aplinkos teršimą iš mobiliųjų taršos šaltinių tarifai, atsižvelgiant į transporto priemonių, išskyrus kelių ir oro transporto priemones, technines savybes, yra koreguojami (mažinami ar didinami) taikant šio įstatymo 7 priede nustatytus koeficientus. Mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų tarifai nustatyti šio įstatymo 6 priede; šie tarifai, atsižvelgiant į technines ne keliais judančių mechanizmų savybes, koreguojami taikant šio įstatymo 7 priede nustatytus koeficientus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+5. Apmokestinamuosius teršalus, išskyrus šio įstatymo 1 ir 2 prieduose nurodytus teršalus, šio įstatymo 1 ir 2 prieduose nustatytoms teršalų grupėms, atsižvelgus į teršalo poveikį aplinkai ir žmonių sveikatai, taip pat į Europos Sąjungos teisės aktuose nustatytas teršalų ribines ar kitas aplinkos užterštumo vertes ir jų normavimo reikalavimus, priskiria Vyriausybė ar jos įgaliotos institucijos.
+
+TAR pastaba. 7 straipsnio 5 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+6. Mokesčio už aplinkos teršimą gaminių atliekomis tarifai ir gaminių sąrašas nurodyti šio įstatymo 3 priede.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+7. Mokesčio už aplinkos teršimą pakuočių atliekomis tarifai ir pakuočių rūšių sąrašas nurodyti šio įstatymo 4 priede.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+8. Mokesčio už aplinkos teršimą sąvartyne šalinamomis atliekomis tarifai ir šalinamų atliekų rūšių sąrašas nurodyti šio įstatymo 8 priede.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+9. Mokesčio už aplinkos teršimą tarifai indeksuojami kiekvienais metais, pasibaigus mokestiniam laikotarpiui, taikant indeksavimo koeficientą, kuris nustatomas Valstybės duomenų agentūros apskaičiuotą ir Oficialiosios statistikos portale paskelbtą mokestinių metų vartotojų kainų indeksą dalijant iš šimto. Mokestinių metų vartotojų kainų indeksas nustatomas kiekvienų mokestinių metų gruodžio mėnesio kainas palyginus su 2018 metų gruodžio mėnesio kainomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1708, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27556
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 8 straipsnis. Mokestinis laikotarpis
 
@@ -200,7 +306,13 @@ Mokesčio už aplinkos teršimą mokestinis laikotarpis yra kalendoriniai metai,
 
 3. Mokestis už aplinkos teršimą apskaičiuojamas:
 
-1) iš stacionariųjų taršos šaltinių išmestą į aplinką teršalų kiekį, kuris nustatomas pagal instrumentinio matavimo, kai juos privaloma atlikti vadovaujantis teisės aktuose nustatytais teršalų apskaitos reikalavimais, rezultatus arba taikant aplinkos ministro patvirtintas išmetamų į aplinką (orą, vandens telkinius ir žemės paviršių bei žemės gelmes) teršalų kiekio apskaičiavimo metodikas ir (arba) į aplinkos ministro įsakymu patvirtintą metodikų sąrašą įtrauktas metodikas, kurios buvo naudojamos apskaičiuojant normatyvinį teršalo kiekį leidimui gauti (toliau – teršalų nustatymo metodikos), dauginant iš tarifo, nurodyto šio įstatymo 1 priede, ir indeksavimo koeficiento;
+1) iš stacionariųjų taršos šaltinių išmestą į aplinką teršalų kiekį, kuris nustatomas pagal instrumentinio matavimo, kai jį privaloma atlikti vadovaujantis teisės aktuose nustatytais teršalų apskaitos reikalavimais, rezultatus arba taikant aplinkos ministro įsakymu patvirtintas išmetamų į aplinką (orą, vandens telkinius ir žemės paviršių bei žemės gelmes) teršalų kiekio apskaičiavimo metodikas ir (arba) į aplinkos ministro įsakymu patvirtintą metodikų sąrašą įtrauktas metodikas, kurios buvo naudojamos apskaičiuojant normatyvinį teršalo kiekį leidimui gauti ar organinius tirpiklius naudojančiam įrenginiui įregistruoti (toliau – teršalų nustatymo metodikos), dauginant iš tarifo, nurodyto šio įstatymo 1 priede, ir indeksavimo koeficiento;
+
+TAR pastaba. 9 straipsnio 3 dalies 1 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 2) iš stacionariųjų taršos šaltinių išmestą į aplinką leidime nustatytą taršos normatyvą viršijantį teršalo kiekį dauginant iš mokesčio tarifo, nurodyto šio įstatymo 2 priede, ir indeksavimo koeficiento;
 
@@ -248,17 +360,49 @@ Mokesčio už aplinkos teršimą mokestinis laikotarpis yra kalendoriniai metai,
 
 3) mokesčio mokėtojui, kuris nuslėpė leidime nustatytą metinį normatyvą ir (ar) didžiausią leidžiamą momentinę ar paros vidutinę teršalo koncentraciją ir (ar) vienkartinį normatyvą viršijantį teršalo kiekį ir (ar) kuris neturi leidimo, – išmestą teršalo kiekį, nuslėptą leidime nustatytą metinį ir (ar) didžiausią leidžiamą momentinę ar paros vidutinę teršalo koncentraciją ir (ar) vienkartinį normatyvą viršijantį teršalo kiekį, o jeigu neturi leidimo, kuriame nustatyti teršalų išmetimo į aplinką normatyvai, kai toks leidimas yra privalomas, – visą faktinį išmestą iš stacionariųjų taršos šaltinių teršalo kiekį, kuris nustatomas pagal teršalų nustatymo metodikas arba instrumentinio matavimo būdu gautus duomenis, dauginant iš tarifo, nurodyto šio įstatymo 2 priede, iš indeksavimo koeficiento, iš koeficiento 1,2, jeigu nustatytas teršalo laikinai leidžiamos taršos normatyvas, ir iš koeficiento 2;
 
-4) mokesčio mokėtojui, kuris nuslėpė degalų kiekį, sunaudotą mobiliųjų taršos šaltinių, išskyrus žemės ūkio veiklai naudojamus ne keliais judančius mechanizmus, eksploatuojamų Lietuvos Respublikoje, – nuslėptą degalų kiekį dauginant iš tarifo, nurodyto šio įstatymo 5 priede, iš indeksavimo koeficiento, iš tarifo koregavimo koeficiento, jeigu transporto priemonė atitinka bent vieną iš šio įstatymo 7 priede nustatytų techninių ypatumų, ir iš koeficiento 2;
+4) mokesčio mokėtojui, kuris eksploatuoja stacionarųjį taršos šaltinį – privalomą įregistruoti organinius tirpiklius naudojantį įrenginį, nuslėpė iš šio stacionaraus taršos šaltinio į aplinką išmestą teršalo kiekį, – nuslėptą teršalo kiekį dauginant iš tarifo, nurodyto šio įstatymo 1 priede, iš indeksavimo koeficiento ir iš koeficiento 2;
 
-5) mokesčio mokėtojui, kuris nuslėpė oro transporto priemonių kilimo ir tūpimo ciklų skaičių, – nuslėptą kilimo ir tūpimo ciklų skaičių dauginant iš tarifo, nurodyto šio įstatymo 5 priede, iš indeksavimo koeficiento ir iš koeficiento 2;
+TAR pastaba. 9 straipsnio 8 dalies 4 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
 
-6) mokesčio mokėtojui, kuris nuslėpė sąvartyne šalintų atliekų kiekį, – nuslėptą sąvartyne šalintų atliekų kiekį dauginant iš tarifo, nurodyto šio įstatymo 8 priede, iš indeksavimo koeficiento ir iš koeficiento 2;
+Papildyta straipsnio punktu:
 
-7) mokesčio mokėtojui, kuris nuslėpė Lietuvos Respublikos vidaus rinkai tiektų gaminių ir (ar) pripildytų pakuočių kiekį, kai mokesčio mokėtojas aplinkos ministro nustatyta tvarka vykdė gaminių ir (ar) pakuočių apskaitą, – nuslėptą gaminių ir (ar) pripildytų pakuočių kiekį dauginant iš tarifo, nurodyto šio įstatymo 3 ir (ar) 4 prieduose, iš indeksavimo koeficiento ir iš koeficiento 2;
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
-8) mokesčio mokėtojui, kuris nuslėpė Lietuvos Respublikos vidaus rinkai tiektų gaminių ir (ar) pripildytų pakuočių kiekį, kai mokesčio mokėtojas nevykdė gaminių ir (ar) pakuočių apskaitos ir nepateikė gaminių ir (ar) pakuočių apskaitos dokumentų mokesčio administratoriui (jo pareigūnui) ir neteikė deklaracijos iki mokestinio patikrinimo pradžios, – mokesčio mokėtojo per tikrinamąjį mokestinį laikotarpį gautas pajamas dauginant iš koeficiento 0,02. Jeigu apskaičiuota mokėtina mokesčio suma yra mažesnė už 10 000 eurų, mokamas 10 000 eurų mokestis už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis. Duomenis apie mokesčio mokėtojo gautas pajamas per mokestinį laikotarpį teikia Valstybinė mokesčių inspekcija;
+5) mokesčio mokėtojui, kuris nuslėpė degalų kiekį, sunaudotą mobiliųjų taršos šaltinių, išskyrus žemės ūkio veiklai naudojamus ne keliais judančius mechanizmus, eksploatuojamų Lietuvos Respublikoje, – nuslėptą degalų kiekį dauginant iš tarifo, nurodyto šio įstatymo 5 priede, iš indeksavimo koeficiento, iš tarifo koregavimo koeficiento, jeigu transporto priemonė atitinka bent vieną iš šio įstatymo 7 priede nustatytų techninių ypatumų, ir iš koeficiento 2;
 
-9) mokesčio mokėtojui, kuris nurodė fiktyvų (neegzistuojantį) atliekų tvarkytojo ir (ar) gamintojų ir importuotojų organizacijos tariamai išrašytą gaminių ir (ar) pakuočių atliekų sutvarkymą įrodantį dokumentą ir (ar) patvirtinimą (toliau – dokumentas), kuriuo remiantis buvo pasinaudota mokesčio lengvata, ir sutvarkytą gaminių ir (ar) pakuočių atliekų kiekį, – Lietuvos Respublikos vidaus rinkai tiektą gaminių ir (ar) pripildytų pakuočių kiekį, kuriam netaikomos šiame įstatyme nustatytos mokesčio už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis lengvatos, dauginant iš tarifo, nurodyto šio įstatymo 3 ir (ar) 4 prieduose, iš indeksavimo koeficiento ir iš koeficiento 2.
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+6) mokesčio mokėtojui, kuris nuslėpė oro transporto priemonių kilimo ir tūpimo ciklų skaičių, – nuslėptą kilimo ir tūpimo ciklų skaičių dauginant iš tarifo, nurodyto šio įstatymo 5 priede, iš indeksavimo koeficiento ir iš koeficiento 2;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+7) mokesčio mokėtojui, kuris nuslėpė sąvartyne šalintų atliekų kiekį, – nuslėptą sąvartyne šalintų atliekų kiekį dauginant iš tarifo, nurodyto šio įstatymo 8 priede, iš indeksavimo koeficiento ir iš koeficiento 2;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+8) mokesčio mokėtojui, kuris nuslėpė Lietuvos Respublikos vidaus rinkai tiektų gaminių ir (ar) pripildytų pakuočių kiekį, kai mokesčio mokėtojas aplinkos ministro nustatyta tvarka vykdė gaminių ir (ar) pakuočių apskaitą, – nuslėptą gaminių ir (ar) pripildytų pakuočių kiekį dauginant iš tarifo, nurodyto šio įstatymo 3 ir (ar) 4 prieduose, iš indeksavimo koeficiento ir iš koeficiento 2;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+9) mokesčio mokėtojui, kuris nuslėpė Lietuvos Respublikos vidaus rinkai tiektų gaminių ir (ar) pripildytų pakuočių kiekį, kai mokesčio mokėtojas nevykdė gaminių ir (ar) pakuočių apskaitos ir nepateikė gaminių ir (ar) pakuočių apskaitos dokumentų mokesčio administratoriui (jo pareigūnui) ir neteikė deklaracijos iki mokestinio patikrinimo pradžios, – mokesčio mokėtojo per tikrinamąjį mokestinį laikotarpį gautas pajamas dauginant iš koeficiento 0,02. Jeigu apskaičiuota mokėtina mokesčio suma yra mažesnė už 10 000 eurų, mokamas 10 000 eurų mokestis už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis. Duomenis apie mokesčio mokėtojo gautas pajamas per mokestinį laikotarpį teikia Valstybinė mokesčių inspekcija;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+10) mokesčio mokėtojui, kuris nurodė fiktyvų (neegzistuojantį) atliekų tvarkytojo ir (ar) gamintojų ir importuotojų organizacijos tariamai išrašytą gaminių ir (ar) pakuočių atliekų sutvarkymą įrodantį dokumentą ir (ar) patvirtinimą (toliau – dokumentas), kuriuo remiantis buvo pasinaudota mokesčio lengvata, ir sutvarkytą gaminių ir (ar) pakuočių atliekų kiekį, – Lietuvos Respublikos vidaus rinkai tiektą gaminių ir (ar) pripildytų pakuočių kiekį, kuriam netaikomos šiame įstatyme nustatytos mokesčio už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis lengvatos, dauginant iš tarifo, nurodyto šio įstatymo 3 ir (ar) 4 prieduose, iš indeksavimo koeficiento ir iš koeficiento 2.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 10 straipsnis. Mokesčio mokėtojų konsultavimas
 
@@ -282,19 +426,17 @@ Mokesčio už aplinkos teršimą mokestinis laikotarpis yra kalendoriniai metai,
 
 1. Mokestis už aplinkos teršimą iš stacionariųjų ir mobiliųjų taršos šaltinių paskirstomas taip:
 
-1) 30 procentų įskaitoma į valstybės biudžetą. Šios lėšos naudojamos pagal tikslinę paskirtį Lietuvos aplinkos apsaugos investicijų fondo programos lėšoms administruoti ir šioje programoje numatytiems aplinkos apsaugos investicijų projektams finansuoti aplinkos ministro nustatyta tvarka;
-
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo (2020 m. birželio 25 d. redakcija; TAR, 2020-07-07, Nr. 15136) 12 straipsnio 1 dalies 1 punktas prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
-
-Straipsnio punkto pakeitimai:
-
-Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+1) 30 procentų įskaitoma į valstybės biudžetą;
 
 2) 70 procentų įskaitoma į savivaldybės, kurios teritorijoje yra stacionarusis taršos objektas (įrenginys), o teršiant iš mobiliojo taršos šaltinio – į savivaldybės, kurios teritorijoje registruotas mokesčio mokėtojas, eksploatuojantis (naudojantis) mobilųjį taršos šaltinį, biudžetą. Šios lėšos naudojamos pagal tikslinę paskirtį Savivaldybių aplinkos apsaugos rėmimo specialiojoje programoje numatytoms priemonėms finansuoti.
 
-2. Mokestis už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis ir mokestis už aplinkos teršimą sąvartyne šalinamomis atliekomis mokamas į valstybės biudžetą. Šios lėšos naudojamos Atliekų tvarkymo įstatyme numatytiems Atliekų tvarkymo programos tikslams įgyvendinti.
+2. Mokestis už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis ir mokestis už aplinkos teršimą sąvartyne šalinamomis atliekomis mokamas į valstybės biudžetą.
 
-3. Mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą taršą, mokamas arba išieškomas iš pažeidėjo į valstybės biudžetą. Šios lėšos naudojamos Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatyme nustatytiems tikslams įgyvendinti.
+3. Mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą taršą, mokamas arba išieškomas iš pažeidėjo į valstybės biudžetą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1708, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27556
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -310,7 +452,7 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ STACIONARIŲJŲ TARŠOS ŠALTINIŲ LEIDŽIA
 
 I SKYRIUS
 
-TERŠALAI, IŠMETAMI Į ATMOSFERĄ
+TERŠALAI, IŠMETAMI Į APLINKOS ORĄ
 
 Teršalai
 
@@ -428,6 +570,10 @@ IV
 
 20
 
+Pakeistas skyriaus pavadinimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
 II SKYRIUS
 
 TERŠALAI, IŠMETAMI Į VANDENS TELKINIUS, ŽEMĖS PAVIRŠIŲ IR JOS GELMES
@@ -484,6 +630,8 @@ V
 
 *Išskyrus kietąsias daleles, susidarančias deginant kietąjį, skystąjį arba dujinį kurą ar atliekas, ir asbesto turinčias kietąsias daleles
 
+part_64b20b42a3994d8296e6df2ae3420698_end
+
 Lietuvos Respublikos
 
 mokesčio už aplinkos teršimą įstatymo
@@ -494,7 +642,7 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ STACIONARIŲJŲ TARŠOS ŠALTINIŲ NORMATYV
 
 I SKYRIUS
 
-TERŠALAI, IŠMETAMI Į ATMOSFERĄ
+TERŠALAI, IŠMETAMI Į APLINKOS ORĄ
 
 Teršalai
 
@@ -612,6 +760,10 @@ IV
 
 30
 
+Pakeistas skyriaus pavadinimas:
+
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
 II SKYRIUS
 
 TERŠALAI, IŠMETAMI Į VANDENS TELKINIUS, ŽEMĖS PAVIRŠIŲ IR JOS GELMES
@@ -667,6 +819,8 @@ V
 2 516
 
 *Išskyrus kietąsias daleles, susidarančias deginant kietąjį, skystąjį arba dujinį kurą ar atliekas, ir asbesto turinčias kietąsias daleles
+
+part_ac7f283fff1f4e42b425b8fc2202b60f_end
 
 Lietuvos Respublikos
 
@@ -743,6 +897,8 @@ ex 8708 80
 *Prekių kodai pateikti pagal Kombinuotąją nomenklatūrą, patvirtintą 2016 m. spalio 6 d. Komisijos įgyvendinimo reglamentu (ES) 2016/1821, kuriuo iš dalies keičiamas Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo I priedas, su paskutiniais pakeitimais, padarytais 2017 m. spalio 12 d. Komisijos įgyvendinimo reglamentu (ES) 2017/1925, kuriuo iš dalies keičiamas Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo I priedas.
 
 Pastaba. Prie kodo nurodomas raidžių junginys ex reiškia, kad apmokestinami tik tie atitinkamam Kombinuotosios nomenklatūros kodui priskiriami gaminiai, kurie atitinka lentelės pirmoje skiltyje pateiktų atitinkamų gaminių aprašymą
+
+part_500a7312b06547b68fb428b62bd39226_end
 
 Lietuvos Respublikos
 
@@ -828,6 +984,8 @@ Kita pakuotė
 
 423
 
+part_5eef261172b3472c88060da358d7d974_end
+
 Lietuvos Respublikos
 
 mokesčio už aplinkos teršimą įstatymo
@@ -899,6 +1057,8 @@ už vieną kilimo ir tūpimo ciklą
 žibalas arba kita
 
 10
+
+part_a9930827f74b4791aebfcbc7b5ebeda8_end
 
 Lietuvos Respublikos
 
@@ -1010,6 +1170,8 @@ iki
 
 600
 
+part_810028c8174140a383b0c91a34069789_end
+
 Lietuvos Respublikos
 
 mokesčio už aplinkos teršimą įstatymo
@@ -1040,6 +1202,8 @@ Koeficientas
 
 1,2
 
+part_06ab14dfcbfc48c78ecab97b3d1c6c02_end
+
 Lietuvos Respublikos
 
 mokesčio už aplinkos teršimą įstatymo
@@ -1052,31 +1216,11 @@ Atliekų rūšis
 
 Tarifas, Eur/t
 
-2021 m.
-
-2022 m.
-
-2023 m.
-
-2024 m.
-
 1. Nepavojingųjų atliekų sąvartyne šalinamos atliekos, išskyrus atskirose sekcijose šalinamas asbesto atliekas
 
-10,00
-
-15,00
-
-20,00
-
-25,00
+50,00
 
 2. Nepavojingųjų atliekų sąvartyno atskirose sekcijose šalinamos asbesto atliekos
-
-10,00
-
-10,00
-
-10,00
 
 10,00
 
@@ -1084,21 +1228,17 @@ Tarifas, Eur/t
 
 30,41
 
-30,41
-
-30,41
-
-30,41
-
 4. Pavojingųjų atliekų sąvartyne šalinamos atliekos
 
 50,00
 
-50,00
+TAR pastaba. 8 priedo nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
 
-50,00
+Priedo pakeitimai:
 
-50,00
+Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
+
+part_9d0eef981d594542b105fe1c9d1ef6b9_end
 
 Lietuvos Respublikos
 
@@ -1111,6 +1251,8 @@ mokesčio už aplinkos teršimą įstatymo
 1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/852.
 
 2. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/849.
+
+part_e2ff6104f8b348f5903444d193916016_end
 
 Pakeitimai:
 
