@@ -4,7 +4,7 @@ identifier: "TAR.CA89372D00AA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2020-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-11-22
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
 
@@ -32,7 +32,11 @@ I SKYRIUS BENDROSIOS NUOSTATOS
 
 10 straipsnis. Vidaus reikalų ministro kompetencija policijos veiklos srityse
 
-Lietuvos Respublikos vidaus reikalų ministras (toliau – vidaus reikalų ministras), be Lietuvos Respublikos Vyriausybės įstatyme jam nustatytų įgaliojimų:
+Vidaus reikalų ministras, be Lietuvos Respublikos Vyriausybės įstatyme jam nustatytų įgaliojimų:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1208, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15572
 
 1) nustato pagrindines policijos strategijos kryptis įgyvendinant Lietuvos Respublikos Vyriausybės programą;
 
@@ -360,7 +364,11 @@ Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
 
 18) nustatyta tvarka užtikrina policijos įstaigose laikomų sulaikytų, suimtų ir nuteistų asmenų apsaugą ir priežiūrą;
 
-19) nustatyta tvarka atlieka sulaikytų, suimtų ir nuteistų asmenų konvojavimą;
+19) vidaus reikalų ministro nustatyta tvarka atlieka sulaikytų, suimtų ir nuteistų asmenų konvojavimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1208, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15572
 
 20) saugo Lietuvos Respublikoje esančias užsienio šalių diplomatines atstovybes ir konsulines įstaigas;
 
@@ -372,11 +380,15 @@ Nr. XIII-2923, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10931
 
 22) rengia pareigūnus ir tobulina jų kvalifikaciją;
 
-23) vidaus reikalų centrinių įstaigų vadovų prašymu padeda atlikti vidaus reikalų statutinėms įstaigoms pavestas funkcijas. Pareigūnų pasitelkimo tvarką ir konkrečias užduotis nustato Lietuvos Respublikos vidaus reikalų ministras.
+23) vidaus reikalų centrinių įstaigų vadovų prašymu padeda atlikti vidaus reikalų statutinėms įstaigoms pavestas funkcijas. Pareigūnų pasitelkimo tvarką ir konkrečias užduotis nustato vidaus reikalų ministras.
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1208, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15572
 
 2. Policija atlieka ir kitas įstatymuose jai pavestas funkcijas, skirtas policijos uždaviniams įgyvendinti.
 
@@ -829,4 +841,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2923, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10931
 
 Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1208, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15572
+
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6 ir 10 straipsnių pakeitimo įstatymas
 
