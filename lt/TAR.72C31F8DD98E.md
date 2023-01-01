@@ -4,7 +4,7 @@ identifier: "TAR.72C31F8DD98E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-03
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 58-1704, i. k. 1001010ISTAIII-1764
 
@@ -106,7 +106,7 @@ Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
 
 8) žemės ūkio naudmenų kokybės įvertinimas, išreikštas našumo balu;
 
-9) Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytos teritorijos ir jose taikomos specialiosios žemės naudojimo sąlygos;
+9) neteko galios nuo 2023-01-01;
 
 Straipsnio punkto pakeitimai:
 
@@ -478,7 +478,7 @@ Nekilnojamojo turto kadastras reorganizuojamas ir likviduojamas įstatymu. Likvi
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Pakeitimai:
 
