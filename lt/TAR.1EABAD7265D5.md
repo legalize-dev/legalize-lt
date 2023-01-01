@@ -4,7 +4,7 @@ identifier: "TAR.1EABAD7265D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-06-18"
-last_updated: "2022-04-29"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1EABAD7265D5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS INFORMUOTIESIEMS INVESTUOTOJAMS SKIRTŲ KOLEKTYVINIO
 
 INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-04-29 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
 
@@ -1470,7 +1470,11 @@ priedas
 
 1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektais (KIPVPS), derinimo su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2162.
 
-2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156.
+2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 15 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/2259.
+
+Punkto pakeitimai:
+
+Nr. XIV-1035, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08781
 
 3. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
 
@@ -1581,6 +1585,8 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1035, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08781
 
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 47 straipsnio ir priedo pakeitimo įstatymas
+
+part_e9808fcc2c6541b895a07a5482358210_end
 
 501 straipsnis. Su tvarumu susijusios informacijos teikimo investuotojams tvarka
 
