@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2021-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2021-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1243, i. k. 0951010ISTA000I-907
 
@@ -50,7 +50,11 @@ BENDROSIOS NUOSTATOS
 
 2. Biudžeto politikos kontrolė – Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatytų taisyklių laikymosi ir užduočių vykdymo stebėsena, išvadų rengimas, teikimas Lietuvos Respublikos Seimui ir viešas šių išvadų skelbimas.
 
-3. Finansinis auditas – valstybinio audito tipas, kai vertinami audituojamo subjekto metinių (konsoliduotųjų) finansinių ir biudžeto vykdymo ataskaitų rinkinių duomenys ir pareiškiama nepriklausoma auditoriaus nuomonė.
+3. Finansinis auditas – valstybinio audito tipas, kai vertinami audituojamo subjekto metinių ataskaitų rinkinių duomenys ir pareiškiama nepriklausoma auditoriaus nuomonė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
 
 4. Metinis veiklos planas – tam tikrų vienų biudžetinių metų Valstybės kontrolės veiklos planavimo dokumentas, kuriame nustatoma veiklos apimtis.
 
@@ -130,17 +134,21 @@ Valstybės kontrolės uždaviniai yra:
 
 1. Valstybės kontrolė atlieka valstybinį auditą, biudžeto politikos kontrolę ir kitą veiklą įgyvendinant šiame įstatyme nustatytus uždavinius.
 
-2. Valstybės kontrolė, kaip aukščiausioji audito institucija, kiekvienais metais teikia Seimui:
+2. Valstybės kontrolė, kaip aukščiausioji audito institucija, kiekvienais metais atlieka šioje dalyje nurodytų metinių ataskaitų rinkinių auditus ir teikia Seimui ir šiuos ataskaitų rinkinius parengusiems viešojo sektoriaus subjektams valstybinio audito išvadas ir valstybinio audito ataskaitas, t. y. dėl:
 
-1) valstybinio audito išvadą ir valstybinio audito ataskaitą dėl valstybės konsoliduotųjų ataskaitų rinkinio;
+1) valstybės metinių ataskaitų rinkinio;
 
-2) valstybinio audito išvadą ir valstybinio audito ataskaitą dėl Privalomojo sveikatos draudimo fondo konsoliduotųjų ataskaitų rinkinio;
+2) valstybės socialinių fondų metinių ataskaitų rinkinio;
 
-3) valstybinio audito išvadą ir valstybinio audito ataskaitą dėl Valstybinio socialinio draudimo fondo konsoliduotųjų ataskaitų rinkinio;
+3) Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinio;
 
-4) valstybinio audito išvadas ir valstybinio audito ataskaitas dėl valstybės išteklių fondų, kurių lėšų sąmatas tvirtina Seimas, ataskaitų rinkinių;
+4) Pensijų anuitetų fondo metinių ataskaitų rinkinio;
 
-5) valstybinio audito išvadą ir valstybinio audito ataskaitą dėl nacionalinio finansinių ataskaitų rinkinio.
+5) nacionalinio metinių ataskaitų rinkinio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
 
 3. Valstybės kontrolė, kaip aukščiausioji audito institucija, audituoja valstybės biudžeto lėšų, skiriamų savivaldybių biudžetams, naudojimą. Savivaldybių biudžetų vykdymą ir turto valdymą, naudojimą ir disponavimą juo Valstybės kontrolė, kaip aukščiausioji audito institucija, audituoja tiek, kiek nustatyta šio įstatymo 13 straipsnyje.
 
@@ -162,7 +170,13 @@ Valstybės kontrolės uždaviniai yra:
 
 5) per 15 darbo dienų po to, kai Vyriausybė pateikia Seimui struktūrinio postūmio užduočių ir priemonių šioms užduotims įvykdyti gairių pasiūlymą, išvadą dėl Vyriausybės pasiūlytų tvirtinti Seimui struktūrinio postūmio užduočių ir priemonių šioms užduotims įvykdyti gairių atitikties Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatytiems reikalavimams dėl vidutinio laikotarpio tikslo pasiekimo laiko;
 
-6) per 7 darbo dienas nuo Lietuvos stabilumo tam tikrų metų programos viešo paskelbimo Lietuvos stabilumo programos vertinimo ataskaitą.
+6) per 7 darbo dienas nuo Lietuvos stabilumo tam tikrų metų programos viešo paskelbimo Lietuvos stabilumo programos vertinimo ataskaitą;
+
+7) iki kiekvienų metų birželio 30 dienos savivaldybių biudžetų atitikties Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2, 4–7 dalyse nustatytoms taisyklėms ir neatitikties šioms taisyklėms ištaisymo vertinimo ataskaitą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1765, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27580
 
 IV SKYRIUS
 
@@ -184,7 +198,11 @@ VALSTYBĖS KONTROLIERIAUS, VALSTYBĖS KONTROLIERIAUS PAVADUOTOJŲ, ADMINISTRACIJ
 
 6) teikia Respublikos Prezidentui valstybės kontrolieriaus pavaduotojų kandidatūras ir šio įstatymo nustatytais atvejais siūlymus atleisti valstybės kontrolieriaus pavaduotojus iš pareigų;
 
-7) teikia Seimui Valstybės kontrolės veiklos ataskaitą;
+7) teikia Seimui Valstybės kontrolės metinių ataskaitų rinkinį su auditoriaus išvada;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
 
 8) teikia Seimui šio įstatymo 8 straipsnio 2 dalyje nurodytas valstybinio audito ataskaitas ir išvadas;
 
@@ -278,7 +296,11 @@ VALSTYBĖS KONTROLĖS VEIKLA
 
 14 straipsnis. Subjekto teisės ir pareigos
 
-1. Subjektas turi teisę susipažinti su valstybinio audito ar vertinimo dokumento projektu ir per Valstybės kontrolės nustatytą ne trumpesnį kaip 10 darbo dienų terminą pateikti dėl jo pastabas.
+1. Subjektas turi teisę susipažinti su valstybinio audito ar kito vertinimo dokumento projektu ir per Valstybės kontrolės nustatytą ne trumpesnį kaip 10 darbo dienų terminą pateikti dėl jo pastabas. Dėl Viešojo sektoriaus atskaitomybės įstatyme nustatytų valstybinio audito dokumentų Valstybės kontrolė gali nustatyti trumpesnį susipažinimo ir pastabų pateikimo Valstybės kontrolei terminą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
 
 2. Subjektas privalo užtikrinti teisę valstybiniams auditoriams ir Valstybės kontrolės darbuotojams, atliekantiems kitus vertinimus, laisvai patekti į patalpas, gauti dokumentus, tikrinti informacijos šaltinius ir gauti duomenis, įskaitant informaciją elektroninių ryšių tinklais, taip pat susitikti su subjekto vadovais ir darbuotojais ir gauti jų rašytinius paaiškinimus.
 
@@ -847,6 +869,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-135, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00255
 
 Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
+
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 pakeitimo įstatymo Nr. XIV-135 2 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1765, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27580
+
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 8 straipsnio pakeitimo įstatymas
 
 32 straipsnis. Tarnybinis pažymėjimas
 
