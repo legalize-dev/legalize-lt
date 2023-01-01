@@ -4,7 +4,7 @@ identifier: "TAR.2CE6CFE9E2EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-29"
-last_updated: "2022-09-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
 
@@ -440,7 +440,11 @@ Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
 
 1) kuriems paskirta kardomoji priemonė – suėmimas;
 
-2) atliekantiems laisvės atėmimo bausmes laisvės atėmimo bausmę vykdančiose pataisos įstaigose, išskyrus atviras kolonijas ir pataisos įstaigų ar kardomojo kalinimo vietų specialiuosius padalinius (pusiaukelės namus);
+2) atliekantiems laisvės atėmimo bausmes uždaro ir pusiau atviro tipo bausmės atlikimo vietose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1225, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15591
 
 3) kuriems paskirtos Lietuvos Respublikos baudžiamajame kodekse nustatytos priverčiamosios medicinos priemonės stacionarinio stebėjimo bendro, sustiprinto ar griežto stebėjimo sąlygomis specializuotose psichikos sveikatos priežiūros įstaigose ar auklėjamojo poveikio priemonė – atidavimas į specialią auklėjimo įstaigą.
 
@@ -921,6 +925,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1365, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15460
 
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 15 ir 16 straipsnių pakeitimo įstatymas
+
+33.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1225, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15591
+
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 15 straipsnio pakeitimo įstatymas
 
 part_fd31069eae57422fb111ef0cb533d002_end
 
