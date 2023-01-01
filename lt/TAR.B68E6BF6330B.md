@@ -4,7 +4,7 @@ identifier: "TAR.B68E6BF6330B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-08"
-last_updated: "2016-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B68E6BF6330B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 117-4369, i. k. 1041010ISTA0IX-2332
 
@@ -59,7 +59,11 @@ Taikomi šie mokesčio tarifai:
 
 1) indėlininkų indėlių, įsipareigojimų investuotojams draudimą atliekančiai valstybės įmonei – 0,05 procento;
 
-2) valstybės įmonėms prie pataisos įstaigų – 0,1 procento;
+2) nuteistųjų užimtumą darbine veikla organizuojančiai valstybės įmonei – 0,1 procento;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1221, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15586
 
 3) kitoms valstybės įmonėms – 2 procentai.
 
@@ -158,4 +162,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2156, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19853
 
 Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo Nr. IX-2332 7 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1221, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15586
+
+Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo Nr. IX-2332 5 straipsnio pakeitimo įstatymas
 
