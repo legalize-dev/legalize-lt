@@ -4,7 +4,7 @@ identifier: "TAR.8E89798D5C4E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2019-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8E89798D5C4E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teisėjų valstybinių pensijų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3088, i. k. 1021010ISTA0IX-1011
 
@@ -45,7 +45,11 @@ Teisėjų valstybinė pensija skiriama asmenims, dirbusiems Konstitucinio Teismo
 
 1) kreipimosi dėl teisėjų valstybinės pensijos skyrimo metu yra Lietuvos Respublikos piliečiai, nuolat gyvenantys Lietuvos Respublikoje;
 
-2) sukako Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių;
+2) sukako Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių arba yra atleisti iš teisėjo pareigų dėl sveikatos būklės, kai suserga nepagydoma ar kita ilgalaike liga, kliudančia eiti teisėjo pareigas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1481, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22949
 
 3) nustojo dirbti teisėjais;
 
@@ -236,4 +240,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1735, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20703
 
 Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo Nr. IX-1011 7 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1481, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22949
+
+Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo Nr. IX-1011 3 straipsnio pakeitimo įstatymas
 
