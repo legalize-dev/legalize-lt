@@ -4,7 +4,7 @@ identifier: "TAR.8EB86FBF111C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2021-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8EB86FBF111C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1927; Žin. 2000, Nr.86-0; Žin. 2002, Nr.103-0, i. k. 1001010ISTAIII-1856
 
@@ -167,7 +167,11 @@ Nr. XIII-3233, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15867
 
 6. Priešo okupuotoje Lietuvos Respublikos teritorijoje vietos savivaldos institucijos savo veiklą nutraukia, jeigu jos negali atlikti savo funkcijų, įtvirtintų Lietuvos Respublikos įstatymuose, arba yra verčiamos padėti okupavusiai valstybei kovoti su Lietuvos Respublikos ginkluotosiomis pajėgomis ar pilietiniu pasipriešinimu agresijai, taip pat talkinti okupacinei administracijai taikant priemones, kurių tikslas – išnaudoti okupuotos teritorijos gyventojus karo tikslams ir karo įrengimų apsaugai.
 
-7. Nepriskirti ginkluotosioms pajėgoms policijos, civilinės saugos, priešgaisrinės apsaugos ir gelbėjimo institucijų bei Kalėjimų departamento prie Lietuvos Respublikos Teisingumo ministerijos pareigūnai priešo okupuotoje Lietuvos Respublikos teritorijoje toliau atlieka savo funkcijas, įtvirtintas Lietuvos Respublikos įstatymuose. Šie pareigūnai privalo nutraukti savo veiklą, jeigu jie yra okupacinės administracijos verčiami padėti kovoti su Lietuvos Respublikos ginkluotosiomis pajėgomis ar pilietiniu pasipriešinimu agresijai, dalyvauti veiksmuose prieš ginkluotos gynybos ir pasipriešinimo agresijai dalyvius arba talkinti okupacinei administracijai taikant priemones, kurių tikslas – išnaudoti okupuotos teritorijos gyventojus karo tikslams ir karo įrengimų apsaugai.
+7. Nepriskirti ginkluotosioms pajėgoms policijos, civilinės saugos, priešgaisrinės apsaugos ir gelbėjimo institucijų bei bausmių vykdymo sistemos pareigūnai priešo okupuotoje Lietuvos Respublikos teritorijoje toliau atlieka savo funkcijas, įtvirtintas Lietuvos Respublikos įstatymuose. Šie pareigūnai privalo nutraukti savo veiklą, jeigu jie yra okupacinės administracijos verčiami padėti kovoti su Lietuvos Respublikos ginkluotosiomis pajėgomis ar pilietiniu pasipriešinimu agresijai, dalyvauti veiksmuose prieš ginkluotos gynybos ir pasipriešinimo agresijai dalyvius arba talkinti okupacinei administracijai taikant priemones, kurių tikslas – išnaudoti okupuotos teritorijos gyventojus karo tikslams ir karo įrengimų apsaugai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1218, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15583
 
 11 straipsnis. Draudimas kolaboruoti
 
@@ -256,4 +260,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3233, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15867
 
 Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 2 ir 10 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1218, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15583
+
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 10 straipsnio pakeitimo įstatymas
 
