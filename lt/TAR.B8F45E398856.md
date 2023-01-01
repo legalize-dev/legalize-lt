@@ -4,7 +4,7 @@ identifier: "TAR.B8F45E398856"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-28"
-last_updated: "2020-05-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
 
@@ -69,13 +69,33 @@ BENDROSIOS NUOSTATOS
 
 7. Gydytojas odontologas – asmuo, įgijęs sveikatos mokslų magistro kvalifikacinį laipsnį ir gydytojo odontologo profesinę kvalifikaciją arba lygiavertę aukštojo mokslo kvalifikaciją.
 
-8. Gydytojas odontologas rezidentas – asmuo, kuris studijuoja odontologijos rezidentūroje ir prižiūrimas gydytojo odontologo rezidento vadovo dirba gydytoju odontologu rezidentu ir savarankiškai verčiasi odontologijos praktika pagal odontologijos rezidentūroje įgytas kompetencijas, kurias patvirtina jam išduotas pakopinių kompetencijų patvirtinimo pažymėjimas.
+8. Gydytojas odontologas rezidentas – asmuo, kuris studijuoja odontologijos rezidentūroje ir prižiūrimas gydytojo odontologo rezidento vadovo ar gydytojo odontologo rezidento mentoriaus dirba gydytoju odontologu rezidentu ir savarankiškai verčiasi odontologijos praktika pagal odontologijos rezidentūroje įgytas kompetencijas, nurodytas jam išduotame pakopinių kompetencijų patvirtinimo pažymėjime.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
+
+81. Gydytojo odontologo rezidento mentorius – edukacines kompetencijas suteikiančius kursus baigęs sveikatos priežiūros specialistas (ne universiteto darbuotojas), dirbantis odontologijos rezidentūros bazėje ir turintis ne trumpesnį kaip 5 metų darbo pagal odontologijos rezidentūros ciklo sritį atitinkančią profesinę kvalifikaciją stažą, vykdantis odontologijos rezidentūros studijas reglamentuojančiuose teisės aktuose gydytojo odontologo rezidento mentoriui priskirtas funkcijas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
+
+82. Gydytojo odontologo rezidento vadovas – universiteto dėstytojas, dirbantis odontologijos rezidentūros bazėje, turintis ne trumpesnį kaip 5 metų darbo pagal odontologijos rezidentūros ciklo sritį atitinkančią profesinę kvalifikaciją stažą ir vadovaujantis gydytojui odontologui rezidentui odontologijos rezidentūros ciklo metu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 9. Gydytojas odontologas specialistas – gydytojas odontologas, baigęs odontologijos rezidentūrą.
 
 10. Gydytojo odontologo padėjėjas – asmuo, įgijęs sveikatos mokslų profesinio bakalauro kvalifikacinį laipsnį ir gydytojo odontologo padėjėjo profesinę kvalifikaciją arba jam lygiavertę aukštojo mokslo kvalifikaciją.
 
-11. Jaunesnysis gydytojas odontologas rezidentas – gydytojas odontologas rezidentas, studijuojantis pirmame odontologijos rezidentūros kurse.
+11. Neteko galios nuo 2023-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 12. Licencijas išduodanti institucija – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos.
 
@@ -89,19 +109,43 @@ BENDROSIOS NUOSTATOS
 
 17. Odontologijos rezidentūra – universitetinės odontologijos krypties studijos, skirtos asmenims, baigusiems odontologijos studijas ir norintiems teisės aktų nustatyta tvarka įgyti odontologijos praktikos specializaciją.
 
+171. Odontologijos rezidentūros bazė – universiteto ligoninė ar kita sveikatos priežiūros įstaiga, sveikatos apsaugos ministro ir švietimo, mokslo ir sporto ministro nustatyta tvarka įgijusi teisę vykdyti odontologijos rezidentūrą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
+
+172. Odontologijos rezidentūros ciklas – odontologijos rezidentūros studijų programoje nustatytus tikslus ir numatomus pasiekti studijų rezultatus apimanti odontologijos rezidentūros studijų programos dalis, susidedanti iš profesinės praktikos, per kurią gydytojas odontologas rezidentas, padedamas gydytojo odontologo rezidento vadovo ar gydytojo odontologo rezidento mentoriaus, įgyja odontologijos rezidentūros studijų programoje numatytas žinias, gebėjimus, praktinius įgūdžius bei patirties, ir teorinės dalies, kurios užsiėmimai susiję su profesine praktika ir vyksta lygiagrečiai su ja.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
+
 18. Odontologijos studijos – ne trumpesnės kaip 5 metų trukmės universitetinės odontologijos krypties studijos, kurias baigus išduodamas aukštojo mokslo diplomas, kuriuo patvirtinama, kad baigtos odontologijos krypties vientisosios studijos, įgytas sveikatos mokslų magistro kvalifikacinis laipsnis ir suteikta gydytojo odontologo profesinė kvalifikacija arba odontologijos studijų krypties lygiavertė aukštojo mokslo kvalifikacija.
 
 19. Odontologinės priežiūros (pagalbos) paslaugos – įstaigoje, turinčioje licenciją teikti asmens sveikatos priežiūros paslaugas, pagal odontologo ir (ar) burnos priežiūros specialisto profesinę kvalifikaciją teikiamos asmens sveikatos priežiūros paslaugos.
 
-20. Pakopinių kompetencijų patvirtinimo pažymėjimas – universiteto nustatyta tvarka odontologijos rezidentūros metu universiteto išduodamas pažymėjimas, kuriuo patvirtinama gydytojo odontologo rezidento Lietuvos Respublikos sveikatos apsaugos ministro nustatyta kompetencija šio įstatymo nustatyta tvarka savarankiškai be gydytojo vadovo priežiūros verstis odontologijos praktika.
+20. Pakopinių kompetencijų patvirtinimo pažymėjimas – universiteto nustatyta tvarka odontologijos rezidentūros metu universiteto išduodamas pažymėjimas, kuriuo patvirtinama sveikatos apsaugos ministro nustatyta gydytojo odontologo rezidento kompetencija šio įstatymo nustatyta tvarka savarankiškai be gydytojo odontologo rezidento vadovo ar gydytojo odontologo rezidento mentoriaus priežiūros verstis odontologijos praktika odontologijos rezidentūros bazėje, vykdant odontologijos rezidentūros studijų programą.
 
-21. Rezidentūros bazė – universiteto ligoninė ar kita sveikatos priežiūros įstaiga, sveikatos apsaugos ministro ir Lietuvos Respublikos švietimo, mokslo ir sporto ministro nustatyta tvarka įgijusi teisę vykdyti odontologijos rezidentūrą.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
+
+21. Neteko galios nuo 2023-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 22. Šiurkšti burnos priežiūros praktikos klaida – burnos priežiūros specialisto veika, dėl jo paties kaltės sukėlusi paciento neįgalumą arba mirtį.
 
 23. Šiurkšti odontologijos praktikos klaida – odontologo veika, dėl jo paties kaltės sukėlusi paciento neįgalumą arba mirtį.
 
-24. Vyresnysis gydytojas odontologas rezidentas – gydytojas odontologas rezidentas, studijuojantis antrame ar trečiame odontologijos rezidentūros kurse.
+24. Neteko galios nuo 2023-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 25. Kitos sąvokos suprantamos taip, kaip jos apibrėžtos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB  (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679), Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos medicinos praktikos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme ir Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme.
 
@@ -109,7 +153,11 @@ II SKYRIUS
 
 ODONTOLOGIJOS PRAKTIKA IR BURNOS PRIEŽIŪROS PRAKTIKA
 
-3 straipsnis. Odontologo profesinės kvalifikacijos įgijimas ir gydytojo odontologo rezidento bazinis darbo užmokestis (mėnesinė alga)
+3 straipsnis. Odontologo profesinės kvalifikacijos įgijimas ir gydytojo odontologo rezidento darbo užmokestis
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 1. Odontologų rengimo ir profesinės kvalifikacijos įgijimo tvarką nustato šis įstatymas, Mokslo ir studijų įstatymas, Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas.
 
@@ -119,13 +167,13 @@ ODONTOLOGIJOS PRAKTIKA IR BURNOS PRIEŽIŪROS PRAKTIKA
 
 4. Užsienio valstybėse įgyta gydytojo odontologo profesinė kvalifikacija pripažįstama Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo ir kitų teisės aktų nustatyta tvarka.
 
-5. Gydytojui odontologui rezidentui mokama pareiginė alga, kuri apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš pareiginės algos bazinio dydžio, nustatyto Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nurodyta tvarka. Jaunesniajam gydytojui odontologui rezidentui taikomas pareiginės algos koeficientas – 8,74, vyresniajam gydytojui odontologui rezidentui – 9,32. Gydytojo odontologo rezidento pareiginė alga mokama iš Lietuvos Respublikos sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų. Odontologijos rezidentūros vietų, į kurias priimtiems asmenims pareiginė alga mokama iš Sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų, skaičius neturi viršyti tais metais vientisąsias odontologijos studijas turinčių baigti asmenų skaičiaus. Lėšos odontologijos rezidentūros bazėms paskirstomos sveikatos apsaugos ministro nustatyta tvarka. Odontologijos rezidentūros studijų programų vykdymo reikalavimus ir jų priežiūros tvarką nustato Vyriausybė.
-
-TAR pastaba. Tais atvejais, kai gydytojas odontologas rezidentas iki įstatymo Nr. XIII-2874 įsigaliojimo dienos (2020-05-01) gavo didesnę pareiginę algą negu pareiginė alga, perskaičiuota pagal šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo 3 straipsnio 5 dalyje nustatytus pareiginės algos koeficientus, jam toliau mokama iki šio įstatymo įsigaliojimo dienos mokėta pareiginė alga.
+5. Odontologijos rezidentūros bazė su gydytoju odontologu rezidentu sudaro terminuotą darbo sutartį ir gydytojas odontologas rezidentas įdarbinamas gydytoju odontologu rezidentu odontologijos rezidentūros bazėje. Gydytojui odontologui rezidentui mokama pareiginė alga, kuri apskaičiuojama sumuojant gydytojo odontologo rezidento bazinį (tarifinį) darbo užmokestį ir papildomą darbo užmokesčio dalį. Gydytojo odontologo rezidento bazinis (tarifinis) darbo užmokestis apskaičiuojamas praėjusių kalendorinių metų paskutinį mėnesį galiojusį Lietuvos Respublikos Vyriausybės nustatytos minimaliosios mėnesinės algos dydį dauginant iš gydytojo odontologo rezidento atitinkamų rezidentūros studijų metų bazinio (tarifinio) darbo užmokesčio koeficiento (šio įstatymo 1 priedas). Kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės, apskaičiuojant gydytojo odontologo rezidento bazinį (tarifinį) darbo užmokesčio dydį, taikomas praėjusiais kalendoriniais metais paskutinį mėnesį taikytas minimaliosios mėnesinės algos dydis. Gydytojo odontologo rezidento papildomos darbo užmokesčio dalies dydis apskaičiuojamas taikant šio įstatymo 2 priede nurodytos papildomos darbo užmokesčio dalies dydžio procentą nuo gydytojui odontologui rezidentui pagal šią dalį apskaičiuoto bazinio (tarifinio) darbo užmokesčio dydžio ir nustatomas odontologijos rezidentūros bazės vadovo sprendimu. Į gydytojui odontologui rezidentui pagal šią dalį nustatomą ir mokamą papildomą darbo užmokesčio dalį neįskaičiuojamas gydytojui odontologui rezidentui mokamas darbo užmokestis už budėjimus, darbą poilsio ir švenčių dienomis, viršvalandinį darbą. Gydytojo odontologo rezidento bazinis (tarifinis) darbo užmokestis mokamas iš Lietuvos Respublikos sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų, o papildoma darbo užmokesčio dalis mokama iš odontologijos rezidentūros bazės lėšų. Odontologijos rezidentūros vietų, į kurias priimtiems asmenims bazinis (tarifinis) darbo užmokestis mokamas iš Sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų, skaičius neturi viršyti tais metais vientisąsias odontologijos studijas turinčių baigti asmenų skaičiaus. Lėšos odontologijos rezidentūros bazėms paskirstomos sveikatos apsaugos ministro nustatyta tvarka. Odontologijos rezidentūros studijų programų vykdymo reikalavimus ir jų priežiūros tvarką nustato Vyriausybė.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2874, 2020-04-30, paskelbta TAR 2020-04-30, i. k. 2020-09248
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 4 straipsnis. Burnos priežiūros specialisto profesinės kvalifikacijos įgijimas
 
@@ -141,7 +189,11 @@ Nr. XIII-2874, 2020-04-30, paskelbta TAR 2020-04-30, i. k. 2020-09248
 
 5 straipsnis. Teisės verstis odontologijos ir burnos priežiūros praktika įgijimas ir įgyvendinimas
 
-1. Verstis odontologijos praktika Lietuvos Respublikoje turi teisę odontologas, turintis šio įstatymo nustatyta tvarka išduotą galiojančią odontologijos praktikos licenciją. Verstis odontologijos praktika odontologas gali tik asmens sveikatos priežiūros įstaigoje, kuri turi licenciją teikti odontologinės priežiūros (pagalbos) paslaugas. Gydytojas odontologas rezidentas verstis odontologijos praktika pagal rezidentūros studijų programą gali tik licenciją teikti odontologinės priežiūros (pagalbos) paslaugas turinčioje įstaigoje, kurioje atlieka rezidentūrą. Verstis odontologijos praktika pagal odontologijos rezidentūros studijų programą gydytojas odontologas rezidentas gali tik prižiūrimas gydytojo odontologo rezidento vadovo, išskyrus gydytoją odontologą rezidentą, kuriam išduotas pakopinių kompetencijų patvirtinimo pažymėjimas. Gydytojui odontologui rezidentui, kuris turi pakopinių kompetencijų patvirtinimo pažymėjimą ir savarankiškai be gydytojo odontologo rezidento vadovo priežiūros verčiasi odontologijos praktika, odontologijos rezidentūros bazė privalo užtikrinti galimybę konsultuotis su odontologijos rezidentūros bazėje dirbančiais gydytojais odontologais.
+1. Verstis odontologijos praktika Lietuvos Respublikoje turi teisę odontologas, turintis šio įstatymo nustatyta tvarka išduotą galiojančią odontologijos praktikos licenciją. Verstis odontologijos praktika odontologas gali tik asmens sveikatos priežiūros įstaigoje, kuri turi licenciją teikti odontologinės priežiūros (pagalbos) paslaugas. Gydytojas odontologas rezidentas verstis odontologijos praktika pagal rezidentūros studijų programą gali tik licenciją teikti odontologinės priežiūros (pagalbos) paslaugas turinčioje įstaigoje, kurioje atlieka rezidentūrą. Verstis odontologijos praktika pagal odontologijos rezidentūros studijų programą gydytojas odontologas rezidentas gali tik prižiūrimas gydytojo odontologo rezidento vadovo ar gydytojo odontologo rezidento mentoriaus, išskyrus gydytoją odontologą rezidentą, kuriam išduotas pakopinių kompetencijų patvirtinimo pažymėjimas. Gydytojui odontologui rezidentui, kuris turi pakopinių kompetencijų patvirtinimo pažymėjimą ir savarankiškai be gydytojo odontologo rezidento vadovo ar gydytojo odontologo rezidento mentoriaus priežiūros verčiasi odontologijos praktika, odontologijos rezidentūros bazė privalo užtikrinti galimybę konsultuotis su odontologijos rezidentūros bazėje dirbančiais gydytojais odontologais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 2. Verstis burnos priežiūros praktika Lietuvos Respublikoje turi teisę burnos priežiūros specialistas, turintis šio įstatymo nustatyta tvarka išduotą galiojančią burnos priežiūros praktikos licenciją. Verstis burnos priežiūros praktika burnos priežiūros specialistas gali tik asmens sveikatos priežiūros įstaigoje, kuri turi licenciją teikti burnos priežiūros paslaugas.
 
@@ -307,7 +359,11 @@ Nr. XIII-2874, 2020-04-30, paskelbta TAR 2020-04-30, i. k. 2020-09248
 
 10 straipsnis. Asmens duomenų tvarkymas
 
-Odontologo ar burnos priežiūros specialisto darbdavys šio įstatymo 8 straipsnio 4 dalies 2 punkte bei 10 dalyje ir 9 straipsnio 4 dalies 2 punkte nurodytais atvejais gautus asmens duomenis privalo tvarkyti vadovaudamasis Reglamentu (ES) 2016/679 ir Asmens duomenų teisinės apsaugos įstatymu ir juos naudoti tik sprendimui dėl odontologo ar burnos priežiūros specialisto nušalinimo nuo pareigų Darbo kodekso nustatyta tvarka ar kitiems sprendimams, susijusiems su licencijos turėtojo odontologijos praktika ar burnos priežiūros praktika, priimti.
+Odontologo ar burnos priežiūros specialisto darbdavys šio įstatymo 8 straipsnio 4 dalies 2 punkte bei 10 dalyje ir 9 straipsnio 4 dalyje nurodytais atvejais gautus asmens duomenis privalo tvarkyti vadovaudamasis Reglamentu (ES) 2016/679 ir Asmens duomenų teisinės apsaugos įstatymu ir juos naudoti tik sprendimui dėl odontologo ar burnos priežiūros specialisto nušalinimo nuo pareigų Darbo kodekso nustatyta tvarka ar kitiems sprendimams, susijusiems su licencijos turėtojo odontologijos praktika ar burnos priežiūros praktika, priimti.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 III SKYRIUS
 
@@ -372,6 +428,78 @@ b) šiurkšti odontologijos praktikos klaida ar šiurkšti burnos priežiūros p
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
+
+Lietuvos Respublikos
+
+odontologijos praktikos ir
+
+burnos priežiūros praktikos įstatymo
+
+1 priedas
+
+ODONTOLOGIJOS REZIDENTŪROS STUDIJŲ METŲ BAZINIO (TARIFINIO) DARBO UŽMOKESČIO KOEFICIENTAI
+
+Odontologijos rezidentūros studijų metai
+
+Koeficientas
+
+Pirmieji metai
+
+2,55
+
+Antrieji metai
+
+2,65
+
+Tretieji metai
+
+2,75
+
+_______________
+
+Papildyta priedu:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
+
+Lietuvos Respublikos
+
+odontologijos praktikos ir
+
+burnos priežiūros praktikos įstatymo
+
+2 priedas
+
+PAPILDOMOS DARBO UŽMOKESČIO DALIES PROCENTINIS DYDIS
+
+Metai
+
+Dydis procentais
+
+2023
+
+Ne mažiau kaip 1
+
+2024
+
+Ne mažiau kaip 2
+
+2025
+
+Ne mažiau kaip 3
+
+2026
+
+Ne mažiau kaip 4
+
+2027 ir paskesni
+
+Ne mažiau kaip 5
+
+_______________
+
+Papildyta priedu:
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 Pakeitimai:
 
@@ -478,6 +606,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2874, 2020-04-30, paskelbta TAR 2020-04-30, i. k. 2020-09248
 
 Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 pakeitimo įstatymo Nr. XIII-2641 1 ir 3 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
+
+Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 2, 3, 5, 10 straipsnių pakeitimo ir Įstatymo papildymo 1, 2 priedais įstatymas
 
 14 straipsnis. Stomatologinės priežiūros (pagalbos) paslaugos ir patarnavimai
 
