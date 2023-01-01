@@ -4,7 +4,7 @@ identifier: "TAR.9D1ADB9E1518"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-09-25"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
 
@@ -349,7 +349,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
 
-3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę pakuočių atliekų tvarkymo klausimais: apie netinkamo pakuočių atliekų tvarkymo žalą aplinkai ir žmonių sveikatai, pakuočių atliekų tvarkymo galimybes ir pan.;
+3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę pakuočių atliekų prevencijos ir tvarkymo klausimais: apie netinkamo pakuočių atliekų tvarkymo žalą aplinkai ir visuomenės sveikatai, pakuočių pakartotinio naudojimo, paruošimo pakartotinai naudoti ir kitas atliekų tvarkymo galimybes, šiukšlinimo prevenciją ir pan.;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
 
 4) apmokėti šios dalies 2 punkte nurodyto pakuočių atliekų rūšiuojamojo surinkimo, vežimo, paruošimo naudoti, įskaitant pradinį apdorojimą, ir naudojimo išlaidas ir, jeigu tiekia Lietuvos Respublikos vidaus rinkai gaminius, už kurių vienkartinę pakuotę pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas, dalyvavimo užstato už vienkartines pakuotes sistemoje išlaidas, susijusias su užstato sistemoje surenkamų vienkartinių pakuočių atliekų sutvarkymu ir užstato už vienkartines pakuotes sistemos administravimu, ir, jeigu tiekia Lietuvos Respublikos vidaus rinkai gaminius, už kurių daugkartinę pakuotę pagal šio įstatymo 11 straipsnio 1 dalį nustatytas užstatas, dalyvavimo užstato už daugkartines pakuotes sistemoje išlaidas, susijusias su daugkartinių pakuočių surinkimu užstato sistemoje, taip pat šios dalies 3 punkte nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas;
 
@@ -445,13 +449,15 @@ Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 
 10 straipsnis. Kolektyvaus pakuočių atliekų tvarkymo organizavimo reikalavimai
 
-1. Siekdami kolektyviai organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti gamintojų ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti įsteigtos organizacijos dalyviais ir jai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo 7 straipsnio 1 dalies 2, 3, 4 punktuose ir 2 dalyje nustatytas pareigas arba organizacijai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo 7 straipsnio 1 dalies 2, 3, 4 punktuose ir 2 dalyje nustatytas pareigas netapdami organizacijos dalyviais. Gamintojai ir importuotojai, siekiantys organizuoti pakuočių atliekų tvarkymą kolektyviai, privalo kiekvienais metais iki gruodžio 1 dienos pavesti organizacijai organizuoti pakuočių atliekų tvarkymą ateinančiais kalendoriniais metais (išskyrus atvejus, kai gamintojas ar importuotojas ūkinę veiklą pradeda vykdyti po gruodžio 1 dienos. Šiuo atveju gamintojai ir importuotojai organizacijai privalo pavesti pareigų vykdymą per vieną mėnesį nuo registravimo Gamintojų ir importuotojų sąvade dienos). Gamintojai ir importuotojai, pavedę savo pareigas vykdyti vienai organizacijai, negali pavesti savo pareigų vykdymo kitai organizacijai einamųjų kalendorinių metų laikotarpiu (išskyrus atvejus, kai organizacijai išduotos licencijos galiojimas yra sustabdytas arba panaikintas).
+1. Siekdami kolektyviai organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti gamintojų ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti įsteigtos organizacijos dalyviais ir jai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo 7 straipsnio 1 dalies 2, 3, 4 punktuose ir 2 dalyje bei šio įstatymo 72 straipsnio 1 dalyje nustatytas pareigas arba organizacijai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo 7 straipsnio 1 dalies 2, 3, 4 punktuose ir 2 dalyje bei šio įstatymo 72 straipsnio 1 dalyje nustatytas pareigas netapdami organizacijos dalyviais. Gamintojai ir importuotojai, siekiantys organizuoti pakuočių atliekų tvarkymą kolektyviai, privalo kiekvienais metais iki gruodžio 1 dienos pavesti organizacijai organizuoti pakuočių atliekų tvarkymą ateinančiais kalendoriniais metais (išskyrus atvejus, kai gamintojas ar importuotojas ūkinę veiklą pradeda vykdyti po gruodžio 1 dienos. Šiuo atveju gamintojai ir importuotojai organizacijai privalo pavesti pareigų vykdymą per vieną mėnesį nuo registravimo Gamintojų ir importuotojų sąvade dienos). Gamintojai ir importuotojai, pavedę savo pareigas vykdyti vienai organizacijai, negali pavesti savo pareigų vykdymo kitai organizacijai einamųjų kalendorinių metų laikotarpiu (išskyrus atvejus, kai organizacijai išduotos licencijos galiojimas yra sustabdytas arba panaikintas).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2586, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20335
 
 Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
+
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
 
 2. Organizacija steigiama ir veikia, gamintojai ir importuotojai jos veikloje dalyvauja Atliekų tvarkymo įstatymo nustatyta tvarka.
 
@@ -481,6 +487,16 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
 
+42. Siekdama įvykdyti šio įstatymo 72 straipsnio 1 dalyje užpildytus vienkartinius plastikinius gaminius pateikiantiems Lietuvos Respublikos rinkai gamintojams ir importuotojams nustatytas pareigas, organizacija privalo kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti sutartis:
+
+1) su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, šiukšlių išrinkimo, vykdomo savivaldybės ar jos vardu, surinkimo, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių ar jų vardu vykdomos šiukšlių išrinkimo veiklos sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka;
+
+2) su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, surinkimo savivaldybės organizuojamoje komunalinių atliekų tvarkymo sistemoje, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių atliekų, išmestų į viešas surinkimo sistemas, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, surinkimo, įskaitant vienkartinių plastikinių gaminių atliekų infrastruktūrą ir jos veikimą, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių organizuojamos komunalinių atliekų tvarkymo sistemos infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+
 5. Organizacija šio straipsnio 4 dalies 2 ir 3 punktuose nurodytas išlaidas ir komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūrą, jos įrengimą, priežiūrą, atnaujinimą, plėtrą ir komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo ir vežimo paslaugų teikimą, šių paslaugų ir veiklų administravimą turi finansuoti proporcingai jos dalyvių ir organizuoti pakuočių atliekų tvarkymą sutartiniais pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių gamintojų ir importuotojų bei dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos vidaus rinkai tiektiems gaminiams supakuoti panaudotų pakuočių kiekį.
 
 Straipsnio dalies pakeitimai:
@@ -492,6 +508,24 @@ Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
 Papildyta straipsnio dalimi:
 
 Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+
+52. Organizacija šio straipsnio 42 dalyje nurodytas išlaidas turi finansuoti proporcingai pagal tokių atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių svorį bei proporcingai jos dalyvių ir jai organizuoti vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą sutartiniais pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių gamintojų ir importuotojų bei dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos rinkai pateiktų užpildytų vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, kiekį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+
+53. Apskaičiuojant vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių svorį, kuriuo remiantis nustatomas šio straipsnio 42 dalyje nurodytas finansavimas, vadovaujamasi aplinkos ministro nustatytais referenciniais skaičiais, apibrėžiančiais, kiek vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede:
+
+1) suvartojama viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.) iš visų Lietuvos Respublikos rinkai pateikiamų;
+
+2) jų, suvartotų viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.), išmetama į viešas surinkimo sistemas (t. y. kiek yra atliekų, išmestų į viešas surinkimo sistemas);
+
+3) jų, suvartotų viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.), netinkamai išmetama (t. y. kiek yra šiukšlių).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
 
 6. Siekdama vykdyti šio straipsnio 4 dalyje nurodytų sutartinių įsipareigojimų vykdymo kontrolę, organizacija privalo inicijuoti sudaryti kontrolės tarybą, kurioje turi dalyvauti vienodas organizacijos, pakuočių atliekų surinkėjų ir pakuočių atliekų naudotojų (ir eksportuotojų) asociacijų atstovų skaičius. Be to, į kontrolės tarybą įeina vienas Lietuvos savivaldybių asociacijos atstovas ir vienas Aplinkos ministerijos atstovas.
 
@@ -510,6 +544,12 @@ Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
 9. Organizacijos atstovai į kontrolės tarybą skiriami organizacijos valdymo organų sprendimu. Organizacijos valdymo organas atstovus į kontrolės tarybą paskiria ne ilgesnei negu trejų metų kadencijai, užtikrindamas galimybę kiekvienam organizacijos dalyviui tapti kontrolės tarybos nariu. Tas pats asmuo negali eiti pareigų dvi kadencijas iš eilės.
 
 10. Organizacija, nustatydama įmokų už pakuočių atliekų tvarkymą, kurias organizacijai turi mokėti organizacijos nariai ir pavedimo davėjai (toliau – organizacijos įkainiai), dydžius, privalo juos diferencijuoti atsižvelgdama į pakuotėms pagaminti naudotų medžiagų rūšis, kurioms Vyriausybė ar jos įgaliota institucija nustatė pakuočių atliekų tvarkymo užduotis, ir į atitinkamos pakuočių rūšies tinkamumą pakartotinai naudoti ir perdirbti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+
+11. Organizacija, vadovaudamasi aplinkos ministro tvirtinamais kriterijais, kuriais remiantis aplinkos ministro nustatytais atvejais turi būti diferencijuojami organizacijų įkainių dydžiai atsižvelgus į pakuočių savybes, nustatydama organizacijos įkainių dydžius, juos diferencijuoja atsižvelgdama į pakuočių patvarumą, taisomumą ir į tai, ar pakuotėse yra pavojingųjų medžiagų.
 
 Papildyta straipsnio dalimi:
 
@@ -977,6 +1017,18 @@ Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 
 10. Užstato už vienkartines pakuotes sistemos administratorius ne mažiau kaip 1 procentą lėšų nuo metinės apyvartos turi skirti visuomenės švietimui ir informavimui pakuočių atliekų tvarkymo klausimais.
 
+11. Užstato už vienkartines pakuotes sistemos administratorius aplinkos ministro nustatyta tvarka ir terminais privalo savo interneto svetainėje kiekvienais metais skelbti pagal veiklos patikrinimo techninę užduotį auditoriaus parengtą faktinių pastebėjimų ataskaitą ir savo metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada. Užstato už vienkartines pakuotes sistemos administratoriaus interneto svetainėje turi būti skelbiamos ne mažiau kaip penkerių paskutinių ataskaitinių metų auditorių faktinių pastebėjimų ataskaitos ir metinių finansinių ataskaitų rinkiniai kartu su auditorių išvadomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+
+12. Institucija, kurią aplinkos ministras įgaliojo vykdyti užstato už vienkartines pakuotes sistemos administratorių veiklos priežiūrą, konsultuodamasi su Lietuvos auditorių rūmais, turi kiekvienais metais iki vasario 15 dienos patvirtinti veiklos patikrinimo techninę užduotį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+
 Papildyta straipsniu:
 
 Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
@@ -1012,4 +1064,54 @@ Pakuočių pardavėjams ir platintojams draudžiama prekių ar produktų pardavi
 Papildyta straipsniu:
 
 Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+
+72 straipsnis. Užpildytus vienkartinius plastikinius gaminius pateikiančių rinkai gamintojų ir importuotojų teisės ir pareigos
+
+1. Be šio įstatymo 7 straipsnyje nustatytų pareigų, užpildytus vienkartinius plastikinius gaminius pateikiantys Lietuvos Respublikos rinkai gamintojai ir importuotojai privalo:
+
+1) organizuoti vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai užpildytus vienkartinius plastikinius gaminius, išrinkimo, surinkimo, vežimo, apdorojimo finansavimą;
+
+2) organizuoti į viešas surinkimo sistemas išmestų vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai užpildytus vienkartinius plastikinius gaminius, surinkimo, vežimo, apdorojimo finansavimą;
+
+3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų prevencijos ir tvarkymo klausimais: apie esamus daugkartinius alternatyvius gaminius ir jų naudojimo galimybes, pakartotinio naudojimo sistemas, atliekų tvarkymo galimybes, taip pat geriausią tinkamo šių atliekų tvarkymo praktiką, taikomą pagal Atliekų tvarkymo įstatymo 41 straipsnį, taršos šiukšlėmis ir kitokio netinkamo šių atliekų šalinimo poveikį aplinkai, visų pirma jūros aplinkai, ir nuotekų kanalizacijos tinklui;
+
+4) apmokėti šios dalies 1 ir 2 punktuose nurodyto vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo, apdorojimo išlaidas, taip pat šios dalies 3 punkte nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas, neviršijant šioms paslaugoms ekonomiškai efektyviai teikti būtinų išlaidų.
+
+2. Be šio įstatymo 7 straipsnyje ir šio straipsnio 1 dalyje nustatytų pareigų, užpildytus ne didesnius kaip trijų litrų talpos gėrimų butelius pateikiantys Lietuvos Respublikos rinkai gamintojai ir importuotojai privalo užtikrinti, kad:
+
+1) nuo 2025 m. sausio 1 d. butelių, kurių pagrindinė sudedamoji dalis yra polietileno tereftalatas (toliau – PET), sudėtyje būtų bent 25 procentai perdirbto plastiko, tai apskaičiuojant kaip visų atitinkamo gamintojo ar importuotojo Lietuvos Respublikos rinkai per ataskaitinius metus pateiktų butelių, kurių pagrindinė sudedamoji dalis yra PET, vidurkį;
+
+2) nuo 2030 m. sausio 1 d. plastikinių butelių sudėtyje būtų bent 30 procentų perdirbto plastiko, tai apskaičiuojant kaip visų atitinkamo gamintojo ar importuotojo Lietuvos Respublikos rinkai per ataskaitinius metus pateiktų plastikinių butelių vidurkį.
+
+3. Šio straipsnio 2 dalies reikalavimai netaikomi buteliams, skirtiems ir naudojamiems specialiosios medicininės paskirties skystiesiems maisto produktams, kaip apibrėžta 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 609/2013 dėl kūdikiams ir mažiems vaikams skirtų maisto produktų, specialiosios medicininės paskirties maisto produktų ir viso paros raciono pakaitalų svoriui kontroliuoti ir kuriuo panaikinami Tarybos direktyva 92/52/EEB, Komisijos direktyvos 96/8/EB, 1999/21/EB, 2006/125/EB ir 2006/141/EB, Europos Parlamento ir Tarybos direktyva 2009/39/EB ir Komisijos reglamentai (EB) Nr. 41/2009 ir (EB) Nr. 953/2009 2 straipsnio 2 dalies g punkte.
+
+4. Užpildytus vienkartinius plastikinius gaminius pateikiantys Lietuvos Respublikos rinkai gamintojas ir (ar) importuotojas, įregistravę savo veiklą kitoje valstybėje narėje, privalo paskirti Lietuvos Respublikoje savo veiklą įregistravusį juridinį ar fizinį asmenį įgaliotuoju atstovu, atsakingu už šio straipsnio 1 dalyje nustatytų pareigų vykdymą Lietuvos Respublikoje. Užpildytus vienkartinius plastikinius gaminius pateikiantys rinkai gamintojas ir (ar) importuotojas su įgaliotuoju atstovu privalo sudaryti pavedimo sutartį.
+
+5. Užpildytus vienkartinius plastikinius gaminius pateikiantys kitos valstybės narės rinkai gamintojas ir (ar) importuotojas, įregistravę savo veiklą Lietuvos Respublikoje ir, naudodami nuotolinio ryšio priemones, iš Lietuvos Respublikos tiesiogiai atlygintinai perleidžiantys kitos valstybės narės, kurioje nėra įregistravę savo veiklos, vartotojams užpildytus vienkartinius plastikinius gaminius, privalo paskirti toje valstybėje narėje savo veiklą įregistravusį fizinį ar juridinį asmenį įgaliotuoju atstovu, kuris būtų atsakingas už teisės aktuose nustatytų pareigų, susijusių su gamintojo atsakomybės principu, vykdymą tos valstybės narės teritorijoje. Užpildytus vienkartinius plastikinius gaminius pateikiantys rinkai gamintojas ir (ar) importuotojas su įgaliotuoju atstovu privalo sudaryti pavedimo sutartį.
+
+6. Šiame straipsnyje nustatytas pareigas gamintojai ir importuotojai turi teisę vykdyti:
+
+1) individualiai – organizuodami po jų Lietuvos Respublikos rinkai pateiktų užpildytų vienkartinių plastikinių gaminių naudojimo susidariusių atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą;
+
+2) kolektyviai – steigdami šio įstatymo 10 straipsnyje nurodytą gamintojų ir importuotojų organizaciją ir (ar) tapdami tokios organizacijos dalyviais ir, kaip numatyta šio įstatymo 10 straipsnio 1 dalyje, jai pavesdami vykdyti šiame straipsnyje nustatytas pareigas ar organizacijai sutartiniais pagrindais pavesdami vykdyti šiame straipsnyje nustatytas pareigas netapdami organizacijos dalyviais.
+
+7. Vykdydami šio straipsnio 1 dalyje nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą organizuojantys gamintojai ir (ar) importuotojai privalo kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti:
+
+1) sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, šiukšlių išrinkimo, vykdomo savivaldybės ar jos vardu, surinkimo, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių ar jų vardu vykdomos šiukšlių išrinkimo veiklos sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka;
+
+2) sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, surinkimo savivaldybės organizuojamoje komunalinių atliekų tvarkymo sistemoje, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių atliekų, išmestų į viešas surinkimo sistemas, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, surinkimo, įskaitant vienkartinių plastikinių gaminių atliekų infrastruktūrą ir jos veikimą, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių organizuojamos komunalinių atliekų tvarkymo sistemos infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka.
+
+8. Individualiai vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą organizuojantys gamintojai ir (ar) importuotojai šio straipsnio 1 dalyje nurodytas išlaidas turi finansuoti proporcingai pagal tokių atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių svorį bei proporcingai jo užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal gamintojo ir (ar) importuotojo deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos rinkai pateiktų užpildytų vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, kiekį.
+
+9. Apskaičiuojant vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių svorį, kuriuo remiantis nustatomas šio straipsnio 7 dalyje nurodytas finansavimas, vadovaujamasi aplinkos ministro nustatytais referenciniais skaičiais, apibrėžiančiais, kiek vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede:
+
+1) suvartojama viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.) iš visų Lietuvos Respublikos rinkai pateikiamų;
+
+2) jų, suvartotų viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.), išmetama į viešas surinkimo sistemas (t. y. kiek yra atliekų, išmestų į viešas surinkimo sistemas);
+
+3) jų, suvartotų viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.), netinkamai išmetama (t. y. kiek yra šiukšlių).
+
+Papildyta straipsniu:
+
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
 
