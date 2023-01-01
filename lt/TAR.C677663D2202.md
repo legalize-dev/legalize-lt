@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2022-11-10"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-11-10 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
 
@@ -283,7 +283,13 @@ Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 
 4. Priskiriamų Europos ekonominių interesų grupės pajamų gavimo momentu laikoma Europos ekonominių interesų grupės paskutinė finansinio laikotarpio, per kurį tas pajamas ji uždirbo ir (arba) gavo, diena.
 
-5. Gyventojo, kuris verčiasi individualia veikla ir yra įregistruotas pridėtinės vertės mokesčio mokėtoju arba savo individualiai veiklai priskiria ir joje naudoja ilgalaikį turtą, individualios veiklos pajamos pripažįstamos pagal kaupimo apskaitos principą. Kaupimo apskaitos principas pradedamas taikyti tuo mokestiniu laikotarpiu, kurį individualia veikla besiverčiantis gyventojas įregistruojamas pridėtinės vertės mokesčio mokėtoju arba priskiria turtą individualiai veiklai. Individualia veikla besiverčiantys gyventojai, kurie vietoj pinigų apskaitos principo pradeda taikyti kaupimo apskaitos principą, į šio apskaitos principo taikymo metus pereinančias pirkėjų skolas į pajamas įtraukia po šių skolų apmokėjimo, tačiau ne vėliau kaip per 3 metus nuo mokestinio laikotarpio, kurį buvo pereita prie kaupimo apskaitos principo, pradžios. Individualia veikla besiverčiantys gyventojai, pradėję taikyti kaupimo apskaitos principą, jį taiko iki veiklos pabaigos.
+5. Gyventojo, kuris verčiasi individualia veikla ir yra įregistruotas pridėtinės vertės mokesčio mokėtoju arba savo individualiai veiklai priskiria ir joje naudoja ilgalaikį turtą, individualios veiklos pajamos pripažįstamos pagal kaupimo apskaitos principą. Kiti individualia veikla besiverčiantys gyventojai individualios veiklos pajamoms pripažinti kaupimo apskaitos principą gali taikyti savo pasirinkimu, laikydamiesi šioje dalyje nustatytų sąlygų. Kaupimo apskaitos principas pradedamas taikyti tuo mokestiniu laikotarpiu, kurį individualia veikla besiverčiantis gyventojas pasirenka individualios veiklos pajamas pripažinti pagal šį principą arba įregistruojamas pridėtinės vertės mokesčio mokėtoju, arba priskiria turtą individualiai veiklai. Individualia veikla besiverčiantys gyventojai, kurie vietoj pinigų apskaitos principo pradeda taikyti kaupimo apskaitos principą, į šio apskaitos principo taikymo metus pereinančias pirkėjų skolas į individualios veiklos pajamas įtraukia po šių skolų apmokėjimo, tačiau ne vėliau kaip per 3 metus nuo mokestinio laikotarpio, kurį buvo pereita prie kaupimo apskaitos principo, pradžios. Individualia veikla besiverčiantys gyventojai, pradėję taikyti kaupimo apskaitos principą, jį taiko iki veiklos pabaigos.
+
+TAR pastaba. 5 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1250, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15192
 
 6. Šio straipsnio 5 dalies nuostatos netaikomos gyventojams, vykdantiems sporto veiklą, atlikėjo veiklą ir veiklą, iš kurios gautos pajamos apmokestintos įsigyjant verslo liudijimą.
 
@@ -947,6 +953,14 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-994, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07159
 
+60) atlyginimas už visuomenės poreikiams paimamą žemę ir (ar) kitą turtą.
+
+TAR pastaba. 60 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1051, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09664
+
 2. Šio straipsnio 1 dalies 7, 8, 9, 91, 10, 11, 12, 13, 14, 141, 15, 16, 161, 17, 18, 20, 201, 202, 23, 24, 27, 28, 30, 32, 33, 34, 36, 39, 40, 42, 46 ir 53 punktuose nustatytos lengvatos, taip pat 26 punkte nustatyta lengvata dovanojimo būdu iš kitų negu sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys, vaikaičiai ir seneliai gautoms pajamoms netaikomos, jeigu gyventojo atitinkamos pajamos gautos iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose, ar gyventojų, kurių nuolatinė gyvenamoji vieta yra tikslinėje teritorijoje.
 
 Straipsnio dalies pakeitimai:
@@ -1155,35 +1169,37 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, taikomas tokia tvarka:
 
-1) MNPD negali būti didesnis negu 6 480 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos;
+1) MNPD negali būti didesnis negu 7 500 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos;
 
-2) kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, tačiau neviršija 20 448 eurų per metus, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+2) kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, tačiau neviršija 23 112 eurų per metus, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
-Gyventojui taikytinas MNPD = 6 480 – 0,34 × (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių);
+Gyventojui taikytinas MNPD = 7 500 – 0,42 × (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių);
 
-3) kai GMP viršija 20 448 eurus per metus, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+3) kai GMP viršija 23 112 eurų per metus, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
 Gyventojui taikytinas MNPD = 4 800 – 0,18 × (GMP – 12 × 642).
 
-TAR pastaba. 20 straipsnio 1 dalyje nustatytas neapmokestinamasis pajamų dydis taikomas nuo 2022-01-01 deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas ir apskaičiuojant gyventojų pajamų mokestį.
+TAR pastaba. 1 dalis taikoma apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1098, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10748
 
+Nr. XIV-1550, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24638
+
 2. Jeigu šio straipsnio 6 dalyje nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 540 eurų;
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 625 eurai;
 
-2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieną dydį, tačiau neviršija 1 704 eurų, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
+2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieną dydį, tačiau neviršija 1 926 eurų, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
 
-Gyventojui taikytinas mėnesio NPD = 540 – 0,34 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis);
+Gyventojui taikytinas mėnesio NPD = 625 – 0,42 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis);
 
-3) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija 1 704 eurus, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
+3) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija 1 926 eurus, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
 
 Gyventojui taikytinas mėnesio NPD = 400 – 0,18 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – 642).
 
-TAR pastaba. 20 straipsnio 2 dalyje nustatytas neapmokestinamasis pajamų dydis taikomas nuo 2022-01-01 deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas ir apskaičiuojant gyventojų pajamų mokestį.
+TAR pastaba. 2 dalis taikoma apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas
 
 Straipsnio dalies pakeitimai:
 
@@ -1197,15 +1213,17 @@ Nr. XIV-713, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25140
 
 Nr. XIV-1098, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10748
 
+Nr. XIV-1550, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24638
+
 3. Jeigu pagal šio straipsnio 1 ar 2 dalyje nustatytą formulę apskaičiuotas NPD yra neigiamas, laikoma, kad jis lygus 0.
 
 4. NPD mokestiniu laikotarpiu taikomas tik nuolatiniam Lietuvos gyventojui, kai jis pagal šio straipsnio 2 dalies nuostatas turėdamas teisę į NPD pateikia laisvos formos prašymą vienoje pajamų, susijusių su darbo santykiais arba jų esmę atitinkančiais santykiais, gavimo vietoje. Taikant šio straipsnio 2 dalies nuostatas mokestiniu laikotarpiu turi būti atsižvelgiama tik į visas kas mėnesį mokamas išmokas (pagrindinį darbo užmokestį, priedus ir priemokas), susijusias su darbo santykiais arba jų esmę atitinkančiais santykiais.
 
 5. Gyventojas turi teisę mokestiniu laikotarpiu atsisakyti NPD ar jo dalies taikymo net tuo atveju, kai jis pagal šio straipsnio 2 ar 6 dalį jam gali būti pritaikytas.
 
-6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 870 eurų. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 810 eurų. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.
+6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 1 005 eurai. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 935 eurai. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.
 
-TAR pastaba. 20 straipsnio 6 dalyje nustatytas neapmokestinamasis pajamų dydis taikomas nuo 2022-01-01 deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas ir apskaičiuojant gyventojų pajamų mokestį.
+TAR pastaba. 6 dalis taikoma apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 Straipsnio dalies pakeitimai:
 
@@ -1216,6 +1234,8 @@ Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 Nr. XIV-713, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25140
 
 Nr. XIV-1098, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10748
+
+Nr. XIV-1550, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24638
 
 7. GMP yra lygios gyventojo mokestinio laikotarpio apmokestinamųjų pajamų, išskyrus apmokestinamąsias pajamas, kurioms taikomas šio Įstatymo 6 straipsnio 2 dalyje nustatytas mokesčio tarifas, pajamas, nuo kurių mokestis sumokėtas įsigyjant verslo liudijimą, taip pat išmokas, mokamas pasibaigus ar nutraukus gyvybės draudimo ar pensijų kaupimo sutartį, neviršijančias sumokėtų įmokų dydžio, sumai, neatėmus šio Įstatymo 21 straipsnyje nurodytų išlaidų ir gyventojui taikytino MNPD.
 
@@ -1603,7 +1623,13 @@ Nr. XIII-2692, 2019-12-17, paskelbta TAR 2019-12-27, i. k. 2019-21324
 
 4. Mokesčio administratorius nuolatinio Lietuvos gyventojo prašymu, mokestiniam laikotarpiui pasibaigus, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo pervesti dalį pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – dalį mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos:
 
-1) 0,6 procento – politinėms partijoms, kurios yra įstatymų nustatyta tvarka įregistruotos Juridinių asmenų registre, atitinka įstatymų reikalavimus dėl politinės partijos narių skaičiaus ir kurioms nėra pradėta pertvarkymo arba likvidavimo procedūra, ir (arba)
+1) 0,6 procento – politinėms organizacijoms, kurios yra įstatymų nustatyta tvarka įregistruotos Juridinių asmenų registre, atitinka įstatymų reikalavimus dėl politinės organizacijos narių skaičiaus ir kurioms nėra pradėta pertvarkymo arba likvidavimo procedūra, ir (arba)
+
+TAR pastaba: 1 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1388, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15859
 
 2) 0,6 procento – profesinėms sąjungoms arba profesinių sąjungų susivienijimams, pagal Labdaros ir paramos įstatymą turintiems teisę gauti paramą.
 
@@ -1779,8 +1805,6 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 Dvejus metus nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos šio Įstatymo IV skyriaus nuostatos Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei taikomos tiek pat, kiek ir Europos Sąjungos valstybėms narėms.
 
-TAR pastaba. Įstatymo papildymas 40 straipsniu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
-
 Papildyta straipsniu:
 
 Nr. XIII-2053, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06689
@@ -1816,8 +1840,6 @@ Nr. IX-2419, 2004-08-23, Žin., 2004, Nr. 134-4837 (2004-09-02)
 Priedo pakeitimai:
 
 Nr. XIV-829, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27721
-
-part_37571e0590f04503a4722dc62512517d_end
 
 Pakeitimai:
 
