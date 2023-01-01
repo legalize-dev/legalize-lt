@@ -4,7 +4,7 @@ identifier: "TAR.EBB4FD337ADE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-22"
-last_updated: "2022-12-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EBB4FD337ADE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
 
@@ -862,7 +862,11 @@ b) įstaiga ar subjektas netenkina Reglamento (ES) Nr. 575/2013 92a ir 494 strai
 
 10) reikalauja, kad tokia įstaiga ar toks subjektas imtųsi kitų priemonių, siekdami užtikrinti minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo vykdymą pagal šio įstatymo 26 straipsnį ar 262 ir 28 straipsnius, įskaitant mėginimą pakartotinai derėtis dėl bet kurio tinkamo įsipareigojimo ir dėl išleistų papildomų 1 ar 2 lygio priemonių, kad visi pertvarkymo institucijos sprendimai nurašyti arba konvertuoti atitinkamą įsipareigojimą ar priemonę būtų vykdomi toje valstybėje narėje, pagal kurios teisę reglamentuojami atitinkami įsipareigojimai ir priemonės;
 
-11) kai tokia įstaiga ar toks subjektas yra mišrios veiklos kontroliuojančiosios bendrovės patronuojamoji įmonė, reikalauja, kad pastaroji įstaigai ar subjektui kontroliuoti įsteigtų atskirą finansų kontroliuojančiąją bendrovę, kai tai būtina siekiant palengvinti įstaigos ar subjekto pertvarkymą ir išvengti pertvarkymo priemonių, turinčių neigiamą poveikį nefinansinei įmonių grupės daliai, taikymo įstaigai ar subjektui;
+11) kai tokia įstaiga ar toks subjektas yra mišrios veiklos kontroliuojančiosios bendrovės patronuojamoji įmonė, reikalauja, kad pastaroji įstaigai ar subjektui kontroliuoti įsteigtų atskirą finansų kontroliuojančiąją bendrovę, kai tai būtina siekiant palengvinti įstaigos ar subjekto pertvarkymą ir išvengti šiame įstatyme nurodytų pertvarkymo priemonių ir įgaliojimų, turinčių neigiamą poveikį nefinansinei įmonių grupės daliai, taikymo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 12) reikalauja, kad tokia įstaiga ar toks subjektas pateiktų planą, kuriuo būtų užtikrintas šio įstatymo 26 straipsnyje ar 262 ir 28 straipsniuose nustatytų reikalavimų, išreikštų bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, ir, jeigu taikoma, jungtinio rezervo reikalavimo bei šio įstatymo 26 straipsnyje ar 262 ir 28 straipsniuose nustatytų reikalavimų, išreikštų bendro pozicijų mato, nurodyto Reglamento (ES) Nr. 575/2013 429 ir 429a straipsniuose, procentine dalimi, tenkinimas;
 
@@ -892,7 +896,11 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 5. Pertvarkymo institucija, pasikonsultavusi su priežiūros institucija, įvertina, ar tomis priemonėmis veiksmingai įveikiama ar pašalinama esminė sėkmingo pertvarkymo kliūtis.
 
-6. Grupės pertvarkymo institucija apie Lietuvos Respublikoje licencijuotos ES patronuojančiosios įmonės pasiūlytas priemones praneša priežiūros institucijai, atliekančiai jungtinę (konsoliduotą) priežiūrą, Europos bankininkystės institucijai, patronuojamųjų įmonių pertvarkymo institucijoms ir valstybių narių, kuriose yra svarbių filialų, pertvarkymo institucijoms, kiek tai susiję su atitinkamu svarbiu filialu. Grupės pertvarkymo institucija kartu su patronuojamųjų įmonių pertvarkymo institucijomis, pasikonsultavusi su priežiūros institucijomis ir valstybių narių, kuriose yra svarbių filialų, pertvarkymo institucijomis, deda visas pastangas, kad pertvarkymo kolegijoje būtų pasiektas bendras sprendimas dėl Lietuvos Respublikoje licencijuotos ES patronuojančiosios įmonės pasiūlytų ir dėl institucijų reikalaujamų, šio įstatymo 22 straipsnio 6 dalyje nurodytų sėkmingo pertvarkymo kliūčių šalinimo priemonių taikymo visiems finansinės grupės subjektams vertinimo, atsižvelgiant į galimą priemonių poveikį visose valstybėse narėse, kuriose veikia finansinė grupė.
+6. Grupės pertvarkymo institucija apie Lietuvos Respublikoje licencijuotos ES patronuojančiosios įmonės pasiūlytas priemones praneša priežiūros institucijai, atliekančiai jungtinę (konsoliduotą) priežiūrą, Europos bankininkystės institucijai, patronuojamųjų įmonių pertvarkymo institucijoms ir valstybių narių, kuriose yra svarbių filialų, pertvarkymo institucijoms, kiek tai susiję su atitinkamu svarbiu filialu. Grupės pertvarkymo institucija kartu su patronuojamųjų įmonių pertvarkymo institucijomis, pasikonsultavusi su priežiūros institucijomis ir valstybių narių, kuriose yra svarbių filialų, pertvarkymo institucijomis, deda visas pastangas, kad pertvarkymo kolegijoje būtų pasiektas bendras sprendimas dėl esminių sėkmingo pertvarkymo kliūčių nustatymo ir prireikus dėl Lietuvos Respublikoje licencijuotos ES patronuojančiosios įmonės pasiūlytų ir dėl institucijų reikalaujamų šio įstatymo 22 straipsnio 6 dalyje nurodytų sėkmingo pertvarkymo kliūčių šalinimo priemonių taikymo visiems finansinės grupės subjektams vertinimo, atsižvelgiant į galimą priemonių poveikį visose valstybėse narėse, kuriose veikia finansinė grupė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 7. Bendras sprendimas priimamas per keturis mėnesius nuo šio straipsnio 3 dalyje nurodytų Lietuvos Respublikoje licencijuotos ES patronuojančiosios įmonės pastabų pateikimo grupės pertvarkymo institucijai dienos, o jeigu Lietuvos Respublikoje licencijuota ES patronuojančioji įmonė pastabų nepateikia, ‒ per vieną mėnesį nuo šio straipsnio 3 dalyje nurodyto keturių mėnesių termino pabaigos. Bendras sprendimas privalo būti pagrįstas ir raštu išdėstytas dokumente, kurį grupės pertvarkymo institucija pateikia Lietuvos Respublikoje licencijuotai ES patronuojančiajai įmonei. Bendras sprendimas dėl sėkmingo pertvarkymo kliūčių, atsiradusių susiklosčius šio įstatymo 22 straipsnio 2 dalies 2 punkte nurodytai padėčiai, priimamas per dvi savaites nuo tos dienos, kurią Lietuvos Respublikoje licencijuota ES patronuojančioji įmonė pateikė savo pastabas pagal šio straipsnio 4 dalį, o jeigu Lietuvos Respublikoje licencijuota ES patronuojančioji įmonė pastabų nepateikė, – per dvi savaites nuo šio straipsnio 4 dalyje nurodyto termino pabaigos. Bendras sprendimas privalo būti pagrįstas ir raštu išdėstytas dokumente, kurį grupės pertvarkymo institucija pateikia Lietuvos Respublikoje licencijuotai ES patronuojančiajai įmonei.
 
@@ -950,7 +958,11 @@ MINIMALUS NUOSAVŲ LĖŠŲ IR TINKAMŲ ĮSIPAREIGOJIMŲ DYDIS
 
 3) poreikį užtikrinti, kad tuo atveju, jeigu pertvarkymo plane nustatoma, kad pagal šio įstatymo 77 straipsnio 5 dalį tam tikroms tinkamų įsipareigojimų rūšims gelbėjimo privačiomis lėšomis priemonė gali būti netaikoma arba kad atliekant dalinį turto, teisių ir įsipareigojimų perdavimą tam tikrų rūšių tinkami įsipareigojimai gali būti visi perduodami kitam asmeniui, pertvarkytinas subjektas turėtų pakankamai kitų tinkamų įsipareigojimų nuostoliams padengti ir įstaigos bendro kapitalo pakankamumo koeficientui ir, kai taikoma, sverto koeficientui atkurti iki lygio, kuris atitiktų licencinės veiklos reikalavimus;
 
-4) subjekto dydį, verslo finansavimo ir rizikos modelius;
+4) subjekto dydį, verslo, finansavimo ir rizikos modelius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 5) subjekto finansinių problemų neigiamą poveikį finansiniam stabilumui, įskaitant neigiamas problemų išplitimo į kitas įstaigas ar šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytus subjektus pasekmes dėl to subjekto ryšių su kitomis įstaigomis ar šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytais subjektais arba likusia finansų sistemos dalimi.
 
@@ -1016,7 +1028,11 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 1) patronuojamoji įmonė ir jos patronuojančioji įmonė priklauso tai pačiai pertvarkytinai grupei;
 
-2) pertvarkymo institucijos nuomone, nėra ir nenumatoma, kad patronuojančiajai įmonei gali kilti reikšmingų praktinių ar teisinių kliūčių nedelsiant pervesti nuosavas lėšas tai patronuojamajai įmonei, dėl kurios padaryta išvada pagal šio įstatymo 58 straipsnio 2 dalį, visų pirma tais atvejais, kai imamasi patronuojančiosios įmonės pertvarkymo veiksmų arba naudojamasi šio įstatymo 58 straipsnio 1 dalyje nurodytais įgaliojimais;
+2) pertvarkymo institucijos nuomone, nėra ir nenumatoma, kad patronuojančiajai įmonei gali kilti reikšmingų praktinių ar teisinių kliūčių nedelsiant pervesti nuosavas lėšas ar padengti įsipareigojimus tai patronuojamajai įmonei, dėl kurios padaryta išvada pagal šio įstatymo 58 straipsnio 2 dalį, visų pirma tais atvejais, kai imamasi patronuojančiosios įmonės pertvarkymo veiksmų arba naudojamasi šio įstatymo 58 straipsnio 1 dalyje nurodytais įgaliojimais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 3) yra gauta priežiūros institucijos išvada, kad patronuojančioji įmonė jai įrodė, kad patronuojamosios įmonės rizika nėra svarbi arba kad riziką ribojantis patronuojamosios įmonės valdymas yra tinkamas ir prireikus patronuojančioji įmonė bus pajėgi įvykdyti patronuojamosios įmonės įsipareigojimus;
 
@@ -3466,7 +3482,15 @@ Nr. XIV-1453, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22564
 
 Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 1, 2, 101 straipsnių, VI skyriaus ir priedo pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas
 
-part_d223f9d3b24d4036b51b7f5381ac6424_end
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 22, 23, 25, 25-4, 26-5, 28, 44, 46, 49-1, 96, 98, 99, 107 straipsnių pakeitimo ir Įstatymo papildymo nauju VIII skyriumi įstatymas
+
+part_acf49bd4695945cd9ccd97cb86da407d_end
 
 211 straipsnis. Įgaliojimai uždrausti tam tikrus paskirstymus
 
@@ -3752,7 +3776,11 @@ c) ar taikoma trečiosios valstybės teisė ir, jeigu taikoma, kurios trečiosio
 
 6. Šio straipsnio 1, 2 ir 5 dalys netaikomos subjektams, kurių pertvarkymo plane nustatyta, kad toks subjektas turi būti likviduojamas iškeliant bankroto bylą.
 
-7. Jeigu buvo atlikti pertvarkymo veiksmai arba kapitalo priemonių ir tinkamų įsipareigojimų nurašymas pagal šio įstatymo 58 straipsnį, šio straipsnio 5 dalyje nurodyti viešo informacijos atskleidimo reikalavimai taikomi nuo šio įstatymo 266 straipsnyje nurodytos datos, iki kurios turi būti užtikrintas šio įstatymo 26 straipsnyje ar 262 ir 28 straipsniuose nustatytų reikalavimų tenkinimas.
+7. Jeigu buvo atlikti pertvarkymo veiksmai arba kapitalo priemonių ir tinkamų įsipareigojimų nurašymas ar konvertavimas pagal šio įstatymo 58 straipsnį, šio straipsnio 5 dalyje nurodyti viešo informacijos atskleidimo reikalavimai taikomi nuo šio įstatymo 266 straipsnyje nurodytos datos, iki kurios turi būti užtikrintas šio įstatymo 26 straipsnyje ar 262 ir 28 straipsniuose nustatytų reikalavimų tenkinimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 Papildyta straipsniu:
 
@@ -3922,7 +3950,11 @@ Pertvarkymo institucija turi teisę visiškai ar iš dalies netaikyti šio įsta
 
 4) jeigu netaikomas reikalavimas dėl centrinės įstaigos nuolat kontroliuojamos kredito įstaigos, centrinė įstaiga turi teisę duoti nurodymus kontroliuojamų įstaigų vadovybei;
 
-5) atitinkamas pertvarkytinas subjektas tenkina šio įstatymo 26 straipsnio 3 dalyje nustatytą reikalavimą;
+5) atitinkama pertvarkytina grupė tenkina šio įstatymo 26 straipsnio 3 dalyje nustatytą reikalavimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 6) nėra ir nenumatyta esminių praktinių ar teisinių kliūčių pertvarkymo atveju skubiai pervesti nuosavas lėšas ar padengti įsipareigojimus tarp centrinės įstaigos ir nuolat kontroliuojamų kredito įstaigų.
 
@@ -3976,7 +4008,11 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 1. Pertvarkymo institucija, pasikonsultavusi su priežiūros institucija, kuri į prašymą dėl konsultacijos privalo atsakyti nedelsdama, turi teisę sustabdyti bet kokių mokėjimo ar perdavimo įsipareigojimų vykdymą pagal sutartis, kurių šalis yra įstaiga ar šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytas subjektas, jeigu tenkinamos visos šios sąlygos:
 
-1) vadovaudamasi šio įstatymo 42 straipsnio 2 dalies 1 punktu nustatė, kad įstaiga arba subjektas žlunga arba galėtų žlugti;
+1) vadovaujantis šio įstatymo 42 straipsnio 2 dalies 1 punktu nustatyta, kad įstaiga arba subjektas žlunga arba galėtų žlugti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 2) nėra galimybės nedelsiant taikyti alternatyvių privataus sektoriaus priemonių, nurodytų šio įstatymo 42 straipsnio 2 dalies 2 punkte, kad būtų išvengta įstaigos ar subjekto žlugimo;
 
