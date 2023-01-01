@@ -4,7 +4,7 @@ identifier: "TAR.85C510BA700A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-15"
-last_updated: "2022-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.85C510BA700A"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
 
@@ -48,7 +48,11 @@ BENDROSIOS NUOSTATOS
 
 2) valstybės informacinių išteklių politikos formavimą ir jos įgyvendinimą;
 
-3) Valstybės informacinių išteklių valdymo tarybos, duomenų valdymo įgaliotinių veiklą;
+3) duomenų valdymo įgaliotinių veiklą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 4) registrų ir valstybės informacinių sistemų valdytojų, registrų ir valstybės informacinių sistemų tvarkytojų, Lietuvos Respublikos fizinių ir juridinių asmenų, Europos Sąjungos valstybių narių ir (arba) Europos ekonominės erdvės valstybių fizinių ir juridinių asmenų, juridinio asmens statuso neturinčių subjektų, jų filialų ir atstovybių, teikiančių registrams ir valstybės informacinėms sistemoms ir gaunančių iš jų duomenis, informaciją, dokumentus ir (arba) jų kopijas, teises, pareigas ir atsakomybę;
 
@@ -210,13 +214,17 @@ Vyriausybė:
 
 3) tvirtina informacijos saugos reikalavimų aprašą, saugos dokumentų turinio gaires;
 
-4) nustato šio įstatymo 3 straipsnio 1, 2, 3 dalyse nurodytos informacijos, sudarančios valstybės informacinius išteklius, svarbos įvertinimo tvarką ir tvirtina valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo gaires;
+4) nustato valstybės informacinių išteklių svarbos vertinimo tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 5) priima sprendimus dėl centralizuoto informacinių ir ryšių technologijų ir (arba) jų teikiamų paslaugų įsigijimo ir taikymo, teisės atlikti centrinės perkančiosios organizacijos funkcijas institucijai suteikimo.
 
 5 straipsnis. Valstybės informacinių išteklių politikos formavimas
 
-1. Valstybės informacinių išteklių politiką pagal kompetenciją formuoja Lietuvos Respublikos ūkio ministerija, Lietuvos Respublikos teisingumo ministerija ir Lietuvos Respublikos krašto apsaugos ministerija.
+1. Valstybės informacinių išteklių politiką pagal kompetenciją formuoja Lietuvos Respublikos ekonomikos ir inovacijų ministerija, Lietuvos Respublikos teisingumo ministerija ir Lietuvos Respublikos krašto apsaugos ministerija.
 
 Straipsnio dalies pakeitimai:
 
@@ -224,7 +232,13 @@ Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
 Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
-2. Ūkio ministerija formuoja valstybės informacinių išteklių politiką ir pagal kompetenciją:
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
+
+2. Ekonomikos ir inovacijų ministerija formuoja valstybės informacinių išteklių valdymo politiką ir pagal kompetenciją:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 1) rengia ir teikia siūlymus Vyriausybei dėl valstybės informacinių išteklių veiklos prioritetų, plėtros krypčių, siektinų rezultatų ir jų pasiekimo būdų, taikomų informacinių ir ryšių technologijų tobulinimo ir plėtros krypčių, rekomenduojamų taikyti techninių reikalavimų (standartų);
 
@@ -240,7 +254,23 @@ Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
 7) teikia pasiūlymus dėl registrų ir valstybės informacinių sistemų steigimo ir likvidavimo tikslingumo;
 
-8) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+8) rengia ir teikia Vyriausybei tvirtinti valstybės informacinių išteklių svarbos vertinimo tvarkos aprašą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
+
+9) tvirtina valstybės informacinių išteklių svarbos vertinimo metodiką;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
+
+10) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 Straipsnio dalies pakeitimai:
 
@@ -258,7 +288,11 @@ Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
 1) rengia informacijos saugos reikalavimus, saugos dokumentų turinio gaires;
 
-2) nustato informacijos svarbos įvertinimo, valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo pagal jose apdorojamos informacijos svarbą kriterijus ir jų priskyrimo atitinkamai kategorijai tvarką;
+2) Neteko galios nuo 2023-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 3) valdo Saugųjį tinklą;
 
@@ -286,7 +320,7 @@ Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
 6 straipsnis. Valstybės informacinių išteklių politikos įgyvendinimas
 
-1. Valstybės informacinių išteklių politiką įgyvendina ūkio ministro įgaliota institucija, krašto apsaugos ministro įgaliota institucija ir Valstybinė duomenų apsaugos inspekcija.
+1. Valstybės informacinių išteklių politiką įgyvendina ekonomikos ir inovacijų ministro įgaliota institucija, krašto apsaugos ministro įgaliota institucija ir Valstybinė duomenų apsaugos inspekcija.
 
 Straipsnio dalies pakeitimai:
 
@@ -294,11 +328,15 @@ Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
 Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
-2. Ūkio ministro įgaliota institucija atsako už valstybės informacinių išteklių funkcinį suderinamumą, kūrimą, tvarkymą ir plėtrą ir pagal kompetenciją:
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
+
+2. Ekonomikos ir inovacijų ministro įgaliota institucija atsako už valstybės informacinių išteklių funkcinį suderinamumą, kūrimą, tvarkymą ir plėtrą ir pagal kompetenciją:
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 1) derina registrų sukūrimo kalendorinius darbų grafikus, valstybės informacinių sistemų ir registrų techninių aprašymų (specifikacijų) atitiktį nuostatams;
 
@@ -360,25 +398,11 @@ III SKYRIUS
 
 VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO FUNKCIJOS
 
-7 straipsnis. Valstybės informacinių išteklių valdymo taryba
+7 straipsnis. Neteko galios nuo 2023-01-01
 
-1. Valstybės informacinių išteklių valdymo taryba yra kolegialus patariamasis organas, ją sudaro valstybės informacinių išteklių politiką formuojančių institucijų, Vyriausybės kanceliarijos, Lietuvos Respublikos Seimo kanceliarijos (toliau – Seimas), Respublikos Prezidento kanceliarijos, Nacionalinės teismų administracijos, Lietuvos savivaldybių asociacijos ir kiti atstovai, kompetentingi informacinių ir ryšių technologijų srityje. Valstybės informacinių išteklių valdymo tarybos narių skaičių, personalinę sudėtį ir jos veiklos reglamentą tvirtina Vyriausybė.
+Straipsnio naikinimas:
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-165, 2013-01-17, Žin., 2013, Nr. 11-509 (2013-01-30), i. k. 1131010ISTA0XII-165
-
-2. Valstybės informacinių išteklių valdymo taryba:
-
-1) rengia pasiūlymus ir rekomendacijas Vyriausybei dėl valstybės informacinių išteklių politiką formuojančių institucijų pateiktų siūlymų dėl valstybės informacinių išteklių veiklos prioritetų, plėtros krypčių, siektinų rezultatų ir jų pasiekimo būdų, taikomų informacinių ir ryšių technologijų tobulinimo ir plėtros krypčių, rekomenduojamų taikyti techninių reikalavimų (standartų), saugos reikalavimų, saugos dokumentų turinio gairių, informacijos svarbos įvertinimo, valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo pagal jose apdorojamos informacijos svarbą kriterijus ir jų priskyrimo atitinkamai kategorijai tvarkos, centralizuoto informacinių technologijų priemonių, informacinių ir ryšių technologijų ir (arba) jų teikiamų paslaugų įsigijimo ir taikymo, teisės atlikti centrinės perkančiosios organizacijos funkcijas institucijai suteikimo, kitais valstybės informacinių išteklių valdymo ir plėtros klausimais;
-
-2) atlieka kitas Vyriausybės nustatytas funkcijas.
-
-3. Atstovas į Valstybės informacinių išteklių valdymo tarybą skiriamas ketveriems metams, tačiau gali būti keičiamas Vyriausybės sprendimu gavus jį paskyrusios institucijos vadovo motyvuotą teikimą.
-
-4. Valstybės informacinių išteklių valdymo tarybos darbo ūkinį ir techninį aptarnavimą atlieka Vyriausybės įgaliota institucija.
-
-5. Valstybės informacinių išteklių valdymo taryba, vykdydama savo veiklą, bendradarbiauja su informacinių ir ryšių technologijų srities socialiniais partneriais ir ekspertais.
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 8 straipsnis. Duomenų valdymo įgaliotinis
 
@@ -592,13 +616,15 @@ Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
 
 2. Registro nuostatus tvirtina ir registro veiklos pradžią nustato Vyriausybė, išskyrus atvejus, kai žinybinį registrą steigia Vyriausybei neatskaitinga valstybės institucija ar valstybės įstaiga (toliau – Vyriausybei neatskaitinga institucija ar įstaiga). Kai žinybinį registrą steigia Vyriausybei neatskaitinga institucija ar įstaiga, ji tvirtina žinybinio registro nuostatus ir nustato žinybinio registro veiklos pradžią.
 
-3. Registro nuostatuose nurodomi registro paskirtis, jo objektas (objektai), registro valdytojas, registro tvarkytojas (tvarkytojai), teikėjai, jų teisės ir pareigos, reglamentuojamas registro objekto (objektų) registravimas, registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymas, jų pakartotinio naudojimo tvarka, registro sąveika su kitais registrais ir (arba) valstybės informacinėmis sistemomis, registro duomenų ir registro informacijos sauga, registro finansavimas ir kita Vyriausybės nustatyta informacija. Registro nuostatų projektas rengiamas ir derinamas Vyriausybės nustatyta tvarka. Registro saugos nuostatuose nurodoma registro kategorija, nustatyta remiantis Vyriausybės patvirtintomis valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo gairėmis, informacijos saugos tikslai, užtikrinimo prioritetinės kryptys ir kita Vyriausybės nustatyta informacija. Registro saugos nuostatų projektas rengiamas, derinamas ir tvirtinamas Vyriausybės nustatyta tvarka.
+3. Registro nuostatuose nurodomi registro paskirtis, jo objektas (objektai), registro valdytojas, registro tvarkytojas (tvarkytojai), teikėjai, jų teisės ir pareigos, reglamentuojamas registro objekto (objektų) registravimas, registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymas, jų pakartotinio naudojimo tvarka, registro sąveika su kitais registrais ir (arba) valstybės informacinėmis sistemomis, registro duomenų ir registro informacijos sauga, registro finansavimas ir kita Vyriausybės nustatyta informacija. Registro nuostatų projektas rengiamas ir derinamas Vyriausybės nustatyta tvarka. Registro saugos nuostatuose nurodoma registro kategorija, nustatyta remiantis Vyriausybės patvirtintu valstybės informacinių išteklių svarbos vertinimo tvarkos aprašu, informacijos saugos tikslai, užtikrinimo prioritetinės kryptys ir kita Vyriausybės nustatyta informacija. Registro saugos nuostatų projektas rengiamas, derinamas ir tvirtinamas Vyriausybės nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 4. Valstybės registro nuostatai patvirtinami per vienus metus nuo Lietuvos Respublikos įstatymo arba Europos Sąjungos teisės akto, nustatančio registro steigimo teisinius pagrindus, įsigaliojimo, jeigu šiuose teisės aktuose nėra nurodytas kitas terminas. Registras laikomas įsteigtu nuo registro nuostatų patvirtinimo.
 
@@ -666,11 +692,13 @@ Nr. XIII-2539, 2019-11-26, paskelbta TAR 2019-12-06, i. k. 2019-19760
 
 3. Registro duomenys tvarkomi Registrų ir valstybės informacinių sistemų registro nuostatuose nustatyta tvarka.
 
-4. Registrų ir valstybės informacinių sistemų registro valdytoja yra Ūkio ministerija. Registrų ir valstybės informacinių sistemų registro tvarkytoją skiria Vyriausybė.
+4. Registrų ir valstybės informacinių sistemų registro valdytoja yra Ekonomikos ir inovacijų ministerija. Registrų ir valstybės informacinių sistemų registro tvarkytoją skiria Vyriausybė.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 23 straipsnis. Registro valdytojo ir registro tvarkytojo skyrimas
 
@@ -908,13 +936,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
-3. Valstybės informacinės sistemos nuostatuose nurodomi valstybės informacinės sistemos tikslai, uždaviniai, funkcijos, valstybės informacinės sistemos valdytojas ir tvarkytojas (tvarkytojai), teikėjai, kaupiami duomenys, reglamentuojama funkcinė struktūra, sąveika su kitomis valstybės informacinėmis sistemomis ir registrais, iš jų numatomi gauti duomenys, valstybės informacinės sistemos duomenų tvarkymas, valstybės informacinės sistemos duomenų pakartotinio naudojimo tvarka, sauga, valstybės informacinės sistemos finansavimas ir kita Vyriausybės nustatyta informacija. Valstybės informacinės sistemos saugos nuostatuose nurodoma valstybės informacinės sistemos kategorija, nustatyta vadovaujantis Vyriausybės patvirtintu Valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo ir elektroninės informacijos svarbos nustatymo gairių aprašu, informacijos saugos tikslai, užtikrinimo prioritetinės kryptys ir kita Vyriausybės nustatyta informacija.
+3. Valstybės informacinės sistemos nuostatuose nurodomi valstybės informacinės sistemos tikslai, uždaviniai, funkcijos, valstybės informacinės sistemos valdytojas ir tvarkytojas (tvarkytojai), teikėjai, kaupiami duomenys, reglamentuojama funkcinė struktūra, sąveika su kitomis valstybės informacinėmis sistemomis ir registrais, iš jų numatomi gauti duomenys, valstybės informacinės sistemos duomenų tvarkymas, valstybės informacinės sistemos duomenų pakartotinio naudojimo tvarka, sauga, valstybės informacinės sistemos finansavimas ir kita Vyriausybės nustatyta informacija. Valstybės informacinės sistemos saugos nuostatuose nurodoma valstybės informacinės sistemos kategorija, nustatyta vadovaujantis Vyriausybės patvirtintu valstybės informacinių išteklių svarbos vertinimo tvarkos aprašu, informacijos saugos tikslai, užtikrinimo prioritetinės kryptys ir kita Vyriausybės nustatyta informacija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 4. Valstybės informacinė sistema laikoma įsteigta nuo valstybės informacinės sistemos nuostatų patvirtinimo.
 
@@ -1094,13 +1124,15 @@ VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ SĄVEIKUMO PLATFORMA IR VALSTYBĖS INFORMACI
 
 39 straipsnis. Valstybės informacinių išteklių sąveikumo platforma
 
-1. Valstybės informacinių išteklių sąveikumo platforma yra valstybės informacinė sistema, kurios paskirtis – užtikrinti galimybę asmenims vieno langelio principu gauti institucijų teikiamas viešąsias ir administracines elektronines paslaugas ir institucijoms teikti šio įstatymo 40 straipsnio 1 dalyje nurodytas paslaugas. Valstybės informacinių išteklių sąveikumo platformą steigia, valdo ir jos tvarkytoją skiria Ūkio ministerija.
+1. Valstybės informacinių išteklių sąveikumo platforma yra valstybės informacinė sistema, kurios paskirtis – užtikrinti galimybę asmenims vieno langelio principu gauti institucijų teikiamas viešąsias ir administracines elektronines paslaugas ir institucijoms teikti šio įstatymo 40 straipsnio 1 dalyje nurodytas paslaugas. Valstybės informacinių išteklių sąveikumo platformą steigia, valdo ir jos tvarkytoją skiria Ekonomikos ir inovacijų ministerija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
 
 Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
+
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 2. Prieiga prie valstybės informacinių išteklių sąveikumo platformos teikiamų paslaugų institucijoms ir asmenims suteikiama per vieną prieigos tašką – valstybės informacinių išteklių sąveikumo platformos paslaugų portalą (toliau – portalas).
 
@@ -1284,21 +1316,23 @@ Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
 432 straipsnis. Saugusis tinklas
 
-1. Institucijos, įrašytos į Saugiojo tinklo naudotojų sąrašą, privalo naudotis tik Saugiuoju tinklu teikiamomis elektroninių ryšių paslaugomis ir jungtis prie viešųjų elektroninių ryšių tinklų tik per Saugųjį tinklą. Saugiojo tinklo naudotojų sąrašą Krašto apsaugos ministerijos teikimu tvirtina Vyriausybė. Saugiuoju tinklu negali naudotis į Saugiojo tinklo naudotojų sąrašą neįtraukti subjektai. Vyriausybė ar jos įgaliota institucija bent kartą per metus peržiūri Saugiojo tinklo naudotojų sąrašą ir prireikus inicijuoja šio sąrašo pakeitimus.
+1. Institucijos, įrašytos į Saugiojo tinklo naudotojų sąrašą, privalo naudotis tik Saugiuoju tinklu teikiamomis elektroninių ryšių paslaugomis ir jungtis prie viešųjų elektroninių ryšių tinklų tik per Saugųjį tinklą. Kai nėra techninių galimybių jungtis prie viešųjų elektroninių ryšių tinklų tik per Saugųjį tinklą, institucijos turi teisę Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais ir tvarka prie viešųjų elektroninių ryšių tinklų jungtis ne per Saugųjį tinklą. Saugiojo tinklo naudotojų sąrašą Krašto apsaugos ministerijos teikimu tvirtina Vyriausybė. Saugiuoju tinklu negali naudotis į Saugiojo tinklo naudotojų sąrašą neįtraukti subjektai. Krašto apsaugos ministerija bent kartą per metus peržiūri Saugiojo tinklo naudotojų sąrašą ir prireikus inicijuoja šio sąrašo pakeitimus.
 
 2. Į Saugiojo tinklo naudotojų sąrašą yra įrašomos institucijos, atitinkančios bent vieną iš šių kriterijų:
 
-1) institucija valdo ar tvarko valstybės informacinius išteklius, būtinus gyvybiškai svarbioms valstybės funkcijoms atlikti ir mobilizacinėms užduotims vykdyti;
+1) institucija valdo ar tvarko valstybės informacinius išteklius, būtinus gyvybiškai svarbioms valstybės funkcijoms atlikti ir valstybinėms mobilizacinėms užduotims vykdyti;
 
-2) institucija, atlikdama gyvybiškai svarbias valstybės funkcijas, dalyvauja vykdant valstybines mobilizacines užduotis;
+2) institucija, atlikdama gyvybiškai svarbias valstybės funkcijas, dalyvauja vykdant valstybines mobilizacines užduotis, kurioms atlikti būtina perduoti duomenis institucijoms, valdančioms ar tvarkančioms valstybės informacinius išteklius, būtinus gyvybiškai svarbioms valstybės funkcijoms atlikti ir valstybinėms mobilizacinėms užduotims vykdyti, ir (ar) gauti tokius duomenis;
 
-3) institucija Vyriausybės įgaliotos institucijos išvadoje įvardijama kaip būtina nacionaliniam saugumui, gynybai ar gyvybiškai svarbioms valstybės funkcijoms užtikrinti.
+3) institucija Vyriausybės įgaliotos institucijos išvadoje įvardijama kaip būtina nacionaliniam saugumui, gynybai ar gyvybiškai svarbioms valstybės funkcijoms užtikrinti;
+
+4) institucijai atliekant savo funkcijas būtina naudotis Saugiuoju tinklu arba jai reikalinga prieiga prie Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančių institucijų ar duomenų centrų.
 
 3. Saugųjį tinklą tvarko krašto apsaugos ministro įgaliota valstybės biudžetinė įstaiga.
 
-4. Specialiuosius organizacinius ir techninius reikalavimus, taikomus Saugiajam tinklui, Saugiojo tinklo paslaugoms bei prekių ir paslaugų Saugiajam tinklui teikėjams, ir Saugiojo tinklo nuostatus tvirtina Saugiojo tinklo valdytojas. Saugiojo tinklo tvarkytojas užtikrina, kad būtų įgyvendinti specialieji organizaciniai ir techniniai reikalavimai, taikomi Saugiajam tinklui, ir būtų teikiamos Saugiojo tinklo standartinės ir papildomos elektroninių ryšių paslaugos. Saugiuoju tinklu teikiamų elektroninių ryšių paslaugų teikimo sąlygas ir taisykles nustato Vyriausybė ar jos įgaliota institucija. Saugiajam tinklui veikti reikiamų prekių ir paslaugų įsigijimui taikomi Viešųjų pirkimų įstatymo reikalavimai.
+4. Specialiuosius organizacinius ir techninius reikalavimus, taikomus Saugiajam tinklui, Saugiojo tinklo paslaugoms bei prekių ir paslaugų Saugiajam tinklui teikėjams, ir Saugiojo tinklo nuostatus tvirtina Saugiojo tinklo valdytojas. Saugiojo tinklo tvarkytojas užtikrina, kad būtų įgyvendinti specialieji organizaciniai ir techniniai reikalavimai, taikomi Saugiajam tinklui, ir būtų teikiamos Saugiojo tinklo standartinės ir papildomos elektroninių ryšių ir kibernetinio saugumo paslaugos. Saugiuoju tinklu teikiamų elektroninių ryšių ir kibernetinio saugumo paslaugų teikimo sąlygas ir taisykles nustato Vyriausybė ar jos įgaliota institucija. Saugiajam tinklui veikti reikiamų prekių ir paslaugų įsigijimui taikomi Viešųjų pirkimų įstatymo reikalavimai.
 
-5. Saugiuoju tinklu teikiamas standartines elektroninių ryšių paslaugas (toliau – standartinės paslaugos) sudaro:
+5. Saugiuoju tinklu teikiamas standartines elektroninių ryšių ir kibernetinio saugumo paslaugas (toliau – standartinės paslaugos) sudaro:
 
 1) nustatytos spartos duomenų perdavimas Saugiojo tinklo naudotojams ir jų struktūriniams padaliniams;
 
@@ -1308,19 +1342,21 @@ Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
 4) sąveika su Europos Sąjungos ir jos valstybių narių institucijų valdomais informaciniais ištekliais;
 
-5) valstybės valdomų elektroninių ryšių tinklų, kurie naudojami vykdant valstybines mobilizacines užduotis, dalių sujungimas.
+5) valstybės valdomų elektroninių ryšių tinklų, kurie naudojami vykdant valstybines mobilizacines užduotis, dalių sujungimas;
 
-6. Standartinių paslaugų kiekybiniai ir kokybiniai rodikliai nustatomi Vyriausybės ar jos įgaliotos institucijos Saugiuoju tinklu teikiamų elektroninių ryšių paslaugų teikimo sąlygose ir taisyklėse. Saugiojo tinklo tvarkytojas užtikrina neatlygintiną standartinių paslaugų teikimą Saugiojo tinklo naudotojams. Išlaidos, patirtos dėl neatlygintinai teikiamų standartinių paslaugų, finansuojamos iš Saugiajam tinklui tvarkyti skiriamų valstybės biudžeto lėšų ir (arba) kitų teisės aktuose nustatytų finansavimo šaltinių.
+6) techninės bendradarbiavimo priemonės Saugiojo tinklo naudotojų ir jų struktūrinių padalinių tarpusavio sąveikai užtikrinti.
 
-7. Saugiuoju tinklu teikiamas papildomas elektroninių ryšių paslaugas (toliau – papildomos paslaugos) sudaro šio straipsnio 4 dalyje nurodytos paslaugos, kurių kiekybiniai ar kokybiniai rodikliai, atsižvelgiant į Saugiojo tinklo naudotojų poreikius, skiriasi nuo nustatytų standartinių paslaugų rodiklių.
+6. Standartinių paslaugų kiekybiniai ir kokybiniai rodikliai nustatomi Vyriausybės ar jos įgaliotos institucijos Saugiuoju tinklu teikiamų elektroninių ryšių ir kibernetinio saugumo paslaugų teikimo sąlygose ir taisyklėse. Saugiojo tinklo tvarkytojas užtikrina neatlygintiną standartinių paslaugų teikimą Saugiojo tinklo naudotojams. Išlaidos, patirtos dėl neatlygintinai teikiamų standartinių paslaugų, finansuojamos iš Saugiajam tinklui tvarkyti skiriamų valstybės biudžeto lėšų ir (arba) kitų teisės aktuose nustatytų finansavimo šaltinių.
 
-8. Atlyginimo už naudojimąsi Papildomomis paslaugomis dydžių kriterijus ir atlyginimo nustatymo tvarkos aprašą tvirtina Vyriausybė. Krašto apsaugos ministras, atsižvelgdamas į atlyginimo už naudojimąsi Saugiuoju tinklu dydžių kriterijus, tvirtina atlyginimo už naudojimąsi Saugiuoju tinklu dydžius. Atlyginimas už papildomas paslaugas neturi viršyti sąnaudų, patiriamų teikiant šias paslaugas. Papildomų paslaugų teikimo sąnaudos Saugiojo tinklo tvarkytojo lėšomis turi būti patikrintos auditoriaus ar audito įmonės, o patikrinti duomenys apie patirtas sąnaudas per 2 mėnesius nuo kalendorinių metų pabaigos turi būti pateikti Vyriausybės įgaliotai institucijai. Vyriausybės įgaliota institucija vertina, ar atlyginimo už papildomų paslaugų teikimą dydžiai apskaičiuoti atsižvelgiant į Vyriausybės patvirtintus atlyginimo už naudojimąsi papildomomis paslaugomis dydžių kriterijus, ir teikia išvadą Saugiojo tinklo tvarkytojui.
+7. Saugiuoju tinklu teikiamas papildomas elektroninių ryšių ir kibernetinio saugumo paslaugas (toliau – papildomos paslaugos) sudaro šio straipsnio 5 dalyje nurodytos paslaugos, kurių kiekybiniai ar kokybiniai rodikliai, atsižvelgiant į Saugiojo tinklo naudotojų poreikius, skiriasi nuo nustatytų standartinių paslaugų rodiklių.
+
+8. Atlyginimo už naudojimąsi papildomomis paslaugomis dydžių kriterijus ir atlyginimo nustatymo tvarkos aprašą tvirtina Vyriausybė. Krašto apsaugos ministras, atsižvelgdamas į atlyginimo už naudojimąsi Saugiuoju tinklu dydžių kriterijus, tvirtina atlyginimo už naudojimąsi Saugiuoju tinklu dydžius. Atlyginimas už papildomas paslaugas neturi viršyti sąnaudų, patiriamų teikiant šias paslaugas. Papildomų paslaugų teikimo sąnaudos Saugiojo tinklo tvarkytojo lėšomis turi būti patikrintos auditoriaus ar audito įmonės, o patikrinti duomenys apie patirtas sąnaudas per 2 mėnesius nuo kalendorinių metų pabaigos turi būti pateikti Vyriausybės įgaliotai institucijai. Vyriausybės įgaliota institucija vertina, ar atlyginimo už papildomų paslaugų teikimą dydžiai apskaičiuoti atsižvelgiant į Vyriausybės patvirtintus atlyginimo už naudojimąsi papildomomis paslaugomis dydžių kriterijus, ir teikia išvadą Saugiojo tinklo tvarkytojui.
 
 9. Institucijų prisijungimo prie Saugiojo tinklo ir atsijungimo nuo jo sąlygas, planą ir terminus nustato Vyriausybė ar jos įgaliota institucija.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XIII-1871, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00094
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
 
 433 straipsnis. Duomenų centrai
 
