@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2022-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -346,15 +346,11 @@ Nr. XIII-994, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01006
 
 3. Vyriausybė, prieš priimdama nutarimą dėl kito branduolinės energetikos objekto statybos, įvertina šio straipsnio 2 dalies 3 ir 4 punktuose nustatytus reikalavimus, taip pat tokio branduolinės energetikos objekto statybos ekonominius ir visuomeninius poreikius.
 
-8 straipsnis. Vyriausybės ekstremalių situacijų komisijos kompetencija
+8 straipsnis. Neteko galios nuo 2023-01-01
 
-Vyriausybės ekstremalių situacijų komisija:
+Straipsnio naikinimas:
 
-1) priima sprendimus, reikalingus gresiančiai ar kilusiai branduolinei ar radiologinei avarijai valdyti;
-
-2) teikia Vyriausybei siūlymus dėl valstybės rezervo civilinės saugos priemonių atsargų naudojimo branduolinių ir radiologinių avarijų metu;
-
-3) atlieka kitas Lietuvos Respublikos civilinės saugos įstatyme (toliau – Civilinės saugos įstatymas), taip pat Vyriausybės nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+Nr. XIV-1642, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26586
 
 9 straipsnis. Lietuvos Respublikos energetikos ministerijos kompetencija
 
@@ -1018,19 +1014,25 @@ BRANDUOLINIŲ IR RADIOLOGINIŲ AVARIJŲ IR JŲ PADARINIŲ LIKVIDAVIMAS
 
 2. Už branduolinių ir radiologinių avarijų padarinių sušvelninimą ir likvidavimą už branduolinės energetikos objekto sanitarinės apsaugos zonos ribų pagal kompetenciją atsako Vyriausybė ir kitos valstybės institucijos, taip pat savivaldybės, kurių teritorijoje yra branduolinės energetikos objektai arba kurių teritorijoje galimi žalingi avarijų padariniai.
 
-3. Vyriausybė yra atsakinga už Lietuvos Respublikos pasirengimą reaguoti į susidariusią ekstremaliąją situaciją branduolinės ir radiologinės avarijų atvejais Civilinės saugos įstatymo ir kitų teisės aktų, reglamentuojančių civilinės saugos teisinius ir organizacinius pagrindus, nustatyta tvarka.
+3. Vyriausybė yra atsakinga už Lietuvos Respublikos pasirengimą reaguoti į susidariusią ekstremaliąją situaciją branduolinės ir radiologinės avarijų atvejais Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo ir kitų teisės aktų, reglamentuojančių krizių valdymo ir civilinės saugos teisinius ir organizacinius pagrindus, nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1642, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26586
 
 4. Valstybės ir savivaldybių institucijos, planuodamos gyventojų apsaugos priemones branduolinės ir radiologinės avarijų atvejais, vykdo Vidaus reikalų ministerijos nustatytus reikalavimus avarinės parengties zonoms.
 
-39 straipsnis. Branduolinių ir radiologinių avarijų branduolinės energetikos objektuose ir jų padarinių likvidavimas
+39 straipsnis. Branduolinių ir radiologinių avarijų branduolinės energetikos objektuose ir jų padarinių likvidavimas
 
-1. Branduolinių ir radiologinių avarijų ir jų padarinių likvidavimo darbai atliekami vadovaujantis valstybiniu gyventojų apsaugos planu branduolinės ar radiologinės avarijos atveju, šiame plane nurodytų institucijų ir įstaigų ekstremaliųjų situacijų valdymo planais, rengiamais vadovaujantis Civilinės saugos įstatymu, ir branduolinės energetikos objekto avarinės parengties planu, rengiamu vadovaujantis Branduolinės saugos įstatymu.
+1. Branduolinių ir radiologinių avarijų ir jų padarinių likvidavimo darbai organizuojami ir atliekami vadovaujantis Krizių valdymo ir civilinės saugos įstatymu, Vyriausybės patvirtintu valstybiniu gyventojų apsaugos planu branduolinės ar radiologinės avarijos atveju ir branduolinės energetikos objekto avarinės parengties planu, rengiamu vadovaujantis Branduolinės saugos įstatymu.
 
-2. Institucijos ir asmenys, kurie pagal valstybinį gyventojų apsaugos planą branduolinės ar radiologinės avarijos atveju privalo dalyvauti likviduojant avariją, sušvelninant ir likviduojant jos padarinius, rengia tam tikslui numatytas priemones ir jas įgyvendina vadovaudamiesi Civilinės saugos įstatymu ir Branduolinės saugos įstatymu.
+2. Institucijos ir asmenys, kurie pagal Vyriausybės patvirtintą valstybinį gyventojų apsaugos planą branduolinės ar radiologinės avarijos atveju privalo dalyvauti likviduojant avariją, sušvelninant ir likviduojant jos padarinius, rengia tam tikslui numatytas priemones ir jas įgyvendina vadovaudamiesi Krizių valdymo ir civilinės saugos įstatymu ir Branduolinės saugos įstatymu.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-654, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16004
+
+Nr. XIV-1642, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26586
 
 40 straipsnis. Užsienio valstybių ir tarptautinių organizacijų informavimas apie branduolinę ir radiologinę avariją
 
@@ -1507,6 +1509,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-573, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21913
 
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2, 15, 34 ir 36 straipsnių pakeitimo įstatymas
+
+33.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1642, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26586
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 38, 39 straipsnių pakeitimo ir 8 straipsnio pripažinimo netekusiu galios įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
