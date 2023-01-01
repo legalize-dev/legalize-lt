@@ -4,7 +4,7 @@ identifier: "TAR.717DD0E6FE37"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-02-13"
-last_updated: "2020-09-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.717DD0E6FE37"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 20-520, i. k. 0961010ISTA00I-1202
 
@@ -53,7 +53,11 @@ Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010IS
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Laisvės atėmimo vietos – arešto, terminuoto laisvės atėmimo, laisvės atėmimo iki gyvos galvos bausmes ir kardomąją priemonę – suėmimą vykdančios įstaigos.
+1. Neteko galios nuo 2023-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 2. Policijos kriminalinės žvalgybos subjektai – Policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos kriminalinės policijos biuro ir teritorinių policijos įstaigų kriminalinę žvalgybą vykdantys padaliniai.
 
@@ -157,11 +161,15 @@ Apsaugos nuo nusikalstamo poveikio priemonės yra šios:
 
 10 straipsnis. Specialaus režimo, pagal kurį teikiami duomenys apie asmenį iš valstybės ir žinybinių registrų bei informacinių sistemų, nustatymas
 
-1. Valstybės ir žinybinių registrų bei informacinių sistemų tvarkytojams Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti apribota (uždrausta) teikti duomenis apie saugomus asmenis. Duomenys apie saugomus asmenis gali būti paimti iš šių informacijos tvarkytojų ir perduoti atitinkamai Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Policijos departamentas) arba Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas).
+1. Valstybės ir žinybinių registrų bei informacinių sistemų tvarkytojams Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti apribota (uždrausta) teikti duomenis apie saugomus asmenis. Duomenys apie saugomus asmenis gali būti paimti iš šių informacijos tvarkytojų ir perduoti atitinkamai Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Policijos departamentas) arba Lietuvos kalėjimų tarnybai.
 
 2. Duomenų apie saugomus asmenis teikimo apribojimas (uždraudimas) yra privalomas valstybės ir žinybinių registrų bei informacinių sistemų tvarkytojams.
 
-3. Duomenys apie saugomus asmenis gali būti teikiami tik gavus rašytinį Lietuvos policijos generalinio komisaro arba Kalėjimų departamento direktoriaus leidimą.
+3. Duomenys apie saugomus asmenis gali būti teikiami tik gavus rašytinį Lietuvos policijos generalinio komisaro arba Lietuvos kalėjimų tarnybos direktoriaus leidimą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 11 straipsnis. Asmens gyvenamosios, darbo ar mokymosi vietos pakeitimas
 
@@ -191,19 +199,29 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ SKYRIMAS IR TAIKYMAS
 
 15 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių taikymas
 
-1. Šio įstatymo 4 straipsnio 1 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos ikiteisminio tyrimo įstaigos vadovo ar teritorinės prokuratūros, Lietuvos Respublikos generalinės prokuratūros padalinio vadovo motyvuotu teikimu. Bendrą sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos Respublikos generalinis prokuroras ir Lietuvos policijos generalinis komisaras ar Kalėjimų departamento direktorius.
+1. Šio įstatymo 4 straipsnio 1 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos ikiteisminio tyrimo įstaigos vadovo ar teritorinės prokuratūros, Lietuvos Respublikos generalinės prokuratūros padalinio vadovo motyvuotu teikimu. Bendrą sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos Respublikos generalinis prokuroras ir Lietuvos policijos generalinis komisaras ar Lietuvos kalėjimų tarnybos direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 2. Šio įstatymo 4 straipsnio 2 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos jų vadovų motyvuotu teikimu. Bendrą sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos Respublikos generalinis prokuroras ir Lietuvos policijos generalinis komisaras.
 
-3. Šio įstatymo 4 straipsnio 3 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos policijos kriminalinės žvalgybos subjekto ar kriminalinės žvalgybos pagrindinės institucijos, išskyrus Policijos departamentą, vadovo motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos policijos generalinis komisaras arba Kalėjimų departamento direktorius.
+3. Šio įstatymo 4 straipsnio 3 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos policijos kriminalinės žvalgybos subjekto ar kriminalinės žvalgybos pagrindinės institucijos, išskyrus Policijos departamentą, vadovo motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos policijos generalinis komisaras arba Lietuvos kalėjimų tarnybos direktorius.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
 
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
+
 4. Šio įstatymo 4 straipsnio 4 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos atitinkamai šio straipsnio 1–3 dalyse nurodytų pareigūnų motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima šio straipsnio 1–3 dalyse nurodyti pareigūnai.
 
-5. Konkrečių apsaugos nuo nusikalstamo poveikio priemonių taikymo tvarką ir sąlygas nustato Apsaugos nuo nusikalstamo poveikio nuostatai. Šiuos nuostatus tvirtina Lietuvos policijos generalinis komisaras, Kalėjimų departamento direktorius ir Lietuvos Respublikos generalinis prokuroras.
+5. Konkrečių apsaugos nuo nusikalstamo poveikio priemonių taikymo tvarką ir sąlygas nustato Apsaugos nuo nusikalstamo poveikio nuostatai. Šiuos nuostatus tvirtina Lietuvos policijos generalinis komisaras, Lietuvos kalėjimų tarnybos direktorius ir Lietuvos Respublikos generalinis prokuroras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 6. Už motyvuoto teikimo skirti apsaugos nuo nusikalstamo poveikio priemones teisėtumą ir pagrįstumą, už apsaugos nuo nusikalstamo poveikio priemones įgyvendinančių institucijų informavimą laiku apie ikiteisminio tyrimo eigą, saugomo asmens procesinę padėtį ir jos pasikeitimus, taip pat kitos informacijos, turinčios reikšmės apsaugos nuo nusikalstamo poveikio priemonių taikymui ar nutraukimui, pateikimą atsako šio straipsnio 1–3 dalyse nurodyti pareigūnai.
 
@@ -211,7 +229,11 @@ Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010IS
 
 16 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių skyrimo tvarka
 
-1. Vieną arba kelias šio įstatymo 7 straipsnyje nurodytas apsaugos nuo nusikalstamo poveikio priemones, atsižvelgdami į objektyvias aplinkybes, ne vėliau kaip per 3 darbo dienas nuo 15 straipsnio 1–4 dalyse numatyto sprendimo dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo priėmimo dienos, o išimties atvejais – nedelsdami parenka ir paskiria atitinkamai Lietuvos policijos generalinis komisaras ar Kalėjimų departamento direktorius.
+1. Vieną arba kelias šio įstatymo 7 straipsnyje nurodytas apsaugos nuo nusikalstamo poveikio priemones, atsižvelgdami į objektyvias aplinkybes, ne vėliau kaip per 3 darbo dienas nuo 15 straipsnio 1–4 dalyse numatyto sprendimo dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo priėmimo dienos, o išimtiniais atvejais – nedelsdami parenka ir paskiria atitinkamai Lietuvos policijos generalinis komisaras ar Lietuvos kalėjimų tarnybos direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 2. Draudžiama skirti tokią (tokias) apsaugos nuo nusikalstamo poveikio priemonę (priemones), su kuria (kuriomis) nesutinka saugotinas asmuo, taip pat tokią (tokias) apsaugos priemonę (priemones), su kuria (kuriomis) sutinka saugotinas asmuo, bet jos neatitinka realios grėsmės.
 
@@ -221,11 +243,15 @@ Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010IS
 
 1. Apsaugos nuo nusikalstamo poveikio priemonių taikymą užtikrina ir už jį atsako:
 
-1) aukštesnės ir žemesnės pakopos teritorinių policijos įstaigų vadovai. Jie savo vadovaujamos įstaigos aptarnaujamoje teritorijoje, išskyrus laisvės atėmimo vietas, organizuoja fizine, saugomų asmenų ir jų turto apsaugą;
+1) aukštesnės ir žemesnės pakopos teritorinių policijos įstaigų vadovai. Jie savo vadovaujamos įstaigos aptarnaujamoje teritorijoje, išskyrus laisvės atėmimo vietų įstaigą, organizuoja fizinę saugomų asmenų ir jų turto apsaugą;
 
-2) Kalėjimų departamento direktorius. Jis organizuoja fizinę asmens apsaugą, laikiną asmens perkėlimą į saugią vietą, specialaus režimo, pagal kurį teikiami duomenys apie asmenį iš valstybės ir žinybinių registrų bei informacinių sistemų, nustatymą, asmens tapatybės ir biografijos duomenų pakeitimo ir finansinės paramos vykdymą laisvės atėmimo vietose;
+2) Lietuvos kalėjimų tarnybos direktorius. Jis organizuoja fizinę asmens apsaugą, laikiną asmens perkėlimą į saugią vietą, specialaus režimo, pagal kurį teikiami duomenys apie asmenį iš valstybės ir žinybinių registrų bei informacinių sistemų, nustatymą, asmens tapatybės ir biografijos duomenų pakeitimo ir finansinės paramos vykdymą laisvės atėmimo vietų įstaigoje;
 
 3) Lietuvos policijos generalinis komisaras. Jis organizuoja ir koordinuoja visų šio įstatymo 7 straipsnyje nustatytų apsaugos nuo nusikalstamo poveikio priemonių taikymą policijos įstaigose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 2. Su saugotinu asmeniu sudaroma sutartis dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo. Sutarties turinį ir formą nustato Apsaugos nuo nusikalstamo poveikio nuostatai.
 
@@ -237,17 +263,29 @@ Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010IS
 
 2) prašyti taikyti jam ar panaikinti konkrečias apsaugos nuo nusikalstamo poveikio priemones;
 
-3) apskųsti Policijos ar Kalėjimų departamentams pavaldžių įstaigų pareigūnų, atliekančių apsaugą nuo nusikalstamo poveikio, veiksmus (ar neveikimą) atitinkamai Lietuvos policijos generaliniam komisarui arba Kalėjimų departamento direktoriui, o šių vadovų veiksmus (ar neveikimą) – Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+3) apskųsti Policijos departamentui pavaldžių įstaigų ar bausmių vykdymo sistemos pareigūnų, atliekančių apsaugą nuo nusikalstamo poveikio, veiksmus (ar neveikimą) atitinkamai Lietuvos policijos generaliniam komisarui arba Lietuvos kalėjimų tarnybos direktoriui, o šių vadovų veiksmus (ar neveikimą) – Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 2. Saugomas asmuo privalo:
 
 1) laikytis sutartyje nurodytų sąlygų;
 
-2) vykdyti Lietuvos policijos generalinio komisaro, teritorinės policijos įstaigos vadovo, Kalėjimų departamento direktoriaus arba pareigūnų, atliekančių apsaugą nuo nusikalstamo poveikio, reikalavimus;
+2) vykdyti Lietuvos policijos generalinio komisaro, teritorinės policijos įstaigos vadovo, Lietuvos kalėjimų tarnybos direktoriaus arba pareigūnų, atliekančių apsaugą nuo nusikalstamo poveikio, reikalavimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 3) pranešti apsaugą nuo nusikalstamo poveikio organizuojantiems ir atliekantiems pareigūnams apie kiekvieną grasinimo jam atvejį ar kitus jam padarytus neteisėtus veiksmus;
 
-4) be atitinkamo Lietuvos policijos generalinio komisaro, teritorinės policijos įstaigos vadovo ar Kalėjimų departamento direktoriaus sutikimo neatskleisti informacijos apie jam taikomas apsaugos nuo nusikalstamo poveikio priemones.
+4) be atitinkamo Lietuvos policijos generalinio komisaro, teritorinės policijos įstaigos vadovo ar Lietuvos kalėjimų tarnybos direktoriaus sutikimo neatskleisti informacijos apie jam taikomas apsaugos nuo nusikalstamo poveikio priemones.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 19 straipsnis. Sprendimo paskirti apsaugos nuo nusikalstamo poveikio priemones panaikinimas
 
@@ -386,4 +424,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2977, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11676
 
 Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo Nr. I-1202 4 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
+
+Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo Nr. I-1202 2, 10, 15, 16, 17 ir 18 straipsnių pakeitimo įstatymas
 
