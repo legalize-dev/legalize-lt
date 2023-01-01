@@ -4,7 +4,7 @@ identifier: "TAR.234B15954C2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-11"
-last_updated: "2022-05-26"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
-Suvestinė redakcija nuo 2022-05-26 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-08-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
 
@@ -269,7 +269,11 @@ Nr. XIII-2381, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12804
 
 6) sveikatos priežiūros įstaigų, kuriose atliekamas biomedicininis tyrimas, darbuotojai, pavaldūs tyrėjui;
 
-7) įkalinimo įstaigose ar kitose laisvės atėmimo vietose esantys asmenys.
+7) laisvės atėmimo vietų įstaigoje ir laikinojo sulaikymo vietose esantys asmenys.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1216, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15581
 
 2. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas, vertindamas dokumentus dėl leidimo atlikti biomedicininį tyrimą išdavimo, pažeidžiamais asmenimis gali pripažinti ir kitas asmenų grupes.
 
@@ -1004,6 +1008,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
 
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 1, 2, 6, 7, 11, 12, 20, 21, 22, 24-1, 24-2 straipsnių ir priedo pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1216, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15581
+
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 6 straipsnio pakeitimo įstatymas
 
 part_4b8b2e7bd9904401a7e1cf9ad664ef38_end
 
