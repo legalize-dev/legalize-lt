@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2022-05-28"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2022-05-28 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-24
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
 
@@ -779,6 +779,12 @@ Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
 4. Vartojimo ginčus nagrinėjančios institucijos vartojimo ginčus nagrinėja neatlygintinai.
 
 5. Šio įstatymo 23–29 straipsniai taikomi tik vartojimo ginčus nagrinėjančioms institucijoms.
+
+6. Vartojimo ginčus nagrinėjančios institucijos nagrinėja visus vartotojų reikalavimus, kylančius iš vartojimo teisinių santykių, dėl kurių gali būti sprendžiama teisme, įskaitant turtinės ir (ar) neturtinės žalos atlyginimo, taip pat netesybų klausimus. Sprendžiant turtinės ir (ar) neturtinės žalos atlyginimo klausimus, taikomos Civilinio kodekso nuostatos dėl civilinės atsakomybės.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1611, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25036
 
 23 straipsnis. Kreipimasis į vartojimo ginčus nagrinėjančias institucijas
 
