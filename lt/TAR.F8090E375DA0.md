@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2022-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-07-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 
@@ -1663,6 +1663,14 @@ Nr. XIV-909, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01408
 
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 9-2 straipsnio pakeitimo įstatymas
 
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1617, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25041
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 19-1 straipsnio pakeitimo įstatymas
+
 91 straipsnis. Tabako gaminių gamybos, neapdoroto tabako ir tabako gaminių realizavimo ataskaitos
 
 1. Tabako gaminių gamintojai kas ketvirtį iki kito ketvirčio pirmojo mėnesio 10 dienos Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui tabako gaminių gamybos ir realizavimo per ketvirtį ataskaitą.
@@ -2187,7 +2195,11 @@ Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 
 191 straipsnis. Privalomųjų nurodymų skyrimo vidaus ir tarpvalstybinės nuotolinės prekybos tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais ir draudžiamos reklamos atvejais vykdymo tvarka
 
-1. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių reklama ar vykdoma vidaus ir tarpvalstybinė nuotolinė prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais, turi teisę duoti privalomuosius nurodymus informacijos prieglobos paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo saugomą informaciją, naudojamą tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių reklamai ar vykdomai vidaus ir tarpvalstybinei nuotolinei prekybai tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais, arba panaikinti galimybę tokią informaciją pasiekti.
+1. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių reklama ar vykdoma vidaus ir tarpvalstybinė nuotolinė prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais, turi teisę duoti privalomuosius nurodymus informacijos prieglobos paslaugų teikėjui ir (ar) viešojo elektroninių ryšių tinklo paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo ir (ar) viešojo elektroninių ryšių tinklo paslaugų teikėjo saugomą informaciją, naudojamą tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių reklamai ar vykdomai vidaus ir tarpvalstybinei nuotolinei prekybai tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais, arba panaikinti galimybę pasiekti tokią informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1617, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25041
 
 2. Narkotikų, tabako ir alkoholio kontrolės departamentas, siekdamas atlikti šio straipsnio 1 dalyje nurodytus veiksmus, privalo Vilniaus apygardos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, o jeigu tokio asmens vardo, pavardės arba pavadinimo neįmanoma nustatyti ar šių duomenų nustatymas reikalauja neproporcingai daug sąnaudų, turi būti nurodytas asmens (asmenų), kurių naudai arba interesais skleidžiama tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių reklama ar vykdoma tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių nuotolinė prekyba, pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Vilniaus apygardos administracinis teismas išnagrinėja prašymą išduoti leidimą atlikti veiksmus ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo momento. Jeigu Narkotikų, tabako ir alkoholio kontrolės departamentas nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, jis turi teisę per 7 darbo dienas nuo tokios nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus ne vėliau kaip per 7 darbo dienas nuo skundo priėmimo dienos. Narkotikų, tabako ir alkoholio kontrolės departamento atstovas turi teisę dalyvauti nagrinėjant skundą, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
 
