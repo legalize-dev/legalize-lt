@@ -4,7 +4,7 @@ identifier: "TAR.7E6F5E3523EA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-10-26"
-last_updated: "2020-09-01"
+last_updated: "2023-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E6F5E3523EA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos triukšmo valdymo įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2023-01-01
+Suvestinė redakcija nuo 2023-01-02
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 164-5971, i. k. 1041010ISTA0IX-2499
 
@@ -348,17 +348,21 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 
-2) sudaro ir tvarko ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius ir Vyriausybės nustatyta tvarka įgyvendina ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos ir mažinimo priemones;
+2) sudaro ir tvarko ne aglomeracijose esančių pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius ir Vyriausybės nustatyta tvarka įgyvendina ne aglomeracijose esančių pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos ir mažinimo priemones;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 
-3) nustato pavaldžių viešojo administravimo institucijų ir įmonių, kurių savininko teises ir pareigas įgyvendina, kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama;
+Nr. XIV-694, 2021-11-23, paskelbta TAR 2021-12-02, i. k. 2021-25032
+
+3) nustato pavaldžių viešojo administravimo subjektų, įmonių, kurių savininko teises ir pareigas įgyvendina, ir akcinės bendrovės Lietuvos automobilių kelių direkcijos kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-3091, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13969
+
+Nr. XIV-694, 2021-11-23, paskelbta TAR 2021-12-02, i. k. 2021-25032
 
 4) kartu su Aplinkos ministerija rengia ir tvirtina orlaivių triukšmo ribojimo taisykles;
 
@@ -600,7 +604,11 @@ strateginis triukšmo kartografavimas IR PREVENCIJOS PRIEMONIŲ PLANAVIMAS
 
 4) triukšmo veikiamoje zonoje gyvenančių žmonių, ugdomų mokinių, stacionarinėse asmens sveikatos priežiūros įstaigose gydomų pacientų skaičių.
 
-4. Aglomeracijų strateginius triukšmo žemėlapius, aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius sudaro savivaldybių, kuriose yra aglomeracijų, vykdomosios institucijos, kiti joms pavaldūs viešojo administravimo subjektai. Ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius sudaro Susisiekimo ministerija.
+4. Aglomeracijų strateginius triukšmo žemėlapius, aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius sudaro savivaldybių, kuriose yra aglomeracijų, vykdomosios institucijos, kiti joms pavaldūs viešojo administravimo subjektai. Ne aglomeracijose esančių pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius sudaro Susisiekimo ministerija, o ne aglomeracijose esančių pagrindinių kelių ruožų – akcinė bendrovė Lietuvos automobilių kelių direkcija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-694, 2021-11-23, paskelbta TAR 2021-12-02, i. k. 2021-25032
 
 5. Sudarant aglomeracijų strateginius triukšmo žemėlapius, aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius įvertinami šalia aglomeracijų esantys triukšmo šaltiniai, jeigu šių triukšmo šaltinių skleidžiamas triukšmas daro įtaką aglomeracijų akustinei aplinkai.
 
@@ -626,11 +634,13 @@ Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 
 1) savivaldybių, kuriose yra aglomeracijų, tarybų tvirtinamus aglomeracijų triukšmo prevencijos veiksmų planus;
 
-2) Vyriausybės nustatyta tvarka Susisiekimo ministerijos ar jos įgaliotų pavaldžių įstaigų ir įmonių, kurių savininko teises ir pareigas įgyvendina, tvirtinamus ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos veiksmų planus.
+2) Vyriausybės nustatyta tvarka Susisiekimo ministerijos, jos įgaliotų viešojo administravimo subjektų, įmonių, kurių savininko teises ir pareigas įgyvendina, ar akcinės bendrovės Lietuvos automobilių kelių direkcijos tvirtinamus ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos veiksmų planus.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-3091, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13969
+
+Nr. XIV-694, 2021-11-23, paskelbta TAR 2021-12-02, i. k. 2021-25032
 
 2. Šio straipsnio 1 dalyje nurodyti triukšmo prevencijos veiksmų planai Vyriausybės nustatyta tvarka sudaromi ir patvirtinami ne rečiau kaip kas penkerius metus. Triukšmo prevencijos veiksmų planai sudaromi ir patvirtinami ne anksčiau negu strateginiai triukšmo žemėlapiai.
 
@@ -955,4 +965,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3091, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13969
 
 Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 9 ir 18 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-694, 2021-11-23, paskelbta TAR 2021-12-02, i. k. 2021-25032
+
+Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 9, 17 ir 18 straipsnių pakeitimo įstatymas
 
