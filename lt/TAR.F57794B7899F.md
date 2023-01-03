@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2023-01-01"
+last_updated: "2023-01-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-01-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -3998,13 +3998,21 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
-12. Ūkininkų ūkių registre įregistruotiems ūkininkų ūkiams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus yra lygus 14 ekonominio dydžio vienetų arba mažesnis, taikomos tokios pačios elektros energijos kainos ir tarifai, kaip buitiniams vartotojams.
+12. Ūkininkų ūkių registre įregistruotiems ūkininkų ūkiams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus yra lygus 14 ekonominio dydžio vienetų arba mažesnis, taikomos tokios pačios elektros energijos kainos ir tarifai kaip buitiniams vartotojams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1297, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15626
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
-13. Žemės ūkio veiklos subjektams, kurių žemės ūkio valdos įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre ir kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus yra didesnis negu 14 ekonominio dydžio vienetų, ir pripažintoms žemės ūkio kooperatinėms bendrovėms (kooperatyvams), gaunančioms (gaunantiems) elektros energiją iš žemos įtampos elektros tinklų, atitinkamo tarifo galios dedamoji taikoma tik rugpjūčio, rugsėjo ir spalio mėnesiais.
+13. Žemės ūkio veiklos subjektams, kurių žemės ūkio valdos įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre ir kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus yra didesnis negu 14 ekonominio dydžio vienetų, ir pripažintoms žemės ūkio kooperatinėms bendrovėms (kooperatyvams), gaunančioms (gaunantiems) elektros energiją iš žemos įtampos elektros tinklų, atitinkamo tarifo galios dedamoji taikoma tik rugpjūčio, rugsėjo ir spalio mėnesiais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1297, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15626
 
 Straipsnio dalies numeracijos pakeitimas:
 
