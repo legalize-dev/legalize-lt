@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2023-01-02"
+last_updated: "2023-01-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-02 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
@@ -137,19 +137,37 @@ Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
 
 20) mokesčiams už Lietuvos Respublikoje įregistruotas krovinines transporto priemones, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, už eismo ribojimą administruoti ir jų surinkimo priežiūrai atlikti;
 
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
+
 21) Kelių muziejui ir kelių srities istorinėms vertybėms išlaikyti, įsigyti ir eksponuoti;
 
 22) saugaus eismo keliuose programoms ir jų priemonėms įgyvendinti (tarp jų keliuose įrengtai stacionariajai Kelių eismo taisyklių pažeidimų fiksavimo įrangai prižiūrėti, gaunamai informacijai apdoroti ir kitoms saugaus eismo programoms įgyvendinti, naudojant lėšas iš sumokėtų ar išieškotų baudų už stacionariąja Kelių eismo taisyklių pažeidimų fiksavimo įranga užfiksuotus administracinius nusižengimus);
 
 23) viešosios įstaigos Centrinės projektų valdymo agentūros (toliau – CPVA) veiklai, susijusiai su Programos lėšų, skiriamų valstybinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, priežiūra, užtikrinti;
 
-24) Lietuvos transporto saugos administracijos veiklai, susijusiai su eismo dalyvių švietimu eismo saugumo srityje;
+24) Lietuvos transporto saugos administracijos veiklai, apimančiai eismo dalyvių švietimą eismo saugumo srityje, viešojo transporto informacijai apdoroti, viešojo transporto kelionių duomenų ir transporto įvykių informacinėms sistemoms palaikyti ir tobulinti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
 
 25) Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos gaunamai informacijai apdoroti, organizacinėms ir eksploatacinėms išlaidoms padengti, saugaus eismo programoms ir jų priemonėms įgyvendinti;
 
 26) Informatikos ir ryšių departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos informacijai apdoroti ir Administracinių nusižengimų registrui palaikyti ir tobulinti;
 
-27) kitoms kelių srities reikmėms finansuoti.
+27) akcinės bendrovės „Kelių priežiūra“ atliekamai valstybinės reikšmės kelių tinklo priežiūrai;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
+
+28) kitoms kelių srities reikmėms finansuoti.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
 
 2. Programos finansavimo lėšos naudojamos savivaldybių ar viešųjų įstaigų, kurių dalininkė yra savivaldybė, savivaldybių įmonių valdomam vietinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra:
 
@@ -185,17 +203,27 @@ Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
 
 16) valstybinėje ir savivaldybių žemėje daugiabučių namų kiemų vidaus kelių (gatvių) ir daugiabučių namų gyventojų automobilių stovėjimo aikštelėms įrengti, rekonstruoti, taisyti (remontuoti)  ir prižiūrėti, neatsižvelgiant į tai, ar atlikta šių inžinerinių statinių teisinė registracija.
 
-3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina valstybės įmonė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą vykdo CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija.
+3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina akcinė bendrovė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą atlieka CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija.
 
-4. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina akcinė bendrovė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą vykdo CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija. Susisiekimo ministras kiekvienais metais atsiskaito Seimui už Programos finansavimo lėšų panaudojimą.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
+
+4. Programos finansavimo lėšos naudojamos pagal per vieną mėnesį nuo valstybės biudžeto patvirtinimo Vyriausybės patvirtintą 3 metų Programos finansavimo lėšų naudojimo sąmatą, kuri rengiama vadovaujantis Susisiekimo ministerijos strateginiu veiklos planu. Iki 3 metų Programos finansavimo lėšų naudojimo sąmatos laikotarpio pirmųjų metų pabaigos akcinė bendrovė Lietuvos automobilių kelių direkcija ir savivaldybių institucijos gali pasirašyti sutarčių dėl antraisiais ir trečiaisiais metais planuojamo šio straipsnio 1 ir 2 dalyse numatytų veiklų finansavimo ne didesnei kaip 80 procentų atitinkamų metų Programos finansavimo lėšų sumai. 3 metų Programos finansavimo lėšų naudojimo sąmata sudaroma ir vykdoma Vyriausybės nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
 
+Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
+
 5. Trejų metų Programos finansavimo lėšų naudojimo sąmatoje šio straipsnio 1 dalyje nustatytoms veikloms numatoma 67 procentai Programos finansavimo lėšų.
 
-6. Trejų metų Programos finansavimo lėšų naudojimo sąmatoje šio straipsnio 2 dalyje nustatytoms veikloms, taip pat skoloms (jeigu jų yra) sumokėti ir išlaidoms kompensuoti, kai deklaruojamos patirtos ir apmokėtos išlaidos už praėjusiais finansiniais metais atliktus darbus ir suteiktas paslaugas, kurių vertė neviršijo praėjusiais finansiniais metais planuotų asignavimų, numatoma 33 procentai Programos finansavimo lėšų, iš kurių iki 9 procentų Vyriausybės nustatyta tvarka paskirstoma atrinktiems valstybei svarbiems vietinės reikšmės kelių objektams finansuoti, likusi dalis, ne mažiau kaip 91 procentas,  valstybės įmonės Lietuvos automobilių kelių direkcijos paskirstoma taip:
+6. 3 metų Programos finansavimo lėšų naudojimo sąmatoje šio straipsnio 2 dalyje nustatytoms veikloms, taip pat skoloms (jeigu jų yra) sumokėti ir išlaidoms kompensuoti, kai deklaruojamos patirtos ir apmokėtos išlaidos už praėjusiais finansiniais metais atliktus darbus ir suteiktas paslaugas, kurių vertė neviršijo praėjusiais finansiniais metais planuotų asignavimų, numatoma 33 procentai Programos finansavimo lėšų, iš kurių iki 9 procentų Vyriausybės nustatyta tvarka paskirstoma atrinktiems valstybei svarbiems vietinės reikšmės kelių objektams finansuoti, likusi dalis, ne mažiau kaip 91 procentas, akcinės bendrovės Lietuvos automobilių kelių direkcijos paskirstoma taip:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
 
 1) vietinės reikšmės keliams Birštono, Druskininkų, Palangos miesto ir Neringos savivaldybėse – 2 procentai, iš kurių 50 procentų šioms savivaldybėms paskirstoma po lygiai ir 50 procentų – pagal per paskutinius 12 mėnesių suteiktų nakvynių apgyvendinimo įstaigose skaičių (vadovaujamasi Lietuvos statistikos departamento duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.); lėšos paskirstomos toms savivaldybėms, kurių savivaldybių tarybos, vadovaudamosi Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymu, patvirtino savivaldybės infrastruktūros plėtros įmokos tarifą (tarifus);
 
@@ -218,6 +246,10 @@ TAR pastaba. 9 straipsnio 8 dalis įsigalioja 2022-03-01.
 3) Klaipėdos miesto savivaldybės tarnybinių transporto priemonių, valstybės tarnautojų ir darbuotojų, atliekančių tarnybines funkcijas ir dirbančių darbus Klaipėdos miesto dalyje Smiltynėje;
 
 4) tolimojo, vietinio (miesto) reguliaraus susisiekimo autobusų, dviračių, autocisternų, kuriomis vežami degalai į Kuršių neriją, ir transporto priemonių, kuriomis gabenamas biokuras į Kuršių neriją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
 
 5) juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę, transporto priemonių ir darbuotojų;
 
@@ -341,7 +373,7 @@ Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 
 Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
 
-part_3f4e8bc7ab024a1f8c73627ed074dafa_end
+part_00399d8819344d679ac3ed4162be44bb_end
 
 Lietuvos Respublikos
 
