@@ -4,7 +4,7 @@ identifier: "TAR.FFF9AE9162EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-13"
-last_updated: "2023-01-01"
+last_updated: "2023-01-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-10-03
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
 
@@ -342,11 +342,23 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 5) nesumokėjus mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų, jie neregistruojami Registre ir nekeičiami Registro duomenys;
 
-6) mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiavimo ir sumokėjimo kontrolę vykdo valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras;
+6) mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiavimo ir sumokėjimo fakto patikrinimą vykdo valstybės įmonė Žemės ūkio duomenų centras;
 
-7) Valstybinė mokesčių inspekcija ir valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras keičiasi mokesčiui administruoti reikalinga informacija. Keitimosi mokesčiui administruoti reikalinga informacija tvarką nustato Lietuvos Respublikos žemės ūkio ministras, suderinęs su Valstybine mokesčių inspekcija;
+Straipsnio punkto pakeitimai:
 
-8) valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro sprendimai dėl mokesčio apskaičiavimo ir sumokėjimo privaloma ikiteismine tvarka nagrinėjami Mokestinių ginčų komisijoje prie Lietuvos Respublikos Vyriausybės. Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės sprendimai gali būti skundžiami teismui.
+Nr. XIV-1301, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15628
+
+7) Valstybinė mokesčių inspekcija ir valstybės įmonė Žemės ūkio duomenų centras keičiasi mokesčiui administruoti reikalinga informacija. Keitimosi mokesčiui administruoti reikalinga informacija tvarką nustato žemės ūkio ministras, suderinęs su Valstybine mokesčių inspekcija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1301, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15628
+
+8) valstybės įmonės Žemės ūkio duomenų centro sprendimai dėl mokesčio apskaičiavimo ir sumokėjimo privaloma ikiteismine tvarka nagrinėjami Mokestinių ginčų komisijoje prie Lietuvos Respublikos Vyriausybės. Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės sprendimai gali būti skundžiami teismui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1301, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15628
 
 6. Aplinkos ministras ir Valstybinės mokesčių inspekcijos viršininkas tvirtina mokesčio už aplinkos teršimą, išskyrus mokestį už žemės ūkio veiklai naudojamus ne keliais judančius mechanizmus, deklaracijų formas ir jų pildymo taisykles.
 
@@ -630,8 +642,6 @@ V
 
 *Išskyrus kietąsias daleles, susidarančias deginant kietąjį, skystąjį arba dujinį kurą ar atliekas, ir asbesto turinčias kietąsias daleles
 
-part_64b20b42a3994d8296e6df2ae3420698_end
-
 Lietuvos Respublikos
 
 mokesčio už aplinkos teršimą įstatymo
@@ -820,8 +830,6 @@ V
 
 *Išskyrus kietąsias daleles, susidarančias deginant kietąjį, skystąjį arba dujinį kurą ar atliekas, ir asbesto turinčias kietąsias daleles
 
-part_ac7f283fff1f4e42b425b8fc2202b60f_end
-
 Lietuvos Respublikos
 
 mokesčio už aplinkos teršimą įstatymo
@@ -897,8 +905,6 @@ ex 8708 80
 *Prekių kodai pateikti pagal Kombinuotąją nomenklatūrą, patvirtintą 2016 m. spalio 6 d. Komisijos įgyvendinimo reglamentu (ES) 2016/1821, kuriuo iš dalies keičiamas Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo I priedas, su paskutiniais pakeitimais, padarytais 2017 m. spalio 12 d. Komisijos įgyvendinimo reglamentu (ES) 2017/1925, kuriuo iš dalies keičiamas Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo I priedas.
 
 Pastaba. Prie kodo nurodomas raidžių junginys ex reiškia, kad apmokestinami tik tie atitinkamam Kombinuotosios nomenklatūros kodui priskiriami gaminiai, kurie atitinka lentelės pirmoje skiltyje pateiktų atitinkamų gaminių aprašymą
-
-part_500a7312b06547b68fb428b62bd39226_end
 
 Lietuvos Respublikos
 
@@ -984,8 +990,6 @@ Kita pakuotė
 
 423
 
-part_5eef261172b3472c88060da358d7d974_end
-
 Lietuvos Respublikos
 
 mokesčio už aplinkos teršimą įstatymo
@@ -1057,8 +1061,6 @@ už vieną kilimo ir tūpimo ciklą
 žibalas arba kita
 
 10
-
-part_a9930827f74b4791aebfcbc7b5ebeda8_end
 
 Lietuvos Respublikos
 
@@ -1170,8 +1172,6 @@ iki
 
 600
 
-part_810028c8174140a383b0c91a34069789_end
-
 Lietuvos Respublikos
 
 mokesčio už aplinkos teršimą įstatymo
@@ -1201,8 +1201,6 @@ Koeficientas
 3. Geležinkelių ir vidaus vandenų transporto priemonės, pagamintos daugiau kaip prieš 10 metų
 
 1,2
-
-part_06ab14dfcbfc48c78ecab97b3d1c6c02_end
 
 Lietuvos Respublikos
 
@@ -1238,8 +1236,6 @@ Priedo pakeitimai:
 
 Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
-part_9d0eef981d594542b105fe1c9d1ef6b9_end
-
 Lietuvos Respublikos
 
 mokesčio už aplinkos teršimą įstatymo
@@ -1251,8 +1247,6 @@ mokesčio už aplinkos teršimą įstatymo
 1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/852.
 
 2. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/849.
-
-part_e2ff6104f8b348f5903444d193916016_end
 
 Pakeitimai:
 
