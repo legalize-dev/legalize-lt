@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2023-01-02"
+last_updated: "2023-01-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2023-01-02 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-01-03
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -209,7 +209,11 @@ Nr. X-982, 2006-12-14, Žin., 2006, Nr. 138-5268 (2006-12-19)
 
 3) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė yra priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui arba kai valstybinė žemė, kuri gali būti parduodama, priskirta parduodamam valstybės arba savivaldybės nekilnojamajam turtui, arba kai valstybinė žemė yra reikalinga administracinės paskirties valstybės nekilnojamojo turto atnaujinimo projektams įgyvendinti;
 
-4) valstybės įmonė Valstybės žemės fondas (toliau – Valstybės žemės fondas) – valstybinės žemės sklypų, šio Įstatymo nustatyta tvarka priskirtų žemės konsolidacijos projekto teritorijai, išskyrus šiai teritorijai priskirtus valstybinės žemės sklypus, perduotus kitiems valstybinės žemės patikėtiniams, taip pat įstatymų nustatyta tvarka iš privačių asmenų įsigytų valstybės nuosavybėn žemės sklypų, reikalingų Valstybės žemės fondo administruojamoms valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms priemonėms, gerinančioms žemės valdų struktūras ir mažinančioms apleistos žemės plotus, įgyvendinti;
+4) valstybės įmonė Žemės ūkio duomenų centras – valstybinės žemės sklypų, šio Įstatymo nustatyta tvarka priskirtų žemės konsolidacijos projekto teritorijai, išskyrus šiai teritorijai priskirtus valstybinės žemės sklypus, perduotus kitiems valstybinės žemės patikėtiniams, taip pat įstatymų nustatyta tvarka iš privačių asmenų įsigytų valstybės nuosavybėn žemės sklypų, reikalingų valstybės įmonės Žemės ūkio duomenų centro administruojamoms valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms priemonėms, gerinančioms žemės valdų struktūras ir mažinančioms apleistos žemės plotus, įgyvendinti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 5) kiti šio straipsnio 3 dalyje nurodyti subjektai;
 
@@ -533,7 +537,11 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 13 straipsnis. Laisvos valstybinės žemės fondo tvarkymas
 
-1. Laisvos valstybinės žemės fondą šio Įstatymo ir Vyriausybės nustatyta tvarka tvarko Nacionalinė žemės tarnyba ir kiti valstybinės žemės patikėtiniai, jiems perduotus valstybinės žemės sklypus, taip pat šio Įstatymo nustatytais atvejais – Valstybės žemės fondas.
+1. Laisvos valstybinės žemės fondą šio Įstatymo ir Vyriausybės nustatyta tvarka tvarko Nacionalinė žemės tarnyba ir kiti valstybinės žemės patikėtiniai, jiems perduotus valstybinės žemės sklypus, taip pat šio Įstatymo nustatytais atvejais – valstybės įmonė Žemės ūkio duomenų centras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 2. Laisvos valstybinės žemės fondo žemė perleidžiama nuosavybėn, perduodama naudotis ar išnuomojama, atlikus būtinus teritorijų planavimo, žemės tvarkymo darbus, nustačius žemės sklypų pagrindinę naudojimo paskirtį, naudojimo būdą, nurodžius Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytas teritorijas, į kurias patenka šie žemės sklypai, ir suformuotus žemės sklypus įregistravus Nekilnojamojo turto registre Civilinio kodekso, šio Įstatymo ir kitų įstatymų nustatyta tvarka.
 
@@ -1019,7 +1027,11 @@ Straipsnio pakeitimai:
 
 Nr. XI-912, 2010-06-18, Žin., 2010, Nr. 72-3616 (2010-06-22)
 
-32 straipsnis. Valstybės, savivaldybių institucijų ir Valstybės žemės fondo kompetencija reguliuojant žemės santykius
+32 straipsnis. Valstybės, savivaldybių institucijų ir valstybės įmonės Žemės ūkio duomenų centro kompetencija reguliuojant žemės santykius
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 1. Vyriausybė:
 
@@ -1057,17 +1069,23 @@ Nr. XIV-1536, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24184
 
 1) įgyvendina valstybės politiką žemės tvarkymo ir administravimo, žemės reformos, žemėtvarkos planavimo srityje;
 
-2) atlieka žemės reformos darbų užsakovo funkcijas, administruoja valstybės biudžeto lėšas, skirtas žemės reformai, žemės tvarkymo ir administravimo darbams vykdyti, duomenims apie šalies žemės fondo būklę rengti, žemės informacinei sistemai tvarkyti;
+2) atlieka žemės reformos darbų užsakovo funkcijas, administruoja valstybės biudžeto lėšas, skirtas žemės reformai, žemės tvarkymo ir administravimo darbams vykdyti, duomenims apie Lietuvos Respublikos žemės fondo būklę rengti, žemės išteklių naudojimo stebėsenai vykdyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 3) parduoda valstybinės žemės sklypus, išskyrus valstybinės žemės sklypus, priskirtus įstatymų nustatyta tvarka parduodamam valstybei arba savivaldybei nuosavybės teise priklausančiam nekilnojamajam turtui, ir žemės sklypus, perduodamus neatlygintinai savivaldybių nuosavybėn;
 
 4) perduoda neatlygintinai naudotis arba išnuomoja valstybinės žemės sklypus, išskyrus žemės sklypus, kuriuos šio ir kitų įstatymų nustatytais atvejais ir tvarka turi teisę išnuomoti ir perduoti neatlygintinai naudotis kiti valstybinės žemės patikėtiniai;
 
-5) veikia valstybės vardu valstybei paveldint ir įsigyjant privačią žemę valstybės nuosavybėn, išskyrus atvejus, kai centralizuotai valdomo valstybės turto valdytojas veikia valstybės vardu įsigyjant privačią žemę valstybės nuosavybėn Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatyto administracinės paskirties valstybės nekilnojamojo turto atnaujinimo projektams įgyvendinti, ir šio Įstatymo nustatytus atvejus, kai valstybės vardu paveldint ar kitaip įsigyjant privačią žemę valstybės nuosavybėn valstybės vardu veikia Valstybės žemės fondas;
+5) veikia valstybės vardu valstybei paveldint ir įsigyjant privačią žemę valstybės nuosavybėn, išskyrus atvejus, kai centralizuotai valdomo valstybės turto valdytojas veikia valstybės vardu įsigyjant privačią žemę valstybės nuosavybėn Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatyto administracinės paskirties valstybės nekilnojamojo turto atnaujinimo projektams įgyvendinti, ir šio Įstatymo nustatytus atvejus, kai valstybės vardu paveldint ar kitaip įsigyjant privačią žemę valstybės nuosavybėn valstybės vardu veikia valstybės įmonė Žemės ūkio duomenų centras;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 6) įstatymų ir kitų teisės aktų nustatyta tvarka ir atvejais organizuoja valstybės lygmens žemėtvarkos schemų ir žemės reformos žemėtvarkos projektų rengimą, taip pat kontroliuoja planuojamų darbų, susijusių su žemės naudmenų būklės ir žemės naudojimo sąlygų pakeitimu, derinimą su žemėtvarkos planavimo dokumentų sprendiniais;
 
@@ -1139,11 +1157,11 @@ Nr. XIII-971, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21730
 
 8) atlieka kitų įstatymų joms nustatytas funkcijas.
 
-5. Valstybės žemės fondas:
+5. Valstybės įmonė Žemės ūkio duomenų centras:
 
-1) rengia duomenis apie šalies žemės fondo būklę, vykdo žemės išteklių naudojimo stebėseną;
+1) rengia duomenis apie Lietuvos Respublikos žemės fondo būklę, vykdo žemės išteklių naudojimo stebėseną;
 
-2) tvarko Lietuvos Respublikos žemės informacinę sistemą;
+2) užtikrina nepertraukiamą žemės informacinės sistemos veiklą;
 
 3) teisės aktų nustatyta tvarka įgyvendina valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamas priemones, gerinančias žemės valdų struktūras ir mažinančias apleistos žemės plotus;
 
@@ -1152,6 +1170,10 @@ Nr. XIII-971, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21730
 5) veikia valstybės vardu valstybei paveldint ir įsigyjant valstybės nuosavybėn privačios žemės sklypus, priskirtus žemės konsolidacijos projekto teritorijai, taip pat įsigyjant valstybės nuosavybėn privačios žemės sklypus, reikalingus valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti;
 
 6) vykdo valstybinės žemės sklypų pardavimo ir nuomos aukcionus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 Straipsnio pakeitimai:
 
@@ -1193,7 +1215,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
 
-2. Žemės informacinę sistemą valdo Nacionalinė žemės tarnyba, tvarko – Valstybės žemės fondas.
+2. Neteko galios nuo 2023-01-03
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 3. Žemės informacinės sistemos tvarkomų duomenų turinys, apimtis, duomenų įrašymo, tvarkymo ir teikimo tvarka nustatomi Nacionalinės žemės tarnybos patvirtintuose Žemės informacinės sistemos nuostatuose.
 
@@ -1205,7 +1231,11 @@ Nr. XI-912, 2010-06-18, Žin., 2010, Nr. 72-3616 (2010-06-22)
 
 35 straipsnis. Žemės išteklių naudojimo stebėsena (monitoringas)
 
-1. Pagrindinis žemės išteklių stebėsenos tikslas – sistemingai stebėti, analizuoti ir prognozuoti šalies žemės išteklių naudojimo būklę, nustatyti pokyčius dėl antropogeninio poveikio, pagrįsti racionalaus žemės naudojimo ir aplinkos gerinimo priemones, įvertinti žemės tvarkymo ir administravimo priemonių veiksmingumą ir teikti reikiamą statistinę informaciją apie žemės naudojimą bei žemės išteklių būklę.
+1. Pagrindinis žemės išteklių stebėsenos tikslas – sistemingai stebėti, analizuoti ir prognozuoti Lietuvos Respublikos žemės išteklių naudojimo būklę, nustatyti pokyčius dėl antropogeninio poveikio, pagrįsti racionalaus žemės naudojimo ir aplinkos gerinimo priemones, įvertinti žemės tvarkymo ir administravimo priemonių veiksmingumą ir teikti reikiamą statistinę informaciją apie žemės naudojimą bei žemės išteklių būklę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 2. Žemės išteklių naudojimo stebėsena susideda iš:
 
@@ -1215,7 +1245,11 @@ Nr. XI-912, 2010-06-18, Žin., 2010, Nr. 72-3616 (2010-06-22)
 
 3) žemės naudmenų melioracinės būklės stebėsenos.
 
-3. Žemės išteklių naudojimo stebėseną organizuoja Nacionalinė žemės tarnyba, o vykdo Valstybės žemės fondas.
+3. Žemės išteklių naudojimo stebėseną organizuoja Nacionalinė žemės tarnyba, o vykdo valstybės įmonė Žemės ūkio duomenų centras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 4. Žemės naudojimo ir žemės dangos būklė analizuojama naujausioje kartografinėje ir geoinformacinėje medžiagoje, panaudojant žemės informacinės sistemos, kitų gamtos išteklių kadastrų ir registrų duomenis, kompleksinės aplinkos stebėsenos ir kitų stebėsenų medžiagą.
 
@@ -1797,9 +1831,9 @@ IX skyrius
 
 49 straipsnis. Žemės konsolidacijos projektų parengiamieji darbai
 
-1. Žemės konsolidacijos projektai rengiami tik kaimo gyvenamosiose vietovėse. Žemės konsolidacijos projektų rengimą organizuoja Valstybės žemės fondas. Žemės konsolidacijos projektas gali būti rengiamas tik tose kadastro vietovėse, kurias apima patvirtintas savivaldybės ar jos dalies bendrasis planas.
+1. Žemės konsolidacijos projektai rengiami tik kaimo gyvenamosiose vietovėse. Žemės konsolidacijos projektų rengimą organizuoja valstybės įmonė Žemės ūkio duomenų centras. Žemės konsolidacijos projektas gali būti rengiamas tik tose kadastro vietovėse, kurias apima patvirtintas savivaldybės ar jos dalies bendrasis planas.
 
-2. Prašymus rengti žemės konsolidacijos projektą žemės savininkai, savivaldybės taryba, valstybinės žemės patikėtiniai paduoda Valstybės žemės fondui. Nustatęs, kad rengti projektą pageidauja ne mažiau kaip 5 žemės sklypų, esančių vienoje arba keliose bendrą ribą turinčiose kadastro vietovėse, ne mažiau kaip 5 savininkai, savivaldybės taryba ar valstybinės žemės patikėtiniai, Valstybės žemės fondas numato preliminarią teritoriją žemės konsolidacijos projektui rengti, nustato šioje teritorijoje esančių žemės sklypų savininkus, valstybinės žemės patikėtinius bei kitus naudotojus ir organizuoja šios vietovės žemės savininkų bei savivaldybės tarybos ir valstybinės žemės patikėtinių susirinkimą. Į susirinkimą žemės savininkai, savivaldybės tarybos ir valstybinės žemės patikėtinių įgalioti asmenys kviečiami raštu ne vėliau kaip prieš 10 dienų iki susirinkimo dienos. Konsoliduojami tik tie valstybinės žemės sklypai, kurie ribojasi su prašymus rengti žemės konsolidacijos projektą pateikusių privačios žemės savininkų ir (ar) savivaldybės žemės sklypais arba kurie yra greta tokių žemės sklypų ir juos skiria tik keliai, grioviai ar kanalai. Susirinkime:
+2. Prašymus rengti žemės konsolidacijos projektą žemės savininkai, savivaldybės taryba, valstybinės žemės patikėtiniai paduoda valstybės įmonei Žemės ūkio duomenų centrui. Nustačiusi, kad rengti projektą pageidauja ne mažiau kaip 5 žemės sklypų, esančių vienoje arba keliose bendrą ribą turinčiose kadastro vietovėse, ne mažiau kaip 5 savininkai, savivaldybės taryba ar valstybinės žemės patikėtiniai, valstybės įmonė Žemės ūkio duomenų centras numato preliminarią teritoriją žemės konsolidacijos projektui rengti, nustato šioje teritorijoje esančių žemės sklypų savininkus, valstybinės žemės patikėtinius bei kitus naudotojus ir organizuoja šios vietovės žemės savininkų bei savivaldybės tarybos ir valstybinės žemės patikėtinių susirinkimą. Į susirinkimą žemės savininkai, savivaldybės tarybos ir valstybinės žemės patikėtinių įgalioti asmenys kviečiami raštu ne vėliau kaip prieš 10 dienų iki susirinkimo dienos. Konsoliduojami tik tie valstybinės žemės sklypai, kurie ribojasi su prašymus rengti žemės konsolidacijos projektą pateikusių privačios žemės savininkų ir (ar) savivaldybės žemės sklypais arba kurie yra greta tokių žemės sklypų ir juos skiria tik keliai, grioviai ar kanalai. Susirinkime:
 
 1) pagrindžiamas žemės konsolidacijos projekto rengimo poreikis;
 
@@ -1809,29 +1843,29 @@ IX skyrius
 
 4) išrenkami asmenys, susirinkimo įgalioti spręsti žemės konsolidacijos projekto rengimo organizacinius klausimus.
 
-3. Jeigu Valstybės žemės fondo numatytoje preliminarioje teritorijoje žemės konsolidacijos projektui rengti nėra valstybinės ir savivaldybės žemės sklypų, susirinkimo sprendimai teisėti, kai jame dalyvauja ne mažiau kaip du trečdaliai žemės sklypų, numatomų įtraukti į teritoriją žemės konsolidacijos projektui rengti, savininkų ir šiems sprendimams pritaria ne mažiau kaip pusė susirinkime dalyvavusių žemės savininkų. Žemės sklypo bendraturčiai balsuodami susirinkime turi vieną balsą. Žemės savininkas, turintis kelis žemės sklypus, priklausančius nuosavybės teise jam vienam ir (ar) kartu su kitais bendraturčiais, balsuodamas susirinkime turi vieną balsą.
+3. Jeigu valstybės įmonės Žemės ūkio duomenų centro numatytoje preliminarioje teritorijoje žemės konsolidacijos projektui rengti nėra valstybinės ir savivaldybės žemės sklypų, susirinkimo sprendimai teisėti, kai jame dalyvauja ne mažiau kaip du trečdaliai žemės sklypų, numatomų įtraukti į teritoriją žemės konsolidacijos projektui rengti, savininkų ir šiems sprendimams pritaria ne mažiau kaip pusė susirinkime dalyvavusių žemės savininkų. Žemės sklypo bendraturčiai balsuodami susirinkime turi vieną balsą. Žemės savininkas, turintis kelis žemės sklypus, priklausančius nuosavybės teise jam vienam ir (ar) kartu su kitais bendraturčiais, balsuodamas susirinkime turi vieną balsą.
 
-4. Kai kartu su privačios žemės sklypais į teritoriją žemės konsolidacijos projektui rengti numatoma įtraukti valstybinės ir savivaldybės žemės sklypus, susirinkimo sprendimai teisėti, jeigu jame dalyvauja Valstybės žemės fondo įgaliotas asmuo, numatomų konsoliduoti valstybinės žemės sklypų patikėtinių įgalioti asmenys, savivaldybės tarybos įgaliotas asmuo, jeigu numatoma konsoliduoti savivaldybės žemės sklypus, ir ne mažiau kaip du trečdaliai žemės savininkų ir sprendimams pritaria Valstybės žemės fondo įgaliotas asmuo, valstybinės žemės sklypų patikėtinių įgalioti asmenys ir savivaldybės tarybos įgaliotas asmuo bei ne mažiau kaip pusė susirinkime dalyvavusių žemės savininkų. Žemės sklypo bendraturčiai balsuodami susirinkime turi vieną balsą. Žemės savininkas, turintis kelis žemės sklypus, priklausančius nuosavybės teise jam vienam ir (ar) kartu su kitais bendraturčiais, balsuodamas susirinkime turi vieną balsą.
+4. Kai kartu su privačios žemės sklypais į teritoriją žemės konsolidacijos projektui rengti numatoma įtraukti valstybinės ir savivaldybės žemės sklypus, susirinkimo sprendimai teisėti, jeigu jame dalyvauja valstybės įmonės Žemės ūkio duomenų centro įgaliotas asmuo, numatomų konsoliduoti valstybinės žemės sklypų patikėtinių įgalioti asmenys, savivaldybės tarybos įgaliotas asmuo, jeigu numatoma konsoliduoti savivaldybės žemės sklypus, ir ne mažiau kaip du trečdaliai žemės savininkų ir sprendimams pritaria valstybės įmonės Žemės ūkio duomenų centro įgaliotas asmuo, valstybinės žemės sklypų patikėtinių įgalioti asmenys ir savivaldybės tarybos įgaliotas asmuo bei ne mažiau kaip pusė susirinkime dalyvavusių žemės savininkų. Žemės sklypo bendraturčiai balsuodami susirinkime turi vieną balsą. Žemės savininkas, turintis kelis žemės sklypus, priklausančius nuosavybės teise jam vienam ir (ar) kartu su kitais bendraturčiais, balsuodamas susirinkime turi vieną balsą.
 
-5. Atliekant žemės konsolidacijos projekto parengiamųjų darbų, projekto rengimo ir įgyvendinimo procedūras, taip pat sudarant žemės konsolidacijos sutartį, Valstybės žemės fondui atstovauja jo vadovas arba vadovo įgaliotas asmuo, kitiems valstybinės žemės patikėtiniams atstovauja jų įgalioti asmenys: valstybės tarnautojai arba, jeigu valstybinės žemės patikėtinis neturi valstybės tarnautojų, – kiti darbuotojai, o savivaldybėms – savivaldybės tarybos įgalioti asmenys, atliekantys savivaldybės vietos valdžios ir (ar) viešojo administravimo funkcijas: savivaldybės tarybos nariai, savivaldybės administracijos direktorius arba kiti savivaldybės administracijos valstybės tarnautojai.
+5. Atliekant žemės konsolidacijos projekto parengiamųjų darbų, projekto rengimo ir įgyvendinimo procedūras, taip pat sudarant žemės konsolidacijos sutartį, valstybės įmonei Žemės ūkio duomenų centrui atstovauja jo vadovas arba vadovo įgaliotas asmuo, kitiems valstybinės žemės patikėtiniams atstovauja jų įgalioti asmenys: valstybės tarnautojai arba, jeigu valstybinės žemės patikėtinis neturi valstybės tarnautojų, – kiti darbuotojai, o savivaldybėms – savivaldybės tarybos įgalioti asmenys, atliekantys savivaldybės vietos valdžios ir (ar) viešojo administravimo funkcijas: savivaldybės tarybos nariai, savivaldybės administracijos direktorius arba kiti savivaldybės administracijos valstybės tarnautojai.
 
-6. Po susirinkimo kiekvienas konsoliduoti žemės sklypus pageidaujantis žemės savininkas, savivaldybės taryba, jeigu numatoma konsoliduoti savivaldybės žemės sklypus, ir valstybinės žemės patikėtiniai, jeigu numatoma konsoliduoti valstybinės žemės sklypus, ne vėliau kaip per vieną mėnesį žemės konsolidacijos projekto rengimo organizatoriui Valstybės žemės fondui pateikia rašytinį sutikimą dalyvauti žemės konsolidacijos projekte, kurį rengiant ir įgyvendinant bus konsoliduojami sutikimą davusio asmens turimi žemės sklypai, nurodydamas numatomus konsoliduoti žemės sklypus, ir įsipareigojimą nepagrįsto atsisakymo ar vengimo dalyvauti žemės konsolidacijos projekte ir (ar) sudaryti žemės konsolidacijos sutartį atveju atlyginti išlaidas, susijusias su jo turimų žemės sklypų pertvarkymu rengiant ir įgyvendinant žemės konsolidacijos projektą, taip pat išlaidas, patirtas tikslinant žemės konsolidacijos projektą dėl nepagrįsto atsisakymo ar vengimo jame dalyvauti ir (ar) sudaryti žemės konsolidacijos sutartį. Tais atvejais, kai žemės sklypas priklauso keliems asmenims, sutikimą dalyvauti žemės konsolidacijos projekte turi duoti kiekvienas žemės sklypo bendraturtis. Nacionalinė žemės tarnyba vietoj sutikimo dalyvauti žemės konsolidacijos projekte Valstybės žemės fondui perduoda numatomų konsoliduoti jos patikėjimo teise valdomų valstybinės žemės sklypų sąrašą. Valstybės žemės fondas, patvirtinęs teritorijos žemės konsolidacijos projektui rengti ribas, nuo šio sprendimo priėmimo dienos įgyja patikėjimo teisę į Nacionalinės žemės tarnybos sąraše nurodytus valstybinės žemės sklypus ir per 5 darbo dienas pateikia prašymą Nekilnojamojo turto registro tvarkytojui įregistruoti šią teisę Nekilnojamojo turto registre. Nacionalinės žemės tarnybos patikėjimo teisė į šiuos valstybinės žemės sklypus pasibaigia nuo Valstybės žemės fondo sprendimo patvirtinti teritorijos žemės konsolidacijos projektui rengti ribas priėmimo.
+6. Po susirinkimo kiekvienas konsoliduoti žemės sklypus pageidaujantis žemės savininkas, savivaldybės taryba, jeigu numatoma konsoliduoti savivaldybės žemės sklypus, ir valstybinės žemės patikėtiniai, jeigu numatoma konsoliduoti valstybinės žemės sklypus, ne vėliau kaip per vieną mėnesį žemės konsolidacijos projekto rengimo organizatoriui valstybės įmonei Žemės ūkio duomenų centrui pateikia rašytinį sutikimą dalyvauti žemės konsolidacijos projekte, kurį rengiant ir įgyvendinant bus konsoliduojami sutikimą davusio asmens turimi žemės sklypai, nurodydamas numatomus konsoliduoti žemės sklypus, ir įsipareigojimą nepagrįsto atsisakymo ar vengimo dalyvauti žemės konsolidacijos projekte ir (ar) sudaryti žemės konsolidacijos sutartį atveju atlyginti išlaidas, susijusias su jo turimų žemės sklypų pertvarkymu rengiant ir įgyvendinant žemės konsolidacijos projektą, taip pat išlaidas, patirtas tikslinant žemės konsolidacijos projektą dėl nepagrįsto atsisakymo ar vengimo jame dalyvauti ir (ar) sudaryti žemės konsolidacijos sutartį. Kai žemės sklypas priklauso keliems asmenims, sutikimą dalyvauti žemės konsolidacijos projekte turi duoti kiekvienas žemės sklypo bendraturtis. Nacionalinė žemės tarnyba vietoj sutikimo dalyvauti žemės konsolidacijos projekte valstybės įmonei Žemės ūkio duomenų centrui perduoda numatomų konsoliduoti jos patikėjimo teise valdomų valstybinės žemės sklypų sąrašą. Valstybės įmonė Žemės ūkio duomenų centras, patvirtinęs teritorijos žemės konsolidacijos projektui rengti ribas, nuo šio sprendimo priėmimo dienos įgyja patikėjimo teisę į Nacionalinės žemės tarnybos sąraše nurodytus valstybinės žemės sklypus ir per 5 darbo dienas pateikia prašymą Nekilnojamojo turto registro tvarkytojui įregistruoti šią teisę Nekilnojamojo turto registre. Nacionalinės žemės tarnybos patikėjimo teisė į šiuos valstybinės žemės sklypus pasibaigia nuo valstybės įmonės Žemės ūkio duomenų centro sprendimo patvirtinti teritorijos žemės konsolidacijos projektui rengti ribas priėmimo dienos.
 
 7. Teritorija žemės konsolidacijos projektui rengti, apimanti numatomus konsoliduoti žemės sklypus, turi būti ne mažesnė kaip 100 ha.
 
-8. Negali būti konsoliduojami ir žemės konsolidacijos sutarties objektu negali būti areštuoti žemės sklypai arba žemės sklypai, esantys teisminio ginčo, tiesiogiai susijusio su žemės sklypu ir teisėmis į jį, objektu.
+8. Negali būti konsoliduojami ir žemės konsolidacijos sutarties objektas negali būti areštuoti žemės sklypai arba žemės sklypai, esantys teisminio ginčo, tiesiogiai susijusio su žemės sklypu ir teisėmis į jį, objektas.
 
-9. Numatomų konsoliduoti privačios žemės sklypų savininkai, savivaldybės taryba, jeigu numatoma konsoliduoti savivaldybės žemės sklypus, arba valstybinės žemės patikėtiniai, jeigu numatoma konsoliduoti valstybinės žemės sklypus, apie žemės sklypų konsolidaciją privalo registruotu laišku (įteikiant) pranešti tretiesiems asmenims, turintiems teises į šiuos žemės sklypus, įregistruotus Nekilnojamojo turto registre. Konsoliduojami gali būti tik tie žemės sklypai, į kuriuos tretieji asmenys turi daiktines teises, įregistruotas Nekilnojamojo turto registre, jeigu tretieji asmenys duoda rašytinius sutikimus dėl žemės sklypų konsolidacijos. Trečiojo asmens, turinčio daiktines teises, išskyrus servitutą ir hipoteką, į numatomą konsoliduoti žemės sklypą, sutikime papildomai turi būti nurodyta, kad asmuo sutinka iki žemės konsolidacijos sutarties sudarymo su konsoliduojamo žemės sklypo savininku išspręsti klausimą dėl daiktinių teisių į konsoliduojamą žemės sklypą pasibaigimo.
+9. Numatomų konsoliduoti privačios žemės sklypų savininkai, savivaldybės taryba, jeigu numatoma konsoliduoti savivaldybės žemės sklypus, arba valstybinės žemės patikėtiniai, jeigu numatoma konsoliduoti valstybinės žemės sklypus, apie žemės sklypų konsolidaciją privalo registruotu laišku (įteikiant) pranešti tretiesiems asmenims, turintiems teises į šiuos žemės sklypus, įregistruotus Nekilnojamojo turto registre. Konsoliduojami gali būti tik tie žemės sklypai, į kuriuos tretieji asmenys turi daiktines teises, įregistruotas Nekilnojamojo turto registre, jeigu šie tretieji asmenys duoda rašytinius sutikimus dėl žemės sklypų konsolidacijos. Trečiojo asmens, turinčio daiktines teises, išskyrus servitutą ir hipoteką, į numatomą konsoliduoti žemės sklypą, sutikime papildomai turi būti nurodyta, kad asmuo sutinka iki žemės konsolidacijos sutarties sudarymo su konsoliduojamo žemės sklypo savininku išspręsti klausimą dėl daiktinių teisių į konsoliduojamą žemės sklypą pasibaigimo.
 
-10. Valstybės žemės fondas tvirtina teritorijos žemės konsolidacijos projektui rengti ribas ir su Nacionalinės žemės tarnybos teritoriniu padaliniu suderintą žemės konsolidacijos projekto rengimo reikalavimų sąrašą, taip pat priima sprendimą rengti žemės konsolidacijos projektą. Žemės konsolidacijos projekto teritorijai priskiriama žemė, dėl kurios Valstybės žemės fondui pateikti sutikimai dalyvauti žemės konsolidacijos projekte, valstybinės žemės sklypai, kuriuos Valstybės žemės fondui perdavė Nacionalinė žemės tarnyba ir kurių patikėtinis yra Valstybės žemės fondas, taip pat privati žemė, kurios savininkai nepateikė sutikimų dalyvauti žemės konsolidacijos projekte, bet pageidauja parduoti žemės sklypus (jų dalis) žemės konsolidacijos projekto rengimo metu.
+10. Valstybės įmonė Žemės ūkio duomenų centras tvirtina teritorijos žemės konsolidacijos projektui rengti ribas ir su Nacionalinės žemės tarnybos teritoriniu padaliniu suderintą žemės konsolidacijos projekto rengimo reikalavimų sąrašą, taip pat priima sprendimą rengti žemės konsolidacijos projektą. Žemės konsolidacijos projekto teritorijai priskiriama žemė, dėl kurios valstybės įmonei Žemės ūkio duomenų centrui pateikti sutikimai dalyvauti žemės konsolidacijos projekte, valstybinės žemės sklypai, kuriuos valstybės įmonei Žemės ūkio duomenų centrui perdavė Nacionalinė žemės tarnyba ir kurių patikėtinis yra valstybės įmonė Žemės ūkio duomenų centras, taip pat privati žemė, kurios savininkai nepateikė sutikimų dalyvauti žemės konsolidacijos projekte, bet pageidauja parduoti žemės sklypus (jų dalis) žemės konsolidacijos projekto rengimo metu.
 
-11. Jeigu sutikimą dalyvauti žemės konsolidacijos projekte pateikęs asmuo perleidžia jam priklausantį žemės sklypą (jo dalį), priskirtą žemės konsolidacijos projekto teritorijai, kitiems asmenims, tokio žemės sklypo (jo dalies) perleidimo sutartyje turi būti nurodyta, kad žemės sklypą (jo dalį) įsigyjantis asmuo sutinka dalyvauti žemės konsolidacijos projekte ir kad žemės sklypą (jo dalį) perleidęs asmuo privalo per vieną mėnesį nuo žemės sklypo (jo dalies) perleidimo apie tai raštu pranešti Valstybės žemės fondui. Jeigu žemės sklypą perleidęs asmuo per nustatytą terminą nepraneša Valstybės žemės fondui apie žemės sklypo (jo dalies) savininko pasikeitimą ir jo sutikimą dalyvauti konsolidacijos projekte, žemės savininkas, pateikęs sutikimą, nurodytą šio straipsnio 6 dalyje, laikomas nepagrįstai atsisakiusiu dalyvauti žemės konsolidacijos projekte.
+11. Jeigu sutikimą dalyvauti žemės konsolidacijos projekte pateikęs asmuo perleidžia jam priklausantį žemės sklypą (jo dalį), priskirtą žemės konsolidacijos projekto teritorijai, kitiems asmenims, tokio žemės sklypo (jo dalies) perleidimo sutartyje turi būti nurodyta, kad žemės sklypą (jo dalį) įsigyjantis asmuo sutinka dalyvauti žemės konsolidacijos projekte ir kad žemės sklypą (jo dalį) perleidęs asmuo privalo per vieną mėnesį nuo žemės sklypo (jo dalies) perleidimo dienos apie tai raštu pranešti valstybės įmonei Žemės ūkio duomenų centrui. Jeigu žemės sklypą perleidęs asmuo per šioje dalyje nustatytą terminą nepraneša valstybės įmonei Žemės ūkio duomenų centrui apie žemės sklypo (jo dalies) savininko pasikeitimą ir jo sutikimą dalyvauti konsolidacijos projekte, žemės savininkas, pateikęs sutikimą, nurodytą šio straipsnio 6 dalyje, laikomas nepagrįstai atsisakiusiu dalyvauti žemės konsolidacijos projekte.
 
-12. Iki sprendimo pritarti žemės konsolidacijos projekto žemės vertinimo planui teritorijos žemės konsolidacijos projektui rengti ribos keičiamos ir nauji žemės sklypai priskiriami šiai teritorijai Žemės konsolidacijos projektų rengimo ir įgyvendinimo taisyklių nustatyta tvarka. Sprendimą pakeisti teritoriją žemės konsolidacijos projektui rengti priima Valstybės žemės fondas. Žemės sklypų, priskiriamų teritorijai žemės konsolidacijos projektui rengti, savininkai, valstybinės žemės patikėtiniai ar savivaldybės taryba iki sprendimo pakeisti šią teritoriją turi pateikti Valstybės žemės fondui sutikimą, nurodytą šio straipsnio 6 dalyje. Teritorijai žemės konsolidacijos projektui rengti papildomai priskiriami valstybinės žemės sklypai, patikėjimo teise valdomi Nacionalinės žemės tarnybos, Valstybės žemės fondui perduodami šio straipsnio 6 dalyje nustatyta tvarka.
+12. Iki sprendimo pritarti žemės konsolidacijos projekto žemės vertinimo planui teritorijos žemės konsolidacijos projektui rengti ribos keičiamos ir nauji žemės sklypai priskiriami šiai teritorijai Žemės konsolidacijos projektų rengimo ir įgyvendinimo taisyklėse nustatyta tvarka. Sprendimą pakeisti teritoriją žemės konsolidacijos projektui rengti priima valstybės įmonė Žemės ūkio duomenų centras. Žemės sklypų, priskiriamų žemės konsolidacijos projekto teritorijai, savininkai, valstybinės žemės patikėtiniai ar savivaldybės taryba iki sprendimo pakeisti šią teritoriją turi pateikti valstybės įmonei Žemės ūkio duomenų centrui sutikimą, nurodytą šio straipsnio 6 dalyje. Žemės konsolidacijos projekto teritorijai papildomai priskiriami valstybinės žemės sklypai, patikėjimo teise valdomi Nacionalinės žemės tarnybos, valstybės įmonei Žemės ūkio duomenų centrui perduodami šio straipsnio 6 dalyje nustatyta tvarka.
 
-13. Valstybės žemės fondo sprendimas patvirtinti arba pakeisti žemės konsolidacijos projekto teritorijos ribas turi būti suderintas su Nacionaline žemės tarnyba.
+13. Valstybės įmonės Žemės ūkio duomenų centro sprendimas patvirtinti arba pakeisti žemės konsolidacijos projekto teritorijos ribas turi būti suderintas su Nacionaline žemės tarnyba.
 
-14. Valstybės žemės fondas per 5 darbo dienas nuo sprendimo patvirtinti arba pakeisti teritoriją žemės konsolidacijos projektui rengti priėmimo Nekilnojamojo turto registro tvarkytojui pateikia prašymą kiekvieno žemės sklypo, nurodyto sprendime patvirtinti ar pakeisti teritoriją žemės konsolidacijos projektui rengti, registro įraše padaryti žymą apie juridinio fakto – žemės sklypo priskyrimo teritorijai žemės sklypo konsolidacijos projektui rengti – įregistravimą.
+14. Valstybės įmonė Žemės ūkio duomenų centras per 5 darbo dienas nuo sprendimo patvirtinti arba pakeisti teritoriją žemės konsolidacijos projektui rengti priėmimo dienos Nekilnojamojo turto registro tvarkytojui pateikia prašymą kiekvieno žemės sklypo, nurodyto sprendime patvirtinti ar pakeisti teritoriją žemės konsolidacijos projektui rengti, registro įraše padaryti žymą apie juridinio fakto – žemės sklypo priskyrimo teritorijai žemės sklypo konsolidacijos projektui rengti – įregistravimą.
 
 15. Žemės konsolidacijos projekto rengėjas parenkamas Viešųjų pirkimų įstatymo nustatyta tvarka.
 
@@ -1843,6 +1877,10 @@ Nr. XI-912, 2010-06-18, Žin., 2010, Nr. 72-3616 (2010-06-22)
 
 Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
+Straipsnio pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
+
 50 straipsnis. Žemės vertinimas
 
 1. Žemė, kurioje rengiamas žemės konsolidacijos projektas, turi būti įvertinama iki pasiūlymo dėl projekto sprendinių parengimo. Žemės vertinimą atlieka projekto rengėjas.
@@ -1851,7 +1889,11 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 3. Žemės vertė nustatoma taikant visų žemės konsolidacijos projekte dalyvaujančių žemės savininkų sutarimu pasirinktą vieną iš Turto ir verslo vertinimo pagrindų įstatyme nustatytų turto vertinimo būdų, jeigu konsoliduojami tik privačios žemės sklypai. Kai pagal žemės konsolidacijos projektą konsoliduojami valstybinės ir savivaldybės žemės sklypai, visi esami ir žemės konsolidacijos projekte suprojektuoti žemės sklypai įvertinami taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytus individualų turto vertinimo būdą ir turto vertinimo metodus. Visais atvejais žemės sklypai turi būti vertinami tuo pačiu metodu.
 
-4. Žemės vertinimo planui turi pritarti visi vertinamoje teritorijoje esančių ir numatomų konsoliduoti žemės sklypų savininkai, savivaldybės tarybos įgaliotas asmuo, kai konsoliduojami savivaldybės žemės sklypai, ir valstybinės žemės patikėtinių įgalioti asmenys, kai konsoliduojami valstybinės žemės sklypai. Kai konsoliduojami valstybinės žemės sklypai, žemės vertinimo planui visais atvejais turi pritarti Valstybės žemės fondo įgaliotas asmuo, neatsižvelgiant į tai, kad Valstybės žemės fondas nėra konsoliduojamų valstybinės žemės sklypų patikėtinis. Ginčai dėl žemės vertinimo sprendžiami teismo tvarka.
+4. Žemės vertinimo planui turi pritarti visi vertinamoje teritorijoje esančių ir numatomų konsoliduoti žemės sklypų savininkai, savivaldybės tarybos įgaliotas asmuo, kai konsoliduojami savivaldybės žemės sklypai, ir valstybinės žemės patikėtinių įgalioti asmenys, kai konsoliduojami valstybinės žemės sklypai. Kai konsoliduojami valstybinės žemės sklypai, žemės vertinimo planui visais atvejais turi pritarti valstybės įmonės Žemės ūkio duomenų centro įgaliotas asmuo, neatsižvelgiant į tai, kad valstybės įmonė Žemės ūkio duomenų centras nėra konsoliduojamų valstybinės žemės sklypų patikėtinis. Ginčai dėl žemės vertinimo sprendžiami teismo tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 Straipsnio pakeitimai:
 
@@ -1861,7 +1903,11 @@ Nr. XI-912, 2010-06-18, Žin., 2010, Nr. 72-3616 (2010-06-22)
 
 51 straipsnis. Žemės konsolidacijos projektų rengimas
 
-1. Pradėjęs rengti žemės konsolidacijos projektą, jo rengėjas organizuoja konsolidacijos projekte dalyvaujančių asmenų – konsoliduojamų privačios žemės sklypų savininkų, savivaldybės tarybos įgalioto asmens, jeigu konsoliduojami savivaldybės žemės sklypai, valstybinės žemės patikėtinių įgaliotų asmenų, jeigu konsoliduojami valstybinės žemės sklypai, – susirinkimus. Susirinkimui pirmininkauja susirinkimo dalyvių išrinktas asmuo. Susirinkimo sprendimai teisėti, jeigu šiems sprendimams pritaria ne mažiau kaip trys ketvirtadaliai visų sutikimą dalyvauti žemės konsolidacijos projekte pateikusių žemės savininkų, kurių žemės sklypai priskirti teritorijai žemės konsolidacijos projektui rengti. Kai žemės konsolidacijos projekto teritorijai priskiriami valstybinės ir savivaldybės žemės sklypai, susirinkimo sprendimai teisėti, jeigu jame dalyvauja Valstybės žemės fondo įgaliotas asmuo, valstybinės žemės patikėtinių įgalioti asmenys, jeigu konsoliduojamų valstybinės žemės sklypų patikėtinis yra ne Valstybės žemės fondas, ir savivaldybės tarybos įgaliotas asmuo, jeigu konsoliduojami savivaldybės žemės sklypai, ir jeigu šiems sprendimams pritaria Valstybės žemės fondo įgaliotas asmuo, valstybinės žemės patikėtinių įgalioti asmenys ir savivaldybės tarybos įgaliotas asmuo bei ne mažiau kaip trys ketvirtadaliai visų sutikimą dalyvauti žemės konsolidacijos projekte pateikusių žemės savininkų, kurių žemės sklypai priskirti teritorijai žemės konsolidacijos projektui rengti. Žemės sklypo bendraturčiai balsuodami susirinkime turi vieną balsą. Žemės savininkas, turintis kelis žemės sklypus, priklausančius nuosavybės teise jam vienam ir (ar) kartu su kitais bendraturčiais, balsuodamas susirinkime turi vieną balsą. Susirinkimas turi teisę priimti sprendimus šiais žemės konsolidacijos projekto rengimo klausimais:
+1. Pradėjęs rengti žemės konsolidacijos projektą, jo rengėjas organizuoja konsolidacijos projekte dalyvaujančių asmenų – konsoliduojamų privačios žemės sklypų savininkų, savivaldybės tarybos įgalioto asmens, jeigu konsoliduojami savivaldybės žemės sklypai, valstybinės žemės patikėtinių įgaliotų asmenų, jeigu konsoliduojami valstybinės žemės sklypai, – susirinkimus. Susirinkimui pirmininkauja susirinkimo dalyvių išrinktas asmuo. Susirinkimo sprendimai teisėti, jeigu šiems sprendimams pritaria ne mažiau kaip trys ketvirtadaliai visų sutikimą dalyvauti žemės konsolidacijos projekte pateikusių žemės savininkų, kurių žemės sklypai priskirti žemės konsolidacijos projekto teritorijai. Kai žemės konsolidacijos projekto teritorijai priskiriami valstybinės ir savivaldybės žemės sklypai, susirinkimo sprendimai teisėti, jeigu jame dalyvauja valstybės įmonės Žemės ūkio duomenų centro įgaliotas asmuo, valstybinės žemės patikėtinių įgalioti asmenys, jeigu konsoliduojamų valstybinės žemės sklypų patikėtinis yra ne valstybės įmonė Žemės ūkio duomenų centras, ir savivaldybės tarybos įgaliotas asmuo, jeigu konsoliduojami savivaldybės žemės sklypai, ir jeigu šiems sprendimams pritaria valstybės įmonės Žemės ūkio duomenų centro įgaliotas asmuo, valstybinės žemės patikėtinių įgalioti asmenys ir savivaldybės tarybos įgaliotas asmuo bei ne mažiau kaip trys ketvirtadaliai visų sutikimą dalyvauti žemės konsolidacijos projekte pateikusių žemės savininkų, kurių žemės sklypai priskirti žemės konsolidacijos projekto teritorijai. Žemės sklypo bendraturčiai balsuodami susirinkime turi vieną balsą. Žemės savininkas, turintis kelis žemės sklypus, priklausančius nuosavybės teise jam vienam ir (ar) kartu su kitais bendraturčiais, balsuodamas susirinkime turi vieną balsą. Susirinkimas turi teisę priimti sprendimus šiais žemės konsolidacijos projekto rengimo klausimais:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 1) dėl žemės vertinimo;
 
@@ -1885,11 +1931,19 @@ Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
 
 4. Žemės konsolidacijos projektas svarstomas viešai Žemės konsolidacijos projektų rengimo taisyklėse nustatyta tvarka.
 
-5. Sutikimą dalyvauti žemės konsolidacijos projekte pateikę asmenys savo pasiūlymus, pastabas ir pretenzijas dėl rengiamo žemės konsolidacijos projekto Valstybės žemės fondui ir Nacionalinei žemės tarnybai gali pateikti iki projekto viešo svarstymo pabaigos.
+5. Sutikimą dalyvauti žemės konsolidacijos projekte pateikę asmenys savo pasiūlymus, pastabas ir pretenzijas dėl rengiamo žemės konsolidacijos projekto valstybės įmonei Žemės ūkio duomenų centrui ir Nacionalinei žemės tarnybai gali pateikti iki projekto viešo svarstymo pabaigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 6. Žemės konsolidacijos projektą tvirtina Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas. Sprendimas dėl žemės konsolidacijos projekto patvirtinimo Administracinių bylų teisenos įstatymo nustatyta tvarka gali būti apskųstas teismui.
 
-7. Kai asmenys, pateikę sutikimą dalyvauti žemės konsolidacijos projekte, atsisako jame dalyvauti, Valstybės žemės fondo vadovas priima sprendimą pakeisti žemės konsolidacijos projekto teritorijos ribas, išbraukiant žemės sklypus, priklausančius žemės konsolidacijos projekte atsisakiusiems dalyvauti asmenims, ir patikslinti žemės konsolidacijos projektą. Tokiais atvejais taikomas šio Įstatymo 49 straipsnio 7 dalies reikalavimas, kad teritorija žemės konsolidacijos projektui rengti, apimanti numatomus konsoliduoti žemės sklypus, turi būti ne mažesnė kaip 100 ha, o 49 straipsnio 12 dalyje nustatyta sąlyga, kad teritorijos žemės konsolidacijos projektui rengti ribos gali būti keičiamos iki sprendimo pritarti žemės konsolidacijos projekto žemės vertinimo planui, netaikoma. Valstybės žemės fondas per 5 darbo dienas nuo sprendimo pakeisti teritoriją žemės konsolidacijos projektui rengti priėmimo Nekilnojamojo turto registro tvarkytojui pateikia prašymą išregistruoti juridinį faktą apie žemės sklypo (sklypų) priskyrimą teritorijai žemės konsolidacijos projektui rengti.
+7. Kai asmenys, pateikę sutikimą dalyvauti žemės konsolidacijos projekte, atsisako jame dalyvauti, valstybės įmonės Žemės ūkio duomenų centro vadovas priima sprendimą pakeisti žemės konsolidacijos projekto teritorijos ribas, išbraukiant žemės sklypus, priklausančius žemės konsolidacijos projekte atsisakiusiems dalyvauti asmenims, ir patikslinti žemės konsolidacijos projektą. Tokiais atvejais taikomas šio Įstatymo 49 straipsnio 7 dalyje nurodytas reikalavimas, kad teritorija žemės konsolidacijos projektui rengti, apimanti numatomus konsoliduoti žemės sklypus, turi būti ne mažesnė kaip 100 ha, o šio Įstatymo 49 straipsnio 12 dalyje nustatyta sąlyga, kad teritorijos žemės konsolidacijos projektui rengti ribos gali būti keičiamos iki sprendimo pritarti žemės konsolidacijos projekto žemės vertinimo planui, netaikoma. Valstybės įmonė Žemės ūkio duomenų centras per 5 darbo dienas nuo sprendimo pakeisti teritoriją žemės konsolidacijos projektui rengti priėmimo dienos Nekilnojamojo turto registro tvarkytojui pateikia prašymą išregistruoti juridinį faktą apie žemės sklypo (sklypų) priskyrimą žemės konsolidacijos projekto teritorijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 Straipsnio pakeitimai:
 
@@ -1903,7 +1957,11 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 1. Žemės konsolidacijos projekte suprojektuoti žemės sklypai paženklinami vietovėje atliekant kadastrinius matavimus.
 
-2. Žemės sklypų, konsoliduotų (pertvarkytų) pagal žemės konsolidacijos projektą, savininkai sudaro žemės konsolidacijos sutartį. Sudarant tokią sutartį, valstybei atstovauja ir sutartį pasirašo Valstybės žemės fondo vadovas ar jo įgaliotas asmuo arba kitų valstybinės žemės patikėtinių įgalioti asmenys, jeigu pertvarkomų valstybinės žemės sklypų patikėtinis yra ne Valstybės žemės fondas, o savivaldybei – savivaldybės tarybos įgaliotas asmuo.
+2. Žemės sklypų, konsoliduotų (pertvarkytų) pagal žemės konsolidacijos projektą, savininkai sudaro žemės konsolidacijos sutartį. Sudarant tokią sutartį, valstybei atstovauja ir sutartį pasirašo valstybės įmonės Žemės ūkio duomenų centro vadovas ar jo įgaliotas asmuo arba kitų valstybinės žemės patikėtinių įgalioti asmenys, jeigu pertvarkomų valstybinės žemės sklypų patikėtinis yra ne valstybės įmonė Žemės ūkio duomenų centras, o savivaldybei – savivaldybės tarybos įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 3. Pagal žemės konsolidacijos sutartį Nekilnojamojo turto registre įregistruoti valstybinės, savivaldybės ir privačios žemės sklypai, įtraukti į žemės konsolidacijos projekto teritoriją, konsoliduojami – kompleksiškai pertvarkomi (padalijami, atidalijami, sujungiami, atliekamas jų perdalijimas) į žemės sklypus, suformuotus pagal patvirtintą žemės konsolidacijos projektą. Žemės konsolidacijos sutartis tvirtinama notaro. Prie žemės konsolidacijos sutarties turi būti pridedami pagal žemės konsolidacijos projektą konsoliduotų žemės sklypų planai, parengti Vyriausybės įgaliotos institucijos nustatyta tvarka.
 
@@ -1921,7 +1979,11 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 5. Žemės konsolidacijos sutarties pavyzdinė forma nustatoma Žemės konsolidacijos projektų rengimo ir įgyvendinimo taisyklėse.
 
-6. Kai asmenys atsisako sudaryti žemės konsolidacijos sutartį, Valstybės žemės fondas priima sprendimą, nurodytą šio Įstatymo 51 straipsnio 7 dalyje.
+6. Kai asmenys atsisako sudaryti žemės konsolidacijos sutartį, valstybės įmonė Žemės ūkio duomenų centras priima sprendimą, nurodytą šio Įstatymo 51 straipsnio 7 dalyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 7. Asmenys, kurie nepagrįstai atsisako ar vengia dalyvauti žemės konsolidacijos projekte ir (ar) sudaryti žemės konsolidacijos sutartį, atlygina išlaidas, susijusias su jų turimų žemės sklypų konsolidacija rengiant ir įgyvendinant žemės konsolidacijos projektą, taip pat žemės konsolidacijos projekto tikslinimo išlaidas, patiriamas dėl nepagrįsto atsisakymo ar vengimo jame dalyvauti ir (ar) sudaryti žemės konsolidacijos sutartį. Nepagrįstu atsisakymu ar vengimu dalyvauti žemės konsolidacijos projekte ir (ar) sudaryti žemės konsolidacijos sutartį laikomas bet koks asmens, pateikusio šio Įstatymo 49 straipsnio 6 dalyje nurodytą sutikimą dalyvauti žemės konsolidacijos projekte, atsisakymas ar vengimas dalyvauti žemės konsolidacijos projekte, kuris rengiamas ir įgyvendinamas šio Įstatymo ir kitų teisės aktų nustatyta tvarka, taip pat atsisakymas ar vengimas sudaryti žemės konsolidacijos sutartį, pagal kurią tokiam asmeniui nuosavybėn perduodami žemės sklypai, konsoliduoti pagal šio Įstatymo ir kitų teisės aktų nustatyta tvarka parengtą ir įgyvendintą žemės konsolidacijos projektą, išskyrus atvejus, kai asmuo atsisako ar vengia dalyvauti žemės konsolidacijos projekte ir (ar) sudaryti žemės konsolidacijos sutartį dėl priežasčių, kurios Nacionalinės žemės tarnybos sprendimu pripažįstamos svarbiomis. Asmuo dėl atsisakymo ar vengimo dalyvauti žemės konsolidacijos projekte ir (ar) sudaryti žemės konsolidacijos sutartį priežasčių pripažinimo svarbiomis gali kreiptis į teismą įstatymų nustatyta tvarka.
 
@@ -1941,7 +2003,11 @@ Nr. XIII-2738, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00113
 
 13. Žemės sklypų, priskirtų žemės konsolidacijos projekto teritorijai, savininkai, pageidaujantys parduoti žemės sklypus (jų dalis) žemės konsolidacijos projekto rengimo metu, žemės sklypus parduoda laikydamiesi šio Įstatymo 31 straipsnio 2 dalies ir kitų įstatymų nuostatų, reglamentuojančių pirmumo teisę įsigyti parduodamą žemę.
 
-14. Valstybės žemės fondas pateikia Nacionalinei žemės tarnybai konsoliduotų valstybinės žemės sklypų, kuriuos šis fondas įregistravo Nekilnojamojo turto registre valstybės vardu, sąrašą. Nacionalinė žemės tarnyba per 5 darbo dienas nuo tokio sąrašo gavimo pateikia Nekilnojamojo turto registro tvarkytojui prašymą įregistruoti Nacionalinės žemės tarnybos patikėjimo teisę į šiuos valstybinės žemės sklypus.
+14. Valstybės įmonė Žemės ūkio duomenų centras pateikia Nacionalinei žemės tarnybai konsoliduotų valstybinės žemės sklypų, kuriuos valstybės įmonė Žemės ūkio duomenų centras įregistravo Nekilnojamojo turto registre valstybės vardu, sąrašą. Nacionalinė žemės tarnyba per 5 darbo dienas nuo šio sąrašo gavimo dienos pateikia Nekilnojamojo turto registro tvarkytojui prašymą įregistruoti Nacionalinės žemės tarnybos patikėjimo teisę į šiuos valstybinės žemės sklypus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
 
 15. Valstybinės žemės sklypai, kurie yra konsoliduoti pagal žemės konsolidacijos projektą ir perduoti valstybei pagal žemės konsolidacijos sutartį ir kurių nenumatoma naudoti visuomenės poreikiams ar kitoms valstybinėms ar savivaldybių funkcijoms atlikti, gali būti perleidžiami kitų asmenų nuosavybėn arba perduodami naudotis įstatymų nustatyta tvarka.
 
@@ -2420,6 +2486,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1536, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24184
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 23, 24, 32, 37, 41 ir 42 straipsnių pakeitimo įstatymas
+
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1309, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15636
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 13, 32, 34, 35, 49, 50, 51 ir 52 straipsnių pakeitimo įstatymas
 
 55 straipsnis. Žemės ginčų
 
