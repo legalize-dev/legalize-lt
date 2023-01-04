@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2023-01-02"
+last_updated: "2023-01-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2023-01-02 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -1292,11 +1292,13 @@ Nr. XII-1623, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06524
 
 2. Pasiūlymus Vyriausybei dėl viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių uždarymo (likvidavimo), jų užkonservavimo ir naujų objektų statybos teikia Lietuvos Respublikos susisiekimo ministras, atsižvelgdamas į viešosios geležinkelių infrastruktūros valdytojo pasiūlymus, jeigu tokie pasiūlymai buvo pateikti, ar (ir) savivaldybė, kurios teritorijoje yra atitinkamas viešosios geležinkelių infrastruktūros objektas ar Lietuvos valstybei nuosavybės teise priklausantis geležinkelių paslaugų įrenginys. Teikime turi būti nurodytos objektų statybos ar (ir) uždarymo (likvidavimo), jų užkonservavimo priežastys, teikiamų pasiūlymų ekonominis, socialinis bei aplinkosauginis pagrindimas.
 
-3. Žemė naujų viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių statybai suteikiama Lietuvos Respublikos žemės įstatymo nustatyta tvarka. Visuomenės poreikiams paimta ir kaip valstybinė žemė Nekilnojamojo turto registre įregistruota žemė, kurioje numatoma statyti naujus ar rekonstruoti esamus viešosios geležinkelių infrastruktūros objektus ar Lietuvos valstybei nuosavybės teise priklausančius geležinkelių paslaugų įrenginius, Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo sprendimu, suderintu su Lietuvos Respublikos žemės ūkio ministerija, Vyriausybės nustatyta tvarka perduodama valdyti, naudoti ir ja disponuoti patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
+3. Žemė naujų viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių statybai suteikiama Lietuvos Respublikos žemės įstatymo nustatyta tvarka. Visuomenės poreikiams paimta ir kaip valstybinė žemė Nekilnojamojo turto registre įregistruota žemė, kurioje numatoma statyti naujus ar rekonstruoti esamus viešosios geležinkelių infrastruktūros objektus ar Lietuvos valstybei nuosavybės teise priklausančius geležinkelių paslaugų įrenginius, Nacionalinės žemės tarnybos prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) vadovo sprendimu, suderintu su Lietuvos Respublikos aplinkos ministerija, Vyriausybės nustatyta tvarka perduodama valdyti, naudoti ir disponuoti ja patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1050, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09663
+
+Nr. XIV-1323, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15651
 
 Straipsnio pakeitimai:
 
@@ -1398,13 +1400,15 @@ Pakeistas straipsnio pavadinimas:
 
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
-1. Viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių užimama valstybinė žemė Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo sprendimu, suderintu su Žemės ūkio ministerija, Vyriausybės nustatyta tvarka perduodama valdyti, naudoti ir ja disponuoti patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
+1. Viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių užimama valstybinė žemė Nacionalinės žemės tarnybos vadovo sprendimu, suderintu su Aplinkos ministerija, Vyriausybės nustatyta tvarka perduodama valdyti, naudoti ir disponuoti ja patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 Nr. XIV-1050, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09663
+
+Nr. XIV-1323, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15651
 
 2. Viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypus (ar jų dalis), nenaudojamus viešosios geležinkelių infrastruktūros valdytojo veiklai vykdyti, viešosios geležinkelių infrastruktūros valdytojas gali išnuomoti Vyriausybės nustatyta tvarka šiais atvejais ir sąlygomis:
 
