@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2022-01-01"
+last_updated: "2023-01-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -1182,7 +1182,11 @@ VALSTYBINĖ SAUGOMŲ TERITORIJŲ KONTROLĖ
 
 30 straipsnis. Valstybinės saugomų teritorijų kontrolės organizavimas
 
-1. Žemės naudojimo ir žemės savininkų, valdytojų bei naudotojų, gamtos išteklių naudotojų ir lankytojų veiklos, reglamentuojamos pagal šio Įstatymo 5 straipsnyje nurodytus veiklos saugomose teritorijose reglamentavimo dokumentus, kontrolę saugomose teritorijose pagal kompetenciją vykdo aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybiniai žemės tarnybų pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų ir statybos valstybinės priežiūros pareigūnai ir nekilnojamojo kultūros paveldo apsaugos pareigūnai.
+1. Žemės naudojimo ir žemės savininkų, valdytojų bei naudotojų, gamtos išteklių naudotojų ir lankytojų veiklos, reglamentuojamos pagal šio Įstatymo 5 straipsnyje nurodytus veiklos saugomose teritorijose reglamentavimo dokumentus, valstybinę kontrolę saugomose teritorijose pagal kompetenciją vykdo aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybiniai žemės tarnybų pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų pareigūnai, statybos valstybinės priežiūros pareigūnai, nekilnojamojo kultūros paveldo apsaugos pareigūnai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1317, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15645
 
 2. Valstybinė saugomų teritorijų kontrolė aplinkos apsaugos ir gamtos išteklių naudojimo srityje organizuojama kaip sudedamoji aplinkos apsaugos valstybinės kontrolės dalis, vadovaujantis Aplinkos apsaugos valstybinės kontrolės įstatymo nuostatomis.
 
