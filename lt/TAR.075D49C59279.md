@@ -4,7 +4,7 @@ identifier: "TAR.075D49C59279"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-07-25"
-last_updated: "2020-01-01"
+last_updated: "2023-01-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.075D49C59279"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,9 +17,17 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-01-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-02-28
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 151-0; Žin. 1991, Nr.24-635, i. k. 0911010ISTA00I-1607
+
+TAR pastaba. Įsigaliojus 2022-06-30 įstatymui Nr. XIV-1312, iki jo įsigaliojimo pradėti, bet nebaigti rengti ir dar nepatvirtinti žemės reformai reikalingi žemės reformos žemėtvarkos projektai baigiami rengti ir tvirtinami iki įstatymo įsigaliojimo galiojusia tvarka.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
+
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 9, 10, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas
 
 Nauja įstatymo redakcija:
 
@@ -175,9 +183,17 @@ Nr. XII-856, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04857
 
 2. Asmenims prie nuosavybės teise priklausančių pastatų ir statinių parduodami teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytų ploto ir ribų žemės sklypai. Kaimo gyvenamojoje vietovėje ir po 1995 m. birželio 1 d. miestams priskirtoje teritorijoje parduodami ne didesni kaip 2,0 ha sodybos (namų valdos) žemės sklypai. Kai pagal įstatymus atskiros sodybos (namų valdos) naudojamo žemės sklypo plotas ir ribos nebuvo nustatyti ir nėra parengtų techninės apskaitos bylų, parduodama atskiros sodybos (namų valdos) žemė, kurią užima sodybos statiniai, sodas, kiti sodybos želdiniai, kiemas ir sodyboje nuolat daržui naudojamas žemės sklypas. Paprastai parduodamas žemės sklypas turi būti sodybos teritorijoje, atitikti sodybos (namų valdos) eksploatacijos reikalavimus ir turi būti nustatytas teritorijų planavimo dokumentuose ar žemės valdos projektuose.
 
-3. Miesto gyvenamosiose vietovėse (iki 1995 m. birželio 1 d. miestams priskirtoje teritorijoje), išskyrus Neringos miestą, fiziniams asmenims, turintiems nuosavybės teise priklausančius gyvenamuosius namus, parduodami jų namų valdų naudojami žemės sklypai, pažymėti namų valdos techninės apskaitos bylose, teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytų ribų, bet ne didesni kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesni kaip 0,3 ha – kituose miestuose. Parduodamo žemės sklypo plotas Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu gali būti padidintas, bet ne daugiau kaip atitinkamai iki 0,3 ha arba iki 0,4 ha ir parduotas visas naudojamas namų valdos žemės sklypas, jeigu šio žemės sklypo arba jo dalies pagal teritorijų planavimo dokumentus ar žemės valdos projektus nenumatoma panaudoti miesto ūkio, visuomenės poreikiams ar individualiai statybai suformavus atskirą atidalijamą žemės sklypą.
+3. Miesto gyvenamosiose vietovėse (iki 1995 m. birželio 1 d. miestams priskirtoje teritorijoje), išskyrus Neringos miestą, fiziniams asmenims, turintiems nuosavybės teise priklausančius gyvenamuosius namus, parduodami jų namų valdų naudojami žemės sklypai, pažymėti namų valdos techninės apskaitos bylose, teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytų ribų, bet ne didesni kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesni kaip 0,3 ha – kituose miestuose. Parduodamo žemės sklypo plotas Nacionalinės žemės tarnybos prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu gali būti padidintas, bet ne daugiau kaip atitinkamai iki 0,3 ha arba iki 0,4 ha ir parduotas visas naudojamas namų valdos žemės sklypas, jeigu šio žemės sklypo arba jo dalies pagal teritorijų planavimo dokumentus ar žemės valdos projektus nenumatoma panaudoti miesto ūkio, visuomenės poreikiams ar individualiai statybai suformavus atskirą atidalijamą žemės sklypą.
 
-4. Jeigu gyvenamasis namas priklauso kartu keliems savininkams, fiziniams asmenims parduodamas bendras namų valdos naudojamas žemės sklypas, pažymėtas namų valdos techninės apskaitos byloje ir teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytų ribų, bet ne didesnis kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnis kaip 0,3 ha – kituose miestuose. Parduodamo žemės sklypo plotas Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu gali būti padidintas iki naudojamo namų valdos žemės sklypo viso ploto, bet negali būti didesnis kaip atitinkamai 0,2 ha arba 0,3 ha kiekvienam gyvenamojo namo dalies savininkui, jeigu šio žemės sklypo arba jo dalies pagal teritorijų planavimo dokumentus ar žemės valdos projektus nenumatoma panaudoti miesto ūkio, visuomenės poreikiams ar individualiai statybai suformavus atskirą atidalijamą žemės sklypą.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
+
+4. Jeigu gyvenamasis namas priklauso keliems savininkams, fiziniams asmenims parduodamas bendras namų valdos naudojamas žemės sklypas, pažymėtas namų valdos techninės apskaitos byloje ir teritorijų planavimo dokumentuose ar žemės valdos projektuose, bet ne didesnis kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnis kaip 0,3 ha – kituose miestuose. Parduodamo žemės sklypo plotas Nacionalinės žemės tarnybos vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu gali būti padidintas iki naudojamo namų valdos žemės sklypo viso ploto, bet negali būti didesnis kaip atitinkamai 0,2 ha arba 0,3 ha kiekvienam gyvenamojo namo dalies savininkui, jeigu šio žemės sklypo arba jo dalies pagal teritorijų planavimo dokumentus ar žemės valdos projektus nenumatoma panaudoti miesto ūkio, visuomenės poreikiams ar individualiai statybai suformavus atskirą atidalijamą žemės sklypą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 
 5. Sodininkų bendrijų nariams ir kitiems sodų sklypų naudotojams mėgėjų sodo teritorijoje parduodami žemės sklypai formuojami pagal žemės valdos projektą ar teritorijų planavimo dokumentą ir turi būti ne didesni kaip 0,12 ha, išskyrus atvejus, kai žemė parduodama šio įstatymo 8 straipsnio 7 dalyje nustatyta tvarka ir sąlygomis.
 
@@ -247,7 +263,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2466, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17212
 
-6. Žemės reformos žemėtvarkos projektai, kuriuose suformuoti žemės, miško sklypai ir vandens telkiniai pagal šio straipsnio 1 dalyje nustatytą eilę, įgyvendinami Žemės ūkio ministerijos nustatyta tvarka.
+6. Žemės reformos žemėtvarkos projektai, kuriuose suformuoti žemės, miško sklypai ir vandens telkiniai pagal šio straipsnio 1 dalyje nustatytą eilę, įgyvendinami aplinkos ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 
 Straipsnio pakeitimai:
 
@@ -379,7 +399,11 @@ Nr. XII-1840, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10587
 
 7. Asmeninio ūkio žemės sklypai paprastai projektuojami fizinių asmenų turėtoje žemės valdoje, jeigu ši yra asmeniniam ūkiui skirtoje teritorijoje.
 
-8. Į piliečiui grąžinamos natūra žemės, miško arba perduodamą neatlygintinai nuosavybėn lygiavertį turėtam žemės, miško sklypui plotą įskaitomas tokio pat dydžio jo privatizuojamas namų valdos (išskyrus tas namų valdas, už kurias nustatyta tvarka buvo įmokėtos įmokos) žemės sklypas bei nustatyta tvarka skirtas ir naudojamas piliečio asmeniniam ūkiui žemės sklypas (išskyrus tuos skirtus ir naudojamus piliečio asmeniniam ūkiui žemės sklypus, už kuriuos nustatyta tvarka ir sąlygomis buvo įmokėtos įmokos). Piliečių, kuriems sugrąžinta žemė arba kurie turi teisę susigrąžinti didesnį kaip 3 ha žemės ūkio naudmenų plotą toje kadastro vietovėje, kurioje yra jų naudojama asmeninio ūkio žemė, naudojamas asmeninio ūkio žemės sklypas gali būti mažinamas iki Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu nustatyto dydžio ir įskaitomas į jiems sugrąžinamos žemės plotą.
+8. Į piliečiui grąžinamos natūra žemės, miško arba perduodamą neatlygintinai nuosavybėn lygiavertį turėtam žemės, miško sklypui plotą įskaitomas tokio pat dydžio jo privatizuojamas namų valdos (išskyrus namų valdas, už kurias nustatyta tvarka įmokėtos įmokos) žemės sklypas bei nustatyta tvarka skirtas ir naudojamas piliečio asmeniniam ūkiui žemės sklypas (išskyrus skirtus ir naudojamus piliečio asmeniniam ūkiui žemės sklypus, už kuriuos nustatyta tvarka ir sąlygomis įmokėtos įmokos). Piliečių, kuriems sugrąžinta žemė arba kurie turi teisę susigrąžinti didesnį kaip 3 ha žemės ūkio naudmenų plotą toje kadastro vietovėje, kurioje yra jų naudojama asmeninio ūkio žemė, naudojamas asmeninio ūkio žemės sklypas gali būti mažinamas iki Nacionalinės žemės tarnybos vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu nustatyto dydžio ir įskaitomas į jiems sugrąžinamos žemės plotą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 
 9. Rengiant žemės reformos žemėtvarkos projektą, asmeninio ūkio žemės sklypų vietos ir ribos gali būti keičiamos pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą ir siekiant sukurti racionalių ribų žemės sklypus teritorijoje, kurią apima vietinis (kadastro vietovės) žemės reformos žemėtvarkos projektas. Asmeninio ūkio žemės sklypų, kurie buvo nuolat naudojami iki 1993 m. gruodžio 31 d., ribos ir vieta rengiant žemės reformos žemėtvarkos projektą gali būti keičiamos toje šių nuolat naudojamų žemės sklypų užimtoje teritorijoje Vyriausybės nustatyta tvarka. Kai naudojama asmeninio ūkio žemė yra bendruose plotuose, šie žemės sklypai projektuojami iš toje kadastro vietovėje esančios laisvos žemės fondo, o jeigu laisvos žemės fondo toje kadastro vietovėje nepakanka, šie sklypai projektuojami asmeniniam ūkiui naudojamoje teritorijoje.
 
@@ -411,7 +435,11 @@ IV skyrius
 
 16 straipsnis. Žemės reformos vykdytojai, jų teisės ir pareigos
 
-1. Žemės reformą įgyvendina Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos. Sprendimus grąžinti, perduoti, suteikti nuosavybėn neatlygintinai ir parduoti valstybinę žemę priima Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas ar jo įgaliotas teritorinio padalinio vadovas. Valstybinė žemė išnuomojama ar perduodama naudotis Civilinio kodekso ir Žemės įstatymo nustatyta tvarka.
+1. Žemės reformą įgyvendina Nacionalinė žemės tarnyba. Sprendimus grąžinti, perduoti, suteikti nuosavybėn neatlygintinai ir parduoti valstybinę žemę priima Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas. Valstybinė žemė išnuomojama ar perduodama naudotis Civilinio kodekso ir Žemės įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 
 2. Žemės reformos žemėtvarkos projektų sudarymo techninių instrukcijų, normatyvų ir standartų parengimą, projektų autorių aprūpinimą žemėtvarkos, dirvožemių ir kitų tyrinėjimų kartografine ir geodezine medžiaga, taip pat žemės reformos informacijos kaupimą organizuoja Vyriausybės įgaliota institucija.
 
@@ -429,7 +457,11 @@ IV skyrius
 
 9. Už kvalifikacijos pažymėjimų žemės reformos žemėtvarkos projektams rengti ar jų dublikatų išdavimą, kvalifikacijos pažymėjimų patikslinimą imama valstybės rinkliava Rinkliavų įstatymo nustatyta tvarka.
 
-10. Konkursus dėl žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas Viešųjų pirkimų įstatymo nustatyta tvarka.
+10. Konkursus dėl žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo Nacionalinės žemės tarnybos vadovas Viešųjų pirkimų įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 
 Straipsnio pakeitimai:
 
@@ -447,7 +479,7 @@ Nr. XI-914, 2010-06-18, Žin., 2010, Nr. 72-3618 (2010-06-22)
 
 17 straipsnis. Prašymų įsigyti valstybinės žemės ar ja naudotis nagrinėjimas
 
-Prašymus susigrąžinti nuosavybėn, gauti nuosavybėn neatlygintinai ir pirkti valstybinę žemę, mišką ir vandens telkinius nagrinėja ir sprendimus priima Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos. Prašymus išsinuomoti valstybinę žemę ir naudotis valstybine žeme nagrinėja ir sprendimus priima Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos, savivaldybių institucijos ar kita įstatymų nustatyta institucija Civilinio kodekso ir Žemės įstatymo nustatyta tvarka.
+Prašymus susigrąžinti nuosavybėn, gauti nuosavybėn neatlygintinai ir pirkti valstybinę žemę, mišką ir vandens telkinius nagrinėja ir sprendimus priima Nacionalinė žemės tarnyba. Prašymus išsinuomoti valstybinę žemę ir naudotis valstybine žeme nagrinėja ir sprendimus priima Nacionalinė žemės tarnyba, savivaldybių institucijos ar kita įstatymų nustatyta institucija Civilinio kodekso ir Žemės įstatymo nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -459,25 +491,29 @@ Nr. IX-1170, 2002-11-05, Žin., 2002, Nr. 112-4974 (2002-11-22)
 
 Nr. XI-914, 2010-06-18, Žin., 2010, Nr. 72-3618 (2010-06-22)
 
+Straipsnio pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
+
 18 straipsnis. Skundų dėl žemės reformos vykdytojų sprendimų pateikimo ir nagrinėjimo tvarka
 
-1. Sprendimus dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis asmenys gali apskųsti teismui.
+1. Sprendimus dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis asmenys gali skųsti teismui.
 
-2. Skundus dėl žemės reformos metu suformuotų žemės sklypų tinkamumo, žemės privatizavimui, nuomai ir perdavimui neatlygintinai naudotis parengtų dokumentų ir įstatymų bei kitų teisės aktų reikalavimų neatitikties iki sprendimo dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis priėmimo nagrinėja Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos teritoriniai padaliniai.
+2. Skundus dėl žemės reformos metu suformuotų žemės sklypų tinkamumo, žemės privatizavimui, nuomai ir perdavimui neatlygintinai naudotis parengtų dokumentų ir įstatymų, kitų teisės aktų reikalavimų neatitikties iki sprendimo dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis priėmimo nagrinėja Nacionalinės žemės tarnybos teritoriniai padaliniai.
 
-3. Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos teritorinių padalinių sprendimai ir veiksmai (neveikimas), išskyrus sprendimus atkurti nuosavybės teises, suteikti žemės sklypą nuosavybėn neatlygintinai, parduoti, išnuomoti ar perduoti naudotis neatlygintinai žemės sklypą, skundžiami Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovui išankstinio ginčų nagrinėjimo ne teismo tvarka.
+3. Nacionalinės žemės tarnybos teritorinių padalinių vadovų sprendimai ir veiksmai ar neveikimas, išskyrus sprendimus atkurti nuosavybės teises, suteikti žemės sklypą nuosavybėn neatlygintinai, parduoti, išnuomoti ar perduoti naudotis neatlygintinai žemės sklypą, skundžiami Nacionalinės žemės tarnybos vadovui išankstinio ginčų nagrinėjimo ne teismo tvarka.
 
-4. Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo priimtas sprendimas gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
+4. Nacionalinės žemės tarnybos vadovo priimtas sprendimas gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-5. Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovui paduoto skundo dėl Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos teritorinio padalinio priimto sprendimo, veiksmų ar neveikimo forma ir turinys turi atitikti Administracinių bylų teisenos įstatymo nustatytus reikalavimus.
+5. Nacionalinės žemės tarnybos vadovui paduoto skundo dėl Nacionalinės žemės tarnybos teritorinio padalinio vadovo priimto sprendimo, veiksmų ar neveikimo forma ir turinys turi atitikti Administracinių bylų teisenos įstatymo nustatytus reikalavimus.
 
-6. Skundas Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovui paduodamas per 20 darbo dienų nuo skundžiamo Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos teritorinio padalinio sprendimo priėmimo, atliktų veiksmų ar atsisakymo juos atlikti (neveikimo) dienos. Jeigu suinteresuotas asmuo praleidžia nustatytą skundo padavimo terminą dėl priežasčių, kurias Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas pripažįsta svarbiomis, šis terminas Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo sprendimu gali būti atnaujintas. Kartu su pareiškimu dėl skundo padavimo termino atnaujinimo turi būti paduotas ir skundas, kurio padavimo terminas yra praleistas.
+6. Skundas Nacionalinės žemės tarnybos vadovui paduodamas per 20 darbo dienų nuo skundžiamo Nacionalinės žemės tarnybos teritorinio padalinio vadovo sprendimo įteikimo suinteresuotam asmeniui, atliktų veiksmų ar atsisakymo juos atlikti (neveikimo) dienos. Jeigu suinteresuotas asmuo praleidžia nustatytą skundo padavimo terminą dėl priežasčių, kurias Nacionalinės žemės tarnybos vadovas pripažįsta svarbiomis, šis terminas Nacionalinės žemės tarnybos vadovo sprendimu gali būti atnaujintas. Su pareiškimu dėl skundo padavimo termino atnaujinimo turi būti pateikiamas ir skundas, kurio padavimo terminas praleistas.
 
-7. Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovui paduoti skundai turi būti išnagrinėti per 20 darbo dienų.
+7. Nacionalinės žemės tarnybos vadovui paduoti skundai turi būti išnagrinėti per 20 darbo dienų.
 
-8. Skundų nagrinėjimo tvarką tvirtina Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas.
+8. Skundų nagrinėjimo taisykles tvirtina Nacionalinės žemės tarnybos vadovas.
 
-9. Tuo atveju, jeigu nustatoma, kad sprendimai dėl nuosavybės teisių į žemę atkūrimo ar valstybinės žemės suteikimo nuosavybėn neatlygintinai, pardavimo, nuomos, perdavimo neatlygintinai naudotis priimti pažeidžiant įstatymų nustatytą tvarką ir jeigu dėl to nekyla ginčų, sprendimą gali panaikinti arba jį pakeisti sprendimą priėmęs Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas ar jo įgaliotas teritorinio padalinio vadovas.
+9. Jeigu nustatoma, kad sprendimai dėl nuosavybės teisių į žemę atkūrimo ar valstybinės žemės suteikimo nuosavybėn neatlygintinai, pardavimo, nuomos, perdavimo neatlygintinai naudotis priimti pažeidžiant įstatymų nustatytą tvarką ir jeigu dėl to nekyla ginčų, sprendimą gali panaikinti arba pakeisti jį priėmęs Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas.
 
 10. Institucija, atstovaujanti valstybei sudarant valstybinės žemės perleidimo, nuomos ar panaudos sandorius, privalo kontroliuoti, kaip vykdomos sandorių sąlygos, o nustačiusi, kad kita sandorio šalis jų nevykdo, – inicijuoti sandorio nutraukimą įstatymų nustatyta tvarka arba taikyti kitus įstatymų nustatytus šalių teisių ir interesų gynimo būdus.
 
@@ -493,19 +529,35 @@ Nr. IX-1171, 2002-11-05, Žin., 2002, Nr. 112-4975 (2002-11-22)
 
 Nr. XI-914, 2010-06-18, Žin., 2010, Nr. 72-3618 (2010-06-22)
 
+Straipsnio pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
+
 V skyrius
 
 Žemėtvarkos darbai
 
 19 straipsnis. Žemės reformos žemėtvarkos projektų sudarymas ir žemės servitutų nustatymas
 
-1. Žemės reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir tvirtinami Vyriausybės nustatyta tvarka pagal žemės ūkio ministro patvirtintą metodiką. Tais atvejais, kai priėmus sprendimą dėl žemės reformos žemėtvarkos projektui rengti parinktos teritorijos ribų patvirtinimo pateikta iki 10 prašymų atkurti nuosavybės teises į žemę, mišką ir vandens telkinius, suteikti nuosavybėn neatlygintinai, parduoti, išnuomoti, perduoti neatlygintinai naudotis ar patikėjimo teise valstybinę žemę, žemės ūkio ministro nustatyta tvarka pagal šio įstatymo 10 straipsnyje nustatytą eiliškumą rengiami žemės sklypų planai, kurie prilyginami žemės reformos žemėtvarkos projektams.
+1. Žemės reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir tvirtinami Vyriausybės nustatyta tvarka pagal aplinkos ministro patvirtintą metodiką, suderintą su žemės ūkio ministru. Kai priėmus sprendimą dėl žemės reformos žemėtvarkos projektui rengti parinktos teritorijos ribų patvirtinimo pateikta iki 10 prašymų atkurti nuosavybės teises į žemę, mišką ir vandens telkinius, suteikti nuosavybėn neatlygintinai, parduoti, išnuomoti, perduoti neatlygintinai naudotis ar patikėjimo teise valstybinę žemę, aplinkos ministro, suderinus su žemės ūkio ministru, nustatyta tvarka pagal šio įstatymo 10 straipsnyje nustatytą eiliškumą rengiami žemės sklypų planai, kurie prilyginami žemės reformos žemėtvarkos projektams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 
 2. Žemės reformos žemėtvarkos projektai, kuriuose projektuojami žemės sklypai piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio žemės sklypai, rengiami ir įgyvendinami valstybės lėšomis, o kitais atvejais – fizinių ar juridinių asmenų, užsienio organizacijų, juridinių asmenų ar užsienio organizacijų filialų lėšomis. Žemės reformos žemėtvarkos projektai, kuriuose suprojektuoti žemės sklypai piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio žemės sklypai, fizinių asmenų pageidavimu gali būti įgyvendinami jų lėšomis. Asmenų lėšomis atliekamų žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo darbų apmokėjimo tvarką nustato Vyriausybė.
 
-3. Žemės sklypų, suprojektuotų grąžinti natūra bendrosios nuosavybės teise, padalijimo projektai rengiami piliečių lėšomis Žemės ūkio ministerijos nustatyta tvarka.
+3. Žemės sklypų, suprojektuotų grąžinti natūra bendrosios nuosavybės teise, padalijimo projektai rengiami piliečių lėšomis žemės ūkio ministro kartu su aplinkos ministru nustatyta tvarka.
 
-4. Žemės reformos žemėtvarkos projektams rengti parinktų teritorijų ribas ir šių projektų parengimo terminus tvirtina Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas ar jo įgaliotas teritorinio padalinio vadovas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
+
+4. Žemės reformos žemėtvarkos projektams rengti parinktų teritorijų ribas ir šių projektų parengimo terminus tvirtina Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 
 5. Žemės reformos žemėtvarkos projektuose suprojektuojami grąžinamos, perduodamos arba suteikiamos nuosavybėn neatlygintinai žemės sklypai, tarp jų ir fizinių ar juridinių asmenų, užsienio organizacijų, juridinių asmenų ar užsienio organizacijų filialų naudojami nuosavybės teise ir reikalingi turimiems pastatams bei statiniams eksploatuoti, taip pat leistos pirkti ir nuomoti iš valstybės žemės sklypai, nustatomi jų plotai ir ribos, suprojektuojamas bendrojo naudojimo kelių tinklas, žemės sklypams nustatoma pagrindinė žemės naudojimo paskirtis, žemės servitutai ir žemės naudojimo sąlygos.
 
@@ -535,13 +587,17 @@ Nr. XII-414, 2013-06-27, Žin., 2013, Nr. 76-3831 (2013-07-16)
 
 20 straipsnis. Žemės reformos žemėtvarkos projektų svarstymo, derinimo ir tvirtinimo tvarka
 
-Apie žemės reformos žemėtvarkos projektus skelbiama viešai, šie projektai svarstomi ir derinami žemės reformos žemėtvarkos projektų rengimo metodikoje nustatyta tvarka, nepažeidžiant fizinių ir juridinių asmenų ar jų grupių, savivaldybių ir valstybės interesų ir teisių, užtikrinant gamtos ir jos išteklių apsaugą, atsižvelgiant į aplinkosaugos ir paveldosaugos reikalavimus. Suderintus žemės reformos žemėtvarkos projektus tvirtina Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas ar jo įgaliotas teritorinio padalinio vadovas.
+Apie žemės reformos žemėtvarkos projektus skelbiama viešai, šie projektai svarstomi ir derinami žemės reformos žemėtvarkos projektų rengimo metodikoje nustatyta tvarka, nepažeidžiant fizinių ir juridinių asmenų ar jų grupių, savivaldybių ir valstybės interesų ir teisių, užtikrinant gamtos ir jos išteklių apsaugą, atsižvelgiant į aplinkosaugos ir paveldosaugos reikalavimus. Suderintus žemės reformos žemėtvarkos projektus tvirtina Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas.
 
 Straipsnio pakeitimai:
 
 Nr. XI-914, 2010-06-18, Žin., 2010, Nr. 72-3618 (2010-06-22)
 
 Nr. XII-414, 2013-06-27, Žin., 2013, Nr. 76-3831 (2013-07-16)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 
 21 straipsnis. Žemės sklypų ženklinimas ir žemės nuosavybės bei žemės naudojimo teisės dokumentų išdavimas
 
@@ -912,4 +968,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2466, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17212
 
 Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 10 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
+
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 9, 10, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas
 
