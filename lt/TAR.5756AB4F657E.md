@@ -4,7 +4,7 @@ identifier: "TAR.5756AB4F657E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-07-02"
-last_updated: "2022-05-01"
+last_updated: "2023-01-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5756AB4F657E"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO IR STATYBOS VALSTYBINĖS
 
 PRIEŽIŪROS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-05-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-04-30
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 76-3848, i. k. 1131010ISTA0XII-459
 
@@ -47,13 +47,19 @@ BENDROSIOS NUOSTATOS
 
 2. Privalomasis nurodymas – atskiru teritorijų planavimo valstybinę priežiūrą ar statybos valstybinę priežiūrą atliekančios institucijos nustatytos formos administraciniu aktu teikiamas arba šio Įstatymo nustatytais atvejais kitame administraciniame akte įrašytas teritorijų planavimo valstybinę priežiūrą ar statybos valstybinę priežiūrą atliekančios institucijos ar pareigūno įpareigojimas viešojo administravimo subjektui, kitam juridiniam asmeniui ar jo padaliniui, kitai juridinio asmens statuso neturinčiai organizacijai ar jos padaliniui, fiziniam asmeniui per nustatytą terminą pateikti dokumentus, informaciją, pašalinti teritorijų planavimą ar statybą reglamentuojančių teisės aktų pažeidimus, panaikinti ar pakeisti neteisėtai priimtą administracinį sprendimą, atlikti kitus šiame įstatyme nurodytus veiksmus. Privalomojo nurodymo formą ir įteikimo tvarką nustato teritorijų planavimo valstybinę priežiūrą ir statybos valstybinę priežiūrą atliekančios institucijos.
 
-3. Statybos valstybinės priežiūros pareigūnai – Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, įgalioti atlikti šiame įstatyme ir kituose teisės aktuose nurodytas statybos valstybinės priežiūros funkcijas.
+3. Statybos valstybinės priežiūros pareigūnai – Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos valstybės tarnautojai, įgalioti atlikti šiame įstatyme ir kituose teisės aktuose nurodytas statybos valstybinės priežiūros funkcijas.
 
-4. Teritorijų planavimo valstybinės priežiūros institucijų pareigūnai – Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos ir Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, įgalioti atlikti šiame įstatyme ir kituose teisės aktuose nurodytas teritorijų planavimo valstybinės priežiūros funkcijas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1315, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15643
+
+4. Teritorijų planavimo valstybinės priežiūros institucijų pareigūnai – Nacionalinės žemės tarnybos prie Aplinkos ministerijos ir Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos valstybės tarnautojai, įgalioti atlikti šiame įstatyme ir kituose teisės aktuose nurodytas teritorijų planavimo valstybinės priežiūros funkcijas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+
+Nr. XIV-1315, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15643
 
 5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos teritorijų planavimo įstatyme (toliau – Teritorijų planavimo įstatymas) ir Lietuvos Respublikos statybos įstatyme (toliau – Statybos įstatymas).
 
@@ -65,7 +71,11 @@ TERITORIJŲ PLANAVIMO VALSTYBINĖ PRIEŽIŪRA
 
 1. Teritorijų planavimo valstybinę priežiūrą atlieka šios institucijos (toliau – teritorijų planavimo valstybinės priežiūros institucijos):
 
-1) Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos;
+1) Nacionalinė žemės tarnyba prie Aplinkos ministerijos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1315, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15643
 
 2) Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Inspekcija).
 
@@ -73,7 +83,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
 
-2. Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos atlieka teritorijų planavimo valstybinę priežiūrą žemėtvarkos schemų ir kaimo plėtros žemėtvarkos projektų rengimo atvejais.
+2. Nacionalinė žemės tarnyba prie Aplinkos ministerijos atlieka teritorijų planavimo valstybinę priežiūrą, kai rengiamos žemėtvarkos schemos ir kaimo plėtros žemėtvarkos projektai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1315, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15643
 
 3. Neteko galios nuo 2017-01-01.
 
@@ -1003,9 +1017,11 @@ Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
 
 2. Teritorijų planavimo valstybinės priežiūros institucijų ar Inspekcijos pareigūnai, nesiimantys veiksmų, užtikrinančių įstatymuose ar kituose teisės aktuose įtvirtintų reikalavimų laikymąsi ar viršijantys jiems suteiktus įgaliojimus, atsako įstatymų nustatyta tvarka.
 
-28 straipsnis. Pasiūlymas dėl šį įstatymą įgyvendinančių teisės aktų parengimo
+28 straipsnis. Neteko galios nuo 2023-01-04
 
-Lietuvos Respublikos aplinkos ministerija, Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos, Valstybinė miškų tarnyba ir Inspekcija iki šio įstatymo įsigaliojimo pagal kompetenciją priima šio įstatymo įgyvendinamuosius teisės aktus.
+Straipsnio naikinimas:
+
+Nr. XIV-1315, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15643
 
 29 straipsnis. Įstatymo įsigaliojimas
 
@@ -1056,6 +1072,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
 
 Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 3, 4, 5, 6, 6-1, 8, 9, 10, 11, 16, 17, 25 straipsnių ir penktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 11-1, 25-1 ir 25-2 straipsniais įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1315, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15643
+
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 2, 3 straipsnių pakeitimo ir 28 straipsnio pripažinimo netekusiu galios įstatymas
 
 61 straipsnis. Nevykdant teritorijų planavimo proceso priimtų administracinių sprendimų valstybinė priežiūra
 
