@@ -4,7 +4,7 @@ identifier: "TAR.BA283DF0FB41"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2021-11-01"
+last_updated: "2023-01-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-04-30
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
 
@@ -69,7 +69,11 @@ BENDROSIOS NUOSTATOS
 
 12. Saugotini želdiniai – medžiai ir krūmai, atitinkantys Lietuvos Respublikos Vyriausybės patvirtintus augimo vietos, rūšies ir matmenų kriterijus, pagal kuriuos medžiai ir krūmai priskiriami saugotiniems, ir (ar) savivaldybės atstovaujamosios institucijos sprendimu saugotinais paskelbti dendrologiškai, ekologiškai, estetiškai vertingi, kultūros paveldui ir kraštovaizdžiui reikšmingi medžiai ir krūmai, kuriems kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti reikalingas leidimas ar sprendimas.
 
-13. Savivaldybės želdynų ir želdinių teritorijos – želdiniais ar želdynais užimti žemės plotai, esantys savivaldybės patikėjimo ar panaudos teise valdomoje valstybinėje žemėje ir savivaldybei nuosavybės teise priklausančioje žemėje, taip pat valstybinės žemės valdytojos Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos valdomoje valstybinėje žemėje miestuose, miesteliuose ir kurortuose.
+13. Savivaldybės želdynų ir želdinių teritorijos – želdiniais ar želdynais užimti žemės plotai, esantys savivaldybės patikėjimo ar panaudos teise valdomoje valstybinėje žemėje ir savivaldybei nuosavybės teise priklausančioje žemėje, taip pat Nacionalinės žemės tarnybos prie Aplinkos ministerijos valdomoje valstybinėje žemėje miestuose, miesteliuose ir kurortuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1326, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15654
 
 14. Skveras – ne mažesnis kaip 0,03 hektaro dekoratyvinis ar trumpalaikiam poilsiui skirtas urbanizuotoje ir (ar) urbanizuojamoje teritorijoje esantis atskirasis želdynas su vyraujančiomis atviromis erdvėmis.
 
@@ -728,4 +732,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-199, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07437
 
 Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1326, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15654
+
+Lietuvos Respublikos želdynų įstatymo Nr. X-1241 2 straipsnio pakeitimo įstatymas
 
