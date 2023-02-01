@@ -4,7 +4,7 @@ identifier: "TAR.791BF9249C9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2023-01-01"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-31
+Suvestinė redakcija nuo 2023-02-01 iki 2023-12-28
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
 
@@ -410,13 +410,21 @@ Sporto finansavimą sudaro:
 
 1) organizuoja ir atlieka projektų atranką (vertina administracinę atitiktį ir turinio bei išlaidų pagrįstumą), priima sprendimus dėl projektų atitikties švietimo, mokslo ir sporto ministro nustatytiems administracinės atitikties kriterijams, rengia išvadas dėl projektų tinkamumo finansuoti vertinimo ir teikia jas komisijai;
 
-2) viešųjų pirkimų būdu organizuoja ir atlieka programų atranką;
+2) švietimo, mokslo ir sporto ministro nustatyta tvarka organizuoja ir atlieka programų atranką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1757, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00155
 
 3) priima sprendimus dėl valstybės biudžeto lėšų skyrimo programoms ir projektams įgyvendinti;
 
 4) sudaro valstybės biudžeto lėšomis finansuojamų programų ir projektų įgyvendinimo sutartis;
 
-5) vykdo programų ir projektų įgyvendinimo priežiūrą, įskaitant prevencinę viešųjų pirkimų kontrolę ir stebėseną, išlaidų pagrįstumo ir teisėtumo vertinimą įgyvendinamose programose ir projektuose ir dėl jų priima sprendimus;
+5) vykdo programų ir projektų įgyvendinimo priežiūrą, išlaidų pagrįstumo ir teisėtumo vertinimą įgyvendinamose programose ir projektuose ir dėl jų priima sprendimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1757, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00155
 
 6) prižiūri projektų tęstinumo įsipareigojimų vykdymą įgyvendinus projektus;
 
@@ -933,6 +941,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1757, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00155
+
+Lietuvos Respublikos sporto įstatymo Nr. I-1151 17 straipsnio pakeitimo įstatymas
 
 27 straipsnis. Kūno kultūros ir sporto specialistų veiklos reglamentavimas
 
