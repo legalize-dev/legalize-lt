@@ -4,7 +4,7 @@ identifier: "TAR.0475A2E41479"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-23"
-last_updated: "2018-07-01"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0475A2E41479"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2023-02-28
+Suvestinė redakcija nuo 2023-03-01
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 93-3257, i. k. 1011010ISTA00IX-565
 
@@ -69,7 +69,11 @@ Nr. XIII-777, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18831
 
 6) tvarkyti supirktą netauriųjų metalų laužą ir atliekas pagal Lietuvos Respublikos atliekų tvarkymo įstatymą ir kitus teisės aktus, reglamentuojančius atliekų tvarkymą;
 
-7) Statistikos departamento prie Lietuvos Respublikos Vyriausybės nustatyta tvarka teikti jam informaciją apie supirktą ir realizuotą netauriųjų metalų laužą ir atliekas.
+7) Neteko galios nuo 2023-03-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1701, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27283
 
 2. Supirkėjui draudžiama pirkti netauriųjų metalų laužą ir atliekas, nurodytas Vyriausybės ar jos įgaliotos institucijos patvirtintame Draudžiamų supirkti netauriųjų metalų laužo ir atliekų sąraše.
 
@@ -120,6 +124,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-777, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18831
 
 Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymo Nr. IX-565 3 ir 4 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1701, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27283
+
+Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymo Nr. IX-565 3 straipsnio pakeitimo įstatymas
 
 5 straipsnis. Įstatymo įsigaliojimas
 
