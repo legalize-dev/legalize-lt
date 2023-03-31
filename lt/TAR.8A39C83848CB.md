@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2023-01-01"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,15 +17,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-30
+Suvestinė redakcija nuo 2023-03-31 iki 2023-03-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
-Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus savivaldybės valdybai bei merui kitų įstatymų priskirtus vykdomuosius įgaliojimus iki tų įstatymų pakeitimo įgyvendina savivaldybės administracijos direktorius.
+TAR pastaba. Iki 2023 m. naujai išrinktų savivaldybių tarybų pirmųjų posėdžių taikomos iki LR įstatymo Nr. XIV-1838 įsigaliojimo dienos galiojusios Lietuvos Respublikos civilinio kodekso 3.241, 3.246, 3.250, 3.262 straipsnių, 3.264 straipsnio 1 ir 2 dalių ir 3.266 straipsnio nuostatos. Iki šio įstatymo taikymo dienos pradėtos vaiko laikinosios globos (rūpybos) nustatymo procedūros baigiamos pagal Civilinio kodekso nuostatas, galiojusias iki šio įstatymo įsigaliojimo dienos.
 
-Nr. IX-1327, 2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)
+Lietuvos Respublikos Seimas, Įstatymas
 
-VIETOS SAVIVALDOS ĮSTATYMO 3, 5, 6, 11, 12, 14, 15, 16, 17, 18, 20, 21, 28, 29, 30, 31, 33, 49, 50 STRAIPSNIŲ PAKEITIMO IR 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+Nr. XIV-1838, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05730
+
+Lietuvos Respublikos civilinio kodekso 3.210, 3.241, 3.246, 3.250, 3.260, 3.262, 3.264 ir 3.266 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -2859,7 +2861,7 @@ Nr. XIV-888, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00070
 
 3. Nesusituokę asmenys to paties vaiko įvaikinti negali.
 
-4. Įvaikintojais negali būti asmenys, teismo pripažinti neveiksniais šioje srityje arba ribotai veiksniais šioje srityje, asmenys, kuriems yra ar buvo apribota tėvų valdžia, buvę vaiko globėjai (rūpintojai), jei globa (rūpyba) panaikinta dėl jų kaltės šio kodekso 3.246 straipsnio 3 dalyje numatytais atvejais, asmenys, nuo kurių yra atskirtas vaikas, taip pat asmenys, turintys psichikos ir elgesio sutrikimų ar sergantys kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija. Įvaikintojais taip pat negali būti asmenys, nuteisti už tyčinį nusikaltimą žmoniškumui, žmogaus gyvybei, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, visuomenės saugumui, dorovei, nusikaltimą, pavojingą žmogaus gyvybei ir sveikatai, sunkų sveikatos sutrikdymą, taip pat nusikaltimą, susijusį su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas įstatymų nustatyta tvarka. Dėl asmens, nuteisto už kitas nusikalstamas veikas, teisės įvaikinti sprendžia teismas, įvertinęs padarytos nusikalstamos (nusikalstamų) veikos (veikų) pobūdį ir pavojingumą bei atsižvelgdamas į vaiko interesus.
+4. Įvaikintojais negali būti asmenys, teismo pripažinti neveiksniais šioje srityje arba ribotai veiksniais šioje srityje, asmenys, kuriems yra ar buvo apribota tėvų valdžia, buvę vaiko globėjai (rūpintojai), kurie buvo nušalinti nuo globėjo (rūpintojo) pareigų šio kodekso 3.246 straipsnio 2 dalyje numatytais atvejais, asmenys, nuo kurių yra atskirtas vaikas, taip pat asmenys, turintys psichikos ir elgesio sutrikimų ar sergantys kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija. Įvaikintojais taip pat negali būti asmenys, nuteisti už tyčinį nusikaltimą žmoniškumui, žmogaus gyvybei, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, visuomenės saugumui, dorovei, nusikaltimą, pavojingą žmogaus gyvybei ir sveikatai, sunkų sveikatos sutrikdymą, taip pat nusikaltimą, susijusį su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas įstatymų nustatyta tvarka. Dėl asmens, nuteisto už kitas nusikalstamas veikas, teisės įvaikinti sprendžia teismas, įvertinęs padarytos nusikalstamos (nusikalstamų) veikos (veikų) pobūdį ir pavojingumą bei atsižvelgdamas į vaiko interesus.
 
 Straipsnio dalies pakeitimai:
 
@@ -2868,6 +2870,8 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
 Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856
+
+Nr. XIV-1838, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05730
 
 5. Asmenys, norintys įsivaikinti vaiką (išskyrus vaiko motinos (tėvo) sutuoktinį ir giminaičius), turi būti įtraukti į asmenų, norinčių įsivaikinti vaiką, apskaitą, kurią tvarko valstybinė vaiko teisių apsaugos institucija.
 
@@ -3409,7 +3413,11 @@ Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 2. Bendras vaikų skaičius gali būti didesnis, nei nurodyta šio straipsnio 1 dalyje, kai neišskiriami broliai ir seserys, arba mažesnis, jeigu yra globojamas neįgalus vaikas.
 
-3. Vaiko globą (rūpybą) šeimynoje nustato įstatymai, Vyriausybės patvirtinti šeimynų nuostatai, kiti teisės aktai.
+3. Vaiko globa (rūpyba) šeimynoje nustatoma vadovaujantis įstatymais, Vyriausybės ar jos įgaliotos institucijos tvirtinamais šeimynų nuostatais, kitais teisės aktais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1838, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05730
 
 4. Vaiko globėjo (rūpintojo), įsteigusio šeimyną, darbo užmokestis ir kitos darbo apmokėjimo sąlygos nustatomos vadovaujantis įstatymais, Vyriausybės nutarimais bei kitais teisės aktais.
 
@@ -3433,7 +3441,11 @@ Nr. XIV-888, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00070
 
 3. Jeigu nustatoma vaiko nuolatinė globa (rūpyba), vaiko globėjas (rūpintojas) skiriamas teismo nutartimi pagal valstybinės vaiko teisių apsaugos institucijos pareiškimą.
 
-4. Kai steigiama vaiko globa (rūpyba), atsižvelgiama į mirusių vaiko tėvų (įtėvių) testamente pareikštą valią dėl vaiko globėjo (rūpintojo) skyrimo, jei tai neprieštarauja šio kodekso 3.269 straipsniui.
+4. Nustatant vaiko globą (rūpybą), atsižvelgiama į mirusių vaiko tėvų (įtėvių) testamente pareikštą valią dėl vaiko globėjo (rūpintojo) skyrimo, jei tai neprieštarauja šio kodekso 3.269 straipsniui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1838, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05730
 
 5. Nustatant vaiko globą (rūpybą), pirmenybė, atsižvelgiant į vaiko interesus, suteikiama tokia eile:
 
@@ -8623,16 +8635,6 @@ Nr. XIII-2863, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08530
 
 Nr. XIV-168, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01181
 
-5. Neteko galios nuo 2021-01-23
-
-Straipsnio dalies naikinimas:
-
-Nr. XIV-168, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01181
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-2956, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11673
-
 6.752 straipsnis. Organizuotos turistinės kelionės sutarties sąlygų pakeitimas iki organizuotos turistinės kelionės pradžios
 
 1. Kelionių organizatorius neturi teisės iki organizuotos turistinės kelionės pradžios vienašališkai keisti organizuotos turistinės kelionės sutarties sąlygų, išskyrus kainą šio kodekso 6.7521 straipsnyje nustatyta tvarka, nebent yra visos šios aplinkybės:
@@ -11672,6 +11674,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1435, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20226
 
 Lietuvos Respublikos civilinio kodekso 6.978 straipsnio pakeitimo įstatymas
+
+70.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1465, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22575
+
+Lietuvos Respublikos civilinio kodekso 6.747, 6.748, 6.749, 6.750, 6.751, 6.752, 6.752-1, 6.753, 6.754, 6.754-1, 6.755 straipsnių pakeitimo įstatymas
+
+71.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1838, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05730
+
+Lietuvos Respublikos civilinio kodekso 3.210, 3.241, 3.246, 3.250, 3.260, 3.262, 3.264 ir 3.266 straipsnių pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
