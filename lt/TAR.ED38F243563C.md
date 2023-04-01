@@ -4,7 +4,7 @@ identifier: "TAR.ED38F243563C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2022-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
 
@@ -525,7 +525,13 @@ III. NUKENTĖJUSIŲJŲ ASMENŲ VALSTYBINĖS PENSIJOS
 
 Nukentėjusiųjų asmenų valstybines pensijas turi teisę gauti Lietuvos Respublikos piliečiai, deklaravę gyvenamąją vietą arba įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka, kurie negauna iš kitos valstybės panašaus pobūdžio pensijos (išskyrus socialinio draudimo pensiją) ar kitokios nuolatinės kompensacinės išmokos:
 
-1) kurie tapo invalidais dėl 1991 metų sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, taip pat Lietuvos Respublikos nepriklausomybės gynėjai, sužaloti 1991 metų sausio 11–13 dienomis ir po to vykdytos SSRS agresijos, bet dėl to netapę invalidais, pateikę savivaldybės institucijos išduotą pažymėjimą, patvirtinantį nurodytą teisinį statusą, bei Lietuvos Respublikos generalinės prokuratūros išduotą pažymą, patvirtinančią sužalojimo, padaryto ginant Lietuvos Respublikos laisvę 1991 metais, faktą;
+1) kurie tapo invalidais dėl 1991 metų sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, taip pat Lietuvos Respublikos nepriklausomybės gynėjai, sužaloti dėl 1991 metų sausio 11–13 dienomis ir po to vykdytos SSRS agresijos, bet dėl to netapę invalidais, pateikę savivaldybės administracijos pagal Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymą išduotą pažymėjimą, patvirtinantį nurodytą teisinį statusą, bei Lietuvos Respublikos generalinės prokuratūros išduotą pažymą, patvirtinančią sužalojimo, padaryto ginant Lietuvos Respublikos laisvę 1991 metais, faktą;
+
+Straipsnio punkto pakeitimai:
+
+TAR pastaba. punkto nuostatospradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos valstybinių pensijų įstatymo nuostatos.
+
+Nr. XIV-1847, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05747
 
 2) Politiniai kaliniai, tremtiniai ir buvę beglobiai vaikai, pateikę Lietuvos Respublikos teisėsaugos institucijų išduotus dokumentus (reabilitacijos pažymas), patvirtinančius politinių kalinių ir tremtinių  teisių atkūrimą, arba Lietuvos gyventojų genocido ir rezistencijos tyrimo centro išduotus nuo okupacijų nukentėjusio asmens – politinio kalinio, tremtinio ar buvusio beglobio vaiko teisinio statuso pažymėjimus;
 
