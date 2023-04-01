@@ -4,7 +4,7 @@ identifier: "TAR.199156E4E004"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2023-03-31"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2023-03-31 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
 
@@ -312,11 +312,15 @@ Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA
 
 2. Už aplinkos pritaikymo neįgaliųjų specialiesiems poreikiams statybos normatyvinių techninių dokumentų parengimą ir jų įgyvendinimo priežiūrą atsako Aplinkos ministerija.
 
-3. Už objektų pritaikymą neįgaliųjų specialiesiems poreikiams atsako savivaldybių institucijos ir šio straipsnio 1 dalyje nurodytų objektų savininkai bei naudotojai. Sprendimą pritaikyti daugiabučio namo bendrojo naudojimo objektus neįgaliųjų specialiesiems poreikiams priima butų ir kitų patalpų savininkai Lietuvos Respublikos civilinio kodekso nustatyta tvarka. Jeigu butų ir kitų patalpų savininkų susirinkime priimamas sprendimas nepritaikyti daugiabučio namo bendrojo naudojimo objektų neįgaliųjų specialiesiems poreikiams, sprendimą, ar pritaikyti daugiabučio namo bendrojo naudojimo objektus neįgaliųjų specialiesiems poreikiams, kai toks pritaikymas finansuojamas ne iš bendrojo naudojimo objektų savininkų lėšų, priima savivaldybės vykdomoji institucija, gavusi buto ir kitų patalpų savininko prašymą dėl būsto pritaikymo neįgaliajam, vadovaudamasi socialinės apsaugos ir darbo ministro nustatyta būsto pritaikymo neįgaliesiems tvarka. Sprendimą pritaikyti daugiabučio namo bendrojo naudojimo objektus neįgaliųjų specialiesiems poreikiams, kai toks pritaikymas finansuojamas ne iš bendrojo naudojimo objektų savininkų lėšų, priėmusi savivaldybės vykdomoji institucija užtikrina, kad daugiabučio namo bendrojo naudojimo objektų pritaikymas neįgaliųjų specialiesiems poreikiams turi būti atliktas nesumažinant kitų daugiabučio namo butų ir kitų patalpų savininkų nekilnojamojo turto vertės. Už daugiabučio namo bendrojo naudojimo objektų pritaikymą neįgaliųjų specialiesiems poreikiams, kai toks pritaikymas finansuojamas ne iš bendrojo naudojimo objektų savininkų lėšų, atsako savivaldybės vykdomoji institucija.
+3. Už objektų pritaikymą neįgaliųjų specialiesiems poreikiams atsako savivaldybių institucijos ir šio straipsnio 1 dalyje nurodytų objektų savininkai bei naudotojai. Sprendimą pritaikyti daugiabučio namo bendrojo naudojimo objektus neįgaliųjų specialiesiems poreikiams priima butų ir kitų patalpų savininkai Lietuvos Respublikos civilinio kodekso nustatyta tvarka. Jeigu butų ir kitų patalpų savininkų susirinkime priimamas sprendimas nepritaikyti daugiabučio namo bendrojo naudojimo objektų neįgaliųjų specialiesiems poreikiams, sprendimą, ar pritaikyti daugiabučio namo bendrojo naudojimo objektus neįgaliųjų specialiesiems poreikiams, kai toks pritaikymas finansuojamas ne iš bendrojo naudojimo objektų savininkų lėšų, priima savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius, gavęs buto ir kitų patalpų savininko prašymą dėl būsto pritaikymo neįgaliajam, vadovaudamasis socialinės apsaugos ir darbo ministro nustatyta būsto pritaikymo neįgaliesiems tvarka. Sprendimą pritaikyti daugiabučio namo bendrojo naudojimo objektus neįgaliųjų specialiesiems poreikiams, kai toks pritaikymas finansuojamas ne iš bendrojo naudojimo objektų savininkų lėšų, priėmęs savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius užtikrina, kad daugiabučio namo bendrojo naudojimo objektų pritaikymas neįgaliųjų specialiesiems poreikiams turi būti atliktas nesumažinant kitų daugiabučio namo butų ir kitų patalpų savininkų nekilnojamojo turto vertės. Už daugiabučio namo bendrojo naudojimo objektų pritaikymą neįgaliųjų specialiesiems poreikiams, kai toks pritaikymas finansuojamas ne iš bendrojo naudojimo objektų savininkų lėšų, atsako savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius.
+
+TAR pastaba. 3 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nuostatos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
+
+Nr. XIV-1840, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05734
 
 4. Už informacinės aplinkos neįgaliesiems pritaikymo organizavimą atsako Vyriausybės įgaliota institucija.
 
@@ -1146,11 +1150,15 @@ Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
 
 1. Asmeninės pagalbos poreikis nustatomas individualiai kiekvienam neįgaliajam, vertinant kompleksiškai sveikatos būklę ar organizmo funkcinius sutrikimus, galimybes atlikti darbus ir vykdyti veiklas, kurie yra būtini siekiant gyventi savarankiškai ir veikti visose gyvenimo srityse.
 
-2. Neįgaliojo, pageidaujančio gauti asmeninę pagalbą, asmeninės pagalbos poreikį jo prašymu nustato socialiniai darbuotojai, paskirti savivaldybės vykdomosios institucijos nustatyta tvarka. Asmeninės pagalbos poreikio nustatymo ir asmeninės pagalbos teikimo tvarką nustato socialinės apsaugos ir darbo ministras. Sprendimą dėl asmeninės pagalbos skyrimo, sustabdymo, atnaujinimo, pratęsimo ir nutraukimo priima socialinio darbuotojo, nustačiusio asmeninės pagalbos poreikį, teikimu savivaldybės vykdomoji institucija ar jos įgaliotas asmuo. Asmeninės pagalbos poreikis nustatomas vieniems metams nuo sprendimo dėl asmeninės pagalbos skyrimo priėmimo dienos.
+2. Neįgaliojo, pageidaujančio gauti asmeninę pagalbą, asmeninės pagalbos poreikį jo prašymu nustato socialiniai darbuotojai. Asmeninės pagalbos poreikio nustatymo ir asmeninės pagalbos teikimo tvarką nustato socialinės apsaugos ir darbo ministras. Sprendimą dėl asmeninės pagalbos skyrimo, sustabdymo, atnaujinimo, pratęsimo ir nutraukimo priima socialinio darbuotojo, nustačiusio asmeninės pagalbos poreikį, teikimu savivaldybės administracija. Asmeninės pagalbos poreikis nustatomas vieniems metams nuo sprendimo dėl asmeninės pagalbos skyrimo priėmimo dienos.
+
+TAR pastaba. 2 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nuostatos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
+
+Nr. XIV-1840, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05734
 
 3. Asmeninis asistentas, pradėdamas teikti asmeninio asistento paslaugas, turi būti išklausęs įžanginius individualios priežiūros personalo mokymus, jeigu neturi Lietuvos Respublikos socialinių paslaugų įstatyme nustatyto išsilavinimo arba nėra įgijęs socialinio darbuotojo padėjėjo, lankomosios priežiūros ar asmeninio asistento kvalifikacijos pagal socialinių darbuotojų padėjėjo, lankomosios priežiūros ar asmeninio asistento profesinio mokymo programą. Įžanginiai individualios priežiūros personalo mokymai vykdomi pagal individualios priežiūros personalo profesinės kompetencijos tobulinimo programas socialinės apsaugos ir darbo ministro nustatyta tvarka.
 
