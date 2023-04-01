@@ -4,7 +4,7 @@ identifier: "TAR.915C6D6EB2A5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-13"
-last_updated: "2023-03-31"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.915C6D6EB2A5"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 19 straipsnis įsigalioja 2006-06-30."
 ---
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymas
 
-Suvestinė redakcija nuo 2023-03-31 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 73-2755, i. k. 1061010ISTA000X-686
 
@@ -248,11 +248,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
 
-2. Sprendimas dėl socialinės paramos mokiniams, išskyrus šio straipsnio 1 dalyje nustatytą atvejį, skyrimo ar nutraukimo priimamas savivaldybės, kurioje pateiktas prašymas-paraiška, administracijos direktoriaus nustatyta tvarka. Užpildomas socialinės apsaugos ir darbo ministro patvirtintos formos sprendimas dėl socialinės paramos mokiniams skyrimo ar nutraukimo.
+2. Sprendimas dėl socialinės paramos mokiniams, išskyrus šio straipsnio 1 dalyje nustatytą atvejį, skyrimo ar nutraukimo priimamas savivaldybės, kurioje pateiktas prašymas-paraiška, mero nustatyta tvarka. Užpildomas socialinės apsaugos ir darbo ministro patvirtintos formos sprendimas dėl socialinės paramos mokiniams skyrimo ar nutraukimo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
+
+Nr. XIV-1843, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05740
 
 3. Priklausomai nuo prašymo-paraiškos ir visų dokumentų, reikalingų mokinių nemokamam maitinimui skirti, pateikimo dienos, mokinių nemokamas maitinimas skiriamas:
 
@@ -390,51 +392,39 @@ Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
 
 1) skirsto šiam įstatymui įgyvendinti gautas valstybės biudžeto lėšas;
 
-2) mokinių nemokamo maitinimo valstybinėse mokyklose tvarkos apraše turi teisę numatyti atvejus iš savo biudžeto lėšų skirti socialinę paramą mokiniams ir kitais, šio įstatymo nenustatytais, atvejais.
+2) mokinių nemokamo maitinimo valstybinėse mokyklose tvarkos apraše turi teisę numatyti atvejus, kuriais iš savo biudžeto lėšų gali skirti socialinę paramą mokiniams ir kitais, šio įstatymo nenustatytais, atvejais;
+
+3) atsako už valstybės biudžeto lėšų, skiriamų šiam įstatymui įgyvendinti, tikslingą panaudojimą.
 
 2. Savivaldybių tarybos:
 
 1) skirsto šiam įstatymui įgyvendinti gautas valstybės ir savivaldybės biudžeto lėšas;
 
-2) mokinių nemokamo maitinimo savivaldybės ir nevalstybinėse mokyklose tvarkos apraše turi teisę numatyti atvejus iš savivaldybės biudžeto lėšų skirti socialinę paramą mokiniams ir kitais, šio įstatymo nenustatytais, atvejais.
+2) mokinių nemokamo maitinimo savivaldybės ir nevalstybinėse mokyklose tvarkos apraše turi teisę numatyti atvejus, kuriais iš savivaldybės biudžeto lėšų gali skirti socialinę paramą mokiniams ir kitais, šio įstatymo nenustatytais, atvejais.
 
 3. Savivaldybių administracijos ir Švietimo, mokslo ir sporto ministerija:
 
-1) savivaldybių administracijos atsako už valstybės ir savivaldybės biudžeto lėšų, skiriamų šiam įstatymui įgyvendinti, o Švietimo, mokslo ir sporto ministerija – už valstybės biudžeto lėšų tikslingą panaudojimą;
+1) nustato produktams įsigyti skiriamų lėšų dydį, vadovaudamosi šio įstatymo 7 straipsniu;
 
-2) nustato produktams įsigyti skiriamų lėšų dydį, vadovaudamosi šio įstatymo 7 straipsniu;
+2) teikia Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai duomenis apie pagrįstą valstybės biudžeto lėšų, reikalingų šiam įstatymui įgyvendinti, poreikį, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie valstybės biudžeto lėšų poreikį socialinei paramai mokiniams teikimo tvarkos aprašu;
 
-3) teikia Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai duomenis apie pagrįstą valstybės biudžeto lėšų, reikalingų šiam įstatymui įgyvendinti, poreikį, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie valstybės biudžeto lėšų poreikį socialinei paramai mokiniams teikimo tvarkos aprašu;
+3) renka ir kaupia duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarkos aprašu, analizuoja duomenis apie remiamus mokinius ir lėšų panaudojimą mokyklose, laiku apskaičiuoja papildomai reikalingas ar numatomas nepanaudoti einamaisiais metais lėšas;
 
-4) renka ir kaupia duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarkos aprašu, analizuoja duomenis apie remiamus mokinius ir lėšų panaudojimą mokyklose, laiku apskaičiuoja papildomai reikalingas ar numatomas nepanaudoti einamaisiais metais lėšas;
+4) teikia Socialinės apsaugos ir darbo ministerijai duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarkos aprašu. Savivaldybių ir mokyklų, kuriose savivaldybės administruoja mokinių nemokamą maitinimą, administracijos stebėsenos ir analizės tikslais duomenis apie socialinės paramos mokiniams gavėjų skaičių ir jiems suteiktą socialinę paramą mokiniams teikia Socialinės paramos šeimai informacinėje sistemoje (SPIS);
 
-5) teikia Socialinės apsaugos ir darbo ministerijai duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarkos aprašu. Savivaldybių ir mokyklų, kuriose savivaldybės administruoja mokinių nemokamą maitinimą, administracijos stebėsenos ir analizės tikslais duomenis apie socialinės paramos mokiniams gavėjų skaičių ir jiems suteiktą socialinę paramą mokiniams teikia Socialinės paramos šeimai informacinėje sistemoje (SPIS);
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
-
-6) gavusios informaciją apie pasikeitusias aplinkybes, turinčias įtakos skiriant socialinę paramą mokiniams, ar kilus įtarimui, kad pateikta neteisinga informacija arba ji yra nuslėpta, apie tai praneša savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, administracijai.
+5) gavusios informaciją apie pasikeitusias aplinkybes, turinčias įtakos skiriant socialinę paramą mokiniams, ar kilus įtarimui, kad pateikta neteisinga informacija arba ji yra nuslėpta, apie tai praneša savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, administracijai.
 
 4. Savivaldybių administracijos:
 
 1) tikrina pareiškėjo pateiktą informaciją, turinčią įtakos teisei į socialinę paramą mokiniams;
 
-2) jeigu yra šio įstatymo 5 straipsnio 2 dalyje ar 10 straipsnio 7 dalyje nustatytos aplinkybės ar kyla įtarimas, kad pateikta neteisinga informacija ar pareiškėjas nevykdo šio įstatymo 17 straipsnio 4 punkte nustatytų pareigų, tikrina bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas ir surašo buities ir gyvenimo sąlygų patikrinimo aktą. Tokiais atvejais šis aktas yra vienas iš dokumentų teisei į socialinę paramą mokiniams nustatyti;
+2) jeigu yra šio įstatymo 5 straipsnio 2 dalyje ar 10 straipsnio 7 dalyje nustatytos aplinkybės ar kyla įtarimas, kad pateikta neteisinga informacija ar pareiškėjas nevykdo šio įstatymo 17 straipsnio 4 punkte nustatytų pareigų, tikrina bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas ir surašo buities ir gyvenimo sąlygų patikrinimo aktą. Tokiais atvejais šis aktas yra vienas iš dokumentų teisei į socialinę paramą mokiniams nustatyti;
 
-Straipsnio punkto pakeitimai:
+3) sudaro mokinio reikmenų rinkinius, vadovaudamosi šio įstatymo 8 straipsniu;
 
-Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
-
-3) sudaro mokinio reikmenų rinkinius vadovaudamosi šio įstatymo 8 straipsniu;
-
-4) turi teisę savivaldybės tarybos nustatyta tvarka, patikrinus bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, mokiniams skirti nemokamą maitinimą ir (ar) paramą mokinio reikmenims įsigyti išimties atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, kai motina ar tėvas vieni augina vaiką (vaikus), kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar bent vienas iš bendrai gyvenančių asmenų ar vienas gyvenantis asmuo yra neįgalus, kai mokinys patiria socialinę riziką arba mokinį augina bendrai gyvenantys asmenys, patiriantys socialinę riziką), jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2,5 valstybės remiamų pajamų dydžio. Tam tikslui gali būti panaudojama iki 6 procentų šio įstatymo 4 straipsnio 2 dalies 1, 2 ir 4 punktuose numatytoms išlaidoms finansuoti skirtų valstybės biudžeto lėšų dydžio suma.
+4) turi teisę savivaldybės tarybos nustatyta tvarka, patikrinus bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, mokiniams skirti nemokamą maitinimą ir (ar) paramą mokinio reikmenims įsigyti išimties atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, kai motina ar tėvas vieni augina vaiką (vaikus), kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar bent vienas iš bendrai gyvenančių asmenų ar vienas gyvenantis asmuo yra neįgalus, kai mokinys patiria socialinę riziką arba mokinį augina bendrai gyvenantys asmenys, patiriantys socialinę riziką), jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2,5 valstybės remiamų pajamų dydžio. Tam tikslui gali būti panaudota iki 6 procentų šio įstatymo 4 straipsnio 2 dalies 1, 2 ir 4 punktuose numatytoms išlaidoms finansuoti skirtų valstybės biudžeto lėšų dydžio suma.
 
 5. Mokyklų administracijos privalo užtikrinti nemokamų pietų teikimą šio įstatymo 5 straipsnio 3 dalyje nurodytiems mokiniams.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
 
 6. Nevalstybinių mokyklų administracijos:
 
@@ -444,7 +434,9 @@ Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
 
 3) teikia savivaldybės, kurios teritorijoje veikia mokykla, administracijai duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarkos aprašu.
 
-Straipsnio dalies pakeitimai:
+7. Savivaldybių merai atsako už valstybės ir savivaldybės biudžeto lėšų, skiriamų šiam įstatymui įgyvendinti, tikslingą naudojimą.
+
+Straipsnio pakeitimai:
 
 Nr. XIV-1843, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05740
 
