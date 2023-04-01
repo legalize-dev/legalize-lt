@@ -4,7 +4,7 @@ identifier: "TAR.7A932101FADA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2023-01-04"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-05-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
 
@@ -152,11 +152,13 @@ Nr. XIV-1314, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15642
 
 3. Žemės savininkas apie sprendimą parduoti žemės ūkio paskirties žemės sklypą praneša pasirinktam notarui arba Nacionalinei žemės tarnybai. Pranešime apie sprendimą parduoti žemės ūkio paskirties žemės sklypą žemės savininkas privalo nurodyti žemės ūkio paskirties žemės sklypo naudotoją (naudotojus), jeigu žemės ūkio paskirties žemės sklypą naudoja kitas asmuo, ir pardavimo sąlygas. Žemės sklypo savininkui draudžiama nustatyti žemės ūkio paskirties žemės sklypo pardavimo sąlygą, numatančią, kad šio straipsnio 1 ar 2 dalyje nurodytas pirmumo teisę turintis asmuo gali pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemės sklypą tik kartu su kitais parduodamais žemės sklypais, išskyrus atvejus, kai visi parduodami žemės sklypai ribojasi tarpusavyje. Jeigu žemės ūkio paskirties žemės sklypo pardavėjo pranešimas pateikiamas notarui, šis ne vėliau kaip per 2 darbo dienas nuo jo gavimo dienos pranešimą perduoda Nacionalinei žemės tarnybai. Kai parduodama bendrosios nuosavybės teise valdoma žemės ūkio paskirties žemės sklypo dalis, pranešimas apie sprendimą parduoti žemės ūkio paskirties žemės sklypo dalį Nacionalinei žemės tarnybai pateikiamas tik tuo atveju, jeigu Civilinio kodekso 4.79 straipsnyje nustatyta tvarka pirmumo teise pirkti žemės sklypą nepasinaudoja žemės sklypo bendraturtis.
 
-4. Nacionalinė žemės tarnyba apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 5 darbo dienas nuo žemės savininko pranešimo gavimo dienos raštu praneša parduodamo žemės sklypo naudotojui (naudotojams), asmenims, kurių nuosavybės teise turimi žemės sklypai ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, savivaldybės pagal žemės buvimo vietą administracijos direktoriui ar kitai žemės paėmimu visuomenės poreikiams suinteresuotai institucijai, jeigu parduodamą žemės ūkio paskirties žemės sklypą pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, ir valstybės įmonei Žemės ūkio duomenų centrui. Nacionalinė žemės tarnyba informaciją apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant šio straipsnio 1 dalies 4 punkte nurodyti asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 2 darbo dienas nuo žemės savininko pranešimo gavimo dienos taip pat paskelbia Nacionalinės žemės tarnybos interneto svetainėje. Šie asmenys savo sutikimą (sprendimą, kai žemė įsigyjama valstybės nuosavybėn) pirkti žemės ūkio paskirties žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinei žemės tarnybai ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo arba pranešimo paskelbimo Nacionalinės žemės tarnybos interneto svetainėje dienos. Šio straipsnio 1 dalies 2–4 punktuose nurodyti asmenys, pageidaujantys pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemės sklypą, kartu su sutikimu pirkti žemės sklypą pateikia dokumentus, kuriais patvirtinama jų atitiktis pirmumo teisei.
+4. Nacionalinė žemės tarnyba apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 5 darbo dienas nuo žemės savininko pranešimo gavimo dienos raštu praneša parduodamo žemės sklypo naudotojui (naudotojams), asmenims, kurių nuosavybės teise turimi žemės sklypai ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, savivaldybės pagal žemės buvimo vietą merui ar kitai žemės paėmimu visuomenės poreikiams suinteresuotai institucijai, jeigu parduodamą žemės ūkio paskirties žemės sklypą pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, ir valstybės įmonei Žemės ūkio duomenų centrui. Nacionalinė žemės tarnyba informaciją apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant šio straipsnio 1 dalies 4 punkte nurodyti asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 2 darbo dienas nuo žemės savininko pranešimo gavimo dienos taip pat paskelbia Nacionalinės žemės tarnybos interneto svetainėje. Šie asmenys savo sutikimą (sprendimą, kai žemė įsigyjama valstybės nuosavybėn) pirkti žemės ūkio paskirties žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinei žemės tarnybai ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo arba pranešimo paskelbimo Nacionalinės žemės tarnybos interneto svetainėje dienos. Šio straipsnio 1 dalies 2–4 punktuose nurodyti asmenys, pageidaujantys pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemės sklypą, kartu su sutikimu pirkti žemės sklypą pateikia dokumentus, kuriais patvirtinama jų atitiktis pirmumo teisei.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1310, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15637
+
+TAR pastaba. 4 dalyje išdėstytos nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
 
 Nr. XIV-1314, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15642
 
