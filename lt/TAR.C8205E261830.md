@@ -4,7 +4,7 @@ identifier: "TAR.C8205E261830"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2023-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
+
+TAR pastaba. Įstatymo Nr. XIV-1839 nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo nuostatos. Iki šio įstatymo taikymo dienos pradėtos vaiko laikinosios globos (rūpybos) nustatymo procedūros baigiamos pagal Vaiko teisių apsaugos pagrindų įstatymo nuostatas, galiojusias iki šio įstatymo įsigaliojimo dienos.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
+
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 36-4, 41, 42, 43, 50 ir 52 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2018-07-01:
 
@@ -39,10 +47,6 @@ I SKYRIUS
 BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
-
-1. Šio įstatymo paskirtis – užtikrinti vaiko teisių ir laisvių įgyvendinimą, gynimą ir apsaugą, stiprinti tėvų ir kitų vaiko atstovų pagal įstatymą atsakomybę ir galimybes rūpintis vaiku, užtikrinti vaiko interesus, nustatyti pagalbos vaikui ir šeimai ar kitiems jo atstovams pagal įstatymą organizavimo pagrindus, atsižvelgiant į Lietuvos Respublikos Konstitucijos, Jungtinių Tautų vaiko teisių konvencijos ir Vaiko teisių deklaracijos nuostatas, apibrėžti vaiko teisių užtikrinimo ir apsaugos mechanizmus, vaiko teisių apsaugos sistemos institucijas, jų veiklos teisinius pagrindus ir bendrąsias atsakomybės už vaiko teisių pažeidimus nuostatas.
-
-1 dalies redakcija, įsigaliojanti nuo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros įsigaliojimo Lietuvos Respublikai dienos:
 
 1. Šio įstatymo paskirtis – užtikrinti vaiko teisių ir laisvių įgyvendinimą, gynimą ir apsaugą, stiprinti tėvų ir kitų vaiko atstovų pagal įstatymą atsakomybę ir galimybes rūpintis vaiku, užtikrinti vaiko interesus, nustatyti pagalbos vaikui ir šeimai ar kitiems jo atstovams pagal įstatymą organizavimo pagrindus, atsižvelgiant į Lietuvos Respublikos Konstitucijos, Jungtinių Tautų vaiko teisių konvencijos, jos fakultatyvių protokolų ir Jungtinių Tautų vaiko teisių deklaracijos nuostatas, apibrėžti vaiko teisių užtikrinimo ir apsaugos mechanizmus, vaiko teisių apsaugos sistemos institucijas, jų veiklos teisinius pagrindus ir bendrąsias atsakomybės už vaiko teisių pažeidimus nuostatas.
 
@@ -172,10 +176,6 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
-3) teisės viršenybės – vaiko teisių apsaugą siekiama užtikrinti vadovaujantis Lietuvos Respublikos Konstitucija (toliau – Konstitucija), Jungtinių Tautų vaiko teisių konvencija, kitomis ratifikuotomis tarptautinėmis sutartimis, Lietuvos Respublikos įstatymais;
-
-3 punkto redakcija, įsigaliojanti nuo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros įsigaliojimo Lietuvos Respublikai dienos:
-
 3) teisės viršenybės – vaiko teisių apsaugą siekiama užtikrinti vadovaujantis Konstitucija, Jungtinių Tautų vaiko teisių konvencija, jos fakultatyviais protokolais, kitomis ratifikuotomis tarptautinėmis sutartimis ir Lietuvos Respublikos įstatymais;
 
 Straipsnio punkto pakeitimai:
@@ -191,10 +191,6 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
-
-5) nediskriminavimo – kiekvienas vaikas turi lygias su kitais vaikais teises ir negali būti diskriminuojamas dėl savo arba savo tėvų ar kitų jo atstovų pagal įstatymą lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, įsitikinimų ar pažiūrų, amžiaus, sveikatos būklės, religijos, etninės priklausomybės ar kitų aplinkybių. Kiekvienam vaikui be jokios diskriminacijos garantuojamos visos Konstitucijoje, Jungtinių Tautų vaiko teisių konvencijoje, Jungtinių Tautų Neįgaliųjų teisių konvencijoje, Jungtinių Tautų Vaiko teisių deklaracijoje išvardytos teisės ir laisvės;
-
-5 punkto redakcija, įsigaliojanti nuo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros įsigaliojimo Lietuvos Respublikai dienos:
 
 5) nediskriminavimo – kiekvienas vaikas turi lygias su kitais vaikais teises ir negali būti diskriminuojamas dėl savo arba savo tėvų ar kitų jo atstovų pagal įstatymą lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, įsitikinimų ar pažiūrų, amžiaus, sveikatos būklės, religijos, etninės priklausomybės ar kitų aplinkybių. Kiekvienam vaikui be jokios diskriminacijos garantuojamos visos Konstitucijoje, Jungtinių Tautų vaiko teisių konvencijoje, jos fakultatyviuose protokoluose, Jungtinių Tautų neįgaliųjų teisių konvencijoje ir Jungtinių Tautų vaiko teisių deklaracijoje išvardytos teisės ir laisvės;
 
@@ -594,8 +590,6 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 9. Vaikas (vaikai) pats (patys) ar per kitą (kitus) asmenį (asmenis), veikiantį (veikiančius) jo (jų) vardu, turi teisę kreiptis į Jungtinių Tautų Vaiko teisių komitetą dėl vaiko teisių, įtvirtintų Jungtinių Tautų vaiko teisių konvencijoje ir (ar) jos fakultatyviuose protokoluose, pažeidimo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros nustatyta tvarka.
 
-TAR pastaba. 29 straipsnio papildymas 9 dalimi įsigalioja nuo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros įsigaliojimo Lietuvos Respublikai dienos.
-
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
@@ -938,7 +932,11 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 5. Teikiamų paslaugų trukmę nustato atvejo vadybininkas, atsižvelgdamas į atvejo vadybos procese dalyvaujančių specialistų rekomendacijas.
 
-6. Vaiko tėvai ar kiti jo atstovai pagal įstatymą turi teisę kreiptis į savo gyvenamosios vietos savivaldybės administracijos direktorių dėl pagalbos plano sudarymo pagrįstumo.
+6. Vaiko tėvai ar kiti jo atstovai pagal įstatymą turi teisę kreiptis į savo gyvenamosios vietos savivaldybės merą dėl pagalbos plano sudarymo pagrįstumo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
 
 Straipsnio pakeitimai:
 
@@ -964,11 +962,13 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 2. Prašymas dėl leidimo paimti vaiką iš jo tėvų ar kitų jo atstovų pagal įstatymą nagrinėjamas Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
 
-3. Per 3 darbo dienas nuo teismo leidimo paimti vaiką iš tėvų, kitų jo atstovų pagal įstatymą išdavimo dienos Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius teikia savivaldybės administracijos direktoriui nurodymą nustatyti vaikui laikinąją globą (rūpybą) ir paskirti laikinąjį globėją (rūpintoją).
+3. Per 3 darbo dienas nuo teismo leidimo paimti vaiką iš tėvų, kitų jo atstovų pagal įstatymą išdavimo dienos Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius raštu teikia savivaldybės merui nurodymą nustatyti vaikui laikinąją globą (rūpybą) ir paskirti laikinąjį globėją (rūpintoją).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
+
+Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
 
 4. Įsiteisėjus teismo nutarčiai atsisakyti išduoti leidimą paimti vaiką iš jo tėvų ar kitų jo atstovų pagal įstatymą, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius organizuoja vaiko grąžinimą vaiko tėvams ar kitiems jo atstovams pagal įstatymą ir, bendradarbiaudamas su atvejo vadybininku, organizuoja pagalbos plano peržiūrą, kurios metu patikslinamos įgyvendinamos pagalbos plane nustatytos priemonės ir vaikui bei jo atstovams pagal įstatymą teikiamos paslaugos.
 
@@ -1000,7 +1000,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
-2. Vaikas šio straipsnio 1 dalyje nustatyta tvarka gali būti laikinai apgyvendinamas Civilinio kodekso 3.264 straipsnio 5 dalyje nustatyta prioriteto tvarka pas Civilinio kodekso 3.264 straipsnio 5 dalies 4–7 punktuose nurodytus asmenis, jeigu jie įtraukti į savivaldybės vykdomosios institucijos patvirtintą sąrašą šeimų, šeimynų ar institucijų, galinčių priimti likusį be tėvų globos vaiką bet kuriuo paros metu, arba nukreipiamas į sveikatos priežiūros įstaigą, jeigu reikia ištirti vaiko sveikatos būklę ar suteikti jam sveikatos priežiūros paslaugas.
+2. Vaikas šio straipsnio 1 dalyje nustatyta tvarka gali būti laikinai apgyvendinamas Civilinio kodekso 3.264 straipsnio 5 dalyje nustatyta prioriteto tvarka pas Civilinio kodekso 3.264 straipsnio 5 dalies 4–7 punktuose nurodytus asmenis, jeigu jie įtraukti į savivaldybės mero patvirtintą budinčių globotojų, globėjų (rūpintojų) šeimų, šeimynų ir vaikų socialinės globos institucijų, sutinkančių priimti likusį be tėvų globos vaiką bet kuriuo paros metu, sąrašą, arba siunčiamas į sveikatos priežiūros įstaigą, jeigu reikia ištirti vaiko sveikatos būklę ar suteikti jam sveikatos priežiūros paslaugas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
 
 3. Vaikų globos (rūpybos) institucijose vaikai apgyvendinami Civilinio kodekso 3.261 straipsnyje nustatytais atvejais.
 
@@ -1166,7 +1170,11 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 8) tvarko ir užtikrina vaikų, kuriems reikalingos ir taikomos vaiko teisių apsaugos priemonės, apskaitą, per savo struktūrinius padalinius – įgaliotus teritorinius skyrius organizuoja vaiko globos (rūpybos) savivaldybėse nustatymą;
 
-9) renka informaciją apie vaiko teisių apsaugos būklę savivaldybėse ir teikia metodinę pagalbą ir siūlymus savivaldybių administracijoms dėl vaiko teisių apsaugos įgyvendinimo tobulinimo;
+9) renka informaciją apie vaiko teisių apsaugos būklę savivaldybėse ir teikia metodinę pagalbą bei siūlymus savivaldybės institucijoms ir įstaigoms dėl vaiko teisių apsaugos įgyvendinimo tobulinimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
 
 10) koordinuoja mobiliųjų komandų darbą dėl pagalbos šeimai suteikimo;
 
@@ -1206,7 +1214,11 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 5) nustačius, kad savivaldybių institucijos ir įstaigos galimai pažeidė šį įstatymą ir su juo susijusius teisės aktus, informaciją apie tai pateikti atsakingoms institucijoms;
 
-6) kreiptis į savivaldybės administracijos direktorių dėl pagalbos vaikui ir šeimai teikimo tobulinimo.
+6) kreiptis į savivaldybės merą dėl pagalbos vaikui ir šeimai teikimo tobulinimo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
 
 51 straipsnis. Tarpžinybinė vaiko gerovės taryba
 
@@ -1256,7 +1268,11 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 14) užtikrina paslaugų teikimo organizavimą asmenims, siekiantiems globoti (rūpintis) ar įvaikinti vaiką, taip pat globojantiems (rūpinantiems) ar įvaikinusiems vaiką.
 
-2. Savivaldybės administracijos direktorius įsakymu kiekvienais metais tvirtina savivaldybės socialinių paslaugų įstaigose ar kitose įstaigose, kurioms savivaldybė suteikė įgaliojimus teikti socialines paslaugas ir kitokią pagalbą šeimai tam tikroje savivaldybės teritorijoje, socialinių darbuotojų, galinčių teikti atvejo vadybininko paslaugas konkrečioje savivaldybės teritorijoje, sąrašą. Į šį sąrašą gali būti įtraukti socialiniai darbuotojai, kurie atitinka šio įstatymo 2 straipsnio 3 dalyje ir 41 straipsnio 1 dalyje nurodytus reikalavimus.
+2. Savivaldybės meras kiekvienais metais tvirtina savivaldybės socialinių paslaugų įstaigose ar kitose įstaigose, kurioms savivaldybės taryba suteikė įgaliojimus teikti socialines paslaugas ir kitokią pagalbą šeimai tam tikroje savivaldybės teritorijoje, socialinių darbuotojų, galinčių teikti atvejo vadybininko paslaugas konkrečioje savivaldybės teritorijoje, sąrašą. Į šį sąrašą gali būti įtraukti socialiniai darbuotojai, kurie atitinka šio įstatymo 2 straipsnio 3 dalyje ir 41 straipsnio 1 dalyje nurodytus reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
 
 53 straipsnis. Nevyriausybinių organizacijų kompetencija vaiko teisių apsaugos srityje
 
@@ -1445,6 +1461,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1512, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23363
 
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 14, 48 straipsnių pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
+
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 36-4, 41, 42, 43, 50 ir 52 straipsnių pakeitimo įstatymas
 
 54 straipsnis. Vaiko, kuriam apribota ar atimta laisvė, teisės ir jų garantijos
 
@@ -1758,7 +1782,11 @@ Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
 
 8. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, pritaikęs šio straipsnio 1 dalies 1 ar 2 punkte nurodytą vaiko laikinosios priežiūros priemonę, nedelsdamas, bet ne vėliau kaip kitą darbo dieną nuo vaiko laikinosios priežiūros priemonės pritaikymo dienos, Įtariamųjų, kaltinamųjų ir nuteistųjų registre patikrina, ar vaiką laikinai prižiūrintis asmuo nėra teistas už šio įstatymo 30 straipsnio 1 dalyje nurodytų nusikaltimų padarymą. Išimtiniais atvejais, kai Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius neturi techninių galimybių pats tiesiogiai patikrinti šią informaciją Įtariamųjų, kaltinamųjų ir nuteistųjų registre, o skubus informacijos patikrinimas yra objektyviai būtinas, šiai informacijai patikrinti gali būti pasitelkiami policijos pareigūnai.
 
-9. Tais atvejais, kai vaiko tėvai ar kiti jo atstovai pagal įstatymą negali pasirūpinti vaiku dėl susiklosčiusių objektyvių aplinkybių (dėl gydymo, tėvų laikino išvykimo ir panašių aplinkybių), vaiko laikinoji priežiūra gali būti nustatoma vaiko tėvų ar kitų jo atstovų pagal įstatymą prašymu savivaldybės administracijos direktoriaus sprendimu pas vaiko giminaičius, su vaiku emociniais ryšiais susijusius asmenis ar kitus vaiko tėvų ar jo atstovų pagal įstatymą nurodytus asmenis, galinčius laikinai prižiūrėti vaiką, bet ne ilgiau kaip 6 mėnesius. Nustačius vaiko laikinąją priežiūrą vaiko tėvų ar kitų jo atstovų pagal įstatymą prašymu, vaiko laikinosios priežiūros išmoka neskiriama, tačiau vaiko laikinosios priežiūros metu jį prižiūrinčiam asmeniui gali būti skiriama socialinė parama (vienkartinė, tikslinė, periodinė, sąlyginė pašalpa) Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nustatyta tvarka.
+9. Tais atvejais, kai vaiko tėvai ar kiti jo atstovai pagal įstatymą negali pasirūpinti vaiku dėl susiklosčiusių objektyvių aplinkybių (dėl gydymo, tėvų laikino išvykimo ir panašių aplinkybių), vaiko laikinoji priežiūra socialinės apsaugos ir darbo ministro nustatyta tvarka gali būti nustatoma vaiko tėvų ar kitų jo atstovų pagal įstatymą prašymu savivaldybės mero ar jo įgalioto savivaldybės administracijos direktoriaus sprendimu pas vaiko giminaičius, su vaiku emociniais ryšiais susijusius asmenis ar kitus vaiko tėvų ar jo atstovų pagal įstatymą nurodytus asmenis, galinčius laikinai prižiūrėti vaiką, bet ne ilgiau kaip 6 mėnesius. Nustačius vaiko laikinąją priežiūrą vaiko tėvų ar kitų jo atstovų pagal įstatymą prašymu, vaiko laikinosios priežiūros išmoka neskiriama, tačiau vaiko laikinosios priežiūros metu jį prižiūrinčiam asmeniui gali būti skiriama socialinė parama (vienkartinė, tikslinė, periodinė, sąlyginė pašalpa) Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
 
 Straipsnio pakeitimai:
 
