@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2022-05-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
 
@@ -54,7 +54,11 @@ Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 
 5) ministrams;
 
-6) merams ir merų pavaduotojams;
+6) savivaldybių merams (toliau – meras);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1269, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15615
 
 7) savivaldybių tarybų nariams.
 
@@ -476,51 +480,43 @@ Ministrai
 
 5.
 
-Savivaldybių merai ir merų pavaduotojai, kai savivaldybės teritorijoje gyvena
-
-per 500 tūkst. gyventojų
-
-nuo 100 tūkst. gyventojų iki 500 tūkst. gyventojų
-
-nuo 50 tūkst. gyventojų iki 100 tūkst. gyventojų
-
-nuo 15 tūkst. gyventojų iki 50 tūkst. gyventojų
-
-iki 15 tūkst. gyventojų
+Merai, kai savivaldybės teritorijoje gyvena:
 
 5.1.
 
-Merai
+per 500 tūkst. gyventojų
 
 19,1
 
+5.2.
+
+nuo 100 tūkst. gyventojų iki 500 tūkst. gyventojų
+
 19
+
+5.3.
+
+nuo 50 tūkst. gyventojų iki 100 tūkst. gyventojų
 
 18,6
 
+5.4.
+
+nuo 15 tūkst. gyventojų iki 50 tūkst. gyventojų
+
 18,3
+
+5.5.
+
+iki 15 tūkst. gyventojų
 
 18
 
-5.2.
-
-Merų pavaduotojai
-
-16,1
-
-16
-
-15,6
-
-15,3
-
-15
-
 Pastabos.
 
-1. Savivaldybės mero ir mero pavaduotojo pareiginėms algoms taikytini koeficientai nustatomi atsižvelgiant į savivaldybės gyventojų skaičių, nustatytą pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje Lietuvos Respublikos gyventojų registro tvarkytojo nuostatuose nustatyta tvarka ir terminais. Nustatyti koeficientai galioja iki pirmojo išrinktos naujos savivaldybės tarybos posėdžio.
+1. Mero pareiginei algai taikytinas koeficientas nustatomas atsižvelgiant į savivaldybės gyventojų skaičių, nustatytą pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų ir merų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje Lietuvos Respublikos gyventojų registro tvarkytojo nuostatuose nustatyta tvarka ir terminais. Nustatytas koeficientas galioja iki pirmojo išrinktos naujos savivaldybės tarybos posėdžio.
 
-2. Jeigu savivaldybės teritorijoje yra kurortinė teritorija, savivaldybės merui ir mero pavaduotojams šio įstatymo priedėlio I skyriaus 5.1 ir 5.2 papunkčiuose nustatytas pareiginės algos koeficientas didinamas 4 procentais, o jeigu savivaldybės teritorijoje yra kurortas, savivaldybės merui ir mero pavaduotojams šio įstatymo priedėlio I skyriaus 5.1 ir 5.2 papunkčiuose nustatytas pareiginės algos koeficientas didinamas 5 procentais.
+2. Jeigu savivaldybės teritorijoje yra kurortinė teritorija, merui šio įstatymo priedėlio I skyriaus 5 punkte nustatytas pareiginės algos koeficientas didinamas 4 procentais, o jeigu savivaldybės teritorijoje yra kurortas, merui šio įstatymo priedėlio I skyriaus 5 punkte nustatytas pareiginės algos koeficientas didinamas 5 procentais.
 
 III. Prokurorų pareiginės algos
 
@@ -944,7 +940,9 @@ Nr. XIV-873, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26910
 
 Nr. XIV-639, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24250
 
-part_49535bd0a135457d8f4fee03388ccd68_end
+Nr. XIV-1269, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15615
+
+part_d396ab3ca29343ec8aa35b511dd2b4bc_end
 
 Pakeitimai:
 
