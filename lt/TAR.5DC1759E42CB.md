@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2023-01-02"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2023-01-02 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-04-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
+
+TAR pastaba. Įstatymo Nr. XIV-1858 nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki 2023 m. naujai išrinktų savivaldybių tarybų pirmųjų posėdžių taikomos iki 2023 m. kovo 31 d. galiojusios Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo nuostatos.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1858, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05789
+
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10, 11-1 ir 33 straipsnių pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2008-07-01 (25 straipsnio 6 dalis įsigaliojo nuo 2009-07-01):
 
@@ -1166,7 +1174,11 @@ Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
 7. Neteko galios nuo 2010 m. liepos 1 d.
 
-8. Užtikrindamas eismo saugumą, savivaldybės administracijos direktorius:
+8. Užtikrindamas eismo saugumą, savivaldybės meras arba jo įgaliotas savivaldybės administracijos direktorius:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1858, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05789
 
 1) vadovaudamasis nacionalinėse plėtros programose suplanuotomis valstybinės eismo saugumo užtikrinimo politikos įgyvendinimo priemonėmis, tvirtina savivaldybės eismo saugumo užtikrinimo priemones ir projektus;
 
@@ -1178,11 +1190,13 @@ Nr. XIII-3122, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15365
 
 3) sprendžia eismo organizavimo klausimus miestų ir kaimų gyvenamosiose vietovėse, vietinės reikšmės keliuose;
 
-4) rūpinasi vietinės reikšmės kelių ir gatvių priežiūra, transporto infrastruktūros objektų projektavimu, statyba, gatvių tiesimu, taisymu ir rekonstravimu, organizuoja kelių saugumo audito, juodųjų dėmių nustatymo, tyrimo ir šalinimo atlikimą vietinės reikšmės keliuose ir gatvėse, organizuoja medicinos pagalbos teikimą eismo įvykiuose nukentėjusiems asmenims, gali organizuoti savivaldybei priklausančių vietinės reikšmės kelių ir gatvių poveikio kelių saugumui vertinimą, reguliarų kelio saugumo patikrinimą, kelių darbo vietų aptvėrimo saugumo patikrinimą ir viso kelių tinklo saugumo vertinimą;
+4) organizuoja vietinės reikšmės kelių ir gatvių priežiūrą, transporto infrastruktūros objektų projektavimą, statybą, gatvių tiesimą, taisymą ir rekonstravimą, kelių saugumo audito, juodųjų dėmių nustatymo, tyrimo ir šalinimo atlikimą vietinės reikšmės keliuose ir gatvėse, medicinos pagalbos teikimą eismo įvykiuose nukentėjusiems asmenims, gali organizuoti savivaldybei priklausančių vietinės reikšmės kelių ir gatvių poveikio kelių saugumui vertinimą, reguliarų kelio saugumo patikrinimą, kelių darbo vietų aptvėrimo saugumo patikrinimą ir viso kelių tinklo saugumo vertinimą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+
+Nr. XIV-1858, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05789
 
 5) įgyvendina švietėjišką mokomąją veiklą eismo saugumo srityje;
 
@@ -2248,7 +2262,11 @@ Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 3) vizito saugumą užtikrinančios institucijos prašymu, jei vieta, kurioje stovi transporto priemonė, turi būti atlaisvinta dėl rengiamo Lietuvos Respublikos oficialaus svečio vizito.
 
-5. Sprendimą dėl priverstinio transporto priemonės nuvežimo šio straipsnio 1 dalyje nustatytais pagrindais ir sprendimą dėl uždraudimo toliau važiuoti šio straipsnio 2 ir 3 dalyse nustatytais pagrindais gali priimti padarytą administracinį nusižengimą ar nusikalstamą veiką tirti įgaliotos institucijos pareigūnai. Šio straipsnio 4 dalies 1 punkte nustatytais atvejais sprendimą dėl priverstinio transporto priemonės nuvežimo priima policijos arba savivaldybių vykdomųjų institucijų pareigūnai, šio straipsnio 4 dalies 2 punkte nustatytais atvejais – policijos arba Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūnai, o šio straipsnio 4 dalies 3 punkte nustatytais atvejais – policijos pareigūnai.
+5. Sprendimą dėl priverstinio transporto priemonės nuvežimo šio straipsnio 1 dalyje nustatytais pagrindais ir sprendimą dėl uždraudimo toliau važiuoti šio straipsnio 2 ir 3 dalyse nustatytais pagrindais gali priimti padarytą administracinį nusižengimą ar nusikalstamą veiką tirti įgaliotos institucijos pareigūnai. Šio straipsnio 4 dalies 1 punkte nustatytais atvejais sprendimą dėl priverstinio transporto priemonės nuvežimo priima policijos arba savivaldybių administracijų įgalioti pareigūnai, šio straipsnio 4 dalies 2 punkte nustatytais atvejais – policijos arba Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūnai, o šio straipsnio 4 dalies 3 punkte nustatytais atvejais – policijos pareigūnai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1858, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05789
 
 6. Pareigūnai, priėmę sprendimą dėl priverstinio transporto priemonės nuvežimo, apie jį praneša transporto priemonės savininkui (valdytojui).
 
@@ -2580,7 +2598,11 @@ Nr. XIII-3218, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15754
 
 4) gali būti atliekamas krašto ir rajoninių kelių poveikio kelių saugumui vertinimas, reguliarus kelio saugumo patikrinimas, kelių darbo vietų aptvėrimo saugumo patikrinimas ir viso kelių tinklo saugumo vertinimas;
 
-5) savivaldybės administracijos direktoriaus nustatyta tvarka gali būti atliekamas savivaldybėms priklausančių vietinės reikšmės kelių ir gatvių poveikio kelių saugumui vertinimas, reguliarus kelio saugumo patikrinimas, kelių darbo vietų aptvėrimo saugumo patikrinimas ir viso kelių tinklo saugumo vertinimas.
+5) savivaldybės mero arba jo įgalioto savivaldybės administracijos direktoriaus nustatyta tvarka gali būti atliekamas savivaldybėms priklausančių vietinės reikšmės kelių ir gatvių poveikio kelių saugumui vertinimas, reguliarus kelio saugumo patikrinimas, kelių darbo vietų aptvėrimo saugumo patikrinimas ir viso kelių tinklo saugumo vertinimas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1858, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05789
 
 2. Prieš patvirtinant kelių infrastruktūros projektą, susisiekimo ministro nustatyta tvarka atliekamas naujo kelio ar svarbaus esamo kelių tinklo pakeitimo poveikio kelių saugumui vertinimas. Valstybinės reikšmės kelių poveikio kelių saugumui vertinimą susisiekimo ministro nustatyta tvarka organizuoja planuojamo kelio savininkas (valdytojas). Poveikio kelių saugumui vertinimo išvada privaloma kelio savininkui (valdytojui). Jeigu kelio savininkas (valdytojas) nesutinka su poveikio kelių saugumui vertinimo išvada arba jos dalimi, kelio savininkas (valdytojas) pateikia poveikio kelių saugumui vertinimo išvadą pateikusiam subjektui nesutikimo argumentus (nesutikimo argumentai įforminami kelio savininko (valdytojo) protokolu arba raštu ir pridedami prie poveikio kelių saugumui vertinimo išvados) ir jų pagrindu gali neatsižvelgti į poveikio kelių saugumui vertinimo išvadą arba jos dalį.
 
