@@ -4,7 +4,7 @@ identifier: "TAR.A4D0A2869EAA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-04"
-last_updated: "2020-07-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A4D0A2869EAA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 62-2496, i. k. 1021010ISTA00IX-931
 
@@ -45,7 +45,11 @@ BENDROSIOS NUOSTATOS
 
 1) šaudmenų, sprogstamųjų medžiagų ir sprogmenų, nurodytų Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme;
 
-2) Lietuvos kariuomenei, Lietuvos Respublikos krašto apsaugos ministerijai  (toliau – Krašto apsaugos ministerija) ir jai pavaldžioms įstaigoms, Policijos departamentui prie Vidaus reikalų ministerijos (toliau – Policijos departamentas) ir jam pavaldžioms įstaigoms, Priešgaisrinės apsaugos ir gelbėjimo departamentui prie Vidaus reikalų ministerijos (toliau – Priešgaisrinės apsaugos ir gelbėjimo departamentas) ir jam pavaldžioms įstaigoms nekomerciniam naudojimui skirtų pirotechnikos priemonių;
+2) Lietuvos kariuomenei, Lietuvos Respublikos krašto apsaugos ministerijai ir jai pavaldžioms įstaigoms, policijos generalinio komisaro įgaliotai policijos įstaigai (toliau – policijos įstaiga), Priešgaisrinės apsaugos ir gelbėjimo departamentui prie Vidaus reikalų ministerijos (toliau – Priešgaisrinės apsaugos ir gelbėjimo departamentas) ir jam pavaldžioms įstaigoms nekomerciniam naudojimui skirtų civilinių pirotechnikos priemonių;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 3) pirotechnikos priemonių, skirtų naudoti aviacinėje kosminėje pramonėje;
 
@@ -55,7 +59,11 @@ BENDROSIOS NUOSTATOS
 
 6) Lietuvos Respublikoje įsisteigusio gamintojo savo reikmėms pagamintų fejerverkų, kurių naudojimas patvirtintas tik Lietuvos Respublikos teritorijoje ir kurie lieka tik Lietuvos Respublikos teritorijoje, išskyrus šio įstatymo 7 straipsnio 6 dalyje numatytą išimtį.
 
-5. Lietuvos kariuomenė, Krašto apsaugos ministerija ir jai pavaldžios įstaigos, Policijos departamentas ir jam pavaldžios įstaigos, Priešgaisrinės apsaugos ir gelbėjimo departamentas ir jam pavaldžios įstaigos civilines pirotechnikos priemones nekomerciniam naudojimui įsigyja ir naudoja teisės aktų nustatyta tvarka.
+5. Lietuvos kariuomenė, Krašto apsaugos ministerija ir jai pavaldžios įstaigos, policijos įstaiga, Priešgaisrinės apsaugos ir gelbėjimo departamentas ir jam pavaldžios įstaigos civilines pirotechnikos priemones nekomerciniam naudojimui įsigyja ir naudoja teisės aktų, reglamentuojančių civilinių pirotechnikos priemonių apyvartą, nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 6. Prekybos mugėse, parodose ar civilinių pirotechnikos priemonių reklamai rengiamuose pristatymuose rodyti ir naudoti skirtos civilinės pirotechnikos priemonės, kurios neatitinka šio įstatymo nuostatų, gali būti importuojamos į Lietuvos Respubliką, rodomos ir naudojamos Lietuvos Respublikoje šio įstatymo 20 straipsnio 4 dalyje nustatyta tvarka, jeigu ant šių priemonių aiškiai nurodytas minėtos prekybos mugės, parodos ar pristatymo pavadinimas ir data, taip pat tai, kad šios priemonės neatitinka reikalavimų, numatytų derinamuosiuose Europos Sąjungos teisės aktuose bei jų įgyvendinamuosiuose Lietuvos Respublikos teisės aktuose, nustatančiuose ženklinimą atitikties ženklu CE, ir nebus parduodamos, iki bus atliktas civilinių pirotechnikos priemonių atitikties įvertinimas ir šios priemonės bus atitinkamai paženklintos.
 
@@ -195,7 +203,11 @@ TAR pastaba. 7 straipsnio 4 dalies nuostatos, nustatančios paskelbtosios įstai
 
 8 straipsnis. Civilinių pirotechnikos priemonių ženklinimas
 
-1. Jeigu, atlikus civilinių pirotechnikos priemonių atitikties įvertinimą, gaminys atitinka reikalavimus, numatytus derinamuosiuose Europos Sąjungos teisės aktuose bei jų įgyvendinamuosiuose Lietuvos Respublikos teisės aktuose, nustatančiuose ženklinimą atitikties ženklu CE, kiekviena civilinė pirotechnikos priemonė turi būti paženklinta matomu, lengvai įskaitomu ir nenutrinamu atitikties ženklu CE. Jeigu neįmanoma pažymėti civilinės pirotechnikos priemonės atitikties ženklu CE, prie jos turi būti klijuojama lipni etiketė arba tokiu pačiu būdu paženklinama mažiausia civilinių pirotechnikos priemonių pakuotė. Lipni etiketė turi būti pagaminta taip, kad jos negalima būtų panaudoti dar kartą. Naudojamas atitikties ženklas CE turi atitikti 2008 m. liepos 9 d. Europos Parlamento ir Tarybos sprendimo Nr. 768/2008/EB dėl bendrosios gaminių pardavimo sistemos ir panaikinančio Sprendimą 93/465/EEB (OL 2008 L 218, p. 82) nuostatas.
+1. Jeigu, atlikus civilinių pirotechnikos priemonių atitikties įvertinimą, gaminys atitinka reikalavimus, numatytus derinamuosiuose Europos Sąjungos teisės aktuose bei jų įgyvendinamuosiuose Lietuvos Respublikos teisės aktuose, nustatančiuose ženklinimą atitikties ženklu CE, kiekviena civilinė pirotechnikos priemonė turi būti paženklinta matomu, lengvai įskaitomu ir nenutrinamu atitikties ženklu CE. Jeigu neįmanoma pažymėti civilinės pirotechnikos priemonės atitikties ženklu CE, prie jos turi būti klijuojama lipni etiketė arba tokiu pačiu būdu paženklinama mažiausia civilinių pirotechnikos priemonių pakuotė. Lipni etiketė turi būti pagaminta taip, kad jos nebūtų galima panaudoti dar kartą. Naudojamas atitikties ženklas CE turi atitikti 2008 m. liepos 9 d. Europos Parlamento ir Tarybos sprendimo Nr. 768/2008/EB dėl bendrosios gaminių pardavimo sistemos ir panaikinančio Sprendimą 93/465/EEB nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 2. Civilinė pirotechnikos priemonė atitikties ženklu CE pažymima iki jos pateikimo rinkai momento.
 
@@ -237,7 +249,11 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ gamybos, PLATINIMO, importo, eksporto, įve�
 
 4) licencija naudoti F4 kategorijos fejerverkus, T2 ir P2 kategorijų civilines pirotechnikos priemones.
 
-2. Licencijas, nurodytas šiame straipsnyje, išduoda Lietuvos Respublikos Vyriausybės įgaliota institucija.
+2. Licencijas, nurodytas šiame straipsnyje, neterminuotam laikui išduoda Lietuvos Respublikos Vyriausybės įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 3. Fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, norintys gauti šio straipsnio 1 dalyje nurodytą licenciją, licencijas išduodančiai institucijai tiesiogiai, per atstumą, elektroninėmis priemonėmis per Policijos elektroninių paslaugų sistemą (toliau – PEPS) arba per kontaktinį centrą pateikia Lietuvos Respublikos Vyriausybės patvirtintose licencijavimo taisyklėse nurodytus ir šiose taisyklėse nustatyta tvarka įformintus dokumentus.
 
@@ -283,9 +299,17 @@ Nr. XIII-3077, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14352
 
 4) už tyčinį nusikaltimą nuteistas asmuo, kuriam dėl to neišnykęs ar nepanaikintas teistumas;
 
-5) asmuo, padaręs pakartotinai per metus administracinį teisės pažeidimą būdamas neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar kitų svaigiųjų medžiagų;
+5) asmuo, padaręs pakartotinai per metus administracinį nusižengimą būdamas neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar kitų svaigiųjų medžiagų;
 
-6) asmuo, padaręs pakartotinai per metus administracinį teisės pažeidimą, susijusį su civilinių pirotechnikos priemonių apyvartos reikalavimų nesilaikymu.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
+
+6) asmuo, padaręs pakartotinai per metus administracinį nusižengimą, susijusį su civilinių pirotechnikos priemonių apyvartos reikalavimų nesilaikymu.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 2. Kontroliuojančiu asmeniu, juridinio asmens, kitos organizacijos ar jų padalinio vadovu, kurio veikla nėra tiesiogiai susijusi su civilinių pirotechnikos priemonių gamybos, įsigijimo, laikymo, realizavimo ar apskaitos kontrole, negali būti asmuo, kuris atitinka bent vieną iš šio straipsnio 1 dalies 2–6 punktuose nustatytų kriterijų.
 
@@ -327,7 +351,11 @@ Nr. XIII-3077, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14352
 
 5. Panaikinus licencijos galiojimą, nauja licencija gali būti išduota ne anksčiau kaip po 3 metų nuo jos galiojimo panaikinimo dienos. Licencija gali būti išduota anksčiau negu po 3 metų nuo jos galiojimo panaikinimo dienos, jeigu jos galiojimas panaikintas šio straipsnio 4 dalies 1 punkte nurodytu pagrindu.
 
-6. Panaikinusi licencijos galiojimą, licencijas išduodanti institucija per 5 kalendorines dienas nuo licencijos galiojimo panaikinimo dienos apie tai praneša licencijos turėtojui ir teritorinei policijos įstaigai, kurios teritorijoje yra licencijos turėtojo buveinė.
+6. Panaikinusi licencijos galiojimą, licencijas išduodanti institucija per 5 kalendorines dienas nuo licencijos galiojimo panaikinimo dienos apie tai praneša licencijos turėtojui ir policijos įstaigai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 V SKYRIUS
 
@@ -347,13 +375,21 @@ PRIEMONIŲ APYVARTOS REIKALAVIMAI
 
 3) civilinių pirotechnikos priemonių platinimo, naudojimo ar laikymo (sandėliavimo) vietose, taip pat transportuojant civilines pirotechnikos priemones laikytis Lietuvos Respublikos teisės aktuose nustatytų darbo ir priešgaisrinės saugos dirbant su sprogstamosiomis (degiosiomis) medžiagomis ir gaminiais reikalavimų;
 
-4) iki licencijuojamos veiklos pradžios įsirengti patalpas civilinėms pirotechnikos priemonėms gaminti ir (ar) laikyti ir gauti teritorinės policijos įstaigos leidimą gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimą laikyti visų kategorijų civilines pirotechnikos priemones;
+4) iki licencijuojamos veiklos pradžios įsirengti patalpas civilinėms pirotechnikos priemonėms gaminti ir (ar) laikyti ir gauti policijos įstaigos leidimą gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimą laikyti visų kategorijų civilines pirotechnikos priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 5) gamybos vietoje ir reklamuodamasis interneto svetainėse, jeigu tokias turi, nurodyti licencijos rūšį, numerį, licenciją išdavusią įstaigą, išdavimo datą ir šio įstatymo 14 straipsnio 2 dalyje numatyto leidimo rūšį, numerį, leidimą išdavusią įstaigą ir išdavimo datą;
 
 6) F4 kategorijos fejerverkus, T2, P2 kategorijų civilines pirotechnikos priemones platinti tik subjektams, turintiems šio įstatymo 14 straipsnio 2 dalyje nurodytą leidimą.
 
-3. Teritorinė policijos įstaiga ne rečiau kaip 2 kartus per metus, taip pat gavusi skundą ar kitą informaciją apie civilinių pirotechnikos priemonių apyvartos tvarkos pažeidimus, privalo patikrinti, kaip asmuo laikosi licencijuojamos veiklos sąlygų. Apie nustatytus pažeidimus teritorinė policijos įstaiga privalo ne vėliau kaip per 3 darbo dienas informuoti licencijas išduodančią instituciją.
+3. Policijos įstaiga ne rečiau kaip 2 kartus per metus, taip pat gavusi skundą ar kitą informaciją apie civilinių pirotechnikos priemonių apyvartos tvarkos pažeidimus, privalo patikrinti, kaip asmuo laikosi licencijuojamos veiklos sąlygų. Apie nustatytus pažeidimus policijos įstaiga privalo ne vėliau kaip per 3 darbo dienas informuoti licencijas išduodančią instituciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 4. Šio įstatymo 14 straipsnio 2 dalyje ir 16 straipsnio 1 dalyje numatytame leidime nurodoma didžiausia pirotechninio mišinio bendra masė, kurią leidžiama laikyti patalpose, skirtose civilinėms pirotechnikos priemonėms gaminti ir (ar) laikyti, ir F2 kategorijos fejerverkų platinimo vietoje.
 
@@ -361,43 +397,43 @@ PRIEMONIŲ APYVARTOS REIKALAVIMAI
 
 1. Patalpos civilinėms pirotechnikos priemonėms gaminti ir (ar) laikyti turi atitikti Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytus bendruosius eksploatuojamų objektų priešgaisrinės saugos reikalavimus.
 
-2. Leidimas gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones arba leidimas laikyti visų kategorijų civilines pirotechnikos priemones išduodamas neterminuotam laikui, jeigu patalpos, kuriose ketinama gaminti ir (ar) laikyti civilines pirotechnikos priemones, fiziniam ar juridiniam asmeniui, kitai organizacijai ar jų padaliniui, norinčiam gauti šį leidimą, priklauso nuosavybes teise. Jeigu patalpos naudojamos kitais teisėtais pagrindais – leidimas išduodamas ne ilgesniam negu pastatų (statinių) ar patalpų valdytojų sutikime nustatytam terminui.
+2. Leidimas gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones arba leidimas laikyti visų kategorijų civilines pirotechnikos priemones išduodamas neterminuotam laikui, jeigu patalpos, kuriose ketinama gaminti ir (ar) laikyti civilines pirotechnikos priemones, fiziniam ar juridiniam asmeniui, kitai organizacijai ar jų padaliniui, norintiems gauti šį leidimą, priklauso nuosavybes teise. Jeigu patalpos naudojamos kitais teisėtais pagrindais, leidimas išduodamas ne ilgesniam negu pastatų (statinių) ar patalpų valdytojų sutikime nustatytam terminui.
 
-3. Fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, norintys gauti šio straipsnio 2 dalyje nurodytą leidimą, teritorinei policijos įstaigai, kurios teritorijoje planuojama laikyti ir (ar) gaminti civilines pirotechnikos priemones, tiesiogiai, per atstumą, elektroninėmis priemonėmis per PEPS arba per kontaktinį centrą pateikia Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintose leidimų gaminti ir (ar) laikyti civilines pirotechnikos priemones išdavimo taisyklėse nurodytus ir šių taisyklių nustatyta tvarka įformintus dokumentus.
+3. Fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, norintys gauti šio straipsnio 2 dalyje nurodytą leidimą, policijos įstaigai tiesiogiai, per atstumą, elektroninėmis priemonėmis per PEPS arba per kontaktinį centrą pateikia Lietuvos Respublikos Vyriausybės įgaliotos institucijos tvirtinamose leidimų gaminti ir (ar) laikyti civilines pirotechnikos priemones išdavimo taisyklėse nurodytus ir šiose taisyklėse nustatyta tvarka įformintus dokumentus.
 
-4. Leidimas gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimas laikyti visų kategorijų civilines pirotechnikos priemones turi būti išduotas arba motyvuotas rašytinis atsisakymas išduoti leidimą turi būti pateiktas ne vėliau kaip per 30 kalendorinių dienų nuo visų dokumentų, nurodytų Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintose leidimų gaminti ir (ar) laikyti civilines pirotechnikos priemones išdavimo taisyklėse ir įformintų šiose taisyklėse nustatyta tvarka, gavimo teritorinėje policijos įstaigoje, kuriai pateiktas prašymas, dienos.
+4. Leidimas gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimas laikyti visų kategorijų civilines pirotechnikos priemones turi būti išduotas arba motyvuotas rašytinis atsisakymas išduoti leidimą turi būti pateiktas ne vėliau kaip per 30 kalendorinių dienų nuo visų dokumentų, nurodytų Lietuvos Respublikos Vyriausybės įgaliotos institucijos tvirtinamose leidimų gaminti ir (ar) laikyti civilines pirotechnikos priemones išdavimo taisyklėse ir įformintų šiose taisyklėse nustatyta tvarka, gavimo policijos įstaigoje dienos.
 
-5. Nustačiusi, kad pateiktame prašyme nurodyti ne visi būtini duomenys arba pateikti ne visi ar netinkamai įforminti dokumentai, kurių reikia leidimui išduoti, teritorinė policijos įstaiga, kuriai pateiktas prašymas, per 3 darbo dienas nuo tokio prašymo gavimo dienos tiesiogiai, per atstumą, elektroninėmis priemonėmis per PEPS arba per kontaktinį centrą praneša pareiškėjui apie būtinybę per 10 darbo dienų nuo pranešimo gavimo dienos pateikti trūkstamus ar tinkamai įformintus dokumentus ar duomenis. Prašymo ir kitų dokumentų trūkumų šalinimo terminas neįskaitomas į šio straipsnio 4 dalyje nurodytą terminą.
+5. Nustačiusi, kad pateiktame prašyme nurodyti ne visi būtini duomenys arba pateikti ne visi ar netinkamai įforminti dokumentai, kurių reikia leidimui išduoti, policijos įstaiga, kuriai pateiktas prašymas, per 3 darbo dienas nuo tokio prašymo gavimo dienos tiesiogiai, per atstumą, elektroninėmis priemonėmis per PEPS arba per kontaktinį centrą praneša pareiškėjui apie būtinybę per 10 darbo dienų nuo pranešimo gavimo dienos pateikti trūkstamus ar tinkamai įformintus dokumentus ar duomenis. Prašymo ir kitų dokumentų trūkumų šalinimo terminas neįskaitomas į šio straipsnio 4 dalyje nurodytą terminą.
 
-6. Teritorinė policijos įstaiga informuoja savivaldybės administraciją apie tai, kad yra išduotas leidimas gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimas laikyti visų kategorijų civilines pirotechnikos priemones jos teritorijoje.
+6. Policijos įstaiga informuoja savivaldybės administraciją apie tai, kad yra išduotas leidimas gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimas laikyti visų kategorijų civilines pirotechnikos priemones jos teritorijoje.
 
 7. Leidimas gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimas laikyti visų kategorijų civilines pirotechnikos priemones neišduodamas, jeigu:
 
-1) pateiktame prašyme nurodyti ne visi būtini duomenys arba pateikti ne visi ar netinkamai įforminti dokumentai ir pareiškėjas neįvykdė teritorinės policijos įstaigos reikalavimo pašalinti šiuos trūkumus;
+1) pateiktame prašyme nurodyti ne visi būtini duomenys arba pateikti ne visi ar netinkamai įforminti dokumentai ir pareiškėjas neįvykdė policijos įstaigos reikalavimo pašalinti šiuos trūkumus;
 
 2) pareiškėjui sustabdytas ar panaikintas šio įstatymo 9 straipsnyje nurodytos licencijos galiojimas;
 
-3) nustatoma, kad teritorinei policijos įstaigai buvo pateikta informacija žinant, kad ji klaidinga arba suklastota;
+3) nustatoma, kad policijos įstaigai buvo pateikti tikrovės neatitinkantys duomenys;
 
 4) nustatoma, kad patalpos, kuriose bus gaminamos ir (ar) laikomos civilinės pirotechnikos priemonės, neatitinka teisės aktuose nustatytų reikalavimų;
 
-5) nustatoma, kad juridinio asmens, kitos organizacijos ar jų padalinio, kuris verčiasi šio įstatymo 9 straipsnyje nustatyta licencijuojama veikla, darbuotojas, kuris vykdo ar prižiūri civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar tvarko apskaitą (prie tokių darbuotojų nepriskiriami buhalterinę apskaitą tvarkantys darbuotojai), juridinio asmens, kitos organizacijos ar jų padalinio vadovas, kuris tiesiogiai kontroliuoja civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar apskaitą, fizinis asmuo, kuris verčiasi licencijuojama veikla, pirotechnikas atitinka bent vieną iš šio įstatymo 11 straipsnio 1 dalies 1–6 punktuose nustatytų kriterijų.
+5) nustatoma, kad juridinio asmens, kitos organizacijos ar jų padalinio, kuris verčiasi šio įstatymo 9 straipsnyje nustatyta licencijuojama veikla, darbuotojas, kuris vykdo ar prižiūri civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar tvarko apskaitą (prie tokių darbuotojų nepriskiriami finansinę apskaitą tvarkantys darbuotojai), juridinio asmens, kitos organizacijos ar jų padalinio vadovas, kuris tiesiogiai kontroliuoja civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar apskaitą, fizinis asmuo, kuris verčiasi licencijuojama veikla, pirotechnikas atitinka bent vieną iš šio įstatymo 11 straipsnio 1 dalies  1–6 punktuose nustatytų kriterijų.
 
-8. Leidimo gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimo laikyti visų kategorijų civilines pirotechnikos priemones galiojimą teritorinė policijos įstaiga sustabdo, jeigu:
+8. Leidimo gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimo laikyti visų kategorijų civilines pirotechnikos priemones galiojimą policijos įstaiga sustabdo, jeigu:
 
 1) nustato, kad patalpos, kuriose gaminamos ir (ar) laikomos civilinės pirotechnikos priemonės, neatitinka teisės aktuose nustatytų reikalavimų;
 
-2) nustato, kad juridinio asmens, kitos organizacijos ar jų padalinio, kuris verčiasi šio įstatymo 9 straipsnyje nustatyta licencijuojama veikla, darbuotojas, kuris vykdo ar prižiūri civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar tvarko apskaitą (prie tokių darbuotojų nepriskiriami buhalterinę apskaitą tvarkantys darbuotojai), juridinio asmens, kitos organizacijos ar jų padalinio vadovas, kuris tiesiogiai kontroliuoja civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar apskaitą, fizinis asmuo, kuris verčiasi licencijuojama veikla, pirotechnikas atitinka bent vieną iš šio įstatymo 11 straipsnio 1 dalies 1–6 punktuose nustatytų kriterijų.
+2) nustato, kad juridinio asmens, kitos organizacijos ar jų padalinio, kuris verčiasi šio įstatymo 9 straipsnyje nustatyta licencijuojama veikla, darbuotojas, kuris vykdo ar prižiūri civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar tvarko apskaitą (prie tokių darbuotojų nepriskiriami finansinę apskaitą tvarkantys darbuotojai), juridinio asmens, kitos organizacijos ar jų padalinio vadovas, kuris tiesiogiai kontroliuoja civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar apskaitą, fizinis asmuo, kuris verčiasi licencijuojama veikla, pirotechnikas atitinka bent vieną iš šio įstatymo 11 straipsnio 1 dalies  1–6 punktuose nustatytų kriterijų.
 
-9. Teritorinė policijos įstaiga, sustabdžiusi leidimo gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimo laikyti visų kategorijų civilines pirotechnikos priemones galiojimą, nustato ne ilgesnį kaip 3 mėnesių terminą nustatytiems pažeidimams pašalinti. Leidimo turėtojui per teritorinės policijos įstaigos nustatytą terminą pateikus dokumentus, įrodančius, kad nustatyti pažeidimai pašalinti arba buvo panaikintos (išnyko) priežastys, dėl kurių leidimo galiojimas buvo sustabdytas, leidimo galiojimo sustabdymas panaikinamas.
+9. Policijos įstaiga, sustabdžiusi leidimo gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimo laikyti visų kategorijų civilines pirotechnikos priemones galiojimą, nustato ne ilgesnį kaip 3 mėnesių terminą nustatytiems pažeidimams pašalinti. Leidimo turėtojui per policijos įstaigos nustatytą terminą pateikus dokumentus, įrodančius, kad nustatyti pažeidimai pašalinti arba buvo panaikintos (išnyko) priežastys, dėl kurių leidimo galiojimas buvo sustabdytas, leidimo galiojimo sustabdymas panaikinamas.
 
-10. Leidimo gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimo laikyti visų kategorijų civilines pirotechnikos priemones galiojimą teritorinė policijos įstaiga panaikina, jeigu:
+10. Leidimo gaminti ir laikyti visų kategorijų civilines pirotechnikos priemones ar leidimo laikyti visų kategorijų civilines pirotechnikos priemones galiojimą policijos įstaiga panaikina, jeigu:
 
 1) juridinis asmuo, kita organizacija ar jų padalinys likviduojamas ar miršta fizinis asmuo;
 
 2) leidimą turintis subjektas pateikia prašymą dėl leidimo galiojimo panaikinimo;
 
-3) per teritorinės policijos nustatytą ne ilgesnį kaip 3 mėnesių terminą nepašalinamos priežastys, dėl kurių leidimo galiojimas buvo sustabdytas;
+3) per policijos įstaigos nustatytą ne ilgesnį kaip 3 mėnesių terminą nepašalinamos priežastys, dėl kurių leidimo galiojimas buvo sustabdytas;
 
 4) panaikintas leidimą turinčio subjekto turėtos šio įstatymo 9 straipsnyje nurodytos licencijos galiojimas;
 
@@ -405,9 +441,13 @@ PRIEMONIŲ APYVARTOS REIKALAVIMAI
 
 6) civilinės pirotechnikos priemonės gaminamos ir (ar) laikomos pažeidžiant įstatymų, kitų teisės aktų reikalavimus ir tai kelia grėsmę žmonių gyvybei, sveikatai, aplinkai, visuomenės saugumui ar viešajai tvarkai;
 
-7) nustatoma, kad teritorinei policijos įstaigai buvo pateikta informacija žinant, kad ji klaidinga arba suklastota;
+7) nustatoma, kad policijos įstaigai buvo pateikti tikrovės neatitinkantys duomenys;
 
 8) nustatoma, kad leidimą turintis subjektas neteko nuosavybės teisės į patalpas, kuriose gaminamos ir (ar) laikomos civilinės pirotechnikos priemonės, ar teisės naudoti šias patalpas kitais teisėtais pagrindais.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 15 straipsnis. Civilinių pirotechnikos priemonių apyvartos saugos reikalavimai
 
@@ -455,11 +495,13 @@ Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 
 1) užtikrinti saugų civilinių pirotechnikos priemonių naudojimą;
 
-2) suderinti su savivaldybės administracijos direktoriumi ir Priešgaisrinės apsaugos ir gelbėjimo departamentu vietą, kurioje bus naudojami F4 kategorijos fejerverkai, T2 ar P2 kategorijų civilinės pirotechnikos priemonės, ir civilinių pirotechnikos priemonių naudojimo laiką;
+2) suderinti su meru ar jo įgaliotu savivaldybės administracijos direktoriumi ir Priešgaisrinės apsaugos ir gelbėjimo departamentu vietą, kurioje bus naudojami F4 kategorijos fejerverkai, T2 ar P2 kategorijų civilinės pirotechnikos priemonės, ir civilinių pirotechnikos priemonių naudojimo laiką;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
+
+Nr. XIV-1820, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05719
 
 3) parengti ir turėti vietos, kurioje planuoja naudoti F4 kategorijos fejerverkus, T2 ar P2 kategorijų civilines pirotechnikos priemones, galimos avarijos prevencijos ir padarinių likvidavimo planą, suderintą su Priešgaisrinės apsaugos ir gelbėjimo departamentu.
 
@@ -489,29 +531,29 @@ Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 
 2. F1 kategorijos fejerverkams platinti leidimo nereikia.
 
-3. Fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, norintis gauti leidimą platinti F2 kategorijos fejerverkus, teritorinei policijos įstaigai, kurios teritorijoje planuojamas platinimas, tiesiogiai, per atstumą, elektroninėmis priemonėmis per PEPS arba per kontaktinį centrą pateikia pranešimą, kuriame pareiškėjas nurodo apie ketinimą platinti F2 kategorijos fejerverkus, ir Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintose F1 ir F2 kategorijų fejerverkų platinimo ir leidimų platinti F2 kategorijos fejerverkus išdavimo taisyklėse nurodytus ir šių taisyklių nustatyta tvarka įformintus dokumentus.
+3. Fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, norintys gauti leidimą platinti F2 kategorijos fejerverkus, policijos įstaigai tiesiogiai, per atstumą, elektroninėmis priemonėmis per PEPS arba per kontaktinį centrą pateikia pranešimą, kuriame pareiškėjas nurodo apie ketinimą platinti F2 kategorijos fejerverkus, ir Lietuvos Respublikos Vyriausybės įgaliotos institucijos tvirtinamose F1 ir F2 kategorijų fejerverkų platinimo ir leidimų platinti F2 kategorijos fejerverkus išdavimo taisyklėse nurodytus ir šiose taisyklėse nustatyta tvarka įformintus dokumentus.
 
-4. Laikoma, kad leidimas platinti F2 kategorijos fejerverkus yra išduotas kitą dieną po pranešimo, kuriame pareiškėjas nurodo apie ketinimą platinti F2 kategorijos fejerverkus, ir dokumentų, nurodytų Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintose F1 ir F2 kategorijų fejerverkų platinimo ir leidimų platinti F2 kategorijos fejerverkus išdavimo taisyklėse ir įformintų šiose taisyklėse nustatyta tvarka, pateikimo teritorinei policijos įstaigai, kurios teritorijoje planuojamas platinimas, dienos.
+4. Laikoma, kad leidimas platinti F2 kategorijos fejerverkus yra išduotas kitą dieną po pranešimo, kuriame pareiškėjas nurodo apie ketinimą platinti F2 kategorijos fejerverkus, ir dokumentų, nurodytų Lietuvos Respublikos Vyriausybės įgaliotos institucijos tvirtinamose F1 ir F2 kategorijų fejerverkų platinimo ir leidimų platinti F2 kategorijos fejerverkus išdavimo taisyklėse ir įformintų šiose taisyklėse nustatyta tvarka, pateikimo policijos įstaigai dienos.
 
-5. Nustačiusi, kad pateiktame pranešime, kuriame pareiškėjas nurodo apie ketinimą platinti F2 kategorijos fejerverkus, nurodyti ne visi būtini duomenys arba pateikti ne visi ar netinkamai įforminti dokumentai, kurių reikia leidimui išduoti, teritorinė policijos įstaiga, kuriai pateiktas pranešimas, per 3 darbo dienas nuo tokio pranešimo gavimo dienos tiesiogiai, per atstumą, elektroninėmis priemonėmis per PEPS arba per kontaktinį centrą praneša pareiškėjui apie leidimo platinti F2 kategorijos fejerverkus galiojimo sustabdymą ir būtinybę per 10 darbo dienų nuo teritorinės policijos įstaigos pranešimo gavimo dienos pateikti trūkstamus ar tinkamai įformintus dokumentus ar duomenis. Leidimo platinti F2 kategorijos fejerverkus turėtojui per nustatytą terminą pašalinus trūkumus, dėl kurių leidimo galiojimas buvo sustabdytas, teritorinės policijos įstaigos sprendimu leidimo galiojimo sustabdymas panaikinamas.
+5. Nustačiusi, kad pateiktame pranešime, kuriame pareiškėjas nurodo apie ketinimą platinti F2 kategorijos fejerverkus, nurodyti ne visi būtini duomenys arba pateikti ne visi ar netinkamai įforminti dokumentai, kurių reikia leidimui išduoti, policijos įstaiga, kuriai pateiktas pranešimas, per 3 darbo dienas nuo tokio pranešimo gavimo dienos tiesiogiai, per atstumą, elektroninėmis priemonėmis per PEPS arba per kontaktinį centrą praneša pareiškėjui apie leidimo platinti F2 kategorijos fejerverkus galiojimo sustabdymą ir būtinybę per 10 darbo dienų nuo policijos įstaigos pranešimo gavimo dienos pateikti trūkstamus ar tinkamai įformintus dokumentus ar duomenis. Leidimo platinti F2 kategorijos fejerverkus turėtojui per nustatytą terminą pašalinus trūkumus, dėl kurių leidimo galiojimas buvo sustabdytas, policijos įstaigos sprendimu leidimo galiojimo sustabdymas panaikinamas.
 
-6. Leidimo platinti F2 kategorijos fejerverkus galiojimą teritorinė policijos įstaiga panaikina, jeigu:
+6. Leidimo platinti F2 kategorijos fejerverkus galiojimą policijos įstaiga panaikina, jeigu:
 
 1) nustatoma, kad leidimui gauti buvo pateikti klaidingi duomenys;
 
-2) jeigu leidimą turintis subjektas per nustatytą terminą nepašalino trūkumų, dėl kurių leidimo galiojimas buvo sustabdytas;
+2) leidimą turintis subjektas per nustatytą terminą nepašalino trūkumų, dėl kurių leidimo galiojimas buvo sustabdytas;
 
-3) Priešgaisrinės apsaugos ir gelbėjimo departamentas ar teritorinė policijos įstaiga per vienus metus antrą kartą praneša apie nustatytus pagal kompetenciją Lietuvos Respublikos teisės aktų, reglamentuojančių civilinių pirotechnikos priemonių apyvartą, pažeidimus, padarytus asmens, turinčio leidimą platinti F2 kategorijos fejerverkus;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
+3) Priešgaisrinės apsaugos ir gelbėjimo departamentas ar policijos įstaiga per vienus metus antrą kartą praneša apie nustatytus pagal kompetenciją Lietuvos Respublikos teisės aktų, reglamentuojančių civilinių pirotechnikos priemonių apyvartą, pažeidimus, padarytus asmens, turinčio leidimą platinti F2 kategorijos fejerverkus;
 
 4) nustatoma, kad civilinės pirotechnikos priemonės buvo platinamos asmeniui, neturinčiam teisės jų įsigyti;
 
 5) leidimą turintis subjektas pateikia prašymą dėl leidimo galiojimo panaikinimo.
 
 7. Fiziniai ar juridiniai asmenys, kitos organizacijos ar jų padaliniai neturi teisės gauti leidimo platinti F2 kategorijos fejerverkus, jeigu jiems leidimo platinti F2 kategorijos fejerverkus galiojimas buvo panaikintas šio straipsnio 6 dalies 1, 3 ir 4 punktuose nurodytais pagrindais ir nuo jo galiojimo panaikinimo dienos nepraėjo 2 metai.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 17 straipsnis. Civilinių pirotechnikos priemonių naudojimo ir (ar) platinimo apribojimai
 
@@ -547,9 +589,13 @@ Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 
 2. Gamintojai privalo saugoti techninius dokumentus ir atitikties deklaraciją, o importuotojai – šių dokumentų kopijas ne mažiau kaip 10 metų nuo civilinės pirotechnikos priemonės pateikimo rinkai dienos.
 
-3. Gamintojai ir importuotojai privalo saugoti duomenis apie civilinių pirotechnikos priemonių, kurias jie pagamino arba tiekia rinkai, registracijos numerius, pavadinimą, kategoriją ir gamybos vietą ne mažiau kaip 10 metų nuo civilinės pirotechnikos priemonės pateikimo rinkai dienos. Nutraukę veiklą, gamintojai ir importuotojai šiuos duomenis perduoda saugoti teritorinei policijos įstaigai.
+3. Gamintojai ir importuotojai privalo saugoti duomenis apie civilinių pirotechnikos priemonių, kurias jie pagamino arba tiekia rinkai, registracijos numerius, pavadinimą, kategoriją ir gamybos vietą ne mažiau kaip 10 metų nuo civilinės pirotechnikos priemonės pateikimo rinkai dienos. Nutraukę veiklą, gamintojai ir importuotojai šiuos duomenis perduoda saugoti policijos įstaigai.
 
 TAR pastaba. 18 straipsnio 3 dalies nuostatos, nustatančios gamintojo ir importuotojo pareigą kaupti duomenis apie civilinių pirotechnikos priemonių registracijos numerius, pavadinimą, kategoriją, gamybos vietą, saugoti šiuos duomenis ne mažiau kaip 10 metų nuo civilinių pirotechnikos priemonių pateikimo rinkai dienos, o nutraukusiems savo veiklą – šiuos duomenis perduoti saugoti teritorinei policijos įstaigai, įsigalioja 2016 m. spalio 17 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 4. Civilinių pirotechnikos priemonių apskaitos tvarkymo ir duomenų pateikimo tvarką nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
 
@@ -569,17 +615,33 @@ TAR pastaba. 18 straipsnio 3 dalies nuostatos, nustatančios gamintojo ir import
 
 4. Civilinių pirotechnikos priemonių gamintojas, eksportuotojas, importuotojas, pageidaujantis importuoti į Lietuvą pirotechnikos priemones, skirtas prekybos mugėse, parodose ar pirotechnikos priemonių reklamai rengiamuose pristatymuose rodyti ir naudoti, turi gauti vienkartinį terminuotą leidimą.
 
-5. Šio straipsnio 1–4 dalyse nurodytus vienkartinius terminuotus leidimus išduoda Policijos departamentas.
+5. Šio straipsnio 1–4 dalyse nurodytus vienkartinius terminuotus leidimus išduoda policijos įstaiga.
 
-6. Fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, norintys gauti šio straipsnio 1–4 dalyse nurodytus vienkartinius terminuotus leidimus, Policijos departamentui tiesiogiai, per atstumą, elektroninėmis priemonėmis per PEPS arba per kontaktinį centrą pateikia Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintose vienkartinių terminuotų leidimų eksportuoti, importuoti, vežti tranzitu civilines pirotechnikos priemones išdavimo taisyklėse nurodytus ir šiose taisyklėse nustatyta tvarka įformintus dokumentus.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
+
+6. Fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, norintys gauti šio straipsnio 1–4 dalyse nurodytus vienkartinius terminuotus leidimus, policijos įstaigai tiesiogiai, per atstumą, elektroninėmis priemonėmis per PEPS arba per kontaktinį centrą pateikia Lietuvos Respublikos Vyriausybės įgaliotos institucijos tvirtinamose vienkartinių terminuotų leidimų eksportuoti, importuoti, vežti tranzitu civilines pirotechnikos priemones išdavimo taisyklėse nurodytus ir šiose taisyklėse nustatyta tvarka įformintus dokumentus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 7. Dokumentai vienkartiniams terminuotiems leidimams gauti pateikiami lietuvių, rusų arba anglų kalba. Jeigu dokumentai leidimams gauti pateikiami ne nurodytomis kalbomis, kartu pateikiami ir šių dokumentų patvirtinti vertimai pasirinktinai į vieną iš nurodytų kalbų (šis reikalavimas taikomas tik dokumentams, kurie išduoti ne valstybėse narėse).
 
-8. Vienkartinis terminuotas leidimas turi būti išduotas arba motyvuotas rašytinis atsisakymas išduoti vienkartinį terminuotą leidimą turi būti pateiktas ne vėliau kaip per 5 darbo dienas nuo visų Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintose vienkartinių terminuotų leidimų eksportuoti, importuoti, vežti tranzitu civilines pirotechnikos priemones išdavimo taisyklėse nurodytų ir šiose taisyklėse nustatyta tvarka įformintų dokumentų gavimo Policijos departamente dienos.
+8. Vienkartinis terminuotas leidimas turi būti išduotas arba motyvuotas rašytinis atsisakymas išduoti vienkartinį terminuotą leidimą turi būti pateiktas ne vėliau kaip per 5 darbo dienas nuo visų Lietuvos Respublikos Vyriausybės įgaliotos institucijos tvirtinamose vienkartinių terminuotų leidimų eksportuoti, importuoti, vežti tranzitu civilines pirotechnikos priemones išdavimo taisyklėse nurodytų ir šiose taisyklėse nustatyta tvarka įformintų dokumentų gavimo policijos įstaigoje dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 9. Vienkartinis terminuotas leidimas neišduodamas, jeigu:
 
-1) prašymas netinkamai įformintas ar pateikti ne visi dokumentai arba jie netinkamai įforminti ir pareiškėjas Policijos departamento prašymu per 10 darbo dienų nuo pranešimo gavimo dienos nepašalino šių trūkumų;
+1) prašymas netinkamai įformintas ar pateikti ne visi dokumentai arba jie netinkamai įforminti ir pareiškėjas policijos įstaigos prašymu per 10 darbo dienų nuo pranešimo gavimo dienos nepašalino šių trūkumų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 2) pareiškėjui sustabdytas ar panaikintas šio įstatymo 9 straipsnyje nurodytos licencijos galiojimas;
 
@@ -593,9 +655,17 @@ TAR pastaba. 18 straipsnio 3 dalies nuostatos, nustatančios gamintojo ir import
 
 3) neteko juridinės galios kartu su prašymu pateiktas (pateikti) dokumentas (dokumentai).
 
-11. Vienkartinio terminuoto leidimo galiojimo sustabdymas panaikinamas leidimo turėtojui per Policijos departamento nustatytą ne ilgesnį kaip 3 mėnesių terminą pašalinus leidimo sustabdymo priežastis ir pateikus tai įrodančius dokumentus.
+11. Vienkartinio terminuoto leidimo galiojimo sustabdymas panaikinamas leidimo turėtojui per policijos įstaigos nustatytą ne ilgesnį kaip 3 mėnesių terminą pašalinus leidimo sustabdymo priežastis ir pateikus tai įrodančius dokumentus.
 
-12. Vienkartinio terminuoto leidimo galiojimas panaikinamas, jeigu šio straipsnio 10 dalyje numatytais pagrindais buvo sustabdytas leidimo galiojimas ir leidimo turėtojas per Policijos departamento nustatytą ne ilgesnį kaip 3 mėnesių terminą nepašalino priežasčių, dėl kurių leidimo galiojimas buvo sustabdytas, taip pat jeigu licencijos turėtojui panaikintas šio įstatymo 9 straipsnyje nurodytos licencijos galiojimas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
+
+12. Vienkartinio terminuoto leidimo galiojimas panaikinamas, jeigu šio straipsnio 10 dalyje numatytais pagrindais buvo sustabdytas leidimo galiojimas ir leidimo turėtojas per policijos įstaigos nustatytą ne ilgesnį kaip 3 mėnesių terminą nepašalino priežasčių, dėl kurių leidimo galiojimas buvo sustabdytas, taip pat jeigu licencijos turėtojui panaikintas šio įstatymo 9 straipsnyje nurodytos licencijos galiojimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 13. Fizinis asmuo asmeninėms reikmėms gali be leidimo įsivežti į Lietuvos Respubliką, išsivežti iš jos F1, F2 ar F3 kategorijų fejerverkus, T1 ir P1 kategorijų civilines pirotechnikos priemones.
 
@@ -619,15 +689,21 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ APYVARTOS KONTROLĖ
 
 22 straipsnis. Civilinių pirotechnikos priemonių apyvartos kontrolė, šią kontrolę atliekančių valstybės institucijų teisės ir pareigos
 
-1. Civilinių pirotechnikos priemonių apyvartą Lietuvos Respublikos teritorijoje pagal kompetenciją kontroliuoja Policijos departamentas ir jam pavaldžios įstaigos, Priešgaisrinės apsaugos ir gelbėjimo departamentas, savivaldybės administracijos direktorius.
+1. Civilinių pirotechnikos priemonių apyvartą Lietuvos Respublikos teritorijoje pagal kompetenciją kontroliuoja policijos įstaiga, Priešgaisrinės apsaugos ir gelbėjimo departamentas, meras ar jo įgaliotas savivaldybės administracijos direktorius.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 
+Nr. XIV-1820, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05719
+
 2. Lietuvos Respublikos Vyriausybės įgaliota institucija turi teisę riboti ar uždrausti laikyti, platinti ar naudoti F2 ir F3 kategorijų fejerverkus, teatrines ir kitas pirotechnikos priemones fiziniams, juridiniams asmenims, kitoms organizacijoms ar jų padaliniams (išskyrus licencijų turėtojus ir pirotechnikus), jeigu šių civilinių pirotechnikos priemonių laikymas, platinimas ir naudojimas kelia grėsmę žmonių gyvybei, sveikatai, aplinkai, visuomenės saugumui ir viešajai tvarkai.
 
-3. Civilinių pirotechnikos priemonių apyvartos kontrolę atliekančių valstybės institucijų pareigūnai, savivaldybės administracijos direktorius turi teisę:
+3. Civilinių pirotechnikos priemonių apyvartos kontrolę atliekančių valstybės institucijų pareigūnai, meras ar jo įgaliotas savivaldybės administracijos direktorius turi teisę:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1820, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05719
 
 1) tikrinti, kaip laikomasi civilinių pirotechnikos priemonių apyvartą reglamentuojančių teisės aktų reikalavimų;
 
@@ -681,11 +757,23 @@ Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 
 5) jeigu civilinės pirotechnikos priemonės eksportuojamos, importuojamos ar vežamos tranzitu neturint šio įstatymo 20 straipsnio 1–4 dalyse nurodyto vienkartinio terminuoto leidimo.
 
-2. Šio straipsnio 1 dalies 1–4 punktuose nustatytais atvejais civilines pirotechnikos priemones paima teritorinė policijos įstaiga.
+2. Šio straipsnio 1 dalies 1–4 punktuose nustatytais atvejais civilines pirotechnikos priemones paima policijos įstaiga.
 
-3. Šio straipsnio 1 dalies 5 punkte nustatytu atveju taikomos 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/92 (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307), nustatančio Bendrijos muitinės kodeksą, 75 straipsnio nuostatos.
+Straipsnio dalies pakeitimai:
 
-4. Paimtos civilinės pirotechnikos priemonės saugomos jas paėmusios institucijos ar įstaigos užplombuotose įmonės, iš kurios civilinės pirotechnikos priemonės buvo paimtos, patalpose, o jeigu tokios galimybės nėra, – pirotechnikos priemonėms laikyti pritaikytuose policijos įstaigų ar Lietuvos kariuomenės sandėliuose.
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
+
+3. Šio straipsnio 1 dalies 5 punkte nustatytu atveju taikomos 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, 198 straipsnio nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
+
+4. Paimtos civilinės pirotechnikos priemonės saugomos jas paėmusios institucijos ar įstaigos užplombuotose įmonės, iš kurios civilinės pirotechnikos priemonės buvo paimtos, patalpose, o jeigu tokios galimybės nėra, – pirotechnikos priemonėms laikyti pritaikytuose policijos įstaigos ar Lietuvos kariuomenės sandėliuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 5. Civilinės pirotechnikos priemonės, paimtos šio įstatymo nustatytais atvejais, saugomos tol, kol priimamas sprendimas grąžinti jas turėjusiam subjektui ar sunaikinti. Priėmus sprendimą dėl civilinių pirotechnikos priemonių sunaikinimo, jas sunaikina Lietuvos Respublikos Vyriausybės įgaliota institucija.
 
@@ -711,19 +799,23 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 Lietuvos Respublikos
 
-civilinių pirotechnikos
+civilinių pirotechnikos priemonių
 
-priemonių apyvartos
-
-kontrolės įstatymo
+apyvartos kontrolės įstatymo
 
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/29/ES dėl valstybių narių įstatymų, susijusių su pirotechnikos gaminių tiekimu rinkai, suderinimo (nauja redakcija) (OL 2013 L 178, p. 27).
+1. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/29/ES dėl valstybių narių įstatymų, susijusių su pirotechnikos gaminių tiekimu rinkai, suderinimo (nauja redakcija).
 
-2. 2014 m. balandžio 16 d. Komisijos įgyvendinimo direktyva Nr. 2014/58/ES, kuria pagal Europos Parlamento ir Tarybos direktyvą Nr. 2007/23/EB sukuriama pirotechnikos gaminių atsekamumo sistema (OL 2014 L 115, p. 28).
+2. 2014 m. balandžio 16 d. Komisijos įgyvendinimo direktyva Nr. 2014/58/ES, kuria pagal Europos Parlamento ir Tarybos direktyvą Nr. 2007/23/EB sukuriama pirotechnikos gaminių atsekamumo sistema.“
+
+_______________
+
+Priedo pakeitimai:
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 Pakeitimai:
 
@@ -766,4 +858,28 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3077, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14352
 
 Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 11 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
+
+Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 1, 8, 9, 11, 12, 13, 14, 16, 18, 20, 22, 23 straipsnių ir priedo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1820, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05719
+
+Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 15 ir 22 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1821, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05720
+
+Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 1, 8, 9, 11, 12, 13, 14, 16, 18, 20, 22, 23 straipsnių ir priedo pakeitimo įstatymo Nr. XIV-1741 11 straipsnio pripažinimo netekusiu galios įstatymas
 
