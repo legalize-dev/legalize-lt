@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2023-01-04"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-05-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
+
+TAR pastaba. Įstatymu Nr. XIV-1311 keičiamos 2023-04-01 įsigaliojančios  nuostatos  pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas
 
 Nauja redakcija nuo 2023-01-04:
 
@@ -253,7 +261,11 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 3. Valstybinės žemės sklypus neatlygintinai naudotis įstatymų ir kitų teisės aktų nustatyta tvarka perduoda:
 
-1) savivaldybė – kai valstybinės žemės sklypai perduoti patikėjimo teise savivaldybėms. Sprendimą perduoti neatlygintinai naudotis valstybinės žemės sklypą priima savivaldybės taryba, o valstybinės žemės panaudos sutartį sudaro savivaldybės administracijos direktorius arba jo įgaliotas kitas savivaldybės administracijos valstybės tarnautojas;
+1) savivaldybė – kai valstybinės žemės sklypai perduoti patikėjimo teise savivaldybėms. Sprendimą perduoti neatlygintinai naudotis valstybinės žemės sklypą priima savivaldybės taryba, o valstybinės žemės panaudos sutartį sudaro savivaldybės meras (toliau – meras) arba jo įgaliotas kitas savivaldybės administracijos valstybės tarnautojas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 
 2) kituose įstatymuose nurodyti valstybinės žemės patikėtiniai – šių įstatymų nustatytais atvejais, kai valstybinės žemės sklypai jiems perduoti patikėjimo teise;
 
@@ -273,7 +285,11 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 1. Valstybinės žemės sklypus įstatymų ir kitų teisės aktų nustatyta tvarka išnuomoja:
 
-1) savivaldybė – valstybinės žemės sklypus, perduotus patikėjimo teise savivaldybėms. Sprendimą išnuomoti valstybinės žemės sklypą priima savivaldybės taryba, o valstybinės žemės nuomos sutartį sudaro savivaldybės administracijos direktorius arba jo įgaliotas kitas savivaldybės administracijos valstybės tarnautojas;
+1) savivaldybė – valstybinės žemės sklypus, perduotus patikėjimo teise savivaldybėms. Sprendimą išnuomoti valstybinės žemės sklypą priima savivaldybės taryba, o valstybinės žemės nuomos sutartį sudaro meras arba jo įgaliotas kitas savivaldybės administracijos valstybės tarnautojas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 
 2) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui. Sprendimą išnuomoti valstybinės žemės sklypą priima centralizuotai valdomo valstybės turto valdytojo vadovas, o valstybinės žemės nuomos sutartį sudaro centralizuotai valdomo valstybės turto valdytojo vadovas ar jo įgaliotas darbuotojas;
 
@@ -459,7 +475,11 @@ Savivaldybių žemė
 
 1. Savivaldybėms nuosavybės teise priklausantys žemės sklypai savivaldybės tarybos sprendimais perduodami patikėjimo teise savivaldybių įmonėms ir įstaigoms savivaldybių funkcijoms atlikti.
 
-2. Savivaldybės taryba arba jos įgaliotas savivaldybės administracijos direktorius privalo prižiūrėti, kad sprendimas perduoti žemės sklypą patikėjimo teise būtų tinkamai vykdomas. Jeigu subjektas, kuriam patikėjimo teise perduotas žemės sklypas, nebeatlieka funkcijų, kurioms įgyvendinti buvo perduotas savivaldybės žemės sklypas, savivaldybės taryba priima sprendimą dėl šio subjekto patikėjimo teisės pasibaigimo.
+2. Savivaldybės taryba arba jos pavedimu mero įgaliotas savivaldybės administracijos direktorius privalo prižiūrėti, kad sprendimas perduoti žemės sklypą patikėjimo teise būtų tinkamai vykdomas. Jeigu subjektas, kuriam patikėjimo teise perduotas žemės sklypas, nebeatlieka funkcijų, kurioms įgyvendinti buvo perduotas savivaldybės žemės sklypas, savivaldybės taryba priima sprendimą dėl šio subjekto patikėjimo teisės pasibaigimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 
 3. Savivaldybės žemės sklypų patikėtinis negali perduotų patikėjimo teise žemės sklypų parduoti ar kitaip perleisti, išnuomoti, perduoti panaudos pagrindais ar perduoti juos naudotis kitu būdu, jų įkeisti ar kitaip suvaržyti daiktines teises į juos, jais garantuoti, laiduoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymą. Savivaldybės tarybos sprendime gali būti nustatyta ir kitų apribojimų valdyti ir naudoti perduotus žemės sklypus.
 
@@ -585,7 +605,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
-2. Sprendimą pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą tvirtinanti institucija kartu su sprendimu patvirtinti detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą, o urbanizuotoje ir urbanizuojamoje teritorijoje, kuriai detalieji planai neparengti, sprendimą pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis planas parengtas, priima savivaldybės administracijos direktorius. Pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo tvarką ir sąlygas nustato Vyriausybė.
+2. Sprendimą pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą tvirtinanti institucija kartu su sprendimu patvirtinti detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą, o urbanizuotoje ir urbanizuojamoje teritorijoje, kuriai detalieji planai neparengti, sprendimą pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, priima meras. Pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo tvarką ir sąlygas nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 
 3. Sprendimą pakeisti valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima Vyriausybė, tvirtindama karinės infrastruktūros projektą.
 
@@ -877,7 +901,7 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 4. Savivaldybės institucijos savivaldybės teritorijoje:
 
-1) savivaldybės taryba įstatymų ir kitų teisės aktų nustatyta tvarka tvirtina savivaldybės lygmens žemėtvarkos schemas, o savivaldybės administracijos direktorius – vietovės lygmens žemėtvarkos schemas ir žemės sklypų formavimo ir pertvarkymo projektus;
+1) savivaldybės taryba įstatymų ir kitų teisės aktų nustatyta tvarka tvirtina savivaldybės lygmens žemėtvarkos schemas, o meras – vietovės lygmens žemėtvarkos schemas ir žemės sklypų formavimo ir pertvarkymo projektus;
 
 2) savivaldybės administracijos direktorius organizuoja savivaldybės teritorijos ar jos dalies žemėtvarkos schemų ir kaimo plėtros žemėtvarkos projektų rengimą, taip pat žemės sklypų formavimo ir pertvarkymo projektų ir žemės paėmimo visuomenės poreikiams projektų rengimą;
 
@@ -885,13 +909,17 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 4) šio įstatymo nustatytais atvejais ir tvarka savivaldybės taryba teikia Nacionalinei žemės tarnybai prašymus dėl visuomenės poreikiams reikalingų privačios žemės sklypų paėmimo;
 
-5) savivaldybės taryba ar jos įgaliotas savivaldybės administracijos direktorius teisės aktų nustatyta tvarka sprendžia žemės sklypų pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo klausimus;
+5) savivaldybės taryba ar jos pavedimu meras teisės aktų nustatyta tvarka sprendžia žemės sklypų pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo klausimus;
 
-6) savivaldybės taryba ar jos įgaliotas savivaldybės administracijos direktorius teikia institucijai, administruojančiai valstybės biudžeto ir Europos Sąjungos paramos žemės ūkiui ir kaimo plėtrai skirtas lėšas, siūlymus dėl šių lėšų skyrimo žemėtvarkos planavimo dokumentuose nurodytoms priemonėms įgyvendinti;
+6) savivaldybės taryba ar jos pavedimu meras teikia institucijai, administruojančiai valstybės biudžeto ir Europos Sąjungos paramos žemės ūkiui ir kaimo plėtrai skirtas lėšas, siūlymus dėl šių lėšų skyrimo žemėtvarkos planavimo dokumentuose nurodytoms priemonėms įgyvendinti;
 
-7) savivaldybės administracijos direktorius organizuoja patikėjimo teise valdomuose žemės sklypuose žemėtvarkos darbus, gerinančius žemės naudojimą;
+7) meras organizuoja patikėjimo teise valdomuose žemės sklypuose žemėtvarkos darbus, gerinančius žemės naudojimą;
 
 8) atlieka kitų įstatymų joms nustatytas funkcijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 
 5. Žemės ūkio duomenų centras:
 
@@ -1127,7 +1155,11 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 3. Teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą turi valstybinės žemės patikėtiniai, statinių, prie kurių formuojami žemės sklypai, savininkai, pastatų bendrojo naudojimo objektų valdytojai, privačios žemės savininkai arba valstybinės žemės naudotojai, valstybės ar savivaldybių institucijos ir kiti asmenys, pageidaujantys ir turintys teisę įsigyti nuosavybėn ar nuomoti valstybinės žemės sklypus be aukciono arba juos valdyti patikėjimo teise.
 
-4. Asmenys, turintys teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą, prašymus leisti rengti žemės sklypų formavimo ir pertvarkymo projektus pateikia savivaldybės administracijos direktoriui.
+4. Asmenys, turintys teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą, prašymus leisti rengti žemės sklypų formavimo ir pertvarkymo projektus pateikia merui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 
 5. Žemės sklypų formavimo ir pertvarkymo projektų finansavimo, rengimo, derinimo, visuomenės informavimo ir šių projektų tvirtinimo tvarka nustatoma Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse.
 
@@ -1147,11 +1179,19 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 3) projektas turi būti suderintas Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse nustatyta tvarka;
 
-4) suderintus ir Nacionalinės žemės tarnybos patikrintus žemės sklypų formavimo ir pertvarkymo projektus tvirtina savivaldybės administracijos direktorius Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse nustatyta tvarka. Žemės sklypų formavimo ir pertvarkymo projektas tvirtinamas tik gavus Nacionalinės žemės tarnybos išvadą, kad šį projektą tvirtinti tikslinga.
+4) suderintus ir Nacionalinės žemės tarnybos patikrintus žemės sklypų formavimo ir pertvarkymo projektus tvirtina meras Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse nustatyta tvarka. Žemės sklypų formavimo ir pertvarkymo projektas tvirtinamas tik gavus Nacionalinės žemės tarnybos išvadą, kad šį projektą tvirtinti tikslinga.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 
 8. Patvirtinus žemės sklypų formavimo ir pertvarkymo projektą, Nekilnojamojo turto kadastro įstatymo nustatyta tvarka atliekami kadastriniai matavimai.
 
-9. Du bendrą ribą turintys žemės sklypai gali būti perdalijami nerengiant žemės sklypų formavimo ir pertvarkymo projekto. Tvarka ir atvejai, kai žemės sklypai pertvarkomi nerengiant žemės sklypų formavimo ir pertvarkymo projekto, nustatomi Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse. Sprendimą dėl šių perdalijimo būdu patikslintų žemės sklypų plotų ir ribų patvirtinimo pagal žemės savininkų ir savivaldybės administracijos direktoriaus suderintus žemės sklypų planus priima Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas.
+9. Du bendrą ribą turintys žemės sklypai gali būti perdalijami nerengiant žemės sklypų formavimo ir pertvarkymo projekto. Tvarka ir atvejai, kai žemės sklypai pertvarkomi nerengiant žemės sklypų formavimo ir pertvarkymo projekto, nustatomi Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse. Sprendimą dėl šių perdalijimo būdu patikslintų žemės sklypų plotų ir ribų patvirtinimo pagal žemės savininkų ir mero suderintus žemės sklypų planus priima Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 
 10. Pagal žemės sklypų formavimo ir pertvarkymo projektą suformuoti žemės sklypai, daiktinės teisės į juos, šių teisių suvaržymai ir įstatymų nustatyti juridiniai faktai Nekilnojamojo turto registro įstatymo nustatyta tvarka registruojami Nekilnojamojo turto registre. Suformuotų žemės sklypų kadastro duomenys Nekilnojamojo turto kadastro įstatymo nustatyta tvarka įrašomi į Nekilnojamojo turto kadastrą.
 
@@ -1377,7 +1417,11 @@ IX skyrius
 
 4. Kai kartu su privačios žemės sklypais į teritoriją žemės konsolidacijos projektui rengti numatoma įtraukti valstybinės ir savivaldybės žemės sklypus, susirinkimo sprendimai yra teisėti, jeigu jame dalyvauja Žemės ūkio duomenų centro įgaliotas asmuo, numatomų konsoliduoti valstybinės žemės sklypų patikėtinių įgalioti asmenys, savivaldybės tarybos įgaliotas asmuo, jeigu numatoma konsoliduoti savivaldybės žemės sklypus, ir ne mažiau kaip du trečdaliai žemės savininkų ir sprendimams pritaria Žemės ūkio duomenų centro įgaliotas asmuo, valstybinės žemės sklypų patikėtinių įgalioti asmenys ir savivaldybės tarybos įgaliotas asmuo bei ne mažiau kaip pusė susirinkime dalyvavusių žemės savininkų. Žemės sklypo bendraturčiai balsuodami susirinkime turi vieną balsą. Žemės savininkas, turintis kelis žemės sklypus, priklausančius nuosavybės teise jam vienam ir (ar) kartu su kitais bendraturčiais, balsuodamas susirinkime turi vieną balsą.
 
-5. Atliekant žemės konsolidacijos projekto parengiamųjų darbų, projekto rengimo ir įgyvendinimo procedūras, taip pat sudarant žemės konsolidacijos sutartį, Žemės ūkio duomenų centrui atstovauja jo vadovas arba vadovo įgaliotas asmuo, kitiems valstybinės žemės patikėtiniams atstovauja jų įgalioti asmenys: valstybės tarnautojai arba, jeigu valstybinės žemės patikėtinis neturi valstybės tarnautojų, – kiti darbuotojai, o savivaldybėms – savivaldybės tarybos įgalioti asmenys, atliekantys savivaldybės vietos valdžios ir (ar) viešojo administravimo funkcijas: savivaldybės tarybos nariai, savivaldybės administracijos direktorius arba kiti savivaldybės administracijos valstybės tarnautojai.
+5. Atliekant žemės konsolidacijos projekto parengiamųjų darbų, projekto rengimo ir įgyvendinimo procedūras, taip pat sudarant žemės konsolidacijos sutartį, Žemės ūkio duomenų informacijos centrui atstovauja jo vadovas arba vadovo įgaliotas asmuo, kitiems valstybinės žemės patikėtiniams atstovauja jų įgalioti asmenys: valstybės tarnautojai arba, jeigu valstybinės žemės patikėtinis neturi valstybės tarnautojų, – kiti darbuotojai, o savivaldybėms – savivaldybės tarybos įgalioti asmenys, atliekantys savivaldybės vietos valdžios ir (ar) viešojo administravimo funkcijas: savivaldybės tarybos nariai, meras, savivaldybės administracijos direktorius arba kiti savivaldybės administracijos valstybės tarnautojai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 
 6. Po susirinkimo kiekvienas konsoliduoti žemės sklypus pageidaujantis žemės savininkas, savivaldybės taryba, jeigu numatoma konsoliduoti savivaldybės žemės sklypus, ir valstybinės žemės patikėtiniai, jeigu numatoma konsoliduoti valstybinės žemės sklypus, ne vėliau kaip per vieną mėnesį žemės konsolidacijos projekto rengimo organizatoriui Žemės ūkio duomenų centrui pateikia rašytinį sutikimą dalyvauti žemės konsolidacijos projekte, kurį rengiant ir įgyvendinant bus konsoliduojami sutikimą davusio asmens turimi žemės sklypai, nurodydamas numatomus konsoliduoti žemės sklypus ir įsipareigojimą nepagrįsto atsisakymo ar vengimo dalyvauti žemės konsolidacijos projekte ir (ar) sudaryti žemės konsolidacijos sutartį atveju atlyginti išlaidas, susijusias su jo turimų žemės sklypų pertvarkymu rengiant ir įgyvendinant žemės konsolidacijos projektą, taip pat išlaidas, patirtas tikslinant žemės konsolidacijos projektą dėl nepagrįsto atsisakymo ar vengimo jame dalyvauti ir (ar) sudaryti žemės konsolidacijos sutartį. Kai žemės sklypas priklauso keliems asmenims, sutikimą dalyvauti žemės konsolidacijos projekte turi duoti kiekvienas žemės sklypo bendraturtis. Nacionalinė žemės tarnyba vietoj sutikimo dalyvauti žemės konsolidacijos projekte Žemės ūkio duomenų centrui perduoda numatomų konsoliduoti jos patikėjimo teise valdomų valstybinės žemės sklypų sąrašą. Žemės ūkio duomenų centras, patvirtinęs teritorijos žemės konsolidacijos projektui rengti ribas, nuo šio sprendimo priėmimo dienos įgyja patikėjimo teisę į Nacionalinės žemės tarnybos sąraše nurodytus valstybinės žemės sklypus ir per 5 darbo dienas pateikia prašymą Nekilnojamojo turto registro tvarkytojui įregistruoti šią teisę Nekilnojamojo turto registre. Nacionalinės žemės tarnybos patikėjimo teisė į šiuos valstybinės žemės sklypus pasibaigia nuo Žemės ūkio duomenų centro sprendimo patvirtinti teritorijos žemės konsolidacijos projektui rengti ribas priėmimo dienos.
 
