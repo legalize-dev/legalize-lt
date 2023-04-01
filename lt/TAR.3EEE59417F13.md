@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2022-09-30"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2022-09-30 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-09-18
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -410,9 +410,13 @@ NETEISĖTAI GAUTOS PINIGINĖS SOCIALINĖS PARAMOS IŠIEŠKOJIMAS
 
 3. Jeigu neteisėtai gauta piniginė socialinė parama negrąžinta arba neišskaičiuota, likusi skola išieškoma Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka, jeigu su išieškojimu susijusios administravimo išlaidos neviršija išieškotinos sumos.
 
-27 straipsnis. Dėl savivaldybės administracijos valstybės tarnautojų ir (ar) darbuotojų, dirbančių pagal darbo sutartis, kaltės neteisėtai išmokėtos piniginės socialinės paramos išieškojimas
+27 straipsnis. Dėl savivaldybės administracijos valstybės tarnautojų kaltės neteisėtai išmokėtos piniginės socialinės paramos išieškojimas
 
-Dėl savivaldybės administracijos valstybės tarnautojų ir (ar) darbuotojų, dirbančių pagal darbo sutartis, kaltės neteisėtai išmokėtos piniginės socialinės paramos lėšos išieškomos Lietuvos Respublikos įstatymų nustatyta tvarka.
+Dėl savivaldybės administracijos valstybės tarnautojų kaltės neteisėtai išmokėtos piniginės socialinės paramos lėšos išieškomos Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1844, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05744
 
 Pastaba. Devintasis skirsnis galioja iki 2014 m. gruodžio 31 d.
 
@@ -1340,7 +1344,11 @@ Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
 
 13. Piniginė socialinė parama šio įstatymo 23 straipsnio 1 dalies 3 ir 4 punktuose ir 23 straipsnio 2 dalies 2–11 punktuose nustatytais atvejais skiriama iš naujo nuo kito mėnesio, kai pasikeitė aplinkybės, o nutraukiama nuo informacijos iš atitinkamų institucijų gavimo mėnesio pirmos dienos.
 
-14. Sprendimas dėl piniginės socialinės paramos skyrimo priimamas nurodant šio įstatymo 8 straipsnio 1 dalies sąlygą (sąlygas), kuriai (kurioms) esant paskirta piniginė socialinė parama, ne vėliau kaip per mėnesį nuo prašymo-paraiškos ir visų reikalingų dokumentų gavimo dienos savivaldybės administracijos nustatyta tvarka.
+14. Sprendimas dėl piniginės socialinės paramos skyrimo priimamas nurodant šio įstatymo 8 straipsnio 1 dalies sąlygą (sąlygas), kuriai (kurioms) esant paskirta piniginė socialinė parama, ne vėliau kaip per mėnesį nuo prašymo-paraiškos ir visų reikalingų dokumentų gavimo dienos savivaldybės mero nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1844, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05744
 
 15. Prašymą-paraišką pateikęs asmuo apie priimtą sprendimą dėl piniginės socialinės paramos skyrimo ar neskyrimo yra informuojamas asmens prašyme-paraiškoje nurodytu informavimo būdu ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Jeigu piniginė socialinė parama neskiriama, nurodoma neskyrimo priežastis ir šio sprendimo apskundimo tvarka. Pateikti dokumentai grąžinami prašymą-paraišką pateikusiam asmeniui, o jo byloje paliekamos šių dokumentų kopijos.
 
