@@ -4,7 +4,7 @@ identifier: "TAR.12977CB93B03"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-23"
-last_updated: "2022-03-23"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2022-03-23 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
 
@@ -208,7 +208,13 @@ Nr. XIV-757, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26589
 
 10 straipsnis. Paramos mirties atveju skyrimas ir mokėjimas
 
-1. Parama mirties atveju skiriama savivaldybės administracijos direktoriaus ar jo įgalioto savivaldybės administracijos valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, sprendimu, jeigu kreipimosi ir sprendimo priėmimo metu laidojantis asmuo ar palaikų parvežimą organizavęs fizinis asmuo turi teisę į paramą mirties atveju.
+1. Parama mirties atveju skiriama savivaldybės administracijos sprendimu, jeigu kreipimosi ir sprendimo priėmimo metu laidojantis asmuo ar palaikų parvežimą organizavęs fizinis asmuo turi teisę į paramą mirties atveju.
+
+TAR pastaba. 1 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos paramos mirties atveju įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1845, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05745
 
 2. Sprendimas dėl laidojimo pašalpos skyrimo turi būti priimtas ir nurodyta pašalpa laidojančiam asmeniui išmokėta ne vėliau kaip per 24 valandas nuo prašymo ir visų dokumentų (duomenų), reikalingų gauti laidojimo pašalpą, gavimo savivaldybės administracijoje dienos, jeigu prašymas pateikiamas per 10 darbo dienų nuo teisės į laidojimo pašalpą atsiradimo dienos. Jeigu laidojantis asmuo dėl laidojimo pašalpos kreipiasi vėliau negu per 10 darbo dienų nuo teisės į laidojimo pašalpą atsiradimo dienos, sprendimas dėl laidojimo pašalpos skyrimo turi būti priimtas ir laidojimo pašalpa išmokėta per vieną mėnesį nuo prašymo ir visų dokumentų (duomenų), reikalingų gauti laidojimo pašalpą, gavimo savivaldybės administracijoje dienos. Jeigu laidojimo pašalpa turi būti išmokėta ne darbo dieną ar švenčių dieną, ji išmokama pirmą po jos einančią darbo dieną.
 
@@ -407,4 +413,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-948, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05126
 
 Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio ir priedo pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1845, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05745
+
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 10 straipsnio pakeitimo įstatymas
 
