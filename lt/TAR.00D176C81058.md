@@ -4,7 +4,7 @@ identifier: "TAR.00D176C81058"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-02-11"
-last_updated: "2023-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.00D176C81058"
 department: "Lietuvos Respublikos Seimas"
@@ -18,9 +18,17 @@ entry_into_force_conditions: "Šio įstatymo 22 straipsnis įsigalioja 2010 m. k
 
 LIETUVOS RESPUBLIKOS ŠEIMYNŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 25-1176, i. k. 1101010ISTA00XI-681
+
+TAR pastaba. Įstatymo Nr. XIV-1853 nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos šeimynų įstatymo nuostatos. Iki šio įstatymo taikymo dienos pradėtos su šeimynos veikla susijusios procedūros baigiamos pagal Šeimynų įstatymo nuostatas, galiojusias iki šio įstatymo įsigaliojimo dienos. Šiuo įstatymu keičiamo Šeimynų įstatymo 4 straipsnio 1 dalies 2 punkto a papunktyje nurodytas ne trumpesnis kaip 3 metų vaiko globėjo (rūpintojo) pareigų vykdymas apima laikotarpį, kai asmuo vaiko globėju (rūpintoju) buvo paskirtas savivaldybės administracijos direktoriaus įsakymu.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
+
+Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 3, 4, 5, 8, 15 ir 17 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2023-01-01:
 
@@ -54,7 +62,11 @@ BENDROSIOS NUOSTATOS
 
 3. Šeimyna savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, Socialinių paslaugų įstatymu, Vaiko teisių apsaugos pagrindų įstatymu, šiuo įstatymu, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos tvirtinamais šeimynų nuostatais (toliau – Šeimynų nuostatai), kitais teisės aktais, reglamentuojančiais vaiko laikiną apgyvendinimą, jo globą (rūpybą) ir (ar) šeimynos veiklą, ir šeimynos įstatais.
 
-4. Šeimynoje globojami (rūpinami) ar laikinai apgyvendinami tos savivaldybės teritorijoje, kurioje įsteigta šeimyna, likę be tėvų globos vaikai. Savivaldybių administracijų rašytiniu tarpusavio sutarimu dėl likusių be tėvų globos vaikų apgyvendinimo ir jų globos (rūpybos) šeimynoje finansavimo užtikrinimo bei finansinės ir materialinės pagalbos šeimynos veiklai užtikrinimo šeimynoje gali būti globojami (rūpinami) ar laikinai apgyvendinami ir kitos savivaldybės teritorijoje likę be tėvų globos vaikai. Kitos savivaldybės teritorijoje įsteigtoje šeimynoje vaikai apgyvendinami be savivaldybių administracijų rašytinio tarpusavio sutarimo dėl likusių be tėvų globos vaikų apgyvendinimo ir jų globos (rūpybos) šeimynoje finansavimo užtikrinimo bei finansinės ir materialinės pagalbos šeimynos veiklai užtikrinimo, jeigu neišskiriami broliai ir seserys.
+4. Šeimynoje globojami (rūpinami) ar laikinai apgyvendinami tos savivaldybės teritorijoje, kurioje įsteigta šeimyna, likę be tėvų globos vaikai. Savivaldybių merų ar jų įgaliotų savivaldybės administracijos direktorių rašytiniu tarpusavio sutarimu dėl likusių be tėvų globos vaikų apgyvendinimo ir jų globos (rūpybos) šeimynoje finansavimo užtikrinimo bei finansinės ir materialinės pagalbos šeimynos veiklai užtikrinimo šeimynoje gali būti globojami (rūpinami) ar laikinai apgyvendinami ir kitos savivaldybės teritorijoje likę be tėvų globos vaikai. Kitos savivaldybės teritorijoje įsteigtoje šeimynoje vaikai apgyvendinami be savivaldybių merų ar jų įgaliotų savivaldybės administracijos direktorių rašytinio tarpusavio sutarimo dėl likusių be tėvų globos vaikų apgyvendinimo ir jų globos (rūpybos) šeimynoje finansavimo užtikrinimo bei finansinės ir materialinės pagalbos šeimynos veiklai užtikrinimo, jeigu neišskiriami broliai ir seserys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 II SKYRIUS
 
@@ -68,7 +80,11 @@ II SKYRIUS
 
 2) atitinka bent vieną iš toliau nurodytų sąlygų:
 
-a) ne trumpiau kaip 3 metus iki įsteigdamas šeimyną vykdė vaiko globėjo (rūpintojo) pareigas, į kurias buvo paskirtas savivaldybės administracijos direktoriaus įsakymu ar teismo nutartimi;
+a) ne trumpiau kaip 3 metus iki įsteigdamas šeimyną vykdė vaiko globėjo (rūpintojo) pareigas, į kurias buvo paskirtas savivaldybės mero sprendimu ar teismo nutartimi;
+
+Papunkčio pakeitimai:
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 b) turi ne trumpesnę kaip 3 metų darbo su likusiais be tėvų globos vaikais, vaikais, turinčiais specialiųjų ugdymosi poreikių, vaikais su negalia ir (ar) šeimomis, patiriančiomis socialinę riziką, patirtį;
 
@@ -86,7 +102,11 @@ c) turi aukštąjį išsilavinimą ir ne trumpesnę kaip vienų metų tiesiogini
 
 2) Šeimynų nuostatuose nustatyta tvarka:
 
-a) kreiptis į savivaldybės, kurios teritorijoje šeimyna steigiama, administraciją dėl sutikimo steigti šeimyną savivaldybės teritorijoje. Savivaldybės administracija per vieną mėnesį nuo prašymo gavimo dienos turi pateikti šeimynos steigėjui rašytinį sutikimą dėl šeimynos steigimo ir finansavimo. Savivaldybės administracija nesutinka leisti steigti šeimyną savivaldybės teritorijoje, jeigu patenkinamas savivaldybės teritorijoje likusių be tėvų globos vaikų globos (rūpybos) šeimoje poreikis;
+a) kreiptis į savivaldybės, kurios teritorijoje šeimyna steigiama, merą dėl sutikimo steigti šeimyną savivaldybės teritorijoje. Savivaldybės meras per vieną mėnesį nuo prašymo gavimo dienos turi pateikti šeimynos steigėjui rašytinį sutikimą dėl šeimynos steigimo ir finansavimo. Savivaldybės meras nesutinka leisti steigti šeimyną savivaldybės teritorijoje, jeigu patenkinamas savivaldybės teritorijoje likusių be tėvų globos vaikų globos (rūpybos) šeimoje poreikis;
+
+Papunkčio pakeitimai:
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 b) gauti kartu su šeimynos steigėju gyvenančių vyresnių kaip 16 metų asmenų rašytinį sutikimą steigti šeimyną;
 
@@ -104,7 +124,11 @@ c) gauti kartu su šeimynos steigėju gyvenančio vieno ne jaunesnio kaip 21 met
 
 6. Šeimyna tampa likusių be tėvų globos vaikų globėja (rūpintoja) nuo:
 
-1) savivaldybės administracijos direktoriaus įsakymo dėl vaikų laikinosios globos (rūpybos) nustatymo šeimynoje įsigaliojimo dienos;
+1) savivaldybės mero sprendimo dėl vaikų laikinosios globos (rūpybos) nustatymo šeimynoje įsigaliojimo dienos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 2) teismo nutarties dėl vaikų nuolatinės globos (rūpybos) nustatymo šeimynoje įsiteisėjimo dienos, išskyrus atvejus, kai teismo nutartis ar jos dalis dėl vaiko globos (rūpybos) vykdoma skubiai arba teismas nustato tam tikrą jos vykdymo terminą.
 
@@ -170,7 +194,11 @@ III SKYRIUS
 
 1) supažindinti savo globojamus (rūpinamus) ar laikinai apgyvendintus vaikus su jų teisėmis ir pareigomis, informuoti juos apie jų turtą ir teikti jiems kitą jų teisėtus interesus atitinkančią informaciją;
 
-2) informuoti savivaldybės, kurios teritorijoje ji įsteigta, administraciją apie ketinimą nutraukti savo veiklą prieš 3 mėnesius iki šios veiklos nutraukimo šios savivaldybės administracijos nustatyta tvarka;
+2) informuoti savivaldybės, kurios teritorijoje ji įsteigta, administraciją apie ketinimą nutraukti savo veiklą prieš 3 mėnesius iki šios veiklos nutraukimo šios savivaldybės mero nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 3) vykdyti kituose įstatymuose ir teisės aktuose jai nustatytas ir (ar) su jos veikla susijusias pareigas.
 
@@ -284,19 +312,35 @@ V SKYRIUS
 
 1. Šeimynai mokamos šeimynos išlaikymo pajamos. Jos apskaičiuojamos ir mokamos Vyriausybės ar jos įgaliotos institucijos tvirtinamoje socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje (toliau – Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodika) nustatyta tvarka. Šeimynos dalyvio išlaikymo pajamų, finansuojamų iš savivaldybės biudžeto lėšų, dydis negali būti mažesnis negu 2 Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu šeimynoje yra vienas šeimynos dalyvis, arba mažesnis negu 1,5 Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu šeimynoje yra 2 šeimynos dalyviai, arba mažesnis negu 1 Vyriausybės patvirtinta minimalioji mėnesinė alga, jeigu šeimynoje yra 3 šeimynos dalyviai. Šeimynos dalyvio išlaikymo pajamų, finansuojamų iš savivaldybės biudžeto lėšų, dydis nepriklauso nuo šeimynoje globojamų (rūpinamų) vaikų skaičiaus.
 
-2. Savivaldybės, kurioje įsteigta šeimyna ir (ar) kurios teritorijoje likę be tėvų globos vaikai apgyvendinami šeimynoje, administracija turi sudaryti su šeimyna sutartį dėl vaiko socialinės globos finansavimo, o gavusi šeimynos dalyvio Šeimynų nuostatuose nustatyta tvarka pateiktą prašymą – ir sutartį dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti.
+2. Savivaldybės, kurioje įsteigta šeimyna ir (ar) kurios teritorijoje likę be tėvų globos vaikai apgyvendinami šeimynoje, administracija turi sudaryti su šeimyna sutartį dėl vaiko socialinės globos finansavimo, o gavusi šeimynos dalyvio Šeimynų nuostatuose nustatyta tvarka pateiktą prašymą – ir sutartį dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti. Šios sutartys pasirašomos savivaldybės tarybos nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 3. Sutartyje dėl vaiko socialinės globos finansavimo nustatoma vaiko socialinės globos finansavimo skyrimo sąlygos, priemonės ir šeimynos dalyvio išlaikymo pajamų dydis. Ji turi būti sudaroma per 10 darbo dienų nuo likusio be tėvų globos vaiko apgyvendinimo šeimynoje dienos.
 
-4. Sutartyje dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti nustatomos finansinės paramos, šeimynos nekilnojamojo turto rekonstravimo ar remonto, kitos finansinės ir materialinės pagalbos, užtikrinančios kokybišką šeimynos veiklą, skyrimo sąlygos ir priemonės. Sutartis dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti turi būti sudaroma per 10 darbo dienų nuo sprendimo dėl finansinės paramos šiam turtui rekonstruoti ar remontuoti skyrimo priėmimo savivaldybės, kuriai šeimyna yra pateikusi prašymą, administracijos direktoriaus nustatyta tvarka dienos.
+4. Sutartyje dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti nustatomos finansinės paramos, kitos finansinės ir materialinės pagalbos, užtikrinančios kokybišką šeimynos veiklą, skyrimo sąlygos ir priemonės. Sutartis dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti turi būti sudaroma per 10 darbo dienų nuo sprendimo dėl finansinės paramos šiam turtui rekonstruoti ar remontuoti skyrimo priėmimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 5. Pavyzdines sutarties dėl vaiko socialinės globos finansavimo ir sutarties dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti formas tvirtina socialinės apsaugos ir darbo ministras.
 
 6. Šeimynoje globojamo (rūpinamo) vaiko ir laikinai apgyvendinto vaiko socialinė globa finansuojama Socialinių paslaugų įstatyme ir Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatyta tvarka.
 
-7. Savivaldybės, kurioje įsteigta šeimyna, administracija, gavusi šeimynos dalyvio Šeimynų nuostatuose nustatyta tvarka pateiktą prašymą, savivaldybės administracijos direktoriaus nustatyta tvarka turi kompensuoti faktiškai patirtas ir pagrįstas šeimynos steigimo išlaidas.
+7. Savivaldybės, kurioje įsteigta šeimyna, administracija, gavusi šeimynos dalyvio Šeimynų nuostatuose nustatyta tvarka pateiktą prašymą, savivaldybės mero nustatyta tvarka turi kompensuoti faktiškai patirtas ir pagrįstas šeimynos steigimo išlaidas.
 
-8. Finansinė parama šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti teikiama savivaldybės, kurioje įsteigta šeimyna ir (ar) kurios teritorijoje likę be tėvų globos vaikai apgyvendinami šeimynoje, taip pat kuriai šeimyna teikia prašymą, administracijos direktoriaus nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
+
+8. Finansinė parama šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti, teikiama savivaldybės, kurioje įsteigta šeimyna ir (ar) kurios teritorijoje likę be tėvų globos vaikai apgyvendinti šeimynoje, taip pat kuriai šeimyna pateikė prašymą, mero nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 16 straipsnis. Šeimynos lėšų ir turto naudojimas ir atskaitomybė
 
@@ -314,7 +358,11 @@ V SKYRIUS
 
 2. Šeimynos globojamų (rūpinamų) vaikų turtą administruoja šeimyna. Šeimynos globojamų (rūpinamų) vaikų turtas turi būti atskirtas nuo šeimynos turto. Jam taikomas nemokamas paprastasis administravimas.
 
-3. Šeimynos globojamų (rūpinamų) vaikų turto administratoriumi savivaldybės administracijos direktoriaus įsakymu ar teismo nutartimi gali būti skiriamas ir kitas asmuo, negu nurodyta šio straipsnio 2 dalyje.
+3. Šeimynos globojamų (rūpinamų) vaikų turto administratoriumi savivaldybės mero sprendimu ar teismo nutartimi gali būti skiriamas ir kitas asmuo, negu nurodyta šio straipsnio 2 dalyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 4. Šeimyna administruoja savo globojamų (rūpinamų) vaikų turtą socialinės apsaugos ir darbo ministro tvirtinamo šeimynos globojamų (rūpinamų) vaikų turto administravimo tvarkos aprašo nustatyta tvarka.
 
@@ -425,6 +473,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1511, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23361
 
 Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
+
+Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 3, 4, 5, 8, 15 ir 17 straipsnių pakeitimo įstatymas
 
 23 straipsnis. Įstatymo įsigaliojimas
 
