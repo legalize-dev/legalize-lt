@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2023-03-31"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2023-03-31 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
 
@@ -506,13 +506,15 @@ Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 
 5. Šeimos socialinių paslaugų poreikis nustatomas kompleksiškai vertinant šeimos narių gebėjimus, galimybes ir motyvaciją spręsti savo šeimos socialines problemas, palaikyti ryšius su visuomene bei galimybes tai ugdyti ar kompensuoti šeimos interesus ir poreikius atitinkančiomis bendrosiomis socialinėmis paslaugomis ar socialine priežiūra.
 
-6. Asmens (šeimos), pageidaujančio (pageidaujančios) gauti socialines paslaugas, kurias finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, poreikį nustato socialiniai darbuotojai, paskirti savivaldybės institucijos nustatyta tvarka.
+6. Asmens (šeimos), pageidaujančio (pageidaujančios) gauti socialines paslaugas, kurios finansuojamos iš savivaldybės biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, poreikį nustato socialiniai darbuotojai, paskirti savivaldybės mero nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+
+Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
 
 7. Asmens (šeimos) socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, poreikį socialinių paslaugų teikimo laikotarpiu periodiškai peržiūri socialinių paslaugų įstaigų socialiniai darbuotojai.
 
@@ -536,13 +538,15 @@ Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 
 17 straipsnis. Sprendimas dėl socialinių paslaugų skyrimo asmeniui (šeimai)
 
-Sprendimas dėl socialinių paslaugų, kurių teikimą finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, asmeniui (šeimai) skyrimo, sustabdymo ir nutraukimo priimamas socialinio darbuotojo, nustačiusio asmens (šeimos) socialinių paslaugų poreikį, teikimu savivaldybės administracijos nustatyta tvarka.
+Sprendimas dėl socialinių paslaugų, kurios finansuojamos iš savivaldybės biudžeto lėšų ar iš valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, asmeniui (šeimai) skyrimo, sustabdymo ir nutraukimo priimamas socialinio darbuotojo, nustačiusio asmens (šeimos) socialinių paslaugų poreikį, teikimu savivaldybės mero nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+
+Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
 
 PENKTASIS SKIRSNIS
 
@@ -1334,23 +1338,27 @@ GINČŲ, SUSIJUSIŲ SU SOCIALINĖMIS PASLAUGOMIS, NAGRINĖJIMAS
 
 35 straipsnis. Sprendimų, susijusių su socialinėmis paslaugomis, apskundimas
 
-1. Savivaldybės institucijos nustatyta tvarka paskirtų socialinių darbuotojų išvadas dėl asmens (šeimos) socialinių paslaugų poreikio skirti socialines paslaugas nustatymo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, kiti suinteresuoti asmenys gali apskųsti savivaldybės administracijos direktoriui.
+1. Savivaldybės mero nustatyta tvarka paskirtų socialinių darbuotojų išvadas dėl asmens (šeimos) socialinių paslaugų poreikio skirti socialines paslaugas nustatymo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, kiti suinteresuoti asmenys gali apskųsti savivaldybės merui.
 
-2. Apskundus išvadas dėl asmens (šeimos) socialinių paslaugų poreikio skirti socialines paslaugas nustatymo, savivaldybės administracijos direktoriaus sprendimu turi būti sudaryta komisija, kuri pakartotinai nustatytų asmens (šeimos) socialinių paslaugų poreikį.
+2. Apskundus išvadas dėl asmens (šeimos) socialinių paslaugų poreikio skirti socialines paslaugas nustatymo, savivaldybės mero sprendimu turi būti sudaryta komisija, kuri pakartotinai nustatytų asmens (šeimos) socialinių paslaugų poreikį.
 
 3. Asmens (šeimos) socialinių paslaugų, finansuojamų iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, poreikio nustatymo ar asmens (šeimos) finansinių galimybių mokėti už jas vertinimo išvadas, sprendimus dėl šių socialinių paslaugų skyrimo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, kiti suinteresuoti asmenys gali apskųsti Socialinių paslaugų priežiūros departamentui.
 
-4. Nustatęs pažeidimus dėl asmens (šeimos) socialinių paslaugų, finansuojamų iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, poreikio nustatymo, skyrimo, teikimo, asmens (šeimos) finansinių galimybių mokėti už šias paslaugas vertinimo, Socialinių paslaugų priežiūros departamentas turi kreiptis į savivaldybės administracijos direktorių ir pareikalauti pašalinti trūkumus.
+4. Socialinių paslaugų priežiūros departamentas, nustatęs pažeidimus dėl asmens (šeimos) socialinių paslaugų, finansuojamų iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, poreikio nustatymo, skyrimo, teikimo, asmens (šeimos) finansinių galimybių mokėti už šias paslaugas vertinimo, per 5 darbo dienas nuo pažeidimo nustatymo dienos turi kreiptis į savivaldybės merą ir pareikalauti pašalinti trūkumus.
 
-5. Socialinių paslaugų įstaigą dėl netinkamo bendrųjų socialinių paslaugų ir socialinės priežiūros teikimo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, kiti suinteresuoti asmenys gali apskųsti savivaldybės administracijos direktoriui.
+5. Socialinių paslaugų įstaigą dėl netinkamo prevencinių, bendrųjų socialinių paslaugų ir socialinės priežiūros teikimo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, kiti suinteresuoti asmenys gali apskųsti savivaldybės merui.
 
-6. Nustatęs bendrųjų socialinių paslaugų ir socialinės priežiūros teikimo pažeidimus, savivaldybės administracijos direktorius turi pareikalauti, kad per nustatytą terminą trūkumai būtų pašalinti. Jeigu pažeidėjas trūkumų nepašalina, savivaldybės administracijos direktorius turi teisę inicijuoti, kad socialinių paslaugų įstaiga sustabdytų ar nutrauktų bendrųjų socialinių paslaugų ir socialinės priežiūros teikimą.
+6. Nustačius prevencinių, bendrųjų socialinių paslaugų ir socialinės priežiūros teikimo pažeidimus, savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius per 5 darbo dienas nuo pažeidimo nustatymo dienos turi pareikalauti, kad per nustatytą terminą trūkumai būtų pašalinti, o jeigu pažeidėjas trūkumų nepašalina, turi teisę inicijuoti, kad socialinių paslaugų įstaiga sustabdytų ar nutrauktų prevencinių, bendrųjų socialinių paslaugų ir socialinės priežiūros teikimą. Terminas nustatytiems trūkumams pašalinti negali būti trumpesnis kaip vienas mėnuo ir ilgesnis kaip 6 mėnesiai ir gali būti pratęstas vieną kartą ne ilgiau kaip 6 mėnesiams. Šis terminas nustatomas atsižvelgiant į nustatyto pažeidimo pobūdį ir kitas svarbias aplinkybes, susijusias su paslaugų gavėjų individualių poreikių užtikrinimu.
 
 7. Socialinės globos įstaigą, teikiančią netinkamą socialinę globą, asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, kiti suinteresuoti asmenys gali apskųsti Socialinių paslaugų priežiūros departamentui.
 
-8. Nustatęs socialinės globos teikimo pažeidimus, Socialinių paslaugų priežiūros departamentas šio įstatymo 21–25 straipsnių nustatyta tvarka turi teisę sustabdyti ar panaikinti socialinės globos įstaigai išduotą licenciją.
+8. Nustatęs socialinės globos teikimo pažeidimus, Socialinių paslaugų priežiūros departamentas šio įstatymo 21–25 straipsniuose nustatyta tvarka turi teisę sustabdyti ar panaikinti socialinės globos įstaigai išduotą licenciją.
 
-9. Ginčai dėl savivaldybės institucijos, Socialinių paslaugų priežiūros departamento priimtų sprendimų (neveikimo) nagrinėjami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+9. Ginčai dėl savivaldybės mero, savivaldybės administracijos, Socialinių paslaugų priežiūros departamento priimtų sprendimų (neveikimo) nagrinėjami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
 
 DEŠIMTASIS SKIRSNIS
 
@@ -1650,8 +1658,6 @@ Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
 
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, 16, 17, 19-2, 25-2, 30 ir 35 straipsnių pakeitimo įstatymas
 
-part_d3c29b706220483a86224d2d62362bc9_end
-
 141 straipsnis. Valstybės duomenų agentūros kompetencija
 
 Valstybės duomenų agentūra kiekvienais metais pagal suderintą su Socialinės apsaugos ir darbo ministerija statistinių rodiklių sąrašą atlieka statistinį socialinių paslaugų tyrimą, rengia ir skelbia statistinę informaciją apie socialines paslaugas.
@@ -1792,7 +1798,11 @@ Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
 
 2) vykdo globėjų (rūpintojų), įtėvių, šeimynų dalyvių pasirengimo globoti (rūpinti), įvaikinti vaikus vertinimą bei socialinių paslaugų įstaigų, teikiančių paslaugas vaikams, darbuotojų parengimą dirbti šiose įstaigose;
 
-3) socialinės apsaugos ir darbo ministro nustatyta tvarka parenka vaikui globėją (rūpintoją) ir teikia jo kandidatūrą savivaldybės administracijai, jeigu vaikui nustatyta laikinoji globa. Teikia galimo nuolatinio globėjo (rūpintojo) kandidatūrą Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos teritoriniam skyriui;
+3) Vyriausybės nustatyta tvarka parenka vaikui globėją (rūpintoją) ir teikia rekomendaciją dėl globėjo (rūpintojo) paskyrimo savivaldybės merui, jeigu vaikui nustatoma laikinoji globa (rūpyba), o jeigu nustatoma nuolatinė globa (rūpyba), teikia informaciją apie parinktą globėją (rūpintoją) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos įgaliotam teritoriniam skyriui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
 
 4) teikia Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai prie Socialinės apsaugos ir darbo ministerijos aktualią informaciją apie asmenis, pasirengusius globoti (rūpinti) vaikus;
 
@@ -1844,7 +1854,11 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 4) socialinių paslaugų įstaigai per savivaldybės nustatytą terminą nepašalinus akredituotos socialinės priežiūros teikimo pažeidimų ar neatitikimų.
 
-7. Sprendimą dėl teisės teikti akredituotą socialinę priežiūrą suteikimo, pratęsimo, sustabdymo ar panaikinimo priima savivaldybės administracijos direktorius ar jo įgaliotas asmuo. Apie priimtą sprendimą įstaiga, pageidaujanti teikti akredituotą socialinę priežiūrą, ar socialinių paslaugų įstaiga informuojama raštu.
+7. Sprendimą dėl teisės teikti akredituotą socialinę priežiūrą suteikimo, pratęsimo, sustabdymo ar panaikinimo priima savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
 
 Papildyta straipsniu:
 
