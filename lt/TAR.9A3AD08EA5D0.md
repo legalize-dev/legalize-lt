@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2023-03-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2023-03-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -1558,7 +1558,11 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 5) dalyvauti mokyklos savivaldoje;
 
-6) siūlyti mokyklos vadovui kreiptis į savivaldybės administracijos direktorių dėl minimalios ar vidutinės priežiūros priemonės vaikui skyrimo, taip pat siūlyti mokyklos vadovui skirti vaikui už švietimo įstaigos vidaus tvarkos taisyklių ir mokinio elgesio normų pažeidimus drausmines auklėjamojo poveikio priemones, nurodytas Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme (toliau – Vaiko teisių apsaugos pagrindų įstatymas);
+6) siūlyti mokyklos vadovui Vaiko minimalios ir vidutinės priežiūros įstatymo nustatyta tvarka kreiptis dėl minimalios ar vidutinės priežiūros priemonės vaikui skyrimo, taip pat siūlyti mokyklos vadovui skirti vaikui už švietimo įstaigos vidaus tvarkos taisyklių ir mokinio elgesio normų pažeidimus drausmines auklėjamojo poveikio priemones, nurodytas švietimo įstaigos vidaus tvarką nustatančiuose dokumentuose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 7) naudotis kitomis Profesinio mokymo, Neformaliojo suaugusiųjų švietimo ir kitų įstatymų nustatytomis teisėmis.
 
@@ -1874,7 +1878,11 @@ Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
-4) teisės aktų nustatyta tvarka skiria savivaldybės administracijos švietimo padalinių vadovus ir specialistus;
+4) Neteko galios nuo 2023-04-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 5) Neteko galios nuo 2018-09-01
 
