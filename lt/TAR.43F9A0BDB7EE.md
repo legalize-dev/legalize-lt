@@ -4,7 +4,7 @@ identifier: "TAR.43F9A0BDB7EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2020-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43F9A0BDB7EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,283 +16,293 @@ entry_into_force_conditions: "Įstatymo 17 straipsnis įsigalioja 2004-08-03."
 ---
 # Lietuvos Respublikos kultūros centrų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4435, i. k. 1041010ISTA0IX-2395
+
+Nauja redakcija nuo 2023-04-01:
+
+Nr. XIV-1718, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27562
 
 LIETUVOS RESPUBLIKOS
 
 KULTŪROS CENTRŲ
 
-Į S T A T Y M A S
+ĮSTATYMAS
+
+I SKYRIUS
+
+BENDROSIOS NUOSTATOS
 
 2004 m. liepos 15 d. Nr. IX-2395
 
 Vilnius
 
-PIRMASIS SKIRSNIS
+1 straipsnis. Įstatymo tikslas ir paskirtis
 
-BENDROSIOS NUOSTATOS
+1. Šio įstatymo tikslas – užtikrinti efektyvią kultūros centrų veiklą, siekiant įvairių kultūros paslaugų prieinamumo ir jų plėtros regionuose, skatinti Lietuvos tapatybės, tautinio paveldo ir tradicijų išsaugojimą ir raidą, stiprinti visuomenės įtraukimą į kultūros procesus, skatinti Lietuvos nematerialaus kultūros paveldo išsaugojimą ir plėtrą.
 
-1 straipsnis. Įstatymo paskirtis
+2. Šis įstatymas nustato Lietuvos Respublikos kultūros ministerijos ir savivaldybių institucijų kompetenciją kultūros centrų veiklos srityje, kultūros centrų teisinį statusą, funkcijas, tinklą, kultūros centrų darbuotojų darbo santykių reglamentavimo ypatumus, kultūros centrų finansavimą, Kultūros centrų tarybos sudarymą.
 
-Šis įstatymas nustato kultūros centrų steigimą, pertvarkymą, pasibaigimą, valdymą, veiklą, klasifikavimą, finansavimą bei kitus su kultūros centrų veikla susijusius santykius.
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-2 straipsnis. Pagrindinės Įstatymo sąvokos
+1. Kultūrinė edukacija – kryptinga veikla, kuria skatinami asmens kultūros ir švietimo poreikiai, ugdoma kūrybinga asmenybė, stiprinant kultūros pažinimo ir patyrimo įpročius, lavinant meninius gebėjimus ir kompetencijas.
 
-1. Akreditacija – pripažinimas, kad juridinis asmuo atitinka kultūros centrui nustatytus reikalavimus.
+2. Kultūrinis verslumas – kūrybiškumu ir intelektinėmis savybėmis grindžiamas gebėjimas kurti kultūros paslaugas, turinčias kūrybinę, kultūrinę, socialinę ir ekonominę vertę.
 
-2. Būrelis – asmenų, siekiančių meninės kūrybinės saviraiškos, tobulinimosi sambūris.
+3. Kultūros centras – juridinis asmuo, kuris stiprina nacionalinį, regiono ir (ar) vietos bendruomenės kultūrinį savitumą, puoselėja etninę kultūrą, teikia kultūros paslaugas, vykdo menines, kultūrinės edukacijos, neformaliojo švietimo veiklas, ugdydamas ir tenkindamas bendruomenės kultūrinius poreikius, organizuoja ir vykdo mėgėjų ir profesionaliojo meno veiklas ir jų sklaidą, pristato kultūrines tradicijas šalyje ir užsienyje.
 
-3. Daugiafunkcinis kultūros centras – įvairias kultūros sritis, žanrus puoselėjanti ir skleidžianti kultūros įstaiga.
+4. Mėgėjų menas – per meninę ir (ar) kūrybinę saviraišką, meninį, sociokultūrinį ugdymą ir (ar) neformalųjį švietimą sukuriamas kurios nors kultūros srities, meno šakos ar jų junginio veiklos rezultatas.
 
-4. Kultūros centras – įstatymų nustatyta tvarka įsteigtas ir šio įstatymo nustatyta tvarka pripažintas juridinis asmuo, kuris savo veikla puoselėja etninę kultūrą, mėgėjų meną, kuria menines programas, plėtoja švietėjišką (edukacinę), pramoginę veiklą, tenkina bendruomenės kultūrinius poreikius ir organizuoja profesionalaus meno sklaidą.
+5. Mėgėjų meno kolektyvas – laisvalaikiu mėgėjų menu užsiimanti asmenų grupė, visuomenei pristatanti meninės veiklos rezultatus ir (ar) teikianti kultūros paslaugas.
 
-5. Mėgėjų menas – viešai atliekamas repertuaras, kurio atlikėjai ar atlikėjų kolektyvas (kolektyvai) yra mėgėjai, negaunantys pajamų iš šios veiklos.
+6. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos 2003 m. spalio 17 d. UNESCO Nematerialaus kultūros paveldo apsaugos konvencijoje, ratifikuotoje Lietuvos Respublikos įstatymu „Dėl Nematerialaus kultūros paveldo apsaugos konvencijos ratifikavimo“, Lietuvos Respublikos dainų švenčių įstatyme, Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatyme, Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatyme, Lietuvos Respublikos regioninės plėtros įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos tautinio paveldo produktų įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme.
 
-6. Mėgėjų meno kolektyvas – asmenų grupė, laisvalaikiu užsiimanti menine saviraiška, turinti savo repertuarą ir galinti jį pristatyti žiūrovams.
+II SKYRIUS
 
-7. Pramoginė veikla – laisvalaikio veikla, skirta pramoginiam bendravimui ir poilsiui, glaudžiai susijusi su nūdienos aktualijomis.
+KULTŪROS CENTRŲ TINKLAS, FUNKCIJOS, VEIKLOS TEISINIO REGULIAVIMO YPATUMAI
 
-8. Repertuaras – sukurtų ir viešai atliekamų scenos meno kūrinių visuma.
+3 straipsnis. Kultūros centrų tinklas
 
-9. Scenos menas – pasitelkiant scenos erdves ir garsinius elementus bei judesį sukurtas meno kūrinys (spektaklis, koncertas ar kita meno programa), kuris viešai atliekamas kurioje nors viešoje vietoje, kur tuo pačiu metu dalyvauja neapibrėžta visuomenės narių grupė.
+1. Kultūros centrų tinklą sudaro:
 
-10. Specializuotas kultūros centras – vieną kurią nors kultūros sritį, žanrą puoselėjanti ir skleidžianti kultūros įstaiga.
+1) Lietuvos nacionalinis kultūros centras – biudžetinė įstaiga, kurios savininkė yra valstybė, o savininko teises ir pareigas įgyvendina Kultūros ministerija;
 
-11. Sociokultūrinė veikla – specifinė bendruomenės veiklos sritis, kuri sudaro palankias sąlygas bendruomenei realizuoti socialinius, kultūrinius ir švietėjiškus poreikius, siekiant integruotis į visuomenę.
+2) savivaldybių kultūros centrai – biudžetinės įstaigos, viešosios įstaigos, kurių savininkė yra savivaldybė, ar viešosios įstaigos, kurių dalininkės yra dvi ar daugiau savivaldybių;
 
-12. Studija – mokomojo ir švietėjiško pobūdžio sambūris, skirtas įvairaus amžiaus ir išsilavinimo žmonėms, turintis savo ilgalaikę estetinės veiklos programą.
+3) kiti kultūros centrai – viešieji arba privatūs juridiniai asmenys, išskyrus šios dalies 1 ir 2 punktuose nurodytus kultūros centrus.
 
-13. Švietėjiška (edukacinė) veikla – mokomojo ir pažintinio pobūdžio veikla, skirta įvairaus amžiaus ir išsilavinimo žmonėms.
+2. Kultūros centrai, išskyrus Lietuvos nacionalinį kultūros centrą, pagal veiklos sritį skirstomi į:
 
-ANTRASIS SKIRSNIS
+1) daugiasričius kultūros centrus, kurių veikla apima dvi ar daugiau kultūros ar meno sričių;
 
-KULTŪROS CENTRŲ STEIGIMAS, KLASIFIKAVIMAS, VEIKLOS TEISINIO REGLAMENTAVIMO YPATUMAI
+2) specializuotus kultūros centrus, kurių veikla apima vieną kultūros ar meno sritį.
 
-3 straipsnis. Kultūros centrų steigimas
+3. Savivaldybė, kurios teritorijoje veiklą vykdo tik vienas daugiasritis ar specializuotas savivaldybės kultūros centras, užtikrindama šio įstatymo 5 straipsnyje nurodytų savivaldybių kultūros centrų funkcijų įgyvendinimą, gali pasitelkti kitus kultūros centrus ir (ar) kultūros paslaugų teikėjus.
 
-Kultūros centrų steigimo teisinis pagrindas yra įstaigos steigimo aktas, kurį įstatymų nustatyta tvarka priima steigėjas.
+4 straipsnis. Lietuvos nacionalinio kultūros centro funkcijos
 
-4 straipsnis. Kultūros centrų klasifikavimas
+Lietuvos nacionalinis kultūros centras atlieka šias funkcijas:
 
-1. Kultūros centrai skirstomi į valstybės kultūros centrus, savivaldybių kultūros centrus ir kitus kultūros centrus.
+1) bendradarbiaudamas su valstybės, savivaldybių įstaigomis ir institucijomis, kultūros centrų bendruomene, nevyriausybinėmis organizacijomis, užsienio lietuvių bendruomenėmis, įgyvendina valstybės kultūros politiką kultūros centrų, mėgėjų meno, etninės kultūros ir nematerialaus kultūros paveldo, istorinės atminties įprasminimo ir aktualizavimo srityse;
 
-2. Valstybės kultūros centrai – tai kultūros centrai, kurių teisinė forma yra biudžetinė įstaiga arba viešoji įstaiga ir kurių savininko ar atitinkamai dalininko (savininko) teises ir pareigas įgyvendina ministerija.
+2) atlieka kultūros centrų, mėgėjų meno, etninės kultūros ir nematerialaus kultūros paveldo būklės ir raidos stebėseną, inicijuoja ir (ar) atlieka analitinius tyrimus, kaupia statistinę informaciją, rengia ar dalyvauja rengiant su šiomis sritimis susijusius teisės aktus;
 
-Straipsnio dalies pakeitimai:
+3) atlieka etninės kultūros, tautinio, archeologinio, istorinio kostiumo tyrimų ir atkūrimo darbus;
 
-Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
+4) analizuoja įvairių meno sričių ir žanrų mėgėjų meno kolektyvų veiklą, vertina mėgėjų meno kolektyvų meistriškumą, rengia tautinio paveldo ir tradicijų perėmimo, meistriškumo ugdymo metodikas;
 
-3. Savivaldybių kultūros centrai – tai kultūros centrai, kurių teisinė forma yra biudžetinė įstaiga ar viešoji įstaiga ir kurių steigėjas yra savivaldybės taryba.
+5) rengia ir įgyvendina savivaldybių kultūros centrų vadovų ir darbuotojų, nematerialaus kultūros paveldo, etninės kultūros specialistų, mėgėjų meno kolektyvų vadovų kvalifikacijos tobulinimo programas, analizuoja šių darbuotojų rengimo, kvalifikacijos tobulinimo, perkvalifikavimo poreikius;
 
-4. Kiti kultūros centrai – tai kultūros centrai, kurie yra viešieji arba privatūs juridiniai asmenys, išskyrus šio straipsnio 2 ir 3 dalyse nurodytus kultūros centrus.
+6) atlieka Dainų švenčių įstatyme nustatytas funkcijas;
 
-5. Kultūros centrai pagal veiklos pobūdį skirstomi į specializuotus ir daugiafunkcinius.
+7) organizuoja ar dalyvauja organizuojant tarptautinius, nacionalinius ir regioninius mėgėjų meno ir etninės kultūros renginius;
 
-6. Kultūros centrai pagal Kultūros ministerijos nustatytus veiklos ir materialinės bazės kriterijus skirstomi į aukščiausią, pirmą, antrą ir trečią kategorijas.
+8) inicijuoja naujų kūrinių atsiradimą ir rūpinasi jų sklaida, rengia ir leidžia metodinius leidinius, folkloro rinkinius, vaizdo, garso įrašų, elektroninių leidinių publikacijas, viešina informaciją apie kultūros reiškinius, procesus ir įvykius, susijusius su jam priskirtomis sritimis, nurodytomis šio straipsnio 1 punkte;
 
-5 straipsnis. Kultūros centrų veiklos teisinio reguliavimo ypatumai
+9) vykdo Lietuvos kultūros pristatymą ir sklaidą užsienyje;
 
-1. Kultūros centrai steigiami, pertvarkomi, reorganizuojami ir likviduojami tik Civilinio kodekso, Biudžetinių įstaigų įstatymo ar Viešųjų įstaigų įstatymo nustatytais pagrindais. Steigimo procedūros klausimus, kurių nereglamentuoja įstatymai, gali nustatyti kultūros centrų steigėjai.
+10) atlieka kitas kituose įstatymuose ir Lietuvos nacionalinio kultūros centro nuostatuose nustatytas funkcijas.
 
-2. Kultūros centrų veikla pasibaigia likvidavimo arba reorganizavimo būdu.
+5 straipsnis. Savivaldybių kultūros centrų ir kitų kultūros centrų funkcijos
 
-3. Sprendimą dėl kultūros centrų likvidavimo arba reorganizavimo priima institucija ar juridinio asmens dalyvių susirinkimas, priėmęs sprendimą dėl kultūros centro steigimo.
+Savivaldybių kultūros centrai ir kiti kultūros centrai:
 
-4. Kiekvieno kultūros centro, kaip įstaigos, nepaisant jos teisinės formos, pavadinime turi būti nurodyta „kultūros centras“.
+1) bendradarbiaudami su Lietuvos ir užsienio institucijomis, valstybės, savivaldybių įstaigomis, nevyriausybinėmis organizacijomis, kuria ir teikia įvairias kultūros paslaugas, užtikrina jų prieinamumą visuomenei;
 
-5. Juridinis asmuo, siekiantis pripažinimo kultūros centru, turi atlikti ne mažiau kaip dvi iš šių funkcijų:
+2) įgyvendina priemones, skirtas nacionalinių, regiono ir vietos etninės kultūros ir nematerialaus kultūros paveldo vertybių išsaugojimui, stiprinimui ir sklaidai;
 
-1) sudaryti sąlygas etninės kultūros sklaidai, populiarinti senąsias kultūros tradicijas, papročius, laiduoti etninės kultūros perimamumą;
+3) įgyvendina priemones, skirtas dainų švenčių tradicijų tęstinumui ir plėtrai užtikrinti, dalyvauja dainų šventėse;
 
-2) organizuoti mėgėjų meno kolektyvų, studijų, būrelių veiklą;
+4) formuoja mėgėjų meno kolektyvus, įgyvendina mėgėjų meno kolektyvų plėtrą, teikia priemones ir (ar) išteklius, reikalingus jų kultūrinei veiklai vykdyti;
 
-3) rūpintis mėgėjų meno kolektyvų parengimu ir dalyvavimu Dainų šventėse, vietiniuose, regioniniuose, respublikiniuose ir tarptautiniuose renginiuose;
+5) organizuoja kultūros renginius, rengia ir įgyvendina kultūrinės edukacijos ir neformaliojo švietimo veiklas;
 
-4) organizuoti pramoginius, edukacinius ir kitus renginius;
+6) įgyvendina iniciatyvas, skirtas Lietuvos tapatybės ir tradicijų išsaugojimui, istorinės atminties aktualizavimui užtikrinti, stiprinančias vietos ir regiono kultūrinį savitumą, skatinančias pilietiškai aktyvios bendruomenės ugdymą;
 
-5) organizuoti valstybinių švenčių, atmintinų datų, kalendorinių švenčių paminėjimą;
+7) organizuoja ir (ar) vykdo profesionalaus meno veiklas ir jų sklaidą, dalyvauja įgyvendinant regioninius, nacionalinius ar tarptautinius kultūros plėtros projektus ir programas;
 
-6) rūpintis vaikų ir jaunimo užimtumu, meniniu ugdymu;
+8) įgyvendina veiklas, skirtas vietos bendruomenės įsitraukimui į socialines iniciatyvas meninėmis ir kūrybinės saviraiškos formomis skatinti;
 
-7) kurti ir įprasminti šiuolaikines modernias meno veiklos formas;
+9) vykdo veiklas, skatinančias įvairių kultūrų pažinimą, kultūros paslaugų prieinamumą socialinės atskirties grupėms ir šių grupių įtraukimą į kultūros plėtrą;
 
-8) organizuoti etninę kultūrą, mėgėjų meną populiarinančius renginius, tenkinti kitus bendruomenės kultūrinius poreikius;
+10) vykdo kultūros pristatymą ir sklaidą užsienyje;
 
-9) sudaryti sąlygas profesionalaus meno sklaidai;
+11) rengia kultūros centrų darbuotojų kvalifikacijos tobulinimo programas ir užtikrina kultūros centrų darbuotojų dalyvavimą jose;
 
-10) tenkinti sociokultūrinius bendruomenės poreikius.
+12) teikia kultūros paslaugas, skatinančias kultūrinį verslumą;
 
-6. Kultūros ministerijos nustatyta akreditavimo tvarka juridinį asmenį kultūros centru pripažįsta steigėjas.
+13) atlieka teikiamų kultūros paslaugų poreikio ir kultūros paslaugų kokybės stebėseną;
 
-7. Akreditavimą vykdo steigėjo sudaryta komisija, į kurios sudėtį įeina ir Kultūros ministerijos atstovai.
+14) atlieka kitas kituose įstatymuose ir kultūros centrų nuostatuose ar įstatuose nustatytas funkcijas.
 
-8. Kultūros centro akreditacijos reikalavimai:
+6 straipsnis. Kultūros centrų veiklos teisinio reguliavimo ypatumai
 
-1) turi veiklai tinkamas patalpas ir darbo organizavimui reikiamas priemones;
+1. Kultūros centro, nepriklausomai nuo jo teisinės formos, pavadinime turi būti žodžiai „kultūros centras“.
 
-2) turi atitinkamos kvalifikacijos kultūros ir meno darbuotojų;
+2. Kiekvienas savivaldybės kultūros centras ar kitas kultūros centras, vadovaudamasis savo nuostatais ar įstatais, turi atlikti ne mažiau kaip pusę šio įstatymo 5 straipsnyje nurodytų funkcijų.
 
-3) sistemingai rengia veiklos planus ir juos įgyvendina.
+3. Savivaldybių kultūros centrų ir kitų kultūros centrų nuostatuose ar įstatuose turi būti nurodyta kultūros centro veiklos sritis pagal šio įstatymo 3 straipsnio 2 dalį.
 
-9. Juridinis asmuo, siekdamas pripažinimo kultūros centru, steigėjui kartu su prašymu pateikia šiuos dokumentus:
+4. Apie sprendimą dėl kultūros centro steigimo, pertvarkymo ar pabaigos ne vėliau kaip per 10 darbo dienų nuo šio sprendimo priėmimo informuojama Kultūros ministerija.
 
-1) juridinio asmens steigimo dokumentų nuorašus;
+III SKYRIUS
 
-2) dokumentų nuorašus apie vykdomą ir numatomą vykdyti veiklą, turimą ir planuojamą metų veiklos programą;
+KULTŪROS CENTRŲ DARBUOTOJŲ DARBO SANTYKIŲ REGLAMENTAVIMO YPATUMAI
 
-3) studijų, būrelių, mėgėjų meno kolektyvų, veikiančių kultūros centre, sąrašą;
+7 straipsnis. Lietuvos nacionalinio kultūros centro ir savivaldybių kultūros centrų darbuotojų darbo santykių reglamentavimo ypatumai
 
-4) kultūros ir meno darbuotojų sąrašą ir dokumentų nuorašus, patvirtinančius jų išsimokslinimą ir atitinkamą kvalifikaciją;
+1. Lietuvos nacionalinio kultūros centro ir savivaldybių kultūros centrų vadovai į pareigas penkerių metų kadencijai skiriami viešo konkurso būdu Lietuvos Respublikos Vyriausybės nustatyta tvarka, išskyrus atvejus, kai savivaldybės kultūros centro vadovas be konkurso skiriamas antrajai kadencijai šio straipsnio 4 dalyje nurodytu atveju. Kitų Lietuvos nacionalinio kultūros centro pareigybių, dėl kurių turi būti rengiamas konkursas, sąrašą ir konkurso organizavimo ir vykdymo tvarką nustato Vyriausybė.
 
-5) dokumentų nuorašus, įrodančius veiklai tinkamų patalpų nuosavybės, patikėjimo teise ar nuomos, panaudos sutarčių pagrindu valdymą ir informaciją apie administracinį personalą.
+2. Lietuvos nacionalinio kultūros centro vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Savivaldybių kultūros centrų vadovų kadencijų skaičius neribojamas.
 
-10. Kultūros centro steigėjas informuoja Kultūros ministeriją apie kultūros centrų steigimą, pertvarkymą, reorganizavimą ar likvidavimą arba apie jų filialų steigimą ar uždarymą.
+3. Likus ne mažiau kaip 2 mėnesiams iki Lietuvos nacionalinio kultūros centro ar savivaldybės kultūros centro vadovo kadencijos pabaigos, atitinkamai kultūros ministras, meras arba visuotinis dalininkų susirinkimas priima sprendimą dėl konkurso šioms pareigoms eiti skelbimo, išskyrus atvejus, kai savivaldybės kultūros centro vadovas be konkurso skiriamas antrajai penkerių metų kadencijai šio straipsnio 4 dalyje nurodytu atveju.
 
-6 straipsnis. Kultūros centrų nuostatai
+4. Pasibaigus savivaldybės kultūros centro vadovo penkerių metų kadencijai, mero ar visuotinio dalininkų susirinkimo sprendimu jis gali būti skiriamas be konkurso antrajai penkerių metų kadencijai, jeigu jo vadovaujama įstaiga kiekvienais jo kadencijos metais pasiekė savivaldybės planavimo dokumentuose tiems metams nustatytus rodiklius. Sprendimas dėl savivaldybės kultūros centro vadovo skyrimo be konkurso antrajai penkerių metų kadencijai turi būti priimtas likus ne mažiau kaip 2 mėnesiams iki šio vadovo kadencijos pabaigos.
 
-1. Kultūros centrų nuostatus tvirtina jų steigėjai arba dalyvių susirinkimas.
+TAR pastaba. 4 dalies nuostatos dėl priėmimo į savivaldybės kultūros centro vadovo pareigas antrajai kadencijai be konkurso taikomos ir iki 2022 m. gruodžio 20 d. įstatymo Nr. XIV-1718 įsigaliojimo (2023-04-01) į pareigas priimtiems vadovams, jeigu jų pirmoji kadencija baigiasi po 2022 m. gruodžio 20 d. įstatymo Nr. XIV-1718 įsigaliojimo (2023-04-01).
 
-2. Kultūros centrų nuostatai yra teisinis dokumentas, kuriais kultūros centrai vadovaujasi savo veikloje.
+5. Savivaldybės kultūros centro vadovas, kuris nebuvo skirtas be konkurso antrajai penkerių metų kadencijai šio straipsnio 4 dalyje nurodytu atveju, turi teisę dalyvauti viešame konkurse šio kultūros centro vadovo pareigoms eiti.
 
-3. Kultūros centrų nuostatuose turi būti nurodyta:
+TAR pastaba. 5 dalies nuostatos dėl priėmimo į savivaldybės kultūros centro vadovo pareigas antrajai kadencijai be konkurso taikomos ir iki 2022 m. gruodžio 20 d. įstatymo Nr. XIV-1718 įsigaliojimo (2023-04-01) į pareigas priimtiems vadovams, jeigu jų pirmoji kadencija baigiasi po 2022 m. gruodžio 20 d. įstatymo Nr. XIV-1718 įsigaliojimo (2023-04-01).
 
-1) įstaigos pavadinimas;
+6. Kitais, negu šio straipsnio 3 dalyje numatytais, atvejais konkursas Lietuvos nacionalinio kultūros centro ar savivaldybės kultūros centro vadovo pareigoms eiti skelbiamas ne vėliau kaip per 20 darbo dienų nuo vadovo darbo sutarties pasibaigimo dienos. Jeigu konkursas neįvyksta, naujas konkursas turi būti paskelbtas ne vėliau kaip per 20 darbo dienų nuo neįvykusio konkurso procedūrų pabaigos.
 
-2) buveinė;
+7. Jeigu, pasibaigus Lietuvos nacionalinio kultūros centro ar savivaldybės kultūros centro vadovo kadencijai, konkurso į laisvą pareigybę metu pretendentas nebuvo atrinktas, atitinkamai kultūros ministras, meras ar visuotinis dalininkų susirinkimas gali paskirti eiti šias pareigas iki kadencijos pabaigos kultūros centro vadovo pareigas ėjusį ar kitą asmenį, iki konkurso būdu bus paskirtas naujas kultūros centro vadovas, bet ne ilgesniam negu vienų metų laikotarpiui. Šis asmuo turi būti nepriekaištingos reputacijos, kaip tai nustatyta šio straipsnio 9 dalyje, ir atitikti kultūros ministro nustatytus kvalifikacinius reikalavimus, nurodytus šio straipsnio 8 dalyje.
 
-3) kultūros centro veiklos pobūdis ir tikslai;
+8. Kvalifikacinius reikalavimus Lietuvos nacionalinio kultūros centro ir savivaldybių kultūros centrų vadovams nustato kultūros ministras.
 
-4) kultūros centro valdymo organų sudarymo tvarka, kompetencija, funkcijos ir atsakomybė;
+9. Lietuvos nacionalinio kultūros centro, savivaldybių kultūros centrų vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
-5) darbuotojų priėmimo į darbą tvarka;
+1) neatitinka Lietuvos Respublikos valstybės tarnybos įstatyme nustatytų nepriekaištingos reputacijos reikalavimų;
 
-6) darbo apmokėjimo tvarka;
+TAR pastaba. 1 punktas netaikomas Lietuvos nacionalinio kultūros centro, savivaldybių kultūros centrų vadovams, priimtiems į pareigas iki 2022 m. gruodžio 20 d. įstatymo Nr. XIV-1718 įsigaliojimo dienos (2023-04-01), jeigu Lietuvos Respublikos valstybės tarnybos įstatyme numatytos sąlygos, dėl kurių Lietuvos nacionalinio kultūros centro, savivaldybės kultūros centro vadovas nebūtų laikomas nepriekaištingos reputacijos, atsirado iki 2022 m. gruodžio 20 d. įstatymo Nr. XIV-1718 įsigaliojimo (2023-04-01), išskyrus atvejus, kai įsiteisėja teismo nuosprendis, kuriuo Lietuvos nacionalinio kultūros centro, savivaldybės kultūros centro vadovas pripažįstamas kaltu dėl nusikalstamos veikos, nurodytos iki 2022 m. gruodžio 20 d. įstatymo Nr. XIV-1718 įsigaliojimo (2023-04-01) galiojusio Kultūros centrų įstatymo 9 straipsnio 3 dalies 1–3 punktuose, padarymo. Šiuo atveju Lietuvos nacionalinio kultūros centro, savivaldybės kultūros centro vadovas, priimtas į pareigas iki 2022 m. gruodžio 20 d. įstatymo Nr. XIV-1718 įsigaliojimo dienos (2023-04-01), iš pareigų atleidžiamas pagal 2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717 1 straipsnyje išdėstyto Kultūros centrų įstatymo 7 straipsnio 10 dalies nuostatas.
 
-7) lėšų šaltiniai, jų naudojimo tvarka bei finansinės veiklos kontrolė ir kitos nuostatos.
+2) yra pripažintas šiurkščiai pažeidęs kultūros ministro tvirtinamas kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles (toliau – Taisyklės) ir nuo pripažinimo padarius tokį pažeidimą dienos nepraėjo treji metai. Taisyklių šiurkščiu pažeidimu laikomas du ir daugiau kartų per vienus metus kultūros įstaigos darbuotojo padarytas Taisyklių pažeidimas, kai toks pažeidimas žemina žmogaus orumą, diskredituoja kultūros įstaigos reputaciją.
 
-7 straipsnis. Kultūros centro taryba
+10. Paaiškėjus, kad Lietuvos nacionalinio kultūros centro ar savivaldybės kultūros centro vadovas neatitinka nepriekaištingos reputacijos kriterijų, nurodytų šio straipsnio 9 dalyje, atitinkamai kultūros ministras, meras ar visuotinis dalininkų susirinkimas priima sprendimą nutraukti su Lietuvos nacionalinio kultūros centro ar savivaldybės kultūros centro vadovu sudarytą darbo sutartį.
 
-1. Valstybės ir savivaldybės kultūros centre turi būti kolegiali patariamojo balso teisę turinti kultūros centro taryba. Kultūros centro tarybai negali vadovauti kultūros centro direktorius.
+8 straipsnis. Kultūros centrų vadovų teisė dirbti kitą darbą
 
-2. Valstybės ir savivaldybės kultūros centro tarybos narių skaičius, jos sudarymo ir atšaukimo tvarka bei kompetencija nustatoma šios įstaigos nuostatuose. Juos tvirtina steigėjas.
-
-3. Valstybės ir savivaldybės kultūros centro taryba svarsto ir vertina sezonines ir perspektyvines kūrybinės veiklos programas, jų įgyvendinimo rezultatus, aptaria naujausias meno programas ir teikia siūlymus dėl jų meninės kokybės ir priežiūros bei kitus klausimus, numatytus kultūros centro steigimo dokumentuose ir nuostatuose.
-
-4. Kitų kultūros centrų steigimo dokumentuose nustatyta tvarka gali būti sudaroma kolegiali patariamojo balso teisę turinti kultūros centro taryba, jos uždaviniai ir funkcijos nustatomi konkretaus kultūros centro steigimo dokumentuose.
-
-TREČIASIS SKIRSNIS
-
-KULTŪROS CENTRŲ FINANSAVIMAS
-
-8 straipsnis. Kultūros centrų valstybės finansavimas ir kitos lėšos
-
-1. Valstybės ir savivaldybių kultūros centrai finansuojami atitinkamai iš valstybės ar savivaldybių biudžetų.
-
-2. Kiti kultūros centrai finansuojami iš steigėjo lėšų.
-
-3. Kultūros centrai gali gauti valstybės ir savivaldybių biudžetų asignavimų, teisės aktų nustatyta tvarka dalyvaudami Kultūros ministerijos, savivaldybių tarybų skelbiamuose konkursuose atitinkamoms kultūrinės veiklos programoms, finansuojamoms iš valstybės arba savivaldybių biudžetų, vykdyti.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
-
-4. Valstybė ir savivaldybės iš savo biudžeto lėšų gali papildomai finansuoti kultūros centrų veiklą organizuojant valstybines šventes.
-
-5. Kultūros centrų lėšų šaltiniai gali būti ir kitos kultūros centrų steigėjų nustatyta tvarka įgytos ir naudojamos nebiudžetinės lėšos.
-
-KETVIRTASIS SKIRSNIS
-
-KULTŪROS CENTRŲ DARBUOTOJŲ DARBO SANTYKIAI
-
-9 straipsnis. Kultūros centrų vadovų darbo santykių reglamentavimo ypatumai
-
-1. Valstybės ir savivaldybių kultūros centrų vadovai į pareigas skiriami 5 metams konkurso būdu Lietuvos Respublikos Vyriausybės nustatyta tvarka. To paties valstybės kultūros centro vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Kvalifikacinius reikalavimus valstybės ir savivaldybių kultūros centrų vadovams nustato kultūros ministras.
-
-2. Kituose kultūros centruose pareigų, į kurias priimama konkurso būdu, sąrašą ir konkursų tvarką gali nustatyti darbdavys arba steigėjas.
-
-3. Valstybės ir savivaldybių kultūros centrų vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu atitinka bent vieną iš šių sąlygų:
-
-1) yra pripažintas kaltu padaręs tyčinį nusikaltimą ir turi neišnykusį ar nepanaikintą teistumą;
-
-2) yra pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusižengimo padarymo ir nuo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
-
-3) yra pripažintas kaltu dėl nusikaltimų, kuriais padaryta turtinė žala valstybei, ir turi neišnykusį ar nepanaikintą teistumą;
-
-4) yra uždraustos organizacijos narys;
-
-5) yra atleistas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, darbo drausmės pažeidimų ir nuo atleidimo iš pareigų dienos nepraėjo 3 metai;
-
-6) piktnaudžiauja alkoholiu, vartoja narkotines, psichotropines ar toksines medžiagas;
-
-7) yra pripažintas šiurkščiai pažeidęs Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimus ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai;
-
-8) yra pripažintas šiurkščiai pažeidęs kultūros ministro patvirtintas Kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles (toliau – Taisyklės) ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai. Taisyklių šiurkščiu pažeidimu laikomas du ir daugiau kartų per vienus metus kultūros įstaigos darbuotojo padarytas Taisyklių pažeidimas, kai toks pažeidimas žemina žmogaus orumą, diskredituoja kultūros įstaigos reputaciją.
-
-TAR pastaba. 9 straipsnio 3 dalis netaikoma valstybės ir savivaldybių kultūros centrų vadovams, priimtiems į pareigas iki įstatymo Nr. XIII-1417 įsigaliojimo (2018-08-01), jeigu 9 straipsnio 3 dalyje numatytos sąlygos atsirado iki šio įstatymo įsigaliojimo.
-
-4. Valstybės ir savivaldybės kultūros centro vadovui leidžiama dirbti kitą darbą ir už šį darbą gauti atlyginimą, jeigu tai:
+1. Lietuvos nacionalinio kultūros centro ir savivaldybės kultūros centro vadovui leidžiama dirbti kitą darbą ir už šį darbą gauti atlyginimą, jeigu tai:
 
 1) nesukelia viešųjų ir privačių interesų konflikto;
 
 2) nediskredituoja kultūros centro autoriteto.
 
-5. Sprendimą dėl leidimo valstybės ir savivaldybės kultūros centro vadovui dirbti kitą darbą ir už šį darbą gauti atlyginimą priima šios įstaigos vadovą į pareigas skiriančios institucijos vadovas jo nustatyta tvarka.
+2. Sprendimą dėl leidimo Lietuvos nacionalinio kultūros centro vadovui, savivaldybės kultūros centro vadovui dirbti kitą darbą ir už šį darbą gauti atlyginimą priima atitinkamai kultūros ministras, meras ar visuotinis dalininkų susirinkimas savo nustatyta tvarka.
 
-Straipsnio pakeitimai:
+IV SKYRIUS
+
+KULTŪROS CENTRŲ FINANSAVIMAS
+
+9 straipsnis. Lietuvos nacionalinio kultūros centro, savivaldybių ir kitų kultūros centrų finansavimas
+
+1. Lietuvos nacionalinis kultūros centras, savivaldybių kultūros centrai, kurių teisinė forma yra biudžetinė įstaiga, finansuojami atitinkamai iš valstybės ar savivaldybės biudžetų, taip pat jų finansavimo lėšų šaltiniai gali būti ir kitos teisėtai įgytos lėšos.
+
+2. Savivaldybių kultūros centrų, kurių teisinė forma yra viešoji įstaiga, finansavimą reglamentuoja Lietuvos Respublikos viešųjų įstaigų įstatymas, jiems gali būti skiriama lėšų iš savivaldybių biudžetų jų veiklai vykdyti.
+
+3. Kitų kultūros centrų veikla finansuojama jų teisinę formą reglamentuojančių teisės aktų nustatyta tvarka.
+
+V SKYRIUS
+
+KULTŪROS CENTRŲ VEIKLOS VALDYMAS
+
+10 straipsnis. Kultūros ministerijos kompetencija kultūros centrų veiklos valdymo srityje
+
+1. Kultūros ministerija:
+
+1) bendradarbiaudama su kultūros centrų bendruomene, formuoja kultūros centrų valstybės politiką ir koordinuoja jos įgyvendinimą;
+
+2) rengia kultūros centrų veiklą reglamentuojančius teisės aktus;
+
+3) koordinuoja Lietuvos nacionalinio kultūros centro planavimo dokumentų įgyvendinimą;
+
+4) prisideda prie kultūros centrų veiklos plėtros rekomendacijų įgyvendinimo finansavimo;
+
+5) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas, susijusias su kultūros centrų veiklos valdymu.
+
+2. Kultūros ministras:
+
+1) tvirtina kultūros centrų veiklą reglamentuojančius teisės aktus;
+
+2) tvirtina Lietuvos nacionalinio kultūros centro nuostatus, nustato veiklos prioritetus ir vertinimo kriterijus, tvirtina Lietuvos nacionalinio kultūros centro planavimo dokumentus;
+
+3) konkurso būdu į pareigas skiria ir iš jų atleidžia Lietuvos nacionalinio kultūros centro vadovą;
+
+4) tvirtina kultūros centrų veiklos plėtros rekomendacijas;
+
+5) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas, susijusias su kultūros centrų veiklos valdymu.
+
+11 straipsnis. Savivaldybės institucijų kompetencija savivaldybių kultūros centrų veiklos valdymo srityje
+
+1. Savivaldybės taryba:
+
+1) steigia savivaldybių kultūros centrus, priima sprendimus dėl jų pabaigos ir pertvarkymo, tvirtina savivaldybių kultūros centrų veiklą reglamentuojančius teisės aktus ir planavimo dokumentus;
+
+2) bendradarbiaudama su kultūros centrų bendruomene, nustato savivaldybių kultūros centrų veiklos prioritetus;
+
+3) užtikrina savivaldybių kultūros centrų finansavimą ir (ar) kitokį prisidėjimą prie savivaldybės teritorijoje veiklą vykdančių savivaldybės kultūros centrų veiklos, mėgėjų meno kolektyvų dalyvavimo įgyvendinant tarptautines, nacionalines, regionines kultūrines programas ir dalyvavimo dainų šventėse;
+
+4) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas, susijusias su kultūros centrų veiklos valdymu savivaldybės teritorijoje.
+
+2. Savivaldybės meras:
+
+1) koordinuoja ir kontroliuoja savivaldybės teritorijoje veikiančių savivaldybės kultūros centrų veiklą, organizuoja jų teikiamų paslaugų kokybės stebėseną;
+
+2) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas, susijusias su kultūros centrų veiklos valdymu savivaldybės teritorijoje.
+
+12 straipsnis. Kultūros centrų taryba
+
+1. Kultūros centrų taryba yra prie Kultūros ministerijos veikianti kolegiali, patariamojo balso teisę turinti institucija, atliekanti eksperto ir konsultanto funkcijas, kai sprendžiami Lietuvos kultūros centrų politikos formavimo ir įgyvendinimo klausimai.
+
+2. Kultūros centrų tarybos sudarymo tvarką ir jos sudėtį bei nuostatus tvirtina kultūros ministras. Kultūros centrų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
+
+Lietuvos Respublikos kultūros centrų įstatymo 4, 8, 11 ir 13 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-1417, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11328
 
-10 straipsnis. Kultūros centrų darbuotojų darbo santykių reglamentavimas
+Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 9 straipsnio pakeitimo įstatymas
 
-Kultūros centrų darbuotojų darbo santykius reglamentuoja Darbo kodeksas ir kiti teisės aktai.
+3.
 
-11 straipsnis. Kultūros centrų darbuotojų darbo apmokėjimas
+Lietuvos Respublikos Seimas, Įstatymas
 
-Kultūros centrų darbuotojų darbo apmokėjimas nustatomas vadovaujantis Valstybės ir savivaldybių biudžetinių įstaigų darbuotojų darbo apmokėjimo įstatymo ir kitų teisės aktų nustatyta tvarka.
+Nr. XIII-1748, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20721
 
-Straipsnio pakeitimai:
+Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 15 straipsnio pakeitimo įstatymas
 
-Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
+4.
 
-PENKTASIS SKIRSNIS
-
-KULTŪROS CENTRŲ VEIKLOS VALSTYBINIS VALDYMAS
-
-12 straipsnis. Kultūros ministerijos kompetencija kultūros centrų veiklos reglamentavimo srityje
-
-1. Valstybės politiką kultūros centrų veiklos reglamentavimo srityje įgyvendina ir pagal savo kompetenciją koordinuoja Kultūros ministerija.
-
-2. Kultūros ministerija atlieka šias funkcijas:
-
-1) steigia, reorganizuoja ir likviduoja kultūros įstaigas, teikiančias metodinę pagalbą kultūros centrų kultūros ir meno darbuotojams, padedančias įgyvendinti kultūros darbuotojų tobulinimosi programas;
-
-2) nustato kultūros centrų plėtotės strategiją, finansuoja Lietuvos kultūrai svarbias kultūros centrų kultūrinės veiklos programas ir projektus;
-
-3) rengia kultūros centrų veiklą reglamentuojančių teisės aktų projektus ir nustatyta tvarka juos tvirtina;
-
-4) tvirtina kultūros centrų kultūros ir meno darbuotojų pareigybių sąrašą;
-
-5) tvirtina kultūros centrų statistinių ataskaitų formas;
-
-6) organizuoja kultūros centrų darbuotojų kvalifikacijos kėlimą;
-
-7) Neteko galios nuo 2020-01-01
-
-Straipsnio punkto naikinimas:
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
 
-8) tvirtina kategorijų suteikimo kultūros centrams kriterijus;
+Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 11, 12, 13 ir 14 straipsnių pakeitimo įstatymas
 
-9) nustato kultūros centrų akreditavimo tvarką;
+5.
 
-10) teikia metodinę ir organizacinę pagalbą mėgėjų meno srityje kultūros centrų kultūros ir meno darbuotojams, kaupia ir analizuoja informaciją apie mėgėjų meno būklę;
+Lietuvos Respublikos Seimas, Įstatymas
 
-11) rūpinasi autorinių kūrinių įsigijimu, mėgėjų meną populiarinančios informacinės ir metodinės literatūros leidimu;
+Nr. XIV-1718, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27562
 
-12) rūpinasi mėgėjų meną populiarinančių renginių organizavimu.
+Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 pakeitimo įstatymas
 
 13 straipsnis. Kitų ministerijų įgaliojimai valstybės kultūros centrų veiklos reglamentavimo srityje
 
