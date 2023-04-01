@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2023-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
+
+TAR pastaba. Įstatymo Nr. XIV-1272 nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1822, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05724
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 13, 15, 16, 21, 22, 27 ir 28 straipsnių pakeitimo įstatymo Nr. XIV-1272 4, 6 straipsnių pakeitimo ir 1, 5, 7 straipsnių pripažinimo netekusiais galios įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -231,11 +239,13 @@ Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 2) viešosios tvarkos apsaugos komendantūros;
 
-3) savivaldybių administracijų direktoriai.
+3) savivaldybių merai (toliau – merai).
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
+
+Nr. XIV-1272, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15619
 
 14 straipsnis. Institucija, atsakinga už nepaprastosios padėties valdymą
 
@@ -275,7 +285,7 @@ Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 4. Komendantūroje dirbantys valstybės ir savivaldybių institucijų darbuotojai yra tiesiogiai pavaldūs tos komendantūros komendantui ir privalo vykdyti visus jo teisėtus nurodymus bei įsakymus.
 
-5. Komendantų teisėti nurodymai ir įsakymai dėl šiame Įstatyme nustatytų priemonių siekiant užtikrinti žmonių gyvybės, sveikatos ir turto, taip pat valstybės konstitucinės santvarkos apsaugą, garantuoti viešąją tvarką bei visuomenės rimtį nepaprastosios padėties metu yra privalomi visiems toje teritorijoje esantiems fiziniams ir juridiniams asmenims, taip pat savivaldybių administracijų direktoriams, Vyriausybės įgaliotiniui (įgaliotiniams) ir Vyriausybės įgaliotinio pavaduotojui (pavaduotojams). Asmenys, nevykdantys komendantų teisėtų nurodymų ir įsakymų, atsako įstatymų nustatyta tvarka.
+5. Komendantų teisėti nurodymai ir įsakymai dėl šiame Įstatyme nustatytų priemonių siekiant užtikrinti žmonių gyvybės, sveikatos ir turto, taip pat valstybės konstitucinės santvarkos apsaugą, garantuoti viešąją tvarką bei visuomenės rimtį nepaprastosios padėties metu yra privalomi visiems toje teritorijoje esantiems fiziniams ir juridiniams asmenims, taip pat merams, Vyriausybės įgaliotiniui (įgaliotiniams) ir Vyriausybės įgaliotinio pavaduotojui (pavaduotojams). Asmenys, nevykdantys komendantų teisėtų nurodymų ir įsakymų, atsako įstatymų nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
@@ -283,43 +293,33 @@ Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA
 
 Nr. XIV-93, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28942
 
+Nr. XIV-1272, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15619
+
 6. Komendantūros šio Įstatymo nustatytais atvejais gali išduoti specialius leidimus.
 
 7. Komendantūrų steigimą, jų kompetenciją bei veiklos tvarką nustato šis Įstatymas ir Vyriausybės patvirtinti Viešosios tvarkos apsaugos komendantūrų nuostatai.
 
-16 straipsnis. Savivaldybės administracijos direktorius
+16 straipsnis. Meras
 
-1. Šio Įstatymo normų vykdymą savivaldybėse užtikrina ir už tai yra tiesiogiai atsakingi savivaldybių administracijų direktoriai.
+1. Šio Įstatymo normų vykdymą savivaldybėse užtikrina ir už tai yra tiesiogiai atsakingi merai.
 
-2. Savivaldybės administracijos direktorius įgyvendina institucijos, atsakingos už nepaprastosios padėties valdymą, vadovo nurodymus, organizuoja stichinių nelaimių, avarijų, masinių neramumų likvidavimo, paieškos ir gelbėjimo darbus ir įgyvendina nepaprastosios padėties priemones.
+2. Meras įgyvendina institucijos, atsakingos už nepaprastosios padėties valdymą, vadovo nurodymus, organizuoja stichinių nelaimių, avarijų, masinių neramumų likvidavimo, paieškos ir gelbėjimo darbus ir įgyvendina nepaprastosios padėties priemones.
 
-Straipsnio dalies pakeitimai:
+3. Merų veiksmus įgyvendinant nepaprastosios padėties priemones koordinuoja institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas ar jo įgaliotas asmuo.
 
-Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
+4. Mero teisėti nurodymai ir įsakymai dėl žmonių gyvybės gelbėjimo, jų sveikatos ir turto apsaugos, viešosios tvarkos ir visuomenės rimties užtikrinimo nepaprastosios padėties metu yra privalomi visoms savivaldybės teritorijoje esančioms valstybės ir savivaldybių institucijoms, fiziniams ir juridiniams asmenims. Šio Įstatymo 15 straipsnio 5 dalyje nurodyti komendantų nurodymai merams yra privalomi.
 
-Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
+5. Asmenys, nevykdantys teisėtų mero nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka.
 
-3. Savivaldybių administracijų direktorių veiksmus įgyvendinant nepaprastosios padėties priemones koordinuoja institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas ar jo įgaliotas asmuo.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
-
-Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
-
-4. Savivaldybės administracijos direktoriaus teisėti nurodymai ir įsakymai dėl žmonių gyvybės gelbėjimo, jų sveikatos ir turto apsaugos, viešosios tvarkos ir visuomenės rimties užtikrinimo nepaprastosios padėties metu yra privalomi visoms savivaldybės teritorijoje esančioms valstybės ir savivaldybių institucijoms, fiziniams ir juridiniams asmenims. Šio Įstatymo 15 straipsnio 5 dalyje nurodyti komendantų nurodymai savivaldybių administracijų direktoriams yra privalomi.
-
-5. Asmenys, nevykdantys teisėtų savivaldybės administracijos direktoriaus nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka.
-
-6. Jeigu nepaprastosios padėties metu komendantūros nėra steigiamos, institucija, atsakinga už nepaprastosios padėties valdymą, ar jos įgaliota institucija, turi teisę išduoti specialius leidimus, o šios institucijos vadovas – nustatyti privalomuosius darbus, nurodytus šio Įstatymo 27 straipsnyje.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
+6. Jeigu nepaprastosios padėties metu komendantūros nėra steigiamos, institucija, atsakinga už nepaprastosios padėties valdymą, ar jos įgaliota institucija turi teisę išduoti specialius leidimus, o šios institucijos vadovas – nustatyti privalomuosius darbus, nurodytus šio Įstatymo 27 straipsnyje.
 
 Straipsnio pakeitimai:
 
 Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
+
+Nr. XIV-1272, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15619
+
+Nr. XIV-1822, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05724
 
 17 straipsnis. Kariuomenės ir mobilizacinio rezervo panaudojimas nepaprastosios padėties metu
 
@@ -387,7 +387,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
-2. Specialaus leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, Vyriausybės įgaliotiniui (įgaliotiniams), Vyriausybės įgaliotinio pavaduotojui (pavaduotojams), taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, savivaldybių administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus tarnybos sistemos ir prokuratūros pareigūnams, krašto apsaugos sistemos institucijų kariams ir valstybės tarnautojams, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnams.
+2. Specialaus leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams ir jų veiklą užtikrinančių įstaigų valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, Vyriausybės įgaliotiniui (įgaliotiniams), Vyriausybės įgaliotinio pavaduotojui (pavaduotojams), taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, merams, savivaldybių administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus tarnybos sistemos ir prokuratūros pareigūnams, krašto apsaugos sistemos institucijų kariams ir valstybės tarnautojams, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnams.
 
 Straipsnio dalies pakeitimai:
 
@@ -396,6 +396,8 @@ Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
 Nr. XIII-2913, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10912
 
 Nr. XIV-93, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28942
+
+Nr. XIV-1822, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05724
 
 Straipsnio pakeitimai:
 
@@ -483,7 +485,7 @@ Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 10) transporto priemonių ir asmenų bei jų bagažo tikrinimas siekiant surasti ir paimti neteisėtai laikomus šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas bei priemones, nustatyti bei sulaikyti įstatymų pažeidėjus, užtikrinti viešąją tvarką ir visuomenės rimtį, apsaugoti gyventojų gyvybę, sveikatą ir turtą;
 
-11) mutatis mutandis vadovaujantis Karo padėties įstatyme nustatyta tvarka ir reikalavimais, laikinasis turto paėmimas ir (ar) turto rekvizicija savivaldybės administracijos direktoriaus sprendimu, siekiant užkirsti kelią itin pavojingiems ir sunkiems padariniams arba jiems likviduoti, žmonių gyvybei, sveikatai ar turtui gelbėti. Ginklai, ginklų priedėliai, šaudmenys ir jų dalys, kurie priklauso teisę juos laikyti turintiems asmenims, gali būti laikinai paimami tik tada, kai turima informacijos, kad jie gali būti panaudoti nusikalstamoms veikoms;
+11) mutatis mutandis vadovaujantis Karo padėties įstatyme nustatyta tvarka ir reikalavimais, laikinasis turto paėmimas ir (ar) turto rekvizicija mero sprendimu, siekiant užkirsti kelią itin pavojingiems ir sunkiems padariniams arba jiems likviduoti, žmonių gyvybei, sveikatai ar turtui gelbėti. Ginklai, ginklų priedėliai, šaudmenys ir jų dalys, kurie priklauso teisę juos laikyti turintiems asmenims, gali būti laikinai paimami tik tada, kai turima informacijos, kad jie gali būti panaudoti nusikalstamoms veikoms;
 
 Straipsnio punkto pakeitimai:
 
@@ -492,6 +494,8 @@ Nr. XI-1418, 2011-05-26, Žin., 2011, Nr. 72-3469 (2011-06-14), i. k. 1111010IST
 Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
 
 Nr. XIII-3240, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15877
+
+Nr. XIV-1272, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15619
 
 12) nepaprastosios padėties metu teritorijoje įvedamas medicininis ar veterinarinis karantinas;
 
@@ -720,4 +724,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 
 Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 3, 6, 7, 12, 13, 14, 15, 16, 20, 21, 22, 24, 27, 28, 29 ir 31 straipsnių pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1272, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15619
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 13, 15, 16, 21, 22, 27 ir 28 straipsnių pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1822, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05724
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 13, 15, 16, 21, 22, 27 ir 28 straipsnių pakeitimo įstatymo Nr. XIV-1272 4, 6 straipsnių pakeitimo ir 1, 5, 7 straipsnių pripažinimo netekusiais galios įstatymas
 
