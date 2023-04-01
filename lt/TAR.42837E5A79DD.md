@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2023-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-05-02
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -3814,7 +3814,13 @@ Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 
 2. Skiriant atstovą nelydimam nepilnamečiam užsieniečiui, į teismą dėl teismo leidimo paimti vaiką iš jo atstovų pagal įstatymą nesikreipiama.
 
-3. Jeigu nelydimo nepilnamečio užsieniečio atstovu paskiriamas juridinis asmuo, jis ne vėliau kaip kitą darbo dieną nuo savivaldybės administracijos direktoriaus įsakymo dėl vaiko laikinosios globos (rūpybos) nustatymo priėmimo dienos paskiria atsakingą darbuotoją, kuris vykdo nelydimo nepilnamečio užsieniečio atstovo pareigas.
+3. Jeigu nelydimo nepilnamečio užsieniečio atstovu paskiriamas juridinis asmuo, jis ne vėliau kaip kitą darbo dieną nuo savivaldybės mero potvarkio dėl vaiko laikinosios globos (rūpybos) nustatymo priėmimo dienos paskiria atsakingą darbuotoją, kuris vykdo nelydimo nepilnamečio užsieniečio atstovo pareigas.
+
+TAR pastaba. 3 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1852, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05756
 
 4. Nelydimi nepilnamečiai užsieniečiai, neatsižvelgiant į jų buvimo Lietuvos Respublikos teritorijoje teisėtumą, turi šias teises:
 
@@ -5955,6 +5961,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1220, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15585
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 36 straipsnio pakeitimo įstatymas
+
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1852, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05756
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 32 straipsnio pakeitimo įstatymas
 
 341 straipsnis. Leidimo gyventi išdavimas, keitimas ir naujas įforminimas skubos tvarka
 
