@@ -4,7 +4,7 @@ identifier: "TAR.E59A4E24506E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-02"
-last_updated: "2023-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E59A4E24506E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos susirinkimų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 69-1291, i. k. 0931010ISTA000I-317
 
@@ -70,7 +70,11 @@ BENDROSIOS NUOSTATOS
 
 4. Susirinkimo formos – mitingai, piketai, demonstracijos, procesijos, eitynės, kitokie taikūs beginkliai susirinkimai.
 
-5. Susirinkimo subjektai – susirinkimo organizatoriai, jų įgalioti asmenys, susirinkimo dalyviai, savivaldybės administracijos direktorius ar jį pavaduojantis asmuo, policijos pareigūnai.
+5. Susirinkimo subjektai – susirinkimo organizatoriai, jų įgalioti asmenys, susirinkimo dalyviai, meras arba jo įgaliotas savivaldybės administracijos direktorius, policijos pareigūnai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
 
 6. Susirinkimo vieta – vieta, kurioje susirinkimo organizatoriai ir dalyviai įgyvendina susirinkimo tikslus.
 
@@ -118,13 +122,25 @@ Nr. XIV-1023, 2022-04-19, paskelbta TAR 2022-04-20, i. k. 2022-08030
 
 II SKYRIUS
 
-PRANEŠIMO APIE ORGANIZUOJAMĄ SUSIRINKIMĄ DERINIMO TVARKA
+PRANEŠIMO APIE ORGANIZUOJAMĄ SUSIRINKIMĄ DERINIMO IR APSKUNDIMO TVARKA
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
 
 6 straipsnis. Pranešimo apie organizuojamą susirinkimą pateikimo tvarka ir terminai
 
-1. Susirinkimo organizatoriai laisva forma praneša savivaldybės administracijos direktoriui ar jį pavaduojančiam asmeniui apie organizuojamą susirinkimą, kuriame dalyvaus ne daugiau kaip 15 žmonių. Tokiems susirinkimams netaikomos šio straipsnio 3 dalies ir šio įstatymo 7 straipsnio nuostatos.
+1. Susirinkimo organizatoriai laisva forma praneša merui arba jo įgaliotam savivaldybės administracijos direktoriui apie organizuojamą susirinkimą, kuriame dalyvaus ne daugiau kaip 15 žmonių. Toje pačioje vietoje tuo pačiu laiku gali vykti ne daugiau kaip 2 tokie susirinkimai. Šiems susirinkimams netaikomos šio straipsnio 3 dalies ir šio įstatymo 7 straipsnio nuostatos.
 
-2. Susirinkimo organizatoriai ne vėliau kaip prieš 5 darbo dienas iki numatytos susirinkimo dienos privalo pateikti savivaldybės administracijos direktoriui ar jį pavaduojančiam asmeniui rašytinį pranešimą apie organizuojamą susirinkimą, kuriame dalyvaus daugiau kaip 15 žmonių.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
+
+2. Susirinkimo organizatoriai ne vėliau kaip prieš 4 darbo dienas iki numatytos susirinkimo dienos privalo pateikti merui arba jo įgaliotam savivaldybės administracijos direktoriui rašytinį pranešimą apie organizuojamą susirinkimą, kuriame dalyvaus daugiau kaip 15 žmonių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
 
 3. Pranešime apie organizuojamą susirinkimą turi būti nurodyta:
 
@@ -142,19 +158,39 @@ PRANEŠIMO APIE ORGANIZUOJAMĄ SUSIRINKIMĄ DERINIMO TVARKA
 
 7 straipsnis. Pranešimo apie organizuojamą susirinkimą nagrinėjimo, derinimo tvarka ir terminai bei apskundimo tvarka
 
-1. Savivaldybės administracijos direktorius ar jį pavaduojantis asmuo, gavę pranešimą apie organizuojamą susirinkimą, nustato pranešimo derinimo datą ir ne vėliau kaip prieš vieną darbo dieną informuoja susirinkimo organizatorius ir policiją apie nustatytą pranešimo apie organizuojamą susirinkimą derinimo dieną ir laiką.
+1. Meras arba jo įgaliotas savivaldybės administracijos direktorius, gavę pranešimą apie organizuojamą susirinkimą, nustato pranešimo derinimo datą ir ne vėliau kaip prieš vieną darbo dieną informuoja susirinkimo organizatorius ir policiją apie nustatytą pranešimo apie organizuojamą susirinkimą derinimo dieną ir laiką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
 
 2. Pranešimas apie organizuojamą susirinkimą turi būti suderintas ne vėliau kaip per 3 darbo dienas nuo jo gavimo.
 
-3. Pranešimą apie organizuojamą susirinkimą derina savivaldybės administracijos direktorius ar jį pavaduojantis asmuo, susirinkimo organizatoriai ir policijos atstovas. Derinant pranešimą apie organizuojamą susirinkimą, gali dalyvauti kitų įstaigų atstovai, specialistai.
+3. Pranešimą apie organizuojamą susirinkimą derina meras arba jo įgaliotas savivaldybės administracijos direktorius, susirinkimo organizatoriai ir policijos atstovas. Derinant pranešimą apie organizuojamą susirinkimą, gali dalyvauti kitų įstaigų atstovai, specialistai.
 
-4. Pranešimo apie organizuojamą susirinkimą suderinimo dokumentą pasirašo savivaldybės administracijos direktorius ar jį pavaduojantis asmuo ir suderinimo dokumento nuorašą nedelsdamas įteikia arba išsiunčia organizatoriams.
+Straipsnio dalies pakeitimai:
 
-5. Kai toje pačioje vietoje tuo pačiu laiku du ar daugiau susirinkimo organizatorių planuoja rengti susirinkimus, pirmumo teisę organizuoti susirinkimą turi tas organizatorius, kuris pirmasis pateikė pranešimą savivaldybės administracijos direktoriui ar jį pavaduojančiam asmeniui. Su kitais organizatoriais savivaldybės administracijos direktorius ar jį pavaduojantis asmuo derina kitą galimą susirinkimo vietą ar laiką.
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
+
+4. Pranešimo apie organizuojamą susirinkimą suderinimo dokumentą pasirašo meras arba jo įgaliotas savivaldybės administracijos direktorius ir suderinimo dokumento nuorašą nedelsdamas įteikia arba išsiunčia organizatoriams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
+
+5. Kai toje pačioje vietoje tuo pačiu laiku du ar daugiau susirinkimo organizatorių planuoja rengti susirinkimus, pirmumo teisę organizuoti susirinkimą turi tas organizatorius, kuris pirmasis pateikė pranešimą merui arba jo įgaliotam savivaldybės administracijos direktoriui. Su kitais organizatoriais meras arba jo įgaliotas savivaldybės administracijos direktorius derina kitą galimą susirinkimo vietą ar laiką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
 
 6. Minint valstybės šventes: vasario 16-ąją – Lietuvos valstybės atkūrimo dieną, kovo 11-ąją – Lietuvos nepriklausomybės atkūrimo dieną ir liepos 6-ąją – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną, pirmumo teisė pasirinkti renginio vietą ir laiką suteikiama valstybės ar savivaldybių institucijoms.
 
-7. Savivaldybės administracijos direktoriaus ar jį pavaduojančio asmens veiksmai (neveikimas) ar pranešimo apie organizuojamą susirinkimą suderinimas gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+7. Mero arba jo įgalioto savivaldybės administracijos direktoriaus veiksmai (neveikimas) ar pranešimo apie organizuojamą susirinkimą suderinimas per 2 darbo dienas nuo šio straipsnio 2 dalyje nustatyto termino pranešimui apie organizuojamą susirinkimą suderinti pabaigos gali būti skundžiami pirmosios instancijos administraciniam teismui. Skundas turi būti išnagrinėtas ne vėliau kaip per 3 darbo dienas nuo jo gavimo teisme. Pirmosios instancijos administracinio teismo priimtas sprendimas gali būti skundžiamas apeliacine tvarka Lietuvos vyriausiajam administraciniam teismui per 2 darbo dienas nuo šio sprendimo paskelbimo dienos. Lietuvos vyriausiasis administracinis teismas nustato terminą atsiliepimui į apeliacinį skundą pateikti. Apeliacinis skundas turi būti išnagrinėtas ne vėliau kaip per 3 darbo dienas nuo jo gavimo Lietuvos vyriausiajame administraciniame teisme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
 
 III SKYRIUS
 
@@ -202,13 +238,17 @@ SUSIRINKIMO SUBJEKTŲ TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 
 Susirinkimo organizatoriai, jų įgalioti asmenys ir dalyviai ar pavienis asmuo, vykdantis akciją, pažeidę šį ar kitus Lietuvos Respublikos įstatymus, nustatyta tvarka traukiami baudžiamojon ar administracinėn atsakomybėn, atsako už padarytą turtinę žalą ir privalo atlyginti nuostolius.
 
-12 straipsnis. Savivaldybės administracijos direktoriaus ar jį pavaduojančio asmens pareigos ir atsakomybė
+12 straipsnis. Mero arba jo įgalioto savivaldybės administracijos direktoriaus pareigos ir atsakomybė
 
-1. Savivaldybės administracijos direktorius ar jį pavaduojantis asmuo privalo šio įstatymo nustatyta tvarka užtikrinti sklandų pranešimo apie organizuojamą susirinkimą suderinimą.
+1. Meras arba jo įgaliotas savivaldybės administracijos direktorius privalo šio įstatymo nustatyta tvarka užtikrinti sklandų pranešimo apie organizuojamą susirinkimą suderinimą.
 
-2. Savivaldybės administracijos direktorius ar jį pavaduojantis asmuo negali susirinkimo organizatorių ir dalyvių įpareigoti imtis priemonių, kurioms įgyvendinti reikalingi finansiniai ištekliai, išskyrus susirinkimo vietos sutvarkymo po įvykusio susirinkimo priemones.
+2. Meras arba jo įgaliotas savivaldybės administracijos direktorius negali susirinkimo organizatorių ir dalyvių įpareigoti imtis priemonių, kurioms įgyvendinti reikalingi finansiniai ištekliai, išskyrus susirinkimo vietos sutvarkymo po įvykusio susirinkimo priemones.
 
-3. Savivaldybės administracijos direktorius ar jį pavaduojantis asmuo, pažeidę šį įstatymą, nustatyta tvarka traukiami administracinėn atsakomybėn.
+3. Meras arba jo įgaliotas savivaldybės administracijos direktorius, pažeidę šį įstatymą, nustatyta tvarka traukiami administracinėn atsakomybėn.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
 
 13 straipsnis. Policijos pareigūnų teisės
 
@@ -291,6 +331,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1231, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15597
 
 Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 4 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1775, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00158
+
+Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 2, 6, 7, 12 straipsnių ir II skyriaus pavadinimo pakeitimo įstatymas
 
 15 straipsnis. Susirinkimų vedimo tvarka
 
