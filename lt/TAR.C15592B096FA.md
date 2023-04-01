@@ -4,7 +4,7 @@ identifier: "TAR.C15592B096FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-15"
-last_updated: "2023-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-29
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
 
@@ -149,7 +149,11 @@ Krizių valdymo ir civilinės saugos sistemos veikla organizuojama vadovaujantis
 
 7) viešumo – krizių valdymo ir civilinės saugos sistemos subjektų veikla yra atvira visuomenei;
 
-8) institucinės atsakomybės – ministerijos ir kitos valstybės institucijos ir įstaigos užtikrina pasirengimą krizėms, ekstremaliosioms situacijoms ir kitų su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusių funkcijų atlikimą jų veiklos srityse, savivaldybės administracijos direktorius užtikrina pasirengimą ekstremaliosioms situacijoms ir kitų su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusių funkcijų atlikimą savivaldybėje.
+8) institucinės atsakomybės – ministerijos ir kitos valstybės institucijos ir įstaigos užtikrina pasirengimą krizėms, ekstremaliosioms situacijoms ir kitų su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusių funkcijų atlikimą jų veiklos srityse, savivaldybės meras (toliau – meras) ir savivaldybės administracijos direktorius užtikrina pasirengimą ekstremaliosioms situacijoms ir kitų su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusių funkcijų atlikimą savivaldybėje.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 5 straipsnis. Asmens teisių ir laisvių, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimai
 
@@ -391,7 +395,11 @@ k) šio įstatymo 40 straipsnyje nustatyta tvarka rengia pasiūlymus Vyriausybei
 
 1) perspėja gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas, ūkio subjektus ir veiklos vykdytojus apie gresiančią ar susidariusią ekstremaliąją situaciją, išplatina valstybės ir savivaldybių institucijų ir įstaigų turimą arba joms skirtą informaciją, kuri leidžia imtis priemonių, siekiant išvengti galimos žalos arba ją sušvelninti;
 
-2) pagal kompetenciją vykdo įvykių, ekstremaliųjų įvykių likvidavimą ir jų padarinių šalinimą, koordinuoja gyventojų evakavimą, kai sprendimą dėl šio evakavimo priima savivaldybės administracijos direktorius, valstybės ir savivaldybių institucijų ir įstaigų, ūkio subjektų ir veiklos vykdytojų vadovai;
+2) pagal kompetenciją vykdo įvykių, ekstremaliųjų įvykių likvidavimą ir jų padarinių šalinimą, koordinuoja gyventojų evakavimą, kai sprendimą dėl šio evakavimo priima meras, valstybės ir savivaldybių institucijų ir įstaigų, ūkio subjektų ir veiklos vykdytojų vadovai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 3) koordinuoja civilinės saugos įgyvendinimą visoje Lietuvos Respublikos teritorijoje ir teikia metodinę pagalbą civilinės saugos srityje;
 
@@ -415,13 +423,35 @@ k) šio įstatymo 40 straipsnyje nustatyta tvarka rengia pasiūlymus Vyriausybei
 
 3. Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius ar jo įgaliotas asmuo turi teisę Vyriausybės nustatyta tvarka duoti privalomus nurodymus valstybės ir savivaldybių institucijoms ir įstaigoms ir veiklos vykdytojams gerinti pasirengimą krizėms ir ekstremaliosioms situacijoms.
 
-13 straipsnis. Savivaldybės administracijos direktoriaus kompetencija
+13 straipsnis. Mero ir savivaldybės administracijos direktoriaus kompetencija
 
-1. Savivaldybės administracijos direktorius, atlikdamas savivaldybei valstybės perduotą civilinės saugos funkciją:
+1. Meras, vykdydamas savivaldybei valstybės perduotą civilinės saugos organizavimo funkciją:
 
 1) organizuoja pasirengimą ekstremaliosioms situacijoms savivaldybėje ir šios veiklos koordinavimą su ministerijų parengties pareigūnais;
 
-2) skiria savivaldybės parengties pareigūną – savivaldybės administracijos valstybės tarnautoją, kuris:
+2) organizuoja savivaldybės institucijų ir įstaigų turimos informacijos apie įvykį, ekstremalųjį įvykį, ypatingą įvykį, ekstremaliąją situaciją teikimą Vyriausybės nustatyta tvarka;
+
+3) skelbia ir atšaukia savivaldybės lygio ekstremaliąją situaciją, skiria savivaldybės operacijų vadovą;
+
+4) Vyriausybės nustatyta tvarka nustato kolektyvinės apsaugos statinių ir priedangų poreikį, organizuoja jų parinkimą, pažymėjimą ir parengimą;
+
+5) įgyvendina priemones, reikalingas padėti civilinės saugos pajėgoms pasirengti atlikti sanitarinį švarinimą, ir kitas radiacinio, cheminio ir biologinio kenksmingumo pašalinimo priemones, organizuoja įvykių, ekstremaliųjų įvykių, krizių ir ekstremaliųjų situacijų metu nutrauktų komunalinių paslaugų teikimo atnaujinimą, pagalbos teikimą nukentėjusiesiems įvykių, ekstremaliųjų įvykių, krizių ir ekstremaliųjų situacijų metu, gyventojų, kurie žuvo krizių ar ekstremaliųjų situacijų metu ir už kurių laidojimą atsakingo asmens nėra, laidojimą;
+
+6) sudaro su kitų savivaldybių institucijomis ir įstaigomis tarpusavio pagalbos planus dėl materialinių išteklių pateikimo ir gyventojų evakavimo;
+
+7) pagal kompetenciją informuoja gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas, ūkio subjektus ir veiklos vykdytojus civilinės saugos klausimais;
+
+8) savivaldybės teritorijoje organizuoja Priešgaisrinės apsaugos ir gelbėjimo departamento pasiūlymų įgyvendinimą ir užtikrina Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus ar jo įgalioto asmens privalomų nurodymų įgyvendinimą;
+
+9) pagal kompetenciją leidžia potvarkius pasirengimo ekstremaliosioms situacijoms, jų prevencijos savivaldybėje ir savivaldybės lygio ekstremaliosios situacijos valdymo klausimais;
+
+10) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+
+2. Meras ar jo įgaliotas asmuo turi teisę Vyriausybės nustatyta tvarka duoti privalomus nurodymus savivaldybės teritorijoje esančioms kitoms įstaigoms ir ūkio subjektams gerinti pasirengimą ekstremaliosioms situacijoms.
+
+3. Savivaldybės administracijos direktorius, atlikdamas savivaldybei valstybės perduotą civilinės saugos organizavimo funkciją:
+
+1) skiria savivaldybės parengties pareigūną – savivaldybės administracijos valstybės tarnautoją, kuris:
 
 a) koordinuoja savivaldybės institucijų ir įstaigų, kitų įstaigų, kurių savininkė yra savivaldybė, savivaldybės valdomų įmonių, savivaldybės teritorijoje esančių kitų ūkio subjektų pasirengimą ekstremaliosioms situacijoms;
 
@@ -429,33 +459,19 @@ b) bendradarbiauja su ministerijų parengties pareigūnais savivaldybės institu
 
 c) atlieka kitas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas;
 
-3) organizuoja savivaldybės institucijų ir įstaigų turimos informacijos apie įvykį, ekstremalųjį įvykį, ypatingą įvykį, ekstremaliąją situaciją teikimą Vyriausybės nustatyta tvarka;
+2) organizuoja savivaldybės gyventojų švietimą civilinės saugos klausimais;
 
-4) skelbia ir atšaukia savivaldybės lygio ekstremaliąją situaciją, skiria savivaldybės operacijų vadovą;
+3) renka iš visų savivaldybėje esančių krizių valdymo ir civilinės saugos sistemos subjektų, gyventojų duomenis, reikalingus krizių valdymo ir civilinės saugos sistemos uždaviniams įgyvendinti, ir Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka šiuos duomenis kaupia, tvarko ir teikia Priešgaisrinės apsaugos ir gelbėjimo departamentui;
 
-5) organizuoja savivaldybės gyventojų švietimą civilinės saugos klausimais;
+4) organizuoja savivaldybės administracijos valstybės tarnautojų ir darbuotojų civilinės saugos mokymą;
 
-6) Vyriausybės nustatyta tvarka nustato kolektyvinės apsaugos statinių ir priedangų poreikį, organizuoja jų parinkimą, pažymėjimą ir parengimą;
+5) pagal kompetenciją leidžia įsakymus civilinės saugos klausimais;
 
-7) prižiūri, kaip savivaldybės teritorijoje esančiose kitose įstaigose ir ūkio subjektuose vykdomi krizių valdymo ir civilinės saugos sistemos uždaviniai, laikomasi šio įstatymo ir kitų civilinę saugą reglamentuojančių teisės aktų reikalavimų;
+6) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
 
-8) įgyvendina priemones, reikalingas padėti civilinės saugos pajėgoms pasirengti atlikti sanitarinį švarinimą, ir kitas radiacinio, cheminio ir biologinio kenksmingumo pašalinimo priemones, organizuoja įvykių, ekstremaliųjų įvykių, krizių ir ekstremaliųjų situacijų metu nutrauktų komunalinių paslaugų teikimo atnaujinimą, pagalbos teikimą nukentėjusiesiems įvykių, ekstremaliųjų įvykių, krizių ir ekstremaliųjų situacijų metu, gyventojų, kurie žuvo krizių ar ekstremaliųjų situacijų metu ir už kurių laidojimą atsakingo asmens nėra, laidojimą;
+Straipsnio pakeitimai:
 
-9) sudaro su kitų savivaldybių institucijomis ir įstaigomis tarpusavio pagalbos planus dėl materialinių išteklių pateikimo ir gyventojų evakavimo;
-
-10) renka iš visų savivaldybėje esančių krizių valdymo ir civilinės saugos sistemos subjektų, gyventojų duomenis, reikalingus krizių valdymo ir civilinės saugos sistemos uždaviniams įgyvendinti, ir Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka šiuos duomenis kaupia, tvarko ir teikia Priešgaisrinės apsaugos ir gelbėjimo departamentui;
-
-11) pagal kompetenciją informuoja gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas, ūkio subjektus ir veiklos vykdytojus civilinės saugos klausimais;
-
-12) organizuoja savivaldybės administracijos valstybės tarnautojų ir darbuotojų civilinės saugos mokymą;
-
-13) savivaldybės teritorijoje organizuoja Priešgaisrinės apsaugos ir gelbėjimo departamento pasiūlymų įgyvendinimą ir užtikrina Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus ar jo įgalioto asmens privalomų nurodymų įgyvendinimą;
-
-14) pagal kompetenciją priima įsakymus pasirengimo ekstremaliosioms situacijoms, jų prevencijos savivaldybėje ir savivaldybės lygio ekstremaliosios situacijos valdymo klausimais;
-
-15) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
-
-2. Savivaldybės administracijos direktorius ar jo įgaliotas asmuo turi teisę Vyriausybės nustatyta tvarka duoti privalomus nurodymus savivaldybės teritorijoje esančioms kitoms įstaigoms ir ūkio subjektams gerinti pasirengimą ekstremaliosioms situacijoms.
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 14 straipsnis. Kitų įstaigų, ūkio subjektų ir veiklos vykdytojų kompetencija
 
@@ -467,7 +483,11 @@ c) atlieka kitas su krizių valdymo ir civilinės saugos sistemos uždavinių į
 
 1) šiame įstatyme nustatytais atvejais teikti materialinius išteklius ir atlikti būtinas užduotis;
 
-2) vykdyti gelbėjimo darbų vadovo, operacijų vadovo, Vyriausybės ir savivaldybės administracijos direktoriaus sprendimus, reikalingus įvykiui, ekstremaliajam įvykiui, krizei ar ekstremaliajai situacijai likviduoti, jų padariniams šalinti.
+2) vykdyti gelbėjimo darbų vadovo, operacijų vadovo, Vyriausybės, mero ir savivaldybės administracijos direktoriaus sprendimus, reikalingus įvykiui, ekstremaliajam įvykiui, krizei ar ekstremaliajai situacijai likviduoti, jų padariniams šalinti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 4. Kitos įstaigos, ūkio subjekto vadovas arba jo įgaliotas asmuo:
 
@@ -475,11 +495,19 @@ c) atlieka kitas su krizių valdymo ir civilinės saugos sistemos uždavinių į
 
 2) organizuoja savo vadovaujamos įstaigos, ūkio subjekto darbuotojų civilinės saugos mokymą;
 
-3) užtikrina savivaldybės administracijos direktoriaus ar jo įgalioto asmens privalomų nurodymų įgyvendinimą;
+3) užtikrina mero ar jo įgalioto asmens privalomų nurodymų įgyvendinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 4) prireikus aprūpina savo vadovaujamos įstaigos, ūkio subjekto darbuotojus būtinomis priemonėmis;
 
-5) teikia savivaldybės administracijos direktoriui ir reikiamai ministerijai pagal ministrui pavestą valdymo sritį duomenis, reikalingus krizių valdymo ir civilinės saugos sistemos uždaviniams įgyvendinti;
+5) teikia merui, savivaldybės administracijos direktoriui ir reikiamai ministerijai pagal ministrui pavestą valdymo sritį duomenis, reikalingus krizių valdymo ir civilinės saugos sistemos uždaviniams įgyvendinti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 6) Vyriausybės nustatyta tvarka informuoja apie įvykį, ekstremalųjį įvykį, ypatingą įvykį, ekstremaliąją situaciją;
 
@@ -497,7 +525,11 @@ c) atlieka kitas su krizių valdymo ir civilinės saugos sistemos uždavinių į
 
 3) gresiant ar susidarius ekstremaliajai situacijai, pagal kompetenciją organizuoti gyvybiškai svarbių valstybės funkcijų atlikimą;
 
-4) valstybės institucijos ar įstaigos vadovo arba savivaldybės administracijos direktoriaus pavedimu atlikti civilinės mobilizacijos institucijos mobilizacijos valdymo grupės funkcijas.
+4) valstybės institucijos ar įstaigos vadovo arba mero pavedimu atlikti civilinės mobilizacijos institucijos mobilizacijos valdymo grupės funkcijas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 2. Vyriausybė tvirtina valstybės institucijų ir įstaigų, kuriose privaloma sudaryti operacijų centrą, sąrašą. Vyriausybė nustato kriterijus, kuriuos atitinkančiuose ūkio subjektuose privaloma sudaryti ūkio subjekto operacijų centrą. Kiekvienoje savivaldybėje sudaromas savivaldybės operacijų centras.
 
@@ -505,7 +537,11 @@ c) atlieka kitas su krizių valdymo ir civilinės saugos sistemos uždavinių į
 
 1) valstybės institucijose ir įstaigose, kuriose privaloma sudaryti operacijų centrą, – šių institucijų ir įstaigų vadovai;
 
-2) savivaldybėse – savivaldybės operacijų centrą sudaro, jo nuostatus tvirtina savivaldybės administracijos direktorius, savivaldybės operacijų centro patalpų ir darbo vietų įrengimą organizuoja savivaldybės administracijos direktorius;
+2) savivaldybėse – savivaldybės operacijų centrą sudaro, jo nuostatus tvirtina meras, savivaldybės operacijų centro patalpų ir darbo vietų įrengimą organizuoja savivaldybės administracijos direktorius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 3) ūkio subjektuose, kuriuose privaloma sudaryti operacijų centrą, – šių subjektų vadovai ar jų įgalioti asmenys;
 
@@ -607,7 +643,11 @@ c) atlieka kitas su krizių valdymo ir civilinės saugos sistemos uždavinių į
 
 3) pasirengti ekstremaliosioms situacijoms, vadovaudamiesi valstybės ir savivaldybių institucijų ir įstaigų viešai skelbiamomis rekomendacijomis gyventojams;
 
-4) vykdyti gelbėjimo darbų vadovo, operacijų vadovo, Vyriausybės ir savivaldybės administracijos direktoriaus sprendimus, reikalingus įvykiui, ekstremaliajam įvykiui, krizei ir ekstremaliajai situacijai likviduoti, jų padariniams šalinti.
+4) vykdyti gelbėjimo darbų vadovo, operacijų vadovo, Vyriausybės, mero ir savivaldybės administracijos direktoriaus sprendimus, reikalingus įvykiui, ekstremaliajam įvykiui, krizei ir ekstremaliajai situacijai likviduoti, jų padariniams šalinti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 3. Gyventojai gali turėti ir kitų šiame įstatyme ir kituose teisės aktuose nustatytų teisių ir pareigų krizių valdymo ir civilinės saugos srityje.
 
@@ -619,15 +659,27 @@ KRIZIŲ IR EKSTREMALIŲJŲ SITUACIJŲ PREVENCIJA, PASIRENGIMAS KRIZĖMS IR EKSTR
 
 1. Ministerijos ir kitos valstybės institucijos ir įstaigos vykdo krizių ir ekstremaliųjų situacijų prevenciją jų kompetencijai priskirtose veiklos srityse.
 
-2. Savivaldybės administracijos direktorius vykdo ekstremaliųjų situacijų prevenciją savivaldybės teritorijoje, leidžia įsakymus ekstremaliųjų situacijų prevencijos savivaldybėje klausimais.
+2. Meras vykdo ekstremaliųjų situacijų prevenciją savivaldybės teritorijoje, leidžia potvarkius ekstremaliųjų situacijų prevencijos savivaldybėje klausimais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 3. Kitos įstaigos, ūkio subjektai ir veiklos vykdytojai vykdo ekstremaliųjų situacijų prevenciją savo veiklos srityse.
 
-4. Vyriausybė skiria valstybines krizių ir ekstremaliųjų situacijų prevencijos užduotis ministerijoms ir kitoms valstybės institucijoms ir įstaigoms, o savivaldybių administracijų direktoriams – valstybines ekstremaliųjų situacijų prevencijos užduotis. Šios užduotys yra sudedamoji krizių ir ekstremaliųjų situacijų prevencijos dalis.
+4. Vyriausybė skiria valstybines krizių ir ekstremaliųjų situacijų prevencijos užduotis ministerijoms ir kitoms valstybės institucijoms ir įstaigoms, o merams – valstybines ekstremaliųjų situacijų prevencijos užduotis. Šios užduotys yra sudedamoji krizių ir ekstremaliųjų situacijų prevencijos dalis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 5. Krizių ir ekstremaliųjų situacijų prevencija vykdoma Vyriausybės nustatyta tvarka.
 
-6. Ministerijų ir kitų valstybės institucijų ir įstaigų vykdomą krizių ir ekstremaliųjų situacijų prevenciją koordinuoja Nacionalinis krizių valdymo centras. Savivaldybių administracijų direktorių, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų vykdomą ekstremaliųjų situacijų prevenciją koordinuoja ministrai jiems pavestose valdymo srityse.
+6. Ministerijų ir kitų valstybės institucijų ir įstaigų vykdomą krizių ir ekstremaliųjų situacijų prevenciją koordinuoja Nacionalinis krizių valdymo centras. Merų, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų vykdomą ekstremaliųjų situacijų prevenciją koordinuoja ministrai jiems pavestose valdymo srityse.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 21 straipsnis. Pasirengimo krizėms ir ekstremaliosioms situacijoms bendrosios nuostatos
 
@@ -679,7 +731,11 @@ KRIZIŲ IR EKSTREMALIŲJŲ SITUACIJŲ PREVENCIJA, PASIRENGIMAS KRIZĖMS IR EKSTR
 
 3. Ministerijų parengties pareigūnai kartu yra ir Jungtinės grėsmių prevencijos ir krizių valdymo grupės nariai. Prireikus ministro sprendimu kitos ministro valdymo srities valstybės institucijos ir įstaigos taip pat skiria parengties pareigūną – valstybės tarnautoją ar darbuotoją. Šis parengties pareigūnas organizuoja valstybės institucijos ar įstaigos veiklą krizių valdymo ir civilinės saugos srityje, koordinuoja valstybės institucijos ar įstaigos pasirengimą krizėms ir ekstremaliosioms situacijoms, atlieka kitas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas valstybės institucijos ar įstaigos veiklos srityse.
 
-4. Valstybės ir savivaldybių institucijų ir įstaigų, išskyrus žvalgybos institucijas, ir veiklos vykdytojų pasirengimą krizėms ir ekstremaliosioms situacijoms Vyriausybės nustatyta tvarka vertina Priešgaisrinės apsaugos ir gelbėjimo departamentas, o savivaldybės teritorijoje esančių kitų įstaigų ir ūkio subjektų pasirengimą ekstremaliosioms situacijoms Vyriausybės nustatyta tvarka vertina savivaldybės administracijos direktorius.
+4. Valstybės ir savivaldybių institucijų ir įstaigų, išskyrus žvalgybos institucijas, ir veiklos vykdytojų pasirengimą krizėms ir ekstremaliosioms situacijoms Vyriausybės nustatyta tvarka vertina Priešgaisrinės apsaugos ir gelbėjimo departamentas, o savivaldybės teritorijoje esančių kitų įstaigų ir ūkio subjektų pasirengimą ekstremaliosioms situacijoms Vyriausybės nustatyta tvarka vertina meras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 23 straipsnis. Krizių ir ekstremaliųjų situacijų valdymo planų rengimas
 
@@ -703,7 +759,11 @@ KRIZIŲ IR EKSTREMALIŲJŲ SITUACIJŲ PREVENCIJA, PASIRENGIMAS KRIZĖMS IR EKSTR
 
 5. Vyriausybė nustato kriterijus, kuriuos atitinkančių kitų įstaigų ir ūkio subjektų vadovai privalo organizuoti ekstremaliųjų situacijų valdymo plano rengimą.
 
-6. Savivaldybės administracijos direktorius tvirtina savivaldybės ekstremaliųjų situacijų valdymo planą. Rengiant šį planą, privalo dalyvauti šio įstatymo 14 straipsnio 2 dalyje nurodytos kitos įstaigos ir ūkio subjektai, taip pat veiklos vykdytojai.
+6. Savivaldybės administracijos direktorius organizuoja savivaldybės ekstremaliųjų situacijų valdymo plano rengimą ir teikia šį planą tvirtinti merui. Rengiant šį planą, privalo dalyvauti šio įstatymo 14 straipsnio 2 dalyje nurodytos kitos įstaigos ir ūkio subjektai, taip pat veiklos vykdytojai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 7. Asmens sveikatos priežiūros įstaigos ar visuomenės sveikatos priežiūros įstaigos vadovas sveikatos apsaugos ministro nustatyta tvarka organizuoja asmens sveikatos priežiūros įstaigos ar visuomenės sveikatos priežiūros įstaigos ekstremaliųjų situacijų valdymo plano rengimą ir tvirtina šį planą.
 
@@ -767,7 +827,11 @@ KRIZIŲ IR EKSTREMALIŲJŲ SITUACIJŲ PREVENCIJA, PASIRENGIMAS KRIZĖMS IR EKSTR
 
 5. Valstybės ir savivaldybių institucijos ir įstaigos, kitos įstaigos, ūkio subjektai ir veiklos vykdytojai savivaldybės administracijos direktoriui teikia duomenis apie savo valdomus ir savivaldybėje esančius kolektyvinės apsaugos statinius ir priedangas, taip pat informaciją apie statinius ir patalpas, kurie Vyriausybės nustatyta tvarka gali būti parenkami kolektyvinės apsaugos statiniams ir priedangoms įrengti, ir sudaro galimybes neatlygintinai jomis naudotis.
 
-6. Savivaldybės administracijos direktorius Vyriausybės nustatyta tvarka nustato kolektyvinės apsaugos statinių ir priedangų poreikį, organizuoja jų parinkimą, pažymėjimą ir parengimą.
+6. Meras Vyriausybės nustatyta tvarka nustato kolektyvinės apsaugos statinių ir priedangų poreikį, organizuoja jų parinkimą, pažymėjimą ir parengimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 7. Vyriausybė tvirtina slėptuvių, kolektyvinės apsaugos statinių ir priedangų poreikio nustatymo, parinkimo, žymėjimo, jų parengties organizavimo ir naudojimo tvarkos aprašą.
 
@@ -823,17 +887,29 @@ KRIZIŲ IR EKSTREMALIŲJŲ SITUACIJŲ PREVENCIJA, PASIRENGIMAS KRIZĖMS IR EKSTR
 
 2) valstybės lygio – ekstremalioji situacija Lietuvos teritoriniuose vandenyse Baltijos jūroje arba ekstremalioji situacija, kai ekstremaliojo įvykio padariniai atitinka Vyriausybės nustatytus ekstremaliojo įvykio kriterijus dviejose ar daugiau savivaldybių teritorijų, arba kai paskelbta savivaldybės lygio ekstremalioji situacija trunka ilgiau kaip vienus metus, arba kai jos padariniams šalinti reikalingi materialiniai ištekliai teikiami iš kitų savivaldybių ar pasitelkiamos kitose savivaldybėse esančios civilinės saugos pajėgos.
 
-4. Atsižvelgiant į šio straipsnio 3 dalyje nustatytas sąlygas, Vyriausybės nustatyta tvarka skelbiama savivaldybės lygio ekstremalioji situacija arba valstybės lygio ekstremalioji situacija. Savivaldybės lygio ekstremaliąją situaciją skelbia savivaldybės administracijos direktorius visoje savivaldybės teritorijoje arba jos dalyje. Valstybės lygio ekstremaliąją situaciją skelbia Vyriausybė visoje valstybės teritorijoje arba jos dalyje.
+4. Atsižvelgiant į šio straipsnio 3 dalyje nustatytas sąlygas, Vyriausybės nustatyta tvarka skelbiama savivaldybės lygio ekstremalioji situacija arba valstybės lygio ekstremalioji situacija. Savivaldybės lygio ekstremaliąją situaciją skelbia meras visoje savivaldybės teritorijoje arba jos dalyje. Valstybės lygio ekstremaliąją situaciją skelbia Vyriausybė visoje valstybės teritorijoje arba jos dalyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 5. Ekstremaliosios situacijos galiojimo trukmė siejama su ekstremaliosios situacijos grėsmės išnykimu ir jos padarinių pašalinimu. Ekstremaliąją situaciją paskelbęs subjektas privalo reguliariai Vyriausybės nustatyta tvarka vertinti ekstremaliosios situacijos galiojimo poreikį ir, likvidavus ekstremaliąją situaciją ir pašalinus jos padarinius, inicijuoti ekstremaliosios situacijos atšaukimą.
 
 6. Paskelbus valstybės lygio ekstremaliąją situaciją, laikoma, kad tuo pačiu pagrindu paskelbta savivaldybės lygio ekstremalioji situacija yra atšaukta.
 
-7. Gavęs savivaldybės, kurios visoje teritorijoje ar jos dalyje paskelbta savivaldybės lygio ekstremalioji situacija, savivaldybės administracijos direktoriaus motyvuotą prašymą skelbti valstybės lygio ekstremaliąją situaciją, atsižvelgdamas į paskelbtos savivaldybės lygio ekstremaliosios situacijos pobūdį ir (ar) mastą, Nacionalinis krizių valdymo centras, bendradarbiaudamas su ministerija ir (ar) kita institucija ir įstaiga, kurios veiklos sričiai priskirtina paskelbta savivaldybės lygio ekstremalioji situacija, nedelsdamas, bet ne vėliau kaip kitą dieną po savivaldybės administracijos direktoriaus motyvuoto prašymo gavimo dienos teikia pasiūlymą Vyriausybei skelbti valstybės lygio ekstremaliąją situaciją. Kai Nacionalinis krizių valdymo centras nusprendžia, kad savivaldybės administracijos direktoriaus prašymas skelbti valstybės lygio ekstremaliąją situaciją yra nepagrįstas, apie šį sprendimą jis nedelsdamas informuoja savivaldybės administracijos direktorių ir pateikia pasiūlymus dėl savivaldybės lygio ekstremaliosios situacijos valdymo organizavimo.
+7. Gavęs savivaldybės, kurios visoje teritorijoje ar jos dalyje paskelbta savivaldybės lygio ekstremalioji situacija, mero motyvuotą prašymą skelbti valstybės lygio ekstremaliąją situaciją, atsižvelgdamas į paskelbtos savivaldybės lygio ekstremaliosios situacijos pobūdį ir (ar) mastą, Nacionalinis krizių valdymo centras, bendradarbiaudamas su ministerija ir (ar) kita institucija ir įstaiga, kurios veiklos sričiai priskirtina paskelbta savivaldybės lygio ekstremalioji situacija, nedelsdamas, bet ne vėliau kaip kitą dieną po mero motyvuoto prašymo gavimo dienos teikia pasiūlymą Vyriausybei skelbti valstybės lygio ekstremaliąją situaciją. Kai Nacionalinis krizių valdymo centras nusprendžia, kad mero prašymas skelbti valstybės lygio ekstremaliąją situaciją yra nepagrįstas, apie šį sprendimą jis nedelsdamas informuoja merą ir pateikia pasiūlymus dėl savivaldybės lygio ekstremaliosios situacijos valdymo organizavimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 33 straipsnis. Savivaldybės lygio ekstremaliosios situacijos valdymas
 
-1. Gresiant ar susidarius savivaldybės lygio ekstremaliajai situacijai, savivaldybės administracijos direktorius:
+1. Gresiant ar susidarius savivaldybės lygio ekstremaliajai situacijai, meras:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 1) nedelsdamas sušaukia savivaldybės operacijų centrą;
 
@@ -851,7 +927,11 @@ KRIZIŲ IR EKSTREMALIŲJŲ SITUACIJŲ PREVENCIJA, PASIRENGIMAS KRIZĖMS IR EKSTR
 
 2. Gresiant ar susidarius savivaldybės lygio ekstremaliajai situacijai, savivaldybės operacijų centras:
 
-1) vertina ekstremaliosios situacijos grėsmę ir prireikus siūlo savivaldybės administracijos direktoriui skelbti savivaldybės lygio ekstremaliąją situaciją;
+1) vertina ekstremaliosios situacijos grėsmę ir prireikus siūlo merui skelbti savivaldybės lygio ekstremaliąją situaciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 2) renka informaciją apie gresiančią savivaldybės lygio ekstremaliąją situaciją, rengia jos raidos prognozes ir planuoja priemones, siekdamas laiku reaguoti į galimas naujas grėsmes;
 
@@ -865,7 +945,11 @@ KRIZIŲ IR EKSTREMALIŲJŲ SITUACIJŲ PREVENCIJA, PASIRENGIMAS KRIZĖMS IR EKSTR
 
 1) savivaldybės operacijų vadovas tampa atsakingas už paieškos, gelbėjimo ir neatidėliotinus darbus, įvykių, ekstremaliųjų įvykių ir savivaldybės lygio ekstremaliosios situacijos valdymo ir jos padarinių šalinimo darbų organizavimą ir atlikimą;
 
-2) savivaldybės administracijos direktorius atlieka šio straipsnio 1 dalies 3–6 punktuose nustatytas funkcijas ir vykdo kitas savivaldybės ekstremaliųjų situacijų valdymo plane numatytas priemones;
+2) meras atlieka šio straipsnio 1 dalies 3–6 punktuose nustatytas funkcijas ir vykdo kitas savivaldybės ekstremaliųjų situacijų valdymo plane numatytas priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 3) savivaldybės operacijų centras atlieka šio straipsnio 2 dalies 2–4 punktuose nustatytas funkcijas ir vykdo kitas savivaldybės ekstremaliųjų situacijų valdymo plane numatytas priemones, taip pat koordinuoja jų vykdymą;
 
@@ -927,7 +1011,11 @@ d) vertina papildomų materialinių ir žmogiškųjų išteklių, reikalingų va
 
 7) savivaldybės operacijų centras organizuoja ir koordinuoja savivaldybės ekstremaliųjų situacijų valdymo plane, valstybiniuose krizių ir ekstremaliųjų situacijų valdymo planuose savivaldybei numatytų veiksmų ir priemonių įgyvendinimą, materialinių išteklių suteikimą, valstybės operacijų vadovo sprendimų vykdymą ir Nacionalinio krizių valdymo centro pasiūlymų ir šio centro vadovo pavedimų įgyvendinimą savivaldybės teritorijoje;
 
-8) savivaldybės administracijos direktorius nedelsdamas sušaukia savivaldybės operacijų centrą, organizuoja valstybės tarnautojų ir darbuotojų perspėjimą apie gresiančią ar susidariusią valstybės lygio ekstremaliąją situaciją, išplatina savivaldybės teritorijoje informaciją, kuri leistų imtis priemonių, siekiant išvengti galimos žalos arba ją sušvelninti, užtikrina Nacionalinio saugumo komisijos pasiūlymų, valstybės operacijų vadovo sprendimų ir Nacionalinio krizių valdymo centro vadovo pavedimų įgyvendinimą savivaldybės teritorijoje;
+8) meras nedelsdamas sušaukia savivaldybės operacijų centrą, organizuoja valstybės tarnautojų ir darbuotojų perspėjimą apie gresiančią ar susidariusią valstybės lygio ekstremaliąją situaciją, išplatina savivaldybės teritorijoje informaciją, kuri leistų imtis priemonių, siekiant išvengti galimos žalos arba ją sušvelninti, užtikrina Nacionalinio saugumo komisijos pasiūlymų, valstybės operacijų vadovo sprendimų ir Nacionalinio krizių valdymo centro vadovo pavedimų įgyvendinimą savivaldybės teritorijoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 9) kiti krizių valdymo ir civilinės saugos sistemos subjektai vykdo savo ekstremaliųjų situacijų valdymo plane, krizių ir ekstremaliųjų situacijų valdymo plane ar valstybiniuose krizių ir ekstremaliųjų situacijų valdymo planuose pagal jų kompetenciją numatytas priemones ir veiksmus, užtikrina valstybės operacijų vadovo sprendimų ir Nacionalinio krizių valdymo centro vadovo pavedimų įgyvendinimą, organizuoja Nacionalinio krizių valdymo centro pasiūlymų įgyvendinimą.
 
@@ -957,7 +1045,11 @@ d) vertina papildomų materialinių ir žmogiškųjų išteklių, reikalingų va
 
 6. Operacijų vadovo sprendimai, skirti neatidėliotiniems darbams organizuoti, ekstremaliajai situacijai likviduoti ir jos padariniams pašalinti, taip pat šio straipsnio 5 dalyje nurodyti sprendimai įforminami specialiame blanke elektroniniu būdu ir įsigalioja nuo jų pasirašymo momento. Šių sprendimų formą ir skelbimo tvarką nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius. Jeigu dėl ypatingų aplinkybių šioje dalyje nurodyti operacijų vadovo sprendimai negali būti įforminami specialiame blanke elektroniniu būdu jų priėmimo dieną, jie šioje dalyje nustatyta forma ir tvarka gali būti įforminami ir paskelbiami kitą dieną. Dėl ekstremaliosios situacijos pavojaus gyventojų gyvybei, sveikatai, turtui ar aplinkai gelbėjimo darbų vadovo priimti šio straipsnio 5 dalyje nurodyti sprendimai ne vėliau kaip kitą dieną privalo būti įforminti ir paskelbti Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka.
 
-7. Savivaldybės operacijų vadovo arba valstybės operacijų vadovo sprendimų, nurodytų šio straipsnio 5 dalyje, įgyvendinimą koordinuoja ir kontroliuoja atitinkamai savivaldybės administracijos direktorius ar Nacionalinis krizių valdymo centras arba jų siūlymu atitinkamas operacijų centras.
+7. Savivaldybės operacijų vadovo arba valstybės operacijų vadovo sprendimų, nurodytų šio straipsnio 5 dalyje, įgyvendinimą koordinuoja ir kontroliuoja atitinkamai meras ar Nacionalinis krizių valdymo centras arba jų siūlymu atitinkamas operacijų centras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 8. Priešgaisrinės gelbėjimo pajėgos pagal kompetenciją vykdo paieškos, gelbėjimo ir neatidėliotinus darbus, likviduoja įvykius, ekstremaliuosius įvykius ir ekstremaliąsias situacijas, šalina jų padarinius, vykdo kitas pagal kompetenciją gelbėjimo darbų ar operacijų vadovo paskirtas užduotis atliekant paieškos, gelbėjimo ir neatidėliotinus darbus, likviduojant įvykius, ekstremaliuosius įvykius ir ekstremaliąsias situacijas ir šalinant jų padarinius.
 
@@ -987,11 +1079,15 @@ d) vertina papildomų materialinių ir žmogiškųjų išteklių, reikalingų va
 
 37 straipsnis. Gyventojų evakavimas
 
-1. Atsižvelgdami į ekstremaliosios situacijos sukeltą pavojų gyventojų gyvybei ar sveikatai, sprendimus dėl gyventojų evakavimo Vyriausybės nustatyta tvarka priima savivaldybės administracijos direktorius, valstybės ir savivaldybių institucijų ir įstaigų, ūkio subjektų ir veiklos vykdytojų vadovai, o ekstremaliosios situacijos židinyje sprendimą dėl skubaus gyventojų iškeldinimo iš ekstremaliosios situacijos židinio priima gelbėjimo darbų vadovas.
+1. Atsižvelgdami į ekstremaliosios situacijos sukeltą pavojų gyventojų gyvybei ar sveikatai, sprendimus dėl gyventojų evakavimo Vyriausybės nustatyta tvarka priima meras, valstybės ir savivaldybių institucijų ir įstaigų, ūkio subjektų ir veiklos vykdytojų vadovai, o ekstremaliosios situacijos židinyje sprendimą dėl skubaus gyventojų iškeldinimo iš ekstremaliosios situacijos židinio priima gelbėjimo darbų vadovas.
 
 2. Gyventojų evakavimą savivaldybėje organizuoja savivaldybės operacijų centras.
 
-3. Įvykus branduolinei ar radiologinei avarijai branduolinės energetikos objekte, esančiame Lietuvos Respublikoje ar kaimyninėje valstybėje, kai jo avarinės parengties zonos ir (ar) avarinio planavimo atstumai patenka į Lietuvos Respublikos teritoriją, Lietuvos Respublikos gyventojai evakuojami pagal Vyriausybės patvirtintą valstybinį gyventojų apsaugos planą branduolinės ar radiologinės avarijos atveju. Pagal šį planą jame nurodytų savivaldybių administracijų direktoriai tvirtina detaliuosius gyventojų evakavimo planus, derina evakuojamų gyventojų apgyvendinimo klausimus su savivaldybių, į kurias evakuojami gyventojai, administracijų direktoriais, organizuojančiais evakuotų gyventojų apgyvendinimą.
+3. Įvykus branduolinei ar radiologinei avarijai branduolinės energetikos objekte, esančiame Lietuvos Respublikoje ar kaimyninėje valstybėje, kai jo avarinės parengties zonos ir (ar) avarinio planavimo atstumai patenka į Lietuvos Respublikos teritoriją, Lietuvos Respublikos gyventojai evakuojami pagal Vyriausybės patvirtintą valstybinį gyventojų apsaugos planą branduolinės ar radiologinės avarijos atveju. Pagal šį planą jame nurodytų savivaldybių merai tvirtina savivaldybių administracijų direktorių parengtus detaliuosius gyventojų evakavimo planus, derina evakuojamų gyventojų apgyvendinimo klausimus su savivaldybių, į kurias evakuojami gyventojai, administracijų direktoriais, organizuojančiais evakuotų gyventojų apgyvendinimą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 39 straipsnis. Būtinų užduočių atlikimas
 
@@ -1075,7 +1171,11 @@ KRIZĖS VALDYMAS
 
 4. Veiklos vykdytojai, kurių valdomų pavojingųjų objektų pavojaus zonoje gyvena 100 ar daugiau gyventojų, ūkio subjektai, kurių valdomų hidrotechnikos statinių užtvindymo zonoje gyvena 100 ar daugiau gyventojų, taip pat valstybės įmonė Ignalinos atominė elektrinė privalo savo lėšomis įrengti ir prižiūrėti Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatytas perspėjimo sistemos technines perspėjimo priemones. Šių priemonių naudojimas turi užtikrinti galimybę perspėti darbuotojus, taip pat gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas, ūkio subjektus ir veiklos vykdytojus, patenkančius į galimos taršos, pavojaus ar užtvindymo zoną, apie tame ūkio subjekte įvykusią didelę pramoninę, branduolinę, radiologinę avariją, branduolinį incidentą ar avariją hidrotechnikos statinyje, priklausančiame tam ūkio subjektui.
 
-5. Valstybės ir savivaldybių institucijos ir įstaigos, išskyrus žvalgybos institucijas, kitos įstaigos, ūkio subjektai ir veiklos vykdytojai sau priklausančia perspėjimo sistemos infrastruktūra, reikalinga perspėjimo sistemos techninėms perspėjimo priemonėms, privalo leisti neatlygintinai naudotis perspėjimą atliekantiems subjektams – Priešgaisrinės apsaugos ir gelbėjimo departamentui ir savivaldybių administracijų direktoriams.
+5. Valstybės ir savivaldybių institucijos ir įstaigos, išskyrus žvalgybos institucijas, kitos įstaigos, ūkio subjektai ir veiklos vykdytojai sau priklausančia perspėjimo sistemos infrastruktūra, reikalinga perspėjimo sistemos techninėms perspėjimo priemonėms, privalo leisti neatlygintinai naudotis perspėjimą atliekantiems subjektams – Priešgaisrinės apsaugos ir gelbėjimo departamentui ir merams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 31 straipsnis. Pavedimas dirbti viršvalandinį darbą, dirbti poilsio ir švenčių dienomis, atšaukimas iš kasmetinių ar kitų atostogų
 
@@ -1225,7 +1325,11 @@ Gyventojų apsaugai organizuoti, paieškos, gelbėjimo ir neatidėliotiniems dar
 
 2) naudojamas valstybės rezervas Valstybės rezervo įstatymo nustatytais atvejais ir tvarka;
 
-3) naudojamas Vyriausybės rezervas ir savivaldybės administracijos direktoriaus rezervas Biudžeto sandaros įstatymo nustatytais atvejais ir tvarka;
+3) naudojamas Vyriausybės rezervas ir mero rezervas Biudžeto sandaros įstatymo nustatytais atvejais ir tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 4) pasitelkiami šio įstatymo 38 straipsnyje nurodyti materialiniai ištekliai.
 
@@ -1296,8 +1400,6 @@ priedas
 2. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/18/ES dėl didelių, su pavojingomis cheminėmis medžiagomis susijusių avarijų pavojaus kontrolės, iš dalies keičianti ir vėliau panaikinanti Tarybos direktyvą 96/82/EB.
 
 –––––––––––––––––––––
-
-part_6725544aa2e042569451d73f438ae33e_end
 
 Pakeitimai:
 
