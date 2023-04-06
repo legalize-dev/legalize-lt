@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2023-01-01"
+last_updated: "2023-04-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-04-05
+Suvestinė redakcija nuo 2023-04-06 iki 2023-05-04
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -3135,7 +3135,7 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 
 3. Šiame straipsnyje nurodytos teismo nutartys yra galutinės ir neskundžiamos.
 
-part_f3fb3ba3f7d74564ac3075d0dfc1a162_end
+part_514485fde2a2483b8283d6f5c9031efc_end
 
 Lietuvos Respublikos
 
