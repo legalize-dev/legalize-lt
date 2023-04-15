@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2023-01-01"
+last_updated: "2023-04-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-04-14
+Suvestinė redakcija nuo 2023-04-15 iki 2023-05-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -5418,7 +5418,7 @@ Straipsnio pakeitimai:
 
 Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
 
-part_543dedcf8e014f12b29f67a4c4ca9a84_end
+part_f73f57e92f5946e3bbcbf049495b8f90_end
 
 Lietuvos Respublikos
 
@@ -6526,6 +6526,14 @@ Nr. XIV-1749, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27570
 
 Lietuvos Respublikos baudžiamojo kodekso XXII skyriaus pavadinimo ir 154 straipsnio pakeitimo įstatymas
 
+54.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1866, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06473
+
+Lietuvos Respublikos baudžiamojo kodekso 123-1 straipsnio pakeitimo įstatymas
+
 2771 straipsnis. Sąvokų išaiškinimas
 
 Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
@@ -6700,9 +6708,9 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 Pastaba. Baudžiamojo kodekso 682 straipsnyje numatyta baudžiamojo poveikio priemonė – teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas – skiriama asmenims, kurie baudžiamajame įstatyme uždraustą veiką padarė po įstatymo (Nr. XI-1472) įsigaliojimo.
 
-1231 straipsnis. Tarptautinių sankcijų pažeidimas
+1231 straipsnis. Tarptautinių sankcijų arba Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimas
 
-1. Tas, kas pažeidė Lietuvos Respublikoje įgyvendinamas tarptautines sankcijas ir dėl to padarė didelės žalos Lietuvos Respublikos interesams,
+1. Tas, kas pažeidė Lietuvos Respublikoje įgyvendinamas tarptautines sankcijas arba Lietuvos Respublikos įstatymuose nustatytas ribojamąsias priemones ir dėl to padarė didelės žalos Lietuvos Respublikos interesams,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
@@ -6715,6 +6723,10 @@ Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
 Straipsnio pakeitimai:
 
 Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1866, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06473
 
 3081 straipsnis. Draudžiami biomedicininiai tyrimai su žmogumi ar žmogaus embrionu
 
