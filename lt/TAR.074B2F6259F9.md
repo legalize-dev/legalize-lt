@@ -4,7 +4,7 @@ identifier: "TAR.074B2F6259F9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-04-03"
-last_updated: "2020-07-30"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.074B2F6259F9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-30 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2024-10-10
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 47-1747, i. k. 1081010ISTA00X-1478
 
@@ -36,11 +36,13 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas nustato Europos Sąjungos valstybių narių piliečių, Europos ekonominės erdvės valstybių piliečių, Šveicarijos Konfederacijos piliečių (toliau – valstybių narių piliečiai), trečiųjų valstybių piliečių profesinės kvalifikacijos, įgytos Europos Sąjungos, Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje bei trečiosiose valstybėse, ir trečiųjų valstybių piliečių, turinčių kitose valstybėse narėse išduotą leidimą, suteikiantį jo turėtojui teisę apsigyventi ir dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą valstybės narės teritorijoje, ir ketinančių dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą pagal reglamentuojamą profesiją, profesinės kvalifikacijos pripažinimo principus ir procedūras, administracinį bendradarbiavimą, taisykles dėl teisės iš dalies užsiimti reglamentuojama profesija ir kitoje valstybėje narėje arba trečiojoje valstybėje atliktos profesinės praktikos pripažinimo, suteikia garantijas asmenims, įgijusiems profesinę kvalifikaciją kitoje valstybėje narėje ar trečiojoje valstybėje, dirbti pagal tą pačią reglamentuojamą profesiją arba verstis laisvąja profesija (toliau – dirbti pagal reglamentuojamą profesiją) Lietuvos Respublikoje tokiomis pačiomis teisėmis kaip ir Lietuvos Respublikos piliečiams.
+1. Šis įstatymas nustato Europos Sąjungos valstybių narių piliečių, Europos ekonominės erdvės valstybių piliečių, Šveicarijos Konfederacijos piliečių (toliau – valstybių narių piliečiai), trečiųjų valstybių piliečių profesinės kvalifikacijos, įgytos Europos Sąjungos, Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje bei trečiosiose valstybėse, pripažinimo principus ir procedūras, administracinį bendradarbiavimą, taisykles dėl teisės iš dalies užsiimti reglamentuojama profesija ir kitoje valstybėje narėje arba trečiojoje valstybėje atliktos profesinės praktikos pripažinimo, suteikia garantijas asmenims, įgijusiems profesinę kvalifikaciją kitoje valstybėje narėje ar trečiojoje valstybėje, dirbti pagal tą pačią reglamentuojamą profesiją arba verstis laisvąja profesija (toliau – dirbti pagal reglamentuojamą profesiją) Lietuvos Respublikoje tokiomis pačiomis teisėmis kaip ir Lietuvos Respublikos piliečiams.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
 2. Šis įstatymas nustato pagrindinio rengimo medicinos gydytojų ir gydytojų specialistų (toliau – medicinos gydytojai), bendrosios praktikos slaugytojų, gydytojų odontologų, veterinarijos gydytojų, vaistininkų, akušerių ir architektų būtiniausius rengimo reikalavimus Lietuvos Respublikoje.
 
@@ -58,13 +60,25 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
 2. Šis įstatymas taikomas visiems valstybių narių piliečiams, siekiantiems dirbti pagal reglamentuojamą profesiją Lietuvos Respublikoje.
 
-3. Šio įstatymo nuostatos dėl trečiųjų valstybių piliečių teisės dirbti Lietuvos Respublikoje ir dėl trečiųjų valstybių piliečių profesinės kvalifikacijos, įgytos Europos Sąjungos, Europos ekonominės erdvės valstybėse, Šveicarijos Konfederacijoje bei trečiosiose valstybėse, pripažinimo ir trečiųjų valstybių piliečių, turinčių kitose valstybėse narėse išduotą leidimą, suteikiantį jo turėtojui teisę apsigyventi ir dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą valstybės narės teritorijoje, ir ketinančių dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos darbą pagal reglamentuojamą profesiją, pripažinimo taikomos tiek, kiek jų nereguliuoja kiti Lietuvos Respublikos įstatymai.
+3. Šio įstatymo nuostatos dėl trečiųjų valstybių piliečių teisės dirbti Lietuvos Respublikoje ir dėl trečiųjų valstybių piliečių profesinės kvalifikacijos, įgytos Europos Sąjungos, Europos ekonominės erdvės valstybėse, Šveicarijos Konfederacijoje bei trečiosiose valstybėse, pripažinimo taikomos tiek, kiek jų nereguliuoja kiti Lietuvos Respublikos įstatymai.
 
-4. Šio įstatymo nuostatos, išskyrus šio įstatymo 61 straipsnio nuostatas, taikomos trečiųjų valstybių piliečiams, turintiems kitose valstybėse narėse išduotą leidimą, suteikiantį jo turėtojui teisę apsigyventi ir dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą valstybės narės teritorijoje, ir ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą pagal reglamentuojamą profesiją.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
+
+4. Neteko galios nuo 2023-05-01
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
 5. Šio įstatymo 61 straipsnio nuostatos taikomos valstybių narių piliečiams ir trečiųjų valstybių piliečiams, įgijusiems profesinę kvalifikaciją trečiosiose valstybėse ir siekiantiems dirbti Lietuvos Respublikoje pagal reglamentuojamą profesiją.
 
-6. Šio įstatymo nuostatos, išskyrus šio įstatymo 61 straipsnio nuostatas, taikomos trečiųjų valstybių piliečiams, kurie yra valstybės narės piliečio šeimos nariai.
+6. Neteko galios nuo 2023-05-01
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
 7. Šio įstatymo nuostatos, išskyrus šio įstatymo 61 straipsnio nuostatas, taikomos trečiųjų valstybių piliečiams, įgijusiems profesinę kvalifikaciją valstybėje narėje.
 
@@ -194,11 +208,15 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
 9. Tuo atveju, kai profesinę kvalifikaciją turintis asmuo ketina įsisteigti ar laikinai ir kartais teikti paslaugas kitoje valstybėje narėje ir kai minėta profesija Lietuvos Respublikoje nėra reglamentuojama, IMI bylą tvarko Lietuvos Respublikos pagalbos centras.
 
-10. Lietuvos Respublikos kompetentingos institucijos išduoda Europos profesinę kortelę profesinę kvalifikaciją turintiems asmenims, nurodytiems šio įstatymo 2 straipsnio 4, 6 ir 7 dalyse (jų prašymu).
+10. Lietuvos Respublikos kompetentingos institucijos išduoda Europos profesinę kortelę profesinę kvalifikaciją turintiems asmenims, nurodytiems šio įstatymo 2 straipsnio 7 dalyje (jų prašymu).
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
 6 straipsnis. Teisė iš dalies užsiimti profesine veikla
 
@@ -1300,11 +1318,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
-6. Lietuvos Respublikos Vyriausybė paskiria kompetentingas institucijas. Lietuvos Respublikos kompetentingos institucijos gali būti paskirtos įstatymu. Įstatymų nustatytais atvejais kompetentingomis institucijomis gali būti skiriamos reglamentuojamų profesijų savivaldą įgyvendinančios asociacijos.
+6. Lietuvos Respublikos kompetentingos institucijos, atsakingos už atitinkamų reglamentuojamų profesinių kvalifikacijų pripažinimą, yra Lietuvos Respublikos ministerijos pagal ministrams pavestą valdymo sritį ar jų įgaliotos institucijos, išskyrus atvejus, kai kiti subjektai Lietuvos Respublikos kompetentingomis institucijomis yra paskirti įstatymu ar Lietuvos Respublikos Vyriausybės nutarimu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
 7. Vadovaudamosi šio įstatymo 59 straipsnio 4 dalies 3 punktu, kompetentingos institucijos nuostatas ir jų proporcingumo vertinimą įtraukia į Europos Komisijos reglamentuojamų profesijų duomenų bazę ir praneša apie tai Europos Komisijai.
 
@@ -1322,13 +1342,21 @@ Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
 2) renka informaciją, kuri reikalinga šio įstatymo nuostatoms įgyvendinti;
 
-3) praneša kitoms valstybėms narėms ir Europos Komisijai apie Lietuvos Respublikos kompetentingas institucijas ir reglamentuojamų profesijų savivaldą įgyvendinančias asociacijas, nurodytas šio įstatymo 58 straipsnio 6 dalyje;
+3) praneša kitoms valstybėms narėms ir Europos Komisijai apie Lietuvos Respublikos kompetentingas institucijas, nurodytas šio įstatymo 58 straipsnio 6 dalyje;
 
-31) stebi, kaip priimtos nuostatos taikomos praktikoje, ir, kilus abejonių dėl jų atitikties proporcingumo principui, kaip jis apibrėžtas Lietuvos Respublikos teisėkūros pagrindų įstatyme, atsižvelgdamas į pokyčius, įvykusius po atitinkamų nuostatų priėmimo, atsakingai institucijai teikia pasiūlymus dėl nuostatų peržiūros, kad būtų pakartotinai įvertinta jų atitiktis proporcingumo principui;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
+
+31) teikia pasiūlymus Lietuvos Respublikos kompetentingai institucijai dėl nuostatų atitikties proporcingumo principui, kaip jis apibrėžtas Lietuvos Respublikos teisėkūros pagrindų įstatyme, peržiūros;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
 4) dalyvauja Europos Komisijos Profesinių kvalifikacijų pripažinimo komiteto veikloje;
 
@@ -1340,7 +1368,11 @@ Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
 8) teikia prašymus Europos Komisijos Profesinių kvalifikacijų pripažinimo komitetui dėl atsiradusių sunkumų konkrečioje srityje taikant šio įstatymo nuostatas;
 
-9) sudaro reglamentuojamų profesijų sąrašą; jį tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija;
+9) identifikuoja Lietuvos Respublikoje profesijas, kurios atitinka reglamentuojamos profesijos sąvoką, kaip ji apibrėžta šio įstatymo 3 straipsnio 22 dalyje, ir jų sąrašą (toliau – Lietuvos Respublikoje reglamentuojamų profesijų sąrašas) teikia Lietuvos Respublikos kontaktiniam centrui (toliau – Kontaktinis centras);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
 10) informuoja Europos Komisiją apie Lietuvos Respublikoje reglamentuojamų profesijų, reglamentuojamo rengimo ir šio įstatymo 13 straipsnio 4 dalies 2 punkte nurodyto specialios struktūros rengimo sąrašų pakeitimus;
 
@@ -1356,7 +1388,11 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
-3. Profesinių kvalifikacijų pripažinimo koordinatorius turi teisę gauti informaciją iš Lietuvos Respublikos kompetentingų institucijų ar reglamentuojamų profesijų savivaldą įgyvendinančių asociacijų, nurodytų šio įstatymo 58 straipsnio 6 dalyje, ir 62 straipsnyje nurodyto Lietuvos Respublikos pagalbos centro šio straipsnio 2 dalyje numatytoms pareigoms atlikti.
+3. Profesinių kvalifikacijų pripažinimo koordinatorius turi teisę gauti informaciją iš Lietuvos Respublikos kompetentingų institucijų ir šio įstatymo 62 straipsnyje nurodyto Lietuvos Respublikos pagalbos centro šio straipsnio 2 dalyje numatytoms pareigoms atlikti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
 4. Profesinių kvalifikacijų pripažinimo koordinatorius kartu su Lietuvos Respublikos kompetentingomis institucijomis:
 
@@ -1518,7 +1554,11 @@ KVALIFIKACIJOS PRIPAŽINIMAS, KAI SIEKIAMA TEIKTI PASLAUGAS LAIKINAI IR KARTAIS
 
 63 straipsnis. Lietuvos Respublikos kontaktinis centras
 
-1. Lietuvos Respublikos kontaktinis centras (toliau – Kontaktinis centras), įsteigtas vadovaujantis Lietuvos Respublikos paslaugų įstatymo nuostatomis, užtikrina, kad jo portale būtų prieinama ir reguliariai atnaujinama ši informacija:
+1. Kontaktinis centras, įsteigtas vadovaujantis Lietuvos Respublikos paslaugų įstatymo nuostatomis, užtikrina, kad jo portale būtų prieinama ir reguliariai atnaujinama ši informacija:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
 1) Lietuvos Respublikoje reglamentuojamų profesijų sąrašas, taip pat už kiekvieną reglamentuojamą profesiją atsakingos kompetentingos institucijos ir visų valstybių narių pagalbos centrų kontaktiniai duomenys;
 
@@ -1770,8 +1810,6 @@ Priedo pakeitimai:
 
 Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 
-part_0e08ace611254ce680fafea6eab66c95_end
-
 Lietuvos Respublikos
 
 reglamentuojamų profesinių
@@ -1929,4 +1967,12 @@ asmeninės paslaugos
 854 skalbyklos ir skalbimo paslaugos, sausasis cheminis valymas ir dažymas ex 856 fotografijos studijos: portretinė ir komercinė fotografija, išskyrus nuotraukas leidybai ex 859 niekur kitur nepriskirtos asmeninės paslaugos (tik pastatų priežiūra ir valymas arba aprūpinimas laikina buveine)
 
 2
+
+591 straipsnis. Nuostatų atitikties proporcingumo principui stebėsena (monitoringas)
+
+Profesinių kvalifikacijų pripažinimo koordinatorius ir Lietuvos Respublikos kompetentingos institucijos, atsižvelgdamos į pokyčius, įvykusius po atitinkamų nuostatų priėmimo, ir į tai, kaip jos taikomos praktikoje, stebi šių nuostatų atitiktį proporcingumo principui, kaip jis apibrėžtas Teisėkūros pagrindų įstatyme. Nuostatų atitikties proporcingumo principui stebėsena atliekama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
