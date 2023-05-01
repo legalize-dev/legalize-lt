@@ -4,7 +4,7 @@ identifier: "TAR.58146A37675A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-09-21"
-last_updated: "2021-12-04"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2021-12-04 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
 
@@ -305,7 +305,11 @@ Papildyta straipsnio dalimi:
 
 Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
 
-8. Spaudos, radijo ir televizijos rėmimo fondas, atsižvelgdamas į Etninės kultūros globos tarybos rekomendacijas, remia viešosios informacijos rengėjų programas, skirtas etninei kultūrai populiarinti, etninės kultūros periodinius leidinius.
+8. Medijų rėmimo fondas, atsižvelgdamas į Etninės kultūros globos tarybos rekomendacijas, remia viešosios informacijos rengėjų ir (ar) skleidėjų projektus, skirtus etninei kultūrai populiarinti etninės kultūros periodiniuose leidiniuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1905, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08053
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -400,6 +404,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-715, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25142
 
 Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1905, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08053
+
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 10 straipsnio pakeitimo įstatymas
 
 12 straipsnis. Pasiūlymas Vyriausybei
 
