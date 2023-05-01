@@ -4,7 +4,7 @@ identifier: "TAR.38B0127A21E8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-12"
-last_updated: "2022-01-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 101-2300, i. k. 0961010ISTA00I-1513
 
@@ -112,7 +112,11 @@ Straipsnio dalies naikinimas:
 
 Nr. XII-1219, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14529
 
-19. Laivo hipoteka – esamo ar būsimo skolinio įsipareigojimo vykdymą užtikrinantis laivo įkeitimas, kai įkeistas laivas neperduodamas kreditoriui.
+19. Neteko galios nuo 2023-05-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
 
 20. Laivo išperkamosios nuomos sutartis - susitarimas, kuriuo laivo savininkas įsipareigoja tam tikram laikui už užmokestį duoti laivą be įgulos išperkamosios nuomos gavėjui ir perduoti laivą jo nuosavybėn pasibaigus nuomos terminui, o išperkamosios nuomos gavėjas įsipareigoja priimti laivą ir sumokėti už jį sutartą pinigų sumą, įskaitant ir tą, kurią jis sumokėjo už naudojimąsi laivu.
 
@@ -284,7 +288,11 @@ LAIVAS
 
 6 straipsnis. Bendrieji reikalavimai
 
-1. Kiekvienas jūrų laivas, naudojamas laivybai, turi būti įregistruotas Lietuvos Respublikos jūrų laivų registre. Jūrų laivai prilyginami nekilnojamiesiems daiktams.
+1. Kiekvienas jūrų laivas, naudojamas laivybai, turi būti įregistruotas Lietuvos Respublikos jūrų laivų registre.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
 
 2. Laivas privalo turėti savo pavadinimą, kurį suteikia laivo savininkas susisiekimo ministro nustatyta tvarka.
 
@@ -392,31 +400,29 @@ TREČIASIS SKIRSNIS
 
 LAIVO ĮGULA
 
-11 straipsnis. Laivo įgulos sudėtis
+11 straipsnis. Laivo įgulos nacionalinės sudėties ir kalbos mokėjimo reikalavimai
 
-Laivo įgulą (įskaitant laivo kapitoną) turi sudaryti ne mažiau kaip pusė Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ar kitų Europos ekonominės erdvės valstybių ir Šveicarijos Konfederacijos (toliau – valstybė narė) piliečių ir kitų fizinių asmenų, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis. Laivo kapitono pareigas gali eiti tik valstybės narės piliečiai. Laivo, vežančio keleivius ir (ar) krovinius į (iš) Lietuvos Respublikos uostus (uostų), kapitonas ar bent vienas iš tokio laivo kapitono padėjėjų turi mokėti lietuvių kalbą.
+1. Laivo įgulą turi sudaryti ne mažiau kaip vienas ketvirtadalis Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ar kitų Europos ekonominės erdvės valstybių ir Šveicarijos Konfederacijos (toliau – valstybė narė) piliečių ir kitų fizinių asmenų, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis. Šis reikalavimas netaikomas, jeigu laive yra galiojanti nacionalinė, teritorinė, šakos (gamybos, paslaugų, profesinė), darbdavio lygmens ar darbovietės lygmens kolektyvinė sutartis.
 
-Straipsnio pakeitimai:
+2. Kai Lietuvos Respublikoje visoje ar dalyje teritorijos yra įvedama nepaprastoji padėtis, nepaprastosios padėties metu negali būti sudaromos darbo sutartys su jūrininkais, kurie yra valstybių, dėl kurių veiksmų Lietuvos Respublikoje įvesta nepaprastoji padėtis, piliečiai, išskyrus asmenis, kurie turi dokumentą, suteikiantį ar patvirtinantį teisę gyventi Lietuvos Respublikoje.
 
-Nr. VIII-1255, 99.06.22, Žin., 1999, Nr.60-1951 (99.07.09)
+3. Laivo kapitono pareigas gali eiti tik piliečiai valstybių, kurios yra bent vienos iš šių sąjungų, susitarimų ar organizacijų: Europos Sąjungos, Šiaurės Atlanto sutarties organizacijos, Europos ekonominės erdvės susitarimo, Ekonominio bendradarbiavimo ir plėtros organizacijos, narės.
 
-Nr. VIII-1899, 00.08.29, Žin., 2000, Nr.75-2266 (00.09.07)
-
-Nr. VIII-1963, 00.09.26, Žin., 2000, Nr.85-2584 (00.10.11)
-
-Nr. IX-1680, 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
-
-Nr. X-1628, 2008-06-19, Žin., 2008, Nr. 75-2922 (2008-07-03)
-
-Nr. XI-1352, 2011-04-21, Žin., 2011, Nr. 52-2526 (2011-05-03)
+4. Laivo, vežančio keleivius ir (ar) krovinius į (iš) Lietuvos Respublikos uostus (-ų), kapitonas ar bent vienas iš tokio laivo kapitono padėjėjų turi mokėti lietuvių ir (arba) anglų kalbas (-ą).
 
 Straipsnio pakeitimai:
 
 Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
+
 12 straipsnis. Laivo kapitonas
 
-1. Laivo kapitoną skiria ir darbo sutartį su juo sudaro laivo savininkas. Laivo nuomos be įgulos sutarties (bareboat charter) atveju laivo kapitoną skiria ir darbo sutartį su juo sudaro laivo nuomininkas.
+1. Laivo kapitoną skiria ir darbo sutartį su juo sudaro laivo valdytojas. Laivo nuomos be įgulos sutarties (angl. bareboat charter) atveju laivo kapitoną skiria ir darbo sutartį su juo sudaro laivo nuomininkas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
 
 2. Laivo kapitonas yra laivo valdytojo atstovas laive.
 
@@ -960,15 +966,23 @@ Nr. VIII-750, 98.05.19, Žin., 1998, Nr.53-1448 (98.06.10)
 
 KETURIOLIKTASIS SKIRSNIS
 
-LAIVO HIPOTEKA
+LAIVO ĮKEITIMAS (HIPOTEKA)
 
 Skirsnio pavadinimas keistas:
 
 Nr. IX-595, 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
 
+Pakeistas skirsnio pavadinimas:
+
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
+
 78 straipsnis. Laivo įkeitimo tvarka
 
-1. Laivai, įregistruoti Lietuvos Respublikos jūrų laivų registre, įkeičiami vadovaujantis Lietuvos Respublikos civilinio kodekso, Lietuvos Respublikos civilinio proceso kodekso ir šio Įstatymo nustatyta tvarka.
+1. Lietuvos Respublikos jūrų laivų registre registruoti laivai, prilyginti nekilnojamiesiems daiktams, ir šiame registre registruoti laivai, kurie yra kilnojamieji daiktai, įkeičiami vadovaujantis Lietuvos Respublikos civilinio kodekso, Lietuvos Respublikos civilinio proceso kodekso ir šio įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
 
 2. Jeigu šiame Įstatyme numatytos kitokios normos negu Lietuvos Respublikos civiliniame kodekse ar Lietuvos Respublikos civilinio proceso kodekse, taikomos šio Įstatymo nuostatos.
 
@@ -982,9 +996,17 @@ Nr. IX-595, 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
 
 Nr. XI-1847, 2011-12-22, Žin., 2012, Nr. 6-183 (2012-01-10)
 
-79 straipsnis. Laivo įkeitimas
+79 straipsnis. Laivo, prilyginto nekilnojamajam daiktui, hipoteka
 
-1. Laivas įkeičiamas su visa laivo įranga ir priklausiniais, kurie reikalingi jo navigacijai ar kelionei ir yra laive hipotekos sandorio sudarymo arba priverstinės hipotekos nustatymo dieną. Įkeičiamo laivo įrenginiai ir priklausiniai turi būti nurodyti hipotekos sandoryje arba sprendime dėl priverstinės hipotekos nustatymo, išskyrus tuos, kurie nėra laivo savininko nuosavybė.
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
+
+1. Laivas, prilygintas nekilnojamajam daiktui, įkeičiamas su visa laivo įranga ir priklausiniais, kurie reikalingi jo navigacijai ar kelionei ir yra laive hipotekos sandorio sudarymo arba priverstinės hipotekos nustatymo dieną. Įkeičiamo laivo įrenginiai ir priklausiniai turi būti nurodyti hipotekos sandoryje arba sprendime dėl priverstinės hipotekos nustatymo, išskyrus tuos, kurie nėra laivo savininko nuosavybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
 
 2. Laivo hipoteka neapima laive esančio kuro, tepalų bei krovinio, priklausančių laivo savininkui ar kitam asmeniui.
 
@@ -1004,25 +1026,21 @@ Nr. XI-1847, 2011-12-22, Žin., 2012, Nr. 6-183 (2012-01-10)
 
 81 straipsnis. Įkeisto laivo išregistravimas
 
-1. Įkeistas laivas negali būti išregistruotas iš Lietuvos Respublikos jūrų laivų registro iki laivo hipotekos baigimo arba iki nebus pateiktas notariškai patvirtintas visų hipotekos kreditorių sutikimas tai padaryti.
+1. Įkeistas laivas negali būti išregistruotas iš Lietuvos Respublikos jūrų laivų registro iki laivo hipotekos ar įkeitimo baigimo arba iki nebus pateiktas notariškai patvirtintas visų hipotekos ar įkeitimo kreditorių sutikimas tai padaryti.
 
-2. Jeigu įkeistas laivas pagal Laivų registravimo taisykles privalo būti išregistruotas iš Lietuvos Respublikos jūrų laivų registro kitais negu laivo pardavimas atvejais, apie tai turi būti pranešta visiems Sutarčių ir teisių suvaržymų registre nurodytiems hipotekos kreditoriams, kad šie turėtų laiko imtis veiksmų savo interesams apsaugoti. Šioje dalyje nurodytu atveju įkeistas laivas negali būti išregistruotas anksčiau negu po 3 mėnesių nuo hipotekos kreditorių įspėjimo. Šio reikalavimo galima nepaisyti, jei yra pateiktas notariškai patvirtintas visų hipotekos kreditorių sutikimas tai padaryti anksčiau.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2735, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00110
+2. Jeigu įkeistas laivas pagal Laivų registravimo taisykles privalo būti išregistruotas iš Lietuvos Respublikos jūrų laivų registro kitais negu laivo pardavimas atvejais, apie tai turi būti pranešta visiems Sutarčių ir teisių suvaržymų registre nurodytiems hipotekos ar įkeitimo kreditoriams, kad šie turėtų laiko imtis veiksmų savo interesams apsaugoti. Šioje dalyje nurodytu atveju įkeistas laivas negali būti išregistruotas anksčiau negu po 3 mėnesių nuo hipotekos ar įkeitimo kreditorių įspėjimo. Šio reikalavimo galima nepaisyti, jei yra pateiktas notariškai patvirtintas visų hipotekos ar įkeitimo kreditorių sutikimas tai padaryti anksčiau.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1899, 00.08.29, Žin., 2000, Nr.75-2266 (00.09.07)
-
-Nr. VIII-1963, 00.09.26, Žin., 2000, Nr.85-2584 (00.10.11)
-
-Nr. XI-1847, 2011-12-22, Žin., 2012, Nr. 6-183 (2012-01-10)
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
 
 82 straipsnis. Laikinas laivo vėliavos pakeitimas
 
-1. Leidimas laikinai plaukioti su užsienio valstybės vėliava laivui, įregistruotam Lietuvos Respublikos jūrų laivų registre, negali būti išduotas tol, kol nebaigtos visos hipotekos. Šio reikalavimo galima nepaisyti, jei yra pateiktas notariškai patvirtintas visų hipotekos kreditorių sutikimas tokį leidimą išduoti.
+1. Leidimas laikinai plaukioti su užsienio valstybės vėliava laivui, įregistruotam Lietuvos Respublikos jūrų laivų registre, negali būti išduotas tol, kol nebaigtos visos hipotekos ar įkeitimai. Šio reikalavimo galima nepaisyti, jei yra pateiktas notariškai patvirtintas visų hipotekos ar įkeitimo kreditorių sutikimas tokį leidimą išduoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
 
 2. Laivas, kurio nuolatinė registracijos vieta yra užsienio valstybėje ir kuriam suteikta teisė laikinai plaukioti su Lietuvos valstybės vėliava, negali būti įkeičiamas Lietuvos Respublikoje. Visi su tokio laivo įkeitimu susiję klausimai sprendžiami pagal laivo nuolatinės registracijos valstybės įstatymus.
 
@@ -1036,7 +1054,11 @@ Nr. VIII-1963, 00.09.26, Žin., 2000, Nr.85-2584 (00.10.11)
 
 1. Sprendimas priverstinai parduoti Lietuvos Respublikoje įkeistą laivą priimamas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
-2. Priverstinis įkeisto laivo pardavimas išlaisvina jį nuo visų hipotekų ar apsunkinimų tik tuo atveju, jei pardavimo metu įkeistas laivas buvo Lietuvos Respublikos teritorijoje.
+2. Priverstinis įkeisto laivo pardavimas išlaisvina jį nuo visų hipotekų, įkeitimų ar apsunkinimų tik tuo atveju, jei pardavimo metu įkeistas laivas buvo Lietuvos Respublikos teritorijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
 
 Straipsnio pakeitimai:
 
@@ -1048,13 +1070,15 @@ DARBO SANTYKIAI LAIVE IR GARANTIJOS JŪRININKAMS
 
 84 straipsnis. Darbo sutarties su jūrininku sudarymas ir informavimas apie darbo sąlygas
 
-1. Darbo sutartis su jūrininku, išskyrus laivo kapitoną, jeigu jis pats yra ir laivo valdytojas, sudaroma Lietuvos Respublikos darbo kodekso ir šio įstatymo nustatyta tvarka raštu pagal pavyzdinę formą, kurią tvirtina Lietuvos Respublikos Vyriausybė. Vienas darbo sutarties egzempliorius įteikiamas jūrininkui, kitas lieka laivo valdytojui. Darbo sutarties kopija įteikiama laivo kapitonui ir yra laikoma laive. Kiekvienam jūrininkui jo prašymu susisiekimo ministro nustatyta tvarka išduodama jūrininko knygelė.
+1. Darbo sutartis su jūrininku, išskyrus laivo kapitoną, jeigu jis pats yra ir laivo valdytojas, sudaroma Lietuvos Respublikos darbo kodekso ir šio įstatymo nustatyta tvarka raštu. Darbo sutarties su jūrininku pavyzdinę formą tvirtina socialinės apsaugos ir darbo ministras. Su jūrininku sudaroma darbo sutartis turi atitikti 2006 m. Konvenciją dėl darbo jūrų laivyboje. Vienas darbo sutarties egzempliorius įteikiamas jūrininkui, kitas lieka laivo valdytojui. Darbo sutarties kopija įteikiama laivo kapitonui ir yra laikoma laive. Kiekvienam jūrininkui jo prašymu susisiekimo ministro nustatyta tvarka išduodama jūrininko knygelė.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
+
+Nr. XIV-1745, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00394
 
 2. Laivo valdytojas gali suteikti teisę laivo kapitonui laivo valdytojo vardu pasirašyti darbo sutartis su jūrininkais.
 
