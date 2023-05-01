@@ -4,7 +4,7 @@ identifier: "TAR.BA283DF0FB41"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2023-01-04"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2024-07-31
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
 
@@ -183,9 +183,15 @@ II SKYRIUS
 
 3) skelbia dendrologiškai, ekologiškai, estetiškai vertingus, kultūros paveldui ir kraštovaizdžiui reikšmingus medžius ir krūmus saugotinais želdiniais;
 
-4) tvirtina želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisijos sudėtį ir šios komisijos nuostatus;
+4) sprendžia dėl didesnių atkuriamosios vertės įkainių nustatymo savo sprendimu saugotinais paskelbtiems želdiniams;
 
-5) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas.
+5) tvirtina želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisijos sudėtį ir šios komisijos nuostatus;
+
+6) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 2. Savivaldybių vykdomosios institucijos:
 
@@ -295,6 +301,12 @@ IV SKYRIUS
 
 2. Želdinių apsaugos reikalavimai vykdant statybos darbus, įskaitant valstybinės reikšmės kelių ir viešosios geležinkelių infrastruktūros kelių ir jų įrenginių statybos ir remonto darbus, nustatomi aplinkos ministro tvirtinamose Želdinių apsaugos, vykdant statybos darbus, taisyklėse.
 
+3. Pašalinus pavojų gyventojams, jų turtui, statiniams ar eismo saugumui kėlusius ar atlikti statybos darbus trukdžiusius viešuosius želdinius gatvėse, savivaldybių vykdomosios institucijos privalo juos atkurti buvusioje želdinių augimo vietoje. Kai želdinių atkūrimas buvusioje vietoje nesuderinamas su gatvių projektavimo techniniais reikalavimais, šie želdiniai atkuriami kitoje suprojektuotoje gatvės želdinių vietoje. Šioje dalyje nurodytais atvejais želdiniai turi būti atkurti ne vėliau kaip per vienus metus nuo statybos darbų pabaigos arba per vienus metus nuo želdinių, keliančių pavojų gyventojams, jų turtui, statiniams ar eismo saugumui, pašalinimo dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1616, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25040
+
 12 straipsnis. Saugomi ir saugotini želdiniai ir želdynai
 
 1. Saugomais gamtos paveldo objektais želdiniai ir želdynai skelbiami, prižiūrimi ir tvarkomi vadovaujantis Saugomų teritorijų įstatymu ir šiuo įstatymu. Saugomais kultūros paveldo objektais želdynai skelbiami, prižiūrimi ir tvarkomi vadovaujantis Nekilnojamojo kultūros paveldo apsaugos įstatymu ir šiuo įstatymu.
@@ -305,7 +317,11 @@ IV SKYRIUS
 
 13 straipsnis. Leidimai ir sprendimai kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius
 
-1. Saugotinus želdinius kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti galima tik turint savivaldybės vykdomosios institucijos išduotą leidimą kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius (toliau – leidimas) ar vadovaujantis galiojančiu savivaldybės vykdomosios institucijos sprendimu dėl saugotinų želdinių kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo (toliau – sprendimas) ir sumokėjus savivaldybės vykdomosios institucijos pagal aplinkos ministro tvirtinamus Želdinių atkuriamosios vertės įkainius apskaičiuotą želdinių atkuriamosios vertės kompensaciją.
+1. Saugotinus želdinius kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti galima tik turint savivaldybės vykdomosios institucijos išduotą leidimą kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius (toliau – leidimas) ar vadovaujantis galiojančiu savivaldybės vykdomosios institucijos sprendimu dėl saugotinų želdinių kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo (toliau – sprendimas) ir sumokėjus savivaldybės vykdomosios institucijos pagal aplinkos ministro tvirtinamus Želdinių atkuriamosios vertės įkainius, kai šalinami Vyriausybės nustatytus kriterijus dėl augimo vietos, rūšies, matmenų ir būklės atitinkantys saugotini želdiniai, arba pagal savivaldybės atstovaujamosios institucijos sprendimu saugotinais paskelbtų želdinių atkuriamosios vertės įkainius, kai šios institucijos sprendimu yra nustatyti didesni šių želdinių atkuriamosios vertės įkainiai ir kai šalinami jos sprendimu saugotinais paskelbti želdiniai, apskaičiuotą želdinių atkuriamosios vertės kompensaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 2. Saugotinus želdinius kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti be leidimo ar sprendimo galima, kai:
 
@@ -371,7 +387,11 @@ IV SKYRIUS
 
 2. Viešieji atskirieji želdynai tvarkomi ir prižiūrimi pagal želdynų projektus, išskyrus šiuos želdinių priežiūros ir tvarkymo darbus: kasmetinį medžių ir krūmų genėjimą, nudžiūvusių, pavojų gyventojams, jų turtui, statiniams ar eismo saugumui keliančių, invazinių medžių ir krūmų kirtimą, medžių ir krūmų atžalų pašalinimą, tręšimą, želdynų statinių ir įrenginių tvarkymą ir kitus želdynų ir želdinių priežiūros darbus, skirtus gerai fizinei ir estetinei želdyno būklei palaikyti.
 
-3. Viešųjų želdynų ir želdinių priežiūros ir tvarkymo metu turi būti išsaugoti augantys sveiki, gyvybingi, estetiniu ir ekologiniu požiūriu vertingi, perspektyvūs augalai – dar nepasiekę gamtinės brandos ar ją pasiekę, tačiau nekeliantys nei fizinio, nei ligų ar kenkėjų židinių susidarymo pavojaus aplinkai. Draudžiama kirsti, kitaip iš augimo vietos pašalinti ar intensyviai genėti saugotinus medžius nuo kovo 15 dienos iki rugpjūčio 1 dienos, išskyrus atvejus, kai jie kelia pavojų gyventojams, jų turtui, statiniams, eismo ar skrydžių saugumui, taip pat kai tai būtina remontuojant, rekonstruojant ar tiesiant naują valstybinės reikšmės kelią, įgyvendinant ypatingos valstybinės svarbos projektus.
+3. Viešųjų želdynų ir želdinių priežiūros ir tvarkymo metu turi būti išsaugoti augantys sveiki, gyvybingi, estetiniu ir ekologiniu požiūriu vertingi, perspektyvūs augalai – dar nepasiekę gamtinės brandos ar ją pasiekę, tačiau nekeliantys nei fizinio, nei ligų ar kenkėjų židinių susidarymo pavojaus aplinkai. Draudžiama kirsti, kitaip iš augimo vietos pašalinti ar intensyviai genėti saugotinus medžius viešuosiuose želdynuose ir viešuosius želdinius, kurie priskiriami saugotiniems medžiams, nuo kovo 15 dienos iki rugpjūčio 1 dienos, išskyrus atvejus, kai jie kelia pavojų gyventojams, jų turtui, statiniams, eismo ar skrydžių saugumui, taip pat kai tai būtina remontuojant, rekonstruojant ar tiesiant naują valstybinės ar vietinės reikšmės kelią, įgyvendinant ypatingos valstybinės svarbos projektus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 4. Želdynai ir želdiniai nuo ligų ir kenkėjų saugomi vadovaujantis aplinkos ministro tvirtinamomis Želdynų ir želdinių sanitarinės apsaugos taisyklėmis.
 
@@ -669,7 +689,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 2. Pareikšti ieškinius dėl neteisėto želdinių naikinimo ir (ar) neteisėta veikla padarytos žalos želdynams ir želdiniams kaip aplinkos objektams atlyginimo turi teisę Aplinkos ministerijos įgaliotų institucijų pareigūnai, kiti įstatymų įgalioti pareigūnai, taip pat savivaldybių vykdomosios institucijos.
 
-3. Šio straipsnio 2 dalyje nurodytos institucijos, apskaičiuodamos želdynams ir želdiniams padarytą žalą, vadovaujasi Aplinkos apsaugos įstatymu, aplinkos ministro tvirtinama Žalos aplinkai, sunaikinus ar sužalojus gamtinius kraštovaizdžio kompleksus ir objektus, skaičiavimo metodika ir Želdinių atkuriamosios vertės įkainiais.
+3. Šio straipsnio 2 dalyje nurodytos institucijos, apskaičiuodamos želdynams ir želdiniams padarytą žalą, vadovaujasi Aplinkos apsaugos įstatymu, aplinkos ministro tvirtinamais Žalos aplinkai, sunaikinus ar sužalojus gamtinius kraštovaizdžio kompleksus ir objektus, skaičiavimo metodika, Želdinių atkuriamosios vertės įkainiais, kai žala padaryta Vyriausybės nustatytus kriterijus dėl augimo vietos, rūšies, matmenų ir būklės atitinkantiems saugotiniems želdiniams, arba savivaldybės atstovaujamosios institucijos sprendimu saugotinais paskelbtų želdinių atkuriamosios vertės įkainiais, kai šios institucijos sprendimu yra nustatyti didesni šių želdinių atkuriamosios vertės įkainiai ir kai žala padaryta jos sprendimu saugotinais paskelbtiems želdiniams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -740,4 +764,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1326, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15654
 
 Lietuvos Respublikos želdynų įstatymo Nr. X-1241 2 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
+
+Lietuvos Respublikos želdynų įstatymo Nr. X-1241 5, 13, 14 ir 30 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1616, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25040
+
+Lietuvos Respublikos želdynų įstatymo Nr. X-1241 11 straipsnio pakeitimo įstatymas
 
