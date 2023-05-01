@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2023-01-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2025-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
 
