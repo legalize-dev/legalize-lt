@@ -4,7 +4,7 @@ identifier: "TAR.5756AB4F657E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-07-02"
-last_updated: "2023-01-04"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5756AB4F657E"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO IR STATYBOS VALSTYBINĖS
 
 PRIEŽIŪROS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 76-3848, i. k. 1131010ISTA0XII-459
 
@@ -517,15 +517,33 @@ Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 
 7. Inspekcijos pareigūnas ne vėliau kaip po 5 darbo dienų nuo patikrinimo akto pasirašymo dienos priima sprendimą:
 
-1) jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, taip pat jeigu nustatyti kiti trūkumai, kuriuos galima pašalinti nepažeidžiant teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – pateikti statybą leidžiantį dokumentą išdavusiam ar kitam viešojo administravimo subjektui ar statytojui privalomąjį nurodymą per jame nurodytą, bet ne ilgesnį negu vieno mėnesio terminą pašalinti nustatytus pažeidimus ar trūkumus;
+1) jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, taip pat jeigu nustatyti kiti pažeidimai, kuriuos galima pašalinti nepažeidžiant teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – pateikti statybą leidžiantį dokumentą išdavusiam ar kitam viešojo administravimo subjektui ar statytojui privalomąjį nurodymą per jame nurodytą, bet ne ilgesnį negu vieno mėnesio terminą pašalinti nustatytus pažeidimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1755, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27573
 
 2) jeigu nustatyta, kad išduodant statybą leidžiantį dokumentą nebuvo sumokėta Statybos įstatymo 1 priede nustatyta įmoka (ar jos dalis) už savavališkos statybos įteisinimą, kai teisės aktų nustatyta tvarka ši įmoka privaloma, – pateikti Statybos įstatymo 1 priedo 10 punkte nurodytiems kaltiems asmenims privalomąjį nurodymą per jame nurodytą, bet ne ilgesnį nei 4 mėnesių terminą sumokėti įmoką (ar trūkstamą jos dalį); neįvykdžius privalomojo nurodymo, Inspekcija kreipiasi į teismą dėl įpareigojimo jį įvykdyti;
 
-3) šios dalies 1 ir 2 punktuose nenurodytais atvejais, kai statybą leidžiantis dokumentas išduotas neteisėtai, – kreiptis į teismą dėl jo galiojimo panaikinimo.
+3) šios dalies 1 ir 2 punktuose nenurodytais atvejais, kai statybą leidžiantis dokumentas išduotas neteisėtai:
+
+a) asmenys turi teisę per 3 mėnesių terminą, skaičiuojamą nuo patikrinimo akto pasirašymo dienos, pašalinti nustatytus pažeidimus (išskyrus atvejus, kai pagal imperatyvias teisės normas pažeidimų pašalinimas nėra galimas). Apie šio įstatymo nustatytą terminą pažeidimams pašalinti arba galimybę sudaryti taikos sutartį, jeigu pažeidimai negali būti pašalinti per 3 mėnesius, asmenis informuoja Inspekcija. Jeigu per 3 mėnesių terminą dėl objektyvių aplinkybių pažeidimai negali būti pašalinti, tačiau už jų šalinimą atsakingi asmenys sutinka ir siūlo juos šalinti geranoriškai, tarp Inspekcijos ir atsakingų asmenų teisės aktų nustatyta tvarka gali būti sudaroma taikos sutartis dėl pažeidimų šalinimo, kuri teikiama tvirtinti teismui. Jeigu pažeidimai per 3 mėnesių terminą nepašalinami, Inspekcija per vieną mėnesį nuo 3 mėnesių termino pasibaigimo dienos kreipiasi į teismą dėl statybą leidžiančio dokumento galiojimo panaikinimo, išskyrus atvejus, kai yra įsigaliojusi teismo nutartis dėl taikos sutarties patvirtinimo;
+
+b) kai pagal imperatyvias teisės normas tokio (-ių) pažeidimo (-ų) pašalinti negalima, Inspekcija per 2 mėnesius nuo patikrinimo akto, kuriame konstatuotas statybą leidžiančio dokumento išdavimo neteisėtumas, pasirašymo dienos kreipiasi į teismą dėl statybą leidžiančio dokumento galiojimo panaikinimo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1755, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27573
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
+
+71. Kai patikrinimo akte konstatuota, kad statybą leidžiantis dokumentas išduotas neteisėtai, statybos darbai, tęsiami nepašalinus pažeidimų, atliekami statytojo rizika. Apie tai, kad pasirašytas patikrinimo aktas, kuriame konstatuota, kad statybą leidžiantis dokumentas išduotas neteisėtai, Inspekcijos pareigūnas ne vėliau kaip kitą darbo dieną informuoja valstybės įmonę Registrų centrą dėl įrašo Nekilnojamojo turto registre padarymo, jam pateikdamas patikrinimo aktą be priedų, jeigu nėra techninių galimybių pateikti šios informacijos naudojantis informacinėmis sistemomis. Kai patikrinimo akte konstatuota, kad statybą leidžiantis dokumentas išduotas neteisėtai, tai nurodoma IS „Infostatyba“ prie viešai skelbiamų duomenų apie statybą leidžiantį dokumentą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1755, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27573
 
 8. Išsamią statybą leidžiančių dokumentų išdavimo teisėtumo patikrinimų tvarką pagal Inspekcijos darbo planus tikrintinų statybą leidžiančių dokumentų rūšis nustato, su statybą leidžiančių dokumentų išdavimo teisėtumo patikrinimais susijusių dokumentų formas ir statybą leidžiančių dokumentų išdavimo teisėtumui patikrinti pateiktinų dokumentų sąrašą tvirtina Inspekcijos viršininkas.
 
@@ -583,7 +601,11 @@ Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
 
 7. Jeigu šio straipsnio 6 dalyje nurodytu atveju asmuo įpareigojamas nugriauti statinį ir sutvarkyti statybvietę, privalomajame nurodyme nurodoma, kad Inspekcija turi teisę nugriauti statinį ir sutvarkyti statybvietę šio asmens lėšomis, jam per nustatytą terminą neįvykdžius privalomojo nurodymo.
 
-8. Jeigu dėl objektyvių nuo asmens, kuriam surašytas privalomasis nurodymas, nepriklausančių priežasčių privalomasis nurodymas per nustatytą terminą negali būti įvykdytas, šio straipsnio 6 dalyje nurodytas asmuo, kuriam surašytas privalomasis nurodymas, gali iki privalomojo nurodymo įvykdymo termino pabaigos raštu kreiptis į Inspekciją su motyvuotu prašymu pratęsti privalomojo nurodymo įvykdymo terminą. Inspekcija, įvertinusi prašymo motyvus, priima sprendimą pratęsti arba atsisakyti pratęsti privalomojo nurodymo įvykdymo terminą. Priėmus sprendimą pratęsti šį terminą, jis pratęsiamas, tačiau ne ilgesniam terminui, negu buvo nustatytas pradiniame privalomajame nurodyme, ir tik vieną kartą. Jeigu statybos patikrinimo metu kyla įtarimų, kad tokio statinio statyba toje vietoje pagal teisės aktus negalima, o tokio statinio statybos atveju pagal teisės aktų reikalavimus neprivaloma parengti statinio projektą, Inspekcijos pareigūnas privalomąjį nurodymą pašalinti nustatytus pažeidimus (nugriauti statinį ar jo dalį ir pan.) surašo tik gavęs atitinkamų viešojo administravimo subjektų išvadas, kad tokio statinio statyba toje vietoje negalima.
+8. Jeigu dėl objektyvių nuo asmens, kuriam surašytas privalomasis nurodymas, nepriklausančių priežasčių, nurodytų šio įstatymo 14 straipsnio 4 dalyje, privalomasis nurodymas per nustatytą terminą negali būti įvykdytas, šio straipsnio 6 dalyje nurodytas asmuo, kuriam surašytas privalomasis nurodymas, gali iki privalomojo nurodymo įvykdymo termino pabaigos raštu kreiptis į Inspekciją su motyvuotu prašymu pratęsti privalomojo nurodymo įvykdymo terminą. Inspekcija, įvertinusi prašymo motyvus, priima sprendimą pratęsti arba atsisakyti pratęsti privalomojo nurodymo įvykdymo terminą. Priėmus sprendimą pratęsti šį terminą, jis pratęsiamas, tačiau ne ilgesniam terminui, negu buvo nustatytas pradiniame privalomajame nurodyme, ir tik vieną kartą. Dėl privalomojo nurodymo vykdymo termino pratęsimo ilgesniam laikotarpiui ar dėl atsisakymo jį pratęsti asmuo gali kreiptis į teismą. Jeigu statybos patikrinimo metu kyla įtarimų, kad tokio statinio statyba toje vietoje pagal teisės aktus negalima, o tokio statinio statybos atveju pagal teisės aktų reikalavimus neprivaloma parengti statinio projekto, Inspekcijos pareigūnas privalomąjį nurodymą pašalinti nustatytus pažeidimus (nugriauti statinį ar jo dalį ir pan.) surašo tik gavęs atitinkamų viešojo administravimo subjektų išvadas, kad tokio statinio statyba toje vietoje negalima.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1755, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27573
 
 9. Inspekcijai raštu gavus informacijos apie šio straipsnio 6 dalyje nurodyto privalomojo nurodymo įvykdymą iki jo įvykdymo termino pabaigos arba pasibaigus šio straipsnio 6 dalyje nurodyto privalomojo nurodymo įvykdymo terminui, Inspekcija ne vėliau kaip per 10 darbo dienų atitinkamai nuo šios informacijos gavimo dienos arba nuo privalomajame nurodyme nustatyto termino pabaigos patikrina, ar privalomasis nurodymas tinkamai įvykdytas. Jeigu privalomasis nurodymas yra tinkamai įvykdytas, tai pažymima Inspekcijos turimame privalomojo nurodymo egzemplioriuje. Jeigu privalomasis nurodymas neįvykdytas, įvykdytas iš dalies, įvykdytas netinkamai, suėjus privalomojo nurodymo įvykdymo terminui Inspekcija perduoda privalomąjį nurodymą priverstinai vykdyti antstoliui, išskyrus atvejus, kai iškelta byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo. Tokiais atvejais privalomasis nurodymas, jeigu buvo skundžiamas jo teisėtumas, perduodamas vykdyti antstoliui po teismo sprendimo nepanaikinti privalomojo nurodymo įsiteisėjimo arba kai sueina teismo nustatyti papildomi privalomojo nurodymo įvykdymo terminai ar įsiteisėja teismo sprendimas dėl privalomojo nurodymo termino nepratęsimo.
 
@@ -767,11 +789,11 @@ Pakeistas straipsnio pavadinimas:
 
 Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
 
-1. Inspekcijos pareigūnai savo potvarkiais sudaro visų statinių, kurių statybą užbaigus privaloma gauti statybos užbaigimo aktus, statybos užbaigimo komisijas. Komisijos gali būti sudaromos:
+1. Statybos užbaigimo aktas surašomas Statybos įstatymo 28 straipsnio 2 dalyje nustatytais atvejais. Prašymas dėl statybos užbaigimo akto išdavimo pateikiamas Inspekcijai aplinkos ministro nustatyta tvarka. Šios tvarkos apraše nurodoma, kokius dokumentus su prašymu reikia pateikti, prašymo nagrinėjimo tvarka ir terminai. Statybos užbaigimo aktus aplinkos ministro nustatyta tvarka išduoda statybos užbaigimo komisija, jos sudėtį tvirtina Inspekcijos viršininkas ar jo įgaliotas pareigūnas.
 
-1) vienkartinės, atskirų statinių statybos užbaigimo procedūroms atlikti – pagal atskirus statytojų, savininkų, valdytojų, naudotojų prašymus;
+Straipsnio dalies pakeitimai:
 
-2) nuolatinės, sudaromos tam tikrų statinių statybos užbaigimo procedūroms atlikti.
+Nr. XIV-1755, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27573
 
 2. Komisijos pirmininkas (Inspekcijos pareigūnas) organizuoja statybos užbaigimo komisijos darbą ir, vadovaudamasis šio straipsnio 7 dalyje nurodyta tvarka, nustato, kokių subjektų atstovai privalo dalyvauti atliekant konkretaus statinio (statinių) užbaigimo procedūras.
 
@@ -791,13 +813,19 @@ Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
 
 Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
 
-6. Jeigu teisme dėl statybą leidžiančio dokumento išdavimo teisėtumo yra priimtų nagrinėti kitų, negu nurodyti šio straipsnio 5 dalyje, asmenų prašymų, statybos užbaigimo procedūros sustabdomos ir atliekamas statybą leidžiančio dokumento išdavimo teisėtumo patikrinimas. Nustačius, kad statybą leidžiantis dokumentas išduotas teisėtai, statybos užbaigimo procedūros tęsiamos, jeigu neteisėtai, – nutraukiamos iki teismo sprendimo įsiteisėjimo. Gavus skundų dėl kitų faktų, trukdančių atlikti procedūras, sprendžiama, ar reikia atidėti statybos užbaigimo procedūras tol, kol kompetentingos institucijos šiuos skundus išnagrinės teisės aktų nustatyta tvarka, ar šie skundai nėra pagrindas nutraukti procedūras.
+6. Neteko galios nuo 2023-05-01.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
 
-7. Statybos užbaigimo procedūrų atlikimo tvarką, subjektų, kurių atstovai gali būti statybos užbaigimo komisijos nariais, sąrašą, komisijos narių kompetenciją atliekant statybos užbaigimo procedūras, komisijai teiktinų dokumentų sąrašą, deklaracijų apie statybos užbaigimą tvirtinimo ir registravimo tvarką nustato aplinkos ministras, o surašomų dokumentų formas tvirtina Inspekcijos viršininkas.
+Nr. XIV-1755, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27573
+
+7. Subjektų, kurių atstovai tikrino ar turėjo tikrinti statinio atitiktį statinio projekto sprendiniams, atstovai gali būti statybos užbaigimo komisijos nariais. Komisijos narių sąrašą ir kompetenciją atliekant statybos užbaigimo procedūras, suderinęs su atitinkamų valdymo sričių ministrais, nustato aplinkos ministras. Statybos užbaigimo procedūrų atlikimo tvarką, terminus, statybos užbaigimo komisijai teiktinų dokumentų sąrašą, deklaracijų apie statybos užbaigimą tvirtinimo ir registravimo tvarką nustato aplinkos ministras. Komisijos nariai, be kitų pagal kompetenciją priskirtų funkcijų,  pagal kiekvieno kompetenciją privalo vizualiai patikrinti statinio atitiktį statinio projekto sprendiniams, lemiantiems statinio atitiktį esminiams statinių reikalavimams. Statinio atitiktį kitiems statinio projekto sprendiniams ar statinio projekto atitiktį teisės aktų reikalavimams komisijos nariai gali patikrinti pasirinktinai. Surašomų dokumentų formas tvirtina Inspekcijos viršininkas, statybos užbaigimo procedūros metu komisijos narių pildomus kontrolinius klausimynus tvirtina statybos užbaigimo procedūrose dalyvaujančių subjektų vadovai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1755, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27573
 
 17 straipsnis. Pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumo tikrinimas
 
@@ -1081,6 +1109,14 @@ Nr. XIV-1315, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15643
 
 Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 2, 3 straipsnių pakeitimo ir 28 straipsnio pripažinimo netekusiu galios įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1755, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27573
+
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 10, 11, 16 ir 26-1 straipsnių pakeitimo įstatymas
+
 61 straipsnis. Nevykdant teritorijų planavimo proceso priimtų administracinių sprendimų valstybinė priežiūra
 
 1. Gavusios skundų, kad nevykdant teritorijų planavimo proceso yra priimti administraciniai sprendimai, kuriais nustatomi nauji, keičiami ar panaikinami esami teritorijos tvarkymo, naudojimo ar apsaugos reikalavimai, keičiami ar panaikinami teritorijų planavimo dokumentai (jų dalys), teritorijų planavimo valstybinės priežiūros institucijos pagal kompetenciją tikrina, ar šie sprendimai priimti nepažeidžiant teritorijų planavimą reglamentuojančių teisės aktų.
@@ -1117,11 +1153,13 @@ Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
 
 261 straipsnis. Terminai, per kuriuos privalomieji nurodymai pateikiami vykdyti
 
-Šio įstatymo 11 straipsnio 6 dalyje, 13 straipsnio 4 ir 5 dalyse, 14 straipsnio 2 dalyje nurodyti privalomieji nurodymai gali būti pateikti vykdyti per penkerius metus nuo privalomajame nurodyme nustatyto termino suėjimo.
+1. Šio įstatymo 11 straipsnio 6 dalyje, 13 straipsnio 4 ir 5 dalyse, 14 straipsnio 2 dalyje nurodyti privalomieji nurodymai gali būti pateikiami vykdyti per penkerius metus pasibaigus privalomojo nurodymo įvykdymo terminui.
 
-Papildyta straipsniu:
+2. Šio straipsnio 1 dalyje nurodytas privalomojo nurodymo pateikimo vykdyti terminas sustabdomas, kol teisme bus išnagrinėta byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo.
 
-Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
+Straipsnio pakeitimai:
+
+Nr. XIV-1755, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27573
 
 81 straipsnis. Pritarimų projektiniams pasiūlymams teisėtumo tikrinimas
 
