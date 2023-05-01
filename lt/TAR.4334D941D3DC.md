@@ -4,7 +4,7 @@ identifier: "TAR.4334D941D3DC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-05-23"
-last_updated: "2023-01-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4334D941D3DC"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS PLUOŠTINIŲ KANAPIŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 61-3025, i. k. 1131010ISTA0XII-336
 
@@ -269,13 +269,31 @@ IMPORTAS
 
 3. Importuojant pluoštinių kanapių produktus būtina turėti licenciją, atitinkančią Įgyvendinimo reglamento (ES) 2016/1239 I priede nustatytą šabloną („importo licencija AGRIM“).
 
-4. Importuodamas sėjai skirtas pluoštinių kanapių sėklas, importuotojas muitinės pareigūnams kartu su licencija turi pateikti ir pakuotės etiketės kopiją ar sėklos sertifikatą, kuriuose nurodomas veislės pavadinimas, taip pat trečiosios šalies atsakingos institucijos išduotą pažymą, kuria patvirtinama, kad THC kiekis pluoštinėse kanapėse neviršija leidžiamos 0,2 procento ribos.
+4. Importuodamas sėjai skirtas pluoštinių kanapių sėklas, importuotojas muitinės pareigūnams kartu su licencija turi pateikti ir pakuotės etiketės kopiją ar sėklos sertifikatą, kuriuose nurodomas veislės pavadinimas, taip pat trečiosios šalies atsakingos institucijos išduotą pažymą, kuria patvirtinama, kad THC kiekis pluoštinėse kanapėse neviršija leidžiamos 0,3 procento ribos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 5. Agentūra, vadovaudamasi Licencijavimo taisyklėmis, licencijas išduoda, patikslina, įspėja apie galimą licencijos galiojimo sustabdymą, licencijų galiojimą sustabdo, licencijų galiojimą ar licencijų galiojimo sustabdymą panaikina ir prižiūri, kaip licencijų turėtojai laikosi licencijuojamos veiklos sąlygų.
 
-6. Importuojami pluoštinių kanapių produktai ir jų gaminiai turi būti gauti ar pagaminti iš pluoštinių kanapių, kuriose THC kiekis neviršija leidžiamos 0,2 procento ribos, ir turėti trečiosios šalies atsakingos institucijos išduotą tai patvirtinantį dokumentą.
+6. Importuojami pluoštinių kanapių produktai ir jų gaminiai turi būti gauti ar pagaminti iš pluoštinių kanapių, kuriose THC kiekis neviršija leidžiamos 0,3 procento ribos, ir turėti trečiosios šalies atsakingos institucijos išduotą tai patvirtinantį dokumentą.
 
-7. Importuojami pluoštinių kanapių gaminiai neturi viršyti didžiausių leidžiamų THC kiekių, nurodytų Sąraše, o kai tai nėra nustatyta Sąraše, THC kiekis tokiuose gaminiuose neturi viršyti leidžiamos 0,2 procento ribos, ir turėti trečiosios šalies atsakingos institucijos išduotą tai patvirtinantį dokumentą.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
+
+7. Importuojami pluoštinių kanapių gaminiai neturi viršyti didžiausių leidžiamų THC kiekių, nurodytų Sąraše, o kai tai nėra nustatyta Sąraše, THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) tokiuose gaminiuose neturi viršyti leidžiamos 0,2 procento ribos. Kiekviena importuojama pluoštinių kanapių gaminių partija turi turėti trečiosios šalies atsakingos institucijos išduotą tai patvirtinantį dokumentą. Importuojant iš pluoštinių kanapių sėklų ar pluošto pagamintus gaminius, šio dokumento nereikalaujama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
+
+8. Ant importuojamų pluoštinių kanapių gaminių pakuotės turi būti aiškiai nurodyta galutinė gaminio vartojimo paskirtis ir vartojimo būdas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 6 straipsnis. Licencijų išdavimo tvarka
 
