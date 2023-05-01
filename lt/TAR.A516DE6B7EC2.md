@@ -4,7 +4,7 @@ identifier: "TAR.A516DE6B7EC2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-22"
-last_updated: "2022-05-07"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A516DE6B7EC2"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS ENERGIJOS IŠTEKLIŲ RINKOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-05-07 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 63-3164, i. k. 1121010ISTA0XI-2023
 
@@ -300,7 +300,11 @@ Nr. XIV-629, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24221
 
 2) registruoja energijos išteklių biržos dalyvius ir administruoja jų santykius energijos išteklių biržoje;
 
-3) energijos išteklių biržos duomenų valdymo sistemoje renka duomenis apie šilumos tiekėjų, šilumos aukciono dalyvių ir bendrų šilumos ir elektros energijos gamintojų tiesiogiai sudaromus dvišalius susitarimus (sandorio šalis, sudarymo datą, biokuro rūšis ir sandorio galiojimo laikotarpį) ir šių susitarimų pagrindu įsigytą biokuro kiekį bei kainą ir teikia šiuos duomenis Tarybai;
+3) energijos išteklių biržos duomenų valdymo sistemoje renka duomenis apie šilumos tiekėjų, šilumos aukciono dalyvių ir bendrų šilumos ir elektros energijos gamintojų tiesiogiai sudaromus dvišalius susitarimus (sandorio šalis, sudarymo datą, biokuro rūšis, atitiktį tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams patvirtinančius dokumentus ir duomenis, sandorio galiojimo laikotarpį) ir šių susitarimų pagrindu įsigytą biokuro kiekį bei kainą ir teikia šiuos duomenis Tarybai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1068, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09677
 
 4) valdo, palaiko ir administruoja energijos išteklių biržos informacinę sistemą ir energijos išteklių biržos duomenų valdymo sistemą;
 
@@ -396,17 +400,25 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-629, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24221
 
-5. Šilumos tiekėjai, šilumos aukciono dalyviai ir bendri šilumos ir elektros energijos gamintojai per energijos išteklių biržos duomenų valdymo sistemą teikia duomenis energijos išteklių biržos operatoriui apie tiesiogiai sudarytus dvišalius susitarimus (sandorio šalis, sudarymo datą, biokuro rūšis ir sandorio galiojimo laikotarpį) ir šių susitarimų pagrindu įsigytą biokuro kiekį bei kainą.
+5. Šilumos tiekėjai, šilumos aukciono dalyviai ir bendri šilumos ir elektros energijos gamintojai per energijos išteklių biržos duomenų valdymo sistemą teikia duomenis energijos išteklių biržos operatoriui apie tiesiogiai sudarytus dvišalius susitarimus (sandorio šalis, sudarymo datą, biokuro rūšis, atitiktį tvarumo ir  išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams patvirtinančius dokumentus ir duomenis, sandorio galiojimo laikotarpį) ir šių susitarimų pagrindu įsigytą biokuro kiekį bei kainą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
 
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1068, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09677
+
 18 straipsnis. Centralizuotos prekybos biokuru bendrieji principai
 
 1. Energijos išteklių biržoje įdiegiama centralizuota elektroninė prekybos biokuru sistema.
 
-2. Energijos išteklių biržoje gali būti prekiaujama visų rūšių biokuru, atitinkančiu tvarumo kriterijus, technologinius, aplinkosaugos reikalavimus ir kokybės standartus, nustatytus Atsinaujinančių išteklių energetikos įstatyme ir jo įgyvendinamuosiuose teisės aktuose. Centralizuotos prekybos atskirų rūšių biokuru ypatumai nustatomi Centralizuotos prekybos biokuru taisyklėse.
+2. Energijos išteklių biržoje gali būti prekiaujama visų rūšių biokuru, atitinkančiu technologinius, aplinkosaugos reikalavimus ir kokybės standartus, nustatytus Atsinaujinančių išteklių energetikos įstatyme ir jo įgyvendinamuosiuose teisės aktuose, ir (ar) atitinkančiu tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijus pagal Europos Komisijos sprendimu pripažintą savanorišką tarptautinę schemą ir (ar) savanorišką nacionalinę schemą. Centralizuotos prekybos atskirų rūšių biokuru ypatumai nustatomi Centralizuotos prekybos biokuru taisyklėse.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1068, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09677
 
 3. Centralizuotą elektroninę prekybos biokuru sistemą administruoja ir prekybą biokuru energijos išteklių biržoje organizuoja energijos išteklių biržos operatorius.
 
