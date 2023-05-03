@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2023-01-01"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-05-02
+Suvestinė redakcija nuo 2023-05-03 iki 2023-05-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -317,15 +317,15 @@ Nr. XIV-1355, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15451
 
 3. Šio straipsnio 2 dalyje nurodyti subjektai turi teisę priimti sprendimus, susijusius su valstybės turto valdymu, naudojimu ir disponavimu juo, išskyrus sprendimus, susijusius su turto perleidimu kitų asmenų nuosavybėn ar su daiktinių teisių suvaržymu, jeigu Lietuvos Respublikos įstatymai nenustato kitaip. Subjektas, turintis teisę priimti sprendimus dėl valstybės turto perdavimo patikėjimo teise, savo sprendime dėl valstybės turto perdavimo patikėjimo teise turi teisę nustatyti ir kitas patikėto turto valdymo, naudojimo ir disponavimo juo sąlygas.
 
-4. Kitiems, šio straipsnio 2 dalyje nenurodytiems, juridiniams asmenims valstybės turtas patikėjimo teise gali būti perduotas pagal paprasta rašytine forma sudaromą turto patikėjimo sutartį ir tik tais atvejais, kai įstatymai jiems priskiria valstybines funkcijas. Sprendimą dėl turto perdavimo patikėjimo teise kitiems juridiniams asmenims priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį, juridinis asmuo, pagal įstatymus galintis atlikti valstybines funkcijas, sutarties galiojimo terminas, kuris negali būti ilgesnis kaip 20 metų, jeigu įstatymai nenustato kitaip. Kiti juridiniai asmenys, kuriems valstybės turtas perduotas pagal turto patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims naudotis kitu būdu. Šis turtas gali būti naudojamas tik įstatymų jiems priskirtoms valstybinėms funkcijoms įgyvendinti. Turto patikėjimo sutartyje gali būti nustatyti ir kiti, šioje dalyje nenurodyti, Vyriausybės sprendime nustatyti patikėjimo teisės subjekto (patikėtinio) teisių dėl turto valdymo, naudojimo ir disponavimo juo apribojimai. Turto patikėjimo sutartis pasibaigia Lietuvos Respublikos civilinio kodekso nustatytais atvejais. Turto patikėjimo sutartį sudariusi valstybės institucija ar įstaiga privalo atsisakyti patikėjimo sutarties vadovaudamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jeigu juridinis asmuo (patikėtinis) nebegali (ar atsisako) įgyvendinti valstybinių funkcijų, kurioms įgyvendinti pagal patikėjimo sutartį buvo perduotas turtas. Turto patikėjimo sutartį sudariusi valstybės institucija ar įstaiga privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Pasibaigus turto patikėjimo sutarčiai, turtą patikėjimo teise valdo, naudoja ir disponuoja juo sutartį pasirašiusi valstybės institucija ar įstaiga, jeigu Vyriausybė nenustato kitaip.
-
-TAR pastaba. 4 dalies nuostatos taikomos ir keičiant iki įstatymo Nr. XIV-1355 įsigaliojimo (2022-07-14) sudarytas valstybės ir savivaldybių turto patikėjimo sutartis.
+4. Kitiems, šio straipsnio 2 dalyje nenurodytiems, juridiniams asmenims valstybės turtas patikėjimo teise gali būti perduotas pagal paprasta rašytine forma sudaromą turto patikėjimo sutartį ir tik tais atvejais, kai įstatymai jiems priskiria valstybines funkcijas. Sprendimą dėl turto perdavimo patikėjimo teise kitiems juridiniams asmenims priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį, juridinis asmuo, pagal įstatymus galintis atlikti valstybines funkcijas, sutarties galiojimo terminas, kuris negali būti ilgesnis kaip 20 metų, jeigu įstatymai nenustato kitaip. Kiti juridiniai asmenys, kuriems valstybės turtas perduotas pagal turto patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims naudotis kitu būdu, išskyrus kituose įstatymuose nustatytus atvejus, kai kitų juridinių asmenų patikėjimo teise valdomas, naudojamas ir disponuojamas valstybės turtas gali būti perduotas panaudos pagrindais neatlygintinai valdyti ir naudotis kitiems asmenims. Šis turtas gali būti naudojamas tik įstatymų jiems priskirtoms valstybinėms funkcijoms įgyvendinti. Turto patikėjimo sutartyje gali būti nustatyti ir kiti, šioje dalyje nenurodyti, Vyriausybės sprendime nustatyti patikėjimo teisės subjekto (patikėtinio) teisių dėl turto valdymo, naudojimo ir disponavimo juo apribojimai. Turto patikėjimo sutartis pasibaigia Lietuvos Respublikos civilinio kodekso nustatytais atvejais. Turto patikėjimo sutartį sudariusi valstybės institucija ar įstaiga privalo atsisakyti patikėjimo sutarties vadovaudamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jeigu juridinis asmuo (patikėtinis) nebegali (ar atsisako) įgyvendinti valstybinių funkcijų, kurioms įgyvendinti pagal patikėjimo sutartį buvo perduotas turtas. Turto patikėjimo sutartį sudariusi valstybės institucija ar įstaiga privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Pasibaigus turto patikėjimo sutarčiai, turtą patikėjimo teise valdo, naudoja ir disponuoja juo sutartį pasirašiusi valstybės institucija ar įstaiga, jeigu Vyriausybė nenustato kitaip.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 Nr. XIV-1355, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15451
+
+Nr. XIV-1892, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08045
 
 5. Patikėjimo teisė į perduodamą valstybės turtą atsiranda nuo turto perdavimo patikėjimo teisės subjektui (patikėtiniui) ir turto perdavimo–priėmimo akto pasirašymo.
 
@@ -459,7 +459,7 @@ Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 1) valstybės arba savivaldybės ilgalaikis materialusis turtas neskirtas šalies gynybai ar saugumui užtikrinti, išskyrus atvejus, kai turtas nuomojamas karinių pratybų ir kitų karinio bendradarbiavimo renginių metu;
 
-2) valstybės arba savivaldybės ilgalaikis materialusis turtas nenaudojamas valstybinėms arba savivaldybių funkcijoms įgyvendinti.
+2) valstybės arba savivaldybės ilgalaikis materialusis turtas nenaudojamas valstybinėms arba savivaldybių funkcijoms įgyvendinti;
 
 2. Valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas viešo nuomos konkurso būdu, išskyrus šiuos valstybės arba savivaldybės ilgalaikio materialiojo turto nuomos atvejus, kai toks turtas gali būti išnuomotas be konkurso, jeigu:
 
@@ -1710,6 +1710,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1235, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15601
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1892, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08045
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 10 straipsnio pakeitimo įstatymas
 
 26 straipsnis. Valstybės ir savivaldybių turto pripažinimas nereikalingu arba netinkamu (negalimu) naudoti
 
