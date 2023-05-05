@@ -4,7 +4,7 @@ identifier: "TAR.8A16A03D98D4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-01"
-last_updated: "2023-05-01"
+last_updated: "2023-05-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Neoficialus įstatymo tekstas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-05-04
+Suvestinė redakcija nuo 2023-05-05 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 65-1558, i. k. 0971010ISTAVIII-359
 
@@ -351,7 +351,11 @@ Nr. XII-1809, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10572
 
 7) pagal įstatymus suteikta ir naudojama gyventojų asmeniniam ūkiui, taip pat suteikta tarnybinėms daloms. Šios žemės sklypų dydžiai ir jų ribos nustatomi naujai parengtuose žemės reformos žemėtvarkos projektuose;
 
-8) suteikta kaimo vietovėje mokslo ir studijų institucijoms, šių institucijų įsteigtoms viešosioms įstaigoms, organizuojančioms praktinį mokymą ir tyrimus, profesinio mokymo, valstybinėms socialinės globos bei rūpybos įstaigoms, valstybiniams specializuotiems sėklininkystės, veislininkystės ūkiams ir specializuotą veislininkystės bei sėklininkystės veiklą vykdančioms valstybės kontroliuojamoms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kuriose valstybei priklauso daugiau kaip ½ akcijų. Šios žemės naudotojų sąrašą ir jų naudojamų žemės sklypų dydžius nustato Vyriausybė;
+8) suteikta mokslo ir studijų institucijoms, šių institucijų įsteigtoms viešosioms įstaigoms, organizuojančioms praktinį mokymą ir tyrimus, profesinio mokymo, valstybinėms socialinės globos bei rūpybos įstaigoms, valstybinėms įstaigoms ir organizacijoms, valstybiniams specializuotiems sėklininkystės, veislininkystės ūkiams ir specializuotą veislininkystės bei sėklininkystės veiklą vykdančioms valstybės kontroliuojamoms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kuriose valstybei priklauso daugiau kaip 1/2 akcijų. Šios žemės naudotojų sąrašą ir jų naudojamų žemės sklypų dydžius nustato Vyriausybė;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1900, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08466
 
 9) yra su įrengtais tvenkiniais, pramoninės žuvininkystės tvenkiniais (įskaitant užtvankos įrenginių užimtą žemę);
 
@@ -1066,4 +1070,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1826, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05726
 
 Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo Nr. VIII-359 21 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1900, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08466
+
+Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo Nr. VIII-359 12 straipsnio pakeitimo įstatymas
 
