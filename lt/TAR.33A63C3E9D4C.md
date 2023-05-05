@@ -4,7 +4,7 @@ identifier: "TAR.33A63C3E9D4C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-03-25"
-last_updated: "2016-12-29"
+last_updated: "2023-05-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.33A63C3E9D4C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas
 
-Suvestinė redakcija nuo 2016-12-29 iki 2023-05-04
+Suvestinė redakcija nuo 2023-05-05
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 58-0; Žin. 1993, Nr.11-265, i. k. 0931010ISTA000I-108
 
@@ -42,7 +42,11 @@ LIETUVOS RESPUBLIKOS VALSTYBINĖS LIETUVIŲ KALBOS KOMISIJOS ĮSTATYMAS
 
 2. Kalbos komisijos nariai skiriami 5 metams. Jų įgaliojimų laikotarpių skaičius neribojamas. Kalbos komisijos nario įgaliojimų laikas skaičiuojamas nuo paskyrimo į pareigas dienos.
 
-3. Kalbos komisijai vadovauja pirmininkas. Kalbos komisijos pirmininką ir pirmininko pavaduotoją Švietimo ir mokslo komiteto teikimu iš Kalbos komisijos narių 5 metų laikotarpiui skiria ir atleidžia Seimas.
+3. Kalbos komisijai vadovauja pirmininkas. Kalbos komisijos pirmininką ir pirmininko pavaduotoją Švietimo ir mokslo komiteto teikimu iš Kalbos komisijos narių 5 metų laikotarpiui skiria ir atleidžia Seimas. Kalbos komisijos pirmininkas ir jo pavaduotojas negali gauti jokio kito atlyginimo, išskyrus jiems nustatytą darbo užmokestį už darbą Kalbos komisijoje ir atlyginimą už kūrybinę, pedagoginę ir (ar) mokslinę veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1897, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08463
 
 4. Seimas Švietimo ir mokslo komiteto teikimu dėl svarbių priežasčių ar paties Kalbos komisijos pirmininko, jo pavaduotojo ar nario prašymu gali atleisti juos iš pareigų ir nesibaigus įgaliojimų laikui.
 
@@ -331,4 +335,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-115, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29766
 
 Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo Nr. I-108 2 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1897, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08463
+
+Lietuvos Respublikos valstybinės lietuvių kalbos komisijos įstatymo Nr. I-108 2 straipsnio pakeitimo įstatymas
 
