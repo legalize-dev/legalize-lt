@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2023-04-06"
+last_updated: "2023-05-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2023-04-06 iki 2023-05-04
+Suvestinė redakcija nuo 2023-05-05 iki 2023-05-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -3135,7 +3135,7 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 
 3. Šiame straipsnyje nurodytos teismo nutartys yra galutinės ir neskundžiamos.
 
-part_514485fde2a2483b8283d6f5c9031efc_end
+part_b80b968148364c03a2f52d324e317c7b_end
 
 Lietuvos Respublikos
 
@@ -7681,13 +7681,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 
-5. Kai nuosprendžiu nuteistajam paskiriama reali arešto arba laisvės atėmimo bausmė, teisiamojo posėdžio pirmininkas privalo išsiaiškinti, ar nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę ar jo pabėgimą iš laisvės atėmimo vietų įstaigos. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir jų skyrimo tvarką. Jeigu nukentėjusysis nedalyvavo teismo posėdyje, ši informacija turi būti išsiaiškinta per penkias dienas nuo nuosprendžio paskelbimo dienos. Išsiaiškinti nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma, taip pat jeigu toks pranešimas galėtų padaryti žalos nuteistajam. Jeigu nukentėjusiųjų yra daug, pakanka šią informaciją išsiaiškinti per jų interesams atstovaujantį asmenį (atstovaujančius asmenis). Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę ar jo pabėgimą iš laisvės atėmimo vietų įstaigos, teisiamojo posėdžio pirmininkas surašo pažymą. Įsiteisėjus nuosprendžiui, ši pažyma kartu su nuosprendžio nuorašu šio Kodekso 342 straipsnyje nustatyta tvarka išsiunčiama bausmės vykdymo institucijai. Nuteistajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
+5. Kai nuosprendžiu nuteistajam paskiriama reali arešto arba laisvės atėmimo bausmė, teisiamojo posėdžio pirmininkas privalo išsiaiškinti, ar nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę, nuteistojo perkėlimą į atviro tipo bausmės atlikimo vietą, taip pat apie Bausmių vykdymo kodekso 67, 68, 69 straipsniuose numatytą nuteistojo, atliekančio bausmę pusiau atviro ar uždaro tipo bausmės atlikimo vietoje, išvykimą iš bausmės atlikimo vietos be palydos ar jo pabėgimą iš laisvės atėmimo vietų įstaigos. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir jų skyrimo tvarką. Jeigu nukentėjusysis nedalyvavo teismo posėdyje, ši informacija turi būti išsiaiškinta per penkias dienas nuo nuosprendžio paskelbimo dienos. Išsiaiškinti nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma, taip pat jeigu toks pranešimas galėtų padaryti žalos nuteistajam. Jeigu nukentėjusiųjų yra daug, pakanka šią informaciją išsiaiškinti per jų interesams atstovaujantį asmenį (atstovaujančius asmenis). Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę, jo perkėlimą į atviro tipo bausmės atlikimo vietą, taip pat apie Bausmių vykdymo kodekso 67, 68, 69 straipsniuose numatytą nuteistojo, atliekančio bausmę pusiau atviro ar uždaro tipo bausmės atlikimo vietoje, išvykimą iš bausmės atlikimo vietos be palydos ar jo pabėgimą iš laisvės atėmimo vietų įstaigos, teisiamojo posėdžio pirmininkas surašo pažymą. Įsiteisėjus nuosprendžiui, ši pažyma kartu su nuosprendžio nuorašu šio Kodekso 342 straipsnyje nustatyta tvarka išsiunčiama bausmės vykdymo institucijai. Nuteistajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 
 Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+
+Nr. XIV-1903, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08469
 
 Straipsnio pakeitimai:
 
