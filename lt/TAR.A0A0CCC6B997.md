@@ -4,7 +4,7 @@ identifier: "TAR.A0A0CCC6B997"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-27"
-last_updated: "2023-01-01"
+last_updated: "2023-05-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0A0CCC6B997"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Lietuvos Respublikos bausmių vykdymo kodeksas įsigalioja 2003-05-01."
 
 PATVIRTINTAS
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-05-04
+Suvestinė redakcija nuo 2023-05-05 iki 2024-05-13
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
 
@@ -981,9 +981,15 @@ BAUSMĖS VYKDYMO PABAIGA
 
 4. Kai paleidžiamas laisvės atėmimo bausmę atlikęs asmuo, kuriam reikalinga socialinė pagalba, laisvės atėmimo vietų įstaiga socialinės apsaugos ir darbo ministro ir teisingumo ministro nustatyta tvarka bendradarbiauja su savivaldybės, kurioje paleidžiamas asmuo planuoja gyventi, administracija, kitomis įstaigomis ir organizacijomis bei patikimais savanoriais, kad paleistam asmeniui galėtų būti laiku suteikta socialinė ir kita reikalinga pagalba. Šiam tikslui įgyvendinti laisvės atėmimo vietų įstaiga privalo savivaldybės, kurios teritorijoje nuteistasis planuoja gyventi išėjęs į laisvę, administracijai, kitoms įstaigoms ir organizacijoms bei patikimiems savanoriams iš anksto pateikti informaciją apie nuteistojo, kurį planuojama paleisti, įgyvendintas resocializacijos priemones ir jų tęstinumo poreikį, reikalingą socialinę pagalbą ir sveikatos priežiūros paslaugas, taip pat kitą informaciją, reikalingą kitai pagalbai paleidžiamam asmeniui organizuoti.
 
-96 straipsnis. Pranešimas nukentėjusiajam apie nuteistojo paleidimą iš laisvės atėmimo vietų įstaigos
+96 straipsnis. Pranešimas nukentėjusiajam apie nuteistąjį
 
-Jeigu laisvės atėmimo vietų įstaiga yra gavusi pažymą, kad nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę ar jo pabėgimą iš laisvės atėmimo vietų įstaigos, ji privalo apie tai nukentėjusiajam pranešti. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios jam gali būti taikomos, ir šių priemonių skyrimo tvarką. Nukentėjusiajam apie nuteistojo paleidimą į laisvę pranešama ne vėliau kaip likus trims dienoms iki šio paleidimo dienos. Tais atvejais, kai nuteistasis iš laisvės atėmimo vietų įstaigos turi būti paleidžiamas tuoj pat po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl nuteistojo paleidimo į laisvę, taip pat kai nuteistasis pabėga iš laisvės atėmimo vietų įstaigos, nukentėjusiajam pranešama iš karto, kai tik nuteistasis paleidžiamas į laisvę arba kai jis pabėga iš laisvės atėmimo vietų įstaigos.
+1. Jeigu laisvės atėmimo vietų įstaiga yra gavusi pažymą, kad nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę, nuteistojo perkėlimą į atviro tipo bausmės atlikimo vietą, taip pat apie šio kodekso 67, 68, 69 straipsniuose numatytą nuteistojo, atliekančio bausmę pusiau atviro ar uždaro tipo bausmės atlikimo vietoje, išvykimą iš bausmės atlikimo vietos be palydos ar jo pabėgimą iš laisvės atėmimo vietų įstaigos, ji privalo apie tai nukentėjusiajam pranešti. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios jam gali būti taikomos, ir šių priemonių skyrimo tvarką.
+
+2. Nukentėjusiajam apie nuteistojo paleidimą į laisvę pranešama ne vėliau kaip likus trims dienoms iki šio paleidimo dienos. Tais atvejais, kai nuteistasis turi būti iš laisvės atėmimo vietų įstaigos paleidžiamas tuoj pat po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl nuteistojo paleidimo į laisvę, taip pat kai nuteistasis pabėga iš laisvės atėmimo vietų įstaigos, nukentėjusiajam pranešama iš karto, kai tik nuteistasis paleidžiamas į laisvę arba kai jis pabėga iš laisvės atėmimo vietų įstaigos. Nukentėjusiajam apie nuteistojo perkėlimą į atviro tipo bausmės atlikimo vietą ir šio kodekso 67, 68, 69 straipsniuose numatytą išvykimą iš bausmės atlikimo vietos pranešama tą pačią dieną, kai priimamas sprendimas perkelti nuteistąjį į atviro tipo bausmės atlikimo vietą arba nuteistasis įgyja teisę išvykti iš bausmės atlikimo vietos.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1902, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08468
 
 XI SKYRIUS
 
@@ -1002,8 +1008,6 @@ BAUSMĖS ATLIKIMO METU VALSTYBEI IR KITIEMS ASMENIMS PADARYTOS TURTINĖS ŽALOS 
 3. Baudos, juridinio asmens veiklos apribojimo ir juridinio asmens likvidavimo bausmes vykdančių antstolių veiksmai ir sprendimai skundžiami antstolio veiklos teritorijos apylinkės teismui Civilinio proceso kodekso nustatyta tvarka.
 
 4. Lietuvos Respublikos įstatymų nustatytais atvejais ir tvarka bausmių vykdymo sistemos pareigūnų, taip pat antstolių veiksmai ir sprendimai gali būti skundžiami Seimo kontrolieriams arba kitoms valstybės institucijoms.
-
-part_8e95f6bf6df04c3e84b3aab7f3a44e5d_end
 
 Lietuvos Respublikos
 
@@ -1260,6 +1264,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1771, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27431
 
 Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymo Nr. XIV-1196 1 straipsnio pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1902, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08468
+
+Lietuvos Respublikos bausmių vykdymo kodekso 96 straipsnio pakeitimo įstatymas
 
 109 straipsnis. Nuteistųjų užsieniečių teisė palaikyti ryšius su savo valstybių atstovais
 
