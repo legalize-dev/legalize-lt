@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2022-11-10"
+last_updated: "2023-05-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2022-11-10 iki 2023-05-05
+Suvestinė redakcija nuo 2023-05-06 iki 2023-11-09
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -1438,7 +1438,11 @@ FINANSŲ RINKOS POLITIKOS FORMAVIMO PATARIAMOJI KOMISIJA
 
 3) Lietuvos banko valdybos pirmininkas;
 
-4) Lietuvos banko už finansų rinkos priežiūrą atsakingo padalinio vadovas.
+4) Lietuvos banko valdybos narys, kuruojantis finansų rinkos priežiūros sritį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1894, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08613
 
 3. Komisijos sprendimu, nagrinėjant atitinkamus Komisijos posėdžių darbotvarkės klausimus, patariamojo balso teise gali būti kviečiami posėdžiuose dalyvauti asocijuotų verslo struktūrų atstovai.
 
@@ -1928,7 +1932,15 @@ Nr. XIV-1492, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22680
 
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 3, 4, 7, 9, 10, 14, 16, 19, 20, 26 straipsnių ir priedo pakeitimo įstatymo Nr. XIV-828 13 straipsnio pakeitimo įstatymas
 
-part_156179abf68f4aeda47653ca4a237c01_end
+32.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1894, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08613
+
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 48 straipsnio pakeitimo įstatymas
+
+part_efbc8fbea32a4d3ebcc9c79d3eb9c3fe_end
 
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
