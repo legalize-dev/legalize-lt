@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2023-03-01"
+last_updated: "2023-05-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-03-01 iki 2023-05-05
+Suvestinė redakcija nuo 2023-05-06 iki 2023-05-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -2914,7 +2914,7 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 6) jeigu elektros energija tiekiama buitiniams vartotojams, skelbti savo interneto svetainėje informaciją apie turimą prievolių įvykdymo užtikrinimo sumą ir šios sumos pokyčius;
 
-7) ne vėliau kaip per 2 darbo dienas pranešti Tarybai apie įsiteisėjusią teismo nutartį iškelti bankroto bylą ar apie priimtą kreditorių susirinkimo nutarimą dėl bankroto procedūros atlikimo ne teismo tvarka.
+7) ne vėliau kaip per 2 darbo dienas pranešti Tarybai apie įsiteisėjusią teismo nutartį iškelti bankroto bylą ar apie priimtą kreditorių susirinkimo nutarimą dėl bankroto procedūros atlikimo ne teismo tvarka;
 
 Papildyta straipsnio dalimi:
 
@@ -3135,6 +3135,12 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+
+31. Nepriklausomas tiekėjas turi teisę vienašališkai mažinti elektros energijos tiekimo kainą buitiniams vartotojams. Apie šį ketinimą buitiniai vartotojai turi būti informuojami raštu ir (ar) elektroninių ryšių priemonėmis. Šiuo atveju šio straipsnio 3 dalies nuostatos netaikomos, išskyrus atvejus, kai kartu yra keičiamos kitos sutarties sąlygos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1914, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08618
 
 4. Tiekėjai ir elektros tinklų operatoriai sudaro tinkamas ir pakankamas sąlygas vartotojų prieigai prie informacijos ir duomenų apie mokėjimus už jiems patiektą elektros energiją ir (ar) su elektros energijos tiekimu ir persiuntimu susijusias paslaugas. Tinkamomis ir pakankamomis prieigos priemonėmis laikoma elektroninės ar popierinės sąskaitos pateikimas vartotojui arba elektroninė prieiga prie vartotojo mokėjimo duomenų ar kitos pagrįstos priemonės. Jeigu vartotojas pageidauja gauti popierines sąskaitas, tiekėjai ir tinklų operatoriai neturi teisės vartotojui taikyti tokios sąskaitos pateikimo mokesčio. Tiekėjai ir (ar) elektros tinklų operatoriai be papildomo mokesčio vartotojams pateikdami elektroninę ar popierinę sąskaitą ar suteikdami elektroninę prieigą prie informacijos ir duomenų apie mokėjimus už jiems patiektą elektros energiją:
 
