@@ -4,7 +4,7 @@ identifier: "TAR.AF085ECC469E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-06-12"
-last_updated: "2021-05-01"
+last_updated: "2023-05-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF085ECC469E"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS ELEKTROS ENERGETIKOS SISTEMOS INTEGRACIJOS Į
 
 EUROPOS ELEKTROS ENERGETIKOS SISTEMAS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2021-05-01 iki 2023-05-05
+Suvestinė redakcija nuo 2023-05-06 iki 2023-06-27
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 68-3465, i. k. 1121010ISTA0XI-2052
 
@@ -47,9 +47,9 @@ atsižvelgdamas į Baltijos šalių, Lenkijos Respublikos ir Europos Komisijos 2
 
 pripažindamas Lietuvos Respublikos energetinę nepriklausomybę strateginiu valstybės tikslu, kurį elektros energetikos sektoriuje galima pasiekti tik Lietuvos Respublikos elektros energetikos sistemą integravus į Europos elektros energetikos sistemas;
 
-atsižvelgdamas į tai, kad tinkamai įgyvendinti 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003 (OL 2009 L 211, p. 15), 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvos 2009/72/EB dėl elektros energijos vidaus rinkos bendrųjų taisyklių, panaikinančios Direktyvą 2003/54/EB (OL 2009 L 211, p. 55), ir 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1) reikalavimus Europos Sąjungos valstybių narių elektros energetikos sistemų ir elektros energijos rinkų organizavimui ir integracijai galima tik sujungus Lietuvos Respublikos elektros energetikos sistemą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu;
+atsižvelgdamas į tai, kad tinkamai įgyvendinti 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentą (ES) 2019/943 dėl elektros energijos vidaus rinkos, 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyvą (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES, ir 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo reikalavimus Europos Sąjungos valstybių narių elektros energetikos sistemų ir elektros energijos rinkų organizavimui ir integracijai galima tik sujungus Lietuvos Respublikos elektros energetikos sistemą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu;
 
-atsižvelgdamas į Baltijos energijos rinkos jungčių planą (BEMIP), kuriame Baltijos šalių elektros energetikos sistemų sujungimas su Europos elektros tinklais darbui sinchroniniu režimu iki 2025 m. yra pripažintas vienu iš esminių tikslų;
+atsižvelgdamas į Baltijos energijos rinkos jungčių planą (BEMIP), kuriame Baltijos šalių elektros energetikos sistemų sujungimas su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu iki 2025 m. yra pripažintas vienu iš esminių tikslų;
 
 atsižvelgdamas į Baltijos energijos rinkos jungčių plano (BEMIP) aukšto lygio grupės (BEMIP HLG) 2018 m. rugsėjo 14 d. priimtą sprendimą dėl elektros energetikos sistemų sinchronizacijos su kontinentinės Europos tinklais scenarijaus įgyvendinimo;
 
@@ -63,11 +63,15 @@ siekdamas užtikrinti Lietuvos Respublikos nacionalinį saugumą ir elektros ene
 
 siekdamas sisteminio ir koordinuoto visų elektros energetikos projektų, užtikrinančių Lietuvos Respublikos energetikos sistemos sujungimą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, įgyvendinimo;
 
-siekdamas visa apimtimi įgyvendinti tiesiogiai taikomas ir perdavimo sistemos operatoriui privalomas Europos Sąjungos tinklo kodeksų nuostatas;
+siekdamas visa apimtimi įgyvendinti tiesiogiai taikomas ir perdavimo sistemos operatoriui privalomas Europos Sąjungos tinklo kodeksų nuostatas ir efektyviai išnaudoti elektros energijos kaupimo įrenginių sistemą perdavimo sistemos operatoriaus technologinių nuostolių sąnaudų mažinimui ir kitoms elektros energetikos sistemos saugumui užtikrinti būtinoms su dažnio reguliavimu nesusijusioms papildomoms paslaugoms, kuriomis siekiama įgyvendinti šio įstatymo tikslus, teikti, jeigu perdavimo sistemos operatorius neturi galimybės tokių paslaugų įsigyti iš elektros energijos rinkos dalyvių;
 
-siekdamas visų susijusių šalies ūkio subjektų bendradarbiavimo ir įsitraukimo vykdant elektros energetikos sistemos sinchronizacijos projektą,
+siekdamas visų susijusių šalies ūkio subjektų bendradarbiavimo ir įsitraukimo vykdant elektros energetikos sistemos sinchronizacijos projektą;
 
 priima Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymą.
+
+Preambulės pakeitimai:
+
+Nr. XIV-1913, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08617
 
 1 straipsnis. Įstatymo paskirtis
 
@@ -83,11 +87,15 @@ priima Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinent
 
 4. Elektros energetikos sistemos sinchronizacijos projekto inžinerinės infrastruktūros vystymo planai – specialiojo teritorijų planavimo dokumentai, kuriuose nustatomos elektros energetikos sistemos sinchronizacijai įgyvendinti reikalingos elektros tinklų inžinerinės infrastruktūros plėtros kryptys, numatomos jų plėtrai reikalingos teritorijos ir planuojamų teritorijų naudojimo, tvarkymo ir (ar) apsaugos priemonės.
 
-41. Elektros energijos kaupimo įrenginių sistema – visuma vienoje teritorijoje ar skirtingose teritorijose įrengtų elektros energijos kaupimo įrenginių, kartu valdomų naudojant centralizuotą įrenginių valdymo sistemą ir skirtų izoliuoto elektros energetikos sistemos darbo rezervo užtikrinimo paslaugai teikti.
+41. Elektros energijos kaupimo įrenginių sistema – visuma vienoje teritorijoje ar skirtingose teritorijose įrengtų elektros energijos kaupimo įrenginių, kartu valdomų naudojant centralizuotą įrenginių valdymo sistemą ir skirtų izoliuoto elektros energetikos sistemos darbo rezervo užtikrinimo paslaugai teikti, perdavimo sistemos operatoriaus technologinių nuostolių sąnaudų mažinimo funkcijai atlikti ir kitoms elektros energetikos sistemos saugumui užtikrinti būtinoms su dažnio reguliavimu nesusijusioms papildomoms paslaugoms, kuriomis siekiama įgyvendinti šio įstatymo tikslus, teikti, jeigu perdavimo sistemos operatorius neturi galimybės tokių paslaugų įsigyti iš elektros energijos rinkos dalyvių.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-234, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07426
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1913, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08617
 
 5. Izoliuotas elektros energetikos sistemos darbas – elektros energetikos sistemos veikimas atskirai nuo kitų valstybių elektros energetikos sistemų, įskaitant nuo kontinentinės Europos elektros tinklų ir nuo IPS / UPS sistemos.
 
@@ -179,11 +187,11 @@ Siekiant laiku užtikrinti tinkamą Lietuvos Respublikos elektros energetikos si
 
 4) pasirengta izoliuotam Lietuvos Respublikos elektros energetikos sistemos darbui ir atliktas izoliuoto elektros energetikos sistemos darbo bandymas;
 
-5) įrengta elektros energijos kaupimo įrenginių sistema, skirta izoliuoto darbo rezervo paslaugai teikti.
+5) įrengta elektros energijos kaupimo įrenginių sistema, skirta izoliuoto darbo rezervo paslaugai teikti, perdavimo sistemos operatoriaus technologinių nuostolių sąnaudų mažinimo funkcijai atlikti ir kitoms elektros energetikos sistemos saugumui užtikrinti būtinoms su dažnio reguliavimu nesusijusioms papildomoms paslaugoms, kuriomis siekiama įgyvendinti šio įstatymo tikslus, teikti, jeigu perdavimo sistemos operatorius neturi galimybės tokių paslaugų įsigyti iš elektros energijos rinkos dalyvių.
 
-Papildyta straipsnio punktu:
+Straipsnio pakeitimai:
 
-Nr. XIV-234, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07426
+Nr. XIV-1913, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08617
 
 7 straipsnis. Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių planas
 
@@ -263,9 +271,11 @@ Nr. XIV-234, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07426
 
 3. Priemonių šio įstatymo 6 straipsnio 5 punkte nustatytai būtinajai sąlygai įgyvendinti įgyvendinimas finansuojamas paskirtojo kaupimo sistemos operatoriaus nuosavomis ir (ar) skolintomis lėšomis, ir (ar) Lietuvos Respublikos biudžeto asignavimais Lietuvos Respublikos biudžeto sandaros įstatyme nustatyta tvarka ir sąlygomis, ir (ar) Europos Sąjungos fondų lėšomis, gautomis subsidijomis, dotacijomis ar joms prilygintomis lėšomis.
 
-4. Visą šio įstatymo 61 straipsnio 4 dalyje nurodytą izoliuoto darbo rezervo paslaugos teikimo laikotarpį paskirtojo kaupimo sistemos operatoriaus patiriamos sąnaudos, įskaitant investicijų grąžą, Valstybinės energetikos reguliavimo tarybos nustatyta tvarka pripažįstamos ekonomiškai pagrįstomis paskirtojo kaupimo sistemos operatoriaus sąnaudomis ir įtraukiamos į reguliuojamų paslaugų kainas.
+4. Visą šio įstatymo 61 straipsnio 4 dalyje nurodytą izoliuoto darbo rezervo paslaugos teikimo, perdavimo sistemos operatoriaus technologinių nuostolių sąnaudų mažinimo funkcijos atlikimo ir kitų elektros energetikos sistemos saugumui užtikrinti būtinų su dažnio reguliavimu nesusijusių papildomų paslaugų, kuriomis siekiama įgyvendinti šio įstatymo tikslus, teikimo, jeigu perdavimo sistemos operatorius neturi galimybės tokių paslaugų įsigyti iš elektros energijos rinkos dalyvių, laikotarpį paskirtojo kaupimo sistemos operatoriaus patiriamos sąnaudos, įskaitant investicijų grąžą, Valstybinės energetikos reguliavimo tarybos nustatyta tvarka pripažįstamos ekonomiškai pagrįstomis paskirtojo kaupimo sistemos operatoriaus sąnaudomis ir įtraukiamos į reguliuojamų paslaugų kainas.
 
-TAR pastaba. 4 dalis įsigalioja 2021-09-01.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1913, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08617
 
 5. Laikotarpiu nuo šio įstatymo 61 straipsnio 5 dalyje numatyto Lietuvos Respublikos Vyriausybės nutarimo įsigaliojimo dienos iki paskirtojo sistemos operatoriaus valdomų elektros energijos kaupimo įrenginių perleidimo, numatyto šio įstatymo 61 straipsnio 6 dalyje, sandorio įsigaliojimo dienos paskirtojo kaupimo sistemos operatoriaus patirtos būtinosios elektros energijos kaupimo įrenginių techninio palaikymo ir saugos užtikrinimo sąnaudos Valstybinės energetikos reguliavimo tarybos nustatyta tvarka pripažįstamos ekonomiškai pagrįstomis paskirtojo kaupimo sistemos operatoriaus sąnaudomis ir įtraukiamos į reguliuojamų paslaugų kainas.
 
@@ -287,13 +297,15 @@ Nr. XIV-234, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07426
 
 4. Įgyvendinant Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu tikslą, perdavimo sistemos operatorius, valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos pagal kompetenciją koordinuoja savo veiksmus su Latvijos Respublikos, Estijos Respublikos ir Lenkijos Respublikos elektros perdavimo sistemų operatoriais, institucijomis, įmonėmis, įstaigomis ir organizacijomis, Europos Komisija, Europos elektros perdavimo sistemos operatorių asociacija (ENTSO-E) ir Baltijos energijos rinkos jungčių plano (BEMIP) aukšto lygio grupe (BEMIP HLG), kad pagal poreikį būtų bendrai priimami suderinti sprendimai, reikalingi šiam tikslui pasiekti.
 
-41. Įgyvendindamas elektros energetikos sistemos sinchronizacijos projektą ir siekdamas laiku užtikrinti tinkamą Lietuvos Respublikos elektros energetikos sistemos desinchronizaciją nuo IPS / UPS sistemos, perdavimo sistemos operatorius bendradarbiauja su paskirtuoju kaupimo sistemos operatoriumi ir elektros energetikos sistemos sinchronizacijos projekto įgyvendinimo metu iki šio įstatymo 61 straipsnio 5 dalyje nurodyto Lietuvos Respublikos Vyriausybės nutarimo įsigaliojimo dienos naudojasi paskirtojo kaupimo sistemos operatoriaus teikiama izoliuoto darbo rezervo paslauga. Izoliuoto darbo rezervo paslaugos kaina reguliuojama Lietuvos Respublikos elektros energetikos įstatyme ir Valstybinės energetikos reguliavimo tarybos nustatyta tvarka ir sąlygomis. Perdavimo sistemos operatoriaus ir paskirtojo kaupimo sistemos operatoriaus tarpusavio santykiai reguliuojami izoliuoto darbo rezervo paslaugos sutartimi, kurios projektą parengia perdavimo sistemos operatorius, bendradarbiaudamas su paskirtuoju kaupimo sistemos operatoriumi, ir suderina su Valstybine energetikos reguliavimo taryba.
-
-TAR pastaba. Papildymas 4 dalimi įsigalioja 2021-09-01.
+41. Įgyvendindamas elektros energetikos sistemos sinchronizacijos projektą ir siekdamas laiku užtikrinti tinkamą Lietuvos Respublikos elektros energetikos sistemos desinchronizaciją nuo IPS / UPS sistemos, perdavimo sistemos operatorius bendradarbiauja su paskirtuoju kaupimo sistemos operatoriumi ir elektros energetikos sistemos sinchronizacijos projekto įgyvendinimo metu iki šio įstatymo 61 straipsnio 5 dalyje nurodyto Lietuvos Respublikos Vyriausybės nutarimo įsigaliojimo dienos naudojasi paskirtojo kaupimo sistemos operatoriaus teikiama izoliuoto darbo rezervo paslauga, perdavimo sistemos operatoriaus technologinių nuostolių sąnaudų mažinimo funkcijos atlikimu ir kitomis elektros energetikos sistemos saugumui užtikrinti būtinomis su dažnio reguliavimu nesusijusiomis papildomomis paslaugomis, kuriomis siekiama įgyvendinti šio įstatymo tikslus, jeigu perdavimo sistemos operatorius neturi galimybės tokių paslaugų įsigyti iš elektros energijos rinkos dalyvių. Izoliuoto darbo rezervo paslaugos kaina reguliuojama Lietuvos Respublikos elektros energetikos įstatyme ir Valstybinės energetikos reguliavimo tarybos nustatyta tvarka ir sąlygomis. Perdavimo sistemos operatoriaus ir paskirtojo kaupimo sistemos operatoriaus tarpusavio santykiai reguliuojami izoliuoto darbo rezervo paslaugos sutartimi ir (ar) kitomis sutartimis, kurios (-ių) projektą (-us) parengia perdavimo sistemos operatorius, bendradarbiaudamas su paskirtuoju kaupimo sistemos operatoriumi, ir suderina su Valstybine energetikos reguliavimo taryba.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-234, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07426
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1913, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08617
 
 5. Lietuvos Respublikos Seimas atlieka Elektros energetikos sistemos sinchronizacijos projekto įgyvendinimo parlamentinę kontrolę Lietuvos Respublikos Seimo statuto ir kitų teisės aktų nustatyta tvarka ir sąlygomis.
 
@@ -335,6 +347,14 @@ Nr. XIV-234, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07426
 
 Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo Nr. XI-2052 2, 5, 6, 8, 12, 13, 13-1 straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1913, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08617
+
+Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo Nr. XI-2052 preambulės, 2, 6, 6-1, 12, 13 ir 13-1 straipsnių pakeitimo įstatymas
+
 131 straipsnis. Specialieji saugumo reikalavimai, taikomi elektros energetikos sistemos sinchronizacijos projektui
 
 1. Perdavimo sistemos operatorius, įgyvendindamas elektros energetikos sistemos sinchronizacijos projektą, užtikrina šiuos specialiuosius saugumo reikalavimus, kurių tinkamas įgyvendinimas yra būtinas siekiant apsaugoti esminius valstybės energetinio saugumo interesus ir strateginius tikslus energetikos sektoriuje, sujungiant Lietuvos Respublikos elektros energetikos sistemą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu:
@@ -351,11 +371,15 @@ Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės E
 
 2. Perdavimo sistemos operatorius, užtikrindamas šio straipsnio 1 dalyje nustatytus specialiuosius saugumo reikalavimus, taikomus elektros energetikos sistemos sinchronizacijos projektui, bendradarbiauja su atsakingomis valstybės institucijomis, kitais tinklų operatoriais ir kitais asmenimis.
 
-3. Paskirtasis kaupimo sistemos operatorius, įgyvendinamas šio įstatymo 6 straipsnio 5 punkte nustatytą būtinąją sąlygą ir teikdamas izoliuoto darbo rezervo paslaugą, užtikrina nacionalinio saugumo interesus Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka ir sąlygomis.
+3. Paskirtasis kaupimo sistemos operatorius, įgyvendinamas šio įstatymo 6 straipsnio 5 punkte nustatytą būtinąją sąlygą ir teikdamas izoliuoto darbo rezervo paslaugą, atlikdamas perdavimo sistemos operatoriaus technologinių nuostolių sąnaudų mažinimo funkciją ir teikdamas kitas elektros energetikos sistemos saugumui užtikrinti būtinas su dažnio reguliavimu nesusijusias papildomas paslaugas, kuriomis siekiama įgyvendinti šio įstatymo tikslus, jeigu perdavimo sistemos operatorius neturi galimybės tokių paslaugų įsigyti iš elektros energijos rinkos dalyvių, užtikrina nacionalinio saugumo interesus Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka ir sąlygomis.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-234, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07426
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1913, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08617
 
 Papildyta straipsniu:
 
@@ -379,9 +403,17 @@ Nr. XIII-3181, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15007
 
 3. Paskirtasis kaupimo sistemos operatorius privalo įrengti elektros energijos kaupimo įrenginių sistemą, vadovaudamasis Lietuvos Respublikos Vyriausybės nustatytais reikalavimais, įskaitant privalomus reikalavimus dėl tokią sistemą sudarančių energijos kaupimo įrenginių vienetinės ir (ar) suminės galios ir jų įrengimo terminų. Elektros energijos kaupimo įrenginių sistema yra laikoma neatsiejama elektros energetikos sistemos sinchronizacijos projekto dalimi.
 
-4. Elektros energetikos sistemos sinchronizacijos projekto įgyvendinimo metu iki šio straipsnio 5 dalyje nurodyto Lietuvos Respublikos Vyriausybės nutarimo įsigaliojimo dienos paskirtasis kaupimo sistemos operatorius privalo teikti perdavimo sistemos operatoriui izoliuoto darbo rezervo paslaugą. Paskirtasis kaupimo sistemos operatorius neturi teisės vykdyti kitos energetikos veiklos, nesusijusios su izoliuoto darbo rezervo paslaugos teikimu.
+4. Elektros energetikos sistemos sinchronizacijos projekto įgyvendinimo metu iki šio straipsnio 5 dalyje nurodyto Lietuvos Respublikos Vyriausybės nutarimo įsigaliojimo dienos paskirtasis kaupimo sistemos operatorius privalo teikti perdavimo sistemos operatoriui izoliuoto darbo rezervo paslaugą, sudaryti galimybes perdavimo sistemos operatoriaus technologinių nuostolių sąnaudų mažinimo funkcijai atlikti ir kitoms elektros energetikos sistemos saugumui užtikrinti būtinoms su dažnio reguliavimu nesusijusioms papildomoms paslaugoms, kuriomis siekiama įgyvendinti šio įstatymo tikslus, teikti, jeigu perdavimo sistemos operatorius neturi galimybės tokių paslaugų įsigyti iš elektros energijos rinkos dalyvių.
 
-5. Izoliuoto darbo rezervo paslaugos teikimas nutraukiamas įsigaliojus Lietuvos Respublikos Vyriausybės nutarimui dėl paskirtojo kaupimo sistemos operatoriaus paskyrimo atšaukimo. Lietuvos Respublikos Vyriausybės nutarimas dėl paskirtojo kaupimo sistemos operatoriaus paskyrimo atšaukimo priimamas Lietuvos Respublikos energetikos ministerijos teikimu, kai baigiamas įgyvendinti elektros energetikos sistemos sinchronizacijos projektas ir Lietuvos Respublikos energetikos ministerija įvertina iš perdavimo sistemos operatoriaus gautą išvadą dėl elektros energetikos sistemos sinchronizacijos projekto pabaigos.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1913, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08617
+
+5. Izoliuoto darbo rezervo paslaugos teikimas, perdavimo sistemos operatoriaus technologinių nuostolių sąnaudų mažinimo funkcijos atlikimas ir kitų elektros energetikos sistemos saugumui užtikrinti būtinų su dažnio reguliavimu nesusijusių papildomų paslaugų, kuriomis siekiama įgyvendinti šio įstatymo tikslus, teikimas, jeigu perdavimo sistemos operatorius neturi galimybės tokių paslaugų įsigyti iš elektros energijos rinkos dalyvių, nutraukiamas įsigaliojus Lietuvos Respublikos Vyriausybės nutarimui dėl paskirtojo kaupimo sistemos operatoriaus paskyrimo atšaukimo. Lietuvos Respublikos Vyriausybės nutarimas dėl paskirtojo kaupimo sistemos operatoriaus paskyrimo atšaukimo priimamas Lietuvos Respublikos energetikos ministerijos teikimu, kai baigiamas įgyvendinti elektros energetikos sistemos sinchronizacijos projektas ir Lietuvos Respublikos energetikos ministerija įvertina iš perdavimo sistemos operatoriaus gautą išvadą dėl elektros energetikos sistemos sinchronizacijos projekto pabaigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1913, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08617
 
 6. Įsigaliojus šio straipsnio 5 dalyje numatytam Lietuvos Respublikos Vyriausybės nutarimui, paskirtasis kaupimo sistemos operatorius nevykdo energijos kaupimo veiklos ir neteikia elektros energijos kaupimo paslaugų, o savo valdomus elektros energijos kaupimo įrenginius visus kartu ar atskirai atviro, skaidraus ir nediskriminacinio konkurso būdu, kurio tvarką ir sąlygas nustato Lietuvos Respublikos energetikos ministerija, pasiūlo ir, gavęs konkurso dokumentuose išdėstytas sąlygas atitinkantį pasiūlymą (ar pasiūlymus), perleidžia asmenims, atitinkantiems nacionalinio saugumo interesus ir užtikrinantiems, kad perleidžiami elektros energijos kaupimo įrenginiai neribotą laikotarpį iki jų techninės eksploatacijos pabaigos veiks Lietuvos Respublikos elektros energetikos sistemoje.
 
