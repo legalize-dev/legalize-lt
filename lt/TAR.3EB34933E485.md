@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2023-05-01"
+last_updated: "2023-05-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-05-23
+Suvestinė redakcija nuo 2023-05-24 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -1977,13 +1977,15 @@ Papildyta straipsniu:
 
 Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
 
-7. Už administracinius nusižengimus Administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų administravimui ir išieškojimui tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 105 straipsnio 3 dalis, 106 straipsnio 2 dalis, 107 straipsnio 6 dalis, 113 straipsnio 2 ir 5 dalys ir mutatis mutandis yra taikytini šio Įstatymo 26 straipsnis (išskyrus 1 dalies 9 punktą), 84, 85 straipsniai, 87 straipsnio 1, 3, 4, 41 ir 5 dalys, 88 straipsnio 1, 2 ir 7 dalys, 108–112 straipsniai, 113 straipsnio 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius nusižengimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams.
+7. Už administracinius nusižengimus Administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų administravimui ir išieškojimui tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 105 straipsnio 3 dalis, 106 straipsnio 2 dalis, 107 straipsnio 6 dalis, 113 straipsnio 2 ir 5 dalys ir mutatis mutandis yra taikytini šio Įstatymo 26 straipsnis (išskyrus 1 dalies 9 punktą), 84, 85 straipsniai, 87 straipsnio 1, 3, 4, 41 ir 5 dalys, 88 straipsnio 1, 2 ir 7 dalys, 93 straipsnio 1 dalies 8 punktas, 108–112 straipsniai, 113 straipsnio 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius nusižengimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
+
+Nr. XIV-1948, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09689
 
 8. Pagal vykdomuosius dokumentus, kai pagal Civilinio proceso kodeksą vykdymo procese valstybei atstovauja Valstybinė mokesčių inspekcija, laiku nesumokėtų valstybės naudai išieškotinų sumų įskaitymui iki vykdomųjų dokumentų pateikimo vykdyti Civilinio proceso kodekso nustatyta tvarka mutatis mutandis taikoma šio Įstatymo 87 straipsnio 1 dalis.
 
