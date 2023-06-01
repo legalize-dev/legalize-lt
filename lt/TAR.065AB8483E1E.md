@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2023-05-01"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -1282,13 +1282,19 @@ Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
 
 5) kitais atvejais, kai tai numatyta radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane.
 
-13. Vyriausybės įgaliota institucija Komisijos teikimu tvirtina metinės įmokos už radijo ir (ar) televizijos programų transliavimo, retransliavimo, platinimo internete arba užsakomųjų audiovizualinės žiniasklaidos paslaugų teikimo veiklą (toliau – metinė įmoka) dydžio nustatymo tvarkos aprašą ir vadovaudamasi šiuo aprašu nustato metinės įmokos dydį. Metinės įmokos pervedamos Visuomenės informavimo etikos asociacijai.
+13. Komisija, suderinusi su Vyriausybės įgaliota institucija, tvirtina metinės įmokos už radijo ir (ar) televizijos programų transliavimo, retransliavimo, platinimo internete arba užsakomųjų audiovizualinės žiniasklaidos paslaugų teikimo veiklą (toliau – metinė įmoka) dydžio nustatymo tvarkos aprašą ir juo vadovaudamasi nustato metinės įmokos dydį. Metinės įmokos pervedamos Visuomenės informavimo etikos asociacijai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
-14. Vyriausybės įgaliota institucija metinės įmokos dydį nustato atsižvelgdama į:
+Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
+
+14. Komisija metinės įmokos dydį nustato atsižvelgdama į:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
 
 1) licencijos turėtojo transliuojamų ir (ar) retransliuojamų radijo ir (ar) televizijos programų, platinamų internete televizijos programų ir (ar) atskirų programų, užsakomųjų audiovizualinės žiniasklaidos paslaugų pobūdį ir turinį;
 
@@ -2010,9 +2016,17 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 3) šiame įstatyme ir Transliavimo veiklos ir retransliuojamo turinio licencijavimo taisyklėse nustatyta tvarka skelbia ir vykdo konkursus transliavimo licencijoms ir (ar) retransliuojamo turinio licencijoms gauti, nustato šių konkursų, licencijų ir leidimų sąlygas, išduoda licencijas, leidimus, keičia licencijų, leidimų sąlygas;
 
-4) teikia Vyriausybės įgaliotai institucijai tvirtinti metinės įmokos dydžio nustatymo tvarkos aprašą;
+4) suderinusi su Vyriausybės įgaliota institucija, tvirtina metinės įmokos dydžio nustatymo tvarkos aprašą;
 
-5) šiame įstatyme nustatytais atvejais, taip pat Komisijai pakeitus licencijoje (leidime) nustatytą licencijuojamos radijo ir (ar) televizijos programų transliavimo ar retransliavimo veiklos teritoriją ar gavus pranešimą apie nelicencijuojamos radijo ir (ar) televizijos programų transliavimo ar retransliavimo veiklos teritorijos pasikeitimą, kreipiasi į Vyriausybės įgaliotą instituciją dėl metinės įmokos dydžio nustatymo ir (ar) pakeitimo konkrečiam asmeniui;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
+
+5) šiame įstatyme nustatytais atvejais, taip pat Komisijai pakeitus licencijoje (leidime) nustatytą licencijuojamos radijo ir (ar) televizijos programų transliavimo ar retransliavimo veiklos teritoriją ar gavus pranešimą apie nelicencijuojamos radijo ir (ar) televizijos programų transliavimo ar retransliavimo veiklos teritorijos pasikeitimą, nustato metinę įmoką konkrečiam asmeniui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
 
 6) nustato užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų pranešimo registravimo tvarką;
 
@@ -2530,7 +2544,7 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
 
-part_4837436509184492bf535514e53367cc_end
+part_b86c6af2e7204f2faedc5bedab94bed7_end
 
 Pakeitimai:
 
@@ -3194,11 +3208,23 @@ aubodi@lrs.lt
 
 1. Visuomenės informavimo etikos asociacija (toliau – Asociacija) savo veikla siekia užtikrinti Kodekso nuostatų laikymąsi, visuomenės informavimo etikos principų puoselėjimą visuomenės informavimo veikloje ir ugdyti visuomenės sąmoningumą vertinant visuomenės informavimo procesus bei naudojantis viešąja informacija.
 
-2. Asociaciją sudaro organizacijos, kurios vienija viešosios informacijos rengėjus, skleidėjus ir žurnalistus ir kurių narių veiklai taikomos Kodekso normos: Lietuvos žurnalistų sąjunga, Lietuvos žurnalistų draugija, Interneto žiniasklaidos asociacija, Lietuvos radijo ir televizijos asociacija, Regioninių televizijų asociacija, Lietuvos kabelinės televizijos asociacija, Nacionalinė rajonų ir miestų laikraščių leidėjų asociacija. Nauji nariai į Asociaciją priimami Asociacijos įstatuose nustatyta tvarka.
+2. Asociacijos nariais gali būti viešosios informacijos rengėjus, skleidėjus, žurnalistus vienijančios organizacijos. Nariai į Asociaciją priimami Asociacijos įstatuose nustatyta tvarka.
 
-3. Asociacija yra savarankiškas juridinis asmuo – asociacija, įsteigta šio straipsnio 2 dalyje išvardytų organizacijų. Ji turi antspaudą su savo pavadinimu ir sąskaitą banke.
+Straipsnio dalies pakeitimai:
 
-4. Asociacija savo veikloje vadovaujasi Konstitucija, Lietuvos Respublikos asociacijų įstatymu, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis bei kitais teisės aktais.
+Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
+
+3. Neteko galios nuo 2023-06-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
+
+4. Asociacija savo veikloje vadovaujasi Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, Lietuvos Respublikos asociacijų įstatymu, kuris taikomas tiek, kiek to nereglamentuoja šis įstatymas, Asociacijos įstatais ir kitais teisės aktais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
 
 5. Asociacijos veikla finansuojama iš:
 
@@ -3470,7 +3496,11 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 1. Visuomenės informavimo etikos komisija (toliau šiame straipsnyje – Komisija) – kolegialus Asociacijos sprendimus pagal šio straipsnio 3 dalyje numatytą kompetenciją priimantis organas.
 
-2. Komisijos kadencija trunka 3 metus. Asociacijos nariai deleguoja po vieną savo atstovą į Komisiją. Komisijos nariu gali būti tik aukštąjį universitetinį išsilavinimą ir 5 metų veiklos patirtį visuomenės informavimo srityje turintis asmuo. Komisija išsirenka iš savo narių kadencijos laikotarpiui Komisijos pirmininką.
+2. Komisijos nariai skiriami 3 metų kadencijai ir jais gali būti ne ilgiau kaip dvi kadencijas iš eilės. Po vieną savo atstovą į Komisiją deleguoja Asociacijos nariai, vieną atstovą – LRT, tris narius – Medijų taryba. Kandidatus Medijų tarybai teikia universitetai, vykdantys žurnalistikos studijų programą. Komisijos nariu gali būti aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip 5 metų žurnalistinio, teisinio ar su žiniasklaidos veikla susijusio darbo patirtį turintis asmuo. Komisija iš savo narių kadencijos laikotarpiui išsirenka Komisijos pirmininką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
 
 3. Komisija atlieka šias funkcijas:
 
@@ -3488,7 +3518,11 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 5. Komisija savo veikloje vadovaujasi Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais teisės aktais, taip pat Kodeksu, Europos Tarybos Parlamentinės Asamblėjos rezoliucija „Dėl žurnalistinės etikos“.
 
-6. Komisija dirba pagal Komisijos patvirtintą darbo reglamentą. Komisija, priimdama sprendimus, turi teisę pasitelkti nepriklausomų ekspertų. Komisijos sprendimai dėl profesinės etikos ar kitų pažeidimų turi būti skelbiami nedelsiant tose pačiose visuomenės informavimo priemonėse, kuriose Komisija nustatė šiuos pažeidimus, ir šio įstatymo 44 straipsnyje nustatyta paneigimo paskelbimo tvarka. Jeigu viešosios informacijos rengėjas ir (ar) skleidėjas per dvi savaites nepaskelbia Komisijos sprendimo dėl profesinės etikos ar kitų pažeidimų savo visuomenės informavimo priemonėje, Komisijos sprendimas dėl profesinės etikos ar kitų pažeidimų paskelbiamas per Lietuvos nacionalinio radijo pirmąją programą, o tokio sprendimo paskelbimo išlaidas apmoka viešosios informacijos rengėjas ir (ar) skleidėjas, dėl kurio toks sprendimas buvo priimtas. Šis sprendimas taip pat paskelbiamas Asociacijos interneto svetainėje.
+6. Komisija dirba pagal Komisijos patvirtintą darbo reglamentą. Komisija, priimdama sprendimus, turi teisę pasitelkti nepriklausomų ekspertų. Komisijos sprendimai dėl profesinės etikos ar kitų pažeidimų turi būti skelbiami nedelsiant tose pačiose visuomenės informavimo priemonėse, kuriose Komisija nustatė šiuos pažeidimus, ir šio įstatymo 44 straipsnyje nustatyta paneigimo paskelbimo tvarka. Šie sprendimai taip pat skelbiami Asociacijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
 
 7. Viešosios informacijos rengėjai ar skleidėjai, nesutinkantys su Komisijos sprendimais, gali dėl jų kreiptis į Vilniaus apygardos administracinį teismą, tačiau vis tiek privalo juos paskelbti šio straipsnio 6 dalyje nustatyta tvarka.
 
