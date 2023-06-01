@@ -4,7 +4,7 @@ identifier: "TAR.F628061443C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-02"
-last_updated: "2022-01-28"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F628061443C6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 46 straipsnis įsigalioja 2010-12-09.
 
 LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-01-28 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-11-30
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
 
@@ -565,6 +565,12 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
+10) jeigu asmuo, kuris Lietuvos Respublikos pilietybę įgijo išimties tvarka, būdamas ir kitos valstybės pilietis, savo veiksmais kelia grėsmę Lietuvos Respublikos saugumo interesams, viešai reiškia palaikymą valstybei, keliančiai grėsmę Lietuvos Respublikos ir (ar) kitų Europos Sąjungos valstybių narių ir (ar) jų sąjungininkų saugumo interesams.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
+
 25 straipsnis. Lietuvos Respublikos piliečio teisė atsisakyti pilietybės
 
 1. Lietuvos Respublikos piliečio teisė atsisakyti pilietybės negali būti varžoma, išskyrus šiame straipsnyje numatytus atvejus.
@@ -659,6 +665,12 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
+6) priima sprendimus dėl išimties tvarka suteiktos Lietuvos Respublikos pilietybės netekimo šio įstatymo 24 straipsnio 10 punkte nustatytu pagrindu.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
+
 2. Spręsdamas šio straipsnio 1 dalyje nurodytus klausimus, Respublikos Prezidentas leidžia aktus – dekretus.
 
 31 straipsnis. Pilietybės reikalų komisija
@@ -677,11 +689,21 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
-3) raštu praneša pareiškėjams, kurių prašymai dėl pilietybės suteikimo, grąžinimo ar išsaugojimo netenkinami, ir nurodo atsisakymo tenkinti prašymą motyvus.
+3) preliminariai nagrinėja vidaus reikalų ministro kreipimąsi dėl sprendimo dėl išimties tvarka suteiktos Lietuvos Respublikos pilietybės netekimo šio įstatymo 24 straipsnio 10 punkte nustatytu pagrindu priėmimo ir teikia Respublikos Prezidentui siūlymus šiuo klausimu. Asmuo, dėl kurio yra gautas vidaus reikalų ministro kreipimasis, ir (ar) jam atstovaujantis advokatas Pilietybės reikalų komisijos posėdyje turi teisę teikti paaiškinimus dėl šio įstatymo 24 straipsnio 10 punkte nurodytų aplinkybių;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
+
+4) raštu praneša pareiškėjams, kurių prašymai dėl pilietybės suteikimo, grąžinimo ar išsaugojimo netenkinami, ir nurodo atsisakymo tenkinti prašymą motyvus.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
 
 4. Pilietybės reikalų komisijos siūlymai Respublikos Prezidento nesaisto.
 
@@ -689,11 +711,13 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 Vidaus reikalų ministras:
 
-1) pasirašo Respublikos Prezidento dekretus dėl Lietuvos Respublikos pilietybės suteikimo, išsaugojimo ir grąžinimo;
+1) pasirašo Respublikos Prezidento dekretus dėl Lietuvos Respublikos pilietybės suteikimo, išsaugojimo, grąžinimo, taip pat Respublikos Prezidento dekretus dėl išimties tvarka suteiktos Lietuvos Respublikos pilietybės netekimo šio įstatymo 24 straipsnio 10 punkte nustatytu pagrindu;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
 
 2) priima sprendimus dėl Lietuvos Respublikos pilietybės atkūrimo;
 
@@ -703,9 +727,23 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
 
-4) kreipiasi į Vilniaus apygardos administracinį teismą dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta ar grąžinta, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus;
+4) kreipiasi į Vilniaus apygardos administracinį teismą dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta, grąžinta ar išsaugota, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus;
 
-5) priima asmenų, kuriems suteikta ar grąžinta Lietuvos Respublikos pilietybė, priesaiką Lietuvos Respublikai. Šių asmenų priesaiką Lietuvos Respublikai gali priimti ir vidaus reikalų ministro įgaliotas viceministras.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
+
+5) kreipiasi į Respublikos Prezidentą dėl sprendimo dėl išimties tvarka suteiktos Lietuvos Respublikos pilietybės netekimo šio įstatymo 24 straipsnio 10 punkte nustatytu pagrindu priėmimo, gavęs atitinkamą informaciją iš kompetentingų valstybės institucijų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
+
+6) priima asmenų, kuriems suteikta ar grąžinta Lietuvos Respublikos pilietybė, priesaiką Lietuvos Respublikai. Šių asmenų priesaiką Lietuvos Respublikai gali priimti ir vidaus reikalų ministro įgaliotas viceministras.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
 
 33 straipsnis. Lietuvos Respublikos Vyriausybės įgaliota institucija
 
@@ -727,7 +765,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
-5) nagrinėja klausimus ir dokumentus dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta ar grąžinta, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus, ir teikia vidaus reikalų ministrui siūlymus kreiptis į Vilniaus apygardos administracinį teismą šiais klausimais;
+5) nagrinėja klausimus ir dokumentus dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta, grąžinta ar išsaugota, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus, ir teikia vidaus reikalų ministrui siūlymus kreiptis į Vilniaus apygardos administracinį teismą šiais klausimais, taip pat vidaus reikalų ministro pavedimu rengia dokumentus dėl suteiktos išimties tvarka Lietuvos Respublikos pilietybės netekimo šio įstatymo 24 straipsnio 10 punkte nustatytu pagrindu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
 
 6) raštu praneša pareiškėjams, kurių prašymai dėl Lietuvos Respublikos pilietybės atkūrimo netenkinami, ir nurodo atsisakymo tenkinti prašymą motyvus;
 
@@ -757,13 +799,15 @@ Valstybės ir savivaldybių institucijos ir įstaigos pagal savo kompetenciją p
 
 36 straipsnis. Sprendimų dėl Lietuvos Respublikos pilietybės skelbimas
 
-Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo, Lietuvos Respublikos pilietybės išsaugojimo ir Lietuvos Respublikos pilietybės grąžinimo, vidaus reikalų ministro įsakymai dėl Lietuvos Respublikos pilietybės atkūrimo ir Lietuvos Respublikos pilietybės netekimo, taip pat galutiniai ir neskundžiami administracinių teismų sprendimai dėl Lietuvos Respublikos pilietybės netekimo įstatymų nustatyta tvarka skelbiami Teisės aktų registre.
+Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo, Lietuvos Respublikos pilietybės išsaugojimo, Lietuvos Respublikos pilietybės grąžinimo ir suteiktos išimties tvarka Lietuvos Respublikos pilietybės netekimo šio įstatymo 24 straipsnio 10 punkte nustatytu pagrindu, vidaus reikalų ministro įsakymai dėl Lietuvos Respublikos pilietybės atkūrimo ir Lietuvos Respublikos pilietybės netekimo, taip pat galutiniai ir neskundžiami administracinių teismų sprendimai dėl Lietuvos Respublikos pilietybės netekimo įstatymų nustatyta tvarka skelbiami Teisės aktų registre.
 
 Straipsnio pakeitimai:
 
 Nr. XI-2333, 2012-11-06, Žin., 2012, Nr. 132-6661 (2012-11-15), i. k. 1121010ISTA0XI-2333
 
 Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
 
 VII SKYRIUS
 
@@ -1172,6 +1216,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-925, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01291
 
 Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
+
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 24, 30, 31, 32, 33 ir 36 straipsnių pakeitimo įstatymas
 
 91 straipsnis. Lietuvos Respublikos pilietybės išsaugojimas
 
