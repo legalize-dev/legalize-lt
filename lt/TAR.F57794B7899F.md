@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2023-05-06"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-05-06 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -2916,6 +2916,12 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 7) ne vėliau kaip per 2 darbo dienas pranešti Tarybai apie įsiteisėjusią teismo nutartį iškelti bankroto bylą ar apie priimtą kreditorių susirinkimo nutarimą dėl bankroto procedūros atlikimo ne teismo tvarka;
 
+8) siūlyti buitiniams vartotojams 12 ir 24 mėnesių elektros energijos tiekimo fiksuotos kainos sutartis. Nepriklausomas tiekėjas taip pat gali siūlyti ir kitokios trukmės elektros energijos tiekimo fiksuotos kainos sutartis.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1914, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08618
+
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
@@ -2960,11 +2966,13 @@ Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 
 2. Vartotojas turi teisę vienašališkai nutraukti sutartį su nepriklausomu tiekėju sutartyje nustatyta tvarka ir sąlygomis, išskyrus šio straipsnio 3 dalyje numatytus atvejus. Vartotojas privalo ne vėliau kaip per vieną mėnesį nuo šio įstatymo 51 straipsnio 7 dalyje nurodytos galutinės (uždarymo) sąskaitos gavimo dienos visiškai atsiskaityti su nepriklausomu tiekėju už suvartotą elektros energiją ir (ar) suteiktas paslaugas.
 
-3. Buitiniai vartotojai, labai mažos įmonės ir mažos įmonės, kaip jos apibrėžtos Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, turi teisę vienašališkai neatlygintinai nutraukti elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su nepriklausomu tiekėju ir turi teisę neatlygintinai pakeisti nepriklausomą tiekėją. Buitiniai vartotojai, labai mažos įmonės ir mažos įmonės, kaip jos apibrėžtos Smulkiojo ir vidutinio verslo plėtros įstatyme, privalo apie elektros energijos pirkimo–pardavimo sutarties arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties nutraukimą raštu įspėti nepriklausomą tiekėją ne vėliau kaip prieš 2 savaites ir ne vėliau kaip per vieną mėnesį nuo šio įstatymo 51 straipsnio 7 dalyje nurodytos galutinės (uždarymo) sąskaitos gavimo dienos visiškai atsiskaityti su nepriklausomu tiekėju už suvartotą elektros energiją ir (ar) suteiktas paslaugas.
+3. Buitiniai vartotojai, labai mažos įmonės ir mažos įmonės, kaip jos apibrėžtos Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, turi teisę vienašališkai nutraukti elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su nepriklausomu tiekėju ir turi teisę pakeisti nepriklausomą tiekėją apie tai raštu įspėdami nepriklausomą tiekėją ne vėliau kaip prieš 2 savaites ir ne vėliau kaip per vieną mėnesį nuo šio įstatymo 51 straipsnio 7 dalyje nurodytos galutinės (uždarymo) sąskaitos gavimo dienos visiškai atsiskaitydami su nepriklausomu tiekėju už suvartotą elektros energiją ir (ar) suteiktas paslaugas. Elektros energijos pirkimo–pardavimo sutartyse arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartyse, sudarytose su buitiniais vartotojais, labai mažomis įmonėmis ir mažomis įmonėmis, kaip jos apibrėžtos Smulkiojo ir vidutinio verslo plėtros įstatyme, draudžiama numatyti sutarties nutraukimo, tiekėjo keitimo mokesčius ir (ar) netesybas, kurie būtų taikomi šioje dalyje nurodytiems vartotojams už vienašališką elektros energijos pirkimo–pardavimo sutarties arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties nutraukimą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-483, 2021-06-30, paskelbta TAR 2021-07-13, i. k. 2021-15833
+
+Nr. XIV-1914, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08618
 
 48 straipsnis. Elektros energijos apskaitos organizavimas ir išmaniųjų apskaitos sistemų diegimas
 
@@ -3197,6 +3205,12 @@ Nr. XIV-483, 2021-06-30, paskelbta TAR 2021-07-13, i. k. 2021-15833
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+
+71. Nepriklausomas tiekėjas buitiniam vartotojui kartu su sąskaita privalo pateikti informaciją apie sąskaitos išrašymo dieną šio įstatymo 521 straipsnyje nurodytoje nepriklausomų tiekėjų pasiūlymų palyginimo priemonėje šio nepriklausomo tiekėjo siūlomą mažiausią elektros energijos tiekimo kainą, taikomą buitinio vartotojo sutartyje pasirinktam elektros energijos tiekimo planui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1914, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08618
 
 8. Kai vartotojai aprūpinami elektros energija, kuria prekiaujama elektros biržoje ar kuri yra importuota iš asmenų, esančių ne valstybėje narėje, teikiant šio straipsnio 7 dalyje numatytą informaciją gali būti naudojami apibendrinti praėjusių metų biržos ar asmens, esančio ne valstybėje narėje, duomenys.
 
