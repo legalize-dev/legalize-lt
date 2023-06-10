@@ -4,7 +4,7 @@ identifier: "TAR.438A78A26F38"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-01-26"
-last_updated: "2020-07-01"
+last_updated: "2023-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2023-06-09
+Suvestinė redakcija nuo 2023-06-10 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
 
@@ -205,7 +205,11 @@ Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
 
 15 straipsnis. Respublikos Prezidento darbo užmokestis
 
-Respublikos Prezidento mėnesinis darbo užmokestis yra lygus Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos 55 baziniams dydžiams.
+Respublikos Prezidento darbo užmokestis yra 5,8 Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatyto pareiginės algos (atlyginimo) bazinio dydžio.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2014, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11593
 
 16 straipsnis. Respublikos Prezidento socialinės garantijos ligos atveju
 
@@ -476,4 +480,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2917, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10918
 
 Lietuvos Respublikos Prezidento įstatymo Nr. I-56 23 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2014, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11593
+
+Lietuvos Respublikos Prezidento įstatymo Nr. I-56 13 ir 15 straipsnių pakeitimo įstatymas
 
