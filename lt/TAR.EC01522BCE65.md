@@ -4,7 +4,7 @@ identifier: "TAR.EC01522BCE65"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "2023-01-01"
+last_updated: "2023-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-09
+Suvestinė redakcija nuo 2023-06-10 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
 
@@ -154,6 +154,12 @@ Nr. X-442, 2005-12-13, Žin., 2005, Nr. 149-5419 (2005-12-22), i. k. 1051010ISTA
 3. Šio straipsnio 1 dalies 4 punkte nustatytu atveju klausimą dėl Seimo kontrolieriaus įgaliojimų nutraukimo Seimas sprendžia tik tada, kai yra sveikatos apsaugos ministro sudarytos gydytojų komisijos išvada.
 
 4. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais Seimo kontrolierius eina pareigas tol, kol į jo vietą paskiriamas naujas Seimo kontrolierius.
+
+5. Šio straipsnio 1 dalies 1 punkte nustatytu atveju nutrūkus Seimo kontrolieriaus, kuris eina Seimo kontrolierių įstaigos vadovo pareigas, įgaliojimams, šis Seimo kontrolierius Seimo kontrolierių įstaigos vadovo pareigas eina tol, kol Seimo kontrolieriaus pareigas pradeda eiti naujai paskirtas Seimo kontrolierius.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
 
 10 straipsnis. Su Seimo kontrolieriaus pareigomis nesuderinama veikla
 
@@ -619,6 +625,14 @@ Nr. XIV-1227, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15593
 
 Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 19-1 straipsnio pakeitimo įstatymas
 
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
+
+Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 6, 7, 9, 10, 19, 22, 25, 28 straipsnių ir V skirsnio pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+
 30 straipsnis. Seimo kontrolierių darbo apmokėjimas ir garantijos
 
 1. Seimo kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Seimo kontrolierių įstaigos vadovas ar laikinai jį pavaduojantis kontrolierius gauna 10 procentų didesnį atlyginimą negu Seimo kontrolieriaus atlyginimas. Kiti priedai ar premijos Seimo kontrolieriams nemokami. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, Seimo kontrolieriams taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
@@ -792,4 +806,18 @@ Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010IS
 Papildyta straipsniu:
 
 Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
+
+91 straipsnis. Seimo kontrolieriaus pavadavimas ir laikinas pareigų ėjimas
+
+1. Kai Seimo kontrolierius atostogauja arba yra išvykęs į komandiruotę už Lietuvos Respublikos ribų ilgiau kaip vienai dienai arba yra laikinai nedarbingas ir dėl to laikinai negali eiti savo pareigų, jį pavaduoja kitas Seimo kontrolierius. Tuo atveju, kai laikinai negali eiti savo pareigų abu Seimo kontrolieriai, Seimo valdybos sprendimu juos pavaduoja Lietuvos Respublikos lygių galimybių kontrolierius arba Lietuvos Respublikos vaiko teisių apsaugos kontrolierius, kuriam pavedamos ir Seimo kontrolierių įstaigos vadovo pareigos.
+
+2. Kai Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo nustatyta tvarka Seimo kontrolierius nusišalina nuo tarnybinių pareigų atlikimo, Seimo valdybos sprendimu Seimo kontrolieriaus pareigas, nuo kurių atlikimo Seimo kontrolierius yra nusišalinęs, nusišalinimo laikotarpiu pavedama atlikti kitam Seimo kontrolieriui, o kai jis negali, – vaiko teisių apsaugos kontrolieriui arba lygių galimybių kontrolieriui. Ši dalis taikoma ir tais atvejais, kai Seimo kontrolierius nusišalina nuo Seimo kontrolierių įstaigos vadovo pareigų.
+
+3. Seimo kontrolieriaus įgaliojimams nutrūkus šio įstatymo 9 straipsnio 1 dalies  2–6 punktuose nustatytais atvejais, Seimo valdyba sprendimu paveda kitam Seimo kontrolieriui laikinai eiti to Seimo kontrolieriaus pareigas tol, kol bus paskirtas naujas Seimo kontrolierius.
+
+4. Šio įstatymo 9 straipsnio 1 dalies 2–6 punktuose nustatytais atvejais nutrūkus Seimo kontrolieriaus, kuris eina Seimo kontrolierių įstaigos vadovo pareigas, įgaliojimams arba šio įstatymo 9 straipsnio 5 dalyje nustatytu atveju paskyrus naują Seimo kontrolierių, Seimo valdybos sprendimu kitam Seimo kontrolieriui pavedamos ir Seimo kontrolierių įstaigos vadovo pareigos tol, kol paskiriamas naujas Seimo kontrolierių įstaigos vadovas.
+
+Papildyta straipsniu:
+
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
 
