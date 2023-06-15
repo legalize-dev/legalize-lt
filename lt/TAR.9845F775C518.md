@@ -4,7 +4,7 @@ identifier: "TAR.9845F775C518"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-15"
-last_updated: "2019-05-01"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9845F775C518"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2019-05-01 iki 2023-06-14
+Suvestinė redakcija nuo 2023-06-15 iki 2023-06-21
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 59-1916; Žin. 1999, Nr.60-0, i. k. 0991010ISTAIII-1227
 
@@ -123,11 +123,15 @@ Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
 
 26. Pažeidimo tyrimas – Įstaigos darbuotojo atliekamas auditorių ir audito įmonių, kitų fizinių ar juridinių asmenų veiklos atitikties šio įstatymo ir (arba) reglamento Nr. (ES) 537/2014 nuostatoms įvertinimas, gavus informacijos apie galimą šio įstatymo ir (arba) reglamento (ES) Nr. 537/2014 nuostatų nesilaikymą.
 
-261. Reguliuojamosios veiklos patikros kokybės tyrimas – Įstaigos darbuotojo atliekamas auditorių ir audito įmonių atlikto reguliuojamosios veiklos ataskaitų patikros ir (arba) reguliavimo apskaitos sistemos patikros kokybės įvertinimas gavus Valstybinės kainų ir energetikos kontrolės komisijos arba teisėsaugos institucijos kreipimąsi dėl galimos netinkamos reguliuojamosios veiklos ataskaitų patikros ir (arba) reguliavimo apskaitos sistemos patikros.
+261. Reguliuojamosios veiklos patikros kokybės tyrimas – Lietuvos Respublikos Vyriausybės įgaliotos atlikti auditorių ir audito įmonių viešąją priežiūrą įstaigos darbuotojo atliekamas auditorių ir audito įmonių atliktos reguliuojamosios veiklos ataskaitų patikros ir (arba) reguliavimo apskaitos sistemos patikros kokybės įvertinimas gavus Valstybinės energetikos reguliavimo tarybos arba teisėsaugos institucijos kreipimąsi dėl galimos netinkamos reguliuojamosios veiklos ataskaitų patikros ir (arba) reguliavimo apskaitos sistemos patikros.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 27. Tarptautiniai audito standartai – Tarptautinės buhalterių federacijos Tarptautinių audito ir užtikrinimo standartų valdybos parengti ir patvirtinti tarptautiniai audito standartai,  1-asis tarptautinis kokybės kontrolės standartas ir kiti su audito atlikimu susiję standartai.
 
@@ -169,7 +173,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
 
-9) valstybės įmonė ir (ar) savivaldybės įmonė, kurių ne mažiau kaip du rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 4 straipsnio 3 dalyje, akcinė bendrovė ir (ar) uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ir (arba) vienai ar kelioms savivaldybėms ir kurių ne mažiau kaip du rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Įmonių finansinės atskaitomybės įstatymo 4 straipsnio 3 dalyje. Valstybės ir (ar) savivaldybės įmonė, akcinė ir (ar) uždaroji akcinė bendrovė, kurios atitinka ir šiame punkte, ir šios dalies 10 punkte nustatytus požymius, priskiriamos prie šios dalies 10 punkte nurodytų viešojo intereso įmonių;
+9) valstybės įmonė ir (ar) savivaldybės įmonė, kurių ne mažiau kaip 2 rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Lietuvos Respublikos įmonių atskaitomybės įstatymo 4 straipsnio 3 dalyje, akcinė bendrovė ir (ar) uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ir (arba) vienai ar kelioms savivaldybėms ir kurių ne mažiau kaip 2 rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Įmonių atskaitomybės įstatymo 4 straipsnio 3 dalyje. Valstybės ir (ar) savivaldybės įmonė, akcinė ir (ar) uždaroji akcinė bendrovė, kurios atitinka ir šiame punkte, ir šios dalies 10 punkte nustatytus požymius, priskiriamos prie šios dalies 10 punkte nurodytų viešojo intereso įmonių;
 
 Straipsnio punkto pakeitimai:
 
@@ -177,23 +181,29 @@ Nr. XIII-786, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18849
 
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
 
-10) geriamojo vandens tiekėjas ir nuotekų tvarkytojas, paviršinių nuotekų tvarkytojas, energetikos įmonė, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos ir kurių ne mažiau kaip du rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Įmonių finansinės atskaitomybės įstatymo 4 straipsnio 3 dalyje, ir kurių pajamos iš veiklos arba veiklų, kurių kainos yra valstybės reguliuojamos, sudaro daugiau kaip pusę visų įmonės pajamų.
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
+
+10) geriamojo vandens tiekėjas ir nuotekų tvarkytojas, paviršinių nuotekų tvarkytojas, energetikos įmonė, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos ir kurių ne mažiau kaip 2 rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Įmonių atskaitomybės įstatymo 4 straipsnio 3 dalyje, ir kurių pajamos iš veiklos arba veiklų, kurių kainos yra valstybės reguliuojamos, sudaro daugiau kaip pusę visų įmonės pajamų.
 
 Papildyta straipsnio punktu:
 
-TAR pastaba. 2 straipsnio 32 dalies 10 punkte nurodytai viešojo intereso įmonei Lietuvos Respublikos finansinių ataskaitų audito įstatymo 69 straipsnio nuostatos taikomos nuo 2019 m. liepos 1 d., o šios įmonės finansinių ataskaitų auditui Lietuvos Respublikos finansinių ataskaitų audito įstatymo ir reglamento (ES) Nr. 537/2014 reikalavimai taikomi atliekant 2019 m. sausio 1 d. ir vėliau prasidedančių finansinių metų finansinių ataskaitų auditą.
-
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 33. Viešojo intereso įmonių audito įmonė – audito įmonė, atliekanti viešojo intereso įmonės finansinių ataskaitų auditą.
 
 34. Viešojo intereso įmonių auditorius – auditorius, atliekantis viešojo intereso įmonės finansinių ataskaitų auditą.
 
-35. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos buhalterinės apskaitos įstatyme, Įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme.
+35. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansinės apskaitos įstatyme, Įmonių atskaitomybės įstatyme, Lietuvos Respublikos įmonių grupių konsoliduotosios atskaitomybės įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 ANTRASIS SKIRSNIS
 
@@ -367,7 +377,11 @@ TAR pastaba. 4 dalies nuostatos dėl Egzaminų komisijos personalinės sudėties
 
 8. Kvalifikacinių auditoriaus egzaminų metu tikrinamos teorinės šių sričių žinios:
 
-1) buhalterinės apskaitos teorijos ir principų;
+1) finansinės apskaitos teorijos ir principų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 2) finansinių ataskaitų rengimą reglamentuojančių teisės aktų;
 
@@ -735,7 +749,11 @@ AUDITORIŲ IR AUDITO ĮMONIŲ SĄRAŠAI. AUDITORIŲ IR AUDITO ĮMONIŲ TEIKIAMA 
 
 6) galiojantys ir ginčijami nurodymai ir poveikio priemonės, nurodyti šio įstatymo 56 straipsnio 3 ir 4 dalyse, Įstaigos sprendimo skirti nurodymą ar poveikio priemonę numeris ir data, jeigu yra, – informacija apie ginčijamo nurodymo ar poveikio priemonės apskundimą ar nagrinėjant skundą teismo priimto sprendimo esmę. Kai nurodoma informacija apie šio įstatymo 56 straipsnio 4 dalies 1 punkte nustatytą poveikio priemonę, kartu nurodomas ir poveikio priemonės skyrimo pagrindas.
 
-3. Auditorius turi pranešti Auditorių rūmams apie šio straipsnio 2 dalyje nustatytų duomenų, išskyrus šio straipsnio 2 dalies 4 ir 6 punktuose nurodytą informaciją, pasikeitimus ne vėliau kaip per 10 darbo dienų nuo jų pasikeitimo dienos. Įstaiga nustato informacijos dėl auditoriaus atliktų viešojo intereso įmonių finansinių ataskaitų auditų pateikimo Įstaigai ir Auditorių rūmams tvarką. Auditorių rūmai nustato informacijos apie kitą (kitas) nei audito įmonė (įmonės) įmonę (įmones), kurioje (kuriose) dirba auditorius arba kurios (kurių) vadovas jis yra, pateikimo Auditorių rūmams tvarką. Auditoriaus teikiama informacija turi būti jo pasirašyta asmeniškai arba Lietuvos Respublikos elektroninio parašo įstatymo nustatyta tvarka.
+3. Auditorius turi pranešti Auditorių rūmams apie šio straipsnio 2 dalyje nustatytų duomenų, išskyrus šio straipsnio 2 dalies 4 ir 6 punktuose nurodytą informaciją, pasikeitimus ne vėliau kaip per 10 darbo dienų nuo jų pasikeitimo dienos. Įstaiga nustato informacijos dėl auditoriaus atliktų viešojo intereso įmonių finansinių ataskaitų auditų pateikimo Įstaigai ir Auditorių rūmams tvarką. Auditorių rūmai nustato informacijos apie kitą (kitas) nei audito įmonė (įmonės) įmonę (įmones), kurioje (kuriose) dirba auditorius arba kurios (kurių) vadovas jis yra, pateikimo Auditorių rūmams tvarką. Auditoriaus teikiama informacija turi būti jo pasirašyta asmeniškai arba 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB, ir Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 4. Auditorių rūmai, gavę informaciją apie pasikeitusius auditorių sąrašo duomenis, ne vėliau kaip kitą darbo dieną nuo jų gavimo dienos juos pakeičia.
 
@@ -781,7 +799,11 @@ AUDITORIŲ IR AUDITO ĮMONIŲ SĄRAŠAI. AUDITORIŲ IR AUDITO ĮMONIŲ TEIKIAMA 
 
 11) galiojantys ir ginčijami nurodymai ar poveikio priemonės, nurodyti šio įstatymo 56 straipsnio 3 ir 4 dalyse, nurodant Įstaigos sprendimo dėl nurodymo ar poveikio priemonės skyrimo numerį ir datą, jeigu yra, – informacija apie ginčijamo nurodymo ar poveikio priemonės apskundimą ar nagrinėjant skundą teismo priimto sprendimo esmę. Kai nurodoma informacija apie šio įstatymo 56 straipsnio 4 dalies 1 punkte nustatytą poveikio priemonę, kartu nurodomas ir poveikio priemonės skyrimo pagrindas.
 
-3. Audito įmonė turi pranešti Auditorių rūmams apie šio straipsnio 2 dalyje nustatytų duomenų, išskyrus šio straipsnio 2 dalies 9 ir 11 punktuose nurodytą informaciją, pasikeitimus ne vėliau kaip per 10 darbo dienų nuo jų pasikeitimo dienos. Įstaiga nustato informacijos dėl audito įmonės atliktų viešojo intereso įmonių finansinių ataskaitų auditų pateikimo Įstaigai ir Auditorių rūmams tvarką. Audito įmonės teikiama informacija turi būti pasirašyta audito įmonės dalyvių ir (arba) vadovo asmeniškai arba Elektroninio parašo įstatymo nustatyta tvarka.
+3. Audito įmonė turi pranešti Auditorių rūmams apie šio straipsnio 2 dalyje nustatytų duomenų, išskyrus šio straipsnio 2 dalies 9 ir 11 punktuose nurodytą informaciją, pasikeitimus ne vėliau kaip per 10 darbo dienų nuo jų pasikeitimo dienos. Įstaiga nustato informacijos dėl audito įmonės atliktų viešojo intereso įmonių finansinių ataskaitų auditų pateikimo Įstaigai ir Auditorių rūmams tvarką. Audito įmonės teikiama informacija turi būti pasirašyta audito įmonės dalyvių ir (arba) vadovo asmeniškai arba Reglamento (ES) Nr. 910/2014 ir Elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 4. Auditorių rūmai, gavę informaciją apie pasikeitusius audito įmonių sąrašo duomenis, ne vėliau kaip kitą darbo dieną nuo jų gavimo dienos juos pakeičia.
 
@@ -815,15 +837,23 @@ FINANSINIŲ ATASKAITŲ AUDITO TIKSLAI, TARPTAUTINIAI AUDITO STANDARTAI, KONSOLID
 
 1) nustatyti, ar finansinės ataskaitos visais reikšmingais atvejais tikrai ir teisingai parodo audituojamos įmonės finansinę būklę, veiklos rezultatus ir pinigų srautus pagal taikomus finansinės atskaitomybės reikalavimus;
 
-2) nustatyti, ar finansinės ataskaitos parengtos pagal teisės aktus, reglamentuojančius buhalterinę apskaitą ir finansinių ataskaitų sudarymą.
+2) nustatyti, ar finansinės ataskaitos parengtos pagal teisės aktus, reglamentuojančius finansinę apskaitą ir finansinių ataskaitų sudarymą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 2. Atlikdami pelno siekiančių juridinių asmenų finansinių ataskaitų auditą, auditorius arba audito įmonė taip pat:
 
-1) pateikia nuomonę, ar metinis pranešimas (konsoliduotasis metinis pranešimas), kiek nurodyta Įmonių finansinės atskaitomybės įstatyme (Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme), arba įmonės veiklos ataskaita, nurodyta Valstybės ir savivaldybės įmonių įstatyme, parengti laikantis teisės aktų reikalavimų;
+1) pateikia nuomonę, ar metinis pranešimas (konsoliduotasis metinis pranešimas), kiek nurodyta Įmonių atskaitomybės įstatyme (Įmonių grupių konsoliduotosios atskaitomybės įstatyme), arba įmonės veiklos ataskaita, nurodyta Valstybės ir savivaldybės įmonių įstatyme, parengti laikantis teisės aktų reikalavimų;
 
-2) pateikia nuomonę, ar metiniame pranešime (konsoliduotajame metiniame pranešime), kiek nurodyta Įmonių finansinės atskaitomybės įstatyme (Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme), arba įmonės veiklos ataskaitoje, nurodytoje Valstybės ir savivaldybės įmonių įstatyme, pateikti finansiniai duomenys atitinka metinių finansinių ataskaitų (metinių konsoliduotųjų finansinių ataskaitų) duomenis;
+2) pateikia nuomonę, ar metiniame pranešime (konsoliduotajame metiniame pranešime), kiek nurodyta Įmonių atskaitomybės įstatyme (Įmonių grupių konsoliduotosios atskaitomybės įstatyme), arba įmonės veiklos ataskaitoje, nurodytoje Valstybės ir savivaldybės įmonių įstatyme, pateikti finansiniai duomenys atitinka metinių finansinių ataskaitų (metinių konsoliduotųjų finansinių ataskaitų) duomenis;
 
-3) nurodo, ar atsižvelgiant į finansinių ataskaitų audito metu gautą informaciją ir įgytą supratimą apie įmonę bei jos aplinką metiniame pranešime (konsoliduotajame metiniame pranešime), kiek nurodyta Įmonių finansinės atskaitomybės įstatyme (Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme), arba įmonės veiklos ataskaitoje, nurodytoje Valstybės ir savivaldybės įmonių įstatyme, nustatyta reikšmingų iškraipymų. Jeigu iškraipymų nustatyta, nurodomas jų pobūdis.
+3) nurodo, ar atsižvelgiant į finansinių ataskaitų audito metu gautą informaciją ir įgytą supratimą apie įmonę bei jos aplinką metiniame pranešime (konsoliduotajame metiniame pranešime), kiek nurodyta Įmonių atskaitomybės įstatyme (Įmonių grupių konsoliduotosios atskaitomybės įstatyme), arba įmonės veiklos ataskaitoje, nurodytoje Valstybės ir savivaldybės įmonių įstatyme, nustatyta reikšmingų iškraipymų. Jeigu iškraipymų nustatyta, nurodomas jų pobūdis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 3. Atlikdami pelno nesiekiančių juridinių asmenų finansinių ataskaitų auditą, auditorius arba audito įmonė nustato ir auditoriaus išvadoje nurodo, ar metiniame pranešime arba veiklos ataskaitoje, jeigu pagal teisės aktų reikalavimus jie rengiami, pateikti finansiniai duomenys atitinka metinių finansinių ataskaitų duomenis.
 
@@ -865,7 +895,11 @@ FINANSINIŲ ATASKAITŲ AUDITO TIKSLAI, TARPTAUTINIAI AUDITO STANDARTAI, KONSOLID
 
 2. Auditoriaus išvada rengiama raštu ir joje:
 
-1) nurodoma audituojama įmonė, kurios metinių finansinių ataskaitų arba konsoliduotųjų finansinių ataskaitų auditas buvo atliktas, nurodomos metinės finansinės ataskaitos arba konsoliduotosios finansinės ataskaitos, kurių auditas buvo atliktas, jų data ir laikotarpis, už kurį jos parengtos, taip pat nurodoma, pagal kokius Buhalterinės apskaitos įstatyme nustatytus apskaitos standartus ir (arba) kokiais teisės aktais vadovaujantis parengtos finansinės ataskaitos;
+1) nurodoma audituojama įmonė, kurios metinių finansinių ataskaitų arba konsoliduotųjų finansinių ataskaitų auditas buvo atliktas, nurodomos metinės finansinės ataskaitos arba konsoliduotosios finansinės ataskaitos, kurių auditas buvo atliktas, jų data ir laikotarpis, už kurį jos parengtos, taip pat nurodoma, pagal kokius Finansinės apskaitos įstatyme nustatytus apskaitos standartus ir (arba) kokiais teisės aktais vadovaujantis parengtos finansinės ataskaitos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 2) pateikiamas finansinių ataskaitų audito apimties aprašymas, nurodant, kad šis auditas atliktas laikantis tarptautinių audito standartų;
 
@@ -879,7 +913,11 @@ FINANSINIŲ ATASKAITŲ AUDITO TIKSLAI, TARPTAUTINIAI AUDITO STANDARTAI, KONSOLID
 
 7) nurodoma auditoriaus (auditorių) arba audito įmonės (įmonių) buveinė (buveinės) (adresas (adresai).
 
-3. Be reikalavimų, nustatytų šio straipsnio 2 dalyje, auditoriaus išvadoje turi būti pažymėta, ar yra pateikta į metinį pranešimą (konsoliduotąjį metinį pranešimą) įtrauktina informacija, kaip nurodyta Įmonių finansinės atskaitomybės įstatyme (Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme).
+3. Be reikalavimų, nustatytų šio straipsnio 2 dalyje, auditoriaus išvadoje turi būti pažymėta, ar yra pateikta į metinį pranešimą (konsoliduotąjį metinį pranešimą) įtrauktina informacija, kaip nurodyta Įmonių atskaitomybės įstatyme (Įmonių grupių konsoliduotosios atskaitomybės įstatyme).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 4. Kai atliktas pelno nesiekiančių juridinių asmenų finansinių ataskaitų auditas, netaikomas šio straipsnio 2 dalies 5 punktas, o auditoriaus išvadoje turi būti pateikta nuomonė, ar metiniame pranešime arba veiklos ataskaitoje pateikti finansiniai duomenys atitinka metinių finansinių ataskaitų duomenis.
 
@@ -1097,7 +1135,11 @@ NE VIEŠOJO INTERESO ĮMONIŲ AUDITORIŲ IR AUDITO ĮMONIŲ ATLIKTO FINANSINIŲ 
 
 5) neturi neišnagrinėtų klientų ar trečiųjų asmenų pretenzijų dėl atlikto finansinių ataskaitų audito kokybės ar Buhalterių profesionalų etikos kodekso laikymosi;
 
-6) gerai išmano teisės aktus, reglamentuojančius buhalterinės apskaitos tvarkymą ir finansinių ataskaitų sudarymą, finansinių ataskaitų auditą, atlikto finansinių ataskaitų audito kokybės peržiūrų atlikimą.
+6) gerai išmano teisės aktus, reglamentuojančius finansinės apskaitos tvarkymą ir finansinių ataskaitų sudarymą, finansinių ataskaitų auditą, atlikto finansinių ataskaitų audito kokybės peržiūrų atlikimą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 2. Auditorių rūmai užtikrina specialius kontrolierių mokymus, leidžiančius atlikti finansinių ataskaitų audito kokybės peržiūras.
 
@@ -1269,7 +1311,11 @@ FINANSINIŲ ATASKAITŲ AUDITO KOKYBĖS TYRIMAS IR PAŽEIDIMO TYRIMAS
 
 49 straipsnis. Finansinių ataskaitų audito kokybės tyrimo ar pažeidimo tyrimo organizavimas
 
-1. Finansinių ataskaitų audito kokybės ar pažeidimo tyrimą atlieka Įstaigos darbuotojai, turintys ne mažesnę kaip vienų metų darbo patirtį finansinių ataskaitų audito, buhalterinės apskaitos, finansinių ataskaitų rengimo ir (arba) teisės srityse. Kai atliekamas viešojo intereso įmonės finansinių ataskaitų audito kokybės tyrimas, Įstaigos darbuotojams, atliekantiems tokį tyrimą, vadovauja darbuotojas, turintis ne mažesnę kaip 5 metų finansinių ataskaitų audito ir (arba) valstybės narės auditoriaus patirtį.
+1. Finansinių ataskaitų audito kokybės ar pažeidimo tyrimą atlieka Įstaigos darbuotojai, turintys ne mažesnę kaip vienų metų darbo patirtį finansinių ataskaitų audito, finansinės apskaitos, finansinių ataskaitų rengimo ir (arba) teisės srityse. Kai atliekamas viešojo intereso įmonės finansinių ataskaitų audito kokybės tyrimas, Įstaigos darbuotojams, atliekantiems tokį tyrimą, vadovauja darbuotojas, turintis ne mažesnę kaip 5 metų finansinių ataskaitų audito ir (arba) valstybės narės auditoriaus patirtį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 2. Įstaigos darbuotojai, atlikdami finansinių ataskaitų audito kokybės tyrimą ar pažeidimo tyrimą, turi teisę:
 
@@ -1457,7 +1503,11 @@ VIEŠOJI PRIEŽIŪRA
 
 1. Viešąją priežiūrą atlieka Įstaiga.
 
-2. Įstaigos darbuotojai, priimantys sprendimus, susijusius su viešąja priežiūra, privalo būti nepraktikuojantys asmenys, turintys ne mažesnę kaip 5 metų darbo patirtį finansinių ataskaitų audito, buhalterinės apskaitos, finansinių ataskaitų rengimo ir (arba) teisės srityse.
+2. Įstaigos darbuotojai, priimantys sprendimus, susijusius su viešąja priežiūra, privalo būti nepraktikuojantys asmenys, turintys ne mažesnę kaip 5 metų darbo patirtį finansinių ataskaitų audito, finansinės apskaitos, finansinių ataskaitų rengimo ir (arba) teisės srityse.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 3. Įstaigos darbuotojai, kurie atlieka funkcijas, susijusias su viešąja priežiūra, kvalifikaciją kelia Įstaigos nustatyta tvarka.
 
@@ -1465,7 +1515,11 @@ VIEŠOJI PRIEŽIŪRA
 
 5. Viešosios priežiūros klausimais Įstaigai pataria finansų ministro sudaromas kolegialus patariamasis organas – Audito priežiūros komitetas, kurį techniškai aptarnauja Įstaiga.
 
-6. Audito priežiūros komitetą sudaro 7 nariai. Visi Audito priežiūros komiteto nariai privalo būti nepraktikuojantys asmenys. Audito priežiūros komiteto nariai privalo turėti ne mažesnę kaip 5 metų darbo patirtį finansinių ataskaitų audito, buhalterinės apskaitos, finansinių ataskaitų rengimo ir (arba) teisės srityse. Į Audito priežiūros komitetą po vieną narį skiria Finansų ministerija, Lietuvos Respublikos teisingumo ministerija, Lietuvos Respublikos ūkio ministerija (toliau – Ūkio ministerija), Lietuvos Respublikos valstybės kontrolė ir Lietuvos bankas, o Auditorių rūmai – 2 narius.
+6. Audito priežiūros komitetą sudaro 7 nariai. Visi Audito priežiūros komiteto nariai privalo būti nepraktikuojantys asmenys. Audito priežiūros komiteto nariai privalo turėti ne mažesnę kaip 5 metų darbo patirtį finansinių ataskaitų audito, finansinės apskaitos, finansinių ataskaitų rengimo ir (arba) teisės srityse. Į Audito priežiūros komitetą po vieną narį skiria Finansų ministerija, Lietuvos Respublikos teisingumo ministerija, Lietuvos Respublikos ekonomikos ir inovacijų ministerija, Lietuvos Respublikos valstybės kontrolė ir Lietuvos bankas, o Auditorių rūmai – 2 narius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 7. Audito priežiūros komitetas veikia vadovaudamasis šiuo įstatymu ir finansų ministro patvirtintais Audito priežiūros komiteto nuostatais.
 
@@ -1539,11 +1593,15 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
 
-13) teikia metodinę pagalbą Valstybinei kainų ir energetikos kontrolės komisijai dėl auditorių ir (arba) audito įmonių atliekamos reguliuojamosios veiklos ataskaitų patikros ir (arba) reguliavimo apskaitos sistemos patikros.
+13) teikia metodinę pagalbą Valstybinei energetikos reguliavimo tarybai dėl auditorių ir (arba) audito įmonių atliekamos reguliuojamosios veiklos ataskaitų patikros ir (arba) reguliavimo apskaitos sistemos patikros.
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 2. Įstaiga, atlikdama savo funkcijas, turi teisę:
 
@@ -1571,11 +1629,15 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
 
-11) dalyvauti Valstybinei kainų ir energetikos kontrolės komisijai nustatant techninę užduotį, kaip nustatyta Lietuvos Respublikos energetikos įstatyme ir Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme;
+11) dalyvauti Valstybinei energetikos reguliavimo tarybai rengiant techninę užduotį, kuri nustatyta Energetikos įstatyme ir Geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 12) turėti kitų šiame įstatyme ir kituose teisės aktuose nustatytų teisių.
 
@@ -1727,7 +1789,11 @@ VIEŠOJO INTERESO ĮMONIŲ, JŲ AUDITORIŲ IR AUDITO ĮMONIŲ PAREIGOS
 
 1. Reglamento (ES) Nr. 537/2014 nuoroda į kompetentingą instituciją laikoma nuoroda į Įstaigą, jeigu šiame įstatyme nenustatyta kitaip.
 
-2. Viešojo intereso įmonių auditorius arba audito įmonė, išskyrus šio įstatymo 2 straipsnio 32 dalies 9 ir 10 punktuose nurodytas įmones, privalo nedelsdami pranešti Lietuvos bankui visą informaciją, kaip nustatyta reglamento (ES) Nr. 537/2014 12 straipsnyje, ir kitą informaciją, nustatytą viešojo intereso įmonių veiklą reglamentuojančiuose įstatymuose. Kai atliekamas šio įstatymo 2 straipsnio 32 dalies 9 punkte nurodytų įmonių finansinių ataskaitų auditas, viešojo intereso įmonių auditorius ar audito įmonė nedelsdami turi pranešti Vyriausybės įgaliotai institucijai ir institucijai, įgyvendinančiai valstybės įmonės, savivaldybės įmonės savininko teises ir pareigas ar valdančiai akcinės bendrovės ar uždarosios akcinės bendrovės, kurioje valstybei, vienai ar kelioms savivaldybėms nuosavybės teise priklauso akcijų, suteikiančių daugiau kaip 1/2 visų balsų šios bendrovės visuotiniame akcininkų susirinkime, akcijas, visą informaciją, kaip nustatyta reglamento (ES) Nr. 537/2014 12 straipsnyje, ir kitą jų prašomą informaciją. Kai atliekamas šio įstatymo 2 straipsnio 32 dalies 10 punkte nurodytų įmonių finansinių ataskaitų auditas, viešojo intereso įmonių auditorius ar audito įmonė nedelsdami turi pranešti Valstybinei kainų ir energetikos kontrolės komisijai ir institucijai, įgyvendinančiai valstybės įmonės, savivaldybės įmonės savininko teises ir pareigas ar valdančiai akcinės bendrovės ar uždarosios akcinės bendrovės, kurioje valstybei, vienai ar kelioms savivaldybėms nuosavybės teise priklauso akcijų, suteikiančių daugiau kaip 1/2 visų balsų šios bendrovės visuotiniame akcininkų susirinkime, akcijas, visą informaciją, kaip nustatyta reglamento (ES) Nr. 537/2014 12 straipsnyje, ir kitą jų prašomą informaciją.
+2. Viešojo intereso įmonių auditorius arba audito įmonė, išskyrus šio įstatymo 2 straipsnio 32 dalies 9 ir 10 punktuose nurodytas įmones, privalo nedelsdami pranešti Lietuvos bankui visą informaciją, kaip nustatyta reglamento (ES) Nr. 537/2014 12 straipsnyje, ir kitą informaciją, nustatytą viešojo intereso įmonių veiklą reglamentuojančiuose įstatymuose. Kai atliekamas šio įstatymo 2 straipsnio 32 dalies 9 punkte nurodytų įmonių finansinių ataskaitų auditas, viešojo intereso įmonių auditorius ar audito įmonė nedelsdami turi pranešti Vyriausybės įgaliotai institucijai ir institucijai, įgyvendinančiai valstybės įmonės, savivaldybės įmonės savininko teises ir pareigas ar valdančiai akcinės bendrovės ar uždarosios akcinės bendrovės, kurioje valstybei, vienai ar kelioms savivaldybėms nuosavybės teise priklauso akcijų, suteikiančių daugiau kaip 1/2 visų balsų šios bendrovės visuotiniame akcininkų susirinkime, akcijas, visą informaciją, kaip nustatyta reglamento (ES) Nr. 537/2014 12 straipsnyje, ir kitą jų prašomą informaciją. Kai atliekamas šio įstatymo 2 straipsnio 32 dalies 10 punkte nurodytų įmonių finansinių ataskaitų auditas, viešojo intereso įmonių auditorius ar audito įmonė nedelsdami turi pranešti Valstybinei energetikos reguliavimo tarybai ir institucijai, įgyvendinančiai valstybės įmonės, savivaldybės įmonės savininko teises ir pareigas ar valdančiai akcinės bendrovės ar uždarosios akcinės bendrovės, kurioje valstybei, vienai ar kelioms savivaldybėms nuosavybės teise priklauso akcijų, suteikiančių daugiau kaip 1/2 visų balsų šios bendrovės visuotiniame akcininkų susirinkime, akcijas, visą informaciją, kaip nustatyta reglamento (ES) Nr. 537/2014 12 straipsnyje, ir kitą jų prašomą informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 3. Viešojo intereso įmonių auditorius arba audito įmonė, atlikę viešojo intereso įmonių finansinių ataskaitų auditą, audituojamai įmonei kartu su auditoriaus išvada pateikia finansinių ataskaitų audito ataskaitą, kurioje pateikiama reglamento (ES) Nr. 537/2014 11 straipsnyje nustatyta informacija ir viešojo intereso įmonių veiklą reglamentuojančiuose įstatymuose nustatyta informacija. Kai viešojo intereso įmonė yra šio įstatymo 2 straipsnio 32 dalies 9 ar 10 punktuose nurodyta įmonė, finansinių ataskaitų audito ataskaita kartu su auditoriaus išvada pateikiama ir užsakovui.
 
@@ -1853,11 +1919,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
 
-14) konsultuoti Valstybinę kainų ir energetikos kontrolės komisiją dėl rengiamos techninės užduoties, kaip nustatyta Lietuvos Respublikos energetikos įstatyme ir Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme;
+14) konsultuoti Valstybinę energetikos reguliavimo tarybą dėl rengiamos techninės užduoties, kuri nustatyta Energetikos įstatyme ir Geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 15) rengti, bendradarbiaujant su Specialiųjų tyrimų tarnyba, Auditorių rūmų nariams rekomendacijas, skirtas užsienio pareigūnų papirkimo sudarant tarptautinius sandorius atvejams nustatyti, konsultuoti Auditorių rūmų narius dėl šių rekomendacijų įgyvendinimo ir kontroliuoti jų įgyvendinimą;
 
@@ -1933,13 +2003,15 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2006 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva 2006/43/EB dėl teisės aktų nustatyto metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės audito, iš dalies keičianti Tarybos direktyvas 78/660/EEB ir 83/349/EEB bei panaikinanti Tarybos direktyvą 84/253/EEB (OL 2006 L 157, p. 87), su paskutiniais pakeitimais, padarytais 2008 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2008/30/EB (OL 2008 L 81, p. 53).
+1. 2006 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva 2006/43/EB dėl teisės aktų nustatyto metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės audito, iš dalies keičianti Tarybos direktyvas 78/660/EEB ir 83/349/EEB bei panaikinanti Tarybos direktyvą 84/253/EEB, su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/56/ES.
 
-2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB (OL 2013 L 182, p. 19).
+2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 537/2014 dėl konkrečių viešojo intereso įmonių teisės aktų nustatyto audito reikalavimų, kuriuo panaikinamas Komisijos sprendimas 2005/909/EB.
 
-3. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/56/ES, kuria iš dalies keičiama Direktyva 2006/43/EB dėl teisės aktų nustatyto metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės audito (OL 2014 L 158, p. 196).
+Priedo pakeitimai:
 
-4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 537/2014 dėl konkrečių viešojo intereso įmonių teisės aktų nustatyto audito reikalavimų, kuriuo panaikinamas Komisijos sprendimas 2005/909/EB (OL 2014 L 158, p. 77).
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
+
+part_777125f567504341a22f4c50e7ec26de_end
 
 Pakeitimai:
 
@@ -2151,13 +2223,37 @@ Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
 
 Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 1, 2, 12, 15, 23, 36, 37, 38, 53, 54, 55, 56, 58, 62, 68, 69, 73 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo vienuoliktuoju-1 skirsniu įstatymas
 
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1588, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25153
+
+Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 59 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
+
+Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 2, 12, 26, 28, 32, 35, 43, 49, 52-1, 61, 62, 68, 73 straipsnių ir priedo pakeitimo įstatymas
+
 521 straipsnis. Reguliuojamosios veiklos patikros kokybės tyrimo inicijavimas ir organizavimas
 
 1. Įstaiga reguliuojamosios veiklos patikros kokybės tyrimą atlieka vadovaudamasi savo patvirtintu reguliuojamosios veiklos patikros kokybės tyrimo tvarkos aprašu.
 
-2. Reguliuojamosios veiklos patikros kokybės tyrimas pradedamas, kai Valstybinė kainų ir energetikos kontrolės komisija, teisėsaugos institucijos kreipiasi į Įstaigą su pagrįstu prašymu atlikti auditoriaus ir (arba) audito įmonės atliktos reguliuojamosios veiklos patikros kokybės tyrimą.
+2. Reguliuojamosios veiklos patikros kokybės tyrimas pradedamas, kai Valstybinė energetikos reguliavimo taryba, teisėsaugos institucijos kreipiasi į Įstaigą su pagrįstu prašymu atlikti auditoriaus ir (arba) audito įmonės atliktos reguliuojamosios veiklos patikros kokybės tyrimą.
 
-3. Reguliuojamosios veiklos patikros kokybės tyrimo metu Įstaiga įvertina, kaip auditorius ir (arba) audito įmonė, atlikdami reguliuojamosios veiklos ataskaitų patikrą ir (arba) reguliavimo apskaitos sistemos patikrą, laikėsi Valstybinės kainų ir energetikos kontrolės komisijos nustatytoje techninėje užduotyje nurodytų profesinių standartų arba tarptautinių audito standartų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
+
+3. Reguliuojamosios veiklos patikros kokybės tyrimo metu Įstaiga įvertina, kaip auditorius ir (arba) audito įmonė, atlikdami reguliuojamosios veiklos ataskaitų patikrą ir (arba) reguliavimo apskaitos sistemos patikrą, laikėsi Valstybinės energetikos reguliavimo tarybos nustatytoje techninėje užduotyje nurodytų profesinių standartų arba tarptautinių audito standartų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 4. Įstaigos paskirtiems atlikti reguliuojamosios veiklos patikros kokybės tyrimą darbuotojams mutatis mutandis taikomos šio įstatymo 49 straipsnio 2 dalies nuostatos, o Įstaigai – šio įstatymo 47 straipsnio 1 dalies, 49 straipsnio 3 dalies nuostatos.
 
