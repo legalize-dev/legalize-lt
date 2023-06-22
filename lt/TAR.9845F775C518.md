@@ -4,7 +4,7 @@ identifier: "TAR.9845F775C518"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-15"
-last_updated: "2023-06-15"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9845F775C518"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2023-06-15 iki 2023-06-21
+Suvestinė redakcija nuo 2023-06-22 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 59-1916; Žin. 1999, Nr.60-0, i. k. 0991010ISTAIII-1227
 
@@ -913,7 +913,7 @@ Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
 7) nurodoma auditoriaus (auditorių) arba audito įmonės (įmonių) buveinė (buveinės) (adresas (adresai).
 
-3. Be reikalavimų, nustatytų šio straipsnio 2 dalyje, auditoriaus išvadoje turi būti pažymėta, ar yra pateikta į metinį pranešimą (konsoliduotąjį metinį pranešimą) įtrauktina informacija, kaip nurodyta Įmonių atskaitomybės įstatyme (Įmonių grupių konsoliduotosios atskaitomybės įstatyme).
+3. Be reikalavimų, nustatytų šio straipsnio 2 dalyje, auditoriaus išvadoje turi būti pažymėta, ar yra pateikta į metinį pranešimą (konsoliduotąjį metinį pranešimą) įtrauktina informacija, kaip nurodyta Įmonių atskaitomybės įstatyme (Įmonių grupių konsoliduotosios atskaitomybės įstatyme), ir informacija dėl pelno mokesčio informacijos ataskaitos, kaip nurodyta Įmonių atskaitomybės įstatyme.
 
 Straipsnio dalies pakeitimai:
 
@@ -2011,7 +2011,7 @@ Priedo pakeitimai:
 
 Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
 
-part_777125f567504341a22f4c50e7ec26de_end
+part_98b6e673a4ae44218fc1a3526df80ae2_end
 
 Pakeitimai:
 
