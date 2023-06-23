@@ -4,7 +4,7 @@ identifier: "TAR.4961DA7FA79F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-14"
-last_updated: "2018-11-01"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-11-01 iki 2023-06-22
+Suvestinė redakcija nuo 2023-06-23 iki 2023-12-22
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
 
@@ -278,11 +278,149 @@ Straipsnio pakeitimai:
 
 Nr. XI-1671, 2011-11-17, Žin., 2011, Nr. 145-6817 (2011-12-01)
 
-44 straipsnis. Neteko galios nuo 2015-01-01
+44 straipsnis. Įgaliojimas Biurui
 
-Straipsnio naikinimas:
+Biuras, atsižvelgdamas į žalos atlyginimo institucijų teises, pareigas ir tarpusavio atsiskaitymą dėl žalos atlyginimo nukentėjusiems tretiesiems asmenims, kai draudimo įmonė bankrutuoja ar yra likviduojama, siekia iki 2023 m. gruodžio 23 d. sudaryti susitarimą su kitų Europos Sąjungos valstybių narių įgaliotomis institucijomis, atsakingomis už žalos atlyginimą, ir apie sudarytą susitarimą informuoti Europos Komisiją.
+
+Skirsnio pakeitimai:
+
+Nr. XIV-1973, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10366
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+
+Lietuvos Respublikos
+
+transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+3. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo su pakeitimais, padarytais 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2118.
+
+Punkto pakeitimai:
+
+Nr. XIV-1973, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10366
+
+4. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II).
+
+Punkto pakeitimai:
+
+Nr. XIV-1973, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10366
+
+Priedo pakeitimai:
+
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1399, 2003-03-25, Žin., 2003, Nr. 34-1420 (2003-04-09)
+
+TRANSPORTO PRIEMONIŲ SAVININKŲ IR VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMOJO DRAUDIMO ĮSTATYMO 10, 14, 15, 18 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2043, 2004-03-05, Žin., 2004, Nr. 39-1273 (2004-03-13)
+
+TRANSPORTO PRIEMONIŲ SAVININKŲ IR VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMOJO DRAUDIMO ĮSTATYMO 13 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Įsigaliojus šiam Įstatymui, draudikas privalo sudaryti draudimo sutartį pagal draudėjo pasirinktas draudimo sumas.
+
+Įstatyme nurodyti dydžiai eurais yra išreiškiami litais pagal Lietuvos banko skelbiamą oficialų euro ir lito santykį.
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2041, 2004-03-05, Žin., 2004, Nr. 46-1498 (2004-03-27)
+
+TRANSPORTO PRIEMONIŲ SAVININKŲ IR VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMOJO DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija nuo 2004 m. gegužės 1 d.
+
+Keistas įstatymo pavadinimas
+
+Šio įstatymo įsigaliojimą nusako:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2042, 2004-03-05, Žin., 2004, Nr. 46-1499 (2004-03-27)
+
+TRANSPORTO PRIEMONIŲ SAVININKŲ IR VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMOJO DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMO ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMAS
+
+Šis įstatymas neteko galios nuo 2007 m. birželio 11 d.:
+
+Nr. X-1138, 2007-05-17, Žin., 2007, Nr. 61-2341 (2007-06-02)
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1137, 2007-05-17, Žin., 2007, Nr. 61-2340 (2007-06-02)
+
+TRANSPORTO PRIEMONIŲ VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMOJO DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija nuo 2007 m. birželio 11 d.
+
+Transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 11 straipsnio 1 dalies 1 punkte nustatytos draudimo sumos ir kitos antrajame skirsnyje naujai įtvirtinamos nuostatos dėl draudimo sutarties sąlygų galioja draudimo sutartims, sudaromoms po šio įstatymo įsigaliojimo.
+
+Transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 11 straipsnio 1 dalies 2 ir 3 punktuose nurodytos draudimo sumos pradedamos taikyti nuo šiuose punktuose nurodytų datų.
+
+Transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 12 ir 14 straipsnių nuostatos dėl galimybės į eismo įvykio vietą nekviesti policijos ir dėl eismo įvykio deklaracijos įsigalioja nuo atitinkamų Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo ir Kelių eismo taisyklių pakeitimo, bet ne anksčiau kaip nuo 2008 m. sausio 1 d.
+
+Šio įstatymo atitaisymas skelbtas: Žin., 2007, Nr. 63 (2007-06-06)
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1671, 2011-11-17, Žin., 2011, Nr. 145-6817 (2011-12-01)
+
+TRANSPORTO PRIEMONIŲ VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMOJO DRAUDIMO ĮSTATYMO 6, 19, 29, 31 IR 32 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2012 m. sausio 1 d.
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-1116, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13413
+
+Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 44 straipsnio pripažinimo netekusiu galios įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2745, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26865
+
+Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 43 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
+
+Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 11, 14, 15, 19 straipsnių ir priedo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1973, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10366
+
+Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 šeštojo skirsnio ir priedo pakeitimo įstatymas
 
 1 straipsnis. Įstatymo tikslas ir paskirtis
 
