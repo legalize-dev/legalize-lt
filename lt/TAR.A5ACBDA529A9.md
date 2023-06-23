@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2023-01-01"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-22
+Suvestinė redakcija nuo 2023-06-23 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -137,13 +137,15 @@ Nr. XIII-1881, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00234
 
 161. Lietuvos filmo gamintojas – fizinis asmuo – nuolatinis Lietuvos gyventojas arba Europos ekonominės erdvės valstybės pilietis, veikiantis per nuolatinę bazę Lietuvoje, taip pat Lietuvos vienetas arba Europos ekonominės erdvės valstybės vienetas, veikiantis per nuolatinę buveinę Lietuvoje, kurie verčiasi filmų gamyba ir yra atsakingi už kūrybinį, organizacinį, finansinį filmo gamybos procesą.
 
-162. Lietuvos hibridinis subjektas – subjektas, išskyrus kolektyvinio investavimo subjektą, arba darinys, kuriame daugiau kaip 50 procentų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį, ar išimtinių teisių jas įsigyti tiesiogiai ar netiesiogiai valdo arba vienas užsienio valstybės rezidentas mokesčių tikslais, kuris pagal užsienio valstybės teisės aktus laikomas atskiru vienetu, tačiau jo pajamos ir sąnaudos pagal šį Įstatymą laikomos kito (kitų) asmens (asmenų) pajamomis ir sąnaudomis, arba keli asocijuoti asmenys, iš kurių bent vienas yra užsienio valstybės rezidentas mokesčių tikslais, kuris pagal užsienio valstybės teisės aktus laikomas atskiru vienetu, tačiau jo pajamos ir sąnaudos pagal šį Įstatymą laikomos kito (kitų) asmens (asmenų) pajamomis ir sąnaudomis.
-
-TAR pastaba. 2 straipsnį 162 dalies nuostatos yra taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+162. Lietuvos hibridinis subjektas – subjektas, išskyrus kolektyvinio investavimo subjektą, arba darinys, kuriame 50 procentų ar daugiau akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį, ar išimtinių teisių jas įsigyti tiesiogiai ar netiesiogiai valdo arba vienas užsienio valstybės rezidentas mokesčių tikslais, kuris pagal užsienio valstybės teisės aktus laikomas atskiru vienetu, tačiau jo pajamos ir sąnaudos pagal šį Įstatymą laikomos kito (kitų) asmens (asmenų) pajamomis ir sąnaudomis, arba keli asocijuoti asmenys, iš kurių bent vienas yra užsienio valstybės rezidentas mokesčių tikslais, kuris pagal užsienio valstybės teisės aktus laikomas atskiru vienetu, tačiau jo pajamos ir sąnaudos pagal šį Įstatymą laikomos kito (kitų) asmens (asmenų) pajamomis ir sąnaudomis.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-726, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25844
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2038, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12400
 
 17. Lietuvos Respublikos teritorija – Lietuvos Respublikos teritorija ir greta Lietuvos Respublikos teritorinių vandenų esantis plotas, kuriame pagal Lietuvos Respublikos įstatymus ir tarptautinę teisę Lietuvos Respublika turi teisę tyrinėti ir eksploatuoti jūros dugno ir požeminius gamtos išteklius.
 
