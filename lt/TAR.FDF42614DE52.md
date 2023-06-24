@@ -4,7 +4,7 @@ identifier: "TAR.FDF42614DE52"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2023-01-01"
+last_updated: "2023-06-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 17 straipsnio 4 ir 5 dalių bei 19 strai
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-23
+Suvestinė redakcija nuo 2023-06-24 iki 2023-07-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
 
@@ -76,7 +76,11 @@ NEDARBO DRAUDIMO IŠMOKA
 
 1. Nedarbo draudimo išmoka skiriama bedarbiais Užimtumo tarnyboje registruotiems asmenims ir pradedama mokėti nuo aštuntos po bedarbio statuso įgijimo dienos, išskyrus šio straipsnio 2 ir 3 dalyse nurodytus atvejus.
 
-2. Bedarbiams, nurodytiems šio įstatymo 5 straipsnio 1 dalies 1 punkte, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos, tačiau negu anksčiau nei nuo bedarbio statuso įgijimo dienos.
+2. Bedarbiams, nurodytiems šio įstatymo 5 straipsnio 1 dalies 1 punkte, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos, tačiau ne anksčiau negu nuo bedarbio statuso įgijimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
 
 3. Bedarbiams, gaunantiems ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros ar ligos dėl nelaimingo atsitikimo darbe ar profesinės ligos socialinio draudimo išmoką, paskirtą iki bedarbio statuso įgijimo dienos, nedarbo draudimo išmoka pradedama mokėti ne anksčiau, negu baigiasi šių išmokų mokėjimo laikas.
 
