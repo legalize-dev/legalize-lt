@@ -4,7 +4,7 @@ identifier: "TAR.AB7AFE2F35B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2023-02-28"
+last_updated: "2023-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2023-02-28 iki 2023-06-29
+Suvestinė redakcija nuo 2023-06-30 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
 
@@ -262,7 +262,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
-15. Finansinės priemonės – bet kuri iš šių priemonių:
+15. Finansinės priemonės – bet kuri iš šių priemonių, įskaitant priemonę, kuri išleista naudojant paskirstytojo registro technologiją, kaip ji apibrėžta Reglamento (ES) 2022/858 2 straipsnio 1 punkte:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1893, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08612
 
 1) perleidžiamieji vertybiniai popieriai;
 
@@ -1864,13 +1868,15 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 
-3) atlieka priežiūros institucijai priskirtas funkcijas, nustatytas Reglamente (ES) Nr. 236/2012, Reglamente (ES) Nr. 648/2012, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2019/2088, Reglamente (ES) 2020/852, Reglamente (ES) 2020/1503 ir Reglamente (ES) 2021/23;
+3) atlieka priežiūros institucijai priskirtas funkcijas, nustatytas Reglamente (ES) Nr. 236/2012, Reglamente (ES) Nr. 648/2012, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2019/2088, Reglamente (ES) 2020/852, Reglamente (ES) 2020/1503, Reglamente (ES) 2021/23 ir Reglamente (ES) 2022/858;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
+
+Nr. XIV-1893, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08612
 
 31) atlieka Reglamento (ES) Nr. 2016/1011 23b straipsnio 5 dalies a punkte nurodytą vertinimą;
 
@@ -1902,13 +1908,15 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 8) duoti šio įstatymo 102 straipsnio 3 ir 7 dalyse nustatytus privalomus nurodymus;
 
-9) turėti kitokių įgaliojimų ir teisių, nustatytų Lietuvos banko įstatyme, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 2015/2365, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2019/2088, Reglamente (ES) 2020/852, Reglamente (ES) 2020/1503, Reglamente (ES) 2021/23 ir jų įgyvendinamuosiuose teisės aktuose.
+9) turėti kitokių įgaliojimų ir teisių, nustatytų Lietuvos banko įstatyme, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 2015/2365, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2019/2088, Reglamente (ES) 2020/852, Reglamente (ES) 2020/1503, Reglamente (ES) 2021/23, Reglamente (ES) 2022/858 ir jų įgyvendinamuosiuose teisės aktuose.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
+
+Nr. XIV-1893, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08612
 
 6. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų pareigų ir teisių, priežiūros institucija, atlikdama jai pavestas funkcijas, turi teisę imtis kitų priemonių, užtikrinančių, kad finansų maklerio įmonės, finansų patarėjo įmonės, centrinis depozitoriumas, reguliuojamos rinkos, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, sutelktinio finansavimo paslaugų teikėjai nuolat laikytųsi šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų.
 
@@ -4470,7 +4478,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
-part_54eece26fb584fbfa94e5015c3cae9ce_end
+part_1eb057449b0d431da5f2c45b97b1b78d_end
 
 Lietuvos Respublikos
 
@@ -4506,11 +4514,13 @@ Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033.
 
-8. 2014 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyva 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES, su paskutiniais pakeitimais, padarytais 2021 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/338.
+8. 2014 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyva 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES, su paskutiniais pakeitimais, padarytais 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/858.
 
 Punkto pakeitimai:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+
+Nr. XIV-1893, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08612
 
 9. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033.
 
@@ -4578,13 +4588,19 @@ Papildyta punktu:
 
 Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 
+23. 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/858 dėl paskirstytojo registro technologija grindžiamoms rinkos infrastruktūroms skirtos bandomosios tvarkos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 600/2014 ir (ES) Nr. 909/2014 ir Direktyva 2014/65/ES.
+
+Papildyta punktu:
+
+Nr. XIV-1893, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08612
+
 Priedo pakeitimai:
 
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
-part_4dc11d70224a453d9c534a30ad4fe1cd_end
+part_bf33953dffa345219473b730b17d2024_end
 
 Pakeitimai:
 
@@ -4801,6 +4817,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1495, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22683
 
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 priedo pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1589, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25156
+
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 102 straipsnio pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1893, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08612
+
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, 93 straipsnių ir priedo pakeitimo įstatymas
 
 411 straipsnis. Dalyvavimo politika
 
