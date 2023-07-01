@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2023-04-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-07-05
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
-
-TAR pastaba. Įstatymo Nr. XIV-1268 nuostatos pradedamos taikyti, kai 2023 metais išrinktos savivaldybių tarybos susirenka į savo pirmuosius posėdžius. Iki 2023 metais išrinktų savivaldybių tarybų pirmųjų posėdžių taikomos iki 2023 m. kovo 31 d. galiojusios Lietuvos Respublikos vietos savivaldos įstatymo nuostatos.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
-
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymo Nr. XIV-1268 1 ir 2 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2023-04-01:
 
@@ -375,19 +367,25 @@ SAVIVALDYBĖS TARYBOS NARIAI
 
 9 straipsnis. Savivaldybės tarybos nario teisės
 
-Savivaldybės tarybos narys turi teisę:
+1. Savivaldybės tarybos narys turi teisę:
 
 1) šio įstatymo nustatyta tvarka rinkti ir būti išrinktas į pareigas savivaldybės tarybos struktūriniuose padaliniuose;
 
-2) savivaldybės tarybos reglamento (toliau – reglamentas) nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, iš mero, vicemero, savivaldybės administracijos ar kitų savivaldybės įstaigų, savivaldybės valdomų įmonių gauti visą tarybos nario veiklai reikalingą su savivaldybės taryboje nagrinėjamais ar rengiamais nagrinėti klausimais susijusią informaciją, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo tvarkos ir kitais klausimais, savivaldybės tarybos posėdžio metu užduoti klausimų pranešėjams, kalbėti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir valstybės tarnautojus;
+2) savivaldybės tarybos reglamento (toliau – reglamentas) nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, iš mero, vicemero, savivaldybės administracijos ar kitų savivaldybės įstaigų, savivaldybės valdomų įmonių gauti visą tarybos nario veiklai reikalingą su savivaldybės taryboje nagrinėjamais ar rengiamais nagrinėti klausimais susijusią informaciją, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo tvarkos ir kitais klausimais, savivaldybės tarybos posėdžio metu užduoti klausimų pranešėjams, kalbėti dėl posėdžio vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir valstybės tarnautojus;
 
 3) dalyvauti ir kalbėti komitetų ir komisijų posėdžiuose, kuriuose svarstomi jo pateikti arba su jo elgesiu susiję klausimai;
 
 4) jungtis į savivaldybės tarybos narių frakcijas ir grupes reglamento nustatyta tvarka;
 
-5) gauti iš savivaldybės administracijos darbo vietą posėdžiui, technines priemones ir pagalbą savivaldybės tarybos nario įgaliojimams vykdyti;
+5) gauti iš savivaldybės administracijos darbo vietą posėdžiui ir pagalbą savivaldybės tarybos nario įgaliojimams vykdyti;
 
 6) savo įgaliojimų laikotarpiu turėti visuomeninių padėjėjų, kurie tarybos nario prašymu teikia jam konsultacijas, pasiūlymus, išvadas ir kitą informaciją. Savivaldybės tarybos nario visuomeniniu padėjėju gali būti pilnametis asmuo, kuris nėra tos savivaldybės administracijos valstybės tarnautojas ar darbuotojas, dirbantis pagal darbo sutartį. Savivaldybės tarybos nario visuomeniniu padėjėju negali būti asmuo, įstatymų nustatyta tvarka pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turintis neišnykusį ar nepanaikintą teistumą, taip pat įstatymų nustatyta tvarka uždraustos organizacijos narys. Savivaldybės tarybos nario visuomeninių padėjėjų skaičius negali viršyti savivaldybėje įsteigtų seniūnijų skaičiaus, o kai seniūnijos neįsteigtos, – negali viršyti trijų. Siekiant užtikrinti viešumą ir skaidrumą, informacija apie asmenį, savivaldybės tarybos nario paskirtą jo visuomeniniu padėjėju (asmens vardas, pavardė, paskyrimo data), nedelsiant paskelbiama savivaldybės interneto svetainėje ir joje skelbiama tol, kol asmuo eina savivaldybės tarybos nario visuomeninio padėjėjo pareigas.
+
+2. Savivaldybės tarybos nariui netaikomos Lietuvos Respublikos darbo kodekso nuostatos, išskyrus nuostatas, reglamentuojančias žalos atlyginimą ir darbuotojų saugą ir sveikatą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2053, 2023-06-13, paskelbta TAR 2023-06-22, i. k. 2023-12415
 
 10 straipsnis. Savivaldybės tarybos nario pareigos
 
@@ -425,15 +423,21 @@ Savivaldybės tarybos narys privalo:
 
 2. Siekiant užtikrinti viešumą ir skaidrumą ir kad savivaldybės tarybos komitetų ir komisijų pirmininkais būtų skiriami tik nepriekaištingos reputacijos, kaip ji apibrėžiama šiame įstatyme, savivaldybės tarybos nariai, tarybos narys, pretenduojantis tapti savivaldybės tarybos sudaromo komiteto ar komisijos pirmininku, privalo užpildyti vidaus reikalų ministro patvirtintos formos deklaraciją, joje pateikdamas duomenis dėl jo atitikties nepriekaištingos reputacijos reikalavimams. Ši deklaracija pateikiama merui ir reglamento nustatyta tvarka skelbiama viešai savivaldybės interneto svetainėje tol, kol savivaldybės tarybos narys eina pareigas, kurioms keliami nepriekaištingos reputacijos reikalavimai.
 
-12 straipsnis. Savivaldybės tarybos nario veiklos apmokėjimas
+12 straipsnis. Savivaldybės tarybos nario atlyginimas
 
-1. Savivaldybės tarybos nariams už darbo laiką atliekant savivaldybės tarybos nario pareigas yra atlyginama (apmokama). Šis atlyginimas apskaičiuojamas pagal Lietuvos statistikos departamento skelbiamą paskutinio Lietuvos ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydį. Savivaldybės tarybos sprendimu tarybos narių atlyginimas apskaičiuojamas ne mažesniu negu 0,5 VMDU dydžiu ir ne didesniu negu 1 VMDU dydžiu; savivaldybės tarybos opozicijos lyderio ir nuolatinių savivaldybės tarybos komitetų ir komisijų pirmininkų – 0,2 VMDU didesnio dydžio; nuolatinių savivaldybės tarybos komitetų ir komisijų pirmininkų pavaduotojų – 0,1 VMDU didesnio dydžio. Savivaldybės tarybos nariams atlyginimas apskaičiuojamas atsižvelgiant į jų faktiškai dirbtą laiką, atliekant tarybos nario pareigas pagal visas šio įstatymo 16 straipsnyje nustatytas savivaldybės tarybos veiklos formas. Savivaldybės tarybos narių faktiškai dirbto laiko trukmės apskaičiavimo tvarka nustatoma reglamente. Tarybos narys turi teisę atsisakyti šio atlyginimo, reglamento nustatyta tvarka pateikdamas prašymą dėl savivaldybės tarybos nario pareigų atlikimo neatlygintinai (tai yra visuomeniniais pagrindais). Tokį prašymą pateikusiam savivaldybės tarybos nariui šioje dalyje nurodytas atlyginimas neskaičiuojamas ir nemokamas, taip pat neskaičiuojami ir nemokami teisės aktų nustatyti privalomi mokėti mokesčiai, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokos.
+1. Savivaldybės tarybos nariams už darbą atliekant savivaldybės tarybos nario pareigas yra atlyginama (apmokama). Savivaldybės tarybos nariams nustatomas 20 procentų tos savivaldybės, kurios tarybos narys jis yra, mero darbo užmokesčio dydžio atlyginimas; savivaldybės tarybos opozicijos lyderiui ir savivaldybės tarybos komitetų ir nuolatinių komisijų pirmininkams nustatomas 20 procentų didesnio dydžio savivaldybės tarybos narių atlyginimas; savivaldybės tarybos komitetų ir nuolatinių komisijų pirmininkų pavaduotojams nustatomas 10 procentų didesnio dydžio savivaldybės tarybos narių atlyginimas. Jeigu savivaldybės tarybos narys vienu metu eina kelias pareigas, jam mokamas tas savivaldybės tarybos nario atlyginimas, kurio nustatytas dydis yra didesnis. Tarybos narys turi teisę atsisakyti šio atlyginimo, reglamento nustatyta tvarka pateikdamas prašymą dėl savivaldybės tarybos nario pareigų atlikimo neatlygintinai (tai yra visuomeniniais pagrindais). Tokį prašymą pateikusiam savivaldybės tarybos nariui šioje dalyje nurodytas atlyginimas neskaičiuojamas ir nemokamas, taip pat neskaičiuojami ir nemokami teisės aktų nustatyti privalomi mokėti mokesčiai, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokos.
 
-2. Savivaldybės tarybos nariui, su jo, kaip tarybos nario, veikla susijusioms kanceliarinėms, pašto, telefono, interneto ryšio, transporto, biuro patalpų nuomos, viešosios informacijos rengėjų teikiamų paslaugų, tarybos nario ataskaitų gamybos ir platinimo ir kitoms reglamente numatytoms išlaidoms apmokėti, kiek jų nesuteikia ar tiesiogiai neapmoka savivaldybės administracija, kas mėnesį gali būti skiriama išmoka, už kurią atsiskaitoma ne rečiau kaip vieną kartą per 3 mėnesius. Šios išmokos dydis, atsiskaitymo tvarka ir tinkamomis pripažintinų išlaidų baigtinis sąrašas nustatomi reglamente.
+2. Savivaldybės tarybos nario atlyginimas mažinamas reglamente nustatyta tvarka proporcingai savivaldybės tarybos nario praleistų to mėnesio savivaldybės tarybos, komitetų, nuolatinių komisijų ir savivaldybės kolegijos, kurių narys savivaldybės tarybos narys yra, posėdžių skaičiui.
 
-3. Savivaldybės tarybos nariui, kuris reglamento nustatyta tvarka atstovauja savivaldybei už savivaldybės ribų, savivaldybės administracija Vyriausybės nustatyta tvarka apmoka komandiruotės išlaidas.
+3. Informacija apie savivaldybių tarybų narių atlyginimus skelbiama savivaldybių interneto svetainėse.
 
-4. Savivaldybės tarybos, komitetų, komisijų posėdžių laiku, taip pat kitais reglamento nustatytais atvejais savivaldybės tarybos narys atleidžiamas nuo tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje ar organizacijoje, išsaugant jam darbo vietą.
+4. Savivaldybės tarybos nariui, kuris reglamento nustatyta tvarka atstovauja savivaldybei už savivaldybės ribų, savivaldybės administracija Vyriausybės nustatyta tvarka apmoka komandiruotės išlaidas.
+
+5. Savivaldybės tarybos, komitetų, komisijų posėdžių laiku, taip pat kitais reglamento nustatytais atvejais savivaldybės tarybos narys atleidžiamas nuo tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje ar organizacijoje, išsaugant jam darbo vietą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2053, 2023-06-13, paskelbta TAR 2023-06-22, i. k. 2023-12415
 
 13 straipsnis. Savivaldybės tarybos nario ar mero įgaliojimų netekimas savivaldybės tarybos sprendimu
 
@@ -845,7 +849,11 @@ SAVIVALDYBĖS VYKDOMOJI INSTITUCIJA
 
 6. Meras negali dirbti kitose institucijose, įstaigose, įmonėse ir organizacijose ir gauti kito atlyginimo, išskyrus atlyginimą už mokslinę, pedagoginę ar kūrybinę veiklą.
 
-7. Atstovavimo Lietuvoje ir užsienyje išlaidoms apmokėti skirto mero fondo dydis nustatomas nedidinant bendrų savivaldybės reprezentacijai skirtų lėšų ir priklauso nuo savivaldybės tarybos narių skaičiaus: savivaldybės taryba, kurioje yra 41 ir daugiau tarybos narių, gali skirti kas mėnesį iki trijų, savivaldybės taryba, kurioje yra 27–31 tarybos narys, iki dviejų, kitos savivaldybės – iki vieno VMDU dydžio sumą.
+7. Atstovavimo Lietuvoje ir užsienyje išlaidoms apmokėti skirto mero fondo dydis nustatomas nedidinant bendrų savivaldybės reprezentacijai skirtų lėšų ir priklauso nuo savivaldybės tarybos narių skaičiaus: savivaldybės taryba, kurioje yra 41 ir daugiau tarybos narių, gali skirti kas mėnesį iki trijų, savivaldybės taryba, kurioje yra 27–31 tarybos narys, – iki dviejų, kitos savivaldybės – iki vieno Valstybės duomenų agentūros skelbiamo paskutinio Lietuvos ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžio sumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2053, 2023-06-13, paskelbta TAR 2023-06-22, i. k. 2023-12415
 
 26 straipsnis. Mero priesaika
 
@@ -2051,7 +2059,7 @@ priedas
 
 2006 m. lapkričio 16 d. Komisijos direktyva 2006/111/EB dėl finansinių santykių tarp valstybių narių ir valstybės įmonių skaidrumo ir dėl finansinio skaidrumo tam tikrose įmonėse (kodifikuota redakcija)
 
-part_6b0ed60c7c634440b20e556cc5adc4ec_end
+part_bdc7b610e96e41e0acf6572fa1f56b2d_end
 
 Pakeitimai:
 
