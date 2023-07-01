@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2023-06-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-07-05
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -1022,39 +1022,47 @@ Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
 
 Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
 
-192 straipsnis. Autorių teisių ar gretutinių teisių objekto neteisėtas atgaminimas, neteisėtų kopijų platinimas, gabenimas ar laikymas
+192 straipsnis. Autorių teisių ar gretutinių teisių objekto neteisėtas atgaminimas, padarymas viešai prieinamo kompiuterių tinklais (internete), neteisėtų kopijų platinimas, gabenimas ar laikymas
 
-1. Tas, kas neteisėtai atgamino autorių teisių ar gretutinių teisių objektą arba jų dalį komercijos tikslais arba platino, gabeno ar laikė komercijos tikslais neteisėtas jų kopijas, jeigu kopijų bendra vertė pagal teisėtų kopijų, o kai jų nėra, – pagal atgamintų kūrinių originalų kainas viršijo 400 MGL dydžio sumą,
+1. Tas, kas neteisėtai atgamino autorių teisių ar gretutinių teisių objektą arba jų dalį komerciniais tikslais arba platino, gabeno ar laikė komerciniais tikslais neteisėtas jų kopijas, jeigu kopijų bendra vertė pagal teisėtų kopijų, o kai jų nėra, – pagal atgamintų kūrinių originalų kainas viršijo 400 MGL dydžio sumą,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2. Tas, kas komerciniais tikslais neteisėtai padarė viešai prieinamą kompiuterių tinklais (internete) autorių teisių ar gretutinių teisių objektą arba jų dalį, jeigu dėl to buvo padaryta turtinė žala, kuri viršijo 400 MGL dydžio sumą,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 Straipsnio pakeitimai:
 
 Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
 
+Nr. XIV-2025, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11217
+
 193 straipsnis. Informacijos apie autorių teisių ar gretutinių teisių valdymą sunaikinimas arba pakeitimas
 
-1. Tas, kas be autorių teisių ar gretutinių teisių subjekto leidimo komercijos tikslais sunaikino arba pakeitė informaciją apie autorių teisių ar gretutinių teisių valdymą, jeigu pagal tą informaciją identifikuojamas kūrinys, kūrinio autorius, kitas autorių teisių subjektas arba atlikėjas, kūrinio atlikimas, fonograma, fonogramos gamintojas, kitas gretutinių teisių subjektas, taip pat informaciją apie kūrinio, jo atlikimo ar fonogramos naudojimo sąlygas ir tvarką, įskaitant visus skaičius ar kodus, perteikiančius kūrinio, atlikimo įrašo ar fonogramos egzemplioriuose pažymėtą arba jų viešo paskelbimo metu pateikiamą informaciją,
+1. Tas, kas be autorių teisių ar gretutinių teisių subjekto leidimo komerciniais tikslais sunaikino arba pakeitė informaciją apie autorių teisių ar gretutinių teisių valdymą, jeigu pagal tą informaciją identifikuojamas kūrinys, kūrinio autorius, kitas autorių teisių subjektas arba atlikėjas, kūrinio atlikimas, fonograma, fonogramos gamintojas, kitas gretutinių teisių subjektas, taip pat informaciją apie kūrinio, jo atlikimo ar fonogramos naudojimo sąlygas ir tvarką, įskaitant visus skaičius ar kodus, perteikiančius kūrinio, atlikimo įrašo ar fonogramos egzemplioriuose pažymėtą arba jų viešo paskelbimo metu pateikiamą informaciją,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki vienerių metų.
 
-2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
-
-194 straipsnis. Neteisėtas autorių teisių ar gretutinių teisių techninių apsaugos priemonių pašalinimas
-
-1. Tas, kas neteisėtai pašalino bet kokias technines apsaugos priemones, kurias autorių teisių ar gretutinių teisių subjektai naudoja savo teisėms įgyvendinti ar apsaugoti, arba komercijos tikslais gamino, importavo, eksportavo, laikė, gabeno ar platino galimybę pašalinti tas technines apsaugos priemones suteikiančius prietaisus (dekoderius, dekodavimo korteles ar kitokius prietaisus) arba programinę įrangą, slaptažodžius, kodus ar kitokius panašius duomenis,
-
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
-
-2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 Straipsnio pakeitimai:
 
-Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
+Nr. XIV-2025, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11217
 
-Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+194 straipsnis. Neteisėtas autorių teisių ar gretutinių teisių techninių apsaugos priemonių pašalinimas
+
+1. Tas, kas neteisėtai pašalino bet kokias technines apsaugos priemones, kurias autorių teisių ar gretutinių teisių subjektai naudoja savo teisėms įgyvendinti ar apsaugoti, arba komerciniais tikslais gamino, importavo, eksportavo, laikė, gabeno ar platino galimybę pašalinti tas technines apsaugos priemones suteikiančius prietaisus (dekoderius, dekodavimo korteles ar kitokius prietaisus) arba programinę įrangą, slaptažodžius, kodus ar kitokius panašius duomenis,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2025, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11217
 
 196 straipsnis. Neteisėtas poveikis elektroniniams duomenims
 
@@ -4482,11 +4490,11 @@ Nr. XIV-699, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25127
 
 191 straipsnis. Autorystės pasisavinimas
 
-1. Tas, kas savo vardu išleido arba viešai paskelbė svetimą literatūros, mokslo ar meno kūrinį (įskaitant kompiuterių programas ir duomenų bazes) arba jo dalį,
+1. Tas, kas savo vardu išleido ar viešai paskelbė svetimą kūrinį (įskaitant kompiuterių programas) arba jo dalį,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2. Tas, kas pasinaudodamas tarnybos padėtimi arba panaudodamas psichinę prievartą privertė literatūros, mokslo ar meno kūrinio (įskaitant kompiuterių programas ir duomenų bazes) arba jo dalies autorių pripažinti kitą asmenį bendraautoriumi ar autoriaus teisių perėmėju arba atsisakyti autorystės teisės,
+2. Tas, kas pasinaudodamas tarnybos padėtimi arba panaudodamas psichinę prievartą privertė kūrinio (įskaitant kompiuterių programas) arba jo dalies autorių pripažinti kitą asmenį bendraautoriumi ar autoriaus teisių perėmėju arba atsisakyti autorystės teisės,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
@@ -4494,9 +4502,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 Straipsnio pakeitimai:
 
-Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
-
-Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)
+Nr. XIV-2025, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11217
 
 195 straipsnis. Pramoninės nuosavybės teisių pažeidimas
 
@@ -5468,7 +5474,7 @@ Straipsnio pakeitimai:
 
 Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
 
-part_95672d640df64195a56eaf4cf6f88c87_end
+part_2d657e633c56443ca2259813f0a117c8_end
 
 Lietuvos Respublikos
 
@@ -6591,6 +6597,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
 
 Lietuvos Respublikos baudžiamojo kodekso 141, 156, 176, 178, 180, 181, 182, 183, 184, 189-1, 190, 192, 195, 196, 197, 199, 199-1, 199-2, 200, 201, 203, 204, 206, 207, 208, 209, 212, 219, 220, 221, 222, 223, 224, 224-1, 246, 248, 253, 255, 256, 267, 267-1, 277, 281 straipsnių ir XXIX skyriaus pavadinimo pakeitimo, Kodekso papildymo 253-2, 256-2, 260-1, 266-1, 267-2, 267-3, 276-4, 282-1 straipsniais ir 186, 298 straipsnių pripažinimo netekusiais galios įstatymas
+
+56.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2025, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11217
+
+Lietuvos Respublikos baudžiamojo kodekso 191, 192, 193 ir 194 straipsnių pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
