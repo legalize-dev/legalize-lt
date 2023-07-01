@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2023-05-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-11-21
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -3155,8 +3155,6 @@ Nr. XIII-2799, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02851
 
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
-part_7526434d49614f699b9c1f2800148ddd_end
-
 Pakeitimai:
 
 1.
@@ -3687,15 +3685,15 @@ Papildyta straipsniu:
 
 Nr. XIII-2799, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02851
 
-1081 straipsnis. Juridinių asmenų atsakomybė už lengvųjų plastikinių pirkinių maišelių, išskyrus labai lengvus plastikinius pirkinių maišelius, neatlygintiną dalijimą prekių ar produktų pardavimo vietose
+1081 straipsnis. Juridinių asmenų atsakomybė už lengvųjų ir labai lengvų plastikinių pirkinių maišelių neatlygintiną dalijimą prekių ar produktų pardavimo vietose
 
-Lengvųjų plastikinių pirkinių maišelių, išskyrus labai lengvus plastikinius pirkinių maišelius, neatlygintinas dalijimas prekių ar produktų pardavimo vietose užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+Lengvųjų ir (arba) labai lengvų plastikinių pirkinių maišelių, išskyrus labai lengvus plastikinius pirkinių maišelius, į kuriuos pakuojami šviežia mėsa, jos produktai ir šviežios žuvys, jų produktai, neatlygintinas dalijimas prekių ar produktų pardavimo vietose užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XIII-2799, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02851
+Nr. XIV-1564, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24644
 
 661 straipsnis. Juridinių asmenų atsakomybė už neteisėtą Lietuvos Respublikos jūros rajono teršimą iš šiame jūros rajone esančių jūros įrenginių ir (arba) iš sausumoje esančių stacionariųjų ar mobiliųjų įrenginių
 
