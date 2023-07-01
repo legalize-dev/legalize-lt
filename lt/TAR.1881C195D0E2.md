@@ -4,7 +4,7 @@ identifier: "TAR.1881C195D0E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2022-09-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
 
@@ -531,11 +531,13 @@ Nr. XIII-3245, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15883
 
 1. Žvalgybos institucijas sudaro valdybos, skyriai ir poskyriai.
 
-2. Valstybės saugumo departamento nuostatus, struktūrą ir pareigybių sąrašą tvirtina Valstybės saugumo departamento direktorius.
+2. Valstybės saugumo departamento nuostatus, struktūrą, pareigybių skaičių ir pareigybių sąrašą tvirtina Valstybės saugumo departamento direktorius.
 
-3. Antrojo operatyvinių tarnybų departamento nuostatus, struktūrą, pareigybių sąrašą, didžiausią leistiną žvalgybos pareigūnų ir darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), pareigybių skaičių, taip pat kiekvienais metais ribinį karių ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičių tvirtina krašto apsaugos ministras.
+3. Antrojo operatyvinių tarnybų departamento nuostatus, struktūrą, pareigybių skaičių ir pareigybių sąrašą, taip pat kiekvienais metais ribinį karių ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičių tvirtina krašto apsaugos ministras.
 
-4. Valstybės saugumo departamento didžiausią leistiną žvalgybos pareigūnų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių nustato Seimo valdyba.
+Straipsnio pakeitimai:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 29 straipsnis. Žvalgybos institucijų personalas
 
@@ -565,19 +567,53 @@ Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
 
 4) valdybos viršininko pavaduotojas;
 
-5) skyriaus viršininkas;
+5) patarėjas;
 
-6) skyriaus viršininko pavaduotojas;
+Papildyta straipsnio punktu:
 
-7) poskyrio viršininkas;
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
-8) vyriausiasis specialistas;
+6) skyriaus viršininkas;
 
-9) vyresnysis specialistas;
+Straipsnio punkto numeracijos pakeitimas:
 
-10) specialistas;
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
-11) jaunesnysis specialistas.
+7) skyriaus viršininko pavaduotojas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
+
+8) poskyrio viršininkas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
+
+9) vyriausiasis specialistas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
+
+10) vyresnysis specialistas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
+
+11) specialistas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
+
+12) jaunesnysis specialistas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 31 straipsnis. Žvalgybos institucijų vadovybė
 
@@ -761,7 +797,11 @@ savo elgesiu visur ir visada saugoti gerą žvalgybos pareigūno vardą.“
 
 37 straipsnis. Asmenų, priimamų į tarnybą (darbą) žvalgybos institucijoje, sutartys
 
-1. Žvalgybos pareigūnai žvalgybos institucijoje tarnauja pagal žvalgybos pareigūnų tarnybos sutartis. Žvalgybos pareigūno tarnybos sutarties formą nustato šis įstatymas (priedas).
+1. Žvalgybos pareigūnai žvalgybos institucijoje tarnauja pagal žvalgybos pareigūnų tarnybos sutartis. Žvalgybos pareigūno tarnybos sutarties formą nustato šis įstatymas (1 priedas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 2. Žvalgybos pareigūnų tarnybos sutartys su žvalgybos institucijų direktoriais ir jų pavaduotojais nesudaromos.
 
@@ -903,11 +943,13 @@ Nr. XIII-1952, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00867
 
 46 straipsnis. Žvalgybos pareigūnų tarnybos stažas
 
-Žvalgybos pareigūnų tarnybos stažo pradžia laikoma žvalgybos pareigūno tarnybos žvalgybos institucijoje pradžia. Į žvalgybos pareigūnų tarnybos stažą šio įstatymo 64 straipsnyje nustatytam priedui už tarnybos stažą skaičiuoti ir 65 straipsnyje nustatytai atostogų trukmei nustatyti įskaitomas ir nuo 1990 m. kovo 11 d. įgytas profesinės karo tarnybos ar tarnybos statutinėje valstybės tarnyboje stažas.
+Žvalgybos pareigūnų tarnybos stažo pradžia laikoma žvalgybos pareigūno tarnybos žvalgybos institucijoje pradžia. Į žvalgybos pareigūnų tarnybos stažą šio įstatymo 64 straipsnyje nustatytam priedui už tarnybos stažą skaičiuoti ir 65 straipsnyje nustatytai atostogų trukmei nustatyti įskaitomas ir nuo 1990 m. kovo 11 d. įgytas tarnybos Lietuvos valstybei stažas.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1801, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10142
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 47 straipsnis. Žvalgybos pareigūnų turto, pajamų ir privačių interesų deklaravimas
 
@@ -1031,11 +1073,15 @@ Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
 
 Nr. XIII-2349, 2019-07-16, paskelbta TAR 2019-07-31, i. k. 2019-12633
 
-6. Kai yra tarnybinė būtinybė ir kai valstybės ar savivaldybių institucijų ar įstaigų vadovai šį klausimą suderina, žvalgybos institucijos vadovo įsakymu žvalgybos pareigūnas jo rašytiniu sutikimu gali būti laikinai perkeltas iš žvalgybos institucijos į karjeros valstybės tarnautojo pareigas kitoje valstybės ar savivaldybių institucijoje ar įstaigoje, jeigu žvalgybos pareigūnas atitinka Valstybės tarnybos įstatyme nustatytus priėmimo į valstybės tarnautojo pareigas bendruosius reikalavimus ir pareigybės, į kurią jis perkeliamas, aprašyme nustatytus specialiuosius reikalavimus, laikotarpiui iki 3 metų. Kai yra tarnybinė būtinybė, šis terminas, valstybės ar savivaldybės institucijų ar įstaigų vadovams suderinus, gali būti pratęstas iki 2 metų. Žvalgybos pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas laikas įskaitomas į žvalgybos pareigūno tarnybos stažą. Laikinai į karjeros valstybės tarnautojo pareigas perkeltam žvalgybos pareigūnui paliekamas iki perkėlimo turėtas karinis laipsnis ar tarnybinis rangas. Perkėlimo laikotarpiu valstybės ar savivaldybės institucija ar įstaiga, į kurią žvalgybos pareigūnas perkeltas, moka žvalgybos pareigūnui ne mažesnį negu šiame įstatyme nustatytą tarnybinį atlyginimą (įskaitant priedus už kario laipsnį ar tarnybinį rangą bei tarnybos stažą), skaičiuojamą pagal iki perkėlimo eitoms žvalgybos pareigūno pareigoms nustatytą pareiginės algos koeficientą, taip pat taiko visas šiame įstatyme žvalgybos pareigūnams nustatytas garantijas. Laikinai į karjeros valstybės tarnautojo pareigas perkeltam žvalgybos pareigūnui taikomi visi šiame įstatyme žvalgybos pareigūnams nustatyti draudimai, apribojimai, o pasibaigus jo perkėlimo laikotarpiui, garantuojamos eitos arba kitos lygiavertės žvalgybos pareigūno pareigos.
+6. Kai yra tarnybinė būtinybė ir kai valstybės ar savivaldybių institucijų ar įstaigų vadovai šį klausimą suderina, žvalgybos institucijos vadovo įsakymu žvalgybos pareigūnas jo rašytiniu sutikimu gali būti laikinai perkeltas iš žvalgybos institucijos į karjeros valstybės tarnautojo pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu žvalgybos pareigūnas atitinka Valstybės tarnybos įstatyme nustatytus priėmimo į valstybės tarnautojo pareigas bendruosius reikalavimus ir pareigybės, į kurią jis perkeliamas, aprašyme nustatytus specialiuosius reikalavimus, laikotarpiui iki 3 metų. Kai yra tarnybinė būtinybė, šis terminas, valstybės ar savivaldybės institucijų ar įstaigų vadovams suderinus, gali būti pratęstas iki 2 metų. Žvalgybos pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas laikas įskaitomas į žvalgybos pareigūno tarnybos stažą. Laikinai į karjeros valstybės tarnautojo pareigas perkeltam žvalgybos pareigūnui paliekamas iki perkėlimo turėtas karinis laipsnis ar tarnybinis rangas. Perkėlimo laikotarpiu valstybės ar savivaldybės institucija ar įstaiga, į kurią žvalgybos pareigūnas perkeltas, moka žvalgybos pareigūnui ne mažesnį negu šiame įstatyme nustatytą tarnybinį atlyginimą, skaičiuojamą pagal iki perkėlimo eitoms žvalgybos pareigūno pareigoms nustatytą pareiginės algos koeficientą, taip pat taiko visas šiame įstatyme žvalgybos pareigūnams nustatytas garantijas. Laikinai į karjeros valstybės tarnautojo pareigas perkeltam žvalgybos pareigūnui taikomi visi šiame įstatyme žvalgybos pareigūnams nustatyti draudimai, apribojimai, o pasibaigus jo perkėlimo laikotarpiui, garantuojamos eitos arba kitos lygiavertės žvalgybos pareigūno pareigos.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 51 straipsnis. Laikinas pavedimas atlikti kitas pareigas
 
@@ -1345,7 +1391,11 @@ DVYLIKTASIS SKIRSNIS
 
 62 straipsnis. Tarnybiniai rangai ir karių laipsniai
 
-1. Žvalgybos pareigūnams (išskyrus karius) suteikiami tarnybiniai rangai.
+1. Žvalgybos pareigūnams, išskyrus karius, suteikiami tarnybiniai rangai. Aukščiausias yra pirmas rangas, žemiausias – šešioliktas rangas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 2. Valstybės saugumo departamento direktoriui pirmą rangą, jo pavaduotojams antrą rangą, skirdamas juos į šias pareigas, suteikia Respublikos Prezidentas. Antrojo operatyvinių tarnybų departamento direktoriui pirmą rangą, jo pavaduotojams antrą rangą, skirdamas juos į šias pareigas, suteikia krašto apsaugos ministras.
 
@@ -1361,23 +1411,27 @@ DVYLIKTASIS SKIRSNIS
 
 Žvalgybos pareigūnams nustatomi tokie pareigybes atitinkantys karių laipsniai ir tarnybiniai rangai:
 
-1) direktoriaus – nuo pulkininko (jūrų kapitono) iki brigados generolo (flotilės admirolo) ar pirmo rango;
+1) direktoriaus – nuo pulkininko (jūrų kapitono) iki brigados generolo (flotilės admirolo) ar pirmo tarnybinio rango;
 
-2) direktoriaus pavaduotojo – pulkininko (jūrų kapitono) ar antro rango;
+2) direktoriaus pavaduotojo – pulkininko (jūrų kapitono) ar antro tarnybinio rango;
 
-3) valdybos viršininko, valdybos viršininko pavaduotojo – pulkininko leitenanto (komandoro) ar trečio rango;
+3) valdybos viršininko, valdybos viršininko pavaduotojo – pulkininko leitenanto (komandoro) ar trečio tarnybinio rango;
 
-4) skyriaus viršininko – majoro (komandoro leitenanto) ar ketvirto rango, pulkininko leitenanto (komandoro) ar trečio rango;
+4) patarėjo, skyriaus viršininko – nuo majoro (komandoro leitenanto) iki pulkininko leitenanto (komandoro) ar nuo ketvirto tarnybinio rango iki trečio tarnybinio rango;
 
-5) skyriaus viršininko pavaduotojo, poskyrio viršininko – majoro (komandoro leitenanto) ar ketvirto rango;
+5) skyriaus viršininko pavaduotojo, poskyrio viršininko – majoro (komandoro leitenanto) ar ketvirto tarnybinio rango;
 
-6) vyriausiojo specialisto – nuo leitenanto iki majoro (komandoro leitenanto) ar nuo septinto iki ketvirto rango;
+6) vyriausiojo specialisto – nuo leitenanto iki majoro (komandoro leitenanto) ar nuo septinto iki ketvirto tarnybinio rango;
 
-7) vyresniojo specialisto – nuo štabo seržanto, štabo seržanto specialisto (štabo laivūno, štabo laivūno specialisto) iki seržanto majoro (vyresniojo laivūno) ar nuo dvylikto iki aštunto rango;
+7) vyresniojo specialisto – nuo štabo seržanto, štabo seržanto specialisto (štabo laivūno, štabo laivūno specialisto) iki seržanto majoro (vyresniojo laivūno) ar nuo dvylikto iki aštunto tarnybinio rango;
 
-8) specialisto – nuo eilinio (jūreivio) iki vyresniojo seržanto, vyresniojo seržanto specialisto ar nuo penkiolikto iki trylikto rango;
+8) specialisto – nuo eilinio (jūreivio) iki vyresniojo seržanto, vyresniojo seržanto specialisto ar nuo penkiolikto iki trylikto tarnybinio rango;
 
-9) jaunesniojo specialisto – jaunesniojo eilinio (jaunesniojo jūreivio) ar šešiolikto rango.
+9) jaunesniojo specialisto – jaunesniojo eilinio (jaunesniojo jūreivio) ar šešiolikto tarnybinio rango.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 TRYLIKTASIS SKIRSNIS
 
@@ -1385,119 +1439,41 @@ TRYLIKTASIS SKIRSNIS
 
 64 straipsnis. Žvalgybos pareigūnų tarnybinis atlyginimas ir kitos su tarnybos santykiais susijusios išmokos
 
-1. Žvalgybos pareigūnų tarnybinį atlyginimą sudaro pareiginė alga, priedai už tarnybinį rangą ar kario laipsnį, priedas už tarnybos stažą ir priemoka už su ypatinga specifika susijusių funkcijų atlikimą.
+1. Žvalgybos pareigūnų tarnybinį atlyginimą sudaro:
 
-2. Žvalgybos pareigūnų pareiginės algos koeficientus ar jų intervalus nustato Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas. Jeigu Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme pareigybei yra nustatyti pareiginės algos koeficientų intervalai, konkretų pareiginės algos koeficientą pareigybei nustato žvalgybos institucijos vadovas, atsižvelgdamas į šiuos kriterijus: veiklos pobūdį, pavojingumą, sudėtingumą, reikalaujamą kompetenciją, įtaką institucijos sprendimų priėmimui ir atsakomybės lygį.
+1) pareiginė alga;
 
-3. Žvalgybos pareigūnų priedas už kario laipsnį skaičiuojamas nuo pareiginės algos koeficiento, nustatyto pagal šio straipsnio 2 dalį:
+2) priemokos (išskyrus žvalgybos institucijos vadovą);
 
-1) brigados generolo, flotilės admirolo – 30 procentų dydžio;
+3) priedas už žvalgybos pareigūnų tarnybos stažą (išskyrus žvalgybos institucijos vadovą).
 
-2) pulkininko, jūrų kapitono – 30 procentų dydžio;
+2. Žvalgybos institucijos vadovas patvirtina žvalgybos institucijos žvalgybos pareigūnų tarnybos apmokėjimo sistemą (toliau – tarnybos apmokėjimo sistema), kurioje detalizuojami žvalgybos institucijos pareigybių sąraše esančių pareigybių pareiginės algos koeficiento, viršijančio šio įstatymo 2 priede nustatytą pareiginės algos koeficientą, dydžio nustatymo kriterijai (suteiktas tarnybinis rangas ar kario laipsnis, išsilavinimas, profesinio darbo patirtis, veiklos sudėtingumas, darbo krūvis, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas ir pan.) ir, atsižvelgiant į nurodytus kriterijus, nustatomi didžiausi pareiginės algos koeficientų dydžiai, konkrečiai pareigybei nustatyti pareiginės algos koeficientų intervalai, priemokų skyrimo tvarka ir dydžiai. Žvalgybos pareigūno pareiginės algos didžiausias koeficientas negali viršyti žvalgybos institucijos vadovo pareiginės algos koeficiento dydžio, nustatyto šio įstatymo 2 priede.
 
-3) pulkininko leitenanto, komandoro – 27 procentų dydžio;
+3. Žvalgybos pareigūno pareiginė alga nustatoma iš tarnybos apmokėjimo sistemoje žvalgybos pareigūno pareigybei nustatyto pareiginės algos koeficientų intervalo parenkant konkretų pareiginės algos koeficientą. Pareiginės algos koeficiento vienetas yra Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis).
 
-4) majoro, komandoro leitenanto – 25 procentų dydžio;
+4. Žvalgybos pareigūnams mokamos šios priemokos:
 
-5) kapitono, kapitono leitenanto – 22 procentų dydžio;
+1) už pavadavimą, kai raštu pavedama laikinai atlikti ir kito žvalgybos pareigūno funkcijas, žvalgybos pareigūno sutikimu;
 
-6) vyresniojo leitenanto – 20 procentų dydžio;
+2) už papildomų užduočių, suformuluotų raštu, atlikimą, kai dėl to viršijamas įprastas darbo krūvis arba kai atliekamos pareigybės aprašyme nenumatytos funkcijos;
 
-7) leitenanto – 18 procentų dydžio;
+3) už įprastą darbo krūvį viršijančią veiklą, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas.
 
-8) seržanto majoro, vyresniojo laivūno – 16 procentų dydžio;
+5. Šio straipsnio 4 dalyje nurodytų priemokų dydį nustato žvalgybos institucijos vadovas, tačiau kiekvienos iš šių priemokų dydis negali būti mažesnis kaip 10 procentų pareiginės algos. Žvalgybos pareigūnui skiriamų priemokų, nurodytų šio straipsnio 4 dalyje, suma negali viršyti 80 procentų pareiginės algos.
 
-9) viršilos, laivūno – 14 procentų dydžio;
+6. Žvalgybos pareigūnams priedą už žvalgybos pareigūnų tarnybos stažą sudaro vienas procentas pareiginės algos už kiekvienus tarnybos metus. Šio priedo suma negali viršyti 20 procentų pareiginės algos.
 
-10) štabo seržanto, štabo seržanto specialisto, štabo laivūno, štabo laivūno specialisto –12 procentų dydžio;
+7. Kasmetinių atostogų laikotarpiu žvalgybos pareigūnams mokamas vidutinis tarnybinis atlyginimas, apskaičiuojamas Vyriausybės nustatyta tvarka.
 
-11) vyresniojo seržanto, vyresnio seržanto specialisto – 10 procentų dydžio;
-
-12) seržanto, seržanto specialisto – 8 procentų dydžio;
-
-13) grandinio – 7 procentų dydžio;
-
-14) vyresniojo eilinio, vyresniojo jūreivio – 6 procentų dydžio;
-
-15) eilinio, jūreivio – 5 procentų dydžio;
-
-16) jaunesniojo eilinio, jaunesniojo jūreivio – 4 procentų dydžio.
-
-4. Žvalgybos pareigūnų priedas už tarnybinį rangą skaičiuojamas nuo pareiginės algos koeficiento, nustatyto pagal šio straipsnio 2 dalį:
-
-1) pirmą rangą – 30 procentų dydžio;
-
-2) antrą rangą – 30 procentų dydžio;
-
-3) trečią rangą – 27 procentų dydžio;
-
-4) ketvirtą rangą – 25 procentų dydžio;
-
-5) penktą rangą – 22 procentų dydžio;
-
-6) šeštą rangą – 20 procentų dydžio;
-
-7) septintą rangą – 18 procentų dydžio;
-
-8) aštuntą rangą – 16 procentų dydžio;
-
-9) devintą rangą – 14 procentų dydžio;
-
-10) dešimtą rangą – 12 procentų dydžio;
-
-11) vienuoliktą rangą – 10 procentų dydžio;
-
-12) dvyliktą rangą – 8 procentų dydžio;
-
-13) tryliktą rangą – 7 procentų dydžio;
-
-14) keturioliktą rangą – 6 procentų dydžio;
-
-15) penkioliktą rangą – 5 procentų dydžio;
-
-16) šešioliktą rangą – 4 procentų dydžio.
-
-5. Žvalgybos pareigūnų priedas už tarnybos stažą skaičiuojamas nuo pareiginės algos bazinio dydžio:
-
-1) nuo 1 iki 2 metų – 0,3;
-
-2) nuo 2 iki 4 metų – 0,6;
-
-3) nuo 4 iki 6 metų – 0,9;
-
-4) nuo 6 iki 8 metų – 1,2;
-
-5) nuo 8 iki 10 metų – 1,5;
-
-6) nuo 10 iki 12 metų – 1,8;
-
-7) nuo 12 iki 14 metų – 2,1;
-
-8) nuo 14 iki 16 metų – 2,4;
-
-9) nuo 16 iki 18 metų – 2,7;
-
-10) nuo 18 iki 20 metų – 3;
-
-11) nuo 20 iki 22 metų– 3,3;
-
-12) nuo 22 iki 24 metų – 3,6;
-
-13) nuo 24 iki 25 metų – 3,9;
-
-14) nuo 25 metų – 4,2.
-
-6. Žvalgybos pareigūnui už funkcijų, susijusių su ypatinga specifika atlikimą, mokama iki 50 procentų pareiginės algos dydžio priemoka. Funkcijų, susijusių su ypatinga specifika, sąrašas ir šias funkcijas atitinkantis priemokos dydis tvirtinami bendru Valstybės saugumo departamento direktoriaus ir Lietuvos Respublikos krašto apsaugos ministro įsakymu.
-
-7. Kasmetinių atostogų laikotarpiu žvalgybos pareigūnams mokamas vidutinis tarnybinis atlyginimas, apskaičiuotas Vyriausybės nustatyta tvarka.
-
-8. Žvalgybos pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kai laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai asmuo tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje ar pakeliui į ją (iš jos), iš institucijos lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos pašalpos skirtumas.
+8. Žvalgybos pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kai laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai asmuo tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje ar pakeliui į ją (iš jos), iš institucijos lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos išmokos skirtumas.
 
 9. Antrajame operatyvinių tarnybų departamente tarnaujantiems kariams Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nuostatos dėl aprūpinimo maistu ir tarnybine gyvenamąja patalpa netaikomos, išskyrus karius, tarnaujančius tarptautinių operacijų kariniuose vienetuose.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-1102, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06969
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 65 straipsnis. Žvalgybos pareigūnų atostogos
 
@@ -1669,13 +1645,13 @@ Nr. XIV-1194, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15185
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
 žvalgybos įstatymo
 
-priedas
+1 priedas
 
 ŽVALGYBOS PAREIGŪNO TARNYBOS SUTARTIS Nr. ______
 
@@ -1750,6 +1726,102 @@ Sutartis nutraukta ________________________________________________________
 ___________________________________________________________________________
 
 (pagrindas, atleidimo iš tarnybos įsakymo data, Nr., sutarties nutraukimo data)
+
+___________________
+
+Priedo pakeitimai:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
+
+Lietuvos Respublikos žvalgybos įstatymo
+
+2 priedas
+
+ŽVALGYBOS PAREIGŪNŲ PAREIGINĖS ALGOS KOEFICIENTAI
+
+Eil. Nr.
+
+Pareigų pavadinimas
+
+Pareiginės algos koeficientas (baziniais dydžiais)
+
+1.
+
+Direktorius
+
+4,00
+
+2.
+
+Direktoriaus pavaduotojas
+
+nuo 2,08
+
+3.
+
+Valdybos viršininkas
+
+nuo 1,98
+
+4.
+
+Valdybos viršininko pavaduotojas
+
+nuo 1,88
+
+5.
+
+Patarėjas
+
+nuo 1,73
+
+6.
+
+Skyriaus viršininkas
+
+nuo 1,62
+
+7.
+
+Skyriaus viršininko pavaduotojas
+
+nuo 1,52
+
+8.
+
+Poskyrio viršininkas
+
+nuo 1,52
+
+9.
+
+Vyriausiasis specialistas
+
+nuo 1,47
+
+10.
+
+Vyresnysis specialistas
+
+nuo 1,37
+
+11.
+
+Specialistas
+
+nuo 1,22
+
+12.
+
+Jaunesnysis specialistas
+
+nuo 1,11
+
+___________________
+
+Papildyta priedu:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 Pakeitimai:
 
@@ -1921,9 +1993,21 @@ Nr. XIV-1123, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12615
 
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 64-1 straipsnio pakeitimo įstatymas
 
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
+
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 28, 30, 37, 46, 50, 62, 63, 64, 64-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 2 priedu įstatymas
+
 641 straipsnis. Žvalgybos pareigūnų aprūpinimas tarnybos užsienyje laikotarpiu
 
-1. Tarnybos užsienyje laikotarpiu žvalgybos pareigūnui mokamas šiame įstatyme nustatytas tarnybinis atlyginimas (įskaitant priedus už kario laipsnį ar tarnybinį rangą ir tarnybos stažą), skaičiuojamas pagal nustatytą iki perkėlimo eitoms žvalgybos pareigūno pareigoms pareiginės algos koeficientą, išskyrus atvejus, kai darbo užmokestį jiems moka priimančioji institucija.
+1. Tarnybos užsienyje laikotarpiu žvalgybos pareigūnui mokami šiame įstatyme nustatyta pareiginė alga ir priedas už žvalgybos pareigūnų tarnybos stažą, išskyrus atvejus, kai darbo užmokestį jiems moka priimančioji institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 2. Žvalgybos pareigūnai, laikinai perkelti tarnauti į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas, aprūpinami asmenų delegavimą į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas reglamentuojančių teisės aktų nustatytomis sąlygomis ir tvarka.
 
@@ -1931,7 +2015,11 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 64-1 straipsnio pakeitim
 
 4. Žvalgybos pareigūnai, laikinai perkelti tarnauti į užsienio valstybių ar tarptautines karines ar gynybos institucijas, aprūpinami šio straipsnio 5–28 dalyse nustatytomis sąlygomis ir tvarka.
 
-5. Žvalgybos pareigūnams, laikinai perkeltiems tarnauti į užsienio valstybių ar tarptautines karines ar gynybos institucijas, su tarnybiniu atlyginimu mokama su tarnyba užsienyje susijusių išlaidų kompensacija, taikant Vyriausybės nustatyto dydžio su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo žvalgybos pareigūno pareigybės, ir gyvenimo lygio vietos koeficientą, susidedantį iš bazinio koeficiento ir motyvacinio koeficiento, kurių dydžius nustato Vyriausybė. Užsienio valstybėse, kurių gyvenimo lygio vietos koeficiento dydžiai nėra nustatyti Vyriausybės, taikomas gyvenimo lygio vietos koeficientas 1,2. Su tarnyba užsienyje susijusių išlaidų kompensacijos koeficiento vieneto vertė eurais lygi Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų bei valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) baziniam dydžiui.
+5. Žvalgybos pareigūnams, laikinai perkeltiems tarnauti į užsienio valstybių ar tarptautines karines ar gynybos institucijas, su tarnybiniu atlyginimu mokama su tarnyba užsienyje susijusių išlaidų kompensacija, taikant Vyriausybės nustatyto dydžio su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo žvalgybos pareigūno pareigybės, ir gyvenimo lygio vietos koeficientą, susidedantį iš bazinio koeficiento ir motyvacinio koeficiento, kurių dydžius nustato Vyriausybė. Užsienio valstybėse, kurių gyvenimo lygio vietos koeficiento dydžiai nėra nustatyti Vyriausybės, taikomas gyvenimo lygio vietos koeficientas 1,2. Su tarnyba užsienyje susijusių išlaidų kompensacijos koeficiento vieneto vertė eurais lygi baziniam dydžiui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 6. Žvalgybos pareigūnui už sutuoktinį, nepilnamečius vaikus (įvaikius), jeigu jie nėra emancipuoti ar sudarę santuokos, pilnamečius vaikus (įvaikius) iki 20 metų, jeigu jie su žvalgybos pareigūnu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, sutuoktinio nepilnamečius vaikus (įvaikius), jeigu jų gyvenamoji vieta yra nustatyta kartu su žvalgybos pareigūno sutuoktiniu ir jie nėra emancipuoti ar sudarę santuokos, pilnamečius vaikus (įvaikius) iki 20 metų, jeigu jų gyvenamoji vieta yra nustatyta kartu su žvalgybos pareigūno sutuoktiniu ir jie su žvalgybos pareigūnu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, nepilnamečius išlaikytinius, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ir (ar) jo sutuoktinis, kitus išlaikytinius asmenis, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ir (ar) jo sutuoktinis (toliau kartu šiame straipsnyje – šeimos nariai), kurie užsienyje gyvena kartu su žvalgybos pareigūnu, mokamos šio straipsnio 7–17, 26 ir 27 dalyse numatytos išmokos ir (ar) kompensacijos.
 
