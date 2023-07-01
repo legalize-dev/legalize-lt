@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2023-06-24"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-06-24 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-07-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
 
@@ -193,11 +193,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
 
-2. Motinystės išmoka per mėnesį negali būti mažesnė už 6 bazinės socialinės išmokos, kurios dydį Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą ketvirtį iki teisės gauti motinystės išmoką atsiradimo dienos.
+2. Motinystės išmoka per mėnesį negali būti mažesnė už 8 bazinės socialinės išmokos, kurios dydį Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą mėnesį iki teisės gauti motinystės išmoką atsiradimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
+
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 
 3. Jeigu apdraustasis asmuo motinystės išmokos gavimo laikotarpiu turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš tuo laikotarpiu vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra draudžiamosios pajamos, ar gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, ir jų dydis yra mažesnis už motinystės išmoką, jam mokamas motinystės išmokos ir jo atitinkamą mėnesį turėtų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. Jeigu šių pajamų ir (ar) išmokų dydis yra didesnis už motinystės išmoką arba jai lygus, motinystės išmoka nemokama. Mokant motinystės išmoką, į draudžiamąsias pajamas neįtraukiamos motinystės išmokos mokėjimo metu gautos draudžiamosios pajamos už darbą, atliktą iki pirmosios nėštumo ir gimdymo atostogų dienos. Asmenys, gaunantys pajamų tik iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, laikomi turinčiais draudžiamųjų pajamų visą mėnesį, jeigu motinystės socialinio draudimo įmokos sumokėtos nuo pajamų sumos, ne mažesnės negu minimalioji mėnesinė alga. Jeigu motinystės socialinio draudimo įmokos sumokėtos nuo mažesnės negu minimalioji mėnesinė alga sumos, šių asmenų draudžiamųjų pajamų turėjimo laikotarpis laikomas proporcingai mažesniu. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti motinystės išmoką, ši išmoka mokama neatsižvelgiant į pajamas, gautas vykdant jų, kaip Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodytų savarankiškai dirbančių asmenų, veiklą. Mokant motinystės išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
 
@@ -367,11 +369,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
 
-2. Tėvystės išmoka per mėnesį negali būti mažesnė už 6 bazinės socialinės išmokos, kurios dydį Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą ketvirtį iki teisės gauti tėvystės išmoką atsiradimo dienos.
+2. Tėvystės išmoka per mėnesį negali būti mažesnė už 8 bazinės socialinės išmokos, kurios dydį Socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą mėnesį iki teisės gauti tėvystės išmoką atsiradimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
+
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 
 3. Jeigu apdraustasis asmuo tėvystės išmokos gavimo laikotarpiu turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš tuo laikotarpiu vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra draudžiamosios pajamos, ar gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, ir jų dydis yra mažesnis už tėvystės išmoką, jam mokamas tėvystės išmokos ir jo atitinkamą mėnesį turėtų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. Jeigu šių pajamų ir (ar) išmokų dydis yra didesnis už tėvystės išmoką arba jai lygus, tėvystės išmoka nemokama. Mokant tėvystės išmoką, į draudžiamąsias pajamas neįtraukiamos tėvystės išmokos mokėjimo metu gautos draudžiamosios pajamos už darbą, atliktą iki pirmosios tėvystės atostogų dienos. Asmenys, gaunantys pajamų tik iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, laikomi turinčiais draudžiamųjų pajamų visą mėnesį, jeigu motinystės socialinio draudimo įmokos sumokėtos nuo pajamų sumos, ne mažesnės negu minimalioji mėnesinė alga. Jeigu motinystės socialinio draudimo įmokos sumokėtos nuo mažesnės negu minimalioji mėnesinė alga sumos, šių asmenų draudžiamųjų pajamų turėjimo laikotarpis laikomas proporcingai mažesniu. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti tėvystės išmoką, ši išmoka mokama neatsižvelgiant į pajamas, gautas vykdant jų, kaip Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodytų savarankiškai dirbančių asmenų, veiklą. Mokant tėvystės išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
 
@@ -513,7 +517,7 @@ Nr. XIV-1176, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13892
 
 1. Kompensuojamasis uždarbis, pagal kurį nustatomas ligos ir profesinės reabilitacijos išmokų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 3 kalendorinius mėnesius, buvusius iki praeito kalendorinio mėnesio prieš laikinojo nedarbingumo nustatymo ar profesinės reabilitacijos programos pradžios mėnesį.
 
-2. Kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo mėnesį. Jeigu apdraustasis asmuo, turintis teisę gauti motinystės išmoką, per šioje dalyje nurodytą laikotarpį draudžiamųjų pajamų Lietuvoje neturėjo iš viso ar iš dalies dėl to, kad dirbo ir (ar) buvo draudžiamas užsienyje, kompensuojamasis uždarbis, pagal kurį nustatomas motinystės išmokos dydis, apskaičiuojamas iš paskutinių kalendorinių mėnesių, kuriais motinystės socialiniu draudimu apdraustasis asmuo Lietuvoje dirbo ir gavo draudžiamųjų pajamų, nurodytų šio įstatymo 3 straipsnio 2 dalyje, arba iš paeiliui einančių 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės išmoką atsiradimo mėnesį, draudžiamųjų pajamų Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka, taikant iš jų palankesnį kompensuojamojo uždarbio dydį.
+2. Kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokų dydis, apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo mėnesį. Jeigu apdraustasis asmuo, turintis teisę gauti motinystės išmoką, per visą ar dalį šioje dalyje nurodyto laikotarpio draudžiamųjų pajamų Lietuvoje neturėjo dėl to, kad dirbo ir (ar) buvo draudžiamas užsienyje, kompensuojamasis uždarbis, pagal kurį nustatomas motinystės išmokos dydis, apskaičiuojamas pagal paskutinių kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės išmoką atsiradimo mėnesį, kuriais motinystės socialiniu draudimu apdraustasis asmuo Lietuvoje dirbo ir (ar) gavo draudžiamųjų pajamų, nurodytų šio įstatymo 3 straipsnio 2 dalyje, arba pagal paeiliui einančių 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės išmoką atsiradimo mėnesį, draudžiamąsias pajamas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka, taikant palankesnį kompensuojamojo uždarbio dydį.
 
 Straipsnio dalies pakeitimai:
 
@@ -521,13 +525,19 @@ Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
 
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
+
 3. Jeigu visą šio straipsnio 2 dalyje nurodytą laikotarpį arba jo dalį apdraustajam asmeniui buvo mokama vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką arba jam buvo suteiktos prieš tai gimusio vaiko nėštumo ir gimdymo, tėvystės, vaiko priežiūros atostogos, globojamo vaiko nėštumo ir gimdymo, vaiko priežiūros atostogos arba įvaikinto vaiko tėvystės, vaiko priežiūros atostogos, jo prašymu nauja motinystės, tėvystės ar vaiko priežiūros išmoka gali būti apskaičiuota iš kompensuojamojo uždarbio, pagal kurį buvo apskaičiuota atitinkama ankstesnė (pirmesnė) motinystės, tėvystės ar vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką. Kai ankstesnė (pirmesnė) motinystės, tėvystės ar vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką buvo apskaičiuota iš kompensuojamojo uždarbio, apriboto maksimaliu kompensuojamojo uždarbio dydžiu, nauja motinystės, tėvystės ar vaiko priežiūros išmoka apskaičiuojama pagal faktinį asmens kompensuojamąjį uždarbį, apskaičiuotą teisės į atitinkamą ankstesnę (pirmesnę) motinystės, tėvystės ar vaiko priežiūros išmoką dieną. Apskaičiuojant tėvystės ar vaiko priežiūros išmoką, taikomas šio straipsnio 5 dalyje nurodytas maksimalus kompensuojamojo uždarbio dydis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-299, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06976
 
-4. Jeigu vidutinis mėnesinis kompensuojamasis uždarbis ligos išmokai apskaičiuoti yra mažesnis negu 15 procentų šalies vidutinio mėnesinio darbo užmokesčio, galiojusio užpraeitą ketvirtį iki nedarbingumo atsiradimo mėnesio, ši išmoka skaičiuojama taikant pastarąjį dydį. Jeigu profesinės reabilitacijos išmokos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis yra mažesnis už profesinės reabilitacijos programos pradžios mėnesį galiojusių dviejų valstybinių socialinio draudimo bazinių pensijų sumą, profesinės reabilitacijos išmoka skaičiuojama pagal pastarąjį dydį.
+4. Neteko galios nuo 2023-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 
 Straipsnio dalies pakeitimai:
 
@@ -713,7 +723,11 @@ Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
 
 4. Jeigu apdraustajam asmeniui vaiko priežiūros atostogos suteikiamos pagal Darbo kodekso 134 straipsnio 2 dalį, išskyrus atvejus, nustatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, ir jis pasirenka gauti vaiko priežiūros išmoką 24 mėnesius, vaiko priežiūros išmoka jam skiriama ir mokama 24 mėnesius, išskyrus atvejį, numatytą šio įstatymo 22 straipsnio 3 dalyje, iš kurių šio įstatymo 22 straipsnio 2 ir 4 dalyse nustatytais laikotarpiais jam skiriamos ir mokamos vaiko priežiūros išmokos dydis yra 78 procentai šios išmokos gavėjo kompensuojamojo uždarbio dydžio, likusius pirmųjų įvaikinto vaiko auginimo metų mėnesius – 45 procentai, o antraisiais įvaikinto vaiko auginimo metais – 30 procentų šios išmokos gavėjo kompensuojamojo uždarbio dydžio.
 
-5. Vaiko priežiūros išmoka per mėnesį negali būti mažesnė už 6 bazinės socialinės išmokos, kurios dydį Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą ketvirtį iki teisės gauti vaiko priežiūros išmoką atsiradimo dienos.
+5. Vaiko priežiūros išmoka per mėnesį negali būti mažesnė už 8 bazinės socialinės išmokos, kurios dydį Socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą mėnesį iki teisės gauti vaiko priežiūros išmoką atsiradimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 
 6. Jeigu apdraustajam asmeniui gimsta du ir daugiau vaikų ar apdraustasis asmuo įvaikina arba globoja du ir daugiau vaikų ir jam yra suteiktos šių vaikų priežiūros atostogos arba pasirinktas vaiko priežiūros laikotarpis, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, vaiko priežiūros išmoka (šio straipsnio 1–5 dalyse nurodytais atvejais) didinama atsižvelgiant į vienu metu gimusių ar įvaikintų arba globojamų vaikų skaičių, tačiau mokama bendra išmokų suma negali būti didesnė kaip 78 procentai išmokos gavėjo kompensuojamojo uždarbio dydžio.
 
@@ -1045,7 +1059,7 @@ Papildyta priedu:
 
 Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
 
-part_ad3d45877cb2495a8dba30fdb6868f1d_end
+part_b6a6c20a639048c89688f2f5f2c542c1_end
 
 Pakeitimai:
 
