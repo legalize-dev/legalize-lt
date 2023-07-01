@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2024-07-25
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -32,7 +32,7 @@ BENDROSIOS NUOSTATOS
 
 8 straipsnis. Valstybės rinkliavos keitimas ar neėmimas
 
-Tais atvejais, kai pariteto pagrindais, taip pat kai tai būtina įgyvendinant Lietuvos Respublikos Seimo priimtuose teisės aktuose numatytus užsienio politikos ar nacionalinio saugumo tikslus, didinamas, mažinamas ar neimamas konsulinis mokestis už prašymų išduoti nacionalines vizas nagrinėjimą užsienio valstybių piliečiams ir asmenims be pilietybės, taip pat keičiama ar neimama ir valstybės rinkliava už prašymų išduoti nacionalines vizas nagrinėjimą.
+Lietuvos Respublikos Vyriausybė tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, turi teisę pariteto pagrindais, taip pat kai tai būtina įgyvendinant Lietuvos Respublikos Seimo priimtuose teisės aktuose numatytus užsienio politikos ar nacionalinio saugumo tikslus, užsienio valstybių piliečiams ir asmenims be pilietybės didinti, mažinti ar neimti valstybės rinkliavos už prašymų išduoti nacionalines vizas nagrinėjimą.
 
 Straipsnio pakeitimai:
 
@@ -41,6 +41,8 @@ Nr. XI-1462, 2011-06-20, Žin., 2011, Nr. 78-3801 (2011-06-30)
 Straipsnio pakeitimai:
 
 Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
+
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
 
 10 straipsnis. Valstybės rinkliavos grąžinimas
 
@@ -257,6 +259,12 @@ Papildyta straipsnio punktu:
 Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 
 32) dokumentų išduoti arba pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą arba keitimą bendra tvarka užsieniečiams, kurie Lietuvos Respublikoje užbaigė studijas arba mokslinius tyrimus ir eksperimentinės plėtros darbus. Valstybės rinkliava už dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo arba pakeitimo tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą arba keitimą bendra tvarka neimama vieną kartą šių asmenų pasirinkimu;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
+
+33) nacionalinių vizų išdavimą Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais, kai užsienio valstybė Lietuvos Respublikos piliečiams taiko ne mažiau palankias sąlygas.
 
 Papildyta straipsnio punktu:
 
