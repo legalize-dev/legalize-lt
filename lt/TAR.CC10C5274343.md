@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2023-06-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-08-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
+
+TAR pastaba. Nustatytos išimtys dėl Žemės įstatymo 10 straipsnio 3 ir 4 dalių netaikymo taikomos ir tais atvejais, kai prašymas dėl atlyginimo už galimybę statyti ir (ar) rekonstruoti statinius ar įrenginius apskaičiavimo Nacionalinei žemės tarnybai prie Aplinkos ministerijos jau buvo pateiktas iki 2023-07-01, tačiau Žemės įstatymo 10 straipsnio 3 ir 4 dalyse numatytas atlyginimas už galimybę statyti valstybinėje žemėje dar nėra sumokėtas.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1964, 2023-05-18, paskelbta TAR 2023-05-30, i. k. 2023-10358
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 10 straipsnio pakeitimo įstatymas
 
 Nauja redakcija nuo 2023-01-04:
 
@@ -355,7 +363,11 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 10 straipsnis. Teisė statyti išnuomotoje valstybinėje žemėje, kai valstybinė žemė išnuomota šio įstatymo 9 straipsnio 6 dalies 1 punkte nustatytu atveju
 
-1. Valstybinės žemės, išnuomotos šio įstatymo 9 straipsnio 6 dalies 1 punkte nustatytu atveju, nuomos sutartyje galimybė statyti naujus ir (ar) rekonstruoti esamus statinius ar įrenginius įrašoma nuomininko prašymu sudarant valstybinės žemės nuomos sutartį arba susitarimą dėl valstybinės žemės nuomos sutarties pakeitimo. Nuomininko galimybė statyti naujus ir (ar) rekonstruoti esamus statinius ar įrenginius valstybinės žemės nuomos sutartyje numatoma tik tuo atveju, jeigu valstybinės žemės sklypas išnuomotas ilgesniam negu 3 metų laikotarpiui ir jeigu tokia statyba ir (ar) rekonstravimas galimi pagal galiojančius teritorijų planavimo dokumentų sprendinius ir atitinka nuomos sutartyje nurodytą valstybinės žemės sklypo pagrindinę žemės naudojimo paskirtį ir būdą. Valstybinės žemės nuomos sutartyje nurodoma, kad nuomininkas galimybę statyti ir (ar) rekonstruoti statinius ar įrenginius įgyja tik sumokėjęs į valstybės biudžetą ir savivaldybės, kurios teritorijoje yra žemės sklypas, biudžetą  šio straipsnio 3 ir 4 dalyse nurodytą atlyginimą už galimybę statyti ir (ar) rekonstruoti statinius ar įrenginius.
+1. Valstybinės žemės, išnuomotos šio įstatymo 9 straipsnio 6 dalies 1 punkte nustatytu atveju, nuomos sutartyje galimybė statyti naujus ir (ar) rekonstruoti esamus statinius ar įrenginius įrašoma nuomininko prašymu sudarant valstybinės žemės nuomos sutartį arba susitarimą dėl valstybinės žemės nuomos sutarties pakeitimo. Nuomininko galimybė statyti naujus ir (ar) rekonstruoti esamus statinius ar įrenginius valstybinės žemės nuomos sutartyje numatoma tik tuo atveju, jeigu valstybinės žemės sklypas išnuomotas ilgesniam negu 3 metų laikotarpiui ir jeigu tokia statyba ir (ar) rekonstravimas galimi pagal galiojančius teritorijų planavimo dokumentų sprendinius ir atitinka nuomos sutartyje nurodytą valstybinės žemės sklypo pagrindinę žemės naudojimo paskirtį ir būdą. Valstybinės žemės nuomos sutartyje nurodoma, kad nuomininkas galimybę statyti ir (ar) rekonstruoti statinius ar įrenginius įgyja tik sumokėjęs į valstybės biudžetą ir savivaldybės, kurios teritorijoje yra žemės sklypas, biudžetą šio straipsnio 3 ir 4 dalyse nurodytą atlyginimą už galimybę statyti ir (ar) rekonstruoti statinius ar įrenginius, išskyrus šio straipsnio 8 dalyje nurodytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1964, 2023-05-18, paskelbta TAR 2023-05-30, i. k. 2023-10358
 
 2. Valstybinės žemės sklype ar jo dalyje, išnuomotame esamiems statiniams ar įrenginiams eksploatuoti, naujų statinių ar įrenginių statyba ir (ar) esamų rekonstravimas galimi tik tuo atveju, jeigu nauji statiniai ar įrenginiai statomi ir (ar) esami rekonstruojami neviršijant valstybinės žemės sklypo ar jo dalies dydžio, teisės aktų nustatyta tvarka nustatyto esamiems statiniams ar įrenginiams eksploatuoti pagal jų paskirtį.
 
@@ -380,6 +392,12 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 6. Jeigu valstybinės žemės nuomininko pastatytų naujų ir (ar) rekonstruotų esamų statinių ar įrenginių bendras plotas ir (ar) naujais pastatytais, ir (ar) rekonstruotais statiniais ar įrenginiais užstatytas plotas viršija dydį, už kurį buvo sumokėtas šio straipsnio 3 ir (ar) 4 dalyse nustatytas atlyginimas, nuomininkas privalo į valstybės biudžetą ir savivaldybės, kurios teritorijoje yra žemės sklypas, biudžetą sumokėti trūkstamą atlyginimo sumą ir papildomai 50 procentų atlyginimo už galimybę statyti valstybinėje žemėje dydžio, nurodyto šio straipsnio 3 dalies 2–6 punktuose ir šio straipsnio 4 dalyje, sumą. Iki viso privalomo sumokėti atlyginimo už teisę statyti valstybinėje žemėje dydžio sumokėjimo valstybinės žemės sklypo kadastro duomenys netikslinami ir pastatytų naujų ir (ar) rekonstruotų esamų statinių ar įrenginių statybos ir (ar) rekonstravimo užbaigimas Nekilnojamojo turto registre neregistruojami.
 
 7. Pastatams atnaujinti (modernizuoti) pagal Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymą šis straipsnis netaikomas.
+
+8. Šio straipsnio 3 ir 4 dalyse nustatyti reikalavimai netaikomi, kai, vadovaujantis šio įstatymo 9 straipsnio 6 dalies 1 punktu, išnuomotame valstybinės žemės sklype statomi, rekonstruojami inžineriniai statiniai ir (ar) įrengiami įrenginiai, skirti šiame žemės sklype iki 2023 m. birželio 30 d. pastatytų ir naudojamų daugiabučių gyvenamųjų namų gyventojų reikmėms (sporto ir vaikų žaidimo aikštelėms, dviračių ir pėsčiųjų takams, šaligatviams, laiptams, pandusams, keltuvams, liftams, įvažoms į daugiabučių namų kiemus, automobilių stovėjimo ir dviračių laikymo vietoms įrengti).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1964, 2023-05-18, paskelbta TAR 2023-05-30, i. k. 2023-10358
 
 11 straipsnis. Valstybinės žemės nuosavybės teisės perleidimas
 
@@ -2180,4 +2198,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1929, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09515
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 2 ir 45 straipsnių pakeitimo įstatymas
+
+30.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1964, 2023-05-18, paskelbta TAR 2023-05-30, i. k. 2023-10358
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 10 straipsnio pakeitimo įstatymas
 
