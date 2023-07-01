@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "2023-01-04"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-12-14
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 
@@ -429,6 +429,12 @@ Straipsnio dalies pakeitimai:
 Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
 
 3. Jeigu nutiestas ar tiesiamas kelias kai kuriuose ruožuose (iškasose, pylimuose) netelpa nustatyto pločio juostoje, tai šios juostos ribos nustatomos ne arčiau kaip po metrą nuo pylimo pado, iškasos ar kelio griovių išorinių kraštų.
+
+4. Jeigu urbanizuotose teritorijose esančių kelių, įrašytų į valstybinės reikšmės kelių sąrašą ar vietinės reikšmės kelių sąrašą, ar jų ruožų kelio juostos dėl užstatymo ar kitų priežasčių neatitinka šio straipsnio 1 ir 2 dalyse nurodyto minimalaus pločio ir nėra galimybės jų paplatinti, šios kelio juostos susisiekimo ministro ar jo įgaliotos institucijos nustatyta tvarka nustatomos siauresnės (faktiškai esamo pločio) su visais tame kelyje ar jo ruože esančiais kelio elementais.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1890, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08611
 
 12 straipsnis. Kelio apsaugos zona
 
@@ -889,6 +895,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1780, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27593
 
 Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymo Nr. XIV-661 8 straipsnio pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1890, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08611
+
+Lietuvos Respublikos kelių įstatymo Nr. I-891 11 straipsnio pakeitimo įstatymas
 
 25 straipsnis.
 
