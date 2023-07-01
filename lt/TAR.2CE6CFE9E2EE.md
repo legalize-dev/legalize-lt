@@ -4,7 +4,7 @@ identifier: "TAR.2CE6CFE9E2EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-29"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,13 +16,21 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2024-08-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
 
-Nauja redakcija nuo 2005-07-01:
+TAR pastaba. 8 straipsnio 3 ir 4 dalyse nurodytų dydžių šalpos neįgalumo pensijos jų gavėjams pradedamos mokėti ne vėliau kaip 2023 m. lapkričio 30 d., kartu išmokant nuo 2023 m. liepos 1 d. susidariusias šalpos neįgalumo pensijų nepriemokas.
 
-Nr. X-210, 2005-05-19, Žin. 2005, Nr. 71-2556 (2005-06-07), i. k. 1051010ISTA000X-210
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1957, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09701
+
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 8 straipsnio pakeitimo įstatymas
+
+Nauja redakcija nuo 2017-01-01:
+
+Nr. XII-2506, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20643
 
 LIETUVOS RESPUBLIKOS
 
@@ -232,33 +240,49 @@ Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
 
 3. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 3 ir 4 punktuose nurodytiems asmenims yra šių dydžių:
 
-1) asmenims, netekusiems 100 procentų darbingumo, – 1,5 šalpos pensijų bazės dydžio;
+1) asmenims, netekusiems 100 procentų darbingumo, – 2 šalpos pensijų bazių dydžio;
 
-2) asmenims, netekusiems 95 procentų darbingumo, – 1,48 šalpos pensijų bazės dydžio;
+2) asmenims, netekusiems 95 procentų darbingumo, – 1,87 šalpos pensijų bazės dydžio;
 
-3) asmenims, netekusiems 90 procentų darbingumo, – 1,47 šalpos pensijų bazės dydžio;
+3) asmenims, netekusiems 90 procentų darbingumo, – 1,75 šalpos pensijų bazės dydžio;
 
-4) asmenims, netekusiems 85 procentų darbingumo, – 1,46 šalpos pensijų bazės dydžio;
+4) asmenims, netekusiems 85 procentų darbingumo, – 1,62 šalpos pensijų bazės dydžio;
 
-5) asmenims, netekusiems 80 procentų darbingumo, – 1,45 šalpos pensijų bazės dydžio;
+5) asmenims, netekusiems 80 procentų darbingumo, – 1,5 šalpos pensijų bazės dydžio;
 
-6) asmenims, netekusiems 75 procentų darbingumo, – 1,31 šalpos pensijų bazės dydžio;
+6) asmenims, netekusiems 75 procentų darbingumo, – 1,37 šalpos pensijų bazės dydžio;
 
-7) asmenims, netekusiems 70 procentų darbingumo, – 1,18 šalpos pensijų bazės dydžio;
+7) asmenims, netekusiems 70 procentų darbingumo, – 1,25 šalpos pensijų bazės dydžio;
 
-8) asmenims, netekusiems 65 procentų darbingumo, – 1,05 šalpos pensijų bazės dydžio;
+8) asmenims, netekusiems 65 procentų darbingumo, – 1,12 šalpos pensijų bazės dydžio;
 
 9) asmenims, netekusiems 60 procentų darbingumo, – 1 šalpos pensijų bazės dydžio.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+Nr. XIV-1957, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09701
 
-4. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 5 punkte nurodytiems asmenims yra 1 šalpos pensijų bazės dydžio.
+4. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 5 punkte nurodytiems asmenims yra šių dydžių:
+
+1) asmenims, netekusiems 100 procentų darbingumo, – 2 šalpos pensijų bazių dydžio;
+
+2) asmenims, netekusiems 95 procentų darbingumo, – 1,83 šalpos pensijų bazės dydžio;
+
+3) asmenims, netekusiems 90 procentų darbingumo, – 1,66 šalpos pensijų bazės dydžio;
+
+4) asmenims, netekusiems 85 procentų darbingumo, – 1,5 šalpos pensijų bazės dydžio;
+
+5) asmenims, netekusiems 80 procentų darbingumo, – 1,33 šalpos pensijų bazės dydžio;
+
+6) asmenims, netekusiems 75 procentų darbingumo, – 1,17 šalpos pensijų bazės dydžio;
+
+7) asmenims, netekusiems 60–70 procentų darbingumo, – 1 šalpos pensijų bazės dydžio.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+
+Nr. XIV-1957, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09701
 
 5. Šalpos senatvės pensijos yra šių dydžių:
 
@@ -934,7 +958,13 @@ Nr. XIV-1225, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15591
 
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 15 straipsnio pakeitimo įstatymas
 
-part_fd31069eae57422fb111ef0cb533d002_end
+34.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1957, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09701
+
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 8 straipsnio pakeitimo įstatymas
 
 25 straipsnis. Sukakusių 18 metų asmenų įgytų teisių išsaugojimas
 
