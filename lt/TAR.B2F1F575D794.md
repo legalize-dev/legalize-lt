@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 @D1=19940623;D2=19960430;D3=19960603
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2025-11-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 51-951, i. k. 0941010ISTA000I-509
 
@@ -87,7 +87,11 @@ Straipsnio punkto naikinimas:
 
 Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
 
-17) prašymų išduoti nacionalines vizas priėmimą ir sprendimų dėl jų priėmimą (toliau – prašymų išduoti nacionalines vizas nagrinėjimas);
+17) Neteko galios nuo 2023-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
 
 18) prašymų išduoti Šengeno vizas priėmimą ir sprendimų dėl jų priėmimą (toliau – prašymų išduoti Šengeno vizas nagrinėjimas), vadovaujantis Reglamentu (EB) Nr. 810/2009 (Vizų kodeksas) (toliau – Vizų kodeksas);
 
@@ -115,13 +119,13 @@ Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
 
 4. Pasibaigus kalendoriniams metams, Vyriausybė, atsižvelgdama į faktinį konsulinių veiksmų atlikimo išlaidų padidėjimą ar sumažėjimą, perskaičiuoja ir patikslina konsulinio mokesčio dydį ir dėl to priima nutarimą. Patikslinti konsulinio mokesčio dydžiai įsigalioja nuo einamųjų kalendorinių metų liepos 1 dienos, išskyrus atvejus, kai juos tiesiogiai reglamentuoja Europos Sąjungos teisės aktai, taip pat Lietuvos Respublikos ar Europos Sąjungos tarptautinės sutartys.
 
-5 straipsnis. Konsulinio mokesčio dydžio ir lengvatų taikymas pariteto pagrindais ir įgyvendinant Lietuvos Respublikos Seimo priimtus teisės aktus
+5 straipsnis. Konsulinio mokesčio dydžio nustatymas ir lengvatų taikymas pariteto pagrindais
 
-Lietuvos Respublikos Vyriausybė tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, turi teisę padidinti, sumažinti arba neimti pagal šio įstatymo 4 straipsnį nustatyto konsulinio mokesčio:
+Lietuvos Respublikos Vyriausybė tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, turi teisę padidinti, sumažinti arba neimti pagal šio įstatymo 4 straipsnį nustatyto konsulinio mokesčio pariteto pagrindais už dokumentų pareikalavimą ir jų legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims, atsižvelgiant į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos Respublikos juridinių ir fizinių asmenų.
 
-1) pariteto pagrindais už prašymų išduoti nacionalines vizas nagrinėjimą, dokumentų pareikalavimą ir jų legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims, atsižvelgiant į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos Respublikos juridinių ir fizinių asmenų;
+Straipsnio pakeitimai:
 
-2) už prašymų išduoti nacionalines vizas nagrinėjimą, kai tai būtina įgyvendinant Lietuvos Respublikos Seimo priimtuose teisės aktuose nustatytus užsienio politikos ar nacionalinio saugumo tikslus.
+Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
 
 6 straipsnis. Konsulinio mokesčio lengvatos
 
@@ -137,13 +141,29 @@ Lietuvos Respublikos Vyriausybė tiek, kiek tai neprieštarauja Europos Sąjungo
 
 5) leidimo žmogaus palaikus parvežti į Lietuvą išdavimą;
 
-6) prašymų išduoti nacionalines vizas lietuvių kilmės asmenims, taip pat asmenims, išsaugojusiems teisę į Lietuvos Respublikos pilietybę, ir asmenims, turintiems teisę atkurti Lietuvos Respublikos pilietybę, pateikusiems tai patvirtinančius dokumentus, nagrinėjimą;
+6) Neteko galios nuo 2023-07-01
 
-7) prašymų išduoti nacionalines vizas tyrėjams, kaip jie apibrėžti Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 2 straipsnio 282 dalyje, vykstantiems mokslinių tyrimų ir eksperimentinės plėtros darbų atlikimo tikslais, nagrinėjimą;
+Straipsnio punkto naikinimas:
 
-8) prašymų išduoti nacionalines vizas diplomatinių ar tarnybinių pasų ar jiems prilygintų kelionės dokumentų turėtojams, kai jų atvykimas į Lietuvos Respubliką yra susijęs su kultūrinių, užsienio politikos srities, vystomojo bendradarbiavimo politikos ar kitų visuomenei svarbių sričių interesų skatinimu, nagrinėjimą;
+Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
 
-9) prašymų išduoti nacionalines vizas Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais, kai užsienio valstybė Lietuvos Respublikos piliečiams taiko ne mažiau palankias sąlygas, nagrinėjimą;
+7) Neteko galios nuo 2023-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
+
+8) Neteko galios nuo 2023-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
+
+9) Neteko galios nuo 2023-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
 
 10) prašymų išduoti Šengeno vizas Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių arba Europos laisvosios prekybos asociacijos valstybių narių piliečių šeimos nariams nagrinėjimą;
 
@@ -206,8 +226,6 @@ priedas
 1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą Nr. 1612/68/EEB ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB.
 
 2. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas), su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1155.
-
-part_4db15ac2fb8b42f887c30f205232eb29_end
 
 Pakeitimai:
 
