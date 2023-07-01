@@ -4,7 +4,7 @@ identifier: "TAR.C8205E261830"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2023-04-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
 
@@ -1082,7 +1082,11 @@ VAIKO TEISIŲ APSAUGĄ UŽTIKRINANČIOS INSTITUCIJOS
 
 1) kartu su kitomis valstybės ir savivaldybių institucijomis bei įstaigomis užtikrina tinkamą vaiko teisių apsaugą pagal šio įstatymo reikalavimus;
 
-2) analizuoja valstybės ir savivaldybių institucijų bei įstaigų pateiktą informaciją vaiko teisių apsaugos klausimais, vertina vaiko teisių apsaugos būklę šalyje;
+2) analizuoja valstybės ir savivaldybių institucijų bei įstaigų pateiktą informaciją vaiko teisių apsaugos klausimais ir statistinius rodiklius apie vaikus pagal Vyriausybės patvirtintą sąrašą, vertina vaiko teisių apsaugos būklę šalyje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1512, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23363
 
 3) rengia ir teikia Vyriausybei teisės aktų projektus, duoda pavedimus Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai dėl vaiko teisių apsaugos įgyvendinimo užtikrinimo, pasiūlymus savivaldybių institucijoms dėl tinkamo vaiko teisių apsaugos užtikrinimo;
 
