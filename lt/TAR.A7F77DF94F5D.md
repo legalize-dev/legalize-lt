@@ -4,7 +4,7 @@ identifier: "TAR.A7F77DF94F5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-18"
-last_updated: "2022-07-01"
+last_updated: "2023-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D"
 department: "Lietuvos Respublikos Seimas"
@@ -19,9 +19,17 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-07-01 iki 2023-07-01
+Suvestinė redakcija nuo 2023-07-02 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
+
+TAR pastaba. Įstatymas  Nr. XIV-1968 taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. Valstybinio socialinio draudimo fondo 2023 metų biudžetas pensijų socialinio draudimo srityje vykdomas pagal Lietuvos Respublikos socialinio draudimo pensijų įstatymo nuostatas, galiojusias iki  įstatymo Nr. XIV-1968 įsigaliojimo dienos (2023-07-02).
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1968, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10361
+
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 2 ir 8 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2018-01-01:
 
@@ -231,11 +239,13 @@ Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 
 10. Pensijos apskaitos vieneto vertė (toliau – apskaitos vieneto vertė) – šio įstatymo nustatyta tvarka kalendoriniams metams patvirtinta pensijos apskaitos vieneto piniginė išraiška.
 
-11. Pensijų socialinio draudimo įmoka – apdrausto asmens ir (arba) jo draudėjo mokama tam tikrų metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatyta pensijų draudimo įmoka.
+11. Pensijų socialinio draudimo įmoka – apdrausto asmens ir (arba) jo draudėjo mokama Lietuvos Respublikos tam tikrų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu nustatyta pensijų draudimo įmoka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
+
+Nr. XIV-1968, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10361
 
 12. Pensijų socialinio draudimo stažas (toliau – stažas) – laikas, per kurį įstatymų nustatyta tvarka buvo mokamos arba turėjo būti mokamos pensijų socialinio draudimo įmokos, ir šio įstatymo nurodyti pensijų socialinio draudimo stažui prilyginti laikotarpiai.
 
@@ -265,7 +275,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
-24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme (toliau – Valstybinio socialinio draudimo įstatymas), Neįgaliųjų socialinės integracijos įstatyme, Pensijų kaupimo įstatyme, kituose įstatymuose ir Lietuvos statistikos departamento elektroniniame statistikos terminų žodyne.
+24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, Neįgaliųjų socialinės integracijos įstatyme, Pensijų kaupimo įstatyme, kituose įstatymuose ir Valstybės duomenų agentūros elektroniniame statistikos terminų žodyne.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1968, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10361
 
 4 straipsnis. Asmenys, privalomai draudžiami pensijų socialiniu draudimu
 
@@ -295,7 +309,11 @@ Nr. XIV-356, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13159
 
 2. IK apskaičiuojamas tokia tvarka:
 
-1) IK apskaičiuojamas kaip septynerių paeiliui einančių metų darbo užmokesčio fondo augimo metinių tempų aritmetinis vidurkis: trejų metų, buvusių iki apskaičiavimo metų, apskaičiavimo metų ir trejų prognozuojamų metų. IK apskaičiuoti naudojami Lietuvos statistikos departamento skelbiami trejų metų, buvusių iki apskaičiavimo metų, darbo užmokesčio fondo augimo duomenys ir Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka parengtame apskaičiavimo metų Ekonominės raidos scenarijuje skelbiami apskaičiavimo metų ir trejų prognozuojamų metų darbo užmokesčio fondo augimo rodikliai. Šiame punkte nustatyta tvarka apskaičiuotas IK taikomas, jeigu, jį pritaikius, pagal indeksavimo metais galiosiantį Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymą planuojamos pensijų socialinio draudimo rūšies išlaidos neviršija pensijų socialinio draudimo rūšies įplaukų indeksavimo metais ir po jų einančiais kalendoriniais metais prognozuojamos pensijų socialinio draudimo išlaidos nepradeda viršyti prognozuojamų pensijų socialinio draudimo rūšies įplaukų;
+1) IK apskaičiuojamas kaip septynerių paeiliui einančių metų darbo užmokesčio fondo augimo metinių tempų aritmetinis vidurkis: trejų metų, buvusių iki apskaičiavimo metų, apskaičiavimo metų ir trejų prognozuojamų metų. IK apskaičiuoti naudojami Valstybės duomenų agentūros skelbiami trejų metų, buvusių iki apskaičiavimo metų, darbo užmokesčio fondo augimo duomenys ir Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka parengtame apskaičiavimo metų Ekonominės raidos scenarijuje skelbiami apskaičiavimo metų ir trejų prognozuojamų metų darbo užmokesčio fondo augimo rodikliai. Šiame punkte nustatyta tvarka apskaičiuotas IK taikomas, jeigu, jį pritaikius, indeksavimo metais planuojamos pensijų socialinio draudimo rūšies išlaidos neviršija planuojamų pensijų socialinio draudimo rūšies įplaukų ir po indeksavimo metų einančiais kalendoriniais metais prognozuojamos pensijų socialinio draudimo išlaidos nepradeda viršyti prognozuojamų pensijų socialinio draudimo rūšies įplaukų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1968, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10361
 
 2) jeigu indeksavimo metais pensijų socialinio draudimo rūšies įplaukos, nevykdant indeksavimo, viršija pensijų socialinio draudimo rūšies išlaidas, IK apskaičiuojamas taip, kad pensijų socialinio draudimo rūšies išlaidos pensijoms indeksuoti neviršytų 75 procentų indeksavimo metais planuojamo pensijų socialinio draudimo įmokų perviršio, jeigu indeksavimas nebūtų vykdomas.
 
@@ -317,7 +335,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 
-6. IK apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuoti bazinės pensijos, apskaitos vieneto vertės ir našlių pensijos bazinis dydžiai euro cento tikslumu tvirtinami atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
+6. IK apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuoti bazinės pensijos dydis, apskaitos vieneto vertės dydis ir našlių pensijos bazinis dydis euro cento tikslumu tvirtinami Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu.
 
 Straipsnio dalies pakeitimai:
 
@@ -327,7 +345,9 @@ Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
 
 Nr. XIV-356, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13159
 
-7. Jeigu Lietuvos statistikos departamento vėliausiai paskelbtas 65 metus sukakusių ir vyresnių asmenų skurdo rizikos lygis yra didesnis negu 25 procentai ir (arba) indeksavimo metais prognozuojamos vidutinės senatvės pensijos santykis su tais metais prognozuojamu vidutiniu neto darbo užmokesčiu yra mažesnis kaip 50 procentų, individualioji pensijos dalis indeksuojama papildomai, prie šio straipsnio 1 ir 2 dalyse nustatyta tvarka apskaičiuoto IK pridedant papildomą indeksą, apskaičiuotą taip, kad indeksavimo metais panaudotinos papildomos lėšos individualiajai pensijos daliai indeksuoti neviršytų 75 procentų planuojamo Valstybinio socialinio draudimo fondo biudžeto teigiamo pinigų srautų rezultato, apskaičiuoto taikant šio straipsnio 1 ir 2 dalyse nustatyta tvarka apskaičiuotą IK ir atėmus Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto sandaros įstatyme nustatytą būtinų kasos apyvartos lėšų sumą. Konkreti papildomų lėšų suma, skiriama individualiajai daliai indeksuoti, nustatoma indeksavimo metais galiojančiame Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatyme.
+Nr. XIV-1968, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10361
+
+7. Jeigu Valstybės duomenų agentūros vėliausiai paskelbtas 65 metus sukakusių ir vyresnių asmenų skurdo rizikos lygis yra didesnis negu 25 procentai ir (arba) indeksavimo metais prognozuojamos vidutinės senatvės pensijos santykis su tais metais prognozuojamu vidutiniu neto darbo užmokesčiu yra mažesnis kaip 50 procentų, individualioji pensijos dalis indeksuojama papildomai, prie šio straipsnio 1 ir 2 dalyse nustatyta tvarka apskaičiuoto IK pridedant papildomą indeksą, apskaičiuotą taip, kad indeksavimo metais panaudotinos papildomos lėšos individualiajai pensijos daliai indeksuoti neviršytų 75 procentų planuojamo Valstybinio socialinio draudimo fondo biudžeto teigiamo pinigų srautų rezultato, apskaičiuoto taikant šio straipsnio 1 ir 2 dalyse nustatyta tvarka apskaičiuotą IK ir atėmus Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatyme nustatytą būtinų kasos apyvartos lėšų sumą. Konkreti papildomų lėšų suma, skiriama individualiajai daliai indeksuoti, nustatoma indeksavimo metais galiojančiame Valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatyme.
 
 Papildyta straipsnio dalimi:
 
@@ -336,6 +356,8 @@ Nr. XIII-2651, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20992
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
+
+Nr. XIV-1968, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10361
 
 8. Šio straipsnio 7 dalyje nurodytas papildomas individualiosios pensijos dalies indeksavimas netaikomas, jeigu indeksavimo metais prognozuojamas neigiamas Valstybinio socialinio draudimo fondo biudžeto pinigų srautų rezultatas arba jeigu pagal šio straipsnio 7 dalies nuostatas apskaičiuotas papildomas indeksas yra mažesnis negu 1,01.
 
@@ -1107,8 +1129,6 @@ pensijų įstatymo
 
 2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
 
-part_4b6c4cfd462d4f3f981ba93ee80ede4d_end
-
 Lietuvos Respublikos
 
 socialinio draudimo
@@ -1166,8 +1186,6 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 4. Šiame priede išvardyti laikotarpiai į stažą įskaitomi Socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nustatyta tvarka ir tik tuo atveju, jei už juos asmuo negauna užsienio valstybės pensijos.
 
 5. Šio įstatymo 3 straipsnio 2 dalyje ir 42 straipsnio 1 dalyje nurodytiems asmenims į stažą įskaitomi tik tie šiame priede išvardyti laikotarpiai, kuriais šie asmenys dirbo Lietuvos įmonėse.
-
-part_60e975074bfa40459b0eef7193ef59a6_end
 
 Lietuvos Respublikos
 
@@ -1230,8 +1248,6 @@ Daugiklis
 100
 
 1,500
-
-part_a3c279b1fc074dbc9c41aea9eb5a0619_end
 
 Lietuvos Respublikos
 
@@ -1366,8 +1382,6 @@ Kaupimo dalyvių daugiklis
 445 Eur
 
 0,7849
-
-part_dad674e54af7401b9318008beebe278f_end
 
 Lietuvos Respublikos
 
@@ -1540,8 +1554,6 @@ Moterų būtinasis stažas
 2027
 
 35
-
-part_6ee92f93a7db4b72915837974c434b6f_end
 
 Lietuvos Respublikos
 
@@ -1829,8 +1841,6 @@ Būtinasis stažas
 
 35 metai
 
-part_8e924ab8d8a34ad3bc0deeb409f8024a_end
-
 Lietuvos Respublikos socialinio
 
 draudimo pensijų įstatymo
@@ -2042,8 +2052,6 @@ Gimimo data
 Papildyta priedu:
 
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
-
-part_09acc3616be745e98d53ac8cdb417649_end
 
 Pakeitimai:
 
