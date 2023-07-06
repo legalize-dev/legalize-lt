@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2023-07-01"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-07-05
+Suvestinė redakcija nuo 2023-07-06 iki 2023-10-25
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -5474,8 +5474,6 @@ Straipsnio pakeitimai:
 
 Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
 
-part_2d657e633c56443ca2259813f0a117c8_end
-
 Lietuvos Respublikos
 
 baudžiamojo kodekso
@@ -6605,6 +6603,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2025, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11217
 
 Lietuvos Respublikos baudžiamojo kodekso 191, 192, 193 ir 194 straipsnių pakeitimo įstatymas
+
+57.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2085, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13986
+
+Lietuvos Respublikos baudžiamojo kodekso 100-1, 100-3 ir 113-1 straipsnių pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
