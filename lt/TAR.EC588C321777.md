@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2023-06-01"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-07-05
+Suvestinė redakcija nuo 2023-07-06 iki 2023-10-25
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -3137,8 +3137,6 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 
 3. Šiame straipsnyje nurodytos teismo nutartys yra galutinės ir neskundžiamos.
 
-part_8365e57c40d24b8bb80357fadb0170ae_end
-
 Lietuvos Respublikos
 
 baudžiamojo proceso kodekso
@@ -4997,7 +4995,11 @@ Kasatorius yra kasacinį skundą padavęs asmuo.
 
 28 straipsnis. Nukentėjusysis
 
-1. Nukentėjusysis yra fizinis asmuo, kuriam nusikalstama veika padarė fizinės, turtinės ar neturtinės žalos, arba nuo nusikalstamos veikos mirusio fizinio asmens šeimos narys ar artimasis giminaitis, kurie dėl to asmens mirties patyrė fizinės, turtinės ar neturtinės žalos. Asmuo pripažįstamas nukentėjusiuoju ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo nutartimi.
+1. Nukentėjusysis yra fizinis asmuo, kuriam nusikalstama veika padarė fizinės, turtinės ar neturtinės žalos, arba dėl nusikalstamos veikos mirusio arba priverstinai pradanginto fizinio asmens šeimos narys ar artimasis giminaitis, kurie dėl to asmens mirties ar priverstinio dingimo patyrė fizinės, turtinės ar neturtinės žalos. Asmuo pripažįstamas nukentėjusiuoju ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo nutartimi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2086, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13987
 
 2. Nukentėjusysis ir jo atstovas turi teisę: gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį; teikti įrodymus; pateikti prašymus; pareikšti nušalinimus; dalyvauti vertinant jo specialius apsaugos poreikius; ikiteisminio tyrimo metu ir teisme susipažinti su byla; dalyvauti bylą nagrinėjant teisme; apskųsti ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ir teismo veiksmus, taip pat apskųsti teismo nuosprendį ar nutartį; pasakyti baigiamąją kalbą. Nukentėjusysis taip pat turi teisę atsisakyti gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį, nebent toks atsisakymas pažeistų įtariamojo ar kaltinamojo teises.
 
