@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2023-01-01"
+last_updated: "2023-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-07-11
+Suvestinė redakcija nuo 2023-07-12 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -2138,17 +2138,25 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 4) įsiteisėja Teisėjų garbės teismo sprendimas paskirti jam drausminę nuobaudą (išskyrus Aukščiausiojo Teismo, Apeliacinio teismo ir Vyriausiojo administracinio teismo pirmininkus; jie ex officio yra Teisėjų tarybos nariai);
 
-5) jis atšaukiamas iš Teisėjų tarybos nario pareigų (išskyrus Aukščiausiojo Teismo, Apeliacinio teismo ir Vyriausiojo administracinio teismo pirmininkus; jie ex officio yra Teisėjų tarybos nariai).
+5) jis atšaukiamas iš Teisėjų tarybos nario pareigų (išskyrus Aukščiausiojo Teismo, Apeliacinio teismo ir Vyriausiojo administracinio teismo pirmininkus; jie ex officio yra Teisėjų tarybos nariai);
+
+6) pasibaigia jo, kaip to teismo (tos jurisdikcijos ir pakopos teismų grandies), nuo kurio (kurios) jis buvo išrinktas į Teisėjų tarybą, teisėjo, įgaliojimai.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2137, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14331
 
 7. Teisėjų tarybos narys atšaukiamas iš Teisėjų tarybos nario pareigų Visuotiniam teisėjų susirinkimui priėmus motyvuotą sprendimą, kad teisėjas netinkamai atlieka jam priskirtas Teisėjų tarybos nario funkcijas.
 
-8. Pasibaigus Teisėjų tarybos nario įgaliojimams šio straipsnio 6 dalies 1, 3, 4 arba 5 punkte nustatytu pagrindu, į jo vietą likusiam Teisėjų tarybos įgaliojimų laikui nuo atitinkamo teismo arba atitinkamos jurisdikcijos ir pakopos teismų Visuotinio teisėjų susirinkimo nustatyta tvarka elektroniniu būdu išrenkamas naujas Teisėjų tarybos narys.
-
-TAR pastaba. 119 straipsnio 8 dalies nuostatos taikomos Teismų įstatymo nustatyta tvarka renkant naujos sudėties Teisėjų tarybą.
+8. Pasibaigus Teisėjų tarybos nario įgaliojimams šio straipsnio 6 dalies 1, 3, 4, 5 arba 6 punkte nustatytu pagrindu, į jo vietą likusiam Teisėjų tarybos įgaliojimų laikui nuo atitinkamo teismo arba atitinkamos jurisdikcijos ir pakopos teismų Visuotinio teisėjų susirinkimo nustatyta tvarka elektroniniu būdu išrenkamas naujas Teisėjų tarybos narys.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2137, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14331
 
 Straipsnio pakeitimai:
 
