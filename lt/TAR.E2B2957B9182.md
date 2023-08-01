@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2023-07-01"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-07-31
+Suvestinė redakcija nuo 2023-08-01 iki 2023-10-25
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -97,6 +97,12 @@ Nr. XIV-1113, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11874
 8. Medicinos priemonių rinkos subjektų veikla – veikla, kuriai taikomi medicinos priemonių saugą, kokybę, veikimą, naudojimą, pateikimą rinkai, tiekimą, atitikties įvertinimą, klinikinių tyrimų ir veiksmingumo tyrimų atlikimą reglamentuojantys teisės aktai.
 
 9. Pirmoji medicinos pagalba – svarbiausi tikslingi veiksmai, skirti padėti kitų asmenų ar savo sveikatai ir gyvybei, naudojant turimas medicinos ir (ar) kitokias priemones ir medžiagas iki tol, kol nukentėjusiajam (pacientui) bus pradėta teikti skubioji medicinos pagalba arba jo būklė taps normali, arba bus konstatuota jo mirtis.
+
+91. Regioninė funkcinė sveikatos priežiūra – asmens sveikatos priežiūros paslaugos, teikiamos atliekant tam tikras funkcijas nustatytoje teritorijoje, kurios ribos nesiejamos su administracinių apskričių ir savivaldybių ribomis, bendradarbiaujant toje teritorijoje esančioms asmens sveikatos priežiūros įstaigoms ir savivaldybių institucijoms ir įstaigoms.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1279, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15197
 
 10. Skubioji medicinos pagalba – institucinė (stacionarinė ar nestacionarinė) medicinos pagalba, kuri teikiama nedelsiant arba neatidėliotinai, kai dėl ūmių klinikinių būklių, nustatytų sveikatos apsaugos ministro įsakymu, gresia pavojus paciento ir (ar) aplinkinių gyvybei arba tokios pagalbos nesuteikimas laiku sukelia sunkių komplikacijų grėsmę pacientams.
 
@@ -2332,8 +2338,6 @@ Priedo pakeitimai:
 
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
-part_ef9aa9f631c243b684ea96077b9f0d70_end
-
 Pakeitimai:
 
 1.
@@ -2967,6 +2971,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1637, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25404
 
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 47 ir 49 straipsnių pakeitimo įstatymas
+
+37.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2149, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14335
+
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 70-1 straipsnio pakeitimo įstatymas
 
 ir trečioji dalys, 94, 95 straipsniai, 96 straipsnis, 98  straipsnio antroji ir
 
@@ -5064,51 +5076,19 @@ ekspertizes ir tyrimus;
 
 funkcijas.
 
-121 straipsnis.
+121 straipsnis. Stacionarinių aktyviojo gydymo asmens sveikatos priežiūros paslaugų užtikrinimas
 
-Valstybinė teisės psichiatrijos ir
+1. Stacionarinių aktyviojo gydymo asmens sveikatos priežiūros paslaugų, kurios pagal Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 11 straipsnio 7 dalyje nurodytą minimalų privalomai teikiamų asmens sveikatos priežiūros paslaugų sąrašą LNSS asmens sveikatos priežiūros įstaigose nėra teikiamos (toliau – atitinkamos asmens sveikatos priežiūros paslaugos), teikimas savivaldybės gyventojams užtikrinamas vykdant regioninę funkcinę sveikatos priežiūrą.
 
-narkologijos   tarnyba prie  Sveikatos
+2. Teritorijas, kuriose vykdoma regioninė funkcinė sveikatos priežiūra (toliau – teritorija), ir joms priskiriamas LNSS stacionarines aktyviojo gydymo asmens sveikatos priežiūros įstaigas (toliau – teritorijai priskirtos įstaigos) pagal atitinkamų asmens sveikatos priežiūros paslaugų rūšis nustato sveikatos apsaugos ministras, atsižvelgdamas į teritorijose esančių atitinkamoms teritorijoms priskirtų įstaigų teikiamas atitinkamas asmens sveikatos priežiūros paslaugas, atstumus ir pacientams tinkamą laiką gauti atitinkamas asmens sveikatos priežiūros paslaugas, gyventojų skaičių savivaldybėse, turimą infrastruktūrą, įrangą, medicinos personalą. Atstumų ir pacientams tinkamo laiko gauti atitinkamas asmens sveikatos priežiūros paslaugas, gyventojų skaičiaus savivaldybėse, turimos infrastruktūros, įrangos ir medicinos personalo kriterijų reikšmes nustato sveikatos apsaugos ministras.
 
-ministerijos
+3. Teritorijai priskirtos įstaigos privalo bendradarbiauti (rengti periodinius sveikatos priežiūros įstaigų susitikimus ir aptarti savivaldybės sveikatos priežiūros įstaigų darbo organizavimą bei kitus su regioninės funkcinės sveikatos priežiūros atitinkamų paslaugų užtikrinimu susijusius klausimus) su kitomis šiai teritorijai priskirtomis įstaigomis toje teritorijoje užtikrindamos atitinkamų asmens sveikatos priežiūros paslaugų teikimą. Teritorijai priskirtų įstaigų bendradarbiavimas ir atitinkamų asmens sveikatos priežiūros paslaugų teikimas teritorijose įgyvendinamas vadovaujantis sveikatos apsaugos ministro nustatyta atitinkamų asmens sveikatos priežiūros paslaugų užtikrinimo teritorijose tvarka. Teritorijai priskirtų įstaigų savininko (dalininkų) teises ir pareigas įgyvendinančios institucijos privalo užtikrinti atitinkamų asmens sveikatos priežiūros paslaugų teikimą šiame straipsnyje nustatyta tvarka.
 
-Valstybinę
+4. Šio straipsnio nuostatos neriboja Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytų pacientų teisių.
 
-teisės psichiatrijos ir narkologijos tarnybą prie
+Papildyta straipsniu:
 
-Sveikatos
-
-ministerijos   steigia  ir   jos  nuostatus   tvirtina
-
-Sveikatos
-
-ministerija. Ši tarnyba yra juridinis asmuo. Jos veikla
-
-finansuojama iš valstybės
-
-biudžeto.
-
-Valstybinė
-
-teisės  psichiatrijos ir narkologijos tarnyba prie
-
-Sveikatos
-
-ministerijos:
-
-1) daro
-
-kvotos, tardymo ir teismo pavedimu teismo medicinos,
-
-teisės psichiatrijos
-
-ir narkologijos ekspertizes;
-
-2) vykdo  kitas
-
-įstatymų  ir  tarnybos  nuostatų  nustatytas
-
-funkcijas.
+Nr. XIV-1279, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15197
 
 122 straipsnis.
 
@@ -6596,11 +6576,21 @@ straipsnis, 10
 
 6) teisės aktų nustatyta tvarka atlieka tabako ir alkoholio gamybos bei didmeninės prekybos licencijavimo, veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), licencijavimo, vietos registravimo, importo ir eksporto leidimų išdavimo funkcijas;
 
-7) kontroliuoja, kaip ūkio subjektai laikosi Narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės, Tabako kontrolės, Alkoholio kontrolės įstatymų;
+7) prižiūri, kaip ūkio subjektai laikosi Narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo, Tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo, Alkoholio kontrolės įstatymo, Pluoštinių kanapių įstatymo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2149, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14335
 
 8) teisės aktų nustatyta tvarka atlieka Europos narkotikų ir narkomanijos informacinio tinklo nacionalinio centro funkcijas;
 
 9) atlieka kitas įstatymų, Departamento nuostatų ir kitų teisės aktų nustatytas funkcijas.
+
+3. Vykdydamas jam pavestas priežiūros funkcijas, Narkotikų, tabako ir alkoholio kontrolės departamentas turi teisę atlikti kontrolinius pirkimus, nepateikęs ūkio subjektui sprendimo atlikti neplaninį patikrinimą kopijos, neatlygintinai imti ir tirti prekių, produkcijos, žaliavų ar kitų medžiagų mėginius ar pavyzdžius.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2149, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14335
 
 Įstatymas papildytas straipsniu:
 
