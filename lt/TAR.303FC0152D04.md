@@ -4,7 +4,7 @@ identifier: "TAR.303FC0152D04"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2022-05-26"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2022-05-26 iki 2023-07-31
+Suvestinė redakcija nuo 2023-08-01 iki 2025-01-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
 
@@ -275,11 +275,19 @@ Rodant filmus kino teatruose ir videosalėse, reklama gali būti pateikiama tik 
 
 4. Išorinės reklamos įrengimo taisykles, kuriose nustatoma išorinės reklamos įrengimo reikalavimų ir reikalavimų, susijusių su leidimo išdavimu, atsisakymu išduoti leidimą, įspėjimu apie galimą leidimo galiojimo panaikinimą ir leidimo galiojimo panaikinimu, įgyvendinimo tvarka, tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) arba jos įgaliota institucija.
 
-5. Išorinė reklama turi būti įrengiama vadovaujantis projektavimą, architektūrą, statybą, kultūros paveldo objektų ir kraštovaizdžio apsaugą, teritorijų planavimą, eismo saugumą ir valstybinės kalbos vartojimą reglamentuojančių teisės aktų nuostatomis, Išorinės reklamos įrengimo taisyklėmis, savivaldybės institucijos patvirtintais išorinės reklamos specialiojo teritorijų planavimo dokumentais ir (ar) kompleksinio teritorijų planavimo dokumentais, ir (ar) juose nustatytais išorinės reklamos įrengimo reglamentais, o tuo atveju, kai išorinė reklama įrengiama pagal savivaldybės vykdomosios institucijos patvirtintą tipinio dydžio ir turinio išorinės reklamos įrengimo projektą, – ir savivaldybės vykdomosios institucijos patvirtintais tipinio dydžio ir turinio išorinės reklamos įrengimo reikalavimais.
+5. Išorinė reklama turi būti įrengiama vadovaujantis projektavimą, architektūrą, statybą, kultūros paveldo objektų ir kraštovaizdžio apsaugą, teritorijų planavimą, eismo saugumą ir valstybinės kalbos vartojimą reglamentuojančių teisės aktų nuostatomis, Išorinės reklamos įrengimo taisyklėmis, savivaldybės institucijos patvirtintais išorinės reklamos specialiojo teritorijų planavimo dokumentais ir (ar) kompleksinio teritorijų planavimo dokumentais, ir (ar) juose nustatytais išorinės reklamos įrengimo reglamentais, o tuo atveju, kai išorinė reklama įrengiama pagal savivaldybės mero patvirtintą tipinio dydžio ir turinio išorinės reklamos įrengimo projektą, – ir savivaldybės mero patvirtintais tipinio dydžio ir turinio išorinės reklamos įrengimo reikalavimais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2106, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13999
 
 6. Leidimas suteikia teisę leidime nurodytoje vietoje įrengti specialią išorinės reklamos pateikimo priemonę ir ant jos skleisti reklamą arba skleisti reklamą ant pritaikytos išorinės reklamos pateikimo priemonės.
 
-7. Leidimus išduoda, apie galimą leidimų galiojimo panaikinimą įspėja, leidimų galiojimą panaikina savivaldybės, kurios teritorijoje įrengiama išorinė reklama, vykdomoji institucija (toliau – leidimą išduodanti institucija), vadovaudamasi šiuo įstatymu ir Išorinės reklamos įrengimo taisyklėmis. Leidimą išduodanti institucija patvirtina tipinio dydžio ir turinio išorinės reklamos įrengimo projektus ir šios išorinės reklamos įrengimo reikalavimus.
+7. Leidimus išduoda, apie galimą leidimų galiojimo panaikinimą įspėja, leidimų galiojimą panaikina savivaldybės, kurios teritorijoje įrengiama išorinė reklama, meras arba jo įgaliota savivaldybės administracija (toliau – leidimą išduodanti institucija), vadovaudamasi šiuo įstatymu ir Išorinės reklamos įrengimo taisyklėmis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2106, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13999
 
 8. Leidimo galiojimo terminas nustatomas atsižvelgiant į paraiškoje išduoti leidimą nurodytą laikotarpį, tačiau negali būti ilgesnis kaip 10 metų.
 
@@ -417,7 +425,11 @@ REKLAMOS PRIEŽIŪRA
 
 2) Valstybinė maisto ir veterinarijos tarnyba – dėl šio įstatymo 14 straipsnio nuostatų (atlieka tyrimą dėl šiame straipsnyje nustatytų reikalavimų pažeidimo ir surašo tyrimo dokumentus);
 
-3) savivaldybių vykdomosios institucijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų;
+3) savivaldybių administracijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2106, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13999
 
 4) Kultūros paveldo departamentas prie Kultūros ministerijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose);
 
@@ -809,7 +821,13 @@ Nr. XIV-1062, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09671
 
 Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymas
 
-part_550f6fe3686b4ea4ba81fcaaaf1571e0_end
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2106, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13999
+
+Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 12 ir 19 straipsnių pakeitimo įstatymas
 
 211 straipsnis. Komercinių paslapčių apsauga
 
