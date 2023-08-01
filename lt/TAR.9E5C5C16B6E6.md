@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2023-01-01"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-07-31
+Suvestinė redakcija nuo 2023-08-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -110,7 +110,11 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-1619, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25043
 
-16. Masinis renginys – šventė, festivalis ar kitas didelei žmonių grupei skirtas renginys, kurį organizuoja valstybės ar savivaldybių institucijos ar įstaigos, fiziniai asmenys, juridiniai asmenys ar juridinio asmens statuso neturinčios organizacijos ar jų filialai, suderinę renginio laiką ir jo organizavimo tvarką su reikiamomis savivaldybės institucijomis (kai toks suderinimas būtinas pagal Lietuvos Respublikos susirinkimų įstatymą).
+16. Masinis renginys – šventė, festivalis ar kitas didelei žmonių grupei skirtas renginys, kurį organizuoja valstybės ar savivaldybių institucijos ar įstaigos, fiziniai asmenys, juridiniai asmenys ar juridinio asmens statuso neturinčios organizacijos ar jų filialai, suderinę renginio laiką ir jo organizavimo tvarką su savivaldybių merais ar jų įgaliotomis savivaldybių administracijomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2104, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13997
 
 17. Mažmeninės prekybos vieta – parduotuvė, automobilinė parduotuvė ir kitos vietos, kuriose verčiamasi mažmenine prekyba ir kurios yra įrengtos laikantis maisto tvarkymą reglamentuojančių teisės aktų reikalavimų.
 
@@ -394,7 +398,7 @@ Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
 
 2. Įmonės, turinčios licencijas gaminti alkoholio produktus, turi teisę verstis ir didmenine prekyba savo pagamintais produktais.
 
-3. Mažmenine prekyba alkoholiniais gėrimais leidžiama verstis tik turint licenciją verstis mažmenine prekyba alkoholiniais gėrimais. Licencijas išduoda, papildo, rekvizitus patikslina atitinkamos savivaldybės vykdomoji institucija. Licencijos verstis mažmenine prekyba alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų, kurortuose ir kitose savivaldybių tarybų nustatytose poilsio bei turizmo teritorijose išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams savivaldybių tarybų nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiui. Vienkartinės licencijos verstis mažmenine prekyba natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, parodose, natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, mugėse ir masiniuose renginiuose, taip pat verstis mažmenine prekyba visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariuose pastatuose, išduodamos teisę verstis mažmenine prekyba atitinkamų grupių alkoholiniais gėrimais turinčioms įmonėms, Europos juridiniams asmenims ir jų filialams ne ilgesniam kaip renginio trukmės laikui. Kitos licencijos verstis mažmenine prekyba alkoholiniais gėrimais išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams neterminuotam laikui. Įmonėms, Europos juridiniams asmenims ir jų filialams, prekiaujantiems alkoholiniais gėrimais stacionariosiose viešojo maitinimo vietose, jų turima neterminuota mažmeninės prekybos alkoholiniais gėrimais licencija suteikia teisę aptarnauti pirkėjus lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo stacionariosios viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose). Savivaldybių tarybos turi teisę uždrausti prekybą alkoholiniais gėrimais lauko sąlygomis ar apriboti prekybos alkoholiniais gėrimais lauko sąlygomis laiką ir trukmę.
+3. Mažmenine prekyba alkoholiniais gėrimais leidžiama verstis tik turint licenciją verstis mažmenine prekyba alkoholiniais gėrimais. Licencijas išduoda, papildo, rekvizitus patikslina, apie galimą licencijos galiojimo sustabdymą ar panaikinimą įspėja, licencijos galiojimą sustabdo, licencijos galiojimo sustabdymą ar licencijos galiojimą panaikina atitinkamos savivaldybės meras arba jo įgaliota savivaldybės administracija. Licencijos verstis mažmenine prekyba alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų, kurortuose ir kitose savivaldybių tarybų nustatytose poilsio bei turizmo teritorijose išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams savivaldybių tarybų nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiui. Vienkartinės licencijos verstis mažmenine prekyba natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, parodose, natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, mugėse ir masiniuose renginiuose, taip pat verstis mažmenine prekyba visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariuose pastatuose, išduodamos teisę verstis mažmenine prekyba atitinkamų grupių alkoholiniais gėrimais turinčioms įmonėms, Europos juridiniams asmenims ir jų filialams ne ilgesniam kaip renginio trukmės laikui. Kitos licencijos verstis mažmenine prekyba alkoholiniais gėrimais išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams neterminuotam laikui. Įmonėms, Europos juridiniams asmenims ir jų filialams, prekiaujantiems alkoholiniais gėrimais stacionariosiose viešojo maitinimo vietose, jų turima neterminuota mažmeninės prekybos alkoholiniais gėrimais licencija suteikia teisę aptarnauti pirkėjus lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo stacionariosios viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose). Savivaldybių tarybos turi teisę uždrausti prekybą alkoholiniais gėrimais lauko sąlygomis ar apriboti prekybos alkoholiniais gėrimais lauko sąlygomis laiką ir trukmę.
 
 Straipsnio dalies pakeitimai:
 
@@ -405,6 +409,8 @@ Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
 
 Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
+
+Nr. XIV-2104, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13997
 
 4. Įmonėms, Europos juridiniams asmenims ar jų filialams, pateikusiems prašymą išduoti licenciją verstis didmenine prekyba alkoholio produktais ar mažmenine prekyba alkoholiniais gėrimais, licencija turi būti išduota ne vėliau kaip per 30 kalendorinių dienų nuo visų tinkamai įformintų dokumentų, kurių reikia licencijai išduoti, gavimo licencijas išduodančioje institucijoje dienos. Jeigu pateikti ne visi, neteisingai užpildyti dokumentai arba pateikti neteisingi duomenys, 30 kalendorinių dienų terminas skaičiuojamas nuo visų arba papildytų (patikslintų) dokumentų gavimo dienos. Jeigu per nurodytą terminą licenciją išduodanti institucija neišduoda licencijos ir nepateikia motyvuoto rašytinio atsisakymo išduoti licenciją, laikoma, kad licencija išduota. Šiuo atveju licenciją išduodanti institucija privalo per vieną darbo dieną nuo šioje dalyje nurodyto termino pabaigos išsiųsti licenciją įmonei, Europos juridiniam asmeniui ar jo filialui prašyme dėl licencijos išdavimo nurodytu pageidaujamu licencijos gavimo būdu.
 
@@ -786,11 +792,13 @@ Lietuvos Respublikos Vyriausybės programoje turi būti nustatyti ilgalaikiai al
 
 1. Lietuvos Respublikos Vyriausybės nustatyta tvarka, suderinta su Nacionaline sveikatos taryba, Lietuvos Respublikoje atliekama alkoholio vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui stebėsena (monitoringas).
 
-2. Alkoholio vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui atrankinių statistinių tyrimų organizavimo teisinius pagrindus nustato Lietuvos Respublikos oficialiosios statistikos įstatymas.
+2. Alkoholio vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui oficialiosios statistikos organizavimo tvarką nustato Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1130, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07482
+
+Nr. XIV-2104, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13997
 
 21 straipsnis. Minimalaus gyvenimo lygio nustatymo ypatumai
 
@@ -942,11 +950,11 @@ Valstybės alkoholio kontrolės politiką pagal kompetenciją formuoja ir koordi
 
 31 straipsnis. Valstybės alkoholio kontrolės politikos vykdomųjų institucijų sistema
 
-Valstybės alkoholio kontrolę pagal kompetenciją atlieka ministerijos, Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba, kitos valstybės institucijos, savivaldybių vykdomosios institucijos, policija, sveikatos priežiūros įstaigos. Jų kompetenciją alkoholio kontrolės srityje nustato šis ir kiti įstatymai bei teisės aktai.
+Valstybės alkoholio kontrolę pagal kompetenciją atlieka ministerijos, Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba, kitos valstybės institucijos, savivaldybių merai arba jų įgaliotos savivaldybių administracijos, policija, sveikatos priežiūros įstaigos. Jų kompetenciją alkoholio kontrolės srityje nustato šis ir kiti įstatymai bei teisės aktai.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1179, 2010-11-30, Žin., 2010, Nr. 145-7432 (2010-12-11)
+Nr. XIV-2104, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13997
 
 32 straipsnis. Narkotikų, tabako ir alkoholio kontrolės departamentas
 
@@ -980,7 +988,11 @@ Nr. XIII-156, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29848
 
 34 straipsnis. Ekonominių sankcijų už šio Įstatymo pažeidimus taikymas
 
-1. Už šio Įstatymo pažeidimus baudas įmonėms, Europos juridiniams asmenims ir jų filialams, užsienio juridinių asmenų atstovybėms Lietuvos Respublikoje pagal savo kompetenciją turi teisę skirti Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba, Valstybinė mokesčių inspekcija, institucija, Lietuvos Respublikos Vyriausybės įgaliota išduoti žemės ūkio kilmės etilo alkoholio importo licencijas, savivaldybių institucijos ir policija.
+1. Už šio Įstatymo pažeidimus baudas įmonėms, Europos juridiniams asmenims ir jų filialams, užsienio juridinių asmenų atstovybėms Lietuvos Respublikoje pagal savo kompetenciją turi teisę skirti Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba, Valstybinė mokesčių inspekcija, institucija, Lietuvos Respublikos Vyriausybės įgaliota išduoti žemės ūkio kilmės etilo alkoholio importo licencijas, savivaldybių administracijos ir policija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2104, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13997
 
 2. Už alkoholio produktų, neatitinkančių Lietuvos Respublikoje galiojančių saugos ar kokybės reikalavimų, gaminimą ir pardavimą, žemės ūkio kilmės etilo alkoholio importą, alkoholio produktų gaminimą, laikymą, gabenimą ir pardavimą neturint šiai veiklai atitinkamos licencijos, šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7, 10 punktuose (jeigu tai neužtraukia baudžiamosios atsakomybės), šios dalies 4, 5, 6, 8, 9, 11 punktuose, 2 dalies 2, 3, 6, 8 punktuose (jeigu tai neužtraukia baudžiamosios atsakomybės), šios dalies 4, 5, 7, 9 punktuose, 5–11, 13 ir 15 dalyse nustatytų reikalavimų nesilaikymą, taip pat už savivaldybių tarybų nustatytų prekybos alkoholiniais gėrimais švenčių ir masinių renginių dienomis ribojimų ar draudimų pažeidimą įmonės, Europos juridiniai asmenys ir jų filialai, užsienio juridinių asmenų atstovybės Lietuvos Respublikoje baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki keturiolikos tūkstančių keturių šimtų aštuoniasdešimt vieno euro bauda.
 
@@ -1036,7 +1048,11 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
 13. Baudas už alkoholio produktų gamybą neturint šiai veiklai reikalingos licencijos, už šio Įstatymo 17 straipsnio 1 dalies 6 punkte, 2 dalies 5 punkte ir 28 straipsnyje nustatytų reikalavimų nesilaikymą skiria Narkotikų, tabako ir alkoholio kontrolės departamentas.
 
-14. Baudas už šio Įstatymo 29 straipsnyje nustatytų reikalavimų pažeidimus skiria Narkotikų, tabako ir alkoholio kontrolės departamentas ir savivaldybių institucijos (už išorinės reklamos draudimo pažeidimus).
+14. Baudas už šio Įstatymo 29 straipsnyje nustatytų reikalavimų pažeidimus skiria Narkotikų, tabako ir alkoholio kontrolės departamentas ir savivaldybių administracijos (už išorinės reklamos draudimo pažeidimus).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2104, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13997
 
 15. Baudas už žemės ūkio kilmės etilo alkoholio importą neturint šiai veiklai reikalingos licencijos skiria Lietuvos Respublikos Vyriausybės įgaliota institucija.
 
@@ -1188,7 +1204,11 @@ Nr. XII-975, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10011
 
 40 straipsnis. Baudų išieškojimas
 
-1. Bauda turi būti sumokama į valstybės biudžetą, o tais atvejais, kai baudas skiria savivaldybių vykdomosios institucijos, į baudą paskyrusios savivaldybės biudžetą ne vėliau kaip per vieną mėnesį nuo dienos, kai šio Įstatymo pažeidėjams įteiktas nutarimas paskirti baudą.
+1. Bauda turi būti sumokama į valstybės biudžetą, o tais atvejais, kai baudas skiria savivaldybių administracijos, – į baudą paskyrusios savivaldybės biudžetą ne vėliau kaip per vieną mėnesį nuo dienos, kai šio Įstatymo pažeidėjams įteikiamas nutarimas paskirti baudą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2104, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13997
 
 2. Nesumokėtas baudas išieško antstoliai vykdydami pateiktus šio Įstatymo 39 straipsnyje nurodytus institucijų nutarimus Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimai gali būti pateikiami vykdyti ne vėliau kaip per 3 metus nuo jų priėmimo dienos.
 
@@ -2600,7 +2620,11 @@ Leidimai pirkti nedenatūruoto etilo alkoholio ir leidimai pirkti ir (ar) naudot
 
 2. Įmonės, turinčios licencijas gaminti alkoholio produktus, verstis didmenine prekyba jais, taip pat įmonės, Europos juridiniai asmenys ir jų filialai, turintys licencijas verstis mažmenine prekyba alkoholiniais gėrimais, privalo informuoti licenciją išdavusią instituciją apie pasikeitusį įmonės, Europos juridinio asmens ar jo filialo vadovą per 10 darbo dienų nuo jo darbo pradžios.
 
-3. Įmonės, Europos juridiniai asmenys ir jų filialai, turintys licencijas verstis mažmenine prekyba alkoholiniais gėrimais, privalo kreiptis į licenciją išdavusią instituciją dėl licencijos patikslinimo, kai savivaldybės taryba, vadovaudamasi šio Įstatymo 18 straipsnio 9 dalimi, apriboja įmonės, Europos juridinio asmens ar jo filialo prekybos alkoholiniais gėrimais laiką, per 5 darbo dienas nuo savivaldybės vykdomosios institucijos rašytinio pranešimo apie savivaldybės tarybos nustatytą apribojimą gavimo.
+3. Įmonės, Europos juridiniai asmenys ir jų filialai, turintys licencijas verstis mažmenine prekyba alkoholiniais gėrimais, privalo kreiptis į licenciją išdavusią instituciją dėl licencijos patikslinimo, kai savivaldybės taryba, vadovaudamasi šio Įstatymo 18 straipsnio 9 dalimi, apriboja įmonės, Europos juridinio asmens ar jo filialo prekybos alkoholiniais gėrimais laiką, per 5 darbo dienas nuo savivaldybės administracijos rašytinio pranešimo apie savivaldybės tarybos nustatytą apribojimą gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2104, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13997
 
 4. Įmonės, turinčios licencijas gaminti alkoholio produktus, kalendoriniam mėnesiui pasibaigus, ne vėliau kaip iki kito mėnesio 20 dienos turi pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui mėnesio duomenis apie alkoholio produktų gamybos ir realizavimo apimtis pagal Narkotikų, tabako ir alkoholio kontrolės departamento patvirtintą pavyzdinę formą.
 
