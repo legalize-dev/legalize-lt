@@ -4,7 +4,7 @@ identifier: "TAR.5735E146A232"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-12"
-last_updated: "2021-07-30"
+last_updated: "2023-08-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5735E146A232"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos juridinių asmenų registro įstatymas
 
-Suvestinė redakcija nuo 2021-07-30 iki 2023-08-30
+Suvestinė redakcija nuo 2023-08-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 55-1940, i. k. 1011010ISTA00IX-368
 
@@ -45,19 +45,29 @@ Vilnius
 
 2) Sveikatos apsaugos ministerijoje;
 
-3) Švietimo ir mokslo ministerijoje;
+3) Švietimo, mokslo ir sporto ministerijoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1873, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07538
 
 4) Teisingumo ministerijoje;
 
-5) Ūkio ministerijoje;
+5) Ekonomikos ir inovacijų ministerijoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1873, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07538
 
 6) Lietuvos banke;
 
-7) Lietuvos statistikos departamente;
+7) Valstybės duomenų agentūroje;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-1117, 2010-11-12, Žin., 2010, Nr. 139-7101 (2010-11-27), i. k. 1101010ISTA0XI-1117
+
+Nr. XIV-1873, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07538
 
 8) apskričių viršininkų administracijose;
 
@@ -93,9 +103,9 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
-Lietuvos Respublikos juridinių
+Lietuvos Respublikos
 
-asmenų registro įstatymo
+juridinių asmenų registro įstatymo
 
 priedas
 
@@ -103,11 +113,15 @@ priedas
 
 1. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/848 dėl nemokumo bylų.
 
-2. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1151.
+2. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2121.
+
+____________________
 
 Priedo pakeitimai:
 
 Nr. XIV-280, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09682
+
+Nr. XIV-1873, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07538
 
 Pakeitimai:
 
@@ -143,6 +157,16 @@ Nr. XIV-280, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09682
 
 Lietuvos Respublikos juridinių asmenų registro įstatymo Nr. IX-368 4-1 straipsnio, priedo pakeitimo ir Įstatymo papildymo 4-2 straipsniu įstatymas
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1873, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07538
+
+Lietuvos Respublikos juridinių asmenų registro įstatymo Nr. IX-368 2, 4-1 straipsnių ir priedo pakeitimo įstatymas
+
+part_61743140d7194c8d8e472b36785e5064_end
+
 11 straipsnis. Europos Sąjungos teisės aktų įgyvendinimas
 
 Šio įstatymo nuostatos yra suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
@@ -157,7 +181,11 @@ Nr. XII-983, 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09905
 
 2. Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių valstybių centrinių, komercinių ir bendrovių registrų sąveikos sistemą sudaro Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių valstybių centriniai, komerciniai ir bendrovių registrai, Europos centrinė platforma ir Europos e. teisingumo portalas.
 
-3. Juridinių asmenų registro duomenys, registre kaupiami dokumentai, nurodyti šioje dalyje, ir bet kuri kita registrui pateikta informacija apie Europos bendroves, akcines bendroves ir uždarąsias akcines bendroves bei kitose Europos Sąjungos valstybėse narėse ir Europos ekonominei erdvei priklausančiose valstybėse įsteigtų ribotos atsakomybės bendrovių filialus yra prieinama per Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių valstybių centrinių, komercinių ir bendrovių registrų sąveikos sistemą. Šioje dalyje nurodyti registre kaupiami Europos bendrovių, akcinių bendrovių ir uždarųjų akcinių bendrovių dokumentai yra įstatai, bendrovių metinių finansinių ataskaitų rinkiniai, bendrovių metiniai pranešimai (jeigu rengiami) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), taip pat, jeigu sudaromi, metinių konsoliduotųjų finansinių ataskaitų rinkiniai, konsoliduotieji metiniai pranešimai (jeigu rengiami) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), taip pat dokumentai, patvirtinantys sprendimus dėl įstatų pakeitimo, valdymo organų narių ir priežiūros organų narių išrinkimo ar atšaukimo, bendrovės buveinės pakeitimo, bendrovės likvidavimo ar bendrovės likvidavimo atšaukimo, bendrovės likvidatoriaus išrinkimo ar atšaukimo, dokumentai, patvirtinantys teismo sprendimą dėl bendrovės pripažinimo neteisėtai įsteigta. Šioje dalyje nurodyti registre kaupiami kitose Europos Sąjungos valstybėse narėse ir Europos ekonominei erdvei priklausančiose valstybėse įsteigtų ribotos atsakomybės bendrovių filialų dokumentai yra registro, kuriame saugoma bendrovės byla, išrašas, patvirtinantis, kad užsienio bendrovė įregistruota tame registre, bendrovių metinių finansinių ataskaitų rinkiniai, bendrovių metiniai pranešimai (jeigu rengiami) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), taip pat, jeigu sudaromi, metinių konsoliduotųjų finansinių ataskaitų rinkiniai, konsoliduotieji metiniai pranešimai (jeigu rengiami) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas) ir dokumentai, patvirtinantys sprendimus dėl bendrovės organų narių, kurie veikia tos bendrovės vardu palaikant santykius su trečiaisiais asmenimis ir teismo procesuose, paskyrimo ir įgaliojimų pabaigos, bendrovės filialo vadovo paskyrimo ir įgaliojimų pabaigos, bendrovės likvidavimo ar jos likvidavimo atšaukimo, bendrovės likvidatoriaus išrinkimo ar atšaukimo, bendrovės filialo veiklos nutraukimo, bei dokumentai, patvirtinantys nemokiai bendrovei taikomas procedūras.
+3. Juridinių asmenų registro duomenys, registre kaupiami dokumentai, nurodyti šioje dalyje, ir bet kuri kita registrui pateikta informacija apie Europos bendroves, akcines bendroves ir uždarąsias akcines bendroves bei kitose Europos Sąjungos valstybėse narėse ir Europos ekonominei erdvei priklausančiose valstybėse įsteigtų ribotos atsakomybės bendrovių filialus yra prieinama per Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių valstybių centrinių, komercinių ir bendrovių registrų sąveikos sistemą. Šioje dalyje nurodyti registre kaupiami Europos bendrovių, akcinių bendrovių ir uždarųjų akcinių bendrovių dokumentai yra įstatai, bendrovių metinių finansinių ataskaitų rinkiniai, bendrovių metiniai pranešimai (jeigu rengiami) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), taip pat, jeigu sudaromi, metinių konsoliduotųjų finansinių ataskaitų rinkiniai, konsoliduotieji metiniai pranešimai (jeigu rengiami) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), taip pat dokumentai, patvirtinantys sprendimus dėl įstatų pakeitimo, valdymo organų narių ir priežiūros organų narių išrinkimo ar atšaukimo, bendrovės buveinės pakeitimo, bendrovės likvidavimo ar bendrovės likvidavimo atšaukimo, bendrovės likvidatoriaus išrinkimo ar atšaukimo, dokumentai, patvirtinantys teismo sprendimą dėl bendrovės pripažinimo neteisėtai įsteigta, vienos valstybės ribas peržengiančio pertvarkymo sąlygos, pertvarkymo sąlygų vertinimo ataskaita (jeigu rengiama), pranešimas bendrovės dalyviams, kreditoriams ir darbuotojų atstovams (ar darbuotojams, jeigu tokių atstovų nėra) apie jų teisę pateikti pastabas dėl pertvarkymo sąlygų, pasirengimo pertvarkymui pažymėjimas, vienos valstybės ribas peržengiančio jungimosi sąlygos, jungimosi sąlygų vertinimo ataskaita (jeigu rengiama), pranešimas bendrovės dalyviams, kreditoriams ir darbuotojų atstovams (ar darbuotojams, jeigu tokių atstovų nėra) apie jų teisę pateikti pastabas dėl jungimosi sąlygų, pasirengimo jungimuisi pažymėjimas, vienos valstybės ribas peržengiančio skaidymo sąlygos, skaidymo sąlygų vertinimo ataskaita (jeigu rengiama), pranešimas bendrovės dalyviams, kreditoriams ir darbuotojų atstovams (ar darbuotojams, jeigu tokių atstovų nėra) apie jų teisę pateikti pastabas dėl skaidymo sąlygų, pasirengimo skaidymui pažymėjimas. Šioje dalyje nurodyti registre kaupiami kitose Europos Sąjungos valstybėse narėse ir Europos ekonominei erdvei priklausančiose valstybėse įsteigtų ribotos atsakomybės bendrovių filialų dokumentai yra registro, kuriame saugoma bendrovės byla, išrašas, patvirtinantis, kad užsienio bendrovė įregistruota tame registre, bendrovių metinių finansinių ataskaitų rinkiniai, bendrovių metiniai pranešimai (jeigu rengiami) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), taip pat, jeigu sudaromi, metinių konsoliduotųjų finansinių ataskaitų rinkiniai, konsoliduotieji metiniai pranešimai (jeigu rengiami) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas) ir dokumentai, patvirtinantys sprendimus dėl bendrovės organų narių, kurie veikia tos bendrovės vardu palaikant santykius su trečiaisiais asmenimis ir teismo procesuose, paskyrimo ir įgaliojimų pabaigos, bendrovės filialo vadovo paskyrimo ir įgaliojimų pabaigos, bendrovės likvidavimo ar jos likvidavimo atšaukimo, bendrovės likvidatoriaus išrinkimo ar atšaukimo, bendrovės filialo veiklos nutraukimo, bei dokumentai, patvirtinantys nemokiai bendrovei taikomas procedūras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1873, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07538
 
 4. Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių valstybių centrinių, komercinių ir bendrovių registrų duomenys, šiuose registruose kaupiami dokumentai ir bet kuri kita šiems registrams pateikta informacija apie Europos bendroves, akcinių bendrovių ir uždarųjų akcinių bendrovių teisines formas atitinkančias ribotos atsakomybės bendroves ir šių bendrovių filialus, įsteigtus kitose Europos Sąjungos valstybėse narėse, įskaitant Lietuvos Respubliką, ir Europos ekonominei erdvei priklausančiose valstybėse, Lietuvos Respublikoje prieinama viešai per Europos e. teisingumo portalą ir registro tvarkytojo interneto svetainę.
 
