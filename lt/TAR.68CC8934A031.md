@@ -4,7 +4,7 @@ identifier: "TAR.68CC8934A031"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-13"
-last_updated: "2023-06-25"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.68CC8934A031"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS
 
 IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-06-25 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
 
@@ -448,9 +448,9 @@ Papildyta skirsniu:
 
 Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
 
-PENKTASIS SKIRSNIS
+KETVIRTASIS2 SKIRSNIS
 
-REGLAMENTO (ES) 2020/1783 ĮGYVENDINIMAS
+SPRENDIMO (ES) 2022/1206 IR 2019 M. liepos 2 D. HAGOS KONVENCIJOS DĖL UŽSIENIO TEISMŲ SPRENDIMŲ CIVILINIAIS ARBA KOMERCINIAIS KLAUSIMAIS PRIPAŽINIMO IR VYKDYMO ĮGYVENDINIMAS
 
 3113 straipsnis. Pažymos išdavimas, pranešimas apie pažymos išdavimą, išduotos pažymos taisymas ar panaikinimas
 
@@ -735,4 +735,20 @@ Nr. XIV-1473, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23020
 DEŠIMTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
+
+44 straipsnis. Teismų sprendimų pripažinimo ir vykdymo tvarka
+
+1. 2019 m. liepos 2 d. Hagos konvencijos dėl užsienio teismų sprendimų civiliniais arba komerciniais klausimais pripažinimo ir vykdymo (toliau – 2019 m. Hagos konvencija), prie kurios Europos Sąjunga prisijungė Sprendimu (ES) 2022/1206, 12 straipsnyje nurodytus prašymus pripažinti ir (ar) vykdyti teismų sprendimus nagrinėja Lietuvos apeliacinis teismas. Šie prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas.
+
+2. Prašymas peržiūrėti Lietuvos apeliacinio teismo nutartį, priimtą dėl šio straipsnio 1 dalyje nurodyto prašymo, gali būti paduotas per trisdešimt dienų nuo nutarties įteikimo šaliai dienos. Jeigu šalies, kuri turi teisę paduoti prašymą peržiūrėti Lietuvos apeliacinio teismo nutartį, nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, prašymo peržiūrėti Lietuvos apeliacinio teismo nutartį pateikimo terminas yra šešiasdešimt dienų ir jis skaičiuojamas nuo nutarties įteikimo šiai šaliai asmeniškai arba pristatymo į jos gyvenamąją vietą dienos.
+
+3. Pagal šio straipsnio nuostatas taip pat pripažįstami ir vykdomi 2019 m. Hagos konvencijos 11 straipsnyje numatyti teisminiai susitarimai.
+
+Papildyta skirsniu:
+
+Nr. XIV-1962, 2023-05-18, paskelbta TAR 2023-05-25, i. k. 2023-09976
+
+PENKTASIS SKIRSNIS
+
+REGLAMENTO (ES) 2020/1783 ĮGYVENDINIMAS
 
