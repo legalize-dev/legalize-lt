@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2023-07-06"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2023-07-06 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01 iki 2023-12-29
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -169,7 +169,11 @@ Savarankiškosios (Konstitucijos ir įstatymų nustatytos (priskirtos)) savivald
 
 5) savivaldybės teritorijoje gyvenančių vaikų iki 16 metų mokymosi pagal privalomojo švietimo programas užtikrinimas;
 
-6) švietimo pagalbos teikimo mokiniui, mokytojui, šeimai, mokyklai, vaiko minimaliosios priežiūros priemonių vykdymo organizavimas ir koordinavimas;
+6) švietimo pagalbos teikimo mokiniui, mokytojui, šeimai, mokyklai, vaiko minimaliosios priežiūros priemonių vykdymo organizavimas ir koordinavimas, prevencinių programų įgyvendinimo mokyklose užtikrinimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
 
 7) bendrojo ugdymo mokyklų mokinių, gyvenančių kaimo gyvenamosiose vietovėse, neatlygintinio pavėžėjimo į mokyklas ir į namus organizavimas;
 
@@ -266,6 +270,14 @@ Valstybinės (valstybės perduotos savivaldybėms) funkcijos yra:
 5) dalyvavimas valdant valstybinius parkus;
 
 6) priešmokyklinio ugdymo, bendrojo ugdymo, profesinio mokymo ir profesinio orientavimo organizavimas, savivaldybės teritorijoje gyvenančių vaikų iki 16 metų mokymosi pagal privalomojo švietimo programas užtikrinimas, mokyklų (klasių), vykdančių bendrojo ugdymo programas ir skirtų mokiniams, turintiems išskirtinių gabumų ar specialiųjų poreikių, išlaikymas;
+
+6 punkto redakcija nuo 2024-01-02:
+
+6) priešmokyklinio ugdymo, bendrojo ugdymo, profesinio mokymo ir profesinio orientavimo organizavimas, savivaldybės teritorijoje gyvenančių vaikų iki 16 metų mokymosi pagal privalomojo švietimo programas užtikrinimas, mokyklų (klasių), vykdančių bendrojo ugdymo programas ir skirtų šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, kadetų ugdymo mokyklų, skirtų šalies (regiono) mokiniams, išlaikymas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
 
 7) mokinių nemokamo maitinimo savivaldybės įsteigtose mokyklose ir savivaldybės teritorijoje įsteigtose nevalstybinėse mokyklose administravimas ir nepasiturinčių šeimų mokinių, deklaravusių gyvenamąją vietą arba gyvenančių tos savivaldybės teritorijoje, aprūpinimo mokinio reikmenimis administravimas;
 
@@ -2072,8 +2084,6 @@ priedas
 ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
 
 2006 m. lapkričio 16 d. Komisijos direktyva 2006/111/EB dėl finansinių santykių tarp valstybių narių ir valstybės įmonių skaidrumo ir dėl finansinio skaidrumo tam tikrose įmonėse (kodifikuota redakcija)
-
-part_3a4c59ea1e614100b95a62616367ef30_end
 
 Pakeitimai:
 
