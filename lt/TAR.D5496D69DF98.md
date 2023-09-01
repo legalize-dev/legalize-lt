@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2023-06-01"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01 iki 2024-04-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -879,7 +879,17 @@ Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
 
 1. Valstybės, kaip valstybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių, viešųjų įstaigų ir kitos teisinės formos juridinių asmenų dalyvio, turtines ir neturtines teises ir pareigas įgyvendina Vyriausybės įgaliotos institucijos Vyriausybės nustatyta tvarka. Savivaldybių, kaip savivaldybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių, viešųjų įstaigų ir kitos teisinės formos juridinių asmenų dalyvių, turtines ir neturtines teises ir pareigas Vyriausybės nustatyta tvarka įgyvendina savivaldybių vykdomosios institucijos. Prireikus išsamią tvarką, reikalingą savivaldybių, kaip juridinių asmenų dalyvių, turtinėms ir neturtinėms teisėms ir pareigoms įgyvendinti, nustato savivaldybių vykdomosios institucijos.
 
-2. Vyriausybė nustato, kurios pagal šio straipsnio 1 dalį Vyriausybės priimtų teisės aktų nuostatos valstybės valdomoms įmonėms ir savivaldybės valdomoms įmonėms taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos. Vyriausybė taip pat nustato, kurios pagal šio straipsnio 1 dalį Vyriausybės priimtų teisės aktų nuostatos taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos valstybės ir (ar) savivaldybės valdomų bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kaip jos suprantamos Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalyje, taip pat visoms kitoms su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per dukterines bendroves susijusioms paskesnių eilių dukterinėms bendrovėms, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje (toliau kartu – dukterinė bendrovė). Taisyklė „laikykis arba paaiškink“ suprantama taip, kad nukrypimas nuo Vyriausybės nustatytos tvarkos nuostatų turi būti racionaliai pagrįstas ir paaiškintas.
+2. Vyriausybė nustato, kurios pagal šio straipsnio 1 ir 21 dalis Vyriausybės priimtų teisės aktų nuostatos valstybės valdomoms įmonėms ir savivaldybės valdomoms įmonėms taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos. Vyriausybė taip pat nustato, kurios pagal šio straipsnio 1 ir 21 dalis Vyriausybės priimtų teisės aktų nuostatos taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos valstybės ir (ar) savivaldybės valdomų bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 1 dalyje, taip pat visoms kitoms su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per dukterines bendroves susijusioms paskesnių eilių dukterinėms bendrovėms, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje (toliau kartu – dukterinė bendrovė). Taisyklė „laikykis arba paaiškink“ suprantama taip, kad nukrypimas nuo Vyriausybės nustatytos tvarkos nuostatų turi būti racionaliai pagrįstas ir paaiškintas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1631, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26095
+
+21. Turi būti užtikrinamas valstybės valdomų įmonių, savivaldybės valdomų įmonių ir jų dukterinių bendrovių veiklos skaidrumas, kuris suprantamas kaip šių įmonių viešai atskleidžiamų duomenų, informacijos ir dokumentų paskelbimas jų interneto svetainėse ir šio straipsnio 5 dalies 1 punkte nurodytose apibendrinamosiose ataskaitose. Valstybės valdomų įmonių, savivaldybės valdomų įmonių ir jų dukterinių bendrovių veiklos skaidrumo užtikrinimo gaires, kuriose, be kita ko, gali būti nustatomi ir kiti, negu įstatymuose nustatyti, šių įmonių metinių ir tarpinių finansinių ataskaitų rinkinių, pranešimų ir veiklos ataskaitų rengimo ir turinio reikalavimai, nustato Vyriausybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1631, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26095
 
 3. Su akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių valstybei nuosavybės teise priklausančios akcijos suteikia 1/2 ar mažiau balsų visuotiniame akcininkų susirinkime, valdymu susijusias funkcijas atlieka Vyriausybės įgaliotos institucijos, kurios įgyvendina valstybės, kaip juridinio asmens dalyvio, turtines ir neturtines teises ir pareigas. Su akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių vienai ar kelioms savivaldybėms nuosavybės teise priklausančios akcijos suteikia 1/2 ar mažiau balsų visuotiniame akcininkų susirinkime, valdymu susijusias funkcijas atlieka savivaldybės vykdomoji institucija (vykdomosios institucijos), kuri (kurios) įgyvendina savivaldybės, kaip juridinio asmens dalyvio, turtines ir neturtines teises ir pareigas.
 
