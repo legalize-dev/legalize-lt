@@ -4,7 +4,7 @@ identifier: "TAR.55B9E4E382B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-04-10"
-last_updated: "2020-07-01"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2020-07-01 iki 2023-09-30
+Suvestinė redakcija nuo 2023-10-01
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 18-0; Žin. 1990, Nr.17-439, i. k. 090XX01ISTA000I-130
 
@@ -160,7 +160,13 @@ Nr. XIII-2922, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10929
 
 3) krašto apsaugos sistemos karių ir statutinių valstybės tarnautojų uniformų skiriamuosiuose ženkluose;
 
-4) ant pašto ženklų.
+4) ant pašto ženklų;
+
+5) ant motorinių transporto priemonių ir jų priekabų valstybinio registracijos numerio ženklų.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1148, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13887
 
 4. Valstybės herbas nuolat iškabintas:
 
@@ -681,6 +687,14 @@ Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstat
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-2922, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10929
+
+Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo Nr. I-130 5 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1148, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13887
 
 Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo Nr. I-130 5 straipsnio pakeitimo įstatymas
 
