@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2023-01-31"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2023-01-31 iki 2023-09-30
+Suvestinė redakcija nuo 2023-10-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
 
@@ -423,7 +423,7 @@ Notaras turi teisę savo blankuose ir iškabose naudoti Lietuvos valstybės herb
 
 19 straipsnis. Notaro pajamos
 
-Už notarinių veiksmų atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas notaras ima atlyginimą, kurio dydį (įkainius) nustato Lietuvos Respublikos teisingumo ministras, atsižvelgdamas į šio įstatymo 191 straipsnyje nurodytus notarų atlyginimo dydžių (įkainių) nustatymo kriterijus ir suderinęs su Lietuvos Respublikos finansų ministru. Atlyginimo dydis turi garantuoti notaro pajamas, kurios leistų jam būti ekonomiškai nepriklausomam, sudaryti geras klientų aptarnavimo sąlygas, įdarbinti reikalingos kvalifikacijos darbuotojus ir turėti gerai techniškai aprūpintą biurą. Notaras dėl mediacijos ir aukcionų organizavimo bei vykdymo paslaugų kainų ir apmokėjimo tvarkos susitaria su klientais, sudarydamas sutartį dėl paslaugų teikimo, jeigu įstatymuose nenustatyta kitaip.
+Už notarinių veiksmų atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas notaras ima atlyginimą. Šio atlyginimo dydį (įkainius) ir atleidimo nuo jo mokėjimo atvejus nustato Lietuvos Respublikos Vyriausybė pagal savo tvirtinamą notarų atlyginimo dydžių (įkainių) nustatymo metodiką. Atlyginimo dydis turi garantuoti notaro pajamas, kurios leistų jam būti ekonomiškai nepriklausomam, sudaryti geras klientų aptarnavimo sąlygas, įdarbinti reikalingos kvalifikacijos darbuotojus ir turėti gerai techniškai aprūpintą biurą. Notaras dėl mediacijos ir aukcionų organizavimo bei vykdymo paslaugų kainų ir apmokėjimo tvarkos susitaria su klientais, sudarydamas sutartį dėl paslaugų teikimo, jeigu įstatymuose nenustatyta kitaip.
 
 Straipsnio dalies pakeitimai:
 
@@ -432,6 +432,8 @@ Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 Nr. XIII-1605, 2018-11-08, paskelbta TAR 2018-11-20, i. k. 2018-18678
 
 Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
+
+Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
 
 Lietuvos Respublikos Vyriausybė tvirtina notarų atlyginimo dydžių (įkainių) nustatymo metodiką, atsižvelgdama į šio įstatymo 191 straipsnyje nurodytus notarų atlyginimo už notarinių veiksmų atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas dydžių (įkainių) nustatymo kriterijus.
 
