@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2023-01-31"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2023-01-31 iki 2023-10-03
+Suvestinė redakcija nuo 2023-10-04 iki 2024-08-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -3789,11 +3789,13 @@ ATLIEKŲ TVARKYMO EKONOMINĖS IR FINANSINĖS PRIEMONĖS
 
 321 straipsnis. Gamintojo atsakomybės principo taikymas
 
-1. Šio Įstatymo aštuntajame1 – aštuntajame6 ir aštuntajame11 skirsniuose nurodytiems gaminiams ir pakuotėms yra taikomas gamintojo atsakomybės principas. Tai apima gaminių ar pakuočių atliekų surinkimo, vežimo, atliekų apdorojimo sistemos organizavimą ir (ar) dalyvavimą organizuojant gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, įskaitant šioms veikloms tenkančių išlaidų finansavimą, Vyriausybės nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių vykdymą ir (ar) Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka nustatyto mokesčio mokėjimą už aplinkos teršimą gaminių ar pakuočių atliekomis (kai gamintojai ir importuotojai nevykdo Vyriausybės nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių), visuomenės švietimą atliekų prevencijos ir tvarkymo klausimais, informacijos apie gaminius, pakuotes ir jų atliekų tvarkymą šių gaminių naudotojams ir atliekų tvarkytojams teikimą, grąžinamų produktų ir juos panaudojus susidarančių atliekų priėmimą, tvarkymą ir finansinę atsakomybę už tokią veiklą.
+1. Šio Įstatymo aštuntajame1 – aštuntajame6 ir aštuntajame11 skirsniuose nurodytiems gaminiams ir pakuotėms yra taikomas gamintojo atsakomybės principas. Tai apima gaminių ar pakuočių atliekų surinkimo, vežimo, atliekų apdorojimo sistemos organizavimą ir (ar) dalyvavimą organizuojant gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, įskaitant šioms veikloms tenkančių išlaidų finansavimą, Vyriausybės nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių vykdymą, Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka nustatyto mokesčio mokėjimą už aplinkos teršimą gaminių ar pakuočių atliekomis, visuomenės švietimą atliekų prevencijos ir tvarkymo klausimais, informacijos apie gaminius, pakuotes ir jų atliekų tvarkymą šių gaminių naudotojams ir atliekų tvarkytojams teikimą, grąžinamų produktų ir juos panaudojus susidarančių atliekų priėmimą, tvarkymą ir finansinę atsakomybę už tokią veiklą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+
+Nr. XIV-2175, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19348
 
 2. Gamintojai ir importuotojai, be pareigų, nurodytų šio Įstatymo 341 straipsnio 1 dalyje, 344 straipsnio 1 dalyje, 347 straipsnio 1 dalyje, 3415 straipsnio 1 dalyje, 3418 straipsnio 1 dalyje, 3421 straipsnio 2 dalyje, 3432 straipsnio 1 dalyje, 3435 straipsnio 1 dalyje, 3438 straipsnio 1 dalyje, papildomai pagal kompetenciją turi prisidėti prie Valstybiniame atliekų prevencijos ir tvarkymo plane numatytų atliekų prevencijos ir (ar) tvarkymo kiekybinių ar kokybinių tikslų ir užduočių (pavyzdžiui, atliekų prevencijos, komunalinių atliekų paruošimo pakartotinai naudoti ir (ar) perdirbti, naudojimo, šalinimo sąvartyne) vykdymo ir priemonių, numatytų šiems tikslams ir užduotims pasiekti, įgyvendinimo, jeigu gaminiai ar pakuotės, virtę atliekomis, daro įtaką nustatytų atliekų prevencijos ir (ar) tvarkymo tikslų ir užduočių siekimui.
 
