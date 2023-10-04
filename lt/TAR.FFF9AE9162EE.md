@@ -4,7 +4,7 @@ identifier: "TAR.FFF9AE9162EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-13"
-last_updated: "2023-01-03"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-10-03
+Suvestinė redakcija nuo 2023-10-04 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
 
