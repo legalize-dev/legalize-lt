@@ -4,7 +4,7 @@ identifier: "TAR.9D1ADB9E1518"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-09-25"
-last_updated: "2023-07-01"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-10-03
+Suvestinė redakcija nuo 2023-10-04 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
 
@@ -369,7 +369,11 @@ Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
 
 2. Be šio straipsnio 1 dalyje nustatytų pareigų, pakuotes ir supakuotus gaminius Lietuvos Respublikos vidaus rinkai tiekiantys gamintojai ir importuotojai privalo imtis visų priemonių, kad tuščios prekinės, grupinės, transporto pakuotės ir šių pakuočių atliekos būtų tvarkomos vadovaujantis šio įstatymo 3 straipsnyje nustatytais prioritetais.
 
-3. Gamintojai ir importuotojai privalo Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka mokėti mokestį už aplinkos teršimą pakuočių atliekomis, jeigu nevykdo Vyriausybės ar jos įgaliotos institucijos nustatytų pakuočių atliekų tvarkymo užduočių.
+3. Gamintojai ir importuotojai Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatyta tvarka moka mokestį už aplinkos teršimą pakuočių atliekomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2176, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19351
 
 4. Siekdami įvykdyti šio straipsnio 1 dalies 2 punkte nustatytą pareigą, gamintojai ir importuotojai gali diegti savivaldybės organizuojamą komunalinių atliekų tvarkymo sistemą papildančias pakuočių atliekų surinkimo sistemas.
 
