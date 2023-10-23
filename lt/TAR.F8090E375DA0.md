@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2023-08-01"
+last_updated: "2023-10-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
-Suvestinė redakcija nuo 2023-08-01 iki 2023-10-22
+Suvestinė redakcija nuo 2023-10-23 iki 2023-12-29
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 
@@ -126,6 +126,12 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 14. Išorinė pakuotė – pakuotė (išskyrus permatomą vyniojamąją medžiagą), į kurią supakuoti tabako gaminiai ar su tabako gaminiais susiję gaminiai pateikiami rinkai ir kuri apima vienetinį pakelį ar vienetinių pakelių bloką.
 
 15. Išsiskiriančios medžiagos – medžiagos, kurios išsiskiria vartojant tabaką, tabako gaminį ar su tabako gaminiais susijusį gaminį pagal paskirtį.
+
+151. Kaitinamojo tabako gaminys – naujoviškas tabako gaminys, kuris kaitinamas tam, kad iš jo išsiskirtų nikotinas ir kitos cheminės medžiagos, kuriuos įkvepia vartotojas (-ai), ir kuris pagal savybes yra bedūmis tabako gaminys arba rūkomojo tabako gaminys.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
 
 16. Kombinuotasis įspėjimas apie galimą žalą sveikatai – įspėjimas apie galimą žalą sveikatai, kurį sudaro tekstinis įspėjimas ir jį atitinkanti nuotrauka ar iliustracija, kaip numatyta šiame Įstatyme.
 
@@ -1233,7 +1239,7 @@ Ginčai dėl šio Įstatymo pažeidimų sprendžiami Lietuvos Respublikos įstat
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                            ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                            ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -1297,7 +1303,11 @@ susijusių gaminių kontrolės
 
 4. 2012 m. kovo 7 d. Komisijos direktyva 2012/9/ES, kuria iš dalies keičiamas Europos Parlamento ir Tarybos direktyvos 2001/37/EB dėl valstybių narių įstatymų ir kitų teisės aktų, taikomų tabako gaminių gamybai, pateikimui ir pardavimui, suderinimo I priedas (OL 2012 L 69, p. 15), su paskutiniais pakeitimais, padarytais 2015 m. liepos 13 d. Komisijos direktyva (ES) 2015/1139 (OL 2015 L 185, p. 15).
 
-5. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/40/ES dėl valstybių narių įstatymų ir kitų teisės aktų nuostatų, reglamentuojančių tabako ir susijusių gaminių gamybą, pateikimą ir pardavimą, suderinimo ir kuria panaikinama Direktyva 2001/37/EB (OL 2014 L 127, p. 1).
+5. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/40/ES dėl valstybių narių įstatymų ir kitų teisės aktų nuostatų, reglamentuojančių tabako ir susijusių gaminių gamybą, pateikimą ir pardavimą, suderinimo ir kuria panaikinama Direktyva 2001/37/EB su paskutiniais pakeitimais, padarytais 2022 m. birželio 29 d. Komisijos deleguotąja direktyva (ES) 2022/2100, kuria dėl tam tikrų išimčių panaikinimo kaitinamojo tabako gaminiams iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2014/40/ES.
+
+Punkto pakeitimai:
+
+Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
 
 Priedo pakeitimai:
 
@@ -1707,6 +1717,14 @@ Nr. XIV-2105, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13998
 
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 11, 19, 25, 26 ir 32 straipsnių pakeitimo įstatymas
 
+26.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 4-1, 8-4, 8-5, 9-11 straipsnių ir 2 priedo pakeitimo įstatymas
+
 91 straipsnis. Tabako gaminių gamybos, neapdoroto tabako ir tabako gaminių realizavimo ataskaitos
 
 1. Tabako gaminių gamintojai kas ketvirtį iki kito ketvirčio pirmojo mėnesio 10 dienos Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui tabako gaminių gamybos ir realizavimo per ketvirtį ataskaitą.
@@ -1813,7 +1831,11 @@ Nr. XII-1526, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21287
 
 6. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, turėdama mokslinių įrodymų, kad konkrečiame tabako gaminyje esančių priedų kiekis yra toks, kad vartojimo metu žymiai ar išmatuojamai padidėja tabako gaminio priklausomybės sukėlimo geba, toksiškumas arba jo KMR savybės, turi teisę Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka uždrausti pateikti rinkai tokį tabako gaminį. Tokiais atvejais Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija praneša Europos Komisijai apie priemones, kurių ji ėmėsi pagal šią dalį.
 
-7. Šio straipsnio 1 ir 4 dalyse nustatyti draudimai taikomi cigaretėms ir suktinių tabakui.
+7. Šio straipsnio 1 ir 4 dalyse nustatyti draudimai taikomi cigaretėms, suktinių tabakui ir kaitinamojo tabako gaminiams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
 
 8. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis tabako gaminių gamintojai ir importuotojai turi teisę kreiptis į Lietuvos Respublikos Vyriausybės įgaliotą instituciją dėl įvertinimo, ar tabako gaminys turi pridėtinį tabako gaminio kvapą ar skonį, ar jo gamybai buvo panaudoti draudžiami priedai ar kvapiosios medžiagos ir ar tabako gaminio sudėtyje yra toks priedų kiekis, dėl kurio žymiai ir išmatuojamai padidėja atitinkamo tabako gaminio priklausomybės sukėlimo geba, toksiškumas arba jo KMR savybės.
 
@@ -1903,9 +1925,17 @@ Straipsnio pakeitimai:
 
 Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 
-84 straipsnis. Kitų rūkomojo tabako gaminių, išskyrus cigaretes, suktinių tabaką ir vandens pypkių tabaką, ženklinimas
+84 straipsnis. Kitų rūkomojo tabako gaminių, išskyrus cigaretes, suktinių tabaką, vandens pypkių tabaką ir kaitinamojo tabako gaminius, ženklinimas
 
-1. Kitų rūkomojo tabako gaminių, išskyrus cigaretes, suktinių tabaką ir vandens pypkių tabaką, atveju nėra taikoma prievolė pateikti šio Įstatymo 82 straipsnio 2 dalyje nustatytą informacinį pranešimą ir šio Įstatymo 83 straipsnyje nustatytus kombinuotuosius įspėjimus apie galimą žalą sveikatai. Kartu su šio Įstatymo 82 straipsnio 1 dalyje nurodytu bendruoju įspėjimu ant kiekvieno tų gaminių vienetinio pakelio ir ant bet kokios jų išorinės pakuotės turi būti vienas iš šio Įstatymo 1 priede nurodytų tekstinių įspėjimų. Šio Įstatymo 82 straipsnio 1 dalyje nurodytame bendrajame įspėjime turi būti pateikta šio Įstatymo 83 straipsnio 3 dalyje nurodyta informacija, susijusi su metimu rūkyti.
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
+
+1. Kitų rūkomojo tabako gaminių, išskyrus cigaretes, suktinių tabaką, vandens pypkių tabaką ir kaitinamojo tabako gaminius, atveju nėra taikoma prievolė pateikti šio Įstatymo 82 straipsnio 2 dalyje nustatytą informacinį pranešimą ir šio Įstatymo 83 straipsnyje nustatytus kombinuotuosius įspėjimus apie galimą žalą sveikatai. Kartu su šio Įstatymo 82 straipsnio 1 dalyje nurodytu bendruoju įspėjimu ant kiekvieno tų gaminių vienetinio pakelio ir ant bet kokios jų išorinės pakuotės turi būti vienas iš šio Įstatymo 1 priede nurodytų tekstinių įspėjimų. Šio Įstatymo 82 straipsnio 1 dalyje nurodytame bendrajame įspėjime turi būti pateikta šio Įstatymo 83 straipsnio 3 dalyje nurodyta informacija, susijusi su metimu rūkyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
 
 2. Bendrasis įspėjimas turi būti pateikiamas ant vienetinio pakelio ir ant bet kokios jų išorinės pakuotės labiausiai matomo paviršiaus. Šiame straipsnyje nurodytų tabako gaminių gamintojai turi dėti maksimalias pastangas, kad ant kiekvieno prekių ženklo gaminių tekstinis įspėjimas būtų pateiktas kuo vienodesnį skaičių kartų. Tekstiniai įspėjimai turi būti pateikiami ant vienetinio pakelio ir ant bet kokios jų išorinės pakuotės kito labiausiai matomo paviršiaus. Vienetinių pakelių su varstomuoju dangteliu atveju kitas labiausiai matomas paviršius yra tas, kuris tampa matomas, kai pakelis yra atidarytas.
 
@@ -1921,9 +1951,17 @@ Straipsnio pakeitimai:
 
 Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 
-85 straipsnis. Bedūmių tabako gaminių ženklinimas
+85 straipsnis. Bedūmių tabako gaminių, įskaitant bedūmius kaitinamojo tabako gaminius, ženklinimas
 
-1. Ant kiekvieno bedūmių tabako gaminių vienetinio pakelio ir ant bet kokios jų išorinės pakuotės pateikiamas įspėjimas apie galimą žalą sveikatai: „Šis tabako gaminys kenkia jūsų sveikatai ir sukelia priklausomybę.“
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
+
+1. Ant kiekvieno bedūmių tabako gaminių, įskaitant bedūmius kaitinamojo tabako gaminius, vienetinio pakelio ir ant bet kokios jų išorinės pakuotės pateikiamas įspėjimas apie galimą žalą sveikatai: „Šis tabako gaminys kenkia jūsų sveikatai ir sukelia priklausomybę.“
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
 
 2. Šio straipsnio 1 dalyje nurodytam įspėjimui apie galimą žalą sveikatai taikomi šio Įstatymo 82 straipsnio 7 dalyje nurodyti reikalavimai. Įspėjimų apie galimą žalą sveikatai tekstas šiems įspėjimams skirtame paviršiuje turi būti išdėstytas lygiagrečiai su pagrindiniu tekstu.
 
@@ -2169,7 +2207,11 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 5. Vartotojams pateikiami teiginiai ir informacija apie naujovišką tabako gaminį turi būti moksliškai pagrįsti, objektyvūs ir neklaidinantys, todėl Narkotikų, tabako ir alkoholio kontrolės departamentas gali pareikalauti, kad naujoviškų tabako gaminių gamintojai ir importuotojai atliktų papildomus tyrimus ar pateiktų papildomą informaciją.
 
-6. Tuo atveju, kai naujoviškame tabako gaminyje yra naudojami priedai, suteikiantys pridėtinį tabako gaminio skonį ir kvapą, šie priedai negali didinti šių naujoviškų tabako gaminių aerozolių toksiškumo. Be to, toks naujoviškas tabako gaminys, vienetiniai pakeliai ar bet kokia jų išorinė pakuotė ar kita vartotojams teikiama informacija apie naujovišką tabako gaminį negali būti susiję ir apibūdinami žodžiais, kurie yra ar gali būti siejami su saldainiais, saldumynais, vaikų žaislais, animaciniais personažais ar kitokio pobūdžio informacija, skatinančia nepilnamečių asmenų susidomėjimą naujoviškais tabako gaminiais ar jų vartojimą.
+6. Kai naujoviškame tabako gaminyje, išskyrus kaitinamąjį tabako gaminį, yra naudojami priedai, suteikiantys pridėtinį tabako gaminio skonį ir kvapą, šie priedai negali didinti šių naujoviškų tabako gaminių aerozolių toksiškumo. Be to, toks naujoviškas tabako gaminys, vienetiniai pakeliai ar bet kokia jų išorinė pakuotė ar kita vartotojams teikiama informacija apie naujovišką tabako gaminį negali būti susiję ir apibūdinami žodžiais, kurie yra ar gali būti siejami su saldumynais, vaikų žaislais, animaciniais personažais ar kitokio pobūdžio informacija, skatinančia nepilnamečių asmenų susidomėjimą naujoviškais tabako gaminiais ar jų vartojimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
 
 7. Gamintojai ir importuotojai, pateikdami pagal šiame straipsnyje nustatytus reikalavimus informaciją apie naujovišką tabako gaminį, turi nurodyti, koks tai tabako gaminys – bedūmis ar rūkomasis.
 
