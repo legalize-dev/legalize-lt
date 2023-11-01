@@ -4,7 +4,7 @@ identifier: "TAR.FF00B0EA2F0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-01-22"
-last_updated: "2022-05-01"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asociacijų įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2023-10-31
+Suvestinė redakcija nuo 2023-11-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
 
@@ -56,7 +56,11 @@ Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
 3. Asociacijos buveinė turi būti Lietuvos Respublikoje.
 
-4. Asociacija privalo turėti bent vieną sąskaitą kredito įstaigoje.
+4. Asociacija privalo turėti bent vieną sąskaitą kredito ar elektroninių pinigų įstaigoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 3 straipsnis. Asociacijos veiklos pagrindai
 
@@ -160,7 +164,11 @@ ASOCIACIJOS VALDYMAS
 
 3) skiria (renka) ir atšaukia kitų kolegialių organų, jei tokie organai numatyti asociacijos įstatuose, narius, jeigu asociacijos įstatai nenustato kitaip;
 
-4) nustato asociacijos narių stojamųjų įnašų dydį ir narių mokesčių dydį, jų mokėjimo tvarką, jei asociacijos įstatuose mokėjimo tvarka nenustatyta;
+4) nustato asociacijos narių stojamųjų įnašų dydį ir narių mokesčių dydį, jų mokėjimo tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 5) per 4 mėnesius nuo finansinių metų pabaigos tvirtina asociacijos metinių finansinių ataskaitų rinkinį arba metinę ataskaitą, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais asociacija likviduojama;
 
@@ -308,7 +316,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
-6. Kolegialaus valdymo organo nariais gali būti fiziniai asmenys – asociacijos nariai ir asociacijos narių – juridinių asmenų pasiūlyti fiziniai asmenys. Asociacijos įstatuose gali būti nustatyti papildomi reikalavimai kolegialaus valdymo organo nariui.
+6. Kolegialaus valdymo organo nariais gali būti fiziniai asmenys – asociacijos nariai ir (ar) jų pasiūlyti fiziniai asmenys. Asociacijos įstatuose gali būti nustatyti papildomi reikalavimai kolegialaus valdymo organo nariui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -342,7 +354,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
-3. Asociacijos, kuri per ataskaitinius finansinius metus gavo paramą, finansinių ataskaitų aiškinamajame rašte taip pat turi būti nurodyta informacija apie gautą finansinę ir nefinansinę (nefinansinei paramai priskiriant ir turtą, gautą naudotis panaudos teise) paramą ir jos panaudojimą. Pateikiant informaciją apie paramos teikėjus, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė. Jeigu paramos teikėjo per ataskaitinius finansinius metus suteiktos paramos vertė neviršija 2 vidutinių mėnesinių darbo užmokesčių ir sudaro ne daugiau kaip 10 procentų asociacijos per ataskaitinius finansinius metus visos gautos paramos ir (arba) visų gautų finansavimo sumų, paramą suteikęs juridinis asmuo gali būti nenurodomas.
+3. Asociacijos, kuri per ataskaitinius finansinius metus gavo paramą, finansinių ataskaitų aiškinamajame rašte taip pat turi būti nurodyta informacija apie gautą finansinę ir nefinansinę (nefinansinei paramai priskiriant ir turtą, gautą naudotis panaudos teise) paramą ir jos panaudojimą. Pateikiant informaciją apie paramos teikėjus, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė. Jeigu paramos teikėjo per ataskaitinius finansinius metus suteiktos paramos vertė neviršija 2 vidutinių mėnesinių darbo užmokesčių ir sudaro ne daugiau kaip 10 procentų asociacijos per ataskaitinius finansinius metus visos gautos paramos ir (arba) visų gautų finansavimo sumų, paramą suteikęs juridinis asmuo gali būti nenurodomas. Asociacijos, kuri šio įstatymo nustatyta tvarka per ataskaitinius finansinius metus skolinosi iš asociacijos narių ar su jais susijusių asmenų, finansinių ataskaitų aiškinamajame rašte taip pat turi būti nurodyta per ataskaitinius finansinius metus sudarytų paskolos sutarčių datos, paskolų sumos ir paskolų davėjų, kurie yra juridiniai asmenys, pavadinimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 4. Veiklos ataskaitoje turi būti nurodyta:
 
@@ -404,9 +420,17 @@ Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00X
 
 5) asociacijos narių teisės ir pareigos;
 
-6) stojamųjų įnašų ir narių mokesčių mokėjimo tvarka, jeigu įstatuose nėra nurodyta, kad ji bus patvirtinta atskiru dokumentu;
+6) Neteko galios nuo 2023-11-01
 
-7) naujų narių priėmimo, narių išstojimo ir pašalinimo iš asociacijos tvarka bei sąlygos;
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
+
+7) naujų narių priėmimo į asociaciją, narių išstojimo ir pašalinimo iš asociacijos tvarka ir sąlygos. Asociacijos įstatuose gali būti nustatyta kitokia, negu nurodyta šio įstatymo 8 straipsnio 7 dalyje, naujų narių priėmimo į asociaciją, narių išstojimo ir pašalinimo iš asociacijos tvarkos ir sąlygų nustatymo ir keitimo tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 8) visuotinio narių susirinkimo kompetencija, sušaukimo tvarka, sprendimų priėmimo tvarka, jeigu nesudaromas kitas organas (konferencija, suvažiavimas, kongresas, asamblėja ar kt.), turintis visas visuotinio narių susirinkimo teises;
 
@@ -432,7 +456,11 @@ Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00X
 
 4. Steigiamos asociacijos įstatus turi pasirašyti steigimo sutartyje nurodytas ar steigiamojo susirinkimo įgaliotas asmuo. Šis asmuo turi pasirašyti įstatus ne vėliau kaip per tris dienas nuo steigiamojo susirinkimo dienos.
 
-5. Įsteigtos asociacijos pakeistus įstatus pasirašo valdymo organas arba visuotinio narių susirinkimo įgaliotas asmuo.
+5. Steigiamos asociacijos įstatus pasirašo steigiamojo susirinkimo paskirtas (išrinktas) vienasmenis asociacijos valdymo organas, o įsteigtos asociacijos pakeistus įstatus – valdymo organas arba visuotinio narių susirinkimo įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 6. Įstatų pakeitimai įsigalioja nuo jų įregistravimo juridinių asmenų registre. Kartu su įstatų pakeitimais asociacija juridinių asmenų registrui turi pateikti visą pakeistų asociacijos įstatų tekstą (naują redakciją).
 
@@ -458,7 +486,11 @@ Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00X
 
 5) kitas teisės aktuose ir asociacijos įstatuose nustatytas teises.
 
-5. Asociacijos buveinėje, taip pat asociacijos filialų ir atstovybių buveinėse turi būti visų asociacijos narių sąrašas. Su šiuo sąrašu turi teisę susipažinti kiekvienas asociacijos narys.
+5. Kiekvienas asociacijos narys turi teisę susipažinti su asociacijos narių sąrašu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 6. Asociacijos narys privalo laikytis asociacijos įstatų.
 
@@ -468,7 +500,11 @@ Valstybės ir savivaldybių institucijoms ir pareigūnams įstatymų nenustatyta
 
 15 straipsnis. Asociacijos tarptautiniai ryšiai
 
-Asociacija įstatų nustatyta tvarka gali įstoti į tarptautines organizacijas, kurių tikslai ir veikla neprieštarauja Konstitucijai, šiam ar kitiems įstatymams.
+Asociacija įstatų nustatyta tvarka gali priimti sprendimus įsteigti tarptautines nevyriausybines organizacijas ir įstoti į jas, jei jų tikslai ir veikla neprieštarauja Konstitucijai, šiam ar kitiems įstatymams.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 16 straipsnis. Asociacijos veiklos ribojimai
 
@@ -496,13 +532,29 @@ Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 4) suteikti paskolas, įkeisti asociacijos turtą (išskyrus atvejus, kai turtas įkeičiamas asociacijos prievolėms užtikrinti), garantuoti, laiduoti ar kitaip užtikrinti kitų asmenų prievolių įvykdymą. Ši nuostata netaikoma, kai skolinamasi iš kredito įstaigų ir kai Lietuvos Respublikos tarptautinės sutartys arba Lietuvos Respublikos įstatymai ar jų pagrindu priimti kiti teisės aktai numato kitaip;
 
-5) skolintis pinigų iš asociacijos nario ar su juo susijusio asmens ir mokėti palūkanas. Ši nuostata netaikoma, kai skolinamasi iš kredito įstaigų;
+5) skolintis pinigų iš asociacijos nario ar su juo susijusio asmens ir mokėti palūkanas. Ši nuostata netaikoma, kai skolinamasi iš kredito įstaigų. Draudimas skolintis iš asociacijos nario ar su juo susijusio asmens netaikomas ir tais atvejais, kai yra visos šios sąlygos:
+
+a) paskola suteikiama be palūkanų;
+
+b) paskolos gavėja asociacija yra įvykdžiusi šio įstatymo 101 straipsnio 3 dalyje nustatytus reikalavimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 6) skolintis iš kitų asmenų, mokant neprotingai dideles palūkanas;
 
-7) pirkti prekes ir paslaugas už akivaizdžiai per didelę kainą, išskyrus atvejus, kai tokiu būdu yra suteikiama labdara asmeniui, kuris pagal Labdaros ir paramos įstatymą yra labdaros gavėjas;
+7) pirkti prekes ir paslaugas už akivaizdžiai per didelę kainą;
 
-8) parduoti asociacijos turtą už akivaizdžiai per mažą kainą, išskyrus atvejus, kai tokiu būdu yra suteikiama labdara asmeniui, kuris pagal Labdaros ir paramos įstatymą yra labdaros gavėjas;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
+
+8) parduoti asociacijos turtą už akivaizdžiai per mažą kainą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 9) steigti juridinį asmenį, kurio civilinė atsakomybė už juridinio asmens prievoles yra neribota, arba būti jo dalyviu;
 
@@ -512,7 +564,11 @@ Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 12) ginkluoti savo narius, organizuoti jiems karinius mokymus ir steigti karinius būrius, išskyrus įstatymų numatytus atvejus.
 
-3. Šio straipsnio 2 dalies 1 ir 5 punktuose numatytas su nariu susijęs asmuo yra:
+3. Šio įstatymo 10 straipsnio 3 dalyje ir šio straipsnio 2 dalies 1 ir 5 punktuose numatytas su nariu susijęs asmuo yra:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 1) asociacijos nario – fizinio asmens artimasis giminaitis, sutuoktinis (sugyventinis), sutuoktinio (sugyventinio) artimasis giminaitis;
 
@@ -520,7 +576,11 @@ Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 3) juridinis asmuo, kurio organe daugiau kaip pusę balsų turi asociacijos narys, šios dalies 1 ir 2 punktuose nurodytas asmuo ar šie asmenys kartu.
 
-4. Asociacija pinigus, gautus kaip paramą, taip pat kitus negrąžintinai gautus pinigus ir kitą turtą naudoja juos davusio asmens nurodytiems tikslams, jeigu asmuo tokius tikslus nurodė. Asociacija šiuos gautus pinigus privalo laikyti atskiroje sąskaitoje, taip pat sudaryti išlaidų sąmatą, jei tai numatyta teisės aktuose arba pinigus davęs asmuo to reikalauja. Asociacija negali priimti pinigų ar kito turto, jei duodantis asmuo nurodo juos naudoti kitiems, negu asociacijos įstatuose yra nustatyta, tikslams.
+4. Asociacija pinigus, gautus kaip paramą, taip pat kitus negrąžintinai gautus pinigus ir kitą turtą naudoja juos davusio asmens nurodytiems tikslams, jeigu asmuo tokius tikslus nurodė. Asociacija negali priimti pinigų ar kito turto, jeigu duodantis asmuo nurodo juos naudoti kitiems, negu asociacijos įstatuose yra nustatyta, tikslams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 PENKTASIS SKIRSNIS
 
@@ -675,6 +735,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
 Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 1, 8, 9, 10, 10-1 ir 17 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
+
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 2, 8, 9, 10, 12, 13, 15 ir 16 straipsnių pakeitimo įstatymas
 
 101 straipsnis. Metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir metinės ataskaitos pasirašymas, skelbimas ir teikimas, finansinių ataskaitų kokybės stebėsena
 
