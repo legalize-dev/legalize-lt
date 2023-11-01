@@ -4,7 +4,7 @@ identifier: "TAR.A3C0EA6B2203"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-09"
-last_updated: "2023-05-06"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A3C0EA6B2203"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos metrologijos įstatymas
 
-Suvestinė redakcija nuo 2023-05-06 iki 2023-10-31
+Suvestinė redakcija nuo 2023-11-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 74-1768, i. k. 0961010ISTA00I-1452
 
@@ -154,7 +154,11 @@ Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
 
 39. Vardinis fasuotos prekės kiekis – fasuotos prekės produkto kiekis, kuris turi būti pakuotėje pagal pakuotojo įrašą ant pakuotės.
 
-40. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos atitikties įvertinimo įstatyme.
+40. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos atitikties vertinimo įstatyme ir Lietuvos Respublikos viešojo administravimo įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 ANTRASIS SKIRSNIS
 
@@ -562,7 +566,11 @@ TEISINĖ METROLOGINĖ PRIEŽIŪRA
 
 5) parduodant sveriamų, skaičiuojamų, matuojamų ar dozuojamų prekių kiekio kontrolė.
 
-2. Lietuvos Respublikos Vyriausybės įgaliota institucija teisinę metrologinę priežiūrą atlieka vadovaudamasi Lietuvos Respublikos viešojo administravimo įstatymu ir pagal šio įstatymo reikalavimus patvirtintomis planinių ir neplaninių ūkio subjektų veiklos patikrinimų taisyklėmis.
+2. Lietuvos Respublikos Vyriausybės įgaliota institucija teisinę metrologinę priežiūrą atlieka vadovaudamasi Viešojo administravimo įstatymu ir pagal šio įstatymo reikalavimus patvirtintomis planinių ir neplaninių ūkio subjektų veiklos patikrinimų taisyklėmis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 26 straipsnis. Lietuvos Respublikos Vyriausybės įgaliotos institucijos pareigūnų ir ūkio subjektų teisės ir pareigos
 
@@ -581,6 +589,12 @@ Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
 4) Lietuvos Respublikos Vyriausybės nustatyta tvarka paimti tyrimui matavimo priemonę, fasuotas prekes ar matavimo indus atitikčiai techninių reglamentų arba kitų metrologijos srities teisės aktų numatytiems reikalavimams nustatyti;
 
 5) pasitelkti ekspertus (konsultantus), kitų valstybės ir savivaldybių institucijų bei įstaigų atstovus;
+
+6) Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka atlikti parduodant sveriamų, skaičiuojamų, matuojamų ar dozuojamų prekių kontrolinius pirkimus, prieš tai nepateikę ūkio subjektui teisės aktų nustatyta tvarka patvirtinto sprendimo atlikti neplaninį patikrinimą kopijos. Sprendimo atlikti neplaninį patikrinimą kopija ūkio subjektui pateikiama iš karto po atlikto kontrolinio pirkimo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 2. Lietuvos Respublikos Vyriausybės įgaliotos institucijos pareigūnai, nustatę teisinės metrologijos reikalavimų pažeidimą, turi teisę:
 
@@ -618,7 +632,17 @@ PASKIRTŲJŲ ĮSTAIGŲ VEIKLOS LICENCIJAVIMAS IR PRIEŽIŪRA
 
 1. Juridinis asmuo, jo filialas, padalinys, siekiantis tapti paskirtąja įstaiga ir įgyti teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, kreipiasi į Lietuvos Respublikos Vyriausybės įgaliotą instituciją pateikdamas užpildytą už metrologijos sritį atsakingo ministro patvirtintos formos prašymą dėl paskyrimo atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus (toliau – prašymas) ir kitus dokumentus, kurių pagrindu vertinama juridinio asmens, jo filialo, padalinio atitiktis šio įstatymo 10 straipsnyje nustatytiems reikalavimams ir galimybė užtikrinti šio įstatymo 11 straipsnyje nustatytų paskirtųjų įstaigų veiklai taikomų reikalavimų vykdymą (toliau – kiti dokumentai). Kitų dokumentų sąrašą, šių dokumentų ir prašymo pateikimo būdą ir tvarką, taip pat keičiant paskyrimo sritis šio straipsnio 9 dalyje nurodytais atvejais pateikiamų dokumentų sąrašą nustato už metrologijos sritį atsakingas ministras.
 
-2. Juridinis asmuo, jo filialas, padalinys laikomas įgijusiu teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus kitą dieną po jo prašymo ir kitų dokumentų, nurodytų šio straipsnio 1 dalyje, pateikimo Lietuvos Respublikos Vyriausybės įgaliotai institucijai dienos arba nuo prašyme nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po prašymo ir kitų dokumentų pateikimo Lietuvos Respublikos Vyriausybės įgaliotai institucijai dienos.
+11. Paskirtoji įstaiga, kuriai buvo panaikinta teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus šio įstatymo 30 straipsnio 1 dalies 2, 3, 4, 6 ir 7 punktuose nurodytais pagrindais, vadovaudamasi šio straipsnio 1 dalyje nustatyta tvarka, pakartotinai gali kreiptis dėl šios teisės suteikimo ne anksčiau kaip po vienų metų nuo teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus panaikinimo dienos. Šioje dalyje nurodytas vienų metų laikotarpis gali būti netaikomas, jeigu juridinis asmuo, jo filialas, padalinys, siekiantis įgyti teisę atlikti patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, atitinka šio įstatymo 10 straipsnio 1, 3 ar 4 dalies reikalavimus būti akredituotas kaip kontrolės įstaiga ir (arba) kaip bandymų laboratorija. Minėtu atveju šio įstatymo 10 straipsnio 1 dalyje nurodyta 10 straipsnio 5 dalies išimtis netaikoma.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
+
+2. Juridinis asmuo, jo filialas, padalinys laikomas įgijusiu teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus kitą dieną po jo prašymo ir kitų dokumentų, nurodytų šio straipsnio 1 dalyje, pateikimo Lietuvos Respublikos Vyriausybės įgaliotai institucijai dienos arba nuo prašyme nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po prašymo ir kitų dokumentų pateikimo Lietuvos Respublikos Vyriausybės įgaliotai institucijai dienos, išskyrus atvejus, jeigu šio įstatymo 30 straipsnyje nustatyta tvarka juridiniam asmeniui, jo filialui, padaliniui yra panaikinta teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus ir taikomas šio straipsnio 11 dalyje nustatytas ribojimas pakartotinai kreiptis dėl šios teisės suteikimo. Jeigu juridinis asmuo, jo filialas, padalinys, kuriam taikomas šio straipsnio 11 dalyje nustatytas ribojimas pakartotinai kreiptis dėl teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus suteikimo, Lietuvos Respublikos Vyriausybės įgaliotai institucijai pateikia prašymą ir kitus dokumentus, nurodytus šio straipsnio 1 dalyje, Lietuvos Respublikos Vyriausybės įgaliota institucija šiame prašyme nurodytu būdu nedelsdama, ne vėliau kaip per 3 darbo dienas nuo prašymo ir kitų dokumentų gavimo dienos, informuoja juridinį asmenį, jo filialą, padalinį, kad jis teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus neįgijo, ir nurodo galimybę kreiptis iš naujo suėjus vienų metų terminui nuo šios teisės panaikinimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 3. Juridiniam asmeniui, jo filialui, padaliniui, įgijusiam teisę atlikti matavimo priemonės patikrą, Lietuvos Respublikos Vyriausybės įgaliota institucija kitą darbo dieną po prašymo ir kitų dokumentų gavimo dienos šiame prašyme nurodytu būdu praneša apie jam suteiktą atpažinimo ženklą, o teisę atlikti tachografų patikrą įgijusiam juridiniam asmeniui, jo filialui, padaliniui – apie suteiktą patikros ženklą.
 
@@ -628,7 +652,17 @@ PASKIRTŲJŲ ĮSTAIGŲ VEIKLOS LICENCIJAVIMAS IR PRIEŽIŪRA
 
 6. Juridinis asmuo, jo filialas, padalinys, šio įstatymo 10 straipsnio 2 dalyje nurodytu atveju įrodęs savo kompetenciją kitu negu akreditavimas būdu, įgyja teisę atlikti matavimo priemonės tipo įvertinimą neterminuotam laikui.
 
-7. Juridinis asmuo, jo filialas, padalinys, šio įstatymo 10 straipsnio 5 dalies 1 ir 2 punktuose nurodytais atvejais savo kompetenciją įrodęs kitu negu akreditavimas būdu, teisę atlikti matavimo priemonės patikrą prašyme nurodytoje paskyrimo srityje (srityse) įgyja dvejų metų laikotarpiui. Šis terminas pradedamas skaičiuoti nuo teisės atlikti matavimo priemonės patikrą įgijimo šio straipsnio 2 dalyje nustatyta tvarka dienos.
+7. Juridinis asmuo, jo filialas, padalinys, šio įstatymo 10 straipsnio 5 dalies 1 punkte nurodytu atveju savo kompetenciją įrodęs kitu negu akreditavimas būdu, teisę atlikti matavimo priemonės patikrą prašyme nurodytoje paskyrimo srityje (srityse) įgyja ne ilgesniam kaip vienų metų laikotarpiui. Juridinis asmuo, jo filialas, padalinys teisę atlikti matavimo priemonės patikrą prašyme nurodytoje paskyrimo srityje (srityse) gali įgyti pakartotinai vienų metų laikotarpiui vieną kartą, jeigu atitinka šio įstatymo 10 straipsnio 5 dalies 1 punkte nustatytus reikalavimus. Šioje dalyje nurodytas vienų metų terminas pradedamas skaičiuoti nuo teisės atlikti matavimo priemonės patikrą įgijimo šio straipsnio 2 dalyje nustatyta tvarka dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
+
+71. Juridinis asmuo, jo filialas, padalinys, šio įstatymo 10 straipsnio 5 dalies 2 punkte nurodytu atveju savo kompetenciją įrodęs kitu negu akreditavimas būdu, teisę atlikti matavimo priemonės patikrą prašyme nurodytoje paskyrimo srityje (srityse) įgyja vieną kartą ne ilgesniam kaip vienų metų laikotarpiui. Šis terminas pradedamas skaičiuoti nuo teisės atlikti matavimo priemonės patikrą įgijimo šio straipsnio 2 dalyje nustatyta tvarka dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 8. Juridinis asmuo, jo filialas, padalinys, šio įstatymo 10 straipsnio 5 dalies 3 punkte nurodytu atveju įrodęs savo kompetenciją kitu negu akreditavimas būdu, įgyja teisę atlikti tachografų patikrą ne ilgesniam laikotarpiui, negu nurodyta tachografų dirbtuvių veiklą reglamentuojančiuose teisės aktuose.
 
@@ -658,7 +692,11 @@ PASKIRTŲJŲ ĮSTAIGŲ VEIKLOS LICENCIJAVIMAS IR PRIEŽIŪRA
 
 5) kai paskirtoji įstaiga per Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytą terminą nepašalina kitų dokumentų trūkumų ir apie pašalintus trūkumus nepraneša Lietuvos Respublikos Vyriausybės įgaliotai institucijai.
 
-2. Sprendimą sustabdyti paskirtosios įstaigos teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus priima Lietuvos Respublikos Vyriausybės įgaliota institucija. Sprendime sustabdyti paskirtosios įstaigos teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus nurodomas šios teisės sustabdymo pagrindas, terminas, kuriam sustabdoma paskirtosios įstaigos teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, terminas, per kurį paskirtoji įstaiga turi pašalinti nustatytus veiklos pažeidimus ir (arba) prašymo, ir (arba) kitų dokumentų trūkumus (jeigu paskirtosios įstaigos teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus sustabdoma šio straipsnio 1 dalies 2, 4 ir 5 punktuose nurodytais pagrindais), ir šio sprendimo apskundimo teismui tvarka. Terminas, kuriam sustabdoma paskirtosios įstaigos teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, skaičiuojamas nuo tos dienos, kurią paskirtoji įstaiga iš Lietuvos Respublikos Vyriausybės įgaliotos institucijos gauna pranešimą apie priimtą sprendimą.
+2. Sprendimą sustabdyti paskirtosios įstaigos teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus priima Lietuvos Respublikos Vyriausybės įgaliota institucija. Vadovaujantis Viešojo administravimo įstatymo 10 straipsnio nuostatomis priimtame sprendime sustabdyti paskirtosios įstaigos teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus nurodomas terminas, kuriam sustabdoma paskirtosios įstaigos teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, ir terminas, nustatytas atsižvelgiant į veiklos pažeidimo pobūdį ir laikotarpį, reikalingą veiklos pažeidimui pašalinti, per kurį paskirtoji įstaiga turi pašalinti nustatytus veiklos pažeidimus ir (arba) prašymo, ir (arba) kitų dokumentų trūkumus, jeigu paskirtosios įstaigos teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus sustabdoma šio straipsnio 1 dalies 2, 4 ir 5 punktuose nurodytais pagrindais. Terminas, kuriam sustabdoma paskirtosios įstaigos teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, skaičiuojamas nuo tos dienos, kurią paskirtoji įstaiga iš Lietuvos Respublikos Vyriausybės įgaliotos institucijos gauna pranešimą apie priimtą sprendimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 3. Sprendime sustabdyti paskirtosios įstaigos teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus nurodytas šios teisės sustabdymo terminas turi sutapti su nustatytu veiklos pažeidimų ir (arba) prašymo, ir (arba) kitų dokumentų trūkumų pašalinimo terminu (jeigu paskirtosios įstaigos teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus sustabdoma šio straipsnio 1 dalies 2, 4 ir 5 punktuose nurodytais pagrindais).
 
@@ -678,7 +716,11 @@ PASKIRTŲJŲ ĮSTAIGŲ VEIKLOS LICENCIJAVIMAS IR PRIEŽIŪRA
 
 4) papildytą (patikslintą) prašymą ir (arba) kitus dokumentus, jeigu teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus buvo sustabdyta šio įstatymo 28 straipsnio 1 dalies 4 arba 5 punkte nurodytu pagrindu.
 
-2. Sprendimą panaikinti paskirtosios įstaigos teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus sustabdymą priima Lietuvos Respublikos Vyriausybės įgaliota institucija. Šiame sprendime nurodomas paskirtosios įstaigos teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus sustabdymo panaikinimo pagrindas ir sprendimo apskundimo teismui tvarka.
+2. Sprendimą panaikinti paskirtosios įstaigos teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus sustabdymą priima Lietuvos Respublikos Vyriausybės įgaliota institucija, vadovaudamasi Viešojo administravimo įstatymo 10 straipsnio nuostatomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 3. Apie paskirtosios įstaigos teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus sustabdymo panaikinimą Lietuvos Respublikos Vyriausybės įgaliota institucija prašyme nurodytu būdu informuoja paskirtąją įstaigą kitą darbo dieną po šio straipsnio 2 dalyje nurodyto sprendimo priėmimo dienos.
 
@@ -700,7 +742,11 @@ PASKIRTŲJŲ ĮSTAIGŲ VEIKLOS LICENCIJAVIMAS IR PRIEŽIŪRA
 
 7) kai po juridinio asmens, jo filialo, padalinio teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus įgijimo šio įstatymo 27 straipsnio 2 dalyje nustatyta tvarka paaiškėjo faktų, kad šis juridinis asmuo, jo filialas, padalinys neatitinka šio įstatymo 10 straipsnyje nustatytų reikalavimų.
 
-2. Sprendimą panaikinti paskirtosios įstaigos teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus priima Lietuvos Respublikos Vyriausybės įgaliota institucija. Šiame sprendime nurodomas paskirtosios įstaigos teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus panaikinimo pagrindas ir sprendimo apskundimo teismui tvarka.
+2. Sprendimą panaikinti paskirtosios įstaigos teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus priima Lietuvos Respublikos Vyriausybės įgaliota institucija, vadovaudamasi Viešojo administravimo įstatymo 10 straipsnio nuostatomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 3. Apie paskirtosios įstaigos teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus panaikinimą Lietuvos Respublikos Vyriausybės įgaliota institucija prašyme nurodytu būdu informuoja paskirtąją įstaigą kitą darbo dieną po šio straipsnio 2 dalyje nurodyto sprendimo priėmimo dienos.
 
@@ -842,9 +888,17 @@ ATSAKOMYBĖ UŽ METROLOGIJOS SRITIES TEISĖS AKTŲ PAŽEIDIMUS
 
 38 straipsnis. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimų vykdymas
 
-1. Nutarimu skirti sankciją paskirta bauda į valstybės biudžetą sumokama ne vėliau kaip per trisdešimt dienų nuo šio nutarimo įteikimo juridiniam asmeniui dienos. Teismo sprendimu nutarimą skirti sankciją palikus nepakeistą, šiuo nutarimu paskirta bauda sumokama ne vėliau kaip per trisdešimt dienų nuo teismo sprendimo dėl nutarimo skirti sankciją įsiteisėjimo dienos.
+1. Nutarimu skirti sankciją paskirta bauda į valstybės biudžetą sumokama ne vėliau kaip per trisdešimt kalendorinių dienų nuo šio nutarimo įteikimo juridiniam asmeniui dienos. Teismo sprendimu nutarimą skirti sankciją palikus nepakeistą, šiuo nutarimu paskirta bauda sumokama ne vėliau kaip per trisdešimt kalendorinių dienų nuo teismo sprendimo dėl nutarimo skirti sankciją įsiteisėjimo dienos.
 
-2. Motyvuotu juridinio asmens prašymu Lietuvos Respublikos Vyriausybės įgaliota institucija turi teisę baudos ar jos dalies mokėjimą atidėti iki vienų metų, jeigu sumokėti baudos per šio straipsnio 1 dalyje nurodytą terminą juridinis asmuo negali dėl objektyvių priežasčių.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
+
+2. Įvertinusi atsakomybėn traukiamo juridinio asmens finansinę padėtį ir kitas reikšmingas aplinkybes, jo rašytiniu prašymu, kai pateikiami atsakomybėn traukiamo juridinio asmens finansinę padėtį ar kitas reikšmingas aplinkybes pagrindžiantys įrodymai, Lietuvos Respublikos Vyriausybės įgaliota institucija turi teisę baudos ar jos dalies mokėjimą išdėstyti per laikotarpį iki vienų metų arba atidėti iki vienų metų, jeigu sumokėti baudos per šio straipsnio 1 dalyje nurodytą terminą juridinis asmuo negali dėl objektyvių priežasčių. Juridinio asmens prašymas baudos ar jos dalies mokėjimą išdėstyti per laikotarpį iki vienų metų arba atidėti iki vienų metų turi būti pateiktas likus ne mažiau kaip dešimt kalendorinių dienų iki jo prievolės sumokėti baudą įvykdymo paskutinės dienos. Lietuvos Respublikos Vyriausybės įgaliotos institucijos sprendimas dėl paskirtos baudos ar jos dalies mokėjimo išdėstymo per laikotarpį iki vienų metų ar atidėjimo iki vienų metų turi būti priimtas likus ne mažiau kaip penkioms kalendorinėms dienoms iki prievolės sumokėti baudą įvykdymo paskutinės dienos. Sprendimas įforminamas priimant nutarimą dėl juridiniam asmeniui paskirtos baudos ar jos dalies mokėjimo išdėstymo dalimis iki vienų metų pagal mokėjimo grafiką arba mokėjimo termino atidėjimo nustatytam laikotarpiui iki vienų metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 3. Nutarimas skirti sankciją, kuriuo skiriama bauda, yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Šis nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per vienus metus nuo jo priėmimo dienos. Šis terminas pratęsiamas tokiam laikui, kuriam buvo sustabdytas Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimo vykdymas, arba laikotarpiui, kuriam, vadovaujantis šio straipsnio 2 dalimi, buvo atidėtas baudos ar jos dalies mokėjimas.
 
