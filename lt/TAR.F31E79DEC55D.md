@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2023-06-23"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2023-06-23 iki 2023-10-31
+Suvestinė redakcija nuo 2023-11-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -1303,6 +1303,12 @@ Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 12) pastato (patalpos, patalpų) ar inžinerinio statinio paskirties keitimo projektas –keičiant pastato (patalpos, patalpų) ar inžinerinio statinio paskirtį, kai atliekami statinio paprastojo remonto darbai arba neatliekami jokie statybos darbai.
 
 2. Jeigu numatoma atlikti statybos darbus, priskiriamus skirtingoms statybos rūšims, arba numatoma atlikti kultūros paveldo statinio tvarkomuosius statybos darbus, tvarkomuosius paveldosaugos darbus, gali būti rengiamas vienas skirtingas statybos rūšis, tvarkomuosius statybos ir paveldosaugos darbus jungiantis statinio projektas, statinio projekto pavadinime nurodant atliekamų darbų rūšis.
+
+21. Jeigu rekonstruojamo pastato tūris padidėja daugiau negu 100 procentų, jam taikomi įstatymuose ir jų įgyvendinamuosiuose teisės aktuose, teritorijų planavimo dokumentuose nustatyti naujo statinio projektavimui ir statybai keliami reikalavimai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 3. Statinio projektas turi būti parengtas, kai privaloma gauti šio įstatymo 27 straipsnio 1 dalies 1–7 punktuose nurodytus statybą leidžiančius dokumentus, taip pat kai šio įstatymo 27 straipsnio 1 dalyje nurodytiems krašto apsaugos tikslams skirtose teritorijose statomiems statiniams statybą leidžiantis dokumentas nereikalingas, išskyrus daugiabučių namų ar viešųjų pastatų kapitalinio remonto projektus, kurie turi būti parengti visais atvejais. Statinių griovimo projektai vykdant teismų sprendimus ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomuosius nurodymus rengiami tik aplinkos ministro nustatytais atvejais. Statinio projektas rengiamas vadovaujantis privalomaisiais statinio projekto rengimo dokumentais (atrankos išvada dėl poveikio aplinkai vertinimo, poveikio aplinkai vertinimo ataskaita, sprendimu dėl planuojamos ūkinės veiklos galimybių (kai pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas turi būti atliktos planuojamos ūkinės veiklos poveikio aplinkai vertinimo procedūros); poveikio visuomenės sveikatai vertinimo dokumentais (jeigu atliekamos poveikio visuomenės sveikatai vertinimo procedūros); teritorijų planavimo dokumentais, žemėtvarkos planavimo dokumentais, nuosavybės teisę ar kitokias teises į žemę (statybos sklypą) patvirtinančiais dokumentais arba, įgyvendinant ypatingos valstybinės svarbos projektus, Vyriausybės nutarimais, kuriais patvirtinti ypatingos valstybinės svarbos projekto specialieji planai ir pradėtos žemės paėmimo visuomenės poreikiams procedūros; technine užduotimi; žemės sklypo (teritorijos) ir statinio statybinių tyrimų (jeigu juos atlikti privaloma arba jie atlikti) dokumentais; kultūros paveldo tyrimų (jeigu juos atlikti privaloma) medžiaga; projektiniais pasiūlymais (kai juos rengti privaloma aplinkos ministro nustatytais atvejais) (esminiai statinio projekto sprendiniai turi atitikti projektinius pasiūlymus); specialiaisiais reikalavimais (jeigu jie gauti); prisijungimo sąlygomis); galiojančiais teisės aktais.
 
