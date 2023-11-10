@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2023-05-06"
+last_updated: "2023-11-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2023-05-06 iki 2023-11-09
+Suvestinė redakcija nuo 2023-11-10 iki 2024-07-24
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -140,7 +140,7 @@ Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA0
 
 3) lėšų priėmimas išduodant korteles ar kitas priemones, kurios naudojamos įsigyjant prekes arba paslaugas tik iš šias korteles ar kitas priemones išdavusio asmens;
 
-4) sutelktinio finansavimo sandorių sudarymas per sutelktinio finansavimo platformą, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme, arba sutelktinio finansavimo paslaugų teikimas per sutelktinio finansavimo platformą, kaip tai apibrėžta 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, jeigu projekto savininkas nesiverčia sandorių, turinčių galimos rizikos požymių, sudarymu;
+4) sutelktinio finansavimo paslaugų teikimas per sutelktinio finansavimo platformą, kaip tai apibrėžta 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, jeigu projekto savininkas nesiverčia sandorių, turinčių galimos rizikos požymių, sudarymu;
 
 Papildyta straipsnio punktu:
 
@@ -466,7 +466,7 @@ Papildyta straipsnio punktu:
 
 Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA00XI-203
 
-21) sutelktinio finansavimo platformos operatoriaus veikla, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme, arba sutelktinio finansavimo paslaugų teikėjo veikla, kaip tai apibrėžta Reglamente (ES) 2020/1503;
+21) sutelktinio finansavimo paslaugų teikėjo veikla, kaip tai apibrėžta Reglamente (ES) 2020/1503;
 
 Papildyta straipsnio punktu:
 
@@ -1939,8 +1939,6 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1894, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08613
 
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 48 straipsnio pakeitimo įstatymas
-
-part_efbc8fbea32a4d3ebcc9c79d3eb9c3fe_end
 
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
