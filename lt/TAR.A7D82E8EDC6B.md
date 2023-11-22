@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2023-07-01"
+last_updated: "2023-11-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-11-21
+Suvestinė redakcija nuo 2023-11-22 iki 2023-12-14
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
@@ -199,7 +199,11 @@ Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
 
 12) želdinių gyvenamųjų vietovių gatvių raudonosiose linijose įrengimui saugaus eismo tikslais ir priežiūrai finansuoti;
 
-13) darnaus judumo priemonėms (esamiems šaligatviams, pėsčiųjų takams, pėsčiųjų viadukams ir tiltams, pėsčiųjų estakadoms, pėsčiųjų perėjoms (įskaitant požemines) pritaikyti specialiųjų poreikių turintiems žmonėms; viešojo transporto infrastruktūrai; viešojo transporto eismui organizuoti; dviračių statymo infrastruktūrai; stovėjimo aikštelėms, skirtoms motorinėms transporto priemonėms arba dviračiams palikti, siekiant tęsti kelionę viešuoju transportu, įrengti, jeigu už naudojimąsi jomis neimamas atlygis; elektrinių transporto priemonių (išskyrus elektromobilius) viešosioms įkrovimo prieigoms; šaligatviams, pėsčiųjų ir (ar) dviračių takams įrengti, projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; pėsčiųjų, dviračių takų įrenginiams (tvorelėms ir pan.)) įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
+13) darnaus judumo priemonėms (esamiems šaligatviams, pėsčiųjų takams, pėsčiųjų viadukams ir tiltams, pėsčiųjų estakadoms, pėsčiųjų perėjoms (įskaitant požemines) pritaikyti specialiųjų poreikių turintiems žmonėms; viešojo transporto infrastruktūrai; viešojo transporto eismui organizuoti; dviračių statymo infrastruktūrai; transporto priemonių stovėjimo aikštelėms ir (ar) automobilių saugykloms kurortuose ir kurortinėse teritorijose įrengti; stovėjimo aikštelėms, skirtoms motorinėms transporto priemonėms arba dviračiams palikti, siekiant tęsti kelionę viešuoju transportu, įrengti, jeigu už naudojimąsi jomis neimamas atlygis; elektrinių transporto priemonių (išskyrus elektromobilius) viešosioms įkrovimo prieigoms; šaligatviams, pėsčiųjų ir (ar) dviračių takams įrengti, projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; pėsčiųjų, dviračių takų įrenginiams (tvorelėms ir pan.)) įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2227, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22372
 
 14) inžinerinėms saugaus eismo priemonėms (važiuojamajai kelio daliai siaurinti; įvažiavimų į teritorijas zonoms pertvarkyti; važiuojamajai kelio daliai iškreivinti; iškiliosioms greičio mažinimo priemonėms (greičio mažinimo kalneliams) įrengti; kelio įrenginiams (saugos salelėms, sankryžoms, pėsčiųjų perėjoms); greičio mažinimo priemonėms ties gyvenamosios teritorijos pradžia, siekiant sumažinti galimą per didelį transporto priemonių greitį ir parodyti, kad keičiasi važiavimo režimas (miesto vartai), įrengti; kelio ženklams įrengti; kelio dangai ženklinti; šviesoforams įrengti; tvoroms, kelio apsauginių atitvarų sistemoms, signaliniams stulpeliams įrengti; kelio veidrodžiams įrengti; elektroniniams įrenginiams (greičio kontrolės priemonėms, informacinėms momentinio važiavimo greičio švieslentėms, kintamosios informacijos ženklams (stendams)  įrengti ir prižiūrėti; apšvietimui keliuose) ir kitoms priemonėms įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
@@ -4166,12 +4170,6 @@ Straipsnio punkto pakeitimai:
 Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 9) vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais (nurodytais leidimuose) važiuojančiomis keleivinėmis transporto priemonėmis ar jų junginiais;
-
-10) grynaisiais elektromobiliais ir vandenilio dujomis varomais automobiliais.
-
-Papildyta straipsnio punktu:
-
-Nr. XIV-1704, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27296
 
 8 straipsnis. Kiti mokesčiai ir finansavimo šaltiniai
 
