@@ -4,7 +4,7 @@ identifier: "TAR.6A449FCC534B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-10"
-last_updated: "2023-01-01"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-11-29
+Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
 
@@ -1670,7 +1670,11 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 2) bendra atskirų pakeitimų vertė neviršija 10 procentų pradinės koncesijos sutarties vertės;
 
-3) jeigu koncesijos sutarties vertė buvo peržiūrėta pagal joje numatytas kainų peržiūros sąlygas, tai taikant šios dalies 1 ir 2 punktus atsižvelgiama į patikslintą sutarties vertę. Jeigu koncesijos sutartyje nebuvo numatytos kainų peržiūros sąlygos, vertė apskaičiuojama atsižvelgiant į Lietuvos statistikos departamento skelbiamą šalies praėjusių metų vidutinę metinę infliaciją.
+3) jeigu koncesijos sutarties vertė buvo peržiūrėta pagal joje numatytas kainų peržiūros sąlygas, taikant šios dalies 1 ir 2 punktus atsižvelgiama į patikslintą sutarties vertę. Jeigu koncesijos sutartyje nebuvo numatytos kainų peržiūros sąlygos, vertė apskaičiuojama atsižvelgiant į Valstybės duomenų agentūros skelbiamą šalies praėjusių metų vidutinę metinę infliaciją.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2250, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22981
 
 4. Koncesijos sutartis gali būti keičiama, kai pakeitimas, neatsižvelgiant į jo piniginę vertę, iš anksto buvo numatytas koncesijos dokumentuose, aiškiai, tiksliai ir nedviprasmiškai suformuluotose koncesijos sutarties peržiūros sąlygose ar pasirinkimo galimybėse. Neleidžiami tokie pakeitimai ar pasirinkimo galimybės, dėl kurių iš esmės pasikeistų koncesijos sutarties pobūdis.
 
@@ -2597,6 +2601,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2250, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22981
+
+Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 58, 62 ir 65 straipsnių pakeitimo įstatymas
 
 111 straipsnis. Mišrios sutartys, apimančios gynybos ar saugumo aspektus
 
