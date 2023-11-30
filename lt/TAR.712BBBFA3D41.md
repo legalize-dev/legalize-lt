@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2023-04-01"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,17 +18,9 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-11-29
+Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
-
-TAR pastaba. Įstatymų Nr. XIV-1271 ir Nr. XIV-1764 nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-1764, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27579
-
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 11, 25, 26, 27, 31 ir 34 straipsnių pakeitimo įstatymo Nr. XIV-1271 3 straipsnio pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2004-01-07:
 
@@ -174,7 +166,11 @@ Nr. XII-1379, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19663
 
 1. Valstybės biudžeto asignavimų valdytojai yra įstaigų, nurodytų Seimo patvirtintame valstybės biudžete, vadovai (ministerijose – ministrai ar jų įgalioti asmenys, teismuose – teismų pirmininkai ar jų įgalioti teismų kancleriai), jeigu jų vadovaujamos įstaigos atitinka nors vieną šio straipsnio 3 dalyje nurodytą sąlygą.
 
-2. Savivaldybių biudžetų asignavimų valdytojai yra savivaldybių biudžetinių įstaigų ar savivaldybės administracijos ir (ar) jos padalinių, nurodytų savivaldybės tarybos patvirtintame savivaldybės biudžete, vadovai (savivaldybės administracijoje – administracijos direktorius ar jo įgalioti asmenys, savivaldybės administracijos padaliniuose – padalinių vadovai ar jų įgalioti asmenys).
+2. Savivaldybių biudžetų asignavimų valdytojai yra savivaldybių biudžetinių įstaigų ar savivaldybės administracijos ir (ar) jos struktūrinių padalinių, nurodytų savivaldybės tarybos patvirtintame savivaldybės biudžete, vadovai (savivaldybės administracijoje – savivaldybės administracijos direktorius ar jo įgalioti asmenys, savivaldybės administracijos struktūriniuose padaliniuose – struktūrinių padalinių vadovai ar jų įgalioti asmenys).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 3. Įstaiga, kurios vadovas yra valstybės biudžeto asignavimų valdytojas, yra:
 
@@ -218,11 +214,19 @@ Nr. XII-609, 2013-11-21, Žin., 2013, Nr. 124-6285 (2013-12-05)
 
 1. Biudžeto asignavimų valdytojai privalo:
 
-1) naudoti skirtus asignavimus savo vadovaujamos įstaigos programoms vykdyti, paskirstyti juos pavaldžioms biudžetinėms įstaigoms ir kitiems subjektams, kuriems galimybė biudžeto lėšas gauti numatyta jų veiklos sritį reglamentuojančiuose įstatymuose, Vyriausybės nutarimuose, priimtuose vadovaujantis Strateginio valdymo įstatymu, arba Vyriausybės nutarimuose, priimtuose vadovaujantis tiesiogiai taikomais Europos Sąjungos teisės aktais ir tarptautinėmis sutartimis, nustatančiais Europos Sąjungos ar atskirų valstybių finansinės paramos, teikiamos Lietuvai, administravimo tvarką (toliau – kiti subjektai), programoms vykdyti;
+1) naudoti skirtus asignavimus savo vadovaujamos įstaigos programoms vykdyti, paskirstyti juos pavaldžioms biudžetinėms įstaigoms ir kitiems subjektams, kuriems galimybė gauti biudžeto lėšas numatyta jų veiklos sritį reglamentuojančiuose įstatymuose, Vyriausybės nutarimuose, priimtuose vadovaujantis Strateginio valdymo įstatymu, Lietuvos Respublikos viešojo administravimo įstatymu arba tiesiogiai taikomais Europos Sąjungos teisės aktais ir tarptautinėmis sutartimis, nustatančiais Europos Sąjungos ar atskirų valstybių finansinės paramos, teikiamos Lietuvai, administravimo tvarką (toliau – kiti subjektai), programoms vykdyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 2) organizuoti iš biudžeto finansuojamų programų rengimą ir vykdymą;
 
-3) nustatyti ir tvirtinti vadovaujamos biudžetinės įstaigos ir (ar) pavaldžių biudžetinių įstaigų bei kitų subjektų programų sąmatas pagal ekonominės klasifikacijos straipsnius, neviršydami šioms programoms patvirtintų bendrųjų asignavimų, iš jų darbo užmokesčiui, sumų. Asignavimų valdytojai, kurių vadovaujamose biudžetinėse įstaigose yra kolegialus valdymo organas, programų sąmatas tvirtina gavę kolegialaus valdymo organo pritarimą;
+3) nustatyti ir tvirtinti vadovaujamos biudžetinės įstaigos ir (ar) pavaldžių biudžetinių įstaigų bei kitų subjektų programų sąmatas pagal ekonominės klasifikacijos straipsnius, neviršydami šioms programoms patvirtintų asignavimų sumų. Asignavimų valdytojai, kurių vadovaujamose biudžetinėse įstaigose yra kolegialus valdymo organas, programų sąmatas tvirtina gavę kolegialaus valdymo organo pritarimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 4) kontroliuoti ir vykdyti savo vadovaujamų biudžetinių įstaigų įsipareigojimus, atlikti pavaldžių biudžetinių įstaigų ir kitų subjektų pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių analizę;
 
@@ -234,7 +238,11 @@ Nr. XII-609, 2013-11-21, Žin., 2013, Nr. 124-6285 (2013-12-05)
 
 2) organizuoti iš biudžeto finansuojamų programų rengimą ir vykdymą;
 
-3) nustatyti ir tvirtinti pavaldžių biudžetinių įstaigų programų sąmatas pagal ekonominės klasifikacijos straipsnius, neviršydami šioms programoms asignavimų valdytojo skirtų bendrųjų asignavimų, iš jų darbo užmokesčiui, sumų;
+3) nustatyti ir tvirtinti pavaldžių biudžetinių įstaigų programų sąmatas pagal ekonominės klasifikacijos straipsnius, neviršydami šioms programoms asignavimų valdytojo skirtų asignavimų sumų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 4) kontroliuoti ir vykdyti savo vadovaujamos įstaigos įsipareigojimus, atlikti pavaldžių biudžetinių įstaigų pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių analizę;
 
@@ -260,7 +268,11 @@ Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
 
 Biudžeto asignavimų valdytojas turi teisę:
 
-1) biudžetiniais metais keisti patvirtintų jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų subjektų vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės nustatyta tvarka praneša apie tai Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas patvirtintų tam tikrai programai bendrųjų asignavimų, iš jų darbo užmokesčiui, sumų. Asignavimai darbo užmokesčiui yra maksimalūs ir gali būti naudojami tik su darbo užmokesčiu susijusioms išlaidoms ir darbdavių išmokoms, kurios pervedamos ne per socialinio draudimo sistemą, finansuoti. Nepanaudota asignavimų tęstinei veiklai, išskyrus asignavimus darbo užmokesčiui, suma, jeigu nėra įsiskolinimų, gali būti naudojama investicijų projektams, kurie finansuojami iš tęstinės veiklos lėšų, o kai investicijų projektų nėra, – pažangos priemonėms, jeigu investicijų projektams ar pažangos priemonėms numatyta skirti lėšų atitinkamų metų valstybės arba savivaldybių biudžetuose, papildomai finansuoti, išskyrus kituose įstatymuose, reglamentuojančiuose savivaldybių biudžetų lėšų naudojimą, nustatytus atvejus;
+1) biudžetiniais metais keisti patvirtintų jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų subjektų vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės nustatyta tvarka apie tai praneša Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas patvirtintų tam tikrai programai asignavimų sumų. Asignavimai darbo užmokesčiui yra maksimalūs ir gali būti naudojami tik su darbo užmokesčiu susijusioms išlaidoms ir darbdavių išmokoms, kurios pervedamos ne per socialinio draudimo sistemą, finansuoti. Nepanaudota asignavimų tęstinei veiklai suma, jeigu nėra įsiskolinimų, gali būti naudojama investicijų projektams, kurie finansuojami iš tęstinės veiklos lėšų, arba pažangos priemonėms, jeigu pažangos priemonėms numatyta skirti lėšų atitinkamų metų valstybės arba savivaldybių biudžetuose, papildomai finansuoti, išskyrus kituose įstatymuose, reglamentuojančiuose savivaldybių biudžetų lėšų naudojimą, nustatytus atvejus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 2) biudžetiniais metais vieną kartą per ketvirtį keisti bendros asignavimų sumos ketvirtinį paskirstymą programai vykdyti, suderinęs su Finansų ministerija (valstybės biudžeto asignavimų valdytojas) arba su savivaldybės administracija (savivaldybės biudžeto asignavimų valdytojas);
 
@@ -538,13 +550,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
 
-3) bendra valstybės biudžeto asignavimų, iš jų darbo užmokesčiui, suma, jų paskirstymas pagal valstybės veiklos sritis ir asignavimų valdytojus programoms įgyvendinti. Žvalgybos institucijoms ir valstybinėms aukštosioms mokykloms asignavimai tvirtinami neišskiriant iš jų darbo užmokesčio;
+3) bendra valstybės biudžeto asignavimų suma, jų paskirstymas pagal valstybės veiklos sritis ir asignavimų valdytojus programoms įgyvendinti;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
 
 Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
+
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 4) grynasis skolinių įsipareigojimų pokyčio limitas ir jo dalis, skiriama kaupti piniginiams ištekliams skolai grąžinti;
 
@@ -626,11 +640,17 @@ Papildyta papunkčiu:
 
 Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
-j) informacija apie Finansų ministerijos parengtų vidutinio laikotarpio fiskalinių rodiklių projekcijų pasikeitimą įvertinus prielaidą, kad BVP ir skolinimosi palūkanų norma nukrypsta nuo Finansų ministerijos parengto ekonominės raidos scenarijaus ir vidutinio laikotarpio fiskalinių rodiklių projekcijų.
+j) informacija apie Finansų ministerijos parengtų vidutinio laikotarpio fiskalinių rodiklių projekcijų pasikeitimą įvertinus prielaidą, kad BVP ir skolinimosi palūkanų norma nukrypsta nuo Finansų ministerijos parengto ekonominės raidos scenarijaus ir vidutinio laikotarpio fiskalinių rodiklių projekcijų;
 
 Papildyta papunkčiu:
 
 Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
+
+k) asignavimų valdytojų planuojami asignavimai darbo užmokesčiui.
+
+Papildyta papunkčiu:
+
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 2) Vyriausybės tvirtinamo valstybės biudžeto asignavimų paskirstymo pagal programas projektą;
 
@@ -702,7 +722,11 @@ SAVIVALDYBIŲ BIUDŽETAI
 
 21 straipsnis. Savivaldybių biudžetai
 
-1. Savivaldybių biudžetuose sukaupiamos lėšos, reikalingos įstatymų priskirtoms funkcijoms ir savivaldybėms įstatymų perduotoms valstybės funkcijoms atlikti.
+1. Savivaldybių biudžetuose sukaupiamos lėšos, reikalingos įstatymų priskirtoms funkcijoms ir valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 2. Kiekviena savivaldybė turi savarankišką biudžetą.
 
@@ -806,11 +830,13 @@ Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
 
 1) bendra pajamų suma ir jų paskirstymas pagal pajamų rūšis;
 
-2) bendra asignavimų, iš jų darbo užmokesčiui, suma ir jų paskirstymas biudžetinėms įstaigoms ar savivaldybių administracijos padaliniams programoms vykdyti;
+2) bendra asignavimų suma ir jų paskirstymas biudžetinėms įstaigoms ar savivaldybių administracijos struktūriniams padaliniams programoms vykdyti;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
+
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 3) tais biudžetiniais metais planuojama metinė įsiskolinimų (mokėtinų sumų, išskyrus sumas paskoloms grąžinti) pokyčio suma.
 
@@ -1136,7 +1162,11 @@ Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
 Tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo pateisinamos priežastys yra:
 
-1) rengiant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą naudoti Lietuvos statistikos departamento arba Europos Komisijos prognozuoti duomenys, kurie vėliau buvo pakeisti;
+1) rengiant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą naudoti Valstybės duomenų agentūros arba Europos Komisijos prognozuoti duomenys, kurie vėliau buvo pakeisti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 2) tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų vykdymo biudžetiniais metais priimtas Seimo nutarimas dėl valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties;
 
