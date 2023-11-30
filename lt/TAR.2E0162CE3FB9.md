@@ -4,7 +4,7 @@ identifier: "TAR.2E0162CE3FB9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-22"
-last_updated: "2021-11-01"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E0162CE3FB9"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽMENINĖS PREKYBOS ĮMONIŲ NESĄŽININGŲ VEIKSMŲ
 
 DRAUDIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2021-11-01 iki 2023-11-29
+Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 1-31, i. k. 1091010ISTA00XI-626
 
@@ -116,7 +116,13 @@ NESĄŽININGI VEIKSMAI IR JŲ PRIEŽIŪRA
 
 9) tiesiogiai ar netiesiogiai mokėti ar kitokiu būdu atlyginti už prekių išdėstymą, išskyrus atvejus, kai yra mažmeninės prekybos įmonės ir tiekėjo rašytinis susitarimas dėl mokėjimo už prekių išdėstymą;
 
-10) suteikti prekėms komercines nuolaidas, mokėti tiesiogiai ar netiesiogiai arba kitokiu būdu atlyginti mažmeninės prekybos įmonei už tai, dėl ko nebuvo susitarta raštu, elektroniniu paštu ar kitomis elektroninėmis priemonėmis.
+10) suteikti prekėms komercines nuolaidas, mokėti tiesiogiai ar netiesiogiai arba kitokiu būdu atlyginti mažmeninės prekybos įmonei už tai, dėl ko nebuvo susitarta raštu, elektroniniu paštu ar kitomis elektroninėmis priemonėmis;
+
+11) pristatyti mažmeninės prekybos įmonės užsakytą prekių kiekį, jeigu tiekėjas per vieną darbo dieną nuo gauto užsakymo dienos praneša mažmeninės prekybos įmonei negalintis pristatyti mažmeninės prekybos įmonės užsakyto prekių kiekio arba negalintis pristatyti užsakyto prekių kiekio per mažmeninės prekybos įmonės nurodytą terminą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2236, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22967
 
 2. Mažmeninės prekybos įmonėms draudžiama sutartyje nustačius tiekėjui fiksuota pinigų suma išreikštą komercinę nuolaidą, nesusietą su prekių pardavimu, kokybe, logistika (prekių paskirstymu ir pristatymu), prekių pardavimo skatinimu ir (ar) kitomis prekių pirkimo ir pardavimo sąlygomis, ir pareikalavus priimti neparduotas maisto prekes (kurių nedraudžiama grąžinti pagal šio straipsnio 1 dalies 7 punktą), už kurias buvo gauta fiksuota pinigų suma išreikšta komercinė nuolaida, atsisakyti grąžinti tiekėjui šioms grąžintoms maisto prekėms proporcingai tenkančios fiksuota pinigų suma išreikštos komercinės nuolaidos dalį.
 
@@ -465,6 +471,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
 
 Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 1, 2, 3, 4, 5, 6, 8, 9, 9-1, 11, 12, 14, 15 straipsnių pakeitimo ir Įstatymo papildymo 9-3, 9-4 straipsniais ir priedu įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2067, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12750
+
+Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 15 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2236, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22967
+
+Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 3 straipsnio pakeitimo įstatymas
 
 91 straipsnis. Pažeidimo tyrimo išskyrimas (sujungimas), pabaiga, atnaujinimas
 
