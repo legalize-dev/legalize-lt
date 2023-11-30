@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2022-12-31"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-12-31 iki 2023-11-29
+Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
 
@@ -251,7 +251,11 @@ Ministras Pirmininkas ir ministrai negali būti patraukti baudžiamojon atsakomy
 
 2. Atlyginimą Ministrui Pirmininkui apskaičiuoja ir išmoka Vyriausybės kanceliarija, o ministrams – ministerijos. Vyriausybės nariai draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
 
-3. Vyriausybės atstovavimo šalyje ir užsienyje išlaidoms finansuoti Vyriausybės nutarimu gali būti sudaromas Ministro Pirmininko fondas, kuriam, nedidinant Vyriausybės kanceliarijai Lietuvos Respublikos valstybės biudžete numatytų bendrų reprezentacijos lėšų, kiekvieną mėnesį skiriama iki vieno Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio suma. Konkrečius dydžius ir šių lėšų naudojimo tvarką nustato Vyriausybė.
+3. Vyriausybės atstovavimo šalyje ir užsienyje išlaidoms finansuoti Vyriausybės nutarimu gali būti sudaromas Ministro Pirmininko fondas, kuriam, nedidinant Vyriausybės kanceliarijai Lietuvos Respublikos valstybės biudžete numatytų bendrų reprezentacijos lėšų, kiekvieną mėnesį skiriama iki vieno Valstybės duomenų agentūros paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio suma. Konkrečius dydžius ir šių lėšų naudojimo tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2244, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22974
 
 4. Nedidinant ministerijai skiriamų bendrų reprezentacijos lėšų, Vyriausybės nutarimu gali būti sudaromi ministrų fondai. Jų naudojimo tvarką nustato Vyriausybė.
 
