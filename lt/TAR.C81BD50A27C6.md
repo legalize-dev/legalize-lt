@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2023-08-01"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2023-08-01 iki 2023-11-29
+Suvestinė redakcija nuo 2023-11-30 iki 2023-12-29
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
 
@@ -493,7 +493,11 @@ Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
 
 10) kartu su Vidaus reikalų ar Krašto apsaugos ministerija nustato paslaugų teikimo krašto apsaugos sistemos ar vidaus reikalų sistemos uždarosiose įstaigose tvarką ir kartu su šiomis ministerijomis kontroliuoja, kaip šiose įstaigose laikomasi teisės aktų ir norminių dokumentų reikalavimų;
 
-11) suderinusi su Lietuvos statistikos departamentu, tvirtina įstaigų veiklos statistikos formas, įstaigų veiklos apskaitos ir atskaitomybės tvarką;
+11) suderinusi su Valstybės duomenų agentūra, tvirtina įstaigų veiklos statistikos formas ir nustato įstaigų veiklos apskaitos ir atskaitomybės tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2247, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22977
 
 12) kartu su Valstybine ligonių kasa nustato minimalius LNSS įstaigų išdėstymo, jų struktūros reikalavimus bei paslaugų poreikį;
 
@@ -2242,6 +2246,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
 
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 10, 11, 15-1, 39 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
+
+40.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2205, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21645
+
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 36 straipsnio pakeitimo įstatymas
+
+41.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2247, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22977
+
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10 ir 15-2 straipsnių pakeitimo įstatymas
 
 62 straipsnis. Įstaigos laikinojo
 
