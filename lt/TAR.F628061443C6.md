@@ -4,7 +4,7 @@ identifier: "TAR.F628061443C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-02"
-last_updated: "2023-06-01"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F628061443C6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 46 straipsnis įsigalioja 2010-12-09.
 
 LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-11-30
+Suvestinė redakcija nuo 2023-12-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
 
@@ -1117,7 +1117,15 @@ BAIGIAMOSIOS NUOSTATOS
 
 9. Lietuvos Respublikos piliečiams, kurie iki šio įstatymo įsigaliojimo pradėjo eiti pareigas kitos Europos Sąjungos valstybės narės valstybės tarnyboje, pagal šį įstatymą leidimo eiti pareigas tos valstybės tarnyboje nereikia.
 
-10. Šio įstatymo 7 straipsnio 1 punktas taikomas Lietuvos Respublikos piliečių vaikams, kurie gimdami įgijo Lietuvos Respublikos pilietybę ir kitos valstybės pilietybę nuo 1990 m. kovo 11 d. iki 2008 m. liepos 22 d., jeigu jie patys arba jų teisėti atstovai raštu prašo laikyti juos Lietuvos Respublikos piliečiais. Toks prašymas gali būti paduodamas Lietuvos Respublikos Vyriausybės įgaliotai institucijai, Lietuvos Respublikos diplomatinėms atstovybėms ar konsulinėms įstaigoms per trejus metus nuo šio įstatymo įsigaliojimo arba iki vaikui sukaks 18 metų. Prie prašymo pridedamas vaiko gimimo liudijimas ar jį atitinkantis dokumentas ir dokumentas, patvirtinantis, kad šio vaiko tėvai ar vienas iš tėvų jo gimimo metu buvo Lietuvos Respublikos piliečiai, taip pat dokumentas, liudijantis, kad vaikas gimdamas įgijo kitos valstybės pilietybę. Jeigu vaikas atitinka šias sąlygas, Lietuvos Respublikos Vyriausybės įgaliota institucija konstatuoja Lietuvos Respublikos pilietybės turėjimo faktą ir šio vaiko ar jo teisėto atstovo prašymu išduoda Lietuvos Respublikos pilietybę patvirtinantį dokumentą.
+10. Šio įstatymo 7 straipsnio 1 punktas taikomas Lietuvos Respublikos piliečių vaikams, kurie gimdami įgijo Lietuvos Respublikos pilietybę ir kitos valstybės pilietybę nuo 1990 m. kovo 11 d. iki 2008 m. liepos 22 d., jeigu jie patys arba, jeigu jie nesukakę 18 metų, jų teisėti atstovai raštu prašo laikyti juos Lietuvos Respublikos piliečiais. Toks prašymas gali būti paduodamas Lietuvos Respublikos Vyriausybės įgaliotai institucijai, Lietuvos Respublikos diplomatinėms atstovybėms ar konsulinėms įstaigoms. Prie prašymo pridedamas prašančio asmens arba asmens, kuriam atstovaujama, gimimo liudijimas ar jį atitinkantis dokumentas ir dokumentas, patvirtinantis, kad šio asmens tėvai ar vienas iš tėvų jo gimimo metu buvo Lietuvos Respublikos piliečiai, taip pat dokumentas, liudijantis, kad asmuo gimdamas įgijo kitos valstybės pilietybę. Jeigu asmuo atitinka šias sąlygas, Lietuvos Respublikos Vyriausybės įgaliota institucija konstatuoja Lietuvos Respublikos pilietybės turėjimo faktą.
+
+TAR pastaba: 1. Asmenų ar vaikų, nesukakusių 18 metų, teisėtų atstovų prašymai laikyti juos Lietuvos Respublikos piliečiais, pateikti iki 2023-11-16 įstatymo Nr. XIV-2240 įsigaliojimo dienos (2023-12-01), baigiami nagrinėti pagal šį įstatymą.
+
+2. Asmenys, kurie gimdami įgijo Lietuvos Respublikos pilietybę ir kitos valstybės pilietybę nuo 1990 m. kovo 11 d. iki 2008 m. liepos 22 d. ir neteko Lietuvos Respublikos pilietybės Lietuvos Respublikos pilietybės įstatymo nustatytais atvejais iki 2023-11-16 įstatymo Nr. XIV-2240 įsigaliojimo dienos (2023-12-01), gali paduoti prašymus dėl Lietuvos Respublikos pilietybės grąžinimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2240, 2023-11-16, paskelbta TAR 2023-11-30, i. k. 2023-23058
 
 11. Nuo 2008 m. liepos 22 d. iki šio įstatymo įsigaliojimo dienos gimę vaikai, kurių tėvai ar vienas iš jų vaiko gimimo metu buvo Lietuvos Respublikos piliečiai, nesvarbu, ar vaikas gimė Lietuvos Respublikos teritorijoje ar už jos ribų ir ar gimdamas įgijo kitos valstybės pilietybę, ar ne, laikomi Lietuvos Respublikos piliečiais, įgijusiais Lietuvos Respublikos pilietybę gimstant.
 
@@ -1224,6 +1232,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
 
 Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 24, 30, 31, 32, 33 ir 36 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1602, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25181
+
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 29, 32, 33 ir 34 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2240, 2023-11-16, paskelbta TAR 2023-11-30, i. k. 2023-23058
+
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 45 straipsnio pakeitimo įstatymas
 
 91 straipsnis. Lietuvos Respublikos pilietybės išsaugojimas
 
