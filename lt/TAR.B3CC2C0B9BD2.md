@@ -4,7 +4,7 @@ identifier: "TAR.B3CC2C0B9BD2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-21"
-last_updated: "2023-01-04"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-12-14
+Suvestinė redakcija nuo 2023-12-15 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
 
@@ -364,7 +364,7 @@ iv) upėje žemiau užtvankos įrengtos ne daugiau kaip 3 užtvankos;
 
 2. Draudžiama naudoti polderių siurblinėse žuvis žalojančius greitaeigius (slėginius) vandens siurblius, išskyrus iki 2019 m. lapkričio 1 d. įrengtus greitaeigius (slėginius) vandens siurblius, kurie gali būti naudojami iki jų eksploatacijos pabaigos, bet ne ilgiau negu jų tinkamumo naudoti terminas, jeigu toks terminas yra nustatytas teisės aktuose.
 
-3. Dėl nepalankių klimatinių sąlygų, netinkamai veikiančių ir (arba) neveikiančių hidrotechninių statinių sunykę tvenkiniai, kurių atstatyti netikslinga, ir (arba) panaikinti tvenkiniai pripažįstami nepaviršiniais vandens telkiniais aplinkos ministro nustatyta tvarka. Sprendimą dėl tvenkinio pripažinimo nepaviršiniu vandens telkiniu priima aplinkos ministras, suderinęs šį sprendimą su Nacionaline žemės tarnyba prie Aplinkos ministerijos ir savivaldybės, kurios teritorijoje yra pripažintinas nepaviršiniu vandens telkiniu tvenkinys, administracija. Pripažinti nepaviršiniais vandens telkiniais tvenkiniai, kurie Aplinkos apsaugos įstatymo nustatyta tvarka registruoti Lietuvos Respublikos upių, ežerų ir tvenkinių kadastre, šio kadastro nuostatų nustatyta tvarka iš jo išregistruojami.
+3. Dėl nepalankių klimatinių sąlygų, netinkamai veikiančių ir (arba) neveikiančių hidrotechninių statinių sunykę tvenkiniai, kuriuos atstatyti netikslinga, ir (arba) panaikinti tvenkiniai pripažįstami ne paviršiniais vandens telkiniais aplinkos ministro nustatyta tvarka. Sprendimą dėl tvenkinio pripažinimo ne paviršiniu vandens telkiniu priima aplinkos ministras, suderinęs šį sprendimą su Nacionaline žemės tarnyba prie Žemės ūkio ministerijos ir savivaldybės, kurios teritorijoje buvo pripažįstamas ne paviršiniu vandens telkiniu tvenkinys, administracija. Pripažinti ne paviršiniais vandens telkiniais tvenkiniai, kurie Aplinkos apsaugos įstatymo nustatyta tvarka registruoti Lietuvos Respublikos upių, ežerų ir tvenkinių kadastre, šio kadastro nuostatų nustatyta tvarka iš jo išregistruojami.
 
 Straipsnio dalies pakeitimai:
 
@@ -677,6 +677,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1325, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15653
 
 Lietuvos Respublikos vandens įstatymo Nr. VIII-474 15 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2311, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24179
+
+Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymo Nr. XIV-1280 11 straipsnio pakeitimo įstatymas
 
 30 straipsnis. Ataskaitų teikimas Europos Bendrijų Komisijai
 
