@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2023-09-01"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2023-09-01 iki 2023-12-19
+Suvestinė redakcija nuo 2023-12-20 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -816,6 +816,12 @@ V skyrius
 8. Sujungiamų žemės sklypų savininkai, sudarydami sutartį dėl žemės sklypų sujungimo, privalo patvirtinti, kad į sujungiamus žemės sklypus tretieji asmenys neturi jokių teisių, išskyrus atvejus, kai sujungiamų žemės sklypų savininkai sutinka tapti žemės sklypo, į kurį tretieji asmenys turi teises, įregistruotas Nekilnojamojo turto registre, bendraturčiais. Sujungiant, padalijant, atidalijant ar perdalijant žemės sklypus, pertvarkomų žemės sklypų savininkai, sudarydami sutartį dėl sujungimo, padalijimo, atidalijimo ar perdalijimo, privalo apie tai pranešti tretiesiems asmenims, turintiems teises į pertvarkomus žemės sklypus, įregistruotus Nekilnojamojo turto registre.
 
 9. Negali būti sujungiami, padalijami, atidalijami ar perdalijimo būdu pertvarkomi areštuoti žemės sklypai arba teisminio ginčo objektu esantys žemės sklypai.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos žemės įstatymo (2022 m. birželio 30 d. redakcija; TAR, 2022-07-15, Nr. 15638) 29 straipsnio 9 dalis tiek, kiek pagal ją negali būti atidalijami areštuoti žemės sklypai arba teisminio ginčo objektu esantys žemės sklypai, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+Nr.  KT109-N12/2023, 2023-12-20, paskelbta TAR 2023-12-20, i. k. 2023-24710
 
 10. Perleidžiant statinį ar įrenginį, esantį šiam statiniui ar įrenginiui eksploatuoti suformuotame valstybinės žemės sklype, už kurį sumokėta teisės aktų nustatyta tvarka, tačiau valstybinės žemės pirkimo–pardavimo sutartis nesudaryta, statinį ar įrenginį įgyjantis asmuo, išskyrus asmenis, kurie pagal įstatymus negali įgyti nuosavybės teisės į žemę, kartu su nuosavybės teise į statinį ar įrenginį įgyja teisę sudaryti valstybinės žemės sklypo, reikalingo statiniui ar įrenginiui eksploatuoti, pirkimo–pardavimo sutartį. Kartu su nuosavybės teise į statinį ar įrenginį perleidėjas gali perleisti teisę įskaityti už tokį žemės sklypą sumokėtas įmokas.
 
@@ -2218,4 +2224,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2114, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14307
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas
+
+32.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr.  KT109-N12/2023, 2023-12-20, paskelbta TAR 2023-12-20, i. k. 2023-24710
+
+Dėl Lietuvos Respublikos žemės įstatymo 30 straipsnio 9 dalies (2010 m. birželio 18 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
 
