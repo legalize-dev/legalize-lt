@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2023-07-01"
+last_updated: "2023-12-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-12-22
+Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -46,7 +46,11 @@ Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
 
 Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
 
-2. Šis Įstatymas netaikomas asmenims, kuriems, nors jie ir atitinka šio Įstatymo 6 straipsnio 1 dalies 1–4 punktų nuostatas, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, taikoma kitos Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos teisė.
+2. Šis Įstatymas netaikomas asmenims, kuriems, nors jie ir atitinka šio Įstatymo 6 straipsnio 1 dalies 1–4 ir 6, 7 punktų nuostatas, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, taikoma kitos Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos teisė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
 
 3. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.
 
@@ -524,16 +528,6 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
 
-5) medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų kompensacijos.
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
-
 4. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokama medicininė reabilitacija, slauga, socialinės paslaugos bei patarnavimai, priskirti asmens sveikatos priežiūrai, apima:
 
 1) slaugos ir socialines paslaugas bei patarnavimus, palaikomojo gydymo paslaugas slaugos ir palaikomojo gydymo ligoninėse sveikatos apsaugos ministro nustatyta tvarka ir terminais, bet ne ilgiau kaip 120 dienų per kalendorinius metus. Į 120 dienų per kalendorinius metus terminą neįskaičiuojamas Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpis;
@@ -770,20 +764,6 @@ c) šio Įstatymo 8 straipsnio 5 dalyje nurodytoms sveikatos priežiūros išlai
 
 d) šio straipsnio 2 ir 3 dalyse nurodytais atvejais;
 
-e) paciento priemokoms už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus šio įstatymo 10 straipsnio 6 dalyje nurodytiems asmenims, padengti;
-
-3 punkto e) papunkčio redakcija, įsigaliojanti 2023-07-01:
-
-e) paciento priemokoms už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus šio įstatymo 10 straipsnio 6 ir 7 dalyse nurodytiems asmenims, padengti;
-
-Papildyta papunkčiu:
-
-Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
-
-Papunkčio pakeitimai:
-
-Nr. XIV-1688, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26108
-
 4) institucijų, vykdančių privalomąjį sveikatos draudimą, veiklos pajamos;
 
 5) savanoriškos juridinių ir fizinių asmenų įmokos;
@@ -803,16 +783,6 @@ c) iš fizinių ir juridinių asmenų išieškotos lėšos už apdraustojo priva
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2003, 2015-11-10, paskelbta TAR 2015-11-17, i. k. 2015-18263
-
-d) iš ūkio subjektų, su kuriais sudarytos medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo sutartys, išieškotos ar jų grąžintos lėšos;
-
-Papildyta papunkčiu:
-
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-
-Papunkčio pakeitimai:
-
-Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
 
 7) vaistinio preparato rinkodaros teisės turėtojų (jų atstovų) arba juridinių asmenų, turinčių didmeninio platinimo licenciją, pervestos lėšos pagal gydymo prieinamumo gerinimo ir rizikos pasidalijimo sutartis, sudarytas su Valstybine ligonių kasa;
 
@@ -1102,7 +1072,7 @@ Nr. XII-655, 2013-12-10, Žin., 2013, Nr. 132-6734 (2013-12-21)
 
 2) einamaisiais metais į rezervą atskaitytos Privalomojo sveikatos draudimo fondo biudžeto lėšos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu;
 
-3) praėjusių biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto apyvartos lėšų dalis, metų pabaigoje viršijanti tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintas apyvartos lėšas.
+3) praėjusių biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto apyvartos lėšų dalis, metų pabaigoje viršijanti tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintas apyvartos lėšas;
 
 2. Privalomojo sveikatos draudimo fondo biudžeto rezervą sudaro pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis ir Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalis. Pagrindinę Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalį sudaro 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Einamaisiais metais panaudota pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis gali būti atkuriama iš pagal šio Įstatymo 15 straipsnio 2 dalies 2 punktą skirtų papildomų valstybės biudžeto asignavimų ir gali sudaryti daugiau kaip 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalį sudaro likusios Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos.
 
