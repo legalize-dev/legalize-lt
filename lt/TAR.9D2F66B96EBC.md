@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2023-06-01"
+last_updated: "2023-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-12-23
+Suvestinė redakcija nuo 2023-12-24 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -188,23 +188,19 @@ Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
 
 3 straipsnis. Įstatymo ir kitų teisės aktų, susijusių su aviacijos veikla, taikymas
 
-1. Aviacijos veikla Lietuvos Respublikos teritorijoje, kurią sudaro žemės gelmės, vidaus vandenys, teritoriniai vandenys ir oro erdvė virš jų, galima tik vadovaujantis šiame įstatyme ir kituose teisės aktuose, susijusiuose su aviacijos veikla, nustatytomis sąlygomis.
+1. Aviacijos veikla Lietuvos Respublikos teritorijoje, kurią sudaro žemės gelmės, vidaus vandenys, teritoriniai vandenys ir oro erdvė virš jų, galima tik vadovaujantis Lietuvos Respublikos tarptautinėse sutartyse, šiame įstatyme ir kituose Lietuvos Respublikos teisės aktuose, susijusiuose su aviacijos veikla, nustatytomis sąlygomis.
 
-2. Šis įstatymas ir kiti teisės aktai, susiję su aviacijos veikla, taikomi ir už Lietuvos Respublikos teritorijos ribų esantiems Lietuvos Respublikoje registruotiems orlaiviams, jeigu jie neprieštarauja tos valstybės, kurios teritorijoje yra šie orlaiviai, teisės aktams.
+2. Už Lietuvos Respublikos teritorijos ribų esantiems Lietuvos Respublikoje registruotiems orlaiviams šis įstatymas ir kiti teisės aktai taikomi tiek, kiek jie neprieštarauja tos valstybės, kurios teritorijoje yra šie orlaiviai, teisės aktams, Čikagos konvencijai ir kitoms Lietuvos Respublikos tarptautinėms sutartims.
 
-3. Užsienio valstybių teisės aktai taikomi šių valstybių orlaiviams, esantiems Lietuvos Respublikos teritorijoje, jeigu jie neprieštarauja šiam įstatymui ir kitiems Lietuvos Respublikos teisės aktams, susijusiems su aviacijos veikla.
+3. Užsienio valstybių teisės aktai taikomi šių valstybių orlaiviams, esantiems Lietuvos Respublikos teritorijoje, jeigu jie neprieštarauja Čikagos konvencijai ir kitoms Lietuvos Respublikos tarptautinėms sutartims, šiam įstatymui ir kitiems Lietuvos Respublikos teisės aktams, susijusiems su aviacijos veikla.
 
-4. Jeigu Lietuvos Respublikos tarptautinėse sutartyse nustatyti kitokie su aviacijos veikla susiję reikalavimai negu tie, kuriuos numato Lietuvos Respublikos teisės aktai, taikomi tarptautinių sutarčių reikalavimai.
+4. Jeigu Lietuvos Respublikos tarptautinėse sutartyse nustatyti kitokie su aviacijos veikla susiję reikalavimai negu tie, kuriuos numato Lietuvos Respublikos teisės aktai, taikomi Lietuvos Respublikos tarptautinių sutarčių reikalavimai.
 
-5. Šio įstatymo III skyriaus pirmojo ir antrojo skirsnių nuostatos netaikomos eksperimentinės kategorijos orlaiviams. Eksperimentinės kategorijos orlaivių, išskyrus paprastuosius orlaivius, projektavimo, gamybos, registravimo, techninės priežiūros, tinkamumo skraidyti, naudojimo ir pilotavimo reikalavimus nustato Lietuvos transporto saugos administracija (toliau – LTSA), atsižvelgdama į skrydžių saugos užtikrinimą. Paprastųjų orlaivių, išskyrus vaikų aviaciniam švietimui naudojamus orlaivius, apskaitos, ženklinimo ir tinkamumo skraidyti reikalavimus nustato LTSA arba jos nustatyta tvarka atrinkta ir įgaliota atitinkama įstaiga ar asociacija. Vaikų aviaciniam švietimui naudojamų orlaivių naudojimo tvarką nustato ir jos vykdymą kontroliuoja Lietuvos Respublikos švietimo, mokslo ir sporto ministerija.
+5. Šio įstatymo III skyriaus pirmojo ir antrojo skirsnių nuostatos netaikomos eksperimentinės kategorijos orlaiviams. Eksperimentinės kategorijos orlaivių, išskyrus paprastuosius orlaivius, projektavimo, gamybos, registravimo, techninės priežiūros, tinkamumo skraidyti, naudojimo, pilotavimo reikalavimus ir specialiojo tinkamumo skraidyti pažymėjimo išdavimo, pratęsimo, sustabdymo ar panaikinimo kriterijus ir sąlygas suderinusi su Agentūra tvirtina Lietuvos transporto saugos administracija (toliau – LTSA), atsižvelgdama į skrydžių saugos užtikrinimą. Paprastųjų orlaivių, išskyrus vaikų aviaciniam švietimui naudojamus orlaivius, apskaitos, ženklinimo ir tinkamumo skraidyti reikalavimus nustato LTSA arba jos nustatyta tvarka atrinkta ir įgaliota atitinkama įstaiga ar asociacija. Vaikų aviaciniam švietimui skirtų orlaivių naudojimo tvarką nustato ir jos vykdymą kontroliuoja Lietuvos Respublikos švietimo, mokslo ir sporto ministerija.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
-
-Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
-
-6. Šio įstatymo nuostatos dėl tarptautinių oro uostų žemės taikomos tiek, kiek to nereglamentuoja Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas.
+Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
 
 4 straipsnis. Aviacijos valstybinis valdymas
 
@@ -220,7 +216,11 @@ Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vy
 
 2) teikia Susisiekimo ministerijai pasiūlymus dėl civilinės aviacijos plėtros programų ir valstybinės saugos programos;
 
-3) jeigu tai būtina, suderinusi su kariuomenės vadu, nustato civilinės aviacijos reikalavimus šiam įstatymui įgyvendinti;
+3) suderinusi su Agentūra ir, jeigu tai būtina, su Lietuvos kariuomenės vadu, tvirtina civilinės aviacijos reikalavimus šiam įstatymui įgyvendinti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
 
 4) kontroliuoja Nacionalinės civilinės aviacijos saugumo programos įgyvendinimą;
 
@@ -236,7 +236,17 @@ Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
 
 7) renka saugos informaciją ir atlieka jos analizę;
 
-8) atlieka kitas šiame įstatyme ir kituose teisės aktuose jai nustatytas funkcijas.
+8) pradeda administracinių nusižengimų teiseną, atlieka administracinių nusižengimų tyrimą, surašo administracinių nusižengimų protokolus, nagrinėja administracinių nusižengimų bylas ir teikia Agentūrai informaciją apie priimtus sprendimus, susijusius su administracinių nuobaudų už civilinės aviacijos reikalavimų pažeidimus taikymu;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
+
+9) atlieka kitas šiame įstatyme ir kituose teisės aktuose jai nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
 
 6 straipsnis. Agentūra
 
@@ -266,7 +276,7 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 
 2) organizuoja Nacionalinės civilinės aviacijos saugumo programos įgyvendinimą;
 
-3) atlieka Reglamente (EB) Nr. 300/2008 nurodytos atitinkamos institucijos, Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 748/2012, Reglamente (ES) Nr. 923/2012, Reglamente (ES) Nr. 965/2012, Reglamente (ES) Nr. 139/2014, Reglamente (ES) Nr. 376/2014, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340, Reglamente (ES) 2017/373, Reglamente (ES) 2018/1976 ir Reglamente (ES) 2018/395 nurodytos kompetentingos institucijos, taip pat Reglamente (ES) 2019/947 nurodytos kompetentingos institucijos, atsakingos už šio reglamento 18 straipsnio a–e ir g–m punktų nuostatų vykdymą, Reglamente (ES) 2018/1139 nurodytos nacionalinės kompetentingos institucijos ir Reglamente (EB) Nr. 549/2004, Reglamente (ES) 2019/317 nurodytos nacionalinės priežiūros institucijos funkcijas ir kompetentingos institucijos funkcijas, nurodytas Reglamento (ES) 2021/664 18 straipsnio a, e, g–i ir k punktuose;
+3) atlieka Reglamente (EB) Nr. 300/2008 nurodytos atitinkamos institucijos, Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 748/2012, Reglamente (ES) Nr. 923/2012, Reglamente (ES) Nr. 965/2012, Reglamente (ES) Nr. 139/2014, Reglamente (ES) Nr. 376/2014, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340, Reglamente (ES) 2017/373, Reglamente (ES) 2018/1976 ir Reglamente (ES) 2018/395 nurodytos kompetentingos institucijos, taip pat Reglamente (ES) 2019/947 nurodytos kompetentingos institucijos, atsakingos už šio reglamento 18 straipsnio a–e ir g–m punktų nuostatų vykdymą, Reglamente (ES) 2018/1139 nurodytos nacionalinės kompetentingos institucijos ir Reglamente (EB) Nr. 549/2004, Reglamente (ES) 2019/317 nurodytos nacionalinės priežiūros institucijos funkcijas ir kompetentingos institucijos funkcijas, nurodytas Reglamento (ES) 2021/664 18 straipsnio a, e, g–i ir k punktuose, ir nustato šiuose reglamentuose ir Čikagos konvencijos 1, 2, 6, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19 prieduose atitinkamai institucijai ar nacionalinei priežiūros institucijai arba kompetentingai institucijai pavestus nustatyti techninius reikalavimus (techninius standartus, technines sąlygas, technines instrukcijas ir pan.) ir procedūras;
 
 Straipsnio punkto pakeitimai:
 
@@ -275,6 +285,8 @@ Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
 Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 
 Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
+
+Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
 
 4) išduoda pažymėjimus, patvirtinimus, leidimus ir aviacijos specialistų licencijas;
 
@@ -286,17 +298,27 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
 
-7) atlieka eksperimentinės kategorijos orlaivių patikrą, išduoda šios kategorijos orlaiviams specialiuosius tinkamumo skraidyti pažymėjimus ir pratęsia jų galiojimą, išduoda eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikros inspektoriaus patvirtinimus;
+7) atlieka eksperimentinės kategorijos orlaivių patikrą, išduoda šios kategorijos orlaiviams specialiuosius tinkamumo skraidyti pažymėjimus, pratęsia, sustabdo ir panaikina jų galiojimą, išduoda, eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikros inspektoriaus patvirtinimus;
 
 Papildyta straipsnio punktu:
 
 Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 
-8) sertifikuoja sistemos „U-space“ paslaugų teikėjus ir vienintelį bendrų informacijos paslaugų teikėją, nurodytus Reglamente (ES) 2021/664, ir išduoda jiems atitinkamus pažymėjimus.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
+
+8) sertifikuoja sistemos „U-space“ paslaugų teikėjus ir vienintelį bendrų informacijos paslaugų teikėją, nurodytus Reglamente (ES) 2021/664, ir išduoda jiems atitinkamus pažymėjimus;
 
 Papildyta straipsnio punktu:
 
 Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
+
+9) teikia informaciją LTSA apie administracinio nusižengimo požymių turinčią veiką.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
 
 4. Agentūros darbuotojų komandiruočių, susijusių su ne Lietuvos Respublikos teritorijoje esančių orlaivių tinkamumo skraidyti priežiūra, išlaidas atlygina orlaivių savininkai arba naudotojai. Agentūros darbuotojų komandiruočių, susijusių su ne Lietuvos Respublikos teritorijoje veikiančių vežėjų veiklos priežiūra, mokymo įstaigų akreditavimu ir priežiūra, orlaivių ir jų įrangos gamybos ir techninės priežiūros organizacijų, orlaivių tinkamumo skraidyti tęstinumo vadybos organizacijų tvirtinimu ir priežiūra, išlaidas atlygina atitinkamai vežėjai, šioje dalyje nurodytos įstaigos ir organizacijos. Šioje dalyje nurodytų išlaidų atlyginimo tvarką nustato Lietuvos Respublikos susisiekimo ministras.
 
@@ -862,7 +884,11 @@ Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
 
 36 straipsnis. Draudimas vežti pavojinguosius krovinius
 
-Lietuvos Respublikos oro erdvėje draudžiama naudoti ir vežti masinio naikinimo ginklus, taip pat draudžiamus vežti pavojinguosius krovinius, numatytus Tarptautinės civilinės aviacijos konvencijos (toliau – Čikagos konvencija) 18 priede.
+Lietuvos Respublikos oro erdvėje draudžiama naudoti ir vežti masinio naikinimo ginklus, taip pat draudžiamus vežti pavojinguosius krovinius, numatytus Čikagos konvencijos 18 priede.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
 
 37 straipsnis. Viršgarsiniai skrydžiai
 
@@ -1733,6 +1759,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
 
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 3, 5, 6, 16, 18, 35, 38, 41, 41-1, 46, 50 straipsnių ir 1, 2, 3 priedų pakeitimo, įstatymo papildymo 19-1, 41-2 straipsniais ir III skyriaus papildymo vienuoliktuoju skirsniu įstatymas
+
+28.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1954, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09698
+
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2 straipsnio pakeitimo įstatymas
+
+29.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
+
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 3, 5, 6, 8 ir 36 straipsnių pakeitimo įstatymas
 
 55 straipsnis. Reikalavimai vežėjo pažymėjimui gauti
 
