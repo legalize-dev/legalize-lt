@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2023-07-02"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,17 +18,9 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2023-07-02 iki 2023-12-28
+Suvestinė redakcija nuo 2023-12-29 iki 2023-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
-
-TAR pastaba. Įstatymas  Nr. XIV-1967 taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. Valstybinio socialinio draudimo fondo 2023 metų biudžetas vykdomas pagal įstatymų nuostatas, galiojusias iki  įstatymo Nr. XIV-1967 įsigaliojimo dienos )2023-07-02).
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
-
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 6, 8, 10, 12, 19, 22, 23 ir 34 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2017-01-01:
 
@@ -1442,7 +1434,11 @@ FONDO ADMINISTRAVIMO ĮSTAIGŲ TEISĖS, SPRENDIMŲ IR VEIKSMŲ APSKUNDIMAS
 
 6) vadovaudamiesi Administracinių nusižengimų kodeksu, surašyti administracinių nusižengimų protokolus dėl nusižengimų, kurių išaiškinimas priklauso Fondo administravimo įstaigų valstybės tarnautojų kompetencijai;
 
-7) pareikalauti iš draudėjo sutvarkyti buhalterinę apskaitą;
+7) pareikalauti iš draudėjo sutvarkyti finansinę apskaitą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
 
 8) gauti iš draudėjo paaiškinimus dėl socialinio draudimo įmokų ir socialinio draudimo išmokų mokėjimo, draudėjo pateikiamų socialinio draudimo duomenų paaiškinimus ir paaiškinimus iš draudėjo teritorijoje esančių asmenų dėl darbo santykių, kai yra pagrindas manyti, kad jie faktiškai ten dirba;
 
