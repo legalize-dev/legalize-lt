@@ -4,7 +4,7 @@ identifier: "TAR.791BF9249C9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2023-02-01"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2023-02-01 iki 2023-12-28
+Suvestinė redakcija nuo 2023-12-29 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
 
@@ -80,7 +80,11 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 12. Fizinio aktyvumo pratybos – fizinio aktyvumo specialisto vadovaujama aktyvi fizinė asmens veikla, nesiekiant pasirengti aukšto meistriškumo sporto varžyboms ir (ar) dalyvauti jose.
 
-13. Fizinio aktyvumo projektas – dokumentas, kuriame aprašoma laikina juridinio asmens veikla, siekiant unikalių ir konkrečių, su fiziniu aktyvumu susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
+13. Fizinio aktyvumo projektas – dokumentas, kuriame aprašoma laikina, ne nuolatinio pobūdžio juridinio asmens veikla, siekiant konkrečių, su fiziniu aktyvumu susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2429, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25651
 
 14. Fizinio aktyvumo specialistas – nustatytus reikalavimus atitinkantis specialistas, vadovaujantis asmens fizinio aktyvumo veiklai ir (arba) šviečiantis visuomenę sporto, fizinio aktyvumo ir taip pasiekiamo sveikatos stiprinimo klausimais.
 
@@ -100,7 +104,11 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 22. Sporto bazė – statinys ar jo dalis, kurioje leidžiama fizinio aktyvumo ar aukšto meistriškumo sporto veikla.
 
-23. Sporto bazių pagerinimo projektas – dokumentas, kuriame aprašoma laikina juridinio asmens veikla, siekiant unikalių ir konkrečių, su sporto bazių pagerinimu susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
+23. Sporto bazių pagerinimo projektas – dokumentas, kuriame aprašoma laikina, ne nuolatinio pobūdžio juridinio asmens veikla, siekiant konkrečių, su sporto bazių pagerinimu susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2429, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25651
 
 24. Sporto klubas – juridinis asmuo ar jo padalinys, kurio tikslas – vienyti asmenis fiziniam aktyvumui, sveikai gyvensenai ir (ar) sportininkus, siekti kokybinių ir kiekybinių fizinio aktyvumo ir (ar) aukšto meistriškumo sporto rezultatų.
 
@@ -116,7 +124,11 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 30. Strateginė sporto šaka – Lietuvos Respublikos švietimo, mokslo ir sporto ministro nustatytus kriterijus atitinkanti sporto šaka, kurios plėtojimui remti valstybė teikia prioritetą.
 
-31. Tarptautinių aukšto meistriškumo sporto varžybų projektas (toliau – tarptautinių sporto varžybų projektas) – dokumentas, kuriame aprašoma laikina juridinio asmens veikla, siekiant unikalių ir konkrečių, su tarptautinių aukšto meistriškumo sporto varžybų organizavimu Lietuvoje susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
+31. Tarptautinių aukšto meistriškumo sporto varžybų projektas (toliau – tarptautinių sporto varžybų projektas) – dokumentas, kuriame aprašoma laikina juridinio asmens veikla, siekiant konkrečių, su tarptautinių aukšto meistriškumo sporto varžybų organizavimu Lietuvoje susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2429, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25651
 
 32. Tarptautinė sporto šakos federacija – nevyriausybinė organizacija, pasaulio ar Europos mastu nustatanti pagrindines sporto šakos taisykles ir narystės pagrindu vienijanti keliose valstybėse įsteigtas ir tose valstybėse veiklą vykdančias šios sporto šakos federacijas.
 
@@ -949,6 +961,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1757, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00155
 
 Lietuvos Respublikos sporto įstatymo Nr. I-1151 17 straipsnio pakeitimo įstatymas
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2429, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25651
+
+Lietuvos Respublikos sporto įstatymo Nr. I-1151 2 straipsnio pakeitimo įstatymas
 
 27 straipsnis. Kūno kultūros ir sporto specialistų veiklos reglamentavimas
 
