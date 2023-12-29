@@ -4,7 +4,7 @@ identifier: "TAR.E2CE2C82DA9E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-26"
-last_updated: "2023-04-01"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-28
+Suvestinė redakcija nuo 2023-12-29 iki 2024-04-30
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
 
@@ -1174,6 +1174,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1612, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25037
 
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo įstatymo Nr. XIII-3308 15 straipsnio pakeitimo įstatymo Nr. XIV-1274 pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2385, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25631
+
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo įstatymo Nr. XIII-3308 2 straipsnio pakeitimo įstatymas
 
 21 straipsnis. Papildomi reikalavimai finansinėms ataskaitoms
 
