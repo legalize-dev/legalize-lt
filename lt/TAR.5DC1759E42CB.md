@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2023-05-01"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -1158,7 +1158,7 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 1) nustato taktinių ir logistinių transporto priemonių ir jų priekabų, kuriose integruotos ginklų ir valdymo sistemos, sąrašą;
 
-2) nustato taktinių ir logistinių transporto priemonių ir jų priekabų, kurios yra priskirtinos traktorių, savaeigių mašinų ar jų priekabų kategorijoms, techninės apžiūros tvarką ir techninius reikalavimus.
+2) nustato taktinių ir logistinių transporto priemonių ir jų priekabų, kurios yra priskirtinos traktorių, savaeigių mašinų ar jų priekabų kategorijoms, techninės apžiūros tvarką ir techninius reikalavimus;
 
 Papildyta straipsnio dalimi:
 
@@ -1270,7 +1270,7 @@ Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 3) turi teisę sustabdyti M2, M3, N2, N3, O3 ir O4 klasių transporto priemones, nurodyti jų vairuotojams važiuoti paskui specialiąją transporto priemonę iki patikrinimo ar stovėjimo vietos techniniam patikrinimui atlikti;
 
-4) suteikia arba panaikina įgaliojimą atlikti Lietuvoje registruotų transporto priemonių privalomąją techninę apžiūrą Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje subjektams, kuriuos atlikti privalomąją techninę apžiūrą įgaliojo valstybė, kurioje jie yra.
+4) suteikia arba panaikina įgaliojimą atlikti Lietuvoje registruotų transporto priemonių privalomąją techninę apžiūrą Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje subjektams, kuriuos atlikti privalomąją techninę apžiūrą įgaliojo valstybė, kurioje jie yra;
 
 Papildyta straipsnio dalimi:
 
@@ -1869,24 +1869,6 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
 9. Pradedantiesiems vairuotojams draudžiama vairuoti motorines transporto priemones, kurios pritaikytos eismui kairiąja kelio puse ir (ar) turi vairą dešinėje pusėje.
-
-10. Jeigu savivaldžio automobilio gamintojas numatė galimybę asmeniui tiesiogiai ar nuotoliniu būdu valdyti savivaldį automobilį, savivaldžio automobilio įranga privalo būti tokia, kad būtų sudaryta galimybė patikrinti, ar savivaldis automobilis yra valdomas savivaldžio automobilio įrangos veiksmais, ar jį tiesiogiai arba nuotoliniu būdu valdo asmuo.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
-
-11. Savivaldis automobilis privalo būti toks, kad galėtų tinkamai ir saugiai važiuoti nekeldamas pavojaus kitiems eismo dalyviams, kitų asmenų ar jų turto saugumui ir aplinkai, nesudarytų kliūčių eismui, pasirinktų saugų važiavimo greitį, įvertintų važiavimo sąlygas, vietovės reljefą, kelio būklę, savo būklę ir krovinį, meteorologines sąlygas, taip pat eismo intensyvumą, kad galėtų saugiai sustoti iki bet kurios kliūties, taip pat automobilį stabdant tikrinantiems pareigūnams. Savivaldis automobilis privalo būti toks, kad galėtų sulėtinti greitį ir prireikus saugiai sustoti, jeigu to reikia dėl atsiradusių aplinkybių.
-
-Straipsnio pakeitimai:
-
-Nr. XI-760, 2010-04-15, Žin., 2010, Nr. 48-2308 (2010-04-27)
-
-Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
 
 Straipsnio pakeitimai:
 
