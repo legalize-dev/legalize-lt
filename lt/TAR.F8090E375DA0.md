@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2023-10-23"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
-Suvestinė redakcija nuo 2023-10-23 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30 iki 2024-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 
@@ -835,11 +835,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
-2. Lietuvos Respublikoje juridiniams asmenims ir užsienio juridinių asmenų filialams, gaminantiems tabako gaminius ir (ar) su jais susijusius gaminius arba kurių pagrindinė veikla yra prekyba tabako gaminiais ir (ar) su jais susijusiais gaminiais, draudžiama bet kokia forma ir bet kokiomis priemonėmis remti visus renginius, veiklas, asmenis ir visuomenės informavimo priemones.
+2. Lietuvos Respublikoje juridiniams asmenims ir užsienio juridinių asmenų filialams, kurie gamina tabako gaminius ir (ar) su jais susijusius gaminius arba kurių pagrindinė veikla yra prekyba tabako gaminiais ir (ar) su jais susijusiais gaminiais, draudžiama bet kokia forma ir bet kokiomis priemonėmis remti visus renginius, veiklas, asmenis ir visuomenės informavimo priemones. Šioje dalyje nurodytiems subjektams leidžiama teikti valstybės institucijoms ir įstaigoms paramą, skirtą kovai su tabako gaminių ir (ar) su jais susijusių gaminių kontrabanda ir nelegalia prekyba, vadovaujantis Lietuvos Respublikos labdaros ir paramos įstatymu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-69, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28885
+
+Nr. XIV-2403, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25915
 
 Straipsnio pakeitimai:
 
@@ -1724,6 +1726,30 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
 
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 4-1, 8-4, 8-5, 9-11 straipsnių ir 2 priedo pakeitimo įstatymas
+
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2144, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14040
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 19-1 straipsnio pakeitimo įstatymas
+
+28.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 17, 26 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+
+29.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2403, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25915
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 18 straipsnio pakeitimo įstatymas
 
 91 straipsnis. Tabako gaminių gamybos, neapdoroto tabako ir tabako gaminių realizavimo ataskaitos
 
