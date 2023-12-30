@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2023-09-01"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2023-09-01 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -353,7 +353,11 @@ SAVIVALDYBĖS TARYBOS NARIAI
 
 4. Nustatomas toks išrinkto savivaldybės tarybos nario priesaikos tekstas:
 
-„Aš, (vardas, pavardė), prisiekiu gerbti ir vykdyti Konstituciją ir įstatymus, sąžiningai ir garbingai atlikti savo pareigas ir susilaikyti nuo veiksmų, pažeidžiančių savivaldybės gyventojų teises ir viešuosius interesus. Tepadeda man Dievas!“.
+„Aš, (vardas, pavardė), prisiekiu gerbti ir vykdyti Lietuvos Respublikos Konstituciją ir įstatymus, sąžiningai ir garbingai atlikti savo pareigas ir susilaikyti nuo veiksmų, pažeidžiančių savivaldybės gyventojų teises ir viešuosius interesus. Tepadeda man Dievas!“.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
 
 5. Prisiekti leidžiama ir be paskutinio sakinio.
 
@@ -871,7 +875,11 @@ Nr. XIV-2053, 2023-06-13, paskelbta TAR 2023-06-22, i. k. 2023-12415
 
 1. Nustatomas toks išrinkto mero priesaikos tekstas:
 
-„Aš, (vardas, pavardė), prisiekiu gerbti ir vykdyti Konstituciją ir įstatymus, sąžiningai ir garbingai atlikti savo pareigas ir susilaikyti nuo veiksmų, pažeidžiančių savivaldybės gyventojų teises ir viešuosius interesus. Tepadeda man Dievas!“.
+„Aš, (vardas, pavardė), prisiekiu gerbti ir vykdyti Lietuvos Respublikos Konstituciją ir įstatymus, sąžiningai ir garbingai atlikti savo pareigas ir susilaikyti nuo veiksmų, pažeidžiančių savivaldybės gyventojų teises ir viešuosius interesus. Tepadeda man Dievas!“.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
 
 2. Prisiekti leidžiama ir be paskutinio sakinio.
 
@@ -939,7 +947,7 @@ Nr. XIV-2053, 2023-06-13, paskelbta TAR 2023-06-22, i. k. 2023-12415
 
 26) savo kompetencijos klausimais gali sudaryti darbo grupes iš savivaldybės tarybos narių šių sutikimu, savivaldybės administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kitų savivaldybės teritorijoje veikiančių asmenų ir visuomenės atstovų;
 
-27) organizuoja savivaldybės tarybos narių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijos tobulinimą.
+27) organizuoja savivaldybės tarybos narių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijos tobulinimą;
 
 3. Meras turi nuolat bendrauti su savivaldybės nuolatiniais gyventojais. Meras reglamento nustatyta tvarka atsiskaito savivaldybės bendruomenei už savo veiklą. Ši informacija apie mero veiklos rezultatus įtraukiama į šio įstatymo 62 straipsnyje nurodytą savivaldybės metinių ataskaitų rinkinį.
 
