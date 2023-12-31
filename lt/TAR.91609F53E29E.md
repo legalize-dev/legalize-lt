@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2023-04-01"
+last_updated: "2023-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,17 +18,9 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-30
+Suvestinė redakcija nuo 2023-12-31 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
-
-TAR pastaba. Įstatymo Nr. XIV-1841 nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos socialinių paslaugų įstatymo nuostatos. Iki šio įstatymo taikymo dienos pradėtos su socialinių paslaugų teikimu ir organizavimu susijusios procedūros baigiamos pagal Socialinių paslaugų įstatymo nuostatas, galiojusias iki šio įstatymo įsigaliojimo dienos.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
-
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, 16, 17, 19-2, 25-2, 30 ir 35 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -682,7 +674,11 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
 
-8. Socialinių paslaugų įstaigos vadovas privalo turėti aukštąjį išsilavinimą ir tobulinti profesinę kompetenciją. Socialinių paslaugų įstaigos vadovo veikla vertinama kiekvienais metais socialinės apsaugos ir darbo ministro nustatyta tvarka.
+8. Neteko galios nuo 2023-12-31
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2357, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25606
 
 Papildyta straipsnio dalimi:
 
@@ -1658,6 +1654,14 @@ Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
 
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, 16, 17, 19-2, 25-2, 30 ir 35 straipsnių pakeitimo įstatymas
 
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2357, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25606
+
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas
+
 141 straipsnis. Valstybės duomenų agentūros kompetencija
 
 Valstybės duomenų agentūra kiekvienais metais pagal suderintą su Socialinės apsaugos ir darbo ministerija statistinių rodiklių sąrašą atlieka statistinį socialinių paslaugų tyrimą, rengia ir skelbia statistinę informaciją apie socialines paslaugas.
@@ -1710,7 +1714,39 @@ Papildyta straipsniu:
 
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
-191 straipsnis. Budinčio globotojo vykdoma likusių be tėvų globos vaikų, socialinę riziką patiriančių vaikų priežiūra
+191 straipsnis. Socialinių paslaugų įstaigų vadovai
+
+1. Valstybės ir savivaldybių biudžetinių socialinių paslaugų įstaigų ir viešųjų socialinių paslaugų įstaigų, kurių savininkė ar dalininkė, turinti daugiau negu pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė (toliau šiame straipsnyje – viešoji socialinių paslaugų įstaiga), vadovai į pareigas priimami konkurso būdu penkerių metų kadencijai, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, kai socialinių paslaugų įstaigos vadovas be konkurso skiriamas antrajai kadencijai. Konkursai į valstybės ir savivaldybių biudžetinių socialinių paslaugų įstaigų ir viešųjų socialinių paslaugų įstaigų vadovų pareigas organizuojami ir vykdomi Vyriausybės nustatyta tvarka.
+
+2. Valstybės ir savivaldybių biudžetinių socialinių paslaugų įstaigų ir viešųjų socialinių paslaugų įstaigų vadovų kadencijų skaičius neribojamas.
+
+3. Valstybės ir savivaldybės biudžetinės socialinių paslaugų įstaigos vadovas savininko teises ir pareigas įgyvendinančios institucijos sprendimu be konkurso gali būti skiriamas antrajai penkerių metų kadencijai, jeigu kiekvienais kadencijos metais jo veikla buvo įvertinta kaip viršijanti lūkesčius ir (arba) atitinkanti lūkesčius (iki 2023 m. gruodžio 31 d. – labai gerai arba gerai). Viešosios socialinių paslaugų įstaigos vadovas visuotinio dalininkų susirinkimo sprendimu be konkurso gali būti skiriamas antrajai penkerių metų kadencijai, jeigu jo vadovaujama įstaiga kiekvienais kadencijos metais pasiekė tų metų planavimo dokumentuose nustatytus rodiklius.
+
+4. Socialinių paslaugų įstaigos vadovas, kuris be konkurso nebuvo skirtas antrajai penkerių metų kadencijai šio straipsnio 3 dalyje nurodytu atveju, turi teisę dalyvauti viešame konkurse šios socialinių paslaugų įstaigos vadovo pareigoms eiti.
+
+5. Likus ne mažiau kaip 2 mėnesiams iki socialinių paslaugų įstaigos vadovo kadencijos pabaigos, valstybės ir savivaldybės biudžetinės socialinių paslaugų įstaigos savininko teises ir pareigas įgyvendinanti institucija, viešosios socialinių paslaugų įstaigos visuotinis dalininkų susirinkimas skelbia konkursą socialinių paslaugų įstaigos vadovo pareigoms eiti, išskyrus šio straipsnio 3 dalyje nustatytą atvejį, kai vadovas be konkurso paskiriamas antrajai penkerių metų kadencijai.
+
+6. Jeigu, pasibaigus socialinių paslaugų įstaigos vadovo kadencijai, konkurso į laisvą pareigybę metu pretendentas nebuvo atrinktas, valstybės ir savivaldybės biudžetinės socialinių paslaugų įstaigos savininko teises ir pareigas įgyvendinanti institucija, viešosios socialinių paslaugų įstaigos visuotinis dalininkų susirinkimas gali paskirti eiti šias pareigas iki kadencijos pabaigos socialinių paslaugų įstaigos vadovo pareigas ėjusį ar kitą asmenį, kol konkurso būdu bus į pareigas priimtas naujas socialinių paslaugų įstaigos vadovas, bet ne ilgesniam negu vienų metų laikotarpiui. Šis asmuo turi atitikti šio straipsnio 8 dalyje nustatytus kvalifikacijos reikalavimus ir būti nepriekaištingos reputacijos, kaip nustatyta šio straipsnio 9 dalyje.
+
+7. Jeigu socialinių paslaugų įstaigos vadovo pareigybė atsilaisvina nepasibaigus įstaigos vadovo kadencijai arba įsteigus naują pareigybę, konkursas į socialinių paslaugų įstaigos vadovo pareigas paskelbiamas ne vėliau kaip per vieną mėnesį nuo pareigybės atsilaisvinimo ar naujos pareigybės įsteigimo dienos. Konkursas turi būti baigtas ir jo rezultatai paskelbti ne vėliau kaip per 2 mėnesius nuo konkurso paskelbimo dienos.
+
+8. Socialinių paslaugų įstaigos vadovas privalo turėti aukštojo mokslo kvalifikaciją ir tobulinti profesinę kompetenciją. Valstybės ir savivaldybės biudžetinių socialinių paslaugų įstaigų vadovų veikla vertinama kiekvienais metais socialinės apsaugos ir darbo ministro nustatyta tvarka. Viešųjų socialinių paslaugų įstaigų vadovų veiklos vertinimas kiekvienais metais ir tvarka nustatomi viešosios įstaigos įstatuose.
+
+9. Socialinių paslaugų įstaigų vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi būti nepriekaištingos reputacijos. Kandidatas į socialinių paslaugų įstaigos vadovus ar socialinių paslaugų įstaigos vadovas yra laikomas nepriekaištingos reputacijos šio įstatymo tikslais, jeigu jis atitinka Lietuvos Respublikos valstybės tarnybos įstatyme įstaigų vadovų nepriekaištingai reputacijai nustatytus reikalavimus.
+
+TAR pastaba. 191 straipsnio 9 dalis netaikoma socialinių paslaugų įstaigų vadovams, priimtiems į pareigas iki 2023 m. gruodžio 31 d., jeigu Lietuvos Respublikos valstybės tarnybos įstatyme numatytos sąlygos, dėl kurių socialinių paslaugų įstaigų vadovas nebūtų laikomas nepriekaištingos reputacijos, atsirado iki 2023 m. gruodžio 31 d.
+
+10. Socialinių paslaugų įstaigos vadovą į pareigas priimantis asmuo privalo įsitikinti, kad į socialinių paslaugų įstaigos vadovo pareigas būtų priimti tik nepriekaištingos reputacijos reikalavimus atitinkantys asmenys.
+
+Papildyta straipsniu:
+
+Nr. XIV-2357, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25606
+
+192 straipsnis. Budinčio globotojo vykdoma likusių be tėvų globos vaikų, socialinę riziką patiriančių vaikų priežiūra
+
+Straipsnio numeracijos pakeitimas:
+
+Nr. XIV-2357, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25606
 
 Pakeistas straipsnio pavadinimas:
 
@@ -1790,32 +1826,6 @@ Papildyta straipsniu:
 
 Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 
-192 straipsnis. Globos centro funkcijos, susijusios su vaikų globa (rūpyba)
-
-Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
-
-1) vykdo globėjų (rūpintojų) ir įtėvių paiešką;
-
-2) vykdo globėjų (rūpintojų), įtėvių, šeimynų dalyvių pasirengimo globoti (rūpinti), įvaikinti vaikus vertinimą bei socialinių paslaugų įstaigų, teikiančių paslaugas vaikams, darbuotojų parengimą dirbti šiose įstaigose;
-
-3) Vyriausybės nustatyta tvarka parenka vaikui globėją (rūpintoją) ir teikia rekomendaciją dėl globėjo (rūpintojo) paskyrimo savivaldybės merui, jeigu vaikui nustatoma laikinoji globa (rūpyba), o jeigu nustatoma nuolatinė globa (rūpyba), teikia informaciją apie parinktą globėją (rūpintoją) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos įgaliotam teritoriniam skyriui;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
-
-4) teikia Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai prie Socialinės apsaugos ir darbo ministerijos aktualią informaciją apie asmenis, pasirengusius globoti (rūpinti) vaikus;
-
-5) organizuoja ir pagal globos centro nustatytą poreikį teikia pagalbą globojamiems (rūpinamiems) vaikams;
-
-6) organizuoja ir teikia pagalbą globėjams (rūpintojams), įtėviams, šeimynų dalyviams ir kartu gyvenantiems jų šeimos nariams, socialinių paslaugų įstaigų, teikiančių paslaugas vaikams, darbuotojams;
-
-7) teikia kitas teisės aktuose numatytas paslaugas, susijusias su vaikų globa (rūpyba).
-
-Papildyta straipsniu:
-
-Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
-
 251 straipsnis. Socialinės priežiūros akreditavimas
 
 1. Socialinę priežiūrą akredituoja savivaldybės socialinės apsaugos ir darbo ministro nustatyta tvarka.
@@ -1892,31 +1902,35 @@ Papildyta straipsniu:
 
 Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 
-193 straipsnis. Bendruomeninių šeimos namų veikla ir funkcijos
+193 straipsnis. Globos centro funkcijos, susijusios su vaikų globa (rūpyba)
 
-1. Bendruomeniniai šeimos namai organizuoja, o prireikus ir teikia asmeniui (šeimai) kompleksines paslaugas šeimai kuo arčiau asmens (šeimos) gyvenamosios vietos arba asmens (šeimos) gyvenamojoje vietoje vieno langelio principu.
+Straipsnio numeracijos pakeitimas:
 
-2. Kiekviena savivaldybė turi užtikrinti, kad jos teritorijoje veiktų bent vieni bendruomeniniai šeimos namai.
+Nr. XIV-2357, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25606
 
-3. Bendruomeninių šeimos namų funkcijos:
+Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
 
-1) organizuoti kompleksinių paslaugų šeimai teikimą, o prireikus ir jas teikti;
+1) vykdo globėjų (rūpintojų) ir įtėvių paiešką;
 
-2) informuoti asmenis (šeimas), bendruomenę apie teikiamas kompleksines paslaugas šeimai, konsultuoti juos šių paslaugų teikimo klausimais;
+2) vykdo globėjų (rūpintojų), įtėvių, šeimynų dalyvių pasirengimo globoti (rūpinti), įvaikinti vaikus vertinimą bei socialinių paslaugų įstaigų, teikiančių paslaugas vaikams, darbuotojų parengimą dirbti šiose įstaigose;
 
-3) informuoti tikslines grupes apie kitas aktualias savivaldybės teritorijoje teikiamas socialines paslaugas, vykdomas programas ir (ar) kitą socialinę paramą;
+3) Vyriausybės nustatyta tvarka parenka vaikui globėją (rūpintoją) ir teikia rekomendaciją dėl globėjo (rūpintojo) paskyrimo savivaldybės merui, jeigu vaikui nustatoma laikinoji globa (rūpyba), o jeigu nustatoma nuolatinė globa (rūpyba), teikia informaciją apie parinktą globėją (rūpintoją) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos įgaliotam teritoriniam skyriui;
 
-4) organizuoti bendruomenės įtraukimą į pagalbos asmenims (šeimoms) organizavimą ir (ar) teikimą;
+Straipsnio punkto pakeitimai:
 
-5) plėtoti tarpinstitucinį bendradarbiavimą (socialinio darbo mikrolygmeniu, mezolygmeniu ir makrolygmeniu);
+Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
 
-6) skelbti informaciją apie vykdomą veiklą (funkcijas, teikiamų kompleksinių paslaugų šeimai turinį) savo interneto svetainėje.
+4) teikia Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai prie Socialinės apsaugos ir darbo ministerijos aktualią informaciją apie asmenis, pasirengusius globoti (rūpinti) vaikus;
 
-4. Metodinę pagalbą dėl kompleksinių paslaugų šeimai organizavimo ir (ar) teikimo, jų kokybės gerinimo teikia ir gerąja patirtimi teikiant šias paslaugas dalijasi Metodinis kompleksinių paslaugų šeimai centras socialinės apsaugos ir darbo ministro nustatyta tvarka.
+5) organizuoja ir pagal globos centro nustatytą poreikį teikia pagalbą globojamiems (rūpinamiems) vaikams;
+
+6) organizuoja ir teikia pagalbą globėjams (rūpintojams), įtėviams, šeimynų dalyviams ir kartu gyvenantiems jų šeimos nariams, socialinių paslaugų įstaigų, teikiančių paslaugas vaikams, darbuotojams;
+
+7) teikia kitas teisės aktuose numatytas paslaugas, susijusias su vaikų globa (rūpyba).
 
 Papildyta straipsniu:
 
-Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 201 straipsnis. Socialinių paslaugų srities darbuotojų reguliacija
 
@@ -1971,4 +1985,34 @@ SOCIALINĖS GLOBOS ĮSTAIGŲ LICENCIJAVIMAS IR SOCIALINĖS PRIEŽIŪROS AKREDITA
 Pakeistas skirsnio pavadinimas:
 
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+
+194 straipsnis. Bendruomeninių šeimos namų veikla ir funkcijos
+
+Straipsnio numeracijos pakeitimas:
+
+Nr. XIV-2357, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25606
+
+1. Bendruomeniniai šeimos namai organizuoja, o prireikus ir teikia asmeniui (šeimai) kompleksines paslaugas šeimai kuo arčiau asmens (šeimos) gyvenamosios vietos arba asmens (šeimos) gyvenamojoje vietoje vieno langelio principu.
+
+2. Kiekviena savivaldybė turi užtikrinti, kad jos teritorijoje veiktų bent vieni bendruomeniniai šeimos namai.
+
+3. Bendruomeninių šeimos namų funkcijos:
+
+1) organizuoti kompleksinių paslaugų šeimai teikimą, o prireikus ir jas teikti;
+
+2) informuoti asmenis (šeimas), bendruomenę apie teikiamas kompleksines paslaugas šeimai, konsultuoti juos šių paslaugų teikimo klausimais;
+
+3) informuoti tikslines grupes apie kitas aktualias savivaldybės teritorijoje teikiamas socialines paslaugas, vykdomas programas ir (ar) kitą socialinę paramą;
+
+4) organizuoti bendruomenės įtraukimą į pagalbos asmenims (šeimoms) organizavimą ir (ar) teikimą;
+
+5) plėtoti tarpinstitucinį bendradarbiavimą (socialinio darbo mikrolygmeniu, mezolygmeniu ir makrolygmeniu);
+
+6) skelbti informaciją apie vykdomą veiklą (funkcijas, teikiamų kompleksinių paslaugų šeimai turinį) savo interneto svetainėje.
+
+4. Metodinę pagalbą dėl kompleksinių paslaugų šeimai organizavimo ir (ar) teikimo, jų kokybės gerinimo teikia ir gerąja patirtimi teikiant šias paslaugas dalijasi Metodinis kompleksinių paslaugų šeimai centras socialinės apsaugos ir darbo ministro nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 
