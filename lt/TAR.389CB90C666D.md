@@ -4,7 +4,7 @@ identifier: "TAR.389CB90C666D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-15"
-last_updated: "2023-04-01"
+last_updated: "2023-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "1. Įstatymo 51 straipsnis įsigalioja 2002 m. vas
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-30
+Suvestinė redakcija nuo 2023-12-31 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
 
@@ -783,6 +783,12 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
 1) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs tyčinį smurtinį nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 6 metus laisvės atėmimo;
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalies (2021 m. balandžio 29 d. redakcija, TAR, 2021-05-04, Nr. 9685, identifikacinis kodas 2021-09685) 1 punktas tiek, kiek jame nurodyti asmenys neterminuotai nėra laikomi nepriekaištingos reputacijos asmenimis ir pagal šio įstatymo 17 straipsnio 1 dalies (2022 m. kovo 24 d. redakcija) 2 punktą visam laikui netenka teisės įsigyti ir turėti šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų, prieštarauja konstituciniam teisinės valstybės principui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT30-N3/2023, 2023-03-15, paskelbta TAR 2023-12-31, i. k. 2023-26122
+
 2) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs tyčinį smurtinį nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus, bet neviršija 6 metų laisvės atėmimo, ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 15 metų;
 
 3) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kurį padarė būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 15 metų;
@@ -1241,7 +1247,7 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 10) apie kurį policijos įstaiga turi duomenų, kad jis gali kelti arba kelia grėsmę kitų asmenų ar savo gyvybei ar sveikatai, nuosavybei, viešajai tvarkai ar visuomenės saugumui. Šiuo atveju policijos įstaiga nurodo atsisakymo išduoti leidimą laikyti ginklus, leidimą nešiotis ginklus ar sprendimo panaikinti šių leidimų galiojimą motyvus;
 
-11) apie kurį Valstybės saugumo departamentas turi duomenų, kad jis gali kelti arba kelia grėsmę valstybės saugumui. Šiuos duomenis Valstybės saugumo departamentas perduoda policijos įstaigai.
+11) apie kurį Valstybės saugumo departamentas turi duomenų, kad jis gali kelti arba kelia grėsmę valstybės saugumui. Šiuos duomenis Valstybės saugumo departamentas perduoda policijos įstaigai;
 
 Straipsnio dalies pakeitimai:
 
