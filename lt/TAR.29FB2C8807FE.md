@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2022-12-22"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2022-12-22 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -598,7 +598,11 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 3. Įmonei įstatymų nustatytais pagrindais ir tvarka gali būti skiriamos lėšos įmonės savininko teises ir pareigas įgyvendinančios institucijos sprendimu. Sprendimą iš įmonės lėšų arba iš įmonei skirtų lėšų sukurto turto verte registruoti įmonės savininko kapitalo ar turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo dalies padidėjimą priima Vyriausybė arba savivaldybės taryba, vadovaudamasi Vyriausybės nustatyta tvarka.
 
-4. Iš įmonei skirtų lėšų sukurtas turtas laikomas dotacija, kai lėšos skiriamos infrastruktūrai įsigyti ar sukurti, taip pat įmonės valdomos infrastruktūros vertei padidinti, jeigu infrastruktūra, kuri būtų įsigyta, sukurta ar kurios vertė būtų padidinta, priskirtina turtui, kuris pagal įstatymus gali būti tik valstybės nuosavybė.
+4. Iš įmonei skirtų lėšų sukurtas turtas laikomas dotacija, kai lėšos skiriamos infrastruktūrai, informacinėms sistemoms, informacinių technologijų platformoms ir informacinių technologijų priemonėms įsigyti ar sukurti, taip pat įmonės valdomos infrastruktūros, informacinių sistemų, informacinių technologijų platformų ir informacinių technologijų priemonių vertei padidinti, jeigu infrastruktūra, informacinės sistemos, informacinių technologijų platformos ir informacinių technologijų priemonės, kurios būtų įsigytos, sukurtos ar kurių vertė būtų padidinta, priskirtinos turtui, kuris pagal įstatymus gali būti tik valstybės nuosavybė. Šioje dalyje vartojamos sąvokos yra suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2439, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26028
 
 5. Sprendime įmonei perduoti įmonės savininko turtą patikėjimo teise, jeigu perduodamas turtas nėra dotacija, turi būti nurodyta, kurioje nuosavo kapitalo dalyje – įmonės savininko kapitalo ar turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo – turi būti registruojamas įmonės turto vertės padidėjimas. Įmonei perduodamas patikėjimo teise valdyti turtas laikytinas dotacija, jeigu šis turtas yra trumpalaikis. Sprendime dėl turto perdavimo patikėjimo teise turi būti nurodyta, kad turtas yra dotacija.
 
@@ -722,7 +726,11 @@ Nr. XIII-1454, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11766
 
 11. Įmonės pelno dalis, likusi pagal šio straipsnio 9 dalies 1 punktą sumažinus įmonės pelno įmoką, turi būti skiriama Lietuvos Respublikos Seimo sprendimu pripažintiems ypatingos valstybinės svarbos arba Vyriausybės sprendimu pripažintiems valstybei svarbiems ekonominiams projektams, kuriuos ši įmonė įgyvendina arba dalyvauja juos įgyvendinant.
 
-12. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
+12. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos, išskyrus atvejus, kai pelno įmokos suma mažinamos valstybės biudžeto lėšomis finansuotinos įmonės sąnaudos, kurias įmonė patyrė dėl neatlygintino objektų registravimo registrų informacinėse sistemose, dėl jose ir (ar) valstybės informacinėse sistemose tvarkomų duomenų teikimo ir (ar) kitų su duomenų tvarkymu susijusių veiksmų, vadovaudamasi Valstybės informacinių išteklių valdymo įstatymu. Kai valstybės biudžeto lėšomis finansuotinos įmonės sąnaudos mažinamos tik pelno įmokos sumos dalimi, įmonė likusią pelno įmokos sumos dalį į valstybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo informacinės sistemos valdytojo ir (ar) duomenų valdytojo arba asignavimų valdytojo (jeigu informacinės sistemos valdytojas ir duomenų valdytojas patys nevaldo asignavimų) sprendimo sumažinti mokėtiną pelno įmoką kompensuojamųjų sąnaudų suma priėmimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2439, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26028
 
 Straipsnio pakeitimai:
 
@@ -1387,6 +1395,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1632, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26098
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 10 straipsnio pakeitimo įstatymas
+
+34.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2439, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26028
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 13 ir 15 straipsnių pakeitimo įstatymas
 
 221 straipsnis. Įmonės pertvarkymas į viešąją įstaigą
 
