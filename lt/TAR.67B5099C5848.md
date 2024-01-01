@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2023-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-11-06
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -441,15 +441,11 @@ Nr. XIV-871, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26908
 
 2. Jeigu yra abejonė ar galiojančių įstatymų kolizija dėl konkretaus ginčo priskyrimo, ginčas nagrinėjamas teisme.
 
-20 straipsnis. Apygardos administracinio teismo kompetencija
+20 straipsnis. Regionų administracinio teismo kompetencija
 
-1. Apygardos administracinis teismas yra pirmoji instancija administracinėms byloms, nurodytoms šio įstatymo 17 straipsnyje, išskyrus bylas, nurodytas šio įstatymo 17 straipsnio 1 dalies 11, 13 ir 14 punktuose.
+1. Regionų administracinis teismas yra pirmoji instancija administracinėms byloms, nurodytoms šio įstatymo 17 straipsnyje, išskyrus bylas, nurodytas šio įstatymo 17 straipsnio 1 dalies 11, 13 ir 14 punktuose.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1434, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11744
-
-2. Netaikant išankstinio nagrinėjimo ne teismo tvarka procedūros, apygardos administracinis teismas, kaip pirmosios instancijos teismas, nagrinėja šias bylas:
+2. Netaikant išankstinio nagrinėjimo ne teismo tvarka procedūros, Regionų administracinis teismas, kaip pirmosios instancijos teismas, nagrinėja šias bylas:
 
 1) dėl norminių administracinių aktų, kuriuos priėmė teritoriniai ar savivaldybių administravimo subjektai, teisėtumo;
 
@@ -461,13 +457,21 @@ Nr. XIII-1434, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11744
 
 1. Lietuvos vyriausiasis administracinis teismas yra:
 
-1) apeliacinė instancija byloms, kurias išnagrinėjo administraciniai teismai kaip pirmosios instancijos teismai;
+1) apeliacinė instancija byloms, kurias išnagrinėjo Regionų administracinis teismas kaip pirmosios instancijos teismas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 2) vienintelė ir galutinė instancija byloms dėl norminių administracinių aktų, kuriuos priėmė centriniai valstybinio administravimo subjektai, teisėtumo, taip pat šio įstatymo 17 straipsnio 1 dalies 11 punkte nurodytoms byloms;
 
 3) galutinė instancija byloms pagal skundus dėl Lietuvos Respublikos vyriausiosios rinkimų komisijos sprendimų ar neveikimo, išskyrus skundus, kurie priskirti Konstitucinio Teismo kompetencijai;
 
-4) galutinė instancija administracinių bylų priskyrimo kitiems administraciniams teismams klausimais.
+4) neteko galios nuo 2024-01-01.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 2. Lietuvos vyriausiasis administracinis teismas nagrinėja prašymus dėl proceso atnaujinimo administracinėse bylose, kurios užbaigtos įsiteisėjusiu teismo sprendimu ar nutartimi.
 
@@ -487,13 +491,21 @@ Nr. XIII-1434, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11744
 
 3. Kai administraciniam teismui kyla abejonių, ar byla teisminga bendrosios kompetencijos ar administraciniam teismui, bylos rūšinio teismingumo klausimus rašytinio proceso tvarka išsprendžia speciali teisėjų kolegija, kurią sudaro Lietuvos Aukščiausiojo Teismo Civilinių bylų skyriaus pirmininkas, Lietuvos vyriausiojo administracinio teismo pirmininko pavaduotojas ir po vieną šių teismų pirmininkų paskirtą teisėją.
 
-4. Administracinis teismas motyvuotą nutartį dėl bylos rūšinio teismingumo klausimų sprendimo paduoda per Lietuvos vyriausiąjį administracinį teismą.
+4. Regionų administracinis teismas motyvuotą nutartį dėl bylos rūšinio teismingumo klausimų sprendimo paduoda per Lietuvos vyriausiąjį administracinį teismą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 5. Šio straipsnio 3 dalyje nurodytos specialios teisėjų kolegijos posėdžiams pirmininkauja Lietuvos Aukščiausiojo Teismo Civilinių bylų skyriaus pirmininkas. Specialios teisėjų kolegijos sprendimas priimamas bendru sutarimu arba kolegijos narių balsų dauguma; jeigu balsai pasiskirsto po lygiai, lemia specialios teisėjų kolegijos posėdžio pirmininko balsas. Nutartis dėl bylos rūšinio teismingumo klausimų sprendimo yra galutinė ir neskundžiama.
 
 6. Išsprendus bylos rūšinio teismingumo klausimą, byla kompetentingam ją nagrinėti teismui išsiunčiama per tris darbo dienas nuo specialios teisėjų kolegijos nutarties priėmimo dienos. Be to, speciali teisėjų kolegija turi teisę pareikštus reikalavimus išskirti į atskiras bendrosios kompetencijos ir administraciniame teisme nagrinėtinas bylas.
 
-7. Kai dėl bylos rūšinio teismingumo į specialią teisėjų kolegiją kreipėsi bylą nagrinėjantis apeliacinės instancijos teismas ir speciali teisėjų kolegija konstatavo bylos rūšinio teismingumo taisyklių pažeidimą, pirmosios instancijos teismų sprendimai, kuriais ginčas išspręstas iš esmės, netenka teisinės galios ir byla pagal rūšinį teismingumą perduodama nagrinėti bendrosios kompetencijos teismui.
+7. Kai dėl bylos rūšinio teismingumo į specialią teisėjų kolegiją kreipėsi bylą nagrinėjantis apeliacinės instancijos teismas ir speciali teisėjų kolegija konstatavo bylos rūšinio teismingumo taisyklių pažeidimą, pirmosios instancijos teismo sprendimai, kuriais ginčas išspręstas iš esmės, netenka teisinės galios ir byla pagal rūšinį teismingumą perduodama nagrinėti bendrosios kompetencijos teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 8. Kai byla administraciniam teismui perduodama iš bendrosios kompetencijos teismo, administracinis teismas nustato dalyvaujančių byloje asmenų procesinę padėtį ir prireikus imasi priemonių procesinių dokumentų trūkumams pašalinti.
 
@@ -507,7 +519,11 @@ BENDROSIOS NUOSTATOS DĖL SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ)
 
 2. Su prašymais į administracinių ginčų komisiją arba administracinį teismą kreipiasi viešojo administravimo subjektai, o su skundais – kiti asmenys. Dėl rinkliavų išieškojimo paslaugas teikiančios organizacijos kreipiasi į administracinių ginčų komisiją arba administracinį teismą su prašymais.
 
-3. Šio įstatymo 17 straipsnio 1 dalies 7 ir 11 punktuose, 20 straipsnio 2 dalies 3 ir 12 punktuose, 32 ir 55 straipsniuose, 112 straipsnio 1 ir 2 dalyse ir kitais įstatymuose nustatytais atvejais į administracinį teismą kreipiamasi su pareiškimais. Kiti įstatymai gali nustatyti ir kitas kreipimosi formas.
+3. Šio įstatymo 17 straipsnio 1 dalies 7 ir 11 punktuose, 20 straipsnio 2 dalies 3 ir 9 punktuose, 32 ir 55 straipsniuose, 112 straipsnio 1 ir 2 dalyse ir kitais įstatymuose nustatytais atvejais į administracinį teismą kreipiamasi su pareiškimais. Kiti įstatymai gali nustatyti ir kitas kreipimosi formas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 4. Su skundu (prašymu, pareiškimu) į administracinį teismą tiesiogiai kreipiamasi šio įstatymo 20 straipsnio 2 dalyje nustatytais atvejais.
 
@@ -555,9 +571,29 @@ Nr. XIV-417, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14574
 
 9) pareiškėjo pageidavimas dėl bylos nagrinėjimo rašytinio proceso tvarka;
 
-10) pridedamų dokumentų sąrašas;
+10) pareiškėjo pageidavimas dėl bylos nagrinėjimo naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip) ir (arba) reikalavimas užtikrinti jam ir (ar) jo atstovui galimybę pasinaudoti teismo informacinėmis ir elektroninių ryšių technologijomis (vaizdo konferencijomis, telekonferencijomis ir kita) teismo patalpose;
 
-11) skundo (prašymo, pareiškimo) surašymo vieta ir data.
+Papildyta straipsnio punktu:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+
+11) kai skundą (prašymą, pareiškimą) paduoda keli pareiškėjai, kurių gyvenamoji vieta (buveinė) yra skirtingų teismo rūmų veiklos teritorijose, – bendras pareiškėjų pasirinkimas dėl konkrečių teismo rūmų, kuriuose būtų nagrinėjama administracinė byla;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+
+12) pridedamų dokumentų sąrašas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+
+13) skundo (prašymo, pareiškimo) surašymo vieta ir data.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 3. Skundą (prašymą, pareiškimą) pasirašo pareiškėjas ar jo atstovas. Paduodant skundą (prašymą, pareiškimą) elektroninių ryšių priemonėmis šio straipsnio 4 dalyje nustatyta tvarka, laikoma, kad skundas (prašymas, pareiškimas) yra pasirašytas. Prie atstovo paduodamo skundo (prašymo, pareiškimo) turi būti pridedamas įgaliojimas ar kitoks dokumentas, patvirtinantis atstovo įgaliojimus.
 
@@ -829,11 +865,13 @@ TEISMO SUDĖTIS. TEISĖJO IR KITŲ ASMENŲ NUŠALINIMAS
 
 43 straipsnis. Administracinio teismo sudėtis
 
-1. Administraciniuose teismuose bylas, nurodytas šio įstatymo 17 straipsnio 1 dalies 3, 4 ir 5 punktuose, 131 straipsnio 1 ir 2 dalyse, bylas dėl viešojo administravimo subjektų sprendimų, susijusių su valstybės garantuojamos teisinės pagalbos teikimu, bylas dėl administracinių ginčų komisijų ir kitų kolegialių išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų, taip pat šio įstatymo 99 straipsnio 5 dalyje nustatytais atvejais nagrinėja vienas teisėjas, kitas bylas – trijų teisėjų kolegija. Tam tikrais atvejais teismo pirmininko ar jo paskirto teisėjo nutartimi gali būti sudaroma teisėjų kolegija nagrinėti ir toms byloms, kurioms nustatytas vienasmenis nagrinėjimas. Kai teismas yra sudarytas iš teismo rūmų, teisėjų kolegija sudaroma iš teisėjų, kurie paskirti į tuos pačius teismo rūmus.
+1. Regionų administraciniame teisme bylas, nurodytas šio įstatymo 17 straipsnio 1 dalies 3, 4 ir 5 punktuose, 131 straipsnio 1 ir 2 dalyse, bylas dėl viešojo administravimo subjektų sprendimų, susijusių su valstybės garantuojamos teisinės pagalbos teikimu, bylas dėl administracinių ginčų komisijų ir kitų kolegialių išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų, taip pat šio įstatymo 99 straipsnio 5 dalyje nustatytais atvejais nagrinėja vienas teisėjas, kitas bylas – trijų teisėjų kolegija. Tam tikrais atvejais teismo pirmininko ar jo paskirto teisėjo nutartimi gali būti sudaroma teisėjų kolegija nagrinėti ir toms byloms, kurioms nustatytas vienasmenis nagrinėjimas. Kai teismas yra sudarytas iš teismo rūmų, teisėjų kolegija gali būti sudaroma iš teisėjų, kurie paskirti į tuos pačius ar skirtingus teismo rūmus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 2. Lietuvos vyriausiajame administraciniame teisme bylas nagrinėja trijų teisėjų kolegija. Šio įstatymo nustatytais atvejais bylas Lietuvos vyriausiajame administraciniame teisme gali nagrinėti vienas teisėjas. Teismo pirmininko nutartimi gali būti sudaroma trijų teisėjų kolegija nagrinėti ir toms byloms, kurioms nustatytas vienasmenis nagrinėjimas. Sudėtingoms byloms nagrinėti teismo pirmininko iniciatyva ar kolegijos siūlymu gali būti sudaroma išplėstinė penkių arba septynių teisėjų kolegija arba byla gali būti perduota nagrinėti teismo plenarinei sesijai. Teismo plenarinės sesijos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip du trečdaliai teismo teisėjų.
 
@@ -895,7 +933,11 @@ Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
 
 3. Kai nušalinimas pareiškiamas teismo pirmininkui, nušalinimo klausimą sprendžia didžiausią teisėjo darbo stažą turintis to teismo teisėjas.
 
-4. Tais atvejais, kai apygardos administraciniame teisme nėra pakankamai teisėjų, nušalinimo klausimą sprendžia Lietuvos vyriausiojo administracinio teismo pirmininkas arba teismo pirmininko pavaduotojas, arba teismo pirmininko ar teismo pirmininko pavaduotojo paskirtas teisėjas nedelsdami, bet ne vėliau kaip per tris darbo dienas nuo nušalinimo pareiškimo gavimo Lietuvos vyriausiajame administraciniame teisme dienos. Šiuo atveju nušalinimo pareiškimas ir visi susiję dokumentai, įskaitant nušalinamo teisėjo rašytinius paaiškinimus, jeigu šie pateikti, išsiunčiami Lietuvos vyriausiajam administraciniam teismui ne vėliau kaip per vieną darbo dieną nuo nušalinimo pareiškimo gavimo apygardos administraciniame teisme dienos.
+4. Neteko galios nuo 2024-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 5. Nušalinimo klausimas turi būti sprendžiamas nedelsiant. Jeigu, bylą nagrinėjant teisėjų kolegijai, žodinio bylos nagrinėjimo metu nušalinimas pareiškiamas ne visiems teisėjų kolegijos nariams, nušalinimo klausimas paprastai išsprendžiamas tame pačiame teismo posėdyje, išklausius proceso dalyvių nuomones. Visais kitais atvejais nušalinimo klausimas išsprendžiamas ne vėliau kaip per tris darbo dienas rašytinio proceso tvarka, susipažinus su žodiniais ar rašytiniais asmens, pareiškusio nušalinimą, ir asmens, kuriam pareikštas nušalinimas, paaiškinimais, jeigu šie pateikti.
 
@@ -1011,7 +1053,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
 
-5. Jeigu ginčo šalys taikos sutartį sudaro ir pateikia ją teismui tvirtinti po sprendimo, priimto išnagrinėjus administracinę bylą apygardos administraciniame teisme, priėmimo, bet nepasibaigus jo apskundimo apeliacine tvarka terminui, apygardos administracinis teismas, nutartimi patvirtinęs taikos sutartį, panaikina priimtą sprendimą ir bylą nutraukia. Kol sprendžiamas taikos sutarties tvirtinimo klausimas, apeliacinio skundo padavimo termino eiga sustabdoma. Šioje dalyje nurodytu atveju taikos sutarties tvirtinimo ar atsisakymo ją tvirtinti klausimas gali būti sprendžiamas rašytinio proceso tvarka.
+5. Jeigu ginčo šalys taikos sutartį sudaro ir pateikia ją teismui tvirtinti po sprendimo, priimto išnagrinėjus administracinę bylą Regionų administraciniame teisme, priėmimo, bet nepasibaigus jo apskundimo apeliacine tvarka terminui, Regionų administracinis teismas, nutartimi patvirtinęs taikos sutartį, panaikina priimtą sprendimą ir bylą nutraukia. Kol sprendžiamas taikos sutarties tvirtinimo klausimas, apeliacinio skundo padavimo termino eiga sustabdoma. Šioje dalyje nurodytu atveju taikos sutarties tvirtinimo ar atsisakymo ją tvirtinti klausimas gali būti sprendžiamas rašytinio proceso tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -1165,17 +1211,19 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 63 straipsnis. Teismo pavedimai
 
-1. Prireikus surinkti įrodymus kito teismo veiklos teritorijoje, o kai teismas sudarytas iš teismo rūmų, – to teismo kitų teismo rūmų veiklos teritorijoje, nagrinėjantis bylą teismas atitinkamam teismui ar teismo rūmams gali pavesti atlikti tam tikrus procesinius veiksmus. Jeigu įrodymai yra užsienio valstybėje, bylą nagrinėjantis teismas pavedimą užsienio valstybės teismui siunčia per Lietuvos Respublikos teisingumo ministeriją Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.
+1. Prireikus surinkti įrodymus kitų teismo rūmų veiklos teritorijoje, bylą nagrinėjantis teismas atitinkamiems teismo rūmams gali pavesti atlikti tam tikrus procesinius veiksmus. Jeigu įrodymai yra užsienio valstybėje, bylą nagrinėjantis teismas pavedimą užsienio valstybės teismui siunčia per Lietuvos Respublikos teisingumo ministeriją Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.
 
-2. Nutartyje dėl teismo pavedimo trumpai išdėstoma nagrinėjamos bylos esmė, nurodomos aplinkybės, kurias reikia nustatyti, įrodymai, kuriuos turi surinkti vykdantis pavedimą teismas. Ši nutartis yra privaloma teismui ar teismo rūmams, kuriems ji adresuojama, ir turi būti įvykdyta ne vėliau kaip per dešimt darbo dienų.
+2. Nutartyje dėl teismo pavedimo trumpai išdėstoma nagrinėjamos bylos esmė, nurodomos aplinkybės, kurias reikia nustatyti, įrodymai, kuriuos turi surinkti vykdantis pavedimą teismas ar teismo rūmai. Ši nutartis yra privaloma teismui ar teismo rūmams, kuriems ji adresuojama, ir turi būti įvykdyta ne vėliau kaip per dešimt darbo dienų.
 
 3. Teismo pavedimas įvykdomas teismo posėdyje. Proceso dalyviams pranešama apie posėdžio vietą ir laiką, tačiau jų neatvykimas nekliudo įvykdyti pavedimo.
 
-4. Visa vykdant pavedimą surinkta medžiaga nedelsiant pasiunčiama nagrinėjančiam bylą teismui.
+4. Visa vykdant pavedimą surinkta medžiaga nedelsiant pasiunčiama bylą nagrinėjančiam teismui ar teismo rūmams.
 
 Straipsnio pakeitimai:
 
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 X SKYRIUS
 
@@ -1205,33 +1253,23 @@ PROCESINIŲ VEIKSMŲ ATLIKIMO TERMINAI
 
 6. Jeigu skundas (prašymas, pareiškimas), dokumentai ar pinigų sumos įteikti paštui arba išsiųsti elektroninių ryšių priemonėmis iki paskutinės termino dienos dvidešimt ketvirtos valandos, terminas nelaikomas praleistu.
 
-31 straipsnis. Teritorinis administracinių bylų teismingumas. Procesinių dokumentų pateikimo vieta
+31 straipsnis. Administracinių bylų teismingumas. Procesinių dokumentų pateikimo vieta
 
-Pakeistas straipsnio pavadinimas:
+1. Administracinė byla yra nagrinėjama:
 
-Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+1) teismo rūmuose, kurių veiklos teritorijoje yra pareiškėjo gyvenamoji vieta (buveinė), jei ji yra Lietuvos Respublikos teritorijoje;
 
-1. Skundas (prašymas, pareiškimas) paduodamas tam administraciniam teismui, kurio veikimo teritorijoje yra atsakovo buveinė (gyvenamoji vieta), o jeigu atsakovas yra valstybė arba savivaldybė, – tam administraciniam teismui, kurio teritorijoje yra atsakovui atstovaujančios institucijos buveinė. Jeigu viešojo administravimo subjekto, jo teritorinio padalinio, teritorinio viešojo administravimo subjekto arba pareigūno, veikiančio Lietuvos Respublikos teritorijos dalyje, administracinio akto ar veiksmo (neveikimo) teisėtumas buvo patikrintas (nagrinėjamas) aukštesniojo pagal pavaldumą viešojo administravimo subjekto ir (arba) kitos išankstinio ginčų nagrinėjimo ne teismo tvarka institucijos, skundas (prašymas, pareiškimas) administraciniam teismui paduodamas pagal to viešojo administravimo subjekto, jo teritorinio padalinio, teritorinio viešojo administravimo subjekto arba pareigūno, kurio administracinio akto ar veiksmo (neveikimo) teisėtumas buvo tikrinamas (nagrinėjamas), buveinės vietą.
+2) kai skundą (prašymą, pareiškimą) paduoda pareiškėjas, kurio gyvenamoji vieta (buveinė) yra ne Lietuvos Respublikos teritorijoje, – pareiškėjo pasirinktuose teismo rūmuose;
 
-2. Bylose dėl žalos, atsiradusios dėl viešojo administravimo subjektų neteisėtų veiksmų, atlyginimo, bylose dėl pensijų skyrimo ar atsisakymo jas skirti, taip pat bylose dėl neįgaliųjų teisių gynimo, pareiškėjo pasirinkimu skundas (prašymas) administraciniam teismui gali būti paduodamas pagal šio straipsnio 1 dalyje nustatytas taisykles arba pagal pareiškėjo gyvenamąją (buveinės) vietą. Tarnybiniuose ginčuose, taip pat ginčuose, kylančiuose dėl materialinės atsakomybės ir regreso (atgręžtinio reikalavimo) teisės įgyvendinimo pagal Valstybės tarnybos įstatymą, pareiškėjo pasirinkimu skundas (prašymas) gali būti paduodamas pagal šio straipsnio 1 dalyje nustatytas taisykles arba pagal vietą, kurioje tarnyba yra atliekama, buvo atliekama ar turėjo būti atliekama.
+3) kai skundą (prašymą, pareiškimą) paduoda keli pareiškėjai, kurių gyvenamoji vieta (buveinė) yra skirtingų teismo rūmų veiklos teritorijose, – pareiškėjų bendrai pasirinktuose teismo rūmuose, kurių veiklos teritorijoje yra bent vieno iš pareiškėjų gyvenamoji vieta (buveinė).
 
-Straipsnio dalies pakeitimai:
+2. Šio straipsnio 1 dalyje nurodytos teismingumo taisyklės gali būti netaikomos, kai byla nagrinėjama rašytinio proceso tvarka.
 
-Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
+3. Skundas (prašymas, pareiškimas) teismui paduodamas bet kuriuose teismo rūmuose, o kiti procesiniai dokumentai – teismo rūmuose, kuriuose paskirta nagrinėti byla.
 
-3. Kai byloje yra keli tarpusavyje susiję reikalavimai, iš kurių vieni pagal šio įstatymo 20 straipsnio 4 dalį priskirtini Vilniaus apygardos administraciniam teismui, o kiti – Regionų apygardos administraciniam teismui, skundas (prašymas, pareiškimas) turi būti paduodamas Vilniaus apygardos administraciniam teismui. Kitais atvejais, kai yra keli tarpusavyje susiję reikalavimai, kurie gali būti nagrinėjami skirtingų apygardų administraciniuose teismuose, skundas (prašymas, pareiškimas) administraciniam teismui paduodamas pareiškėjo pasirinkimu.
+Straipsnio pakeitimai:
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
-
-4. Skundas (prašymas, pareiškimas) keliems atsakovams, gyvenantiems ar esantiems ne toje pačioje vietoje, paduodamas pagal vieno iš atsakovų buveinę pareiškėjo pasirinkimu. Jeigu dėl vieno iš atsakovų byla yra teisminga Vilniaus apygardos administraciniam teismui pagal šio įstatymo 20 straipsnio 4 dalį, skundas (prašymas, pareiškimas) paduodamas Vilniaus apygardos administraciniam teismui.
-
-5. Kai byla yra teisminga iš teismo rūmų sudarytam teismui, skundas (prašymas, pareiškimas) šiam teismui paduodamas bet kuriuose šio teismo rūmuose, o kiti procesiniai dokumentai – teismo rūmuose, į kuriuos paskirtam teisėjui ar teisėjams paskirta nagrinėti byla.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 66 straipsnis. Procesinių veiksmų atlikimo terminų sustabdymas ir terminų praleidimo pasekmės
 
@@ -1313,7 +1351,11 @@ Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 
 68 straipsnis. Bylų sujungimas ir išskyrimas
 
-1. Bylą posėdžiui rengiančiam teisėjui ar ją nagrinėjančiam teismui nustačius, kad teisme arba skirtinguose apygardų administraciniuose teismuose yra du ar daugiau pareiškimų (prašymų) patikrinti to paties norminio administracinio akto teisėtumą arba skundas (prašymas, pareiškimas) paduotas skirtingų pareiškėjų, tačiau dėl to paties atsakovo to paties teisės akto ar veiksmo (neveikimo), iki bylos nagrinėjimo iš esmės pabaigos šie skundai (prašymai, pareiškimai) gali būti nutartimi sujungti į vieną bylą. Kai šioje dalyje nurodyti skundai (prašymai, pareiškimai) yra tame pačiame teisme, juos sujungia bylą posėdžiui rengiantis teisėjas arba bylą nagrinėjantis teismas. Kai šioje dalyje nurodyti skundai (prašymai, pareiškimai) yra skirtinguose to paties teismo rūmuose, nutartį dėl jų sujungimo priima teismo pirmininkas ar pirmininko pavaduotojas, kartu išspręsdamas klausimą dėl sujungtos bylos perdavimo nagrinėti konkretiems teismo rūmams. Klausimą dėl skirtinguose apygardų administraciniuose teismuose esančių skundų (prašymų, pareiškimų) sujungimo ir sujungtos bylos perdavimo nagrinėti konkrečiam teismui ar konkretiems teismo rūmams išsprendžia Lietuvos vyriausiojo administracinio teismo pirmininkas arba pirmininko pavaduotojas bylą nagrinėjančio teismo prašymu.
+1. Bylą posėdžiui rengiančiam teisėjui ar ją nagrinėjančiam teismui nustačius, kad teisme yra du ar daugiau pareiškimų (prašymų) patikrinti to paties norminio administracinio akto teisėtumą arba skundas (prašymas, pareiškimas) paduotas skirtingų pareiškėjų, tačiau dėl to paties atsakovo to paties teisės akto ar veiksmo (neveikimo), iki bylos nagrinėjimo iš esmės pabaigos šie skundai (prašymai, pareiškimai) gali būti nutartimi sujungti į vieną bylą. Nutartį dėl šioje dalyje nurodytų skundų (prašymų, pareiškimų) sujungimo priima teismo pirmininkas ar pirmininko pavaduotojas, kartu išspręsdamas klausimą dėl sujungtos bylos perdavimo nagrinėti konkretiems teismo rūmams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 2. Kai byloje yra daugiau kaip vienas reikalavimas, prireikus teismas kai kuriuos iš jų gali išskirti į atskirą bylą (bylas).
 
@@ -1321,33 +1363,25 @@ Straipsnio pakeitimai:
 
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 
-69 straipsnis. Bylos perdavimas kitam teismui
+69 straipsnis. Bylos perdavimas kitam teismui ar kitiems teismo rūmams
 
-1. Teismas perduoda bylą nagrinėti kitam teismui, o kai teismas sudarytas iš teismo rūmų, – to teismo kitiems teismo rūmams:
+1. Teismas perduoda bylą nagrinėti kitam teismui, o kai teismas sudarytas iš teismo rūmų, – to teismo kitiems teismo rūmams:
 
-1) jeigu, nušalinus vieną ar kelis teisėjus, jų pakeisti kitais tame teisme, o kai teismas sudarytas iš teismo rūmų, – to teismo rūmuose negalima (išskyrus šio straipsnio 3, 4 ir 5 dalyse nurodytus atvejus);
+1) jeigu paaiškėja, kad byla buvo priimta teismo žinion pažeidžiant priskirtinumo teismams ar rūšinio teismingumo taisykles;
 
-2) jeigu paaiškėja, kad byla buvo priimta teismo žinion pažeidžiant priskirtinumo teismams taisykles;
+2) pripažinus, kad byla operatyviau ir ekonomiškiau bus išnagrinėta kituose teismo rūmuose, kai teismas sudarytas iš teismo rūmų, atsižvelgiant į faktines aplinkybes, susijusias su pagrįstu tolygaus darbo krūvio paskirstymu konkrečios kategorijos bylų nagrinėjimo atvejais.
 
-3) pripažinęs, kad byla operatyviau ir ekonomiškiau bus išnagrinėta kitame teisme, o kai teismas sudarytas iš teismo rūmų, – to teismo kituose teismo rūmuose, konkrečiai – pagal pareiškėjo ar daugumos pareiškėjų, jei skundą (prašymą, pareiškimą) padavė ne vienas asmuo, gyvenamąją vietą ar buveinę arba pagal nekilnojamojo turto, tiesiogiai susijusio su kilusiu ginču, buvimo vietą, arba pagal ginčijamo teisės akto priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas teisės aktas, vietą, arba atsižvelgęs į kitas faktines aplinkybes, susijusias su pagrįstu tolygaus darbo krūvio paskirstymu konkrečios kategorijos bylų nagrinėjimo atvejais.
+2. Bylos perdavimo iš vieno teismo kitam teismui klausimą išsprendžia bylą perduodančio teismo teisėjų kolegija arba Lietuvos vyriausiojo administracinio teismo pirmininkas. Bylos perdavimo kitiems teismo rūmams klausimą išsprendžia teismo pirmininkas.
 
-Straipsnio punkto pakeitimai:
+3. Kai teisėjas byloje yra proceso šalis ir byla priskirta teismo rūmams, kuriuose jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju, teismo pirmininkas perduoda šią bylą nagrinėti kitiems teismo rūmams. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teisėjo giminaičiai.
 
-Nr. XIV-508, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16269
-
-2. Bylos perdavimo iš vieno teismo kitam teismui klausimą išsprendžia bylą perduodančio teismo teisėjų kolegija arba Lietuvos vyriausiojo administracinio teismo pirmininkas, o bylos perdavimo iš vieno teismo kitam teismui šio straipsnio 1 dalies 3 punkte nustatytais atvejais klausimą – Lietuvos vyriausiojo administracinio teismo pirmininkas bylą perduodančio teismo pirmininko teikimu. Bylos perdavimo to paties teismo kitiems teismo rūmams klausimą išsprendžia šio teismo pirmininkas.
-
-3. Kai proceso šalis yra teisėjas ir byla teisminga teismui, kuriame jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju (išskyrus Lietuvos vyriausiąjį administracinį teismą), Lietuvos vyriausiojo administracinio teismo pirmininkas bylą perduoda nagrinėti kitam teismui, išskyrus šio straipsnio 4 dalyje nurodytus atvejus. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teisėjo giminaičiai.
-
-4. Kai teisėjas byloje yra proceso šalis ir byla teisminga iš teismo rūmų sudarytam teismui, kuriame jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju, tokio teismo pirmininkas perduoda šią bylą nagrinėti to teismo kitiems teismo rūmams, į kuriuos šie asmenys nėra paskirti. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teisėjo giminaičiai.
-
-5. Kai teismo pirmininkas ar teismo pirmininko pavaduotojas byloje yra proceso šalis ir byla teisminga iš teismo rūmų sudarytam teismui, kuriame jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju, Lietuvos vyriausiojo administracinio teismo pirmininkas perduoda šią bylą nagrinėti kitam teismui. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teismo pirmininko ar teismo pirmininko pavaduotojo giminaičiai.
-
-6. Kiekvieną bylą, iš vieno teismo perduotą kitam, turi besąlygiškai priimti savo žinion tas teismas, kuriam ji perduota, ir jokie ginčai dėl to tarp teismų neleidžiami, išskyrus šio įstatymo 22 straipsnyje nustatytus atvejus.
+4. Kiekvieną bylą, iš vieno teismo perduotą kitam, turi besąlygiškai priimti savo žinion tas teismas, kuriam ji perduota, ir jokie ginčai dėl to tarp teismų neleidžiami, išskyrus šio įstatymo 22 straipsnyje nustatytus atvejus.
 
 Straipsnio pakeitimai:
 
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 70 straipsnis. Reikalavimo užtikrinimo priemonės
 
@@ -1389,11 +1423,13 @@ Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 71 straipsnis. Atsiliepimo į skundą (prašymą, pareiškimą) reikalavimas
 
-Teismo pirmininkas ar teisėjas nusiunčia atsakovui skundo (prašymo, pareiškimo) nuorašą (skaitmeninę kopiją), o reikiamais atvejais – ir pridėtų prie jo dokumentų nuorašus (skaitmenines kopijas), taip pat paprastai nustato ne trumpesnį kaip keturiolikos kalendorinių dienų nuo skundo (prašymo, pareiškimo) nuorašo (skaitmeninės kopijos) gavimo terminą, per kurį atsakovas raštu privalo pateikti teismui savo atsiliepimą į skundą (prašymą, pareiškimą). Kai atsakovas yra viešojo administravimo subjektas, jis privalo pateikti atsiliepimus į skundą (prašymą, pareiškimą) tokios formos, kokios pageidauja pareiškėjas, o jeigu pareiškėjas pageidavimo dėl procesinių dokumentų formos nepareiškė, – tokios formos, kokios buvo paduotas skundas (prašymas, pareiškimas). Atsiliepime į skundą (prašymą, pareiškimą) atsakovas nurodo, ar jis sutinka, ar nesutinka su skundo (prašymo, pareiškimo) reikalavimais, ar dalyvaus bylą nagrinėjant teismo posėdyje, taip pat nuomonę dėl ketinimo ir galimybių ginčą spręsti teisminės mediacijos būdu. Atsiliepimo su priedais egzempliorių (kopijų) turi būti tiek, kad po vieną tektų kiekvienai proceso šaliai ir dar liktų egzempliorius teisme, išskyrus atvejus, kai atsiliepimas paduodamas elektroninių ryšių priemonėmis ir kai dėl didelės dokumento apimties teismas leidžia nepateikti priedų. Gavus iš atsakovo rašytinį atsiliepimą, jo nuorašai (skaitmeninės kopijos) išsiunčiami proceso šalims.
+Teismo pirmininkas ar teisėjas nusiunčia atsakovui skundo (prašymo, pareiškimo) nuorašą (skaitmeninę kopiją), o reikiamais atvejais – ir pridėtų prie jo dokumentų nuorašus (skaitmenines kopijas), taip pat paprastai nustato ne trumpesnį kaip keturiolikos kalendorinių dienų nuo skundo (prašymo, pareiškimo) nuorašo (skaitmeninės kopijos) gavimo terminą, per kurį atsakovas raštu privalo pateikti teismui savo atsiliepimą į skundą (prašymą, pareiškimą). Kai atsakovas yra viešojo administravimo subjektas, jis privalo pateikti atsiliepimus į skundą (prašymą, pareiškimą) tokios formos, kokios pageidauja pareiškėjas, o jeigu pareiškėjas pageidavimo dėl procesinių dokumentų formos nepareiškė, – tokios formos, kokios buvo paduotas skundas (prašymas, pareiškimas). Atsiliepime į skundą (prašymą, pareiškimą) atsakovas nurodo, ar jis sutinka, ar nesutinka su skundo (prašymo, pareiškimo) reikalavimais, ar dalyvaus bylą nagrinėjant teismo posėdyje, ar pageidauja, kad byla būtų nagrinėjama naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), ir (arba) ar reikalauja užtikrinti jam ir (ar) jo atstovui galimybę pasinaudoti teismo informacinėmis ir elektroninių ryšių technologijomis (vaizdo konferencijomis, telekonferencijomis ir kitaip) teismo patalpose, taip pat nuomonę dėl ketinimo ir galimybių ginčą spręsti teisminės mediacijos būdu. Atsiliepimo su priedais egzempliorių (kopijų) turi būti tiek, kad po vieną tektų kiekvienai proceso šaliai ir dar liktų egzempliorius teisme, išskyrus atvejus, kai atsiliepimas paduodamas elektroninių ryšių priemonėmis ir kai dėl didelės dokumento apimties teismas leidžia nepateikti priedų. Gavus iš atsakovo rašytinį atsiliepimą, jo nuorašai (skaitmeninės kopijos) išsiunčiami proceso šalims.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 72 straipsnis. Teismo šaukimas ir pranešimas
 
@@ -1419,13 +1455,19 @@ Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 1) adresato pavadinimas arba asmens vardas, pavardė, adresas;
 
-2) teismo pavadinimas, tikslus adresas, o kai teismas sudarytas iš teismo rūmų, – ir teismo rūmų, į kuriuos paskirtas teisėjas ar teisėjai nagrinėja bylą, pavadinimas ir tikslus adresas;
+2) teismo pavadinimas ir teismo rūmų, kuriuose nagrinėjama byla, tikslus adresas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 
-3) teismo posėdžio ar atskiro procesinio veiksmo atlikimo vieta ir laikas;
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+
+3) teismo posėdžio ar atskiro procesinio veiksmo atlikimo vieta ir laikas, o tuo atveju, kai posėdis organizuojamas naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), – prisijungimo prie posėdžio duomenys;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 4) bylos, kurioje dalyvauti adresatas šaukiamas, pavadinimas, numeris, teisminio proceso numeris ir ginčo šalys;
 
@@ -1437,7 +1479,11 @@ Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 
 8) neatvykimo pasekmės (šio įstatymo 58, 77, 83 ir 105 straipsniai).
 
-2. Po šaukimo tekstu nurodomos proceso šalių pagrindinės procesinės teisės ir pareigos. Šaukimo įteikimas reiškia, kad proceso šaliai yra išaiškintos jos procesinės teisės.
+2. Po šaukimo tekstu nurodomos proceso šalių pagrindinės procesinės teisės ir pareigos. Šaukime taip pat nurodoma, kad tretieji suinteresuoti asmenys gali pageidauti, kad byla būtų nagrinėjama naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), ir (arba) gali pageidauti užtikrinti jiems ir (ar) jų atstovams galimybę pasinaudoti teismo informacinėmis ir elektroninių ryšių technologijomis (vaizdo konferencijomis, telekonferencijomis ar kitaip) teismo patalpose. Šaukimo įteikimas reiškia, kad proceso šaliai yra išaiškintos jos procesinės teisės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 74 straipsnis. Šaukimo pristatymas paštu ar per kurjerius, šaukimo įteikimas
 
@@ -1493,17 +1539,31 @@ Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
 3. Proceso dalyvių neatvykimas į teismo posėdį, jeigu jiems buvo apie teismo posėdį tinkamai pranešta, nėra kliūtis bylai nagrinėti ir sprendimui priimti.
 
-4. Teismo posėdžiai vyksta teismo, kurio teisėjas ar teisėjai nagrinėja bylą, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos paskirtas (paskirti) bylą nagrinėjantis teisėjas ar teisėjai, patalpose.
+4. Teismo posėdžiai vyksta teismo rūmuose, kuriuose nagrinėjama byla.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
-5. Žodinis bylos nagrinėjimas gali vykti ir ne šio straipsnio 4 dalyje nurodytose patalpose, jeigu kitoje vietoje byla bus išnagrinėta operatyviau ir ekonomiškiau, konkrečiai – pagal daugumos įrodymų buvimo vietą arba proceso dalyvių ar daugumos proceso dalyvių gyvenamąją vietą ar buveinę, arba pagal nekilnojamojo turto, tiesiogiai susijusio su nagrinėjama byla, buvimo vietą, arba pagal ginčijamo sprendimo priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas sprendimas, vietą.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+
+5. Kai byla žodinio proceso tvarka nagrinėjama naudojant saugias informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), teisėjų kolegijos nariai teismo posėdyje gali dalyvauti iš skirtingų teismo (teismo rūmų) patalpų. Bylos nagrinėjimo naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip) metu administracinės bylos proceso dalyviai, vertėjai, ekspertai, specialistai ir liudytojai gali būti skirtingose teismo (teismo rūmų) ar ne teismo patalpose.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+
+6. Žodinis bylos nagrinėjimas gali vykti ir ne šio straipsnio 4 dalyje nurodytose patalpose, jeigu kitoje vietoje byla bus išnagrinėta operatyviau ir ekonomiškiau, konkrečiai – pagal daugumos įrodymų buvimo vietą arba proceso dalyvių ar daugumos proceso dalyvių gyvenamąją vietą ar buveinę, arba pagal nekilnojamojo turto, tiesiogiai susijusio su nagrinėjama byla, buvimo vietą, arba pagal ginčijamo sprendimo priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas sprendimas, vietą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 78 straipsnis. Bylos nagrinėjimo teisme betarpiškumas, žodiškumas ir nepertraukiamumas
 
@@ -1825,7 +1885,11 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 4. Neįvykdyti teismo sprendimai dėl žalos atlyginimo, dėl priteistų sumų ir nesumokėtų baudų išieškojimo, taip pat neįvykdytos teismo patvirtintos taikos sutartys vykdomi Civilinio proceso kodekso nustatyta tvarka. Šiais atvejais vykdomieji dokumentai pareiškėjui išduodami teismo sprendimui įsiteisėjus.
 
-5. Šio straipsnio 4 dalyje nurodytų teismo sprendimų ir taikos sutarčių vykdymo metu Civilinio proceso kodekso nustatyta tvarka gali būti sudaromos taikos sutartys. Sudarytos taikos sutartys perduodamos apygardos administraciniam teismui, kurio veiklos teritorijoje yra antstolio kontoros buveinė.
+5. Šio straipsnio 4 dalyje nurodytų teismo sprendimų ir taikos sutarčių vykdymo metu Civilinio proceso kodekso nustatyta tvarka gali būti sudaromos taikos sutartys. Sudarytos taikos sutartys perduodamos Regionų administracinio teismo rūmams, kurių veiklos teritorijoje yra antstolio kontoros buveinė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 KETVIRTASIS SKIRSNIS
 
@@ -2033,7 +2097,11 @@ Teismo nutarties patvirtintos kopijos (nuorašai) išduodamos ar išsiunčiamos 
 
 110 straipsnis. Atskirosios nutartys
 
-1. Jeigu teismas, nagrinėdamas administracinę bylą, padaro išvadą, kad pareigūnai, institucijos, įstaigos, įmonės, organizacijos ir asmenys pažeidė įstatymus ar kitus teisės aktus, priima atskirąją nutartį, kurioje nurodo padarytus pažeidimus ir nusiunčia ją atitinkamoms viešojo administravimo institucijoms, įmonių, įstaigų, organizacijų vadovams.
+1. Jeigu teismas, nagrinėdamas administracinę bylą, padaro išvadą, kad pareigūnai, institucijos, įstaigos, įmonės, organizacijos ir asmenys pažeidė įstatymus ar kitus teisės aktus, priima atskirąją nutartį, kurioje nurodo padarytus pažeidimus ir nusiunčia ją atitinkamoms institucijoms, įmonių, įstaigų, organizacijų vadovams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2248, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22978
 
 2. Apie priimtas priemones dėl atskirosios nutarties teismui atsakoma per vieną mėnesį.
 
@@ -2229,7 +2297,11 @@ GRUPĖS SKUNDAS
 
 127 straipsnis. Individualiosios vienarūšės bylos
 
-1. Jeigu yra duomenų, kad viename ar keliuose apygardų administraciniuose teismuose yra nagrinėjama daugiau kaip dvidešimt teisės ir faktų požiūriu vienarūšių individualių administracinių bylų (toliau – individualiosios vienarūšės bylos), šios bylos gali būti nagrinėjamos šiame skirsnyje nustatyta modelinio teismo proceso tvarka. Šiame skirsnyje neaptartais atvejais taikomos kitos šio įstatymo nuostatos.
+1. Jeigu yra duomenų, kad Regionų administraciniame teisme yra nagrinėjama daugiau kaip dvidešimt teisės ir faktų požiūriu vienarūšių individualių administracinių bylų (toliau – individualiosios vienarūšės bylos), šios bylos gali būti nagrinėjamos šiame skirsnyje nustatyta modelinio teismo proceso tvarka. Šiame skirsnyje neaptartais atvejais taikomos kitos šio įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 2. Viena ar daugiau iš šio straipsnio 1 dalyje nurodytų administracinių bylų gali būti nagrinėjama šio įstatymo 129 straipsnyje nustatyta tvarka ir vadinama modeline byla (modelinėmis bylomis).
 
@@ -2239,17 +2311,25 @@ Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 129 straipsnis. Modelinės bylos nagrinėjimo ypatumai
 
-1. Modelinę bylą nagrinėja apygardos administracinio teismo trijų teisėjų kolegija. Modelines bylas Lietuvos vyriausiajame administraciniame teisme nagrinėja išplėstinė teisėjų kolegija arba teismo plenarinė sesija.
+1. Modelinę bylą nagrinėja Regionų administracinio teismo trijų teisėjų kolegija. Modelines bylas Lietuvos vyriausiajame administraciniame teisme nagrinėja išplėstinė teisėjų kolegija arba teismo plenarinė sesija.
 
-2. Administraciniai teismai imasi priemonių modelinę bylą išnagrinėti kiek įmanoma greičiau.
+2. Teismas imasi priemonių modelinę bylą išnagrinėti kiek įmanoma greičiau.
 
 3. Teismas atmeta individualiosios vienarūšės bylos proceso šalies prašymą jį įtraukti trečiuoju suinteresuotu asmeniu į modelinės bylos procesą, jeigu nenustato, kad jo dalyvavimas yra būtinas tinkamai išnagrinėti modelinę bylą. Ši nutartis atskiruoju skundu neskundžiama.
 
+Straipsnio pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+
 130 straipsnis. Individualiųjų vienarūšių bylų nagrinėjimo atnaujinamas
 
-1. Įsiteisėjus teismo sprendimui modelinėje byloje, individualiųjų vienarūšių bylų nagrinėjimas yra atnaujinamas, išskyrus šio straipsnio 2 dalyje nustatytą atvejį. Apie teismo sprendimo modelinėje byloje, išnagrinėtoje apeliacine tvarka Lietuvos vyriausiajame administraciniame teisme, įsiteisėjimą pranešama visiems apygardų administraciniams teismams ir paskelbiama Lietuvos vyriausiojo administracinio teismo interneto svetainėje.
+1. Įsiteisėjus teismo sprendimui modelinėje byloje, individualiųjų vienarūšių bylų nagrinėjimas yra atnaujinamas, išskyrus šio straipsnio 2 dalyje nustatytą atvejį. Apie teismo sprendimo modelinėje byloje, išnagrinėtoje apeliacine tvarka Lietuvos vyriausiajame administraciniame teisme, įsiteisėjimą pranešama Regionų administraciniam teismui ir paskelbiama Lietuvos vyriausiojo administracinio teismo interneto svetainėje.
 
-2. Apygardų administraciniai teismai apie teismo sprendimo modelinėje byloje, išnagrinėtoje apeliacine tvarka Lietuvos vyriausiajame administraciniame teisme, kurioje pareiškėjo reikalavimai buvo atmesti, įsiteisėjimą praneša individualiųjų vienarūšių bylų proceso šalims, išaiškindami teisę paduoti prašymą atnaujinti individualiosios vienarūšės bylos nagrinėjimą ir tokio prašymo nepadavimo teisines pasekmes. Jeigu per vieną mėnesį nuo pranešimo apie teismo sprendimą, kuriuo pareiškėjo reikalavimai buvo atmesti modelinėje byloje, gavimo individualiosios vienarūšės bylos proceso šalis nepaduoda prašymo atnaujinti individualiosios vienarūšės bylos nagrinėjimą, skundas (prašymas, pareiškimas) individualiojoje vienarūšėje byloje paliekamas nenagrinėtas. Per nustatytą terminą pateikus minėtą prašymą, individualiosios vienarūšės bylos nagrinėjimas yra atnaujinamas.
+2. Regionų administracinis teismas apie teismo sprendimo modelinėje byloje, išnagrinėtoje apeliacine tvarka Lietuvos vyriausiajame administraciniame teisme, kurioje pareiškėjo reikalavimai buvo atmesti, įsiteisėjimą praneša individualiųjų vienarūšių bylų proceso šalims, išaiškindamas teisę paduoti prašymą atnaujinti individualiosios vienarūšės bylos nagrinėjimą ir tokio prašymo nepadavimo teisines pasekmes. Jeigu per vieną mėnesį nuo pranešimo apie teismo sprendimą, kuriuo pareiškėjo reikalavimai buvo atmesti modelinėje byloje, gavimo individualiosios vienarūšės bylos proceso šalis nepaduoda prašymo atnaujinti individualiosios vienarūšės bylos nagrinėjimą, skundas (prašymas, pareiškimas) individualiojoje vienarūšėje byloje paliekamas nenagrinėtas. Per nustatytą terminą pateikus minėtą prašymą, individualiosios vienarūšės bylos nagrinėjimas yra atnaujinamas.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 131 straipsnis. Individualiųjų vienarūšių bylų nagrinėjimas
 
@@ -2265,9 +2345,17 @@ PENKTASIS SKIRSNIS
 
 PAREIŠKIMAS DĖL TEISMO ĮSAKYMO IŠDAVIMO
 
-132 straipsnis. Apygardų administracinių teismų sprendimų apskundimas
+132 straipsnis. Regionų administracinio teismo sprendimų apskundimas
 
-1. Apygardų administracinių teismų sprendimai, priimti nagrinėjant bylas pirmąja instancija, apeliacine tvarka per trisdešimt kalendorinių dienų nuo sprendimo paskelbimo gali būti skundžiami Lietuvos vyriausiajam administraciniam teismui.
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+
+1. Regionų administracinio teismo sprendimai, priimti nagrinėjant bylas pirmąja instancija, apeliacine tvarka per trisdešimt kalendorinių dienų nuo sprendimo paskelbimo gali būti skundžiami Lietuvos vyriausiajam administraciniam teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 2. Praleidus terminą apeliaciniam skundui paduoti, apelianto prašymu pirmosios instancijos teismas, per kurį paduodamas apeliacinis skundas, apeliacinio skundo padavimo terminą gali atnaujinti, jeigu bus pripažinta, kad terminas praleistas dėl svarbios priežasties. Dėl pirmosios instancijos teismo nutarties, kuria atsisakoma atnaujinti terminą apeliaciniam skundui paduoti, gali būti duodamas atskirasis skundas. Jeigu Lietuvos vyriausiasis administracinis teismas tokį atskirąjį skundą patenkina ir praleistą apeliacinio skundo padavimo terminą atnaujina, teismas ta pačia nutartimi išsprendžia apeliacinio skundo priėmimo klausimą.
 
@@ -2315,7 +2403,11 @@ Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 9) pageidavimai dėl teismo sprendimo, kitų procesinių dokumentų gavimo elektroninių ryšių priemonėmis;
 
-10) apelianto prašymas bylą nagrinėti žodinio proceso tvarka, kai jis to pageidauja;
+10) apelianto prašymas bylą nagrinėti žodinio proceso tvarka, kai jis to pageidauja, taip pat pageidavimas dėl bylos nagrinėjimo naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip) ir (arba) reikalavimas užtikrinti jam ir (ar) jo atstovui galimybę pasinaudoti teismo informacinėmis ir elektroninių ryšių technologijomis (vaizdo konferencijomis, telekonferencijomis ir kita) teismo patalpose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 11) pridedamų prie apeliacinio skundo dokumentų sąrašas.
 
@@ -2597,7 +2689,11 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 1. Prašymą atnaujinti procesą turi teisę paduoti proceso šalys ir jų atstovai, neįtraukti į bylos nagrinėjimą asmenys, jeigu įsiteisėjęs sprendimas ar nutartis pažeidžia jų teises ar įstatymų saugomus interesus, taip pat prokuroras ir viešojo administravimo subjektai, kad būtų apgintas viešasis interesas ar apgintos valstybės ir asmenų teisės bei įstatymų saugomi interesai. Neįtraukti į bylos nagrinėjimą asmenys gali paduoti prašymus atnaujinti procesą tik šio įstatymo 156 straipsnio 2 dalies 7 punkte nurodytu pagrindu.
 
-2. Apygardos administracinio teismo pirmininko siūlymu arba gavęs informaciją apie tai, kad gali būti proceso administracinėje byloje atnaujinimo pagrindų, išimtiniais atvejais teikimą atnaujinti procesą turi teisę paduoti Lietuvos vyriausiojo administracinio teismo pirmininkas. Lietuvos vyriausiojo administracinio teismo pirmininko teikimą nagrinėja didžiausią teisėjo darbo stažą turinčio teisėjo skiriama teisėjų kolegija. Teikimu išreiškiamas tik informacinio pobūdžio siūlymas svarstyti, ar nėra proceso atnaujinimo pagrindų, ir teisėjų kolegijai jis nėra privalomas.
+2. Regionų administracinio teismo pirmininko siūlymu arba gavęs informaciją apie tai, kad gali būti proceso administracinėje byloje atnaujinimo pagrindų, išimtiniais atvejais teikimą atnaujinti procesą turi teisę paduoti Lietuvos vyriausiojo administracinio teismo pirmininkas. Lietuvos vyriausiojo administracinio teismo pirmininko teikimą nagrinėja didžiausią teisėjo darbo stažą turinčio teisėjo skiriama teisėjų kolegija. Teikimu išreiškiamas tik informacinio pobūdžio siūlymas svarstyti, ar nėra proceso atnaujinimo pagrindų, ir teisėjų kolegijai jis nėra privalomas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 158 straipsnis. Prašymo dėl proceso atnaujinimo pateikimas
 
@@ -2691,13 +2787,17 @@ Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
 128 straipsnis. Modelinio teismo proceso pradėjimas, individualiųjų vienarūšių ar modelinių bylų sujungimas
 
-1. Modelinį teismo procesą gali pradėti apygardos administracinio teismo pirmininkas teisėjo (teisėjų kolegijos) prašymu, priimdamas nutartį. Vadovaujantis šio straipsnio nuostatomis, modelinis teismo procesas gali būti pradėtas ir Lietuvos vyriausiajame administraciniame teisme teisėjo (teisėjų kolegijos) prašymu, teismo pirmininkui priėmus nutartį. Nutartis pradėti arba atsisakyti pradėti modelinį procesą yra neskundžiama.
+1. Modelinį teismo procesą gali pradėti Regionų administracinio teismo pirmininkas teisėjo (teisėjų kolegijos) prašymu, priimdamas nutartį. Vadovaujantis šio straipsnio nuostatomis, modelinis teismo procesas gali būti pradėtas ir Lietuvos vyriausiajame administraciniame teisme teisėjo (teisėjų kolegijos) prašymu, teismo pirmininkui priėmus nutartį. Nutartis pradėti arba atsisakyti pradėti modelinį teismo procesą yra neskundžiama.
 
-2. Apygardos administracinio teismo pirmininkas gali keletą individualiųjų vienarūšių ar modelinių bylų sujungti į vieną modelinę bylą. Kai keletas individualiųjų vienarūšių ar modelinių bylų yra skirtinguose apygardų administraciniuose teismuose, jas gali sujungti Lietuvos vyriausiojo administracinio teismo pirmininkas. Teismo pirmininkas, sujungęs keletą individualiųjų vienarūšių ar modelinių bylų į vieną modelinę bylą, sudaro teisėjų kolegiją šiai bylai nagrinėti.
+2. Regionų administracinio teismo pirmininkas gali keletą individualiųjų vienarūšių ar modelinių bylų sujungti į vieną modelinę bylą. Teismo pirmininkas, sujungęs keletą individualiųjų vienarūšių ar modelinių bylų į vieną modelinę bylą, sudaro teisėjų kolegiją šiai bylai nagrinėti.
 
-3. Apie nutartį pradėti modelinį procesą informuojami modelinės bylos proceso dalyviai, Lietuvos vyriausiasis administracinis teismas ir visi apygardų administraciniai teismai. Pranešimas apie minėtą nutartį skelbiamas Lietuvos vyriausiojo administracinio teismo interneto svetainėje.
+3. Apie nutartį pradėti modelinį teismo procesą informuojami modelinės bylos proceso dalyviai ir Lietuvos vyriausiasis administracinis teismas. Pranešimas apie šią nutartį skelbiamas Lietuvos vyriausiojo administracinio teismo interneto svetainėje.
 
 4. Pradėjus modelinę bylą, kitų individualiųjų vienarūšių bylų, nurodytų šio įstatymo 127 straipsnio 1 dalyje, nagrinėjimas sustabdomas. Teismo nutartis sustabdyti individualiosios vienarūšės bylos nagrinėjimą gali būti skundžiama atskiruoju skundu tik tuo pagrindu, kad nagrinėjama byla neatitinka šio straipsnio 1 dalyje nustatytų kriterijų.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 141 straipsnis. Bylos nagrinėjimas ir sprendimas rašytinio proceso tvarka
 
@@ -2791,7 +2891,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
-10) viešųjų įstaigų, valstybės ar savivaldybės įmonių ir asociacijų, turinčių viešojo administravimo įgaliojimus, priimtų sprendimų ir veiksmų (neveikimo) viešojo administravimo srityje teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti veiksmus;
+10) viešųjų įstaigų, valstybės ar savivaldybių valdomų įmonių ir asociacijų, turinčių viešojo administravimo įgaliojimus, priimtų sprendimų ir veiksmų (neveikimo) viešojo administravimo srityje teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti veiksmus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2248, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22978
 
 11) bendrijų, politinių partijų, politinių organizacijų ar asociacijų priimtų bendro pobūdžio teisės aktų teisėtumo;
 
@@ -2995,7 +3099,11 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 2. Prašyme dėl Europos Komisijos sprendimo turi būti nurodyta:
 
-1) šio įstatymo 24 straipsnio 2 dalies 1, 2, 3, 8, 10, 11 punktuose nurodyta informacija;
+1) šio įstatymo 24 straipsnio 2 dalies 1, 2, 3, 8, 12, 13 punktuose nurodyta informacija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 2) skundo, kurį nagrinėdama Valstybinė duomenų apsaugos inspekcija nusprendė kreiptis į Lietuvos vyriausiąjį administracinį teismą, esmė;
 
@@ -3193,7 +3301,11 @@ MODELINIS TEISMO PROCESAS
 
 1311 straipsnis. Pareiškimas dėl teismo įsakymo išdavimo
 
-1. Viešojo administravimo subjektas ar tam tikrus viešojo administravimo įgaliojimus turintis asmuo (pareiškėjas) įstatymų numatytais atvejais ir šiame skirsnyje nustatyta tvarka gali kreiptis į apygardos administracinį teismą su pareiškimu dėl teismo įsakymo dėl į valstybės, savivaldybių biudžetus ar valstybės pinigų fondus nesumokėtų (negrąžintų) sumų priteisimo (išieškojimo) iš fizinio ar juridinio asmens (skolininko).
+1. Viešojo administravimo subjektas ar tam tikrus viešojo administravimo įgaliojimus turintis asmuo (pareiškėjas) įstatymų numatytais atvejais ir šiame skirsnyje nustatyta tvarka gali kreiptis į Regionų administracinį teismą su pareiškimu dėl teismo įsakymo dėl į valstybės, savivaldybių biudžetus ar valstybės pinigų fondus nesumokėtų (negrąžintų) sumų priteisimo (išieškojimo) iš fizinio ar juridinio asmens (skolininko).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 2. Šiame skirsnyje nustatyta tvarka pareiškimas dėl teismo įsakymo išdavimo nenagrinėjamas, jeigu:
 
@@ -3221,7 +3333,11 @@ MODELINIS TEISMO PROCESAS
 
 1. Pareiškimas dėl teismo įsakymo išdavimo paduodamas elektroninių ryšių priemonėmis. Pareiškimo dėl teismo įsakymo išdavimo padavimo elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras.
 
-2. Pareiškime dėl teismo įsakymo išdavimo, be šio įstatymo 24 straipsnio 2 dalies 1, 3, 11 punktuose ir 3 dalyje nustatytų reikalavimų, keliamų pareiškimo turiniui ir formai, turi būti nurodyta:
+2. Pareiškime dėl teismo įsakymo išdavimo, be šio įstatymo 24 straipsnio 2 dalies 1, 3, 13 punktuose ir 3 dalyje nustatytų reikalavimų, keliamų pareiškimo turiniui ir formai, turi būti nurodyta:.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
 1) pareiškėjo pavadinimas, buveinė, kodas, taip pat atstovo pavadinimas ir adresas, kai pareiškimą paduoda atstovas;
 
