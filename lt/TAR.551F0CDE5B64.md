@@ -4,7 +4,7 @@ identifier: "TAR.551F0CDE5B64"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-18"
-last_updated: "2022-06-07"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2022-06-07 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
 
@@ -494,13 +494,21 @@ Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
 
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
-9. Lietuvos radijo ir televizijos komisijos sprendimą taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams, privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su subjektu, vykdančiu veiklą, kuria autorių teisių saugomas turinys neteisėtai viešai paskelbiamas viešo naudojimo kompiuterių tinklais (internete), turi sankcionuoti Vilniaus apygardos administracinis teismas, išskyrus sprendimus taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams dinaminio blokavimo atveju. Šioje dalyje dinaminiu blokavimu laikomas nurodymas blokuoti interneto prieigos paslaugų teikėjams esamus ir būsimus interneto domeno vardus, identifikuojančius interneto svetaines, kurios naudojamos neteisėtai viešai paskelbti autorių teisių saugomą turinį (t. y. interneto svetainių esamas ir būsimas kopijas). Laikoma, kad Vilniaus apygardos administracinio teismo sankcija Lietuvos radijo ir televizijos komisijos sprendimui taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams galioja ir vėlesniems komisijos sprendimams taikyti dinaminį blokavimą. Prašymas sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą turi būti pagrįstas objektyviais duomenimis (faktais), juos pagrindžiančiais dokumentais ir teisės aktų normomis, jame turi būti nurodytas interneto svetainę identifikuojantis domeno vardas ir numatomi atlikti veiksmai (privalomi nurodymai).
+9. Lietuvos radijo ir televizijos komisijos sprendimą taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams, privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su subjektu, vykdančiu veiklą, kuria autorių teisių saugomas turinys neteisėtai viešai paskelbiamas viešo naudojimo kompiuterių tinklais (internete), turi sankcionuoti pirmosios instancijos administracinis teismas, išskyrus sprendimus taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams dinaminio blokavimo atveju. Šioje dalyje dinaminiu blokavimu laikomas nurodymas blokuoti interneto prieigos paslaugų teikėjams esamus ir būsimus interneto domeno vardus, identifikuojančius interneto svetaines, kurios naudojamos neteisėtai viešai paskelbti autorių teisių saugomą turinį (t. y. interneto svetainių esamas ir būsimas kopijas). Laikoma, kad teismo sankcija Lietuvos radijo ir televizijos komisijos sprendimui taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams galioja ir vėlesniems komisijos sprendimams taikyti dinaminį blokavimą. Prašymas sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą turi būti pagrįstas objektyviais duomenimis (faktais), juos pagrindžiančiais dokumentais ir teisės aktų normomis, jame turi būti nurodytas interneto svetainę identifikuojantis domeno vardas ir numatomi atlikti veiksmai (privalomi nurodymai).
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
-10. Vilniaus apygardos administracinis teismas Lietuvos radijo ir televizijos komisijos prašymą sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 3 kalendorines dienas nuo prašymo gavimo dienos. Jeigu Lietuvos radijo ir televizijos komisija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 kalendorines dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 kalendorines dienas nuo skundo priėmimo dienos.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1579, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25129
+
+10. Pirmosios instancijos administracinis teismas Lietuvos radijo ir televizijos komisijos prašymą sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 3 kalendorines dienas nuo prašymo gavimo dienos. Jeigu Lietuvos radijo ir televizijos komisija nesutinka su teismo nutartimi atmesti prašymą, ji turi teisę per 7 kalendorines dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 kalendorines dienas nuo skundo priėmimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1579, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25129
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -3174,7 +3182,7 @@ Pakeistas priedo pavadinimas:
 
 Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
 
-part_73d67a05e1a84161ad41725a9005be2e_end
+part_9a0bc97443d04f5b94da01373f97971a_end
 
 Lietuvos Respublikos
 
