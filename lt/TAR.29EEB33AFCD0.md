@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-24
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -967,7 +967,11 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 3) centrinė kredito unija negali arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, nustatoma, kad artimiausiu metu negalės suėjus terminui apmokėti savo skolų arba įvykdyti kitų įsipareigojimų.
 
-2. Centrinei kredito unijai bankroto bylą teismas iškelia tik pertvarkymo institucijos iniciatyva arba jeigu į teismą kreipiasi kiti įstatymuose nurodyti asmenys ir yra įvykdytos Finansinio tvarumo įstatymo 102 straipsnyje nustatytos sąlygos. Jeigu pertvarkymo institucija Finansinio tvarumo įstatymo 102 straipsnyje nustatyta tvarka teismui nepateikia informacijos apie jos ketinimus imtis pertvarkymo veiksmų, teismas dėl bankroto bylos iškėlimo centrinei kredito unijai sprendžia tik gavęs priežiūros institucijos išvadą dėl centrinės kredito unijos nemokumo.
+2. Centrinei kredito unijai bankroto bylą teismas iškelia tik pertvarkymo institucijos iniciatyva arba jeigu į teismą kreipiasi kiti įstatymuose nurodyti asmenys ir yra įvykdytos Finansinio tvarumo įstatymo 102 straipsnyje nustatytos sąlygos. Jeigu pertvarkymo institucija Finansinio tvarumo įstatymo 102 straipsnyje nustatyta tvarka teismui nepateikia informacijos apie ketinimus imtis centrinės kredito unijos pertvarkymo veiksmų, teismas dėl bankroto bylos iškėlimo centrinei kredito unijai sprendžia tik gavęs priežiūros institucijos išvadą dėl centrinės kredito unijos nemokumo. Teismas atsisako iškelti centrinei kredito unijai bankroto bylą, jeigu pertvarkymo institucija informuoja teismą, kad ji ketina centrinei kredito unijai taikyti Finansinio tvarumo įstatymo VIII skyriuje nurodytą turto, teisių ir įsipareigojimų perleidimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
 
 47 straipsnis. Pranešimas apie pažeidimus
 
@@ -1229,7 +1233,7 @@ Nr. XIII-2960, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11333
 
 4. Licencija taip pat gali būti atšaukiama ar jos galiojimas gali būti sustabdomas šio įstatymo devintajame skirsnyje nustatytais pagrindais ir tvarka.
 
-5. Atšaukus licenciją, centrinė kredito unija neturi teisės teikti finansinių paslaugų, išskyrus atsiskaitymą su centrinės kredito unijos kreditoriais, vykdant pagal Finansinio tvarumo įstatymo 47 straipsnio nuostatas duotus įpareigojimus arba atliekant indėlių draudimo išmokų mokėjimus pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 161 straipsnį, ir šio įstatymo dešimtajame ir vienuoliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl centrinės kredito unijos likvidavimo ar bankroto bylos jai kėlimo.
+5. Atšaukus licenciją, centrinė kredito unija neturi teisės teikti finansinių paslaugų, išskyrus atsiskaitymą su centrinės kredito unijos kreditoriais, vykdant pagal Finansinio tvarumo įstatymo 47 straipsnio nuostatas duotus įpareigojimus, atliekant indėlių draudimo išmokų mokėjimus pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 161 straipsnį arba centrinės kredito unijos turtą, teises ir įsipareigojimus perleidžiant pagal Finansinio tvarumo įstatymo VIII skyrių, kad centrinės kredito unijos ar jos narių kredito unijų turto, teisių ir įsipareigojimų įsigyjantis asmuo, turintis kredito įstaigos licenciją, galėtų teikti su perimtu turtu, teisėmis ir įsipareigojimais susijusias finansines paslaugas, ir šio įstatymo dešimtajame ir vienuoliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl centrinės kredito unijos likvidavimo ar bankroto bylos jai kėlimo.
 
 Straipsnio dalies pakeitimai:
 
@@ -1689,7 +1693,11 @@ Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
 
 2. Norėdamos gauti sutikimą reorganizuoti, reorganizavime dalyvaujanti ar reorganizuojama finansų įstaiga ir centrinė kredito unija priežiūros institucijai pateikia prašymą ir priežiūros institucijos teisės aktų nustatytus dokumentus. Sutikimą reorganizuoti išduoda priežiūros institucija šio įstatymo ir priežiūros institucijos teisės aktų nustatyta tvarka. Sprendimas išduoti sutikimą priimamas atsižvelgiant į priežiūros institucijos teisės aktų nustatytus sisteminės rizikos lygio vertinimo kriterijus.
 
-3. Priežiūros institucija priima sprendimą dėl sutikimo išdavimo per vieną mėnesį nuo prašymo išduoti sutikimą gavimo dienos.
+3. Priežiūros institucija priima sprendimą dėl sutikimo išdavimo per 3 mėnesius nuo prašymo išduoti sutikimą gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
 
 64 straipsnis. Leidimas reorganizuoti centrinę kredito uniją
 
@@ -1815,7 +1823,11 @@ CENTRINĖS KREDITO UNIJOS BANKROTAS
 
 13. Šio straipsnio 12 dalies 1 punkte nustatyti draudimai netaikomi įstatymų, reglamentuojančių mokėjimų ir vertybinių popierių atsiskaitymo sistemų funkcionavimą, ir kitų įstatymų nustatytais atvejais, kai yra tiesiogiai nurodyta, kad centrinė kredito unija privalo vykdyti prievoles po teismo nutarties iškelti bankroto bylą priėmimo.
 
-14. Jeigu centrinės kredito unijos, kuriai iškelta bankroto byla, kreditorių pagal teismo patvirtintą sąrašą yra daugiau kaip 50, visas Juridinių asmenų nemokumo įstatyme nustatytas kreditorių susirinkimo teises, išskyrus teisę sudaryti ir keisti kreditorių komitetą, turi tik kreditorių komitetas. Kreditorių komitetas sudaromas iš ne daugiau kaip 15 narių. Vienas iš kreditorių komiteto narių turi būti valstybės įmonė „Indėlių ir investicijų draudimas“.
+14. Jeigu centrinės kredito unijos, kuriai iškelta bankroto byla, kreditorių pagal teismo patvirtintą sąrašą yra daugiau kaip 50, visas Juridinių asmenų nemokumo įstatyme nustatytas kreditorių susirinkimo teises, išskyrus teisę sudaryti ir keisti kreditorių komitetą, turi tik kreditorių komitetas. Kreditorių komitetas sudaromas iš ne daugiau kaip 15 narių. Vienas iš kreditorių komiteto narių turi būti Lietuvos Respublikos Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
 
 15. Centrinės kredito unijos administratorius privalo priežiūros institucijai jos nustatyta tvarka ir terminais reguliariai teikti informaciją apie centrinės kredito unijos bankroto proceso eigą.
 
@@ -1829,7 +1841,13 @@ Nr. XIII-2229, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10343
 
 1. Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais.
 
-2. Antrąja eile tenkinami reikalavimai dėl apdraustųjų indėlių, taip pat valstybės įmonės „Indėlių ir investicijų draudimas“ reikalavimai dėl išlaidų, susijusių su Indėlių draudimo fondo lėšų panaudojimu pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą ir (ar) Finansinio tvarumo įstatymą.
+2. Antrąja eile tenkinami reikalavimai dėl apdraustųjų indėlių, Vyriausybės paskirto juridinio asmens, įgyvendinančio valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, reikalavimai dėl išlaidų, susijusių su Indėlių draudimo fondo lėšų panaudojimu pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą ir (ar) Finansinio tvarumo įstatymą, taip pat valstybės reikalavimai dėl pagal Finansinio tvarumo įstatymo VIII skyrių suteiktos valstybės pagalbos turto, teisių ir įsipareigojimų perleidimui finansuoti.
+
+TAR pastaba. 70 straipsnio 2 dalies nuostatos taikomos centrinių kredito unijų pertvarkymo procedūroms, vykdomoms pagal Lietuvos Respublikos finansinio tvarumo įstatymą nuo 2024-01-01, ir bankroto procesams, pradėtiems nuo 2024-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
 
 3. Trečiąja eile tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų, dėl suteiktų paskolų, gautų valstybės vardu ir su valstybės garantija, taip pat Garantinio fondo administratoriaus ir (ar) valstybei atstovaujančių institucijų atgręžtiniai reikalavimai.
 
@@ -1882,8 +1900,6 @@ priedas
 Priedo pakeitimai:
 
 Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
-
-part_b4ae92e6bea94c4296276b79a7899a1b_end
 
 Pakeitimai:
 
