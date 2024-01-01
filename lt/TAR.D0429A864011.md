@@ -4,7 +4,7 @@ identifier: "TAR.D0429A864011"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-09"
-last_updated: "2023-01-03"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0429A864011"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos melioracijos įstatymas
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 71-1326, i. k. 0931010ISTA000I-323
 
@@ -124,13 +124,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
 
-2. Melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą atlieka valstybės įmonė Žemės ūkio duomenų centras.
+2. Melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą atlieka žemės ūkio ministro įgaliota institucija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA00XI-787
 
 Nr. XIV-1308, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15635
+
+Nr. XIV-2069, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12752
 
 3. Valstybei nuosavybės teise priklausančius melioracijos statinius patikėjimo teise valdo ir naudoja savivaldybės.
 
@@ -235,6 +237,14 @@ Lietuvos Respublikos melioracijos įstatymo Nr. I-323 4, 7 ir 8 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIV-1308, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15635
+
+Lietuvos Respublikos melioracijos įstatymo Nr. I-323 7 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2069, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12752
 
 Lietuvos Respublikos melioracijos įstatymo Nr. I-323 7 straipsnio pakeitimo įstatymas
 
