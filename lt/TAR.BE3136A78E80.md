@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2023-10-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2023-10-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
 
@@ -177,7 +177,11 @@ Notarų atestacijos komisija uždarame posėdyje priima vieną iš šių nutarim
 
 3) notaras netinka eiti notaro pareigas.
 
-Notarų atestacijos komisijos nutarimas gali būti skundžiamas Vilniaus apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka.
+Notarų atestacijos komisijos nutarimas gali būti skundžiamas pirmosios instancijos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1600, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25178
 
 Straipsnio pakeitimai:
 
