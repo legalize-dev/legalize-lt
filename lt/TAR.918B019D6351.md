@@ -4,7 +4,7 @@ identifier: "TAR.918B019D6351"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2022-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.918B019D6351"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "14 straipsnio 2 dalis įsigalioja 2012-09-26"
 
 LIETUVOS RESPUBLIKOS LIETUVOS KULTŪROS TARYBOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 111-5631, i. k. 1121010ISTA0XI-2218
 
@@ -105,7 +105,11 @@ TARYBOS STRUKTŪRA IR DARBO ORGANIZAVIMAS
 
 1. Tarybos pirmininką kultūros ministro teikimu 4 metams į pareigas skiria ir iš jų atleidžia Vyriausybė. Asmuo, skiriamas į šias pareigas, turi atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, išmanyti kultūros ir meno raidos procesus ir turėti ne mažesnę kaip 3 metų vadovaujamojo darbo ir ne mažesnę kaip 3 metų veiklos kultūros ir meno srityse patirtį. Tarybos pirmininkas gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės. Šeši Tarybos narių susirinkimo nariai gali motyvuotu raštu siūlyti atleisti Tarybos pirmininką iš pareigų.
 
-2. Tarybos pirmininkas yra valstybės pareigūnas, atsakingas ir atskaitingas kultūros ministrui. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme.
+2. Tarybos pirmininkas yra valstybės pareigūnas, atsakingas ir atskaitingas kultūros ministrui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1996, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11569
 
 3. Tarybos pirmininkas:
 
@@ -131,7 +135,11 @@ TARYBOS STRUKTŪRA IR DARBO ORGANIZAVIMAS
 
 1. Tarybos narių susirinkimą sudaro 10 narių, renkamų šio įstatymo 8 straipsnyje nustatyta tvarka, ir Tarybos pirmininkas. Personalinę Tarybos narių susirinkimo sudėtį kultūros ministro teikimu 4 metams tvirtina Vyriausybė. Tas pats asmuo Tarybos narių susirinkimo nariu gali būti ne daugiau kaip dvi kadencijas iš eilės.
 
-2. Tarybos narių susirinkimo narių (išskyrus Tarybos pirmininką) darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatyme nustatyta tvarka. Tarybos narių susirinkimo nariai turi teisę dirbti kitą darbą.
+2. Tarybos narių susirinkimo narių (išskyrus Tarybos pirmininką) darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nustatyta tvarka. Tarybos narių susirinkimo nariai turi teisę dirbti kitą darbą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1996, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11569
 
 3. Tarybos narių susirinkimas:
 
@@ -223,11 +231,19 @@ TAR pastaba. 10 straipsnio 4 dalis netaikoma Lietuvos kultūros tarybos ekspert
 
 6. Atliekant dokumentų, kuriais grindžiamas finansavimo suteikimo prašymas, ekspertizę, su šiais dokumentais dirba ne mažiau kaip 2 nepriklausomi ekspertai, kurių kiekvienas Tarybai pateikia savo išvadas.
 
-7. Ekspertų darbas apmokamas Valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatyme nustatyta tvarka.
+7. Ekspertų darbas apmokamas Valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1996, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11569
 
 11 straipsnis. Tarybos administracija
 
-1. Tarybos administracija padeda Tarybai įgyvendinti jos funkcijas ir užtikrinti Tarybos veiklą. Tarybos administraciją sudaro valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis. Didžiausią leidžiamą valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių nustato kultūros ministras. Tarybos administracijos struktūrą, pareigybių sąrašą, pareigybių aprašymus, veiklos nuostatus tvirtina Tarybos pirmininkas. Tarybos administracijai vadovauja Tarybos pirmininkui pavaldus Tarybos administracijos vadovas. Tarybos administracijos vadovas yra valstybės tarnautojas. Tarybos administracijos vadovas eina Tarybos pirmininko pareigas, kai Tarybos pirmininkas nėra paskirtas šio įstatymo 6 straipsnio 1 dalyje nustatyta tvarka ar laikinai negali eiti pareigų. Tarybos administracijos vadovas, eidamas Tarybos pirmininko pareigas, neturi sprendžiamojo balso teisės Tarybos narių susirinkime.
+1. Tarybos administracija padeda Tarybai įgyvendinti jos funkcijas ir užtikrinti Tarybos veiklą. Tarybos administraciją sudaro valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis. Tarybos administracijai vadovauja Tarybos pirmininkui pavaldus Tarybos administracijos vadovas. Tarybos administracijos vadovas yra valstybės tarnautojas. Tarybos administracijos vadovas eina Tarybos pirmininko pareigas, kai Tarybos pirmininkas nėra paskirtas šio įstatymo 6 straipsnio 1 dalyje nustatyta tvarka ar laikinai negali eiti pareigų. Tarybos administracijos vadovas, eidamas Tarybos pirmininko pareigas, neturi sprendžiamojo balso teisės Tarybos narių susirinkime.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1996, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11569
 
 2. Tarybos administracija:
 
@@ -300,6 +316,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-697, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25125
 
 Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo Nr. XI-2218 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1996, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11569
+
+Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo Nr. XI-2218 6, 7, 10 ir 11 straipsnių pakeitimo įstatymas
 
 14 straipsnis. Įstatymo įsigaliojimas
 
