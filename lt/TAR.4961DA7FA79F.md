@@ -4,7 +4,7 @@ identifier: "TAR.4961DA7FA79F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-14"
-last_updated: "2023-12-23"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-09
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
 
@@ -148,7 +148,11 @@ III SKYRIUS
 
 6. Asmeniui padarytos žalos dydį nustato atsakingas draudikas arba šio įstatymo 17 straipsnyje nurodytais atvejais – Biuras, vadovaudamasis dokumentais, kuriais įrodomos padarytos žalos aplinkybės, faktas ir dydis, ir medicininės apžiūros pažymomis. Atsakingas draudikas ar Biuras vadovaujasi įstaigų ir įmonių, turinčių teisę nustatyti sveikatos sutrikdymo mastą, kuris nustatomas vadovaujantis sveikatos apsaugos ministro ir teisingumo ministro tvirtinamomis sveikatos sutrikdymo masto nustatymo taisyklėmis (toliau – Sveikatos sutrikdymo masto nustatymo taisyklės), išvadomis, taip pat turi teisę siūlyti nukentėjusiam trečiajam asmeniui atlikti medicininę apžiūrą, apmokėdamas šios apžiūros išlaidas, jeigu nepakanka dokumentų motyvuotam atsakymui į pretenziją dėl padarytos eismo įvykio žalos pagal šio įstatymo 19 straipsnio 3 dalį.
 
-7. Nukentėjęs trečiasis asmuo turi teisę pateikti pretenzijas dėl padarytos žalos atsakingam draudikui arba šio įstatymo 17 straipsnyje nurodytais atvejais – Biurui dėl patirtos neturtinės žalos. Teisę į neturtinės žalos atlyginimą turi ir asmenys, nurodyti šio straipsnio 5 dalyje. Atsakingas draudikas ar Biuras, nustatydamas atlygintinos neturtinės žalos dydį, vadovaujasi kompetentingų subjektų išduotais dokumentais, kuriais įrodoma laikinojo nedarbingumo trukmė, darbingumo ar neįgalumo lygis, sužalojimo pasekmės, mirties faktas ir priežastys, kitais įrodymais. Atlygintinos neturtinės žalos dydis nustatomas atsižvelgiant į sveikatos sutrikdymo mastą ir kitus neturtinės žalos dydžiui nustatyti reikšmingus kriterijus. Jeigu atsakingas draudikas ar Biuras ir nukentėjęs trečiasis asmuo ar asmenys, nurodyti šio straipsnio 5 dalyje, nesutaria dėl neturtinės žalos atlyginimo dydžio, nukentėjęs trečiasis asmuo ar asmenys, nurodyti šio straipsnio 5 dalyje, turi teisę kreiptis į teismą.
+7. Nukentėjęs trečiasis asmuo turi teisę pateikti pretenzijas dėl padarytos žalos atsakingam draudikui arba šio įstatymo 17 straipsnyje nurodytais atvejais – Biurui dėl patirtos neturtinės žalos. Teisę į neturtinės žalos atlyginimą turi ir asmenys, nurodyti šio straipsnio 5 dalyje. Atsakingas draudikas ar Biuras, nustatydamas atlygintinos neturtinės žalos dydį, vadovaujasi kompetentingų subjektų išduotais dokumentais, kuriais įrodoma laikinojo nedarbingumo trukmė, dalyvumo ar neįgalumo lygis, sužalojimo pasekmės, mirties faktas ir priežastys, kitais įrodymais. Atlygintinos neturtinės žalos dydis nustatomas atsižvelgiant į sveikatos sutrikdymo mastą ir kitus neturtinės žalos dydžiui nustatyti reikšmingus kriterijus. Jeigu atsakingas draudikas ar Biuras ir nukentėjęs trečiasis asmuo ar asmenys, nurodyti šio straipsnio 5 dalyje, nesutaria dėl neturtinės žalos atlyginimo dydžio, nukentėjęs trečiasis asmuo ar asmenys, nurodyti šio straipsnio 5 dalyje, turi teisę kreiptis į teismą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 8. Kad būtų įgyvendintas šio straipsnio 3 dalyje nurodytas reikalavimas nustatyti eismo įvykio aplinkybes, kaltininką ir šio įstatymo 27 straipsnio 6 dalies nuostatos, Eismo įvykių informacinės sistemos valdytojas ir (arba) Administracinių nusižengimų registro valdytojas per duomenų bazę draudikui ar Biurui pateikia turimą informaciją apie eismo įvykį ir (arba) Lietuvos Respublikos Vyriausybės tvirtinamose kelių eismo taisyklėse nustatytus šių taisyklių pažeidimus tokia apimtimi, kokia nustatyta Administracinių nusižengimų registrą reglamentuojančiuose teisės aktuose ir (arba) duomenų teikimo sutartyse.
 
@@ -378,7 +382,11 @@ Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės pr
 
 1. Šio įstatymo tikslas – nustatyti transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo sistemos veikimo teisinius pagrindus ir principus.
 
-2. Šio įstatymo nuostatos taikomos transporto priemonėms – kiekvienai privalomai registruoti važiuoti žeme skirtai motorinei transporto priemonei, traktoriui ir savaeigei mašinai, kurių didžiausias projektinis greitis yra daugiau kaip 25 km/h arba kurių didžiausias grynasis svoris – daugiau kaip 25 kg, o didžiausias projektinis greitis – daugiau kaip 14 km/h, taip pat priekaboms ir puspriekabėms, išskyrus bėgines transporto priemones. Šis įstatymas taip pat taikomas ir pirmiau nurodytus kriterijus atitinkančioms neregistruotinoms transporto priemonėms – motorinėms transporto priemonėms, traktoriams ir savaeigėms mašinoms, kurių privaloma registracija pagal Lietuvos Respublikos teisės aktus, reglamentuojančius transporto priemonių registravimą, nėra numatyta. Neįgaliojo vežimėlis pagal šio įstatymo nuostatas nelaikomas transporto priemone.
+2. Šio įstatymo nuostatos taikomos transporto priemonėms – kiekvienai privalomai registruoti važiuoti žeme skirtai motorinei transporto priemonei, traktoriui ir savaeigei mašinai, kurios didžiausias projektinis greitis yra daugiau kaip 25 km/h arba kurios didžiausias grynasis svoris – daugiau kaip 25 kg, o didžiausias projektinis greitis – daugiau kaip 14 km/h, taip pat priekaboms ir puspriekabėms, išskyrus bėgines transporto priemones. Šis įstatymas taip pat taikomas ir pirmiau nurodytus kriterijus atitinkančioms neregistruotinoms transporto priemonėms – motorinėms transporto priemonėms, traktoriams ir savaeigėms mašinoms, kurių privaloma registracija pagal Lietuvos Respublikos teisės aktus, reglamentuojančius transporto priemonių registravimą, nėra numatyta. Vežimėlis, skirtas asmeniui su negalia, pagal šio įstatymo nuostatas nelaikomas transporto priemone.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 3. Šio įstatymo nuostatos, išskyrus tiek, kiek nustatyta šioje dalyje, netaikomos, kai transporto priemonės naudojamos uždarose teritorijose sporto renginiuose ir veikloje, įskaitant lenktynes, varžybas, treniruotes, bandymus ar pasirodymus (toliau – renginys). Kai organizuojamas renginys, jo organizatorius turi turėti renginio civilinės atsakomybės draudimo ar garantijos sutartį dėl žalos, kurią sukėlė renginyje dalyvaujanti transporto priemonė, atlyginimo tretiesiems asmenims, įskaitant žiūrovus ir kitus pašalinius asmenis, bet nebūtinai dengiančias renginyje dalyvaujantiems vairuotojams ir jų transporto priemonėms padarytą žalą. Renginio civilinės atsakomybės draudimo ar garantijos sutartis dėl žalos atlyginimo turi užtikrinti kuo panašesnį į šiuo įstatymu reglamentuojamą žalos atlyginimą. Jeigu renginio organizatorius nevykdo pareigos turėti šiame straipsnyje nurodytą renginio civilinės atsakomybės draudimo ar garantijos sutartį, pareiga atlyginti eismo įvykio žalą nukentėjusiam trečiajam asmeniui vadovaujantis šio įstatymo nuostatomis tenka atsakingam transporto priemonių valdytojų civilinės atsakomybės draudikui (kai eismo įvykio žala padaryta apdrausta transporto priemone) arba Lietuvos Respublikos transporto priemonių draudikų biurui, nurodytam šio įstatymo IV skyriuje (toliau – Biuras) (kai eismo įvykio žala padaryta neapdrausta transporto priemone).
 
