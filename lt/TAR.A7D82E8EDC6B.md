@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2023-12-15"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2023-12-15 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
@@ -117,7 +117,11 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 12) Lietuvos Respublikos valstybės biudžeto lėšų, skirtų keliams tiesti, rekonstruoti, taisyti (remontuoti) ir saugaus eismo priemonėms įgyvendinti, daliai padengti vykdant Europos Sąjungos paramos lėšomis bendrai finansuojamus projektus;
 
-13) Lietuvos Respublikos susisiekimo ministerijos įgaliotos viešosios įstaigos Transporto kompetencijų agentūros funkcijoms, nurodytoms Saugaus eismo automobilių keliais įstatymo 10 straipsnio 12 dalyje, atlikti;
+13) Lietuvos Respublikos susisiekimo ministerijos įgaliotos viešosios įstaigos Transporto kompetencijų agentūros funkcijoms, nurodytoms Saugaus eismo automobilių keliais įstatymo 10 straipsnio 12 dalyje, atlikti, valstybinės reikšmės kelių naudojimo priežiūrai vykdyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
 
 14) tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius patirtoms išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, želdinius ir kitas naudmenas apmokėti, aplinkos apsaugos reikmėms ir apsaugos nuo triukšmo statiniams prie kelių statyti, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius;
 
@@ -211,11 +215,13 @@ Nr. XIV-2227, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22372
 
 16) valstybinėje ir savivaldybių žemėje daugiabučių namų kiemų vidaus kelių (gatvių) ir daugiabučių namų gyventojų automobilių stovėjimo aikštelėms įrengti, rekonstruoti, taisyti (remontuoti)  ir prižiūrėti, neatsižvelgiant į tai, ar atlikta šių inžinerinių statinių teisinė registracija.
 
-3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina akcinė bendrovė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą atlieka CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija.
+3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina akcinė bendrovė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms tinkamumą tikrina CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
+
+Nr. XIV-1674, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27265
 
 4. Programos finansavimo lėšos naudojamos pagal per vieną mėnesį nuo valstybės biudžeto patvirtinimo Vyriausybės patvirtintą 3 metų Programos finansavimo lėšų naudojimo sąmatą, kuri rengiama vadovaujantis Susisiekimo ministerijos strateginiu veiklos planu. Iki 3 metų Programos finansavimo lėšų naudojimo sąmatos laikotarpio pirmųjų metų pabaigos akcinė bendrovė Lietuvos automobilių kelių direkcija ir savivaldybių institucijos gali pasirašyti sutarčių dėl antraisiais ir trečiaisiais metais planuojamo šio straipsnio 1 ir 2 dalyse numatytų veiklų finansavimo ne didesnei kaip 80 procentų atitinkamų metų Programos finansavimo lėšų sumai. 3 metų Programos finansavimo lėšų naudojimo sąmata sudaroma ir vykdoma Vyriausybės nustatyta tvarka.
 
@@ -383,139 +389,171 @@ Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
 
 Lietuvos Respublikos
 
-kelių priežiūros ir
-
-plėtros programos
+kelių priežiūros ir plėtros programos
 
 finansavimo įstatymo
 
 2 priedas
 
-KELIŲ NAUDOTOJO MOKESČIO RIBINIAI TARIFAI
+KELIŲ NAUDOTOJO MOKESČIO MAKSIMALŪS DYDŽIAI
 
-Transporto priemonės tipas, kategorija, klasė ir grupė, emisijos klasė*, didžiausioji leidžiamoji masė**
+Ne daugiau kaip trys ašys
 
-Ribiniai tarifai, eurais
+Ne mažiau kaip keturios ašys
 
-metų tarifo ribos
+Transporto priemonės emisijos klasė
 
-mėnesio tarifo ribos
+Metų tarifas, eurais
 
-savaitės tarifo ribos
+Mėnesio tarifas, eurais
 
-dienos tarifo ribos
+Savaitės tarifas, eurais
 
-Autobusai
+Dienos tarifas, eurais
 
-M2 nuo EURO 0 iki VI ir mažiau taršios transporto priemonės
+Metų tarifas, eurais
 
-transporto priemonė, kuri turi daugiau kaip 8 sėdimas vietas keleiviams ir vieną sėdimą vietą vairuotojui ir kurios didžiausioji leidžiamoji masė ne didesnė kaip 5 t
+Mėnesio tarifas, eurais
 
-289–579
+Savaitės tarifas, eurais
 
-28–57
+Dienos tarifas, eurais
 
-14–23
+Euro 0
 
-5–11
+1 899
 
-M3 A B nuo EURO 0 iki VI ir mažiau taršios transporto priemonės
+189
 
-transporto priemonė, kuri turi daugiau kaip 8, bet ne daugiau kaip 22 sėdimas vietas keleiviams ir vieną sėdimą vietą vairuotojui ir kurios didžiausioji leidžiamoji masė didesnė kaip 5 t
+94
 
-434–868
+37
 
-43–86
+3 185
 
-17–40
+318
 
-5–11
+159
 
-M3 I–III nuo EURO 0 iki VI ir mažiau taršios transporto priemonės
+63
 
-transporto priemonė, kurioje telpa daugiau kaip 22 keleiviai, neįskaitant vairuotojo
+Euro I
 
-463–926
+1 651
 
-46–92
+165
 
-23–46
+82
 
-5–11
+33
 
-Krovininės transporto priemonės ir jų junginiai
+2 757
 
-N1 krovininis automobilis ar krovininių transporto priemonių junginys nuo EURO 0 iki VI ir mažiau taršios transporto priemonės
+275
 
-iki 3,5 t (įskaitytinai)
+137
 
-289–579
+55
 
-28–57
+Euro II
 
-14–23
+1 428
 
-5–11
+142
 
-N2 krovininis automobilis ar krovininių transporto priemonių junginys nuo EURO 0 iki VI ir mažiau taršios transporto priemonės
+71
 
-nuo 3,5 t iki 12 t (įskaitytinai)
+28
 
-463–1 158
+2 394
 
-46–115
+239
 
-23–49
+119
 
-5–11
+47
 
-N3 krovininis automobilis ar krovininių transporto priemonių junginys nuo EURO 0 iki VI ir mažiau taršios transporto priemonės
+Euro III
 
-nuo 12 t didžiausiosios leidžiamosios masės
+1 242
 
-521–1 158
+124
 
-49–115
+62
 
-26–49
+24
 
-5–11
+2 073
 
-N1–N3 krovininis automobilis ar krovininių transporto priemonių junginys nuo EURO 0 iki VI ir mažiau taršios transporto priemonės
+207
 
-iki 16 t (įskaitytinai) didžiausiosios leidžiamosios masės, kai transporto priemonės valdytojas – žemės ūkio veiklos subjektas
+103
 
-231–579
+41
 
-23–57
+Euro IV
 
-11–23
+1 081
 
-5–11
+108
 
-Specialiosios paskirties transporto priemo-nės***
+54
 
-M2–M3 autobusas N1–N3 krovininis automobilis nuo EURO 0 iki VI ir mažiau taršios transporto priemonės
+21
 
-transporto priemonė, skirta specialioms funkcijoms atlikti, naudojant specialią įrangą
+1 803
 
-231–579
+180
 
-23–57
+90
 
-11–23
+36
 
-5–11
+Euro V
 
-* Transporto priemonių emisijos klasės pagal motorinių transporto priemonių variklių išmetamųjų dujinių ir kietųjų dalelių teršalų normas.
+940
 
-** Didžiausioji leidžiamoji masė pagal Saugaus eismo automobilių keliais įstatymą.
+94
 
-*** Specialiosios paskirties transporto priemonės – transporto priemonės ar jų junginiai, kurių sąrašą, įgyvendindama Europos Sąjungos teisės aktus, nustatančius motorinių transporto priemonių ir jų priekabų ir tokioms transporto priemonėms skirtų sistemų, sudedamųjų dalių ir atskirų techninių mazgų patvirtinimo pagrindus, tvirtina Lietuvos Respublikos susisiekimo ministerija arba jos įgaliota institucija.
+47
+
+18
+
+1 567
+
+156
+
+78
+
+31
+
+Euro VI
+
+855
+
+85
+
+42
+
+17
+
+1 425
+
+142
+
+71
+
+28
+
+Pastaba. Transporto priemonių emisijos klasės nurodomos pagal motorinių transporto priemonių variklių išmetamųjų dujinių ir kietųjų dalelių teršalų normas.
+
+––––––––––––––
 
 Priedo pakeitimai:
 
 Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
+
+Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
 
 Lietuvos Respublikos
 
@@ -1037,23 +1075,21 @@ Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 
 Lietuvos Respublikos
 
-kelių priežiūros ir plėtros
-
-programos finansavimo
-
-įstatymo
+kelių priežiūros ir plėtros programos finansavimo įstatymo
 
 5 priedas
 
-ĮGYVENDINAMI Europos Sąjungos TEISĖS AKTAI
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/719 (OL 2015 L 115, p. 1).
+1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1242.
 
-Punkto pakeitimai:
+2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra su paskutiniais pakeitimais, padarytais 2022 m. vasario 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/362.
 
-Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
+––––––––––––
 
-2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p. 372) su paskutiniais pakeitimais, padarytais 2011 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2011/76/EB (OL 2011 L 269, p. 1).
+Priedo pakeitimai:
+
+Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
 
 Pakeitimai:
 
@@ -4135,41 +4171,35 @@ autrap@lrs.lt
 
 6 straipsnis. Kelių naudotojo mokestis
 
-1. Transporto priemonių ar jų junginių, nurodytų šio įstatymo 2 priede, valdytojai moka kelių naudotojo mokestį už naudojimąsi magistraliniais keliais. Už naudojimąsi valstybinės reikšmės krašto, rajoniniais ar vietinės reikšmės keliais kelių naudotojo mokestis nemokamas.
+1. M2, M3, N1, N2, N3 motorinių transporto priemonių valdytojai moka kelių naudotojo mokestį už naudojimąsi keliais. Už naudojimąsi vietinės reikšmės keliais kelių naudotojo mokestis nemokamas.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
-
-2. Kelių naudotojo mokesčio dydžius, neviršydama šio įstatymo 2 priede nustatytų ribinių tarifų, šio mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato Vyriausybė. Nustatyti mokesčio dydžiai turi būti proporcingi naudojimosi keliais trukmei. Mėnesio tarifas turi būti ne didesnis kaip 10 procentų metų tarifo, savaitės tarifas turi būti ne didesnis kaip 5 procentai metų tarifo, o dienos tarifas turi būti ne didesnis kaip 2 procentai metų tarifo.
+2. Kelių naudotojo mokesčio dydžius, neviršydama šio įstatymo 2 priede nustatytų maksimalių dydžių, šio mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato Vyriausybė. Nustatyti mokesčio dydžiai turi būti proporcingi naudojimosi keliais trukmei. Mėnesio tarifas turi būti ne didesnis kaip 10 procentų metų tarifo, savaitės tarifas turi būti ne didesnis kaip 5 procentai metų tarifo, o dienos tarifas turi būti ne didesnis kaip 2 procentai metų tarifo.
 
 3. Kelių naudotojo mokestis nemokamas už naudojimąsi magistraliniais keliais važiuojant:
 
-1) Vidaus reikalų ministerijos ir įstaigų prie šios ministerijos transporto priemonėmis ar jų junginiais, priskirtais kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms;
+1) Vidaus reikalų ministerijos ir įstaigų prie šios ministerijos transporto priemonėmis, priskirtomis kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms;
 
-2) savivaldybių priešgaisrinės tarnybos transporto priemonėmis ar jų junginiais;
+2) savivaldybių priešgaisrinės tarnybos transporto priemonėmis;
 
-3) specialiai neįgaliesiems vežti ir (ar) vairuoti pritaikytomis transporto priemonėmis ar jų junginiais;
+3) specialiai asmenims su negalia vežti ir (ar) vairuoti pritaikytomis transporto priemonėmis;
 
 4) sveikatos priežiūros įstaigų greitosios medicinos pagalbos ir reanimacijos automobiliais;
 
 5) švietimo įstaigų ir (ar) savivaldybių institucijų kontroliuojamų įmonių specialiai mokiniams (vaikams) vežti pritaikytomis transporto priemonėmis (mokykliniais autobusais), taip pat užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotomis specialiai mokiniams (vaikams) vežti pritaikytomis transporto priemonėmis (mokykliniais autobusais);
 
-6) transporto priemonėmis ar jų junginiais, naudojamais valstybinės reikšmės keliams prižiūrėti;
+6) transporto priemonėmis, naudojamomis valstybinės reikšmės keliams prižiūrėti;
 
-Straipsnio punkto pakeitimai:
+7) užsienio šalyse įregistruotomis transporto priemonėmis, kai jomis vykstama likviduoti stichinių nelaimių ar eismo įvykių padarinių, kai jomis vežamos labdaros ir humanitarinės pagalbos siuntos;
 
-Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+8) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų transporto priemonėmis;
 
-7) užsienio šalyse įregistruotomis transporto priemonėmis ar jų junginiais, kai jomis vykstama likviduoti stichinių nelaimių ar eismo įvykių padarinių, kai jomis vežamos labdaros ir humanitarinės pagalbos siuntos;
+9) vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais (nurodytais leidimuose) važiuojančiomis keleivinėmis transporto priemonėmis;
 
-8) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų transporto priemonėmis ar jų junginiais;
+10) grynaisiais elektromobiliais ir vandenilio dujomis varomais automobiliais.
 
-Straipsnio punkto pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
-
-9) vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais (nurodytais leidimuose) važiuojančiomis keleivinėmis transporto priemonėmis ar jų junginiais;
+Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
 
 8 straipsnis. Kiti mokesčiai ir finansavimo šaltiniai
 
@@ -4182,6 +4212,12 @@ Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
 2. Programai finansuoti gali būti naudojamos fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių perduodamos tikslinės lėšos. Fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių tikslinių lėšų perdavimo, administravimo, naudojimo ir priežiūros tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 3. Programai finansuoti skiriamos lėšos iš sumokėtų ar išieškotų baudų už nustatyto greičio viršijimą, užfiksuotą stacionariąja Kelių eismo taisyklių pažeidimų fiksavimo įranga, įrengta valstybinės reikšmės keliuose. Vyriausybė ar jos įgaliota institucija nustato šių lėšų mokėjimo, administravimo ir priežiūros tvarką.
+
+4. Asmenys, kurie naudojasi valstybinės reikšmės keliuose šių kelių valdytojo teisėtu pagrindu valdomomis elektromobilių įkrovimo stotelėmis, už suteiktas elektromobilių įkrovimo paslaugas atsiskaito su valstybinės reikšmės kelių valdytoju. Elektromobilių įkrovimo paslaugos kainos dydžio apskaičiavimo metodiką nustato susisiekimo ministras.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
 
 7 straipsnis. Mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis
 
@@ -4201,15 +4237,13 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 91 straipsnis. CPVA funkcijos
 
-CPVA, vykdydama Programos finansavimo lėšų naudojimo šio įstatymo 9 straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą, atlieka šias funkcijas:
+CPVA, vykdydama Programos finansavimo lėšų naudojimo šio įstatymo 9 straipsnio 1 dalyje nurodytoms kelių reikmėms priežiūrą, atlieka šias funkcijas:
 
-1) prižiūri Programos lėšų naudojimą, atlikdama prevencinę viešųjų pirkimų kontrolę ir stebėseną, taip pat vertindama išlaidų, patiriamų atliekant viešųjų pirkimų procedūras, pagrįstumą ir teisėtumą;
+1) tikrina ir tvirtina deklaruotų išlaidų tinkamumą finansuoti Programos finansavimo lėšomis;
 
-2) tikrina ir tvirtina deklaruotų išlaidų tinkamumą finansuoti Programos finansavimo lėšomis;
+2) atlieka patikrinimus, įskaitant patikrinimus vietoje, siekdama nustatyti, ar Programos finansavimo lėšos panaudotos tinkamai.
 
-3) atlieka patikrinimus, įskaitant patikrinimus vietoje, siekdama nustatyti, ar Programos finansavimo lėšos panaudotos tinkamai.
+Straipsnio pakeitimai:
 
-Papildyta straipsniu:
-
-Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
+Nr. XIV-1674, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27265
 
