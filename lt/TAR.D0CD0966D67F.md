@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2023-12-30"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -189,7 +189,11 @@ Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
 
 13) gyventojų bendrosios kultūros ugdymas ir etnokultūros puoselėjimas (dalyvavimas kultūros plėtros projektuose, muziejų, teatrų, kultūros centrų ir kitų kultūros įstaigų steigimas, reorganizavimas, pertvarkymas, likvidavimas ir jų veiklos priežiūra, savivaldybių viešųjų bibliotekų steigimas, reorganizavimas, pertvarkymas ir jų veiklos priežiūra);
 
-14) sąlygų savivaldybės teritorijoje gyvenančių neįgaliųjų socialinei integracijai į savivaldybės bendruomenę sudarymas;
+14) sąlygų savivaldybės teritorijoje gyvenančių asmenų su negalia socialinei integracijai į savivaldybės bendruomenę sudarymas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 15) paramos būstui įsigyti ar išsinuomoti teikimas Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo nustatyta tvarka;
 
@@ -517,7 +521,11 @@ SAVIVALDYBĖS TARYBA
 
 8) ne mažiau kaip 1/2 visų savivaldybės tarybos narių balsų dauguma nepasitikėjimo vicemeru ar savivaldybės administracijos direktoriumi pareiškimas. Teikimą dėl nepasitikėjimo turi pasirašyti ne mažiau kaip 1/3 visų savivaldybės tarybos narių;
 
-9) savivaldybės biudžetinių įstaigų struktūros, nuostatų ir darbo užmokesčio fondo tvirtinimas, didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičiaus savivaldybės biudžetinėse įstaigose nustatymas mero teikimu;
+9) savivaldybės biudžetinių įstaigų nuostatų tvirtinimas mero teikimu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 10) sprendimų dėl mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybių skaičiaus nustatymo;
 
@@ -529,7 +537,11 @@ SAVIVALDYBĖS TARYBA
 
 14) sprendimų teikti mokesčių, rinkliavų ir kitas įstatymų nustatytas lengvatas savivaldybės biudžeto lėšomis, sprendimų dėl sumokėtų mokesčių, rinkliavų (ar jų dalies) kompensavimo tvarkos nustatymo ir šių kompensacijų teikimo savivaldybės biudžeto lėšomis priėmimas, subsidijų ir kompensacijų skyrimo naujas darbo vietas steigiančioms visų teisinių formų įmonėms tvarkos nustatymas atitinkamai keičiant savivaldybės biudžetą tais atvejais, kai lėšų tam nebuvo numatyta;
 
-15) pasiūlymų valstybės institucijoms dėl savivaldybės teritorijoje esančių šių institucijų padalinių veiklos gerinimo teikimas, prireikus šių padalinių vadovų išklausymas reglamento nustatyta tvarka;
+15) pasiūlymų dėl savivaldybės teritorijoje esančių valstybės institucijų struktūrinių padalinių veiklos gerinimo teikimas šioms institucijoms, prireikus šių struktūrinių padalinių vadovų išklausymas reglamento nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 16) sprendimų dėl biudžetinių ir viešųjų įstaigų, kurių savininkė yra savivaldybė, savivaldybės valdomų įmonių steigimo, reorganizavimo, pertvarkymo, atskyrimo, likvidavimo ir dėl dalyvavimo steigiant viešuosius ir privačius juridinius asmenis priėmimas, taip pat juridinių asmenų, kurių dalyvė yra savivaldybė, priežiūra;
 
@@ -689,7 +701,11 @@ Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
 
 4. Kolegija paprastai:
 
-1) analizuoja savivaldybės teritorijoje esančių valstybės institucijų padalinių veiklą, teikia siūlymus savivaldybės tarybai dėl šių padalinių veiklos gerinimo ir jų vadovų išklausymo;
+1) analizuoja savivaldybės teritorijoje esančių valstybės institucijų struktūrinių padalinių veiklą, teikia siūlymus savivaldybės tarybai dėl šių struktūrinių padalinių veiklos gerinimo ir jų vadovų išklausymo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 2) svarsto ir teikia siūlymus dėl savivaldybės strateginio planavimo dokumentų rengimo;
 
@@ -729,11 +745,19 @@ SAVIVALDYBĖS TARYBOS KOMITETAI IR KOMISIJOS
 
 4. Kontrolės komitetas:
 
-1) siūlo savivaldybės tarybai atleisti savivaldybės kontrolierių, kai yra įstatymuose nurodyti atleidimo iš valstybės tarnybos pagrindai;
+1) vertina atrinktus kandidatus į savivaldybės kontrolieriaus pareigas ir savivaldybės tarybai teikia savivaldybės kontrolieriaus kandidatūrą, siūlo savivaldybės tarybai atleisti savivaldybės kontrolierių, kai yra įstatymuose nurodyti atleidimo iš valstybės tarnybos pagrindai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
 2) svarsto savivaldybės kontrolės ir audito tarnybos kitų metų veiklos plano projektą ir teikia pasiūlymus dėl šio plano projekto papildymo ar pakeitimo, reglamento nustatyta tvarka iki einamųjų metų lapkričio 5 dienos grąžina šį plano projektą savivaldybės kontrolieriui tvirtinti;
 
-3) įvertina savivaldybės kontrolės ir audito tarnybos ateinančių metų veiklos planui vykdyti reikalingus biudžeto asignavimus ir išvadą dėl jų teikia savivaldybės tarybai;
+3) įvertina savivaldybės kontrolės ir audito tarnybos ateinančių metų veiklos planui vykdyti ir darbo užmokesčiui reikalingus biudžeto asignavimus ir išvadą dėl jų teikia savivaldybės tarybai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
 4) svarsto savivaldybės kontrolės ir audito tarnybos metinių ataskaitų rinkinį, jų pagrindu rengia ir teikia savivaldybės tarybai išvadas dėl savivaldybės kontrolės ir audito tarnybos veiklos;
 
@@ -749,7 +773,11 @@ SAVIVALDYBĖS TARYBOS KOMITETAI IR KOMISIJOS
 
 21 straipsnis. Savivaldybės tarybos komitetų posėdžiai
 
-1. Savivaldybės tarybos komitetų posėdžiai yra teisėti, jeigu juose dalyvauja daugiau kaip pusė visų komiteto narių. Komitetai pagal savo kompetenciją priima rekomendacinius sprendimus. Meras, savivaldybės administracija, jos padaliniai, savivaldybės biudžetinės ir viešosios įstaigos, kurių dalininkė ar savininkė yra savivaldybė, ir savivaldybės valdomos įmonės su jų veikla susijusius komitetų sprendimus turi apsvarstyti ir apie svarstymo rezultatus pranešti komitetams.
+1. Savivaldybės tarybos komitetų posėdžiai yra teisėti, jeigu juose dalyvauja daugiau kaip pusė visų komiteto narių. Komitetai pagal savo kompetenciją priima rekomendacinius sprendimus. Meras, savivaldybės administracija, jos struktūriniai padaliniai, savivaldybės biudžetinės ir viešosios įstaigos, kurių dalininkė ar savininkė yra savivaldybė, ir savivaldybės valdomos įmonės su jų veikla susijusius komitetų sprendimus turi apsvarstyti ir apie svarstymo rezultatus pranešti komitetams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 2. Savivaldybės tarybos komitetų darbe patariamojo balso teise reglamento nustatyta tvarka gali dalyvauti jiems nepriklausantys tarybos nariai, suinteresuoti asmenys. Kai komiteto posėdyje svarstomas su valstybės, tarnybos ar komercine paslaptimi susijęs klausimas, komitetas jį nagrinėja uždarame posėdyje.
 
@@ -857,7 +885,11 @@ SAVIVALDYBĖS VYKDOMOJI INSTITUCIJA
 
 2) laiku ir tinkamai būtų rengiami savivaldybės teritorijos raidos analizės ir ilgalaikių socialinių, kultūrinių, ūkinių, investicinių ir kitų programų projektai, užtikrinama jų įgyvendinimo kontrolė;
 
-3) būtų sudarytos tinkamos vietos gyventojų dalyvavimo tvarkant viešuosius savivaldybės reikalus sąlygos, nustatytos šio įstatymo 10 straipsnyje;
+3) būtų sudarytos tinkamos vietos gyventojų dalyvavimo tvarkant viešuosius savivaldybės reikalus sąlygos, nustatytos šio įstatymo 42 straipsnyje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 4) būtų deramai atstovaujama savivaldybės interesams bendradarbiaujant ir sprendžiant klausimus su valstybės valdžios ir valstybinio administravimo subjektais, teisėsaugos institucijomis, nevyriausybinėmis organizacijomis, užsienio valstybių savivaldybėmis.
 
@@ -905,7 +937,11 @@ Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
 
 5) pasirašo savivaldybės tarybos sprendimus ir posėdžių, kuriems pirmininkavo, protokolus;
 
-6) teikia savivaldybės tarybai tvirtinti savivaldybės biudžetinių įstaigų nuostatus ir darbo užmokesčio fondą bei didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių biudžetinėje įstaigoje;
+6) teikia savivaldybės tarybai tvirtinti savivaldybės biudžetinių įstaigų nuostatus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 7) priima į pareigas ir atleidžia iš jų savivaldybės biudžetinių įstaigų ir viešųjų įstaigų (kurių savininkė yra savivaldybė) vadovus; įgyvendina kitas funkcijas, susijusias su savivaldybės biudžetinių įstaigų ir viešųjų įstaigų (kurių savininkė yra savivaldybė) vadovų darbo santykiais, Lietuvos Respublikos darbo kodekso ir kitų teisės aktų nustatyta tvarka;
 
@@ -969,7 +1005,11 @@ Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
 
 3. Vadovaujantis Darbo kodekso nuostatomis, merui gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, nemokamos.
 
-4. Meras turi teisę į Darbo kodekse nustatytas lengvatas asmenims, auginantiems vaikus, ir į lengvatas neįgaliems darbuotojams.
+4. Meras turi teisę į Darbo kodekse nustatytas lengvatas asmenims, auginantiems vaikus, ir į lengvatas asmenims su negalia.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 5. Meras į komandiruotes vyksta reglamento nustatyta tvarka.
 
@@ -1021,7 +1061,11 @@ SAVIVALDYBĖS ADMINISTRACIJA IR SENIŪNIJOS
 
 33 straipsnis. Savivaldybės administracija
 
-1. Savivaldybės administracija yra savivaldybės biudžetinė įstaiga, kurią sudaro struktūriniai padaliniai, į struktūrinius padalinius neįeinantys valstybės tarnautojai ir savivaldybės administracijos filialai – seniūnijos (savivaldybės administracijos struktūriniai teritoriniai padaliniai). Savivaldybės administracijos struktūrą, jos veiklos nuostatus ir darbo užmokesčio fondą, didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių užmokestį iš savivaldybės biudžeto, pareigybių skaičių mero teikimu tvirtina ir keičia savivaldybės taryba, o pareigybes tvirtina savivaldybės administracijos direktorius. Savivaldybės administracijos įgaliojimai nėra susiję su savivaldybės tarybos ir mero įgaliojimų pabaiga. Savivaldybės administracija turi herbinį antspaudą ir sąskaitų bankuose.
+1. Savivaldybės administracija yra savivaldybės biudžetinė įstaiga, kurią sudaro struktūriniai padaliniai, į struktūrinius padalinius neįeinančios pareigybės ir savivaldybės administracijos filialai – seniūnijos (savivaldybės administracijos struktūriniai teritoriniai padaliniai). Savivaldybės administracijos nuostatus mero teikimu tvirtina ir keičia savivaldybės taryba. Savivaldybės administracijos įgaliojimai nėra susiję su savivaldybės tarybos ir mero įgaliojimų pabaiga. Savivaldybės administracija turi herbinį antspaudą ir sąskaitų bankuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 2. Savivaldybės tarybos posėdžius, komitetus, merą, kiek mero veikla susijusi su savivaldybės tarybos posėdžiais, aptarnauja, taip pat savivaldybės tarybos sprendimų projektus rengia, nagrinėja ir išvadas dėl savivaldybės tarybos sprendimų projektų rengia savivaldybės tarybos posėdžių sekretorius (-iai). Padėti jam (jiems) atlikti priskirtas funkcijas jis (jie) gali pasitelkti savivaldybės administraciją.
 
@@ -1057,7 +1101,11 @@ SAVIVALDYBĖS ADMINISTRACIJA IR SENIŪNIJOS
 
 1) valdo savivaldybės administracijai skirtus biudžeto asignavimus;
 
-2) organizuoja savivaldybės administracijos darbą, tvirtina savivaldybės administracijos struktūrinių padalinių ir savivaldybės administracijos filialų – seniūnijų – veiklos nuostatus, tvirtina savivaldybės administracijos, seniūnijų metinius veiklos planus ir kitus strateginio planavimo dokumentų įgyvendinimą detalizuojančius dokumentus ir kontroliuoja jų įgyvendinimą, atsako už vidaus administravimą savivaldybės administracijoje;
+2) organizuoja savivaldybės administracijos darbą, tvirtina struktūrinių padalinių ir savivaldybės administracijos filialų – seniūnijų – nuostatus, tvirtina savivaldybės administracijos, seniūnijų metinius veiklos planus ir kitus strateginio planavimo dokumentų įgyvendinimą detalizuojančius dokumentus ir kontroliuoja jų įgyvendinimą, atsako už vidaus administravimą savivaldybės administracijoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 3) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų savivaldybės administracijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, seniūnijų – biudžetinių įstaigų – vadovus – seniūnus, atlieka kitas Valstybės tarnybos įstatymo ir mero jam priskirtas personalo valdymo funkcijas;
 
@@ -1103,9 +1151,17 @@ SAVIVALDYBĖS ADMINISTRACIJA IR SENIŪNIJOS
 
 8. Seniūnas yra seniūnijos vadovas, seniūnijai skirtų biudžeto asignavimų valdytojas. Seniūnas yra valstybės tarnautojas: seniūnijos – savivaldybės administracijos filialo – seniūnas yra karjeros valstybės tarnautojas, seniūnijos – biudžetinės įstaigos – seniūnas yra valstybės tarnautojas – įstaigos vadovas.
 
-9. Seniūną ir seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 17 straipsnio 2 ir 3 dalyse numatytas garantijas, kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, nustatytus šio straipsnio 10 dalyje. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 49 straipsnio 1 dalyje numatytą garantiją, išskyrus atvejus, kai dėl kitos seniūnijos – biudžetinės įstaigos – reorganizavimo ar savivaldybės administracijoje atliekamos seniūnijų, kurių forma yra filialas, struktūrinės pertvarkos naikinama seniūno pareigybė. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių: ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys.
+9. Seniūną ir seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 33 straipsnio 1 ir 2 dalyse numatytas garantijas, kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, nustatytus šio straipsnio 10 dalyje. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių: ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys.
 
-10. Kai keičiama seniūnijos forma, seniūnas turi teisę būti be konkurso priimtas į kitos formos seniūnijos seniūno pareigas, kai seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui, ir visi jo metiniai tarnybinės veiklos vertinimai iki tol buvo geri arba labai geri.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
+
+10. Kai keičiama seniūnijos forma, seniūnas turi teisę būti be konkurso priimtas į kitos formos seniūnijos seniūno pareigas, kai seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui, ir visi jo metiniai tarnybinės veiklos vertinimai iki tol buvo tik kaip atitinkantys lūkesčius ir (ar) viršijantys lūkesčius (iki 2023 m. gruodžio 31 d. – geri ir (ar) labai geri).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
 11. Seniūnas yra tiesiogiai pavaldus ir atskaitingas savivaldybės administracijos direktoriui, seniūnas – biudžetinės įstaigos vadovas – taip pat atskaitingas savivaldybės tarybai.
 
@@ -1221,7 +1277,11 @@ ATSTOVAVIMAS GYVENAMŲJŲ VIETOVIŲ BENDRUOMENĖMS
 
 13. Seniūnaičio pažymėjime turi būti seniūnaičio atvaizdas (nuotrauka). Seniūnaičio pažymėjimas turi būti pasirašytas mero. Seniūnaičio pažymėjimas nėra asmens tapatybę patvirtinantis dokumentas.
 
-14. Jeigu seniūnaitis atsisako savo įgaliojimų, negali atlikti pareigų dėl neįgalumo ar netekto darbingumo arba miršta, organizuojami nauji seniūnaičio rinkimai.
+14. Jeigu seniūnaitis atsisako savo įgaliojimų, negali atlikti pareigų dėl negalios ar netekto dalyvumo arba miršta, organizuojami nauji seniūnaičio rinkimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 15. Seniūnaičiui su jo, kaip seniūnaičio, veikla susijusioms kanceliarinėms, pašto, telefono, interneto ryšio, transporto išlaidoms apmokėti, kiek jų nesuteikia ar tiesiogiai neapmoka savivaldybės administracija, gali būti skiriama išmoka, už kurią atsiskaitoma ne rečiau kaip vieną kartą per metus. Šios išmokos dydį ir atsiskaitymo tvarką nustato tos savivaldybės taryba.
 
@@ -1249,7 +1309,11 @@ ATSTOVAVIMAS GYVENAMŲJŲ VIETOVIŲ BENDRUOMENĖMS
 
 1) prižiūrėti gyvenamosios vietovės teritoriją, rūpintis aplinkos apsauga;
 
-2) rūpintis labiausiai pažeidžiamais bendruomenės nariais (socialinę riziką patiriančiomis šeimomis, nepilnamečiais, vienais gyvenančiais asmenimis, neįgaliaisiais ir kitais);
+2) rūpintis labiausiai pažeidžiamais bendruomenės nariais (socialinę riziką patiriančiomis šeimomis, nepilnamečiais, vienais gyvenančiais asmenimis, asmenimis su negalia ir kitais);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 3) organizuoti sveikatinimo, kultūros ir sporto renginius ir juose dalyvauti;
 
@@ -1309,7 +1373,11 @@ Vietos gyventojų informavimui keliami reikalavimai:
 
 2) informacija skelbiama ne mažiau kaip dviem būdais, iš kurių vienas – informacijos skelbimas savivaldybės interneto svetainėje; kiti informacijos skelbimo būdai parenkami atsižvelgiant į informacijos gavėjų skaičių, jų gyvenamąją vietą ar interesų grupę (-es);
 
-3) informacijos tekstas formuluojamas taip, kad informacija būtų suvokiama ir asmenims, neturintiems atitinkamos srities specialiųjų žinių, ir pateikiamas taip, kad būtų prieinamas neįgaliesiems; jeigu informacija teikiama teisės akto ar kito informacijos šaltinio pagrindu, pateikiama interneto nuoroda į šį teisės aktą ar informacijos šaltinį arba nurodomas teisės akto pavadinimas, jo data ir numeris ar informacijos šaltinis;
+3) informacijos tekstas formuluojamas taip, kad informacija būtų suvokiama ir asmenims, neturintiems atitinkamos srities specialiųjų žinių, ir pateikiamas taip, kad būtų prieinamas asmenims su negalia; jeigu informacija teikiama teisės akto ar kito informacijos šaltinio pagrindu, pateikiama interneto nuoroda į šį teisės aktą ar informacijos šaltinį arba nurodomas teisės akto pavadinimas, jo data ir numeris ar informacijos šaltinis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 4) informuojant nurodomi savivaldybės vieno langelio asmenų aptarnavimo padalinio kontaktiniai duomenys ar asmens, kuris gali pateikti papildomos informacijos, kontaktiniai duomenys (telefono numeris ir elektroninio pašto adresas);
 
@@ -1465,7 +1533,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-2109, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14000
 
-4. Jeigu seniūnija, vadovaudamasi šio įstatymo 54 straipsnio 2 dalyje numatytu savivaldybės tarybos sprendimu, pati teikia viešąsias paslaugas, šioms paslaugoms administruoti paskiriamas savivaldybės administracijos padalinys.
+4. Jeigu seniūnija, vadovaudamasi šio įstatymo 54 straipsnio 2 dalyje numatytu savivaldybės tarybos sprendimu, pati teikia viešąsias paslaugas, šioms paslaugoms administruoti paskiriamas savivaldybės administracijos struktūrinis padalinys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 49 straipsnis. Apklausos teritorija
 
@@ -1787,7 +1859,11 @@ Teritorijų planavimas savivaldybėje vykdomas ir teritorijų planavimo dokument
 
 3. Savivaldybės strateginiame veiklos plane, kuris rengiamas 3 metų laikotarpiui (kiekvienais metais jį tikslinant), detalizuojama, kaip įgyvendinami savivaldybės strateginio plėtros plano ir savivaldybės atskirų ūkio šakų (sektorių) plėtros programų tikslai ir uždaviniai; šis planas sudaromas atsižvelgiant į planuojamus savivaldybės finansinius ir žmogiškuosius išteklius.
 
-4. Savivaldybės administracijos, seniūnijos, biudžetinės įstaigos metiniai veiklos planai yra savivaldybės strateginio veiklos plano programų ar jų dalies (tikslų ar uždavinių, atskirų priemonių), už kurias atsakinga savivaldybės administracija, seniūnija, biudžetinė įstaiga, įgyvendinimą detalizuojantys dokumentai, kurie rengiami atsižvelgiant į savivaldybės biudžete numatomus joms skirti asignavimus. Šiuose planuose nurodomi konkretūs savivaldybės administracijos (jos struktūrinių padalinių), seniūnijos, biudžetinės įstaigos darbai (veiksmai) ir (ar) projektai, kurie numatomi atlikti tais metais, darbams (veiksmams) ir (ar) projektams planuojami skirti asignavimai ir rezultatų, kuriuos šios įstaigos ar jų padaliniai turi pasiekti, vertinimo kriterijai (ir jų reikšmės).
+4. Savivaldybės administracijos, seniūnijos, biudžetinės įstaigos metiniai veiklos planai yra savivaldybės strateginio veiklos plano programų ar jų dalies (tikslų ar uždavinių, atskirų priemonių), už kurias atsakinga savivaldybės administracija, seniūnija, biudžetinė įstaiga, įgyvendinimą detalizuojantys dokumentai, kurie rengiami atsižvelgiant į savivaldybės biudžete numatomus joms skirti asignavimus. Šiuose planuose nurodomi konkretūs savivaldybės administracijos (jos struktūrinių padalinių), seniūnijos, biudžetinės įstaigos darbai (veiksmai) ir (ar) projektai, kurie numatomi atlikti tais metais, darbams (veiksmams) ir (ar) projektams planuojami skirti asignavimai ir rezultatų, kuriuos šios įstaigos ar jų struktūriniai padaliniai turi pasiekti, vertinimo kriterijai (ir jų reikšmės).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 5. Strateginio planavimo savivaldybėje organizavimo (savivaldybės strateginio planavimo dokumentų ir jų įgyvendinimą detalizuojančių planavimo dokumentų rengimo, svarstymo ir tvirtinimo, įgyvendinimo stebėsenos, numatytų pasiekti rezultatų vertinimo, ataskaitų dėl planavimo dokumentų įgyvendinimo rengimo ir svarstymo, savivaldybės gyventojų įtraukimo į jų rengimą, svarstymą ir įgyvendinimo priežiūrą, viešinimo ir kita) tvarką nustato savivaldybės taryba, vadovaudamasi Lietuvos Respublikos strateginio valdymo įstatymu.
 
@@ -1917,7 +1993,11 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 7. Savivaldybės kontrolierius, savivaldybės kontrolės ir audito tarnybos valstybės tarnautojai negali būti tos savivaldybės tarybos nariais ir darbo laiku negali dalyvauti politinių organizacijų veikloje. Be to, savivaldybės kontrolieriaus ir savivaldybės kontrolės ir audito tarnybos valstybės tarnautojo pareigos nesuderinamos su jokiomis kitomis renkamomis pareigomis valstybės ir savivaldybių institucijose, įstaigose ir įmonėse.
 
-8. Savivaldybės kontrolierius į pareigas priimamas konkurso būdu ir iš jų atleidžiamas Valstybės tarnybos įstatymo nustatyta tvarka. Savivaldybės kontrolierius privalo turėti aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip 3 metų darbo finansų, ekonomikos, teisės, audito arba kontrolės srityse patirtį. Savivaldybės kontrolieriaus kadencijų skaičius nėra ribojamas.
+8. Savivaldybės kontrolierius į pareigas priimamas konkurso būdu arba šio įstatymo nustatytu atveju be konkurso ir iš jų atleidžiamas Valstybės tarnybos įstatymo nustatyta tvarka. Savivaldybės kontrolierius privalo turėti aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip 3 metų darbo finansų, ekonomikos, teisės, audito arba kontrolės srityse patirtį. Jeigu savivaldybės kontrolieriaus pirmosios kadencijos Savivaldybės kontrolės ir audito tarnybos veiklą Kontrolės komitetas įvertina teigiamai, savivaldybės kontrolierius gali būti skiriamas antrai kadencijai be konkurso.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
 9. Savivaldybės kontrolierius:
 
@@ -1975,7 +2055,11 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 1. Savivaldybės centralizuotą vidaus audito tarnybą (toliau – vidaus audito tarnyba) įsteigia savivaldybės taryba, tvirtindama savivaldybės administracijos struktūrą.
 
-2. Vidaus audito tarnybos vadovas ir vidaus auditoriai yra karjeros valstybės tarnautojai. Pretendentų į vidaus audito tarnybos vadovo pareigas konkurso komisijos nariu turi būti kviečiamas Lietuvos Respublikos finansų ministerijos atstovas.
+2. Vidaus audito tarnybos vadovas ir vidaus auditoriai yra darbuotojai, dirbantys pagal darbo sutartis. Pretendentų į vidaus audito tarnybos vadovo pareigas konkurso komisijos nariu turi būti kviečiamas Lietuvos Respublikos finansų ministerijos atstovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
 3. Vidaus audito tarnybai vadovauja ir už jos veiklą atsako jos vadovas. Ši tarnyba yra atskaitinga merui. Meras užtikrina vidaus audito tarnybos veiklos ir organizacinį nepriklausomumą ir šios valdymo funkcijos negali perduoti kitiems viešojo juridinio asmens valstybės tarnautojams ar darbuotojams, dirbantiems pagal darbo sutartis.
 
@@ -1989,7 +2073,11 @@ Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
 
 6. Vidaus audito tarnyba savo funkcijas įgyvendina atlikdama vidaus auditus ir jų rezultatų pagrindu formuluodama rekomendacijas. Vidaus auditoriai atlikto audito ataskaitas pateikia merui, savivaldybės tarybai ir audituotų subjektų vadovams. Meras ir audituotų subjektų vadovai turi priimti sprendimus dėl vidaus audito rekomendacijų įgyvendinimo. Be to, atliktų vidaus auditų ataskaitos gali būti teikiamos savivaldybės tarybos Kontrolės komitetui, savivaldybės kontrolės ir audito tarnybai, kai jie raštu to prašo.
 
-7. Kad būtų išsaugotas objektyvumas ir nepriklausomumas, vidaus audito tarnybos vadovas ir vidaus auditoriai negali dalyvauti savivaldybės administravimo subjektų, savivaldybės valdomų įmonių ir savivaldybės viešųjų juridinių asmenų valdymo organuose, negali dalyvauti rengiant vidaus kontrolės sistemos tobulinimo dokumentų projektus ar kuriant, nustatant ir įgyvendinant savivaldybės administracijos ir jos padalinių, savivaldybės valdomų įmonių ir viešųjų juridinių asmenų vidaus kontrolę, įskaitant finansų kontrolę, jos procedūras.
+7. Kad būtų išsaugotas objektyvumas ir nepriklausomumas, vidaus audito tarnybos vadovas ir vidaus auditoriai negali dalyvauti savivaldybės administravimo subjektų, savivaldybės valdomų įmonių ir savivaldybės viešųjų juridinių asmenų valdymo organuose, negali dalyvauti rengiant vidaus kontrolės sistemos tobulinimo dokumentų projektus ar kuriant, nustatant ir įgyvendinant savivaldybės administracijos ir jos struktūrinių padalinių, savivaldybės valdomų įmonių ir viešųjų juridinių asmenų vidaus kontrolę, įskaitant finansų kontrolę, jos procedūras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 8. Vidaus audito tarnyba savo veikloje vadovaujasi Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais teisės aktais, reglamentuojančiais vidaus auditą.
 
