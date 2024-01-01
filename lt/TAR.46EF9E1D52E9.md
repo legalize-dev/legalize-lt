@@ -4,7 +4,7 @@ identifier: "TAR.46EF9E1D52E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-29"
-last_updated: "2022-09-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
 
@@ -96,7 +96,11 @@ Diplomatinė tarnyba yra vientisa. Ją sudaro:
 
 5) lankstumas. Diplomatas turi gebėti prisitaikyti prie kintančių veiklos sąlygų ir reikalavimų: technologijos ir technikos, darbo organizavimo pokyčių ir kitų aplinkybių;
 
-6) lojalumas valstybei ir politinis neutralumas. Diplomatas turi veikti valstybės interesais, nepažeisti jos konstitucinės santvarkos, prireikus imtis visų teisėtų veiksmų, kurių reikia šiai santvarkai apsaugoti;
+6) lojalumas Lietuvos valstybei ir jos konstitucinei santvarkai. Diplomatas turi veikti valstybės interesais, nepažeisti jos konstitucinės santvarkos, prireikus imtis visų teisėtų veiksmų, kurių reikia šiai santvarkai apsaugoti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 7) nesavanaudiškumas. Diplomatas privalo naudoti jam patikėtą valstybės turtą, tarnybinę informaciją tik visuomenės gerovei, eidamas pareigas nesiekti naudos sau ar kitiems su juo susijusiems asmenims (sutuoktiniui arba partneriui (kai partnerystė įregistruota įstatymų nustatyta tvarka) (toliau – partneris), artimajam giminaičiui, svainystės ryšiais susijusiam asmeniui ar kitam valstybės tarnautojo viešųjų ir privačių interesų deklaracijoje nurodytam asmeniui); tarnauti išimtinai visuomenės interesams;
 
@@ -106,7 +110,11 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 8) sąžiningumas ir nešališkumas. Diplomatas privalo būti objektyvus, priimdamas sprendimus vengti asmeniškumų; išklausyti ir pateikti tokią informaciją, kuri padėtų asmeniui priimti tinkamiausią sprendimą; nedemonstruoti savo simpatijų ar antipatijų ir išskirtinio dėmesio atskiriems asmenims ar jų grupėms;
 
-9) padorumas. Diplomatas privalo elgtis nepriekaištingai, nepriimti dovanų, pinigų ar paslaugų, išskirtinių lengvatų ir nuolaidų iš fizinių asmenų, įmonių, įstaigų ar organizacijų, siekiančių daryti įtaką, kai jis eina pareigas. Užsienio valstybių apdovanojimų, taip pat – dovanų ar paslaugų, nurodytų Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 14 straipsnio 2 dalyje, priėmimas šio įstatymo ir kitų teisės aktų nustatyta tvarka nelaikomas šio principo pažeidimu;
+9) padorumas. Diplomatas privalo elgtis nepriekaištingai, nepriimti dovanų, pinigų ar paslaugų, išskirtinių lengvatų ir nuolaidų iš fizinių asmenų, įmonių, įstaigų ar organizacijų, siekiančių daryti įtaką, kai jis eina pareigas. Užsienio valstybių apdovanojimų, taip pat dovanų ar paslaugų, nurodytų Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo 13 straipsnio 2 dalyje, priėmimas Viešųjų ir privačių interesų derinimo įstatymo nustatyta tvarka nelaikomas šio principo pažeidimu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 10) pagarba žmogui ir valstybei. Diplomatas privalo gerbti žmogų ir pagrindines jo teises bei laisves, valstybę, jos institucijas ir įstaigas, laikytis Konstitucijos, įstatymų, kitų teisės aktų ir vykdyti teismų sprendimus;
 
@@ -114,23 +122,33 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 12) profesionalumas. Diplomatas turi siekti aukščiausios kokybės tarnybinės veiklos rezultatų, deramai atlikti savo pareigas, nuolat tobulėti;
 
-13) teisingumas. Diplomatas privalo vienodai tarnauti visiems žmonėms, nepaisydamas lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, būti teisingas nagrinėdamas prašymus, skundus, nepiktnaudžiauti jam suteiktomis galiomis, naudoti savo tarnybos laiką efektyviai ir tik tarnybos tikslams;
+13) teisingumas. Diplomatas privalo vienodai tarnauti visiems žmonėms, nepaisydamas lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos ar kitų bruožų, būti teisingas nagrinėdamas prašymus, skundus, nepiktnaudžiauti jam suteiktomis galiomis, naudoti savo tarnybos laiką efektyviai ir tik tarnybos tikslams;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
-14) viešumas ir skaidrumas. Diplomatų tarnybinė veikla turi būti vieša ir suprantama, atvira įvertinti; diplomatas savo veikloje privalo vengti viešųjų ir privačių interesų konflikto. Viešumo principo veikimas gali būti ribojamas siekiant apsaugoti asmens teises, valstybės, tarnybos ar komercinę paslaptį.
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+14) viešumas ir skaidrumas. Diplomatų tarnybinė veikla turi būti vieša ir suprantama, atvira įvertinti; diplomatas savo veikloje privalo vengti viešųjų ir privačių interesų konflikto. Viešumo principo veikimas gali būti ribojamas siekiant apsaugoti asmens teises, valstybės, tarnybos ar komercinę paslaptį;
+
+15) politinis neutralumas. Diplomatas turi būti neutralus politinio proceso dalyvių atžvilgiu, pasikeitus politinei valdžiai, privalo užtikrinti viešojo intereso tęstinumą (netaikoma diplomatams, einantiems politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigas).
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Užsienio reikalų ministras, vadovaudamasis šio straipsnio 1 dalyje įtvirtintais diplomatų veiklos ir tarnybinės etikos principais, yra atsakingas už tarnybinės etikos politikos formavimą diplomatinėje tarnyboje ir kontroliuoja, kaip ji įgyvendinama.
 
 7 straipsnis. Diplomatų pareigybių skaičius, pareigybių aprašymai ir sąrašai
 
-1. Didžiausią leistiną diplomatų pareigybių skaičių tvirtina užsienio reikalų ministras, neviršydamas Vyriausybės nustatyto didžiausio leistino pareigybių skaičiaus Užsienio reikalų ministerijoje kartu su diplomatinėmis atstovybėmis, konsulinėmis įstaigomis ir specialiosiomis misijomis.
+1. Diplomatų pareigybių skaičių ir pareigybių sąrašus tvirtina užsienio reikalų ministras, konsultuodamasis su darbuotojų atstovavimą įgyvendinančiais asmenimis.
 
 2. Diplomatų pareigybės aprašomos ir vertinamos vadovaujantis užsienio reikalų ministro tvirtinama Diplomatų pareigybių aprašymo ir vertinimo metodika.
 
-3. Diplomatų pareigybių aprašymus ir sąrašus tvirtina užsienio reikalų ministras.
+Straipsnio pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 11 straipsnis. Diplomatinės atstovybės steigimas ir likvidavimas, užsienio valstybių atstovavimas Lietuvos Respublikos interesams, nesteigiant diplomatinės atstovybės
 
@@ -156,7 +174,11 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 7) platina informaciją apie Lietuvos Respubliką, jos politinę, socialinę ir ekonominę padėtį, kultūrą, papročius ir tradicijas;
 
-8) rūpinasi priimančiojoje valstybėje gyvenančių lietuvių ryšių su Lietuvos Respublika palaikymu ir stiprinimu.
+8) rūpinasi Lietuvos diasporos ryšių su Lietuvos Respublika palaikymu ir stiprinimu.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Diplomatinei atstovybei užsienio valstybėje užsienio reikalų ministras gali pavesti vykdyti konsulines ir kitas funkcijas, atitinkančias diplomatinės atstovybės statusą pagal 1961 m. Vienos konvenciją dėl diplomatinių santykių ir viešąją tarptautinę teisę.
 
@@ -200,7 +222,11 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 2. Asmuo, pretenduojantis į diplomatinę tarnybą, turi atitikti šiuos reikalavimus:
 
-1) būti Lietuvos Respublikos pilietis ir mokėti valstybinę lietuvių kalbą;
+1) būti Lietuvos Respublikos pilietis ir mokėti valstybinę lietuvių kalbą pagal Vyriausybės nustatytas kalbos mokėjimo kategorijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2) būti ne jaunesnis kaip 18 metų ir ne vyresnis kaip 65 metų;
 
@@ -210,7 +236,11 @@ Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 3) būti nepriekaištingos reputacijos;
 
-4) turėti aukštąjį universitetinį arba jam prilygintą išsilavinimą;
+4) turėti aukštąjį universitetinį išsilavinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 5) mokėti ne mažiau kaip dvi užsienio kalbas;
 
@@ -218,11 +248,21 @@ Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 3. Į diplomato pareigas negali būti priimtas asmuo:
 
-1) neatitinkantis nepriekaištingos reputacijos reikalavimų;
+1) jeigu iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Valstybės tarnybos įstatymo 39 straipsnyje nurodyto registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar su kuriais diplomato tarnybos sutartis ar terminuota tarnybos sutartis buvo nutraukta dėl šių priežasčių, ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų ar diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, iš asmens, siekiančio tapti diplomatu, užpildytos deklaracijos ar kitų duomenų, gautų šio įstatymo 6 straipsnio 4 dalyje nustatyta tvarka, paaiškėja, kad jis neatitinka nepriekaištingos reputacijos reikalavimų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2) kurio teisę eiti valstybės tarnautojo pareigas yra atėmęs teismas;
 
-3) įstatymų nustatyta tvarka pripažintas neveiksniu su valstybės tarnautojo atliekamomis funkcijomis susijusioje srityje.
+3) įstatymų nustatyta tvarka pripažintas neveiksniu su valstybės tarnautojo atliekamomis funkcijomis susijusioje srityje;
+
+4) kurio sutuoktinis, partneris, sugyventinis, artimasis giminaitis ar svainystės ryšiais susijęs asmuo eina diplomato ar valstybės tarnautojo pareigas, jeigu jie pagal pareigas būtų susiję tiesioginio pavaldumo santykiais.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 4. Asmuo, pretenduojantis į diplomatinę tarnybą, turi užpildyti Vyriausybės patvirtintos formos deklaraciją, kurioje pateikiami duomenys dėl jo atitikties nepriekaištingos reputacijos reikalavimams. Jeigu nustatoma, kad asmuo, pretenduojantis į diplomatinę tarnybą, ar diplomatas nuslėpė ar pateikė tikrovės neatitinkančius duomenis dėl jo atitikties nepriekaištingos reputacijos reikalavimams, asmuo, siekiantis diplomato statuso, nepriimamas į diplomatinę tarnybą, o su diplomatu nutraukiama diplomato tarnybos ar terminuota diplomato tarnybos sutartis.
 
@@ -230,7 +270,11 @@ Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 24 straipsnis. Parengiamasis laikotarpis
 
-1. Su asmeniu, atitinkančiu šio įstatymo 23 straipsnio 2 dalyje nurodytus reikalavimus, jeigu nėra šio įstatymo 23 straipsnio 3 dalyje nurodytų aplinkybių, ir laimėjusiu konkursą, parengiamajam laikotarpiui sudaroma šio įstatymo 28 straipsnyje nurodyta terminuota diplomato tarnybos sutartis. Per parengiamąjį laikotarpį įvertinama, ar asmuo tinka diplomatinei tarnybai. Parengiamojo laikotarpio trukmė – 6 mėnesiai, šį terminą užsienio reikalų ministras gali sutrumpinti iki 3 mėnesių.
+1. Su asmeniu, atitinkančiu šio įstatymo 23 straipsnio 2 dalyje nurodytus reikalavimus, jeigu nėra šio įstatymo 23 straipsnio 3 dalyje nurodytų aplinkybių, ir laimėjusiu konkursą, parengiamajam laikotarpiui sudaroma šio įstatymo 28 straipsnyje nurodyta terminuota diplomato tarnybos sutartis. Per parengiamąjį laikotarpį užsienio reikalų ministro nustatyta tvarka įvertinama, ar asmuo tinka diplomatinei tarnybai. Parengiamojo laikotarpio trukmė – 6 mėnesiai, šį terminą užsienio reikalų ministras gali sutrumpinti iki 3 mėnesių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Likus ne mažiau kaip vienam mėnesiui iki parengiamojo laikotarpio pabaigos, užsienio reikalų ministras, atsižvelgdamas į Atestacijos komisijos rekomendacijas, šio įstatymo nustatyta tvarka nusprendžia su asmeniu sudaryti diplomato tarnybos sutartį arba raštu praneša, kad su juo sudaryti diplomato tarnybos sutartį atsisakoma.
 
@@ -254,7 +298,11 @@ prisiekiu ištikimai dirbti Lietuvos Respublikai, gerbti ir vykdyti jos Konstitu
 
 27 straipsnis. Diplomato tarnybos sutartis
 
-Su priimamu į diplomatinę tarnybą asmeniu sudaroma diplomato tarnybos sutartis. Diplomato tarnybos sutartis yra asmens, priimamo į diplomatinę tarnybą, ir Užsienio reikalų ministerijos rašytinis susitarimas, kuriuo asmuo įsipareigoja vykdyti šiame įstatyme ir sutartyje numatytas diplomato pareigas, laikytis šiame įstatyme ir Užsienio reikalų ministerijos veiklą reglamentuojančiuose teisės aktuose nustatytų diplomatų veiklos ir tarnybinės etikos principų ir taisyklių, o Užsienio reikalų ministerija įsipareigoja mokėti diplomatui šio įstatymo nustatytą darbo užmokestį ir užtikrinti tinkamas diplomato tarnybos sąlygas. Diplomato tarnybos sutarties formą tvirtina užsienio reikalų ministras.
+Su priimamu į diplomatinę tarnybą asmeniu sudaroma diplomato tarnybos sutartis. Diplomato tarnybos sutartis yra asmens, priimamo į diplomatinę tarnybą, ir Užsienio reikalų ministerijos rašytinis susitarimas, kuriuo asmuo įsipareigoja vykdyti šiame įstatyme ir diplomato tarnybos sutartyje numatytas diplomato pareigas, laikytis šiame įstatyme ir Užsienio reikalų ministerijos veiklą reglamentuojančiuose teisės aktuose nustatytų diplomatų veiklos ir tarnybinės etikos principų ir taisyklių, o Užsienio reikalų ministerija įsipareigoja mokėti diplomatui teisės aktų nustatytą darbo užmokestį ir užtikrinti tinkamas diplomato tarnybos sąlygas. Diplomato tarnybos sutarties formą tvirtina užsienio reikalų ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 29 straipsnis. Diplomato pareigos
 
@@ -278,7 +326,11 @@ Su priimamu į diplomatinę tarnybą asmeniu sudaroma diplomato tarnybos sutarti
 
 9) nesinaudoti valstybės ar savivaldybių nuosavybe ne tarnybinei veiklai;
 
-10) nedalyvauti su diplomato pareigomis nesuderinamoje veikloje ir nenaudoti tarnybos (darbo) laiko kitiems tikslams, išskyrus kitą darbą, dirbamą turint užsienio reikalų ministro ar jo įgalioto asmens leidimą šio įstatymo 31 straipsnyje nustatyta tvarka, jeigu tai netrukdys diplomatui tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat – profesinės sąjungos atstovo pareigų atlikimą.
+10) nedalyvauti su diplomato pareigomis nesuderinamoje veikloje ir nenaudoti tarnybos (darbo) laiko kitiems tikslams, išskyrus kitą darbą ar kitą veiklą, kuris dirbamas ar kuria užsiimama turint užsienio reikalų ministro ar jo įgalioto asmens leidimą, išduotą šio įstatymo 31 straipsnyje nustatyta tvarka, jeigu tai netrukdo diplomatui tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat – profesinės sąjungos atstovo pareigų atlikimą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Įstatymai gali nustatyti ir kitų diplomatams taikomų pareigų.
 
@@ -286,7 +338,7 @@ Su priimamu į diplomatinę tarnybą asmeniu sudaroma diplomato tarnybos sutarti
 
 1. Diplomatas turi teisę:
 
-1) gauti šio įstatymo nustatytą darbo užmokestį, taip pat gauti įstatymų ir kitų teisės aktų pagrindu nustatytą atlyginimą:
+1) gauti teisės aktų nustatytą darbo užmokestį, taip pat gauti įstatymų ir kitų teisės aktų pagrindu nustatytą atlyginimą:
 
 a) už darbą visų lygių rinkimų, referendumo komisijose ir kitose komisijose (tarybose);
 
@@ -294,155 +346,151 @@ b) už darbą pagal sutartis, sudarytas su rinkimų, referendumo ir kitomis komi
 
 c) už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, jeigu už tą darbo laiką neturi būti mokamas diplomato darbo užmokestis iš valstybės biudžeto lėšų;
 
-d) kitą teisės aktų nustatyta tvarka mokamą atlyginimą;
+d) už veiklą einant valstybės ar savivaldybės biudžetinės įstaigos, valstybės ar savivaldybės valdomos įmonės ar jos dukterinės bendrovės, viešosios įstaigos, kurios savininkė ar dalininkė yra valstybė ar savivaldybė, kolegialaus organo nario pareigas;
 
-2) į karjerą;
+e) kitą teisės aktų nustatyta tvarka mokamą atlyginimą;
+
+2) siekti karjeros;
 
 3) į šio ir kitų įstatymų nustatytas atostogas;
 
-4) į socialinio draudimo pensiją, šio įstatymo ir kitų teisės aktų nustatytas socialines ir kitas garantijas;
+4) į socialinio draudimo pensijas, skiriamas ir mokamas Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatyta tvarka, šio įstatymo ir kitų teisės aktų nustatytas socialines ir kitas garantijas;
 
-5) būti profesinių sąjungų, organizacijų ar susivienijimų nariais, taip pat politinių partijų ar organizacijų nariais, ne tarnybos (darbo) laiku dalyvauti politinėje veikloje;
+5) būti profesinių sąjungų, jų organizacijų ar susivienijimų, politinių organizacijų, kitų organizacijų nariais, ne tarnybos (darbo) laiku dalyvauti politinėje veikloje;
 
-6) būti atleistas nuo tarnybinių pareigų dalyvauti Seimo, Respublikos Prezidento, Europos Parlamento ar savivaldybių tarybų rinkimuose įstatymų nustatyta tvarka, paskelbus juos kandidatais, už tą laikotarpį negaudamas darbo užmokesčio;
+6) būti atleistas nuo tarnybinių pareigų dalyvauti Respublikos Prezidento, Seimo, Europos Parlamento, savivaldybių merų ar savivaldybių tarybų rinkimuose, įstatymų nustatyta tvarka, paskelbus juos kandidatais, už tą laikotarpį negaudamas darbo užmokesčio;
 
-7) diplomatą į pareigas priimančio asmens sprendimu būti paskirtas (išrinktas) eiti su valstybės atstovavimu susijusias pareigas įmonių, įstaigų, organizacijų, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, kolegialiuose organuose;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2611, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20638
+7) diplomatą į pareigas priimančio asmens sprendimu būti paskirtas (išrinktas) eiti su valstybės atstovavimu susijusias pareigas įmonių, įstaigų, organizacijų, nepaisant jų nuosavybės formos, teisinės formos, rūšies ir veiklos pobūdžio, kolegialiuose organuose;
 
 8) tobulinti kvalifikaciją šio įstatymo ir užsienio reikalų ministro nustatyta tvarka.
 
-2. Teisę atkurti diplomato statusą – šio įstatymo nustatyta tvarka grįžti į ne žemesnes negu eitos diplomato pareigos, o jeigu tokios galimybės nėra, Atestacijos komisijos siūlymu į žemesnes diplomato pareigas turi asmenys, nurodyti šio įstatymo 48 straipsnyje, 62 straipsnio 3, 4, 5 ir 6 dalyse ir 92 straipsnio 13 dalyje. Skiriant asmenį į diplomato pareigas, atsižvelgiama į jo eitas diplomato pareigas, kompetenciją, darbo užsienio ir (ar) Europos Sąjungos politikos srityje patirtį, jo veiklos kitose institucijose, įstaigose ir organizacijose, tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybės institucijose vertinimą.
+2. Teisę atkurti diplomato statusą – šio įstatymo nustatyta tvarka grįžti į ne žemesnes negu eitos diplomato pareigos, o jeigu tokios galimybės nėra, Atestacijos komisijos siūlymu į žemesnes diplomato pareigas turi asmenys, nurodyti šio įstatymo 48 straipsnyje, 62 straipsnio 3, 4, 5 ir 6 dalyse ir 92 straipsnio 13 dalyje. Skiriant asmenį į diplomato pareigas, atsižvelgiama į jo eitas diplomato pareigas, diplomato tarnybinės veiklos pobūdį, sudėtingumą, atsakomybės lygį, jo turėtą diplomatinį rangą, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimą, darbo užsienio ir (ar) Europos Sąjungos politikos srityje patirtį, jo veiklos kitose institucijose, įstaigose ir organizacijose, tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybės institucijose vertinimą.
+
+3. Kiti įstatymai gali nustatyti ir kitų diplomatams taikomų teisių.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+31 straipsnis. Diplomato teisė dirbti kitą darbą ar užsiimti kita veikla
+
+1. Diplomatui leidžiama dirbti įmonėse, įstaigose, organizacijose, nepaisant jų nuosavybės formos, teisinės formos, rūšies ir veiklos pobūdžio, ir gauti už šį darbą darbo užmokestį ar atlyginimą, taip pat užsiimti kita veikla ir gauti už ją pajamas (toliau – dirbti kitą darbą ar užsiimti kita veikla), jeigu tai nesukelia interesų konflikto diplomatinėje tarnyboje, nesudaro prielaidų diplomatinę tarnybą panaudoti privačiais interesais, nediskredituoja diplomatinės tarnybos autoriteto, nekliudo diplomatui tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai nėra darbas ar veikla tose įmonėse, įstaigose, organizacijose, dėl kurių diplomatas turi valdinius įgaliojimus arba kontroliuoja, prižiūri jų veiklą, priima sprendimus dėl tos įmonės, įstaigos ar organizacijos, ir kai nėra kitų aplinkybių, dėl kurių diplomatai negali dirbti kito darbo ir gauti už šį darbą darbo užmokestį ar atlyginimą ar užsiimti kita veikla ir gauti už ją pajamas.
+
+2. Sprendimą dėl leidimo diplomatui dirbti kitą darbą ar užsiimti kita veikla priima užsienio reikalų ministras ar jo įgaliotas asmuo diplomato prašymu. Diplomatų prašymai leisti dirbti kitą darbą ar užsiimti kita veikla nagrinėjami užsienio reikalų ministro nustatyta tvarka.
+
+3. Sprendimas dėl leidimo diplomatui dirbti kitą darbą ar užsiimti kita veikla galioja tol, kol asmuo dirba šį darbą ar užsiima kita veikla. Jeigu toks sprendimas priimtas dėl diplomato kito darbo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, leidimas galioja iki projekto pabaigos. Diplomatą perkėlus į kitas pareigas, pasikeitus jo pareigybės aprašyme nustatytoms funkcijoms, diplomatas nedelsdamas, bet ne vėliau kaip per 10 darbo dienų nuo tokių pasikeitimų paaiškėjimo dienos, privalo pateikti naują prašymą leisti dirbti kitą darbą ar užsiimti kita veikla.
+
+4. Jeigu atsiranda šio straipsnio 1 dalyje nurodytos aplinkybės, dėl kurių leidimas diplomatui dirbti kitą darbą ar užsiimti kita veikla negalėjo būti išduotas, sprendimą dėl leidimo diplomatui dirbti kitą darbą ar užsiimti kita veikla priėmęs asmuo šį sprendimą atšaukia. Sprendimai dėl leidimo diplomatui dirbti kitą darbą ar užsiimti kita veikla atšaukiami užsienio reikalų ministro nustatyta tvarka.
+
+5. Sprendimas neleisti diplomatui dirbti kito darbo ar užsiimti kita veikla, taip pat šio straipsnio 4 dalyje nurodytas sprendimas atšaukti diplomatui leidimą dirbti kitą darbą ar užsiimti kita veikla gali būti skundžiami teismui įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+32 straipsnis. Atsakomybė už neteisėtą sprendimą neleisti diplomatui dirbti kito darbo ar užsiimti kita veikla
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+1. Užsienio reikalų ministerija turi atlyginti diplomatui neteisėtu sprendimu neleisti diplomatui dirbti kito darbo ar užsiimti kita veikla padarytą žalą. Žala, atsiradusi dėl šio sprendimo, atlyginama Lietuvos Respublikos civilinio kodekso nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
-
-3. Įstatymai gali nustatyti ir kitų diplomatams taikomų teisių.
-
-31 straipsnis. Diplomato teisė dirbti kitą darbą
-
-1. Diplomatui leidžiama dirbti įmonėse, įstaigose, organizacijose, nepaisant jų nuosavybės formos, teisinės formos, rūšies ir veiklos pobūdžio, ir gauti už šį darbą darbo užmokestį ar atlyginimą (toliau – dirbti kitą darbą), jeigu tai nesukelia viešųjų ir privačių interesų konflikto diplomatinėje tarnyboje, nesudaro prielaidų diplomatinę tarnybą panaudoti asmeniniais interesais, nediskredituoja diplomatinės tarnybos autoriteto, nekliudo diplomatui tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai nėra darbas tose įmonėse, įstaigose, organizacijose, dėl kurių diplomatas priima kokius nors sprendimus, ir kai nėra kitų aplinkybių, dėl kurių diplomatai negali dirbti kito darbo ir gauti už šį darbą darbo užmokestį ar atlyginimą.
-
-2. Sprendimą dėl leidimo diplomatui dirbti kitą darbą pagal darbo sutartį priima užsienio reikalų ministras ar jo įgaliotas asmuo diplomato prašymu. Diplomatų prašymai leisti dirbti kitą darbą pagal darbo sutartį nagrinėjami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
-
-3. Sprendimas dėl leidimo diplomatui dirbti kitą darbą pagal darbo sutartį galioja tol, kol asmuo dirba šį darbą. Jeigu toks sprendimas priimtas dėl diplomato kito darbo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, leidimas galioja iki projekto pabaigos. Diplomatą perkėlus į kitas pareigas, pasikeitus jo pareigybės aprašyme nustatytoms funkcijoms, diplomatas nedelsdamas, bet ne vėliau kaip per 10 darbo dienų po tokių pasikeitimų paaiškėjimo dienos, privalo pateikti naują prašymą leisti dirbti kitą darbą pagal darbo sutartį.
-
-4. Jeigu atsiranda šio straipsnio 1 dalyje nurodytos aplinkybės, dėl kurių leidimas diplomatui dirbti kitą darbą pagal darbo sutartį negalėjo būti išduotas, sprendimą dėl leidimo diplomatui dirbti kitą darbą pagal darbo sutartį priėmęs asmuo šį sprendimą atšaukia. Sprendimai dėl leidimo diplomatui dirbti kitą darbą pagal darbo sutartį atšaukiami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
-
-5. Sprendimas neleisti diplomatui dirbti kito darbo pagal darbo sutartį, taip pat šio straipsnio 4 dalyje nurodytas sprendimas atšaukti diplomatui leidimą dirbti kitą darbą pagal darbo sutartį gali būti skundžiami teismui įstatymų nustatyta tvarka.
-
-32 straipsnis. Atsakomybė už neteisėtą sprendimą neleisti diplomatui dirbti kito darbo
-
-1. Užsienio reikalų ministerija turi atlyginti diplomatui neteisėtu sprendimu neleisti diplomatui dirbti kito darbo pagal darbo sutartį padarytą žalą. Žala, atsiradusi dėl šio sprendimo, atlyginama Lietuvos Respublikos civilinio kodekso nustatyta tvarka.
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Sprendimą priėmusio asmens padarytą žalą atlyginusi Užsienio reikalų ministerija turi regreso teisę reikalauti iš žalą padariusio sprendimą priėmusio asmens tokio dydžio žalos atlyginimo, kiek ji sumokėjo, bet ne daugiau kaip 9 vidutinių jo darbo užmokesčių. Žalos atlyginimas išieškomas iš sprendimą priėmusio asmens darbo užmokesčio ir negali viršyti 20 procentų jam priklausančio per mėnesį mokėti darbo užmokesčio. Ginčus dėl žalos atlyginimo sprendžia teismas.
 
-36 straipsnis. Diplomatų darbo užmokestis
+36 straipsnis. Diplomatų darbo užmokestis ir darbo apmokėjimo sistema
 
 1. Diplomato darbo užmokestį sudaro:
 
 1) pareiginė alga;
 
-2) priedai;
+2) priedas už tarnybos Lietuvos valstybei stažą;
 
 3) priemokos;
 
 4) mokėjimas už darbą poilsio ir švenčių dienomis, nakties, viršvalandinį darbą ir budėjimą.
 
-2. Neteko galios nuo 2022-09-01.
+2. Darbo apmokėjimo sistema nustatoma kolektyvinėje sutartyje. Jeigu kolektyvinės sutarties nėra, darbo apmokėjimo sistemą nustato užsienio reikalų ministras ir paskelbia viešai Užsienio reikalų ministerijos interneto svetainėje. Darbo apmokėjimo sistema nustatoma vadovaujantis Vyriausybės patvirtintomis rekomendacijomis. Darbo apmokėjimo sistemoje detalizuojami diplomatų pareigybių pareiginės algos koeficiento, viršijančio šio įstatymo priede nustatytą minimalų pareiginės algos koeficientą, dydžio nustatymo kriterijai (diplomatinis rangas, diplomato tarnybinės veiklos pobūdis, sudėtingumas, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas, darbo užsienio ir (ar) Europos Sąjungos politikos srityje patirtis ir pan.) ir, atsižvelgiant į šiuos kriterijus, nustatomi maksimalūs pareiginės algos koeficientų dydžiai, pareiginės algos koeficientų intervalai konkrečioms pareigybėms, priemokų dydžiai ir jų skyrimo tvarka. Prieš užsienio reikalų ministrui nustatant ar keičiant darbo apmokėjimo sistemą, turi būti Darbo kodekso nustatyta tvarka įvykdytos informavimo ir konsultavimo procedūros.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
-
-3. Diplomatui gali būti mokama už dalyvavimą savo ar kitos įstaigos įgyvendinamuose projektuose, taip pat veikloje, atliekamoje pagal įstaigos sudarytas bendradarbiavimo sutartis su tarptautinėmis ar Europos Sąjungos teisės aktais įsteigtomis institucijomis (toliau – veikla pagal bendradarbiavimo sutartis), kurie turi konkrečius ir išmatuojamus tikslus, suderinamus su įstaigos misija ir tikslais, kuriems yra nustatytas įgyvendinimo terminas ir numatytas atskiras biudžetas. Už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose ar veikloje pagal bendradarbiavimo sutartis iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų mokama pagal projektų ar bendradarbiavimo sutartyse nustatytas sąlygas ir įkainius. Kai sąlygos ir įkainiai nėra nustatyti, mokėjimo už dalyvavimą projektinėje veikloje ar veikloje pagal bendradarbiavimo sutartis įkainius nustato užsienio reikalų ministras, tačiau ne didesnius negu dviguba konkretaus diplomato pareiginė alga. Už laiką, kurį diplomatas dalyvauja projektuose ar veikloje pagal bendradarbiavimo sutartis ir už kurį mokama, šio straipsnio 1 dalyje nustatytas darbo užmokestis iš valstybės biudžeto lėšų diplomatui nemokamas.
+3. Diplomatui gali būti mokama už dalyvavimą savo ar kitos valstybės ar savivaldybės institucijos ar įstaigos įgyvendinamuose projektuose, taip pat veikloje, atliekamoje pagal įstaigos sudarytas bendradarbiavimo sutartis su tarptautinėmis ar Europos Sąjungos teisės aktais įsteigtomis institucijomis (toliau – veikla pagal bendradarbiavimo sutartis), kurie turi konkrečius ir išmatuojamus tikslus, suderinamus su įstaigos misija ir tikslais, kuriems yra nustatytas įgyvendinimo terminas ir numatytas atskiras biudžetas. Už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose ar veikloje pagal bendradarbiavimo sutartis iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų mokama pagal projektų ar bendradarbiavimo sutartyse nustatytas sąlygas ir įkainius. Kai sąlygos ir įkainiai nėra nustatyti, mokėjimo už dalyvavimą įgyvendinant projektus ar veikloje pagal bendradarbiavimo sutartis įkainius nustato užsienio reikalų ministras. Už laiką, kurį diplomatas dalyvauja projektuose ar veikloje pagal bendradarbiavimo sutartis ir už kurį mokama, šio straipsnio 1 dalyje nustatytas darbo užmokestis iš valstybės biudžeto lėšų diplomatui nemokamas.
 
 37 straipsnis. Pareiginė alga
 
-1. Pareiginę algą nustato diplomatą į pareigas priimantis asmuo. Diplomato pareiginės algos koeficientas nustatomas iš šio įstatymo 1 priede diplomato pareigybei nustatyto pareiginės algos koeficientų intervalo. Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų bei valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – pareiginės algos bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš pareiginės algos bazinio dydžio.
+1. Pareiginės algos koeficientą nustato diplomatą į pareigas priimantis asmuo iš darbo apmokėjimo sistemoje diplomato pareigybei nustatyto pareiginės algos koeficientų intervalo. Maksimalus pareiginės algos koeficientas negali viršyti ministro pareiginės algos koeficiento dydžio, nustatyto Lietuvos Respublikos valstybės politikų darbo užmokesčio įstatyme. Pareiginės algos koeficiento vienetas yra Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis (toliau – pareiginės algos bazinis dydis). Pareiginė alga apskaičiuojama pareiginės algos koeficientą dauginant iš pareiginės algos bazinio dydžio.
 
-2. Priimant asmenį į diplomato pareigas, pareiginės algos koeficientas nustatomas atsižvelgiant į diplomato tarnybinės veiklos pobūdį, sudėtingumą, kompetenciją ir darbo užsienio ir (ar) Europos Sąjungos politikos srityje patirtį.
+2. Priimant asmenį į diplomato pareigas, pareiginės algos koeficientas nustatomas atsižvelgiant į suteikiamą diplomatinį rangą, diplomato tarnybinės veiklos pobūdį, sudėtingumą, atsakomybės lygį, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimą ir darbo užsienio ir (ar) Europos Sąjungos politikos srityje patirtį.
 
 3. Kitais atvejais, negu nurodyta šio straipsnio 2 dalyje ir šio įstatymo 43 straipsnio 4, 5 ir 7 dalyse, diplomatui pareiginė alga nustatoma taip:
 
-1) skiriamam ar perkeliamam į aukštesnes pareigas diplomatui nustatomas pareigybės, į kurią skiriama ar perkeliama, pareiginės algos koeficientų intervale esantis pareiginės algos koeficientas, kuris nustatomas taikant ne mažiau kaip 0,5 didesnį koeficientą, negu jam iki paskyrimo ar perkėlimo buvo nustatytas pareiginės algos koeficientas, bet ne didesnis, negu tai pareigybei nustatytas didžiausias koeficientas, ir ne mažesnis, negu tai pareigybei nustatytas mažiausias koeficientas;
+1) skiriamam ar perkeliamam į aukštesnes pareigas diplomatui nustatomas pareigybės, į kurią skiriama ar perkeliama, pareiginės algos koeficientų intervale esantis pareiginės algos koeficientas, kuris nustatomas taikant ne mažiau kaip 0,12 didesnį koeficientą, negu jam iki paskyrimo ar perkėlimo buvo nustatytas pareiginės algos koeficientas, bet ne didesnis, negu tai pareigybei nustatytas maksimalus koeficientas, ir ne mažesnis, negu tai pareigybei nustatytas minimalus koeficientas;
 
-2) laikinai perkeliamam į aukštesnes pareigas diplomatui jo perkėlimo laikotarpiui nustatomas ne mažiau kaip 0,5 didesnis pareiginės algos koeficientas, negu jam iki laikino perkėlimo buvo nustatytas pareiginės algos koeficientas, bet ne didesnis, negu tai pareigybei, į kurią diplomatas laikinai perkeliamas, nustatytas didžiausias koeficientas, ir ne mažesnis, negu tai pareigybei nustatytas mažiausias koeficientas;
+2) laikinai perkeliamam į aukštesnes pareigas diplomatui jo perkėlimo laikotarpiui nustatomas ne mažiau kaip 0,12 didesnis pareiginės algos koeficientas, negu jam iki laikino perkėlimo buvo nustatytas pareiginės algos koeficientas, bet ne didesnis, negu tai pareigybei, į kurią diplomatas laikinai perkeliamas, nustatytas maksimalus koeficientas, ir ne mažesnis, negu tai pareigybei nustatytas minimalus koeficientas;
 
-3) skiriamam į eitas pareigas, skiriamam, perkeliamam, laikinai perkeliamam į lygiavertes ar žemesnes pareigas diplomatui nustatomas iki šio paskyrimo, perkėlimo ar laikino perkėlimo jam nustatytas pareiginės algos koeficientas, bet ne didesnis, negu tai pareigybei, į kurią diplomatas skiriamas, perkeliamas ar laikinai perkeliamas, nustatytas didžiausias koeficientas, ir ne mažesnis, negu tai pareigybei nustatytas mažiausias koeficientas;
+3) skiriamam į eitas pareigas, skiriamam, perkeliamam, laikinai perkeliamam į lygiavertes ar žemesnes pareigas diplomatui nustatomas tokio paties dydžio, kaip jam buvo nustatytas iki skyrimo ar perkėlimo, pareiginės algos koeficientas, o skiriamam, perkeliamam ar laikinai perkeliamam iš diplomato, neturinčio pavaldžių asmenų, pareigų į lygiavertes diplomato, turinčio pavaldžių asmenų, pareigas diplomatui – ne mažiau kaip 0,12 didesnis pareiginės algos koeficientas, negu jam iki skyrimo, perkėlimo ar laikino perkėlimo buvo nustatytas, bet ne didesnis, negu tai pareigybei nustatytas maksimalus koeficientas;
 
 4) atkuriančiam diplomato statusą asmeniui nustatomas pareigybės, į kurią jis skiriamas, pareiginės algos koeficientų intervale esantis pareiginės algos koeficientas, bet ne mažesnis negu jam iki diplomato tarnybos sutarties nutraukimo buvo nustatytas pareiginės algos koeficientas;
 
-5) diplomato tarnybinę veiklą įvertinus labai gerai arba nepatenkinamai šio įstatymo 41 straipsnio 4 ir 5 dalyse nustatyta tvarka.
+5) diplomato tarnybinę veiklą įvertinus kaip viršijančią lūkesčius arba kaip neatitinkančią lūkesčių, šio įstatymo 41 straipsnio 5 ir 6 dalyse nustatyta tvarka.
 
 4. Diplomatų, dirbusių ne visas mėnesio darbo dienas ar dirbančių ne visą darbo dieną, pareiginė alga apskaičiuojama taip: pareiginės algos dydis padalijamas iš to mėnesio darbo valandų arba darbo dienų skaičiaus pagal diplomatui nustatytą darbo laiko normą; gautas darbo valandos ar darbo dienos atlygis padauginamas iš diplomato faktiškai dirbtų valandų arba dienų skaičiaus.
 
-Straipsnio pakeitimai:
+38 straipsnis. Priedas už tarnybos Lietuvos valstybei stažą
 
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
-
-38 straipsnis. Priedai
-
-1. Diplomatams mokami šie priedai:
-
-1) už tarnybos Lietuvos valstybei stažą (toliau – tarnybos stažas);
-
-2) už diplomatinį rangą.
-
-2. Diplomatams priedą už tarnybos stažą sudaro vienas procentas pareiginės algos už kiekvienus tarnybos Lietuvos valstybei metus. Šio priedo suma negali viršyti 30 procentų pareiginės algos.
-
-3. Diplomatui už diplomatinį rangą prie pareiginės algos, kurią jis gauna atlikdamas diplomatinę tarnybą, yra mokamas priedas pagal šio įstatymo 2 priede pateiktą koeficientą. Priedo už diplomatinį rangą koeficiento vieneto vertė eurais lygi pareiginės algos baziniam dydžiui.
+Diplomatams priedą už tarnybos Lietuvos valstybei stažą sudaro vienas procentas pareiginės algos už kiekvienus tarnybos Lietuvos valstybei metus. Šio priedo suma negali viršyti 20 procentų pareiginės algos.
 
 41 straipsnis. Diplomatų tarnybinės veiklos vertinimas
 
-1. Diplomatų tarnybinė veikla vertinama kiekvienais metais. Vertinama diplomatų, ne trumpiau kaip 6 mėnesius ėjusių pareigas diplomatinėje tarnyboje, tarnybinė veikla. Diplomatų tarnybinės veiklos vertinimo tikslai:
+1. Diplomatų tarnybinė veikla vertinama kiekvienais metais. Vertinama diplomatų, ne trumpiau kaip 6 mėnesius per kalendorinius metus, įskaitant parengiamąjį laikotarpį, ėjusių pareigas diplomatinėje tarnyboje, tarnybinė veikla. Diplomato tarnybinės veiklos vertinimo tikslas ‒ įvertinti diplomato kompetenciją ir pasiektus veiklos rezultatus vykdant jam suformuluotas užduotis.
 
-1) įvertinti diplomato kvalifikaciją ir gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas ir pasiektus rezultatus, vykdant jiems suformuluotas užduotis;
+2. Diplomato tarnybinę veiklą vertina tiesioginis vadovas ir Atestacijos komisija užsienio reikalų ministro nustatyta tvarka. Diplomato tarnybinė veikla gali būti vertinama kaip:
 
-2) užtikrinti diplomato teisės į karjerą diplomatinėje tarnyboje įgyvendinimą.
+1) viršijanti lūkesčius;
 
-2. Diplomato tarnybinę veiklą vertina tiesioginis vadovas ir Atestacijos komisija užsienio reikalų ministro nustatyta tvarka. Diplomato tarnybinė veikla gali būti vertinama:
+2) atitinkanti lūkesčius;
 
-1) labai gerai;
+3) iš dalies atitinkanti lūkesčius;
 
-2) gerai;
+4) neatitinkanti lūkesčių.
 
-3) nepatenkinamai.
+3. Kai diplomato tarnybinė veikla įvertinama kaip atitinkanti lūkesčius, jo teisinė padėtis nesikeičia ir diplomato tarnybinės veiklos vertinimas yra baigiamas, išskyrus atvejus, kai diplomatas nesutinka su tiesioginio vadovo pateiktu tarnybinės veiklos vertinimu.
 
-3. Kai diplomato tarnybinė veikla įvertinama gerai, jo teisinė padėtis nesikeičia ir diplomato tarnybinės veiklos vertinimas yra baigiamas.
+4. Kai diplomato tarnybinė veikla įvertinama kaip iš dalies atitinkanti lūkesčius, jo teisinė padėtis nesikeičia, bet diplomatui nustatomas privalomas kvalifikacijos tobulinimas.
 
-4. Kai diplomato tarnybinė veikla įvertinama labai gerai, Atestacijos komisijos siūlymu užsienio reikalų ministras priima vieną iš šių sprendimų:
+5. Kai diplomato tarnybinė veikla įvertinama kaip viršijanti lūkesčius, Atestacijos komisijos siūlymu užsienio reikalų ministras priima vieną iš šių sprendimų:
 
-1) nustatyti diplomatui didesnę pareiginę algą, taikant ne mažiau kaip 0,5 didesnį pareiginės algos koeficientą, negu jam iki tarnybinės veiklos vertinimo buvo nustatytas pareiginės algos koeficientas, tačiau neviršijant tai pareigybei nustatyto didžiausio pareiginės algos koeficiento;
+1) atsižvelgiant į darbo apmokėjimo sistemos nuostatas nustatyti diplomatui didesnę pareiginę algą, taikant ne mažiau kaip 0,06 didesnį pareiginės algos koeficientą, negu jam iki tarnybinės veiklos vertinimo buvo nustatytas pareiginės algos koeficientas, tačiau neviršijant tai pareigybei nustatyto maksimalaus pareiginės algos koeficiento;
 
-2) perkelti diplomatą į aukštesnes pareigas (išskyrus politikos direktoriaus, generalinio inspektoriaus, ambasadoriaus ypatingiems pavedimams, generalinio konsulo, konsulo – konsulinės įstaigos vadovo, padalinio vadovo, padalinio vadovo pavaduotojo pareigas, į kurias užsienio reikalų ministro nustatyta tvarka turi būti organizuojama atranka) ir nustatyti ne mažiau kaip 0,5 didesnį pareiginės algos koeficientą, negu jam iki perkėlimo buvo nustatytas pareiginės algos koeficientas, bet ne didesnį, negu tai pareigybei, į kurią diplomatas perkeliamas, nustatytas didžiausias koeficientas, ir ne mažesnį, negu tai pareigybei nustatytas mažiausias koeficientas;
+2) perkelti diplomatą į aukštesnes pareigas (išskyrus politikos direktoriaus, generalinio inspektoriaus, ambasadoriaus ypatingiems pavedimams, generalinio konsulo, konsulo – konsulinės įstaigos vadovo, padalinio vadovo, padalinio vadovo pavaduotojo pareigas, į kurias užsienio reikalų ministro nustatyta tvarka turi būti organizuojama atranka) ir nustatyti ne mažiau kaip 0,06 didesnį pareiginės algos koeficientą, negu jam iki perkėlimo buvo nustatytas pareiginės algos koeficientas, bet ne didesnį, negu tai pareigybei, į kurią diplomatas perkeliamas, nustatytas maksimalus koeficientas, ir ne mažesnį, negu tai pareigybei nustatytas minimalus koeficientas;
 
 3) taikyti šio įstatymo 68 straipsnio 1 dalies 1–8 punktuose nurodytas skatinimo priemones.
 
-5. Kai diplomato tarnybinė veikla įvertinama nepatenkinamai, Atestacijos komisijos siūlymu užsienio reikalų ministras priima vieną iš šių sprendimų:
+6. Kai diplomato tarnybinė veikla įvertinama kaip neatitinkanti lūkesčių, Atestacijos komisijos siūlymu užsienio reikalų ministras priima vieną iš šių sprendimų:
 
-1) nustatyti mažesnę pareiginę algą, taikant ne daugiau kaip 0,5 mažesnį pareiginės algos koeficientą, negu jam iki tarnybinės veiklos vertinimo buvo nustatytas pareiginės algos koeficientas, tačiau ne mažesnį, negu tai pareigybei nustatytas mažiausias koeficientas;
+1) atsižvelgiant į darbo apmokėjimo sistemos nuostatas nustatyti mažesnę pareiginę algą, taikant ne mažiau kaip 0,06 ir ne daugiau kaip 0,18 mažesnį pareiginės algos koeficientą, negu jam iki tarnybinės veiklos vertinimo buvo nustatytas pareiginės algos koeficientas, tačiau ne mažesnį, negu tai pareigybei nustatytas minimalus koeficientas;
 
-2) jeigu diplomatui pareiginė alga iki tarnybinės veiklos vertinimo buvo nustatyta taikant žemiausią jo pareigybei nustatytą pareiginės algos koeficientą, – perkelti diplomatą į žemesnes pareigas ir nustatyti mažesnę pareiginę algą, taikant ne daugiau kaip 0,5 mažesnį pareiginės algos koeficientą, negu jam iki tarnybinės veiklos vertinimo buvo nustatytas pareiginės algos koeficientas, tačiau ne mažesnį, negu pareigybei, į kurią diplomatas perkeliamas, nustatytas mažiausias koeficientas;
+2) jeigu diplomatui pareiginė alga iki tarnybinės veiklos vertinimo buvo nustatyta taikant minimalų jo pareigybei nustatytą pareiginės algos koeficientą, – perkelti diplomatą į žemesnes pareigas ir nustatyti mažesnę pareiginę algą, taikant ne mažiau kaip 0,06 ir ne daugiau kaip 0,18 mažesnį pareiginės algos koeficientą, negu jam iki tarnybinės veiklos vertinimo buvo nustatytas pareiginės algos koeficientas, tačiau ne mažesnį, negu pareigybei, į kurią diplomatas perkeliamas, nustatytas minimalus koeficientas;
 
 3) nutraukti diplomato tarnybos sutartį arba terminuotą diplomato tarnybos sutartį;
 
-4) nutraukti diplomato tarnybos sutartį arba terminuotą diplomato tarnybos sutartį pasibaigus diplomato tarnybinės veiklos gerinimo plano laikotarpiui diplomato tarnybinę veiklą neeilinio vertinimo metu įvertinus nepatenkinamai.
+4) nutraukti diplomato tarnybos sutartį arba terminuotą diplomato tarnybos sutartį pasibaigus diplomato tarnybinės veiklos gerinimo plano laikotarpiui diplomato tarnybinę veiklą neeilinio vertinimo metu įvertinus kaip neatitinkančią lūkesčių.
 
-6. Diplomato tarnybinę veiklą įvertinus nepatenkinamai ir užsienio reikalų ministrui priėmus šio straipsnio 5 dalies 1 ar 2 punkte nurodytą sprendimą, Atestacijos komisijos siūlymu užsienio reikalų ministro sprendimu ir nustatyta tvarka gali būti sudaromas ne trumpesnis negu 2 mėnesių ir ne ilgesnis negu 6 mėnesių diplomato tarnybinės veiklos gerinimo planas.
+7. Diplomato tarnybinę veiklą įvertinus kaip neatitinkančią lūkesčių ir užsienio reikalų ministrui priėmus šio straipsnio 6 dalies 1 ar 2 punkte nurodytą sprendimą, Atestacijos komisijos siūlymu užsienio reikalų ministro sprendimu ir nustatyta tvarka gali būti sudaromas ne trumpesnis negu 2 mėnesių ir ne ilgesnis negu 6 mėnesių diplomato tarnybinės veiklos gerinimo planas.
 
-7. Tiesioginio vadovo rašytiniu motyvuotu siūlymu arba, esant diplomato prašymui nustatyti jam didesnę pareigybės pareiginės algos koeficientų intervale esančią pareiginę algą, užsienio reikalų ministro sprendimu gali būti atliekamas neeilinis diplomato tarnybinės veiklos vertinimas. Neeilinis diplomato tarnybinės veiklos vertinimas taip pat atliekamas, kai kasmetinio vertinimo metu diplomato tarnybinė veikla buvo įvertinta nepatenkinamai ir buvo sudarytas jo tarnybinės veiklos gerinimo planas.
+8. Tiesioginio vadovo rašytiniu motyvuotu siūlymu, susijusiu su diplomato veiklos rezultatais, arba, esant diplomato prašymui nustatyti jam didesnę jo pareigybei nustatytame pareiginės algos koeficientų intervale esančią pareiginę algą ir (arba) perkelti jį į aukštesnes pareigas, išskyrus šio straipsnio 5 dalies 2 punkte nurodytas pareigas, į kurias užsienio reikalų ministro nustatyta tvarka turi būti organizuojama atranka, Atestacijos komisijos siūlymu užsienio reikalų ministro sprendimu gali būti atliekamas neeilinis diplomato tarnybinės veiklos vertinimas. Neeilinis diplomato tarnybinės veiklos vertinimas taip pat atliekamas, kai eilinio tarnybinės veiklos vertinimo metu diplomato tarnybinė veikla buvo įvertinta kaip neatitinkanti lūkesčių ir buvo sudarytas jo tarnybinės veiklos gerinimo planas.
 
-8. Neeilinis diplomato tarnybinės veiklos vertinimas atliekamas ne dažniau kaip vieną kartą per kalendorinius metus, jeigu nuo kasmetinio diplomato tarnybinės veiklos vertinimo praėjo ne mažiau kaip 6 mėnesiai, išskyrus atvejus, kai nustatomas trumpesnis diplomato tarnybinės veiklos gerinimo plano laikotarpis.
+9. Neeilinis diplomato tarnybinės veiklos vertinimas atliekamas ne dažniau kaip vieną kartą per kalendorinius metus, jeigu nuo eilinio diplomato tarnybinės veiklos vertinimo praėjo ne mažiau kaip 6 mėnesiai, išskyrus atvejus, kai nustatomas trumpesnis diplomato tarnybinės veiklos gerinimo plano laikotarpis, arba jeigu diplomatas ne trumpiau kaip 6 mėnesius per kalendorinius metus ėjo pareigas diplomatinėje tarnyboje, įskaitant parengiamąjį laikotarpį.
 
-9. Diplomato, laikinai perkelto į karjeros valstybės tarnautojo pareigas šio įstatymo 43 straipsnio 4 dalyje nustatyta tvarka, tarnybinė veikla vertinama valstybės institucijoje, kurioje jis eina pareigas, į kurias yra perkeltas, Valstybės tarnybos įstatymo nustatyta tvarka.
+10. Diplomatas, nesutinkantis su tiesioginio vadovo pateiktu tarnybinės veiklos vertinimu, turi teisę kreiptis į Atestacijos komisiją. Atestacijos komisija įvertina diplomato, dirbančio pagal diplomato tarnybos sutartį, tarnybinę veiklą kaip atitinkančią lūkesčius ar kaip iš dalies atitinkančią lūkesčius arba siūlo užsienio reikalų ministrui priimti sprendimus, nurodytus šio straipsnio 5, 6 ir 7 dalyse. Atestacijos komisija įvertina diplomato, dirbančio pagal terminuotą diplomato tarnybos sutartį, tarnybinę veiklą kaip atitinkančią lūkesčius ar kaip iš dalies atitinkančią lūkesčius arba siūlo užsienio reikalų ministrui priimti sprendimus, nurodytus šio straipsnio 5 dalies 1 ar 3 punkte, 6 dalies 1 ar 3 punkte, 7 dalyje.
 
-Straipsnio pakeitimai:
+11. Diplomato, laikinai perkelto į karjeros valstybės tarnautojo pareigas šio įstatymo 43 straipsnio 4 dalyje nustatyta tvarka, tarnybinė veikla vertinama valstybės institucijoje, kurioje jis eina pareigas, į kurias yra perkeltas, Valstybės tarnybos įstatymo nustatyta tvarka.
 
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
+Skyriaus pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 VI SKYRIUS
 
@@ -452,7 +500,11 @@ DIPLOMATO DARBAS IR DIPLOMATO IR JO ŠEIMOS NARIŲ TEISINĖ PADĖTIS
 
 1. Diplomatų darbui, išskyrus diplomatinius atstovus, taikomi tokie rotacijos principai:
 
-1) priimtas į diplomatinę tarnybą diplomatas Užsienio reikalų ministerijoje paprastai dirba 3 metus (į šį laikotarpį įskaitomas parengiamasis laikotarpis). Vėliau diplomatas paprastai 3 metams užsienio reikalų ministro įsakymu paskiriamas dirbti į diplomatinę atstovybę ar konsulinę įstaigą, iš kurios užsienio reikalų ministro įsakymu grąžintas į Užsienio reikalų ministeriją joje vėl paprastai dirba 3 metus iki kito paskyrimo. Į darbo Užsienio reikalų ministerijoje laikotarpį įskaitomas laikino perkėlimo į karjeros ar statutinio valstybės tarnautojo pareigas kitoje valstybės institucijoje ar įstaigoje laikotarpis;
+1) priimtas į diplomatinę tarnybą diplomatas Užsienio reikalų ministerijoje paprastai dirba 3 metus (į šį laikotarpį įskaitomas parengiamasis laikotarpis). Vėliau diplomatas paprastai 3 metams užsienio reikalų ministro įsakymu paskiriamas dirbti į diplomatinę atstovybę ar konsulinę įstaigą, iš kurios užsienio reikalų ministro įsakymu grąžintas į Užsienio reikalų ministeriją joje vėl paprastai dirba 3 metus iki kito paskyrimo. Į darbo Užsienio reikalų ministerijoje laikotarpį įskaitomas laikino perkėlimo į karjeros valstybės tarnautojo pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje šio įstatymo 43 straipsnio 4 dalyje nustatyta tvarka laikotarpis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2) esant tarnybinei būtinybei, diplomatas gali būti iš karto skiriamas į kitą diplomatinę atstovybę ar konsulinę įstaigą, įskaitant atvejus, kai po pirmojo paskyrimo neišdirbo 3 metų, tačiau bendras nuoseklaus paskyrimo dviejose diplomatinėse atstovybėse ar konsulinėse įstaigose terminas negali būti ilgesnis negu 6 metai, o tais atvejais, kai bent vienas iš dviejų paskyrimų yra į aukšto ar vidutinio grėsmių ir rizikų lygmens aplinkoje veikiančią diplomatinę atstovybę ar konsulinę įstaigą – ne ilgesnis negu 7 metai;
 
@@ -488,13 +540,31 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 3. Atranką į laisvas diplomato pareigas vykdo Atestacijos komisija užsienio reikalų ministro nustatyta tvarka. Atrankos metu įvertinama kandidatų atitiktis pareigybės aprašyme nustatytiems specialiesiems reikalavimams, taip pat kompetentingos institucijos išvada apie galimas rizikas ir grėsmes nacionaliniam saugumui, kurias galėtų kelti kandidato paskyrimas į pareigas diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje, jeigu tokios išvados paprašo užsienio reikalų ministras ar jo įgaliotas asmuo. Kompetentinga institucija išvadą pateikia per 7 darbo dienas nuo užsienio reikalų ministro ar jo įgalioto asmens motyvuoto prašymo gavimo dienos. Kompetentingos institucijos išvada teikiama ir kandidatui. Tais atvejais, kai kompetentingos išvados pateikimas kandidatui gali atskleisti išvadą teikiančios kompetentingos institucijos veiklos metodus ir priemones, veiklos taktiką ir (ar) padaryti žalos jos veiklai, šios kompetentingos institucijos vadovo sprendimu išvada kandidatui neteikiama.
 
-4. Esant tarnybinei būtinybei ir institucijų vadovams šį klausimą suderinus, užsienio reikalų ministro įsakymu diplomatas jo rašytiniu sutikimu gali būti laikinai perkeltas iš Užsienio reikalų ministerijos į karjeros valstybės tarnautojo pareigas Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje ar kitoje valstybės institucijoje, jeigu diplomatas atitinka pareigybės, į kurią perkeliama, aprašyme nustatytus specialiuosius reikalavimus. Laikino perkėlimo terminas – 2 metai nuo diplomato perkėlimo dienos. Esant tarnybinei būtinybei, šis terminas gali būti pratęstas iki vienų metų ir bendras laikino perkėlimo laikas negali viršyti 3 metų per penkerius tarnybos metus. Laikino perkėlimo laikas įskaitomas į diplomatinės tarnybos stažą. Laikinai perkeltam diplomatui paliekamas iki perkėlimo turėtas diplomatinis rangas. Laikino perkėlimo laikotarpiu valstybės institucija, į kurią diplomatas perkeltas, diplomatui moka darbo užmokestį, ne mažesnį, negu jam iki perkėlimo buvo nustatytas, ir ne didesnį, negu pagal tai pareigybei, į kurią jis laikinai perkeltas, nustatytą didžiausią pareiginės algos koeficientą. Pasibaigus laikino perkėlimo laikotarpiui, diplomatas grąžinamas į Užsienio reikalų ministeriją ir, atsižvelgus į eitas karjeros valstybės tarnautojo pareigas, kompetenciją, darbo užsienio ir (ar) Europos Sąjungos politikos srityje patirtį ir į jo tarnybinės veiklos valstybės institucijoje, į kurią jis buvo perkeltas, vertinimą, Atestacijos komisijos siūlymu paskiriamas į pareigas, kurios yra ne žemesnės negu tos, kurias jis ėjo iki laikino perkėlimo į karjeros valstybės tarnautojo pareigas, o jeigu tokios galimybės nėra, Atestacijos komisijos siūlymu diplomatas gali būti skiriamas į žemesnes pareigas. Diplomatui nustatomas ne mažesnis, negu iki jo laikino perkėlimo į karjeros valstybės tarnautojo pareigas jam nustatytas pareiginės algos koeficientas, bet ne didesnis, negu pareigybei, į kurią jis skiriamas, nustatytas didžiausias, ir ne mažesnis, negu tai pareigybei nustatytas mažiausias pareiginės algos koeficientas. Diplomatas gali būti iš karto skiriamas į diplomatinę atstovybę ar konsulinę įstaigą. Diplomatas negali būti grąžinamas į Užsienio reikalų ministeriją ir (ar) paskiriamas į diplomatinę atstovybę ar konsulinę įstaigą, jeigu iš karjeros ar statutinio valstybės tarnautojo pareigų, į kurias asmuo buvo laikinai perkeltas, jis buvo atleistas dėl jam paskirtos tarnybinės nuobaudos – atleidimo iš pareigų, diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimo, prarastos Lietuvos Respublikos pilietybės, šio įstatymo 23 straipsnio 3 dalyje nurodytų aplinkybių ar kitų aplinkybių, dėl kurių diplomatą į pareigas priimantis asmuo konstatuoja diplomato neatitiktį diplomato nepriekaištingos reputacijos reikalavimams, nurodytiems šio įstatymo 6 straipsnyje. Diplomatui jo laikino perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpiu taikomos ir mutatis mutandis Valstybės tarnybos įstatymo nuostatos.
+4. Esant tarnybinei būtinybei ir institucijų vadovams šį klausimą suderinus, užsienio reikalų ministro įsakymu diplomatas su jo rašytiniu sutikimu gali būti laikinai perkeltas iš Užsienio reikalų ministerijos į karjeros valstybės tarnautojo pareigas Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu diplomatas atitinka pareigybės, į kurią perkeliama, aprašyme nustatytus specialiuosius reikalavimus. Laikino perkėlimo terminas – 2 metai nuo diplomato perkėlimo dienos. Esant tarnybinei būtinybei, šis terminas gali būti pratęsiamas iki vienų metų ir bendras laikino perkėlimo laikas negali viršyti 3 metų per 5 tarnybos metus. Laikino perkėlimo laikas įskaitomas į diplomatinės tarnybos stažą. Laikinai perkeltam diplomatui paliekamas iki perkėlimo turėtas diplomatinis rangas. Laikino perkėlimo laikotarpiu valstybės ar savivaldybės institucija ar įstaiga, į kurią diplomatas perkeltas, diplomatui moka darbo užmokestį, ne mažesnį, negu jam iki perkėlimo buvo nustatytas, ir ne didesnį, negu pagal tai pareigybei, į kurią jis laikinai perkeltas, nustatytą maksimalų pareiginės algos koeficientą. Pasibaigus laikino perkėlimo laikotarpiui, diplomatas grąžinamas į Užsienio reikalų ministeriją ir, atsižvelgus į eitas karjeros valstybės tarnautojo pareigas, diplomato tarnybinės veiklos pobūdį, sudėtingumą, atsakomybės lygį, turimą diplomatinį rangą, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimą, darbo užsienio ir (ar) Europos Sąjungos politikos srityje patirtį ir į jo tarnybinės veiklos valstybės ar savivaldybės institucijoje ar įstaigoje, į kurią jis buvo perkeltas, vertinimą, Atestacijos komisijos siūlymu paskiriamas į pareigas, kurios yra ne žemesnės negu tos, kurias jis ėjo iki laikino perkėlimo į karjeros valstybės tarnautojo pareigas, o jeigu tokios galimybės nėra, Atestacijos komisijos siūlymu diplomatas gali būti skiriamas į žemesnes pareigas. Diplomatui nustatomas ne mažesnis, negu iki jo laikino perkėlimo į karjeros valstybės tarnautojo pareigas jam nustatytas pareiginės algos koeficientas, bet ne didesnis, negu pareigybei, į kurią jis skiriamas, nustatytas maksimalus, ir ne mažesnis, negu tai pareigybei nustatytas minimalus pareiginės algos koeficientas. Diplomatas gali būti iš karto skiriamas į diplomatinę atstovybę ar konsulinę įstaigą. Diplomatas negali būti grąžinamas į Užsienio reikalų ministeriją ir (ar) paskiriamas į diplomatinę atstovybę ar konsulinę įstaigą, jeigu iš karjeros valstybės tarnautojo pareigų, į kurias asmuo buvo laikinai perkeltas, jis buvo atleistas dėl jam paskirtos tarnybinės nuobaudos – atleidimo iš pareigų, diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimo, prarastos Lietuvos Respublikos pilietybės, šio įstatymo 23 straipsnio 3 dalyje nurodytų aplinkybių ar kitų aplinkybių, dėl kurių diplomatą į pareigas priimantis asmuo konstatuoja diplomato neatitiktį diplomato nepriekaištingos reputacijos reikalavimams, nurodytiems šio įstatymo 6 straipsnyje. Diplomatui jo laikino perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpiu mutatis mutandis taikomos ir Valstybės tarnybos įstatymo nuostatos.
 
-5. Diplomatas Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka gali būti laikinai perkeltas į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje. Dėl tokio perkėlimo diplomato tarnybos sutartis nenutrūksta, diplomatui paliekamas diplomatinis rangas, perkėlimo laikas įskaitomas į diplomatinės tarnybos stažą. Diplomatams, laikinai perkeltiems į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybės institucijas, Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka mokamas darbo užmokestis ir kitos delegavimo išlaidos. Diplomatams darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiu taikomos tarptautinių ir Europos Sąjungos institucijų darbo sąlygas reglamentuojančios taisyklės ar užsienio valstybės darbo santykius reglamentuojantys teisės aktai. Pasibaigus laikino perkėlimo laikui, diplomatas grąžinamas į Užsienio reikalų ministeriją ir, atsižvelgus į delegavimo metu eitas pareigas, kompetenciją, darbo užsienio ir (ar) Europos Sąjungos politikos srityje patirtį ir į jo veiklos tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje, į kurią jis buvo laikinai perkeltas, vertinimą, Atestacijos komisijos siūlymu paskiriamas į pareigas, kurios yra ne žemesnės negu tos, kurias jis ėjo iki laikino perkėlimo į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje, o jeigu tokios galimybės nėra, Atestacijos komisijos siūlymu diplomatas gali būti skiriamas į žemesnes pareigas. Diplomatui nustatomas ne mažesnis, negu iki jo laikino perkėlimo į tarptautinę ir Europos Sąjungos instituciją ar užsienio valstybės instituciją jam nustatytas pareiginės algos koeficientas, bet ne didesnis, negu pareigybei, į kurią jis skiriamas, nustatytas didžiausias, ir ne mažesnis, negu tai pareigybei nustatytas mažiausias pareiginės algos koeficientas. Diplomatas gali būti iš karto skiriamas į diplomatinę atstovybę ar konsulinę įstaigą.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+5. Diplomatas Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka gali būti laikinai perkeltas į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje. Dėl tokio perkėlimo diplomato tarnybos sutartis nenutrūksta, diplomatui paliekamas diplomatinis rangas, perkėlimo laikas įskaitomas į diplomatinės tarnybos stažą. Diplomatams, laikinai perkeltiems į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybės institucijas, Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka mokamas darbo užmokestis ir kitos delegavimo išlaidos. Diplomatams darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiu taikomos tarptautinių ir Europos Sąjungos institucijų darbo sąlygas reglamentuojančios taisyklės ar užsienio valstybės darbo santykius reglamentuojantys teisės aktai. Pasibaigus laikino perkėlimo laikui, diplomatas grąžinamas į Užsienio reikalų ministeriją ir, atsižvelgus į delegavimo metu eitas pareigas, diplomato tarnybinės veiklos pobūdį, sudėtingumą, atsakomybės lygį, turimą diplomatinį rangą, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimą, darbo užsienio ir (ar) Europos Sąjungos politikos srityje patirtį ir į jo veiklos tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje, į kurią jis buvo laikinai perkeltas, vertinimą, Atestacijos komisijos siūlymu paskiriamas į pareigas, kurios yra ne žemesnės negu tos, kurias jis ėjo iki laikino perkėlimo į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje, o jeigu tokios galimybės nėra, Atestacijos komisijos siūlymu diplomatas gali būti skiriamas į žemesnes pareigas. Diplomatui nustatomas ne mažesnis, negu iki jo laikino perkėlimo į tarptautinę ir Europos Sąjungos instituciją ar užsienio valstybės instituciją jam nustatytas pareiginės algos koeficientas, bet ne didesnis, negu pareigybei, į kurią jis skiriamas, nustatytas maksimalus, ir ne mažesnis, negu tai pareigybei nustatytas minimalus pareiginės algos koeficientas. Diplomatas gali būti iš karto skiriamas į diplomatinę atstovybę ar konsulinę įstaigą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 6. Esant tarnybinei būtinybei, diplomatas gali būti laikinai perkeltas į kitas diplomato pareigas Užsienio reikalų ministerijoje. Perkėlimo laikotarpis negali būti ilgesnis negu 3 metai. Laikinai perkeltam į kitas pareigas diplomatui mokamas ne mažesnis kaip iki perkėlimo nustatytas darbo užmokestis.
 
-7. Diplomatas į Užsienio reikalų ministerijos kanclerio ar užsienio reikalų viceministro pareigas skiriamas politinio (asmeninio) pasitikėjimo pagrindu. Atleidus Užsienio reikalų ministerijos kanclerį ar užsienio reikalų viceministrą, su kuriuo sudaryta diplomato tarnybos sutartis, iš politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigų Valstybės tarnybos įstatymo 51 straipsnio 1 dalies 6 ar 7 punkte nurodytais pagrindais, diplomatas, ėjęs šias pareigas, perkeliamas arba paskiriamas į kitas pareigas šiame straipsnyje nustatyta tvarka. Jeigu diplomatas perkeliamas arba skiriamas į kitas pareigas Užsienio reikalų ministerijoje, jis perkeliamas arba paskiriamas į pareigas, kurios yra ne žemesnės negu tos, kurias jis ėjo iki paskyrimo į Užsienio reikalų ministerijos kanclerio ar užsienio reikalų viceministro pareigas, arba, jeigu tokios galimybės nėra, Atestacijos komisijos siūlymu – į žemesnes pareigas. Diplomatui nustatomas ne mažesnis, negu iki paskyrimo į Užsienio reikalų ministerijos kanclerio ar užsienio reikalų viceministro pareigas jam buvo nustatytas pareiginės algos koeficientas, bet ne didesnis, negu pareigybei, į kurią jis perkeliamas arba skiriamas, nustatytas didžiausias, ir ne mažesnis, negu tai pareigybei nustatytas mažiausias koeficientas.
+7. Diplomatas į Užsienio reikalų ministerijos kanclerio ar užsienio reikalų viceministro pareigas skiriamas politinio (asmeninio) pasitikėjimo pagrindu. Atleidus Užsienio reikalų ministerijos kanclerį ar užsienio reikalų viceministrą, su kuriuo sudaryta diplomato tarnybos sutartis, iš politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigų Valstybės tarnybos įstatymo 35 straipsnio 1 dalies 6 ar 8 punkte nurodytais pagrindais, diplomatas, ėjęs šias pareigas, perkeliamas arba paskiriamas į kitas pareigas šiame straipsnyje nustatyta tvarka. Jeigu diplomatas perkeliamas arba skiriamas į kitas pareigas Užsienio reikalų ministerijoje, jis perkeliamas arba paskiriamas į pareigas, kurios yra ne žemesnės negu tos, kurias jis ėjo iki paskyrimo į Užsienio reikalų ministerijos kanclerio ar užsienio reikalų viceministro pareigas, arba, jeigu tokios galimybės nėra, Atestacijos komisijos siūlymu – į žemesnes pareigas. Diplomatui nustatomas ne mažesnis, negu iki paskyrimo į Užsienio reikalų ministerijos kanclerio ar užsienio reikalų viceministro pareigas jam buvo nustatytas pareiginės algos koeficientas, bet ne didesnis, negu pareigybei, į kurią jis perkeliamas arba skiriamas, nustatytas maksimalus, ir ne mažesnis, negu tai pareigybei nustatytas minimalus pareiginės algos koeficientas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+8. Kai yra tarnybinė būtinybė ir užsienio reikalų ministras ir kitų valstybės ar savivaldybių institucijų ir įstaigų ar kitų organizacijų vadovai suderina tokią galimybę, diplomatas, gavus jo rašytinį sutikimą, gali būti ne ilgiau kaip vieniems metams pasitelkiamas padėti kitai valstybės ar savivaldybės institucijai ar įstaigai arba kitai organizacijai įgyvendinti funkcijas. Diplomatui, pasitelktam padėti kitai valstybės ar savivaldybės institucijai ar įstaigai arba kitai organizacijai įgyvendinti funkcijas, darbo užmokestis mokamas ir kitos garantijos užtikrinamos iš Užsienio reikalų ministerijos lėšų. Dėl tokio pasitelkimo diplomato tarnybos sutartis nenutrūksta, diplomatui nustatomas ne mažesnis negu iki pasitelkimo nustatytas pareiginės algos koeficientas, paliekamas diplomatinis rangas, pasitelkimo laikas įskaitomas į diplomatinės tarnybos stažą. Diplomatų pasitelkimo tvarką ir sąlygas nustato Vyriausybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 Straipsnio pakeitimai:
 
@@ -520,17 +590,29 @@ Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 
 46 straipsnis. Nuotolinis darbas
 
-1. Nuotolinis darbas yra darbo organizavimo forma arba darbo atlikimo būdas, kai diplomatas jam priskirtas funkcijas ar jų dalį visą arba dalį darbo laiko suderinęs su tiesioginiu vadovu Vyriausybės nustatyta tvarka atlieka nuotoliniu būdu, tai yra sulygtoje kitoje, negu darbovietė yra, vietoje, taip pat ir naudodamas informacines technologijas.
+1. Nuotolinis darbas yra darbo organizavimo forma arba darbo atlikimo būdas, kai diplomatas jam priskirtas funkcijas ar jų dalį visą arba dalį darbo laiko suderinęs su tiesioginiu vadovu užsienio reikalų ministro nustatyta tvarka atlieka nuotoliniu būdu, tai yra sulygtoje kitoje, negu darbovietė yra, vietoje, taip pat ir naudodamas informacines technologijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Nuotolinio darbo atveju dirbtas laikas apskaičiuojamas užsienio reikalų ministro nustatyta tvarka. Savo darbo laiką diplomatas skirsto savo nuožiūra, nepažeisdamas maksimaliojo darbo ir minimaliojo poilsio laiko reikalavimų.
 
-3. Nuotolinis darbas nesukelia tarnybos stažo ar diplomatinės tarnybos stažo apskaičiavimo ar kitų su tarnybos santykiais susijusių ribojimų, neriboja ir nevaržo diplomato teisių.
+3. Nuotolinis darbas nesukelia tarnybos Lietuvos valstybei stažo ar diplomatinės tarnybos stažo apskaičiavimo ar kitų su tarnybos santykiais susijusių ribojimų, neriboja ir nevaržo diplomato teisių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 4. Užsienio reikalų ministras privalo sudaryti sąlygas nuotolinį darbą dirbantiems diplomatams bendradarbiauti su kitais Užsienio reikalų ministerijoje ir diplomatinėse atstovybėse, konsulinėse įstaigose ar specialiosiose misijose dirbančiais diplomatais, valstybės tarnautojais ir darbuotojais, dirbančiais pagal darbo sutartis, gauti jų funkcijoms atlikti reikalingą informaciją.
 
 47 straipsnis. Garantijos diplomato, paskiriamo į kitą valstybę pagal diplomatų rotacijos taisykles, sutuoktiniui arba partneriui
 
-1. Diplomato sutuoktinis arba partneris, išvykęs kartu su diplomatu į diplomatinę atstovybę, konsulinę įstaigą ar specialiąją misiją, turi teisę per 3 mėnesius nuo diplomato atšaukimo iš diplomatinės atstovybės, konsulinės įstaigos ar specialiosios misijos grįžti į tas pačias pareigas valstybės ar savivaldybės institucijoje ar įstaigoje arba kitoje iš valstybės biudžeto ar savivaldybės biudžeto finansuojamoje įstaigoje ar organizacijoje, kurioje dirbo iki išvykimo kartu su diplomatu į diplomatinę atstovybę, konsulinę įstaigą ar specialiąją misiją. Tais atvejais, kai nėra galimybės grįžti į tas pačias pareigas, diplomato sutuoktinis arba partneris per šioje dalyje nustatytą terminą turi teisę grįžti į kitas pareigas, apmokamas ne mažiau negu iki išvykimo su diplomatu, toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje arba kitoje iš valstybės biudžeto ar savivaldybės biudžeto finansuojamoje įstaigoje ar organizacijoje, kurioje dirbo iki išvykimo su sutuoktiniu arba partneriu.
+1. Diplomato sutuoktinis arba partneris, išvykęs kartu su diplomatu į diplomatinę atstovybę, konsulinę įstaigą ar specialiąją misiją, turi teisę per 3 mėnesius nuo diplomato atšaukimo iš diplomatinės atstovybės, konsulinės įstaigos ar specialiosios misijos grįžti į tas pačias pareigas valstybės ar savivaldybės institucijoje ar įstaigoje arba kitoje iš valstybės biudžeto ar savivaldybės biudžeto finansuojamoje įstaigoje ar organizacijoje, išskyrus institucijos, įstaigos ar organizacijos vadovo pareigas, kurioje dirbo iki išvykimo kartu su diplomatu į diplomatinę atstovybę, konsulinę įstaigą ar specialiąją misiją. Kai nėra galimybės grįžti į tas pačias pareigas, diplomato sutuoktinis arba partneris per šioje dalyje nustatytą terminą turi teisę grįžti į kitas pareigas, apmokamas ne mažiau negu iki išvykimo su diplomatu, toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje arba kitoje iš valstybės biudžeto ar savivaldybės biudžeto finansuojamoje įstaigoje ar organizacijoje, kurioje dirbo iki išvykimo su sutuoktiniu arba partneriu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Laikotarpis, kurį diplomato sutuoktinis arba partneris praleido užsienyje dėl to, kad jis ten gyveno kartu su diplomatu, dirbančiu diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje, įskaitomas į diplomato sutuoktinio arba partnerio socialinio draudimo stažą, jeigu už šį laikotarpį buvo mokėtos nustatytos valstybinio socialinio draudimo įmokos.
 
@@ -800,19 +882,41 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
-2. Diplomato skatinimas įforminamas užsienio reikalų ministro įsakymu. Šio straipsnio 1 dalies 1, 2, 4, 5, 6, 7 ir 9 punktuose numatytos skatinimo priemonės įgyvendinamos ne vėliau kaip per 2 mėnesius nuo užsienio reikalų ministro įsakymo įsigaliojimo dienos, o šio straipsnio 1 dalies 3 ir 8 punktuose numatytos skatinimo priemonės – per vienus metus nuo užsienio reikalų ministro įsakymo įsigaliojimo dienos.
+2. Diplomatai, turintys galiojančią tarnybinę nuobaudą, neskatinami, išskyrus atvejus, kai diplomato tarnybinė veikla įvertinama kaip viršijanti lūkesčius. Diplomatai, turintys galiojančią tarnybinę nuobaudą už Viešųjų ir privačių interesų derinimo įstatymo pažeidimus, gali būti skatinami tik praėjus Viešųjų ir privačių interesų derinimo įstatyme nustatytiems terminams nuo sprendimo pripažinti juos pažeidusiais Viešųjų ir privačių interesų derinimo įstatymo reikalavimus priėmimo dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+3. Diplomato skatinimas įforminamas užsienio reikalų ministro įsakymu. Šio straipsnio 1 dalies 1, 2, 4, 5, 6, 7 ir 9 punktuose numatytos skatinimo priemonės įgyvendinamos ne vėliau kaip per 2 mėnesius nuo užsienio reikalų ministro įsakymo įsigaliojimo dienos, o šio straipsnio 1 dalies 3 ir 8 punktuose numatytos skatinimo priemonės – per vienus metus nuo užsienio reikalų ministro įsakymo įsigaliojimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
-3. Už ypatingus nuopelnus Lietuvos Respublikai ar ilgametį sąžiningą darbą diplomatinėje tarnyboje diplomatas nustatyta tvarka gali būti teikiamas valstybės apdovanojimui gauti.
+Straipsnio dalies numeracijos pakeitimas:
 
-4. Apie diplomato gautus skatinimus ir valstybės apdovanojimus įrašoma į diplomato asmens bylą.
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+4. Už ypatingus nuopelnus Lietuvos Respublikai ar ilgametį sąžiningą darbą diplomatinėje tarnyboje diplomatas nustatyta tvarka gali būti teikiamas valstybės apdovanojimui gauti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+5. Apie diplomato gautus skatinimus ir valstybės apdovanojimus įrašoma į diplomato asmens bylą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 71 straipsnis. Tarnybinės nuobaudos
 
-1. Už tarnybinius nusižengimus diplomatui skiriamos šios tarnybinės nuobaudos:
+1. Už tarnybinius nusižengimus diplomatui gali būti skiriama viena iš šių tarnybinių nuobaudų:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 1) pastaba;
 
@@ -832,7 +936,11 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 3. Tarnybinė nuobauda – diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas – gali būti skiriama už šiurkštų tarnybinį nusižengimą, taip pat už kitą tarnybinį nusižengimą, jeigu prieš tai diplomatui nors kartą per paskutinius 12 mėnesių buvo taikyta tarnybinė nuobauda – griežtas papeikimas.
 
-4. Šiurkščiu pažeidimu laikoma:
+4. Šiurkščiu tarnybiniu nusižengimu laikoma:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 1) diplomato elgesys, susijęs su tarnybinių pareigų atlikimu, diskredituojantis diplomatinę tarnybą, menkinantis diplomatinės tarnybos institucijos ar paties diplomato reputaciją, žeminantis žmogaus orumą, ar kiti veiksmai, tiesiogiai pažeidžiantys žmonių konstitucines teises;
 
@@ -840,15 +948,27 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 3) korupcinio pobūdžio nusikalstamos veikos, kaip jos apibrėžtos Korupcijos prevencijos įstatyme, susijusios su tarnybinių pareigų atlikimu, nors už šią veiką diplomatas ir nebuvo traukiamas baudžiamojon ar administracinėn atsakomybėn;
 
-4) piktnaudžiavimas tarnyba ir (ar) šiurkštus Viešųjų ir privačių interesų derinimo valstybės tarnyboje įstatymo reikalavimų pažeidimas;
+4) piktnaudžiavimas tarnyba ir (ar) šiurkštus Viešųjų ir privačių interesų derinimo įstatymo reikalavimų pažeidimas;
 
-5) dalyvavimas su diplomatine tarnyba nesuderinamoje veikloje;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+5) dalyvavimas su diplomato pareigomis nesuderinamoje veikloje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 6) nebuvimas tarnyboje (darbe) vieną ar daugiau darbo dienų be pateisinamos priežasties;
 
 7) buvimas tarnybos (darbo) metu neblaiviam ar apsvaigusiam nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, taip pat ne tarnybos (ne darbo) metu viešoje vietoje, jeigu diplomato elgesys įžeidžia žmogaus orumą ar diskredituoja valstybės, Užsienio reikalų ministerijos ir (ar) kitų diplomatinės tarnybos institucijų autoritetą, arba vengimas tikrintis dėl neblaivumo arba apsvaigimo nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, kai įtariama, kad tarnybos (darbo) metu diplomatas yra apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
 
-8) valstybės lėšų ir turto apskaitos pažeidimas, turėjęs reikšmingos įtakos Užsienio reikalų ministerijos finansinių ir biudžeto vykdymo ataskaitų rinkinių, konsoliduotųjų ataskaitų rinkinių ir (ar) kitų ataskaitų duomenų teisingumui, ar reikšmingas valstybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo pažeidimas, nustatytas Lietuvos Respublikos valstybės kontrolieriaus ar jo pavaduotojo sprendimu;
+8) valstybės lėšų ir turto apskaitos pažeidimas, turėjęs reikšmingos įtakos Užsienio reikalų ministerijos finansinių ir biudžeto vykdymo ataskaitų rinkinių, konsoliduotųjų ataskaitų rinkinių ir (ar) kitų ataskaitų duomenų teisingumui, ar reikšmingas valstybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo pažeidimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 9) įsiteisėjusių teismo sprendimų, susijusių su diplomato pareigomis ir jų atlikimu, nevykdymas;
 
@@ -856,19 +976,25 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 72 straipsnis. Tarnybinių nuobaudų skyrimas
 
-1. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį diplomatas nebuvo darbe dėl laikinojo nedarbingumo, buvo komandiruotėje arba atostogavo, o iškėlus baudžiamąją bylą arba Seimo kontrolieriui atliekant tyrimą, taip pat atliekant tarnybinį ar kitą kompetentingos institucijos patikrinimą, – ne vėliau kaip per 2 mėnesius nuo baudžiamosios bylos nutraukimo arba teismo nuosprendžio įsiteisėjimo dienos, Seimo kontrolieriaus pažymos surašymo, tarnybinio ar kito kompetentingos institucijos patikrinimo užbaigimo dienos. Tarnybinio nusižengimo tyrimas pradedamas užsienio reikalų ministro sprendimu arba gavus oficialią informaciją apie galimą diplomato tarnybinį nusižengimą. Jeigu įsiteisėjusiame teismo sprendime konstatuota, kad Užsienio reikalų ministerija pažeidė įstatymus ar kitus teisės aktus, Užsienio reikalų ministerijoje turi būti pradėtas diplomatų, dėl kurių galimos kaltės buvo padaryti įsiteisėjusiame teismo sprendime konstatuoti įstatymų ar kitų teisės aktų pažeidimai, tarnybinio nusižengimo tyrimas. Tarnybinė nuobauda neskiriama, jeigu nuo nusižengimo padarymo dienos praėjo 6 mėnesiai, išskyrus atvejus, kai tarnybinis nusižengimas nustatomas atliekant auditą, piniginių ar kitokių vertybių reviziją (inventorizaciją) arba kai Seimo kontrolierius atlieka tyrimą, taip pat kai atliekamas tarnybinis ar kitas kompetentingos institucijos patikrinimas, tiriamas tarnybinis nusižengimas šio straipsnio 2 dalyje numatytais atvejais. Šiais atvejais tarnybinė nuobauda skiriama ne vėliau kaip per 3 metus nuo nusižengimo padarymo dienos.
+1. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį diplomatas nebuvo darbe dėl laikinojo nedarbingumo, buvo komandiruotėje arba atostogavo, buvo nušalintas nuo pareigų, taip pat laiko, per kurį Administracinių bylų teisenos įstatymo nustatyta tvarka turi būti išnagrinėtas skundas dėl profesinės sąjungos atstovaujamojo ir (arba) valdymo organo nesutikimo dėl tarnybinės nuobaudos skyrimo diplomatui, o vykstant baudžiamajam procesui arba Seimo kontrolieriui atliekant tyrimą, taip pat atliekant tarnybinį ar kitą kompetentingos institucijos patikrinimą, – ne vėliau kaip per 2 mėnesius nuo baudžiamosios bylos nutraukimo arba teismo nuosprendžio įsiteisėjimo dienos, Seimo kontrolieriaus pažymos surašymo, tarnybinio ar kito kompetentingos institucijos patikrinimo užbaigimo, ikiteisminio tyrimo pabaigos dienos. Į šioje dalyje nustatytą 2 mėnesių tarnybinės nuobaudos skyrimo terminą neįskaitomas laikas, kurį diplomatas nebuvo darbe dėl laikinojo nedarbingumo, buvo komandiruotėje, atostogavo arba buvo nušalintas nuo pareigų, taip pat laikas, per kurį Administracinių bylų teisenos įstatymo nustatyta tvarka turi būti išnagrinėtas skundas dėl profesinės sąjungos atstovaujamojo ir (arba) valdymo organo nesutikimo dėl tarnybinės nuobaudos skyrimo diplomatui. Tarnybinio nusižengimo tyrimas pradedamas užsienio reikalų ministro sprendimu arba gavus oficialią informaciją apie galimą diplomato tarnybinį nusižengimą. Jeigu įsiteisėjusiame teismo sprendime konstatuota, kad Užsienio reikalų ministerija pažeidė įstatymus ar kitus teisės aktus, Užsienio reikalų ministerijoje turi būti pradėtas diplomatų, dėl kurių galimos kaltės buvo padaryti įsiteisėjusiame teismo sprendime konstatuoti įstatymų ar kitų teisės aktų pažeidimai, tarnybinio nusižengimo tyrimas. Tarnybinė nuobauda neskiriama, jeigu nuo nusižengimo padarymo dienos praėjo 6 mėnesiai, išskyrus atvejus, kai tarnybinis nusižengimas nustatomas atliekant auditą, inventorizaciją arba kai Seimo kontrolierius atlieka tyrimą, taip pat kai atliekamas tarnybinis ar kitas kompetentingos institucijos patikrinimas, tiriamas tarnybinis nusižengimas šio straipsnio 2 dalyje numatytais atvejais, atliekamas ikiteisminis tyrimas arba kai yra pažeidžiamos Viešųjų ir privačių interesų derinimo įstatymo nuostatos arba įsiteisėja teismo sprendimas, kuriame konstatuota, kad Užsienio reikalų ministerija pažeidė įstatymus ar kitus teisės aktus. Šiais atvejais tarnybinė nuobauda skiriama ne vėliau kaip per 3 metus nuo nusižengimo padarymo dienos.
 
-2. Tarnybinio nusižengimo tyrimas, gavus oficialią informaciją apie galimą diplomato tarnybinį nusižengimą, pradedamas, o pradėtas tarnybinio nusižengimo tyrimas tęsiamas ir atitinkamas sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas taip pat kai su diplomatu, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinio nusižengimo tyrimas, nutraukiama diplomato tarnybos sutartis arba terminuota diplomato tarnybos sutartis (netenka diplomato statuso). Šis sprendimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perduodamas Valstybės tarnybos įstatymo 53 straipsnyje nurodytam registrui ir asmeniui, ėjusiam diplomato pareigas.
+2. Tarnybinio nusižengimo tyrimas, gavus oficialią informaciją apie galimą diplomato tarnybinį nusižengimą, pradedamas, o pradėtas tarnybinio nusižengimo tyrimas tęsiamas ir atitinkamas sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas taip pat kai su diplomatu, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinio nusižengimo tyrimas, nutraukiama diplomato tarnybos sutartis arba terminuota diplomato tarnybos sutartis (netenkama diplomato statuso). Šis sprendimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perduodamas Valstybės tarnybos įstatymo 39 straipsnyje nurodytam registrui ir asmeniui, ėjusiam diplomato pareigas.
 
 3. Už vieną tarnybinį nusižengimą galima skirti tik vieną tarnybinę nuobaudą.
 
-4. Kai paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio nusižengimo požymių, tarnybinio nusižengimo tyrimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama institucijai, kompetentingai tirti ir nagrinėti atitinkamas bylas. Jeigu atsisakoma pradėti ikiteisminį tyrimą arba administracinių nusižengimų teiseną ar asmuo atleidžiamas nuo baudžiamosios arba administracinės atsakomybės, tarnybinio nusižengimo tyrimas tęsiamas ir tarnybinė nuobauda turi būti paskirta šio straipsnio 1 dalyje nustatyta tvarka ir terminais.
+4. Kai paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio nusižengimo požymių, tarnybinio nusižengimo tyrimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama institucijai, kompetentingai tirti ir nagrinėti atitinkamas bylas. Jeigu atsisakoma pradėti ikiteisminį tyrimą arba administracinio nusižengimo teiseną, baudžiamasis procesas nutraukiamas, asmuo atleidžiamas nuo baudžiamosios atsakomybės, priimamas išteisinamasis nuosprendis arba asmuo atleidžiamas nuo administracinės atsakomybės, tarnybinio nusižengimo tyrimas tęsiamas ir tarnybinė nuobauda turi būti paskirta šio straipsnio 1 dalyje nustatyta tvarka ir terminais. Kai diplomato veika turi savarankiško tarnybinio nusižengimo požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį nusižengimą atriboti nuo nusikalstamos veikos ar administracinio nusižengimo, tarnybinio nusižengimo tyrimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar administracinio nusižengimo teisenos eigą.
 
-5. Tarnybinę nuobaudą skiria arba sprendimą dėl asmens, ėjusio diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą ir sprendimą dėl tarnybinės nuobaudos, kuri turėtų būti jam skirta, priima užsienio reikalų ministras, atsižvelgdamas į šio straipsnio 1 dalyje nustatytus reikalavimus.
+5. Tarnybinę nuobaudą skiria arba sprendimą dėl asmens, ėjusio diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą ir sprendimą dėl tarnybinės nuobaudos, kuri turėtų būti jam skirta, priima užsienio reikalų ministras.
 
-6. Sprendimas dėl tarnybinės nuobaudos skyrimo ar dėl asmens, ėjusio diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, nustatymo gali būti skundžiamas teismui.
+6. Sprendimas dėl tarnybinės nuobaudos skyrimo ar dėl asmens, ėjusio diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, gali būti skundžiamas teismui.
 
-7. Sprendimų dėl tarnybinių nuobaudų skyrimo diplomatams ir sprendimų dėl asmenų, ėjusių diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą ir sprendimų dėl tarnybinių nuobaudų, kurios turėtų būti jiems skirtos, priėmimo tvarką, taip pat šio straipsnio 2 dalyje nurodytų motyvuotų išvadų apie tyrimų rezultatus ir priimtų sprendimų dėl asmenų, ėjusių diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą perdavimo atitinkamiems asmenims terminus ir tvarką nustato Vyriausybė.
+7. Sprendimų dėl tarnybinių nuobaudų skyrimo diplomatams ir sprendimų dėl asmenų, ėjusių diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą, ir sprendimų dėl tarnybinių nuobaudų, kurios turėtų būti jiems skirtos, priėmimo tvarką, taip pat šio straipsnio 2 dalyje nurodytų priimtų sprendimų dėl asmenų, ėjusių diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą perdavimo atitinkamiems asmenims terminus ir tvarką nustato Vyriausybė.
+
+8. Diplomato, galimai padariusio tarnybinį nusižengimą, prašymu atliekant tarnybinio nusižengimo tyrimą dalyvauja darbuotojų atstovavimą įgyvendinančių asmenų atstovas.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 6 straipsnis. Diplomato ir asmens, pretenduojančio į diplomatinę tarnybą, nepriekaištinga reputacija
 
@@ -876,21 +1002,31 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 2. Diplomatas ir asmuo, pretenduojantis į diplomatinę tarnybą, nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
-1) įstatymų nustatyta tvarka pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nusikaltimo valstybės tarnybai ir viešiesiems interesams ar dėl korupcinio pobūdžio nusikaltimo, kaip jis apibrėžtas Lietuvos Respublikos korupcijos prevencijos įstatyme, padarymo;
+1) įstatymų nustatyta tvarka pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 10 metų arba pripažintas kaltu dėl sunkaus nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 8 metai, arba pripažintas kaltu dėl apysunkio nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 4 metai, arba pripažintas kaltu dėl nesunkaus nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 3 metai;
 
-2) įstatymų nustatyta tvarka pripažintas kaltu dėl kitos, nei šios dalies 1 punkte nurodytos, nusikalstamos veikos padarymo ir nuo teismo nuosprendžio įsiteisėjimo dienos nepraėjo 5 metai arba turintis neišnykusį arba nepanaikintą teistumą dėl padaryto nusikaltimo arba nepasibaigusį laidavimo terminą;
+2) įstatymų nustatyta tvarka pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams padarymo ir nuo bausmės atlikimo nepraėjo 3 metai;
 
-3) įstatymų nustatyta tvarka atleistas iš valstybės tarnybos už šiurkštų tarnybinį nusižengimą arba pripažintas padaręs šiurkštų tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, ir nuo atleidimo iš pareigų dienos arba nuo pripažinimo padarius šiurkštų tarnybinį nusižengimą dienos nepraėjo 3 metai arba dėl tų pačių aplinkybių šio įstatymo nustatyta tvarka nutraukta jo diplomato tarnybos sutartis arba terminuota diplomato tarnybos sutartis ir nuo tokios sutarties nutraukimo dienos arba nuo pripažinimo padarius šiurkštų tarnybinį nusižengimą dienos nepraėjo 3 metai;
+3) įstatymų nustatyta tvarka atleistas nuo baudžiamosios atsakomybės už labai sunkaus nusikaltimo padarymą ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 4 metai arba atleistas nuo baudžiamosios atsakomybės už sunkaus nusikaltimo padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai, arba buvo atleistas nuo baudžiamosios atsakomybės už apysunkio nusikaltimo padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą arba dėl nusikaltimo mažareikšmiškumo) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 2 metai ar nėra pasibaigęs laidavimo terminas, arba buvo atleistas nuo baudžiamosios atsakomybės už nesunkaus nusikaltimo ar baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą arba dėl nusikaltimo mažareikšmiškumo) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo vieni metai ar nėra pasibaigęs laidavimo terminas;
 
-4) atleistas iš darbo, pareigų ar praradęs teisę verstis atitinkama veikla už kituose įstatymuose keliamo nepriekaištingos reputacijos reikalavimo neatitiktį ar elgesio (etikos) normų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis atitinkama veikla praradimo dienos nepraėjo 3 metai;
+4) atleistas iš valstybės tarnautojo pareigų už Valstybės tarnybos įstatymo 23 straipsnio 5 dalies 1–5 ir 7–9 punktuose nurodytus šiurkščius tarnybinius nusižengimus arba Valstybės tarnybos įstatymo 25 straipsnio 2 dalyje numatytu atveju pripažintas padariusiu šiurkštų tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, ir nuo atleidimo iš pareigų dienos ar nuo pripažinimo padarius šiurkštų tarnybinį nusižengimą dienos nepraėjo 3 metai arba šio įstatymo 71 straipsnio 4 dalies 1–5 ir 7–10 punktuose nustatytais pagrindais ir šio įstatymo nustatyta tvarka nutraukta jo diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis, arba šio įstatymo 72 straipsnio 2 dalyje numatytu atveju pripažintas padariusiu šiurkštų šio įstatymo 71 straipsnio 4 dalies 1–5 ar 7–10 punktuose numatytą tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – diplomato tarnybos sutarties nutraukimas ar terminuotos diplomato tarnybos sutarties nutraukimas, ir nuo diplomato tarnybos ar terminuotos diplomato tarnybos sutarties nutraukimo dienos arba nuo pripažinimo padariusiu šiurkštų tarnybinį nusižengimą dienos nepraėjo 3 metai;
 
-5) atleistas ar pašalintas iš skiriamų arba pašalintas iš renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo ir nuo atleidimo ar pašalinimo iš pareigų dienos nepraėjo 3 metai;
+5) atleistas iš darbo, pareigų ar praradęs teisę verstis tam tikra veikla už kituose įstatymuose keliamo nepriekaištingos reputacijos reikalavimo neatitiktį ar elgesio (etikos) normų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla praradimo dienos nepraėjo 3 metai;
 
-6) yra ar buvo įstatymų nustatyta tvarka uždraustos organizacijos narys, jeigu nuo narystės pabaigos nepraėjo 3 metai.
+6) atleistas ar pašalintas iš skiriamų arba pašalintas iš renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo ir nuo atleidimo ar pašalinimo iš pareigų dienos nepraėjo 3 metai;
+
+7) yra ar buvo įstatymų nustatyta tvarka uždraustos organizacijos narys, jeigu nuo narystės pabaigos nepraėjo 3 metai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 3. Diplomatą į pareigas priimantis asmuo privalo užtikrinti, kad į diplomato pareigas būtų priimti tik nepriekaištingos reputacijos reikalavimus atitinkantys asmenys.
 
-4. Vykdydamas šio straipsnio 3 dalyje nustatytą pareigą, diplomatą į pareigas priimantis asmuo turi teisę motyvuotu rašytiniu prašymu kreiptis į teisėsaugos, kontrolės ir kitas institucijas, valstybės ar savivaldybės kontroliuojamas įstaigas ar įmones, kad šios pateiktų apie tokį asmenį jų turimą informaciją. Institucijos, įstaigos ir įmonės tokią informaciją turi pateikti ne vėliau kaip per 7 kalendorines dienas nuo prašymo pateikti tokią informaciją gavimo dienos, jeigu įstatymai nenustato kitaip.
+4. Vykdydamas šio straipsnio 3 dalyje nustatytą pareigą, diplomatą į pareigas priimantis asmuo įstatymų nustatytais atvejais privalo, o kitais atvejais turi teisę motyvuotu rašytiniu prašymu kreiptis į teisėsaugos, kontrolės ir kitas institucijas, valstybės ar savivaldybės valdomas įstaigas ar įmones, kad šios pateiktų apie asmenį, pretenduojantį tapti diplomatu, jų turimą informaciją, nurodytą šio straipsnio 2 dalyje. Institucijos, įstaigos ir įmonės tokią informaciją turi pateikti ne vėliau kaip per 7 kalendorines dienas nuo prašymo pateikti tokią informaciją gavimo dienos, jeigu kiti įstatymai nenustato kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 17 straipsnis. Diplomatinės atstovybės, konsulinės įstaigos ir specialiosios misijos personalas
 
@@ -956,7 +1092,11 @@ DIPLOMATINĖS TARNYBOS INSTITUCIJOS, JŲ PERSONALAS, PRIVILEGIJOS IR IMUNITETAI
 
 10 straipsnis. Užsienio reikalų ministerijos personalas
 
-Užsienio reikalų ministerijos personalą sudaro diplomatai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, karjeros valstybės tarnautojai, pakaitiniai valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis.
+Užsienio reikalų ministerijos personalą sudaro diplomatai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, karjeros valstybės tarnautojai, laikinieji valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 13 straipsnis. Atstovybės prie tarptautinės organizacijos funkcijos
 
@@ -1036,11 +1176,13 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 28 straipsnis. Terminuota diplomato tarnybos sutartis
 
-1. Terminuota diplomato tarnybos sutartis yra asmens, priimamo į diplomatinę tarnybą nustatytam terminui, ir Užsienio reikalų ministerijos rašytinis susitarimas, kuriuo asmuo įsipareigoja tam tikrą laiką eiti sutartyje nurodytas pareigas ir vykdyti jam šio įstatymo, kitų įstatymų ir teisės aktų nustatytus reikalavimus, o Užsienio reikalų ministerija įsipareigoja mokėti jam šio įstatymo nustatytą darbo užmokestį. Terminuotos diplomato tarnybos sutarties formą tvirtina užsienio reikalų ministras.
+1. Terminuota diplomato tarnybos sutartis yra asmens, priimamo į diplomatinę tarnybą nustatytam terminui, ir Užsienio reikalų ministerijos rašytinis susitarimas, kuriuo asmuo įsipareigoja tam tikrą laiką eiti diplomato tarnybos sutartyje nurodytas pareigas ir vykdyti jam šio įstatymo, kitų įstatymų ir teisės aktų nustatytus reikalavimus, o Užsienio reikalų ministerija įsipareigoja mokėti jam teisės aktų nustatytą darbo užmokestį. Terminuotos diplomato tarnybos sutarties formą tvirtina užsienio reikalų ministras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Su asmeniu, Respublikos Prezidento skiriamu diplomatiniu atstovu ir iki paskyrimo nesudariusiu su Užsienio reikalų ministerija diplomato tarnybos sutarties, sudaroma terminuota diplomato tarnybos sutartis.
 
@@ -1056,7 +1198,11 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 4. Užsienio reikalų ministro sprendimu su į diplomatinę tarnybą priimamu asmeniu, kuriam pavedama atlikti funkcijas, susijusias su Šengeno acquis reikalavimų ir (ar) kitų funkcijų, numatytų Konsuliniame statute, įgyvendinimu, gali būti sudaroma terminuota diplomato tarnybos sutartis. Terminuota diplomato tarnybos sutartis su šioje dalyje nurodytu asmeniu sudaroma vieniems metams.
 
-5. Su asmeniu, kuris priimamas į laikinai negalinčio eiti pareigų diplomato pareigas (žemesnes negu padalinio vadovo ar jo pavaduotojo), ne ilgiau kaip 3 metams sudaroma terminuota diplomato tarnybos sutartis.
+5. Su asmeniu, kuris priimamas į laikinai negalinčio eiti pareigų diplomato pareigas (žemesnes negu padalinio vadovo ar jo pavaduotojo), ne ilgiau kaip 3 metams sudaroma terminuota diplomato tarnybos sutartis. Atranka į laikinai negalinčių eiti pareigų diplomatų pareigas organizuojama ir vykdoma užsienio reikalų ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 6. Asmeniui, su kuriuo sudaryta terminuota diplomato tarnybos sutartis, nuo sutarties sudarymo dienos yra taikomos šiame įstatyme nurodytos diplomatui privalomos nuostatos, išskyrus rotacijos taisyklių laikymąsi ir kitus ypatumus, privalomus tik pagal diplomato tarnybos sutartį dirbantiems diplomatams.
 
@@ -1086,7 +1232,11 @@ DIPLOMATO PAREIGOS IR TEISĖS
 
 1. Diplomatai turi tobulinti kvalifikaciją. Diplomatų kvalifikacijos tobulinimo prioritetus ir tvarką nustato užsienio reikalų ministras.
 
-2. Įgyvendinant užsienio reikalų ministro nustatytus kvalifikacijos tobulinimo prioritetus arba diplomatinės tarnybos institucijai, kurioje diplomatas eina pareigas, nustatytus tikslus ir uždavinius atsiradus poreikiui diplomatui įgyti naujų žinių ar kompetencijų, diplomatų kvalifikacijos tobulinimas finansuojamas iš Užsienio reikalų ministerijai skiriamų valstybės biudžeto asignavimų ar kitų teisėtų lėšų. Kitais atvejais, suderinus su į pareigas priimančiu asmeniu, diplomatų kvalifikacijos tobulinimas gali būti finansuojamas iš Užsienio reikalų ministerijai skiriamų valstybės biudžeto asignavimų ir (ar) kitų teisėtų lėšų, diplomato lėšų.
+2. Įgyvendinant užsienio reikalų ministro nustatytus kvalifikacijos tobulinimo prioritetus arba diplomatinės tarnybos institucijai, kurioje diplomatas eina pareigas, nustatytus tikslus ir uždavinius atsiradus poreikiui diplomatui įgyti naujų žinių ar kompetencijų, diplomatų kvalifikacijos tobulinimas finansuojamas iš Užsienio reikalų ministerijai skiriamų valstybės biudžeto asignavimų ar kitų teisėtų lėšų. Kitais atvejais, suderinus su į pareigas priimančiu asmeniu, diplomatų kvalifikacijos tobulinimas gali būti finansuojamas iš Užsienio reikalų ministerijai skiriamų valstybės biudžeto asignavimų ir (ar) kitų teisėtų lėšų, ir (ar) diplomato lėšų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 V SKYRIUS
 
@@ -1094,15 +1244,11 @@ DIPLOMATŲ DARBO UŽMOKESTIS IR TARNYBINĖS VEIKLOS VERTINIMAS
 
 35 straipsnis. Diplomatų pareigybių grupės ir pareiginių algų koeficientai
 
-1. Diplomatų pareigybių grupės ir joms priskirtos diplomatų pareigybės nustatytos šio įstatymo 1 priede.
+1. Diplomatų pareigybių grupės ir joms priskirtos diplomatų pareigybės nustatytos šio įstatymo priede.
 
 2. Diplomatų pareigybės skirstomos į 9 grupes. Aukščiausia yra 1 grupė, žemiausia – 9 grupė.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
-
-3. Kiekvienai pareigybių grupei nustatytas pareiginės algos koeficientų intervalas.
+3. Diplomatų pareigybių minimalūs pareiginės algos koeficientai nustatyti šio įstatymo priede.
 
 39 straipsnis. Priemokos
 
@@ -1110,19 +1256,17 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 1) už įprastą darbo krūvį viršijančią veiklą, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas neviršijant nustatytos darbo laiko trukmės;
 
-2) už papildomų užduočių atlikimą, kai atliekamos pareigybės aprašyme nenustatytos funkcijos. Papildomos užduotys diplomatui turi būti suformuluotos raštu;
+2) už papildomų užduočių atlikimą, kai dėl to viršijamas įprastas darbo krūvis arba atliekamos pareigybės aprašyme nenustatytos funkcijos. Papildomos užduotys diplomatui turi būti suformuluotos raštu;
 
-3) už darbą, kai yra nukrypimų nuo normalių darbo sąlygų.
+3) už darbą, kai yra nukrypimų nuo normalių darbo sąlygų;
 
-2. Priemokų dydį, jų skyrimo tvarką nustato užsienio reikalų ministras. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytos priemokos negali viršyti 40 procentų diplomato pareiginės algos, o šio straipsnio 1 dalies 3 punkte nurodyta priemoka negali viršyti 20 procentų diplomato pareiginės algos.
+4) už pavadavimą, kai raštu pavedama laikinai atlikti ir kito diplomato, valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, pareigybei nustatytas funkcijas.
 
-Straipsnio pakeitimai:
-
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
+2. Priemokų dydį, jų skyrimo tvarką nustato užsienio reikalų ministras. Kiekviena priemoka, nurodyta šio straipsnio 1 dalyje, negali būti mažesnė kaip 10 procentų pareiginės algos. Diplomatui skiriamų priemokų, nurodytų šio straipsnio 1 dalyje, suma negali viršyti 80 procentų pareiginės algos.
 
 40 straipsnis. Apmokėjimas diplomatui už darbą poilsio ir švenčių dienomis, nakties, viršvalandinį darbą ir budėjimą
 
-Už darbą poilsio ir švenčių dienomis, nakties, viršvalandinį darbą ir budėjimą mokama Darbo kodekso nustatyta tvarka. Apskaičiuojant diplomato apmokėjimą už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, taikomas darbo užmokestis, kurį sudaro diplomato pareiginė alga, priedai ir priemokos.
+Už darbą poilsio ir švenčių dienomis, nakties, viršvalandinį darbą ir budėjimą mokama Darbo kodekso nustatyta tvarka. Apskaičiuojant diplomato apmokėjimą už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, taikomas darbo užmokestis, kurį sudaro diplomato pareiginė alga, priedas už tarnybos Lietuvos valstybei stažą ir priemokos.
 
 44 straipsnis. Diplomatinėje atstovybėje ar konsulinėje įstaigoje išdirbusio diplomato skyrimas į darbą Užsienio reikalų ministerijoje arba kitoje diplomatinėje atstovybėje, konsulinėje įstaigoje
 
@@ -1216,11 +1360,19 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 62 straipsnis. Asmens, išėjusio iš diplomatinės tarnybos, diplomatinis rangas. Teisė atkurti diplomato statusą
 
-1. Asmuo ministro patarėjo, patarėjo, pirmojo sekretoriaus, antrojo sekretoriaus, trečiojo sekretoriaus ar atašė diplomatinį rangą turi iki gyvos galvos, jeigu, sukakęs teisės gauti senatvės pensiją amžių, išeina iš diplomatinės tarnybos.
+1. Asmuo ministro patarėjo, patarėjo, pirmojo sekretoriaus, antrojo sekretoriaus, trečiojo sekretoriaus ar atašė diplomatinį rangą turi iki gyvos galvos, jeigu, sukakęs socialinio draudimo senatvės pensijos amžių, nustatytą Socialinio draudimo pensijų įstatyme (toliau – senatvės pensijos amžius), išeina iš diplomatinės tarnybos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Asmuo (išskyrus turintį Lietuvos Respublikos nepaprastojo ir įgaliotojo ambasadoriaus ar Lietuvos Respublikos nepaprastojo pasiuntinio ir įgaliotojo ministro diplomatinį rangą), dirbęs pagal terminuotą diplomato tarnybos sutartį, diplomatinio rango netenka pasibaigus terminuotai diplomato tarnybos sutarčiai.
 
-3. Diplomato statusas užsienio reikalų ministro nustatyta tvarka gali būti atkurtas buvusiems diplomatams (išskyrus diplomatus, dirbusius pagal terminuotas diplomato tarnybos sutartis), jeigu jie per 5 metus nuo diplomato tarnybos sutarties nutraukimo pareiškia norą atkurti diplomato statusą ir diplomato tarnybos sutartis su jais nebuvo nutraukta šio įstatymo 92 straipsnio 1 dalies 1–9, 11 ir 12 punktuose ir 2 dalies 1, 3 ir 4 punktuose nustatytais pagrindais.
+3. Diplomato statusas užsienio reikalų ministro nustatyta tvarka gali būti atkurtas buvusiems diplomatams (išskyrus diplomatus, dirbusius pagal terminuotas diplomato tarnybos sutartis), jeigu jie per 5 metus nuo diplomato tarnybos sutarties nutraukimo pareiškia norą atkurti diplomato statusą ir diplomato tarnybos sutartis su jais nebuvo nutraukta šio įstatymo 92 straipsnio 1 dalies 1–9, 11, 12, 13 punktuose ir 2 dalies 1, 3, 4 punktuose nustatytais pagrindais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 4. Šio straipsnio 3 dalyje nustatytas 5 metų terminas netaikomas, kai, esant tarnybinei būtinybei, diplomato statusas atkuriamas užsienio reikalų ministro nustatyta tvarka buvusiems diplomatams, nutraukusiems diplomato tarnybos sutartį šio įstatymo 92 straipsnio 9 dalyje nurodytu pagrindu ir priimtiems dirbti į tarptautinę ir Europos Sąjungos instituciją ar užsienio valstybės instituciją, taip pat buvusiems diplomatams, nutraukusiems diplomato tarnybos sutartį šio įstatymo 92 straipsnio 9 dalyje nurodytu pagrindu ir išvykusiems kartu su sutuoktiniais arba partneriais, perkeltais, paskirtais arba išrinktais dirbti į tarptautinę ir Europos Sąjungos instituciją ar užsienio valstybės instituciją. Šie asmenys teisę atkurti diplomato statusą turi per 6 mėnesius nuo darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje pabaigos arba per 6 mėnesius po sutuoktinio arba partnerio darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje pabaigos, arba per 6 mėnesius nuo prašymo atkurti diplomato statusą pateikimo dienos, jeigu toks prašymas pateikiamas nepasibaigus sutuoktinio arba partnerio darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiui.
 
@@ -1234,11 +1386,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
-6. Esant tarnybinei būtinybei, užsienio reikalų ministro nustatyta tvarka diplomato statusas gali būti atkurtas netaikant šio straipsnio 3 dalyje nustatyto 5 metų termino buvusiems diplomatams, kurie pastaruosius 3 metus nepertraukiamai ėjo su užsienio ir (ar) Europos Sąjungos politikos įgyvendinimu susijusias pareigas, jeigu diplomato tarnybos sutartis su jais nebuvo nutraukta šio įstatymo 92 straipsnio 1 dalies 1–9, 11 ir 12 punktuose, 2 dalies 1, 3 ir 4 punktuose ir 13 dalyje nustatytais pagrindais.
+6. Esant tarnybinei būtinybei, užsienio reikalų ministro nustatyta tvarka diplomato statusas gali būti atkurtas netaikant šio straipsnio 3 dalyje nustatyto 5 metų termino buvusiems diplomatams, kurie pastaruosius 3 metus nepertraukiamai ėjo su užsienio ir (ar) Europos Sąjungos politikos įgyvendinimu susijusias pareigas, jeigu diplomato tarnybos sutartis su jais nebuvo nutraukta šio įstatymo 92 straipsnio 1 dalies 1–9, 11, 12, 13 punktuose, 2 dalies 1, 3, 4 punktuose ir 13 dalyje nustatytais pagrindais.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 63 straipsnis. Diplomatinių rangų atėmimas
 
@@ -1258,7 +1414,11 @@ DIPLOMATINIS PASAS
 
 1. Apie užsienio valstybių apdovanojimus diplomatas privalo informuoti Užsienio reikalų ministeriją ne vėliau kaip per 10 darbo dienų nuo tokių apdovanojimų gavimo.
 
-2. Gautų dovanų priėmimo, deklaravimo ir saugojimo tvarką nustato Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymas.
+2. Gautų dovanų priėmimo, deklaravimo ir saugojimo tvarką nustato Viešųjų ir privačių interesų derinimo įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 70 straipsnis. Diplomatų atsakomybė
 
@@ -1380,13 +1540,21 @@ BAIGIAMOSIOS NUOSTATOS
 
 74 straipsnis. Tarnybinės nuobaudos išnykimas
 
-1. Diplomatas laikomas nebaustu tarnybine nuobauda, kai po tarnybinės nuobaudos paskyrimo datos praėjo vieni metai.
+1. Diplomatas laikomas nebaustu tarnybine nuobauda, kai po tarnybinės nuobaudos paskyrimo dienos praėjo vieni metai.
 
-2. Tarnybinė nuobauda užsienio reikalų ministro motyvuotu sprendimu gali būti panaikinta anksčiau, negu sueina šio straipsnio 1 dalyje nustatytas terminas, arba kai diplomatas gauna valstybės apdovanojimą.
+2. Tarnybinė nuobauda užsienio reikalų ministro motyvuotu sprendimu gali būti panaikinta anksčiau, negu sueina šio straipsnio 1 dalyje nustatytas terminas, bet ne anksčiau negu po 6 mėnesių nuo jos paskyrimo dienos, arba kai diplomatas gauna valstybės apdovanojimą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 75 straipsnis. Materialinės atsakomybės sąlygos ir žalos atlyginimo tvarka
 
-1. Diplomatas turi atlyginti savo neteisėta kalta veika Užsienio reikalų ministerijai padarytą tiesioginę materialinę žalą.
+1. Diplomatas turi atlyginti savo neteisėta kalta veika Užsienio reikalų ministerijai padarytą tiesioginę materialinę žalą. Nustatant atlygintinos žalos dydį, taikomos Darbo kodekso nuostatos, išskyrus atvejus, kai žala padaryta tyčia.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Diplomatas atlygina visą šio straipsnio 1 dalyje nurodytą žalą, jeigu ją padarė atlikdamas viešojo administravimo veiklą, tačiau atlygintinos žalos dydis negali viršyti 6 vidutinių diplomato darbo užmokesčių, išskyrus atvejus, kai žala padaryta tyčia.
 
@@ -1408,63 +1576,87 @@ BAIGIAMOSIOS NUOSTATOS
 
 77 straipsnis. Diplomato nušalinimas nuo pareigų
 
-1. Diplomatas nuo pareigų privalo būti nušalintas:
+1. Diplomatas nuo pareigų privalo būti nušalintas Darbo kodekso nustatytais atvejais, taip pat kai nėra pareigų, į kurias diplomatas gali būti perkeltas Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka uždraudus jam dirbti ar susipažinti su įslaptinta informacija, arba kai diplomatas nesutinka būti perkeltas į kitas pareigas. Kai nėra pareigų, į kurias diplomatas gali būti perkeltas Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka uždraudus jam dirbti ar susipažinti su įslaptinta informacija, diplomatas nušalinamas nuo pareigų Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka atliekamo patikrinimo laikotarpiui.
 
-1) jeigu diplomatas darbo vietoje pasirodė neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų. Šiuo atveju diplomatas nušalinamas likusiam tos dienos (pamainos) darbo laikui;
+Straipsnio dalies pakeitimai:
 
-2) Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka jam uždraudus dirbti ar susipažinti su įslaptinta informacija. Šiuo atveju diplomatas nušalinamas Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka atliekamo patikrinimo laikotarpiui;
-
-3) jeigu Užsienio reikalų ministerija gauna informacijos, kad diplomatas įtariamas ar kaltinamas padaręs sunkų arba labai sunkų nusikaltimą arba įtariamas ar kaltinamas padaręs nusikaltimą arba baudžiamąjį nusižengimą valstybės tarnybai ar viešiesiems interesams. Šiuo atveju diplomatas nušalinamas iki baudžiamojo proceso pabaigos;
-
-4) kitų įstatymų nustatytų subjektų sprendimu šių įstatymų nustatytomis sąlygomis ir tvarka.
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Diplomatas nuo pareigų gali būti nušalintas, jeigu:
 
 1) dėl diplomato yra pradėtas tarnybinio nusižengimo tyrimas ar tarnybinis patikrinimas ir diplomatas toliau eidamas pareigas trukdo ar siekia paveikti tarnybinio nusižengimo tyrimo ar tarnybinio patikrinimo eigą ar rezultatus. Šiuo atveju diplomatas nušalinamas tarnybinio nusižengimo tyrimo ar tarnybinio patikrinimo laikui (į šį terminą neįskaitomas diplomato laikinojo nedarbingumo ar atostogų laikas);
 
-2) tarnybinio nusižengimo tyrimas ar tarnybinis patikrinimas atliekamas dėl veikos, už kurią gali būti nutraukta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis. Šiuo atveju diplomatas nušalinamas tarnybinio nusižengimo tyrimo ar tarnybinio patikrinimo laikui (į šį terminą neįskaitomas diplomato laikinojo nedarbingumo ar atostogų laikas).
+2) tarnybinio nusižengimo tyrimas ar tarnybinis patikrinimas atliekamas dėl veikos, už kurią gali būti nutraukta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis. Šiuo atveju diplomatas nušalinamas tarnybinio nusižengimo tyrimo ar tarnybinio patikrinimo laikui (į šį terminą neįskaitomas diplomato laikinojo nedarbingumo ar atostogų laikas);
+
+3) Užsienio reikalų ministerija iš turinčio įgaliojimus pagal Lietuvos Respublikos baudžiamojo proceso kodeksą pareikšti įtarimus ar kaltinimus pareigūno gauna informacijos, kad diplomatas įtariamas ar kaltinamas tyčinio nusikaltimo padarymu arba įtariamas ar kaltinamas nusikaltimo ar baudžiamojo nusižengimo valstybės tarnybai ar viešiesiems interesams padarymu. Šiuo atveju, įvertinus diplomato einamų pareigų pobūdį, atliekamas funkcijas ir kitas svarbias aplinkybes, dėl kurių tolesnis jo pareigų ėjimas būtų nesuderinamas su jam pareikštais įtarimais ar kaltinimais, diplomatas gali būti nušalinamas nuo pareigų iki 3 mėnesių. Prireikus nušalinimas nuo pareigų gali būti pratęsiamas vienam mėnesiui. Pratęsimų skaičius neribojamas, bet visais atvejais nušalinimas nuo pareigų negali trukti ilgiau kaip iki baudžiamojo proceso pabaigos.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 3. Diplomatas nuo pareigų nušalinamas užsienio reikalų ministro ar jo įgalioto asmens sprendimu.
 
 4. Sprendime nušalinti diplomatą nuo pareigų turi būti nurodyta laikotarpis, kuriam diplomatas nušalinamas nuo pareigų, nušalinimo priežastys, teisinis pagrindas, sprendimo apskundimo tvarka ir terminai.
 
+5. Šio straipsnio 2 dalies 3 punkto pagrindu nušalintas nuo pareigų diplomatas su jo sutikimu gali būti laikinai perkeltas į lygiavertes ar žemesnes diplomato pareigas, jeigu toks perkėlimas neprieštarauja nušalinimo nuo pareigų tikslui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
 78 straipsnis. Diplomato nušalinimo teisinės pasekmės
 
 1. Nušalinimo terminui pasibaigus, diplomatas grąžinamas į eitas pareigas, jeigu po nušalinimo nėra pagrindo su juo nutraukti diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį.
 
-2. Už nušalinimo laikotarpį diplomatui darbo užmokestis nemokamas. Diplomatas, nuo tarnybos nušalintas nepagrįstai ar nepasitvirtinus aplinkybėms, lėmusioms nušalinimą, grąžinamas į eitas pareigas ir per 10 darbo dienų, kai diplomatas vėl pradėjo eiti pareigas, jam išmokamas darbo užmokestis už laikotarpį, kurį jis buvo nušalintas nuo tarnybos, taip pat delspinigiai, kurių dydį tvirtina Lietuvos Respublikos socialinės apsaugos ir darbo ministras. Delspinigiai nemokami, jeigu žala diplomatui atlyginta kitų įstatymų nustatyta tvarka. Delspinigių dydį socialinės apsaugos ir darbo ministras tvirtina kiekvienais metais iki vasario 1 dienos, atsižvelgdamas į Lietuvos statistikos departamento paskelbtą vartotojų kainų indeksą per praėjusius kalendorinius metus (lygindamas praėjusių metų gruodžio mėnesį su užpraeitų metų gruodžio mėnesiu).
+2. Už nušalinimo laikotarpį diplomatui darbo užmokestis nemokamas, išskyrus Darbo kodekse nustatytus atvejus. Diplomatas, nuo tarnybos nušalintas nepagrįstai ar nepasitvirtinus aplinkybėms, lėmusioms nušalinimą, grąžinamas į eitas pareigas ir per 10 darbo dienų, kai diplomatas vėl pradėjo eiti pareigas, jam išmokamas darbo užmokestis už laikotarpį, kurį jis buvo nušalintas nuo tarnybos, taip pat delspinigiai, kurių dydį tvirtina socialinės apsaugos ir darbo ministras. Jeigu diplomatas nušalinimo nuo pareigų laikotarpiu buvo perkeltas į kitas diplomato pareigas, jam išmokamas darbo užmokesčio skirtumas už laikotarpį, kurį jis buvo nušalintas nuo pareigų. Delspinigiai nemokami, jeigu žala diplomatui atlyginta kitų įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 3. Sprendimą nušalinti diplomatą nuo pareigų priėmusio asmens reikalavimu nušalintas diplomatas grąžina diplomatinį pasą, visas jam patikėtas su jo pareigų vykdymu susijusias priemones ir jo žinioje esančius dokumentus.
 
-4. Nuo pareigų nušalintas diplomatas nepraranda teisės dirbti kitą darbą pagal šio įstatymo 31 straipsnį.
+4. Nuo pareigų nušalintas diplomatas nepraranda teisės dirbti kitą darbą ar užsiimti kita veikla pagal šio įstatymo 31 straipsnį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 XII SKYRIUS
 
 DIPLOMATO IR DIPLOMATO ŠEIMOS NARIŲ, KITŲ VALSTYBĖS TARNAUTOJŲ IR JŲ ŠEIMOS NARIŲ SOCIALINĖS IR KITOS GARANTIJOS
 
-79 straipsnis. Tarnybos ir diplomatinės tarnybos stažas
+79 straipsnis. Tarnybos Lietuvos valstybei stažas ir diplomatinės tarnybos stažas
 
-1. Tarnybos stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant Valstybės tarnybos įstatymo 5 straipsnio 2 ir 3 dalyse, 6 dalies 1, 2, 3, 4, 8, 9 ir 10 punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo meru ir mero pavaduotoju), metų skaičius. Į tarnybos stažą taip pat įskaitomas laikotarpis einant Valstybės tarnybos įstatymo (2001 m. rugsėjo 27 d. įstatymo Nr. IX-525 redakcija) 33 straipsnio 3 dalyje nustatytas pareigas. Tarnybos stažas skaičiuojamas nuo valstybės tarnautojo tarnybos (darbo) valstybės ir savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos (darbo) ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip pat įskaitomas kasmetinių, nėštumo ir gimdymo atostogų, tėvystės atostogų, atostogų vaikui prižiūrėti, atleidimo nuo tarnybinių pareigų dalyvauti Respublikos Prezidento, Seimo, Europos Parlamento ar savivaldybių tarybų rinkimuose pagal Valstybės tarnybos įstatymo 17 straipsnio 1 dalies 6 punktą ir (ar) šio įstatymo 30 straipsnio 1 dalies 6 punktą perkėlimo į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje pagal Valstybės tarnybos įstatymo 25 straipsnio 3 dalį ir (ar) šio įstatymo 43 straipsnio 5 dalį, darbo tarptautinėje institucijoje ar užsienio valstybės institucijoje laikotarpiai, dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje laikotarpiai, atostogos dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, mokymosi atostogos, pagal Valstybės tarnybos įstatymo 43, 44 ir 45 straipsnius ir (ar) šio įstatymo 81, 82 straipsnius ir 89 straipsnio 10 dalį suteiktų atostogų laikas ir ligos išmokos gavimo laikotarpiai. Atsižvelgiant į tarnybos stažą, nustatomas šio įstatymo 38 straipsnio 1 dalies 1 punkte nurodyto priedo dydis ir šio įstatymo 80 straipsnio 2 dalyje nurodytų kasmetinių papildomų atostogų trukmė. Tarnybos stažo skaičiavimo tvarką nustato Vyriausybė.
+1. Tarnybos Lietuvos valstybei stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant Valstybės tarnybos įstatymo 2 straipsnio 3 ir 4 dalyse, 8 dalies 1–5, 9–14 punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo savivaldybės meru ir mero pavaduotoju), metų skaičius. Į tarnybos Lietuvos valstybei stažą taip pat įskaitomas laikotarpis einant Valstybės tarnybos įstatymo 33 straipsnio 3 dalyje (2001 m. rugsėjo 27 d. įstatymo Nr. IX-525 redakcija) nurodytas pareigas. Tarnybos Lietuvos valstybei stažas skaičiuojamas nuo valstybės tarnautojo tarnybos valstybės ir savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo, priėmimo ar išrinkimo į pareigas valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos Lietuvos valstybei stažą taip pat įskaitomi kasmetinių, nėštumo ir gimdymo atostogų, tėvystės atostogų, atostogų vaikui prižiūrėti, perkėlimo į pareigas tarptautinėje ar Europos Sąjungos institucijoje ar užsienio valstybės institucijoje pagal Valstybės tarnybos įstatymo 16 straipsnio 2 dalį ir (ar) šio įstatymo 43 straipsnio 5 dalį, darbo tarptautinėje ar Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiai, dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje laikotarpiai, atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, mokymosi atostogų, pagal Valstybės tarnybos įstatymo 30 straipsnio 4 dalį ir (ar) šio įstatymo 81, 82 straipsnius ir 89 straipsnio 10 dalį suteiktų atostogų laikas ir ligos išmokos gavimo laikotarpiai. Atsižvelgiant į tarnybos Lietuvos valstybei stažą, nustatomas šio įstatymo 38 straipsnyje nurodyto priedo dydis ir šio įstatymo 80 straipsnio 2 dalyje nurodytų kasmetinių papildomų atostogų trukmė. Tarnybos Lietuvos valstybei stažo skaičiavimo tvarką nustato Vyriausybė.
 
-Straipsnio dalies pakeitimai:
+2. Diplomatinės tarnybos stažą sudaro diplomatinėje tarnyboje nuo 1990 m. kovo 11 d. ištarnautų pilnų metų skaičius. Į diplomatinės tarnybos stažą taip pat įskaitomi diplomato kasmetinių, nėštumo ir gimdymo atostogų, tėvystės atostogų, atostogų vaikui prižiūrėti, perkėlimo į kitas pareigas, darbo tarptautinėje ar Europos Sąjungos institucijoje ar užsienio valstybės institucijoje ir pasitelkimo laikotarpiai pagal šio įstatymo 43 straipsnį, dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje laikotarpiai, atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, mokymosi atostogų, pagal šio įstatymo 81, 82 straipsnius ir 89 straipsnio 10 dalį suteiktų atostogų laikas ir ligos išmokos gavimo laikotarpiai.
 
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
+3. Laikotarpis, kurį diplomatas ar valstybės tarnautojas buvo nušalintas nuo pareigų, į diplomatinės tarnybos stažą ir į tarnybos Lietuvos valstybei stažą neįskaitomas, išskyrus atvejus, kai pripažįstama, kad diplomatas ar valstybės tarnautojas buvo nušalintas nuo pareigų nepagrįstai, arba kai nepasitvirtina aplinkybės, lėmusios diplomato ar valstybės tarnautojo nušalinimą.
 
-2. Diplomatinės tarnybos stažą sudaro diplomatinėje tarnyboje nuo 1990 m. kovo 11 d. ištarnautų pilnų metų skaičius. Į diplomato tarnybos stažą taip pat įskaitomas diplomato kasmetinių, nėštumo ir gimdymo atostogų, tėvystės atostogų, atostogų vaikui prižiūrėti, atleidimo nuo tarnybinių pareigų dalyvauti Respublikos Prezidento, Seimo, Europos Parlamento ar savivaldybių tarybų rinkimuose pagal šio įstatymo 30 straipsnio 1 dalies 6 punktą, perkėlimo į kitas pareigas pagal šio įstatymo 43 straipsnį, darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiai, dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje laikotarpiai, atostogos dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, mokymosi atostogos, pagal šio įstatymo 81, 82 straipsnius ir 89 straipsnio 10 dalį suteiktų atostogų laikas ir ligos išmokos gavimo laikotarpiai, taip pat šio įstatymo 89 straipsnio 1 dalyje nustatytais atvejais, kai diplomatas iki pareigybės panaikinimo buvo perkeltas į kitas pareigas.
+Straipsnio pakeitimai:
 
-3. Laikotarpis, kurį diplomatas ar valstybės tarnautojas buvo nušalintas nuo pareigų, į diplomatinės tarnybos stažą ir į tarnybos stažą neįskaitomas, išskyrus atvejus, kai pripažįstama, kad diplomatas ar valstybės tarnautojas buvo nušalintas nepagrįstai, arba kai nepasitvirtina aplinkybės, lėmusios diplomato ar valstybės tarnautojo nušalinimą.
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 80 straipsnis. Kasmetinės atostogos
 
-1. Diplomatui suteikiamos 22 darbo dienų trukmės kasmetinės minimalios atostogos. Diplomatui, vienam auginančiam vaiką (įvaikį) iki 14 metų arba neįgalų vaiką (įvaikį) iki 18 metų, taip pat diplomatui, kuris pripažintas neįgaliuoju, suteikiamos 27 darbo dienų trukmės kasmetinės minimalios atostogos.
+1. Diplomatui suteikiamos 22 darbo dienų trukmės kasmetinės minimalios atostogos. Diplomatui, vienam auginančiam vaiką (įvaikį) iki 14 metų arba vaiką (įvaikį) su negalia iki 18 metų, taip pat diplomatui, kuris yra asmuo su negalia, suteikiamos 27 darbo dienų trukmės kasmetinės minimalios atostogos.
 
-2. Diplomatui už kiekvienų 5 metų tarnybos stažą suteikiamos 3 darbo dienos kasmetinių papildomų atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 37 darbo dienos.
+2. Diplomatui už kiekvienų 5 metų tarnybos Lietuvos valstybei stažą suteikiamos 3 darbo dienos kasmetinių papildomų atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 37 darbo dienos.
 
-3. Diplomatui už pirmuosius tarnybos metus kasmetinės atostogos paprastai suteikiamos po 6 tarnybos mėnesių.
+3. Diplomatui kasmetinės atostogos suteikiamos Darbo kodekso nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 81 straipsnis. Atostogos kvalifikacijai tobulinti
 
-1. Diplomatui, turinčiam ne trumpesnį kaip 3 mėnesių tarnybos stažą, jo ir į pareigas jį priėmusio asmens susitarimu gali būti suteiktos iki vienų metų trukmės atostogos kvalifikacijai tobulinti. Šiuo atveju diplomatui paliekamos jo eitos pareigos, tačiau jam nustatytas darbo užmokestis nemokamas.
+1. Diplomatui, turinčiam ne trumpesnį kaip 3 mėnesių tarnybos Lietuvos valstybei stažą, jo ir į pareigas jį priėmusio asmens susitarimu gali būti suteiktos iki vienų metų trukmės atostogos kvalifikacijai tobulinti. Šiuo atveju diplomatui paliekamos jo eitos pareigos, tačiau jam nustatytas darbo užmokestis nemokamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Pasinaudoti šiame straipsnyje nurodytomis atostogomis diplomatas gali ne dažniau kaip vieną kartą per 5 metus.
 
@@ -1534,43 +1726,33 @@ Straipsnio pakeitimai:
 
 Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
-88 straipsnis. Kompensacijos diplomato mirties, žūties ar sužalojimo atveju. Palaikų pervežimas
+88 straipsnis. Kompensacijos diplomato žūties, mirties ar sužalojimo atveju. Palaikų pervežimas
 
-1. Jeigu diplomatas žuvo atlikdamas tarnybines pareigas arba mirė dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, Vyriausybės nustatyta tvarka iš Lietuvos Respublikos valstybės biudžeto vaikams (įvaikiams, taip pat vaikams, gimusiems po jo mirties), iki jiems sukaks 18 metų, taip pat vyresniems vaikams (įvaikiams), jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), – iki jiems sukaks 24 metai, sutuoktiniui arba partneriui, tėvui (įtėviui), motinai (įmotei) ir dėl amžiaus ar neįgalumo nedarbingiems asmenims, kurie buvo diplomato išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, lygiomis dalimis išmokama 37,24 mėnesio diplomato gauto vidutinio darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam asmeniui mirus dydžiu, o jeigu diplomatas žuvo atlikdamas tarnybines pareigas arba mirė dėl priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio valstybėje, kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto teroro akto, – 77,58 mėnesio jo gauto vidutinio darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam asmeniui mirus dydžiu. Visais atvejais bendra diplomatui žuvus atliekant tarnybines pareigas arba mirus dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, išmokamos kompensacijos suma negali viršyti 101 370 eurų. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per 3 metus.
+1. Jeigu diplomatas žuvo atlikdamas tarnybines pareigas arba mirė dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, Vyriausybės nustatyta tvarka iš Lietuvos Respublikos valstybės biudžeto vaikams (įvaikiams, taip pat vaikams, gimusiems po jo mirties), iki jiems sukaks 18 metų, taip pat vyresniems vaikams (įvaikiams), jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), – iki jiems sukaks 24 metai, vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jiems nustatytas dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis), sutuoktiniui arba partneriui, sugyventiniui, tėvui (įtėviui), motinai (įmotei) ir asmenims, kurie dėl amžiaus ar negalios negali dirbti ir kurie buvo diplomato išlaikomi arba jo žūties (mirties) dieną turėjo teisę gauti jo išlaikymą, išmokama 37,24 mėnesio diplomato vidutinio darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam asmeniui mirus dydžiu, o jeigu diplomatas žuvo atlikdamas tarnybines pareigas arba mirė dėl priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio valstybėje, kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto teroro akto, – 77,58 mėnesio jo vidutinio darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam asmeniui mirus dydžiu. Visais atvejais bendra diplomatui žuvus atliekant tarnybines pareigas arba mirus dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, išmokamos kompensacijos suma negali viršyti 101 370 eurų. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per 3 metus.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
-
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
-
-2. Diplomatas pripažįstamas žuvusiu atliekant tarnybines pareigas arba mirusiu dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, jeigu įvykis, kuris buvo diplomato žūties (mirties) priežastis, įvyko jam atliekant jo pareigybės aprašyme nustatytas funkcijas arba dėl šių funkcijų atlikimo, išskyrus atvejus, kai diplomatas žuvo (mirė) darydamas tyčinę nusikalstamą veiką ar kitą teisės pažeidimą, taip pat jeigu diplomato žūties (mirties) priežastis buvo apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų arba jeigu diplomatas nusižudė dėl priežasčių, nesusijusių su tarnyba. Diplomatas pripažįstamas žuvusiu atliekant tarnybines pareigas arba mirusiu dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, Vyriausybės nustatyta tvarka.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
+2. Diplomatas pripažįstamas žuvusiu atliekant tarnybines pareigas arba mirusiu dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, jeigu įvykis, kuris buvo diplomato žūties (mirties) priežastis, įvyko jam atliekant jo pareigybės aprašyme nustatytas funkcijas arba dėl šių funkcijų atlikimo, išskyrus atvejus, kai diplomatas žuvo (mirė) darydamas nusikalstamą veiką ar kitą teisės pažeidimą, taip pat jeigu diplomato žūties (mirties) priežastis buvo apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų arba jeigu diplomatas nusižudė dėl priežasčių, nesusijusių su tarnyba. Diplomatas pripažįstamas žuvusiu atliekant tarnybines pareigas arba mirusiu dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, Vyriausybės nustatyta tvarka.
 
 3. Diplomatas, žuvęs atlikdamas tarnybines pareigas arba miręs dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, laidojamas valstybės lėšomis. Valstybės apmokamų laidojimo išlaidų aprašą tvirtina Vyriausybė ar jos įgaliota institucija.
 
-4. Diplomatui, kuris buvo sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, atsižvelgiant į jo sveikatos sutrikimo laipsnį Vyriausybės nustatyta tvarka išmokama vienkartinė nuo 9,31 iki 37,24 mėnesio jo gauto vidutinio darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne ilgiau kaip 12 mėnesių, dydžiu, o diplomatui, kuris buvo sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga dėl priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio valstybėje, kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto teroro akto, – nuo 23,28 iki 38,79 mėnesio jo gauto vidutinio darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne ilgiau kaip 12 mėnesių, dydžiu.
+4. Diplomatui, kuris buvo sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, atsižvelgiant į jo sveikatos sutrikimo laipsnį Vyriausybės nustatyta tvarka išmokama vienkartinė nuo 9,31 iki 37,24 mėnesio jo vidutinio darbo užmokesčio dydžio kompensacija, o diplomatui, kuris buvo sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga dėl priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio valstybėje, kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto teroro akto, – nuo 23,28 iki 38,79 mėnesio jo vidutinio darbo užmokesčio dydžio kompensacija.
 
-Straipsnio dalies pakeitimai:
+5. Užsienyje žuvusio ar mirusio diplomato, taip pat užsienyje žuvusių ar mirusių kartu su diplomatinėje atstovybėje, konsulinėje įstaigoje arba specialiojoje misijoje dirbančiu diplomatu gyvenusių jo šeimos narių, nurodytų šio įstatymo 18 straipsnyje, palaikų pervežimo į Lietuvos Respubliką išlaidas apmoka valstybė Vyriausybės nustatyta tvarka. Paramos teikimo diplomatui žuvus ar mirus užsienyje dėl priežasčių, nesusijusių su tarnybinių pareigų atlikimu, paramos teikimo palaikams pervežti į Lietuvą tvarką nustato Vyriausybė.
 
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
+6. Užsienio reikalų ministerija, išmokėjusi kompensaciją, įgyja reikalavimo (regreso) teisę iš žalą padariusių juridinių ir fizinių asmenų. Kompensacija įskaitoma į atlygintinos žalos dydį. Kai žalos dydis yra mažesnis negu išmokėta kompensacija, Užsienio reikalų ministerija regreso tvarka iš kalto dėl žalos asmens gali reikalauti tos kompensacijos dalies, kuria atlyginta žala.
 
-5. Užsienyje žuvusio ar mirusio diplomato, taip pat užsienyje žuvusių ar mirusių kartu su diplomatinėje atstovybėje, konsulinėje įstaigoje arba specialiojoje misijoje dirbančiu diplomatu gyvenusių jo šeimos narių, nurodytų šio įstatymo 18 straipsnyje, palaikų pervežimo į Lietuvos Respubliką išlaidas apmoka valstybė Vyriausybės nustatyta tvarka.
+7. Mirusio, išskyrus žuvusį atliekant tarnybines pareigas arba mirusį dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, diplomato šeimos nariams išmokama iki 5 mėnesių jo vidutinio darbo užmokesčio dydžio kompensacija. Ši kompensacija mokama iš Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų ir neatsižvelgiant į kitų įstatymų nustatytas ir išmokėtas išmokas ir pašalpas.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
-
-6. Išmokėjusi kompensaciją Užsienio reikalų ministerija įgyja reikalavimo (regreso) teisę iš žalą padariusių juridinių ir fizinių asmenų. Kompensacija įskaitoma į atlygintinos žalos dydį. Tais atvejais, kai žalos dydis yra mažesnis negu išmokėta kompensacija, Užsienio reikalų ministerija regreso tvarka iš kalto dėl žalos asmens gali reikalauti tos kompensacijos dalies, kuria atlyginta žala.
-
-7. Mirusio, išskyrus žuvusį atliekant tarnybines pareigas arba mirusį dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, diplomato šeimos nariams išmokama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa. Šios materialinės pašalpos mokamos iš Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų ir neatsižvelgiant į kitų įstatymų nustatytas ir išmokėtas išmokas ir pašalpas.
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 89 straipsnis. Kitos diplomato ir jo šeimos narių garantijos
 
-1. Diplomatas, kurio pareigybė naikinama, perkeliamas į kitas lygiavertes pareigas Užsienio reikalų ministerijoje, o jeigu tokių pareigų nėra, – diplomatas jo rašytiniu sutikimu gali būti perkeltas į žemesnes pareigas Užsienio reikalų ministerijoje. Jeigu iki pareigybės panaikinimo diplomatas į kitas pareigas nepaskiriamas, su juo nutraukiama diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis. Diplomatui apie pareigybės panaikinimą turi būti pranešta raštu ne vėliau kaip prieš vieną mėnesį iki pareigybės panaikinimo. Asmeniui, kuriam iki teisės gauti visą senatvės pensiją liko mažiau kaip 5 metai, šis įspėjimo terminas dvigubinamas, o diplomatui, vienam auginančiam vaiką (įvaikį) iki 14 metų, ar auginančiam neįgalų vaiką (įvaikį) iki 18 metų, taip pat diplomatui, kuriam iki teisės gauti visą senatvės pensiją liko mažiau kaip 2 metai, – trigubinamas.
+1. Diplomatas, kurio pareigybė naikinama, perkeliamas į kitas lygiavertes pareigas Užsienio reikalų ministerijoje, o jeigu tokių pareigų nėra, – diplomatas su jo rašytiniu sutikimu gali būti perkeltas į žemesnes pareigas Užsienio reikalų ministerijoje. Jeigu iki pareigybės panaikinimo diplomatas į kitas pareigas nepaskiriamas, su juo nutraukiama diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis. Diplomatui apie pareigybės panaikinimą turi būti pranešta raštu ne vėliau kaip prieš vieną mėnesį iki pareigybės panaikinimo. Asmeniui, kuriam iki senatvės pensijos amžiaus liko mažiau kaip 5 metai, šis įspėjimo terminas dvigubinamas, o diplomatui, auginančiam vaiką (įvaikį) iki 14 metų arba vaiką (įvaikį) su negalia iki 18 metų, nėščiai diplomatei, diplomatui su negalia, diplomatams, pateikusiems išrašą dėl ligos, įtrauktos į sveikatos apsaugos ministro įsakymu patvirtintą sunkių ligų sąrašą, taip pat diplomatui, kuriam iki senatvės pensijos amžiaus liko mažiau kaip 2 metai, – trigubinamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Diplomatams yra garantuojamos einamos pareigos ir nustatytas darbo užmokestis:
 
@@ -1610,15 +1792,27 @@ Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
 
 10. Diplomatui, paskirtam dirbti į diplomatinę atstovybę, konsulinę įstaigą arba specialiąją misiją ar laikinai perkeltam į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje, taip pat po darbo diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje arba tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje grąžinamam dirbti į Užsienio reikalų ministeriją, skiriamos 5 darbo dienos persikėlimo atostogų. Už šį laikotarpį diplomatui mokamas jo vidutinis darbo užmokestis, apskaičiuotas Vyriausybės nustatyta tvarka.
 
-11. Diplomatui, paskirtam dirbti į diplomatinę atstovybę, konsulinę įstaigą ar specialiąją misiją, ir kartu su juo vyksiančiam ir (ar) išvykusiam sutuoktiniui arba partneriui užsienio reikalų ministro nustatyta tvarka gali būti apmokamos arba kompensuojamos vienos iš oficialių valstybės, kurioje yra diplomatinė atstovybė, konsulinė įstaiga ar specialioji misija, kalbų ar kitos pagal poreikį užsienio kalbos mokymosi išlaidos.
+11. Diplomatui, paskirtam dirbti į diplomatinę atstovybę, konsulinę įstaigą ar specialiąją misiją, ir kartu su juo vyksiančiam ir (ar) išvykusiam sutuoktiniui arba partneriui užsienio reikalų ministro nustatyta tvarka gali būti apmokamos arba kompensuojamos visos vienos iš oficialių valstybės, kurioje yra diplomatinė atstovybė, konsulinė įstaiga ar specialioji misija, kalbų ar kitos pagal poreikį užsienio kalbos mokymosi išlaidos arba tų išlaidų dalis.
 
-12. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbančiam diplomatui, naudojančiam netarnybinį automobilį tarnybos reikmėms, kas mėnesį mokama ne didesnė kaip 0,39 Lietuvos statistikos departamento paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžio kompensacija degalų įsigijimo ir automobilio amortizacijos išlaidoms padengti, kuri naudojama neatsiskaitytinai. Užsienio reikalų ministras nustato kompensuojamų išlaidų kompensavimo sąlygas ir tvarką. Kompensuojamų išlaidų dydis nustatomas užsienio reikalų ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+12. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbančiam diplomatui, naudojančiam netarnybinį automobilį tarnybos reikmėms, kas mėnesį mokama ne didesnė kaip 0,39 Valstybės duomenų agentūros paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžio kompensacija degalų įsigijimo ir automobilio amortizacijos išlaidoms padengti, kuri naudojama neatsiskaitytinai. Užsienio reikalų ministras nustato kompensuojamų išlaidų kompensavimo sąlygas ir tvarką. Kompensuojamų išlaidų dydis nustatomas užsienio reikalų ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 13. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbančiam diplomatui užsienio reikalų ministro nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais keleivių vežimą vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais vykdančiomis transporto priemonėmis išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu diplomatas gauna šio straipsnio 12 dalyje nurodytą kompensaciją.
 
 14. Užsienio reikalų ministro nustatyta tvarka apmokamos arba kompensuojamos buvusio diplomato ir (ar) jo šeimos narių persikėlimo iš užsienio valstybės į Lietuvos Respubliką išlaidos (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), kai diplomato tarnybos sutartis buvo nutraukta ar terminuota diplomato tarnybos sutartis pasibaigė ar buvo nutraukta su diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusiu diplomatu ir buvęs diplomatas ir (ar) jo šeimos nariai persikėlė iš užsienio valstybės į Lietuvos Respubliką per 2 mėnesius nuo sutarties pasibaigimo ar nutraukimo. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusio diplomato mirties ar žūties atveju užsienio reikalų ministro nustatyta tvarka apmokamos arba kompensuojamos mirusio ar žuvusio diplomato asmeninio krovinio nugabenimo į Lietuvos Respubliką išlaidos neviršijant Vyriausybės nustatytų limitų, taip pat jo šeimos narių persikėlimo iš užsienio valstybės į Lietuvos Respubliką išlaidos (įskaitant jo šeimos narių asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), jeigu šeimos nariai persikelia iš užsienio valstybės į Lietuvos Respubliką per 3 mėnesius nuo diplomato mirties ar žūties dienos. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusio diplomato mirties ar žūties atveju kartu su juo gyvenusiems jo šeimos nariams iki jų persikėlimo į Lietuvos Respubliką dienos, bet ne ilgiau negu 3 mėnesius nuo diplomato mirties ar žūties dienos, taikomos šio įstatymo 85 straipsnio 1–5 dalyse, 86 straipsnio 2 dalyje, 87 straipsnyje, 89 straipsnio 7 ir 8 dalyse diplomato šeimos nariams nustatytos garantijos.
 
-15. Diplomatui, kurio materialinė būklė tapo sunki dėl jo paties ligos, šeimos narių (sutuoktinio arba partnerio, sugyventinio, vaiko (įvaikio), motinos (įmotės), tėvo (įtėvio), brolio (įbrolio), sesers (įseserės), taip pat išlaikytinių, kurių globėju ar rūpintoju įstatymų nustatyta tvarka yra paskirtas diplomatas, ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa. Pašalpą skiria užsienio reikalų ministras ar jo įgaliotas asmuo iš Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų.
+15. Diplomatui, kurio materialinė būklė tapo sunki dėl jo paties ligos, artimųjų giminaičių, sutuoktinio, partnerio, sugyventinio, jo tėvų, vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėju ar rūpintoju įstatymų nustatyta tvarka yra paskirtas diplomatas, ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa. Pašalpą skiria užsienio reikalų ministras ar jo įgaliotas asmuo iš Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 16. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbantiems diplomatams, pasiųstiems į komandiruotę į Lietuvos Respubliką, ir jų šeimos nariams ne ilgiau kaip 6 mėnesius nuo diplomato komandiruotės į Lietuvos Respubliką dienos toliau taikomos šio įstatymo 84 straipsnyje, 85 straipsnio 1, 2, 3, 4, 5 ir 7 dalyse, 86 straipsnio 2 dalyje, 87 straipsnio 2 ir 3 dalyse ir šio straipsnio 7, 8, 11 ir 14 dalyse nustatytos garantijos.
 
@@ -1644,13 +1838,15 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 1. Diplomatu gali dirbti asmuo, ne vyresnis kaip 65 metų.
 
-2. Užsienio reikalų ministro teikimu Respublikos Prezidentas gali leisti asmenims, vyresniems kaip 65 metų, toliau dirbti diplomatiniais atstovais, tačiau bendras pratęstas tarnybos laikas negali viršyti 5 metų. Kitiems diplomatams, sulaukusiems šio straipsnio 1 dalyje nurodytą amžių, diplomatinės tarnybos laiką iki vienų metų gali pratęsti užsienio reikalų ministras, tačiau bendras pratęstas tarnybos laikas negali viršyti 5 metų.
+2. Užsienio reikalų ministro teikimu Respublikos Prezidentas gali leisti asmenims, vyresniems kaip 65 metų, su jų sutikimu toliau dirbti diplomatiniais atstovais, tačiau bendras pratęstas tarnybos laikas negali viršyti 5 metų. Kitiems diplomatams, sukakusiems šio straipsnio 1 dalyje nurodytą amžių, diplomatinės tarnybos laiką iki vienų metų su jų sutikimu gali pratęsti užsienio reikalų ministras, tačiau bendras pratęstas tarnybos laikas negali viršyti 5 metų.
 
-3. Su diplomatu, kurio diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 1 dalies 5 punktą, Vyriausybės nustatyta tvarka gali būti sudaroma terminuota darbo sutartis dėl mentorystės ne ilgesniam kaip 2 metų laikotarpiui.
+3. Diplomatinės tarnybos laikas gali būti pratęstas tik jeigu diplomato tarnybinė veikla per paskutinius 3 metus buvo įvertinta kaip atitinkanti lūkesčius ir (ar) viršijanti lūkesčius (iki 2023 m. gruodžio 31 d. įvertinta gerai ir (ar) labai gerai) ir jis neturi galiojančių tarnybinių nuobaudų.
 
 Straipsnio pakeitimai:
 
 Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 XIII SKYRIUS
 
@@ -1666,7 +1862,11 @@ DIPLOMATO TARNYBOS SUTARTIES IR TERMINUOTOS DIPLOMATO TARNYBOS SUTARTIES NUTRAUK
 
 3) paaiškėja, kad priimant diplomatą į diplomatinę tarnybą jis pateikė suklastotus dokumentus arba nuslėpė ar pateikė tikrovės neatitinkančius duomenis, dėl kurių negalėjo būti priimtas į diplomatinę tarnybą;
 
-4) įsiteisėja teismo nuosprendis, kuriuo jam paskirta bausmė už sunkų ar labai sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką arba bausmė už nusikaltimo padarymą tyčia arba kuriuo diplomatui skiriama bausmė, dėl kurios negalima tęsti tarnybos;
+4) įsiteisėja teismo nuosprendis, kuriuo jam paskirta bausmė už sunkų ar labai sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką arba bausmė, dėl kurios jis negali eiti savo pareigų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 5) diplomatui sukanka šio įstatymo 91 straipsnio 1 dalyje nurodytas amžius ir šio įstatymo 91 straipsnio 2 dalyje nustatyta tvarka jo tarnybos laikas nebuvo pratęstas arba baigėsi tarnybos pratęsimo laikas;
 
@@ -1692,11 +1892,33 @@ Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
 
 9) diplomatui šio įstatymo 63 straipsnyje nustatyta tvarka atimamas diplomatinis rangas;
 
-10) teisės aktų nustatyta tvarka nustatoma, kad dėl neįgalumo ar darbingumo netekimo diplomatas negali eiti pareigų;
+10) diplomatas pagal sveikatos priežiūros įstaigos išvadą nebegali eiti diplomato pareigų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 11) diplomatas įstatymų nustatyta tvarka netenka specialios teisės, susijusios su jo tiesioginių pareigų atlikimu;
 
 12) po diplomato tarnybinės veiklos vertinimo priimamas sprendimas nutraukti diplomato tarnybos sutartį arba terminuotą diplomato tarnybos sutartį.
+
+13) iš Korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Valstybės tarnybos įstatymo 39 straipsnyje nurodyto registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar su kuriais diplomato tarnybos sutartis ar terminuota tarnybos sutartis buvo nutraukta dėl šių priežasčių, ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų ar diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, ar kitų duomenų, gautų šio įstatymo 6 straipsnio 4 dalyje nustatyta tvarka, paaiškėja, kad diplomatas neatitinka nepriekaištingos reputacijos reikalavimų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+14) diplomato tarnybos sutarties šalims ar terminuotos diplomato tarnybos sutarties šalims susitarus dėl sutarties nutraukimo šio straipsnio 8 dalyje nustatyta tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+15) diplomato prašymu šio straipsnio 9 dalyje nustatyta tvarka.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2. Diplomato tarnybos sutartis ir terminuota diplomato tarnybos sutartis gali būti nutraukta, jeigu:
 
@@ -1728,21 +1950,31 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 3. Diplomato tarnybos sutartis gali būti nutraukta, jeigu diplomatas nesilaiko šio įstatymo 42 straipsnyje numatytų diplomatų rotacijos sąlygų, tai yra atsisako paklusti užsienio reikalų ministro įsakymui dėl paskyrimo dirbti diplomatinėje atstovybėje ar konsulinėje įstaigoje ar grąžinimo į darbą Užsienio reikalų ministerijoje.
 
-4. Nutraukiant diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį pagal šio straipsnio 2 dalies 2 ir 8 punktus, diplomatas turi būti įspėtas raštu prieš vieną mėnesį iki sutarties nutraukimo. Asmeniui, kuriam iki teisės gauti visą senatvės pensiją liko mažiau kaip 5 metai, šis įspėjimo terminas dvigubinamas, o diplomatui, vienam auginančiam vaiką (įvaikį) iki 14 metų, ar auginančiam neįgalų vaiką (įvaikį) iki 18 metų, taip pat diplomatui, kuriam iki teisės gauti visą senatvės pensiją liko mažiau kaip 2 metai, – trigubinamas. Įspėjimas netenka galios, jeigu po jo termino pasibaigimo praeina daugiau kaip vienas mėnuo, neįskaitant diplomato laikinojo nedarbingumo ir atostogų laiko.
+4. Nutraukiant diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį pagal šio straipsnio 2 dalies 2 ir 8 punktus, diplomatas turi būti įspėtas raštu prieš vieną mėnesį iki sutarties nutraukimo. Asmeniui, kuriam iki senatvės pensijos amžiaus liko mažiau kaip 5 metai, šis įspėjimo terminas dvigubinamas, o diplomatui, auginančiam vaiką (įvaikį) iki 14 metų arba vaiką (įvaikį) su negalia iki 18 metų, nėščiai diplomatei, diplomatui su negalia, diplomatams, pateikusiems išrašą dėl ligos, įtrauktos į sveikatos apsaugos ministro įsakymu patvirtintą sunkių ligų sąrašą, taip pat diplomatui, kuriam iki senatvės pensijos amžiaus liko mažiau kaip 2 metai, – trigubinamas. Įspėjimas netenka galios, jeigu po jo termino pasibaigimo praeina daugiau kaip vienas mėnuo, neįskaitant diplomato laikinojo nedarbingumo ir atostogų laiko.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 5. Jeigu diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama nepasibaigus įspėjimo terminui, nutraukimo diena perkeliama iki to laiko, kada turėjo pasibaigti įspėjimo terminas.
 
-6. Diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis su nėščia diplomate, taip pat su diplomatu, vienu auginančiu vaiką (įvaikį) iki 3 metų, negali būti nutraukta pagal šio straipsnio 2 dalį, jeigu nėra tokio diplomato kaltės, išskyrus diplomatinius atstovus ir šio straipsnio 2 dalies 9 punkte nurodytus atvejus.
+6. Diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis su nėščia diplomate, taip pat su diplomatu, vienu auginančiu vaiką (įvaikį) iki 3 metų, negali būti nutraukta pagal šio straipsnio 1 dalies 6 ir 12 punktus, taip pat jeigu nėra diplomato kaltės pagal šio straipsnio 2 dalį, išskyrus diplomatinius atstovus ir šio straipsnio 2 dalies 9 punkte nurodytus atvejus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
 7. Diplomato tarnybos sutarties ir terminuotos diplomato tarnybos sutarties negalima nutraukti diplomato laikinojo nedarbingumo, komandiruotės, stažuotės ar atostogų metu, išskyrus atvejus, kai sutartis nutraukiama dėl šio straipsnio 1 dalyje nurodytų priežasčių. Jeigu sutartis nutraukta pažeidžiant šią nuostatą, jos nutraukimo diena laikoma kita po laikinojo nedarbingumo, komandiruotės, stažuotės, atostogų pasibaigimo darbo diena.
 
 8. Viena diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties šalis (išskyrus diplomatinį atstovą) gali raštu pasiūlyti kitai šaliai nutraukti sutartį šalių susitarimu. Kita šalis, jeigu sutinka su pasiūlymu, per 5 darbo dienas nuo pasiūlymo gavimo dienos turi apie tai pranešti šaliai, pateikusiai siūlymą nutraukti sutartį. Jeigu antroji šalis per šioje dalyje nustatytą laiką nepraneša sutinkanti nutraukti sutartį, laikoma, kad pasiūlymas nutraukti sutartį šalių susitarimu yra atmestas. Šalims susitarus dėl sutarties nutraukimo šalių susitarimu, sudaromas rašytinis susitarimas ir jame nurodoma sutarties nutraukimo data, susitariama dėl nepanaudotų atostogų suteikimo ir gali būti susitariama dėl kitų sąlygų.
 
-9. Diplomatas (išskyrus diplomatinį atstovą ir diplomatą, su kuriuo sudaryta terminuota diplomato tarnybos sutartis parengiamajam laikotarpiui) turi teisę nutraukti diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį, apie tai įspėjęs Užsienio reikalų ministeriją ne vėliau kaip prieš 20 darbo dienų. Diplomatas, su kuriuo sudaryta terminuota diplomato tarnybos sutartis parengiamajam laikotarpiui, turi teisę nutraukti terminuotą diplomato tarnybos sutartį, apie tai įspėjęs ne vėliau kaip prieš 5 darbo dienas. Įspėjimo terminui pasibaigus, diplomatas turi teisę nutraukti darbą, o Užsienio reikalų ministerija privalo įforminti sutarties nutraukimą. Jeigu sutartį prašoma nutraukti dėl diplomato ligos ar neįgalumo, trukdančio tinkamai atlikti darbą, sutartis turi būti nutraukta nuo diplomato prašyme nurodytos datos.
+9. Diplomatas (išskyrus diplomatinį atstovą ir diplomatą, su kuriuo sudaryta terminuota diplomato tarnybos sutartis parengiamajam laikotarpiui) turi teisę nutraukti diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį, pateikęs prašymą Užsienio reikalų ministerijai ne vėliau kaip prieš 20 darbo dienų. Diplomatas, su kuriuo sudaryta terminuota diplomato tarnybos sutartis parengiamajam laikotarpiui, turi teisę nutraukti terminuotą diplomato tarnybos sutartį, pateikęs prašymą ne vėliau kaip prieš 5 darbo dienas. Pasibaigus 20 darbo dienų ar 5 darbo dienų terminui, diplomatas turi teisę nutraukti darbą, o Užsienio reikalų ministerija privalo įforminti sutarties nutraukimą. Jeigu sutartį prašoma nutraukti dėl diplomato ligos ar negalios, trukdančios tinkamai atlikti funkcijas, sutartis turi būti nutraukta nuo diplomato prašyme nurodytos datos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 10. Diplomatas turi teisę atsiimti šio straipsnio 9 dalyje nurodytą prašymą nutraukti sutartį ne vėliau kaip per 3 kalendorines dienas nuo jo padavimo dienos. Po to jis gali atsiimti prašymą tik užsienio reikalų ministrui sutikus.
 
@@ -1776,51 +2008,39 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 94 straipsnis. Ginčų sprendimas
 
-Ginčai dėl diplomato tarnybos sutarties ir terminuotos diplomato tarnybos sutarties nutraukimo nagrinėjami administracinių bylų procesą reglamentuojančio įstatymo nustatyta tvarka.
+Ginčai dėl diplomato tarnybos sutarties ir terminuotos diplomato tarnybos sutarties nutraukimo nagrinėjami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 95 straipsnis. Išeitinės išmokos ir kompensacijos
 
-1. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 1 dalies 5 punkte nurodytu pagrindu (toliau – diplomatas, kuriam sukako 65 metai arba kuriam baigėsi tarnybos pratęsimo laikas), ne vėliau kaip diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimo dieną išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Jeigu nutraukiant diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį dėl diplomato, kuriam sukako 65 metai arba kuriam baigėsi tarnybos pratęsimo laikas, yra pradėtas ir nebaigtas šio įstatymo 72 straipsnio 2 dalyje nurodytas tarnybinio nusižengimo tyrimas, išeitinė išmoka diplomatui, kuriam sukako 65 metai arba kuriam baigėsi tarnybos pratęsimo laikas, išmokama per 5 darbo dienas nuo užsienio reikalų ministro sprendimo atlikus tarnybinio nusižengimo tyrimą priėmimo dienos. Atlikus šio įstatymo 72 straipsnio 2 dalyje nurodytą tarnybinio nusižengimo tyrimą ir priėmus sprendimą dėl asmens, ėjusio diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, išeitinė išmoka diplomatui, kuriam sukako 65 metai arba kuriam baigėsi tarnybos pratęsimo laikas, nemokama. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 6 punkte nurodytu pagrindu, išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka.
+1. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 1 dalies 5 punkte nurodytu pagrindu arba šio įstatymo 92 straipsnio 1 dalies 10 punkte nurodytu pagrindu, arba šio įstatymo 92 straipsnio 9 dalyje nurodytu pagrindu dėl to, kad diplomatas nebegali tinkamai atlikti savo funkcijų dėl ligos ar negalios arba dėl to, kad namuose slaugo šeimos narį (vaiką (įvaikį), tėvą (įtėvį, rūpintoją), motiną (įmotę, rūpintoją), sutuoktinį, partnerį, sugyventinį, kuris (kuri) turi individualųjį pagalbos poreikį, ne vėliau kaip diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimo dieną išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Jeigu šiais pagrindais nutraukiant diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį dėl diplomato yra pradėtas ir nebaigtas šio įstatymo 72 straipsnio 2 dalyje nurodytas tarnybinio nusižengimo tyrimas, išeitinė išmoka išmokama per 5 darbo dienas nuo užsienio reikalų ministro sprendimo atlikus tarnybinio nusižengimo tyrimą priėmimo dienos. Atlikus šio įstatymo 72 straipsnio 2 dalyje nurodytą tarnybinio nusižengimo tyrimą ir priėmus sprendimą dėl asmens, ėjusio diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, išeitinė išmoka nemokama. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 6 ar 7 punkte nurodytu pagrindu, išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
-
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
-
-2. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis arba terminuota diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 2 dalies 8 punktą, išmokama iki pareigybės panaikinimo jo gauto vidutinio darbo užmokesčio dydžio išeitinė išmoka, atsižvelgiant į diplomato tarnybos stažą:
+2. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis arba terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 8 punkte nurodytu pagrindu, išmokama iki pareigybės panaikinimo jo gauto vidutinio darbo užmokesčio dydžio išeitinė išmoka, atsižvelgiant į diplomatinės tarnybos stažą:
 
 1) iki vienų metų – vieno mėnesio;
 
-2) nuo vienų iki penkerių metų – 2 mėnesių;
+2) nuo vienų iki 5 metų – 2 mėnesių;
 
-3) nuo penkerių iki dešimt metų – 3 mėnesių;
+3) nuo 5 iki 10 metų – 3 mėnesių;
 
-4) nuo dešimt iki dvidešimt metų – 4 mėnesių;
+4) nuo 10 iki 20 metų – 4 mėnesių;
 
-5) daugiau kaip dvidešimt metų – 5 mėnesių.
+5) daugiau kaip 20 metų – 5 mėnesių.
 
-3. Šio straipsnio 2 dalyje nustatyta išeitinė išmoka pradedama mokėti praėjus mėnesiui nuo diplomato tarnybos ar terminuotos diplomato tarnybos sutarties nutraukimo dienos ir mokama kas mėnesį lygiomis dalimis. Jos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas arba dirbti pagal darbo sutartį ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos. Diplomatui mirus, išeitinės išmokos dalis, priklausanti diplomatui už tą mėnesį, kurį jis mirė, neišmokėta iki diplomato mirties dienos, išmokama įpėdiniui, pateikusiam paveldėjimo dokumentus.
+3. Šio straipsnio 2 dalyje nustatyta išeitinė išmoka pradedama mokėti praėjus mėnesiui nuo diplomato tarnybos ar terminuotos diplomato tarnybos sutarties nutraukimo dienos ir mokama kas mėnesį lygiomis dalimis. Jos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas arba pradeda dirbti pagal darbo sutartį ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos. Diplomatui mirus, išeitinės išmokos dalis, priklausanti diplomatui už tą mėnesį, kurį jis mirė, neišmokėta iki diplomato mirties dienos, išmokama įpėdiniui, pateikusiam paveldėjimo dokumentus.
 
-31. Diplomatui, su kuriuo sudaryta terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 9 punkte nurodytu pagrindu, išmokama 2 mėnesių jo gauto vidutinio darbo užmokesčio dydžio išeitinė išmoka, o diplomatui, kuriam atšaukimo iš pareigų dieną iki terminuotos diplomato tarnybos sutarties pasibaigimo buvo likę mažiau kaip vienas mėnuo, išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šios išeitinės išmokos išmokamos šio straipsnio 3 dalyje nustatyta tvarka ir sąlygomis.
+4. Diplomatui, su kuriuo sudaryta terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 9 punkte nurodytu pagrindu, išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka, o diplomatui, kuriam atšaukimo iš pareigų dieną iki terminuotos diplomato tarnybos sutarties pasibaigimo buvo likę mažiau kaip vienas mėnuo, išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šios išeitinės išmokos išmokamos šio straipsnio 3 dalyje nustatyta tvarka ir sąlygomis.
 
-Papildyta straipsnio dalimi:
+5. Kai diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 2 punkte arba 92 straipsnio 8 dalyje nurodytu pagrindu, diplomatui išmokama kompensacija, ne didesnė negu šio straipsnio 2 dalyje nurodyta išeitinė išmoka.
 
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
+6. Užsienio reikalų ministerija su diplomatu, su kuriuo nutraukiama diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis, privalo visiškai atsiskaityti ne vėliau kaip jos nutraukimo dieną, išskyrus šio straipsnio 1 dalyje nurodytą išeitinę išmoką, kai atliekamas tarnybinio nusižengimo tyrimas, šio straipsnio 2 dalyje nurodytą išeitinę išmoką. Jeigu uždelsiama atsiskaityti dėl Užsienio reikalų ministerijos kaltės, diplomatui sumokamas vidutinis darbo užmokestis už uždelstą laikotarpį.
 
-4. Kai diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 3 dalį arba kai diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama pagal šio įstatymo 92 straipsnio 2 dalies 2 punktą arba 92 straipsnio 8 dalį, diplomatui išmokama kompensacija. Kompensacijos dydis apskaičiuojamas pareiginę algą dauginant iš diplomatinėje tarnyboje išdirbtų pilnų metų skaičiaus ir dauginant iš koeficiento 0,5, bet ne daugiau kaip iš 12. Ši kompensacija išmokama lygiomis dalimis per 3 mėnesius nuo sutarties nutraukimo dienos, mokant po vieną dalį kas mėnesį.
+Straipsnio pakeitimai:
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
-
-5. Užsienio reikalų ministerija su diplomatu, su kuriuo nutraukiama diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis, privalo visiškai atsiskaityti ne vėliau kaip jos nutraukimo dieną, išskyrus šio straipsnio 1 dalyje nurodytą išeitinę išmoką, kai atliekamas tarnybinio nusižengimo tyrimas, šio straipsnio 2 dalyje nurodytą išeitinę išmoką ir kompensaciją, nurodytą šio straipsnio 4 dalyje. Jeigu uždelsiama atsiskaityti dėl Užsienio reikalų ministerijos kaltės, diplomatui sumokamas vidutinis darbo užmokestis už uždelstą laikotarpį.
-
-TAR pastaba. 5 dalies nuostatos taikomos pareigas einantiems diplomatams, kuriems 65 metai sukanka po įstatymo Nr. XIII-3401 įsigaliojimo (2021-01-01).
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 XIV SKYRIUS
 
@@ -1832,115 +2052,41 @@ DIPLOMATINIŲ ATSTOVYBIŲ, KONSULINIŲ ĮSTAIGŲ IR SPECIALIŲJŲ MISIJŲ DARBUO
 
 1) pareiginės algos;
 
-2) priemokų už papildomą darbo krūvį, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas neviršijant nustatytos darbo laiko trukmės, ar papildomų pareigų ar užduočių, nenustatytų pareigybės aprašyme, vykdymą;
+2) priemokų už papildomą darbo krūvį, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas neviršijant nustatytos darbo laiko trukmės, ar už papildomų pareigų ar užduočių, nenustatytų pareigybės aprašyme, vykdymą;
 
 3) mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą ir darbą esant nukrypimų nuo normalių darbo sąlygų;
 
 4) premijų už labai gerą darbą ar atlikus vienkartines užduotis.
 
-2. Darbuotojų darbo apmokėjimo sistemą, atsižvelgdamas į šio skyriaus nuostatas, nustato užsienio reikalų ministras. Darbo apmokėjimo sistemoje nustatomas funkcijų, kurios gali būti įrašytos į konkretų pareigybės aprašymą pagal šio įstatymo 17 straipsnio 4 dalį, sąrašas, taip pat nustatomi pareiginės algos koeficiento didinimo pagal šio straipsnio 6 ir 7 dalis dydžiai, detalizuojami konkretaus dydžio nustatymo kriterijai (veiklos sudėtingumas, darbo krūvis, atsakomybės lygis ir panašiai), priemokų ir premijų mokėjimo tvarka ir sąlygos.
+2. Darbo apmokėjimo sistema nustatoma kolektyvinėje sutartyje. Jeigu kolektyvinės sutarties nėra, darbuotojų darbo apmokėjimo sistemą nustato užsienio reikalų ministras ir paskelbia viešai Užsienio reikalų ministerijos interneto svetainėje. Darbo apmokėjimo sistemoje nustatomos kitos funkcijos, kurios gali būti įrašytos į konkretų pareigybės aprašymą pagal šio įstatymo 17 straipsnio 4 dalį, detalizuojami darbuotojų pareigybių pareiginės algos dydžio, viršijančio šio straipsnio 3 dalyje nustatytą minimalų pareiginės algos dydį, nustatymo kriterijai (darbuotojo veiklos pobūdis, sudėtingumas, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas, darbo patirtis ir pan.) ir, atsižvelgiant į šiuos kriterijus, nustatomi maksimalūs pareiginės algos dydžiai, pareiginės algos dydžių intervalai konkrečioms darbuotojų pareigybėms, priemokų ir premijų dydžiai ir jų skyrimo tvarka ir sąlygos. Prieš užsienio reikalų ministrui nustatant ar keičiant darbo apmokėjimo sistemą, turi būti Darbo kodekso nustatyta tvarka įvykdytos informavimo ir konsultavimo procedūros.
 
-Straipsnio dalies pakeitimai:
+3. Darbuotojo minimalus pareiginės algos dydis yra lygus Vyriausybės patvirtintai minimaliajai mėnesinei algai.
 
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
+4. Pareiginės algos dydį nustato darbuotoją į pareigas priimantis asmuo iš darbo apmokėjimo sistemoje darbuotojo pareigybei nustatyto pareiginės algos dydžių intervalo. Darbuotojo maksimalus pareiginės algos dydis negali viršyti ministro pareiginės algos, apskaičiuotos vadovaujantis Valstybės politikų darbo užmokesčio įstatymu.
 
-3. Darbuotojo pareiginė alga nustatoma taikant pareiginės algos koeficientą, kurio vienetas yra lygus pareiginės algos baziniam dydžiui:
+5. Darbuotojo pareiginė alga, apskaičiuota šio straipsnio 3 ir 4 dalyse nustatyta tvarka, nurodoma darbo sutartyje. Pareiginė alga nustatoma iš naujo, kai pakeičiamos darbuotojo pareigybės aprašyme nustatytos kitos, negu nurodyta tipiniame pareigybės aprašyme, funkcijos.
 
-1) administratoriaus, padėjėjo – 11,50;
+6. Priemokos už papildomą darbo krūvį, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas neviršijant nustatytos darbo laiko trukmės, ar už papildomų pareigų ar užduočių, nenustatytų pareigybės aprašyme, vykdymą gali siekti iki 50 procentų pareiginės algos dydžio.
 
-2) vyriausiojo specialiojo kurjerio, sekretoriaus, raštvedžio, ūkvedžio, vairuotojo – 7,59;
+7. Už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą ir darbą esant nukrypimų nuo normalių darbo sąlygų darbuotojui mokama Darbo kodekso nustatyta tvarka.
 
-3) vyresniojo specialiojo kurjerio, valytojo, kiemsargio – 5,75;
-
-4) specialiojo kurjerio – 4,60.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
-
-4. Darbuotojo, kurio su darbo santykiais susijusios pajamos nėra apmokestinamos Lietuvos Respublikos įstatymų nustatyta tvarka, pareiginės algos koeficientas mažinamas 1,289 karto ir apvalinamas dviejų skaitmenų po kablelio tikslumu, apvalinant į didesnę pusę.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
-
-5. Pareiginės algos dydis apskaičiuojamas pareiginės algos koeficientą, kuris gali būti padidintas šio straipsnio 6, 7 ir 8 dalyse nustatyta tvarka, dauginant iš šio straipsnio 3 dalyje nurodyto pareiginės algos bazinio dydžio ir iš šio įstatymo 84 straipsnyje nurodyto Vyriausybės nustatyto bazinio gyvenimo lygio vietos koeficiento.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
-
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
-
-6. Jeigu darbuotojo pareigybės aprašyme numatytos ir kitos, negu nurodyta tipinėje pareigybės aprašymo formoje, funkcijos, už jų atlikimą darbuotojo pareiginės algos koeficientas didinamas iki 70 procentų darbo apmokėjimo sistemoje, nurodytoje šio straipsnio 2 dalyje, nustatyta tvarka.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
-
-7. Pareiginės algos koeficientas gali būti didinamas iki 10 procentų, atsižvelgiant į darbuotojo turimą darbo diplomatinėse atstovybėse, konsulinėse įstaigose ar specialiosiose misijose patirtį.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
-
-8. Pareiginės algos koeficiento padidinimas šio straipsnio 6 ir 7 dalyse nustatytais pagrindais negali viršyti 70 procentų šio straipsnio 3 dalyje nustatyto pareiginės algos koeficiento dydžio.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
-
-9. Darbuotojo pareiginės algos koeficientas, apskaičiuotas šio straipsnio 3–8 dalyse nustatyta tvarka, nurodomas darbo sutartyje. Šis koeficientas nustatomas iš naujo, kai pakeičiamos darbuotojo pareigybės aprašyme nustatytos kitos, negu nurodyta tipiniame pareigybės aprašyme, funkcijos.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
-
-10. Priemokos už papildomą darbo krūvį, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas neviršijant nustatytos darbo laiko trukmės, ar papildomų pareigų ar užduočių, nenustatytų pareigybės aprašyme, vykdymą gali siekti iki 50 procentų pareiginės algos dydžio.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
-
-11. Už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą ir darbą esant nukrypimų nuo normalių darbo sąlygų darbuotojui mokama Darbo kodekso nustatyta tvarka.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
-
-12. Darbuotojui ne daugiau kaip vieną kartą per metus gali būti skiriama premija už labai gerą darbą ar vienkartinių užduočių atlikimą. Premija negali viršyti darbuotojui nustatytos pareiginės algos dydžio. Premijos skiriamos neviršijant Užsienio reikalų ministerijai darbo užmokesčiui skirtų lėšų.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
+8. Darbuotojui gali būti skiriama premija už labai gerą darbą ar vienkartinių užduočių atlikimą. Premija negali viršyti darbuotojui nustatytos pareiginės algos dydžio. Kiekvienu atveju, nurodytu šioje dalyje, nurodyta premija gali būti skiriama ne daugiau kaip kartą per metus. Premijos skiriamos neviršijant Užsienio reikalų ministerijai darbo užmokesčiui skirtų lėšų.
 
 97 straipsnis. Darbuotojų garantijos
 
-Pakeistas straipsnio pavadinimas:
+1. Darbuotojui, kurio materialinė būklė tapo sunki dėl jo paties ligos, artimųjų giminaičių, sutuoktinio, partnerio, sugyventinio, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėju ar rūpintoju yra paskirtas darbuotojas, ligos ar mirties, stichinės nelaimės ar turto netekimo, jeigu yra darbuotojo rašytinis prašymas ir pateikti atitinkamą aplinkybę patvirtinantys dokumentai, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa.
 
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
+2. Mirus darbuotojui, jo šeimos nariams gali būti išmokama iki 5 mėnesių jo vidutinės pareiginės algos dydžio kompensacija. Ši kompensacija mokama, jeigu yra mirusio darbuotojo šeimos narių rašytinis prašymas ir pateikti mirties faktą patvirtinantys dokumentai.
 
-1. Darbuotojui, kurio materialinė būklė tapo sunki dėl jo paties ligos, šeimos narių (sutuoktinio arba partnerio, vaiko (įvaikio), motinos (įmotės), tėvo (įtėvio), brolio (įbrolio), sesers (įseserės), taip pat išlaikytinių, kurių globėju ar rūpintoju yra paskirtas darbuotojas, ligos ar mirties, stichinės nelaimės ar turto netekimo, jeigu yra darbuotojo rašytinis prašymas ir pateikti atitinkamą aplinkybę patvirtinantys dokumentai, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa.
+3. Materialines pašalpas ir kompensacijas, nurodytas šio straipsnio 1 ir 2 dalyse, skiria užsienio reikalų ministras ar jo įgaliotas asmuo iš Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
-
-2. Mirus darbuotojui, jo šeimos nariams gali būti išmokama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa, jeigu yra mirusio darbuotojo šeimos narių rašytinis prašymas ir pateikti mirties faktą patvirtinantys dokumentai.
-
-3. Materialines pašalpas, nurodytas šio straipsnio 1 ir 2 dalyse, skiria užsienio reikalų ministras ar jo įgaliotas asmuo iš Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų.
-
-4. Užsienio reikalų ministro nustatyta tvarka darbuotojas gali būti apdraudžiamas sveikatos draudimu arba jam gali būti kompensuotos sveikatos draudimo išlaidos, jeigu jis nėra apdraustas (apsidraudęs) sveikatos draudimu, galiojančiu toje valstybėje, kurioje yra diplomatinė atstovybė, konsulinė įstaiga ar specialioji misija, kurioje yra darbuotojo darbo vieta, jam gali būti skiriamos gyvenamosios patalpos ar išmoka (kompensacija) apsirūpinti gyvenamosiomis patalpomis, taip pat gali būti kompensuojamos persikėlimo į užsienio valstybę, kurioje yra diplomatinė atstovybė, konsulinė įstaiga ar specialioji misija, ir iš jos išlaidos. Šioje dalyje nurodytos garantijos nustatomos darbo sutartyje.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
+4. Užsienio reikalų ministro nustatyta tvarka darbuotojas gali būti draudžiamas sveikatos draudimu arba jam gali būti kompensuotos sveikatos draudimo išlaidos, jeigu jis nėra draustas (apsidraudęs) sveikatos draudimu, galiojančiu toje valstybėje, kurioje yra diplomatinė atstovybė, konsulinė įstaiga ar specialioji misija, kurioje yra darbuotojo darbo vieta, jam gali būti skiriamos gyvenamosios patalpos ar išmoka (kompensacija) apsirūpinti gyvenamosiomis patalpomis, taip pat gali būti kompensuojamos persikėlimo į užsienio valstybę, kurioje yra diplomatinė atstovybė, konsulinė įstaiga ar specialioji misija, ir iš jos išlaidos. Šioje dalyje nurodytos garantijos nustatomos darbo sutartyje.
 
 5. Darbuotojui taikomos šio įstatymo 89 straipsnio 12 ir 13 dalyse nustatytos garantijos.
 
-Papildyta straipsnio dalimi:
+Skyriaus pakeitimai:
 
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -1950,93 +2096,97 @@ Lietuvos Respublikos
 
 diplomatinės tarnybos įstatymo
 
-1 priedas
+priedas
 
-LIETUVOS RESPUBLIKOS DIPLOMATŲ PAREIGYBIŲ GRUPĖS IR PAREIGINIŲ ALGŲ KOEFICIENTAI
+LIETUVOS RESPUBLIKOS DIPLOMATŲ PAREIGYBIŲ GRUPĖS IR MINIMALŪS PAREIGINIŲ ALGŲ KOEFICIENTAI
 
-Diplomatų pareigybių grupė
+Eil. Nr.
 
-Diplomatų pareigybės Užsienio reikalų ministerijoje
+Diplomatų pareigybių grupės arba pareigybės Lietuvos Respublikos užsienio reikalų ministerijoje
 
-Diplomatų pareigybės diplomatinėse atstovybėse, konsulinėse įstaigose ir specialiosiose misijose
+Diplomatų pareigybių grupės arba pareigybės Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir specialiosiose misijose
 
-Pareiginės algos koeficientai
+Minimalus pareiginės algos koeficientas (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-1
+1.
 
-Politikos direktorius
+politikos direktorius
 
 –
 
-14,8–19,5
+1,96
 
-2
+2.
 
-Departamento direktorius, Grupės vadovas, Ambasadorius, reziduojantis Lietuvos Respublikoje, Generalinis inspektorius
+departamento direktorius, grupės vadovas, ambasadorius, reziduojantis Lietuvos Respublikoje, generalinis inspektorius
 
-Ambasadorius
+ambasadorius
 
-13,4–18,0
+1,74
 
-3
+3.
 
-Ambasadorius ypatingiems pavedimams (struktūrinio padalinio sudėtyje), Departamento direktoriaus pavaduotojas, Departamento patarėjas, Grupės patarėjas
+ambasadorius ypatingiems pavedimams (struktūrinio padalinio sudėtyje), departamento direktoriaus pavaduotojas, departamento patarėjas, grupės patarėjas
 
-Ambasadorius ypatingiems pavedimams, Laikinasis reikalų patikėtinis, Generalinis konsulas, Įgaliotasis ministras
+ambasadorius ypatingiems pavedimams, laikinasis reikalų patikėtinis, generalinis konsulas, įgaliotasis ministras
 
-11,0–16,5
+1,44
 
-4
+4.
 
-Skyriaus vedėjas
+skyriaus vedėjas
 
-Konsulas – konsulinės įstaigos vadovas,  Ministras patarėjas
+konsulas – konsulinės įstaigos vadovas, ministras patarėjas
 
-10,50–15,5
+1,32
 
-5
+5.
 
-Patarėjas
+patarėjas
 
-Patarėjas
+patarėjas
 
-9,5–15,0
+1,18
 
-6
+6.
 
-Pirmasis sekretorius
+pirmasis sekretorius
 
-Pirmasis sekretorius, Konsulas
+pirmasis sekretorius, konsulas
 
-9,0–14,5
+1,13
 
-7
+7.
 
-Antrasis sekretorius
+antrasis sekretorius
 
-Antrasis sekretorius, Vicekonsulas
+antrasis sekretorius, vicekonsulas
 
-8,5–14,0
+1,08
 
-8
+8.
 
-Trečiasis sekretorius
+trečiasis sekretorius
 
-Trečiasis sekretorius
+trečiasis sekretorius
 
-8,0–13,5
+1,03
 
-9
+9.
 
-Atašė
+atašė
 
-Atašė
+atašė
 
-7,7–13,0
+0,99
+
+_____________________
 
 Priedo pakeitimai:
 
 Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 Lietuvos Respublikos
 
@@ -2046,41 +2196,11 @@ diplomatinės tarnybos įstatymo
 
 PRIEDAS UŽ DIPLOMATINĮ RANGĄ
 
-Diplomatinis rangas
+Netenka galios 2024-01-01
 
-Koeficientas
+Priedo pakeitimai:
 
-Lietuvos Respublikos nepaprastasis ir įgaliotasis ambasadorius
-
-4,3
-
-Lietuvos Respublikos nepaprastasis pasiuntinys ir įgaliotasis ministras
-
-4,0
-
-Ministras patarėjas
-
-3,7
-
-Patarėjas
-
-3,3
-
-Pirmasis sekretorius
-
-2,8
-
-Antrasis sekretorius
-
-2,4
-
-Trečiasis sekretorius
-
-2,1
-
-Atašė
-
-1,8
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 3 priedas. Neteko galios nuo 2022-09-01
 
