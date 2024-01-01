@@ -4,7 +4,7 @@ identifier: "TAR.278D4FD8E838"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-25"
-last_updated: "2017-06-28"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,15 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2023-12-31
+Įstatymas netenka galios 2026-05-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2575, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08216
+
+Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatymas
+
+Suvestinė redakcija nuo 2024-01-01 iki 2026-04-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 52-1672, i. k. 0991010ISTAIII-1202
 
@@ -709,9 +717,13 @@ Nr. XIII-490, 2017-06-22, paskelbta TAR 2017-06-27, i. k. 2017-10840
 
 30 straipsnis. Turto arba verslo vertintojų garbės teismo ir Priežiūros įstaigos sprendimų apskundimo tvarka
 
-1. Turto arba verslo vertintojų garbės teismo sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui per 30 dienų nuo sprendimo išsiuntimo (registruotu laišku) turto arba verslo vertintojui ir sprendimo išrašo paskelbimo Priežiūros įstaigos Kompiuterizuotojoje turto arba verslo vertintojų ir turto arba verslo vertinimo įmonių duomenų tvarkymo ir paieškos sistemoje esančioje turto arba verslo vertintojo, dėl kurio priimtas Turto arba verslo vertintojų garbės teismo sprendimas, byloje dienos.
+1. Turto arba verslo vertintojų garbės teismo sprendimai gali būti skundžiami pirmosios instancijos administraciniam teismui per 30 dienų nuo sprendimo išsiuntimo (registruotu laišku) turto arba verslo vertintojui ir sprendimo išrašo paskelbimo Priežiūros įstaigos Kompiuterizuotojoje turto arba verslo vertintojų ir turto arba verslo vertinimo įmonių duomenų tvarkymo ir paieškos sistemoje esančioje turto arba verslo vertintojo, dėl kurio priimtas Turto arba verslo vertintojų garbės teismo sprendimas, byloje dienos.
 
-2. Priežiūros įstaigos sprendimai skundžiami Vilniaus apygardos administraciniam teismui per 30 dienų nuo jų paskelbimo Priežiūros įstaigos interneto tinklalapyje.
+2. Priežiūros įstaigos sprendimai skundžiami pirmosios instancijos administraciniam teismui per 30 dienų nuo jų paskelbimo Priežiūros įstaigos interneto tinklalapyje.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1607, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25188
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -766,4 +778,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-490, 2017-06-22, paskelbta TAR 2017-06-27, i. k. 2017-10840
 
 Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo Nr. VIII-1202 29 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1607, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25188
+
+Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo Nr. VIII-1202 30 straipsnio pakeitimo įstatymas
 
