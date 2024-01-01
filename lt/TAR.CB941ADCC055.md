@@ -4,7 +4,7 @@ identifier: "TAR.CB941ADCC055"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-01"
-last_updated: "2022-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
-
-TAR pastaba. Asmenims, kurie įstatymo Nr. XIV-621 įsigaliojimo dieną (2022-01-01) turi neetatinio aplinkos apsaugos inspektoriaus galias, jos gali būti pratęsiamos  įstatymo Nr. XIV-621 nustatyta tvarka. Asmenims, kurie įstatymo Nr. XIV-621 įsigaliojimo dieną (2022-01-01) turi neetatinio aplinkos apsaugos inspektoriaus galias, taikomi iki įstatymo Nr. XIV-621  įsigaliojimo (2022-01-01) nustatyti reikalavimai, kuriuos turi atitikti neetatinis aplinkos apsaugos inspektorius. Neetatinio aplinkos apsaugos inspektoriaus galios gali būti panaikinamos iki įstatymo Nr. XIV-621 įsigaliojimo (2022-01-01) nustatyta tvarka ir pagrindais, bet ne vėliau kaip iki neetatinio aplinkos apsaugos inspektoriaus galių suteikimo termino pabaigos.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
-
-Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 4, 12, 47, 48, 49, 50, 53 straipsnių pakeitimo ir Įstatymo papildymo 48-1 straipsniu įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -354,7 +346,11 @@ Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
 
 3) nepažeisdami tarptautinės teisės ir Lietuvos Respublikos įstatymų, Vyriausybės nustatyta tvarka stabdyti su Lietuvos valstybės vėliava ar užsienio valstybės vėliava Lietuvos Respublikos vidaus vandenyse, Lietuvos Respublikos teritorinėje jūroje ir Lietuvos Respublikos išskirtinėje ekonominėje zonoje plaukiojančius laivus, vykdyti juose aplinkos apsaugos valstybinę kontrolę; šio įstatymo nustatyta tvarka atlikti tyrimą dėl jūros aplinkos teršimo ar kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimų, sulaikyti laivus, nuplukdyti juos į uostą; vykdyti aplinkos apsaugos valstybinę kontrolę atviroje jūroje su Lietuvos Respublikos vėliava plaukiojančiuose laivuose. Šio punkto nuostatos netaikomos karo laivams, pagalbiniams karo laivyno laivams arba kitiems valstybei nuosavybės teise priklausantiems ar jos eksploatuojamiems ir tuo metu vien nekomercine valstybės veikla užsiimantiems laivams;
 
-4) kad būtų užkirstas kelias aplinkos apsaugos įstatymų pažeidimams, už kuriuos numatyta teisinė atsakomybė, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka sustabdyti ir apžiūrėti įtariamų asmenų transporto priemones;
+4) kad būtų užkirstas kelias aplinkos apsaugos įstatymų pažeidimams, už kuriuos numatyta teisinė atsakomybė, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka sustabdyti ir apžiūrėti transporto priemones, atlikti transporto priemonių į aplinką išmetamų teršalų kontrolę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2212, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21808
 
 5) įstatymų nustatyta tvarka atlikti asmens apžiūrą ir daiktų patikrinimą, paimti daiktus ir dokumentus, apžiūrėti įvykio vietą, priverstinai nuvežti neteisėtai pastatytus, laikomus ar apgyvendinimo, nakvynės, maitinimo ar kitiems tikslams naudojamus vagonėlius ar kitus kilnojamuosius objektus arba įrenginius;
 
@@ -422,7 +418,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
 
-20) įtardami, kad medžioklėje dalyvaujantis medžiotojas yra neblaivus ar (ir) apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, Vyriausybės nustatyta tvarka tikrinti, ar jis yra neblaivus ar apsvaigęs, taip pat esant įtarimų dėl neblaivumo ar apsvaigimo, kai medžioklėje dalyvaujantis medžiotojas nesutinka tikrintis dėl neblaivumo ar apsvaigimo, ar užfiksavus, kad medžioklėje dalyvaujantis medžiotojas yra neblaivus ar apsvaigęs, neleisti šiam medžiotojui dalyvauti medžioklėje.
+20) įtardami, kad medžioklėje dalyvaujantis medžiotojas yra neblaivus ar (ir) apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, Vyriausybės nustatyta tvarka tikrinti, ar jis yra neblaivus ar apsvaigęs, taip pat esant įtarimų dėl neblaivumo ar apsvaigimo, kai medžioklėje dalyvaujantis medžiotojas nesutinka tikrintis dėl neblaivumo ar apsvaigimo, ar užfiksavus, kad medžioklėje dalyvaujantis medžiotojas yra neblaivus ar apsvaigęs, neleisti šiam medžiotojui dalyvauti medžioklėje;
 
 Papildyta straipsnio punktu:
 
@@ -431,6 +427,18 @@ Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+
+21) šio Įstatymo 61 straipsnyje nustatyta tvarka atlikti į aplinką patenkančių teršalų ir jų paveiktos aplinkos užterštumo matavimus;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2212, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21808
+
+22) atlikti kituose įstatymuose nustatytus aplinkos apsaugos valstybinės kontrolės veiksmus.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2212, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21808
 
 2. Vyresnieji aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 18 punkte nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų teisių ir pareigų.
 
@@ -1076,6 +1084,14 @@ Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
 
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 4, 12, 47, 48, 49, 50, 53 straipsnių pakeitimo ir Įstatymo papildymo 48-1 straipsniu įstatymas
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2212, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21808
+
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 6-1 ir 12 straipsnių pakeitimo įstatymas
+
 21 straipsnis. Privalomojo nurodymo įvykdymo terminai, privalomųjų nurodymų derinimas
 
 1. Privalomojo nurodymo įvykdymo terminus, ne ilgesnius kaip vienas mėnuo, nustato privalomąjį nurodymą duodantis aplinkos apsaugos valstybinės kontrolės pareigūnas pagal tai, koks laikotarpis, atsižvelgiant į asmens, kuriam duodamas privalomasis nurodymas, pateiktą informaciją, kitą informaciją ir objektyvias aplinkybes, yra reikalingas privalomajame nurodyme nustatytiems reikalavimams įgyvendinti.
@@ -1692,33 +1708,33 @@ Papildyta straipsniu:
 
 Nr. XIII-1685, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20185
 
-61 straipsnis. Valstybinių laboratorinių tyrimų ir kitų aplinkos apsaugos valstybinei kontrolei reikalingų tyrimų ir matavimų organizavimas ir vykdymas
+61 straipsnis. Valstybinių laboratorinių tyrimų atlikimas ir organizavimas
 
-1. Aplinkos apsaugos valstybinę kontrolę vykdanti institucija aplinkos apsaugos valstybinei kontrolei reikalingus tyrimus ir matavimus, išskyrus valstybinius laboratorinius tyrimus, vykdo pati arba organizuoja jų vykdymą teisės aktų nustatyta tvarka.
+1. Valstybinius laboratorinius tyrimus pagal aplinkos apsaugos valstybinę kontrolę vykdančios institucijos pavedimus šiame straipsnyje ir kitų teisės aktų, reglamentuojančių laboratorinių tyrimų ir matavimų vykdymą, nustatyta tvarka atlieka arba valstybinių laboratorinių tyrimų atlikimą organizuoja Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija valstybiniams laboratoriniams tyrimams atlikti turi teisę pasitelkti kitus nešališkus, turinčius reikiamų specialiųjų žinių ir (ar) patirties, ir (ar) reikiamą įrangą asmenis arba įsigyti valstybinių laboratorinių tyrimų atlikimą Lietuvos Respublikos viešųjų pirkimų įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. Į aplinką patenkančių teršalų ir jų paveiktos aplinkos užterštumo matavimus, kurių rezultatai gaunami matavimo vietoje, turi teisę atlikti ir aplinkos apsaugos valstybinės kontrolės pareigūnai aplinkos ministro nustatytais atvejais.
 
-2. Valstybinius laboratorinius tyrimus pagal aplinkos apsaugos valstybinę kontrolę vykdančios institucijos pavedimus vykdo biudžetinė įstaiga Aplinkos apsaugos agentūra. Pavedimai vykdyti valstybinius laboratorinius tyrimus duodami šio straipsnio 7 dalyje nustatyta tvarka, kai yra šio straipsnio 6 dalyje nurodyti pagrindai. Aplinkos apsaugos agentūra valstybinius laboratorinius tyrimus atlieka pati arba organizuoja jų atlikimą teisės aktų nustatyta tvarka.
+2. Pavedimai atlikti valstybinius laboratorinius tyrimus Vyriausybės įgaliotai institucijai duodami šio straipsnio 7 dalyje nustatyta tvarka, kai yra šio straipsnio 6 dalyje nurodyti pagrindai.
 
-3. Aplinkos apsaugos agentūros darbuotojai, pateikę darbuotojo pažymėjimą ir nustatytos formos aplinkos apsaugos valstybinę kontrolę vykdančios institucijos pavedimą vykdyti valstybinius laboratorinius tyrimus, be išankstinio įspėjimo tikrinamo objekto darbo metu arba kai yra pagrįstos informacijos ar pagrįstų įtarimų, kad viršijami aplinkos apsaugos normatyvai ir (ar) kitaip neteisėtai teršiama aplinka, ir (ar) netinkamai tvarkomos atliekos, bet kuriuo metu turi teisę, laikydamiesi teisės aktuose nustatytų sąlygų, patekti į pavedime nurodytą teritoriją ir (ar) objektą ir atlikti pavedime nurodytus matavimus ir (ar) paimti ėminius. Įeiti į fizinių asmenų gyvenamąsias patalpas galima tik turint šio Įstatymo 121 straipsnyje nustatyta tvarka gautą teismo leidimą. Aplinkos apsaugos agentūra turi teisę pasitelkti kitus nešališkus, turinčius reikiamų specialiųjų žinių ir (ar) patirties, ir (ar) reikiamą įrangą asmenis matavimams atlikti ir (ar) ėminiams paimti.
+3. Vyriausybės įgaliotos institucijos darbuotojai, pateikę darbuotojo pažymėjimą ir aplinkos apsaugos valstybinę kontrolę vykdančios institucijos pavedimą atlikti valstybinius laboratorinius tyrimus, be išankstinio įspėjimo tikrinamo objekto darbo metu arba kai yra pagrįstos informacijos ar pagrįstų įtarimų, kad viršijami teisės aktuose nustatyti aplinkos apsaugos normatyvai ar standartai ir (ar) kitaip neteisėtai teršiama aplinka, ir (ar) netinkamai tvarkomos atliekos, bet kuriuo metu turi teisę, laikydamiesi teisės aktuose nustatytų sąlygų, patekti į pavedime atlikti valstybinius laboratorinius tyrimus nurodytą teritoriją ir (ar) objektą ir atlikti pavedime nurodytus matavimus ir (ar) paimti ėminius. Įeiti į fizinių asmenų gyvenamąsias patalpas galima tik turint šio Įstatymo 121 straipsnyje nustatyta tvarka gautą teismo leidimą.
 
-4. Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos pavedime vykdyti valstybinius laboratorinius tyrimus nurodomas asmuo, kurio valdomoje, naudojamoje teritorijoje, objekte turi būti atlikti valstybiniai laboratoriniai tyrimai, ir (arba) kiti duomenys, aiškiai identifikuojantys tyrimų atlikimo vietą ar objektą, jų atlikimo pagrindas, tikslas, veiksmai, matavimai, kuriuos įgaliotas atlikti Aplinkos apsaugos agentūros darbuotojas, asmens, kurio valdomoje, naudojamoje teritorijoje, objekte turi būti atlikti valstybiniai laboratoriniai tyrimai, informavimo apie valstybinių laboratorinių tyrimų rezultatus tvarka, Aplinkos apsaugos agentūros darbuotojų veiksmų ir valstybinių laboratorinių tyrimų rezultatų apskundimo tvarka, kiti duomenys.
+4. Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos pavedime atlikti valstybinius laboratorinius tyrimus nurodomas asmuo, kurio valdomoje, naudojamoje teritorijoje ir (ar) objekte turi būti atlikti valstybiniai laboratoriniai tyrimai, ir (arba) kiti duomenys, aiškiai identifikuojantys tyrimų atlikimo vietą ar objektą, valstybinių laboratorinių tyrimų atlikimo pagrindas, tikslas, veiksmai, matavimai, asmens, kurio valdomoje, naudojamoje teritorijoje ir (ar) objekte turi būti atlikti valstybiniai laboratoriniai tyrimai, informavimo apie valstybinių laboratorinių tyrimų rezultatus tvarka, valstybinių laboratorinių tyrimų rezultatų apskundimo tvarka, kiti duomenys.
 
-5. Asmenys, kurių nuosavybės teise ar kitais pagrindais valdomoje, naudojamoje teritorijoje, objekte (statinyje, įrenginyje, patalpose ir kt.) yra taršos šaltinis ir (ar) užteršta aplinka, ir (ar) atliekos, privalo bet kuriuo metu leisti Aplinkos apsaugos agentūros darbuotojams ir kitiems Aplinkos apsaugos agentūros pasitelktiems asmenims, pateikusiems šio straipsnio 3 dalyje nurodytus dokumentus, patekti į teritoriją ir (ar) objektą, sudaryti sąlygas jiems patekti prie taršos šaltinių ar užterštų vietų.
+5. Asmenys, kurių valdomoje, naudojamoje teritorijoje ir (ar) objekte (statinyje, įrenginyje, patalpose ir kt.) yra taršos šaltinis ir (ar) užteršta aplinka, ir (ar) atliekos, privalo bet kuriuo metu leisti patekti į teritoriją ir (ar) objektą, sudaryti sąlygas patekti prie taršos šaltinių ar užterštų vietų Vyriausybės įgaliotos institucijos darbuotojams, pateikusiems šio straipsnio 3 dalyje nurodytus dokumentus, ir Vyriausybės įgaliotos institucijos pasitelktiems asmenims, pateikusiems asmens tapatybę patvirtinančius dokumentus. Į asmens gyvenamąsias patalpas privaloma leisti patekti, kai, be šioje dalyje nurodytų dokumentų, pateikiamas šio Įstatymo 121 straipsnyje nustatyta tvarka gautas teismo leidimas.
 
 6. Valstybiniai laboratoriniai tyrimai atliekami:
 
-1) vykdant aplinkos ministro nustatyta tvarka sudarytus metinius valstybinių laboratorinių tyrimų planus. Valstybinių laboratorinių tyrimų metiniai planai sudaromi remiantis kontroliuotinų subjektų rizikos vertinimo rezultatais;
+1) vykdant aplinkos ministro nustatyta tvarka sudarytus valstybinių laboratorinių tyrimų metinius planus; šie planai sudaromi remiantis šio Įstatymo 14 straipsnio 2 dalyje nustatyta tvarka patvirtintais patikrinimų planais;
 
-2) turint pagrįstos informacijos ar kilus pagrįstiems įtarimams, kad viršijami teisės aktuose nustatyti aplinkos apsaugos normatyvai ar standartai ir (ar) netinkamai tvarkomos atliekos.
+2) turint pagrįstos informacijos ar kilus pagrįstiems įtarimams, kad viršijami teisės aktuose nustatyti aplinkos apsaugos normatyvai ar standartai ir (ar) kitaip neteisėtai teršiama aplinka, ir (ar) netinkamai tvarkomos atliekos.
 
-7. Valstybinių laboratorinių tyrimų organizavimo, planavimo, pavedimų vykdyti tyrimus teikimo ir vykdymo, valstybinių laboratorinių tyrimų rezultatų teikimo tvarką nustato, pavedimo vykdyti valstybinius laboratorinius tyrimus formą tvirtina aplinkos ministras.
+7. Valstybinių laboratorinių tyrimų organizavimo, planavimo, pavedimų atlikti tyrimus teikimo ir atlikimo, valstybinių laboratorinių tyrimų rezultatų teikimo tvarką nustato, pavedimo atlikti valstybinius laboratorinius tyrimus formą tvirtina aplinkos ministras.
 
-8. Fiziniai ir (ar) juridiniai asmenys (teršėjai) apmoka valstybinių laboratorinių tyrimų, kuriuos atlieka Aplinkos apsaugos agentūra, išlaidas, jeigu šio Įstatymo ir kitų teisės aktų nustatyta tvarka patvirtinama, kad šiais tyrimais nustatyta leistinas normas viršijanti arba neleistina tarša ir (ar) netinkamai tvarkomos atliekos.
+8. Fiziniai ir (ar) juridiniai asmenys (teršėjai) apmoka valstybinių laboratorinių tyrimų išlaidas, jeigu šio Įstatymo ir kitų teisės aktų, reglamentuojančių aplinkos apsaugą, nustatyta tvarka patvirtinama, kad šiais valstybiniais laboratoriniais tyrimais nustatyta leistinas normas viršijanti arba neleistina tarša ir (ar) netinkamai tvarkomos atliekos.
 
-9. Aplinkos ministras, suderinęs su Lietuvos Respublikos konkurencijos taryba, tvirtina valstybinių laboratorinių tyrimų kainų nustatymo metodiką (toliau – metodika), pagal kurią apskaičiuojamos šio straipsnio 8 dalyje nurodytų tyrimų išlaidos. Vadovaudamasis metodika Aplinkos apsaugos agentūros vadovas tvirtina valstybinių laboratorinių tyrimų kainas. Valstybinių laboratorinių tyrimų apmokėjimo tvarką tvirtina aplinkos ministras.
+9. Aplinkos ministras, suderinęs su Lietuvos Respublikos konkurencijos taryba, tvirtina valstybinių laboratorinių tyrimų kainų nustatymo metodiką (toliau – metodika), pagal kurią apskaičiuojamos šio straipsnio 8 dalyje nurodytų tyrimų išlaidos. Vadovaudamasis metodika, Vyriausybės įgaliotos institucijos vadovas tvirtina valstybinių laboratorinių tyrimų kainas. Valstybinių laboratorinių tyrimų apmokėjimo tvarką nustato aplinkos ministras.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
+Nr. XIV-2212, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21808
 
 398 straipsnis. Tarptautinis bendradarbiavimas
 
