@@ -4,7 +4,7 @@ identifier: "TAR.E79004684F4D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "2022-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 59-1462, i. k. 0951010ISTA000I-976
 
@@ -159,7 +159,11 @@ Nr. XI-1910, 2011-12-23, Žin., 2011, Nr. 164-7803 (2011-12-31)
 
 1. Zonoje įmonėms draudžiamos šios kapitalo investavimo ir veiklos sritys:
 
-1) ūkinė komercinė veikla, susijusi su valstybės saugumo ir gynybos užtikrinimu, taip pat ginklų, šaudmenų, sprogmenų gamyba, laikymu ar pardavimu;
+1) Neteko galios nuo 2024-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1976, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10369
 
 2) cheminių medžiagų, įrašytų į autorizuotinų cheminių medžiagų sąrašą, nurodytą 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su paskutiniais pakeitimais, padarytais 2021 m. rugpjūčio 4 d. Komisijos reglamentu (ES) 2021/1297, (toliau – Reglamentas (EB) Nr. 1907/2006) XIV priede, ar į kandidatinį labai didelį susirūpinimą keliančių cheminių medžiagų autorizacijos sąrašą pagal Reglamento (EB) Nr. 1907/2006 59 straipsnį, gamyba ir laikymas, išskyrus atvejus, kai šias medžiagas laiko įmonės, naudojančios jas savo gaminių gamyboje;
 
@@ -852,6 +856,14 @@ Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIV-835, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27727
+
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 8 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1976, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10369
 
 Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 8 straipsnio pakeitimo įstatymas
 
