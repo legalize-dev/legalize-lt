@@ -4,7 +4,7 @@ identifier: "TAR.4334D941D3DC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-05-23"
-last_updated: "2023-05-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4334D941D3DC"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS PLUOŠTINIŲ KANAPIŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 61-3025, i. k. 1131010ISTA0XII-336
 
@@ -85,7 +85,11 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 9. Pluoštinių kanapių produktai – perdirbti skirtos žaliavinės pluoštinių kanapių dalys ir pluoštinių kanapių sėklos.
 
-10. Pluoštinių kanapių produktų importo licencija (toliau – licencija) – viešosios įstaigos Kaimo verslo ir rinkų plėtros agentūros (toliau – Agentūra) išduodamas dokumentas, kuriuo suteikiama teisė importuoti į Lietuvos Respubliką pluoštinių kanapių produktus, nurodytus Reglamento (ES) Nr. 1308/2013 189 straipsnio 1 dalies a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus.
+10. Pluoštinių kanapių produktų importo licencija (toliau – licencija) – Žemės ūkio agentūros prie Žemės ūkio ministerijos išduodamas dokumentas, kuriuo suteikiama teisė importuoti į Lietuvos Respubliką pluoštinių kanapių produktus, nurodytus Reglamento (ES) Nr. 1308/2013 189 straipsnio 1 dalies a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2065, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12748
 
 11. Pluoštinių kanapių produktų importo licencijos turėtojas (toliau – licencijos turėtojas) – fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, turintys galiojančią pluoštinių kanapių produktų importo licenciją.
 
@@ -275,7 +279,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
-5. Agentūra, vadovaudamasi Licencijavimo taisyklėmis, licencijas išduoda, patikslina, įspėja apie galimą licencijos galiojimo sustabdymą, licencijų galiojimą sustabdo, licencijų galiojimą ar licencijų galiojimo sustabdymą panaikina ir prižiūri, kaip licencijų turėtojai laikosi licencijuojamos veiklos sąlygų.
+5. Žemės ūkio agentūra prie Žemės ūkio ministerijos (toliau – Agentūra), vadovaudamasi Licencijavimo taisyklėmis, licencijas išduoda, patikslina, įspėja apie galimą licencijos galiojimo sustabdymą, licencijų galiojimą sustabdo, licencijų galiojimą ar licencijų galiojimo sustabdymą panaikina ir prižiūri, kaip licencijų turėtojai laikosi licencijuojamos veiklos sąlygų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2065, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12748
 
 6. Importuojami pluoštinių kanapių produktai ir jų gaminiai turi būti gauti ar pagaminti iš pluoštinių kanapių, kuriose THC kiekis neviršija leidžiamos 0,3 procento ribos, ir turėti trečiosios šalies atsakingos institucijos išduotą tai patvirtinantį dokumentą.
 
@@ -714,4 +722,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 1, 2, 3, 4, 5, 6, 8 straipsnių ir priedo pakeitimo ir Įstatymo papildymo ketvirtuoju ir penktuoju skirsniais įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2065, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12748
+
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2 ir 5 straipsnių pakeitimo įstatymas
 
