@@ -4,7 +4,7 @@ identifier: "TAR.0AE0464E0EDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-07-13"
-last_updated: "2022-11-16"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Geriamojo vandens tiekimo ir nuotekų tvarkymo įs
 ---
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2022-11-16 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-09-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
 
@@ -287,7 +287,11 @@ Valstybinė maisto ir veterinarijos tarnyba:
 
 21) vadovaudamasi skaidrumo, objektyvumo ir nediskriminavimo principais, investicijų efektyvumo, atsipirkimo laikotarpio ir pagrįstumo įvertinimo kriterijais, tvirtina investicijų vertinimo ir derinimo tvarkos aprašą, derina geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų investicijas;
 
-22) apskaičiuoja šio įstatymo 15 straipsnio 14 dalyje nurodytą įmoką.
+22) apskaičiuoja šio įstatymo 15 straipsnio 14 dalyje nurodytą įmoką ir prižiūri jos mokėjimą ir naudojimą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 2. Valstybinės energetikos reguliavimo tarybos veiklos finansavimo šaltiniai yra valstybės biudžeto asignavimai, tarp jų ir šio straipsnio 3 dalyje numatytos Valstybinės energetikos reguliavimo tarybos pajamos. Valstybinės energetikos reguliavimo tarybos strateginiame veiklos plane numatytos ir vykdomos programos, įgyvendinamos siekiant šio įstatymo 1 straipsnyje nustatytų tikslų ir atliekant geriamojo vandens tiekimo ir nuotekų tvarkymo sektoriaus reguliavimą, finansuojamos iš šios tarybos pajamų, gautų šio straipsnio 3 dalyje nustatyta tvarka.
 
@@ -403,7 +407,17 @@ GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO PLANAVIMAS IR ORGANIZAVIMAS
 
 14 straipsnis. Viešųjų vandens tiekėjų paskyrimas
 
-1. Savivaldybės taryba paskiria viešąjį vandens tiekėją savivaldybės viešojo geriamojo vandens tiekimo teritorijoje ir jam paveda vykdyti viešąjį geriamojo vandens tiekimą ir nuotekų tvarkymą arba su kita (kitomis) viename viešojo geriamojo vandens tiekimo regione esančios (esančių) savivaldybės (savivaldybių) taryba (tarybomis) savivaldybės valdomas geriamojo vandens tiekimo ir nuotekų tvarkymo įmones reorganizuoja jungimo būdu į regioninį viešąjį vandens tiekėją ir jam paveda šių savivaldybių viešojo geriamojo vandens tiekimo teritorijose vykdyti viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą.
+1. Savivaldybės taryba paskiria viešąjį vandens tiekėją savivaldybės viešojo geriamojo vandens tiekimo teritorijoje ir jam paveda vykdyti viešąjį geriamojo vandens tiekimą ir nuotekų tvarkymą arba su kita (-omis) viename viešojo geriamojo vandens tiekimo regione esančios (-ių) savivaldybės (-ių) taryba (-omis) savivaldybės valdomas geriamojo vandens tiekimo ir nuotekų tvarkymo įmones reorganizuoja jungimo būdu į regioninį viešąjį vandens tiekėją ir jam paveda šių savivaldybių viešojo geriamojo vandens tiekimo teritorijose vykdyti tik viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą. Šioje dalyje nurodytos geriamojo vandens tiekimą ir (ar) nuotekų tvarkymą vykdančios įmonės gali būti jungiamos tik su kitomis geriamojo vandens tiekimą ir (ar) nuotekų tvarkymą vykdančiomis įmonėmis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
+
+11. Šio straipsnio 1 dalyje nustatyta tvarka paskirtas viešasis vandens tiekėjas perduoda regioniniam viešajam vandens tiekėjui tik geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo funkcijas, kai viešojo vandens tiekėjo licencijos galiojimas panaikinamas arba viešasis vandens tiekėjas reorganizuojamas, vadovaujantis šio įstatymo 14 straipsnio 1 dalimi.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 2. Savivaldybės taryba savo sprendimu paskiria viešuoju vandens tiekėju juridinį asmenį, tiekiantį geriamąjį vandenį ir (arba) teikiantį nuotekų tvarkymo paslaugas ir turintį galiojančią licenciją.
 
@@ -451,7 +465,11 @@ GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO PLANAVIMAS IR ORGANIZAVIMAS
 
 16. Garantinis vandens tiekėjas privalo atskirai tvarkyti su garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo veikla susijusią apskaitą.
 
-17. Savivaldybės taryba, kurios valdoma įmonė paskirta garantiniu vandens tiekėju, taip pat savivaldybės taryba, kurios valdomo viešojo vandens tiekėjo licencijos galiojimas panaikintas, per 6 mėnesius nuo Valstybinės energetikos reguliavimo tarybos sprendimo panaikinti licencijos galiojimą įsigaliojimo dienos patvirtina valdomų įmonių reorganizavimo planą – per vienus metus jas prijungti prie regioninio viešojo vandens tiekėjo.
+17. Savivaldybės taryba, kurios valdoma įmonė paskirta garantiniu vandens tiekėju, taip pat savivaldybės taryba, kurios valdomo viešojo vandens tiekėjo licencijos galiojimas panaikintas, per 6 mėnesius nuo Valstybinės energetikos reguliavimo tarybos sprendimo panaikinti licencijos galiojimą įsigaliojimo dienos patvirtina valdomų įmonių reorganizavimo planą – per vienus metus jas jungti į regioninį viešąjį vandens tiekėją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 18. Garantinis vandens tiekėjas turi teisę laikotarpiu nuo sprendimo, kuriuo panaikintas viešojo vandens tiekėjo licencijos galiojimas, įsigaliojimo dienos iki įmonių reorganizavimo užbaigimo paprastuoju būdu neatlygintinai administruoti viešojo vandens tiekėjo, kurio licencijos galiojimas panaikintas, nuosavybės teise ar kitaip valdytą ir naudotą turtą Civilinio kodekso ketvirtosios knygos II dalies XIV skyriuje nustatyta tvarka.
 
@@ -495,7 +513,11 @@ GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO PLANAVIMAS IR ORGANIZAVIMAS
 
 2) viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas arba paviršinių nuotekų tvarkytojas įvertina geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros išpirkimo įtaką geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugų teikimo kainos didėjimui ar mažėjimui (ar viešojoje geriamojo vandens tiekimo teritorijoje ekonomiškiau paslaugą teikti išpirkus infrastruktūrą, ar reikėtų įrengti individualius arba grupinius geriamojo vandens tiekimo ir (ar) nuotekų, paviršinių nuotekų tvarkymo įrenginius (objektus).
 
-13. Išperkamų geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objektų vertę, išskyrus Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų išpirkimo tvarkos apraše numatytus atvejus, nustato nepriklausomi turto arba verslo vertintojai (toliau – turto vertintojai) Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka.
+13. Išperkamų geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objektų vertę, išskyrus Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų perėmimo arba išpirkimo tvarkos apraše numatytus atvejus, nustato nepriklausomi turto arba verslo vertintojai (toliau – turto vertintojai) Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 14. Turto vertintoją Viešųjų pirkimų įstatyme nustatyta tvarka parenka ir sutartį su turto vertintoju dėl geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objektų vertės nustatymo sudaro ir už turto vertinimo paslaugas sumoka viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas ar paviršinių nuotekų tvarkytojas.
 
@@ -529,11 +551,13 @@ GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO PLANAVIMAS IR ORGANIZAVIMAS
 
 17 straipsnis. Nuotekų tvarkymo informacinė sistema ir jos valdymas
 
-1. Nuotekų tvarkymo informacinė sistema steigiama siekiant  užtikrinti individualiojo nuotekų tvarkymo kontrolę.
+1. Nuotekų tvarkymo informacinė sistema yra valstybės informacinė sistema, skirta individualiojo nuotekų tvarkymo kontrolei užtikrinti.
 
-2. Nuotekų tvarkymo informacinės sistemos valdytoja ir asmens duomenų valdytoja yra Aplinkos ministerija. Nuotekų tvarkymo informacinės sistemos tvarkytoja ir šios sistemos asmens duomenų tvarkytoja – valstybės įmonė Žemės ūkio duomenų centras.
+2. Nuotekų tvarkymo informacinės sistemos valdytoja ir asmens duomenų valdytoja yra Aplinkos ministerija. Nuotekų tvarkymo informacinės sistemos tvarkytojas nurodomas aplinkos ministro tvirtinamuose Nuotekų tvarkymo informacinės sistemos nuostatuose.
 
-3. Nuotekų tvarkymo informacinė sistema finansuojama iš valstybės biudžeto asignavimų, skirtų Aplinkos ministerijai, Europos Sąjungos struktūrinių fondų ir kitų finansavimo šaltinių, kaip nustatyta Valstybės informacinių išteklių valdymo įstatymo 45 ir 46 straipsniuose.
+Straipsnio pakeitimai:
+
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 KETVIRTASIS SKIRSNIS
 
@@ -777,7 +801,11 @@ d) juridinių asmenų finansinis pajėgumas yra pakankamas. Juridinių asmenų f
 
 e) juridiniai asmenys turi žmogiškųjų išteklių geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo veiklai vykdyti ir ataskaitoms rengti, atskirai veiklos apskaitai tvarkyti, vartotojams ir abonentams informuoti ir konsultuoti, skundams ir ginčams dėl veiklos sąlygų nagrinėti.
 
-3. Juridinis asmuo, siekiantis gauti licenciją, aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo licencijavimo taisyklėse nustatyta tvarka Valstybinei energetikos reguliavimo tarybai pateikia nustatytos formos prašymą ir kitus geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo licencijavimo taisyklėse nurodytus dokumentus.
+3. Juridinis asmuo, siekiantis gauti licenciją, Vyriausybės patvirtintose geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo licencijavimo taisyklėse nustatyta tvarka Valstybinei energetikos reguliavimo tarybai pateikia nustatytos formos prašymą ir kitus geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo licencijavimo taisyklėse nurodytus dokumentus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 4. Valstybinė energetikos reguliavimo taryba per 5 darbo dienas nuo prašymo išduoti licenciją ir kitų licencijai gauti reikalingų dokumentų gavimo dienos pateikia juridiniam asmeniui, kuris kreipėsi dėl licencijos išdavimo, dokumentą, patvirtinantį, kad prašymas ir kiti dokumentai gauti. Šiame dokumente nurodoma:
 
@@ -1065,7 +1093,11 @@ SĄNAUDŲ APSKAITOS IR KONTROLĖS, KAINŲ NUSTATYMO IR ATSISKAITYMO TVARKA
 
 10. Tikrinamas geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas, juridiniai ir fiziniai asmenys Valstybinei energetikos reguliavimo tarybai, jos įgaliotiems Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodytiems asmenims privalo pateikti patikrinimui atlikti reikalingą informaciją, net jeigu tokia informacija sudaro tikrinamo geriamojo vandens tiekėjo, garantinio vandens tiekėjo ir paviršinių nuotekų tvarkytojo komercinę (gamybinę) paslaptį arba yra konfidenciali dėl kitų priežasčių. Valstybinė energetikos reguliavimo taryba, jos įgalioti Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodyti asmenys privalo užtikrinti patikrinimo metu gautos konfidencialios informacijos konfidencialumą.
 
-11. Valstybinės energetikos reguliavimo tarybos tikrinamas geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas turi teisę paduoti šio straipsnio 6 dalies 2 punkte nurodytą skundą Vilniaus apygardos administraciniam teismui teisės aktų nustatyta tvarka. Skundo padavimas Valstybinės energetikos reguliavimo tarybos įgaliotų Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, patikrinimui pasitelktų specialistų ar ekspertų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip.
+11. Valstybinės energetikos reguliavimo tarybos tikrinamas geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas turi teisę paduoti šio straipsnio 6 dalies 2 punkte nurodytą skundą pirmosios instancijos administraciniam teismui teisės aktų nustatyta tvarka. Skundo padavimas Valstybinės energetikos reguliavimo tarybos įgaliotų Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, patikrinimui pasitelktų specialistų ar ekspertų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1590, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25159
 
 12. Už šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodytas paslaugas, jeigu jos pagal galiojančius teisės aktus yra teikiamos atlygintinai, Valstybinė energetikos reguliavimo taryba atsiskaito teisės aktų nustatyta tvarka.
 
@@ -1146,6 +1178,12 @@ GINČŲ IR SKUNDŲ NAGRINĖJIMAS. SANKCIJŲ SKYRIMO TVARKA
 1) už viešai privalomos skelbti informacijos apie šiuo įstatymu reglamentuojamą reguliuojamąją veiklą nepaskelbimą – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki vieno tūkstančio eurų;
 
 2) už teisės aktuose nustatytos informacijos nepateikimą šio įstatymo 37 straipsnyje nurodytiems asmenims, už neteisingos ar ne visos informacijos pateikimą – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 0,5 procento geriamojo vandens tiekėjo, garantinio vandens tiekėjo ar paviršinių nuotekų tvarkytojo metinių reguliuojamosios veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio;
+
+21) už šio įstatymo 15 straipsnio 14 dalyje nurodytos įmokos nesumokėjimą toje dalyje nurodytiems asmenims nustatytais terminais, už ne visos įmokos sumokėjimą – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 2 procentų geriamojo vandens tiekėjo metinių reguliuojamosios veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 3) už Valstybinės energetikos reguliavimo tarybos įpareigojimų (nurodymų) nutraukti neteisėtą veiklą, pakeisti naudojamą apskaitos atskyrimo ir sąnaudų paskirstymo sistemą, už reguliuojamosios veiklos sąlygų pažeidimus – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki vieno procento geriamojo vandens tiekėjo, garantinio vandens tiekėjo ar paviršinių nuotekų tvarkytojo metinių reguliuojamosios veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio.
 
@@ -1455,5 +1493,27 @@ Nr. XIV-1466, 2022-10-27, paskelbta TAR 2022-11-15, i. k. 2022-22945
 
 Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas
 
-part_8a0f15b70afe4a49a3072af8167849cb_end
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1590, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25159
+
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 34 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
+
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 9, 14, 15, 16, 17, 27, 39 straipsnių pakeitimo ir įstatymo papildymo 14-1 straipsniu įstatymas
+
+141 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo įmonių reorganizavimas
+
+Viešieji vandens tiekėjai reorganizuojami jungimo būdu. Viešieji vandens tiekėjai gali būti reorganizuojami tik jungimo su kitais viešaisiais vandens tiekėjais būdu.
+
+Papildyta straipsniu:
+
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
