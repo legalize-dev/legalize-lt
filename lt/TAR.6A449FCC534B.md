@@ -4,7 +4,7 @@ identifier: "TAR.6A449FCC534B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-10"
-last_updated: "2023-11-30"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-11-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
 
@@ -1546,7 +1546,11 @@ INFORMAVIMAS APIE KONCESIJOS SUTEIKIMO PROCEDŪROS REZULTATUS, KONCESIJOS SUTART
 
 5. Suteikiančioji institucija šio straipsnio 1, 2, 3 ir 4 dalyse nurodytais atvejais negali teikti informacijos, jeigu jos atskleidimas prieštarauja informacijos ir duomenų apsaugą reglamentuojantiems teisės aktams arba visuomenės interesams, pažeidžia teisėtus konkretaus tiekėjo komercinius interesus arba turi neigiamą poveikį tiekėjų konkurencijai.
 
-6. Kai šis įstatymas neleidžia atskleisti su koncesija susijusios informacijos, su ja gali susipažinti tik Komisijos nariai ir suteikiančiosios institucijos pakviesti ekspertai, Viešųjų pirkimų tarnybos atstovai, kitų Vyriausybės įgaliotų institucijų bei įstaigų, pagal kompetenciją atliekančių koncesijų priežiūrą, atstovai, suteikiančiosios institucijos vadovas, jo įgalioti asmenys bei kiti asmenys ir institucijos, turinčios tokią teisę pagal Lietuvos Respublikos įstatymus, taip pat Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys viešieji juridiniai asmenys, kuriems įgaliojimai suteikti Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka.
+6. Kai šis įstatymas neleidžia atskleisti su koncesija susijusios informacijos, su ja gali susipažinti tik Komisijos nariai ir suteikiančiosios institucijos pakviesti ekspertai, Viešųjų pirkimų tarnybos atstovai, kitų Vyriausybės įgaliotų institucijų bei įstaigų, pagal kompetenciją atliekančių koncesijų priežiūrą, atstovai, suteikiančiosios institucijos vadovas, jo įgalioti asmenys bei kiti asmenys ir institucijos, turinčios tokią teisę pagal Lietuvos Respublikos įstatymus, taip pat Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys ir (ar) audituojantys viešieji juridiniai asmenys, kuriems įgaliojimai suteikti Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2250, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22981
 
 Straipsnio pakeitimai:
 
@@ -1764,11 +1768,13 @@ KONCESIJŲ VALDYMAS, PRIEŽIŪRA IR INFORMACIJOS TEIKIMAS
 
 2. Formuojant valstybės koncesijų politiką dalyvauja ir šią politiką įgyvendina Viešųjų pirkimų tarnyba.
 
-3. Koncesijų priežiūrą atlieka Viešųjų pirkimų tarnyba ir kitos Vyriausybės įgaliotos institucijos bei įstaigos pagal kompetenciją, taip pat Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys viešieji juridiniai asmenys, kuriems įgaliojimai suteikti Viešojo administravimo įstatymo, pagal savo kompetenciją. Koncesijas prižiūrinčios institucijos turi teisę stebėti visas koncesijų suteikimo procedūras, prireikus filmuoti Komisijos posėdžius ir kitas koncesijų suteikimo procedūras.
+3. Koncesijų priežiūrą atlieka Viešųjų pirkimų tarnyba ir kitos Vyriausybės įgaliotos institucijos bei įstaigos pagal savo kompetenciją, taip pat Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys ir (ar) audituojantys viešieji juridiniai asmenys, kuriems įgaliojimai suteikti Viešojo administravimo įstatymo, pagal savo kompetenciją. Koncesijas prižiūrinčios institucijos turi teisę stebėti visas koncesijų suteikimo procedūras, prireikus filmuoti Komisijos posėdžius ir kitas koncesijų suteikimo procedūras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+
+Nr. XIV-2250, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22981
 
 4. Už koncesijos sutarties sudarymą ir jos sąlygų vykdymą atsakinga suteikiančioji institucija. Ši institucija Vyriausybės nustatyta tvarka privalo pateikti Finansų ministerijai informaciją apie koncesijos sutarčių įgyvendinimą.
 
