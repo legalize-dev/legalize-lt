@@ -4,7 +4,7 @@ identifier: "TAR.789C6EE505FD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-01"
-last_updated: "2023-09-22"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.789C6EE505FD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-09-22 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
-
-TAR pastaba. Iki 2023-09-19 įstatymo Nr. XIV-2169 įsigaliojimo dienos (2023-09-22) VTEK pradėti tyrimai baigiami pagal iki  įstatymo Nr. XIV-2163 įsigaliojimo dienos (2023-09-22) galiojusį teisinį reguliavimą.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-2169, 2023-09-19, paskelbta TAR 2023-09-21, i. k. 2023-18496
-
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 5, 6, 12, 13, 15, 16, 18, 20, 23, 24-1 ir 25 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2020-01-01:
 
@@ -109,7 +101,11 @@ VTEK NARIAI
 
 6 straipsnis. Reikalavimai VTEK nariui
 
-VTEK nariu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį bakalauro ir magistro arba vienpakopį universitetinį išsilavinimą ir ne mažesnę kaip 3 metų darbo viešajame sektoriuje patirtį. VTEK nariui taikomi Lietuvos Respublikos valstybės tarnybos įstatyme nustatyti nepriekaištingos reputacijos reikalavimai.
+VTEK nariu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį bakalauro ir magistro arba vienpakopį universitetinį išsilavinimą ir ne mažesnę kaip 3 metų darbo viešajame sektoriuje patirtį. VTEK nariui taikomi Lietuvos Respublikos valstybės tarnybos įstatymo 5 straipsnio 3 dalyje nustatyti nepriekaištingos reputacijos reikalavimai.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2169, 2023-09-19, paskelbta TAR 2023-09-21, i. k. 2023-18496
 
 7 straipsnis. VTEK nario skyrimas ir kadencija
 
@@ -227,7 +223,11 @@ Nr. XIV-2169, 2023-09-19, paskelbta TAR 2023-09-21, i. k. 2023-18496
 
 2. VTEK pirmininkas, spręsdamas Komisijos veiklos organizavimo, Komisijos sekretoriato darbo ir personalo valdymo klausimus, leidžia įsakymus.
 
-3. Sprendimus dėl VTEK pirmininko atostogų, tarnybinių komandiruočių, nusišalinimo, vienkartinių priemokų skyrimo ir kitais klausimais priima Komisija posėdyje.
+3. Sprendimus dėl VTEK pirmininko atostogų, tarnybinių komandiruočių, nusišalinimo ir kitais klausimais priima Komisija posėdyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2169, 2023-09-19, paskelbta TAR 2023-09-21, i. k. 2023-18496
 
 14 straipsnis. VTEK pirmininko ir VTEK narių įgaliojimų pabaiga
 
@@ -264,10 +264,6 @@ Nr. XIV-2169, 2023-09-19, paskelbta TAR 2023-09-21, i. k. 2023-18496
 15 straipsnis. VTEK narių darbo apmokėjimas, socialinės garantijos ir garantijos atleidus iš pareigų
 
 1. Ne visą darbo dieną VTEK dirbančiam VTEK nariui už darbą atliekant VTEK nario pareigas apmokama atsižvelgiant į jo faktiškai dirbtą darbo laiką.
-
-2. VTEK nariui, kurio kadencija pasibaigia (jeigu jis nepaskiriamas antrai kadencijai) arba įgaliojimai nutrūksta šio įstatymo 14 straipsnio 1 dalies 3 punkte nustatytu pagrindu, išmokama trijų mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. VTEK nariui mirus jo šeimos nariams (sutuoktiniui, partneriui, sugyventiniui, jeigu jis nurodytas VTEK nario privačių interesų deklaracijoje, nepilnamečiams vaikams (įvaikiams), iki jiems sukaks 18 metų, taip pat vaikams (įvaikiams), jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), iki jiems sukaks 24 metai, mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, mirusiojo vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei)) išmokama lygiomis dalimis VTEK nario trijų mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
-
-TAR pastaba: 15 straipsnio 2 dalies redakcija įsigaliosianti  2024-01-01:
 
 2. VTEK nariui, kurio kadencija pasibaigia (jeigu jis nepaskiriamas antrai kadencijai) arba įgaliojimai nutrūksta šio įstatymo 14 straipsnio 1 dalies 3 punkte nustatytu pagrindu, išmokama trijų mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. VTEK nariui mirus jo šeimos nariams (sutuoktiniui, partneriui, sugyventiniui, jeigu jis nurodytas VTEK nario privačių interesų deklaracijoje, nepilnamečiams vaikams (įvaikiams), iki jiems sukaks 18 metų, taip pat vaikams (įvaikiams), jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), iki jiems sukaks 24 metai, mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie yra asmenys su negalia (iki 2023 m. gruodžio 31 d. pripažinti neįgaliaisiais ar iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, mirusiojo vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei)) išmokama lygiomis dalimis VTEK nario trijų mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
 
@@ -569,7 +565,11 @@ Nr. XIV-2169, 2023-09-19, paskelbta TAR 2023-09-21, i. k. 2023-18496
 
 8) gauti dėl jo priimtą VTEK sprendimą;
 
-9) įstatymų nustatyta tvarka apskųsti VTEK priimtą sprendimą Vilniaus apygardos administraciniam teismui.
+9) įstatymų nustatyta tvarka apskųsti VTEK priimtą sprendimą pirmosios instancijos administraciniam teismui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1610, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25190
 
 2. Pareiškėjas turi teisę:
 
@@ -709,7 +709,11 @@ VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS KOMPETENCIJA
 
 32 straipsnis. VTEK sprendimų apskundimas
 
-1. VTEK sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui per vieną mėnesį nuo sprendimo paskelbimo arba įteikimo suinteresuotam asmeniui dienos.
+1. VTEK sprendimai gali būti skundžiami pirmosios instancijos administraciniam teismui per vieną mėnesį nuo sprendimo paskelbimo arba įteikimo suinteresuotam asmeniui dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1610, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25190
 
 2. VTEK, kaip privalomos išankstinio ginčų nagrinėjimo ne teismo tvarka institucijos, priimtas sprendimas gali būti skundžiamas teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka ir terminais.
 
@@ -822,6 +826,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2169, 2023-09-19, paskelbta TAR 2023-09-21, i. k. 2023-18496
 
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 5, 6, 12, 13, 15, 16, 18, 20, 23, 24-1 ir 25 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1610, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25190
+
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 27 ir 32 straipsnių pakeitimo įstatymas
 
 241 straipsnis. Institucijų ir įstaigų priimtų sprendimų apskundimas VTEK
 
