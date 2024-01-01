@@ -4,7 +4,7 @@ identifier: "TAR.4F95269B43A0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2023-01-04"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4F95269B43A0"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pajūrio juostos įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3091, i. k. 1021010ISTA0IX-1016
 
@@ -183,7 +183,7 @@ Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA
 
 1. Šį Įstatymą pažeidę asmenys atsako Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
 
-2. Žemės naudojimo ir šio Įstatymo nustatytų veiklos apribojimų valstybinę kontrolę pagal kompetenciją atlieka aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių miškų apsaugos pareigūnai, valstybiniai žemės tarnybų pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų pareigūnai, statybos valstybinės priežiūros pareigūnai, kultūros vertybių apsaugos pareigūnai.
+2. Žemės naudojimo ir šio Įstatymo nustatytų veiklos apribojimų valstybinę kontrolę pagal kompetenciją atlieka aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių miškų apsaugos pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų pareigūnai, statybos valstybinės priežiūros pareigūnai, kultūros vertybių apsaugos pareigūnai.
 
 Straipsnio dalies pakeitimai:
 
