@@ -4,7 +4,7 @@ identifier: "TAR.4DBDE27621A2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-28"
-last_updated: "2022-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
 
@@ -479,7 +479,11 @@ Specialiųjų tyrimų tarnyba surenka ir į pareigas asmenį skiriančiam, teiki
 
 10. Šio straipsnio 7 dalyje nurodyti rašytiniai prašymai Specialiųjų tyrimų tarnybai turi būti pateikiami prieš asmenį skiriant į pareigas. Į pareigas asmuo gali būti paskirtas tik gavus informaciją iš Specialiųjų tyrimų tarnybos. Jeigu kriminalinės žvalgybos pagrindinės institucijos, žvalgybos institucijos renka informaciją apie asmenį savarankiškai, toks asmuo gali būti paskirtas į pareigas tik surinkus šio įstatymo 16 straipsnyje nurodytą informaciją.
 
-11. Į pareigas asmenį skiriantis, teikiantis ar paskyręs subjektas prašymą Specialiųjų tyrimų tarnybai pateikti informaciją gali teikti tik dėl vieno konkursą, atranką laimėjusio, vertinimo, atestacijos, tarnybinio kaitumo ar kitas analogiškas procedūras perėjusio arba savo pasirinkto asmens, išskyrus atvejus, kai Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalyje nurodytais atvejais į pareigas skiriančiam asmeniui pateikiami du geriausiai centralizuotame konkurse įvertinti pretendentai, – tokiais atvejais į pareigas asmenį skiriantis subjektas prašymą Specialiųjų tyrimų tarnybai pateikti informaciją gali teikti dėl abiejų pretendentų.
+11. Į pareigas asmenį skiriantis, teikiantis ar paskyręs subjektas prašymą Specialiųjų tyrimų tarnybai pateikti informaciją gali teikti tik dėl vieno konkursą, atranką laimėjusio, vertinimo, atestacijos, tarnybinio kaitumo ar kitas analogiškas procedūras perėjusio arba savo pasirinkto asmens.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1993, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11563
 
 12. Informacija apie asmenį pateikiama į pareigas asmenį teikiančiam, skiriančiam ar paskyrusiam subjektui. Jeigu dalis informacijos yra įslaptinta, ji pateikiama tik tuo atveju, jei į pareigas asmenį teikiantis, skiriantis ar paskyręs subjektas turi leidimą dirbti ar susipažinti su įslaptinta informacija, žymima atitinkama slaptumo žyma. Jeigu į pareigas asmenį teikiantis, skiriantis ar paskyręs subjektas yra kolegialus valdymo organas ir informacija apie asmenį pateikiama tokio kolegialaus valdymo organo vadovui, su informacija apie asmenį turi teisę susipažinti visi kolegialaus valdymo organo nariai, o jeigu dalis informacijos apie asmenį yra įslaptinta, – šio kolegialaus valdymo organo nariai, turintys leidimą dirbti ar susipažinti su įslaptinta informacija, žymima atitinkama slaptumo žyma.
 
@@ -902,4 +906,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-471, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15850
 
 Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1993, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11563
+
+Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 17 straipsnio pakeitimo įstatymas
 
