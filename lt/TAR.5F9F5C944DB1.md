@@ -4,7 +4,7 @@ identifier: "TAR.5F9F5C944DB1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-16"
-last_updated: "2021-11-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
 
@@ -479,7 +479,11 @@ Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
 
 1) Žemės ūkio ministerijai;
 
-2) viešajai įstaigai Kaimo verslo ir rinkų plėtros agentūrai, kuri atlieka Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo priežiūros institucijos funkcijas;
+2) žemės ūkio ministro įgaliotai institucijai, kuri atlieka Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo priežiūros institucijos funkcijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2066, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12749
 
 3) Lietuvos Respublikos konkurencijos tarybai, kuri atlieka Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo priežiūros institucijos funkcijas.
 
@@ -606,4 +610,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
 
 Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14 straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2066, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12749
+
+Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 14 straipsnio pakeitimo įstatymas
 
