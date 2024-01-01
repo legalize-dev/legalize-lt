@@ -4,7 +4,7 @@ identifier: "TAR.1881C195D0E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
 
@@ -51,23 +51,65 @@ BENDROSIOS NUOSTATOS
 
 6. Tarnybinis nusižengimas – priešinga teisei kaltai padaryta šiame įstatyme nustatyta veika (veikimas ar neveikimas), už kurią numatyta atsakomybė.
 
-7. Žvalgyba – šiuo įstatymu įgaliotų institucijų veikla, apimanti informacijos apie išorės rizikos veiksnius, pavojus ir grėsmes Lietuvos Respublikos nacionaliniam saugumui ir valstybės interesams rinkimą, apdorojimą, vertinimą ir šios informacijos pateikimą nacionalinį saugumą užtikrinančioms institucijoms.
+7. Vidaus saugumas – visuma veiksmų ir priemonių, kuriais siekiama užkirsti kelią išorės ir (ar) vidaus veiksniams, keliantiems grėsmę žvalgybos institucijų veiklai, jų infrastruktūrai, informacijos ar personalo saugumui, apsaugoti nuo tokių grėsmių žvalgybos institucijų personalą, jų šeimos narius ir turtą, ir kuriais siekiama tokias grėsmes pašalinti.
 
-8. Žvalgybos informacija – duomenys, gauti vykdant žvalgybą ir kontržvalgybą. Duomenys, gauti atliekant kriminalinės žvalgybos tyrimus, nėra žvalgybos informacija.
+Papildyta straipsnio dalimi:
 
-9. Žvalgybos institucija – valstybės institucija, kuriai šio įstatymo nustatyta tvarka pavesta vykdyti žvalgybą ir kontržvalgybą.
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
-10. Žvalgybos institucijos veikla – žvalgybos institucijos vykdoma žvalgyba, kontržvalgyba ir vidaus administravimas.
+8. Žvalgyba – šiuo įstatymu įgaliotų institucijų veikla, apimanti informacijos apie išorės rizikos veiksnius, pavojus ir grėsmes Lietuvos Respublikos nacionaliniam saugumui ir valstybės interesams rinkimą, apdorojimą, vertinimą ir šios informacijos pateikimą nacionalinį saugumą užtikrinančioms institucijoms.
 
-11. Žvalgybos metodas – būdas gauti žvalgybos informaciją.
+Straipsnio dalies numeracijos pakeitimas:
 
-12. Žvalgybos pareigūnas – asmuo, pagal žvalgybos pareigūno tarnybos ar profesinės karo tarnybos sutartį tarnaujantis žvalgybos institucijoje ir vykdantis žvalgybą ar kontržvalgybą ir (ar) kuriam taikomos specialiosios priėmimo į tarnybą, tarnybos atlikimo sąlygos, veiklos apribojimai ir draudimai, taip pat privataus gyvenimo suvaržymai. Žvalgybos pareigūnas prilyginamas statutiniam valstybės tarnautojui.
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
-13. Žvalgybos pareigūno vardo žeminimas – pareigūno veika, susijusi ar nesusijusi su pareigų atlikimu, kuria pareigūnas pažemina žvalgybos institucijos autoritetą, griauna pasitikėjimą žvalgybos institucija ar ją kompromituoja, sudaro neigiamą klaidingą visuomenės nuomonę apie instituciją, jos pareigūnus.
+9. Žvalgybos informacija – duomenys, gauti vykdant žvalgybą ir kontržvalgybą. Duomenys, gauti atliekant kriminalinės žvalgybos tyrimus, nėra žvalgybos informacija.
 
-14. Žvalgybos slaptasis bendradarbis – veiksnus fizinis asmuo, susitarimo pagrindu slaptai bendradarbiaujantis su žvalgybos institucija.
+Straipsnio dalies numeracijos pakeitimas:
 
-15. Žvalgybos užduotis – rašytinis dokumentas, kuriame nustatomi pavedimai gauti ir pateikti žvalgybos informaciją įgaliotiems ją žinoti asmenims ir kuriuo vadovaujantis vykdoma žvalgyba ir kontržvalgyba.
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+10. Žvalgybos institucija – valstybės institucija, kuriai šio įstatymo nustatyta tvarka pavesta vykdyti žvalgybą ir kontržvalgybą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+11. Žvalgybos institucijos veikla – žvalgybos institucijos vykdoma žvalgyba, kontržvalgyba ir vidaus administravimas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+12. Žvalgybos metodas – būdas gauti žvalgybos informaciją.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+13. Žvalgybos pareigūnas – asmuo, pagal žvalgybos pareigūno tarnybos ar profesinės karo tarnybos sutartį tarnaujantis žvalgybos institucijoje ir vykdantis žvalgybą ar kontržvalgybą ir (ar) kuriam taikomos specialiosios priėmimo į tarnybą, tarnybos atlikimo sąlygos, veiklos apribojimai ir draudimai, taip pat privataus gyvenimo suvaržymai. Žvalgybos pareigūnas prilyginamas statutiniam valstybės tarnautojui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+14. Žvalgybos pareigūno vardo žeminimas – pareigūno veika, susijusi ar nesusijusi su pareigų atlikimu, kuria pareigūnas pažemina žvalgybos institucijos autoritetą, griauna pasitikėjimą žvalgybos institucija ar ją kompromituoja, sudaro neigiamą klaidingą visuomenės nuomonę apie instituciją, jos pareigūnus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+15. Žvalgybos slaptasis bendradarbis – veiksnus fizinis asmuo, susitarimo pagrindu slaptai bendradarbiaujantis su žvalgybos institucija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+16. Žvalgybos užduotis – rašytinis dokumentas, kuriame nustatomi pavedimai gauti ir pateikti žvalgybos informaciją įgaliotiems ją žinoti asmenims ir kuriuo vadovaujantis vykdoma žvalgyba ir kontržvalgyba.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 Straipsnio pakeitimai:
 
@@ -105,7 +147,15 @@ Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
 
 5 straipsnis. Informacijos apie žvalgybos institucijas ir jų veiklą apsauga
 
-Žvalgybos užduotys, žvalgybos informacija, žvalgybos metodai, informacija apie žvalgybos institucijų veiklą, žvalgybos slaptuosius bendradarbius, žvalgybos institucijų finansavimą, materialinį ir techninį aprūpinimą įslaptinama, išslaptinama ir tvarkoma įstatymų nustatyta tvarka.
+1. Žvalgybos užduotys, žvalgybos informacija, žvalgybos metodai, informacija apie žvalgybos institucijų veiklą, žvalgybos slaptuosius bendradarbius, žvalgybos institucijų finansavimą, materialinį ir techninį aprūpinimą įslaptinama, išslaptinama ir tvarkoma Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
+
+2. Valstybės informacinėse sistemose, registruose ir (ar) duomenų bazėse tvarkomi duomenys, galintys atskleisti turto arba asmenų tarnybinę priklausomybę, žvalgybos institucijoms, tretiesiems asmenims neteikiami, jeigu žvalgybos institucija valstybės informacinės sistemos, registro ir (ar) duomenų bazės valdytoją ir tvarkytoją raštu informuoja, kad jų teikimas galėtų padaryti žalos žvalgybos institucijos veiklai ir taip pakenkti valstybės saugumo interesams.
+
+3. Žvalgybos institucijų valdomas ir naudojamas teritorijas, kurių sąrašą įsakymu tvirtina žvalgybos institucijos vadovas, ir teritorijas, patenkančias į karines teritorijas, kurių sąrašą įsakymu tvirtina krašto apsaugos ministras, įskaitant jose esančius statinius, filmuoti, fotografuoti ar kitu būdu vizualizuoti, taip pat vykdyti bepiločių orlaivių skrydžius virš šių teritorijų ir 200 metrų spinduliu aplink šias teritorijas, o patenkančias į karines teritorijas, kaip nurodyta karinių teritorijų apsaugą reglamentuojančiuose teisės aktuose, yra draudžiama, išskyrus įstatymų ar tarptautinių sutarčių numatytus atvejus arba turint žvalgybos institucijos vadovo ar jo įgalioto asmens leidimą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 ANTRASIS SKIRSNIS
 
@@ -167,47 +217,53 @@ TREČIASIS SKIRSNIS
 
 3) šio įstatymo nustatytais atvejais ir tikslais atlikti kriminalinės žvalgybos tyrimus;
 
-4) gauti iš institucijų, įmonių, įstaigų ir organizacijų žvalgybos institucijų veiklai reikalingą informaciją;
+4) gauti iš fizinių asmenų žvalgybos institucijų veiklai reikalingą informaciją;
 
-5) Lietuvos Respublikos nacionalinio saugumo užtikrinimo tikslais bendradarbiauti su užsienio valstybių žvalgybos, saugumo institucijomis, tarptautinėmis organizacijomis ir institucijomis;
+5) gauti iš juridinių asmenų, Lietuvos Respublikoje įsteigtų užsienio valstybių juridinių asmenų filialų ir atstovybių, valstybės įgaliotų asmenų informaciją apie fizinių ir (ar) juridinių asmenų, taip pat Lietuvos Respublikoje įsteigtų užsienio valstybių juridinių asmenų filialų ir atstovybių atliktas ūkines, finansines operacijas, finansinių ir (ar) mokėjimo priemonių panaudojimą ir kitą žvalgybos institucijų veiklai reikalingą informaciją;
 
-6) bendradarbiauti su juridiniais ir fiziniais asmenimis;
+6) įdiegti ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) elektroninių ryšių paslaugas, elektroninės informacijos prieglobos paslaugas ir skaitmenines paslaugas, infrastruktūroje technines priemones, skirtas elektroninių ryšių tinklais perduodamos informacijos turiniui, susirašinėjimui ir kitokiam asmens susižinojimui stebėti ir fiksuoti;
 
-7) įslaptinti žvalgybos pareigūnus, užšifruoti jų tarnybinę priklausomybę, įslaptinti ir užšifruoti žvalgybos pareigūnų bei žvalgybos slaptųjų bendradarbių tapatybę, žvalgybos institucijų patalpų, transporto, ryšio priemonių, taip pat kitų techninių priemonių tarnybinę priklausomybę;
+7) Lietuvos Respublikos nacionalinio saugumo užtikrinimo tikslais bendradarbiauti su užsienio valstybių žvalgybos, saugumo institucijomis, tarptautinėmis organizacijomis ir institucijomis;
 
-8) steigti priedangos juridinius asmenis ir jais naudotis;
+8) bendradarbiauti su juridiniais asmenimis, Lietuvos Respublikoje įsteigtų užsienio valstybių juridinių asmenų filialais ir atstovybėmis, valstybės įgaliotais asmenimis ir fiziniais asmenimis;
 
-9) naudoti tapatybės ir tarnybinės priklausomybės neatskleidžiančius dokumentus ir priemones;
+9) įslaptinti žvalgybos pareigūnus, užšifruoti jų tarnybinę priklausomybę, įslaptinti ir užšifruoti žvalgybos pareigūnų ir žvalgybos slaptųjų bendradarbių tapatybę, žvalgybos institucijų patalpų, transporto, ryšio priemonių, taip pat kitų techninių priemonių tarnybinę priklausomybę;
 
-10) įsigyti ir naudoti technines ir kitas priemones, medžiagas, reikalingas žvalgybos institucijų veiklai, žvalgybos pareigūnų, žvalgybos slaptųjų bendradarbių ir jų šeimos narių, žvalgybos institucijų patalpų ar kito turto apsaugai;
+10) steigti priedangos juridinius asmenis ir jais naudotis;
 
-11) vykdyti žvalgybos institucijų veiklai reikalingą pagalbinę veiklą – organizuoti ir vykdyti patalpų, pastatų ir teritorijos priežiūros ir tvarkymo, techninių sistemų ir transporto priežiūros, maitinimo, kitą administracinę, materialinio ir techninio aprūpinimo veiklą, naudojant vidinius žmogiškuosius išteklius ir valstybės biudžeto lėšas;
+11) gaminti ir naudoti tapatybės ir tarnybinės priklausomybės neatskleidžiančius dokumentus, dokumentų blankus ir jų rekvizitus, kitas priemones, taip pat vykdant žvalgybą ir kontržvalgybą naudoti Lietuvos Respublikos kriminalinės žvalgybos įstatymo pagrindu pagamintus dokumentus ir priemones;
 
-12) tvarkyti žvalgybos metodų taikymo, teismo sankcionuojamų ir nesankcionuojamų informacijos rinkimo veiksmų ar kriminalinės žvalgybos tyrimų atlikimo metu gautų pajamų ir materialiojo turto apskaitą Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nustatyta tvarka ir naudoti žvalgybos institucijų veiklai;
+12) įsigyti ir naudoti technines ir kitas priemones, medžiagas, reikalingas žvalgybos institucijų veiklai, žvalgybos pareigūnų, žvalgybos slaptųjų bendradarbių ir jų šeimos narių, žvalgybos institucijų patalpų ar kito turto apsaugai;
 
-13) pasitelkti ekspertus, specialistus;
+13) lėšas, skirtas žvalgybos metodams taikyti ir teismo sankcionuojamiems veiksmams atlikti, kai būtina užtikrinti žvalgybos institucijos veiklos metodų neskelbtinumą, naudoti žvalgybos institucijos vadovo nustatyta tvarka, o jeigu žvalgybos institucijos vadovas nėra žvalgybos institucijai skirtų asignavimų valdytojas, – žvalgybos institucijos vadovo nustatyta ir su asignavimų valdytoju suderinta tvarka;
 
-14) įsigyti tarnybinius šaunamuosius ginklus ir specialiąsias priemones;
+14) vykdyti žvalgybos institucijų veiklai reikalingą pagalbinę veiklą – organizuoti ir vykdyti patalpų, pastatų ir teritorijų priežiūros ir tvarkymo, techninių sistemų ir transporto priežiūros, maitinimo, kitą administracinę, materialinio ir techninio aprūpinimo veiklą, naudojant vidinius žmogiškuosius išteklius ir valstybės biudžeto lėšas;
 
-Straipsnio punkto pakeitimai:
+15) tvarkyti žvalgybos metodų taikymo, teismo sankcionuojamų ir nesankcionuojamų informacijos rinkimo veiksmų ar kriminalinės žvalgybos tyrimų atlikimo metu gautų pajamų ir materialiojo turto apskaitą Lietuvos Respublikos Vyriausybės nustatyta tvarka ir naudoti žvalgybos institucijų veiklai;
 
-Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
+16) pasitelkti ekspertus, specialistus;
 
-15) tirti asmenis poligrafu įstatymų nustatyta tvarka;
+17) įsigyti tarnybinius šaunamuosius ginklus ir specialiąsias priemones;
 
-16) organizuoti žvalgybos pareigūnų mokymą ir kvalifikacijos tobulinimą;
+18) tirti asmenis poligrafu įstatymų nustatyta tvarka;
 
-17) gauti paramą iš užsienio valstybių, tarptautinių organizacijų ir institucijų;
+19) organizuoti žvalgybos pareigūnų mokymą ir kvalifikacijos tobulinimą;
 
-18) pagal savo kompetenciją leisti teisės aktus, reglamentuojančius žvalgybos institucijos veiklą.
+20) gauti paramą iš Lietuvos Respublikos ir užsienio fizinių ir juridinių asmenų, užsienio valstybių ir tarptautinių organizacijų;
 
-2. Žvalgybos institucijos pareigos:
+21) pagal savo kompetenciją leisti teisės aktus, reglamentuojančius žvalgybos institucijos veiklą;
+
+22) turėti kitų teisių, numatytų šiame ir kituose Lietuvos Respublikos įstatymuose.
+
+2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės Vyriausybės nustatyta tvarka teikia pagalbą žvalgybos institucijoms joms įgyvendinant šio straipsnio 1 dalies 11 punkte nurodytas teises ir žvalgybos institucijoms gamina šio straipsnio 1 dalies 11 punkte nurodytus dokumentus, dokumentų blankus ir jų rekvizitus, kitas priemones.
+
+3. Žvalgybos institucijos pareigos:
 
 1) teikti Lietuvos Respublikos nacionalinį saugumą užtikrinančioms valstybės institucijoms žvalgybos informaciją, reikalingą jų funkcijoms atlikti;
 
 2) raštu informuoti valstybės institucijas, kurioms žvalgybos institucijos yra atskaitingos, apie žvalgybos institucijų vykdomą veiklą ir bendradarbiavimą su užsienio žvalgybos, saugumo institucijomis, tarptautinėmis organizacijomis ir institucijomis;
 
-3) užtikrinti savo saugumą, rūpintis žvalgybos pareigūnų ir žvalgybos slaptųjų bendradarbių bei jų šeimos narių apsauga;
+3) užtikrinti vidaus saugumą, rūpintis žvalgybos institucijos personalo, žvalgybos slaptųjų bendradarbių, rezervo žvalgybos pareigūnų ir jų šeimos narių saugumu;
 
 4) valdyti žvalgybos informaciją;
 
@@ -215,13 +271,21 @@ Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
 
 6) teikti visuomenei viešą informaciją apie savo veiklą.
 
+Straipsnio pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
 KETVIRTASIS SKIRSNIS
 
 ŽVALGYBOS IR KONTRŽVALGYBOS VYKDYMO PAGRINDAI, ŽVALGYBOS INFORMACIJOS RINKIMAS, TVARKYMAS, NAUDOJIMAS IR TEIKIMAS
 
 10 straipsnis. Žvalgybos ir kontržvalgybos vykdymo pagrindai
 
-1. Žvalgyba ir kontržvalgyba vykdoma vadovaujantis Valstybės gynimo tarybos patvirtintais žvalgybos informacijos poreikiais ir prioritetais, žvalgybos užduočių pagrindu.
+1. Žvalgyba ir kontržvalgyba vykdoma vadovaujantis Valstybės gynimo tarybos ne rečiau kaip kartą per metus tvirtinamais žvalgybos informacijos poreikiais ir prioritetais, žvalgybos užduočių pagrindu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 2. Žvalgybos užduotis, vadovaudamiesi Valstybės gynimo tarybos patvirtintais žvalgybos informacijos poreikiais ir prioritetais, žvalgybos ir kontržvalgybos uždaviniams įgyvendinti sau pavaldžioms žvalgybos institucijoms nustato krašto apsaugos ministras ir Valstybės saugumo departamento direktorius.
 
@@ -235,11 +299,23 @@ KETVIRTASIS SKIRSNIS
 
 3) gaunant duomenis iš valstybės ir žinybinių registrų, informacinių sistemų ir duomenų bazių;
 
-4) gaunant duomenis iš juridinių ir (ar) fizinių asmenų.
+4) gaunant duomenis iš juridinių asmenų, Lietuvos Respublikoje įsteigtų užsienio valstybių juridinių asmenų filialų ir atstovybių, valstybės įgaliotų asmenų ir (ar) fizinių asmenų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 12 straipsnis. Žvalgybos informacijos rinkimas taikant žvalgybos metodus
 
-Žvalgybos metodus, jų taikymo tvarką, terminus ir sąlygas nustato Vyriausybė.
+1. Žvalgybos metodus, jų taikymo tvarką ir sąlygas nustato Vyriausybė.
+
+2. Krašto apsaugos ministras ir Valstybės saugumo departamento direktorius, nustatydami žvalgybos užduotis, nurodo ir šių užduočių vykdymo metu taikytinus žvalgybos metodus.
+
+3. Žvalgybos metodai negali būti taikomi ilgiau negu vykdoma žvalgybos užduotis.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 13 straipsnis. Žvalgybos informacijos rinkimas atliekant teismo sankcionuojamus veiksmus
 
@@ -255,7 +331,11 @@ KETVIRTASIS SKIRSNIS
 
 5) pinigų, piniginių srautų, vertybinių popierių, elektroninių ir kitų atsiskaitymo būdų, taip pat bet kokių finansinių operacijų stebėjimas ir fiksavimas;
 
-6) informacijos apie fizinių ir (ar) juridinių asmenų iki teikimo teismui gauti tokią informaciją pateikimo atliktas ūkines, finansines operacijas, finansinių ir (ar) mokėjimo priemonių panaudojimą gavimas iš finansų įmonių ir kredito įstaigų, taip pat iš kitų juridinių asmenų.
+6) Neteko galios nuo 2024-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 Papildyta straipsnio punktu:
 
@@ -273,11 +353,13 @@ Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 4) veiksmai, kuriuos prašoma leisti atlikti;
 
-5) prašomų taikyti veiksmų trukmė arba prašomos pateikti informacijos apimtis ir periodas, kai prašoma taikyti šio straipsnio 1 dalies 6 punkte nurodytą veiksmą;
+5) prašomų taikyti veiksmų trukmė;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 6) siekiamas rezultatas.
 
@@ -293,23 +375,33 @@ Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 4) veiksmai, kuriuos leidžiama atlikti;
 
-5) leidžiamų atlikti veiksmų trukmė arba leidžiamos gauti informacijos apimtis ir periodas, kai leidžiama atlikti šio straipsnio 1 dalies 6 punkte nurodytą veiksmą;
+5) leidžiamų atlikti veiksmų trukmė;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
 6) siekiamas rezultatas.
 
-6. Šio straipsnio 1 dalies 1–5 punktuose nurodyti veiksmai negali trukti ilgiau kaip 6 mėnesius. Prireikus šių veiksmų atlikimas gali būti pratęstas dar iki 3 mėnesių. Pratęsimų skaičius neribojamas. Apygardos teismas, kaskart dar 3 mėnesiams pratęsdamas išduotą leidimą atlikti teismo sankcionuojamus veiksmus, įvertina pateikto teikimo pratęsti šių veiksmų atlikimą pagrįstumą.
+6. Šio straipsnio 1 dalyje nurodyti veiksmai negali trukti ilgiau kaip 6 mėnesius. Prireikus šių veiksmų atlikimas gali būti pratęsiamas dar iki 3 mėnesių. Pratęsimų skaičius neribojamas. Apygardos teismas, kaskart dar 3 mėnesiams pratęsdamas išduotą leidimą atlikti teismo sankcionuojamus veiksmus, įvertina pateikto teikimo pratęsti šių veiksmų atlikimą pagrįstumą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
 7. Žvalgybos institucijos dėl šio straipsnio 1 dalyje nurodytų veiksmų sankcionavimo turi teisę kreiptis į bet kurį apygardos teismą. Teismui atsisakius sankcionuoti veiksmus, kreiptis į kitą apygardos teismą dėl tų pačių veiksmų sankcionavimo draudžiama.
 
 8. Šio straipsnio 2 dalyje nurodyto teisėjo nutartis atsisakyti sankcionuoti šio straipsnio 1 dalyje nurodytus veiksmus arba atsisakyti pratęsti šių veiksmų atlikimo terminą per 7 dienas nuo nutarties gavimo gali būti skundžiama apygardos teismo pirmininkui. Skundą apygardos teismo pirmininkas privalo išnagrinėti ir nutartį priimti ne vėliau kaip per 7 dienas nuo skundo gavimo dienos. Apygardos teismo pirmininko sprendimas yra galutinis.
+
+9. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (ar) elektroninių ryšių paslaugas, elektroninės informacijos prieglobos paslaugas ir skaitmenines paslaugas, privalo sudaryti technines galimybes žvalgybos institucijoms elektroninių ryšių tinklais perduodamos informacijos turiniui, susirašinėjimui ir kitokiam asmens susižinojimui stebėti ir fiksuoti. Tam reikalinga įranga įsigyjama, įdiegiama ir išlaikoma valstybės lėšomis. Ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (ar) elektroninių ryšių paslaugas, elektroninės informacijos prieglobos paslaugas ir skaitmenines paslaugas, Vyriausybės nustatyta tvarka ir sąlygomis šiam tikslui skirtomis valstybės biudžeto lėšomis kompensuojamos išlaidos, pagrįstos šios įrangos išlaikymo sąnaudomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 14 straipsnis. Žvalgybos informacijos rinkimas iš valstybės ir žinybinių registrų, informacinių sistemų ir duomenų bazių
 
@@ -331,7 +423,11 @@ Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
 
 2. Jeigu asmuo per žvalgybos institucijos nurodytą terminą nepateikia prašomų duomenų arba atsisako juos pateikti, žvalgybos institucijos turi teisę kreiptis į bet kurį apygardos teismą su prašymu įpareigoti pateikti duomenis, reikalingus žvalgybos institucijų uždaviniams įgyvendinti. Apygardos teismo nutartis per 7 dienas nuo nutarties gavimo gali būti skundžiama Lietuvos apeliaciniam teismui. Lietuvos apeliacinis teismas privalo skundą išnagrinėti ir priimti nutartį dėl skundo ne vėliau kaip per 7 dienas nuo skundo gavimo šiame teisme dienos. Lietuvos apeliacinio teismo nutartis įsigalioja jos priėmimo dieną ir yra neskundžiama.
 
-3. Privatūs juridiniai asmenys informaciją, kuri kaupiama, saugoma ir (ar) tvarkoma jų duomenų bazėse, žvalgybos institucijoms teikia pagal atskiras sutartis.
+3. Privatūs juridiniai asmenys, Lietuvos Respublikoje įsteigtų užsienio valstybių juridinių asmenų filialai ir atstovybės, valstybės įgalioti asmenys informaciją, kuri kaupiama, saugoma ir (ar) tvarkoma jų informacinėse sistemose, registruose ar duomenų bazėse, žvalgybos institucijoms teikia pagal prašymą ir (arba) atskiras sutartis. Kai būtina užtikrinti žvalgybos institucijų veiklos saugumą ir tai nurodoma prašyme, privatūs juridiniai asmenys, Lietuvos Respublikoje įsteigtų užsienio valstybių juridinių asmenų filialai ir atstovybės, valstybės įgalioti asmenys teikia jų tvarkomų informacinių sistemų, registrų ar duomenų bazių nuolat atnaujinamą išrašą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 16 straipsnis. Žvalgybos informacijos tvarkymas
 
@@ -345,7 +441,11 @@ Straipsnio dalies naikinimas:
 
 Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
 
-4. Žvalgybos informacija tvarkoma žvalgybos institucijos vadovo nustatyta tvarka.
+4. Žvalgybos informacija tvarkoma žvalgybos institucijos vadovo nustatyta tvarka ir saugoma tiek, kiek to reikia žvalgybos ir kontržvalgybos uždaviniams vykdyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 17 straipsnis. Žvalgybos informacijos naudojimas
 
@@ -375,15 +475,29 @@ Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
 
 1) Lietuvos Respublikos nacionalinį saugumą užtikrinančioms institucijoms ir kitoms valstybės institucijoms pagal Valstybės gynimo tarybos patvirtintus žvalgybos informacijos poreikius ir prioritetus;
 
-2) Lietuvos Respublikos nacionalinį saugumą užtikrinančioms institucijoms ir kitoms valstybės institucijoms apie rizikos veiksnius, pavojus ir grėsmes, kurie nebuvo įtraukti į Valstybės gynimo tarybos patvirtintus poreikius ir prioritetus, tačiau gali turėti reikšmės valstybės suverenitetui, teritorijos neliečiamybei ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ir ekonominei galiai užtikrinti ir Lietuvos Respublikos užsienio politikai įgyvendinti;
+2) Lietuvos Respublikos nacionalinį saugumą užtikrinančioms institucijoms ir kitoms valstybės institucijoms apie rizikos veiksnius, pavojus ir grėsmes, kurie nebuvo įtraukti į Valstybės gynimo tarybos tvirtinamus žvalgybos informacijos poreikius ir prioritetus, tačiau gali turėti reikšmės valstybės suverenitetui, teritorijos neliečiamybei ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ir ekonominei galiai užtikrinti ir Lietuvos Respublikos užsienio politikai įgyvendinti;
 
-3) Lietuvos Respublikos teisėsaugos institucijoms kriminalinės žvalgybos tyrimui arba baudžiamajam procesui pradėti.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+3) Lietuvos Respublikos teisėsaugos institucijoms kriminalinės žvalgybos tyrimui arba baudžiamajam procesui pradėti;
+
+4) tarptautinėms organizacijoms ir institucijoms, užsienio valstybių kompetentingoms institucijoms, jeigu tokios informacijos pateikimas reikalingas tų institucijų funkcijoms atlikti ir tai atitinka Lietuvos Respublikos nacionalinio saugumo interesus.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 3. Pagal atskirus prašymus žvalgybos institucijos turi teisę teikti žvalgybos informaciją:
 
 1) Lietuvos Respublikos nacionalinį saugumą užtikrinančioms ir kitoms valstybės institucijoms, jeigu prašoma informacija yra susijusi su jų tiesioginėmis funkcijomis ir gali būti reikšminga šių institucijų veiklai;
 
-2) tarptautinėms organizacijoms ir institucijoms, užsienio valstybių kompetentingoms institucijoms, jeigu tokios informacijos pateikimo galimybė numatyta tarptautinėse sutartyse ar susitarimuose;
+2) tarptautinėms organizacijoms ir institucijoms, užsienio valstybių kompetentingoms institucijoms, jeigu tokios informacijos pateikimas reikalingas tų institucijų funkcijoms atlikti ir tai atitinka Lietuvos Respublikos nacionalinio saugumo interesus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 3) žvalgybos institucijų kontrolę vykdančioms institucijoms, jeigu joms teisės aktuose nustatytoms funkcijoms atlikti ar sprendimams priimti nepakanka pateiktos kitos informacijos.
 
@@ -397,7 +511,11 @@ Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
 
 3) tai padarytų žalos žvalgybos institucijos veiklai.
 
-6. Apie sprendimą neteikti informacijos žvalgybos institucijų vadovai turi nedelsdami informuoti valstybės institucijas, kurioms žvalgybos institucijos yra atskaitingos.
+6. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 PENKTASIS SKIRSNIS
 
@@ -433,19 +551,23 @@ Nr. XII-2382, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14743
 
 21 straipsnis. Žvalgybos institucijų parlamentinė kontrolė
 
-1. Žvalgybos institucijų parlamentinę kontrolę Seimo statuto nustatyta tvarka atlieka Seimo statute nurodytas Seimo komitetas.
+1. Žvalgybos institucijų parlamentinę kontrolę Lietuvos Respublikos Seimo statuto nustatyta tvarka atlieka Seimo statute nurodytas Seimo komitetas.
 
-2. Seimo komitetas:
+2. Žvalgybos institucijos vadovas Seimo komitetui kiekvienais metais Seimo statuto nustatyta tvarka pateikia vadovaujamos žvalgybos institucijos veiklos ataskaitą.
 
-1) kontroliuoja, kaip žvalgybos institucijos ir žvalgybos pareigūnai įgyvendindami pavestus uždavinius laikosi Lietuvos Respublikos įstatymų ir kitų teisės aktų;
+3. Seimo komitetas:
+
+1) kontroliuoja, kaip žvalgybos institucijos ir žvalgybos pareigūnai, įgyvendindami pavestus uždavinius, laikosi Lietuvos Respublikos įstatymų ir kitų teisės aktų;
 
 2) nagrinėja asmenų skundus dėl žvalgybos institucijų ir žvalgybos pareigūnų veiksmų;
 
 3) rengia siūlymus dėl teisės aktų, susijusių su žvalgybos institucijų veikla ir žmogaus teisių apsauga vykdant žvalgybą ir kontržvalgybą, tobulinimo;
 
-4) nustato žvalgybos institucijų veiklos trūkumus ir teikia rekomendacijas dėl jų šalinimo.
+4) nustato žvalgybos institucijų veiklos trūkumus ir teikia rekomendacijas dėl jų šalinimo;
 
-3. Seimo komitetas turi teisę gauti ir svarstyti:
+5) susipažinęs su žvalgybos institucijos vadovo pateikta žvalgybos institucijos veiklos ataskaita, sprendžia dėl neįslaptintos veiklos ataskaitos dalies ir grėsmių nacionaliniam saugumui vertinimo viešo pristatymo visuomenei sąlygų ir tvarkos.
+
+4. Seimo komitetas turi teisę gauti ir svarstyti:
 
 1) žvalgybos informacijos poreikius;
 
@@ -457,9 +579,11 @@ Nr. XII-2382, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14743
 
 5) kitą informaciją žvalgybos institucijų veiklos klausimais.
 
-4. Žvalgybos institucijos vadovas kiekvienais metais Seimo statuto nustatyta tvarka pateikia vadovaujamos žvalgybos institucijos veiklos ataskaitą.
-
 5. Žvalgybos pareigūnai turi teisę tiesiogiai kreiptis į Seimo komitetą dėl žvalgybos institucijos vykdomos veiklos.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 22 straipsnis. Žvalgybos institucijų vyriausybinė kontrolė
 
@@ -483,15 +607,15 @@ Nr. XIV-869, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26906
 
 24 straipsnis. Žvalgybos institucijų vidaus kontrolė
 
-1. Siekdamas užtikrinti žvalgybos institucijos veiklos teisėtumą, ekonomiškumą, efektyvumą, rezultatyvumą ir skaidrumą, žvalgybos institucijos vadovas, organizuodamas žvalgybos institucijos vidaus kontrolę vadovaujamoje institucijoje:
+1. Žvalgybos institucijos vadovas, siekdamas užtikrinti žvalgybos institucijos veiklos teisėtumą, ekonomiškumą, efektyvumą, rezultatyvumą ir skaidrumą, žmogaus teisių apsaugą ir organizuodamas žvalgybos institucijos vidaus kontrolę vadovaujamoje institucijoje:
 
-1) steigia sau tiesiogiai pavaldžius kontrolės padalinius, kurie, tikrindami ir vertindami žvalgybos institucijos veiklą, atlieka veiklos, valdymo, atitikties, informacinių sistemų ir kitus įvertinimus;
+1) steigia sau tiesiogiai pavaldžius kontrolės padalinius ar paskiria atsakingus žvalgybos pareigūnus, kurie, tikrindami ir vertindami žvalgybos institucijos veiklą, atlieka veiklos, valdymo, atitikties, žmogaus teisių apsaugos, informacinių sistemų ir kitus vertinimus;
 
-2) nustato valstybės biudžeto ir kitų lėšų, skirtų žvalgybos metodams taikyti, panaudojimo tvarką ir pagal savo kompetenciją leidžia kitus vidaus teisės aktus, reglamentuojančius vidaus kontrolę.
+2) nustato lėšų, skirtų žvalgybos metodams taikyti ir teismo sankcionuojamiems veiksmams atlikti, kai būtina užtikrinti žvalgybos institucijos veiklos metodų neskelbtinumą, panaudojimo tvarką ir pagal savo kompetenciją leidžia kitus vidaus teisės aktus, reglamentuojančius vidaus kontrolę.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 2. Žvalgybos institucijos Seimo komitetui du kartus per metus arba pagal atskirą šio komiteto reikalavimą teikia susistemintą statistinę informaciją apie vykdomos vidaus kontrolės rezultatus, taip pat atliekamus tarnybinius vidaus tyrimus, personalo administravimą, struktūrą ir kitą su vidaus kontrole susijusią informaciją.
 
@@ -503,7 +627,11 @@ Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 26 straipsnis. Informacijos apie žvalgybos institucijas teikimas visuomenei
 
-1. Žvalgybos institucijos kiekvienais metais skelbia neįslaptintas veiklos ataskaitas ir grėsmių nacionaliniam saugumui vertinimus pagal savo veiklos sritis.
+1. Žvalgybos institucijos kiekvienais metais skelbia grėsmių nacionaliniam saugumui vertinimus pagal savo veiklos sritis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 2. Kita informacija visuomenei ar atskiriems asmenims apie žvalgybos institucijų veiklą gali būti teikiama tik žvalgybos institucijos vadovo sprendimu.
 
@@ -545,15 +673,17 @@ Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 1) žvalgybos pareigūnai;
 
-2) asmenys, dirbantys pagal darbo sutartis.
+2) darbuotojai.
 
-2. Žvalgybos institucijos darbuotojų darbo sąlygas nustato Lietuvos Respublikos darbo kodeksas (toliau – Darbo kodeksas) ir kiti darbo santykius reglamentuojantys teisės aktai, jeigu šis įstatymas nenustato kitaip.
+2. Žvalgybos institucijos darbuotojų darbo sąlygas nustato Lietuvos Respublikos darbo kodeksas, Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas ir kiti darbo santykius reglamentuojantys teisės aktai, jeigu šis įstatymas nenustato kitaip.
 
-3. Antrajame operatyvinių tarnybų departamente tarnaujantys kariai turi Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme (toliau – Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas) nustatytą kario statusą. Jiems be išlygų taikomos šio įstatymo 32 ir 33 straipsnių, 34 straipsnio 4 dalies, 39, 40, 41, 48 ir 49 straipsnių, 50 straipsnio 6 dalies, 51 straipsnio 1 ir 2 dalių, 54 straipsnio 2 dalies ir 64 straipsnio nuostatos, o kitos šio įstatymo nuostatos profesinės karo tarnybos kariams (toliau – karys) taikomos tiek, kiek jų statuso nenustato profesinę karo tarnybą reglamentuojantys teisės aktai.
+3. Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos tarnaujantys kariai turi Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytą kario statusą. Jiems be išlygų taikomos šio įstatymo 31 straipsnio 5 dalies, 32 ir 33 straipsnių, 34 straipsnio 4 dalies, 39, 40, 41, 42, 46, 48, 50 ir 51 straipsnių, 54 straipsnio 2 dalies, 57, 64, 641 ir 65 straipsnių nuostatos, o kitos šio įstatymo nuostatos profesinės karo tarnybos kariams (toliau – karys) taikomos tiek, kiek jų statuso nenustato profesinę karo tarnybą reglamentuojantys teisės aktai.
 
-Straipsnio dalies pakeitimai:
+4. Duomenys, atskleidžiantys asmens priklausomybę žvalgybos institucijai, į valstybės informacines sistemas ir (ar) registrus žvalgybos institucijos vadovo sprendimu gali būti neteikiami, jeigu tokių duomenų tvarkymas atitinkamoje informacinėje sistemoje ar registre galėtų padaryti žalos žvalgybos institucijos veiklai.
 
-Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
+Straipsnio pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 30 straipsnis. Žvalgybos pareigūnų pareigybės
 
@@ -631,7 +761,11 @@ Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 2) direktoriaus pavaduotojus direktoriaus teikimu skiria ir atleidžia krašto apsaugos ministras.
 
-4. Žvalgybos institucijos direktoriumi ir direktoriaus pavaduotojais skiriami ne mažesnę kaip 5 metų vadovaujamo darbo patirtį turintys asmenys.
+4. Žvalgybos institucijos direktoriumi ir direktoriaus pavaduotojais skiriami ne mažesnę kaip 5 metų vadovaujamo darbo patirtį turintys asmenys ir atitinkantys šio įstatymo 32 straipsnio 2 dalies 1, 2, 4, 5, 6 punktų ir 4 dalies 3 punkto reikalavimus. Šio įstatymo 32 straipsnio 2 dalies 5 punkte nustatytas reikalavimas netaikomas skiriant asmenis į šio straipsnio 2 dalyje nurodytas pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 5. Žvalgybos institucijos direktorius ir jo pavaduotojai, taip pat valdybų viršininkai ir jų pavaduotojai skiriami 5 metų laikotarpiui. Į šias pareigas asmenys 5 metų laikotarpiui gali būti skiriami pakartotinai, tačiau tų pačių pareigų negali eiti ilgiau kaip 10 metų iš eilės.
 
@@ -645,11 +779,13 @@ Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 4) tvirtina žvalgybos institucijos struktūrinių padalinių nuostatus, žvalgybos pareigūnų ir darbuotojų pareiginius nuostatus;
 
-5) priima į tarnybą (darbą) ir atleidžia iš tarnybos (darbo) žvalgybos pareigūnus ir darbuotojus, informuoja žvalgybos pareigūnus apie jų tarnybos sąlygas, sprendžia jų perkėlimo į kitas pareigas, siuntimo į tarnybinę komandiruotę, nušalinimo nuo pareigų ir kitus klausimus, susijusius su jų teisiniu statusu ir tarnybos (darbo) eiga;
+5) priima į tarnybą (darbą) ir atleidžia iš tarnybos (darbo) žvalgybos pareigūnus ir darbuotojus, informuoja žvalgybos pareigūnus apie jų tarnybos sąlygas, sprendžia jų perkėlimo į kitas pareigas, nušalinimo nuo pareigų ir kitus klausimus, susijusius su jų teisiniu statusu ir tarnybos (darbo) eiga;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1194, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15185
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 6) žvalgybos pareigūnams suteikia tarnybinius rangus, išskyrus rangus, kuriuos suteikia Respublikos Prezidentas ar krašto apsaugos ministras;
 
@@ -663,6 +799,12 @@ Nr. XIV-1194, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15185
 
 8. Žvalgybos institucijos direktorius ir direktoriaus pavaduotojai gali būti atleisti iš pareigų šiame įstatyme numatytais žvalgybos pareigūnų atleidimo iš tarnybos pagrindais.
 
+9. Pasibaigus žvalgybos institucijos direktoriaus ar direktoriaus pavaduotojo paskyrimo į pareigas laikotarpiui, jie gali būti priimami į tarnybą žvalgybos institucijoje, netaikant šio įstatymo 32 straipsnio 2 dalies 3 punkte nustatytų amžiaus apribojimų ir šio įstatymo 34 straipsnio 1 dalyje numatytų atrankos procedūrų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
 SEPTINTASIS SKIRSNIS
 
 PRIĖMIMAS Į TARNYBĄ (DARBĄ) ŽVALGYBOS INSTITUCIJOJE
@@ -675,9 +817,17 @@ PRIĖMIMAS Į TARNYBĄ (DARBĄ) ŽVALGYBOS INSTITUCIJOJE
 
 1) būti Lietuvos Respublikos pilietis;
 
-2) būti nepriekaištingos reputacijos;
+2) būti nepriekaištingos reputacijos ir pagal savo asmenines, dalykines savybes tikti žvalgybos tarnybai;
 
-3) būti ne jaunesnis kaip 18 metų ir ne vyresnis kaip 50 metų (išskyrus asmenis, priimamus dirbti pagal darbo sutartį);
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+3) būti ne jaunesnis kaip 18 metų ir ne vyresnis kaip 55 metų (išskyrus asmenis, priimamus dirbti pagal darbo sutartį);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 4) turėti siekiamoms pareigoms nustatytą išsilavinimą;
 
@@ -705,17 +855,31 @@ Nr. XII-2382, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14743
 
 6) piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar kitomis psichiką veikiančiomis medžiagomis;
 
-7) jo elgesys ar veikla nėra suderinama su žvalgybos pareigūnų etikos kodekso reikalavimais.
+7) Neteko galios nuo 2024-01-01
 
-4. Asmenims, priimamiems į tarnybą (darbą) žvalgybos institucijoje, keliami šie išsilavinimo reikalavimai:
+Straipsnio punkto naikinimas:
 
-1) jaunesniesiems specialistams – ne žemesnis kaip vidurinis išsilavinimas;
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
-2) specialistams ir vyresniesiems specialistams – ne žemesnis kaip aukštasis koleginis, aukštesnysis arba iki 1995 metų įgytas specialusis vidurinis išsilavinimas;
+4. Asmenims, priimamiems į tarnybą žvalgybos institucijoje, keliami šie išsilavinimo reikalavimai:
 
-3) nuo vyriausiųjų specialistų iki direktoriaus – aukštasis universitetinis arba jam prilygintas išsilavinimas.
+1) jaunesniesiems specialistams ir specialistams – ne žemesnis kaip vidurinis išsilavinimas;
+
+2) vyresniesiems specialistams ir vyriausiesiems specialistams – ne žemesnis kaip aukštasis koleginis, iki 2009 metų įgytas aukštesnysis arba iki 1995 metų įgytas specialusis vidurinis išsilavinimas;
+
+3) nuo poskyrio viršininko iki direktoriaus – aukštasis universitetinis išsilavinimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 5. Žvalgybos institucijos vadovas tam tikroms žvalgybos pareigūnų pareigybėms gali nustatyti papildomus reikalavimus, susijusius su asmens išsilavinimu, užsienio kalbų mokėjimu, darbo patirtimi, intelektiniais, fiziniais ir praktiniais gebėjimais, moraliniu ir psichologiniu tinkamumu eiti žvalgybos pareigūno pareigas.
+
+6. Šio straipsnio 2 dalies 3 punkte nustatyti amžiaus apribojimai ir šio įstatymo 34 straipsnio 1 dalyje numatytos atrankos procedūros netaikomi žvalgybos pareigūnams, tarnavusiems pagal profesinės karo tarnybos sutartį ir nepertraukiamai tęsiantiems tarnybą pagal žvalgybos pareigūno tarnybos sutartį, taip pat buvusiems rezervo žvalgybos pareigūnams, priimamiems į tarnybą nepertraukiamai po jų išbraukimo iš žvalgybos pareigūnų rezervo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 33 straipsnis. Priėmimo į tarnybą (darbą) žvalgybos institucijoje apribojimai
 
@@ -849,7 +1013,11 @@ TARNYBOS ŽVALGYBOS INSTITUCIJOJE SĄLYGOS
 
 7) vykdyti ekonominę, ūkinę komercinę arba individualią veiklą;
 
-8) gauti pajamų iš nekilnojamojo ir kilnojamojo turto, piniginių lėšų, vertybinių popierių, pajų ir su jais susijusių sandorių, jeigu tai įgauna komercinį pobūdį;
+8) gauti pajamų iš nekilnojamojo ir kilnojamojo turto, piniginių lėšų, vertybinių popierių, pajų ir su jais susijusių sandorių, jeigu tai atliekama versliškai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 9) verstis žemės ūkio veikla ir miškininkyste;
 
@@ -869,11 +1037,19 @@ TARNYBOS ŽVALGYBOS INSTITUCIJOJE SĄLYGOS
 
 3. Žvalgybos pareigūnas žvalgybos institucijos vadovo pritarimu turi teisę:
 
-1) užsiimti kūrybine veikla, kurios rezultatams taikomas Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas, taip pat pedagogine veikla;
+1) užsiimti kūrybine veikla, kurios rezultatams taikomas Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas, taip pat pedagogine ar psichologo profesine veikla;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 2) dalyvauti asociacijų ir kitų nepolitinių susivienijimų veikloje.
 
-41 straipsnis. Žvalgybos pareigūnų veiklos garantijos
+41 straipsnis. Žvalgybos pareigūnų ir darbuotojų veiklos ir saugumo garantijos
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 1. Žvalgybos pareigūnai be žvalgybos institucijos vadovo sutikimo negali būti atvesdinti, sulaikyti, negali būti atliekama šių asmenų, jų daiktų, asmeninių ar tarnybinių transporto priemonių, patalpų krata ar apžiūra, išskyrus atvejus, kai žvalgybos pareigūnas sulaikomas darantis nusikalstamą veiką. Tokiu atveju žvalgybos pareigūną sulaikiusi institucija privalo ne vėliau kaip per 12 valandų apie tai pranešti žvalgybos institucijos vadovui ir generaliniam prokurorui.
 
@@ -883,7 +1059,11 @@ TARNYBOS ŽVALGYBOS INSTITUCIJOJE SĄLYGOS
 
 4. Valstybė rūpinasi žvalgybos pareigūnu ir jo šeimos nariais, nukentėjusiais dėl priežasčių, susijusių su tarnyba žvalgybos institucijoje, ir teikia jiems pagalbą. Valstybė atlygina žalą, padarytą žvalgybos pareigūnui ar jo šeimos nariui dėl priežasčių, susijusių su tarnyba žvalgybos institucijoje. Žalos atlyginimo tvarką nustato Vyriausybė.
 
-5. Žvalgybos pareigūnas teisminio nagrinėjimo procese gali dalyvauti tik kaip liudytojas, kuriam įstatymų nustatyta tvarka taikomas anonimiškumas arba dalinis anonimiškumas.
+5. Žvalgybos pareigūnui ikiteisminiame tyrime ir (ar) teisminio nagrinėjimo procese dalyvaujančiam liudytojo statusu dėl priežasčių, susijusių su žvalgybos pareigūno tarnybinių funkcijų atlikimu, įstatymų nustatyta tvarka taikomas anonimiškumas arba dalinis anonimiškumas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 6. Asmeniui, kuris būdamas žvalgybos pareigūnu ir vykdydamas tarnybines pareigas galimai padarė teisės pažeidimą dėl tarnybinės rizikos ribų viršijimo (dėl to yra įtariamas ar kaltinamas nusikalstamos veikos padarymu, jo atžvilgiu pareikštas ieškinys ar paduotas skundas (prašymas, pareiškimas), iš žvalgybos institucijos lėšų kompensuojamos teisinių paslaugų išlaidos ar jų dalis. Ši kompensacija skiriama žvalgybos institucijos vadovo nustatyta tvarka.
 
@@ -891,13 +1071,27 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1952, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00867
 
+7. Žvalgybos pareigūnų ir darbuotojų, jų šeimos narių ir jų nuosavybės apsauga, kai dėl žvalgybos pareigūno tarnybos ar darbuotojo darbo kyla reali grėsmė jų gyvybei, sveikatai, turtui ar kitoms konstitucinėms vertybėms, užtikrinama žvalgybos institucijos vadovo nustatyta tvarka iš žvalgybos institucijos lėšų. Žvalgybos institucijos vadovo sprendimu apsauga gali būti skiriama ir kitiems asmenims, per kuriuos tiesiogiai gali kilti grėsmė žvalgybos pareigūno ar darbuotojo saugumui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
 42 straipsnis. Žvalgybos pareigūnų tarnybinės veiklos vertinimas
 
 1. Žvalgybos pareigūnų tarnybinė veikla vertinama kas 12 mėnesių, taip pat tais atvejais, kai sprendžiama, ar žvalgybos pareigūnas tinka tarnybai žvalgybos institucijoje.
 
-2. Žvalgybos pareigūno tarnybinės veiklos vertinimo dokumente turi būti apibūdintos pareigūno asmeninės savybės, elgesys, kvalifikacija, gebėjimas atlikti jam nustatytas funkcijas, pateiktos išvados ir rekomendacijos.
+2. Žvalgybos pareigūno tarnybinės veiklos vertinimo dokumente turi būti apibūdinamas pareigūno elgesys, kvalifikacija, veiklos rezultatai, tinkamumas einamoms ir kitoms pareigoms, pateiktos išvados ir rekomendacijos.
 
-3. Žvalgybos pareigūno tarnybinę veiklą vertina jo tiesioginis viršininkas ir aukštesnysis viršininkas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+3. Žvalgybos pareigūno tarnybinę veiklą vertina jo tiesioginis vadovas ir aukštesnysis vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 4. Žvalgybos pareigūnas supažindinamas su vertinimo rezultatais ir ne vėliau kaip per 14 kalendorinių dienų turi teisę juos apskųsti.
 
@@ -915,21 +1109,35 @@ Nr. XIII-1952, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00867
 
 4. Pasiųstų mokytis ar tobulinti kvalifikacijos žvalgybos pareigūnų aprūpinimo sąlygas mokymosi ar kvalifikacijos tobulinimo laikotarpiu nustato Vyriausybė ar jos įgaliota institucija.
 
-5. Jeigu žvalgybos pareigūnas pašalinamas iš mokslo, mokymo ar kitos įstaigos, į kurią buvo siųstas mokytis ar tobulinti kvalifikacijos, arba nutraukia tarnybos sutartį prieš įsipareigotą tarnauti terminą, arba atleidžiamas iš tarnybos šio įstatymo 53 straipsnio 1, 2, 3, 4, 5, 7, 8, 9, 10 ir 11 punktuose nustatytais pagrindais, jis privalo atlyginti su jo mokymu ar kvalifikacijos tobulinimu susijusias 3 paskutinių tarnybos metų išlaidas. Išlaidos neatlyginamos, jeigu žvalgybos pareigūnas negali tęsti tarnybos dėl ligos ar netekto darbingumo arba dėl žvalgybos institucijos vadovo pripažintų svarbių ir nuo žvalgybos pareigūno valios nepriklausančių ir nepašalinamų priežasčių.
+5. Jeigu žvalgybos pareigūnas pašalinamas iš mokslo, mokymo ar kitos įstaigos, į kurią buvo siųstas mokytis ar tobulinti kvalifikacijos arba atleidžiamas iš tarnybos šio įstatymo 53 straipsnio 1, 2, 3, 4, 5, 7, 8, 9, 10 ir 11 punktuose nustatytais pagrindais, jis privalo atlyginti su jo mokymu ar kvalifikacijos tobulinimu susijusias 3 paskutinių tarnybos metų išlaidas, jas lygiomis dalimis mažinant proporcingai kiekvieniems po mokymo ar kvalifikacijos tobulinimo ištarnautiems žvalgybos institucijoje metams. Su mokymu ir kvalifikacijos tobulinimu susijusios išlaidos neatlyginamos, jeigu žvalgybos pareigūnas negali tęsti tarnybos dėl ligos ar netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) arba dėl žvalgybos institucijos vadovo pripažintų svarbių ir nuo žvalgybos pareigūno valios nepriklausančių ir nepašalinamų priežasčių. Atlygintinų su mokymu ir kvalifikacijos tobulinimu susijusių išlaidų sudėtį ir jų apskaičiavimo tvarką nustato Valstybės saugumo departamento direktorius ir krašto apsaugos ministras bendru įsakymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 44 straipsnis. Žvalgybos pareigūnų rezervas
 
-1. Žvalgybos institucijose sudaromas žvalgybos pareigūnų rezervas (toliau – rezervas). Į rezervą žvalgybos pareigūnai gali būti perkeliami, kai jie skiriami dirbti kitose Lietuvos, užsienio valstybių ar tarptautinėse institucijose, įstaigose, įmonėse, organizacijose, taip pat kai užsiima kita teisėta veikla ir atlieka atskiras žvalgybos institucijų tarnybines užduotis.
+1. Žvalgybos institucijose sudaromas žvalgybos pareigūnų rezervas (toliau – rezervas).
 
-2. Žvalgybos pareigūnams, esantiems rezerve, tarnybinis atlyginimas ir kitos su tarnybos santykiais susijusios išmokos nemokamos.
+2. Į rezervą žvalgybos pareigūnai su jų sutikimu gali būti įrašomi, atleidžiant juos iš tarnybos žvalgybos institucijoje. Į rezervą taip pat gali būti įrašomi asmenys, anksčiau tarnavę žvalgybos institucijoje.
 
-3. Žvalgybos pareigūno buvimo rezerve laikas įskaičiuojamas į tarnybos stažą.
+3. Asmenys, įrašyti į rezervą, yra laikomi rezervo žvalgybos pareigūnais.
 
-4. Žvalgybos pareigūnai rezerve nepertraukiamai gali būti ne ilgiau kaip 5 metus, o esant tarnybiniam būtinumui, šis terminas gali būti pratęstas, tačiau bendras buvimo rezerve laikas per visą tarnybos laiką negali viršyti 10 metų.
+4. Rezervo žvalgybos pareigūnams formuluojamos žvalgybos institucijų tarnybinės užduotys.
 
-5. Žvalgybos pareigūnas rezerve gali būti ne ilgiau, negu jam sukaks senatvės pensijos amžius.
+5. Rezervo žvalgybos pareigūnai iš rezervo išbraukiami, kai jiems nebeformuluojamos žvalgybos institucijų tarnybinės užduotys arba kai tokie asmenys jų nevykdo.
 
-6. Rezervo sudarymo tvarką nustato žvalgybos institucijos vadovas.
+6. Rezervo žvalgybos pareigūnams tarnybinis atlyginimas ir kitos su tarnybos santykiais susijusios išmokos nemokamos.
+
+7. Asmens buvimo rezerve laikas įskaičiuojamas į tarnybos stažą, kuris yra perskaičiuojamas išbraukus asmenį iš rezervo.
+
+8. Asmenys rezerve nepertraukiamai gali būti ne ilgiau kaip 5 metus, o esant tarnybiniam būtinumui, šis terminas gali būti pratęsiamas, tačiau bendras buvimo rezerve laikas negali viršyti 10 metų.
+
+9. Rezervo sudarymo tvarką nustato žvalgybos institucijos vadovas.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 45 straipsnis. Tarnybos žvalgybos institucijose laikas ir trukmė
 
@@ -937,7 +1145,11 @@ Nr. XIII-1952, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00867
 
 2. Atsižvelgdamas į žvalgybos institucijos poreikius ir žvalgybos pareigūno prašymą, žvalgybos institucijos vadovas gali pratęsti tarnybos laiką, iki žvalgybos pareigūnui sukaks senatvės pensijos amžius.
 
-3. Žvalgybos pareigūnų paros ir suminė savaitės tarnybos trukmė nėra apribota ir priklauso nuo tarnybos poreikių, tačiau garantuojama įstatymų nustatyta minimali paros ir minimali savaitės nepertraukiamo poilsio trukmė.
+3. Žvalgybos pareigūnų paros ir suminė savaitės tarnybos trukmė nėra apribota ir priklauso nuo tarnybos poreikių, tačiau garantuojama 11 valandų kasdienio nepertraukiamojo poilsio tarp darbo dienų trukmė ir 35 valandų nepertraukiamojo poilsio per 7 paeiliui einančių dienų laikotarpį trukmė, o jeigu žvalgybos pareigūno darbo dienos (pamainos) trukmė yra 24 valandos, – 24 valandų nepertraukiamojo poilsio tarp darbo dienų (pamainų) trukmė. Esant tarnybiniam būtinumui, kai reikia užtikrinti tarnybinių užduočių įvykdymą, žvalgybos pareigūnui gali būti pavesta vykdyti užduotis jam priklausančio nepertraukiamojo poilsio metu, už šį laiką kompensuojant laisvu nuo tarnybos laiku žvalgybos institucijos vadovo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 4. Žvalgybos pareigūnų tarnybos laiko apskaitos tvarką nustato žvalgybos institucijos vadovas.
 
@@ -955,7 +1167,11 @@ Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 1. Žvalgybos pareigūnai teisės aktų nustatyta tvarka turtą, pajamas ir privačius interesus deklaruoja žvalgybos institucijoje. Turto, pajamų ir privačių interesų deklaracijos saugomos žvalgybos institucijoje.
 
-2. Žvalgybos institucijos vadovybės deklaracijų duomenys skelbiami viešai.
+2. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 3. Turto, pajamų ir privačių interesų deklaracijos pildomos, tikrinamos ir saugomos įstatymų ir kitų teisės aktų nustatyta tvarka.
 
@@ -989,7 +1205,11 @@ Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
 
 5. Kai nėra neišvengiamo pavojaus žvalgybos pareigūnų ar kitų asmenų gyvybei ar sveikatai, fizinę prievartą naudoti draudžiama:
 
-1) prieš asmenis, jeigu akivaizdu, kad jie neįgalūs;
+1) prieš asmenis, jeigu akivaizdu, kad jie yra asmenys su negalia;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 2) prieš moteris, jeigu akivaizdu, kad jos nėščios;
 
@@ -1019,7 +1239,11 @@ Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
 
 4) sulaikydamas transporto priemonę vairuojantį asmenį, jeigu jos vairuotojas savo veiksmais sudaro neišvengiamą pavojų žvalgybos pareigūno arba kito asmens gyvybei.
 
-3. Žvalgybos pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti tarnybinį šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jeigu kyla neišvengiamas pavojus žvalgybos pareigūno ar kitų asmenų gyvybei ar sveikatai.
+3. Žvalgybos pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti tarnybinį šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jeigu kyla neišvengiamas pavojus žvalgybos pareigūno ar kitų asmenų gyvybei ar sveikatai, taip pat prieš bepilotį orlaivį, jeigu jo skrydis vykdomas nepaisant šio įstatymo 5 straipsnio 3 dalyje nustatyto draudimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 4. Žvalgybos pareigūnas, ketindamas naudoti tarnybinį šaunamąjį ginklą, privalo įspėti apie tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia neišvengiamą pavojų žvalgybos pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
 
@@ -1045,43 +1269,41 @@ DEŠIMTASIS SKIRSNIS
 
 50 straipsnis. Žvalgybos pareigūnų perkėlimas į kitas pareigas
 
-1. Žvalgybos pareigūnai žvalgybos institucijos vadovo sprendimu gali būti perkeliami į lygiavertes pareigas bet kuriame žvalgybos institucijos padalinyje. Tokiam perkėlimui žvalgybos pareigūno sutikimas nebūtinas.
+1. Kai yra tarnybinė būtinybė, žvalgybos pareigūnai žvalgybos institucijos vadovo sprendimu gali būti perkeliami į lygiavertes pareigas bet kuriame žvalgybos institucijos padalinyje. Tokiam perkėlimui žvalgybos pareigūno sutikimas nebūtinas, išskyrus atvejus, kai pareigoms, į kurias perkeliamas žvalgybos pareigūnas, nustatytas mažesnis pareiginės algos koeficientas.
 
 2. Žvalgybos pareigūnai į aukštesnes pareigas gali būti perkeliami:
 
-1) žvalgybos pareigūno sutikimu;
+1) pačių prašymu ar sutikimu;
 
-2) kai žvalgybos pareigūno tarnybinė veikla įvertinta teigiamai ir priimamas sprendimas perkelti jį į aukštesnes pareigas.
+2) kai žvalgybos pareigūno tarnybinė veikla įvertinta labai gerai arba gerai ir esant žvalgybos pareigūno sutikimui būti perkeliamam į aukštesnes pareigas.
 
-3. Žvalgybos pareigūnai į žemesnes pareigas gali būti perkeliami:
+3. Žvalgybos pareigūnai į žemesnes pareigas ir lygiavertes pareigas, kurioms nustatytas mažesnis pareiginės algos koeficientas, gali būti perkeliami:
 
 1) pačių prašymu ar sutikimu;
 
-2) dėl žvalgybos institucijos struktūrinių pertvarkymų, jeigu nėra galimybės perkelti į kitas pareigas;
+2) dėl žvalgybos institucijos struktūros pertvarkos, jeigu nėra galimybės perkelti į kitas pareigas ir esant žvalgybos pareigūno sutikimui būti perkeliamam į žemesnes pareigas ar lygiavertes pareigas, kurioms nustatytas mažesnis pareiginės algos koeficientas;
 
 3) dėl sveikatos būklės, jeigu nėra galimybės perkelti į kitas pareigas;
 
-4) jeigu įvertinus žvalgybos pareigūno tarnybinę veiklą neigiamai, priimamas sprendimas perkelti jį į žemesnes pareigas.
+4) jeigu įvertinus žvalgybos pareigūno tarnybinę veiklą patenkinamai arba nepatenkinamai, priimamas sprendimas perkelti jį į žemesnes pareigas ar lygiavertes pareigas, kurioms nustatytas mažesnis pareiginės algos koeficientas;
+
+5) pasibaigus valdybos viršininko ar valdybos viršininko pavaduotojo paskyrimo į pareigas laikotarpiui ir esant žvalgybos pareigūno sutikimui būti perkeliamam į žemesnes pareigas;
+
+6) kai skiriama šio įstatymo 58 straipsnio 5 punkte nustatyta tarnybinė nuobauda.
 
 4. Žvalgybos pareigūnai gali būti perkeliami iš vienos žvalgybos institucijos į kitą šių institucijų vadovų susitarimu. Tokiam perkėlimui būtinas žvalgybos pareigūno sutikimas.
 
-5. Atsižvelgiant į atitinkamų specialistų poreikį, žvalgybos pareigūnai žvalgybos institucijos vadovo įsakymu gali būti laikinai perkelti tarnauti į Lietuvos Respublikos diplomatines atstovybes, konsulines įstaigas ir atstovybes prie tarptautinių organizacijų ar specialiąsias misijas, į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas, taip pat į užsienio valstybių ar tarptautines karines ar gynybos institucijas, tarptautinių operacijų karinius vienetus.
+5. Atsižvelgiant į reikiamų specialistų poreikį, žvalgybos pareigūnai jų rašytiniu sutikimu žvalgybos institucijos vadovo įsakymu gali būti laikinai, laikotarpiui iki 3 metų, perkelti tarnauti į Lietuvos Respublikos diplomatines atstovybes, konsulines įstaigas ir atstovybes prie tarptautinių organizacijų ar specialiąsias misijas, į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas, taip pat į užsienio valstybių ar tarptautines karines ar gynybos institucijas. Kai yra tarnybinė būtinybė, šis terminas žvalgybos institucijos vadovo sprendimu gali būti pratęsiamas iki 3 metų. Žvalgybos pareigūnams tarnybos užsienyje laikotarpiu taikomas šio įstatymo 641 straipsnyje nustatytas aprūpinimas.
 
-Straipsnio dalies pakeitimai:
+6. Antrojo operatyvinių tarnybų departamento žvalgybos pareigūnai Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka gali būti siunčiami į tarptautines operacijas. Žvalgybos pareigūnai, siunčiami dalyvauti tarptautinėse operacijose, pasirengti dalyvauti tarptautinėse operacijose, taip pat vykdyti tarnybinių užduočių tarptautinės operacijos vietovėje, aprūpinami Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytomis sąlygomis ir tvarka.
 
-Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
+7. Kai yra tarnybinė būtinybė ir kai valstybės ar savivaldybių institucijų ar įstaigų vadovai šį klausimą suderina, žvalgybos institucijos vadovo įsakymu žvalgybos pareigūnas jo rašytiniu sutikimu gali būti laikinai perkeltas iš žvalgybos institucijos į karjeros valstybės tarnautojo pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu žvalgybos pareigūnas atitinka Lietuvos Respublikos valstybės tarnybos įstatyme nustatytus priėmimo į valstybės tarnautojo pareigas bendruosius reikalavimus ir pareigybės, į kurią jis perkeliamas, aprašyme nustatytus specialiuosius reikalavimus, laikotarpiui iki 3 metų. Kai yra tarnybinė būtinybė, šis terminas, valstybės ar savivaldybės institucijų ar įstaigų vadovams suderinus, gali būti pratęsiamas iki 2 metų. Perkėlimo laikotarpiu valstybės ar savivaldybės institucija ar įstaiga, į kurią žvalgybos pareigūnas perkeltas, moka žvalgybos pareigūnui ne mažesnį negu šiame įstatyme nustatytą tarnybinį atlyginimą, skaičiuojamą pagal iki perkėlimo eitoms žvalgybos pareigūno pareigoms nustatytą pareiginės algos koeficientą.
 
-Nr. XIII-2349, 2019-07-16, paskelbta TAR 2019-07-31, i. k. 2019-12633
+8. Žvalgybos pareigūno laikino perkėlimo į šio straipsnio 5, 6 ir 7 dalyse nurodytas pareigas ar tarnybą laikas įskaitomas į žvalgybos pareigūno tarnybos stažą. Perkėlimo laikotarpiu jam paliekamas iki perkėlimo turėtas kario laipsnis ar tarnybinis rangas, taikomi visi šiame įstatyme žvalgybos pareigūnams nustatyti draudimai, apribojimai ir garantijos, o pasibaigus jo perkėlimo laikotarpiui, garantuojamos eitos arba kitos lygiavertės žvalgybos pareigūno pareigos, o jeigu tokios galimybės nėra, kitos žemesnės žvalgybos pareigūno pareigos.
 
-6. Kai yra tarnybinė būtinybė ir kai valstybės ar savivaldybių institucijų ar įstaigų vadovai šį klausimą suderina, žvalgybos institucijos vadovo įsakymu žvalgybos pareigūnas jo rašytiniu sutikimu gali būti laikinai perkeltas iš žvalgybos institucijos į karjeros valstybės tarnautojo pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu žvalgybos pareigūnas atitinka Valstybės tarnybos įstatyme nustatytus priėmimo į valstybės tarnautojo pareigas bendruosius reikalavimus ir pareigybės, į kurią jis perkeliamas, aprašyme nustatytus specialiuosius reikalavimus, laikotarpiui iki 3 metų. Kai yra tarnybinė būtinybė, šis terminas, valstybės ar savivaldybės institucijų ar įstaigų vadovams suderinus, gali būti pratęstas iki 2 metų. Žvalgybos pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas laikas įskaitomas į žvalgybos pareigūno tarnybos stažą. Laikinai į karjeros valstybės tarnautojo pareigas perkeltam žvalgybos pareigūnui paliekamas iki perkėlimo turėtas karinis laipsnis ar tarnybinis rangas. Perkėlimo laikotarpiu valstybės ar savivaldybės institucija ar įstaiga, į kurią žvalgybos pareigūnas perkeltas, moka žvalgybos pareigūnui ne mažesnį negu šiame įstatyme nustatytą tarnybinį atlyginimą, skaičiuojamą pagal iki perkėlimo eitoms žvalgybos pareigūno pareigoms nustatytą pareiginės algos koeficientą, taip pat taiko visas šiame įstatyme žvalgybos pareigūnams nustatytas garantijas. Laikinai į karjeros valstybės tarnautojo pareigas perkeltam žvalgybos pareigūnui taikomi visi šiame įstatyme žvalgybos pareigūnams nustatyti draudimai, apribojimai, o pasibaigus jo perkėlimo laikotarpiui, garantuojamos eitos arba kitos lygiavertės žvalgybos pareigūno pareigos.
+Straipsnio pakeitimai:
 
-Papildyta straipsnio dalimi:
-
-Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 51 straipsnis. Laikinas pavedimas atlikti kitas pareigas
 
@@ -1151,15 +1373,47 @@ Nr. XII-2526, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20284
 
 12) kai paaiškėja, kad jis negali atlikti pareigų dėl sveikatos būklės esant medicinos išvadai, ir nėra galimybės perkelti jį į kitas jo sveikatos būklę atitinkančias pareigas;
 
-13) kai jis yra laikinai nedarbingas daugiau kaip 120 kalendorinių dienų iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutinius 12 mėnesių, jeigu įstatymų nenustatyta, kad tam tikros ligos atveju pareigos paliekamos ilgesnį laiką, ir jeigu neatvykimas į tarnybą nesusijęs su sveikatos sutrikdymu, atsiradusiu einant tarnybines pareigas ar dėl tarnybos;
+13) žvalgybos institucijos vadovo valia, kai jis yra laikinai nedarbingas daugiau kaip 120 kalendorinių dienų iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutinius 12 mėnesių ir jeigu laikinasis nedarbingumas nesusijęs su sveikatos sutrikdymu, atsiradusiu einant tarnybines pareigas ar dėl tarnybos;
 
-14) kai panaikinama pareigybė dėl žvalgybos institucijos likvidavimo, reorganizavimo ar dėl tarnybos organizavimo pakeitimų ir nėra laisvų jo kvalifikaciją atitinkančių pareigų arba jis atsisako būti perkeltas į kitas pareigas;
+Straipsnio punkto pakeitimai:
 
-15) kai jis sulaukia šio įstatymo 45 straipsnio 1 dalyje nustatyto amžiaus ir jo tarnyba nebuvo pratęsta arba baigėsi tarnybos pratęsimo laikas;
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
-16) šalių susitarimu;
+14) kai panaikinama pareigybė dėl žvalgybos institucijos likvidavimo;
 
-17) pasibaigus šio įstatymo 31 straipsnio 5 dalyje nurodytam skyrimo į pareigas laikotarpiui.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+15) kai panaikinama pareigybė dėl žvalgybos institucijos struktūros pertvarkos ir nėra laisvų jo kvalifikaciją atitinkančių pareigų arba jis atsisako būti perkeltas į kitas pareigas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+16) kai jis sulaukia šio įstatymo 45 straipsnio 1 dalyje nustatyto amžiaus ir jo tarnyba nebuvo pratęsta arba baigėsi tarnybos pratęsimo laikas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+17) šalių susitarimu;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+18) pasibaigus šio įstatymo 31 straipsnio 5 dalyje nurodytam paskyrimo į valdybos viršininko ar viršininko pavaduotojo pareigas laikotarpiui ir jeigu jis atsisakė būti perkeltas į žemesnes pareigas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+19) pasibaigus šio įstatymo 31 straipsnio 5 dalyje nurodytam paskyrimo į žvalgybos institucijos direktoriaus ar direktoriaus pavaduotojo pareigas laikotarpiui.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 54 straipsnis. Žvalgybos pareigūnų atleidimo iš tarnybos tvarka ir sąlygos
 
@@ -1167,13 +1421,25 @@ Nr. XII-2526, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20284
 
 2. Atleidžiamas iš tarnybos žvalgybos pareigūnas privalo ne vėliau kaip atleidimo dieną grąžinti tarnybinį ginklą, tarnybinį pažymėjimą, tarnybinį ženklą, dokumentus ir kitas darbo priemones, kurias jis gavo tarnaudamas žvalgybos institucijoje.
 
-3. Žvalgybos pareigūnas šio įstatymo 53 straipsnio 14 punkte nustatytu pagrindu iš tarnybos atleidžiamas ir tarnybos sutartis su juo nutraukiama, apie tai jį įspėjus ne vėliau kaip prieš 2 mėnesius. Nėščiai moteriai (kai žvalgybos institucija likviduojama), moteriai ar vyrui, vieniems auginantiems vaiką (vaikus) iki 14 metų, asmeniui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešama raštu prieš 4 mėnesius.
+3. Žvalgybos pareigūnas šio įstatymo 53 straipsnio 14 ir 15 punktuose nustatytais pagrindais iš tarnybos atleidžiamas ir tarnybos sutartis su juo nutraukiama, apie tai jį įspėjus ne vėliau kaip prieš 2 mėnesius. Nėščiai moteriai (kai žvalgybos institucija likviduojama), moteriai ar vyrui, vieniems auginantiems vaiką (vaikus) iki 14 metų, asmeniui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešama raštu prieš 4 mėnesius.
 
-4. Žvalgybos pareigūnas šio įstatymo 53 straipsnio 14 punkte nustatytu pagrindu iš tarnybos negali būti atleidžiamas jo laikinojo nedarbingumo laikotarpiu, jeigu laikinojo nedarbingumo laikotarpis ne ilgesnis kaip 120 kalendorinių dienų iš eilės.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+4. Žvalgybos pareigūnas šio įstatymo 53 straipsnio 15 punkte nustatytu pagrindu iš tarnybos negali būti atleidžiamas jo laikinojo nedarbingumo laikotarpiu, jeigu laikinojo nedarbingumo laikotarpis ne ilgesnis kaip 120 kalendorinių dienų iš eilės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 5. Negalima atleisti iš tarnybos žvalgybos institucijoje nėščios moters, taip pat motinos arba tėvo, auginančių vaiką iki 3 metų, jeigu nėra jų kaltės (išskyrus atvejus, kai žvalgybos institucija likviduojama).
 
-6. Šio įstatymo 53 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15 ir 16 punktuose numatytais pagrindais žvalgybos pareigūnas gali būti atleidžiamas iš tarnybos jo atostogų ar laikinojo nedarbingumo laikotarpiu.
+6. Šio įstatymo 53 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18 ir 19 punktuose numatytais pagrindais žvalgybos pareigūnas gali būti atleidžiamas iš tarnybos jo atostogų ar laikinojo nedarbingumo laikotarpiu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 7. Mirę, įstatymų nustatyta tvarka paskelbti mirusiais, pripažinti nežinia kur esančiais žvalgybos pareigūnai išbraukiami iš žvalgybos pareigūnų sąrašų žvalgybos institucijos vadovo įsakymu.
 
@@ -1233,7 +1499,17 @@ Už tarnybinius nusižengimus žvalgybos pareigūnams skiriamos šios tarnybinė
 
 4) tarnybinio atlyginimo sumažinimas;
 
-5) atleidimas iš tarnybos.
+5) perkėlimas į žemesnes pareigas ar lygiavertes pareigas, kurioms nustatytas mažesnis pareiginės algos koeficientas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+6) atleidimas iš tarnybos.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 59 straipsnis. Tarnybiniai nusižengimai
 
@@ -1247,7 +1523,11 @@ Už tarnybinius nusižengimus žvalgybos pareigūnams skiriamos šios tarnybinė
 
 1) tyčinė žvalgybos pareigūno veika (veikimas ar neveikimas), kai tarnybinė padėtis naudojama ne tarnybos interesais arba ne pagal įstatymus ar kitus teisės aktus, arba savanaudiškais tikslais (neteisėtai pasisavinamas ar kitiems perleidžiamas svetimas turtas, lėšos ir t. t.) ar dėl kitokių asmeninių paskatų (keršto, pavydo, neteisėtų paslaugų teikimo ir t. t.), taip pat žvalgybos pareigūno veiksmai, kuriais viršijami suteikti įgaliojimai ar savivaliaujama (piktnaudžiavimas tarnyba), jeigu nėra nusikalstamos veikos požymių;
 
-2) tyčinis ar neatsargus tarnybinių pareigų, numatytų pareiginiuose nuostatuose, neatlikimas ar netinkamas atlikimas, taip pat teisėtu įsakymu ar pavedimu duotos užduoties neįvykdymas ar netinkamas įvykdymas, jeigu nėra nusikalstamos veikos požymių (tarnybinių pareigų neatlikimas);
+2) tyčinis tarnybinių pareigų, numatytų pareiginiuose nuostatuose, neatlikimas ar netinkamas atlikimas, taip pat teisėtu įsakymu ar pavedimu duotos užduoties neįvykdymas ar netinkamas įvykdymas, jeigu nėra nusikalstamos veikos požymių (tarnybinių pareigų neatlikimas);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 3) tyčinė ar neatsargi veika, vykdant neteisėtą užduotį ar pavedimą (neteisėtos užduoties vykdymas). Žvalgybos pareigūnas, pradėdamas ar pradėjęs vykdyti įsakymą ar užduotį, kurių teisėtumu abejoja, darbo reglamente ar vidaus tvarkos taisyklėse nustatyta tvarka informavęs aukštesnįjį, negu davusį įsakymą ar pavedimą, vadovą ar žvalgybos institucijos vadovą apie pradedamą vykdyti ar vykdomą pavedimą, nuo atsakomybės atleidžiamas, jeigu jo veikoje nėra nusikalstamos veikos požymių;
 
@@ -1261,7 +1541,11 @@ Už tarnybinius nusižengimus žvalgybos pareigūnams skiriamos šios tarnybinė
 
 8) melagingo paaiškinimo dėl tarnybinio nusižengimo davimas, taip pat vertimas duoti melagingą paaiškinimą;
 
-9) tyčinė ar neatsargi veika, kuria pažeidžiamos visuotinai pripažintos dorovės, moralės ir etikos normos, vidaus darbo tvarka ar naudojimosi daiktais, įrankiais ar įrenginiais taisyklės, padariusi žvalgybos institucijai turtinę žalą, jeigu joje nėra nusikalstamos veikos požymių (turtinės žalos padarymas).
+9) tyčinė veika, kuria pažeidžiamos vidaus tvarka ir naudojimosi daiktais, įrankiais ar įrenginiais taisyklės, padariusi žvalgybos institucijai turtinę žalą, jeigu joje nėra nusikalstamos veikos požymių (turtinės žalos padarymas).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 3. Už šiurkščius tarnybinius nusižengimus gali būti skiriamos šios tarnybinės nuobaudos:
 
@@ -1269,11 +1553,25 @@ Už tarnybinius nusižengimus žvalgybos pareigūnams skiriamos šios tarnybinė
 
 2) tarnybinio atlyginimo sumažinimas;
 
-3) atleidimas iš tarnybos.
+3) perkėlimas į žemesnes pareigas ar lygiavertes pareigas, kurioms nustatytas mažesnis pareiginės algos koeficientas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+4) atleidimas iš tarnybos.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 4. Atleidimas iš tarnybos gali būti skiriamas ir už vieną šiurkštų tarnybinį nusižengimą.
 
-5. Kiti tarnybiniai nusižengimai – vidaus administravimo tvarkos pažeidimai, jeigu juose nėra šiurkščių tarnybinių nusižengimų požymių.
+5. Kiti tarnybiniai nusižengimai – pakartotiniai žvalgybos pareigūnų etikos kodekso reikalavimų pažeidimai, šiame įstatyme ir kituose teisės aktuose nustatytos tarnybos tvarkos pažeidimai, jeigu juose nėra šiurkščių tarnybinių nusižengimų požymių, taip pat neatsargus tarnybinių pareigų, numatytų pareiginiuose nuostatuose, neatlikimas ar netinkamas atlikimas, teisėtu įsakymu ar pavedimu duotos užduoties neįvykdymas ar netinkamas įvykdymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 6. Už kitus tarnybinius nusižengimus skiriamos šios tarnybinės nuobaudos:
 
@@ -1327,7 +1625,11 @@ Už tarnybinius nusižengimus žvalgybos pareigūnams skiriamos šios tarnybinė
 
 5. Kai paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos požymių, tarnybinis patikrinimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama institucijai, kompetentingai tirti atitinkamas nusikalstamas veikas. Jeigu atsisakoma pradėti baudžiamąjį procesą ar asmuo atleidžiamas nuo baudžiamosios atsakomybės, tarnybinis patikrinimas tęsiamas šiame straipsnyje nustatyta tvarka.
 
-6. Tarnybinė nuobauda turi būti paskiriama ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį žvalgybos pareigūnas nebuvo tarnyboje dėl laikinojo nedarbingumo arba dėl atostogų.
+6. Tarnybinė nuobauda turi būti paskiriama ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį žvalgybos pareigūnas nebuvo tarnyboje dėl laikinojo nedarbingumo arba dėl atostogų. Tarnybinė nuobauda neskiriama, jeigu nuo tarnybinio nusižengimo padarymo dienos praėjo 3 metai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 7. Pradėjus tarnybinio nusižengimo tyrimą, reikalaujama, kad žvalgybos pareigūnas raštu pateiktų paaiškinimą. Tarnybinio nusižengimo tyrimo procedūra tęsiama ir pareigūnui atsisakius pateikti paaiškinimą.
 
@@ -1347,15 +1649,41 @@ Už tarnybinius nusižengimus žvalgybos pareigūnams skiriamos šios tarnybinė
 
 11. Tarnybinis atlyginimas gali būti sumažinamas ne daugiau kaip trečdaliu ir ne ilgiau kaip 3 mėnesiams. Tarnybinio atlyginimo sumažinimo dydį ir terminą nustato žvalgybos institucijos vadovas skirdamas tarnybinę nuobaudą.
 
-12. Žvalgybos pareigūnas laikomas nebaustu tarnybine nuobauda, kai po nuobaudos už tarnybinį nusižengimą (išskyrus atleidimą iš tarnybos) skyrimo praėjo vieni metai.
+12. Pasibaigus tarnybinės nuobaudos – perkėlimo į žemesnes pareigas ar lygiavertes pareigas, kurioms nustatytas mažesnis pareiginės algos koeficientas, – galiojimo terminui, žvalgybos pareigūnas į aukštesnes ar lygiavertes pareigas, kurioms nustatytas didesnis pareiginės algos koeficientas, perkeliamas šio įstatymo nustatyta tvarka.
 
-13. Tarnybinė nuobauda gali būti panaikinta anksčiau, negu sueis šio straipsnio 12 dalyje nustatytas terminas, tačiau ne anksčiau negu praėjus 6 mėnesiams nuo jos paskyrimo.
+Papildyta straipsnio dalimi:
 
-14. Duomenys apie žvalgybos pareigūnui paskirtą tarnybinę nuobaudą įrašomi į jo asmens bylą.
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
-15. Tarnybinių nusižengimų tyrimo, tarnybinių nuobaudų skyrimo ir panaikinimo tvarką žvalgybos institucijos vadovas nustato įsakymu.
+13. Žvalgybos pareigūnas laikomas nebaustu tarnybine nuobauda, kai po nuobaudos už tarnybinį nusižengimą (išskyrus atleidimą iš tarnybos) skyrimo praėjo vieni metai.
 
-16. Sprendimas dėl tarnybinės nuobaudos paskyrimo gali būti skundžiamas Lietuvos Respublikos teisės aktų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+14. Tarnybinė nuobauda gali būti panaikinama anksčiau, negu sueina šio straipsnio 13 dalyje nustatytas terminas, tačiau ne anksčiau negu praėjus 6 mėnesiams nuo jos paskyrimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+15. Duomenys apie žvalgybos pareigūnui paskirtą tarnybinę nuobaudą įrašomi į jo asmens bylą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+16. Tarnybinių nusižengimų tyrimo, tarnybinių nuobaudų skyrimo ir panaikinimo tvarką žvalgybos institucijos vadovas nustato įsakymu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+17. Sprendimas dėl tarnybinės nuobaudos paskyrimo gali būti skundžiamas Lietuvos Respublikos teisės aktų nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 61 straipsnis. Žvalgybos pareigūnų materialinės atsakomybės sąlygos
 
@@ -1391,21 +1719,21 @@ DVYLIKTASIS SKIRSNIS
 
 62 straipsnis. Tarnybiniai rangai ir karių laipsniai
 
-1. Žvalgybos pareigūnams, išskyrus karius, suteikiami tarnybiniai rangai. Aukščiausias yra pirmas rangas, žemiausias – šešioliktas rangas.
+1. Žvalgybos pareigūnams, išskyrus karius, suteikiami tarnybiniai rangai, atitinkantys žvalgybos pareigūno einamas pareigas, kvalifikaciją ir profesinę patirtį. Aukščiausias yra pirmas rangas, žemiausias – šešioliktas rangas.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
-
-2. Valstybės saugumo departamento direktoriui pirmą rangą, jo pavaduotojams antrą rangą, skirdamas juos į šias pareigas, suteikia Respublikos Prezidentas. Antrojo operatyvinių tarnybų departamento direktoriui pirmą rangą, jo pavaduotojams antrą rangą, skirdamas juos į šias pareigas, suteikia krašto apsaugos ministras.
+2. Valstybės saugumo departamento direktoriui pirmą tarnybinį rangą, jo pavaduotojams antrą tarnybinį rangą, skirdamas juos į šias pareigas, suteikia Respublikos Prezidentas. Antrojo operatyvinių tarnybų departamento direktoriui pirmą tarnybinį rangą, jo pavaduotojams antrą tarnybinį rangą, skirdamas juos į šias pareigas, suteikia krašto apsaugos ministras.
 
 3. Antrajame operatyvinių tarnybų departamente tarnaujantiems kariams laipsniai suteikiami vadovaujantis Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme bei krašto apsaugos ministro įsakymuose nustatytais reikalavimais ir tvarka.
 
-4. Tarnybiniai rangai nesuteikiami žvalgybos pareigūnams, turintiems galiojančių tarnybinių nuobaudų.
+4. Žvalgybos pareigūnams, turintiems galiojančių tarnybinių nuobaudų, aukštesni tarnybiniai rangai nesuteikiami.
 
-5. Žvalgybos pareigūnai skiriami į jų tarnybinį rangą atitinkančias pareigas. Atskirais žvalgybos institucijos vadovo nustatytais atvejais ir sąlygomis žvalgybos pareigūnas gali būti paskirtas eiti vienu tarnybiniu rangu aukštesnes pareigas. Kai atitinkamo tarnybinio rango pareigų nėra, žvalgybos institucijos vadovas gali žvalgybos pareigūną iki vienų metų paskirti į vienu tarnybiniu rangu žemesnes pareigas.
+5. Žvalgybos pareigūną šio įstatymo nustatyta tvarka perkėlus į žemesnes pareigas, išskyrus atvejus, kai į žemesnes pareigas jis perkeliamas dėl patenkinamo arba nepatenkinamo tarnybinės veiklos vertinimo, paliekamas turėtas tarnybinis rangas. Kai žvalgybos pareigūnas į žemesnes pareigas perkeliamas dėl patenkinamo arba nepatenkinamo tarnybinės veiklos vertinimo, jam suteikiamas aukščiausias tai pareigybei, į kurią jis perkeliamas, nustatytas tarnybinis rangas.
 
 6. Tarnybiniai rangai suteikiami bendra Valstybės saugumo departamento direktoriaus ir krašto apsaugos ministro nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 63 straipsnis. Žvalgybos pareigūnų pareigybių, karių laipsnių ir tarnybinių rangų derinimas
 
@@ -1453,7 +1781,7 @@ TRYLIKTASIS SKIRSNIS
 
 4. Žvalgybos pareigūnams mokamos šios priemokos:
 
-1) už pavadavimą, kai raštu pavedama laikinai atlikti ir kito žvalgybos pareigūno funkcijas, žvalgybos pareigūno sutikimu;
+1) už pavadavimą, kai raštu pavedama laikinai atlikti ir kito žvalgybos pareigūno funkcijas, su žvalgybos pareigūno sutikimu;
 
 2) už papildomų užduočių, suformuluotų raštu, atlikimą, kai dėl to viršijamas įprastas darbo krūvis arba kai atliekamos pareigybės aprašyme nenumatytos funkcijos;
 
@@ -1465,9 +1793,31 @@ TRYLIKTASIS SKIRSNIS
 
 7. Kasmetinių atostogų laikotarpiu žvalgybos pareigūnams mokamas vidutinis tarnybinis atlyginimas, apskaičiuojamas Vyriausybės nustatyta tvarka.
 
-8. Žvalgybos pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kai laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai asmuo tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje ar pakeliui į ją (iš jos), iš institucijos lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos išmokos skirtumas.
+8. Žvalgybos pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kai laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai asmuo tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje ar pakeliui į ją (iš jos), iš institucijos lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų tarnybinio atlyginimo ir gautos ligos išmokos skirtumas.
 
 9. Antrajame operatyvinių tarnybų departamente tarnaujantiems kariams Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nuostatos dėl aprūpinimo maistu ir tarnybine gyvenamąja patalpa netaikomos, išskyrus karius, tarnaujančius tarptautinių operacijų kariniuose vienetuose.
+
+10. Žvalgybos pareigūnams, dėl tarnybinio būtinumo perkeltiems į pareigas kitos savivaldybės teritorijoje arba pavedus laikinai atlikti kitas pareigas kitos savivaldybės teritorijoje, gyvenamosios patalpos nuomos išlaidos kompensuojamos, jeigu jie, jų šeimos nariai tarnybos vietos savivaldybėje ar kitoje savivaldybėje nuo tarnybos vietos mažesniu atstumu, negu Valstybės saugumo departamento direktoriaus ir krašto apsaugos ministro bendru įsakymu nustatytas atstumas, neturi nuosavybės teise priklausančių, techninius ir higienos reikalavimus atitinkančių gyvenamųjų patalpų ar jų dalies.
+
+11. Gyvenamosios patalpos nuomos išlaidos nekompensuojamos, jeigu žvalgybos pareigūnams jų pasirinkimu taikoma šio straipsnio 14 dalyje numatyta garantija.
+
+12. Jeigu šeimoje yra du žvalgybos pareigūnai (sutuoktiniai), turintys teisę gauti gyvenamosios patalpos nuomos išlaidų kompensaciją ir tarnaujantys toje pačioje savivaldybėje, ir nėra teismo patvirtinimo dėl jų gyvenimo skyrium, jiems kompensuojamos vienos gyvenamosios patalpos nuomos išlaidos, neviršijant tai tarnybos vietovei Vyriausybės nustatyto maksimalaus gyvenamosios patalpos nuomos išlaidų dydžio.
+
+13. Maksimalius gyvenamosios patalpos nuomos išlaidų dydžius, priklausančius nuo tarnybos vietovės, taip pat nuo kartu su žvalgybos pareigūnu gyvenančių šeimos narių skaičiaus, atsižvelgdama į gyvenamųjų patalpų nuomos rinkos kainas, tvirtina Vyriausybė. Gyvenamosios patalpos nuomos išlaidų kompensavimo tvarką pagal žvalgybos pareigūno ir nuomotojo rašytine sutartimi nustatytą nuomos mokesčio dydį, neviršydamas Vyriausybės patvirtintų maksimalių gyvenamosios patalpos nuomos išlaidų dydžių, nustato Valstybės saugumo departamento direktorius ir krašto apsaugos ministras bendru įsakymu.
+
+14. Žvalgybos pareigūnams kelionės iš gyvenamosios vietos į tarnybą ir atgal išlaidos bet kokios rūšies transportu, išskyrus šio straipsnio 15 dalyje nurodytus atvejus, atlyginamos, jeigu dėl tarnybinio būtinumo perkėlus į pareigas kitos savivaldybės teritorijoje arba pavedus laikinai atlikti kitas pareigas kitos savivaldybės teritorijoje, jie, jų šeimos nariai tarnybos vietos savivaldybėje neturi nuosavybės teise priklausančių, techninius ir higienos reikalavimus atitinkančių gyvenamųjų patalpų ar jų dalies.
+
+15. Kelionės iš gyvenamosios vietos į tarnybą ir atgal išlaidos neatlyginamos, jeigu žvalgybos pareigūnai į tarnybos vietą ir atgal vyksta tarnybiniu transportu arba jiems jų pasirinkimu taikoma šio straipsnio 10–13 dalyse numatytos garantijos.
+
+16. Žvalgybos pareigūnams, kuriems kompensuojamos gyvenamosios patalpos nuomos išlaidos, kartą per savaitę atlyginamos kelionės Lietuvos Respublikos teritorijoje iš tarnybos vietos į šeimos nario faktinę gyvenamąją vietą, kuri nesutampa su žvalgybos pareigūno faktine gyvenamąja vieta, ir atgal išlaidos bet kokios rūšies transportu.
+
+17. Kelionės išlaidų atlyginimo tvarką ir sąlygas vykstant viešuoju ir ne viešuoju transportu, kelionės ne viešuoju transportu vieno kilometro atlyginamų išlaidų dydį, taip pat mažiausią ir didžiausią atstumą, kuriuos nuvažiavus per dieną atlyginamos šio straipsnio 14 dalyje nurodytos kelionės išlaidos, nustato Valstybės saugumo departamento direktorius ir krašto apsaugos ministras bendru įsakymu.
+
+18. Perkeliamiems į pareigas kitos savivaldybės teritorijoje žvalgybos pareigūnams bendra Valstybės saugumo departamento direktoriaus ir krašto apsaugos ministro nustatyta tvarka ir sąlygomis, neviršijant maksimalaus Vyriausybės nustatyto kompensuotinų išlaidų dydžio, apmokamos persikėlimo (kelionės ir turto pervežimo) išlaidos.
+
+19. Žvalgybos pareigūnams, kuriuos žvalgybos institucijos vadovas ar jo įgaliotas asmuo siunčia į tarnybinę komandiruotę, Vyriausybės nustatyta tvarka apmokamos komandiruotės išlaidos. Žvalgybos pareigūnai, siunčiami į užsienio komandiruotę, draudžiami draudimu nuo nelaimingų atsitikimų ir draudimu ligos atvejui.
+
+TAR pastaba: 64 straipsnio 10–19 dalyse numatytas išlaidų kompensavimas taikomas ir tiems žvalgybos pareigūnams, kurie iki šio įstatymo įsigaliojimo dienos, tačiau ne anksčiau kaip 2013 m. sausio 1 d., dėl tarnybinio būtinumo buvo perkelti į pareigas kitos savivaldybės teritorijoje arba laikinai atlieka kitas pareigas kitos savivaldybės teritorijoje, kai nurodytas pareigas buvo pavesta laikinai atlikti iki šio įstatymo įsigaliojimo dienos. Šio įstatymo 33 straipsnyje išdėstyto Žvalgybos įstatymo 64 straipsnio 10–19 dalyse numatytų išlaidų kompensacijos šioje dalyje nurodytiems žvalgybos pareigūnams už laikotarpius iki šio įstatymo įsigaliojimo dienos nėra išmokamos.
 
 Straipsnio pakeitimai:
 
@@ -1475,23 +1825,27 @@ Nr. XIII-1102, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06969
 
 Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
 65 straipsnis. Žvalgybos pareigūnų atostogos
 
 1. Žvalgybos pareigūnams kasmetinių atostogų trukmė nustatoma atsižvelgiant į žvalgybos pareigūno tarnybos stažą:
 
-1) iki 10 metų – 30 kalendorinių dienų;
+1) iki 5 metų – 22 darbo dienos;
 
-2) nuo 10 iki 15 metų – 35 kalendorinės dienos;
+2) nuo 5 iki 10 metų – 25 darbo dienos;
 
-3) nuo 15 iki 20 metų – 40 kalendorinių dienų;
+3) nuo 10 iki 15 metų – 29 darbo dienos;
 
-4) 20 metų ir daugiau – 45 kalendorinės dienos.
+4) nuo 15 iki 20 metų – 33 darbo dienos;
 
-2. Žvalgybos pareigūnams kasmetinės atostogos gali būti suteikiamos iš karto visos arba dalimis, tačiau viena nepertraukiama atostogų dalis negali būti trumpesnė kaip 14 kalendorinių dienų. Kasmetinės atostogos suteikiamos už tarnybos žvalgybos institucijoje metus.
+5) 20 metų ir daugiau – 37 darbo dienos.
 
-3. Žvalgybos pareigūnui nepanaudota kasmetinių atostogų dalis už praėjusius tarnybos metus suteikiama iki einamųjų tarnybos metų pabaigos.
+2. Žvalgybos pareigūnams kasmetinės atostogos gali būti suteikiamos iš karto visos arba dalimis, tačiau viena nepertraukiama kasmetinių atostogų dalis negali būti trumpesnė kaip 10 darbo dienų. Kasmetinės atostogos suteikiamos už tarnybos žvalgybos institucijoje metus. Teisė pasinaudoti dalimi kasmetinių atostogų (arba gauti piniginę kompensaciją už jas šio straipsnio 12 dalyje nustatytu atveju) atsiranda, kai žvalgybos pareigūnas įgauna teisę į bent vienos darbo dienos trukmės atostogas.
 
-4. Esant tarnybiniam būtinumui, žvalgybos pareigūnas gali būti atšaukiamas iš kasmetinių atostogų. Tokiam atšaukimui pareigūno sutikimas nebūtinas.
+3. Teisė pasinaudoti visomis ar dalimi kasmetinių atostogų prarandama praėjus 3 metams nuo kalendorinių metų, kuriais buvo įgyta teisė į visos trukmės kasmetines atostogas, pabaigos, išskyrus atvejus, kai žvalgybos pareigūnas faktiškai negalėjo jomis pasinaudoti.
+
+4. Esant tarnybiniam būtinumui, neatidėliotinais atvejais, kai žvalgybos institucija turi užtikrinti įstatymuose nustatytų uždavinių ir funkcijų įgyvendinimą, žvalgybos pareigūnas gali būti atšaukiamas iš kasmetinių atostogų. Tokiam atšaukimui pareigūno sutikimas nebūtinas.
 
 5. Žvalgybos pareigūnams gali būti suteikiamos šios tikslinės atostogos:
 
@@ -1511,19 +1865,23 @@ Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 6. Nėštumo ir gimdymo, tėvystės atostogos žvalgybos pareigūnams suteikiamos Darbo kodekso nustatyta tvarka.
 
-7. Atostogos vaikui prižiūrėti žvalgybos pareigūnams suteikiamos Darbo kodekso nustatyta tvarka, tačiau ne ilgiau negu sulauks šio įstatymo 45 straipsnio 1 dalyje nustatyto amžiaus ir jo tarnyba nebus pratęsta arba baigsis tarnybos pratęsimo laikas. Nesibaigus atostogoms žvalgybos pareigūnas gali grįžti į tarnybą, ne vėliau kaip prieš 14 kalendorinių dienų įspėjęs apie tai žvalgybos institucijos vadovą.
+7. Atostogos vaikui prižiūrėti žvalgybos pareigūnams suteikiamos Darbo kodekso nustatyta tvarka, tačiau ne ilgiau, negu pareigūnas sulaukia šio įstatymo 45 straipsnio 1 dalyje nustatyto amžiaus ir jo tarnyba nėra pratęsiama arba baigiasi tarnybos pratęsimo laikas. Nesibaigus suteiktoms atostogoms vaikui prižiūrėti, žvalgybos pareigūnas gali grįžti į tarnybą, ne vėliau kaip prieš 14 kalendorinių dienų įspėjęs apie tai žvalgybos institucijos vadovą.
 
-8. Mokymosi atostogų žvalgybos pareigūnams suteikimo ir apmokėjimo sąlygas ir tvarką nustato žvalgybos institucijos vadovas.
+8. Žvalgybos pareigūnui, dėl paskyrimo į kitas pareigas arba pavedimo laikinai atlikti kitas pareigas keičiančiam gyvenamąją vietą, gali būti suteikiamos iki 5 darbo dienų persikėlimo atostogos.
 
-9. Žvalgybos pareigūnui, dėl skyrimo į kitas pareigas arba pavedimo laikinai atlikti kitas pareigas keičiančiam gyvenamąją vietą, gali būti suteikiamos iki 5 kalendorinių dienų persikėlimo atostogos.
+9. Žvalgybos pareigūnams, vykdžiusiems užduotis didesnio pavojaus sąlygomis, atsižvelgiant į jų pobūdį ir trukmę, gali būti suteikiamos iki 10 darbo dienų mokamos prevencinės reabilitacijos atostogos.
 
-10. Žvalgybos pareigūnams, vykdžiusiems užduotis didesnio pavojaus sąlygomis, atsižvelgiant į jų pobūdį ir trukmę, gali būti suteikiamos iki 15 kalendorinių dienų mokamos prevencinės reabilitacijos atostogos. Prevencinės reabilitacijos atostogų suteikimo tvarką nustato žvalgybos institucijos vadovas.
+10. Žvalgybos pareigūnui žvalgybos institucijos vadovo nustatyta tvarka gali būti suteikiamos nemokamos iki 15 kalendorinių dienų atostogos tik dėl ypatingų asmeninių ar šeiminių aplinkybių.
 
-11. Žvalgybos pareigūnui žvalgybos institucijos vadovo nustatyta tvarka gali būti suteikiamos nemokamos iki 15 kalendorinių dienų atostogos tik dėl ypatingų asmeninių ar šeiminių aplinkybių.
+11. Kasmetinių ir tikslinių atostogų laikotarpiai yra įskaitomi į žvalgybos pareigūno tarnybos stažą.
 
-12. Kasmetinių ir tikslinių atostogų laikotarpiai yra įskaitomi į žvalgybos pareigūno tarnybos stažą.
+12. Atleidžiant žvalgybos pareigūną iš tarnybos, nepanaudotos kasmetinės atostogos nesuteikiamos. Už nepanaudotas kasmetines atostogas jam išmokama piniginė kompensacija. Teisė gauti piniginę kompensaciją už nepanaudotas kasmetines atostogas prarandama praėjus 3 metams nuo kalendorinių metų, kuriais buvo įgyta teisė į visos trukmės kasmetines atostogas, pabaigos, išskyrus atvejus, kai žvalgybos pareigūnas faktiškai negalėjo jomis pasinaudoti.
 
-13. Atleidžiant žvalgybos pareigūną iš tarnybos, nepanaudotos kasmetinės atostogos nesuteikiamos. Už nepanaudotas kasmetines atostogas jam išmokama piniginė kompensacija.
+13. Kasmetinių atostogų, mokymosi atostogų, persikėlimo atostogų ir prevencinės reabilitacijos atostogų žvalgybos pareigūnams suteikimo, apmokėjimo sąlygas ir tvarką nustato žvalgybos institucijos vadovas.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 66 straipsnis. Žvalgybos pareigūnų valstybinis socialinis draudimas
 
@@ -1543,7 +1901,11 @@ Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
 
 68 straipsnis. Išeitinė kompensacija atleidžiamiems iš tarnybos žvalgybos pareigūnams
 
-1. Žvalgybos pareigūnui, atleidžiamam iš tarnybos šio įstatymo 53 straipsnio 12, 13, 14 ir 15 punktuose nustatytais pagrindais, išmokama 2 mėnesių jo vidutinio tarnybinio atlyginimo dydžio išeitinė kompensacija.
+1. Žvalgybos pareigūnui, atleidžiamam iš tarnybos šio įstatymo 53 straipsnio 12, 13, 14, 15, 16, 18 ir 19 punktuose nustatytais pagrindais, išmokama 2 mėnesių jo vidutinio tarnybinio atlyginimo dydžio išeitinė kompensacija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 2. Šio straipsnio 1 dalyje nustatyto dydžio kompensacija žvalgybos pareigūnams, turintiems daugiau kaip 5 metus žvalgybos pareigūno tarnybos stažo, didinama pusantro karto, daugiau kaip 10 metų – du kartus, daugiau kaip 20 metų – tris kartus.
 
@@ -1563,21 +1925,21 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1808, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21821
 
-3. Žvalgybos pareigūnui, kurio sveikata sutriko atliekant tarnybines pareigas arba kurio sveikata sutriko dėl tarnybinių pareigų atlikimo ar žvalgybos pareigūno statuso, išmokama tokio dydžio jo vidutinio tarnybinio atlyginimo dydžio kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu:
+3. Žvalgybos pareigūnui, kurio sveikata sutriko atliekant tarnybines pareigas arba kurio sveikata sutriko dėl tarnybinių pareigų atlikimo ar žvalgybos pareigūno statuso, išmokama tokio dydžio jo vidutinio tarnybinio atlyginimo dydžio kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) vienkartinės kompensacijos ar netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu:
 
-1) netekusiems 75–100 procentų darbingumo – 46,55 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
+1) netekusiems 75–100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) – 46,55 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
-2) netekusiems 60–70 procentų darbingumo – 37,24 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
+2) netekusiems 60–70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) – 37,24 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
-3) netekusiems 45–55 procentų darbingumo – 27,93 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
+3) netekusiems 45–55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) – 27,93 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
-4) netekusiems iki 40 procentų darbingumo – 23,28 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
+4) netekusiems iki 40 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) – 23,28 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
 5) sunkaus sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 12 mėnesių nuo išgydymo, – 18,62 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
 6) apysunkio sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 6 mėnesiams nuo išgydymo, – 13,97 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
-7) lengvo sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 3 mėnesiams nuo išgydymo, – 9,31 mėnesinių vidutinių tarnybinių atlyginimų dydžio.
+7) lengvo sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 3 mėnesiams nuo išgydymo, – 9,31 mėnesinių vidutinių tarnybinių atlyginimų dydžio.
 
 Straipsnio dalies pakeitimai:
 
@@ -1585,7 +1947,13 @@ Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
 
 Nr. XIII-1808, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21821
 
-4. Žvalgybos pareigūno sveikatos sutrikdymo sunkumo laipsnį, darbingumo lygį teisės aktų nustatyta tvarka nustato Vyriausybė ar jos įgaliota institucija.
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+4. Žvalgybos pareigūno sveikatos sutrikdymo sunkumo laipsnį, dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygį teisės aktų nustatyta tvarka nustato Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 5. Ar žvalgybos pareigūno žūtis (mirtis) ar sveikatos sutrikdymas yra susijęs su tarnyba, nustatoma žvalgybos institucijos vadovo nustatyta tvarka.
 
@@ -1603,7 +1971,11 @@ Nr. XIII-1808, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21821
 
 6) žvalgybos pareigūno žūties (mirties), sveikatos sutrikdymo priežastis buvo saugos taisyklių pažeidimas.
 
-7. Žvalgybos pareigūnui, kuriam buvo išmokėta kompensacija pagal šio straipsnio 3 dalies 5, 6 arba 7 punktą ir kuriam vėliau dėl to paties sveikatos sutrikdymo nustatomas ir darbingumo lygis, papildomai išmokamas pagal šio straipsnio 3 dalies 5, 6 arba 7 punktą išmokėtos kompensacijos ir šio straipsnio 3 dalies 1, 2, 3 arba 4 punkte nurodytos kompensacijos, atsižvelgiant į nustatytą darbingumo lygį, skirtumas.
+7. Žvalgybos pareigūnui, kuriam buvo išmokėta kompensacija pagal šio straipsnio 3 dalies 5, 6 arba 7 punktą ir kuriam vėliau dėl to paties sveikatos sutrikdymo nustatomas ir dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygis, papildomai išmokamas pagal šio straipsnio 3 dalies 5, 6 arba 7 punktą išmokėtos kompensacijos ir šio straipsnio 3 dalies 1, 2, 3 arba 4 punkte nurodytos kompensacijos, atsižvelgiant į nustatytą dalyvumo (iki 2023 m. gruodžio 31 d.– darbingumo) lygį, skirtumas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 8. Mokėtinos kompensacijos dydis apskaičiuojamas pagal vidutinį žuvusio ar nukentėjusio žvalgybos pareigūno tarnybinį atlyginimą.
 
@@ -1633,11 +2005,27 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2621, 2016-09-20, paskelbta TAR 2016-09-28, i. k. 2016-24162
 
-5. Žvalgybos institucijos direktoriaus nustatyta tvarka žvalgybos pareigūnai informuojami apie jų tarnybos sąlygas.
+5. Žvalgybos pareigūnui garantuojamos einamos pareigos ir nustatytas tarnybinis atlyginimas:
+
+1) kai žvalgybos pareigūnas pagal kvietimą ar šaukimą yra išvykęs į teismą arba į teisėsaugos ar kontrolės (priežiūros) funkcijas atliekančias institucijas;
+
+2) artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), senelių, vaikaičių), sutuoktinio, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), partnerio, sugyventinio, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių) mirties atveju – iki 3 darbo dienų;
+
+3) donorams – darbo dienomis, kuriomis jie teisės aktų nustatyta tvarka turi būti atleidžiami nuo tarnybos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+6. Žvalgybos institucijos direktoriaus nustatyta tvarka žvalgybos pareigūnai informuojami apie jų tarnybos sąlygas.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1194, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15185
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 71 straipsnis. Specialiosios žvalgybos pareigūnų ir slaptųjų bendradarbių socialinės garantijos
 
@@ -1647,9 +2035,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
-Lietuvos Respublikos
-
-žvalgybos įstatymo
+Lietuvos Respublikos žvalgybos įstatymo
 
 1 priedas
 
@@ -1679,7 +2065,7 @@ ___________________________________________________________________________
 
 (vardas, pavardė, asmens kodas)
 
-(toliau – žvalgybos pareigūnas), vadovaudamiesi Lietuvos Respublikos žvalgybos įstatymo 37 straipsnio 1 dalimi, sudarė šią žvalgybos pareigūno tarnybos sutartį:
+(toliau – žvalgybos pareigūnas), vadovaudamiesi Lietuvos Respublikos žvalgybos įstatymo 37 straipsnio 1 dalimi, sudarė šią žvalgybos pareigūno tarnybos sutartį:
 
 1. Žvalgybos institucija priima į tarnybą žvalgybos pareigūną neterminuotai.
 
@@ -1691,13 +2077,11 @@ bandomasis laikotarpis.
 
 3. Žvalgybos pareigūnas į pareigas žvalgybos institucijoje skiriamas, perkeliamas į kitas pareigas, atleidžiamas iš pareigų Žvalgybos įstatymo ir kitų teisės aktų nustatytomis sąlygomis ir tvarka.
 
-4. Žvalgybos pareigūnas įsipareigoja tarnauti žvalgybos institucijoje įstatymų ir kitų teisės aktų nustatytomis sąlygomis ir tvarka ne mažiau kaip 5 metus nuo šios sutarties pasirašymo momento.
+4. Ši sutartis įsigalioja ir asmuo tampa žvalgybos pareigūnu, kai paskiriamas į konkrečias pareigas žvalgybos institucijoje ir prisiekia Lietuvos valstybei.
 
-5. Ši sutartis įsigalioja ir asmuo tampa žvalgybos pareigūnu, kai paskiriamas į konkrečias pareigas žvalgybos institucijoje ir prisiekia Lietuvos valstybei.
+5. Ši sutartis gali būti nutraukta Žvalgybos įstatymo nustatytais pagrindais ir sąlygomis.
 
-6. Ši sutartis gali būti nutraukta Žvalgybos įstatymo nustatytais pagrindais ir sąlygomis.
-
-7. Papildomos sutarties sąlygos:
+6. Papildomos sutarties sąlygos:
 
 ___________________________________________________________________________
 
@@ -1705,11 +2089,11 @@ ___________________________________________________________________________
 
 ___________________________________________________________________________
 
-8. Ginčai dėl sutarties nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
+7. Ginčai dėl sutarties nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-9. Ši sutartis sudaryta dviem egzemplioriais – vienas saugomas žvalgybos institucijoje, antras atiduodamas žvalgybos pareigūnui.
+8. Ši sutartis sudaryta dviem egzemplioriais – vienas saugomas žvalgybos institucijoje, antras atiduodamas žvalgybos pareigūnui.
 
-Žvalgybos institucijos vardu Žvalgybos pareigūnas
+Žvalgybos institucijos vardu                                          Žvalgybos pareigūnas
 
 _________________ (vardas, pavardė, pareigos) _________________ (parašas)
 
@@ -1727,11 +2111,13 @@ ___________________________________________________________________________
 
 (pagrindas, atleidimo iš tarnybos įsakymo data, Nr., sutarties nutraukimo data)
 
-___________________
+__________________________
 
 Priedo pakeitimai:
 
 Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 Lietuvos Respublikos žvalgybos įstatymo
 
@@ -2000,6 +2386,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2017, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11596
 
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 28, 30, 37, 46, 50, 62, 63, 64, 64-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 2 priedu įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 5, 9, 10, 11, 12, 13, 15, 16, 18, 21, 24, 26, 29, 31, 32, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 53, 54, 58, 59, 60, 62, 64, 65, 68, 69, 70 straipsnių ir 1 priedo pakeitimo įstatymas
 
 641 straipsnis. Žvalgybos pareigūnų aprūpinimas tarnybos užsienyje laikotarpiu
 
