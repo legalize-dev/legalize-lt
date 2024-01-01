@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1243, i. k. 0951010ISTA000I-907
 
@@ -442,23 +442,23 @@ VALSTYBĖS KONTROLĖS DARBUOTOJAI, JŲ SKYRIMAS (PRIĖMIMAS) Į PAREIGAS IR ATLE
 
 3. Asmenys, priimami į Valstybės kontrolės darbuotojų, išskyrus atliekančius ūkinio ir (ar) techninio pobūdžio funkcijas, pareigas, turi būti nepriekaištingos reputacijos ir teisės aktų nustatyta tvarka deklaravę privačius interesus. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
-1) įstatymų nustatyta tvarka pripažintas kaltu dėl tyčinio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą arba nepasibaigusį laidavimo terminą;
+1) įstatymų nustatyta tvarka pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 10 metų arba pripažintas kaltu dėl sunkaus nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 8 metai, arba pripažintas kaltu dėl apysunkio nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 4 metai, arba pripažintas kaltu dėl nesunkaus nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 3 metai;
 
-2) įstatymų nustatyta tvarka pripažintas kaltu dėl nusikaltimo valstybės tarnybai ir viešiesiems interesams ar dėl korupcinio pobūdžio nusikaltimo, kaip jis apibrėžtas Lietuvos Respublikos korupcijos prevencijos įstatyme, padarymo ir turi neišnykusį ar nepanaikintą teistumą arba nepasibaigusį laidavimo terminą;
+2) įstatymų nustatyta tvarka pripažintas kaltu dėl baudžiamojo nusižengimo finansų sistemai ar valstybės tarnybai ir viešiesiems interesams padarymo ir nuo bausmės atlikimo nepraėjo 3 metai;
 
-3) įstatymų nustatyta tvarka pripažintas kaltu dėl nusikaltimo, kuriuo padaryta turtinė žala valstybei, padarymo ir turi neišnykusį ar nepanaikintą teistumą arba nepasibaigusį laidavimo terminą;
+3) įstatymų nustatyta tvarka atleistas nuo baudžiamosios atsakomybės už labai sunkaus nusikaltimo padarymą ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 4 metai arba atleistas nuo baudžiamosios atsakomybės už sunkaus nusikaltimo padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai, arba atleistas nuo baudžiamosios atsakomybės už apysunkio nusikaltimo padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą arba dėl nusikaltimo mažareikšmiškumo) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 2 metai ar nėra pasibaigęs laidavimo terminas, arba atleistas nuo baudžiamosios atsakomybės už nesunkaus nusikaltimo ar baudžiamojo nusižengimo finansų sistemai ar valstybės tarnybai ir viešiesiems interesams padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą arba dėl nusikaltimo mažareikšmiškumo) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 1 metai ar nėra pasibaigęs laidavimo terminas;
 
-4) įstatymų nustatyta tvarka pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusižengimo, kaip jis apibrėžtas Korupcijos prevencijos įstatyme, padarymo ir nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai arba yra nepasibaigęs laidavimo terminas;
+4) atleistas iš valstybės tarnautojo pareigų už Lietuvos Respublikos valstybės tarnybos įstatymo 23 straipsnio 5 dalies 1, 2, 3, 4, 5, 7, 8, 9 punktuose nurodytus šiurkščius tarnybinius nusižengimus arba Valstybės tarnybos įstatymo 25 straipsnio 2 dalyje numatytu atveju pripažintas padaręs šiurkštų tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, atleistas iš darbo už Lietuvos Respublikos darbo kodekse nurodytus šiurkščius darbo pareigų pažeidimus, ir nuo atleidimo iš pareigų ar darbo dienos arba nuo pripažinimo padarius šiurkštų tarnybinį nusižengimą dienos nepraėjo 3 metai;
 
-5) atleistas iš tarnybos ar darbo už šiurkštų darbo pareigų pažeidimą ir nuo atleidimo nėra praėję 5 metai arba jo elgesys neatitinka Valstybės kontrolės darbuotojų etikos kodekso nuostatų;
+5) atleistas iš darbo, pareigų ar praradęs teisę verstis tam tikra veikla už kituose įstatymuose keliamo nepriekaištingos reputacijos reikalavimo neatitiktį ar elgesio (etikos) normų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis atitinkama veikla praradimo dienos nepraėjo 3 metai, ir jo elgesys neatitinka Valstybės kontrolės darbuotojų etikos kodekso nuostatų;
 
-6) atleistas iš darbo, pareigų ar praradęs teisę verstis atitinkama veikla už kituose įstatymuose keliamo nepriekaištingos reputacijos reikalavimo neatitiktį ar elgesio (etikos) normų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis atitinkama veikla praradimo dienos nėra praėję 5 metai;
+6) atleistas arba pašalintas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo ir nuo atleidimo arba pašalinimo iš pareigų dienos nepraėjo 3 metai;
 
-7) atleistas iš skiriamų arba pašalintas iš renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo ir nuo atleidimo ar pašalinimo iš pareigų dienos nėra praėję 5 metai;
+7) yra ar buvo įstatymų nustatyta tvarka uždraustos organizacijos narys, jeigu nuo narystės pabaigos nepraėjo 3 metai.
 
-8) piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar kitomis psichiką veikiančiomis medžiagomis;
+Straipsnio dalies pakeitimai:
 
-9) yra įstatymų nustatyta tvarka uždraustos organizacijos narys.
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 
 4. Jeigu Valstybės kontrolės darbuotojui yra nustatytas specialusis reikalavimas turėti įstatymų nustatytas specialiąsias teises arba atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija arba suteikiant kitas specialiąsias teises, asmens, siekiančio Valstybės kontrolės darbuotojo statuso, kandidatūra teisės aktų nustatyta tvarka turi būti patikrinta arba specialioji teisė turi būti suteikta iki asmens priėmimo (arba perkėlimo) į Valstybės kontrolės darbuotojo pareigas. Į Valstybės kontrolės darbuotojo pareigas asmuo priimamas (arba perkeliamas), kai jam suteikiama specialioji teisė arba kai gaunama kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija arba kad jam gali būti suteikiama kita įstatymų nustatyta specialioji teisė. Valstybės kontrolė turi teisę gauti duomenis apie asmenį, siekiantį Valstybės kontrolės darbuotojo statuso, iš kompetentingų valstybės institucijų.
 
@@ -482,9 +482,19 @@ VALSTYBĖS KONTROLĖS DARBUOTOJAI, JŲ SKYRIMAS (PRIĖMIMAS) Į PAREIGAS IR ATLE
 
 4) sulaužo priesaiką. Šis reikalavimas taikomas tik valstybiniams auditoriams;
 
-5) įsiteisėja apkaltinamasis teismo nuosprendis;
+5) įsiteisėja teismo nuosprendis, kuriuo darbuotojui paskirta bausmė už sunkų ar labai sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką, arba jam paskirta bausmė, dėl kurios jis negali eiti savo pareigų;
 
-6) praranda nepriekaištingą reputaciją.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
+
+6) praranda nepriekaištingą reputaciją;
+
+7) paaiškėja, kad priimant į Valstybės kontrolės darbuotojo pareigas buvo pateikti suklastoti dokumentai arba nuslėpti ar pateikti tikrovės neatitinkantys duomenys (dokumentai), dėl kurių asmuo negalėjo būti priimtas į tas pareigas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 
 23 straipsnis. Priėmimo į Valstybės kontrolę apribojimai
 
@@ -496,7 +506,11 @@ VALSTYBĖS KONTROLĖS DARBUOTOJAI, JŲ SKYRIMAS (PRIĖMIMAS) Į PAREIGAS IR ATLE
 
 3) jis atsisakė deklaruoti savo ir savo šeimos narių turtą ir pajamas bei privačius interesus;
 
-4) su tiesioginiu vadovu jį sietų artimi giminystės ar svainystės ryšiai, jeigu darbas būtų susijęs su vieno iš jų tiesioginiu pavaldumu kitam ar vieno teise kontroliuoti kitą.
+4) jo sutuoktinis, partneris, sugyventinis (nurodytas darbuotojo privačių interesų deklaracijoje), artimasis giminaitis ar svainystės ryšiais susijęs asmuo eina pareigas Valstybės kontrolėje, jeigu jie pagal pareigas būtų susiję tiesioginio pavaldumo santykiais.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 
 24 straipsnis. Valstybės kontrolieriaus, valstybės kontrolieriaus pavaduotojų ir valstybinių auditorių priesaika
 
@@ -542,19 +556,41 @@ Tepadeda man Dievas.“
 
 4) apgaulingas duomenų pateikimas. Ši nuostata taikoma tik valstybiniams auditoriams ir Valstybės kontrolės darbuotojams, atliekantiems kitus vertinimus.
 
-2. Be Darbo kodekse nurodytų atvejų, Valstybės kontrolės darbuotojas valstybės kontrolieriaus sprendimu privalo būti nušalintas nuo darbo, kai:
+2. Be Darbo kodekse nurodytų atvejų, Valstybės kontrolės darbuotojas valstybės kontrolieriaus sprendimu privalo būti nušalintas nuo darbo, kai nėra pareigų, į kurias Valstybės kontrolės darbuotojas gali būti perkeltas Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka uždraudus jam dirbti ar susipažinti su įslaptinta informacija, arba Valstybės kontrolės darbuotojas nesutinka būti perkeltas į kitas pareigas. Šiuo atveju Valstybės kontrolės darbuotojas nušalinamas nuo darbo Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka atliekamo patikrinimo laikotarpiui.
 
-1) valstybės kontrolierius gauna informacijos, kad Valstybės kontrolės darbuotojas įtariamas ar kaltinamas tyčinio sunkaus arba labai sunkaus nusikaltimo padarymu arba įtariamas ar kaltinamas nusikaltimo arba baudžiamojo nusižengimo valstybės tarnybai ar viešiesiems interesams padarymu. Šiuo atveju Valstybės kontrolės darbuotojas nušalinamas nuo darbo iki baudžiamojo proceso pabaigos;
+Straipsnio dalies pakeitimai:
 
-2) nėra pareigų, į kurias Valstybės kontrolės darbuotojas gali būti perkeltas Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka uždraudus jam dirbti ar susipažinti su įslaptinta informacija, arba Valstybės kontrolės darbuotojas nesutinka būti perkeltas į kitas pareigas. Šiuo atveju Valstybės kontrolės darbuotojas nušalinamas nuo darbo Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka atliekamo patikrinimo laikotarpiui.
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 
-3. Valstybės kontrolieriaus sprendime nušalinti Valstybės kontrolės darbuotoją nuo darbo turi būti nurodytas laikotarpis, kuriam Valstybės kontrolės darbuotojas nušalinamas nuo darbo, nušalinimo priežastys, teisinis pagrindas, sprendimo apskundimo tvarka ir terminai.
+3. Valstybės kontrolės darbuotojas nuo darbo gali būti nušalintas, kai iš pareigūno, turinčio įgaliojimus pagal Baudžiamojo proceso kodeksą pareikšti įtarimus ar kaltinimus, gauna informacijos, kad darbuotojas įtariamas ar kaltinamas padaręs tyčinį sunkų arba labai sunkų nusikaltimą arba įtariamas ar kaltinamas padaręs nusikaltimą arba baudžiamąjį nusižengimą valstybės tarnybai ar viešiesiems interesams. Šiuo atveju, įvertinus darbuotojo einamų pareigų pobūdį, atliekamas funkcijas ir kitas svarbias aplinkybes, dėl kurių tolesnis jo pareigų vykdymas būtų nesuderinamas su pareikštais įtarimais ar kaltinimais, darbuotojas gali būti nušalinamas iki 6 mėnesių laikotarpiui. Prireikus šios priemonės taikymas gali būti pratęstas iki 3 mėnesių. Pratesimų skaičius neribojamas, bet visais atvejais nušalinimas negali trukti ilgiau kaip iki baudžiamojo proceso pabaigos.
 
-4. Sprendimą nušalinti Valstybės kontrolės darbuotoją nuo darbo priėmusio subjekto reikalavimu nušalintas Valstybės kontrolės darbuotojas grąžina darbuotojo pažymėjimą, visas jam patikėtas darbo funkcijoms atlikti reikalingas priemones ir jo žinioje esančius dokumentus.
+Papildyta straipsnio dalimi:
 
-5. Pasibaigus nušalinimo nuo darbo terminui, Valstybės kontrolės darbuotojas grąžinamas į eitas pareigas, jeigu po nušalinimo nėra pagrindo nutraukti darbo sutartį.
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 
-6. Už nušalinimo nuo darbo laikotarpį Valstybės kontrolės darbuotojui darbo užmokestis nemokamas. Valstybės kontrolės darbuotojas, nuo darbo nušalintas nepagrįstai ar nepasitvirtinus nušalinimą lėmusioms aplinkybėms, grąžinamas į eitas pareigas ir per 10 darbo dienų nuo dienos, kurią Valstybės kontrolės darbuotojas vėl pradėjo dirbti, jam išmokamas darbo užmokestis už nušalinimo nuo darbo laikotarpį, taip pat delspinigiai, kurių dydis tvirtinamas teisės aktų nustatyta tvarka.
+4. Valstybės kontrolieriaus sprendime nušalinti Valstybės kontrolės darbuotoją nuo darbo turi būti nurodytas laikotarpis, kuriam Valstybės kontrolės darbuotojas nušalinamas nuo darbo, nušalinimo priežastys, teisinis pagrindas, sprendimo apskundimo tvarka ir terminai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
+
+5. Sprendimą nušalinti Valstybės kontrolės darbuotoją nuo darbo priėmusio subjekto reikalavimu nušalintas Valstybės kontrolės darbuotojas grąžina darbuotojo pažymėjimą, visas jam patikėtas darbo funkcijoms atlikti reikalingas priemones ir jo žinioje esančius dokumentus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
+
+6. Pasibaigus nušalinimo nuo darbo terminui, Valstybės kontrolės darbuotojas grąžinamas į eitas pareigas, jeigu po nušalinimo nėra pagrindo nutraukti darbo sutartį.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
+
+7. Už nušalinimo nuo darbo laikotarpį Valstybės kontrolės darbuotojui darbo užmokestis nemokamas, išskyrus Darbo kodekse nustatytus atvejus. Valstybės kontrolės darbuotojas, nuo darbo nušalintas nepagrįstai ar nepasitvirtinus nušalinimą lėmusioms aplinkybėms, grąžinamas į eitas pareigas ir per 10 darbo dienų nuo dienos, kurią Valstybės kontrolės darbuotojas vėl pradėjo dirbti, jam išmokamas darbo užmokestis už nušalinimo nuo darbo laikotarpį, taip pat delspinigiai, kurių dydis tvirtinamas teisės aktų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 
 VIII SKYRIUS
 
@@ -578,17 +614,41 @@ DARBUOTOJŲ SOCIALINĖS GARANTIJOS
 
 2. Valstybės kontrolierius nustato Valstybės kontrolės darbuotojų darbo apmokėjimo sistemą.
 
-3. Valstybės kontrolieriaus ir valstybės kontrolieriaus pavaduotojų darbo užmokesčio dydžiai ir apmokėjimo sąlygos nustatyti Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme.
+3. Valstybės kontrolieriaus ir valstybės kontrolieriaus pavaduotojų darbo užmokesčio dydžiai nustatyti Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme.
 
-4. Valstybės kontrolės darbuotojo, išskyrus šio straipsnio 3 dalyje nurodytus darbuotojus, pareiginė alga nustatoma pagal šio straipsnio 6 dalyje nurodytai pareigybei nustatytą pareiginės algos koeficientą arba iš šio straipsnio 7 dalyje nurodytų pareigybių grupei nustatyto pareiginės algos koeficientų intervalo.
+Straipsnio dalies pakeitimai:
 
-5. Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga apskaičiuojama pareiginės algos koeficientą dauginant iš bazinio dydžio.
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 
-6. Administracijos vadovo pareiginė alga nustatoma taikant pareiginės algos koeficientą – 25,5.
+4. Valstybės kontrolės darbuotojo, išskyrus šio straipsnio 3 dalyje nurodytus darbuotojus, pareiginė alga nustatoma taikant ne mažesnį kaip šio straipsnio 6 dalyje nurodytai pareigybei nustatytą pareiginės algos koeficientą arba iš šio straipsnio 7 dalyje nurodytų pareigybių grupei darbo apmokėjimo sistemoje nustatyto pareiginės algos pastoviosios dalies koeficientų intervalo. Valstybės kontrolės darbuotojų pareiginės algos pastovioji dalis negali viršyti valstybės kontrolieriui nustatyto darbo užmokesčio.
 
-7. Valstybės kontrolės darbuotojų, kurie eina struktūrinio padalinio vadovo ar jo pavaduotojo, ar kito darbuotojo, kuris turi tiesiogiai pavaldžių asmenų, pareigas, pareiginės algos pastoviosios dalies koeficientas negali būti didesnis kaip 24. Valstybės kontrolės darbuotojų, išskyrus Valstybės kontrolės darbuotojus, kurie atlieka ūkinio ir (ar) techninio pobūdžio funkcijas, pareiginės algos pastoviosios dalies koeficientas negali būti didesnis kaip 22,5. Valstybės kontrolės darbuotojų, kurie atlieka ūkinio ir (ar) techninio pobūdžio funkcijas, pareiginės algos pastoviosios dalies koeficientas negali būti didesnis kaip 19,5. Šioje dalyje nurodytiems Valstybės kontrolės darbuotojams konkrečius pareiginės algos pastoviosios dalies dydžius nustato valstybės kontrolierius darbo apmokėjimo sistemoje iš šioje dalyje konkrečiai pareigybei nustatyto pareiginės algos pastoviosios dalies koeficientų intervalo. Darbo apmokėjimo sistemoje detalizuojami pareiginės algos pastoviosios dalies nustatymo kriterijai (žinojimo ir žinių sudėtingumas, problemų sprendimas, veiklos sudėtingumas, darbo krūvis, atsakomybės lygis, papildomų įgūdžių ar svarbių einamoms pareigoms gebėjimų turėjimas ir pan.).
+Straipsnio dalies pakeitimai:
 
-8. Pareiginės algos kintamosios dalies mokėjimo tvarka ir sąlygos nustatomos Valstybės kontrolės darbuotojų darbo apmokėjimo sistemoje. Pareiginės algos kintamoji dalis negali viršyti 30 procentų pareiginės algos pastoviosios dalies. Pareiginės algos kintamąją dalį sudaro priemokos: už darbą, kai raštu pavedama laikinai atlikti ir kito Valstybės kontrolės darbuotojo darbo funkcijas, arba už darbą, kai yra nukrypimų nuo normalių darbo sąlygų, arba už darbą, kai yra padidėjęs darbų mastas atliekant nustatytas darbo funkcijas neviršijant nustatytos darbo laiko trukmės.
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
+
+5. Pareiginės algos koeficiento vienetas yra Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga ar jos pastovioji dalis apskaičiuojama pareiginės algos ar jos pastoviosios dalies koeficientą dauginant iš bazinio dydžio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
+
+6. Administracijos vadovo pareiginė alga nustatoma taikant pareiginės algos koeficientą – ne mažesnį kaip 2,3.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
+
+7. Valstybės kontrolės darbuotojų, kurie eina struktūrinio padalinio vadovo ar jo pavaduotojo, ar kito darbuotojo, kuris turi tiesiogiai pavaldžių asmenų, pareigas, pareiginės algos pastoviosios dalies koeficientas negali būti mažesnis kaip 1,42. Valstybės kontrolės darbuotojų, išskyrus Valstybės kontrolės darbuotojus, kurie atlieka ūkinio ir (ar) techninio pobūdžio funkcijas, pareiginės algos pastoviosios dalies koeficientas negali būti mažesnis kaip 0,53. Valstybės kontrolės darbuotojų, kurie atlieka ūkinio ir (ar) techninio pobūdžio funkcijas, pareiginės algos pastoviosios dalies koeficientas negali būti mažesnis kaip 0,49. Šioje dalyje nurodytiems Valstybės kontrolės darbuotojams konkrečius pareiginės algos pastoviosios dalies dydžius nustato valstybės kontrolierius darbo apmokėjimo sistemoje iš konkrečiai pareigybei nustatyto pareiginės algos pastoviosios dalies koeficientų intervalo. Darbo apmokėjimo sistemoje detalizuojami pareiginės algos pastoviosios dalies nustatymo kriterijai (žinojimo ir žinių sudėtingumas, problemų sprendimas, veiklos sudėtingumas, darbo krūvis, atsakomybės lygis, papildomų įgūdžių ar svarbių einamoms pareigoms gebėjimų turėjimas ir pan.).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
+
+8. Pareiginės algos kintamosios dalies mokėjimo tvarka ir sąlygos nustatomos Valstybės kontrolės darbuotojų darbo apmokėjimo sistemoje. Pareiginės algos kintamoji dalis negali būti mažesnė kaip 10 procentų ir didesnė kaip 80 procentų pareiginės algos pastoviosios dalies. Pareiginės algos kintamąją dalį sudaro priemokos: už darbą, kai raštu pavedama laikinai atlikti ir kito Valstybės kontrolės darbuotojo darbo funkcijas, arba už darbą, kai yra nukrypimų nuo normalių darbo sąlygų, arba už darbą, kai yra padidėjęs darbų mastas atliekant nustatytas darbo funkcijas neviršijant nustatytos darbo laiko trukmės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 
 9. Administracijos vadovui pareiginės algos kintamoji dalis nenustatoma.
 
@@ -596,11 +656,19 @@ DARBUOTOJŲ SOCIALINĖS GARANTIJOS
 
 11. Valstybės kontrolės darbuotojams už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Valstybės kontrolės uždaviniais susijusi veikla, iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų pagal paramos teikimo projektų sutartyse nustatytas sąlygas ir įkainius gali būti mokamos vienkartinės ar periodinės išmokos, neįskaičiuojamos į šio straipsnio 3, 6, 7 ir 8 dalyse nustatytą Valstybės kontrolės darbuotojų darbo užmokestį. Už laiką, kurį Valstybės kontrolės darbuotojas dalyvauja šioje dalyje nurodytuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose ir už kurį gauna išmokas iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų, skirtų paramos teikimo projektams įgyvendinti, darbo užmokestis iš Valstybės kontrolei skirtų valstybės biudžeto asignavimų Valstybės kontrolės darbuotojui nemokamas.
 
-12. Duomenys apie Valstybės kontrolės darbuotojų darbo užmokestį yra vieši. Šie duomenys teikiami Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo nustatyta tvarka.
+12. Duomenys apie Valstybės kontrolės darbuotojų darbo užmokestį yra vieši. Šie duomenys teikiami Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 
 29 straipsnis. Papildomos kasmetinės atostogos
 
-Valstybės kontrolės darbuotojui suteikiant papildomas kasmetines atostogas pagal Darbo kodekso 138 straipsnio 2 dalį, į ilgalaikio nepertraukiamojo darbo toje pačioje darbovietėje laiką įskaitomi tarnybos Lietuvos valstybei metai, nurodyti Lietuvos Respublikos valstybės tarnybos įstatymo 47 straipsnio 1 ir 2 dalyse, kurie įgyti iki 2021 m. birželio 30 d.
+Valstybės kontrolės darbuotojui suteikiant papildomas kasmetines atostogas pagal Darbo kodekso 138 straipsnio 2 dalį, į ilgalaikio nepertraukiamojo darbo toje pačioje darbovietėje laiką įskaitomi tarnybos Lietuvos valstybei metai, nurodyti Valstybės tarnybos įstatymo 31 straipsnio 1 ir 2 dalyse.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 
 X SKYRIUS
 
@@ -885,6 +953,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1765, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27580
 
 Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 8 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
+
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 22, 23, 26, 28 ir 29 straipsnių pakeitimo įstatymas
 
 32 straipsnis. Tarnybinis pažymėjimas
 
