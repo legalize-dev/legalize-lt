@@ -4,7 +4,7 @@ identifier: "TAR.AD44354DA25E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-10-19"
-last_updated: "2021-11-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AD44354DA25E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos augalų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 90-2013, i. k. 0951010ISTA00I-1069
 
@@ -476,19 +476,23 @@ FIZINIŲ IR JURIDINIŲ ASMENŲ VEIKLOS PRIEŽIŪRA
 
 22 straipsnis. Teismo leidimų įeiti į fizinių asmenų gyvenamąsias patalpas išdavimo tvarka
 
-1. Jeigu Tarnyba priima sprendimą atlikti patikrinimą fizinio asmens gyvenamosiose patalpose (iš jų ir nuomojamose ar naudojamose kitu pagrindu), Vilniaus apygardos administraciniam teismui pateikiamas prašymas dėl teismo leidimo įeiti į fizinio asmens gyvenamąsias patalpas išdavimo.
+1. Jeigu Tarnyba priima sprendimą atlikti patikrinimą fizinio asmens gyvenamosiose patalpose (iš jų ir nuomojamose ar naudojamose kitu pagrindu), pirmosios instancijos administraciniam teismui pateikiamas prašymas dėl teismo leidimo įeiti į fizinio asmens gyvenamąsias patalpas išdavimo.
 
-2. Prašyme dėl teismo leidimo įeiti į fizinio asmens gyvenamąsias patalpas išdavimo turi būti nurodytas tikrinamo fizinio asmens vardas, pavardė, gyvenamųjų patalpų adresas, įtariamų pažeidimų pobūdis.
+2. Prašyme dėl teismo leidimo įeiti į fizinio asmens gyvenamąsias patalpas išdavimo turi būti nurodyta tikrinamo fizinio asmens vardas, pavardė, gyvenamųjų patalpų adresas, įtariamų pažeidimų pobūdis.
 
-3. Prašymą dėl teismo leidimo įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas išdavimo išnagrinėjęs Vilniaus apygardos administracinio teismo teisėjas priima motyvuotą nutartį prašymą patenkinti arba jį atmesti.
+3. Prašymą dėl teismo leidimo įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas išdavimo išnagrinėjęs pirmosios instancijos administracinio teismo teisėjas priima motyvuotą nutartį prašymą patenkinti arba jį atmesti.
 
-4. Prašymas dėl teismo leidimo įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas išdavimo turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 val. nuo šio prašymo pateikimo momento.
+4. Prašymas dėl teismo leidimo įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas išdavimo turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo šio prašymo pateikimo momento.
 
-5. Jeigu Tarnyba nesutinka su Vilniaus apygardos administracinio teismo teisėjo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo šios nutarties priėmimo ją apskųsti Lietuvos vyriausiajam administraciniam teismui.
+5. Jeigu Tarnyba nesutinka su pirmosios instancijos administracinio teismo teisėjo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo šios nutarties priėmimo ją apskųsti Lietuvos vyriausiajam administraciniam teismui.
 
-6. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti Tarnybos skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas nuo šio skundo pateikimo. Tarnybos atstovas turi teisę dalyvauti nagrinėjant skundą.
+6. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti Tarnybos skundą dėl pirmosios instancijos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas nuo šio skundo pateikimo. Tarnybos atstovas turi teisę dalyvauti nagrinėjant skundą.
 
 7. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1578, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25128
 
 23 straipsnis. Tarnybos kompetencija
 
@@ -767,6 +771,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-296, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11765
 
 Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 24 straipsnio ir priedo pakeitimo ir Įstatymo papildymo 25, 26, 27, 28, 29, 30 straipsniais įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1578, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25128
+
+Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 22 straipsnio pakeitimo įstatymas
 
 31 straipsnis. Augalų apsaugos produktų naudojimo išimtys
 
