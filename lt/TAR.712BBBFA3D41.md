@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2023-11-30"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-02-29
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -268,7 +268,7 @@ Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
 
 Biudžeto asignavimų valdytojas turi teisę:
 
-1) biudžetiniais metais keisti patvirtintų jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų subjektų vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės nustatyta tvarka apie tai praneša Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas patvirtintų tam tikrai programai asignavimų sumų. Asignavimai darbo užmokesčiui yra maksimalūs ir gali būti naudojami tik su darbo užmokesčiu susijusioms išlaidoms ir darbdavių išmokoms, kurios pervedamos ne per socialinio draudimo sistemą, finansuoti. Nepanaudota asignavimų tęstinei veiklai suma, jeigu nėra įsiskolinimų, gali būti naudojama investicijų projektams, kurie finansuojami iš tęstinės veiklos lėšų, arba pažangos priemonėms, jeigu pažangos priemonėms numatyta skirti lėšų atitinkamų metų valstybės arba savivaldybių biudžetuose, papildomai finansuoti, išskyrus kituose įstatymuose, reglamentuojančiuose savivaldybių biudžetų lėšų naudojimą, nustatytus atvejus;
+1) biudžetiniais metais keisti patvirtintų jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų subjektų vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės nustatyta tvarka apie tai praneša Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas patvirtintų tam tikrai programai asignavimų sumų. Asignavimus darbo užmokesčiui asignavimų valdytojas gali didinti tik iš sutaupytų asignavimų ir tik tais atvejais, jeigu toks padidinimas nelemia papildomo asignavimų poreikio kitais biudžetiniais metais. Nepanaudota asignavimų tęstinei veiklai suma, jeigu nėra įsiskolinimų, gali būti naudojama investicijų projektams, kurie finansuojami iš tęstinės veiklos lėšų, arba pažangos priemonėms, jeigu pažangos priemonėms numatyta skirti lėšų atitinkamų metų valstybės arba savivaldybių biudžetuose, papildomai finansuoti, išskyrus kituose įstatymuose, reglamentuojančiuose savivaldybių biudžetų lėšų naudojimą, nustatytus atvejus;
 
 Straipsnio punkto pakeitimai:
 
@@ -1550,13 +1550,11 @@ Nr. XIV-1099, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10749
 
 Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
 
-101 straipsnis. Biudžetinių įstaigų skolinimasis
+101 straipsnis. Neteko galios nuo 2024-01-01
 
-Biudžetinės įstaigos savo vardu negali prisiimti jokių skolinių įsipareigojimų pagal įsipareigojamuosius skolos dokumentus, įskaitant paskolos, finansinės nuomos (lizingo) sutartis, bet jomis neapsiribojant.
+Straipsnio naikinimas:
 
-Papildyta straipsniu:
-
-Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
+Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
 
 141 straipsnis. Valstybės veiklos sritys
 
