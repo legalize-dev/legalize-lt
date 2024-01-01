@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2023-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
-
-TAR pastaba. Įstatymo Nr. XIV-1272 nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-1822, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05724
-
-Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 13, 15, 16, 21, 22, 27 ir 28 straipsnių pakeitimo įstatymo Nr. XIV-1272 4, 6 straipsnių pakeitimo ir 1, 5, 7 straipsnių pripažinimo netekusiais galios įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -341,9 +333,15 @@ NEPAPRASTOSIOS PADĖTIES METU
 
 1. Naudojimosi Konstitucijos 22, 24, 25, 32, 35, 36 straipsniuose nustatytomis teisėmis ir laisvėmis apribojimą bei nepaprastųjų priemonių panaudojimą nustato Seimas arba Respublikos Prezidentas, vadovaudamiesi Konstitucija, šiuo ir kitais įstatymais, atsižvelgdami į grėsmės konstitucinei santvarkai, visuomenės rimčiai laipsnį ir pobūdį, kitų aplinkybių ir sąlygų visumą bei galimybes greičiausiu būdu pašalinti grėsmę, sumažinti ją bei jos sukeltus padarinius.
 
-2. Šio straipsnio 1 dalyje nurodytas naudojimosi teisėmis ir laisvėmis apribojimas ir šio Įstatymo 28 straipsnyje nustatytos nepaprastosios priemonės gali būti naudojamos tik tiek, kiek to reikalauja padėties kritiškumas. Naudojimąsi kitomis žmogaus teisėmis ir laisvėmis apriboti draudžiama.
+2. Institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas, pasikonsultavęs su Lietuvos Respublikos trišale taryba, gali nustatyti streiko ribojimus teritorijoje, kurioje įvesta nepaprastoji padėtis, siekdamas suvaldyti nepaprastąją padėtį, bet ne ilgiau kaip iki nepaprastosios padėties atšaukimo. Lietuvos Respublikos trišalė taryba nuomonę dėl numatomų streiko ribojimų turi pateikti ne vėliau kaip per 48 valandas nuo prašymo dėl nuomonės pateikimo gavimo momento. Sprendimas riboti streiką turi būti peržiūrimas kas 3 mėnesius.
 
-3. Įvesti naudojimosi teisėmis ir laisvėmis apribojimai negali prieštarauti Lietuvos Respublikos įsipareigojimams pagal tarptautinę teisę.
+3. Šio straipsnio 1 ir 2 dalyse nurodytas naudojimosi teisėmis ir laisvėmis apribojimas ir šio Įstatymo 28 straipsnyje nustatytos nepaprastosios priemonės gali būti naudojamos tik tiek, kiek to reikalauja padėties kritiškumas. Naudojimąsi kitomis žmogaus teisėmis ir laisvėmis apriboti draudžiama.
+
+4. Įvesti naudojimosi teisėmis ir laisvėmis apribojimai negali prieštarauti Lietuvos Respublikos įsipareigojimams pagal tarptautinę teisę.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2376, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25628
 
 19 straipsnis. Žmogaus teisės naudotis privataus gyvenimo neliečiamumu apribojimas
 
@@ -740,4 +738,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1822, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05724
 
 Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 13, 15, 16, 21, 22, 27 ir 28 straipsnių pakeitimo įstatymo Nr. XIV-1272 4, 6 straipsnių pakeitimo ir 1, 5, 7 straipsnių pripažinimo netekusiais galios įstatymas
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2376, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25628
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 18 straipsnio pakeitimo įstatymas
 
