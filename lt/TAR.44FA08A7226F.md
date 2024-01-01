@@ -4,7 +4,7 @@ identifier: "TAR.44FA08A7226F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-14"
-last_updated: "2023-09-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymas
 
-Suvestinė redakcija nuo 2023-09-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 98-2478, i. k. 0971010ISTAVIII-450
 
@@ -388,17 +388,21 @@ Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
 1. Profesinio mokymo įstaigas gali steigti fiziniai ar juridiniai asmenys ar kitos juridinio asmens statuso neturinčios organizacijos.
 
-2. Valstybinė ar savivaldybės profesinio mokymo įstaiga yra viešasis juridinis asmuo, veikiantis kaip viešoji įstaiga (išskyrus bausmių vykdymo sistemos ir vidaus reikalų profesinio mokymo teikėjus), kurio savininko teises ir pareigas įgyvendina atitinkamai Vyriausybė ar jos įgaliota institucija arba įstaiga, ar savivaldybė. Valstybinės ar savivaldybės profesinio mokymo įstaigos dalininkais gali būti fiziniai asmenys ir kiti negu Vyriausybė ar jos įgaliotos institucijos arba savivaldybė juridiniai asmenys.
+2. Valstybinė ar savivaldybės profesinio mokymo įstaiga yra viešasis juridinis asmuo, veikiantis kaip viešoji įstaiga (išskyrus bausmių vykdymo sistemos, muitinės pareigūnų ir vidaus reikalų profesinio mokymo teikėjus), kurio savininko teises ir pareigas įgyvendina atitinkamai Vyriausybė ar jos įgaliota institucija arba įstaiga, ar savivaldybė. Valstybinės ar savivaldybės profesinio mokymo įstaigos dalininkais gali būti fiziniai asmenys ir kiti negu Vyriausybė ar jos įgaliotos institucijos arba savivaldybė juridiniai asmenys.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
 
-3. Profesinio mokymo įstaigos reorganizuojamos, likviduojamos ir pertvarkomos vadovaujantis Lietuvos Respublikos viešųjų įstaigų įstatymu, išskyrus bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo įstaigas, kurios reorganizuojamos, likviduojamos ir pertvarkomos vadovaujantis Lietuvos Respublikos civiliniu kodeksu.
+Nr. XIV-2408, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25922
+
+3. Profesinio mokymo įstaigos reorganizuojamos, likviduojamos ir pertvarkomos vadovaujantis Lietuvos Respublikos viešųjų įstaigų įstatymu, išskyrus bausmių vykdymo sistemos profesinio mokymo, muitinės pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo įstaigas, kurios reorganizuojamos, likviduojamos ir pertvarkomos vadovaujantis Lietuvos Respublikos civiliniu kodeksu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+
+Nr. XIV-2408, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25922
 
 4. Steigiant valstybines ir savivaldybių profesinio mokymo įstaigas, taip pat pertvarkant valstybines profesinio mokymo įstaigas, į jas negali būti investuojamas valstybės ar savivaldybių nekilnojamasis turtas.
 
@@ -550,11 +554,23 @@ Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
 18 straipsnis. Profesinio mokymo planavimas ir priėmimas mokytis
 
-1. Preliminarų valstybės finansuojamų formaliojo profesinio mokymo vietų, skirtų asmenims priimti mokytis pagal formaliojo profesinio mokymo programas profesinio mokymo įstaigose ir kitose valstybinėse ar savivaldybių švietimo įstaigose, skaičių 2 metams nustato Vyriausybė pagal Lietuvos švietimo klasifikatoriuje nustatytas švietimo sritis iki atitinkamų metų sausio 20 dienos. Šis skaičius nustatomas atsižvelgus į valstybės ir savivaldybės ūkinės ir socialinės plėtros poreikius, įvertinus nacionalinės žmogiškųjų išteklių stebėsenos informaciją, profesinio mokymo kvalifikacijų poreikio prognozes, pagrindinio ugdymo pasiekimų patikrinimų rezultatų informaciją, regionų plėtros tarybų siūlymus ir valstybės finansines galimybes. Į preliminarų valstybės finansuojamų formaliojo profesinio mokymo vietų skaičių neįskaičiuojamos bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo vietos bei profesinio mokymo, vykdomo Užimtumo įstatymo ir Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, vietos.
+1. Preliminarų valstybės finansuojamų formaliojo profesinio mokymo vietų, skirtų asmenims priimti mokytis pagal formaliojo profesinio mokymo programas profesinio mokymo įstaigose ir kitose valstybinėse ar savivaldybių švietimo įstaigose, skaičių 2 metams nustato Vyriausybė pagal Lietuvos švietimo klasifikatoriuje nustatytas švietimo sritis iki atitinkamų metų sausio 20 dienos. Šis skaičius nustatomas atsižvelgus į valstybės ir savivaldybės ūkinės ir socialinės plėtros poreikius, įvertinus nacionalinės žmogiškųjų išteklių stebėsenos informaciją, profesinio mokymo kvalifikacijų poreikio prognozes, pagrindinio ugdymo pasiekimų patikrinimų rezultatų informaciją, regionų plėtros tarybų siūlymus ir valstybės finansines galimybes. Į preliminarų valstybės finansuojamų formaliojo profesinio mokymo vietų skaičių neįskaičiuojamos bausmių vykdymo sistemos profesinio mokymo, muitinės pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo vietos bei profesinio mokymo, vykdomo Užimtumo įstatymo ir Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo nustatyta tvarka, vietos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+
+Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
 
 2. Valstybės finansuojamų formaliojo profesinio mokymo vietų skaičių pagal Lietuvos švietimo klasifikatoriuje apibrėžiamas švietimo sritis ir pagal regionus kiekvienais metais iki vasario 1 dienos nustato švietimo, mokslo ir sporto ministras. Valstybės finansuojamų formaliojo profesinio mokymo vietų skaičiaus pagal Lietuvos švietimo klasifikatoriuje apibrėžiamas švietimo sritis ir pagal regionus projektas teikiamas susipažinti ir pateikti siūlymus ministerijoms bei regionų plėtros taryboms ir tvirtinamas įvertinus ministerijų ir regionų plėtros tarybų siūlymus bei atsižvelgus į kvalifikacijų poreikio regionuose prognozės duomenis, neviršijant Vyriausybės nustatyto preliminaraus valstybės finansuojamų formaliojo profesinio mokymo vietų skaičiaus. Švietimo, mokslo ir sporto ministras, neviršydamas Vyriausybės nustatyto vietų skaičiaus, nustato vietų skaičių jo tvirtinamoms prioritetinėms formaliojo profesinio mokymo programoms. Atsižvelgęs į mokinių, pasirinkusių valstybės finansuojamas formaliojo profesinio mokymo vietas, skaičių ir neužpildytų vietų skaičių, švietimo, mokslo ir sporto ministras gali perskirstyti ne daugiau kaip 10 procentų nustatyto valstybės finansuojamų formaliojo profesinio mokymo vietų skaičiaus pagal Lietuvos švietimo klasifikatoriuje apibrėžiamas švietimo sritis ir regionus.
 
-3. Priėmimą mokytis pagal formaliojo profesinio mokymo programas į profesinio mokymo įstaigų ir kitų valstybinių ar savivaldybių švietimo įstaigų valstybės finansuojamas formaliojo profesinio mokymo vietas centralizuotai vykdo švietimo, mokslo ir sporto ministro įgaliota institucija. Ši nuostata netaikoma bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjams, profesinio mokymo teikėjams, vykdantiems asmenų, kuriems taikomas Užimtumo įstatymas ir Neįgaliųjų socialinės integracijos įstatymas, profesinį mokymą.
+3. Priėmimą mokytis pagal formaliojo profesinio mokymo programas į profesinio mokymo įstaigų ir kitų valstybinių ar savivaldybių švietimo įstaigų valstybės finansuojamas formaliojo profesinio mokymo vietas centralizuotai vykdo švietimo, mokslo ir sporto ministro įgaliota institucija. Ši nuostata netaikoma bausmių vykdymo sistemos profesinio mokymo, muitinės pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjams, profesinio mokymo teikėjams, vykdantiems asmenų, kuriems taikomas Užimtumo įstatymas ir Asmens su negalia teisių apsaugos pagrindų įstatymas, profesinį mokymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+
+Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
 
 4. Priėmimo mokytis pagal formaliojo profesinio mokymo programas į profesinio mokymo įstaigas ir kitas valstybines ar savivaldybių švietimo įstaigas tvarką nustato švietimo, mokslo ir sporto ministras. Nuostatos, reglamentuojančios konkursinės eilės sudarymą, negali būti keičiamos likus mažiau kaip 2 mėnesiams iki atitinkamo priėmimo etapo pradžios.
 
@@ -564,13 +580,25 @@ Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
 7. Priėmimą mokytis į valstybės finansuojamas neformaliojo profesinio mokymo vietas, atsižvelgiant į profesinio mokymo teikėjo galimybes kokybiškai suteikti kvalifikaciją, profesinio mokymo teikėjas vykdo švietimo, mokslo ir sporto ministro nustatyta tvarka.
 
-8. Priėmimo į bausmių vykdymo sistemos profesinio mokymo įstaigų vykdomas programas planą tvirtina teisingumo ministras, o priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą – vidaus reikalų ministras.
+8. Priėmimo į bausmių vykdymo sistemos profesinio mokymo įstaigų vykdomas programas planą tvirtina teisingumo ministras, priėmimo į muitinės pareigūnų profesinio mokymo įstaigos vykdomas programas planą – finansų ministras, o priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą – vidaus reikalų ministras.
 
-9. Asmenų priėmimą į bausmių vykdymo sistemos profesinio mokymo įstaigas ir vidaus reikalų profesinio mokymo įstaigas reglamentuoja Vidaus tarnybos statutas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2408, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25922
+
+9. Asmenų priėmimą į bausmių vykdymo sistemos profesinio mokymo įstaigas, muitinės pareigūnų profesinio mokymo įstaigą ir vidaus reikalų profesinio mokymo įstaigas reglamentuoja Vidaus tarnybos statutas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2408, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25922
 
 10. Asmenys, kurie pirmąją kvalifikaciją įgijo mokydamiesi pagal mažesnės negu 20 mokymosi kreditų apimties formaliojo profesinio mokymo programą, gali būti priimami į pirminį arba tęstinį profesinį mokymą. Nustatant asmens įgytų kvalifikacijų skaičių, neįskaitomos kvalifikacijos, įgytos pagal formaliojo profesinio mokymo programas, kurių apimtis mažesnė negu 20 mokymosi kreditų, o jeigu formaliojo profesinio mokymo programų trukmė nustatyta valandomis, jų atitiktis mokymosi kreditams nustatoma švietimo, mokslo ir sporto ministro nustatyta tvarka, o pagal vieną formaliąją profesinio mokymo programą įgytos ne daugiau kaip trys kvalifikacijos prilyginamos vienai kvalifikacijai.
 
-11. Asmens priėmimas mokytis pagal profesinio mokymo programą įforminamas profesinio mokymo sutartimi. Bausmių vykdymo sistemos profesinio mokymo įstaigose ir vidaus reikalų profesinio mokymo įstaigose besimokančių asmenų profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato vidaus reikalų ministras, suderinęs su teisingumo ministru, kitoms profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką – švietimo, mokslo ir sporto ministras kartu su ekonomikos ir inovacijų ministru.
+11. Asmens priėmimas mokytis pagal profesinio mokymo programą įforminamas profesinio mokymo sutartimi. Bausmių vykdymo sistemos profesinio mokymo įstaigose, muitinės pareigūnų profesinio mokymo įstaigoje ir vidaus reikalų profesinio mokymo įstaigose besimokančių asmenų profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato vidaus reikalų ministras, suderinęs su teisingumo ir finansų ministrais, kitoms profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką – švietimo, mokslo ir sporto ministras kartu su ekonomikos ir inovacijų ministru.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2408, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25922
 
 12. Asmuo, kurio formalųjį profesinį mokymą finansuoja valstybė, švietimo, mokslo ir sporto ministro nustatyta tvarka turi teisę vieną kartą keisti pasirinktą profesinio mokymo programą, neprarasdamas valstybės finansuojamos profesinio mokymo vietos.
 
@@ -864,7 +892,7 @@ Vidaus reikalų ministras:
 
 1) tvirtina asmenų, kuriems taikomas Vidaus tarnybos statutas ir kurie pageidauja įgyti kvalifikaciją, priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą;
 
-2) suderinęs su teisingumo ministru, nustato reikalavimus, taikomus bausmių vykdymo sistemos profesinio mokymo įstaigose ir vidaus reikalų profesinio mokymo įstaigose besimokančių asmenų, kuriems taikomas Vidaus tarnybos statutas, profesinio mokymo sutartims, ir šių sutarčių registravimo tvarką;
+2) suderinęs su teisingumo ir finansų ministrais, nustato reikalavimus, taikomus bausmių vykdymo sistemos profesinio mokymo įstaigose, muitinės pareigūnų profesinio mokymo įstaigoje ir vidaus reikalų profesinio mokymo įstaigose besimokančių asmenų, kuriems taikomas Vidaus tarnybos statutas, profesinio mokymo sutartims, ir šių sutarčių registravimo tvarką;
 
 3) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
@@ -873,6 +901,8 @@ Straipsnio pakeitimai:
 Nr. XIII-1392, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12062
 
 Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+
+Nr. XIV-2408, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25922
 
 29 straipsnis. Teisingumo ministro įgaliojimai
 
@@ -1012,101 +1042,69 @@ Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
 
 Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
-36 straipsnis. Profesinio mokymo finansavimas valstybės ir savivaldybių biudžeto lėšomis
+36 straipsnis. Profesinio mokymo finansavimas valstybės biudžeto ir savivaldybių biudžetų lėšomis
 
-1. Valstybės biudžeto finansavimo lėšos skiriamos:
+1. Valstybės biudžeto lėšos skiriamos:
 
-1) profesiniam mokymui vykdyti ir profesinio mokymo kainai valstybės finansuojamose vietose apmokėti;
+1) profesiniam mokymui vykdyti;
 
 2) ūkiui, susijusiam su profesinio mokymo veikla;
 
-3) kompetencijų ir (ar) kvalifikacijų vertinimui ir pripažinimui;
+3) kompetencijų vertinimui ir pripažinimui;
 
 4) profesiniam orientavimui;
 
-5) valstybės paskoloms arba valstybės remiamoms paskoloms;
+5) socialinėms stipendijoms, mokymosi stipendijoms, tikslinėms stipendijoms ir kitai materialinei paramai;
 
-6) socialinėms stipendijoms, mokymosi stipendijoms, tikslinėms stipendijoms ir kitai paramai;
+6) profesinio mokymo plėtrai ir infrastruktūrai atnaujinti;
 
-Straipsnio punkto pakeitimai:
+7) kitoms reikmėms, susijusioms su profesinio mokymo veikla.
 
-Nr. XIII-3154, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14369
+2. Savivaldybių biudžetų lėšos profesinio mokymo įstaigoms skiriamos Švietimo įstatymo ir Lietuvos Respublikos vietos savivaldos įstatymo nustatyta tvarka.
 
-7) profesinio mokymo plėtrai.
-
-2. Savivaldybės biudžeto lėšos profesinio mokymo įstaigoms skiriamos Švietimo įstatyme ir Lietuvos Respublikos vietos savivaldos įstatyme nustatyta tvarka.
-
-3. Valstybės finansuojamose profesinio mokymo vietose mokęsi asmenys švietimo, mokslo ir sporto ministro nustatyta tvarka privalo į valstybės biudžetą grąžinti profesinio mokymo kainai valstybės finansuojamose profesinio mokymo vietose apmokėti skirtas lėšas arba jų dalį, jeigu šie asmenys nutraukia profesinį mokymą savo noru (išskyrus atvejus, kai pirminis profesinis mokymas profesinei kvalifikacijai įgyti nutraukiamas per pirmuosius 6 mokymo mėnesius arba pirminio profesinio mokymo metu suteikiama pirmoji kvalifikacija šio įstatymo 10 straipsnio 1–4 punktuose nurodytais atvejais), taip pat kai asmenys pašalinami iš profesinio mokymo įstaigos švietimo, mokslo ir sporto ministro nustatyta tvarka.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+3. Valstybės finansuojamose profesinio mokymo vietose mokęsi asmenys švietimo, mokslo ir sporto ministro nustatyta tvarka privalo į valstybės biudžetą grąžinti profesiniam mokymui valstybės finansuojamose profesinio mokymo vietose apmokėti skirtas lėšas arba jų dalį, jeigu šie asmenys nutraukia profesinį mokymą savo noru (išskyrus atvejus, kai pirminis profesinis mokymas profesinei kvalifikacijai įgyti nutraukiamas per pirmuosius 6 mokymo mėnesius arba kai asmuo kvalifikacijos siekia šio įstatymo 11 straipsnio 1–4 punktuose nurodytais atvejais), taip pat kai asmenys pašalinami iš profesinio mokymo įstaigos švietimo, mokslo ir sporto ministro nustatyta tvarka.
 
 4. Asmuo atleidžiamas nuo šio straipsnio 3 dalyje nurodytų lėšų grąžinimo, jeigu:
 
 1) mokslo metus baigė profesinio mokymo teikėjo nustatytu laiku, neturi skolų ir ne vėliau kaip iki naujų mokslo metų pradžios raštu pranešė profesinio mokymo teikėjui apie mokymosi nutraukimą arba asmuo įvykdė mokymo programos reikalavimus, tačiau nelaikė baigiamojo egzamino;
 
-2) teisės aktų nustatyta tvarka jam buvo nustatytas neįgalumas;
+2) teisės aktų nustatyta tvarka jam nustatytas neįgalumo lygis arba 55 procentų ar mažesnis dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis);
 
-3) buvo išleistas akademinių atostogų dėl ligos gydytojui ar gydytojų konsultacinei komisijai rekomendavus arba nėštumo ir gimdymo ar vaiko priežiūros atostogų ir nepasibaigus akademinių atostogų terminui raštu pranešė profesinio mokymo įstaigai apie mokymosi nutraukimą;
+3) buvo išleistas akademinių atostogų dėl ligos gydytojui ar gydytojų konsultacinei komisijai rekomendavus arba nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti ir nepasibaigus akademinių atostogų terminui raštu pranešė profesinio mokymo įstaigai apie mokymosi nutraukimą;
 
 4) jis miršta.
 
-5. Mokymo lėšos formaliajam profesiniam mokymui skiriamos iš valstybės biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, Europos Sąjungos struktūrinių fondų, darbdavių lėšų ir (ar) kitų lėšų, taikant Vyriausybės patvirtintą profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo lėšos bausmių vykdymo sistemos profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų vykdomam profesiniam mokymui skiriamos taikant Vyriausybės patvirtintą vidaus reikalų ir bausmių vykdymo sistemos profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką.
+5. Mokymo lėšos profesiniam mokymui pagal formaliojo profesinio mokymo programas ar jų modulius valstybės finansuojamose profesinio mokymo vietose, kurių skaičius nustatomas šio įstatymo 18 straipsnio 2 dalyje nustatyta tvarka, valstybiniams, savivaldybių ir nevalstybiniams profesinio mokymo teikėjams apskaičiuojamos ir skiriamos iš Švietimo, mokslo ir sporto ministerijai patvirtintų valstybės biudžeto asignavimų, taikant Vyriausybės patvirtintą profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo lėšos bausmių vykdymo sistemos profesinio mokymo įstaigų, muitinės pareigūnų profesinio mokymo įstaigos ir vidaus reikalų profesinio mokymo įstaigų vykdomam profesiniam mokymui skiriamos taikant Vyriausybės patvirtintą bausmių vykdymo sistemos profesinio mokymo įstaigų, muitinės pareigūnų profesinio mokymo įstaigos ir vidaus reikalų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką.
 
-Straipsnio dalies pakeitimai:
+6. Neformalųjį profesinį mokymą finansuoja mokymą užsakantis fizinis ar juridinis asmuo. Neformalusis profesinis mokymas gali būti remiamas iš valstybės biudžeto, savivaldybių biudžetų, Europos Sąjungos ir kitos tarptautinės finansinės paramos, darbdavių lėšų ir (ar) kitų lėšų. Valstybės biudžeto lėšos neformaliajam profesiniam mokymui finansuoti skiriamos atitinkamos valdymo srities ministro nustatyta tvarka iš jo vadovaujamai ministerijai skirtų valstybės biudžeto asignavimų. Savivaldybės biudžeto lėšos neformaliajam profesiniam mokymui finansuoti skiriamos savivaldybės tarybos nustatyta tvarka.
 
-Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+7. Įmonės, įstaigos, organizacijos, ūkininko ūkio darbuotojų tęstinis profesinis mokymas vykdomas įmonės, įstaigos, organizacijos, ūkininko ūkio arba besimokančiųjų lėšomis. Įmonės, įstaigos, organizacijos ar ūkininko ūkio darbuotojų tęstiniam profesiniam mokymui skiriama ir valstybės biudžeto lėšų, Europos Sąjungos ir kitos tarptautinės finansinės paramos ir (ar) kitų lėšų šių lėšų skyrimą reglamentuojančių teisės aktų nustatyta tvarka.
 
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+8. Bedarbių ir užimtų asmenų profesinis mokymas finansuojamas Užimtumo įstatymo nustatyta tvarka.
 
-6. Neformalųjį profesinį mokymą finansuoja mokymą užsakantis fizinis ar juridinis asmuo, jis gali būti remiamas iš valstybės, savivaldybių biudžetų, Europos Sąjungos struktūrinių fondų, darbdavių lėšų ir (ar) kitų lėšų.
+9. Kai asmenys mokosi valstybės finansuojamose profesinio mokymo vietose, kurių skaičius nustatomas šio įstatymo 18 straipsnio 2 dalyje nustatyta tvarka, valstybės biudžeto lėšos asmens kompetencijoms vertinti apskaičiuojamos taikant Vyriausybės patvirtintą kompetencijų vertinimo lėšų skaičiavimo vienam asmeniui metodiką, išskyrus bausmių vykdymo sistemos profesinio mokymo įstaigų, muitinės pareigūnų profesinio mokymo įstaigos ir vidaus reikalų profesinio mokymo įstaigų mokinių kompetencijų vertinimą. Lėšos asmens kompetencijoms vertinti skirstomos vadovaujantis švietimo, mokslo ir sporto ministro tvirtinamu lėšų kompetencijoms vertinti paskirstymo tvarkos aprašu. Bausmių vykdymo sistemos profesinio mokymo įstaigų mokinių kompetencijų vertinimas finansuojamas teisingumo ministro nustatyta tvarka. Muitinės pareigūnų profesinio mokymo įstaigos mokinių kompetencijų vertinimas finansuojamas finansų ministro nustatyta tvarka. Vidaus reikalų profesinio mokymo įstaigų mokinių kompetencijų vertinimas finansuojamas vidaus reikalų ministro nustatyta tvarka.
 
-Straipsnio dalies pakeitimai:
+10. Valstybės biudžeto lėšos mokinių profesiniam orientavimui bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose skiriamos taikant lėšų skyrimo vienam mokiniui principą.
 
-Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+11. Valstybės biudžeto lėšos ūkiui valstybinei profesinio mokymo įstaigai skiriamos institucijos, įgyvendinančios valstybės, kaip savininkės ar dalininkės, teises ir pareigas, nustatyta tvarka, kitos lėšos ūkiui gali būti skiriamos savininko (dalyvių susirinkimo) nustatyta tvarka. Savivaldybės biudžeto lėšos ūkiui savivaldybės profesinio mokymo įstaigai skiriamos institucijos, įgyvendinančios savivaldybės, kaip savininkės ar dalininkės, teises ir pareigas, nustatyta tvarka, kitos lėšos gali būti skiriamos savininko (dalyvių susirinkimo) nustatyta tvarka. Nevalstybinei profesinio mokymo įstaigai ūkio lėšas skiria savininkas (dalyvių susirinkimas).
 
-7. Profesinio mokymo įstaigoms bei profesinio mokymo teikėjams, vykdantiems valstybės finansuojamą profesinį mokymą, mokymo lėšų skiriama iš valstybės biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, savivaldybių biudžetų, Europos Sąjungos struktūrinių fondų, darbdavių lėšų ir (ar) kitų lėšų.
+12. Investicinių lėšų iš valstybės biudžeto profesinio mokymo ir kvalifikacijų sistemų plėtrai (statyboms, renovacijai, materialinei mokymo bazei atnaujinti, standartams rengti ir kt.) skiriama pagal projektus ar programas, patvirtintus atitinkamų metų Valstybės investicijų programoje, švietimo politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose ar kituose strateginio valdymo dokumentuose. Investicinių lėšų profesinio mokymo įstaigoms gali skirti ir profesinio mokymo įstaigos savininkas (dalyvių susirinkimas) savo nustatyta tvarka.
 
-Straipsnio dalies pakeitimai:
+13. Socialiniams partneriams šio įstatymo 34 straipsnio 3, 5, 6, 7 ir 8 punktuose nustatytoms funkcijoms atlikti lėšos skiriamos iš ministerijų, kurių reguliavimo sričiai yra numatytos šios funkcijos, tam tikslui skirtų valstybės biudžeto asignavimų.
 
-Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+14. Kai asmenys nesimoko valstybės finansuojamose profesinio mokymo vietose, kurių skaičius nustatomas šio įstatymo 18 straipsnio 2 dalyje nustatyta tvarka, bet jų profesinis mokymas pagal formaliojo profesinio mokymo programas arba jų modulius finansuojamas iš valstybės biudžeto, savivaldybių biudžetų ar kitų valstybės ar savivaldybių lėšų, lėšos, valstybės institucijų ir įstaigų ar savivaldybių skiriamos apmokėti už profesinio mokymo paslaugas, apima:
 
-8. Įmonės, įstaigos, organizacijos, ūkininko ūkio darbuotojų tęstinis profesinis mokymas vykdomas įmonės, įstaigos, organizacijos, ūkininko ūkio arba besimokančiųjų lėšomis. Teisės aktų nustatyta tvarka įmonės, įstaigos, organizacijos ar ūkininko ūkio darbuotojų tęstiniam profesiniam mokymui skiriama ir valstybės biudžeto lėšų, Europos Sąjungos struktūrinių fondų, darbdavių lėšų ir (ar) kitų lėšų socialinės apsaugos ir darbo ministro ir ekonomikos ir inovacijų ministro nustatyta tvarka, kai mokymas vykdomas pagal Užimtumo įstatymą.
+1) mokymo lėšas, kurios apskaičiuojamos taikant šio straipsnio 5 dalyje nurodytą metodiką;
 
-Straipsnio dalies pakeitimai:
+2) ūkio lėšas, kurios apskaičiuojamos taikant švietimo, mokslo ir sporto ministro tvirtinamą ūkio lėšų skaičiavimo vienam mokiniui metodiką;
 
-Nr. XIII-986, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00961
+3) lėšas asmens kompetencijoms vertinti, kurios apskaičiuojamos taikant šio straipsnio 9 dalyje nurodytą metodiką (šio punkto nuostata taikoma tik tais atvejais, kai atliekamas asmens kompetencijų vertinimas).
 
-Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+Straipsnio pakeitimai:
 
-9. Bedarbių ir užimtų asmenų profesinis mokymas finansuojamas Užimtumo įstatymo nustatyta tvarka.
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
-10. Asmens kompetencijoms vertinti lėšų skiriama taikant Vyriausybės patvirtintą Kompetencijų vertinimo lėšų skaičiavimo vienam asmeniui metodiką. Lėšos skirstomos vadovaujantis kompetencijų vertinimo lėšų paskirstymo tvarkos aprašu.
-
-11. Lėšos mokinių profesiniam orientavimui bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose skiriamos taikant lėšų skyrimo vienam mokiniui principą.
-
-12. Asmenų profesiniam orientavimui Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos lėšos skiriamos socialinės apsaugos ir darbo ministro nustatyta tvarka.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-986, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00961
-
-13. Valstybės ir savivaldybės profesinio mokymo įstaigai ūkio lėšas skiria savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), nevalstybinei profesinio mokymo įstaigai – savininkas (dalyvių susirinkimas). Viešosioms profesinio mokymo įstaigoms gali būti skiriama ūkio lėšų iš valstybės biudžeto, savivaldybių biudžetų arba kitų lėšų. Savivaldybių profesinio mokymo įstaigoms gali būti skiriama ūkio lėšų iš atitinkamų metų valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams pagal Vyriausybės patvirtintą metodiką.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
-
-14. Investicinių lėšų iš valstybės biudžeto profesinio mokymo ir kvalifikacijų sistemų plėtrai (statyboms, renovacijai, materialinei mokymo bazei atnaujinti, standartams rengti ir kt.) skiriama pagal investicines programas, patvirtintas atitinkamų metų Valstybės investicijų programoje. Investicinių lėšų profesinio mokymo įstaigoms gali skirti ir profesinio mokymo įstaigos savininkas (dalyvių susirinkimas) savo nustatyta tvarka.
-
-15. Socialiniams partneriams šio įstatymo 34 straipsnio 3, 5, 6, 7 ir 8 punktuose nustatytoms funkcijoms atlikti lėšos skiriamos pagal patvirtintas pajamų ir išlaidų sąmatas iš ministerijų, kurių reguliavimo sričiai yra numatytos šios funkcijos, tam tikslui skirtų asignavimų.
-
-16. Valstybinis studijų fondas Vyriausybės nustatyta tvarka administruoja valstybės paskolas arba valstybės remiamas paskolas, taip pat kitą paramą profesiniam mokymui vykdyti.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-986, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00961
+Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
 
 37 straipsnis. Teisės į valstybės finansuojamą formaliojo profesinio mokymo vietą neturintys asmenys
 
@@ -1124,11 +1122,13 @@ Nr. XIII-986, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00961
 
 2) vienai kvalifikacijai prilyginamos ne daugiau kaip trys kvalifikacijos, įgytos mokantis pagal vieną formaliąją profesinio mokymo programą.
 
-3. Šis straipsnis netaikomas asmenims, kurių profesinis mokymas vykdomas Užimtumo įstatymo ir Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ir asmenims, kurių profesinį mokymą vykdo bausmių vykdymo sistemos profesinio mokymo, vidaus reikalų profesinio mokymo teikėjai.
+3. Šis straipsnis netaikomas asmenims, kurių profesinis mokymas vykdomas Užimtumo įstatymo ir Asmens su negalia teisių apsaugos pagrindų įstatymo nustatyta tvarka, ir asmenims, kurių profesinį mokymą vykdo bausmių vykdymo sistemos profesinio mokymo, muitinės pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+
+Nr. XIV-2408, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25922
 
 Straipsnio pakeitimai:
 
@@ -1136,39 +1136,47 @@ Nr. XIV-1128, 2022-05-26, paskelbta TAR 2022-05-30, i. k. 2022-11560
 
 38 straipsnis. Materialinė parama
 
-1. Mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas ar jų modulius, siekdami įgyti pirmąją kvalifikaciją, bausmių vykdymo sistemos profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali būti mokamos stipendijos ir teikiama kita materialinė parama. Mokymosi stipendija nemokama mokiniams, neturintiems teisės į valstybės finansuojamą vietą, o mokiniams, kuriems laikinai atimta ar apribota laisvė, nemokama socialinė stipendija ir neteikiama kita materialinė parama.
+1. Mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas ar jų modulius, siekdami įgyti pirmąją kvalifikaciją, bausmių vykdymo sistemos profesinio mokymo įstaigų, muitinės pareigūnų profesinio mokymo įstaigos ir vidaus reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali būti mokama mokymosi stipendija, socialinė stipendija ir teikiama kita materialinė parama. Mokymosi stipendija nemokama mokiniams, neturintiems teisės į valstybės finansuojamą vietą, o mokiniams, kuriems laikinai atimta ar apribota laisvė, nemokama socialinė stipendija ir neteikiama kita materialinė parama.
 
-Straipsnio dalies pakeitimai:
+2. Mokiniams, kurie mokosi pagal prioritetines formaliojo profesinio mokymo programas valstybės finansuojamose vietose, gali būti mokamos tikslinės stipendijos. Tikslinė stipendija mokama mokiniams, neturintiems nepatenkinamų mokymosi pasiekimų įvertinimų, ne rečiau kaip kartą per pusę metų visą mokymosi laikotarpį, neatsižvelgiant į kitas gaunamas stipendijas ar materialinę paramą, bet ne ilgiau kaip profesinio mokymo programos nustatyta trukmė. Tikslinių stipendijų skyrimo ir administravimo tvarką nustato Vyriausybė. Prioritetines formaliojo profesinio mokymo programas nustato švietimo, mokslo ir sporto ministras, įvertinęs Vyriausybės komisijos nacionalinių žmogiškųjų išteklių stebėsenai koordinuoti pateiktus siūlymus dėl atitinkamų specialistų poreikio. Prioritetinių formaliojo profesinio mokymo programų sąrašas peržiūrimas kiekvienais metais ir prireikus keičiamas. Tikslines stipendijas administruoja švietimo, mokslo ir sporto ministro įgaliota įstaiga, pagal jai pavestas funkcijas administruojanti tikslines stipendijas mokiniams, įstojusiems mokytis pagal prioritetines formaliojo profesinio mokymo programas.
 
-Nr. XIV-536, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20295
+3. Mokiniams, kurių mokymas vykdomas pagal Užimtumo įstatymą, stipendija skiriama Užimtumo įstatymo ir jo įgyvendinamųjų teisės aktų nustatytomis sąlygomis ir tvarka. Mokiniams, dalyvaujantiems profesinės reabilitacijos programoje pagal Asmens su negalia teisių apsaugos pagrindų įstatymą, profesinės reabilitacijos išmoka skiriama Asmens su negalia teisių apsaugos pagrindų įstatymo ir Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo ir šių įstatymų įgyvendinamųjų teisės aktų nustatytomis sąlygomis ir tvarka.
 
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+Straipsnio pakeitimai:
 
-11. Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų tikslinės stipendijos gali būti mokamos mokiniams, įstojusiems į Vyriausybės patvirtintų prioritetinių formaliųjų profesinio mokymo programų valstybės finansuojamas vietas. Tikslinė stipendija mokama neturintiems skolų mokiniams ne rečiau kaip kartą per pusę metų visą mokymosi laikotarpį, bet ne ilgiau kaip mokymo programos nustatyta trukmė. Atitinkamų metų prioritetines formaliojo profesinio mokymo programas nustato Vyriausybė iki kiekvienų metų vasario 2 dienos, atsižvelgdama į ministerijų pasiūlymus, valstybės ūkinės, socialinės, kultūrinės ir regioninės plėtros poreikius, nacionalinės žmogiškųjų išteklių stebėsenos, užimtumo ir darbo rinkos stebėsenos informaciją bei valstybės finansines galimybes. Tikslines stipendijas administruoja Valstybinis studijų fondas.
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
-Papildyta straipsnio dalimi:
-
-Nr. XIII-3154, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14369
-
-2. Specialiųjų poreikių mokiniams, siekiantiems įgyti kvalifikaciją ir negaunantiems stipendijos arba siekiantiems keisti kvalifikaciją, teisės aktų nustatyta tvarka skiriamas maitinimas ir teikiama kita materialinė parama.
-
-3. Mokiniams, kurių mokymas vykdomas pagal Užimtumo įstatymą ar Neįgaliųjų socialinės integracijos įstatymą, materialinė parama skiriama šių įstatymų ir jų įgyvendinamųjų teisės aktų nustatyta tvarka.
+Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
 
 39 straipsnis. Užmokestis už profesinį mokymą
 
-1. Nevalstybinėje profesinio mokymo įstaigoje užmokestį už profesinį mokymą nustato įstaigos savininkas (dalyvių susirinkimas).
+1. Nevalstybinėje profesinio mokymo įstaigoje užmokestį už profesinį mokymą nustato įstaigos savininkas (dalyvių susirinkimas), išskyrus profesinį mokymą pagal formaliojo profesinio mokymo programas ar jų modulius valstybės finansuojamose profesinio mokymo vietose, kurių skaičius nustatomas šio įstatymo 18 straipsnio 2 dalyje nustatyta tvarka.
 
-2. Užmokesčio už neformalųjį profesinį mokymą dydį valstybinėse ir savivaldybių profesinio mokymo įstaigose nustato įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas).
+2. Valstybinėje ir savivaldybės profesinio mokymo įstaigoje ir kitoje valstybinėje ar savivaldybės švietimo įstaigoje, vykdančioje valstybės finansuojamas formaliojo profesinio mokymo programas, užmokestis už profesinį mokymą taikomas tais atvejais, kai asmenys nesimoko valstybės finansuojamose profesinio mokymo vietose, kurių skaičius nustatomas šio įstatymo 18 straipsnio 2 dalyje nustatyta tvarka.
 
-3. Profesinės mokymo įstaigos teikiamos nenumatytos profesinio mokymo programose papildomos praktinio mokymo priemonės ir mokymo paslaugos (konsultacijos, kursai ir kt.) yra mokamos. Užmokesčio už teikiamas paslaugas dydį nustato profesinio mokymo įstaigos vadovas, suderinęs su mokymo įstaigos taryba.
+3. Valstybinėje ir savivaldybės profesinio mokymo įstaigoje ir kitoje valstybinėje ar savivaldybės švietimo įstaigoje, vykdančioje valstybės finansuojamas formaliojo profesinio mokymo programas, užmokestis už profesinį mokymą pagal formaliojo profesinio mokymo programas arba jų modulius apima:
 
-4. Profesiniam mokymui, apmokamam valstybės biudžeto lėšomis ir Europos Sąjungos struktūrinių fondų lėšomis, neatsižvelgus į asignavimų valdytoją, nustatomas vienodas fiksuoto įkainio dydis.
+1) mokymo lėšas, kurios apskaičiuojamos taikant šio įstatymo 36 straipsnio 5 dalyje nurodytą metodiką;
 
-Straipsnio dalies pakeitimai:
+2) ūkio lėšas, kurios apskaičiuojamos taikant šio įstatymo 36 straipsnio 14 dalies 2 punkte nurodytą metodiką;
 
-Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+3) lėšas asmens kompetencijoms vertinti, kurios apskaičiuojamos vadovaujantis šio įstatymo 36 straipsnio 9 dalies nuostatomis (šio punkto nuostata taikoma tik tais atvejais, kai atliekamas asmens kompetencijų vertinimas).
 
-5. Profesinio mokymo paslaugų, apmokamų iš ne kitų negu šio straipsnio 4 dalyje nurodytų lėšų šaltinių, nustatomų įkainių dydis negali būti mažesnis negu teikiamų tų pačių paslaugų, apmokamų iš šio straipsnio 4 dalyje nurodytų lėšų šaltinių įkainių dydis.
+4. Valstybinėje ir savivaldybės profesinio mokymo įstaigoje užmokestis už asmens kompetencijų vertinimą nustatomas taikant šio įstatymo 36 straipsnio 9 dalyje nurodytą metodiką.
+
+5. Valstybinėje ir savivaldybės profesinio mokymo įstaigoje profesinio mokymo įstaigos vadovas, suderinęs su profesinio mokymo įstaigos taryba, nustato užmokestį už:
+
+1) neformalųjį profesinį mokymą;
+
+2) nenumatytas profesinio mokymo programose papildomas praktinio mokymo paslaugas (konsultacijas, kursus ir kita);
+
+3) kitas profesinio mokymo įstaigos teikiamas paslaugas (išskyrus šio straipsnio 3 ir 4 dalyse nurodytą užmokestį).
+
+6. Už to paties pobūdžio ir apimties profesinio mokymo paslaugas, nurodytas šio straipsnio 5 dalyje, profesinio mokymo įstaigoje negali būti nustatomas skirtingas užmokesčio dydis, priklausomai nuo lėšų šaltinio ar išlaidas apmokančio subjekto.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
 40 straipsnis. Turto valdymas, naudojimas ir disponavimas juo valstybinėse ir savivaldybių profesinio mokymo įstaigose, jo perdavimas pagal patikėjimo sutartis
 
@@ -1206,7 +1214,11 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 8) pajamos, turtas ar kita nauda, gauta valdant, naudojant šios dalies 1–7 punktuose nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus šiame įstatyme nustatytus atvejus.
 
-8. Valdydamos, naudodamos šio straipsnio 1 dalyje numatytą turtą ir juo disponuodamos, valstybinės profesinio mokymo įstaigos gali sudaryti tik tokius civilinius sandorius, kurie neprieštarauja jų steigimo dokumentams ir veiklos tikslams.
+8. Valdydamos, naudodamos šio straipsnio 1 dalyje numatytą turtą ir juo disponuodamos, valstybinės profesinio mokymo įstaigos gali sudaryti tik tokius civilinius sandorius, kurie neprieštarauja jų steigimo dokumentams ir veiklos tikslams, įskaitant Lietuvos Respublikos elektroninių ryšių įstatymo 461 straipsnyje nurodytus sandorius dėl servitutų, suteikiančių teisę įrengti elektroninių ryšių infrastruktūrą, ja naudotis ir (ar) ją prižiūrėti, nustatymo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2204, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21644
 
 41 straipsnis. Disponavimo valstybinių profesinio mokymo įstaigų nuosavybės teise valdomu ir naudojamu turtu ribojimai
 
@@ -1452,6 +1464,46 @@ Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
 Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
 
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2181, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19450
+
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 33 straipsnio pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2204, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21644
+
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 40 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2257, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22989
+
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 17 straipsnio pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
+
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-1732 9, 18 ir 19 straipsnių pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2408, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25922
+
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 15, 18, 28 ir 37 straipsnių pakeitimo ir Įstatymo papildymo 29-1 straipsniu įstatymas
+
 231 straipsnis. Formaliojo ir neformaliojo švietimo bei savišvietos būdu įgytų kompetencijų vertinimas ir pripažinimas
 
 Asmuo, siekiantis įgyti kvalifikaciją, ar asmens kvalifikacijos įgijimą finansuojanti institucija, gavusi šio asmens prašymą, gali kreiptis į profesinio mokymo įstaigas dėl neformaliojo švietimo būdu ar savišvietos būdu įgytų kompetencijų, susijusių su siekiama įgyti kvalifikacija, vertinimo ir pripažinimo. Šių kompetencijų vertinimo ir pripažinimo tvarką nustato švietimo, mokslo ir sporto ministras.
@@ -1545,4 +1597,16 @@ Nr. XII-923, 2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07839
 Papildyta straipsniu:
 
 Nr. XII-1448, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21185
+
+291 straipsnis. Finansų ministro įgaliojimai
+
+Finansų ministras:
+
+1) tvirtina asmenų, kuriems taikomas Vidaus tarnybos statutas ir kurie pageidauja įgyti kvalifikaciją, priėmimo į muitinės pareigūnų profesinio mokymo įstaigos vykdomas programas planą;
+
+2) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+
+Papildyta straipsniu:
+
+Nr. XIV-2408, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25922
 
