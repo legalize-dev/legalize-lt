@@ -4,7 +4,7 @@ identifier: "TAR.C51D9C259EFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-12-20"
-last_updated: "2022-11-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 34 straipsnis įsigalioja 2007-12-29"
 ---
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-20
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
 
@@ -166,11 +166,13 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 1. Draudžiama laidoti kapinėse, jei dėl tolesnio laidojimo jose galėtų kilti pavojus visuomenės sveikatai.
 
-2. Sprendimą dėl draudimo laidoti kapinių dalyje arba visoje jų teritorijoje priima savivaldybės, kurios teritorijoje yra kapinės, administracijos direktorius, vadovaudamasis Nacionalinio visuomenės sveikatos centro siūlymu.
+2. Sprendimą dėl draudimo laidoti kapinių dalyje arba visoje jų teritorijoje priima savivaldybės, kurios teritorijoje yra kapinės, meras, vadovaudamasis Nacionalinio visuomenės sveikatos centro siūlymu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
+
+Nr. XIV-2418, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25639
 
 Straipsnio pakeitimai:
 
@@ -415,6 +417,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 3, 5, 6, 11, 11-1, 13, 17, 21, 25, 27 ir 33 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2418, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25639
+
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 28 straipsnio pakeitimo įstatymas
 
 8 straipsnis. Neteko galios nuo 2011-01-01.
 
