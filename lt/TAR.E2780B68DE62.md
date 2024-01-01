@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2023-11-22"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2023-11-22 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -1549,11 +1549,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
 
-3) Lietuvos transporto saugos administracijos įgalioti pareigūnai, kitų valstybinę kelių transporto kontrolę atliekančių viešojo administravimo subjektų įgalioti pareigūnai – dėl šio įstatymo 90 straipsnio 3, 4, 7, 8 dalyse, 91 straipsnio 3, 4, 5, 8, 9, 10 dalyse numatytų pažeidimų, padarytų keliuose ir kelių apsaugos zonose;
+3) Lietuvos transporto saugos administracijos įgalioti pareigūnai, kitų valstybinę kelių transporto kontrolę atliekančių viešojo administravimo subjektų įgalioti pareigūnai – dėl šio įstatymo 90 straipsnio 3, 7 dalyse, 91 straipsnio 3, 4, 8, 9 dalyse numatytų pažeidimų, padarytų keliuose ir kelių apsaugos zonose;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 4) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka įgalioti muitinės pareigūnai – dėl šio įstatymo 78 straipsnio 10 dalyje (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), 79 straipsnio 5, 9, 10 dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), 1091 straipsnio 3, 4, 7 dalyse numatytų pažeidimų;
 
@@ -2169,9 +2171,17 @@ Nepavojingųjų atliekų šalinimas į jūrą, kai šalinamas 0,1 kubinio metro 
 
 Nepavojingųjų atliekų šalinimas į jūrą, kai šalinamas 1 kubinio metro ir didesnis, bet mažesnis kaip 5 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo penkių tūkstančių iki aštuonių tūkstančių eurų.
 
-Nepavojingųjų atliekų šalinimas į jūrą, kai šalinamas 5 kubinių metrų ir didesnis, bet mažesnis kaip 50 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo aštuonių tūkstančių iki keturiolikos tūkstančių eurų.
+Nepavojingųjų atliekų šalinimas į jūrą, kai šalinamas 5 kubinių metrų ir didesnis, bet mažesnis kaip 15 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo vienuolikos tūkstančių iki trisdešimt tūkstančių eurų.
 
-Nepavojingųjų atliekų šalinimas į jūrą, kai šalinamas 50 kubinių metrų ir didesnis nepavojingųjų atliekų kiekis, užtraukia baudą nuo keturiolikos tūkstančių iki dvidešimt trijų tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
+
+5. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 Nepavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalinamas mažesnis kaip 0,1 kubinio metro nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
@@ -2179,9 +2189,17 @@ Nepavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šali
 
 Nepavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalinamas 1 kubinio metro ir didesnis, bet mažesnis kaip 5 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
 
-Nepavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalinamas 5 kubinių metrų ir didesnis, bet mažesnis kaip 50 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo dešimt tūkstančių iki dvidešimt trijų tūkstančių eurų.
+Nepavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalinamas 5 kubinių metrų ir didesnis, bet mažesnis kaip 15 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo keturiolikos tūkstančių iki trisdešimt dviejų tūkstančių eurų.
 
-Nepavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalinamas 50 kubinių metrų ir didesnis nepavojingųjų atliekų kiekis, užtraukia baudą nuo dvidešimt trijų tūkstančių iki keturiasdešimt tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
+
+10. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 73 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų šalinimą į jūrą
 
@@ -2191,9 +2209,17 @@ Pavojingųjų atliekų šalinimas į jūrą, kai šalinamas 0,1 kubinio metro ir
 
 Pavojingųjų atliekų šalinimas į jūrą, kai šalinamas 1 kubinio metro ir didesnis, bet mažesnis kaip 5 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo aštuonių tūkstančių iki septyniolikos tūkstančių eurų.
 
-Pavojingųjų atliekų šalinimas į jūrą, kai šalinamas 5 kubinių metrų ir didesnis, bet mažesnis kaip 50 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo septyniolikos tūkstančių iki trisdešimt tūkstančių eurų.
+Pavojingųjų atliekų šalinimas į jūrą, kai šalinamas 5 kubinių metrų ir didesnis, bet mažesnis kaip 7 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo dvidešimt keturių tūkstančių iki keturiasdešimt dviejų tūkstančių eurų.
 
-Pavojingųjų atliekų šalinimas į jūrą, kai šalinamas 50 kubinių metrų ir didesnis pavojingųjų atliekų kiekis, užtraukia baudą nuo keturiasdešimt tūkstančių iki septyniasdešimt tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
+
+5. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 Pavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalinamas mažesnis kaip 0,1 kubinio metro pavojingųjų atliekų kiekis, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
@@ -2201,9 +2227,17 @@ Pavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalina
 
 Pavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalinamas 1 kubinio metro ir didesnis, bet mažesnis kaip 5 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo keturiolikos tūkstančių iki trisdešimt tūkstančių eurų.
 
-Pavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalinamas 5 kubinių metrų ir didesnis, bet mažesnis kaip 50 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo trisdešimt tūkstančių iki penkiasdešimt penkių tūkstančių eurų.
+Pavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalinamas 5 kubinių metrų ir didesnis, bet mažesnis kaip 7 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo keturiasdešimt dviejų tūkstančių iki septyniasdešimt septynių tūkstančių eurų.
 
-Pavojingųjų atliekų šalinimas į jūrą, padarytas pakartotinai, kai šalinamas 50 kubinių metrų ir didesnis pavojingųjų atliekų kiekis, užtraukia baudą nuo septyniasdešimt tūkstančių iki vieno šimto penkiasdešimt tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
+
+10. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 74 straipsnis. Juridinių asmenų atsakomybė už neturėjimą su Vyriausybės įgaliotomis institucijomis suderinto teršimo incidentų likvidavimo lokalinio plano
 
@@ -2515,17 +2549,33 @@ Nepavojingųjų atliekų išmetimas į aplinką, kai išmestas 0,1 kubinio metro
 
 Nepavojingųjų atliekų išmetimas į aplinką, kai išmestas 1 kubinio metro ir didesnis, bet mažesnis kaip 5 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
-Nepavojingųjų atliekų išmetimas į aplinką, kai išmestas 5 kubinių metrų ir didesnis, bet mažesnis kaip 50 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Nepavojingųjų atliekų išmetimas į aplinką, kai išmestas 5 kubinių metrų ir didesnis, bet mažesnis kaip 15 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų tūkstančių devynių šimtų iki aštuonių tūkstančių keturių šimtų eurų.
 
-Nepavojingųjų atliekų išmetimas į aplinką, kai išmestas 50 kubinių metrų ir didesnis nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki šešių tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
+
+4. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 Nepavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išmestas 0,1 kubinio metro ir didesnis, bet mažesnis kaip 1 kubinio metro nepavojingųjų atliekų kiekis, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 Nepavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išmestas 1 kubinio metro ir didesnis, bet mažesnis kaip 5 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
 
-Nepavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išmestas 5 kubinių metrų ir didesnis, bet mažesnis kaip 50 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
+Nepavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išmestas 5 kubinių metrų ir didesnis, bet mažesnis kaip 15 kubinių metrų nepavojingųjų atliekų kiekis, užtraukia baudą nuo keturių tūkstančių aštuonių šimtų iki vienuolikos tūkstančių eurų.
 
-Nepavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išmestas 50 kubinių metrų ir didesnis nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų tūkstančių iki aštuonių tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
+
+8. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 91 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų išmetimą į aplinką
 
@@ -2535,9 +2585,17 @@ Pavojingųjų atliekų išmetimas į aplinką, kai išmestas 0,1 kubinio metro i
 
 Pavojingųjų atliekų išmetimas į aplinką, kai išmestas 1 kubinio metro ir didesnis, bet mažesnis kaip 5 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo penkių tūkstančių iki aštuonių tūkstančių eurų.
 
-Pavojingųjų atliekų išmetimas į aplinką, kai išmestas 5 kubinių metrų ir didesnis, bet mažesnis kaip 50 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo aštuonių tūkstančių iki keturiolikos tūkstančių eurų.
+Pavojingųjų atliekų išmetimas į aplinką, kai išmestas 5 kubinių metrų ir didesnis, bet mažesnis kaip 7 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo dvidešimt dviejų tūkstančių iki trisdešimt devynių tūkstančių eurų.
 
-Pavojingųjų atliekų išmetimas į aplinką, kai išmestas 50 kubinių metrų ir didesnis pavojingųjų atliekų kiekis, užtraukia baudą nuo dvidešimt tūkstančių iki trisdešimt penkių tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
+
+5. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 Pavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išmestas mažesnis kaip 0,1 kubinio metro pavojingųjų atliekų kiekis, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
@@ -2545,9 +2603,17 @@ Pavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išme
 
 Pavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išmestas 1 kubinio metro ir didesnis, bet mažesnis kaip 5 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
 
-Pavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išmestas 5 kubinių metrų ir didesnis, bet mažesnis kaip 50 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo keturiolikos tūkstančių iki trisdešimt tūkstančių eurų.
+Pavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išmestas 5 kubinių metrų ir didesnis, bet mažesnis kaip 7 kubinių metrų pavojingųjų atliekų kiekis, užtraukia baudą nuo trisdešimt devynių tūkstančių iki aštuoniasdešimt keturių tūkstančių eurų.
 
-Pavojingųjų atliekų išmetimas į aplinką, padarytas pakartotinai, kai išmestas 50 kubinių metrų ir didesnis pavojingųjų atliekų kiekis, užtraukia baudą nuo trisdešimt penkių tūkstančių iki septyniasdešimt tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
+
+10. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 92 straipsnis. Juridinių asmenų atsakomybė už nepagrįstą gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančio dokumento išdavimą
 
@@ -3543,6 +3609,14 @@ Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 8, 15, 19, 19-1, 19-2 ir 19-3 straipsnių pakeitimo įstatymas
 
+30.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37, 72, 73, 90 ir 91 straipsnių pakeitimo įstatymas
+
 193 straipsnis. Įrenginių registravimas
 
 Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame straipsnyje suprantamas kaip stacionarus technikos objektas, kuriame vykdant aplinkos ministro patvirtintose Lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikrų veiklos rūšių įrenginiuose, išmetimo ribojimo ir įrenginių registravimo taisyklėse (toliau – LOJ taisyklės) nurodytą vienos arba kelių rūšių veiklą, taip pat kitą toje pačioje vietoje vykdomą tiesiogiai techniškai susijusią veiklą, kurios metu išmetami lakieji organiniai junginiai, suvartojamas organinio tirpiklio kiekis atitinka LOJ taisyklėse nurodytąjį. Šios taisyklės nustato įrenginių įregistravimo, registracijos duomenų teikimo, tikslinimo ir įrenginių išregistravimo tvarką.
@@ -3881,35 +3955,39 @@ Papildyta straipsniu:
 
 Nr. XIV-1433, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20225
 
-941 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pateikimo Lietuvos Respublikos rinkai apskaitos vykdymo ir ataskaitos teikimo reikalavimų nevykdymą
+941 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimo Lietuvos Respublikos rinkai apskaitos vykdymo ir ataskaitos teikimo reikalavimų nevykdymą
 
-Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pateikimo Lietuvos Respublikos rinkai apskaitos vykdymas nesilaikant teisės aktuose nustatytų reikalavimų po to, kai juridinis asmuo apie pažeidimą buvo įspėtas raštu, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimo Lietuvos Respublikos rinkai apskaitos vykdymas nesilaikant teisės aktuose nustatytų reikalavimų po to, kai juridinis asmuo apie pažeidimą buvo įspėtas raštu, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
-Akivaizdžiai neteisingų ar suklastotų duomenų vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) apskaitos dokumentuose ir (ar) apskaitos ir atliekų tvarkymo ataskaitose pateikimas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
+Akivaizdžiai neteisingų ar suklastotų duomenų vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, apskaitos dokumentuose ir (ar) apskaitos ir atliekų tvarkymo ataskaitose pateikimas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
-Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) apskaitos ir atliekų tvarkymo ataskaitos nepateikimas po to, kai raštu buvo įspėta apie šių dokumentų pateikimo terminus, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, apskaitos ir atliekų tvarkymo ataskaitos nepateikimas po to, kai raštu buvo įspėta apie šių dokumentų pateikimo terminus, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
-Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pateikimo Lietuvos Respublikos rinkai apskaitos nevykdymas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimo Lietuvos Respublikos rinkai apskaitos nevykdymas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
 Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
-951 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pateikimą Lietuvos Respublikos rinkai neįsiregistravus teisės aktų nustatyta tvarka
+951 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimą Lietuvos Respublikos rinkai neįsiregistravus teisės aktų nustatyta tvarka
 
-Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pateikimas Lietuvos Respublikos rinkai neįsiregistravus Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimas Lietuvos Respublikos rinkai neįsiregistravus Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
 Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 1021 straipsnis. Juridinių asmenų atsakomybė už gaminių atliekų tvarkymo finansavimo neorganizavimą
 
-Įstatymuose numatytos pareigos organizuoti atliekų ir šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai tabako gaminius su filtrais ir (ar) filtrus, parduodamus naudoti kartu su tabako gaminiais, išrinkimo, surinkimo, vežimo, apdorojimo finansavimą nevykdymas užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
+Įstatymuose numatytos pareigos organizuoti atliekų ir šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai tabako gaminius su filtrais ir (ar) filtrus, parduodamus naudoti kartu su tabako gaminiais, drėgnąsias servetėles ir (ar) oro balionėlius, žvejybos įrankius, kurių sudėtyje yra plastiko, išrinkimo, surinkimo, vežimo, apdorojimo finansavimą nevykdymas užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturiolikos tūkstančių iki dvidešimt trijų tūkstančių eurų.
 
