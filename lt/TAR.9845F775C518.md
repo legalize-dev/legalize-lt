@@ -4,7 +4,7 @@ identifier: "TAR.9845F775C518"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-15"
-last_updated: "2023-06-22"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9845F775C518"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2023-06-22 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 59-1916; Žin. 1999, Nr.60-0, i. k. 0991010ISTAIII-1227
 
@@ -1485,7 +1485,11 @@ Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
 
 3. Savanoriškai neįvykdytas Įstaigos sprendimas dėl piniginės baudos vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
-4. Kai Įstaiga priima sprendimą dėl šio įstatymo 56 straipsnio 4 dalies 5 punkte numatytos poveikio priemonės skyrimo, Įstaigos įgaliotas asmuo pateikia Vilniaus apygardos administraciniam teismui prašymą dėl šio sprendimo sankcionavimo. Prašyme turi būti nurodyti šio įstatymo 56 straipsnio 4 dalies 5 punkte nurodytų asmenų duomenys ir įtariamų pažeidimų pobūdis. Prie prašymo turi būti pridėti įrodymai, patvirtinantys įtariamus pažeidimus. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 30 dienų nuo prašymo pateikimo momento. Jeigu Įstaiga nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas apskųsti nutartį Lietuvos vyriausiajam administraciniam teismui.
+4. Kai Įstaiga priima sprendimą dėl šio įstatymo 56 straipsnio 4 dalies 5 punkte numatytos poveikio priemonės skyrimo, Įstaigos įgaliotas asmuo pateikia pirmosios instancijos administraciniam teismui prašymą dėl šio sprendimo sankcionavimo. Prašyme turi būti nurodyti šio įstatymo 56 straipsnio 4 dalies 5 punkte nurodytų asmenų duomenys ir įtariamų pažeidimų pobūdis. Prie prašymo turi būti pridėti įrodymai, patvirtinantys įtariamus pažeidimus. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 30 dienų nuo prašymo pateikimo momento. Jeigu Įstaiga nesutinka su teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas apskųsti nutartį Lietuvos vyriausiajam administraciniam teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1588, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25153
 
 5. Įstaiga, priėmusi sprendimą, kaip nustatyta šio straipsnio 4 dalyje, skirti šio įstatymo 56 straipsnio 4 dalies 5 punkte nustatytą poveikio priemonę, pagal Lietuvos banko bei Auditorių rūmų kas 6 mėnesius teikiamą informaciją tikrina, kaip yra vykdoma šio įstatymo 56 straipsnio 4 dalies 5 punkte nustatyta poveikio priemonė.
 
@@ -2010,8 +2014,6 @@ priedas
 Priedo pakeitimai:
 
 Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
-
-part_98b6e673a4ae44218fc1a3526df80ae2_end
 
 Pakeitimai:
 
