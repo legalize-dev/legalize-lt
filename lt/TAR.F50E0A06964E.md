@@ -4,7 +4,7 @@ identifier: "TAR.F50E0A06964E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-09-15"
-last_updated: "2016-12-21"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F50E0A06964E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS LAISVĖS PREMIJOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2016-12-21 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 117-5506, i. k. 1111010ISTA0XI-1584
 
@@ -46,7 +46,11 @@ priima šį Lietuvos Respublikos laisvės premijos įstatymą.
 
 2 straipsnis. Premijos dydis ir skyrimo tvarka
 
-1. Kiekvienais metais skiriama viena 5 000 eurų dydžio premija. Išimtiniais atvejais šio straipsnio 7 dalyje nustatyta tvarka tais pačiais metais gali būti skiriama antra 5 000 eurų dydžio premija.
+1. Kiekvienais metais skiriama viena 200 bazinių socialinių išmokų (toliau – BSI) dydžio premija. Išimtiniais atvejais šio straipsnio 7 dalyje nustatyta tvarka tais pačiais metais gali būti skiriama antra 200 BSI dydžio premija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2431, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25652
 
 2. Premija mokama iš Lietuvos Respublikos Seimo (toliau – Seimas) kanceliarijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų.
 
@@ -56,7 +60,11 @@ priima šį Lietuvos Respublikos laisvės premijos įstatymą.
 
 5. Pretendentą premijai gauti atrenka Laisvės premijų komisija (toliau – Komisija). Tais atvejais, kai gindami žmogaus teises, plėtodami demokratiją ar skatindami tarpvalstybinį bendradarbiavimą kovojant už Rytų ir Vidurio Europos tautų laisvą apsisprendimą ir suverenitetą veikė ne vienas, o kartu keli asmenys, viena Laisvės premija gali būti skiriama asmenų grupei.
 
-6. Komisija kiekvienais metais iki lapkričio 23 dienos pateikia Seimui išvadas dėl atrinkto pretendento premijai gauti.
+6. Komisija kiekvienais metais iki spalio 23 dienos pateikia Seimui išvadas dėl atrinkto pretendento premijai gauti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2431, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25652
 
 7. Išimtiniais atvejais, atsižvelgdama į ypatingus asmens ar organizacijos pasiekimus ir indėlį ginant žmogaus teises, plėtojant demokratiją, skatinant tarpvalstybinį bendradarbiavimą kovojant už Rytų ir Vidurio Europos tautų laisvą apsisprendimą ir suverenitetą, Komisija, nesilaikydama šio straipsnio 6 dalyje nustatytų terminų, gali pateikti Seimui siūlymą ir išvadą dėl pretendento antrai tais metais Laisvės premijai gauti.
 
@@ -70,7 +78,11 @@ priima šį Lietuvos Respublikos laisvės premijos įstatymą.
 
 3) papildomai galima pateikti ir kitą medžiagą, atskleidžiančią pretendento darbų reikšmę ir išskirtinumą.
 
-10. Premija Seimo nutarimu paskiriama iki gruodžio 23 dienos. Šis terminas netaikomas, kai Laisvės premija skiriama šio straipsnio 7 dalyje nustatyta tvarka, tačiau šiuo atveju Seimas Laisvės premiją nutarimu turi paskirti ne vėliau kaip iki sausio 13 dienos.
+10. Premija Seimo nutarimu paskiriama iki lapkričio 23 dienos. Šis terminas netaikomas, kai Laisvės premija skiriama šio straipsnio 7 dalyje nustatyta tvarka, tačiau šiuo atveju Seimas Laisvės premiją nutarimu turi paskirti ne vėliau kaip iki gruodžio 23 dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2431, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25652
 
 11. Premija kiekvienais metais įteikiama Laisvės gynėjų dieną (sausio 13-ąją).
 
@@ -105,6 +117,14 @@ Lietuvos Respublikos laisvės premijos įstatymo Nr. XI-1584 2 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-124, 2016-12-15, paskelbta TAR 2016-12-20, i. k. 2016-29152
+
+Lietuvos Respublikos laisvės premijos įstatymo Nr. XI-1584 2 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2431, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25652
 
 Lietuvos Respublikos laisvės premijos įstatymo Nr. XI-1584 2 straipsnio pakeitimo įstatymas
 
