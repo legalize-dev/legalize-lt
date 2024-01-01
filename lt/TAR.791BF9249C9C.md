@@ -4,7 +4,7 @@ identifier: "TAR.791BF9249C9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2023-12-29"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2023-12-29 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
 
@@ -178,9 +178,13 @@ Sporto sistema apima šias sritis:
 
 5 straipsnis. Sporto stebėsena
 
-1. Valstybės sporto stebėseną, vadovaudamosi švietimo, mokslo ir sporto ministro patvirtintais sporto stebėsenos rodikliais ir jo nustatyta tvarka, vykdo Lietuvos Respublikos švietimo, mokslo ir sporto ministerija ir (ar) švietimo, mokslo ir sporto ministro įgaliotos įstaigos, taip pat savivaldybių administracijos; stebėseną turi teisę vykdyti ir sporto šakų federacijos.
+1. Valstybės sporto stebėseną, vadovaudamosi švietimo, mokslo ir sporto ministro patvirtintais sporto stebėsenos rodikliais ir jo nustatyta tvarka bei remdamosi Sporto registro duomenimis, vykdo Lietuvos Respublikos švietimo, mokslo ir sporto ministerija ir (ar) švietimo, mokslo ir sporto ministro įgaliotos įstaigos, taip pat savivaldybių administracijos; stebėseną turi teisę vykdyti ir sporto šakų federacijos.
 
-2. Lietuvos Respublikos Vyriausybė steigia žinybinį Sporto registrą. Šio registro valdytoja yra Švietimo, mokslo ir sporto ministerija.
+2. Žinybinio Sporto registro valdytoja yra Švietimo, mokslo ir sporto ministerija. Švietimo įstaigos, ugdančios ir (ar) rengiančios sportininkus, ir sporto organizacijos duomenis Sporto registrui privalo teikti Sporto registro nuostatuose nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-908, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01355
 
 6 straipsnis. Lietuvos Respublikos Seimo, Vyriausybės ir kitų valstybės institucijų ir įstaigų kompetencija sporto srityje
 
@@ -584,7 +588,9 @@ c) turi jam pritaikytas atitinkamos nevyriausybinės organizacijos, veikiančios
 
 9) juridinis asmuo, atlikęs praėjusių kalendorinių metų finansinių ataskaitų auditą, pateikė nepriklausomo auditoriaus neigiamą išvadą;
 
-10) ilgiau negu 12 mėnesių Juridinių asmenų registro tvarkytojui nepateikė metinės finansinės atskaitomybės dokumentų.
+10) ilgiau negu 12 mėnesių Juridinių asmenų registro tvarkytojui nepateikė metinės finansinės atskaitomybės dokumentų;
+
+11) juridinis asmuo 12 mėnesių neteikia duomenų Sporto registrui šio registro nuostatuose nustatyta tvarka ir nėra įregistravęs objektų Vyriausybės nustatyta tvarka.
 
 2. Jeigu šio straipsnio 1 dalyje nurodytos aplinkybės atsiranda po sprendimo skirti valstybės biudžeto lėšų projektui ar programai įgyvendinti priėmimo, valstybės biudžeto lėšų mokėjimas sustabdomas, o šiomis aplinkybėmis išmokėtos valstybės biudžeto lėšos atitinkamai finansavimą skyrusių institucijų ar įstaigų nustatyta tvarka ir per nustatytus terminus turi būti grąžintos į valstybės biudžeto lėšų naudojimo sutartyje nurodytą valstybės iždo sąskaitą; jų negrąžinus, išmokėtos lėšos išieškomos. Jeigu aplinkybės išnyksta nepasibaigus projekto ar programos įgyvendinimo terminui, valstybės biudžeto lėšų mokėjimas atnaujinamas projektams ar toms programos priemonėms, kurių vykdymo terminai nėra pasibaigę, įgyvendinti; priešingu atveju priimamas sprendimas nutraukti valstybės biudžeto lėšų mokėjimą projektui ar programai įgyvendinti.
 
