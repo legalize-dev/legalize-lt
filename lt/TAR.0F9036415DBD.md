@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2023-12-29"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2023-12-29 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-26
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
 
@@ -166,7 +166,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-3387, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24533
 
-2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos prokuratūros įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai, Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), Europos deleguotieji prokurorai, kurių socialinio draudimo įmokas moka Lietuvos Respublikos generalinė prokuratūra, darbo užmokestį gaunantys Lietuvos Respublikos Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+2. Lietuvos Respublikos valstybės politikų darbo užmokesčio įstatyme, Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme, Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos prokuratūros įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos žvalgybos įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, žvalgybos pareigūnai, valstybės tarnautojai, Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), Europos deleguotieji prokurorai, kurių socialinio draudimo įmokas moka Lietuvos Respublikos generalinė prokuratūra, darbo užmokestį gaunantys Lietuvos Respublikos Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
 
 Straipsnio dalies pakeitimai:
 
@@ -179,6 +179,8 @@ Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
 
 Nr. XIII-2925, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10934
+
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
 
 3. Vidaus tarnybos sistemos pareigūnai draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
 
@@ -226,7 +228,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 
-3. Nesukakęs senatvės pensijos amžiaus vienas iš neįgaliojo, kuriam nustatytas specialusis nuolatinės slaugos poreikis ar specialusis nuolatinės priežiūros (pagalbos) poreikis, tėvų (įtėvių) arba asmuo, paskirtas šio neįgaliojo globėju, rūpintoju ar aprūpintoju, slaugantys ar nuolat prižiūrintys namuose šį neįgalųjį (teikiantys jam pagalbą namuose), draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, arba jeigu jų pajamos mažesnės negu atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d. Šioje dalyje nurodyti asmenys draudžiami pensijų socialiniu draudimu valstybės lėšomis tik tuo atveju, jeigu negauna jiems patiems priklausančios socialinio draudimo pensijos, išskyrus socialinio draudimo našlių pensiją ir maitintojo netekimo pensiją, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose.
+3. Nesukakęs senatvės pensijos amžiaus vienas iš asmens su negalia, kuriam nustatytas individualios pagalbos teikimo išlaidų kompensacijos pirmo ar antro lygio poreikis (iki 2023 m. gruodžio 31 d. – specialusis nuolatinės slaugos poreikis) ar individualios pagalbos teikimo išlaidų kompensacijos trečio ar ketvirto lygio poreikis (iki 2023 m. gruodžio 31 d. – specialusis nuolatinės priežiūros (pagalbos) poreikis), tėvų (įtėvių) arba asmuo, paskirtas šio asmens su negalia globėju, rūpintoju ar aprūpintoju, slaugantys ar nuolat prižiūrintys namuose šį asmenį su negalia (teikiantys jam pagalbą namuose), draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, arba jeigu jų pajamos mažesnės negu atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d. Šioje dalyje nurodyti asmenys draudžiami pensijų socialiniu draudimu valstybės lėšomis tik tuo atveju, jeigu negauna jiems patiems priklausančios socialinio draudimo pensijos, išskyrus socialinio draudimo našlių pensiją ir maitintojo netekimo pensiją, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose.
 
 Straipsnio dalies pakeitimai:
 
@@ -238,9 +240,11 @@ Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
 Nr. XIV-1366, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15461
 
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
+
 4. Lietuvos Respublikos kariuomenės privalomosios pradinės karo tarnybos kariai ir asmenys, atliekantys alternatyviąją krašto apsaugos tarnybą, valstybės lėšomis draudžiami pensijų, motinystės, nedarbo ir nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, skaičiuojant socialinio draudimo įmokas nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 
-5. Profesinių mokyklų mokiniai, aukštųjų mokyklų studentai ir asmenys, Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) siųsti į profesinį mokymą ar profesinę reabilitaciją, – jų profesinės veiklos praktikos įstaigoje ar įmonėje laikotarpiu, taip pat asmenys, kurie mokosi bausmių vykdymo sistemos profesinio mokymo įstaigoje ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai) arba mokosi vidaus reikalų profesinio mokymo įstaigoje ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai), arba atlieka karo tarnybą studijuodami karo mokymo įstaigoje (kariūnai), – jų mokymosi ir pratybų laikotarpiu valstybės lėšomis draudžiami tik nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
+5. Profesinio mokymo įstaigų mokiniai, aukštųjų mokyklų studentai ir asmenys, Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) siųsti į profesinį mokymą ar profesinę reabilitaciją, – jų profesinės veiklos praktikos įstaigoje ar įmonėje laikotarpiu, taip pat asmenys, kurie mokosi bausmių vykdymo sistemos profesinio mokymo įstaigoje ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai) arba mokosi muitinės pareigūnų profesinio mokymo įstaigoje ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai), arba mokosi vidaus reikalų profesinio mokymo įstaigoje ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai), arba atlieka karo tarnybą studijuodami karo mokymo įstaigoje (kariūnai), – jų mokymosi ir pratybų laikotarpiu valstybės lėšomis draudžiami tik nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 
 Straipsnio dalies pakeitimai:
 
@@ -249,6 +253,8 @@ Nr. XIII-947, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21639
 Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 
 Nr. XIV-1228, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15594
+
+Nr. XIV-2409, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25926
 
 6. Tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų dvasininkai ir vienuoliai valstybės lėšomis draudžiami pensijų socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, kai jie neturi būtinojo pensijų socialinio draudimo stažo socialinio draudimo senatvės pensijai skirti, negauna socialinio draudimo pensijos ir kai jų draudžiamųjų pajamų suma per kalendorinius metus yra mažesnė už atitinkamų metų 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, sumokant valstybės lėšomis trūkstamą iki 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą.
 
@@ -422,15 +428,21 @@ Nr. XIII-1721, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20975
 
 1) buvo drausti pas kitą draudėją pagal šio įstatymo 4 straipsnio 1, 2, 3 ar 4 dalis arba dėl jų socialinio statuso ypatybių draudžiami pensijų socialiniu draudimu valstybės lėšomis pagal šio įstatymo 6 straipsnį;
 
-2) gavo socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensiją, šalpos neįgalumo ar šalpos senatvės pensiją, su socialinio draudimo santykiais susijusią (socialinio draudimo) senatvės ar netekto darbingumo (invalidumo) pensiją iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos arba šalies, su kuria Lietuvos Respublika yra sudariusi tarptautinę sutartį dėl socialinės apsaugos taikymo;
+2) gavo socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (invalidumo), socialinio draudimo negalios pensiją, šalpos neįgalumo ar šalpos senatvės pensiją, su socialinio draudimo santykiais susijusią (socialinio draudimo) senatvės ar netekto darbingumo (invalidumo), negalios pensiją iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos arba šalies, su kuria Lietuvos Respublika yra sudariusi tarptautinę sutartį dėl socialinės apsaugos taikymo;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
+
 3) buvo ne vyresni kaip 24 metų (taikoma iki kalendorinio mėnesio, kai asmeniui sukanka 24 metai);
 
-4) turi nustatytą 0–55 procentų darbingumo lygį;
+4) turi nustatytą 0–55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
 
 5) gavo motinystės, tėvystės ar vaiko priežiūros išmoką.
 
@@ -570,15 +582,21 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
-1) gauna (jiems yra paskirta) socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (invalidumo) pensiją, paskirtą pagal Socialinio draudimo pensijų įstatymą;
+1) gauna (jiems yra paskirta) socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (invalidumo) pensiją, socialinio draudimo negalios pensiją, paskirtą pagal Socialinio draudimo pensijų įstatymą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
+
 2) gauna šalpos pensiją ar šalpos kompensaciją, išskyrus šalpos našlaičių pensiją, paskirtą pagal Lietuvos Respublikos šalpos pensijų įstatymą;
 
-3) gauna su socialinio draudimo santykiais susijusią (socialinio draudimo) senatvės ar netekto darbingumo (invalidumo) pensiją iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos arba šalies, su kuria Lietuvos Respublika yra sudariusi tarptautinę sutartį dėl socialinės apsaugos taikymo;
+3) gauna su socialinio draudimo santykiais susijusią (socialinio draudimo) senatvės ar netekto darbingumo (invalidumo), negalios pensiją iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos arba šalies, su kuria Lietuvos Respublika yra sudariusi tarptautinę sutartį dėl socialinės apsaugos taikymo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
 
 4) yra laisvės atėmimo vietų įstaigoje arba jiems Baudžiamojo kodekso nustatyta tvarka teismo nuosprendžiu yra paskirtos priverčiamosios stacionarinio stebėjimo medicinos priemonės ar auklėjamojo poveikio priemonės specializuotose psichikos sveikatos priežiūros įstaigose;
 
@@ -710,7 +728,11 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 3) Nedarbo socialinio draudimo įstatyme nustatytos nedarbo socialinio draudimo ir dalinio darbo išmokos;
 
-4) Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokos, netekto darbingumo vienkartinės ir periodinės kompensacijos bei periodinės draudimo išmokos apdraustajam mirus.
+4) Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokos, netekto dalyvumo (darbingumo) vienkartinės ir periodinės kompensacijos bei periodinės draudimo išmokos apdraustajam mirus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
 
 3. Valstybės biudžeto lėšomis finansuojami papildomai Fondo biudžetui nustatyti įpareigojimai ir (ar) su asmens draudžiamosiomis pajamomis nesusijusios išmokos:
 
@@ -1174,7 +1196,11 @@ Nr. XIV-658, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24260
 
 14) nagrinėja apdraustųjų asmenų, draudėjų, socialinio draudimo ir kitų išmokų, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms, gavėjų, asmens sveikatos priežiūros įstaigų, kitų suinteresuotų asmenų skundus dėl Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų veiksmų bei sprendimų;
 
-15) organizuoja ir vykdo asmenų, kuriems ligos išmokas, netekto darbingumo pensijas ar kitas išmokas iš Fondo biudžeto ar valstybės biudžeto moka Fondo administravimo įstaigos, neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumo ir teisėtumo tikrinimus, tais klausimais teikia metodinę ir praktinę pagalbą Fondo administravimo įstaigoms;
+15) organizuoja ir vykdo asmenų, kuriems ligos išmokas, netekto darbingumo, negalios pensijas ar kitas išmokas iš Fondo biudžeto ar valstybės biudžeto moka Fondo administravimo įstaigos, neįgalumo lygio, laikinojo nedarbingumo ar dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumo ir teisėtumo tikrinimus, tais klausimais teikia metodinę ir praktinę pagalbą Fondo administravimo įstaigoms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
 
 16) teikia siūlymus Socialinės apsaugos ir darbo ministerijai dėl socialinio draudimo teisės aktų tobulinimo;
 
@@ -1234,7 +1260,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
-10) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ginčyti darbingumo lygio (darbingumo netekimo), jo priežasties, atsiradimo laiko ir termino nustatymo teisingumą;
+10) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ginčyti dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygio (netektų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) procentų), jo priežasties, atsiradimo laiko ir termino nustatymo teisingumą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
 
 11) vykdydama savo funkcijas, įstatymų nustatyta tvarka gauti reikalingą informaciją ir duomenis;
 
@@ -1308,11 +1338,13 @@ Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 
 13) kontroliuoja nedarbingumo pažymėjimų, profesinės reabilitacijos pažymėjimų bei nėštumo ir gimdymo atostogų pažymėjimų išdavimo ir tęsimo teisėtumą bei pagrįstumą (laikinojo nedarbingumo nustatymo teisėtumą ir pagrįstumą);
 
-14) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka prižiūri ir vykdo asmenų neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ir termino nustatymo pagrįstumo ir teisėtumo tikrinimus bet kuriuo metu iki nustatyto laikinojo nedarbingumo, darbingumo ar neįgalumo lygio termino galiojimo pabaigos;
+14) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka prižiūri ir vykdo asmenų neįgalumo lygio, laikinojo nedarbingumo ar dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygio, jo priežasties, atsiradimo laiko ir termino nustatymo pagrįstumo ir teisėtumo tikrinimus bet kuriuo metu iki nustatyto laikinojo nedarbingumo, dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) ar neįgalumo lygio termino galiojimo pabaigos;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
+
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
 
 15) Fondo valdybos direktoriaus nustatyta tvarka kaupia duomenis apie nesukakusių senatvės pensijos amžiaus asmenų įgytą socialinio draudimo ir jam prilyginamą stažą ir turėtas draudžiamąsias ir joms prilyginamas pajamas;
 
@@ -3524,29 +3556,23 @@ Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 
 2) bet kokių laikinųjų apsaugos priemonių taikymas.
 
-341 straipsnis. Fondo administravimo įstaigų atliekama neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumo ir teisėtumo asmeniui, turinčiam teisę gauti ar gaunančiam išmoką, priežiūra
+341 straipsnis. Fondo administravimo įstaigų atliekama neįgalumo lygio, laikinojo nedarbingumo ar dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumo ir teisėtumo asmeniui, turinčiam teisę gauti ar gaunančiam išmoką, priežiūra
 
-1. Prižiūrėdama neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumą ir teisėtumą asmeniui, turinčiam teisę gauti ar gaunančiam ligos išmoką, netekto darbingumo pensiją ar kitą išmoką, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms (toliau šiame straipsnyje kartu – išmokos), Fondo administravimo įstaiga turi teisę pasitelkti universitetinių ir respublikinių ligoninių, teikiančių antrinio ir tretinio lygio specializuotas asmens sveikatos priežiūros paslaugas (toliau – asmens sveikatos priežiūros įstaigos), gydytojus specialistus (toliau – gydytojai specialistai) klausimams pagal jų kompetenciją spręsti. Prireikus Fondo administravimo įstaiga gali kreiptis į asmens sveikatos priežiūros įstaigą dėl papildomo asmens sveikatos ištyrimo, kurį asmens sveikatos priežiūros įstaiga privalo atlikti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Už asmens sveikatos priežiūros įstaigos suteiktas paslaugas Fondo administravimo įstaiga sumoka iš Fondo biudžeto pagal socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro patvirtintus įkainius.
+1. Prižiūrėdama neįgalumo lygio, laikinojo nedarbingumo ar dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumą ir teisėtumą asmeniui, turinčiam teisę gauti ar gaunančiam ligos išmoką, socialinio draudimo netekto darbingumo pensiją, socialinio draudimo negalios pensiją, socialinio draudimo senatvės pensiją asmeniui su negalia ar kitą išmoką, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms (toliau šiame straipsnyje kartu – išmokos), Fondo administravimo įstaiga turi teisę pasitelkti universitetinių ir respublikinių ligoninių, teikiančių antrinio ir tretinio lygio specializuotas asmens sveikatos priežiūros paslaugas (toliau – asmens sveikatos priežiūros įstaigos), gydytojus specialistus (toliau – gydytojai specialistai) klausimams pagal jų kompetenciją spręsti. Prireikus Fondo administravimo įstaiga gali kreiptis į asmens sveikatos priežiūros įstaigą dėl papildomo asmens sveikatos ištyrimo, kurį asmens sveikatos priežiūros įstaiga privalo atlikti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Už asmens sveikatos priežiūros įstaigos suteiktas paslaugas Fondo administravimo įstaiga sumoka iš Fondo biudžeto pagal socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro patvirtintus įkainius.
 
-Straipsnio dalies pakeitimai:
+2. Nurodymas asmeniui, kurio neįgalumo lygio, laikinojo nedarbingumo ar dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumą ir teisėtumą prižiūri Fondo administravimo įstaigos, dalyvauti papildomame sveikatos tyrime yra privalomas ir neskundžiamas. Nurodyme asmeniui dalyvauti papildomame sveikatos tyrime Fondo administravimo įstaiga turi nurodyti jo įvykdymo terminą, kuris nustatomas atsižvelgiant į nagrinėjamą atvejį. Asmeniui neįvykdžius nurodymo, išmoka neskiriama, o jeigu ji paskirta, sustabdomas jos mokėjimas, išskyrus atvejus, kai Fondo administravimo įstaigoms pateikiami įrodymai, kad nurodymas neįvykdytas dėl objektyvių aplinkybių, kurios nepriklausė nuo asmens, kuriam duotas nurodymas, valios.
 
-Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
+3. Gavusi gydytojų specialistų išvadas, Fondo administravimo įstaiga priima sprendimą dėl asmens laikinojo nedarbingumo ir ligos išmokos mokėjimo. Pripažinus asmenį darbingu, Ligos ir motinystės socialinio draudimo įstatymo 9 straipsnio 1 dalies bei Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 14 straipsnio 1 dalies nuostatos, kad ligos išmokos mokamos už visą laikotarpį, patvirtintą nedarbingumo pažymėjimu, netaikomos.
 
-Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
-
-2. Nurodymas asmeniui, kurio neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumą ir teisėtumą prižiūri Fondo administravimo įstaigos, dalyvauti papildomame sveikatos tyrime yra privalomas ir neskundžiamas. Nurodyme asmeniui dalyvauti papildomame sveikatos tyrime Fondo administravimo įstaiga turi nurodyti jo įvykdymo terminą, kuris nustatomas atsižvelgiant į nagrinėjamą atvejį. Asmeniui neįvykdžius nurodymo, išmoka neskiriama, o jeigu ji paskirta, – sustabdomas jos mokėjimas, išskyrus atvejus, kai Fondo administravimo įstaigoms pateikiami įrodymai, kad nurodymas neįvykdytas dėl objektyvių aplinkybių, kurios nepriklausė nuo asmens, kuriam duotas nurodymas, valios.
-
-3. Gavusi gydytojų specialistų išvadas, Fondo administravimo įstaiga priima sprendimą dėl asmens laikinojo nedarbingumo ir ligos išmokos mokėjimo. Pripažinus asmenį darbingu, Ligos ir motinystės socialinio draudimo įstatymo 9 straipsnio 1 dalies bei Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 14 straipsnio 1 dalies nuostatos, kad ligos išmokos mokamos už visą laikotarpį, patvirtintą nedarbingumo pažymėjimu, netaikomos.
-
-4. Gavus gydytojų specialistų išvadas, Fondo administravimo įstaiga sprendžia dėl kreipimosi į Neįgalumo ir darbingumo nustatymo tarnybą prie Socialinės apsaugos ir darbo ministerijos (toliau – Tarnyba) dėl naujo sprendimo dėl asmens neįgalumo lygio ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino priėmimo. Priimtas naujas sprendimas įsigalioja Fondo administravimo įstaigos kreipimosi į Tarnybą dieną. Gydytojų specialistų išvada Tarnybai ir Fondo administravimo įstaigoms yra privaloma. Priimtas naujas Tarnybos sprendimas gali būti skundžiamas Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nustatyta tvarka.
+4. Gavusi gydytojų specialistų išvadas, Fondo administravimo įstaiga sprendžia dėl kreipimosi į Asmens su negalia teisių apsaugos agentūrą prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Agentūra) dėl naujo sprendimo dėl asmens neįgalumo lygio ar dalyvumo lygio, jo priežasties, atsiradimo laiko ar termino priėmimo. Priimtas naujas sprendimas įsigalioja Fondo administravimo įstaigos kreipimosi į Agentūrą dieną. Gydytojų specialistų išvada Agentūrai ir Fondo administravimo įstaigoms yra privaloma. Priimtas naujas Agentūros sprendimas gali būti skundžiamas Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme nustatyta tvarka.
 
 5. Fondo administravimo įstaigų įgaliojimų vykdant šiame straipsnyje nurodytas priežiūros funkcijas įgyvendinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 6. Asmens, kuriam duotas nurodymas dalyvauti papildomame sveikatos tyrime, su šio nurodymo vykdymu susijusios sąnaudos kompensuojamos Fondo biudžeto lėšomis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
 
 191 straipsnis. Fondo administravimo įstaigų santykiai su draudėjais Vyriausybei paskelbus karantiną, kurio metu nustatyti ūkinės veiklos apribojimai
 
