@@ -4,7 +4,7 @@ identifier: "TAR.0CC6CB2A9E42"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-18"
-last_updated: "2022-08-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0CC6CB2A9E42"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2022-08-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 114-5115, i. k. 1031010ISTA0IX-1826
 
@@ -96,7 +96,11 @@ Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 
 8) kai ribojimų, specialių reikalavimų arba tam tikrų sąlygų dėl asmens socialinės padėties teisinį reguliavimą pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis;
 
-9) atskirų sporto varžybų neįgaliesiems rengimą;
+9) atskirų sporto varžybų asmenims su negalia rengimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
 
 10) lengvatų teikimą amžiaus, negalios bei socialinės padėties pagrindu, kai tai pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis.
 
@@ -162,7 +166,13 @@ LYGIŲ GALIMYBIŲ ĮGYVENDINIMAS
 
 2) rengti, tvirtinti ir įgyvendinti priemones, skirtas lygioms galimybėms užtikrinti nepaisant lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos;
 
-3) įstatymų nustatyta tvarka remti religinių bendruomenių ir bendrijų, viešųjų įstaigų, asociacijų ir labdaros bei paramos fondų programas, kurios padeda įgyvendinti lygias asmenų galimybes lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu.
+3) įstatymų nustatyta tvarka remti religinių bendruomenių ir bendrijų, viešųjų įstaigų, asociacijų ir labdaros bei paramos fondų programas, kurios padeda įgyvendinti lygias asmenų galimybes lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu;
+
+4) užtikrinti lygias galimybes, nepaisant lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, teikiant administracines ir (ar) viešąsias paslaugas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
 
 Straipsnio dalies pakeitimai:
 
@@ -218,11 +228,13 @@ Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
 
 7) imtis priemonių, kad darbuotojai, valstybės tarnautojai, pateikę skundą dėl diskriminacijos, dalyvaujantys byloje dėl diskriminacijos ar pranešę apie diskriminaciją, jų atstovai ar asmenys, liudijantys ir teikiantys paaiškinimus dėl diskriminacijos, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių;
 
-8) imtis tinkamų priemonių, kad neįgaliesiems būtų sudarytos sąlygos gauti darbą, dirbti, siekti karjeros arba mokytis, įskaitant tinkamą darbo sąlygų sudarymą, jeigu dėl tokių priemonių nebus neproporcingai apsunkinamos darbdavio pareigos;
+8) imtis tinkamų priemonių, kad asmenims su negalia būtų sudarytos sąlygos gauti darbą, dirbti, siekti karjeros arba mokytis, įskaitant tinkamų darbo sąlygų sudarymą, jeigu dėl tokių priemonių nebus neproporcingai apsunkinamos darbdavio pareigos;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
+
+Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
 
 9) imtis priemonių, kad darbuotojas ar valstybės tarnautojas darbo vietoje nebūtų diskriminuojamas dėl tėvystės atostogų, atostogų vaikui prižiūrėti, nemokamų atostogų, skirtų sergančiam šeimos nariui ar kartu su darbuotoju ar valstybės tarnautoju gyvenančiam asmeniui slaugyti (prižiūrėti), suteikimo ir lankstaus darbo grafiko nustatymo.
 
@@ -330,15 +342,25 @@ IV SKYRIUS
 
 4) spręsdamas jo kompetencijai priskirtus klausimus, priima įsakymus ir kontroliuoja, kaip jie vykdomi, pasirašo įgaliojimus, kitus vidaus administravimo dokumentus;
 
-5)    tvirtina Lygių galimybių kontrolieriaus tarnybos administracijos padalinių, Komisijos nuostatus ir valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių aprašymus;
+5) tvirtina Lygių galimybių kontrolieriaus tarnybos administracijos padalinių, Komisijos nuostatus ir valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių aprašymus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1760, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20741
 
-6) tvirtina Lygių galimybių kontrolieriaus tarnybos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių sąrašus neviršydamas Lygių galimybių kontrolieriaus tarnybai nustatyto didžiausio leidžiamo valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičiaus;
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
 
-7) vadovaudamasis įstatymais ir kitais teisės aktais, priima į pareigas ir atleidžia iš jų Lygių galimybių kontrolieriaus tarnybos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, skatina juos, skiria jiems nuobaudas ir pašalpas;
+6) tvirtina Lygių galimybių kontrolieriaus tarnybos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių ir pareigybių sąrašą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
+
+7) vadovaudamasis įstatymais ir kitais teisės aktais, priima į pareigas ir atleidžia iš jų Lygių galimybių kontrolieriaus tarnybos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, skatina juos, skiria valstybės tarnautojams tarnybines nuobaudas arba priima sprendimus dėl darbuotojų, dirbančių pagal darbo sutartis, darbo pareigų pažeidimo, skiria jiems pašalpas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
 
 8) užtikrina racionalų ir taupų lėšų ir turto naudojimą, efektyvios Lygių galimybių kontrolieriaus tarnybos vidaus kontrolės sukūrimą, veikimą ir tobulinimą;
 
@@ -353,6 +375,12 @@ Nr. XIII-1760, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20741
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1760, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20741
+
+3. Kai Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo nustatyta tvarka lygių galimybių kontrolierius nusišalina nuo tarnybinių pareigų atlikimo, Lietuvos Respublikos Seimo valdybos sprendimu lygių galimybių kontrolieriaus pareigas, nuo kurių atlikimo lygių galimybių kontrolierius nusišalino, nusišalinimo laikotarpiu pavedama atlikti vaiko teisių apsaugos kontrolieriui arba Seimo kontrolieriui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
 
 17 straipsnis. Lygių galimybių kontrolieriaus kompetencija
 
@@ -370,7 +398,11 @@ Nr. XIII-1760, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20741
 
 18 straipsnis. Lygių galimybių kontrolieriaus skyrimo ir atleidimo tvarka
 
-1. Lygių galimybių kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį teisinį išsilavinimą – teisės bakalauro ir teisės magistro kvalifikacinius laipsnius arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir ne mažesnį kaip 10 metų teisinio darbo stažą.
+1. Lygių galimybių kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį teisinį išsilavinimą – teisės bakalauro ir teisės magistro kvalifikacinius laipsnius arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir ne mažesnį kaip 10 metų teisinio ar teisinio pedagoginio darbo stažą, taip pat ne mažesnę negu 5 metų patirtį žmogaus teisių ir laisvių apsaugos srityje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
 
 2. Lygių galimybių kontrolierių penkeriems metams skiria Seimas Seimo Pirmininko teikimu. Tas pats asmuo lygių galimybių kontrolieriumi gali būti skiriamas ne daugiau kaip du kartus iš eilės.
 
@@ -396,7 +428,17 @@ Nr. XIII-1760, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20741
 
 6. Šio straipsnio 5 dalies 1, 2, 3, 4, 5, 6 punktuose nustatytais atvejais sprendimą dėl lygių galimybių kontrolieriaus atleidimo priima Seimas Seimo Pirmininko teikimu.
 
-7. Šio straipsnio 5 dalies 1 punkte nustatytu atveju lygių galimybių kontrolierius eina pareigas iki tol, kol į jo vietą paskiriamas naujas lygių galimybių kontrolierius.
+7. Šio straipsnio 5 dalies 1 punkte nustatytu atveju lygių galimybių kontrolierius eina pareigas tol, kol paskiriamas naujas lygių galimybių kontrolierius. Kitais šio straipsnio 5 dalyje nustatytais atvejais, iki bus paskirtas lygių galimybių kontrolierius, lygių galimybių kontrolieriaus pareigas Seimo valdyba paveda atlikti vaiko teisių apsaugos kontrolieriui arba Seimo kontrolieriui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
+
+8. Seimo Pirmininkas lygių galimybių kontrolieriaus kandidatūrą Seimui pateikia ne vėliau kaip prieš 3 mėnesius iki lygių galimybių kontrolieriaus kadencijos pabaigos. Lygių galimybių kontrolieriaus įgaliojimams nutrūkus šio straipsnio 5 dalies 2–7 punktuose nurodytais pagrindais, Seimo Pirmininkas lygių galimybių kontrolieriaus kandidatūrą pateikia Seimui ne vėliau kaip per vieną mėnesį nuo lygių galimybių kontrolieriaus įgaliojimų pabaigos dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
 
 19 straipsnis. Lygių galimybių kontrolieriaus priesaika
 
@@ -416,17 +458,23 @@ Tepadeda man Dievas.“;
 
 1. Lygių galimybių kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis ar skiriamomis pareigomis valstybės ir savivaldybių institucijose ir įstaigose, taip pat su darbu verslo, komercijos ar kitose privačiose įstaigose ar įmonėse, išskyrus pedagoginį ar kūrybinį darbą.
 
-2. Lygių galimybių kontrolierius negali gauti kito darbo užmokesčio, išskyrus jam nustatytą pagal einamas pareigas ir atlyginimą už pedagoginį ar kūrybinį darbą.
+2. Lygių galimybių kontrolierius negali gauti kito darbo užmokesčio, išskyrus jam nustatytą pagal einamas pareigas ir atlyginimą už pedagoginį ar kūrybinį darbą, taip pat užmokestį už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose arba Lietuvos vystomojo bendradarbiavimo projektuose, kuriuose vykdoma su žmogaus teisių apsauga, sklaida ar ombudsmenų institucijų veiklos tobulinimu susijusi pedagoginė ar kūrybinė veikla.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
 
 3. Lygių galimybių kontrolierius negali dalyvauti politinių partijų veikloje.
 
 21 straipsnis. Lygių galimybių kontrolieriaus socialinės garantijos
 
-1. Lygių galimybių kontrolieriui kiekvienais metais suteikiamos 28 kalendorinių dienų atostogos. Lygių galimybių kontrolieriui, turinčiam didesnį kaip 5 metų tarnybos Lietuvos valstybei stažą, už kiekvienų papildomų 3 metų tarnybos stažą suteikiamos papildomos 3 kalendorinės dienos kasmetinių papildomų atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 42 kalendorinės dienos.
+1. Pasibaigus lygių galimybių kontrolieriaus įgaliojimų laikui ir jeigu jis neskiriamas kitai kadencijai, jam išmokama 2 mėnesių darbo užmokesčio dydžio išeitinė išmoka. Lygių galimybių kontrolieriaus įgaliojimams nutrūkus, kai jis dėl sveikatos būklės nebegali eiti pareigų, išmokama 3 mėnesių darbo užmokesčio dydžio išeitinė išmoka. Lygių galimybių kontrolieriui mirus, jo šeimai išmokama 3 mėnesių darbo užmokesčio dydžio išmoka. Šioje dalyje nurodytos išmokos mokamos iš Lygių galimybių kontrolieriaus tarnybai skirtų valstybės biudžeto lėšų. Lygių galimybių kontrolieriui atsistatydinus arba kai jam įsiteisėja apkaltinamasis teismo nuosprendis, jis sulaužo priesaiką arba praranda Lietuvos Respublikos pilietybę, išeitinė išmoka jam nemokama.
 
-2. Pasibaigus lygių galimybių kontrolieriaus įgaliojimų laikui ir jeigu jis neskiriamas kitai kadencijai, jam išmokama 2 mėnesių atlyginimo dydžio išeitinė išmoka. Lygių galimybių kontrolieriaus įgaliojimams nutrūkus, kai jis dėl sveikatos būklės negali eiti pareigų, išmokama 3 mėnesių atlyginimo dydžio išeitinė išmoka. Lygių galimybių kontrolieriui mirus, jo šeimai išmokama 3 mėnesių atlyginimo dydžio išmoka. Šioje dalyje nurodytos išmokos mokamos iš Lygių galimybių kontrolieriaus tarnybai skirtų valstybės biudžeto lėšų. Lygių galimybių kontrolieriui atsistatydinus arba kai jam įsiteisėja apkaltinamasis teismo nuosprendis, jis sulaužo priesaiką arba praranda Lietuvos Respublikos pilietybę, išeitinė išmoka jam nemokama.
+2. Pasibaigus lygių galimybių kontrolieriaus įgaliojimų laikui, išskyrus atvejus, kai lygių galimybių kontrolieriui įsiteisėja apkaltinamasis teismo nuosprendis, lygių galimybių kontrolierius turi teisę Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka atkurti valstybės tarnautojo statusą.
 
-3. Pasibaigus lygių galimybių kontrolieriaus įgaliojimų laikui, išskyrus atvejus, kai lygių galimybių kontrolieriui įsiteisėja apkaltinamasis teismo nuosprendis, lygių galimybių kontrolierius turi teisę Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka grįžti į ankstesnes pareigas.
+Straipsnio pakeitimai:
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
 
 22 straipsnis. Lygių galimybių kontrolieriaus veiklos viešumas
 
@@ -528,7 +576,11 @@ Nr. XIV-425, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14588
 
 1. Baigus tirti skundą, surašomas sprendimas, kuriame nurodoma tyrimo metu nustatytos aplinkybės, esantys įrodymai ir veiksmų (neveikimo), administracinio akto arba sprendimo teisinis įvertinimas. Sprendimą pasirašo lygių galimybių kontrolierius.
 
-2. Tyrimo metu ar jį atlikęs, lygių galimybių kontrolierius priima vieną iš šių sprendimų:
+2. Tyrimo metu ar jį atlikęs, lygių galimybių kontrolierius priima vieną arba kelis iš šių sprendimų:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
 
 1) perduoti tyrimo medžiagą ikiteisminio tyrimo įstaigai ar prokurorui, jeigu nustatomi galimi nusikalstamos veikos požymiai;
 
@@ -544,7 +596,13 @@ Nr. XIV-425, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14588
 
 7) įpareigoti reklamos veiklos subjektus nutraukti neleidžiamą reklamą ir nustatyti šio įpareigojimo įvykdymo terminus ir sąlygas;
 
-8) su pareiškimu kreiptis į administracinį teismą prašant ištirti, ar norminis administracinis aktas (ar jo dalis), religinės bendruomenės ir bendrijos, politinės partijos, politinės organizacijos arba asociacijos priimtas bendro pobūdžio aktas atitinka šį įstatymą ar Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymą.
+8) su pareiškimu kreiptis į administracinį teismą prašant ištirti, ar norminis administracinis aktas (ar jo dalis), religinės bendruomenės ir bendrijos, politinės partijos, politinės organizacijos arba asociacijos priimtas bendro pobūdžio aktas atitinka šį įstatymą ar Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymą;
+
+9) siūlyti Vyriausiajai tarnybinės etikos komisijai atlikti tyrimą, ar valstybinėje tarnyboje dirbantis asmuo nepažeidė Viešųjų ir privačių interesų derinimo įstatymo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
 
 3. Tyrimo metu ar jį atlikęs, lygių galimybių kontrolierius gali nutraukti tyrimą, kai:
 
@@ -702,13 +760,33 @@ Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 
 Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 7 straipsnių ir priedo pakeitimo įstatymas
 
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
+
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 5, 7 ir 15-1 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
+
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 16, 18, 20, 21 ir 29 straipsnių pakeitimo įstatymas
+
 part_4a7c9507e4344e77bf92c75e581cf9e7_end
 
 151 straipsnis. Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėsena
 
 1. Komisija, veikdama pagal lygių galimybių kontrolieriaus patvirtintus nuostatus, atlieka Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėseną. Komisija nėra juridinis asmuo.
 
-2. Komisiją sudaro 5 nariai, iš jų 4 yra neįgaliųjų asociacijų atstovai ir vienas Lygių galimybių kontrolieriaus tarnybos atstovas. Per lygių galimybių kontrolieriaus nustatytą terminą ir jo nustatyta tvarka kandidatus į Komisiją siūlo neįgaliųjų asociacijos bendru sutarimu. Neįgaliųjų asociacijos, teikdamos Komisijos narių kandidatūras, turi užtikrinti, kad būtų proporcingai atstovaujami neįgaliųjų, atsižvelgiant į negalios pobūdį ir įvairovę, ir jų interesams atstovaujančių neįgaliųjų asociacijų, atsižvelgiant į veiklos sritį, interesai.
+2. Komisiją sudaro 5 nariai: 4 asmenų su negalia asociacijų atstovai ir vienas Lygių galimybių kontrolieriaus tarnybos atstovas. Per lygių galimybių kontrolieriaus nustatytą terminą jo nustatyta tvarka kandidatus į Komisiją siūlo asmenų su negalia asociacijos bendru sutarimu. Asmenų su negalia asociacijos, teikdamos Komisijos narių kandidatūras, turi užtikrinti, kad būtų proporcingai atstovaujami asmenų su negalia, atsižvelgiant į negalios pobūdį ir įvairovę, ir jų interesams atstovaujančių asmenų su negalia asociacijų, atsižvelgiant į veiklos sritį, interesai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
 
 3. Komisijos personalinę sudėtį tvirtina lygių galimybių kontrolierius. Komisija sudaroma 4 metų kadencijai. Tas pats asmuo Komisijos nariu gali būti ne daugiau kaip dvi kadencijas iš eilės.
 
