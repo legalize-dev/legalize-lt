@@ -4,7 +4,7 @@ identifier: "TAR.F628061443C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-02"
-last_updated: "2023-12-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F628061443C6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 46 straipsnis įsigalioja 2010-12-09.
 
 LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-12-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
 
@@ -645,7 +645,11 @@ Lietuvos Respublikos pilietybės dokumentus rengia, pilietybės klausimus pagal 
 
 4) Lietuvos Respublikos Vyriausybės įgaliota institucija;
 
-5) Vilniaus apygardos administracinis teismas.
+5) pirmosios instancijos administracinis teismas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1602, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25181
 
 30 straipsnis. Respublikos Prezidento įgaliojimai sprendžiant pilietybės klausimus
 
@@ -727,11 +731,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
 
-4) kreipiasi į Vilniaus apygardos administracinį teismą dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta, grąžinta ar išsaugota, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus;
+4) kreipiasi į pirmosios instancijos administracinį teismą dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta ar grąžinta, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
+
+Nr. XIV-1602, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25181
 
 5) kreipiasi į Respublikos Prezidentą dėl sprendimo dėl išimties tvarka suteiktos Lietuvos Respublikos pilietybės netekimo šio įstatymo 24 straipsnio 10 punkte nustatytu pagrindu priėmimo, gavęs atitinkamą informaciją iš kompetentingų valstybės institucijų;
 
@@ -765,11 +771,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
-5) nagrinėja klausimus ir dokumentus dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta, grąžinta ar išsaugota, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus, ir teikia vidaus reikalų ministrui siūlymus kreiptis į Vilniaus apygardos administracinį teismą šiais klausimais, taip pat vidaus reikalų ministro pavedimu rengia dokumentus dėl suteiktos išimties tvarka Lietuvos Respublikos pilietybės netekimo šio įstatymo 24 straipsnio 10 punkte nustatytu pagrindu;
+5) nagrinėja klausimus ir dokumentus dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta, grąžinta ar išsaugota, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus, ir teikia vidaus reikalų ministrui siūlymus kreiptis į pirmosios instancijos administracinį teismą šiais klausimais, taip pat vidaus reikalų ministro pavedimu rengia dokumentus dėl suteiktos išimties tvarka Lietuvos Respublikos pilietybės netekimo šio įstatymo 24 straipsnio 10 punkte nustatytu pagrindu;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1830, 2023-03-23, paskelbta TAR 2023-04-06, i. k. 2023-06681
+
+Nr. XIV-1602, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25181
 
 6) raštu praneša pareiškėjams, kurių prašymai dėl Lietuvos Respublikos pilietybės atkūrimo netenkinami, ir nurodo atsisakymo tenkinti prašymą motyvus;
 
@@ -789,9 +797,13 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 
-34 straipsnis. Vilniaus apygardos administracinis teismas
+34 straipsnis. Pirmosios instancijos administracinis teismas
 
-Vilniaus apygardos administracinis teismas vidaus reikalų ministro prašymu sprendžia dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta ar grąžinta, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus.
+Pirmosios instancijos administracinis teismas vidaus reikalų ministro prašymu sprendžia dėl Lietuvos Respublikos pilietybės netekimo paaiškėjus, kad asmuo įgijo Lietuvos Respublikos pilietybę pateikęs suklastotus dokumentus ar kitokiu apgaulės būdu, taip pat paaiškėjus šio įstatymo 22 straipsnyje nurodytoms aplinkybėms, dėl kurių Lietuvos Respublikos pilietybė negalėjo būti suteikta, atkurta ar grąžinta, arba paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidžiant šį ar kitus Lietuvos Respublikos įstatymus.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1602, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25181
 
 35 straipsnis. Kitų valstybės ir savivaldybių institucijų ir įstaigų teisės ir pareigos
 
