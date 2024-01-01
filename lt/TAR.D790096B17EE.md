@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2023-06-25"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2023-06-25 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
 
@@ -1756,11 +1756,23 @@ Nr. XII-2212, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00082
 
 1. Valstybinė vartotojų teisių apsaugos tarnyba turi teisę duoti interneto prieigos paslaugų teikėjams, teikiantiems paslaugas pardavėjams, paslaugų teikėjams, kurie šiomis paslaugomis naudojasi vykdydami veiklą, kuria šiurkščiai ar sistemingai pažeidžiami vartotojų apsaugos reikalavimai, nustatyti šiame įstatyme, Civiliniame kodekse, Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme ar Produktų saugos įstatyme, privalomus nurodymus panaikinti galimybę pasiekti informaciją, blokuojant interneto domeno vardą, identifikuojantį interneto svetainę, tol, kol nepašalinami pažeidimai. Šioje dalyje nurodytais interneto prieigos paslaugų teikėjais laikomi fiziniai arba juridiniai asmenys, įskaitant Lietuvos Respublikoje įregistruotus užsienio juridinio asmens filialus ar atstovybes, kurie teikia interneto prieigos paslaugas.
 
-2. Valstybinė vartotojų teisių apsaugos tarnyba, siekdama įgyvendinti šio įstatymo 12 straipsnio 2 dalies 6 punkte nurodytą teisę, privalo pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme turi būti nurodytas pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jei jie žinomi), interneto svetainę identifikuojantis domeno vardas, įstatymų pažeidimų esmė ir numatomi atlikti veiksmai (privalomi nurodymai).
+2. Valstybinė vartotojų teisių apsaugos tarnyba, siekdama įgyvendinti šio įstatymo 12 straipsnio 2 dalies 6 punkte nurodytą teisę, privalo pirmosios instancijos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Prašyme turi būti nurodyta pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jei jie žinomi), interneto svetainę identifikuojantis domeno vardas, įstatymų pažeidimų esmė ir numatomi atlikti veiksmai (privalomi nurodymai).
 
-3. Vilniaus apygardos administracinis teismas Valstybinės vartotojų teisių apsaugos tarnybos prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 5 dienas nuo prašymo gavimo dienos.
+Straipsnio dalies pakeitimai:
 
-4. Jeigu Valstybinė vartotojų teisių apsaugos tarnyba nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7  dienas nuo skundo gavimo dienos.
+Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
+
+3. Teismas Valstybinės vartotojų teisių apsaugos tarnybos prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 5 dienas nuo prašymo gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
+
+4. Jeigu Valstybinė vartotojų teisių apsaugos tarnyba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 dienas nuo skundo gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
 
 5. Pašalinus pažeidimą ir apie tai pateikus informaciją Valstybinei vartotojų teisių apsaugos tarnybai, prieiga prie užblokuoto interneto domeno vardo, identifikuojančio interneto svetainę, atnaujinama per 7 dienas nuo informacijos apie pašalintą pažeidimą gavimo dienos.
 
