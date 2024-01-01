@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2023-06-23"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2023-06-23 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -2191,13 +2191,15 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 3. Šio straipsnio 1 dalyje nurodytas faktiškai patirtų išlaidų dydis turi būti sumažintas tam tikslui panaudotų nacionalinio biudžeto, Valstybinio socialinio draudimo fondo biudžeto, Privalomojo sveikatos draudimo fondo biudžeto, kitų valstybės pinigų fondų, savivaldybių fondų, Europos Sąjungos ir kitos finansinės paramos lėšų suma, jeigu tokios lėšos ar tokia parama buvo gauta.
 
-4. Šiame straipsnyje nustatyta tvarka apmokestinamasis pelnas gali būti sumažintas tik per 2009–2023 metų mokestinius laikotarpius patirtomis išlaidomis.
+4. Šiame straipsnyje nustatyta tvarka apmokestinamasis pelnas gali būti sumažintas tik per 2009–2028 metų mokestinius laikotarpius patirtomis išlaidomis.
 
-TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+TAR pastaba: 4 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2024 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+
+Nr. XIV-2296, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24166
 
 5. Ilgalaikis turtas, dėl kurio įsigijimo šiame straipsnyje nustatyta tvarka buvo sumažintas apmokestinamasis pelnas, vieneto veikloje turi būti naudojamas ne trumpiau negu 3 metus. Jeigu toks ilgalaikis turtas naudojamas vieneto veikloje trumpiau, išskyrus vieneto pabaigą ir atvejus, kai turtas nebenaudojamas ar perleidžiamas dėl teisės aktų reikalavimų, prarandamas dėl nenugalimos jėgos (force majeure) ar nusikalstamos trečiųjų asmenų veiklos, dėl sumažinto apmokestinamojo pelno neapskaičiuotas pelno mokestis turi būti sumokėtas į valstybės biudžetą perskaičiuojant ir apmokestinant praėjusių mokestinių laikotarpių apmokestinamuosius pelnus. Toks perskaičiavimas neatliekamas, kai ilgalaikis turtas naudojamas vieneto veikloje trumpiau negu 3 metus dėl to, kad reorganizavimo ar perleidimo atvejais pereina įsigyjančiajam vienetui, tačiau tik tuo atveju, jeigu įsigyjantysis vienetas perimtą turtą naudoja iki tol, kol sueis 3 metai nuo ilgalaikio turto naudojimo jį perleidusiame vienete pradžios. Įsigyjantysis vienetas, perėmęs ilgalaikį turtą reorganizavimo ar perleidimo atvejais ar dėl teisės aktų reikalavimų, gali tęsti apmokestinamojo pelno sumažinimą, kaip tai būtų daręs ilgalaikį turtą perleidęs ir galimybių dėl tokio ilgalaikio turto įsigijimo sumažinti apmokestinamąjį pelną netekęs vienetas.
 
@@ -2311,7 +2313,13 @@ Nr. XI-73, 2008-12-18, Žin., 2008, Nr. 149-6000 (2008-12-30)
 
 172 straipsnis. Apmokestinamųjų pajamų mažinimas dėl filmo arba jo dalies gamybai neatlygintinai suteiktų lėšų
 
-1. Apskaičiuojant pelno mokestį, šio straipsnio nustatyta tvarka iš apmokestinamųjų pajamų gali būti atimamos neatlygintinai Lietuvos filmo gamintojui laikotarpiu nuo 2019 m. sausio 1 d. iki 2023 m. gruodžio 31 d. suteiktos lėšos filmo ar jo dalies gamybai Lietuvos Respublikoje, kai:
+1. Apskaičiuojant pelno mokestį, šiame straipsnyje nustatyta tvarka iš apmokestinamųjų pajamų gali būti atimamos neatlygintinai Lietuvos filmo gamintojui laikotarpiu nuo 2019 m. sausio 1 d. iki 2028 m. gruodžio 31 d. suteiktos lėšos filmo ar jo dalies gamybai Lietuvos Respublikoje, kai:
+
+TAR pastaba: 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2024 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2296, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24166
 
 1) filmas atitinka Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kultūrinio turinio ir gamybos vertinimo kriterijus ir
 
