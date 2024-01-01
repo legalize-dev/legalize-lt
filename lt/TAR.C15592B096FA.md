@@ -4,7 +4,7 @@ identifier: "TAR.C15592B096FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-15"
-last_updated: "2023-12-30"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-11-14
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
 
@@ -155,9 +155,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
-5 straipsnis. Asmens teisių ir laisvių, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimai
+5 straipsnis. Asmens teisių ir laisvių, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo, streikų apribojimai
 
-Vykdant paieškos, gelbėjimo ir neatidėliotinus darbus, likviduojant įvykį, ekstremalųjį įvykį, krizę ar ekstremaliąją situaciją ir šalinant jų padarinius, šio įstatymo nustatytais atvejais ir tvarka gali būti laikinai apribota asmens judėjimo laisvė, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvė, viešųjų ir administracinių paslaugų teikimas.
+Vykdant paieškos, gelbėjimo ir neatidėliotinus darbus, likviduojant įvykį, ekstremalųjį įvykį, krizę ar ekstremaliąją situaciją ir šalinant jų padarinius, šio įstatymo nustatytais atvejais ir tvarka gali būti laikinai apribota asmens judėjimo laisvė, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvė, viešųjų ir administracinių paslaugų teikimas, streikai.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2377, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25629
 
 II SKYRIUS
 
@@ -177,7 +181,11 @@ Vyriausybė:
 
 5) skiria valstybės ir savivaldybių institucijoms ir įstaigoms valstybines pasirengimo krizėms ir ekstremaliosioms situacijoms, krizių ir ekstremaliųjų situacijų prevencijos, reagavimo į krizes ir ekstremaliąsias situacijas ir jų padarinių šalinimo užduotis;
 
-6) nustato ir atšaukia gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimus krizės metu ar paskelbusi valstybės lygio ekstremaliąją situaciją;
+6) nustato ir atšaukia gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo, streikų apribojimus krizės metu ar paskelbusi valstybės lygio ekstremaliąją situaciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2377, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25629
 
 7) krizės metu ar paskelbusi valstybės lygio ekstremaliąją situaciją imasi konkrečių prekių tiekimą ir (ar) paslaugų teikimą ir prieinamumą didinančių priemonių;
 
@@ -999,7 +1007,11 @@ c) koordinuoja ir kontroliuoja valstybės operacijų vadovo sprendimų įgyvendi
 
 d) vertina papildomų materialinių ir žmogiškųjų išteklių, reikalingų valstybės lygio ekstremaliajai situacijai valdyti ir jos padariniams šalinti, poreikį, organizuoja ir koordinuoja šių išteklių skyrimą ir panaudojimą;
 
-2) Vyriausybė gali nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimus valstybės lygio ekstremaliajai situacijai likviduoti ir jos padariniams šalinti;
+2) Vyriausybė gali nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo, streikų apribojimus valstybės lygio ekstremaliajai situacijai likviduoti ir jos padariniams šalinti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2377, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25629
 
 3) atsiradus su valstybės lygio ekstremaliąja situacija susijusiam būtinų prekių ir (ar) paslaugų trūkumui ar ribotam prieinamumui, Vyriausybė imasi šių prekių tiekimą ir (ar) paslaugų teikimą ir prieinamumą didinančių priemonių;
 
@@ -1275,13 +1287,21 @@ III SKYRIUS
 
 GYVENTOJŲ, ŪKIO SUBJEKTŲ IR kitų ĮSTAIGŲ TEISĖS IR PAREIGOS CIVILINĖS SAUGOS SRITYJE
 
-40 straipsnis. Asmens teisių ir laisvių, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimų nustatymas
+40 straipsnis. Asmens teisių ir laisvių, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo, streikų apribojimų nustatymas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2377, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25629
 
 1. Paskelbus valstybės lygio ekstremaliąją situaciją:
 
-1) valstybės ir savivaldybių institucijos ir įstaigos, dalyvaujančios valdant valstybės lygio ekstremaliąją situaciją ir šalinant jos padarinius, gali siūlyti nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimus, būtinus valstybės lygio ekstremaliajai situacijai likviduoti ir jos padariniams šalinti. Šie pasiūlymai teikiami Nacionaliniam krizių valdymo centrui;
+1) valstybės ir savivaldybių institucijos ir įstaigos, dalyvaujančios valdant valstybės lygio ekstremaliąją situaciją ir šalinant jos padarinius, gali siūlyti nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo, streikų apribojimus, būtinus valstybės lygio ekstremaliajai situacijai likviduoti ir jos padariniams šalinti. Šie pasiūlymai teikiami Nacionaliniam krizių valdymo centrui;
 
-2) Nacionalinis krizių valdymo centras pasiūlymą Vyriausybei nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimus, būtinus valstybės lygio ekstremaliajai situacijai likviduoti ir jos padariniams šalinti, teikia savo iniciatyva arba valstybės ir savivaldybių institucijų ir įstaigų, dalyvaujančių valdant valstybės lygio ekstremaliąją situaciją ir šalinant jos padarinius, siūlymu.
+2) Nacionalinis krizių valdymo centras pasiūlymą Vyriausybei nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo, streikų apribojimus, būtinus valstybės lygio ekstremaliajai situacijai likviduoti ir jos padariniams šalinti, teikia savo iniciatyva arba valstybės ir savivaldybių institucijų ir įstaigų, dalyvaujančių valdant valstybės lygio ekstremaliąją situaciją ir šalinant jos padarinius, siūlymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2377, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25629
 
 2. Nacionalinis krizių valdymo centras, teikdamas šio straipsnio 1 dalies 2 punkte nurodytus pasiūlymus, turi surinkti informaciją apie pagrįstą poreikį garantuoti viešąją tvarką, gelbėti ar apsaugoti žmogaus gyvybę, sveikatą ar turtą valstybės lygio ekstremaliosios situacijos metu.
 
@@ -1602,4 +1622,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2387, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-26022
 
 Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 40 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2377, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25629
+
+Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 5, 7, 34 ir 40 straipsnių pakeitimo įstatymas
 
