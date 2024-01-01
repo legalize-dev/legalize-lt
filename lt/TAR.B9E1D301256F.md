@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2023-02-13"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2023-02-13 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-02-20
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -47,7 +47,11 @@ BENDROSIOS NUOSTATOS
 
 3. Apmokestinant akcizais elektros energiją, kaip ji apibrėžta šio įstatymo 3 straipsnio 12 dalyje, taikomos tik šio įstatymo 20, 21, 22 straipsnių ir II skyriaus ketvirtojo skirsnio nuostatos.
 
-4. Apmokestinant akcizais akmens anglis, koksą, lignitą, taikomos tik šio įstatymo 20, 21, 22, 43 straipsnių ir II skyriaus penktojo skirsnio nuostatos.
+4. Apmokestinant akcizais akmens anglis, koksą, lignitą, šildymui skirtas durpes, taikomos tik šio įstatymo 20, 21, 22, 43 straipsnių ir II skyriaus penktojo skirsnio nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 5. Apmokestinant akcizais gamtines dujas, taikomos tik šio įstatymo 20, 21, 22, 43 straipsnių ir II skyriaus šeštojo skirsnio nuostatos.
 
@@ -123,11 +127,13 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 3. Visi kiti šio straipsnio 1 dalyje nenurodyti produktai tampa akcizų objektu, jeigu jie parduodami arba naudojami kaip variklių degalai arba jų priedai. Šioje dalyje nurodytiems produktams taikomi akcizų tarifai, šiame įstatyme nustatyti atitinkamam ekvivalentiškam energiniam produktui, vietoj kurio arba kaip kurio priedas produktas parduodamas arba naudojamas.
 
-4. Visi kiti šio straipsnio 1 dalyje nenurodyti angliavandeniliai, išskyrus durpes, tampa akcizų objektu, jeigu jie parduodami arba naudojami kaip šildymui skirtas kuras. Šioje dalyje nurodytiems produktams taikomi akcizų tarifai, šiame įstatyme nustatyti atitinkamam ekvivalentiškam energiniam produktui, vietoj kurio produktas parduodamas arba naudojamas.
+4. Visi kiti šio straipsnio 1 dalyje nenurodyti angliavandeniliai tampa akcizų objektu, jeigu jie parduodami arba naudojami kaip šildymui skirtas kuras. Jiems taikomi akcizų tarifai, šiame įstatyme nustatyti atitinkamam ekvivalentiškam energiniam produktui, vietoj kurio produktas parduodamas arba naudojamas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
+
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 4 straipsnis. Akcizais apmokestinamų prekių sandėlio steigimas
 
@@ -843,7 +849,7 @@ ETILO ALKOHOLIS IR ALKOHOLINIAI GĖRIMAI
 
 23 straipsnis. Alui taikomi akcizų tarifai
 
-1. Alui taikomas 8,60 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.
+1. Alui taikomas 9,46 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.
 
 Straipsnio dalies pakeitimai:
 
@@ -877,9 +883,9 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 
 Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai:
 
-1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 93 eurai už produkto hektolitrą;
+1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 109 eurai už produkto hektolitrą;
 
-2) šio straipsnio 1 punkte nenurodytiems gėrimams – 199 eurai už produkto hektolitrą.
+2) šio straipsnio 1 punkte nenurodytiems gėrimams – 219 eurų už produkto hektolitrą.
 
 Straipsnio pakeitimai:
 
@@ -903,9 +909,9 @@ Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 Tarpiniams produktams taikomi tokie akcizų tarifai:
 
-1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 216 eurų už produkto hektolitrą;
+1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 234 eurai už produkto hektolitrą;
 
-2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 308 eurai už produkto hektolitrą.
+2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 333 eurai už produkto hektolitrą.
 
 Straipsnio pakeitimai:
 
@@ -927,7 +933,7 @@ Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 26 straipsnis. Etilo alkoholiui taikomi akcizų tarifai
 
-1. Etilo alkoholiui taikomas 2 310 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas.
+1. Etilo alkoholiui taikomas 2 467 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas.
 
 Straipsnio dalies pakeitimai:
 
@@ -973,9 +979,29 @@ Nr. XII-1319, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17216
 
 7) etilo alkoholis ir alkoholiniai gėrimai, skirti maisto ir (arba) nealkoholinių gėrimų, kurių faktinė tūrinė alkoholio koncentracija procentais neviršija 1,2 procento, gamybai naudojamų kvapiųjų medžiagų ar jų mišinių gamybai;
 
-8) dehidratuotas etilo alkoholis, skirtas biodegalų ir (ar) jų komponentų, ir (ar) biokuro gamybai Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo (toliau – Atsinaujinančių išteklių energetikos įstatymas) nustatyta tvarka.
+8) Neteko galios nuo 2024-01-01
 
-2. Panaikinus akcizų mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį, nurodytą šio straipsnio 1 dalies 1, 3, 4 ir 8 punktuose, akcizai neskaičiuojami. Konkrečią šio straipsnio 1 dalyje nurodytų lengvatų taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+Straipsnio punkto naikinimas:
+
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+
+9) etilo alkoholis, skirtas moksliniams tyrimams
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+
+10) etilo alkoholis, naudojamas medicinos priemonių gamybos procesams, jeigu galutiniame produkte nėra etilo alkoholio.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+
+2. Panaikinus akcizų mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį, nurodytą šio straipsnio 1 dalies 1, 3, 4, 5, 6, 7, 9 ir 10 punktuose, akcizai neskaičiuojami. Konkrečią šio straipsnio 1 dalyje nurodytų lengvatų taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 Straipsnio pakeitimai:
 
@@ -1003,7 +1029,7 @@ Etilo alkoholis (klasifikuojamas KN 2208 pozicijoje) ir alkoholiniai gėrimai, s
 
 2. Cigaretėms taikomas toks akcizų tarifas:
 
-1) specifinis elementas – 79,6 euro;
+1) specifinis elementas – 85,3 euro;
 
 Straipsnio punkto pakeitimai:
 
@@ -1021,7 +1047,7 @@ Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 2) vertybinis elementas – 25 procentai.
 
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 130 eurų už 1 000 cigarečių.
+3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 138 eurai už 1 000 cigarečių.
 
 Straipsnio dalies pakeitimai:
 
@@ -1057,9 +1083,9 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 31 straipsnis. Kitam apdorotam tabakui taikomi akcizų tarifai
 
-1. Cigarams ir cigarilėms taikomas 79 eurų už kilogramą produkto akcizų tarifas.
+1. Cigarams ir cigarilėms taikomas 95 eurų už kilogramą produkto akcizų tarifas.
 
-2. Rūkomajam tabakui taikomas 104,6 euro už kilogramą produkto akcizų tarifas.
+2. Rūkomajam tabakui taikomas 112,8 euro už kilogramą produkto akcizų tarifas.
 
 Straipsnio pakeitimai:
 
@@ -1135,19 +1161,11 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 37 straipsnis. Gazoliams taikomi akcizų tarifai
 
-1. Gazoliams taikomas 372 eurų už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
+1. Gazoliams taikomas 410 eurų už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
 
-2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 21,14 euro už 1 000 litrų produkto akcizų tarifas.
+2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas.
 
-3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 ℃ temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
-
-Straipsnio pakeitimai:
-
-Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
-
-Nr. XII-80, 2012-12-20, Žin., 2012, Nr. 153-7830 (2012-12-29)
-
-Nr. XII-917, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07397
+3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai naudojamoje žemės ūkio technikoje (įskaitant traktorius), žvejybos laivų varikliuose, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 Straipsnio pakeitimai:
 
@@ -1156,6 +1174,8 @@ Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
 
 Nr. XIV-724, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25842
+
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 38 straipsnis. Skystajam kurui (mazutams), orimulsijai taikomi akcizų tarifai
 
@@ -1175,39 +1195,11 @@ Straipsnio pakeitimai:
 
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
-40 straipsnis. Akcizų lengvatos energiniams produktams iš biologinės kilmės medžiagų ar su jų priedais
+40 straipsnis. Neteko galios nuo 2024-01-01
 
-1. Šio straipsnio nuostatos taikomos energiniams produktams, kurie pagaminti iš šioje dalyje nurodytų produktų arba kurių sudėtyje yra vienas ar keli šioje dalyje nurodyti produktai:
+Straipsnio naikinimas:
 
-1) klasifikuojami KN 1507–1518 pozicijose;
-
-2) klasifikuojami KN 3824 90 55, 3824 90 80–3824 90 99 subpozicijose (šios nuostatos taikomos tik tai daliai, kuri pagaminta iš biomasės);
-
-3) klasifikuojami KN 2207 20 00 ir 2905 11 00 subpozicijose, jeigu jie nėra sintetinės kilmės;
-
-4) pagaminti iš biomasės (kaip ji apibrėžta Atsinaujinančių išteklių energetikos įstatyme), įskaitant produktus, klasifikuojamus KN 4401 ir 4402 pozicijose.
-
-2. Šio straipsnio nuostatos taip pat taikomos ir tuo atveju, jeigu šio straipsnio 1 dalyje nurodytų produktų sudėtyje yra vandens (KN 2201 pozicija ir 2851 00 10 subpozicija).
-
-3. Šio straipsnio nuostatos taikomos tik tiems produktams, kurie atitinka Atsinaujinančių išteklių energetikos įstatyme biodegalams ir (ar) biokurui keliamus reikalavimus.
-
-4. Šio straipsnio reikalavimus ir Europos standartizacijos komiteto patvirtintus standartus EN 14214 ir CEN/TS 15293 atitinkantiems biodegalų ir degalų mišiniams taikomas šio įstatymo 35–39 straipsniuose nustatytas akcizų tarifas, sumažintas dalimi, proporcingai atitinkančia biologinės kilmės priemaišų dalį (procentais) biodegalų ir degalų mišinyje.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2160, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19858
-
-5. Kitiems šio straipsnio reikalavimus atitinkantiems produktams, nenurodytiems šio straipsnio 4 dalyje, taikomas šio įstatymo 35–39 straipsniuose nustatytas akcizų tarifas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2160, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19858
-
-6. Šiame straipsnyje nurodytas akcizų tarifas taikomas tik centrinio mokesčių administratoriaus nustatyta tvarka išduotą atitinkamą leidimą turinčių asmenų pagamintiems, taip pat iš kitos valstybės narės atgabentiems arba importuotiems produktams.
-
-Straipsnio pakeitimai:
-
-Nr. XI-2024, 2012-05-22, Žin., 2012, Nr. 63-3165 (2012-06-05)
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -1477,25 +1469,13 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
 4) energiniai produktai, sunaudojami visų rūšių elektros energijos gamybos procese, išskyrus energinius produktus, sunaudojamus gamintojo reikmėms kaip variklių degalai arba kaip šildymui skirtas kuras, kuriems akcizai taikomi bendra tvarka;
 
-5) naftos dujos ir dujiniai angliavandeniliai, išpilstyti į buitinius dujų balionus;
+5) energiniai produktai, į Lietuvos Respubliką įvežami standartiniuose gamintojo prie visų to paties tipo transporto priemonių nuolatinai pritvirtinamuose gamintojo techninėje dokumentacijoje numatytuose kuro bakuose ir tepalų talpyklose, iš kurių kuras ir tepalai tiesiogiai patenka į transporto priemonės kuro tiekimo ir tepimo sistemas arba naudojamas aušinimo ar kitose sistemose.
 
-6) neišpilstytos naftos dujos ir dujiniai angliavandeniliai, įsigyjami arba importuojami centrinio mokesčių administratoriaus nustatyta tvarka registruotų vartotojų, tiekiančių (naudojančių) jas (juos) buitinėms reikmėms (šildymui, maisto ruošimui ir pan.), įskaitant asmenis, kurie išpilsto naftos dujas į buitinius dujų balionus;
-
-7) neišpilstytos naftos dujos ir dujiniai angliavandeniliai, registruotų vartotojų tiekiami į grupinius įrenginius, per kuriuos jie gali būti tiekiami tik buitinėms reikmėms;
-
-8) energiniai produktai, į Lietuvos Respubliką įvežami standartiniuose gamintojo prie visų to paties tipo transporto priemonių nuolatinai pritvirtinamuose gamintojo techninėje dokumentacijoje numatytuose kuro bakuose ir tepalų talpyklose, iš kurių kuras ir tepalai tiesiogiai patenka į transporto priemonės kuro tiekimo ir tepimo sistemas arba naudojamas aušinimo ar kitose sistemose.
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
-
-2. Šio straipsnio 1 dalyje nurodytų lengvatų taikymo tvarką ir apribojimus nustato Vyriausybė ar jos įgaliota institucija.
-
-3. Apskaitos reikalavimus šio straipsnio 1 dalies 6 ir 7 punktuose nurodytiems registruotiems vartotojams nustato centrinis mokesčių administratorius.
+2. Šio straipsnio 1 dalyje nurodytų lengvatų taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 44 straipsnis. Energinių produktų, kuriems taikomos akcizų lengvatos, žymėjimas ir kontrolė
 
@@ -1593,67 +1573,73 @@ Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais pardavimo dokum
 
 PENKTASIS SKIRSNIS
 
-AKMENS ANGLIŲ, KOKSO IR LIGNITO APMOKESTINIMAS
+AKMENS ANGLIŲ, KOKSO, LIGNITO IR ŠILDYMUI SKIRTŲ DURPIŲ APMOKESTINIMAS
 
-51 straipsnis. Prievolė mokėti akcizus už akmens anglis, koksą ir lignitą
+51 straipsnis. Prievolė mokėti akcizus už akmens anglis, koksą, lignitą ir šildymui skirtas durpes
 
-1. Prievolė mokėti akcizus už akmens anglis, koksą ir lignitą atsiranda, kai jie:
+1. Prievolė mokėti akcizus už akmens anglis, koksą, lignitą ir šildymui skirtas durpes atsiranda, kai jie:
 
-1) parduodami ar kitaip perduodami asmeniui, kuris nėra centrinio mokesčių administratoriaus nustatyta tvarka registruotas akmens anglių, kokso ir (arba) lignito tiekėjas, arba
+1) parduodami ar kitaip perduodami asmeniui, kuris nėra centrinio mokesčių administratoriaus nustatyta tvarka registruotas akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjas (toliau – registruotas akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjas), arba
 
-2) gaunami iš kitos valstybės narės asmens, kuris nėra registruotas akmens anglių, kokso ir (arba) lignito tiekėjas, arba
+2) iš kitos valstybės narės gaunami asmens, kuris nėra registruotas akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjas, arba
 
-3) importuojami asmens, kuris nėra registruotas akmens anglių, kokso ir (arba) lignito tiekėjas, arba
+3) importuojami asmens, kuris nėra registruotas akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjas, arba
 
-4) suvartojami registruoto akmens anglių, kokso ir (arba) lignito tiekėjo savoms reikmėms.
+4) suvartojami registruoto akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjo savoms reikmėms.
 
-2. Akmens anglių, kokso ir (arba) lignito tiekėjų registravimo ir išregistravimo tvarką nustato centrinis mokesčių administratorius.
+2. Akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjų registravimo ir išregistravimo tvarką nustato centrinis mokesčių administratorius.
 
-54 straipsnis. Akmens anglims taikomi akcizų tarifai
+54 straipsnis. Atleidimas nuo akcizų
 
-1. Akmens anglims, išskyrus akmens anglis, nurodytas šio straipsnio 2 dalyje, taikomas 7,53 euro už toną produkto akcizų tarifas.
+1. Nuo akcizų atleidžiami akmens anglys, koksas, lignitas ir šildymui skirtos durpės:
 
-2. Akmens anglims, naudojamoms verslo reikmėms, taikomas 3,77 euro už toną produkto akcizų tarifas. Šioje dalyje nurodytas akcizų tarifas taikomas tik akmens anglims, parduodamoms ar kitaip perduodamoms asmeniui, turinčiam centrinio mokesčių administratoriaus nustatyta tvarka išduotą atitinkamą leidimą. Šiame įstatyme akmens anglių naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme.
+1) išgabenami į kitą valstybę narę;
 
-Straipsnio pakeitimai:
+2) eksportuojami.
 
-Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+2. Tais atvejais, kai akcizai už akmens anglis, koksą, lignitą ir šildymui skirtas durpes, kurie vadovaujantis šio straipsnio 1 dalies nuostatomis yra atleidžiami nuo akcizų, yra sumokėti, jie grąžinami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-55 straipsnis. Akcizų už koksą ir lignitą tarifai
+55 straipsnis. Akcizų už akmens anglis, koksą, lignitą, šildymui skirtas durpes deklaracijos pateikimas ir mokesčio sumokėjimas
 
-1. Koksui ir lignitui, išskyrus koksą ir lignitą, nurodytą šio straipsnio 2 dalyje, taikomas 8,98 euro už toną produkto akcizų tarifas.
+1. Akcizų už akmens anglis, koksą, lignitą, šildymui skirtas durpes mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus iki kito mėnesio 15 dienos registruotas akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjas, taip pat kitas asmuo, kuris nėra registruotas akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjas, gavęs iš kitos valstybės narės akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje jis registruotas mokesčių mokėtoju, pateikti akcizų už akmens anglis, koksą, lignitą, šildymui skirtas durpes deklaraciją. Deklaracijos formą ir užpildymo taisykles nustato centrinis mokesčių administratorius. Joje privalo būti deklaruota akcizų suma, apskaičiuota už akmens anglis, koksą, lignitą ir (arba) šildymui skirtas durpes, už kuriuos šio įstatymo 51 straipsnio 1 dalyje nustatyta tvarka prievolė sumokėti akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje nustatyto deklaracijos pateikimo termino pabaigos.
 
-2. Koksui ir lignitui, naudojamiems verslo reikmėms, taikomas 4,63 euro už toną produkto akcizų tarifas. Šioje dalyje nurodytas akcizų tarifas taikomas tik koksui ir lignitui, parduodamiems ar kitaip perduodamiems asmeniui, turinčiam centrinio mokesčių administratoriaus nustatyta tvarka išduotą atitinkamą leidimą. Šiame įstatyme kokso ir lignito naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris savarankiškai vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme.
+2. Jeigu asmuo netenka registruoto akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjo statuso, jis privalo šio straipsnio 1 dalyje nustatytais terminais pateikti vietos mokesčių administratoriui, kurio veiklos teritorijoje jis registruotas mokesčių mokėtoju, akcizų už akmens anglis, koksą, lignitą, šildymui skirtas durpes deklaraciją. Joje turi būti deklaruoti akcizai už visą įsigytą akmens anglių, kokso, lignito, šildymui skirtų durpių kiekį, už kurį dar nesumokėti akcizai, ir juos sumokėti iki šioje dalyje nustatyto deklaracijos pateikimo termino pabaigos.
 
-Straipsnio pakeitimai:
+3. Už asmens, kuris nėra registruotas akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjas, importuotas akmens anglis, koksą, lignitą ir (arba) šildymui skirtas durpes akcizai mokami tokiais pačiais terminais ir tvarka, kaip būtų mokami importo muitai už šiuos produktus (jeigu jie šiems produktams būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose.
 
-Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+Skirsnio pakeitimai:
+
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+
+ŠEŠTASIS SKIRSNIS
+
+GAMTINIŲ DUJŲ APMOKESTINIMAS
 
 41 straipsnis. Energiniams produktams taikomų akcizų skaičiavimo metodas
 
-Akcizų tarifas už energinius produktus, nurodytus šio įstatymo 35, 36, 37, 371 ir 40 straipsniuose, nustatytas, kai produkto temperatūra yra 15 °C. Akcizų perskaičiavimo metodiką tais atvejais, kai produktas yra kitokios temperatūros, nustato centrinis mokesčių administratorius.
+Akcizų tarifas už energinius produktus, nurodytus šio įstatymo 35, 36, 37 ir 371 straipsniuose, nustatytas, kai produkto temperatūra yra 15 °C. Akcizų perskaičiavimo tais atvejais, kai produktas yra kitokios temperatūros, metodiką nustato centrinis mokesčių administratorius.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+
 42 straipsnis. Kitiems energiniams produktams taikomi akcizų tarifai
 
 Šio įstatymo 35–39 straipsniuose nenurodytiems energiniams produktams taikomi akcizų tarifai, šiuose straipsniuose nustatyti atitinkamiems ekvivalentiškiems produktams, vietoj kurių ar kaip šių produktų priedai jie gali būti ar yra parduodami arba naudojami.
 
-52 straipsnis. Akcizų už akmens anglis, koksą, lignitą mokėtojai
+52 straipsnis. Akcizų už akmens anglis, koksą, lignitą, šildymui skirtas durpes mokėtojai
 
-Akcizų už akmens anglis, koksą ir (arba) lignitą mokėtojai yra registruoti akmens anglių, kokso ir (arba) lignito tiekėjai, importuotojai (kiti negu registruoti akmens anglių, kokso ir (arba) lignito tiekėjai), taip pat kiti asmenys, jeigu jie gavo akmens anglis, koksą ir (arba) lignitą iš kitos valstybės narės.
+Akcizų už akmens anglis, koksą, lignitą ir (arba) šildymui skirtas durpes mokėtojai yra registruoti akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjai, importuotojai (kiti negu registruoti akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjai), taip pat kiti asmenys, kurie nėra registruoti akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjai, jeigu jie gavo akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių iš kitos valstybės narės.
 
-53 straipsnis. Neteko galios nuo 2018-01-01
+53 straipsnis. Akmens anglims, koksui, lignitui ir šildymui skirtoms durpėms taikomi akcizų tarifai
 
-Straipsnio naikinimas:
+1. Akmens anglims taikomas 7,53 euro už toną produkto akcizų tarifas.
 
-Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
+2. Koksui ir lignitui taikomas 8,98 euro už toną produkto akcizų tarifas.
 
-Straipsnio pakeitimai:
-
-Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
+3. Šildymui skirtoms durpėms taikomas 10 eurų už toną produkto akcizų tarifas.
 
 56 straipsnis. Akcizų už akmens anglis, koksą, lignitą deklaracijos pateikimas ir mokesčio sumokėjimas
 
@@ -1801,7 +1787,11 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 2) į kitą valstybę narę tiekiamos gamtinės dujos;
 
-3) gamtinės dujos, naudojamos kaip variklių degalai;
+3) gamtinės dujos, naudojamos kaip variklių degalai, išskyrus naudojamas stacionariose įrangose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 4) buitiniams gamtinių dujų vartotojams, kaip jie apibrėžti Gamtinių dujų įstatyme, taip pat asmenims, kurie pagal Labdaros ir paramos įstatymą turi paramos gavėjo statusą, tiekiamos gamtinės dujos;
 
@@ -1887,9 +1877,9 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 65 straipsnis. Kaitinamojo tabako produktams ir elektroninių cigarečių skysčiui taikomi akcizų tarifai
 
-1. Kaitinamojo tabako produktams taikomas 60,2 euro už 1 000 vienetų kaitinamojo tabako produktų akcizų tarifas.
+1. Kaitinamojo tabako produktams taikomas 79,5 euro už 1 000 vienetų kaitinamojo tabako produktų akcizų tarifas.
 
-2. Elektroninių cigarečių skysčiui taikomas 0,19 euro už mililitrą skysčio akcizų tarifas.
+2. Elektroninių cigarečių skysčiui taikomas 0,25 euro už mililitrą skysčio akcizų tarifas.
 
 Straipsnio pakeitimai:
 
@@ -2023,7 +2013,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 74 straipsnis. Neapdorotam tabakui taikomas akcizų tarifas
 
-Neapdorotam tabakui taikomas 104,6 euro už kilogramą neapdoroto tabako akcizų tarifas.
+Neapdorotam tabakui taikomas 112,8 euro už kilogramą neapdoroto tabako akcizų tarifas.
 
 Straipsnio pakeitimai:
 
@@ -2085,8 +2075,6 @@ Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 7. KN 1507–1518, 3824 90 97 pozicijose klasifikuojami produktai, jeigu jie skirti naudoti kaip variklių degalai arba kaip šildymui skirtas kuras.
 
-part_7fcbef64cd0a49d185fb4996e017a864_end
-
 Lietuvos Respublikos
 
 akcizų įstatymo
@@ -2124,8 +2112,6 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 Punkto numeracijos pakeitimas:
 
 Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
-
-part_78cbbd9eea5d45e09b848b90d21793af_end
 
 Lietuvos Respublikos
 
@@ -2176,8 +2162,6 @@ Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 Priedo pakeitimai:
 
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
-
-part_7212fd00d2894c1bb98a9e653382ec07_end
 
 Pakeitimai:
 
