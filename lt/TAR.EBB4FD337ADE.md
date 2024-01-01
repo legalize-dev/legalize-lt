@@ -4,7 +4,7 @@ identifier: "TAR.EBB4FD337ADE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-22"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EBB4FD337ADE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-24
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
 
@@ -242,13 +242,15 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 20. Vyresnioji finansų įstaigos vadovybė (toliau – vyresnioji vadovybė) – fiziniai asmenys, atliekantys vykdomąsias funkcijas finansų įstaigoje ir atsakingi bei atskaitingi valdymo organui už kasdienį finansų įstaigos valdymą.
 
-21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Bankų įstatyme, Finansų įstaigų įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 806/2014 ir Reglamente (ES) Nr. 648/2012.
+21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Bankų įstatyme, Finansų įstaigų įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 806/2014 ir Reglamente (ES) Nr. 648/2012.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 Nr. XIV-1453, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22564
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 II SKYRIUS
 
@@ -686,15 +688,19 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 8. Pertvarkomo subjekto akcininkai arba kreditoriai ir kiti tretieji asmenys, kurių turtas, teisės ar įsipareigojimai nėra perduodami turto valdymo įmonei, neturi tiesioginių arba netiesioginių teisių į turto valdymo įmonei arba jos valdymo organui ar vyresniajai vadovybei perduotą turtą, teises ar įsipareigojimus, išskyrus šio skyriaus šeštajame skirsnyje numatytus atvejus.
 
-131 straipsnis. Su finansinio stabilumo stiprinimo priemonių taikymu susijusių administracinių ir civilinių bylų nagrinėjimo teismuose ypatumai
+131 straipsnis. Turto, teisių ir įsipareigojimų, esančių trečiojoje valstybėje, perleidimas
 
-1. Bylose, kuriose nagrinėjami ieškiniai ar skundai (prašymai) dėl Vyriausybės, jos įgaliotos institucijos, Lietuvos banko ar kitų institucijų ar subjektų veiksmų (aktų), susijusių su šiame įstatyme nustatytų finansinio stabilumo stiprinimo priemonių taikymu, negali būti taikomos Lietuvos Respublikos civilinio proceso kodekso 145 straipsnio 1 dalies 6, 7, 12 ir 13 punktuose numatytos ar kitos laikinosios apsaugos priemonės, kurios ribotų su finansinio stabilumo stiprinimo priemonių taikymu susijusių veiksmų atlikimą (kai byla nagrinėjama Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka), arba Lietuvos Respublikos administracinių bylų teisenos įstatymo 71 straipsnio 3 dalies 1 ir 3 punktuose numatytos reikalavimo užtikrinimo priemonės (kai byla nagrinėjama Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka).
+1. Kai turto ir teisių perleidimas taikomas turtui, esančiam trečiojoje valstybėje, arba teisėms ar įsipareigojimams, kuriuos reglamentuoja trečiosios valstybės teisė, pertvarkymo institucija gali reikalauti, kad:
 
-2. Teismas, išnagrinėjęs ieškinį ar skundą (prašymą) dėl Vyriausybės, jos įgaliotos institucijos, Lietuvos banko ar kitų institucijų ar subjektų veiksmų (aktų), susijusių su šiame įstatyme nustatytų finansinio stabilumo stiprinimo priemonių taikymu, turi teisę, kai yra šiame įstatyme nustatytos sąlygos, priteisti atlyginti žalą, tačiau neturi teisės tenkindamas ieškinį ar skundą (prašymą) panaikinti skundžiamą veiksmą (aktą), įpareigoti atlikti veiksmus, dėl kurių būtų sustabdomas ar panaikinamas skundžiamo veiksmo (akto) galiojimas arba kitaip atkuriama buvusi iki ginčijamo veiksmo (akto) priėmimo padėtis.
+1) bankroto administratorius, specialusis valdytojas arba kitas asmuo, kontroliuojantis kredito įstaigą, ir įsigyjantis asmuo imtųsi visų priemonių, būtinų turto, teisių ar įsipareigojimų perleidimui ar kitiems turtui, teisėms arba įsipareigojimams taikytiniems veiksmams įvykdyti;
 
-Papildyta straipsniu:
+2) bankroto administratorius, specialusis valdytojas arba kitas asmuo, kontroliuojantis kredito įstaigą, turėtų turtą ar teises arba vykdytų įsipareigojimus įsigyjančio asmens vardu tol, kol įvykdomas perleidimas ar kiti taikytini veiksmai;
 
-Nr. XI-1713, 2011-11-17, Žin., 2011, Nr. 139-6553 (2011-11-18), i. k. 1111010ISTA0XI-1713
+3) pagrįstos įsigyjančio asmens išlaidos, faktiškai patirtos vykdant veiksmus, privalomus pagal šios dalies 1 ir 2 punktus, būtų apmokamos bet kuriuo iš šio įstatymo 42 straipsnio 12 dalies 1 ir 2 punktuose nurodytų būdų.
+
+2. Jeigu pertvarkymo institucija davė nurodymą vykdyti turto, teisių ar įsipareigojimų perleidimą ar kitą taikytiną veiksmą, tas nurodymas negalioja susijusiam turtui, teisėms ar įsipareigojimams.
+
+3. Kai pertvarkymo institucija nustato, kad, nepaisant visų būtinų veiksmų, kurių pagal šio straipsnio 1 dalies 1 punktą ėmėsi bankroto administratorius, specialusis valdytojas ar kitas asmuo, yra labai maža tikimybė, kad tam tikro turto, esančio trečiojoje valstybėje, arba tam tikrų teisių ar įsipareigojimų, reglamentuojamų pagal trečiosios valstybės teisę, perleidimas ar kitas jiems taikytinas veiksmas bus įvykdytas, pertvarkymo institucija turi nevykdyti to perleidimo ar kito taikytino veiksmo.
 
 17 straipsnis. Grupės pertvarkymo plano rengimas, kai pertvarkymo institucija yra grupės pertvarkymo institucija
 
@@ -1442,7 +1448,11 @@ PERTVARKYMO INSTITUCIJA, JOS TEISĖS, ĮGALIOJIMAI IR PAREIGOS
 
 2. Lietuvos bankas užtikrina pertvarkymo institucijos funkcijas vykdančio struktūrinio padalinio veiklos nepriklausomumą, įskaitant atskirą atskaitomybę, užkertantį kelią pertvarkymo institucijos ir Lietuvos banko interesų konfliktui dėl teisės aktais priskirtų funkcijų. Pertvarkymo institucija tvirtina ir viešai skelbia šį funkcijų atskyrimą reglamentuojančias vidaus taisykles, kuriose taip pat nustato profesinės paslapties saugojimo ir keitimosi informacija, susijusia su skirtingomis funkcinėmis sritimis, tvarką.
 
-3. Rengiant, planuojant ir taikant pertvarkymo veiksmus, pertvarkymo ir priežiūros institucijos glaudžiai bendradarbiauja tarpusavyje, o kai pertvarkymo veiksmai gali turėti poveikio vienoje ar daugiau kitų valstybių narių, – ir su atitinkamų valstybių narių pertvarkymo ir priežiūros institucijomis, siekdamos užtikrinti, kad sprendimai būtų priimami ir veiksmų būtų imamasi koordinuotai ir veiksmingai.
+3. Rengiant, planuojant ir taikant pertvarkymo veiksmus, pertvarkymo ir priežiūros institucijos glaudžiai bendradarbiauja tarpusavyje, o kai pertvarkymo veiksmai gali turėti poveikio vienoje ar daugiau kitų valstybių narių, – ir su atitinkamų valstybių narių pertvarkymo ir priežiūros institucijomis, siekdamos užtikrinti, kad sprendimai būtų priimami ir veiksmų būtų imamasi koordinuotai ir veiksmingai. Kai dėl pertvarkymo veiksmų sudaromi sandoriai gali daryti įtaką sisteminei rizikai Lietuvos Respublikoje, pertvarkymo institucija taip pat bendradarbiauja su už makroprudencinės politikos įgyvendinimą atsakinga institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 45 straipsnis. Pertvarkomo subjekto kontrolė
 
@@ -1524,7 +1534,11 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 2. Atliekant pertvarkymo veiksmus, pertvarkymo institucijai netaikomi šie reikalavimai:
 
-1) gauti kitų institucijų ar asmenų, įskaitant pertvarkomo subjekto akcininkus arba kreditorius, leidimą arba sutikimą, išskyrus šio straipsnio 5 dalyje nurodytą reikalavimą gauti Lietuvos Respublikos finansų ministerijos (toliau – Finansų ministerija) pritarimą;
+1) gauti kitų institucijų ar asmenų, įskaitant pertvarkomo subjekto akcininkus arba kreditorius, leidimą arba sutikimą, išskyrus šio straipsnio 5 dalyje nurodytą reikalavimą gauti Lietuvos Respublikos finansų ministerijos pritarimą ir Bankų įstatymo 771 straipsnyje nurodytą priežiūros institucijos sutikimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 2) pranešti kitiems asmenims, paskelbti pranešimą ar prospektą arba kitai institucijai pateikti dokumentą arba jį užregistruoti prieš atliekant pertvarkymo veiksmus, išskyrus šio įstatymo 96 ir 98 straipsniuose nurodytus atvejus ir pranešimo reikalavimus pagal valstybės pagalbą reglamentuojančius teisės aktus;
 
@@ -2674,7 +2688,11 @@ Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 3) centriniam bankui;
 
-4) valstybės įmonei „Indėlių ir investicijų draudimas“, kai gali prireikti panaudoti Įndėlių draudimo fondo arba Pertvarkymo fondo lėšas;
+4) Vyriausybės paskirtam juridiniam asmeniui, įgyvendinančiam valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, kai gali prireikti panaudoti Indėlių draudimo fondo arba Pertvarkymo fondo lėšas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 5) prireikus grupės pertvarkymo institucijai;
 
@@ -2712,7 +2730,11 @@ Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 3) centrinį banką;
 
-4) valstybės įmonę „Indėlių ir investicijų draudimas“;
+4) Vyriausybės paskirtą juridinį asmenį, įgyvendinantį valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 5) Finansų ministeriją;
 
@@ -2762,7 +2784,11 @@ Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 6) auditoriai, buhalteriai, teisės konsultantai, vertintojai ir kiti ekspertai ar konsultantai, kuriuos tiesiogiai ar netiesiogiai pasitelkė pertvarkymo institucija, priežiūros institucija arba potencialūs įsigyjantieji asmenys, nurodyti šios dalies 5 punkte;
 
-7) valstybės įmonė „Indėlių ir investicijų draudimas“;
+7) Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 8) laikinoji įstaiga arba turto valdymo įmonė;
 
@@ -2940,7 +2966,11 @@ TARPVALSTYBINĖS FINANSINĖS GRUPĖS PERTVARKYMAS
 
 6) Finansų ministerijos ir šios dalies 2, 3 ir 4 punktuose nurodytų valstybių narių kompetentingų ministerijų, kai jos nėra tų valstybių narių pertvarkymo institucijos;
 
-7) valstybės įmonės „Indėlių ir investicijų draudimas“ ir šios dalies 2, 3 ir 4 punktuose nurodytų valstybių narių institucijų, atsakingų už tų valstybių narių indėlių draudimo sistemas;
+7) Vyriausybės paskirto juridinio asmens, įgyvendinančio valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, ir šios dalies 2, 3 ir 4 punktuose nurodytų valstybių narių institucijų, atsakingų už tų valstybių narių indėlių draudimo sistemas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 8) Europos bankininkystės institucijos atstovas, kuris kviečiamas dalyvauti pertvarkymo kolegijos posėdžiuose be balsavimo teisės;
 
@@ -2986,7 +3016,11 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 5) laiku informuoja narius apie pertvarkymo kolegijos veiklą, sprendimus ir posėdžių rezultatus.
 
-5. Dalyvaudamos kitų valstybių narių įsteigtų pertvarkymo kolegijų veikloje, pertvarkymo institucija, priežiūros institucija, Finansų ministerija ir valstybės įmonė „Indėlių ir investicijų draudimas“ glaudžiai bendradarbiauja su kitais tų kolegijų nariais.
+5. Dalyvaudami kitų valstybių narių įsteigtų pertvarkymo kolegijų veikloje, pertvarkymo institucija, priežiūros institucija, Finansų ministerija ir Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, glaudžiai bendradarbiauja su kitais tų kolegijų nariais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 108 straipsnis. Europos pertvarkymo kolegija
 
@@ -3366,131 +3400,53 @@ PAPILDOMOS NUOSTATOS DĖL ĮSTAIGOS ARBA ŠIO ĮSTATYMO 1 STRAIPSNIO 2 DALIES 4 
 
 VIII SKYRIUS
 
-BAIGIAMOSIOS NUOSTATOS
+TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS NETAIKANT PERTVARKYMO PRIEMONIŲ
 
-128 straipsnis. Kitų Lietuvos Respublikos įstatymų taikymas
+128 straipsnis. Turto, teisių ir įsipareigojimų perleidimas
 
-Taikant šio įstatymo III skyriaus nuostatas, netaikomos:
+1. Kredito įstaigos turto, teisių ir įsipareigojimų perleidimo šiame skyriuje nustatyta tvarka (toliau šiame skyriuje – turto ir teisių perleidimas) kredito įstaigos licenciją turinčiam įsigyjančiam asmeniui (toliau – įsigyjantis asmuo) taikymo galutinis tikslas yra likviduoti kredito įstaigą.
 
-1) Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo ir Lietuvos Respublikos įstatymo dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo nuostatos;
+2. Turto ir teisių perleidimą pertvarkymo institucija taiko, kai tenkinamos visos šios sąlygos:
 
-2) Civilinio kodekso, Lietuvos Respublikos akcinių bendrovių įstatymo, Bankų įstatymo, Centrinių kredito unijų įstatymo, Finansinio užtikrinimo susitarimų įstatymo ir Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo nuostatos, ribojančios šio įstatymo III skyriaus nuostatų taikymą.
+1) kredito įstaiga atitinka šio įstatymo 42 straipsnio 2 dalies 1 ir 2 punktuose nurodytas sąlygas, o pertvarkymo veiksmų kredito įstaigai taikymas nėra būtinas vienam ar daugiau šio įstatymo 40 straipsnyje nurodytų pertvarkymo tikslų pasiekti šio įstatymo 42 straipsnio 2 dalies 3 punkte nustatytu mastu. Centrinės kredito unijos turto ir teisių perleidimo atveju taip pat turi būti priežiūros institucijos išvada, kad visos tos pačios centrinės kredito unijos narės kredito unijos tenkina bent vieną iš Lietuvos Respublikos kredito unijų įstatymo 74 straipsnio 1 dalyje nustatytų sąlygų ir nėra pagrindo tikėtis, kad kitomis kredito unijoms taikomomis privataus sektoriaus priemonėmis, įskaitant pagal Centrinių kredito unijų įstatymo 27 straipsnio 1 dalį priimamą sprendimą, arba priežiūros veiksmais per pagrįstą laikotarpį būtų išvengta kredito unijų nemokumo;
 
-Straipsnio punkto pakeitimai:
+2) turto ir teisių perleidimas yra būtinas siekiant išvengti didelių ekonomikos sutrikimų ar sumažinti kredito įstaigos turto vertės sumažėjimą, o kredito įstaigos likvidavimas dėl bankroto netaikant turto ir teisių perleidimo neleistų pasiekti vieno ar visų šių tikslų tokiu pačiu mastu;
 
-Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
+3) užtikrinama, kad nuostoliai tenka kredito įstaigos akcininkams ir kreditoriams, kurių reikalavimai tenkinami šio straipsnio 3 dalies 2 punkte nurodytomis eilėmis;
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+4) atrinktas įsigyjantis asmuo;
 
-RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
+5) kai kredito įstaigos turto ir teisių perleidimas finansuojamas iš Indėlių draudimo fondo lėšų, toks finansavimas yra finansiškai naudingas Indėlių draudimo fondui, kaip tai nustatyta šio įstatymo 134 straipsnyje.
 
-Lietuvos Respublikos
+3. Nepažeidžiant šio straipsnio 4 dalies nuostatų, gali būti perleidžiamas visas turtas ar jo dalis, visos teisės (turtinės ir neturtinės) ar jų dalis, visi įsipareigojimai ar jų dalis, tačiau visais atvejais:
 
-finansinio tvarumo įstatymo
+1) perleidžiami kredito įstaigos apdraustieji indėliai;
 
-priedas
+2) neperleidžiami kredito įstaigos įsipareigojimai kreditoriams, kurių reikalavimai tenkinami Bankų įstatymo 87 straipsnyje ir Centrinių kredito unijų įstatymo 70 straipsnyje nurodytomis septintąja, aštuntąja ir devintąja eilėmis.
 
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+4. Taikant turto ir teisių perleidimą, turi būti užtikrinta, kad kredito įstaiga turės pakankamai turto kredito įstaigos bankroto proceso administravimo išlaidoms apmokėti.
 
-1. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/24/EB dėl kredito įstaigų reorganizavimo ir likvidavimo su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES.
+5. Taikant turto ir teisių perleidimą, kredito įstaigos akcininkai ir kreditoriai neturi patirti didesnių nuostolių negu nuostoliai, kurių būtų patirta, jeigu kredito įstaiga būtų likviduojama dėl bankroto netaikant turto ir teisių perleidimo.
 
-2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879.
+6. Jeigu pertvarkymo institucija siūlo perleisti ne tik apdraustuosius indėlius, bet ir kitus kredito įstaigos įsipareigojimus ir tam tikslui reikalinga valstybės pagalba, pertvarkymo institucija gali priimti sprendimą taikyti turto ir teisių perleidimą tik gavusi Vyriausybės sprendimą suteikti valstybės pagalbą kredito įstaigos turto ir teisių perleidimui finansuoti.
 
-3. 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010.
+7. Pertvarkymo institucijos pagrįstų išlaidų, faktiškai patirtų vykdant turto ir teisių perleidimą, susigrąžinimui, kredito įstaigos kontrolei, įsigyjančiam asmeniui taikomam reikalavimui teikti paslaugas ir leisti naudotis infrastruktūra, turto ir teisių perleidimo procedūrai, įsigyjančio asmens interesų apsaugai, kredito įstaigos kontrolės perėmimui mutatis mutandis taikomos atitinkamai šio įstatymo 42 straipsnio 12 dalies 1, 2 punktų, 45, 47 straipsnių, 61 straipsnio 2, 4, 5, 6 dalių ir 64 straipsnio nuostatos tiek, kiek šiame skyriuje nenustatyta kitaip.
 
-4. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132.
+8. Įsigyjančio asmens atrankai mutatis mutandis taikomos šio įstatymo 63 straipsnio nuostatos. Mutatis mutandis taikant šio įstatymo 63 straipsnio 6 dalį, vadovaujamasi turto ir teisių perleidimo tikslais, nurodytais šio straipsnio 2 dalies 2 punkte.
 
-Papildyta punktu:
+9. Taikant turto ir teisių perleidimą, pertvarkymo institucija turi teisę mutatis mutandis naudotis šio įstatymo 46 straipsnio 1 dalies 1, 2, 4, 12, 14, 17, 18, 19, 20 ir 21 punktuose, 3 dalyje ir šio įstatymo 51, 52 straipsniuose nurodytomis teisėmis ir turi šio įstatymo 53 straipsnyje nustatytas garantijas, o kredito įstaigos darbuotojams ir sutarties šalims mutatis mutandis taikomos šio įstatymo 46 straipsnio 4 dalies nuostatos.
 
-Nr. XIV-1453, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22564
+10. Taikant turto ir teisių perleidimą, pertvarkymo institucijai netaikomi šie reikalavimai:
 
-Priedo pakeitimai:
+1) gauti kitų institucijų ar asmenų, įskaitant kredito įstaigos akcininkus arba kreditorius, leidimą arba sutikimą, išskyrus Bankų įstatymo 771 straipsnyje nurodytą sutikimą;
 
-Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
+2) pranešti kitiems asmenims, paskelbti pranešimą arba kitai institucijai pateikti dokumentą arba jį užregistruoti prieš atliekant turto ir teisių perleidimą, išskyrus šio įstatymo 132 straipsnyje nurodytą atvejį ir valstybės pagalbą reglamentuojančiuose teisės aktuose nustatytus pranešimo reikalavimus;
 
-Pakeitimai:
+3) jokie kiti teisės aktuose ar sutartyse nustatyti apribojimai arba reikalavimai gauti sutikimą, susiję su konkrečių finansinių priemonių, teisių, turto ar įsipareigojimų perdavimu.
 
-1.
+11. Pertvarkymo institucijos sprendimo dėl turto ir teisių perleidimo apskundimui mutatis mutandis taikomos šio įstatymo 101 straipsnio 1–7 dalių nuostatos. Šiame skyriuje nustatyta tvarka priimti tarpiniai sprendimai ar atlikti veiksmai (neveikimas) neskundžiami.
 
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1713, 2011-11-17, Žin., 2011, Nr. 139-6553 (2011-11-18), i. k. 1111010ISTA0XI-1713
-
-Lietuvos Respublikos finansinio tvarumo įstatymo 2, 4, 11, 14 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir papildymo ir Įstatymo papildymo 7-1 ir 13-1 straipsniais įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1550, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04831
-
-Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 14 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2053, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19163
-
-Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
-
-Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 1, 2, 3, 5, 7, 96, 101, 117, 118 ir 119 straipsnių pakeitimo ir 120 straipsnio pripažinimo netekusiu galios įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2021, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05387
-
-Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 102 straipsnio ir priedo pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-112, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28970
-
-Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 46 straipsnio pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
-
-Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 pakeitimo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
-
-Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 77, 91, 94 ir 99 straipsnių pakeitimo įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-1453, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22564
-
-Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 1, 2, 101 straipsnių, VI skyriaus ir priedo pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
-
-Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 22, 23, 25, 25-4, 26-5, 28, 44, 46, 49-1, 96, 98, 99, 107 straipsnių pakeitimo ir Įstatymo papildymo nauju VIII skyriumi įstatymas
-
-part_acf49bd4695945cd9ccd97cb86da407d_end
+12. Rengiant, planuojant ir taikant turto ir teisių perleidimą, pertvarkymo, priežiūros institucijos ir už makroprudencinės politikos įgyvendinimą atsakinga institucija, Finansų ministerija, Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, specialusis valdytojas ir laikinasis administratorius, jei jie buvo paskirti, bei kredito įstaiga bendradarbiauja tarpusavyje, o kredito įstaigos valdymo organai ir vyresnioji vadovybė teikia visą reikalingą pagalbą, kad būtų pasiekti šio straipsnio 2 dalies 2 punkte nurodyti turto ir teisių perleidimo tikslai.
 
 211 straipsnis. Įgaliojimai uždrausti tam tikrus paskirstymus
 
@@ -4117,4 +4073,278 @@ Nr. XIV-1453, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22564
 VI SKYRIUS
 
 ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
+
+129 straipsnis. Pertvarkymo institucijos sprendimas dėl turto ir teisių perleidimo
+
+1. Pertvarkymo institucija, informuota pagal šio įstatymo 96 straipsnio 2 dalį arba turėdama atitinkamos informacijos savo iniciatyva ir kai yra šio įstatymo 128 straipsnio 2 dalies 1 punkte nurodytos sąlygos, turi įvertinti, ar konkreti kredito įstaiga atitinka šio įstatymo 128 straipsnio 2 dalyje nurodytas sąlygas, ir priimti sprendimą dėl turto ir teisių perleidimo.
+
+2. Sprendime dėl turto ir teisių perleidimo turi būti nurodyta:
+
+1) sprendimo taikyti turto ir teisių perleidimą arba turto ir teisių perleidimo netaikyti priėmimo priežastys, įskaitant atitikties turto ir teisių perleidimo sąlygoms, nurodytoms šio įstatymo 128 straipsnio 2 dalyje, įvertinimą;
+
+2) veiksmai, kurių pertvarkymo institucija ketina imtis, įskaitant kredito įstaigos bankroto proceso inicijavimą.
+
+3. Sprendimas dėl turto ir teisių perleidimo priimamas, šiame skyriuje nurodytų veiksmų ir sprendime nurodytų veiksmų imamasi skubiai, laikantis skaidrumo principo ir mutatis mutandis taikant šio įstatymo III skyriaus šeštajame skirsnyje, išskyrus 89 ir 90 straipsnius, nurodytas apsaugos priemones tiek, kiek šiame skyriuje nenustatyta kitaip.
+
+4. Pertvarkymo institucijos sprendimas dėl turto ir teisių perleidimo turi būti vykdomas nedelsiant.
+
+130 straipsnis. Turto, teisių ir įsipareigojimų, esančių kitoje valstybėje narėje, perleidimas
+
+1. Kai perleidžiamas turtas, teisės ar įsipareigojimai apima turtą, esantį kitoje valstybėje narėje, arba teises ar įsipareigojimus, reglamentuojamus pagal kitos valstybės narės teisės aktus, šio turto, teisių ar įsipareigojimų perleidimas vykdomas toje kitoje valstybėje narėje arba pagal tos kitos valstybės narės teisės aktus.
+
+2. Akcininkai, kreditoriai ir tretieji asmenys gali teismui skųsti šio straipsnio 1 dalyje nurodytą turto, teisių ar įsipareigojimų perleidimą vadovaudamiesi šio įstatymo 101 straipsnio  1–7 dalių nuostatomis.
+
+132 straipsnis. Informavimas apie sprendimą dėl turto ir teisių perleidimo
+
+1. Pertvarkymo institucija, priėmusi sprendimą dėl turto ir teisių perleidimo, kuriuo nusprendžiama kredito įstaigai taikyti turto ir teisių perleidimą, nedelsdama apie jį informuoja kredito įstaigą ir šiuos subjektus:
+
+1) kredito įstaigos priežiūros instituciją;
+
+2) visų kredito įstaigos filialų, įsteigtų ne Lietuvos Respublikoje, priežiūros institucijas;
+
+3) centrinį banką;
+
+4) Vyriausybės paskirtą juridinį asmenį, įgyvendinantį valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje;
+
+5) Finansų ministeriją;
+
+6) prireikus grupės pertvarkymo instituciją;
+
+7) priežiūros instituciją, atliekančią finansinės grupės jungtinę (konsoliduotą) priežiūrą;
+
+8) už makroprudencinės politikos įgyvendinimą atsakingą instituciją;
+
+9) jeigu kredito įstaiga dalyvauja mokėjimų ar vertybinių popierių atsiskaitymo sistemoje, – šios sistemos operatorių.
+
+2. Pertvarkymo institucija kartu su informacija apie priimtą sprendimą turi pateikti sprendimo dėl turto ir teisių perleidimo kopiją ir nurodyti, kada bus vykdomas turto ir teisių perleidimas.
+
+3. Pertvarkymo institucija sprendimą dėl turto ir teisių perleidimo arba pranešimą, kuriame nurodomas turto ir teisių perleidimo poveikis, įskaitant poveikį vartotojams, paskelbia savo interneto svetainėje.
+
+4. Pagal šį straipsnį atliekamam informavimui apie sprendimą dėl turto ir teisių perleidimo taip pat mutatis mutandis taikomos šio įstatymo 98 straipsnio 4–6 dalių nuostatos.
+
+133 straipsnis. Valstybės pagalba kredito įstaigos turto ir teisių perleidimui finansuoti
+
+1. Jeigu pertvarkymo institucija nustato, kad šio įstatymo 128 straipsnio 2 dalies 2 punkte nurodytas vienas ar keli tikslai bus pasiekti tik tuo atveju, kai taikant turto ir teisių perleidimą bus perleidžiami ne tik apdraustieji indėliai, bet ir kiti kredito įstaigos įsipareigojimai, ir tam reikalinga valstybės pagalba, pertvarkymo institucija parengia išvadą, kurioje pagrindžia valstybės pagalbos poreikį, nurodo jos dydį, taip pat pateikia pagrindimą, kad tenkinamos visos šio įstatymo 128 straipsnio 2 dalyje nurodytos sąlygos.
+
+2. Vyriausybės sprendimu valstybės pagalba kredito įstaigos turto ir teisių perleidimui finansuoti teikiama:
+
+1) atsižvelgiant į valstybės finansines galimybes ir siekiant valstybės piniginius išteklius ir turtą naudoti efektyviai ir racionaliai;
+
+2) vadovaujantis valstybės pagalbą reglamentuojančiais teisės aktais;
+
+3) vieną kartą;
+
+4) laiku;
+
+5) laikinai ir yra proporcinga siekiamų tikslų mastui.
+
+3. Šiame straipsnyje nurodyta valstybės pagalba kredito įstaigos turto ir teisių perleidimui finansuoti neturi viršyti dydžio, kuris lygus perduodamų kredito įstaigos įsipareigojimų vertės ir kartu perduodamo turto ir teisių vertės skirtumui, atėmus Indėlių draudimo fondo lėšų sumą, Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 48 straipsnyje nustatyta tvarka skirtą turto ir teisių perleidimui finansuoti.
+
+4. Suteikus valstybės pagalbą kredito įstaigos turto ir teisių perleidimui finansuoti, valstybė įgyja reikalavimo teisę į sumą, lygią suteiktos valstybės pagalbos turto ir teisių perleidimui finansuoti sumai.
+
+134 straipsnis. Mažiausių išlaidų vertinimas
+
+1. Atliekant mažiausių išlaidų vertinimą, siekiama išsiaiškinti, ar kredito įstaigos turto ir teisių perleidimo finansavimas iš Indėlių draudimo fondo lėšų būtų finansiškai naudingas Indėlių draudimo fondui.
+
+2. Laikoma, kad kredito įstaigos turto ir teisių perleidimo finansavimas iš Indėlių draudimo fondo lėšų yra finansiškai naudingas, kai atlikto mažiausių išlaidų vertinimo rezultatai rodo, kad Indėlių draudimo fondo išlaidos, susijusios su dalyvavimu finansuojant kredito įstaigos turto ir teisių perleidimą, yra mažesnės už grynąją indėlių draudimo išmokų kompensacijos sumą.
+
+3. Atlikdama mažiausių išlaidų vertinimą, pertvarkymo institucija bendradarbiauja su Vyriausybės paskirtu juridiniu asmeniu, įgyvendinančiu valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, ir priežiūros institucija, konsultuojasi ir bendradarbiauja su Finansų ministerija. Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, priežiūros institucija ir kredito įstaiga teikia pertvarkymo institucijai turimą informaciją, būtiną mažiausių išlaidų vertinimui atlikti.
+
+4. Indėlių draudimo fondo išlaidas, susijusias su dalyvavimu finansuojant kredito įstaigos turto ir teisių perleidimą, sudaro kredito įstaigos perleidžiamų apdraustųjų indėlių vertės ir perleidžiamo turto vertės skirtumas.
+
+5. Pertvarkymo institucija Vyriausybės paskirtą juridinį asmenį, įgyvendinantį valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, informuoja apie mažiausių išlaidų vertinimo rezultatus.
+
+135 straipsnis. Turto ir teisių perleidimo organizavimas ir vykdymas
+
+1. Turto ir teisių perleidimą organizuoja ir vykdo pertvarkymo institucija arba pertvarkymo institucijos paskirtas specialusis valdytojas. Specialiajam valdytojui, skiriamam turto ir teisių perleidimui organizuoti ir vykdyti, mutatis mutandis taikomos šio įstatymo 43 straipsnio nuostatos.
+
+2. Šio straipsnio 1 dalyje nurodytu specialiuoju valdytoju pertvarkymo institucijos sprendimu gali būti paskirtas kredito įstaigos laikinasis administratorius. Tokiu atveju specialiojo valdytojo atitiktis šio įstatymo 43 straipsnio 2 dalyje nustatytiems nepriekaištingos reputacijos, kvalifikacijos, patirties ir interesų konflikto nebuvimo reikalavimams papildomai nevertinama.
+
+3. Specialiojo valdytojo įgaliojimai baigiasi, kai teismas priima nutartį dėl bankroto bylos iškėlimo kredito įstaigai ir paskiria kredito įstaigos bankroto administratorių.
+
+4. Kai taikomas turto ir teisių perleidimas ir perleidžiama tik dalis kredito įstaigos turto, teisių ar įsipareigojimų, pertvarkymo institucija kreipiasi į teismą dėl bankroto bylos iškėlimo kredito įstaigai, kurios turtas, teisės ir įsipareigojimai vadovaujantis šio skyriaus nuostatomis buvo perleisti. Teismui priėmus nutartį likviduoti kredito įstaigą dėl bankroto, kredito įstaigos likvidavimas įvykdomas per pagrįstą laikotarpį, atsižvelgiant į tai, ar kredito įstaiga turi teikti paslaugas arba leisti naudotis savo infrastruktūra pagal šio įstatymo 47 straipsnį tam, kad įsigyjantis asmuo galėtų vykdyti jam perduotą veiklą ar teikti jam perduotas paslaugas, ir į kitas priežastis, dėl kurių būtina tęsti kredito įstaigos, kuriai pritaikytas turto ir teisių perleidimas, veiklą, kad būtų pasiekti šio įstatymo 128 straipsnio 2 dalies 2 punkte nurodyti turto ir teisių perleidimo tikslai. Likviduojant centrinę kredito uniją taip pat turi būti atsižvelgiama į tai, kad centrinė kredito unija priežiūros institucijos reikalavimu turi teikti paslaugas arba leisti naudotis savo infrastruktūra pagal šio įstatymo 47 straipsnį tam, kad jos narių kredito unijų turtą, teises ir įsipareigojimus įsigyjantis asmuo galėtų vykdyti jam perduotą veiklą ar teikti jam perduotas paslaugas, ir į kitas priežastis, dėl kurių būtina tęsti kredito unijos, kuriai pritaikytas turto ir teisių perleidimas, veiklą, kad būtų pasiekti Kredito unijų įstatymo 78 straipsnio 2 dalies 2 punkte nurodyti turto ir teisių perleidimo tikslai.
+
+136 straipsnis. Kredito įstaigų bankroto bylų iškėlimas ir bankroto proceso ypatumai, priėmus sprendimą dėl kredito įstaigų turto ir teisių perleidimo
+
+1. Kredito įstaigai, dėl kurios buvo priimtas pertvarkymo institucijos sprendimas dėl turto ir teisių perleidimo, bankroto byla gali būti iškelta tik pertvarkymo institucijos iniciatyva.
+
+2. Kai į teismą dėl bankroto bylos iškėlimo kreipiasi kiti įstatymuose nurodyti asmenys, teismas atsisako iškelti kredito įstaigos bankroto bylą, jeigu pertvarkymo institucija informuoja teismą, kad ji ketina kredito įstaigai taikyti šiame skyriuje nurodytą turto ir teisių perleidimą.
+
+3. Iškėlus bankroto bylą kredito įstaigai, dėl kurios buvo priimtas pertvarkymo institucijos sprendimas dėl turto ir teisių perleidimo, bankroto administratorius neturi teisės tikrinti sandorių, sudarytų dėl turto ir teisių perleidimo pagal šio skyriaus nuostatas, ir reikšti ieškinių teisme dėl tokių sandorių pripažinimo negaliojančiais. Centrinės kredito unijos turto ir teisių perleidimo atveju bankroto administratorius taip pat neturi teisės tikrinti sandorių, sudarytų dėl jos narių kredito unijų turto ir teisių perleidimo pagal Kredito unijų įstatymo vienuoliktojo skirsnio nuostatas, ir reikšti ieškinių teisme dėl tokių sandorių pripažinimo negaliojančiais.
+
+137 straipsnis. Vertinimas turto ir teisių perleidimo tikslais
+
+1. Turto ir teisių perleidimo tikslais atliekamo vertinimo (toliau šiame straipsnyje – vertinimas) tikslas – suteikti informaciją, reikalingą nustatyti, ar tenkinamos šio įstatymo 128 straipsnio 2 dalyje nurodytos sąlygos, ir, jeigu šios sąlygos yra tenkinamos:
+
+1) suteikti informaciją, reikalingą sprendimui dėl turto ir teisių perleidimo priimti ir padėti pertvarkymo institucijai nustatyti, kas laikytina rinkos sąlygomis, nurodytomis šio įstatymo 61 straipsnyje;
+
+2) suteikti informaciją, reikalingą sprendimui dėl turto ir teisių perleidimo apimties priimti;
+
+3) suteikti informaciją, reikalingą galimam Indėlių draudimo fondo lėšų poreikiui nustatyti;
+
+4) suteikti informaciją, reikalingą galimai valstybės pagalbai nustatyti, jeigu taikant turto ir teisių perleidimą būtų perleidžiami ne tik apdraustieji indėliai, bet ir kiti kredito įstaigos įsipareigojimai;
+
+5) visais atvejais užtikrinti, kad bet koks turto vertės sumažėjimas būtų tinkamai įvertintas pritaikius turto ir teisių perleidimą.
+
+2. Vertinimui mutatis mutandis taikomos šio įstatymo 54, 56 straipsnių ir 2017 m. lapkričio 14 d. Komisijos deleguotojo reglamento (ES) 2018/345, kuriuo Europos Parlamento ir Tarybos direktyva 2014/59/ES papildoma techniniais reguliavimo standartais, kuriais patikslinami kriterijai, susiję su įstaigų ar subjektų turto ir įsipareigojimų vertės nustatymo metodika, nuostatos ir tiek, kiek leidžiama taikyti pagal Reglamento (ES) 2018/345, 2017 m. lapkričio 14 d. Komisijos deleguotojo reglamento (ES) 2018/344, kuriuo Europos Parlamento ir Tarybos direktyva 2014/59/ES papildoma techniniais reguliavimo standartais, kuriais patikslinami kriterijai, susiję su pertvarkymo atveju taikomų skirtingų sąlygų vertinimo metodika, nuostatas tiek, kiek šiame skyriuje nenustatyta kitaip.
+
+3. Vertinimas turi būti paremtas pagrįstomis prielaidomis, įskaitant prielaidas dėl įsipareigojimų nevykdymo ir nuostolių apimties, vadovaujantis valstybės pagalbą reglamentuojančiais teisės aktais. Vertinimo metu negali būti atsižvelgiama į kredito įstaigai pagal šio įstatymo 39 straipsnį jau taikomą ar galimą taikyti prevencinę viešąją finansinę paramą.
+
+4. Atliekant vertinimą, turi būti įvertinama, ar:
+
+1) pertvarkymo institucija turi teisę pagal šio įstatymo 42 straipsnio 12 dalies 1 ir 2 punktų nuostatas atgauti iš kredito įstaigos visas pagrįstas ir vykdant turto ir teisių perleidimą faktiškai pagrįstas išlaidas;
+
+2) dėl suteiktos valstybės pagalbos gali būti nustatytos palūkanos ir (arba) kiti mokėjimai.
+
+5. Vertinimo išlaidas padengia kredito įstaiga.
+
+6. Kredito įstaigos perleidžiamo turto, teisių ir įsipareigojimų vertė turi būti nustatyta atsižvelgiant į vertinimo rezultatus.
+
+138 straipsnis. Galutinio vertinimo turto ir teisių perleidimo tikslais atlikimo ypatumai
+
+1. Galutinio vertinimo tikslai:
+
+1) užtikrinti, kad bet koks perleidžiamo turto vertės sumažėjimas būtų nurodytas kredito įstaigos apskaitos dokumentuose;
+
+2) suteikti informaciją, reikalingą sprendimui sumokėti papildomą atlygį pagal šio straipsnio 2 dalį priimti.
+
+2. Jeigu, atlikus galutinį vertinimą, nustatoma didesnė kredito įstaigos grynoji turto vertė, negu buvo nustatyta preliminaraus vertinimo, atlikto mutatis mutandis taikant šio įstatymo 54 straipsnio nuostatas, metu, pertvarkymo institucija gali nurodyti įsigyjančiam asmeniui sumokėti atitinkamą papildomą atlygį už perduotą turtą kredito įstaigai, kurios turtas ir teisės perleidžiamos.
+
+Papildyta skyriumi:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
+
+IX SKYRIUS
+
+BAIGIAMOSIOS NUOSTATOS
+
+Skyriaus numeracijos pakeitimas:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
+
+139 straipsnis. Kitų Lietuvos Respublikos įstatymų taikymas
+
+Straipsnio numeracijos pakeitimas:
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
+
+Taikant šio įstatymo III skyriaus nuostatas, netaikomos:
+
+1) Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo ir Lietuvos Respublikos įstatymo dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo nuostatos;
+
+2) Civilinio kodekso, Lietuvos Respublikos akcinių bendrovių įstatymo, Bankų įstatymo, Centrinių kredito unijų įstatymo, Finansinio užtikrinimo susitarimų įstatymo ir Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo nuostatos, ribojančios šio įstatymo III skyriaus nuostatų taikymą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
+
+Lietuvos Respublikos
+
+finansinio tvarumo įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/24/EB dėl kredito įstaigų reorganizavimo ir likvidavimo su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES.
+
+2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879.
+
+3. 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010.
+
+4. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132.
+
+Papildyta punktu:
+
+Nr. XIV-1453, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22564
+
+Priedo pakeitimai:
+
+Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1713, 2011-11-17, Žin., 2011, Nr. 139-6553 (2011-11-18), i. k. 1111010ISTA0XI-1713
+
+Lietuvos Respublikos finansinio tvarumo įstatymo 2, 4, 11, 14 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir papildymo ir Įstatymo papildymo 7-1 ir 13-1 straipsniais įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1550, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04831
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 14 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2053, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19163
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 1, 2, 3, 5, 7, 96, 101, 117, 118 ir 119 straipsnių pakeitimo ir 120 straipsnio pripažinimo netekusiu galios įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2021, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05387
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 102 straipsnio ir priedo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-112, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28970
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 46 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 77, 91, 94 ir 99 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1453, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22564
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 1, 2, 101 straipsnių, VI skyriaus ir priedo pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 22, 23, 25, 25-4, 26-5, 28, 44, 46, 49-1, 96, 98, 99, 107 straipsnių pakeitimo ir Įstatymo papildymo nauju VIII skyriumi įstatymas
 
