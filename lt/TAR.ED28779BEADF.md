@@ -4,7 +4,7 @@ identifier: "TAR.ED28779BEADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-29
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
 
@@ -2722,7 +2722,11 @@ Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
 
 8) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar veiklos trūkumai.
 
-4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus, valdymo įmonės ar investicinės bendrovės veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės ar investicinės bendrovės veiklos stabilumui ir patikimumui arba visuomenės ir (arba) investuotojų interesams, mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421straipsnyje nustatyta tvarka, taikoma teismo leidimams, turi teisę prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja Vilniaus apygardos administracinis teismas.
+4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus, valdymo įmonės ar investicinės bendrovės veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės ar investicinės bendrovės veiklos stabilumui ir patikimumui arba visuomenės ir (arba) investuotojų interesams, mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, turi teisę prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja pirmosios instancijos administracinis teismas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1595, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25169
 
 5. Jeigu priežiūros institucija nustato teisės aktų, reglamentuojančių riziką ribojančius reikalavimus, pažeidimus arba jeigu valdymo įmonės veikla kelia grėsmę įmonės veiklos stabilumui ir patikimumui, priežiūros institucija turi teisę valdymo įmonei ar investicinei bendrovei nustatyti individualius veiklos riziką ribojančių normatyvų dydžius ar papildomus reikalavimus dėl veiklos rizikos ribojimo.
 
@@ -2879,8 +2883,6 @@ Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
 Priedo pakeitimai:
 
 Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
-
-part_99731103b7514a86a68681a4a667e98b_end
 
 Pakeitimai:
 
@@ -3099,6 +3101,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1343, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15417
 
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 80 ir 174 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1595, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25169
+
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 164 straipsnio pakeitimo įstatymas
 
 175 straipsnis. Nuostatos, susijusios su naryste Europos Sąjungoje
 
