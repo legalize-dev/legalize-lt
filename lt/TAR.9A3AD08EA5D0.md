@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2023-09-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2023-09-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -481,12 +481,6 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 3. Pagrindinis ugdymas vykdomas pagal šešerių metų pagrindinio ugdymo programas. Pagrindinio ugdymo programų pirmoji dalis apima ketverių metų pagrindinio ugdymo tarpsnį, antroji dalis – dvejų metų pagrindinio ugdymo tarpsnį. Pagrindinio ugdymo programos įgyvendinamos vadovaujantis Pagrindinio ugdymo programos aprašu, Pagrindinio ugdymo bendrosiomis programomis, bendraisiais ugdymo planais, kuriuos tvirtina švietimo ir mokslo ministras. Į pagrindinio ugdymo programų antrąją dalį gali būti įtraukiami profesinio mokymo programų moduliai ir įskaitomi tęsiant mokymąsi pagal profesinio mokymo programas švietimo ir mokslo ministro nustatyta tvarka. Pagrindinis ugdymas gali būti vykdomas kartu su dailės, muzikiniu, meniniu, sportiniu ar kitu ugdymu.
 
 4. Pagrindinis išsilavinimas įgyjamas baigus pagrindinio ugdymo programą ir patikrinus mokymosi pasiekimus, išskyrus atvejus, kai asmuo švietimo ir mokslo ministro nustatytais atvejais yra atleidžiamas nuo mokymosi pasiekimų patikrinimo.
-
-5. Pagal pagrindinio ugdymo programą ugdomam mokiniui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 11 straipsnis. Vidurinis ugdymas
 
@@ -2076,7 +2070,11 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 3. Vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimą atlieka švietimo, mokslo ir sporto ministro įgaliota institucija. Vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimo užduotys yra konfidenciali informacija.
 
-4. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pirmajai penkerių metų kadencijai, jis skiriamas be konkurso antrajai penkerių metų kadencijai, jeigu jo metų veikla kiekvienais metais buvo vertinama labai gerai arba gerai ir jis sutinka eiti pareigas. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo kadencijai, jam sutikus, jo įgaliojimai pratęsiami, iki įvyks viešas konkursas švietimo įstaigos vadovo pareigoms eiti ir bus paskirtas švietimo įstaigos vadovas. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovas, baigęs penkerių metų kadenciją, turi teisę dalyvauti tos pačios švietimo įstaigos viešame konkurse vadovo pareigoms eiti.
+4. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pirmajai penkerių metų kadencijai, jis skiriamas be konkurso antrajai penkerių metų kadencijai, jeigu jo metų veikla kiekvienais metais buvo vertinama kaip viršijanti lūkesčius arba atitinkanti lūkesčius (iki 2023 m. gruodžio 31 d. – labai gerai arba gerai) ir jis sutinka eiti pareigas. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo kadencijai, jam sutikus, jo įgaliojimai pratęsiami, iki įvyks viešas konkursas švietimo įstaigos vadovo pareigoms eiti ir bus paskirtas švietimo įstaigos vadovas. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovas, baigęs penkerių metų kadenciją, turi teisę dalyvauti tos pačios švietimo įstaigos viešame konkurse vadovo pareigoms eiti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2346, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25602
 
 5. Likus ne mažiau kaip 4 mėnesiams iki valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo kadencijos pabaigos, valstybinės švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo skelbia viešą konkursą šios švietimo įstaigos vadovo pareigoms eiti, išskyrus atvejus, kai vadovas paskiriamas be konkurso antrajai penkerių metų kadencijai šio straipsnio 4 dalyje nustatyta tvarka arba paskiriamas buvęs kitos švietimo įstaigos vadovas penkerių metų kadencijai šio straipsnio 9 dalyje nustatyta tvarka.
 
@@ -2098,11 +2096,15 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 6) atlieka kitas funkcijas, nustatytas švietimo įstaigos įstatuose ir kituose teisės aktuose.
 
-9. Buvusiam švietimo įstaigos (išskyrus aukštąją mokyklą) vadovui (išskyrus švietimo įstaigos vadovus, kurie turi teisę gauti visą socialinio draudimo senatvės pensiją) gali būti pasiūlyta valstybinių švietimo įstaigų atveju – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) ar jos įgalioto asmens, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės mero, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimo ar jo įgalioto asmens per 6 mėnesius nuo atleidimo iš pareigų dienos Vyriausybės nustatyta tvarka pretenduoti į kitos švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigas penkerių metų kadencijai, jeigu jis atitinka vieną iš šių sąlygų:
+9. Buvusiam švietimo įstaigos (išskyrus aukštąją mokyklą) vadovui (išskyrus švietimo įstaigos vadovus, kurie turi teisę gauti visą socialinio draudimo senatvės pensiją) gali būti pasiūlyta valstybinių švietimo įstaigų atveju – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) ar jos įgalioto asmens, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės mero, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimo ar jo įgalioto asmens per 6 mėnesius nuo atleidimo iš pareigų dienos Vyriausybės nustatyta tvarka pretenduoti į kitos švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigas penkerių metų kadencijai, jeigu jis atitinka vieną iš šių sąlygų:
 
-1) yra atleistas iš pareigų dėl pareigybės panaikinimo, į kurią jis jau yra laimėjęs viešą konkursą švietimo įstaigos vadovo pareigoms eiti po 2018 m. sausio 1 d., ir jo visų metų veikla kadencijos, kurios metu jis atleistas iš pareigų dėl pareigybės panaikinimo, laikotarpiu buvo įvertinta gerai ir labai gerai;
+1) yra atleistas iš pareigų dėl pareigybės, į kurią jis jau yra laimėjęs viešą konkursą švietimo įstaigos vadovo pareigoms eiti po 2018 m. sausio 1 d., panaikinimo ir jo visų metų veikla kadencijos, kurios metu jis atleistas iš pareigų dėl pareigybės panaikinimo, laikotarpiu buvo įvertinta kaip viršijanti lūkesčius arba atitinkanti lūkesčius (iki 2023 m. gruodžio 31 d. – labai gerai arba gerai);
 
-2) yra pabaigęs penkerių metų kadenciją, kurios metu visais metais jo veikla buvo įvertinta gerai ir labai gerai, ir yra atsisakęs būti paskirtas be konkurso antrajai penkerių metų kadencijai šio straipsnio 4 dalyje nustatyta tvarka arba dalyvauti viešame konkurse tos pačios švietimo įstaigos vadovo pareigoms eiti.
+2) yra pabaigęs penkerių metų kadenciją, kurios metu visais metais jo veikla buvo įvertinta kaip viršijanti lūkesčius arba atitinkanti lūkesčius (iki 2023 m. gruodžio 31 d. – labai gerai arba gerai), ir yra atsisakęs būti paskirtas be konkurso antrajai penkerių metų kadencijai šio straipsnio 4 dalyje nustatyta tvarka arba dalyvauti viešame konkurse tos pačios švietimo įstaigos vadovo pareigoms eiti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2346, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25602
 
 10. Jeigu su valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovu darbo sutartis nutraukiama, ne vėliau kaip per 10 darbo dienų nuo darbo sutarties nutraukimo dienos skelbiamas viešas konkursas švietimo įstaigos vadovo pareigoms eiti. Valstybinių švietimo įstaigų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo, priėmusi (priėmęs) sprendimą dėl darbo sutarties nutraukimo, paskiria asmenį, kuris pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos, laikinai eiti švietimo įstaigos vadovo pareigas.
 
@@ -2118,7 +2120,11 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 14. Aukštosios mokyklos vadovo skyrimą į pareigas, atleidimą iš jų, jo įgaliojimus ir atsakomybę nustato Mokslo ir studijų įstatymas.
 
-15. Kiekvienais metais į pareigas priimantis asmuo ar jo įgaliotas asmuo švietimo, mokslo ir sporto ministro nustatyta tvarka, dalyvaujant mokyklos tarybai, įvertina valstybinės ar savivaldybės mokyklos (išskyrus aukštąją mokyklą) vadovo praėjusių kalendorinių metų veiklą, o dalyvaujant švietimo pagalbos įstaigos savivaldos institucijoms, jeigu jos yra (jeigu švietimo pagalbos įstaigoje savivaldos institucijų nėra, – darbuotojų atstovavimą įgyvendinantiems asmenims), – valstybinės ar savivaldybės švietimo pagalbos įstaigos vadovo praėjusių kalendorinių metų veiklą. Jeigu valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo metų veikla įvertinama nepatenkinamai dvejus metus iš eilės, į pareigas priimantis asmuo priima sprendimą atleisti valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovą iš pareigų ir nutraukti su juo sudarytą darbo sutartį per 10 darbo dienų nuo švietimo įstaigos vadovo metų veiklos įvertinimo, neišmokant jam išeitinės išmokos.
+15. Kiekvienais metais į pareigas priimantis asmuo ar jo įgaliotas asmuo švietimo, mokslo ir sporto ministro nustatyta tvarka, dalyvaujant mokyklos tarybai, įvertina valstybinės ar savivaldybės mokyklos (išskyrus aukštąją mokyklą) vadovo praėjusių kalendorinių metų veiklą, o dalyvaujant švietimo pagalbos įstaigos savivaldos institucijoms, jeigu jos yra (jeigu švietimo pagalbos įstaigoje savivaldos institucijų nėra, – darbuotojų atstovavimą įgyvendinantiems asmenims), – valstybinės ar savivaldybės švietimo pagalbos įstaigos vadovo praėjusių kalendorinių metų veiklą. Jeigu valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo metų veikla įvertinama kaip neatitinkanti lūkesčių (iki 2023 m. gruodžio 31 d. – nepatenkinamai), gali būti sudaromas ne trumpesnės negu 2 mėnesių ir ne ilgesnės negu 6 mėnesių trukmės valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo veiklos gerinimo planas. Jeigu, pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo veiklos gerinimo plano terminui, valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo veikla neeilinio vertinimo metu įvertinama kaip neatitinkanti lūkesčių, į pareigas priimantis asmuo gali priimti sprendimą atleisti valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovą iš pareigų ir nutraukti su juo sudarytą darbo sutartį per 10 darbo dienų nuo valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo neeilinio veiklos įvertinimo, neišmokant jam išeitinės išmokos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2346, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25602
 
 Straipsnio pakeitimai:
 
@@ -2186,7 +2192,11 @@ Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 
 Visuomenės dalyvavimą formuojant švietimo politiką ir priimant švietimo sprendimus skatina valstybės švietimo savivaldos institucijos:
 
-1) Lietuvos švietimo taryba atlieka ekspertinį vertinimą ir konsultuoja strateginiais Lietuvos švietimo plėtros klausimais, teikia siūlymus dėl formaliojo ir neformaliojo švietimo ir kitų su švietimu susijusių klausimų. Lietuvos švietimo tarybos nuostatus tvirtina Seimas;
+1) Lietuvos švietimo taryba atlieka ekspertinį vertinimą ir konsultuoja strateginiais Lietuvos švietimo plėtros klausimais, teikia siūlymus dėl formaliojo ir neformaliojo švietimo ir kitų su švietimu susijusių klausimų. Lietuvos švietimo tarybos nuostatus tvirtina Seimas. Lietuvos švietimo tarybos pirmininkui atlyginama už darbą Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka. Kai Lietuvos švietimo tarybos pirmininko nėra ar pirmininką laikinai pavaduoja pavaduotojas, atlygis mokamas Tarybos pirmininko pavaduotojui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2331, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25084
 
 2) Bendrojo ugdymo taryba inicijuoja ir svarsto ikimokyklinio, priešmokyklinio, pradinio, pagrindinio, vidurinio ugdymo turinio kaitos perspektyvas, mokytojų kvalifikacijos tobulinimo kryptis, teikia siūlymus dėl mokyklų aprūpinimo. Bendrojo ugdymo tarybos nuostatus tvirtina švietimo, mokslo ir sporto ministras;
 
@@ -2279,6 +2289,24 @@ Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
+
+11. Mokymo lėšos iš valstybės biudžeto neskiriamos:
+
+1) valstybinių ar savivaldybių mokyklų klasėms, kuriose ugdoma pagal bendrojo ugdymo programas ir kuriose mokinių skaičius neatitinka šio įstatymo 43 straipsnio 8 dalies 7 punkte nurodyto leidžiamo mažiausio mokinių skaičiaus klasėje kriterijaus;
+
+2) valstybinėms ar savivaldybių mokykloms, vykdančioms bendrojo ugdymo programas, kuriose mokinių skaičius neatitinka šio įstatymo 43 straipsnio 8 dalies 8 punkte nurodyto leidžiamo mažiausio mokinių skaičiaus mokykloje kriterijaus;
+
+3) mokyklų klasėms, kuriose ugdoma pagal bendrojo ugdymo programas ir kuriose šio įstatymo 43 straipsnio 15 dalyje nurodytais atvejais yra sustabdytas bendrojo ugdymo programos ar jos dalies vykdymas.
+
+12. Iš valstybės biudžeto skiriamos mokymo lėšos mažinamos Vyriausybės nustatyta tvarka:
+
+1) klasėms, kuriose ugdoma pagal bendrojo ugdymo programas ir kuriose mokinių skaičius nesiekia Vyriausybės nustatyto mažiausio sąlyginės klasės (grupės) mokinių skaičiaus, suprantamo kaip klasės (grupės) mokinių skaičius, kurį pasiekus skiriamos visos vienai klasei (grupei) apskaičiuotos mokymo lėšos (toliau – mažiausias sąlyginės klasės (grupės) mokinių skaičius), bet tokių klasių sudarymas atitinka šio įstatymo 43 straipsnio 8 dalies 7 punkte nurodytą leidžiamo mažiausio mokinių skaičiaus klasėje kriterijų;
+
+2) klasėms (grupėms), kuriose ugdoma pagal ikimokyklinio ir priešmokyklinio ugdymo programas ir kuriose mokinių skaičius nesiekia Vyriausybės nustatyto mažiausio sąlyginės klasės (grupės) mokinių skaičiaus;
+
+3) klasėms, kuriose ugdoma pagal bendrojo ugdymo programas (išskyrus klases specialiųjų ugdymosi poreikių turintiems mokiniams) ir kurių sudarymas neatitinka šio įstatymo 43 straipsnio 8 dalies 7 punkte nurodyto leidžiamo didžiausio mokinių skaičiaus klasėje kriterijaus.
+
+13. Sumažintas mokymo lėšas, skiriamas iš valstybės biudžeto savivaldybių mokyklų klasėms (grupėms), šio straipsnio 12 dalies 1 ir 2 punktuose nurodytais atvejais savivaldybės padengia iš savo biudžetų.
 
 2. Mokymo lėšos savivaldybių ir nevalstybinėms mokykloms priešmokyklinio, pradinio, pagrindinio, vidurinio ugdymo programoms, taip pat formaliojo švietimo programas papildantiems ir mokinių saviraiškos poreikius tenkinantiems šių programų moduliams vaikų neformaliojo švietimo mokyklose finansuoti skiriamos iš Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu tvirtinamų savivaldybių biudžetams valstybės biudžeto specialiųjų tikslinių dotacijų, valstybinėms mokykloms – iš valstybės biudžete numatytų asignavimų.
 
@@ -3049,6 +3077,86 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2096, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13993
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 29 ir 56 straipsnių pakeitimo įstatymas
+
+44.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-818, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27707
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 29 straipsnio pakeitimo įstatymo Nr. XIII-2894 2 straipsnio pakeitimo įstatymas
+
+45.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 28, 37, 42, 43, 44, 66 ir 67 straipsnių pakeitimo įstatymas
+
+46.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-485, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15864
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymo Nr. XIII-3268 3 straipsnio pakeitimo įstatymas
+
+47.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1263, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15494
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 11 straipsnio pakeitimo įstatymo Nr. XIV-655 1 ir 2 straipsnių pakeitimo įstatymas
+
+48.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1727, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00141
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymo Nr. XIII-3268 3 ir 7 straipsnių pakeitimo įstatymas
+
+49.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1728, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00143
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 24, 38 ir 47 straipsnių pakeitimo įstatymo Nr. XIV-1261 3 straipsnio pakeitimo įstatymas
+
+50.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1729, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00144
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 11 straipsnio pakeitimo įstatymo Nr. XIV-655 1 straipsnio pakeitimo įstatymas
+
+51.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2310, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24178
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41 ir 67 straipsnių pakeitimo įstatymas
+
+52.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2331, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25084
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 62 straipsnio pakeitimo įstatymas
+
+53.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2346, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25602
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 59 straipsnio pakeitimo įstatymas
 
 73 straipsnis.
 
