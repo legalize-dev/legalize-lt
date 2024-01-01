@@ -4,7 +4,7 @@ identifier: "TAR.B8B6AFC2BFF1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-03-23"
-last_updated: "2023-09-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2023-09-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-11
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
 
@@ -977,7 +977,11 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 4. Konkurencijos taryba nutarimu laikinąsias priemones gali taikyti iki vienų metų laikotarpiu, kuris gali būti pratęstas Konkurencijos tarybos nutarimu, arba, jeigu yra būtina, laikinosios priemonės taikomos iki galutinio Konkurencijos tarybos nutarimo priėmimo.
 
-5. Konkurencijos tarybos nutarimas taikyti laikinąsias priemones gali būti skundžiamas Vilniaus apygardos administraciniam teismui per 10 dienų nuo jo įteikimo dienos. Skundo padavimas laikinųjų priemonių taikymo nesustabdo, jeigu teismas nenusprendžia kitaip. Toks skundas turi būti išnagrinėtas ir sprendimas dėl jo priimtas per 45 dienas nuo tokio skundo gavimo. Vilniaus apygardos administracinio teismo sprendimas gali būti skundžiamas Lietuvos vyriausiajam administraciniam teismui per 7 dienas nuo sprendimo paskelbimo Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą dėl Vilniaus apygardos administracinio teismo sprendimo turi išnagrinėti ir sprendimą dėl jo priimti per 45 dienas nuo bylos gavimo teisme dienos.
+5. Konkurencijos tarybos nutarimas taikyti laikinąsias priemones gali būti skundžiamas pirmosios instancijos administraciniam teismui per 10 dienų nuo jo įteikimo dienos. Skundo padavimas laikinųjų priemonių taikymo nesustabdo, jeigu teismas nenusprendžia kitaip. Toks skundas turi būti išnagrinėtas ir sprendimas dėl jo priimtas per 45 dienas nuo skundo gavimo. Pirmosios instancijos administracinio teismo sprendimas gali būti skundžiamas Lietuvos vyriausiajam administraciniam teismui per 7 dienas nuo sprendimo paskelbimo Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą dėl pirmosios instancijos administracinio teismo sprendimo turi išnagrinėti ir sprendimą dėl jo priimti per 45 dienas nuo bylos gavimo teisme dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
 Straipsnio pakeitimai:
 
@@ -985,17 +989,33 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 27 straipsnis. Teismo leidimų dėl tyrimo veiksmų atlikimo ir ūkinės veiklos apribojimų taikymo išdavimo tvarka
 
-1. Konkurencijos tarybai priėmus nutarimą dėl tyrimo veiksmų, numatytų šio įstatymo 25 straipsnio 3 dalyje, arba dėl ūkinės veiklos apribojimų pagal šio įstatymo 35 straipsnio 2 dalį, Konkurencijos tarybos įgaliotas pareigūnas pateikia Vilniaus apygardos administraciniam teismui prašymą dėl teismo leidimo atlikti šiuos veiksmus, taikyti ūkinės veiklos apribojimus išdavimo.
+1. Konkurencijos tarybai priėmus nutarimą dėl tyrimo veiksmų, numatytų šio įstatymo 25 straipsnio 3 dalyje, arba dėl ūkinės veiklos apribojimų pagal šio įstatymo 35 straipsnio 2 dalį, Konkurencijos tarybos įgaliotas pareigūnas pateikia pirmosios instancijos administraciniam teismui prašymą dėl teismo leidimo atlikti šiuos veiksmus, taikyti ūkinės veiklos apribojimus išdavimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
 2. Prašyme turi būti nurodytas ūkio subjekto ar viešojo administravimo subjekto pavadinimas, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai, taikytini ūkinės veiklos apribojimai.
 
-3. Prašymą dėl teismo leidimo atlikti tyrimo veiksmus, taikyti ūkinės veiklos apribojimus išdavimo išnagrinėja Vilniaus apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti.
+3. Prašymą dėl teismo leidimo atlikti tyrimo veiksmus, taikyti ūkinės veiklos apribojimus išdavimo išnagrinėja pirmosios instancijos administracinio teismo teisėjas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
 4. Prašymas dėl teismo leidimo atlikti tyrimo veiksmus, taikyti ūkinės veiklos apribojimus išdavimo turi būti išnagrinėtas ir priimta nutartis ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento.
 
-5. Jeigu Konkurencijos taryba nesutinka su Vilniaus apygardos administracinio teismo teisėjo nutartimi atmesti prašymą, ji turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui.
+5. Jeigu Konkurencijos taryba nesutinka su pirmosios instancijos administracinio teismo teisėjo nutartimi atmesti prašymą, ji turi teisę per 7 dienas šią teisėjo nutartį apskųsti Lietuvos vyriausiajam administraciniam teismui.
 
-6. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Konkurencijos tarybos atstovas turi teisę dalyvauti nagrinėjant skundą.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
+
+6. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Konkurencijos tarybos atstovas turi teisę dalyvauti nagrinėjant skundą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
 7. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama.
 
@@ -1091,7 +1111,11 @@ KONKURENCIJOS TARYBOS IR JOS ĮGALIOTŲ PAREIGŪNŲ SPRENDIMŲ IR VEIKSMŲ APSKU
 
 2. Šio straipsnio 1 dalyje nustatytas skundo padavimo terminas gali būti atnaujintas, jeigu kartu su skundu pateikiamas motyvuotas prašymas terminą atnaujinti. Tokiu atveju Konkurencijos taryba skundą priima, jeigu nustato, kad jo padavimo terminas buvo praleistas dėl svarbių objektyvių priežasčių. Konkurencijos tarybos sprendimas atsisakyti atnaujinti skundo padavimo terminą gali būti skundžiamas šio straipsnio 3 dalyje nustatyta tvarka.
 
-3. Jeigu skundą padavę ūkio subjektai ar kiti asmenys nesutinka su Konkurencijos tarybos sprendimu arba jeigu Konkurencijos taryba nepriėmė nutarimo per 10 dienų, jie turi teisę paduoti skundą Vilniaus apygardos administraciniam teismui. Skundo padavimas procedūros dėl šio įstatymo pažeidimo tyrimo nesustabdo.
+3. Jeigu skundą padavę ūkio subjektai ar kiti asmenys nesutinka su Konkurencijos tarybos sprendimu arba jeigu Konkurencijos taryba nepriėmė nutarimo per 10 dienų, jie turi teisę paduoti skundą pirmosios instancijos administraciniam teismui. Skundo padavimas procedūros dėl šio įstatymo pažeidimo tyrimo nesustabdo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
 4. Šiame straipsnyje nustatyta apskundimo tvarka mutatis mutandis taikoma Konkurencijos tarybos darbuotojų priimtiems sprendimams ir atliktiems veiksmams šio įstatymo II skyriaus trečiajame skirsnyje nurodytos koncentracijos priežiūros procedūros metu ir kitais atvejais, kai tokie veiksmai ir sprendimai yra susiję su Konkurencijos tarybai šiuo įstatymu, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymu ir kitais įstatymais, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, priskirtų funkcijų atlikimu.
 
@@ -1101,7 +1125,11 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 33 straipsnis. Konkurencijos tarybos nutarimų apskundimas
 
-1. Ūkio subjektai, taip pat kiti asmenys, manantys, kad buvo pažeistos jų šiuo įstatymu ginamos teisės, turi teisę Konkurencijos tarybos nutarimus, kuriais užkertama tolesnė šio įstatymo pažeidimo tyrimo eiga ar kuriais baigiamas pranešimo apie koncentraciją nagrinėjimas, apskųsti Vilniaus apygardos administraciniam teismui. Šio įstatymo 30 straipsnyje numatytus Konkurencijos tarybos nutarimus, išskyrus šio įstatymo 30 straipsnio 1 dalies 4 punkte nurodytą Konkurencijos tarybos nutarimą, turi teisę apskųsti procedūros dalyviai ir kiti suinteresuoti asmenys, nurodyti šio įstatymo 29 straipsnio 1 dalyje.
+1. Ūkio subjektai, taip pat kiti asmenys, manantys, kad buvo pažeistos jų šiuo įstatymu ginamos teisės, turi teisę Konkurencijos tarybos nutarimus, kuriais užkertama tolesnė šio įstatymo pažeidimo tyrimo eiga ar kuriais baigiamas pranešimo apie koncentraciją nagrinėjimas, apskųsti pirmosios instancijos administraciniam teismui. Šio įstatymo 30 straipsnyje numatytus Konkurencijos tarybos nutarimus, išskyrus šio įstatymo 30 straipsnio 1 dalies 4 punkte nurodytą Konkurencijos tarybos nutarimą, turi teisę apskųsti procedūros dalyviai ir kiti suinteresuoti asmenys, nurodyti šio įstatymo 29 straipsnio 1 dalyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
 2. Skundas paduodamas raštu ne vėliau kaip per vieną mėnesį nuo Konkurencijos tarybos nutarimo įteikimo dienos arba nuo nutarimo paskelbimo dienos, atsižvelgiant į tai, kas įvyksta pirmiau.
 
@@ -1149,7 +1177,11 @@ ADMINISTRACINĖ ATSAKOMYBĖ
 
 5) skirti ūkio subjektams ir viešojo administravimo subjektams šio įstatymo 36 straipsnyje numatytas veiksmingas ir atgrasomas pinigines baudas, apskaičiuotas pagal šio įstatymo 37 straipsnio nuostatas.
 
-2. Gavusi Vilniaus apygardos administracinio teismo leidimą, Konkurencijos taryba nutarimu ūkio subjektams, nevykdantiems paskirtų sankcijų, nurodytų šio straipsnio 1 dalyje, gali nustatyti ūkinės veiklos apribojimus: laikinai sustabdyti eksporto ir importo operacijas, bankines operacijas, leidimo (licencijos) verstis atitinkama veikla galiojimą. Konkurencijos tarybos nutarimai yra privalomi institucijoms, galinčioms taikyti tokius apribojimus, ir turi būti vykdomi nedelsiant. Apribojimai panaikinami Konkurencijos tarybos sprendimu, kai Konkurencijos taryba nustato, kad paskirtos sankcijos yra įvykdytos.
+2. Gavusi pirmosios instancijos administracinio teismo leidimą, Konkurencijos taryba nutarimu ūkio subjektams, nevykdantiems paskirtų sankcijų, nurodytų šio straipsnio 1 dalyje, gali nustatyti ūkinės veiklos apribojimus: laikinai sustabdyti eksporto ir importo operacijas, bankines operacijas, leidimo (licencijos) verstis atitinkama veikla galiojimą. Konkurencijos tarybos nutarimai yra privalomi institucijoms, galinčioms taikyti tokius apribojimus, ir turi būti vykdomi nedelsiant. Apribojimai panaikinami Konkurencijos tarybos sprendimu, kai Konkurencijos taryba nustato, kad paskirtos sankcijos yra įvykdytos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
 3. Sankcijos ūkio subjektams už šio įstatymo pažeidimus gali būti taikomos ne vėliau kaip per penkerius metus nuo pažeidimo padarymo dienos, o kai yra tęstinis ar trunkamasis pažeidimas, – nuo paskutinių veiksmų atlikimo ar nutraukimo dienos.
 
@@ -1339,11 +1371,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
 
-8. Jeigu viešojo administravimo subjektas neįvykdo per Konkurencijos tarybos nustatytą arba šio straipsnio 5 dalies pagrindu pratęstą terminą šio įstatymo 35 straipsnio 1 dalies 4 punkte nurodyto įpareigojimo, Konkurencijos taryba turi teisę per 20 dienų nuo įpareigojimo įvykdymo termino pabaigos kreiptis į administracinį teismą Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, prašydama panaikinti šio įstatymo 4 straipsniui prieštaraujantį viešojo administravimo subjekto teisės aktą ar kitokį sprendimą ar pažeidimą pašalinti kitu būdu. Šiuos Konkurencijos tarybos prašymus pirmąja instancija nagrinėja Vilniaus apygardos administracinis teismas.
+8. Jeigu viešojo administravimo subjektas per Konkurencijos tarybos nustatytą arba šio straipsnio 5 dalies pagrindu pratęstą terminą neįvykdo šio įstatymo 35 straipsnio 1 dalies 4 punkte nurodyto įpareigojimo, Konkurencijos taryba turi teisę per 20 dienų nuo įpareigojimo įvykdymo termino pabaigos Administracinių bylų teisenos įstatymo nustatyta tvarka kreiptis į pirmosios instancijos administracinį teismą prašydama panaikinti šio įstatymo 4 straipsniui prieštaraujantį viešojo administravimo subjekto teisės aktą ar kitokį sprendimą ar pažeidimą pašalinti kitu būdu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -1779,13 +1813,21 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
-2. Vilniaus apygardos administracinis teismas išduoda teismo leidimus dėl galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 20 straipsnyje ar Reglamento (ES) 2022/1925 23 straipsnio 8 dalyje nurodytais atvejais.
+2. Pirmosios instancijos administracinis teismas išduoda teismo leidimus dėl galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 20 straipsnyje ar Reglamento (ES) 2022/1925 23 straipsnio 8 dalyje nurodytais atvejais.
 
 Straipsnio dalies pakeitimai:
 
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
+
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
-3. Vilniaus apygardos administracinis teismas išduoda teismo leidimus dėl Europos Komisijos atliekamų patikrinimų ir galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 21 straipsnyje nurodytu atveju.
+Nr. XIV-2036, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12398
+
+3. Pirmosios instancijos administracinis teismas išduoda teismo leidimus dėl Europos Komisijos atliekamų patikrinimų ir galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 21 straipsnyje nurodytu atveju.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
 4. Prašymus dėl teismo leidimų išdavimo pateikia Europos Komisija arba Konkurencijos taryba.
 
@@ -1877,11 +1919,15 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 59 straipsnis. Ginčų sprendimas
 
-1. Vilniaus apygardos administracinis teismas kaip pirmoji instancija nagrinėja ginčus dėl informavimo, kylančius tarp Konkurencijos tarybos, įgyvendinančios kitos Europos Sąjungos valstybės narės konkurencijos institucijos Konkurencijos tarybai pateiktą prašymą pagal šio įstatymo 58 straipsnio 1 dalį, ir informuojamo asmens. Ginčai sprendžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+1. Regionų administracinis teismas kaip pirmoji instancija nagrinėja ginčus dėl informavimo, kylančius tarp Konkurencijos tarybos, įgyvendinančios kitos Europos Sąjungos valstybės narės konkurencijos institucijos Konkurencijos tarybai pateiktą prašymą pagal šio įstatymo 58 straipsnio 1 dalį, ir informuojamo asmens. Ginčai sprendžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 2. Ginčus dėl priverstinio baudos ir palūkanų išieškojimo, antstoliui vykdant iš kitos Europos Sąjungos valstybės narės konkurencijos institucijos gautą sprendimą, kuriuo paskirta bauda, nagrinėja bendrosios kompetencijos teismai.
 
-3. Vilniaus apygardos administracinis teismas kaip pirmoji instancija nagrinėja ginčus dėl Konkurencijos tarybos pagal šio įstatymo 58 straipsnio 8 dalį pateikto prašymo ar kartu su šiuo prašymu pateiktų dokumentų, susijusių su Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio taikymu, apie kuriuos atitinkami asmenys turi būti informuojami, arba dėl dokumentų, susijusių su Konkurencijos tarybos paskirtų baudų ir palūkanų išieškojimu, teisėtumo.
+3. Regionų administracinis teismas kaip pirmoji instancija nagrinėja ginčus dėl Konkurencijos tarybos pagal šio įstatymo 58 straipsnio 8 dalį pateikto prašymo ar kartu su šiuo prašymu pateiktų dokumentų, susijusių su Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio taikymu, apie kuriuos atitinkami asmenys turi būti informuojami, arba dėl dokumentų, susijusių su Konkurencijos tarybos paskirtų baudų ir palūkanų išieškojimu, teisėtumo.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
 Papildyta skyriumi:
 
@@ -2110,6 +2156,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2110, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14001
 
 Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 2 straipsnio pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2036, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12398
+
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 26, 27, 32, 33, 35, 39, 41, 56, 57 ir 59 straipsnių pakeitimo įstatymo Nr. XIV-1596 8 straipsnio pakeitimo įstatymas
 
 551 straipsnis. Neteisėtos ir nesuderinamos pagalbos grąžinimas (išieškojimas ne ginčo tvarka)
 
