@@ -4,7 +4,7 @@ identifier: "TAR.FAFBBF47946B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2018-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FAFBBF47946B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos administracinių teismų įsteigimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-309, i. k. 0991010ISTAIII-1030
 
@@ -40,23 +40,21 @@ Nr. VIII-1138, 1999-04-13, Žin., 1999, Nr. 36-1068 (1999-04-23), i. k. 0991010I
 
 1. Vadovaujantis Lietuvos Respublikos Konstitucijos 111 straipsniu, įsteigiami šie administraciniai teismai:
 
-1) Vilniaus apygardos administracinis teismas;
+1) Regionų administracinis teismas. Šį teismą sudaro Vilniaus, Kauno, Klaipėdos, Panevėžio ir Šiaulių rūmai. Regionų administracinio teismo buveinė yra Vilniaus rūmuose;
 
-2) Regionų apygardos administracinis teismas. Šį teismą sudaro Regionų apygardos administracinio teismo Kauno rūmai, Regionų apygardos administracinio teismo Klaipėdos rūmai, Regionų apygardos administracinio teismo Panevėžio rūmai ir Regionų apygardos administracinio teismo Šiaulių rūmai; šio teismo buveinė yra Regionų apygardos administracinio teismo Kauno rūmuose;
+2) Lietuvos vyriausiasis administracinis teismas.
 
-3) Lietuvos vyriausiasis administracinis teismas.
+2. Regionų administracinio teismo veiklos teritorija apima Vilniaus apygardos teismo, Kauno apygardos teismo, Klaipėdos apygardos teismo, Panevėžio apygardos teismo ir Šiaulių apygardos teismo veiklos teritorijas. Regionų administracinio teismo konkrečių rūmų veiklos teritorija sutampa su atitinkamo bendrosios kompetencijos apygardos teismo veiklos teritorija.
 
-2. Vilniaus apygardos administracinio teismo veiklos teritorija sutampa su Vilniaus apygardos teismo veiklos teritorija.
-
-3. Regionų apygardos administracinio teismo veiklos teritorija apima Kauno apygardos teismo, Klaipėdos apygardos teismo, Panevėžio apygardos teismo ir Šiaulių apygardos teismo veiklos teritorijas. Regionų apygardos administracinio teismo konkrečių rūmų veiklos teritorija sutampa su atitinkamo bendrosios kompetencijos apygardos teismo veiklos teritorija.
-
-4. Lietuvos vyriausiasis administracinis teismas veikia visoje valstybės teritorijoje.
+3. Regionų administracinis teismas ir Lietuvos vyriausiasis administracinis teismas veikia visoje Lietuvos Respublikos teritorijoje.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010ISTAIII-1928
 
 Nr. XII-2478, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17975
+
+Nr. XIV-1573, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25124
 
 3 straipsnis. Neteko galios nuo 2018-01-01
 
@@ -129,4 +127,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2478, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17975
 
 Lietuvos Respublikos administracinių teismų įsteigimo įstatymo Nr. VIII-1030 2 straipsnio pakeitimo ir 3 straipsnio pripažinimo netekusiu galios įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1573, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25124
+
+Lietuvos Respublikos administracinių teismų įsteigimo įstatymo Nr. VIII-1030 2 straipsnio pakeitimo įstatymas
 
