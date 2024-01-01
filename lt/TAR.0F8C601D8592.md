@@ -4,7 +4,7 @@ identifier: "TAR.0F8C601D8592"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-09"
-last_updated: "2023-05-03"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2023-05-03 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
 
@@ -1170,7 +1170,11 @@ TEISINIS STATUSAS
 
 1) rėmėjo, kuris žuvo atlikdamas jam pavestas funkcijas, šeimos nariams – vaikams (įvaikiams) (įskaitant vaikus, gimusius po rėmėjo mirties), ne vyresniems kaip 18 metų, taip pat vyresniems vaikams (įvaikiams), kurie mokosi įregistruotose bendrojo ugdymo mokyklose ir statutinėse profesinio mokymo įstaigose pagal bendrojo ugdymo ir profesinio mokymo programas grupinio mokymosi forma kasdieniu, neakivaizdiniu ir nuotoliniu mokymo proceso organizavimo būdais ar pavienio mokymosi forma savarankišku ir nuotoliniu mokymo proceso organizavimo būdais arba studijuoja Lietuvos aukštojoje mokykloje pagal nuolatinės formos studijų programas, ne vyresniems kaip 24 metai, sutuoktiniui, sugyventiniui (partneriui), tėvui (įtėviui), motinai (įmotei);
 
-2) asmenims, kuriems nustatytas neįgalumo lygis, 0–25 procentų darbingumo lygis arba senatvės pensijos amžių sukakusiems asmenims, kuriems nustatytas didelių specialiųjų poreikių lygis, jeigu jie buvo rėmėjo, kuris žuvo atlikdamas jam pavestas funkcijas, išlaikomi ar jo žuvimo dieną turėjo teisę gauti jo išlaikymą.
+2) asmenims, kuriems nustatytas neįgalumo lygis, 0–25 procentų dalyvumo lygis arba senatvės pensijos amžių sukakusiems asmenims, kuriems nustatytas 15 procentų dalyvumo lygis, jeigu jie buvo rėmėjo, kuris žuvo atlikdamas jam pavestas funkcijas, išlaikomi ar jo žuvimo dieną turėjo teisę gauti jo išlaikymą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
 
 3. Šiame straipsnyje nustatytos išmokos nemokamos, jeigu:
 
@@ -1351,6 +1355,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
 
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr.VIII-1666 1, 2, 4, 10, 11, 14, 15, 16, 18, 23, 26 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu ir nauju IX skyriumi įstatymas
-
-part_539af0e88ec84c39905a779705a600a3_end
 
