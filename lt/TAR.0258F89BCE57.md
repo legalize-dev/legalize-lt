@@ -4,7 +4,7 @@ identifier: "TAR.0258F89BCE57"
 country: "lt"
 rank: "istatymas"
 publication_date: "2005-06-30"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0258F89BCE57"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 2005, Nr. 85-3140, i. k. 1051010ISTA000X-296
 
@@ -54,7 +54,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
-4. Smurtinis nusikaltimas – Lietuvos Respublikos baudžiamajame kodekse nurodyto nusikaltimo sudėties požymių turinti veika, kuria buvo tyčia atimta žmogaus gyvybė arba sunkiai ar nesunkiai sutrikdyta jo sveikata, arba apysunkio, sunkaus ar labai sunkaus nusikaltimo žmogaus laisvei, seksualinio apsisprendimo laisvei ar neliečiamumui sudėties požymių turinti veika. Smurtinių nusikaltimų sąrašą tvirtina Fondo programos vykdytojas.
+4. Smurtinis nusikaltimas – Lietuvos Respublikos baudžiamajame kodekse nurodyto nusikaltimo sudėties požymių turinti veika, kuria buvo tyčia atimta žmogaus gyvybė, sutrikdyta jo sveikata ar sukeltas fizinis skausmas, arba kita nusikaltimo žmogaus laisvei, seksualinio apsisprendimo laisvei ar neliečiamumui sudėties požymių turinti veika. Smurtinių nusikaltimų sąrašą tvirtina Fondo programos vykdytojas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 5. Smurtiniu nusikaltimu padarytos žalos kompensavimas – smurtiniu nusikaltimu padarytos turtinės ir (ar) neturtinės žalos kompensavimas iš Nukentėjusių nuo nusikaltimų asmenų fondo programos lėšų, kai yra priimtas apkaltinamasis teismo nuosprendis ir smurtinį nusikaltimą padaręs asmuo ar už jo veiką atsakingas asmuo neatlygina teismo sprendimu priteistos žalos.
 
@@ -118,7 +122,11 @@ Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 5. Sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo per 3 darbo dienas nuo priėmimo išsiunčiamas nukentėjusiam asmeniui, pateikusiam prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą, ar jo atstovui. Sprendimo dėl smurtiniu nusikaltimu padarytos žalos kompensavimo kopija per 3 darbo dienas nuo šio sprendimo priėmimo taip pat išsiunčiama asmeniui, iš kurio teismas priteisė atlyginti smurtiniu nusikaltimu padarytą žalą, ir antstoliui, jeigu šis vykdo teismo sprendimą, kuriuo buvo priteista atlyginti smurtiniu nusikaltimu padarytą žalą, siekiant informuoti, kad valstybė įgijo regreso teisę į išmokėtą sumą, ir įgyvendinti šio įstatymo 14 straipsnio 1 ir 2 dalyse numatytas valstybės reikalavimo teises.
 
-6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo gali būti skundžiami Vilniaus apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo gali būti skundžiami pirmosios instancijos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1606, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25186
 
 7 straipsnis. Kompensacijos dydis
 
@@ -128,17 +136,33 @@ Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 1) 100 bazinių socialinių išmokų (toliau – BSI), kai smurtiniu nusikaltimu atimta žmogaus gyvybė;
 
-2) 80 BSI, kai smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui;
+2) 80 BSI, kai smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 ar 4 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui;
 
-3) 60 BSI, kai padarytas kitas, negu nurodyta šios dalies 1 ir 2 punktuose, smurtinis nusikaltimas.
+3) 60 BSI, kai padarytas kitas, negu nurodyta šios dalies 1, 2 ar 5 punkte, smurtinis nusikaltimas;
+
+4) 40 BSI, kai smurtiniu nusikaltimu nežymiai sutrikdyta nepilnamečio sveikata ar jam sukeltas fizinis skausmas;
+
+5) 30 BSI, kai smurtiniu nusikaltimu nežymiai sutrikdyta žmogaus sveikata ar jam sukeltas fizinis skausmas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 3. Šio įstatymo 3 straipsnio 1 dalyje nurodytiems asmenims kompensuojamos neturtinės žalos dydis negali viršyti:
 
 1) 120 BSI, kai smurtiniu nusikaltimu atimta žmogaus gyvybė;
 
-2) 100 BSI, kai smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui;
+2) 100 BSI, kai smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 ar 4 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui;
 
-3) 80 BSI, kai padarytas kitas, negu nurodyta šios dalies 1 ir 2 punktuose, smurtinis nusikaltimas.
+3) 80 BSI, kai padarytas kitas, negu nurodyta šios dalies 1, 2 ar 5 punkte, smurtinis nusikaltimas;
+
+4) 50 BSI, kai smurtiniu nusikaltimu nežymiai sutrikdyta nepilnamečio sveikata ar jam sukeltas fizinis skausmas;
+
+5) 40 BSI, kai smurtiniu nusikaltimu nežymiai sutrikdyta žmogaus sveikata ar jam sukeltas fizinis skausmas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 4. Jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė ir teismas priteisė šiuo nusikaltimu padarytą turtinę ir (ar) neturtinę žalą, ir bendra žalos suma viršija šio straipsnio 2 dalies 1 punkte ir (ar) šio straipsnio 3 dalies 1 punkte nurodytą sumą, kiekvienam asmeniui išmokama kompensacijos dalis, proporcinga jam priteistai žalos sumai.
 
@@ -198,7 +222,11 @@ Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 5. Sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo avansu per 3 darbo dienas išsiunčiamas nukentėjusiam asmeniui, pateikusiam prašymą avansu kompensuoti smurtiniu nusikaltimu padarytą žalą, ar jo atstovui. Taip pat, siekiant gyvendinti valstybės reikalavimo teises, numatytas šio įstatymo 14 straipsnio 1 ir 2 dalyse, sprendimo dėl smurtiniu nusikaltimu padarytos žalos kompensavimo avansu kopija per 3 darbo dienas išsiunčiama prokurorui, kurio žinioje yra ar buvo byla. Prokuroras, kuriam buvo išsiųsta sprendimo dėl smurtiniu nusikaltimu padarytos žalos kompensavimo avansu kopija, privalo pagal kompetenciją informuoti Fondo programos vykdytoją apie nusikalstamos veikos kvalifikavimo pakeitimą, ikiteisminio tyrimo nutraukimą, baudžiamosios bylos perdavimą teismui ar įsiteisėjusio teismo nuosprendžio (nutarties) priėmimą ne vėliau kaip per 20 darbo dienų nuo tam tikro procesinio sprendimo priėmimo.
 
-6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu gali būti skundžiami Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu gali būti skundžiami pirmosios instancijos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1606, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25186
 
 11 straipsnis. Avansu mokamos kompensacijos dydis
 
@@ -272,7 +300,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
-5. Šio straipsnio 3 dalyje nurodyti sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+5. Šio straipsnio 3 dalyje nurodyti sprendimai gali būti skundžiami pirmosios instancijos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1606, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25186
 
 15 straipsnis. Baudžiamojo poveikio priemonės – įmokos į Nukentėjusių nuo nusikaltimų asmenų fondą vykdymas
 
@@ -408,7 +440,13 @@ Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 2, 6, 7, 8, 10, 11 ir 14 straipsnių pakeitimo įstatymas
 
-part_019830e38fe84de5b1b4ba79b8592116_end
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1606, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25186
+
+Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 6, 10 ir 14 straipsnių pakeitimo įstatymas
 
 22 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
