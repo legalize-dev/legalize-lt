@@ -4,7 +4,7 @@ identifier: "TAR.06C50B65B6B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-21"
-last_updated: "2023-01-03"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
 
@@ -92,11 +92,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
 
-4. Lietuvos Respublikos Vyriausybės atstovas Europos Žmogaus Teisių Teisme, gavęs Europos Žmogaus Teisių Teismo sprendimus dėl žalos atlyginimo arba šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė, nedelsdamas juos pateikia Teisingumo ministerijai. Europos Žmogaus Teisių Teismo sprendimas arba šalių taikus susitarimas, kuriam preliminariai pritarė Lietuvos Respublikos Vyriausybė, turi būti įvykdytas tarptautinės teisės aktų nustatytais terminais.
+4. Europos Žmogaus Teisių Teismo sprendimus dėl piniginės kompensacijos išmokėjimo Teisingumo ministerija turi įvykdyti Europos Žmogaus Teisių Teismo nustatytais terminais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
+
+Nr. XIV-2004, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11580
 
 5. Valstybės institucija ar pareigūnas, gavę tarptautinių institucijų sprendimus dėl piniginės kompensacijos išmokėjimo, nedelsdami juos pateikia Teisingumo ministerijai. Šie sprendimai turi būti įvykdyti ne vėliau kaip per 3 mėnesius nuo jų gavimo Teisingumo ministerijoje dienos, jei tarptautinės teisės aktai ar tarptautinių institucijų sprendimai nenustato kitaip.
 
@@ -410,17 +412,27 @@ Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
 
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 2, 3, 4 ir 5-1 straipsnių pakeitimo įstatymas
 
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2004, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11580
+
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 2 ir 5-1 straipsnių pakeitimo įstatymas
+
 51 straipsnis. Atstovavimas valstybei ir Lietuvos Respublikos Vyriausybei
 
 1. Valstybei teisme, arbitraže atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija (įstaiga), įstatymų nustatytais atvejais – kita institucija. Lietuvos Respublikos Vyriausybei teisme, arbitraže atstovauja jos įgaliota valstybės institucija (įstaiga). Atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei teismuose taisykles nustato Lietuvos Respublikos Vyriausybė.
 
 2. Bylose, iškeltose dėl sutartinių santykių, valstybei teisme, arbitraže atstovauja sutartį pasirašiusi institucija. Jeigu ši institucija likviduota ar reorganizuota, valstybei atstovauja šios institucijos teisių ir (ar) funkcijų perėmėjas, o kai jo nėra, – Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-3. Europos Sąjungos Teisingumo Teisme ir Europos laisvosios prekybos asociacijos teisme Lietuvos valstybei atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija (įstaiga). Europos Žmogaus Teisių Teisme, Jungtinių Tautų Žmogaus teisių komitete, Lietuvos Respublikos Vyriausybės pavedimu – ir kituose Jungtinių Tautų komitetuose nagrinėjant bylas prieš Lietuvos Respubliką valstybei atstovauja Lietuvos Respublikos Vyriausybės atstovas Europos Žmogaus Teisių Teisme.
+3. Europos Sąjungos Teisingumo Teisme, Europos laisvosios prekybos asociacijos teisme, Europos Žmogaus Teisių Teisme ir kitose tarptautinėse teisminėse ar ginčų sprendimo institucijose, kurių jurisdikciją yra pripažinusi Lietuvos Respublika, Lietuvos valstybei atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija (įstaiga) pagal Lietuvos Respublikos Vyriausybės nustatytas taisykles.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
+
+Nr. XIV-2004, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11580
 
 4. Atstovaujant valstybei, laikomasi šių principų:
 
