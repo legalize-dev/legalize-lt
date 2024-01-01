@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2023-03-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-03-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -79,6 +79,24 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
+62. Energetikos darbuotojas – energetikos įmonės vadovaujantis darbuotojas (energetikos įmonės vadovas ar jo įgaliotas asmuo, kurie tiesiogiai vadovauja energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo veiklai, inžinerinių kategorijų darbuotojas, vadovaujantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantis) ir darbininkų kategorijų darbuotojas, tiesiogiai vykdantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+63. Energetikos darbuotojo atestavimas – tikrinimas, ar energetikos darbuotojas pagal pageidaujamą arba sulygtą darbą atitinka jam nustatytus bendruosius (išsilavinimo ir darbo patirties) ir specialiuosius (energetikos įrenginių įrengimo, eksploatavimo, techninės saugos taisyklių ir kitų teisės aktų, reglamentuojančių energetikos veiklą, reikalavimus) kvalifikacinius reikalavimus, ir energetikos darbuotojo pažymėjimo išdavimas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+64. Energetikos darbuotojų atestavimo įstaiga (toliau – atestavimo įstaiga) – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos reguliavimo tarybos (toliau – Taryba) leidimą, kuriuo suteikiama teisė verstis energetikos darbuotojų atestavimo veikla.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
 7. Energetikos įmonė – asmuo, kuris verčiasi energetikos veikla.
 
 8. Energetikos įrenginiai – techninės konstrukcijos, tarp jų mechanizmai, mašinos, aparatai, linijos, jų pagalbiniai įtaisai ir technologiniai priklausiniai, skirti energijos ištekliams ir (ar) energijai žvalgyti, išgauti, perdirbti, gaminti, laikyti, kaupti, transportuoti, perduoti ir (ar) skirstyti.
@@ -111,13 +129,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
-13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, kaupimą, transportavimą, perdavimą, skirstymą, tiekimą, prekybą, rinkodarą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą.
+13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, kaupimą, transportavimą, perdavimą, skirstymą, tiekimą, prekybą, rinkodarą, energetikos darbuotojų atestavimą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+Nr. XIV-633, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24227
 
 14. Energija – elektros energija, šilumos energija ir (ar) vėsumos energija. Energija yra laikoma preke. Šio įstatymo tikslais energijai priskiriamos gamtinės dujos ir centralizuotai tiekiamos suskystintos naftos dujos.
 
@@ -193,7 +215,7 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
-29. Reguliavimo apskaitos sistemos patikra – energetikos įmonei auditoriaus, audito įmonės pagal Valstybinės energetikos reguliavimo tarybos (toliau – Taryba) tai energetikos įmonei motyvuotu sprendimu nustatytą reikalavimą teikiama paslauga, kurią atlikus pagal Tarybos patvirtintą techninę užduotį pateikiama reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada.
+29. Reguliavimo apskaitos sistemos patikra – energetikos įmonei auditoriaus, audito įmonės pagal Tarybos tai energetikos įmonei motyvuotu sprendimu nustatytą reikalavimą teikiama paslauga, kurią atlikus pagal Tarybos patvirtintą techninę užduotį pateikiama reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada.
 
 Papildyta straipsnio dalimi:
 
@@ -202,6 +224,8 @@ Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 30. Reguliuojamosios veiklos ataskaitos – energetikos įmonių Tarybai teikiamos vykdomos veiklos ataskaitos, kurios rengiamos vadovaujantis reguliavimo apskaitos sistemos reikalavimais ir atskirų energetikos sektorių veiklą reglamentuojančiais teisės aktais ir kuriose parodomas apskaitos atskyrimas ir sąnaudų paskirstymas pagal veiklas.
 
@@ -569,11 +593,13 @@ Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 14) nustato energetikos valstybinės kontrolės ir vartotojų energetikos įrenginių kontrolės tvarką;
 
-15) tvirtina šio įstatymo 28 straipsnio 1 dalyje nurodytų darbuotojų pareigybių ir profesijų sąrašą, nustato jų kvalifikacinius reikalavimus, tvirtina energetikos objektus, įrenginius įrengiančių ir eksploatuojančių darbuotojų, kurie privalo būti atestuojami, sąrašą ir nustato šių darbuotojų kvalifikacijos tobulinimo ir atestavimo tvarką;
+15) nustato energetikos darbuotojų atestavimo tvarką;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 16) nustato asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo tvarką ir sąlygas;
 
@@ -633,13 +659,21 @@ Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
-24) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+24) tvirtina leidimų verstis energetikos darbuotojų atestavimo veikla išdavimo taisykles;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+25) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 7 straipsnis. Susisiekimo ministerijos kompetencija
 
@@ -843,7 +877,11 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 5) priima sprendimus dėl Tarybos nario nusišalinimo svarstant atitinkamus klausimus Tarybos posėdyje.
 
-14. Taryba, siekdama atlikti Reglamento (ES) Nr. 1227/2011 13 straipsnio 2 dalies d, f ir g punktuose nurodytus veiksmus, turi teisę pateikti prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones Vilniaus apygardos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Vilniaus apygardos administracinis teismas prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones patenkinti, patenkinti iš dalies arba atmesti. Prašymas išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones pateikimo momento. Jeigu Taryba nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones, ji turi teisę per 7 dienas nuo Vilniaus apygardos administracinio teismo nutarties priėmimo apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 dienas nuo Tarybos skundo priėmimo dienos. Tarybos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo išdavimo atlikti veiksmus ar taikyti laikinąsias apsaugos priemones, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Šio įstatymo 36 straipsnyje nustatytais atvejais Tarybai kreipiantis į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, mutatis mutandis taikomos šios dalies nuostatos.
+14. Taryba, siekdama atlikti Reglamento (ES) Nr. 1227/2011 13 straipsnio 2 dalies d, f ir g punktuose nurodytus veiksmus, turi teisę pateikti prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones pirmosios instancijos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Teismas prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones patenkinti, patenkinti iš dalies arba atmesti. Prašymas išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones pateikimo momento. Jeigu Taryba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones, ji turi teisę per 7 dienas nuo šios teismo nutarties priėmimo apskųsti ją Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl  teismo nutarties ne vėliau kaip per 7 dienas nuo Tarybos skundo priėmimo dienos. Tarybos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus ar taikyti laikinąsias apsaugos priemones išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Šio įstatymo 36 straipsnyje nustatytais atvejais Tarybai kreipiantis į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, mutatis mutandis taikomos šios dalies nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1587, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25148
 
 15. Tarybos strateginio veiklos plano projektas skelbiamas viešai teisės aktų nustatyta tvarka. Pasibaigus kalendoriniams metams, Taryba per keturis mėnesius parengia praėjusių metų veiklos ataskaitą, kurioje pateikiami strateginio veiklos plano įgyvendinimo rezultatai, nurodomi veiksmai, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, pasiekti rezultatai, ir ją pateikia Respublikos Prezidentui, Seimui, Vyriausybei, o per šešis mėnesius šios ataskaitos dalis, skirtas gamtinių dujų ir elektros energetikos sektoriams, kaip nustatyta Direktyvos (ES) 2009/73/EB 41 straipsnyje ir Direktyvos (ES) 2019/944 59 straipsnyje, – Europos Komisijai ir Europos Sąjungos Energetikos reguliavimo institucijų bendradarbiavimo agentūrai (ACER), veikiančiai pagal Reglamentą (ES) 2019/942 (toliau – Energetikos reguliavimo institucijų bendradarbiavimo agentūra). Veiklos ataskaitoje Taryba taip pat nurodo veiksmus, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, ir pasiektus rezultatus. Taryba ataskaitą paskelbia savo interneto svetainėje. Tarybos finansinį ir veiklos auditą atlieka Lietuvos Respublikos valstybės kontrolė.
 
@@ -1617,29 +1655,27 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
-28 straipsnis. Energetikos įmonių vadovų ar jų įgaliotų asmenų, kurie tiesiogiai vadovauja energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo veiklai, energetikos objektus, įrenginius įrengiančių ir (ar) eksploatuojančių inžinerinių ir darbininkų kategorijų energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas
+28 straipsnis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas
 
-1. Energetikos įmonių vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo veiklai, energetikos objektus, įrenginius įrengiantys ir (ar) eksploatuojantys inžinerinių ir darbininkų kategorijų energetikos darbuotojai (toliau – energetikos darbuotojai) ir energijos vartojimo auditą atliekantys specialistai turi būti reikiamos kvalifikacijos ir tinkamai pasirengę atlikti jiems pavestas užduotis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacijos tobulinimo reikalavimus ir atestavimo tvarką nustato Energetikos ministerija, vadovaudamasi šiame straipsnyje nustatytais darbuotojų bendraisiais kvalifikaciniais (išsilavinimo ir darbo patirties) reikalavimais.
+1. Energetikos darbuotojai ir energijos vartojimo auditą atliekantys specialistai turi būti reikiamos kvalifikacijos, tinkamai pasirengę atlikti jiems pavestas užduotis, atestuoti šio įstatymo nustatyta tvarka ir turintys tai patvirtinantį galiojantį dokumentą. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacijos tobulinimo reikalavimus ir atestavimo tvarką nustato energetikos ministras, vadovaudamasis šiame straipsnyje nustatytais darbuotojų bendraisiais kvalifikaciniais (išsilavinimo ir darbo patirties) reikalavimais.
 
-2. Energijos vartojimo auditą atliekantys specialistai privalo turėti inžinerijos mokslų studijų krypčių grupės aukštąjį universitetinį arba jam prilygintą išsilavinimą, ne mažesnę kaip trejų metų praktinio darbo patirtį energijos vartojimo efektyvumo srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimo, eksploatavimo, technologinių procesų vyksmo reikalavimus.
+2. Energijos vartojimo auditą atliekantys specialistai privalo turėti inžinerijos mokslų studijų krypčių grupės aukštąjį universitetinį arba jam prilygintą išsilavinimą, ne mažesnę kaip trejų metų praktinio darbo patirtį energijos vartojimo efektyvumo srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, technologinių procesų vyksmą, reikalavimus. Specialiuosius kvalifikacinius reikalavimus, taikomus energijos vartojimo auditą atliekantiems specialistams, nustato energetikos ministras.
 
-3. Energetikos objektus, įrenginius įrengiantys ir (ar) eksploatuojantys inžinerinių kategorijų darbuotojai privalo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą, išskyrus Lietuvos Respublikos branduolinės energijos įstatymo nustatytą išsilavinimo reikalavimą, turėti minimalią darbo patirtį energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimo, eksploatavimo, techninės saugos reikalavimus.
+3. Inžinerinių kategorijų darbuotojai, vadovaujantys energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantys, privalo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą, išskyrus Lietuvos Respublikos branduolinės energijos įstatymo nustatytą išsilavinimo reikalavimą, turėti minimalią darbo patirtį energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, techninę saugą ir kitą energetikos veiklą, reikalavimus.
 
-4. Valstybinės svarbos energetikos objektus eksploatuojančių energetikos įmonių vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos objektų, įrenginių eksploatavimo veiklai, privalo turėti inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį universitetinį ar jam prilygintą išsilavinimą, ne mažesnę kaip trejų metų darbo patirtį energetikos veiklos srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimo, eksploatavimo, techninės saugos reikalavimus.
+4. Valstybinės svarbos energetikos objektus eksploatuojančių energetikos įmonių vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos objektų, įrenginių eksploatavimo veiklai, privalo turėti inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį universitetinį ar jam prilygintą išsilavinimą, ne mažesnę kaip trejų metų darbo patirtį energetikos veiklos srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, techninę saugą ir kitą energetikos veiklą, reikalavimus.
 
-5. Energetikos įmonių, kurios neeksploatuoja valstybinės svarbos energetikos objektų, vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos įrenginių eksploatavimo veiklai, privalo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą, minimalią darbo patirtį energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimo, eksploatavimo, techninės saugos reikalavimus.
+5. Energetikos įmonių, kurios neeksploatuoja valstybinės svarbos energetikos objektų, vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos įrenginių eksploatavimo veiklai, privalo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą, minimalią darbo patirtį energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, techninę saugą ir kitą energetikos veiklą, reikalavimus.
 
-6. Specialiuosius kvalifikacinius reikalavimus, taikomus energetikos darbuotojams ir energijos vartojimo auditą atliekantiems specialistams, nustato Energetikos ministerija. Šiame straipsnyje nustatytuose bendruosiuose kvalifikaciniuose reikalavimuose, taikomuose inžinerinių kategorijų darbuotojų, energijos vartojimo auditą atliekančių specialistų ir energetikos įmonių, kurios įrengia ir (ar) eksploatuoja energetikos objektus ir (ar) įrenginius, vadovams ar jų įgaliotiems asmenims, Energetikos ministerija nurodo, kurios konkrečios aukštojo mokslo studijų krypties išsilavinimą turi turėti šie asmenys.
+6. Specialiuosius kvalifikacinius reikalavimus, taikomus energetikos darbuotojams, nustato Taryba. Šiame straipsnyje nustatytuose bendruosiuose kvalifikaciniuose reikalavimuose, taikomuose inžinerinių kategorijų darbuotojų, energetikos įmonių, kurios įrengia ir (ar) eksploatuoja energetikos objektus ir (ar) įrenginius, vadovams ar jų įgaliotiems asmenims, Taryba Bendroje energetikos darbuotojų atestavimo schemoje nurodo, kurios konkrečios aukštojo mokslo studijų krypties išsilavinimą turi turėti šie asmenys.
 
 7. Taryba nustatyta tvarka derina energetikos darbuotojų mokymosi programas, į kurias turi būti įtraukti ir efektyvaus energijos bei energijos išteklių vartojimo klausimai.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 Straipsnio pakeitimai:
 
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 31 straipsnis. Duomenų saugojimas
 
@@ -1870,8 +1906,6 @@ priedas
 Priedo pakeitimai:
 
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
-
-part_106b67804d59416da5c43f56c4d9b999_end
 
 Pakeitimai:
 
@@ -2263,6 +2297,14 @@ Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 5, 6, 13 ir 33 straipsnių pakeitimo įstatymas
 
+34.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1587, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25148
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 8 ir 24-1 straipsnių pakeitimo įstatymas
+
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
 1. Centralizuotai tiekiamų suskystintų naftos dujų kainos yra valstybės reguliuojamos.
@@ -2373,7 +2415,11 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 10. Tikrinama energetikos įmonė, juridiniai ir fiziniai asmenys Tarybai, jos įgaliotiems Tarybos administracijos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodytiems asmenims privalo pateikti reikalaujamą informaciją net ir tuo atveju, jeigu tokia informacija sudaro tikrinamos energetikos įmonės komercinę (gamybinę) paslaptį arba yra konfidenciali dėl kitų priežasčių. Taryba, jos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodyti asmenys privalo užtikrinti patikrinimo metu gautos konfidencialios informacijos konfidencialumą.
 
-11. Šio straipsnio 6 dalies 2 punkte nurodytą skundą tikrinama energetikos įmonė turi teisę paduoti Vilniaus apygardos administraciniam teismui teisės aktų nustatyta tvarka. Skundo padavimas Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, patikrinimui pasitelktų specialistų ar ekspertų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip.
+11. Šio straipsnio 6 dalies 2 punkte nurodytą skundą tikrinama energetikos įmonė turi teisę paduoti pirmosios instancijos administraciniam teismui teisės aktų nustatyta tvarka. Skundo padavimas Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, patikrinimui pasitelktų specialistų ar ekspertų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1587, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25148
 
 12. Už šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodytas paslaugas, jeigu jos pagal galiojančius teisės aktus yra teikiamos atlygintinai, Taryba atsiskaito teisės aktų nustatyta tvarka.
 
@@ -2652,4 +2698,64 @@ Nr. XIV-1094, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10292
 Papildyta straipsniu:
 
 Nr. XIV-1094, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10292
+
+281 straipsnis. Energetikos darbuotojų atestavimo bendrieji principai ir Tarybos pagrindinės funkcijos energetikos darbuotojų atestavimo srityje
+
+1. Energetikos įmonės vadovas ar jo įgaliotas asmuo, kuris tiesiogiai vadovauja energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo veiklai, inžinerinių kategorijų darbuotojas, vadovaujantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantis, turi būti atestuojami atestavimo įstaigoje ne rečiau kaip kartą per penkerius metus.
+
+2. Energetikos įmonės darbininkų kategorijų darbuotojas, vykdantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbus, turi būti atestuojamas energetikos įmonės vadovo sudarytoje energetikos darbuotojų atestavimo komisijoje (toliau – Atestavimo komisija) arba atestuojamas atestavimo įstaigoje ne rečiau kaip kartą per trejus metus.
+
+3. Atestavimo įstaigos energetikos darbuotojų atestavimą atlieka vadovaudamosi Energetikos darbuotojų atestavimo tvarkos aprašu ir Bendra energetikos darbuotojų atestavimo schema, naudodamosi Tarybos sukurta energetikos darbuotojų atestavimo informacine sistema, sudariusios sutartis su Taryba dėl energetikos darbuotojų atestavimo informacinės sistemos naudojimo.
+
+4. Atestavimo įstaigai atlikus energetikos darbuotojo atestavimą, išduotas energetikos darbuotojo pažymėjimas suteikia teisę vykdyti pažymėjime nurodytas veiklas ir darbus visoje šalyje, nepaisant to, kokioje įmonėje dirba energetikos darbuotojas. Energetikos įmonės vadovo sudarytai Atestavimo komisijai atlikus darbininkų kategorijų darbuotojo atestavimą, išduotas energetikos darbuotojo pažymėjimas suteikia teisę vykdyti pažymėjime nurodytas veiklas ir darbus pagal darbo sutartį su šį pažymėjimą išdavusia energetikos įmone.
+
+5. Atestavimo komisiją sudaro ne mažiau kaip 3 asmenys, iš kurių ne mažiau kaip 2 yra šios energetikos įmonės darbuotojai. Darbininkų kategorijų darbuotojų atestavimo Atestavimo komisijoje tvarką ir pažymėjimo formą nustato energetikos įmonės vadovas. Į Atestavimo komisijos sudėtį turi būti įtraukti atitinkamos energetikos sektoriaus veiklos srities įmonių vadovai ar jų įgalioti asmenys, vadovaujantys energetikos objektų ir įrenginių įrengimo ir (ar) eksploatavimo veiklai, ir energetikos įmonių inžinerinės kategorijos energetikos darbuotojai, vadovaujantys objektų ir energetikos įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantys. Į Atestavimo komisijos sudėtį gali būti įtrauktas darbuotojų saugos ir sveikatos specialistas. Atestavimo komisijos nariai, išskyrus darbuotojų saugos ir sveikatos specialistą, privalo būti atestuoti ir turėti galiojančius atestavimo įstaigos išduotus energetikos darbuotojo pažymėjimus.
+
+6. Tarybos pagrindinės funkcijos energetikos darbuotojų atestavimo srityje:
+
+1) tvirtina Atestavimo įstaigų kompetencijos vertinimo taisykles, kuriose nustatomi atestavimo įstaigoms privalomi finansiniai, technologiniai ir vadybiniai pajėgumai, leidžiantys vykdyti energetikos darbuotojų atestavimą;
+
+2) tvirtina Bendrą energetikos darbuotojų atestavimo schemą, kurioje nustatomi energetikos darbuotojų bendrieji ir specialieji kvalifikaciniai reikalavimai, šių darbuotojų kvalifikacijos tobulinimo reikalavimai kiekvienai energetikos darbuotojų kategorijai, atestavimo procedūros ir energetikos darbuotojams suteikiamos teisės. Bendra atestavimo energetikos darbuotojų schema ne rečiau kaip kartą per penkerius metus arba prireikus peržiūrima ir, esant poreikiui, tikslinama;
+
+3) valdo energetikos darbuotojų atestavimo informacinę sistemą, atestavimo informacinėje sistemoje skelbia duomenis apie atestavimo įstaigų atestuotus energetikos darbuotojus (išduoto energetikos darbuotojo pažymėjimo unikalų numerį; energetikos darbuotojo vardą, pavardę; energetikos sektorių; veiklos sritį; energetikos darbuotojo kategoriją; suteikiamas teises; pažymėjimo išdavimo datą; pažymėjimo galiojimo datą; pažymėjimo galiojimo sustabdymo datą; pažymėjimo galiojimo panaikinimo datą);
+
+4) tvirtina standartines sutarčių dėl naudojimosi energetikos darbuotojų atestavimo informacine sistema sąlygas ir sudaro sutartis su atestavimo įstaigomis dėl naudojimosi energetikos darbuotojų atestavimo informacine sistema.
+
+Papildyta straipsniu:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+282 straipsnis. Leidimai verstis energetikos darbuotojų atestavimo veikla
+
+1. Energetikos sektoriuje leidimais reguliuojama energetikos darbuotojų atestavimo veikla.
+
+2. Leidimuose verstis energetikos darbuotojų atestavimo veikla įrašytų duomenų keitimo atvejai ir tvarka nustatomi energetikos ministro patvirtintose Leidimų verstis energetikos darbuotojų atestavimo veikla išdavimo taisyklėse.
+
+3. Leidimai verstis energetikos darbuotojų atestavimo veikla išduodami Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtiems juridiniams asmenims, kitoms organizacijoms ar jų padaliniams, jeigu jie atitinka šiuos reikalavimus:
+
+1) turi tokią struktūrą, kuri užtikrina, kad energetikos darbuotojų atestavimo veikla būtų atliekama nešališkai ir nebūtų susijusi su energetikos darbuotojų mokymu;
+
+2) atitinka Tarybos patvirtintose Atestavimo įstaigų kompetencijos vertinimo taisyklėse nustatytus finansinius, technologinius ir vadybinius pajėgumus.
+
+4. Leidimą verstis energetikos darbuotojų atestavimo veikla turintis asmuo privalo laikytis šių sąlygų:
+
+1) sudaryti sutartį su Taryba dėl energetikos darbuotojų atestavimo informacinės sistemos naudojimo ir laikytis šios sutarties nuostatų;
+
+2) atestuoti energetikos darbuotojus vadovaudamasis energetikos ministro patvirtintu Energetikos darbuotojų atestavimo tvarkos aprašu, Bendra energetikos darbuotojų atestavimo schema, naudodamasis Tarybos sukurta energetikos darbuotojų atestavimo informacine sistema;
+
+3) sustabdyti išduoto energetikos darbuotojo pažymėjimo galiojimą arba panaikinti išduoto energetikos darbuotojo pažymėjimo galiojimą, jeigu Taryba raštu pateikia informaciją, kad atestuotas energetikos darbuotojas pažeidė norminių teisės aktų, reglamentuojančių energetikos veiklą, reikalavimus ir dėl to įvyko ar galėjo įvykti energetikos įrenginio avarija, sutrikimas, gaisras arba buvo iškilusi grėsmė aplinkai, turtui, žmonių sveikatai ar gyvybei;
+
+4) neturi teisės įgalioti kitų asmenų verstis leidime nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį ar kitaip pavesti vykdyti šią veiklą;
+
+5) teikti informaciją energetikos darbuotojams ir juos konsultuoti teisės aktų nustatyta tvarka;
+
+6) teikti Tarybai informaciją, reikalingą įstatymuose nustatytoms pareigoms vykdyti;
+
+7) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir kituose teisės aktuose nustatytų reikalavimų.
+
+5. Šio straipsnio 1 dalyje nurodytus leidimus verstis energetikos darbuotojų atestavimo veikla išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja Taryba Leidimų verstis energetikos darbuotojų atestavimo veikla išdavimo taisyklėse nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
