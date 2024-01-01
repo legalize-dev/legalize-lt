@@ -4,7 +4,7 @@ identifier: "TAR.EFE69222D6BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-28"
-last_updated: "2023-01-04"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EFE69222D6BC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos geodezijos ir kartografijos įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2226, i. k. 1011010ISTA00IX-415
 
@@ -334,15 +334,27 @@ Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
 11) Georeferencinio pagrindo kadastro duomenų ir informacijos specifikacijas;
 
-12) geodezinių tinklų geodezinių ženklų perkėlimo tvarkos aprašą;
+12) Neteko galios nuo 2024-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 13) informacijos apie geodezinių ženklų būklę teikimo tvarkos aprašą;
 
-14) Topografijos ir inžinerinės infrastruktūros informacinės sistemos Žemės paviršiaus gamtinių ir antropogeninių objektų erdvinių duomenų rinkinio tvarkymo aprašą ir specifikaciją;
+14) Topografijos ir inžinerinės infrastruktūros informacinės sistemos Žemės paviršiaus gamtinių ir antropogeninių objektų erdvinių duomenų rinkinio ir Suprojektuotų ir numatomų įrengti objektų erdvinių duomenų rinkinio specifikacijas ir tvarkymo aprašus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 15) inžinerinės infrastruktūros erdvinių duomenų teikimo Topografijos ir inžinerinės infrastruktūros informacinei sistemai tvarkos aprašą.
 
-10 straipsnis. Valstybės politiką geodezijos, kartografijos, erdvinių duomenų rinkinių tvarkymo ir Lietuvos erdvinės informacijos infrastruktūros plėtojimo srityse įgyvendinančios institucijos ir įmonės kompetencija
+10 straipsnis. Valstybės politiką geodezijos, kartografijos, erdvinių duomenų rinkinių tvarkymo ir Lietuvos erdvinės informacijos infrastruktūros plėtojimo srityse įgyvendinančios institucijos ir Vyriausybės įgaliotos institucijos ar kito viešojo juridinio asmens kompetencija
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 1. Nacionalinė žemės tarnyba prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba):
 
@@ -364,29 +376,43 @@ Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
 5) nagrinėja savivaldybių raštu pateiktus pranešimus apie pažeidimus, pastebėtus atliekant geodezininko vykdomų geodezijos ir kartografijos darbų savivaldybėse priežiūrą, taip pat kitų institucijų ir asmenų pateiktus pranešimus apie geodezininko veiklos pažeidimus;
 
-6) organizuoja, koordinuoja ir kontroliuoja šio įstatymo 4 straipsnio 1 dalies 9 punkte nurodytus valstybinius geodezijos ir kartografijos darbus;
+6) organizuoja, koordinuoja ir prižiūri šio įstatymo 4 straipsnio 1 dalies 6, 8 ir 9 punktuose nurodytus valstybinius geodezijos ir kartografijos darbus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 7) organizuoja LitPOS tvarkymą ir tobulinimą.
 
-2. Nacionalinės žemės tarnybos direktorius tvirtina:
+2. Nacionalinės žemės tarnybos vadovas tvirtina:
 
 1) geodezinių ženklų standartus;
 
-2) geodezininko kvalifikacijos tobulinimo programas.
+2) geodezininko kvalifikacijos tobulinimo programas;
 
-3. Valstybės įmonė Žemės ūkio duomenų centras:
+3) geodezinių tinklų geodezinių ženklų perkėlimo tvarkos aprašą.
 
 Straipsnio dalies pakeitimai:
 
-Nr. XIV-1306, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15633
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
-1) vykdo šio įstatymo 4 straipsnio 1 dalies 9 punkte nurodytus valstybinius geodezijos ir kartografijos darbus;
+3. Vyriausybės įgaliota institucija ar kitas viešasis juridinis asmuo:
 
-2) informacinių technologijų priemonėmis centralizuotai teikia valstybės kadastrų, registrų ir valstybės informacinių sistemų tvarkytojų, valstybės ir savivaldybių institucijų bei kitų asmenų tvarkomus erdvinių duomenų rinkinius ir su jais susijusias Lietuvos erdvinės informacijos portalo elektronines paslaugas bei užtikrina sąveikų keitimąsi erdvinių duomenų rinkiniais ir paslaugomis;
+1) vykdo šio įstatymo 4 straipsnio 1 dalies 6, 8 ir 9 punktuose nurodytus valstybinius geodezijos ir kartografijos darbus;
+
+2) informacinių technologijų priemonėmis centralizuotai teikia valstybės kadastrų, registrų ir valstybės informacinių sistemų tvarkytojų, valstybės ir savivaldybių institucijų bei kitų asmenų tvarkomus erdvinių duomenų rinkinius ir su jais susijusias Lietuvos erdvinės informacijos portalo elektronines paslaugas ir sukuria integracines sąveikas apsikeisti erdvinių duomenų rinkiniais ir su jais susijusiomis paslaugomis;
 
 3) užtikrina nepertraukiamą LitPOS veiklą, duomenų teikimą LitPOS naudotojams;
 
-4) užtikrina nepertraukiamą Topografijos ir inžinerinės infrastruktūros informacinės sistemos veiklą.
+4) organizuoja, tvarko ir tobulina Topografijos ir inžinerinės infrastruktūros informacinės sistemos veiklą;
+
+5) rengia, įgyvendina arba dalyvauja rengiant ir (ar) įgyvendinant erdvinių duomenų rinkinių ir su jais susijusių paslaugų kūrimo, plėtojimo ir tvarkymo projektines veiklas, reikalingas vienodiems erdviniams duomenims parengti, nekilnojamųjų daiktų kadastro duomenims nustatyti, savivaldybių erdvinių duomenų rinkiniams integruoti į valstybinius erdvinių duomenų rinkinius;
+
+6) kuria, tvarko, plėtoja ir teikia naudotojams erdvinius duomenis ir su jais susijusias paslaugas, klasifikatorius ir erdvinių duomenų pagrindu parengtą informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 11 straipsnis. Kitų institucijų, savivaldybių, įstaigų ir įmonių kompetencija geodezijos, kartografijos, erdvinių duomenų rinkinių tvarkymo ir Lietuvos erdvinės informacijos infrastruktūros plėtojimo srityse
 
@@ -480,7 +506,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
-3) ne anksčiau kaip prieš 3 metus iki prašymo gauti geodezininko kvalifikacijos pažymėjimą pateikimo Nacionalinei žemės tarnybai išlaikytas profesinių žinių patikrinimo egzaminas Nacionalinės žemės tarnybos nustatyta tvarka.
+3) ne anksčiau kaip prieš 3 metus iki prašymo gauti geodezininko kvalifikacijos pažymėjimą pateikimo Nacionalinei žemės tarnybai išlaikytas profesinių žinių patikrinimo egzaminas Nacionalinės žemės tarnybos vadovo nustatyta tvarka.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 5. Fizinis asmuo, pageidaujantis gauti geodezininko kvalifikacijos pažymėjimą, Nacionalinei žemės tarnybai pateikia prašymą ir šio straipsnio 4 dalyje nustatytų kvalifikacijos reikalavimų patvirtinimo dokumentus. Geodezininko kvalifikacijos pažymėjimas išduodamas Vyriausybės nustatyta tvarka.
 
@@ -526,17 +556,21 @@ Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
 3) užtikrinti tvarkingą geodezinių punktų aplinką;
 
-4) aplinkos ministro nustatyta tvarka teikti Nacionalinei žemės tarnybai ir savivaldybės administracijos direktoriui informaciją apie geodezinių ženklų būklę;
+4) aplinkos ministro nustatyta tvarka teikti informaciją Nacionalinei žemės tarnybai apie valstybinių geodezinio pagrindo tinklų punktų būklę ir savivaldybės administracijos direktoriui – apie savivaldybės geodezinio pagrindo punktų būklę;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
-5) ne rečiau kaip kas 3 metus tobulinti kvalifikaciją pagal Nacionalinės žemės tarnybos direktoriaus patvirtintas geodezininko kvalifikacijos tobulinimo programas.
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
+
+5) ne rečiau kaip kas 3 metus tobulinti kvalifikaciją pagal Nacionalinės žemės tarnybos vadovo tvirtinamas geodezininko kvalifikacijos tobulinimo programas.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 2. Atlikdamas teminius geodezijos ir kartografijos darbus Lietuvos Respublikos teritorijoje, geodezininkas turi teisę:
 
@@ -554,21 +588,65 @@ Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
 14 straipsnis. Geodezininko veiklos pažeidimai, geodezininko kvalifikacijos pažymėjimo galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas
 
-1. Jeigu geodezininkas, atlikdamas šio įstatymo 12 straipsnio 9 dalyje nurodytus darbus, nesilaiko šio įstatymo 13 straipsnio 1 dalyje nustatytų jo veiklai keliamų reikalavimų ir kitų Lietuvos Respublikos įstatymų, teisės aktų, techninių reglamentų, standartų, reglamentuojančių geodezijos ir kartografijos darbų vykdymą, tai laikoma geodezininko veiklos pažeidimu.
+1. Jeigu geodezininkas, atlikdamas šio įstatymo 12 straipsnio 9 dalyje nurodytus darbus, nesilaiko šio įstatymo 13 straipsnio 1 dalyje nustatytų jo veiklai keliamų reikalavimų ir kitų Lietuvos Respublikos įstatymų, teisės aktų, techninių reglamentų, standartų, reglamentuojančių geodezijos ir kartografijos darbų vykdymą, tai laikoma geodezininko veiklos pažeidimu. Šiame straipsnyje numatytos poveikio priemonės geodezininkui už jo veiklos pažeidimus gali būti taikomos ne vėliau kaip per 5 metus nuo pažeidimo padarymo dienos. Esant trunkamam pažeidimui, 5 metų terminas, per kurį geodezininkui gali būti taikomos tam tikros poveikio priemonės, skaičiuojamas nuo pažeidimo paaiškėjimo dienos.
 
-2. Geodezininko veiklos pažeidimai pagal pobūdį gali būti:
+Straipsnio dalies pakeitimai:
 
-1) nešiurkštūs, tai yra pažeidimai, kurie nesukelia pagrindo žalai tretiesiems asmenims atsirasti arba dėl kurių galėjo atsirasti žala tretiesiems asmenims ir kuriuos pašalinti gali pats geodezininkas;
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
-2) šiurkštūs, tai yra pažeidimai, dėl kurių atsirado arba galėjo atsirasti žala tretiesiems asmenims ir kurių pats geodezininkas negali pašalinti.
+2. Geodezininko veiklos pažeidimai pagal pobūdį skirstomi į:
 
-3. Jeigu Nacionalinė žemės tarnyba nustato geodezininko veiklos pažeidimą, nurodytą šio straipsnio 2 dalies 1 punkte, geodezininkas įspėjamas, kad ne vėliau kaip per 20 darbo dienų nuo įspėjimo gavimo dienos jis turi pašalinti nustatytą pažeidimą ir pateikti šio pažeidimo pašalinimo įrodymo dokumentus.
+1) mažareikšmius pažeidimus. Mažareikšmiais pažeidimais laikomi įstatymų, kitų teisės aktų, reglamentuojančių šio įstatymo 12 straipsnio 9 dalyje nurodytus darbus, pažeidimai, kurie nesukelia žalos užsakovui ir (ar) tretiesiems asmenims. Kai mažareikšmį pažeidimą pašalinti įmanoma, šį pažeidimą padariusiam geodezininkui Nacionalinė žemės tarnyba pateikia rašytinį įspėjimą pašalinti mažareikšmį teisės aktų reikalavimų pažeidimą per šio straipsnio 3 dalyje nurodytą terminą;
 
-4. Nacionalinės žemės tarnybos sprendimu geodezininko kvalifikacijos pažymėjimo galiojimas sustabdomas 3 mėnesiams, jeigu iki termino, per kurį jis turėjo pašalinti pažeidimus, pabaigos geodezininkas nepateikė pažeidimų pašalinimo įrodymo dokumentų. Kai geodezininkas per geodezininko kvalifikacijos pažymėjimo galiojimo sustabdymo terminą ištaiso veiklos pažeidimus, nurodytus šio straipsnio 2 dalies 1 punkte, ir pateikia šių pažeidimų pašalinimo įrodymo dokumentus, geodezininko kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinamas ne vėliau kaip per 10 darbo dienų nuo šių dokumentų pateikimo dienos.
+2) nešiurkščius pažeidimus. Nešiurkščiais pažeidimais laikomi įstatymų, kitų teisės aktų, reglamentuojančių šio įstatymo 12 straipsnio 9 dalyje nurodytus darbus, pažeidimai, dėl kurių atsirado arba galėjo atsirasti žala užsakovui ir (ar) tretiesiems asmenims, tačiau dėl šių pažeidimų negalėjo būti apribota arba nebuvo apribota užsakovo ir (ar) trečiųjų asmenų teisė valdyti turtą, juo naudotis ir (ar) disponuoti (toliau – nedidelė žala). Nedidelės žalos dydis nustatomas Vyriausybės ar jos įgaliotos institucijos vadovo nustatyta tvarka. Kai nešiurkštų pažeidimą pašalinti įmanoma, šį pažeidimą padariusiam geodezininkui Nacionalinė žemės tarnyba pateikia rašytinį įspėjimą pašalinti nešiurkštų teisės aktų reikalavimų pažeidimą per šio straipsnio 3 dalyje nurodytą terminą;
 
-5. Geodezininko kvalifikacijos pažymėjimo galiojimas panaikinamas Nacionalinės žemės tarnybos sprendimu, jeigu:
+3) šiurkščius pažeidimus. Šiurkščiais pažeidimais laikomi įstatymų, kitų teisės aktų, reglamentuojančių šio įstatymo 12 straipsnio 9 dalyje nurodytus darbus, pažeidimai, dėl kurių galėjo būti apribota arba buvo apribota užsakovo ir (ar) trečiųjų asmenų teisė valdyti turtą, juo naudotis ir (ar) disponuoti (toliau – didelė žala). Didelės žalos dydis nustatomas Vyriausybės ar jos įgaliotos institucijos vadovo nustatyta tvarka.
 
-1) nustatoma, kad geodezininkas du kartus per vienus metus padarė šio straipsnio 2 dalies 1 punkte nurodyto pobūdžio pažeidimą. Šiuo atveju geodezininko kvalifikacijos pažymėjimo galiojimas panaikinamas neatsižvelgiant į tai, ar buvo sustabdytas jo galiojimas;
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
+
+3. Jeigu Nacionalinė žemės tarnyba nustato geodezininko veiklos pažeidimą, nurodytą šio straipsnio 2 dalies 1 ar 2 punkte, ir šį pažeidimą pašalinti įmanoma, geodezininkui pateikiamas rašytinis įspėjamas, kad ne vėliau kaip per 20 darbo dienų nuo rašytinio įspėjimo gavimo dienos jis turi pašalinti nustatytą pažeidimą ir pateikti šio pažeidimo pašalinimo įrodymo dokumentus. Terminas nurodytiems pažeidimams pašalinti gali būti pratęsiamas vieną kartą 20 darbo dienų laikotarpiui. Jeigu Nacionalinė žemės tarnyba nustato geodezininko veiklos mažareikšmį ir (ar) nešiurkštų pažeidimą, kai pažeidimo pašalinti neįmanoma, geodezininkui pateikiamas rašytinis įspėjamas, kad antrą kartą per vienus metus nuo šio rašytinio įspėjimo gavimo dienos nustačius mažareikšmį pažeidimą šio asmens geodezininko kvalifikacijos pažymėjimo galiojimas bus 2 mėnesiams sustabdomas ir (ar) nustačius nešiurkštų pažeidimą – šio asmens geodezininko kvalifikacijos pažymėjimo galiojimas bus panaikintas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
+
+4. Nacionalinės žemės tarnybos vadovo sprendimu geodezininko kvalifikacijos pažymėjimo galiojimas sustabdomas:
+
+1) 3 mėnesiams, kai Nacionalinė žemės tarnyba nustato geodezininko veiklos mažareikšmį ir (ar) nešiurkštų pažeidimą, jeigu per šio straipsnio 3 dalyje nustatytą terminą geodezininkas nepateikia pažeidimų pašalinimo įrodymo dokumentų;
+
+2) 6 mėnesiams, kai per 3 metus nuo kvalifikacijos pažymėjimo išdavimo ar vėliau kas 3 metus, turėdamas kvalifikacijos pažymėjimą, geodezininkas netobulino kvalifikacijos pagal Nacionalinės žemės tarnybos vadovo tvirtinamas geodezininko kvalifikacijos tobulinimo programas. Jeigu praėjus 6 mėnesių kvalifikacijos pažymėjimo galiojimo sustabdymo terminui geodezininkas nepateikia Nacionalinei žemės tarnybai kvalifikacijos tobulinimo įrodymo dokumentų dėl priežasčių, kurias Nacionalinė žemės tarnyba pripažįsta svarbiomis, šį terminą Nacionalinė žemės tarnyba gali vieną kartą atnaujinti;
+
+3) 2 mėnesiams, kai Nacionalinė žemės tarnyba antrą kartą per vienus metus nustato mažareikšmį geodezininko veiklos pažeidimą, kurio pašalinti neįmanoma.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
+
+41. Kai geodezininkas per šio straipsnio 4 dalies 1 punkte nurodytą geodezininko kvalifikacijos pažymėjimo galiojimo sustabdymo terminą ištaiso nustatytus šio straipsnio 2 dalies 1 ar 2 punkte nurodytus pažeidimus, kuriuos pašalinti įmanoma, ir pateikia pažeidimų pašalinimo įrodymo dokumentus, ne vėliau kaip per 5 darbo dienas nuo šių dokumentų pateikimo dienos kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinamas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
+
+42. Šio straipsnio 4 dalies 2 punkte nurodytu atveju geodezininko kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinamas ne vėliau kaip per 5 darbo dienas Nacionalinei žemės tarnybai pateikus kvalifikacijos tobulinimo įrodymo dokumentus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
+
+5. Geodezininko kvalifikacijos pažymėjimo galiojimas panaikinamas Nacionalinės žemės tarnybos vadovo sprendimu, jeigu:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
+
+1) nustatoma, kad geodezininkas du kartus per vienus metus padarė šio straipsnio 2 dalies 2 punkte nurodyto pobūdžio pažeidimą. Šiuo atveju geodezininko kvalifikacijos pažymėjimo galiojimas panaikinamas neatsižvelgiant į tai, ar buvo sustabdytas jo galiojimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 2) sustabdžius geodezininko kvalifikacijos pažymėjimo galiojimą, geodezininkas toliau tęsė veiklą;
 
@@ -578,11 +656,19 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
-4) geodezininkas padarė šio straipsnio 2 dalies 2 punkte nurodyto pobūdžio pažeidimą;
+4) geodezininkas padarė šio straipsnio 2 dalies 3 punkte nurodyto pobūdžio pažeidimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 5) geodezininkas per Nacionalinės žemės tarnybos nustatytą terminą nepateikė prašomų dokumentų ir duomenų, kurių reikia informacijai apie jo padarytus pažeidimus ištirti;
 
-6) geodezininkas nevykdė šio įstatymo 13 straipsnio 1 dalies 5 punkte nustatyto reikalavimo;
+6) pasibaigus šio straipsnio 4 dalies 2 punkte nurodytam 6 mėnesių terminui, jeigu Nacionalinė žemės tarnyba šio termino neatnaujina, arba pasibaigus atnaujintam kvalifikacijos pažymėjimo galiojimo sustabdymo terminui, geodezininkas Nacionalinei žemės tarnybai nepateikia kvalifikacijos tobulinimo įrodymo dokumentų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 7) geodezininkas pateikė melagingus duomenis geodezininko kvalifikacijos pažymėjimui gauti;
 
@@ -608,7 +694,11 @@ GEODEZINIAI PUNKTAI ir JŲ APSAUGA
 
 2. Valstybiniai ir savivaldybės geodeziniai punktai yra saugomi valstybės, o specialiųjų geodezinių punktų apsaugą užtikrina specialiojo geodezinio tinklo savininkas.
 
-3. Geodeziniai punktai žymimi geodeziniais ženklais; šių ženklų standartus nustato Nacionalinės žemės tarnybos direktorius.
+3. Geodeziniai punktai žymimi geodeziniais ženklais; šių ženklų standartus nustato Nacionalinės žemės tarnybos vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 16 straipsnis. Geodezinių ženklų įrengimas ir apsauga
 
@@ -628,11 +718,13 @@ GEODEZINIAI PUNKTAI ir JŲ APSAUGA
 
 5. Geodeziniai ženklai gali būti perkeliami:
 
-1) valstybinių geodezinių tinklų – aplinkos ministro nustatyta tvarka;
+1) valstybinių geodezinių tinklų – Nacionalinės žemės tarnybos vadovo nustatyta tvarka;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 2) savivaldybės geodezinių tinklų – savivaldybės administracijos direktoriaus nustatyta tvarka;
 
@@ -850,13 +942,19 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
-5. Aplinkos ministerija planuoja, koordinuoja ir kontroliuoja Topografijos ir inžinerinės infrastruktūros informacinės sistemos Žemės paviršiaus gamtinių ir antropogeninių objektų erdvinių duomenų rinkinio tvarkymo darbus, tvirtina šio rinkinio specifikaciją ir tvarkymo aprašą.
+5. Aplinkos ministerija planuoja, koordinuoja ir kontroliuoja Topografijos ir inžinerinės infrastruktūros informacinės sistemos Žemės paviršiaus gamtinių ir antropogeninių objektų erdvinių duomenų rinkinio tvarkymo darbus, taip pat suprojektuotų ir numatomų įrengti objektų erdvinių duomenų rinkinių tvarkymo darbus. Šių rinkinių specifikacijas ir tvarkymo aprašus tvirtina aplinkos ministras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
-6. Aplinkos ministerija planuoja, koordinuoja ir kontroliuoja Topografijos ir inžinerinės infrastruktūros informacinės sistemos suprojektuotų ir numatomų įrengti objektų erdvinių duomenų rinkinių tvarkymo darbus, tvirtina šių rinkinių specifikacijas ir tvarkymo aprašus.
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
+
+6. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 25 straipsnis. Topografijos ir inžinerinės infrastruktūros informacinės sistemos erdviniai duomenys, jų teisinis statusas ir prieiga prie jų
 
@@ -896,7 +994,11 @@ Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
 3. Georeferencinio pagrindo kadastro duomenų tvarkymo tvarka nustatoma Georeferencinio pagrindo kadastro nuostatuose.
 
-4. Savivaldybės erdvinių duomenų rinkinį, naudojamą Georeferencinio pagrindo kadastro duomenims tvarkyti, savivaldybės neatlygintinai teikia šio kadastro tvarkytojui Georeferencinio pagrindo kadastro nuostatuose nustatyta tvarka.
+4. Neteko galios nuo 2024-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 5. Georeferencinio pagrindo kadastro duomenys teikiami neatlygintinai.
 
@@ -936,7 +1038,11 @@ Lietuvos Respublikos globalinės padėties nustatymo sistemos nuolatinių stoči
 
 29 straipsnis. Lietuvos Respublikos globalinės padėties nustatymo sistemos nuolatinių stočių tinklo paskirtis
 
-1. LitPOS paskirtis – apskaičiuoti ir eliminuoti GPNS matavimo priemonėmis gaunamas GPNS palydovų signalų paklaidas, naudojant GPNS matavimo įrangą objektų erdvinei padėčiai žemės paviršiuje Lietuvos Respublikos teritorijoje nustatyti, ir pagal šias pataisas pakoreguotus geodezinio pagrindo duomenis telekomunikacinėmis ryšio priemonėmis teikti LitPOS naudotojams.
+1. LitPOS paskirtis – apskaičiuoti ir eliminuoti GPNS matavimo priemonėmis gaunamas GPNS palydovų signalų paklaidas, naudojant GPNS matavimo įrangą objektų erdvinei padėčiai žemės paviršiuje Lietuvos Respublikos teritorijoje nustatyti, ir pagal šias pataisas pakoreguotus geodezinio pagrindo duomenis elektroniniais ryšiais nepertraukiamai teikti LitPOS naudotojams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
 
 2. LitPOS duomenys ir kokybės parametrai teikiami neatlygintinai.
 
@@ -1059,6 +1165,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
 Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 2, 7, 9, 10, 11, 12, 13, 14, 16, 17, 19, 20, 21, 24, 27 ir 31 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
+
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 9, 10, 12, 13, 14, 15, 16, 24, 27 ir 29 straipsnių pakeitimo įstatymas
 
 part_b27a9b352df448489506d8090a45631f_end
 
