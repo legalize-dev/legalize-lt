@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2023-10-26"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2023-10-26 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-03-15
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -1586,13 +1586,21 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 270 straipsnis. Aplinkos apsaugos arba gamtos išteklių naudojimo arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar vykdoma pavojinga veikla, priežiūros ar naudojimo taisyklių pažeidimas
 
-1. Tas, kas pažeidė teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar vykdoma pavojinga veikla, priežiūros ar naudojimo taisykles, jeigu tai sukėlė pavojų žmogaus gyvybei ar sveikatai arba dėl to galėjo būti padaryta didelės žalos orui, žemei, vandeniui, gyvūnams ar augalams ar atsirasti kitų sunkių padarinių aplinkai,
+1. Tas, kas pažeidė teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo, arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar vykdoma pavojinga veikla, priežiūros ar naudojimo taisykles, jeigu tai sukėlė pavojų žmogaus gyvybei ar sveikatai arba dėl to galėjo būti padaryta didelė žala orui, žemei, dirvožemiui, vandeniui, gyvūnams, augalams, kitiems gyviesiems organizmams, organinėms ir neorganinėms medžiagoms ar antropogeniniams komponentams arba atsirasti kitų sunkių padarinių bet kuriam iš šių aplinkos elementų,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2. Tas, kas padarė šio straipsnio 1 dalyje nurodytą veiką arba sistemingai pažeidinėjo teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar vykdoma pavojinga veikla, priežiūros ar naudojimo taisykles, jeigu dėl to buvo padaryta didelės žalos orui, žemei, vandeniui, gyvūnams ar augalams ar atsirado kitų sunkių padarinių aplinkai,
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2152, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14338
+
+2. Tas, kas padarė šio straipsnio 1 dalyje nurodytą veiką arba sistemingai pažeidinėjo teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo, arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar vykdoma pavojinga veikla, priežiūros ar naudojimo taisykles, jeigu dėl to buvo padaryta didelė žala orui, žemei, dirvožemiui, vandeniui, gyvūnams, augalams, kitiems gyviesiems organizmams, organinėms ir neorganinėms medžiagoms ar antropogeniniams komponentams arba atsirado kitų sunkių padarinių bet kuriam iš šių aplinkos elementų,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2152, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14338
 
 3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -6620,25 +6628,39 @@ Nr. XIV-2187, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20768
 
 Lietuvos Respublikos baudžiamojo kodekso 68-1 straipsnio pakeitimo ir 68-2 straipsnio pripažinimo netekusiu galios įstatymas
 
+59.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2152, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14338
+
+Lietuvos Respublikos baudžiamojo kodekso 270, 271-1, 277-1 straipsnių pakeitimo ir Kodekso papildymo 270-4 straipsniu įstatymas
+
 2771 straipsnis. Sąvokų išaiškinimas
 
-Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
+1. Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
 
-1) Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių sąraše nurodytų ir 0(Ex), 1(E), 2(V) kategorijoms priskirtų saugomų rūšių laukiniai gyvūnai, augalai ir grybai;
+1) į Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių sąrašą vadovaujantis Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymu įrašytų rūšių gyvūnai, augalai ir grybai;
 
-2) 1996 m. gruodžio 9 d. Tarybos reglamento (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą A ir B prieduose nurodytų saugomų rūšių laukiniai gyvūnai ir augalai;
+2) Reglamento (EB) Nr. 338/97 A ir B prieduose nurodytų rūšių gyvūnai, augalai ir grybai;
 
-3) 1992 m. gegužės 21 d. Tarybos direktyvos 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos IV priede nurodytų saugomų rūšių laukiniai gyvūnai ir augalai;
+3) į Europos bendrijos svarbos gyvūnų ir augalų rūšių, kurioms reikalinga griežta apsauga, sąrašą vadovaujantis Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymu įrašytų rūšių gyvūnai ir augalai;
 
-4) 1979 m. balandžio 2 d. Tarybos direktyvos 79/409/EEB dėl laukinių paukščių apsaugos I priede nurodyti ir šios direktyvos 4 straipsnio 2 dalyje nurodyti laukiniai paukščiai.
+4) į Europos bendrijos paukščių rūšių, kurių buveinėms taikomos specialios apsaugos priemonės, kad jos savo natūraliame areale būtų išsaugotos, išliktų ir veistųsi, sąrašą vadovaujantis Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymu įrašytų rūšių paukščiai.
 
-Kodeksas papildytas straipsniu:
+2. Šio kodekso 270 straipsnyje nurodytos pavojingos medžiagos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme.
 
-Nr. XI-579, 2009-12-17, Žin., 2010, Nr. 1-1 (2010-01-05)
+3. Šio kodekso 270 straipsnyje nurodyti potencialiai pavojingi įrenginiai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatyme.
+
+4. Šio kodekso 2704 straipsnyje nurodytos nepavojingosios atliekos ir pavojingosios atliekos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos atliekų tvarkymo įstatyme.
+
+5. Šio kodekso 2704 straipsnyje nurodytos inertinės atliekos yra atliekos, kuriose nevyksta pastebimi cheminiai, fizikiniai ar biologiniai pokyčiai, kurios netirpsta, nedega ar kitaip nereaguoja fizikiniu ar cheminiu požiūriu, nebiodegraduoja ir nesukelia kitoms medžiagoms, su kuriomis liečiasi, neigiamo poveikio, galinčio lemti aplinkos taršą ar pakenkti žmonių sveikatai.
+
+6. Laikoma, kad šio kodekso 270, 2704 ir 2711 straipsniuose nurodyta žala orui, žemei, dirvožemiui, vandeniui, gyvūnams, augalams, kitiems gyviesiems organizmams, organinėms ir neorganinėms medžiagoms ar antropogeniniams komponentams yra didelė, kai nustatoma, kad tam tikram aplinkos elementui padarytas reikšmingas neigiamas poveikis, kaip jis apibrėžiamas Lietuvos Respublikos aplinkos apsaugos įstatyme, arba bendra vienam ar keliems aplinkos elementams padarytos žalos, įvertintos pinigais, suma viršija 400 MGL.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)
+Nr. XIV-2152, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14338
 
 XXXIX SKYRIUS
 
@@ -6662,15 +6684,17 @@ Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434
 
 2711 straipsnis. Statybą reglamentuojančių teisės aktų reikalavimų pažeidimas
 
-1. Tas, kas vykdė savavališką statybą ar kitaip pažeidė statybą reglamentuojančių teisės aktų reikalavimus, jeigu dėl to įvyko statinio avarija ir žuvo žmogus arba buvo sunkiai sutrikdyta žmogaus sveikata, arba buvo padaryta didelė žala aplinkai ar didelė turtinė žala asmeniui,
+1. Tas, kas vykdė savavališką statybą ar kitaip pažeidė statybą reglamentuojančių teisės aktų reikalavimus, jeigu dėl to buvo padaryta didelė žala orui, žemei, dirvožemiui, vandeniui, gyvūnams, augalams, kitiems gyviesiems organizmams, organinėms ir neorganinėms medžiagoms ar antropogeniniams komponentams arba atsirado kitų sunkių padarinių bet kuriam iš šių aplinkos elementų,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
-2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2. Šio straipsnio 1 dalyje numatyta veika yra nusikalstama ir tais atvejais, kai ji padaryta dėl neatsargumo.
 
-Kodeksas papildytas straipsniu:
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
-Nr. XI-994, 2010-07-02, Žin., 2010, Nr. 84-4403 (2010-07-15)
+Straipsnio pakeitimai:
+
+Nr. XIV-2152, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14338
 
 1511 straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą
 
@@ -7631,4 +7655,20 @@ Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
 XL SKYRIUS
 
 NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI VIEŠAJAI TVARKAI
+
+2704 straipsnis. Atliekų išmetimas į aplinką
+
+1. Tas, kas neteisėtai išmetė į aplinką 15 kubinių metrų ir daugiau nepavojingųjų atliekų (išskyrus neteisėtą inertinių atliekų panaudojimą), jeigu dėl to nebuvo padaryta didelė žala orui, žemei, dirvožemiui, vandeniui, gyvūnams, augalams, kitiems gyviesiems organizmams, organinėms ir neorganinėms medžiagoms ar antropogeniniams komponentams ir neatsirado kitų sunkių padarinių bet kuriam iš šių aplinkos elementų,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+
+2. Tas, kas neteisėtai išmetė į aplinką 7 kubinius metrus ir daugiau pavojingųjų atliekų, jeigu dėl to nebuvo padaryta didelė žala orui, žemei, dirvožemiui, vandeniui, gyvūnams, augalams, kitiems gyviesiems organizmams, organinėms ir neorganinėms medžiagoms ar antropogeniniams komponentams ir neatsirado kitų sunkių padarinių bet kuriam iš šių aplinkos elementų,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+Papildyta straipsniu:
+
+Nr. XIV-2152, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14338
 
