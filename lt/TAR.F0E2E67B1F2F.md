@@ -4,7 +4,7 @@ identifier: "TAR.F0E2E67B1F2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-03-19"
-last_updated: "2023-05-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-05-05
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
 
@@ -742,23 +742,23 @@ APGYVENDINIMO PASLAUGOS
 
 32 straipsnis. Apgyvendinimo paslaugų teikimo bendrieji reikalavimai
 
-1. Apgyvendinimo paslaugų teikėjas privalo:
+Apgyvendinimo paslaugų teikėjas privalo:
 
 1) teikti apgyvendinamiems asmenims tikslią ir teisingą informaciją apie apgyvendinimo paslaugų teikimo vietą, žvaigždučių skaičių (išskyrus neklasifikuojamųjų apgyvendinimo paslaugų teikėjus), teikiamas paslaugas ir apgyvendinimo paslaugų kainą;
 
 2) registruoti išankstinius apgyvendinimo paslaugų užsakymus (rezervavimą);
 
-3) užtikrinti, kad apgyvendinami asmenys, išskyrus kartu su jais atvykusius jų sutuoktinius ar nepilnamečius vaikus, asmeniškai užpildytų ir pasirašytų registracijos korteles ir patvirtintų savo tapatybę – pateiktų galiojantį asmens tapatybę patvirtinantį dokumentą. Asmens duomenys tvarkomi 1990 m. birželio 19 d. Konvencijos dėl Šengeno susitarimo, 1985 m. birželio 14 d. sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo 45 straipsnio 1 dalies b punkte nurodytais tikslais;
+3) užtikrinti, kad apgyvendinami asmenys, išskyrus kartu su jais atvykusius nepilnamečius vaikus, patvirtintų savo tapatybę – pateiktų apgyvendinimo paslaugos teikėjui galiojantį asmens tapatybę patvirtinantį dokumentą. Apgyvendinimo paslaugų teikėjas ne vėliau kaip per 24 valandas nuo asmens apgyvendinimo dienos informuoja apie apgyvendintus asmenis, išskyrus kartu su jais atvykusius nepilnamečius vaikus, – elektroniniu būdu pateikia reikiamus asmens tapatybę patvirtinančiuose dokumentuose esančius duomenis ekonomikos ir inovacijų ministro nustatyta tvarka ir priemonėmis. Asmens duomenys tvarkomi keliautojų ir turistų apskaitos ir 1990 m. birželio 19 d. Konvencijos dėl Šengeno susitarimo, 1985 m. birželio 14 d. sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo 45 straipsnio 1 dalies b punkte nurodytais tikslais;
 
-4) saugoti šios dalies 3 punkte nurodytose registracijos kortelėse pateiktus duomenis 5 metus;
+4) pasikeitus šio įstatymo 33 straipsnio 1 dalyje ar 34 straipsnio 1 dalyje nurodytuose dokumentuose pateiktiems duomenims, per 10 darbo dienų nuo to momento, kai ši informacija tapo ar turėjo tapti jam žinoma, pateikti Vyriausybės įgaliotai institucijai patikslintą informaciją;
 
-5) pasikeitus šio įstatymo 33 straipsnio 1 dalyje ar 34 straipsnio 1 dalyje nurodytuose dokumentuose pateiktiems duomenims, per 10 darbo dienų nuo to momento, kai ši informacija tapo ar turėjo tapti jam žinoma, pateikti Vyriausybės įgaliotai institucijai patikslintą informaciją;
+5) nutraukęs apgyvendinimo paslaugų teikimą, per 10 darbo dienų nuo apgyvendinimo paslaugų teikimo nutraukimo dienos apie tai informuoti Vyriausybės įgaliotą instituciją;
 
-6) nutraukęs apgyvendinimo paslaugų teikimą, per 10 darbo dienų nuo apgyvendinimo paslaugų teikimo nutraukimo dienos apie tai informuoti Vyriausybės įgaliotą instituciją;
+6) užtikrinti sveikatos apsaugos ministro patvirtintų apgyvendinimo paslaugų sveikatos saugos reikalavimų vykdymą.
 
-7) užtikrinti sveikatos apsaugos ministro patvirtintų apgyvendinimo paslaugų sveikatos saugos reikalavimų vykdymą.
+Straipsnio pakeitimai:
 
-2. Ekonomikos ir inovacijų ministras tvirtina apgyvendinamų asmenų registravimo tvarkos aprašą.
+Nr. XIV-1464, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22574
 
 33 straipsnis. Apgyvendinimo paslaugų klasifikavimo pažymėjimo išdavimas ir panaikinimas
 
@@ -940,8 +940,6 @@ c) informuodamas ir konsultuodamas gyventojus ir verslo subjektus apie turizmo p
 
 8) renka, kaupia, saugo, sistemina, analizuoja, vertina ir kitaip tvarko šio įstatymo 32 straipsnio 1 dalies 3 punkte ir kituose turizmo srities teisės aktuose nustatytus duomenis apie turizmo išteklius, keliautojų ir turistų asmens duomenis;
 
-TAR pastaba. 40 straipsnio 1 dalies 8 punktas įsigalioja 2024-01-01.
-
 9) atlieka kitas funkcijas, susijusias su Lietuvos Respublikos, kaip turistinės vietovės, žinomumo didinimu, atvykstamojo ir vietinio turizmo plėtra.
 
 2. Šio straipsnio 1 dalyje nustatyta veikla yra finansuojama iš Ekonomikos ir inovacijų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
@@ -993,4 +991,140 @@ KELIONIŲ PARDAVIMO AGENTAS
 2. Asmens duomenų tvarkymo Nacionalinėje turizmo informacinėje sistemoje tikslas – keliautojų ir turistų apskaitos ir 1990 m. birželio 19 d. Konvencijos dėl Šengeno susitarimo, 1985 m. birželio 14 d. sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo 45 straipsnio 1 dalies b punkte nurodyti tikslai.
 
 3. Institucijos ir įstaigos, kiti juridiniai ir (ar) fiziniai asmenys ekonomikos ir inovacijų ministro patvirtintuose Nacionalinės turizmo informacinės sistemos nuostatuose nustatyta tvarka privalo teikti į Nacionalinę turizmo informacinę sistemą duomenis (įskaitant asmens duomenis), būtinus šio įstatymo nustatytiems tikslams pasiekti.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
+
+Lietuvos Respublikos
+
+turizmo įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB.
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-239, 2001-04-05, Žin., 2001, Nr. 34-1128 (2001-04-20), i. k. 1011010ISTA00IX-239
+
+Lietuvos Respublikos turizmo įstatymo 18 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1211, 2002-12-03, Žin., 2002, Nr. 123-5507 (2002-12-24), i. k. 1021010ISTA0IX-1211
+
+Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1854, 2003-11-25, Žin., 2003, Nr. 114-5119 (2003-12-05), i. k. 1031010ISTA0IX-1854
+
+Lietuvos Respublikos turizmo įstatymo 14 ir 15 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2476, 2004-10-12, Žin., 2004, Nr. 156-5689 (2004-10-26), i. k. 1041010ISTA0IX-2476
+
+Lietuvos Respublikos turizmo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+
+Lietuvos Respublikos turizmo įstatymo 2, 19, 23 straipsnių pakeitimo ir papildymo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1496, 2011-06-22, Žin., 2011, Nr. 85-4138 (2011-07-13), i. k. 1111010ISTA0XI-1496
+
+Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 18 straipsnių, septintojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 4-1 straipsniu ir 20 straipsnio pripažinimo netekusiu galios įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1307, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17033
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 8 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1724, 2015-05-19, paskelbta TAR 2015-05-27, i. k. 2015-08126
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 18 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1723, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08223
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 4-1, 6, 7, 8, 15 ir 16 straipsnių pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1447, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11758
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 9, 10, 15, 23, 28, 29, 30, 31, 32, 34, 36, 37, 38, 39 ir 41 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2862, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08529
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 15 straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 36, 37, 38, 39, 40 ir 41 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1464, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22574
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas
 
