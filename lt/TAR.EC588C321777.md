@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2023-10-26"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2023-10-26 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-03-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -4123,17 +4123,25 @@ Nr. XIII-2330, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12371
 
 55 straipsnis. Įgaliotieji atstovai
 
-1. Nukentėjusiojo, civilinio ieškovo, civilinio atsakovo, liudytojo, užstato davėjo, asmens, kurio nuosavybės teisės laikinai apribotos ar konfiskuotas turtas, asmens, kurį siekiama įpareigoti atskleisti informacijos šaltinio paslaptį, įgaliotuoju atstovu laikomas asmuo, teikiantis teisinę pagalbą šiems proceso dalyviams, ginantis jų teises ir teisėtus interesus.
+1. Nukentėjusiojo, nepilnamečio, kurio interesais pateiktas skundas, pareiškimas ar pranešimas apie nusikalstamą veiką, civilinio ieškovo, civilinio atsakovo, liudytojo, užstato davėjo, asmens, kurio nuosavybės teisės laikinai apribotos ar konfiskuotas turtas, asmens, kurį siekiama įpareigoti atskleisti informacijos šaltinio paslaptį, įgaliotuoju atstovu laikomas asmuo, teikiantis teisinę pagalbą šiems proceso dalyviams, ginantis jų teises ir teisėtus interesus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2292, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23071
 
 2. Įgaliotuoju atstovu gali būti advokatas arba advokato pavedimu advokato padėjėjas, o ikiteisminio tyrimo pareigūno, prokuroro ar teisėjo leidimu – ir kitas aukštąjį teisinį išsilavinimą turintis asmuo, kurį proceso dalyvis įgaliojo atstovauti savo interesams. Juridinio asmens atstovu gali būti juridinio asmens vadovas arba įgaliotas darbuotojas ar advokatas.
 
 3. Įgaliotajam atstovui leidžiama dalyvauti procese, kai ikiteisminio tyrimo pareigūnas ar prokuroras dėl atstovo dalyvavimo procese priima nutarimą, o teismas – nutartį. Atstovas gali dalyvauti procese kartu su atstovaujamu asmeniu. Atstovas, išskyrus liudytojo atstovą, taip pat gali dalyvauti vietoj atstovaujamo asmens. Liudytojo įgaliotojo atstovo neatvykimas netrukdo toliau tęsti proceso veiksmus. Atstovaujamas asmuo gali bet kuriuo metu atsisakyti atstovo paslaugų arba pasirinkti kitą atstovą.
 
-4. Ikiteisminio tyrimo pareigūnas, prokuroras motyvuotu nutarimu ar teismas motyvuota nutartimi pripažįsta, kad įgaliotojo atstovo dalyvavimas būtinas bylose dėl nusikalstamų veikų žmogaus sveikatai, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai ar dorovei, kai nuo šių veikų nukentėjo nepilnametis, taip pat kitais atvejais, kai be įgaliotojo atstovo pagalbos nepilnamečio nukentėjusiojo teisės ir teisėti interesai nebūtų reikiamai ginami. Tokiais atvejais dėl įgaliotojo atstovo dalyvavimo atitinkamai taikomos šio Kodekso 51 ir 52 straipsnių nuostatos.
+4. Įgaliotojo atstovo dalyvavimas būtinas bylose dėl nusikalstamų veikų žmogaus sveikatai, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai ar dorovei, kai nuo šių veikų nukentėjo nepilnametis ir kai yra gautas skundas, pareiškimas ar pranešimas apie šias nusikalstamas veikas, jeigu be įgaliotojo atstovo pagalbos nepilnamečio teisės ir teisėti interesai nebūtų reikiamai ginami, taip pat kitais atvejais, kai ikiteisminio tyrimo pareigūnas, prokuroras motyvuotu nutarimu ar teismas motyvuota nutartimi pripažįsta, kad įgaliotojo atstovo dalyvavimas būtinas, nes be įgaliotojo atstovo pagalbos nepilnamečio nukentėjusiojo teisės ir teisėti interesai nebūtų reikiamai ginami. Tokiais atvejais dėl įgaliotojo atstovo dalyvavimo atitinkamai taikomos šio Kodekso 51 ir 52 straipsnių nuostatos.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1148, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13716
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2292, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23071
 
 5. Įstatymų, reglamentuojančių valstybės garantuojamos teisinės pagalbos teikimą, numatytais atvejais nukentėjusysis ir civilinis ieškovas turi teisę gauti valstybės garantuojamą teisinę pagalbą.
 
