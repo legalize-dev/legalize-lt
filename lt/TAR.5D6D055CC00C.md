@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2023-01-04"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
 
@@ -84,7 +84,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 
-8. Miesto miškas – miesto teritorijoje esantis miškas.
+8. Miesto miškas – miesto ir (ar) miesto savivaldybės teritorijoje esantis miškas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2336, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25317
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -194,7 +198,11 @@ Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 
-20. Miško žemė – apaugę mišku žemės plotai – medynai, taip pat neapaugę mišku žemės plotai – kirtavietės, žuvę medynai, miško laukymės, miško aikštės, mažosios miško pelkės, miško medelynai, sėklinės miško medžių plantacijos ir klonų rinkiniai, miškui įveisti skirta žemė. Prie miško žemės priskiriami tuose pačiuose plotuose esantys miško keliai, kvartalų, technologiniai proskiebiai ir linijos, priešgaisrinės juostos, medienos sandėlių ir kitų su mišku susijusių įrenginių (griovių, pralaidų, tiltelių, priešgaisrinių bokštų ir kitų) užimti plotai, poilsio aikštelės, žvėrių pašarų aikštelės.
+20. Miško žemė – apaugę mišku žemės plotai – medynai, taip pat neapaugę mišku žemės plotai – kirtavietės, žuvę medynai, miško laukymės, miško aikštės, mažosios miško pelkės, miško medelynai, sėklinės miško medžių plantacijos ir klonų rinkiniai, miškui įveisti skirta žemė. Prie miško žemės priskiriami tuose pačiuose plotuose esantys miško keliai, kvartalų, technologiniai proskiebiai ir linijos, siauros – iki 10 metrų pločio – inžinerinių tinklų (įskaitant laikomų kilnojamaisiais daiktais) ir jų apsaugos zonų, taip pat dviračių ir pėsčiųjų takų užimamos žemės juostos, priešgaisrinės juostos, medienos sandėlių ir kitų su mišku susijusių įrenginių (griovių, pralaidų, tiltelių, priešgaisrinių bokštų ir kitų) užimti plotai, poilsio aikštelės, žvėrių pašarų aikštelės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -390,6 +398,12 @@ Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
 
 7. Miškus miškų grupėms priskiria Aplinkos ministerija, vadovaudamasi Vyriausybės nustatyta tvarka ir normatyvais.
 
+8. Šio straipsnio apribojimai dėl miško kirtimo netaikomi įgyvendinant valstybei svarbius projektus, išskyrus apribojimus I grupės miškuose.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
+
 Straipsnio pakeitimai:
 
 Nr. X-1208, 2007-06-26, Žin., 2007, Nr. 77-3044 (2007-07-12)
@@ -452,7 +466,11 @@ Nr. XIII-2527, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19115
 
 1) miškai, esantys valstybiniuose rezervatuose, valstybinių parkų rezervatuose ir rezervatinėse apyrubėse, Kuršių nerijos nacionaliniame parke;
 
-2) miestų miškai;
+2) miestų miškai. Vadovaujantis Lietuvos Respublikos žemės įstatymu, visuomenės poreikiams paimami privačios nuosavybės teise valdomi žemės sklypai (jų dalys), kuriuose yra Lietuvos Respublikos nekilnojamojo turto registre registruoti miškų plotai, esantys miesto savivaldybės teritorijai po 1995 m. birželio 1 d. priskirtoje teritorijoje, dėl kurios priskyrimo miesto savivaldybės teritorijai Vyriausybės nutarimas priimtas iki 2024 m. sausio 1 d. Sprendimą dėl šiame punkte nurodytų žemės sklypų paėmimo visuomenės poreikiams priima Nacionalinės žemės tarnybos vadovas be valstybės institucijos ar savivaldybės tarybos prašymo. Privačios nuosavybės teise valdomi žemės sklypai (jų dalys), kuriuose yra Lietuvos Respublikos nekilnojamojo turto registre registruoti miškų plotai ir kurie patenka į miestų plėtros teritorijas, dėl kurių priskyrimo miesto savivaldybės teritorijai Vyriausybė priima sprendimą po 2024 m. sausio 1 d., Lietuvos Respublikos žemės įstatymo nustatyta tvarka paimami visuomenės poreikiams suinteresuotos institucijos (savivaldybės) prašymu ir šios institucijos lėšomis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2336, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25317
 
 3) valstybiniai miško medelynai ir sėklinės miško medžių plantacijos;
 
@@ -467,6 +485,12 @@ Nr. XIII-2527, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19115
 12. Valstybinę miško žemę patikėjimo teise valdo miškų urėdija, valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės ir kiti juridiniai asmenys. Valstybinės miško žemės sklypai patikėjimo teise perduodami šiems subjektams Vyriausybės nutarimais valstybinėms funkcijoms įgyvendinti Lietuvos Respublikos žemės įstatymo nustatyta tvarka.
 
 13. Laisvos valstybinės žemės fonde esantys ir nepanaudoti nuosavybės teisėms atkurti valstybinių miškų sklypai, kurie yra įsiterpę į valstybinės reikšmės miškus arba su jais ribojasi, arba yra 5 ha ir didesni ir turi privažiavimo kelius, Vyriausybės nutarimais perduodami patikėjimo teise valdyti miškų urėdijai. Kiti nuosavybės teisėms atkurti nepanaudoti valstybinių miškų sklypai parduodami aukcionuose, jeigu kituose įstatymuose nenustatyta kitaip.
+
+14. Privačios nuosavybės teise valdomas žemės sklypas (jo dalis), kuriame yra Lietuvos Respublikos miškų valstybės kadastre registruotas miškas, esantis miestui po 1995 m. birželio 1 d. priskirtoje teritorijoje, dėl kurios priskyrimo miestui ar miesto savivaldybės teritorijai priimtas sprendimas iki 2024 m. sausio 1 d., visuomenės poreikiams paimamas vadovaujantis Lietuvos Respublikos žemės įstatymu. Šiuo atveju sprendimą dėl žemės sklypo paėmimo visuomenės poreikiams priima Nacionalinės žemės tarnybos vadovas be valstybės institucijos ar savivaldybės tarybos prašymo. Privačios nuosavybės teise valdomas žemės sklypas (jo dalis), kuriame yra Lietuvos Respublikos miškų valstybės kadastre registruotas miškas ir kuris patenka į miestų plėtros teritorijas, dėl kurių priskyrimo miestui ar miesto savivaldybės teritorijai sprendimas priimamas po 2024 m. sausio 1 d., visuomenės poreikiams paimamas suinteresuotos institucijos prašymu ir šios institucijos lėšomis Lietuvos Respublikos žemės įstatymo nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2336, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25317
 
 Straipsnio pakeitimai:
 
@@ -931,6 +955,12 @@ Nr. XII-761, 2014-01-23, paskelbta TAR 2014-01-23, i. k. 2014-00791
 2. Miško žemės sausinimo sistemų ir miško kelių, einančių per keleto miško savininkų ir valdytojų valdas, priežiūrą ir remontą privalo atlikti tų valdų valdytojai, savininkai ar naudotojai teisės aktų nustatyta tvarka.
 
 3. Miško žemės sausinimo sistemų priežiūros darbai atliekami, miško keliai tiesiami miško valdytojų, savininkų, naudotojų, savivaldybės, Kelių fondo ir kitomis lėšomis.
+
+4. Laikinieji privažiavimo į statybvietę keliai įgyvendinant valstybei svarbius projektus gali būti įrengiami netaikant šiame įstatyme nustatytų miškotvarkos projekto rengimo ir kitų reikalavimų, išskyrus miško atkūrimą po statybos darbų pabaigos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
 
 III SKYRIUS
 
@@ -1494,9 +1524,31 @@ Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
 
 101 straipsnis. Specialiosios žemės naudojimo sąlygos miško žemėje
 
-Specialiosios žemės naudojimo sąlygos miško žemėje nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme.
+1. Specialiosios žemės naudojimo sąlygos miško žemėje nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme. Specialiųjų žemės naudojimo sąlygų apribojimai miško žemėje gali būti netaikomi įgyvendinant valstybei svarbius projektus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
 
 Papildyta straipsniu:
 
 Nr. XIII-2181, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09963
+
+102 straipsnis. Inžinerinių tinklų tiesimas, dviračių ir pėsčiųjų takų įrengimas miško žemėje
+
+1. Miško žemėje galima tiesti inžinerinius tinklus (įskaitant laikomus kilnojamaisiais daiktais), taip pat įrengti dviračių ir pėsčiųjų takus, nepaverčiant šios miško žemės kitomis naudmenomis ir jei tai nedaro esminės įtakos miško ekosistemai.
+
+2. Inžineriniai tinklai (įskaitant laikomus kilnojamaisiais daiktais) laikomi nedarančiais esminės įtakos miško ekosistemai, jei atitinka visas šias sąlygas:
+
+1) Specialiųjų žemės naudojimo sąlygų įstatyme nustatytas inžinerinių tinklų (įskaitant laikomų kilnojamaisiais daiktais) apsaugos zonos plotis neviršija 10 metrų ir šioje apsaugos zonoje leidžiama auginti želdinius;
+
+2) jie tiesiami medynu neapaugusioje miško žemėje arba tiesiami požeminiai inžineriniai tinklai (įskaitant laikomus kilnojamaisiais daiktais) nekertant miško;
+
+3) jie tiesiami IIB, III ar IV grupės miškuose.
+
+3. Dviračių ir pėsčiųjų takai laikomi nedarančiais esminės įtakos miško ekosistemai, jei įrengiami IIB, III ar IV grupių miškuose nevykdant miško kirtimo arba įrengiami šių grupių miškuose medynu neapaugusioje miško žemėje.
+
+Papildyta straipsniu:
+
+Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
 
