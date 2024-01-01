@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2022-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-05-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 50-1197, i. k. 0961010ISTA00I-1338
 
@@ -90,7 +90,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-139, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00261
 
-10) moterų ir vyrų lygių galimybių kontrolierius ir jo šeimos nariai;
+10) lygių galimybių kontrolierius ir jo šeimos nariai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1991, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11561
 
 11) vaiko teisių apsaugos kontrolierius ir jo šeimos nariai;
 
@@ -110,15 +114,11 @@ Nr. XIV-139, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00261
 
 19) akcinių bendrovių, kurių akcininkė yra valstybė ar savivaldybė, vadovai, jų pavaduotojai ir jų šeimos nariai;
 
-TAR pastaba. 19 punkto nuostatos taikomos deklaruojant 2017 metų ir vėlesnių metų turtą.
-
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 
 20) valstybės ir savivaldybės įmonių vadovai ir jų šeimos nariai, vadovų pavaduotojai ir jų šeimos nariai;
-
-TAR pastaba. 20 punkto nuostatos taikomos deklaruojant 2017 metų ir vėlesnių metų turtą.
 
 Straipsnio punkto pakeitimai:
 
@@ -127,8 +127,6 @@ Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
 Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 
 21) viešųjų įstaigų, kurių steigėja ar dalininkė yra valstybė ar savivaldybė, vadovai, jų pavaduotojai ir jų šeimos nariai;
-
-TAR pastaba. 21 punkto nuostatos taikomos deklaruojant 2017 metų ir vėlesnių metų turtą.
 
 Straipsnio punkto pakeitimai:
 
@@ -164,15 +162,11 @@ Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
 
 31) valstybės ar savivaldybių įstaigų, kitų biudžetinių įstaigų vadovai, jų pavaduotojai ir jų šeimos nariai;
 
-TAR pastaba. 31 punkto nuostatos taikomos deklaruojant 2017 metų ir vėlesnių metų turtą.
-
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 
 32) valstybės ar savivaldybių įstaigų, kitų biudžetinių įstaigų padalinių vadovai, jų pavaduotojai (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje) ir jų šeimos nariai;
-
-TAR pastaba. 32 punkto nuostatos taikomos deklaruojant 2017 metų ir vėlesnių metų turtą.
 
 Straipsnio punkto pakeitimai:
 
@@ -194,7 +188,11 @@ Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 
 35) Lietuvos Respublikos Vyriausybės siūlymu į pareigas priimti Europos Komisijos nariai, Audito Rūmų nariai, Europos Sąjungos Teisingumo Teismo ir Bendrojo Teismo nariai, Regionų komiteto nariai, Europos ekonomikos ir socialinių reikalų komiteto nariai, teisminių ir kitokių tarptautinių institucijų pareigūnai ir jų šeimos nariai;
 
-36) kandidatai į pareigas, nurodytas šio straipsnio 1 dalies 5–23 ir 29–35 punktuose;
+36) kandidatai į pareigas, nurodytas šio straipsnio 1 dalies 5 punkte (išskyrus kandidatus į valstybės tarnautojo pareigas ir jų šeimos narius), 6–23, 29–35 ir 38 punktuose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-1991, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11561
 
 37) politinės partijos nariai ir jų šeimos nariai, išskyrus asmenis, kurių politinės partijos nario mokestis per kalendorinius metus neviršija 360 eurų;
 
@@ -218,21 +216,25 @@ Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
 
 3. Nepilnamečių šeimos narių turtą deklaruoja vienas iš tėvų (įtėvių).
 
-4. Valstybės tarnybos tvarkymo funkcijas atliekanti įstaiga iki kalendorinių metų vasario 1 dienos turi pateikti centriniam mokesčio administratoriui gyventojų, kalendoriniais metais, einančiais prieš kalendorinius metus, kuriais pateikiamas šis sąrašas, ėjusių valstybės tarnautojo pareigas, taip pat kandidatavusių į šias pareigas gyventojų vardinį sąrašą.
+4. Vyriausybės įgaliota įstaiga iki kalendorinių metų vasario 1 dienos turi pateikti centriniam mokesčio administratoriui gyventojų, kalendoriniais metais, einančiais prieš kalendorinius metus, kuriais pateikiamas šis sąrašas, ėjusių valstybės tarnautojo pareigas, taip pat kandidatavusių į šias pareigas gyventojų vardinį sąrašą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
 
-5. Įmonės, įstaigos ir organizacijos, įgaliotos tvarkyti šio straipsnio 1 dalies 5–16, 23, 29, 30, 33 punktuose nurodytų gyventojų duomenis, jeigu šie duomenys nėra pateikti valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai, turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 5–16, 23, 29, 30, 33 punktuose nurodytas pareigas, taip pat kandidatavusių, priimtų, išrinktų ar paskirtų į šias pareigas gyventojų vardinius sąrašus.
+Nr. XIV-1991, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11561
+
+5. Įmonės, įstaigos ir organizacijos, įgaliotos tvarkyti šio straipsnio 1 dalies 5–16, 23, 29, 30, 33 punktuose nurodytų gyventojų duomenis, jeigu šie duomenys nėra pateikti Vyriausybės įgaliotai įstaigai, turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 5–16, 23, 29, 30, 33 punktuose nurodytas pareigas, taip pat kandidatavusių, priimtų, išrinktų ar paskirtų į šias pareigas gyventojų vardinius sąrašus.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
 
-6. Savininko ar dalininko teises ir pareigas įgyvendinanti valstybės ar savivaldybės institucija turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 19–22, 31, 32 punktuose nurodytas pareigas, taip pat kandidatavusių, priimtų, išrinktų ar paskirtų į šias pareigas gyventojų vardinius sąrašus. Jeigu minėtos institucijos tokių duomenų netvarko, šiuos duomenis turi pateikti tokius asmens duomenis turinčios ir tvarkančios institucijos.
+Straipsnio dalies pakeitimai:
 
-TAR pastaba. 6 dalies nuostatos taikomos deklaruojant 2017 metų ir vėlesnių metų turtą.
+Nr. XIV-1991, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11561
+
+6. Savininko ar dalininko teises ir pareigas įgyvendinanti valstybės ar savivaldybės institucija turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 19–22, 31, 32 punktuose nurodytas pareigas, taip pat kandidatavusių, priimtų, išrinktų ar paskirtų į šias pareigas gyventojų vardinius sąrašus. Jeigu minėtos institucijos tokių duomenų netvarko, šiuos duomenis turi pateikti tokius asmens duomenis turinčios ir tvarkančios institucijos.
 
 Papildyta straipsnio dalimi:
 
@@ -243,8 +245,6 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 
 7. Lietuvos Respublikos Seimo kanceliarija, Respublikos Prezidento kanceliarija, Vyriausybės kanceliarija turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 17, 18, 35 punktuose nurodytas pareigas, taip pat kandidatavusių, priimtų ar paskirtų į šias pareigas gyventojų vardinius sąrašus. Jeigu minėtos institucijos tokių duomenų netvarko, šiuos duomenis turi pateikti tokius asmens duomenis turinčios ir tvarkančios institucijos.
-
-TAR pastaba. 7 dalies nuostatos taikomos deklaruojant 2017 metų ir vėlesnių metų turtą.
 
 Papildyta straipsnio dalimi:
 
@@ -495,10 +495,6 @@ Nr. IX-2060, 2004-03-16, Žin., 2004, Nr. 47-1551 (2004-03-30)
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
-
-part_a03114f18cd04161a4302f853c14061c_end
-
-part_846b26794989409a9978f3903c7c2a31_end
 
 Pakeitimai:
 
@@ -891,6 +887,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
 
 Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 3, 5, 9 ir 10 straipsnių pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1991, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11561
+
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 straipsnio pakeitimo įstatymas
 
 12 straipsnis. Įstatymo
 
