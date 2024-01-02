@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2024-01-01"
+last_updated: "2024-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
+Suvestinė redakcija nuo 2024-01-02 iki 2024-04-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -717,21 +717,37 @@ IV skyrius
 
 3. Savivaldybių ir privačios žemės sklypams servitutai administraciniu aktu nustatomi tik tada, kai servitutas negali būti suprojektuotas laisvos valstybinės žemės fondo žemėje (tais atvejais, kai viešpataujančiuoju tampantis daiktas nesiriboja su laisvos valstybinės žemės fondo žeme arba ribojasi su ja, bet dėl laisvoje valstybinėje žemėje esančių šlaitų, griovių, pelkėtų vietų, miško ar kitų vietovės ypatumų, servituto nustatymas šiai žemei neužtikrintų tinkamo viešpataujančiuoju tampančio daikto naudojimo pagal paskirtį). Teritorijų planavimo dokumentų arba žemės valdos projektų ir žemės sklypų planų rengimas šio straipsnio 2 dalies 8 punkte nustatytu atveju finansuojamas valstybės ir (ar) savivaldybių biudžetų lėšomis Vyriausybės nustatyta tvarka. Fizinių ir (ar) juridinių asmenų pageidavimu teritorijų planavimo dokumentai arba žemės valdos projektai ir žemės sklypų planai gali būti rengiami jų lėšomis.
 
-4. Viešpataujančiuoju tampančio daikto savininkas savo valią išreiškia Nacionalinei žemės tarnybai pateikdamas prašymą dėl siūlomo servituto pagal parengtą teritorijų planavimo dokumentą ar žemės valdos projektą nustatymo. Kai siūloma nustatyti servitutą savivaldybių ir privačios žemės sklypams, kad būtų galima privažiuoti ar prieiti prie kapinių, rekreacinių ir kitų gyventojams bendrai naudoti skirtų teritorijų, gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, taip pat centralizuotiems (bendrojo naudojimo) inžinerinės infrastruktūros tinklams (požeminėms ir antžeminėms komunikacijoms), keliams ir takams tiesti, jais naudotis ir juos aptarnauti, prašymą dėl siūlomo servituto pagal teritorijų planavimo dokumentą ar žemės valdos projektą nustatymo pateikia esamų statinių, prie kurių reikia prieiti ar privažiuoti, savininkai arba patikėjimo teisės subjektai; kai rekreacinėse ir kitose gyventojų bendram naudojimui skirtose teritorijose, gamtos ir kultūros paveldo teritorinių kompleksų ir objektų teritorijose statinių nėra, – šiose teritorijose esančių žemės sklypų savininkai arba valstybinės žemės patikėtiniai, o kai žemės sklype numatoma tiesti centralizuotus (bendrojo naudojimo) inžinerinės infrastruktūros tinklus (požemines ir antžemines komunikacijas), kelius ir takus, – šių darbų užsakovas. Kai siūloma nustatyti servitutą prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, valią dėl servituto reikalingumo išreiškia valstybės ar savivaldybės institucija, atsakinga už šių kompleksų ir objektų apsaugą. Kai siūloma nustatyti servitutą prieiti ar privažiuoti, tiesti inžinerinės infrastruktūros tinklus (požemines ir antžemines komunikacijas), kelius ir takus prie žemės sklypų, reikalingų karinei infrastruktūrai, nurodytai Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 6 straipsnio 10 punkte nurodytame sąraše (toliau – žemės sklypai, reikalingi karinei infrastruktūrai), valią dėl servituto reikalingumo išreiškia Krašto apsaugos ministerija ar kita krašto apsaugos sistemos institucija, naudojanti valstybinės žemės sklypą. Jeigu viešpataujančiuoju tampančio daikto patikėtinis yra Nacionalinė žemės tarnyba, jos valia išreiškiama priimant sprendimą dėl servituto nustatymo. Kai siūloma nustatyti servitutą valstybinės žemės sklypams, taip pat savivaldybių ir privačios žemės sklypams, kai įgyvendinant ypatingos valstybinės svarbos projektą numatomas servitutas, suteikiantis teisę tiesti inžinerinius tinklus (požemines ir antžemines komunikacijas) ar kelius ir takus, jais naudotis ir juos prižiūrėti, valią dėl servituto reikalingumo išreiškia valstybės institucija, atsakinga už ypatingos valstybinės svarbos projekto įgyvendinimą.
+4. Viešpataujančiuoju tampančio daikto savininkas savo valią išreiškia Nacionalinei žemės tarnybai pateikdamas prašymą dėl siūlomo servituto pagal parengtą teritorijų planavimo dokumentą ar žemės valdos projektą nustatymo. Kai siūloma nustatyti servitutą savivaldybių ir privačios žemės sklypams, kad būtų galima privažiuoti ar prieiti prie kapinių, rekreacinių ir kitų gyventojams bendrai naudoti skirtų teritorijų, gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, taip pat centralizuotiems (bendrojo naudojimo) inžinerinės infrastruktūros tinklams (požeminėms ir antžeminėms komunikacijoms), keliams ir takams tiesti, jais naudotis ir juos aptarnauti, prašymą dėl siūlomo servituto pagal teritorijų planavimo dokumentą ar žemės valdos projektą nustatymo pateikia esamų statinių, prie kurių reikia prieiti ar privažiuoti, savininkai arba patikėjimo teisės subjektai; kai rekreacinėse ir kitose gyventojų bendram naudojimui skirtose teritorijose, gamtos ir kultūros paveldo teritorinių kompleksų ir objektų teritorijose statinių nėra, – šiose teritorijose esančių žemės sklypų savininkai arba valstybinės žemės patikėtiniai, o kai žemės sklype numatoma tiesti centralizuotus (bendrojo naudojimo) inžinerinės infrastruktūros tinklus (požemines ir antžemines komunikacijas), kelius ir takus, – šių darbų užsakovas. Kai siūloma nustatyti servitutą prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, valią dėl servituto reikalingumo išreiškia valstybės ar savivaldybės institucija, atsakinga už šių kompleksų ir objektų apsaugą. Kai siūloma nustatyti servitutą prieiti ar privažiuoti, tiesti inžinerinės infrastruktūros tinklus (požemines ir antžemines komunikacijas), kelius ir takus prie žemės sklypų, reikalingų karinei infrastruktūrai, nurodytai Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 6 straipsnio 10 punkte nurodytame sąraše (toliau – žemės sklypai, reikalingi karinei infrastruktūrai), valią dėl servituto reikalingumo išreiškia Krašto apsaugos ministerija ar kita krašto apsaugos sistemos institucija, naudojanti valstybinės žemės sklypą. Jeigu viešpataujančiuoju tampančio daikto patikėtinis yra Nacionalinė žemės tarnyba, jos valia išreiškiama priimant sprendimą dėl servituto nustatymo. Kai siūloma nustatyti servitutą valstybinės žemės sklypams, taip pat savivaldybių ir privačios žemės sklypams, kai įgyvendinant ypatingos valstybinės svarbos projektą numatomas servitutas, suteikiantis teisę tiesti inžinerinius tinklus (požemines ir antžemines komunikacijas) ar kelius ir takus, jais naudotis ir juos prižiūrėti, valią dėl servituto reikalingumo išreiškia valstybės institucija, atsakinga už ypatingos valstybinės svarbos projekto įgyvendinimą. Nesant Valstybinės energetikos reguliavimo tarybos pripažinto Atsinaujinančių išteklių energetikos įstatyme numatyto (-ų) konkurso (-ų) dėl leidimo naudoti Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalį (-is) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai (toliau – konkursas) laimėtojo, valią dėl servituto pagal parengtą teritorijų planavimo dokumentą ar žemės valdos projektą nustatymo išreiškia Lietuvos Respublikos energetikos ministerija. Servitutas pagal Energetikos ministerijos išreikštą valią nustatomas asmeniui, kurį Valstybinė energetikos reguliavimo taryba patvirtina konkurso laimėtoju.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2391, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25903
 
 5. Kai servitutas nustatomas administraciniu aktu, institucija, priėmusi sprendimą nustatyti servitutą, ne vėliau kaip per 5 darbo dienas nuo administracinio akto priėmimo dienos išsiunčia (įteikia) viešpataujančiojo ir tarnaujančiojo daikto savininkams ar patikėtiniams sprendimą, kuriuo žemės sklypui nustatomas servitutas.
 
-6. Administraciniu aktu nustatytus servitutus Nekilnojamojo turto registre registruoja viešpataujančiuoju tampančio daikto savininkas ar patikėtinis, taip pat valstybės ar savivaldybės institucija, atsakinga už gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, apsaugą, – kai yra nustatytas servitutas prieiti ar privažiuoti prie šių kompleksų ir objektų, taip pat Krašto apsaugos ministerija ar kita krašto apsaugos sistemos institucija, naudojanti valstybinės žemės sklypą, – kai yra nustatytas servitutas prieiti ar privažiuoti prie žemės sklypų, reikalingų karinei infrastruktūrai, ir (ar) yra nustatytas servitutas, suteikiantis teisę tiesti inžinerinės infrastruktūros tinklus (požemines ir antžemines komunikacijas), kelius ir takus prie žemės sklypų, reikalingų karinei infrastruktūrai, jais naudotis ir juos prižiūrėti, taip pat valstybės institucija, atsakinga už ypatingos valstybinės svarbos projekto įgyvendinimą, – kai siūloma nustatyti servitutą valstybinės žemės sklypams, taip pat savivaldybių ir privačios žemės sklypams, – kai įgyvendinant ypatingos valstybinės svarbos projektą numatomas servitutas, suteikiantis teisę tiesti inžinerinius tinklus ar kelius ir takus, jais naudotis ir juos prižiūrėti.
+6. Administraciniu aktu nustatytus servitutus Nekilnojamojo turto registre registruoja viešpataujančiuoju tampančio daikto savininkas ar patikėtinis, konkurso laimėtojas, taip pat valstybės ar savivaldybės institucija, atsakinga už gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, apsaugą, – kai yra nustatytas servitutas prieiti ar privažiuoti prie šių kompleksų ir objektų, taip pat Krašto apsaugos ministerija ar kita krašto apsaugos sistemos institucija, naudojanti valstybinės žemės sklypą, – kai yra nustatytas servitutas prieiti ar privažiuoti prie žemės sklypų, reikalingų karinei infrastruktūrai, ir (ar) yra nustatytas servitutas, suteikiantis teisę tiesti inžinerinės infrastruktūros tinklus (požemines ir antžemines komunikacijas), kelius ir takus prie žemės sklypų, reikalingų karinei infrastruktūrai, jais naudotis ir juos prižiūrėti, taip pat valstybės institucija, atsakinga už ypatingos valstybinės svarbos projekto įgyvendinimą, – kai siūloma nustatyti servitutą valstybinės žemės sklypams, taip pat savivaldybių ir privačios žemės sklypams, – kai įgyvendinant ypatingos valstybinės svarbos projektą numatomas servitutas, suteikiantis teisę tiesti inžinerinius tinklus ar kelius ir takus, jais naudotis ir juos prižiūrėti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2391, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25903
 
 7. Žemės savininkams ir valstybinės žemės patikėtiniams nuostoliai dėl nustatytų servitutų (išskyrus nuostolius žemės savininkams dėl servitutų, nustatytų sandoriais, kai nuostoliai atlyginami šalių susitarimu) turi būti atlyginami viešpataujančiuoju tampančio daikto savininko lėšomis.
 
-8. Žemės savininkas ar valstybinės žemės patikėtinis dėl nuostolių, atsiradusių dėl Nekilnojamojo turto registre įregistruoto servituto nustatymo, atlyginimo turi teisę kreiptis į viešpataujančiojo daikto savininką, o kai nustatytas servitutas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – į valstybės ar savivaldybės instituciją, atsakingą už šių kompleksų ir objektų apsaugą; kai nustatytas servitutas, reikalingas stambiam projektui arba valstybei svarbiam projektui įgyvendinti, – į stambų projektą ar valstybei svarbų projektą įgyvendinantį investuotoją; kai nustatytas servitutas, reikalingas žemės sklypams, reikalingiems karinei infrastruktūrai, pritaikyti ir (ar) sukurti, – į Krašto apsaugos ministeriją ar kitą krašto apsaugos sistemos instituciją, naudojančią valstybinės žemės sklypą, kai nustatytas servitutas įgyvendinant ypatingos valstybinės svarbos projektą, suteikiantis teisę tiesti inžinerinius tinklus ar kelius ir takus, jais naudotis ir juos prižiūrėti, – į valstybės instituciją, atsakingą už ypatingos valstybinės svarbos projekto įgyvendinimą. Nuostolių dydis ir atlyginimo terminai nustatomi viešpataujančiojo ir tarnaujančiojo daiktų savininkų ar valstybinės žemės patikėtinių susitarimu, o kai servitutas nustatytas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – valstybės ar savivaldybės institucijos, atsakingos už tokių kompleksų ir objektų apsaugą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu; kai nustatytas servitutas, reikalingas stambiam projektui įgyvendinti, – investuotojo, įgyvendinančio stambų projektą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu; kai nustatytas servitutas, reikalingas žemės sklypams, reikalingiems karinei infrastruktūrai, pritaikyti ir (ar) sukurti, – Krašto apsaugos ministerijos ar kitos krašto apsaugos sistemos institucijos, naudojančios valstybinės žemės sklypą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu. Šalims nesusitarus, ginčus dėl nuostolių dydžio ir atlyginimo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka sprendžia teismas. Kai servitutas nustatomas administraciniu aktu, susitarimas dėl nuostolių atlyginimo nereikalingas, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui atlyginama sunaikintų želdinių, pasėlių, iškirsto miško rinkos vertė ir nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą ar jo dalį pagal pagrindinę žemės naudojimo paskirtį, naudojimo būdą praradimo. Vienkartinės ar periodinės kompensacijos, mokamos už naudojimąsi administraciniu aktu nustatytu servitutu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui dydis apskaičiuojamas Vyriausybės nustatyta tvarka, jeigu kituose įstatymuose nenustatyta kitaip.
+8. Žemės savininkas ar valstybinės žemės patikėtinis dėl nuostolių, atsiradusių dėl Nekilnojamojo turto registre įregistruoto servituto nustatymo, atlyginimo turi teisę kreiptis į viešpataujančiojo daikto savininką, konkurso laimėtoją, o kai nustatytas servitutas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – į valstybės ar savivaldybės instituciją, atsakingą už šių kompleksų ir objektų apsaugą; kai nustatytas servitutas, reikalingas stambiam projektui arba valstybei svarbiam projektui įgyvendinti, – į stambų projektą ar valstybei svarbų projektą įgyvendinantį investuotoją; kai nustatytas servitutas, reikalingas žemės sklypams, reikalingiems karinei infrastruktūrai, pritaikyti ir (ar) sukurti, – į Krašto apsaugos ministeriją ar kitą krašto apsaugos sistemos instituciją, naudojančią valstybinės žemės sklypą, kai nustatytas servitutas įgyvendinant ypatingos valstybinės svarbos projektą, suteikiantis teisę tiesti inžinerinius tinklus ar kelius ir takus, jais naudotis ir juos prižiūrėti, – į valstybės instituciją, atsakingą už ypatingos valstybinės svarbos projekto įgyvendinimą. Nuostolių dydis ir atlyginimo terminai nustatomi viešpataujančiojo ir tarnaujančiojo daiktų savininkų ar valstybinės žemės patikėtinių susitarimu, o kai servitutas nustatytas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – valstybės ar savivaldybės institucijos, atsakingos už tokių kompleksų ir objektų apsaugą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu; kai nustatytas servitutas, reikalingas stambiam projektui įgyvendinti, – investuotojo, įgyvendinančio stambų projektą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu; kai nustatytas servitutas, reikalingas žemės sklypams, reikalingiems karinei infrastruktūrai, pritaikyti ir (ar) sukurti, – Krašto apsaugos ministerijos ar kitos krašto apsaugos sistemos institucijos, naudojančios valstybinės žemės sklypą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu. Šalims nesusitarus, ginčus dėl nuostolių dydžio ir atlyginimo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka sprendžia teismas. Kai servitutas nustatomas administraciniu aktu, susitarimas dėl nuostolių atlyginimo nereikalingas, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui atlyginama sunaikintų želdinių, pasėlių, iškirsto miško rinkos vertė ir nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą ar jo dalį pagal pagrindinę žemės naudojimo paskirtį, naudojimo būdą praradimo. Vienkartinės ar periodinės kompensacijos, mokamos už naudojimąsi administraciniu aktu nustatytu servitutu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui dydis apskaičiuojamas Vyriausybės nustatyta tvarka, jeigu kituose įstatymuose nenustatyta kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2391, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25903
 
 9. Administraciniu aktu nustatytas servitutas Civilinio kodekso nustatytais pagrindais baigiasi, kai institucija, priėmusi sprendimą nustatyti servitutą, priima sprendimą tokį servitutą panaikinti.
 
 10. Kai servitutai negali būti nustatyti administraciniu aktu, teisę sudaryti sandorius dėl valstybinės žemės servitutų nustatymo turi:
 
-1) savivaldybių tarybos – patikėjimo teise valdomiems valstybinės žemės sklypams, savivaldybės teritorijoje esančių miestų ir miestelių teritorijų ribose, perduotiems Vyriausybės nutarimu ir kai savivaldybės patikėjimo teise valdo valstybinės žemės sklypus ne miestų ar miestelių teritorijose. Servitutų nustatymo sutartį, vadovaudamiesi savivaldybės tarybos sprendimu, sudaro ir pasirašo meras arba jo įgaliotas savivaldybės administracijos direktorius;
+1) savivaldybės meras arba jo įgaliotas savivaldybės administracijos direktorius – savivaldybės patikėjimo teise savivaldybės teritorijoje esančių miestų ir miestelių teritorijų ribose valdomiems valstybinės žemės sklypams, perduotiems Vyriausybės nutarimu, ir savivaldybės patikėjimo teise valdomiems valstybinės žemės sklypams ne miestų ar miestelių teritorijų ribose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 2) Miškų įstatyme nustatyti subjektai – Vyriausybės nutarimais valstybinės miško žemės sklypams, perduotiems patikėjimo teise, jų valstybinėms funkcijoms atlikti;
 
@@ -755,7 +771,11 @@ Nr. XIV-2340, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25320
 
 1. Pagrindinė žemės sklypo naudojimo paskirtis ir būdas (-ai) Vyriausybės nustatyta tvarka nustatomi formuojant naujus žemės sklypus. Šiems žemės sklypams nustatyta pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas (-ai) keičiami žemės savininkų, valstybinės žemės patikėtinių ar įstatymų nustatytais atvejais kitų subjektų prašymu pagal detaliuosius planus, specialiojo teritorijų planavimo dokumentus ar žemės valdos projektus, o teritorijoje, kuriai detalieji planai ar žemės valdos projektai neparengti, – pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, o valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, – pagal karinės infrastruktūros projektą.
 
-2. Sprendimą pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą tvirtinanti institucija kartu su sprendimu patvirtinti detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą, o teritorijoje, kuriai detalieji planai ar žemės valdos projektai neparengti, sprendimą pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, priima meras. Pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo tvarką ir sąlygas nustato Vyriausybė.
+2. Sprendimą pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima detalųjį planą ar vietovės lygmens bendrąjį planą, kuriame nustatomas detaliojo plano teritorijos naudojimo reglamentas, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą tvirtinanti institucija kartu su sprendimu patvirtinti vieną iš nurodytų dokumentų, o teritorijoje, kuriai detalieji planai ar vietovės lygmens bendrieji planai, kuriuose nustatomas detaliųjų planų teritorijos naudojimo reglamentas, neparengti ir (ar) nepradėti rengti, sprendimą pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, priima meras ar jo įgaliotas savivaldybės administracijos direktorius. Pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo tvarką ir sąlygas nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 3. Sprendimą pakeisti valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima Vyriausybė, tvirtindama karinės infrastruktūros projektą.
 
@@ -999,7 +1019,11 @@ VI skyrius
 
 Žemės administravimas
 
-32 straipsnis. Valstybės ir savivaldybių institucijų kompetencija reguliuojant žemės santykius
+32 straipsnis. Valstybės ir savivaldybės institucijų ir įstaigų ir valstybės įmonių kompetencija žemės santykių srityje
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 1. Vyriausybė:
 
@@ -1075,21 +1099,35 @@ VI skyrius
 
 1) šio įstatymo nustatytais atvejais ir tvarka išnuomoja ir perduoda neatlygintinai naudotis valstybinės žemės sklypus, perduotus patikėjimo teise savivaldybei;
 
-2) šio įstatymo nustatytais atvejais ir tvarka nustato servitutus;
+2) Neteko galios nuo 2024-01-02
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 3) atlieka kitų įstatymų joms nustatytas funkcijas.
 
-6. Savivaldybės meras savivaldybės teritorijoje:
+6. Meras savivaldybės teritorijoje:
 
-1) tvirtina žemės sklypų formavimo ir pertvarkymo projektus;
+1) tvirtina vietovės lygmens žemėtvarkos schemas ir žemės sklypų formavimo ir pertvarkymo projektus;
 
-2) organizuoja savivaldybės teritorijos ar jos dalies žemėtvarkos schemų ir kaimo plėtros žemėtvarkos projektų, žemės sklypų formavimo ir pertvarkymo projektų, žemės paėmimo visuomenės poreikiams projektų rengimą;
+2) organizuoja savivaldybės teritorijos ar jos dalies žemėtvarkos schemų ir kaimo plėtros žemėtvarkos projektų, žemės paėmimo visuomenės poreikiams projektų rengimą;
 
-3) šio ir kitų įstatymų nustatytais atvejais ir tvarka išduoda sutikimus dėl valstybinės žemės miestuose ir miesteliuose naudojimo klausimų;
+3) išduoda Lietuvos Respublikos vietos savivaldos įstatymo 27 straipsnio 2 dalies 29 punkte nurodytus sutikimus;
 
 4) sprendžia žemės sklypų pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo klausimus;
 
 5) atlieka kitų įstatymų jam nustatytas funkcijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
+
+61. Meras, merą pavaduojantis vicemeras arba laikinai mero pareigas einantis savivaldybės tarybos narys turi teisę įgalioti savivaldybės administracijos direktorių atlikti veiksmus, nurodytus šio straipsnio 6 dalyje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 7. Savivaldybės administracija savivaldybės teritorijoje:
 
@@ -1373,11 +1411,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-2114, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14307
 
-4. Asmenys, turintys teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą, prašymus leisti rengti žemės sklypų formavimo ir pertvarkymo projektus pateikia merui.
+4. Asmenys, turintys teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą, prašymus leisti rengti žemės sklypų formavimo ir pertvarkymo projektus pateikia merui ar jo įgaliotam savivaldybės administracijos direktoriui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
+
+Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 5. Žemės sklypų formavimo ir pertvarkymo projektų finansavimo, rengimo, derinimo, visuomenės informavimo ir šių projektų tikrinimo ir tvirtinimo, keitimo ir koregavimo tvarka nustatoma Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse.
 
@@ -1401,15 +1441,17 @@ Nr. XIV-2114, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14307
 
 3) projektas turi būti suderintas Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse nustatyta tvarka;
 
-4) suderintus ir Nacionalinės žemės tarnybos patikrintus žemės sklypų formavimo ir pertvarkymo projektus tvirtina meras Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse nustatyta tvarka. Žemės sklypų formavimo ir pertvarkymo projektas tvirtinamas tik gavus Nacionalinės žemės tarnybos išvadą, kad šį projektą tvirtinti tikslinga.
+4) suderintus ir Nacionalinės žemės tarnybos patikrintus žemės sklypų formavimo ir pertvarkymo projektus tvirtina meras ar jo įgaliotas savivaldybės administracijos direktorius Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse nustatyta tvarka. Žemės sklypų formavimo ir pertvarkymo projektas tvirtinamas tik gavus Nacionalinės žemės tarnybos išvadą, kad šį projektą tvirtinti tikslinga.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 
+Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
+
 8. Patvirtinus žemės sklypų formavimo ir pertvarkymo projektą, Nekilnojamojo turto kadastro įstatymo nustatyta tvarka atliekami kadastriniai matavimai.
 
-9. Du bendrą ribą turintys žemės sklypai gali būti perdalijami nerengiant žemės sklypų formavimo ir pertvarkymo projekto. Tvarka ir atvejai, kai žemės sklypai pertvarkomi nerengiant žemės sklypų formavimo ir pertvarkymo projekto, nustatomi Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse. Sprendimą dėl šių perdalijimo būdu patikslintų žemės sklypų plotų ir ribų patvirtinimo pagal žemės savininkų ir mero suderintus žemės sklypų planus priima Nacionalinės žemės tarnybos vadovas arba jo įgaliotas viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einantis valstybės tarnautojas.
+9. Du bendrą ribą turintys žemės sklypai gali būti perdalijami nerengiant žemės sklypų formavimo ir pertvarkymo projekto. Tvarka ir atvejai, kai žemės sklypai pertvarkomi nerengiant žemės sklypų formavimo ir pertvarkymo projekto, nustatomi Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse. Sprendimą dėl šių perdalijimo būdu patikslintų žemės sklypų plotų ir ribų patvirtinimo pagal žemės savininkų ir mero ar jo įgalioto savivaldybės administracijos direktoriaus suderintus žemės sklypų planus priima Nacionalinės žemės tarnybos vadovas arba jo įgaliotas viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einantis valstybės tarnautojas.
 
 Straipsnio dalies pakeitimai:
 
@@ -1418,6 +1460,8 @@ Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
 Nr. XIV-2114, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14307
 
 Nr. XIV-2340, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25320
+
+Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 10. Pagal žemės sklypų formavimo ir pertvarkymo projektą suformuoti žemės sklypai, daiktinės teisės į juos, šių teisių suvaržymai ir įstatymų nustatyti juridiniai faktai Nekilnojamojo turto registro įstatymo nustatyta tvarka registruojami Nekilnojamojo turto registre. Suformuotų žemės sklypų kadastro duomenys Nekilnojamojo turto kadastro įstatymo nustatyta tvarka įrašomi į Nekilnojamojo turto kadastrą.
 
@@ -2884,4 +2928,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2445, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25938
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas
+
+39.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 22, 23, 32 ir 40 straipsnių pakeitimo įstatymas
+
+40.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2391, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25903
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 22 straipsnio pakeitimo įstatymas
 
