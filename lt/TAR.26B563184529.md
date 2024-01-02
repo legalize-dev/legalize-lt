@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2024-01-01"
+last_updated: "2024-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,17 +18,9 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
+Suvestinė redakcija nuo 2024-01-02 iki 2024-04-03
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
-
-TAR pastaba. Iki  įstatymo Nr. XIV-2122 įsigaliojimo dienos (2024-01-01) pradėtos teritorijų planavimo dokumentų viešinimo, derinimo, tikrinimo ar tvirtinimo procedūros baigiamos vadovaujantis  įstatyme Nr. XIV-2122 nustatytu teisiniu reguliavimu, išskyrus 11 straipsnio 3 dalyje nustatytus atvejus.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
-
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 9, 20, 23, 25, 26, 30, 34, 37, 45 ir 47 straipsnių pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2014-01-01:
 
@@ -768,13 +760,13 @@ Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 4. Rengiant detalųjį planą, privaloma vadovautis bendrajame plane nustatytomis gamtinio karkaso ir ekologinių tinklų ribomis, jas detalizuojant pagal specifinius vietovės požymius, ir teisės aktų nustatytais veiklos ribojimais.
 
-5. Konkretūs žemės sklypo ar jo dalies žemės naudojimo būdai pagal detaliajame plane patvirtintą teritorijos naudojimo tipą nustatomi tvirtinant detalųjį planą, o kitais galimais žemės naudojimo būdais keičiami savivaldybės mero (toliau – meras) sprendimu Vyriausybės nustatyta tvarka informuojant visuomenę.
-
-TAR pastaba. 5 dalies nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+5. Konkretūs žemės sklypo ar jo dalies žemės naudojimo būdai pagal detaliajame plane patvirtintą teritorijos naudojimo tipą nustatomi tvirtinant detalųjį planą, o kitais galimais žemės naudojimo būdais keičiami savivaldybės mero (toliau – meras) ar jo įgalioto savivaldybės administracijos direktoriaus sprendimu, Vyriausybės nustatyta tvarka informuojant visuomenę.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
+
+Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
 
 19 straipsnis. Detaliųjų planų sprendinių įgyvendinimas
 
@@ -802,9 +794,11 @@ Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
 
 1) meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas, atsižvelgdamas į savivaldybės lygmens bendrojo plano ir (ar) vietovės lygmens bendrojo plano, jeigu jis parengtas, sprendinius, esamą ar suplanuotą urbanistinę struktūrą, užstatymo tipą, užstatymo aukštį, statinių parametrus, gamtinį ir kultūrinį kraštovaizdį, viešąsias erdves, vykdomą ar suplanuotą vykdyti veiklą ir statytojo pateiktus projektinius pasiūlymus, specialiuosiuose architektūros reikalavimuose statiniui projektuoti nurodo statybai numatyto žemės sklypo teritorijos naudojimo reglamento parametrus. Apie numatomą statinių projektavimą ir visuomenės dalyvavimą svarstant statinių projektinius pasiūlymus informuojama Statybos įstatymo nustatyta tvarka;
 
-2) kai, vadovaujantis įstatymais ir kitais teisės aktais, planuojamai statybai ir numatomai veiklai vykdyti privaloma pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) pakeisti ar nustatyti, jeigu jis nenustatytas, žemės sklypo naudojimo būdą, jie keičiami ar nustatomi žemės savininkų, valstybinės žemės patikėtinių ar įstatymų nustatytais atvejais kitų subjektų prašymu Vyriausybės nustatyta tvarka mero sprendimu pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu jis parengtas, įvertinus gautus visuomenės pasiūlymus ir atsižvelgus į gamtinį ir kultūrinį kraštovaizdį, viešąsias erdves ir jų poreikį, vykdomą ar suplanuotą vykdyti veiklą, esamą ar suplanuotą (suprojektuotą) inžinerinę ir (ar) socialinę infrastruktūrą. Prašymai pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) pakeisti ar nustatyti, jeigu jis nenustatytas, žemės sklypo naudojimo būdą paskelbiami be draudžiamų skelbti asmens duomenų Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir atitinkamos savivaldybės interneto svetainėje informuojant, kad 10 darbo dienų nuo prašymo paskelbimo dienos galima teikti pasiūlymus merui raštu ir Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje dėl žemės sklypo pagrindinės žemės naudojimo paskirties pakeitimo ir (ar) žemės sklypo naudojimo būdo pakeitimo ar nustatymo. Sprendimas dėl žemės sklypo pagrindinės žemės naudojimo paskirties pakeitimo ir (ar) žemės sklypo naudojimo būdo pakeitimo ar nustatymo kitą darbo dieną po jo priėmimo dienos paskelbiamas Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir atitinkamos savivaldybės interneto svetainėje. Per 10 darbo dienų nuo šio sprendimo paskelbimo dienos žemės sklypo savininkas ar valstybinės žemės patikėtinis, taip pat įstatymų nustatytais atvejais kiti subjektai Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui Vyriausybės nustatyta tvarka pateikia prašymą įregistruoti žemės sklypo kadastro duomenų (pagrindinės žemės naudojimo paskirties ir (ar) žemės sklypo naudojimo būdo) pasikeitimą Nekilnojamojo turto registre – pasikeitusius žemės sklypo kadastro duomenis įrašyti į Nekilnojamojo turto kadastrą.
+2) kai, vadovaujantis įstatymais ir kitais teisės aktais, planuojamai statybai ir numatomai veiklai vykdyti privaloma pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) pakeisti ar nustatyti, jeigu jis nenustatytas, žemės sklypo naudojimo būdą, jie keičiami ar nustatomi žemės savininkų, valstybinės žemės patikėtinių ar įstatymų nustatytais atvejais kitų subjektų prašymu Vyriausybės nustatyta tvarka mero ar jo įgalioto savivaldybės administracijos direktoriaus sprendimu pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu jis parengtas, įvertinus gautus visuomenės pasiūlymus ir atsižvelgus į gamtinį ir kultūrinį kraštovaizdį, viešąsias erdves ir jų poreikį, vykdomą ar suplanuotą vykdyti veiklą, esamą ar suplanuotą (suprojektuotą) inžinerinę ir (ar) socialinę infrastruktūrą. Prašymai pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) pakeisti ar nustatyti, jeigu jis nenustatytas, žemės sklypo naudojimo būdą paskelbiami be draudžiamų skelbti asmens duomenų Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir atitinkamos savivaldybės interneto svetainėje informuojant, kad 10 darbo dienų nuo prašymo paskelbimo dienos galima teikti pasiūlymus merui ar jo įgaliotam savivaldybės administracijos direktoriui raštu ir Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje dėl žemės sklypo pagrindinės žemės naudojimo paskirties pakeitimo ir (ar) žemės sklypo naudojimo būdo pakeitimo ar nustatymo. Sprendimas dėl žemės sklypo pagrindinės žemės naudojimo paskirties pakeitimo ir (ar) žemės sklypo naudojimo būdo pakeitimo ar nustatymo kitą darbo dieną po jo priėmimo dienos paskelbiamas Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir atitinkamos savivaldybės interneto svetainėje. Per 10 darbo dienų nuo šio sprendimo paskelbimo dienos žemės sklypo savininkas ar valstybinės žemės patikėtinis, taip pat įstatymų nustatytais atvejais kiti subjektai Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui Vyriausybės nustatyta tvarka pateikia prašymą įregistruoti žemės sklypo kadastro duomenų (pagrindinės žemės naudojimo paskirties ir (ar) žemės sklypo naudojimo būdo) pasikeitimą Nekilnojamojo turto registre – pasikeitusius žemės sklypo kadastro duomenis įrašyti į Nekilnojamojo turto kadastrą.
 
-TAR pastaba. 2 dalies nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
 
 Straipsnio dalies pakeitimai:
 
@@ -960,13 +954,13 @@ TERITORIJŲ PLANAVIMO PROCESAS
 
 4. Savivaldybės arba jos dalių bendrieji planai pradedami rengti savivaldybės tarybai priėmus sprendimą dėl savivaldybės arba jos dalių bendrųjų planų rengimo pradžios ir planavimo tikslų. Šių planų rengimą organizuoja savivaldybės administracijos direktorius.
 
-5. Detalieji planai pradedami rengti merui priėmus sprendimą dėl detaliojo plano rengimo pradžios ir planavimo tikslų. Detaliųjų planų rengimą organizuoja savivaldybės administracijos direktorius.
-
-TAR pastaba. 5 dalies nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+5. Detalieji planai pradedami rengti merui ar jo įgaliotam savivaldybės administracijos direktoriui priėmus sprendimą dėl detaliojo plano rengimo pradžios ir planavimo tikslų. Detaliųjų planų rengimą organizuoja savivaldybės administracijos direktorius.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
+
+Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
 
 25 straipsnis. Kompleksinio teritorijų planavimo procesas
 
@@ -1138,9 +1132,7 @@ Nr. XII-1022, 2014-07-15, paskelbta TAR 2014-07-22, i. k. 2014-10425
 
 2. Aplinkos ministerija parengtą valstybės teritorijos bendrąjį planą, valstybės teritorijos dalies bendrąjį planą teikia tvirtinti Vyriausybei. Valstybės teritorijos bendrasis planas, valstybės teritorijos dalies bendrasis planas patvirtinami ar atsisakoma juos tvirtinti vadovaujantis Vyriausybės darbo reglamentu per 3 mėnesius nuo jų pateikimo tvirtinti dienos.
 
-3. Meras savivaldybės bendrąjį planą ar savivaldybės dalies bendrąjį planą kartu su šiuose dokumentuose suplanuotai prioritetinei savivaldybės infrastruktūrai vystyti reikalingu preliminariu lėšų poreikiu teikia tvirtinti savivaldybės tarybai. Savivaldybės bendrasis planas ar savivaldybės dalies bendrasis planas patvirtinami arba atsisakoma juos tvirtinti per 20 darbo dienų nuo jų pateikimo tvirtinti dienos.
-
-TAR pastaba. 3 dalies nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+3. Meras ar jo įgaliotas savivaldybės administracijos direktorius savivaldybės bendrąjį planą ar savivaldybės dalies bendrąjį planą kartu su šiuose dokumentuose suplanuotai prioritetinei savivaldybės infrastruktūrai vystyti reikalingu preliminariu lėšų poreikiu teikia tvirtinti savivaldybės tarybai. Savivaldybės bendrasis planas ar savivaldybės dalies bendrasis planas patvirtinami arba atsisakoma juos tvirtinti per 20 darbo dienų nuo jų pateikimo tvirtinti dienos.
 
 Straipsnio dalies pakeitimai:
 
@@ -1148,15 +1140,17 @@ Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
 
-4. Detaliuosius planus tvirtina meras. Detalusis planas patvirtinamas arba atsisakoma jį tvirtinti per 10 darbo dienų nuo teritorijų planavimo valstybinę priežiūrą atliekančios institucijos pateikto kompleksinio teritorijų planavimo dokumento patikrinimo akto gavimo dienos.
+Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
 
-TAR pastaba. 4 dalies nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+4. Detaliuosius planus tvirtina meras ar jo įgaliotas savivaldybės administracijos direktorius. Detalusis planas patvirtinamas arba atsisakoma jį tvirtinti per 10 darbo dienų nuo teritorijų planavimo valstybinę priežiūrą atliekančios institucijos pateikto kompleksinio teritorijų planavimo dokumento patikrinimo akto gavimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
 Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
+
+Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
 
 5. Tvirtinanti institucija gali atsisakyti tvirtinti kompleksinio teritorijų planavimo dokumentą tik šiais atvejais:
 
@@ -1170,9 +1164,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
-7. Jeigu meras nepatvirtina detaliojo plano per šiame įstatyme nustatytus terminus arba atsisako patvirtinti detalųjį planą ir nepraneša atsisakymo tvirtinti motyvų, planavimo iniciatorius turi teisę per 10 darbo dienų kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos, kad jos pareigūnai Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka pradėtų administracinių nusižengimų teiseną, taip pat planavimo iniciatorius turi teisę kreiptis į teismą su prašymu įpareigoti merą per nustatytą terminą, ne ilgesnį kaip 7 darbo dienos, priimti sprendimą tvirtinti arba motyvuotai atsisakyti tvirtinti detalųjį planą.
-
-TAR pastaba. 7 dalies nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+7. Jeigu meras ar jo įgaliotas savivaldybės administracijos direktorius nepatvirtina detaliojo plano per šio straipsnio 4 dalyje nustatytą terminą arba atsisako jį patvirtinti ir nepraneša atsisakymo tvirtinti motyvų, planavimo iniciatorius turi teisę per 10 darbo dienų kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos, kad jos pareigūnai Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka pradėtų administracinių nusižengimų teiseną, taip pat planavimo iniciatorius turi teisę kreiptis į teismą su prašymu įpareigoti merą ar jo įgaliotą savivaldybės administracijos direktorių per nustatytą terminą, ne ilgesnį kaip 7 darbo dienos, priimti sprendimą tvirtinti arba motyvuotai atsisakyti tvirtinti detalųjį planą.
 
 Straipsnio dalies pakeitimai:
 
@@ -1181,6 +1173,8 @@ Nr. XII-2643, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24683
 Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
 Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
+
+Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
 
 28 straipsnis. Kompleksinio teritorijų planavimo dokumentų keitimas ir koregavimas
 
@@ -1733,6 +1727,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 9, 20, 23, 25, 26, 30, 34, 37, 45 ir 47 straipsnių pakeitimo įstatymas
+
+26.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 18, 20, 24 ir 27 straipsnių pakeitimo įstatymas
 
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai ir vadovai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
