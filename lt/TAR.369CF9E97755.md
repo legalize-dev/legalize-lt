@@ -4,7 +4,7 @@ identifier: "TAR.369CF9E97755"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-28"
-last_updated: "2023-12-30"
+last_updated: "2024-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2023-12-30 iki 2024-01-31
+Suvestinė redakcija nuo 2024-02-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
 
@@ -459,17 +459,33 @@ Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 4) dalyvauti slaugos moksliniuose tyrimuose;
 
-5) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka;
+5) skirti ir išrašyti vaistus (vaistinius preparatus) lėtinėms ligoms gydyti, medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka;
 
 Papildyta straipsnio punktu:
 
 Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2192, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20772
 
 6) pagal kompetenciją teikti medikamentinę pagalbą būtinosios medicinos pagalbos atvejais;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
+
+7) sveikatos apsaugos ministro nustatytais atvejais ir tvarka konsultuoti pacientus teikiant pirmines ambulatorines asmens sveikatos priežiūros paslaugas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2192, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20772
+
+8) sveikatos apsaugos ministro nustatyta tvarka išduoti siuntimą asmens sveikatos priežiūros paslaugoms, nurodytoms sveikatos apsaugos ministro patvirtintame sąraše, gauti.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2192, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20772
 
 2. Bendrosios praktikos slaugytojas turi ir kitų teisių, nustatytų kituose Lietuvos Respublikos teisės aktuose.
 
@@ -485,7 +501,7 @@ Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 4) dalyvauti akušerijos moksliniuose tyrimuose;
 
-5) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka, vaistus (vaistinius preparatus), kurių sąrašą ir šių vaistų (vaistinių preparatų) skyrimo sąlygas nustato sveikatos apsaugos ministras;
+5) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka, vaistus (vaistinius preparatus), kurių sąrašą, skyrimo sąlygas ir tvarką nustato sveikatos apsaugos ministras;
 
 Papildyta straipsnio punktu:
 
@@ -495,11 +511,25 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
+Nr. XIV-2192, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20772
+
 6) sveikatos apsaugos ministro nustatyta tvarka teikti gimdyvei gimdymo priežiūros paslaugas namuose, kai nėra didelės rizikos nėštumo veiksnių, kurių sąrašą nustato sveikatos apsaugos ministras;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
+
+7) sveikatos apsaugos ministro nustatytais atvejais ir tvarka konsultuoti pacientus teikiant pirmines ambulatorines asmens sveikatos priežiūros paslaugas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2192, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20772
+
+8) sveikatos apsaugos ministro nustatyta tvarka išduoti siuntimą asmens sveikatos priežiūros paslaugoms, nurodytoms sveikatos apsaugos ministro patvirtintame sąraše, gauti.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2192, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20772
 
 2. Akušeris turi ir kitų teisių, nustatytų kituose Lietuvos Respublikos teisės aktuose.
 
@@ -765,13 +795,19 @@ Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX
 
 111 straipsnis. Išplėstinės praktikos slaugytojo teisės
 
-1. Išplėstinės praktikos slaugytojas turi šias teises:
+1. Išplėstinės praktikos slaugytojas turi šio įstatymo 11 straipsnyje nurodytas teises, taip pat šias teises:
 
-1) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka, vaistus (vaistinius preparatus), kurių sąrašą ir šių vaistų (vaistinių preparatų) skyrimo sąlygas nustato sveikatos apsaugos ministras;
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2192, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20772
+
+1) skirti ir išrašyti šio įstatymo 11 straipsnio 1 dalies 5 punkte nenurodytus kitus vaistus (vaistinius preparatus), kurių sąrašą, skyrimo sąlygas ir tvarką nustato sveikatos apsaugos ministras;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
+
+Nr. XIV-2192, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20772
 
 2) išduoti asmens sveikatos pažymėjimus (pažymas) sveikatos apsaugos ministro nustatyta tvarka;
 
