@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2024-01-01"
+last_updated: "2024-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-31
+Suvestinė redakcija nuo 2024-02-01 iki 2024-06-20
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -87,6 +87,12 @@ Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1113, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11874
+
+41. Ilgalaikis paciento sveikatos būklės stebėjimas – reguliarus paciento, kuriam diagnozuota sveikatos apsaugos ministro patvirtintame sąraše nurodyta lėtinė liga ir kuriam dėl tos lėtinės ligos ar jos paūmėjimo baigtos teikti stacionarinės aktyviojo gydymo asmens sveikatos priežiūros paslaugos arba specializuotos ambulatorinės asmens sveikatos priežiūros paslaugos, sveikatos būklės stebėjimas, kurį sveikatos apsaugos ministro nustatytu periodiškumu ir tvarka vykdo gydytojas specialistas, pagal poreikį skirdamas pacientui tyrimus ir (ar) gydymą ir teikdamas rekomendacijas šeimos medicinos paslaugas teikiančiam gydytojui dėl paciento sveikatos priežiūros.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 
 5. Lietuvos nacionalinė sveikatos sistema – valstybės sveikatos reikalų, institucijų, sveikatinimo veiklos ir jos išteklių tvarkymo sistema.
 
@@ -1176,13 +1182,29 @@ Nr. XIV-1637, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25404
 
 2. Valstybės laiduojamų (nemokamų) asmens sveikatos priežiūros paslaugų teikimo LNSS įstaigose esminės sąlygos yra:
 
-1) paciento kreipimasis dėl nemokamų paslaugų gavimo į pirminės sveikatos priežiūros gydytojus, kurių specialybių sąrašą nustato Sveikatos apsaugos ministerija;
+1) paciento kreipimasis dėl valstybės laiduojamų (nemokamų) asmens sveikatos priežiūros paslaugų gavimo į LNSS įstaigos pirminės sveikatos priežiūros specialistus, kurių specialybių ir asmens sveikatos priežiūros paslaugų, dėl kurių į juos gali būti kreipiamasi, sąrašą nustato sveikatos apsaugos ministras;
 
-2) paciento kreipimasis dėl nemokamų asmens sveikatos priežiūros paslaugų gavimo į antrinės ar tretinės sveikatos priežiūros įstaigas. Šiais atvejais pacientas privalo pateikti 1 punkte nurodytų gydytojų siuntimą.
+2) paciento kreipimasis dėl šios dalies 1 punkte nenurodytų valstybės laiduojamų (nemokamų) asmens sveikatos priežiūros paslaugų gavimo į LNSS įstaigas. Šiais atvejais pacientas privalo pateikti šios dalies 1 punkte nurodytų sveikatos priežiūros specialistų siuntimą arba LNSS įstaigų gydytojų, suteikusių šios dalies 1 punkte nenurodytas valstybės laiduojamas (nemokamas) paslaugas, siuntimą paslaugų tęstinumui užtikrinti.
 
-3. Pacientas turi teisę pasirinkti Sveikatos apsaugos ministerijos ir Privalomojo sveikatos draudimo tarybos nustatyta tvarka LNSS pirminės sveikatos priežiūros įstaigą ir gydytoją, taip pat pagal šio straipsnio nustatytas sąlygas antrinės ar tretinės sveikatos priežiūros įstaigą ir gydytoją, kad suteiktų nemokamas asmens sveikatos priežiūros paslaugas.
+Straipsnio dalies pakeitimai:
 
-4. Šio straipsnio 2 dalyje išdėstytos sąlygos netaikomos pacientams, kurie kreipėsi į LNSS įstaigą dėl būtinosios medicinos pagalbos suteikimo.
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+
+3. Pacientas turi teisę sveikatos apsaugos ministro nustatyta tvarka pasirinkti LNSS pirminės sveikatos priežiūros įstaigą ir pirminės sveikatos priežiūros specialistus, taip pat pagal šiame straipsnyje nustatytas sąlygas antrinės ar tretinės sveikatos priežiūros įstaigą ir asmens sveikatos priežiūros specialistus, kad jam būtų teikiamos nemokamos asmens sveikatos priežiūros paslaugos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+
+4. Šio straipsnio 2 dalyje išdėstytos sąlygos netaikomos pacientams, kurie kreipėsi į LNSS įstaigą dėl:
+
+1) būtinosios medicinos pagalbos suteikimo;
+
+2) ambulatorinių antrinės ar tretinės asmens sveikatos priežiūros paslaugų teikimo sveikatos apsaugos ministro numatytais atvejais ilgalaikio paciento sveikatos būklės stebėjimo laikotarpiu arba kai šios paslaugos teikiamos pagal ligų ir sveikatos sutrikimų ankstyvosios diagnostikos programose nustatytas sąlygas, arba kitais sveikatos apsaugos ministro numatytais atvejais, atsižvelgiant į ligos ar sveikatos sutrikimo pobūdį (įskaitant užkrečiamumą).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 
 5.Valstybės laiduojama (nemokama) asmens sveikatos priežiūra LNSS įstaigose teikiama nemokamai, už šios priežiūros paslaugas iš paciento negali būti reikalaujama papildomo mokesčio. Jei pacientai, turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas, savo iniciatyva pasirenka brangiau kainuojančias paslaugas, medžiagas, procedūras, tai šių paslaugų, medžiagų, procedūrų faktinių kainų ir nemokamų paslaugų, medžiagų, procedūrų bazinių kainų skirtumą jie apmoka patys Sveikatos apsaugos ministerijos nustatyta tvarka. Jei pacientai, turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas, savo iniciatyva pasirenka papildomas paslaugas ar procedūras, šių paslaugų ar procedūrų kainą jie apmoka patys.
 
