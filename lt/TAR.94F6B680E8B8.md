@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2024-01-01"
+last_updated: "2024-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-31
+Suvestinė redakcija nuo 2024-02-01 iki 2024-02-29
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -1592,11 +1592,13 @@ Papildomojo (savanoriškojo) sveikatos draudimo institucijos yra draudimo įmon�
 
 43 straipsnis. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai
 
-1. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai yra apdraustojo kreipimasis į sveikatos priežiūros įstaigą dėl papildomojo (savanoriškojo) sveikatos draudimo sutartyse numatytų ir asmens sveikatos priežiūros specialisto, kuriam teisės aktais, reguliuojančiais jo profesines teises, suteikta teisė nustatyti sveikatos būklę ir diagnozuoti ligas bei sveikatos sutrikimus, diagnozuotų sveikatos sutrikimų ir (ar) sveikatos būklių, sudarančių pagrindą teikti apdraustiesiems šiose sutartyse numatytų rūšių ir masto asmens sveikatos priežiūros paslaugas bei patarnavimus. Šių paslaugų ir patarnavimų išlaidas papildomojo (savanoriškojo) sveikatos draudimo sutartyse nustatytomis sąlygomis apmoka draudikas.
+1. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai yra asmens sveikatos priežiūros specialisto, kuriam teisės aktais, reguliuojančiais jo profesines teises, suteikta teisė nustatyti sveikatos būklę ir diagnozuoti ligas bei sveikatos sutrikimus, diagnozuotos papildomojo (savanoriškojo) sveikatos draudimo sutartyse numatytos ligos, sveikatos sutrikimai ar sveikatos būklės, kurie yra pagrindas teikti apdraustiesiems šiose sutartyse numatytų rūšių ir masto asmens sveikatos priežiūros paslaugas bei patarnavimus. Šių paslaugų ir patarnavimų išlaidas papildomojo (savanoriškojo) sveikatos draudimo sutartyse nustatytomis sąlygomis apmoka draudikas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+
+Nr. XIV-2194, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20774
 
 2. Papildomojo (savanoriškojo) sveikatos draudimo lėšomis apmokamos sveikatos priežiūros paslaugų išlaidos, taip pat išlaidos kompensuojamiesiems vaistams, kurių neapmoka Privalomojo sveikatos draudimo fondo biudžetas, valstybės ar savivaldybių biudžetai. Papildomojo (savanoriškojo) sveikatos draudimo lėšomis gali būti apmokama ir ta sveikatos priežiūros paslaugų ar išlaidų kompensuojamiesiems vaistams dalis, kuri neapmokama Privalomojo sveikatos draudimo fondo biudžeto, valstybės ar savivaldybių biudžetų lėšomis.
 
