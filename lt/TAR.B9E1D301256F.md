@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2024-01-01"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-02-20
+Suvestinė redakcija nuo 2024-02-21 iki 2024-02-29
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -1165,7 +1165,11 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas.
 
-3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai naudojamoje žemės ūkio technikoje (įskaitant traktorius), žvejybos laivų varikliuose, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 ℃ temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
 
 Straipsnio pakeitimai:
 
