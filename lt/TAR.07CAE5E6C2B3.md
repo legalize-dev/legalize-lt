@@ -4,7 +4,7 @@ identifier: "TAR.07CAE5E6C2B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-26"
-last_updated: "2023-12-23"
+last_updated: "2024-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2023-12-23 iki 2024-02-29
+Suvestinė redakcija nuo 2024-03-01
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
 
@@ -94,11 +94,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
 
-13. Valstybės švenčių dienos – su Lietuvos valstybingumu susijusios švenčių dienos, kurios yra įvykių, turėjusių išskirtinę reikšmę Lietuvos valstybės sukūrimui ir nepriklausomybei, datos: vasario 16-oji – Lietuvos valstybės atkūrimo diena, kovo 11-oji – Lietuvos nepriklausomybės atkūrimo diena, liepos 6-oji – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena.
+13. Valstybės švenčių dienos – su Lietuvos valstybingumu susijusios švenčių dienos, kurios yra įvykių, turėjusių išskirtinę reikšmę Lietuvos valstybės sukūrimui ir nepriklausomybei, datos: vasario 16-oji – Lietuvos valstybės atkūrimo diena, kovo 11-oji – Lietuvos nepriklausomybės atkūrimo diena, liepos 6-oji – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) ir Tautiškos giesmės diena.
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2319, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25073
 
 14. Statutinės institucijos vėliava – su Lietuvos heraldikos komisija suderintas ir statutinės institucijos veiklą reglamentuojančių teisės aktų nustatyta tvarka patvirtintas statutinės institucijos atributikos objektas.
 
@@ -348,7 +352,13 @@ LIETUVOS VALSTYBĖS ISTORINĖ VĖLIAVA
 
 11) Trakų pilies;
 
-12) Vytauto Didžiojo karo muziejaus skverelyje Kaune.
+12) Vytauto Didžiojo karo muziejaus skverelyje Kaune;
+
+13) pasienio kontrolės punktuose – tarptautiniuose oro uostuose, atviruose tarptautinei laivybai jūrų ir upių (vidaus vandenų) uostuose, geležinkelio stotyse ar prie automobilių kelių Lietuvos Respublikos Vyriausybės nutarimu įsteigtose vietose, kuriose patikrinimą atlieka Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, muitinė ir kitos įgaliotos valstybės institucijos.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2319, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25073
 
 2. Lietuvos valstybės istorinė vėliava nuolat iškeliama šiose vietose:
 
@@ -356,7 +366,11 @@ LIETUVOS VALSTYBĖS ISTORINĖ VĖLIAVA
 
 2) Senųjų Trakų piliavietėje.
 
-3. Lietuvos valstybės istorinė vėliava gali būti iškeliama ir prie, virš ar ant kitų pilių ir objektų, susijusių su Lietuvos valstybingumu ir Lietuvos valstybės gynyba.
+3. Lietuvos valstybės istorinė vėliava gali būti iškeliama ir prie, virš ar ant kitų pilių ir objektų, susijusių su Lietuvos valstybingumu ir Lietuvos valstybės gynyba, taip pat ir prie, virš ar ant gyvenamųjų namų gyventojų iniciatyva.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2319, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25073
 
 4. Lietuvos valstybės istorinė vėliava valstybės švenčių dienomis keliama prie, virš ar ant kitų, negu šio straipsnio 1 dalyje nurodyta, valstybės ir savivaldybių institucijų ir įstaigų pastatų.
 
@@ -370,9 +384,23 @@ LIETUVOS VALSTYBĖS ISTORINĖ VĖLIAVA
 
 3) gegužės 1-ąją – Lietuvos įstojimo į Europos Sąjungą dieną;
 
-4) liepos 15-ąją – Žalgirio mūšio dieną;
+4) liepos 6-ąją – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) ir Tautiškos giesmės dieną;
 
-5) lapkričio 23-iąją – Lietuvos kariuomenės dieną.
+Papildyta straipsnio punktu:
+
+Nr. XIV-2319, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25073
+
+5) liepos 15-ąją – Žalgirio mūšio dieną;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2319, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25073
+
+6) lapkričio 23-iąją – Lietuvos kariuomenės dieną.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2319, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25073
 
 7. Lietuvos valstybės istorinė vėliava krašto apsaugos ministro nustatyta tvarka taip pat keliama ir naudojama savarankiškų karinių dalinių teritorijose.
 
@@ -703,6 +731,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2320, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25074
 
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo Nr. I-1497 5 straipsnio pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2319, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25073
+
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo Nr. I-1497 2 ir 10 straipsnių pakeitimo įstatymas
 
 101 straipsnis. Lietuvos valstybės istorinės vėliavos projekto ir etalono tvirtinimas
 
