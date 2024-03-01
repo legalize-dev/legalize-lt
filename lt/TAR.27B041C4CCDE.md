@@ -4,7 +4,7 @@ identifier: "TAR.27B041C4CCDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-15"
-last_updated: "2021-04-29"
+last_updated: "2024-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.27B041C4CCDE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 10 straipsnis įsigalioja 2010 m. s
 ---
 # Lietuvos Respublikos mediacijos įstatymas
 
-Suvestinė redakcija nuo 2021-04-29 iki 2024-02-29
+Suvestinė redakcija nuo 2024-03-01 iki 2024-08-31
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 87-3462, i. k. 1081010ISTA00X-1702
 
@@ -175,7 +175,11 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 6. Mediacijos paslaugos gali būti teikiamos už atlyginimą ir neatlygintinai. Kai mediacijos paslaugos teikiamos už atlyginimą, išskyrus atvejus, kai mediacijos paslaugos apmokamos iš valstybės biudžeto lėšų, mediacija pradedama tik po to, kai mediatorius raštu susitaria su ginčo šalimis dėl atlyginimo dydžio ir mokėjimo tvarkos.
 
-7. Asmenims, kuriems pagal Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teisės aktus tos valstybės kompetentinga institucija yra suteikusi teisę teikti mediacijos paslaugas, neribojama laisvė laikinai teikti mediacijos paslaugas Lietuvos Respublikoje. Šiems asmenims, laikinai teikiantiems mediacijos paslaugas Lietuvos Respublikoje savo valstybės suteiktu mediatoriaus vardu, netaikomi šio įstatymo 6–11 straipsniai.
+7. Asmenims, kuriems pagal Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teisės aktus tos valstybės kompetentinga institucija yra suteikusi teisę teikti mediacijos paslaugas, neribojama laisvė laikinai teikti mediacijos paslaugas Lietuvos Respublikoje. Laisvė laikinai teikti šias paslaugas Lietuvos Respublikoje taip pat neribojama iš kitų užsienio valstybių atvykusiems (perkeltiems) asmenims, kuriems pagal jų valstybės teisės aktus tos valstybės kompetentinga institucija yra suteikusi teisę teikti mediacijos paslaugas, kai jiems, vadovaujantis Lietuvos Respublikos įstatymu „Dėl užsieniečių teisinės padėties“, suteikta laikinoji apsauga. Šioje dalyje nurodytiems asmenims, laikinai teikiantiems mediacijos paslaugas Lietuvos Respublikoje savo valstybės suteiktu mediatoriaus vardu, netaikomi šio įstatymo 6, 7, 8, 9, 10 ir 11 straipsniai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 8. Šio straipsnio 7 dalyje nurodyti asmenys, prieš pradėdami laikinai teikti mediacijos paslaugas Lietuvos Respublikoje, privalo raštu informuoti Valstybės garantuojamos teisinės pagalbos tarnybą apie ketinimą laikinai teikti mediacijos paslaugas Lietuvos Respublikoje. Šie asmenys, laikinai teikdami mediacijos paslaugas Lietuvos Respublikoje, privalo informuoti ginčo šalis, kad laikinai teikia mediacijos paslaugas savo valstybės suteiktu mediatoriaus vardu, ir nurodyti, kokie šio įstatymo reikalavimai jiems netaikomi. Šio straipsnio 7 dalyje nurodyti asmenys, baigę laikinai teikti mediacijos paslaugas Lietuvos Respublikoje, privalo nedelsdami raštu informuoti Valstybės garantuojamos teisinės pagalbos tarnybą, kad baigė laikinai teikti mediacijos paslaugas Lietuvos Respublikoje.
 
@@ -191,7 +195,11 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 5. Lietuvos Respublikos mediatorių sąrašas, taip pat informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, sudaromi ir tvarkomi teisingumo ministro nustatyta tvarka. Siekdama sudaryti ir tvarkyti Lietuvos Respublikos mediatorių sąrašą, taip pat informaciją apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, šio įstatymo nustatyta tvarka iš Lietuvos Respublikos mediatorių sąrašo parinkti ir skirti mediatorių, Valstybės garantuojamos teisinės pagalbos tarnyba turi teisę tvarkyti šio straipsnio 4 dalyje nurodytus mediatorių duomenis, šio straipsnio 6 dalyje nurodytus laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančių asmenų duomenis ir duomenis apie šio įstatymo 29 straipsnyje nustatyta tvarka mediatoriams ir laikinai mediacijos paslaugas Lietuvos Respublikoje teikiantiems asmenims, nurodytiems šio įstatymo 4 straipsnio 7 dalyje, pareikštus viešus įspėjimus.
 
-6. Visuomenės informavimo tikslais Lietuvos Respublikos mediatorių sąrašas skelbiamas Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje. Tais pačiais tikslais Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje taip pat skelbiama ši informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje: asmens vardas, pavardė, profesinė kvalifikacija, adresas korespondencijai, telefono numeris, elektroninio pašto adresas ir (ar) kiti kontaktiniai duomenys, Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė, kurios kompetentinga institucija yra suteikusi asmeniui teisę teikti mediacijos paslaugas. Šio straipsnio 4 dalyje nurodyti mediatoriaus duomenys skelbiami tol, kol mediatorius šio įstatymo 9 straipsnyje nustatyta tvarka išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo. Informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, skelbiama tol, kol šie asmenys šio įstatymo 4 straipsnio 8 dalyje nustatyta tvarka informuoja Valstybės garantuojamos teisinės pagalbos tarnybą, kad baigė laikinai teikti mediacijos paslaugas Lietuvos Respublikoje.
+6. Visuomenės informavimo tikslais Lietuvos Respublikos mediatorių sąrašas skelbiamas Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje. Tais pačiais tikslais Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje taip pat skelbiama ši informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje: asmens vardas, pavardė, profesinė kvalifikacija, adresas korespondencijai, telefono numeris, elektroninio pašto adresas ir (ar) kiti kontaktiniai duomenys, Europos Sąjungos valstybė narė, Europos ekonominės erdvės valstybė ar kita užsienio valstybė, kurios kompetentinga institucija yra suteikusi asmeniui teisę teikti mediacijos paslaugas. Šio straipsnio 4 dalyje nurodyti mediatoriaus duomenys skelbiami tol, kol mediatorius šio įstatymo 9 straipsnyje nustatyta tvarka išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo. Informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, skelbiama tol, kol šie asmenys šio įstatymo 4 straipsnio 8 dalyje nustatyta tvarka informuoja Valstybės garantuojamos teisinės pagalbos tarnybą, kad baigė laikinai teikti mediacijos paslaugas Lietuvos Respublikoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 6 straipsnis. Įrašymas į Lietuvos Respublikos mediatorių sąrašą
 
@@ -573,7 +581,11 @@ MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
 
 3) uždrausti laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančiam asmeniui, nurodytam šio įstatymo 4 straipsnio 7 dalyje, teikti mediacijos paslaugas Lietuvos Respublikoje. Šis draudimas galioja trejus metus nuo sprendimo priėmimo dienos.
 
-6. Apie šio straipsnio 5 dalyje nurodytus sprendimus mediatorių veiklos vertinimo komisija privalo pranešti Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės kompetentingai institucijai, kuri asmeniui yra suteikusi teisę teikti mediacijos paslaugas.
+6. Apie šio straipsnio 5 dalyje nurodytus sprendimus mediatorių veiklos vertinimo komisija privalo pranešti Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės ar kitos užsienio valstybės kompetentingai institucijai, kuri asmeniui yra suteikusi teisę teikti mediacijos paslaugas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 30 straipsnis. Mediatorių padarytos žalos atlyginimas
 
@@ -648,4 +660,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-269, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08872
 
 Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 20 ir 21 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
+
+Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 4, 5 ir 29 straipsnių pakeitimo įstatymas
 
