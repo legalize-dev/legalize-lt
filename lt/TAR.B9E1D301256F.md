@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2024-02-21"
+last_updated: "2024-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2024-02-21 iki 2024-02-29
+Suvestinė redakcija nuo 2024-03-01 iki 2024-12-23
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -349,7 +349,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
-10) akcizais apmokestinamas prekes, kurioms šio įstatymo 37 straipsnio 2 ar 3 dalyje arba 38 straipsnio 2 dalyje nustatyta tvarka buvo pritaikytos nurodytose dalyse nustatytos akcizų lengvatos, tačiau kurios buvo panaudotos kitiems negu šiose dalyse nurodytiems tikslams;
+10) akcizais apmokestinamas prekes, kurioms šio įstatymo 37 straipsnio 2 ar 3 dalyje, 38 straipsnio 2 dalyje arba 39 straipsnio 2 ar 3 dalyje nustatyta tvarka buvo pritaikytos nurodytose dalyse nustatytos akcizų lengvatos, tačiau kurios buvo panaudotos kitiems negu šiose dalyse nurodytiems tikslams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
 
 11) laikomus KN 2710 19 91‒2710 19 99 subpozicijose klasifikuojamus energinius produktus, už kuriuos akcizai vadovaujantis šio įstatymo nuostatomis nesumokėti.
 
@@ -413,7 +417,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
-11. Šio straipsnio 1 dalies 10 punkte nurodytu atveju prievolė mokėti akcizų skirtumą (tarp šio įstatymo 37 straipsnio 1 dalyje nurodyto akcizų tarifo ir akcizais apmokestinamai prekei pritaikyto akcizų tarifo) tenka asmeniui, panaudojusiam akcizais apmokestinamas prekes kitaip, negu nustato akcizų lengvatų taikymo sąlygos.
+11. Šio straipsnio 1 dalies 10 punkte nurodytu atveju prievolė mokėti akcizų skirtumą (tarp šio įstatymo 37 straipsnio 1 dalyje arba 39 straipsnio 1 ar 3 dalyje nurodyto akcizų tarifo ir akcizais apmokestinamai prekei pritaikyto akcizų tarifo) tenka asmeniui, panaudojusiam akcizais apmokestinamas prekes kitaip, negu nustato akcizų lengvatų taikymo sąlygos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
 
 12. Šio straipsnio 1 dalies 11 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, laikančiam šio straipsnio 1 dalies 11 punkte nurodytas akcizais apmokestinamas prekes.
 
@@ -1193,11 +1201,19 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 39 straipsnis. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas) taikomi akcizų tarifai
 
-Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas) taikomas 304,10 euro už toną produkto akcizų tarifas.
+1. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), jeigu šiame straipsnyje nenustatyta kitaip, taikomas 304,10 euro už toną produkto akcizų tarifas.
+
+2. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), naudojamiems kaip šildymui skirtas kuras, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, taip pat šildymui skirtoms naftos dujoms ir dujiniams angliavandeniliams, išpilstytiems į dujų balionus, taikomas 13 eurų už toną produkto akcizų tarifas.
+
+3. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), naudojamiems kaip šildymui skirtas kuras verslo reikmėms, taikomas 13 eurų už toną produkto akcizų tarifas. Šiame įstatyme naftos dujų ir dujinių angliavandenilių (išskyrus gamtines dujas) kaip šildymui skirto kuro naudojimas verslo reikmėms suprantamas kaip šių produktų naudojimas ekonominę veiklą, apibrėžtą Pridėtinės vertės mokesčio įstatyme, vykdančio asmens.
+
+4. Šio straipsnio 2 ir 3 dalyse nustatytų lengvatų taikymo tvarką nustato centrinis mokesčių administratorius.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+
+Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
 
 40 straipsnis. Neteko galios nuo 2024-01-01
 
@@ -2016,8 +2032,6 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 4. Už importuotą neapdorotą tabaką akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šį produktą (jeigu jie už šį produktą būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose.
 
 74 straipsnis. Neapdorotam tabakui taikomas akcizų tarifas
-
-Neapdorotam tabakui taikomas 112,8 euro už kilogramą neapdoroto tabako akcizų tarifas.
 
 Straipsnio pakeitimai:
 
