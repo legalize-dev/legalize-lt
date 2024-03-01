@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2024-01-02"
+last_updated: "2024-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-01-02 iki 2024-02-29
+Suvestinė redakcija nuo 2024-03-01 iki 2024-04-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -557,11 +557,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
-21) sprendimų dėl savivaldybės prisiimamų įsipareigojimų pagal paskolų, finansinės nuomos (lizingo), kitų įsipareigojamųjų skolos dokumentų sutartis ir garantijų teikimo už savivaldybės valdomų įmonių prisiimamus įsipareigojimus pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis priėmimas, laikantis Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme numatytų ir Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytų limitų ir gavus savivaldybės kontrolės ir audito tarnybos išvadą;
+21) sprendimų dėl savivaldybės prisiimamų įsipareigojimų pagal paskolų, finansinės nuomos (lizingo), kitų įsipareigojamųjų skolos dokumentų sutartis ir garantijų teikimo už savivaldybės valdomų įmonių prisiimamus įsipareigojimus pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis priėmimas, laikantis Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme numatytų ir Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatytų limitų (jeigu tokie limitai nustatomi) ir gavus savivaldybės kontrolės ir audito tarnybos išvadą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1763, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27578
+
+Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
 
 22) įstatymų nustatyta tvarka gavus savivaldybės kontrolės ir audito tarnybos išvadą, sprendimų dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo priėmimas; gavus savivaldybės kontrolės ir audito tarnybos išvadą, pritarimas galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų;
 
@@ -1171,7 +1173,11 @@ Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
 2) biudžetinės įstaigos.
 
-2. Seniūnija – biudžetinė įstaiga – gali būti steigiama, jeigu ji aptarnaujamos teritorijos gyventojams teikia viešąsias paslaugas.
+2. Seniūnija – biudžetinė įstaiga – gali būti steigiama, jeigu ji aptarnaujamos teritorijos gyventojams teikia viešąsias paslaugas. Seniūnija gali būti jai skirtų savivaldybės biudžeto asignavimų valdytoja, kai tai nurodyta savivaldybės tarybos patvirtintame savivaldybės biudžete.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
 
 3. Priimdama sprendimą dėl seniūnijos – biudžetinės įstaigos – steigimo, savivaldybės taryba privalo įvertinti:
 
@@ -1187,7 +1193,11 @@ Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
 7. Seniūnijos veikla finansuojama iš savivaldybės biudžeto ir kitų įstatymuose nustatytų lėšų. Seniūnija gali turėti sąskaitą banke.
 
-8. Seniūnas yra seniūnijos vadovas, seniūnijai skirtų biudžeto asignavimų valdytojas. Seniūnas yra valstybės tarnautojas: seniūnijos – savivaldybės administracijos filialo – seniūnas yra karjeros valstybės tarnautojas, seniūnijos – biudžetinės įstaigos – seniūnas yra valstybės tarnautojas – įstaigos vadovas.
+8. Seniūnas yra seniūnijos vadovas. Seniūnas yra valstybės tarnautojas: seniūnijos – savivaldybės administracijos filialo – seniūnas yra karjeros valstybės tarnautojas, seniūnijos – biudžetinės įstaigos – seniūnas yra valstybės tarnautojas – įstaigos vadovas. Seniūnas turi seniūnijos – savivaldybės asignavimų valdytojos – vadovo teises ir vykdo seniūnijos – savivaldybės asignavimų valdytojos – vadovo pareigas, kai seniūnija savivaldybės tarybos patvirtintame savivaldybės biudžete nurodyta kaip savivaldybės biudžeto asignavimų valdytoja.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
 
 9. Seniūną ir seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 33 straipsnio 1 ir 2 dalyse numatytas garantijas, kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, nustatytus šio straipsnio 10 dalyje. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių: ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys.
 
@@ -1983,7 +1993,11 @@ TURTAS IR FINANSAI
 
 66 straipsnis. Savivaldybės biudžeto rengimas ir kontrolė
 
-1. Kiekviena savivaldybė turi savarankišką biudžetą. Savivaldybės biudžetas sudaromas ir tvirtinamas vieniems biudžetiniams metams. Savivaldybių biudžetų rengimo, svarstymo ir tvirtinimo procedūra nustatyta Lietuvos Respublikos biudžeto sandaros įstatyme ir Vyriausybės nutarimu tvirtinamose taisyklėse.
+1. Kiekviena savivaldybė turi savarankišką biudžetą. Savivaldybės biudžetas sudaromas ir tvirtinamas Lietuvos Respublikos biudžeto sandaros įstatyme nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
 
 2. Biudžetiniais metais savivaldybės taryba mero siūlymu biudžetą gali tikslinti.
 
