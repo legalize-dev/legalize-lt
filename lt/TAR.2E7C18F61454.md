@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2024-01-01"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-03-31
+Suvestinė redakcija nuo 2024-04-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -371,7 +371,11 @@ Nr. XII-276, 2013-05-09, Žin., 2013, Nr. 54-2681 (2013-05-25)
 
 109 straipsnis. Arešto panaikinimas, jo trukmės sumažinimas, nuobaudos  pakeitimas
 
-1. Asmuo, kuriam paskirtas areštas, gali prašyti areštą paskyrusį teismą panaikinti areštą ar sumažinti jo trukmę, taip pat pakeisti areštą bauda. Toks prašymas ne vėliau kaip kitą darbo dieną nagrinėjamas teismo posėdyje, kai pranešama asmeniui, kuriam paskirtas areštas. Šio asmens neatvykimas nekliudo išnagrinėti jo prašymą. Areštuotas asmuo teismo pareikalavimu į teismo posėdį atvesdinamas.
+1. Areštą teismas skiria šiame Kodekse numatytais atvejais ir tais atvejais numatytos trukmės. Areštas negali būti skiriamas nėščioms moterims, vaikams, asmeniui, kuris vienas augina vaiką iki dvylikos metų, vyresniems kaip šešiasdešimt penkerių metų asmenims ir asmenims su negalia.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 2. Dėl teismo nutarties, kuria prašymas visiškai ar iš dalies atmetamas, asmuo, kuriam areštas paskirtas, gali paduoti atskirąjį skundą.
 
@@ -1835,15 +1839,17 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
-6. Dėl teismo nutarties, kuria išspręsti klausimai dėl vykdomosios bylos nutraukimo, dėl sprendimo vykdymo išlaidų išieškojimo iš skolininko, dėl atsakomybės už perduoto saugoti turto praradimą, dėl baudų skyrimo, dėl skolininko dalies bendrojoje nuosavybėje nustatymo ir kitais šiame Kodekse numatytais atvejais, gali būti duodamas atskirasis skundas.
+6. Dėl teismo nutarties, kuria išspręsti klausimai dėl vykdomosios bylos nutraukimo, dėl atsakomybės už perduoto saugoti turto praradimą, dėl baudų skyrimo, dėl skolininko dalies bendrojoje nuosavybėje nustatymo ir kitais šiame Kodekse numatytais atvejais, gali būti duodamas atskirasis skundas.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
-Straipsnio pakeitimai:
-
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 609 straipsnis. Vykdymo išlaidos
 
@@ -1899,9 +1905,9 @@ LIII SKYRIUS
 
 IŠIEŠKOJIMO IŠ HIPOTEKA ĮKEISTO TURTO, ĮKEITIMU ĮKEISTO TURTO, IŠ DAIKTO SULAIKYMO TEISE SULAIKYTO DAIKTO YPATUMAI
 
-602 straipsnis. Turto pardavimo iš varžytynių, perdavimo išieškotojui, turto pardavimo be varžytynių aktų pripažinimas negaliojančiais
+602 straipsnis. Turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių akto arba turto perdavimo išieškotojui akto pripažinimas negaliojančiu
 
-1. Turto pardavimo iš varžytynių, perdavimo išieškotojui, turto pardavimo be varžytynių aktus suinteresuotų asmenų reikalavimu teismas gali pripažinti negaliojančiais:
+1. Turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių aktą arba turto perdavimo išieškotojui aktą suinteresuotų asmenų reikalavimu teismas gali pripažinti negaliojančiu:
 
 1) jeigu buvo realizuotas skolininkui nepriklausantis turtas;
 
@@ -1913,19 +1919,17 @@ IŠIEŠKOJIMO IŠ HIPOTEKA ĮKEISTO TURTO, ĮKEITIMU ĮKEISTO TURTO, IŠ DAIKTO 
 
 5) jeigu turtas buvo parduotas anksčiau, negu skelbimuose nurodytas pardavimo laikas;
 
-6) jeigu turtas parduotas už kainą, mažesnę, negu ji turėjo būti nustatyta šio Kodekso 718 straipsnyje ir 722 straipsnio 1 dalyje nustatyta tvarka;
+6) jeigu turtas parduotas už kainą, mažesnę, negu ji turėjo būti nustatyta šio Kodekso 718 straipsnyje ir 722 straipsnio 1 dalyje nustatyta tvarka;
 
-7) jeigu turto pardavimas iš varžytynių, perdavimas išieškotojui, turto pardavimas be varžytynių pažeidė esmines suinteresuotų asmenų teises. Turto pardavimas iš varžytynių, perdavimas išieškotojui, turto pardavimas be varžytynių negali būti pripažįstami negaliojančiais tik dėl formalių trūkumų, kurie negalėjo turėti įtakos šių veiksmų teisėtumui.
+7) jeigu turto pardavimas skolininko pasiūlytam pirkėjui ar turto pardavimas iš varžytynių arba turto perdavimas išieškotojui pažeidė esmines suinteresuotų asmenų teises. Turto pardavimas skolininko pasiūlytam pirkėjui ar turto pardavimas iš varžytynių arba turto perdavimas išieškotojui negali būti pripažįstamas negaliojančiu tik dėl formalių trūkumų, kurie negalėjo turėti įtakos šių veiksmų teisėtumui.
 
-2. Turto pardavimo iš varžytynių, perdavimo išieškotojui, turto pardavimo be varžytynių aktus pripažinus negaliojančiais, gali būti taikoma restitucija Civilinio kodekso nustatyta tvarka.
+2. Turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių aktą arba turto perdavimo išieškotojui aktą pripažinus negaliojančiu, gali būti taikoma restitucija Civilinio kodekso nustatyta tvarka.
 
-3. Reikalavimams dėl turto pardavimo iš varžytynių, perdavimo išieškotojui, turto pardavimo be varžytynių aktų pripažinimo negaliojančiais taikomas vienų metų ieškinio senaties terminas. Šis terminas pradedamas skaičiuoti nuo varžytynių akto pasirašymo dienos, išskyrus šio straipsnio 1 dalies 1 punkte numatytą atvejį. Šio straipsnio 1 dalies 1 punkte numatytu atveju senaties terminas prasideda nuo tos dienos, kurią asmuo sužinojo arba turėjo sužinoti apie jo teisių pažeidimą.
+3. Reikalavimams dėl turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių akto arba turto perdavimo išieškotojui akto pripažinimo negaliojančiu taikomas vienų metų ieškinio senaties terminas. Šis terminas pradedamas skaičiuoti nuo šioje dalyje nurodyto akto surašymo dienos, išskyrus šio straipsnio 1 dalies 1 punkte numatytą atvejį. Šio straipsnio 1 dalies 1 punkte nurodytu atveju senaties terminas prasideda nuo tos dienos, kurią asmuo sužinojo arba turėjo sužinoti apie jo teisių pažeidimą.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
-
-Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 604 straipsnis. Procesinių dokumentų įteikimas vykdymo proceso metu
 
@@ -2061,23 +2065,13 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 3) nutraukus vykdomąją bylą;
 
-4) persiuntus vykdomąjį dokumentą vykdyti kitam antstoliui;
+4) persiuntus vykdomąjį dokumentą bankroto ar restruktūrizavimo bylą nagrinėjančiam teismui.
 
-5) (neteko galios nuo 2011-10-01);
-
-6) persiuntus vykdomąjį dokumentą bankroto ar restruktūrizavimo bylą nagrinėjančiam teismui.
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
-
-2. Antstolis, baigdamas vykdomąją bylą šio straipsnio 1 dalies 4 punkte numatytu atveju, nepanaikina priemonių, kurių buvo imtasi išieškojimui vykdyti. Taikytos priverstinio vykdymo priemonės galioja iki vykdomojo dokumento įvykdymo. Antstolis, priėmęs vykdyti jam persiųstą vykdomąjį dokumentą, turi teisę taikyti papildomas priverstinio vykdymo priemones arba panaikinti anksčiau taikytąsias.
+2. Antstolis, baigdamas vykdomąją bylą šio straipsnio 1 dalies 4 punkte numatytu atveju ar šio Kodekso 631 straipsnio 1 dalies 7 ir 8 punktuose nurodytais pagrindais vykdomąjį dokumentą grąžinęs išieškotojui, nepanaikina priemonių, kurių buvo imtasi išieškojimui vykdyti. Taikytos priverstinio vykdymo priemonės galioja iki vykdomojo dokumento įvykdymo, išskyrus atvejus, kai, šio Kodekso 631 straipsnio 1 dalies 7 ir 8 punktuose nurodytais pagrindais vykdomąjį dokumentą grąžinus išieškotojui, išieškotojas per 20 darbo dienų vykdomojo dokumento nepateikia vykdyti pakartotinai. Antstolis, priėmęs vykdyti vykdomąjį dokumentą, kai šio Kodekso 631 straipsnio 1 dalies 7 ir 8 punktuose nurodytais pagrindais šį dokumentą grąžinus išieškotojui nebuvo panaikintos priemonės, kurių buvo imtasi išieškojimui įvykdyti, turi teisę taikyti papildomas priverstinio vykdymo priemones arba panaikinti anksčiau taikytąsias.
 
 Straipsnio pakeitimai:
 
-Nr. X-1839, 2008-11-14, Žin., 2008, Nr. 138-5446 (2008-12-02)
-
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 XLIII SKYRIUS
 
@@ -2093,7 +2087,11 @@ VYKDYMO PROCESO DALYVIAI
 
 4. Antstolis negali vykdyti sprendimų ir turi nusišalinti, kai yra šio Kodekso 65 straipsnyje numatyti pagrindai.
 
-5. Apie antstolio nusišalinimą ir nušalinimą raštu nedelsiant pranešama išieškotojui. Išieškotojas per 10 darbo dienų turi teisę pasirinkti kitą antstolį vykdyti išieškojimą pagal vykdomąjį dokumentą.
+5. Apie antstolio nusišalinimą ir nušalinimą raštu nedelsiant pranešama išieškotojui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 638 straipsnis. Išieškotojas
 
@@ -2189,13 +2187,15 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Jeigu įstatymuose ar vykdomajame dokumente nurodyti įvykdymo terminai, raginimas įvykdyti sprendimą nesiunčiamas ir antstolis, pasibaigus nurodytam sprendimo įvykdymo terminui, iš karto pradeda priverstinio vykdymo veiksmus.
 
-2. Raginimas nesiunčiamas skubaus vykdymo bylose, bylose dėl turto konfiskavimo ir mažesnių negu vienas šimtas eurų piniginių sumų išieškojimo.
+2. Raginimas nesiunčiamas skubaus vykdymo bylose, bylose dėl turto konfiskavimo, išskyrus bylas, kuriose išieškoma konfiskuotino turto vertę atitinkanti piniginė suma, ir mažesnių negu vienas šimtas eurų piniginių sumų išieškojimo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 Straipsnio pakeitimai:
 
@@ -2229,11 +2229,13 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 668 straipsnis. Turtas, iš kurio negali būti išieškoma
 
-1. Vykdant išieškojimą iš fizinių asmenų, išieškojimas negali būti nukreipiamas į buities, ūkio, darbo, mokymosi reikmenis ir kitą turtą, kuris būtinas skolininkui ar jo šeimai gyventi, dirbti pagal profesiją ar mokytis, visus būtinus vaikų ir neįgaliųjų reikmenis. Šio turto ir reikmenų sąrašas nustatytas Sprendimų vykdymo instrukcijoje.
+1. Vykdant išieškojimą iš fizinių asmenų, išieškojimas negali būti nukreipiamas į buities, ūkio, darbo, mokymosi reikmenis ir kitą turtą, kuris būtinas skolininkui ar jo šeimai gyventi, dirbti pagal profesiją ar mokytis, visus būtinus vaikų ir asmenų su negalia reikmenis. Šio turto ir reikmenų sąrašas nustatytas Sprendimų vykdymo instrukcijoje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 2. Vykdant išieškojimą iš valstybės, savivaldybės ar biudžetinių įstaigų, išieškojimas gali būti nukreipiamas tik į joms priklausančias pinigines lėšas, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto ir mirusio skolininko turtą paveldi valstybė. Vykdant išieškojimą iš valstybės ar biudžetinių įstaigų, išieškojimas negali būti nukreipiamas į valstybės iždo bendrąją sąskaitą Lietuvos Respublikos valstybės iždo įstatyme nustatytais atvejais.
 
@@ -2383,7 +2385,11 @@ Turto pardavimas iš varžytynių, turto perdavimas išieškotojui be varžytyni
 
 2. Jeigu pirmesnės eilės išieškotojai nesutinka pasiimti turto, jį siūloma paimti paskesnės eilės išieškotojams, laikantis proporcingumo principo ir eilės.
 
-702 straipsnis. Neparduoto iš varžytynių turto perdavimo išieškotojui aktas
+702 straipsnis. 702 straipsnis. Turto perdavimo išieškotojui aktas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 1. Išieškotojui, pareiškusiam norą pasiimti turtą natūra, turtas perduodamas surašant Sprendimų vykdymo instrukcijoje nustatytos formos aktą, kuris yra nuosavybės teisę patvirtinantis dokumentas. Šį turto perdavimo išieškotojui aktą antstolis surašo praėjus dvidešimt dienų nuo išieškotojo sutikimo paimti turtą gavimo antstolio kontoroje dienos, o tais atvejais, kai išieškotojas privalo sumokėti jam perduodamo turto kainos ir išieškotojo daliai tenkančios lėšų sumos skirtumą, – praėjus dvidešimt dienų nuo visos skirtumo sumos sumokėjimo.
 
@@ -2393,11 +2399,13 @@ Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
 
 2. Jeigu yra kitų išieškotojų, turtas pareiškusiam norą pasiimti turtą natūra išieškotojui perduodamas po to, kai jis antstoliui sumoka pradinės parduodamo turto kainos ir apskaičiuotos jam tenkančios lėšų sumos skirtumą.
 
-3. Nuo neparduoto iš varžytynių turto perdavimo išieškotojui akto surašymo momento laikoma, kad yra tinkamai įvykdyta pareiga perduoti turtą išieškotojui ir jam pereina nuosavybės teisė. Kai išieškotojui perduodamas nekilnojamasis turtas, turto perdavimo išieškotojui aktas elektroninių ryšių priemonėmis perduodamas Nekilnojamojo turto registro tvarkytojui.
+3. Nuo turto perdavimo išieškotojui akto surašymo momento laikoma, kad yra tinkamai įvykdyta pareiga perduoti turtą išieškotojui ir jam pereina nuosavybės teisė. Kai išieškotojui perduodamas nekilnojamasis turtas, turto perdavimo išieškotojui aktas elektroninių ryšių priemonėmis perduodamas Nekilnojamojo turto registro tvarkytojui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 Straipsnio pakeitimai:
 
@@ -2439,6 +2447,12 @@ Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
 
 3. Skolininkas ir išieškotojas gali imtis priemonių, kad apie varžytynėse parduodamą turtą sužinotų kuo daugiau galimų pirkėjų.
 
+4. Pranešimas apie skelbiamas varžytynes registruotąja pašto siunta siunčiamas skolininkui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+
 Straipsnio pakeitimai:
 
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
@@ -2459,21 +2473,19 @@ Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
 
 1) patvirtinti, kad susipažino su Sprendimų vykdymo instrukcijoje nustatytos formos dokumentu, kuriame nurodyta varžytynių vykdymo tvarka, antstolių veiksmų apskundimo tvarka ir turto pardavimo iš varžytynių galimos pasekmės, numatytos šio Kodekso 602, 703, 704, 711, 715, 716, 717, 719 ir 724 straipsniuose, ir patvirtinti, kad nėra šio Kodekso 709 straipsnio 2 dalyje ir kituose teisės aktuose numatytų kliūčių jiems dalyvauti varžytynėse;
 
-2) nurodyti savo duomenis – vardą, pavardę, asmens kodą (juridinio asmens pavadinimą, kodą), gyvenamąją vietą (buveinę), elektroninio pašto adresą, telefono ir fakso numerius, kitus elektroninių ryšių priemonių adresus ir kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose esančias sąskaitas, į kurias turėtų būti grąžintas varžytynių dalyvio mokestis, jeigu varžytynių dalyvis varžytynių nelaimės;
+2) nurodyti savo duomenis – vardą, pavardę, asmens kodą (juridinio asmens pavadinimą, kodą), gyvenamąją vietą (buveinę), elektroninio pašto adresą, telefono numerį, kitus elektroninių ryšių priemonių adresus ir kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose esančias sąskaitas, į kurias turėtų būti grąžintas varžytynių dalyvio mokestis, jeigu varžytynių dalyvis varžytynių nelaimės;
 
-Straipsnio punkto pakeitimai:
+3) jeigu asmuo dalyvauja varžytynėse per atstovą, nurodyti atstovo vardą, pavardę, asmens kodą (juridinio asmens pavadinimą, kodą), elektroninio pašto adresą, telefono numerį, kitus elektroninių ryšių priemonių adresus ir atstovaujamojo vardą, pavardę, asmens kodą (juridinio asmens pavadinimą, kodą), taip pat atstovavimo pagrindą;
 
-Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
+4) sumokėti į varžytynių depozitinę sąskaitą varžytynių dalyvio mokestį mokėjimo dokumente nurodant varžytynių numerį. Varžytynių dalyvio mokestis sudaro 10 procentų pradinės parduodamo turto kainos. Kiti varžytynių dalyvio mokesčio sumokėjimo būdai gali būti numatyti Sprendimų vykdymo instrukcijoje.
 
-3) jeigu asmuo dalyvauja varžytynėse per atstovą, nurodyti atstovo vardą, pavardę, asmens kodą (juridinio asmens pavadinimą, kodą), elektroninio pašto adresą, telefono ir fakso numerius, kitus elektroninių ryšių priemonių adresus ir atstovaujamojo vardą, pavardę, asmens kodą (juridinio asmens pavadinimą, kodą), taip pat atstovavimo pagrindą;
+2. Asmuo varžytynių dalyviu įregistruojamas, jeigu yra įvykdytos visos šio straipsnio 1 dalyje nustatytos sąlygos. Varžytynių dalyvio nurodyti asmens duomenys negali būti atskleisti nei antstoliui, nei kitiems varžytynių dalyviams, nei tretiesiems asmenims, išskyrus įstatymų numatytus atvejus.
 
-4) sumokėti į specialią varžytynių sąskaitą varžytynių dalyvio mokestį mokėjimo dokumente nurodant varžytynių numerį. Varžytynių dalyvio mokestis sudaro 10 procentų pradinės parduodamo turto kainos. Kiti varžytynių dalyvio mokesčio sumokėjimo būdai gali būti numatyti Sprendimų vykdymo instrukcijoje.
-
-2. Asmuo varžytynių dalyviu įregistruojamas, jeigu yra įvykdytos visos šio straipsnio 1 dalyje nustatytos sąlygos. Varžytynių dalyvio nurodyti asmens duomenys negali būti atskleisti nei antstoliui, nei kitiems varžytynių dalyviams, nei tretiesiems asmenims, išskyrus įstatymų numatytus atvejus.
+3. Šio straipsnio 1 dalies 4 punkte nurodytą varžytynių depozitinę sąskaitą savo vardu atidaro ir administruoja Antstolių informacinės sistemos tvarkytojas.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 711 straipsnis. Varžytynių dalyvio sumokėtų sumų panaudojimas tais atvejais, kai varžytynes laimėjęs varžytynių dalyvis per nustatytą terminą nesumoka visos turto kainos ar paaiškėja, kad varžytynių dalyvis neturėjo teisės dalyvauti varžytynėse
 
@@ -2493,7 +2505,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Varžytynes organizuoja antstolis.
 
-2. Varžytynės vyksta elektroniniu būdu specialiame interneto tinklalapyje.
+2. Varžytynės vyksta elektroniniu būdu specialiame interneto tinklalapyje, kurį administruoja Antstolių informacinės sistemos tvarkytojas. Už varžytynių paskelbimą ir vykdymą Antstolių informacinės sistemos tvarkytojui mokamas atlyginimas, kurio dydį nustato Antstolių informacinės sistemos valdytojas. Šio atlyginimo, kaip šio Kodekso 609 straipsnio 1 dalies 2 punkte nurodytų vykdymo išlaidų, mokėjimo tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 3. Varžytynės skelbiamos darbo dienomis nuo devintos valandos nulis minučių iki keturioliktos valandos nulis minučių. Varžytynių pradžia yra jų paskelbimo specialiame interneto tinklalapyje momentas.
 
@@ -2521,7 +2537,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 
-10. Kainą didinant automatiniu būdu, varžytynių dalyvis nurodo siūlomą pradinę kainą, kuri negali būti mažesnė už pradinę turto pardavimo kainą, didžiausią siūlomą kainą ir kainos didinimo automatiniu būdu intervalą, kuris negali būti mažesnis už šio straipsnio 9 dalyje nustatytus kainos didinimo intervalus. Didžiausia siūloma kaina negali būti žinoma nei varžytynes organizavusiam antstoliui, nei kitiems varžytynių dalyviams ar tretiesiems asmenims. Kainą didinant automatiniu būdu, rodoma varžytinių dalyvio siūloma pradinė kaina, kuri išlieka iki to momento, kol kitas varžytynių dalyvis pasiūlo didesnę kainą. Kitam varžytynių dalyviui pasiūlius didesnę kainą, automatinį kainos didinimą nustačiusio varžytynių dalyvio siūloma kaina automatiškai padidinama varžytynių dalyvio nustatytu intervalu, kol kito varžytynių dalyvio pasiūlyta kaina viršys automatinį kainos didinimą nustačiusio varžytynių dalyvio nurodytą didžiausią siūlomą kainą.
+10. Kainą didinant automatiniu būdu, varžytynių dalyvis nurodo siūlomą pradinę kainą, kuri negali būti mažesnė už pradinę turto pardavimo kainą, didžiausią siūlomą kainą ir kainos didinimo automatiniu būdu intervalą, kuris negali būti mažesnis už šio straipsnio 9 dalyje nustatytus kainos didinimo intervalus. Didžiausia siūloma kaina negali būti žinoma nei varžytynes organizavusiam antstoliui, nei kitiems varžytynių dalyviams ar tretiesiems asmenims. Kainą didinant automatiniu būdu, rodoma varžytynių dalyvio siūloma pradinė kaina, kuri išlieka iki to momento, kol kitas varžytynių dalyvis pasiūlo didesnę kainą. Kitam varžytynių dalyviui pasiūlius didesnę kainą, automatinį kainos didinimą nustačiusio varžytynių dalyvio siūloma kaina automatiškai padidinama varžytynių dalyvio nustatytu intervalu, kol kito varžytynių dalyvio pasiūlyta kaina viršys automatinį kainos didinimą nustačiusio varžytynių dalyvio nurodytą didžiausią siūlomą kainą. Jeigu kitam varžytynių dalyviui pasiūlius didesnę kainą ir automatinį kainos didinimą nustačiusio varžytynių dalyvio siūlomą kainą automatiškai padidinus varžytynių dalyvio nustatytu intervalu būtų gauta kaina, viršijanti automatinį kainos didinimą nustačiusio varžytynių dalyvio nurodytą didžiausią kainą, automatinį kainos didinimą nustačiusio varžytynių dalyvio siūloma kaina automatiškai padidinama mažesniu nei jo nustatytu kainos didinimo intervalu iki šio varžytynių dalyvio nurodytos didžiausios siūlomos kainos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 11. Jeigu varžytynių dalyvis, kainą didinantis neautomatiniu būdu, pasiūlo tokią pat kainą, kurią kitas varžytynių dalyvis, kainą didinantis automatiniu būdu, anksčiau yra nurodęs kaip didžiausią siūlomą kainą, rodoma anksčiau automatinį kainos didinimą nustačiusio varžytynių dalyvio didžiausia siūloma kaina, kuri tampa tuo metu už parduodamą turtą siūloma kaina. Šią kainą kiti varžytynių dalyviai gali didinti neautomatiniu būdu pasiūlydami didesnę kainą arba automatiniu būdu nurodydami didesnę didžiausią siūlomą kainą. Šioje dalyje nustatyta tvarka taikoma ir tais atvejais, kai automatiniu būdu kainą didinantis varžytynių dalyvis pasiūlo tokią pat didžiausią siūlomą kainą, kokią kitas varžytynių dalyvis, kainą didinantis automatiniu būdu, anksčiau yra nurodęs kaip didžiausią siūlomą kainą.
 
@@ -2585,17 +2605,11 @@ Pirmosiose varžytynėse parduodamo turto nustatoma pradinė kaina sudaro aštuo
 
 723 straipsnis. Išieškotojo atsisakymo paimti iš antrųjų varžytynių neparduotą turtą pasekmės
 
-1. Jeigu išieškotojas atsisako paimti šio Kodekso 722 straipsnio 2 dalyje nustatyta tvarka jam perduodamą turtą arba per antstolio nustatytą terminą nepraneša apie sutikimą paimti perduodamą turtą ar per nustatytą terminą neįmoka pradinės parduodamo turto kainos ir jo daliai tenkančių lėšų skirtumo, turtas grąžinamas skolininkui.
+Jeigu išieškotojas atsisako paimti šio Kodekso 722 straipsnio 2 dalyje nustatyta tvarka jam perduodamą turtą arba per antstolio nustatytą terminą nepraneša apie sutikimą paimti perduodamą turtą ar per nustatytą terminą neįmoka pradinės parduodamo turto kainos ir jo daliai tenkančių lėšų skirtumo, antstolis turto realizavimą pradeda iš naujo.
 
-2. Grąžindamas skolininkui turtą, to turto areštą savo patvarkymu panaikina antstolis. Jeigu turtas yra areštuotas pagal teismo nutartį, antstolis patvarkymu pasiūlo turto arešto panaikinimo klausimą išspręsti tam teismui, kurio nutartimi turtas buvo areštuotas.
+Straipsnio pakeitimai:
 
-3. Pakartotinai į tą patį turtą pagal tuos pačius vykdomuosius dokumentus išieškojimas gali būti nukreipiamas praėjus ne mažiau kaip vieneriems metams nuo turto grąžinimo skolininkui. Šis apribojimas netaikomas, kai turtas yra įkeistas pagal hipotekos taisykles.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
-
-4. Neparduotą iš varžytynių turtą grąžinus skolininkui, išieškojimas gali būti nukreipiamas bendra tvarka į kitą skolininkui priklausantį turtą.
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 724 straipsnis. Turto pardavimo iš varžytynių aktas
 
@@ -2645,13 +2659,29 @@ Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 4. Jeigu yra keli išieškotojai, neparduotas turtas jiems perduodamas laikantis šio Kodekso 701 straipsnyje nustatytos eilės.
 
-5. Jeigu turtas neparduotas per du mėnesius nuo jo perkainojimo dienos, išieškotojas turi teisę pasiimti tą turtą už šio straipsnio 3 dalyje nustatytą kainą. Jeigu išieškotojas atsisako paimti tą turtą, jis grąžinamas skolininkui.
+5. Jeigu turtas neparduotas per du mėnesius nuo jo perkainojimo dienos, išieškotojas turi teisę pasiimti tą turtą už šio straipsnio 3 dalyje nustatytą kainą. Jeigu išieškotojas atsisako paimti tą turtą, antstolis turto realizavimą pradeda iš naujo.
 
-6. Grąžindamas skolininkui turtą, antstolis patvarkymu panaikina to turto areštą. Jeigu turtas yra areštuotas teismo nutartimi, antstolis patvarkymu pasiūlo turto arešto panaikinimo klausimą išspręsti teismui, kurio nutartimi turtas areštuotas.
+Straipsnio dalies pakeitimai:
 
-7. Pakartotinai į tą patį turtą pagal tuos pačius vykdomuosius dokumentus išieškojimas gali būti nukreipiamas praėjus vieneriems metams nuo turto grąžinimo skolininkui.
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
-8. Grąžinus neparduotą per prekybos įmonę turtą skolininkui, išieškojimas gali būti nukreipiamas bendra tvarka į kitą skolininkui priklausantį turtą.
+6. Neteko galios nuo 2024-04-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+
+7. Neteko galios nuo 2024-04-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+
+8. Neteko galios nuo 2024-04-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 Straipsnio pakeitimai:
 
@@ -2671,9 +2701,11 @@ VERTYBINIŲ POPIERIŲ AREŠTO IR REALIZAVIMO YPATUMAI
 
 1. Nerealizavus vertybinių popierių per šio Kodekso 730 straipsnio 2 dalyje nustatytą terminą, antstolis pasiūlo išieškotojui juos pasiimti už toje dalyje nustatytą kainą.
 
-2. Jeigu išieškotojas atsisako paimti šio Kodekso 720 straipsnyje nustatyta tvarka jam perduodamus vertybinius popierius arba per antstolio nustatytą terminą nepraneša apie savo sutikimą paimti perduodamus vertybinius popierius ar per nustatytą terminą neįmoka pradinės parduodamų vertybinių popierių kainos ir jo daliai tenkančių lėšų skirtumo, tų vertybinių popierių areštas panaikinamas.
+2. Jeigu išieškotojas atsisako paimti šio Kodekso 720 straipsnyje nustatyta tvarka jam perduodamus vertybinius popierius arba per antstolio nustatytą terminą nepraneša apie savo sutikimą paimti perduodamus vertybinius popierius ar per nustatytą terminą neįmoka pradinės parduodamų vertybinių popierių kainos ir jo daliai tenkančių lėšų skirtumo, antstolis vertybinių popierių realizavimą pradeda iš naujo.
 
-3. Pakartotinai į tuos pačius vertybinius popierius pagal tuos pačius vykdomuosius dokumentus išieškojimas gali būti nukreipiamas praėjus ne mažiau kaip vieneriems metams nuo arešto panaikinimo dienos.
+Straipsnio pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 732 straipsnis. Atlyginimo bankui ar finansų maklerio įmonei už vertybinių popierių realizavimą tvarka
 
@@ -2949,7 +2981,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 755 straipsnis. Teismo nuosprendžio, nutarties ar nutarimo arba institucijos ar pareigūno nutarimo dėl turto konfiskavimo vykdymo eilė
 
-1. Jeigu skolininko turtas konfiskuojamas Administracinių nusižengimų kodekso ar Baudžiamojo proceso kodekso nustatyta tvarka, išieškoti iš nuosprendyje, nutartyje ar nutarime nurodyto konfiskuoto turto draudžiama.
+1. Jeigu skolininko turtas konfiskuojamas Administracinių nusižengimų kodekso, Baudžiamojo proceso kodekso ar Civilinio turto konfiskavimo įstatymo nustatyta tvarka, išieškoti iš nuosprendyje, nutartyje ar nutarime nurodyto konfiskuoto turto draudžiama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 2. Jeigu antstoliui vykdyti pateiktas vykdomasis raštas, kuriame nurodyta išieškoti konfiskuotino turto vertę atitinkančią pinigų sumą, šią sumą antstolis išieško atsižvelgdamas į šio Kodekso 754 straipsnyje nustatytą reikalavimų patenkinimo eilę.
 
@@ -3285,13 +3321,15 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 5. Tais atvejais, kai yra laikinai apribojamos nuosavybės teisės į daiktą, priklausantį bendrosios nuosavybės teise, gali būti areštuota tik asmeniui, kuriam taikomos laikinosios apsaugos priemonės, priklausanti turto dalis. Kai turto dalis bendrojoje nuosavybėje nenustatyta, laikinai, kol bus nustatyta šio asmens turto dalis bendrojoje nuosavybėje, gali būti areštuotas visas turtas.
 
-6. Taikant laikinąsias apsaugos priemones, draudžiama areštuoti lėšas, nurodytas šio Kodekso 668 ir 739 straipsniuose. Areštavus lėšas, esančias kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, leidžiama su jomis atlikti tik tas operacijas, kurios nurodytos teismo nutartyje. Teismas, leisdamas atlikti tam tikras operacijas, nurodo antstoliui nustatyti konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti.
+6. Taikant laikinąsias apsaugos priemones, draudžiama areštuoti lėšas, nurodytas šio Kodekso 668 ir 739 straipsniuose. Areštavus lėšas, esančias kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, leidžiama su jomis atlikti tik tas operacijas, kurios nurodytos teismo nutartyje. Teismas, leisdamas atlikti tam tikras operacijas, nurodo antstoliui nustatyti konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti. Šioje dalyje nurodytų lėšų areštas, teismo nutartyje nurodytas leidimas atlikti operacijas su areštuotomis lėšomis ar antstolio nustatyta konkreti suma, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti, nestabdo tos pačios ar pirmesnės reikalavimų patenkinimo eilės išieškojimo vykdymo. Šiuo atveju išieškojimas iš areštuotų lėšų, esančių kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, vykdomas Sprendimų vykdymo instrukcijoje nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
 
 Nr. XIII-3034, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13472
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 7. Tais atvejais, kai areštuotos apyvartoje esančios prekės, žaliavos, pusgaminiai, pagaminta produkcija, turto valdytojas turi teisę keisti šio turto sudėtį ir formą tik tuo atveju, jei nemažės jų bendra vertė ir jei teismo nutartyje nėra nustatyta kitaip.
 
@@ -3767,39 +3805,21 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Informacinių ir elektroninių ryšių technologijų naudojimo antstolio veikloje, taip pat elektroninės vykdomosios bylos tvarkymo ypatumus, be šio Kodekso, nustato Antstolių įstatymas.
 
-2. Atstovavimo sutartyje ar jos išraše, be šio Kodekso 599 straipsnyje nustatytų privalomų duomenų, turi būti nurodytas ir atstovo elektroninio pašto adresas, telefono ir fakso numeriai, kitų turimų elektroninių ryšių priemonių adresai.
+2. Atstovavimo sutartyje ar jos išraše, be šio Kodekso 599 straipsnyje nustatytų privalomų duomenų, turi būti nurodytas ir atstovo elektroninio pašto adresas, telefono numeris, kitų turimų elektroninių ryšių priemonių adresai.
 
-3. Procesiniai dokumentai, siunčiami vykdymo proceso dalyviams šio Kodekso VI dalyje numatytais atvejais elektroninių ryšių priemonėmis pagal šio Kodekso 1751 straipsnio 9 dalį, laikomi įteiktais praėjus penkioms dienoms nuo išsiuntimo dienos, išskyrus šio Kodekso 660 straipsnyje ir kituose straipsniuose numatytus atvejus.
+3. Patvarkymą, įteikiamą elektroninių ryšių priemonėmis, antstolis pasirašo kvalifikuotu elektroniniu parašu (šis parašas turi tokią pat teisinę galią kaip ir parašas rašytiniuose dokumentuose). Kvalifikuotu elektroniniu parašu pasirašytam patvarkymui netaikomas šio Kodekso 613 straipsnio 2 dalies reikalavimas patvarkymą patvirtinti antstolio antspaudu.
 
-4. Šiame Kodekse numatytais atvejais antstolio patvarkymai išsiunčiami suinteresuotiems asmenims elektroninių ryšių priemonėmis pagal šio Kodekso 1751 straipsnio 9 dalį ne vėliau kaip kitą darbo dieną.
+4. Antstolio įrašų elektroniniame vykdomajame dokumente darymo ir elektroninio vykdomojo dokumento grąžinimo tvarka nustatoma Sprendimų vykdymo instrukcijoje.
 
-5. Patvarkymą, įteikiamą elektroninių ryšių priemonėmis, antstolis pasirašo saugiu elektroniniu parašu (šis parašas turi tokią pat teisinę galią kaip ir parašas rašytiniuose dokumentuose).
+5. Išieškotojas ir skolininkas privalo nedelsdami raštu pranešti antstoliui apie savo elektroninio pašto adreso, telefono numerio, kitų elektroninių ryšių priemonių adresų pasikeitimą.
 
-6. Antstolio įrašų elektroniniame vykdomajame dokumente darymo tvarką nustato teisingumo ministras.
+6. Kai yra šio Kodekso 1751 straipsnio 9 dalyje nurodytos sąlygos įteikti procesinius dokumentus elektroninių ryšių priemonėmis, teismas išieškotojui išduoda elektroninį vykdomąjį raštą, pasirašytą kvalifikuotu elektroniniu parašu (šis parašas turi tokią pat teisinę galią kaip ir parašas rašytiniuose dokumentuose). Privalomus elektroninio vykdomojo rašto rekvizitus nustato teisingumo ministras.
 
-7. Šiame Kodekse numatytais vykdomojo dokumento grąžinimo atvejais elektroninis vykdomasis dokumentas grąžinamas elektroninių ryšių priemonėmis.
-
-8. Išieškotojas ir skolininkas privalo nedelsdami raštu pranešti antstoliui apie savo elektroninio pašto adreso, telefono ir fakso numerių, kitų elektroninių ryšių priemonių adresų pasikeitimą.
-
-9. Kai yra šio Kodekso 1751 straipsnio 9 dalyje nurodytos sąlygos įteikti procesinius dokumentus elektroninių ryšių priemonėmis, teismas išieškotojui išduoda elektroninį vykdomąjį raštą, pasirašytą saugiu elektroniniu parašu (šis parašas turi tokią pat teisinę galią kaip ir parašas rašytiniuose dokumentuose). Privalomus elektroninio vykdomojo rašto rekvizitus nustato teisingumo ministras.
-
-10. Vykdomajame rašte, be šio Kodekso 648 straipsnyje nustatytų duomenų, nurodomi išieškotojo ir skolininko elektroninio pašto adresai, telefono ir fakso numeriai, kitų turimų elektroninių ryšių priemonių adresai (jeigu jie žinomi).
-
-11. Asmenys, kuriems šio Kodekso 1751 straipsnio 9 dalyje nustatyta pareiga gauti procesinius dokumentus elektroninių ryšių priemonėmis, pateikdami vykdyti vykdomąjį dokumentą, privalo nurodyti savo elektroninio pašto adresą, telefono ir fakso numerius, kitų turimų elektroninių ryšių priemonių adresus.
-
-12. Raginimas įvykdyti sprendimą skolininkui išsiunčiamas elektroninių ryšių priemonėmis pagal šio Kodekso 1751 straipsnio 9 dalį.
-
-13. Jeigu nėra galimybės pasirašytinai įteikti išieškotojui ir skolininkui turto arešto aktą ar turto aprašą, šie dokumentai siunčiami elektroninių ryšių priemonėmis pagal šio Kodekso 1751 straipsnio 9 dalį.
-
-14. Apie šio Kodekso 740 straipsnyje nurodyto antstolio patvarkymo visišką įvykdymą darbdavys patvarkymą pateikusiam antstoliui taip pat gali pranešti elektroninių ryšių priemonėmis šio Kodekso nustatyta tvarka.
-
-Kodeksas papildytas straipsniu:
-
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+7. Asmenys, pateikdami vykdyti elektroninį vykdomąjį dokumentą, privalo nurodyti savo elektroninio pašto adresą, telefono numerį, kitų turimų elektroninių ryšių priemonių adresus.
 
 Straipsnio pakeitimai:
 
-Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29)
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 XLII SKYRIUS
 
@@ -4039,13 +4059,23 @@ Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 4. Jeigu iš dalies įvykdytas ar visiškai neįvykdytas vykdomasis dokumentas grąžinamas išieškotojui ir vykdymo išlaidos nebuvo išieškotos šio straipsnio 2 dalyje nustatyta tvarka, antstolis Sprendimų vykdymo instrukcijoje nustatytais atvejais ir tvarka vykdomosios bylos neužbaigia ir joje išieško iki vykdomojo dokumento grąžinimo priskaičiuotas vykdymo išlaidas. Jeigu tokioje vykdomojoje byloje išieškotojas nebuvo apmokėjęs vykdymo išlaidų ar jo apmokėtos vykdymo išlaidos buvo išieškotos ir išieškotojui grąžintos, antstolis turi teisę atsisakyti išieškoti likusias vykdymo išlaidas ir vykdomąją bylą užbaigti. Vykdomoji byla, kurioje išieškomos tik vykdymo išlaidos, negali būti vykdoma ilgiau kaip dešimt metų nuo vykdomojo dokumento grąžinimo išieškotojui.
 
-5. Nustatęs, kad antstolio apskaičiuotos vykdymo išlaidos yra aiškiai nepagrįstos, teismas gali skirti antstoliui iki trijų šimtų eurų baudą.
+5. Mirus asmeniui, kuris buvo skolininkas, reikalavimą dėl vykdymo išlaidų apmokėjimo antstolis pareiškia Civilinio kodekso 5.63 straipsnyje nustatyta tvarka. Jeigu vykdomoji byla nutraukiama dėl to, kad mirus asmeniui, kuris buvo skolininkas, vykdomajame dokumente nurodyta pareiga negali pereiti šio asmens įpėdiniui, šiame straipsnyje nustatyta tvarka iš įpėdinio gali būti išieškomos vykdymo išlaidos, kiek leidžia paveldėtas turtas, nesvarbu, kokiu palikimo priėmimo būdu pagal Civilinio kodekso normas skolininko turtas buvo paveldėtas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+
+6. Nustatęs, kad antstolio apskaičiuotos vykdymo išlaidos yra aiškiai nepagrįstos, teismas gali skirti antstoliui iki trijų šimtų eurų baudą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 Straipsnio pakeitimai:
 
@@ -6697,7 +6727,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Kiekvienas liudytojas šaukiamas į teismo posėdžio salę ir apklausiamas atskirai. Neapklausti liudytojai negali būti teismo posėdžio salėje bylos nagrinėjimo metu. Apklaustas liudytojas lieka salėje iki bylos nagrinėjimo pabaigos. Apklaustų liudytojų prašymu teismas, išklausęs dalyvaujančių byloje asmenų nuomonę, gali leisti jiems išeiti iš teismo posėdžio salės.
 
-2. Liudytojas gali būti teismo apklausiamas savo buvimo vietoje, jeigu jis, teismo šaukiamas, dėl ligos, senatvės, neįgalumo ar kitų teismo pripažintų svarbiomis priežasčių negali atvykti, o dalyvaujantis byloje asmuo, kurio iniciatyva šis liudytojas yra kviečiamas, negali užtikrinti jo atvykimo.
+2. Liudytojas gali būti teismo apklausiamas savo buvimo vietoje, jeigu jis, teismo šaukiamas, dėl ligos, senatvės, negalios ar kitų teismo pripažintų svarbiomis priežasčių negali atvykti, o dalyvaujantis byloje asmuo, kurio iniciatyva šis liudytojas yra kviečiamas, negali užtikrinti jo atvykimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 3. Teismas nustato liudytojo asmens tapatybę, išaiškina liudytojo teises ir pareigas bei atsakomybę už priesaikos sulaužymą ir kitų liudytojo pareigų nevykdymą ar netinkamą vykdymą.
 
@@ -10803,19 +10837,21 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 596 straipsnis. Teisių perėmimas vykdymo procese
 
-1. Antstolis savo iniciatyva, vykdymo proceso šalių ar suinteresuotų asmenų prašymu per septynias darbo dienas nuo prašymo gavimo dienos patvarkymu išsprendžia vykdymo proceso šalies pakeitimo klausimą. Antstolio patvarkymas pakeisti arba atsisakymas pakeisti vykdymo procese išieškotoją ar skolininką fizinio asmens mirties, juridinio asmens reorganizavimo ar likvidavimo, taip pat reikalavimo perleidimo ar skolos perkėlimo atveju, kitais įstatymų numatytais atvejais gali būti skundžiamas šiame Kodekse nustatyta tvarka. Apie vykdymo proceso šalies pakeitimą antstolis praneša vykdomąjį dokumentą išdavusiai institucijai ir vykdymo proceso šalims Sprendimų vykdymo instrukcijoje nustatyta tvarka.
+1. Pradėjus vykdymo procesą, skolininko ar išieškotojo pakeitimo klausimą antstolis išsprendžia savo iniciatyva arba vykdymo proceso šalių ar suinteresuotų asmenų prašymu per septynias darbo dienas nuo prašymo gavimo dienos.
 
-2. Pirmosios instancijos teismas, kuriame buvo išnagrinėta grupės ieškinio byla, kai daugiau kaip pusė visų grupės narių pateikia teismui kreipimąsi dėl grupės atstovo pakeitimo, nutartimi vykdymo procese pakeičia grupės atstovą (išieškotoją). Šiame kreipimesi turi būti nurodytas asmuo, kurį grupės nariai siūlo pripažinti grupės atstovu. Kreipimąsi dėl grupės atstovo pakeitimo turi pasirašyti jį teikiantys grupės nariai, kartu su šiuo kreipimusi turi būti pateiktas rašytinis asmens, kurį siūloma pripažinti grupės atstovu, sutikimas būti grupės atstovu.
+2. Jeigu pagrindas pakeisti skolininką ar išieškotoją atsirado prieš pradedant vykdymo procesą, antstolis skolininko ar išieškotojo pakeitimo klausimą sprendžia tuo atveju, kai yra išduotas ir antstoliui vykdyti pateiktas vykdomasis dokumentas. Vykdomąjį dokumentą vykdyti pateikiantis asmuo, pageidaujantis, kad būtų pakeistas skolininkas ar išieškotojas, kartu su vykdomuoju dokumentu antstoliui turi pateikti prašymą pakeisti skolininką ar išieškotoją ir pridėti įrodymus kaip pagrindą pakeisti skolininką ar išieškotoją.
 
-3. Visi veiksmai, atlikti iki įstojimo į vykdymo procesą, teisių perėmėjui privalomi tiek, kiek jie buvo privalomi anksčiau procese dalyvavusiam asmeniui.
+3. Klausimą dėl skolininko ar išieškotojo pakeitimo fizinio asmens mirties, juridinio asmens reorganizavimo ar likvidavimo, taip pat reikalavimo perleidimo ar skolos perkėlimo atveju, kitais įstatymų nustatytais atvejais antstolis išsprendžia patvarkymu. Šis patvarkymas gali būti skundžiamas šio Kodekso 510 straipsnyje nustatyta tvarka. Apie skolininko ar išieškotojo pakeitimą antstolis praneša vykdomąjį dokumentą išdavusiai institucijai ir vykdymo proceso šalims Sprendimų vykdymo instrukcijoje nustatyta tvarka.
 
-Straipsnio pakeitimai:
+4. Pirmosios instancijos teismas, kuriame buvo išnagrinėta grupės ieškinio byla, kai daugiau kaip pusė visų grupės narių pateikia teismui kreipimąsi dėl grupės atstovo pakeitimo, nutartimi vykdymo procese pakeičia grupės atstovą (išieškotoją). Šiame kreipimesi turi būti nurodytas asmuo, kurį grupės nariai siūlo pripažinti grupės atstovu. Kreipimąsi dėl grupės atstovo pakeitimo turi pasirašyti jį teikiantys grupės nariai, kartu su šiuo kreipimusi turi būti pateiktas rašytinis asmens, kurį siūloma pripažinti grupės atstovu, sutikimas būti grupės atstovu.
 
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+5. Visi veiksmai, atlikti iki įstojimo į vykdymo procesą, teisių perėmėjui privalomi tiek, kiek jie buvo privalomi anksčiau procese dalyvavusiam asmeniui.
 
 Straipsnio pakeitimai:
 
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 597 straipsnis. Vertėjo dalyvavimas vykdymo procese
 
@@ -10947,6 +10983,12 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 3. Pakeisti įrašą vykdomajame dokumente apie nurodytą išieškotojo ar skolininko gyvenamąją ar buveinės vietą antstolis gali tik esant rašytiniam išieškotojo ar skolininko prašymui ar po paieškos nustačius naują skolininko gyvenamąją vietą.
 
+4. Įrašų darymo elektroniniame vykdomajame dokumente tvarka nustatoma Sprendimų vykdymo instrukcijoje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+
 616 straipsnis. Bauda ir areštas vykdymo procese
 
 1. Vykdymo procese nustatytais atvejais kalti asmenys už proceso pažeidimus gali būti baudžiami pinigine bauda arba areštu šio Kodekso 106, 108 straipsniuose nustatyta tvarka.
@@ -11063,7 +11105,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
-3) jeigu išieškotojas atsisakė paimti skolininko turtą, neparduotą vykdant sprendimą;
+3) Neteko galios nuo 2024-04-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 4) jeigu nėra skolininko turto ir išieškotojo nurodytu adresu skolininkas negyvena ar nedirba, išskyrus šio Kodekso 620 straipsnio 1 dalyje numatytus atvejus, arba jeigu nežinoma juridinio asmens buveinė;
 
@@ -11077,13 +11123,19 @@ Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
-7) jeigu antstolis nusišalino ar buvo nušalintas ir nebuvo gautas išieškotojo pageidavimas perduoti vykdomąjį dokumentą kitam antstoliui;
+7) jeigu antstolis nusišalino ar buvo nušalintas;
 
-8) jeigu vykdymo veiksmai turi būti atliekami kito antstolio veiklos teritorijoje ir jeigu vykdomasis dokumentas nebuvo persiųstas vykdyti išieškotojo raštu nurodytam antstoliui (šio Kodekso 590 straipsnio 4 dalis);
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+
+8) jeigu vykdymo veiksmai turi būti atliekami kito antstolio veiklos teritorijoje (šio Kodekso 590 straipsnio 5 dalis);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 9) nustačius, kad skolininkas Lietuvos Respublikos teritorijoje negyvena, nedirba ir neturi turto ar pajamų.
 
@@ -11091,7 +11143,11 @@ Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
 
 3. Vykdomojo dokumento grąžinimas išieškotojui per įstatymų nustatytą terminą netrukdo iš naujo pateikti šį dokumentą vykdyti.
 
-4. Grąžindamas vykdomąjį dokumentą, antstolis panaikina visas priemones, kurių buvo imtasi išieškojimui įvykdyti.
+4. Grąžindamas vykdomąjį dokumentą, išskyrus šio straipsnio 1 dalies 7 ir 8 punktuose nurodytus atvejus, antstolis panaikina visas priemones, kurių buvo imtasi išieškojimui įvykdyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 5. Jeigu yra šiame Kodekse numatyti pagrindai grąžinti vykdomąjį dokumentą išieškotojui, tačiau nežinoma jo buvimo vieta, vykdomasis dokumentas grąžinamas jį išdavusiai institucijai.
 
@@ -11279,13 +11335,31 @@ VYKDOMŲJŲ RAŠTŲ IŠDAVIMO TVARKA
 
 5) sprendimo įsiteisėjimo laikas arba nuoroda, kad sprendimas skubiai vykdytinas;
 
-6) vykdomojo rašto išdavimo laikas;
+6) vykdomojo rašto išdavimo data;
 
-7) pilnas išieškotojo ir skolininko pavadinimas ir jų adresai, asmens kodas, juridinio asmens kodas, kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų rekvizitai (jeigu žinomi). Vykdomajame rašte dėl išlaikymo periodinėmis išmokomis išieškojimo, be to, nurodomos vaikų gimimo datos.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+
+7) išieškotojo ir skolininko duomenys: vardas, pavardė, asmens kodas (jeigu išieškotojas ar skolininkas neturi Lietuvos Respublikos gyventojų registro įstatymo nustatyta tvarka jam suteikto asmens kodo, – asmens gimimo data, jeigu išieškotojas ar skolininkas yra juridinis asmuo, – pavadinimas ir juridinio asmens kodas), adresas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+
+8) išieškotojo ir skolininko kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų rekvizitai, elektroninio pašto adresai, telefono numeriai, kitų turimų elektroninių ryšių priemonių adresai (jeigu jie žinomi);
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+
+9) vykdomajame rašte dėl išlaikymo periodinėmis išmokomis išieškojimo – vaikų gimimo datos.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 2. Prireikus vykdomajame rašte nurodoma, jog pagal teismo nutartį antstoliui leidžiama įeiti į skolininko būstą be jo sutikimo.
 
@@ -11331,11 +11405,15 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 654 straipsnis. Pirminiai vykdomieji veiksmai
 
-Antstolis, priėmęs vykdyti vykdomąjį dokumentą, priima patvarkymą priimti vykdomąjį dokumentą vykdyti, o įstatymo nustatytais atvejais – ir raginimą įvykdyti sprendimą. Šiuo patvarkymu antstolis išaiškina skolininkui, kad skola ir vykdymo išlaidos bus išieškotos priverstinai, taip pat informuoja apie vėlesnių procesinių dokumentų įteikimą elektroninių ryšių priemonėmis. Šis patvarkymas siunčiamas skolininkui registruotąja pašto siunta.
+1. Antstolis, priėmęs vykdyti vykdomąjį dokumentą, priima patvarkymą priimti vykdomąjį dokumentą vykdyti, o įstatymo nustatytais atvejais – ir raginimą įvykdyti sprendimą. Šiuo patvarkymu antstolis išaiškina skolininkui, kad skola ir vykdymo išlaidos bus išieškotos priverstinai, taip pat informuoja apie vėlesnių procesinių dokumentų įteikimą elektroninių ryšių priemonėmis. Šis patvarkymas, išskyrus šio straipsnio 2 dalyje nurodytą atvejį, siunčiamas skolininkui registruotąja pašto siunta.
+
+2. Jeigu vykdomąjį dokumentą priėmęs vykdyti antstolis skolininko atžvilgiu vykdo kitą vykdomąją bylą, kurioje procesiniai dokumentai skolininkui siunčiami elektroninių ryšių priemonėmis, patvarkymas priimti vykdomąjį dokumentą vykdyti skolininkui siunčiamas elektroninių ryšių priemonėmis.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 XLVI SKYRIUS
 
@@ -11397,7 +11475,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 3. Jeigu skolininkas nepateikia antstoliui šio straipsnio 1 dalyje nurodytų įrodymų arba paaiškėja, kad išieškotina suma ir vykdymo išlaidos nebus išieškotos per šio straipsnio 1 dalyje nustatytą terminą, išieškoti iš skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, galima tik tuo atveju, kai išieškotina suma ir vykdymo išlaidos viršija keturis tūkstančius eurų. Šioje dalyje nustatytas apribojimas netaikomas, jeigu skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, vertė yra mažesnė negu išieškotina suma ir vykdymo išlaidos.
 
-4. Teismas skolininko ar jo šeimos narių prašymu po to, kai skolininkui priklausantis paskutinis būstas, kuriame jis gyvena, išieškant sumas, nesumokėtas už sunaudotus energijos išteklius, komunalines ir kitokias paslaugas, yra areštuotas, gali nustatyti, kad iš šio būsto nebūtų išieškoma. Tai teismas gali nustatyti atsižvelgdamas į vaikų, neįgaliųjų ir socialiai remtinų asmenų materialinę padėtį, interesus ir būtinumą gyventi šiame būste. Prašymas dėl to paduodamas ir nagrinėjamas apylinkės teisme šio Kodekso 593 straipsnyje nustatyta tvarka.
+4. Teismas skolininko ar jo šeimos narių prašymu po to, kai skolininkui priklausantis paskutinis būstas, kuriame jis gyvena, išieškant sumas, nesumokėtas už sunaudotus energijos išteklius, komunalines ir kitokias paslaugas, yra areštuotas, gali nustatyti, kad iš šio būsto nebūtų išieškoma. Tai teismas gali nustatyti atsižvelgdamas į vaikų, asmenų su negalia ir socialiai remtinų asmenų materialinę padėtį, interesus ir būtinumą gyventi šiame būste. Prašymas dėl to paduodamas ir nagrinėjamas apylinkės teisme šio Kodekso 593 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 5. Šio straipsnio 3 dalyje nustatyti apribojimai netaikomi išieškant iš įkeisto turto.
 
@@ -11575,7 +11657,11 @@ Iš skolininko paimtus materialius vertybinius popierius, tauriųjų metalų (au
 
 685 straipsnis. Iš skolininko paimtų pinigų saugojimas
 
-Rastas pas skolininką pinigų sumas, reikalingas išieškomai sumai ir vykdymo išlaidoms padengti, antstolis iš skolininko paima išduodamas Sprendimų vykdymo instrukcijoje nustatytos formos kvitą ir ne vėliau kaip kitą darbo dieną sumoka į antstolio depozitinę sąskaitą.
+Rastas pas skolininką pinigų sumas, reikalingas išieškomai sumai ir vykdymo išlaidoms padengti, antstolis iš skolininko paima išduodamas Sprendimų vykdymo instrukcijoje nustatytos formos kvitą ir ne vėliau kaip per tris darbo dienas sumoka į antstolio depozitinę sąskaitą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 686 straipsnis. Areštuoto nekilnojamojo turto nuoma (panauda)
 
@@ -11881,7 +11967,11 @@ SKOLININKO TURTO ADMINISTRAVIMAS
 
 3. Antrąja eile patenkinami darbuotojų reikalavimai, atsirandantys iš darbo teisinių santykių.
 
-4. Trečiąja eile patenkinami visi kiti reikalavimai.
+4. Trečiąja eile patenkinami visi kiti reikalavimai, įskaitant ir kylančius iš regreso  teisės reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 5. Jeigu išieškotos sumos neužtenka visiems vienos eilės reikalavimams visiškai patenkinti, jie patenkinami proporcingai kiekvienam išieškotojui priklausančiai sumai. Jeigu to paties išieškotojo naudai vykdomos kelios vykdomosios bylos, išieškotos sumos skiriamos reikalavimams anksčiausiai pradėtoje vykdomojoje byloje patenkinti.
 
@@ -12536,6 +12626,12 @@ CIVILINIO PROCESO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 1. Jeigu vykdant savavališkai pastatyto statinio griovimą (ar jo dalies ardymą) paaiškėja, kad statinyje ar jo dalyje yra asmenų, antstolis veikia šio Kodekso 585 straipsnio 2 dalyje nustatyta tvarka. Šiuo atveju policijos dalyvavimas būtinas.
 
 2. Jeigu vykdant teismo sprendimus ar privalomuosius nurodymus dėl statybos pažeidžiant teisės aktų reikalavimus griautiname statinyje ar ardytinoje jo dalyje yra turto ir skolininkas jo nepasiima, šis turtas saugomas (aprašomas, įkainojamas, perduodamas) ir realizuojamas šio Kodekso 766 straipsnyje nustatyta tvarka.
+
+3. Jeigu griautiname statinyje ar ardytinoje jo dalyje yra turto, priklausančio tretiesiems asmenims, ir savininkai turto nepasiima, šis turtas perduodamas saugoti išieškotojui arba išieškotojo pasiūlytam turto saugotojui. Visas su turto saugojimu susijusias išlaidas atlygina skolininkas. Jeigu išieškotojas atsisako saugoti tretiesiems asmenims priklausantį turtą ir nepasiūlo turto saugotojo, teismo sprendimo ar privalomojo nurodymo dėl statybos pažeidžiant teisės aktų reikalavimus vykdymas gali būti sustabdomas, kol bus išspręstas turto saugojimo klausimas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 Papildyta straipsniu:
 
