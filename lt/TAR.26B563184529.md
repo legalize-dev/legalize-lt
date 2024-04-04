@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2024-01-02"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-01-02 iki 2024-04-03
+Suvestinė redakcija nuo 2024-04-04 iki 2024-04-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
 
@@ -1358,7 +1358,7 @@ Teritorijų planavimo viešinimo procedūros yra:
 
 4) registruotais laiškais – Vyriausybės nustatyta tvarka ir atvejais informuojama apie teritorijų planavimo dokumentų rengimo pradžią ir planavimo tikslus, apie pasiūlymų teikimo tvarką ir parengtų teritorijų planavimo dokumentų viešo svarstymo vietą ir laiką;
 
-5) žodžiu ar raštu pagal suinteresuotų asmenų žodinius ir rašytinius prašymus.
+5) žodžiu ar raštu pagal suinteresuotų asmenų žodinius ir rašytinius prašymus;
 
 2. Planavimo organizatorius gali naudoti papildomus informacijos apie teritorijų planavimo procesą teikimo būdus.
 
@@ -1735,6 +1735,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 18, 20, 24 ir 27 straipsnių pakeitimo įstatymas
+
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 7, 18, 20, 29, 31, 33, 34 ir 35 straipsnių pakeitimo įstatymas
+
+28.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2523, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06310
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 7, 18, 20, 29, 31, 33, 34 ir 35 straipsnių pakeitimo įstatymo Nr. XIV-2420 9 straipsnio pakeitimo įstatymas
 
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai ir vadovai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
