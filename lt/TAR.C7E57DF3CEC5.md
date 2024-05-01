@@ -4,7 +4,7 @@ identifier: "TAR.C7E57DF3CEC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2024-01-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
 
@@ -685,6 +685,22 @@ Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
 
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12, 13 ir 15-5 straipsnių pakeitimo įstatymas
 
+29.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
+
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13-1 ir 15-4 straipsnių pakeitimo įstatymas
+
+30.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
+
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-5 straipsnio pakeitimo įstatymas
+
 151 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties samprata
 
 1. Pagal valdžios ir privataus subjektų partnerystės sutartį valdžios subjektas suteikia privačiam subjektui teisę vykdyti šio įstatymo 152 straipsnio 3 dalyje nustatytą veiklą, valdyti ir naudoti šiai veiklai vykdyti reikalingą valstybės arba savivaldybės turtą ir įsipareigoja mokėti privačiam subjektui atlyginimą už jo vykdomą veiklą, o privatus subjektas įsipareigoja vykdyti sutartyje nustatytą veiklą ir užtikrinti investicijas, kurių reikia šiai veiklai vykdyti ir jai vykdyti reikalingam turtui sukurti arba perduoto valdyti ir naudoti turto būklei pagerinti.
@@ -933,7 +949,11 @@ Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
 
 155 straipsnis. Stambiems projektams taikomos specialios investavimo ir verslo sąlygos
 
-1. Šiame straipsnyje nustatytos specialios investavimo ir verslo sąlygos stambiems projektams įgyvendinti taikomos tik tuo atveju, jeigu dėl jų taikymo yra susitarta stambaus projekto investicijų sutartyje. Šios sąlygos taikomos nuo stambaus projekto įrašymo į stambių projektų sąrašą iki stambaus projekto investicijų sutartyje nustatyto stambaus projekto įgyvendinimo termino, o šio straipsnio 9 dalyje nurodytos specialios investavimo ir verslo sąlygos – iki stambaus projekto tęstinumo laikotarpio pabaigos termino. Šio straipsnio 3 dalyje nurodytos specialios investavimo ir verslo sąlygos laisvosios ekonominės zonos įmonėms taikomos nuo laisvosios ekonominės zonos įmonės statuso gavimo. Šiame straipsnyje nustatytos stambiems projektams įgyvendinti taikomos specialios investavimo ir verslo sąlygos visais atvejais nebetaikomos išbraukus stambų projektą iš stambių projektų sąrašo.
+1. Šiame straipsnyje, išskyrus šio straipsnio 10 dalį, nustatytos specialios investavimo ir verslo sąlygos stambiems projektams įgyvendinti taikomos tik tuo atveju, jeigu dėl jų taikymo yra susitarta stambaus projekto investicijų sutartyje. Šios sąlygos taikomos nuo stambaus projekto įrašymo į stambių projektų sąrašą dienos iki stambaus projekto investicijų sutartyje nustatyto stambaus projekto įgyvendinimo termino, o šio straipsnio 9 dalyje nurodytos specialios investavimo ir verslo sąlygos – iki stambaus projekto tęstinumo laikotarpio pabaigos termino. Šio straipsnio 3 dalyje nurodytos specialios investavimo ir verslo sąlygos laisvosios ekonominės zonos įmonėms taikomos nuo laisvosios ekonominės zonos įmonės statuso gavimo dienos. Šiame straipsnyje nustatytos stambiems projektams įgyvendinti taikomos specialios investavimo ir verslo sąlygos visais atvejais nebetaikomos išbraukus stambų projektą iš stambių projektų sąrašo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
 
 2. Sudarius stambaus projekto investicijų sutartį, stambus projektas įtraukiamas į stambių projektų sąrašą ir nuo įtraukimo į šį sąrašą dienos yra laikomas valstybei svarbiu projektu. Šio valstybei svarbaus projekto teritorijų planavimo dokumento planavimo organizatorė yra Ekonomikos ir inovacijų ministerija, kai tokiam teritorijų planavimo dokumentui taikoma Teritorijų planavimo įstatyme nustatyta valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka. Stambus projektas netenka valstybei svarbaus projekto statuso jį išbraukus iš stambių projektų sąrašo. Stambūs projektai išbraukiami iš stambių projektų sąrašo pasibaigus stambaus projekto įgyvendinimo terminui, jeigu nėra nustatytas stambaus projekto tęstinumo laikotarpis, pasibaigus stambaus projekto tęstinumo laikotarpiui arba nutraukus stambaus projekto investicijų sutartį, jeigu ji nutraukiama anksčiau, negu pasibaigia stambaus projekto įgyvendinimo terminas arba stambaus projekto tęstinumo laikotarpis. Stambių projektų įtraukimo į stambių projektų sąrašą ir išbraukimo iš šio sąrašo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
@@ -982,6 +1002,12 @@ Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
 3) bedarbiams ar užimtiems asmenims iš valstybės biudžeto ir Europos Sąjungos struktūrinių fondų ir Europos prisitaikymo prie globalizacijos padarinių fondo (toliau – fondai) bendrai skiriama lėšų suma, įskaitant pagal Lietuvos Respublikos užimtumo įstatymą bedarbiams ar užimtiems asmenims iš fondų bendrai skiriamą lėšų sumą, negali viršyti 9,3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai įgyti ir 4,66 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai tobulinti ar kompetencijai įgyti, kai įgyjama ar tobulinama kvalifikacija arba įgyjama kompetencija, reikalinga stambaus projekto investicijų sutartims įgyvendinti.
 
 9. Investuotojui pelno mokesčio lengvatos taikomos Lietuvos Respublikos pelno mokesčio įstatymo nustatyta tvarka.
+
+10. Stambus projektas Lietuvos Respublikos Vyriausybės nutarimu gali būti pripažintas užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius. Motyvuotą siūlymą dėl stambaus projekto pripažinimo užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius Lietuvos Respublikos Vyriausybei teikia Lietuvos Respublikos ekonomikos ir inovacijų ministerija, gavusi Lietuvos Respublikos krašto apsaugos ministerijos motyvuotą pritarimą. Stambiam projektui, Lietuvos Respublikos Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, taikomos ir kitos, šiame straipsnyje nenumatytos, specialios investavimo ir verslo sąlygos, kai šios specialios sąlygos nustatytos Statybos įstatyme, Žemės įstatyme, Teritorijų planavimo įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
 
 156 straipsnis. Stambių projektų koordinavimas
 
