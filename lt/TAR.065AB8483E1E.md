@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2024-01-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-20
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -2152,23 +2152,27 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
 
-6. Komisija, atlikusi tyrimą ir nustačiusi, kad užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai, asmenys, vykdantys nelicencijuojamą televizijos programų transliavimo veiklą, išskyrus atvejus, kai veikla vykdoma iš Europos Sąjungos valstybių narių ar Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių valstybių, ar asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, pradėjo vykdyti šią veiklą nepranešę Komisijai šio įstatymo nustatyta tvarka, turi teisę:
+6. Komisija, atlikusi tyrimą ir nustačiusi, kad užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai, asmenys, vykdantys nelicencijuojamą televizijos programų transliavimo veiklą, išskyrus atvejus, kai veikla vykdoma iš Europos Sąjungos valstybių narių ar Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių valstybių, ar asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, pradėjo vykdyti šią veiklą nepranešę Komisijai šio įstatymo nustatyta tvarka, turi teisę Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoti privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjui skubiai pašalinti elektroninės informacijos prieglobos paslaugų teikėjo saugomą informaciją, naudojamą vykdant veiklą, apie kurią Komisijai nebuvo pranešta, arba panaikinti galimybę šią informaciją pasiekti ir duoti privalomus nurodymus viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjui panaikinti galimybę pasiekti informaciją, naudojamą vykdant veiklą, apie kurią nebuvo pranešta teisės aktų nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
-Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
+Nr. XIV-2146, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14042
 
-1) duoti privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjui skubiai pašalinti elektroninės informacijos prieglobos paslaugų teikėjo saugomą informaciją, naudojamą vykdant veiklą, apie kurią Komisijai nebuvo pranešta, arba panaikinti galimybę šią informaciją pasiekti;
+7. Neteko galios nuo 2024-05-01
 
-2) duoti privalomus nurodymus viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjui panaikinti galimybę pasiekti informaciją, naudojamą vykdant veiklą, apie kurią nebuvo pranešta teisės aktų nustatyta tvarka.
+Straipsnio dalies naikinimas:
 
-7. Komisija, siekdama atlikti šio straipsnio 6 dalyje nurodytus veiksmus, privalo pirmosios instancijos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Šiame prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamo pažeidimo (įtariamų pažeidimų) pobūdis ir veiksmai, kuriuos numatoma atlikti. Teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį patenkinti prašymą išduoti leidimą atlikti veiksmus arba atmesti šį prašymą. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir teismo nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Komisija nesutinka su teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo dienos ją apskųsti Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo Komisijos skundo priėmimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+Nr. XIV-2146, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14042
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
 
-8. Galimybių pasiekti informaciją, kuri naudojama vykdant televizijos programų ir (ar) atskirų programų platinimo internete Lietuvos Respublikos vartotojams veiklą, apie kurią nebuvo pranešta teisės aktų nustatyta tvarka, panaikinimo užtikrinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+8. Neteko galios nuo 2024-05-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2146, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14042
 
 9. Komisija, įstatymų nustatyta tvarka taikydama poveikio priemones radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, kitiems asmenims, teikiantiems Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjams, pažeidusiems šio įstatymo, Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo ar transliavimo licencijų ir (ar) retransliuojamo turinio licencijų reikalavimus, nevykdantiems Komisijos sprendimų, atsižvelgia į:
 
@@ -2426,11 +2430,15 @@ Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
 
 9) skundo (pareiškimo) nagrinėjimą nutraukti;
 
-10) duoti privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjams arba viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams pašalinti arba panaikinti galimybę pasiekti informaciją, nurodytą Visuomenės informavimo įstatymo 19 straipsnio 1 dalies 1 ar 3 punkte.
+10) Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoti privalomus nurodymus pašalinti informaciją, nurodytą šio įstatymo 19 straipsnio 1 dalies 1 ar 3 punkte, arba panaikinti galimybę ją pasiekti.
 
 Papildyta straipsnio punktu:
 
 Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2146, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14042
 
 4. Inspektoriui teikiamame skunde (pareiškime) turi būti nurodyta:
 
@@ -2611,8 +2619,6 @@ Priedo pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
-
-part_894ec9958bd946c6a470a0d91a4a9c0b_end
 
 Pakeitimai:
 
@@ -3338,9 +3344,17 @@ Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 
 5. Viešosios informacijos rengėjo ir (ar) skleidėjo veikla gali būti nutraukiama tuo atveju, jeigu per paskutinius 12 mėnesių teismas jau buvo bent kartą sustabdęs jo veiklą šio straipsnio 4 dalyje nustatyta tvarka ir viešosios informacijos rengėjas ir (ar) skleidėjas pakartotinai padaro šio įstatymo 19 straipsnio 1 dalies pažeidimą. Sprendimas dėl viešosios informacijos rengėjo ir (ar) skleidėjo veiklos nutraukimo priimamas mutatis mutandis šio straipsnio 4 dalyje nustatyta tvarka.
 
-6. Inspektorius, sužinojęs apie internete skleidžiamą šio įstatymo 19 straipsnio 1 dalies 1 ar 3 punkte nurodytą neskelbtiną informaciją ir atsižvelgęs į informacijos pavojingumą, jos saugojimo vietą ar kitas reikšmingas aplinkybes, praneša apie tokią informaciją viešosios informacijos rengėjui ir (ar) skleidėjui, reikalaudamas šią informaciją nedelsiant pašalinti arba panaikinti galimybę ją pasiekti. Jeigu viešosios informacijos rengėjas ir (ar) skleidėjas per 8 valandas nuo inspektoriaus pranešimo gavimo nepašalina šios informacijos ar nepanaikina galimybės ją pasiekti arba jeigu per 8 valandas nuo inspektoriaus pastebėto pažeidimo momento nėra galimybės nustatyti viešosios informacijos rengėją ir (ar) skleidėją, inspektorius duoda privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjams arba viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams panaikinti galimybę šią informaciją pasiekti ne ilgiau kaip 72 valandoms, o privalomus nurodymus pašalinti šią informaciją arba panaikinti galimybę ją pasiekti ilgiau kaip 72 valandoms – su teismo leidimu.
+6. Inspektorius, sužinojęs apie internete skleidžiamą šio įstatymo 19 straipsnio 1 dalies 1 ar 3 punkte nurodytą neskelbtiną informaciją ir atsižvelgęs į informacijos pavojingumą, jos saugojimo vietą ar kitas reikšmingas aplinkybes, praneša apie tokią informaciją Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka viešosios informacijos rengėjui ir (ar) skleidėjui.
 
-7. Siekdamas gauti šio straipsnio 6 dalyje nurodytą leidimą duoti privalomus nurodymus pašalinti neskelbtiną informaciją arba panaikinti galimybę ją pasiekti ilgiau kaip 72 valandoms, inspektorius privalo Vilniaus apygardos administraciniam teismui pateikti prašymą išduoti leidimą atlikti šiuos veiksmus. Prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jeigu žinomi), įtariamo pažeidimo pobūdis ir veiksmai, kuriuos numatoma atlikti. Vilniaus apygardos administracinis teismas išnagrinėja prašymą ir priima motyvuotą nutartį jį patenkinti arba atmesti ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu inspektorius nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, jis turi teisę per 7 kalendorines dienas nuo teismo nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo inspektoriaus skundo priėmimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2146, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14042
+
+7. Neteko galios nuo 2024-05-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2146, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14042
 
 TAR pastaba. 52 straipsnio nuostatos taikomos ir iki įstatymo Nr. XIV-1021 įsigaliojimo dienos (2022-04-29) pradėtoms viešosios informacijos rengėjo ir (ar) skleidėjo veiklos laikino sustabdymo ar nutraukimo procedūroms, išskyrus atvejus, kai šios procedūros pradėtos nustačius, kad viešosios informacijos rengėjas ir (ar) skleidėjas pažeidė Visuomenės informavimo įstatymo 19 straipsnio 2 dalies reikalavimus. Tokiais atvejais pradėtos viešosios informacijos rengėjo ir (ar) skleidėjo veiklos laikino sustabdymo ar nutraukimo procedūros turi būti nutraukiamos.
 
