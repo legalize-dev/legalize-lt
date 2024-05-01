@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2024-02-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2024-02-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -1080,7 +1080,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-107, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29786
 
-28) tvirtina reikalavimus transporto priemonių techninę priežiūrą ir remontą atliekantiems asmenims ir nustato transporto priemonių techninės priežiūros ir remonto paslaugų teikimo tvarką;
+28) Neteko galios nuo 2024-05-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
 
 Straipsnio punkto pakeitimai:
 
@@ -1133,6 +1137,12 @@ Nr. XIII-107, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29786
 Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
 
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
+
+11. Užtikrindamos eismo saugumą ir siekdamos mažinti kenksmingą (neigiamą) poveikį aplinkai, Susisiekimo ministerija kartu su Aplinkos ministerija nustato transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo paslaugų teikimo tvarką ir aplinkos apsaugos reikalavimus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
 
 2. Užtikrindama eismo saugumą, Socialinės apsaugos ir darbo ministerija ar jos įgaliotos institucijos nustato asmenis, turinčius teisę naudoti skiriamąjį ženklą „Neįgalusis“, ir neįgalių asmenų automobilių statymo kortelės ir dokumento, patvirtinančio teisę naudoti skiriamąjį ženklą „Neįgalusis“, išdavimo tvarką.
 
