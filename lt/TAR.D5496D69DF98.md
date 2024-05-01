@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2023-09-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2023-09-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-11-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -811,7 +811,11 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-1592, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18206
 
-5) akcinei bendrovei ar uždarajai akcinei bendrovei nustatant (formuojant) įstatinį kapitalą, jeigu teisės aktų nustatyta tvarka valstybės ar savivaldybės įmonė pertvarkoma į akcinę bendrovę ar uždarąją akcinę bendrovę;
+5) akcinei bendrovei ar uždarajai akcinei bendrovei nustatant (formuojant) įstatinį kapitalą, jeigu teisės aktų nustatyta tvarka valstybės ar savivaldybės įmonė, viešoji įstaiga pertvarkoma į akcinę bendrovę ar uždarąją akcinę bendrovę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2261, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22995
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -1736,6 +1740,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1892, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08045
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 10 straipsnio pakeitimo įstatymas
+
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2261, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22995
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 22 straipsnio pakeitimo įstatymas
 
 26 straipsnis. Valstybės ir savivaldybių turto pripažinimas nereikalingu arba netinkamu (negalimu) naudoti
 
