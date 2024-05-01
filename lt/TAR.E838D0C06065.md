@@ -4,7 +4,7 @@ identifier: "TAR.E838D0C06065"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-21"
-last_updated: "2023-01-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E838D0C06065"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ, ATLIEKAMŲ GYNYBOS IR SAUGUMO
 
 SRITYJE, ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-05-30
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4135, i. k. 1111010ISTA0XI-1491
 
@@ -493,7 +493,11 @@ Perkančioji organizacija, siekdama apsaugoti atliekant pirkimo procedūras tiek
 
 6. Neatsižvelgdama į tai, kad numatoma pirkimo vertė yra lygi tarptautinio pirkimo vertės ribai arba ją viršija, perkančioji organizacija turi teisę šio įstatymo nustatyta tvarka atlikti supaprastintus pirkimus toms atskiroms pirkimo dalims, kurių kiekvienos vertė yra mažesnė kaip 80 000 (aštuoniasdešimt tūkstančių) eurų (be pridėtinės vertės mokesčio) perkant to paties tipo prekes ar paslaugas, 1 000 000 (vienas milijonas) eurų (be pridėtinės vertės mokesčio) perkant darbus, jeigu bendra tokių pirkimo dalių vertė yra ne didesnė kaip 20 procentų bendros visų pirkimo dalių vertės.
 
-7. Neatsižvelgdama į tai, kad numatoma pirkimo vertė yra lygi mažos vertės pirkimo ribai arba ją viršija, perkančioji organizacija turi teisę šio įstatymo nustatyta tvarka atlikti mažos vertės pirkimą toms atskiroms pirkimo dalims, kurių bendra vertė yra mažesnė kaip 58 000 (penkiasdešimt aštuoni tūkstančiai) eurų (be pridėtinės vertės mokesčio) to paties tipo prekių ar paslaugų sutarčių vertės, o perkant darbus – mažesnė kaip 145 000 (šimtas keturiasdešimt penki tūkstančiai) eurų (be pridėtinės vertės mokesčio).
+7. Neatsižvelgdama į tai, kad numatoma pirkimo vertė yra lygi mažos vertės pirkimo ribai arba ją viršija, perkančioji organizacija turi teisę šio įstatymo nustatyta tvarka atlikti mažos vertės pirkimą toms atskiroms pirkimo dalims, kurių bendra vertė yra mažesnė kaip 70 000 (septyniasdešimt tūkstančių) eurų (be pridėtinės vertės mokesčio) to paties tipo prekių ar paslaugų sutarčių vertės, o perkant darbus – mažesnė kaip 174 000 (vienas šimtas septyniasdešimt keturi tūkstančiai) eurų (be pridėtinės vertės mokesčio).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
 
 8. Jeigu numatoma pirkimo vertė yra lygi tarptautinio pirkimo vertės ribai arba ją viršija ir perkančioji organizacija pasinaudoja šio straipsnio 6 ir 7 dalyse nustatytomis teisėmis, turi būti užtikrinama, kad bendra pagal šio straipsnio 6 ir 7 dalis atliekamo pirkimo dalių vertė būtų ne didesnė kaip 20 procentų bendros visų pirkimo dalių vertės.
 
@@ -539,7 +543,11 @@ Perkančioji organizacija, siekdama apsaugoti atliekant pirkimo procedūras tiek
 
 3) šio įstatymo 15 straipsnio 6 dalyje nurodytas viešasis pirkimas.
 
-3. Mažos vertės pirkimu laikomas toks pirkimas, kai numatoma prekių ar paslaugų pirkimo vertė yra mažesnė kaip 58 000 (penkiasdešimt aštuoni tūkstančiai) eurų (be pridėtinės vertės mokesčio), o numatoma darbų pirkimo vertė mažesnė kaip 145 000 (šimtas keturiasdešimt penki tūkstančiai) eurų (be pridėtinės vertės mokesčio), ir šio įstatymo 15 straipsnio 7 dalyje nurodytas pirkimas.
+3. Mažos vertės pirkimu laikomas toks pirkimas, kai numatoma prekių ar paslaugų pirkimo vertė yra mažesnė kaip 70 000 (septyniasdešimt tūkstančių) eurų (be pridėtinės vertės mokesčio), o numatoma darbų pirkimo vertė mažesnė kaip 174 000 (vienas šimtas septyniasdešimt keturi tūkstančiai) eurų (be pridėtinės vertės mokesčio), ir šio įstatymo 15 straipsnio 7 dalyje nurodytas pirkimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
 
 17 straipsnis. Pirkimų reglamentavimo ypatumai
 
@@ -1449,6 +1457,16 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
+15. Šio straipsnio 9 dalis gali būti netaikoma, kai įsigyjamos prekės bus skirtos naudoti mokslinių tyrimų, eksperimentų, studijų ar eksperimentinės plėtros tikslais arba įsigyjamos paramai užsienio valstybėms teikti.
+
+Straipsnio dalies redakcija nuo 2025-05-01:
+
+15. Netenka galios nuo 2025-05-01.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
+
 41 straipsnis. Alternatyvūs pasiūlymai
 
 1. Skelbime apie pirkimą perkančioji organizacija privalo nurodyti, ar leidžiama, ar neleidžiama pateikti alternatyvius pasiūlymus. Perkančioji organizacija gali leisti pateikti alternatyvius pasiūlymus tik tuo atveju, kai pasiūlymams vertinti taikomas ekonomiškai naudingiausio pasiūlymo vertinimo kriterijus. Perkančioji organizacija nagrinėja tik tuos dalyvio pateiktus alternatyvius pasiūlymus, kurie atitinka minimalius perkančiosios organizacijos keliamus reikalavimus.
@@ -1807,11 +1825,13 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
 3) pirkimo sutartis sudaroma žodžiu.
 
-8. Pirkimo sutartis gali būti sudaroma žodžiu, kai supaprastinto pirkimo sutarties vertė mažesnė kaip 5 000 (penki tūkstančiai) eurų (be pridėtinės vertės mokesčio). Šio įstatymo 17 straipsnio 4 dalyje nurodytame apraše nustatytais atvejais gali būti leidžiama žodžiu sudaryti supaprastinto pirkimo sutartis, kurių vertė ne didesnė kaip 15 000 (penkiolika tūkstančių) eurų (be pridėtinės vertės mokesčio).
+8. Pirkimo sutartis gali būti sudaroma žodžiu, kai supaprastinto pirkimo sutarties vertė neviršija 15 000 (penkiolikos tūkstančių) eurų (be pridėtinės vertės mokesčio).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
+
+Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
 
 9. Šio straipsnio 5 dalies reikalavimai gali būti netaikomi raštu sudaromai sutarčiai, jeigu numatoma pirkimo sutarties vertė yra mažesnė kaip 15 000 (penkiolika tūkstančių) eurų (be pridėtinės vertės mokesčio) arba kai sutarties turinys yra vienodas visiems tokių prekių, paslaugų ar darbų gavėjams ir tiekėjas sutarties turinio nekeičia pagal individualius poreikius.
 
@@ -2468,6 +2488,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
 Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
+
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 15, 16, 40 ir 52 straipsnių pakeitimo įstatymas
 
 81 straipsnis. Pirkimo procedūrų pradžia ir pabaiga
 
