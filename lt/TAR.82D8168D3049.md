@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2024-01-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-10-17
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -2784,6 +2784,72 @@ Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 
 8. Informaciją, kuri yra valstybės paslaptis ir (arba) tarnybos paslaptis, draudžiama perduoti nekoduotu radijo ryšiu.
 
+461 straipsnis. Servituto įrengti elektroninių ryšių infrastruktūrą nustatymas sandoriu
+
+1. Jeigu elektroninių ryšių infrastruktūrai, esančiai viešojo elektroninių ryšių tinklo ar neviešojo elektroninių ryšių tinklo dalimi, įrengti, ja naudotis ir (ar) jai prižiūrėti yra būtina, siekiant užtikrinti elektroninių ryšių tinklų ir (ar) elektroninių ryšių paslaugų aprėptį ir (ar) kokybę tam tikroje teritorijoje, panaudoti valstybei ar savivaldybei arba valstybės valdomoms bendrovėms, savivaldybės valdomoms bendrovėms ar šių bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kaip tai suprantama pagal Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalį, viešosioms įstaigoms, kurių savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, nuosavybės teise priklausančius statinius ar jų dalis (toliau šiame straipsnyje – valstybės (savivaldybės) statinys), tokių statinių patikėtiniai (savininkai), gavę atitinkamo elektroninių ryšių tinklo teikėjo (toliau šiame straipsnyje – suinteresuotas teikėjas) motyvuotą prašymą, gali ne vėliau kaip per 4 mėnesius nuo tokio prašymo gavimo dienos sudaryti sandorį dėl servituto, suteikiančio teisę ant valstybės (savivaldybės) statinio ar po juo įrengti elektroninių ryšių infrastruktūrą, ja naudotis ir (ar) ją prižiūrėti (toliau šiame straipsnyje – servitutas), nustatymo suinteresuoto teikėjo naudai; arba turi būti pateiktas raštu valstybės (savivaldybės) statinio patikėtinio (savininko) motyvuotas atsisakymas sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai per 2 mėnesius nuo suinteresuoto teikėjo prašymo gavimo dienos. Atvejai, kai sandoris dėl servituto nustatymo suinteresuoto teikėjo naudai nesudaromas, nustatyti šio straipsnio 4 dalyje. Sandorio dėl servituto nustatymo suinteresuoto teikėjo naudai sudarymo ir registravimo Lietuvos Respublikos nekilnojamojo turto registre išlaidas, kitas servituto nustatymo ir elektroninių ryšių infrastruktūros įrengimo išlaidas apmoka suinteresuotas teikėjas.
+
+2. Valstybės (savivaldybės) statinio patikėtinis (savininkas), gavęs šio straipsnio 1 dalyje nurodytą suinteresuoto teikėjo prašymą, siekdamas įvertinti valstybės (savivaldybės) statinio tinkamumą elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti, gali:
+
+1) kreiptis į kompetentingą valstybės įstaigą, kuri pagal jai priskirtą valstybės veiklos sritį turi pateikti išvadą dėl valstybės (savivaldybės) statinio tinkamumo elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti;
+
+2) inicijuoti valstybės (savivaldybės) statinio ekspertizę (statinio ekspertizę atliekantį asmenį parenkant bendru valstybės (savivaldybės) statinio patikėtinio (savininko) ir suinteresuoto teikėjo sutarimu), kurios išlaidas apmoka suinteresuotas teikėjas.
+
+3. Sandoryje dėl servituto nustatymo suinteresuoto teikėjo naudai turi būti nustatyta suinteresuoto teikėjo pareiga mokėti valstybės (savivaldybės) statinio patikėtiniui (savininkui) periodinę kompensaciją už naudojimąsi servitutu. Periodinės kompensacijos už naudojimąsi servitutu dydis apskaičiuojamas susisiekimo ministro nustatyta tvarka, vadovaujantis skaidrumo, proporcingumo ir nediskriminavimo principais, atsižvelgiant į tai, kokiai valstybės (savivaldybės) statinio daliai nustatomas servitutas ir kokio dydžio suvaržymai tenka valstybės (savivaldybės) statinio patikėtiniui (savininkui). Kai valstybei ar savivaldybei nuosavybės teise priklausantį statinį patikėjimo teise valdo valstybės ar savivaldybės institucija, valstybės ar savivaldybės įstaiga, kompensacija už naudojimąsi servitutu mokama atitinkamai į valstybės ar savivaldybės biudžetą. Kai valstybei ar savivaldybei nuosavybės teise priklausantį statinį patikėjimo teise arba patikėjimo teise pagal patikėjimo sutartį valdo kiti subjektai, kompensacija už naudojimąsi servitutu pervedama į tų subjektų sąskaitas.
+
+4. Sandoris dėl servituto nustatymo suinteresuoto teikėjo naudai nesudaromas, kai:
+
+1) valstybės (savivaldybės) statinys nėra tinkamas elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti, tai yra, įrengus elektroninių ryšių infrastruktūrą, būtų pažeisti Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimai;
+
+2) tokį sandorį sudaryti draudžia valstybės (savivaldybės) statinio patikėtinio (savininko) veiklą reglamentuojantys specialieji įstatymai.
+
+5. Šio straipsnio 1 dalyje nurodytas valstybės (savivaldybės) statinio patikėtinio (savininko) motyvuotas atsisakymas sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai gali būti pateikiamas, kai:
+
+1) valstybės (savivaldybės) statinys yra įtrauktas į Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede nurodytą Nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto sąrašą ir (ar) nurodytas nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane;
+
+2) valstybės (savivaldybės) statinys yra įtrauktas į Vyriausybės arba savivaldybės tarybos tvirtinamą viešame aukcione parduodamo valstybės (savivaldybės) nekilnojamojo turto ir kitų nekilnojamųjų daiktų sąrašą;
+
+3) valstybės (savivaldybės) statinys yra ryšių (telekomunikacijų) tinklų paskirties inžinerinis statinys;
+
+4) valstybės (savivaldybės) statinys yra vėjo elektrinė;
+
+5) valstybės (savivaldybės) statinys yra karinėje teritorijoje;
+
+6) yra gauta neigiama kompetentingos valstybės įstaigos išvada dėl valstybės (savivaldybės) statinio tinkamumo elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti;
+
+7) valstybės (savivaldybės) statinys yra kultūros paveldo objekto teritorijoje arba kultūros paveldo vietovėje.
+
+6. Šio straipsnio 5 dalies 1–6 punktuose nurodytais atvejais valstybės (savivaldybės) statinio patikėtinis (savininkas) turi teisę sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai savo nuožiūra, įvertinęs konkretaus atvejo aplinkybes, jeigu kiti įstatymai nenustato kitaip. Šio straipsnio 5 dalies 7 punkte nurodytu atveju valstybės (savivaldybės) statinio patikėtinis (savininkas) turi teisę sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai, jeigu tai nepažeidžia nekilnojamojo kultūros paveldo apsaugą reglamentuojančių teisės aktų reikalavimų ir yra gautas už kultūros paveldo apsaugą atsakingos institucijos pritarimas.
+
+7. Kai valstybės (savivaldybės) statinys yra perduotas laikinai neatlygintinai valdyti ir naudotis pagal panaudos sutartį, sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai sudaro valstybės (savivaldybės) statinio patikėtinis (savininkas) ir nedelsdamas, ne vėliau kaip per 3 darbo dienas, apie tai raštu informuoja panaudos gavėją.
+
+TAR pastaba: 461 straipsnio nuostatos taikomos ir tais atvejais, kai valstybei ar savivaldybei nuosavybės teise priklausantys statiniai atitinkamiems juridiniams asmenims yra perduoti patikėjimo teise valdyti, naudoti ir disponuoti jais pagal patikėjimo sutartis, sudarytas iki 2023-10-26 įstatymo  Nr. XIV-2202 įsigaliojimo dienos (2024-01-01).
+
+Papildyta straipsniu:
+
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+
+98 straipsnis. Privalomi nurodymai pašalinti informaciją arba panaikinti galimybę ją pasiekti
+
+1. Elektroninės informacijos prieglobos paslaugų, kaip jos apibrėžiamos Lietuvos Respublikos kibernetinio saugumo įstatyme, viešųjų elektroninių ryšių tinklų, viešųjų elektroninių ryšių paslaugų teikėjams ir (ar) .lt domeno administratoriui privalomus nurodymus pašalinti informaciją arba panaikinti galimybę ją pasiekti tol, kol bus pašalintas pažeidimas, turi teisę šiame straipsnyje nustatyta tvarka duoti Lietuvos radijo ir televizijos komisija, kaip tai numatyta Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme ir (ar) Lietuvos Respublikos visuomenės informavimo įstatyme, Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos, kaip tai numatyta Lietuvos Respublikos azartinių lošimų įstatyme, Lietuvos bankas, kaip tai numatyta Lietuvos Respublikos Lietuvos banko įstatyme, Narkotikų, tabako ir alkoholio kontrolės departamentas, kaip tai numatyta Lietuvos Respublikos alkoholio kontrolės įstatyme ir (ar) Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme, Valstybinė vartotojų teisių apsaugos tarnyba, kaip tai numatyta Lietuvos Respublikos vartotojų teisių apsaugos įstatyme, žurnalistų etikos inspektorius, kaip tai numatyta Lietuvos Respublikos visuomenės informavimo įstatyme, Valstybinė mokesčių inspekcija, kaip tai numatyta Lietuvos Respublikos mokesčių administravimo įstatyme. Šis straipsnis netaikomas Lietuvos policijos, Ryšių reguliavimo tarnybos duodamiems privalomiems nurodymams pašalinti informaciją ar panaikinti galimybę ją pasiekti.
+
+2. Šio straipsnio 1 dalyje nurodyta institucija, duodanti privalomą nurodymą (toliau – Institucija), privalo pirmosios instancijos administraciniam teismui pateikti prašymą išduoti leidimą taikyti privalomus nurodymus, išskyrus šio straipsnio 3 ir 4 dalyse numatytus atvejus. Šiame prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, išskyrus atvejus, kai tokio asmens vardo, pavardės arba pavadinimo neįmanoma nustatyti ar šių duomenų nustatymas reikalauja neproporcingai daug sąnaudų, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Pirmosios instancijos administracinis teismas išnagrinėja prašymą išduoti leidimą taikyti privalomus nurodymus ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo momento. Jeigu Institucija nesutinka su teismo nutartimi atmesti prašymą išduoti leidimą taikyti privalomus nurodymus, ji turi teisę per 7 darbo dienas nuo nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl teismo nutarties atmesti prašymą išduoti leidimą taikyti privalomus nurodymus ne vėliau kaip per 7 darbo dienas nuo skundo priėmimo dienos. Teismai, nagrinėdami prašymus išduoti leidimą taikyti privalomus nurodymus ir skundus dėl leidimo taikyti privalomus nurodymus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+
+3. Teismo leidimas taikyti privalomus nurodymus blokuoti interneto domeno vardą, identifikuojantį interneto svetainę, galioja vėlesniems privalomiems nurodymams blokuoti interneto domenų vardus, identifikuojančius tos interneto svetainės kopijas tik teismo leidime nurodytiems subjektams. Požymiai, pagal kuriuos identifikuojamos interneto svetainės kopijos, nustatomi šio straipsnio 8 dalyje nurodyta tvarka.
+
+4. Jeigu informacija, dėl kurios duodamas privalomas nurodymas, yra neskelbtina informacija pagal Visuomenės informavimo įstatymo 19 straipsnio 1 dalies 1 ir 3 punktus, Institucija nedelsdama apie tai praneša viešosios informacijos rengėjui ir (ar) skleidėjui, reikalaudama šią informaciją nedelsiant pašalinti arba panaikinti galimybę ją pasiekti. Jeigu viešosios informacijos rengėjas ir (ar) skleidėjas savanoriškai per 8 valandas nuo šio pranešimo gavimo nepašalina šios informacijos arba nepanaikina galimybės ją pasiekti arba jeigu per 8 valandas nuo pažeidimo pastebėjimo momento nėra galimybės nustatyti viešosios informacijos rengėjo ir (ar) skleidėjo, Institucija duoda motyvuotus privalomus nurodymus elektroninės informacijos prieglobos paslaugų, viešųjų elektroninių ryšių tinklų, viešųjų elektroninių ryšių paslaugų teikėjams ir (ar) .lt domeno administratoriui panaikinti galimybę ją pasiekti ne ilgiau kaip 72 valandoms, o motyvuotus privalomus nurodymus pašalinti šią informaciją arba panaikinti galimybę ją pasiekti ilgiau kaip 72 valandoms – su šio straipsnio 2 dalyje nustatyta tvarka gautu teismo leidimu.
+
+5. Institucija, davusi privalomus nurodymus blokuoti interneto domeno vardą, identifikuojantį interneto svetainę ar jos kopiją, privalomų nurodymų davimo dieną įtraukia šį interneto domeno vardą į interneto domenų vardų, naudojamų vykdant veiklą, kuria pažeidžiami teisės aktų reikalavimai, sąrašą vadovaudamasi Kibernetinio saugumo įstatymo 131 straipsniu.
+
+6. Privalomi nurodymai .lt domeno administratoriui duodami tais atvejais, kai kiti elektroninės informacijos prieglobos paslaugų, viešųjų elektroninių ryšių tinklų, viešųjų elektroninių ryšių paslaugų teikėjų atliekami informacijos pasiekiamumo ribojimai yra nepakankami. Požymiai, pagal kuriuos nustatoma, kad elektroninės informacijos prieglobos paslaugų, viešųjų elektroninių ryšių tinklų, viešųjų elektroninių ryšių paslaugų teikėjų atliekami informacijos pasiekiamumo ribojimai yra nepakankami, nustatomi šio straipsnio 8 dalyje nurodyta tvarka.
+
+7. Institucija, gavusi informacijos, kad pažeidimas, dėl kurio buvo duotas privalomas nurodymas, yra pašalintas, kreipiasi į elektroninės informacijos prieglobos paslaugų, viešųjų elektroninių ryšių tinklų, viešųjų elektroninių ryšių paslaugų teikėjus ir (ar) .lt domeno administratorių įpareigodama juos per 5 darbo dienas nuo šio kreipimosi dienos atnaujinti prieigą prie užblokuoto interneto domeno vardo, identifikuojančio interneto svetainę. Požymiai, pagal kuriuos nustatoma, kad pažeidimas, dėl kurio buvo duotas privalomas nurodymas, yra pašalintas, nustatomi šio straipsnio 8 dalyje nurodyta tvarka.
+
+8. Privalomų nurodymų davimo elektroninės informacijos prieglobos paslaugų, viešųjų elektroninių ryšių tinklų, viešųjų elektroninių ryšių paslaugų tiekėjams ir (ar) .lt domeno administratoriui tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+Papildyta straipsniu:
+
+Nr. XIV-2139, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14033
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 LAIKINAI EINANTIS
@@ -3223,48 +3289,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2386, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25336
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 40 ir 78 straipsnių pakeitimo įstatymas
-
-461 straipsnis. Servituto įrengti elektroninių ryšių infrastruktūrą nustatymas sandoriu
-
-1. Jeigu elektroninių ryšių infrastruktūrai, esančiai viešojo elektroninių ryšių tinklo ar neviešojo elektroninių ryšių tinklo dalimi, įrengti, ja naudotis ir (ar) jai prižiūrėti yra būtina, siekiant užtikrinti elektroninių ryšių tinklų ir (ar) elektroninių ryšių paslaugų aprėptį ir (ar) kokybę tam tikroje teritorijoje, panaudoti valstybei ar savivaldybei arba valstybės valdomoms bendrovėms, savivaldybės valdomoms bendrovėms ar šių bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kaip tai suprantama pagal Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalį, viešosioms įstaigoms, kurių savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, nuosavybės teise priklausančius statinius ar jų dalis (toliau šiame straipsnyje – valstybės (savivaldybės) statinys), tokių statinių patikėtiniai (savininkai), gavę atitinkamo elektroninių ryšių tinklo teikėjo (toliau šiame straipsnyje – suinteresuotas teikėjas) motyvuotą prašymą, gali ne vėliau kaip per 4 mėnesius nuo tokio prašymo gavimo dienos sudaryti sandorį dėl servituto, suteikiančio teisę ant valstybės (savivaldybės) statinio ar po juo įrengti elektroninių ryšių infrastruktūrą, ja naudotis ir (ar) ją prižiūrėti (toliau šiame straipsnyje – servitutas), nustatymo suinteresuoto teikėjo naudai; arba turi būti pateiktas raštu valstybės (savivaldybės) statinio patikėtinio (savininko) motyvuotas atsisakymas sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai per 2 mėnesius nuo suinteresuoto teikėjo prašymo gavimo dienos. Atvejai, kai sandoris dėl servituto nustatymo suinteresuoto teikėjo naudai nesudaromas, nustatyti šio straipsnio 4 dalyje. Sandorio dėl servituto nustatymo suinteresuoto teikėjo naudai sudarymo ir registravimo Lietuvos Respublikos nekilnojamojo turto registre išlaidas, kitas servituto nustatymo ir elektroninių ryšių infrastruktūros įrengimo išlaidas apmoka suinteresuotas teikėjas.
-
-2. Valstybės (savivaldybės) statinio patikėtinis (savininkas), gavęs šio straipsnio 1 dalyje nurodytą suinteresuoto teikėjo prašymą, siekdamas įvertinti valstybės (savivaldybės) statinio tinkamumą elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti, gali:
-
-1) kreiptis į kompetentingą valstybės įstaigą, kuri pagal jai priskirtą valstybės veiklos sritį turi pateikti išvadą dėl valstybės (savivaldybės) statinio tinkamumo elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti;
-
-2) inicijuoti valstybės (savivaldybės) statinio ekspertizę (statinio ekspertizę atliekantį asmenį parenkant bendru valstybės (savivaldybės) statinio patikėtinio (savininko) ir suinteresuoto teikėjo sutarimu), kurios išlaidas apmoka suinteresuotas teikėjas.
-
-3. Sandoryje dėl servituto nustatymo suinteresuoto teikėjo naudai turi būti nustatyta suinteresuoto teikėjo pareiga mokėti valstybės (savivaldybės) statinio patikėtiniui (savininkui) periodinę kompensaciją už naudojimąsi servitutu. Periodinės kompensacijos už naudojimąsi servitutu dydis apskaičiuojamas susisiekimo ministro nustatyta tvarka, vadovaujantis skaidrumo, proporcingumo ir nediskriminavimo principais, atsižvelgiant į tai, kokiai valstybės (savivaldybės) statinio daliai nustatomas servitutas ir kokio dydžio suvaržymai tenka valstybės (savivaldybės) statinio patikėtiniui (savininkui). Kai valstybei ar savivaldybei nuosavybės teise priklausantį statinį patikėjimo teise valdo valstybės ar savivaldybės institucija, valstybės ar savivaldybės įstaiga, kompensacija už naudojimąsi servitutu mokama atitinkamai į valstybės ar savivaldybės biudžetą. Kai valstybei ar savivaldybei nuosavybės teise priklausantį statinį patikėjimo teise arba patikėjimo teise pagal patikėjimo sutartį valdo kiti subjektai, kompensacija už naudojimąsi servitutu pervedama į tų subjektų sąskaitas.
-
-4. Sandoris dėl servituto nustatymo suinteresuoto teikėjo naudai nesudaromas, kai:
-
-1) valstybės (savivaldybės) statinys nėra tinkamas elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti, tai yra, įrengus elektroninių ryšių infrastruktūrą, būtų pažeisti Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimai;
-
-2) tokį sandorį sudaryti draudžia valstybės (savivaldybės) statinio patikėtinio (savininko) veiklą reglamentuojantys specialieji įstatymai.
-
-5. Šio straipsnio 1 dalyje nurodytas valstybės (savivaldybės) statinio patikėtinio (savininko) motyvuotas atsisakymas sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai gali būti pateikiamas, kai:
-
-1) valstybės (savivaldybės) statinys yra įtrauktas į Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede nurodytą Nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto sąrašą ir (ar) nurodytas nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane;
-
-2) valstybės (savivaldybės) statinys yra įtrauktas į Vyriausybės arba savivaldybės tarybos tvirtinamą viešame aukcione parduodamo valstybės (savivaldybės) nekilnojamojo turto ir kitų nekilnojamųjų daiktų sąrašą;
-
-3) valstybės (savivaldybės) statinys yra ryšių (telekomunikacijų) tinklų paskirties inžinerinis statinys;
-
-4) valstybės (savivaldybės) statinys yra vėjo elektrinė;
-
-5) valstybės (savivaldybės) statinys yra karinėje teritorijoje;
-
-6) yra gauta neigiama kompetentingos valstybės įstaigos išvada dėl valstybės (savivaldybės) statinio tinkamumo elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti;
-
-7) valstybės (savivaldybės) statinys yra kultūros paveldo objekto teritorijoje arba kultūros paveldo vietovėje.
-
-6. Šio straipsnio 5 dalies 1–6 punktuose nurodytais atvejais valstybės (savivaldybės) statinio patikėtinis (savininkas) turi teisę sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai savo nuožiūra, įvertinęs konkretaus atvejo aplinkybes, jeigu kiti įstatymai nenustato kitaip. Šio straipsnio 5 dalies 7 punkte nurodytu atveju valstybės (savivaldybės) statinio patikėtinis (savininkas) turi teisę sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai, jeigu tai nepažeidžia nekilnojamojo kultūros paveldo apsaugą reglamentuojančių teisės aktų reikalavimų ir yra gautas už kultūros paveldo apsaugą atsakingos institucijos pritarimas.
-
-7. Kai valstybės (savivaldybės) statinys yra perduotas laikinai neatlygintinai valdyti ir naudotis pagal panaudos sutartį, sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai sudaro valstybės (savivaldybės) statinio patikėtinis (savininkas) ir nedelsdamas, ne vėliau kaip per 3 darbo dienas, apie tai raštu informuoja panaudos gavėją.
-
-TAR pastaba: 461 straipsnio nuostatos taikomos ir tais atvejais, kai valstybei ar savivaldybei nuosavybės teise priklausantys statiniai atitinkamiems juridiniams asmenims yra perduoti patikėjimo teise valdyti, naudoti ir disponuoti jais pagal patikėjimo sutartis, sudarytas iki 2023-10-26 įstatymo  Nr. XIV-2202 įsigaliojimo dienos (2024-01-01).
-
-Papildyta straipsniu:
-
-Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 
