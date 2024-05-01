@@ -4,7 +4,7 @@ identifier: "TAR.5756AB4F657E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-07-02"
-last_updated: "2024-01-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5756AB4F657E"
 department: "Lietuvos Respublikos Seimas"
@@ -21,17 +21,9 @@ LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO IR STATYBOS VALSTYBINĖS
 
 PRIEŽIŪROS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 76-3848, i. k. 1131010ISTA0XII-459
-
-TAR pastaba. Iki 2023 m. gruodžio 31 d. pradėtos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros procedūros baigiamos pagal iki  įstatymo Nr. XIV-2121  įsigaliojimo dienos (2024-01-01) galiojusį teisinį reguliavimą.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-2121, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14309
-
-Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 pakeitimo įstatymas
 
 Nauja redakcija nuo 2024-01-01:
 
@@ -449,9 +441,13 @@ b) kai pagal imperatyvias teisės normas tokio (-ių) pažeidimo (-ų) pašalint
 
 3) išnagrinėja toje teritorijoje galiojančius teritorijų planavimo dokumentus;
 
-4) apie numatomą statybos patikrinimą ne mažiau kaip prieš 10 darbo dienų raštu informuoja statytoją, jeigu jo nėra, – vieną iš šio įstatymo 14 straipsnio 1 dalyje nurodytų asmenų, prireikus – ir kitus statybos dalyvius, pridėdamas privalomąjį nurodymą statybos patikrinimo dieną pateikti statybos valstybinės priežiūros pareigūnui su statyba susijusius dokumentus;
+4) apie numatomą statybos patikrinimą ne mažiau kaip prieš 10 darbo dienų raštu informuoja statytoją, jeigu jo nėra, – vieną iš šio įstatymo 14 straipsnio 1 dalyje nurodytų asmenų, prireikus – ir kitus statybos dalyvius, pridėdamas privalomąjį nurodymą statybos patikrinimo dieną pateikti su statyba susijusius dokumentus, jeigu statybos valstybinės priežiūros pareigūnas dar jų negavo;
 
-5) pagal turimus dokumentus patikrina statybą leidžiančio dokumento teisėtumą (jeigu jis privalomas) šio įstatymo 10 straipsnyje nustatyta tvarka, jeigu kyla abejonių dėl statybą leidžiančio dokumento teisėtumo.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+
+5) pagal turimus dokumentus patikrina statybą leidžiančio dokumento teisėtumą (jeigu jis privalomas) šio įstatymo 10 straipsnyje nustatyta tvarka, jeigu kyla abejonių dėl statybą leidžiančio dokumento teisėtumo;
 
 4. Statybos valstybinės priežiūros pareigūnas kartu su šio straipsnio 2 dalyje nurodytais kitų viešojo administravimo subjektų atstovais patikrinimo metu:
 
@@ -499,7 +495,11 @@ b) kai pagal imperatyvias teisės normas tokio (-ių) pažeidimo (-ų) pašalint
 
 4. Reido organizavimo ir atlikimo tvarką nustato ir surašomų dokumentų formas tvirtina Inspekcijos vadovas.
 
-13 straipsnis. Statybos sustabdymas
+13 straipsnis. Statybos sustabdymas ir (ar) kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento galiojimo sustabdymas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 1. Statybos valstybinės priežiūros pareigūnas privalomuoju nurodymu sustabdo statybą šiais atvejais:
 
@@ -507,7 +507,7 @@ b) kai pagal imperatyvias teisės normas tokio (-ių) pažeidimo (-ų) pašalint
 
 2) kai statybos metu atsiranda pavojingų statinio ar jo dalies deformacijų, įvyksta statomo statinio ar jo dalies avarija ar nustatoma avarijos grėsmė;
 
-3) kai statyba nėra savavališka, tačiau statytojas neatitinka kitų privalomųjų reikalavimų statytojo teisei įgyvendinti, jeigu statyba vykdoma valstybinėje žemėje.
+3) kai statyba nėra savavališka, tačiau statytojas neatitinka kitų privalomųjų reikalavimų statytojo teisei įgyvendinti, jeigu statyba vykdoma valstybinėje žemėje;
 
 2. Šio straipsnio 1 dalyje nenurodytais atvejais, nustačius, kad statinys (jo dalis) statomas (-a) pažeidžiant statinio projekto sprendinius ar Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus, statybos valstybinės priežiūros pareigūnas statytojui surašo šio įstatymo 11 straipsnio 6 dalyje numatytą privalomąjį nurodymą.
 
@@ -522,6 +522,18 @@ b) kai pagal imperatyvias teisės normas tokio (-ių) pažeidimo (-ų) pašalint
 7. Statytojas turi teisę tęsti statinio (jo dalies) statybą tik pašalinęs statybos sustabdymo priežastis ir gavęs Inspekcijos leidimą tęsti sustabdytą statybą. Leidimas tęsti sustabdytą statybą išduodamas per 10 darbo dienų nuo statytojo prašymo ir dokumentų, įrodančių, kad pašalintos statybos sustabdymo priežastys, gavimo dienos.
 
 8. Statybos sustabdymo procedūrų tvarką, leidimo tęsti sustabdytą statybą išdavimo tvarką nustato aplinkos ministras. Statybos sustabdymo procedūrų metu surašomų dokumentų formas tvirtina Inspekcijos vadovas.
+
+9. Statybos valstybinės priežiūros pareigūnas, paskyręs statybos dalyviui Administracinių nusižengimų kodekse ar Statybos įstatyme nustatytą baudą, iki atestavimą atliekančios organizacijos sprendimo priėmimo sustabdo kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento turėtojų, kurie statant statinį vadovavo statybos techninės veiklos pagrindinėms sritims ir (ar) atliko veiksmus, ir (ar) priėmė sprendimus, dėl kurių paskirta bauda, kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento galiojimą, kai tam kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento turėtojui antrą kartą per 5 metus paskirta Administracinių nusižengimų kodekse ar Statybos įstatyme nustatyta bauda. Informaciją apie kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento galiojimo sustabdymą Inspekcija ne vėliau kaip per 3 darbo dienas nuo Administracinių nusižengimų kodekse ar Statybos įstatyme nustatytos baudos paskyrimo pateikia atestavimą atliekančiai organizacijai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+
+10. Kvalifikacijos atestato ir (ar) teisės pripažinimo dokumentų galiojimo sustabdymo procedūrų metu surašomų dokumentų formas tvirtina Inspekcijos vadovas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 14 straipsnis. Savavališkos statybos padarinių šalinimas
 
@@ -543,7 +555,11 @@ b) kai pagal imperatyvias teisės normas tokio (-ių) pažeidimo (-ų) pašalint
 
 3. Jeigu šio straipsnio 1 dalyje nurodytas asmuo įpareigojamas nugriauti savavališkai pastatytą statinį ir sutvarkyti statybvietę, privalomajame nurodyme nurodoma, kad Inspekcija turi teisę nugriauti savavališkai pastatytą statinį ir sutvarkyti statybvietę šio asmens lėšomis, jam per nustatytą terminą neįvykdžius privalomojo nurodymo.
 
-4. Šio straipsnio 2 dalyje nustatyti privalomieji nurodymai turi būti įvykdyti per 6 mėnesius arba išimtiniais atvejais per Inspekcijos nurodytą trumpesnį terminą, jeigu nustatoma, kad savavališka statyba šiurkščiai pažeidė trečiųjų asmenų teises ir iš esmės suvaržė jų galimybes tinkamai naudotis jų nekilnojamuoju turtu. Inspekcija šį terminą, jeigu yra svarbių priežasčių, asmens rašytiniu prašymu gali pratęsti vieną kartą 3 mėnesiams. Svarbiomis priežastimis laikomos priežastys, susijusios su procedūromis (atliekamomis siekiant įteisinti savavališką statybą pagal šio straipsnio 5 dalies nuostatas – projektinės dokumentacijos pakeitimo ir kitų savavališkai statybai įteisinti reikalingų dokumentų gavimo ar jų patikslinimo, papildymo ir panašiai), kurių trukmei asmuo negali daryti įtakos. Dėl privalomojo nurodymo vykdymo termino pratęsimo ilgesniam terminui ar dėl atsisakymo jį pratęsti asmuo gali kreiptis į teismą.
+4. Šio straipsnio 2 dalyje nustatyti privalomieji nurodymai turi būti įvykdyti per ne ilgesnį kaip 6 mėnesių terminą, kurį nustato Inspekcija, įvertinusi savavališkos statybos mastą (apimtis), galimus viešojo intereso pažeidimus, trečiųjų asmenų teisių užtikrinimą ir galimybę įteisinti savavališką statybą. Inspekcija šį terminą, jeigu yra svarbių priežasčių ir pažeidimas nėra kartotinis, asmens rašytiniu prašymu gali pratęsti vieną kartą 3 mėnesiams. Svarbiomis priežastimis laikomos priežastys, susijusios su procedūromis (atliekamomis siekiant įteisinti savavališką statybą pagal šio straipsnio 5 dalies nuostatas – projektinės dokumentacijos pakeitimo ir kitų savavališkai statybai įteisinti reikalingų dokumentų gavimo ar jų patikslinimo, papildymo ir panašiai), kurių trukmei asmuo negali daryti įtakos. Dėl privalomojo nurodymo vykdymo termino pratęsimo ilgesniam terminui ar dėl atsisakymo jį pratęsti asmuo gali kreiptis į teismą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 5. Asmenys turi teisę Statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka parengti statinio projektą ir, sumokėję Statybos įstatymo 1 priede nustatytą įmoką už savavališkos statybos įteisinimą, gauti statybą leidžiantį dokumentą tais atvejais, kai žemės sklype (teritorijoje), kuriame (-ioje) yra savavališka statyba, tokios paskirties naujo statinio statyba yra galima arba tokie šio statinio rekonstravimo, remonto ar griovimo darbai yra galimi pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams.
 
@@ -637,15 +653,43 @@ b) kai pagal imperatyvias teisės normas tokio (-ių) pažeidimo (-ų) pašalint
 
 7. Statybos valstybinės priežiūros pareigūnas ne vėliau kaip po 5 darbo dienų nuo statybos užbaigimo akto patikrinimo akto pasirašymo dienos priima sprendimą:
 
-1) jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, nustatyta kitų trūkumų, kuriuos galima pašalinti nepažeidžiant Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – privalomuoju nurodymu įpareigoti pažeidimą padariusį subjektą per 20 darbo dienų pašalinti nustatytus pažeidimus ar trūkumus;
+1)   jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, nustatyta kitų trūkumų, kuriuos galima pašalinti nepažeidžiant Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – privalomuoju nurodymu įpareigoti pažeidimą padariusį subjektą per 20 darbo dienų pašalinti nustatytus pažeidimus ar trūkumus. Neįvykdžius privalomojo nurodymo, taikyti administracinę atsakomybę;
 
-2) šios dalies 1 punkte nenurodytais atvejais, kai statybos užbaigimo aktas išduotas neteisėtai, – iki statinio įregistravimo Nekilnojamojo turto registre panaikinti statybos užbaigimo akto galiojimą, o kai statinys įregistruotas Nekilnojamojo turto registre, kreiptis į teismą dėl statybos užbaigimo akto galiojimo panaikinimo.
+2)  šios dalies 1 punkte nenurodytais atvejais, kai statybos užbaigimo aktas išduotas neteisėtai:
+
+a)  iki statinio įregistravimo Nekilnojamojo turto registre priima sprendimą panaikinti statybos užbaigimo akto galiojimą;
+
+b) kai statybos užbaigimo aktas įregistruotas Nekilnojamojo turto registre, informuoti už pažeidimų šalinimą atsakingus asmenis, kad jie turi teisę per 3 mėnesių terminą, skaičiuojamą nuo patikrinimo akto pasirašymo dienos, pašalinti nustatytus pažeidimus (išskyrus atvejus, kai pagal imperatyvias teisės normas pažeidimų negalima pašalinti) ir nedelsdami apie tai informuoti Inspekciją arba kreiptis į Inspekciją dėl statybos užbaigimo akto panaikinimo (išskyrus atvejus, kai Nekilnojamojo turto registre daiktinės teisės į statinį įregistruotos ne tik statytojo vardu) arba turi galimybę sudaryti taikos sutartį su Inspekcija dėl ilgesnio pažeidimų šalinimo termino. Jeigu per 3 mėnesių terminą dėl objektyvių aplinkybių pažeidimų negalima pašalinti arba statybos užbaigimo aktas nepanaikinamas statytojo prašymu, tačiau už pažeidimų šalinimą atsakingi asmenys sutinka ir siūlo juos šalinti geranoriškai, Inspekcija ir už pažeidimų šalinimą atsakingi asmenys teisės aktų nustatyta tvarka gali sudaryti taikos sutartį dėl pažeidimų šalinimo. Ši sutartis teikiama tvirtinti teismui. Jeigu pažeidimai per 3 mėnesių terminą nepašalinami arba statybos užbaigimo aktas nėra panaikinamas, Inspekcija per vieną mėnesį nuo 3 mėnesių termino pasibaigimo dienos kreipiasi į teismą dėl statybos užbaigimo akto galiojimo panaikinimo, išskyrus atvejus, kai yra įsigaliojusi teismo nutartis dėl taikos sutarties patvirtinimo. Kai pagal imperatyvias teisės normas pažeidimų negalima pašalinti, Inspekcija per 2 mėnesius nuo patikrinimo akto pasirašymo dienos kreipiasi į teismą dėl statybos užbaigimo akto galiojimo panaikinimo, išskyrus atvejus, kai per šį laiką statybos užbaigimo akto galiojimas panaikinamas statytojo prašymu (toks prašymas negali būti tenkinamas, kai Nekilnojamojo turto registre daiktinės teisės į statinį įregistruotos ne tik statytojo vardu).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+
+71. Apie tai, kad pasirašytas patikrinimo aktas, kuriame konstatuojama, kad statybos užbaigimo aktas išduotas neteisėtai, statybos valstybinės priežiūros pareigūnas ne vėliau kaip kitą darbo dieną informuoja Nekilnojamojo turto kadastro tvarkytoją dėl įrašo, kad statybos užbaigimo aktas išduotas neteisėtai, Nekilnojamojo turto registre padarymo, jam pateikdamas patikrinimo aktą be priedų, jeigu nėra techninių galimybių pateikti šios informacijos naudojantis informacinėmis sistemomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 8. Statybos valstybinės priežiūros pareigūnas ne vėliau kaip po 5 darbo dienų nuo deklaracijos apie statybos užbaigimą patikrinimo akto pasirašymo dienos priima sprendimą:
 
-1) jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, nustatyta kitų trūkumų, kuriuos galima pašalinti nepažeidžiant Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – pateikti deklaraciją apie statybos užbaigimą patvirtinusiam ekspertizės rangovui ar statytojui privalomąjį nurodymą per jame nurodytą ne ilgesnį kaip vieno mėnesio terminą pašalinti nustatytus pažeidimus ar trūkumus;
+1)   jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, nustatyta kitų trūkumų, kuriuos galima pašalinti nepažeidžiant Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – pateikti deklaraciją apie statybos užbaigimą patvirtinusiam ekspertizės rangovui ar statytojui privalomąjį nurodymą per jame nurodytą ne ilgesnį kaip vieno mėnesio terminą pašalinti nustatytus pažeidimus ar trūkumus. Neįvykdžius privalomojo nurodymo, taikyti administracinę atsakomybę;
 
-2) šios dalies 1 punkte nenurodytais atvejais, kai deklaracija apie statybos užbaigimą surašyta ir (ar) patvirtinta neteisėtai, – iki statinio įregistravimo Nekilnojamojo turto registre pateikti statytojui privalomąjį nurodymą per jame nurodytą ne ilgesnį kaip vieno mėnesio terminą panaikinti deklaracijos apie statybos užbaigimą galiojimą, apie tai nedelsiant raštu informuojant subjektus, kuriems ši deklaracija pateikta. Neįvykdžius privalomojo nurodymo, – per 2 mėnesius nuo įvykdymo termino pabaigos kreiptis į teismą dėl deklaracijos galiojimo panaikinimo. Tais atvejais, kai Nekilnojamojo turto registre daiktinės teisės į statinį įregistruotos, priimamas sprendimas kreiptis į teismą dėl deklaracijos apie statybos užbaigimą galiojimo panaikinimo.
+2)  šios dalies 1 punkte nenurodytais atvejais, kai deklaracija apie statybos užbaigimą surašyta ir (ar) patvirtinta neteisėtai:
+
+a)  jeigu Nekilnojamojo turto registre daiktinės teisės į statinį įregistruotos tik statytojo vardu, informuoti už pažeidimų šalinimą atsakingus asmenis, kad jie turi teisę per 3 mėnesių terminą, skaičiuojamą nuo patikrinimo akto pasirašymo dienos, panaikinti deklaraciją apie statybos užbaigimą arba pašalinti nustatytus pažeidimus (išskyrus atvejus, kai pagal imperatyvias teisės normas pažeidimų negalima pašalinti) ir apie tai nedelsdami raštu informuoti subjektus, kuriems ši deklaracija pateikta, ir Inspekciją arba turi galimybę sudaryti taikos sutartį su Inspekcija dėl ilgesnio pažeidimų šalinimo termino. Jeigu per 3 mėnesių terminą dėl objektyvių aplinkybių pažeidimų negalima pašalinti arba deklaracija apie statybos užbaigimą nepanaikinama, tačiau už pažeidimų šalinimą atsakingi asmenys sutinka ir siūlo juos šalinti geranoriškai, Inspekcija ir už pažeidimų šalinimą atsakingi asmenys teisės aktų nustatyta tvarka gali sudaryti taikos sutartį dėl pažeidimų šalinimo. Ši sutartis teikiama tvirtinti teismui. Jeigu pažeidimai per 3 mėnesių terminą nepašalinami arba deklaracija apie statybos užbaigimą nepanaikinama, Inspekcija per vieną mėnesį nuo 3 mėnesių termino pasibaigimo dienos kreipiasi į teismą dėl deklaracijos apie statybos užbaigimą galiojimo panaikinimo, išskyrus atvejus, kai yra įsigaliojusi teismo nutartis dėl taikos sutarties patvirtinimo. Kai pagal imperatyvias teisės normas pažeidimų negalima pašalinti, Inspekcija informuoja už pažeidimų šalinimą atsakingus asmenis, kad jie turi teisę per vieno mėnesio terminą, skaičiuojamą nuo patikrinimo akto pasirašymo dienos, panaikinti deklaraciją apie statybos užbaigimą ir apie tai nedelsdami informuoti subjektus, kuriems ši deklaracija pateikta, ir Inspekciją; jeigu deklaracija apie statybos užbaigimą per nurodytą terminą nepanaikinama, Inspekcija per 2 mėnesius nuo vieno mėnesio termino pabaigos kreipiasi į teismą dėl deklaracijos apie statybos užbaigimą galiojimo panaikinimo;
+
+b) kai Nekilnojamojo turto registre daiktinės teisės į statinį įregistruotos ne tik statytojo vardu, informuoti už pažeidimų šalinimą atsakingus asmenis, kad jie turi teisę per 3 mėnesių terminą, skaičiuojamą nuo patikrinimo akto pasirašymo dienos, pašalinti nustatytus pažeidimus (išskyrus atvejus, kai pagal imperatyvias teisės normas pažeidimų negalima pašalinti) ir apie tai nedelsdami raštu informuoti subjektus, kuriems ši deklaracija pateikta, ir Inspekciją arba turi galimybę sudaryti taikos sutartį su Inspekcija dėl ilgesnio pažeidimų šalinimo termino. Jeigu per 3 mėnesių terminą dėl objektyvių aplinkybių pažeidimų negalima pašalinti, tačiau už jų šalinimą atsakingi asmenys sutinka ir siūlo juos šalinti geranoriškai, Inspekcija ir už pažeidimų šalinimą atsakingi asmenys teisės aktų nustatyta tvarka gali sudaryti taikos sutartį dėl pažeidimų šalinimo, kuri teikiama tvirtinti teismui. Jeigu pažeidimai per 3 mėnesių terminą nepašalinami, Inspekcija per vieną mėnesį nuo 3 mėnesių termino pasibaigimo dienos kreipiasi į teismą dėl deklaracijos apie statybos užbaigimą galiojimo panaikinimo, išskyrus atvejus, kai yra įsigaliojusi teismo nutartis dėl taikos sutarties patvirtinimo. Kai pagal imperatyvias teisės normas pažeidimų negalima pašalinti, Inspekcija per 2 mėnesius nuo patikrinimo akto pasirašymo dienos kreipiasi į teismą dėl deklaracijos apie statybos užbaigimą galiojimo panaikinimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+
+81. Apie tai, kad pasirašytas patikrinimo aktas, kuriame konstatuojama, kad deklaracija apie statybos užbaigimą surašyta ir (ar) patvirtinta neteisėtai, statybos valstybinės priežiūros pareigūnas ne vėliau kaip kitą darbo dieną informuoja Nekilnojamojo turto kadastro tvarkytoją dėl įrašo, kad deklaracija apie statybos užbaigimą surašyta ir (ar) patvirtinta neteisėtai, Nekilnojamojo turto registre padarymo, jam pateikdamas patikrinimo aktą be priedų, jeigu nėra techninių galimybių pateikti šios informacijos naudojantis informacinėmis sistemomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 9. Statybos užbaigimo procedūrų teisėtumo patikrinimų tvarką, tikrintinų statybos užbaigimo dokumentų įtraukimo į Inspekcijos tvirtinamus patikrinimų planus tvarką nustato, statybos užbaigimo teisėtumui patikrinti pateiktinų dokumentų sąrašą ir surašomų dokumentų formas tvirtina Inspekcijos vadovas.
 
@@ -675,9 +719,23 @@ b) kai pagal imperatyvias teisės normas tokio (-ių) pažeidimo (-ų) pašalint
 
 6. Statybos valstybinės priežiūros pareigūnas ne vėliau kaip po 5 darbo dienų nuo patikrinimo akto pasirašymo dienos priima sprendimą:
 
-1) jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, nustatyta kitų trūkumų, kuriuos galima pašalinti nepažeidžiant Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – pateikti statytojui privalomąjį nurodymą per jame nurodytą ne ilgesnį kaip vieno mėnesio terminą pašalinti nustatytus pažeidimus ar trūkumus;
+1)   jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, nustatyta kitų trūkumų, kuriuos galima pašalinti nepažeidžiant Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – pateikti statytojui privalomąjį nurodymą per jame nurodytą ne ilgesnį kaip vieno mėnesio terminą pašalinti nustatytus pažeidimus ar trūkumus. Neįvykdžius privalomojo nurodymo, taikyti administracinę atsakomybę;
 
-2) šios dalies 1 punkte nenurodytais atvejais, kai pažyma apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių surašyta ir (ar) patvirtinta neteisėtai, – pateikti statytojui privalomąjį nurodymą per jame nurodytą ne ilgesnį kaip vieno mėnesio terminą panaikinti pažymą apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių. Neįvykdžius privalomojo nurodymo, – per 2 mėnesius nuo įvykdymo termino pabaigos kreiptis į teismą dėl pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių panaikinimo. Kai Nekilnojamojo turto registre daiktinės teisės į statinį įregistruotos ne tik statytojo vardu, priimamas sprendimas kreiptis į teismą dėl pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių panaikinimo.
+2)  šios dalies 1 punkte nenurodytais atvejais, kai pažyma apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių surašyta ir (ar) patvirtinta neteisėtai:
+
+a)  jeigu Nekilnojamojo turto registre daiktinės teisės į statinį įregistruotos tik statytojo vardu, informuoti už pažeidimų šalinimą atsakingus asmenis, kad jie turi teisę per 3 mėnesių terminą, skaičiuojamą nuo patikrinimo akto pasirašymo dienos, panaikinti pažymą apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių arba pašalinti nustatytus pažeidimus (išskyrus atvejus, kai pagal imperatyvias teisės normas pažeidimų negalima pašalinti) ir apie tai nedelsdami raštu informuoti subjektus, kuriems ši pažyma pateikta, ir Inspekciją arba turi galimybę sudaryti taikos sutartį su Inspekcija dėl ilgesnio pažeidimų šalinimo termino. Jeigu per 3 mėnesių terminą dėl objektyvių aplinkybių pažeidimų negalima pašalinti arba pažyma apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių nepanaikinama, tačiau už jų šalinimą atsakingi asmenys sutinka ir siūlo juos šalinti geranoriškai, Inspekcija ir už pažeidimų šalinimą atsakingi asmenys teisės aktų nustatyta tvarka gali sudaryti taikos sutartį dėl pažeidimų šalinimo. Ši sutartis teikiama tvirtinti teismui. Jeigu pažeidimai per 3 mėnesių terminą nepašalinami arba pažyma apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių nepanaikinama, Inspekcija per vieną mėnesį nuo 3 mėnesių termino pasibaigimo dienos kreipiasi į teismą dėl pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių galiojimo panaikinimo, išskyrus atvejus, kai yra įsigaliojusi teismo nutartis dėl taikos sutarties patvirtinimo. Kai pagal imperatyvias teisės normas pažeidimų negalima pašalinti, Inspekcija informuoja už pažeidimų šalinimą atsakingus asmenis, kad jie turi teisę per vieno mėnesio terminą, skaičiuojamą nuo patikrinimo akto pasirašymo dienos, panaikinti pažymą apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių ir apie tai nedelsdami informuoti subjektus, kuriems ši pažyma pateikta, ir Inspekciją; jeigu pažyma per nurodytą terminą nepanaikinama, Inspekcija per 2 mėnesius nuo vieno mėnesio termino pabaigos kreipiasi į teismą dėl pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių galiojimo panaikinimo;
+
+b) kai Nekilnojamojo turto registre daiktinės teisės į statinį įregistruotos ne tik statytojo vardu, informuoti už pažeidimų šalinimą atsakingus asmenis, kad jie turi teisę per 3 mėnesių terminą, skaičiuojamą nuo patikrinimo akto pasirašymo dienos, pašalinti nustatytus pažeidimus (išskyrus atvejus, kai pagal imperatyvias teisės normas pažeidimų negalima pašalinti) ir apie tai nedelsdami raštu informuoti subjektus, kuriems ši pažyma apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių pateikta, ir Inspekciją arba turi galimybę sudaryti taikos sutartį su Inspekcija dėl ilgesnio pažeidimų šalinimo termino. Jeigu per 3 mėnesių terminą dėl objektyvių aplinkybių pažeidimų negalima pašalinti, tačiau už jų šalinimą atsakingi asmenys sutinka ir siūlo juos šalinti geranoriškai, Inspekcija ir už pažeidimų šalinimą atsakingi asmenys teisės aktų nustatyta tvarka gali sudaryti taikos sutartis dėl pažeidimų šalinimo. Ši sutartis teikiama tvirtinti teismui. Jeigu pažeidimai per 3 mėnesių terminą nepašalinami, Inspekcija per vieną mėnesį nuo 3 mėnesių termino pasibaigimo dienos kreipiasi į teismą dėl pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių galiojimo panaikinimo, išskyrus atvejus, kai yra įsigaliojusi teismo nutartis dėl taikos sutarties patvirtinimo. Kai pagal imperatyvias teisės normas pažeidimų negalima pašalinti, Inspekcija per 2 mėnesius nuo  patikrinimo akto pasirašymo dienos kreipiasi į teismą dėl pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių galiojimo panaikinimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+
+61. Apie tai, kad pasirašytas patikrinimo aktas, kuriame konstatuojama, kad pažyma apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių surašyta ir (ar) patvirtinta neteisėtai, statybos valstybinės priežiūros pareigūnas ne vėliau kaip kitą darbo dieną informuoja Nekilnojamojo turto kadastro tvarkytoją dėl įrašo, kad pažyma apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių surašyta ir (ar) patvirtinta neteisėtai, Nekilnojamojo turto registre padarymo, jam pateikdamas patikrinimo aktą be priedų, jeigu nėra techninių galimybių pateikti šios informacijos naudojantis informacinėmis sistemomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 7. Pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumo patikrinimų tvarką, tikrintinų pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių įtraukimo į Inspekcijos tvirtinamus patikrinimų planus tvarką nustato, pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumui patikrinti pateiktinų dokumentų sąrašą ir surašomų dokumentų formas tvirtina Inspekcijos vadovas.
 
@@ -777,7 +835,11 @@ KETVIRTASIS SKIRSNIS
 
 1) tikrinami objektai naudojami pagal pagrindinę žemės naudojimo paskirtį ir naudojimo būdą;
 
-2) laikomasi tikrinamam objektui nustatytų žemės servitutų;
+2) Neteko galios nuo 2024-05-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 3) vykdant ūkinę ir kitą veiklą, tikrinamuose objektuose nepažeidžiamos teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytos žemės sklypų ribos, savavališkai neužimama ir (ar) nenaudojama žemė, vandens telkiniai;
 
@@ -1258,4 +1320,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2121, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14309
 
 Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+
+Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 7, 10, 11, 13, 14, 17, 18, 24, 31 straipsnių pakeitimo, Įstatymo papildymo 10-1, 34-1 straipsniais ir 8 straipsnio pripažinimo netekusiu galios įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2524, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06311
+
+Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 7, 10, 11, 13, 14, 17, 18, 24, 31 straipsnių pakeitimo, Įstatymo papildymo 10-1, 34-1 straipsniais ir 8 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-2414 13 straipsnio pakeitimo įstatymas
 
