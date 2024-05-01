@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2024-03-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-03-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-19
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -1001,19 +1001,37 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
-29) išduoda sutikimus dėl savivaldybės patikėjimo teise valdomos valstybinės žemės naudojimo, susijusius su statytojo teisės įgyvendinimu, susisiekimo komunikacijų, inžinerinių tinklų tiesimu, veikla vandens telkiniuose ir žemės gelmių tyrimu, ir priima sprendimus dėl sandoriu nustatomų servitutų patikėjimo teise valdomuose valstybinės žemės sklypuose nustatymo.
+29) išduoda sutikimus dėl savivaldybės patikėjimo teise valdomos valstybinės žemės naudojimo, susijusius su statytojo teisės įgyvendinimu, susisiekimo komunikacijų, inžinerinių tinklų tiesimu, veikla vandens telkiniuose ir žemės gelmių tyrimu, ir priima sprendimus dėl sandoriu nustatomų servitutų patikėjimo teise valdomuose valstybinės žemės sklypuose nustatymo;
 
 Papildyta straipsnio punktu:
 
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
+30) išduoda sutikimus laikinai naudotis žemės ūkio veiklai vykdyti žemės sklypais nesuformuotais laisvos valstybinės žemės fondo žemės plotais, patikėjimo teise valdomais savivaldybių.
+
+Straipsnio dalies punkto redakcija nuo 2027-01-01:
+
+30) netenka galios.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2557, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07455
+
 3. Meras turi nuolat bendrauti su savivaldybės nuolatiniais gyventojais. Meras reglamento nustatyta tvarka atsiskaito savivaldybės bendruomenei už savo veiklą. Ši informacija apie mero veiklos rezultatus įtraukiama į šio įstatymo 62 straipsnyje nurodytą savivaldybės metinių ataskaitų rinkinį.
+
+4. Šio straipsnio 2 dalies 12, 13, 28, 29 ir 30 punktuose nustatytas funkcijas meras, merą pavaduojantis vicemeras arba laikinai mero pareigas einantis savivaldybės tarybos narys turi teisę įgalioti atlikti savivaldybės administracijos direktorių.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
 
 4. Šio straipsnio 2 dalies 12, 13, 28 ir 29 punktuose nustatytas funkcijas meras, merą pavaduojantis vicemeras arba laikinai mero pareigas einantis savivaldybės tarybos narys turi teisę įgalioti atlikti savivaldybės administracijos direktorių.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2557, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07455
 
 28 straipsnis. Savivaldybės tarybos priimto teisės akto grąžinimas pakartotinai svarstyti, jo svarstymas ir priėmimas
 
