@@ -4,7 +4,7 @@ identifier: "TAR.08F2F39FF20B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2021-05-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.08F2F39FF20B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos laukinės gyvūnijos įstatymas
 
-Suvestinė redakcija nuo 2021-05-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2726, i. k. 0971010ISTAVIII-498
 
@@ -358,7 +358,11 @@ c) tveriant tvoras pakrantės apsaugos juostoje pažeidžiant Lietuvos Respublik
 
 2. Leidimo laikyti nelaisvėje laukinius gyvūnus turėtojo teisės:
 
-1) aptvaruose, voljeruose ar kituose statiniuose laikomų laukinių gyvūnų gausą reguliuoti pagal Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatytus reikalavimus dėl leidžiamų medžioklės įrankių ir priemonių naudojimo ir pagal šiose taisyklėse nustatytus saugaus elgesio medžioklės metu reikalavimus;
+1) aptvaruose, voljeruose ar kituose statiniuose laikomų laukinių gyvūnų gausą reguliuoti pagal Medžioklės įstatyme nustatytus reikalavimus dėl leidžiamų medžioklės įrankių ir priemonių naudojimo ir pagal Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatytus saugaus elgesio medžioklės metu reikalavimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2486, 2024-03-14, paskelbta TAR 2024-03-21, i. k. 2024-05114
 
 2) jeigu leidimo laikyti nelaisvėje laukinius gyvūnus galiojimas panaikinamas, per 30 kalendorinių dienų nuo sprendimo dėl leidimo laikyti nelaisvėje laukinius gyvūnus galiojimo panaikinimo priėmimo laukiniai gyvūnai savininko sprendimu gali būti perduodami kitiems asmenims, turintiems teisę ir sąlygas laikyti perduodamus laukinius gyvūnus, arba nužudomi ar nugaišinami laikantis Gyvūnų gerovės ir apsaugos įstatymo reikalavimų.
 
@@ -472,9 +476,17 @@ Leidimo naudoti laukinius gyvūnus kryžminimui turėtojo pareigos:
 
 4) medžiojimo termino metu paimti iš aplinkos medžiojamųjų rūšių gyvūnus, kurie pagal Medžioklės Lietuvos Respublikos teritorijoje taisykles priskiriami medžiojamiesiems gyvūnams ir turi Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatytus jų medžiojimo terminus. Šie gyvūnai nustatytuoju medžiojimo termino metu paimami iš buveinių Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatyta tvarka;
 
-5) laukinės gyvūnijos naudotojui (leidimo laikyti nelaisvėje laukinius gyvūnus, nurodyto šio įstatymo 8 straipsnyje, turėtojui, leidimo naudoti laukinius gyvūnus kryžminimui, nurodyto šio įstatymo 11 straipsnyje, turėtojui ir leidimo įkurti zoologijos sodą, nurodyto šio įstatymo 17 straipsnyje, turėtojui) paimti iš aplinkos nelaisvėje laikytus ir pabėgusius matomais ženklais paženklintus medžiojamuosius ir medžiojamiesiems nepriskiriamus laukinius gyvūnus, neženklintus svetimžemių rūšių gyvūnus (išskyrus gyvūnus svetimžemių rūšių, nurodytų Laukinių gyvūnų naudojimo taisyklėse) ir hibridus bet kuriuo metu naudojant veterinarinius vaistus gyvūnams nuraminti, bendrajai nejautrai sukelti, kad gyvūnus būtų galima saugiai fiksuoti; naudojant Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nurodytas leidžiamas naudoti šias priemones ir įrankius: tinklus, graibštus, gaudykles, užtikrinančias gyvo ir nesužeisto gyvūno pagavimą, natūralios kilmės masalą, feromoninius ir cheminius jaukus, žiūronus, naktinio stebėjimo prietaisus, dirbtines priedangas, stacionarius ar kilnojamuosius bokštelius, sausumos ir vandens transporto priemones, bet nenaudojant taisyklėse draudžiamų ir kitų leidžiamų, bet šiame punkte nenurodytų, naudoti įrankių ir priemonių, kai laukinės gyvūnijos naudotojas yra pranešęs policijai ir Aplinkos ministerijos įgaliotai institucijai, vykdančiai laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę, apie nelaisvėje laikytą ir į laisvę ištrūkusį laukinį gyvūną, kaip tai numatyta šio įstatymo 5 straipsnio 3 dalies 4 punkte; jeigu laukinių gyvūnų paėmimas vykdomas medžioklės plotuose, šiame punkte nurodytas laukinės gyvūnijos naudotojas per Laukinių gyvūnų naudojimo taisyklėse nustatytą terminą apie numatomą vykdyti veiklą ir laiką praneša medžioklės plotų naudotojui ir Aplinkos ministerijos įgaliotai institucijai, vykdančiai laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę;
+5) laukinės gyvūnijos naudotojui (leidimo laikyti nelaisvėje laukinius gyvūnus, nurodyto šio įstatymo 8 straipsnyje, turėtojui, leidimo naudoti laukinius gyvūnus kryžminimui, nurodyto šio įstatymo 11 straipsnyje, turėtojui ir leidimo įkurti zoologijos sodą, nurodyto šio įstatymo 17 straipsnyje, turėtojui) paimti iš aplinkos nelaisvėje laikytus ir pabėgusius matomais ženklais paženklintus medžiojamuosius ir medžiojamiesiems nepriskiriamus laukinius gyvūnus, neženklintus svetimžemių rūšių gyvūnus (išskyrus gyvūnus svetimžemių rūšių, nurodytų Laukinių gyvūnų naudojimo taisyklėse) ir hibridus bet kuriuo metu naudojant veterinarinius vaistus gyvūnams nuraminti, bendrajai nejautrai sukelti, kad gyvūnus būtų galima saugiai fiksuoti; naudojant Medžioklės įstatyme nurodytas leidžiamas naudoti priemones ir įrankius: tinklus, graibštus, gaudykles, užtikrinančias gyvo ir nesužeisto gyvūno pagavimą, natūralios kilmės masalą, feromoninius ir cheminius jaukus, žiūronus, naktinio stebėjimo prietaisus, dirbtines priedangas, stacionarius ar kilnojamuosius bokštelius, sausumos ir vandens transporto priemones, bet nenaudojant Medžioklės įstatyme draudžiamų ir kitų leidžiamų, bet šiame punkte nenurodytų, naudoti įrankių ir priemonių, kai laukinės gyvūnijos naudotojas yra pranešęs policijai ir Aplinkos ministerijos įgaliotai institucijai, vykdančiai laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę, apie nelaisvėje laikytą ir į laisvę ištrūkusį laukinį gyvūną, kaip tai numatyta šio įstatymo 5 straipsnio 3 dalies 4 punkte; jeigu laukinių gyvūnų paėmimas vykdomas medžioklės plotuose, šiame punkte nurodytas laukinės gyvūnijos naudotojas per Laukinių gyvūnų naudojimo taisyklėse nustatytą terminą apie numatomą vykdyti veiklą ir laiką praneša medžioklės plotų naudotojui ir Aplinkos ministerijos įgaliotai institucijai, vykdančiai laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę;
 
-6) sodybose ir negyvenamuose pastatuose bei jų priklausiniuose šių objektų savininkams, valdytojams ir naudotojams, nepaisant Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatytų terminų, naudojant Medžioklės Lietuvos Respublikos teritorijoje taisyklėse numatytas leistinas gaudymo priemones, gaudant ir pasiimant tų rūšių plėšriuosius medžiojamuosius žvėris, kuriems nurodytose taisyklėse yra nustatytas leistinas jų medžioklės terminas;
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2486, 2024-03-14, paskelbta TAR 2024-03-21, i. k. 2024-05114
+
+6) sodybose ir negyvenamuose pastatuose bei jų priklausiniuose šių objektų savininkams, valdytojams ir naudotojams, nepaisant Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatytų terminų, naudojant Medžioklės įstatyme numatytas leistinas gaudymo priemones, gaudant ir pasiimant tų rūšių plėšriuosius medžiojamuosius žvėris, kuriems šiame punkte nurodytose taisyklėse yra nustatytas leistinas jų medžioklės terminas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2486, 2024-03-14, paskelbta TAR 2024-03-21, i. k. 2024-05114
 
 7) kai reguliuojama medžiojamųjų gyvūnų gausa teritorijose, kuriose pagal Medžioklės įstatymo reikalavimus medžioti draudžiama, ir vadovaujamasi Medžiojamųjų gyvūnų gausos reguliavimo teritorijose, kuriose medžioti draudžiama, tvarkos aprašu;
 
@@ -486,7 +498,11 @@ Leidimo naudoti laukinius gyvūnus kryžminimui turėtojo pareigos:
 
 1) laukinius gyvūnus ketinama paimti iš buveinių juos nužudant ir naudoti kitais negu zoologinių kolekcijų sudarymo, švietimo, mokslo, gausos reguliavimo tikslais (išskyrus atvejus, kai siekiama paimti iš aplinkos anksčiau laikytus nelaisvėje ir ištrūkusius į laisvę gyvūnus juos nužudant);
 
-2) ketinama medžioti ar laukinių gyvūnų paėmimą iš aplinkos vykdyti Medžioklės Lietuvos Respublikos teritorijoje taisyklėse draudžiamais medžioti įrankiais, priemonėmis ir draudžiamais medžioklės būdais;
+2) ketinama medžioti ar vykdyti laukinių gyvūnų paėmimą iš aplinkos Medžioklės įstatyme draudžiamais medžioklės įrankiais ir priemonėmis bei Medžioklės Lietuvos Respublikos teritorijoje taisyklėse draudžiamais medžioklės būdais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2486, 2024-03-14, paskelbta TAR 2024-03-21, i. k. 2024-05114
 
 3) leidimo naudoti laukinius gyvūnus prašytojas nepateikė Aplinkos ministerijos įgaliotai institucijai ataskaitos dėl anksčiau išduoto leidimo naudoti laukinius gyvūnus panaudojimo Laukinių gyvūnų naudojimo taisyklėse nustatyta tvarka ir terminais;
 
@@ -1161,4 +1177,28 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3297, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21146
 
 Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2172, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18814
+
+Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 8 ir 24 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2352, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25323
+
+Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 4 ir 18 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2486, 2024-03-14, paskelbta TAR 2024-03-21, i. k. 2024-05114
+
+Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 9 ir 14 straipsnių pakeitimo įstatymas
 
