@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2024-04-04"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-04-04 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
 
@@ -44,11 +44,15 @@ BENDROSIOS NUOSTATOS
 
 1. Šis įstatymas reglamentuoja Lietuvos Respublikos teritorijos, kontinentinio šelfo ir išskirtinės ekonominės zonos Baltijos jūroje teritorijų planavimą ir nustato šiame procese dalyvaujančių asmenų teises ir pareigas. Šio įstatymo tikslas – užtikrinti darnią teritorijų plėtrą ir racionalią urbanizaciją, nustatant teritorijų planavimo proceso sprendinių sistemiškumo, skirtingo lygmens dokumentų suderinamumo ir tarpusavio poveikio reikalavimus, sudaryti sąlygas gamtinės ir antropogeninės aplinkos darnai, urbanistinei kokybei, išsaugant vertingą kraštovaizdį, biologinę įvairovę, gamtos ir kultūros paveldo vertybes.
 
-11. Šio įstatymo nuostatos, išskyrus šio įstatymo 4 straipsnio 6 dalį, netaikomos teritorijoms, kurioms Lietuvos Respublikos žemės įstatymo nustatyta tvarka rengiami karinės infrastruktūros projektai karinei infrastruktūrai, nurodytai Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 6 straipsnio 10 punkte nurodytame sąraše, pritaikyti ir (ar) sukurti.
+11. Šio įstatymo nuostatos, išskyrus šio įstatymo 4 straipsnio 6 dalį, netaikomos teritorijoms, kurioms Lietuvos Respublikos žemės įstatymo nustatyta tvarka rengiami karinės infrastruktūros projektai karinei infrastruktūrai, nurodytai Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 6 straipsnio 10 punkte nurodytame sąraše, pritaikyti ir (ar) sukurti arba specialiosios paskirties projektai stambiems projektams, Lietuvos Respublikos Vyriausybės nutarimu pripažintiems užtikrinančiais neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinti.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1533, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24177
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2564, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07717
 
 2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
@@ -162,7 +166,11 @@ Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
 32. Teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsena – teritorijų planavimo dokumentų sprendinių įgyvendinimo sisteminis kokybinių ir kiekybinių aplinkos pokyčių stebėjimas ir vertinimas.
 
-33. Teritorijų planavimo normos – Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotų institucijų teisės aktų nuostatos, kuriomis nustatomi teritorijų planavimo kiekybiniai, kokybiniai reikalavimai, taikomi rengiant teritorijų planavimo dokumentus.
+33. Teritorijų planavimo normos – Vyriausybės ar jos įgaliotų institucijų teisės aktų nuostatos, kuriomis nustatomi teritorijų planavimo kiekybiniai, kokybiniai reikalavimai, taikomi rengiant teritorijų planavimo dokumentus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2564, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07717
 
 34. Teritorijų planavimo organizatoriai (toliau – planavimo organizatoriai) – Vyriausybės įgalioti viešojo administravimo subjektai, savivaldybių administracijų direktoriai, įstatymų nustatyti asmenys, organizuojantys teritorijų planavimo dokumentų rengimą, derinimą, tikrinimą, viešinimo procedūras ir teikimą tvirtinti.
 
@@ -198,11 +206,21 @@ Nr. XIV-921, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01362
 
 45. Viešoji erdvė – gyvenamosios vietovės urbanizuotos teritorijos erdvinės struktūros elementas, skirtas visuomenės bendriesiems interesams.
 
-46. Sąvoka „karinės infrastruktūros projektas“ suprantama taip, kai ji apibrėžiama Žemės įstatyme.
+46. Sąvokos „karinės infrastruktūros projektas“, „specialiosios paskirties projektas“, „žemės sklypas“, „žemės valdos projektas“, „žemėtvarkos projektas“ suprantamos taip, kaip jos apibrėžiamos Žemės įstatyme.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1533, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24177
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2564, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07717
+
+47. Sąvoka „stambus projektas“ suprantama taip, kaip ji apibrėžiama Investicijų įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2564, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07717
 
 3 straipsnis. Teritorijų planavimo tikslai
 
@@ -262,7 +280,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
-6. Krašto apsaugos tikslams skirtų teritorijų žemės valdytojai ir naudotojai vadovaujasi vietovės lygmens bendrojo plano sprendiniais, jeigu jis neparengtas, – savivaldybės lygmens bendrojo plano sprendiniais, o neurbanizuotose ir neurbanizuojamose teritorijose – ir specialiojo teritorijų planavimo dokumentais, tiek, kiek jie neprieštarauja karinės infrastruktūros projektų sprendiniams, o Investicijų įstatyme nurodytiems stambiems projektams įgyvendinti ar pritraukti skirtos teritorijos (toliau – stambiems projektams skirtos teritorijos) vystomos vadovaujantis valstybei svarbių projektų teritorijų planavimo dokumentais arba vietovės lygmens bendrojo plano sprendiniais, jeigu jis neparengtas, – savivaldybės lygmens bendrojo plano sprendiniais.
+6. Krašto apsaugos tikslams skirtų teritorijų žemės valdytojai ir naudotojai vadovaujasi vietovės lygmens bendrojo plano sprendiniais, jeigu jis neparengtas, – savivaldybės lygmens bendrojo plano sprendiniais, o neurbanizuotose ir neurbanizuojamose teritorijose – ir specialiojo teritorijų planavimo dokumentais, tiek, kiek jie neprieštarauja karinės infrastruktūros projektų sprendiniams, o Investicijų įstatyme nurodytiems stambiems projektams įgyvendinti ar pritraukti skirtos teritorijos, kurioms specialiosios paskirties projektai neparengti, (toliau – stambiems projektams skirtos teritorijos) vystomos vadovaujantis valstybei svarbių projektų teritorijų planavimo dokumentais arba vietovės lygmens bendrojo plano sprendiniais, jeigu jie neparengti, – savivaldybės lygmens bendrojo plano sprendiniais. Neurbanizuotos ir neurbanizuojamos teritorijos, kurioms parengti specialiosios paskirties projektai, vystomos vadovaujantis teritorijų planavimo dokumentais, tiek, kiek jie neprieštarauja specialiosios paskirties projektų sprendiniams.
 
 Papildyta straipsnio dalimi:
 
@@ -273,6 +291,8 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
 
 Nr. XIV-1533, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24177
+
+Nr. XIV-2564, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07717
 
 5 straipsnis. Teritorijų planavimo dokumentų rūšys
 
@@ -376,25 +396,41 @@ Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
 4) rengia teritorijų planavimo politikai formuoti ir šiam įstatymui įgyvendinti reikalingus teisės aktus, metodinius nurodymus, metodines rekomendacijas ir teritorijų planavimo normas teritorijų planavimo dokumentams rengti, kiek tai reikalinga šio įstatymo vienodam taikymui ir aiškinimui;
 
-5) išduoda teritorijos planavimo sąlygas šio įstatymo nustatytais atvejais;
+5) Neteko galios nuo 2024-05-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 6) informuoja šio įstatymo ir Vyriausybės nustatyta tvarka visuomenę apie teritorijų planavimo procesą ir priimamus sprendimus, sudaro sąlygas visuomenei dalyvauti teritorijų planavimo procese;
 
-7) atlieka valstybės teritorijos bendrojo plano ir valstybės teritorijos dalių bendrųjų planų sprendinių įgyvendinimo stebėseną;
+7) Neteko galios nuo 2024-05-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 8) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
 
-4. Vyriausybės įgaliota institucija ar institucijos pagal kompetenciją:
+4. Vyriausybės įgaliota institucija ar įstaiga pagal kompetenciją:
 
-1) įgyvendina valstybės politiką teritorijų planavimo srityje, organizuoja šio įstatymo 6 straipsnio 1 dalyje nurodytų ir kitų teritorijų planavimo dokumentų rengimą;
+1) įgyvendina valstybės politiką teritorijų planavimo srityje, organizuoja šio įstatymo 6 straipsnio 1 dalyje nurodytų ir kitų teritorijų planavimo dokumentų rengimą;
 
 2) tvirtina valstybės lygmens specialiojo teritorijų planavimo dokumentus;
 
 3) rengia šio įstatymo įgyvendinamuosius teisės aktus;
 
-4) kartu su Aplinkos ministerija rengia teisės aktus, metodinius nurodymus, metodines rekomendacijas ir teritorijų planavimo normas teritorijų planavimo dokumentams rengti;
+4) kartu su Aplinkos ministerija rengia teisės aktus, metodinius nurodymus, metodines rekomendacijas ir teritorijų planavimo normas teritorijų planavimo dokumentams rengti;
 
-5) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
+5) išduoda teritorijos planavimo sąlygas šio įstatymo nustatytais atvejais;
+
+6) atlieka valstybės teritorijos bendrojo plano ir valstybės teritorijos dalių bendrųjų planų sprendinių įgyvendinimo stebėseną;
+
+7) atlieka kitas šio ir kitų įstatymų, teisės aktų, reglamentuojančių teritorijų planavimo sritį, nustatytas funkcijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 5. Savivaldybės institucijos:
 
@@ -754,7 +790,11 @@ Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
 
 8) atskirųjų želdynų plotai, priklausomųjų želdynų ir želdinių teritorijų dalys procentais.
 
-2. Atsižvelgdamas į rengiamo detaliojo plano mastelį, planuojamą teritoriją ir jos vertingumą, planavimo darbų programoje suformuluotus planavimo uždavinius, planavimo organizatorius planavimo darbų programoje nurodo, kad detaliajame plane nustatomi įstatymais pagrįsti papildomi aplinkosaugos, kraštovaizdžio, gamtos ir nekilnojamojo kultūros paveldo (kultūros paveldo vietovių ir jų apsaugos zonų, kultūros paveldo objektų, jų teritorijų ir apsaugos zonų) apsaugos reikalavimai, urbanistiniai ir architektūriniai (pastatų ir viešųjų erdvių išdėstymas, automobilių stovėjimo vietų išdėstymas ir kita), inžinerinės ir socialinės infrastruktūros vystymo, visuomenės sveikatos saugos ar kiti teritorijos naudojimo reglamentai.
+2. Atsižvelgdamas į rengiamo detaliojo plano mastelį, planuojamą teritoriją ir jos vertingumą, planavimo darbų programoje suformuluotus planavimo uždavinius, planavimo organizatorius planavimo darbų programoje nurodo, ar detaliajame plane pateikiama suplanuotų urbanistinių struktūrų vizualizacija 3D formatu ir kad nustatomi įstatymais pagrįsti papildomi aplinkosaugos, kraštovaizdžio, gamtos ir nekilnojamojo kultūros paveldo (kultūros paveldo vietovių ir jų apsaugos zonų, kultūros paveldo objektų, jų teritorijų ir apsaugos zonų) apsaugos reikalavimai, urbanistiniai ir architektūriniai (pastatų ir viešųjų erdvių išdėstymas, automobilių stovėjimo vietų išdėstymas ir kita), inžinerinės ir socialinės infrastruktūros vystymo, visuomenės sveikatos saugos ar kiti teritorijos naudojimo reglamentai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 3. Detaliuosiuose planuose nustatomi planuojamos teritorijos aprūpinimo inžineriniais tinklais būdai ir susisiekimo komunikacijos (numatomų skirstomųjų tinklų bei aptarnaujančių gatvių ir pagalbinių gatvių trasų išdėstymas), joms funkcionuoti reikalingų servitutų poreikis.
 
@@ -1214,11 +1254,23 @@ Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
 1. Kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsena atliekama valstybės teritorijos bendrajam planui, valstybės teritorijos dalių bendriesiems planams, savivaldybių ir jų dalių bendriesiems planams.
 
-2. Kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėseną planavimo organizatoriai atlieka nuolat. Atitinkamo lygmens teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsenai atlikti valstybė ar savivaldybės naudoja Lietuvos Respublikos teritorijų planavimo stebėsenos informacinę sistemą, apimančią valstybės ir savivaldybių teritorijų planavimo lygmenis.
+2. Kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėseną šio įstatymo 7 straipsnio 4 ir 5 dalyse nurodyti subjektai atlieka nuolat. Atitinkamo lygmens teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsenai atlikti valstybė ar savivaldybės naudoja Lietuvos Respublikos teritorijų planavimo stebėsenos informacinę sistemą, apimančią valstybės ir savivaldybių teritorijų planavimo lygmenis.
 
-3. Lietuvos Respublikos teritorijų planavimo stebėsenos informacinės sistemos valdytoja – Aplinkos ministerija. Lietuvos Respublikos teritorijų planavimo stebėsenos informacinės sistemos tvarkytojai (Aplinkos ministerija ar jos įgaliota institucija ir savivaldybių administracijos) privalo užtikrinti keitimąsi šioje informacinėje sistemoje kaupiama informacija ir duomenimis. Lietuvos Respublikos teritorijų planavimo stebėsenos informacinės sistemos tvarkytojai teikia planavimo organizatoriams informaciją, būtiną teritorijų planavimo dokumentų, nurodytų šio straipsnio 1 dalyje, stebėsenai atlikti. Lietuvos Respublikos teritorijų planavimo stebėsenos informacinės sistemos tvarkytojai veikia pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą ir aplinkos ministro patvirtintus Lietuvos Respublikos teritorijų planavimo stebėsenos informacinės sistemos nuostatus.
+Straipsnio dalies pakeitimai:
 
-4. Kompleksinio teritorijų planavimo organizatorius, atlikdamas kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėseną, vadovaudamasis kompleksinio teritorijų planavimo dokumento sprendinių įgyvendinimo programa, kaupia ir analizuoja informaciją, stebi, analizuoja ir prognozuoja teritorijos raidos tendencijas ir jų įtaką kompleksinio teritorijų planavimo dokumento sprendinių įgyvendinimui ir parengia stebėsenos ataskaitą.
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
+
+3. Lietuvos Respublikos teritorijų planavimo stebėsenos informacinės sistemos valdytoja – Aplinkos ministerija. Lietuvos Respublikos teritorijų planavimo stebėsenos informacinės sistemos tvarkytojai privalo užtikrinti keitimąsi šioje informacinėje sistemoje kaupiama informacija ir duomenimis. Lietuvos Respublikos teritorijų planavimo stebėsenos informacinės sistemos priežiūra, tvarkymas ir vystymas finansuojami iš Aplinkos ministerijai tiems metams patvirtintų Lietuvos Respublikos valstybės biudžeto asignavimų ir (ar) kitų Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme numatytų finansavimo šaltinių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
+
+4. Šio įstatymo 7 straipsnio 4 ar 5 dalyje nurodytas subjektas, atlikdamas kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėseną, vadovaudamasis kompleksinio teritorijų planavimo dokumento sprendinių įgyvendinimo programa, kaupia ir analizuoja informaciją, stebi, analizuoja ir prognozuoja teritorijos raidos tendencijas ir jų įtaką kompleksinio teritorijų planavimo dokumento sprendinių įgyvendinimui ir parengia stebėsenos ataskaitą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 5. Valstybės lygmens kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsenos ataskaita parengiama ne rečiau kaip kas 5 metai. Savivaldybės lygmens kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsenos ataskaita parengiama ne rečiau kaip kas 2 metai. Savivaldybės dalies bendrojo plano sprendinių įgyvendinimo stebėsenos ataskaita gali būti įtraukta į savivaldybės bendrojo plano stebėsenos ataskaitą.
 
@@ -1332,6 +1384,54 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
+5. Asmens duomenų viešinimo tikslai:
+
+1) Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje – viešo teritorijų planavimo proceso ir visuomenės dalyvavimo jame užtikrinimas, suteikiant visuomenei teisę gauti informaciją, dalyvauti priimant sprendimus ir ginti savo pažeistas teises teritorijų planavimo procese;
+
+2) Lietuvos Respublikos teritorijų planavimo dokumentų registre – kaupti duomenis apie patvirtintus teritorijų planavimo dokumentus ir užtikrinti jų sprendinių viešumą;
+
+3) Topografijos, inžinerinės infrastruktūros teritorijų planavimo ir statybos elektroninių vartų informacinėje sistemoje – sudaryti galimybę per vieną informacinę sistemą pasiekti Lietuvos Respublikos teritorijų planavimo dokumentų registre, Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje teikiamus duomenis ir su teritorijų planavimu susijusias viešąsias ir administracines elektronines paslaugas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
+
+6. Šiame įstatyme nurodyti asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu) ir kitais teisės aktais, reglamentuojančiais asmens duomenų apsaugą. Lietuvos Respublikos teritorijų planavimo dokumentų registre, Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje, Topografijos, inžinerinės infrastruktūros, teritorijų planavimo ir statybos elektroninių vartų informacinėje sistemoje, savivaldybių interneto svetainėse viešai, iki juose skelbiami teritorijų planavimo dokumentai, gali būti skelbiami šie duomenys:
+
+1) informacija apie teritorijų planavimo proceso dalyvius:
+
+a) informacija apie planavimo organizatorius arba jų įgaliotus asmenis:
+
+i) kai planavimo organizatorius arba jo įgaliotas asmuo yra fizinis asmuo – asmens vardas, pavardė, elektroninio pašto adresas ir kontaktinis adresas, kuriuo galima teikti pasiūlymus, fiksuotojo arba mobiliojo ryšio telefono numeris;
+
+ii) kai planavimo organizatorius juridinis asmuo – juridinio asmens pavadinimas, juridinio asmens kodas, elektroninio pašto adresas, buveinė (adresas), fiksuotojo arba mobiliojo ryšio telefono numeris, juridinio asmens interneto svetainės adresas;
+
+b) informacija apie planavimo iniciatorius:
+
+i) kai planavimo iniciatorius juridinis asmuo – juridinio asmens pavadinimas, juridinio asmens kodas, elektroninio pašto adresas, buveinė (adresas), fiksuotojo arba mobiliojo ryšio telefono numeris, juridinio asmens interneto svetainės adresas;
+
+ii) kai planavimo iniciatorius fizinis asmuo – asmens vardas, pavardė, elektroninio pašto adresas ir kontaktinis adresas, kuriuo galima teikti pasiūlymus, fiksuotojo arba mobiliojo ryšio telefono numeris;
+
+c) informacija apie asmenis, turinčius teisę vadovauti teritorijų planavimo dokumentų rengimui – asmens vardas, pavardė, atestavimą atliekančios organizacijos kvalifikacijos atestatas, fiksuotojo arba mobiliojo ryšio telefono numeris, darbo elektroninio pašto adresas, darbovietės adresas;
+
+d) informacija apie asmenis, turinčius teisę rengti teritorijų planavimo dokumentus:
+
+i) kai asmuo, turintis teisę rengti teritorijų planavimo dokumentus, yra fizinis asmuo – asmens vardas, pavardė, elektroninio pašto adresas ir kontaktinis adresas, kuriuo galima teikti pasiūlymus, fiksuotojo arba mobiliojo ryšio telefono numeris;
+
+ii) kai asmuo, turintis teisę rengti teritorijų planavimo dokumentus, yra juridinis asmuo – juridinio asmens pavadinimas, juridinio asmens kodas, elektroninio pašto adresas, buveinė (adresas), fiksuotojo arba mobiliojo ryšio telefono numeris, juridinio asmens interneto svetainės adresas;
+
+e) informacija apie teritorijų planavimo proceso dalyvius – viešuosius juridinius asmenis (planavimo sąlygas išduodanti institucija, teritorijų planavimo dokumentą derinanti institucija, teritorijų planavimo dokumentą tikrinanti institucija, teritorijų planavimo dokumentą tvirtinanti institucija, patvirtintą teritorijų planavimo dokumentą Lietuvos Respublikos teritorijų planavimo dokumentų registre registruojanti institucija): institucijos pavadinimas, juridinio asmens kodas, buveinė (adresas), elektroninio pašto adresas, fiksuotojo arba mobiliojo ryšio telefono numeris, dokumentą išduodančio asmens vardas ir pavardė, jo kontaktinė informacija (pareigos, darbo elektroninio pašto adresas, darbo fiksuotojo arba mobiliojo ryšio telefono numeris);
+
+2) informacija:
+
+a) apie planuojamą teritoriją – žemės sklypo unikalus numeris, kadastro numeris, plotas, adresas. Kai planuojama teritorija nėra adreso objektas, nurodomi savivaldybės, gyvenamosios vietovės pavadinimai, kai planuojama teritorija nėra nurodyta, nurodomos koordinatės valstybinėje koordinačių sistemoje;
+
+b) apie planuojamos teritorijos kaimyninius žemės sklypus (sklypai, kurie turi bendrą ribą su planuojama teritorija arba yra nuo jos atskirti ne aukštesnės kaip D kategorijos gatve, vietinės reikšmės keliu ar siauresniu kaip 10 metrų žemės plotu, nesuformuotu sklypu) – adresas, žemės sklypo unikalus numeris, kadastro numeris, jeigu tokie yra suteikti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
+
 32 straipsnis. Teritorijų planavimo viešinimo procedūros
 
 Teritorijų planavimo viešinimo procedūros yra:
@@ -1354,11 +1454,21 @@ Teritorijų planavimo viešinimo procedūros yra:
 
 2) planavimo organizatoriaus buveinėje – informuojama apie teritorijų planavimo dokumentų rengimo pradžią ir planavimo tikslus, planavimo organizatorius ir teritorijų planavimo dokumentų rengėjus, apie pasiūlymų teikimo tvarką ir susipažinimo su teritorijų planavimo dokumentu, SPAV ataskaita tvarką ir jų viešo svarstymo vietą ir laiką;
 
-3) seniūnijų skelbimo lentose – informuojama apie teritorijų planavimo dokumentų rengimo pradžią ir planavimo tikslus, apie pasiūlymų teikimo tvarką ir parengtų teritorijų planavimo dokumentų viešo svarstymo vietą ir laiką;
+3) seniūnijų skelbimo lentose ir pranešimuose (siunčiamuose elektroniniu paštu) planuojamoje teritorijoje esančių seniūnijų seniūnams ir seniūnaičiams – informuojama apie teritorijų planavimo dokumentų rengimo pradžią ir planavimo tikslus, apie pasiūlymų teikimo tvarką ir parengtų teritorijų planavimo dokumentų viešo svarstymo vietą ir laiką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 4) registruotais laiškais – Vyriausybės nustatyta tvarka ir atvejais informuojama apie teritorijų planavimo dokumentų rengimo pradžią ir planavimo tikslus, apie pasiūlymų teikimo tvarką ir parengtų teritorijų planavimo dokumentų viešo svarstymo vietą ir laiką;
 
 5) žodžiu ar raštu pagal suinteresuotų asmenų žodinius ir rašytinius prašymus;
+
+6) kai rengiami detalieji planai (ar vietovės lygmens bendrieji planai, kuriuose nustatomas detaliųjų planų teritorijos naudojimo reglamentas), prie planuojamos teritorijos ribų planavimo organizatoriaus nurodytoje vietoje (vietose) įrengtame informaciniame stende (stenduose) – informuojama apie teritorijų planavimo dokumentų rengimo pradžią ir planavimo tikslus, apie pasiūlymų teikimo tvarką ir parengtų teritorijų planavimo dokumentų viešo svarstymo vietą ir laiką.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 2. Planavimo organizatorius gali naudoti papildomus informacijos apie teritorijų planavimo procesą teikimo būdus.
 
@@ -1374,7 +1484,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
 
-2. Valstybės ir (ar) savivaldybių institucijų sprendimai dėl savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų, planavimo darbų programa ir informacija apie numatomą SPAV rengimą skelbiama šių institucijų interneto svetainėse ir seniūnijų skelbimo lentose, Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje.
+2. Valstybės ir (ar) savivaldybių institucijų sprendimai dėl savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų, planavimo darbų programa ir informacija apie numatomą SPAV rengimą skelbiama šių institucijų interneto svetainėse, seniūnijų skelbimo lentose ir pranešimuose (siunčiamuose elektroniniu paštu) planuojamoje teritorijoje esančių seniūnijų seniūnams ir seniūnaičiams, Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 36 straipsnis. Konsultavimasis
 
@@ -1430,11 +1544,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
-3. Planavimo organizatoriai parengto teritorijų planavimo dokumento sprendinius, susipažinimo su juo, viešo svarstymo tvarką, vietą ir laiką turi paskelbti Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės ar savivaldybės institucijos interneto svetainėje. Planavimo organizatoriai apie parengtą savivaldybės ar vietovės lygmens teritorijų planavimo dokumentą, susipažinimo su juo, viešo svarstymo tvarką, vietą ir laiką taip pat turi paskelbti seniūnijų, kuriose yra planuojama teritorija, skelbimų lentoje, o Vyriausybės nustatyta tvarka ir atvejais – pranešti registruotais laiškais.
+3. Planavimo organizatoriai parengto teritorijų planavimo dokumento sprendinius, susipažinimo su juo, viešo svarstymo tvarką, vietą ir laiką turi paskelbti Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės ar savivaldybės institucijos interneto svetainėje. Planavimo organizatoriai apie parengtą savivaldybės ar vietovės lygmens teritorijų planavimo dokumentą, susipažinimo su juo, viešo svarstymo tvarką, vietą ir laiką taip pat turi paskelbti seniūnijų, kuriose yra planuojama teritorija, skelbimų lentoje ir pranešimuose (siunčiamuose elektroniniu paštu) šių seniūnijų seniūnams ir seniūnaičiams, o Vyriausybės nustatyta tvarka ir atvejais – pranešti registruotąja pašto siunta.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
+
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 4. Kai žemės sklypas numatomas valstybei svarbiam projektui įgyvendinti arba rengiamas valstybei svarbaus projekto teritorijų planavimo dokumentas, planavimo organizatorius apie parengtą teritorijų planavimo dokumentą informuoja šio įstatymo 23 straipsnyje nustatyta tvarka.
 
@@ -1751,6 +1867,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2523, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06310
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 7, 18, 20, 29, 31, 33, 34 ir 35 straipsnių pakeitimo įstatymo Nr. XIV-2420 9 straipsnio pakeitimo įstatymas
+
+29.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2564, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07717
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir 4 straipsnių pakeitimo įstatymas
 
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai ir vadovai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
