@@ -4,7 +4,7 @@ identifier: "TAR.E2CE2C82DA9E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-26"
-last_updated: "2023-12-29"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2023-12-29 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
 
@@ -551,11 +551,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
-30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Investicijų įstatyme, Mokesčių administravimo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Lietuvos Respublikos įmonių atskaitomybės įstatyme, Lietuvos Respublikos pensijų kaupimo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos valstybės kontrolės įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme.
+30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Investicijų įstatyme, Mokesčių administravimo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Lietuvos Respublikos įmonių atskaitomybės įstatyme, Lietuvos Respublikos pensijų kaupimo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės kontrolės įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
+
+Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
 
 31. Kai šio įstatymo normos taikomos viešojo sektoriaus subjekto finansinių ataskaitų rinkiniui, biudžeto vykdymo ataskaitų rinkiniui, veiklos ataskaitai, metinių ataskaitų rinkiniui, tarpinių ataskaitų rinkiniui, viešojo sektoriaus subjektų grupės ataskaitų rinkiniui, vartojama sąvoka „ataskaitos“.
 
@@ -625,7 +627,11 @@ c) yra nešališka;
 
 2. Į viešojo sektoriaus subjekto ataskaitas turi būti įtraukiamas tik to viešojo sektoriaus subjekto nuosavas ir patikėjimo teise valdomas, naudojamas ir disponuojamas valstybės ar savivaldybės turtas, finansavimo sumos ir įsipareigojimai, pajamos ir sąnaudos, įplaukos ir išlaidos ir kiti veiklos rezultatai, išskyrus šio straipsnio 3 dalyje nurodytas išimtis.
 
-3. Valstybės ar savivaldybės turto, kurį patikėjimo teise valdo ne viešojo sektoriaus subjektai ir iš kurio ne viešojo sektoriaus subjektai negauna pajamų, vertę į savo ataskaitas įtraukia viešojo sektoriaus subjektai, įgyvendinantys to turto valdytojų savininko (akcijų valdytojo) teises ir pareigas.
+3. Valstybės ar savivaldybės turto, kurį patikėjimo teise valdo ne viešojo sektoriaus subjektai ir iš kurio ne viešojo sektoriaus subjektai negauna pajamų, išskyrus visus registrus, įskaitant kadastrus (toliau kartu – registrai), valstybės informacines sistemas, vidaus administravimo informacines sistemas ir kitas informacines sistemas, vertę į savo ataskaitas įtraukia viešojo sektoriaus subjektai, įgyvendinantys to turto valdytojų savininko (akcijų valdytojo) teises ir pareigas. Registrų, valstybės informacinių sistemų, vidaus administravimo informacinių sistemų ir kitų informacinių sistemų, kuriuos patikėjimo teise valdo ne viešojo sektoriaus subjektai ir iš kurių negauna jokių pajamų, vertę į savo ataskaitas atitinkamai įtraukia registrų, valstybės informacinių sistemų, vidaus administravimo informacinių sistemų ir kitų informacinių sistemų valdytojai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
 
 4. Pajamos, gaunamos iš viešojo sektoriaus subjekto vykdomos veiklos, neatsižvelgiant į įplaukų surinkimo būdą, rodomos tą veiklą vykdančio viešojo sektoriaus subjekto ataskaitose.
 
@@ -807,23 +813,17 @@ Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
 7. Nukrypti nuo VSAFAS galima tik esant aplinkybėms, nepriklausančioms nuo viešojo sektoriaus subjekto valios, suderinus su Finansų ministerija. Informacija apie kiekvieną nukrypimą nuo VSAFAS, apie nukrypimo priežastis ir poveikį viešojo sektoriaus subjekto turtui, finansavimo sumoms, įsipareigojimams, pajamoms ir sąnaudoms pateikiama finansinių ataskaitų aiškinamajame rašte.
 
-13 straipsnis. Reorganizavimo ataskaita ir likvidavimo ataskaita
+13 straipsnis. Reorganizavimo pabaigos finansinė ataskaita ir likvidavimo pabaigos finansinė ataskaita
 
-1. Jeigu yra priimtas sprendimas reorganizuoti viešojo sektoriaus subjektą, išskyrus fondus, tas viešojo sektoriaus subjektas turi parengti:
+1. Jeigu yra priimtas sprendimas reorganizuoti viešojo sektoriaus subjektą, tas viešojo sektoriaus subjektas turi parengti reorganizavimo pabaigos finansinę ataskaitą pagal paskutinės viešojo sektoriaus subjekto veiklos dienos iki reorganizavimo pabaigos dienos duomenis. Pagal paskutinės viešojo sektoriaus subjekto veiklos dienos duomenis viešojo sektoriaus subjektas turi pateikti finansinius duomenis į VSAKI sistemą.
 
-1) finansinės būklės ataskaitą ir išlaidų sąmatos vykdymo ataskaitą pagal paskutinio mėnesio, buvusio iki sprendimo reorganizuoti viešojo sektoriaus subjektą priėmimo dienos, paskutinės dienos duomenis;
+2. Jeigu yra priimtas sprendimas likviduoti viešojo sektoriaus subjektą, tas viešojo sektoriaus subjektas turi parengti likvidavimo pabaigos finansinę ataskaitą pagal paskutinės viešojo sektoriaus subjekto veiklos dienos iki likvidavimo pabaigos dienos duomenis. Pagal paskutinės viešojo sektoriaus subjekto veiklos dienos duomenis viešojo sektoriaus subjektas turi pateikti finansinius duomenis į VSAKI sistemą.
 
-2) reorganizavimo ataskaitą pagal paskutinės viešojo sektoriaus subjekto veiklos dienos iki reorganizavimo dienos duomenis. Pagal paskutinės viešojo sektoriaus subjekto veiklos dienos duomenis viešojo sektoriaus subjektas turi pateikti finansinius duomenis į VSAKI sistemą.
+3. Reorganizavimo pabaigos finansinei ataskaitai ir likvidavimo pabaigos finansinei ataskaitai ir jose teikiamai finansinei informacijai taikomi šio įstatymo 3 straipsnyje nustatyti reikalavimai. Šių ataskaitų turinys detalizuojamas VSAFAS.
 
-2. Jeigu yra priimtas sprendimas likviduoti viešojo sektoriaus subjektą, išskyrus fondus, tas viešojo sektoriaus subjektas turi parengti:
+Straipsnio pakeitimai:
 
-1) finansinės būklės ataskaitą ir išlaidų sąmatos vykdymo ataskaitą pagal paskutinio mėnesio, buvusio iki sprendimo likviduoti viešojo sektoriaus subjektą priėmimo dienos, paskutinės dienos duomenis;
-
-2) likvidavimo ataskaitą pagal paskutinės viešojo sektoriaus subjekto veiklos dienos iki likvidavimo dienos duomenis. Pagal paskutinės viešojo sektoriaus subjekto veiklos dienos duomenis viešojo sektoriaus subjektas turi pateikti finansinius duomenis į VSAKI sistemą.
-
-3. Reorganizavimo ataskaitai ir likvidavimo ataskaitai taikomi šio įstatymo 3 straipsnyje nustatyti bendrieji reikalavimai. Detalesnius reorganizavimo ataskaitai ir likvidavimo ataskaitai keliamus reikalavimus nustato finansų ministras.
-
-4. Fondų reorganizavimo ar likvidavimo atveju fondai parengia finansinės būklės ataskaitas ir kitas su reorganizavimu ir likvidavimu susijusias ataskaitas. Šioms ataskaitoms keliamus reikalavimus detalizuoja finansų ministras.
+Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
 
 IV SKYRIUS
 
@@ -1182,6 +1182,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2385, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25631
 
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo įstatymo Nr. XIII-3308 2 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
+
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 2, 4 ir 13 straipsnių pakeitimo įstatymas
 
 21 straipsnis. Papildomi reikalavimai finansinėms ataskaitoms
 
