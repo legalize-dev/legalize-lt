@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2024-01-02"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2024-01-02 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-07-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -64,6 +64,12 @@ Papildyta straipsnio dalimi:
 Nr. XIV-2444, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25937
 
 6. Riboženklis – žemės sklypo ribas vietovėje žymintis ženklas, atitinkantis Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytą standartą ir teisiškai saugomas įstatymų nustatyta tvarka.
+
+61. Specialiosios paskirties projektas – stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinti neurbanizuotoje ir neurbanizuojamoje teritorijoje rengiamas žemės valdos projektas, kuriame nustatomas žemės sklypo (-ų) formavimas, pertvarkymas, paėmimas visuomenės poreikiams, naudojimo sąlygos (paskirtis, naudojimo būdas, servitutai).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
 
 7. Sunykęs statinys – statinio dalis, kurios nepakanka nekilnojamojo daikto kadastro duomenims, tokiems kaip statinio pagrindinei tikslinei naudojimo paskirčiai, statinio statybinėms medžiagoms, užstatytam plotui ir tūriui, nustatyti.
 
@@ -577,11 +583,135 @@ Nr. XIV-2114, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14307
 
 2. Laisvos valstybinės žemės fondo žemė perleidžiama nuosavybėn, perduodama naudotis ar išnuomojama atlikus būtinus teritorijų planavimo, žemės tvarkymo darbus, nustačius žemės sklypų pagrindinę žemės naudojimo paskirtį, naudojimo būdą, nurodžius Specialiųjų žemės naudojimo sąlygų įstatyme nurodytas teritorijas, į kurias patenka šie žemės sklypai, ir suformuotus žemės sklypus įregistravus Nekilnojamojo turto registre Civilinio kodekso, šio ir kitų įstatymų nustatyta tvarka.
 
-3. Perduotuose naudotis ar išnuomotuose valstybinės žemės sklypuose, valstybinės žemės plotuose, kuriuose nesuformuoti žemės sklypai, jų patikėtinių ir naudotojų lėšomis atliekami žemės sklypų formavimo (išskyrus šio įstatymo 22 straipsnio 2 dalies 8 punkte nustatytą atvejį), žemės tvarkymo darbai, būtini šiems žemės sklypams naudoti pagal teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytą pagrindinę žemės naudojimo paskirtį (kelių tiesimas, melioracijos sistemų rekonstrukcija ir kiti darbai).
+3. Sutikimus laikinai naudotis žemės ūkio veiklai vykdyti asmens, pageidaujančio laikinai naudoti žemę, prašymu vieniems metams arba iki sprendimo perleisti juos nuosavybėn, perduoti neatlygintinai naudotis ar išnuomoti priėmimo dienos, tačiau ne ilgiau kaip iki 2026 m. gruodžio 31 d., žemės sklypais nesuformuotais laisvos valstybinės žemės fondo žemės plotais išduoda Nacionalinė žemės tarnyba ir (ar) savivaldybė asmenims, naudojusiems šį laisvos valstybinės žemės fondo žemės plotą iki 2023 m. gruodžio 31 d. pagal Nacionalinės žemės tarnybos išduotame leidime laikinai naudotis valstybine žeme žemės ūkio veiklai vykdyti nurodytas sąlygas. Nacionalinės žemės tarnybos sprendimą dėl pirmiau nurodyto sutikimo išdavimo priima Nacionalinės žemės tarnybos vadovas arba jo įgaliotas viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einantis valstybės tarnautojas. Šiems asmenims atsisakius ar nepareiškus noro laikinai naudoti šią žemę, teisę ją naudoti pirmiau nurodytomis sąlygomis įgyja fiziniai asmenys, įregistravę ūkininko ūkį Ūkininko ūkio įstatymo nustatyta tvarka arba turintys Vyriausybės įgaliotos institucijos nustatytą profesinį pasirengimą ūkininkauti, ir juridiniai asmenys – žemės ūkio produkcijos gamintojai, kurių metinės įplaukos iš prekinės žemės ūkio produkcijos realizavimo sudaro daugiau kaip 50 procentų visų gaunamų pajamų.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+3. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+4. Asmuo, pageidaujantis laikinai naudotis žemės ūkio veiklai vykdyti žemės sklypais nesuformuotu laisvos valstybinės žemės fondo žemės plotu, prašymą leisti laikinai naudotis šiuo žemės plotu pateikia valstybinės žemės patikėtiniui pagal žemės buvimo vietą. Prie prašymo leisti laikinai naudotis žemės sklypais nesuformuotu valstybinės žemės plotu asmuo prideda šios laisvos valstybinės žemės fondo žemės ploto su posūkio taškų koordinatėmis schemą, pasirašytą jos sudarytojo. Jei prašymą teikia asmuo, naudojęs šį laisvos valstybinės žemės fondo žemės plotą iki 2023 m. gruodžio 31 d. pagal Nacionalinės žemės tarnybos išduotą leidimą laikinai naudotis valstybine žeme žemės ūkio veiklai vykdyti, prie prašymo leisti laikinai naudotis žemės sklypais nesuformuotu valstybinės žemės plotu asmuo prideda iki 2023 m. gruodžio 31 d. galiojusio Nacionalinės žemės tarnybos įgalioto asmens patvirtinto įsakymo dėl leidimo laikinai naudotis šiuo plotu kopiją. Sutikimas laikinai naudotis žemės sklypais nesuformuotu valstybinės žemės plotu išduodamas per 10 darbo dienų nuo prašymo gavimo dienos ir per 2 darbo dienas nuo jo išdavimo dienos paskelbiamas sutikimą išdavusio valstybinės žemės patikėtinio interneto svetainėje kartu su suteiktos laikinai naudotis valstybinės žemės schema.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+4. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+5. Jeigu keli vienodą pirmumo teisę turintys asmenys pageidauja laikinai naudotis tuo pačiu laisvos valstybinės žemės fondo žemės plotu, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti, šis laisvos valstybinės žemės fondo žemės plotas suteikiamas laikinai naudotis tam asmeniui, kurio nuosavybės teise turimas ar iš valstybės nuomojamas žemės ūkio paskirties žemės sklypas ribojasi su pageidaujamu laikinai naudotis laisvos valstybinės žemės fondo žemės plotu. Jeigu tokių asmenų nėra arba jų yra keli, laisvos valstybinės žemės fondo žemės plotas, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti suteikiamas laikinai naudotis asmeniui, anksčiau pateikusiam prašymą pagal prašymo gavimo registracijos žymoje nurodytą datą.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+5. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+6. Ekologiniu, archeologiniu ir rekreaciniu požiūriu ypač vertingose teritorijose, esančiose valstybiniuose parkuose ir valstybiniuose draustiniuose, kurių ribas nustato Vyriausybė, taip pat Europos ekologinio tinklo „Natura 2000“ teritorijose esantys žemės sklypais nesuformuoti laisvos valstybinės žemės fondo žemės plotai, tinkami žemės ūkio veiklai vykdyti, suteikiami laikinai naudotis asmenims tik tokiai žemės ūkio veiklai, kuri neprieštarauja toje teritorijoje nustatytiems veiklos apribojimams, gavus pritarimą ir informaciją apie šiame žemės plote galimą žemės ūkio veiklą bei apribojimą ir draudžiamą ūkinę veiklą iš saugomų teritorijų direkcijos, vykdančios Saugomų teritorijų įstatymo 27 straipsnyje nustatytas funkcijas.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+6. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+7. Prie sutikimo laikinai naudotis žemės sklypais nesuformuotu laisvos valstybinės žemės plotu žemės ūkio veiklai vykdyti privalo būti pridedama laisvos valstybinės žemės fondo žemės ploto su posūkio taškų koordinatėmis schema, pasirašyta jos sudarytojo; ši schema yra neatskiriama šio sutikimo dalis.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+7. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+8. Mokestis už sutikimu suteiktą laikinai naudoti laisvos valstybinės žemės fondo žemės plotą, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti apskaičiuojamas ta pačia tvarka, kaip ir valstybinės žemės sklypų nuomos be aukciono mokestis.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+8. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+9. Valstybinės žemės naudotojai privalo naudoti laisvos valstybinės žemės fondo žemės plotą, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti laikydamiesi specialiųjų žemės naudojimo sąlygų ir kitų apribojimų, numatytų sutikime.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+9. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+10. Asmuo, kuriam suteikta teisė laikinai naudotis laisvos valstybinės žemės fondo žemės plotu, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti, šios teisės valstybinės žemės patikėtinio sprendimu netenka prieš terminą, jeigu:
+
+1) jis laisvos valstybinės žemės fondo žemės ploto pats nenaudoja arba jį naudoja ne žemės ūkio veiklai;
+
+2) jis nesilaiko sutikime nurodytų specialiųjų žemės naudojimo sąlygų ar kitų apribojimų;
+
+3) jis už naudojimąsi laisvos valstybinės žemės fondo žemės plotu, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti nemoka žemės nuomos mokesčio Vyriausybės nustatyta tvarka ir sąlygomis;
+
+4) priimamas valstybinės žemės patikėtinio sprendimas laisvos valstybinės žemės fondo žemės plote suformuoti žemės sklypus ir juos perleisti nuosavybėn, perduoti neatlygintinai naudotis ar išnuomoti;
+
+5) nustatoma, kad sutikimas priimtas pažeidžiant teisės aktų nuostatas.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+10. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+11. Sutikimas laikinai naudotis laisvos valstybinės žemės fondo žemės plotu, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti neišduodamas, jeigu valstybinės žemės patikėtinis priima sprendimą iki 2026 m. gruodžio 31 d. šį laisvos valstybinės žemės fondo žemės plotą pradėti naudoti kitoms reikmėms.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+11. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+12. Sutikimų laikinai naudotis laisvos valstybinės žemės fondo žemės plotu, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti sąlygų vykdymą prižiūri ir kontroliuoja juos išdavę valstybinės žemės patikėtiniai.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+12. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+13. Sutikimas laikinai naudotis laisvos valstybinės žemės fondo žemės plotu, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti, valstybinės žemės patikėtinio veiksmai (neveikimas), susiję su sutikimų laikinai naudotis laisvos valstybinės žemės fondo žemės plotu, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti išdavimu, ar atsisakymas išduoti sutikimą laikinai naudotis laisvos valstybinės žemės fondo žemės plotu, kuriame nesuformuoti žemės sklypai, žemės ūkio veiklai vykdyti gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Straipsnio dalies redakcija nuo 2027-01-01:
+
+13. Netenka galios.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+14. Perduotuose naudotis ar išnuomotuose valstybinės žemės sklypuose, valstybinės žemės plotuose, kuriuose nesuformuoti žemės sklypai, jų patikėtinių ir naudotojų lėšomis atliekami žemės sklypų formavimo (išskyrus šio įstatymo 22 straipsnio 2 dalies 8 punkte nustatytą atvejį), žemės tvarkymo darbai, būtini šiems žemės sklypams naudoti pagal teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytą pagrindinę žemės naudojimo paskirtį (kelių tiesimas, melioracijos sistemų rekonstrukcija ir kiti darbai).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1877, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07542
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
 
 14 straipsnis. Savivaldybėms nuosavybės teise priklausanti žemė
 
@@ -769,7 +899,11 @@ Nr. XIV-2340, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25320
 
 23 straipsnis. Pagrindinės žemės naudojimo paskirties ir būdo nustatymo ir keitimo tvarka
 
-1. Pagrindinė žemės sklypo naudojimo paskirtis ir būdas (-ai) Vyriausybės nustatyta tvarka nustatomi formuojant naujus žemės sklypus. Šiems žemės sklypams nustatyta pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas (-ai) keičiami žemės savininkų, valstybinės žemės patikėtinių ar įstatymų nustatytais atvejais kitų subjektų prašymu pagal detaliuosius planus, specialiojo teritorijų planavimo dokumentus ar žemės valdos projektus, o teritorijoje, kuriai detalieji planai ar žemės valdos projektai neparengti, – pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, o valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, – pagal karinės infrastruktūros projektą.
+1. Pagrindinė žemės sklypo naudojimo paskirtis ir būdas (-ai) Vyriausybės nustatyta tvarka nustatomi formuojant naujus žemės sklypus. Šiems žemės sklypams nustatyta pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas (-ai) keičiami žemės savininkų, valstybinės žemės patikėtinių ar įstatymų nustatytais atvejais kitų subjektų prašymu pagal detaliuosius planus, specialiojo teritorijų planavimo dokumentus ar žemės valdos projektus, o teritorijoje, kuriai detalieji planai ar žemės valdos projektai neparengti, – pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, – pagal karinės infrastruktūros projektą, o valstybinės žemės sklypo (-ų), reikalingo (-ų) stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinti, – pagal specialiosios paskirties projektą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
 
 2. Sprendimą pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima detalųjį planą ar vietovės lygmens bendrąjį planą, kuriame nustatomas detaliojo plano teritorijos naudojimo reglamentas, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą tvirtinanti institucija kartu su sprendimu patvirtinti vieną iš nurodytų dokumentų, o teritorijoje, kuriai detalieji planai ar vietovės lygmens bendrieji planai, kuriuose nustatomas detaliųjų planų teritorijos naudojimo reglamentas, neparengti ir (ar) nepradėti rengti, sprendimą pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, priima meras ar jo įgaliotas savivaldybės administracijos direktorius. Pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo tvarką ir sąlygas nustato Vyriausybė.
 
@@ -779,13 +913,23 @@ Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 3. Sprendimą pakeisti valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima Vyriausybė, tvirtindama karinės infrastruktūros projektą.
 
+31. Sprendimą pakeisti valstybinės žemės sklypo (-ų), reikalingo (-ų) stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinti, pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima Vyriausybė nutarimu, kuriuo tvirtinamas specialiosios paskirties projektas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
+
 4. Žemės ūkio paskirties žemėje įveisiant mišką, Vyriausybės nustatytais atvejais pagrindinė žemės naudojimo paskirtis nekeičiama arba keičiama pagal teritorijų planavimo dokumentus ar žemės valdos projektus.
 
 5. Institucija, priėmusi sprendimą pakeisti pagrindinę žemės naudojimo paskirtį, taip pat kai nekeičiant pagrindinės žemės naudojimo paskirties pagal teritorijų planavimo dokumentus ar žemės valdos projektus keičiamas žemės sklypo naudojimo būdas, perskaičiuoja žemės sklypo vertę ir žemės savininko ar valstybinės žemės patikėtinių prašymu patikslina Nekilnojamojo turto kadastro duomenis ir įrašus Nekilnojamojo turto registre.
 
 6. Žemės sklypo pagrindinė žemės naudojimo paskirtis ir būdas registruojami Nekilnojamojo turto registre, žemės sklypo kadastro duomenis įrašant į Nekilnojamojo turto kadastrą ir žemės sklypą registruojant Nekilnojamojo turto registre Nekilnojamojo turto kadastro įstatymo, Nekilnojamojo turto registro įstatymo ir jų įgyvendinamųjų teisės aktų nustatyta tvarka.
 
-7. Žemės sklypo naudojimo būdas nustatomas ir keičiamas pagal teritorijų planavimo dokumentus ar žemės valdos projektus. Valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, naudojimo būdas nustatomas pagal karinės infrastruktūros projektą. Žemės sklypams nustatomi šio įstatymo 24–28 straipsniuose nurodyti žemės naudojimo būdai. Žemės naudojimo būdų turinį nustato Vyriausybė arba jos įgaliotos institucijos.
+7. Žemės sklypo naudojimo būdas nustatomas ir keičiamas pagal teritorijų planavimo dokumentus ar žemės valdos projektus. Valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, naudojimo būdas nustatomas pagal karinės infrastruktūros projektą. Valstybinės žemės sklypo (-ų), reikalingo (-ų) stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinti, naudojimo būdas nustatomas ir (ar) keičiamas pagal specialiosios paskirties projektą. Žemės sklypams nustatomi šio įstatymo 24–28 straipsniuose nurodyti žemės naudojimo būdai. Žemės naudojimo būdų turinį nustato Vyriausybė arba jos įgaliotos institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
 
 8. Galimybė keisti nuomojamo valstybinės žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą valstybinės žemės nuomos sutartyje, kai valstybinė žemė išnuomojama pagal šio įstatymo 9 straipsnio 6 dalies 1 punktą, arba jos pakeitime gali būti nurodoma, kai pagal detalųjį planą ar specialiojo teritorijų planavimo dokumentą arba savivaldybės lygmens bendrąjį planą ar vietovės lygmens bendrąjį planą numatyta galimybė pakeisti išnuomoto valstybinės žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą kita paskirtimi ir (ar) būdu.
 
@@ -1033,7 +1177,11 @@ Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 3) nustato žemėtvarkos planavimo dokumentų ir jų rengimo procesų valstybinės priežiūros tvarką;
 
-4) tvirtina karinės infrastruktūros projektus;
+4) tvirtina karinės infrastruktūros ir specialiosios paskirties projektus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
 
 5) nustato žemės konsolidacijos projektų rengimo ir įgyvendinimo tvarką;
 
@@ -1067,7 +1215,11 @@ Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 6) organizuoja žemės reformos žemėtvarkos projektų rengimą, kontroliuoja planuojamų darbų, susijusių su žemės naudmenų būklės ir žemės naudojimo sąlygų pakeitimu, derinimą su žemėtvarkos planavimo dokumentų sprendiniais;
 
-7) tvirtina savivaldybės lygmens žemėtvarkos schemas, kaimo plėtros žemėtvarkos projektus ir žemės konsolidacijos projektus, vietovės lygmens žemėtvarkos schemas, žemės reformos žemėtvarkos projektus ir žemės paėmimo visuomenės poreikiams projektus, išskyrus karinės infrastruktūros projektus;
+7) tvirtina savivaldybės lygmens žemėtvarkos schemas, kaimo plėtros žemėtvarkos projektus ir žemės konsolidacijos projektus, vietovės lygmens žemėtvarkos schemas, žemės reformos žemėtvarkos projektus ir žemės paėmimo visuomenės poreikiams projektus, išskyrus karinės infrastruktūros ir specialiosios paskirties projektus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
 
 8) organizuoja žemės paėmimo visuomenės poreikiams projektų rengimą, nagrinėja prašymus paimti žemę visuomenės poreikiams ir priima sprendimus paimti žemę visuomenės poreikiams;
 
@@ -1117,7 +1269,21 @@ Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 4) sprendžia žemės sklypų pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo klausimus;
 
-5) atlieka kitų įstatymų jam nustatytas funkcijas.
+5) išduoda sutikimus laikinai naudotis žemės ūkio veiklai vykdyti žemės sklypais nesuformuotais laisvos valstybinės žemės fondo žemės plotais, patikėjimo teise valdomais savivaldybių;
+
+Straipsnio dalies punkto redakcija nuo 2027-01-01:
+
+5) Netenka galios.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+6) atlieka kitų įstatymų jam nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
 
 Straipsnio dalies pakeitimai:
 
@@ -1243,11 +1409,17 @@ VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ VEIKLOS KONTROLĖ
 
 4) žemės konsolidacijos projektus;
 
-5) karinės infrastruktūros projektus.
+5) karinės infrastruktūros projektus;
 
 Papildyta straipsnio punktu:
 
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
+
+6) specialiosios paskirties projektus.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
 
 4. Žemėtvarkos schemos rengiamos pagal kaimo gyvenamųjų vietovių žemės naudmenų tvarkymo bendrąsias gaires ir prioritetus šio įstatymo 38 straipsnyje nustatyta tvarka.
 
@@ -1276,6 +1448,12 @@ Nr. XIV-2114, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14307
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
+
+111. Specialiosios paskirties projektai rengiami aplinkos ministro ir ekonomikos ir inovacijų ministro nustatyta tvarka. Rengiant specialiosios paskirties projektus teritorijų planavimo dokumentų sprendiniai taikomi tiek, kiek jie neprieštarauja šių rengiamų specialiosios paskirties projektų sprendiniams. Specialiosios paskirties projektų rengimą inicijuoja Ekonomikos ir inovacijų ministerija, o organizuoja stambų projektą, Vyriausybės nutarimu pripažintą užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinantis subjektas. Specialiosios paskirties projektai tvirtinami Vyriausybės nutarimu. Rengiant, keičiant ar koreguojant savivaldybės lygmens bendrąjį planą, Vyriausybės nutarimu patvirtintų specialiosios paskirties projektų sprendiniai integruojami į tos savivaldybės bendrojo plano sprendinius.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
 
 12. Su žemės valdos projektų rengimu ir įgyvendinimu susiję veiksmai atliekami automatizuotai per Žemėtvarkos planavimo dokumentų rengimo informacinę sistemą. Žemėtvarkos planavimo dokumentų rengimo informacinės sistemos paskirtis, organizacinė, informacinė ir funkcinė struktūra, kaupiamų duomenų šaltiniai nustatomi aplinkos ministro tvirtinamuose Žemėtvarkos planavimo dokumentų rengimo informacinės sistemos nuostatuose.
 
@@ -1505,11 +1683,13 @@ Nr. XIV-2340, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25320
 
 1) asmenys, rengiantys žemėtvarkos schemas, privalo turėti aukštąjį žemėtvarkos, geografijos ar kraštotvarkos išsilavinimą, ne mažesnę kaip 5 metų darbo patirtį žemėtvarkos schemų, kaimo plėtros žemėtvarkos projektų arba žemės valdos projektų rengimo srityje, skaičiuojant nuo to laiko, kai pradėjo dirbti šios srities darbus, ir būti išlaikę profesinių žinių, susijusių su žemėtvarkos planavimo dokumentų rengimu, patikrinimo testą;
 
-2) asmenys, rengiantys kaimo plėtros žemėtvarkos projektus, žemės sklypų formavimo ir pertvarkymo projektus, žemės paėmimo visuomenės poreikiams projektus, žemės konsolidacijos projektus, karinės infrastruktūros projektus, privalo turėti aukštąjį žemėtvarkos, kraštotvarkos, geodezijos ar hidrotechnikos išsilavinimą, ne mažesnę kaip 3 metų darbo patirtį žemėtvarkos schemų, kaimo plėtros žemėtvarkos projektų arba žemės valdos projektų rengimo srityje, skaičiuojant nuo to laiko, kai pradėjo dirbti šios srities darbus, ir būti išlaikę profesinių žinių, susijusių su žemėtvarkos planavimo dokumentų rengimu, patikrinimo testą.
+2) asmenys, rengiantys kaimo plėtros žemėtvarkos projektus, žemės sklypų formavimo ir pertvarkymo projektus, žemės paėmimo visuomenės poreikiams projektus, žemės konsolidacijos projektus, karinės infrastruktūros projektus, specialiosios paskirties projektus privalo turėti aukštąjį žemėtvarkos, kraštotvarkos, geodezijos ar hidrotechnikos išsilavinimą, ne mažesnę kaip 3 metų darbo patirtį žemėtvarkos schemų, kaimo plėtros žemėtvarkos projektų arba žemės valdos projektų rengimo srityje, skaičiuojant nuo dienos, kai pradėjo dirbti šios srities darbus, ir būti išlaikę profesinių žinių, susijusių su žemėtvarkos planavimo dokumentų rengimu, patikrinimo testą. Specialiosios paskirties projektus gali rengti tik asmenys, turintys kvalifikacijos pažymėjimus rengti karinės infrastruktūros projektus.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
 
 4. Profesinių žinių, susijusių su žemėtvarkos planavimo dokumentų rengimu, patikrinimo testas organizuojamas Vyriausybės nustatyta tvarka.
 
@@ -1596,6 +1776,12 @@ Nr. XIV-1877, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07542
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
+
+7. Specialiosios paskirties projekto rengimas finansuojamas iš stambų projektą, Vyriausybės nutarimu pripažintą užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinančio subjekto lėšų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
 
 43 straipsnis. Valstybinė žemėtvarkos planavimo dokumentų ir jų rengimo procesų priežiūra
 
@@ -2944,4 +3130,28 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2391, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25903
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 22 straipsnio pakeitimo įstatymas
+
+41.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2424, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25647
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 10 straipsnio pakeitimo įstatymas
+
+42.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2556, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07454
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 13 ir 32 straipsnių pakeitimo įstatymas
+
+43.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 23, 32, 37, 41 ir 42 straipsnių pakeitimo įstatymas
 
