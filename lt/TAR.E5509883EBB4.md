@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2024-01-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
 
@@ -1456,21 +1456,17 @@ Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
 
 2) duoti privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su nelegalią nuotolinių lošimų veiklą Lietuvos Respublikoje vykdančiu subjektu, įskaitant atsiskaitymus už dalyvavimą nelegalios lošimų veiklos vykdytojų organizuojamuose nuotoliniuose lošimuose, laimėjimų išmokėjimus, statomų sumų priėmimus nelegaliai lošimus organizuojančio subjekto naudai;
 
-3) duoti privalomus nurodymus informacijos prieglobos paslaugų teikėjui ir (ar) tinklo paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo saugomą informaciją, kuri naudojama siekiant nelegaliai vykdyti nuotolinius lošimus, arba panaikinti galimybę šią informaciją pasiekti;
+3) Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoti privalomus nurodymus pašalinti informaciją, kuri naudojama siekiant nelegaliai vykdyti nuotolinius lošimus, arba panaikinti galimybę šią informaciją pasiekti.
 
-4) duoti privalomus nurodymus tinklo paslaugų teikėjui panaikinti galimybę pasiekti informaciją, kuri naudojama siekiant nelegaliai vykdyti lošimus.
-
-2. Priežiūros tarnyba, siekdama atlikti šio straipsnio 1 dalyje nurodytus veiksmus, privalo pateikti prašymą išduoti leidimą atlikti veiksmus pirmosios instancijos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodyta įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 dienas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Priežiūros tarnyba nesutinka su teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus ne vėliau kaip per 7 dienas nuo Priežiūros tarnybos skundo priėmimo dienos. Priežiūros tarnybos atstovas turi teisę dalyvauti, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1580, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25130
+2. Priežiūros tarnyba, siekdama atlikti šio straipsnio 1 dalies 1 ir 2 punktuose nurodytus veiksmus, privalo pateikti prašymą išduoti leidimą atlikti veiksmus pirmosios instancijos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodyta įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Pirmosios instancijos administracinis teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 dienas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Priežiūros tarnyba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus ne vėliau kaip per 7 dienas nuo Priežiūros tarnybos skundo priėmimo dienos. Priežiūros tarnybos atstovas turi teisę dalyvauti, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
 
 3. Priežiūros tarnyba informaciją apie nustatytus nelegalios lošimų veiklos vykdytojus, kurie Lietuvos Respublikoje neteisėtai organizuoja nuotolinius lošimus, skelbia viešai ir praneša, kad nurodyta nuotolinio lošimo paslaugų teikimo veikla yra vykdoma nelegaliai.
 
 4. Atsiskaitymų už dalyvavimą nelegalios lošimų veiklos vykdytojų organizuojamuose nuotoliniuose lošimuose ir laimėjimų išmokėjimo per Lietuvos Respublikoje veikiančius bankus ar kitas finansų įstaigas ribojimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
-5. Galimybių pasiekti informaciją, kuri naudojama siekiant vykdyti nelegalią nuotolinių lošimų veiklą, panaikinimo užtikrinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+Straipsnio pakeitimai:
+
+Nr. XIV-2142, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14038
 
 208 straipsnis. Mažiausia pinigų suma nuotolinių lošimų laimėjimams išmokėti
 
