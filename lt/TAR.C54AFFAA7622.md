@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2024-01-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-20
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -446,7 +446,11 @@ Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
 
 8. Neatsižvelgdama į tai, kad numatoma pirkimo vertė yra lygi tarptautinio pirkimo vertės ribai arba ją viršija, perkančioji organizacija turi teisę šio įstatymo nustatyta tvarka atlikti supaprastintus pirkimus atskiroms pirkimo dalims, kurių kiekvienos vertė yra mažesnė kaip 80 000 Eur (aštuoniasdešimt tūkstančių eurų) (be pridėtinės vertės mokesčio) perkant to paties tipo prekes ar paslaugas, o perkant darbus – mažesnė kaip 1 000 000 Eur (vienas milijonas eurų) (be pridėtinės vertės mokesčio), jeigu bendra tokių pirkimo dalių vertė yra ne didesnė kaip 20 procentų bendros visų pirkimo dalių vertės.
 
-9. Neatsižvelgdama į tai, kad numatoma pirkimo vertė yra lygi mažos vertės pirkimo ribai arba ją viršija, perkančioji organizacija turi teisę šio įstatymo nustatyta tvarka atlikti mažos vertės pirkimą atskiroms pirkimo dalims, kurių bendra vertė yra mažesnė kaip 58 000 Eur (penkiasdešimt aštuoni tūkstančiai eurų) (be pridėtinės vertės mokesčio) to paties tipo prekių ar paslaugų sutarčių vertės, o perkant darbus – mažesnė kaip 145 000 Eur (šimtas keturiasdešimt penki tūkstančiai eurų) (be pridėtinės vertės mokesčio).
+9. Neatsižvelgdama į tai, kad numatoma pirkimo vertė yra lygi mažos vertės pirkimo ribai arba ją viršija, perkančioji organizacija turi teisę šio įstatymo nustatyta tvarka atlikti mažos vertės pirkimą atskiroms pirkimo dalims, kurių bendra vertė yra mažesnė kaip 70 000 Eur (septyniasdešimt tūkstančių eurų) (be pridėtinės vertės mokesčio) to paties tipo prekių ar paslaugų sutarčių vertės, o perkant darbus – mažesnė kaip 174 000 Eur (vienas šimtas septyniasdešimt keturi tūkstančiai eurų) (be pridėtinės vertės mokesčio).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2532, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07265
 
 10. Jeigu numatoma pirkimo vertė yra lygi tarptautinio pirkimo vertės ribai arba ją viršija ir perkančioji organizacija pasinaudoja šio straipsnio 8 ir 9 dalyse nustatytomis teisėmis, turi būti užtikrinama, kad bendra pagal šio straipsnio 8 ir 9 dalis atliekamo pirkimo dalių vertė būtų ne didesnė kaip 20 procentų bendros visų pirkimo dalių vertės.
 
@@ -1502,6 +1506,16 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
+11. Šio straipsnio 9 dalis gali būti netaikoma, kai įsigyjamos prekės bus skirtos naudoti mokslinių tyrimų, eksperimentų, studijų ar eksperimentinės plėtros tikslais arba paramai užsienio valstybėms teikti.
+
+Straipsnio dalies redakcija nuo 2025-05-01:
+
+11. Netenka galios nuo 2025-05-01.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2531, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07264
+
 38 straipsnis. Ženklinimas
 
 1. Kai perkamos specialiomis aplinkos apsaugos, socialinėmis ar kitomis ypatybėmis pasižyminčios prekės, paslaugos ar darbai, perkančioji organizacija, rengdama technines specifikacijas, nustatydama pasiūlymų vertinimo kriterijus ar pirkimo sutarties vykdymo sąlygas, gali reikalauti naudoti specialų ženklą kaip įrodymą, kad prekės, paslaugos ar darbai atitinka nustatytus reikalavimus, jeigu tenkinamos visos šios sąlygos:
@@ -1887,6 +1901,16 @@ Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+
+11. Šio straipsnio 9 dalis gali būti netaikoma, kai įsigyjamos prekės bus skirtos naudoti mokslinių tyrimų, eksperimentų, studijų ar eksperimentinės plėtros tikslais arba paramai užsienio valstybėms teikti.
+
+Straipsnio dalies redakcija nuo 2025-05-01:
+
+11. Netenka galios nuo 2025-05-01.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2531, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07264
 
 10. Jeigu tiekėjas, jo subtiekėjas, ūkio subjektai, kurių pajėgumais remiamasi, ar juos kontroliuojantys asmenys yra nacionaliniam saugumui užtikrinti svarbi įmonė, valstybės įmonė, savivaldybės įmonė, taip pat valstybės valdoma bendrovė ir jų dukterinės bendrovės, išvardytos Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, šiems subjektams šio įstatymo 47 straipsnio 9 dalis netaikoma.
 
@@ -3194,7 +3218,7 @@ Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 6. Preliminarioji sutartis negali būti sudaryta ilgesniam kaip 4 metų laikotarpiui, išskyrus pagrįstus, su pirkimo objektu susijusius atvejus, kurie nurodomi skelbime apie pirkimą arba kvietime patvirtinti susidomėjimą. Pirkimo sutartis preliminariosios sutarties pagrindu gali būti sudaryta ne vėliau kaip iki preliminariosios sutarties galiojimo termino pabaigos, tačiau pati pirkimo sutartis gali galioti ir ilgiau.
 
-7. Pirkimo sutartis žodžiu gali būti sudaroma tik tada, kai supaprastinto pirkimo sutarties vertė neviršija 10 000 Eur (dešimt tūkstančių eurų) (be pridėtinės vertės mokesčio). Šio įstatymo 25 straipsnio 3 ir 4 dalyse nurodytuose aprašuose nustatytais atvejais, taip pat prekių ir paslaugų, skirtų moksliniams tyrimams ir (ar) eksperimentinei veiklai, pirkimo atvejais pirkimo sutartis žodžiu gali būti sudaroma, kai supaprastinto pirkimo sutarties vertė neviršija 15 000 Eur (penkiolikos tūkstančių eurų) (be pridėtinės vertės mokesčio).
+7. Pirkimo sutartis žodžiu gali būti sudaroma tik tada, kai supaprastinto pirkimo sutarties vertė neviršija 15 000 Eur (penkiolikos tūkstančių eurų) (be pridėtinės vertės mokesčio).
 
 Straipsnio dalies pakeitimai:
 
@@ -3203,6 +3227,8 @@ Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
+
+Nr. XIV-2532, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07265
 
 8. Pirkimo sutartis ar preliminarioji sutartis turi būti sudaroma nedelsiant, bet ne anksčiau, negu pasibaigė atidėjimo terminas, kuris negali būti trumpesnis kaip 10 dienų (supaprastintų pirkimų atveju – ne trumpesnis kaip 5 darbo dienos), o jeigu pranešimas apie sprendimą nustatyti laimėjusį pirkimo pasiūlymą nebuvo siunčiamas elektroninėmis priemonėmis, negali būti trumpesnis kaip 15 dienų. Atidėjimo terminas gali būti netaikomas, kai:
 
