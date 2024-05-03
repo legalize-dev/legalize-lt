@@ -4,7 +4,7 @@ identifier: "TAR.D267FBDC094B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-06-25"
-last_updated: "2022-07-01"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2024-05-02
+Suvestinė redakcija nuo 2024-05-03 iki 2026-04-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
 
@@ -81,8 +81,6 @@ Mokesčio bazė yra žemės mokestinė vertė.
 
 2. Savivaldybės taryba, siekdama, kad naujas konkretus mokesčio tarifas galiotų šios savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, naują konkretų mokesčio tarifą turi nustatyti iki einamojo mokestinio laikotarpio liepos 1 dienos, neviršydama šio straipsnio 1 dalyje nustatytų ribų, jeigu šiame straipsnyje nenustatyta kitaip. Jeigu, vadovaujantis šio įstatymo 10 straipsnio 4 dalimi, nuo kito mokestinio laikotarpio žemės mokestinė vertė nustatoma atsižvelgiant į naujai atlikto masinio žemės vertinimo rezultatus, kitą mokestinį laikotarpį galiosiantį naują konkretų mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Jeigu savivaldybės taryba per šioje dalyje nurodytus terminus nenustato naujų konkrečių mokesčio tarifų, kitą mokestinį laikotarpį galioja paskutiniai nustatyti konkretūs mokesčio tarifai.
 
-TAR pastaba. 6 straipsnio 2 ir 4 dalių nuostatos taikomos nustatant 2021 metų ir vėlesnių mokestinių laikotarpių žemės mokesčio tarifus.
-
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2245, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10376
@@ -107,8 +105,6 @@ Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
 
 4. Jeigu savivaldybės taryba kito mokestinio laikotarpio konkrečius mokesčio tarifus nustato arba pakeičia po šio straipsnio 2 dalyje nurodytų terminų, nustatyti (pakeisti) konkretūs mokesčio tarifai savivaldybės teritorijoje taikomi dar kitą mokestinį laikotarpį po ateinančio mokestinio laikotarpio.
 
-TAR pastaba. 6 straipsnio 2 ir 4 dalių nuostatos taikomos nustatant 2021 metų ir vėlesnių mokestinių laikotarpių žemės mokesčio tarifus.
-
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2245, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10376
@@ -121,9 +117,7 @@ Mokesčio mokestinis laikotarpis sutampa su kalendoriniais metais.
 
 1. Mokesčio nemoka:
 
-1) užsienio valstybių diplomatinės atstovybės ir konsulinės įstaigos, pagal tarptautinę teisę specialų statusą turinčių subjektų ar kitų subjektų, su kuriais Lietuvos Respublikos tarptautinis bendradarbiavimas atitinka Lietuvos Respublikos Seimo priimtuose teisės aktuose nustatytus užsienio politikos ir nacionalinio saugumo tikslus, atstovybės, akredituotos Vyriausybės nustatyta tvarka, tarptautinės tarpvyriausybinės organizacijos ir jų atstovybės;
-
-TAR pastaba. 8 straipsnio 1 dalies 1 punkto nuostatos taikomos nuo 2022-07-01.
+1) užsienio valstybių diplomatinės atstovybės ir konsulinės įstaigos, pagal tarptautinę teisę specialų statusą turinčių subjektų ar kitų subjektų, su kuriais Lietuvos Respublikos tarptautinis bendradarbiavimas atitinka Lietuvos Respublikos Seimo priimtuose teisės aktuose nustatytus užsienio politikos ir nacionalinio saugumo tikslus, atstovybės, akredituotos Vyriausybės nustatyta tvarka, tarptautinės tarpvyriausybinės organizacijos ir jų atstovybės;.
 
 Straipsnio punkto pakeitimai:
 
@@ -145,11 +139,13 @@ Nr. XII-1133, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13466
 
 2) mėgėjiško sodo teritorijoje esanti bendrojo naudojimo žemė;
 
-3) fiziniams asmenims, kurių šeimose mokestinio laikotarpio pradžioje nėra darbingų asmenų ir kuriems nustatytas 0–40 procentų darbingumo lygis arba kurie yra sukakę senatvės pensijos amžių ar yra nepilnamečiai, priklausančio žemės sklypo plotas, neviršijantis savivaldybių tarybų iki einamojo mokestinio laikotarpio rugsėjo 1 dienos nustatyto neapmokestinamojo žemės sklypo dydžio. Fiziniam asmeniui nuosavybės teise priklausantys keli žemės sklypai, esantys tos pačios savivaldybės teritorijos vietovėse (vietovėje), kurioms (kuriai) nustatytas vienodas neapmokestinamasis žemės sklypo dydis, šiuo atveju laikomi vienu žemės sklypu. Jeigu fizinis asmuo turi teisę į mokesčio lengvatą ir turi ne vieną žemės sklypą, taikoma didžiausia lengvata vienam žemės sklypui. Taikant šią nuostatą, šeima laikomi sutuoktiniai, asmenys, vieni auginantys vaikus (įvaikius), ir su jais gyvenantys jų vaikai (įvaikiai, posūniai, podukros), iki jiems sukaks 18 metų, o prie darbingų asmenų nepriskiriami mokyklų mokiniai ir aukštųjų mokyklų studentai, studijuojantys pagal dieninės ir nuolatinės studijų formų programas;
+3) fiziniams asmenims, kurių šeimose mokestinio laikotarpio pradžioje nėra darbingų asmenų ir kuriems nustatytas 0–40 procentų dalyvumo lygis arba kurie yra sukakę senatvės pensijos amžių ar yra nepilnamečiai, priklausančio žemės sklypo plotas, neviršijantis savivaldybių tarybų iki einamojo mokestinio laikotarpio rugsėjo 1 dienos nustatyto neapmokestinamojo žemės sklypo dydžio. Fiziniam asmeniui nuosavybės teise priklausantys keli žemės sklypai, esantys tos pačios savivaldybės teritorijos vietovėse (vietovėje), kurioms (kuriai) nustatytas vienodas neapmokestinamasis žemės sklypo dydis, šiuo atveju laikomi vienu žemės sklypu. Jeigu fizinis asmuo turi teisę į mokesčio lengvatą ir turi ne vieną žemės sklypą, taikoma didžiausia lengvata vienam žemės sklypui. Taikant šią nuostatą, šeima laikomi sutuoktiniai, asmenys, vieni auginantys vaikus (įvaikius), ir su jais gyvenantys jų vaikai (įvaikiai, posūniai, podukros), iki jiems sukaks 18 metų, o prie darbingų asmenų nepriskiriami mokyklų mokiniai ir aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės ir ištęstinės studijų formų programas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1578, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05692
+
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
 
 4) valstybinių parkų, kraštovaizdžio, kultūrinių, geologinių, geomorfologinių, botaninių, zoologinių, botaninių-zoologinių, hidrografinių ir pedologinių draustinių teritorijų ir jų apsaugos zonų žemė, išskyrus minėtose teritorijose esančias žemės ūkio naudmenas, taip pat užstatytų teritorijų, kelių ir vandenų užimtą žemę;
 
@@ -178,8 +174,6 @@ Papildyta straipsnio punktu:
 Nr. XII-2159, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19857
 
 11) žemė, patenkanti į Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytas teritorijas, nustatytas tenkinant viešąjį interesą Specialiųjų žemės naudojimo sąlygų įstatyme nurodytais atvejais, kai dėl specialiųjų žemės naudojimo sąlygų taikymo šiose teritorijose žemės savininkas netenka galimybės naudoti žemės sklypą pagal nustatytą pagrindinę žemės naudojimo paskirtį ir (ar) žemės sklypo naudojimo būdą (būdus). Ši nuostata netaikoma, jeigu, pakeitus nustatytą pagrindinę žemės naudojimo paskirtį ir (ar) žemės sklypo naudojimo būdą, žemės savininkas galėtų naudoti žemės sklypą pagal iš naujo nustatytą pagrindinę žemės naudojimo paskirtį ir (ar) žemės sklypo naudojimo būdą.
-
-TAR pastaba. 8 straipsnio 2 dalies 11 punkto nuostatos taikomos apskaičiuojant 2020 metų ir vėlesnių mokestinių laikotarpių žemės mokestį.
 
 Papildyta straipsnio punktu:
 
@@ -402,4 +396,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-996, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07162
 
 Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
+
+Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 2, 6, 8, 9, 10, 11 ir 13 straipsnių pakeitimo įstatymas
 
