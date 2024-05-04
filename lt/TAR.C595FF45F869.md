@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2024-01-01"
+last_updated: "2024-05-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-05-03
+Suvestinė redakcija nuo 2024-05-04 iki 2024-06-13
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -43,15 +43,27 @@ BENDROSIOS NUOSTATOS
 
 5 straipsnis. Nepriekaištinga reputacija
 
-Nepriekaištingos reputacijos laikomas asmuo, kuris atitinka šiuos kriterijus:
+Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
-1) jo elgesys atitinka akademinės etikos vertybes – akademinio sąžiningumo, intelektinės nuosavybės apsaugos principus;
+1) savo elgesiu ir (ar) veikla yra pažeidęs akademinę etiką ir po tokio pažeidimo nustatymo nėra praėję 10 metų;
 
-2) nėra įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikalstamą veiką;
+2) įstatymų nustatyta tvarka buvo pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 11 metų arba buvo pripažintas kaltu dėl sunkaus nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 9 metai, arba pripažintas kaltu dėl apysunkio nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 5 metai, arba pripažintas kaltu dėl nesunkaus nusikaltimo padarymo ir nuo bausmės atlikimo nepraėjo 4 metai;
 
-3) nebuvo atleistas iš tarnybos ar darbo už drausmės pažeidimus;
+3) įstatymų nustatyta tvarka pripažintas kaltu dėl baudžiamojo nusižengimo padarymo ir nuo bausmės atlikimo nepraėjo 4 metai;
 
-4) nepiktnaudžiauja alkoholiu, nevartoja narkotikų, psichotropinių ar toksinių medžiagų.
+4) įstatymų nustatyta tvarka atleistas nuo baudžiamosios atsakomybės už labai sunkaus nusikaltimo padarymą ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 5 metai arba atleistas nuo baudžiamosios atsakomybės už sunkaus nusikaltimo padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 4 metai, arba buvo atleistas nuo baudžiamosios atsakomybės už apysunkio nusikaltimo padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą arba dėl nusikaltimo mažareikšmiškumo) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai ar nėra pasibaigęs laidavimo terminas;
+
+5) buvo atleistas iš darbo, pareigų ar yra praradęs teisę verstis tam tikra veikla už kituose įstatymuose keliamo nepriekaištingos reputacijos reikalavimo neatitiktį ar elgesio (etikos) normų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla praradimo dienos nepraėjo 4 metai;
+
+6) buvo atleistas arba pašalintas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo ir nuo atleidimo arba pašalinimo iš pareigų dienos nepraėjo 4 metai;
+
+7) yra ar buvo įstatymų nustatyta tvarka uždraustos organizacijos narys, jeigu nuo narystės pabaigos nepraėjo 4 metai;
+
+8) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 II SKYRIUS
 
@@ -105,11 +117,13 @@ Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
 
 8. Lietuvos mokslo taryba, atlikdama jai pavestas funkcijas, privalo imtis visų priemonių, kuriomis būtų užtikrintas mokslinės veiklos etikos principų laikymasis.
 
-9. Lietuvos mokslo tarybos valdybos nariams ir ekspertų komitetų nariams už jų darbą apmokama Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
+9. Lietuvos mokslo tarybos valdybos nariams ir ekspertų komitetų nariams už jų darbą apmokama Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 Straipsnio pakeitimai:
 
@@ -625,33 +639,35 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 1. Šio įstatymo 77 straipsnyje nustatyta tvarka valstybės biudžeto lėšomis gali būti finansuojama tik viena studijų vieta, jeigu:
 
-1) asmenys vienu metu studijuoja pagal dvi ar daugiau tos pačios pakopos studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis;
+1) asmenys vienu metu studijuoja pagal dvi ar daugiau tos pačios pakopos studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis; jeigu asmuo vienu metu studijuoja pagal pirmosios pakopos ir vientisųjų studijų programas, valstybės biudžeto lėšomis gali būti finansuojama tik viena jo pasirinktos studijų programos studijų vieta; jeigu asmuo vienu metu studijuoja pagal vientisųjų studijų ir antrosios pakopos studijų programas, valstybės biudžeto lėšomis gali būti finansuojama tik viena jo pasirinktos studijų programos studijų vieta;
 
 2) asmenys vienu metu studijuoja dviejose ar daugiau doktorantūrose ir bent viena jų finansuojama valstybės biudžeto lėšomis;
 
-3) asmenys vienu metu studijuoja pagal dvi ar daugiau profesinių studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis.
+3) asmenys vienu metu studijuoja pagal dvi ar daugiau profesinių studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis;
+
+4) asmenys vienu metu studijuoja pagal dvi ar daugiau trumposios pakopos studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis.
 
 2. Teisės šio įstatymo 77 ir 79 straipsniuose nustatyta tvarka į valstybės finansuojamą studijų vietą ar į studijų kainos kompensavimą neturi:
 
-1) asmenys, pakartotinai studijuojantys pagal tos pačios arba žemesnės pakopos studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis;
+1) asmenys, pakartotinai studijuojantys pagal tos pačios pakopos studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis; jeigu asmuo baigė vientisųjų studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą pirmosios pakopos studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; jeigu asmuo baigė pirmosios pakopos studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą vientisųjų studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; jeigu asmuo baigė antrosios pakopos studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą vientisųjų studijų vietą ir studijų kainos kompensavimą asmuo nebeturi;
 
 2) asmenys, pakartotinai studijuojantys doktorantūroje, jeigu daugiau kaip pusę doktorantūros trukmės jie buvo studijavę valstybės biudžeto lėšomis;
 
 3) asmenys, pakartotinai studijuojantys pagal profesinių studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis;
 
-4) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
+4) asmenys, pakartotinai studijuojantys pagal trumposios pakopos studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
-
-Nr. XIII-2057, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06693
+5) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat arba laikinai gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, taip pat išskyrus kitus užsieniečius ir asmenis be pilietybės, turinčius teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, įgijusius vidurinį išsilavinimą pagal Lietuvos vidurinio ugdymo programą, studijuojančius pagal trumposios, pirmosios pakopų ar vientisųjų studijų programą, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose įstatymuose nenustatyta kitaip.
 
 3. Už studijas kainą, proporcingą dalyko (modulio) apimčiai, moka:
 
 1) asmenys, studijuojantys atskirus dalykus ar modulius;
 
 2) asmenys, kartojantys studijų programos atskirus dalykus.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 81 straipsnis. Valstybės paskolos ir valstybės remiamos paskolos
 
@@ -665,7 +681,11 @@ Nr. XIII-2057, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06693
 
 2. Valstybės paskoloms arba valstybės remiamoms paskoloms teikti ir jų administravimo išlaidoms padengti gali būti naudojami Valstybiniam studijų fondui šiam tikslui skirti valstybės biudžeto asignavimai, lėšos, sukauptos iš grąžinamų paskolų, palūkanų ir delspinigių, paramos, taip pat privačių ūkio subjektų ir kitos lėšos. Valstybės paskolų arba valstybės remiamų paskolų studentams suteikimo, administravimo ir grąžinimo tvarką nustato Vyriausybė.
 
-3. Valstybės remiamų paskolų limitas nustatomas Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme.
+3. Valstybės remiamų paskolų limitas nustatomas Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 82 straipsnis. Stipendijos ir kita parama studentams
 
@@ -803,7 +823,11 @@ Nr. XIII-3144, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14365
 
 4. Valstybinėms aukštosioms mokykloms draudžiama jų nuosavybės teise valdomu turtu užtikrinti trečiųjų asmenų prievoles.
 
-5. Valstybinės aukštosios mokyklos turi teisę skolintis, tai yra pasirašyti paskolų sutartis, finansinės nuomos sutartis ir kitus įsipareigojamuosius skolos dokumentus, laikydamosi Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatyto bendro valstybinėms aukštosioms mokykloms skolinimosi limito. Švietimo ir mokslo ministerija paskirsto šį skolinimosi limitą valstybinėms aukštosioms mokykloms. Valstybinės aukštosios mokyklos už prisiimtus skolinius įsipareigojimus atsiskaito Švietimo ir mokslo ministerijai švietimo ir mokslo ministro nustatyta tvarka. Valstybinė aukštoji mokykla negali įkeisti daugiau kaip 20 procentų nuosavybės teise valdomo materialiojo turto, kad užtikrintų skolinių įsipareigojimų laikymąsi. Nekilnojamojo turto įkeitimo sandoriams turi būti gautas Vyriausybės arba jos įgaliotos institucijos sutikimas Vyriausybės nustatyta tvarka.
+5. Valstybinės aukštosios mokyklos turi teisę skolintis, tai yra pasirašyti paskolų sutartis, finansinės nuomos sutartis ir kitus įsipareigojamuosius skolos dokumentus, laikydamosi Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatyto bendro valstybinėms aukštosioms mokykloms skolinimosi limito. Švietimo, mokslo ir sporto ministerija paskirsto šį skolinimosi limitą valstybinėms aukštosioms mokykloms. Valstybinės aukštosios mokyklos už prisiimtus skolinius įsipareigojimus atsiskaito Švietimo, mokslo ir sporto ministerijai švietimo, mokslo ir sporto ministro nustatyta tvarka. Valstybinė aukštoji mokykla negali įkeisti daugiau kaip 20 procentų nuosavybės teise valdomo materialiojo turto, kad užtikrintų skolinių įsipareigojimų laikymąsi. Nekilnojamojo turto įkeitimo sandoriams turi būti gautas Vyriausybės arba jos įgaliotos institucijos sutikimas Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -1387,6 +1411,14 @@ Nr. XIV-2309, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24176
 
 Lietuvos Respublikos dėl Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 8 ir 16 straipsnių pakeitimo įstatymas
 
+66.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 5, 15, 17, 22, 42, 43, 44, 51, 53, 72-1, 75-3, 76-2, 80, 81, 82-1, 90 straipsnių pakeitimo ir Įstatymo papildymo 24-2 straipsniu įstatymas
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -1839,45 +1871,53 @@ Nr. XIV-738, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25851
 
 17 straipsnis. Akademinės etikos ir procedūrų kontrolierius
 
-1. Akademinės etikos ir procedūrų kontrolierius (toliau – kontrolierius) yra valstybės pareigūnas, nagrinėjantis skundus ir savo iniciatyva atliekantis tyrimus dėl galimų akademinės etikos ir su akademinės etikos nuostatų įgyvendinimu  susijusių procedūrų pažeidimų (toliau šiame straipsnyje – tyrimas).
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
-
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
+1. Akademinės etikos ir procedūrų kontrolierius (toliau – kontrolierius) yra valstybės pareigūnas, nagrinėjantis skundus ir savo iniciatyva atliekantis tyrimus dėl galimų akademinės etikos ir su akademinės etikos nuostatų įgyvendinimu susijusių procedūrų pažeidimų (toliau šiame straipsnyje – tyrimas).
 
 2. Kontrolierių 5 metų kadencijai skiria Seimas Lietuvos mokslo tarybos teikimu. Tas pats asmuo kontrolieriumi negali būti skiriamas daugiau kaip dvi kadencijas iš eilės.
 
-3. Kontrolieriaus įgaliojimai nutrūksta, kai:
+3. Lietuvos mokslo taryba kontrolieriaus kandidatūrą Seimui pateikia ne vėliau kaip prieš 3 mėnesius iki kontrolieriaus kadencijos pabaigos.
+
+4. Kontrolieriaus įgaliojimai nutrūksta, kai:
 
 1) pasibaigia jo įgaliojimų laikas;
 
-2) jis atsistatydina, apie tai raštu įspėjęs Seimo Pirmininką ne vėliau kaip prieš 14 darbo dienų;
+2) jis Seimo ar Seimo pritarimu paskiriamas į kitas pareigas;
 
-3) kontrolierius miršta;
+3) kontrolierius miršta.
 
-4) jis nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jeigu įstatymuose nenustatyta, kad dėl tam tikros ligos pareigos paliekamos ilgesnį laiką, arba kai kontrolierius pagal medicinos ar Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išvadą negali eiti savo pareigų;
+5. Kontrolierius atleidžiamas iš pareigų, kai:
 
-5) dėl jo įsiteisėja apkaltinamasis teismo nuosprendis;
+1) jis atsistatydina, apie tai raštu įspėjęs Seimo Pirmininką ne vėliau kaip prieš 14 darbo dienų;
 
-6) daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo.
+2) dėl sveikatos būklės nebegali eiti savo pareigų;
 
-4. Šio straipsnio 3 dalies 1 punkte nustatytu atveju kontrolierius eina pareigas tol, kol į jo vietą paskiriamas naujas kontrolierius.
+3) nebeatitinka nepriekaištingos reputacijos reikalavimų;
 
-5. Šio straipsnio 3 dalies 4 punkte nustatytu atveju klausimą dėl kontrolieriaus įgaliojimų nutraukimo Seimas sprendžia tik tada, kai yra sveikatos apsaugos ministro sudarytos gydytojų komisijos išvada.
+4) netenka Lietuvos Respublikos pilietybės;
 
-6. Kontrolieriumi skiriamas nepriekaištingos reputacijos asmuo, turintis mokslo (meno) daktaro laipsnį ir vadovaujamo darbo patirties.
+5) teismas pripažįsta jį neveiksniu ar ribotai veiksniu tam tikroje srityje;
 
-7. Kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis arba skiriamomis pareigomis valstybės ir savivaldybių institucijose, taip pat su darbu kitose įstaigose, įmonėse, organizacijose. Kontrolierius negali gauti jokio kito atlyginimo, išskyrus atlyginimą už kūrybinę veiklą ir dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose projektuose, kurie yra susiję su akademine etika ir Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos veiklos tobulinimu ir kuriuose nedalyvauja Lietuvos mokslo ir studijų institucijose dirbantys asmenys.
+6) jam įsiteisėja apkaltinamasis teismo nuosprendis;
 
-Straipsnio dalies pakeitimai:
+7) Seimas pareiškia nepasitikėjimą juo Lietuvos Respublikos Seimo statuto nustatyta tvarka.
 
-Nr. XIV-977, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06313
+6. Šio straipsnio 5 dalies 2 punkte nustatytu atveju klausimą dėl kontrolieriaus įgaliojimų nutraukimo Seimas sprendžia tik tada, kai yra sveikatos apsaugos ministro sudarytos gydytojų komisijos išvada.
 
-8. Kontrolieriaus veikla grindžiama teisėtumo, nešališkumo, teisingumo ir viešumo principais.
+7. Kontrolieriumi skiriamas nepriekaištingos reputacijos asmuo, turintis mokslo (meno) daktaro laipsnį ir vadovaujamo darbo patirties.
 
-9. Kontrolieriui teikiamame skunde turi būti nurodyta:
+8. Kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis arba skiriamomis pareigomis valstybės ir savivaldybių institucijose, taip pat su darbu kitose įstaigose, įmonėse, organizacijose. Kontrolierius negali gauti jokio kito atlyginimo, išskyrus atlyginimą už kūrybinę veiklą ir dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose projektuose, kurie yra susiję su akademine etika ir Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos (toliau – Tarnyba) veiklos tobulinimu ir kuriuose nedalyvauja Lietuvos mokslo ir studijų institucijose dirbantys asmenys. Šios dalies nuostatos netaikomos šio straipsnio 9 ir 10 dalyse nurodytais atvejais.
+
+9. Kai kontrolierius atostogauja arba dėl kitų priežasčių (ligos, komandiruotės ir pan.) negali eiti savo pareigų, Seimo valdybos sprendimu jį pavaduoja Seimo kontrolierius arba lygių galimybių kontrolierius, arba asmuo, atitinkantis kontrolieriui keliamus reikalavimus.
+
+10. Nutrūkus kontrolieriaus įgaliojimams arba atleidus kontrolierių iš pareigų tol, kol į kontrolieriaus pareigas paskiriamas naujas kontrolierius, Seimas Švietimo ir mokslo komiteto teikimu gali pavesti laikinai eiti kontrolieriaus pareigas asmeniui, atitinkančiam kontrolieriui keliamus reikalavimus.
+
+11. Pasibaigus kontrolieriaus įgaliojimų laikui, jam išmokama 2 mėnesių darbo užmokesčio dydžio išeitinė išmoka. Kontrolieriui, atleidžiamam iš pareigų, kai jis dėl sveikatos būklės nebegali eiti savo pareigų, išmokama 3 mėnesių darbo užmokesčio dydžio išeitinė išmoka. Kontrolieriui mirus, jo šeimai išmokama 3 mėnesių darbo užmokesčio dydžio išmoka. Šios išmokos mokamos iš Tarnybai skirtų valstybės biudžeto lėšų.
+
+12. Pasibaigus įgaliojimų laikui, kontrolieriui netaikomi Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme nustatyti apribojimai dirbti mokslo ir studijų institucijose, išskyrus vadovaujamas pareigas.
+
+13. Kontrolieriaus veikla grindžiama teisėtumo, nešališkumo, teisingumo ir viešumo principais.
+
+14. Kontrolieriui teikiamame skunde turi būti nurodyta:
 
 1) pareiškėjo vardas, pavardė (arba juridinio asmens pavadinimas) ir gyvenamosios vietos adresas (juridinio asmens buveinė);
 
@@ -1885,19 +1925,11 @@ Nr. XIV-977, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06313
 
 3) pareiškėjo reikalavimas.
 
-10. Kontrolierius skundą išnagrinėja ar tyrimą atlieka, priima sprendimą ir raštu informuoja pareiškėją ne vėliau kaip per 30 dienų nuo skundo gavimo ar tyrimo pradėjimo dienos. Dėl skundo ar tyrimo aplinkybių sudėtingumo arba dėl to, kad nagrinėjant ar tiriant skundą prireikia gauti papildomos informacijos, skundo nagrinėjimo ar tyrimo ir sprendimo priėmimo terminas gali būti pratęstas du kartus po 4 mėnesius.
+15. Kontrolierius skundą išnagrinėja ar tyrimą atlieka, priima sprendimą ir raštu informuoja pareiškėją ne vėliau kaip per 30 dienų nuo skundo gavimo ar tyrimo pradėjimo dienos. Dėl skundo ar tyrimo aplinkybių sudėtingumo arba dėl to, kad nagrinėjant ar tiriant skundą prireikia gauti papildomos informacijos, skundo nagrinėjimo ar tyrimo ir sprendimo priėmimo terminas gali būti pratęstas du kartus po 4 mėnesius.
 
-Straipsnio dalies pakeitimai:
+16. Skundui dėl akademinės etikos ar procedūrų pažeidimų su studijomis susijusioje veikloje pateikti nustatomas 6 mėnesių terminas nuo skundžiamų veiksmų padarymo ar skundžiamo sprendimo priėmimo. Skundai, pateikti praėjus šiam terminui, nenagrinėjami, jeigu kontrolierius nenusprendžia kitaip, vadovaudamasis Tarnybos nuostatuose nustatyta tvarka.
 
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-
-11. Skundui dėl akademinės etikos ar procedūrų pažeidimų su studijomis susijusioje veikloje pateikti nustatomas šešių mėnesių terminas nuo skundžiamų veiksmų padarymo ar skundžiamo sprendimo priėmimo. Skundai, pateikti praėjus šiam terminui, nenagrinėjami, jeigu kontrolierius nenusprendžia kitaip, vadovaudamasis Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos nuostatuose nustatyta tvarka.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-
-12. Išnagrinėjęs skundą arba atlikęs tyrimą, kontrolierius priima sprendimą:
+17. Išnagrinėjęs skundą arba atlikęs tyrimą, kontrolierius priima sprendimą:
 
 1) konstatuoti akademinės etikos ir (ar) procedūrų pažeidimą;
 
@@ -1913,87 +1945,23 @@ Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
 
 7) informuoti teisėsaugos institucijas, jeigu nustatoma nusikalstamos veikos požymių.
 
-Straipsnio dalies pakeitimai:
+18. Kontrolieriaus veiklą užtikrina Tarnyba. Tarnyba yra biudžetinė įstaiga. Tarnybos vadovas yra kontrolierius. Tarnybos nuostatus tvirtina Seimas.
 
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
+19. Kontrolierius turi teisę gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų, valstybės registrų, kitų asmenų informaciją, būtiną nustatytoms funkcijoms atlikti.
 
-13. Kontrolieriaus veiklą užtikrina Akademinės etikos ir procedūrų kontrolieriaus tarnyba (toliau – Tarnyba). Tarnyba yra biudžetinė įstaiga. Tarnybos vadovas yra kontrolierius. Tarnybos nuostatus tvirtina Seimas.
+20. Kontrolierius kartą per metus, iki kovo 1 dienos, atsiskaito Seimui už praėjusius kalendorinius metus ir teikia Tarnybos veiklos ataskaitą.
 
-Straipsnio dalies numeracijos pakeitimas:
+21. Kontrolierius gali atsisakyti nagrinėti skundą dėl galimų akademinės etikos ir (ar) procedūrų pažeidimų ir, informavęs pareiškėją, perduoti šį skundą atitinkamai mokslo ir studijų institucijai, jeigu dėl tų pačių galimų akademinės etikos ir procedūrų pažeidimų nebuvo kreiptasi į atitinkamą mokslo ir studijų instituciją. Jeigu skundo nagrinėjimas gali sukelti viešųjų ir privačių interesų konfliktą, kontrolierius privalo apie tai informuoti Seimo valdybą ir pareikšti apie nusišalinimą. Tuo atveju, kai priimamas kontrolieriaus nusišalinimas ar jis nušalinamas nuo skundo nagrinėjimo, Seimo valdybos sprendimu skundui nagrinėti paskiriamas kitas kontrolierius ar akademinės etikos ir procedūrų kontrolieriui keliamus reikalavimus atitinkantis asmuo, kuris nagrinėja skundą šiame įstatyme ir Tarnybos nuostatuose nustatyta tvarka.
 
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
+22. Kontrolieriaus sprendimai skelbiami Tarnybos interneto svetainėje.
 
-14. Kontrolierius turi teisę gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų, valstybės registrų, kitų asmenų informaciją, būtiną nustatytoms funkcijoms atlikti.
+23. Kontrolierius apie sprendime konstatuotus etikos ir (arba) procedūrų pažeidimus informuoja pareiškėją, atitinkamą mokslo ir studijų instituciją, Švietimo, mokslo ir sporto ministeriją, prireikus atitinkamos mokslo ir studijų institucijos steigėją ir savininko teises ir pareigas įgyvendinančią instituciją, taip pat kitus asmenis.
 
-Straipsnio dalies numeracijos pakeitimas:
+24. Mokslo ir studijų institucija per kontrolieriaus nustatytą terminą privalo pateikti kontrolieriui ir Švietimo, mokslo ir sporto ministerijai informaciją, kokių veiksmų ėmėsi, atsižvelgusi į kontrolieriaus sprendimą.
 
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
+Straipsnio pakeitimai:
 
-15. Kontrolierius kartą per metus, iki kovo 1 dienos, atsiskaito Seimui už praėjusius kalendorinius metus ir teikia Tarnybos veiklos ataskaitą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-
-16. Kontrolieriaus darbo užmokesčio dydį ir apmokėjimo sąlygas nustato Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-
-17. Kontrolierius gali atsisakyti nagrinėti skundą dėl galimų akademinės etikos ir (ar) procedūrų pažeidimų ir, informavęs pareiškėją, perduoti šį skundą atitinkamai mokslo ir studijų institucijai, jeigu dėl tų pačių galimų akademinės etikos ir procedūrų pažeidimų nebuvo kreiptasi į atitinkamą mokslo ir studijų instituciją. Jeigu skundo nagrinėjimas gali sukelti viešųjų ir privačių interesų konfliktą, kontrolierius privalo apie tai informuoti Seimo valdybą ir pareikšti apie nusišalinimą. Tuo atveju, kai priimamas kontrolieriaus nusišalinimas ar jis nušalinamas nuo skundo nagrinėjimo, Seimo valdybos sprendimu skundui nagrinėti paskiriamas kitas kontrolierius ar akademinės etikos ir procedūrų kontrolieriui keliamus reikalavimus atitinkantis asmuo, kuris nagrinėja skundą šiame įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme ir Tarnybos nuostatuose nustatyta tvarka.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-
-18. Kontrolieriaus sprendimai skelbiami Tarnybos interneto svetainėje.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-
-19. Prireikus kontrolierių pavaduoja Seimo valdybos sprendimu paskirtas asmuo, atitinkantis kontrolieriui keliamus reikalavimus.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-
-20. Šio straipsnio 3 dalies 2, 3, 4, 5 ir 6 punktuose nustatytais atvejais tol, kol į kontrolieriaus vietą paskiriamas naujas kontrolierius, Seimas Švietimo ir mokslo komiteto teikimu gali pavesti laikinai eiti kontrolieriaus pareigas asmeniui, atitinkančiam kontrolieriui keliamus reikalavimus.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-
-21. Kontrolierius apie sprendime konstatuotus etikos ir (arba) procedūrų pažeidimus informuoja pareiškėją, atitinkamą mokslo ir studijų instituciją, Švietimo, mokslo ir sporto ministeriją, prireikus atitinkamos mokslo ir studijų institucijos steigėją ir savininko teises ir pareigas įgyvendinančią instituciją, taip pat kitus asmenis.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
-
-22. Mokslo ir studijų institucija per kontrolieriaus nustatytą terminą privalo pateikti kontrolieriui ir Švietimo, mokslo ir sporto ministerijai informaciją, kokių veiksmų ėmėsi, atsižvelgusi į kontrolieriaus sprendimą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
-
-Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 18 straipsnis. Neteko galios nuo 2019-01-01
 
@@ -2039,17 +2007,27 @@ Nr. XIII-2367, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12448
 
 22 straipsnis. Studijų kokybės vertinimo centras
 
-1. Studijų kokybės vertinimo centras yra biudžetinė įstaiga, jį steigia Švietimo ir mokslo ministerija.
+1. Studijų kokybės vertinimo centras yra biudžetinė įstaiga, kurios savininko teises ir pareigas įgyvendina Švietimo, mokslo ir sporto ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 2. Studijų kokybės vertinimo centras, atlikdamas išorinį vertinimą ir akreditavimą, skatina aukštųjų mokyklų veiklos kokybę ir, atlikdamas užsienio kvalifikacijų vertinimą ir pripažinimą bei informacijos teikimą, kuria palankias laisvo asmenų judėjimo sąlygas.
 
-3. Studijų kokybės vertinimo centro kolegialus valdymo organas yra Studijų kokybės vertinimo centro taryba, sudaroma iš 11 narių. Po vieną Studijų kokybės vertinimo centro tarybos narį 6 metų kadencijai deleguoja Seimo Švietimo ir mokslo komitetas, švietimo ir mokslo ministras, po du narius 6 metų kadencijai deleguoja universitetus, kolegijas vienijančios organizacijos, keturis narius 6 metų kadencijai deleguoja socialinius partnerius vienijančios organizacijos, vienas tarybos narys 2 metų kadencijai deleguojamas studentus vienijančios organizacijos. Seimo Švietimo ir mokslo komiteto deleguojamas tarybos narys turi būti tarptautinis ekspertas, gyvenantis ir dirbantis ne Lietuvos Respublikoje. Studijų kokybės vertinimo centro tarybos sudėtį skelbia švietimo ir mokslo ministras.
+3. Studijų kokybės vertinimo centro kolegialus valdymo organas yra Studijų kokybės vertinimo centro taryba, sudaroma iš 11 narių. Po vieną Studijų kokybės vertinimo centro tarybos narį 6 metų kadencijai deleguoja Seimo Švietimo ir mokslo komitetas, švietimo, mokslo ir sporto ministras, po du narius 6 metų kadencijai deleguoja universitetus, kolegijas vienijančios organizacijos, keturis narius 6 metų kadencijai deleguoja socialinius partnerius vienijančios organizacijos, vienas tarybos narys 2 metų kadencijai deleguojamas studentus vienijančios organizacijos. Seimo Švietimo ir mokslo komiteto deleguojamas tarybos narys turi būti tarptautinis ekspertas, gyvenantis ir dirbantis ne Lietuvos Respublikoje. Studijų kokybės vertinimo centro tarybos sudėtį skelbia švietimo, mokslo ir sporto ministras. Studijų kokybės vertinimo centro tarybos nariams už jų darbą apmokama Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-117, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29421
 
-4. Studijų kokybės vertinimo centro vienasmenis valdymo organas yra direktorius. Direktorius konkurso būdu 4 metų kadencijai skiriamas Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka tokiu būdu, kad ne mažiau kaip pusę konkurso komisijos narių sudarytų Studijų kokybės vertinimo centro tarybos nariai. Tas pats asmuo direktoriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
+
+4. Neteko galios nuo 2024-05-04
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 5. Ne rečiau kaip kas 5 metai atliekamas Studijų kokybės vertinimo centro veiklos išorinis vertinimas. Vertinimo rezultatai skelbiami viešai.
 
@@ -2665,7 +2643,11 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 8. Magistrantūros studijų programos apimtis gali būti 60, 90 arba 120 studijų kreditų.
 
-9. Profesinių studijų (išskyrus rezidentūrą) apimtis yra 60 studijų kreditų. Rezidentūros apimtį (trukmę) nustato Vyriausybė arba jos įgaliota institucija.
+9. Profesinių studijų (išskyrus rezidentūrą) apimtis yra nuo 60 iki 120 studijų kreditų. Rezidentūros apimtį (trukmę) nustato Vyriausybė arba jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 10. Studijos vykdomos pagal studijų programas. Studijų programos yra universitetinės ir koleginės.
 
@@ -3317,11 +3299,13 @@ Papildyta straipsniu:
 
 Nr. XII-2388, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14399
 
-721 straipsnis. Valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos ir viešosios įstaigos, administracijos (instituto direktoriaus, direktoriaus pavaduotojo, mokslinio sekretoriaus), mokslo darbuotojų ir kitų tyrėjų darbo apmokėjimo sąlygos ir socialinės garantijos
+721 straipsnis. 721 straipsnis. Valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos ir viešosios įstaigos, administracijos (instituto direktoriaus, direktoriaus pavaduotojo, mokslinio sekretoriaus), mokslo darbuotojų darbo apmokėjimo sąlygos ir socialinės garantijos
 
 Pakeistas straipsnio pavadinimas:
 
 Nr. XIII-3269, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15545
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 1. Valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos ir viešosios įstaigos (toliau šiame straipsnyje – institutai), administracijos (instituto direktoriaus, direktoriaus pavaduotojo, mokslinio sekretoriaus) ir mokslo darbuotojų (toliau kartu – darbuotojai) darbo užmokestį sudaro pareiginė alga (mėnesinė alga), priedai ir priemokos, apmokėjimas už darbą poilsio ir švenčių dienomis, darbą naktį ir viršvalandinį darbą, budėjimą ir darbą sąlygomis, kai yra  nukrypimų nuo normalių darbo sąlygų ir tokių nukrypimų negalima pašalinti, premijos.
 
@@ -3333,7 +3317,11 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 2. Darbo apmokėjimo sistema nustatoma kolektyvinėje sutartyje ir (ar) institutų vidaus ar darbo tvarkos taisyklėse. Darbo apmokėjimo sistemoje, atsižvelgiant į šio straipsnio nuostatas, detalizuojami kriterijai (atliekamų užduočių, mokslinių tyrimų lygis ir sudėtingumas, atsakomybės lygis, vykdomų projektų ar užsakymų specifika, pobūdis, rezultatų svarba šalies, visuomenės gerovei ar ūkio plėtrai, specifinių žinių ar įgūdžių, svarbių einamoms pareigoms, turėjimas ir panašiai), kuriais remiantis nustatomi konkretūs instituto darbuotojų pareiginės algos koeficientai, jiems skiriami priedai, priemokos, taip pat nustatoma priedų, priemokų ir premijų mokėjimo tvarka ir sąlygos. Pareiginės algos koeficientus pareigybėms, priedus, priemokas ir premijas darbuotojams, vadovaudamasis šiuo straipsniu ir institute galiojančia darbo apmokėjimo sistema, nustato instituto direktorius arba jo įgaliotas asmuo. Pareiginės algos koeficientai pareigybėms, priedai, priemokos ir premijos darbuotojams nustatomi neviršijant institutui atitinkamų metų programų sąmatose patvirtintų lėšų darbo užmokesčiui.
 
-3. Institutų direktorių darbo apmokėjimo dydžius (darbo užmokestį) nustato savininko teises ir pareigas įgyvendinančios institucijos vadovas arba jo įgaliotas asmuo.
+3. Institutų direktorių darbo apmokėjimo dydžius (darbo užmokestį) nustato savininko teises ir pareigas įgyvendinančios institucijos vadovas (visuotinis dalininkų susirinkimas) arba jo (jų) įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 4. Darbuotojo pareiginei algai apskaičiuoti taikomas Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga nustatoma bazinį dydį padauginus iš tai pareigybei nustatyto pareiginės algos koeficiento.
 
@@ -3411,9 +3399,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
-13. Šio straipsnio 7 ir 11 dalyse nurodyti priedai ir priemokos skiriami nurodant konkretų, bet ne ilgesnį kaip iki kalendorinių metų pabaigos, terminą.
+13. Šio straipsnio 7 ir 11 dalyse nurodyti priedai ir priemokos gali būti skiriami nurodant konkretų, bet ne ilgesnį kaip iki kalendorinių metų pabaigos, terminą.
 
-14. Darbuotojų valandinis atlygis už pedagoginį darbą apskaičiuojamas jų pareiginės algos koeficientus, nustatytus vadovaujantis šio straipsnio 5, 6 ir 10 dalių nuostatomis, padauginus iš 3,18 bazinio valandinio atlygio dydžio, apskaičiuoto bazinį dydį padalijant iš metinio vidutinio mėnesio darbo valandų skaičiaus, kurį kiekvienais metais tvirtina socialinės apsaugos ir darbo ministras.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
+
+14. Neteko galios nuo 2024-05-04
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 Straipsnio dalies pakeitimai:
 
@@ -3427,9 +3423,17 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 16. Už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą, budėjimą ir esant nukrypimams nuo normalių darbo sąlygų institutų darbuotojams apmokama Lietuvos Respublikos darbo kodekso nustatyta tvarka.
 
-17. Institutų darbuotojams, neviršijant institutų programų sąmatose patvirtintų lėšų darbo užmokesčiui, gali būti skiriamos premijos šiais atvejais: už labai gerą darbą kalendoriniais metais; už atliktas vienkartines ypač svarbias užduotis. Kiekvienu atveju premija gali būti skiriama ne daugiau kaip kartą per kalendorinius metus ir negali viršyti darbuotojui nustatytos pareiginės algos dydžio.
+17. Institutų darbuotojams, neviršijant institutų programų sąmatose patvirtintų lėšų darbo užmokesčiui, gali būti skiriamos premijos šiais atvejais: už viršijantį lūkesčius darbą kalendoriniais metais; už atliktas vienkartines ypač svarbias užduotis. Kiekvienu atveju premija gali būti skiriama ne daugiau kaip kartą per kalendorinius metus ir negali viršyti darbuotojui nustatytos pareiginės algos dydžio.
 
-18. Instituto darbuotojui, kurio materialinė būklė sunki dėl jo paties ligos, šeimos nario (sutuoktinio, vaiko (įvaikio), motinos, tėvo (įmotės, įtėvio) ligos ar mirties, stichinės nelaimės ar turto netekimo, jeigu yra darbuotojo rašytinis prašymas ir pateikti atitinkami tai patvirtinantys dokumentai, gali būti išmokama materialinė pašalpa. Ši pašalpa negali viršyti 5 minimalių mėnesinių algų dydžių. Materialinė pašalpa dėl darbuotojo mirties gali būti išmokama jo šeimos nariams.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
+
+18. Instituto darbuotojams, kurių materialinė būklė tapo sunki dėl jų pačių ligos, artimųjų giminaičių, sutuoktinio, partnerio, sugyventinio, jo tėvų, vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėjais ar rūpintojais įstatymų nustatyta tvarka yra paskirti instituto darbuotojai, ligos ar mirties, stichinės nelaimės ar turto netekimo, jeigu yra pateikti šių darbuotojų rašytiniai prašymai ir atitinkamą aplinkybę patvirtinantys dokumentai, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa. Mirus instituto darbuotojui, jo šeimos nariams gali būti išmokama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa, jeigu pateiktas jo šeimos narių rašytinis prašymas ir mirties faktą patvirtinantys dokumentai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 Papildyta straipsniu:
 
@@ -3449,7 +3453,11 @@ Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
 
 1) jis yra vienas iš bendrai gyvenančių asmenų arba vienas gyvenantis asmuo, turintys teisę gauti arba gaunantys socialinę pašalpą pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymą;
 
-2) turi teisės aktų nustatyta tvarka nustatytą 45 procentų ar mažesnį darbingumo lygį arba sunkų ar vidutinį neįgalumo lygį;
+2) turi 45 procentų ar mažesnį dalyvumo lygį (iki 2023 m. gruodžio 31 d. nustatytą 45 procentų ar mažesnį darbingumo lygį) arba sunkaus ar vidutinio neįgalumo lygį (iki 2023 m. gruodžio 31 d. – sunkų ar vidutinį neįgalumo lygį);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 3) yra ne vyresnis kaip 25 metų ir jam iki pilnametystės įstatymų nustatyta tvarka buvo nustatyta globa (rūpyba) arba jo abu tėvai (turėtas vienintelis iš tėvų) yra mirę.
 
@@ -3541,7 +3549,11 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 
 4. Kolegijoms moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skiriama ne mažiau kaip 10 procentų kolegijų bazinio finansavimo lėšų.
 
-5. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti valstybiniams universitetams ir valstybiniams mokslinių tyrimų institutams įskaičiuojamos į jų valstybės biudžeto asignavimus, tvirtinamus Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti kolegijoms ir nevalstybinėms mokslo ir studijų institucijoms skiriamos iš Švietimo, mokslo ir sporto  ministerijai skirtų valstybės biudžeto asignavimų.
+5. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti valstybiniams universitetams ir valstybiniams mokslinių tyrimų institutams įskaičiuojamos į jų valstybės biudžeto asignavimus, tvirtinamus Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymu. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti kolegijoms ir nevalstybinėms mokslo ir studijų institucijoms skiriamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 6. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšų skirstymas mokslo ir studijų institucijų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti detalizuojamas Vyriausybės ar jos įgaliotos institucijos tvirtinamame tvarkos apraše.
 
@@ -3627,7 +3639,11 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 
 2. Pagal studijų veiklos pasiekimų vertinimo suminius įverčius visoms mokslo ir studijų institucijoms 2024 metais skiriama 5 procentai, 2025 metais – 10 procentų, 2026 ir vėlesniais metais – 20 procentų valstybės biudžeto lėšų, apskaičiuotų nuo praėjusių metų valstybės biudžete patvirtintų asignavimų, skirtų studijų baziniam finansavimui. Lėšos paskirstomos mokslo ir studijų institucijoms proporcingai jų studijų veiklos pasiekimų vertinimo suminiams įverčiams.
 
-3. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos valstybiniams universitetams ir valstybiniams mokslinių tyrimų institutams įskaičiuojamos į jų valstybės biudžeto asignavimus, tvirtinamus Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu. Valstybinėms kolegijoms ir nevalstybinėms mokslo ir studijų institucijoms valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos skiriamos iš Švietimo, mokslo ir sporto  ministerijai skirtų valstybės biudžeto asignavimų.
+3. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos valstybiniams universitetams ir valstybiniams mokslinių tyrimų institutams įskaičiuojamos į jų valstybės biudžeto asignavimus, tvirtinamus Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymu. Valstybinėms kolegijoms ir nevalstybinėms mokslo ir studijų institucijoms valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos skiriamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 4. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšų skirstymo mokslo ir studijų institucijoms tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
