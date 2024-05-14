@@ -4,7 +4,7 @@ identifier: "TAR.11A8B08A7405"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-01-18"
-last_updated: "2023-01-01"
+last_updated: "2024-05-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-05-13
+Suvestinė redakcija nuo 2024-05-14
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
 
@@ -350,9 +350,17 @@ SUIMTŲJŲ SVEIKATOS PRIEŽIŪRA IR APRŪPINIMAS
 
 4. Kai laisvės atėmimo vietų įstaigos asmens sveikatos priežiūros padaliniai dėl objektyvių priežasčių negali užtikrinti pirminio lygio ambulatorinių asmens sveikatos priežiūros paslaugų teikimo suimtiesiems, šių paslaugų teikimą laisvės atėmimo vietų įstaigos patalpose pagal sudarytas sutartis užtikrina savivaldybės, kurios teritorijoje suimtajam vykdomas suėmimas, pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teikianti asmens sveikatos priežiūros įstaiga. Sprendimą dėl konkrečios pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teikiančios asmens sveikatos priežiūros įstaigos, kuri užtikrins asmens sveikatos priežiūros paslaugų teikimą suimtiesiems, paskyrimo priima savivaldybės, kurios teritorijoje suimtajam vykdomas suėmimas, taryba.
 
-5. Antrinio lygio asmens sveikatos priežiūros paslaugos, kurios neteikiamos specializuotame laisvės atėmimo vietų įstaigos sveikatos priežiūros padalinyje, ir tretinio lygio asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos arčiausiai esančiose ir reikalingas paslaugas galinčiose suteikti valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose.
+5. Antrinio lygio asmens sveikatos priežiūros paslaugos, kurios neteikiamos specializuotame laisvės atėmimo vietų įstaigos sveikatos priežiūros padalinyje, ir tretinio lygio asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos arčiausiai esančiose ir reikalingas paslaugas galinčiose suteikti valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose. Kai valstybės arba savivaldybių asmens sveikatos priežiūros įstaigos šioje dalyje nurodytų asmens sveikatos priežiūros paslaugų neteikia, šios paslaugos suimtiesiems gali būti teikiamos arčiausiai esančioje ir atitinkamas Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamas asmens sveikatos priežiūros paslaugas teikiančioje privačioje asmens sveikatos priežiūros įstaigoje.
 
-6. Asmens sveikatos priežiūros paslaugos valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose suimtiesiems teikiamos užtikrinant suimtųjų apsaugą.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2593, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08765
+
+6. Asmens sveikatos priežiūros paslaugos valstybės, savivaldybių arba privačiose asmens sveikatos priežiūros įstaigose suimtiesiems teikiamos užtikrinant suimtųjų apsaugą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2593, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08765
 
 7. Suimtųjų asmens sveikatos priežiūrą organizuoja Lietuvos Respublikos sveikatos apsaugos ministerija.
 
@@ -711,6 +719,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1772, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27589
 
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 pakeitimo įstatymo Nr. XIV-1198 1 straipsnio pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2593, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08765
+
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 24 straipsnio pakeitimo įstatymas
 
 38 straipsnis. Suimtųjų laikymo drausmės izoliatoriuose sąlygos
 
