@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2024-04-01"
+last_updated: "2024-05-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2024-04-01 iki 2024-05-13
+Suvestinė redakcija nuo 2024-05-14 iki 2024-07-02
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -2297,11 +2297,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
 
-5. Teismas, gavęs Lietuvos Respublikos bausmių vykdymo kodekso 89 straipsnyje arba Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą laisvės atėmimo vietų įstaigos arba probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
+5. Teismas, gavęs Lietuvos Respublikos bausmių vykdymo kodekso 89 straipsnyje arba Lietuvos Respublikos probacijos įstatymo 30 straipsnio 3 dalyje nurodytą laisvės atėmimo vietų įstaigos arba probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+
+Nr. XIV-2591, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08763
 
 6. Šio straipsnio 3, 4 ir 5 dalyse nurodytus klausimus teismas nagrinėja teismo posėdyje. Šiame posėdyje dalyvauja prokuroras ir institucijos, pateikusios teikimą, atstovas. Į teismo posėdį šaukiamas nuteistasis arba jo atstovas pagal įstatymą ir gynėjas, tačiau šių asmenų neatvykimas nesustabdo klausimo nagrinėjimo.
 
@@ -2339,7 +2341,11 @@ Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 6. Nuteistajam, kuris lygtinai paleistas iš laisvės atėmimo vietų įstaigos remiantis Lietuvos Respublikos bausmių vykdymo kodekso 82 straipsniu, probacijos sąlygas pakeičia arba lygtinį paleidimą panaikina ir nuteistąjį pasiunčia atlikti likusios nuosprendžiu paskirtos laisvės atėmimo bausmės dalies nuteistojo gyvenamosios vietos apylinkės teismas probacijos tarnybos teikimu šio Kodekso 362 straipsnyje nustatyta tvarka.
 
-7. Teismas, gavęs Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
+7. Teismas, gavęs Lietuvos Respublikos probacijos įstatymo 30 straipsnio 3 dalyje nurodytą probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2591, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08763
 
 Straipsnio pakeitimai:
 
