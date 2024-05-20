@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2024-05-16"
+last_updated: "2024-05-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2024-05-16 iki 2024-05-19
+Suvestinė redakcija nuo 2024-05-20 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -3560,6 +3560,12 @@ Vaiko globėju (rūpintoju) gali būti skiriamas asmuo:
 6) kuris nėra teistas už tyčinį nusikaltimą žmoniškumui, žmogaus gyvybei, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, visuomenės saugumui, dorovei, nusikaltimą, pavojingą žmogaus gyvybei ir sveikatai, sunkų sveikatos sutrikdymą, taip pat nusikaltimą, susijusį su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas įstatymų nustatyta tvarka. Dėl asmens, kuris buvo nuteistas už kitas nusikalstamas veikas ar kuriam buvo paskirtos administracinės nuobaudos ir (ar) administracinio poveikio priemonės, teisės būti vaiko globėju (rūpintoju) sprendžiama, įvertinus padarytos (padarytų) nusikalstamos (nusikalstamų) veikos (veikų) ar administracinio (administracinių) nusižengimo (nusižengimų) pobūdį, pavojingumą ir atsižvelgus į vaiko interesus;
 
 7) iki šešiasdešimt penkerių metų, išskyrus artimąjį giminaitį, jei jis nori laikinai globoti jaunesnį kaip dešimties metų vaiką;
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio kodekso 3.269 straipsnio (2000 m. liepos 18 d. redakcija, Žin., 2000, Nr. 74-2262; 2021 m. gruodžio 23 d. redakcija, TAR, 2022-01-04, Nr. 70, identifikacinis kodas 2022-00070) 7 punktas prieštaravo (prieštarauja) Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai.
+
+Straipsnio punkto pakeitimai:
+
+Nr.  KT44-A-N6/2024, 2024-05-20, paskelbta TAR 2024-05-20, i. k. 2024-09103
 
 8) neturintis psichikos ir elgesio sutrikimų ar nesergantis kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija;
 
@@ -11752,6 +11758,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2623, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08913
 
 Lietuvos Respublikos civilinio kodekso 4.103 straipsnio pakeitimo įstatymas
+
+74.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr.  KT44-A-N6/2024, 2024-05-20, paskelbta TAR 2024-05-20, i. k. 2024-09103
+
+Dėl Lietuvos Respublikos civilinio kodekso 3.269 straipsnio (2000 m. liepos 18 d., 2021 m. gruodžio 23 d. redakcijos) 7 punkto atitikties Lietuvos Respublikos Konstitucijai
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
