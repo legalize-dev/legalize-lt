@@ -4,7 +4,7 @@ identifier: "TAR.E838D0C06065"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-21"
-last_updated: "2024-05-01"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E838D0C06065"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ, ATLIEKAMŲ GYNYBOS IR SAUGUMO
 
 SRITYJE, ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-05-30
+Suvestinė redakcija nuo 2024-05-31 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4135, i. k. 1111010ISTA0XI-1491
 
@@ -55,7 +55,11 @@ BENDROSIOS NUOSTATOS
 
 4. Šio įstatymo nuostatos suderintos su šio įstatymo 4 priede nurodytais Europos Sąjungos teisės aktais.
 
-5. Atliekant šio įstatymo reglamentuojamus pirkimus, laikomasi Sutarties dėl Europos Sąjungos veikimo 346 straipsnio nuostatų.
+5. Atliekant šio įstatymo reglamentuojamus pirkimus, laikomasi Sutarties dėl Europos Sąjungos veikimo 346 straipsnio nuostatų. Sprendimą, ar yra Sutarties dėl Europos Sąjungos veikimo 346 straipsnio 1 dalies b punkte nurodytos aplinkybės ir yra būtina netaikyti šio įstatymo nuostatų bei kokią karinę įrangą būtina įsigyti siekiant apsaugoti esminius valstybės saugumo interesus, priima Lietuvos Respublikos Vyriausybė, įvertinusi Lietuvos Respublikos krašto apsaugos ministerijos pateiktą pagrindimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2648, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09686
 
 2 straipsnis. Įstatymo taikymo sritis
 
@@ -2496,6 +2500,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
 
 Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 15, 16, 40 ir 52 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2648, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09686
+
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 1 straipsnio pakeitimo įstatymas
 
 81 straipsnis. Pirkimo procedūrų pradžia ir pabaiga
 
