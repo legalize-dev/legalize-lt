@@ -4,7 +4,7 @@ identifier: "TAR.026F44E06A27"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-10-12"
-last_updated: "2024-01-01"
+last_updated: "2024-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.026F44E06A27"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-05-31
+Suvestinė redakcija nuo 2024-06-01
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 54-1048, i. k. 0931010ISTA000I-270
 
@@ -224,7 +224,11 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 
 12) kurti technologinius sprendimus, susijusius su valstybės duomenų tvarkymu;
 
-13) atlikti darbus, kurių atlikimo sąnaudas padengia valstybės duomenų vartotojas, jeigu šie darbai netrukdo atlikti Oficialiosios statistikos programos I dalyje nurodytų statistinių tyrimų ir Valstybės duomenų valdysenos programoje nurodytų darbų ir nepažeidžia oficialiosios statistikos organizavimo ir valstybės duomenų valdysenos principų. Šie darbai gali būti atliekami naudojant valstybės duomenis, išskyrus asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis, taip pat valstybės duomenų vartotojo pateiktus duomenis, dokumentus ir (arba) jų kopijas. Valstybės duomenys šiems darbams atlikti gali būti naudojami tik darbus atliekant šio įstatymo 21 straipsnio 1 dalyje nurodytais tikslais;
+13) atlikti darbus, kurių atlikimo sąnaudas padengia valstybės duomenų vartotojas, jeigu šie darbai netrukdo atlikti Oficialiosios statistikos programos I dalyje nurodytų statistinių tyrimų ir Valstybės duomenų valdysenos programoje nurodytų darbų ir nepažeidžia oficialiosios statistikos organizavimo ir valstybės duomenų valdysenos principų. Šie darbai gali būti atliekami naudojant valstybės duomenis, taip pat valstybės duomenų vartotojo pateiktus duomenis, dokumentus ir (arba) jų kopijas. Valstybės duomenys šiems darbams atlikti gali būti naudojami tik darbus atliekant šio įstatymo 21 straipsnio 1 dalyje nurodytais tikslais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2669, 2024-05-21, paskelbta TAR 2024-05-29, i. k. 2024-09623
 
 14) naudotis kitomis Valstybės duomenų agentūros nuostatuose nustatytomis teisėmis.
 
@@ -554,7 +558,11 @@ Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
 
 2. Valstybės duomenys teikiami tik šio straipsnio 1 dalyje nustatytiems tikslams Vyriausybės nustatyta tvarka ir sąlygomis.
 
-3. Valstybės duomenų agentūra valdo, tvarko ir užtikrina valstybės duomenų teikimą tik šio straipsnio 1 dalyje nustatytiems tikslams. Tvarkant valstybės duomenis šio straipsnio 1 dalyje nustatytiems tikslams, netaikomi Valstybės informacinių išteklių valdymo įstatyme nustatyti reikalavimai dėl duomenų teikimo sutarčių sudarymo, išskyrus atvejus, kai oficialiosios statistikos tikslams valstybės duomenys tvarkomi kartu su statistiniais duomenimis. Vietoj jų taikomi Valstybės duomenų agentūros parengti standartizuoti duomenų ar paslaugų teikimo sąlygų aprašai, su kuriais Valstybės duomenų valdysenos informacinės sistemos naudotojai susipažįsta prisijungę prie Valstybės duomenų agentūros sukurtų automatizuotų duomenų prieigų ar kitu automatizuotu būdu.
+3. Valstybės duomenų agentūra valdo, tvarko ir užtikrina valstybės duomenų teikimą tik šio straipsnio 1 dalyje nustatytiems tikslams. Tvarkant valstybės duomenis šio straipsnio 1 dalyje nustatytiems tikslams, valstybės duomenys teikiami Valstybės duomenų agentūros direktoriaus tvirtinamuose standartizuotų duomenų teikimo sąlygų aprašuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2669, 2024-05-21, paskelbta TAR 2024-05-29, i. k. 2024-09623
 
 4. Ekstremaliųjų situacijų ir įvykių, nepaprastosios padėties ir krizių operatyvaus valdymo tikslams valstybės duomenys valdomi, tvarkomi ir teikiami Vyriausybės, Valstybės duomenų agentūros ar ekstremaliosios situacijos operacijų vadovo sprendimu. Esant paskelbtai nepaprastajai padėčiai ar ekstremaliajai situacijai registrų, informacinių sistemų valdytojai ir (ar) tvarkytojai privalo sudaryti sąlygas Valstybės duomenų agentūrai ne vėliau kaip per 5 darbo dienas nuo kreipimosi dienos gauti į Valstybės duomenų valdysenos informacinę sistemą šiam tikslui reikalingus institucijų, registrų, informacinių sistemų duomenis.
 
@@ -594,7 +602,11 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 
 3. Valstybės duomenų vartotojai privalo:
 
-1) prašydami asmens duomenų, nurodyti asmens duomenų tvarkymo tikslą, pagrindą pagal įstatymą (-us), teisėto asmens duomenų tvarkymo sąlygas, nurodytas Reglamente (ES) 2016/679, taip pat aiškiai nurodyti prašomų asmens duomenų apimtį, būtiną konkrečiam tikslui pasiekti, ir kitą teisės aktuose, reglamentuojančiuose asmens duomenų gavimą ir teikimą, nustatytą informaciją, prašydami kitų valstybės duomenų – nurodyti valstybės duomenų naudojimo tikslą, teisinį pagrindą ir kitą teisės aktuose, reglamentuojančiuose valstybės duomenų gavimą ir teikimą, nustatytą informaciją;
+1) prašydami asmens duomenų, nurodyti asmens duomenų tvarkymo tikslą, pagrindą pagal įstatymą (-us) arba Vyriausybės nutarimą (-us), teisėto asmens duomenų tvarkymo sąlygas, nurodytas Reglamente (ES) 2016/679, taip pat aiškiai nurodyti prašomų asmens duomenų apimtį, būtiną konkrečiam tikslui pasiekti, ir kitą teisės aktuose, reglamentuojančiuose asmens duomenų gavimą ir teikimą, nustatytą informaciją, prašydami kitų valstybės duomenų – nurodyti valstybės duomenų naudojimo tikslą, teisinį pagrindą ir kitą teisės aktuose, reglamentuojančiuose valstybės duomenų gavimą ir teikimą, nustatytą informaciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2669, 2024-05-21, paskelbta TAR 2024-05-29, i. k. 2024-09623
 
 2) užtikrinti valstybės duomenų naudojimą tik tuo tikslu, kuriuo buvo gauti;
 
@@ -626,21 +638,17 @@ Nr. XIV-2437, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26026
 
 25 straipsnis. Valstybės duomenų valdymo platformos naudojimas
 
-1. Valstybės duomenų valdymo platforma yra daugiafunkcė ir integrali technologinių sprendimų, techninių ir programinių priemonių visuma, skirta šio straipsnio 2 dalyje nurodytiems subjektams techninei, organizacinei ir fizinei duomenų valdymo, tvarkymo ir (ar) mainų aplinkai užtikrinti. Valstybės duomenų valdymo platformos saugumas užtikrinamas Valstybės duomenų agentūros nustatytomis administracinėmis ir techninėmis priemonėmis, kuriomis užtikrinama tvarkomų duomenų, įskaitant asmens duomenis, apsauga ir užkertamas kelias atsitiktiniam ar neteisėtam jų sunaikinimui, praradimui, pakeitimui, atskleidimui, kitokiam neteisėtam jų tvarkymui.
+1. Valstybės duomenų valdymo platformos paslaugos informacinių technologijų paslaugų gavėjams centralizuotai teikiamos kaip viena iš Vyriausybės nustatytų informacinių technologijų paslaugų grupių. Valstybės duomenų valdymo platformos saugumas ir tinkamas jos veikimas užtikrinamas Valstybės duomenų agentūros nustatytomis administracinėmis ir techninėmis priemonėmis, kuriomis užtikrinama tvarkomų duomenų, įskaitant asmens duomenis, apsauga ir užkertamas kelias atsitiktiniam ar neteisėtam jų sunaikinimui, praradimui, pakeitimui, atskleidimui, kitokiam neteisėtam jų tvarkymui.
 
-2. Valstybės duomenų valdymo platforma gali būti naudojama valstybės ir savivaldybių institucijų ir įstaigų, taip pat valstybės ir savivaldybių valdomų įmonių ir viešųjų įstaigų, kurios Viešojo administravimo įstatymo nustatyta tvarka įgaliotos atlikti viešąjį administravimą, teikia viešąsias paslaugas ar atlieka kitas įstatymuose nustatytas funkcijas, statutinių įstaigų ir kitų biudžetinių įstaigų, regionų plėtros tarybų funkcijoms atlikti, įgyvendinant įstatymuose ar kituose teisės aktuose nustatytus uždavinius, taip pat kitų subjektų funkcijoms atlikti, jiems įgyvendinant visuomenės interesams svarbius uždavinius.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
+2. Valstybės duomenų valdymo platforma gali būti naudojama valstybės ir savivaldybių institucijų ir įstaigų, taip pat valstybės ir savivaldybių valdomų įmonių ir viešųjų įstaigų, kurios Viešojo administravimo įstatymo nustatyta tvarka įgaliotos atlikti viešąjį administravimą, teikia viešąsias paslaugas ar atlieka kitas įstatymuose nustatytas funkcijas, statutinių įstaigų ir kitų biudžetinių įstaigų, regionų plėtros tarybų funkcijoms atlikti, įgyvendinant įstatymuose ar kituose teisės aktuose nustatytus uždavinius, taip pat kitų subjektų funkcijoms atlikti, jiems įgyvendinant visuomenės interesams svarbius uždavinius, vadovaujantis Valstybės informacinių išteklių valdymo įstatymo 37 straipsnio 1 ir 2 dalimis.
 
 3. Valstybės duomenų valdymo platforma finansuojama iš Lietuvos Respublikos valstybės biudžeto lėšų.
-
-4. Valstybės duomenų valdymo platformos veikimo, naudojimo sąlygas ir tvarką nustato Valstybės duomenų agentūros direktorius.
 
 Straipsnio pakeitimai:
 
 Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
+
+Nr. XIV-2669, 2024-05-21, paskelbta TAR 2024-05-29, i. k. 2024-09623
 
 V SKYRIUS
 
@@ -791,4 +799,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2437, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26026
 
 Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 5 ir 24 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2669, 2024-05-21, paskelbta TAR 2024-05-29, i. k. 2024-09623
+
+Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 5, 21, 23 ir 25 straipsnių pakeitimo įstatymas
 
