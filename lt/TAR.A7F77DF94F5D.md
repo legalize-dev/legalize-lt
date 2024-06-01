@@ -4,7 +4,7 @@ identifier: "TAR.A7F77DF94F5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-18"
-last_updated: "2024-01-01"
+last_updated: "2024-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-05-31
+Suvestinė redakcija nuo 2024-06-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
 
@@ -1091,11 +1091,15 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 3. Ištarnauto laiko pensijos toliau mokamos iki šio įstatymo įsigaliojimo dienos galiojusia tvarka. Jei ištarnauto laiko pensijos gavėjas po šio įstatymo įsigaliojimo pripažįstamas nedarbingu ar iš dalies darbingu arba sukanka senatvės pensijos amžių, vietoj ištarnauto laiko pensijos jam gali būti skiriama netekto darbingumo arba senatvės pensija arba ištarnauto laiko pensija perskaičiuojama į senatvės arba netekto darbingumo pensiją pagal iki šio įstatymo įsigaliojimo galiojusį Pensijų įstatymą.
 
-4. Senatvės pensijos amžių sukakusiems asmenims netekto darbingumo (invalidumo) pensijų mokėjimas tęsiamas iki šios pensijos gavėjui nustatomas dalyvumo lygis. Jeigu asmeniui, kuriam yra paskirta senatvės pensija, nustatomas 70 procentų ar didesnis netekto dalyvumo lygis, jam be jo prašymo pradedama mokėti senatvės pensija asmeniui su negalia, apskaičiuota šio įstatymo 34 straipsnio 3 dalyje nustatyta tvarka. Jeigu šiam asmeniui nustatomas 65 procentų ar mažesnis netekto dalyvumo lygis, be jo prašymo pradedama mokėti paskirtoji senatvės pensija.
+4. Senatvės pensijos amžių sukakusiems asmenims netekto darbingumo (invalidumo) pensijų mokėjimas tęsiamas, iki šios pensijos gavėjas pagal šį įstatymą įgyja teisę į didesnio dydžio, negu jam mokama netekto darbingumo (invalidumo) pensija, senatvės pensiją arba senatvės pensiją asmeniui su negalia, apskaičiuotą pagal šio įstatymo 34 straipsnį. Šios nuostatos taikomos senatvės pensijos amžių sukakusiems netekto darbingumo (invalidumo) pensijų gavėjams, kuriems dalyvumo lygis nustatytas po 2024 m. sausio 1 d. Jeigu socialinio draudimo netekto darbingumo (invalidumo) pensijų gavėjai, kuriems socialinio draudimo senatvės pensija paskirta iki 2017 m. gruodžio 31 d., teisę į didesnio dydžio, negu jiems mokama socialinio draudimo netekto darbingumo (invalidumo) pensija, senatvės pensiją įgijo iki 2024 m. gegužės 31 d., socialinio draudimo senatvės pensija jiems pradedama mokėti nuo pirmos dienos mėnesio, einančio po to mėnesio, kurį asmeniui nustatytas mažesnis kaip 70 procentų netekto dalyvumo lygis.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-2361, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25612
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2627, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09143
 
 2) AV4 – po šio įstatymo įsigaliojimo asmens įgytų apskaitos vienetų skaičius (šio įstatymo 59 straipsnis);
 
