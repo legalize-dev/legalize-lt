@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2024-02-01"
+last_updated: "2024-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-02-01 iki 2024-05-31
+Suvestinė redakcija nuo 2024-06-01 iki 2024-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -2008,19 +2008,19 @@ Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu yra bent viena 
 
 1) jis yra teistas už sunkų ir (ar) labai sunkų nusikaltimą, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas, ar teistas už kitą tyčinį nusikaltimą, – jeigu teistumas neišnykęs ar nepanaikintas;
 
-2) jis buvo atleistas iš pareigų už tarnybinį nusižengimą ar iš darbo už darbo pareigų ar darbo drausmės pažeidimą ir nuo atleidimo iš pareigų ar darbo nepraėjo treji metai;
+2) jis buvo atleistas iš pareigų už tarnybinį nusižengimą ar iš darbo už darbo pareigų ar darbo drausmės pažeidimą ir nuo atleidimo iš pareigų ar darbo nepraėjo 3 metai;
 
-3) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis;
+3) jis piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis;
 
-4) jis savo elgesiu ir (ar) veikla pažeidė švietimo, mokslo ir sporto ministro patvirtinto Pedagogų etikos kodekso reikalavimus ir po pažeidimo nustatymo nėra praėję vieni metai.
+4) jis savo elgesiu ir (ar) veikla pažeidė švietimo, mokslo ir sporto ministro patvirtinto Pedagogų etikos kodekso reikalavimus ir po pažeidimo nustatymo nėra praėję vieni metai;
 
-Straipsnio punkto pakeitimai:
+5) jis yra ar buvo įstatymų nustatyta tvarka uždraustos organizacijos narys, jeigu nuo narystės pabaigos nepraėjo 3 metai;
 
-Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
+6) jis yra pripažintas šiurkščiai pažeidęs Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo reikalavimus ir nuo pažeidimo padarymo nepraėjo 3 metai.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
+Nr. XIV-2555, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07453
 
 ANTRASIS SKIRSNIS
 
@@ -2301,6 +2301,16 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2346, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25602
+
+16. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovas nepasibaigus jo kadencijai gali būti atšaukiamas iš pareigų švietimo įstaigos (išskyrus aukštąją mokyklą) steigimo dokumentuose nustatyta tvarka tik dėl šių priežasčių:
+
+1) asmuo praranda nepriekaištingą reputaciją;
+
+2) paaiškėja, kad dalyvaudamas viešame konkurse vadovo pareigoms eiti nuslėpė ar pateikė tikrovės neatitinkančius duomenis, dėl kurių negalėjo būti priimtas į vadovo pareigas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2555, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07453
 
 Straipsnio pakeitimai:
 
@@ -3371,6 +3381,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 4, 40 ir 70 straipsnių pakeitimo įstatymas
+
+56.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2555, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07453
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5-1 ir 59 straipsnių pakeitimo įstatymas
 
 73 straipsnis.
 
