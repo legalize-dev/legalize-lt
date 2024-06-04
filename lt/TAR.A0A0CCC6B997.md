@@ -4,7 +4,7 @@ identifier: "TAR.A0A0CCC6B997"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-27"
-last_updated: "2024-05-14"
+last_updated: "2024-06-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0A0CCC6B997"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Lietuvos Respublikos bausmių vykdymo kodeksas įsigalioja 2003-05-01."
 
 PATVIRTINTAS
 
-Suvestinė redakcija nuo 2024-05-14 iki 2024-06-03
+Suvestinė redakcija nuo 2024-06-04 iki 2024-07-17
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
 
@@ -699,6 +699,12 @@ LAIKINAS LAISVĖS ATĖMIMO BAUSMĘ ATLIEKANČIŲ NUTEISTŲJŲ IŠVYKIMAS IŠ BAU
 
 1. Terminuoto laisvės atėmimo bausmes atliekantiems nuteistiesiems gali būti leidžiama su palyda arba be jos išvykti iš bausmės atlikimo vietos Lietuvos Respublikos teritorijoje ne ilgiau kaip dešimt parų dėl artimojo mirties ar sunkios ligonio gyvybei gresiančios ligos, kuri patvirtinta gydytojų išvada, taip pat dėl gaivalinės nelaimės, padariusios didelę materialinę žalą nuteistajam ar jo artimiesiems, jeigu apie tai laisvės atėmimo vietų įstaigoje gauti kompetentingos institucijos dokumentai.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos bausmių vykdymo kodekso (2022 m. birželio 28 d. redakcija, TAR, 2022-07-14, Nr. 15495) 67 straipsnio 1 dalis tiek, kiek pagal ją nuteistiesiems, atliekantiems laisvės atėmimo iki gyvos galvos bausmę, nėra suteikiama teisė į trumpalaikes išvykas iš bausmės atlikimo vietos, prieštarauja Lietuvos Respublikos Konstitucijos 21 straipsnio 2, 3 dalims, 22 straipsnio 4 daliai, 29 straipsniui, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT47-N7/2024, 2024-06-04, paskelbta TAR 2024-06-04, i. k. 2024-10188
+
 2. Leidimą išvykti bausmės atlikimo vietoje terminuoto laisvės atėmimo bausmę atliekančiam nuteistajam duoda laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas, atsižvelgdamas į nuteistojo asmenybę, jo elgesį bausmės atlikimo metu ir nuteistojo išvykos iš bausmės atlikimo vietos metu aplinkiniams galinčio kilti pavojaus riziką, kai nuteistojo nusikalstamo elgesio rizika yra žema arba vidutinė, jei nustatyta pažanga ją mažinant. Laikas, kurį nuteistasis buvo išvykęs iš bausmės atlikimo vietos, įskaitomas į bausmės atlikimo laiką. Nuteistasis arba kiti jo nurodyti asmenys apmoka visas su nuteistojo kelione ir palyda susijusias laisvės atėmimo vietų įstaigos patiriamas išlaidas, apskaičiuotas teisingumo ministro nustatyta tvarka.
 
 3. Nepilnamečiai nuteistieji iš bausmės atlikimo vietos vyksta tik su palyda. Šiame straipsnyje nurodytos išvykos su palyda metu terminuoto laisvės atėmimo bausmę atliekantiems nuteistiesiems gali būti uždėti antrankiai. Laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno sprendimu be palydos vykstantys nuteistieji teisingumo ministro nustatyta tvarka gali būti stebimi elektroninio stebėjimo priemonėmis.
@@ -1328,6 +1334,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
 
 Lietuvos Respublikos bausmių vykdymo kodekso 15, 20, 21, 31, 37, 64, 68, 83, 90 ir 94 straipsnių pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT47-N7/2024, 2024-06-04, paskelbta TAR 2024-06-04, i. k. 2024-10188
+
+Dėl Lietuvos Respublikos bausmių vykdymo kodekso (2022 m. birželio 28 d. redakcija) 67 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
 
 109 straipsnis. Nuteistųjų užsieniečių teisė palaikyti ryšius su savo valstybių atstovais
 
