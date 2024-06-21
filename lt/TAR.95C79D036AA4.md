@@ -4,7 +4,7 @@ identifier: "TAR.95C79D036AA4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2022-05-01"
+last_updated: "2024-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2024-06-20
+Suvestinė redakcija nuo 2024-06-21 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 70-3170, i. k. 1031010ISTA0IX-1672
 
@@ -43,11 +43,13 @@ I SKYRIUS
 
 2) profesinės rizikos įvertinimo, nelaimingų atsitikimų darbe bei profesinių ligų tyrimo tvarkos bendrąsias nuostatas;
 
-3) darbuotojų saugos ir sveikatos reikalavimus, taikomus dirbantiems asmenims iki aštuoniolikos metų, nėščioms, neseniai pagimdžiusioms, krūtimi maitinančioms darbuotojoms, neįgaliesiems;
+3) darbuotojų saugos ir sveikatos reikalavimus, taikomus dirbantiems asmenims iki aštuoniolikos metų, nėščioms, neseniai pagimdžiusioms, krūtimi maitinančioms darbuotojoms;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 4) darbuotojų saugos ir sveikatos viešąjį administravimą ir valstybės institucijų kompetenciją, darbdavių, darbdavių atstovų ir darbuotojų teises bei pareigas siekiant sudaryti saugias ir sveikas darbo sąlygas, taip pat darbuotojų atstovų teises sudarant darbuotojams saugias ir sveikas darbo sąlygas;
 
@@ -131,7 +133,11 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 15. Įvykis darbe, dėl kurio darbuotojas patiria žalą sveikatai, – įvykis, įskaitant eismo įvykį, dėl kurio darbuotojas patiria žalą sveikatai arba dėl kurio darbuotojas miršta, nustatyta tvarka tiriamas nustatant jo priežastinį ryšį su darbu ir pripažįstamas ar nepripažįstamas nelaimingu atsitikimu darbe.
 
-16. Neįgalusis – kaip nustatyta Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme.
+16. Neteko galios nuo 2024-06-21
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 Straipsnio dalies pakeitimai:
 
@@ -208,6 +214,12 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 31. Profesinė sveikata – darbuotojų sveikata, kuriai išsaugoti ir stiprinti vykdoma darbo aplinkos kenksmingų veiksnių, lemiančių sveikatos pakenkimus, prevencija, darbo aplinkos pritaikymas darbuotojų fiziologinėms ir psichologinėms galimybėms, darbuotojų sveikatos priežiūra, įgyvendinamos sveikatos stiprinimo priemonės.
 
 32. Vaikas – asmuo iki 16 metų.
+
+33. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančiame Europos cheminių medžiagų agentūrą, iš dalies keičiančiame Direktyvą 1999/45/EB bei panaikinančiame Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su visais pakeitimais, Lietuvos Respublikos statybos įstatyme ir Lietuvos Respublikos užimtumo įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 Straipsnio pakeitimai:
 
@@ -329,11 +341,13 @@ Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
 
 10 straipsnis. Darbuotojų atstovų teisės
 
-1. Darbo taryba, darbuotojų patikėtinis arba Darbo kodekso 165 straipsnio 3 dalyje nurodytu atveju – profesinė sąjunga atstovauja darbuotojų interesams sudarant saugias ir sveikatai nekenksmingas darbo sąlygas, vadovaudamiesi Darbo kodeksu, šiuo Įstatymu ir kitais darbuotojų saugos ir sveikatos norminiais teisės aktais.
+1. Darbuotojų atstovai atstovauja darbuotojų interesams sudarant jiems saugias ir sveikatai nekenksmingas darbo sąlygas, vadovaudamiesi Darbo kodeksu, šiuo Įstatymu ir kitais darbuotojų saugos ir sveikatos norminiais teisės aktais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 2. Kolektyvinėse sutartyse gali būti nustatytos papildomos ir palankesnės saugių ir sveikatai nekenksmingų darbo sąlygų sudarymo darbuotojams nuostatos negu galiojančiuose darbuotojų saugos ir sveikatos norminiuose teisės aktuose. Tokių nuostatų vykdymą kontroliuoja darbdaviui atstovaujantys asmenys, darbdavio įgalioti asmenys, darbuotojų atstovai kolektyvinėse sutartyse nustatyta tvarka ir Valstybinė darbo inspekcija.
 
@@ -481,9 +495,13 @@ Nr. XI-2045, 2012-06-05, Žin., 2012, Nr. 69-3525 (2012-06-21)
 
 2) darbuotojų, kurių darbo vietos profesinės rizikos įvertinimo rezultatai rodo, kad kyla ar gali kilti rizika darbuotojų saugai ir sveikatai, – jiems įsidarbinant ir periodiškai pagal įmonėje patvirtintą darbuotojų sveikatos patikrinimo grafiką;
 
-3) darbuotojų, dirbančių naktimis ir pamainomis, – jiems įsidarbinant ir periodiškai pagal įmonėje patvirtintą darbuotojų sveikatos patikrinimo grafiką;
+3) darbuotojų, dirbančių naktimis ir pamainomis, – jiems įsidarbinant ir periodiškai pagal įmonėje patvirtintą darbuotojų sveikatos patikrinimo grafiką.
 
-4) neįgaliųjų – jiems įsidarbinant ir pasikeitus jų darbo sąlygoms.
+4) Neteko galios nuo 2024-06-21
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 2. Darbuotojai, pajutę neigiamą darbo ar darbo aplinkos poveikį sveikatai, turi teisę pasitikrinti sveikatą, o darbdavys, įtaręs, kad darbuotojo sveikatos būklė gali kelti grėsmę darbuotojo ar kitų darbuotojų saugai ir sveikatai, turi teisę siųsti darbuotoją pasitikrinti sveikatą kitu laiku, negu nustatytas darbuotojų sveikatos patikrinimo grafike. Darbdavys privalo suteikti darbuotojui pakankamai laiko pasitikrinti sveikatą. Tais atvejais, kai sveikatos priežiūros įstaigos išvadoje nurodyta, kad darbas ir (ar) darbo aplinka pakenkė darbuotojo sveikatai, darbdavys moka darbuotojui jo vidutinį darbo užmokestį už laiką, kurio metu jis tikrinosi sveikatą savo iniciatyva.
 
@@ -663,9 +681,13 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 9) laikytis įmonės darbo tvarkos taisyklėse, darbo grafike nustatyto darbo ir poilsio režimo;
 
-10) vykdyti padalinio vadovo, darbdaviui atstovaujančio asmens, kitų darbdavio įgaliotų asmenų bei pareigūnų, kontroliuojančių darbuotojų saugą ir sveikatą įmonėje, nurodymus;
+10) vykdyti padalinio vadovo, darbdaviui atstovaujančio asmens, kitų darbdavio įgaliotų asmenų bei pareigūnų, kontroliuojančių darbuotojų saugą ir sveikatą įmonėje, nurodymus.
 
-11) gavus Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išvadą dėl darbo pobūdžio ir sąlygų, išvados kopiją pateikti darbdaviui.
+11) Neteko galios nuo 2024-06-21
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 Papildyta straipsnio punktu:
 
@@ -771,13 +793,11 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 10. Kai nėščiai, neseniai pagimdžiusiai ar krūtimi maitinančiai darbuotojai reikia pasitikrinti sveikatą, ji privalo būti atleidžiama nuo darbo ir už tą laiką paliekamas darbo užmokestis, jeigu pasitikrinti sveikatą reikia darbo metu.
 
-38 straipsnis. Dirbančių neįgaliųjų saugos ir sveikatos garantijos
+38 straipsnis. Neteko galios nuo 2024-06-21
 
-1. Dirbančių neįgaliųjų saugą ir sveikatą garantuoja Darbo kodeksas, šis Įstatymas, kiti įstatymai bei darbuotojų saugos ir sveikatos norminiai teisės aktai. Papildomos saugos ir sveikatos garantijos neįgaliesiems gali būti numatytos kolektyvinėse sutartyse, darbo sutartyse.
+Straipsnio naikinimas:
 
-2. Sveikatos priežiūros įstaigos išvada dėl neįgaliojo galimybės dirbti konkretų darbą privaloma darbdaviui ir darbuotojui.
-
-3. Neįgalieji gali būti skiriami dirbti viršvalandinius darbus, dirbti naktį ir budėti, jeigu to jiems nedraudžia sveikatos priežiūros įstaigos išvada, tik su jų sutikimu.
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 Skyriaus pakeitimai:
 
@@ -905,13 +925,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
 
-8. Darbuotojas, darbdavys, Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba) ar Fondo valdybos teritorinis skyrius, nesutikdami su profesinės ligos patvirtinimo aktu, gali jį skųsti Centrinei darbo medicinos ekspertų komisijai. Centrinė darbo medicinos ekspertų komisija sprendžia ginčytinus klausimus, susijusius su profesinės ligos diagnozės nustatymu. Centrinė darbo medicinos ekspertų komisija sudaroma iš 12 Sveikatos apsaugos ministerijos, darbdavių ir darbuotojų organizacijų ir kitų valstybės įstaigų atstovų. Ne mažiau kaip 5 šios komisijos nariai turi būti asmens sveikatos priežiūros specialistai, turintys galiojančias medicinos praktikos licencijas, suteikiančias teisę verstis medicinos praktika pagal įgytą profesinę kvalifikaciją. Šios komisijos sudarymo, veiklos, jos kompetencijai priskiriamų ginčytinų klausimų, susijusių su profesinės ligos diagnozės nustatymu, sprendimo tvarką nustato sveikatos apsaugos ministro patvirtinti Centrinės darbo medicinos ekspertų komisijos nuostatai. Centrinės darbo medicinos ekspertų komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. Darbuotojas, darbdavys, Fondo valdyba ar Fondo valdybos teritorinis skyrius, nesutikdami su Centrinės darbo medicinos ekspertų komisijos sprendimu, gali jį skųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+8. Jeigu darbuotojas, darbdavys, Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba) ar Fondo valdybos teritorinis skyrius nesutinka su profesinės ligos patvirtinimo aktu, gali jį skųsti Centrinei darbo medicinos ekspertų komisijai. Centrinė darbo medicinos ekspertų komisija sprendžia ginčytinus klausimus, susijusius su profesinės ligos diagnozės nustatymu. Centrinė darbo medicinos ekspertų komisija sudaroma iš 12 Sveikatos apsaugos ministerijos, darbdavių ir darbuotojų organizacijų ir kitų valstybės įstaigų atstovų. Ne mažiau kaip 5 šios komisijos nariai turi būti asmens sveikatos priežiūros specialistai, turintys galiojančias medicinos praktikos licencijas, suteikiančias teisę verstis medicinos praktika pagal įgytą profesinę kvalifikaciją. Šios komisijos sudarymo, veiklos, jos kompetencijai priskiriamų ginčytinų klausimų, susijusių su profesinės ligos diagnozės nustatymu, sprendimo tvarką nustato sveikatos apsaugos ministro patvirtinti Centrinės darbo medicinos ekspertų komisijos nuostatai. Centrinės darbo medicinos ekspertų komisijos narių darbas apmokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka. Jeigu darbuotojas, darbdavys, Fondo valdyba ar Fondo valdybos teritorinis skyrius nesutinka su Centrinės darbo medicinos ekspertų komisijos sprendimu, gali jį skųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
 
 Nr. XIII-1746, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20719
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 9. Įvykį darbe, dėl kurio darbuotojas patiria žalą sveikatai ir dėl kurio mirė 3 ir daugiau darbuotojų, tiria komisija. Šios komisijos pirmininkas yra vyriausiasis valstybinis darbo inspektorius, nariai – vyriausiojo valstybinio darbo inspektoriaus pavaduotojas, Valstybinės darbo inspekcijos teritorinio skyriaus vedėjas ir šio skyriaus 2 darbo inspektoriai. Atliekant tyrimą, dalyvauja darbdavio atstovas ir darbuotojų atstovo (atstovų) skirti asmenys.
 
@@ -1249,6 +1271,14 @@ Nr. XIV-551, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21218
 
 Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 4, 15 straipsnių ir priedo pakeitimo įstatymas
 
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
+
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 1, 2, 4, 10, 13, 15, 18, 21, 23, 28, 33, 44, 46 straipsnių, V skyriaus pavadinimo pakeitimo ir 38 straipsnio pripažinimo netekusiu galios įstatymas
+
 13 straipsnis. Darbuotojų dalyvavimas įgyvendinant darbuotojų saugos ir sveikatos priemones. Darbuotojų saugos ir sveikatos komitetai, darbuotojų atstovai saugai ir sveikatai
 
 Pakeistas straipsnio pavadinimas:
@@ -1283,11 +1313,13 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 3. Darbdavys, vadovaudamasis Darbuotojų saugos ir sveikatos komitetų bendraisiais nuostatais, rengia įmonės komiteto ar laivo komiteto nuostatus. Suderinęs su darbuotojų atstovais, šiuos nuostatus tvirtina darbdaviui atstovaujantis asmuo.
 
-4. Kiekvienoje darbo pamainoje privalo būti ne mažiau kaip vienas darbuotojų atstovas saugai ir sveikatai. Darbo taryba, darbuotojų patikėtinis arba Darbo kodekso 165 straipsnio 3 dalyje nurodytu atveju – profesinė sąjunga įmonės darbuotojų kolektyvo susirinkime organizuoja darbuotojų atstovų saugai ir sveikatai rinkimus. Jeigu įmonėje nėra darbuotojų atstovų, darbuotojų atstovų saugai ir sveikatai rinkimus įmonės darbuotojų kolektyvo susirinkime organizuoja darbdavys. Kai įmonėje steigiamas komitetas, vadovaujantis įmonės komiteto nuostatais darbuotojų kolektyvo susirinkime iš išrinktų darbuotojų atstovų saugai ir sveikatai išrenkami komiteto nariai. Įmonės padalinių ir darbuotojų, kuriems atstovauja darbuotojų atstovas saugai ir sveikatai, skaičių nustato darbo taryba, darbuotojų patikėtinis arba Darbo kodekso 165 straipsnio 3 dalyje nurodytu atveju – profesinė sąjunga, o jeigu jų nėra, – įmonės darbuotojų kolektyvo susirinkimas. Jeigu įmonėje yra daugiau kaip vienas darbuotojų atstovas saugai ir sveikatai, vienas iš jų renkamas vyresniuoju darbuotojų atstovu saugai ir sveikatai ir koordinuoja visų įmonės darbuotojų atstovų saugai ir sveikatai veiklą. Laive, vadovaujantis laivo komiteto nuostatais, darbuotojų atstovas (atstovai) saugai ir sveikatai ir laivo komiteto narys (nariai) renkamas (renkami) laivo darbuotojų susirinkime. Duomenys apie darbuotojų atstovus saugai ir sveikatai bei darbuotojų saugos ir sveikatos komiteto narius turi būti paskelbti viešai visiems įmonės ar laivo darbuotojams.
+4. Kiekvienoje darbo pamainoje privalo būti ne mažiau kaip vienas darbuotojų atstovas saugai ir sveikatai. Darbo taryba, darbuotojų patikėtinis, darbo tarybos funkcijas atliekanti profesinė sąjunga ar jungtinė profesinių sąjungų atstovybė arba, jeigu tokių darbuotojų atstovų įmonėje nėra, darbovietėje darbdavio lygmeniu veikianti profesinė sąjunga, o jeigu darbovietėje yra kelios darbdavio lygmeniu veikiančios profesinės sąjungos, jų narių išrinkta profesinė sąjunga arba jungtinė profesinių sąjungų atstovybė (toliau kartu šiame straipsnyje – profesinė sąjunga) įmonės darbuotojų kolektyvo susirinkime organizuoja darbuotojų atstovų saugai ir sveikatai rinkimus. Jeigu įmonėje nėra darbuotojų atstovų, darbuotojų atstovų saugai ir sveikatai rinkimus įmonės darbuotojų kolektyvo susirinkime organizuoja darbdavys. Jeigu įmonėje steigiamas komitetas, vadovaujantis jo nuostatais, darbuotojų kolektyvo susirinkime iš išrinktų darbuotojų atstovų saugai ir sveikatai išrenkami komiteto nariai. Įmonės padalinių ir darbuotojų, kuriems atstovauja darbuotojų atstovas saugai ir sveikatai, skaičių nustato darbo taryba, darbuotojų patikėtinis arba profesinė sąjunga, o jeigu jų nėra, – įmonės darbuotojų kolektyvo susirinkimas. Jeigu įmonėje yra daugiau kaip vienas darbuotojų atstovas saugai ir sveikatai, vienas iš jų renkamas vyresniuoju darbuotojų atstovu saugai ir sveikatai ir koordinuoja visų įmonės darbuotojų atstovų saugai ir sveikatai veiklą. Laive, vadovaujantis laivo komiteto nuostatais, darbuotojų atstovas (atstovai) saugai ir sveikatai ir laivo komiteto narys (nariai) renkamas (renkami) laivo darbuotojų susirinkime. Duomenys apie darbuotojų atstovus saugai ir sveikatai bei komiteto narius (pareigos, vardas, pavardė, ryšio numeris, elektroninio pašto adresas) turi būti paskelbti viešai (įmonės, laivo informaciniuose stenduose ar kitais įmonėje, laive įprastais vidinio informavimo būdais) visiems įmonės ar laivo darbuotojams. Šie duomenys skelbiami viešai, siekiant užtikrinti darbuotojų konsultavimąsi ir jų dalyvavimą sprendžiant darbuotojų saugos ir sveikatos klausimus įmonėje ar laive tol, kol asmenys eina darbuotojų atstovų saugai ir sveikatai ar komiteto narių pareigas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 5. Darbuotojų atstovai saugai ir sveikatai atlieka šias funkcijas:
 
@@ -1607,7 +1639,11 @@ ATSKIRŲ DARBUOTOJŲ GRUPIŲ SAUGOS IR SVEIKATOS GARANTIJOS
 
 V SKYRIUS
 
-ASMENŲ IKI AŠTUONIOLIKOS METŲ, NĖŠČIŲ, NESENIAI PAGIMDŽIUSIŲ, KRŪTIMI MAITINANČIŲ DARBUOTOJŲ, NEĮGALIŲJŲ SAUGA
+ASMENŲ IKI AŠTUONIOLIKOS METŲ, NĖŠČIŲ, NESENIAI PAGIMDŽIUSIŲ, KRŪTIMI MAITINANČIŲ DARBUOTOJŲ SAUGA
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 43 straipsnis. Pranešimai apie nelaimingus atsitikimus pakeliui į darbą ar iš darbo, įvykius darbe, dėl kurių darbuotojai patiria žalą sveikatai, incidentus, profesines ligas
 
