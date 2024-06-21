@@ -4,7 +4,7 @@ identifier: "TAR.3BAADED2C30B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2024-01-01"
+last_updated: "2024-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-20
+Suvestinė redakcija nuo 2024-06-21 iki 2024-07-02
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2635, i. k. 1021010ISTA00IX-975
 
@@ -131,13 +131,23 @@ Nr. XIII-1878, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00229
 
 29. Kredito įstaigos, finansų maklerio įmonės ar valdymo įmonės filialas (toliau – filialas) – juridinio asmens statuso neturintis struktūrinis kredito įstaigos, finansų maklerio įmonės ar valdymo įmonės padalinys, kurio veiklos vieta yra valstybėje narėje ir kuris atlieka visas kredito įstaigos, finansų maklerio įmonės ar valdymo įmonės funkcijas arba jų dalį.
 
+291. Kredito įstaigos nuosavos lėšos – kaip tai apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 118 punkte.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
+
 30. Mažos rizikos turtas – Reglamento (ES) Nr. 575/2013 336 straipsnio 1 lentelėje nurodytas pirmos ir antros kategorijų turtas ar kitas turtas, kurį draudimo įmonė laiko tokiu pat saugiu ir likvidžiu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 
-31. Nuosavos lėšos – kaip tai apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 118 punkte.
+31. Neteko galios nuo 2024-06-21
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 32. Pagrindinis apdraustasis indėlis – apdraustojo indėlio dalis, kuri neviršija 100 000 eurų.
 
@@ -183,7 +193,11 @@ IndĖlių draudimas
 
 1) kitų kredito įstaigų indėliai, laikomi savo sąskaita ir savo vardu;
 
-2) nuosavos lėšos;
+2) kredito įstaigos nuosavos lėšos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 3) indėliai, dėl kurių priimtas apkaltinamasis nuosprendis baudžiamojoje byloje dėl pinigų plovimo;
 
@@ -361,7 +375,11 @@ Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 
 3. Specialiąsias (ex post) indėlių draudimo įmokas indėlių draudimo sistemos dalyvis moka, kai yra šio įstatymo 14 straipsnyje nustatytos sąlygos.
 
-4. Indėlių draudimo įmokos mokamos eurais. Draudimo įmonė gali leisti indėlių draudimo sistemos dalyviui iki 30 procentų savo periodinių (ex ante) indėlių draudimo įmokų padengti mokėjimo įsipareigojimais. Mokėjimo įsipareigojimai negali sudaryti daugiau kaip 30 procentų visų Indėlių draudimo fondo finansinių išteklių sumos. Draudimo įmonė nustato ir savo interneto svetainėje skelbia įmokų užtikrinimo mokėjimo įsipareigojimais tvarką.
+4. Indėlių draudimo įmokos mokamos eurais. Draudimo įmonė gali leisti indėlių draudimo sistemos dalyviui iki 30 procentų savo periodinių (ex ante) indėlių draudimo įmokų padengti mokėjimo įsipareigojimais. Mokėjimo įsipareigojimai negali sudaryti daugiau kaip 30 procentų visų Indėlių draudimo fondo finansinių išteklių sumos. Įmokų užtikrinimo mokėjimo įsipareigojimais tvarką nustato draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija. Ši tvarka skelbiama draudimo įmonės interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 5. Jeigu indėlių draudimo sistemos dalyvis per šio straipsnio 1 dalyje nustatytą terminą nesumoka indėlių draudimo įmokos arba jos dalies, už kiekvieną pavėluotą dieną skaičiuojami ir mokami 0,02 procento delspinigiai nuo nesumokėtos sumos. Delspinigiai apskaičiuojami ir mokami pagal draudimo įmonės savininko teises ir pareigas įgyvendinančios institucijos nustatytą delspinigių už laiku nesumokėtą indėlių draudimo įmoką skaičiavimo ir mokėjimo tvarką. Jeigu indėlių draudimo sistemos dalyvis nesumoka indėlių draudimo įmokų, reikiama suma ir delspinigiai iš jo išieškomi Lietuvos Respublikos įstatymų nustatyta tvarka. Nesumokėti delspinigiai yra išieškomi, jeigu jų išieškojimo sąnaudos neviršija išieškomos sumos. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą laiku nesumokėtą indėlių draudimo įmoką.
 
@@ -729,10 +747,6 @@ Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 
 1. Indėlininkas įgyja teisę į indėlių draudimo išmoką nuo indėlių draudžiamojo įvykio dienos. Jeigu indėlių draudžiamojo įvykio dieną indėlininkui priklausančios lėšos vadovaujantis įstatymais turi būti laikomos depozitinėje sąskaitoje, indėlininkams priklausančios draudimo išmokos šiame straipsnyje nustatyta tvarka išmokamos tam asmeniui, kurio vardu atidarytoje sąskaitoje laikomos indėlininkams priklausančios lėšos. Indėlių draudimo išmoka mokama eurais. Indėlių draudimo išmoka mokama euro centų tikslumu – dviejų skaitmenų po kablelio tikslumu ir apvalinama pagal matematines skaičių apvalinimo taisykles.
 
-2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 10 darbo dienų nuo indėlių draudžiamojo įvykio dienos.
-
-2 dalies redakcija nuo 2024 m. sausio 1 d.:
-
 2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 7 darbo dienas nuo indėlių draudžiamojo įvykio dienos.
 
 3. Indėlininkas turi teisę į avansinę minimaliosios mėnesinės algos dydžio, bet ne didesnę negu indėlininko turima tinkamo drausti indėlio suma, indėlių draudimo išmokos dalį (toliau – avansinė indėlių draudimo išmoka), kuri indėlininko prašymu išmokama per 5 darbo dienas nuo jo prašymo gavimo draudimo įmonėje dienos, su sąlyga, kad draudimo įmonė neišmokės indėlių draudimo išmokos per 7 darbo dienas nuo indėlių draudžiamojo įvykio dienos. Išmokėta avansinė indėlių draudimo išmoka atimama iš bendros šiam indėlininkui apskaičiuotos indėlių draudimo išmokos sumos. Avansinės indėlių draudimo išmokos dydis apskaičiuojamas pagal šio įstatymo 6 straipsnio 7 dalį, o išmokėjimo tvarkai mutatis mutandis taikomos šio straipsnio 4, 5, 6 ir 7 dalių nuostatos.
@@ -793,11 +807,13 @@ Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 
 14. Draudimo įmonė su indėlininkais susirašinėja valstybės narės, kurioje laikomas apdraustasis indėlis, valstybine kalba ar kalbomis, o kai kredito įstaiga vykdo veiklą tiesiogiai kitoje valstybėje narėje neįsteigusi filialo, – ta kalba, kurią indėlininkas pasirinko atidarant sąskaitą, laikydamiesi Lietuvos Respublikos valstybinės kalbos įstatymo reikalavimų.
 
-15. Indėlių draudimo išmokų ir avansinių indėlių draudimo išmokų išmokėjimo tvarką ir mokėjimo paslaugų teikėjo (teikėjų), per kurį (kuriuos) bus mokamos indėlių draudimo išmokos, atrankos tvarką nustato draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija. Indėlių draudimo išmokų ir avansinių indėlių draudimo išmokų išmokėjimo tvarka skelbiama draudimo įmonės interneto svetainėje. Indėlių draudimo išmokų išmokėjimo paslaugų įsigijimui taikomas specialus informacijos apsaugos reikalavimas – apie pasirengimą įsigyti indėlių draudimo išmokų išmokėjimo paslaugas ir šių paslaugų įsigijimą neskelbiama viešai.
+15. Indėlių draudimo išmokų išmokėjimo tvarką ir mokėjimo paslaugų teikėjo (teikėjų), per kurį (kuriuos) bus mokamos indėlių draudimo išmokos, atrankos tvarką nustato draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija. Indėlių draudimo išmokų išmokėjimo tvarka skelbiama draudimo įmonės interneto svetainėje. Indėlių draudimo išmokų išmokėjimo paslaugų įsigijimui taikomas specialus informacijos apsaugos reikalavimas – apie pasirengimą įsigyti indėlių draudimo išmokų išmokėjimo paslaugas ir šių paslaugų įsigijimą neskelbiama viešai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 25 straipsnis. Informavimas apie įsipareigojimų investuotojams draudimą
 
@@ -841,11 +857,13 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 
 6) trečiųjų valstybių bankai, finansų maklerio įmonės, valdymo įmonės, Lietuvos Respublikoje įsteigusios filialą, kuriuose prisiimti įsipareigojimai investuotojams nedraudžiami arba kitaip neužtikrinamas jų saugumas pagal trečiosios valstybės, kurios jurisdikcijai priklauso filialą įsteigęs bankas, finansų maklerio įmonė ar valdymo įmonė, teisės aktus;
 
-7) trečiųjų valstybių bankai, finansų maklerio įmonės, valdymo įmonės, Lietuvos Respublikoje įsteigusios filialą, kuriuose prisiimti įsipareigojimai investuotojams yra draudžiami (kompensuojami) arba kitaip užtikrinamas jų saugumas pagal trečiosios valstybės teisės aktus, tačiau draudimo įmonės taryba nustato, kad šios įsipareigojimų investuotojams draudimo (kompensavimo) arba kitokios saugumo užtikrinimo sąlygos yra blogesnės, negu nustatyta šiame įstatyme.
+7) trečiųjų valstybių bankai, finansų maklerio įmonės, valdymo įmonės, Lietuvos Respublikoje įsteigusios filialą, kuriuose prisiimti įsipareigojimai investuotojams yra draudžiami (kompensuojami) arba kitaip užtikrinamas jų saugumas pagal trečiosios valstybės teisės aktus, tačiau draudimo įmonė nustato, kad šios įsipareigojimų investuotojams draudimo (kompensavimo) arba kitokios saugumo užtikrinimo sąlygos yra blogesnės, negu nustatyta šiame įstatyme.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 2. Šio straipsnio 1 dalies 1, 3 ir 4 punktuose nurodyti subjektai, valstybėje narėje įsteigę filialą, šiame filiale prisiimtus įsipareigojimus investuotojams privalo drausti pagal šį įstatymą.
 
@@ -1195,7 +1213,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 
-3. Kiekvieno Pertvarkymo fondo dalyvio įmoka nustatoma proporcingai jo įsipareigojimų, išskyrus nuosavas lėšas ir pagrindinius apdraustuosius indėlius, sumos ir bendros visų Lietuvos Respublikoje licencijuotų įstaigų įsipareigojimų, išskyrus nuosavas lėšas ir pagrindinius apdraustuosius indėlius, sumos santykiui. Šis dydis koreguojamas įvertinus Pertvarkymo fondo dalyvio rizikos pobūdį, kaip nustatyta Europos Komisijos deleguotuosiuose ir pertvarkymo institucijos teisės aktuose.
+3. Kiekvieno Pertvarkymo fondo dalyvio įmoka nustatoma proporcingai jo įsipareigojimų, išskyrus kredito įstaigos nuosavas lėšas ir pagrindinius apdraustuosius indėlius, sumos ir bendros visų Lietuvos Respublikoje licencijuotų įstaigų įsipareigojimų, išskyrus kredito įstaigos nuosavas lėšas ir pagrindinius apdraustuosius indėlius, sumos santykiui. Šis dydis koreguojamas įvertinus Pertvarkymo fondo dalyvio rizikos pobūdį, kaip nustatyta Europos Komisijos deleguotuosiuose ir pertvarkymo institucijos teisės aktuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 4. Pertvarkymo institucija kiekvienais metais nustato periodinių (ex ante) įmokų bendrą metinę normą ir kiekvienos įstaigos tais metais mokėtinos periodinės (ex ante) įmokos dydį.
 
@@ -1533,11 +1555,13 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
-indėlių ir įsipareigojimų investuotojams draudimo įstatymo
+indėlių ir įsipareigojimų
+
+investuotojams draudimo įstatymo
 
 1 priedas
 
@@ -1547,71 +1571,87 @@ INFORMACIJA INDĖLININKUI
 
 Pagrindinė informacija apie indėlio apsaugą
 
+1.
+
 (Įrašyti kredito įstaigos pavadinimą) laikomi indėliai yra draudžiami
 
 (Įrašyti draudimo įmonės pavadinimą)
 
+2.
+
 Apsaugos riba
 
-iki 100 000 eurų vienam indėlininkui už visus vienoje kredito įstaigoje laikomus indėlius1
+iki 100 000 eurų vienam indėlininkui už visus vienoje kredito įstaigoje laikomus indėlius
 
-Jei turite daugiau indėlių toje pačioje kredito įstaigoje
+3.
 
-visi jūsų indėliai, laikomi toje pačioje kredito įstaigoje, susumuojami ir bendrai sumai taikoma 100 000 eurų apsaugos riba1
+Jeigu turite daugiau indėlių toje pačioje kredito įstaigoje,
 
-Jei turite bendrą sąskaitą su kitu (kitais) asmeniu (asmenimis)
+visi jūsų indėliai, laikomi toje pačioje kredito įstaigoje, susumuojami ir bendrai sumai taikoma 100 000 eurų apsaugos riba
 
-100 000 eurų riba atskirai taikoma kiekvienam indėlininkui2
+4.
 
-Indėlių draudimo išmokos išmokėjimo terminas, jeigu kredito įstaiga nevykdo įsipareigojimų
+Jeigu turite bendrą sąskaitą su kitu (kitais) asmeniu (asmenimis),
 
-20 darbo dienų3 (patikslinti įsigaliojus kitam terminui)
+100 000 eurų riba atskirai taikoma kiekvienam indėlininkui
+
+5.
+
+Indėlių draudimo išmokos išmokėjimo terminas, jeigu kredito įstaiga nevykdo įsipareigojimų,
+
+7 darbo dienos
+
+6.
 
 Indėlių draudimo išmokos išmokėjimo valiuta
 
 eurai
 
+7.
+
 Kontaktiniai duomenys
 
-(Įrašyti draudimo įmonės pavadinimą, adresą, telefoną, faksą, el. pašto adresą)
+(Įrašyti draudimo įmonės pavadinimą, adresą, telefono, fakso numerį, el. pašto adresą)
+
+8.
 
 Daugiau informacijos
 
-www.iidraudimas.lt
+iidraudimas.lt
+
+9.
 
 Indėlininko patvirtinimas, kad gavo informaciją
 
 Pastabos:
 
-1 Jeigu indėlis negrąžinamas dėl to, kad kredito įstaiga nepajėgi įvykdyti savo finansinių įsipareigojimų, indėlininkams draudimo įmonė išmoka indėlių draudimo išmokas. Didžiausia indėlių, laikomų vienoje kredito įstaigoje, draudimo išmokos suma vienam indėlininkui yra 100 000 eurų. Nustatant indėlių draudimo išmokos dydį, visi toje pačioje kredito įstaigoje laikomi indėliai yra susumuojami. Pavyzdžiui, jeigu indėlininkas turi taupomąją sąskaitą, kurioje yra 90 000 eurų, ir einamąją sąskaitą, kurioje yra 20 000 eurų, jam bus išmokama tik 100 000 eurų draudimo išmoka.
+1. Paaiškinimas dėl 2 ir 3 punktuose pateikiamos informacijos. Jeigu indėlis negrąžinamas dėl to, kad kredito įstaiga nepajėgi įvykdyti savo finansinių įsipareigojimų, indėlininkams draudimo įmonė išmoka indėlių draudimo išmokas. Didžiausia indėlių, laikomų vienoje kredito įstaigoje, draudimo išmokos suma vienam indėlininkui yra 100 000 eurų. Nustatant indėlių draudimo išmokos dydį, visi toje pačioje kredito įstaigoje laikomi indėliai yra susumuojami. Pavyzdžiui, jeigu indėlininkas turi taupomąją sąskaitą, kurioje yra 90 000 eurų, ir einamąją sąskaitą, kurioje yra 20 000 eurų, jam bus išmokama tik 100 000 eurų draudimo išmoka.
 
 Tam tikrais atvejais (kai į indėlininko sąskaitą ne anksčiau kaip prieš 6 mėnesius iki indėlių draudžiamojo įvykio dienos pervesti pinigai už parduotą indėlininkui nuosavybės teise priklausiusį gyvenamąjį būstą; indėlininko paveldėti pinigai pagal testamentą arba pagal įstatymą; indėlininko kaip naudos gavėjo pagal gyvybės draudimo sutartį ar jos esmę atitinkančią sutartį mirties atveju gauti pinigai; indėlininko kaip kompensacija arba išmoka įstatymų nustatytais atvejais dėl kito asmens žūties atliekant darbo ar tarnybines pareigas gauti pinigai; išmokos ar kompensacijos už smurtiniais nusikaltimais padarytą žalą) indėliai apsaugomi didesne kaip 100 000 eurų suma.
 
-Daugiau informacijos galima rasti interneto svetainėje adresu: www.iidraudimas.lt.
+Daugiau informacijos galima rasti interneto svetainėje iidraudimas.lt.
 
-2 Jeigu turite bendrą sąskaitą su kitu (kitais) asmeniu (asmenimis), 100 000 eurų apsaugos riba atskirai taikoma kiekvienam indėlio bendraturčiui.
+2. Paaiškinimas dėl 4 punkte pateikiamos informacijos. Jeigu turite bendrą sąskaitą su kitu (kitais) asmeniu (asmenimis), 100 000 eurų apsaugos riba atskirai taikoma kiekvienam indėlio bendraturčiui.
 
-3 Draudimo išmokų išmokėjimas.
+3. Paaiškinimas dėl 5 punkte pateikiamos informacijos. Draudimo išmokų išmokėjimas.
 
-Atsakinga už indėlių draudimo sistemą yra draudimo įmonė (įrašyti draudimo įmonės pavadinimą, adresą, telefoną, faksą, el. pašto adresą), interneto svetainė: www.iidraudimas.lt. Ji grąžins jūsų indėlius (iki 100 000 eurų) ne vėliau kaip per:
+Atsakinga už indėlių draudimo sistemą yra draudimo įmonė (įrašyti draudimo įmonės pavadinimą, adresą, telefono, fakso numerį, el. pašto adresą), interneto svetainė iidraudimas.lt. Ji grąžins jūsų indėlius (iki 100 000 eurų) ne vėliau kaip per 7 darbo dienas.
 
-– 10 darbo dienų nuo 2021 m. sausio 1 d. iki 2023 m. gruodžio 31 d.;
+Jeigu per šį terminą draudimo išmoka jums nebuvo išmokėta, turėtumėte susisiekti su draudimo įmone. Daugiau informacijos galima rasti interneto svetainėje iidraudimas.lt.
 
-– 7 darbo dienas nuo 2024 m. sausio 1 d.
-
-Jeigu iki 2023 m. gruodžio 31 d. indėlių draudimo išmokos neišmokamos per 7 darbo dienas nuo indėlių draudžiamojo įvykio dienos, nuo 2016 m. gegužės 16 d. indėlininko prašymu jam per 5 darbo dienas nuo prašymo gavimo dienos išmokama minimaliosios mėnesinės algos dydžio, bet ne didesnė negu indėlininko turimų tinkamų drausti indėlių suma, indėlių draudimo išmokos dalis (avansinė indėlių draudimo išmoka).
-
-Jeigu per šiuos terminus draudimo išmoka jums nebuvo išmokėta, turėtumėte susisiekti su draudimo įmone. Daugiau informacijos galima rasti interneto svetainėje adresu: www.iidraudimas.lt.
-
-Kita svarbi informacija
+4. Kita svarbi informacija
 
 Iš principo visi mažmeninių indėlininkų ir įmonių indėliai yra apdrausti draudimo įmonėje.
 
-Tam tikriems indėliams taikomos išimtys nurodytos draudimo įmonės interneto svetainėje www.iidraudimas.lt. Jūsų paprašyta kredito įstaiga taip pat informuos jus, ar tam tikri produktai yra apdrausti. Jeigu indėliai apdrausti, kredito įstaiga tai patvirtina ir sąskaitos išraše.
+Tam tikriems indėliams taikomos išimtys yra nurodytos draudimo įmonės interneto svetainėje iidraudimas.lt. Jūsų paprašyta kredito įstaiga taip pat informuos jus, ar tam tikri produktai yra apdrausti. Jeigu indėliai apdrausti, kredito įstaiga tai patvirtina ir sąskaitos išraše.
+
+_____________________
 
 Priedo pakeitimai:
 
 Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 Lietuvos Respublikos
 
@@ -1778,4 +1818,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 
 Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 6, 7, 10, 11, 12, 13, 14, 16, 17, 18, 22, 23, 25, 26, 27, 28, 29, 30, 38, 39, 40, 42, 43, 45 straipsnių, penktojo, šeštojo skirsnių pavadinimų ir 1 priedo pakeitimo, Įstatymo papildymo 16-1, 48 straipsniais ir 36, 37, 41 straipsnių pripažinimo netekusiais galios įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
+
+Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 3, 7, 12, 13, 14, 26, 33 straipsnių ir 1 priedo pakeitimo įstatymas
 
