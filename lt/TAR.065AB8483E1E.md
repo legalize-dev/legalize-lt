@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2024-05-01"
+last_updated: "2024-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-20
+Suvestinė redakcija nuo 2024-06-21 iki 2024-09-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -746,7 +746,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
-10. Policija, siekdama gauti šio straipsnio 9 dalies 1 ar 2 punkte nurodytą leidimą duoti motyvuotus privalomus nurodymus pašalinti neskelbtiną informaciją arba panaikinti galimybę ją pasiekti ilgiau kaip 72 valandoms, privalo pirmosios instancijos administraciniam teismui pateikti prašymą išduoti leidimą atlikti šiuos veiksmus. Šiame prašyme turi būti nurodyta įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jeigu žinomi), įtariamo pažeidimo pobūdis ir veiksmai, kuriuos numatoma atlikti. Teismas prašymą išduoti leidimą atlikti šiuos veiksmus išnagrinėja ir priima motyvuotą nutartį patenkinti prašymą išduoti leidimą atlikti šiuos veiksmus arba atmesti šį prašymą. Prašymas išduoti leidimą atlikti šiuos veiksmus turi būti išnagrinėtas ir teismo nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti šiuos veiksmus pateikimo momento. Jeigu policija nesutinka su teismo nutartimi atmesti prašymą išduoti leidimą atlikti šiuos veiksmus, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo apskųsti ją Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl teismo nutarties atmesti prašymą išduoti leidimą atlikti šiuos veiksmus turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo policijos skundo priėmimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti šiuos veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų atlikti veiksmų slaptumą.
+10. Policija, įgyvendindama Reglamento (ES) 2021/784 4 straipsnio 3 ir 4 dalių nuostatas dėl įvertinimo, ar iš kitos valstybės kompetentingos institucijos gautas privalomas nurodymas nepažeidžia šio reglamento ar Europos Sąjungos pagrindinių teisių chartijos garantuojamų pagrindinių teisių ir laisvių, turi teisę kreiptis į žurnalistų etikos inspektorių.
 
 Papildyta straipsnio dalimi:
 
@@ -757,6 +757,8 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
 Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+
+Nr. XIV-2725, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11246
 
 11. Elektroninės informacijos prieglobos paslaugų teikėjai:
 
