@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2024-05-01"
+last_updated: "2024-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-20
+Suvestinė redakcija nuo 2024-06-21 iki 2024-10-17
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -1728,7 +1728,13 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 4) Lietuvos Respublikos Vyriausybė, vadovaudamasi Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme įtvirtintais kriterijais, yra priėmusi sprendimą, patvirtinantį, kad šios dalies 1 ir 2 punktuose nurodyti subjektai ar su jais ketinamas sudaryti (sudarytas) sandoris neatitinka nacionalinio saugumo interesų;
 
-5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies 1 ir 2 punktuose nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui.
+5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies 1 ir 2 punktuose nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui;
+
+6) tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, vykdo veiklą šio įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose arba yra ūkio subjektų grupės, kurios bet kuris narys vykdo veiklą šio įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose, narys arba jos vadovas, kitas valdymo ar priežiūros organo narys ar kitas asmuo (kiti asmenys), turintis (turintys) teisę atstovauti tiekėjui, subtiekėjui, ūkio subjektui, kurio pajėgumais remiamasi, ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, ir tokiu būdu dalyvauja tokių ūkio subjektų grupių ir (ar) ūkio subjektų veikloje.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2750, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11294
 
 Straipsnio dalies pakeitimai:
 
@@ -1746,11 +1752,15 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
-5. Perkančioji organizacija, tikrindama paraiškos ar pasiūlymo atitiktį šio įstatymo 45 straipsnio 21 dalies 1, 2, 3 punktų reikalavimams, iš tiekėjo reikalauja pateikti laisvos formos atitikties deklaraciją. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo nurodytos informacijos, įrodančios šio įstatymo 45 straipsnio 21 dalies 1, 2, 3 punktų reikalavimus, teisingumo, ji privalo paprašyti ekonomiškai naudingiausią pasiūlymą pateikusio tiekėjo pateikti informaciją patvirtinančius šio įstatymo 51 straipsnio 12 dalyje nurodytus (vieną ar kelis) ar kitus perkančiajai organizacijai priimtinus dokumentus. Perkančioji organizacija šių dokumentų gali paprašyti ir iš kandidatų ar dalyvių bet kuriuo pirkimo procedūros metu, jeigu tai būtina siekiant užtikrinti tinkamą pirkimo procedūros atlikimą.
+5. Perkančioji organizacija, tikrindama paraiškos ar pasiūlymo atitiktį šio įstatymo 45 straipsnio 21 dalies 1, 2, 3, 6 punktų reikalavimams, iš tiekėjo reikalauja pateikti laisvos formos atitikties deklaraciją. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo nurodytos informacijos, įrodančios šio įstatymo 45 straipsnio 21 dalies 1, 2, 3, 6 punktų reikalavimų atitiktį, teisingumo, ji privalo paprašyti ekonomiškai naudingiausią pasiūlymą pateikusio tiekėjo pateikti informaciją patvirtinančius šio įstatymo 51 straipsnio 12 dalyje nurodytus (vieną ar kelis) ar kitus perkančiajai organizacijai priimtinus dokumentus ir (ar) paaiškinimus. Perkančioji organizacija šių dokumentų ir (ar) paaiškinimų gali paprašyti ir iš kandidatų ar dalyvių bet kuriuo pirkimo procedūros metu, jeigu tai būtina siekiant užtikrinti tinkamą pirkimo procedūros atlikimą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2750, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11294
 
 46 straipsnis. Tiekėjo pašalinimo pagrindai
 
