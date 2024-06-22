@@ -4,7 +4,7 @@ identifier: "TAR.299D835159BE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-04-21"
-last_updated: "2018-07-16"
+last_updated: "2024-06-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.299D835159BE"
 department: "Lietuvos Respublikos Seimas"
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS ASMENS DUOMENŲ, TVARKOMŲ VYKDANT POLICIJOS IR
 
 TEISMINĮ BENDRADARBIAVIMĄ BAUDŽIAMOSIOSE BYLOSE, TEISINĖS APSAUGOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2018-07-16 iki 2024-06-21
+Suvestinė redakcija nuo 2024-06-22
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 52-2511, i. k. 1111010ISTA0XI-1336
 
@@ -46,7 +46,11 @@ BENDROSIOS NUOSTATOS
 
 1. Šio įstatymo paskirtis – saugoti žmogaus pagrindines teises ir laisves, visų pirma žmogaus teisę į asmens duomenų apsaugą, ir užtikrinti, kad Europos Sąjungos ir Lietuvos Respublikos teisės aktuose numatytas kompetentingų institucijų keitimasis asmens duomenimis Europos Sąjungoje nebūtų ribojamas ar draudžiamas dėl su fizinių asmenų apsauga tvarkant asmens duomenis susijusių priežasčių, kai šie duomenys tvarkomi šio straipsnio 2 dalyje nurodytais tikslais.
 
-2. Šis įstatymas taikomas Lietuvos Respublikos kompetentingų institucijų atliekamam asmens duomenų tvarkymui, kai asmens duomenys tvarkomi nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas arba bausmių vykdymo, taip pat apsaugos nuo grėsmių visuomenės saugumui ir jų prevencijos tikslais. Kai Lietuvos Respublikos valstybės institucijos tvarko asmens duomenis nacionalinio saugumo ar gynybos tikslais, šis įstatymas taikomas tiek, kiek kituose įstatymuose nenustatyta kitaip.
+2. Šis įstatymas taikomas Lietuvos Respublikos kompetentingų institucijų atliekamam asmens duomenų tvarkymui, kai asmens duomenys tvarkomi nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas arba bausmių vykdymo, taip pat apsaugos nuo grėsmių visuomenės saugumui ir jų prevencijos tikslais. Kai Lietuvos Respublikos kompetentingos institucijos tvarko asmens duomenis nacionalinio saugumo ar gynybos tikslais, šis įstatymas taikomas tiek, kiek kituose įstatymuose nenustatyta kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 3. Šis įstatymas reglamentuoja santykius, kurie atsiranda Lietuvos Respublikos kompetentingoms institucijoms tvarkant asmens duomenis visiškai arba iš dalies automatinėmis priemonėmis ir tvarkant asmens duomenis, kurie sudaro arba yra skirti sudaryti susisteminto rinkinio dalį, neautomatinėmis priemonėmis, kai šie duomenys tvarkomi šio straipsnio 2 dalyje nurodytais tikslais.
 
@@ -72,7 +76,11 @@ BENDROSIOS NUOSTATOS
 
 9. Genetiniai duomenys – asmens duomenys, kurie yra susiję su paveldėtomis ar įgytomis fizinio asmens genetinėmis savybėmis, suteikiančiomis unikalios informacijos apie jo fiziologiją ar sveikatą, ir kurie gaunami visų pirma analizuojant biologinį to fizinio asmens mėginį.
 
-10. Kompetentinga institucija – valstybės institucija, įgaliota vykdyti nusikalstamų veikų prevenciją, tyrimą, atskleidimą ar baudžiamąjį persekiojimą už jas arba bausmių vykdymą, įskaitant apsaugos nuo grėsmių visuomenės saugumui užtikrinimą ir jų prevenciją, arba bet kokia kita įstaiga arba subjektas, kuriems pagal Europos Sąjungos valstybės narės teisės aktus pavesta atlikti viešosios valdžios funkcijas ir naudotis viešaisiais įgaliojimais nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas arba bausmių vykdymo, taip pat apsaugos nuo grėsmių visuomenės saugumui ir jų prevencijos tikslais. Kompetentinga institucija taip pat laikoma Lietuvos Respublikos valstybės institucija, kuri tvarko asmens duomenis nacionalinio saugumo ar gynybos tikslais.
+10. Kompetentinga institucija – valstybės institucija, įgaliota vykdyti nusikalstamų veikų prevenciją, tyrimą, atskleidimą ar baudžiamąjį persekiojimą už jas arba bausmių vykdymą, įskaitant apsaugos nuo grėsmių visuomenės saugumui užtikrinimą ir jų prevenciją, arba bet kokia kita įstaiga arba subjektas, kuriems pagal Europos Sąjungos valstybės narės teisės aktus pavesta atlikti viešosios valdžios funkcijas ir naudotis viešaisiais įgaliojimais nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas arba bausmių vykdymo, taip pat apsaugos nuo grėsmių visuomenės saugumui ir jų prevencijos tikslais. Kompetentinga institucija taip pat laikoma Lietuvos Respublikos valstybės, savivaldybės institucija ar įstaiga, kuri tvarko asmens duomenis nacionalinio saugumo ar gynybos tikslais, taip pat kitas subjektas (išskyrus privatų juridinį asmenį), kuriam pagal Lietuvos Respublikos teisės aktus pavesta atlikti funkcijas, susijusias su asmens duomenų tvarkymu nacionalinio saugumo ar gynybos tikslais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 11. Profiliavimas – bet kokios formos automatinis asmens duomenų tvarkymas, kai asmens duomenys naudojami siekiant įvertinti tam tikrus su fiziniu asmeniu susijusius asmeninius aspektus, visų pirma siekiant išanalizuoti arba numatyti aspektus, susijusius su to fizinio asmens darbo rezultatais, ekonomine situacija, sveikatos būkle, asmeniniais pomėgiais, interesais, patikimumu, elgesiu, buvimo vieta arba judėjimu.
 
@@ -138,7 +146,11 @@ Duomenų valdytojas, kuris tvarko skirtingų kategorijų duomenų subjektų asme
 
 7 straipsnis. Asmens duomenų tvarkymo sąlygos
 
-1. Duomenų tvarkymas yra teisėtas tik tuo atveju, kai jis būtinas, ir tiek, kiek jis būtinas kompetentingai institucijai funkcijoms šio įstatymo 1 straipsnio 2 dalyje nurodytais tikslais atlikti, ir grindžiamas Europos Sąjungos arba Lietuvos Respublikos teisės aktais. Lietuvos Respublikos teisės aktuose, reglamentuojančiuose asmens duomenų tvarkymą, turi būti nurodyti duomenų tvarkymo siekiai, tvarkytini asmens duomenys, duomenų tvarkymo tikslai ir kiti duomenų tvarkymo reikalavimai, kuriais siekiama užtikrinti teisėtą asmens duomenų tvarkymą.
+1. Duomenų tvarkymas yra teisėtas tik tuo atveju, kai jis būtinas, ir tiek, kiek jis būtinas kompetentingos institucijos funkcijoms šio įstatymo 1 straipsnio 2 dalyje nurodytais tikslais atlikti, ir grindžiamas Europos Sąjungos arba Lietuvos Respublikos teisės aktais. Kai kompetentinga institucija duomenis tvarko nacionalinio saugumo ar gynybos tikslais, duomenų tvarkymas yra teisėtas ir tuo atveju, kai jis grindžiamas tarptautiniais įsipareigojimais nacionalinio saugumo ar gynybos srityje. Lietuvos Respublikos teisės aktuose, reglamentuojančiuose asmens duomenų tvarkymą, turi būti nurodyti duomenų tvarkymo siekiai, tvarkytini asmens duomenys, duomenų tvarkymo tikslai ir kiti duomenų tvarkymo reikalavimai, kuriais siekiama užtikrinti teisėtą asmens duomenų tvarkymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 2. Kompetentingų institucijų šio įstatymo 1 straipsnio 2 dalyje nurodytais tikslais renkami asmens duomenys negali būti tvarkomi kitais tikslais, nebent taip juos tvarkyti yra leidžiama pagal Europos Sąjungos arba Lietuvos Respublikos teisės aktus. Jei asmens duomenys tvarkomi kitais tikslais, taikomas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas.
 
@@ -154,9 +166,15 @@ Duomenų tvarkymas, kuriuo atskleidžiama rasinė ar etninė kilmė, politinės 
 
 1) tai leidžiama pagal Europos Sąjungos arba Lietuvos Respublikos teisės aktus;
 
-2) tai reikalinga duomenų subjekto ar kito fizinio asmens gyvybiniams interesams apsaugoti arba
+2) tai reikalinga duomenų subjekto ar kito fizinio asmens gyvybiniams interesams apsaugoti;
 
-3) šis duomenų tvarkymas susijęs su asmens duomenimis, kuriuos duomenų subjektas yra akivaizdžiai paskelbęs viešai.
+3) šis duomenų tvarkymas susijęs su asmens duomenimis, kuriuos duomenų subjektas yra akivaizdžiai paskelbęs viešai, arba
+
+4) šis duomenų tvarkymas grindžiamas Lietuvos Respublikos tarptautiniais įsipareigojimais nacionalinio saugumo ar gynybos srityje tais atvejais, kai kompetentinga institucija duomenis tvarko nacionalinio saugumo ar gynybos tikslais.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 9 straipsnis. Automatinis individualių sprendimų priėmimas
 
@@ -424,7 +442,11 @@ Gavę Valstybinės duomenų apsaugos inspekcijos prašymą, duomenų valdytojas 
 
 5. Rengiant įstatymų ir kitų teisės aktų projektus, susijusius su asmens duomenų tvarkymu šio įstatymo 1 straipsnio 2 dalyje nurodytais tikslais, šie projektai turi būti teikiami Valstybinei duomenų apsaugos inspekcijai, kad ji pateiktų savo išvadas.
 
-6. Šio straipsnio, išskyrus 5 dalį, nuostatos netaikomos Lietuvos Respublikos valstybės institucijoms, kai jos asmens duomenis tvarko nacionalinio saugumo arba gynybos tikslais.
+6. Šio straipsnio 1–4 dalių nuostatos netaikomos kompetentingoms institucijoms, kai jos asmens duomenis tvarko nacionalinio saugumo ar gynybos tikslais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 27 straipsnis. Pranešimų apie šio įstatymo pažeidimus skatinimas
 
@@ -484,7 +506,11 @@ ASMENS DUOMENŲ SAUGUMAS
 
 6. Kai asmens duomenų saugumo pažeidimas yra susijęs su asmens duomenimis, kuriuos persiuntė kitos Europos Sąjungos valstybės narės duomenų valdytojas arba kurie buvo persiųsti kitos Europos Sąjungos valstybės narės duomenų valdytojui, šio straipsnio 3 dalyje nurodyta informacija nedelsiant turi būti pateikta tos Europos Sąjungos valstybės narės duomenų valdytojui.
 
-7. Šio straipsnio nuostatos netaikomos Lietuvos Respublikos valstybės institucijoms, kai jos asmens duomenis tvarko nacionalinio saugumo arba gynybos tikslais.
+7. Šio straipsnio nuostatos netaikomos kompetentingoms institucijoms, kai jos asmens duomenis tvarko nacionalinio saugumo ar gynybos tikslais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 30 straipsnis. Pranešimas apie asmens duomenų saugumo pažeidimą duomenų subjektui
 
@@ -546,7 +572,11 @@ ASMENS DUOMENŲ PERDAVIMAI Į TREČIĄSIAS VALSTYBES ARBA TARPTAUTINĖMS ORGANIZ
 
 34 straipsnis. Bendrieji asmens duomenų perdavimo principai
 
-1. Kompetentingos institucijos gali perduoti asmens duomenis, kurie yra tvarkomi arba kuriuos ketinama tvarkyti juos perdavus trečiajai valstybei arba tarptautinei organizacijai, įskaitant ir tolesnius jų perdavimus į kitą trečiąją valstybę arba tarptautinei organizacijai, tik tuo atveju, kai šis perdavimas atitinka šio įstatymo reikalavimus ir šiame skirsnyje nustatytas sąlygas, tai yra:
+1. Kompetentingos institucijos gali perduoti asmens duomenis, kurie yra tvarkomi arba kuriuos ketinama tvarkyti juos perdavus trečiajai valstybei arba tarptautinei organizacijai, įskaitant ir tolesnius jų perdavimus į kitą trečiąją valstybę arba tarptautinei organizacijai, tik tuo atveju, kai šis perdavimas atitinka šio įstatymo reikalavimus ir šiame skyriuje nustatytas sąlygas, tai yra:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 1) perduoti asmens duomenis būtina šio įstatymo 1 straipsnio 2 dalyje nurodytais tikslais;
 
@@ -560,7 +590,17 @@ ASMENS DUOMENŲ PERDAVIMAI Į TREČIĄSIAS VALSTYBES ARBA TARPTAUTINĖMS ORGANIZ
 
 2. Perduoti asmens duomenis be kitos Europos Sąjungos valstybės narės išankstinio leidimo pagal šio straipsnio 1 dalies 3 punktą leidžiama tik tuo atveju, kai asmens duomenis būtina perduoti siekiant užkirsti kelią tiesioginei ir didelei grėsmei Lietuvos Respublikos arba trečiosios valstybės visuomenės saugumui arba Lietuvos Respublikos esminiams interesams, o išankstinio leidimo laiku gauti negalima. Apie tokį asmens duomenų perdavimą nedelsiant pranešama kitos Europos Sąjungos valstybės narės institucijai, atsakingai už išankstinio leidimo perduoti asmens duomenis suteikimą.
 
-3. Šio skirsnio nuostatos taikomos siekiant užtikrinti, kad nesumažėtų pagal šį įstatymą fiziniams asmenims užtikrinamos asmens duomenų apsaugos lygis.
+3. Šio skyriaus nuostatos taikomos siekiant užtikrinti, kad nesumažėtų pagal šį įstatymą fiziniams asmenims užtikrinamos asmens duomenų apsaugos lygis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
+
+4. Šio skyriaus nuostatos, išskyrus šio įstatymo 341 straipsnį, netaikomos, kai kompetentingos institucijos asmens duomenis tvarko nacionalinio saugumo ar gynybos tikslais.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 35 straipsnis. Asmens duomenų perdavimas remiantis Europos Komisijos sprendimu dėl tinkamumo
 
@@ -580,7 +620,11 @@ ASMENS DUOMENŲ PERDAVIMAI Į TREČIĄSIAS VALSTYBES ARBA TARPTAUTINĖMS ORGANIZ
 
 3. Asmens duomenų perdavimas šio straipsnio 1 dalies 2 punkte nurodytu atveju fiksuojamas raštu, įskaitant elektroninę formą, ir dokumentai, kuriuose užfiksuotas šis perdavimas, pateikiami Valstybinei duomenų apsaugos inspekcijai jos prašymu, nurodant asmens duomenų perdavimo datą ir laiką, informaciją apie asmens duomenis gaunančią kompetentingą instituciją, asmens duomenų perdavimo pagrindimą ir perduotus asmens duomenis.
 
-4. Šio straipsnio 2 ir 3 dalių nuostatos netaikomos Lietuvos Respublikos valstybės institucijoms, kai jos asmens duomenis perduoda nacionalinio saugumo arba gynybos tikslais.
+4. Neteko galios nuo 2024-06-22
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 37 straipsnis. Nukrypti leidžiančios nuostatos konkrečiais atvejais
 
@@ -598,7 +642,11 @@ ASMENS DUOMENŲ PERDAVIMAI Į TREČIĄSIAS VALSTYBES ARBA TARPTAUTINĖMS ORGANIZ
 
 2. Asmens duomenys negali būti perduodami, jeigu asmens duomenis perduodanti kompetentinga institucija nustato, kad atitinkamo duomenų subjekto pagrindinės teisės ir laisvės yra viršesnės už viešąjį interesą, kai asmens duomenų perdavimas atliekamas remiantis šio straipsnio 1 dalies 4 ir 5 punktais.
 
-3. Asmens duomenų perdavimas pagal šio straipsnio 1 dalį fiksuojamas raštu, įskaitant elektroninę formą, ir dokumentai, kuriuose užfiksuotas šis perdavimas, turi būti pateikti Valstybinei duomenų apsaugos inspekcijai jos prašymu, nurodant asmens duomenų perdavimo datą ir laiką, informaciją apie asmens duomenis gaunančią kompetentingą instituciją, asmens duomenų perdavimo pagrindimą ir perduotus asmens duomenis, išskyrus atvejus, kai asmens duomenys perduodami nacionalinio saugumo arba gynybos tikslais.
+3. Asmens duomenų perdavimas pagal šio straipsnio 1 dalį fiksuojamas raštu, įskaitant elektroninę formą, ir dokumentai, kuriuose užfiksuotas šis perdavimas, turi būti pateikti Valstybinei duomenų apsaugos inspekcijai jos prašymu, nurodant asmens duomenų perdavimo datą ir laiką, informaciją apie asmens duomenis gaunančią kompetentingą instituciją, asmens duomenų perdavimo pagrindimą ir perduotus asmens duomenis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 38 straipsnis. Asmens duomenų perdavimas trečiosiose valstybėse įsteigtiems duomenų gavėjams
 
@@ -618,7 +666,11 @@ ASMENS DUOMENŲ PERDAVIMAI Į TREČIĄSIAS VALSTYBES ARBA TARPTAUTINĖMS ORGANIZ
 
 3. Asmens duomenų perdavimas pagal šio straipsnio 1 dalį fiksuojamas raštu, įskaitant elektroninę formą, ir dokumentai, kuriuose užfiksuotas šis perdavimas, turi būti pateikti Valstybinei duomenų apsaugos inspekcijai jos prašymu, nurodant asmens duomenų perdavimo datą ir laiką, informaciją apie duomenų gavėją, asmens duomenų perdavimo pagrindimą ir perduotus asmens duomenis.
 
-4. Šio straipsnio 2 ir 3 dalių nuostatos netaikomos Lietuvos Respublikos valstybės institucijoms, kai jos asmens duomenis perduoda nacionalinio saugumo arba gynybos tikslais.
+4. Neteko galios nuo 2024-06-22
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 VIII SKYRIUS
 
@@ -630,7 +682,11 @@ PRIEŽIŪROS INSTITUCIJA
 
 2. Valstybinė duomenų apsaugos inspekcija bendradarbiauja su kitų Europos Sąjungos valstybių narių priežiūros institucijomis ir Europos Komisija, dalyvauja Reglamentu (ES) 2016/679 įsteigtos Europos duomenų apsaugos valdybos (toliau – Valdyba) veikloje.
 
-3. Valstybinė duomenų apsaugos inspekcija neturi teisės kontroliuoti duomenų tvarkymo, kurį atlieka teismai vykdydami teisingumą. Ji taip pat neturi teisės kontroliuoti duomenų tvarkymo, kurį atlieka Lietuvos Respublikos valstybės institucijos nacionalinio saugumo ar gynybos tikslais.
+3. Valstybinė duomenų apsaugos inspekcija neturi teisės kontroliuoti duomenų tvarkymo, kurį atlieka teismai, vykdydami teisingumą. Ji taip pat neturi teisės kontroliuoti duomenų tvarkymo, kurį atlieka kompetentingos institucijos nacionalinio saugumo ar gynybos tikslais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
 4. Valstybinė duomenų apsaugos inspekcija, pagal šį įstatymą atlikdama jai pavestas funkcijas ir naudodamasi jai suteiktomis teisėmis, veikia visiškai nepriklausomai. Valstybinės duomenų apsaugos inspekcijos nepriklausomumo garantijos nustatytos Reglamente (ES) 2016/679 ir Asmens duomenų teisinės apsaugos įstatyme.
 
@@ -813,4 +869,32 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1435, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11745
 
 Lietuvos Respublikos asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymo Nr. XI-1336 pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
+
+Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymo Nr. XI-1336 1, 2, 7, 8, 26, 29, 34, 36, 37, 38 ir 39 straipsnių pakeitimo ir Įstatymo papildymo 34-1 straipsniu įstatymas
+
+341 straipsnis. Asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, perdavimas į trečiąsias valstybes arba tarptautinėms organizacijoms
+
+Kompetentinga institucija asmens duomenis, tvarkomus nacionalinio saugumo ar gynybos tikslais, gali perduoti į trečiąją valstybę arba tarptautinei organizacijai tais atvejais, kai toks perdavimas būtinas, ir tiek, kiek jis būtinas šios institucijos funkcijoms nacionalinio saugumo ar gynybos tikslais atlikti, ir grindžiamas Europos Sąjungos arba Lietuvos Respublikos teisės aktais ar tarptautiniais įsipareigojimais nacionalinio saugumo ar gynybos srityje, ir:
+
+1) jei perduodant asmens duomenis yra užtikrinamas tinkamas jų apsaugos lygis, reikalaujamas pagal Lietuvos Respublikos tarptautinius įsipareigojimus. Tinkamas asmens duomenų apsaugos lygis gali būti užtikrinamas:
+
+a) trečiosios valstybės ar tarptautinės organizacijos teisės aktais, įskaitant taikomas tarptautines sutartis ar susitarimus, arba
+
+b) ad hoc ar patvirtintomis standartizuotomis apsaugos priemonėmis, nustatytomis teisiškai privalomais ir vykdytinais dokumentais, kuriuos priima ir vykdo su asmens duomenų perdavimu į trečiąją valstybę ar tarptautinei organizacijai ir tolesniu šių duomenų tvarkymu susiję asmenys;
+
+2) jei tinkamas asmens duomenų apsaugos lygis pagal šios dalies 1 punktą nenustatytas:
+
+a) konkrečiu atveju asmens duomenis būtina perduoti dėl gyvybinių ar kitų teisėtų duomenų subjekto interesų arba
+
+b) asmens duomenis būtina perduoti dėl nacionalinio saugumo ar gynybos interesų ir toks asmens duomenų perdavimas demokratinėje visuomenėje yra būtinas ir proporcingas.
+
+Papildyta straipsniu:
+
+Nr. XIV-2757, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11408
 
