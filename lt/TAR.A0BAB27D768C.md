@@ -4,7 +4,7 @@ identifier: "TAR.A0BAB27D768C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-19"
-last_updated: "2023-01-01"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-06-26
+Suvestinė redakcija nuo 2024-06-27 iki 2024-06-30
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
 
@@ -85,7 +85,11 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 3. Ilgalaikės valstybinės saugumo stiprinimo programos įgyvendinamos Lietuvos Respublikos strateginio valdymo įstatymo nustatyta tvarka. Programų įgyvendinimą koordinuoja Vyriausybė.
 
-4. Vyriausybė, pateikdama ilgalaikes valstybines saugumo stiprinimo programas, kartu pateikia informaciją apie kiekvienai programai įgyvendinti reikalingas lėšas. Vyriausybė lėšas programoms įgyvendinti numato rengdama Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą. Programoms įgyvendinti taip pat gali būti naudojamos ir kitos teisėtai gautos lėšos.
+4. Vyriausybė, pateikdama ilgalaikes valstybines saugumo stiprinimo programas, kartu pateikia informaciją apie kiekvienai programai įgyvendinti reikalingas lėšas. Vyriausybė lėšas programoms įgyvendinti numato rengdama Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektą. Programoms įgyvendinti taip pat gali būti naudojamos ir kitos teisėtai gautos lėšos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
 
 Straipsnio pakeitimai:
 
@@ -1308,6 +1312,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
 
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2650, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09688
+
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
+
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 5 straipsnio ir priedėlio pakeitimo įstatymas
 
 – Konstitucijos 135 straipsnis, įpareigojantis Lietuvos Respubliką įgyvendinant užsienio politiką vadovautis visuotinai pripažintais tarptautinės teisės principais ir normomis, siekti užtikrinti šalies saugumą ir nepriklausomybę, piliečių gerovę ir pagrindines jų teises bei laisves, prisidėti prie teise ir teisingumu pagrįstos tarptautinės tvarkos kūrimo;
 
