@@ -4,7 +4,7 @@ identifier: "TAR.C70309CDEB7B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-08"
-last_updated: "2021-01-01"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2024-06-26
+Suvestinė redakcija nuo 2024-06-27 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
 
@@ -399,7 +399,11 @@ SPECIALIOSIOS PRIEMONĖS
 
 2. Sprendime dėl būtinųjų darbų skyrimo Lietuvos Respublikos piliečiams gali būti nurodyta paskirtiems būtiniesiems darbams atlikti naudoti savo įrankius, prietaisus ar transporto priemones, jeigu asmuo jas turi. Už tokių įrankių, prietaisų ar transporto priemonių naudojimą atlyginama atšaukus karo padėtį Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-3. Būtinieji darbai neskiriami asmenims iki 18 metų, ginkluotųjų pajėgų nariams, į civilinio mobilizacinio personalo rezervą įrašytiems asmenims, taip pat tiems asmenims, kurie atlieka funkcijas, reikalingas šio įstatymo 7 straipsnio 2 dalies pagrindu valstybinio ar savivaldybių administravimo subjektams pavestoms funkcijoms atlikti ar ūkio subjektams šio įstatymo 15 straipsnyje nustatytiems įpareigojimams vykdyti. Neįgalieji, vyresni kaip 65 metų asmenys, nėščios, neseniai pagimdžiusios, krūtimi maitinančios moterys, asmenys, auginantys vaiką iki 3 metų, asmenys, vieni auginantys vaiką iki 14 metų arba neįgalų vaiką iki 18 metų, gali būti skiriami dirbti būtinuosius darbus tik su jų sutikimu.
+3. Būtinieji darbai neskiriami asmenims iki 18 metų, ginkluotųjų pajėgų nariams, į civilinio mobilizacinio personalo rezervą įrašytiems asmenims, taip pat tiems asmenims, kurie atlieka funkcijas, reikalingas šio įstatymo 7 straipsnio 2 dalies pagrindu valstybinio ar savivaldybių administravimo subjektams pavestoms funkcijoms atlikti ar ūkio subjektams šio įstatymo 15 straipsnyje nustatytiems įpareigojimams vykdyti. Asmenys su negalia, vyresni kaip 65 metų asmenys, nėščios, neseniai pagimdžiusios, krūtimi maitinančios moterys, asmenys, auginantys vaiką iki 3 metų, asmenys, vieni auginantys vaiką iki 14 metų arba vaiką su negalia iki 18 metų, gali būti skiriami dirbti būtinuosius darbus tik su jų sutikimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
 
 4. Maksimali būtinųjų darbų trukmė negali viršyti 86 valandų per 7 paeiliui einančių dienų laikotarpį. Būtinuosius darbus atliekantiems asmenims per parą turi būti užtikrinta ne trumpesnė kaip 30 minučių pertrauka pailsėti ir pavalgyti ir 11 valandų paros nepertraukiamas poilsis, taip pat per 7 paeiliui einančių dienų laikotarpį – bent 24 valandų nepertraukiamas poilsis.
 
@@ -497,7 +501,11 @@ SPECIALIOSIOS PRIEMONĖS
 
 1. Vyriausybė gali reguliuoti būtiniausių prekių ir paslaugų kainas, nustatydama tokių prekių ir paslaugų didžiausias kainas, fiksuotas kainas arba patvirtindama tokių prekių ir paslaugų kainodaros taisykles. Vyriausybės nustatytos didžiausios ar fiksuotos prekių ir paslaugų kainos ar pagal Vyriausybės patvirtintas prekių ir paslaugų kainodaros taisykles apskaičiuotos kainos negali būti mažesnės už prekių ar paslaugų savikainą.
 
-2. Finansavimas valstybės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms ir šioms funkcijoms atlikti reikalingam turtui ir paslaugoms įsigyti užtikrinamas Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme ir kituose valstybės ir savivaldybių finansinių išteklių paskirstymą reglamentuojančiuose teisės aktuose.
+2. Finansavimas valstybės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms ir šioms funkcijoms atlikti reikalingam turtui ir paslaugoms įsigyti užtikrinamas Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme ir kituose valstybės ir savivaldybių finansinių išteklių paskirstymą reglamentuojančiuose teisės aktuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
 
 18 straipsnis. Bendrieji laikinojo turto paėmimo ir turto rekvizicijos reikalavimai
 
@@ -599,9 +607,17 @@ SPECIALIOSIOS PRIEMONĖS
 
 25 straipsnis. Kitos priemonės
 
-1. Karo padėties metu gelbėjimo, evakavimo, paieškos, įvykio, ekstremaliojo įvykio, ekstremaliosios situacijos likvidavimo, padarinių šalinimo ir kiti neatidėliotini darbai vykdomi, žuvę asmenys laidojami Civilinės saugos įstatymo nustatyta tvarka.
+1. Karo padėties metu gelbėjimo, evakavimo, paieškos, įvykio, ekstremaliojo įvykio, ekstremaliosios situacijos likvidavimo, padarinių šalinimo ir kiti neatidėliotini darbai vykdomi, žuvę asmenys laidojami Krizių valdymo ir civilinės saugos įstatymo nustatyta tvarka.
 
-2. Valstybės ir savivaldybių institucijos, įstaigos, įmonės, esant poreikiui, civilinės saugos priemonių, medicinos, žemės ūkio ir maisto produktų, geriamojo vandens, kitomis atsargomis aprūpinamos Valstybės rezervo įstatymo ir Civilinės saugos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+
+2. Valstybės ir savivaldybių institucijos, įstaigos, įmonės, esant poreikiui, civilinės saugos priemonių, medicinos, žemės ūkio ir maisto produktų, geriamojo vandens, kitomis atsargomis aprūpinamos Valstybės rezervo įstatymo ir Krizių valdymo ir civilinės saugos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
 
 3. Savivaldybės administracija įvertina žemės ūkio ir maisto produktų, geriamojo vandens ir kitų būtiniausių prekių poreikį savivaldybėje esantiems fiziniams asmenims aprūpinti ir teikia prašymą valstybės rezervo tvarkytojui dėl valstybės rezervo materialinių išteklių atsargų skyrimo Valstybės rezervo įstatymo nustatyta tvarka. Valstybės rezervo tvarkytojui priėmus sprendimą išduoti iš valstybės rezervo prašomas atsargas, savivaldybės administracijos direktorius organizuoja gautų atsargų gabenimą į panaudojimo vietą ir paskirsto jas savivaldybėje esantiems fiziniams asmenims savivaldybės administracijos direktoriaus nustatyta tvarka.
 
@@ -822,6 +838,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3229, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15863
 
 Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas
 
 36 straipsnis. Gyventojų evakavimas
 
