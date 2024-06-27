@@ -4,7 +4,7 @@ identifier: "TAR.3E5A0E0D14C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-23"
-last_updated: "2022-12-01"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E5A0E0D14C8"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-12-01 iki 2024-06-26
+Suvestinė redakcija nuo 2024-06-27 iki 2024-07-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
 
@@ -1495,6 +1495,14 @@ Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
 
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22, 22-1, 23-1 ir 25-1 straipsnių pakeitimo įstatymas
 
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2737, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11574
+
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 18-1 straipsnio pakeitimo įstatymas
+
 43 straipsnis. Viešas skelbimas
 
 Tarnyba, šio įstatymo 41 straipsnyje nurodytame nutarime konstatavusi, kad asmuo pažeidė šio įstatymo reikalavimus, apie tai skelbia viešai savo interneto svetainėje praėjus 30 kalendorinių dienų po nutarimo priėmimo. Jeigu per 30 kalendorinių dienų nuo nutarimo priėmimo asmuo, dėl kurio veiksmų nutarimas priimtas, apskundžia jį teismui, Tarnyba apie šio įstatymo nuostatų pažeidimą viešai savo interneto svetainėje skelbia pasibaigus teismo procesui.
@@ -2225,9 +2233,21 @@ Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 3) vartojimo kredito gavėjas ar jo sutuoktinis tampa bedarbiu arba netenka ne mažiau kaip trečdalio pajamų;
 
-4) vartojimo kredito gavėjas pripažįstamas nedarbingu arba iš dalies darbingu Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nustatyta tvarka;
+4) vartojimo kredito gavėjui nustatomas neįgalumo lygis arba 55 procentų ar mažesnis dalyvumo lygis Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2737, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11574
 
 5) vartojimo kredito gavėjas atlieka nuolatinę privalomąją pradinę karo tarnybą.
+
+TAR pastaba: straipsnio 1 dalies 5 p. redakcija nuo 2026-01-01:
+
+5) vartojimo kredito gavėjas atlieka privalomąją pradinę karo tarnybą, išskyrus organizuojamą dalimis, arba alternatyviąją krašto apsaugos tarnybą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2737, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11574
 
 2. Atidėjus įmokų mokėjimą, bendru vartojimo kredito sutarties šalių sutarimu perskaičiuojamos atidėtos įmokos ir sudaromas atnaujintas įmokų mokėjimo grafikas.
 
