@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2021-12-23"
+last_updated: "2024-06-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Suvestinė redakcija nuo 2021-12-23 iki 2024-06-28
+Suvestinė redakcija nuo 2024-06-29
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1743, i. k. 0971010ISTAVIII-385
 
@@ -221,7 +221,13 @@ Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
 
 1. Vyriausybė, apsvarsčiusi su Lietuvos savivaldybių asociacija, kiekvienais metais teikia Seimui tvirtinti šiuos metų rodiklius:
 
-1) pastoviąją gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą. Ateinančių metų pastovioji gyventojų pajamų mokesčio dalis (procentais) apskaičiuojama einamųjų metų pastoviąją gyventojų pajamų mokesčio dalį (procentais) koreguojant atsižvelgus į einamųjų ar ateinančių biudžetinių metų Seimo ir (ar) Vyriausybės sprendimų nulemtus savivaldybių pajamų pokyčius. Dėl Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių pajamų pokyčių, kurie mažintų savivaldybių biudžetų prognozuojamas pajamas, pastovioji gyventojų pajamų mokesčio dalis (procentais) koreguojama taip:
+1) pastoviąją gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą. Ateinančių metų pastovioji gyventojų pajamų mokesčio dalis (procentais) apskaičiuojama einamųjų metų pastoviąją gyventojų pajamų mokesčio dalį (procentais) koreguojant atsižvelgus į einamųjų ar ateinančių biudžetinių metų Seimo ir (ar) Vyriausybės sprendimų nulemtus savivaldybių pajamų pokyčius, išskyrus pokyčius dėl Lietuvos Respublikos Valstybės gynybos fondo įstatyme nustatytų atvejų. Dėl Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių pajamų pokyčių, kurie mažintų savivaldybių biudžetų prognozuojamas pajamas, pastovioji gyventojų pajamų mokesčio dalis (procentais) koreguojama taip:
+
+TAR pastaba: 1 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2025–2027 metų ir vėlesnių metų biudžeto patvirtinimo įstatymų projektus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2772, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12075
 
 a) jeigu mažėja savivaldybių iš gyventojų pajamų mokesčio gaunamos savivaldybių biudžetų prognozuojamos pajamos, naudojama suma apskaičiuojama pagal formulę:
 
