@@ -4,7 +4,7 @@ identifier: "94bef5d04bb411e9b9e1d4aa8e4da0de"
 country: "lt"
 rank: "istatymas"
 publication_date: "2019-03-14"
-last_updated: "2019-11-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/94bef5d04bb411e9b9e1d4aa8e4da0de"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ entry_into_force_conditions: "Įstatymo 7 straipsnio 2 dalis įsigalioja 2019-03
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos patikimumo deklaracijų juridiniams asmenims, norintiems dalyvauti Šiaurės Atlanto sutarties organizacijos konkursuose, išdavimo pagrindų įstatymas
+
+Suvestinė redakcija nuo 2024-07-01
+
+Įstatymas paskelbtas: TAR 2019-03-21, i. k. 2019-04396
 
 LIETUVOS RESPUBLIKOS
 
@@ -45,7 +49,11 @@ BENDROSIOS NUOSTATOS
 
 2. Patikimumo deklaracija – dokumentas, kuriuo patvirtinamas juridinio asmens finansinis, techninis, profesinis ir saugumo patikimumas.
 
-3. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme.
+3. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente), Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme ir Lietuvos Respublikos tarptautinių sankcijų įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2687, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10553
 
 II SKYRIUS
 
@@ -63,9 +71,23 @@ a) nėra teisti arba teistumas už nusikaltimus Lietuvos valstybės nepriklausom
 
 b) nėra duomenų, patvirtinančių, kad juridinis asmuo ir (ar) su juridiniu asmeniu susiję asmenys yra susiję su teroristinės veiklos finansavimu;
 
-c) nėra duomenų, patvirtinančių, kad juridinis asmuo ir (ar) su juridiniu asmeniu susiję asmenys dėl Lietuvos Respublikai priešiškų interesų yra bendradarbiavę ar bendradarbiauja arba palaiko ryšius su užsienio valstybės žvalgybos ir (ar) saugumo tarnyba arba su asmenimis, bendradarbiaujančiais ar palaikančiais ryšius su užsienio valstybės žvalgybos ir (ar) saugumo tarnyba;
+c) nėra duomenų, patvirtinančių, kad juridinio asmens ir (ar) su juridiniu asmeniu susijusių asmenų turimi ar praeityje turėti ryšiai su užsienio valstybių institucijomis ar tų valstybių fiziniais arba juridiniais asmenimis kreipimosi metu kelia grėsmę nacionaliniam saugumui;
 
-d) nėra duomenų, patvirtinančių, kad juridinis asmuo ir (ar) su juridiniu asmeniu susiję asmenys atliko veiksmus, kurie prieštarauja tarptautinėms sankcijoms, įgyvendinamoms Lietuvos Respublikoje pagal Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymą;
+Papunkčio pakeitimai:
+
+Nr. XIV-2687, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10553
+
+d) įsiteisėjusiu teismo nuosprendžiu nėra pripažinti kaltais už nusikaltimą pagal užsienio valstybių baudžiamuosius įstatymus, kuris atitinka Lietuvos Respublikos baudžiamojo kodekso 1231 straipsnyje nurodytą nusikalstamą veiką, arba dėl tokio nusikaltimo padarymo teistumas yra išnykęs ar panaikintas;
+
+Papunkčio pakeitimai:
+
+Nr. XIV-2687, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10553
+
+e) per paskutinius 3 metus nebuvo pripažinti pažeidę Lietuvos Respublikoje įgyvendinamas tarptautines sankcijas arba Lietuvos Respublikos įstatymuose nustatytas ribojamąsias priemones.
+
+Papildyta papunkčiu:
+
+Nr. XIV-2687, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10553
 
 3) juridinis asmuo veikia ilgiau negu 6 mėnesius;
 
@@ -127,10 +149,6 @@ PRAŠYMŲ IŠDUOTI PATIKIMUMO DEKLARACIJĄ NAGRINĖJIMAS IR PATIKIMUMO DEKLARACI
 
 5. Juridinis asmuo, kuriam išduoti patikimumo deklaraciją atsisakyta, naują prašymą gali teikti pašalinęs sprendimą atsisakyti išduoti patikimumo deklaraciją lėmusius pagrindus arba šiems pagrindams išnykus.
 
-V SKYRIUS
-
-BAIGIAMOSIOS NUOSTATOS
-
 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2019 m. lapkričio 1 d.
@@ -140,6 +158,16 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2687, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10553
+
+Lietuvos Respublikos patikimumo deklaracijų juridiniams asmenims, norintiems dalyvauti Šiaurės Atlanto sutarties organizacijos konkursuose, išdavimo pagrindų įstatymo Nr. XIII-1995 2, 3 straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
 
 61 straipsnis. Asmens duomenų apsauga ir dokumentų saugojimas
 
