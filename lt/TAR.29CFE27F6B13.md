@@ -4,7 +4,7 @@ identifier: "TAR.29CFE27F6B13"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "2021-09-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2021-09-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
 
@@ -130,7 +130,11 @@ Drausmės pažeidimas laikomas padarytu dėl neatsargumo, jeigu jį padaręs kar
 
 8 straipsnis. Drausminės atsakomybės subjektai
 
-1. Drausminėn atsakomybėn traukiami profesinės karo tarnybos kariai, kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, privalomosios karo tarnybos kariai (privalomosios pradinės karo tarnybos ir aktyviojo kariuomenės personalo rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių), taip pat kariūnai.
+1. Drausminėn atsakomybėn traukiami profesinės karo tarnybos kariai, kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, privalomosios karo tarnybos kariai (privalomosios pradinės karo tarnybos, aktyviojo kariuomenės personalo rezervo kariai ir rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių), taip pat kariūnai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2744, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11583
 
 2. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, vykdydami tarnybos užduotis, dalyvaudami pratybose ir mokymuose, drausminėn atsakomybėn traukiami tokia pačia tvarka kaip ir profesinės karo tarnybos kariai, atsižvelgiant į turimą kario laipsnį. Už drausmės pažeidimus, numatytus šio statuto 69 straipsnyje, kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai atsako ir tuo atveju, kai juos padaro ne tarnybos metu. Kitais atvejais kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai drausminėn atsakomybėn traukiami tokia pačia tvarka kaip ir atsargos kariai.
 
@@ -1036,11 +1040,13 @@ Už Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatytų
 
 67 straipsnis. Neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų kario buvimas tarnyboje arba blaivumo, apsvaigimo ar narkotinių ar psichotropinių medžiagų vartojimo patikrinimo vengimas
 
-Jeigu karys tarnybos metu yra neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba vengia teisės aktų nustatyta tvarka tikrintis, arba atsisako medicininės apžiūros asmens sveikatos priežiūros įstaigoje, kai siekiama nustatyti, ar karys yra blaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, išskyrus atvejus, kai asmuo pats teisės aktų nustatyta tvarka kreipiasi į asmens sveikatos priežiūros įstaigą, kad būtų atlikta medicininė apžiūra, jeigu karys vartojo narkotines, psichotropines ar kitas psichiką veikiančias medžiagas be gydytojo paskyrimo, privalomosios karo tarnybos kariui skiriamos papildomos tarnybos užduotys arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinamas tarnybinis atlyginimas (aktyviojo kariuomenės personalo rezervo kariui), arba pažeminamas kario laipsnis; profesinės karo tarnybos karys už tokią veiką atleidžiamas iš tarnybos; kariūnas už tokią veiką pašalinamas iš karo mokymo įstaigos.
+Jeigu karys tarnybos metu yra neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba vengia teisės aktų nustatyta tvarka tikrintis, arba atsisako medicininės apžiūros asmens sveikatos priežiūros įstaigoje, kai siekiama nustatyti, ar karys yra blaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, išskyrus atvejus, kai asmuo pats teisės aktų nustatyta tvarka kreipiasi į asmens sveikatos priežiūros įstaigą, kad būtų atlikta medicininė apžiūra, jeigu karys vartojo narkotines, psichotropines ar kitas psichiką veikiančias medžiagas be gydytojo paskyrimo, privalomosios karo tarnybos kariui skiriamos papildomos tarnybos užduotys arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinamas tarnybinis atlyginimas (aktyviojo kariuomenės personalo rezervo kariui ir rezervo kariui), arba pažeminamas kario laipsnis; profesinės karo tarnybos karys už tokią veiką atleidžiamas iš tarnybos; kariūnas už tokią veiką pašalinamas iš karo mokymo įstaigos.
 
 Straipsnio pakeitimai:
 
 Nr. XIV-438, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15431
+
+Nr. XIV-2744, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11583
 
 68 straipsnis. Sąmoningas neteisingų žinių apie save pateikimas arba žinių nuslėpimas
 
@@ -1329,6 +1335,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-438, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15431
 
 Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto 1, 2, 5, 8, 14, 20, 42, 49, 67 straipsnių pakeitimo ir Statuto I dalies papildymo VII-1 skyriumi įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2744, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11583
+
+Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto 8 ir 67 straipsnių pakeitimo įstatymas
 
 101 straipsnis. Rūkymas ne tam skirtose vietose
 
