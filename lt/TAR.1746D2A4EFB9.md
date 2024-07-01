@@ -4,7 +4,7 @@ identifier: "TAR.1746D2A4EFB9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2024-05-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1746D2A4EFB9"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2026-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2727, i. k. 0971010ISTAVIII-499
 
@@ -153,7 +153,11 @@ Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 
 3) tvirtina Lietuvos raudonosios knygos komisijos sudėtį;
 
-4) organizuoja Lietuvos raudonosios knygos periodinį leidimą ir kitais būdais informuoja visuomenę apie saugomų rūšių būklę Lietuvoje;
+4) leidžia Lietuvos raudonąją knygą ir kitais būdais informuoja visuomenę apie saugomų rūšių būklę Lietuvoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2354, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25325
 
 5) tvirtina Saugomų rūšių apsaugos planų rengimo ir šių planų tvirtinimo tvarkos aprašą, organizuoja jų rengimą ir įgyvendinimą;
 
@@ -207,13 +211,21 @@ SAUGOMOS GYVŪNŲ, AUGALŲ IR GRYBŲ RŪŠYS
 
 5 straipsnis. Lietuvos raudonoji knyga
 
-1. Aplinkos ministerija ne rečiau kaip kas 10 metų leidžia informacinį leidinį – Lietuvos raudonąją knygą. Juo visuomenė supažindinama su Lietuvos Respublikos teritorijoje saugomų gyvūnų, augalų ir grybų rūšimis, jų statusu, paplitimu, jų ekologija ir biologija, populiacijų gausumu, joms gresiančiu pavojumi, rūšių apsaugos būkle.
+1. Aplinkos ministerija ar jos įgaliota institucija ne rečiau kaip kas 10 metų leidžia informacinį leidinį – Lietuvos raudonąją knygą. Juo visuomenė supažindinama su Lietuvos Respublikos teritorijoje saugomų gyvūnų, augalų ir grybų rūšimis, jų statusu, paplitimu, jų ekologija ir biologija, populiacijų gausumu, joms gresiančiu pavojumi, rūšių apsaugos būkle.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2354, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25325
 
 2. Lietuvos raudonoji knyga rengiama pagal Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių sąrašą.
 
 6 straipsnis. Lietuvos raudonosios knygos komisija
 
-1. Lietuvos raudonosios knygos komisijos sudėtį tvirtina Aplinkos ministerija. Lietuvos raudonosios knygos komisija sudaroma iš mokslo ir mokymo institucijų, Aplinkos ministerijos atstovų.
+1. Lietuvos raudonosios knygos komisijos sudėtį tvirtina Aplinkos ministerija. Lietuvos raudonosios knygos komisija sudaroma iš mokslo ir studijų institucijų, Aplinkos ministerijos ir jos įgaliotų institucijų atstovų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2354, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25325
 
 2. Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių sąrašą rengia ir kiekvienais metais jį peržiūri Lietuvos raudonosios knygos komisija. Lietuvos raudonosios knygos komisijos sudarytą Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų sąrašą (jo papildymus ir (ar) pakeitimus) tvirtina Aplinkos ministerija.
 
@@ -267,11 +279,15 @@ Saugomų rūšių apsauga užtikrinama:
 
 9 straipsnis. Saugomų rūšių apsaugos planai
 
-1. Saugomos rūšies išsaugojimo veiklos prioritetinėms kryptims, apsaugos priemonėms, jų finansavimo šaltiniams ir veiksmų planui numatyti Aplinkos ministerija organizuoja saugomos rūšies apsaugos plano parengimą ir įgyvendinimą, prioritetą teikiant griežtai saugomoms rūšims. Aplinkos ministerija taip pat organizuoja tarptautinių organizacijų, kurių narė yra Lietuvos Respublika, parengtų strateginių dokumentų, skirtų atskiroms saugomoms rūšims išsaugoti, įgyvendinimą Lietuvos Respublikoje.
+1. Saugomos rūšies išsaugojimo veiklos prioritetinėms kryptims, apsaugos priemonėms, jų finansavimo šaltiniams ir veiksmų planui numatyti Aplinkos ministerijos įgaliota institucija organizuoja saugomos rūšies apsaugos plano parengimą ir įgyvendinimą, prioritetą teikiant griežtai saugomoms rūšims. Aplinkos ministerijos įgaliota institucija taip pat organizuoja tarptautinių organizacijų, kurių narė yra Lietuvos Respublika, priimtų strateginių dokumentų, skirtų atskiroms saugomoms rūšims išsaugoti, įgyvendinimą Lietuvos Respublikoje.
 
-2. Fiziniai ir juridiniai asmenys rengia ir įgyvendina saugomų rūšių apsaugos planus, vadovaudamiesi Aplinkos ministerijos patvirtinto Saugomų rūšių apsaugos planų rengimo ir šių planų tvirtinimo tvarkos aprašo reikalavimais.
+2. Fiziniai ir juridiniai asmenys rengia ir įgyvendina saugomų rūšių apsaugos planus, vadovaudamiesi Aplinkos ministerijos ar jos įgaliotos institucijos patvirtinto Saugomų rūšių apsaugos planų rengimo ir šių planų tvirtinimo tvarkos aprašo reikalavimais.
 
-3. Saugomų rūšių apsaugos planus tvirtina Aplinkos ministerija.
+3. Saugomų rūšių apsaugos planus tvirtina Aplinkos ministerijos įgaliota institucija.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2354, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25325
 
 10 straipsnis. Saugomų rūšių naudojimas
 
@@ -527,13 +543,21 @@ SAUGOMŲ RŪŠIŲ TYRIMAI, STEBĖSENA IR ŠVIETIMAS
 
 2. Stebėsenos duomenys registruojami Aplinkos ministerijos saugomų rūšių informacinėje sistemoje Aplinkos ministerijos nustatyta tvarka.
 
-3. Aplinkos ministerija organizuoja Europos bendrijos saugomų gyvūnų rūšių, kurioms reikalinga griežta apsauga, atsitiktinio žuvimo, sunaikinimo ar sugavimo stebėseną ir imasi tyrimo ir apsaugos priemonių, kad atsitiktinis gaudymas ar žuvimas neturėtų reikšmingos neigiamos įtakos atitinkamoms rūšims.
+3. Aplinkos ministerijos įgaliota institucija organizuoja Europos bendrijos saugomų gyvūnų rūšių, kurioms reikalinga griežta apsauga, atsitiktinio žudymo, sunaikinimo ar sugavimo stebėseną ir imasi tyrimo ir apsaugos priemonių, kad atsitiktinis gaudymas ar žuvimas neturėtų reikšmingos neigiamos įtakos atitinkamoms rūšims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2354, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25325
 
 22 straipsnis. Saugomų rūšių mokslo tiriamieji darbai
 
-1. Siekiant surinkti daugiau informacijos, ištyrinėti jų paplitimą ir gausumą, atliekami saugomų rūšių mokslo tiriamieji darbai, kuriuos skatina Aplinkos ministerija. Reikalavimai, taikomi saugomų rūšių mokslo tiriamiesiems darbams, nustatomi Saugomų rūšių naudojimo tvarkos apraše.
+1. Siekiant surinkti daugiau informacijos, ištyrinėti jų paplitimą ir gausumą, atliekami saugomų rūšių mokslo tiriamieji darbai, kuriuos atlieka ar jų atlikimą organizuoja Aplinkos ministerijos įgaliota institucija. Reikalavimai, taikomi saugomų rūšių mokslo tiriamiesiems darbams, nustatomi Saugomų rūšių naudojimo tvarkos apraše.
 
-2. Aplinkos ministerija teikia informaciją apie mokslo tiriamuosius darbus Europos Komisijai ir Europos Sąjungos valstybėms narėms.
+2. Aplinkos ministerijos įgaliota institucija teikia informaciją apie mokslo tiriamuosius darbus Europos Komisijai ir Europos Sąjungos valstybėms narėms.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2354, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25325
 
 23 straipsnis. Duomenų apie saugomas rūšis kaupimas, tvarkymas ir naudojimas
 
