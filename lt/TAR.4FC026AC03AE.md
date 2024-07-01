@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
 
@@ -146,7 +146,11 @@ PAREIGŪNŲ SKATINIMAS IR ATSAKOMYBĖ
 
 2. Pareigūnams už dalyvavimą statutinės įstaigos, kurioje jie eina pareigas, ar tos pačios statutinių įstaigų sistemos statutinės įstaigos įgyvendinamuose su statutinės įstaigos tikslais ir uždaviniais susijusiuose Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba Lietuvos ir šioje dalyje nurodytų organizacijų bei užsienio valstybių bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose ar veikloje, kuri atliekama pagal statutinės įstaigos sudarytas bendradarbiavimo sutartis su tarptautinėmis ar pagal Europos Sąjungos teisės aktus įsteigtomis institucijomis (toliau – veikla pagal bendradarbiavimo sutartis), mokamas atlyginimas iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų pagal šių projektų sutartyse ar bendradarbiavimo sutartyse nustatytas sąlygas ir įkainius. Kai šios sąlygos ir įkainiai nėra nustatyti, atlyginimo už dalyvavimą šioje dalyje nurodytuose projektuose ar veikloje pagal bendradarbiavimo sutartis sąlygas ir įkainius nustato statutinės įstaigos vadovas, neviršydamas įgyvendinamam projektui ar veiklai pagal bendradarbiavimo sutartis nustatyto biudžeto. Už laiką, kurį pareigūnas dalyvauja šioje dalyje nurodytuose projektuose ar veikloje pagal bendradarbiavimo sutartis ir gauna šioje dalyje numatytą atlyginimą, šio straipsnio 1 dalyje nustatytas darbo užmokestis iš statutinės įstaigos lėšų jam nemokamas.
 
-3. Nustatant pareigūnų darbo užmokestį vadovaujamasi centrinės statutinės įstaigos vadovo nustatyta centrinėje statutinėje įstaigoje ir jai pavaldžiose statutinėse įstaigose tarnaujančių pareigūnų darbo apmokėjimo sistema (toliau – pareigūnų darbo apmokėjimo sistema). Pareigūnų darbo apmokėjimo sistemoje, vadovaujantis Statuto nuostatomis ir šio straipsnio 4 dalyje nurodytomis pareigūnų darbo apmokėjimo sistemos gairėmis, nustatomi didžiausi pareiginės algos koeficientų dydžiai, pareiginės algos koeficientų intervalai konkrečioms pareigybėms (išskyrus centrinės statutinės įstaigos vadovo pareigybę), neviršijant pareigūnų darbo apmokėjimo sistemos gairėse nustatytų didžiausių pareiginės algos koeficientų konkrečioms pareigybių grupėms, detalizuojami priemokų dydžiai ir priemokų skyrimo tvarka bei kiti su pareigūnų darbo apmokėjimu susiję klausimai. Pareigūnų darbo apmokėjimo sistemoje nustatant pareiginės algos koeficientą atsižvelgiama į pareigūno tarnybos patirtį. Prieš nustatant ar keičiant pareigūnų darbo apmokėjimo sistemą, turi būti Darbo kodekso nustatyta tvarka atliktos informavimo ir konsultavimosi procedūros.
+3. Nustatant pareigūnų darbo užmokestį vadovaujamasi centrinėje statutinėje įstaigoje ir jai pavaldžiose statutinėse įstaigose tarnaujančių pareigūnų darbo apmokėjimo sistema (toliau – pareigūnų darbo apmokėjimo sistema), kuri nustatoma šakos kolektyvinėje sutartyje. Jeigu šakos kolektyvinės sutarties nėra, pareigūnų darbo apmokėjimo sistemą nustato centrinės statutinės įstaigos vadovas. Pareigūnų darbo apmokėjimo sistemoje, vadovaujantis Statuto nuostatomis ir šio straipsnio 4 dalyje nurodytomis pareigūnų darbo apmokėjimo sistemos gairėmis, nustatomi didžiausi pareiginės algos koeficientų dydžiai, pareiginės algos koeficientų intervalai konkrečioms pareigybėms (išskyrus centrinės statutinės įstaigos vadovo pareigybę), neviršijant pareigūnų darbo apmokėjimo sistemos gairėse nustatytų didžiausių pareiginės algos koeficientų konkrečioms pareigybių grupėms, detalizuojami priemokų dydžiai ir priemokų skyrimo tvarka bei kiti su pareigūnų darbo apmokėjimu susiję klausimai. Pareigūnų darbo apmokėjimo sistemoje nustatant pareiginės algos koeficientą atsižvelgiama į pareigūno tarnybos patirtį (tarnybos stažą). Prieš centrinės statutinės įstaigos vadovui nustatant ar keičiant pareigūnų darbo apmokėjimo sistemą, turi būti Darbo kodekso nustatyta tvarka atliktos informavimo ir konsultavimosi procedūros.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2404, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25916
 
 4. Pareigūnų darbo apmokėjimo sistemos gaires, suderinęs su teisingumo ir finansų ministrais, tvirtina vidaus reikalų ministras. Pareigūnų darbo apmokėjimo sistemos gairėse nustatomi Statuto priede nurodytų pareigybių grupių pareiginės algos koeficientų, viršijančių Statuto priede nustatytą mažiausią pareiginės algos koeficientą, dydžio nustatymo kriterijai (tarnybos patirtis, veiklos sudėtingumas, atsakomybės lygis, kvalifikacijos, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas ir pan.), taip pat nustatomi didžiausi pareiginės algos koeficientų dydžiai ir pareiginės algos koeficientų intervalai Statuto priede nurodytoms pareigybių grupėms, detalizuojami centrinių statutinių įstaigų vadovų pareiginės algos koeficientų intervalai, atsižvelgiant į centrinės statutinės įstaigos dydį, veiklos pobūdį, santykį su pavaldžiais ir nepavaldžiais subjektais, veiklos ir sprendimų galiojimo ribas, vadovaujantis Vyriausybės patvirtintais valstybės ir savivaldybių institucijų ir įstaigų vertinimo kriterijų įverčiais, taip pat nustatomi priemokų skyrimo pagrindai ir priemokų dydžiai, pareigūnų turimų laipsnių įtaka pareiginei algai.
 
