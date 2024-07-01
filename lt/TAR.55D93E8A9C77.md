@@ -4,7 +4,7 @@ identifier: "TAR.55D93E8A9C77"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-09"
-last_updated: "2019-05-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55D93E8A9C77"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 90-3144, i. k. 1011010ISTA00IX-533
 
@@ -51,7 +51,11 @@ BENDROSIOS NUOSTATOS
 
 3) augalų reprodukcinės dalys (sėklos, žiedadulkės, gemalai, meristeminiai audiniai, pumpurai, ūgliai).
 
-3. Augalų genetinis draustinis – teritorija, skirta ilgalaikiam genetiškai vertingų augalų populiacijų ar jų dalių išsaugojimui.
+3. Neteko galios nuo 2024-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2355, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25326
 
 4. Augalų genetinių išteklių kilmės šalis – šalis, kurioje augalų genetiniai ištekliai susidarė natūraliomis sąlygomis ar buvo dirbtinai sukurti.
 
@@ -89,7 +93,11 @@ Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 13. Augalų nacionalinių genetinių išteklių naudojimas – augalų nacionalinių genetinių išteklių naudojimas žmogaus racionaliems (tikslingiems) poreikiams (maistui, technologiniam perdirbimui, vaistinei žaliavai, moksliniams tyrimams, selekcijai, sėklininkystei, reprodukcijai ir mainams) tenkinti, neniokojant ir nesunaikinant pačių išteklių.
 
-14. Genetinių išteklių plotas – ribota teritorija, kurioje yra augalų populiacija, skirta tų augalų nacionaliniams genetiniams ištekliams išsaugoti.
+14. Neteko galios nuo 2024-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2355, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25326
 
 15. Lauko kolekcija – sistemingai lauke auginamų, atnaujinamų ir saugomų augalų rinkinys.
 
@@ -100,6 +108,12 @@ Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 18. Sėklinis medynas – produktyvus ir geros kokybės medynas, skirtas sėkloms, kaip genetinei medžiagai, ruošti ir naudoti.
 
 19. Sėklinis sklypas – ribota teritorija, kurioje yra augalų populiacija, skirta sėkloms, kaip genetinei medžiagai, naudoti.
+
+20. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos saugomų teritorijų įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2355, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25326
 
 3 straipsnis. Nuosavybės teisė į augalų nacionalinius genetinius išteklius
 
@@ -233,7 +247,11 @@ Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 3) vietose, kur yra atsiradusios jų naujos savybės (inter situ).
 
-2. Augalų nacionaliniams genetiniams ištekliams saugoti in situ steigiami genetiniai draustiniai, išskiriami genetinių išteklių plotai ar sėkliniai medynai, atrenkamos populiacijos, pavieniai medžiai ar jų grupės. Augalų nacionalinių genetinių išteklių saugojimas in situ neatsiejamas nuo jų natūralių buveinių saugojimo, gyvybingų populiacijų palaikymo bei atkūrimo sudarant palankias jų vystymosi sąlygas.
+2. Augalų nacionaliniams genetiniams ištekliams saugoti in situ steigiami genetiniai draustiniai ir genetiniai sklypai, išskiriami genetiniai medynai, atrenkamos populiacijos, pavieniai medžiai ar jų grupės, sėkliniai medynai, rinktiniai ir elitiniai medžiai, medžių grupės. Augalų nacionalinių genetinių išteklių saugojimas in situ neatsiejamas nuo jų natūralių buveinių saugojimo, gyvybingų populiacijų palaikymo ir atkūrimo sudarant palankias jų vystymosi sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2355, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25326
 
 3. Augalų nacionaliniams genetiniams ištekliams saugoti ex situ įveisiamos lauko kolekcijos bei įrengiamos augalų genetinės medžiagos saugyklos.
 
@@ -241,13 +259,15 @@ Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 5. Už augalų nacionalinių genetinių išteklių išsaugojimą pagal kompetenciją atsakingi: genetinių išteklių savininkai, valstybinės žemės naudotojai ar privačios žemės savininkai.
 
-9 straipsnis. Augalų genetiniai draustiniai ir genetinių išteklių plotai
+9 straipsnis. Augalų genetinių išteklių saugojimas saugomose teritorijose
 
-1. Augalų genetiniai draustiniai steigiami vadovaujantis Saugomų teritorijų įstatymu. Jie skirti genetinę vertę turinčioms augalų populiacijoms ar jų dalims išsaugoti. Augalų genetiniai draustiniai tvarkomi pagal Vyriausybės įgaliotos institucijos patvirtintus Augalų genetinių draustinių nuostatus.
+1. Genetinę vertę turinčioms augalų populiacijoms išsaugoti, vadovaujantis Saugomų teritorijų įstatymu, steigiami genetiniai draustiniai ir genetiniai sklypai.
 
-2. Augalų nacionalinių genetinių išteklių saugojimą valstybiniuose rezervatuose, nacionaliniuose ir regioniniuose parkuose, valstybiniuose draustiniuose, atkuriamų gamtos išteklių sklypuose bei kitose saugomose teritorijose reglamentuoja Saugomų teritorijų įstatymas, Miškų įstatymas ir kiti teisės aktai.
+2. Augalų nacionalinių genetinių išteklių saugojimą valstybiniuose rezervatuose, valstybiniuose parkuose, valstybiniuose draustiniuose, atkuriamuosiuose ir genetiniuose sklypuose ir kitose saugomose teritorijose reglamentuoja Saugomų teritorijų įstatymas ir Miškų įstatymas.
 
-3. Šio straipsnio 2 dalyje nurodytose saugomose teritorijose prireikus išskiriami genetinių išteklių plotai, kuriuose augalų nacionaliniai genetiniai ištekliai saugomi pagal specialiai parengtas ir Vyriausybės įgaliotų institucijų patvirtintas programas.
+Straipsnio pakeitimai:
+
+Nr. XIV-2355, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25326
 
 10 straipsnis. Saugomi sėkliniai sklypai, sėkliniai medynai bei medžių grupės ar pavieniai medžiai
 
@@ -368,4 +388,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
 
 Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymo Nr. IX-533 2, 4, 5, 8, 11, 16 straipsnių pakeitimo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2355, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25326
+
+Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymo Nr. IX-533 2, 8 ir 9 straipsnių pakeitimo įstatymas
 
