@@ -4,7 +4,7 @@ identifier: "TAR.A0BAB27D768C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-19"
-last_updated: "2024-06-27"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2024-06-27 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
 
@@ -227,7 +227,7 @@ a) VALSTYBĖ:
 
 – garantuodama pasirengimą besąlygiškai gynybai ir visuotiniam pilietiniam pasipriešinimui agresijos atveju;
 
-– stiprindama nacionalinio saugumo bei gynybos institucijas ir tobulindama jų veiklą,
+– stiprindama nacionalinio saugumo bei gynybos institucijas ir tobulindama jų veiklą, sudarydama palankias sąlygas gynybos ir saugumo pramonės plėtrai,
 
 – rengdama gynybai kariuomenę ir jos mobilizacinį rezervą pagal nacionalinius ir Šiaurės Atlanto sutarties organizacijos (NATO) kolektyvinės gynybos planus;
 
@@ -250,6 +250,8 @@ Valstybės institucijų vykdomas nacionalinio saugumo priemones nustato šis įs
 Skirsnio pakeitimai:
 
 Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
+
+Nr. XIV-2650, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09688
 
 3 SKYRIUS
 
@@ -791,7 +793,7 @@ Kariuomenė turi būti rengiama ugdant kario asmenybę, pilietiškumą ir patrio
 
 Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja Lietuvos Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
 
-Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, nuolatinės privalomosios pradinės karo tarnybos ir aktyviojo kariuomenės personalo rezervo karių. Aktyviojo kariuomenės personalo rezervo karių karinių įgūdžių atnaujinimas turi atitikti valstybės gynybinius poreikius.
+Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, nuolatinės privalomosios pradinės karo tarnybos ir tarnybą rezerve atliekančių karių. Tarnybą rezerve atliekančių karių karinių įgūdžių atnaujinimas turi atitikti valstybės gynybinius poreikius.
 
 Kariuomenę sudaro šios pajėgų rūšys: sausumos pajėgos, karinės oro pajėgos, karinės jūrų pajėgos, specialiųjų operacijų pajėgos. Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai ir kiti teisės aktai.
 
@@ -832,6 +834,8 @@ Nr. XIII-2672, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21315
 Nr. XIII-3239, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15876
 
 Nr. XIII-3440, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24617
+
+Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
 
 19 skyrius
 
