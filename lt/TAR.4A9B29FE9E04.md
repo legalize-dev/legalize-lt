@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "2021-07-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -439,7 +439,21 @@ BENDROVĖS ORGANAI
 
 10) tvirtinti bendrovės vidaus tvarkos taisykles;
 
-11) spręsti kitus su bendrovės gamybine ir komercine veikla susijusius klausimus.
+11) priimti sprendimą dėl:
+
+a) bendrovės metinių finansinių ataskaitų audito kitais, nei nustatyta Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, atvejais;
+
+b) auditoriaus ar audito įmonės parinkimo;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
+
+12) spręsti kitus su bendrovės gamybine ir komercine veikla susijusius klausimus.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
 
 3. Susirinkimus šaukia bendrovės valdyba (administracija) ne rečiau kaip du kartus per metus. Pasibaigus ūkiniams metams, susirinkimas sušaukiamas per 4 mėnesius. Apie šaukiamą susirinkimą ir numatytą darbotvarkę bendrovės valdyba (administracija) bendrovės nariams praneša raštu arba kitokiu sutartu būdu ne vėliau kaip prieš 7 dienas iki numatytos susirinkimo dienos.
 
@@ -479,11 +493,19 @@ Bendrovės valdymo organai yra valdyba arba administracija. Narių susirinkimui 
 
 SEPTINTASIS SKIRSNIS
 
-BENDROVĖS VEIKLOS APSKAITA, ATSKAITOMYBĖ IR KONTROLĖ
+BENDROVĖS FINANSINĖ APSKAITA, ATSKAITOMYBĖ IR KONTROLĖ
 
-26 straipsnis. Bendrovės veiklos apskaita ir atskaitomybė
+Pakeistas skirsnio pavadinimas:
 
-Bendrovė tvarko apskaitą Lietuvos Respublikos įstatymų nustatyta tvarka. Bendrovė gali turėti komercine (gamybine) paslaptimi laikomos informacijos. Komercine paslaptimi negali būti informacija, kuri pagal Lietuvos Respublikos įstatymus yra vieša.
+Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
+
+26 straipsnis. Bendrovės finansinė apskaita ir atskaitomybė
+
+Bendrovė organizuoja ir tvarko finansinę apskaitą pagal Lietuvos Respublikos finansinės apskaitos įstatymą, savo metinę apyskaitą rengia laikydamasi finansinių ataskaitų rinkinių sudėties, rengimo, teikimo, skelbimo ir saugojimo reikalavimų, nustatytų Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, bei metinių finansinių ataskaitų audito atlikimo reikalavimų, nustatytų Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme. Bendrovė gali turėti komercine (gamybine) paslaptimi laikomos informacijos. Komercine paslaptimi negali būti informacija, kuri pagal Lietuvos Respublikos įstatymus yra vieša.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
 
 27 straipsnis. Bendrovės veiklos kontrolės organai
 
@@ -866,6 +888,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-247, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08857
 
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 11-1 straipsnio pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2646, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09684
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 11-1 straipsnio pakeitimo įstatymas
+
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 21, 26 straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas
 
 111 straipsnis. Juridinių asmenų dalyvių  informacinės sistemos duomenys
 
