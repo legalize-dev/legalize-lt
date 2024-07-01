@@ -4,7 +4,7 @@ identifier: "TAR.A1FD809510BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-06-29"
-last_updated: "2022-05-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A1FD809510BB"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "32 straipsnis įsigalioja 2012-07-14"
 
 LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
 
@@ -271,11 +271,13 @@ Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
 
 7) spręsti, ar mažajai bendrijai reikalingi darbuotojai. Jeigu taip, – nustatyti mažosios bendrijos struktūrą, etatų sąrašą ir darbuotojams mokamų atlyginimų dydžius;
 
-8) tvirtinti finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama;
+8) tvirtinti finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama. Jeigu mažosios bendrijos metinių finansinių ataskaitų auditas privalomas pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
+
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 
 9) priimti sprendimą dėl pelno (nuostolių) paskirstymo;
 
@@ -289,7 +291,21 @@ Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
 
 14) išskyrus šiame įstatyme nustatytas išimtis, skirti ir atšaukti mažosios bendrijos likvidatorių ar likvidatorius, kai sudaroma likvidacinė komisija, ir vieną iš jų – likvidacinės komisijos pirmininku, ir juos atšaukti;
 
+15) priimti sprendimą dėl:
+
+a) mažosios bendrijos metinių finansinių ataskaitų audito kitais, nei nurodyta Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme ir mažosios bendrijos nuostatuose, atvejais;
+
+b) auditoriaus ar audito įmonės parinkimo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
+
 15) priimti sprendimus kitais šiame įstatyme ir mažosios bendrijos nuostatuose jo kompetencijai priskirtais klausimais.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 
 14 straipsnis. Mažosios bendrijos narių susirinkimo papildoma kompetencija
 
@@ -493,17 +509,19 @@ V SKYRIUS
 
 MAŽOSIOS BENDRIJOS FINANSINĖ ATSKAITOMYBĖ IR PELNO PASKIRSTYMAS
 
-23 straipsnis. Mažosios bendrijos finansinė apskaita ir finansinė atskaitomybė
+23 straipsnis. Mažosios bendrijos finansinė apskaita ir finansinė atskaitomybė, finansinių ataskaitų auditas
 
-1. Mažosios bendrijos finansinę apskaitą, jos organizavimą bei tvarkymą ir finansinių ataskaitų rinkinių sudarymą nustato Lietuvos Respublikos finansinės apskaitos įstatymas ir Lietuvos Respublikos įmonių atskaitomybės įstatymas.
+1. Mažoji bendrija finansinę apskaitą organizuoja ir tvarko, kaip nustatyta Lietuvos Respublikos finansinės apskaitos įstatyme, finansines ataskaitas rengia laikydamasi finansinių ataskaitų rinkinių sudėties, rengimo, teikimo, skelbimo ir saugojimo reikalavimų, nustatytų Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme.
 
 2. Finansinių ataskaitų rinkinius mažoji bendrija sudaro šio įstatymo 11 straipsnio 3 dalyje, šio straipsnio 3 dalyje ir 26 straipsnio 3 dalyje nustatytais atvejais.
 
-3. Mažoji bendrija turi sudaryti metinių finansinių ataskaitų rinkinį. Mažosios bendrijos metinių finansinių ataskaitų rinkinys ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos turi būti patvirtintas mažosios bendrijos narių susirinkime, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama, ir pateiktas Juridinių asmenų registro tvarkytojui. Kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama, jos nepatvirtintas metinių finansinių ataskaitų rinkinys Juridinių asmenų registro tvarkytojui pateikiamas per 4 mėnesius nuo finansinių metų pabaigos.
+3. Mažoji bendrija turi sudaryti metinių finansinių ataskaitų rinkinį. Mažosios bendrijos metinių finansinių ataskaitų rinkinys, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos turi būti patvirtinti mažosios bendrijos narių susirinkime, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama, ir pateikti Juridinių asmenų registro tvarkytojui. Kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama, jos nepatvirtintas metinių finansinių ataskaitų rinkinys Juridinių asmenų registro tvarkytojui pateikiamas per 5 mėnesius nuo finansinių metų pabaigos.
 
 Straipsnio pakeitimai:
 
 Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
+
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 
 24 straipsnis. Mažosios bendrijos narių gaunamos išmokos kaip avansu išmokamas pelnas
 
@@ -521,7 +539,11 @@ Mažosios bendrijos narys turi teisę gauti šias išmokas kaip avansu išmokam�
 
 26 straipsnis. Mažosios bendrijos pelno paskirstymas
 
-1. Mažosios bendrijos narių susirinkimas, patvirtinęs metinių finansinių ataskaitų rinkinį, turi paskirstyti mažosios bendrijos pelną.
+1. Mažosios bendrijos narių susirinkimas, patvirtinęs metinių finansinių ataskaitų rinkinį, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, – audituotą metinių finansinių ataskaitų rinkinį, turi paskirstyti mažosios bendrijos pelną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 
 2. Mažosios bendrijos pelnas gali būti paskirstomas jos nariams ir nepasibaigus mažosios bendrijos finansiniams metams – už trumpesnį negu finansiniai metai laikotarpį.
 
@@ -537,7 +559,11 @@ Mažosios bendrijos narys turi teisę gauti šias išmokas kaip avansu išmokam�
 
 8. Mažosios bendrijos narių susirinkimas negali priimti sprendimo skirti ir išmokėti pelno, jeigu tenkinama bent viena iš šių sąlygų:
 
-1) nėra patvirtintas mažosios bendrijos metinių finansinių atskaitų rinkinys;
+1) nėra patvirtintas mažosios bendrijos metinių finansinių ataskaitų rinkinys ir (arba) nėra atliktas auditas, kai jis privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 
 2) mažoji bendrija turi neįvykdytų prievolių, kurių įvykdymo terminai suėjo iki sprendimo priėmimo;
 
@@ -583,13 +609,21 @@ MAŽOSIOS BENDRIJOS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 
 1) šio straipsnio 2 dalies 1, 2 ir 4 punktuose nurodyta informacija;
 
-2) kur ir nuo kada galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių mažųjų bendrijų nuostatų projektais, reorganizavime dalyvaujančių mažųjų bendrijų praėjusių trejų finansinių metų metinėmis finansinėmis ataskaitomis.
+2) kur ir nuo kada galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių mažųjų bendrijų nuostatų projektais, reorganizavime dalyvaujančių mažųjų bendrijų praėjusių trejų finansinių metų metinėmis finansinėmis ataskaitomis, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, – audituotu metinių finansinių ataskaitų rinkiniu kartu su auditoriaus išvada.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 
 4. Nuo viešo paskelbimo apie reorganizavimo sąlygų sudarymą dienos mažoji bendrija, kuri po reorganizavimo pasibaigs, įgyja reorganizuojamos mažosios bendrijos statusą, o mažoji bendrija, kuri po reorganizavimo tęs veiklą, – reorganizavime dalyvaujančios mažosios bendrijos statusą. Reorganizuojamos ar reorganizavime dalyvaujančios mažosios bendrijos statusą turinti mažoji bendrija negali būti pertvarkoma.
 
 5. Ne vėliau kaip pirmą viešo paskelbimo dieną reorganizavimo sąlygos turi būti pateiktos Juridinių asmenų registro tvarkytojui.
 
-6. Ne vėliau kaip likus 30 dienų iki sprendimo dėl reorganizavimo priėmimo, reorganizavime dalyvaujančių mažųjų bendrijų nariai turi teisę susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių mažųjų bendrijų nuostatų projektais, taip pat visų reorganizavime dalyvaujančių mažųjų bendrijų praėjusių trejų finansinių metų metinėmis finansinėmis ataskaitomis. Kiekvienas mažosios bendrijos narys turi teisę gauti visų šioje dalyje išvardytų dokumentų kopijas.
+6. Ne vėliau kaip likus 30 dienų iki sprendimo dėl reorganizavimo priėmimo reorganizavime dalyvaujančių mažųjų bendrijų nariai turi teisę susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių mažųjų bendrijų nuostatų projektais, taip pat visų reorganizavime dalyvaujančių mažųjų bendrijų praėjusių trejų finansinių metų metinėmis finansinėmis ataskaitomis, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, – audituotu metinių finansinių ataskaitų rinkiniu kartu su auditoriaus išvada. Kiekvienas mažosios bendrijos narys turi teisę gauti visų šioje dalyje išvardytų dokumentų kopijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 
 7. Reorganizuojamos mažosios bendrijos kreditorius turi teisę reikalauti prievolę nutraukti ar įvykdyti prieš terminą, taip pat atlyginti nuostolius, jeigu tai numatyta sandoryje ar yra pagrindas manyti, kad prievolės įvykdymas dėl reorganizavimo pasunkės, ir jeigu kreditoriaus reikalavimu mažoji bendrija nesuteikė papildomo prievolių įvykdymo užtikrinimo. Reorganizuojamos mažosios bendrijos kreditoriai turi teisę susipažinti su šio straipsnio 6 dalyje nurodytais dokumentais ir gauti jų kopijas.
 
@@ -643,7 +677,11 @@ MAŽOSIOS BENDRIJOS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 
 3) juridinio asmens, į kurį pertvarkoma mažoji bendrija, teisinė forma;
 
-4) kur ir nuo kada galima susipažinti su juridinio asmens, kuris veiks po pertvarkymo, steigimo dokumentais ir pertvarkomos mažosios bendrijos praėjusių trejų finansinių metų metinėmis finansinėmis ataskaitomis.
+4) kur ir nuo kada galima susipažinti su juridinio asmens, kuris veiks po pertvarkymo, steigimo dokumentais ir pertvarkomos mažosios bendrijos praėjusių trejų finansinių metų metinėmis finansinėmis ataskaitomis, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, – audituotu metinių finansinių ataskaitų rinkiniu kartu su auditoriaus išvada.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 
 5. Sprendimą pertvarkyti mažąją bendriją patvirtinantis dokumentas turi būti pateiktas Juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie sprendimo priėmimą dieną.
 
@@ -818,6 +856,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
 
 Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 13, 21, 23 ir 30 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2639, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09675
+
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 4, 6, 6-1, 10 ir 30 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
+
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 13, 23, 26, 27 ir 29 straipsnių pakeitimo įstatymas
 
 61 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
