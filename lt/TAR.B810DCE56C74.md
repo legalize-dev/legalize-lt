@@ -4,7 +4,7 @@ identifier: "TAR.B810DCE56C74"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-15"
-last_updated: "2021-05-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B810DCE56C74"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos laukinių augalų ir grybų įstatymas
 
-Suvestinė redakcija nuo 2021-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1944, i. k. 0991010ISTAIII-1226
 
@@ -107,7 +107,11 @@ Laukinių augalų ir grybų ištekliai, kurie, vadovaujantis Lietuvos Respubliko
 
 10) tvirtina Laukiniams augalams ir grybams padarytos žalos apskaičiavimo tvarkos aprašą.
 
-3. Aplinkos ministerijos įgaliotos institucijos koordinuoja, kontroliuoja ir įgyvendina laukinių augalų ir grybų apsaugos, gausos reguliavimo veiksmų planus, programas, metodikas ir invazinių rūšių valdymo, gausos reguliavimo ir naikinimo priemones.
+3. Aplinkos ministerijos įgaliotos institucijos koordinuoja, kontroliuoja ir įgyvendina laukinių augalų ir grybų apsaugos, gausos reguliavimo veiksmų planus, programas, metodikas; invazinių rūšių valdymo, veiksmų planų, gausos reguliavimo ir naikinimo priemones.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2353, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25324
 
 4. Savivaldybių vykdomosios institucijos Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo nustatytais atvejais ir tvarka pagal nusistatytus prioritetus dėl pasirinktų invazinių rūšių ir jų paplitimo teritorijų, atsižvelgdamos į sukauptas Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšas ir į galimybę jas skirti invazinių rūšių valdymo, gausos reguliavimo ir naikinimo priemonėms įgyvendinti, finansuoja šių priemonių įgyvendinimą.
 
@@ -249,7 +253,11 @@ Laukinių augalų ir grybų ir jų išteklių apsauga užtikrinama:
 
 9 straipsnis. Invazinių rūšių kontrolės taryba
 
-1. Invazinių rūšių kontrolės taryba teikia pasiūlymus Aplinkos ministerijai dėl invazinių rūšių plitimo prevencijos, mokslinių tyrimų ir eksperimentinės plėtros, invazinių rūšių valdymo planų, priemonių ir programų kūrimo ir įgyvendinimo, dėl teisės aktų, susijusių su invazinėmis rūšimis, rengimo, pakeitimo ar papildymo, teikia rekomendacijas, siūlymus ir išvadas dėl laukinių augalų, grybų bei jų hibridų perkėlimo, introdukcijos ir reintrodukcijos, taip pat teikia pasiūlymus dėl invazinių rūšių įvežimo į Lietuvos Respubliką ir jų naudojimo.
+1. Invazinių rūšių kontrolės taryba teikia pasiūlymus Aplinkos ministerijai, Aplinkos ministerijos įgaliotoms institucijoms, koordinuojančioms ir įgyvendinančioms invazinių rūšių valdymą ir kontrolę, laukinių augalų, grybų bei jų hibridų naudojimą ir kontrolę, dėl invazinių rūšių plitimo prevencijos, mokslinių tyrimų ir eksperimentinės plėtros, invazinių rūšių valdymo ir veiksmų planų, gausos reguliavimo ir naikinimo priemonių ir programų kūrimo ir įgyvendinimo, dėl teisės aktų, susijusių su invazinėmis rūšimis, rengimo, pakeitimo ar papildymo, teikia rekomendacijas, pasiūlymus ir išvadas dėl laukinių augalų, grybų bei jų hibridų perkėlimo, introdukcijos ir reintrodukcijos, taip pat teikia pasiūlymus dėl invazinių rūšių įvežimo į Lietuvos Respubliką ir jų naudojimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2353, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25324
 
 2. Invazinių rūšių kontrolės tarybą sudaro Aplinkos ministerijos ir jos įgaliotų institucijų, Lietuvos Respublikos sveikatos apsaugos ministerijos ar jos įgaliotos institucijos, Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos, Valstybinės maisto ir veterinarijos tarnybos, Žemės ūkio ministerijos, Žuvininkystės tarnybos prie Lietuvos Respublikos žemės ūkio ministerijos, mokslo ir studijų institucijų atstovai.
 
@@ -562,4 +570,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3296, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21145
 
 Lietuvos Respublikos laukinės augalijos įstatymo Nr. VIII-1226 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2353, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25324
+
+Lietuvos Respublikos laukinių augalų ir grybų įstatymo Nr. VIII-1226 4 ir 9 straipsnių pakeitimo įstatymas
 
