@@ -4,7 +4,7 @@ identifier: "TAR.3CD1008B88A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-07-25
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
 
@@ -480,9 +480,17 @@ PASIRENGIMAS MOBILIZACIJAI IR PRIIMANČIOSIOS ŠALIES PARAMAI TEIKTI
 
 2. Mobilizacinius ir priimančiosios šalies paramos mokymus šio įstatymo 14 straipsnio 2 dalyje nurodytiems į civilinio mobilizacinio personalo rezervą įrašytiems asmenims organizuoja ir vykdo Institucija, dalyvaujanti formuojant mobilizacijos politiką. Į šiuos mokymus mobilizacijos sistemos subjekto vadovo siūlymu, suderinus su Institucija, dalyvaujančia formuojant mobilizacijos politiką, gali būti įtraukti ir vadovaujantis šio įstatymo 14 straipsnio 3 dalimi į civilinio mobilizacinio personalo rezervą įrašyti asmenys.
 
-3. Priimančiosios šalies paramos mokymų, kuriuose dalyvauja profesinės karo tarnybos, savanoriškos nenuolatinės karo tarnybos kariai ir aktyviojo kariuomenės personalo rezervo kariai kartu su šio įstatymo 14 straipsnio 2 dalyje nurodytais į civilinio mobilizacinio personalo rezervą įrašytais asmenimis, tvarką nustato krašto apsaugos ministras. Priimančiosios šalies paramos mokymus šioje dalyje nurodytiems asmenims organizuoja ir vykdo Lietuvos kariuomenė kartu su Institucija, dalyvaujančia formuojant mobilizacijos politiką. Į šiuos mokymus mobilizacijos sistemos subjekto vadovo siūlymu, suderinus su Institucija, dalyvaujančia formuojant mobilizacijos politiką, gali būti įtraukti ir vadovaujantis šio įstatymo 14 straipsnio 3 dalimi į civilinio mobilizacinio personalo rezervą įrašyti asmenys.
+3. Priimančiosios šalies paramos mokymų, kuriuose dalyvauja profesinės karo tarnybos kariai, kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai bei tarnybą rezerve atliekantys kariai kartu su šio įstatymo 14 straipsnio 2 dalyje nurodytais į civilinio mobilizacinio personalo rezervą įrašytais asmenimis, tvarką nustato krašto apsaugos ministras. Priimančiosios šalies paramos mokymus šioje dalyje nurodytiems asmenims organizuoja ir vykdo Lietuvos kariuomenė kartu su Institucija, dalyvaujančia formuojant mobilizacijos politiką. Į šiuos mokymus mobilizacijos sistemos subjekto vadovo siūlymu, suderinus su Institucija, dalyvaujančia formuojant mobilizacijos politiką, gali būti įtraukti ir vadovaujantis šio įstatymo 14 straipsnio 3 dalimi į civilinio mobilizacinio personalo rezervą įrašyti asmenys.
 
-4. Priimančiosios šalies paramos mokymų organizavimo, planavimo ir vykdymo profesinės karo tarnybos, savanoriškos nenuolatinės karo tarnybos kariams ir aktyviojo kariuomenės personalo rezervo kariams tvarką nustato, mokymo programas ir mokymo planus tvirtina Lietuvos kariuomenės vadas. Priimančiosios šalies paramos mokymus šioje dalyje nurodytiems asmenims organizuoja ir vykdo Lietuvos kariuomenė.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2731, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11568
+
+4. Priimančiosios šalies paramos mokymų organizavimo, planavimo ir vykdymo profesinės karo tarnybos, savanoriškos nenuolatinės karo tarnybos kariams ir tarnybą rezerve atliekantiems kariams tvarką nustato, mokymo programas ir mokymo planus tvirtina Lietuvos kariuomenės vadas. Priimančiosios šalies paramos mokymus šioje dalyje nurodytiems asmenims organizuoja ir vykdo Lietuvos kariuomenė
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2731, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11568
 
 5. Mobilizacijos sistemos subjektų vadovai užtikrina, kad mobilizaciniuose ir priimančiosios šalies paramos mokymuose dalyvautų į mokymų planus įtraukti jiems pavaldūs asmenys.
 
@@ -558,7 +566,11 @@ Paskelbus visuotinę mobilizaciją, įstatymų nustatyta tvarka taikomos (išsky
 
 3) naudojami Lietuvos kariuomenės materialiniai ištekliai;
 
-4) sustabdomas atleidimas iš profesinės karo tarnybos, savanoriškos nenuolatinės karo tarnybos, tarnybos aktyviajame kariuomenės personalo rezerve, išskyrus Karo prievolės įstatyme nustatytus paleidimo iš tarnybos paskelbus mobilizaciją atvejus;
+4) sustabdomas atleidimas iš profesinės karo tarnybos, savanoriškos nenuolatinės karo tarnybos, tarnybos rezerve, išskyrus Karo prievolės įstatyme nustatytus paleidimo iš tarnybos paskelbus mobilizaciją atvejus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2731, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11568
 
 5) teikiama priimančiosios šalies parama;
 
@@ -735,6 +747,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2010, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11588
 
 Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 8 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2731, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11568
+
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 18 ir 22 straipsnių pakeitimo įstatymas
 
 27 straipsnis. Sprendimų dėl priimančiosios šalies paramos teikimo užduočių ir sutarčių vykdymo priėmimas
 
