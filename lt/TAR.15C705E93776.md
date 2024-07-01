@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-12-23
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -359,11 +359,15 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
-38. Aktyvusis kariuomenės personalo rezervas, aktyviojo kariuomenės personalo rezervo karys, tarnyba aktyviajame kariuomenės personalo rezerve, parengtasis kariuomenės personalo rezervas ir privalomoji karo tarnyba suprantami taip, kaip jie apibrėžiami Karo prievolės įstatyme.
+38. Aktyvusis kariuomenės personalo rezervas, aktyviojo kariuomenės personalo rezervo karys, tarnyba aktyviajame kariuomenės personalo rezerve, parengtasis kariuomenės personalo rezervas, privalomoji karo tarnyba ir rezervo karys suprantami taip, kaip jie apibrėžiami Karo prievolės įstatyme.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 39. Viešasis transportas suprantamas taip, kaip jis apibrėžiamas Lietuvos Respublikos transporto veiklos pagrindų įstatyme.
 
@@ -687,11 +691,15 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 4) nustato krašto apsaugos sistemos personalo komplektavimo, mokymo ir valdymo bei kitų krašto apsaugos sistemos vidaus administravimo sričių politiką;
 
-41) atsižvelgdamas į Seimo nustatytus ribinius skaičius, nustato tarnaujančių profesinės karo tarnybos karių, karių savanorių ir kitų savanoriškos nenuolatinės karo tarnybos karių, į nuolatinę privalomąją pradinę karo tarnybą pašaukiamų ir jaunesniųjų karininkų vadų mokymuose dalyvaujančių, į pratybas ir mokymus pašaukiamų aktyviojo kariuomenės personalo rezervo karių skaičių, taip pat nustato užduočių vykdyme dalyvaujančių aktyviojo kariuomenės personalo rezervo karių skaičių;
+41) atsižvelgdamas į Seimo nustatytus ribinius skaičius, nustato tarnaujančių profesinės karo tarnybos karių, karių savanorių ir kitų savanoriškos nenuolatinės karo tarnybos karių, į nuolatinę privalomąją pradinę karo tarnybą pašaukiamų ir jaunesniųjų karininkų vadų mokymuose dalyvaujančių, į pratybas ir mokymus pašaukiamų aktyviojo kariuomenės personalo rezervo karių ir rezervo karių skaičių, taip pat nustato užduočių vykdyme dalyvaujančių aktyviojo kariuomenės personalo rezervo karių ir rezervo karių skaičių;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 5) nustato išteklių politiką ir jų efektyvaus naudojimo bei kontrolės tvarką;
 
@@ -867,13 +875,15 @@ Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 
 3. Kariuomenės dalinių, junginių, tarnybų ar kitokių karinių vienetų ir jų vadų kompetencijos ribas ir atstovavimo kariuomenei, sudarant sandorius bei kituose civiliniuose teisiniuose santykiuose, tvarką kariuomenės vado siūlymu nustato krašto apsaugos ministras.
 
-4. Kariuomenę sudaro kariuomenės pajėgos, junginiai, daliniai ir kiti kariniai vienetai. Kariuomenės vienetai komplektuojami profesinės, savanoriškos nenuolatinės karo tarnybos ir nuolatinės privalomosios pradinės karo tarnybos, aktyviojo kariuomenės personalo rezervo kariais.
+4. Kariuomenę sudaro kariuomenės pajėgos, junginiai, daliniai ir kiti kariniai vienetai. Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, nuolatinės privalomosios pradinės karo tarnybos, aktyviojo kariuomenės personalo rezervo ir rezervo karių.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
 
 Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 5. Kariuomenės pajėgų rūšys yra:
 
@@ -1103,11 +1113,13 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
-17) nustato kariuomenės personalo komplektavimo, mokymo ir profesinio rengimo reikalavimus, atsako už savanoriškos nenuolatinės karo tarnybos ir aktyviojo kariuomenės personalo rezervo karių rengimą ir jam pavaldžių karo mokymo įstaigų efektyvią veiklą;
+17) nustato kariuomenės personalo komplektavimo, mokymo ir profesinio rengimo reikalavimus, atsako už savanoriškos nenuolatinės karo tarnybos ir privalomosios karo tarnybos karių rengimą ir sau pavaldžių karo mokymo įstaigų efektyvią veiklą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -1499,11 +1511,13 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 2) profesinės karo tarnybos kariai – nuo priėmimo į profesinę karo tarnybą dienos;
 
-3) kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat aktyviojo kariuomenės personalo rezervo kariai – nuo to momento, kai pagal tarnybos ar karinių mokymų įsakymą atvyksta į paskirtą vietą ir prisistato kariniam viršininkui;
+3) kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat aktyviojo kariuomenės personalo ir rezervo kariai – nuo to momento, kai pagal tarnybos ar karinių mokymų įsakymą atvyksta į paskirtą vietą ir prisistato kariniam viršininkui;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 4) kariūnai – nuo priėmimo į karo mokymo įstaigą dienos;
 
@@ -1969,25 +1983,19 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
 36 straipsnis. Karių tarnybai taikomi apribojimai
 
-1. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams pratybų, mokymų ar tarnybos užduočių vykdymo metu (nuo to momento, kai pagal tarnybos ar karinių mokymų įsakymą atvyksta į paskirtą vietą ir prisistato kariniam viršininkui), privalomosios pradinės karo tarnybos kariams, profesinės karo tarnybos kariams ir kariūnams draudžiama dalyvauti politinėje veikloje, kuri apima:
+1. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams, rezervo kariams pratybų, mokymų ar tarnybos užduočių vykdymo metu (nuo to momento, kai pagal tarnybos ar karinių mokymų įsakymą atvyksta į paskirtą vietą ir prisistato kariniam viršininkui), privalomosios pradinės karo tarnybos kariams, profesinės karo tarnybos kariams ir kariūnams draudžiama dalyvauti politinėje veikloje, kuri apima:
 
 1) narystę politinėje organizacijoje;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
-
 2) aktyvų karių dalyvavimą politinių organizacijų organizuojamuose susirinkimuose ar kitokiuose viešuose veiksmuose, kuriais reiškiamos politinės nuostatos ar politiniai reikalavimai arba kuriais tiesiogiai remiama politinė organizacija;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 3) karių politinius pareiškimus, straipsnius ar kalbas, kuriuose viešai reiškiamas nesutikimas su demokratiškai išrinktos valstybės valdžios (Seimo, Respublikos Prezidento, Vyriausybės) paskelbta ir vykdoma politika ar viešai keliami politiniai reikalavimai valstybės valdžiai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 2. Karys, pradėdamas privalomąją pradinę ar profesinę karo tarnybą, tarnybos laikotarpiui nutraukia narystę ir veiklą politinėje partijoje ar politinėje organizacijoje.
 
@@ -2255,7 +2263,11 @@ Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 
 1) profesinės karo tarnybos kariai išleidžiant juos į atsargą, jeigu išleidimo į atsargą metu jie jau yra sukakę 60 metų, o karo kapelionai – 65 metus;
 
-2) atsargos kariai, sukakę 60 metų, išskyrus karo kapelionus ir karius savanorius, kurie išleidžiami į dimisiją sukakę 65 metus;
+2) atsargos kariai, sukakę 60 metų, išskyrus karo kapelionus ir karius savanorius, kurie išleidžiami į dimisiją sukakę 65 metus, ir norą atlikti kitą tarnybą rezerve pareiškusius karo prievolininkus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 3) dėl sveikatos būklės tapę netinkami mobilizacijai atsargos kariai, neatsižvelgiant į jų amžių.
 
@@ -2403,7 +2415,7 @@ specialistas                                  
 
 štabo seržantas, štabo seržantas     štabo laivūnas, štabo laivūnas
 
-specialistas                                                                           specialistas
+specialistas                                                                           specialistas
 
 viršila                                                                                   laivūnas
 
@@ -2933,7 +2945,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
-7. Karių savanorių ir kitų savanoriškos nenuolatinės karo tarnybos karių, taip pat aktyviojo kariuomenės personalo rezervo karių, pašauktų į pratybas, mokymus ar vykdyti tarnybos užduočių, tarnybinį atlyginimą, mokamą už tarnybos dienas, sudaro šio įstatymo 1 priede atitinkamam profesinės karo tarnybos kario laipsniui pirmaisiais tarnybos metais taikomas tarnybinio atlyginimo koeficientas, padaugintas iš bazinio dydžio, ir priedas už tarnybą kareivinių režimu, kurio koeficientas 0,21 bazinio dydžio. Priedas apskaičiuojamas proporcingai nustatytam koeficientui, mėnesio kalendorinių dienų skaičiui ir dienų skaičiui, kai buvo atliekama tarnyba kareivinių režimu. Jeigu kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario, pašaukto į pratybas, mokymus ar vykdyti tarnybos užduočių, gaunamas vidutinis darbo užmokestis yra didesnis negu kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, taip pat aktyviojo kariuomenės personalo rezervo kariams apskaičiuotas tarnybinis atlyginimas, jam išmokamas jo vidutinio darbo užmokesčio dydžio atlyginimas, neviršijantis 2 Valstybės duomenų agentūros paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžių.
+7. Karių savanorių ir kitų savanoriškos nenuolatinės karo tarnybos karių, taip pat aktyviojo kariuomenės personalo rezervo karių ir rezervo karių, pašauktų į pratybas, mokymus ar vykdyti tarnybos užduočių, tarnybinį atlyginimą, mokamą už tarnybos dienas, sudaro šio įstatymo 1 priede atitinkamam profesinės karo tarnybos kario laipsniui pirmaisiais tarnybos metais taikomas tarnybinio atlyginimo koeficientas, padaugintas iš bazinio dydžio, ir priedas už tarnybą kareivinių režimu, kurio koeficientas 0,21 bazinio dydžio. Priedas apskaičiuojamas proporcingai nustatytam koeficientui, mėnesio kalendorinių dienų skaičiui ir dienų skaičiui, kai buvo atliekama tarnyba kareivinių režimu. Jeigu kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario ar rezervo kario, pašaukto į pratybas, mokymus ar vykdyti tarnybos užduočių, gaunamas vidutinis darbo užmokestis yra didesnis negu kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, taip pat aktyviojo kariuomenės personalo rezervo kariams ar rezervo kariams apskaičiuotas tarnybinis atlyginimas, jam išmokamas jo vidutinio darbo užmokesčio dydžio atlyginimas, neviršijantis 2 Valstybės duomenų agentūros paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžių.
 
 Straipsnio dalies pakeitimai:
 
@@ -2944,6 +2956,8 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
 Nr. XIV-2369, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25622
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 8. Krašto apsaugos ministras už ypatingą pasižymėjimą tarnyboje gali apdovanoti karius iki vieno tarnybinio atlyginimo dydžio premijomis ar vardinėmis dovanomis.
 
@@ -3201,11 +3215,13 @@ Straipsnio dalies naikinimas:
 
 Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
 
-8. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, taip pat aktyviojo kariuomenės personalo rezervo kariams, pašauktiems į pratybas, mokymus ar vykdyti tarnybos užduočių, iš Krašto apsaugos ministerijai skirtų lėšų Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka atlyginamos kelionės išlaidos vykti į tarnybą ir grįžti iš jos, taip pat kelionės išlaidos vykdyti tarnybines pareigas.
+8. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, taip pat aktyviojo kariuomenės personalo rezervo kariams ir rezervo kariams, pašauktiems į pratybas, mokymus ar vykdyti tarnybos užduočių, iš Krašto apsaugos ministerijai skirtų lėšų Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka atlyginamos kelionės išlaidos vykti į tarnybą ir grįžti iš jos, taip pat kelionės išlaidos vykdyti tarnybines pareigas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 9. Karo medicinos gydytojams, pasirašiusiems pirmąją profesinės karo tarnybos sutartį ir paskirtiems į karinius vienetus, esančius vietovėse, nutolusiose nuo trijų didžiausių Lietuvos Respublikos miestų daugiau kaip 30 kilometrų, kuriose trūksta gydytojų, skiriama vienkartinė iki 15,63 bazinio dydžio išmoka. Išmoka turi būti grąžinta, jeigu karo medicinos gydytojas ištarnauja kariniame vienete, į kurį buvo paskirtas, mažiau kaip 3 metus, išskyrus atvejus, kai profesinės karo tarnybos sutartį prieš terminą nutraukia krašto apsaugos ministro sprendimu dėl pripažintų svarbių priežasčių ir nuo kario valios nepriklausančių bei nepašalinamų aplinkybių arba krašto apsaugos ministro ar jo įgalioto vado sprendimu perkeliamas į kitas pareigas. Šios išmokos dydį, atsižvelgdamas į tose vietovėse trūkstamų specialybių gydytojams savivaldybių tarybų sprendimais nustatytas garantijas ir (ar) tų vietovių atstumą nuo trijų didžiausių Lietuvos Respublikos miestų, skyrimo, mokėjimo ir grąžinimo tvarką nustato krašto apsaugos ministras.
 
@@ -3241,13 +3257,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
 
-2) kariams savanoriams, kitiems savanoriškos nenuolatinės karo tarnybos kariams ir aktyviojo kariuomenės personalo rezervo kariams po tarnybos, pratybų ar mokymų, privalomosios karo tarnybos kariams, atlikusiems nuolatinę privalomąją pradinę karo tarnybą arba paleistiems iš šios tarnybos, jeigu sveikatos sutrikimas atsirado dėl priežasčių, susijusių su kario tarnyba, kurių nustatymo tvarką nustato krašto apsaugos ministras;
+2) kariams savanoriams, kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams ir rezervo kariams po tarnybos, pratybų ar mokymų, privalomosios karo tarnybos kariams, atlikusiems nuolatinę privalomąją pradinę karo tarnybą arba paleistiems iš šios tarnybos, jeigu sveikatos sutrikimas atsirado dėl priežasčių, susijusių su kario tarnyba, kurių nustatymo tvarką nustato krašto apsaugos ministras;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2510, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20647
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 3) į tarptautines operacijas ar specialiąsias misijas tarnybos atlikti (dirbti) siunčiamiems, jose dalyvaujantiems ir dalyvavusiems krašto apsaugos sistemos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis;
 
@@ -3291,13 +3309,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
-5. Tikrosios karo tarnybos karių, žvalgybos pareigūnų, tarnaujančių pagal žvalgybos pareigūno tarnybos sutartis, asmenų, stojančių ar šaukiamų į tikrąją karo tarnybą, tarnybą žvalgybos institucijoje ar Lietuvos šaulių sąjungos kovinius būrius, karių savanorių, kitų savanoriškos nenuolatinės karo tarnybos ir aktyviojo kariuomenės personalo rezervo karių sveikatos tikrinimo nustatant tinkamumą tarnybai, atrankos pagal sveikatos būklę tvarką nustato Vyriausybė arba jos įgaliota institucija.
+5. Tikrosios karo tarnybos karių, žvalgybos pareigūnų, tarnaujančių pagal žvalgybos pareigūno tarnybos sutartis, asmenų, stojančių ar šaukiamų į tikrąją karo tarnybą, tarnybą žvalgybos institucijoje ar Lietuvos šaulių sąjungos kovinius būrius, karių savanorių, kitų savanoriškos nenuolatinės karo tarnybos, aktyviojo kariuomenės personalo rezervo ir rezervo karių sveikatos tikrinimo nustatant tinkamumą tarnybai, atrankos pagal sveikatos būklę tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 6. Krašto apsaugos ministerija ar kita įgaliota krašto apsaugos sistemos institucija ar jos padalinys nacionalinio saugumo ir gynybos tikslais turi teisę gauti iš Lietuvos Respublikos sveikatos priežiūros įstaigų informaciją, duomenis, įskaitant specialių kategorijų asmens duomenis, apie jose gydytų ar gydomų karių buvimą sveikatos priežiūros įstaigoje, sveikatos būklę ir jiems suteiktas ar teikiamas sveikatos priežiūros paslaugas, diagnozę, prognozes ir gydymą.
 
@@ -3399,17 +3419,21 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 1. Iš Krašto apsaugos ministerijai skiriamų biudžeto asignavimų kariams taikomos šio ir kitų įstatymų nustatytos su karo tarnyba susijusios socialinės ir kitokios garantijos bei jų suteikimo tvarka. Šiuo atveju netaikomi įstatymai, nustatantys socialines garantijas valstybės tarnautojams ir kitiems civiliams darbuotojams. Garantijos kariui taikomos pagal kitus įstatymus, jeigu šis įstatymas nenustato kitaip.
 
-2. Profesinės karo tarnybos kariams, taip pat kariams savanoriams, kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams, pašauktiems į pratybas, mokymus ar vykdyti tarnybos užduočių, – kai jie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo (kai šie kariai tampa laikinai nedarbingi ne dėl nelaimingo atsitikimo tarnyboje, nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos), iš krašto apsaugos sistemos institucijos, kurioje jie tarnauja, lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos išmokos skirtumas.
+2. Profesinės karo tarnybos kariams, taip pat kariams savanoriams, kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams, rezervo kariams, pašauktiems į pratybas, mokymus ar vykdyti tarnybos užduočių, – kai jie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo (kai šie kariai tampa laikinai nedarbingi ne dėl nelaimingo atsitikimo tarnyboje, nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos), iš krašto apsaugos sistemos institucijos, kurioje jie tarnauja, lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos išmokos skirtumas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
-3. Karo prievolininkams, nurodytiems šio įstatymo 65 straipsnio 1 dalies 2 punkte, tapusiems laikinai nedarbingais (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo tarnyboje, nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos) pratybų, mokymų arba kitų tarnybos užduočių vykdymo metu ir neįgijusiems teisės į ligos išmoką pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą, laikinojo nedarbingumo laikotarpiu, tačiau ne ilgiau kaip 4 mėnesius, iš Krašto apsaugos ministerijai skirtų lėšų mokama Ligos ir motinystės socialinio draudimo įstatyme nustatyto dydžio ligos išmoka, taikant šiame įstatyme nustatytą maksimalaus kompensuojamojo uždarbio dydį. Karo prievolininkams, atlikusiems privalomąją karo tarnybą arba paleistiems iš šios tarnybos, ši išmoka mokama nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Kariams savanoriams, kitiems savanoriškos nenuolatinės karo tarnybos kariams ir aktyviojo kariuomenės personalo rezervo kariams, kurie tapo laikinai nedarbingi (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo tarnyboje, nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos) dalyvaudami pratybose, mokymuose arba vykdydami kitas tarnybos užduotis ir įgijo teisę į ligos išmoką pagal Ligos ir motinystės socialinio draudimo įstatymą, už 2 pirmąsias kalendorines nedarbingumo dienas, sutampančias su tarnybos grafiku, iš Krašto apsaugos ministerijai skirtų asignavimų mokama Ligos ir motinystės socialinio draudimo įstatyme nustatyto dydžio ligos išmoka.
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
+
+3. Karo prievolininkams, nurodytiems šio įstatymo 65 straipsnio 1 dalies 2 punkte, tapusiems laikinai nedarbingais (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo tarnyboje, nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos) pratybų, mokymų arba kitų tarnybos užduočių vykdymo metu ir neįgijusiems teisės į ligos išmoką pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą, laikinojo nedarbingumo laikotarpiu, tačiau ne ilgiau kaip 4 mėnesius, iš Krašto apsaugos ministerijai skirtų lėšų mokama Ligos ir motinystės socialinio draudimo įstatyme nustatyto dydžio ligos išmoka, taikant šiame įstatyme nustatytą maksimalaus kompensuojamojo uždarbio dydį. Karo prievolininkams, atlikusiems privalomąją karo tarnybą arba paleistiems iš šios tarnybos, ši išmoka mokama nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Kariams savanoriams, kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams ir rezervo kariams, kurie tapo laikinai nedarbingi (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo tarnyboje, nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos) dalyvaudami pratybose, mokymuose arba vykdydami kitas tarnybos užduotis ir įgijo teisę į ligos išmoką pagal Ligos ir motinystės socialinio draudimo įstatymą, už 2 pirmąsias kalendorines nedarbingumo dienas, sutampančias su tarnybos grafiku, iš Krašto apsaugos ministerijai skirtų asignavimų mokama Ligos ir motinystės socialinio draudimo įstatyme nustatyto dydžio ligos išmoka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 4. Tikrosios karo tarnybos metu su tarnyba susijusiomis aplinkybėmis žuvę (mirę) kariai laidojami valstybės lėšomis. Valstybės finansuojamų laidojimo išlaidų dydžius ir išlaidų apmokėjimo tvarkos aprašą tvirtina Vyriausybė arba jos įgaliota institucija.
 
@@ -4949,11 +4973,13 @@ Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
 
 2. Privalomosios pradinės karo tarnybos kariai aprūpinami gyvenamąja patalpa kareivinėse. Aprūpinimo gyvenamąja patalpa kareivinėse tvarką nustato krašto apsaugos ministras.
 
-3. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat aktyviojo kariuomenės personalo rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių, apgyvendinami gyvenamosiose patalpose (kareivinėse).
+3. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat aktyviojo kariuomenės personalo rezervo kariai ir rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių, apgyvendinami gyvenamosiose patalpose (kareivinėse).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 4. Profesinės karo tarnybos kariai, jeigu jie yra perkelti iš vienos tarnybos vietovės į kitą ir toje vietovėje jie patys ar jų šeimos nariai neturi nuosavybės teise priklausančios, techninius ir higienos reikalavimus atitinkančios gyvenamosios patalpos ar jos dalies, gali būti laikinai, tačiau ne ilgiau kaip 3 mėnesius, apgyvendinti tarnybiniuose butuose krašto apsaugos ministro nustatyta tvarka. Už gyvenimą tarnybiniuose butuose kariai nuomos mokesčio nemoka. Kariai privalo mokėti mokesčius už šaltą ir karštą vandenį, elektros energiją, dujas, šilumos energiją ir komunalines paslaugas (šiukšlių išvežimą, liftą, bendrojo naudojimo patalpų ir teritorijos valymą ir kitas) pagal toje vietovėje galiojančius tarifus.
 
@@ -4985,7 +5011,7 @@ Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
 
-9. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat aktyviojo kariuomenės personalo rezervo kariai pratybų, mokymų ar tarnybos užduočių vykdymo laikotarpiu aprūpinami arba iš dalies aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems mokama maitinimosi išlaidų piniginė kompensacija. Iš dalies maistu aprūpintiems kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams mokama maitinimosi išlaidų piniginė kompensacija mažinama sunaudotų maisto produktų ir maisto žaliavų, skirtų fiziologinei mitybos normai užtikrinti, kaina. Iš dalies maistu aprūpintiems ir maistu neaprūpintiems kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams krašto apsaugos ministro nustatyta tvarka ir atvejais gali būti sudaromos sąlygos neatlygintinai pasimaitinti krašto apsaugos sistemos institucijų maitinimą organizuojančiuose padaliniuose. Iš dalies maistu aprūpintiems ir neaprūpintiems maistu kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams, kurie neatlygintinai pasimaitino krašto apsaugos sistemos institucijų maitinimą organizuojančiuose padaliniuose, maitinimosi išlaidų piniginė kompensacija mažinama kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario, aktyviojo kariuomenės personalo rezervo kario neatlygintinam pasimaitinimui sunaudotų maisto produktų ir maisto žaliavų kaina.
+9. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat aktyviojo kariuomenės personalo rezervo kariai ir rezervo kariai pratybų, mokymų ar tarnybos užduočių vykdymo laikotarpiu aprūpinami arba iš dalies aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems mokama maitinimosi išlaidų piniginė kompensacija. Iš dalies maistu aprūpintiems kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams ir rezervo kariams mokama maitinimosi išlaidų piniginė kompensacija mažinama sunaudotų maisto produktų ir maisto žaliavų, skirtų fiziologinei mitybos normai užtikrinti, kaina. Iš dalies maistu aprūpintiems ir maistu neaprūpintiems kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams ir rezervo kariams krašto apsaugos ministro nustatyta tvarka ir atvejais gali būti sudaromos sąlygos neatlygintinai pasimaitinti krašto apsaugos sistemos institucijų maitinimą organizuojančiuose padaliniuose. Iš dalies maistu aprūpintiems ir neaprūpintiems maistu kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams ir rezervo kariams, kurie neatlygintinai pasimaitino krašto apsaugos sistemos institucijų maitinimą organizuojančiuose padaliniuose, maitinimosi išlaidų piniginė kompensacija mažinama kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario, aktyviojo kariuomenės personalo rezervo kario, rezervo kario neatlygintinam pasimaitinimui sunaudotų maisto produktų ir maisto žaliavų kaina.
 
 Straipsnio dalies pakeitimai:
 
@@ -4994,6 +5020,8 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
 Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 91. Maitinimosi išlaidų piniginės kompensacijos dydį nustato Vyriausybė. Karių aprūpinimo maistu sąlygas, atvejus ir tvarką, taip pat maitinimosi išlaidų piniginės kompensacijos ir jos dalies apskaičiavimo ir mokėjimo tvarką nustato krašto apsaugos ministras.
 
@@ -5183,11 +5211,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
-5) ribiniai kiekvienais metais į pratybas ir mokymus pašaukiamų aktyviojo kariuomenės personalo rezervo karių skaičiai;
+5) ribiniai kiekvienais metais į pratybas ir mokymus pašaukiamų aktyviojo kariuomenės personalo rezervo karių ir rezervo karių skaičiai;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 6) ribiniai kariūnų skaičiai;
 
@@ -5199,11 +5229,13 @@ Nr. XIII-2351, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12441
 
 3. Šio straipsnio 2 dalyje nurodyti privalomosios karo tarnybos karių ribiniai skaičiai netaikomi paskelbus mobilizaciją ir ginkluotos gynybos nuo agresijos (karo) atveju. Skelbiant dalinę mobilizaciją, gali būti nustatytas jos mastas nurodant mobilizuojamų karių ribinius skaičius.
 
-4. Aktyviojo kariuomenės personalo rezervo karių kartotinis rengimas turi atitikti valstybės gynybinius poreikius.
+4. Aktyviojo kariuomenės personalo rezervo karių kartotinis rengimas ir rezervo karių pratybos ir mokymai turi atitikti valstybės gynybinius poreikius.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+
+Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 
 Įstatymas papildytas straipsniu:
 
