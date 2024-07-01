@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-07-05
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -2934,6 +2934,12 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
+51. Buitiniai vartotojai, kuriems šiame straipsnyje nustatyta tvarka ir sąlygomis užtikrinamas garantinis tiekimas, turi teisę garantiniam elektros energijos tiekėjui pateikti prašymą išdėstyti skolą už suvartotą elektros energiją, įskaitant jos persiuntimą ir su tuo susijusias paslaugas bei viešuosius interesus atitinkančias paslaugas, dalimis. Šio prašymo pagrindu garantinis elektros energijos tiekėjas ir buitinis vartotojas sudaro skolos už suvartotą elektros energiją, įskaitant jos persiuntimą ir su tuo susijusias paslaugas bei viešuosius interesus atitinkančias paslaugas, padengimo dalimis grafiką ne ilgesniam kaip 6 mėnesių terminui. Pakartotinai prašymas išdėstyti skolą už suvartotą elektros energiją, įskaitant jos persiuntimą ir su tuo susijusias paslaugas bei viešuosius interesus atitinkančias paslaugas, dalimis gali būti teikiamas tik tada, kai buitinis vartotojas yra atsiskaitęs su garantiniu elektros energijos tiekėju pagal anksčiau sudarytą skolos padengimo dalimis grafiką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2751, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11295
+
 6. Garantinis elektros energijos tiekėjas ne vėliau kaip per 5 darbo dienas nuo garantinio tiekimo pradžios raštu ir (ar) elektroninių ryšių priemonėmis informuoja vartotojus, išskyrus buitinius vartotojus, nurodytus šio įstatymo 43 straipsnio 10 dalyje, apie tai, kad garantinis elektros energijos tiekėjas nuo garantinio tiekimo pradžios suteikė prieigą nepriklausomiems tiekėjams prie šių vartotojų duomenų: objekto numerio, objekto adreso, kontaktinės informacijos (telefono ryšio numerio ir elektroninio pašto adreso), jeigu tokius duomenis garantinis elektros energijos tiekėjas turi, vartotojo pasirinkto tarifo ar tarifo plano, įskaitant laiko zonų skaičių.
 
 Papildyta straipsnio dalimi:
@@ -2988,6 +2994,12 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-483, 2021-06-30, paskelbta TAR 2021-07-13, i. k. 2021-15833
 
+21. Buitiniai vartotojai turi teisę visuomeniniam tiekėjui pateikti prašymą išdėstyti skolą už suvartotą elektros energiją, įskaitant jos persiuntimą ir su tuo susijusias paslaugas bei viešuosius interesus atitinkančias paslaugas, dalimis. Šio prašymo pagrindu visuomeninis tiekėjas ir buitinis vartotojas sudaro skolos už suvartotą elektros energiją, įskaitant jos persiuntimą ir su tuo susijusias paslaugas bei viešuosius interesus atitinkančias paslaugas, padengimo dalimis grafiką ne ilgesniam kaip 6 mėnesių terminui. Pakartotinai prašymas išdėstyti skolą už suvartotą elektros energiją, įskaitant jos persiuntimą ir su tuo susijusias paslaugas bei viešuosius interesus atitinkančias paslaugas, dalimis gali būti teikiamas tik tada, kai buitinis vartotojas yra atsiskaitęs su visuomeniniu tiekėju pagal anksčiau sudarytą skolos padengimo dalimis grafiką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2751, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11295
+
 46 straipsnis. Nepriklausomas elektros energijos tiekimas
 
 1. Jeigu yra rašytinis ar elektroninių ryšių priemonėmis pateiktas vartotojo sutikimas, nepriklausomas tiekėjas turi teisę iš skirstomųjų tinklų operatoriaus gauti vartotojo elektros energijos suvartojimo duomenis, kurie naudojami pasiūlymams dėl elektros energijos tiekimo parengti ir pateikti vartotojui. Vartotojo elektros energijos suvartojimo duomenų pateikimo nepriklausomam tiekėjui tvarka nustatoma Elektros energijos tiekimo ir naudojimo taisyklėse. Nepriklausomas tiekėjas jį pasirinkusiems vartotojams elektros energiją tiekia pagal sutartis. Vartotojo prašymu nepriklausomas tiekėjas ne vėliau kaip per 10 dienų nuo vartotojo prašymo pateikimo dienos privalo parengti ir pateikti elektros energijos pirkimo–pardavimo sutarties arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties projektą. Šios sutartys sudaromos raštu ar, jeigu yra techninės galimybės, elektroninių ryšių priemonėmis (pasirašomos saugiu elektroniniu parašu, per elektroninės bankininkystės sistemą ar naudojant kitas technologijas), jeigu jomis galima tinkamai identifikuoti sutartį sudarantį asmenį. Šioje dalyje nurodytas sutartis gali būti siūloma sudaryti ir nuotoliniu būdu telefonu. Nuotolinių sutarčių telefonu sudarymo tvarka ir kiti reikalavimai tokioms sutartims nustatyti Civilinio kodekso 6.2287, 6.2288, 6.22810 ir 6.22811 straipsniuose.
@@ -2997,6 +3009,12 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
 
 2. Nepriklausomų tiekėjų ir vartotojų tarpusavio santykiai grindžiami šio įstatymo 61 straipsnio 1 dalyje nurodytomis sutartimis. Buitinis vartotojas paprastos rašytinės formos įgaliojimu gali įgalioti kitą fizinį asmenį jo vardu su nepriklausomu tiekėju sudaryti elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį. Su buitiniais vartotojais sudaromos elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartys privalo atitikti energetikos ministro patvirtintame Buitinių vartotojų su tiekėjais sudaromų elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarčių standartinių sąlygų apraše nustatytas sąlygas. Nepriklausomas tiekėjas neprivalo sudaryti su vartotoju sutarties ar tiekti elektros energiją vartotojui ar jo objektams, jeigu vartotojas nesutinka su tiekėjo nurodytomis nepriklausomo elektros energijos tiekimo sąlygomis. Nepriklausomo tiekėjo atsisakymas sudaryti sutartį gali būti skundžiamas šio įstatymo 78 straipsnyje nustatyta tvarka.
+
+21. Buitiniai vartotojai, sudarę elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su nepriklausomu tiekėju, turi teisę pateikti prašymą išdėstyti skolą už suvartotą elektros energiją, įskaitant jos persiuntimą ir su tuo susijusias paslaugas bei viešuosius interesus atitinkančias paslaugas, dalimis ne ilgesniam kaip 6 mėnesių terminui. Šio prašymo pagrindu nepriklausomas tiekėjas ir buitinis vartotojas sudaro skolos už suvartotą elektros energiją, įskaitant jos persiuntimą ir su tuo susijusias paslaugas bei viešuosius interesus atitinkančias paslaugas, padengimo dalimis grafiką ne ilgesniam kaip 6 mėnesių terminui. Pakartotinai prašymas dėl skolos už suvartotą elektros energiją, įskaitant jos persiuntimą ir su tuo susijusias paslaugas bei viešuosius interesus atitinkančias paslaugas, išdėstymo dalimis gali būti teikiamas tik tada, kai buitinis vartotojas yra atsiskaitęs su nepriklausomu tiekėju pagal anksčiau sudarytą  skolos padengimo dalimis grafiką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2751, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11295
 
 3. Nepriklausomas tiekėjas, sudaręs elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su vartotoju arba prieš nutraukdamas elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su vartotoju, privalo prieš 2 savaites iki su vartotoju sudarytoje sutartyje numatytos sutarties įsigaliojimo datos arba iki sutartyje nurodytos elektros energijos tiekimo pradžios datos, jeigu jos nesutampa, arba iki sutarties nutraukimo apie tai raštu ar elektroninių ryšių priemonėmis pranešti tinklų operatoriui, prie kurio valdomų tinklų yra prijungti vartotojo įrenginiai, ir šioje dalyje nustatytais terminais ir būdais informuoti vartotoją apie sutarties įsigaliojimo datą arba elektros energijos tiekimo pradžios datą, jeigu jos nesutampa, arba apie sutarties nutraukimą. Jeigu vartotojui keičiant tiekėją sutartis su ankstesniu tiekėju nebuvo nutraukta sutartyje numatytomis sąlygomis, sutartis su ankstesniu tiekėju dėl atitinkamo vartotojo objekto laikoma nutrūkusia nuo sutartyje su nauju tiekėju nurodytos elektros energijos tiekimo pradžios datos, jeigu sutartyje nebuvo susitarta kitaip. Tinklų operatorius, gavęs tiekėjo pranešimą apie elektros energijos pirkimo–pardavimo sutarties arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties su vartotoju sudarymą, ne vėliau kaip per 3 dienas nuo tokio pranešimo gavimo informuoja apie tai ankstesnį tiekėją, vartotoją ir naują tiekėją.
 
