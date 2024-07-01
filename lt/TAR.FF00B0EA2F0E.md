@@ -4,7 +4,7 @@ identifier: "TAR.FF00B0EA2F0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-01-22"
-last_updated: "2023-11-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asociacijų įstatymas
 
-Suvestinė redakcija nuo 2023-11-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2025-01-14
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
 
@@ -40,13 +40,15 @@ BENDROSIOS NUOSTATOS
 
 2. Asociacijoms, kurių veiklą reglamentuoja kiti įstatymai, šio Įstatymo nuostatos taikomos tiek, kiek jos neprieštarauja kitų įstatymų nuostatoms.
 
-3. Šio Įstatymo nuostatos dėl metinių finansinių ataskaitų rinkinio ir veiklos ataskaitos parengimo, pateikimo ir paskelbimo asociacijoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą priskiriamos prie viešojo sektoriaus subjektų, taikomos tiek, kiek Viešojo sektoriaus atskaitomybės įstatymas nenustato kitaip.
-
-TAR pastaba. 3 straipsnio nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+3. Šio Įstatymo nuostatos dėl metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir likvidavimo pabaigos finansinės ataskaitos parengimo, pateikimo ir paskelbimo, reorganizavimo pabaigos finansinės ataskaitos parengimo ir paskelbimo asociacijoms, pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą priskiriamoms prie viešojo sektoriaus subjektų, taikomos tiek, kiek Viešojo sektoriaus atskaitomybės įstatymas nenustato kitaip.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 2 straipsnis. Asociacijos samprata
 
@@ -170,9 +172,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
-5) per 4 mėnesius nuo finansinių metų pabaigos tvirtina asociacijos metinių finansinių ataskaitų rinkinį arba metinę ataskaitą, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais asociacija likviduojama;
-
-TAR pastaba. 8 straipsnio 1 dalies 5 punkto nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+5) per 4 mėnesius nuo finansinių metų pabaigos tvirtina asociacijos metinių finansinių ataskaitų rinkinį arba metinę ataskaitą, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais asociacija likviduojama. Jeigu asociacijos metinių finansinių ataskaitų auditas privalomas pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys;
 
 Straipsnio punkto pakeitimai:
 
@@ -182,17 +182,21 @@ Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
+
 6) priima sprendimą dėl asociacijos pertvarkymo ar pabaigos (reorganizavimo ar likvidavimo);
 
 7) priima sprendimą dėl kitų juridinių asmenų steigimo ar dėl tapimo kitų juridinių asmenų dalyviu, jeigu asociacijos įstatai nenustato kitaip;
 
-8) priima sprendimą dėl asociacijos metinių finansinių ataskaitų rinkinio audito ir renka auditorių ar audito įmonę.
-
-TAR pastaba. 8 straipsnio 1 dalies 8 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+8) priima sprendimą dėl asociacijos metinių finansinių ataskaitų audito kitais, nei nustatyta Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme ir asociacijos įstatuose, atvejais ir renka auditorių ar audito įmonę.
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 2. Visuotinis narių susirinkimas sprendžia ir kitus šiame Įstatyme ir asociacijos įstatuose visuotinio narių susirinkimo kompetencijai priskirtus klausimus, jei pagal šį Įstatymą tai nepriskirta kitų asociacijos organų kompetencijai ir jei pagal esmę tai nėra valdymo organo funkcijos.
 
@@ -256,7 +260,11 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
-4) metinių finansinių ataskaitų rinkinio ir veiklos ataskaitos parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metinės ataskaitos parengimą ir pateikimą Juridinių asmenų registro tvarkytojui ir visuotiniam narių susirinkimui;
+4) metinių finansinių ataskaitų rinkinio ir veiklos ataskaitos parengimą ir pateikimą kartu su auditoriaus išvada (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą) arba metinės ataskaitos parengimą ir pateikimą Juridinių asmenų registro tvarkytojui ir visuotiniam narių susirinkimui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -268,13 +276,21 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
-6) metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir auditoriaus išvados (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metinės ataskaitos paskelbimą asociacijos interneto svetainėje, jeigu asociacija ją turi;
+6) metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir auditoriaus išvados (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą) arba metinės ataskaitos paskelbimą asociacijos interneto svetainėje, jeigu asociacija ją turi;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
-7) sąlygų tretiesiems asmenims susipažinti su metinių finansinių ataskaitų rinkiniu, veiklos ataskaita ir auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metine ataskaita asociacijos buveinėje sudarymą;
+7) sąlygų tretiesiems asmenims susipažinti su metinių finansinių ataskaitų rinkiniu, veiklos ataskaita ir auditoriaus išvada (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą) arba metine ataskaita asociacijos buveinėje sudarymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -380,13 +396,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
-7. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų ir metinės ataskaitos parengimo tvarka nustatoma Lietuvos finansinės atskaitomybės standarte.
-
-TAR pastaba. 10 straipsnio 7 dalies nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+7. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų ir metinės ataskaitos parengimo tvarka nustatoma Lietuvos finansinės atskaitomybės standarte. Finansų ministras nustato veiklos ataskaitos formą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 Straipsnio pakeitimai:
 
@@ -592,11 +608,15 @@ ASOCIACIJŲ PERTVARKYMO IR PABAIGOS YPATUMAI
 
 2. Vienu metu asociacija negali būti ir reorganizuojama, ir pertvarkoma. Jeigu yra priimtas sprendimas reorganizuoti asociaciją, ji turi parengti finansinių ataskaitų rinkinį arba metinę ataskaitą ir pagal šio sprendimo priėmimo dienos duomenis, ir pagal asociacijos reorganizavimo pabaigos dienos duomenis.
 
-TAR pastaba. 17 straipsnio 2 dalies nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+TAR pastaba: 2  dalies nuostatų redakcija nuo 2025-07-01:
+
+2. Vienu metu asociacija negali būti ir reorganizuojama, ir pertvarkoma. Jeigu asociacija reorganizuojama, ji turi parengti reorganizavimo pabaigos finansinę ataskaitą pagal paskutinės savo veiklos dienos iki reorganizavimo pabaigos dienos duomenis. Šios ataskaitos turinys detalizuojamas Lietuvos finansinės atskaitomybės standarte
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 3. Jeigu asociacijoje liko mažiau negu trys nariai, per trisdešimt dienų apie tokį narių sumažėjimą asociacija turi pranešti juridinių asmenų registrui Juridinių asmenų registro nuostatų nustatyta tvarka.
 
@@ -608,13 +628,17 @@ Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
 2) parengti finansinių ataskaitų rinkinį arba metinę ataskaitą pagal sprendimo dėl likvidavimo priėmimo dienos duomenis, o pagal likvidavimo pabaigos dienos duomenis parengti likvidavimo ataskaitą, kurios turinys detalizuojamas Lietuvos finansinės atskaitomybės standarte;
 
-TAR pastaba. 17 straipsnio 5 dalies 2 punkto nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+TAR pastaba. 2 punkto redakcija nuo 2025-07-01:
+
+2) parengti likvidavimo pabaigos finansinę ataskaitą pagal paskutinės asociacijos veiklos dienos iki likvidavimo pabaigos dienos duomenis. Šios ataskaitos turinys detalizuojamas Lietuvos finansinės atskaitomybės standarte. Jeigu nuo finansinių metų pabaigos iki paskutinės asociacijos veiklos dienos iki likvidavimo pabaigos dienos praėjo ne daugiau negu 30 dienų, paskutinių iki likvidavimo pasibaigusių finansinių metų metinių finansinių ataskaitų rinkinys gali būti nerengiamas, jeigu visa reikšminga finansinių metų informacija pateikiama likvidavimo pabaigos finansinėje ataskaitoje.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 3) perduoti likusį asociacijos turtą šio Įstatymo nustatyta tvarka;
 
@@ -623,6 +647,14 @@ Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 5) perduoti dokumentus saugoti Archyvų įstatymo nustatyta tvarka;
 
 6) pateikti juridinių asmenų registro tvarkytojui asociacijos likvidavimo aktą ir kitus dokumentus, reikalingus asociacijai išregistruoti.
+
+TAR pastaba: 6 punkto redakcija nuo 2025-07-01:
+
+6) pateikti Juridinių asmenų registro tvarkytojui iki asociacijos išregistravimo iš Juridinių asmenų registro dienos asociacijos likvidavimo aktą, likvidavimo pabaigos finansinę ataskaitą ir kitus dokumentus, reikalingus asociacijai išregistruoti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 6. Likviduojama asociacija nerengia veiklos ataskaitos. Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais likviduojamų asociacijų nepatvirtinti finansinių ataskaitų rinkiniai arba metinės ataskaitos Juridinių asmenų registro tvarkytojui pateikiami per 5 mėnesius nuo finansinių metų pabaigos.
 
@@ -744,21 +776,51 @@ Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 2, 8, 9, 10, 12, 13, 15 ir 16 straipsnių pakeitimo įstatymas
 
-101 straipsnis. Metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir metinės ataskaitos pasirašymas, skelbimas ir teikimas, finansinių ataskaitų kokybės stebėsena
+10.
 
-1. Metinių finansinių ataskaitų rinkinys, veiklos ataskaita ir metinė ataskaita turi būti pasirašyti asociacijos įstatuose nurodyto valdymo organo nario. Šiuose dokumentuose turi būti nurodytas pasirašančio asmens pareigų pavadinimas, vardas ir pavardė.
+Lietuvos Respublikos Seimas, Įstatymas
 
-2. Metinių finansinių ataskaitų rinkinys, veiklos ataskaita kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas), taip pat metinė ataskaita yra vieši dokumentai. Šie dokumentai ne mažiau kaip už paskutinius 3 finansinius metus, išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus, reglamentuojančius fizinių asmenų asmens duomenų apsaugą, viešai neskelbiami, turi būti paskelbti asociacijos interneto svetainėje, jeigu asociacija ją turi. Be to, tretiesiems asmenims turi būti sudarytos sąlygos su šiais dokumentais susipažinti asociacijos buveinėje.
+Nr. XIV-2631, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09666
 
-3. Asociacijos veiklos ataskaita turi būti pateikta Juridinių asmenų registro tvarkytojui kartu su metinių finansinių ataskaitų rinkiniu, o tais atvejais, kai yra atliktas finansinių ataskaitų auditas, kartu su audituotu metinių finansinių ataskaitų rinkiniu turi būti pateikta ir auditoriaus išvada. Asociacijos, kuri priskiriama prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui teikiami Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Asociacija, kuri turi teisę rengti metinę ataskaitą šio Įstatymo 10 straipsnio 6 dalyje nurodytu atveju, metinę ataskaitą turi pateikti Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 6 ir 12 straipsnių pakeitimo įstatymas
 
-4. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija nustato Juridinių asmenų registre viešai skelbiamų finansinių ataskaitų kokybės stebėsenos tvarką ir paskiria instituciją, atliksiančią šią stebėseną.
+11.
 
-TAR pastaba. 101 straipsnio nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
+
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 1, 8, 9, 10, 10-1 ir 17 straipsnių pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas
+
+101 straipsnis. Metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir metinės ataskaitos skelbimas ir teikimas
+
+1. Metinių finansinių ataskaitų rinkinys, veiklos ataskaita kartu su auditoriaus išvada (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą), taip pat metinė ataskaita yra vieši dokumentai. Šie dokumentai ne mažiau kaip už paskutinius 3 finansinius metus turi būti paskelbti, išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus, reglamentuojančius fizinių asmenų asmens duomenų apsaugą, viešai neskelbiami, asociacijos interneto svetainėje, jeigu asociacija ją turi. Be to, tretiesiems asmenims turi būti sudarytos sąlygos su šiais dokumentais susipažinti asociacijos buveinėje.
+
+2. Asociacijos veiklos ataskaita turi būti pateikta Juridinių asmenų registro tvarkytojui kartu su metinių finansinių ataskaitų rinkiniu, o jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, kartu su audituotu metinių finansinių ataskaitų rinkiniu turi būti pateikta ir auditoriaus išvada. Asociacija, kuri turi teisę rengti metinę ataskaitą šio Įstatymo 10 straipsnio 6 dalyje nurodytu atveju, metinę ataskaitą turi pateikti Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+
+3. Prie viešojo sektoriaus subjektų priskiriamos asociacijos metinių finansinių ataskaitų rinkinys, veiklos ataskaita, o jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui teikiami finansų ministro nustatyta tvarka. Prie viešojo sektoriaus subjektų nepriskiriamos asociacijos metinių finansinių ataskaitų rinkinys, veiklos ataskaita, metinė ataskaita, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada, jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, teikiami Juridinių asmenų registro tvarkytojui Vyriausybės nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
+
+102 straipsnis. Finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsena
+
+1. Atliekant finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, vertinama Juridinių asmenų registro tvarkytojui pateiktų finansinių ataskaitų ir (arba) veiklos ataskaitos atitiktis reikalavimams, nustatytiems šių ataskaitų rengimą reglamentuojančiuose teisės aktuose.
+
+2. Finansų ministras nustato Juridinių asmenų registro tvarkytojui pateiktų finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenos tvarką ir paskiria instituciją šiai stebėsenai atlikti (toliau šiame straipsnyje – stebėsenos institucija).
+
+3. Stebėsenos institucija, atlikdama asociacijos finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, turi teisę kreiptis į asociaciją su prašymu pateikti papildomą informaciją, reikalingą finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenai atlikti.
+
+4. Gavusi stebėsenos institucijos prašymą pateikti papildomą informaciją, reikalingą finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenai atlikti, asociacija šią informaciją turi pateikti per 10 darbo dienų.
+
+5. Jeigu stebėsenos institucija, atlikdama asociacijos finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, nustato reikšmingų finansinių ataskaitų ir (arba) veiklos ataskaitos trūkumų, Juridinių asmenų registro tvarkytojui pateikia pranešimą apie tai. Šio pranešimo pagrindu Juridinių asmenų registre įregistruojamas faktas, kad atliekant stebėseną buvo nustatyta reikšmingų finansinių ataskaitų ir (arba) veiklos ataskaitos trūkumų. Šis faktas neturi būti išregistruotas iš Juridinių asmenų registro, kol atitinkamos ataskaitos tvarkomos šiame registre. Reikšmingų trūkumų kriterijus nustato stebėsenos institucija.
+
+Papildyta straipsniu:
+
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 KETVIRTASIS SKIRSNIS
 
