@@ -4,7 +4,7 @@ identifier: "TAR.CF3E2829B861"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-01-08"
-last_updated: "2022-01-31"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2022-01-31 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2025-10-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
 
@@ -738,6 +738,14 @@ Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
 
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 2, 3, 4, 8, 8-1, 9, 10, 10-1, 10-4, 12, 13, 14, 15, 16, 21, 21-1, 21-4, 21-7, 23 straipsnių, priedo pakeitimo ir Įstatymo papildymo ketvirtuoju-2 skirsniu įstatymas
 
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2694, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10827
+
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 21-12 straipsnio pakeitimo įstatymas
+
 81 straipsnis. Į I sąrašą įtrauktų medžiagų siuntimas
 
 Į I sąrašą įtrauktas medžiagas siųsti paštu draudžiama, išskyrus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka diplomatiniu ar registruotu (greituoju) paštu Europos Sąjungos valstybių narių ir pagal tarptautinius susitarimus diplomatiniu ar registruotu (greituoju) paštu valstybių, kurios nėra Europos Sąjungos valstybės narės, kompetentingoms institucijoms siunčiamus arba iš jų gaunamus šių medžiagų pavyzdžius, siekiant atskleisti ir tirti nusikalstamas veikas, vykdyti baudžiamąjį persekiojimą, atlikti ekspertizes ar objektų tyrimus.
@@ -1274,11 +1282,13 @@ Straipsnio numeracijos pakeitimas:
 
 Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
 
-1. Narkotinių ir psichotropinių medžiagų kontrolę pagal kompetenciją vykdo Valstybinė vaistų kontrolės tarnyba, Narkotikų, tabako ir alkoholio kontrolės departamentas, policijos ir muitinės įstaigos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Nacionalinis maisto ir veterinarijos rizikos vertinimo institutas, vadovaudamiesi šiuo įstatymu ir (ar) kitais jų veiklą reglamentuojančiais teisės aktais.
+1. Narkotinių ir psichotropinių medžiagų kontrolę pagal kompetenciją vykdo Valstybinė vaistų kontrolės tarnyba, Narkotikų, tabako ir alkoholio kontrolės departamentas, policijos ir muitinės įstaigos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Nacionalinis maisto ir veterinarijos rizikos vertinimo institutas, Nacionalinė visuomenės sveikatos priežiūros laboratorija, vadovaudamiesi šiuo įstatymu ir (ar) kitais jų veiklą reglamentuojančiais teisės aktais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
+
+Nr. XIV-2694, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10827
 
 2. Valstybinė vaistų kontrolės tarnyba kontroliuoja licencijuotą veiklą su į II ir III sąrašus įtrauktomis medžiagomis, atlikdama tikrinimus sveikatos apsaugos ministro nustatyta tvarka. Juridiniai asmenys, turintys licenciją, turi būti tikrinami ne rečiau kaip kas penkeri metai.
 
@@ -1289,6 +1299,12 @@ Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
 Papildyta straipsnio dalimi:
 
 Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
+
+5. Nacionalinė visuomenės sveikatos priežiūros laboratorija atlieka narkotinių ir psichotropinių medžiagų tyrimus žmogaus biologinėse terpėse Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos direktoriaus nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2694, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10827
 
 Straipsnio pakeitimai:
 
