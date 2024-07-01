@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2024-05-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -924,13 +924,13 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 KETVIRTASIS SKIRSNIS
 
-STATYBOS DALYVIAI, JŲ PAREIGOS IR TEISĖS.
-
-STATYBVIETĖJE ESANČIŲ ASMENŲ IDENTIFIKAVIMAS
+STATYBOS DALYVIAI, JŲ PAREIGOS IR TEISĖS. STATYBOS DARBUS ATLIEKANČIŲ IR STATYBVIETĖJE ESANČIŲ ASMENŲ IDENTIFIKAVIMAS
 
 Pakeistas skirsnio pavadinimas:
 
 Nr. XIV-858, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27753
+
+Nr. XIV-2654, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09692
 
 13 straipsnis. Statybos dalyviai
 
@@ -3636,31 +3636,33 @@ Papildyta straipsniu:
 
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
-221 straipsnis. Statybvietėje esančių asmenų identifikavimas
+221 straipsnis. Statybos darbus atliekančių ir statybvietėje esančių asmenų identifikavimas
 
-1. Statybvietėje statybos darbus atliekantys asmenys, nurodyti Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 151 straipsnio 1 dalyje, privalo turėti galiojantį Valstybinio socialinio draudimo įstatymo 151 straipsnyje nustatyta tvarka suformuotą skaidriai dirbančio asmens identifikavimo kodą (toliau – kodas), o tais atvejais, kai jiems kodas negali būti suformuotas, privalo turėti kode užšifruojamus duomenis, nurodytus Valstybinio socialinio draudimo įstatymo 151 straipsnio 8 dalyje, pagrindžiančius dokumentus (toliau – kode užšifruojamus duomenis pagrindžiantys dokumentai) ir pateikti jį (juos):
+1. Statybos darbus atliekantys asmenys, nurodyti Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 151 straipsnio 1 dalyje, privalo turėti Valstybinio socialinio draudimo įstatymo 151 straipsnyje nustatyta tvarka suformuotą galiojantį skaidriai dirbančio asmens identifikavimo kodą (toliau – kodas), o tais atvejais, kai jiems kodas negali būti suformuojamas, privalo turėti kode užšifruojamus duomenis, nurodytus Valstybinio socialinio draudimo įstatymo 151 straipsnio 8 dalyje, pagrindžiančius dokumentus (toliau – kode užšifruojamus duomenis pagrindžiantys dokumentai) ir pateikti jį (juos):
 
 1) patikrinimo metu Lietuvos Respublikos užimtumo įstatymo 55 straipsnyje nurodytoms institucijoms;
 
 2) statybos patikrinimo metu Valstybinei teritorijų planavimo ir statybos inspekcijai prie Aplinkos ministerijos;
 
-3) prieš patenkant į statybvietę ir statybvietėje pareikalavus statytojui (užsakovui) ar jo vienam įgaliotam rangovui ar jų įgaliotiems asmenims.
+3) statytojui (užsakovui) ar jo vienam įgaliotam rangovui ar jų įgaliotiems asmenims, jam (jiems) pareikalavus.
 
 2. Statybvietėje gali būti asmenys, kurie:
 
-1) turi kodą arba, kai jiems kodas negali būti suformuotas, – kode užšifruojamus duomenis pagrindžiančius dokumentus, arba
+1) atlieka statybos darbus ir turi suformuotą galiojantį kodą arba, kai jiems kodas negali būti suformuojamas, – kode užšifruojamus duomenis pagrindžiančius dokumentus, arba
 
 2) statytojo (užsakovo) ar jo vieno įgalioto rangovo nustatyta tvarka užregistravo atvykimo į statybvietę pradžios laiką ir priežastį ir turi statytojo (užsakovo) ar jo vieno įgalioto rangovo nustatytą identifikavimo priemonę.
 
-3. Statytojas (užsakovas) ar jo vienas įgaliotas rangovas nustato kitų statybvietėje esančių asmenų, kurie nenurodyti šio straipsnio 1 dalyje, identifikavimo priemonę, prireikus – jos išdavimo tvarką, registruoja šių asmenų buvimo statybvietėje pradžios ir pabaigos laiką ir priežastį.
+3. Statytojas (užsakovas) ar jo vienas įgaliotas rangovas nustato kitų statybvietėje esančių asmenų, kurie neatlieka statybos darbų, identifikavimo priemonę, prireikus – jos išdavimo tvarką, registruoja šių asmenų buvimo statybvietėje pradžios ir pabaigos laiką ir priežastį.
 
-4. Statytojas (užsakovas) arba jo vienas įgaliotas rangovas privalo užtikrinti, kad visi statybvietėje esantys fiziniai asmenys turėtų kodus (kai jiems kodas negali būti suformuotas, – kode užšifruojamus duomenis pagrindžiančius dokumentus) arba identifikavimo priemonę ir jį (ją) pateiktų šio straipsnio 1 ir 2 dalyse nustatytais atvejais ir tvarka.
+4. Statytojas (užsakovas) ar jo vienas įgaliotas rangovas privalo užtikrinti, kad visi statybos darbus atliekantys fiziniai asmenys turėtų suformuotus galiojančius kodus (kai jiems kodas negali būti suformuojamas, – kode užšifruojamus duomenis pagrindžiančius dokumentus), o kiti statybvietėje esantys asmenys turėtų statytojo (užsakovo) ar jo vieno įgalioto rangovo nustatytas identifikavimo priemones ir juos (jas) pateiktų šio straipsnio 1 ir 2 dalyse nustatytais atvejais ir tvarka.
 
-5. Statytojas (užsakovas) ar jo įgaliotas rangovas, nevykdantis šio straipsnio 4 dalyje nustatytų pareigų arba netinkamai jas vykdantis, atsako šio įstatymo ir Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka.
+5. Statytojas (užsakovas) ar jo vienas įgaliotas rangovas, nevykdantis šio straipsnio 4 dalyje nustatytų pareigų arba netinkamai jas vykdantis, atsako Užimtumo įstatymo ir Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka.
 
-Papildyta straipsniu:
+6. Jeigu statytojui (užsakovui) fiziniam asmeniui statybos darbus atlieka vienas rangovas juridinis asmuo, tai šis juridinis asmuo yra laikomas įgaliotu rangovu ir turi vykdyti šio straipsnio 4 dalyje nurodytas pareigas. Visais kitais atvejais įgaliotu rangovu laikomas sutartimi ar kitu rašytiniu dokumentu įgaliotas rangovas.
 
-Nr. XIV-858, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27753
+Straipsnio pakeitimai:
+
+Nr. XIV-2654, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09692
 
 PENKTASIS SKIRSNIS
 
