@@ -4,7 +4,7 @@ identifier: "TAR.08F2F39FF20B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2024-05-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.08F2F39FF20B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos laukinės gyvūnijos įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2026-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2726, i. k. 0971010ISTAVIII-498
 
@@ -132,7 +132,11 @@ BENDROSIOS NUOSTATOS
 
 3. Aplinkos ministerijos įgaliotos institucijos:
 
-1) koordinuoja, kontroliuoja ir įgyvendina laukinių gyvūnų apsaugos, gausos reguliavimo veiksmų planus, programas, metodikas ir invazinių rūšių valdymo, gausos reguliavimo ir naikinimo priemones;
+1) koordinuoja, kontroliuoja ir įgyvendina laukinių gyvūnų apsaugos, gausos reguliavimo veiksmų planus, programas, metodikas; invazinių rūšių valdymo, veiksmų planų, gausos reguliavimo ir naikinimo priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2352, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25323
 
 2) teikia informaciją ir konsultuoja asmenis apie šiame įstatyme nustatytus laukinių gyvūnų apsaugos ir naudojimo reikalavimus.
 
@@ -666,7 +670,11 @@ Leidimo naudoti laukinius gyvūnus turėtojo pareigos:
 
 18 straipsnis. Invazinių rūšių kontrolės taryba
 
-1. Invazinių rūšių kontrolės taryba teikia pasiūlymus Aplinkos ministerijai dėl invazinių rūšių plitimo prevencijos, mokslinių tyrimų ir eksperimentinės plėtros, šių rūšių valdymo planų, priemonių ir programų kūrimo ir įgyvendinimo, dėl teisės aktų, susijusių su invazinėmis rūšimis, rengimo, pakeitimo ar papildymo, teikia rekomendacijas, siūlymus ir išvadas dėl laukinių gyvūnų bei jų hibridų perkėlimo, introdukcijos ir reintrodukcijos, taip pat teikia pasiūlymus dėl invazinių rūšių įvežimo į Lietuvos Respubliką ir jų naudojimo.
+1. Invazinių rūšių kontrolės taryba teikia pasiūlymus Aplinkos ministerijai, Aplinkos ministerijos įgaliotoms institucijoms, koordinuojančioms ir įgyvendinančioms invazinių rūšių valdymą ir kontrolę, laukinių gyvūnų bei jų hibridų naudojimą ir kontrolę, dėl invazinių rūšių plitimo prevencijos, mokslinių tyrimų ir eksperimentinės plėtros, šių rūšių valdymo ir veiksmų planų, gausos reguliavimo ir naikinimo priemonių ir programų kūrimo ir įgyvendinimo, dėl teisės aktų, susijusių su invazinėmis rūšimis, rengimo, pakeitimo ar papildymo, teikia rekomendacijas, pasiūlymus ir išvadas dėl laukinių gyvūnų bei jų hibridų perkėlimo, introdukcijos ir reintrodukcijos, taip pat teikia pasiūlymus dėl invazinių rūšių įvežimo į Lietuvos Respubliką ir jų naudojimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2352, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25323
 
 2. Invazinių rūšių kontrolės tarybą sudaro Aplinkos ministerijos, Aplinkos ministerijos įgaliotų institucijų, Valstybinės maisto ir veterinarijos tarnybos, Žemės ūkio ministerijos, Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos, Žuvininkystės tarnybos prie Lietuvos Respublikos žemės ūkio ministerijos, Lietuvos Respublikos sveikatos apsaugos ministerijos ar jos įgaliotos institucijos, mokslo ir studijų institucijų atstovai.
 
