@@ -4,7 +4,7 @@ identifier: "TAR.DEBA0718FB0F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2024-05-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-10-31
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
 
@@ -1776,6 +1776,14 @@ Nr. XIV-2224, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22370
 
 Lietuvos Respublikos vidaus vandenų transporto kodekso 27-1, 40, 47 straipsnių ir priedo pakeitimo įstatymas
 
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2536, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07269
+
+Lietuvos Respublikos vidaus vandenų transporto kodekso 16-2 straipsnio pakeitimo įstatymas
+
 161 straipsnis. Vidaus vandenų transporto priemonių techninė apžiūra, techninis patikrinimas, Europos Sąjungos vidaus vandenų laivybos sertifikato ir laikinojo Europos Sąjungos vidaus vandenų laivybos sertifikato išdavimas
 
 1. Vidaus vandenų transporto priemonių techninę apžiūrą Transporto saugos administracijos nustatyta tvarka atlieka ir techninės apžiūros dokumentus išduoda juridiniai asmenys, organizacijos ir juridinių asmenų ar organizacijų filialai, kuriuos šio kodekso 162 straipsnyje nustatyta tvarka ir vadovaudamasi susisiekimo ministro tvirtinamais asmenų, siekiančių atlikti vidaus vandenų transporto priemonių technines apžiūras, atestacijos reikalavimais (toliau – atestacijos reikalavimai) atestuoja ir prižiūri Transporto saugos administracija. Atliekant techninę apžiūrą tikrinama Vidaus vandenų laivų registre įregistruotos vidaus vandenų transporto priemonės techninė būklė, identifikuojama vidaus vandenų transporto priemonė, įvertinama vidaus vandenų transporto priemonės atitiktis susisiekimo ministro ar jo įgaliotos institucijos nustatytiems techniniams reikalavimams (toliau – techniniai reikalavimai) ir aprūpinimo įranga pagal plaukiojimo rajoną reikalavimams ir nustatomas plaukiojimo rajonas.
@@ -1898,9 +1906,17 @@ Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
 
 2) turėti įrangą ir prietaisus, įtrauktus į susisiekimo ministro tvirtinamą įrangos ir prietaisų, kurių reikia atitinkamų vidaus vandenų transporto priemonių techninei apžiūrai atlikti, sąrašą;
 
-3) turėti ne mažiau kaip keturis technines apžiūras atliekančius specialistus;
+3) turėti ne mažiau kaip du technines apžiūras atliekančius specialistus;
 
-4) jeigu siekia būti atestuoti atlikti vidaus vandenų transporto priemonių, išskyrus burines jachtas, techninę apžiūrą, – turi būti akredituoti kaip A tipo kontrolės įstaigos pagal tarptautinį standartą LST EN ISO/IEC 17020 „Atitikties įvertinimas. Reikalavimai, keliami įvairių tipų kontrolės įstaigų veiklai (ISO/IEC 17020)“.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2536, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07269
+
+4) jeigu siekia būti atestuoti atlikti vidaus vandenų transporto priemonių, išskyrus burines jachtas, techninę apžiūrą, – turi būti akredituoti kaip C tipo kontrolės įstaigos pagal tarptautinį standartą LST EN ISO/IEC 17020 „Atitikties įvertinimas. Reikalavimai, keliami įvairių tipų kontrolės įstaigų veiklai (ISO/IEC 17020)“.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2536, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07269
 
 2. Jeigu asmuo siekia būti atestuotas atlikti vidaus vandenų transporto priemonių, išskyrus burines jachtas, techninę apžiūrą, šio straipsnio 1 dalies 3 punkte nurodyti specialistai privalo atitikti šiuos reikalavimus:
 
@@ -1914,7 +1930,11 @@ Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
 
 1) turėti išsilavinimą pagal technologijos mokslų studijų krypčių grupės studijų kryptį ir ne trumpesnę kaip trejų metų darbo patirtį laivų techninės būklės priežiūros ir (ar) vertinimo srityje;
 
-2) ne mažiau kaip du specialistai privalo būti burinės jachtos laivavedžiai, turintys ne žemesnį kaip atviros jūros burinės jachtos vado kvalifikacijos laipsnį ir ne trumpesnį kaip penkerių metų buriavimo stažą, ir ne mažiau kaip du specialistai privalo būti burinės jachtos laivavedžiai, turintys ne žemesnį kaip vandenynų burinės jachtos vado kvalifikacijos laipsnį ir ne trumpesnį kaip penkerių metų buriavimo stažą.
+2) ne mažiau kaip vienas specialistas privalo būti burinės jachtos laivavedys, turintis ne žemesnį kaip atviros jūros burinės jachtos vado kvalifikacijos laipsnį ir ne trumpesnį kaip penkerių metų buriavimo stažą, ir ne mažiau kaip vienas specialistas privalo būti burinės jachtos laivavedys, turintis ne žemesnį kaip vandenynų burinės jachtos vado kvalifikacijos laipsnį ir ne trumpesnį kaip penkerių metų buriavimo stažą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2536, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07269
 
 4. Asmenys turi pateikti Transporto saugos administracijai jos nustatytos formos prašymą ir pagal atestacijos reikalavimus reikalingus dokumentus, kuriais patvirtinama atitiktis šio straipsnio 1–3 dalyse nurodytiems reikalavimams.
 
