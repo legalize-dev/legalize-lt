@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2024-06-14"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2024-06-14 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -287,6 +287,12 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 3. Administracijos ir kitų mokslo ir studijų institucijų darbuotojų skaičių, jų pareigas ir funkcijas nustato mokslo ir studijų institucijos.
 
+4. Valstybinės aukštosios mokyklos statute gali būti nustatyta, kad su rektoriaus (direktoriaus) ar senato į pareigas skiriamais aukštosios mokyklos prorektoriais (direktoriaus pavaduotojais), kancleriu, fakultetų dekanais, prodekanais, katedrų vedėjais, centrų, institutų ar kitų akademinių padalinių vadovais gali būti sudaromos terminuotos darbo sutartys ne ilgesnei kaip 5 metų kadencijai, o su prorektoriais (direktoriaus pavaduotojais), kancleriu gali būti sudaromos terminuotos darbo sutartys ir rektoriaus (direktoriaus) įgaliojimų laikotarpiui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2845, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12155
+
 68 straipsnis. Kviestiniai dėstytojai ir mokslo darbuotojai
 
 1. Mokslo ir studijų institucijos, siekdamos užtikrinti vykdomos studijų ir mokslinės veiklos kokybę, gali ne ilgesniam kaip 2 metų laikotarpiui kviesti kitų mokslo ir studijų institucijų dėstytojus ir mokslo darbuotojus, atitinkančius pirmaujančiojo ar pripažinto tyrėjo karjeros pakopos reikalavimus. Šiems darbuotojams suteikiamas kviečiančios mokslo ir studijų institucijos kviestinio dėstytojo ar mokslo darbuotojo statusas. Su tokiais darbuotojais gali būti sudaromos terminuotos darbo sutartys.
@@ -502,6 +508,18 @@ Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
 1) stojantieji į pirmosios pakopos universitetines ir vientisąsias studijas ir pirmosios pakopos kolegines studijas yra baigę trumposios pakopos studijas;
 
 2) stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas atitinka aukštosios mokyklos nustatytas specialiųjų gebėjimų ir kompetencijų sąlygas ir turi ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį; stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas – ne trumpesnę kaip 24 mėnesių praktinės veiklos patirtį; stojantieji į trumposios pakopos studijas – ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį. Į praktinės veiklos patirties trukmę įskaitomas darbas pagal darbo sutartį, savanoriška veikla pagal savanoriškos veiklos sutartį, nuolatinė privalomoji pradinė karo tarnyba, profesinė karo tarnyba ir savanoriška nenuolatinė karo tarnyba. Reikalavimus praktinės veiklos patirčiai ir praktinės veiklos patirties trukmės skaičiavimo tvarką nustato švietimo, mokslo ir sporto ministras;
+
+TAR pastaba: 77 straipsnio 11 dalies 2 punkto redakcija nuo 2026-01-01:
+
+2) stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas atitinka aukštosios mokyklos nustatytas specialiųjų gebėjimų ir kompetencijų sąlygas ir turi ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį; stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas – ne trumpesnę kaip 24 mėnesių praktinės veiklos patirtį; stojantieji į trumposios pakopos studijas – ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį. Į praktinės veiklos patirties trukmę įskaitoma darbo pagal darbo sutartį, savanoriškos veiklos pagal savanoriškos veiklos sutartį, privalomosios pradinės karo tarnybos, profesinės karo tarnybos ir savanoriškos nenuolatinės karo tarnybos trukmė. Reikalavimus praktinės veiklos patirčiai ir praktinės veiklos patirties trukmės skaičiavimo tvarką nustato švietimo, mokslo ir sporto ministras;
+
+TAR pastaba: 77 straipsnio 11 dalies 2 punkto redakcija nuo 2027-07-01:
+
+2) stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas atitinka aukštosios mokyklos nustatytas specialiųjų gebėjimų ir kompetencijų sąlygas ir turi ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį; stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas – ne trumpesnę kaip 24 mėnesių praktinės veiklos patirtį; stojantieji į trumposios pakopos studijas – ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį. Į praktinės veiklos patirties trukmę įskaitoma darbo pagal darbo sutartį, savanoriškos veiklos pagal savanoriškos veiklos sutartį, privalomosios pradinės karo tarnybos, išskyrus atliktą 9 mėnesių privalomąją pradinę karo tarnybą, profesinės karo tarnybos ir savanoriškos nenuolatinės karo tarnybos trukmė. Atlikta 9 mėnesių privalomoji pradinė karo tarnyba prilyginama 12 mėnesių praktinės veiklos patirčiai. Reikalavimus praktinės veiklos patirčiai ir praktinės veiklos patirties trukmės skaičiavimo tvarką nustato švietimo, mokslo ir sporto ministras;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
 
 3) asmenys, kurie atitinka šio įstatymo 821 straipsnio 3 dalyje nurodytus kriterijus.
 
@@ -1428,6 +1446,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2692, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10825
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 77 straipsnio pakeitimo įstatymas
+
+68.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 62 ir 77 straipsnių pakeitimo įstatymas
+
+69.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2845, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12155
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 67 straipsnio pakeitimo įstatymas
 
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
@@ -2849,7 +2883,11 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 10) aukštosios mokyklos statuto nustatyta tvarka nutraukti ir atnaujinti studijas;
 
-11) išeiti akademinių atostogų dėl ligos, gydytojui ar gydytojų konsultacinei komisijai rekomendavus, arba dėl nėštumo ir gimdymo, vaiko priežiūros, taip pat kartą per studijų laikotarpį dėl asmeninių priežasčių, bet ne ilgesniam kaip vienų studijų metų laikotarpiui, neprarandant studento statuso ir teisės po akademinių atostogų tęsti studijas valstybės finansuojamoje studijų vietoje, jeigu joje studijavo prieš išeidami akademinių atostogų;
+11) išeiti akademinių atostogų dėl ligos, gydytojui ar gydytojų konsultacinei komisijai rekomendavus, arba dėl nėštumo ir gimdymo, vaiko priežiūros, arba atlikti privalomąją pradinę karo tarnybą, taip pat kartą per studijų laikotarpį dėl asmeninių priežasčių, bet ne ilgesniam kaip vienų studijų metų laikotarpiui, neprarandant studento statuso ir teisės po akademinių atostogų tęsti studijas valstybės finansuojamoje studijų vietoje, jeigu joje studijavo prieš išeidami akademinių atostogų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
 
 12) laisvai reikšti savo mintis ir pažiūras;
 
@@ -2876,6 +2914,14 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 5. Valstybė sudaro studentui, kuris mokosi kitoje vietoje negu jo nuolatinė gyvenamoji vieta, sąlygas pasirinkti asmens sveikatos priežiūros įstaigą ir gydytojus Lietuvos Respublikos sveikatos sistemos įstatymo nustatyta tvarka.
 
 6. Lietuvos Respublikos piliečiams, kurie mokosi aukštosiose mokyklose, sudaromos sąlygos atlikti privalomąją pradinę karo tarnybą Lietuvos Respublikos karo prievolės įstatymo nustatyta tvarka.
+
+TAR pastaba: 62 straipsnio 6 dalies redakcija nuo 2026-01-01:
+
+6. Lietuvos Respublikos piliečiams, kurie mokosi aukštosiose mokyklose, sudaromos sąlygos derinti studijas ir privalomosios pradinės karo tarnybos atlikimą arba išeiti akademinių atostogų bet kuriuo studijų laikotarpiu ir atlikti privalomąją pradinę karo tarnybą Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
 
 7. Aukštosios mokyklos vadovas arba jo įgalioti asmenys, gavę studentų rašytinius prašymus, skundus ar pranešimus dėl šiame įstatyme ar kituose teisės aktuose nustatytų jų teisių arba teisėtų interesų pažeidimų, privalo per 15 kalendorinių dienų juos išnagrinėti ir raštu atsakyti.
 
