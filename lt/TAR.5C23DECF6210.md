@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2024-06-21"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-06-21 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-11-22
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
 
@@ -318,7 +318,17 @@ Vilnius
 
 9 straipsnis. Prievolių neįvykdymo teisinės pasekmės
 
-1. Už pavėluotą perskolinamos paskolos ar skolos grąžinimo sutartyse nustatytų turtinių įsipareigojimų vykdymą šiose sutartyse nustatomi delspinigiai už kiekvieną pradelstą dieną. Delspinigių dydis apskaičiuojamas taikant praėjusio kalendorinio ketvirčio aukciono būdu išleistų Vyriausybės iždo vekselių metinės palūkanų normos svertinį vidurkį, padidintą 10 procentinių punktų, padalytą iš 360. Jeigu praėjusį kalendorinį ketvirtį aukciono būdu nebuvo išleisti Vyriausybės iždo vekseliai, taikomas paskutinis prieš tai buvęs delspinigių dydis.
+1. Už pavėluotą perskolinamos paskolos ar skolos grąžinimo sutartyse nustatytų turtinių įsipareigojimų vykdymą šiose sutartyse nurodomi delspinigiai už kiekvieną pradelstą dieną. Delspinigiams apskaičiuoti taikomas Finansų ministerijos interneto svetainėje paskelbtas delspinigių dydis, kuris apskaičiuojamas pagal šią formulę (apvalinant iki trijų skaičių po kablelio):
+
+D = (VP + 7 %) / 360, kur:
+
+D – delspinigių dydis (procentais);
+
+VP – praėjusio kalendorinio ketvirčio paskutinės darbo dienos Vyriausybės vertybinio popieriaus, kurio išpirkimo laikotarpis artimiausias 12 mėnesių laikotarpiui, pelningumas procentais antrinės vertybinių popierių apyvartos, kaip ji apibrėžta Vertybinių popierių įstatyme, rinkoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2709, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11293
 
 2. Vyriausybė arba, kai teikiamos Mokslo ir studijų įstatyme nurodytos valstybės remiamos paskolos, jos įgaliota institucija ar įstaiga turi teisę atleisti valstybės skolininką nuo apskaičiuotų, bet nesumokėtų delspinigių už laiku negrąžintas perskolinamas paskolas arba skolas ir nesumokėtas palūkanas mokėjimo arba sustabdyti delspinigių skaičiavimą valstybės skolininkui arba valstybės garantuojamam skolininkui, taip pat atleisti šiuos skolininkus nuo nesumokėto valiutų kursų skirtumo mokėjimo, kai šis skirtumas apskaičiuotas skolininkams praleidus prievolės įvykdymo terminą, ir nuo nesumokėto valiutų kursų skirtumo mokėjimo, kai po prievolės įvykdymo termino pabaigos valiuta, kuria turi būti mokama, nuvertėjo dėl valiutų kursų pasikeitimo. Atleidimo nuo delspinigių mokėjimo, nuo valiutų kursų skirtumo mokėjimo, taip pat delspinigių skaičiavimo sustabdymo sąlygos:
 
