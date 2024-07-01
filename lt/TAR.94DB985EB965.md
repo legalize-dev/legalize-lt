@@ -4,7 +4,7 @@ identifier: "TAR.94DB985EB965"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-01"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
 
@@ -431,7 +431,7 @@ Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
 2) tvirtina, keičia kooperatinės bendrovės įstatus;
 
-3) renka, atšaukia stebėtojų tarybos narius (kai ji sudaroma), valdybos narius ir jos pirmininką arba, kai valdyba nesudaroma, renka, atšaukia administracijos vadovą; taip pat renka, atšaukia revizijos komisijos narius ir jos pirmininką (revizorių) arba, kai revizijos komisija (revizorius) nesudaroma ar finansinių ataskaitų auditas privalomas vadovaujantis Lietuvos Respublikos įmonių atskaitomybės įstatymu, tvirtina auditorių ar audito įmonę;
+3) renka, atšaukia stebėtojų tarybos (kai ji sudaroma) narius, valdybos narius ir jos pirmininką arba, kai valdyba nesudaroma, renka, atšaukia administracijos vadovą; taip pat renka, atšaukia revizijos komisijos narius ir jos pirmininką (revizorių) arba, kai revizijos komisija nesudaroma (revizorius nerenkamas) ar kai finansinių ataskaitų auditas privalomas pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, tvirtina auditorių ar audito įmonę;
 
 Straipsnio punkto pakeitimai:
 
@@ -439,17 +439,21 @@ Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 
 Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
+Nr. XIV-2822, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12144
+
 4) įvertina valdybos, o tuo atveju, kai kooperatinėje bendrovėje valdyba nėra sudaroma, administracijos vadovo ir revizijos komisijos (revizoriaus) darbą, taip pat revizijos komisijos (revizoriaus) išvadą arba auditoriaus išvadą dėl kooperatinės bendrovės finansinių ataskaitų;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
 
-5) tvirtina metines finansines ataskaitas, priima nutarimą dėl pelno paskirstymo arba nuostolių padengimo;
+5) tvirtina metines finansines ataskaitas, priima nutarimą dėl pelno paskirstymo arba nuostolių padengimo. Jeigu kooperatinės bendrovės metinių finansinių ataskaitų auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1463, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22573
+
+Nr. XIV-2822, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12144
 
 6) tvirtina kooperatinės bendrovės veiklos programą;
 
@@ -928,6 +932,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2068, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12751
 
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 3-1 straipsnio pakeitimo įstatymas
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2643, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09681
+
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 4, 6-1 ir 8 straipsnių pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2822, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12144
+
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 16 ir 21 straipsnių pakeitimo įstatymas
 
 31 straipsnis. Žemės ūkio kooperatinė bendrovė (kooperatyvas)
 
