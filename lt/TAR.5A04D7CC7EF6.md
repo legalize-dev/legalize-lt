@@ -4,7 +4,7 @@ identifier: "TAR.5A04D7CC7EF6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "2023-04-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
 
@@ -147,11 +147,13 @@ Nr. XIII-2320, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12115
 
 1. Bibliotekų taryba yra institucija, atliekanti eksperto ir konsultanto funkcijas, kai sprendžiami bibliotekų politikos formavimo ir įgyvendinimo klausimai.
 
-2. Bibliotekų tarybos sudėtį ir jos nuostatus tvirtina kultūros ministras. Bibliotekų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+2. Bibliotekų tarybos sudėtį ir jos nuostatus tvirtina kultūros ministras. Bibliotekų tarybos narių darbas apmokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1749, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20723
+
+Nr. XIV-2584, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08223
 
 6 straipsnis. Bibliotekų finansavimas ir lėšos
 
@@ -501,6 +503,12 @@ Lietuvos bibliotekų fondas yra komplektuojamas iš Vyriausybės nustatyta tvark
 
 7. Rankraščiai ir seni bei ypač vertingi dokumentai gali būti restauruojami bibliotekose, kurių nuostatuose numatyta restauravimo funkcija, bei kitose institucijose, kuriose dirba atestuoti restauratoriai (asmenys, Lietuvos Respublikoje arba užsienyje įgiję restauratorius profesinę kvalifikaciją, turintys Lietuvos Respublikos kultūros ministro pripažintą arba užsienyje įgytą ir nustatyta tvarka pripažintą restauratoriaus kvalifikaciją), taip pat atestuotų restauratorių vadovaujami asmenys.
 
+8. Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka nurašytos Lietuvos bibliotekų fondo, išskyrus senų, retų ir ypač vertingų knygų ir rankraščių fondą ir nacionalinį publikuotų dokumentų archyvinį fondą, knygos prieš jas likviduojant gali būti neatlygintinai perduodamos fizinių ir juridinių asmenų nuosavybėn kultūros ministro nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2584, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08223
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
@@ -586,6 +594,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
 
 Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 6-1, 7, 8, 9, 10, 17 straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2584, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08223
+
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 5, 6-1 ir 19 straipsnių pakeitimo įstatymas
 
 20 straipsnis. Lietuvos bibliotekų fondas
 
@@ -739,11 +755,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
 
-21. Pasibaigus savivaldybės viešosios bibliotekos vadovo 5 metų kadencijai, mero sprendimu jis gali būti skiriamas be konkurso antrajai 5 metų kadencijai, jeigu jo eitos kadencijos metu visuose kasmetiniuose veiklos vertinimuose jo metų veikla buvo įvertinta gerai arba labai gerai. Sprendimas dėl savivaldybės viešosios bibliotekos vadovo skyrimo be konkurso antrajai 5 metų kadencijai turi būti priimtas likus ne mažiau kaip 2 mėnesiams iki šio vadovo kadencijos pabaigos.
+21. Pasibaigus savivaldybės viešosios bibliotekos vadovo 5 metų kadencijai, mero sprendimu jis gali būti skiriamas be konkurso antrajai 5 metų kadencijai, jeigu jo eitos kadencijos metu visuose kasmetiniuose veiklos vertinimuose jo metų veikla buvo įvertinta kaip atitinkanti lūkesčius ir (ar) viršijanti lūkesčius (2023 metų ir ankstesnių metų veikla – gerai ir (ar) labai gerai). Sprendimas dėl savivaldybės viešosios bibliotekos vadovo skyrimo be konkurso antrajai 5 metų kadencijai turi būti priimtas likus ne mažiau kaip 2 mėnesiams iki šio vadovo kadencijos pabaigos.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2584, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08223
 
 22. Savivaldybės viešosios bibliotekos vadovas, kuris nebuvo skirtas be konkurso antrajai 5 metų kadencijai šio straipsnio 21 dalyje nurodytu atveju, turi teisę dalyvauti viešame konkurse šios bibliotekos vadovo pareigoms eiti.
 
@@ -765,33 +785,37 @@ Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
 
 3. Kvalifikacinius reikalavimus šio straipsnio 2 dalyje nurodytų bibliotekų vadovams nustato kultūros ministras.
 
-4. Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu atitinka bent vieną iš šių sąlygų:
+4. Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu atitinka bent vieną iš šių kriterijų:
 
-1) yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+1) neatitinka Lietuvos Respublikos valstybės tarnybos įstatyme įstaigų vadovams nustatytų nepriekaištingos reputacijos reikalavimų;
 
-2) yra pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusikaltimo padarymo ir nuo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
+2) yra pripažintas šiurkščiai pažeidęs kultūros ministro tvirtinamas kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles (toliau – Taisyklės) ir nuo pripažinimo padarius tokį nusižengimą dienos nepraėjo 3 metai. Taisyklių šiurkščiu pažeidimu laikomas du ar daugiau kartų per vienus metus kultūros įstaigos darbuotojo padarytas Taisyklių pažeidimas, kai toks pažeidimas žemina žmogaus orumą, diskredituoja kultūros įstaigos reputaciją.
 
-3) yra pripažintas kaltu dėl nusikaltimų, kuriais padaryta turtinė žala valstybei, ir turi neišnykusį ar nepanaikintą teistumą;
+Straipsnio dalies pakeitimai:
 
-4) yra uždraustos organizacijos narys;
+Nr. XIV-2584, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08223
 
-5) yra atleistas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, darbo pareigų pažeidimų ir nuo atleidimo iš pareigų dienos nepraėjo 3 metai;
+5. Paaiškėjus, kad Lietuvos nacionalinės, apskrities, savivaldybės viešosios ar valstybinės reikšmės bibliotekos vadovas neatitinka nepriekaištingos reputacijos kriterijų, nurodytų šio straipsnio 4 dalyje, savininko teises ir pareigas įgyvendinanti institucija priima sprendimą vadovą atleisti iš pareigų ir nutraukia su juo sudarytą darbo sutartį.
 
-6) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis;
+Papildyta straipsnio dalimi:
 
-7) yra pripažintas šiurkščiai pažeidęs Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimus ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai;
+Nr. XIV-2584, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08223
 
-8) yra pripažintas šiurkščiai pažeidęs kultūros ministro patvirtintas Kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles (toliau – Taisyklės) ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai. Taisyklių šiurkščiu pažeidimu laikomas du ir daugiau kartų per vienus metus kultūros įstaigos darbuotojo padarytas Taisyklių pažeidimas, kai toks pažeidimas žemina žmogaus orumą, diskredituoja kultūros įstaigos reputaciją.
+6. Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų vadovams leidžiama dirbti kitą darbą ir už šį darbą gauti atlyginimą, jeigu tai:
 
-TAR pastaba. 61 straipsnio 4 dalis netaikoma Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų vadovams, priimtiems į pareigas iki įstatymo Nr. XII-1316 įsigaliojimo (2018-07-01), jeigu Lietuvos Respublikos bibliotekų įstatymo 61 straipsnio 4 dalyje numatytos sąlygos atsirado iki šio įstatymo įsigaliojimo.
+Straipsnio dalies numeracijos pakeitimas:
 
-5. Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų vadovams leidžiama dirbti kitą darbą ir už šį darbą gauti atlyginimą, jeigu tai:
+Nr. XIV-2584, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08223
 
 1) nesukelia viešųjų ir privačių interesų konflikto;
 
 2) nediskredituoja bibliotekos autoriteto.
 
-6. Sprendimą dėl leidimo šio straipsnio 5 dalyje nurodytų bibliotekų vadovams dirbti kitą darbą ir už šį darbą gauti atlyginimą priima šių įstaigų vadovus į pareigas skiriančių institucijų vadovai jų nustatyta tvarka.
+7. Sprendimą dėl leidimo šio straipsnio 6 dalyje nurodytų bibliotekų vadovams dirbti kitą darbą ir už šį darbą gauti atlyginimą priima šių įstaigų vadovus į pareigas skiriančių institucijų vadovai savo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2584, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08223
 
 Straipsnio pakeitimai:
 
