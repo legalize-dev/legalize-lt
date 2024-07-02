@@ -4,7 +4,7 @@ identifier: "TAR.0F470A65DFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2023-01-01"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-07-01
+Suvestinė redakcija nuo 2024-07-02
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
 
@@ -53,7 +53,11 @@ Programos lėšas sudaro:
 
 3) lėšos, gautos kaip mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą taršą, taip pat lėšos, gautos kaip didesnio tarifo mokestis už valstybinius gamtos išteklius, nedeklaruotą ar deklaruotą mažesnį, negu išgautas, gamtos išteklių kiekį ir (ar) be leidimo išgautą gamtos išteklių kiekį;
 
-4) lėšos, gautos realizavus konfiskuotus aplinkos apsaugos nusikaltimų ir pažeidimų padarymo įrankius, priemones ir neteisėtai įgytus gamtos išteklius;
+4) lėšos, gautos realizavus konfiskuotą turtą, kuris buvo aplinkos apsaugos nusikaltimo ar pažeidimo padarymo įrankis, priemonė, dalykas ar aplinkos apsaugą reglamentuojančių įstatymų uždraustos veikos rezultatas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2787, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11786
 
 5) lėšos už mėgėjų žvejybos leidimus valstybiniuose vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą;
 
@@ -238,6 +242,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1706, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27554
 
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2787, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11786
+
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 3 straipsnio pakeitimo įstatymas
 
 5 straipsnis. Įstatymo įsigaliojimas
 
