@@ -4,7 +4,7 @@ identifier: "TAR.3BAADED2C30B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2024-06-21"
+last_updated: "2024-07-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-06-21 iki 2024-07-02
+Suvestinė redakcija nuo 2024-07-03
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2635, i. k. 1021010ISTA00IX-975
 
@@ -303,11 +303,19 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 
 12 straipsnis. Periodinės (ex ante) indėlių draudimo įmokos
 
-1. Indėlių draudimo sistemos dalyviai į Indėlių draudimo fondą privalo mokėti periodines (ex ante) indėlių draudimo įmokas. Periodinės (ex ante) indėlių draudimo įmokos į Indėlių draudimo fondą skaičiuojamos ir mokamos nuo pas indėlių draudimo sistemos dalyvį indėlininkų laikomų pagrindinių apdraustųjų indėlių sumos. Periodinių (ex ante) draudimo įmokų apskaičiavimo tikslais visos vienoje depozitinėje sąskaitoje esančios lėšos laikomos priklausančiomis vienam indėlininkui.
+1. Indėlių draudimo sistemos dalyviai į Indėlių draudimo fondą privalo mokėti periodines (ex ante) indėlių draudimo įmokas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 2. Indėlių draudimo sistemos dalyvio periodinės (ex ante) indėlių draudimo įmokos dydis apskaičiuojamas atsižvelgiant į:
 
-1) pas indėlių draudimo sistemos dalyvį indėlininkų laikomų pagrindinių apdraustųjų indėlių sumą;
+1) pas indėlių draudimo sistemos dalyvį indėlininkų laikomų pagrindinių apdraustųjų indėlių sumą. Jeigu nėra galimybių vienoje depozitinėje sąskaitoje nustatyti tikslios vienam indėlininkui priklausančios pagrindinių apdraustųjų indėlių sumos arba didžiausios galimos pagrindinių apdraustųjų indėlių sumos, periodinių (ex ante) draudimo įmokų apskaičiavimo tikslais laikoma, kad visos toje depozitinėje sąskaitoje esančios lėšos yra apdraustos ir nuo jų apskaičiuojamos ir mokamos periodinės (ex ante) indėlių draudimo įmokos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 2) pas konkretų indėlių draudimo sistemos dalyvį indėlininkų laikomų pagrindinių apdraustųjų indėlių sumos ir pas visus indėlių draudimo sistemos dalyvius indėlininkų laikomų pagrindinių apdraustųjų indėlių sumos santykį;
 
@@ -315,11 +323,13 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 
 4) metinę periodinių (ex ante) indėlių draudimo įmokų normą, kuri yra lygi visų indėlių draudimo sistemos dalyvių tam tikrais metais į Indėlių draudimo fondą mokėtinos metinės periodinių (ex ante) indėlių draudimo įmokų sumos ir visų indėlių draudimo sistemos dalyvių pagrindinių apraustųjų indėlių sumos santykiui, išreikštam procentais (toliau – metinė periodinių (ex ante) indėlių draudimo įmokų norma).
 
-3. Periodinių (ex ante) indėlių draudimo įmokų ir specialiųjų (ex post) indėlių draudimo įmokų apskaičiavimo tikslais indėlių draudimo sistemos dalyvio veiklos rizikos koeficientas nustatomas kartą per metus, atsižvelgiant į konkretaus indėlių draudimo sistemos dalyvio verslo modelį, jo turto kokybę, teisės aktuose nustatytus indėlių draudimo sistemos dalyvių veiklos riziką ribojančius normatyvus ir kitus indėlių draudimo sistemos dalyvio veiklos riziką apibūdinančius kriterijus. Per einamuosius metus prie Lietuvos Respublikos indėlių draudimo sistemos prisijungusiems naujiems indėlių draudimo sistemos dalyviams, atsižvelgiant į tuos pačius kriterijus, nustatomas laikinas atskirasis rizikos koeficientas, taikytinas iki reguliaraus metinio visų indėlių draudimo sistemos dalyvių veiklos rizikos koeficientų nustatymo. Indėlių draudimo sistemos dalyvio veiklos rizikos koeficiento ir laikino atskirojo rizikos koeficiento nustatymo metodus ir tvarką, atsižvelgdama į Europos bankininkystės institucijos 2015 m. rugsėjo 22 d. gaires EBA/GL/2015/10 dėl įnašų į indėlių garantijų sistemas apskaičiavimo metodų (toliau – Europos bankininkystės institucijos gairės EBA/GL/2015/10), bendradarbiaudama su draudimo įmone, nustato ir tvirtina priežiūros institucija. Apie patvirtintus indėlių draudimo sistemos dalyvio veiklos rizikos koeficiento nustatymo metodus priežiūros institucija informuoja Europos bankininkystės instituciją.
+3. Periodinių (ex ante) indėlių draudimo įmokų ir specialiųjų (ex post) indėlių draudimo įmokų apskaičiavimo tikslais indėlių draudimo sistemos dalyvio veiklos rizikos koeficientas nustatomas kartą per metus, atsižvelgiant į konkretaus indėlių draudimo sistemos dalyvio verslo modelį, jo turto kokybę, teisės aktuose nustatytus indėlių draudimo sistemos dalyvių veiklos riziką ribojančius normatyvus ir kitus indėlių draudimo sistemos dalyvio veiklos riziką apibūdinančius kriterijus. Per einamuosius metus prie Lietuvos Respublikos indėlių draudimo sistemos prisijungusiems naujiems indėlių draudimo sistemos dalyviams, atsižvelgiant į tuos pačius kriterijus, nustatomas laikinas atskirasis rizikos koeficientas, taikytinas iki reguliaraus metinio visų indėlių draudimo sistemos dalyvių veiklos rizikos koeficientų nustatymo. Indėlių draudimo sistemos dalyvio veiklos rizikos koeficiento ir laikino atskirojo rizikos koeficiento nustatymo metodus ir tvarką, vadovaudamasi Europos bankininkystės institucijos gairėmis, priimtomis įgyvendinant 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyvos 2014/49/ES dėl indėlių garantijų sistemų 13 straipsnio 3 dalį, (toliau – Europos bankininkystės institucijos gairės), bendradarbiaudama su draudimo įmone, nustato ir tvirtina priežiūros institucija. Apie patvirtintus indėlių draudimo sistemos dalyvio veiklos rizikos koeficiento nustatymo metodus priežiūros institucija informuoja Europos bankininkystės instituciją.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 4. Metinę periodinių (ex ante) indėlių draudimo įmokų normą nustato ir peržiūri draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija, gavusi draudimo įmonės išvadą. Metinė periodinių (ex ante) indėlių draudimo įmokų norma negali būti didesnė kaip 0,5 procento. Metinė periodinių (ex ante) indėlių draudimo įmokų norma nustatoma kuo tolygiau paskirstant finansinę naštą per laikotarpį, iki bus pasiekti mažiausiasis ir nacionalinis tiksliniai lygiai, atsižvelgiant į:
 
@@ -333,7 +343,11 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 
 3) poreikį išlaikyti ir atkurti mažiausiąjį ir nacionalinį tikslinius lygius;
 
-4) esamą verslo ciklo stadiją ir galimą prociklinį periodinių (ex ante) indėlių draudimo įmokų poveikį indėlių draudimo sistemos dalyvių finansinei būklei, atsižvelgiant į Europos bankininkystės institucijos gaires EBA/GL/2015/10.
+4) esamą verslo ciklo stadiją ir galimą prociklinį periodinių (ex ante) indėlių draudimo įmokų poveikį indėlių draudimo sistemos dalyvių finansinei būklei, atsižvelgiant į Europos bankininkystės institucijos gaires.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 5. Metinė periodinių (ex ante) indėlių draudimo įmokų norma nustatoma iki gegužės 31 d. vieniems metams nuo liepos 1 d. iki kitų metų birželio 30 d. Nustatant metinę periodinių (ex ante) indėlių draudimo įmokų normą, vertinami praėjusių kalendorinių metų gruodžio 31 d. duomenys. Draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija turi teisę kartą per metus peržiūrėti nustatytą metinę periodinių (ex ante) indėlių draudimo įmokų normą ir ją pakeisti, jeigu Indėlių draudimo fondo finansiniai ištekliai padidėja arba sumažėja didesne kaip dviejų trečdalių mažiausiojo tikslinio lygio suma. Tokia peržiūra gali būti atliekama iki lapkričio 30 d. 6 mėnesių laikotarpiui nuo kitų metų sausio 1 d. iki birželio 30 d. Peržiūrint metinę periodinių (ex ante) indėlių draudimo įmokų normą, vertinami praėjusio pusmečio (birželio 30 d.) duomenys. Metinė periodinių (ex ante) indėlių draudimo įmokų norma nustatoma tol, kol pasiekiamas ar atkuriamas nacionalinis tikslinis lygis.
 
@@ -353,7 +367,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 
-10. Kiekvieno indėlių draudimo sistemos dalyvio mokėtinos periodinės (ex ante) indėlių draudimo įmokos dydį, atsižvelgdama į Europos bankininkystės institucijos gaires EBA/GL/2015/10, kiekvieną kalendorinį ketvirtį pagal praėjusio kalendorinio ketvirčio paskutinio mėnesio paskutinės dienos duomenis apskaičiuoja draudimo įmonė. Draudimo įmonei informaciją, reikalingą indėlių draudimo įmokoms apskaičiuoti, pateikia:
+10. Kiekvieno indėlių draudimo sistemos dalyvio mokėtinos periodinės (ex ante) indėlių draudimo įmokos dydį, atsižvelgdama į Europos bankininkystės institucijos gaires, kiekvieną kalendorinį ketvirtį pagal praėjusio kalendorinio ketvirčio paskutinio mėnesio paskutinės dienos duomenis apskaičiuoja draudimo įmonė. Draudimo įmonei informaciją, reikalingą indėlių draudimo įmokoms apskaičiuoti, pateikia:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 1) priežiūros institucija – apie nustatytus indėlių draudimo sistemos dalyvių veiklos rizikos koeficientus;
 
@@ -425,7 +443,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 
-7. Kiekvieno indėlių draudimo sistemos dalyvio mokėtinos specialiosios (ex post) indėlių draudimo įmokos dydį, atsižvelgdama į Europos bankininkystės institucijos gaires EBA/GL/2015/10, pagal praėjusio kalendorinio ketvirčio paskutinio mėnesio paskutinės dienos duomenis apskaičiuoja draudimo įmonė. Draudimo įmonei informaciją, reikalingą indėlių draudimo įmokoms apskaičiuoti, pateikia:
+7. Kiekvieno indėlių draudimo sistemos dalyvio mokėtinos specialiosios (ex post) indėlių draudimo įmokos dydį, atsižvelgdama į Europos bankininkystės institucijos gaires, pagal praėjusio kalendorinio ketvirčio paskutinio mėnesio paskutinės dienos duomenis apskaičiuoja draudimo įmonė. Draudimo įmonei informaciją, reikalingą indėlių draudimo įmokoms apskaičiuoti, pateikia:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2720, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11243
 
 1) priežiūros institucija – apie nustatytus indėlių draudimo sistemos dalyvių veiklos rizikos koeficientus;
 
