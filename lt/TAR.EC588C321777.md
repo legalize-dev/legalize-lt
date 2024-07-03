@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2024-05-14"
+last_updated: "2024-07-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2024-05-14 iki 2024-07-02
+Suvestinė redakcija nuo 2024-07-03 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -3943,7 +3943,11 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 
 4) asmuo, kurio nuosavybės teisė laikinai apribota (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta; juridinio asmens pavadinimas, buveinės adresas, kodas);
 
-5) asmuo, kurio ieškinio reikalavimo įvykdymui užtikrinti laikinai apribojama nuosavybės teisė (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta; juridinio asmens pavadinimas, buveinės adresas, kodas), – kai laikinai nuosavybės teisė apribojama siekiant užtikrinti civilinį ieškinį;
+5) asmuo, kurio ieškinio reikalavimo ar nusikalstamu būdu užvaldyto turto grąžinimo įvykdymui laikinai apribojama nuosavybės teisė (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta; juridinio asmens pavadinimas, buveinės adresas, kodas), – kai laikinai nuosavybės teisė apribojama siekiant užtikrinti civilinį ieškinį ar grąžinti nusikalstamu būdu užvaldytą turtą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2801, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12132
 
 6) turto, į kurį laikinai apribojama nuosavybės teisė, pavadinimas, kodas (jei turtas registruojamas turto registre), trumpas aprašymas, buvimo vieta ir kiti turtą identifikuojantys duomenys;
 
@@ -6353,11 +6357,19 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 
 151 straipsnis. Laikinas nuosavybės teisės apribojimas
 
-1. Civiliniam ieškiniui, galimam turto konfiskavimui arba išplėstiniam turto konfiskavimui užtikrinti prokuroro nutarimu įtariamajam ar pagal įstatymus materialiai atsakingam už įtariamojo veiksmus fiziniam asmeniui arba fiziniams asmenims, kurie turi nusikalstamu būdu gautą ar įgytą arba Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje nurodytus požymius atitinkantį konfiskuotiną turtą, gali būti skiriamas laikinas nuosavybės teisės apribojimas. Laikinas nuosavybės teisės apribojimas gali būti skiriamas kartu su poėmiu ar krata.
+1. Civiliniam ieškiniui, galimam turto konfiskavimui, išplėstiniam turto konfiskavimui arba nusikalstamu būdu užvaldyto turto grąžinimui savininkui ar teisėtam valdytojui užtikrinti prokuroro nutarimu įtariamajam ar pagal įstatymus materialiai atsakingam už įtariamojo veiksmus fiziniam asmeniui arba fiziniams asmenims, kurie turi nusikalstamu būdu gautą ar įgytą arba Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje nurodytus požymius atitinkantį konfiskuotiną turtą, gali būti skiriamas laikinas nuosavybės teisės apribojimas. Laikinas nuosavybės teisės apribojimas gali būti skiriamas kartu su poėmiu ar krata.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2801, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12132
 
 2. Juridinio asmens nuosavybės teisė gali būti laikinai apribota prokuroro nutarimu, kai:
 
-1) siekiama užtikrinti galimą turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 72 straipsnyje numatytais atvejais ir galimą išplėstinį turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje numatytais atvejais;
+1) siekiama užtikrinti galimą turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 72 straipsnyje numatytais atvejais ir galimą išplėstinį turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje numatytais atvejais arba siekiama užtikrinti nusikalstamu būdu užvaldyto turto grąžinimą savininkui ar teisėtam valdytojui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2801, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12132
 
 2) siekiama užtikrinti civilinį ieškinį, jei yra pakankamas pagrindas juridinį asmenį įtraukti civiliniu atsakovu.
 
