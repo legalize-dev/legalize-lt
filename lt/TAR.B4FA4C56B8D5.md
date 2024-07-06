@@ -4,7 +4,7 @@ identifier: "TAR.B4FA4C56B8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2023-07-01"
+last_updated: "2024-07-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
 
 LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-07-01 iki 2024-07-05
+Suvestinė redakcija nuo 2024-07-06 iki 2024-08-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
 
@@ -38,7 +38,11 @@ BENDROSIOS NUOSTATOS
 
 1. Šis įstatymas nustato teisėkūros principus, teisėkūros stadijas, valstybės ir savivaldybių institucijų ir įstaigų, kitų teisėkūroje dalyvaujančių asmenų teises ir pareigas.
 
-2. Šis įstatymas netaikomas Lietuvos Respublikos tarptautinėms sutartims, išskyrus šių sutarčių registravimą ir skelbimą.
+2. Šis įstatymas netaikomas Lietuvos Respublikos tarptautinėms sutartims ir Lietuvos Respublikos ar Lietuvos Respublikos Vyriausybės vardu sudaromiems susitarimams, kurie nėra tarptautinės sutartys, išskyrus šių sutarčių ir susitarimų registravimą ir skelbimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 3. Šis įstatymas netaikomas teisės taikymo aktams, išskyrus nuostatas dėl teisės aktų registravimo, skelbimo ir įsigaliojimo.
 
@@ -206,11 +210,13 @@ Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 
 6) kiti Seimo priimti teisės aktai;
 
-7) Lietuvos Respublikos tarptautinės sutartys, išskyrus Europos Sąjungos ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautines sutartis, kurios lietuvių kalba skelbiamos Europos Sąjungos oficialiajame leidinyje, ir Lietuvos Respublikos užsienio reikalų ministerijos teikiami pranešimai dėl visų Lietuvos Respublikos tarptautinių sutarčių įsigaliojimo, galiojimo, pakeitimo, laikino taikymo, sustabdymo, nutraukimo, prieštaravimo sutarties pakeitimui ar išlygoms;
+7) Lietuvos Respublikos tarptautinės sutartys, išskyrus Europos Sąjungos ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautines sutartis, kurios lietuvių kalba skelbiamos Europos Sąjungos oficialiajame leidinyje, Lietuvos Respublikos ar Lietuvos Respublikos Vyriausybės vardu sudaromi susitarimai, kurie nėra tarptautinės sutartys ir kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus, ir Lietuvos Respublikos užsienio reikalų ministerijos teikiami pranešimai dėl visų Lietuvos Respublikos tarptautinių sutarčių įsigaliojimo, galiojimo, pakeitimo, laikino taikymo, sustabdymo, nutraukimo, prieštaravimo sutarties pakeitimui ar išlygoms;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
+
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 8) Respublikos Prezidento dekretai ir potvarkiai;
 
@@ -230,11 +236,13 @@ Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 16) savivaldybių institucijų norminiai teisės aktai, taip pat savivaldybių merų priimami teisės aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
 
-17) įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų ir regionų plėtros tarybų kolegijų priimti norminiai teisės aktai. Kitų asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti teisės aktai Teisės aktų registro objektais yra tik tais atvejais, kai šiuos teisės aktus skelbti Teisės aktų registre privaloma pagal teisės aktus;
+17) įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, bendrovių, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų ir regionų plėtros tarybų kolegijų priimti norminiai teisės aktai. Kitų asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti teisės aktai Teisės aktų registro objektais yra tik tais atvejais, kai šiuos teisės aktus skelbti Teisės aktų registre privaloma pagal teisės aktus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-3045, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13961
+
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 18) ministrų, Vyriausybės įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų vadovų ir kolegialių institucijų, taip pat Lietuvos banko valdybos ar valdybos pirmininko, teisės aktų nustatyta tvarka įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų ir regionų plėtros tarybų kolegijų priimti teisės taikymo aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
 
@@ -244,7 +252,11 @@ Nr. XIII-3045, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13961
 
 19) Konstitucinio Teismo nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo, taip pat Konstitucinio Teismo pirmininko pranešimai dėl ginčijamo akto galiojimo sustabdymo ir dėl sustabdyto akto galiojimo atnaujinimo;
 
-20) Lietuvos Aukščiausiojo Teismo ir Lietuvos vyriausiojo administracinio teismo sprendimai, nutartys, nutarimai, taip pat įsiteisėję administracinių teismų sprendimai dėl norminių administracinių aktų teisėtumo.
+20) Lietuvos Aukščiausiojo Teismo ir Lietuvos vyriausiojo administracinio teismo sprendimai, nutartys, nutarimai, taip pat įsiteisėję administracinių teismų sprendimai dėl norminių administracinių aktų teisėtumo, Lietuvos Respublikos pilietybės netekimo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 3. Teisės aktų registre tvarkomi šie Teisės aktų registro objekto duomenys:
 
@@ -344,7 +356,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
 
-7. Apmokėjimo už darbą savivaldybių tarybų, savivaldybių merų (merų pavaduotojų), savivaldybių administracijų direktorių, kitų iš savivaldybių biudžetų išlaikomų įstaigų vadovų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato savivaldybių tarybos.
+7. Apmokėjimo už darbą savivaldybių tarybų, savivaldybių merų (vicemerų), savivaldybių administracijų direktorių, kitų iš savivaldybių biudžetų išlaikomų įstaigų vadovų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato savivaldybių tarybos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 8. Apmokėjimo už darbą Lietuvos banko valdybos ar valdybos pirmininko sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato Lietuvos banko valdyba.
 
@@ -386,7 +402,11 @@ Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
 
 2) teisės akto rūšies pavadinimas;
 
-3) teisės akto pavadinimas (antraštė);
+3) teisės akto pavadinimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 4) teisės akto priėmimo data, numeris, vieta;
 
@@ -830,6 +850,22 @@ Nr. XIV-1630, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26094
 
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15 straipsnio pakeitimo įstatymas
 
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2634, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09670
+
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 6 straipsnio pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
+
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 1, 5-3, 6, 10 ir 13 straipsnių pakeitimo įstatymas
+
 161 straipsnis. Neteko galios nuo 2020-07-30
 
 Straipsnio naikinimas:
@@ -974,7 +1010,11 @@ Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
 
 2) šio įstatymo 52 straipsnio 2 dalyje nurodyti metinių skaidrių teisėkūros procesų deklaracijų duomenys;
 
-3) Respublikos Prezidento, Seimo, Lietuvos Respublikos Vyriausybės narių, viceministrų, Vyriausybės, ministerijų kanclerių, parlamentinių politinių partijų vadovų, merų, savivaldybių tarybų narių, savivaldybių administracijų direktorių ir jų pavaduotojų savanoriškai deklaruota informacija apie jiems darytą įtaką dėl teisėkūros.
+3) Respublikos Prezidento, Seimo, Vyriausybės narių, viceministrų, Vyriausybės, ministerijų kanclerių, parlamentinių politinių partijų vadovų, merų, vicemerų, savivaldybių tarybų narių, savivaldybių administracijų direktorių ir jų pavaduotojų savanoriškai deklaruota informacija apie jiems darytą įtaką dėl teisėkūros.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 2. Šio straipsnio 1 dalies 1 punkte nurodyti duomenys Vyriausiosios tarnybinės etikos komisijos interneto svetainėje viešai skelbiami nuo asmens įrašymo į asmenų, darančių įtaką teisėkūrai, sąrašą ir dar trejus metus po asmens išbraukimo iš asmenų, darančių įtaką teisėkūrai, sąrašo.
 
