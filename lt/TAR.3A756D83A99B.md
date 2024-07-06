@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2024-01-01"
+last_updated: "2024-07-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-05
+Suvestinė redakcija nuo 2024-07-06 iki 2025-01-14
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
 
