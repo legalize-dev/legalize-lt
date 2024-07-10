@@ -4,7 +4,7 @@ identifier: "TAR.4961DA7FA79F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-14"
-last_updated: "2024-01-01"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-09
+Suvestinė redakcija nuo 2024-07-10 iki 2025-07-23
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
 
@@ -202,7 +202,19 @@ Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 3) žala padaryta šio straipsnio 1 dalies 2 punkte nurodytais atvejais ir per 2 mėnesius nuo nukentėjusio trečiojo asmens pretenzijos dėl padarytos žalos pateikimo dienos nebuvo įmanoma nustatyti eismo įvykį sukėlusios transporto priemonės;
 
-4) Lietuvos Respublikoje įvykusio eismo įvykio metu žala padaryta transporto priemone, kurios įprastinė buvimo vieta yra užsienio valstybės teritorijoje, kai nepavyksta nustatyti Europos Sąjungos valstybės narės draudimo įmonės, kuri apdraudė šios transporto priemonės valdytojo civilinę atsakomybę.
+4) Lietuvos Respublikoje įvykusio eismo įvykio metu žala padaryta transporto priemone, kurios įprastinė buvimo vieta yra užsienio valstybės teritorijoje, kai nepavyksta nustatyti Europos Sąjungos valstybės narės draudimo įmonės, kuri apdraudė šios transporto priemonės valdytojo civilinę atsakomybę;
+
+5) kaltininko civilinę atsakomybę pagal kitos Europos Sąjungos valstybės narės transporto priemonių valdytojų civilinės atsakomybės privalomąjį draudimą reglamentuojančius teisės aktus tiesiogiai ar per filialą apdraudė šio įstatymo 17 straipsnio 1 dalies 3 punkte nurodyta Lietuvos Respublikoje įsteigta draudimo įmonė.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
+
+7. Kai kitos Europos Sąjungos valstybės narės institucija, atsakinga už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama, atlygino žalą už atsakingą bankrutuojantį ar likviduojamą Lietuvos Respublikoje įsteigtą draudiką, Biuras privalo išmokėti šiai institucijai jos reikalaujamą sumą, sumokėtą nukentėjusiam trečiajam asmeniui, ir nustatytą atlygį už žalos administravimą ne vėliau kaip per 6 mėnesius nuo reikalavimo atlyginti šias sumas gavimo dienos, išskyrus atvejus, kai Biuro ir žalą atlyginusios institucijos sudarytuose susitarimuose nustatyti kiti terminai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 19 straipsnis. Išmokos mokėjimo tvarka
 
@@ -598,7 +610,13 @@ Draudimo sutarties rūšys yra šios:
 
 1) per 2 mėnesius nuo eismo įvykio dienos neįmanoma nustatyti draudimo įmonės, kuri apdraudė kaltininko civilinę atsakomybę;
 
-2) per 2 mėnesius nuo eismo įvykio dienos neįmanoma nustatyti transporto priemonės, kuria padaryta žala, jeigu pagal valstybės, kurioje įvyko eismo įvykis, teisės aktus tokia žala yra atlyginama.
+2) per 2 mėnesius nuo eismo įvykio dienos neįmanoma nustatyti transporto priemonės, kuria padaryta žala, jeigu pagal valstybės, kurioje įvyko eismo įvykis, teisės aktus tokia žala yra atlyginama;
+
+3) kitoje Europos Sąjungos valstybėje narėje įsteigtai (registruotai) kaltininko civilinę atsakomybę apdraudusiai draudimo įmonei yra iškelta bankroto byla ar pradėta likvidavimo procedūra ir draudimo įmonė nėra paskyrusi savo atstovo pretenzijoms dėl padarytos žalos nagrinėti.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 4. Pretenzija dėl padarytos žalos Biurui gali būti pateikta pasibaigus šio straipsnio 2 ar 3 dalyje nurodytam terminui. Pretenzija dėl padarytos žalos pateikiama raštu, nurodant eismo įvykio aplinkybes ir pateikiant turimus dokumentus, kuriais pagrindžiamas nukentėjusio trečiojo asmens reikalavimas.
 
@@ -629,6 +647,12 @@ Draudimo sutarties rūšys yra šios:
 8. Pagal šį straipsnį išmoką išmokėjęs Biuras tampa Lietuvos Respublikoje įsteigto bankrutuojančio draudiko kreditoriumi.
 
 9. Šio įstatymo 22 straipsnyje nurodytais atvejais bankrutuojantis draudikas turi teisę reikalauti iš šio įstatymo 22 straipsnyje nurodytų asmenų grąžinti Biuro pagal šį straipsnį dėl padarytos žalos sumokėtas sumas.
+
+10. Atliekant veiksmus, susijusius su išmokos mokėjimu už draudikus, kurie atitinka šio įstatymo 17 straipsnio 1 dalies 3 punkte nustatytus kriterijus, Biuras bendradarbiauja su visomis suinteresuotomis šalimis, įskaitant bankrutuojantį ar likviduojamą draudiką, nemokumo administratorių, kitos Europos Sąjungos valstybės narės institucijas, atsakingas už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama, valstybinėmis įstaigomis, institucijomis. Bendradarbiavimas apima informacijos prašymą, jos gavimą ir teikimą, įskaitant informaciją apie konkrečius reikalavimus atlyginti žalą. Analogiški bendradarbiavimo principai taikomi ir kai atliekami veiksmai, susiję su išmokos mokėjimu, kai bankrutuoja ar likviduojama kitos Europos Sąjungos valstybės narės draudimo įmonė. Kai už bankrutuojantį ar likviduojamą draudiką yra atsakinga kitos Europos Sąjungos valstybės narės institucija, atsakinga už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama, Biuras, išmokėjęs išmoką, perimtas nukentėjusio trečiojo asmens teises kaltininko ar jo draudimo įmonės atžvilgiu perduoda šiai institucijai, kad ji galėtų įgyvendinti subrogacijos teisę.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 21 straipsnis. Atleidimas nuo išmokos mokėjimo
 
@@ -682,7 +706,13 @@ Draudimo sutarties rūšys yra šios:
 
 3) garantinį fondą kitoje Europos Sąjungos valstybėje narėje, kurioje įvyko eismo įvykis, – kai negalima nustatyti transporto priemonės, kuria padaryta žala;
 
-4) garantinį fondą kitoje Europos Sąjungos valstybėje narėje, kurioje įvyko eismo įvykis, – kai žala padaryta transporto priemone, kurios įprastinė buvimo vieta yra užsienio valstybėje.
+4) garantinį fondą kitoje Europos Sąjungos valstybėje narėje, kurioje įvyko eismo įvykis, – kai žala padaryta transporto priemone, kurios įprastinė buvimo vieta yra užsienio valstybėje;
+
+5) kitos Europos Sąjungos valstybės narės instituciją, atsakingą už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama, – kai žala padaryta transporto priemone, apdrausta draudimo įmonėje, kuriai iškelta bankroto byla ar pradėta likvidavimo procedūra ir kurios pagrindinė buveinė yra ne Lietuvos Respublikoje.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 4. Biuras, išmokėjęs išmoką nukentėjusiam trečiajam asmeniui, vadovaudamasis Bendradarbiavimo nuostatais arba nacionalinių draudikų biurų susitarimais ar kitomis sutartimis su kitų valstybių institucijomis, dalyvaujančiomis atlyginant žalą, turi teisę reikalauti, kad išmokėtą išmoką, žalai administruoti išleistas lėšas jam grąžintų ir dėl to patirtas papildomas išlaidas atlygintų kitos valstybės atsakingas draudikas, kitos valstybės nacionalinis draudikų biuras, žalos atlyginimo institucija, kitos Europos Sąjungos valstybės narės institucija, atsakinga už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama, ar garantinis fondas.
 
@@ -693,6 +723,12 @@ Draudimo sutarties rūšys yra šios:
 7. Jeigu Biurui išmokėjus išmoką arba jos dalį nukentėjusiam trečiajam asmeniui paaiškėja, kad nukentėjęs trečiasis asmuo pateikė klaidingą arba melagingą informaciją ir dėl to buvo neteisingai apskaičiuota bei neteisėtai išmokėta išmoka ir atlyginta žala, išmoka arba jos dalis buvo išmokėta be teisinio pagrindo arba žalą nukentėjusiam trečiajam asmeniui atlygino už žalos atlyginimą atsakingi asmenys, Biuro reikalavimu nukentėjęs trečiasis asmuo privalo grąžinti neteisėtai gautą išmoką arba jos dalį.
 
 8. Biuras, sumokėjęs išmoką nukentėjusiam trečiajam asmeniui vadovaudamasis šio įstatymo 1 straipsnio 3 dalimi, turi teisę dėl išmokėtų sumų, žalai administruoti išleistų lėšų grąžinimo ir dėl to patirtų papildomų išlaidų atlyginimo kreiptis tik į renginio organizatorių.
+
+9. Biuras, sumokėjęs išmoką nukentėjusiems tretiesiems asmenims pagal šio įstatymo 17 straipsnio 3 dalies 2 punktą, turi teisę dėl išmokėtų sumų, žalai administruoti išleistų lėšų grąžinimo ir dėl to patirtų papildomų išlaidų atlyginimo kreiptis į kitos Europos Sąjungos valstybės narės instituciją, atsakingą už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 IV SKYRIUS
 
@@ -1249,6 +1285,12 @@ Biuras atlieka šias funkcijas:
 7) atsižvelgdamas į žaliosios kortelės sistemą reglamentuojančių teisės aktų reikalavimus, priima reikalingus sprendimus dėl žaliųjų kortelių, galiojančių kitose valstybėse, išdavimo;
 
 8) vadovaudamasis Bendradarbiavimo nuostatais, skiria ir atšaukia užsienio valstybių draudimo įmonių atstovus pretenzijoms dėl padarytos žalos nagrinėti Lietuvos Respublikoje, tvarko ir teikia duomenis apie draudimo įmonių atstovus pretenzijoms dėl padarytos žalos nagrinėti;
+
+81) raštu informuoja apie draudikui iškeltą bankroto bylą arba priimtą sprendimą pradėti likvidavimo procedūrą dėl bankroto kitų Europos Sąjungos valstybių narių garantinius fondus ir žalos atlyginimo institucijas, atsakingas už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 9) susigrąžina iš šiame įstatyme nustatytų asmenų išmokėtas sumas, žalai administruoti išleistas lėšas ir dėl to patirtas papildomas išlaidas, vykdo pažeidimų, kurių metu neteisėtai naudojamasi transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo sistema, prevenciją;
 
