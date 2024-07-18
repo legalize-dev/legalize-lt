@@ -4,7 +4,7 @@ identifier: "TAR.A0A0CCC6B997"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-27"
-last_updated: "2024-06-04"
+last_updated: "2024-07-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0A0CCC6B997"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Lietuvos Respublikos bausmių vykdymo kodeksas įsigalioja 2003-05-01."
 
 PATVIRTINTAS
 
-Suvestinė redakcija nuo 2024-06-04 iki 2024-07-17
+Suvestinė redakcija nuo 2024-07-18 iki 2026-06-29
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
 
@@ -697,19 +697,17 @@ LAIKINAS LAISVĖS ATĖMIMO BAUSMĘ ATLIEKANČIŲ NUTEISTŲJŲ IŠVYKIMAS IŠ BAU
 
 67 straipsnis. Laisvės atėmimo bausmę atliekančių nuteistųjų trumpalaikės išvykos dėl svarbių priežasčių
 
-1. Terminuoto laisvės atėmimo bausmes atliekantiems nuteistiesiems gali būti leidžiama su palyda arba be jos išvykti iš bausmės atlikimo vietos Lietuvos Respublikos teritorijoje ne ilgiau kaip dešimt parų dėl artimojo mirties ar sunkios ligonio gyvybei gresiančios ligos, kuri patvirtinta gydytojų išvada, taip pat dėl gaivalinės nelaimės, padariusios didelę materialinę žalą nuteistajam ar jo artimiesiems, jeigu apie tai laisvės atėmimo vietų įstaigoje gauti kompetentingos institucijos dokumentai.
+1. Nuteistiesiems gali būti leidžiama su palyda arba be jos išvykti iš bausmės atlikimo vietos Lietuvos Respublikos teritorijoje ne ilgiau kaip dešimt parų dėl artimojo mirties ar sunkios ligonio gyvybei gresiančios ligos, kuri patvirtinta gydytojų išvada, taip pat dėl gaivalinės nelaimės, padariusios didelę materialinę žalą nuteistajam ar jo artimiesiems, jeigu apie tai laisvės atėmimo vietų įstaigoje gauti kompetentingos institucijos dokumentai.
 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos bausmių vykdymo kodekso (2022 m. birželio 28 d. redakcija, TAR, 2022-07-14, Nr. 15495) 67 straipsnio 1 dalis tiek, kiek pagal ją nuteistiesiems, atliekantiems laisvės atėmimo iki gyvos galvos bausmę, nėra suteikiama teisė į trumpalaikes išvykas iš bausmės atlikimo vietos, prieštarauja Lietuvos Respublikos Konstitucijos 21 straipsnio 2, 3 dalims, 22 straipsnio 4 daliai, 29 straipsniui, konstituciniam teisinės valstybės principui.
+2. Leidimą išvykti iš bausmės atlikimo vietos nuteistajam duoda laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas, atsižvelgdamas į nuteistojo asmenybę, jo elgesį bausmės atlikimo metu ir nuteistojo išvykos iš bausmės atlikimo vietos metu aplinkiniams galinčio kilti pavojaus riziką, kai nuteistojo nusikalstamo elgesio rizika yra žema arba vidutinė, jei nustatyta pažanga ją mažinant ir jei tokia rizika vertinama bausmės atlikimo metu. Laikas, kurį nuteistasis buvo išvykęs iš bausmės atlikimo vietos, įskaitomas į bausmės atlikimo laiką. Nuteistasis arba kiti jo nurodyti asmenys apmoka visas su nuteistojo kelione ir palyda susijusias laisvės atėmimo vietų įstaigos patiriamas išlaidas, apskaičiuotas teisingumo ministro nustatyta tvarka.
 
-Straipsnio dalies pakeitimai:
+3. Nepilnamečiai ir laisvės atėmimo iki gyvos galvos bausmę atliekantys nuteistieji iš bausmės atlikimo vietos vyksta tik su palyda. Šiame straipsnyje nurodytos išvykos su palyda metu nuteistiesiems gali, o atliekantiems laisvės atėmimo iki gyvos galvos bausmę nuteistiesiems privalo būti uždėti antrankiai ir šie asmenys turi būti stebimi elektroninio stebėjimo priemonėmis. Laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno sprendimu be palydos vykstantys nuteistieji teisingumo ministro nustatyta tvarka gali būti stebimi elektroninio stebėjimo priemonėmis.
 
-Nr. KT47-N7/2024, 2024-06-04, paskelbta TAR 2024-06-04, i. k. 2024-10188
+4. Tvarką, pagal kurią nuteistiesiems dėl svarbių priežasčių suteikiama trumpalaikė išvyka iš bausmės atlikimo vietos, nustato teisingumo ministras. Apie šiame straipsnyje nurodytą nuteistojo trumpalaikę išvyką iš bausmės atlikimo vietos be palydos pranešama vietovės, į kurią vyksta nuteistasis, policijos įstaigai.
 
-2. Leidimą išvykti bausmės atlikimo vietoje terminuoto laisvės atėmimo bausmę atliekančiam nuteistajam duoda laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas, atsižvelgdamas į nuteistojo asmenybę, jo elgesį bausmės atlikimo metu ir nuteistojo išvykos iš bausmės atlikimo vietos metu aplinkiniams galinčio kilti pavojaus riziką, kai nuteistojo nusikalstamo elgesio rizika yra žema arba vidutinė, jei nustatyta pažanga ją mažinant. Laikas, kurį nuteistasis buvo išvykęs iš bausmės atlikimo vietos, įskaitomas į bausmės atlikimo laiką. Nuteistasis arba kiti jo nurodyti asmenys apmoka visas su nuteistojo kelione ir palyda susijusias laisvės atėmimo vietų įstaigos patiriamas išlaidas, apskaičiuotas teisingumo ministro nustatyta tvarka.
+Straipsnio pakeitimai:
 
-3. Nepilnamečiai nuteistieji iš bausmės atlikimo vietos vyksta tik su palyda. Šiame straipsnyje nurodytos išvykos su palyda metu terminuoto laisvės atėmimo bausmę atliekantiems nuteistiesiems gali būti uždėti antrankiai. Laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno sprendimu be palydos vykstantys nuteistieji teisingumo ministro nustatyta tvarka gali būti stebimi elektroninio stebėjimo priemonėmis.
-
-4. Tvarką, pagal kurią nuteistiesiems dėl svarbių priežasčių suteikiama trumpalaikė išvyka iš bausmės atlikimo vietos, nustato teisingumo ministras. Apie šiame straipsnyje nurodytą nuteistojo trumpalaikę išvyką iš bausmės atlikimo vietos pranešama vietovės, į kurią vykstama, teritorinei policijos įstaigai.
+Nr. XIV-2914, 2024-07-11, paskelbta TAR 2024-07-17, i. k. 2024-13176
 
 68 straipsnis. Terminuoto laisvės atėmimo bausmę atliekančių nuteistųjų trumpalaikės išvykos į namus
 
@@ -765,7 +763,11 @@ Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
 
 7. Trumpalaikės išvykos į namus nuteistiesiems suteikiamos tik laisvu nuo darbinės veiklos ar darbo metu. Konkrečią nuteistojo trumpalaikės išvykos į namus datą, atsižvelgdamas į jo prašymą, nustato ir dėl elektroninio stebėjimo priemonių taikymo nusprendžia laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas. Trumpalaikės išvykos į namus laikas įskaitomas į bausmės atlikimo laiką. Iš bausmės atlikimo vietos išvykstantys nuteistieji kelionės išlaidas apmoka patys arba tai padaro kiti jų nurodyti asmenys.
 
-8. Apie nuteistojo išvyką į namus pranešama vietovės, į kurią vykstama, teritorinei policijos įstaigai.
+8. Apie nuteistojo išvyką į namus pranešama vietovės, į kurią vykstama, policijos įstaigai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2914, 2024-07-11, paskelbta TAR 2024-07-17, i. k. 2024-13176
 
 Straipsnio pakeitimai:
 
@@ -1342,6 +1344,14 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT47-N7/2024, 2024-06-04, paskelbta TAR 2024-06-04, i. k. 2024-10188
 
 Dėl Lietuvos Respublikos bausmių vykdymo kodekso (2022 m. birželio 28 d. redakcija) 67 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2914, 2024-07-11, paskelbta TAR 2024-07-17, i. k. 2024-13176
+
+Lietuvos Respublikos bausmių vykdymo kodekso 27, 67, 68 ir 84 straipsnių pakeitimo įstatymas
 
 109 straipsnis. Nuteistųjų užsieniečių teisė palaikyti ryšius su savo valstybių atstovais
 
@@ -2647,7 +2657,11 @@ AREŠTO BAUSMĖS ATLIKIMO VIETA, JOS VYKDYMO TVARKA IR SĄLYGOS
 
 27 straipsnis. Nuteistųjų areštu teisės ir pareigos
 
-1. Arešto bausmę atliekantys nuteistieji turi šiame straipsnyje ir šio kodekso 42, 45, 47 ir 49 straipsniuose nustatytas teises, o jiems priskirtos pareigos ir taikomi apribojimai nustatyti šio kodekso 50 straipsnyje.
+1. Arešto bausmę atliekantys nuteistieji turi šiame straipsnyje ir šio kodekso 42, 45, 47, 49 ir 67 straipsniuose nustatytas teises, o jiems priskirtos pareigos ir taikomi apribojimai nustatyti šio kodekso 50 straipsnyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2914, 2024-07-11, paskelbta TAR 2024-07-17, i. k. 2024-13176
 
 2. Nuteistieji areštu turi teisę tris kartus per savaitę paskambinti ir gauti vieną pasimatymą per trisdešimt parų. Nuteistųjų areštu pasimatymai vyksta tik prižiūrint laisvės atėmimo vietų įstaigos atstovams: su sutuoktiniu arba sugyventiniu ir artimaisiais giminaičiais (toliau kartu – artimieji) – kontaktiniu būdu (pasimatymo trukmė – iki trijų valandų), o su kitais asmenimis – tik nuotoliniu arba nekontaktiniu būdu (pasimatymo trukmė – iki dviejų valandų). Jeigu per pasimatymą pažeidžiama jo tvarka, jis nedelsiant nutraukiamas. Jeigu pakartotinai pažeidžiama kontaktiniu būdu vykstančio pasimatymo tvarka, kiti nuteistojo areštu pasimatymai vyksta tik nekontaktiniu būdu. Laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas turi teisę leisti nuteistiesiems papildomai paskambinti ir suteikti papildomų pasimatymų socialiniams ryšiams palaikyti. Jeigu nuteistasis serga sunkia jo gyvybei gresiančia liga, patvirtinta gydytojų išvada, laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas privalo leisti nuteistąjį aplankyti jo artimiesiems. Toks aplankymas neįskaitomas į pasimatymų skaičių. Skambinimo, pasimatymų ir sergančių nuteistųjų areštu lankymo tvarką nustato teisingumo ministras.
 
@@ -3050,6 +3064,12 @@ Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
 2. Lygtinio paleidimo komisijos nariu gali būti ne jaunesnis kaip 25 metų asmuo, atitinkantis Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams nustatytus nepriekaištingos reputacijos reikalavimus. Lygtinio paleidimo komisijos nariais paskirti laisvės atėmimo vietų įstaigos pareigūnai, valstybės tarnautojai ar darbuotojai, dirbantys pagal darbo sutartis, negali sudaryti daugiau kaip penkiasdešimt procentų visų komisijos narių.
 
 3. Lygtinio paleidimo komisijos (komisijų) sudarymo ir darbo organizavimo tvarką nustato teisingumo ministras.
+
+4. Lygtinio paleidimo komisijos nariams, kurie nėra bausmių vykdymo sistemos pareigūnai, valstybės tarnautojai ar darbuotojai, dirbantys pagal darbo sutartį, už darbą atlyginama Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2914, 2024-07-11, paskelbta TAR 2024-07-17, i. k. 2024-13176
 
 85 straipsnis. Lygtinio paleidimo taikymo tvarka
 
