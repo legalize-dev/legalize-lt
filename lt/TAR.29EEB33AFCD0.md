@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2024-01-01"
+last_updated: "2024-07-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -38,6 +38,12 @@ BENDROSIOS NUOSTATOS
 4 straipsnis. Centrinės kredito unijos teikiamos finansinės paslaugos ir kita veikla
 
 1. Centrinė kredito unija turi teisę teikti šio straipsnio 2 ir 4 dalyse nustatytiems asmenims licencines finansines paslaugas ir kitas finansines paslaugas, tarp jų ir finansines paslaugas užsienio valiuta, jeigu šios teisės neapribotos šio ar kitų įstatymų nustatyta tvarka. Centrinė kredito unija privalo teikti šio įstatymo 2 straipsnio 8 dalies 1 punkte nustatytą licencinę finansinę paslaugą.
+
+11. Centrinė kredito unija turi teisę siūlyti su turtu susietus žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 6 punkte, arba prašyti įtraukti juos į prekybą Reglamento (ES) 2023/1114 17 straipsnyje nustatyta tvarka ir leisti elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Reglamento (ES) 2023/1114 IV antraštinėje dalyje nustatyta apimtimi ir tvarka. Šios paslaugos gali būti teikiamos tik šio straipsnio 2 ir 4 dalyse nustatytiems asmenims.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2887, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13496
 
 2. Centrinė kredito unija turi teisę teikti finansines paslaugas:
 
@@ -1889,13 +1895,21 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1986 m. gruodžio 8 d. Tarybos direktyva 86/635/EEB dėl bankų ir kitų finansų įstaigų metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės su paskutiniais pakeitimais, padarytais 2003 m. birželio 23 d. Europos Parlamento ir Tarybos direktyva 2003/51/EB.
+1. 1986 m. gruodžio 8 d. Tarybos direktyva 86/635/EEB dėl bankų ir kitų finansų įstaigų metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės su paskutiniais pakeitimais, padarytais 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/46/EB.
+
+Punkto pakeitimai:
+
+Nr. XIV-2887, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13496
 
 2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/878.
 
 3. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/49/ES dėl indėlių garantijų sistemų.
 
-4. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879.
+4. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/23.
+
+Punkto pakeitimai:
+
+Nr. XIV-2887, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13496
 
 Priedo pakeitimai:
 
@@ -2190,6 +2204,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
 
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 4, 9, 22, 63, 67, 68 ir 70 straipsnių pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2713, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11236
+
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 49 straipsnio pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2887, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13496
+
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 4 straipsnio ir priedo pakeitimo įstatymas
 
 71 straipsnis. Kreditorių reikalavimų tenkinimo eilė
 
