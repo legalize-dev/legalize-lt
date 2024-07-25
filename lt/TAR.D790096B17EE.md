@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2024-05-01"
+last_updated: "2024-07-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
 
@@ -658,7 +658,11 @@ TAR pastaba. Įstatymo nuostatos dėl vartojimo ginčų neteisminio sprendimo pr
 
 1) Lietuvos Respublikos ryšių reguliavimo tarnyba – vartotojų ir elektroninių ryšių paslaugų teikėjų arba pašto paslaugos teikėjų ginčus dėl Lietuvos Respublikos elektroninių ryšių įstatymo ir Lietuvos Respublikos pašto įstatymo reglamentuojamų santykių;
 
-2) Lietuvos bankas – vartojimo ginčus dėl finansinių paslaugų, nurodytus Lietuvos Respublikos Lietuvos banko įstatyme;
+2) Lietuvos bankas – vartojimo ginčus dėl finansinių paslaugų ir kitus Lietuvos Respublikos Lietuvos banko įstatyme nurodytus vartojimo ginčus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2894, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13503
 
 3) Valstybinė energetikos reguliavimo taryba – vartotojų ir energetikos įmonių, geriamojo vandens tiekimo ir (ar) nuotekų tvarkymo įmonių ginčus dėl apmokėjimo už suvartotą energiją ar paslaugas, dėl valstybės reguliuojamų kainų ir (ar) tarifų taikymo, dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, taip pat vartotojų ir energijos taupymo paslaugų teikėjų ginčus dėl energijos taupymo paslaugų teikimo ir kitus vartotojų ir energetikos įmonių ginčus energetikos srityje;
 
