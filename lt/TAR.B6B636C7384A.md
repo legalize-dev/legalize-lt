@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2024-01-01"
+last_updated: "2024-07-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -2353,7 +2353,11 @@ priedas
 
 4. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) 462/2013.
 
-5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/878.
+5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/1114.
+
+Punkto pakeitimai:
+
+Nr. XIV-2881, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13489
 
 6. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/49/ES dėl indėlių garantijų sistemų.
 
@@ -2749,6 +2753,22 @@ Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
 
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 10, 34, 77-1, 84, 85 ir 87 straipsnių pakeitimo įstatymas
 
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2712, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11235
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 16, 52, 58 ir 67 straipsnių pakeitimo įstatymas
+
+28.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2881, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13489
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 4 straipsnio ir priedo pakeitimo įstatymas
+
 1 straipsnis. Įstatymo paskirtis
 
 1. Šio Įstatymo tikslas – reglamentuoti bankų ir užsienio bankų, veikiančių Lietuvos Respublikoje, taip pat jų padalinių steigimo, licencijavimo, veiklos, pabaigos ir pertvarkymo bei priežiūros tvarką, kad bankų sistema būtų stabili, patikima, efektyvi ir saugi.
@@ -2868,6 +2888,12 @@ Straipsnio punkto pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 2. Bankas turi teisę teikti visas finansines paslaugas, tarp jų ir finansines paslaugas užsienio valiuta, jei ši teisė neapribota pagal šį ir kitus įstatymus.
+
+21. Bankas turi teisę siūlyti su turtu susietus žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 6 punkte, arba prašyti įtraukti juos į prekybą Reglamento (ES) 2023/1114 17 straipsnyje nustatyta tvarka ir leisti elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Reglamento (ES) 2023/1114 IV antraštinėje dalyje nustatyta apimtimi ir tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2881, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13489
 
 3. Bankas, be finansinių paslaugų teikimo, gali verstis tik tokia kita veikla, be kurios neįmanoma teikti finansinių paslaugų, kuri padeda teikti finansines paslaugas ar yra kitaip tiesiogiai susijusi su finansinių paslaugų teikimu.
 
