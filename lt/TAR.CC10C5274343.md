@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2024-05-01"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -1583,11 +1583,13 @@ Nr. XIV-2114, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14307
 
 2. Žemės sklypų formavimo ir pertvarkymo projektų rengimą organizuoja savivaldybės administracijos direktorius.
 
-3. Teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą turi valstybinės žemės patikėtiniai, Nacionalinė žemės tarnyba šio įstatymo 22 straipsnio 2 dalies 8 punkte nustatytu atveju, statinių, prie kurių formuojami žemės sklypai, savininkai, pastatų bendrojo naudojimo objektų valdytojai, privačios žemės savininkai arba valstybinės žemės naudotojai, valstybės ar savivaldybių institucijos ir kiti asmenys, pageidaujantys ir turintys teisę įsigyti nuosavybėn ar nuomoti valstybinės žemės sklypus be aukciono arba juos valdyti patikėjimo teise.
+3. Teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą turi valstybinės žemės patikėtiniai, Nacionalinė žemės tarnyba šio įstatymo 22 straipsnio 2 dalies 8 punkte nustatytu atveju, ypatingos valstybinės svarbos projektą įgyvendinanti institucija ar jos įgaliotas Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 3 straipsnio 3 dalyje nurodytas subjektas Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 4 straipsnio 22 dalyje nustatytu atveju, statinių, prie kurių formuojami žemės sklypai, savininkai, pastatų bendrojo naudojimo objektų valdytojai, privačios žemės savininkai arba valstybinės žemės naudotojai, valstybės ar savivaldybių institucijos ir kiti asmenys, pageidaujantys ir turintys teisę įsigyti nuosavybėn ar nuomoti valstybinės žemės sklypus be aukciono arba juos valdyti patikėjimo teise.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2114, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14307
+
+Nr. XIV-2918, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13551
 
 4. Asmenys, turintys teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą, prašymus leisti rengti žemės sklypų formavimo ir pertvarkymo projektus pateikia merui ar jo įgaliotam savivaldybės administracijos direktoriui.
 
@@ -3154,4 +3156,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2565, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07718
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 23, 32, 37, 41 ir 42 straipsnių pakeitimo įstatymas
+
+44.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2918, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13551
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 40 straipsnio pakeitimo įstatymas
 
