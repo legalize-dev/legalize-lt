@@ -4,7 +4,7 @@ identifier: "TAR.C6E4170DB704"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-03"
-last_updated: "2024-01-24"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo I, II ir III skyriai įsigalioja nuo 199
 ---
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-24 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
 
@@ -285,7 +285,23 @@ Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
 
 13 straipsnis. Teisė į žalos atlyginimą
 
-Pacientas ir asmuo, kuris buvo mirusio paciento išlaikomas arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą (nepilnamečiai vaikai (įvaikiai), sutuoktinis, nedarbingi tėvai (įtėviai) ar kiti faktiniai nedarbingi išlaikytiniai), taip pat mirusio paciento vaikas, gimęs po jo mirties, turi teisę į turtinės ir neturtinės žalos, atsiradusios dėl paciento sveikatai padarytos žalos (toliau – žala), atlyginimą. Teisę į neturtinės žalos atlyginimą taip pat turi mirusio paciento darbingi tėvai (įtėviai) ir pilnamečiai vaikai (įvaikiai), kuriuos su pacientu siejo ypač artimas ir glaudus ryšys. Dėl mirusio paciento ir jo tėvų bei pilnamečių vaikų ryšio artimumo ir glaudumo sprendžia Pacientų sveikatai padarytos žalos nustatymo komisija (toliau – Komisija) pagal mirusio paciento tėvų (įtėvių) ir pilnamečių vaikų (įvaikių) ar jų atstovo pateiktus duomenis, patvirtinančius paciento ir jo tėvų bei pilnamečių vaikų ypač artimą ir glaudų ryšį (atsižvelgiant į bendravimo intensyvumą ir rūpinimosi vienas kitu pobūdį).
+Pacientas ir asmuo, kuris buvo mirusio paciento išlaikomas arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą (nepilnamečiai vaikai (įvaikiai), sutuoktinis, nedarbingi tėvai (įtėviai) ar kiti faktiniai nedarbingi išlaikytiniai), taip pat mirusio paciento vaikas, gimęs po jo mirties, turi teisę į turtinės ir neturtinės žalos, atsiradusios dėl paciento sveikatai padarytos žalos, (toliau – žala) atlyginimą. Teisę į neturtinės žalos atlyginimą taip pat turi kiti asmenys, kuriuos su pacientu siejo ypač artimas ir glaudus ryšys. Dėl mirusio paciento ir šių asmenų ryšio artimumo ir glaudumo sprendžia Pacientų sveikatai padarytos žalos nustatymo komisija (toliau – Komisija) pagal šių asmenų ar jų atstovo pateiktus duomenis, patvirtinančius paciento ir šių asmenų ypač artimą ir glaudų ryšį (atsižvelgiant į bendravimo intensyvumą ir rūpinimosi vienas kitu pobūdį).
+
+TAR pastaba: straipsnio nuostatos taikomos apskaičiuojant Pacientų sveikatai padarytos žalos nustatymo komisijos (toliau – Komisija) narių, ekspertų sąraše nurodytų sveikatos priežiūros specialistų ir kitų ekspertų sąraše nenurodytų sveikatos priežiūros specialistų, teikiančių išvadas Komisijai, (toliau kartu – ekspertai) atlygį nuo 2024 m. sausio 1 d. Komisijos nariams ir ekspertams nuo 2024 m. sausio 1 d. iki šio įstatymo įsigaliojimo dienos sumokėto atlygio ir šiuo laikotarpiu mokėtino atlygio, apskaičiuoto pagal šį įstatymą, skirtumą Vyriausybės įgaliota institucija Komisijos nariams ir ekspertams sumoka ne vėliau kaip per 30 darbo dienų nuo šio įstatymo įsigaliojimo dienos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
+
+Nr. XIII-2703, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21552
+
+Nr. KT10-N1/2024, 2024-01-24, paskelbta TAR 2024-01-24, i. k. 2024-01136
+
+Nr. XIV-2797, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12617
+
+III SKYRIUS
+
+informuoto PACIENTO Sutikimas
 
 14 straipsnis. Draudimas teikti sveikatos priežiūros paslaugas be paciento sutikimo
 
@@ -527,7 +543,13 @@ Nr. XIV-1489, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22951
 
 4. Komisijos nario įgaliojimai nutrūksta, kai pasibaigia jo kadencija, jis nebegali eiti Komisijos nario pareigų dėl ligos, jis nebėra nepriekaištingos reputacijos, miršta, atsistatydina arba nebegali eiti Komisijos nario pareigų dėl kitų įstatymuose nustatytų priežasčių. Komisijos nario įgaliojimams nutrūkus anksčiau laiko, į atsilaisvinusią vietą kitas Komisijos narys skiriamas likusiam Komisijos kadencijos laikotarpiui šiame įstatyme ir Komisijos nuostatuose nustatyta tvarka.
 
-5. Komisijos nariams atlygis už darbą mokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nustatyta tvarka. Komisijos nariams taip pat mokamas 0,082 pareiginės algos bazinio dydžio atlygis už vieną atstovavimo teismuose nagrinėjant vieną civilinę bylą valandą ir 0,14 pareiginės algos bazinio dydžio atlygis už pasiruošimą atstovauti viename teismo posėdyje. Konkretus Komisijos narių atlygio už darbą dydis ir mokėjimo tvarka nustatomi Komisijos nuostatuose.
+5. Komisijos nariams atlygis už darbą mokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nustatyta tvarka. Komisijos narių atlygio už darbą mokėjimo tvarka nustatoma Komisijos nuostatuose. Komisijos nariams taip pat mokamas 0,009 pareiginės algos (atlyginimo) bazinio dydžio (toliau – pareiginės algos bazinis dydis) atlygis už vieną atstovavimo teismuose nagrinėjant vieną civilinę bylą valandą ir 0,015 pareiginės algos bazinio dydžio atlygis už pasiruošimą atstovauti viename teismo posėdyje.
+
+TAR pastaba: dalies nuostatos taikomos apskaičiuojant Pacientų sveikatai padarytos žalos nustatymo komisijos (toliau – Komisija) narių, ekspertų sąraše nurodytų sveikatos priežiūros specialistų ir kitų ekspertų sąraše nenurodytų sveikatos priežiūros specialistų, teikiančių išvadas Komisijai, (toliau kartu – ekspertai) atlygį nuo 2024 m. sausio 1 d. Komisijos nariams ir ekspertams nuo 2024 m. sausio 1 d. iki šio įstatymo įsigaliojimo dienos sumokėto atlygio ir šiuo laikotarpiu mokėtino atlygio, apskaičiuoto pagal šį įstatymą, skirtumą Vyriausybės įgaliota institucija Komisijos nariams ir ekspertams sumoka ne vėliau kaip per 30 darbo dienų nuo šio įstatymo įsigaliojimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2797, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12617
 
 6. Komisija, svarstydama prašymą, surenka dokumentus (įskaitant paciento medicinos dokumentų kopijas ir asmens sveikatos priežiūros įstaigos bei asmens sveikatos priežiūros specialistų paaiškinimus), kuriuose pateikta visa informacija apie pacientą (įskaitant informaciją apie paciento buvimą asmens sveikatos priežiūros įstaigoje, jo sveikatos būklę, ligos diagnozę, prognozes ir gydymą), reikalinga prašymui nagrinėti ir sprendimui priimti, taip pat dėl išvadų, kurioms padaryti reikalingos specialios žinios, gavimo kreipiasi į sveikatos priežiūros specialistus, nurodytus sveikatos apsaugos ministro patvirtintame ekspertų sąraše (toliau – ekspertų sąrašas). Jeigu išvadoms pateikti reikalinga profesinė kvalifikacija, kurią turinčių sveikatos priežiūros specialistų ekspertų sąraše nėra, arba ekspertų sąraše nurodyti sveikatos priežiūros specialistai (toliau – ekspertas) negali teikti išvados dėl viešųjų ir privačių interesų konflikto grėsmės arba kitų objektyvių priežasčių (laikinas nedarbingumas ir kt.), Komisija turi teisę dėl išvadų kreiptis į kitus, ekspertų sąraše nenurodytus, sveikatos priežiūros specialistus, atitinkančius šio straipsnio 7 dalyje nustatytus reikalavimus (toliau – kiti sveikatos priežiūros specialistai). Ekspertai ir kiti sveikatos priežiūros specialistai, į kuriuos Komisija kreipiasi dėl išvadų, turi teisę gauti visą reikiamą informaciją (įskaitant paciento medicinos dokumentų kopijas ir asmens sveikatos priežiūros įstaigos bei asmens sveikatos priežiūros specialistų paaiškinimus, kuriuose pateikta visa informacija apie pacientą (įskaitant informaciją apie paciento buvimą asmens sveikatos priežiūros įstaigoje, sveikatos būklę, ligos diagnozę, prognozes ir gydymą, taip pat visą kitą asmeninio pobūdžio informaciją apie pacientą), reikalingą išvadai pateikti. Asmenys, į kuriuos kreipiasi Komisija, ekspertai ir kiti sveikatos priežiūros specialistai, privalo pateikti jiems šioje dalyje nurodytą informaciją ir dokumentus. Visa Komisijai, ekspertams ir kitiems sveikatos priežiūros specialistams pateikta informacija apie pacientą, asmens sveikatos priežiūros įstaigą ir asmens sveikatos priežiūros specialistus naudojama priimant sprendimus dėl pacientų sveikatai padarytos žalos (turtinės ir neturtinės) atlyginimo ir laikoma konfidencialia. Ji gali būti atskleista kitiems asmenims tik teisės aktuose, reguliuojančiuose tokios informacijos tvarkymą, nustatytais pagrindais ir tvarka.
 
@@ -535,7 +557,13 @@ Nr. XIV-1489, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22951
 
 8. Į ekspertų sąrašą įrašytas ekspertas iš šio sąrašo išbraukiamas jo prašymu, taip pat kai jis nebėra nepriekaištingos reputacijos, atsistatydina iš pareigų jį delegavusioje institucijoje, nebegali eiti eksperto pareigų dėl ligos, miršta arba kai Komisija, vadovaudamasi sveikatos apsaugos ministro nustatytais kriterijais, nusprendžia, kad ekspertas netinkamai atlieka savo funkcijas, arba jis nebegali atlikti eksperto funkcijų dėl kitų įstatymuose nustatytų priežasčių.
 
-9. Ekspertui ir kitam sveikatos priežiūros specialistui mokamas 2,27 Lietuvos Respublikos Seimo patvirtinto atitinkamų metų pareiginės algos bazinio dydžio atlygis už sveikatos apsaugos ministro nustatytus reikalavimus atitinkančios išvados pateikimą ir 0,082 Seimo patvirtinto atitinkamų metų pareiginės algos bazinio dydžio atlygis už kiekvieną dalyvavimo Komisijos posėdyje valandą. Šio įstatymo 25 straipsnio 1 dalyje nurodytais atvejais ekspertui ir kitam sveikatos priežiūros specialistui taip pat mokamas 0,082 pareiginės algos bazinio dydžio atlygis už vieną atstovavimo teismuose nagrinėjant vieną civilinę bylą valandą ir 0,14 pareiginės algos bazinio dydžio atlygis už pasiruošimą atstovauti viename teismo posėdyje.
+9. Ekspertui ir kitam sveikatos priežiūros specialistui mokamas 0,237 pareiginės algos bazinio dydžio atlygis už sveikatos apsaugos ministro nustatytus reikalavimus atitinkančios išvados pateikimą ir 0,009 pareiginės algos bazinio dydžio atlygis už kiekvieną dalyvavimo Komisijos posėdyje valandą. Šio įstatymo 25 straipsnio 1 dalyje nurodytais atvejais ekspertui ir kitam sveikatos priežiūros specialistui taip pat mokamas 0,009 pareiginės algos bazinio dydžio atlygis už vieną atstovavimo teismuose nagrinėjant vieną civilinę bylą valandą ir 0,015 pareiginės algos bazinio dydžio atlygis už pasiruošimą atstovauti viename teismo posėdyje.
+
+TAR pastaba: dalies nuostatos taikomos apskaičiuojant Pacientų sveikatai padarytos žalos nustatymo komisijos (toliau – Komisija) narių, ekspertų sąraše nurodytų sveikatos priežiūros specialistų ir kitų ekspertų sąraše nenurodytų sveikatos priežiūros specialistų, teikiančių išvadas Komisijai, (toliau kartu – ekspertai) atlygį nuo 2024 m. sausio 1 d. Komisijos nariams ir ekspertams nuo 2024 m. sausio 1 d. iki šio įstatymo įsigaliojimo dienos sumokėto atlygio ir šiuo laikotarpiu mokėtino atlygio, apskaičiuoto pagal šį įstatymą, skirtumą Vyriausybės įgaliota institucija Komisijos nariams ir ekspertams sumoka ne vėliau kaip per 30 darbo dienų nuo šio įstatymo įsigaliojimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2797, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12617
 
 10. Komisijos posėdžiai yra teisėti, jeigu juose dalyvauja ne mažiau kaip 5 Komisijos nariai. Komisija sprendimus priima Komisijos posėdyje dalyvaujančių Komisijos narių bendru sutarimu, o jeigu Komisijos nariai nepasiekia bendro sutarimo, – posėdyje dalyvaujančių Komisijos narių balsų dauguma. Komisijos narys turi vieną balsą. Komisijos narių balsams pasiskirsčius po lygiai, lemiamas yra Komisijos pirmininko balsas, o kai šio nėra, – Komisijos pirmininko pavaduotojo balsas. Komisijos narys, nesutinkantis su Komisijos sprendimu, turi teisę pateikti atskirąją nuomonę, kuri pridedama prie Komisijos posėdžio protokolo. Komisijos posėdyje turi teisę dalyvauti pacientas, kitas asmuo, turintis teisę į žalos atlyginimą, ir (arba) jų atstovas, sveikatos priežiūros įstaigos, teikusios asmens sveikatos priežiūros paslaugas arba atlikusios biomedicininį tyrimą, keliantį tik nedidelį nepageidaujamą laikiną poveikį, nurodytus prašyme, darbuotojai ir išvadas pateikęs (-ę) ekspertas (-ai) ar kitas (-i) sveikatos priežiūros specialistas (-ai).
 
@@ -794,6 +822,22 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT10-N1/2024, 2024-01-24, paskelbta TAR 2024-01-24, i. k. 2024-01136
 
 Dėl Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 13 straipsnio (2019 m. gruodžio 17 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2614, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08906
+
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 9 ir 12 straipsnių pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2797, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12617
+
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 13 ir 26 straipsnių pakeitimo įstatymas
 
 161 straipsnis. Sutikimo skiepytis nuo užkrečiamosios pandemiją sukėlusios ligos, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, išreiškimas
 
