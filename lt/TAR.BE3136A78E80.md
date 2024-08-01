@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2024-01-01"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2025-02-28
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
 
@@ -167,7 +167,11 @@ Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
 
 Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
 
-Eilinė notaro atestacija vykdoma praėjus vieniems metams nuo notaro profesinės veiklos pradžios, o vėliau – periodiškai, ne rečiau kaip kas penkeri metai. Notaras, grįžęs iš vaiko priežiūros atostogų, atestuojamas ne anksčiau kaip po vienų profesinės veiklos metų. Neeilinė notaro atestacija gali būti vykdoma, kai yra teismo sprendimas, kuriuo atliktas notarinis veiksmas pripažintas neteisėtu dėl notaro profesinės veiklos pažeidimų, taip pat kitais pagrindais, kurie leidžia pagrįstai abejoti notaro kvalifikacija. Neeilinė notaro atestacija vykdoma motyvuotai pareikalavus Lietuvos Respublikos teisingumo ministrui, Notarų rūmų prezidiumui, Notarų garbės teismui.
+Eilinė notaro atestacija vykdoma praėjus vieniems metams nuo notaro profesinės veiklos pradžios, o vėliau – periodiškai, ne rečiau kaip kas penkeri metai. Notaras, grįžęs iš vaiko priežiūros atostogų, atestuojamas ne anksčiau kaip po vienų metų profesinės veiklos. Neeilinė notaro atestacija gali būti vykdoma, kai yra teismo sprendimas, kuriuo atliktas notarinis veiksmas pripažintas neteisėtu dėl notaro profesinės veiklos pažeidimų, kai esama abejonių, ar notaras tinkamai laikosi Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimų, taip pat kitais pagrindais, kurie leidžia pagrįstai abejoti notaro kvalifikacija. Neeilinė notaro atestacija vykdoma motyvuotai pareikalavus Lietuvos Respublikos teisingumo ministrui, Notarų rūmų prezidiumui, Notarų garbės teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2549, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07553
 
 Notarų atestacijos komisija uždarame posėdyje priima vieną iš šių nutarimų:
 
@@ -177,11 +181,23 @@ Notarų atestacijos komisija uždarame posėdyje priima vieną iš šių nutarim
 
 3) notaras netinka eiti notaro pareigas.
 
+Notarų atestacijos komisija, nustačiusi Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimų pažeidimų, priimdama vieną iš šio straipsnio 4 dalyje nurodytų nutarimų, gali skirti notarui Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 1, 2 ir 6 punktuose nurodytas poveikio priemones. Poveikio priemonė notarui skiriama vadovaujantis Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nuostatomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2549, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07553
+
 Notarų atestacijos komisijos nutarimas gali būti skundžiamas pirmosios instancijos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1600, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25178
+
+Šio straipsnio 5 dalyje nurodytas poveikio priemones Notarų atestacijos komisija gali skirti notaro atstovui, jeigu vykdant notaro atestaciją nustatoma, kad notaro atstovas yra pažeidęs Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimus. Poveikio priemonė notaro atstovui skiriama vadovaujantis Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nuostatomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2549, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07553
 
 Straipsnio pakeitimai:
 
