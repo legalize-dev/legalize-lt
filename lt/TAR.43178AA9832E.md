@@ -4,7 +4,7 @@ identifier: "TAR.43178AA9832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2024-07-25"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
 
@@ -132,7 +132,11 @@ BENDROSIOS NUOSTATOS
 
 5) saugoti apskaitos dokumentus ir apskaitos registrus, o juos praradus arba sugadinus – atkurti.
 
-22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įmonių atskaitomybės įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos pensijų kaupimo įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos ūkininko ūkio įstatyme, Lietuvos Respublikos viešųjų pirkimų įstatyme.
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įmonių atskaitomybės įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos pensijų kaupimo įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos ūkininko ūkio įstatyme, Lietuvos Respublikos viešųjų pirkimų įstatyme ir Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2546, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07540
 
 23. Kai šiame įstatyme teikiamos nuorodos į tarptautinius finansinės atskaitomybės standartus, Lietuvos finansinės atskaitomybės standartus, viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartus, vartojama sąvoka „standartai“.
 
@@ -288,6 +292,18 @@ f) kredito įstaigos, išskyrus kredito unijas;
 
 g) valstybės valdomos įmonės, kurios pagal Lietuvos Respublikos finansinių ataskaitų audito įstatymą priskiriamos viešojo intereso įmonėms;
 
+h) su turtu susietų žetonų, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 6 punkte, leidėjai;
+
+Papildyta papunkčiu:
+
+Nr. XIV-2892, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13501
+
+i) elektroninių pinigų įstaigos, leidžiančios reikšmingus elektroninių pinigų žetonus, kaip tai suprantama pagal Reglamento (ES) 2023/1114 56 ir 57 straipsnius.
+
+Papildyta papunkčiu:
+
+Nr. XIV-2892, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13501
+
 2) pagal Lietuvos finansinės atskaitomybės standartus arba tarptautinius finansinės atskaitomybės standartus šie subjektai:
 
 a) pelno siekiantys ribotos civilinės atsakomybės juridiniai asmenys, išskyrus šio straipsnio 1 punkte nurodytus subjektus;
@@ -394,7 +410,17 @@ APSKAITOS ORGANIZAVIMAS IR TVARKYMAS
 
 2. Apskaitos paslaugas teikiančio arba apskaitos funkciją atliekančio juridinio asmens vadovaujamas pareigas einančiais asmenimis, dalyviais arba apskaitos paslaugas savarankiškai teikiančiu asmeniu negali būti asmenys, kurie buvo pripažinti kaltais dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams padarymo, kol teistumas neišnykęs arba nepanaikintas.
 
-3. Apskaitos paslaugas teikiantis arba apskaitos funkciją atliekantis subjektas turi nusistatyti apskaitos paslaugų teikimo organizavimo ir kontrolės tvarką ir jos laikytis.
+3. Juridinis asmuo, pradėjęs teikti apskaitos paslaugas arba atlikti apskaitos funkciją ar šias veiklas nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos privalo informuoti Juridinių asmenų registro tvarkytoją apie apskaitos paslaugų teikimo arba apskaitos funkcijos atlikimo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Fizinis asmuo, pradėjęs savarankiškai teikti apskaitos paslaugas ar šią veiklą nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko nustatyta tvarka privalo informuoti Valstybinę mokesčių inspekciją apie apskaitos paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Pateikdamas šią informaciją apskaitos paslaugų teikėjas ar atliekantis apskaitos funkciją asmuo patvirtina, kad jis pats ar jo vadovaujamas pareigas einantys asmenys, dalyviai ir naudos gavėjai yra susipažinę su pinigų plovimą ir teroristų finansavimo prevenciją reglamentuojančiais teisės aktais ir atitinka jų reikalavimus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2546, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07540
+
+4. Apskaitos paslaugas teikiantis arba apskaitos funkciją atliekantis subjektas turi nusistatyti apskaitos paslaugų teikimo organizavimo ir kontrolės tvarką ir jos laikytis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2546, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07540
 
 V SKYRIUS
 
