@@ -4,7 +4,7 @@ identifier: "TAR.2E0162CE3FB9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-22"
-last_updated: "2024-01-01"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E0162CE3FB9"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽMENINĖS PREKYBOS ĮMONIŲ NESĄŽININGŲ VEIKSMŲ
 
 DRAUDIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 1-31, i. k. 1091010ISTA00XI-626
 
@@ -338,7 +338,11 @@ Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
 
 12 straipsnis. Sankcijos
 
-1. Už šio įstatymo 3 straipsnio 1, 2 ir 3 dalyse nurodytus draudžiamus nesąžiningus veiksmus, išskyrus Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo 4 straipsnio 1 ir 2 dalyse nurodytus pažeidimus, mažmeninės prekybos įmonėms skiriama bauda iki 0,7 procento jų praėjusių finansinių metų pardavimo pajamų. Konkurencijos taryba turi teisę mažmeninės prekybos įmonei skirti įpareigojimą nutraukti šiame įstatyme nustatytus draudžiamus nesąžiningus veiksmus ar įpareigojimą atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant sutarties pakeitimą.
+1. Už šio įstatymo 3 straipsnio 1, 2 ir 3 dalyse nurodytus draudžiamus nesąžiningus veiksmus, išskyrus Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo 4 straipsnio 1 dalyje nurodytus pažeidimus, mažmeninės prekybos įmonėms skiriama bauda iki 0,7 procento jų praėjusių finansinių metų pardavimo pajamų. Konkurencijos taryba turi teisę mažmeninės prekybos įmonei skirti įpareigojimą nutraukti šiame įstatyme nustatytus draudžiamus nesąžiningus veiksmus ar įpareigojimą atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant sutarties pakeitimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2921, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13515
 
 2. Skiriama bauda apskaičiuojama tokia tvarka:
 
@@ -348,7 +352,11 @@ Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
 
 3) šios dalies 2 punkte apskaičiuotas bazinis baudos dydis didinamas arba mažinamas iki 50 procentų, atsižvelgiant į lengvinančias ir sunkinančias aplinkybes. Nustačius sunkinančią aplinkybę – mažmeninės prekybos įmonė per metus nuo šiame įstatyme nustatytos baudos paskyrimo pakartotinai padaro tokį pat pažeidimą – bazinis baudos dydis didinamas iki 100 procentų.
 
-3. Už Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo 4 straipsnio 1 ir 2 dalyse nurodytus pažeidimus mažmeninės prekybos įmonei skiriama ne mažesnė kaip 200 eurų, tačiau ne didesnė kaip 20 procentų nuo susidariusios pradelstų skolų tiekėjui sumos dydžio bauda. Skiriama bauda apskaičiuojama tokia tvarka:
+3. Už Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo 4 straipsnio 1 dalyje nurodytus pažeidimus mažmeninės prekybos įmonei skiriama ne mažesnė kaip 200 eurų, tačiau ne didesnė kaip 20 procentų nuo susidariusios pradelstų skolų tiekėjui sumos dydžio bauda. Skiriama bauda apskaičiuojama tokia tvarka:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2921, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13515
 
 1) nustatomas pradinis baudos dydis, kuris yra lygus 7 procentams nuo susidariusios pradelstų skolų tiekėjui sumos;
 
@@ -489,6 +497,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2236, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22967
 
 Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 3 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2921, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13515
+
+Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 12 straipsnio pakeitimo įstatymas
 
 91 straipsnis. Pažeidimo tyrimo išskyrimas (sujungimas), pabaiga, atnaujinimas
 
