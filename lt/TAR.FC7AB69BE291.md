@@ -4,7 +4,7 @@ identifier: "TAR.FC7AB69BE291"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-12"
-last_updated: "2024-01-01"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2025-01-22
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
 
@@ -1573,17 +1573,25 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 
 8. Elektrinių jūrinės teritorijos dalyje (dalyse) statyba ir elektros energijos gamyba gali būti vykdoma bendrai su kitomis valstybėmis narėmis, kaip tai numatyta šio įstatymo 59 straipsnyje.
 
-9. Konkursas naudoti jūrinę teritoriją Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatytose dalyse plėtojant ne didesnės negu šiame nutarime nustatytos leistinos generuoti galios elektrines sandorio kainai, kuri turi būti didesnė už žemiausią ribą ir mažesnė arba lygi Valstybinės energetikos reguliavimo tarybos nustatytai didžiausiai galimai sandorio kainai, ir metiniam elektros energijos gamybos kiekiui, kuriam konkurso dalyvis pageidauja laimėti sandorio kainą (toliau – skatinamas kiekis), organizuojamas vadovaujantis Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, tačiau ne vėliau kaip per 180 kalendorinių dienų nuo informacijos apie planuojamą organizuoti konkursą paskelbimo Valstybinės energetikos reguliavimo tarybos interneto svetainėje dienos. Šio straipsnio 1 dalyje numatytų tyrimų ir kitų veiksmų rezultatai bei šių tyrimų ir kitų veiksmų atlikimo išlaidos viešai paskelbiami per 5 kalendorines dienas nuo jų gavimo dienos, tačiau ne vėliau, negu skelbiama informacija apie planuojamą organizuoti konkursą. Konkurso dalyvių registracija trunka 90 kalendorinių dienų nuo informacijos apie planuojamą organizuoti konkursą paskelbimo dienos. Valstybinė energetikos reguliavimo taryba konkurso laimėtoją nustato per 60 kalendorinių dienų nuo konkurso dalyvių registracijos pabaigos. Šis terminas gali būti pratęstas 30 kalendorinių dienų motyvuotu konkurso komiteto, sudaryto Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, prašymu. Į konkurso laimėtojo nustatymo terminus neįskaičiuojama šio straipsnio 19 dalyje numatytos patikros dėl atitikties nacionalinio saugumo interesams trukmė. Informacijos apie planuojamą organizuoti konkursą paskelbimo diena nurodoma Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje. Neįvykus konkursui šio straipsnio 10 dalyje numatytais atvejais, Vyriausybė nustato naują konkurso paskelbimo datą.
+9. Konkursas naudoti jūrinę teritoriją Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatytose jos dalyse plėtojant ne didesnės negu šiame nutarime nustatytos leistinos generuoti galios elektrines, kuriame nustatoma sandorio kaina, kuri turi būti didesnė už žemiausią ribą ir mažesnė už Valstybinės energetikos reguliavimo tarybos nustatytą didžiausią galimą sandorio kainą arba jai lygi, ir metinis elektros energijos gamybos kiekis, už kurį konkurso dalyvis pageidauja laimėti sandorio kainą, (toliau – skatinamas kiekis) organizuojamas vadovaujantis Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka. Šio straipsnio 1 dalyje numatytų tyrimų ir kitų veiksmų rezultatai bei šių tyrimų ir kitų veiksmų atlikimo išlaidos viešai paskelbiami per 5 kalendorines dienas nuo jų gavimo dienos, tačiau ne vėliau, negu skelbiama informacija apie planuojamą organizuoti konkursą. Konkurso dalyvių registracija trunka 120 kalendorinių dienų nuo informacijos apie planuojamą organizuoti konkursą paskelbimo dienos. Valstybinė energetikos reguliavimo taryba konkurso laimėtoją nustato per 60 kalendorinių dienų nuo konkurso dalyvių registracijos pabaigos. Šis terminas gali būti pratęstas 30 kalendorinių dienų motyvuotu konkurso komiteto, sudaryto Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, prašymu. Į konkurso laimėtojo nustatymo terminus neįskaičiuojama šio straipsnio 19 dalyje numatytos patikros dėl atitikties nacionalinio saugumo interesams trukmė. Informacijos apie planuojamą organizuoti konkursą paskelbimo diena nurodoma Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje. Neįvykus konkursui šio straipsnio 10 dalyje numatytais atvejais, Vyriausybė nustato naują konkurso paskelbimo datą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
 
 10. Konkursas laikomas neįvykusiu ir naują konkurso paskelbimo datą nustato Vyriausybė, kai:
 
-1) dalyvauti konkurse užsiregistruoja mažiau negu du dalyviai;
+1) dalyvauti konkurse neužsiregistruoja nė vienas dalyvis;
 
-2) į konkurso dalyvių sąrašą įrašyti mažiau negu du konkurso dalyviai;
+2) į konkurso dalyvių sąrašą neįrašytas nė vienas dalyvis;
 
 3) į potencialių konkurso laimėtojų sąrašą neįrašomas nė vienas konkurso dalyvis;
 
 4) potencialiu konkurso laimėtoju laikomas konkurso dalyvis, vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu, nustatomas kaip neatitinkantis nacionalinio saugumo interesų arba atsisako būti konkurso laimėtoju ir potencialių konkurso laimėtojų sąraše nėra įrašyta daugiau konkurso dalyvių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
 
 11. Konkurse turi teisę dalyvauti Lietuvos Respublikos ir užsienio fiziniai ir (ar) juridiniai asmenys ir (ar) kitos organizacijos ar jų padaliniai, ar jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės, atitinkantys šias sąlygas:
 
@@ -1659,6 +1667,12 @@ d) kiekvienas jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės
 
 6) elektrinės naudingo eksploatavimo laikotarpį.
 
+151. Valstybinė energetikos reguliavimo taryba nuo konkurso laimėtojo patvirtinimo dienos kiekvienais kalendoriniais metais iki sausio 31 dienos perskaičiuoja sandorio kainą, indeksuodama įvykusį sandorio kainos ir praėjusių metų prekybos elektros energijos biržoje Lietuvos zonoje vidutinės metinės elektros energijos kainos skirtumo pokytį metinės infliacijos koeficientu, skelbiamu Valstybinės duomenų agentūros. Apskaičiuojant sandorio kainos ir praėjusių metų prekybos elektros energijos biržoje Lietuvos zonoje vidutinės metinės elektros energijos kainos skirtumą, pirmaisiais metais vertinama konkurso laimėtojo laimėta sandorio kaina, kitais metais vertinama praėjusiais metais perskaičiuota sandorio kaina. Jeigu praėjusių metų prekybos elektros energijos biržoje Lietuvos zonoje vidutinė metinė elektros energijos kaina yra didesnė už sandorio kainą arba jai lygi, sandorio kaina neperskaičiuojama. Perskaičiuota sandorio kaina taikoma einamaisiais kalendoriniais metais apskaičiuojant konkurso laimėtojui, kuriam išduotas leidimas gaminti elektros energiją, mokėtiną viešuosius interesus atitinkančių paslaugų lėšų sumą už praėjusius metus ar iš gamintojo surinktiną lėšų sumą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
+
 16. Elektros energijos gamyba skatinama 15 metų laikotarpiu elektros energija prekiaujant pagal atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartis ir (ar) energetikos ministro tvirtinamose elektros energijos rinkos taisyklėse nustatyta tvarka ir būdais, Vyriausybės nustatyta tvarka vadovaujantis šiais principais:
 
 1) kai kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinė kaina yra mažesnė už sandorio kainą, viešuosius interesus atitinkančių paslaugų lėšų administratorius gamintojui sumoka kainos priedą, kuris apskaičiuojamas kaip sandorio kainos ir kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinės kainos skirtumas;
@@ -1668,6 +1682,12 @@ d) kiekvienas jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės
 3) šios dalies 1 ir 2 punktuose nurodytos lėšos už praėjusius kalendorinius metus mokamos iki einamųjų metų vasario 15 dienos už pagamintą ir į elektros tinklus patiektą elektros energijos kiekį, kuris negali būti didesnis negu konkurso metu priskirtas skatinamas kiekis. Metinis skatinamas kiekis paskirstomas vadovaujantis proporcingumo principu, atsižvelgiant į metinį pagamintą ir į elektros tinklus patiektą elektros energijos kiekį.
 
 17. Vyriausybės nustatyta tvarka gamintojui viešuosius interesus atitinkančių paslaugų lėšos nemokamos už laikotarpį, kurį kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinė kaina yra lygi gamintojo konkurse laimėtai sandorio kainai, ir (ar) už laikotarpį, kurį kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinė kaina yra mažesnė už nulį arba jam lygi, taip pat už pagamintos ir į elektros tinklus patiektos elektros energijos kiekį, kuris viršija gamintojo konkurse nurodytą skatinamą kiekį.
+
+171. Viešuosius interesus atitinkančių paslaugų administratorius, atsižvelgdamas į Valstybinės energetikos reguliavimo tarybos vadovaujantis šio straipsnio 151 dalimi perskaičiuotą sandorio kainą, apskaičiuoja gamintojui mokėtiną viešuosius interesus atitinkančių paslaugų lėšų sumą, kai tenkinama šio straipsnio 16 dalies 1 punkte nurodyta sąlyga, ar iš gamintojo surinktiną lėšų sumą, kai tenkinama šio straipsnio 16 dalies 2 punkte nurodyta sąlyga. Pirmasis konkurso dalyvio siūlomas vystymo mokestis turi būti ne mažesnis kaip 5 milijonai eurų. Sutapus konkurso dalyvių pateiktiems vystymo mokesčiams, kitas konkurso dalyvio siūlomas vystymo mokestis turi būti ne mažesne kaip 5 milijonų eurų suma didesnis už prieš tai pasiūlytą vystymo mokestį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
 
 18. Konkurso dalyviai kartu su Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nurodytais dokumentais privalo pateikti pasiūlymus dėl pageidaujamos sandorio kainos, skatinamo kiekio ir pageidaujamos metinės potencialaus skatinimo apimties, kuri apskaičiuojama kaip pageidaujamos sandorio kainos ir žemiausios ribos skirtumo ir skatinamo kiekio sandauga. Jeigu konkurso dalyvio nurodomas skatinamas kiekis yra lygus nuliui, konkurso dalyvis taip pat turi pateikti elektrinių plėtros jūrinėje teritorijoje vystymo mokesčio, kurį laimėjęs konkursą įsipareigoja sumokėti Vyriausybės nustatyta tvarka ir terminais (toliau – vystymo mokestis), pasiūlymą. Potencialių konkurso laimėtojų sąrašas, vadovaujantis Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, sudaromas rikiuojant konkurso dalyvius pagal konkurso dalyvių nurodytą mažiausią pageidaujamą metinę potencialaus skatinimo apimtį. Potencialiu konkurso laimėtoju pripažįstamas konkurso dalyvis, nurodęs mažiausią pageidaujamą metinę potencialaus skatinimo apimtį. Sutapus mažiausiai pageidaujamai metinei potencialaus skatinimo apimčiai, potencialiu konkurso laimėtoju konkurso dalyvis pripažįstamas tokia tvarka:
 
@@ -1739,7 +1759,11 @@ d) kiekvienas jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės
 
 34. Valstybinė energetikos reguliavimo taryba prižiūri, kaip laikomasi leidime plėtrai ir eksploatacijai nustatytų reguliuojamos veiklos sąlygų.
 
-35. Šiame straipsnyje nurodyto konkurso dalyvis, pagal šio straipsnio 19 dalį pripažintas konkurso laimėtoju, per 5 metus nuo leidimo gaminti elektros energiją gavimo dienos lygiomis dalimis Vyriausybės nustatyta tvarka sumoka vystymo mokestį į atskirą valstybės iždo sąskaitą.
+35. Šiame straipsnyje nurodyto konkurso dalyvis, pagal šio straipsnio 19 dalį pripažintas konkurso laimėtoju, per 5 metus nuo leidimo gaminti elektros energiją gavimo dienos lygiomis dalimis Vyriausybės nustatyta tvarka sumoka vystymo mokestį į atskirą valstybės iždo sąskaitą. Valstybinė energetikos reguliavimo taryba nuo konkurso laimėtojo patvirtinimo dienos kiekvienais kalendoriniais metais iki sausio 31 dienos perskaičiuoja vystymo mokestį įvertindama per praėjusius kalendorinius metus dėl metinės infliacijos, skelbiamos Valstybinės duomenų agentūros, įvykusį vystymo mokesčio pokytį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
 
 36. Šio įstatymo 221 straipsnyje nurodyto konkurso dalyvis, pagal šio straipsnio 19 dalį pripažintas konkurso laimėtoju, per 60 kalendorinių dienų nuo paskelbimo konkurso laimėtoju dienos Vyriausybės nustatyta tvarka sumoka vystymo mokestį į atskirą valstybės iždo sąskaitą.
 
