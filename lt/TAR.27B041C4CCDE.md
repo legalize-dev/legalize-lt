@@ -4,7 +4,7 @@ identifier: "TAR.27B041C4CCDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-15"
-last_updated: "2024-03-01"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.27B041C4CCDE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 10 straipsnis įsigalioja 2010 m. s
 ---
 # Lietuvos Respublikos mediacijos įstatymas
 
-Suvestinė redakcija nuo 2024-03-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 87-3462, i. k. 1081010ISTA00X-1702
 
@@ -447,17 +447,21 @@ Nr. XIV-269, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08872
 
 3. Kai privalomąją mediaciją inicijuoja viena iš ginčo šalių, ši ginčo šalis turi Valstybės garantuojamos teisinės pagalbos tarnybai paduoti prašymą dėl mediatoriaus skyrimo šio įstatymo 14 straipsnyje nustatyta tvarka arba savo pasirinktam mediatoriui, įrašytam į Lietuvos Respublikos mediatorių sąrašą, paduoti prašymą vykdyti mediaciją šio įstatymo 13 straipsnyje nustatyta tvarka. Ginčo šalies prašyme turi būti nurodyta kitos ginčo šalies vardas, pavardė, ginčo dalykas, gyvenamosios vietos ar kitos dokumentų įteikimo vietos adresas, o kai kita ginčo šalis yra juridinis asmuo, – juridinio asmens pavadinimas, buveinės ar kitos dokumentų įteikimo vietos adresas.
 
-4. Valstybės garantuojamos teisinės pagalbos tarnyba arba mediatorius, gavę šio straipsnio 3 dalyje nurodytą ginčo šalies prašymą, ne vėliau kaip per tris darbo dienas nuo jo gavimo dienos išsiunčia kitai ginčo šaliai pranešimą apie gautą prašymą, kartu nurodydami, kad ne vėliau kaip per keturiolika dienų nuo pranešimo išsiuntimo dienos turi būti gautas kitos ginčo šalies sutikimas dėl mediacijos vykdymo.
+4. Valstybės garantuojamos teisinės pagalbos tarnyba, gavusi šio straipsnio 3 dalyje nurodytą ginčo šalies prašymą, ne vėliau kaip per tris darbo dienas nuo jo gavimo dienos šio įstatymo 14 straipsnyje nustatyta tvarka skiria mediatorių iš Lietuvos Respublikos mediatorių sąrašo. Paskirtas mediatorius ne vėliau kaip per tris darbo dienas nuo paskyrimo dienos arba mediatorius, į kurį ginčo šalis kreipiasi tiesiogiai, gavęs šio straipsnio 3 dalyje nurodytą ginčo šalies prašymą, ne vėliau kaip per tris darbo dienas nuo jo gavimo dienos išsiunčia kitai ginčo šaliai pranešimą apie gautą prašymą, nurodydamas, kad ne vėliau kaip per keturiolika dienų nuo pranešimo išsiuntimo dienos, o tuo atveju, kai pranešimas siunčiamas kitai ginčo šaliai, gyvenančiai kitoje valstybėje, – per trisdešimt dienų nuo pranešimo išsiuntimo dienos turi būti gautas kitos ginčo šalies sutikimas dėl mediacijos vykdymo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-269, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08872
 
-5. Jeigu per keturiolika dienų nuo šio straipsnio 4 dalyje nurodyto pranešimo išsiuntimo dienos negaunamas kitos ginčo šalies sutikimas dėl mediacijos vykdymo, laikoma, kad kita ginčo šalis nesutiko pasinaudoti privalomąja mediacija. Šiais atvejais privalomąją mediaciją inicijavusi ginčo šalis turi teisę kreiptis į teismą dėl ginčo išsprendimo ir yra laikoma, kad ginčo šalis įgyvendino įstatymuose nustatytą reikalavimą pasinaudoti privalomąja mediacija.
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+
+5. Jeigu per keturiolika dienų nuo šio straipsnio 4 dalyje nurodyto pranešimo išsiuntimo dienos, o tuo atveju, kai šio straipsnio 4 dalyje nurodytas pranešimas siunčiamas kitai ginčo šaliai, gyvenančiai kitoje valstybėje, – per trisdešimt dienų nuo šio straipsnio 4 dalyje nurodyto pranešimo išsiuntimo dienos negaunamas kitos ginčo šalies sutikimas dėl mediacijos vykdymo, laikoma, kad kita ginčo šalis nesutiko pasinaudoti privalomąja mediacija. Šiais atvejais privalomąją mediaciją inicijavusi ginčo šalis turi teisę kreiptis į teismą dėl ginčo išsprendimo ir yra laikoma, kad ginčo šalis įgyvendino įstatymuose nustatytą reikalavimą pasinaudoti privalomąja mediacija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-269, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08872
+
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
 
 6. Valstybės garantuojamos teisinės pagalbos tarnyba turi skirti patalpas privalomajai mediacijai vykdyti. Ginčo šalių ir mediatoriaus susitarimu privalomoji mediacija gali būti vykdoma ir kitose patalpose.
 
@@ -467,7 +471,11 @@ Nr. XIV-269, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08872
 
 2. Ginčo šalys turi teisę iš Lietuvos Respublikos mediatorių sąrašo pačios pasirinkti mediatorių, kuris vykdys privalomąją mediaciją, šio įstatymo 13 straipsnyje nustatyta tvarka. Šiais atvejais už mediacijos paslaugas apmokama ginčo šalių lėšomis, o mediacijos paslaugų kaina nustatoma ginčo šalių ir mediatoriaus susitarimu.
 
-3. Privalomosios mediacijos paslaugos, už kurias apmokama iš valstybės biudžeto lėšų, gali būti teikiamos iki keturių valandų. Jeigu pasibaigus šiam laikui galutinis susitarimas dėl taikaus ginčo sprendimo dar nepasiektas, ginčo šalys gali toliau savanoriškai tęsti mediaciją ginčo šalių lėšomis. Iš valstybės biudžeto lėšų taip pat apmokama už mediatoriaus pasirengimą mediacijai, kuris gali trukti iki vienos valandos, ir mediacijos rezultatų įforminimą, kuris gali trukti iki vienos valandos.
+3. Neteko galios nuo 2024-09-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
 
 4. Už suteiktas privalomosios mediacijos paslaugas mediatoriams iš valstybės biudžeto lėšų mokamo atlyginimo dydžius ir mokėjimo tvarką nustato Vyriausybė.
 
@@ -489,7 +497,11 @@ TEISMINĖS CIVILINIŲ GINČŲ MEDIACIJOS YPATUMAI
 
 6. Bet kuri ginčo šalis gali pasitraukti iš teisminės civilinių ginčų mediacijos, nenurodydama pasitraukimo priežasčių. Tai neužkerta kelio ginčo šalims pakartotinai susitarti dėl ginčo sprendimo teisminės civilinių ginčų mediacijos būdu.
 
-7. Kai teisminės civilinių ginčų mediacijos paslaugas teikia mediatoriai, kurie yra teisėjai, jiems atskiras atlyginimas už mediacijos paslaugas nemokamas ir ginčo šalims teisminės civilinių ginčų mediacijos paslaugos teikiamos nemokamai. Tais atvejais, kai mediatorių teisminei civilinių ginčų mediacijai vykdyti iš Lietuvos Respublikos mediatorių sąrašo parenka ir skiria Valstybės garantuojamos teisinės pagalbos tarnyba šio įstatymo 14 straipsnyje nustatyta tvarka, už teisminės civilinių ginčų mediacijos paslaugas apmoka Valstybės garantuojamos teisinės pagalbos tarnyba iš valstybės biudžeto lėšų. Šiuo atveju teisminė civilinių ginčų mediacija gali būti vykdoma iki keturių valandų. Jeigu pasibaigus šiam laikui galutinis susitarimas dėl taikaus ginčo sprendimo dar nepasiektas, ginčo šalys gali toliau savanoriškai tęsti teisminę civilinių ginčų mediaciją ginčo šalių lėšomis. Iš valstybės biudžeto lėšų taip pat apmokama už mediatoriaus pasirengimą teisminei civilinių ginčų mediacijai, kuris gali trukti iki vienos valandos, ir mediacijos rezultatų įforminimą, kuris gali trukti iki vienos valandos. Už suteiktas teisminės civilinių ginčų mediacijos paslaugas mediatoriams iš valstybės biudžeto mokamo atlyginimo dydžius ir mokėjimo tvarką nustato Vyriausybė.
+7. Kai teisminės civilinių ginčų mediacijos paslaugas teikia mediatoriai, kurie yra teisėjai, jiems atskiras atlyginimas už mediacijos paslaugas nemokamas ir ginčo šalims teisminės civilinių ginčų mediacijos paslaugos teikiamos nemokamai. Tais atvejais, kai mediatorių teisminei civilinių ginčų mediacijai vykdyti iš Lietuvos Respublikos mediatorių sąrašo parenka ir skiria Valstybės garantuojamos teisinės pagalbos tarnyba šio įstatymo 14 straipsnyje nustatyta tvarka, už teisminės civilinių ginčų mediacijos paslaugas apmoka Valstybės garantuojamos teisinės pagalbos tarnyba iš valstybės biudžeto lėšų. Už suteiktas teisminės civilinių ginčų mediacijos paslaugas mediatoriams iš valstybės biudžeto mokamo atlyginimo dydžius ir mokėjimo tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
 
 8. Teismai turi skirti patalpas teisminei civilinių ginčų mediacijai vykdyti. Ginčo šalių ir mediatoriaus susitarimu teisminė civilinių ginčų mediacija gali būti vykdoma ir kitose patalpose.
 
@@ -533,7 +545,11 @@ ADMINISTRACINIŲ GINČŲ MEDIATORIŲ SKYRIMAS IR ADMINISTRACINIŲ GINČŲ MEDIAC
 
 9. Neteisminės administracinių ginčų mediacijos ir su ja susijusiai informacijai taikomi šio įstatymo 17 straipsnyje nustatyti konfidencialumo reikalavimai.
 
-10. Kai neteisminės administracinių ginčų mediacijos paslaugas teikia mediatoriai, kurie yra ginčų komisijos nariai, jiems atskiras atlyginimas už mediacijos paslaugas nemokamas ir administracinio ginčo šalims neteisminės mediacijos paslaugos teikiamos nemokamai. Kai mediatorių neteisminei administracinio ginčo mediacijai vykdyti iš Lietuvos Respublikos mediatorių sąrašo parenka ir skiria Valstybės garantuojamos teisinės pagalbos tarnyba šio įstatymo 14 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka, už neteisminės administracinio ginčo mediacijos paslaugas apmoka Valstybės garantuojamos teisinės pagalbos tarnyba iš valstybės biudžeto lėšų. Šiuo atveju neteisminė administracinio ginčo mediacija gali būti vykdoma iki keturių valandų. Jeigu pasibaigus šiam laikui galutinis susitarimas dėl taikaus ginčo sprendimo dar nepasiektas, administracinio ginčo šalys gali toliau savanoriškai tęsti neteisminę administracinio ginčo mediaciją administracinio ginčo šalių lėšomis. Iš valstybės biudžeto lėšų taip pat apmokama už mediatoriaus pasirengimą neteisminei administracinio ginčo mediacijai, kuris gali trukti iki vienos valandos, ir mediacijos rezultatų įforminimą, kuris gali trukti iki vienos valandos. Už suteiktas neteisminės administracinių ginčų mediacijos paslaugas mediatoriams iš valstybės biudžeto mokamo atlyginimo dydžius ir mokėjimo tvarką nustato Vyriausybė.
+10. Kai neteisminės administracinių ginčų mediacijos paslaugas teikia mediatoriai, kurie yra ginčų komisijos nariai, jiems atskiras atlyginimas už mediacijos paslaugas nemokamas ir administracinio ginčo šalims neteisminės mediacijos paslaugos teikiamos nemokamai. Kai mediatorių neteisminei administracinio ginčo mediacijai vykdyti iš Lietuvos Respublikos mediatorių sąrašo parenka ir skiria Valstybės garantuojamos teisinės pagalbos tarnyba šio įstatymo 14 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka, už neteisminės administracinio ginčo mediacijos paslaugas apmoka Valstybės garantuojamos teisinės pagalbos tarnyba iš valstybės biudžeto lėšų. Už suteiktas neteisminės administracinių ginčų mediacijos paslaugas mediatoriams iš valstybės biudžeto mokamo atlyginimo dydžius ir mokėjimo tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
 
 11. Ginčų komisija turi skirti patalpas neteisminei administracinių ginčų mediacijai vykdyti. Administracinio ginčo šalių ir mediatoriaus susitarimu neteisminė administracinio ginčo mediacija gali būti vykdoma ir kitose patalpose.
 
@@ -668,4 +684,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 4, 5 ir 29 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+
+Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 20, 21, 22, 23, 26, 28, 29 straipsnių pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
 
