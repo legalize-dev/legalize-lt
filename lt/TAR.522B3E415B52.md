@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2024-07-01"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -1720,9 +1720,17 @@ Nr. X-1772, 2008-11-06, Žin., 2008, Nr. 131-5023 (2008-11-15)
 
 98 straipsnis. Teisėjų atostogos ir papildomos poilsio dienos
 
-1. Teisėjams suteikiamos 22 darbo dienų kasmetinės atostogos. Teisėjui, kuris yra pripažintas neįgaliuoju, taip pat teisėjui, vienam auginančiam vaiką iki keturiolikos metų arba neįgalų vaiką iki aštuoniolikos metų, suteikiamos 27 darbo dienų kasmetinės atostogos. Teisėjui, turinčiam daugiau kaip penkerių metų teisėjo darbo stažą, už kiekvienus paskesnius darbo teisėju metus kasmetinės atostogos pailginamos viena darbo diena, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 40 darbo dienų.
+1. Teisėjams suteikiamos 22 darbo dienų kasmetinės atostogos. Teisėjui, pripažintam asmeniu su negalia, taip pat teisėjui, vienam auginančiam vaiką iki keturiolikos metų arba vaiką su negalia iki aštuoniolikos metų, suteikiamos 27 darbo dienų kasmetinės atostogos. Teisėjui, turinčiam daugiau kaip penkerių metų teisėjo darbo stažą, už kiekvienus paskesnius darbo teisėju metus kasmetinės atostogos pailginamos viena darbo diena, tačiau bendra jo kasmetinių atostogų trukmė negali būti ilgesnė kaip 40 darbo dienų. Teisėjo, pripažinto asmeniu su negalia, taip pat teisėjo, vieno auginančio vaiką iki keturiolikos metų arba vaiką su negalia iki aštuoniolikos metų, bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 45 darbo dienos.
 
-2. Teisėjui, auginančiam neįgalų vaiką iki aštuoniolikos metų arba du vaikus iki dvylikos metų, suteikiama viena papildoma poilsio diena per mėnesį, o teisėjui, auginančiam tris ir daugiau vaikų iki dvylikos metų, – dvi papildomos poilsio dienos per mėnesį, mokant teisėjui jo vidutinį darbo užmokestį.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2613, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08905
+
+2. Teisėjui, auginančiam vieną vaiką iki dvylikos metų, suteikiama viena papildoma poilsio diena per tris mėnesius, teisėjui, auginančiam vaiką su negalia iki aštuoniolikos metų arba du vaikus iki dvylikos metų, suteikiama viena papildoma poilsio diena per mėnesį, o teisėjui, auginančiam tris ar daugiau vaikų iki dvylikos metų, – dvi papildomos poilsio dienos per mėnesį, mokant teisėjui jo vidutinį darbo užmokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2613, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08905
 
 3. Teisės į šio straipsnio 2 dalyje nustatytas papildomas poilsio dienas neturinčiam teisėjui, auginančiam vaiką iki keturiolikos metų, kuris mokosi pagal priešmokyklinio ugdymo, pradinio ugdymo ar pagrindinio ugdymo programas, suteikiama ne mažiau kaip pusė darbo dienos laisvo nuo darbo laiko per metus pirmąją mokslo metų dieną, mokant teisėjui jo vidutinį darbo užmokestį.
 
@@ -1788,17 +1796,13 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
-7. Teisėjui, kuriam buvo tyčia sutrikdyta sveikata dėl teisėjo pareigų atlikimo, valstybė sumoka kompensaciją pagal netekto darbingumo lygį ar sveikatos sutrikdymo sunkumą:
+7. Teisėjui, kuriam buvo tyčia sutrikdyta sveikata dėl teisėjo pareigų atlikimo, valstybė sumoka kompensaciją pagal netekto dalyvumo lygį (iki 2023 m. gruodžio 31 d. – darbingumo lygį) ar sveikatos sutrikdymo sunkumą:
 
-Straipsnio dalies numeracijos pakeitimas:
+1) dėl sveikatos sutrikdymo netekusiam 75–100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) – 46,55 MA dydžio;
 
-Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+2) dėl sveikatos sutrikdymo netekusiam 60–70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) – 37,24 MA dydžio;
 
-1) dėl sveikatos sutrikdymo netekusiam 75–100 procentų darbingumo – 46,55 MA dydžio;
-
-2) dėl sveikatos sutrikdymo netekusiam 60–70 procentų darbingumo – 37,24 MA dydžio;
-
-3) dėl sveikatos sutrikdymo netekusiam 45–55 procentų darbingumo – 27,93 MA dydžio;
+3) dėl sveikatos sutrikdymo netekusiam 45–55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) – 27,93 MA dydžio;
 
 4) dėl sunkaus sveikatos sutrikdymo – 18,62 MA dydžio;
 
@@ -1807,6 +1811,8 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1736, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20704
+
+Nr. XIV-2613, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08905
 
 8. Teisėjo tyčinio nužudymo ar tyčinio sveikatos sutrikdymo dėl teisėjo pareigų atlikimo faktinės aplinkybės nustatomos teismo sprendimu.
 
@@ -3228,11 +3234,13 @@ Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
 
 1. Teisėjas savo darbo laiką planuoja ir organizuoja savarankiškai, išskyrus proceso įstatymuose nustatytus atvejus.
 
-2. Teismo pirmininkas gali motyvuotai nuspręsti laikinai sumažinti teisėjo darbo su bylomis krūvį dėl jo užimtumo atliekant kitas teisėjo funkcijas, susijusias su teismo ar teismų sistemos veikimu, dėl jo dalyvavimo teismų savivaldos institucijų veikloje, taip pat kai būtina užtikrinti teisėjų darbo su bylomis krūvio tolygumą. Šioje dalyje nustatytais pagrindais teisėjo darbo su bylomis krūvis sumažinamas Teisėjų tarybos nustatyta tvarka ir apimtimi. Teisėjo darbo su bylomis krūvis negali būti mažinamas taip, kad būtų paneigta pagrindinė teisėjo funkcija – vykdyti teisingumą.
+2. Teismo pirmininkas gali motyvuotai nuspręsti laikinai sumažinti teisėjo darbo su bylomis krūvį dėl jo užimtumo atliekant kitas teisėjo funkcijas, susijusias su teismo ar teismų sistemos veikimu, dėl jo dalyvavimo teismų savivaldos institucijų veikloje, taip pat kai būtina užtikrinti teisėjų darbo su bylomis krūvio tolygumą.
 
-Papildyta straipsniu:
+3. Šiame straipsnyje nustatytais pagrindais teisėjo darbo su bylomis krūvis sumažinamas Teisėjų tarybos nustatyta tvarka ir apimtimi. Teisėjo darbo su bylomis krūvis negali būti mažinamas, paneigiant pagrindinę teisėjo funkciją – vykdyti teisingumą.
 
-Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+Straipsnio pakeitimai:
+
+Nr. XIV-2613, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08905
 
 1301 straipsnis. Teismų sistemos apdovanojimai
 
@@ -3269,10 +3277,6 @@ Teisėjas informuojamas apie jo darbo sąlygas Teisėjų tarybos nustatyta tvark
 Papildyta straipsniu:
 
 Nr. XIV-1195, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15186
-
-ANTRASIS SKIRSNIS
-
-TEISĖJŲ NEPRIKLAUSOMUMO GARANTIJOS
 
 552 straipsnis. Pretendentų į teisėjus atrankos komisija
 
@@ -3349,4 +3353,24 @@ Pretendentų į teismų pirmininkų, pirmininkų pavaduotojų ir skyrių pirmini
 2) papildyti šio Įstatymo 551 straipsnio 2 dalyje numatytą pretendento prioritetų sąrašą –papildomai nurodyti konkretų teismą, į kurio teisėjus vyksta kandidatūrų pasirinkimas.
 
 4. Atrankos komisija parengia kandidatų į konkretaus teismo teisėjus sąrašą, sudaromą mutatis mutandis laikantis šio Įstatymo 552 straipsnio 3 dalyje nurodyto tvarkos aprašo, surenka visą kandidatūrų pasirinkimui reikalingą informaciją ir pateikia Respublikos Prezidentui ne vėliau kaip per septynias dienas nuo tos dienos, kurią pasibaigia šio straipsnio 3 dalyje nustatytas Atrankos komisijos įvertintų pretendentų prašymų dėl prioritetų sąrašo papildymo pateikimo terminas.
+
+443 straipsnis. Teisėjo darbo su bylomis krūvio sumažinimas dėl su teisėjo funkcijomis nesusijusių priežasčių
+
+1. Teisėjo darbo su bylomis krūvis mažinamas:
+
+1) teisėjo prašymu, grindžiamu teisėjui nustatytu dalyvumo lygiu arba sveikatos priežiūros įstaigos išvada apie teisėjo sveikatos būklę;
+
+2) teisėjo prašymu, grindžiamu būtinybe slaugyti (prižiūrėti) šeimos narį ar kartu su teisėju gyvenantį asmenį;
+
+3) nėščios, neseniai pagimdžiusios ar krūtimi maitinančios teisėjos reikalavimu, taip pat teisėjo, auginančio vaiką iki aštuonerių metų, vieno auginančio vaiką iki keturiolikos metų arba vaiką su negalia iki aštuoniolikos metų, reikalavimu.
+
+2. Teismo pirmininkas sumažina teisėjo darbo su bylomis krūvį Teisėjų tarybos nustatyta tvarka ir apimtimi. Teisėjo darbo su bylomis krūvis negali būti mažinamas, paneigiant pagrindinę teisėjo funkciją – vykdyti teisingumą. Šio straipsnio nustatyta tvarka mažinant teisėjo darbo su bylomis krūvį proporcingai mažinamas ir teisėjo atlyginimas.
+
+Papildyta straipsniu:
+
+Nr. XIV-2613, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08905
+
+ANTRASIS SKIRSNIS
+
+TEISĖJŲ NEPRIKLAUSOMUMO GARANTIJOS
 
