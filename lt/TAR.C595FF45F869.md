@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2024-07-01"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-10-03
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -227,7 +227,11 @@ MOKSLO IR STUDIJŲ INSTITUCIJŲ STEIGIMAS, PABAIGA IR PERTVARKYMAS. LEIDIMAS VYK
 
 51 straipsnis. Mokslinės veiklos rezultatų viešumas
 
-Siekiant užtikrinti valstybės biudžeto lėšomis atliekamų mokslinių tyrimų kokybę, valstybės biudžeto lėšų panaudojimo skaidrumą, paskatinti mokslo pažangą, visi mokslo ir studijų institucijose valstybės biudžeto lėšomis atliekamų mokslinių tyrimų ir eksperimentinės plėtros rezultatai turi būti skelbiami viešai (interneto svetainėje ir kitais būdais), kiek tai neprieštarauja intelektinės nuosavybės ir komercinių ar valstybės ir tarnybos paslapčių apsaugą reglamentuojantiems teisės aktams.
+Siekiant užtikrinti valstybės biudžeto lėšomis atliekamų mokslinių tyrimų kokybę, valstybės biudžeto lėšų panaudojimo skaidrumą, padidinti mokslinių tyrimų rezultatų panaudojimo galimybes, paskatinti mokslo pažangą, visi mokslo ir studijų institucijose valstybės biudžeto lėšomis atliekamų mokslinių tyrimų ir eksperimentinės plėtros rezultatai turi būti skelbiami viešai atvirosios prieigos būdais ir priemonėmis, kiek tai neprieštarauja asmens duomenų, intelektinės nuosavybės, profesinių, komercinių ar valstybės ir tarnybos paslapčių apsaugą, nacionalinio saugumo ir gynybos, taip pat teisėsaugos ir viešojo saugumo veiklą reglamentuojantiems teisės aktams. Atvirosios prieigos prie mokslinių tyrimų ir eksperimentinės plėtros rezultatų įgyvendinimo tvarką nustato Lietuvos mokslo taryba.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 61 straipsnis. Studentai, klausytojai
 
@@ -1682,6 +1686,12 @@ Nr. XIII-1170, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08264
 15. Moksliniai tyrimai ir eksperimentinė plėtra – sisteminga kūrybinė gamtos, žmonijos, kultūros ir visuomenės pažinimo veikla ir jos rezultatų panaudojimas.
 
 16. Mokslininkas – tyrėjas, turintis mokslo daktaro laipsnį.
+
+161. Mokslinių tyrimų infrastruktūra – priemonių, išteklių ir su jais susijusių paslaugų, reikiamų atliekant mokslinius tyrimus, visuma.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 17. Mokslo ir studijų institucijų personalas – mokslo ir studijų institucijų dėstytojai, mokslo darbuotojai, administracija ir kiti darbuotojai.
 
@@ -3389,17 +3399,17 @@ Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
 
 5. Pareiginės algos koeficientai yra šie:
 
-1) instituto direktoriaus – 1,50–2,67;
+1) instituto direktoriaus – 1,78–3,17;
 
-2) instituto mokslinio sekretoriaus – 1,13–2,15;
+2) instituto mokslinio sekretoriaus – 1,34–2,55;
 
-3) vyriausiojo mokslo darbuotojo – 1,29–2,32;
+3) vyriausiojo mokslo darbuotojo – 1,53–2,75;
 
-4) vyresniojo mokslo darbuotojo – 1,13–1,80;
+4) vyresniojo mokslo darbuotojo – 1,34–2,14;
 
-5) mokslo darbuotojo, mokslininko stažuotojo – 1,13–1,37;
+5) mokslo darbuotojo, mokslininko stažuotojo – 1,34–1,63;
 
-6) jaunesniojo mokslo darbuotojo – 1,07–1,27.
+6) jaunesniojo mokslo darbuotojo – 1,27–1,51.
 
 Straipsnio dalies pakeitimai:
 
@@ -3724,4 +3734,16 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 Papildyta straipsniu:
 
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+
+242 straipsnis. Mokslinių tyrimų infrastruktūros
+
+1. Lietuvos mokslinių tyrimų infrastruktūrų plėtra planuojama ir vykdoma atsižvelgiant į ateities įžvalgomis pagrįstas ilgalaikes nacionalines ir tarptautines mokslinių tyrimų infrastruktūrų plėtros kryptis, prioritetus, mokslinių tyrimų infrastruktūrų ekosistemą ir jos ypatumus, kuriuos Lietuvos mokslo taryba rengia švietimo, mokslo ir sporto ministro nustatyta tvarka ir pristato Mokslo, technologijų ir inovacijų tarybai.
+
+2. Lietuvos mokslinių tyrimų infrastruktūros vystomos, dalyvavimas tarptautinėse mokslinių tyrimų infrastruktūrose reglamentuojamas, mokslinių tyrimų infrastruktūrų finansavimas, stebėsena ir vertinimas vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka.
+
+3. Sprendimą dėl Lietuvos Respublikos narystės (ar jos nutraukimo) tarptautinėse mokslinių tyrimų infrastruktūrose pagal kompetenciją priima Seimas, kai ratifikuojamos tarptautinės sutartys ir kiti susitarimai, būtini stojant į tarptautinę mokslinių tyrimų infrastruktūrą, arba Vyriausybė, kai tarptautinių sutarčių ir kitų susitarimų ratifikuoti stojant į tarptautinę mokslinių tyrimų infrastruktūrą nereikia, gavusi Mokslo, technologijų ir inovacijų tarybos išvadą.
+
+Papildyta straipsniu:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
