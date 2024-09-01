@@ -4,7 +4,7 @@ identifier: "TAR.9F4371AB03A3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-18"
-last_updated: "2024-01-01"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
 
@@ -492,7 +492,11 @@ ADVOKATŲ VEIKLA PARTNERYSTĖS PAGRINDAIS, NEĮSTEIGIANT JURIDINIO ASMENS
 
 3. Advokatų profesinės bendrijos steigimo dokumente, be Civilinio kodekso 2.47 straipsnyje nurodytų reikalavimų, turi būti nurodyta:
 
-1) advokatų profesinės bendrijos dalyvių vardai, pavardės, asmens kodai, gyvenamosios vietos adresai;
+1) advokatų profesinės bendrijos dalyvių vardai, pavardės, asmens kodai, korespondencijos adresai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2641, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09678
 
 2) advokatų profesinės bendrijos dalyvių teisės ir pareigos;
 
