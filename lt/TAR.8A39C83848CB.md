@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2024-07-01"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-10-23
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -2485,7 +2485,13 @@ Prokuristas atsako atstovaujamajam ir tretiesiems asmenims taip pat kaip ir prek
 
 4) likviduojamas ar reorganizuojamas išdavęs prokūrą juridinis asmuo;
 
-5) prokuristas miręs arba pripažintas neveiksniu srityje, kurioje duota prokūra, arba pripažintas ribotai veiksniu srityje, kurioje duota prokūra, arba pripažintas nežinia kur esančiu.
+5) prokuristas miręs arba pripažintas neveiksniu srityje, kurioje duota prokūra, arba pripažintas ribotai veiksniu srityje, kurioje duota prokūra, arba pripažintas nežinia kur esančiu;
+
+6) pasibaigia prokūros terminas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
 
 2. Prokūra pasibaigia ją išregistravus iš Įgaliojimų registro, išskyrus šio straipsnio 1 dalies 4 ir 5 punktuose numatytus atvejus.
 
@@ -11774,6 +11780,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2825, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12147
 
 Lietuvos Respublikos civilinio kodekso 2.66 straipsnio pakeitimo įstatymas
+
+76.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
+
+Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2. 57, 2.62, 2.63, 2.64, 2.66, 2.68, 2.70, 2.110 ir 2.184 straipsnių pakeitimo įstatymas
+
+77.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2912, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13547
+
+Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2.57, 2.62, 2.63, 2.64, 2.66, 2.68, 2.70, 2.110 ir 2.184 straipsnių pakeitimo įstatymo Nr. XIV-2630 8 straipsnio pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
