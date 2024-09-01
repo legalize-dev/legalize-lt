@@ -4,7 +4,7 @@ identifier: "TAR.B4FA4C56B8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2024-07-06"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
 
 LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-07-06 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2025-01-14
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
 
@@ -46,7 +46,11 @@ Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 3. Šis įstatymas netaikomas teisės taikymo aktams, išskyrus nuostatas dėl teisės aktų registravimo, skelbimo ir įsigaliojimo.
 
-4. Kai piliečiai įgyvendina Lietuvos Respublikos Konstitucijoje (toliau – Konstitucija) įtvirtintą įstatymų leidybos iniciatyvos teisę, peticijos teisę ir teisę teikti Lietuvos Respublikos Seimui (toliau – Seimas) sumanymą keisti ar papildyti Konstituciją, šis įstatymas netaikomas. Referendumui siūlomas įstatymo ar kito teisės akto projektas turi atitikti šiame įstatyme nustatytus formos, struktūros, turinio ir kalbos reikalavimus.
+4. Kai įgyvendinamos Lietuvos Respublikos Konstitucijoje garantuojamos piliečių įstatymų leidybos iniciatyvos ir piliečių Konstitucijos keitimo iniciatyvos teisės, taip pat referendumo paskelbimo iniciatyvos teisė, Lietuvos Respublikos Seimui teikiamas ar referendumui siūlomas teisės akto projektas turi atitikti šiame įstatyme nustatytus formos, struktūros, turinio ir kalbos reikalavimus. Įgyvendinant Konstitucijoje laiduojamą peticijos teisę, šis įstatymas netaikomas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 5. Teisės aktų, kuriuose yra valstybės ar tarnybos paslaptį sudarančios informacijos, projektai rengiami, derinami, šie teisės aktai priimami, registruojami, skelbiami ir įsigalioja juos priimančių subjektų nustatyta tvarka.
 
