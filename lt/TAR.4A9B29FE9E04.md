@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "2024-07-01"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -909,11 +909,13 @@ Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 21, 26 straip
 
 1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie bendrovės narius ir pajininkus:
 
-1) nario fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta (jeigu bendrovės narys fizinis asmuo yra nurodęs bendrovei savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiamas tik adresas korespondencijai) arba nario juridinio asmens pavadinimas, kodas, teisinė forma ir buveinė; asmens priėmimo į bendrovės narius data; nario pajinio įnašo dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis); narystės pasibaigimo bendrovėje data. Teikiant duomenis apie narį  užsienio valstybės fizinį asmenį, papildomai nurodoma jo gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie narį užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje jis registruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
+1) nario fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas arba nario juridinio asmens pavadinimas, kodas, teisinė forma ir buveinė; asmens priėmimo į bendrovės narius data; nario pajinio įnašo dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis); narystės pasibaigimo bendrovėje data. Teikiant duomenis apie narį užsienio valstybės fizinį asmenį, papildomai nurodoma jo gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie narį užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje jis registruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
 
-2) pajininko fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta (jeigu bendrovės pajininkas fizinis asmuo yra nurodęs bendrovei savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui  teikiamas tik adresas korespondencijai) arba pajininko juridinio asmens pavadinimas, kodas, teisinė forma ir buveinė; asmens pajinio įnašo sumokėjimo data; pajininko pajinio įnašo dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis); pajininko pajaus perleidimo bendrovėje data. Teikiant duomenis apie pajininką užsienio valstybės fizinį asmenį, papildomai nurodoma jo gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie pajininką užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje jis yra registruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data.
+2) pajininko fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas arba pajininko juridinio asmens pavadinimas, kodas, teisinė forma ir buveinė; asmens pajinio įnašo sumokėjimo data; pajininko pajinio įnašo dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis); pajininko pajaus perleidimo bendrovėje data. Teikiant duomenis apie pajininką užsienio valstybės fizinį asmenį, papildomai nurodoma jo gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie pajininką užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje jis yra registruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data.
 
-TAR pastaba. Bendrovės, įsteigtos iki įstatymo Nr. XIII-743 įsigaliojimo (2018-05-01), 111 straipsnio 1 dalyje nurodytus duomenis Juridinių asmenų dalyvių informacinės sistemos tvarkytojui turi pateikti iki 2018-12-31.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2646, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09684
 
 2. Šio straipsnio 1 dalyje nurodyti duomenys apie bendrovės narius ir pajininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 kalendorines dienas nuo bendrovės įregistravimo Juridinių asmenų registre dienos, o pasikeitus bendrovės nariams ir pajininkams bei jų duomenims, – ne vėliau kaip per 5 kalendorines dienas nuo šių pasikeitimų dienos.
 
