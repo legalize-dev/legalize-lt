@@ -4,7 +4,7 @@ identifier: "TAR.3CD1008B88A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2024-07-26"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2024-07-26 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
 
@@ -360,7 +360,11 @@ Nr. XIV-2010, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11588
 
 3) sudaro sąlygas Institucijos, dalyvaujančios formuojant mobilizacijos politiką, taip pat kitų mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutartis su juo sudariusių mobilizacijos sistemos subjektų vadovų įgaliotiems asmenims patikrinti, ar yra tinkamai pasirengęs vykdyti jam nustatytus sutartinius įsipareigojimus;
 
-4) dalyvauja mobilizaciniuose ir (ar) priimančiosios šalies paramos mokymuose, užtikrina šio įstatymo 18 straipsnio 2 ir 3 dalyse nustatyta tvarka į mokymus įtrauktų mobilizacinio ūkio subjekto darbuotojų dalyvavimą mokymuose;
+4) užtikrina mobilizacinio ūkio subjekto darbuotojų dalyvavimą šio įstatymo 18 straipsnio 2, 3 ir 5 dalyse nurodytuose mokymuose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
 
 5) teikia informaciją, kurios reikia mobilizacijos sistemos subjektų funkcijoms, nustatytoms šiame įstatyme, atlikti.
 
@@ -474,29 +478,23 @@ PASIRENGIMAS MOBILIZACIJAI IR PRIIMANČIOSIOS ŠALIES PARAMAI TEIKTI
 
 2. Į mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutartis, be šio straipsnio 1 dalyje nurodytuose teisės aktuose nustatytų bendrųjų ir atitinkamos rūšies sutartims keliamų reikalavimų, įtraukiamos šio įstatymo 12 straipsnyje nustatytos mobilizacinio ūkio subjekto teisės ir pareigos. Šio įstatymo 12 straipsnyje nustatytų teisių ir pareigų neįtraukimas į mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutartis nepanaikina mobilizacinių ūkio subjektų teisių ir neatleidžia jų nuo šių pareigų.
 
-18 straipsnis. Mobilizaciniai ir priimančiosios šalies paramos mokymai
+18 straipsnis. Mobilizaciniai, priimančiosios šalies paramos ir kiti mokymai
 
-1. Mobilizacinių ir priimančiosios šalies paramos mokymų organizavimo, planavimo ir vykdymo tvarką šio įstatymo 14 straipsnio 2 dalyje nurodytiems į civilinio mobilizacinio personalo rezervą įrašytiems asmenims nustato, mokymų programas ir valstybės mobilizacinio ir priimančiosios šalies paramos mokymo planus tvirtina Institucijos, dalyvaujančios formuojant mobilizacijos politiką, vadovas.
+1. Mobilizacinių ir priimančiosios šalies paramos mokymų į civilinio mobilizacinio personalo rezervą įrašytiems asmenims organizavimo, planavimo ir vykdymo tvarką nustato, mokymų programas ir mokymų planus tvirtina Institucijos, dalyvaujančios formuojant mobilizacijos politiką, vadovas.
 
-2. Mobilizacinius ir priimančiosios šalies paramos mokymus šio įstatymo 14 straipsnio 2 dalyje nurodytiems į civilinio mobilizacinio personalo rezervą įrašytiems asmenims organizuoja ir vykdo Institucija, dalyvaujanti formuojant mobilizacijos politiką. Į šiuos mokymus mobilizacijos sistemos subjekto vadovo siūlymu, suderinus su Institucija, dalyvaujančia formuojant mobilizacijos politiką, gali būti įtraukti ir vadovaujantis šio įstatymo 14 straipsnio 3 dalimi į civilinio mobilizacinio personalo rezervą įrašyti asmenys.
+2. Mobilizacinius ir priimančiosios šalies paramos mokymus į civilinio mobilizacinio personalo rezervą įrašytiems asmenims organizuoja ir vykdo Institucija, dalyvaujanti formuojant mobilizacijos politiką.
 
-3. Priimančiosios šalies paramos mokymų, kuriuose dalyvauja profesinės karo tarnybos kariai, kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai bei tarnybą rezerve atliekantys kariai kartu su šio įstatymo 14 straipsnio 2 dalyje nurodytais į civilinio mobilizacinio personalo rezervą įrašytais asmenimis, tvarką nustato krašto apsaugos ministras. Priimančiosios šalies paramos mokymus šioje dalyje nurodytiems asmenims organizuoja ir vykdo Lietuvos kariuomenė kartu su Institucija, dalyvaujančia formuojant mobilizacijos politiką. Į šiuos mokymus mobilizacijos sistemos subjekto vadovo siūlymu, suderinus su Institucija, dalyvaujančia formuojant mobilizacijos politiką, gali būti įtraukti ir vadovaujantis šio įstatymo 14 straipsnio 3 dalimi į civilinio mobilizacinio personalo rezervą įrašyti asmenys.
+3. Priimančiosios šalies paramos mokymų, kuriuose dalyvauja profesinės karo tarnybos kariai, kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai bei tarnybą rezerve atliekantys kariai kartu su į civilinio mobilizacinio personalo rezervą įrašytais asmenimis, organizavimo, planavimo ir vykdymo tvarką nustato krašto apsaugos ministras. Priimančiosios šalies paramos mokymus šioje dalyje nurodytiems asmenims organizuoja ir vykdo Lietuvos kariuomenė kartu su Institucija, dalyvaujančia formuojant mobilizacijos politiką.
 
-Straipsnio dalies pakeitimai:
+4. Priimančiosios šalies paramos mokymų profesinės karo tarnybos, savanoriškos nenuolatinės karo tarnybos kariams ir tarnybą rezerve atliekantiems kariams organizavimo, planavimo ir vykdymo tvarką nustato, mokymų programas ir mokymų planus tvirtina Lietuvos kariuomenės vadas. Priimančiosios šalies paramos mokymus šioje dalyje nurodytiems asmenims organizuoja ir vykdo Lietuvos kariuomenė.
 
-Nr. XIV-2731, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11568
+5. Siekiant suteikti bazinių žinių apie mobilizacijos teisinį režimą, pasirengimą mobilizacijai ir karo padėčiai, mobilizacijos sistemos veikimo ir priimančiosios šalies paramos teikimo principus ir pilietinį pasipriešinimą, į civilinio mobilizacinio personalo rezervą įrašyti asmenys, valstybės tarnautojai, biudžetinių įstaigų darbuotojai, dirbantys pagal darbo sutartį, valstybės, vidaus tarnybos sistemos ir Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnai per metus nuo jų priėmimo į pareigas dienos privalo išklausyti mobilizacijos ir pilietinio pasipriešinimo mokymus, jeigu nėra jų išklausę anksčiau. Šiuos mokymus organizuoja ir vykdo Institucija, dalyvaujanti formuojant mobilizacijos politiką, o jų organizavimo, planavimo ir vykdymo tvarką nustato, mokymų programą tvirtina Institucijos, dalyvaujančios formuojant mobilizacijos politiką, vadovas.
 
-4. Priimančiosios šalies paramos mokymų organizavimo, planavimo ir vykdymo profesinės karo tarnybos, savanoriškos nenuolatinės karo tarnybos kariams ir tarnybą rezerve atliekantiems kariams tvarką nustato, mokymo programas ir mokymo planus tvirtina Lietuvos kariuomenės vadas. Priimančiosios šalies paramos mokymus šioje dalyje nurodytiems asmenims organizuoja ir vykdo Lietuvos kariuomenė
+6. Mobilizacijos sistemos subjektų ir kitų valstybės ir savivaldybių institucijų ir įstaigų vadovai užtikrina, kad jiems pavaldūs asmenys dalyvautų šiame straipsnyje nurodytuose mokymuose.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XIV-2731, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11568
-
-5. Mobilizacijos sistemos subjektų vadovai užtikrina, kad mobilizaciniuose ir priimančiosios šalies paramos mokymuose dalyvautų į mokymų planus įtraukti jiems pavaldūs asmenys.
-
-IV SKYRIUS
-
-MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS, VYKDYMAS IR MOBILIZACIJOS VALDYMAS
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
 
 19 straipsnis. Mobilizacijos ir demobilizacijos skelbimas
 
@@ -917,4 +915,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1766, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20877
 
 Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 8, 10 ir 15 straipsnių pakeitimo įstatymas
+
+181 straipsnis. Neginkluoto pilietinio pasipriešinimo mokymai
+
+1. Siekdamos Lietuvos Respublikos piliečiams suteikti neginkluoto pilietinio pasipriešinimo žinių, mokyti įgytas žinias taikyti praktikoje ir užtikrinti asmenų pasirengimą neginkluotam pilietiniam pasipriešinimui, krašto apsaugos ministro įgaliotos institucijos organizuoja ir vykdo neginkluoto pilietinio pasipriešinimo mokymus Lietuvos Respublikos piliečiams.
+
+2. Neginkluoto pilietinio pasipriešinimo mokymų Lietuvos Respublikos piliečiams organizavimo ir vykdymo tvarką bei jų turinio gaires nustato krašto apsaugos ministras.
+
+3. Neginkluoto pilietinio pasipriešinimo mokymų programas tvirtina Institucijos, dalyvaujančios formuojant mobilizacijos politiką, vadovas.
+
+4. Neginkluoto pilietinio pasipriešinimo mokymus organizuojančios ir vykdančios institucijos turi teisę pasitelkti kitas krašto apsaugos sistemos ir valstybės ir (ar) savivaldybių institucijas ir (ar) įstaigas, bendradarbiauti su nevyriausybinėmis organizacijomis ir asociacijomis.
+
+Papildyta straipsniu:
+
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+
+IV SKYRIUS
+
+MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS, VYKDYMAS IR MOBILIZACIJOS VALDYMAS
 
