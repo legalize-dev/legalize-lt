@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2024-07-01"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-11-22
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
 
@@ -115,7 +115,11 @@ Viešoji įstaiga − pagal šį ir kitus įstatymus įsteigtas pelno nesiekiant
 
 4. Viešosios įstaigos dalininkas turi teisę perleisti dalininko teises. Viešosios įstaigos dalininko teisės perleidžiamos viešosios įstaigos įstatų nustatyta tvarka, išskyrus valstybės ar savivaldybės viešosios įstaigos dalininko teises. Valstybės ar savivaldybės viešosios įstaigos dalininko teisės gali būti perleidžiamos kitiems asmenims šio įstatymo ir Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais atvejais ir būdais.
 
-5. Asmuo, įgijęs dalininko teises, apie tai raštu per 5 dienas praneša viešajai įstaigai. Pranešime nurodomas viešosios įstaigos dalininko teises perleidęs dalininkas (fizinio asmens vardas, pavardė, asmens kodas; juridinio asmens pavadinimas) ir perleistas dalininko teises įgijęs dalininkas (fizinio asmens vardas, pavardė, asmens kodas; juridinio asmens pavadinimas) ar kitas dalininko teises įgijęs asmuo (fizinio asmens vardas, pavardė, asmens kodas, gyvenamosios vietos adresas ar adresas korespondencijai; juridinio asmens pavadinimas, buveinė, kodas), taip pat dalininko teisių įgijimo data. Kartu su pranešimu pateikiamas ir dalininko teisių įgijimą liudijantis dokumentas.
+5. Asmuo, įgijęs dalininko teises, apie tai raštu per 5 dienas praneša viešajai įstaigai. Pranešime nurodomas viešosios įstaigos dalininko teises perleidęs dalininkas (fizinio asmens vardas, pavardė, asmens kodas; juridinio asmens pavadinimas) ir perleistas dalininko teises įgijęs dalininkas (fizinio asmens vardas, pavardė, asmens kodas; juridinio asmens pavadinimas) ar kitas dalininko teises įgijęs asmuo (fizinio asmens vardas, pavardė, asmens kodas, adresas korespondencijai; juridinio asmens pavadinimas, buveinė, kodas), taip pat dalininko teisių įgijimo data. Kartu su pranešimu pateikiamas ir dalininko teisių įgijimą liudijantis dokumentas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2636, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09672
 
 5 straipsnis. Valstybės ir savivaldybių dalyvavimo viešosiose įstaigose pagrindai
 
@@ -269,7 +273,11 @@ VIEŠOSIOS ĮSTAIGOS STEIGIMAS
 
 1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie viešosios įstaigos dalininkus:
 
-1) kiekvieno viešosios įstaigos dalininko duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta arba adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė). Teikiant duomenis apie dalininką – užsienio valstybės fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas, o teikiant duomenis apie dalininką – užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje tas juridinis asmuo įregistruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
+1) kiekvieno viešosios įstaigos dalininko duomenys (fizinio asmens vardas, pavardė, asmens kodas, adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė). Teikiant duomenis apie dalininką – užsienio valstybės fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas, o teikiant duomenis apie dalininką – užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje tas juridinis asmuo įregistruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2636, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09672
 
 2) viešosios įstaigos dalininko teisių įgijimo data;
 
@@ -277,7 +285,11 @@ VIEŠOSIOS ĮSTAIGOS STEIGIMAS
 
 4) viešosios įstaigos dalininko įnašo vertė.
 
-2. Jeigu dalininkas – fizinis asmuo viešajai įstaigai yra nurodęs savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiamas tik adresas korespondencijai.
+2. Neteko galios nuo 2024-09-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2636, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09672
 
 3. Jeigu dalininkė yra valstybė ar savivaldybė, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiant duomenis apie šią dalininkę nurodoma, kad dalininkė yra valstybė ar savivaldybė (kartu nurodomas valstybės ar savivaldybės kodas), ir pateikiamas dalininkės teises ir pareigas įgyvendinančios institucijos pavadinimas, teisinė forma, kodas, buveinė arba nurodoma, kad dalininkės teises ir pareigas įgyvendina savivaldybės meras.
 
