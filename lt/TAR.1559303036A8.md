@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2023-06-01"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2023-06-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-12-18
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2319; Žin. 1996, Nr.103-0, i. k. 0961010ISTA00I-1571
 
@@ -86,7 +86,11 @@ LRT yra nepriklausoma viešoji įstaiga, kurios vienintelė savininkė yra valst
 
 4. LRT turi teisę rengti konkursus, festivalius, konferencijas, seminarus, įkurti meno kolektyvus, nustatyti tiesioginius ryšius su užsienio organizacijomis ir kompanijomis, dalyvauti tarptautinių organizacijų veikloje, organizuoti radijo ir televizijos programas ar atskiras programas užsieniui, susitarimų pagrindu retransliuoti užsienio radijo ir televizijos programas ar atskiras programas, steigti filialus, korespondentų punktus, leisti informacinius leidinius apie savo veiklą.
 
-5. LRT turi teisę radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais antžeminiais analoginiais radijo dažniais (kanalais) transliuoti dvi televizijos ir keturias radijo programas. LRT parengtų televizijos programų transliavimui užtikrinti LRT taip pat turi būti skirti radijo dažniai (kanalai), reikalingi vienam nacionalinės aprėpties antžeminiam skaitmeninės televizijos tinklui. Per šį tinklą turi būti transliuojamos tik LRT parengtos radijo ir televizijos programos ir šį tinklą draudžiama naudoti kitai ūkinei komercinei veiklai ar kitoms radijo ir televizijos programoms retransliuoti. Jeigu programoms transliuoti ir (ar) retransliuoti nenaudojami radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatyti elektroninių ryšių ištekliai, LRT transliuojamų ir (ar) retransliuojamų radijo ir televizijos programų skaičius neribojamas. LRT turi teisę radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais antžeminiais skaitmeniniais radijo dažniais (kanalais) transliuoti radijo ir televizijos programas, kurių skaičių nustato Lietuvos radijo ir televizijos komisija, gavusi Tarybos siūlymą, priimtą atsižvelgus į Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme LRT skirtas lėšas. Šioms nuostatoms įgyvendinti reikalingas teises pirmumo tvarka LRT suteikia Lietuvos radijo ir televizijos komisija ir Lietuvos Respublikos ryšių reguliavimo tarnyba Visuomenės informavimo įstatymo ir Lietuvos Respublikos elektroninių ryšių įstatymo nustatyta tvarka.
+5. LRT turi teisę radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais antžeminiais analoginiais radijo dažniais (kanalais) transliuoti dvi televizijos ir keturias radijo programas. LRT parengtų televizijos programų transliavimui užtikrinti LRT taip pat turi būti skirti radijo dažniai (kanalai), reikalingi vienam nacionalinės aprėpties antžeminiam skaitmeninės televizijos tinklui. Per šį tinklą turi būti transliuojamos tik LRT parengtos radijo ir televizijos programos ir šį tinklą draudžiama naudoti kitai ūkinei komercinei veiklai ar kitoms radijo ir televizijos programoms retransliuoti. Jeigu programoms transliuoti ir (ar) retransliuoti nenaudojami radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatyti elektroninių ryšių ištekliai, LRT transliuojamų ir (ar) retransliuojamų radijo ir televizijos programų skaičius neribojamas. LRT turi teisę radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais antžeminiais skaitmeniniais radijo dažniais (kanalais) transliuoti radijo ir televizijos programas, kurių skaičių nustato Lietuvos radijo ir televizijos komisija, gavusi Tarybos siūlymą, priimtą atsižvelgus į Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme LRT skirtas lėšas. Šioms nuostatoms įgyvendinti reikalingas teises pirmumo tvarka LRT suteikia Lietuvos radijo ir televizijos komisija ir Lietuvos Respublikos ryšių reguliavimo tarnyba Visuomenės informavimo įstatymo ir Lietuvos Respublikos elektroninių ryšių įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
 6. Paslaugas, kurių reikia LRT radijo ir televizijos tinklams teikti ir eksploatuoti, ir paslaugas, skirtas radijo ir televizijos programų signalams elektroninių ryšių tinklais perduoti visuomenei, teikia AB Lietuvos radijo ir televizijos centras. Šių paslaugų teikimo, kompensavimo už jas tvarką ir sąlygas nustato Vyriausybė ar jos įgaliota institucija.
 
@@ -136,11 +140,23 @@ LRT organai yra Taryba ir LRT generalinis direktorius. LRT organų sudarymą, ko
 
 1. Taryba yra aukščiausiasis kolegialus organas, vykdantis LRT valdymo ir priežiūros funkcijas ir atstovaujantis visuomenės interesams. Taryba privalo veikti LRT ir visos visuomenės naudai, laikytis įstatymų, LRT įstatų ir kitų teisės aktų. Taryba sudaroma iš 12 asmenų – visuomenės, mokslo ir kultūros veikėjų, skiriamų 6 metų kadencijai. Tarybos narys pareigas eiti gali ne daugiau kaip dvi kadencijas iš eilės.
 
-2. Tarybą sudaro: keturi Respublikos Prezidento paskirti asmenys; keturi Seimo paskirti asmenys (du skiriami iš opozicinių frakcijų pasiūlytų kandidatų); keturis narius (po vieną) skiria šios organizacijos: Lietuvos mokslo taryba, Lietuvos švietimo taryba, Lietuvos meno kūrėjų asociacija, Lietuvos vyskupų konferencija. Tarybos nariai skiriami juos skiriančių institucijų nustatyta tvarka. Tarybos nariai išsirenka ir paprasta visų Tarybos narių balsų dauguma 3 metams skiria Tarybos pirmininką ir pirmininko pavaduotoją. Tarybos pirmininkas ir pirmininko pavaduotojas pareigas eiti gali ne daugiau kaip dvi kadencijas iš eilės. Tuo atveju, kai išrinkto ir paskirto Tarybos pirmininko ar pirmininko pavaduotojo likęs kadencijos laikotarpis yra mažesnis negu 3 metai, jie savo pareigas eina iki savo, kaip Tarybos nario, kadencijos pabaigos. Tuo atveju, kai jie, nesibaigus Tarybos pirmininko ar pirmininko pavaduotojo 3 metų kadencijai, paskiriami į Tarybos nario pareigas antrai kadencijai, jie Tarybos pirmininko ar pirmininko pavaduotojo pareigas nenutrūkstamai eina visą 3 metų kadenciją.
+2. Tarybą sudaro: keturi Respublikos Prezidento paskirti asmenys; keturi Seimo paskirti asmenys (du skiriami iš opozicinių frakcijų pasiūlytų kandidatų); keturis narius (po vieną) skiria šios organizacijos: Lietuvos mokslo taryba, Lietuvos švietimo taryba, Lietuvos meno kūrėjų asociacija, Lietuvos vyskupų konferencija. Tarybos nariai skiriami juos skiriančių institucijų nustatyta tvarka, kuri skelbiama skiriančių institucijų interneto svetainėse. Tarybos pirmininkas Tarybos narius skiriančias institucijas raštu informuoja apie Taryboje trūkstamų kompetencijų Tarybos narių poreikį. Tarybos narius skiriančios institucijos savo interneto svetainėse privalo iš anksto paskelbti informaciją apie kandidatus į Tarybos narius, kuri atitiktų šio straipsnio 3 dalyje nurodytus reikalavimus. Tarybos nariai išsirenka ir paprasta visų Tarybos narių balsų dauguma 3 metams skiria Tarybos pirmininką ir pirmininko pavaduotoją. Tarybos pirmininkas ir pirmininko pavaduotojas pareigas eiti gali ne daugiau kaip dvi kadencijas iš eilės. Tuo atveju, kai išrinkto ir paskirto Tarybos pirmininko ar pirmininko pavaduotojo likęs kadencijos laikotarpis yra mažesnis negu 3 metai, jie savo pareigas eina iki savo, kaip Tarybos nario, kadencijos pabaigos. Tuo atveju, kai jie, nesibaigus Tarybos pirmininko ar pirmininko pavaduotojo 3 metų kadencijai, paskiriami į Tarybos nario pareigas antrai kadencijai, jie Tarybos pirmininko ar pirmininko pavaduotojo pareigas nenutrūkstamai eina visą 3 metų kadenciją.
 
-3. Į Tarybos narius gali būti skiriami tik nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, įgiję aukštąjį universitetinį išsilavinimą, turintys magistro kvalifikacinį laipsnį arba jam prilygintą aukštojo mokslo kvalifikaciją ir 5 metų darbo patirtį. Kriterijai, kada asmuo negali būti laikomas nepriekaištingos reputacijos, yra apibrėžti Lietuvos Respublikos valstybės tarnybos įstatyme.
+Straipsnio dalies pakeitimai:
 
-4. Jeigu asmuo, paskirtas Tarybos nariu, yra politinės partijos ar politinės organizacijos narys, jis privalo sustabdyti savo narystę šioje organizacijoje buvimo Tarybos nariu laikotarpiui. Tarybos nariais negali būti: Seimo, Vyriausybės, Lietuvos radijo ir televizijos komisijos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, LRT generalinis direktorius, generalinio direktoriaus pavaduotojas ar kitas LRT darbuotojas, asmenys, susiję su radijo ir (ar) televizijos programų transliuotojais darbo santykiais, radijo ir (ar) televizijos programų transliuotojų, informacinės visuomenės informavimo priemonių (juridinių asmenų) valdytojai ir (ar) jų dalyviai, valdymo organų nariai, auditoriai ar audito įmonių darbuotojai, dalyvaujantys ir (ar) dalyvavę atliekant LRT auditą, nuo kurio atlikimo nepraėjo 2 metai.
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
+
+3. Į Tarybos narius gali būti skiriami tik nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, įgiję aukštąjį universitetinį išsilavinimą, turintys magistro kvalifikacinį laipsnį arba jam prilygintą aukštojo mokslo kvalifikaciją ir 5 metų darbo patirtį. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis neatitinka Lietuvos Respublikos valstybės tarnybos įstatyme įstaigų vadovams ar asmenims, pretenduojantiems tapti įstaigų vadovais, nustatytų nepriekaištingos reputacijos reikalavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
+
+4. Jeigu asmuo, paskirtas Tarybos nariu, yra politinės organizacijos narys, jis privalo sustabdyti savo narystę šioje organizacijoje buvimo Tarybos nariu laikotarpiui. Tarybos nariais negali būti: Seimo, Vyriausybės, savivaldybių tarybų, Europos Parlamento, Lietuvos radijo ir televizijos komisijos nariai, meras, žurnalistų etikos inspektorius, Visuomenės informavimo etikos komisijos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, LRT generalinis direktorius, generalinio direktoriaus pavaduotojas ar kitas LRT darbuotojas, asmenys, susiję su radijo ir (ar) televizijos programų transliuotojais darbo santykiais, radijo ir (ar) televizijos programų transliuotojų, informacinės visuomenės informavimo priemonių (juridinių asmenų) valdytojai ir (ar) jų dalyviai, valdymo organų nariai, auditoriai ar audito įmonių darbuotojai, dalyvaujantys ir (ar) dalyvavę atliekant LRT auditą, nuo kurio atlikimo nepraėjo 2 metai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
 5. Tarybos narys negali būti atšauktas iš pareigų nepasibaigus jo įgaliojimų laikui, išskyrus atvejus, jeigu Tarybos narys atšaukiamas jį paskyrusios institucijos sprendimu, kai:
 
@@ -256,13 +272,29 @@ LRT organai yra Taryba ir LRT generalinis direktorius. LRT organų sudarymą, ko
 
 1. LRT vadovauja ir jam atstovauja LRT generalinis direktorius. Generalinis direktorius atsako už LRT veiklą, LRT parengtas ir transliuojamas programas, taip pat už Tarybos nutarimų įgyvendinimą.
 
-2. LRT generalinį direktorių viešo konkurso būdu 5 metams į pareigas skiria ir iš pareigų atleidžia Taryba. Nesurinkus reikiamo balsų skaičiaus, rengiamas naujas konkursas. Generaliniu direktoriumi gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, įgijęs aukštąjį universitetinį arba jam prilygintą išsilavinimą, turintis magistro kvalifikacinį laipsnį arba jam prilygintą aukštojo mokslo kvalifikaciją ir 5 metų vadovaujamojo darbo patirtį. Kriterijai, kada asmuo negali būti laikomas nepriekaištingos reputacijos, yra apibrėžti Valstybės tarnybos įstatyme.
+2. LRT generalinį direktorių viešo konkurso būdu 5 metams į pareigas skiria ir iš pareigų atleidžia Taryba atviru balsavimu. Nesurinkus reikiamo balsų skaičiaus, rengiamas naujas konkursas. Generaliniu direktoriumi gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, įgijęs aukštąjį universitetinį arba jam prilygintą išsilavinimą, turintis magistro kvalifikacinį laipsnį arba jam prilygintą aukštojo mokslo kvalifikaciją ir 5 metų vadovaujamojo darbo patirtį. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis neatitinka Valstybės tarnybos įstatyme įstaigų vadovams ar asmenims, pretenduojantiems tapti įstaigų vadovais, nustatytų nepriekaištingos reputacijos reikalavimų.
 
-3. LRT generalinio direktoriaus pavaduotoju gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, įgijęs aukštąjį universitetinį arba jam prilygintą išsilavinimą, turintis magistro kvalifikacinį laipsnį arba jam prilygintą aukštojo mokslo kvalifikaciją ir 5 metų vadovaujamojo darbo patirtį. Kriterijai, kada asmuo negali būti laikomas nepriekaištingos reputacijos, yra apibrėžti Valstybės tarnybos įstatyme. Generalinio direktoriaus pavaduotojai skiriami į pareigas generalinio direktoriaus kadencijos laikotarpiui.
+Straipsnio dalies pakeitimai:
 
-4. Jeigu asmuo, išrinktas LRT generaliniu direktoriumi, yra politinės partijos ar politinės organizacijos narys, jis privalo sustabdyti savo narystę šioje organizacijoje darbo generaliniu direktoriumi laikotarpiui. Be to, generaliniu direktoriumi negali būti renkami Seimo, Vyriausybės, Lietuvos radijo ir televizijos komisijos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Asmenys, susiję su radijo ir televizijos programų transliuotojais darbo santykiais, taip pat radijo ir (ar) televizijos programų transliuotojų, informacinės visuomenės informavimo priemonių (juridinių asmenų) valdytojai ir jų dalyviai, valdymo organų nariai, Tarybos nariai nedelsdami turi atsisakyti einamų pareigų po paskyrimo generaliniu direktoriumi. Generaliniu direktoriumi negali būti renkami auditoriai ar audito įmonių darbuotojai, dalyvaujantys ir (ar) dalyvavę atliekant LRT auditą, nuo kurio atlikimo nepraėjo 2 metai. Generalinis direktorius negali dirbti verslo, komercijos ar kitokiose įstaigose, įmonėse ar organizacijose, negali gauti jokio kito atlyginimo, išskyrus darbo užmokestį, nustatytą pagal einamas pareigas, ir užmokestį už mokslinį bei pedagoginį darbą ir autorinį atlyginimą už kūrybinę veiklą.
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
-5. LRT generalinis direktorius dėl Tarybos pareikšto nepasitikėjimo juo gali būti atleistas iš pareigų nepasibaigus jo įgaliojimų laikui, jeigu už tai balsuoja ne mažiau kaip 2/3 visų Tarybos narių.
+3. LRT generalinio direktoriaus pavaduotoju gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, įgijęs aukštąjį universitetinį arba jam prilygintą išsilavinimą, turintis magistro kvalifikacinį laipsnį arba jam prilygintą aukštojo mokslo kvalifikaciją ir 5 metų vadovaujamojo darbo patirtį. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis neatitinka Valstybės tarnybos įstatyme valstybės tarnautojams nustatytų nepriekaištingos reputacijos reikalavimų. Generalinio direktoriaus pavaduotojai skiriami į pareigas generalinio direktoriaus kadencijos laikotarpiui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
+
+4. Jeigu asmuo, išrinktas LRT generaliniu direktoriumi, yra politinės organizacijos narys, jis privalo sustabdyti savo narystę šioje organizacijoje darbo generaliniu direktoriumi laikotarpiui. Be to, generaliniu direktoriumi negali būti renkami Seimo, Vyriausybės, Lietuvos radijo ir televizijos komisijos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Asmenys, susiję su radijo ir televizijos programų transliuotojais darbo santykiais, taip pat radijo ir (ar) televizijos programų transliuotojų, informacinės visuomenės informavimo priemonių (juridinių asmenų) valdytojai ir jų dalyviai, valdymo organų nariai, Tarybos nariai nedelsdami turi atsisakyti einamų pareigų po paskyrimo generaliniu direktoriumi. Generaliniu direktoriumi negali būti renkami auditoriai ar audito įmonių darbuotojai, dalyvaujantys ir (ar) dalyvavę atliekant LRT auditą, nuo kurio atlikimo nepraėjo 2 metai. Generalinis direktorius negali dirbti verslo, komercijos ar kitokiose įstaigose, įmonėse ar organizacijose, negali gauti jokio kito atlyginimo, išskyrus darbo užmokestį, nustatytą pagal einamas pareigas, ir užmokestį už mokslinį bei pedagoginį darbą ir autorinį atlyginimą už kūrybinę veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
+
+5. LRT generalinis direktorius dėl nepasitikėjimo juo gali būti atleistas iš pareigų nepasibaigus jo įgaliojimų laikui tik tuo atveju, jeigu Taryba pareikštą nepasitikėjimą grindžia viešuoju interesu ir jeigu už tokį nepasitikėjimą balsuoja ne mažiau kaip 2/3 visų Tarybos narių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
 6. LRT generalinis direktorius gali atsistatydinti nepasibaigus jo kadencijai. Atsistatydinus generaliniam direktoriui, iš pareigų atleidžiami ir generalinio direktoriaus pavaduotojai.
 
@@ -308,9 +340,17 @@ Nr. XIV-2019, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10705
 
 2. LRT etikos kontrolierių į pareigas skiria ir iš pareigų atleidžia Taryba viešo konkurso būdu 5 metų kadencijai. LRT etikos kontrolierius pareigas eiti gali ne daugiau kaip dvi kadencijas iš eilės.
 
-3. LRT etikos kontrolieriumi gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis humanitarinių ar socialinių mokslų krypties magistro kvalifikacinį laipsnį arba jam prilygintą aukštojo mokslo kvalifikaciją ir ne mažesnę kaip 5 metų darbo pagal įgytą specialybę patirtį. Kriterijai, kada asmuo negali būti laikomas nepriekaištingos reputacijos, yra apibrėžti Valstybės tarnybos įstatyme.
+3. LRT etikos kontrolieriumi gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis humanitarinių ar socialinių mokslų krypties magistro kvalifikacinį laipsnį arba jam prilygintą aukštojo mokslo kvalifikaciją ir ne mažesnę kaip 5 metų darbo pagal įgytą specialybę patirtį. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis neatitinka Valstybės tarnybos įstatyme valstybės tarnautojams nustatytų nepriekaištingos reputacijos reikalavimų.
 
-4. Jeigu asmuo, paskirtas LRT etikos kontrolieriumi, yra politinės partijos ar politinės organizacijos narys, jis sustabdo savo narystę šioje organizacijoje buvimo LRT etikos kontrolieriumi laikotarpiui. LRT etikos kontrolieriumi negali būti skiriami Seimo, Vyriausybės, Lietuvos radijo ir televizijos komisijos nariai, žurnalistų etikos inspektorius, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, savivaldybių tarybų nariai, LRT generalinis direktorius, jo pavaduotojas ar kitas LRT darbuotojas, taip pat asmenys, susiję su radijo ir (ar) televizijos programų transliuotojais darbo santykiais, taip pat radijo ir (ar) televizijos programų transliuotojų, informacinės visuomenės informavimo priemonių (juridinių asmenų) valdytojai ir (ar) jų dalyviai, valdymo organų nariai, Tarybos nariai, auditoriai ar audito įmonių darbuotojai, dalyvaujantys ir (ar) dalyvavę atliekant LRT auditą, nuo kurio atlikimo nepraėjo 2 metai.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
+
+4. Jeigu asmuo, paskirtas LRT etikos kontrolieriumi, yra politinės organizacijos narys, jis sustabdo savo narystę šioje organizacijoje buvimo LRT etikos kontrolieriumi laikotarpiui. LRT etikos kontrolieriumi negali būti skiriami Seimo, Vyriausybės, Europos Parlamento, Lietuvos radijo ir televizijos komisijos nariai, meras, žurnalistų etikos inspektorius, Visuomenės informavimo etikos komisijos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, savivaldybių tarybų nariai, LRT generalinis direktorius, jo pavaduotojas ar kitas LRT darbuotojas, taip pat asmenys, susiję su radijo ir (ar) televizijos programų transliuotojais darbo santykiais, taip pat radijo ir (ar) televizijos programų transliuotojų, informacinės visuomenės informavimo priemonių (juridinių asmenų) valdytojai ir (ar) jų dalyviai, valdymo organų nariai, Tarybos nariai, auditoriai ar audito įmonių darbuotojai, dalyvaujantys ir (ar) dalyvavę atliekant LRT auditą, nuo kurio atlikimo nepraėjo 2 metai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
 5. LRT etikos kontrolierius dėl Tarybos pareikšto nepasitikėjimo juo gali būti atšauktas iš pareigų nepasibaigus jo įgaliojimų laikui, jeigu už tai balsuoja ne mažiau kaip 2/3 visų Tarybos narių.
 
@@ -693,4 +733,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2019, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10705
 
 Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 15 ir 16 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
+
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5, 10, 13 ir 15 straipsnių pakeitimo įstatymas
 
