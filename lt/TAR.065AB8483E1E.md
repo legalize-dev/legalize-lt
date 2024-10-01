@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2024-06-21"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2024-06-21 iki 2024-09-30
+Suvestinė redakcija nuo 2024-10-01 iki 2024-10-24
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -3386,11 +3386,15 @@ Nr. XI-1820, 2011-12-20, Žin., 2011, Nr. 163-7740 (2011-12-31)
 
 2. Ne iš Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir kitų Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių teikiamas audiovizualinės žiniasklaidos paslaugas, radijo ir (ar) televizijos programas ir (ar) atskiras programas leidžiama transliuoti ir retransliuoti, platinti internete ar laikyti kataloguose Lietuvos Respublikoje nepažeidžiant šio ir kitų įstatymų nuostatų.
 
-21. Lietuvos Respublikoje draudžiama retransliuoti ir (ar) platinti internete Rusijos Federacijos ar Baltarusijos Respublikos įsteigtų, tiesiogiai ar netiesiogiai valdomų, kontroliuojamų ar finansuojamų subjektų radijo programas, televizijos programas ir (ar) atskiras programas, išskyrus atvejus, kai Komisija suteikia leidimą retransliuoti ir (ar) platinti tokias programas arba kai jos retransliuojamos ir (ar) platinamos iš Europos Sąjungos valstybių narių ar Europos konvenciją dėl televizijos be sienų ratifikavusių valstybių.
+21. Lietuvos Respublikoje draudžiama retransliuoti ir (ar) platinti internete Rusijos Federacijos ar Baltarusijos Respublikos įsteigtų, tiesiogiai ar netiesiogiai valdomų, kontroliuojamų ar finansuojamų subjektų radijo programas, televizijos programas ir (ar) atskiras programas, išskyrus atvejus, kai Komisija suteikia leidimą retransliuoti ir (ar) platinti tokias programas arba kai jos retransliuojamos ir (ar) platinamos iš Europos Sąjungos valstybių narių ar Europos konvenciją dėl televizijos be sienų ratifikavusių valstybių. Šis draudimas taikomas, kai Nacionalinio saugumo strategijoje, patvirtintoje Lietuvos Respublikos Seimo 2002 m. gegužės 28 d. nutarimu Nr. IX-907 „Dėl Nacionalinio saugumo strategijos patvirtinimo“, Rusijos Federacija ir (arba) Baltarusijos Respublika yra nurodytos kaip keliančios pavojų ir grėsmę Lietuvos Respublikos nacionaliniam saugumui.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1425, 2022-09-22, paskelbta TAR 2022-09-28, i. k. 2022-19594
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2725, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11246
 
 3. Iš Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių teikiamų audiovizualinės žiniasklaidos paslaugų, transliuojamų, retransliuojamų arba internete platinamų televizijos programų ar atskirų programų, kai perduodama tik atskira programa, ar užsakomųjų audiovizualinės žiniasklaidos paslaugų kataloguose esančių programų laisvas priėmimas (retransliavimas ir kitoks platinimas ar skleidimas) Lietuvos Respublikoje laikinai sustabdomas, kai:
 
