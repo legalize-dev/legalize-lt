@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2024-07-02"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-07-02 iki 2024-09-30
+Suvestinė redakcija nuo 2024-10-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -179,7 +179,13 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
 
-37) kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos želdynų įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Reglamente (ES) 2024/573.
+37) aplinkos apsaugos kontrolė – įstatymais įgaliotų viešojo administravimo subjektų veikla, kuria siekiama užtikrinti fizinių ir juridinių asmenų veiklos aplinkos apsaugos ir gamtos išteklių naudojimo srityje teisėtumą ir teisėtvarką ir kuri apima pažeidimų prevenciją ir jų nutraukimą, asmenų, padariusių pažeidimų aplinkos apsaugos ir gamtos išteklių naudojimo srityje, nustatymą, jų patraukimą teisinėn atsakomybėn;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
+
+38) kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme ir Lietuvos Respublikos želdynų įstatyme.
 
 Papildyta straipsnio punktu:
 
@@ -190,6 +196,8 @@ Straipsnio punkto pakeitimai:
 Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
 
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 Straipsnio pakeitimai:
 
@@ -277,7 +285,11 @@ Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
 Valstybinį aplinkos apsaugos valdymą Lietuvos Respublikoje vykdo Vyriausybė, Aplinkos ministerija, kitos įgaliotos valstybės institucijos.
 
-Aplinkos apsaugos valdymą savivaldybių teritorijose įstatymų nustatyta tvarka vykdo vietos savivaldos atitinkamos institucijos.
+Aplinkos apsaugos valdymą savivaldybių teritorijose įstatymų nustatyta tvarka vykdo savivaldybių institucijos ir įstaigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 Kiekviena iš šių institucijų atsako už šio įstatymo joms priskirtų funkcijų vykdymą.
 
@@ -291,7 +303,11 @@ Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
 
 2) įstatymų nustatyta tvarka formuoja valstybės institucijų, įgyvendinančių aplinkos apsaugos ir gamtos išteklių naudojimo politiką, sistemą;
 
-3) koordinuoja valstybės ir vietos savivaldos valdymo institucijų veiklą aplinkos apsaugos ir gamtos išteklių naudojimo srityje;
+3) koordinuoja valstybės ir savivaldybių institucijų ir įstaigų veiklą aplinkos apsaugos ir gamtos išteklių naudojimo srityje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 4) sudaro ir įgyvendina Lietuvos Respublikos tarpvalstybines sutartis aplinkos apsaugos ir gamtos išteklių naudojimo srityje;
 
@@ -361,7 +377,11 @@ Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
 
 Kitų valstybės institucijų funkcijas aplinkos apsaugos srityje nustato kiti įstatymai bei šių institucijų nuostatai.
 
-Vietos savivaldos institucijos, organizuodamos aplinkos apsaugos įstatymų, Vyriausybės bei Aplinkos ministerijos priimtų norminių aktų aplinkos apsaugos klausimais įgyvendinimą:
+Savivaldybių institucijos, saugodamos aplinką, užtikrindamos vietos gyventojų teisę į švarią aplinką, gerindamos aplinkos kokybę savivaldybės teritorijoje ir organizuodamos aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų įgyvendinimą:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 1) valdo, naudoja ir saugo joms priskirtus gamtos išteklius ir aplinkosaugos objektus;
 
@@ -385,11 +405,31 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-200, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07417
 
-8) nustato savo teritorijoje griežtesnius už valstybinius normatyvus, suderinusios su juos patvirtinusiomis valstybės institucijomis;
+8) gali nustatyti griežtesnius už valstybinius aplinkos apsaugos normatyvus suderinusios su juos patvirtinusiomis valstybės institucijomis, taikomus savivaldybės teritorijoje ar jos dalyje, atsižvelgdamos į vietos gyventojų ir bendruomenių poreikius ir (ar) vietos aplinkos sąlygas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 9) pagal kompetenciją priima sprendimus ir kontroliuoja jų vykdymą;
 
-10) vykdo kitas įstatymų nustatytas funkcijas.
+10) vykdo savivaldybės institucijų nustatytų aplinkos apsaugos normatyvų laikymosi kontrolę;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
+
+11) vykdo aplinkos apsaugos kontrolę aplinkos apsaugos srityse, kuriose tokie įgaliojimai suteikti savivaldybėms kituose aplinkos apsaugą reglamentuojančiuose įstatymuose;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
+
+12) vykdo kitas įstatymų nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 Straipsnio pakeitimai:
 
@@ -494,6 +534,12 @@ Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 9) skatinti piliečius, suinteresuotą visuomenę, kitus juridinius ir fizinius asmenis dalyvauti priimant ir įgyvendinant sprendimus aplinkos apsaugos srityje;
 
 10) nustatyta tvarka reikalauti, kad atsakingi asmenys imtųsi prevencinių, aplinkos atkūrimo ar kitų aplinkos apsaugos priemonių, taip pat kontroliuotų, kaip vykdomos šios priemonės.
+
+Savivaldybės administracijos direktoriaus įgalioti savivaldybės administracijos valstybės tarnautojai, vykdydami aplinkos apsaugos kontrolę, turi teisę pateikę tarnybinį pažymėjimą patekti (įeiti, įvažiuoti) į privačias teritorijas ir jose esančius objektus (statinius, įrenginius, patalpas ir kt.), išskyrus tikrinamo fizinio asmens gyvenamąsias patalpas. Savivaldybės administracijos direktoriaus įgalioti savivaldybės administracijos valstybės tarnautojai, pateikę teismo nutartį, turi teisę patekti į tikrinamo fizinio asmens gyvenamąsias patalpas (tarp jų ir nuomojamas ar naudojamas kitu pagrindu). Teismo nutartis gaunama mutatis mutandis vadovaujantis Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 121 straipsniu. Jeigu pradėjus administracinio nusižengimo teiseną nustatoma, kad padaryta veika turi administracinio nusižengimo, kurį tirti savivaldybės administracijos valstybės tarnautojams įstatymu įgaliojimai nesuteikti, požymių, surinkta medžiaga perduodama institucijai, kuri pagal įstatymą turi įgaliojimus vykdyti administracinio nusižengimo tyrimą ir dėl jo surašyti administracinio nusižengimo protokolą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 Straipsnio pakeitimai:
 
@@ -839,23 +885,23 @@ Pakeistas skyriaus pavadinimas:
 
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
-31 straipsnis. Aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų įgyvendinimo kontrolė
+31 straipsnis. Aplinkos apsaugos kontrolė
 
-Lietuvos Respublikoje aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų įgyvendinimo kontrolę atlieka aplinkos apsaugos valstybinės kontrolės pareigūnai šio įstatymo, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo, Lietuvos Respublikos miškų įstatymo, Lietuvos Respublikos saugomų teritorijų įstatymo ir kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų nustatyta tvarka.
+Lietuvos Respublikoje aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų įgyvendinimo kontrolę atlieka:
 
-Straipsnio pakeitimai:
+1) aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai šio įstatymo, Aplinkos apsaugos valstybinės kontrolės įstatymo, Lietuvos Respublikos miškų įstatymo, Saugomų teritorijų įstatymo ir kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų nustatytose srityse;
 
-Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
+2) savivaldybių institucijos šio įstatymo, Atliekų tvarkymo įstatymo, Geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo, Aplinkos oro apsaugos įstatymo ir kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų nustatytose srityse;
 
-Nr. IX-2113, 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
-
-Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
+3) kiti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančiais įstatymais įgalioti viešojo administravimo subjektai.
 
 Straipsnio pakeitimai:
 
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 32 straipsnis. Žala aplinkai, aplinkos būklės atkūrimas ir žalos aplinkai atlyginimas
 
@@ -903,7 +949,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
 
-Aplinkos apsaugos departamentas prie Aplinkos ministerijos ar kitos valstybės ar savivaldybių institucijos pagal kompetenciją ieškinius dėl žalos aplinkai bei kitų nuostolių atlyginimo gali pareikšti ūkio subjektui arba kitam asmeniui, padariusiam aplinkai žalos arba sukėlusiam neišvengiamą (realią) žalos aplinkai grėsmę, per penkerius metus nuo dienos, kurią buvo nustatytas atsakingas ūkio subjektas ar kitas asmuo arba buvo baigtos taikyti žalos aplinkai prevencijos priemonės, veiksmai, užtikrinantys teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, arba aplinkos atkūrimo priemonės, atsižvelgus į tai, kuri iš šių aplinkybių atsirado vėliau. Žalos aplinkai dydis apskaičiuojamas šio įstatymo 32 straipsnio ketvirtojoje dalyje nustatyta tvarka, kitų nuostolių dydis apskaičiuojamas įvertinus žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo, žalos aplinkai ar neišvengiamos (realios) žalos aplinkai grėsmės, taikytinų aplinkos atkūrimo priemonių alternatyvų įvertinimo, taip pat administracinių, teisinių, vykdymo išlaidų, duomenų surinkimo, stebėsenos ir priežiūros išlaidas.
+Aplinkos apsaugos departamentas prie Aplinkos ministerijos ar kitos valstybės institucijos, meras arba jo įgalioti asmenys pagal kompetenciją ieškinius dėl žalos aplinkai bei kitų nuostolių atlyginimo gali pareikšti ūkio subjektui arba kitam asmeniui, padariusiam aplinkai žalos arba sukėlusiam neišvengiamą (realią) žalos aplinkai grėsmę, per penkerius metus nuo dienos, kurią buvo nustatytas atsakingas ūkio subjektas ar kitas asmuo arba buvo baigtos taikyti žalos aplinkai prevencijos priemonės, veiksmai, užtikrinantys teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, arba aplinkos atkūrimo priemonės, atsižvelgus į tai, kuri iš šių aplinkybių atsirado vėliau. Žalos aplinkai dydis apskaičiuojamas šio įstatymo 32 straipsnio ketvirtojoje dalyje nustatyta tvarka, kitų nuostolių dydis apskaičiuojamas įvertinus žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo, žalos aplinkai ar neišvengiamos (realios) žalos aplinkai grėsmės, taikytinų aplinkos atkūrimo priemonių alternatyvų įvertinimo išlaidas, taip pat administracinių, teisinių sprendimų vykdymo išlaidas, duomenų surinkimo, stebėsenos ir priežiūros išlaidas.
 
 Straipsnio dalies pakeitimai:
 
@@ -912,6 +958,8 @@ Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 Nr. XIII-703, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17961
 
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 Žala aplinkai ir kiti nuostoliai gali būti pripažinti kaip mažareikšmė žala ir neišieškomi, jeigu žala aplinkai yra nedidelė ir jos išieškojimo išlaidos didesnės už išieškomą sumą.
 
@@ -3871,6 +3919,14 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 2, 37, 47, 51, 57, 72, 73, 78, 79, 90, 91, 114, 116, 117, 118 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 40-1, 53-1, 53-2, 53-3, 95-2, 110-1, 118-1, 122-1, 122-2, 122-3, 122-4, 122-5, 122-6, 122-7 straipsniais įstatymas
 
+33.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 8, 19-4, 31 ir 33 straipsnių pakeitimo įstatymas
+
 193 straipsnis. Įrenginių registravimas
 
 Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame straipsnyje suprantamas kaip stacionarus technikos objektas, kuriame vykdant aplinkos ministro patvirtintose Lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikrų veiklos rūšių įrenginiuose, išmetimo ribojimo ir įrenginių registravimo taisyklėse (toliau – LOJ taisyklės) nurodytą vienos arba kelių rūšių veiklą, taip pat kitą toje pačioje vietoje vykdomą tiesiogiai techniškai susijusią veiklą, kurios metu išmetami lakieji organiniai junginiai, suvartojamas organinio tirpiklio kiekis atitinka LOJ taisyklėse nurodytąjį. Šios taisyklės nustato įrenginių įregistravimo, registracijos duomenų teikimo, tikslinimo ir įrenginių išregistravimo tvarką.
@@ -4201,7 +4257,11 @@ Nr. XIV-489, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15888
 
 194 straipsnis. Ūkinės veiklos objektų eksploatavimas paskelbus ekstremaliąją energetikos padėtį arba ekstremaliąją situaciją
 
-Šio įstatymo 19 straipsnio antrojoje dalyje nustatytos sąlygos gali būti laikinai netaikomos ūkinės veiklos objektą eksploatuojančiam ir (ar) ūkinę veiklą vykdančiam fiziniam ar juridiniam asmeniui, kai tai būtina gresiančiai ar susidariusiai valstybės lygio ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai valdyti, likviduoti ir (ar) jų padariniams šalinti. Konkrečios laikinosios ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygos, pagal kurias gali būti eksploatuojamas ūkinės veiklos objektas ir (ar) vykdoma ūkinė veikla gresiant arba susidarius valstybės lygio ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai, nustatomos ekstremalių situacijų komisijos ar ekstremaliosios situacijos operacijų vadovo sprendimu, priimtu Civilinės saugos įstatymo nustatyta tvarka, arba Vyriausybės ar jos įgaliotos valstybės institucijos sprendimu, priimtu Energetikos įstatymo nustatyta tvarka. Šioje dalyje nustatyta išimtis negali būti taikoma platesniu mastu ir ilgesnį laikotarpį, negu būtina gresiančiai ar susidariusiai valstybės lygio ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai valdyti, likviduoti ir (ar) jų padariniams šalinti. Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ir (ar) vykdantis ūkinę veiklą pagal šioje dalyje nustatyta tvarka nustatytas laikinąsias ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygas, privalo taikyti visas įmanomas neigiamą poveikį aplinkai ir žmonių sveikatai mažinančias priemones.
+Šio įstatymo 19 straipsnio antrojoje dalyje nustatytos sąlygos gali būti laikinai netaikomos ūkinės veiklos objektą eksploatuojančiam ir (ar) ūkinę veiklą vykdančiam fiziniam ar juridiniam asmeniui, kai tai būtina gresiančiai ar susidariusiai ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai valdyti, likviduoti ir (ar) jų padariniams šalinti. Konkrečios laikinosios ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygos, pagal kurias gali būti eksploatuojamas ūkinės veiklos objektas ir (ar) vykdoma ūkinė veikla gresiant arba susidarius ekstremaliajai energetikos padėčiai arba ekstremaliajai situacijai, nustatomos ekstremaliosios situacijos operacijų vadovo sprendimu, priimtu Krizių valdymo ir civilinės saugos įstatyme nustatyta tvarka, arba Vyriausybės ar jos įgaliotos valstybės institucijos arba savivaldybės administracijos direktoriaus sprendimu, priimtu Energetikos įstatyme nustatyta tvarka. Šioje dalyje nustatyta išimtis negali būti taikoma platesniu mastu ir ilgesnį laikotarpį, negu būtina gresiančiai ar susidariusiai ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai, taip pat savivaldybės lygio ekstremaliajai situacijai šilumos energijos gamybos ir šilumos tiekimo srityje valdyti, likviduoti ir (ar) jų padariniams šalinti. Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ir (ar) vykdantis ūkinę veiklą pagal šioje dalyje nustatyta tvarka nustatytas laikinąsias ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygas, privalo taikyti visas įmanomas neigiamą poveikį aplinkai ir žmonių sveikatai mažinančias priemones.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 Apie šio straipsnio pirmojoje dalyje priimtą sprendimą dėl laikinųjų ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygų šį sprendimą priėmęs subjektas informuoja Aplinkos ministeriją per 10 darbo dienų nuo sprendimo priėmimo dienos, o Aplinkos ministerija, gavusi nurodytą informaciją apie nustatytas laikinąsias ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygas, nedelsdama informuoja Europos Komisiją apie šio straipsnio pirmojoje dalyje nustatytos išimties taikymą, kai tokią informaciją pateikti būtina pagal Europos Sąjungos aplinkos apsaugos teisės aktus.
 
