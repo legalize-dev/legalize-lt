@@ -4,7 +4,7 @@ identifier: "TAR.0AE0464E0EDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-07-13"
-last_updated: "2024-01-01"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Geriamojo vandens tiekimo ir nuotekų tvarkymo įs
 ---
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-09-30
+Suvestinė redakcija nuo 2024-10-01
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
 
@@ -285,9 +285,13 @@ Valstybinė maisto ir veterinarijos tarnyba:
 
 20) tikrina geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų veiklą;
 
-21) vadovaudamasi skaidrumo, objektyvumo ir nediskriminavimo principais, investicijų efektyvumo, atsipirkimo laikotarpio ir pagrįstumo įvertinimo kriterijais, tvirtina investicijų vertinimo ir derinimo tvarkos aprašą, derina geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų investicijas;
+21) vadovaudamasi skaidrumo, objektyvumo ir nediskriminavimo principais, investicijų efektyvumo, atsipirkimo laikotarpio ir pagrįstumo įvertinimo kriterijais, tvirtina investicijų vertinimo ir derinimo tvarkos aprašą, derina geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų investicijas.
 
-22) apskaičiuoja šio įstatymo 15 straipsnio 14 dalyje nurodytą įmoką ir prižiūri jos mokėjimą ir naudojimą.
+22) Neteko galios nuo 2024-10-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
 
 Straipsnio punkto pakeitimai:
 
@@ -431,7 +435,11 @@ Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 3. Garantinis vandens tiekėjas garantinį geriamojo vandens tiekimą ir nuotekų tvarkymą vykdo, kol pagal šio straipsnio 17 dalies nuostatas jis bus paskirtas regioniniu viešuoju vandens tiekėju.
 
-4. Garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą nustato Valstybinė energetikos reguliavimo taryba, vadovaudamasi Valstybinės energetikos reguliavimo tarybos patvirtintame garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo vykdymo tvarkos ir sąlygų apraše nustatyta tvarka ir šio įstatymo 33 straipsnio 1 dalies nuostatomis.
+4. Garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą nustato ir perskaičiuoja Valstybinė energetikos reguliavimo taryba vadovaudamasi šio straipsnio 15 dalimi ir šio įstatymo 33 straipsnio 1 dalimi ir Valstybinės energetikos reguliavimo tarybos tvirtinamame garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo vykdymo tvarkos ir sąlygų apraše nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
 
 5. Viešasis vandens tiekėjas, kurio licencijos galiojimas panaikintas, privalo visą jam nuosavybės teise priklausančią geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrą, kitą jam nuosavybės teise priklausantį turtą, reikalingą garantiniam geriamojo vandens tiekimui ir nuotekų tvarkymui vykdyti, neatlygintinai perduoti valdyti ir naudoti garantinio vandens tiekimo vykdymo laikotarpiui garantiniam vandens tiekėjui, kuris privalo jį priimti ir kuriam nuo perdavimo–priėmimo akto pasirašymo momento pereina šio turto atsitiktinio žuvimo ar sugedimo rizika.
 
@@ -459,9 +467,17 @@ Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 13. Valstybinė energetikos reguliavimo taryba, nustačiusi, kad garantinis vandens tiekėjas neatitinka garantiniam vandens tiekėjui taikomų kriterijų, nustatytų šio straipsnio 11 dalyje, įpareigoja garantinį vandens tiekėją per 6 mėnesius pagerinti nustatytus rodiklius. Per nustatytą terminą garantiniam vandens tiekėjui nepagerinus nustatytų rodiklių, Valstybinė energetikos reguliavimo taryba paskiria kitą garantinį vandens tiekėją iš to paties arba kito viešojo geriamojo vandens tiekimo regiono.
 
-14. Viešojo geriamojo vandens tiekimo regione esantys viešieji vandens tiekėjai Valstybinės energetikos reguliavimo tarybos paskirtam garantiniam vandens tiekėjui per metus turi mokėti 2 procentus nuo praėjusių metų geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo veiklos pajamų, bet ne daugiau kaip garantiniam vandens tiekėjui apskaičiuotas investicijų grąžos dydis, lygus 0,5 procento vidutinės svertinės kapitalo kainos, geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugoms užtikrinti, įmokas mokant kas ketvirtį nuo garantinio vandens tiekėjo paskyrimo dienos. Šias lėšas garantinis vandens tiekėjas naudoja Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+14. Neteko galios nuo 2024-10-01
 
-15. Viešojo vandens tiekėjo, kurio licencijos galiojimas panaikintas, vartotojai ir abonentai garantiniam vandens tiekėjui už suteiktas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugas moka garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kaina.
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
+
+15. Viešojo vandens tiekėjo, kurio licencijos galiojimas panaikintas, vartotojai ir abonentai garantiniam vandens tiekėjui už suteiktas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugas moka garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą, kuri apskaičiuojama viešojo vandens tiekėjo iki licencijos galiojimo panaikinimo nustatytą geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą padauginus iš koeficiento 1,09. Garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kaina mokama nuo šio straipsnio 2 dalyje nurodyto sprendimo įsigaliojimo iki tol, kol garantinis vandens tiekėjas ir viešasis vandens tiekėjas, kurio licencijos galiojimas panaikintas, reorganizuojami į regioninį viešąjį vandens tiekėją. Valstybinei energetikos reguliavimo tarybai nustačius garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą, garantinis vandens tiekėjas per 5 darbo dienas privalo apie Valstybinės energetikos reguliavimo tarybos nustatytą ar perskaičiuotą garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą viešai (savo interneto svetainėje) informuoti abonentus ir vartotojus. Garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kaina įsigalioja ir taikoma nuo kito mėnesio pirmosios dienos po to, kai jas viešai paskelbia garantinis vandens tiekėjas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
 
 16. Garantinis vandens tiekėjas privalo atskirai tvarkyti su garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo veikla susijusią apskaitą.
 
@@ -1023,7 +1039,11 @@ SĄNAUDŲ APSKAITOS IR KONTROLĖS, KAINŲ NUSTATYMO IR ATSISKAITYMO TVARKA
 
 24. Kai dėl geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros ar paviršinių nuotekų tvarkymo infrastruktūros išpirkimo arba perdavimo viešojo vandens tiekėjo, regioninio viešojo vandens tiekėjo ar paviršinių nuotekų tvarkytojo nuosavybėn susitarti nepavyksta ir kai viešojo vandens tiekėjo, regioninio viešojo vandens tiekėjo ar paviršinių nuotekų tvarkytojo iniciatyva sudaromos sutartys dėl geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros naudojimo (nuomos, panaudos, jungtinės veiklos), šios infrastruktūros naudojimo sąnaudos priskiriamos būtinosioms sąnaudoms.
 
-25. Šio įstatymo 15 straipsnio 14 dalyje nurodyta įmoka pripažįstama būtinosiomis sąnaudomis.
+25. Neteko galios nuo 2024-10-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
 
 34 straipsnis. Geriamojo vandens tiekėjo, garantinio vandens tiekėjo ir paviršinių nuotekų tvarkytojo veiklos patikrinimai
 
@@ -1179,7 +1199,11 @@ GINČŲ IR SKUNDŲ NAGRINĖJIMAS. SANKCIJŲ SKYRIMO TVARKA
 
 2) už teisės aktuose nustatytos informacijos nepateikimą šio įstatymo 37 straipsnyje nurodytiems asmenims, už neteisingos ar ne visos informacijos pateikimą – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 0,5 procento geriamojo vandens tiekėjo, garantinio vandens tiekėjo ar paviršinių nuotekų tvarkytojo metinių reguliuojamosios veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio;
 
-21) už šio įstatymo 15 straipsnio 14 dalyje nurodytos įmokos nesumokėjimą toje dalyje nurodytiems asmenims nustatytais terminais, už ne visos įmokos sumokėjimą – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 2 procentų geriamojo vandens tiekėjo metinių reguliuojamosios veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio.
+21) Neteko galios nuo 2024-10-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
 
 Papildyta straipsnio punktu:
 
@@ -1508,6 +1532,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 9, 14, 15, 16, 17, 27, 39 straipsnių pakeitimo ir įstatymo papildymo 14-1 straipsniu įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
+
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 9, 15, 33 ir 39 straipsnių pakeitimo įstatymas
 
 141 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo įmonių reorganizavimas
 
