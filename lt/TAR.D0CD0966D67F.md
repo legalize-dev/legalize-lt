@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2024-06-20"
+last_updated: "2024-10-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-06-20 iki 2024-10-09
+Suvestinė redakcija nuo 2024-10-10 iki 2024-11-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -1807,9 +1807,13 @@ Nr. XIV-2109, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14000
 
 3. Kai viešosios paslaugos teikimas yra ūkinė veikla, kaip ji apibrėžiama Lietuvos Respublikos konkurencijos įstatyme, turi būti įgyvendinti šio įstatymo 56 straipsnyje nustatyti reikalavimai. Šio straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytais atvejais šio įstatymo 56 straipsnyje nustatyti reikalavimai ir Konkurencijos įstatymo 4 straipsnyje nustatyti reikalavimai ir draudimai nėra taikomi.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos vietos savivaldos įstatymo 55 straipsnio 3 dalies (2023 m. birželio 29 d. redakcija, TAR, 2023-07-05, Nr. 14000) nuostata „[Š]io straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytais atvejais šio įstatymo 56 straipsnyje nustatyti reikalavimai ir Konkurencijos įstatymo 4 straipsnyje nustatyti reikalavimai ir draudimai nėra taikomi“ prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 1, 3, 4 dalims, 120 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2109, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14000
+
+Nr. KT80-N11/2024, 2024-10-10, paskelbta TAR 2024-10-10, i. k. 2024-17806
 
 4. Jeigu seniūnija, vadovaudamasi šio įstatymo 54 straipsnio 2 dalyje numatytu savivaldybės tarybos sprendimu, pati teikia viešąsias paslaugas, šioms paslaugoms administruoti paskiriamas savivaldybės administracijos struktūrinis padalinys.
 
