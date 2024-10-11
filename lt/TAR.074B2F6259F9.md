@@ -4,7 +4,7 @@ identifier: "TAR.074B2F6259F9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-04-03"
-last_updated: "2023-05-01"
+last_updated: "2024-10-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.074B2F6259F9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2024-10-10
+Suvestinė redakcija nuo 2024-10-11
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 47-1747, i. k. 1081010ISTA00X-1478
+
+TAR pastaba. Iki 2024-10-03 įstatymo Nr. XIV-3013 įsigaliojimo dienos (2024-10-11) Lietuvos Respublikos kompetentingų institucijų priimti sprendimai dėl Rumunijoje įgytos bendrosios praktikos slaugytojo kvalifikacijos, kuri neatitiko minimalių rengimo reikalavimų, pripažinimo galioja ir įsigaliojus 2024-10-03  įstatymui  Nr. XIV-3013.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
+
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 29, 31 straipsnių ir 6 priedo pakeitimo įstatymas
 
 Nauja redakcija nuo 2016-01-18:
 
@@ -772,7 +780,11 @@ BENDROSIOS PRAKTIKOS SLAUGYTOJAI
 
 2. Bendrosios praktikos slaugytojų rengimas vykdomas pagal nuolatinę studijų formą ir pagal šio įstatymo 3 priedo 3.2.1 papunktyje nurodytą bendrosios praktikos slaugytojų studijų ar mokymo programą.
 
-3. Bendrosios praktikos slaugytojų rengimą sudaro ne trumpesnės kaip trejų metų trukmės studijos, kurios papildomai gali būti išreikštos lygiaverčiais ECTS kreditais ir kurias sudaro ne mažiau kaip 4 600 valandų teorinio ir klinikinio rengimo. Teorinio rengimo trukmė turi sudaryti ne mažiau kaip vieną trečdalį, o klinikinio rengimo – ne mažiau kaip pusę šioje dalyje numatytos minimalios rengimo trukmės. Kompetentinga institucija gali taikyti dalines išimtis asmenims, įgijusiems dalį rengimo lygiaverčiuose kursuose. Lietuvos Respublikos sveikatos apsaugos ministerija ir Lietuvos Respublikos švietimo ir mokslo ministerija užtikrina, kad slaugytojus rengiančios mokymo įstaigos būtų atsakingos už teorinio ir klinikinio rengimo koordinavimą per visą studijų programos laiką.
+3. Bendrosios praktikos slaugytojų rengimą sudaro ne trumpesnės kaip trejų metų trukmės studijos, kurios papildomai gali būti išreikštos lygiaverčiais ECTS kreditais ir kurias sudaro ne mažiau kaip 4 600 valandų teorinio ir klinikinio rengimo. Teorinio rengimo trukmė turi sudaryti ne mažiau kaip vieną trečdalį, o klinikinio rengimo – ne mažiau kaip pusę šioje dalyje numatytos minimalios rengimo trukmės. Kompetentinga institucija gali taikyti dalines išimtis asmenims, įgijusiems dalį rengimo lygiaverčiuose kursuose. Lietuvos Respublikos sveikatos apsaugos ministerija ir Lietuvos Respublikos švietimo, mokslo ir sporto ministerija užtikrina, kad slaugytojus rengiančios mokymo įstaigos būtų atsakingos už teorinio ir klinikinio rengimo koordinavimą per visą studijų programos laiką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
 
 4. Teorinio rengimo metu rengiami slaugytojai įgyja profesinių žinių, įgūdžių ir kompetencijų, kurių reikalaujama pagal šio straipsnio 6 ir 7 dalis. Rengimą vykdo slaugos dėstytojai ir kiti kompetentingi asmenys universitetuose, aukštojo mokslo institucijose, pripažintose lygiavertėmis universitetams, arba profesinėse mokyklose, rengiančiose slaugytojus, ar pagal slaugos profesinio rengimo programas.
 
