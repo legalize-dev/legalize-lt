@@ -4,7 +4,7 @@ identifier: "TAR.F4CA26A706AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-25"
-last_updated: "2024-10-11"
+last_updated: "2024-10-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2024-10-11 iki 2024-10-17
+Suvestinė redakcija nuo 2024-10-18 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
 
@@ -158,7 +158,11 @@ Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 
 27) tarnybos paslaptį sudarančios informacijos apsaugai naudojami kodinių užraktų ir elektroninių įeigos kontrolės sistemų kodai;
 
-28) detalūs duomenys apie ypatingos svarbos informacinę infrastruktūrą ir jos valdytojus;
+28) Neteko galios nuo 2024-10-18
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2911, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13546
 
 29) ĮIRIS įrangos ir patalpų, kuriose ĮIRIS apdorojama ir perduodama įslaptinta informacija, apsaugos nuo elektromagnetinės spinduliuotės matavimo duomenys, rezultatai ir tokių patalpų sertifikatų duomenys.
 
@@ -424,13 +428,15 @@ Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 
 4. Tarnybos paslaptį sudaranti informacija užsienio valstybėms, Europos Sąjungai ar tarptautinėms organizacijoms perduodama paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu, kai tai būtina paslapčių subjekto funkcijoms atlikti.
 
-5. Nacionaliniam saugumui užtikrinti svarbioms įmonėms, ypatingos svarbos informacinės infrastruktūros valdytojams, aviacijos saugumo srityje veikiantiems subjektams, kuriems atliekant įstatymuose ar kituose norminiuose teisės aktuose nustatytas funkcijas būtina susipažinti su įslaptinta informacija, tokią informaciją naudoti, įslaptinta informacija perduodama nesudarant įslaptinto sandorio, tačiau šio įstatymo septintajame skirsnyje nustatyta tvarka įvertinus jų patikimumą ar atitiktį įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimams ir išdavus tiekėjo patikimumo pažymėjimą ar įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimų atitiktį patvirtinančią pažymą. Šioje dalyje nurodytiems subjektams taikomi šio įstatymo 33 straipsnio 9 dalies 1, 2, 3, 4, 7, 8 ir 9 punktuose nustatyti reikalavimai.
+5. Nacionaliniam saugumui užtikrinti svarbioms įmonėms, aviacijos saugumo srityje veikiantiems subjektams, kuriems atliekant įstatymuose ar kituose norminiuose teisės aktuose nustatytas funkcijas būtina susipažinti su įslaptinta informacija, tokią informaciją naudoti, įslaptinta informacija perduodama nesudarant įslaptinto sandorio, tačiau šio įstatymo septintajame skirsnyje nustatyta tvarka įvertinus jų patikimumą ar atitiktį įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimams ir išdavus tiekėjo patikimumo pažymėjimą ar įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimų atitiktį patvirtinančią pažymą. Šioje dalyje nurodytiems subjektams taikomi šio įstatymo 33 straipsnio 9 dalies 1, 2, 3, 4, 7, 8 ir 9 punktuose nustatyti reikalavimai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1013, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01026
 
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
+
+Nr. XIV-2911, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13546
 
 ANTRASIS SKIRSNIS
 
