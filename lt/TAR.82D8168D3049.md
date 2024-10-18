@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2024-05-01"
+last_updated: "2024-10-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-10-17
+Suvestinė redakcija nuo 2024-10-18 iki 2024-10-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -72,7 +72,11 @@ Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
 
 7) užtikrinti, kad elektroninių ryšių tinklų ir (arba) elektroninių ryšių paslaugų teikėjai vykdytų įpareigojimus, kurie gali būti nustatyti valstybės gynybos, nacionalinio saugumo ir viešosios tvarkos palaikymo interesais, taip pat ypatingų aplinkybių atvejais;
 
-8) užtikrinti, kad viešųjų elektroninių ryšių tinklų teikėjai įgyvendintų tinkamas technines ir organizacines priemones savo teikiamų viešųjų elektroninių ryšių tinklų vientisumui užtikrinti.
+8) užtikrinti, kad viešųjų elektroninių ryšių tinklų teikėjai įgyvendintų tinkamas technines ir organizacines priemones savo viešaisiais elektroninių ryšių tinklais teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamam teikimui užtikrinti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 9 straipsnis. Ryšių reguliavimo tarnybos, Tarybos ir jos pirmininko funkcijos
 
@@ -632,7 +636,11 @@ Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 
 14) įpareigojimais suteikti prieigą, išskyrus įpareigojimus, nustatytus didelę įtaką atitinkamoje rinkoje turintiems ūkio subjektams, ūkio subjektams, paskirtiems teikti universaliąsias paslaugas, ar kitiems ūkio subjektams pagal šio įstatymo 23 straipsnio 2 dalį;
 
-15) viešųjų elektroninių ryšių tinklų vientisumo palaikymu, įskaitant sąlygas, užkertančias kelią elektromagnetiniams trukdžiams tarp elektroninių ryšių tinklų ir (arba) elektroninių ryšių paslaugų;
+15) viešųjų elektroninių ryšių paslaugų nepertraukiamo teikimo užtikrinimu, įskaitant sąlygas, užkertančias kelią elektromagnetiniams trukdžiams tarp elektroninių ryšių tinklų ir (arba) elektroninių ryšių paslaugų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 16) viešųjų elektroninių ryšių tinklų apsauga nuo neteisėtos prieigos;
 
@@ -754,7 +762,11 @@ Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 
 8. Infrastruktūros valdytojas šio straipsnio 7 dalyje nurodytą prašymą privalo išnagrinėti ir proporcingomis, nediskriminacinėmis, skaidriomis sąlygomis informaciją pateikti ar atsisakyti ją pateikti ne vėliau kaip per 14 kalendorinių dienų nuo prašymo gavimo dienos. Infrastruktūros valdytojas neturi teisės atsisakyti patenkinti šio straipsnio 7 dalyje nurodyto prašymo, išskyrus atvejus, kai:
 
-1) informacijos pateikimas sukeltų grėsmę elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros saugumui ir (arba) vientisumui, visuomenės saugumui ir (arba) sveikatai;
+1) informacijos pateikimas sukeltų grėsmę elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros saugumui, visuomenės saugumui ir (arba) sveikatai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 2) infrastruktūros valdytojas prašomą pateikti informaciją jau yra paskelbęs;
 
@@ -800,17 +812,19 @@ Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 
 1. Prisijungti prie elektroninių ryšių tinklų be ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (arba) paslaugas, sutikimo draudžiama, išskyrus įstatymų nustatytus atvejus.
 
-51 straipsnis. Viešųjų elektroninių ryšių tinklų vientisumas
+51 straipsnis. Viešųjų elektroninių ryšių paslaugų nepertraukiamas teikimas
 
-1. Viešųjų elektroninių ryšių tinklų teikėjai privalo įgyvendinti tinkamas technines ir organizacines priemones savo teikiamų viešųjų elektroninių ryšių tinklų vientisumui užtikrinti, tokiu būdu užtikrindami šiais tinklais teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamą teikimą.
+1. Viešųjų elektroninių ryšių tinklų teikėjai privalo įgyvendinti tinkamas technines ir organizacines priemones, kuriomis užtikrintų savo viešaisiais elektroninių ryšių tinklais teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamą teikimą.
 
-2. Ryšių reguliavimo tarnyba nustato techninius ir organizacinius reikalavimus viešųjų elektroninių ryšių tinklų vientisumui užtikrinti.
+2. Ryšių reguliavimo tarnyba nustato techninius ir organizacinius reikalavimus viešųjų elektroninių ryšių paslaugų nepertraukiamam teikimui užtikrinti.
 
-3. Ryšių reguliavimo tarnyba, siekdama užtikrinti viešųjų elektroninių ryšių tinklų vientisumą, turi teisę duoti privalomus nurodymus ir nustatyti nurodymų įvykdymo terminą viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams. Ryšių reguliavimo tarnybos nurodymai turi būti motyvuoti, pagrįsti ir proporcingi tikslui pasiekti.
+3. Ryšių reguliavimo tarnyba, siekdama užtikrinti viešųjų elektroninių ryšių paslaugų nepertraukiamą teikimą, turi teisę duoti privalomus nurodymus ir nustatyti nurodymų įvykdymo terminą viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams. Ryšių reguliavimo tarnybos nurodymai turi būti motyvuoti, pagrįsti ir proporcingi tikslui pasiekti.
 
-4. Įvykus vientisumo pažeidimui, kuris gali turėti, turi ar turėjo didelę įtaką viešojo elektroninių ryšių tinklo veikimui arba viešųjų elektroninių ryšių paslaugų teikimui, viešųjų elektroninių ryšių tinklų teikėjas privalo nedelsdamas apie šį vientisumo pažeidimą informuoti Ryšių reguliavimo tarnybą jos nustatyta tvarka ir sąlygomis. Nustatant vientisumo pažeidimo mastą, atsižvelgiama į paslaugų gavėjų, kuriuos paveikė vientisumo pažeidimas, skaičių, vientisumo pažeidimo trukmę, teritoriją, kurioje vientisumo pažeidimas daro poveikį, poveikio viešojo elektroninių ryšių tinklo veikimui ar viešųjų elektroninių ryšių paslaugų teikimui mastą, poveikio ekonominei ir visuomeninei veiklai mastą. Ryšių reguliavimo tarnyba nustato konkrečius vientisumo pažeidimo masto vertinimo kriterijus. Apie įvykusį vientisumo pažeidimą Ryšių reguliavimo tarnyba praneša Nacionaliniam kibernetinio saugumo centrui prie Krašto apsaugos ministerijos ir prireikus kitų Europos Sąjungos valstybių narių nacionalinėms reguliavimo institucijoms, Europos tinklų ir informacijos apsaugos agentūrai ir visuomenei.
+4. Įvykus viešųjų elektroninių ryšių paslaugų teikimo nutraukimui, atitinkančiam Ryšių reguliavimo tarnybos nustatytus masto vertinimo kriterijus, viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjas privalo nedelsdamas apie šį įvykį informuoti Ryšių reguliavimo tarnybą jos nustatyta tvarka ir sąlygomis. Nustatant viešųjų elektroninių ryšių paslaugų teikimo nutraukimo mastą, atsižvelgiama į paslaugų gavėjų, kuriuos paveikė šis įvykis, skaičių, viešųjų elektroninių ryšių paslaugų teikimo nutraukimo trukmę, teritoriją, poveikio viešųjų elektroninių ryšių paslaugų teikimui mastą, poveikio ekonominei ir visuomeninei veiklai mastą. Ryšių reguliavimo tarnyba nustato konkrečius viešųjų elektroninių ryšių paslaugų teikimo nutraukimo masto vertinimo kriterijus.
 
-5. Ryšių reguliavimo tarnyba kaupia informaciją apie pagal šio straipsnio 4 dalį pateiktus viešųjų elektroninių ryšių tinklų teikėjų pranešimus ir įvykdytus veiksmus ir kiekvienais metais pateikia apibendrintą informaciją Europos Komisijai ir Europos tinklų ir informacijos apsaugos agentūrai.
+Straipsnio pakeitimai:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 VII SKYRIUS
 
@@ -1162,7 +1176,11 @@ Asmuo turi teisę kitam asmeniui Ryšių reguliavimo tarnybos nustatyta tvarka i
 
 2. Valstybinė duomenų apsaugos inspekcija rengia metodines rekomendacijas dėl šio straipsnio 1 dalyje nurodytomis priemonėmis užtikrintino saugumo lygio ir jas viešai skelbia savo interneto svetainėje.
 
-3. Iškilus elektroninių ryšių tinklo pavojingo ar didelio poveikio kibernetinio incidento, kaip jis suprantamas pagal Lietuvos Respublikos kibernetinio saugumo įstatymą ir jo įgyvendinamuosius teisės aktus, arba šio įstatymo 51 straipsnio 4 dalyje nurodyto vientisumo pažeidimo, kuris gali turėti didelę įtaką viešojo elektroninių ryšių tinklo veikimui arba viešųjų elektroninių ryšių paslaugų teikimui, grėsmei, viešojo elektroninių ryšių tinklo ir (arba) viešųjų elektroninių ryšių paslaugų teikėjas privalo informuoti abonentus ar registruotuosius viešųjų elektroninių ryšių paslaugų gavėjus apie tokią grėsmę ir tais atvejais, kai teikėjo taikomos priemonės nepanaikina grėsmės priežasčių, taip pat informuoti abonentus ar registruotuosius viešųjų elektroninių ryšių paslaugų gavėjus apie visas įmanomas saugos priemones ir nurodyti tikėtinas jų kainas.
+3. Neteko galios nuo 2024-10-18
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 4. Asmens duomenų saugumo pažeidimo atveju viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjas nedelsdamas privalo pranešti apie šį pažeidimą Valstybinei duomenų apsaugos inspekcijai. Tuo atveju, jeigu asmens duomenų saugumo pažeidimas gali turėti neigiamą poveikį abonento ar registruotojo viešųjų elektroninių ryšių paslaugų gavėjo arba kito asmens duomenų ar privatumo saugumui, viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjas taip pat privalo apie tai pranešti abonentui ar registruotajam viešųjų elektroninių ryšių paslaugų gavėjui arba kitam asmeniui, išskyrus atvejus, kai viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjas Valstybinei duomenų apsaugos inspekcijai įrodo, kad įgyvendino tinkamas technines priemones, kurios buvo taikomos saugumo pažeidimo paveiktiems asmens duomenims, ir jos užtikrina, kad tam neįgalioti asmenys negalėtų susipažinti su asmens duomenimis.
 
@@ -1424,9 +1442,17 @@ Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 
 86. Viešojo elektroninių ryšių tinklo galinis taškas (toliau – tinklo galinis taškas) – fizinės infrastruktūros vieta, kurioje suteikiama galimybė prijungti galutinio paslaugų gavėjo įrangą prie viešojo elektroninių ryšių tinklo. Tinkluose, kuriuose parenkamas maršrutas arba atliekamas komutavimas, tinklo galinis taškas identifikuojamas konkrečiu tinklo adresu, kuris gali būti susietas su galutinio paslaugų gavėjo ryšio numeriu arba pavadinimu.
 
-87. Viešojo elektroninių ryšių tinklo vientisumas – visuma techninių ir organizacinių priemonių, kuriomis siekiama išlaikyti viešojo elektroninių ryšių tinklo atsparumą veiksniams, ne kibernetinėje erdvėje keliantiems grėsmę šio tinklo netrikdomam veikimui ir (arba) šiuo tinklu teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamam teikimui.
+87. Neteko galios nuo 2024-10-18
 
-88. Viešojo elektroninių ryšių tinklo vientisumo pažeidimas (toliau – vientisumo pažeidimas) – viešojo elektroninių ryšių tinklo, jo dalies pažeidimas ar kiti veiksniai, nesusiję su įvykiu ar veika kibernetinėje erdvėje, sutrikdantys viešojo elektroninių ryšių tinklo veikimą ir (arba) šiuo tinklu teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamą teikimą.
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
+
+88. Neteko galios nuo 2024-10-18
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 89. Viešosios elektroninių ryšių paslaugos – viešai teikiamos elektroninių ryšių paslaugos.
 
@@ -1932,7 +1958,11 @@ Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
 
 9. Ryšių reguliavimo tarnybos įpareigojimai suteikti prieigą ir (arba) nustatytos prieigos suteikimo sąlygos turi būti objektyvios, skaidrios, proporcingos ir nediskriminacinės, o atitinkami sprendimai priimami vadovaujantis šio įstatymo 11 straipsnyje nustatytiems atvejams taikomomis taisyklėmis bei mutatis mutandis šio įstatymo 16 straipsnio 12 ir 14–18 dalyse nustatytomis taisyklėmis. Ryšių reguliavimo tarnyba ne vėliau kaip per 5 metus nuo sprendimo įpareigoti suteikti prieigą priėmimo dienos įvertina įpareigojimo taikymo rezultatus ir vadovaudamasi šio įstatymo 11 straipsnyje nustatytiems atvejams taikomomis taisyklėmis bei mutatis mutandis šio įstatymo 16 straipsnio 12 ir 14–18 dalyse nustatytomis taisyklėmis nusprendžia, ar juos panaikinti ir (arba) pakeisti.
 
-10. Šio straipsnio 2 dalyje nurodytu atveju ūkio subjektas gali atsisakyti suteikti prieigą, vienašališkai sustabdyti jos teikimą ar ją nutraukti tik tais atvejais, kai tai yra pagrįsta objektyviais kriterijais, įskaitant techninių galimybių nebuvimą arba būtinybę užtikrinti tinklo vientisumą.
+10. Šio straipsnio 2 dalyje nurodytu atveju ūkio subjektas gali atsisakyti suteikti prieigą, vienašališkai sustabdyti jos teikimą ar ją nutraukti tik tais atvejais, kai tai yra pagrįsta objektyviais kriterijais, įskaitant techninių galimybių nebuvimą arba būtinybę užtikrinti tinklo saugumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 11. Ūkio subjektai privalo užtikrinti, kad prieš derybas dėl prieigos, šių derybų metu ir vėliau iš kitų ūkio subjektų gauta informacija, išskyrus informaciją, kuri šiame įstatyme nustatyta tvarka, atvejais ir sąlygomis negali būti konfidenciali, būtų naudojama tik tam tikslui, kuriam ji buvo suteikta, ir būtų užtikrintas perduodamos ar saugomos informacijos konfidencialumas. Tokia informacija negali būti perduodama jokioms kitoms šalims, ypač kitiems ūkio subjekto padaliniams, dukterinėms įmonėms ar partneriams, kuriems tokia informacija galėtų suteikti konkurencinį pranašumą. Ryšių reguliavimo tarnyba gali nustatyti taisykles, detalizuojančias šiuos reikalavimus užtikrinančias priemones.
 
@@ -2094,7 +2124,11 @@ Nr. XIV-2386, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25336
 
 2) sutarties dėl bendro infrastruktūros naudojimo sudarymas ir (arba) jos vykdymas pažeistų teisės aktų, reglamentuojančių elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros įrengimą ir (arba) naudojimą, reikalavimus;
 
-3) sutarties dėl bendro infrastruktūros naudojimo sudarymas ir (arba) jos vykdymas sukeltų grėsmę viešųjų elektroninių ryšių tinklų saugumui ir (arba) vientisumui, visuomenės saugumui ir (arba) sveikatai;
+3) sutarties dėl bendro infrastruktūros naudojimo sudarymas ir (arba) jos vykdymas sukeltų grėsmę viešųjų elektroninių ryšių tinklų saugumui, visuomenės saugumui ir (arba) sveikatai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 4) elektroninių ryšių infrastruktūroje ir (arba) tinkamos paskirties fizinėje infrastruktūroje nėra pakankamai vietos infrastruktūros naudotojo elektroninių ryšių infrastruktūrai įrengti ir nėra galimybės pakeisti seną ir nenaudojamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą ar ją išmontuoti, kad atsirastų pakankamai vietos infrastruktūros naudotojo elektroninių ryšių infrastruktūrai įrengti. Infrastruktūros naudotojo kabeliams nutiesti reikalingas infrastruktūros valdytojo, valdančio elektroninių ryšių infrastruktūrą, vamzdžio vidinis skersmuo apskaičiuojamas šio straipsnio 7 dalyje nurodytų taisyklių nustatyta tvarka ir sąlygomis;
 
@@ -2118,7 +2152,11 @@ Nr. XIV-2386, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25336
 
 10. Valstybės ar savivaldybių institucijos, įstaigos ir įmonės, valdančios ir (arba) tvarkančios informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą, privalo infrastruktūros naudotojų prašymu pateikti jiems ne elektroniniu būdu valdomą ir (arba) tvarkomą informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą (infrastruktūros rūšį, įrengimo vietą, maršrutą, užpildymą ir kitą informaciją).
 
-11. Šio straipsnio 9 ir 10 dalys netaikomos informacijai, kurios pateikimas galėtų sukelti ar sukels grėsmę nacionaliniam saugumui, elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros saugumui ir (arba) vientisumui, visuomenės saugumui ir (arba) sveikatai. Atsisakymas infrastruktūros naudotojui pateikti šio straipsnio 9 ir (arba) 10 dalyse nurodytą informaciją turi būti motyvuotas ir pagrįstas.
+11. Šio straipsnio 9 ir 10 dalys netaikomos informacijai, kurios pateikimas galėtų sukelti ar sukels grėsmę nacionaliniam saugumui, elektroninių ryšių infrastruktūros ir (arba) tinkamos paskirties fizinės infrastruktūros saugumui, visuomenės saugumui ir (arba) sveikatai. Atsisakymas infrastruktūros naudotojui pateikti šio straipsnio 9 ir (arba) 10 dalyse nurodytą informaciją turi būti motyvuotas ir pagrįstas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 12. Infrastruktūros naudotojai, gavę šio straipsnio 9 ir (arba) 10 dalyse nurodytą informaciją, privalo užtikrinti informacijos konfidencialumą, išskyrus informaciją, kuri šiame įstatyme nustatyta tvarka, atvejais ir sąlygomis negali būti konfidenciali.
 
@@ -2412,7 +2450,11 @@ INFORMACIJOS GAVIMAS IR ŠIO ĮSTATYMO LAIKYMOSI PRIEŽIŪRA
 
 8) galimybės bendrai naudoti elektroninių ryšių infrastruktūrą įvertinimu, elektroninių ryšių infrastruktūros pobūdžio, prieinamumo ir geografinės buvimo vietos išsamaus sąrašo sudarymu;
 
-9) viešųjų elektroninių ryšių tinklų vientisumo ir (arba) šiais tinklais teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamo teikimo įvertinimu;
+9) viešųjų elektroninių ryšių paslaugų nepertraukiamo teikimo įvertinimu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 10) efektyvaus ryšio numerių, radijo dažnių (kanalų) naudojimo sąlygų, įskaitant radijo dažnių (kanalų) naudojimo sąlygas, susijusias su elektroninių ryšių paslaugų aprėptimi ir kokybės reikalavimais, laikymusi bei veiksmingo ryšio numerių, radijo dažnių (kanalų) valdymo užtikrinimu;
 
@@ -2838,7 +2880,11 @@ Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 
 4. Jeigu informacija, dėl kurios duodamas privalomas nurodymas, yra neskelbtina informacija pagal Visuomenės informavimo įstatymo 19 straipsnio 1 dalies 1 ir 3 punktus, Institucija nedelsdama apie tai praneša viešosios informacijos rengėjui ir (ar) skleidėjui, reikalaudama šią informaciją nedelsiant pašalinti arba panaikinti galimybę ją pasiekti. Jeigu viešosios informacijos rengėjas ir (ar) skleidėjas savanoriškai per 8 valandas nuo šio pranešimo gavimo nepašalina šios informacijos arba nepanaikina galimybės ją pasiekti arba jeigu per 8 valandas nuo pažeidimo pastebėjimo momento nėra galimybės nustatyti viešosios informacijos rengėjo ir (ar) skleidėjo, Institucija duoda motyvuotus privalomus nurodymus elektroninės informacijos prieglobos paslaugų, viešųjų elektroninių ryšių tinklų, viešųjų elektroninių ryšių paslaugų teikėjams ir (ar) .lt domeno administratoriui panaikinti galimybę ją pasiekti ne ilgiau kaip 72 valandoms, o motyvuotus privalomus nurodymus pašalinti šią informaciją arba panaikinti galimybę ją pasiekti ilgiau kaip 72 valandoms – su šio straipsnio 2 dalyje nustatyta tvarka gautu teismo leidimu.
 
-5. Institucija, davusi privalomus nurodymus blokuoti interneto domeno vardą, identifikuojantį interneto svetainę ar jos kopiją, privalomų nurodymų davimo dieną įtraukia šį interneto domeno vardą į interneto domenų vardų, naudojamų vykdant veiklą, kuria pažeidžiami teisės aktų reikalavimai, sąrašą vadovaudamasi Kibernetinio saugumo įstatymo 131 straipsniu.
+5. Institucija, davusi privalomus nurodymus blokuoti interneto domeno vardą, identifikuojantį interneto svetainę ar jos kopiją, privalomų nurodymų davimo dieną įtraukia šį interneto domeno vardą į interneto domenų vardų, naudojamų vykdant veiklą, kuria pažeidžiami teisės aktų reikalavimai, sąrašą vadovaudamasi Kibernetinio saugumo įstatymo 19 straipsnio 3 dalimi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 6. Privalomi nurodymai .lt domeno administratoriui duodami tais atvejais, kai kiti elektroninės informacijos prieglobos paslaugų, viešųjų elektroninių ryšių tinklų, viešųjų elektroninių ryšių paslaugų teikėjų atliekami informacijos pasiekiamumo ribojimai yra nepakankami. Požymiai, pagal kuriuos nustatoma, kad elektroninės informacijos prieglobos paslaugų, viešųjų elektroninių ryšių tinklų, viešųjų elektroninių ryšių paslaugų teikėjų atliekami informacijos pasiekiamumo ribojimai yra nepakankami, nustatomi šio straipsnio 8 dalyje nurodyta tvarka.
 
@@ -2988,7 +3034,11 @@ Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 
 13. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771.
 
-14. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija).
+14. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija), su pakeitimais, padarytais 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2555.
+
+Punkto pakeitimai:
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 15. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1971, kuriuo įsteigiama Europos elektroninių ryšių reguliuotojų institucija (BEREC) ir BEREC paramos agentūra (BEREC biuras), iš dalies keičiamas Reglamentas (ES) 2015/2120 ir panaikinamas Reglamentas (EB) Nr. 1211/2009.
 
@@ -3289,4 +3339,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2386, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25336
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 40 ir 78 straipsnių pakeitimo įstatymas
+
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3 ir 42 straipsnių pakeitimo įstatymas
+
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 8, 23, 36, 44, 45, 51, 74, 82, 98 straipsnių ir priedo pakeitimo įstatymas
 
