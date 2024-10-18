@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2024-10-10"
+last_updated: "2024-10-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2024-10-10 iki 2024-10-17
+Suvestinė redakcija nuo 2024-10-18
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -36,11 +36,13 @@ Vilnius
 
 1 straipsnis. Įstatymo tikslas ir taikymas
 
-1. Šio įstatymo tikslas – užtikrinti, kad valstybės nacionaliniam saugumui užtikrinti svarbūs objektai (įmonės, įrenginiai ir turtas bei ūkio sektoriai) ir nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto apsaugos zonose (toliau – apsaugos zonos) esantis turtas ir teritorija bei ypatingos svarbos informacinės infrastruktūros valdytojų sandoriai būtų apsaugoti nuo visų galinčių kelti grėsmę nacionalinio saugumo interesams rizikos veiksnių, ir šalinti tokių veiksnių atsiradimo priežastis ir sąlygas.
+1. Šio įstatymo tikslas – užtikrinti, kad valstybės nacionaliniam saugumui užtikrinti svarbūs objektai (įmonės, įrenginiai ir turtas bei ūkio sektoriai) ir nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto apsaugos zonose (toliau – apsaugos zonos) esantis turtas ir teritorija bei esminių kibernetinio saugumo subjektų, nurodytų Lietuvos Respublikos kibernetinio saugumo įstatyme, (toliau – esminis subjektas) sandoriai būtų apsaugoti nuo visų galinčių kelti grėsmę nacionalinio saugumo interesams rizikos veiksnių, ir šalinti tokių veiksnių atsiradimo priežastis ir sąlygas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+
+Nr. XIV-2906, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13541
 
 2. Įtraukiant įmones, įrenginius ir turtą į nacionaliniam saugumui užtikrinti svarbių įmonių sąrašus ir Nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto sąrašą, vertinamos grėsmės, pavojai ir rizikos veiksniai nacionalinio saugumo interesams, kaip tai suprantama Lietuvos Respublikos Seimo patvirtintoje Nacionalinio saugumo strategijoje.
 
@@ -138,13 +140,15 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
-15. Šiame įstatyme vartojama sąvoka „sutartinai veikiantys asmenys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme, sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos konkurencijos įstatyme, sąvoka „ypatingos svarbos informacinės infrastruktūros valdytojas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos kibernetinio saugumo įstatyme, sąvoka „subtiekėjas“ suprantama taip, kaip ji vartojama Lietuvos Respublikos viešųjų pirkimų įstatyme ir Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme.
+15. Šiame įstatyme vartojama sąvoka „sutartinai veikiantys asmenys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme, sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos konkurencijos įstatyme, sąvoka „kibernetinio saugumo subjektas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos kibernetinio saugumo įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+
+Nr. XIV-2906, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13541
 
 3 straipsnis. Nacionaliniam saugumui užtikrinti svarbūs įrenginiai ir turtas
 
@@ -464,7 +468,7 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 13 straipsnis. Sandorių atitikties nacionalinio saugumo interesams patikra
 
-1. Nacionaliniam saugumui užtikrinti svarbios įmonės Komisijos darbo tvarkos apraše nustatyta tvarka privalo pranešti Komisijai apie ketinamus sudaryti sandorius ar jau sudarytų sandorių pakeitimus (išskyrus išimtinai techninio (redakcinio) pobūdžio pakeitimus), kai sandorio vertė viršija 10 procentų praėjusių finansinių metų metinių įmonės pajamų, išskyrus šio straipsnio 8 dalyje nurodytus sandorius. Šioje dalyje nurodyta sandorio vertė skaičiuojama be pridėtinės vertės mokesčio. Apie sandorio sudarymą taip pat privalo pranešti ypatingos svarbos informacinės infrastruktūros valdytojai pagal Viešųjų pirkimų įstatymą ar Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymą, neatsižvelgdami į sandorio vertę, jeigu konkurso metu buvo keliami reikalavimai dėl tiekėjų, subtiekėjų, prekių, paslaugų ar darbų atitikties nacionalinio saugumo interesams. Nacionaliniam saugumui užtikrinti svarbios įmonės Komisijos darbo tvarkos apraše nustatyta tvarka privalo pranešti Komisijai apie ketinamus sudaryti sandorius, nurodytus Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo 4 straipsnio 4 dalyje, ar tokių jau sudarytų sandorių pakeitimus (išskyrus išimtinai techninio (redakcinio) pobūdžio pakeitimus), neatsižvelgdamos į sandorio vertę.
+1. Nacionaliniam saugumui užtikrinti svarbios įmonės Komisijos darbo tvarkos apraše nustatyta tvarka privalo pranešti Komisijai apie ketinamus sudaryti sandorius ar jau sudarytų sandorių pakeitimus (išskyrus išimtinai techninio (redakcinio) pobūdžio pakeitimus), kai sandorio vertė viršija 10 procentų praėjusių finansinių metų metinių įmonės pajamų, išskyrus šio straipsnio 8 dalyje nurodytus sandorius. Šioje dalyje nurodyta sandorio vertė skaičiuojama be pridėtinės vertės mokesčio. Apie sandorio sudarymą taip pat privalo pranešti esminiai subjektai pagal Viešųjų pirkimų įstatymą ar Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymą, neatsižvelgdami į sandorio vertę, jeigu konkurso metu buvo keliami reikalavimai dėl tiekėjų, subtiekėjų, prekių, paslaugų ar darbų atitikties nacionalinio saugumo interesams. Nacionaliniam saugumui užtikrinti svarbios įmonės Komisijos darbo tvarkos apraše nustatyta tvarka privalo pranešti Komisijai apie ketinamus sudaryti sandorius, nurodytus Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo 4 straipsnio 4 dalyje, ar tokių jau sudarytų sandorių pakeitimus (išskyrus išimtinai techninio (redakcinio) pobūdžio pakeitimus), neatsižvelgdamos į sandorio vertę.
 
 Straipsnio dalies pakeitimai:
 
@@ -472,23 +476,31 @@ Nr. XIV-668, 2021-11-18, paskelbta TAR 2021-12-03, i. k. 2021-25102
 
 Nr. XIV-957, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05379
 
+Nr. XIV-2906, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13541
+
 2. Pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės taip pat privalo informuoti Komisiją apie ketinamus sudaryti sandorius, kai sandorio šaliai sandorio pagrindu yra suteikiamos šio straipsnio 4 dalies 1 punkte, o subtiekėjui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytos teisės, išskyrus šio straipsnio 8 dalyje nurodytus sandorius. Kreipdamosi į Komisiją dėl šioje dalyje nurodytų ketinamų sudaryti sandorių pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės Komisijai privalo pateikti vertinimą, pagrindžiantį, kad ketinamu sudaryti sandoriu sandorio šaliai yra suteikiamos šio straipsnio 4 dalies 1 punkte, o subtiekėjui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytos teisės, ir kitą Komisijos darbo tvarkos apraše nustatytą informaciją.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
 
-3. Komisija, gavusi šio straipsnio 1, 2 ar 7 dalyje nurodytą pranešimą, ne vėliau kaip per 10 darbo dienų jį apsvarsto ir informuoja nacionaliniam saugumui užtikrinti svarbią įmonę, ypatingos svarbos informacinės infrastruktūros valdytoją arba atitinkamai šio įstatymo 12 straipsnio 4 dalyje nurodytą subjektą, ar ketina pradėti sandorio patikrą. Jeigu Komisija nustato, kad šioje dalyje nurodytam sprendimui priimti reikia gauti ar išnagrinėti papildomą informaciją iš nacionaliniam saugumui užtikrinti svarbios įmonės, valstybės ar savivaldybių institucijų ar kitų asmenų, ji ne vėliau kaip kitą darbo dieną kreipiasi į šiuos subjektus dėl papildomos informacijos gavimo ir nurodo, kad asmuo per 10 darbo dienų nuo tokio pranešimo gavimo dienos turi pateikti Komisijos prašomą informaciją. Komisija, gavusi šioje dalyje nurodytą informaciją, ne vėliau kaip per 8 darbo dienas turi nuspręsti, ar ketina pradėti sandorio patikrą. Komisijai nusprendus pradėti sandorio patikrą, iki galutinio sprendimo dėl sandorio atitikties nacionalinio saugumo interesams priėmimo planuojamas sudaryti sandoris negali būti sudaromas, o jau sudaryto sandorio vykdymas sustabdomas, nebent Komisija sprendime dėl patikros pradėjimo nurodo kitaip. Jeigu Komisija patikros nepradeda, laikoma, kad sandoris, dėl kurio buvo kreiptasi, gali būti sudaromas.
+3. Komisija, gavusi šio straipsnio 1, 2 ar 7 dalyje nurodytą pranešimą, ne vėliau kaip per 10 darbo dienų jį apsvarsto ir informuoja nacionaliniam saugumui užtikrinti svarbią įmonę, esminį subjektą arba atitinkamai šio įstatymo 12 straipsnio 4 dalyje nurodytą subjektą, ar ketina pradėti sandorio patikrą. Jeigu Komisija nustato, kad šioje dalyje nurodytam sprendimui priimti reikia gauti ar išnagrinėti papildomą informaciją iš nacionaliniam saugumui užtikrinti svarbios įmonės, valstybės ar savivaldybių institucijų ar kitų asmenų, ji ne vėliau kaip kitą darbo dieną kreipiasi į šiuos subjektus dėl papildomos informacijos gavimo ir nurodo, kad asmuo per 10 darbo dienų nuo tokio pranešimo gavimo dienos turi pateikti Komisijos prašomą informaciją. Komisija, gavusi šioje dalyje nurodytą informaciją, ne vėliau kaip per 8 darbo dienas turi nuspręsti, ar ketina pradėti sandorio patikrą. Komisijai nusprendus pradėti sandorio patikrą, iki galutinio sprendimo dėl sandorio atitikties nacionalinio saugumo interesams priėmimo planuojamas sudaryti sandoris negali būti sudaromas, o jau sudaryto sandorio vykdymas sustabdomas, nebent Komisija sprendime dėl patikros pradėjimo nurodo kitaip. Jeigu Komisija patikros nepradeda, laikoma, kad sandoris, dėl kurio buvo kreiptasi, gali būti sudaromas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-957, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05379
 
+Nr. XIV-2906, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13541
+
 4. Komisijos atliekama sandorio patikra susideda iš:
 
 1) vertinimo pagal toliau nurodytus kriterijus, ar:
 
-a) sandorio šaliai sandorio pagrindu yra suteikiama teisė aptarnauti, gauti prieigą ar kitaip susipažinti su ypatingos svarbos informacinės infrastruktūros valdytojo ar įmonės saugumo planuose ar kituose ypatingos svarbos informacinės infrastruktūros valdytojo ar įmonės vidaus dokumentuose nustatytomis ryšių ir informacinėmis sistemomis (ar jų dalimis), kurios yra reikšmingos ypatingos svarbos informacinės infrastruktūros valdytojo ar įmonės veiklai, šių ryšių ir informacinių sistemų (ar jų dalių) technologijomis, duomenų bazėmis ar jose esamais duomenimis arba kai yra rizika, kad prie tokių ryšių ir informacinių sistemų (jų dalių) gali gauti prieigą tretieji asmenys arba jiems būtų suteikta teisė aptarnauti ar kitaip susipažinti su tokiomis ryšių ir informacinėmis sistemomis (jų dalimis);
+a) sandorio šaliai sandorio pagrindu yra suteikiama teisė aptarnauti, gauti prieigą ar kitaip susipažinti su esminio subjekto ar įmonės saugumo planuose ar kituose esminio subjekto ar įmonės vidaus dokumentuose nustatytomis ryšių ir informacinėmis sistemomis (ar jų dalimis), kurios yra reikšmingos esminio subjekto ar įmonės veiklai, šių ryšių ir informacinių sistemų (ar jų dalių) technologijomis, duomenų bazėmis ar jose esamais duomenimis arba kai yra rizika, kad prie tokių ryšių ir informacinių sistemų (jų dalių) gali gauti prieigą tretieji asmenys arba jiems būtų suteikta teisė aptarnauti ar kitaip susipažinti su tokiomis ryšių ir informacinėmis sistemomis (jų dalimis);
+
+Papunkčio pakeitimai:
+
+Nr. XIV-2906, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13541
 
 b) sandorio šaliai sandorio pagrindu yra suteikiama teisė dalyvauti įgyvendinant ypatingos valstybinės svarbos projektą ar valstybei svarbų projektą;
 
@@ -568,13 +580,19 @@ Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
 
 9. Vyriausybės sprendimas, patvirtinantis, kad ketinamas sudaryti sandoris neatitinka nacionalinio saugumo interesų, reiškia, kad toks sandoris negali būti sudarytas tol, kol nebus pašalintos Vyriausybės sprendime nurodytos nacionalinio saugumo interesams grėsmę keliančios priežastys, jeigu tokios priežastys gali būti pašalintos, ir Vyriausybė, prieš tai gavusi naują Komisijos išvadą, nepriims naujo sprendimo, patvirtinančio sandorio atitiktį nacionalinio saugumo interesams. Vyriausybės sprendimas, patvirtinantis, kad sudarytas sandoris neatitinka nacionalinio saugumo interesų, reiškia, kad toks sandoris prieštarauja nacionalinio saugumo interesams, yra neteisėtas ir negalioja nuo Vyriausybės sprendimo, patvirtinančio, kad sudarytas sandoris neatitinka nacionalinio saugumo interesų, įsigaliojimo momento, o jeigu sandoris buvo sudarytas nevykdant šio straipsnio 1 ir 2 dalyse nurodytos prievolės arba buvo sudarytas sandorio patikros metu, – nuo sandorio sudarymo momento.
 
-10. Su sandorio šalimi ar subtiekėju, pripažintu neatitinkančiu nacionalinio saugumo interesų, nacionaliniam saugumui užtikrinti svarbios įmonės ir ypatingos svarbos informacinės infrastruktūros valdytojai negali sudaryti sandorių, suteikiančių sandorio šaliai šio straipsnio 4 dalies 1 punkte, o subtiekėjui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytas teises, kol sandorio šalis ar subtiekėjas nepateiks informacijos, kad aplinkybės, dėl kurių jis buvo pripažintas neatitinkančiu nacionalinio saugumo interesų, išnyko ar buvo pašalintos.
+10. Su sandorio šalimi ar trečiuoju asmeniu, pripažintu neatitinkančiu nacionalinio saugumo interesų, nacionaliniam saugumui užtikrinti svarbios įmonės ir esminis subjektas negali sudaryti sandorių, suteikiančių sandorio šaliai šio straipsnio 4 dalies 1 punkte, o trečiajam asmeniui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytas teises, kol sandorio šalis ar trečiasis asmuo nepateiks informacijos, kad aplinkybės, dėl kurių jis buvo pripažintas neatitinkančiu nacionalinio saugumo interesų, išnyko ar buvo pašalintos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
 
-11. Nacionaliniam saugumui užtikrinti svarbios įmonės ir ypatingos svarbos informacinės infrastruktūros valdytojai, atlikdami pirkimus, kurių vertė ar objektas atitinka šio straipsnio 1 ar 2 dalį, pirkimo dokumentuose turi nurodyti, kad nacionaliniam saugumui užtikrinti svarbi įmonė ir ypatingos svarbos informacinės infrastruktūros valdytojas kreipsis į Komisiją dėl ketinamo sudaryti sandorio atitikties nacionalinio saugumo interesams patikros ir tuo atveju, jeigu Komisija pareikalaus pateikti papildomus dokumentus ir iš kitos ketinamo sudaryti sandorio šalies, ji privalės juos pateikti.
+Nr. XIV-2906, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13541
+
+11. Nacionaliniam saugumui užtikrinti svarbios įmonės ir esminiai subjektai, atlikdami pirkimus, kurių vertė ar objektas atitinka šio straipsnio 1 ar 2 dalį, pirkimo dokumentuose turi nurodyti, kad nacionaliniam saugumui užtikrinti svarbi įmonė ir esminis subjektas kreipsis į Komisiją dėl ketinamo sudaryti sandorio atitikties nacionalinio saugumo interesams patikros, ir tuo atveju, jeigu Komisija pareikalaus pateikti papildomus dokumentus ir iš kitos ketinamo sudaryti sandorio šalies, ji privalės juos pateikti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2906, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13541
 
 12. Šio straipsnio 1 dalis netaikoma valstybės įmonei Ignalinos atominei elektrinei.
 
@@ -720,7 +738,11 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 18 straipsnis. Nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto sauga
 
-1. Vyriausybė arba jos įgaliota institucija, įvertinusi juridinių asmenų veiklos ir įrenginių paskirties bei naudojimo ypatumus, nustato nacionaliniam saugumui užtikrinti svarbių įmonių, nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto fizinės ir veiklos apsaugos ir (arba) kibernetinio saugumo reikalavimus, kiek jų nereglamentuoja Lietuvos Respublikos kibernetinio saugumo įstatymas.
+1. Vyriausybė arba jos įgaliota institucija, įvertinusi juridinių asmenų veiklos ir įrenginių paskirties bei naudojimo ypatumus, nustato nacionaliniam saugumui užtikrinti svarbių įmonių, nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto fizinės ir veiklos apsaugos ir (arba) kibernetinio saugumo reikalavimus, kiek jų nereglamentuoja Kibernetinio saugumo įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2906, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13541
 
 2. Branduolinės energetikos objektams taikomi Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme, Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme nustatyti saugos reikalavimai.
 
@@ -1349,6 +1371,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
 
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 2, 13 ir 19 straipsnių pakeitimo įstatymas
+
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2906, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13541
+
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 1, 2, 13 ir 18 straipsnių pakeitimo įstatymas
 
 121 straipsnis. Asmenų, kurie siekia vykdyti (vykdo) veiklą nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje, kuri įstatymu yra pripažinta keliančia grėsmę nacionaliniam saugumui, atitikties nacionalinio saugumo interesams patikra
 
