@@ -4,7 +4,7 @@ identifier: "TAR.4CF08CA2BA45"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-10"
-last_updated: "2024-04-24"
+last_updated: "2024-10-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4CF08CA2BA45"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-04-24 iki 2024-10-24
+Suvestinė redakcija nuo 2024-10-25
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
 
@@ -1155,7 +1155,7 @@ KREDITORIŲ REIKALAVIMŲ TENKINIMAS IR FIZINIO ASMENS BANKROTO PROCESO PABAIGA
 
 7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo 30 straipsnio 3 dalies 2 punkte nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl nusikalstama veika padarytos žalos atlyginimo, lėšų vaikui (įvaikiui) išlaikyti (alimentų) ir reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius nusižengimus, arba nusikalstamas veikas, kitų įstatymų pažeidimus, įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir fizinis asmuo susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo 4 straipsnio 4 dalies 10 punkte nurodytame susitarime susitarta kitaip.
 
-TAR pastaba: Pripažinti, kad Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 5, 6, 7, 8, 14, 21, 23, 25, 29, 30, 31 straipsnių ir priedo pakeitimo įstatymo (TAR, 2021-07-08, Nr. 15469) 13 straipsnio 5 dalis tiek, kiek pagal ją Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies (2021 m. birželio 29 d. redakcija) nuostata, pagal kurią baigus fizinio asmens bankroto procesą nenurašomi reikalavimai, kylantys iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus kitų įstatymų pažeidimus, taikoma iki šio įstatymo įsigaliojimo pradėtiems ir nebaigtiems fizinių asmenų bankrotams, prieštarauja konstituciniam teisinės valstybės principui.
+TAR pastaba. Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalis, išskyrus nuostatą, kad negali būti nurašomi reikalavimai, kylantys iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus kitų įstatymų pažeidimus, taikoma ir fizinių asmenų bankrotams, pradėtiems ir nebaigtiems iki 2021-06-29 įstatymo Nr. XIV-451 įsigaliojimo dienos (2021-07-15).
 
 Straipsnio dalies pakeitimai:
 
@@ -1164,6 +1164,8 @@ Nr. KT74-N7/2021, 2021-05-19, paskelbta TAR 2021-05-19, i. k. 2021-11041
 Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
 Nr.  KT36-N5/2024, 2024-04-24, paskelbta TAR 2024-04-24, i. k. 2024-07473
+
+Nr. XIV-3023, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18463
 
 8. Šio straipsnio 3 dalyje nurodytų kreditorių reikalavimai, susiję su darbo santykiais gali būti tenkinami iš Garantinio fondo lėšų. Šiuo atveju kreditoriaus patvirtinti reikalavimai, susiję su darbo santykiais, mažinami iš Garantinio fondo sumokėtos sumos dydžiu.
 
@@ -1378,6 +1380,14 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr.  KT36-N5/2024, 2024-04-24, paskelbta TAR 2024-04-24, i. k. 2024-07473
 
 Dėl Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies (2021 m. birželio 29 d. redakcija), Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 5, 6, 7, 8, 14, 21, 23, 25, 29, 30, 31 straipsnių ir priedo pakeitimo įstatymo 13 straipsnio 5 dalies atitikties Lietuvos Respublikos Konstitucijai
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3023, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18463
+
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 5, 6, 7, 8, 14, 21, 23, 25, 29, 30, 31 straipsnių ir priedo pakeitimo įstatymo Nr. XIV-451 13 straipsnio pakeitimo įstatymas
 
 41 straipsnis. Fizinių asmenų bankrotas pagal vieną bylą
 
