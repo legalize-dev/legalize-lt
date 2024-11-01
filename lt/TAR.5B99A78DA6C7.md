@@ -4,7 +4,7 @@ identifier: "TAR.5B99A78DA6C7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-04"
-last_updated: "2024-01-01"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5B99A78DA6C7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos maisto įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-12
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-893, i. k. 1001010ISTAIII-1608
 
@@ -54,11 +54,23 @@ Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
 
 2) maistas atitiktų tarptautinius laisvam prekių judėjimui keliamus reikalavimus ir Lietuvos maisto gamintojas galėtų plėsti savo prekių eksportą į kitas šalis, o Lietuvoje pagamintas maistas galėtų lengviau konkuruoti tarptautinėje rinkoje;
 
-3) būtų skatinama ekologiškų žemės ūkio produktų gamyba, sveikesnė Lietuvos gyventojų mityba, gerinama su maistu ir mityba susijusi žmonių sveikata.
+3) būtų skatinama ekologiškų žemės ūkio produktų gamyba, sveikesnė Lietuvos gyventojų mityba, gerinama su maistu ir mityba susijusi žmonių sveikata;
+
+4) būtų skatinamas maisto švaistymo mažinimas ir labdarai ir (ar) paramai skirto maisto saugus perdavimas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Energinis gėrimas – nealkoholinis gėrimas, kuriame yra daugiau kaip 150 mg/l kofeino, nesvarbu, iš kokio šaltinio, arba kuriame yra daugiau kaip 150 mg/l kofeino ir vienos ar kelių kitų centrinę nervų sistemą stimuliuojančių medžiagų (gliukurono laktono, inozitolio, guaranino, ginsenozidų, ginkmedžių ekstrakto, taurino ar kt.). Energiniame gėrime gali būti ir angliavandenių, vitaminų, mineralinių medžiagų, amino rūgščių, maisto priedų, vaisių sulčių ar augalų ekstraktų.
+
+11. Didelę rinkos galią turinti mažmeninės prekybos įmonė (toliau – mažmeninės prekybos įmonė) – kaip apibrėžta Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo 2 straipsnio 1 dalyje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 
 2. Galutinis vartotojas (toliau – vartotojas) – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 18 dalyje.
 
@@ -93,6 +105,12 @@ Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
 17. Maisto tvarkymo vieta – viešųjų ar privačių juridinių asmenų vieta (įskaitant teritoriją, statinius ir transporto priemones), kurioje tvarkomas maistas.
 
 18. Minimalus maisto produkto tinkamumo vartoti terminas – kaip apibrėžta 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1169/2011 dėl informacijos apie maistą teikimo vartotojams, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 1924/2006 ir (EB) Nr. 1925/2006 bei kuriuo panaikinami Komisijos direktyva 87/250/EEB, Tarybos direktyva 90/496/EEB, Komisijos direktyva 1999/10/EB, Europos Parlamento ir Tarybos direktyva 2000/13/EB, Komisijos direktyvos 2002/67/EB ir 2008/5/EB bei Komisijos reglamentas (EB) Nr. 608/2004, su visais pakeitimais 2 straipsnio 2 dalies r punkte.
+
+181. Paramos gavėjai – paramos gavėjo statusą turintys juridiniai asmenys, nurodyti Lietuvos Respublikos labdaros ir paramos įstatymo 7 straipsnio 1 dalyje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 
 19. Pašalinimas iš rinkos – priemonės, kurias taikydamas maisto tvarkymo subjektas ar su maistu besiliečiančių gaminių ir medžiagų gamintojas ir (ar) tiekėjas išima iš rinkos pateiktą (pateiktus) nesaugų (nesaugius) ir nekontroliuojamą (nekontroliuojamus) maistą ar su maistu besiliečiančius gaminius ir medžiagas, išskyrus maistą ar su maistu besiliečiantį (besiliečiančius) gaminį (gaminius) ar medžiagą (medžiagas), kurį (kuriuos) jau turi vartotojai.
 
@@ -204,11 +222,15 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
 
-4. Maistas, kuris neatitinka maisto srities ir kitų teisės aktų reikalavimų, tačiau yra saugus ir tinkamas vartoti, gali būti perduotas labdarai ir (ar) paramai Valstybinės maisto ir veterinarijos tarnybos direktoriaus nustatyta tvarka.
+4. Maistas, kuris neatitinka maisto srities ir kitų teisės aktų reikalavimų, tačiau yra saugus ir tinkamas vartoti, gali būti perduotas labdarai ir (ar) paramai Valstybinės maisto ir veterinarijos tarnybos direktoriaus nustatyta tvarka. Visos mažmeninės prekybos įmonės su vienu ar keliais paramos gavėjais privalo sudaryti sutartis, kuriose būtų nustatoma pasiūlymo perduoti labdarai ir (ar) paramai skirtą maistą teikimo ir tokio maisto perdavimo tvarka ir sąlygos. Mažmeninės prekybos įmonės gali atsisakyti teikti labdarai ir (ar) paramai skirtą maistą, atsižvelgdamos į sutartyje nurodytą minimalų tokio maisto kiekį ir galimybes užtikrinti šio maisto saugos reikalavimus, o paramos gavėjai, atsižvelgdami į labdarai ir (ar) paramai skirto maisto poreikį ir galimybes (logistikos sąlygas, turimus išteklius ir kita) užtikrinti labdarai ir (ar) paramai skirto maisto saugos reikalavimus, gali atsisakyti priimti mažmeninės prekybos įmonės teikiamą pasiūlymą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 
 5. Maistas, kuris pasibaigus minimaliam maisto produkto tinkamumo vartoti terminui, nurodytam žymoje „Geriausias iki...“ (toliau – pasibaigusio minimalaus maisto produkto tinkamumo vartoti termino maistas) yra saugus ir tinkamas vartoti, gali būti parduotas galutiniam vartotojui Lietuvos Respublikos Vyriausybės patvirtintose mažmeninės prekybos taisyklėse nustatyta tvarka ir atsižvelgiant į Vyriausybės įgaliotos institucijos patvirtintas rekomendacijas, išskyrus šio įstatymo 62 straipsnyje nurodytus atvejus. Už tokio maisto saugą ir kokybę šio įstatymo nustatyta tvarka atsako pardavėjas.
 
@@ -410,11 +432,21 @@ Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010IS
 
 Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
 
-6. Maisto kontrolės, teisėsaugos ir kitos valstybės institucijos, siekdamos užkirsti kelią maisto klastojimui, pagal kompetenciją koordinuoja savo veiksmus, bendradarbiauja ir keičiasi informacija teisės aktų nustatyta tvarka.
+6. Žemės ūkio agentūra prie Žemės ūkio ministerijos (toliau – Žemės ūkio agentūra) yra atsakinga už šio įstatymo 4 straipsnio 4 dalyje nurodytų maisto perdavimo paramos gavėjams sutarčių sudarymo priežiūrą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
+
+7. Maisto kontrolės, teisėsaugos ir kitos valstybės institucijos, siekdamos užkirsti kelią maisto klastojimui, pagal kompetenciją koordinuoja savo veiksmus, bendradarbiauja ir keičiasi informacija teisės aktų nustatyta tvarka.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 
 Straipsnio pakeitimai:
 
@@ -562,11 +594,13 @@ Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
 
 KETVIRTASIS1 SKIRSNIS
 
-ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO NUOSTATŲ DĖL MAISTO AR SU MAISTU BESILIEČIANČIŲ GAMINIŲ IR MEDŽIAGŲ SAUGOS IR (AR) SUKLASTOTO MAISTO PATEIKIMO Į RINKĄ DRAUDIMO PAŽEIDIMUS TAIKYMO TVARKA
+ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
 
 Pakeistas skirsnio pavadinimas:
 
 Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 
 13 straipsnis. Pasiūlymas Vyriausybei
 
@@ -684,6 +718,14 @@ Nr. XIV-2288, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23078
 
 Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 2 ir 4 straipsnių pakeitimo ir Įstatymo papildymo 6-2 straipsniu įstatymas
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
+
+Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 1, 2, 4, 9, 12-2 straipsnių ir ketvirtojo-1 skirsnio pavadinimo pakeitimo įstatymas
+
 61 straipsnis. Kai kurių maisto produktų pardavimo ribojimas
 
 Draudžiama parduoti, nupirkti ar kitaip perduoti energinius gėrimus jaunesniems kaip 18 metų asmenims. Energinių gėrimų pardavėjai turi teisę, o kai kyla abejonių, kad asmuo yra jaunesnis kaip 18 metų, privalo iš perkančio energinius gėrimus asmens reikalauti pateikti asmens tapatybę patvirtinantį dokumentą. Jeigu toks asmuo nepateikia jo tapatybę patvirtinančio dokumento, energinių gėrimų pardavėjai privalo atsisakyti parduoti jam energinius gėrimus.
@@ -702,7 +744,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
 
-122 straipsnis. Baudos ir įspėjimai už šio įstatymo pažeidimus, susijusius su maisto ar su maistu besiliečiančių gaminių ir medžiagų sauga ir (ar) suklastoto maisto gamyba ir pateikimu į rinką
+122 straipsnis. Baudos ir įspėjimai už šio įstatymo pažeidimus, susijusius su maisto ar su maistu besiliečiančių gaminių ir medžiagų sauga ir (ar) suklastoto maisto gamyba ir pateikimu į rinką, ir prievole mažmeninės prekybos įmonei sudaryti sutartis su paramos gavėju dėl neatlygintino labdarai ir (ar) paramai skirto maisto perdavimo
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 
 1. Valstybinė maisto ir veterinarijos tarnyba, nustačiusi šio įstatymo pažeidimus, susijusius su maisto ar su maistu besiliečiančių gaminių ir medžiagų sauga, maisto tvarkymo subjektui ar su maistu besiliečiančių gaminių ir medžiagų gamintojui ir (ar) tiekėjui pritaikiusi rinkos ribojimo priemones, skiria įspėjimus arba baudas. Nustačiusi šio įstatymo pažeidimus, susijusius su maisto klastojimu, maisto tvarkymo subjektams, gaminantiems ir (ar) pateikusiems į rinką suklastotą maistą, Valstybinė maisto ir veterinarijos tarnyba skiria baudas. Vyriausybė patvirtina baudų, išreikštų procentais nuo ūkio subjekto praėjusiais ūkiniais metais gautų bendrųjų metinių pajamų, už suklastoto maisto gamybą ir pateikimą į rinką, jei šis (šie) pažeidimas (pažeidimai) sukėlė vartotojo mirtį, dydžio nustatymo tvarkos aprašą. Duomenis, reikalingus baudoms apskaičiuoti, pateikia maisto tvarkymo subjektas ir kompetentingos institucijos.
 
@@ -716,7 +762,17 @@ Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
 
 6. Maisto tvarkymo subjektams ar su maistu besiliečiančių gaminių ir medžiagų gamintojams ir (ar) tiekėjams, pateikusiems į rinką nesaugų maistą ar nesaugius su maistu besiliečiančius gaminius ir medžiagas, jeigu šis (šie) pažeidimas (pažeidimai) sukėlė vartotojo mirtį, skiriama nuo 6 000 iki 24 000 eurų bauda. Maisto tvarkymo subjektams, gaminantiems ir (ar) pateikusiems į rinką suklastotą maistą, jeigu šis (šie) pažeidimas (pažeidimai) sukėlė vartotojo mirtį, skiriama ne didesnė negu 15 procentų bendrųjų metinių pajamų, gautų praėjusiais ūkiniais metais, dydžio bauda. Ši bauda turi būti ne mažesnė kaip 7 500 eurų ir ne didesnė kaip 100 000 eurų, įskaitant atvejus, kai maisto tvarkymo subjektas nepateikė duomenų apie praėjusiais ūkiniais metais gautas bendrąsias metines pajamas. Jei bendrųjų metinių pajamų praėjusiais ūkiniais metais nebuvo gauta, skiriama bauda nuo 7 500 iki 50 000 eurų.
 
-7. Įspėjimų ir baudų taikymas neatleidžia nuo pareigos atlyginti vartotojams padarytą žalą.
+7. Žemės ūkio agentūra, nustačiusi šio įstatymo pažeidimą, susijusį su sutarties su paramos gavėju dėl labdarai ir (ar) paramai skirto maisto perdavimo nesudarymu, skiria įspėjimą arba baudą. Pirmą kartą pažeidimą padariusi mažmeninės prekybos įmonė įspėjama raštu ir jai nustatomas ne trumpesnis kaip 7 kalendorinių dienų ir ne ilgesnis kaip 30 kalendorinių dienų terminas nustatytam pažeidimui pašalinti. Pažeidimo nepašalinus, skiriama nuo vieno tūkstančio iki trijų tūkstančių eurų bauda.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
+
+8. Įspėjimų ir baudų taikymas neatleidžia nuo pareigos atlyginti vartotojams padarytą žalą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 
 Straipsnio pakeitimai:
 
