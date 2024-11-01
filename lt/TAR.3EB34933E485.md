@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2024-07-02"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-02 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2026-06-29
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -883,7 +883,11 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 86 straipsnis. Mokestinės nepriemokos perėmimas
 
-Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka mokesčių mokėtojo mokestinę nepriemoką, mokesčių administratoriui leidus, gali perimti kiti asmenys. Tokiems asmenims taikomos visos mokestinės nepriemokos sumokėjimą ir išieškojimą reglamentuojančios mokesčių įstatymų nuostatos, kurios būtų taikomos mokesčių mokėtojui.
+Centrinio mokesčių administratoriaus nustatyta tvarka mokesčių mokėtojo mokestinę nepriemoką, mokesčių administratoriui leidus, gali perimti kiti asmenys. Tokiems asmenims taikomos visos mokestinės nepriemokos sumokėjimą ir išieškojimą reglamentuojančios mokesčių įstatymų nuostatos, kurios būtų taikomos mokesčių mokėtojui.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
 87 straipsnis. Mokesčių permokos įskaitymas ir grąžinimas
 
@@ -983,9 +987,23 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 
-88 straipsnis. Mokestinės nepriemokos sumokėjimo atidėjimas arba išdėstymas
+88 straipsnis. Mokestinės ir nemokestinės nepriemokų sumokėjimo atidėjimas arba išdėstymas
 
-1. Mokestinės nepriemokos sumokėjimo terminą finansų ministro nustatyta tvarka mokesčių administratorius gali atidėti arba išdėstyti. Mokestinės nepriemokos mokėjimas atidedamas arba išdėstomas mokesčių administratoriaus sprendimu. Šio sprendimo pagrindu sudaroma mokesčių mokėtojo ir mokesčių administratoriaus mokestinės paskolos sutartis.
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+
+1. Mokesčių administratorius centrinio mokesčių administratoriaus nustatyta tvarka mokestinės nepriemokos sumokėjimo terminą gali atidėti iki vienų metų ir (arba) išdėstyti ne daugiau kaip 5 metams nuo prašymo pateikimo mokesčių administratoriui dienos, bet ne anksčiau kaip nuo mokestinės nepriemokos susidarymo dienos. Mokestinės nepriemokos mokėjimas atidedamas arba išdėstomas mokesčių administratoriaus sprendimu, kuris priimamas laikantis Europos Sąjungos valstybės pagalbos taisyklių. Šio sprendimo pagrindu sudaroma mokesčių mokėtojo ir mokesčių administratoriaus mokestinės paskolos sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+
+11. Mokesčių administratorius centrinio mokesčių administratoriaus nustatyta tvarka baudų už administracinį nusižengimą sumokėjimą gali išdėstyti ne daugiau kaip 2 metams nuo Administracinių nusižengimų kodekso 675 straipsnio 2 dalyje numatyto baudos sumokėjimo termino dienos. Tokiu atveju jų mokėjimas išdėstomas mokesčių administratoriaus sprendimu, kuris priimamas laikantis Europos Sąjungos valstybės pagalbos taisyklių ir kurio pagrindu sudaroma mokesčių mokėtojo ir mokesčių administratoriaus mokestinės paskolos sutartis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
 2. Sprendimas atidėti mokestinės nepriemokos mokėjimą ar jį išdėstyti gali būti priimtas tik nustačius, kad nedelsiant ją sumokėjus mokesčių mokėtojo finansinė būklė taptų kritine arba mokesčių mokėtojas turėtų didelių sunkumų vykdydamas kitus savo finansinius įsipareigojimus, tačiau šios mokestinės nepriemokos mokėjimo atidėjimas ar išdėstymas suteiktų jam galimybę stabilizuoti savo finansinę būklę ir sumokėti mokestinę nepriemoką vėliau.
 
