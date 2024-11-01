@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2024-06-21"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-06-21 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
 
@@ -561,7 +561,13 @@ Nr. XIV-753, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26585
 
 TAR pastaba. 29 straipsnio 1 dalis taikoma priskiriant draudėjus nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms 2021 ir vėlesniems metams.
 
-2. Šio straipsnio 1 dalies 1 punkte nurodytą rodiklį Valstybinio socialinio draudimo fondo valdybai teikia Valstybinė darbo inspekcija. Šio straipsnio 1 dalies 2 ir 3 punktuose nurodytiems rodikliams nustatyti naudojami Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro duomenys.
+2. Šio straipsnio 1 dalies 1 punkte nurodytą rodiklį ir informaciją apie draudėjus, kurie privalo mokėti šio įstatymo 291 straipsnyje nurodytą papildomą nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo vienkartinę įmoką (toliau – papildoma vienkartinė įmoka), Valstybinio socialinio draudimo fondo valdybai duomenų teikimo sutartyje nustatyta apimtimi ir tvarka teikia Valstybinė darbo inspekcija. Šio straipsnio 1 dalies 2 ir 3 punktuose nurodytiems rodikliams nustatyti naudojami Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro duomenys.
+
+TAR pastaba: 29 straipsnio 2 dalies nuostatos taikomos draudėjui, kuriam arba kurio vadovui ar kitam atsakingam asmeniui už nusižengimą, padarytą 2024 m. lapkričio 1 d. ar vėliau, įsiteisėjo nutarimas administracinio nusižengimo byloje dėl darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimo, dėl kurio galėjo įvykti nelaimingas atsitikimas darbe, avarija ar atsirasti kitų sunkių padarinių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2708, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11232
 
 3. Šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kiekvienais metais Lietuvos Respublikos valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu. Valstybinio socialinio draudimo fondo valdyba, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtinta metodika ir remdamasi šio straipsnio 1 dalyje nurodytais rodikliais, kiekvienais metais apskaičiuoja draudėjų darbuotojų saugos ir sveikatos būklę apibūdinančių rodiklių dydžius, priskiria draudėjus nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms ir tvirtina draudėjų priskyrimą konkrečiai socialinio draudimo įmokos tarifo grupei.
 
@@ -938,4 +944,20 @@ NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO
 Nauja įstatymo redakcija
 
 Šis Įstatymas, išskyrus 29 straipsnį, įsigalioja nuo 2004 m. sausio 1 d.
+
+291 straipsnis. Papildoma vienkartinė įmoka
+
+Draudėjas fizinis asmuo, kuriam įsiteisėjo nutarimas administracinio nusižengimo byloje dėl darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimo, dėl kurio galėjo įvykti nelaimingas atsitikimas darbe, avarija ar atsirasti kitų sunkių padarinių (toliau šiame straipsnyje – nutarimas), taip pat draudėjas juridinis asmuo, kurio vadovui ar kitam atsakingam asmeniui įsiteisėjo nutarimas, Valstybinio socialinio draudimo įstatymo nustatyta tvarka moka toliau nurodyto dydžio papildomą vienkartinę įmoką:
+
+1) draudėjas, kurio apdraustųjų asmenų skaičius nutarimo įsiteisėjimo dieną yra iki 49, – 3 Vyriausybės patvirtintų minimaliųjų mėnesinių algų dydžio, galiojusio nutarimo įsiteisėjimo dieną;
+
+2) draudėjas, kurio apdraustųjų asmenų skaičius nutarimo įsiteisėjimo dieną yra nuo 50 iki 249, – 6 Vyriausybės patvirtintų minimaliųjų mėnesinių algų dydžio, galiojusio nutarimo įsiteisėjimo dieną;
+
+3) draudėjas, kurio apdraustųjų asmenų skaičius nutarimo įsiteisėjimo dieną yra 250 ar daugiau, – 9 Vyriausybės patvirtintų minimaliųjų mėnesinių algų dydžio, galiojusio nutarimo įsiteisėjimo dieną.
+
+TAR pastaba: 291 straipsnio nuostatos taikomos draudėjui, kuriam arba kurio vadovui ar kitam atsakingam asmeniui už nusižengimą, padarytą 2024 m. lapkričio 1 d. ar vėliau, įsiteisėjo nutarimas administracinio nusižengimo byloje dėl darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimo, dėl kurio galėjo įvykti nelaimingas atsitikimas darbe, avarija ar atsirasti kitų sunkių padarinių.
+
+Papildyta straipsniu:
+
+Nr. XIV-2708, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11232
 
