@@ -4,7 +4,7 @@ identifier: "TAR.FA13E28615F6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-11"
-last_updated: "2024-01-01"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
 
@@ -69,9 +69,17 @@ Nr. XIV-2253, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22984
 
 1. Šis įstatymas taikomas:
 
-1) viešąsias funkcijas atliekančioms valstybės ir savivaldybių institucijoms ir įstaigoms, valstybės ir savivaldybių valdomoms įmonėms ir viešosioms įstaigoms, kurių savininkė ar dalininkė yra valstybė ar savivaldybė ir kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų, įskaitant bibliotekas, muziejus ir valstybės archyvus, taip pat šių subjektų asociacijoms ir regionų plėtros taryboms (toliau – institucijos);
+1) viešąsias funkcijas atliekančioms valstybės ir savivaldybių institucijoms ir įstaigoms, valstybės ir savivaldybių įmonėms ir viešosioms įstaigoms, kurių savininkė ar dalininkė yra valstybė ar savivaldybė ir kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų, įskaitant bibliotekas, muziejus ir valstybės archyvus, taip pat šių subjektų asociacijoms ir regionų plėtros taryboms (toliau – institucijos);
 
-2) viešosioms įstaigoms, kurių savininkė arba dalininkė, turinti pusę ir daugiau balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, kurios nėra finansuojamos iš valstybės ir savivaldybių biudžetų bei valstybės pinigų fondų, tačiau atlieka viešąsias funkcijas, taip pat akcinėms bendrovėms ar uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei tiesiogiai arba netiesiogiai priklauso (suprantama taip, kaip nustatyta Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnyje) akcijos, suteikiančios daugiau kaip pusę balsų visuotiniame akcininkų susirinkime, ir valstybė ar savivaldybė tiesiogiai ar netiesiogiai gali daryti lemiamą įtaką (suprantama taip, kaip nustatyta Akcinių bendrovių įstatymo 5 straipsnyje) rinkdama ir atšaukdama akcinės bendrovės arba uždarosios akcinės bendrovės vadovą, taip pat daugiau kaip pusę valdybos arba stebėtojų tarybos narių, ir kurios teikia viešąsias paslaugas bent vienoje iš šių sričių: dujų ir šilumos ūkio, elektros energetikos, vandentvarkos, transporto paslaugų, uostų ir oro uostų, pašto paslaugų, naftos ir dujų gavybos, anglių ar kito kietojo kuro žvalgymo arba gavybos, viešojo keleivinio transporto pagal 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančio Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 su visais pakeitimais 2 straipsnį, oro susisiekimo paslaugų teikimo pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (nauja redakcija) su visais pakeitimais 16 straipsnį, visuomenės aptarnavimo paslaugų teikimo pagal 1992 m. gruodžio 7 d. Tarybos reglamento (EEB) Nr. 3577/92, taikančio laisvės teikti paslaugas principą jūrų transportui valstybėse narėse (jūrų kabotažas), su visais pakeitimais 4 straipsnį (toliau – valstybės valdomi subjektai);
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2568, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07721
+
+2) viešosioms įstaigoms, kurių savininkė ar dalininkė, turinti pusę ir daugiau balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, kurios nėra finansuojamos iš valstybės ir savivaldybių biudžetų bei valstybės pinigų fondų, tačiau atlieka viešąsias funkcijas, taip pat akcinėms bendrovėms ar uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei tiesiogiai arba netiesiogiai priklauso (suprantama taip, kaip nustatyta Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnyje) akcijos, suteikiančios daugiau kaip pusę balsų visuotiniame akcininkų susirinkime, ir valstybė ar savivaldybė tiesiogiai ar netiesiogiai gali daryti lemiamą įtaką (suprantama taip, kaip nustatyta Akcinių bendrovių įstatymo 5 straipsnyje) rinkdama ir atšaukdama akcinės bendrovės arba uždarosios akcinės bendrovės vadovą, taip pat daugiau kaip pusę valdybos arba stebėtojų tarybos narių, kurios teikia viešąsias paslaugas (toliau – valstybės valdomi subjektai);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2568, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07721
 
 3) šio įstatymo 5 straipsnio 2 dalies 5 punktas taip pat taikomas viešosioms įstaigoms, kurių savininkė arba dalininkė yra valstybė ar savivaldybė, tačiau kurios nėra finansuojamos iš valstybės ir savivaldybių biudžetų bei valstybės pinigų fondų ir neatlieka viešųjų funkcijų, kai jos skelbia informaciją apie savo darbuotojų darbo užmokestį šio įstatymo nustatyta tvarka.
 
@@ -385,7 +393,11 @@ DUOMENŲ RINKINIAI IR JŲ TVARKYMAS
 
 16 straipsnis. Didelės vertės duomenų rinkiniai
 
-1. Didelės vertės duomenų teminių kategorijų sąrašą ir didelės vertės duomenų rinkinių sąrašą tvirtina Vyriausybė.
+1. Didelės vertės duomenų rinkiniais laikomi tik tie duomenų rinkiniai, kurie yra nurodyti 2022 m. gruodžio 21 d. Komisijos įgyvendinimo reglamente (ES) 2023/138, kuriuo sudaromas konkrečių didelės vertės duomenų rinkinių sąrašas ir nustatoma jų skelbimo bei pakartotinio naudojimo tvarka (toliau – Reglamentas (ES) 2023/138). Didelės vertės duomenų rinkiniai skelbiami ir pakartotinai naudojami vadovaujantis Reglamentu (ES) 2023/138.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2568, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07721
 
 2. Didelės vertės duomenų rinkiniai skelbiami Lietuvos atvirų duomenų portale elektroniniu formatu per programų sąsają, sudarančią galimybę atsisiųsti šiuos duomenis vienu kartu.
 
@@ -580,6 +592,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2253, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22984
 
 Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo Nr. VIII-1524 1, 2 ir 5 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2568, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07721
+
+Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo Nr. VIII-1524 2 ir 16 straipsnių pakeitimo įstatymas
 
 21 straipsnis. Portalo paslaugos
 
