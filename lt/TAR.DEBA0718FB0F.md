@@ -4,7 +4,7 @@ identifier: "TAR.DEBA0718FB0F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2024-07-01"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
 
@@ -922,10 +922,6 @@ Straipsnio pakeitimai:
 
 Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
-SEPTINTASIS SKIRSNIS
-
-KELEIVIŲ IR BAGAŽO VEŽIMAS
-
 30 straipsnis. Keleivių ir bagažo vežimo sąlygos ir tvarka
 
 1. Keleivių ir bagažo vežimo sąlygas ir tvarką, draudžiamų vežti daiktų sąrašą, taip pat vežėjo ir keleivio teises ir pareigas nustato šis kodeksas, Lietuvos Respublikos civilinis kodeksas, Lietuvos Respublikos tarptautinės sutartys, Reglamentas (ES) Nr. 1177/2010, susisiekimo ministro tvirtinamos keleivių ir bagažo vežimo vidaus vandenų transporto priemonėmis taisyklės ir kiti teisės aktai.
@@ -1784,6 +1780,14 @@ Nr. XIV-2536, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07269
 
 Lietuvos Respublikos vidaus vandenų transporto kodekso 16-2 straipsnio pakeitimo įstatymas
 
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2870, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12655
+
+Lietuvos Respublikos vidaus vandenų transporto kodekso papildymo 29-1 straipsniu įstatymas
+
 161 straipsnis. Vidaus vandenų transporto priemonių techninė apžiūra, techninis patikrinimas, Europos Sąjungos vidaus vandenų laivybos sertifikato ir laikinojo Europos Sąjungos vidaus vandenų laivybos sertifikato išdavimas
 
 1. Vidaus vandenų transporto priemonių techninę apžiūrą Transporto saugos administracijos nustatyta tvarka atlieka ir techninės apžiūros dokumentus išduoda juridiniai asmenys, organizacijos ir juridinių asmenų ar organizacijų filialai, kuriuos šio kodekso 162 straipsnyje nustatyta tvarka ir vadovaudamasi susisiekimo ministro tvirtinamais asmenų, siekiančių atlikti vidaus vandenų transporto priemonių technines apžiūras, atestacijos reikalavimais (toliau – atestacijos reikalavimai) atestuoja ir prižiūri Transporto saugos administracija. Atliekant techninę apžiūrą tikrinama Vidaus vandenų laivų registre įregistruotos vidaus vandenų transporto priemonės techninė būklė, identifikuojama vidaus vandenų transporto priemonė, įvertinama vidaus vandenų transporto priemonės atitiktis susisiekimo ministro ar jo įgaliotos institucijos nustatytiems techniniams reikalavimams (toliau – techniniai reikalavimai) ir aprūpinimo įranga pagal plaukiojimo rajoną reikalavimams ir nustatomas plaukiojimo rajonas.
@@ -2055,4 +2059,16 @@ RINKLIAVOS
 Pakeistas skirsnio pavadinimas:
 
 Nr. IX-289, 2001 04 19, Žin., 2001, Nr. 39-1359 (2001 05 09)
+
+291 straipsnis. Vietinės rinkliavos
+
+Už naudojimąsi savivaldybės tarybos nustatytomis vietomis vidaus vandenų transporto priemonėms švartuoti ar stovėti (kai vidaus vandenų transporto priemonė iškeliama ant kranto) mokamos nustatyto dydžio vietinės rinkliavos.
+
+Papildyta straipsniu:
+
+Nr. XIV-2870, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12655
+
+SEPTINTASIS SKIRSNIS
+
+KELEIVIŲ IR BAGAŽO VEŽIMAS
 
