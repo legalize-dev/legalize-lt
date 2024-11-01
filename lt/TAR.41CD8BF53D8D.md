@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2024-09-01"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -128,11 +128,13 @@ Nr. XII-2115, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19702
 
 4) dokumento, patvirtinančio asmens gyvenamąją vietą, išdavimą;
 
-5) asmens tapatybės kortelės arba paso (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą ir keitimą bendra tvarka asmenims, turintiems teisę gauti piniginę socialinę paramą įstatymų nustatyta tvarka, vaikams, kuriems nustatyta globa arba rūpyba, valstybės išlaikomiems stacionariose globos įstaigose asmenims, sutuoktinio neturintiems senatvės pensijos amžiaus sulaukusiems asmenims, neįgaliesiems, kuriems Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nustatyta tvarka nustatytas neįgalumo lygis arba 55 procentų ir mažesnis darbingumo lygis, arba specialiųjų poreikių lygis;
+5) asmens tapatybės kortelės arba paso (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą ir keitimą bendra tvarka asmenims, turintiems teisę gauti piniginę socialinę paramą įstatymų nustatyta tvarka, vaikams, kuriems nustatyta globa arba rūpyba, valstybės išlaikomiems socialinių paslaugų įstaigose asmenims, sutuoktinio neturintiems senatvės pensijos amžiaus sulaukusiems asmenims, asmenims su negalia, kuriems Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme nustatyta tvarka nustatytas neįgalumo lygis arba 55 procentų ar mažesnis dalyvumo lygis (iki 2023 m. gruodžio 31 d. nustatytas 55 procentų ir mažesnis darbingumo lygis arba specialiųjų poreikių lygis);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
+
+Nr. XIV-2552, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07451
 
 6) asmens tapatybės kortelės arba paso (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą ir keitimą bendra tvarka, dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą ir keitimą, asmens be pilietybės kelionės dokumento išdavimą ir keitimą, nacionalinių vizų išdavimą pasipriešinimo (rezistencijos) dalyviams, kuriems kario savanorio ar laisvės kovų dalyvio teisinis statusas pripažįstamas Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatyme nustatyta tvarka, ir Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 3 straipsnyje nurodytiems nuo okupacijų nukentėjusiems asmenims, kuriems pagal šį įstatymą pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas;
 
@@ -434,7 +436,7 @@ Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 
 5) leidimo įvažiuoti mechaninėmis transporto priemonėmis į valstybės saugomas teritorijas, savivaldybių įsteigtus saugomus draustinius, jų paskelbtų kraštovaizdžio objektų teritorijas ir nustatytas vietinės reikšmės apsaugines zonas išdavimą (išskyrus važiavimą per šias teritorijas valstybinės reikšmės keliais, naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis, terminalais ir pasienio kontrolės punktais; šios išimtys netaikomos Neringos miestui);
 
-6) naudojimąsi savivaldybės tarybos nustatytomis vietomis automobiliams statyti (išskyrus vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas, kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus viešuosius interesus užtikrinančius reikalavimus; taip pat išskyrus automobilių, pažymėtų neįgalių asmenų automobilių statymo kortele, ir mokyklinių autobusų statymą savivaldybės tarybos nustatytose nerezervuotose mokamose vietose automobiliams statyti ir Lietuvos Respublikos vadovybės apsaugos tarnybos transporto priemonių, naudojamų saugomų asmenų ir (ar) saugomų objektų apsaugai, statymą);
+6) naudojimąsi savivaldybės tarybos nustatytomis vietomis automobiliams statyti (išskyrus vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas, kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus viešuosius interesus užtikrinančius reikalavimus; taip pat išskyrus automobilių, kuriuos vairuoja ar kuriais vežami asmenys su negalia, turintys jiems išduotą asmens su negalia automobilio statymo kortelę (savivaldybės taryba gali nustatyti šios išimties taikymo sąlygas ir tvarką), ir mokyklinių autobusų statymą savivaldybės tarybos nustatytose nerezervuotose mokamose vietose automobiliams statyti ir Lietuvos Respublikos vadovybės apsaugos tarnybos transporto priemonių, naudojamų saugomų asmenų ir (ar) saugomų objektų apsaugai, statymą);
 
 Straipsnio punkto pakeitimai:
 
@@ -443,6 +445,8 @@ Nr. XII-1970, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17123
 Nr. XIII-2477, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17214
 
 Nr. XIII-2918, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10919
+
+Nr. XIV-2552, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07451
 
 7) neteko galios nuo 2018-01-01;
 
@@ -469,6 +473,12 @@ Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1669, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07660
+
+12) naudojimąsi savivaldybės tarybos nustatytomis vietomis vidaus vandenų transporto priemonėms švartuoti ar stovėti (kai vidaus vandenų transporto priemonė iškeliama ant kranto), išskyrus vidaus vandenų transporto priemonių švartavimą (stovėjimą) vidaus vandenų uostuose ir (ar) prieplaukose, kurie yra valstybės ar privatūs.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2871, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12656
 
 2. Iš vietinės rinkliavos mokėtojo negali būti reikalaujama atlyginti už objektą, už kurį pagal šį įstatymą nustatyta vietinė rinkliava, kitaip negu sumokant vietinę rinkliavą.
 
