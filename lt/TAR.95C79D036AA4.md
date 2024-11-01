@@ -4,7 +4,7 @@ identifier: "TAR.95C79D036AA4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2024-06-21"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas
 
-Suvestinė redakcija nuo 2024-06-21 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 70-3170, i. k. 1031010ISTA0IX-1672
 
@@ -253,7 +253,11 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 4 straipsnis. Įstatymo taikymas
 
-1. Šis Įstatymas taikomas kiekvienai įmonei, esančiai Lietuvos Respublikos teritorijoje, taip pat laivuose, plaukiojančiuose su Lietuvos valstybės vėliava, atsižvelgiant į šio straipsnio 2 ir 4 dalyse numatytus šio Įstatymo taikymo ypatumus.
+1. Šis Įstatymas taikomas bet kuriai veiklai, įskaitant veiklą, vykdomą laivuose, plaukiojančiuose su Lietuvos valstybės vėliava, atsižvelgiant į šio straipsnio 2 ir 4 dalyse numatytus šio Įstatymo taikymo ypatumus. Šio Įstatymo 15 ir 46 straipsnių nuostatos taikomos statytojams (užsakovams), taip pat statinio projektavimo valdytojams ir (ar) statinio statybos valdytojams, jeigu statytojas (užsakovas), kaip įgaliotojas, pavedimo sutartimi nustatė įgaliotiniui – statinio projektavimo valdytojui ar statinio statybos valdytojui – vykdyti šio Įstatymo 15 straipsnio 1 dalyje statytojui (užsakovui) nustatytas pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 2. Krašto apsaugos pareigūnams ir kariams, vidaus tarnybos sistemos, valstybės saugumo ir kitų institucijų pareigūnams, kurių tarnybinius santykius nustato atitinkami statutai ir Lietuvos Respublikos žvalgybos įstatymas, šio Įstatymo bei kitų darbuotojų saugos ir sveikatos norminių teisės aktų nuostatos netaikomos tik tais atvejais, kai šie asmenys vykdo veiklą, kuriai būdingi specifiniai veiklos požymiai. Šių institucijų pareigūnų ir karių tarnybą reglamentuojančiuose norminiuose teisės aktuose privalo būti nustatyti saugos ir sveikatos reikalavimai jiems vykdant specifinę veiklą.
 
@@ -513,7 +517,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
 
-5. Privalomo įsidarbinančių asmenų, darbuotojų ir asmenų, kurių darbas buvo susijęs su profesine rizika dėl kancerogeninių, mutageninių medžiagų ir preparatų bei biologinių medžiagų naudojimo darbo procese, sveikatos patikrinimo ir apmokėjimo tvarką nustato Vyriausybė.
+5. Privalomo įsidarbinančių asmenų, darbuotojų, taip pat asmenų, kurių darbas buvo susijęs su profesine rizika dėl kancerogenų, mutagenų, reprotoksinių ir biologinių medžiagų poveikio, sveikatos patikrinimo ir jo apmokėjimo tvarką nustato sveikatos apsaugos ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 Straipsnio pakeitimai:
 
@@ -531,7 +539,11 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 3. Įmonės darbo medicinos punktai, maitinimo patalpos įmonėje įrengiami pagal tokių patalpų įrengimo reikalavimus, įvertinant darbo (technologinio proceso) pobūdį, darbuotojų skaičių.
 
-4. Buities, sanitarinių ir higienos patalpų įrengimo reikalavimus nustato Vyriausybė.
+4. Buities, sanitarinių ir higienos patalpų įrengimo reikalavimus tvirtina sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 24 straipsnis. Gyvenamųjų patalpų reikalavimai
 
@@ -613,7 +625,11 @@ Nr. XI-2045, 2012-06-05, Žin., 2012, Nr. 69-3525 (2012-06-21)
 
 3. Darbdavio įgalioti asmenys organizuoja asmeninių apsaugos priemonių laikymą, džiovinimą, skalbimą, valymą, taisymą, tikrinimą konkrečios asmeninės apsaugos priemonės dokumentuose, kuriuos kartu su priemone pateikia asmeninės apsaugos priemonės gamintojas, nustatyta tvarka.
 
-4. Jeigu darbai yra susiję su užteršimu, darbuotojams nemokamai turi būti duodamos asmens higienos priemonės (muilas, rankšluosčiai ir kita). Jei darbai susiję su pavojingų cheminių medžiagų ar jų preparatų naudojimu darbuotojams, atsižvelgiant į cheminės medžiagos saugos duomenų lapo informaciją apie medžiagos ar preparato savybes ir nuorodas dėl kenksmingumo pašalinimo priemonių naudojimo, privalo būti nemokamai išduodamos kenksmingumo pašalinimo priemonės.
+4. Jeigu darbai susiję su tarša, darbuotojams turi būti nemokamai išduodamos asmens higienos priemonės (muilas, rankšluosčiai ir kita). Jeigu darbai susiję su pavojingų cheminių medžiagų ar cheminių mišinių naudojimu, darbuotojams, atsižvelgiant į cheminės medžiagos ar cheminio mišinio saugos duomenų lapo informaciją apie cheminės medžiagos ar cheminio mišinio savybes ir nuorodas dėl kenksmingumo pašalinimo priemonių naudojimo, turi būti nemokamai išduodamos kenksmingumo pašalinimo priemonės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 5. Darbuotojų aprūpinimo asmeninėmis apsaugos priemonėmis nuostatus ir privalomuosius šių priemonių saugos reikalavimus tvirtina socialinės apsaugos ir darbo ministras.
 
@@ -989,7 +1005,11 @@ IV DALIS
 
 ATSAKOMYBĖ UŽ DARBUOTOJŲ SAUGOS IR SVEIKATOS NORMINIŲ TEISĖS AKTŲ REIKALAVIMŲ PAŽEIDIMUS
 
-46 straipsnis. Darbdavių ir darbuotojų atsakomybė
+46 straipsnis. Darbdavių, darbuotojų, statytojų (užsakovų), statinio projektavimo valdytojų, statinio statybos valdytojų, saugos ir sveikatos koordinatorių atsakomybė
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 1. Darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo, kuris savo veikimu ar neveikimu pažeidė darbuotojų saugos ir sveikatos norminius teisės aktus ir tuo neužtikrino saugių ir sveikatai nekenksmingų darbo sąlygų, atsako įstatymų nustatyta tvarka.
 
@@ -998,6 +1018,12 @@ ATSAKOMYBĖ UŽ DARBUOTOJŲ SAUGOS IR SVEIKATOS NORMINIŲ TEISĖS AKTŲ REIKALAV
 3. Darbdaviui atstovaujančio asmens atsakomybė už darbuotojų saugos ir sveikatos reikalavimų neužtikrinimą gali būti sumažinama įvertinus priemones, kurių darbdaviui atstovaujantis asmuo ėmėsi šio Įstatymo 32 straipsnyje nustatyta tvarka.
 
 4. Darbuotojui, kuris pažeidė darbuotojų saugos ir sveikatos norminius teisės aktus ar įmonės darbuotojų saugos ir sveikatos norminius dokumentus, kuriuos privalėjo vykdyti ir su jais buvo supažindintas (instruktuotas ir (ar) apmokytas, kaip laikytis jų reikalavimų), taikoma įstatymų nustatyta atsakomybė.
+
+5. Statytojas (užsakovas), statinio projektavimo valdytojas, statinio statybos valdytojas, saugos ir sveikatos koordinatorius, kuris savo veikimu ar neveikimu pažeidė darbuotojų saugos ir sveikatos norminius teisės aktus ir dėl to neužtikrino saugių ir sveikatai nekenksmingų darbo sąlygų, atsako Lietuvos Respublikos civilinio kodekso, Administracinių nusižengimų kodekso nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 47 straipsnis. Darbuotojų saugos ir sveikatos kontrolė
 
@@ -1379,11 +1405,13 @@ VIDINĖ DARBUOTOJŲ SAUGOS IR SVEIKATOS KONTROLĖ ĮMONĖJE
 
 15 straipsnis. Darbo vietų įrengimas statybvietėse, naudingųjų iškasenų gavybos įmonėse, žvejybos laivuose, darbo priemonėse
 
-1. Statybvietės turi atitikti darbuotojų saugos ir sveikatos reikalavimus, nustatytus socialinės apsaugos ir darbo ministro ir aplinkos ministro patvirtintuose Darboviečių įrengimo statybvietėse nuostatuose. Darbuotojų saugos ir sveikatos reikalavimai konkrečiai statybvietei nustatomi statinio techniniame projekte, vadovaujantis Darboviečių įrengimo statybvietėse nuostatais ir atitinkamais statybos techniniais reglamentais. Statybos darbų technologijos projekte numatomos konkrečios priemonės, užtikrinančios darbuotojų saugą ir sveikatą statinio statybos metu. Jeigu statinį projektuojant arba statant dalyvauja daugiau negu vienas rangovas, Darboviečių įrengimo statybvietėse nuostatuose nustatyta tvarka privalo būti paskirtas vienas ar keli saugos ir sveikatos koordinatoriai, kurių pareigos ir teisės nustatytos Darboviečių įrengimo statybvietėse nuostatuose. Darbdaviai privalo atsižvelgti į saugos ir sveikatos koordinatorių nurodymus.
+1. Statybvietės turi atitikti darbuotojų saugos ir sveikatos reikalavimus, nustatytus socialinės apsaugos ir darbo ministro ir aplinkos ministro patvirtintuose Darboviečių įrengimo statybvietėse nuostatuose. Darbuotojų saugos ir sveikatos reikalavimai konkrečiai statybvietei nustatomi statinio techniniame projekte, vadovaujantis Darboviečių įrengimo statybvietėse nuostatais ir atitinkamais statybos techniniais reglamentais. Statybos darbų technologijos projekte numatomos konkrečios priemonės, užtikrinančios darbuotojų saugą ir sveikatą statinio statybos metu. Jeigu projektuojant arba statant statinį dalyvauja daugiau negu vienas rangovas, statytojas (užsakovas) ar šio Įstatymo 4 straipsnio 1 dalyje nurodytu atveju statinio projektavimo valdytojas arba statinio statybos valdytojas Darboviečių įrengimo statybvietėse nuostatuose nustatyta tvarka privalo paskirti vieną ar kelis saugos ir sveikatos koordinatorius ir užtikrinti, kad būtų vykdomos jų pareigos ir įgyvendinami reikalavimai, nustatyti Darboviečių įrengimo statybvietėse nuostatuose. Darbdaviai ir savarankiškai dirbantys asmenys privalo atsižvelgti į saugos ir sveikatos koordinatorių nurodymus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-551, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21218
+
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 2. Saugaus darbo organizavimo ir darbo vietų įrengimo reikalavimus naudingųjų iškasenų gavybos įmonėse nustato socialinės apsaugos ir darbo ministras ir aplinkos ministras.
 
@@ -1395,39 +1423,39 @@ Straipsnio pakeitimai:
 
 Nr. X-1169, 2007-06-07, Žin., 2007, Nr. 69-2720 (2007-06-23)
 
-18 straipsnis. Darbuotojų apsauga nuo pavojingų cheminių medžiagų ir preparatų bei biologinių medžiagų poveikio
+18 straipsnis. Darbuotojų apsauga nuo pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų poveikio
 
-1. Įmonės, kurių veikla susijusi su pavojingų cheminių medžiagų bei jų preparatų ir biologinių medžiagų naudojimu (naudoja, gamina, pakuoja, ženklina, sandėliuoja, transportuoja, tiekia kitiems naudotojams, tvarko jų atliekas), numato ir įgyvendina priemones, apsaugančias darbuotojus nuo tokių medžiagų poveikio. Darbdaviui atstovaujantis asmuo ar jo pavedimu darbdavio įgaliotas asmuo, siekdamas apsaugoti darbuotojus nuo pavojingų cheminių medžiagų bei preparatų ir biologinių medžiagų poveikio:
+1. Įmonės, kurių veikla susijusi su pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų naudojimu (naudoja, gamina, pakuoja, ženklina, sandėliuoja, transportuoja, tiekia kitiems naudotojams, tvarko jų atliekas), numato ir įgyvendina priemones, apsaugančias darbuotojus nuo tokių medžiagų ir mišinių poveikio. Darbdaviui atstovaujantis asmuo ar jo pavedimu darbdavio įgaliotas asmuo, siekdamas apsaugoti darbuotojus nuo pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų poveikio:
 
-1) imasi priemonių pakeisti pavojingas chemines medžiagas ir preparatus nepavojingomis ar mažiau pavojingomis;
+1) imasi priemonių, kad pavojingos cheminės medžiagos ir cheminiai mišiniai būtų pakeisti nepavojingomis ar mažiau pavojingomis cheminėmis medžiagomis ir cheminiais mišiniais;
 
-2) imasi visų reikiamų priemonių darbuotojų apsaugai nuo pavojingų cheminių medžiagų bei preparatų ir biologinių medžiagų poveikio;
+2) imasi visų reikiamų darbuotojų apsaugos nuo pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų poveikio priemonių;
 
-3) organizuoja darbus taip, kad kuo mažiau darbuotojų patirtų pavojingų cheminių medžiagų bei preparatų ir biologinių medžiagų poveikį;
+3) organizuoja darbus taip, kad kuo mažiau darbuotojų patirtų pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų poveikį;
 
-4) naudoja darbo priemones, technologinius procesus, organizuoja darbą taip, kad pavojingos cheminės medžiagos bei preparatai ir biologinės medžiagos nepakenktų darbuotojų sveikatai;
+4) naudoja darbo priemones, taiko technologinius procesus, organizuoja darbą taip, kad pavojingos cheminės medžiagos bei cheminiai mišiniai ir biologinės medžiagos nepakenktų darbuotojų sveikatai;
 
-5) sudaro prevencinių priemonių ir gelbėjimo darbų planus galimoms avarijoms, kurių metu darbuotojai, kiti asmenys ir aplinka gali būti paveikti pavojingų cheminių medžiagų bei preparatų veiksnių ir biologinių medžiagų.
+5) sudaro prevencinių priemonių ir gelbėjimo darbų, kurių reikėtų imtis, įvykus avarijoms, kurių metu darbuotojai, kiti asmenys ir aplinka gali būti paveikti pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų, planus.
 
-2. Naudojant pavojingas chemines medžiagas bei preparatus ir biologines medžiagas, neturi būti viršijamos jų koncentracijos ribinės vertės (dydžiai) darbo aplinkos ore. Pavojingų cheminių medžiagų ir preparatų koncentracijų ribines vertes (dydžius) darbo aplinkos ore nustato sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras.
+2. Naudojant pavojingas chemines medžiagas bei cheminius mišinius ir biologines medžiagas, neturi būti viršijamos jų koncentracijos darbo aplinkos ore ribinės vertės (dydžiai). Pavojingų cheminių medžiagų koncentracijos darbo aplinkos ore ribines vertes (dydžius) nustato sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras.
 
-3. Įmonių, kurių veikla susijusi su pavojingų cheminių medžiagų bei preparatų ir biologinių medžiagų naudojimu, darbuotojai privalo būti supažindinti su įmonėje naudojamų konkrečių pavojingų cheminių medžiagų bei preparatų ir biologinių medžiagų poveikiu sveikatai. Darbuotojai, kurių bet kokia veikla (darbas) susijusi su pavojingomis cheminėmis medžiagomis bei preparatais ir biologinėmis medžiagomis, privalo būti instruktuoti ir apmokyti saugiai dirbti su konkrečiomis pavojingomis cheminėmis medžiagomis bei preparatais ir biologinėmis medžiagomis.
+3. Įmonių, kurių veikla susijusi su pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų naudojimu, darbuotojai privalo būti supažindinti su įmonėje naudojamų konkrečių pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų poveikiu sveikatai. Darbuotojai, kurių bet kokia veikla (darbas) susijusi (susijęs) su konkrečiomis pavojingomis cheminėmis medžiagomis bei cheminiais mišiniais ir biologinėmis medžiagomis, privalo būti instruktuoti ir apmokyti saugiai dirbti su jais.
 
-4. Įmonių patalpos, kuriose vykdoma bet kokia veikla, susijusi su pavojingomis cheminėmis medžiagomis bei preparatais ir biologinėmis medžiagomis, privalo būti pažymėtos specialiais įspėjamaisiais ir (ar) įpareigojančiais ženklais. Naudojant pavojingą cheminę medžiagą, privaloma vadovautis informacija ir reikalavimais, nurodytais saugos duomenų lape. Jį gamintojas pateikia kartu su realizuojama pavojinga chemine medžiaga, preparatu ar biologine medžiaga.
+4. Įmonių patalpos, kuriose vykdoma bet kokia veikla, susijusi su pavojingomis cheminėmis medžiagomis bei cheminiais mišiniais ir biologinėmis medžiagomis, privalo būti pažymėtos specialiais įspėjamaisiais ir (ar) įpareigojamaisiais ženklais. Naudojant pavojingą cheminę medžiagą ar cheminį mišinį, privaloma vadovautis informacija ir reikalavimais, nurodytais saugos duomenų lape.
 
-5. Įmonės padaliniuose ir (ar) darbo vietose, kur naudojamos pavojingos cheminės medžiagos bei preparatai ir biologinės medžiagos, privalo būti įrengtos kolektyvinės apsaugos priemonės. Įmonės padaliniuose ir (ar) darbo vietose, kuriose yra degių, sprogių ar galinčių sukelti gaisrą, pavojingų cheminių medžiagų bei preparatų ir biologinių medžiagų, privalo būti įrengtos specialios sistemos, skirtos tokių pavojingų cheminių medžiagų bei preparatų ir biologinių medžiagų kiekiui darbo aplinkoje registruoti, darbuotojams apie kilusį pavojų saugai ir sveikatai įspėti.
+5. Įmonės padaliniuose ir (ar) darbo vietose, kuriuose naudojamos pavojingos cheminės medžiagos bei cheminiai mišiniai ir biologinės medžiagos, privalo būti įrengtos kolektyvinės apsaugos priemonės. Įmonės padaliniuose ir (ar) darbo vietose, kuriuose yra degių, sprogių ar galinčių sukelti gaisrą pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų, privalo būti įrengtos specialios sistemos, skirtos tokių pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų kiekiui darbo aplinkoje registruoti, darbuotojams apie kilusį pavojų saugai ir sveikatai įspėti.
 
-6. Tais atvejais, kai kolektyvinės apsaugos priemonės neužtikrina darbuotojų apsaugos nuo cheminių medžiagų bei preparatų ir biologinių medžiagų galimo poveikio, darbuotojai, dirbantys su cheminėmis medžiagomis bei preparatais ir biologinėmis medžiagomis, privalo būti aprūpinami atitinkamomis asmeninės apsaugos priemonėmis.
+6. Jeigu kolektyvinės apsaugos priemonės neužtikrina darbuotojų apsaugos nuo galimo pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų poveikio, darbuotojai, dirbantys su pavojingomis cheminėmis medžiagomis bei cheminiais mišiniais ir biologinėmis medžiagomis, privalo būti aprūpinami atitinkamomis asmeninėmis apsaugos priemonėmis.
 
-7. Darbdaviams atstovaujantys asmenys, darbdavių įgalioti asmenys, įmonės darbuotojų saugos ir sveikatos tarnybos darbuotojai, darbuotojų atstovai, darbuotojai turi žinoti ir mokėti taikyti specialias pirmosios pagalbos priemones pavojingų cheminių medžiagų bei preparatų ir biologinių medžiagų sukeltų ūmių sveikatos sutrikimų atveju. Tokių pirmosios pagalbos priemonių sąrašą nustato sveikatos apsaugos ministras.
+7. Darbdaviams atstovaujantys asmenys, darbdavių įgalioti asmenys, įmonės darbuotojų saugos ir sveikatos tarnybos darbuotojai, darbuotojų atstovai, darbuotojai turi žinoti ir mokėti taikyti specialias pirmosios pagalbos priemones pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų sukeltų ūmių sveikatos sutrikimų atveju. Tokių pirmosios pagalbos priemonių sąrašą nustato sveikatos apsaugos ministras.
 
-8. Darbuotojų apsaugos nuo cheminių medžiagų bei preparatų ir biologinių medžiagų poveikio reikalavimus nustato socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro patvirtinti atitinkami darbuotojų saugos ir sveikatos norminiai teisės aktai.
+8. Darbuotojų apsaugos nuo pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų poveikio reikalavimus nustato socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro patvirtinti atitinkami darbuotojų saugos ir sveikatos norminiai teisės aktai.
 
-9. Šiame straipsnyje nustatyti darbuotojų apsaugos nuo pavojingų cheminių medžiagų bei preparatų ir biologinių veiksnių rizikos bendrieji reikalavimai taikomi bet kuriai veiklai, susijusiai su pavojingų cheminių medžiagų bei preparatų ir biologinių medžiagų atliekų tvarkymu.
+9. Šiame straipsnyje nustatyti bendrieji darbuotojų apsaugos nuo pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų poveikio reikalavimai taikomi bet kuriai veiklai, susijusiai su pavojingų cheminių medžiagų bei cheminių mišinių ir biologinių medžiagų naudojimu.
 
 Straipsnio pakeitimai:
 
-Nr. XI-2045, 2012-06-05, Žin., 2012, Nr. 69-3525 (2012-06-21)
+Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
 20 straipsnis. Norminiai teisės aktai, reglamentuojantys saugų darbų organizavimą ir jų vykdymą įmonėse
 
