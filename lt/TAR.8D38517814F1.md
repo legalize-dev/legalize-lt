@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2024-09-01"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -236,6 +236,12 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 Papildyta straipsnio dalimi:
 
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+
+262. Didelę rinkos galią turinti mažmeninės prekybos įmonė (toliau – mažmeninės prekybos įmonė) – kaip apibrėžta Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2508, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05469
 
 27. Elektros ir elektroninė įranga – įranga, kuriai tinkamai funkcionuoti reikalingos elektros srovės arba elektromagnetiniai laukai, ir įranga, skirta kurti, perduoti arba išmatuoti tokias sroves ar laukus, skirta naudoti su ne didesne kaip 1 000 V įtampa esant kintamajai srovei ir su ne didesne kaip 1 500 V įtampa esant nuolatinei srovei. Elektros ir elektroninės įrangos kategorijų sąrašą tvirtina Aplinkos ministerija.
 
@@ -4008,6 +4014,18 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 Papildyta skirsniu:
 
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+
+AŠTUNTASIS12 SKIRSNIS
+
+MAISTO ATLIEKŲ SUSIDARYMO PREVENCIJA
+
+3441 straipsnis. Mažmeninės prekybos įmonės pareigos
+
+Mažmeninės prekybos įmonė turi parengti maisto atliekų susidarymo prevencijos planą, pasirinktinai arba vienų, arba trejų metų trukmės. Maisto atliekų susidarymo prevencijos plane nurodomas siektinas sumažinti mažmeninės prekybos įmonės veikloje susidarantis maisto atliekų kiekis per metus absoliučiaisiais arba santykiniais dydžiais ir numatomos priemonės šiam tikslui pasiekti (pavyzdžiui, maisto perdavimas labdarai ir (ar) paramai; maisto atliekų susidarymo prevencijos priemonės, įskaitant planuojamas rengti ar remti vartotojų elgsenos keitimo priemones, skirtas maisto atliekų susidarymui mažinti, visuomenės švietimo ir informavimo kampanijas, skirtas informuotumui apie maisto atliekų susidarymo prevenciją didinti, ir kitas maisto atliekų kiekį mažinančias priemones). Maisto atliekų susidarymo prevencijos planas turi būti parengtas ir paskelbtas mažmeninės prekybos įmonės interneto svetainėje iki einamųjų metų sausio 1 dienos. Mažmeninės prekybos įmonė kiekvienais metais turi parengti praėjusių metų maisto atliekų susidarymo prevencijos plano įgyvendinimo ataskaitą ir ją paskelbti savo interneto svetainėje iki einamųjų metų kovo 31 dienos.
+
+Papildyta skirsniu:
+
+Nr. XIV-2508, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05469
 
 devintasis skirsnis
 
