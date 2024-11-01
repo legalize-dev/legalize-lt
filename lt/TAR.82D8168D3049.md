@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2024-10-18"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2024-10-18 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -710,9 +710,29 @@ Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 
 4. Ryšių linijos, kabeliai, ryšių kabelių kanalų sistemos yra laikomi kilnojamaisiais daiktais.
 
-5. Valstybė plėtoja viešąją sparčiojo plačiajuosčio ryšio infrastruktūrą vietovėse, kuriose jos nėra ar kuriose nėra konkurencijos teikiant sparčiojo plačiajuosčio ryšio paslaugas. Viešosios sparčiojo plačiajuosčio ryšio infrastruktūros plėtrą koordinuoja ir įgyvendina Susisiekimo ministerija.
+5. Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais elektroninių ryšių infrastruktūros gyvavimo ciklą apibūdinantys duomenys kuriami, tvarkomi, valdomi ir viešinami skaitmenine forma
 
-6. Elektroninių ryšių tinklų teikėjai kaupia duomenis apie savo valdomą elektroninių ryšių infrastruktūrą skaitmeniniu formatu. Ryšių reguliavimo tarnyba turi teisę gauti šiuos duomenis, kai jie reikalingi elektroninių ryšių veiklos reguliavimo tikslais.
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
+
+6. Vyriausybė ar jos įgaliota institucija nustato elektroninių ryšių infrastruktūros gyvavimo ciklą apibūdinančių duomenų kūrimo, tvarkymo, valdymo, viešinimo, duomenų struktūros reikalavimus. Nustatydama šiuos reikalavimus, Vyriausybė ar jos įgaliota institucija taip pat nurodo atvejus ir nustato tvarką, kada skaitmeniniai duomenys kuriami, tvarkomi, valdomi, naudojami taikant statinio informacinį modeliavimą ir Nacionalinį statybos informacijos klasifikatorių, kaip jie apibrėžiami Statybos įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
+
+7. Valstybė plėtoja viešąją sparčiojo plačiajuosčio ryšio infrastruktūrą vietovėse, kuriose jos nėra ar kuriose nėra konkurencijos teikiant sparčiojo plačiajuosčio ryšio paslaugas. Viešosios sparčiojo plačiajuosčio ryšio infrastruktūros plėtrą koordinuoja ir įgyvendina Susisiekimo ministerija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
+
+8. Elektroninių ryšių tinklų teikėjai kaupia duomenis apie savo valdomą elektroninių ryšių infrastruktūrą skaitmeniniu formatu. Ryšių reguliavimo tarnyba turi teisę gauti šiuos duomenis, kai jie reikalingi elektroninių ryšių veiklos reguliavimo tikslais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
 
 43 straipsnis. Kelio elementų naudojimas viešųjų elektroninių ryšių tinklų elektroninių ryšių infrastruktūrai įrengti
 
@@ -1270,6 +1290,12 @@ Viešųjų elektroninių ryšių paslaugų teikėjai privalo užtikrinti, kad ab
 
 13. Elektroninių ryšių infrastruktūra – elektroninių ryšių veiklai vykdyti skirta fizinė infrastruktūra, kurią sudaro aparatūra, įrenginiai, įskaitant antenas, linijos, vamzdynai, kabeliai, kanalai, kolektoriai, šuliniai, atraminės konstrukcijos, bokštai, stiebai, statiniai, statinių įvadai, statinių inžinerinės sistemos, skirstomosios spintos ir kitos priemonės.
 
+131. Elektroninių ryšių infrastruktūros gyvavimo ciklas – visuma procesų, sudarančių elektroninių ryšių infrastruktūros raidos ciklą (planavimas, projektavimas, įrengimas, naudojimas ir išmontavimas) per šios infrastruktūros gyvavimo laiką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
+
 14. Elektroninių ryšių infrastruktūrai įrengti ir (arba) bendrai naudoti tinkama fizinė infrastruktūra (toliau – tinkamos paskirties fizinė infrastruktūra) – dujų, elektros energijos, įskaitant viešąjį apšvietimą, šildymo, vandens, įskaitant nuotekų tvarkymo infrastruktūrą ir drenažo sistemas, gamybos, paskirstymo, perdavimo, tiekimo ar tvarkymo infrastruktūra, geležinkelių, kelių, uostų, oro uostų infrastruktūra ir kita fizinė infrastruktūra (vamzdynai, kabelių kanalai, kolektoriai, šuliniai, atraminės konstrukcijos, įskaitant bokštus, stiebai, statiniai, statinių įvadai, statinių inžinerinės sistemos ir kita), kuri tinka elektroninių ryšių infrastruktūrai įrengti ir (arba) bendrai naudoti su viešųjų elektroninių ryšių tinklų teikėju.
 
 15. Elektroninių ryšių ištekliai – radijo dažniai, radijo dažnių kanalai (toliau kartu – radijo dažniai (kanalai), ryšio numeriai ir kiti elektroninių ryšių tinklų identifikatoriai, įskaitant radijo šaukinius, orbitiniai ištekliai, įskaitant padėtį geostacionarioje orbitoje, taip pat kiti identifikatoriai, reikalingi elektroninių ryšių veiklai vykdyti, elektroninių ryšių tinklams arba radijo ryšio įrenginiams ar galiniams įrenginiams naudoti, elektroninių ryšių paslaugoms teikti.
@@ -1480,11 +1506,13 @@ Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 101. Žalingieji radijo trukdžiai – radijo trukdžiai, keliantys grėsmę radijo navigacinių tarnybų ar bet kurių kitų saugumo tarnybų funkcionavimui ar labai bloginantys, trukdantys ar nuolat pertraukiantys teisėtai veikiantį radijo ryšį.
 
-102. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente).
+102. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+
+Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
 
 II SKYRIUS
 
