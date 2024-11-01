@@ -4,7 +4,7 @@ identifier: "TAR.4F95269B43A0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2024-01-01"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4F95269B43A0"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pajūrio juostos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3091, i. k. 1021010ISTA0IX-1016
 
@@ -57,9 +57,11 @@ Straipsnio pakeitimai:
 
 Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
 
-7 straipsnis. Statybą leidžiantys dokumentai naujų ypatingųjų ir neypatingųjų statinių statybai pajūrio juostoje
+7 straipsnis. Neteko galios nuo 2024-11-01
 
-Statybą leidžiančius dokumentus naujų ypatingųjų ir neypatingųjų statinių, kurių projektiniams pasiūlymams pritarė aplinkos ministras, statybai pajūrio juostoje aplinkos ministro nustatyta tvarka išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Valstybinė teritorijų planavimo ir statybos inspekcija). Statytojas prašymą pritarti projektiniams pasiūlymams ir projektinius pasiūlymus aplinkos ministro nustatyta tvarka pateikia savivaldybės, kurioje jis planuoja statyti statinį, administracijai. Savivaldybės administracija aplinkos ministro nustatyta tvarka viešina projektinius pasiūlymus, apibendrina gautas visuomenės ar suinteresuotų institucijų pastabas projektiniams pasiūlymams ir statytojo prašymą pritarti projektiniams pasiūlymams, projektinius pasiūlymus ir viešinimo dokumentus pateikia Valstybinei teritorijų planavimo ir statybos inspekcijai. Valstybinė teritorijų planavimo ir statybos inspekcija aplinkos ministro nustatyta tvarka išnagrinėja savivaldybės administracijos pateiktus dokumentus, parengia išvadą, ar numatoma statyba atitinka šio Įstatymo 5 straipsnyje nurodytų teritorijų planavimo dokumentų sprendinius, ir visus dokumentus pateikia aplinkos ministrui. Aplinkos ministras per 20 darbo dienų įvertina gautus dokumentus ir priima sprendimą dėl pritarimo projektiniams pasiūlymams. Statytojas, gavęs aplinkos ministro sprendimą, kuriuo pritariama projektiniams pasiūlymams, aplinkos ministro nustatyta tvarka teikia prašymą dėl statybą leidžiančio dokumento išdavimo Valstybinei teritorijų planavimo ir statybos inspekcijai.
+Straipsnio naikinimas:
+
+Nr. XIV-2415, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25636
 
 Straipsnio pakeitimai:
 
@@ -238,4 +240,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1322, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15650
 
 Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 6 ir 10 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2415, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25636
+
+Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 7 straipsnio pripažinimo netekusiu galios įstatymas
 
