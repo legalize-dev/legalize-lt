@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2024-10-24"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2024-10-24 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-11-12
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
