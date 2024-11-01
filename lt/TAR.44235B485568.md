@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2024-07-06"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2024-07-06 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -40,6 +40,12 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 2. Atskirų energetikos sektorių veiklos teisinius pagrindus ir visuomeninių santykių ypatumus nustato kiti įstatymai. Kitų įstatymų nuostatos, reglamentuojančios energetikos veiklą, galioja tiek, kiek neprieštarauja šiam įstatymui, išskyrus šio straipsnio 3 dalyje nurodytą išimtį.
+
+21. Centralizuota energijos duomenų platforma – informacinių technologijų sistema, skirta energijos duomenims ir kitai su energetikos veikla susijusiai informacijai centralizuotai ir standartizuotai kaupti, saugoti ir jais keistis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 3. Naujos branduolinės (atominės) elektrinės, nurodytos Branduolinės (atominės) elektrinės įstatyme, projektą ir su juo susijusius klausimus reglamentuoja Branduolinės (atominės) elektrinės įstatymas. Šio įstatymo normos santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projektu ir su juo susijusiais klausimais, taikomos tiek, kiek jų nereglamentuoja Branduolinės (atominės) elektrinės įstatymas.
 
@@ -91,11 +97,15 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
-64. Energetikos darbuotojų atestavimo įstaiga (toliau – atestavimo įstaiga) – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos reguliavimo tarybos (toliau – Taryba) leidimą, kuriuo suteikiama teisė verstis energetikos darbuotojų atestavimo veikla.
+64. Energetikos darbuotojų atestavimo įstaiga (toliau – atestavimo įstaiga) – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos reguliavimo tarybos leidimą, kuriuo suteikiama teisė verstis energetikos darbuotojų atestavimo veikla.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 7. Energetikos įmonė – asmuo, kuris verčiasi energetikos veikla.
 
@@ -129,7 +139,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
-13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, kaupimą, transportavimą, perdavimą, skirstymą, tiekimą, prekybą, rinkodarą, energetikos darbuotojų atestavimą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą.
+13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, kaupimą, transportavimą, perdavimą, skirstymą, tiekimą, elektros energijos paklausos telkimą, prekybą, rinkodarą, energetikos darbuotojų atestavimą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą.
 
 Straipsnio dalies pakeitimai:
 
@@ -141,11 +151,19 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 Nr. XIV-633, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24227
 
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
 14. Energija – elektros energija, šilumos energija ir (ar) vėsumos energija. Energija yra laikoma preke. Šio įstatymo tikslais energijai priskiriamos gamtinės dujos ir centralizuotai tiekiamos suskystintos naftos dujos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3016, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13233
+
+141. Energijos duomenys – informacija, apimanti einamuosius ir ankstesnius energijos suvartojimo, gamybos ir (ar) kitų energetikos veiklų kiekybinius duomenis, įskaitant duomenis, susijusius su energetikos veiklos administravimu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 15. Energijos ištekliai – gamtiniai ištekliai ir (ar) jų perdirbimo produktai, naudojami energijai gaminti ar transporto sektoriuje.
 
@@ -193,6 +211,12 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
+251. Privalomasis nurodymas – Valstybinės energetikos reguliavimo tarybos nustatyta tvarka parengtas Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojo įpareigojimas asmeniui per nustatytą terminą įgyvendinti energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų reikalavimus arba imtis priemonių, kad energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų pažeidimų arba žalos dėl jų būtų išvengta arba kad žala būtų sumažinta, arba likviduoti tų pažeidimų sukeltas pasekmes.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
 26. Reguliuojamoji energetikos veikla (toliau – reguliuojamoji veikla) – energetikos veikla, kuriai reikalingi licencijos, leidimai, atestatai ir (ar) kuriai taikomos valstybės reguliuojamos kainos.
 
 Straipsnio dalies numeracijos pakeitimas:
@@ -215,7 +239,7 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
-29. Reguliavimo apskaitos sistemos patikra – energetikos įmonei auditoriaus, audito įmonės pagal Tarybos tai energetikos įmonei motyvuotu sprendimu nustatytą reikalavimą teikiama paslauga, kurią atlikus pagal Tarybos patvirtintą techninę užduotį pateikiama reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada.
+29. Reguliavimo apskaitos sistemos patikra – energetikos įmonei auditoriaus, audito įmonės pagal Valstybinės energetikos reguliavimo tarybos tai energetikos įmonei motyvuotu sprendimu nustatytą reikalavimą teikiama paslauga, kurią atlikus pagal Valstybinės energetikos reguliavimo tarybos patvirtintą techninę užduotį pateikiama reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada.
 
 Papildyta straipsnio dalimi:
 
@@ -227,7 +251,9 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
-30. Reguliuojamosios veiklos ataskaitos – energetikos įmonių Tarybai teikiamos vykdomos veiklos ataskaitos, kurios rengiamos vadovaujantis reguliavimo apskaitos sistemos reikalavimais ir atskirų energetikos sektorių veiklą reglamentuojančiais teisės aktais ir kuriose parodomas apskaitos atskyrimas ir sąnaudų paskirstymas pagal veiklas.
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
+30. Reguliuojamosios veiklos ataskaitos – energetikos įmonių Valstybinei energetikos reguliavimo tarybai teikiamos vykdomos veiklos ataskaitos, kurios rengiamos vadovaujantis reguliavimo apskaitos sistemos reikalavimais ir atskirų energetikos sektorių veiklą reglamentuojančiais teisės aktais ir kuriose parodomas apskaitos atskyrimas ir sąnaudų paskirstymas pagal veiklas.
 
 Papildyta straipsnio dalimi:
 
@@ -237,7 +263,9 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
-31. Reguliuojamosios veiklos ataskaitų patikra – energetikos įmonei auditoriaus, audito įmonės kasmet teikiama paslauga, kurią atlikus pagal Tarybos patvirtintą ar pratęstą galioti techninę užduotį pateikiama reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada.
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
+31. Reguliuojamosios veiklos ataskaitų patikra – energetikos įmonei auditoriaus, audito įmonės kasmet teikiama paslauga, kurią atlikus pagal Valstybinės energetikos reguliavimo tarybos patvirtintą ar pratęstą galioti techninę užduotį pateikiama reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada.
 
 Papildyta straipsnio dalimi:
 
@@ -246,6 +274,8 @@ Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 32. Suskystintos naftos dujos – sočiųjų ir nesočiųjų angliavandenilių mišinys, išgautas perdirbant naftos produktus, kuris normaliomis sąlygomis yra dujinės būsenos.
 
@@ -263,7 +293,7 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
-34. Techninė užduotis – Tarybos kasmet iki kovo 31 dienos tvirtinamas ar pratęsiamas galioti dokumentas, kuris yra rengiamas atskiriems energetikos sektoriams ir (ar) pagal atskiras reguliuojamąsias veiklas, o atliekant reguliavimo apskaitos sistemos patikrą šio įstatymo 161 straipsnio 2 dalyje nustatytais atvejais Tarybos tvirtinamas dokumentas, kuriame nurodomi konkretūs Tarptautinės buhalterių federacijos Tarptautinių audito ir užtikrinimo standartų valdybos parengti ir patvirtinti tarptautiniai užtikrinimo užduočių, tarptautiniai peržiūros užduočių, tarptautiniai susijusių paslaugų standartai ir susiję praktiniai nurodymai (toliau – profesiniai standartai) arba tarptautiniai audito standartai, kuriais vadovaujantis turi būti atliekama energetikos įmonių reguliuojamosios veiklos ataskaitų patikra ir (ar) reguliavimo apskaitos sistemos patikra, ir šių patikros paslaugų reikalavimai ir (ar) apimtis.
+34. Techninė užduotis – Valstybinės energetikos reguliavimo tarybos kasmet iki kovo 31 dienos tvirtinamas ar pratęsiamas galioti dokumentas, kuris yra rengiamas atskiriems energetikos sektoriams ir (ar) pagal atskiras reguliuojamąsias veiklas, o atliekant reguliavimo apskaitos sistemos patikrą šio įstatymo 161 straipsnio 2 dalyje nustatytais atvejais Valstybinės energetikos reguliavimo tarybos tvirtinamas dokumentas, kuriame nurodomi konkretūs Tarptautinės buhalterių federacijos Tarptautinių audito ir užtikrinimo standartų valdybos parengti ir patvirtinti tarptautiniai užtikrinimo užduočių, tarptautiniai peržiūros užduočių, tarptautiniai susijusių paslaugų standartai ir susiję praktiniai nurodymai (toliau – profesiniai standartai) arba tarptautiniai audito standartai, kuriais vadovaujantis turi būti atliekama energetikos įmonių reguliuojamosios veiklos ataskaitų patikra ir (ar) reguliavimo apskaitos sistemos patikra, ir šių patikros paslaugų reikalavimai ir (ar) apimtis.
 
 Papildyta straipsnio dalimi:
 
@@ -272,6 +302,8 @@ Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 35. Tiekimo saugumas – energijos išteklių ir (ar) energijos tiekimo patikimumas ir techninis saugumas.
 
@@ -437,11 +469,13 @@ Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 4) Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija);
 
-5) Taryba;
+5) Valstybinė energetikos reguliavimo taryba (toliau – Taryba);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 6) netenka galios 2019-07-01;
 
@@ -591,7 +625,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
-14) nustato energetikos valstybinės kontrolės ir vartotojų energetikos įrenginių kontrolės tvarką;
+14) Neteko galios nuo 2024-11-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 15) nustato energetikos darbuotojų atestavimo tvarką;
 
@@ -601,7 +639,11 @@ Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
-16) nustato asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo tvarką ir sąlygas;
+16) Neteko galios nuo 2024-11-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 Straipsnio punkto pakeitimai:
 
@@ -737,6 +779,12 @@ Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 10. Taryba atsako už savo nutarimų pagrįstumą ir teisėtumą. Tarybos nutarimai priimami vardiniu balsavimu. Tarybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip keturi Tarybos nariai, įskaitant jos pirmininką. Sprendimai priimami posėdyje dalyvaujančių Tarybos narių balsų dauguma. Balsams pasiskirsčius po lygiai, lemia Tarybos pirmininko balsas.
 
+101. Tarybos posėdžiai Tarybos nustatyta tvarka gali būti organizuojami nuotoliniu būdu, naudojantis saugia programine įranga. Tarybos posėdžio eigai fiksuoti daromas garso įrašas, kuris yra Tarybos posėdžio protokolo dalis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
 11. Taryba atlieka šias funkcijas:
 
 1) tvirtina reguliavimo apskaitos sistemos reikalavimus ir (ar) metodą, ir (ar) modelį;
@@ -801,7 +849,11 @@ Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 19) skiria šio įstatymo 36 straipsnyje nustatytas sankcijas;
 
-20) atlieka energetikos įmonių veiklos patikrinimus;
+20) atlieka energetikos įmonių veiklos, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 21) išduoda energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatus, juos keičia, sustabdo atestatų galiojimą, panaikina galiojimo sustabdymą, panaikina atestatų galiojimą ir kontroliuoja energetikos įrenginių įrengimo ir eksploatavimo reguliuojamąją veiklą;
 
@@ -809,7 +861,11 @@ Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 23) tiria energetikos objektų, įrenginių avarijas ir darbo sutrikimus, dalyvauja tiriant nelaimingus atsitikimus darbe ir buityje, susijusius su energijos vartojimu;
 
-24) Energetikos ministerijos nustatyta tvarka kontroliuoja energetikos įrenginių įrengimą;
+24) Neteko galios nuo 2024-11-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 25) organizuoja šio įstatymo 28 straipsnyje nurodytų energetikos darbuotojų atestavimą;
 
@@ -849,7 +905,43 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
-36) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas.
+36) tvirtina centralizuotos energijos duomenų platformos valdytojo parengtą naudojimosi centralizuota energijos duomenų platforma tvarkos aprašą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
+37) vertina centralizuotos energijos duomenų platformos plėtros, priežiūros ir valdymo sąnaudų pagrįstumą nustatant valstybės reguliuojamas kainas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
+38) nustato energetikos valstybinės kontrolės ir vartotojų energetikos įrenginių kontrolės tvarką;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
+39) tvirtina energetikos įrenginių avarijų ir sutrikimų tyrimo ir apskaitos nuostatus;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
+40) nustato asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo tvarką ir sąlygas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
+41) priima sprendimus dėl Tarybos pirmininko nusišalinimo;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
+42) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas.
 
 Straipsnio punkto pakeitimai:
 
@@ -859,11 +951,15 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
-12. Taryba turi teisę visas arba dalį savo funkcijų, nustatytų šio straipsnio 11 dalies 21 ir 30 punktuose, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę dalį šio straipsnio 11 dalies 71 punkte nustatytų Tarybos funkcijų, susijusių su energetikos veiklos leidimų keitimu, leidimų galiojimo sustabdymu ir galiojimo sustabdymo panaikinimu, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę visas arba dalį Tarybos funkcijų, nustatytų šio straipsnio 11 dalies 20 punkte, susijusių su energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių įrengimo, eksploatavimo, techninės saugos, energijos ir energijos išteklių gamybos, perdavimo, skirstymo, tiekimo patikimumo patikrinimais, 22 punkte, 23 punkte, išskyrus funkcijas, susijusias su energetikos objektų, įrenginių avarijų ir darbo sutrikimais, 24 punkte, pavesti vykdyti Tarybos valstybės tarnautojui.
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+
+12. Taryba turi teisę visas arba dalį savo funkcijų, nustatytų šio straipsnio 11 dalies 21 ir 30 punktuose, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę dalį šio straipsnio 11 dalies 71 punkte nustatytų Tarybos funkcijų, susijusių su energetikos veiklos leidimų keitimu, leidimų galiojimo sustabdymu ir galiojimo sustabdymo panaikinimu, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę visas arba dalį Tarybos funkcijų, nustatytų šio straipsnio 11 dalies 20 punkte, susijusių su energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių įrengimo, eksploatavimo, techninės saugos, energijos ir energijos išteklių gamybos, perdavimo, skirstymo, tiekimo patikimumo patikrinimais, 22 punkte, 23 punkte, išskyrus funkcijas, susijusias su energetikos objektų, įrenginių avarijų ir darbo sutrikimais, 24 punkte, pavesti vykdyti Tarybos administracijos valstybės tarnautojui. Taryba turi teisę panaikinti ar pakeisti Tarybos administracijos valstybės tarnautojo priimtus teisėtus sprendimus, susijusius su šioje dalyje nurodytų funkcijų, pavestų Tarybos administracijos valstybės tarnautojui, atlikimu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 13. Tarybos pirmininkas:
 
@@ -1022,6 +1118,12 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-3337, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22205
+
+5. Didesnės kaip 150 MW leistinos generuoti galios elektros energijos iš atsinaujinančių išteklių gamybos ir (ar) didesnės kaip 100 MW leistinos naudoti galios elektros energijos vartojimo, kai planuojama vartoti tik iš atsinaujinančių energijos išteklių pagamintą elektros energiją, projektai yra pripažįstami valstybei svarbiais projektais. Šiems projektams valstybinė žemė be aukciono nenuomojama.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 16 straipsnis. Energetikos veikla
 
@@ -1239,7 +1341,11 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 7) naftos ir naftos produktų įrenginių eksploatavimo.
 
-2. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai, nurodyti šio straipsnio 1 dalyje, išduodami ne ilgesniam kaip penkerių metų laikotarpiui. Konkretūs atestatų galiojimo terminai ir jų nustatymo kriterijai, taip pat atestatuose įrašytų duomenų keitimo atvejai ir tvarka nustatomi šiame įstatyme ir Energetikos ministerijos patvirtintose Asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo taisyklėse.
+2. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai, nurodyti šio straipsnio 1 dalyje, išduodami ne ilgesniam kaip penkerių metų laikotarpiui. Konkretūs atestatų galiojimo terminai ir jų nustatymo kriterijai, taip pat atestatuose įrašytų duomenų keitimo atvejai ir tvarka nustatomi šiame įstatyme ir Tarybos tvirtinamose asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo taisyklėse.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 3. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai, nurodyti šio straipsnio 1 dalyje, išduodami asmenims, nurodytiems šio įstatymo 2 straipsnio 1 dalyje, jeigu jie atitinka šiuos reikalavimus:
 
@@ -1792,6 +1898,12 @@ Asmenys, nesilaikantys ar nevykdantys šio įstatymo reikalavimų, atsako šio i
 4) už energijos perdavimo ar skirstymo veiklos nepriklausomumo ir veiklos atskyrimo reikalavimų nevykdymą ar jų netinkamą vykdymą, vertikalios integracijos įmonei ir (ar) tinklų operatoriui – iki 10 procentų šios energetikos įmonės metinių pajamų, gautų praėjusiais finansiniais metais;
 
 5) už Lietuvos Respublikos šilumos ūkio įstatyme nustatytų pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) veiklos reikalavimų nesilaikymą – iki 10 procentų pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) metinių pajamų dydžio, gautų praėjusiais finansiniais metais.
+
+11. Kai Tarybai skiriant baudą energetikos įmonėms už pažeidimus, vykdant reguliuojamąją veiklą pagal šio straipsnio 1 dalį, duomenų apie pajamas, gautas praėjusiais metais iš konkrečios reguliuojamosios veiklos, nėra arba praėjusiais metais reguliuojamoji veikla nebuvo vykdoma, vertinamos paskutinių finansinių metų, kurių duomenis Taryba turi, vertikalios integracijos įmonės ir (ar) tinklų operatoriaus metinės pajamos, o kitą energetikos veiklą vykdančių įmonių – paskutinių finansinių metų, kurių duomenis Taryba turi, metinės pajamos iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 2. Didmeninės energijos rinkos dalyviams už Reglamento (ES) Nr. 1227/2011 nuostatų pažeidimus Taryba skiria sankcijas:
 
@@ -2377,15 +2489,15 @@ Straipsnio pakeitimai:
 
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
-241 straipsnis. Energetikos įmonių reguliuojamosios veiklos patikrinimai
+241 straipsnis. Energetikos įmonių reguliuojamosios veiklos, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimai
 
-1. Taryba, vadovaudamasi šio įstatymo ir Lietuvos Respublikos viešojo administravimo įstatymo nuostatomis, prižiūrėdama, kaip energetikos įmonės vykdo reguliuojamąją veiklą, turi teisę atlikti energetikos įmonių veiklos patikrinimus. Atlikdama patikrinimus, Taryba turi teisę:
+1. Taryba, vadovaudamasi šio įstatymo ir Lietuvos Respublikos viešojo administravimo įstatymo nuostatomis, prižiūrėdama, kaip energetikos įmonės vykdo reguliuojamąją veiklą, atlikdama energetikos valstybinę kontrolę ir priežiūrą, atlieka energetikos įmonių veiklos, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimus. Atlikdama patikrinimus Taryba turi teisę:
 
-1) pagal šio ir kitų įstatymų bei kitų teisės aktų nustatytas sąlygas ir procedūras gauti visą patikrinimui atlikti būtiną ir reikalingą informaciją, duomenis, dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus;
+1) šio ir kitų įstatymų nustatyta tvarka neatlygintinai gauti visą patikrinimui atlikti būtiną ir reikalingą informaciją, duomenis, dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus;
 
-2) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tikrinamos energetikos įmonės veikla, reikalauti, kad jie atvyktų į Tarybos patalpas duoti paaiškinimų;
+2) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tikrinamos energetikos įmonės veikla, energetikos objektu, energetikos įrenginiu ir (ar) vartotojų energetikos įrenginiu, reikalauti, kad jie atvyktų į Tarybos patalpas duoti paaiškinimų;
 
-3) gauti patikrinimui atlikti būtiną informaciją ir dokumentus, jų kopijas apie juridinių asmenų turtą ir pajamas, ūkines, finansines ir kitas operacijas iš valstybės ir savivaldybės institucijų, taip pat iš Lietuvos banko, komercinių bankų ir kitų kredito bei finansų įstaigų, auditorių, kitų juridinių ir fizinių asmenų, nepaisant to, ar informacija laikoma konfidencialia, ar nelaikoma, gauti informaciją iš valstybės ar kitų juridinių asmenų valdomų ar tvarkomų registrų ar duomenų bazių;
+3) gauti patikrinimui atlikti būtiną informaciją ir dokumentus, jų kopijas apie juridinių asmenų turtą ir pajamas, ūkines, finansines ir kitas operacijas iš valstybės ir savivaldybės institucijų, taip pat iš Lietuvos banko, komercinių bankų ir kitų kredito bei finansų įstaigų, auditorių, kitų juridinių ir fizinių asmenų, nepaisant to, ar informacija laikoma konfidencialia ar nelaikoma, gauti informaciją iš valstybės ar kitų juridinių asmenų valdomų ar tvarkomų registrų ar duomenų bazių;
 
 4) pagal patikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas;
 
@@ -2397,11 +2509,11 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 8) naudotis kitomis įstatymų suteiktomis teisėmis.
 
-2. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, užtikrindami jiems pavestų uždavinių ir funkcijų vykdymą atliekant patikrinimus, turi šias teises, kurias įgyvendina Tarybos vardu:
+2. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, užtikrindami jiems pavestų uždavinių ir funkcijų vykdymą atliekant patikrinimus, turi šias teises, kurias įgyvendina Tarybos vardu:
 
-1) nekliudomai įeiti į energetikos įmonių ir kitų juridinių asmenų naudojamas patalpas ar teritoriją ir atlikti patikrinimo veiksmus juridinių asmenų darbo metu, o ne darbo laiku – jeigu yra pagrįstų įtarimų, kad pažeidžiami įstatymai, dalyvaujant juridinio asmens atstovui, patalpų, teritorijos savininkui ar jo įgaliotam atstovui. Į kitų juridinių asmenų naudojamas patalpas ar teritoriją Tarybos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, gali patekti tik pateikę teismo išduotą leidimą arba gavę juridinio asmens sutikimą;
+1) patekti į tikrinamų energetikos įmonių, asmenų, dėl kurių energetikos objektų ir (ar) įrenginių ar vartotojų energetikos įrenginių atliekamas patikrinimas, ir kitų juridinių asmenų naudojamas patalpas, gyvenamąsias patalpas ar teritoriją ir atlikti patikrinimo veiksmus. Juridinių asmenų naudojamose patalpose ar teritorijoje patikrinimo veiksmai atliekami dalyvaujant juridinio asmens atstovui, patalpų ar teritorijos savininkui ar jo įgaliotam atstovui juridinių asmenų darbo metu, o ne darbo laiku – jeigu yra pagrįstų įtarimų, kad pažeidžiami teisės aktai, į fizinių asmenų gyvenamąsias patalpas ar teritoriją Tarybos įgalioti Tarybos administracijos valstybės tarnautojai gali patekti tik gavę gyventojo rašytinį sutikimą arba pateikę teismo išduotą leidimą. Gyventojams ne vėliau kaip prieš 3 darbo dienas turi būti raštu pranešta apie numatytą patikrinimo datą ir laiką;
 
-2) užfiksuoti faktines aplinkybes;
+2) gerbdami asmens privataus gyvenimo neliečiamumą ir teisę į asmens duomenų apsaugą, faktinių aplinkybių užfiksavimo tikslu fotografuoti, daryti garso ir (ar) vaizdo įrašus. Fotografijų, garso ir (ar) vaizdo įrašų darymo ir naudojimo bei gautų asmens duomenų tvarkymo reikalavimus nustato Taryba;
 
 3) patikrinimo metu naudoti technines priemones;
 
@@ -2409,13 +2521,23 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 5) tikrinti asmenų tapatybę patvirtinančius dokumentus;
 
-6) savo funkcijoms atlikti teisės aktų nustatyta tvarka pasitelkti teisėsaugos institucijas.
+6) savo funkcijoms atlikti teisės aktų nustatyta tvarka pasitelkti teisėsaugos institucijas;
 
-3. Asmenys, nurodyti šio straipsnio 1 dalies 5 ir 6 punktuose, turi teises, nustatytas šio straipsnio 1 dalies 1, 2 ir 7 punktuose ir 2 dalies 1 punkte.
+7) atlikdami energetikos įmonių reguliuojamosios veiklos, energetikos objektų, įrenginių ir vartotojų energetikos įrenginių patikrinimus gali duoti privalomuosius nurodymus;
 
-4. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, prieš atlikdami šiame straipsnyje nurodytus veiksmus, turi pateikti Tarybos išduotą dokumentą, patvirtinantį jų įgaliojimus, patikrinimo tikslus ir terminus.
+8) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tikrinamos energetikos įmonės veikla, iš asmenų, dėl kurių energetikos objektų ir (ar) įrenginių atliekamas patikrinimas, vartotojų, dėl kurių poreikiams tenkinti skirtų energetikos įrenginių atliekamas patikrinimas, reikalauti, kad jie atvyktų duoti paaiškinimų į tyrimą atliekančio Tarybos administracijos valstybės tarnautojo tarnybines patalpas;
 
-5. Tikrinama energetikos įmonė privalo:
+9) laikinai, iki Tarybos atliekamo patikrinimo pabaigos, paimti dokumentus ir (ar) daiktus, kurie būtini ar turi įrodomosios reikšmės tiriant pažeidimą, ir pateikti asmeniui, susijusiam su tikrinamos energetikos įmonės veikla, asmeniui, dėl kurio energetikos objekto ir (ar) įrenginio atliekamas patikrinimas, vartotojui, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, motyvuotą sprendimą dėl dokumentų ir (arba) daiktų poėmio bei paimtų dokumentų ir (arba) daiktų apyrašą;
+
+10) paimti energijos išteklių pavyzdžius ir atlikti jų laboratorinius tyrimus;
+
+11) kitas šio ir kitų įstatymų nustatytas teises.
+
+3. Asmenys, nurodyti šio straipsnio 1 dalies 5 ir 6 punktuose, turi teises, nustatytas šio straipsnio 1 dalies 1 ir 7 punktuose, 2 dalies 1 punkte.
+
+4. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, prieš atlikdami šiame straipsnyje nurodytus veiksmus, turi pateikti Tarybos išduotą dokumentą, patvirtinantį jų įgaliojimus, patikrinimo tikslus ir terminus.
+
+5. Tikrinama energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, privalo:
 
 1) paskirti įgaliotus atsakingus asmenis, kurie dalyvautų atliekant patikrinimą ir bendradarbiautų su Taryba;
 
@@ -2423,41 +2545,41 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 3) teikti žodinius ir rašytinius paaiškinimus, Tarybai pareikalavus, paaiškinimus duoti Tarybos patalpose;
 
-4) sudaryti reikiamas sąlygas patikrinimui atlikti, kai patikrinimas atliekamas energetikos įmonės patalpose ar teritorijoje;
+4) sudaryti reikiamas sąlygas patikrinimui atlikti, kai patikrinimas atliekamas tikrinamos energetikos įmonės, asmens, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojo, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, patalpose ar teritorijoje;
 
-5) vykdyti kitus Tarybos ir jos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, teisėtus reikalavimus.
+5) vykdyti kitus Tarybos ir jos įgaliotų Tarybos administracijos valstybės tarnautojų teisėtus reikalavimus.
 
-6. Tikrinama energetikos įmonė turi teisę:
+6. Tikrinama energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, turi teisę:
 
-1) informuoti Tarybą apie neteisėtus Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, veiksmus;
+1) informuoti Tarybą apie galimai neteisėtus Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų veiksmus;
 
-2) apskųsti neteisėtus Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, patikrinimui pasitelktų specialistų ar ekspertų veiksmus;
+2) apskųsti galimai neteisėtus Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų veiksmus ir privalomuosius nurodymus ir patikrinimui pasitelktų asmenų veiksmus;
 
 3) raštu ir (ar) žodžiu teikti pastabas ir paaiškinimus dėl patikrinimo akte ir jo prieduose nurodytos informacijos;
 
-4) dalyvauti Tarybos posėdyje svarstant patikrinimo aktą.
+4) dalyvauti Tarybos posėdyje svarstant patikrinimo aktą;
 
-7. Kiti juridiniai asmenys patikrinimų metu turi teises ir pareigas, nustatytas šio straipsnio 5 dalies 2–5 punktuose ir 6 dalies 1 ir 2 punktuose.
+5) pateikti pastabas ir pasiūlymus dėl Tarybos administracijos valstybės tarnautojo surašyto patikrinimo akto ar duoto privalomojo nurodymo, jeigu atliekamas energetikos įmonių reguliuojamosios veiklos patikrinimas, energetikos objekto, energetikos įrenginio ir (ar) vartotojo energetikos įrenginio patikrinimas.
 
-8. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, įgyvendindami jiems suteiktas teises, surašo dokumentus (aktus, protokolus, reikalavimus ir pan.). Jų formas patvirtina ir pildymo tvarką nustato Taryba.
+7. Kiti juridiniai asmenys patikrinimų metu turi teises ir pareigas, nustatytas šio straipsnio 5 dalies 2–5 punktuose ir 6 dalies 1 ir 2 punktuose.
 
-9. Tarybos ir jos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, reikalavimai, duoti atliekant šiame straipsnyje nurodytus veiksmus, yra privalomi juridiniams ir fiziniams asmenims, kurie privalo tinkamai bendradarbiauti su Taryba, jos įgaliotais Tarybos administracijos valstybės tarnautojais ir darbuotojais, dirbančiais pagal darbo sutartis, ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodytais asmenimis. Už reikalavimų nevykdymą, netinkamą bendradarbiavimą ar trukdymą atlikti patikrinimo veiksmus taikomos šio ir kitų įstatymų nustatytos sankcijos.
+8. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, įgyvendindami jiems suteiktas teises, surašo dokumentus (aktus, protokolus, reikalavimus, privalomuosius nurodymus ir pan.). Jų formas tvirtina ir pildymo tvarką nustato Taryba.
 
-10. Tikrinama energetikos įmonė, juridiniai ir fiziniai asmenys Tarybai, jos įgaliotiems Tarybos administracijos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodytiems asmenims privalo pateikti reikalaujamą informaciją net ir tuo atveju, jeigu tokia informacija sudaro tikrinamos energetikos įmonės komercinę (gamybinę) paslaptį arba yra konfidenciali dėl kitų priežasčių. Taryba, jos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodyti asmenys privalo užtikrinti patikrinimo metu gautos konfidencialios informacijos konfidencialumą.
+9. Tarybos ir jos įgaliotų Tarybos administracijos valstybės tarnautojų reikalavimai, duoti atliekant šiame straipsnyje nurodytus veiksmus, yra privalomi juridiniams ir fiziniams asmenims, kurie privalo tinkamai bendradarbiauti su Taryba, jos įgaliotais Tarybos administracijos valstybės tarnautojais ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodytais asmenimis. Už reikalavimų nevykdymą, netinkamą bendradarbiavimą ar trukdymą atlikti patikrinimo veiksmus taikomos šio ir kitų įstatymų nustatytos sankcijos.
 
-11. Šio straipsnio 6 dalies 2 punkte nurodytą skundą tikrinama energetikos įmonė turi teisę paduoti pirmosios instancijos administraciniam teismui teisės aktų nustatyta tvarka. Skundo padavimas Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, patikrinimui pasitelktų specialistų ar ekspertų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip.
+10. Tikrinama energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, kiti juridiniai ir fiziniai asmenys Tarybai, jos įgaliotiems Tarybos administracijos valstybės tarnautojams ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodytiems asmenims privalo pateikti reikalaujamą informaciją net ir tuo atveju, jeigu tokia informacija sudaro tikrinamos energetikos įmonės, asmens, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojo, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, komercinę paslaptį arba yra konfidenciali dėl kitų priežasčių. Taryba, jos įgalioti Tarybos administracijos valstybės tarnautojai ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodyti asmenys privalo užtikrinti patikrinimo metu gautos konfidencialios ir (ar) komercinę paslaptį sudarančios informacijos apsaugą.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1587, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25148
+11. Šio straipsnio 6 dalies 2 punkte nurodytą skundą tikrinama energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, turi teisę paduoti Regionų administraciniam teismui teisės aktų nustatyta tvarka. Skundo padavimas Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų, patikrinimui pasitelktų specialistų ar ekspertų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip.
 
 12. Už šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodytas paslaugas, jeigu jos pagal galiojančius teisės aktus yra teikiamos atlygintinai, Taryba atsiskaito teisės aktų nustatyta tvarka.
 
-13. Lietuvos bankas, komerciniai bankai ar kitos kredito bei finansų įstaigos šio straipsnio 1 dalies 3 punkte nurodytą informaciją Tarybai teikia teisės aktų nustatyta tvarka.
+13. Lietuvos bankas, komerciniai bankai ar kitos kredito bei finansų įstaigos šio straipsnio 1 dalies 3 punkte nurodytą informaciją Tarybai teikia teisės aktų nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 301 straipsnis. Už suvartotą energiją susidariusių vartotojo skolų ir permokų apmokėjimo tvarka
 
@@ -2788,4 +2910,36 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 Papildyta straipsniu:
 
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
+
+242 straipsnis. Privalomieji nurodymai
+
+1. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, nustatę energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų reikalavimų nesilaikymo ar netinkamo vykdymo faktą, Tarybos nustatyta tvarka turi teisę asmeniui duoti privalomąjį nurodymą.
+
+2. Privalomasis nurodymas gali būti duodamas šiais atvejais:
+
+1) kai dėl energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų nesilaikymo kyla reali grėsmė, kad bus padarytas tiesioginis neigiamas poveikis žmonių sveikatai ar gyvybei, turtui, aplinkai ar kitoms teisės aktais saugomoms vertybėms, duodamas privalomasis nurodymas sustabdyti energetikos veiklą, energetikos objekto, energetikos įrenginio ar vartotojo energetikos įrenginio ar jo dalies eksploatavimą. Šiuo atveju privalomajame nurodyme turi būti nustatytos sąlygos ar priemonės, kurias įgyvendinus galima atnaujinti sustabdytą energetikos veiklą, energetikos objekto, energetikos įrenginio ar vartotojo energetikos įrenginio ar jo dalies eksploatavimą;
+
+2) kai Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, atlikdami jiems pavestas funkcijas, nustato teisės aktų nuostatų pažeidimus, kurie nepatenka į šio straipsnio 2 dalies 1 punktu reguliuojamą sritį, duodamas privalomasis nurodymas pašalinti teisės aktų pažeidimus.
+
+3. Taryba nustato privalomojo nurodymo formą, privalomojo nurodymo vykdymo tvarką, privalomojo nurodymo įvykdymo terminą ir kitas su privalomuoju nurodymu susijusias sąlygas.
+
+4. Jeigu privalomasis nurodymas neįvykdomas per privalomojo nurodymo įvykdymo terminą, Taryba asmeniui skiria šio įstatymo 36 straipsnio 3 dalyje nurodytą sankciją, išskyrus atvejus, kai byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo nagrinėjama teisme. Tokiais atvejais už privalomojo nurodymo neįvykdymą asmuo traukiamas atsakomybėn įsiteisėjus teismo sprendimui nepanaikinti privalomojo nurodymo arba kai sueina teismo nustatyti papildomi privalomojo nurodymo įvykdymo terminai ar įsiteisėja teismo sprendimas dėl privalomojo nurodymo įvykdymo termino nepratęsimo.
+
+5. Privalomąjį nurodymą gali apskųsti asmuo, kuriam duotas privalomasis nurodymas, per vieną mėnesį nuo privalomojo nurodymo įteikimo dienos pateikdamas skundą Tarybai arba Regionų administraciniam teismui.
+
+6. Taryba, laikydamasi Viešojo administravimo įstatyme nustatytų terminų, savo nustatyta tvarka išnagrinėjusi asmens skundą dėl privalomojo nurodymo, priima vieną iš šių sprendimų:
+
+1) privalomąjį nurodymą palieka nepakeistą;
+
+2) privalomąjį nurodymą pakeičia iš dalies – sumažina jame nustatytus reikalavimus arba Tarybos nustatyta tvarka nustato kitus jo įvykdymo terminus;
+
+3) privalomąjį nurodymą panaikina ir paveda jį davusiam Tarybos įgaliotam Tarybos administracijos valstybės tarnautojui duoti naują privalomąjį nurodymą;
+
+4) privalomąjį nurodymą panaikina.
+
+7. Jeigu asmenys nesutinka su šio straipsnio 6 dalyje nurodytu Tarybos sprendimu arba Taryba neišnagrinėja skundo per Viešojo administravimo įstatyme nustatytą terminą, asmenys turi teisę paduoti skundą Regionų administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Skundo padavimas Tarybai ar Regionų administraciniam teismui privalomojo nurodymo vykdymo nesustabdo, jeigu atitinkamai Taryba arba Regionų administracinis teismas nenusprendžia kitaip.
+
+Papildyta straipsniu:
+
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
