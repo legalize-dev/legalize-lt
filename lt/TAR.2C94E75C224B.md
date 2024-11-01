@@ -4,7 +4,7 @@ identifier: "TAR.2C94E75C224B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2022-01-02"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2C94E75C224B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2022-01-02 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4433, i. k. 1041010ISTA0IX-2387
 
@@ -565,17 +565,17 @@ Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomo
 
 121 straipsnis. Įmonių, priklausančių finansų konglomeratui, viešasis sąrašas
 
-1. Mišrios veiklos finansų kontroliuojančioji įmonė, jeigu ji yra patronuojančioji įmonė, turinti buveinę Lietuvos Respublikoje, finansų kontroliuojančioji bendrovė, jeigu ji yra patronuojančioji įmonė, turinti buveinę Lietuvos Respublikoje, kreipiasi į Lietuvos Respublikos priežiūros instituciją dėl jų įrašymo į Įmonių, priklausančių finansų konglomeratui, viešąjį sąrašą (toliau – Sąrašas). Kitos finansų kontroliuojančiosios bendrovės, jeigu jos yra patronuojančiosios įmonės, arba mišrios veiklos finansų kontroliuojančiosios įmonės, jeigu jos yra patronuojančiosios įmonės, kreipiasi į Lietuvos Respublikos priežiūros instituciją dėl jų įrašymo į Sąrašą, kai savo veikloje privalo laikytis Bankų įstatymo ir kai reikalaujama, kad jos iš dalies konsoliduotai laikytųsi Reglamento (ES) Nr. 575/2013 reikalavimų.
+1. Finansų kontroliuojančioji bendrovė, veikianti kaip patronuojančioji įmonė Lietuvos Respublikoje arba kitoje valstybėje narėje, arba mišrios veiklos finansų kontroliuojančioji įmonė, veikianti kaip patronuojančioji įmonė Lietuvos Respublikoje arba kitoje valstybėje narėje, kreipiasi į Lietuvos Respublikos priežiūros instituciją dėl įrašymo į Įmonių, priklausančių finansų konglomeratui, viešąjį sąrašą (toliau – Sąrašas). Kitos finansų kontroliuojančiosios bendrovės arba mišrios veiklos finansų kontroliuojančiosios įmonės kreipiasi į Lietuvos Respublikos priežiūros instituciją dėl įrašymo į Sąrašą, kai savo veikloje privalo laikytis Bankų įstatymo ir kai reikalaujama, kad jos iš dalies konsoliduotai laikytųsi Reglamento (ES) Nr. 575/2013 reikalavimų.
 
-2. Kreipiantis dėl įrašymo į Sąrašą, priežiūros institucijai ir priežiūros institucijai, atsakingai už jungtinę (konsoliduotą) priežiūrą, jeigu ji nėra Lietuvos Respublikos priežiūros institucija, turi būti pateiktas prašymas ir priežiūros institucijos nustatytus reikalavimus atitinkantys dokumentai ir (arba) duomenys apie:
+Straipsnio dalies pakeitimai:
 
-1) grupės, kuriai priklauso finansų kontroliuojančioji bendrovė arba mišrios veiklos finansų kontroliuojančioji įmonė, organizacinę struktūrą, patronuojančiąsias įmones, jų patronuojamąsias įmones (jeigu tokių ji turi), taip pat kiekvieno iš grupės subjektų vykdomos veiklos vietą ir rūšį;
+Nr. XIV-2716, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11239
 
-2) finansų kontroliuojančiosios bendrovės arba mišrios veiklos finansų kontroliuojančiosios įmonės vadovus (bent apie du vadovus);
+2. Šio straipsnio 1 dalyje nurodyta tarpinė patronuojančioji įmonė, veikianti Lietuvos Respublikoje arba kitoje valstybėje narėje, turi gauti kredito įstaigos licenciją arba turi būti įrašyta į Sąrašą šio įstatymo 121 straipsnyje nustatyta tvarka. Ši nuostata netaikoma šio straipsnio 4 dalyje nustatytais atvejais.
 
-3) kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turinčius asmenis (pateikiama, kai viena iš finansų kontroliuojančiosios bendrovės arba mišrios veiklos finansų kontroliuojančiosios įmonės patronuojamųjų įmonių yra kredito įstaiga). Nustatant kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, atsižvelgiama į Lietuvos Respublikos vertybinių popierių įstatymo 15 straipsnyje nustatytą pareigą pranešti apie akcijų paketo įsigijimą ar jo netekimą ir asmens turimų balsų skaičiavimo tvarką;
+Straipsnio dalies pakeitimai:
 
-4) grupės organizacinę vidaus struktūrą ir pareigų paskirstymą grupėje.
+Nr. XIV-2716, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11239
 
 3. Kai kartu su prašymu dėl įrašymo į Sąrašą kreipiamasi dėl kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimo Bankų įstatymo 24 straipsnyje nustatyta tvarka, Bankų įstatymo 25 straipsnio 4 dalyje nustatyto vertinimo laikotarpio trukmės skaičiavimas sustabdomas ilgesniam negu 20 darbo dienų laikotarpiui, iki nagrinėjamas prašymas dėl įrašymo į Sąrašą. Priėmus sprendimą įrašyti arba atsisakyti įrašyti įstaigą į Sąrašą, Bankų įstatymo 25 straipsnio 4 dalyje nustatyto vertinimo laikotarpio trukmės skaičiavimas atnaujinamas. Priežiūros institucija, atsakinga už Bankų įstatymo 24 straipsnyje nustatytą vertinimą, koordinuoja veiksmus kartu su priežiūros institucija, atliekančia jungtinę (konsoliduotą) priežiūrą, jeigu ji nėra Lietuvos Respublikos priežiūros institucija, ir su kitos valstybės narės, kurioje įsisteigė finansų kontroliuojančioji bendrovė arba mišrios veiklos finansų kontroliuojančioji įmonė, priežiūros institucija.
 
