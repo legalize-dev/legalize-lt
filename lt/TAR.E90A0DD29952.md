@@ -4,7 +4,7 @@ identifier: "TAR.E90A0DD29952"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2023-01-01"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E90A0DD29952"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos loterijų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2025-04-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3341, i. k. 1031010ISTA0IX-1661
 
@@ -89,7 +89,11 @@ BENDROSIOS NUOSTATOS
 
 20. Šiame įstatyme vartojama sąvoka „bendrovę kontroliuojantis asmuo“ suprantama taip, kaip Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme apibrėžta sąvoka „Naudos gavėjas“.
 
-21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos atitikties įvertinimo įstatyme, Lietuvos Respublikos buhalterinės apskaitos įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos mokėjimų įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito įstatyme.
+21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos atitikties vertinimo įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos mokėjimų įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2548, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07550
 
 3 straipsnis. Loterijų rūšys
 
@@ -161,7 +165,11 @@ Teisę organizuoti loterijas turi:
 
 2) bendrovės dalyvį (jeigu bendrovės dalyvis yra juridinis asmuo) kontroliuojančių asmenų sąrašas, nurodant juridinių asmenų pavadinimus ir kodus bei fizinių asmenų vardus, pavardes, asmens kodus;
 
-3) duomenų apie vyriausiąjį buhalterį (buhalterį) ir kitus asmenis, galinčius tvarkyti bendrovės buhalterinę apskaitą pagal Buhalterinės apskaitos įstatymą, taip pat bendrovės vadovo pavaduotoją, sąrašas, nurodant fizinių asmenų vardus, pavardes, asmens kodus, juridinio asmens pavadinimą, kodą ir buveinės adresą (jeigu bendrovės buhalterinę apskaitą tvarko juridinis asmuo);
+3) duomenų apie finansinę apskaitą tvarkančius asmenis, taip pat bendrovės vadovo pavaduotoją sąrašas, nurodant fizinių asmenų vardus, pavardes, asmens kodus, juridinio asmens pavadinimą, kodą ir buveinės adresą (jeigu bendrovės finansinę apskaitą tvarko juridinis asmuo);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2548, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07550
 
 4) šios dalies 2 ir 3 punktuose nurodytų fizinių asmenų ir bendrovės dalyvių, visų bendrovės kontrolės ir valdymo organų narių ir bendrovės vadovo tapatybę patvirtinančių dokumentų kopijos. Jeigu prašymą išduoti licenciją pateikia akcinė bendrovė, priežiūros institucijai pateikiamos tik akcininkų, kurie yra bendrovę kontroliuojantys asmenys, asmens tapatybę patvirtinančių dokumentų kopijos;
 
@@ -175,11 +183,15 @@ Teisę organizuoti loterijas turi:
 
 5. Priežiūros institucija per 3 darbo dienas nuo visų šio straipsnio 1, 2 ir 3 dalyse nurodytų tinkamų dokumentų ir informacijos gavimo dienos turi:
 
-1) kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registro tvarkytoją siekdama patikrinti, ar bendrovė, norinti gauti licenciją, atitinka šio įstatymo 16 straipsnio 1 ir 2 punktuose nustatytus nepriekaištingos reputacijos kriterijus;
+1) kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registro tvarkytoją siekdama patikrinti, ar bendrovė, norinti gauti licenciją, atitinka šio įstatymo 16 straipsnio 1–4 punktuose nustatytus nepriekaištingos reputacijos kriterijus;
 
-2) kreiptis į Lietuvos Respublikos valstybės saugumo departamentą, kad šis pateiktų išvadas, ar bendrovė atitinka šio įstatymo 16 straipsnio 4 punkte nustatytus nepriekaištingos reputacijos kriterijus ir jos veikla nekelia grėsmės valstybės saugumui;
+2) kreiptis į Lietuvos Respublikos valstybės saugumo departamentą, kad šis pateiktų išvadas, ar bendrovė atitinka šio įstatymo 16 straipsnio 6 punkte nustatytus nepriekaištingos reputacijos kriterijus ir jos veikla nekelia grėsmės valstybės saugumui;
 
 3) kreiptis į Finansinių nusikaltimų tyrimo tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba) dėl turimos neigiamos informacijos apie šio straipsnio 2 dalies 3 ir 4 punktuose nurodytus asmenis pateikimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2548, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07550
 
 6. Šio straipsnio 5 dalyje nurodytos institucijos pagal kompetenciją turi pateikti išvadas ir informaciją priežiūros institucijai ne vėliau kaip per 20 darbo dienų nuo kreipimosi ir reikiamų dokumentų ir informacijos pateikimo institucijoms dienos.
 
@@ -281,13 +293,21 @@ Priežiūros institucija atsisako išduoti licenciją, jeigu:
 
 Bendrovė laikoma nepriekaištingos reputacijos, išskyrus atvejus, kai:
 
-1) ji yra pripažinta kalta įsiteisėjusiu teismo nuosprendžiu dėl Lietuvos Respublikos baudžiamajame kodekse numatyto sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai ar dėl juos atitinkančių nusikalstamos veikos padarymo pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą;
+1) ji yra pripažinta kalta dėl Lietuvos Respublikos baudžiamajame kodekse numatyto sunkaus arba labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai ar dėl juos atitinkančių nusikalstamų veikų padarymo pagal kitų valstybių baudžiamuosius įstatymus ir nuo teistumo išnykimo ar panaikinimo dienos nepraėjo 8 metai;
 
-2) jos dalyviai, visų bendrovės kontrolės ir valdymo organų nariai, vadovas, jo pavaduotojas, vyriausiasis buhalteris (buhalteris) ir kiti asmenys, galintys tvarkyti bendrovės buhalterinę apskaitą pagal Buhalterinės apskaitos įstatymą, ir (arba) ją kontroliuojantis asmuo yra pripažinti kaltais įsiteisėjusiu teismo nuosprendžiu dėl šio straipsnio 1 punkte nurodytos nusikalstamos veikos padarymo ir turi neišnykusį ar nepanaikintą teistumą arba jos dalyvis (juridinis asmuo) ir (arba) ją kontroliuojantis juridinis asmuo yra pripažinti kaltais įsiteisėjusiu teismo nuosprendžiu dėl šios dalies 1 punkte nurodytos nusikalstamos veikos padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+2) jos dalyviai, visų bendrovės kontrolės ir valdymo organų nariai, vadovas, jo pavaduotojas, finansinę apskaitą tvarkantis asmuo ir (arba) bendrovę kontroliuojantis asmuo yra pripažinti kaltais padarę Baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 8 metai;
 
-3) jos dalyvis (juridinis asmuo) ir (arba) ją kontroliuojantis juridinis asmuo yra bendrovė, kuriai panaikintas licencijos galiojimas pagal šio įstatymo 15 straipsnio 8 dalies 1, 4 ir 5 punktus, ir nuo licencijos galiojimo panaikinimo nepraėjo 5 metai;
+3) jos dalyviai, visų bendrovės kontrolės ir valdymo organų nariai, vadovas, jo pavaduotojas, finansinę apskaitą tvarkantis asmuo ir (arba) bendrovę kontroliuojantis asmuo yra pripažinti kaltais padarę Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai;
 
-4) jos dalyviai, visų bendrovės kontrolės ir valdymo organų nariai, vadovas, jo pavaduotojas, vyriausiasis buhalteris (buhalteris) ir kiti asmenys, galintys tvarkyti bendrovės buhalterinę apskaitą pagal Buhalterinės apskaitos įstatymą, ir (arba) ją kontroliuojantis asmuo yra įstatymų nustatyta tvarka uždraustos organizacijos nariai.
+4) jos dalyviai, visų bendrovės kontrolės ir valdymo organų nariai, vadovas, jo pavaduotojas, finansinę apskaitą tvarkantis asmuo ir (arba) bendrovę kontroliuojantis asmuo yra pripažinti kaltais padarę kitą, negu nurodyta šio straipsnio 2 ir 3 punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai;
+
+5) jos dalyvis (juridinis asmuo) yra bendrovė, kuriai panaikintas licencijos galiojimas pagal šio įstatymo 15 straipsnio 8 dalies 1, 4 ir 5 punktus, ir nuo licencijos galiojimo panaikinimo nepraėjo 5 metai;
+
+6) jos dalyviai, visų bendrovės kontrolės ir valdymo organų nariai, vadovas, jo pavaduotojas, finansinę apskaitą tvarkantis asmuo ir (arba) bendrovę kontroliuojantis asmuo yra įstatymų nustatyta tvarka uždraustos organizacijos nariai.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2548, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07550
 
 17 straipsnis. Informacijos ir dokumentų pateikimo būdai
 
@@ -313,7 +333,11 @@ Priežiūros institucija ir bendrovė, norinti gauti ar turinti licenciją, info
 
 1) vykdydamas licencijoje nurodytą loterijų veiklą, laikytis šio įstatymo ir kitų teisės aktų, reglamentuojančių loterijų organizavimą, reikalavimų;
 
-2) pasikeitus bendrovės dalyviams, visų bendrovės kontrolės ir valdymo organų nariams, vadovui, jo pavaduotojui, vyriausiajam buhalteriui (buhalteriui) arba kitiems asmenims, galintiems tvarkyti bendrovės buhalterinę apskaitą pagal Buhalterinės apskaitos įstatymą, bendrovę kontroliuojantiems asmenims, ne vėliau kaip per 5 darbo dienas nuo duomenų pasikeitimo įsigaliojimo apie tai pranešti priežiūros institucijai ir pateikti duomenis apie bendrovės atitiktį šio įstatymo 16 straipsnio 2 ir 4 punktuose nustatytiems nepriekaištingos reputacijos kriterijams priežiūros institucijos nustatyta tvarka;
+2) pasikeitus bendrovės dalyviams, visų bendrovės kontrolės ir valdymo organų nariams, vadovui, jo pavaduotojui, finansinę apskaitą tvarkantiems asmenims, bendrovę kontroliuojantiems asmenims, ne vėliau kaip per 5 darbo dienas nuo duomenų pasikeitimo įsigaliojimo apie tai pranešti priežiūros institucijai ir pateikti duomenis apie bendrovės atitiktį šio įstatymo 16 straipsnio 2–6 punktuose nustatytiems nepriekaištingos reputacijos kriterijams priežiūros institucijos nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2548, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07550
 
 3) pranešti priežiūros institucijai apie pasikeitusius formalius licencijoje nurodytus duomenis ne vėliau kaip per 5 darbo dienas nuo duomenų pasikeitimo įsigaliojimo;
 
@@ -427,7 +451,11 @@ Laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominaliosios numa
 
 1. Draudžiama organizuoti loterijas, nenurodytas šiame įstatyme arba pažeidžiant jame nustatytą tvarką.
 
-2. Draudžiama dalyvauti loterijų organizatoriaus organizuojamoje loterijoje asmenims (patiems arba per kitą asmenį, arba įgaliotiems kito asmens), kurie yra loterijų organizatoriaus dalyviai, visų bendrovės kontrolės ir valdymo organų nariai, loterijų organizatoriaus darbuotojai arba asmenys, galintys tvarkyti bendrovės buhalterinę apskaitą pagal Buhalterinės apskaitos įstatymą, bendrovę kontroliuojantys asmenys.
+2. Draudžiama dalyvauti loterijų organizatoriaus organizuojamoje loterijoje asmenims (patiems arba per kitą asmenį, arba įgaliotiems kito asmens), kurie yra loterijų organizatoriaus dalyviai, visų bendrovės kontrolės ir valdymo organų nariai, loterijų organizatoriaus darbuotojai arba finansinę apskaitą tvarkantys asmenys, bendrovę kontroliuojantys asmenys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2548, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07550
 
 3. Draudžiama laimėjimus išmokėti loterijos bilietais, vertybiniais popieriais ir ribotai esančiais apyvartoje daiktais.
 
@@ -459,7 +487,11 @@ Nr. XIV-1184, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15166
 
 29 straipsnis. Loterijų organizavimo apskaitos ypatumai
 
-Loterijų organizatorius privalo tvarkyti buhalterinę apskaitą taip, kad joje būtų matoma informacija apie parduotų kiekvienos loterijos bilietų skaičių, vertę ir išmokėtų laimėjimų vertę.
+Loterijų organizatorius privalo tvarkyti finansinę apskaitą taip, kad joje būtų matoma informacija apie parduotų kiekvienos loterijos bilietų skaičių, vertę ir išmokėtų laimėjimų vertę.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2548, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07550
 
 30 straipsnis. Loterijos taisyklės
 
@@ -688,4 +720,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1184, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15166
 
 Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 28 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2548, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07550
+
+Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 2, 11, 16, 18, 28 ir 29 straipsnių pakeitimo įstatymas
 
