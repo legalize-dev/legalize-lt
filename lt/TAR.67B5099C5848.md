@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2024-01-01"
+last_updated: "2024-11-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-06
+Suvestinė redakcija nuo 2024-11-07
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -2651,10 +2651,6 @@ PRAŠYMŲ DĖL PROCESO ATNAUJINIMO PADAVIMAS
 
 1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismo sprendimas byloje prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir jos papildomiems protokolams, arba kai Jungtinių Tautų Žmogaus teisių komitetas pripažįsta, kad Lietuvos Respublikos teismo sprendimu pažeista Tarptautiniame pilietinių ir politinių teisių pakte nustatyta asmens teisė;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-3221, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15516
-
 2) naujai paaiškėja esminės bylos aplinkybės, kurios nebuvo ir negalėjo būti žinomos pareiškėjui bylos nagrinėjimo metu;
 
 3) įsiteisėjusiu teismo nuosprendžiu nustatyti žinomai melagingi liudytojo parodymai, žinomai melaginga eksperto išvada, žinomai neteisingas vertimas, dokumentų arba daiktinių įrodymų suklastojimas, dėl kurių priimtas neteisėtas arba nepagrįstas sprendimas;
@@ -2679,9 +2675,11 @@ Nr. XIII-3221, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15516
 
 13) Konstitucinis Teismas, nagrinėdamas Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodyto asmens prašymą, pripažįsta, kad įstatymas ar kitas Seimo priimtas aktas, Respublikos Prezidento aktas ar Vyriausybės aktas (ar jų dalis), kurio (kurios) pagrindu priimtas asmens konstitucines teises ar laisves pažeidžiantis sprendimas, prieštarauja Konstitucijai.
 
-Papildyta straipsnio punktu:
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos administracinių bylų teisenos įstatymo (2016 m. birželio 2 d. redakcija, TAR, 2016-06-15, Nr. 16849) 156 straipsnio 2 dalis (su 2020 m. birželio 30 d. pakeitimu, TAR, 2020-07-10, Nr. 15516) tiek, kiek joje nenustatyta galimybė atnaujinti bylos, užbaigtos įsiteisėjusiu teismo sprendimu ar nutartimi, proceso, kai byla išnagrinėta nesant nors vieno iš proceso dalyvių, kuriam nepranešta apie teismo posėdį ir nebėra galimybės apskųsti tokio sprendimo (nutarties), prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
 
-Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
+Straipsnio dalies pakeitimai:
+
+Nr. KT85-N13/2024, 2024-11-07, paskelbta TAR 2024-11-07, i. k. 2024-19451
 
 3. Prašymas atnaujinti procesą yra negalimas dėl šio įstatymo 21 straipsnio 3 dalyje nurodytų bylų.
 
