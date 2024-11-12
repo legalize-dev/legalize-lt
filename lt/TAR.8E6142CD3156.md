@@ -4,7 +4,7 @@ identifier: "TAR.8E6142CD3156"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-11-13"
-last_updated: "2023-01-03"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8E6142CD3156"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO IR MIŠKININKYSTĖS PASLAUGŲ TEIKIMO PAGAL
 
 PASLAUGŲ KVITĄ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2023-01-03 iki 2024-11-11
+Suvestinė redakcija nuo 2024-11-12 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 136-6965, i. k. 1121010ISTA0XI-2411
 
@@ -74,7 +74,11 @@ Nr. XIV-298, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11770
 
 7. Paslaugų kvitas galioja iki galutinio atsiskaitymo su paslaugų teikėju momento.
 
-8. Paslaugų gavėjas jam priklausantį užpildytą paslaugų kvito pirmąjį egzempliorių saugo Lietuvos Respublikos buhalterinės apskaitos įstatymo nustatyta tvarka.
+8. Paslaugų gavėjas sau priklausantį užpildytą paslaugų kvito pirmąjį egzempliorių saugo Lietuvos Respublikos finansinės apskaitos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3123, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20205
 
 5 straipsnis. Paslaugų gavėjo ir paslaugų teikėjo teisės ir pareigos
 
@@ -137,4 +141,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1305, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15632
 
 Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 2 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3123, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20205
+
+Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 2 ir 4 straipsnių pakeitimo įstatymas
 
