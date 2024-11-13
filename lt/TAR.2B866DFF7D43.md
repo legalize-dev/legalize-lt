@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2024-11-01"
+last_updated: "2024-11-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-11-12
+Suvestinė redakcija nuo 2024-11-13 iki 2024-11-14
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -2258,7 +2258,11 @@ Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
 
 2) dėl asmens padarytos nusikalstamos veikos Lietuvos Respublikoje buvo atsisakyta pradėti baudžiamąjį procesą arba pradėtas baudžiamasis procesas buvo nutrauktas;
 
-3) Europos arešto orderis yra išduotas dėl Lietuvos Respublikos piliečiui ar nuolat Lietuvos Respublikoje gyvenančiam asmeniui paskirtos su laisvės atėmimu susijusios bausmės vykdymo ir Lietuvos Respublika perima šios bausmės vykdymą;
+3) Europos arešto orderis yra išduotas dėl Lietuvos Respublikos piliečiui ar užsieniečiui, turinčiam teisę būti ar gyventi Lietuvos Respublikoje, paskirtos su laisvės atėmimu susijusios bausmės vykdymo ir Lietuvos Respublika, siekdama sudaryti palankesnes sąlygas nuteistojo socialinei reabilitacijai, perima šios bausmės vykdymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3063, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19689
 
 4) asmuo už jo padarytą nusikalstamą veiką, dėl kurios išduotas Europos arešto orderis, buvo nuteistas ne Europos Sąjungos valstybėje narėje ir paskirta bausmė įvykdyta, tebevykdoma ar nebegali būti vykdoma pagal nuteisusios valstybės įstatymus;
 
@@ -6743,6 +6747,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3033, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18357
 
 Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 42, 43, 47, 48, 51, 52, 54, 59, 61, 62, 63, 64, 65, 66, 67, 69, 70, 72-2, 74, 75, 76, 82, 84, 85, 87, 89, 90, 92, 93, 97, 243, 244 straipsnių pakeitimo ir Kodekso papildymo 5-1, 40-1, 58-1, 72-5, 72-6, 72-7, 72-8 straipsniais įstatymo Nr. XIV-2573 50 straipsnio pakeitimo įstatymas
+
+67.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3063, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19689
+
+Lietuvos Respublikos baudžiamojo kodekso 9-1 straipsnio pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
