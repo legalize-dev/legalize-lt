@@ -4,7 +4,7 @@ identifier: "TAR.43FFE83C3CAE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-03-12"
-last_updated: "2000-11-01"
+last_updated: "2024-11-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43FFE83C3CAE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos 1988 metų Jungtinių Tautų konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta ratifikavimo įstatymas
 
-Suvestinė redakcija nuo 2000-11-01 iki 2024-11-19
+Suvestinė redakcija nuo 2024-11-20
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 38-996; Žin. 1998, Nr.93-0, i. k. 0981010ISTAVIII-660
 
@@ -32,7 +32,11 @@ Vilnius
 
 1 straipsnis. Konvencijos ratifikavimas
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. sausio 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1988 metų Jungtinių Tautų Konvenciją dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta“, ratifikuoja su išlygomis ir pareiškimais 1988 metų Jungtinių Tautų Konvenciją dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 1998 m. sausio 27 d. dekretą Nr. 1513 „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1988 metų Jungtinių Tautų Konvenciją dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta“, ratifikuoja su išlyga ir pareiškimais 1988 metų Jungtinių Tautų Konvenciją dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta (toliau – Konvencija).
+
+Straipsnio pakeitimai:
+
+Nr. XIV-3102, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20122
 
 2 straipsnis. Lietuvos Respublikos pareiškimai
 
@@ -48,13 +52,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. VIII-2002, 2000-10-10, Žin., 2000, Nr. 92-2854 (2000-10-31), i. k. 1001010ISTAIII-2002
 
-3 straipsnis. Lietuvos Respublikos išlygos
+3 straipsnis. Lietuvos Respublikos išlyga
 
-Lietuvos Respublika pareiškia, kad:
+Lietuvos Respublika pareiškia, kad Konvencija nebus teisinis Lietuvos piliečių ekstradicijos pagrindas, kaip tai yra numatyta Lietuvos Respublikos Konstitucijoje (Konvencijos 6 straipsnis).
 
-1) ši Konvencija nebus teisinis Lietuvos piliečių ekstradicijos pagrindas, kaip tai yra numatyta Lietuvos Respublikos Konstitucijoje (Konvencijos 6 straipsnis);
+Straipsnio pakeitimai:
 
-2) netaikys 32 straipsnio 2 ir 3 punktų nuostatų, numatančių spręsti ginčus dėl šios Konvencijos interpretavimo ar taikymo Tarptautiniame Teisme.
+Nr. XIV-3102, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20122
 
 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
@@ -73,4 +77,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2002, 2000-10-10, Žin., 2000, Nr. 92-2854 (2000-10-31), i. k. 1001010ISTAIII-2002
 
 Lietuvos Respublikos 1988 metų Jungtinių Tautų konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta ratifikavimo įstatymo 2 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3102, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20122
+
+Lietuvos Respublikos 1988 metų Jungtinių Tautų Konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta ratifikavimo įstatymo Nr. VIII-660 1 ir 3 straipsnių pakeitimo įstatymas
 
