@@ -4,7 +4,7 @@ identifier: "TAR.EAA93A47BAA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-28"
-last_updated: "2024-01-01"
+last_updated: "2024-11-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
 
@@ -553,11 +553,13 @@ Nr. XIV-2103, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14031
 
 5) asmenys, išlaikomi stacionariose socialinės globos įstaigose;
 
-6) asmenys, kuriems nustatytas sunkaus neįgalumo lygis arba 0–25 procentų dalyvumo lygis, arba sukakę Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių asmenys, kuriems teisės aktų nustatyta tvarka yra nustatytas 15 procentų dalyvumo lygis, taip pat šiame punkte nurodytų asmenų globėjai (rūpintojai), kai valstybės garantuojama teisinė pagalba reikalinga globotinio (rūpintinio) teisėms ir interesams atstovauti bei ginti;
+6) asmenys, kuriems nustatytas sunkaus neįgalumo lygis arba 0–25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. 0–25 proc. darbingumo lygis arba didelių specialiųjų poreikių lygis), taip pat šiame punkte nurodytų asmenų globėjai (rūpintojai), kai valstybės garantuojama teisinė pagalba reikalinga globotinio (rūpintinio) teisėms ir interesams atstovauti bei ginti;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-2103, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14031
+
+Nr. XIV-3110, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20358
 
 7) asmenys, pateikę įrodymus, kad dėl objektyvių priežasčių negali disponuoti savo (šeimos) turtu ir lėšomis ir dėl to jų asmens (šeimos) turtas ir asmens metinės pajamos, kuriais jie gali laisvai disponuoti, neviršija nustatyto turto ir pajamų lygio;
 
@@ -639,11 +641,13 @@ Nr. XIV-2103, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14031
 
 5. Šio įstatymo 12 straipsnio 5 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo stacionarios socialinės globos įstaigos vadovo arba jo įgalioto asmens išduota pažyma, patvirtinanti, kad šis asmuo yra išlaikomas stacionarioje socialinės globos įstaigoje.
 
-6. Šio įstatymo 12 straipsnio 6 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo asmens su negalia pažymėjimas (iki 2023 m. gruodžio 31 d. išduotas neįgaliojo pažymėjimas), patvirtinantis nustatytą asmens neįgalumo lygį arba dalyvumo lygį.
+6. Šio įstatymo 12 straipsnio 6 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo asmens su negalia pažymėjimas (iki 2023 m. gruodžio 31 d. išduotas neįgaliojo pažymėjimas), patvirtinantis nustatytą asmens neįgalumo lygį arba dalyvumo lygį (iki 2023 m. gruodžio 31 d. – darbingumo lygį arba specialiųjų poreikių lygį).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2103, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14031
+
+Nr. XIV-3110, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20358
 
 7. Šio įstatymo 12 straipsnio 7 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo turto arešto aktas ir (ar) kiti dokumentai, patvirtinantys objektyvias priežastis, dėl kurių asmuo negali disponuoti savo (šeimos) turtu ir lėšomis, ir deklaracija antrinei teisinei pagalbai gauti.
 
