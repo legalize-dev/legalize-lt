@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2024-09-01"
+last_updated: "2024-11-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23 iki 2025-01-14
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
 
@@ -123,7 +123,11 @@ Nr. XIV-2636, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09672
 
 5 straipsnis. Valstybės ir savivaldybių dalyvavimo viešosiose įstaigose pagrindai
 
-1. Valstybė ir (ar) savivaldybės gali būti viešųjų įstaigų, kurios teikia viešąsias paslaugas ir (arba) turi viešojo administravimo įgaliojimus, viešųjų įstaigų, kurios steigiamos siekiant užtikrinti ūkio subjektų ir jų veiklą reglamentuojančių ir (arba) prižiūrinčių viešojo administravimo subjektų bendradarbiavimą, kai jis yra būtinas veiksmingesniam viešojo administravimo įgaliojimų teisės aktų ir administracinių sprendimų įgyvendinimo ir laikymosi priežiūros srityje įgyvendinimui, ir (arba) viešųjų įstaigų, turinčių atsinaujinančių išteklių energijos ar piliečių energetikos bendrijų, kurių pagrindinė paskirtis – mažinti energijos nepriteklių ir (ar) teikti naudą pažeidžiamiems vartotojams, statusą, steigėjos, savininkės ar dalininkės.
+1. Valstybė ir (ar) savivaldybės gali būti viešųjų įstaigų, kurios teikia viešąsias paslaugas ir (arba) turi viešojo administravimo įgaliojimus, viešųjų įstaigų, kurios vykdo tiriamąją (strateginių tyrimų, ekspertinę, analitinę) veiklą ir teikia viešojo administravimo subjektams šia tiriamąja veikla grįstą informaciją, siūlymus ar rekomendacijas, reikalingus viešojo administravimo įgaliojimams įgyvendinti ir (ar) kitoms teisės aktais pavestoms funkcijoms atlikti, viešųjų įstaigų, kurios steigiamos siekiant užtikrinti ūkio subjektų ir jų veiklą reglamentuojančių ir (arba) prižiūrinčių viešojo administravimo subjektų bendradarbiavimą, kai jis yra būtinas veiksmingesniam viešojo administravimo įgaliojimų teisės aktų ir administracinių sprendimų įgyvendinimo ir laikymosi priežiūros srityje įgyvendinimui, ir (arba) viešųjų įstaigų, turinčių atsinaujinančių išteklių energijos ar piliečių energetikos bendrijų, kurių pagrindinė paskirtis – mažinti energijos nepriteklių ir (ar) teikti naudą pažeidžiamiems vartotojams, statusą, steigėjos, savininkės ar dalininkės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3150, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20391
 
 2. Valstybė viešosios įstaigos steigėjos, savininkės ar dalininkės teises ir pareigas įgyvendina per vieną Lietuvos Respublikos Vyriausybės įgaliotą valstybės įstaigą (ministeriją, Vyriausybės įstaigą ar Vyriausybei atskaitingą biudžetinę įstaigą).
 
@@ -641,7 +645,11 @@ Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
 
 5. Viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovas savo darbo viešojoje įstaigoje laikotarpiu ir 3 metus po darbo sutarties pasibaigimo privalo saugoti konfidencialią informaciją, kurią sužinojo būdamas viešosios įstaigos vadovu.
 
-6. Viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, vadovas ne rečiau kaip kartą per metus Vyriausybės įgaliotos institucijos nustatyta tvarka turi teikti informaciją viešosios įstaigos savininko ar dalininko teises ir pareigas įgyvendinančiai institucijai apie jos nustatytų veiklos tikslų, rezultatų (rodiklių) pasiekimą ir atitiktį lūkesčiams.
+6. Viešosios įstaigos, kurios savininkė ar dalininkė yra valstybė ar savivaldybė, vadovas ne rečiau kaip kartą per metus Vyriausybės įgaliotos institucijos nustatyta tvarka turi teikti informaciją viešosios įstaigos savininko ar dalininko teises ir pareigas įgyvendinančiai institucijai apie atitiktį nustatytiems valstybės ar savivaldybės tikslams ir lūkesčiams dėl viešosios įstaigos, taip pat rezultatus (rodiklius), pasiektus įgyvendinant šiuos tikslus ir lūkesčius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3150, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20391
 
 7. Kandidatas į viešosios įstaigos, kurios savininkė ar dalininkė yra valstybė ar savivaldybė, vadovus arba tokios viešosios įstaigos vadovas turi būti nepriekaištingos reputacijos. Kandidatas į viešosios įstaigos, kurios savininkė ar dalininkė yra valstybė ar savivaldybė, vadovus arba tokios viešosios įstaigos vadovas yra nelaikomas nepriekaištingos reputacijos, jeigu atitinka šio įstatymo 16 straipsnio 3 dalyje nustatytus kriterijus.
 
@@ -1182,6 +1190,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
 
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 1, 12, 20, 22, 23, 25 ir 28 straipsnių pakeitimo, Įstatymo papildymo 23-1 straipsniu ir IV skyriaus pavadinimo pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3150, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20391
+
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 3, 5 ir 20 straipsnių pakeitimo įstatymas
 
 231 straipsnis. Finansinių ataskaitų ir veiklos ataskaitos kokybės stebėsena
 
