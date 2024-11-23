@@ -4,7 +4,7 @@ identifier: "TAR.CA89372D00AA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2023-01-01"
+last_updated: "2024-11-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
 
@@ -286,11 +286,15 @@ Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
 
 14. Studentas – asmuo, kuris policijos generalinio komisaro siuntimu studijuoja aukštojoje policijos pareigūnus rengiančioje ne vidaus reikalų sistemos švietimo įstaigoje (toliau – kita švietimo įstaiga) pagal nustatyta tvarka akredituotas ir su policijos generaliniu komisaru suderintas studijų programas ir yra pasirašęs stojimo į vidaus tarnybą sutartį.
 
-15. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Statute, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme.
+15. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Statute, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 
 4 straipsnis. Policijos veiklos principai
 
@@ -562,13 +566,21 @@ TREČIASIS SKIRSNIS PRIEVARTOS PANAUDOJIMAS
 
 27 straipsnis. Prievartos naudojimo sąlygos
 
-1. Pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų pareigūno ar kito asmens gyvybei ar sveikatai.
+1. Pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą, individualias pažeidėjo savybes ir (ar) pavojų keliančio objekto savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba neįmanoma arba kai bet koks delsimas kelia pavojų pareigūno ar kito asmens gyvybei, sveikatai ar turtui arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems pareigūno saugomiems objektams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 
 2. Psichinę prievartą pareigūnas turi teisę panaudoti šio straipsnio 3, 4 dalyse arba šio įstatymo 28 straipsnio 2 dalyje nurodytais atvejais.
 
 3. Fizinę prievartą pareigūnas turi teisę panaudoti šiais atvejais:
 
-1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei, sveikatai ar turtui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 
 2) kai asmenys vengia vykdyti pareigūnų reikalavimus ar nurodymus (siekdamas priversti asmenis paklusti), taip pat sulaikydamas asmenis (jeigu jie priešinasi);
 
@@ -578,9 +590,19 @@ TREČIASIS SKIRSNIS PRIEVARTOS PANAUDOJIMAS
 
 5) patekdamas į teritorijas, patalpas ar transporto priemones per kratą ar poėmį arba kai turimais duomenimis jose gali būti laikomi įkaitai arba slėptis asmenys, galimai padarę administracinius nusižengimus ar nusikalstamas veikas;
 
-6) stabdydamas transporto priemonę, laivą ar orlaivį (tarnybinio būtinumo atvejais);
+6) stabdydamas transporto priemonę, laivą, orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, (tarnybinio būtinumo atvejais);
 
-7) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms.
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
+
+7) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms;
+
+8) kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 
 4. Pareigūnas turi teisę naudoti antrankius ir surišimo priemones:
 
@@ -604,7 +626,11 @@ Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
 
 3) prieš moteris, jei akivaizdu arba pareigūnui žinoma, kad jos nėščios;
 
-4) prieš nepilnamečius asmenis, jei jų išvaizda atitinka amžių.
+4) prieš nepilnamečius asmenis, jeigu pareigūnui žinomas jų amžius arba jų išvaizda atitinka amžių.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 
 8. Pareigūnas, panaudojęs psichinę ar fizinę prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie pareigūno panaudotą psichinę ar fizinę prievartą, jei tai lėmė asmens mirtį arba gyvybei pavojingą sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
 
@@ -618,7 +644,11 @@ Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
 
 28 straipsnis. Šaunamųjų ginklų ir sprogmenų naudojimas
 
-1. Šaunamieji ginklai ar sprogmenys gali būti panaudoti tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
+1. Šaunamieji ginklai ar sprogmenys gali būti panaudoti tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei, sveikatai arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui, kitiems pareigūno saugomiems objektams arba nusikalstamų veikų užkardymui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 
 2. Pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenis:
 
@@ -638,7 +668,15 @@ Nr. XIII-1006, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01019
 
 6) sulaikydamas transporto priemonę vairuojantį asmenį, kuris savo veiksmais kelia neišvengiamą pavojų pareigūno arba kito asmens gyvybei.
 
-3. Pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jei kyla neišvengiamas pavojus pareigūno arba kitų asmenų gyvybei ar sveikatai.
+3. Pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą arba transporto priemonę, kai kyla neišvengiamas pavojus pareigūno arba kitų asmenų gyvybei ar sveikatai. Pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, taip pat turi teisę panaudoti šaunamąjį ginklą prieš orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, šiais atvejais:
+
+1) kai kyla neišvengiamas pavojus pareigūno ar kitų asmenų gyvybei ar sveikatai;
+
+2) užkirsdamas kelią nusikalstamoms veikoms, taip pat kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 
 4. Ketindamas naudoti šaunamąjį ginklą ar sprogmenis, pareigūnas privalo įspėti apie šį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia neišvengiamą pavojų pareigūno arba kito asmens gyvybei ar sveikatai arba kai toks įspėjimas yra neįmanomas.
 
@@ -849,4 +887,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1208, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15572
 
 Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6 ir 10 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
+
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2, 27 ir 28 straipsnių pakeitimo įstatymas
 
