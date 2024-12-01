@@ -4,7 +4,7 @@ identifier: "TAR.C7E57DF3CEC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2024-07-01"
+last_updated: "2024-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01 iki 2025-04-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
 
@@ -107,19 +107,31 @@ Papildyta straipsnio dalimi:
 
 Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
 
-15. Viešojo ir privataus sektorių partnerystė – valstybės arba savivaldybės institucijos ir privataus subjekto įstatymuose nustatyti bendradarbiavimo būdai, kuriais valstybės arba savivaldybės institucija perduoda jos funkcijoms priskirtą veiklą privačiam subjektui, o privatus subjektas investuoja į šią veiklą ir jai vykdyti reikalingą turtą, už tai gaudamas įstatymų nustatytą atlyginimą. Viešojo ir privataus sektorių partnerystės būdus nustato šis, Lietuvos Respublikos koncesijų ir kiti įstatymai.
+15. Neteko galios nuo 2024-12-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-299, 2009-06-16, Žin., 2009, Nr. 77-3164 (2009-06-30), i. k. 1091010ISTA00XI-299
 
-16. Valdžios ir privataus subjektų partnerystė – viešojo ir privataus sektorių partnerystės būdas, kai privatus subjektas valdžios ir privataus subjektų partnerystės sutartyje nustatytomis sąlygomis investuoja į valdžios subjekto funkcijoms priskirtas veiklos sritis ir šiai veiklai vykdyti reikalingą valstybės arba savivaldybės turtą ir vykdo tose srityse šiame įstatyme nustatytą veiklą, už kurią privačiam subjektui atlyginimą moka valdžios subjektas.
+16. Neteko galios nuo 2024-12-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-299, 2009-06-16, Žin., 2009, Nr. 77-3164 (2009-06-30), i. k. 1091010ISTA00XI-299
 
-17. Valdžios subjektas – savivaldybės tarybos sprendimu – savivaldybės vykdomoji institucija, kai privačiam subjektui perduodama savivaldybės funkcijoms priskirta veikla; Lietuvos Respublikos Vyriausybės sprendimu – įgaliota valstybės institucija ar įstaiga, kai privačiam subjektui perduodama centrinės valdžios funkcijoms priskirta veikla.
+17. Neteko galios nuo 2024-12-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 
 Papildyta straipsnio dalimi:
 
@@ -243,11 +255,13 @@ Investuotojai gali investuoti Lietuvos Respublikoje įstatymų nustatyta tvarka 
 
 4) skolindami lėšas ar kitą turtą ūkio subjektams, kuriuose investuotojui priklauso kapitalo dalis, suteikianti jam galimybę kontroliuoti arba daryti nemažą įtaką ūkio subjektui;
 
-5) vykdydami koncesijų, išperkamosios nuomos (lizingo) bei valdžios ir privataus subjektų partnerystės sutartis.
+5) vykdydami viešojo ir privataus sektorių partnerystės – koncesijos bei valdžios ir privataus subjektų partnerystės – sutartis.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-299, 2009-06-16, Žin., 2009, Nr. 77-3164 (2009-06-30), i. k. 1091010ISTA00XI-299
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 
 ANTRASIS SKIRSNIS
 
@@ -405,13 +419,21 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
 
-10) privatūs subjektai turi teisę inicijuoti (pasisiūlyti įgyvendinti) viešojo ir privataus sektorių partnerystės projektus Lietuvos Respublikos Vyriausybės nustatyta tvarka, o įgaliotos viešojo sektoriaus institucijos turi priimti sprendimus dėl siūlomų iniciatyvų;
+10) Neteko galios nuo 2024-12-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 
 11) iš investuotojų, kurie vykdo duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusią veiklą strateginiuose technologinės plėtros objektuose ir su kuriais Lietuvos Respublikos Vyriausybė Lietuvos Respublikos civilinio kodekso nustatyta tvarka yra sudariusi investicijų sutartis, Lietuvos Respublikos Vyriausybės nustatyta tvarka nerenkamos viešuosius interesus atitinkančių paslaugų lėšos;
 
 12) dėl investicijų į stambius projektus sudaromos stambių projektų investicijų sutartys;
 
-13) laisvųjų ekonominių zonų įmonėms taikomos šio įstatymo 155 straipsnio 3 dalyje numatytos specialios investavimo ir verslo sąlygos;
+13) laisvųjų ekonominių zonų įmonėms taikomos šio įstatymo 157 straipsnio 3 dalyje numatytos specialios investavimo ir verslo sąlygos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 
 14) Žemės įstatymo nustatyta tvarka valstybė rezervuoja investicinius valstybinės žemės sklypus apdirbamosios gamybos ir (ar) mokslinių tyrimų ar taikomosios veiklos privačių investicijų projektams, dėl kurių šio įstatymo nustatyta tvarka tarp privataus subjekto ir Vyriausybės, jos įgaliotos institucijos ar savivaldybės yra sudaromos investicijų sutartys ir kuriuos įgyvendinant bus pasiekti ne mažesni negu šio straipsnio 1 dalies 6 punkte nustatyti privačių investicijų, kuriamų darbo vietų, jų išlaikymo ir mokamo darbo užmokesčio kriterijai. Lietuvos Respublikos ekonomikos ir inovacijų ministerija Lietuvos Respublikos Vyriausybės arba jos įgaliotų institucijų nustatyta tvarka, įvertinusi privačių investicijų projektu sukuriamų naujų darbo vietų skaičių, privačių kapitalo investicijų dydį, aukštos profesinės kvalifikacijos darbuotojų dalį, naujų darbo vietų darbo užmokesčio vidurkį, lyginamą su Valstybės duomenų agentūros skelbiamu savivaldybės, kurioje įgyvendinamas privačių investicijų projektas, darbo užmokesčio vidurkiu, privačių investicijų projekto įgyvendinimo vietą, privačių investicijų projekto atitiktį reikšmingos žalos nedarymo principui, apskaičiuoja privačių investicijų projekto kvalifikacinį balą ir priima sprendimą dėl privačių investicijų projekto naudingumo, kuriuo remiantis teikia siūlymą Nacionalinei žemės tarnybai prie Aplinkos ministerijos dėl tikslingumo konkrečiam privačių investicijų projektui įgyvendinti išnuomoti rezervuotą investicinį valstybinės žemės sklypą.
 
@@ -453,7 +475,7 @@ Nr. XIII-3128, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15373
 
 KETVIRTASIS1 SKIRSNIS
 
-INVESTAVIMAS SUDARANT VALDŽIOS IR PRIVATAUS SUBJEKTŲ PARTNERYSTĖS SUTARTIS
+INVESTAVIMAS VIEŠOJO IR PRIVATAUS SEKTORIŲ PARTNERYSTĖS BŪDAIS
 
 16 straipsnis. Įstatymo, reglamentuojančio užsienio kapitalo investicijas, pripažinimas netekusiu galios
 
@@ -705,79 +727,105 @@ Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
 
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-5 straipsnio pakeitimo įstatymas
 
-151 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties samprata
+31.
 
-1. Pagal valdžios ir privataus subjektų partnerystės sutartį valdžios subjektas suteikia privačiam subjektui teisę vykdyti šio įstatymo 152 straipsnio 3 dalyje nustatytą veiklą, valdyti ir naudoti šiai veiklai vykdyti reikalingą valstybės arba savivaldybės turtą ir įsipareigoja mokėti privačiam subjektui atlyginimą už jo vykdomą veiklą, o privatus subjektas įsipareigoja vykdyti sutartyje nustatytą veiklą ir užtikrinti investicijas, kurių reikia šiai veiklai vykdyti ir jai vykdyti reikalingam turtui sukurti arba perduoto valdyti ir naudoti turto būklei pagerinti.
+Lietuvos Respublikos Seimas, Įstatymas
 
-2. Valdžios ir privataus subjektų partnerystės sutarties šalimis gali būti:
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 
-1) valdžios subjektas – šio įstatymo 2 straipsnio 17 dalyje nurodyti subjektai;
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 4, 13, 15-6, 15-8 straipsnių ir ketvirtojo-1 skirsnio pakeitimo įstatymas
 
-2) privatus subjektas – bet kokios teisinės formos juridinis asmuo, viešasis juridinis asmuo, išskyrus viešąjį ir privatų juridinius asmenis, kurie Lietuvos Respublikos valstybės skolos įstatymo nustatyta tvarka priskiriami prie valdžios sektoriaus, arba tokių asmenų grupė, iš kurios, valdžios subjektui priėmus sprendimą sudaryti valdžios ir privataus subjektų partnerystės sutartį, gali būti reikalaujama įgyti tam tikrą teisinę formą. Privačiu subjektu gali būti ir užsienio juridinis asmuo arba kitas ūkio subjektas, įsteigtas pagal užsienio valstybės teisę ir neturintis juridinio asmens statuso, taip pat Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsisteigusių įmonių filialai.
+151 straipsnis. Viešojo ir privataus sektorių partnerystės samprata, būdai ir taikymo principai
 
-3. Valdžios ir privataus subjektų partnerystės sutartis turi būti rašytinė, sudaroma ne trumpesniam kaip 3 metų ir ne ilgesniam kaip 25 metų laikotarpiui vadovaujantis Lietuvos Respublikos civiliniu kodeksu, Lietuvos Respublikos viešųjų pirkimų įstatymu, Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymu, šio skirsnio nuostatomis ir kitais teisės aktais. Kitos šio įstatymo nuostatos valdžios ir privataus subjektų partnerystei taikomos tiek, kiek jos neprieštarauja šiam skirsniui.
+1. Viešojo ir privataus sektorių partnerystė suprantama kaip įstatymuose nustatytas viešojo sektoriaus subjekto (toliau – viešasis subjektas) ir privataus sektoriaus subjekto (toliau – privatus subjektas) ilgalaikis bendradarbiavimas, kai viešojo ir privataus sektorių partnerystės sutartimis:
 
-Straipsnio dalies pakeitimai:
+1) viešasis subjektas suteikia privačiam subjektui teisę vykdyti viešojo subjekto funkcijoms priskirtą veiklą ir (ar) teisę vykdyti ekonominę veiklą (toliau kartu – vykdoma veikla), kai vykdomos veiklos rezultato naudotojai yra visuomenė ar jos grupės arba viešasis subjektas;
 
-Nr. XIII-334, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07557
+2) privatus subjektas privačias lėšas investuoja į vykdomą veiklą ir (ar) jai vykdyti reikalingą turtą, prisiimdamas su perduodamos veiklos vykdymu susijusią riziką, už šios veiklos vykdymą iš viešojo subjekto gaudamas atlygį ir (ar) gaudamas ekonominės veiklos pajamų.
 
-152 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties sudarymo principai ir ypatumai
+2. Viešojo ir privataus sektorių partnerystės būdai:
 
-1. Valdžios ir privataus subjektų partnerystė taikoma, jeigu ji užtikrina efektyvų valstybės ir savivaldybės funkcijų įgyvendinimą, viešąjį interesą ir visuomenės poreikių tenkinimą.
+1) koncesija, kaip tai apibrėžta Lietuvos Respublikos koncesijų įstatyme;
 
-2. Valdžios subjektas, prieš priimdamas sprendimą taikyti valdžios ir privataus subjektų partnerystę šiame įstatyme nustatytai veiklai vykdyti, privalo atlikti šios veiklos analizę, skaičiavimais pagrįsti šios partnerystės taikymo efektyvumą ir galimus trūkumus ir gauti šio straipsnio 12 dalyje nurodyto viešojo juridinio asmens išvadą dėl partnerystės projekto socialinės ekonominės naudos. Valdžios subjektas privalo įvertinti:
+2) valdžios ir privataus subjektų partnerystė, kaip tai apibrėžta šio įstatymo 153 straipsnyje.
 
-1) riziką, susijusią su veiklos perdavimu taikant valdžios ir privataus subjektų partnerystę;
+3. Viešasis subjektas yra:
 
-2) valdžios ir privataus subjektų partnerystės ekonominius ir finansinius aspektus, palygindamas valdžios ir privataus subjektų partnerystės sąnaudas su sąnaudomis veiklą vykdant kitais įmanomais būdais;
+1) įgyvendinant valdžios ir privataus subjektų partnerystę – valdžios subjektas, nurodytas šio įstatymo 153 straipsnio 2 dalies 1 punkte;
 
-3) valdžios ir privataus subjektų partnerystės naudą, palygindamas su nauda, gaunama taikant kitus įmanomus veiklos įgyvendinimo būdus, taip pat galimą žalą ir (arba) grėsmes ir jų įtaką visuomenės interesams;
+2) suteikiant koncesiją – atitinkamai Lietuvos Respublikos Vyriausybės arba savivaldybės tarybos įgaliota suteikiančioji institucija, kaip ji suprantama pagal Koncesijų įstatymą.
 
-4) turto, reikiamo valdžios ir privataus subjektų partnerystės sutartyje nustatytai veiklai vykdyti, įskaitant šiam turtui priskirtą žemės sklypą, teisinį statusą.
+4. Privatus subjektas yra:
 
-Straipsnio dalies pakeitimai:
+1) įgyvendinant valdžios ir privataus subjektų partnerystę – privatus subjektas, nurodytas šio įstatymo 153 straipsnio 2 dalies 2 punkte;
 
-Nr. XIII-444, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10805
+2) suteikiant koncesiją – koncesininkas, kaip jis apibrėžtas Koncesijų įstatyme, arba koncesijos sutartiniams įsipareigojimams vykdyti koncesininko įsteigtas juridinis asmuo, jeigu reikalavimas įsteigti tokį asmenį nustatytas koncesininko atrankos dokumentuose.
 
-3. Pagal valdžios ir privataus subjektų partnerystės sutartį privačiam subjektui gali būti suteikta teisė vykdyti veiklą, susijusią su infrastruktūros, taip pat naujo arba jam perduoto valdyti ir naudoti valstybės ar savivaldybės turto projektavimu, statyba, rekonstravimu, remontu, atnaujinimu, valdymu, naudojimu ir priežiūra bei viešųjų paslaugų teikimu šiose srityse: transporto, švietimo, sveikatos ir socialinės apsaugos, kultūros, turizmo, viešosios tvarkos ir visuomenės apsaugos ir kitose įstatymų nustatytose valdžios subjekto veiklą ir funkcijas apimančiose srityse.
+5. Viešojo ir privataus sektorių partnerystei taikomi viešųjų finansų valdymą ir kontrolę reglamentuojantys teisės aktai.
 
-4. Valdžios ir privataus subjektų partnerystės sutarties galiojimo laikotarpiu valdžios subjektas gali perduoti privačiam subjektui patikėjimo teise pagal patikėjimo sutartį arba panaudos teise pagal panaudos sutartį valdyti ir naudoti valstybės arba savivaldybės nekilnojamąjį turtą ir kitą turtą, reikiamą valdžios ir privataus subjektų partnerystės sutartyje nustatytai veiklai vykdyti, išskyrus žemę. Nuosavybės teisė į perduotą valdyti ir naudoti valstybės arba savivaldybės turtą privačiam subjektui negali būti perduodama. Privatus subjektas šio turto negali naudoti valdžios ir privataus subjektų partnerystės sutartyje nenustatytai veiklai vykdyti.
+6. Viešojo ir privataus sektorių partnerystė planuojama strateginio valdymo sistemą reglamentuojančiuose teisės aktuose nustatyta tvarka. Jei šių teisės aktų nustatyta tvarka rengiamas investicijų projektas, kurį planuojama įgyvendinti viešojo ir privataus sektorių partnerystės būdais, viešasis subjektas Lietuvos Respublikos Vyriausybės nustatyta viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarka rengia viešojo ir privataus sektorių partnerystės – koncesijos arba valdžios ir privataus subjektų partnerystės – projektą.
 
-5. Jeigu privatus subjektas pagal valdžios ir privataus subjektų partnerystės sutartį įsipareigoja sukurti naują turtą, šis turtas, pasibaigus sutarties galiojimui, nuosavybės teise perduodamas valstybei arba savivaldybei per valdžios subjektą. Jeigu valdžios ir privataus subjektų partnerystės sutartyje nustatytai veiklai vykdyti reikalinga perduoti valstybės arba savivaldybės nekilnojamajam turtui priskirtą arba naujam turtui sukurti reikalingą valstybinę arba savivaldybės žemę, ši žemė valdžios ir privataus subjektų partnerystės sutarties laikotarpiu privačiam subjektui išnuomojama be aukciono. Valstybinė arba savivaldybės žemė, reikalinga pagal valdžios ir privataus subjektų partnerystės sutartį naujam turtui sukurti arba užstatyta pagal šią sutartį naujai sukurtu turtu, partnerystės sutarties laikotarpiu privačiam subjektui negali būti parduodama ar kitaip perleidžiama.
+7. Viešieji subjektai, atlikdami privataus subjekto atrankos procedūras ir vykdydami sudarytas viešojo ir privataus sektorių partnerystės sutartis, turi užtikrinti, kad būtų laikomasi lygiateisiškumo, nediskriminavimo, abipusio pripažinimo, proporcingumo, efektyvumo ir skaidrumo principų.
 
-6. Privatus subjektas visam sutarties galiojimo laikotarpiui privalo apdrausti sukurtą naują arba pagal valdžios ir privataus subjektų partnerystės sutartį valdžios subjekto jam perduotą valdyti ir naudoti valstybės arba savivaldybės turtą maksimalaus dydžio turto atkuriamosios vertės draudimu nuo visų galimų rizikos atvejų.
+152 straipsnis. Viešojo ir privataus sektorių partnerystės institucinės sistemos dalyviai
 
-7. Pasibaigus valdžios ir privataus subjektų partnerystės sutarties galiojimui, pagal šią sutartį privataus subjekto naujai sukurtas ir (arba) valdytas ir naudotas valstybės arba savivaldybės turtas grąžinamas valstybei arba savivaldybei per valdžios subjektą. Grąžinamo turto būklės kiekybiniai ir kokybiniai reikalavimai turi būti nustatyti valdžios ir privataus subjektų partnerystės sutartyje.
+1. Įgyvendinant viešojo ir privataus sektorių partnerystę pagal šį ir Koncesijų įstatymus dalyvauja:
 
-8. Viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo taisykles tvirtina Lietuvos Respublikos Vyriausybė.
+1) Lietuvos Respublikos Vyriausybė, kuri nustato viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarką ir priima sprendimus dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo, kai viešojo ir privataus sektorių partnerystės projektą įgyvendina Lietuvos Respublikos Vyriausybės įgaliotas viešasis subjektas;
 
-9. Sprendimus dėl valdžios ir privataus subjektų partnerystės projektų įgyvendinimo tikslingumo priima Lietuvos Respublikos Vyriausybė arba savivaldybės taryba, o sprendimą dėl valdžios ir privataus subjektų partnerystės, pagal kurią valstybė prisiima didesnius kaip 58 000 000 eurų turtinius įsipareigojimus (įskaitant galimą civilinę atsakomybę, atsirandančią pagal valdžios ir privataus subjektų partnerystės sutartį), priima Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės siūlymu.
+2) savivaldybės taryba, kuri priima sprendimus dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo, taip pat sprendimus dėl galutinių viešojo ir privataus sektorių partnerystės sutarties sąlygų, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų, kai viešojo ir privataus sektorių partnerystės projektą įgyvendina savivaldybės tarybos įgaliotas viešasis subjektas;
 
-Straipsnio dalies pakeitimai:
+3) Lietuvos Respublikos finansų ministerija, kuri formuodama valstybės politiką viešųjų finansų valdymo srityje, organizuodama, koordinuodama ir kontroliuodama jos įgyvendinimą rengia viešojo ir privataus sektorių partnerystę reglamentuojančių teisės aktų projektus ir atlieka kitas teisės aktuose nustatytas funkcijas, susijusias su viešojo ir privataus sektorių partnerystės įgyvendinimu;
 
-Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
+4) Lietuvos Respublikos Vyriausybės įgaliotas viešasis juridinis asmuo, kuris veikia kaip viešojo ir privataus sektorių partnerystės metodinės ir konsultacinės pagalbos kompetencijų centras, vykdantis Lietuvos Respublikos Vyriausybės nustatytas veiklas;
 
-Nr. XIII-444, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10805
+5) valstybės ir savivaldybių institucijos ir įstaigos, kurios atlieka su viešojo ir privataus sektorių partnerystės įgyvendinimu susijusias funkcijas (Viešųjų pirkimų tarnyba, Lietuvos Respublikos konkurencijos taryba, Lietuvos Respublikos valstybės kontrolė, Valstybės duomenų agentūra, Europos Sąjungos ar kitą tarptautinę finansinę paramą administruojantys viešieji juridiniai asmenys, kuriems įgaliojimai suteikti vadovaujantis Lietuvos Respublikos viešojo administravimo įstatymu, savivaldybių kontrolės ir audito tarnybos);
 
-10. Prieš sudarydami valdžios ir privataus subjektų partnerystės sutartis, valdžios subjektai privalo gauti Lietuvos Respublikos finansų ministerijos išvadą dėl valdžios ir privataus subjektų partnerystės sutarties projekto finansinių sąlygų vertinimo fiskalinės drausmės reikalavimų požiūriu. Lėšos, reikalingos valdžios ir privataus subjektų partnerystės sutartims įgyvendinti, gavus valstybės arba savivaldybių biudžetų projektus rengiančių institucijų išvadas, planuojamos vadovaujantis valstybės ir savivaldybių biudžetų rengimą, tvirtinimą ir vykdymą reglamentuojančiais teisės aktais.
+6) kiti subjektai, išskyrus nurodytus šios dalies 1–5 punktuose, kurie įgyvendina viešojo ir privataus sektorių partnerystės projektus ir vykdo viešojo ir privataus sektorių partnerystės sutartis arba dalyvauja vykdant šias sutartis.
 
-Straipsnio dalies pakeitimai:
+2. Šio straipsnio 1 dalies 4 punkte nurodyto Lietuvos Respublikos Vyriausybės įgalioto viešojo juridinio asmens veiklos finansuojamos iš Finansų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
 
-Nr. XIII-444, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10805
+3. Viešieji subjektai, rengiantys viešojo ir privataus sektorių partnerystės projektus ir vykdantys viešojo ir privataus sektorių partnerystės sutartis, finansų ministro nustatyta viešojo ir privataus sektorių partnerystės projektų įgyvendinimo ir viešojo ir privataus sektorių partnerystės sutarčių vykdymo ataskaitų rengimo tvarka šio straipsnio 1 dalies 4 punkte nurodytam Lietuvos Respublikos Vyriausybės įgaliotam viešajam juridiniam asmeniui privalo teikti informaciją, reikalingą viešojo ir privataus sektorių partnerystės projektų įgyvendinimo ir viešojo ir privataus sektorių partnerystės sutarčių vykdymo ataskaitoms parengti.
 
-11. Valstybės arba savivaldybės lėšų ir turto, reikalingų valdžios ir privataus subjektų partnerystės sutarčiai įgyvendinti, panaudojimą, taip pat valdžios ir privataus subjektų partnerystės sutarčių sudarymą ir įgyvendinimą teisės aktų nustatyta tvarka tikrina valstybės ir savivaldybės kontrolės institucijos.
+15³ straipsnis. Valdžios ir privataus subjektų partnerystė
 
-12. Metodinę ir konsultacinę pagalbą rengiant ir įgyvendinant valdžios ir privataus subjektų partnerystės projektus teikia Lietuvos Respublikos Vyriausybės įgaliotas viešasis juridinis asmuo, kurio funkcijas nustato Lietuvos Respublikos Vyriausybė. Šioje dalyje nustatyta veikla yra finansuojama iš Lietuvos Respublikos finansų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
+1. Valdžios ir privataus subjektų partnerystė yra viešojo ir privataus sektorių partnerystės būdas, kai valdžios ir privataus subjektų partnerystės sutartyje nustatytomis sąlygomis privatus subjektas vykdo valdžios subjekto funkcijoms priskirtas veiklas ir investuoja į šioms veikloms vykdyti reikalingą valstybės, savivaldybės ar jų kontroliuojamo juridinio asmens turtą, prisiimdamas visą arba didžiąją dalį su tokiomis veiklomis susijusios rizikos ir gaudamas už veiklų vykdymą atlygį, mokamą valdžios subjekto.
 
-Straipsnio dalies pakeitimai:
+2. Valdžios ir privataus subjektų partnerystės sutarties šalys:
 
-Nr. XII-1359, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18646
+1) valdžios subjektas – Lietuvos Respublikos Vyriausybės arba savivaldybės tarybos įgaliota atitinkamai valstybės arba savivaldybės institucija ar įstaiga arba valstybės arba savivaldybės kontroliuojamas juridinis asmuo. Šiame punkte nurodyta juridinio asmens kontrole laikomi atvejai, kai vienas asmuo kontroliuoja kitą asmenį, tai yra kai jis tiesiogiai ar netiesiogiai:
 
-13. Paslaugos ir darbai, kuriems sudaroma valdžios ir privataus subjekto partnerystės sutartis, perkami vadovaujantis Viešųjų pirkimų įstatymu arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymu.
+a) turi daugumą tokio kontroliuojamo asmens išleistų akcijų ar kitokių nuosavybės vertybinių popierių arba
 
-Straipsnio dalies pakeitimai:
+b) turi daugumą visų balsų, kuriuos suteikia kontroliuojamo asmens išleistos akcijos ar kitokie nuosavybės vertybiniai popieriai, arba
 
-Nr. XIII-334, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07557
+c) turi teisę paskirti ar išrinkti daugiau kaip pusę tokio kontroliuojamo asmens valdymo ar kito organo (išskyrus dalyvių susirinkimą) narių;
+
+2) privatus subjektas – investuotojas arba valdžios ir privataus subjektų partnerystės sutarčiai vykdyti investuotojo įsteigtas juridinis asmuo, jeigu reikalavimas įsteigti tokį asmenį nustatytas privataus subjekto atrankos dokumentuose.
+
+3. Valdžios ir privataus subjektų partnerystės projektai gali būti konsoliduojami, jeigu įvertinus valdžios ir privataus subjektų partnerystės projektų konsolidavimo poreikį ir galimybes nustatoma, kad planavimo dokumentuose nustatytiems tikslams pasiekti ir uždaviniams įvykdyti konsoliduojant valdžios ir privataus subjektų partnerystės projektus pasiekiama didesnė valdžios ir privataus subjektų partnerystės taikymo socialinė ir ekonominė nauda negu įgyvendinant pavienius valdžios ir privataus subjektų partnerystės projektus. Iki priimant šio straipsnio 5 dalyje nurodytą sprendimą, valdžios ir privataus subjektų partnerystės projektus konsoliduojantys valdžios subjektai turi pasirašyti bendradarbiavimo sutartį, kurioje turi būti nurodoma:
+
+1) valdžios subjektas, kuris bus atsakingas už konsoliduoto valdžios ir privataus subjektų partnerystės projekto ir (ar) privataus subjekto atrankos dokumentų rengimą ir atrankos procedūros įvykdymą;
+
+2) sprendimų, susijusių su konsoliduoto valdžios ir privataus subjektų partnerystės projekto parengimu ir įgyvendinimu, priėmimo tvarka, jeigu reikalingas bendras valdžios subjektų ar jų atstovų sprendimas;
+
+3) sprendimų dėl konsoliduoto valdžios ir privataus subjektų partnerystės projekto įgyvendinimo derinimo tvarka, jeigu reikalingas individualus kiekvieno valdžios subjekto sprendimas;
+
+4) privataus subjekto atrankos komisijos sudarymo, jos sprendimų derinimo ir priėmimo tvarka;
+
+5) valdžios subjektų teisės ir pareigos vykdant valdžios ir privataus subjektų partnerystės sutartį;
+
+6) ginčų sprendimo tvarka;
+
+7) bendradarbiavimo sutarties pabaiga.
+
+4. Valdžios ir privataus subjektų partnerystės sutarties trukmė negali būti trumpesnė negu 5 metai, skaičiuojant nuo jos įsigaliojimo šioje sutartyje nustatytomis sąlygomis dienos, o ilgiau negu 5 metus trunkančios partnerystės sutarties maksimali trukmė neturi viršyti laikotarpio, kurio galėtų pagrįstai prireikti privačiam subjektui, kad būtų gauta investuoto kapitalo grąža ir atgautos investicijos, nustatytos valdžios ir privataus subjektų partnerystės sutartyje.
+
+5. Sprendimą dėl valdžios ir privataus subjektų partnerystės projekto įgyvendinimo tikslingumo Lietuvos Respublikos Vyriausybės nustatyta viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarka priima Lietuvos Respublikos Vyriausybė, kai valdžios ir privataus subjektų partnerystės projektą įgyvendina Lietuvos Respublikos Vyriausybės įgaliotas valdžios subjektas, arba savivaldybės taryba, kai valdžios ir privataus subjektų partnerystės projektą įgyvendina savivaldybės tarybos įgaliotas valdžios subjektas.
+
+6. Valdžios subjektai, vadovaudamiesi Lietuvos Respublikos Vyriausybės nustatyta viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarka, privalo gauti Lietuvos Respublikos Vyriausybės įgaliotos institucijos išvadą dėl valdžios ir privataus subjektų partnerystės sutarties poveikio valdžios sektoriaus deficitui ir skolai, taip pat šio įstatymo 15² straipsnio 1 dalies 4 punkte nurodyto Lietuvos Respublikos Vyriausybės įgalioto viešojo juridinio asmens išvadą dėl valdžios ir privataus subjektų partnerystės taikymo tikslingumo ir privataus subjekto atrankos dokumentų atitikties reikalavimams, nustatytiems šio viešojo juridinio asmens patvirtintuose viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo metodiniuose dokumentuose.
+
+7. Privataus subjekto atranka vykdoma bei valdžios ir privataus subjektų partnerystės sutartis sudaroma vadovaujantis šiuo įstatymu, Lietuvos Respublikos viešųjų pirkimų įstatymu, Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymu arba Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymu.
 
 153 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties turinys
 
@@ -905,9 +953,97 @@ Straipsnio pakeitimai:
 
 Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
 
-154 straipsnis. Stambaus projekto investicijų sutarties sudarymas
+154 straipsnis. Turto sukūrimas, perdavimas, valdymas ir grąžinimas vykdant valdžios ir privataus subjektų partnerystės sutartį
 
-1. Paraiška dėl stambaus projekto investicijų sutarties sudarymo teikiama, šio straipsnio 3 dalyje nustatytų sąlygų pagrindimas ir šių sąlygų pagrindimo, taip pat šio straipsnio 5 dalyje nurodytų interesų vertinimas atliekamas, Lietuvos Respublikos Vyriausybės įgaliotos institucijos veiksmai užtikrinant stambaus projekto atitikties viešajai tvarkai, nacionaliniam saugumui, visuomenės saugumui ir (ar) sveikatos interesams vertinimą, rengiant, derinant, sudarant ar vykdant stambaus projekto investicijų sutartį, stambaus projekto investicijų sutarties vykdymo priežiūra atliekama, taip pat šio įstatymo 155 straipsnyje nustatytos specialios investavimo ir verslo sąlygos stambaus projekto investicijų sutartyje nurodytiems stambiems projektams įgyvendinti taikomos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+1. Valdžios ir privataus subjektų partnerystės sutarties galiojimo laikotarpiu valdžios subjektas privačiam subjektui gali perduoti patikėjimo teise pagal patikėjimo sutartį valdyti, naudoti ir disponuoti valstybei, savivaldybei ar valstybės arba savivaldybės kontroliuojamam juridiniam asmeniui nuosavybės teise priklausantį turtą, reikalingą valdžios ir privataus subjektų partnerystės sutartyje nurodytai veiklai vykdyti. Privatus subjektas perduotą turtą gali naudoti tik valdžios ir privataus subjektų partnerystės sutartyje nurodytai veiklai vykdyti.
+
+2. Jeigu valdžios ir privataus subjektų partnerystės sutartyje nurodytai veiklai vykdyti reikalinga valstybinė ar savivaldybės žemė, valstybinės ar savivaldybės žemės sklypai privačiam subjektui išnuomojami valstybinės ir savivaldybės žemės sandorių sudarymą reglamentuojančių teisės aktų nustatyta tvarka valdžios ir privataus subjektų partnerystės sutarties galiojimo laikotarpiui. Valstybinė arba savivaldybės žemė, reikalinga pagal valdžios ir privataus subjektų partnerystės sutartį naujam turtui sukurti arba užstatyta pagal šią sutartį naujai sukurtu turtu, valdžios ir privataus subjektų partnerystės sutarties galiojimo laikotarpiu privačiam subjektui negali būti parduodama ar kitaip perleidžiama nuosavybėn.
+
+3. Privatus subjektas perduoto valstybės, savivaldybės ir (ar) valstybės arba savivaldybės kontroliuojamam juridiniam asmeniui nuosavybės teise priklausančio turto negali parduoti ar kitaip perleisti kitų asmenų nuosavybėn, jo įkeisti ar kitaip suvaržyti daiktinių teisių į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymo. Privačiam subjektui negali būti perduodama nuosavybės teisė į valstybės, savivaldybės ar valstybės arba savivaldybės kontroliuojamo juridinio asmens perduotą turtą.
+
+4. Sprendimą dėl valstybei ar savivaldybei nuosavybės teise priklausančio turto perdavimo privačiam subjektui patikėjimo teise pagal patikėjimo sutartį priima Lietuvos Respublikos Vyriausybė arba savivaldybės taryba valstybės ir savivaldybių turto valdymą, naudojimą ir disponavimą juo reglamentuojančių teisės aktų nustatyta tvarka. Valstybei arba savivaldybei nuosavybės teise priklausantis turtas, perduodamas privačiam subjektui, nustatomas Lietuvos Respublikos Vyriausybės arba savivaldybės tarybos sprendime dėl valdžios ir privataus subjektų partnerystės projekto įgyvendinimo tikslingumo. Kai privačiam subjektui perduodamas valstybės arba savivaldybės kontroliuojamam juridiniam asmeniui nuosavybės teise priklausantis turtas, iki Lietuvos Respublikos Vyriausybės arba savivaldybės tarybos sprendimo dėl valdžios ir privataus subjektų partnerystės projekto įgyvendinimo tikslingumo priėmimo dienos turi būti priimtas šio juridinio asmens sprendimas dėl dalyvavimo įgyvendinant valdžios ir privataus subjektų partnerystės projektą ir nuosavybės teise priklausančio turto perdavimo privačiam subjektui.
+
+5. Valdžios ir privataus subjektų partnerystės sutartyje gali būti nurodytas privataus subjekto įsipareigojimas sukurti naują turtą, kuris valdžios ir privataus subjektų partnerystės sutarties galiojimo laikotarpiu nuosavybės teise gali priklausyti privačiam subjektui, jeigu tai neprieštarauja įstatymams, kuriuose nustatyta išimtinė valstybės nuosavybės teisė.
+
+6. Valdžios ir privataus subjektų partnerystės sutarčiai pasibaigus, privataus subjekto naujai sukurtas, taip pat perduotas valstybės ar savivaldybės turtas perduodamas arba grąžinamas atitinkamai valstybei arba savivaldybei, o valstybės arba savivaldybės kontroliuojamam juridiniam asmeniui nuosavybės teise priklausantis turtas grąžinamas šiam juridiniam asmeniui.
+
+7. Privataus subjekto naujai sukurtas arba perimtas valstybei, savivaldybei ar valstybės arba savivaldybės kontroliuojamam juridiniam asmeniui nuosavybės teise priklausantis turtas, išskyrus žemę ar kitą turtą, kuris nėra turto draudimo objektas, visą valdžios ir privataus subjektų partnerystės sutarties galiojimo laikotarpį turi būti apdraustas nuo visų galimų drausti draudžiamųjų įvykių valdžios ir privataus subjektų partnerystės sutartyje nustatytomis sąlygomis.
+
+155 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties turinys
+
+Valdžios ir privataus subjektų partnerystės sutartyje turi būti nurodyta:
+
+1) privataus subjekto atliekamų darbų ir (arba) teikiamų paslaugų pobūdis, mastas ir kitos sąlygos, apibūdinančios sutarties dalyką;
+
+2) išankstinės sutarties įsigaliojimo sąlygos, jeigu tokių yra;
+
+3) sutarties šalių teisės ir pareigos;
+
+4) investicijų dydis, investicijų ir valdžios subjekto įsipareigojimų finansavimo šaltiniai;
+
+5) sutarties terminas ir jo pratęsimo sąlygos, jeigu dėl jų buvo susitarta;
+
+6) sutartyje nurodytų darbų atlikimo terminai, paslaugų teikimo pradžios terminas ir jų pratęsimo sąlygos, jeigu dėl jų buvo susitarta;
+
+7) subtiekėjai, jeigu vykdant sutartį jie pasitelkiami, ir jų keitimo tvarka;
+
+8) privataus subjekto atsakomybė už subtiekėjų ar kitų trečiųjų asmenų prievolių įvykdymą, jeigu privatus subjektas įsipareigojimams pagal sutartį vykdyti pasitelkia subtiekėjus arba trečiuosius asmenis;
+
+9) aplinkybės ir sąlygos, kurioms esant valdžios subjektas, siekdamas užtikrinti nenutrūkstamą darbų atlikimą ir (arba) paslaugų teikimą, gali (laikinai ar kitaip) perimti ir (arba) perduoti tretiesiems asmenims kurios nors privataus subjekto prievolės įgyvendinimą tuo atveju, kai privatus subjektas padaro esminį savo prievolių pagal sutartį pažeidimą, jeigu tai numatoma;
+
+10) reikalavimas privačiam subjektui įsteigti juridinį asmenį valdžios ir privataus subjektų partnerystės sutartiniams įsipareigojimams vykdyti, jeigu tai numatoma privataus subjekto atrankos dokumentuose;
+
+11) privataus subjekto prievolių įvykdymo užtikrinimo būdai;
+
+12) šalių teisės į turtą, kuris bus sukuriamas, perduodamas, valdomas, prižiūrimas, jo naudojimo sąlygos ir dėl to atsirandančios pareigos;
+
+13) reikalavimas privačiam subjektui sudaryti jam perduoto valdyti ir naudoti valstybei, savivaldybei ar valstybės arba savivaldybės kontroliuojamam juridiniam asmeniui nuosavybės teise priklausančio turto arba naujai sukurto turto draudimo sutartis;
+
+14) sutartyje nurodomiems turtui ir teikiamoms paslaugoms taikomi kokybiniai ir kiekybiniai (tinkamumo) reikalavimai;
+
+15) rizikos, susijusios su valdžios ir privataus subjektų partnerystės sutartyje nustatytais šalių įsipareigojimais, pasidalijimas tarp sutarties šalių;
+
+16) teisių, pareigų ir rizikos pasidalijimas, kai įgyvendinami konsoliduoti valdžios ir privataus subjektų partnerystės projektai;
+
+17) sutarties šalių atsiskaitymų ir mokėjimų, taip pat baudų ir išskaitų taikymo tvarka ir sąlygos;
+
+18) sutarties sąlygų peržiūros sąlygos ar pasirinkimo galimybės, jeigu tai numatoma;
+
+19) sutarties šalių civilinė atsakomybė už privalomųjų sutarties sąlygų nevykdymą;
+
+20) valdžios subjekto teisė kontroliuoti privataus subjekto įsipareigojimų vykdymą, susitarimas dėl įsipareigojimų vykdymo vertinimo ir informacijos teikimo tvarka;
+
+21) sutarties galiojimo laikotarpiu nenumatytų aplinkybių sprendimo tvarka;
+
+22) sutarties nutraukimo sąlygos;
+
+23) ginčų sprendimo tvarka;
+
+24) sutarties stebėsena ir ataskaitų teikimo tvarka;
+
+25) informacijos apie sutarties sudarymą ir vykdymą viešinimo tvarka;
+
+26) kitos Viešųjų pirkimų įstatyme, Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme nurodytos sutarčių sąlygos.
+
+Skirsnio pakeitimai:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
+
+KETVIRTASIS2 SKIRSNIS
+
+INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
+
+156 straipsnis. Stambaus projekto investicijų sutarties sudarymas
+
+Straipsnio numeracijos pakeitimas:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
+
+1. Paraiška dėl stambaus projekto investicijų sutarties sudarymo teikiama, šio straipsnio 3 dalyje nustatytų sąlygų pagrindimas ir šių sąlygų pagrindimo, taip pat šio straipsnio 5 dalyje nurodytų interesų vertinimas atliekamas, Lietuvos Respublikos Vyriausybės įgaliotos institucijos veiksmai užtikrinant stambaus projekto atitikties viešajai tvarkai, nacionaliniam saugumui, visuomenės saugumui ir (ar) sveikatos interesams vertinimą, rengiant, derinant, sudarant ar vykdant stambaus projekto investicijų sutartį, stambaus projekto investicijų sutarties vykdymo priežiūra atliekama, taip pat šio įstatymo 157 straipsnyje nustatytos specialios investavimo ir verslo sąlygos stambaus projekto investicijų sutartyje nurodytiems stambiems projektams įgyvendinti taikomos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 
 2. Investuotojas, ketinantis sudaryti stambaus projekto investicijų sutartį, pateikia Lietuvos Respublikos Vyriausybės įgaliotai institucijai paraišką dėl stambaus projekto investicijų sutarties sudarymo. Paraiškos formą tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
 
@@ -937,7 +1073,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
 
-4) stambaus projekto įgyvendinimo metu numatomos taikyti šio įstatymo 155 straipsnyje nustatytos specialios investavimo ir verslo sąlygos bei valstybės pagalbos teikimo sąlygos;
+4) stambaus projekto įgyvendinimo metu numatomos taikyti šio įstatymo 157 straipsnyje nustatytos specialios investavimo ir verslo sąlygos bei valstybės pagalbos teikimo sąlygos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 
 5) stambaus projekto įgyvendinimo terminas, kuris negali būti ilgesnis negu 10 metų nuo stambaus projekto investicijų sutarties įsigaliojimo dienos, ir stambaus projekto tęstinumo laikotarpio pabaigos terminas;
 
@@ -962,114 +1102,6 @@ Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
-
-155 straipsnis. Stambiems projektams taikomos specialios investavimo ir verslo sąlygos
-
-1. Šiame straipsnyje, išskyrus šio straipsnio 10 dalį, nustatytos specialios investavimo ir verslo sąlygos stambiems projektams įgyvendinti taikomos tik tuo atveju, jeigu dėl jų taikymo yra susitarta stambaus projekto investicijų sutartyje. Šios sąlygos taikomos nuo stambaus projekto įrašymo į stambių projektų sąrašą dienos iki stambaus projekto investicijų sutartyje nustatyto stambaus projekto įgyvendinimo termino, o šio straipsnio 9 dalyje nurodytos specialios investavimo ir verslo sąlygos – iki stambaus projekto tęstinumo laikotarpio pabaigos termino. Šio straipsnio 3 dalyje nurodytos specialios investavimo ir verslo sąlygos laisvosios ekonominės zonos įmonėms taikomos nuo laisvosios ekonominės zonos įmonės statuso gavimo dienos. Šiame straipsnyje nustatytos stambiems projektams įgyvendinti taikomos specialios investavimo ir verslo sąlygos visais atvejais nebetaikomos išbraukus stambų projektą iš stambių projektų sąrašo.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
-
-2. Sudarius stambaus projekto investicijų sutartį, stambus projektas įtraukiamas į stambių projektų sąrašą ir nuo įtraukimo į šį sąrašą dienos yra laikomas valstybei svarbiu projektu. Šio valstybei svarbaus projekto teritorijų planavimo dokumento planavimo organizatorė yra Ekonomikos ir inovacijų ministerija, kai tokiam teritorijų planavimo dokumentui taikoma Teritorijų planavimo įstatyme nustatyta valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka. Stambus projektas netenka valstybei svarbaus projekto statuso jį išbraukus iš stambių projektų sąrašo. Stambūs projektai išbraukiami iš stambių projektų sąrašo pasibaigus stambaus projekto įgyvendinimo terminui, jeigu nėra nustatytas stambaus projekto tęstinumo laikotarpis, pasibaigus stambaus projekto tęstinumo laikotarpiui arba nutraukus stambaus projekto investicijų sutartį, jeigu ji nutraukiama anksčiau, negu pasibaigia stambaus projekto įgyvendinimo terminas arba stambaus projekto tęstinumo laikotarpis. Stambių projektų įtraukimo į stambių projektų sąrašą ir išbraukimo iš šio sąrašo tvarką nustato Lietuvos Respublikos Vyriausybė.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
-
-3. Viešojo administravimo subjektai stambiam projektui įgyvendinti arba laisvosios ekonominės zonos įmonei reikalingas administracines paslaugas (išskyrus administracinės procedūros atlikimą) suteikia ir individualius administracinius aktus priima prioriteto tvarka per kuo trumpesnį terminą, tačiau visais atvejais ne vėliau kaip per 3 darbo dienas nuo reikiamų dokumentų ir informacijos gavimo, nebent teisės aktuose yra nustatyti trumpesni terminai. Viešojo administravimo subjekto vadovo sprendimu šis terminas dėl svarbių priežasčių gali būti pratęstas iki 3 darbo dienų. Apie administracinės paslaugos suteikimą (išskyrus administracinės procedūros atlikimą) ar individualaus administracinio akto priėmimą investuotojas ir (ar) kiti asmenys, kuriems teisės aktų nustatytais atvejais teikiama ši informacija, informuojami nedelsiant, bet ne vėliau kaip per vieną darbo dieną. Šioje dalyje nustatytas sutrumpintas administracinių paslaugų suteikimo ir individualių administracinių aktų priėmimo terminas netaikomas:
-
-1) visuomenės informavimo apie priimamus sprendimus ir viešinimo procedūroms;
-
-2) patikros dėl atitikties nacionalinio saugumo interesams ir sprendimo dėl atitikties nacionalinio saugumo interesams priėmimo procedūroms;
-
-3) stambiam projektui įgyvendinti ar laisvosios ekonominės zonos įmonei reikalingų kompleksinio ir specialiojo teritorijų planavimo dokumentų derinimo, tikrinimo ir tvirtinimo procedūroms;
-
-4) Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytoms procedūroms;
-
-5) Lietuvos Respublikos aplinkos apsaugos įstatyme nurodytų taršos integruotos prevencijos ir kontrolės leidimų ir taršos leidimų išdavimo ir pakeitimo procedūroms;
-
-6) prašymų išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje (toliau – leidimas gyventi) nagrinėjimo terminams.
-
-4. Stambaus projekto investicijų sutartyje numatytais atvejais statinio projektui, kurio pagrindu pagal Lietuvos Respublikos statybos įstatymą yra išduodamas statybą leidžiantis dokumentas, prilyginama statinio projekto bendrosios, architektūrinės, sklypo sutvarkymo (sklypo plano) ir susisiekimo dalių visuma. Kitos statinio projekto dalys, kurias pagal teisės aktus privaloma parengti, privalo būti parengtos, įskaitant jų ekspertizės atlikimą (kai statinio projekto ekspertizė privaloma pagal Statybos įstatymą), ne vėliau kaip iki statybos darbų pagal jas pradžios. Šios dalies nuostatos netaikomos, kai planuojami kultūros paveldo statinių tvarkomieji statybos darbai ar kai statinių statyba planuojama kultūros paveldo objektų teritorijose, arba šioje dalyje nurodytose statinio projekto dalyse pateiktos informacijos nepakanka, kad aplinkos ministro įgaliota institucija, tikrindama statinių, kuriuose bus vykdoma ūkinė veikla, kurios atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas arba atranka dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo, galėtų patikrinti, ar bus įgyvendintos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai, kad planuojama ūkinė veikla atitinka teisės aktų reikalavimus (toliau šioje dalyje – sprendimas), nustatytos sąlygos ir suprojektuotos sprendime ir (ar) atrankos dėl poveikio aplinkai vertinimo išvadoje, kai poveikio aplinkai vertinimas neprivalomas, numatytos priemonės reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos konkrečiu statybos etapu.
-
-5. Stambių projektų įgyvendinimo sąlygos, susijusios su poveikio aplinkai vertinimu, taikomos Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka.
-
-6. Užsieniečiams, kurie nėra Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečiai, atvykstantiems į Lietuvos Respubliką dirbti pas stambų projektą įgyvendinantį investuotoją (toliau šiame straipsnyje – darbuotojai) ar užsiimti teisėta veikla, kai jie yra stambų projektą įgyvendinančio investuotojo akcininkai, kuriems nuosavybės teise priklausančių akcijų nominalioji vertė yra ne mažesnė kaip 1/10 stambų projektą įgyvendinančio investuotojo įstatinio kapitalo (toliau šiame straipsnyje – akcininkai), ar eiti stambų projektą įgyvendinančio investuotojo vadovo pareigas (toliau šiame straipsnyje – vadovas), įgyvendinantiems stambų projektą ir turintiems tai patvirtinantį Lietuvos Respublikos Vyriausybės įgaliotos institucijos išduotą dokumentą, leidimas gyventi gali būti išduodamas ar keičiamas trejiems metams arba darbo sutarties su stambų projektą įgyvendinančiu investuotoju galiojimo ar teisėtos veiklos Lietuvos Respublikoje laikotarpiui, jeigu darbuotojo darbo santykiai, akcininko ar vadovo teisėta veikla Lietuvos Respublikoje truks trumpiau negu trejus metus. Darbuotojų, akcininkų ir vadovo (toliau šiame straipsnyje kartu – užsieniečiai) prašymas išduoti ar pakeisti leidimą gyventi išnagrinėjamas ne vėliau kaip per vieną mėnesį nuo šio prašymo pateikimo dienos. Užsienietis, esantis ne Lietuvos Respublikoje, prašymą išduoti leidimą gyventi pateikia per Migracijos departamento pasirinktą išorės paslaugų teikėją. Užsienietis, esantis Lietuvos Respublikos teritorijoje teisėtai, prašymą išduoti leidimą gyventi pateikia Migracijos departamentui. Šeimos nariui, kaip apibrėžta Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, atvykstančiam gyventi į Lietuvos Respubliką kartu su užsieniečiu, leidimas gyventi gali būti išduodamas tokiam pačiam laikotarpiui, kaip ir šiam užsieniečiui. Užsieniečiai atleidžiami nuo pareigos įsigyti leidimą dirbti, jiems netaikomi kvalifikacijos atitikties darbo vietai ar darbo patirties reikalavimai. Užsieniečiai, teisėtai esantys Lietuvos Respublikoje, gali pradėti dirbti nuo prašymo išduoti leidimą gyventi pateikimo dienos. Darbuotojų, kurie gali gauti leidimą gyventi šioje dalyje nurodytu pagrindu, skaičius nustatomas stambaus projekto investicijų sutartyje.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
-
-7. Stambiems projektams įgyvendinti taikomos šios nuostatos, susijusios su žemės nuosavybės, valdymo ir naudojimo santykiais, žemės tvarkymu ir žemės administravimu:
-
-1) žemės sklypams kurie investuotojui nepriklauso nuosavybės teise ar kitais teisėtais pagrindais nėra jo valdomi, servitutai, suteikiantys teisę tiesti inžinerinės infrastruktūros tinklus (požemines ir antžemines komunikacijas), kelius ir takus, jais naudotis ir juos prižiūrėti, reikalingi stambiems projektams įgyvendinti, nustatomi administraciniu aktu Žemės įstatymo nustatyta tvarka arba kitais įstatymuose nustatytais pagrindais. Žemės savininko ar valstybinės žemės patikėtinio nuostoliai, patiriami dėl Nekilnojamojo turto registre įregistruoto servituto, atlyginami Žemės įstatyme nustatyta tvarka;
-
-2) stambiam projektui įgyvendinti reikalingos kadastrinių matavimų procedūros gali būti atliekamos pagal rengiamo teritorijų planavimo dokumento ar žemės valdos projekto sprendinius. Tokiu atveju nekilnojamojo daikto kadastro duomenų byla teikiama tikrinti ir žemės sklypas teikiamas registruoti Nekilnojamojo turto kadastre ir Nekilnojamojo turto registre tik patvirtinus teritorijų planavimo dokumentą ar žemės valdos projektą. Nustačius, kad patvirtinto teritorijų planavimo dokumento ar žemės valdos projekto duomenys apie nekilnojamąjį daiktą ir pagal rengiamą teritorijų planavimo dokumentą nustatyti kadastro duomenys nesutampa ar neatitinka visų teisės aktuose nustatytų reikalavimų, jie negali būti registruojami, o dėl tokio atsisakymo registruoti kadastro duomenis atsiradę stambų projektą įgyvendinančio investuotojo nuostoliai neatlyginami;
-
-3) stambiam projektui įgyvendinti reikalingi valstybinės žemės sklypai išnuomojami investuotojui be aukciono Žemės įstatymo nustatyta tvarka. Nutraukus stambaus projekto investicijų sutartį dėl investuotojo kaltės anksčiau, negu pasibaigia stambaus projekto įgyvendinimo terminas, stambiam projektui įgyvendinti reikalingos valstybinės žemės sklypo nuomos sutartis nutraukiama.
-
-8. Nuostatos, susijusios su stambiems projektams įgyvendinti reikalingos kvalifikacijos ir kompetencijos specialistų rengimu:
-
-1) nustatydama ir paskirstydama valstybės finansuojamų profesinio mokymo ir studijų vietų, taip pat studijų stipendijų skaičių, Lietuvos Respublikos švietimo, mokslo ir sporto ministerija įvertina Lietuvos Respublikos ekonomikos ir inovacijų ministerijos pateiktus pasiūlymus dėl stambiems projektams įgyvendinti reikalingo preliminaraus specialistų skaičiaus, kvalifikacijos ir išsilavinimo;
-
-2) siekdama užtikrinti stambiems projektams įgyvendinti reikalingos kvalifikacijos specialistų poreikį, Švietimo, mokslo ir sporto ministerija ar jos įgaliota institucija pagal Ekonomikos ir inovacijų ministerijos pateiktus stambiems projektams įgyvendinti reikalingos darbo jėgos poreikius per kuo trumpesnį terminą peržiūri stambiems projektams įgyvendinti reikalingus profesinius standartus ir atitinkamą kvalifikaciją suteikiančias formaliojo profesinio mokymo programas ir (ar) jų modulius ir prireikus teisės aktų nustatyta tvarka inicijuoja jų atnaujinimą arba rengimą;
-
-3) bedarbiams ar užimtiems asmenims iš valstybės biudžeto ir Europos Sąjungos struktūrinių fondų ir Europos prisitaikymo prie globalizacijos padarinių fondo (toliau – fondai) bendrai skiriama lėšų suma, įskaitant pagal Lietuvos Respublikos užimtumo įstatymą bedarbiams ar užimtiems asmenims iš fondų bendrai skiriamą lėšų sumą, negali viršyti 9,3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai įgyti ir 4,66 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai tobulinti ar kompetencijai įgyti, kai įgyjama ar tobulinama kvalifikacija arba įgyjama kompetencija, reikalinga stambaus projekto investicijų sutartims įgyvendinti.
-
-9. Investuotojui pelno mokesčio lengvatos taikomos Lietuvos Respublikos pelno mokesčio įstatymo nustatyta tvarka.
-
-10. Stambus projektas Lietuvos Respublikos Vyriausybės nutarimu gali būti pripažintas užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius. Motyvuotą siūlymą dėl stambaus projekto pripažinimo užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius Lietuvos Respublikos Vyriausybei teikia Lietuvos Respublikos ekonomikos ir inovacijų ministerija, gavusi Lietuvos Respublikos krašto apsaugos ministerijos motyvuotą pritarimą. Stambiam projektui, Lietuvos Respublikos Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, taikomos ir kitos, šiame straipsnyje nenumatytos, specialios investavimo ir verslo sąlygos, kai šios specialios sąlygos nustatytos Statybos įstatyme, Žemės įstatyme, Teritorijų planavimo įstatyme.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
-
-156 straipsnis. Stambių projektų koordinavimas
-
-1. Viešojo administravimo subjektai, pagal kompetenciją priimdami administracinius sprendimus ir teikdami administracines paslaugas, susijusias su stambių projektų įgyvendinimu, bendradarbiauja tarpusavyje ir su investuotojais, keičiasi reikalinga informacija ir užtikrina administracinių sprendimų priėmimą ir administracinių paslaugų teikimą nustatytais terminais.
-
-2. Stambaus projekto įgyvendinimą koordinuoja Lietuvos Respublikos Vyriausybės įgaliota institucija (toliau – koordinatorius).
-
-3. Koordinatorius atlieka šias funkcijas:
-
-1) organizuoja šio įstatymo 154 straipsnio 3 dalyje ir 154 straipsnio 5 dalyje nurodytų sąlygų vertinimą, teikia informaciją ir konsultuoja investuotoją stambaus projekto investicijų sutarties sudarymo ir vykdymo klausimais;
-
-2) bendradarbiauja su viešojo administravimo subjektais, teikiančiais administracines paslaugas ir priimančiais administracinius sprendimus, reikalingus stambiam projektui įgyvendinti, organizuoja investuotojų susitikimus su viešojo administravimo subjektais, viešojo administravimo subjektams teikia informaciją ir konsultacijas, susijusias su stambaus projekto įgyvendinimu;
-
-3) atlieka kitas teisės aktų nustatytas funkcijas.
-
-4. Koordinatorius turi teisę gauti stambiems projektams įgyvendinti reikalingus dokumentus ir informaciją iš viešojo administravimo subjektų, investuotojų, valstybės registrų ir duomenų bazių.
-
-5. Tarpinstitucinio pobūdžio klausimams, susijusiems su stambių projektų įgyvendinimu ir stambaus projekto investicijų sutarčių vykdymu, spręsti sudaromas konsultacinis komitetas (toliau – komitetas). Komiteto sudarymo ir jo darbo tvarką nustato Lietuvos Respublikos Vyriausybė. Į komiteto posėdžius kviečiami viešojo administravimo subjektų, kurių kompetencijai priskirtais klausimais organizuojamas komiteto posėdis, atstovai.
-
-6. Komitetas atlieka šias funkcijas:
-
-1) pagal koordinatoriaus pateiktą informaciją svarsto tarpinstitucinio pobūdžio klausimus, susijusius su stambių projektų įgyvendinimu ir stambaus projekto investicijų sutarčių vykdymu;
-
-2) teikia rekomendacijas viešojo administravimo subjektams klausimais, susijusiais su stambiems projektams skirtų administracinių paslaugų teikimu ir individualių administracinių aktų priėmimu;
-
-3) atlieka kitas komitetui teisės aktų priskirtas funkcijas.
-
-7. Koordinatorius viešojo administravimo subjektams, teikiantiems administracines paslaugas ar priimantiems individualius administracinius aktus, reikalingus stambiam projektui įgyvendinti, raštu teikia pasiūlymus dėl stambiems projektams įgyvendinti taikomų teisės aktų taikymo (toliau – pasiūlymai). Koordinatoriaus pasiūlymai viešojo administravimo subjektams neprivalomi. Pasiūlymai teikiami šiais atvejais:
-
-1) kai viešojo administravimo subjektas nesilaiko terminų, nurodytų šio įstatymo 155 straipsnio 3 dalyje, ir (ar) vilkina administracinės paslaugos suteikimą ar individualaus administracinio akto, reikalingo stambiems projektams įgyvendinti, priėmimą;
-
-2) kai viešojo administravimo subjektas galbūt pažeidžia šio įstatymo ar kitų teisės aktų, taikomų stambiems projektams įgyvendinti, reikalavimus.
-
-8. Viešojo administravimo subjektai nedelsdami, ne vėliau kaip per 3 darbo dienas po pasiūlymų dėl stambiems projektams įgyvendinti taikomų teisės aktų taikymo gavimo, privalo pranešti koordinatoriui apie tai, kokių priemonių ir per kokį terminą imsis siekdami atsižvelgti į pateiktus pasiūlymus, arba raštu pateikti motyvuotą atsisakymą atsižvelgti į pateiktus pasiūlymus.
-
-9. Koordinatorius privalo ne vėliau kaip per 3 darbo dienas po šio straipsnio 8 dalyje nurodyto viešojo administravimo subjekto pranešimo gavimo pranešti komitetui apie koordinatoriaus pasiūlymus, į kuriuos viešojo administravimo subjektas neatsižvelgia. Koordinatorius turi teisę pranešti komitetui ir apie koordinatoriaus pateiktus pasiūlymus, į kuriuos atsižvelgta. Komitetas koordinatoriaus pateiktą informaciją nagrinėja komiteto posėdyje, kuris surengiamas ne vėliau kaip per 3 darbo dienas nuo reikiamų dokumentų ir informacijos gavimo.
-
-10. Viešojo administravimo subjektai privalo pateikti koordinatoriui informaciją apie koordinatoriaus pateiktų pasiūlymų dėl stambiems projektams įgyvendinti taikomų teisės aktų taikymo įvykdymą.
-
-Papildyta skirsniu:
-
-Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
-
-PENKTASIS SKIRSNIS
-
-BAIGIAMOSIOS NUOSTATOS
 
 131 straipsnis. Specialios investavimo, verslo ir kitos sąlygos, taikomos Lietuvos Respublikoje investicijų sutarties įgyvendinimo metu
 
@@ -1132,4 +1164,128 @@ Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
 Papildyta straipsniu:
 
 Nr. XIV-377, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13518
+
+157 straipsnis. Stambiems projektams taikomos specialios investavimo ir verslo sąlygos
+
+Straipsnio numeracijos pakeitimas:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
+
+1. Šiame straipsnyje, išskyrus šio straipsnio 10 dalį, nustatytos specialios investavimo ir verslo sąlygos stambiems projektams įgyvendinti taikomos tik tuo atveju, jeigu dėl jų taikymo yra susitarta stambaus projekto investicijų sutartyje. Šios sąlygos taikomos nuo stambaus projekto įrašymo į stambių projektų sąrašą dienos iki stambaus projekto investicijų sutartyje nustatyto stambaus projekto įgyvendinimo termino, o šio straipsnio 9 dalyje nurodytos specialios investavimo ir verslo sąlygos – iki stambaus projekto tęstinumo laikotarpio pabaigos termino. Šio straipsnio 3 dalyje nurodytos specialios investavimo ir verslo sąlygos laisvosios ekonominės zonos įmonėms taikomos nuo laisvosios ekonominės zonos įmonės statuso gavimo dienos. Šiame straipsnyje nustatytos stambiems projektams įgyvendinti taikomos specialios investavimo ir verslo sąlygos visais atvejais nebetaikomos išbraukus stambų projektą iš stambių projektų sąrašo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
+
+2. Sudarius stambaus projekto investicijų sutartį, stambus projektas įtraukiamas į stambių projektų sąrašą ir nuo įtraukimo į šį sąrašą dienos yra laikomas valstybei svarbiu projektu. Šio valstybei svarbaus projekto teritorijų planavimo dokumento planavimo organizatorė yra Ekonomikos ir inovacijų ministerija, kai tokiam teritorijų planavimo dokumentui taikoma Teritorijų planavimo įstatyme nustatyta valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka. Stambus projektas netenka valstybei svarbaus projekto statuso jį išbraukus iš stambių projektų sąrašo. Stambūs projektai išbraukiami iš stambių projektų sąrašo pasibaigus stambaus projekto įgyvendinimo terminui, jeigu nėra nustatytas stambaus projekto tęstinumo laikotarpis, pasibaigus stambaus projekto tęstinumo laikotarpiui arba nutraukus stambaus projekto investicijų sutartį, jeigu ji nutraukiama anksčiau, negu pasibaigia stambaus projekto įgyvendinimo terminas arba stambaus projekto tęstinumo laikotarpis. Stambių projektų įtraukimo į stambių projektų sąrašą ir išbraukimo iš šio sąrašo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
+
+3. Viešojo administravimo subjektai stambiam projektui įgyvendinti arba laisvosios ekonominės zonos įmonei reikalingas administracines paslaugas (išskyrus administracinės procedūros atlikimą) suteikia ir individualius administracinius aktus priima prioriteto tvarka per kuo trumpesnį terminą, tačiau visais atvejais ne vėliau kaip per 3 darbo dienas nuo reikiamų dokumentų ir informacijos gavimo, nebent teisės aktuose yra nustatyti trumpesni terminai. Viešojo administravimo subjekto vadovo sprendimu šis terminas dėl svarbių priežasčių gali būti pratęstas iki 3 darbo dienų. Apie administracinės paslaugos suteikimą (išskyrus administracinės procedūros atlikimą) ar individualaus administracinio akto priėmimą investuotojas ir (ar) kiti asmenys, kuriems teisės aktų nustatytais atvejais teikiama ši informacija, informuojami nedelsiant, bet ne vėliau kaip per vieną darbo dieną. Šioje dalyje nustatytas sutrumpintas administracinių paslaugų suteikimo ir individualių administracinių aktų priėmimo terminas netaikomas:
+
+1) visuomenės informavimo apie priimamus sprendimus ir viešinimo procedūroms;
+
+2) patikros dėl atitikties nacionalinio saugumo interesams ir sprendimo dėl atitikties nacionalinio saugumo interesams priėmimo procedūroms;
+
+3) stambiam projektui įgyvendinti ar laisvosios ekonominės zonos įmonei reikalingų kompleksinio ir specialiojo teritorijų planavimo dokumentų derinimo, tikrinimo ir tvirtinimo procedūroms;
+
+4) Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytoms procedūroms;
+
+5) Lietuvos Respublikos aplinkos apsaugos įstatyme nurodytų taršos integruotos prevencijos ir kontrolės leidimų ir taršos leidimų išdavimo ir pakeitimo procedūroms;
+
+6) prašymų išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje (toliau – leidimas gyventi) nagrinėjimo terminams.
+
+4. Stambaus projekto investicijų sutartyje numatytais atvejais statinio projektui, kurio pagrindu pagal Lietuvos Respublikos statybos įstatymą yra išduodamas statybą leidžiantis dokumentas, prilyginama statinio projekto bendrosios, architektūrinės, sklypo sutvarkymo (sklypo plano) ir susisiekimo dalių visuma. Kitos statinio projekto dalys, kurias pagal teisės aktus privaloma parengti, privalo būti parengtos, įskaitant jų ekspertizės atlikimą (kai statinio projekto ekspertizė privaloma pagal Statybos įstatymą), ne vėliau kaip iki statybos darbų pagal jas pradžios. Šios dalies nuostatos netaikomos, kai planuojami kultūros paveldo statinių tvarkomieji statybos darbai ar kai statinių statyba planuojama kultūros paveldo objektų teritorijose, arba šioje dalyje nurodytose statinio projekto dalyse pateiktos informacijos nepakanka, kad aplinkos ministro įgaliota institucija, tikrindama statinių, kuriuose bus vykdoma ūkinė veikla, kurios atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas arba atranka dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo, galėtų patikrinti, ar bus įgyvendintos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai, kad planuojama ūkinė veikla atitinka teisės aktų reikalavimus (toliau šioje dalyje – sprendimas), nustatytos sąlygos ir suprojektuotos sprendime ir (ar) atrankos dėl poveikio aplinkai vertinimo išvadoje, kai poveikio aplinkai vertinimas neprivalomas, numatytos priemonės reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos konkrečiu statybos etapu.
+
+5. Stambių projektų įgyvendinimo sąlygos, susijusios su poveikio aplinkai vertinimu, taikomos Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka.
+
+6. Užsieniečiams, kurie nėra Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečiai, atvykstantiems į Lietuvos Respubliką dirbti pas stambų projektą įgyvendinantį investuotoją (toliau šiame straipsnyje – darbuotojai) ar užsiimti teisėta veikla, kai jie yra stambų projektą įgyvendinančio investuotojo akcininkai, kuriems nuosavybės teise priklausančių akcijų nominalioji vertė yra ne mažesnė kaip 1/10 stambų projektą įgyvendinančio investuotojo įstatinio kapitalo (toliau šiame straipsnyje – akcininkai), ar eiti stambų projektą įgyvendinančio investuotojo vadovo pareigas (toliau šiame straipsnyje – vadovas), įgyvendinantiems stambų projektą ir turintiems tai patvirtinantį Lietuvos Respublikos Vyriausybės įgaliotos institucijos išduotą dokumentą, leidimas gyventi gali būti išduodamas ar keičiamas trejiems metams arba darbo sutarties su stambų projektą įgyvendinančiu investuotoju galiojimo ar teisėtos veiklos Lietuvos Respublikoje laikotarpiui, jeigu darbuotojo darbo santykiai, akcininko ar vadovo teisėta veikla Lietuvos Respublikoje truks trumpiau negu trejus metus. Darbuotojų, akcininkų ir vadovo (toliau šiame straipsnyje kartu – užsieniečiai) prašymas išduoti ar pakeisti leidimą gyventi išnagrinėjamas ne vėliau kaip per vieną mėnesį nuo šio prašymo pateikimo dienos. Užsienietis, esantis ne Lietuvos Respublikoje, prašymą išduoti leidimą gyventi pateikia per Migracijos departamento pasirinktą išorės paslaugų teikėją. Užsienietis, esantis Lietuvos Respublikos teritorijoje teisėtai, prašymą išduoti leidimą gyventi pateikia Migracijos departamentui. Šeimos nariui, kaip apibrėžta Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, atvykstančiam gyventi į Lietuvos Respubliką kartu su užsieniečiu, leidimas gyventi gali būti išduodamas tokiam pačiam laikotarpiui, kaip ir šiam užsieniečiui. Užsieniečiai atleidžiami nuo pareigos įsigyti leidimą dirbti, jiems netaikomi kvalifikacijos atitikties darbo vietai ar darbo patirties reikalavimai. Užsieniečiai, teisėtai esantys Lietuvos Respublikoje, gali pradėti dirbti nuo prašymo išduoti leidimą gyventi pateikimo dienos. Darbuotojų, kurie gali gauti leidimą gyventi šioje dalyje nurodytu pagrindu, skaičius nustatomas stambaus projekto investicijų sutartyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
+
+7. Stambiems projektams įgyvendinti taikomos šios nuostatos, susijusios su žemės nuosavybės, valdymo ir naudojimo santykiais, žemės tvarkymu ir žemės administravimu:
+
+1) žemės sklypams kurie investuotojui nepriklauso nuosavybės teise ar kitais teisėtais pagrindais nėra jo valdomi, servitutai, suteikiantys teisę tiesti inžinerinės infrastruktūros tinklus (požemines ir antžemines komunikacijas), kelius ir takus, jais naudotis ir juos prižiūrėti, reikalingi stambiems projektams įgyvendinti, nustatomi administraciniu aktu Žemės įstatymo nustatyta tvarka arba kitais įstatymuose nustatytais pagrindais. Žemės savininko ar valstybinės žemės patikėtinio nuostoliai, patiriami dėl Nekilnojamojo turto registre įregistruoto servituto, atlyginami Žemės įstatyme nustatyta tvarka;
+
+2) stambiam projektui įgyvendinti reikalingos kadastrinių matavimų procedūros gali būti atliekamos pagal rengiamo teritorijų planavimo dokumento ar žemės valdos projekto sprendinius. Tokiu atveju nekilnojamojo daikto kadastro duomenų byla teikiama tikrinti ir žemės sklypas teikiamas registruoti Nekilnojamojo turto kadastre ir Nekilnojamojo turto registre tik patvirtinus teritorijų planavimo dokumentą ar žemės valdos projektą. Nustačius, kad patvirtinto teritorijų planavimo dokumento ar žemės valdos projekto duomenys apie nekilnojamąjį daiktą ir pagal rengiamą teritorijų planavimo dokumentą nustatyti kadastro duomenys nesutampa ar neatitinka visų teisės aktuose nustatytų reikalavimų, jie negali būti registruojami, o dėl tokio atsisakymo registruoti kadastro duomenis atsiradę stambų projektą įgyvendinančio investuotojo nuostoliai neatlyginami;
+
+3) stambiam projektui įgyvendinti reikalingi valstybinės žemės sklypai išnuomojami investuotojui be aukciono Žemės įstatymo nustatyta tvarka. Nutraukus stambaus projekto investicijų sutartį dėl investuotojo kaltės anksčiau, negu pasibaigia stambaus projekto įgyvendinimo terminas, stambiam projektui įgyvendinti reikalingos valstybinės žemės sklypo nuomos sutartis nutraukiama.
+
+8. Nuostatos, susijusios su stambiems projektams įgyvendinti reikalingos kvalifikacijos ir kompetencijos specialistų rengimu:
+
+1) nustatydama ir paskirstydama valstybės finansuojamų profesinio mokymo ir studijų vietų, taip pat studijų stipendijų skaičių, Lietuvos Respublikos švietimo, mokslo ir sporto ministerija įvertina Lietuvos Respublikos ekonomikos ir inovacijų ministerijos pateiktus pasiūlymus dėl stambiems projektams įgyvendinti reikalingo preliminaraus specialistų skaičiaus, kvalifikacijos ir išsilavinimo;
+
+2) siekdama užtikrinti stambiems projektams įgyvendinti reikalingos kvalifikacijos specialistų poreikį, Švietimo, mokslo ir sporto ministerija ar jos įgaliota institucija pagal Ekonomikos ir inovacijų ministerijos pateiktus stambiems projektams įgyvendinti reikalingos darbo jėgos poreikius per kuo trumpesnį terminą peržiūri stambiems projektams įgyvendinti reikalingus profesinius standartus ir atitinkamą kvalifikaciją suteikiančias formaliojo profesinio mokymo programas ir (ar) jų modulius ir prireikus teisės aktų nustatyta tvarka inicijuoja jų atnaujinimą arba rengimą;
+
+3) bedarbiams ar užimtiems asmenims iš valstybės biudžeto ir Europos Sąjungos struktūrinių fondų ir Europos prisitaikymo prie globalizacijos padarinių fondo (toliau – fondai) bendrai skiriama lėšų suma, įskaitant pagal Lietuvos Respublikos užimtumo įstatymą bedarbiams ar užimtiems asmenims iš fondų bendrai skiriamą lėšų sumą, negali viršyti 9,3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai įgyti ir 4,66 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai tobulinti ar kompetencijai įgyti, kai įgyjama ar tobulinama kvalifikacija arba įgyjama kompetencija, reikalinga stambaus projekto investicijų sutartims įgyvendinti.
+
+9. Investuotojui pelno mokesčio lengvatos taikomos Lietuvos Respublikos pelno mokesčio įstatymo nustatyta tvarka.
+
+10. Stambus projektas Lietuvos Respublikos Vyriausybės nutarimu gali būti pripažintas užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius. Motyvuotą siūlymą dėl stambaus projekto pripažinimo užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius Lietuvos Respublikos Vyriausybei teikia Lietuvos Respublikos ekonomikos ir inovacijų ministerija, gavusi Lietuvos Respublikos krašto apsaugos ministerijos motyvuotą pritarimą. Stambiam projektui, Lietuvos Respublikos Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, taikomos ir kitos, šiame straipsnyje nenumatytos, specialios investavimo ir verslo sąlygos, kai šios specialios sąlygos nustatytos Statybos įstatyme, Žemės įstatyme, Teritorijų planavimo įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
+
+158 straipsnis. Stambių projektų koordinavimas
+
+Straipsnio numeracijos pakeitimas:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
+
+1. Viešojo administravimo subjektai, pagal kompetenciją priimdami administracinius sprendimus ir teikdami administracines paslaugas, susijusias su stambių projektų įgyvendinimu, bendradarbiauja tarpusavyje ir su investuotojais, keičiasi reikalinga informacija ir užtikrina administracinių sprendimų priėmimą ir administracinių paslaugų teikimą nustatytais terminais.
+
+2. Stambaus projekto įgyvendinimą koordinuoja Lietuvos Respublikos Vyriausybės įgaliota institucija (toliau – koordinatorius).
+
+3. Koordinatorius atlieka šias funkcijas:
+
+1) organizuoja šio įstatymo 156 straipsnio 3 dalyje ir 156 straipsnio 5 dalyje nurodytų sąlygų vertinimą, teikia informaciją ir konsultuoja investuotoją stambaus projekto investicijų sutarties sudarymo ir vykdymo klausimais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
+
+2) bendradarbiauja su viešojo administravimo subjektais, teikiančiais administracines paslaugas ir priimančiais administracinius sprendimus, reikalingus stambiam projektui įgyvendinti, organizuoja investuotojų susitikimus su viešojo administravimo subjektais, viešojo administravimo subjektams teikia informaciją ir konsultacijas, susijusias su stambaus projekto įgyvendinimu;
+
+3) atlieka kitas teisės aktų nustatytas funkcijas.
+
+4. Koordinatorius turi teisę gauti stambiems projektams įgyvendinti reikalingus dokumentus ir informaciją iš viešojo administravimo subjektų, investuotojų, valstybės registrų ir duomenų bazių.
+
+5. Tarpinstitucinio pobūdžio klausimams, susijusiems su stambių projektų įgyvendinimu ir stambaus projekto investicijų sutarčių vykdymu, spręsti sudaromas konsultacinis komitetas (toliau – komitetas). Komiteto sudarymo ir jo darbo tvarką nustato Lietuvos Respublikos Vyriausybė. Į komiteto posėdžius kviečiami viešojo administravimo subjektų, kurių kompetencijai priskirtais klausimais organizuojamas komiteto posėdis, atstovai.
+
+6. Komitetas atlieka šias funkcijas:
+
+1) pagal koordinatoriaus pateiktą informaciją svarsto tarpinstitucinio pobūdžio klausimus, susijusius su stambių projektų įgyvendinimu ir stambaus projekto investicijų sutarčių vykdymu;
+
+2) teikia rekomendacijas viešojo administravimo subjektams klausimais, susijusiais su stambiems projektams skirtų administracinių paslaugų teikimu ir individualių administracinių aktų priėmimu;
+
+3) atlieka kitas komitetui teisės aktų priskirtas funkcijas.
+
+7. Koordinatorius viešojo administravimo subjektams, teikiantiems administracines paslaugas ar priimantiems individualius administracinius aktus, reikalingus stambiam projektui įgyvendinti, raštu teikia pasiūlymus dėl stambiems projektams įgyvendinti taikomų teisės aktų taikymo (toliau – pasiūlymai). Koordinatoriaus pasiūlymai viešojo administravimo subjektams neprivalomi. Pasiūlymai teikiami šiais atvejais:
+
+1) kai viešojo administravimo subjektas nesilaiko terminų, nurodytų šio įstatymo 157 straipsnio 3 dalyje, ir (ar) vilkina administracinės paslaugos suteikimą ar individualaus administracinio akto, reikalingo stambiems projektams įgyvendinti, priėmimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
+
+2) kai viešojo administravimo subjektas galbūt pažeidžia šio įstatymo ar kitų teisės aktų, taikomų stambiems projektams įgyvendinti, reikalavimus.
+
+8. Viešojo administravimo subjektai nedelsdami, ne vėliau kaip per 3 darbo dienas po pasiūlymų dėl stambiems projektams įgyvendinti taikomų teisės aktų taikymo gavimo, privalo pranešti koordinatoriui apie tai, kokių priemonių ir per kokį terminą imsis siekdami atsižvelgti į pateiktus pasiūlymus, arba raštu pateikti motyvuotą atsisakymą atsižvelgti į pateiktus pasiūlymus.
+
+9. Koordinatorius privalo ne vėliau kaip per 3 darbo dienas po šio straipsnio 8 dalyje nurodyto viešojo administravimo subjekto pranešimo gavimo pranešti komitetui apie koordinatoriaus pasiūlymus, į kuriuos viešojo administravimo subjektas neatsižvelgia. Koordinatorius turi teisę pranešti komitetui ir apie koordinatoriaus pateiktus pasiūlymus, į kuriuos atsižvelgta. Komitetas koordinatoriaus pateiktą informaciją nagrinėja komiteto posėdyje, kuris surengiamas ne vėliau kaip per 3 darbo dienas nuo reikiamų dokumentų ir informacijos gavimo.
+
+10. Viešojo administravimo subjektai privalo pateikti koordinatoriui informaciją apie koordinatoriaus pateiktų pasiūlymų dėl stambiems projektams įgyvendinti taikomų teisės aktų taikymo įvykdymą.
+
+Papildyta skirsniu:
+
+Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
+
+PENKTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
 
