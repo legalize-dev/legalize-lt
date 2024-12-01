@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2024-11-01"
+last_updated: "2024-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01 iki 2025-04-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
 
@@ -258,13 +258,17 @@ Straipsnio pakeitimai:
 
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo tikslas ir paskirtis
 
-Šis įstatymas nustato azartinių lošimų ir žaidimų žaidimo automatais organizavimo sąlygas ir tvarką Lietuvos Respublikoje.
+1. Šio įstatymo tikslas – mažinti azartinių lošimų prieinamumą, patrauklumą ir jų galimą (daromą) žalą asmens sveikatai.
+
+2. Šio įstatymo paskirtis – nustatyti azartinių lošimų ir žaidimų žaidimo automatais organizavimo sąlygas ir tvarką Lietuvos Respublikoje.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
+
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -1112,73 +1116,17 @@ ANTRASIS1 SKIRSNIS
 
 NUOTOLINIŲ LOŠIMŲ ORGANIZAVIMO REIKALAVIMAI
 
-21 straipsnis. Leidimų atidaryti automatų ar bingo salonus, lošimo namus (kazino) ir organizuoti nuotolinius lošimus išdavimas
+21 straipsnis. Valstybės politikos lošimų kontrolės srityje principai
 
-1. Leidimus atidaryti automatų ar bingo salonus, lošimo namus (kazino) ir organizuoti nuotolinius lošimus išduoda Priežiūros tarnyba.
+Valstybės politika lošimų kontrolės srityje grindžiama šiais principais:
 
-2. Leidimai atidaryti automatų ar bingo salonus, lošimo namus (kazino) ir organizuoti nuotolinius lošimus išduodami bendrovėms, turinčioms licencijas organizuoti atitinkamus lošimus, arba kartu su šiomis licencijomis.
+1) lošimų prieinamumo mažinimo, tai yra, siekiant valdyti neigiamą lošimų poveikį lošėjo sveikatai ir gyvenamajai aplinkai, viešajai tvarkai, švietimui, kultūrai, teisinio reguliavimo priemonėmis reguliuojamas lošimų pasiūlos pasiekiamumas;
 
-3. Bendrovė, pageidaujanti gauti leidimą atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus, pateikia Priežiūros tarnybai prašymą, kuriame nurodoma bendrovės pavadinimas, kodas, buveinės adresas, telefono ir fakso numeriai, lošimų organizavimo vietos adresas, telefono numeris, numatomų organizuoti lošimų rūšys, licencijos organizuoti lošimus išdavimo data, numeris (jeigu leidimas išduodamas licenciją turinčiai bendrovei), bendrovės vadovo arba jo įgalioto asmens, užpildžiusio ir pasirašiusio prašymą, pareigos, vardas ir pavardė, prašymo padavimo data. Jeigu organizuojant totalizatorių ar lažybas naudojami lošimo įrenginiai arba nuotolinio lošimo įrenginiai, papildomai pateikiami dokumentai, patvirtinantys šių įrenginių atitiktį Priežiūros tarnybos nustatytiems reikalavimams.
+2) lošimų patrauklumo mažinimo, tai yra, siekiant visuomenę informuoti apie azartinių lošimų poveikį lošėjo sveikatai ir gyvenamajai aplinkai, viešajai tvarkai, švietimui, kultūrai, naudojamos švietimo ir visuomenės informavimo priemonės, kurias įgyvendinant galėtų dalyvauti visi suinteresuoti asmenys, įskaitant lošimų organizatorius.
 
-4. Kartu su prašymu išduoti leidimą atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus pateikiami šie dokumentai ir duomenys:
+Papildyta straipsniu:
 
-1) lošimo reglamentai;
-
-2) lošimo įrenginių aprašymas (tipas, modifikacija, gamintojas, pagaminimo metai ir mėnuo) ir dokumentai, patvirtinantys prašančios išduoti leidimą bendrovės nuosavybės teisę į juos, arba įrenginių įsigijimo išperkamosios nuomos (lizingo) būdu sutartys;
-
-3) lošimo įrenginių skaičius;
-
-4) sertifikatai, nurodyti šio įstatymo 16 straipsnio 5 dalyje;
-
-5) Priežiūros tarnybos nustatyta informacija apie lošimų organizavimo vietą;
-
-6) dokumentai, patvirtinantys nuosavybės teisę į patalpas, kuriose numatoma organizuoti lošimus, arba šių patalpų nuomos ar išperkamosios nuomos sutarties nuorašas;
-
-7) taisyklės, nustatančios įėjimo į automatų, bingo salonus arba lošimo namus (kazino) užmokestį, jo mokėjimo tvarką (jeigu užmokestis bus imamas);
-
-8) lošimo automatų, bingo salonų arba lošimo namų (kazino) administracijos vadovo, jo pavaduotojų, vyriausiųjų finansininkų ir lošėjus aptarnaujančio personalo sąrašas, kuriame nurodomi vardai, pavardės, asmens kodai;
-
-9) jeigu organizuojant totalizatorių ar lažybas naudojami lošimo įrenginiai arba nuotolinio lošimo įrenginiai, papildomai pateikiami dokumentai, patvirtinantys šių įrenginių atitiktį Priežiūros tarnybos nustatytiems reikalavimams.
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
-
-41. Kartu su prašymu išduoti leidimą organizuoti nuotolinius lošimus, be šio straipsnio 4 dalyje nurodytų dokumentų ir duomenų, pateikiami:
-
-1) telefono numeriai, interneto adresai, kita kontaktinė informacija, kuri bus tiesiogiai susijusi su teikiamomis nuotolinio lošimo paslaugomis;
-
-2) kredito įstaigose atidarytų sąskaitų, kurios bus naudojamos statymams priimti ir lošimų organizatoriaus ir lošėjo tarpusavio atsiskaitymui, duomenys;
-
-3) serverių, naudojamų nuotoliniams lošimams organizuoti, adresai;
-
-4) nuotolinio lošimo įrenginių ir programinės įrangos, naudojamų nuotoliniams lošimams organizuoti, aprašymas ir jų atitiktį šiame įstatyme ir Priežiūros tarnybos nustatytiems reikalavimams patvirtinantys duomenys.
-
-5. Priežiūros tarnyba turi teisę pareikalauti papildomų dokumentų ir informacijos, kurių reikia priimti sprendimui dėl leidimo išdavimo, taip pat pareikalauti paaiškinti arba papildyti pateiktus duomenis.
-
-6. Priežiūros tarnybos valstybės tarnautojai ir darbuotojai patikrina, ar patalpos, kuriose numatoma atidaryti automatų ar bingo saloną arba lošimo namus (kazino), atitinka joms keliamus reikalavimus. Prašymas išduoti leidimą atidaryti automatų ar bingo saloną arba lošimo namus (kazino) turi būti išnagrinėtas per 30 kalendorinių dienų nuo jo gavimo dienos. Jeigu pareikalaujama papildomų dokumentų ir informacijos, 30 dienų laikotarpis skaičiuojamas iš naujo nuo papildomos informacijos arba paaiškinimų bei pataisų pateikimo dienos. Bendras leidimo išdavimo laikotarpis neturi viršyti 60 kalendorinių dienų, skaičiuojant nuo tos dienos, kurią buvo pirmą kartą pateikti visi reikiami dokumentai ir duomenys.
-
-7. Leidime atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus nurodomas lošimus organizuojančios bendrovės pavadinimas, kodas, buveinės adresas, telefono numeris, lošimų organizavimo vietos adresas, organizuojamų lošimų rūšys, lošimo įrenginių skaičius, leidimo išdavimo data.
-
-8. Priežiūros tarnyba, išdavusi licenciją organizuoti lošimus ir leidimą atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus, per 5 darbo dienas nuo licencijos (leidimo) išdavimo praneša Finansinių nusikaltimų tyrimo tarnybai prie Vidaus reikalų ministerijos, teritorinėms valstybinėms mokesčių inspekcijoms ir teritorinėms policijos įstaigoms, kurių aptarnaujamoje teritorijoje bus organizuojami lošimai, bendrovės, kuriai išduota licencija (leidimas), pavadinimą, kodą, buveinės adresą, telefono numerį, licencijos rūšį, numerį, leidimo numerį, lošimų organizavimo vietos adresą, organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
-
-9. Leidimas atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus išduodamas sumokėjus nustatyto dydžio valstybės rinkliavą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
-
-Straipsnio pakeitimai:
-
-Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
-
-Nr. IX-1193, 2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
-
-Nr. XI-1578, 2011-09-15, Žin., 2011, Nr. 119-5611 (2011-10-01)
-
-Straipsnio pakeitimai:
-
-Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 
 22 straipsnis. Atsisakymas išduoti leidimą atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus
 
