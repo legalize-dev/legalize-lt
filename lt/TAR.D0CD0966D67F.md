@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2024-10-10"
+last_updated: "2024-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-10-10 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -2259,7 +2259,11 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 
 3) rengia ir savivaldybės tarybai teikia sprendimams priimti reikalingas išvadas dėl savivaldybės prisiimamų įsipareigojimų pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis, garantijų suteikimo kreditoriams už savivaldybės valdomų įmonių prisiimamus įsipareigojimus pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis;
 
-4) rengia ir savivaldybės tarybai teikia išvadas dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo ir pritarimo galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų;
+4) rengia ir savivaldybės tarybai teikia išvadą dėl vadovaujantis Lietuvos Respublikos investicijų įstatymu ir (ar) Koncesijų įstatymu parengto viešojo ir privataus sektorių partnerystės projekto įgyvendinimo tikslingumo, šioje išvadoje įvertina savivaldybės galimybes prisiimti ilgalaikius finansinius įsipareigojimus pagal viešojo ir privataus sektorių partnerystės projektą, teisines galimybes privačiam subjektui perduoti viešojo subjekto funkcijoms priskirtos veiklos ir (ar) ekonominės veiklos vykdymą ir šioms veikloms vykdyti reikalingą savivaldybės ir (arba) savivaldybės kontroliuojamų juridinių asmenų turtą, viešojo ir privataus sektorių partnerystės projektų konsolidavimo (jeigu toks konsolidavimas numatomas) sąlygas, taip pat teikia išvadą dėl pritarimo galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projekto įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3043, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18467
 
 5) rengia ir savivaldybės tarybai teikia sprendimams priimti reikalingas išvadas dėl skolininkų ir skolininkų, už kurių įsipareigojimų įvykdymą garantuoja valstybė, ūkinės ir finansinės būklės, taip pat dėl iš valstybės vardu pasiskolintų lėšų, teikiamų paskolų ir valstybės garantijų teikimo, paskolų naudojimo pagal tikslinę paskirtį ir paskolų grąžinimo;
 
