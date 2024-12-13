@@ -4,7 +4,7 @@ identifier: "TAR.5B99A78DA6C7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-04"
-last_updated: "2024-11-01"
+last_updated: "2024-12-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5B99A78DA6C7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos maisto įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-12
+Suvestinė redakcija nuo 2024-12-13
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-893, i. k. 1001010ISTAIII-1608
 
@@ -262,7 +262,11 @@ Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
 
 1. Draudžiama teikti į rinką maistą, kai jame arba jo pakuotėje yra maistui nepriskiriamų daiktų (išskyrus atvejus, kai šie daiktai reikalingi maistui tvarkyti ar vartoti), jei dėl šių daiktų galėtų kilti pavojus vartotojų, ypač vaikų, sveikatai ar gyvybei.
 
-2. Draudžiama teikti į rinką gaminius, savo forma, kvapu, spalva, išvaizda, ženklinimu, pakuote, dydžiu ar kitaip panašius į maistą taip, kad vartotojai, ypač vaikai, galėtų būti klaidinami ir vartojant šiuos gaminius kaip maistą galėtų kilti pavojus sveikatai ar gyvybei.
+2. Neteko galios nuo 2024-12-13
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3112, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20360
 
 3. Maisto klastojimas draudžiamas, taip pat draudžiama teikti į rinką suklastotą maistą.
 
@@ -725,6 +729,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 
 Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 1, 2, 4, 9, 12-2 straipsnių ir ketvirtojo-1 skirsnio pavadinimo pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3112, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20360
+
+Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 6 straipsnio pakeitimo įstatymas
 
 61 straipsnis. Kai kurių maisto produktų pardavimo ribojimas
 
