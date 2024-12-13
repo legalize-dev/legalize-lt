@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2024-03-01"
+last_updated: "2024-12-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,17 +18,9 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-03-01 iki 2024-12-12
+Suvestinė redakcija nuo 2024-12-13 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
-
-TAR pastaba. Biudžeto sandaros įstatymo nauja redakcija( nuo 2024-03-01) taikoma rengiant Lietuvos Respublikos 2025–2027 ir vėlesnių metų biudžeto patvirtinimo įstatymų projektus, juos tvirtinant, vykdant, vertinant ir kontroliuojant jų vykdymą.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-2325, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25312
-
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 pakeitimo įstatymas
 
 Nauja redakcija nuo 2024-03-01:
 
@@ -46,7 +38,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis ir tikslas
 
-1. Įstatymo paskirtis – nustatyti valstybės biudžeto ir savivaldybės biudžeto sudėtį, šių biudžetų pajamų sudarymo, asignavimų naudojimo ir vidutinės trukmės konsoliduotojo biudžeto rodiklių sudarymo ir valdymo teisinius pagrindus, taip pat biudžetų rengimo, tvirtinimo, vykdymo, vertinimo ir kontrolės pagrindines nuostatas, asignavimų valdytojų vadovų pareigas, teises ir atsakomybę.
+1. Įstatymo paskirtis – nustatyti valstybės biudžeto ir savivaldybės biudžeto sudėtį, šių biudžetų pajamų sudarymo, asignavimų naudojimo ir vidutinės trukmės konsoliduotojo biudžeto rodiklių sudarymo ir valdymo teisinius pagrindus, taip pat biudžetų rengimo, tvirtinimo, vykdymo, vertinimo ir kontrolės pagrindines nuostatas, asignavimų valdytojų vadovų ir ministrų valdymo sričių įstaigų vadovų pareigas, teises ir atsakomybę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-29, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22080
 
 2. Įstatymo tikslas – siekiant ilgalaikės, visapusiškos ekonominės ir socialinės Lietuvos Respublikos piliečių gerovės, tvaraus ilgalaikio ekonomikos augimo, užimtumo ir nekeliant grėsmės valdžios sektoriaus finansų tvarumui ir kainų stabilumui užtikrinti, kad sudarant ir vykdant biudžetus valstybės piniginiai ištekliai būtų naudojami efektyviai.
 
@@ -102,13 +98,13 @@ BENDROSIOS NUOSTATOS
 
 2. Savivaldybių biudžetų asignavimų valdytojai yra savivaldybių administracijos ir (ar) jų struktūriniai padaliniai bei savivaldybių biudžetinės įstaigos, nurodyti savivaldybės tarybos patvirtintame savivaldybės biudžete.
 
-4 straipsnis. Asignavimų valdytojų vadovų ir ministrų valdymo sričių įstaigų vadovų pareigos ir atsakomybė
+4 straipsnis. Asignavimų valdytojų vadovų ar jų įgaliotų asmenų ir ministrų valdymo sričių įstaigų vadovų pareigos ir atsakomybė
 
-1. Valstybės biudžeto asignavimų valdytojų vadovai  privalo:
+1. Valstybės biudžeto asignavimų valdytojų vadovai ar ministerijose jų įgalioti ministerijų kancleriai, teismuose jų įgalioti teismų kancleriai privalo:
 
 1) organizuoti programų rengimą ir vykdymą;
 
-2) paskirstyti Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme, kuriuo tvirtinami Lietuvos Respublikos tam tikrų metų valstybės biudžeto, savivaldybių biudžetų rodikliai ir vidutinės trukmės konsoliduotojo biudžeto rodikliai (toliau – tam tikrų metų biudžeto patvirtinimo įstatymas), vadovaujamai įstaigai patvirtintus asignavimus savo įstaigos programoms vykdyti ir biudžetinėms įstaigoms, kurių savininko teises ir pareigas įgyvendina atitinkamas valstybės biudžeto asignavimų valdytojas ir (arba) kurios yra atskaitingos atitinkamam valstybės biudžeto asignavimų valdytojui, ir (ar) kitiems subjektams, kuriems galimybė gauti biudžeto lėšų numatyta jų veiklos sritį reglamentuojančiuose įstatymuose, vadovaujantis Strateginio valdymo įstatymu priimtuose Vyriausybės nutarimuose, vadovaujantis Viešojo administravimo įstatymu priimtuose Vyriausybės nutarimuose, kuriais viešosioms įstaigoms suteikiami viešojo administravimo įgaliojimai, arba vadovaujantis tiesiogiai taikomais Europos Sąjungos teisės aktais ir tarptautinėmis sutartimis priimtuose Vyriausybės nutarimuose, kuriais nustatoma Europos Sąjungos ar kitos tarptautinės finansinės paramos, teikiamos Lietuvos Respublikai, administravimo tvarka (toliau – kiti subjektai), programoms vykdyti;
+2) paskirstyti Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme, kuriuo tvirtinami Lietuvos Respublikos tam tikrų metų valstybės biudžeto, savivaldybių biudžetų rodikliai ir vidutinės trukmės konsoliduotojo biudžeto rodikliai, (toliau – tam tikrų metų biudžeto patvirtinimo įstatymas) vadovaujamai įstaigai patvirtintus asignavimus savo įstaigos programoms vykdyti ir biudžetinėms įstaigoms, kurių savininko teises ir pareigas įgyvendina atitinkamas valstybės biudžeto asignavimų valdytojas ir (arba) kurios yra atskaitingos atitinkamam valstybės biudžeto asignavimų valdytojui, ir (ar) kitiems subjektams, kuriems galimybė gauti biudžeto lėšų numatyta jų veiklos sritį reglamentuojančiuose įstatymuose, vadovaujantis Strateginio valdymo įstatymu priimtuose Vyriausybės nutarimuose, vadovaujantis Viešojo administravimo įstatymu priimtuose Vyriausybės nutarimuose, kuriais viešosioms įstaigoms suteikiami viešojo administravimo įgaliojimai, arba vadovaujantis tiesiogiai taikomais Europos Sąjungos teisės aktais ir tarptautinėmis sutartimis priimtuose Vyriausybės nutarimuose, kuriais nustatoma Europos Sąjungos ar kitos tarptautinės finansinės paramos, teikiamos Lietuvos Respublikai, administravimo tvarka, (toliau – kiti subjektai) programoms vykdyti;
 
 3) Vyriausybės nustatyta tvarka ir terminais sudaryti ir tvirtinti savo įstaigos programų sąmatas, tvirtinti biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina atitinkamas valstybės biudžeto asignavimų valdytojas ir (arba) kurios yra atskaitingos atitinkamam valstybės biudžeto asignavimų valdytojui, ir (ar) kitų subjektų, kuriems pagal šio straipsnio 1 dalies 2 punktą jie yra paskirstę tam tikrų metų biudžeto patvirtinimo įstatyme vadovaujamoms įstaigoms patvirtintus asignavimus, sudarytas programų sąmatas. Programų sąmatos tvirtinamos pagal programas;
 
@@ -132,7 +128,7 @@ BENDROSIOS NUOSTATOS
 
 6) programoms vykdyti skirtas lėšas naudoti pagal jų paskirtį teisėtai, ekonomiškai, efektyviai ir rezultatyviai.
 
-3. Savivaldybių biudžetų asignavimų valdytojų vadovai privalo:
+3. Savivaldybių biudžetų asignavimų valdytojų vadovai ar savivaldybių administracijose jų įgalioti asmenys privalo:
 
 1) organizuoti programų rengimą ir vykdymą;
 
@@ -148,11 +144,15 @@ BENDROSIOS NUOSTATOS
 
 4. Biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina valstybės biudžeto asignavimų valdytojai arba savivaldybės meras, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kurios yra atskaitingos valstybės biudžeto asignavimų valdytojams, vadovai, ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas ir neturinčių biudžetinių įstaigų, kurių savininko teises ir pareigas jos įgyvendina, vadovai, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministrų valdymo sričių įstaigos, vadovai, taip pat kitų subjektų, kuriems asignavimų valdytojai yra skyrę biudžeto lėšų, vadovai asignavimus privalo naudoti pagal jų paskirtį, teisėtai, ekonomiškai, efektyviai ir rezultatyviai.
 
-5. Asignavimų valdytojų vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina valstybės biudžeto asignavimų valdytojai arba savivaldybės meras, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kurios yra atskaitingos valstybės biudžeto asignavimų valdytojams, vadovams, ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas, vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministrų valdymo sričių įstaigos, vadovams, taip pat kitų subjektų, kuriems asignavimų valdytojai yra skyrę biudžeto lėšų, vadovams už šio įstatymo ir kitų biudžeto asignavimų paskirstymą ir (ar) panaudojimą reglamentuojančių teisės aktų pažeidimus skiriamos Lietuvos Respublikos administracinių nusižengimų kodekse nustatytos administracinės nuobaudos.
+5. Asignavimų valdytojų vadovams ar jų įgaliotiems asmenims, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina valstybės biudžeto asignavimų valdytojai arba savivaldybės meras, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kurios yra atskaitingos valstybės biudžeto asignavimų valdytojams, vadovams, ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas, vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministrų valdymo sričių įstaigos, vadovams, taip pat kitų subjektų, kuriems asignavimų valdytojai yra skyrę biudžeto lėšų, vadovams už šio įstatymo ir kitų biudžeto asignavimų paskirstymą ir (ar) panaudojimą reglamentuojančių teisės aktų pažeidimus skiriamos Lietuvos Respublikos administracinių nusižengimų kodekse nustatytos administracinės nuobaudos.
 
-5 straipsnis. Asignavimų valdytojų vadovų teisės
+Straipsnio pakeitimai:
 
-1. Valstybės biudžeto asignavimų valdytojų vadovai turi šias teises:
+Nr. XV-29, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22080
+
+5 straipsnis. Asignavimų valdytojų vadovų ar jų įgaliotų asmenų ir ministrų valdymo sričių įstaigų vadovų teisės
+
+1. Valstybės biudžeto asignavimų valdytojų vadovai ar ministerijose jų įgalioti ministerijų kancleriai, teismuose jų įgalioti teismų kancleriai turi šias teises:
 
 1) biudžetiniais metais keisti bendros asignavimų sumos ketvirtinį paskirstymą;
 
@@ -166,11 +166,15 @@ BENDROSIOS NUOSTATOS
 
 2) biudžetiniais metais keisti biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina atitinkama ministro valdymo srities įstaiga ir kurioms pagal šio įstatymo 4 straipsnio 2 dalies 2 punktą jie yra paskirstę tam tikrų metų biudžeto patvirtinimo įstatyme patvirtintus asignavimus, programų sąmatas pagal ekonominę ir funkcinę klasifikacijas. Asignavimai darbo užmokesčiui gali būti didinami tik iš sutaupytų asignavimų ir tik tais atvejais, kai toks padidinimas nelemia papildomo asignavimų poreikio kitais biudžetiniais metais.
 
-3. Savivaldybių biudžetų asignavimų valdytojų vadovai turi šias teises:
+3. Savivaldybių biudžetų asignavimų valdytojų vadovai ar savivaldybių administracijose jų įgalioti asmenys turi šias teises:
 
 1) biudžetiniais metais keisti bendros asignavimų sumos ketvirtinį paskirstymą;
 
 2) biudžetiniais metais keisti savo įstaigos, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina savivaldybės meras, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kitų subjektų, kuriems pagal šio įstatymo 4 straipsnio 3 dalies 2 punktą jie yra paskirstę patvirtintus tam tikrų metų savivaldybės biudžeto asignavimus, biudžeto programas ir programų sąmatas pagal priemones, ekonominę ir funkcinę klasifikacijas.
+
+Straipsnio pakeitimai:
+
+Nr. XV-29, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22080
 
 6 straipsnis. Biudžeto sudarymo ir vykdymo bendrosios nuostatos
 
@@ -226,7 +230,11 @@ Valstybės biudžeto asignavimai naudojami įstatymams įgyvendinti ir tarptauti
 
 1) įsipareigojimams, susijusiems su dalyvavimu tarptautinėse operacijose, vykdyti;
 
-2) vykdant arbitražų ar teismų sprendimus, kuriais iš Lietuvos valstybės priteistos mokėtinos sumos, taip pat kitoms išlaidoms ginant valstybės interesus padengti;
+2) vykdant arbitražų ar teismų sprendimus, kuriais iš Lietuvos valstybės priteistos mokėtinos sumos, taip pat Vyriausybės sprendimu – kitoms išlaidoms ginant valstybės interesus padengti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-29, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22080
 
 3) žymių Lietuvos visuomenės veikėjų laidotuvių išlaidoms padengti;
 
@@ -234,7 +242,7 @@ Valstybės biudžeto asignavimai naudojami įstatymams įgyvendinti ir tarptauti
 
 5) humanitarinei pagalbai teikti;
 
-6) perkeliamųjų asmenų perkėlimo į Lietuvos Respubliką išlaidoms apmokėti.
+6) perkeliamųjų asmenų perkėlimo į Lietuvos Respubliką išlaidoms apmokėti;
 
 3. Vyriausybės rezervo lėšų skyrimo ir naudojimo tvarką nustato Vyriausybė.
 
