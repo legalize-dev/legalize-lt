@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2024-11-01"
+last_updated: "2024-12-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-12
+Suvestinė redakcija nuo 2024-12-13
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
 
@@ -482,7 +482,7 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 
 10) kuria ir tvarko vartotojų teisių apsaugos duomenų bazę;
 
-11) kartu su kitomis valstybės institucijomis organizuoja ir atlieka keitimąsi informacija su Europos Komisija ir valstybėmis narėmis (RAPEX sistema) Europos Sąjungos teisės aktų nustatyta tvarka, taip pat savo interneto svetainėje skelbia apie Valstybinės vartotojų teisių apsaugos tarnybos uždraustus tiekti rinkai pavojingus Lietuvos Respublikoje pagamintus ar iš Europos Sąjungos valstybių narių ar kitų valstybių tiekiamus ne maisto produktus;
+11) keičiasi informacija apie pavojingus gaminius ir rinkos priežiūrą Reglamento (ES) 2023/988 nustatyta tvarka, taip pat savo interneto svetainėje skelbia apie pavojingus ne maisto produktus ir rinkos ribojimo priemonių taikymą;
 
 12) įgyvendina Reglamentą (ES) 2017/2394 ir Reglamentą (ES) Nr. 524/2013;
 
@@ -504,7 +504,7 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 
 5) atlikti prekių ir paslaugų kontrolinius pirkimus. Juos atliekant, sprendimo atlikti neplaninį patikrinimą kopija verslininkui turi būti pateikta iš karto po atlikto kontrolinio pirkimo. Atliekant kontrolinius pirkimus gali būti daromas vaizdo ir (ar) garso įrašas. Jeigu atliekant prekių kontrolinį pirkimą pažeidimo požymių nenustatyta, kontrolinio pirkimo metu sumokėti pinigai grąžinami Valstybinei vartotojų teisių apsaugos tarnybai, o prekės – verslininkui. Kontrolinių pirkimų atlikimo tvarką nustato teisingumo ministras;
 
-6) duoti šio įstatymo 491 straipsnyje nurodytus privalomus nurodymus pašalinti ar panaikinti galimybę pasiekti informaciją Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka;
+6) duoti šio įstatymo 491 straipsnyje ir Produktų saugos įstatyme nurodytus privalomus nurodymus pašalinti informaciją ar panaikinti galimybę ją pasiekti Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka;
 
 7) taikyti laikinąsias priemones pagal šio įstatymo 441 straipsnį;
 
@@ -512,11 +512,13 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 
 9) kitas įstatymų ir kitų teisės aktų nustatytas teises.
 
-3. Valstybinė vartotojų teisių apsaugos tarnyba, atlikdama šio straipsnio 1 dalies  5–8 punktuose nustatytas funkcijas, turi teisę gauti iš registrų, valstybės informacinių sistemų, fizinių ar juridinių asmenų, kitų organizacijų ar jų padalinių šioms funkcijoms atlikti reikalingą informaciją, dokumentus ir duomenis, įskaitant asmens duomenis.
+3. Valstybinė vartotojų teisių apsaugos tarnyba, atlikdama šio straipsnio 1 dalies 5–8 punktuose nustatytas funkcijas, turi teisę gauti iš registrų, valstybės informacinių sistemų, fizinių ar juridinių asmenų, kitų organizacijų ar jų padalinių šioms funkcijoms atlikti reikalingą informaciją, dokumentus ir duomenis, įskaitant asmens duomenis.
 
 Straipsnio pakeitimai:
 
 Nr. XIV-2145, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14041
+
+Nr. XIV-3113, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20361
 
 13 straipsnis. Vartotojų asociacijos
 
@@ -1694,11 +1696,13 @@ Nr. XII-2212, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00082
 
 491 straipsnis. Privalomi nurodymai interneto prieigos paslaugų teikėjams
 
-Valstybinė vartotojų teisių apsaugos tarnyba turi teisę Elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoti privalomus nurodymus pašalinti informaciją, kuria šiurkščiai ar sistemingai pažeidžiami vartotojų apsaugos reikalavimai, nustatyti šiame įstatyme, Civiliniame kodekse, Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme ar Produktų saugos įstatyme, ar panaikinti galimybę pasiekti šią informaciją.
+Valstybinė vartotojų teisių apsaugos tarnyba turi teisę Elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoti privalomus nurodymus pašalinti informaciją, kuria šiurkščiai ar sistemingai pažeidžiami vartotojų apsaugos reikalavimai, nustatyti šiame įstatyme, Civiliniame kodekse ar Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme, ar panaikinti galimybę pasiekti šią informaciją. Šios tarnybos teisę duoti privalomus nurodymus pašalinti informaciją, kuria teikiamas pavojingo produkto pasiūlymas, panaikinti galimybę ją pasiekti arba pateikti aiškų įspėjimą vartotojams reglamentuoja Produktų saugos įstatymas.
 
 Straipsnio pakeitimai:
 
 Nr. XIV-2145, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14041
+
+Nr. XIV-3113, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20361
 
 DEŠIMTASIS SKIRSNIS
 
@@ -1811,6 +1815,12 @@ Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 Papildyta punktu:
 
 Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
+
+13. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/988 dėl bendros gaminių saugos, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1025/2012 bei Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 ir panaikinamos Europos Parlamento ir Tarybos direktyva 2001/95/EB bei Tarybos direktyva 87/357/EEB.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3113, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20361
 
 Priedo pakeitimai:
 
