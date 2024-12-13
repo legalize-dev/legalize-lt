@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2024-07-26"
+last_updated: "2024-12-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-26 iki 2024-12-12
+Suvestinė redakcija nuo 2024-12-13 iki 2025-01-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
