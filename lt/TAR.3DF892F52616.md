@@ -4,7 +4,7 @@ identifier: "TAR.3DF892F52616"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2024-07-01"
+last_updated: "2024-12-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vertybinių popierių įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-20
+Suvestinė redakcija nuo 2024-12-21
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-626, i. k. 1071010ISTA00X-1023
 
@@ -467,13 +467,21 @@ V SKYRIUS
 
 1. Prospekto rengimą, tvirtinimą ir skelbimą, periodinės ir einamosios informacijos skelbimą ir saugojimą, oficialių siūlymų įgyvendinimą reguliuoja ir prižiūri priežiūros institucija.
 
-2. Priežiūros institucija šio straipsnio 1 dalyje nurodytas funkcijas atlieka vadovaudamasi Lietuvos Respublikos Lietuvos banko įstatymu, šiuo įstatymu, Finansinių priemonių rinkų įstatymu, Reglamentu (ES) 2017/1129 ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
+2. Priežiūros institucija šio straipsnio 1 dalyje nurodytas funkcijas atlieka vadovaudamasi Lietuvos Respublikos Lietuvos banko įstatymu, šiuo įstatymu, Finansinių priemonių rinkų įstatymu, Reglamentu (ES) 2017/1129, Reglamentu (ES) 2023/2631 ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
 37 straipsnis. Priežiūros institucijos funkcijos, teisės ir pareigos
 
 1. Priežiūros institucija:
 
-1) tvirtina vertybinių popierių prospektus, prospektų priedus ir atlieka kitas kompetentingai institucijai priskirtas funkcijas, nustatytas Reglamente (ES) 2017/1129;
+1) tvirtina vertybinių popierių prospektus, prospektų priedus ir atlieka kitas kompetentingai institucijai priskirtas funkcijas, nustatytas Reglamente (ES) 2017/1129 ir Reglamente (ES) 2023/2631;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
 2) tvirtina oficialių siūlymų cirkuliarus;
 
@@ -489,7 +497,11 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 
 6) atlieka kitas šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas funkcijas.
 
-2. Priežiūros institucija, be kitų Reglamente (ES) 2017/1129, Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta jos kompetencijai, nustatytų pareigų ir teisių, atlikdama jai pavestas funkcijas, turi teisę:
+2. Priežiūros institucija, be kitų Reglamente (ES) 2017/1129, Reglamente (ES) 2023/2631, Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta jos kompetencijai, nustatytų pareigų ir teisių, atlikdama jai pavestas funkcijas, turi teisę:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
 1) reikalauti, kad asmenys paskelbtų šio įstatymo reikalaujamą skelbti informaciją, pateiktų kitus su šia informacija susijusius dokumentus. Jeigu asmenys vengia paskelbti informaciją, priežiūros institucija turi teisę pati ją paskelbti;
 
@@ -513,7 +525,17 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 
 6) atkurti prieš pažeidžiant teisės aktus buvusią padėtį;
 
-7) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai arba veiklos trūkumai.
+7) uždrausti išleisti Europos žaliąsias obligacijas ne ilgesniam kaip vienų metų laikotarpiui;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
+
+8) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai arba veiklos trūkumai.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
 4. Asmenys privalo vykdyti šio straipsnio 3 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
 
@@ -543,7 +565,11 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 2. Poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų:
 
-1) organizuojamas ar įgyvendinamas vertybinių popierių viešas siūlymas arba prekyba reguliuojamoje rinkoje, jeigu vertybinių popierių viešas siūlymas arba prekyba reguliuojamoje rinkoje yra uždrausti ar sustabdyti arba nesilaikoma Reglamente (ES) 2017/1129, šiame įstatyme, Akcinių bendrovių įstatyme ar šių įstatymų įgyvendinamuosiuose teisės aktuose viešam vertybinių popierių siūlymui ir įtraukimui į prekybą reguliuojamoje rinkoje nustatytų sąlygų ir reikalavimų;
+1) organizuojamas ar įgyvendinamas vertybinių popierių viešas siūlymas arba prekyba reguliuojamoje rinkoje, jeigu vertybinių popierių viešas siūlymas arba prekyba reguliuojamoje rinkoje yra uždrausti ar sustabdyti arba nesilaikoma Reglamente (ES) 2017/1129, Reglamente (ES) 2023/2631, šiame įstatyme, Akcinių bendrovių įstatyme ar šių įstatymų įgyvendinamuosiuose teisės aktuose viešam vertybinių popierių siūlymui ir įtraukimui į prekybą reguliuojamoje rinkoje nustatytų sąlygų ir reikalavimų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
 2) nesilaikoma reikalavimo pateikti privalomą oficialų siūlymą supirkti likusias balsavimo teisę suteikiančias bendrovės akcijas;
 
@@ -627,6 +653,12 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 
+101. Europos žalioji obligacija – Reglamento (ES) 2023/2631 II antraštinėje dalyje nustatytus reikalavimus atitinkanti obligacija.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
+
 11. Įmonės finansinių metų pirmojo pusmečio vadovybės ataskaita (toliau – pusmečio vadovybės ataskaita) – įmonės pusmečio ataskaita, kurioje pateikiama informacija apie svarbiausius per pirmuosius 6 finansinių metų mėnesius įvykusius įvykius ir jų poveikį įmonės finansinių metų pirmojo pusmečio finansinių ataskaitų rinkinio finansinėms ataskaitoms kartu su pagrindinių rizikų ir neapibrėžtumų per ateinančius 6 finansinių metų mėnesius aprašymu.
 
 Straipsnio dalies pakeitimai:
@@ -689,7 +721,11 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 
 30. Prospektas – Reglamente (ES) 2017/1129 nustatyto turinio dokumentas.
 
-31. Reglamentuojama informacija – informacija, kurią vertybinių popierių emitentas, siūlytojas ar asmuo, kuris kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo, privalo teikti pagal šio įstatymo 11–15, 17, 18, 19 ir 22 straipsnius, ir viešai neatskleista informacija, apibrėžta Reglamente (ES) Nr. 596/2014.
+31. Reglamentuojama informacija – informacija, kurią vertybinių popierių emitentas, siūlytojas ar asmuo, kuris kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo, privalo teikti pagal šio įstatymo 11–15, 17, 18, 19 ir 22 straipsnius ir Reglamento (ES) 2023/2631 10 straipsnio 1 dalies a punktą, ir viešai neatskleista informacija, apibrėžta Reglamente (ES) Nr. 596/2014.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
 32. Savanoriškas oficialus siūlymas – asmens nuožiūra ir jo nustatytomis sąlygomis vertybinių popierių savininkams teikiamas viešas siūlymas supirkti visus balsavimo teisę suteikiančius bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, išleistus vertybinius popierius ar jų dalį ir (arba) vertybinius popierius, patvirtinančius teisę įsigyti balsavimo teisę suteikiančius vertybinius popierius.
 
@@ -723,11 +759,13 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 
 44. Jeigu šio įstatymo antrajame skyriuje vartojamos sąvokos Reglamente (ES) 2017/1129 apibrėžtos kitaip negu šiame straipsnyje, šios sąvokos turi būti suprantamos taip, kaip jos apibrėžtos Reglamente 2017/1129.
 
-45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Reglamente (ES) 2017/1129, Finansinių priemonių rinkų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos finansų įstaigų įstatyme.
+45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2017/1129, Reglamente (ES) 2023/2631, Finansinių priemonių rinkų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos finansų įstaigų įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
 47 straipsnis. Priežiūros institucijos funkcijos, teisės ir pareigos
 
@@ -1083,13 +1121,21 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 
 2) juridinio asmens vadovams ir kitiems fiziniams asmenims, kai netaikoma šio straipsnio 2 dalis, – iki 2 milijonų eurų.
 
-2. Už Reglamento (ES) Nr. 596/2014 17 straipsnio ir Reglamento (ES) 2017/1129 38 straipsnio 1 dalies a punkte išvardytus pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, koks nurodytas atitinkamai Reglamento (ES) Nr. 596/2014 30 straipsnyje ir Reglamento (ES) 2017/1129 38 straipsnyje.
+2. Už Reglamento (ES) Nr. 596/2014 17 straipsnyje, Reglamento (ES) 2017/1129 38 straipsnio 1 dalies a punkte ir Reglamento (ES) 2023/2631 49 straipsnio 1 dalies a punkte išvardytus pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, koks nurodytas atitinkamai Reglamento (ES) Nr. 596/2014 30 straipsnyje, Reglamento (ES) 2017/1129 38 straipsnyje ir Reglamento (ES) 2023/2631 49 straipsnyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
 3. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos piniginės baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose.
 
 4. Jeigu dėl šio įstatymo 40 straipsnio 2 dalyje išvardytų pažeidimų, išskyrus šio įstatymo 40 straipsnio 2 dalies 1 punkte nurodytus pažeidimus, buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio.
 
-5. Jeigu dėl šio įstatymo 40 straipsnio 2 dalies 1 punkte išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo Reglamento (ES) 2017/1129 38 straipsnyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio.
+5. Jeigu dėl šio įstatymo 40 straipsnio 2 dalies 1 punkte išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo Reglamento (ES) 2017/1129 38 straipsnyje ar Reglamento (ES) 2023/2631 49 straipsnyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
 6. Jeigu dėl Reglamento (ES) Nr. 596/2014 17 straipsnio pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo Reglamento (ES) Nr. 596/2014 30 straipsnyje nurodytus baudų dydžius, skiriama bauda iki trigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
 
@@ -1134,6 +1180,12 @@ Nr. XIV-1456, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22567
 Papildyta straipsnio dalimi:
 
 Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
+
+10. 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/2631 dėl Europos žaliųjų obligacijų ir neprivalomo informacijos apie obligacijas, kurios platinamos kaip aplinkos atžvilgiu tvarios, atskleidimo bei neprivalomo informacijos apie su tvarumu susietas obligacijas atskleidimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
 Priedo pakeitimai:
 
@@ -1318,6 +1370,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 
 Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 12, 13, 14, 22, 27, 37 straipsnių, priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
+
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 36, 37, 40, 41 straipsnių ir priedo pakeitimo įstatymas
 
 42 straipsnis. Privalomas akcijų pardavimas ir pirkimas
 
