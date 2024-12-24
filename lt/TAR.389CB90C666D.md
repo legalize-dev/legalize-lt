@@ -4,7 +4,7 @@ identifier: "TAR.389CB90C666D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-15"
-last_updated: "2024-07-01"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "1. Įstatymo 51 straipsnis įsigalioja 2002 m. vas
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-23
+Suvestinė redakcija nuo 2024-12-24 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
 
@@ -121,7 +121,11 @@ Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
 
 25 straipsnis. Tarpininko veikla
 
-1. Prekiautojai ar pirkėjai turi teisę sudaryti sutartis dėl B, C, D kategorijų ginklų, ginklų priedėlių, šaudmenų, jų dalių įsigijimo, importo, eksporto, vežimo per tarpininkus. Tarpininko veikla dėl A kategorijos ginklų, ginklų priedėlių, šaudmenų, jų dalių yra draudžiama.
+1. Prekiautojai ar pirkėjai turi teisę sudaryti sutartis dėl B, C, D kategorijų ginklų, ginklų priedėlių, šaudmenų, jų dalių įsigijimo, importo, eksporto, vežimo per tarpininkus. Tarpininko veikla dėl A kategorijos ginklų, ginklų priedėlių, šaudmenų, jų dalių yra draudžiama, išskyrus atvejus, kai Lietuvos Respublikos viešojo administravimo subjektai, nurodyti tarptautinio donoro sprendime ar tarptautinių donorų pasirašytame susitarime ir (ar) Lietuvos viešojo administravimo subjekto su tarptautiniu donoru sudarytoje dvišalėje ar daugiašalėje sutartyje, (toliau – įgalioti subjektai), įgyvendindami Lietuvos valstybės ir (ar) tarptautinių donorų lėšomis finansuojamus projektus dėl finansinės paramos teikimo užsienio valstybei, kuriai nėra taikomos tarptautinės sankcijos, įgyvendinamos pagal Tarptautinių sankcijų įstatymą, ir (ar) kuri atitinka Sutartyje dėl prekybos ginklais ir Bendrojoje pozicijoje 2008/944/BUSP nurodytus kriterijus, ir (ar) jos institucijoms, veikia kaip tarpininkai. Įgalioti subjektai, veikdami kaip tarpininkai, sudaro sutartis dėl užsienio valstybėms ir (ar) jų institucijoms skirtų A kategorijos ginklų, ginklų priedėlių, šaudmenų, jų dalių įsigijimo, importo, eksporto, vežimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-57, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23066
 
 2. Tarpininkais gali būti Europos juridiniai asmenys ir Europos fiziniai asmenys, atitinkantys šiame straipsnyje nustatytus reikalavimus. Tarpininkai su užsakovais privalo sudaryti rašytines sutartis dėl prekiautojo ar pirkėjo interesų atstovavimo. Šias sutartis gali sudaryti tik Vyriausybės nustatyta tvarka įregistruoti tarpininkai. Tarpininkus įregistruoja, apie galimą įregistravimo panaikinimą įspėja ir įregistravimą panaikina policijos įstaiga. Policijos įstaiga, įregistravusi tarpininką, išduoda jam tarpininko įregistravimo pažymėjimą, kuris galioja neterminuotai.
 
@@ -222,6 +226,12 @@ Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687
 4) jo išdavimas ar turėjimas prieštarauja Sutartyje dėl prekybos ginklais ir Bendrojoje pozicijoje 2008/944/BUSP nurodytiems kriterijams;
 
 5) valstybei, į kurią (iš kurios) numatoma eksportuoti (importuoti) ginklus, ginklų priedėlius, šaudmenis, jų dalis, taikomos tarptautinės sankcijos, įgyvendinamos pagal Tarptautinių sankcijų įstatymą ir draudžiančios ginklų, ginklų priedėlių, šaudmenų, jų dalių importą, eksportą, gabenimą tranzitu ar vežimą.
+
+15. Įgalioti subjektai, veikdami kaip tarpininkai dėl A kategorijos ginklų, ginklų priedėlių, šaudmenų, jų dalių, vadovaujasi šiame straipsnyje ir Strateginių prekių kontrolės įstatymo nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-57, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23066
 
 Straipsnio pakeitimai:
 
@@ -1169,6 +1179,12 @@ Nr. XIV-883, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00174
 
 67. Šovinys – šaudmuo, susidedantis iš tūtos ar tūtelės su kapsule, sviedžiamojo užtaiso, sviedinio.
 
+671. Tarptautiniai donorai – Europos Sąjunga, Europos Sąjungos valstybės narės, Šiaurės Atlanto sutarties organizacijos valstybės narės, Europos ekonominės erdvės valstybės, Lietuvos Respublikos pasirinktos europinės ir transatlantinės integracijos kriterijus atitinkantys užsienio subjektai, kaip jie apibrėžiami Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo 4 straipsnio 1 dalyje, teikiantys finansinę paramą užsienio valstybėms ir (ar) jų institucijoms, arba jų grupė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-57, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23066
+
 68. Templinis ginklas – nešaunamasis ginklas, kurio sviediniui, naudojantis raumenų jėga ar mechaniniais įrenginiais, energiją suteikia tamprus elementas.
 
 69. Tiras – statinys, specialiai įrengtas saugiai šaudyti.
@@ -1187,11 +1203,15 @@ Nr. XIV-883, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00174
 
 76. Visiškai netinkamas naudoti ginklas – nešaunamasis ginklas, kuris gaunamas perdirbant ar paveikiant šaunamąjį ginklą arba pakeičiant šaunamojo ginklo savybes taip, kad visos jo pagrindinės dalys yra negrįžtamai sugadintos ar sugedusios ir jų neįmanoma atkurti, sutaisyti, išimti, pakeisti kitomis, kad jis vėl taptų tinkamas naudoti pagal paskirtį.
 
-77. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos strateginių prekių kontrolės įstatyme.
+77. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos strateginių prekių kontrolės įstatyme ir Lietuvos Respublikos viešojo administravimo įstatyme.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-57, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23066
 
 II SKYRIUS
 
@@ -1267,7 +1287,11 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
 5. Leidimas laikyti ginklus suteikia teisę įsigyti jame nurodytus ginklus ir jiems skirtus ginklų priedėlius, šaudmenis, jų dalis.
 
-6. Atsisakymas išduoti leidimą įsigyti ginklus, leidimą laikyti ginklus ar leidimą nešiotis ginklus turi būti motyvuotas. Pareiškėjas ar jo įgaliotas asmuo atsisakymą išduoti leidimą įsigyti ginklus, leidimą laikyti ar leidimą nešiotis A, B, C kategorijų ginklus turi teisę savo pasirinkimu apskųsti Lietuvos Respublikos viešojo administravimo įstatymo, Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo arba Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+6. Atsisakymas išduoti leidimą įsigyti ginklus, leidimą laikyti ginklus ar leidimą nešiotis ginklus turi būti motyvuotas. Pareiškėjas ar jo įgaliotas asmuo atsisakymą išduoti leidimą įsigyti ginklus, leidimą laikyti ar leidimą nešiotis A, B, C kategorijų ginklus turi teisę savo pasirinkimu apskųsti Viešojo administravimo įstatymo, Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo arba Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-57, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23066
 
 7. Jeigu pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo prašymo dėl leidimo laikyti ar leidimo nešiotis A, B, C kategorijų ginklus arba per 10 kalendorinių dienų nuo prašymo dėl leidimo įsigyti ginklus pateikimo dienos, arba pasibaigus šio straipsnio 3 dalyje nustatyta tvarka pratęstam terminui negauna jokio atsakymo, yra laikoma, kad priimamas sprendimas išduoti leidimą įsigyti ginklus, leidimą laikyti ginklus ir leidimą nešiotis A, B, C kategorijų ginklus.
 
