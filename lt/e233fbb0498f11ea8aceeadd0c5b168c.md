@@ -4,7 +4,7 @@ identifier: "e233fbb0498f11ea8aceeadd0c5b168c"
 country: "lt"
 rank: "istatymas"
 publication_date: "2020-01-28"
-last_updated: "2020-05-01"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/e233fbb0498f11ea8aceeadd0c5b168c"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ entry_into_force_conditions: "Įstatymo 6 straipsnio 4 dalis įsigalioja 2020-02
 Įstatymo  4 straipsnis įsigalioja 2020-11-01."
 ---
 # Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 8, 9, 11 straipsnių pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
+
+Suvestinė redakcija nuo 2024-12-24
+
+Įstatymas paskelbtas: TAR 2020-02-07, i. k. 2020-02848
 
 LIETUVOS RESPUBLIKOS
 
