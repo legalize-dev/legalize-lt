@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "2023-12-30"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2023-12-30 iki 2024-12-23
+Suvestinė redakcija nuo 2024-12-24 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -95,11 +95,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 
-4. Labdaros ir paramos dalyku negali būti Lietuvos Respublikos valstybės ir savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų, Lietuvos banko ir kitos valstybės ir savivaldybių piniginės lėšos, tabakas ir tabako gaminiai, etilo alkoholis ir alkoholiniai gėrimai bei ribotai apyvartoje esantys daiktai, taip pat nuolatinio Lietuvos gyventojo pačiam sau skiriamos piniginės lėšos, sudarančios pajamų mokesčio dalį iki 1,2 procento gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.
+4. Labdaros ir paramos dalyku negali būti Lietuvos Respublikos valstybės ir savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų, Lietuvos banko ir kitos valstybės ir savivaldybių piniginės lėšos, tabakas ir tabako gaminiai, etilo alkoholis ir alkoholiniai gėrimai bei ribotai apyvartoje esantys daiktai, taip pat nuolatinio Lietuvos gyventojo pačiam sau skiriamos piniginės lėšos, sudarančios pajamų mokesčio dalį iki 1,2 procento gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos. Paramos dalyku gali būti ribotai apyvartoje esantys daiktai, jeigu jie skirti valstybės biudžetinėms įstaigoms šio įstatymo 3 straipsnio 3 dalyje nurodytai veiklai nacionalinio saugumo ir gynybos, teisėtvarkos ir nusikalstamumo prevencijos srityse vykdyti.
+
+TAR pastaba.. 4 dalies nuostatos taikomos ribotai apyvartoje esantiems daiktams, kurie skirti valstybės biudžetinėms įstaigoms Lietuvos Respublikos labdaros ir paramos įstatymo 3 straipsnio 3 dalyje nurodytai veiklai nacionalinio saugumo ir gynybos, teisėtvarkos ir nusikalstamumo prevencijos srityse vykdyti ir kuriuos paramos gavėjai – valstybės biudžetinės įstaigos – šiai veiklai vykdyti gauna po 2024-12-12 įstatymo Nr. XV-55 įsigaliojimo dienos (2024-12-24).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
+
+Nr. XV-55, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23064
 
 5 straipsnis. Labdaros ir paramos teikėjai
 
@@ -287,7 +291,13 @@ Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 
 1) fiziniai asmenys, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas, – meno kūrybai, kaip tai apibrėžta Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo 2 straipsnio 3 dalyje;
 
-2) juridiniai asmenys – jų įstatuose ar nuostatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, labdarai (jeigu jie pagal šį įstatymą turi teisę teikti labdarą).
+2) juridiniai asmenys – savo įstatuose ar nuostatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, labdarai (jeigu jie pagal šį įstatymą turi teisę teikti labdarą). Valstybės biudžetinės įstaigos kaip paramą gautus ribotai apyvartoje esančius daiktus gali naudoti šio įstatymo 3 straipsnio 3 dalyje nurodytai veiklai nacionalinio saugumo ir gynybos, teisėtvarkos ir nusikalstamumo prevencijos srityse vykdyti;
+
+TAR pastaba. 2 punkto nuostatos taikomos ribotai apyvartoje esantiems daiktams, kurie skirti valstybės biudžetinėms įstaigoms Lietuvos Respublikos labdaros ir paramos įstatymo 3 straipsnio 3 dalyje nurodytai veiklai nacionalinio saugumo ir gynybos, teisėtvarkos ir nusikalstamumo prevencijos srityse vykdyti ir kuriuos paramos gavėjai – valstybės biudžetinės įstaigos – šiai veiklai vykdyti gauna po 2024-12-12 įstatymo Nr. XV-55 įsigaliojimo dienos (2024-12-24).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-55, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23064
 
 2. Pagal šį įstatymą kaip parama gauti šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms organizacijoms ir analitiniams centrams, valstybės politikams, politinei reklamai ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti.
 
@@ -724,6 +734,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
 
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4, 7, 8, 9 ir 11 straipsnių pakeitimo įstatymas
+
+33.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1129, 2022-06-07, paskelbta TAR 2022-06-17, i. k. 2022-13117
+
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 7 straipsnio pakeitimo įstatymas
+
+34.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-55, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23064
+
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4 ir 10 straipsnių pakeitimo įstatymas
 
 16 straipsnis. Atsakomybė už įstatymo pažeidimą
 
