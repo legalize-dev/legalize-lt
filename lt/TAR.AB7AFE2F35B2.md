@@ -4,7 +4,7 @@ identifier: "TAR.AB7AFE2F35B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2024-11-01"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
 
@@ -1386,6 +1386,12 @@ Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 6. Rinkos operatorius privalo laikytis rinkos operatoriui keliamų organizacinių ir veiklos reikalavimų (įskaitant pradinius reikalavimus reguliuojamos rinkos licencijai gauti) ir užtikrinti, kad jo administruojamoje reguliuojamoje rinkoje būtų laikomasi kitų šiame skyriuje nustatytų reikalavimų. Rinkos operatorius naudojasi šiame skyriuje nustatytomis reguliuojamos rinkos teisėmis.
 
+7. Rinkos operatorius, turintis išduotą reguliuojamos rinkos licenciją, gali teikti kriptoturto paslaugas, kaip jos apibrėžtos Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 60 straipsnyje nustatyta apimtimi ir tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
+
 54 straipsnis. Atsisakymo išduoti reguliuojamos rinkos licenciją pagrindai
 
 Priežiūros institucija atsisako išduoti reguliuojamos rinkos licenciją, jeigu:
@@ -1854,7 +1860,13 @@ Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
 
 91 straipsnis. Centrinis depozitoriumas
 
-Centrinio depozitoriumo organizacinius ir veiklos reikalavimus nustato Reglamentas (ES) Nr. 909/2014.
+1. Centrinio depozitoriumo organizacinius ir veiklos reikalavimus nustato Reglamentas (ES) Nr. 909/2014 ir Reglamentas (ES) 2023/1114.
+
+2. Centrinis depozitoriumas gali teikti kriptoturto paslaugas, kaip jos apibrėžtos Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 60 straipsnyje nustatyta apimtimi ir tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
 VI1 SKYRIUS
 
@@ -2864,17 +2876,31 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 2. Šiuo įstatymu siekiama suderinti finansinių priemonių rinkų reglamentavimą su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
-4 straipsnis. Teisė teikti investicines paslaugas
+4 straipsnis. Teisė teikti investicines ir kitas paslaugas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
 1. Nuolat ir profesionaliai teikti investicines paslaugas Lietuvos Respublikoje gali tik finansų maklerio įmonės, turinčios priežiūros institucijos ar kitos valstybės narės priežiūros institucijos išduotą finansų maklerio įmonės licenciją, taip pat Lietuvos Respublikoje ar kitoje valstybėje narėje licencijuotos kredito įstaigos, jeigu kredito įstaigos licencija suteikia teisę teikti investicines paslaugas, ir finansų patarėjo įmonės, turinčios priežiūros institucijos išduotą finansų patarėjo įmonės licenciją.
 
 2. Finansų maklerio įmonės licenciją turinti bendrovė vadinama finansų maklerio įmone. Terminą „finansų maklerio įmonė“ ar kitas šio termino gramatines formas arba žodžių junginius su šiuo terminu gali vartoti savo pavadinime ir reklamoje tik tos įmonės, kurios turi teisę teikti investicines paslaugas. Įmonės, kurios specializuojasi valdyti kitų asmenų finansinių priemonių portfelius, gali savo pavadinime vartoti terminą „investicijų valdymo įmonė“ ar kitas šio termino gramatines formas arba žodžių junginius su šiuo terminu.
 
+21. Finansų maklerio įmonė, turinti išduotą finansų maklerio įmonės licenciją, gali teikti kriptoturto paslaugas, kaip jos apibrėžtos 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 60 straipsnyje nustatyta apimtimi ir tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
+
 3. Šio straipsnio 1 dalis netaikoma rinkos operatoriui, administruojančiam daugiašalę prekybos sistemą arba organizuotos prekybos sistemą ir neketinančiam teikti kitų investicinių paslaugų. Tokiu atveju rinkos operatoriui licencija neišduodama, tačiau jis turi teisę administruoti daugiašalę prekybos sistemą arba organizuotos prekybos sistemą tik po to, kai priežiūros institucija įsitikina, kad rinkos operatorius atitinka šiame skyriuje (išskyrus šio įstatymo 12 straipsnį) nustatytus reikalavimus, ir apie tai praneša rinkos operatoriui.
 
 4. Lietuvos Respublikoje įsteigta finansų maklerio įmonė ir finansų patarėjo įmonė privalo turėti buveinę Lietuvos Respublikoje.
 
-5. Priežiūros institucija kaupia duomenis ir informaciją apie šio straipsnio 1 dalyje nurodytus subjektus bei investicines ir papildomas paslaugas, kurias jie turi teisę teikti Lietuvos Respublikoje. Ši informacija yra nuolat atnaujinama ir viešai skelbiama priežiūros institucijos interneto svetainėje.
+5. Priežiūros institucija kaupia duomenis ir informaciją apie šio straipsnio 1 dalyje nurodytus subjektus bei investicines, kriptoturto ir papildomas paslaugas, kurias jie turi teisę teikti Lietuvos Respublikoje. Ši informacija yra nuolat atnaujinama ir viešai skelbiama priežiūros institucijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
 6. Finansų patarėjo įmonės licenciją turinti bendrovė vadinama finansų patarėjo įmone. Terminą „finansų patarėjo įmonė“ ar kitas šio termino gramatines formas arba žodžių junginius su šiuo terminu gali vartoti savo pavadinime ir reklamoje tik tos įmonės, kurios turi teisę verstis finansų patarėjo įmonės veikla.
 
@@ -4492,11 +4518,19 @@ Papildyta straipsnio punktu:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
-28) padaromi kiti šio įstatymo ar kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
+28) nesilaiko vidaus tvarkos reikalavimų, kaip tai nurodyta šio įstatymo 16 straipsnio 1 ir 11 dalyse;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
+
+29) padaromi kiti šio įstatymo ar kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+
+Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
 2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
 
@@ -4512,7 +4546,17 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 1) fiziniams asmenims – iki 5 milijonų eurų;
 
-2) juridiniams asmenims – iki 5 milijonų eurų arba iki 10 procentų bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė.
+2) juridiniams asmenims – iki 5 milijonų eurų arba iki 10 procentų bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė, išskyrus šios dalies 3 punkte nustatytus atvejus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
+
+3) juridiniams asmenims už šio įstatymo 112 straipsnio 1 dalies 201, 21 ir 28 punktuose nurodytus pažeidimus – iki 10 procentų bendrųjų metinių pajamų.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
 Straipsnio dalies pakeitimai:
 
