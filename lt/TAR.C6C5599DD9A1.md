@@ -4,7 +4,7 @@ identifier: "TAR.C6C5599DD9A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-10-28"
-last_updated: "2023-06-30"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2023-06-30 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
 
@@ -600,10 +600,6 @@ Kai mokėjimo nurodymas inicijuojamas per mokėjimo inicijavimo paslaugos teikė
 5) lėšų įskaitymo data.
 
 2. Gavėjo prašymu šio straipsnio 1 dalyje nurodyta informacija jam turi būti pateikta raštu popieriuje ar naudojant kitą patvariąją laikmeną.
-
-TREČIASIS SKIRSNIS
-
-KITI SU INFORMAVIMU SUSIJĘ REIKALAVIMAI
 
 25 straipsnis. Informacija apie papildomą komisinį atlyginimą ir nuolaidas
 
@@ -1669,6 +1665,12 @@ priedas
 
 5. 2021 m. liepos 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/1230 dėl tarptautinių mokėjimų Sąjungoje (kodifikuota redakcija).
 
+6. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1113 dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama Direktyva (ES) 2015/849.
+
+Papildyta punktu:
+
+Nr. XIV-2891, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13500
+
 ___________________
 
 Priedo pakeitimai:
@@ -1806,4 +1808,24 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
 
 Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 3, 76 straipsnių ir priedo pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2891, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13500
+
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 priedo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+
+241 straipsnis. Lėšų pervedimo reikalavimų netaikymas
+
+Reglamento (ES) 2023/1113 reikalavimai netaikomi lėšų pervedimams, kaip jie apibrėžti Reglamente (ES) 2023/1113, Lietuvos Respublikos teritorijoje į gavėjo, kaip jis apibrėžtas Reglamente (ES) 2023/1113, mokėjimo sąskaitą, atliekant mokėjimus išimtinai už prekių tiekimą ar paslaugų teikimą, jeigu įvykdomos visos Reglamento (ES) 2023/1113 2 straipsnio 5 dalyje nurodytos sąlygos.
+
+Papildyta straipsniu:
+
+Nr. XIV-2891, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13500
+
+TREČIASIS SKIRSNIS
+
+KITI SU INFORMAVIMU SUSIJĘ REIKALAVIMAI
 
