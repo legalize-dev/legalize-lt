@@ -4,7 +4,7 @@ identifier: "TAR.40DFB5151B33"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-22"
-last_updated: "2024-11-01"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.40DFB5151B33"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30 iki 2025-04-08
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
 
