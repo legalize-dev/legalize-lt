@@ -4,7 +4,7 @@ identifier: "TAR.ED28779BEADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2024-01-01"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
 
@@ -57,6 +57,12 @@ Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
+
+22. Valdymo įmonė turi teisę teikti kriptoturto paslaugas, kaip jos apibrėžtos 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 60 straipsnyje nustatyta apimtimi ir tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2889, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13498
 
 3. Investicinė bendrovė neturi teisės valdyti kitų asmenų turto, kitų kolektyvinio investavimo subjektų, teikti šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytų paslaugų ar verstis šiame įstatyme nenustatyta veikla.
 
@@ -3109,6 +3115,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1595, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25169
 
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 164 straipsnio pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2889, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13498
+
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 4 straipsnio pakeitimo įstatymas
 
 175 straipsnis. Nuostatos, susijusios su naryste Europos Sąjungoje
 
