@@ -4,7 +4,7 @@ identifier: "TAR.4A05AB3730DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-10"
-last_updated: "2024-11-01"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A05AB3730DD"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30 iki 2025-04-08
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
 
@@ -132,7 +132,11 @@ MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS
 
 6) taikomos (numatomos taikyti) valdymo tvarkos ir vidaus kontrolės sistemos, įskaitant administracines, rizikos valdymo ir apskaitos sistemas, aprašymą, kuriuo įrodoma, kad ta valdymo tvarka ir vidaus kontrolės sistema yra tinkamos, patikimos ir adekvačios prisiimamai rizikai;
 
-7) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant įvykdyti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 2015/847 dėl informacijos, teikiamos pervedant lėšas, ir kuriuo panaikinamas Reglamentas (EB) Nr. 1781/2006 (OL 2015 L 141, p. 1) (toliau – Reglamentas (ES) Nr. 2015/847), aprašymą;
+7) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant įvykdyti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentą (ES) 2023/1113 dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama Direktyva (ES) 2015/849, aprašymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
 
 8) procedūros, pagal kurią stebimi operaciniai ir saugumo incidentai ir su saugumu susiję klientų skundai, į juos reaguojama ir imamasi tolesnių veiksmų, aprašymą, įskaitant pranešimo apie didelius operacinius ir saugumo incidentus mechanizmą, nustatytą pagal Mokėjimų įstatymo 57 straipsnyje nustatytus reikalavimus;
 
@@ -280,7 +284,11 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 
 4) priemonių, kurių pagal šio įstatymo 17 straipsnyje nustatytus reikalavimus imtasi (bus imamasi) siekiant apsaugoti mokėjimo paslaugų vartotojų lėšas, aprašymą;
 
-5) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos), siekiant įvykdyti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir Reglamentą (ES) Nr. 2015/847, aprašymą;
+5) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos), siekiant įvykdyti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir Reglamentą (ES) 2023/1113, aprašymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
 
 6) organizacinės struktūros, įskaitant numatomus filialus, tarpininkus ar kitus asmenis, kuriems bus perduodamas veiklos funkcijų vykdymas, aprašymą, taip pat įsipareigojimo vykdyti filialų, tarpininkų patikrinimus ne rečiau kaip kartą per metus aprašymą ir dalyvavimo mokėjimo sistemose aprašymą;
 
@@ -550,7 +558,11 @@ KITI MOKĖJIMO ĮSTAIGAI KELIAMI REIKALAVIMAI
 
 1) tarpininko, kai jis yra juridinis asmuo, pavadinimą, adresą ir kodą; kai tarpininkas yra fizinis asmuo, – jo vardą, pavardę ir veiklos vietos adresą;
 
-2) vidaus kontrolės procedūrų, kurias tarpininkas naudos, kad užtikrintų Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme (jeigu tarpininkas registruotas Lietuvos Respublikoje), kitos valstybės narės įstatymuose, įgyvendinančiuose 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyvą (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB (OL 2015, L 141, p. 73), ir Reglamente (ES) Nr. 2015/847 numatytų reikalavimų vykdymą, aprašymą;
+2) vidaus kontrolės procedūrų, kurias tarpininkas naudos, kad užtikrintų Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme (jeigu tarpininkas registruotas Lietuvos Respublikoje), kitos valstybės narės įstatymuose, įgyvendinančiuose 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyvą (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su visais pakeitimais, ir Reglamente (ES) 2023/1113 numatytų reikalavimų vykdymą, aprašymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
 
 3) tarpininko vadovų tapatybės duomenis (asmens vardą, pavardę, asmens kodą (jeigu asmens kodo neturi, – gimimo datą ir vietą), o tais atvejais, kai tarpininkas nėra mokėjimo paslaugų teikėjas, ir dokumentus, kuriais patvirtinama, kad tarpininko vadovai atitinka šio įstatymo 9 straipsnio 5 dalyje nustatytus reikalavimus;
 
@@ -744,7 +756,11 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 
 4. Kitos valstybės narės priežiūros institucijos pavedimu priežiūros institucija, prieš tai pranešusi kitos valstybės narės priežiūros institucijai ir vadovaudamasi šio straipsnio nuostatomis, turi teisę patikrinti kitos valstybės narės mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje. Kitos valstybės narės priežiūros institucija turi pranešti priežiūros institucijai apie ketinimą atlikti kitos valstybės narės mokėjimo įstaigos filialo, tarpininko ir kito asmens, kuriam perduotas veiklos funkcijų vykdymas, patikrinimą Lietuvos Respublikoje.
 
-5. Priežiūros institucija, atlikdama savo funkcijas, susijusias su Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo ir Reglamento (ES) Nr. 2015/847 nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, turi teisę savo iniciatyva patikrinti kitos valstybės narės mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje.
+5. Priežiūros institucija, atlikdama savo funkcijas, susijusias su Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo ir Reglamento (ES) 2023/1113 nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, turi teisę savo iniciatyva patikrinti kitos valstybės narės mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
 
 6. Priežiūros institucija turi pranešti kitos valstybės narės priežiūros institucijai apie ketinimą atlikti mokėjimo įstaigos filialo, tarpininko ir kito asmens, kuriam perduotas veiklos funkcijų vykdymas, patikrinimą kitoje valstybėje narėje. Priežiūros institucija gali pavesti kitos valstybės narės priežiūros institucijai patikrinti mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, kitoje valstybėje narėje.
 
@@ -1131,4 +1147,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2718, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11241
 
 Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 8, 33 ir 37 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
+
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 5, 7, 18 ir 29 straipsnių pakeitimo įstatymas
 
