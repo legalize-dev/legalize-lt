@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2024-11-01"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -39,9 +39,13 @@ BENDROSIOS NUOSTATOS
 
 1. Centrinė kredito unija turi teisę teikti šio straipsnio 2 ir 4 dalyse nustatytiems asmenims licencines finansines paslaugas ir kitas finansines paslaugas, tarp jų ir finansines paslaugas užsienio valiuta, jeigu šios teisės neapribotos šio ar kitų įstatymų nustatyta tvarka. Centrinė kredito unija privalo teikti šio įstatymo 2 straipsnio 8 dalies 1 punkte nustatytą licencinę finansinę paslaugą.
 
-11. Centrinė kredito unija turi teisę siūlyti su turtu susietus žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 6 punkte, arba prašyti įtraukti juos į prekybą Reglamento (ES) 2023/1114 17 straipsnyje nustatyta tvarka ir leisti elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Reglamento (ES) 2023/1114 IV antraštinėje dalyje nustatyta apimtimi ir tvarka. Šios paslaugos gali būti teikiamos tik šio straipsnio 2 ir 4 dalyse nustatytiems asmenims.
+11. Centrinė kredito unija turi teisę siūlyti su turtu susietus žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 6 punkte, arba prašyti įtraukti juos į prekybą Reglamento (ES) 2023/1114 17 straipsnyje nustatyta tvarka ir leisti elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Reglamento (ES) 2023/1114 IV antraštinėje dalyje nustatyta apimtimi ir tvarka, taip pat teikti kriptoturto paslaugas, kaip jos apibrėžtos Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 60 straipsnyje nustatyta apimtimi ir tvarka. Šios paslaugos gali būti teikiamos tik šio straipsnio 2 ir 4 dalyse nustatytiems asmenims.
 
 Papildyta straipsnio dalimi:
+
+Nr. XIV-2887, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13496
+
+Straipsnio dalies pakeitimai:
 
 Nr. XIV-2887, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13496
 
