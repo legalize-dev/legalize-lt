@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -6672,7 +6672,7 @@ Nr. XI-1129, 2010-11-16, Žin., 2010, Nr. 139-7112 (2010-11-27)
 
 2. Valstybinis visuomenės sveikatos stiprinimo fondas nėra juridinis asmuo.
 
-3. Valstybinį visuomenės sveikatos stiprinimo fondą administruoja Sveikatos apsaugos ministerija, vadovaudamasi Valstybinio visuomenės sveikatos stiprinimo fondo nuostatais. Valstybinio visuomenės sveikatos stiprinimo fondo administravimo išlaidos negali viršyti 4 procentų metinio Valstybinio visuomenės sveikatos stiprinimo fondo biudžeto.
+3. Valstybinį visuomenės sveikatos stiprinimo fondą administruoja sveikatos apsaugos ministro įgaliota įstaiga, vadovaudamasi Valstybinio visuomenės sveikatos stiprinimo fondo nuostatais. Valstybinio visuomenės sveikatos stiprinimo fondo administravimo išlaidos negali viršyti 4 procentų metinio Valstybinio visuomenės sveikatos stiprinimo fondo biudžeto.
 
 Straipsnio dalies pakeitimai:
 
