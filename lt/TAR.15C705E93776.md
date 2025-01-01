@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2024-12-24"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2024-12-24 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -359,7 +359,7 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
-38. Aktyvusis kariuomenės personalo rezervas, aktyviojo kariuomenės personalo rezervo karys, tarnyba aktyviajame kariuomenės personalo rezerve, parengtasis kariuomenės personalo rezervas, privalomoji karo tarnyba ir rezervo karys suprantami taip, kaip jie apibrėžiami Karo prievolės įstatyme.
+38. Šiame įstatyme vartojamos sąvokos „aktyvusis kariuomenės personalo rezervas“, „aktyviojo kariuomenės personalo rezervo karys“, „tarnyba aktyviajame kariuomenės personalo rezerve“, „parengtasis kariuomenės personalo rezervas“, „privalomoji karo tarnyba“, „kita tarnyba rezerve“ ir „rezervo karys“ suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos karo prievolės įstatyme.
 
 Papildyta straipsnio dalimi:
 
@@ -368,6 +368,8 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
+
+Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 
 39. Viešasis transportas suprantamas taip, kaip jis apibrėžiamas Lietuvos Respublikos transporto veiklos pagrindų įstatyme.
 
@@ -1631,11 +1633,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
-4) karo prievolininkai, neįgiję pagrindinio karinio parengtumo ir pašaukti atlikti karo tarnybą paskelbus mobilizaciją, – ne vėliau kaip per 20 dienų nuo kario statuso įgijimo.
+4) karo prievolininkai, neįgiję pagrindinio karinio parengtumo ir pašaukti atlikti kitą tarnybą rezerve ar karo tarnybą paskelbus mobilizaciją, – ne vėliau kaip per 20 dienų nuo kario statuso įgijimo.
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 
 5. Pasirašyti vardiniai priesaikos lapai saugomi karių asmens bylose, o prisiekusiųjų sąrašai – dalinyje.
 
@@ -1767,7 +1773,13 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 4) asmenys, kuriems pagal įstatymus negali būti suteikta teisė susipažinti su būtina kario pareigoms vykdyti įslaptinta informacija ir ja naudotis;
 
-5) asmenys, kurie per paskutinius 5 metus dėl priežasčių, susijusių su priesaikos sulaužymu, buvo pašalinti iš valstybės politiko pareigų, atleisti iš tikrosios karo tarnybos ar valstybės tarnybos arba pašalinti iš karo mokymo įstaigos.
+5) asmenys, kurie per paskutinius 5 metus dėl priežasčių, susijusių su priesaikos sulaužymu, buvo pašalinti iš valstybės politiko pareigų, atleisti iš tikrosios karo tarnybos ar valstybės tarnybos arba pašalinti iš karo mokymo įstaigos;
+
+6) asmenys, be Lietuvos Respublikos pilietybės, turintys ir į šio įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę.
+
+Papildyta straipsnio punktu:
+
+Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 
 5. Esant krašto apsaugos sistemos poreikiui, krašto apsaugos ministras, gavęs atitinkamos šalies sutikimą, turi teisę priimti kariniu patarėju ar ekspertu šalies NATO narės kariuomenės ar atsargos karininką ne Lietuvos Respublikos pilietį pagal terminuotą sutartį ir nustatyti jo pareigas, teises, atsakomybę bei kitas sutarties  sąlygas. Tokios sutarties terminas negali būti ilgesnis kaip 2 metai, o jam pasibaigus su tuo pačiu asmeniu šioje dalyje nustatytomis sąlygomis gali būti sudaryta nauja sutartis.
 
@@ -1803,7 +1815,13 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 2) asmenys, kurių veiksnumas apribotas teismo;
 
-3) asmenys, kurie per paskutinius 5 metus dėl priežasčių, susijusių su priesaikos sulaužymu, buvo pašalinti iš valstybės politiko pareigų, atleisti iš tikrosios karo tarnybos ar valstybės tarnybos arba pašalinti iš karo mokymo įstaigos.
+3) asmenys, kurie per paskutinius 5 metus dėl priežasčių, susijusių su priesaikos sulaužymu, buvo pašalinti iš valstybės politiko pareigų, atleisti iš tikrosios karo tarnybos ar valstybės tarnybos arba pašalinti iš karo mokymo įstaigos;
+
+4) asmenys, be Lietuvos Respublikos pilietybės, turintys ir į šio įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę.
+
+Papildyta straipsnio punktu:
+
+Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 
 4. Į savanorių karo tarnybą priimama kario savanorio sutarties pagrindu.
 
@@ -2597,6 +2615,12 @@ Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 Nr. XIV-1922, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08473
 
+81. Generolo leitenanto (viceadmirolo) laipsnis gali būti suteikiamas generolui majorui (kontradmirolui), ištarnavusiam generolu majoru (kontradmirolu) ne mažiau kaip 2 metus ir paskirtam į generolo leitenanto (viceadmirolo) laipsnį atitinkančias pareigas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
+
 9. Karininką paskyrus kariuomenės vadu, jam suteikiamas generolo (admirolo) laipsnis.
 
 Straipsnio dalies pakeitimai:
@@ -3068,6 +3092,12 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 12. Profesinės karo tarnybos karys, atliekantis tarnybą šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais, ir jo šeimos nariai apdraudžiami sveikatos draudimu. Sveikatos draudimo išlaidos apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Valstybėse, kuriose nėra galimybių apdrausti sveikatos draudimu, išlaidos, susijusios su profesinės karo tarnybos kario, atliekančio tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, specialiojoje misijoje, atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje, arba jo šeimos narių asmens sveikatos priežiūra, apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Šioje dalyje nurodytos sveikatos draudimo ir su asmens sveikatos priežiūra susijusios išlaidos apmokamos krašto apsaugos ministro nustatyta tvarka, neviršijant Vyriausybės nustatytų sveikatos draudimo ir sveikatos priežiūros išlaidų ribų taikant gyvenimo lygio vietos koeficientą. Už šeimos narius iš Krašto apsaugos ministerijai skirtų asignavimų taip pat mokamos privalomojo sveikatos draudimo įmokos, jeigu jos turi būti mokamos vadovaujantis Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio 11 dalimi.
 
 13. Profesinės karo tarnybos kariui kas mėnesį skiriama išmoka apsirūpinti jo karinį laipsnį ir šeimos narių skaičių atitinkančiomis gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti, taip pat apmokamos arba kompensuojamos krašto apsaugos ministro nustatytos su gyvenamųjų patalpų nuomos sutarties sudarymu susijusios išlaidos. Be to, apmokamos arba kompensuojamos profesinės karo tarnybos kario ir jo šeimos narių persikėlimo (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų) iš Lietuvos Respublikos į užsienio valstybę, iš užsienio valstybės į Lietuvos Respubliką ar iš vienos užsienio valstybės į kitą užsienio valstybę išlaidos ir išmokama Vyriausybės nustatyto dydžio vienkartinė įsikūrimo užsienio valstybėje išmoka, kurią apskaičiuojant taikomas gyvenimo lygio vietos koeficientas. Išmokų apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti dydžius ir jų skyrimo tvarką, su gyvenamųjų patalpų nuomos sutarties sudarymu susijusių išlaidų apmokėjimo ar kompensavimo tvarką, persikėlimo (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų) išlaidų apmokėjimo ar kompensavimo sąlygas ir tvarką, vienkartinės įsikūrimo išmokos mokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+131. Karininkui, skiriamam atlikti karo tarnybą užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje į ne žemesnes kaip generolo leitenanto laipsnio pareigas, suteikiamos gyvenamosios patalpos – rezidencija. Tokiu atveju šio straipsnio 13 dalyje nurodyta išmoka apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti nemokama. Rezidencijos nuomos metų išlaidų normą nustato Vyriausybė, rezidencijos nuomos tvarką nustato krašto apsaugos ministras. Rezidencijos nuomos metų išlaidų norma apskaičiuojama rezidencijos nuomos metų išlaidų normą dauginant iš Vyriausybės nustatyto gyvenamųjų patalpų nuomos lygio vietos koeficiento. Užsienio valstybėse, kurių gyvenamųjų patalpų nuomos lygio vietos koeficiento dydžiai nėra nustatyti Vyriausybės, taikomas patalpų nuomos lygio vietos koeficientas 1,2. Į rezidencijos nuomos metų išlaidų normą įskaičiuojamos ir apmokamos rezidencijos apsaugos, draudimo, baldų nuomos išlaidos, automobilio statymo vietos mokestis, valymo ir aplinkos priežiūros paslaugų, komunalinės (įskaitant garažo ir automobilio statymo vietų nuomą) ir ryšių išlaidos (abonentinis telefono, interneto, kabelinės, palydovinės televizijos, radijo mokestis).
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 
 14. Šio straipsnio 13 dalyje nurodyta išmoka apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti apskaičiuojama taikant gyvenamųjų patalpų nuomos lygio vietos koeficientą, kurio dydį nustato Vyriausybė. Užsienio valstybėse, kurių gyvenamųjų patalpų nuomos lygio vietos koeficiento dydžiai nėra nustatyti Vyriausybės, taikomas patalpų nuomos lygio vietos koeficientas 1,2. Išmoka apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti nemokama, jeigu karys toje valstybėje aprūpintas tarnybine gyvenamąja patalpa. Šiuo atveju Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apmokamos komunalinės, ryšių ir kitos su gyvenamųjų patalpų suteikimu ir išlaikymu susijusios išlaidos.
 
@@ -3735,7 +3765,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
 (baziniais dydžiais)
 
-Eil.  Nr.
+Eil. Nr.
 
 Karių laipsniai
 
@@ -3757,91 +3787,145 @@ tarnybos metai pagal laipsnį
 
 Generolas, admirolas
 
-3,31
+3,48
 
-3,31
+3,48
 
-3,31
+3,48
 
-3,31
+3,48
 
-3,31
+3,48
 
 2.
 
 Generolas leitenantas, viceadmirolas
 
-3,08
+3,25
 
-3,11
+3,28
 
-3,11
+3,28
 
-3,11
+3,28
 
-3,11
+3,28
 
 3.
 
 Generolas majoras, kontradmirolas
 
-2,80
+2,95
 
-2,83
+2,98
 
-2,83
+2,98
 
-2,83
+2,98
 
-2,83
+2,98
 
 4.
 
 Brigados generolas, flotilės admirolas
 
-2,54
+2,67
 
-2,57
+2,70
 
-2,57
+2,70
 
-2,57
+2,70
 
-2,57
+2,70
 
 5.
 
 Pulkininkas, jūrų kapitonas
 
-2,21
+2,33
 
-2,24
+2,36
 
-2,27
+2,39
 
-2,30
+2,42
 
-2,30
+2,42
 
 6.
 
 Pulkininkas leitenantas, komandoras
 
-1,89
+1,99
 
-1,92
+2,02
 
-1,95
+2,05
 
-1,98
+2,08
 
-2,01
+2,11
 
 7.
 
 Majoras, komandoras leitenantas
 
-1,66
+1,75
+
+1,78
+
+1,81
+
+1,84
+
+1,87
+
+8.
+
+Kapitonas, kapitonas leitenantas
+
+1,52
+
+1,54
+
+1,56
+
+1,58
+
+1,58
+
+9.
+
+Vyresnysis leitenantas
+
+1,36
+
+1,38
+
+1,40
+
+1,40
+
+1,40
+
+10.
+
+Leitenantas
+
+1,14
+
+1,16
+
+1,16
+
+1,16
+
+1,16
+
+11.
+
+Seržantas majoras, vyresnysis laivūnas
 
 1,69
 
@@ -3849,189 +3933,125 @@ Majoras, komandoras leitenantas
 
 1,75
 
-1,78
+1,75
 
-8.
-
-Kapitonas, kapitonas leitenantas
-
-1,43
-
-1,45
-
-1,47
-
-1,49
-
-1,49
-
-9.
-
-Vyresnysis leitenantas
-
-1,29
-
-1,31
-
-1,33
-
-1,33
-
-1,33
-
-10.
-
-Leitenantas
-
-1,08
-
-1,10
-
-1,10
-
-1,10
-
-1,10
-
-11.
-
-Seržantas majoras, vyresnysis laivūnas
-
-1,60
-
-1,63
-
-1,66
-
-1,66
-
-1,66
+1,75
 
 12.
 
 Viršila, laivūnas
 
-1,35
+1,42
 
-1,37
+1,44
 
-1,39
+1,46
 
-1,39
+1,46
 
-1,39
+1,46
 
 13.
 
 Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas
 
-1,20
+1,27
 
-1,22
+1,29
 
-1,24
+1,31
 
-1,24
+1,31
 
-1,24
+1,31
 
 14.
 
 Vyresnysis seržantas, vyresnysis seržantas specialistas
 
-1,11
+1,17
 
-1,13
+1,19
 
-1,15
+1,21
 
-1,15
+1,21
 
-1,15
+1,21
 
 15.
 
 Seržantas, seržantas specialistas
 
-1,00
+1,05
 
-1,02
+1,07
 
-1,02
+1,07
 
-1,02
+1,07
 
-1,02
+1,07
 
 16.
 
 Grandinis
 
-0,93
+0,99
 
-0,95
+1,01
 
-0,95
+1,01
 
-0,95
+1,01
 
-0,95
+1,01
 
 17.
 
 Vyresnysis eilinis, vyresnysis jūreivis
 
-0,86
+0,91
 
-0,86
+0,91
 
-0,86
+0,91
 
-0,86
+0,91
 
-0,86
+0,91
 
 18.
 
 Eilinis, jūreivis
 
-0,79
+0,83
 
-0,79
+0,83
 
-0,79
+0,83
 
-0,79
+0,83
 
-0,79
+0,83
 
 19.
 
 Jaunesnysis eilinis, jaunesnysis jūreivis
 
-0,77
+0,81
 
-0,77
+0,81
 
-0,77
+0,81
 
-0,77
+0,81
 
-0,77
+0,81
 
 _______________________
 
-Papildyta priedu:
-
-Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
-
 Priedo pakeitimai:
-
-Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
-
-Nr. XIV-1922, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08473
-
-Nr. XIV-1923, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08474
 
 Nr. XIV-2369, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25622
 
@@ -4457,7 +4477,11 @@ KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 2, 7, 10, 16, 
 
 1. Profesinės karo tarnybos, kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutartis turi būti nutraukiama ir (ar) karys atleidžiamas iš tarnybos krašto apsaugos sistemoje, kai:
 
-1) netenka Lietuvos Respublikos pilietybės;
+1) netenka Lietuvos Respublikos pilietybės, įgyja į šio įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę ar paaiškėja, kad turi tokios valstybės pilietybę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 
 2) tyčiniais veiksmais atskleidžia valstybės ar tarnybos paslaptis;
 
@@ -5101,11 +5125,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
-4. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, turintiems sveikatos sutrikimų, dėl kurių jie įgijo teisę į šio įstatymo 67 straipsnio 6–11 dalyse nustatytas garantijas šio įstatymo 67 straipsnyje nustatytomis sąlygomis, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos:
+4. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, turintiems sveikatos sutrikimų, dėl kurių jie įgijo teisę į šio įstatymo 67 straipsnio 6–11 dalyse nustatytas garantijas šio įstatymo 67 straipsnyje nustatytomis sąlygomis, taip pat asmenims, atitinkantiems visas šias sąlygas: turintiems sveikatos sutrikimų, kurie atsirado dėl dalyvavimo ginant Lietuvos Respublikos laisvę SSRS karinės agresijos laikotarpiu, 1991 m. sausio 11 d. – rugpjūčio 21 d., tarnaujant krašto apsaugos sistemoje, kai dėl šių sveikatos sutrikimų jiems nustatytas dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygis, bei pripažintiems nukentėjusiaisiais kovojant už Lietuvos Respublikos laisvę, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos:
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
+
+Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 
 1) paslaugų, suteiktų kariui jo pasirinktos sveikatinimo veiklą vykdančios įstaigos, sporto veiklą vykdančios įstaigos, išlaidos;
 
@@ -5329,19 +5355,21 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
 631 straipsnis. Gyvenamosios patalpos nuomos išlaidų kompensavimas profesinės karo tarnybos kariams
 
-1. Profesinės karo tarnybos kariams gyvenamosios patalpos nuomos išlaidos, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, kompensuojamos, jeigu jie, jų šeimos nariai tarnybos vietos savivaldybėje ar kitoje savivaldybėje nuo tarnybos vietos mažesniu atstumu, negu Vyriausybės arba jos įgaliotos institucijos nustatytas atstumas, neturi nuosavybės teise priklausančių, techninius ir higienos reikalavimus atitinkančių gyvenamųjų patalpų ar jų dalies.
+1. Profesinės karo tarnybos kariams gyvenamosios patalpos tarnybos vietos savivaldybėje nuomos išlaidos, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, kompensuojamos, jeigu jie, jų šeimos nariai tarnybos vietos savivaldybėje ar kitoje savivaldybėje nuo tarnybos vietos mažesniu atstumu, negu Vyriausybės arba jos įgaliotos institucijos nustatytas atstumas, neturi nuosavybės teise priklausančių, techninius ir higienos reikalavimus atitinkančių gyvenamųjų patalpų ar jų dalies. Dėl objektyvių šeiminių priežasčių ar nesant galimybės išsinuomoti gyvenamosios patalpos tarnybos vietos savivaldybėje, krašto apsaugos ministro ar jo įgalioto asmens sprendimu profesinės karo tarnybos kariams kompensuojamos gyvenamosios patalpos kitos savivaldybės vietovėje, nutolusioje nuo tarnybos vietos ne didesniu atstumu, negu Vyriausybės arba jos įgaliotos institucijos nustatytas atstumas, nuomos išlaidos, išskyrus atvejį, kai nuomojama gyvenamoji patalpa nuo tarnybos vietos yra nutolusi didesniu atstumu, negu profesinės karo tarnybos kario, jo šeimos narių turimos nuosavybės teise priklausančios, techninius ir higienos reikalavimus atitinkančios gyvenamosios patalpos ar jų dalis.
 
 2. Gyvenamosios patalpos nuomos išlaidos nekompensuojamos, jeigu profesinės karo tarnybos kariai tarnybos vietos savivaldybėje yra laikinai apgyvendinti tarnybiniuose butuose arba jiems jų pasirinkimu taikoma šio įstatymo 64 straipsnio 4 dalyje numatyta garantija.
 
 3. Jeigu šeimoje yra du profesinės karo tarnybos kariai (sutuoktiniai), turintys teisę gauti gyvenamosios patalpos nuomos išlaidų kompensaciją ir tarnaujantys toje pačioje savivaldybėje, ir nėra teismo patvirtinimo dėl jų gyvenimo skyrium, jiems kompensuojamos vienos gyvenamosios patalpos nuomos išlaidos, neviršijant tai tarnybos vietovei Vyriausybės nustatyto maksimalaus gyvenamosios patalpos nuomos išlaidų dydžio.
 
-4. Maksimalius gyvenamosios patalpos nuomos išlaidų dydžius, priklausančius nuo tarnybos vietovės, taip pat nuo kartu su jais gyvenančių šeimos narių skaičiaus, atsižvelgdama į gyvenamųjų patalpų nuomos rinkos kainas, tvirtina Vyriausybė. Gyvenamosios patalpos nuomos išlaidų kompensavimo tvarką pagal profesinės karo tarnybos kario ir nuomotojo rašytinėje sutartyje nustatytą nuomos mokesčio dydį, neviršydamas Vyriausybės patvirtintų maksimalių gyvenamosios patalpos nuomos išlaidų dydžių, nustato krašto apsaugos ministras.
+4. Maksimalius gyvenamosios patalpos nuomos išlaidų dydžius, priklausančius nuo vietovės, kurioje yra nuomojama gyvenamoji patalpa, taip pat nuo kartu su jais gyvenančių šeimos narių skaičiaus, atsižvelgdama į gyvenamųjų patalpų nuomos rinkos kainas, tvirtina Vyriausybė. Gyvenamosios patalpos nuomos išlaidų kompensavimo tvarką pagal profesinės karo tarnybos kario ir nuomotojo rašytinėje sutartyje nustatytą nuomos mokesčio dydį, neviršydamas Vyriausybės patvirtintų maksimalių gyvenamosios patalpos nuomos išlaidų dydžių, nustato krašto apsaugos ministras.
 
 5. Profesinės karo tarnybos kariams, turintiems žvalgybos pareigūno statusą, šio straipsnio nuostatos netaikomos.
 
 Straipsnio pakeitimai:
 
 Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
+
+Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 
 611 straipsnis. Karių tarnybos tarptautinių operacijų ir rengimosi joms metu apmokėjimas
 
