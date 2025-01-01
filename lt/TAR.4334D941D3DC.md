@@ -4,7 +4,7 @@ identifier: "TAR.4334D941D3DC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-05-23"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4334D941D3DC"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS PLUOŠTINIŲ KANAPIŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-10-31
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 61-3025, i. k. 1131010ISTA0XII-336
 
@@ -111,6 +111,12 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 17. Trečioji šalis – valstybė ne Europos Sąjungos narė arba kita ne Europos ekonominės erdvės valstybė.
 
+18. Ūkio subjektas – kaip apibrėžta Lietuvos Respublikos viešojo administravimo įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3031, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18356
+
 ANTRASIS SKIRSNIS
 
 PLUOŠTINIŲ KANAPIŲ AUGINIMAS, PLUOŠTINIŲ KANAPIŲ PRODUKTŲ GAVIMAS, PLUOŠTINIŲ KANAPIŲ GAMINIŲ GAMYBA IR JŲ TIEKIMAS RINKAI
@@ -165,7 +171,11 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 2. Tiekiamos rinkai pluoštinių kanapių sėklos pakuotės etiketėje, jeigu sėkla tiekiama iš kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių (toliau – kitos Europos Sąjungos valstybės narės), turi būti nurodomas veislės pavadinimas.
 
-3. Lietuvos Respublikoje ir (arba) kitose Europos Sąjungos valstybėse narėse gaunami, pagaminti ir tiekiami rinkai pluoštinių kanapių produktai ir jų gaminiai turi būti gauti ar pagaminti iš pluoštinių kanapių, kuriose THC kiekis neviršija leidžiamos 0,3 procento ribos, ir turi turėti tai patvirtinančią pažymą, kurią išduoda Tarnyba žemės ūkio ministro nustatyta tvarka arba kitos Europos Sąjungos valstybės narės atsakinga institucija.
+3. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3031, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18356
 
 Straipsnio dalies pakeitimai:
 
@@ -373,7 +383,11 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 1) informuoti Agentūrą apie pasikeitusius licencijoje nurodytus rekvizitus (išskyrus licencijos turėtojo juridinio asmens ar kitos organizacijos, ar šio juridinio asmens ar kitos organizacijos padalinio kodą) ne vėliau kaip per 10 darbo dienų nuo šių duomenų pasikeitimo;
 
-2) importuoti tik įteisintų veislių šio įstatymo 5 straipsnio 1 dalyje nurodytus pluoštinių kanapių produktus, atitinkančius Reglamento (ES) Nr. 1308/2013 189 straipsnyje nustatytus reikalavimus;
+2) importuoti tik įteisintų veislių šio įstatymo 5 straipsnio 1 dalyje nurodytus pluoštinių kanapių produktus, atitinkančius Reglamento (ES) Nr. 1308/2013 189 straipsnyje nustatytus reikalavimus. Ši nuostata netaikoma mokslo ir studijų institucijoms ar ūkio subjektams, importuojantiems ne daugiau kaip 6 kg konkrečios veislės sėjai skirtų pluoštinių kanapių sėklų per vienus kalendorinius metus moksliniais eksperimentiniais ar selekcijos tikslais ir Tarnybos atliekamo veislių ūkinio vertingumo tyrimo tikslu, siekiant jas įrašyti į Nacionalinį augalų veislių sąrašą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3031, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18356
 
 3) teikti informaciją Agentūrai ir Lietuvos Respublikos žemės ūkio ministerijai apie pluoštinių kanapių produktų panaudojimą. Šis reikalavimas netaikomas patvirtintiesiems importuotojams, kuriems dar neišduota licencija ir kurie licencijuojamos veiklos dar nevykdo.
 
@@ -730,4 +744,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2065, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12748
 
 Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2 ir 5 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3031, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18356
+
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 4 ir 8 straipsnių pakeitimo įstatymas
 
