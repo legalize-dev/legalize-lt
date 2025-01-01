@@ -4,7 +4,7 @@ identifier: "TAR.286DC4AF9827"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-29"
-last_updated: "2020-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.286DC4AF9827"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teismo ekspertizės įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4969, i. k. 1021010ISTA0IX-1161
-
-TAR pastaba. Įstatymo 7 straipsnio 3, 4, 5, 6, 7 punktų nuostatos, 9 straipsnio 3 dalies 2 punkto ir 5 dalies 4 punkto nuostatos, susijusios su 7 straipsnio 3, 4, 5, 6, 7 punktuose nustatytomis sąlygomis, taikomos tik tais atvejais, kai tuose punktuose nurodytos aplinkybės atsirado po Įstatymo Nr. XIII-3028 įsigaliojimo dienos (2020-07-01).  Iki šio įstatymo įsigaliojimo paskirtų teismo ekspertų veiklos koordinavimotarybos narių ketverių metų kadencija pradedama skaičiuoti nuo šio įstatymo įsigaliojimo dienos.  Įstatymo  22 straipsnio 1 ir 2 dalys taikomos nuo įstatymo Nr. XIII-3028 įsigaliojimo dienos (2020-07-01) naujai steigiamoms teismo ekspertizės įstaigoms.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-3028, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13466
-
-Lietuvos Respublikos teismo ekspertizės įstatymo Nr. IX-1161 pakeitimo įstatymas
 
 Nauja redakcija nuo 2020-07-01:
 
@@ -91,11 +83,19 @@ TEISMO EKSPERTAI
 
 1. Teismo ekspertų veikla turi būti grindžiama nepriklausomumo, profesionalumo, profesinių sprendimų skaidrumo, sąžiningumo, nešališkumo, pagarbos teisės aktams ir asmenų teisėms, konfidencialumo, teisingumo ir tyrimo išsamumo principais. Šių principų turinys apibrėžiamas Teismo ekspertų profesinės etikos kodekse. Teismo ekspertų profesinės etikos kodeksą tvirtina šio įstatymo 19 straipsnyje nurodyta Teismo ekspertų veiklos koordinavimo taryba.
 
-2. Fizinių ar juridinių asmenų, kitų organizacijų ar jų padalinių (toliau – fiziniai ar juridiniai asmenys) skundus dėl Teismo ekspertų profesinės etikos kodekso pažeidimų (toliau − skundai) nagrinėja Teismo ekspertų veiklos koordinavimo taryba, vadovaudamasi Lietuvos Respublikos teisingumo ministro tvirtinamu Teismo ekspertų veiklos koordinavimo tarybos darbo reglamentu. Teismo ekspertų veiklos koordinavimo taryba nenagrinėja skundų dėl teismo ekspertų proceso veiksmų.
+2. Fizinių ar juridinių asmenų, kitų organizacijų ar jų padalinių (toliau – fiziniai ar juridiniai asmenys) skundus dėl Teismo ekspertų profesinės etikos kodekso pažeidimų (toliau − skundai) nagrinėja Teismo ekspertų veiklos koordinavimo taryba, vadovaudamasi teisingumo ministro tvirtinamu Teismo ekspertų veiklos koordinavimo tarybos darbo reglamentu. Teismo ekspertų veiklos koordinavimo taryba nenagrinėja skundų dėl teismo ekspertų proceso veiksmų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
 
 3. Skundus Teismo ekspertų veiklos koordinavimo taryba nagrinėja posėdžiuose, kurie rengiami ne rečiau kaip kartą per ketvirtį.
 
-4. Teismo ekspertų veiklos koordinavimo taryba, atlikdama šiame straipsnyje nustatytas funkcijas, susijusias su skundų nagrinėjimu, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų, fizinių ar juridinių asmenų šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant fizinio asmens ir teismo eksperto asmens duomenis) ir paaiškinimus, dokumentus ar dokumentų nuorašus. Teismo ekspertizės įstaigos ir šio įstatymo 6 straipsnio 2 dalyje nurodytos kvalifikaciją suteikiančios institucijos pagal kompetenciją privalo pateikti Teismo ekspertų veiklos koordinavimo tarybai informaciją ir paaiškinimus, ar ekspertiniai tyrimai buvo atlikti pagal kvalifikaciją ir tai sričiai taikomų teisės aktų reikalavimus.
+4. Teismo ekspertų veiklos koordinavimo taryba, atlikdama šiame straipsnyje nustatytas funkcijas, susijusias su skundų nagrinėjimu, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat informacinių sistemų, kurios suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, (toliau ‒ informacinės sistemos), fizinių ar juridinių asmenų šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant fizinio asmens ir teismo eksperto asmens duomenis) ir paaiškinimus, dokumentus ar dokumentų nuorašus. Teismo ekspertizės įstaigos ir šio įstatymo 6 straipsnio 2 dalyje nurodytos kvalifikaciją suteikiančios institucijos pagal kompetenciją privalo pateikti Teismo ekspertų veiklos koordinavimo tarybai informaciją ir paaiškinimus, ar ekspertiniai tyrimai buvo atlikti pagal kvalifikaciją ir tai sričiai taikomų teisės aktų reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
 
 5. Teismo ekspertų veiklos koordinavimo taryba, nustačiusi Teismo ekspertų profesinės etikos kodekso pažeidimų, turi teisę priimti šiuos sprendimus:
 
@@ -117,7 +117,11 @@ TEISMO EKSPERTAI
 
 11. Teismo ekspertizės įstaigos vadovas arba šio įstatymo 6 straipsnio 2 dalyje nurodyta kvalifikaciją suteikusi institucija ne vėliau kaip per mėnesį nuo siūlymo gavimo dienos informuoja Teismo ekspertų veiklos koordinavimo tarybą ir teismo ekspertą apie priimtą sprendimą patikrinti ar atsisakyti patikrinti teismo eksperto kvalifikaciją, kurios pagrindu asmuo buvo įrašytas į teismo ekspertų sąrašą. Apie patikrinimo rezultatus Teismo ekspertų veiklos koordinavimo taryba ir teismo ekspertas, kurio kvalifikacija buvo patikrinta, informuojami ne vėliau kaip per penkias darbo dienas nuo sprendimo, kuris priimamas atlikus patikrinimą, priėmimo dienos.
 
-12. Teismo eksperto, kuriam kvalifikacija buvo suteikta šio įstatymo 8 straipsnyje nustatyta tvarka, kvalifikacijos patikrinimas pagal Teismo ekspertų veiklos koordinavimo tarybos siūlymą vykdomas taikant mutatis mutandis šio įstatymo 8 ir 9 straipsnių nuostatas. Teismo eksperto, kuriam kvalifikacija buvo suteikta šio įstatymo 6 straipsnio 2 dalyje nustatyta tvarka, kvalifikacijos patikrinimo pagal Teismo ekspertų veiklos koordinavimo tarybos siūlymą tvarką nustato šio įstatymo 6 straipsnio 2 dalyje nurodytos kvalifikaciją suteikiančios institucijos. Šios institucijos, atlikdamos šioje dalyje nustatytą kvalifikacijos patikrinimo funkciją, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų, fizinių ar juridinių asmenų šiai funkcijai atlikti reikalingą informaciją, duomenis (įskaitant fizinio asmens ir teismo eksperto asmens duomenis) ir paaiškinimus, dokumentus ar dokumentų nuorašus.
+12. Teismo eksperto, kuriam kvalifikacija buvo suteikta šio įstatymo 8 straipsnyje nustatyta tvarka, kvalifikacijos patikrinimas pagal Teismo ekspertų veiklos koordinavimo tarybos siūlymą vykdomas taikant mutatis mutandis šio įstatymo 8 ir 9 straipsnių nuostatas. Teismo eksperto, kuriam kvalifikacija buvo suteikta šio įstatymo 6 straipsnio 2 dalyje nustatyta tvarka, kvalifikacijos patikrinimo pagal Teismo ekspertų veiklos koordinavimo tarybos siūlymą tvarką nustato šio įstatymo 6 straipsnio 2 dalyje nurodytos kvalifikaciją suteikiančios institucijos. Šios institucijos, atlikdamos šioje dalyje nustatytą kvalifikacijos patikrinimo funkciją, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat informacinių sistemų, fizinių ar juridinių asmenų šiai funkcijai atlikti reikalingą informaciją, duomenis (įskaitant fizinio asmens ir teismo eksperto asmens duomenis) ir paaiškinimus, dokumentus ar dokumentų nuorašus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
 
 6 straipsnis. Reikalavimai asmenims, siekiantiems tapti teismo ekspertais
 
@@ -139,21 +143,51 @@ TEISMO EKSPERTAI
 
 7 straipsnis. Nepriekaištinga reputacija
 
-Asmuo, siekiantis tapti teismo ekspertu, nelaikomas esąs nepriekaištingos reputacijos, jeigu jis:
+1. Asmuo, siekiantis tapti teismo ekspertu, nelaikomas esąs nepriekaištingos reputacijos, jeigu jis:
 
-1) yra nuteistas už sunkų ar labai sunkų nusikaltimą – kol teistumas neišnykęs ar nepanaikintas ir ne mažiau kaip penkerius metus nuo bausmės atlikimo arba atleidimo nuo bausmės atlikimo dienos, kai asmuo nuteistas už sunkų nusikaltimą, arba aštuonerius metus nuo bausmės atlikimo arba atleidimo nuo bausmės atlikimo dienos, kai asmuo nuteistas už labai sunkų nusikaltimą;
+1) yra padaręs labai sunkų nusikaltimą ir:
 
-2) yra nuteistas už nesunkų, apysunkį ar neatsargų nusikaltimą valstybės tarnybai ir viešiesiems interesams arba teisingumui – kol teistumas neišnykęs ar nepanaikintas ir ne mažiau kaip ketverius metus nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos;
+a) yra nuteistas ir nuo bausmės atlikimo arba atleidimo nuo bausmės atlikimo dienos nėra praėję dvylika metų;
 
-3) yra nuteistas už kitą, negu nurodyta šio straipsnio 2 punkte, tyčinį nusikaltimą – kol teistumas neišnykęs ar nepanaikintas ir ne mažiau kaip trejus metus nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos;
+b) yra atleistas nuo baudžiamosios atsakomybės Lietuvos Respublikos baudžiamojo kodekso 36 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję penkeri metai arba yra atleistas Baudžiamojo kodekso 391 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję dešimt metų;
 
-4) yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo ir atleistas nuo baudžiamosios atsakomybės ir nuo teismo sprendimo įsiteisėjimo dienos nepraėjo dveji metai;
+2) yra padaręs sunkų nusikaltimą ir:
 
-5) piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar kitomis psichiką veikiančiomis medžiagomis;
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję dešimt metų;
 
-6) buvo išbrauktas iš teismo ekspertų sąrašo, nes neatitiko teismo ekspertui taikomų elgesio ir veiklos reikalavimų, nustatytų Teismo ekspertų profesinės etikos kodekse, ir nuo išbraukimo iš teismo ekspertų sąrašo dienos nepraėjo dveji metai;
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję ketveri metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję aštuoneri metai;
 
-7) yra atleistas iš darbo, pareigų ar praradęs teisę verstis tam tikra veikla už neatitiktį įstatymuose keliamiems nepriekaištingos reputacijos reikalavimams, teisės aktuose nustatytų etikos normų pažeidimą arba profesinės ar tarnybinės veiklos pažeidimus ar pripažintas padaręs tarnybinius nusižengimus, už kuriuos turėtų būti skiriama tarnybinė nuobauda – atleidimas iš pareigų, ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla praradimo arba nuo pripažinimo padarius tarnybinį nusižengimą dienos nepraėjo dveji metai.
+3) yra padaręs apysunkį nusikaltimą ir:
+
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję aštuoneri metai;
+
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar 37 straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję treji metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję šešeri metai;
+
+4) yra padaręs nesunkų nusikaltimą ir:
+
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję penkeri metai;
+
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar 37 straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję dveji metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję treji metai;
+
+5) yra padaręs tyčinį baudžiamąjį nusižengimą ir:
+
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję treji metai;
+
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar 37 straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję vieni metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję dveji metai;
+
+6) piktnaudžiauja alkoholiu, vartoja psichotropines, narkotines ar kitas psichiką veikiančias medžiagas ne medicinos tikslais;
+
+7) yra išbrauktas iš teismo ekspertų sąrašo, nes neatitinka teismo ekspertui taikomų elgesio ir veiklos reikalavimų, nustatytų Teismo ekspertų profesinės etikos kodekse, ir nuo išbraukimo iš teismo ekspertų sąrašo dienos nėra praėję treji metai;
+
+8) yra atleistas iš darbo, pareigų ar praradęs teisę verstis tam tikra veikla už neatitiktį įstatymuose keliamiems nepriekaištingos reputacijos reikalavimams, teisės aktuose nustatytų etikos normų pažeidimą arba profesinės ar tarnybinės veiklos pažeidimus ar pripažintas padaręs tarnybinius nusižengimus, už kuriuos turėtų būti skiriama tarnybinė nuobauda – atleidimas iš pareigų, ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla praradimo arba nuo pripažinimo padarius tarnybinį nusižengimą dienos nėra praėję treji metai;
+
+9) yra atleistas arba pašalintas iš skiriamų ar renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo arba pareigūno vardo pažeminimo ir nuo atleidimo arba pašalinimo iš pareigų dienos nėra praėję treji metai.
+
+2. Jeigu asmuo padaro korupcinio pobūdžio nusikalstamą veiką, kuri suprantama taip, kaip apibrėžiama Lietuvos Respublikos korupcijos prevencijos įstatyme, šio straipsnio 1 dalyje nurodyti terminai, kai asmuo nelaikomas esąs nepriekaištingos reputacijos, ilginami vienu trečdaliu.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
 
 8 straipsnis. Teismo eksperto kvalifikacijos suteikimas, patvirtinimas ir pripažinimas, teismo eksperto kvalifikacijos pažymėjimo išdavimas ir galiojimas
 
@@ -187,7 +221,11 @@ Asmuo, siekiantis tapti teismo ekspertu, nelaikomas esąs nepriekaištingos repu
 
 1) paties teismo eksperto prašymu;
 
-2) kai teismo ekspertas įtariamas ar kaltinamas padaręs šio įstatymo 7 straipsnio 1‒4 punktuose nurodytus nusikaltimus;
+2) kai teismo ekspertas įtariamas ar kaltinamas padaręs šio įstatymo 7 straipsnio 1‒5 punktuose nurodytas nusikalstamas veikas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
 
 3) kai paaiškėja, kad siekiant teismo eksperto kvalifikacijos buvo pateikti neteisingi duomenys.
 
@@ -211,11 +249,19 @@ Asmuo, siekiantis tapti teismo ekspertu, nelaikomas esąs nepriekaištingos repu
 
 8. Teismo ekspertizės įstaigos vadovo sprendimai dėl atsisakymo patenkinti skundo reikalavimus gali būti skundžiami teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-9. Teismo ekspertizės įstaigos, atlikdamos šio įstatymo 8 straipsnyje ir šiame straipsnyje nustatytas teismo eksperto kvalifikacijos suteikimo, patvirtinimo ir pripažinimo, teismo eksperto kvalifikacijos pažymėjimo išdavimo, galiojimo termino pratęsimo, galiojimo sustabdymo ir galiojimo sustabdymo panaikinimo, pripažinimo negaliojančiu funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų, fizinių ar juridinių asmenų šioms funkcijoms atlikti reikalingą informaciją ir duomenis (įskaitant fizinio asmens ir teismo eksperto asmens duomenis, taip pat duomenis apie šių asmenų teistumą).
+9. Teismo ekspertizės įstaigos, atlikdamos šio įstatymo 8 straipsnyje ir šiame straipsnyje nustatytas teismo eksperto kvalifikacijos suteikimo, patvirtinimo ir pripažinimo, teismo eksperto kvalifikacijos pažymėjimo išdavimo, galiojimo termino pratęsimo, galiojimo sustabdymo ir galiojimo sustabdymo panaikinimo, pripažinimo negaliojančiu funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat informacinių sistemų, fizinių ar juridinių asmenų šioms funkcijoms atlikti reikalingą informaciją ir duomenis (įskaitant fizinio asmens ir teismo eksperto asmens duomenis, taip pat duomenis apie šių asmenų teistumą).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
 
 10 straipsnis. Teismo ekspertų sąrašas
 
-1. Teismo ekspertų sąrašas sudaromas ir tvarkomas teisingumo ministro nustatyta tvarka. Lietuvos Respublikos teisingumo ministerija, atlikdama šiame straipsnyje, šio įstatymo 11 ir 12 straipsniuose nustatytas teismo ekspertų sąrašo sudarymo ir tvarkymo, įrašymo į teismo ekspertų sąrašą ir išbraukimo iš jo funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų, fizinių ar juridinių asmenų šioms funkcijoms atlikti reikalingą informaciją ir duomenis (įskaitant fizinio asmens ir teismo eksperto asmens duomenis, taip pat duomenis apie šių asmenų teistumą).
+1. Įrašymo į teismo ekspertų sąrašą, išbraukimo iš jo ir duomenų apie teismo ekspertus teismo ekspertų sąraše pakeitimo tvarką nustato teisingumo ministras. Teismo ekspertų sąrašas tvarkomas Licencijų informacinėje sistemoje. Lietuvos Respublikos teisingumo ministerija, atlikdama šio įstatymo 11 ir 12 straipsniuose nustatytas įrašymo į teismo ekspertų sąrašą ir išbraukimo iš jo funkcijas, keisdama duomenis apie teismo ekspertus teismo ekspertų sąraše, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat informacinių sistemų, fizinių ar juridinių asmenų šioms funkcijoms atlikti reikalingą informaciją ir duomenis (įskaitant fizinio asmens ir teismo eksperto asmens duomenis, taip pat duomenis apie šių asmenų teistumą).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
 
 2. Asmuo gali dirbti teismo eksperto darbą teismo ekspertizės įstaigoje tik būdamas įrašytas į teismo ekspertų sąrašą.
 
@@ -233,7 +279,11 @@ Asmuo, siekiantis tapti teismo ekspertu, nelaikomas esąs nepriekaištingos repu
 
 5. Asmuo, kurio prašymas per šio straipsnio 4 dalyje nustatytą terminą nepatenkinamas, turi teisę kreiptis į teismą Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-6. Atsižvelgiant į šio įstatymo 4 straipsnio 1 dalį ir siekiant informuoti ekspertinius tyrimus skiriančius teismus ar teisėjus, prokurorus ar ikiteisminio tyrimo įstaigos pareigūnus ar kitus įstatymų įgaliotus pareigūnus arba juos užsakančius fizinius ar juridinius asmenis (toliau − ekspertinius tyrimus skiriantys ar juos užsakantys asmenys) apie teismo ekspertus, įrašytus į teismo ekspertų sąrašą, duomenys apie teismo ekspertus, įrašytus į teismo ekspertų sąrašą, skelbiami Teisingumo ministerijos interneto svetainėje.
+6. Atsižvelgiant į šio įstatymo 4 straipsnio 1 dalį ir siekiant informuoti ekspertinius tyrimus skiriančius teismus ar teisėjus, prokurorus ar ikiteisminio tyrimo įstaigos pareigūnus ar kitus įstatymų įgaliotus pareigūnus arba juos užsakančius fizinius ar juridinius asmenis (toliau − ekspertinius tyrimus skiriantys ar juos užsakantys asmenys) apie teismo ekspertus, įrašytus į teismo ekspertų sąrašą, duomenys apie teismo ekspertus, įrašytus į teismo ekspertų sąrašą, skelbiami Licencijų informacinėje sistemoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
 
 12 straipsnis. Išbraukimas iš teismo ekspertų sąrašo
 
@@ -303,7 +353,11 @@ Asmuo, siekiantis tapti teismo ekspertu, nelaikomas esąs nepriekaištingos repu
 
 3) garantuoti išsamų ir nešališką visų pateiktų duomenų ištyrimą;
 
-4) saugoti teismo ekspertizei pateiktus objektus. Už jų praradimą ar sugadinimą teismo ekspertas atsako proceso įstatymų, Lietuvos Respublikos baudžiamojo kodekso ir (ar) įstatymų, reguliuojančių drausminę ar tarnybinę atsakomybę, nustatyta tvarka;
+4) saugoti ekspertiniam tyrimui pateiktus objektus. Už jų praradimą ar sugadinimą teismo ekspertas atsako proceso įstatymų, Baudžiamojo kodekso, Lietuvos Respublikos darbo kodekso ir (ar) kitų įstatymų, reguliuojančių drausminę ar tarnybinę atsakomybę, nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
 
 5) saugoti valstybės, tarnybos, komercines ir profesines paslaptis, neskelbti ekspertinių tyrimų duomenų be ekspertinį tyrimą skyrusio ar jį užsakiusio asmens leidimo ar sutikimo. Be ekspertinį tyrimą užsakiusio fizinio ar juridinio asmens sutikimo ekspertinių tyrimų duomenys teikiami Teismo ekspertų veiklos koordinavimo tarybai, valstybės institucijoms, kurioms įstatymai suteikia teisę gauti tokią informaciją, taip pat kvalifikaciją suteikiančioms institucijoms jų funkcijoms atlikti.
 
@@ -317,7 +371,11 @@ Asmuo, siekiantis tapti teismo ekspertu, nelaikomas esąs nepriekaištingos repu
 
 1. Teismo ekspertas atsako už savo surašyto teismo ekspertizės akto pagrįstumą ir tikrumą.
 
-2. Už pareigų nevykdymą, melagingos išvados ir paaiškinimų pateikimą ar kitokį priesaikos sulaužymą teismo ekspertas, kuriam skiriama atlikti teismo ekspertizę, atsako pagal proceso įstatymus, Baudžiamąjį kodeksą ir (ar) įstatymus, reguliuojančius drausminę ar tarnybinę atsakomybę.
+2. Už pareigų nevykdymą, melagingos išvados ir paaiškinimų pateikimą ar kitokį priesaikos sulaužymą teismo ekspertas, kuriam skiriama atlikti teismo ekspertizę, atsako pagal proceso įstatymus, Baudžiamąjį kodeksą, Darbo kodeksą ir (ar) kitus įstatymus, reguliuojančius drausminę ar tarnybinę atsakomybę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
 
 18 straipsnis. Teismo ekspertizių apmokėjimas baudžiamosiose, civilinėse, administracinėse ir administracinių nusižengimų bylose
 
@@ -564,4 +622,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3028, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13466
 
 Lietuvos Respublikos teismo ekspertizės įstatymo Nr. IX-1161 pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3058, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19685
+
+Lietuvos Respublikos teismo ekspertizės įstatymo Nr. IX-1161 5, 7, 9, 10, 11, 15 ir 17 straipsnių pakeitimo įstatymas
 
