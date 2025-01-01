@@ -4,7 +4,7 @@ identifier: "TAR.C7A984833333"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2024-11-15"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2024-11-15 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-04-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
 
@@ -105,19 +105,43 @@ Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 24. Geležinkelių transporto eismas – geležinkelių riedmenų judėjimas geležinkelio keliais.
 
-25. Geležinkelių transporto eismo įvykis (toliau – eismo įvykis) – nepageidaujamas arba netyčinis netikėtas įvykis arba tam tikra tokių įvykių seka, sukeliantys mažesnio masto nei geležinkelių transporto katastrofa žalingus padarinius.
+25. Neteko galios nuo 2025-01-01
 
-26. Geležinkelių transporto eismo sauga (toliau – eismo sauga) – visuma geležinkelių transporto techninių ir organizacinių priemonių, skirtų užtikrinti, kad keleiviai, kiti geležinkelių transporto eismo dalyviai ir kiti asmenys, taip pat geležinkelių infrastruktūra, geležinkelių riedmenys ir vežami kroviniai bei bagažas būtų apsaugoti nuo geležinkelių transporto katastrofų, eismo įvykių, riktų ir jų padarinių.
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
+
+26. Geležinkelių transporto eismo sauga (toliau – eismo sauga) – visuma geležinkelių transporto techninių ir organizacinių priemonių, skirtų užtikrinti, kad keleiviai, kiti geležinkelių transporto eismo dalyviai ir kiti asmenys, taip pat geležinkelių infrastruktūra, geležinkelių riedmenys ir vežami kroviniai bei bagažas būtų apsaugoti nuo geležinkelių avarijų, incidentų ir jų padarinių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
 27. Geležinkelių transporto eismo saugos valdymo sistema (toliau – eismo saugos valdymo sistema) – geležinkelių infrastruktūros valdytojo ir (ar) geležinkelio įmonės (vežėjo) nustatytų priemonių ir procedūrų, kuriomis siekiama užtikrinti, kad šie asmenys veiklą vykdys saugiai, visuma.
 
-28. Geležinkelių transporto katastrofa (toliau – katastrofa) – traukinių susidūrimas ar traukinių nuriedėjimas nuo bėgių, dėl kurių žūsta bent vienas asmuo ar sunkiai sužalojami penki ar daugiau asmenų arba padaroma didelė žala (geležinkelių transporto katastrofos, eismo įvykio ar rikto saugos tyrimų vadovo iš karto įvertinta ne mažesne kaip 2 milijonų eurų suma) geležinkelių riedmenims, geležinkelių infrastruktūrai arba aplinkai, taip pat kitas tokias pačias pasekmes sukėlęs eismo įvykis, kurio poveikis eismo saugos kontrolei ar eismo saugos valdymui yra akivaizdus.
+28. Neteko galios nuo 2025-01-01
 
-29. Geležinkelių transporto katastrofos, eismo įvykio ar rikto tyrimas (toliau – saugos tyrimas) – po katastrofos, eismo įvykio ar rikto siekiant užkirsti kelią kitai katastrofai, eismo įvykiui ar riktui atliekama procedūra, apimanti informacijos apie katastrofą, eismo įvykį ar riktą rinkimą ir analizę, išvadų pateikimą ir įvertinimą, katastrofos, eismo įvykio ar rikto priežasčių nustatymą ir tam tikrais atvejais geležinkelių transporto saugos rekomendacijų pateikimą.
+Straipsnio dalies naikinimas:
 
-30. Geležinkelių transporto riktas (toliau – riktas) – nepageidaujamas arba netyčinis netikėtas įvykis, išskyrus katastrofas arba eismo įvykius, turintis arba galintis turėti neigiamą įtaką eismo saugos kontrolei ar eismo saugos valdymui.
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
-31. Geležinkelių transporto saugos rekomendacija (toliau – saugos rekomendacija) – Lietuvos Respublikos saugos tyrimų vadovo, kitos Europos Sąjungos valstybės narės saugos tyrimo įstaigos pasiūlymas, grindžiamas atlikus saugos tyrimą gauta informacija, saugos studijomis ar kitais šaltiniais.
+29. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
+
+30. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
+
+31. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
 32. Lietuvos Respublikos patikra – procedūra, kurią vykdydama paskirtoji įstaiga tikrina, ar struktūrinis geležinkelių posistemis atitinka geležinkelių posistemių techninių taisyklių reikalavimus, taikomus tam geležinkelių posistemiui.
 
@@ -165,11 +189,13 @@ Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 54. Veiklos vieta – geležinkelių tinklai, vienas tinklas ar jo dalis vienoje arba daugiau Europos Sąjungos valstybių narių, kuriose geležinkelio įmonė (vežėjas) vykdo ar ketina vykdyti veiklą.
 
-55. Šiame įstatyme vartojama sąvoka „specialieji geležinkelių riedmenys“ suprantama taip, kaip yra nustatyta 2014 m. lapkričio 18 d. Komisijos reglamente (ES) Nr. 1302/2014 dėl Europos Sąjungos geležinkelių sistemos posistemio „Lokomotyvai ir keleiviniai riedmenys“ techninės sąveikos specifikacijos su visais pakeitimais priedo 2.2.2 punkto c papunktyje. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos atitikties įvertinimo įstatyme, Lietuvos Respublikos korupcijos prevencijos įstatyme, Lietuvos Respublikos standartizacijos įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 765/2008, nustatančiame su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinančiame Reglamentą (EEB) Nr. 339/93, su visais pakeitimais, 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, su visais pakeitimais.
+55. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos atitikties vertinimo įstatyme, Lietuvos Respublikos korupcijos prevencijos įstatyme, Lietuvos Respublikos saugos tyrimų įstatyme, Lietuvos Respublikos standartizacijos įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 765/2008, nustatančiame akreditavimo reikalavimus ir panaikinančiame Reglamentą (EEB) Nr. 339/93, su visais pakeitimais ir 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, su visais pakeitimais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
 3 straipsnis. Eismo saugos užtikrinimo principai
 
@@ -203,7 +229,11 @@ Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 3. Geležinkelių sistema plečiama ir tobulinama taikant ta pačia veikla užsiimantiems asmenims vienodus eismo saugos reikalavimus.
 
-4. Eismo saugos užtikrinimas vykdomas siekiant nuolat gerinti eismo saugą, atsižvelgiant į Europos Sąjungos teisės aktų, tarptautinių sutarčių reikalavimus ir mokslo bei technikos vystymąsi ir teikiant pirmenybę katastrofų, eismo įvykių ir riktų prevencijai.
+4. Eismo saugos užtikrinimas vykdomas siekiant nuolat gerinti eismo saugą, atsižvelgiant į Europos Sąjungos teisės aktų, tarptautinių sutarčių reikalavimus ir mokslo bei technikos vystymąsi ir teikiant pirmenybę geležinkelių avarijų ir incidentų prevencijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
 5. Priemonės, kuriomis siekiama gerinti eismo saugą, nustatomos vadovaujantis sisteminiu požiūriu, atsižvelgiant į visos geležinkelių sistemos, o ne į vienos ar kelių jos dalių saugą.
 
@@ -249,7 +279,11 @@ Straipsnio punkto naikinimas:
 
 Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
-5) būtina numatyti skubias prevencines priemones geležinkelių eismo saugai ir sąveikumui užtikrinti (ypač jeigu poreikis nustatyti tokias priemones atsiranda dėl įvykusios katastrofos, eismo įvykio ar rikto);
+5) būtina numatyti skubias prevencines priemones geležinkelių eismo saugai ir sąveikumui užtikrinti (ypač jeigu poreikis nustatyti tokias priemones atsiranda dėl įvykusios geležinkelių avarijos ar incidento);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
 6) reikia patikslinti nacionalinę taisyklę, apie kurią pranešta šio straipsnio 4 dalyje nustatyta tvarka.
 
@@ -269,7 +303,11 @@ Eismo SAUGOS Valstybinis Valdymas IR eismo saugos reikalavimų ĮGYVENDINIMAS
 
 6 straipsnis. Eismo saugos valstybinis užtikrinimas ir įgyvendinimas
 
-1. Vykdydamos šiame įstatyme nustatytas funkcijas, eismo saugos valstybinį valdymą atlieka Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos susisiekimo ministerija, Lietuvos Respublikos sveikatos apsaugos ministerija ir Lietuvos Respublikos teisingumo ministerija.
+1. Vykdydamos šiame įstatyme nustatytas funkcijas, valstybinį eismo saugos valdymą atlieka Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos susisiekimo ministerija ir Lietuvos Respublikos sveikatos apsaugos ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
 2. Vyriausybė ar jos įgaliota institucija nustato bendrųjų eismo saugos tikslų įgyvendinimo priemones.
 
@@ -277,7 +315,11 @@ Eismo SAUGOS Valstybinis Valdymas IR eismo saugos reikalavimų ĮGYVENDINIMAS
 
 4. Lietuvos Respublikos sveikatos apsaugos ministras nustato traukinio mašinistų ir fizinių asmenų, kurių darbas tiesiogiai susijęs su geležinkelių transporto eismu, sveikatos reikalavimus ir patikrinimo tvarką, ligų, dėl kurių asmuo, pageidaujantis gauti ar turintis traukinio mašinisto pažymėjimą, ir asmuo, pageidaujantis dirbti ar dirbantis darbą, tiesiogiai susijusį su geležinkelių transporto eismu, negali saugiai atlikti pareigų, sąrašą (toliau – ligų sąrašas).
 
-5. Lietuvos Respublikos teisingumo ministras skiria saugos tyrimų vadovą (vadovus) ir nustato saugos tyrimų, šių tyrimų ataskaitų, saugos rekomendacijų rengimo ir teikimo tvarką.
+5. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
 6. Eismo saugos reikalavimus įgyvendina geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai), geležinkelių riedmenų techniniai prižiūrėtojai ir kiti asmenys, nurodyti šio įstatymo 3 straipsnio 1 dalyje, jų įgyvendinimo priežiūrą atlieka eismo saugos institucija.
 
@@ -1545,65 +1587,79 @@ TEISĖS VALDYTI GELEŽINKELIŲ RIEDMENIS SUTEIKIMAS
 
 VI SKYRIUS
 
-saugos tyrimas
+PAGALBA NUKENTĖJUSIESIEMS
 
-38 straipsnis. Saugos tyrimas
+38 straipsnis. Geležinkelio įmonių (vežėjų) pareiga teikti pagalbą įvykus sunkiai geležinkelių avarijai
 
-1. Saugos tyrimo tikslas – padidinti eismo saugą ir pagerinti katastrofų, eismo įvykių bei riktų prevenciją. Saugos tyrimas yra nepriklausomas nuo jokio ikiteisminio, teisminio ar administracinio proceso, kuriuo siekiama nustatyti, kas kaltas ar atsakingas, nėra su juo susijęs ir neturi jam poveikio. Saugos tyrimas nėra susijęs su kaltininkų ar atsakomybės nustatymu.
+Geležinkelio įmonės (vežėjai), įvykus sunkiai geležinkelių avarijai, privalo teikti nukentėjusiems asmenims ir jų šeimoms pagalbą, susijusią su skundų teikimo procedūromis pagal Europos Sąjungos teisės aktų reikalavimus, visų pirma pagal 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų su visais pakeitimais, nedarydamos poveikio kitų šalių pareigoms, taip pat psichologinę pagalbą.
 
-2. Geležinkelių infrastruktūroje įvykusių katastrofų, eismo įvykių ir riktų saugos tyrimus atlieka saugos tyrimų vadovas (vadovai).
+Skyriaus pakeitimai:
 
-3. Saugos tyrimų vadovas privalo atlikti katastrofos saugos tyrimą, taip pat gali imtis eismo įvykio ar rikto (įskaitant struktūrinių posistemių ar Europos Sąjungos geležinkelių sistemos sąveikos sudedamųjų dalių techninius gedimus) saugos tyrimo, kurie šiek tiek kitomis sąlygomis būtų galėję sukelti katastrofą. Priimdamas sprendimą tirti arba atsisakyti tirti eismo įvykį ar riktą, saugos tyrimų vadovas atsižvelgia į:
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
-1) eismo įvykio ar rikto rimtumą;
+VII SKYRIUS
 
-2) tai, ar jis yra eismo įvykių ar riktų sekos, susijusios su visa sistema, dalis;
+baigiamosios nuostatos
 
-3) eismo įvykio ar rikto poveikį eismo saugai;
+39 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
-4) geležinkelių infrastruktūros valdytojų, geležinkelio įmonių (vežėjų) eismo saugos institucijos ar Europos Sąjungos valstybių narių prašymus.
+Straipsnio numeracijos pakeitimas:
 
-4. Geležinkelių infrastruktūros valdytojai geležinkelio įmonės (vežėjai) ir eismo saugos institucija praneša saugos tyrimų vadovui apie geležinkelių infrastruktūroje įvykusius įvykius, kurie gali būti pripažinti katastrofa, eismo įvykiu ar riktu, ir pateikia visą turimą informaciją. Įvykių, įvykusių geležinkelių infrastruktūroje, klasifikavimą, pranešimų ir informacijos teikimo tvarką nustato susisiekimo ministras.
+Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
-5. Saugos tyrimų vadovas ne vėliau kaip per 2 mėnesius po to, kai buvo gautas pranešimas apie eismo įvykį arba riktą, nusprendžia, ar pradėti saugos tyrimą.
+Šį įstatymą pažeidę asmenys atsako Administracinių nusižengimų kodekso ir Lietuvos Respublikos baudžiamojo kodekso nustatyta tvarka.
 
-6. Atsiradus naujų svarbių faktų ar aplinkybių, kurie gali turėti įtakos eismo saugai, saugos tyrimų vadovas gali nuspręsti pradėti arba atnaujinti baigtą saugos tyrimą.
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-39 straipsnis. Saugos tyrimų vadovas
+RESPUBLIKOS PREZIDENTAS                                                            ROLANDAS PAKSAS
 
-1. Saugos tyrimų vadovas yra už saugos tyrimo organizavimą, vykdymą ir kontrolę atsakingas asmuo, kuris yra neatskaitingas Agentūrai, eismo saugos institucijai, geležinkelių infrastruktūros valdytojui, geležinkelio įmonei (vežėjui), atitikties įvertinimo įstaigoms, notifikuotosioms įstaigoms, paskirtosioms įstaigoms ir bet kuriam kitam asmeniui, kurio interesai gali nesutapti su saugos tyrimų vadovo uždaviniais, ir priima sprendimus nepriklausomai nuo šių subjektų.
+Lietuvos Respublikos
 
-2. Saugos tyrimų vadovo veiklai turi būti skiriama pakankamai finansinių išteklių, užtikrinančių nepriklausomą saugos tyrimų vadovo sprendimų priėmimą.
+geležinkelių transporto eismo
 
-3. Kiekvienam saugos tyrimui atlikti saugos tyrimo vadovas naudoja reikiamas priemones ir pasitelkia būtinas eksploatacines ir technines ekspertines žinias.
+saugos įstatymo
 
-4. Saugos tyrimų vadovas turi teisę:
+priedas
 
-1) nedelsdamas apžiūrėti katastrofos, eismo įvykio ar rikto vietą, geležinkelių riedmenis, geležinkelių infrastruktūrą, traukinių eismo valdymo, kontrolės ir signalizacijos prietaisus;
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-2) sudaryti įrodymų sąrašą ir apžiūros ar analizės tikslais paimti nuolaužas, infrastruktūros prietaisus ar komponentus;
+1. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva 2007/59/EB dėl traukinio mašinistų, valdančių lokomotyvus ir traukinius geležinkelių sistemoje Bendrijos teritorijoje, sertifikavimo su paskutiniais pakeitimais, padarytais 2019 m. balandžio 5 d. Europos Komisijos direktyva 2019/554/ES.
 
-3) neribotai apžiūrėti geležinkelių riedmenyse esančių įrašymo prietaisų bei aparatūros, naudojamų pranešimams žodžiu įrašyti ir signalizacijos ir eismo kontrolės sistemos veiklai registruoti, turinį ir jais naudotis;
+2. 2007 m. lapkričio 9 d. Europos Komisijos sprendimas 2007/756/EB, kuriuo priimama bendra nacionalinio geležinkelių riedmenų registro specifikacija, kaip numatyta Direktyvų 96/48/EB ir 2001/16/EB 14 straipsnio 4 ir 5 dalyse, su paskutiniais pakeitimais, padarytais 2018 m. spalio 25 d. Europos Komisijos įgyvendinimo sprendimu (ES) 2018/1614.
 
-4) gauti aukų kūnų apžiūros rezultatus;
+3. 2011 m. lapkričio 22 d. Europos Komisijos sprendimas Nr. 2011/765/ES dėl kriterijų, kuriais remiantis pripažįstami traukinių mašinistų mokymo centrai bei traukinių mašinistų egzaminuotojai ir organizuojami egzaminai pagal Europos Parlamento ir Tarybos direktyvą 2007/59/EB.
 
-5) gauti traukinio personalo ir kito geležinkelių personalo, patekusio į katastrofą, eismo įvykį arba riktą, apžiūros rezultatus;
+4. 2013 m. balandžio 30 d. Europos Komisijos įgyvendinimo reglamentas (ES) Nr. 402/2013, kuriuo nustatomas bendrasis saugos būdas, susijęs su pavojaus lygio nustatymu ir pavojaus vertinimu, ir panaikinamas Reglamentas (EB) Nr. 352/2009, su paskutiniais pakeitimais, padarytais 2015 m. liepos 13 d. Europos Komisijos įgyvendinimo reglamentu (ES) 2015/1136.
 
-6) apklausti į katastrofą, eismo įvykį arba riktą patekusius geležinkelių transporto darbuotojus ir kitus liudytojus;
+5. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/797 dėl geležinkelių sistemos sąveikos Europos Sąjungoje su paskutiniais pakeitimais, padarytais 2020 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/700.
 
-7) gauti geležinkelių infrastruktūros valdytojo, geležinkelio įmonių (vežėjų), techninių prižiūrėtojų, kitų asmenų, susijusių su katastrofa, eismo įvykiu ar riktu, ir eismo saugos institucijos turimą informaciją ar įrašus, susijusius su katastrofa, eismo įvykiu ar riktu;
+6. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos su paskutiniais pakeitimais, padarytais 2020 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/700.
 
-8) kreiptis į kompetentingas institucijas ar ekspertus ir specialistus ir, jeigu reikia, sudaryti sutartis dėl šių asmenų paslaugų teikimo;
+7. 2018 m. balandžio 4 d. Europos Komisijos įgyvendinimo reglamentas (ES) 2018/545, kuriuo nustatomos geležinkelių transporto priemonių patvirtinimo ir geležinkelių transporto priemonių tipų patvirtinimo pagal Europos Parlamento ir Tarybos direktyvą (ES) 2016/797 praktinės priemonės, su paskutiniais pakeitimais, padarytais 2020 m. birželio 12 d. Europos Komisijos įgyvendinimo reglamentu (ES) 2020/781.
 
-9) jeigu tai nekelia pavojaus saugos tyrimų vadovo nepriklausomumui, prašyti kitų Europos Sąjungos valstybių narių saugos tyrimo įstaigų ar Agentūros suteikti ekspertinių žinių ir (ar) atlikti technines apžiūras, analizes ar vertinimus;
+8. 2019 m. gegužės 16 d. Europos Komisijos įgyvendinimo reglamentas (ES) 2019/779, kuriuo pagal Europos Parlamento ir Tarybos direktyvą (ES) 2016/798 nustatomos išsamios už transporto priemonių techninę priežiūrą atsakingų subjektų sertifikavimo sistemos nuostatos ir panaikinamas Europos Komisijos reglamentas (ES) Nr. 445/2011, su paskutiniais pakeitimais, padarytais 2020 m. birželio 12 d. Komisijos įgyvendinimo reglamentu (ES) 2020/780.
 
-10) rengti ir teikti saugos rekomendacijas.
+Pakeitimai:
 
-5. Saugos tyrimų vadovas privalo:
+1.
 
-1) apžiūrėti katastrofos, eismo įvykio ar rikto vietą per trumpiausią galimą laikotarpį, kad suteiktų geležinkelių infrastruktūros valdytojui galimybę atkurti geležinkelių infrastruktūrą ir kuo greičiau ją atidaryti vežimo geležinkelių transportu paslaugoms teikti;
+Lietuvos Respublikos Seimas, Įstatymas
 
-2) parengti saugos tyrimo ataskaitą, vadovaudamasis 2020 m. balandžio 24 d. Europos Komisijos įgyvendinimo reglamentu (ES) 2020/572 dėl geležinkelių avarijų ir riktų tyrimo ataskaitų struktūros.
+Nr. X-542, 2006-03-30, Žin., 2006, Nr. 42-1505 (2006-04-15)
+
+GELEŽINKELIŲ TRANSPORTO EISMO SAUGOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija nuo 2006 m. gegužės 1 d.
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-642, 2010-01-14, Žin., 2010, Nr. 12-557 (2010-01-30)
+
+GELEŽINKELIŲ TRANSPORTO EISMO SAUGOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo 5 straipsnio 3 dalies 2, 3 ir 6 punktai, 6 straipsnio 3 dalies 5, 11 ir 12 punktai, 9 straipsnio 5 dalis, 11 straipsnio 2 dalis, 15 straipsnio 1 dalis ir 22 straipsnio 4 dalis įsigalioja nuo 2010 m. liepos 1 d.
 
 40 straipsnis. Saugos tyrimų koordinavimas ir bendradarbiavimas
 
