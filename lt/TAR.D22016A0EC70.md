@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -586,7 +586,13 @@ ANTRASIS SKIRSNIS
 
 2) naudoti pakrantės apsaugos juostas veiklai, susijusiai su žvejyba, pagal žemės servitutus;
 
-3) gauti nuostolių atlyginimą, jeigu galimybės žvejoti netenkama (taip pat ir terminuotai) dėl valdžios institucijų, valstybės ar savivaldybės įmonių ar įstaigų ūkinės veiklos, taip pat ir dėl atliekamos jų užsakymu, išskyrus atvejus, kai galimybės žvejoti netenkama dėl nustatytų žvejybos reglamentavimo priemonių.
+3) gauti nuostolių atlyginimą, jeigu galimybės žvejoti netenkama (taip pat ir terminuotai) dėl valstybės ar savivaldybių institucijų ar įstaigų, valstybės ar savivaldybės valdomų įmonių ūkinės veiklos, taip pat ir dėl veiklos, atliekamos jų užsakymu, išskyrus atvejus, kai galimybės žvejoti netenkama dėl nustatytų žvejybos reglamentavimo priemonių.
+
+TAR pastaba. Valstybės ar savivaldybės valdomos įmonės, kurios iki 2024 m. gruodžio 31 d. buvo pertvarkytos iš valstybės įmonės ar savivaldybės įmonės į akcinę bendrovę ar uždarąją akcinę bendrovę, žemės ūkio ministro nustatyta tvarka kompensuoja nuo jų teisinės formos pakeitimo iki 2024 m. gruodžio 31 d. žuvų išteklių naudotojų nuostolius, patirtus dėl galimybės žvejoti netekimo (taip pat ir terminuotai) dėl šių įmonių ūkinės veiklos, taip pat ir dėl veiklos, atliekamos ar atliktos jų užsakymu.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-39, 2024-12-05, paskelbta TAR 2024-12-18, i. k. 2024-22441
 
 2. Patirtų nuostolių apskaičiavimo tvarką ir įkainius jūrų vandenyse nustato Žemės ūkio ministerija, vidaus vandenyse – Aplinkos ministerija.
 
@@ -2555,6 +2561,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1963, 2023-05-18, paskelbta TAR 2023-05-31, i. k. 2023-10700
 
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 6, 14, 14-1, 14-3, 14-4, 15 ir 20 straipsnių pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-39, 2024-12-05, paskelbta TAR 2024-12-18, i. k. 2024-22441
+
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 7 straipsnio pakeitimo įstatymas
 
 141 straipsnis. Teisės į žvejybos kvotą suteikimas
 
