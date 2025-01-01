@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2024-11-02"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-11-02 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -371,6 +371,12 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 39. Pastato energinio naudingumo sertifikavimas – teisės aktų reglamentuota procedūra, apimanti pastato energijos suvartojimo nustatymą, pastato energinio naudingumo įvertinamą ir priskyrimą prie energinio naudingumo klasės, taip pat pastato energinio naudingumo sertifikato išdavimą.
 
 40. Pastato energinis naudingumas – apskaičiuotas arba išmatuotas energijos kiekis, reikalingas patenkinti su įprastu pastato naudojimu siejamą energijos poreikį, įskaitant energiją pastato šildymo, vėsinimo, vėdinimo, karšto vandens ir pastato apšvietimo reikmėms;
+
+401. Pastatų duomenų banko informacinė sistema – valstybės informacinė sistema, skirta duomenims apie pastatus, jų naudojimą, techninę priežiūrą, naudojimo priežiūrą, pastatų bendrojo naudojimo objektus, šių objektų valdymą ir valdymo priežiūrą tvarkyti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2994, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17764
 
 41. Patalpa – sienomis ir kitomis atitvaromis apribota statinio erdvė.
 
