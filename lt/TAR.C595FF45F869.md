@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2024-10-04"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2024-10-04 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-08-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -1475,6 +1475,22 @@ Nr. XIV-2986, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17426
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 10 straipsnio pakeitimo įstatymas
 
+71.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2586, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08306
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 13 straipsnio pakeitimo įstatymas
+
+72.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-86, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23081
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -2403,41 +2419,49 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 42 straipsnis. Leidimas vykdyti studijas ir su studijomis susijusią veiklą
 
-1. Leidimas vykdyti studijas ir su studijomis susijusią veiklą išduodamas, patikslinamas ir panaikinimas Vyriausybės nustatyta tvarka. Leidimas vykdyti studijas ir su studijomis susijusią veiklą išduodamas neterminuotam laikui. Leidimas vykdyti studijas ir su studijomis susijusią veiklą išduodamas, jeigu aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas atitinka šiuos reikalavimus:
+1. Leidimas vykdyti studijas ir su studijomis susijusią veiklą išduodamas, patikslinamas ir panaikinamas Vyriausybės nustatyta tvarka. Leidimas vykdyti studijas ir su studijomis susijusią veiklą išduodamas neterminuotam laikui. Leidimas vykdyti studijas ir su studijomis susijusią veiklą išduodamas, jeigu aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas atitinka visus šiuos reikalavimus:
 
-1) Lietuvos Respublikos valstybės saugumo departamentas (toliau – Valstybės saugumo departamentas) nustato, kad numatoma aukštosios mokyklos ar užsienio valstybės aukštosios mokyklos filialo veikla nekelia grėsmės nacionaliniam saugumui;
+1) Lietuvos Respublikos valstybės saugumo departamentas nustato, kad numatoma aukštosios mokyklos ar užsienio valstybės aukštosios mokyklos filialo veikla nekelia grėsmės nacionaliniam saugumui;
 
 2) aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas įsipareigoja pradėti įgyvendinti ne mažiau kaip 3 studijų krypčių (universitetui) arba 2 studijų krypčių (kolegijai) studijas per 12 mėnesių nuo leidimo vykdyti studijas ir su studijomis susijusią veiklą išdavimo dienos ir ne mažiau kaip pusę studijų programų įgyvendinti Lietuvos Respublikos teritorijoje;
 
-3) Studijų kokybės vertinimo centras nustato, kad materialinė bazė, kvalifikuotas personalas yra tinkami planuojamoms studijų programoms, mokslinei ir (arba) meno veiklai įgyvendinti bei aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas atitinka kitas šiame įstatyme nustatytas sąlygas, būtinas planuojamų studijų programų, mokslinės ir (arba) meno veiklos kokybei, taip pat teikiamų aukštojo mokslo kvalifikacijų atitikčiai reikalavimams užtikrinti.
+3) Studijų kokybės vertinimo centras, atsižvelgdamas į ekspertinio vertinimo metu pateiktas išvadas, nustato, kad materialinė bazė, kvalifikuotas personalas atitinka šio įstatymo nustatytus planuojamoms studijų programoms, mokslinei ir (arba) meno veiklai įgyvendinti būtinus reikalavimus, taip pat kad aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas atitinka kitas šiame įstatyme nustatytas sąlygas, būtinas planuojamų studijų programų, mokslinės ir (arba) meno veiklos kokybei, taip pat teikiamų aukštojo mokslo kvalifikacijų atitikčiai reikalavimams užtikrinti.
 
-2. Aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas, siekdami gauti leidimą vykdyti studijas ir su studijomis susijusią veiklą Švietimo ir mokslo ministerijai pateikia atitiktį šio straipsnio 1 dalies 2 punkte nustatytiems reikalavimams pagrindžiančius dokumentus. Jeigu pareiškėjas pateikia ne visus numatytus dokumentus, per 3 darbo dienas nuo dokumentų gavimo dienos administracinė procedūra yra sustabdoma ir nustatomas ne ilgesnis kaip 20 darbo dienų terminas trūkumams pašalinti. Jeigu aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas nustatytu laiku trūkumų nepašalina, administracinė procedūra nutraukiama.
+2. Aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas, siekdami gauti leidimą vykdyti studijas ir su studijomis susijusią veiklą, Švietimo, mokslo ir sporto ministerijai pateikia atitiktį šio straipsnio 1 dalies 2 punkte nustatytiems reikalavimams pagrindžiančius dokumentus. Jeigu pareiškėjas pateikia ne visus numatytus dokumentus, per 3 darbo dienas nuo dokumentų gavimo dienos dokumentų nagrinėjimas yra sustabdomas ir nustatomas ne ilgesnis kaip 20 darbo dienų terminas trūkumams pašalinti. Jeigu aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas nustatytu laiku trūkumų nepašalina, administracinė procedūra nutraukiama.
 
-3. Švietimo ir mokslo ministerija ne vėliau kaip per 7 mėnesius nuo dokumentų (patikslintų dokumentų) gavimo dienos, atsižvelgdama į Valstybės saugumo departamento ir į Studijų kokybės vertinimo centro išvadas, priima sprendimą dėl leidimo išdavimo arba neišdavimo ir apie priimtą sprendimą praneša Juridinių asmenų registrui ir pareiškėjui. Jeigu priimamas sprendimas neišduoti leidimo vykdyti studijas ir su studijomis susijusią veiklą, pareiškėjui nurodomos leidimo neišdavimo priežastys.
+3. Švietimo, mokslo ir sporto ministras ne vėliau kaip per 7 mėnesius nuo šio straipsnio 2 dalyje nurodytų dokumentų (patikslintų dokumentų) gavimo dienos, atsižvelgdamas į Valstybės saugumo departamento ir į Studijų kokybės vertinimo centro išvadas, priima sprendimą dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą išdavimo arba neišdavimo. Jeigu priimamas sprendimas neišduoti leidimo vykdyti studijas ir su studijomis susijusią veiklą, pareiškėjui nurodomos leidimo neišdavimo priežastys. Jeigu į tinkamai įformintą prašymą dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą išdavimo, pateiktą kartu su visais leidimui išduoti reikalingais dokumentais ir informacija, neatsakoma per šioje dalyje nurodytą terminą, laikoma, kad leidimas nėra išduotas.
 
-4. Aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas, siekiantis gauti leidimą vykdyti studijas ir su studijomis susijusią veiklą, neturi pateikti dokumentų, kuriuos jis jau yra pateikęs Švietimo ir mokslo ministerijai, išskyrus atvejus, kai Švietimo ir mokslo ministerijai pateikti duomenys ir (ar) informacija, pateikta dokumentuose, yra pasikeitę.
-
-5. Švietimo ir mokslo ministras priima sprendimą neišduoti leidimo vykdyti studijas ir su studijomis susijusią veiklą, jeigu paaiškėja, kad:
+4. Švietimo, mokslo ir sporto ministras priima sprendimą neišduoti leidimo vykdyti studijas ir su studijomis susijusią veiklą, kai paaiškėja, kad:
 
 1) aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas Lietuvos Respublikoje neatitinka bent vieno reikalavimo, nurodyto šio straipsnio 1 dalyje;
 
-2) pateikti dokumentai leidimui vykdyti studijas ir su studijomis susijusią veiklą buvo gauti apgaulės būdu ar pažeidus įstatymus;
+2) pateikti dokumentai leidimui vykdyti studijas ir su studijomis susijusią veiklą neatitinka tikrovės ar buvo gauti pažeidus įstatymus;
 
 3) aukštoji mokykla arba užsienio valstybės aukštosios mokyklos filialas verčiasi įstatymų draudžiama veikla.
 
-6. Gavusi leidimą vykdyti studijas ir su studijomis susijusią veiklą, aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas Švietimo ir mokslo ministerijai šio įstatymo ir kitų teisės aktų nustatyta tvarka privalo teikti ir leisti tikrinti informaciją, susijusią su išduotu leidimu vykdyti studijas ir su studijomis susijusią veiklą.
+5. Gavusi leidimą vykdyti studijas ir su studijomis susijusią veiklą, aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas Švietimo, mokslo ir sporto ministerijai šio įstatymo ir kitų teisės aktų nustatyta tvarka privalo teikti ir leisti tikrinti informaciją, susijusią su išduotu leidimu vykdyti studijas ir su studijomis susijusią veiklą.
 
-7. Pasikeitus leidime vykdyti studijas ir su studijomis susijusią veiklą nurodytiems duomenims, aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas per 5 darbo dienas nuo duomenų pasikeitimo informuoja Švietimo ir mokslo ministeriją, kuri per 5 darbo dienas nuo kreipimosi gavimo dienos išduoda patikslintą leidimą.
+6. Pasikeitus leidime vykdyti studijas ir su studijomis susijusią veiklą nurodytiems duomenims, išskyrus duomenis, esančius Juridinių asmenų registre, aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas per 5 darbo dienas nuo duomenų pasikeitimo dienos informuoja Švietimo, mokslo ir sporto ministeriją, kuri per 5 darbo dienas nuo kreipimosi arba informacijos iš Juridinių asmenų registro gavimo dienos išduoda patikslintą leidimą.
 
-8. Leidimą gavusi institucija Lietuvos Respublikoje įgyja teisę vykdyti studijas ir su studijomis susijusią veiklą nuo sprendimo dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą išdavimo paskelbimo Teisės aktų registre.
+7. Leidimą gavusi institucija Lietuvos Respublikoje įgyja teisę vykdyti studijas ir su studijomis susijusią veiklą nuo sprendimo dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą išdavimo paskelbimo Teisės aktų registre dienos.
 
-9. Informacija ir dokumentai, susiję su leidimo vykdyti studijas ir su studijomis susijusią veiklą išdavimu, patikslinimu, atsisakymu jį išduoti ar jo panaikinimu (išskyrus konfidencialią informaciją, dokumentus ar jų dalį), skelbiami Švietimo ir mokslo ministerijos interneto svetainėje.
+Straipsnio pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 43 straipsnis. Leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimas
 
-1. Švietimo ir mokslo ministras panaikina leidimą vykdyti studijas ir su studijomis susijusią veiklą, jeigu paaiškėja bent viena iš šių aplinkybių:
+1. Švietimo, mokslo ir sporto ministras panaikina leidimą vykdyti studijas ir su studijomis susijusią veiklą, kai paaiškėja bent viena iš šių aplinkybių:
 
-1) leidimas vykdyti studijas ir su studijomis susijusią veiklą buvo gautas apgaulės būdu ar pažeidus įstatymus;
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
+
+1) leidimas vykdyti studijas ir su studijomis susijusią veiklą buvo gautas pažeidus įstatymus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 2) aukštoji mokykla arba užsienio valstybės aukštosios mokyklos filialas nepradėjo vykdyti studijų ir (arba) su studijomis susijusios veiklos per 12 mėnesių nuo leidimo vykdyti studijas ir (arba) su studijomis susijusią veiklą išdavimo dienos;
 
@@ -2453,13 +2477,17 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 8) aukštoji mokykla yra likviduojama.
 
-2. Švietimo ir mokslo ministras per 20 darbo dienų nuo šio straipsnio 1 dalyje nurodytų aplinkybių paaiškėjimo dienos priima sprendimą panaikinti leidimą vykdyti studijas ir su studijomis susijusią veiklą ir apie tai praneša Juridinių asmenų registrui ir aukštajai mokyklai arba užsienio valstybės aukštosios mokyklos filialui. Sprendimas dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo įsigalioja nuo jo paskelbimo Teisės aktų registre, jeigu pačiame įsakyme dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo nenumatyta vėlesnė įsigaliojimo data.
+2. Švietimo, mokslo ir sporto ministras per 20 darbo dienų nuo šio straipsnio 1 dalyje nurodytų aplinkybių paaiškėjimo dienos priima sprendimą panaikinti leidimą vykdyti studijas ir su studijomis susijusią veiklą. Sprendimas dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo įsigalioja nuo jo paskelbimo Teisės aktų registre dienos, jeigu pačiame įsakyme dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo nenumatyta vėlesnė jo įsigaliojimo data.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 3. Panaikinus leidimą vykdyti studijas ir su studijomis susijusią veiklą, leidimą gavusi aukštoji mokykla arba užsienio valstybės aukštosios mokyklos filialas praranda teisę vykdyti studijas ir su studijomis susijusią veiklą nuo sprendimo dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo įsigaliojimo dienos.
 
 44 straipsnis. Leidimas vykdyti su studijomis susijusią veiklą
 
-1. Leidimas vykdyti su studijomis susijusią veiklą išduodamas, patikslinamas ir panaikinimas Vyriausybės nustatyta tvarka. Leidimas vykdyti su studijomis susijusią veiklą išduodamas neterminuotam laikui. Leidimas vykdyti su studijomis susijusią veiklą išduodamas, jeigu šio įstatymo 41 straipsnio 2 dalyje nurodytas subjektas atitinka šiuos reikalavimus:
+1. Leidimas vykdyti su studijomis susijusią veiklą išduodamas, patikslinamas ir panaikinamas Vyriausybės nustatyta tvarka. Leidimas vykdyti su studijomis susijusią veiklą išduodamas neterminuotam laikui. Leidimas vykdyti su studijomis susijusią veiklą išduodamas, jeigu šio įstatymo 41 straipsnio 2 dalyje nurodytas subjektas atitinka šiuos reikalavimus:
 
 1) Valstybės saugumo departamentas nustato, kad numatoma šio įstatymo 41 straipsnio 2 dalyje nurodyto subjekto veikla nekelia grėsmės nacionaliniam saugumui;
 
@@ -2469,37 +2497,37 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 4) užsienio valstybės kompetentinga institucija, kurios jurisdikcijai priklauso užsienio valstybės aukštoji mokykla, neprieštarauja, kad šio įstatymo 41 straipsnio 2 dalyje nurodytas subjektas vykdytų su studijomis susijusią veiklą Lietuvos Respublikoje.
 
-2. Šio įstatymo 41 straipsnio 2 dalyje nurodyti subjektai, siekdami gauti leidimą vykdyti su studijomis susijusią veiklą, Švietimo ir mokslo ministerijai pateikia atitiktį šio straipsnio 1 dalies 2, 3 ir 4 punktuose nustatytiems reikalavimams pagrindžiančius dokumentus. Jeigu pareiškėjas pateikia ne visus numatytus dokumentus, per 3 darbo dienas nuo dokumentų gavimo dienos administracinė procedūra yra sustabdoma ir nustatomas ne ilgesnis kaip 20 darbo dienų terminas trūkumams pašalinti. Jeigu subjektas nustatytu laiku trūkumų nepašalina, administracinė procedūra nutraukiama.
+2. Šio įstatymo 41 straipsnio 2 dalyje nurodyti subjektai, siekdami gauti leidimą vykdyti su studijomis susijusią veiklą, Švietimo, mokslo ir sporto ministerijai pateikia atitiktį šio straipsnio 1 dalies 2, 3 ir 4 punktuose nustatytiems reikalavimams pagrindžiančius dokumentus. Jeigu pareiškėjas pateikia ne visus numatytus dokumentus, per 3 darbo dienas nuo dokumentų gavimo dienos dokumentų nagrinėjimas yra sustabdomas ir nustatomas ne ilgesnis kaip 20 darbo dienų terminas trūkumams pašalinti. Jeigu subjektas nustatytu laiku trūkumų nepašalina, administracinė procedūra nutraukiama.
 
-3. Švietimo ir mokslo ministras, atsižvelgdamas į Valstybės saugumo departamento išvadą, ne vėliau kaip per 2 mėnesius nuo dokumentų (patikslintų dokumentų) gavimo dienos priima sprendimą dėl leidimo išdavimo arba neišdavimo ir apie priimtą sprendimą praneša Juridinių asmenų registrui ir pareiškėjui. Jeigu priimamas sprendimas neišduoti leidimo vykdyti su studijomis susijusią veiklą, pareiškėjui nurodomos leidimo neišdavimo priežastys.
+3. Švietimo, mokslo ir sporto ministras, atsižvelgdamas į Valstybės saugumo departamento išvadą, ne vėliau kaip per 2 mėnesius nuo šio straipsnio 2 dalyje nurodytų dokumentų (patikslintų dokumentų) gavimo dienos priima sprendimą dėl leidimo vykdyti su studijomis susijusią veiklą išdavimo arba neišdavimo. Jeigu priimamas sprendimas neišduoti leidimo vykdyti su studijomis susijusią veiklą, pareiškėjui nurodomos leidimo neišdavimo priežastys. Jeigu į tinkamai įformintą prašymą dėl leidimo vykdyti su studijomis susijusią veiklą išdavimo, pateiktą kartu su visais leidimui išduoti reikalingais dokumentais ir informacija, neatsakoma per šioje dalyje nustatytą terminą, laikoma, kad leidimas nėra išduotas.
 
-4. Šio įstatymo 41 straipsnio 2 dalyje nurodyti subjektai, siekiantys gauti leidimą vykdyti su studijomis susijusią veiklą, neturi pateikti dokumentų, kuriuos jie jau yra pateikę Švietimo ir mokslo ministerijai, išskyrus atvejus, kai Švietimo ir mokslo ministerijai pateikti duomenys ir (ar) informacija, pateikta dokumentuose, yra pasikeitusi.
+4. Švietimo, mokslo ir sporto ministras neišduoda leidimo vykdyti su studijomis susijusią veiklą, kai paaiškėja, kad:
 
-5. Švietimo ir mokslo ministras neišduoda leidimo vykdyti su studijomis susijusią veiklą, jeigu paaiškėja, kad:
+1) šio įstatymo 41 straipsnio 2 dalyje nurodyti subjektai neatitinka bent vieno šio straipsnio 1 dalyje nurodyto reikalavimo;
 
-1) šio įstatymo 41 straipsnio 2 dalyje nurodyti subjektai neatitinka bent vieno reikalavimo, nurodyto šio straipsnio 1 dalyje;
-
-2) pateikti dokumentai leidimui vykdyti su studijomis susijusią veiklą buvo gauti apgaulės būdu ar pažeidus įstatymus;
+2) dokumentai leidimui vykdyti su studijomis susijusią veiklą neatitinka tikrovės ar kompetentingoms institucijoms įstatymų nustatyta tvarka konstatavus, kad leidimui pateikti dokumentai buvo gauti pažeidus įstatymus;
 
 3) šio įstatymo 41 straipsnio 2 dalyje nurodytas subjektas verčiasi įstatymų draudžiama veikla.
 
-6. Gavę leidimą vykdyti su studijomis susijusią veiklą, šio įstatymo 41 straipsnio 2 dalyje nurodyti subjektai Švietimo ir mokslo ministerijai šio įstatymo ir kitų teisės aktų nustatyta tvarka privalo teikti ir leisti tikrinti informaciją, susijusią su išduotu leidimu vykdyti su studijomis susijusią veiklą.
+5. Gavę leidimą vykdyti su studijomis susijusią veiklą, šio įstatymo 41 straipsnio 2 dalyje nurodyti subjektai Švietimo, mokslo ir sporto ministerijai šio įstatymo ir kitų teisės aktų nustatyta tvarka privalo teikti ir leisti tikrinti informaciją, susijusią su išduotu leidimu vykdyti su studijomis susijusią veiklą.
 
-7. Švietimo ir mokslo ministras panaikina leidimą vykdyti su studijomis susijusią veiklą paaiškėjus bent vienai iš šių aplinkybių:
+6. Švietimo, mokslo ir sporto ministras panaikina leidimą vykdyti su studijomis susijusią veiklą paaiškėjus bent vienai iš šių aplinkybių:
 
-1) leidimas vykdyti su studijomis susijusią veiklą buvo gautas apgaulės būdu ar pažeidus įstatymus;
+1) leidimas vykdyti su studijomis susijusią veiklą buvo gautas pažeidus įstatymus;
 
 2) leidimą gavęs subjektas verčiasi įstatymų draudžiama veikla arba nevykdo su studijomis susijusios veiklos daugiau kaip 12 mėnesių;
 
 3) šio įstatymo 41 straipsnio 2 dalyje nurodyti subjektai yra likviduojami arba yra išregistruoti iš Juridinių asmenų registro.
 
-8. Švietimo ir mokslo ministras per 20 darbo dienų nuo šio straipsnio 7 dalyje nurodytų aplinkybių paaiškėjimo dienos priima sprendimą panaikinti leidimą vykdyti su studijomis susijusią veiklą ir apie tai praneša Juridinių asmenų registrui ir leidimą turinčiam subjektui. Sprendimas dėl leidimo vykdyti su studijomis susijusią veiklą panaikinimo įsigalioja nuo jo paskelbimo Teisės aktų registre, jeigu pačiame įsakyme nenumatyta vėlesnė įsigaliojimo data.
+7. Švietimo, mokslo ir sporto ministras per 20 darbo dienų nuo šio straipsnio 6 dalyje nurodytų aplinkybių paaiškėjimo dienos priima sprendimą panaikinti leidimą vykdyti su studijomis susijusią veiklą. Sprendimas dėl leidimo vykdyti su studijomis susijusią veiklą panaikinimo įsigalioja nuo jo paskelbimo Teisės aktų registre dienos, jeigu pačiame įsakyme nenumatyta vėlesnė įsigaliojimo data.
 
-9. Šio įstatymo 41 straipsnio 2 dalyje nurodytas subjektas įgyja teisę vykdyti su studijomis susijusią veiklą nuo sprendimo dėl leidimo vykdyti su studijomis susijusią veiklą išdavimo paskelbimo Teisės aktų registre. Panaikinus leidimą vykdyti su studijomis susijusią veiklą, leidimą gavęs subjektas Lietuvos Respublikoje praranda teisę vykdyti su studijomis susijusią veiklą nuo sprendimo dėl leidimo vykdyti su studijomis susijusią veiklą panaikinimo įsigaliojimo dienos.
+8. Šio įstatymo 41 straipsnio 2 dalyje nurodytas subjektas įgyja teisę vykdyti su studijomis susijusią veiklą nuo sprendimo dėl leidimo vykdyti su studijomis susijusią veiklą išdavimo paskelbimo Teisės aktų registre dienos. Panaikinus leidimą vykdyti su studijomis susijusią veiklą, leidimą gavęs subjektas Lietuvos Respublikoje praranda teisę vykdyti su studijomis susijusią veiklą nuo sprendimo dėl leidimo vykdyti su studijomis susijusią veiklą panaikinimo įsigaliojimo dienos.
 
-10. Pasikeitus duomenims, kurie nurodyti leidime vykdyti su studijomis susijusią veiklą, šio įstatymo 41 straipsnio 2 dalyje nurodyti subjektai per 5 darbo dienas nuo duomenų pasikeitimo informuoja Švietimo ir mokslo ministeriją, o Švietimo ir mokslo ministerija per 5 darbo dienas nuo kreipimosi gavimo dienos išduoda patikslintą leidimą.
+9. Pasikeitus leidime vykdyti su studijomis susijusią veiklą nurodytiems duomenims, išskyrus duomenis, esančius Juridinių asmenų registre, šio įstatymo 41 straipsnio 2 dalyje nurodyti subjektai per 5 darbo dienas nuo duomenų pasikeitimo dienos informuoja Švietimo, mokslo ir sporto ministeriją, o Švietimo, mokslo ir sporto ministerija per 5 darbo dienas nuo kreipimosi arba informacijos iš Juridinių asmenų registro gavimo dienos išduoda patikslintą leidimą šio įstatymo 41 straipsnio 2 dalyje nurodytam subjektui.
 
-11. Informacija ir dokumentai, susiję su leidimo vykdyti su studijomis susijusią veiklą išdavimu, patikslinimu, atsisakymu jį išduoti ar jo panaikinimu (išskyrus konfidencialią informaciją, dokumentus ar jų dalį), skelbiami Švietimo ir mokslo ministerijos interneto svetainėje.
+Straipsnio pakeitimai:
+
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 V SKYRIUS
 
@@ -2619,16 +2647,6 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
-3. Asmenims, baigusiems trumposios pakopos studijas, suteikiama kvalifikacija, suteikianti teisę užsiimti profesine veikla ir (arba) tęsti studijas aukštojoje mokykloje.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
-
 4. Asmenims, baigusiems pirmosios pakopos kolegines studijas, suteikiamas profesinio bakalauro, baigusiems universitetines studijas – bakalauro kvalifikaciniai laipsniai, suteikiantys teisę užsiimti profesine veikla ir (arba) tęsti studijas magistrantūroje.
 
 Straipsnio dalies numeracijos pakeitimas:
@@ -2670,16 +2688,6 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
-
-11. Suteikiamų kvalifikacijų ir studijų krypčių, kuriose gali būti vykdomos trumposios studijos, sąrašą tvirtina švietimo, mokslo ir sporto ministras, įvertinęs Lietuvos kolegijų direktorių konferencijos ir sektorinių profesinių komitetų, kaip jie suprantami Profesinio mokymo įstatyme, siūlymus.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-3415, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24584
 
 12. Profesinės studijos yra medicinos, odontologijos, veterinarinės medicinos studijų krypčių rezidentūra, taip pat kitų Vyriausybės nustatytų krypčių studijos.
 
@@ -3405,7 +3413,11 @@ Nr. XIII-3269, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15545
 
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
-2. Darbo apmokėjimo sistema nustatoma kolektyvinėje sutartyje ir (ar) institutų vidaus ar darbo tvarkos taisyklėse. Darbo apmokėjimo sistemoje, atsižvelgiant į šio straipsnio nuostatas, detalizuojami kriterijai (atliekamų užduočių, mokslinių tyrimų lygis ir sudėtingumas, atsakomybės lygis, vykdomų projektų ar užsakymų specifika, pobūdis, rezultatų svarba šalies, visuomenės gerovei ar ūkio plėtrai, specifinių žinių ar įgūdžių, svarbių einamoms pareigoms, turėjimas ir panašiai), kuriais remiantis nustatomi konkretūs instituto darbuotojų pareiginės algos koeficientai, jiems skiriami priedai, priemokos, taip pat nustatoma priedų, priemokų ir premijų mokėjimo tvarka ir sąlygos. Pareiginės algos koeficientus pareigybėms, priedus, priemokas ir premijas darbuotojams, vadovaudamasis šiuo straipsniu ir institute galiojančia darbo apmokėjimo sistema, nustato instituto direktorius arba jo įgaliotas asmuo. Pareiginės algos koeficientai pareigybėms, priedai, priemokos ir premijos darbuotojams nustatomi neviršijant institutui atitinkamų metų programų sąmatose patvirtintų lėšų darbo užmokesčiui.
+2. Darbo apmokėjimo sistema nustatoma kolektyvinėje sutartyje. Jeigu kolektyvinės sutarties nėra, darbo apmokėjimo sistemą nustato instituto direktorius ir paskelbia viešai instituto interneto svetainėje. Darbo apmokėjimo sistemoje, atsižvelgiant į šio straipsnio nuostatas, detalizuojami darbuotojų pareiginės algos koeficientų dydžio nustatymo kriterijai (atliekamų užduočių, mokslinių tyrimų lygis ir sudėtingumas, atsakomybės lygis, pareigybių hierarchija, vykdomų projektų ar užsakymų specifika, pobūdis, rezultatų svarba šalies, visuomenės gerovei ar ūkio plėtrai, specifinių žinių ar įgūdžių, svarbių einamoms pareigoms, turėjimas ir panašiai), kuriais remiantis nustatomi konkretūs instituto darbuotojų pareiginės algos koeficientai, jiems skiriami priedai, priemokos, taip pat nustatoma priedų, priemokų ir premijų mokėjimo tvarka ir sąlygos. Pareiginės algos koeficientus pareigybėms, priedus, priemokas ir premijas darbuotojams, vadovaudamasis šiuo straipsniu ir institute galiojančia darbo apmokėjimo sistema, nustato instituto direktorius arba jo įgaliotas asmuo. Pareiginės algos koeficientai pareigybėms, priedai, priemokos ir premijos darbuotojams nustatomi neviršijant institutui atitinkamų metų programų sąmatose patvirtintų lėšų darbo užmokesčiui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-86, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23081
 
 3. Institutų direktorių darbo apmokėjimo dydžius (darbo užmokestį) nustato savininko teises ir pareigas įgyvendinančios institucijos vadovas (visuotinis dalininkų susirinkimas) arba jo (jų) įgaliotas asmuo.
 
