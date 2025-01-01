@@ -4,7 +4,7 @@ identifier: "TAR.B3CC2C0B9BD2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-21"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
 
@@ -406,8 +406,6 @@ Pakeistas straipsnio pavadinimas:
 
 Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
 
-1 dalies, išskyrus 8 punktą, redakcija nuo 2024-01-01:
-
 1. Tvenkinių ir (arba) patvenktų ežerų priežiūra vykdoma vadovaujantis aplinkos ministro patvirtintu tvarkos aprašu, pagal kurį tvenkinių ir (arba) patvenktų ežerų hidrotechninių statinių savininkai, valdytojai ar naudotojai turi laikytis šių pagrindinių reikalavimų:
 
 1) vandens lygio svyravimas tvenkinyje ir (arba) patvenktame ežere neturi daryti neigiamo poveikio tvenkinio ir (arba) patvenkto ežero ekosistemai ir aplinkinėms teritorijoms;
@@ -438,9 +436,11 @@ iv) upėje žemiau užtvankos įrengtos ne daugiau kaip 3 užtvankos;
 
 7) turi būti tvarkoma per užtvankas (patvankas) pratekančio vandens apskaita ir teikiami šios apskaitos duomenys;
 
-8 punkto redakcija nuo 2023-01-01
-
 8) jeigu prie tvenkinio ar patvenkto ežero įrengta hidroelektrinė, jos savininkas privalo užtikrinti, kad vandens lygis tvenkinyje ar patvenktame ežere ir jo žemutiniame bjefe kas valandą būtų matuojamas ir registruojamas automatinėmis vandens lygio matavimo ir registravimo priemonėmis, šiuos duomenis realiuoju laiku neatlygintinai perduodant aplinkos ministro įgaliotai institucijai, kuri užtikrina duomenų prieinamumą (saugojimą) ne trumpiau kaip vienus metus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
 
 2. Draudžiama naudoti polderių siurblinėse žuvis žalojančius greitaeigius (slėginius) vandens siurblius, išskyrus iki 2019 m. lapkričio 1 d. įrengtus greitaeigius (slėginius) vandens siurblius, kurie gali būti naudojami iki jų eksploatacijos pabaigos, bet ne ilgiau negu jų tinkamumo naudoti terminas, jeigu toks terminas yra nustatytas teisės aktuose.
 
