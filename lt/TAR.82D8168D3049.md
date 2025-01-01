@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2024-11-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -2307,6 +2307,12 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 3) duomenims taikomos tinkamos techninės ir organizacinės priemonės siekiant užtikrinti, kad prieigą prie jų galėtų gauti tik įgaliotas personalas.
 
 8. Saugojimo laikotarpiui, nurodytam šio straipsnio 3, 4, 5 dalyse ir šio įstatymo 96 straipsnio 3 dalyje, pasibaigus, sukaupti duomenys turi būti sunaikinti.
+
+81. Siekiant užtikrinti viešųjų elektroninių ryšių paslaugų gavėjų teisių ir teisėtų interesų apsaugą ir užkardyti nusikalstamas veikas, daromas naudojant apsimestines trumpąsias žinutes (SMS) (toliau – trumposios žinutės), viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai privalo įgyvendinti tinkamas technines ir (ar) organizacines priemones tokioms trumposioms žinutėms atpažinti, žymėti ir (ar) stabdyti. Apsimestinių trumpųjų žinučių identifikavimo tvarką nustato Ryšių reguliavimo tarnyba. Šioje dalyje nurodytais tikslais viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai kaip vieną iš priemonių turi teisę taikyti automatinį trumpųjų žinučių filtravimą.pas
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2386, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25336
 
 79 straipsnis. Abonento teisė susipažinti su viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų tvarkomais abonento duomenimis ir kontroliuoti šių duomenų tvarkymą
 
