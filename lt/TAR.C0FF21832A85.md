@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "2024-12-24"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2024-12-24 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -180,6 +180,12 @@ Straipsnio punkto pakeitimai:
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 Nr. XIV-1389, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15860
+
+11. Paramos dalyko, nurodyto šio įstatymo 4 straipsnio 2 dalies 2 punkte, gavėjais gali būti šie juridiniai asmenys: nevyriausybinės organizacijos, kaip jos apibrėžtos Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme, profesinės sąjungos arba profesinių sąjungų susivienijimai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1129, 2022-06-07, paskelbta TAR 2022-06-17, i. k. 2022-13117
 
 2. Paramos dalyko, nurodyto šio įstatymo 4 straipsnio 3 dalies 1 punkte, gavėjais gali būti fiziniai asmenys, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas.
 
