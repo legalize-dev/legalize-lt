@@ -4,7 +4,7 @@ identifier: "TAR.EAA93A47BAA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-28"
-last_updated: "2024-11-23"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2024-11-23 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
 
@@ -37,7 +37,11 @@ BENDROSIOS NUOSTATOS
 
 2. Šiuo įstatymu siekiama užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, taikymą.
 
-3. Šis įstatymas netaikomas užsieniečiams, kurių teisę į valstybės garantuojamą teisinę pagalbą nustato Lietuvos Respublikos įstatymas „Dėl užsieniečių teisinės padėties“. Valstybės garantuojamos teisinės pagalbos teikimą Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatytais atvejais organizuoja Lietuvos Respublikos vidaus reikalų ministerija ar jos įgaliota institucija.
+3. Šis įstatymas netaikomas užsieniečiams, kurių teisę į valstybės garantuojamą teisinę pagalbą nustato Lietuvos Respublikos įstatymas „Dėl užsieniečių teisinės padėties“. Valstybės garantuojamos teisinės pagalbos teikimą įstatymo „Dėl užsieniečių teisinės padėties“ nustatytais atvejais organizuoja Lietuvos Respublikos socialinės apsaugos ir darbo ministerija ar jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2674, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10551
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
