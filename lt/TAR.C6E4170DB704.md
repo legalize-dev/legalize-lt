@@ -4,7 +4,7 @@ identifier: "TAR.C6E4170DB704"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-03"
-last_updated: "2024-08-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo I, II ir III skyriai įsigalioja nuo 199
 ---
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2024-08-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
 
@@ -217,6 +217,12 @@ Nr. XIV-791, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27367
 
 4. Apie sužalotus pacientus, kuriems žala galėjo būti padaryta nusikalstama veika, sveikatos priežiūros įstaigos privalo nedelsdamos pranešti teisėsaugos institucijoms.
 
+5. Teikiant asmens sveikatos priežiūros paslaugas ne asmens sveikatos priežiūros įstaigos patalpose ir (ar) skubiosios medicinos pagalbos paslaugas asmens sveikatos priežiūros įstaigos skubiosios medicinos pagalbos padalinio patalpose, pacientų ir (arba) sveikatos priežiūros specialisto saugumo užtikrinimo tikslais sveikatos apsaugos ministro nustatyta tvarka gali būti atliekamas vaizdo ir (arba) garso stebėjimas ir (arba) įrašymas. Vaizdo ir (arba) garso duomenų tvarkymas turi atitikti 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) nustatytus reikalavimus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2614, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08906
+
 10 straipsnis. Paciento teisė į anoniminę sveikatos priežiūrą
 
 1. Teisę į sveikatos priežiūros paslaugas, neatskleidžiant asmens tapatybės, turi ne jaunesni kaip 16 metų pacientai, sergantys Vyriausybės ar jos įgaliotos institucijos nustatyto sąrašo ligomis. Už sveikatos priežiūros paslaugas, neatskleidžiant asmens tapatybės, pacientas moka pats, išskyrus teisės aktų nustatytas išimtis.
@@ -277,7 +283,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
 
-9. Pacientui, kuris pažeidžia savo pareigas, tuo sukeldamas grėsmę savo ir kitų pacientų sveikatai ir gyvybei, arba trukdo jiems gauti kokybiškas sveikatos priežiūros paslaugas, sveikatos priežiūros paslaugų teikimas gali būti nutrauktas, išskyrus atvejus, jei tai grėstų pavojus paciento gyvybei.
+9. Gali būti atsisakyta teikti sveikatos priežiūros paslaugą pacientui arba paslaugos teikimas gali būti nutrauktas, jeigu paciento veiksmai kelia grėsmę sveikatos priežiūros specialisto, kito teikiant sveikatos priežiūros paslaugą dalyvaujančio sveikatos priežiūros įstaigos darbuotojo ir (ar) kitų pacientų sveikatai ar gyvybei, taip pat jeigu pacientas asmens sveikatos priežiūros įstaigoje ar kitoje vietoje, kurioje jam turi būti pradėtos teikti arba teikiamos asmens sveikatos priežiūros paslaugos, nederamu ir nepagarbiu elgesiu žemina asmens sveikatos priežiūros specialisto garbę ir orumą ir tai trukdo jam ir (arba) kitiems pacientams teikti kokybiškas sveikatos priežiūros paslaugas, išskyrus atvejus, kai nederamą ir nepagarbų elgesį lemia jo sveikatos būklė ir (arba) kai jam teikiama būtinoji medicinos pagalba. Kai teikiama būtinoji medicinos pagalba, nepradėti teikti sveikatos priežiūros paslaugos arba sustabdyti jos teikimą galima tik tuo atveju, kai pacientas savo veiksmais kelia grėsmę sveikatos priežiūros specialisto, kito teikiant sveikatos priežiūros paslaugą dalyvaujančio sveikatos priežiūros įstaigos darbuotojo ir (ar) kitų pacientų sveikatai ar gyvybei ir kai yra išnaudotos visos galimybės pašalinti šią grėsmę arba tokių galimybių nėra. Pašalinus šią grėsmę arba jai išnykus, būtinoji medicinos pagalba turi būti pradėta teikti arba tęsiama nedelsiant. Atsisakymo teikti asmens sveikatos priežiūros paslaugas ir jų teikimo nutraukimo tvarką nustato asmens sveikatos priežiūros įstaigos vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2614, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08906
 
 Straipsnio dalies numeracijos pakeitimas:
 
