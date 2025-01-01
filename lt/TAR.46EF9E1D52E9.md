@@ -4,7 +4,7 @@ identifier: "TAR.46EF9E1D52E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-29"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
 
@@ -248,7 +248,7 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 3. Į diplomato pareigas negali būti priimtas asmuo:
 
-1) jeigu iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Valstybės tarnybos įstatymo 39 straipsnyje nurodyto registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar su kuriais diplomato tarnybos sutartis ar terminuota tarnybos sutartis buvo nutraukta dėl šių priežasčių, ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų ar diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, iš asmens, siekiančio tapti diplomatu, užpildytos deklaracijos ar kitų duomenų, gautų šio įstatymo 6 straipsnio 4 dalyje nustatyta tvarka, paaiškėja, kad jis neatitinka nepriekaištingos reputacijos reikalavimų;
+1) jeigu iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Viešojo sektoriaus darbuotojų registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar su kuriais diplomato tarnybos sutartis ar terminuota tarnybos sutartis buvo nutraukta dėl šių priežasčių, ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų ar diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, iš asmens, siekiančio tapti diplomatu, užpildytos deklaracijos ar kitų duomenų, gautų šio įstatymo 6 straipsnio 4 dalyje nustatyta tvarka, paaiškėja, kad jis neatitinka nepriekaištingos reputacijos reikalavimų;
 
 Straipsnio punkto pakeitimai:
 
@@ -978,7 +978,11 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 1. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį diplomatas nebuvo darbe dėl laikinojo nedarbingumo, buvo komandiruotėje arba atostogavo, buvo nušalintas nuo pareigų, taip pat laiko, per kurį Administracinių bylų teisenos įstatymo nustatyta tvarka turi būti išnagrinėtas skundas dėl profesinės sąjungos atstovaujamojo ir (arba) valdymo organo nesutikimo dėl tarnybinės nuobaudos skyrimo diplomatui, o vykstant baudžiamajam procesui arba Seimo kontrolieriui atliekant tyrimą, taip pat atliekant tarnybinį ar kitą kompetentingos institucijos patikrinimą, – ne vėliau kaip per 2 mėnesius nuo baudžiamosios bylos nutraukimo arba teismo nuosprendžio įsiteisėjimo dienos, Seimo kontrolieriaus pažymos surašymo, tarnybinio ar kito kompetentingos institucijos patikrinimo užbaigimo, ikiteisminio tyrimo pabaigos dienos. Į šioje dalyje nustatytą 2 mėnesių tarnybinės nuobaudos skyrimo terminą neįskaitomas laikas, kurį diplomatas nebuvo darbe dėl laikinojo nedarbingumo, buvo komandiruotėje, atostogavo arba buvo nušalintas nuo pareigų, taip pat laikas, per kurį Administracinių bylų teisenos įstatymo nustatyta tvarka turi būti išnagrinėtas skundas dėl profesinės sąjungos atstovaujamojo ir (arba) valdymo organo nesutikimo dėl tarnybinės nuobaudos skyrimo diplomatui. Tarnybinio nusižengimo tyrimas pradedamas užsienio reikalų ministro sprendimu arba gavus oficialią informaciją apie galimą diplomato tarnybinį nusižengimą. Jeigu įsiteisėjusiame teismo sprendime konstatuota, kad Užsienio reikalų ministerija pažeidė įstatymus ar kitus teisės aktus, Užsienio reikalų ministerijoje turi būti pradėtas diplomatų, dėl kurių galimos kaltės buvo padaryti įsiteisėjusiame teismo sprendime konstatuoti įstatymų ar kitų teisės aktų pažeidimai, tarnybinio nusižengimo tyrimas. Tarnybinė nuobauda neskiriama, jeigu nuo nusižengimo padarymo dienos praėjo 6 mėnesiai, išskyrus atvejus, kai tarnybinis nusižengimas nustatomas atliekant auditą, inventorizaciją arba kai Seimo kontrolierius atlieka tyrimą, taip pat kai atliekamas tarnybinis ar kitas kompetentingos institucijos patikrinimas, tiriamas tarnybinis nusižengimas šio straipsnio 2 dalyje numatytais atvejais, atliekamas ikiteisminis tyrimas arba kai yra pažeidžiamos Viešųjų ir privačių interesų derinimo įstatymo nuostatos arba įsiteisėja teismo sprendimas, kuriame konstatuota, kad Užsienio reikalų ministerija pažeidė įstatymus ar kitus teisės aktus. Šiais atvejais tarnybinė nuobauda skiriama ne vėliau kaip per 3 metus nuo nusižengimo padarymo dienos.
 
-2. Tarnybinio nusižengimo tyrimas, gavus oficialią informaciją apie galimą diplomato tarnybinį nusižengimą, pradedamas, o pradėtas tarnybinio nusižengimo tyrimas tęsiamas ir atitinkamas sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas taip pat kai su diplomatu, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinio nusižengimo tyrimas, nutraukiama diplomato tarnybos sutartis arba terminuota diplomato tarnybos sutartis (netenkama diplomato statuso). Šis sprendimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perduodamas Valstybės tarnybos įstatymo 39 straipsnyje nurodytam registrui ir asmeniui, ėjusiam diplomato pareigas.
+2. Tarnybinio nusižengimo tyrimas, gavus oficialią informaciją apie galimą diplomato tarnybinį nusižengimą, pradedamas, o pradėtas tarnybinio nusižengimo tyrimas tęsiamas ir atitinkamas sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas taip pat kai su diplomatu, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinio nusižengimo tyrimas, nutraukiama diplomato tarnybos sutartis arba terminuota diplomato tarnybos sutartis (netenkama diplomato statuso). Šis sprendimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perduodamas Viešojo sektoriaus darbuotojų registrui ir asmeniui, ėjusiam diplomato pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 3. Už vieną tarnybinį nusižengimą galima skirti tik vieną tarnybinę nuobaudą.
 
@@ -1902,9 +1906,13 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 12) po diplomato tarnybinės veiklos vertinimo priimamas sprendimas nutraukti diplomato tarnybos sutartį arba terminuotą diplomato tarnybos sutartį.
 
-13) iš Korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Valstybės tarnybos įstatymo 39 straipsnyje nurodyto registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar su kuriais diplomato tarnybos sutartis ar terminuota tarnybos sutartis buvo nutraukta dėl šių priežasčių, ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų ar diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, ar kitų duomenų, gautų šio įstatymo 6 straipsnio 4 dalyje nustatyta tvarka, paaiškėja, kad diplomatas neatitinka nepriekaištingos reputacijos reikalavimų;
+13) iš Korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Viešojo sektoriaus darbuotojų registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar su kuriais diplomato tarnybos sutartis ar terminuota tarnybos sutartis buvo nutraukta dėl šių priežasčių, ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų ar diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, ar kitų duomenų, gautų šio įstatymo 6 straipsnio 4 dalyje nustatyta tvarka, paaiškėja, kad diplomatas neatitinka nepriekaištingos reputacijos reikalavimų;
 
 Papildyta straipsnio punktu:
+
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+
+Straipsnio punkto pakeitimai:
 
 Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
