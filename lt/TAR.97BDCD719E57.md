@@ -4,7 +4,7 @@ identifier: "TAR.97BDCD719E57"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-12-17"
-last_updated: "2024-07-09"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.97BDCD719E57"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos veterinarijos įstatymas
 
-Suvestinė redakcija nuo 2024-07-09 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 3-0; Žin. 1992, Nr.2-15, i. k. 091XX01ISTA00I-2110
 
@@ -166,7 +166,11 @@ Nr. XII-2539, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20660
 
 10) kartu su kitomis valstybės institucijomis ir įstaigomis vykdo apsaugos nuo bendrų žmonėms ir gyvūnams užkrečiamųjų ligų, taip pat kitų gyvūnų užkrečiamųjų ligų likvidavimo, profilaktikos ar apsaugos priemones;
 
-11) išduoda veterinarijos praktikos licencijas, veterinarinių biocidinių produktų autorizavimo liudijimus, teisės aktų nustatyta tvarka tvirtina, registruoja veterinarinės kontrolės subjektus, jų veiklos vietas;
+11) išduoda veterinarijos praktikos licencijas, teisės aktų nustatyta tvarka tvirtina, registruoja veterinarinės kontrolės subjektus, jų veiklos vietas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3130, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20363
 
 12) prižiūri ūkinių gyvūnų laikymo vietų registravimą ir jose laikomų ūkinių gyvūnų ženklinimą ir apskaitą, tikrina ženklinimo ir registravimo reikalavimų laikymąsi;
 
@@ -699,4 +703,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
 
 Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, 6, 10, 13-1 ir 19 straipsnių pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3130, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20363
+
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 6 straipsnio pakeitimo įstatymas
 
