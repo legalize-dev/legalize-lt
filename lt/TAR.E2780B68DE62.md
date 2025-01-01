@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2024-10-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-10-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-04-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -1747,7 +1747,7 @@ Nagrinėjant bylas dėl ekonominių sankcijų skyrimo dalyvauja:
 
 47 straipsnis. Rašytinis įspėjimas
 
-Nustačius šio įstatymo 55 straipsnio septintojoje dalyje, 57 straipsnio pirmojoje, trečiojoje, penktojoje dalyse, 581 straipsnio trečiojoje dalyje, 76 straipsnio pirmojoje dalyje, 93 straipsnio pirmojoje, ketvirtojoje dalyse, 94 straipsnio pirmojoje, ketvirtojoje dalyse, 941 straipsnio pirmojoje, ketvirtojoje dalyse, 107 straipsnio pirmojoje, ketvirtojoje dalyse, 109 straipsnio trečiojoje, ketvirtojoje, šeštojoje, devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje, tryliktojoje, penkioliktojoje, devynioliktojoje, dvidešimtojoje dalyse, 112 straipsnio  pirmojoje dalyje, 1181 straipsnio pirmojoje, trečiojoje dalyse, 1221 straipsnio pirmojoje, penktojoje dalyse, 1222 straipsnio dvidešimt pirmojoje dalyje, 1223 straipsnio penktojoje dalyje, 1224 straipsnio pirmojoje dalyje, 1225 straipsnio tryliktojoje dalyje numatytus pažeidimus, juridinis asmuo įspėjamas raštu ir jam nustatomas protingas terminas nustatytiems pažeidimams pašalinti, kuris negali būti trumpesnis kaip 7 kalendorinės dienos ir ilgesnis kaip 30 kalendorinių dienų. Išimtiniais atvejais pagal motyvuotą juridinio asmens prašymą, atsižvelgiant į objektyvias aplinkybes, terminas nustatytam pažeidimui pašalinti gali būti vieną kartą pratęstas, tačiau ne daugiau kaip 15 kalendorinių dienų.
+Nustačius šio įstatymo 55 straipsnio 7 dalyje, 57 straipsnio 1, 3, 5 dalyse, 581 straipsnio 3 dalyje, 76 straipsnio 1 dalyje, 93 straipsnio 1, 4 dalyse, 931 straipsnio 1 dalyje, 94 straipsnio 1, 4 dalyse, 941 straipsnio 1, 4 dalyse, 107 straipsnio 1, 4 dalyse, 109 straipsnio 3, 4, 6, 9, 10, 11, 12, 13, 15, 19, 20 dalyse, 112 straipsnio 1 dalyje numatytus pažeidimus, juridinis asmuo įspėjamas raštu ir jam nustatomas protingas terminas nustatytiems pažeidimams pašalinti, kuris negali būti trumpesnis kaip 7 kalendorinės dienos ir ilgesnis kaip 30 kalendorinių dienų. Išimtiniais atvejais pagal motyvuotą juridinio asmens prašymą, atsižvelgiant į objektyvias aplinkybes, terminas nustatytam pažeidimui pašalinti gali būti vieną kartą pratęstas, tačiau ne daugiau kaip 15 kalendorinių dienų.
 
 Straipsnio dalies pakeitimai:
 
@@ -1758,6 +1758,8 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
+
+Nr. XIV-2507, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05468
 
 Kai šio straipsnio 1 dalyje nurodytuose straipsniuose numatyti pažeidimai nustatomi juridinio asmens įgalioto atstovo akivaizdoje, šio straipsnio 1 dalyje nurodytas įspėjimas įteikiamas jam pasirašytinai, kitais atvejais – siunčiamas registruotu laišku Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba elektroniniu paštu Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu.
 
@@ -3927,6 +3929,14 @@ Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 8, 19-4, 31 ir 33 straipsnių pakeitimo įstatymas
 
+34.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2507, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05468
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 47 straipsnio pakeitimo ir Įstatymo papildymo 93-1 straipsniu įstatymas
+
 193 straipsnis. Įrenginių registravimas
 
 Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame straipsnyje suprantamas kaip stacionarus technikos objektas, kuriame vykdant aplinkos ministro patvirtintose Lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikrų veiklos rūšių įrenginiuose, išmetimo ribojimo ir įrenginių registravimo taisyklėse (toliau – LOJ taisyklės) nurodytą vienos arba kelių rūšių veiklą, taip pat kitą toje pačioje vietoje vykdomą tiesiogiai techniškai susijusią veiklą, kurios metu išmetami lakieji organiniai junginiai, suvartojamas organinio tirpiklio kiekis atitinka LOJ taisyklėse nurodytąjį. Šios taisyklės nustato įrenginių įregistravimo, registracijos duomenų teikimo, tikslinimo ir įrenginių išregistravimo tvarką.
@@ -4710,4 +4720,14 @@ Teisės aktuose nustatytų genetiškai modifikuotų mikroorganizmų ketvirtosios
 Papildyta straipsniu:
 
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
+
+931 straipsnis. Juridinių asmenų atsakomybė už Atliekų tvarkymo įstatyme nustatyto reikalavimo – parengti ir paskelbti maisto atliekų susidarymo prevencijos planą ir (ar) šio plano įgyvendinimo ataskaitą – nevykdymą
+
+Atliekų tvarkymo įstatyme nustatyto reikalavimo – parengti ir paskelbti maisto atliekų susidarymo prevencijos planą ir (ar) šio plano įgyvendinimo ataskaitą – nevykdymas po to, kai juridinis asmuo dėl pažeidimo buvo įspėtas raštu, užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
+
+Papildyta straipsniu:
+
+Nr. XIV-2507, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05468
 
