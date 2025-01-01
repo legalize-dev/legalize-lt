@@ -4,7 +4,7 @@ identifier: "TAR.8FBB384266D1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2023-05-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
 
@@ -40,7 +40,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
-1. Šis įstatymas nustato saugios laivybos, tai yra saugaus laivų eksploatavimo, taršos iš laivų prevencijos, laivų apsaugos bei jūrininkų darbo ir gyvenimo laive sąlygų, reikalavimus jūrų laivams (toliau – laivas), plaukiojantiems su Lietuvos valstybės vėliava, ir užsienio valstybių laivams, įplaukiantiems į Lietuvos Respublikos jūrų uostus (toliau – uostas), laivybos bendrovėms, įgaliotosioms pripažintosioms organizacijoms, ūkio subjektams, vykdantiems su saugia laivyba susijusias veiklas, uostus valdančioms įmonėms, taip pat reglamentuoja saugios laivybos valstybinę priežiūrą ir administravimą, žmonių paiešką ir gelbėjimą, laivų avarijų ir incidentų tyrimą, paskendusių ir plūduriuojančių objektų, kurie trukdo saugiai laivybai, iškėlimą (pašalinimą), navigacinį ženklinimą.
+1. Šis įstatymas nustato saugios laivybos, tai yra saugaus laivų eksploatavimo, taršos iš laivų prevencijos, laivų apsaugos bei jūrininkų darbo ir gyvenimo laive sąlygų, reikalavimus jūrų laivams (toliau – laivas), plaukiojantiems su Lietuvos valstybės vėliava, ir užsienio valstybių laivams, įplaukiantiems į Lietuvos Respublikos jūrų uostus (toliau – uostas), laivybos bendrovėms, įgaliotosioms pripažintosioms organizacijoms, ūkio subjektams, vykdantiems su saugia laivyba susijusias veiklas, uostus valdančioms įmonėms, taip pat reglamentuoja saugios laivybos valstybinę priežiūrą ir administravimą, žmonių paiešką ir gelbėjimą, paskendusių ir plūduriuojančių objektų, kurie trukdo saugiai laivybai, iškėlimą (pašalinimą), navigacinį ženklinimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 2. Šio įstatymo tikslas – įgyvendinant tarptautinės jūrų teisės, Europos Sąjungos teisės aktų, Lietuvos Respublikos įstatymų ir jų įgyvendinamųjų teisės aktų reikalavimus saugios laivybos srityje:
 
@@ -48,7 +52,11 @@ BENDROSIOS NUOSTATOS
 
 2) užtikrinti, kad nebūtų eksploatuojami laivai, neatitinkantys saugaus laivų eksploatavimo, taršos iš laivų prevencijos, laivų apsaugos ir jūrininkų darbo ir gyvenimo laive sąlygų reikalavimų.
 
-3. Šis įstatymas, išskyrus 46 ir 47 straipsnius, netaikomas:
+3. Šis įstatymas, išskyrus 47 straipsnį, netaikomas:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 1) užsienio valstybių laivams, kurie plaukia per Lietuvos Respublikos teritorinę jūrą naudodamiesi taikaus plaukimo teise, ir juose esantiems asmenims;
 
@@ -76,7 +84,11 @@ BENDROSIOS NUOSTATOS
 
 5. Keleivinis laivas – laivas, skirtas vežti daugiau kaip 12 keleivių.
 
-6. Labai sunki laivo avarija – laivo avarija, kai pražūsta laivas, žūsta žmogus arba padaroma didelė žala aplinkai.
+6. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 7. Laivas – savaeigė ar nesavaeigė plaukiojimo priemonė, kuri yra arba gali būti naudojama laivybai.
 
@@ -88,9 +100,17 @@ BENDROSIOS NUOSTATOS
 
 11. Laivo agentas – asmuo, sudaręs sutartį su laivo savininku, frachtuotoju ar kitu teisėtu laivo valdytoju atstovauti jo interesams ir vykdyti sutartyje nustatytus pavedimus laivo agentavimo paslaugų srityje.
 
-12. Laivo avarija – vienas ar keli įvykiai eksploatuojant laivą, sukėlę bet kurį iš šių padarinių: žmogaus mirtį ar sunkų sužalojimą; žmogaus dingimą iš laivo; laivo žūtį, numanomą žūtį arba jo palikimą; žalą laivui; laivo užplaukimą ant seklumos, jo neveiksnumą arba susidūrimą; jūrų infrastruktūros pažeidimus, dėl kurių galėjo kilti pavojus pažeidimus sukėlusiam ar kitam laivui arba asmenims; didelę žalą aplinkai arba realią galimybę šiai žalai atsirasti dėl laivo ar laivų pažeidimų. Laivo avarija nelaikoma tyčinė veika ar neveikimas siekiant sukelti pavojų laivo saugai, asmeniui ar aplinkai.
+12. Neteko galios nuo 2025-01-01
 
-13. Laivo incidentas – įvykis ar jų seka, išskyrus laivo avariją, kuris (kurie) įvyko tiesiogiai eksploatuojant laivą, sukėlęs arba nesiėmus taisomųjų veiksmų galėjęs sukelti pavojų laivo saugai, jame esantiems žmonėms ar bet kuriam kitam asmeniui arba aplinkai. Laivo incidentu nelaikoma tyčinė veika ar neveikimas siekiant sukelti pavojų laivo saugai, asmeniui ar aplinkai.
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
+
+13. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 14. Laivo įgula – jūrininkai, atliekantys laivo eksploatavimo, priežiūros ar žmonių aptarnavimo laive užduotis ir įrašyti į laivo įgulos sąrašą.
 
@@ -114,7 +134,11 @@ BENDROSIOS NUOSTATOS
 
 24. Navigacijos įrenginių veikimo sektorius – teritorija, kurioje privalomai užtikrinamas saugiai laivybai būtinos informacijos teikimas navigacijos įrenginiais.
 
-25. Nesunki laivo avarija – laivo avarija, kuri neklasifikuojama kaip labai sunki arba kaip sunki avarija.
+25. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 26. Nuotolinis laivo vedimas – laivo vedimas, kurį locmanas, naudodamas nuotolinę laivo vedimo įrangą, atlieka nebūdamas vedamame laive. Nuotolinis laivo vedimas laikomas laivo vedimu su locmanu.
 
@@ -130,19 +154,25 @@ BENDROSIOS NUOSTATOS
 
 32. Saugios laivybos valdymo sistema – Tarptautinio saugaus laivų eksploatavimo ir taršos prevencijos valdymo kodekso reikalavimus atitinkanti struktūrizuota ir dokumentuota sistema, leidžianti efektyviai įgyvendinti laivybos bendrovės saugios laivybos užtikrinimo ir aplinkos apsaugos politiką.
 
-33. Saugos rekomendacija – pagal saugos tyrimo metu surinktą informaciją arba abstrakčią duomenų analizę ir atliktų saugos tyrimų rezultatus pateiktas siūlymas, siekiant užkirsti kelią kitoms laivų avarijoms ar incidentams.
+33. Neteko galios nuo 2025-01-01
 
-34. Saugos tyrimas – po laivo avarijos ar incidento, siekiant užkirsti kelią kitoms laivo avarijoms ar incidentams, atliekama procedūra, apimanti informacijos ir įrodymų rinkimą ir analizę, aplinkybių ir priežasčių nustatymą, išvadų darymą ir, jeigu reikia, saugos rekomendacijų pateikimą.
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
+
+34. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 35. Specialusis laivas – specialiosioms funkcijoms atlikti skirtas savaeigis laivas, vežantis daugiau kaip 12 asmenų, kurie atlieka specialiąsias funkcijas dėl specialios tokio laivo paskirties arba dėl tame laive atliekamų specialių darbų ir kurie nėra nei įgulos nariai, nei keleiviai.
 
-36. Sunki laivo avarija – prie labai sunkių avarijų nepriskiriama laivo avarija, kurios metu įvyko gaisras, sprogimas, susidūrimas, laivas užplaukė ant seklumos, atsitrenkė į kitą objektą, patyrė apgadinimų dėl blogų oro sąlygų, patyrė korpuso pažeidimų dėl susidūrimo su ledais, atsirado laivo korpuso įtrūkimų ar numanomų laivo korpuso defektų ir panašiai ir dėl to atsirado bet kuris iš šių padarinių:
+36. Neteko galios nuo 2025-01-01
 
-1) nebegalima naudotis pagrindiniais laivo varikliais, buvo labai apgadintos laivo patalpos, konstrukcijos, pavyzdžiui, korpuso povandeninė dalis pasidarė nesandari ir panašiai ir dėl to laivas prarado savo jūrines savybes ir nėra tinkamas plaukioti;
+Straipsnio dalies naikinimas:
 
-2) buvo užteršta aplinka (nepriklausomai nuo kiekio);
-
-3) įvyko gedimas, dėl kurio laivą būtina vilkti arba jam reikalinga pagalba iš kranto.
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 37. Tarptautinės jūrų organizacijos auditas – tarptautinių valstybės įsipareigojimų auditas, atliekamas vadovaujantis procedūra, patvirtinta 2013 m. gruodžio 5 d. Tarptautinės jūrų organizacijos asamblėjos rezoliucija A.1067 (28), kartu su taikymo metu galiojančiais jos pakeitimais.
 
@@ -160,7 +190,11 @@ BENDROSIOS NUOSTATOS
 
 44. Žvejybos laivas – verslinei žvejybai skirtas, pritaikytas arba naudojamas laivas.
 
-45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos prekybinės laivybos įstatyme, Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatyme, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse ir Lietuvos Respublikos viešojo administravimo įstatyme.
+45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos prekybinės laivybos įstatyme, Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatyme, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse, Lietuvos Respublikos saugos tyrimų įstatyme ir Lietuvos Respublikos viešojo administravimo įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 II SKYRIUS
 
@@ -244,7 +278,11 @@ SAUGIOS LAIVYBOS VALSTYBINIS VALDYMAS
 
 9. Susisiekimo ministras kartu su socialinės apsaugos ir darbo ministru bei sveikatos apsaugos ministru nustato laivų ir jų įgulų atitikties saugios laivybos reikalavimams dėl darbo jūrų laivyboje patikrinimo tvarką.
 
-10. Teisingumo ministras priima teisės aktus laivų avarijų ir incidentų tyrimo, ataskaitų ir saugos rekomendacijų rengimo ir teikimo klausimais, organizuoja, koordinuoja, kontroliuoja (prižiūri) šiuose teisės aktuose nustatytų reikalavimų vykdymą.
+10. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 11. Vyriausybės įgaliota institucija įgyvendina valstybės politiką saugios laivybos srityje ir dalyvauja šią politiką formuojant, nustato saugią laivybą reglamentuojančius techninius ir organizacinius reikalavimus ir atlieka kitas šiame įstatyme nustatytas funkcijas.
 
@@ -1024,7 +1062,11 @@ BENDROJO NAUDOJIMO VANDENS KELIAI, NAVIGACIJOS ĮRENGINIAI
 
 XI SKYRIUS
 
-ŽMONIŲ PAIEŠKA IR GELBĖJIMAS, SAUGOS TYRIMAS, PASKENDUSIŲ AR PLŪDURIUOJANČIŲ OBJEKTŲ IŠKĖLIMAS
+ŽMONIŲ PAIEŠKA IR GELBĖJIMAS, PASKENDUSIŲ AR PLŪDURIUOJANČIŲ OBJEKTŲ IŠKĖLIMAS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 42 straipsnis. Žmonių paieška ir gelbėjimas
 
@@ -1058,95 +1100,21 @@ XI SKYRIUS
 
 2. Vyriausybės įgaliotai institucijai pranešus, kad yra nustatyta šio straipsnio 1 dalyje nurodyta zona, į ją negali įplaukti ir joje negali būti joks laivas, išskyrus laivus, nurodytus Vyriausybės įgaliotos institucijos sprendime dėl laivų įplaukimo į Lietuvos Respublikos teritorinės jūros zoną laikino apribojimo.
 
-46 straipsnis. Laivų avarijų ir incidentų saugos tyrimo tikslai ir tvarka
+46 straipsnis. Neteko galios nuo 2025-01-01
 
-1. Saugos tyrimo tikslas – nustatyti laivo avarijos ar incidento aplinkybes, priežastis ir padarinius, pateikti išvadas dėl prevencinių veiksmų taikymo, kad ateityje būtų išvengta laivų avarijų ar incidentų. Saugos tyrimais nesiekiama nustatyti kieno nors atsakomybės ar kaltės, tokių tyrimų nestabdo ikiteisminiai arba kiti lygiagretūs tyrimai, kuriais siekiama nustatyti atsakomybę arba kaltę. Saugos tyrimai yra nepriklausomi nuo ikiteisminių arba kitų lygiagrečių tyrimų.
+Straipsnio naikinimas:
 
-2. Šiame straipsnyje nustatyti reikalavimai taikomi laivų avarijoms ir incidentams:
-
-1) kurie yra susiję su laivais, plaukiojančiais su Lietuvos valstybės vėliava;
-
-2) kurie yra įvykę Lietuvos Respublikos teritorinėje jūroje arba jūros vidaus vandenyse, kaip tai apibrėžta 1982 m. gruodžio 10 d. Jungtinių Tautų jūrų teisės konvencijoje (uostų akvatorijos priskiriamos jūros vidaus vandenims);
-
-3) dėl kurių sukeltų pasekmių atsirado didelė žala aplinkai, priklausančiai Lietuvos Respublikos jurisdikcijai, arba buvo kilęs realus pavojus tokiai žalai atsirasti;
-
-4) dėl kurių sukeltų pasekmių atsirado didelė žala Lietuvos Respublikos jurisdikcijai priklausančiai jūros ar kranto infrastruktūrai arba buvo kilęs realus pavojus tokiai žalai atsirasti;
-
-5) kurių metu ar dėl jų sukeltų pasekmių žuvo arba buvo sunkiai sužaloti Lietuvos Respublikos piliečiai;
-
-6) kurių saugos tyrimą atliekanti kitos valstybės kompetentinga institucija pareiškia, kad Lietuvos Respublikos kompetentingos institucijos disponuoja tos avarijos ar incidento saugos tyrimui reikšminga informacija.
-
-3. Šiame straipsnyje nustatyti reikalavimai netaikomi laivų avarijoms ir incidentams, kurie yra susiję tik su:
-
-1) karo ir su karinių jūrų pajėgų vėliava plaukiojančiais laivais ir kitais Lietuvos Respublikai priklausančiais ar jos tik nekomerciniais tikslais naudojamais laivais;
-
-2) vidaus vandenimis plaukiojančiais vidaus vandenų laivais;
-
-3) nemechaniniu būdu varomais laivais, tradiciniais laivais, pramoginiais, mažaisiais laivais, kuriais nevykdoma prekyba, nebent juose būtų įgula ir daugiau kaip 12 keleivių, plukdomų komerciniais tikslais;
-
-4) trumpesniais kaip 15 metrų žvejybos laivais;
-
-5) pritvirtintomis jūrų gręžimo platformomis.
-
-4. Laivų avarijas ir incidentus tiria teisingumo ministro paskirtas (-i) laivų avarijų ir incidentų tyrimų vadovas (-ai) (toliau – tyrimų vadovas).
-
-5. Įvykus labai sunkiai laivo avarijai, tyrimų vadovas privalo atlikti jos tyrimą, kai yra bent viena iš šių sąlygų:
-
-1) laivas plaukioja su Lietuvos valstybės vėliava, nepriklausomai nuo avarijos vietos;
-
-2) laivo avarija įvyksta Lietuvos Respublikos teritorinėje jūroje ar jūros vidaus vandenyse, kaip tai apibrėžta 1982 m. gruodžio 10 d. Jungtinių Tautų jūrų teisės konvencijoje, nepriklausomai nuo avariją patyrusio laivo ar laivų vėliavos;
-
-3) Lietuvos Respublika yra iš esmės tuo suinteresuota, nepriklausomai nuo avarijos vietos ir nuo avariją patyrusio laivo ar laivų vėliavos.
-
-6. Įvykus sunkiai laivo avarijai, tyrimų vadovas privalo atlikti preliminarų vertinimą, kurio metu įvertina situaciją ir priima sprendimą dėl sunkios laivo avarijos tyrimo atlikimo. Priėmęs sprendimą neatlikti sunkios laivo avarijos tyrimo, tyrimų vadovas apie tai informuoja Europos Komisiją. Įvykus nesunkiai laivo avarijai ar incidentui, tyrimų vadovas sprendžia, ar tikslinga atlikti tyrimą.
-
-7. Priimdamas šio straipsnio 6 dalyje nurodytus sprendimus, tyrimų vadovas atsižvelgia į laivo avarijos ar incidento sunkumą, su avarija ar incidentu susijusio laivo tipą ir (arba) krovinio rūšį, taip pat į galimybes išvengti panašių avarijų ar incidentų ateityje, atsižvelgiant į tyrimo rezultatus. Nusprendus tirti laivo avariją ar incidentą, jų tyrimas turi būti pradėtas iš karto, kai tik tai įmanoma, tačiau ne vėliau kaip po 2 mėnesių nuo dienos, kai įvyko laivo avarija ar incidentas.
-
-8. Lietuvos Respublikos teritorinėje jūroje įvykusių laivų avarijų ar incidentų, kuriuose dalyvavo kitose valstybėse įregistruoti laivai, ar kitų valstybių jurisdikcijoje esančiuose vandenyse įvykusių laivų avarijų ar incidentų, kuriuose dalyvavo Lietuvos Respublikoje įregistruoti laivai, tyrimuose šalių atstovai dalyvauja tarptautinėse sutartyse ir susitarimuose nustatyta tvarka.
-
-9. Tyrimų vadovas savo organizacine, teisine ir sprendimų priėmimo forma turi būti nepriklausomas nuo bet kokių kontrolės funkcijas jūrų transporte atliekančių institucijų ir įstaigų, uostus valdančių įmonių, jūrų krovinių krovos įmonių, laivybos bendrovių, kitų jūrų transporto sektoriuje veiklą vykdančių įmonių ir organizacijų, institucijų ir asmenų ir apskritai nuo bet kurios kitos šalies ar subjekto, kurių interesai gali nesutapti su tyrimų vadovo uždaviniais.
-
-10. Tyrimų vadovas turi turėti profesinių žinių ir praktinės patirties, susijusių su laivų avarijų ir incidentų tyrimu.
-
-11. Tyrimų vadovas turi šias teises:
-
-1) laisvai patekti į laivo avarijos ar incidento vietą, į visas su laivo avarija ar incidentu susijusias teritorijas ir į visus laivus, jų nuolaužas arba konstrukcijas, taip pat apžiūrėti krovinį, įrangą arba jų liekanas;
-
-2) imtis reikiamų priemonių, kad įrodymai būtų iš karto surinkti ir būtų atlikta nuolaužų, liekanų arba kitų sudedamųjų dalių ar medžiagų paieška ir surinkimas, siekiant juos apžiūrėti arba ištirti;
-
-3) reikalauti, kad būtų apžiūrėti arba ištirti šios dalies 2 punkte nurodyti daiktai, ir laisvai susipažinti su tokios apžiūros arba tyrimo rezultatais;
-
-4) laisvai susipažinti su visa su laivo avarija ar incidentu susijusia informacija ir užregistruotais duomenimis, tarp jų reiso duomenų registravimo sistemos duomenimis apie laivą, reisą, krovinį, įgulą ar visus kitus asmenis, objektus, sąlygas ar aplinkybes, juos kopijuoti ir jais naudotis;
-
-5) laisvai susipažinti su aukų kūnų apžiūros rezultatais arba iš aukų kūnų paimtų mėginių tyrimų rezultatais;
-
-6) reikalauti žmonių, dalyvavusių valdant laivą, arba visų kitų su laivo avarija ar incidentu susijusių asmenų apžiūros rezultatų ar iš tokių asmenų paimtų mėginių tyrimų rezultatų ir laisvai susipažinti su jais;
-
-7) apklausti liudytojus nedalyvaujant asmeniui, susijusiam su laivo avarija ar incidentu, jeigu galima daryti prielaidą, kad to asmens interesai kertasi su laivo avarijos tyrimu;
-
-8) gauti laivo vėliavos valstybės, laivybos bendrovės, laivo techninę priežiūrą vykdančių subjektų arba visų kitų susijusių šalių, jeigu jos arba jų atstovai yra įsisteigę Europos Sąjungos valstybėje narėje, turimus tyrimo dokumentus ir susijusią informaciją;
-
-9) prašyti atitinkamų valstybių su laivų avarijų ar incidentų tyrimu susijusių valdžios institucijų, tarp jų laivybos inspektorių, pakrančių apsaugos tarnybos pareigūnų, laivų eismo tarnybos operatorių, paieškos ir gelbėjimo komandų, laivavedžių arba kito uoste ar jūroje dirbančio personalo, pagalbos;
-
-10) rinkti ir analizuoti su saugia laivyba susijusius duomenis, ypač prevenciniais tikslais;
-
-11) rengti ir teikti saugos rekomendacijas organizacijoms ar asmenims, kurie yra labiausiai tinkami imtis taisomųjų priemonių;
-
-12) reikalauti iš organizacijų ar asmenų, kuriems skirtos saugos rekomendacijos, pateikti informaciją apie tai, kaip įgyvendinamos saugos rekomendacijos, arba apie priimtą sprendimą neįgyvendinti saugos rekomendacijų.
-
-12. Visi laivo avarijos ar incidento tyrimo metu paimti ar gauti liudytojų parodymai, kiti pareiškimai, pasakojimai ir užrašai, dokumentai, atskleidžiantys asmenų, davusių parodymus tyrimo metu, tapatybę, taip pat informacija apie laivo avarijos ar incidento metu nukentėjusius asmenis, kuri yra neskelbtina arba asmeninio pobūdžio, įskaitant informaciją apie jų sveikatą, turi būti naudojami tik šio straipsnio 1 dalyje nurodytam tikslui įgyvendinti.
-
-13. Pranešimų apie laivų avarijas ir incidentus teikimo tvarką nustato susisiekimo ministras. Saugos tyrimo, ataskaitų ir saugos rekomendacijų rengimo ir teikimo tvarką nustato teisingumo ministras. Organizacijos ar asmenys, kuriems skirtos saugos rekomendacijos, privalo jas įvertinti ir prireikus imtis veiksmų joms įgyvendinti. Saugos rekomendacijomis nesiekiama nustatyti atsakomybės ir kaltės.
-
-14. Šio įstatymo 2 straipsnio 6 ir 12 dalyse ir šio straipsnio 2 dalyje nurodyta žala aplinkai laikoma didele, kai vadovaujantis Lietuvos Respublikos aplinkos apsaugos įstatymu nustatoma, kad aplinkai padarytas reikšmingas neigiamas poveikis.
-
-15. Šio straipsnio 2 dalyje nurodyta didele žala Lietuvos Respublikos jurisdikcijai priklausančiai jūros ar kranto infrastruktūrai laikomas infrastruktūros objekto (-ų) sunaikinimas, sugadinimas ar reikšmingas jo (jų) veiklos sutrikdymas.
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 47 straipsnis. Pranešimas apie laivo avariją
 
-1. Įvykus bet kokio laivo avarijai ar incidentui Lietuvos Respublikai priskirtame paieškos ir gelbėjimo rajone Baltijos jūroje, laivo kapitonas iš karto privalo apie tai pranešti Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui ir tyrimų vadovui susisiekimo ministro nustatyta tvarka.
+1. Įvykus bet kokio laivo avarijai Lietuvos Respublikai priskirtame paieškos ir gelbėjimo rajone Baltijos jūroje, laivo kapitonas iš karto privalo apie tai pranešti Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui susisiekimo ministro nustatyta tvarka.
 
-2. Įvykus laivo, plaukiojančio su Lietuvos valstybės vėliava, avarijai ar incidentui už Lietuvos Respublikai priskirto paieškos ir gelbėjimo rajono Baltijos jūroje ribų, laivybos bendrovė ar laivo kapitonas apie tai praneša Vyriausybės įgaliotai institucijai. Jeigu laivo, plaukiojančio su Lietuvos valstybės vėliava, avarija ar incidentas įvyko užsienio valstybės teritorinėje jūroje ar uoste, Vyriausybės įgaliota institucija apie tai privalo papildomai pranešti Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai toje valstybėje.
+2. Įvykus laivo, plaukiojančio su Lietuvos valstybės vėliava, avarijai už Lietuvos Respublikai priskirto paieškos ir gelbėjimo rajono Baltijos jūroje ribų, laivybos bendrovė ar laivo kapitonas apie tai praneša Vyriausybės įgaliotai institucijai. Jeigu laivo, plaukiojančio su Lietuvos valstybės vėliava, avarija įvyko užsienio valstybės teritorinėje jūroje ar uoste, Vyriausybės įgaliota institucija apie tai privalo papildomai pranešti Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai toje valstybėje.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 48 straipsnis. Paskendusių arba plūduriuojančių objektų iškėlimas (pašalinimas) ir tvarkymas
 
@@ -1184,7 +1152,11 @@ priedas
 
 4. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/17/EB, iš dalies keičianti Direktyvą 2002/59/EB, įdiegiančią Bendrijos laivų eismo stebėsenos ir informacijos sistemą.
 
-5. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/18/EB, nustatanti pagrindinius principus, taikomus avarijų jūrų transporto sektoriuje tyrimui, ir iš dalies keičianti Tarybos direktyvą 1999/35/EB ir Europos Parlamento ir Tarybos direktyvą 2002/59/EB.
+5. Neteko galios nuo 2025-01-01
+
+Punkto naikinimas:
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
 
 6. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/21/EB dėl vėliavos valstybės reikalavimų laikymosi.
 
@@ -1315,6 +1287,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1744, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00393
 
 Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3076, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20020
+
+Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 1, 2, 3, 47 straipsnių, XI skyriaus pavadinimo, priedo pakeitimo ir 46 straipsnio pripažinimo netekusiu galios įstatymas
 
 49 straipsnis. Pranešimas apie laivo avariją
 
