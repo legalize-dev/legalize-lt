@@ -4,7 +4,7 @@ identifier: "TAR.7A932101FADA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,11 +16,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
 
-TAR pastaba. Procedūros, susijusios su žemės ūkio paskirties žemės įsigijimu ir numatytos įstatyme Nr. XIV-2123, pradėtos, bet nepabaigtos iki šio įstatymo įsigaliojimo dienos (2024-01-01), turi būti tęsiamos ir baigiamos pagal iki šio įstatymo įsigaliojimo dienos galiojusią tvarką ir sąlygas.
+TAR pastaba. Iki 2025 m. sausio 1 d. pradėtos įsiterpusių žemės sklypų pardavimo juos laikinai naudojantiems besiribojančių žemės sklypų savininkams procedūros tęsiamos ir baigiamos pagal iki 2025 m. sausio 1 d. galiojusią tvarką ir sąlygas.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -94,7 +94,11 @@ Vilnius
 
 2) asmeninio ūkio žemės naudotojai – jų naudojamus asmeninio ūkio žemės sklypus;
 
-3) privačių žemės sklypų savininkai – tarp jų nuosavybės teise valdomų žemės sklypų įsiterpusius valstybinės žemės ūkio paskirties žemės plotus, ne didesnius kaip 3 ha, taip pat tarp jų nuosavybės teise valdomų žemės sklypų ir stabilių kraštovaizdžio objektų (kelių (gatvių), geležinkelių, miškų sklypų (plotų), vandens telkinių) įsiterpusius valstybinės žemės ūkio paskirties žemės plotus, ne didesnius kaip 3 ha, jeigu šiuose plotuose negalima suformuoti atskirų žemės sklypų arba žemės sklypų su privažiuojamaisiais keliais, išskyrus Lietuvos Respublikos saugomų teritorijų įstatymo 31 straipsnio 7 dalyje ir Žemės reformos įstatymo 8 straipsnio 6 dalyje nurodytus valstybinės žemės plotus. Įsiterpusiu valstybinės žemės ūkio paskirties žemės sklypu nelaikomas žemės sklypas, kuris ribojasi su laisvos valstybinės žemės plotu, nesuformuotu kaip atskiras valstybinės žemės sklypas. Pirmumo teisė pirkti įsiterpusį valstybinės žemės ūkio paskirties žemės plotą taikoma jį nuomojančiam ar laikinai naudojančiam besiribojančio žemės sklypo savininkui;
+3) privačių žemės sklypų savininkai – tarp jų nuosavybės teise valdomų žemės sklypų įsiterpusius valstybinės žemės ūkio paskirties žemės plotus, ne didesnius kaip 3 ha, taip pat tarp jų nuosavybės teise valdomų žemės sklypų ir stabilių kraštovaizdžio objektų (kelių (gatvių), geležinkelių, miškų sklypų (plotų), vandens telkinių) įsiterpusius valstybinės žemės ūkio paskirties žemės plotus, ne didesnius kaip 3 ha, jeigu šiuose plotuose negalima suformuoti atskirų žemės sklypų arba žemės sklypų su privažiuojamaisiais keliais, išskyrus Lietuvos Respublikos saugomų teritorijų įstatymo 31 straipsnio 7 dalyje ir Žemės reformos įstatymo 8 straipsnio 6 dalyje nurodytus valstybinės žemės plotus. Įsiterpusiu valstybinės žemės ūkio paskirties žemės sklypu nelaikomas žemės sklypas, kuris ribojasi su laisvos valstybinės žemės plotu, nesuformuotu kaip atskiras valstybinės žemės sklypas. Pirmumo teisė pirkti įsiterpusį valstybinės žemės ūkio paskirties žemės plotą taikoma jį nuomojančiam besiribojančio žemės sklypo savininkui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2123, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14311
 
 4) žemės sklypo bendraturčiai, jeigu žemės sklypas valstybei priklauso bendrosios dalinės nuosavybės teise su kitais bendraturčiais – privačiais asmenimis, kai nėra galimybės atidalyti valstybei nuosavybės teise priklausančios žemės sklypo dalies ir suformuoti atskiro žemės sklypo.
 
