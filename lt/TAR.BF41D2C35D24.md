@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "2024-12-13"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2024-12-13 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 
@@ -578,7 +578,15 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 3. Sutikimą naudotis valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis suteikia akcinė bendrovė Lietuvos automobilių kelių direkcija, važiavimo maršrutą suderinusi su Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa, o sutikimą naudotis vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis – savivaldybių vykdomosios institucijos (toliau kartu – sutikimus suteikiantis subjektas).
 
-4. Sutikimo naudotis keliais nereikia, kai traktoriumi ar savaeige žemės ūkio mašina, kurių matmenys (ilgis, plotis, aukštis) su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio matmenis ir kurių kraštiniai taškai paženklinti, važiuojama į lauką, iš vieno lauko į kitą lauką ar grįžtama iš jo.
+4. Sutikimo naudotis keliais nereikia, jeigu:
+
+1) traktoriumi ar savaeige žemės ūkio mašina, kurių matmenys (ilgis, plotis, aukštis) su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio matmenis ir kurių kraštiniai taškai paženklinti, važiuojama į lauką, iš vieno lauko į kitą lauką ar grįžtama iš jo;
+
+2) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų transporto priemonės matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio matmenis: aukštį ne daugiau kaip 50 cm ir (ar) plotį ne daugiau kaip 45 cm, ir (ar) ilgį ne daugiau kaip 350 cm.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3155, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20213
 
 5. Sutikimas naudotis keliais važiuojant likviduoti įvykio ir šalinti jo padarinių suteikiamas ne vėliau kaip per vieną darbo dieną po prašymo gauti sutikimą naudotis keliais ir kitų dokumentų ir duomenų, kurių reikia sutikimui naudotis keliais gauti, pateikimo sutikimus išduodančiam subjektui ir nesumokėjus mokesčio už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis; šis mokestis turi būti sumokėtas ne vėliau kaip per 2 darbo dienas po sutikimo naudotis keliais suteikimo dienos. Įvykis suprantamas taip, kaip jis apibrėžtas Lietuvos Respublikos civilinės saugos įstatyme.
 
@@ -616,11 +624,17 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 3) šešių ar daugiau ašių transporto priemonės, kurią sudaro motorinė transporto priemonė ir priekaba (puspriekabė), kurios ne mažiau kaip penkių ašių ratai yra suporinti, ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą, o masė yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio masę, tačiau yra ne didesnė kaip 48 t.
 
-12. Sutikimas naudotis keliais metams suteikiamas, jeigu:
+12. Sutikimas naudotis keliais metams suteikiamas:
 
-1) transporto priemonės matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio matmenis: aukštį ne daugiau kaip 50 cm ir (ar) plotį ne daugiau kaip 100 cm, ir (ar) ilgį ne daugiau kaip 500 cm;
+1) jeigu transporto priemonės matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio matmenis: aukštį ne daugiau kaip 50 cm ir (ar) plotį ne daugiau kaip 100 cm, ir (ar) ilgį ne daugiau kaip 500 cm;
 
-2) šešių ar daugiau ašių transporto priemonės, kurią sudaro motorinė transporto priemonė ir priekaba (puspriekabė), kurios ne mažiau kaip penkių ašių ratai yra suporinti, ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą, o masė yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio masę, tačiau yra ne didesnė kaip 48 t.
+2) jeigu šešių ar daugiau ašių transporto priemonės, kurią sudaro motorinė transporto priemonė ir priekaba (puspriekabė), kurios ne mažiau kaip penkių ašių ratai yra suporinti, ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą, o masė yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio masę, tačiau yra ne didesnė kaip 48 t;
+
+3) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų didžiagabaritėms ir (ar) sunkiasvorėms transporto priemonėms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3155, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20213
 
 13. Sutikimas naudotis keliais vieną kartą suteikiamas 7 kalendorinių dienų laikotarpiui ir galioja važiuoti į vieną pusę sutikime naudotis keliais nurodytu maršrutu. Sutikimas naudotis keliais galioja nuo jame nurodyto laikotarpio pradžios dienos nulis valandų nulis minučių arba nuo jo suteikimo momento, jeigu sutikimas naudotis keliais suteiktas jo galiojimo laikotarpio pradžios dieną, iki laikotarpio galiojimo pabaigos dienos dvidešimt ketvirtos valandos nulis minučių.
 
@@ -664,13 +678,15 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 3) išvažiuoti iš Lietuvos Respublikos teritorijos tik įforminus administracinį nusižengimą ir sumokėjus Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestį, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis už visą nuvažiuotą maršrutą, išskyrus Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytas didžiagabarites ir (ar) sunkiasvores transporto priemones, už kurias šis mokestis nemokamas.
 
-21. Didžiagabarites ir (ar) sunkiasvores transporto priemones turi lydėti:
+21. Didžiagabarites transporto priemones turi lydėti:
 
-1) ne mažiau kaip vienas automobilis su įjungtais oranžiniais žybčiojančiais švyturėliais, jeigu didžiagabaritės ir (ar) sunkiasvorės transporto priemonės plotis su kroviniu ar be jo yra nuo 3,56 iki 4,00 m;
+1) ne mažiau kaip vienas automobilis su įjungtais oranžiniais žybčiojančiais švyturėliais, jeigu didžiagabaritės transporto priemonės plotis su kroviniu ar be jo yra nuo 3,56 iki 4,00 m;
 
-2) ne mažiau kaip du automobiliai su įjungtais oranžiniais žybčiojančiais švyturėliais, po vieną priekyje ir gale, jeigu didžiagabaritės ir (ar) sunkiasvorės transporto priemonės plotis su kroviniu ar be jo yra nuo 4,01 iki 4,50 m ir (ar) ilgis nuo 24,00 iki 30,00 m;
+2) ne mažiau kaip du automobiliai su įjungtais oranžiniais žybčiojančiais švyturėliais, po vieną priekyje ir gale, jeigu didžiagabaritės transporto priemonės plotis su kroviniu ar be jo yra didesnis kaip 4,00 m ir (ar) ilgis su kroviniu ar be jo yra 24,00 m ar daugiau.
 
-3) policijos automobilis priekyje ir automobilis su įjungtais oranžiniais žybčiojančiais švyturėliais gale, jeigu didžiagabaritės ir (ar) sunkiasvorės transporto priemonės plotis su kroviniu ar be jo yra didesnis kaip 4,50 m ir (ar) ilgis didesnis kaip 30,00 m.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3155, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20213
 
 22. Šio straipsnio 15 dalies 5 punkte nustatyta didžiausiosios leidžiamos naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovos viršijimo daugiau kaip 8 t riba gali būti netaikoma, kai yra viena iš šių sąlygų:
 
