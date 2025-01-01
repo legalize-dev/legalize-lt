@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2024-12-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2026-06-29
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -2119,13 +2119,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
-3. Vykdomuosius dokumentus dėl pinigų sumų išieškojimo antstoliams paskirsto Antstolių informacinė sistema Sprendimų vykdymo instrukcijoje nustatyta tvarka: proporcingai visiems toje veiklos teritorijoje veikiantiems antstoliams atsižvelgiant į Sprendimų vykdymo instrukcijoje nustatytas vykdomųjų dokumentų kategorijas ir išieškotinų sumų dydžius, taip pat užtikrinant, kad naujas vykdomasis dokumentas dėl išieškojimo iš to paties skolininko būtų paskirtas vykdyti antstoliui, jau vykdančiam išieškojimą iš šio skolininko, išskyrus atvejus, kai naujas vykdomasis dokumentas nėra vykdytinas šio antstolio veiklos teritorijoje.
-
-TAR pastaba. Ppaildymas 3 dalimi taikomas vykdomuosius dokumentus pateikiant vykdyti nuo 2021 m. sausio 1 d. ir 3 dalyje nustatyta tvarka vykdomieji dokumentai antstoliams paskirstomi neatsižvelgiant į vykdomuosius dokumentus, pateiktus vykdyti iki įstatymo Nr. XIII-2721 įsigaliojimo.
+3. Vykdomuosius dokumentus antstoliams paskirsto Antstolių informacinė sistema Sprendimų vykdymo instrukcijoje nustatyta tvarka: proporcingai visiems toje veiklos teritorijoje veikiantiems antstoliams atsižvelgiant į Sprendimų vykdymo instrukcijoje nustatytas vykdomųjų dokumentų kategorijas ir išieškotinų sumų dydžius, taip pat užtikrinant, kad naujas vykdomasis dokumentas dėl išieškojimo iš to paties skolininko būtų paskirtas vykdyti antstoliui, jau vykdančiam išieškojimą iš šio skolininko.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 Straipsnio pakeitimai:
 
@@ -2133,27 +2135,33 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 590 straipsnis. Vykdymo vieta
 
-1. Jeigu skolininkas yra fizinis asmuo, vykdomąjį dokumentą antstolis vykdo pagal šio asmens gyvenamąją vietą, jo turto buvimo vietą arba jo darbo vietą. Nepiniginio pobūdžio vykdomuosius dokumentus dėl laikinųjų apsaugos priemonių taikymo antstolis išieškotojo prašymu gali vykdyti pagal skolininko arba išieškotojo gyvenamąją vietą ar kitą jo buvimo vietą.
+1. Jeigu skolininkas yra fizinis asmuo, vykdomasis dokumentas dėl pinigų sumų išieškojimo pateikiamas vykdyti:
 
-Straipsnio dalies pakeitimai:
+1) antstoliui, kurio veiklos teritorijoje yra skolininko gyvenamoji vieta;
 
-Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+2) kai skolininko gyvenamoji vieta nežinoma, – antstoliui, kurio veiklos teritorijoje yra skolininko turto buvimo vieta;
 
-2. Jeigu skolininkas yra juridinis asmuo, vykdomąjį dokumentą antstolis vykdo šio skolininko buveinės arba jo turto buvimo vietoje.
+3) kai skolininko turto buvimo vieta nežinoma, – antstoliui, kurio veiklos teritorijoje yra skolininko darbo vieta.
 
-3. Antstolis vykdymo veiksmus atlieka antstolio veiklos teritorijoje.
+2. Jeigu skolininkas yra juridinis asmuo, vykdomasis dokumentas dėl pinigų sumų išieškojimo pateikiamas vykdyti:
 
-4. Jeigu vykdymo veiksmai turi būti atliekami kito antstolio veiklos teritorijoje, antstolis persiunčia vykdomąjį dokumentą išieškotojo rašte nurodytam antstoliui, o kai išieškotojas nenurodo kito antstolio, vykdomąjį dokumentą grąžina išieškotojui.
+1) antstoliui, kurio veiklos teritorijoje yra skolininko buveinė;
 
-5. Apygardos teismo, kurio veiklos teritorijoje yra antstolio kontoros buveinė, pirmininkas išieškotojo prašymu gali bet kurį sprendimą pavesti vykdyti kuriam nors kitam apygardos teismo veiklos teritorijoje veiklą vykdančiam antstoliui. Lietuvos apeliacinio teismo pirmininkas išieškotojo prašymu gali bet kurį sprendimą pavesti vykdyti kuriam nors kitam kitos apygardos teismo veiklos teritorijoje veiklą vykdančiam antstoliui.
+2) kai skolininko buveinė nežinoma, – antstoliui, kurio veiklos teritorijoje yra skolininko turto buvimo vieta.
 
-Straipsnio pakeitimai:
+3. Vykdomasis dokumentas dėl nepiniginio pobūdžio išieškojimo pateikiamas vykdyti antstoliui, kurio veiklos teritorijoje turi būti atliekami vykdymo veiksmai.
 
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+4. Jeigu vykdomojo dokumento pateikimo vykdyti momentu antstolis jau vykdo išieškojimą iš skolininko, šio straipsnio 1 ir 2 dalys netaikomos ir vykdomasis dokumentas pateikiamas vykdyti antstoliui, jau vykdančiam išieškojimą iš šio skolininko.
+
+5. Antstolis vykdymo veiksmus atlieka savo veiklos teritorijoje. Jeigu vykdymo veiksmai turi būti atliekami kito antstolio veiklos teritorijoje, išskyrus šio Kodekso 591 straipsnio 1 dalyje nurodytą atvejį, antstolis vykdomąjį dokumentą grąžina išieškotojui.
+
+6. Apygardos teismo, kurio veiklos teritorijoje yra antstolio kontoros buveinė, pirmininkas išieškotojo prašymu gali bet kurį sprendimą pavesti vykdyti kuriam nors kitam apygardos teismo veiklos teritorijoje veiklą vykdančiam antstoliui. Lietuvos apeliacinio teismo pirmininkas išieškotojo prašymu gali bet kurį sprendimą pavesti vykdyti kuriam nors kitam kitos apygardos teismo veiklos teritorijoje veiklą vykdančiam antstoliui.
 
 Straipsnio pakeitimai:
 
 Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 652 straipsnis. Neteko galios nuo 2009-04-01.
 
