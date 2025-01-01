@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -1318,11 +1318,13 @@ Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
 9) imasi priemonių, būtinų saugiam eismui eismo įvykio vietoje užtikrinti ir dėl eismo įvykio paliktam be priežiūros turtui apsaugoti;
 
-10) eskortuoja ir lydi specialiosiomis transporto priemonėmis oficialias delegacijas ir saugomus asmenis, lydi specialiosiomis transporto priemonėmis didžiagabarites transporto priemones, kai jos gali kelti grėsmę eismo saugumui, ir transporto priemones, kuriomis vežami keleiviai, masinių ir kitokių renginių dalyviai;
+10) eskortuoja ir lydi specialiosiomis transporto priemonėmis oficialias delegacijas ir saugomus asmenis, lydi specialiosiomis transporto priemonėmis transporto priemones, kuriomis vežami keleiviai, masinių ir kitokių renginių dalyviai;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+
+Nr. XIV-3156, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20216
 
 11) kontroliuoja, ar N2, N3, O3 ir O4 klasių transporto priemonėse krovinys išdėstytas ir (ar) pritvirtintas pagal reikalavimus;
 
@@ -1868,11 +1870,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-491, 2017-06-22, paskelbta TAR 2017-06-30, i. k. 2017-11221
 
-4. Vairuotojo pažymėjimai išduodami ne ilgesniam kaip 10 metų laikotarpiui, o teisė vairuoti C1, C1E, C, CE, D1, D1E, D, DE kategorijų transporto priemones galioja ne ilgiau kaip 5 metus nuo vairuotojo pažymėjimo išdavimo dienos. Dokumentas, patvirtinantis teisę vairuoti karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis, išduodamas ne ilgesniam laikotarpiui, kaip iki karys perkeliamas į dimisiją.
+4. Vairuotojo pažymėjimai išduodami ne ilgesniam kaip 10 metų laikotarpiui, o teisė vairuoti C1, C1E, C, CE, D1, D1E, D, DE kategorijų transporto priemones galioja ne ilgiau kaip 5 metus nuo vairuotojo pažymėjimo išdavimo dienos. Nepasitikrinusių sveikatos Vyriausybės ar jos įgaliotos institucijos nustatytu periodiškumu vairuotojų turimi vairuotojo pažymėjimai vidaus reikalų ministro nustatyta tvarka skelbiami negaliojančiais. Pašalinus priežastis, lėmusias vairuotojo pažymėjimo paskelbimą negaliojančiu, vairuotojo pažymėjimas skelbiamas galiojančiu automatinėmis priemonėmis tai pažymint Lietuvos Respublikos kelių transporto priemonių vairuotojų registre.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
 5. Pradedantiesiems vairuotojams išduodamas 3 metus galiojantis vairuotojo pažymėjimas, kurį jie vidaus reikalų ministro ar jo įgaliotos institucijos nustatyta tvarka po 2 metų nuo jo išdavimo dienos turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą nebaigę papildomo vairuotojų mokymo, jeigu per 2 metus nuo pradedantiesiems vairuotojams išduodamo vairuotojo pažymėjimo išdavimo dienos nepažeidė KET reikalavimo (reikalavimų), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba nesukėlė eismo įvykio, dėl kurio buvo sutrikdyta eismo dalyvio sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn). Vairuotojas, kuris, būdamas pradedantysis vairuotojas, pažeidė KET reikalavimą (reikalavimus), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba sukėlė eismo įvykį, dėl kurio buvo sutrikdyta eismo dalyvio sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn), papildomą vairuotojų mokymą privalo baigti per vienus metus nuo nutarimo (teismo nuosprendžio), kuriuo asmuo pripažintas padariusiu teisės pažeidimą, įsiteisėjimo dienos ar nuo administracinio nurodymo, surašyto padarius administracinį nusižengimą, įvykdymo dienos. Tais atvejais, kai teismo nuosprendžiu ar baudžiamuoju įsakymu skiriamas areštas arba terminuotas laisvės atėmimas ir paskirtos bausmės vykdymas neatidėtas, papildomą vairuotojų mokymą privaloma baigti per vienus metus nuo paskirtos bausmės atlikimo.
 
@@ -2718,6 +2722,18 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
+7. Lietuvos Respublikos kelių transporto priemonių registro duomenis, susiejančius transporto priemonės valstybinį registracijos numerį ir transporto priemonės identifikavimo numerį (toliau – VIN), teisėtiems tikslams gali gauti ir kiti duomenų valdytojai ir duomenų tvarkytojai. Atskleisti duomenys gali būti naudojami tik tam tikslui, kuriam jie buvo atskleisti. Duomenys gali būti toliau atskleisti ar kitaip perduoti trečiajai šaliai tik įstatymų nustatytais atvejais. Be to, kas numatyta kitų įstatymų, teisėtais tikslais laikomi transporto paslaugų teikimas ir plėtra.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3157, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20392
+
+8. Duomenys apie transporto priemonės draudžiamuosius įvykius pagal tos transporto priemonės VIN yra vieši (skelbiami ir laisvai prieinami Lietuvos Respublikos transporto priemonių draudikų biuro interneto svetainėje).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3157, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20392
+
 Papildyta straipsniu:
 
 Nr. XIII-403, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09787
@@ -2886,13 +2902,13 @@ Papildyta straipsniu:
 
 Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 
-113 straipsnis. Atlyginimas už viešosios įstaigos Transporto kompetencijų agentūros teikiamas administracines paslaugas
+„113 straipsnis. Atlyginimas už viešosios įstaigos Transporto kompetencijų agentūros teikiamas administracines paslaugas
 
-Už viešosios įstaigos Transporto kompetencijų agentūros teikiamas administracines paslaugas imamas atlyginimas. Atlyginimo dydis nustatomas (apskaičiuojamas) vadovaujantis ekonomiškai pagrįsta paslaugos savikaina. Į paslaugos savikainą negali būti įtraukiamos su konkrečios paslaugos teikimu nesusijusios sąnaudos. Paslaugos savikainos (išlaidų) dydis turi būti pagrindžiamas vadovaujantis šiais ekonominiais rodikliais: viešosios įstaigos Transporto kompetencijų agentūros praėjusių finansinių metų materialinių ir joms prilygintų sąnaudų (ilgalaikio materialiojo turto nusidėvėjimo ir nematerialiojo turto amortizacijos, komunalinių paslaugų, ryšio, remonto ir panašiai) ir darbo sąnaudų (darbo užmokesčio, socialinio draudimo įmokų ir darbuotojų mokymų), turėtų teikiant konkrečią paslaugą, detalizavimu ir numatomos teikti konkrečios paslaugos galimų šių sąnaudų apskaičiavimu. Atlyginimo dydžio nustatymo (apskaičiavimo) metodiką nustato Vyriausybė, o konkrečius jo dydžius, vadovaudamasis šia metodika, – susisiekimo ministras.
+Už viešosios įstaigos Transporto kompetencijų agentūros teikiamas administracines paslaugas imamas atlyginimas. Atlyginimo dydis nustatomas (apskaičiuojamas) vadovaujantis ekonomiškai pagrįsta paslaugos savikaina. Į paslaugos savikainą negali būti įtraukiamos su konkrečios paslaugos teikimu nesusijusios sąnaudos. Paslaugos savikainos (išlaidų) dydis turi būti pagrindžiamas vadovaujantis šiais ekonominiais rodikliais: viešosios įstaigos Transporto kompetencijų agentūros strateginiame veiklos plane patvirtintais sąnaudų dydžiais ir numatomos teikti konkrečios paslaugos galimų sąnaudų apskaičiavimu. Atlyginimo dydžio nustatymo (apskaičiavimo) metodiką nustato Vyriausybė, o konkrečius jo dydžius, vadovaudamasis šia metodika, tvirtina susisiekimo ministras arba jo įgaliota institucija ar įstaiga.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+Nr. XIV-3019, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17781
 
 KETVIRTASIS SKIRSNIS
 
