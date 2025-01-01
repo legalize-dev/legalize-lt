@@ -4,7 +4,7 @@ identifier: "TAR.65AD818F5F9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2024-05-06"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2024-05-06 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-03-31
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
 
@@ -1568,7 +1568,11 @@ Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
 
 4. Leidimai galioja neterminuotai.
 
-5. Leidimai išduodami arba motyvuotai atsisakoma juos išduoti ne vėliau kaip per 10 darbo dienų nuo Transporto saugos administracijos nustatytos formos prašymo ir dokumentų, įrodančių subjekto, siekiančio gauti leidimą, atitiktį šio straipsnio 2 dalyje nurodytiems reikalavimams, gavimo Transporto saugos administracijoje dienos. Leidimas neišduodamas, jeigu nustatoma subjekto, siekiančio gauti leidimą, neatitiktis bent vienam iš šio straipsnio 2 dalyje nurodytų reikalavimų arba jeigu išduoto leidimo galiojimas buvo panaikintas pagal šio straipsnio 12 dalies 4, 5 ir 8 punktus ir nuo jo galiojimo panaikinimo dienos nepraėjo 12 mėnesių. Administracinis sprendimas dėl leidimo išdavimo priimamas ir išduoto leidimo duomenys skelbiami Licencijų informacinėje sistemoje (toliau – LIS). Apie priimtą sprendimą subjektas informuojamas per 3 darbo dienas.
+5. Leidimai išduodami arba motyvuotai atsisakoma juos išduoti ne vėliau kaip per 5 darbo dienas nuo Transporto saugos administracijos nustatytos formos prašymo ir dokumentų, įrodančių subjekto, siekiančio gauti leidimą, atitiktį šio straipsnio 2 dalyje nurodytiems reikalavimams, gavimo Transporto saugos administracijoje dienos. Leidimas neišduodamas, jeigu nustatoma subjekto, siekiančio gauti leidimą, neatitiktis bent vienam iš šio straipsnio 2 dalyje nurodytų reikalavimų arba jeigu išduoto leidimo galiojimas buvo panaikintas pagal šio straipsnio 12 dalies 4, 5 ir 8 punktus ir nuo jo galiojimo panaikinimo dienos nepraėjo 12 mėnesių. Administracinis sprendimas dėl leidimo išdavimo priimamas ir išduoto leidimo duomenys skelbiami Licencijų informacinėje sistemoje (toliau – LIS). Apie priimtą sprendimą subjektas informuojamas per 3 darbo dienas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2571, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08212
 
 6. Transporto saugos administracija LIS įrašo leidimus išduodančios institucijos pavadinimą; leidimo išdavimo datą ir numerį; leidimo rūšį; subjekto pavadinimą, įmonės kodą arba vardą ir pavardę, jeigu subjektas fizinis asmuo, adresą, telefono numerį; gimimo datą (kai leidimas išduotas fiziniam asmeniui); transporto priemonės (-ių) markę (-es), modelį (-ius), valstybinį (-ius) registracijos ir identifikacijos (VIN) numerius; leidimo galiojimo būseną. Vežėjas privalo užtikrinti, kad leidime nurodyta informacija būtų aktuali, ir pasikeitus leidime nurodytiems duomenims per 5 darbo dienas apie tai informuoti Transporto saugos administraciją, o ši ne vėliau kaip per 2 darbo dienas pakeičia leidimą. Siekiant informacinių technologijų priemonėmis centralizuotai pateikti informaciją apie leidimų išdavimo ar jų galiojimo sustabdymo duomenis, LIS duomenys apie konkretiems vežėjams išduotus leidimus ir jiems išduotų leidimų galiojimo sustabdymą yra viešai prieinami. Informacija apie leidimo išdavimą, leidimo galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą elektroninių ryšių priemonėmis pagal keleivių vežimo organizatoriaus ir taksi dispečerinės sutartis su LIS tvarkytoju pateikiama vežėjui, keleivių vežimo organizatoriui ir taksi dispečerinei.
 
