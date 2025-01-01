@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2024-09-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -2626,13 +2626,21 @@ Nr. XII-131, 2012-12-20, Žin., 2012, Nr. 154-7937 (2012-12-29)
 
 Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
 
-68 straipsnis. Mokyklų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų, mokytojų (išskyrus trenerius), pagalbos mokiniui specialistų darbo apmokėjimas
+68 straipsnis. Mokyklų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų, mokytojų (išskyrus aukšto meistriškumo sporto trenerius), pagalbos mokiniui specialistų darbo apmokėjimas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2864, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12649
 
 1. Valstybinės ar savivaldybės mokyklos (išskyrus aukštąsias mokyklas) vadovo, jo pavaduotojo ugdymui darbo užmokestis priklauso nuo mokykloje ugdomų mokinių skaičiaus, pedagoginio darbo stažo ir veiklos sudėtingumo.
 
 2. Valstybinės ar savivaldybės mokyklos (išskyrus aukštąsias mokyklas) ugdymą organizuojančio skyriaus vedėjo darbo užmokestis priklauso nuo pedagoginio darbo stažo ir veiklos sudėtingumo.
 
-3. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos mokytojo (išskyrus trenerius), pagalbos mokiniui specialisto darbo užmokestis priklauso nuo pedagoginio darbo stažo, kvalifikacinės kategorijos ir veiklos sudėtingumo.
+3. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos mokytojo (išskyrus aukšto meistriškumo sporto trenerius (toliau – treneriai)), pagalbos mokiniui specialisto darbo užmokestis priklauso nuo pedagoginio darbo stažo, kvalifikacinės kategorijos ir veiklos sudėtingumo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2864, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12649
 
 4. Mokytojų (išskyrus trenerius) ir pagalbos mokiniui specialistų kvalifikacinės kategorijos, atsižvelgiant į mokytojų (išskyrus trenerius) ir pagalbos mokiniui specialistų išsilavinimą ir jų turimų kompetencijų, reikalingų profesinei veiklai, visumą, nustatomos švietimo ir mokslo ministro nustatyta tvarka.
 
