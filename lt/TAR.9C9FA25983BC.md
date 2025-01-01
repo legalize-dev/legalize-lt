@@ -4,7 +4,7 @@ identifier: "TAR.9C9FA25983BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-02"
-last_updated: "2024-11-23"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2024-11-23 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
 
@@ -289,7 +289,7 @@ SKYRIMAS Į TARNYBĄ (DARBĄ) SPECIALIŲJŲ TYRIMŲ TARNYBOJE
 
 7) jis atleistas iš valstybės tarnautojo pareigų paskyrus tarnybinę nuobaudą – atleidimą iš pareigų arba Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka pripažintas padaręs tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, atleistas iš statutinio valstybės tarnautojo pareigų paskyrus tarnybinę nuobaudą – atleidimą iš tarnybos statutų nustatyta tvarka, atleistas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo, atleistas iš darbo, pareigų ar praradęs teisę verstis atitinkama veikla už neatitiktį įstatymuose keliamiems nepriekaištingos reputacijos reikalavimams ir teisės aktuose nustatytoms etikos normoms, profesinės veiklos pažeidimus ir nuo atleidimo iš pareigų ar tarnybos dienos, pripažinimo padarius tarnybinį nusižengimą dienos arba nuo atleidimo iš darbo, pareigų ar teisės verstis atitinkama veikla praradimo dienos nepraėjo 3 metai;
 
-8) iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Vyriausybės įgaliotos įstaigos pateiktos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš asmens, pareiškusio norą tarnauti Specialiųjų tyrimų tarnyboje, pateiktos informacijos ar kitų duomenų Specialiųjų tyrimų tarnybos direktorius padaro išvadą, kad asmuo neatitinka nepriekaištingos reputacijos reikalavimų;
+8) iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Viešojo sektoriaus darbuotojų registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš asmens, pareiškusio norą tarnauti Specialiųjų tyrimų tarnyboje, pateiktos informacijos ar kitų duomenų Specialiųjų tyrimų tarnybos direktorius padaro išvadą, kad asmuo neatitinka nepriekaištingos reputacijos reikalavimų;
 
 Straipsnio punkto pakeitimai:
 
