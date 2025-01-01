@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2024-11-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -1327,15 +1327,11 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 10. Komunalinių atliekų tvarkymas turi būti organizuojamas taip, kad skatintų atliekas paruošti naudoti pakartotinai ir perdirbti. Visiems komunalinių atliekų turėtojams, neimant papildomo mokesčio, išskyrus nustatytą vietinę rinkliavą už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą (toliau – rinkliava) ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų ir komunalinių atliekų tvarkymą, turi būti:
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
-
 1) užtikrintas aprūpinimas mišrių komunalinių atliekų surinkimo priemonėmis;
 
 2) užtikrintas aprūpinimas biologiškai skaidžių atliekų sutvarkymo priemonėmis;
 
-3) užtikrintas aprūpinimas antrinių žaliavų (popieriaus ir kartono, stiklo, plastiko, metalų, įskaitant pakuočių atliekas) rūšiavimo jų susidarymo vietose priemonėmis;
+3) užtikrintas aprūpinimas antrinių žaliavų (popieriaus ir kartono, stiklo, plastiko, metalų, įskaitant pakuočių atliekas), tekstilės atliekų rūšiavimo jų susidarymo vietose priemonėmis;
 
 4) užtikrinta galimybė atiduoti buityje susidarančias statybines atliekas ir naudotų padangų atliekas;
 
@@ -1404,6 +1400,12 @@ Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 2) užtikrinti antrinių žaliavų rūšiavimo galimybę ir priemones visiems komunalinių atliekų turėtojams;
 
 21) užtikrinti biologiškai skaidžių atliekų rūšiavimo galimybę ir priemones visiems komunalinių atliekų turėtojams;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+
+22) užtikrinti tekstilės atliekų rūšiavimo galimybę ir priemones visiems komunalinių atliekų turėtojams;
 
 Papildyta straipsnio punktu:
 
@@ -2575,7 +2577,11 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 10. Savivaldybių tarybos, vadovaudamosi šio straipsnio 1 dalyje nustatytais principais ir šio straipsnio 2 dalyje nustatytais reikalavimais, taikydamos Tarybos nustatytas regionines kainas, vadovaudamosi Vyriausybės tvirtinamomis rinkliavos ar įmokos dydžio nustatymo taisyklėmis ir savivaldybių rinkliavos ar įmokos dydžio nustatymo teisės aktais, pridėdamos savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinąsias sąnaudas, ne vėliau kaip per 7 mėnesius nuo pirmą kartą nustatytų regioninių kainų nustatymo dienos apskaičiuoja ir patvirtina naujus rinkliavos ar įmokos dydžius arba ne vėliau kaip per 5 mėnesius nuo perskaičiuotų arba vėlesnių metų naujų regioninių kainų nustatymo dienos apskaičiuoja ir patvirtina naujus arba patvirtina esamus rinkliavos ar įmokos dydžius. Savivaldybių tarybos, patvirtindamos naujus arba esamus rinkliavos ar įmokos dydžius, turi įvertinti, ar jų mokama suma už paslaugas neviršys vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Savivaldybės, įgyvendindamos šią nuostatą, turi atsižvelgti į Valstybės duomenų agentūros naujausių kalendorinių metų duomenis apie tos apskrities vidutines disponuojamąsias pajamas per mėnesį. Jeigu apskaičiuotas rinkliavos ar įmokos dydis už komunalinių atliekų tvarkymo paslaugas viršija vieną procentą vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų, savivaldybės iš naujo turi įvertinti komunalinių atliekų tvarkymo sistemos administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudas ir perskaičiuoti rinkliavos ar įmokos dydį, kad jis neviršytų vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Sprendimą dėl patvirtintų naujų rinkliavos ar įmokos dydžių taikymo pradžios ir trukmės priima savivaldybės taryba, atsižvelgdama į Tarybos nustatytos regioninės kainos galiojimo laikotarpį, naujo rinkliavos ar įmokos dydžio, perskaičiuoto dėl šio straipsnio 7 ir 12 dalyse ir (ar) Lietuvos Respublikos rinkliavų įstatymo 13 straipsnio 3 dalyje nurodytų priežasčių, patvirtinimo datą. Jeigu savivaldybės taryba per šioje dalyje nurodytą terminą nepatvirtina naujų arba esamų rinkliavos ar įmokos dydžių, taikomi rinkliavos ar įmokos dydžiai, galioję iki naujų apskaičiuotų regioninių kainų dydžių. Patvirtinus naujus rinkliavos ar įmokos dydžius, atliekų turėtojams susidariusį skirtumą savivaldybės kompensuoja iš savivaldybių biudžetų lėšų.
 
-11. Šio straipsnio 10 dalyje nustatyta tvarka tvirtinant rinkliavos ar įmokos dydžius į komunalinių atliekų tvarkymo regiono savivaldybių skaičiuojamą rinkliavos ar įmokos dalį gali būti įtrauktos regioninės kainos būtinosios sąnaudos (su kitų buityje susidarančių atliekų tvarkymu susijusios sąnaudos, reikalingos reguliuojamajai veiklai vykdyti, ilgalaikiam kitoms buityje susidarančioms atliekoms tvarkyti skirtų regioninių komunalinių atliekų tvarkymo įrenginių eksploatavimui, jų atnaujinimui, plėtrai užtikrinti, priimtinos komunalinių atliekų tvarkymo paslaugos teikimo užtikrinimui ir aplinkos taršos mažinimui, regioninio atliekų tvarkymo centro įgyvendinamų atliekų prevencijai skirtų priemonių, numatytų Vyriausybės tvirtinamame valstybiniame atliekų prevencijos ir tvarkymo plane, regioniniuose atliekų prevencijos ir tvarkymo planuose, savivaldybių atliekų prevencijos ir tvarkymo planuose, įgyvendinimo sąnaudos, gaminių, pakuočių, kurių gamintojams ir (ar) importuotojams taikomas gamintojo atsakomybės principas, atliekų tvarkymo savivaldybės pavedimu regioninių atliekų tvarkymo centrų valdomose didelių gabaritų atliekų surinkimo aikštelėse ir (ar) kompostavimo aikštelėse sąnaudos tokia apimtimi, kiek jų neįpareigoti finansuoti gamintojai ir (ar) importuotojai ir (arba) jų organizacijos pagal šio Įstatymo aštuntąjį1 – aštuntąjį6 ir aštuntąjį11 skirsnius ir (ar) Pakuočių ir pakuočių atliekų tvarkymo įstatymą, sąnaudos), kurios nebuvo įtrauktos pirmą kartą nustatant regioninę kainą.
+11. Neteko galios nuo 2025-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
 
 12. Savivaldybės privalo užtikrinti, kad patvirtinti nauji rinkliavos ar įmokos, kurią moka atliekų turėtojai (fiziniai asmenys) kiekvieną mėnesį už paslaugas, dydžiai neviršys vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Savivaldybė, vadovaudamasi savivaldybės parengtais ir patvirtintais rinkliavos ar įmokos dydžio nustatymo teisės aktais, turi atlikti vertinimą, ar patvirtinus naujus rinkliavos ar įmokos dydžius, šie dydžiai neviršys vieno procento vidutinių mėnesio namų ūkio pajamų. Toks vertinimas atliekamas atsižvelgiant į savivaldybės teritorijoje gyvenančių fizinių asmenų vidutines statistines mėnesio namų ūkio pajamas ir atliekų turėtojų (fizinių asmenų) per mėnesį mokamos rinkliavos ar įmokos dydžio už atliekų tvarkytojo suteiktas paslaugas sumą. Savivaldybė, nustačiusi, kad nauja rinkliavos ar įmokos mokama suma už šias paslaugas viršys vieną procentą vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų, turi imtis veiksmų, kad būtų sumažintos komunalinių atliekų tvarkymo sąnaudos.
 
