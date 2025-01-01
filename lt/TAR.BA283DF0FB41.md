@@ -4,7 +4,7 @@ identifier: "TAR.BA283DF0FB41"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2024-11-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
 
@@ -267,7 +267,11 @@ Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
 
 2. Draudžiama keisti žemės sklypo, kuris pagal naudojimo būdą priskirstas atskirųjų želdynų teritorijoms, pagrindinę žemės naudojimo paskirtį ir (ar) naudojimo būdą, skaidyti tokį žemės sklypą į mažesnius žemės sklypus, jeigu dėl to sumažėtų viešojo atskirojo želdyno plotas, išskyrus atvejus, kai kartu su sprendimu dėl žemės sklypo, kuris pagal naudojimo būdą priskirstas atskirųjų želdynų teritorijoms, pagrindinės žemės naudojimo paskirties ir (ar) naudojimo būdo pakeitimo ar tokio žemės sklypo suskaidymo į mažesnius žemės sklypus, priimamas sprendimas dėl lygiaverčio sumažėjusiam plotui naujo viešojo atskirojo želdyno sukūrimo ne didesniu kaip 500 metrų atstumu nuo žemės sklypo, kuris pagal naudojimo būdą priskirstas atskirųjų želdynų teritorijoms ir kurio pagrindinę žemės naudojimo paskirtį ir (ar) naudojimo būdą nuspręsta pakeisti ar kurį nuspręsta suskaidyti į mažesnius žemės sklypus.
 
-3. Priklausomųjų želdynų minimalų privalomą santykinį plotą žemės sklype, skirtą išimtinai tik želdiniams augti (toliau – priklausomųjų želdynų norma), jo apskaičiavimo tvarką ir teritorijas, kurioms priklausomųjų želdynų norma nenustatoma, tvirtina aplinkos ministras. Priklausomųjų želdynų norma nustatoma atsižvelgiant į teritoriją, kuriai rengiamas teritorijų planavimo dokumentas, esamą ar numatomą žemės sklypo naudojimo būdą (būdus), žemės sklype esančių ir projektuojamų pastatų paskirtį. Priklausomųjų želdynų norma gali būti kompensuojama vertikaliuoju pastatų apželdinimu, su žemės sklypu besiribojančių ar ne didesniu kaip 200 metrų atstumu nuo žemės sklypo ribos esančių ar numatytų įveisti atskirųjų želdynų arba rekreacijai pritaikytų miškų plotais – didžiausius leidžiamus kompensuoti priklausomųjų želdynų normų dydžius ir jų apskaičiavimo tvarką nustato aplinkos ministras. Priklausomųjų želdynų norma privaloma rengiant teritorijų planavimo dokumentus.
+3. Priklausomųjų želdynų minimalų privalomą santykinį plotą žemės sklype, skirtą išimtinai tik želdiniams augti, (toliau – priklausomųjų želdynų norma), jo apskaičiavimo tvarką ir teritorijas, kurioms priklausomųjų želdynų norma nenustatoma, nustato aplinkos ministras. Priklausomųjų želdynų norma nustatoma atsižvelgiant į teritorijų planavimo dokumentus, esamą ar numatomą žemės sklypo naudojimo būdą (būdus), žemės sklype esančių ir projektuojamų pastatų paskirtį. Priklausomųjų želdynų norma gali būti kompensuojama su žemės sklypu besiribojančių ar ne didesniu kaip 200 metrų atstumu nuo žemės sklypo ribos esančių ar  planuojamų įveisti atskirųjų želdynų arba rekreacijai pritaikytų miškų plotais – didžiausius leidžiamus kompensuoti priklausomųjų želdynų normų dydžius ir jų apskaičiavimo tvarką nustato aplinkos ministras. Priklausomųjų želdynų norma privaloma rengiant teritorijų planavimo dokumentus, o rengiant statinių ir (ar) įrenginių projektus, – kai tai numatoma aplinkos ministro tvirtinamose priklausomųjų želdynų normose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
 
 4. Savivaldybių vykdomosios institucijos privalo ne rečiau kaip kartą per 5 metus patikrinti, ar savivaldybės želdynų ir želdinių teritorijose priklausomųjų želdynų normos įvykdytos, ir iki kitų po patikrinimo metų pirmojo ketvirčio pabaigos savivaldybės interneto svetainėje paskelbti informaciją apie priklausomųjų želdynų normos įvykdymą savivaldybės želdynų ir želdinių teritorijose, ir, jeigu priklausomųjų želdynų normos savivaldybės želdynų ir želdinių teritorijose neįvykdytos, pateikti informaciją apie numatytą problemos sprendimą ir terminą jam įgyvendinti.
 
@@ -431,7 +435,11 @@ Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
 
 8. Jeigu saugotiną želdinį nukirtus ar kitaip pašalinus iš augimo vietos paaiškėja, kad privačios žemės sklypo savininkui ar valstybinės žemės valdytojui išduotame leidime nurodytas želdinių atkuriamosios vertės kompensacijos dydis yra netikslus arba neturėjo būti skaičiuojamas, privačios žemės sklypo savininkas ar valstybinės žemės valdytojas turi teisę kreiptis į savivaldybės vykdomąją instituciją dėl želdinių atkuriamosios vertės dydžio perskaičiavimo ir dalies ar visos sumokėtos želdinių atkuriamosios vertės kompensacijos grąžinimo, jeigu leidime nurodytas želdinių atkuriamosios vertės kompensacijos dydis yra didesnis už perskaičiuotąjį arba želdinių atkuriamosios vertės kompensacija neturėjo būti skaičiuojama. Savivaldybės vykdomoji institucija privalo privačios žemės sklypo savininko ar valstybinės žemės valdytojo prašymą dėl želdinių atkuriamosios vertės kompensacijos perskaičiavimo išnagrinėti ir priimti sprendimą dėl želdinių atkuriamosios vertės kompensacijos permokos grąžinimo per 20 darbo dienų nuo tinkamai užpildyto prašymo gavimo bei grąžinti želdinių atkuriamosios vertės kompensacijos permoką per 20 darbo dienų nuo sprendimo priėmimo. Jeigu nukirtus ar kitaip pašalinus iš augimo vietos savivaldybės želdynų ir želdinių teritorijoje buvusį saugotiną želdinį paaiškėja, kad sprendime nurodytas želdinių atkuriamosios vertės kompensacijos dydis yra netikslus arba neturėjo būti skaičiuojamas, savivaldybės vykdomoji institucija jį perskaičiuoja ir atitinkamai sumažina ar padidina savo artimiausios želdinių atkuriamosios vertės kompensacijos dydį.
 
-9. Saugotinų želdinių kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo leidimų išdavimo ir prašymų dėl želdinių atkuriamosios vertės kompensacijos dydžio perskaičiavimo nagrinėjimo ir sumokėtos želdinių atkuriamosios vertės kompensacijos grąžinimo tvarką nustato savivaldybių atstovaujamosios institucijos.
+9. Saugotinų želdinių kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo leidimų išdavimo ir prašymų dėl želdinių atkuriamosios vertės kompensacijos dydžio perskaičiavimo nagrinėjimo bei sumokėtos želdinių atkuriamosios vertės kompensacijos grąžinimo tvarką nustato savivaldybių atstovaujamosios institucijos. Želdinių atkuriamosios vertės kompensacijų lėšos naudojamos viešųjų želdynų ir želdinių apsaugai, priežiūrai ir tvarkymui, želdynų ir želdinių būklės stebėsenai, viešųjų želdynų kūrimui ir želdinių veisimui, želdynų ir želdinių inventorizavimui, atskirųjų želdynų žemės sklypų formavimui, šių sklypų kadastro duomenų nustatymui ir jų įrašymui į Nekilnojamojo turto kadastrą, viešųjų želdynų ir želdinių būklės ekspertizėms atlikti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
 
 10. Kai savivaldybės želdynų ir želdinių teritorijose arba ne savivaldybės valdomoje valstybinėje žemėje ketinama kirsti ar kitaip pašalinti iš augimo vietos 10 ar daugiau saugotinų želdinių, viešuosiuose atskiruosiuose želdynuose augančius saugotinus želdinius, savivaldybės vykdomoji institucija privalo gauti želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisijos išvadą dėl būtinybės kirsti ar kitaip pašalinti iš augimo vietos saugotinus želdinius. Želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisija išvadą privalo pateikti savivaldybės vykdomajai institucijai per 20 darbo dienų.
 
