@@ -4,7 +4,7 @@ identifier: "TAR.5368B592234C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-11"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
 
@@ -282,10 +282,6 @@ Valstybinės duomenų apsaugos inspekcijos direktorius, žurnalistų etikos insp
 14 straipsnis. Priežiūros institucijos reikalavimų privalomumas
 
 Juridiniai ir fiziniai asmenys privalo vykdyti priežiūros institucijos reikalavimus (įskaitant  reikalavimą atvykti į priežiūros institucijos patalpas duoti paaiškinimų, bet tuo neapsiribojant), nedelsdami pateikti informaciją ir (ar) paaiškinimus, dokumentų kopijas ir nuorašus, duomenų kopijas, sudaryti sąlygas susipažinti su visais duomenimis ir (ar) įranga, susijusiais su asmens duomenų tvarkymu, ir dokumentais, reikalingais priežiūros institucijos funkcijoms atlikti.
-
-IV SKYRIUS
-
-VALSTYBINĖS DUOMENŲ APSAUGOS INSPEKCIJOS LEIDIMŲ PERDUOTI ASMENS DUOMENIS Į TREČIĄSIAS VALSTYBES AR TARPTAUTINĖMS ORGANIZACIJOMS IŠDAVIMAS IR SERTIFIKAVIMO ĮSTAIGŲ AKREDITAVIMAS
 
 15 straipsnis. Valstybinės duomenų apsaugos inspekcijos leidimų perduoti asmens duomenis į trečiąsias valstybes ar tarptautinėms organizacijoms pagal Reglamento (ES) 2016/679 46 straipsnio 3 dalį išdavimas
 
@@ -1350,4 +1346,20 @@ Jei kituose tiesiogiai taikomuose Europos Sąjungos teisės aktuose ar jų įgyv
 Papildyta straipsniu:
 
 Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+
+141 straipsnis. Viešas priežiūros institucijos sprendimų skelbimas
+
+1. Priežiūros institucija, siekdama didinti visuomenės informuotumą apie su asmens duomenų tvarkymu susijusias taisykles, apsaugos priemones, teises ir pavojus bei jų supratimą, savo sprendimus, priimtus atlikus tyrimą ir (ar) patikrinimą ir (ar) išnagrinėjus skundą, išskyrus sprendimus, priimtus pagal šio įstatymo 27 ir 29 straipsnius, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos paskelbia viešai savo interneto svetainėje, nepažeisdama asmens duomenų apsaugos, valstybės, tarnybos, profesinės, komercinės paslapties, kitos įstatymų saugomą paslaptį sudarančios ar kitos įstatymų saugomos informacijos apsaugos reikalavimų. Kai priežiūros institucija, atlikusi tyrimą ir (ar) patikrinimą ir (ar) išnagrinėjusi skundą, nenustato Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir (ar) kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų, skelbdama savo sprendimą neatskleidžia duomenų valdytojo ir (ar) duomenų tvarkytojo, kurio atžvilgiu priimtas šis sprendimas, tapatybės.
+
+2. Šio straipsnio 1 dalyje nurodyti sprendimai skelbiami 10 metų nuo jų paskelbimo dienos.
+
+3. Sprendimų skelbimo tvarką nustato priežiūros institucija.
+
+Papildyta straipsniu:
+
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+
+IV SKYRIUS
+
+VALSTYBINĖS DUOMENŲ APSAUGOS INSPEKCIJOS LEIDIMŲ PERDUOTI ASMENS DUOMENIS Į TREČIĄSIAS VALSTYBES AR TARPTAUTINĖMS ORGANIZACIJOMS IŠDAVIMAS IR SERTIFIKAVIMO ĮSTAIGŲ AKREDITAVIMAS
 
