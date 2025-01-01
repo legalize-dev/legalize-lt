@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2024-12-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -1006,11 +1006,13 @@ Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
 
 Nr. XIV-2903, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13538
 
-42 straipsnis. Orlaivių avarijų ir incidentų tyrimas
+42 straipsnis. Pranešimai apie orlaivių avarijas ir incidentus
 
-1. Pranešimų apie orlaivių avarijas ir incidentus teikimo tvarką nustato susisiekimo ministras. Orlaivių avarijų ir incidentų tyrimo tvarką nustato teisingumo ministras.
+Pranešimų apie orlaivių avarijas ir incidentus teikimo tvarką nustato susisiekimo ministras.
 
-2. Orlaivių avarijas ir incidentus tiria teisingumo ministro paskirtas orlaivių avarijų ir incidentų tyrimų vadovas (vadovai).
+Skirsnio pakeitimai:
+
+Nr. XIV-3073, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20017
 
 AŠTUNTASIS skirsnis
 
@@ -1508,7 +1510,11 @@ aviacijos įstatymo
 
 12. 2009 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 272/2009, kuriuo papildomi Europos Parlamento ir Tarybos reglamento (EB) Nr. 300/2008 priede nustatyti bendrieji pagrindiniai civilinės aviacijos saugumo standartai, su paskutiniais pakeitimais, padarytais 2013 m. kovo 19 d. Komisijos reglamentu (ES) Nr. 245/2013.
 
-13. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 dėl civilinės aviacijos avarijų ir incidentų tyrimo ir prevencijos, kuriuo panaikinama Direktyva 94/56/EB, su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139.
+13. Neteko galios nuo 2025-01-01
+
+Punkto naikinimas:
+
+Nr. XIV-3073, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20017
 
 14. 2011 m. lapkričio 3 d. Komisijos reglamentas (ES) Nr. 1178/2011, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su civilinės aviacijos orlaivių įgula susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 14 d. Komisijos įgyvendinimo reglamentu (ES) 2021/2227.
 
@@ -2694,7 +2700,7 @@ Papildyta straipsniu:
 
 Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
 
-SEPTINTASIS skirsnis
+SEPTINTASIS SKIRSNIS
 
-ORLAIVIŲ AVARIJOS IR INCIDENTAI
+PRANEŠIMAI APIE ORLAIVIŲ AVARIJAS IR INCIDENTUS
 
