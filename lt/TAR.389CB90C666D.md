@@ -4,7 +4,7 @@ identifier: "TAR.389CB90C666D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-15"
-last_updated: "2024-12-24"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "1. Įstatymo 51 straipsnis įsigalioja 2002 m. vas
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2024-12-24 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
 
@@ -107,11 +107,19 @@ Nr. XIV-1071, 2022-05-10, paskelbta TAR 2022-05-16, i. k. 2022-10290
 
 13. Visų kategorijų šaunamuosius ginklus, gavę leidimą laikyti ginklus, gali įsigyti ir turėti teatrai ir kiti juridiniai asmenys, kurie verčiasi televizijos laidų, teatrų spektaklių, kino filmų, fotografijų sesijų kūrimu, istorinių įvykių atkūrimu ar paradų, sporto renginių ir mokymų organizavimu. Šioje dalyje nurodyti asmenys privalo per 30 kalendorinių dienų nuo šaunamųjų ginklų įsigijimo perdirbti juos į imitacinius ginklus. Imitacinius ginklus galima naudoti tik vaidinimo, filmavimo, fotografijos sesijos, parado, sporto renginio ar istorinio įvykio atkūrimo ir mokymo vietose. Šaunamųjų ginklų perdirbimo į imitacinius ginklus ir jų naudojimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
-14. Sportui A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7 ir 8 punktuose, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų nuolatiniai Lietuvos Respublikos gyventojai – šaudymo sporto atstovai, kurie per paskutinius 12 mėnesių iki prašymo dėl leidimo laikyti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7 ir 8 punktuose, pateikimo dienos reguliariai užsiėmė šaudymo sportu (dalyvavo bent dvejose tarptautinio ar nacionalinio lygmens šaudymo sporto varžybose) ir aktyviai treniravosi (dalyvavo bent dvejose tarptautinio ar nacionalinio lygmens šaudymo sporto pratybose) rengdamiesi šaudymo sporto varžyboms, ir dalyvavo šaudymo sporto varžybose, kurias yra pripažinusi tarptautiniu mastu pripažinta šaudymo sporto šakos federacija arba nacionalinė šaudymo sporto šakos federacija, kai ginklas atitinka specifikacijas, būtinas šaudymo rungčiai, kurią yra pripažinusi tarptautiniu mastu pripažinta šaudymo sporto šakos federacija arba nacionalinė šaudymo sporto šakos federacija, gavę leidimą laikyti ginklus.
+14. Sportui A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7 ir 8 punktuose, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų nuolatiniai Lietuvos Respublikos gyventojai – sportininkai, kurie pagal tarptautiniu mastu pripažintos šaudymo sporto šakos federacijos arba nacionalinės šaudymo sporto šakos federacijos nustatytus reikalavimus per paskutinius 12 mėnesių iki prašymo dėl leidimo laikyti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7 ir 8 punktuose, pateikimo dienos reguliariai užsiėmė šaudymo sportu (dalyvavo bent dvejose tarptautinio ar nacionalinio lygmens šaudymo aukšto meistriškumo sporto varžybose) ir aktyviai treniravosi (dalyvavo bent dvejose tarptautinio ar nacionalinio lygmens šaudymo aukšto meistriškumo sporto pratybose) rengdamiesi šaudymo aukšto meistriškumo sporto varžyboms, ir dalyvavo šaudymo aukšto meistriškumo sporto varžybose, kurias yra pripažinusi tarptautiniu mastu pripažinta šaudymo sporto šakos federacija arba nacionalinė šaudymo sporto šakos federacija, kai ginklas atitinka specifikacijas, būtinas šaudymo sporto rungčiai, kurią yra pripažinusi tarptautiniu mastu pripažinta šaudymo sporto šakos federacija arba nacionalinė šaudymo sporto šakos federacija, gavę leidimą laikyti ginklus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+
+Nr. XIV-2862, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12646
+
+141. A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7 ir 8 punktuose, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų nuolatiniai Lietuvos Respublikos gyventojai – Lietuvoje įsteigtos šaudymo organizacijos nariai, kurie per paskutinius 12 mėnesių iki prašymo dėl leidimo laikyti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7 ir 8 punktuose, pateikimo dienos reguliariai užsiėmė šaudymu (dalyvavo bent dviejuose šaudymo užsiėmimuose) ir aktyviai treniravosi (dalyvavo bent dvejose šaudymo treniruotėse) rengdamiesi šaudymo veikloms, ir dalyvavo šaudymo veiklose, kai ginklas atitinka specifikacijas, būtinas šaudymo veiklai, gavę leidimą laikyti ginklus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2862, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12646
 
 15. Šio straipsnio 2, 3, 4 ir 5 dalyse nurodyti fiziniai asmenys, turintys Lietuvos Respublikos pilietybę, prieš kreipdamiesi į policijos įstaigą dėl nurodyto leidimo B kategorijos ginklui išdavimo ar galiojimo termino pratęsimo šio įstatymo nustatytais atvejais, taip pat šio straipsnio 6, 12 ir 14 dalyse nurodyti fiziniai asmenys, turintys Lietuvos Respublikos pilietybę, prieš kreipdamiesi į policijos įstaigą dėl nurodyto leidimo A ir B kategorijų ginklams išdavimo ar galiojimo termino pratęsimo šio įstatymo nustatytais atvejais, privalo išklausyti pilietinio pasipriešinimo kursą krašto apsaugos ministro arba jo įgaliotos institucijos nustatyta tvarka.
 
@@ -671,7 +679,11 @@ Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 
 3. Fizinio asmens, turinčio ginklą medžioklei, leidimo laikyti ginklus galiojimas taip pat panaikinamas netekus teisės medžioti.
 
-4. Fizinio asmens, turinčio ginklą sportui, leidimo laikyti ginklus galiojimas taip pat panaikinamas fiziniam asmeniui nutraukus šaudymo sporto veiklą.
+4. Fizinio asmens, turinčio ginklą sportui, leidimo laikyti ginklus galiojimas taip pat panaikinamas fiziniam asmeniui nutraukus šaudymo sporto arba šaudymo veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2862, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12646
 
 5. Fizinio asmens, turinčio ginklą šaulio tarnybai, leidimo laikyti ginklus ir leidimo nešiotis ginklus galiojimas panaikinamas netekus narystės Lietuvos šaulių sąjungoje. Profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti leidimo laikyti ginklus ir leidimo nešiotis ginklus galiojimas panaikinamas karį atleidus iš tarnybos.
 
@@ -1359,11 +1371,13 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
 3. Juridinis asmuo, kita organizacija ar jų padalinys jiems priklausančius B ar C kategorijos ginklus, jų šaudmenis gali perleisti naudoti jų darbuotojui, turinčiam teisę laikyti ar nešiotis tos kategorijos ginklą.
 
-4. Juridinis asmuo, kita organizacija ar jų padalinys arba fizinis asmuo jiems priklausančius A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, B ar C kategorijos ginklus, jų šaudmenis turi teisę šaudymo sporto varžybų, pratybų, mokymų metu laikinai perleisti naudoti fiziniams asmenims (įskaitant trečiųjų šalių gyventojus), prižiūrint treneriui ar kitam atsakingam už saugų šaudymą asmeniui.
+4. Juridinis asmuo, kita organizacija ar jų padalinys arba fizinis asmuo jiems priklausančius A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, B ar C kategorijos ginklus, jų šaudmenis turi teisę šaudymo aukšto meistriškumo sporto varžybų, aukšto meistriškumo sporto pratybų, mokymų metu laikinai perleisti naudoti fiziniams asmenims (įskaitant trečiųjų šalių gyventojus), prižiūrint aukšto meistriškumo sporto treneriui ar kitam atsakingam už saugų šaudymą asmeniui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
+
+Nr. XIV-2862, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12646
 
 17 straipsnis. Teisės įsigyti ir turėti ginklus ir šaudmenis apribojimai
 
