@@ -4,7 +4,7 @@ identifier: "TAR.9F4371AB03A3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-18"
-last_updated: "2024-09-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
 
@@ -118,7 +118,11 @@ Fizinis asmuo (toliau – pareiškėjas) pripažįstamas advokatu, jeigu jis:
 
 1) yra Lietuvos Respublikos arba Europos Sąjungos valstybės narės pilietis;
 
-2) turi aukštąjį universitetinį teisinį išsilavinimą – teisės bakalauro ir teisės magistro kvalifikacinius laipsnius arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį universitetinį teisinį išsilavinimą);
+2) turi aukštojo mokslo kvalifikaciją, įgytą baigus universitetines teisės studijų krypties pirmosios ir antrosios studijų pakopų ar vientisąsias studijas, arba jai lygiavertę aukštojo mokslo kvalifikaciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3055, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19682
 
 3) turi ne mažesnį kaip penkerių metų teisinio darbo stažą arba atliko ne trumpesnę kaip dvejų metų advokato padėjėjo praktiką. Teisiniu darbu laikomas darbas, nurodytas Lietuvos Respublikos Vyriausybės patvirtintame teisinių pareigybių sąraše. Teisinio darbo stažas skaičiuojamas nuo to laiko, kai asmuo įgijo teisės bakalauro arba teisės magistro, arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį universitetinį teisinį išsilavinimą) ir pradėjo dirbti teisinį darbą;
 
@@ -126,13 +130,13 @@ Fizinis asmuo (toliau – pareiškėjas) pripažįstamas advokatu, jeigu jis:
 
 5) moka valstybinę kalbą;
 
-6) išlaikė advokatų kvalifikacinį egzaminą, o asmuo, kuris turi nepertraukiamą ne mažesnį kaip penkerių metų advokato veiklos stažą ir dėl kurio pripažinimo advokatu sprendimas buvo panaikintas šio Įstatymo 13 straipsnio 1 dalies 2 ir 4 punktuose numatytais pagrindais, taip pat kuris turi nepertraukiamą ne mažesnį kaip penkerių metų teisėjo darbo stažą, nepertraukiamą ne mažesnį kaip septynerių metų prokuroro darbo stažą, yra teisės krypties socialinių mokslų daktaras, išskyrus asmenis, teistus už sunkų ar labai sunkų nusikaltimą arba kitą tyčinį nusikaltimą (šio Įstatymo 8 straipsnio 1 ir 2 punktai), – jeigu išlaikė advokatų veiklos organizavimo egzaminą;
-
-TAR pastaba. 6 punkto nuostatos netaikomos asmenims, iki įstatymo Nr. XIII-879 įsigaliojimo (2018-01-01) pateikusiems prašymus laikyti advokatų egzaminus, prašymus pripažinti juos advokatais, prašymus įrašyti juos į advokatų padėjėjų sąrašą.
+6) išlaikė advokatų kvalifikacinį egzaminą, o asmuo, kuris turi nepertraukiamą ne mažesnį kaip penkerių metų advokato veiklos stažą ir dėl kurio pripažinimo advokatu sprendimas buvo panaikintas šio Įstatymo 13 straipsnio 1 dalies 2 ir 4 punktuose numatytais pagrindais, taip pat kuris turi nepertraukiamą ne mažesnį kaip penkerių metų teisėjo darbo stažą, nepertraukiamą ne mažesnį kaip septynerių metų prokuroro darbo stažą, socialinių mokslų srities teisės krypties mokslo daktaro laipsnį, išskyrus asmenis, padariusius nusikaltimus ar tyčinius baudžiamuosius nusižengimus, – jeigu išlaikė advokatų veiklos organizavimo egzaminą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+Nr. XIV-3055, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19682
 
 7) neteko galios nuo 2022-01-01.
 
@@ -148,45 +152,51 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 8 straipsnis. Nepriekaištinga reputacija
 
-Pareiškėjas nelaikomas esąs nepriekaištingos reputacijos ir negali būti pripažintas advokatu, jeigu jis:
+1. Pareiškėjas nelaikomas esąs nepriekaištingos reputacijos ir negali būti pripažintas advokatu, jeigu jis:
 
-1) yra teistas už sunkų ar labai sunkų nusikaltimą, – kol teistumas neišnykęs arba nepanaikintas ir ne mažiau kaip ketverius metus nuo bausmės atlikimo ar atleidimo nuo bausmės atlikimo dienos;
+1) yra padaręs labai sunkų nusikaltimą ir:
 
-2) yra teistas už kitą, negu nurodyta šio straipsnio 1 punkte, tyčinį nusikaltimą, –kol teistumas neišnykęs arba nepanaikintas ir ne mažiau kaip trejus metus nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos;
+a) yra nuteistas ir nuo bausmės atlikimo arba atleidimo nuo bausmės atlikimo dienos nėra praėję dvylika metų;
 
-3) yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo, bet nuo baudžiamosios atsakomybės atleistas, ir nuo nuosprendžio įsiteisėjimo dienos nepraėjo dveji metai;
+b) yra atleistas nuo baudžiamosios atsakomybės Lietuvos Respublikos baudžiamojo kodekso 36 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję penkeri metai arba yra atleistas Baudžiamojo kodekso 391 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję dešimt metų;
 
-TAR pastaba. 3 punkto nuostatos taikomos tik tais atvejais, kai tuose punktuose nurodytos aplinkybės atsirado po įstatymo Nr. XIII-879  įsigaliojimo (2018-01-01).
+2) yra padaręs sunkų nusikaltimą ir:
 
-Papildyta straipsnio punktu:
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję dešimt metų;
 
-Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję ketveri metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję aštuoneri metai;
 
-4) yra atleistas iš darbo, pareigų ar netekęs teisės verstis tam tikra veikla dėl to, kad neatitinka įstatymuose keliamo nepriekaištingos reputacijos reikalavimo, arba yra atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus (asesoriaus), notaro atstovo, antstolio, antstolio atstovo, antstolio padėjėjo pareigų už profesinės ar tarnybinės veiklos pažeidimus, arba yra atleistas iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą, arba yra pripažintas padaręs tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, arba yra atleistas iš darbo už šiurkštų darbo pareigų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla netekimo arba pripažinimo padarius tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, nepraėjo dveji metai;
+3) yra padaręs apysunkį nusikaltimą ir:
 
-Straipsnio punkto numeracijos pakeitimas:
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję aštuoneri metai;
 
-Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar 37 straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję treji metai arba atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję šešeri metai;
 
-5) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis;
+4) yra padaręs nesunkų nusikaltimą ir:
 
-Straipsnio punkto numeracijos pakeitimas:
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję penkeri metai;
 
-Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar 37 straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję dveji metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję treji metai;
 
-6) neatitinka asmeniui, kuris verčiasi advokato veikla, taikomų elgesio ir veiklos reikalavimų, nustatytų Lietuvos advokatų etikos kodekse.
+5) yra padaręs tyčinį baudžiamąjį nusižengimą ir:
 
-TAR pastaba. 6 punkto nuostatos taikomos tik tais atvejais, kai tuose punktuose nurodytos aplinkybės atsirado po įstatymo Nr. XIII-879  įsigaliojimo (2018-01-01).
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję treji metai;
 
-Papildyta straipsnio punktu:
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar 37 straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję vieni metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję dveji metai;
 
-Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+6) yra atleistas iš darbo, pareigų ar netekęs teisės verstis tam tikra veikla dėl to, kad neatitinka įstatymuose keliamų nepriekaištingos reputacijos reikalavimų, arba yra atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus (asesoriaus), notaro atstovo, antstolio, antstolio atstovo, antstolio padėjėjo pareigų už profesinės ar tarnybinės veiklos pažeidimus, arba yra atleistas iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą, arba yra pripažintas padaręs tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, arba yra atleistas iš darbo už šiurkštų darbo pareigų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla netekimo arba pripažinimo padarius tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, nėra praėję treji metai;
+
+7) yra atleistas arba pašalintas iš skiriamų ar renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo arba pareigūno vardo pažeminimo ir nuo atleidimo arba pašalinimo iš pareigų dienos nėra praėję treji metai;
+
+8) piktnaudžiauja alkoholiu, vartoja psichotropines, narkotines ar kitas psichiką veikiančias medžiagas ne medicinos tikslais;
+
+9) neatitinka asmeniui, kuris verčiasi advokato veikla, taikomų elgesio ir veiklos reikalavimų, nustatytų Lietuvos advokatų etikos kodekse.
+
+2. Jeigu pareiškėjas yra padaręs korupcinio pobūdžio nusikalstamą veiką, kuri suprantama taip, kaip apibrėžiama Lietuvos Respublikos korupcijos prevencijos įstatyme, šio straipsnio 1 dalyje nurodyti terminai, kai pareiškėjas nelaikomas esąs nepriekaištingos reputacijos, ilginami vienu trečdaliu.
 
 Straipsnio pakeitimai:
 
-Nr. X-1494, 2008-04-15, Žin., 2008, Nr. 50-1843 (2008-04-30)
-
-Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
+Nr. XIV-3055, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19682
 
 9 straipsnis. Dokumentų dėl asmens pripažinimo advokatu pateikimas
 
@@ -736,11 +746,13 @@ Nr. XI-2235, 2012-10-02, Žin., 2012, Nr. 122-6094 (2012-10-20)
 
 Advokatas, vykdydamas advokato veiklą, turi teisę:
 
-1) gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų jų turimą ar tvarkomą ir teisinėms paslaugoms teikti reikalingą informaciją, duomenis (įskaitant specialių kategorijų asmens duomenis), dokumentus, jų nuorašus. Advokato kreipimesi turi būti pateikti duomenys, įrodantys prašomų pateikti dokumentų ar jų nuorašų ryšį su teisinių paslaugų teikimu. Advokatui, kuris nepagrindžia, kad prašoma informacija, duomenys, dokumentai ar jų nuorašai yra reikalingi teisinėms paslaugoms teikti, motyvuotai atsisakoma juos pateikti;
+1) gauti iš valstybės ir savivaldybių institucijų, taip pat informacinių sistemų, kurios suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, (toliau – informacinės sistemos) jų turimą ar tvarkomą ir teisinėms paslaugoms teikti reikalingą informaciją, duomenis (įskaitant specialių kategorijų asmens duomenis), dokumentus, jų nuorašus. Advokato kreipimesi turi būti pateikti duomenys, įrodantys prašomų pateikti dokumentų ar jų nuorašų ryšį su teisinių paslaugų teikimu. Advokatui, kuris nepagrindžia, kad prašoma informacija, duomenys, dokumentai ar jų nuorašai yra reikalingi teisinėms paslaugoms teikti, motyvuotai atsisakoma juos pateikti;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+Nr. XIV-3055, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19682
 
 2) savarankiškai rinkti teisinėms paslaugoms teikti reikalingus duomenis, kuriuos advokatas gali gauti nesinaudodamas procesinėmis prievartos priemonėmis, t. y. gauti iš asmenų reikalingus dokumentus ar jų nuorašus, ar kitokią teisinėms paslaugoms teikti reikalingą informaciją. Advokato kreipimesi turi būti pateikti duomenys, įrodantys prašomų pateikti dokumentų ar jų nuorašų ryšį su teisinių paslaugų teikimu. Asmenys, pateikę advokatui reikalingus duomenis, turi teisę į būtinų tokios informacijos pateikimo sąnaudų kompensavimą, išskyrus įstatymų nustatytus atvejus;
 
@@ -894,13 +906,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-2290, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23068
 
-6. Lietuvos advokatūra, atlikdama šio Įstatymo 57 straipsnyje nustatytas funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant advokatų, advokatų padėjėjų, Europos Sąjungos valstybių narių teisininkų, turinčių teisę laikinai teikti paslaugas Lietuvos Respublikoje, Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, trečiųjų šalių teisininkų, turinčių teisę teikti teisines paslaugas Lietuvos Respublikoje, asmenų, siekiančių būti pripažintų advokatais ar būti įrašytų į Lietuvos advokatų padėjėjų sąrašą, Europos Sąjungos valstybių narių teisininkų, siekiančių būti įregistruotų į Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą, trečiųjų šalių teisininkų ir trečiųjų šalių teisininkų, netekusių teisininko profesinio vardo, siekiančių būti įregistruotų į Trečiųjų šalių teisininkų, turinčių teisę teikti teisines paslaugas Lietuvos Respublikoje, sąrašą (toliau – Trečiųjų šalių teisininkų sąrašas), asmens duomenis ir duomenis apie asmens teistumą), dokumentus ar dokumentų nuorašus.
+6. Lietuvos advokatūra, atlikdama šio Įstatymo 57 straipsnyje nustatytas funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat informacinių sistemų šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant advokatų, advokatų padėjėjų, Europos Sąjungos valstybių narių teisininkų, turinčių teisę laikinai teikti paslaugas Lietuvos Respublikoje, Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, trečiųjų šalių teisininkų, turinčių teisę teikti teisines paslaugas Lietuvos Respublikoje, asmenų, siekiančių būti pripažintų advokatais ar būti įrašytų į Lietuvos advokatų padėjėjų sąrašą, Europos Sąjungos valstybių narių teisininkų, siekiančių būti įregistruotų į Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą, trečiųjų šalių teisininkų ir trečiųjų šalių teisininkų, netekusių teisininko profesinio vardo, siekiančių būti įregistruotų į Trečiųjų šalių teisininkų, turinčių teisę teikti teisines paslaugas Lietuvos Respublikoje, sąrašą (toliau – Trečiųjų šalių teisininkų sąrašas), asmens duomenis ir duomenis apie asmens teistumą), dokumentus ar dokumentų nuorašus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
 
 Nr. XIV-2290, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23068
+
+Nr. XIV-3055, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19682
 
 7. Lietuvos advokatūra, atlikdama šiame Įstatyme nustatytas funkcijas, susijusias su drausmės bylos iškėlimu, be šio straipsnio 6 dalyje nurodytų teisių, turi teisę gauti šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant pareiškėjų asmens duomenis ir duomenis apie asmens teistumą), dokumentus ar dokumentų nuorašus ir iš fizinių ar juridinių asmenų.
 
@@ -1100,7 +1114,11 @@ Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
 
 26) atlieka kitas Lietuvos advokatūros įstatuose numatytas funkcijas.
 
-3. Advokatų taryba, atlikdama šio straipsnio 2 dalyje nustatytas funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų šioms funkcijoms atlikti reikalingą asmenų, nurodytų šio Įstatymo 56 straipsnio 6 dalyje, informaciją, duomenis (įskaitant asmens duomenis ir duomenis apie asmens teistumą), dokumentus ar dokumentų nuorašus.
+3. Advokatų taryba, atlikdama šio straipsnio 2 dalyje nustatytas funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat informacinių sistemų šioms funkcijoms atlikti reikalingą informaciją apie asmenis, nurodytus šio Įstatymo 56 straipsnio 6 dalyje (šių asmenų duomenis (įskaitant asmens duomenis ir duomenis apie asmens teistumą) ir su jais susijusius dokumentus ar dokumentų nuorašus).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3055, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19682
 
 4. Advokatų taryba, atlikdama šiame Įstatyme nustatytas funkcijas, susijusias su drausmės bylos iškėlimu advokatui ar advokato padėjėjui, be šio straipsnio 3 dalyje nurodytų teisių, turi teisę gauti šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant asmens duomenis ir duomenis apie asmens teistumą), dokumentus ar dokumentų nuorašus ir iš fizinių ar juridinių asmenų.
 
@@ -1174,7 +1192,11 @@ Papildyta straipsnio punktu:
 
 Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
 
-2. Teisę panaikinti sprendimą pripažinti asmenį advokatu šiame straipsnyje nurodytais pagrindais turi Lietuvos advokatūra. Dėl sprendimo pripažinti asmenį advokatu panaikinimo į Lietuvos advokatūrą turi teisę kreiptis Lietuvos Respublikos teisingumo ministras (toliau – teisingumo ministras). Jeigu Lietuvos advokatūra atsisako patenkinti teisingumo ministro prašymą panaikinti sprendimą pripažinti asmenį advokatu arba per keturiasdešimt penkias dienas nuo šio prašymo gavimo dienos nepriėmė sprendimo, teisingumo ministras per trisdešimt dienų turi teisę kreiptis į Vilniaus apygardos teismą su prašymu įpareigoti Lietuvos advokatūrą panaikinti sprendimą pripažinti asmenį advokatu.
+2. Teisę panaikinti sprendimą pripažinti asmenį advokatu šiame straipsnyje nurodytais pagrindais turi Lietuvos advokatūra. Dėl sprendimo pripažinti asmenį advokatu panaikinimo į Lietuvos advokatūrą turi teisę kreiptis teisingumo ministras. Jeigu Lietuvos advokatūra atsisako patenkinti teisingumo ministro prašymą panaikinti sprendimą pripažinti asmenį advokatu arba per keturiasdešimt penkias dienas nuo šio prašymo gavimo dienos nepriima sprendimo, teisingumo ministras per trisdešimt dienų turi teisę kreiptis į Vilniaus apygardos teismą su prašymu įpareigoti Lietuvos advokatūrą panaikinti sprendimą pripažinti asmenį advokatu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3055, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19682
 
 3. Advokatas netenka advokato vardo ir yra išbraukiamas iš asmenų, pripažintų advokatais, sąrašo nuo sprendimo panaikinti sprendimą pripažinti asmenį advokatu priėmimo dienos.
 
