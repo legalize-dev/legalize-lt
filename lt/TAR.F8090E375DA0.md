@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2024-11-21"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
-Suvestinė redakcija nuo 2024-11-21 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 
@@ -222,6 +222,18 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 45. Tabako gaminių ir (ar) susijusių gaminių prekybos vieta (toliau – prekybos vieta) – tabako gaminių ir (ar) susijusių gaminių mažmeninės prekybos vieta, taip pat patalpa, kuriose vyksta tabako gaminių ir (ar) susijusių gaminių didmeninė prekyba.
 
 46. Tabako gaminių ir (ar) susijusių gaminių reklama – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija apie tabako gaminius ir (ar) susijusius gaminius, tiesiogiai ar netiesiogiai skatinanti įsigyti ir (ar) vartoti tabako gaminius ir (ar) susijusius gaminius.
+
+461. Tabako gaminių parduotuvė – parduotuvė, kurios prekių asortimentą sudaro tik tabako gaminiai, su tabako gaminiais susiję gaminiai ir įrenginiai, skirti šiems gaminiams vartoti, taip pat rūkyti pasiruošti skirtos prekės ir jų dalys bei su rūkymu susiję aksesuarai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
+
+462. Tabako gaminių skyrius – parduotuvės skyrius, kurio prekių asortimentą sudaro tik tabako gaminiai, su tabako gaminiais susiję gaminiai ir įrenginiai, skirti šiems gaminiams vartoti, taip pat rūkyti pasiruošti skirtos prekės ir jų dalys bei su rūkymu susiję aksesuarai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
 
 47. Tabako, tabako gaminių ir (ar) susijusių gaminių kontrolė (toliau – tabako kontrolė) – šiame Įstatyme ir kituose tabako kontrolę reglamentuojančiuose teisės aktuose nustatytų tabako, tabako gaminių ir (ar) susijusių gaminių vartojimo, gamybos, įvežimo, importo, prekybos, reklamos, įsigijimo, įsigijimo ir (ar) vartojimo skatinimo, rėmimo valstybinio reglamentavimo priemonių, skirtų tabako gaminių ir (ar) susijusių gaminių vartojimui, taip pat jų vartojimo neigiamiems padariniams sveikatai ir ūkiui mažinti, visuma.
 
@@ -775,7 +787,7 @@ Straipsnio pakeitimai:
 
 Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
-17 straipsnis. Tabako gaminių reklamos draudimas
+17 straipsnis. Tabako gaminių reklamos draudimas ir mažmeninės prekybos vietose leidžiama pateikti informacija
 
 1. Lietuvos Respublikoje tabako gaminių reklama (toliau – reklama), išskyrus šio straipsnio 2 dalyje nustatytus atvejus, taip pat paslėpta tabako gaminių reklama draudžiama.
 
@@ -783,39 +795,29 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 1) šio straipsnio 3 dalyje nurodytai informacijai, pateikiamai mažmeninės prekybos vietose, kuriose tabako gaminiai parduodami vartotojui;
 
-2) leidiniams, kurie skirti tik tabako verslo specialistams (profesionalams), taip pat leidiniams, išspausdinamiems ir skelbiamiems valstybėse, kurios nėra Europos ekonominės erdvės susitarimo dalyvės, kai šie leidiniai yra skirti ne Europos Bendrijos rinkai;
+2) leidiniams, kurie skirti tik tabako verslo specialistams (profesionalams), taip pat leidiniams, spausdinamiems ir skelbiamiems valstybėse, kurios nėra Europos ekonominės erdvės susitarimo dalyvės, kai šie leidiniai yra skirti ne Europos Bendrijos rinkai;
 
-3) tabako gaminius gaminančių arba jais prekiaujančių juridinių asmenų ar užsienio juridinių asmenų filialų registruotiems pavadinimams ir prekių ženklams (jeigu tabako gaminio, tabako gaminių gamintojo pavadinimas ar prekių ženklas yra sudedamoji šių juridinių asmenų ar užsienio juridinių asmenų filialų registruoto pavadinimo dalis), kai šie pavadinimai ir prekių ženklai pateikiami iškabose ant šių juridinių asmenų ar užsienio juridinių asmenų filialų buveinės ar padalinio pastato. Ant juridinių asmenų ar užsienio juridinių asmenų filialų valdomo transporto gali būti pateikiami tik tabako gaminius gaminančių arba jais prekiaujančių juridinių asmenų ar užsienio juridinių asmenų filialų registruoti pavadinimai;
+3) tabako gaminius gaminančių arba jais prekiaujančių juridinių asmenų ar užsienio juridinių asmenų filialų registruotiems pavadinimams ir prekių ženklams (jeigu tabako gaminio, tabako gaminių gamintojo pavadinimas ar prekių ženklas yra sudedamoji šių juridinių asmenų ar užsienio juridinių asmenų filialų registruoto pavadinimo dalis), kai šie pavadinimai ir prekių ženklai pateikiami iškabose ant šių juridinių asmenų ar užsienio juridinių asmenų filialų buveinės ar padalinio pastato. Ant juridinių asmenų ar užsienio juridinių asmenų filialų valdomo transporto gali būti pateikiami tik tabako gaminius gaminančių arba jais prekiaujančių juridinių asmenų ar užsienio juridinių asmenų filialų registruoti pavadinimai.
 
-4) netenka galios 2017-01-01.
+3. Mažmeninės prekybos vietose Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka leidžiama pateikti tik šią tabako gaminių, su tabako gaminiais susijusių gaminių informaciją:
 
-Straipsnio punkto pakeitimai:
+1) gamintojo, parduodamų tabako gaminių, su tabako gaminiais susijusių gaminių, įrenginių, skirtų šiems gaminiams vartoti, pavadinimus;
 
-Nr. XIII-69, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28885
+2) žodžius „Prekiaujame“ arba „Parduodame“;
 
-3. Mažmeninės prekybos vietose ant įrangos, skirtos tabako gaminiams išdėstyti, leidžiama pateikti tik šią informaciją:
+3) tabako gaminių, su tabako gaminiais susijusių gaminių, įrenginių, skirtų šiems gaminiams vartoti, vienetinio pakelio ar išorinės pakuotės, apimančios kelis vienetinius pakelius, kainas.
 
-1) gamintojo, pardavėjo pavadinimą ir buveinės adresą;
+4. Tabako gaminių parduotuvėse ir tabako gaminių skyriuose, be šio straipsnio 3 dalyje nurodytos leidžiamos pateikti informacijos, leidžiama eksponuoti (demonstruoti) tabako gaminius, su tabako gaminiais susijusius gaminius, įrenginius, skirtus šiems gaminiams vartoti, (su sąlyga, kad šie gaminiai ir (ar) įrenginiai nėra eksponuojami (demonstruojami) šių parduotuvių ar skyrių išorinėse vitrinose ir (ar) pro kitus išorinius šios parduotuvės įrenginius).
 
-2) parduodamų tabako gaminių pavadinimus;
+5. Mažmeninės prekybos vietose Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka taip pat privalo būti pateikta informacija (įspėjimai) apie kenksmingą tabako gaminių vartojimo poveikį sveikatai ir apie draudimą parduoti tabako gaminius asmenims iki 18 metų.
 
-3) žodžius „Prekiaujame“ arba „Parduodame“;
-
-4)  tabako gaminių kainas.
-
-4. Mažmeninės prekybos vietose Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka taip pat privalo būti pateikta informacija (įspėjimai) apie kenksmingą tabako gaminių vartojimo poveikį sveikatai ir apie draudimą parduoti tabako gaminius asmenims iki 18 metų.
-
-5. Šio straipsnio 3 dalyje nurodytą informaciją leidžiama pateikti tik kartu su išdėstytais tabako gaminiais. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti, be to, mažmeninės prekybos vietose draudžiama pateikti tabako gaminių ar jų vienetinių pakelių imitacijas ir atvaizdus. Mažmeninės prekybos vietose apie tabako gaminius negali būti pateikiama jokia kita šio straipsnio 3 ir 4 dalyse nenustatyta vaizdinė ar grafinė informacija.
-
-Straipsnio pakeitimai:
-
-Nr. X-390, 2005-11-15, Žin., 2005, Nr. 142-5105 (2005-12-03)
-
-Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
+6. Šio straipsnio 3 dalyje nurodytą informaciją leidžiama pateikti tik tose vietose, kur prekiaujama tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir įrenginiais, skirtais šiems gaminiams vartoti. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti, be to, mažmeninės prekybos vietose draudžiama pateikti tabako gaminių, su tabako gaminiais susijusių gaminių ar jų vienetinių pakelių, ar įrenginių, skirtų šiems gaminiams vartoti, imitacijas ir atvaizdus. Mažmeninės prekybos vietose negali būti pateikiama jokia kita šio straipsnio 3 ir 5 dalyse nenustatyta vaizdinė ar grafinė informacija apie tabako gaminius, su tabako gaminiais susijusius gaminius ir įrenginius, skirtus šiems gaminiams vartoti.
 
 Straipsnio pakeitimai:
 
 Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
+
+Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
 
 18 straipsnis. Kiti su tabako gaminiais ir susijusiais gaminiais bei įrenginiais, skirtais šiems gaminiams vartoti, susiję draudimai
 
@@ -1079,9 +1081,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
 
-9. Už šio Įstatymo 17 straipsnio 1 dalyje ir 171 straipsnyje nustatytų reklamos draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki penkių tūkstančių septynių šimtų devyniasdešimt dviejų eurų bauda.
+9. Už šio Įstatymo 151 straipsnyje nustatytų specialiųjų reikalavimų pažeidimą, 17 straipsnio 1 dalyje ir 171 straipsnyje nustatytų reklamos draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki penkių tūkstančių septynių šimtų devyniasdešimt dviejų eurų bauda.
 
-10. Už šio Įstatymo 17 straipsnio 4 ar 5 dalyje nustatytų informacijos pateikimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
+
+10. Už šio Įstatymo 17 straipsnio 5 ar 6 dalyje nustatytų informacijos pateikimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
 
 11. Už šio Įstatymo 18 straipsnyje nustatytų draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda.
 
@@ -1089,7 +1099,7 @@ Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
 
 13. Už šio Įstatymo nuostatų pažeidimus baudas skiria:
 
-1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už 41 straipsnio, 87 straipsnio, 9 straipsnio 1, 2, 4, 10 ir 14 dalių, 93, 96, 99, 910, 911 straipsnių, 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5, 6, 8, 9, 10 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 14 straipsnio 3 dalies 1, 2, 3, 4, 6 ir 8 punktų, 14 straipsnio 5 dalies, 141 straipsnio 1, 2, 3, 4 dalių, 15 ir 16 straipsnių, 161 straipsnio 1 dalies, 162 straipsnio, 17 straipsnio 1, 4 ir 5 dalių, 171 ir 18 straipsnių, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus;
+1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už 41 straipsnio, 87 straipsnio, 9 straipsnio 1, 2, 4, 10 ir 14 dalių, 93, 96, 99, 910, 911 straipsnių, 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5, 6, 8, 9, 10 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 14 straipsnio 3 dalies 1, 2, 3, 4, 6 ir 8 punktų, 14 straipsnio 5 dalies, 141 straipsnio 1, 2, 3, 4 dalių, 15, 151 ir 16 straipsnių, 161 straipsnio 1 dalies, 162 straipsnio, 17 straipsnio 1, 4, 5 ir 6 dalių, 171 ir 18 straipsnių, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus;
 
 Straipsnio punkto pakeitimai:
 
@@ -1097,11 +1107,13 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 
+Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
+
 2) Valstybinė vartotojų teisių apsaugos tarnyba – už 87, 92, 94, 95 ir 97 straipsnių, 99 straipsnio, 10 straipsnio 1 dalies, 13 straipsnio, 14 straipsnio 1 dalies, 3 dalies 1–8 punktų, 5 dalies 1 ir 2 punktų, 141 straipsnio 1, 2, 3, 4 dalių, 18 straipsnio 1 dalies 8 ir 9 punktų nuostatų pažeidimus;
 
 3) Valstybinė mokesčių inspekcija – už 14 straipsnio 3 dalies 1, 4 ir 8 punktų, 141 straipsnio 1, 2, 3, 4 dalių nuostatų pažeidimus;
 
-4) savivaldybių administracijos – už 10 straipsnio 1 dalyje ir 14 straipsnio 1 dalyje nustatytų reikalavimų pažeidimus mažmeninės prekybos vietose, taip pat už 15 ir 16 straipsnių, 17 straipsnio 1 dalies (išorinės reklamos priemonėse), 4 ir 5 dalių, 18 straipsnio 1 dalies nuostatų pažeidimus;
+4) savivaldybių vykdomosios institucijos – už 10 straipsnio 1 dalyje ir 14 straipsnio 1 dalyje nustatytų reikalavimų pažeidimus mažmeninės prekybos vietose, taip pat už 15 ir 16 straipsnių, 17 straipsnio 1 dalies (išorinės reklamos priemonėse), 5 ir 6 dalių, 18 straipsnio 1 dalies nuostatų pažeidimus;
 
 4 punkto redakcija nuo 2025-01-02:
 
@@ -1110,6 +1122,8 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-2105, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13998
+
+Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
 
 5) policijos įstaigų vadovai ar jų įgalioti asmenys – už 14 straipsnio 3 dalies 1, 2, 3 ir 8 punktų ir 141 straipsnio 1, 2 ir 3 dalių nuostatų pažeidimus;
 
@@ -2386,4 +2400,14 @@ Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos V
 Straipsnio pakeitimai:
 
 Nr. XIV-2144, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14040
+
+151  straipsnis. Specialūs reikalavimai, taikomi mažmeninės prekybos vietoms
+
+1. Mažmeninės prekybos vietose draudžiama viešai eksponuoti (demonstruoti) tabako gaminius, su tabako gaminiais susijusius gaminius ir įrenginius, skirtus šiems gaminiams vartoti.
+
+2. Šio straipsnio 1 dalyje nustatytas draudimas netaikomas tabako gaminiams, su tabako gaminiais susijusiems gaminiams ir įrenginiams, skirtiems šiems gaminiams vartoti, parduodamiems tabako gaminių parduotuvėse, tabako gaminių skyriuose (su sąlyga, kad šie gaminiai ir (ar) įrenginiai nėra eksponuojami (demonstruojami) šių parduotuvių ar skyrių išorinėse vitrinose ir (ar) pro kitus išorinius šios parduotuvės ar skyriaus įrenginius), tarptautiniame jūrų ar oro uoste ar Lietuvos Respublikos valstybės sienos su trečiosiomis šalimis perėjimo punkte įsteigtose prekybos vietose, kuriose prekės parduodamos tik iš Lietuvos Respublikos išvykstantiems keleiviams, taip pat laivuose, orlaiviuose, traukiniuose, vežančiuose keleivius tarptautiniais maršrutais.
+
+Papildyta straipsniu:
+
+Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
 
