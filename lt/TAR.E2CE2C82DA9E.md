@@ -4,7 +4,7 @@ identifier: "TAR.E2CE2C82DA9E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-26"
-last_updated: "2024-05-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
 
@@ -445,7 +445,11 @@ Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
 5. Išlaidų sąmata – dokumentas, kuriame pagal ekonominę ir funkcinę klasifikacijas nurodomos tam tikrai viešojo sektoriaus subjekto funkcijai atlikti planuojamos išlaidos.
 
-6. Išteklių fondas – valstybės iždas, savivaldybės iždas, valstybės socialiniai fondai, Privalomojo sveikatos draudimo fondas, Rezervinis (stabilizavimo) fondas, Pensijų anuitetų fondas, taip pat pagal atskirą įstatymą arba savivaldybės tarybos sprendimu įsteigtas fondas ar atidaryta mokėjimo sąskaita, jeigu jis (ji) atitinka visus šiuos kriterijus:
+6. Išteklių fondas – valstybės iždas, savivaldybės iždas, valstybės socialiniai fondai, Privalomojo sveikatos draudimo fondas, Rezervinis (stabilizavimo) fondas, Pensijų anuitetų fondas, Valstybės gynybos fondas, taip pat pagal atskirą įstatymą arba savivaldybės tarybos sprendimu įsteigtas fondas ar atidaryta mokėjimo sąskaita, jeigu jis (ji) atitinka visus šiuos kriterijus:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2771, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12071
 
 1) įsteigtas (atidaryta) tam tikroms valstybės arba savivaldybės funkcijoms atlikti ir įsipareigojimams vykdyti;
 
@@ -551,13 +555,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
-30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Investicijų įstatyme, Mokesčių administravimo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Lietuvos Respublikos įmonių atskaitomybės įstatyme, Lietuvos Respublikos pensijų kaupimo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės kontrolės įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme.
+30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Investicijų įstatyme, Mokesčių administravimo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Lietuvos Respublikos Valstybės gynybos fondo įstatyme, Lietuvos Respublikos įmonių atskaitomybės įstatyme, Lietuvos Respublikos pensijų kaupimo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės kontrolės įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
 Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
+
+Nr. XIV-2771, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12071
 
 31. Kai šio įstatymo normos taikomos viešojo sektoriaus subjekto finansinių ataskaitų rinkiniui, biudžeto vykdymo ataskaitų rinkiniui, veiklos ataskaitai, metinių ataskaitų rinkiniui, tarpinių ataskaitų rinkiniui, viešojo sektoriaus subjektų grupės ataskaitų rinkiniui, vartojama sąvoka „ataskaitos“.
 
@@ -1190,6 +1196,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
 
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 2, 4 ir 13 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2771, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12071
+
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 2 straipsnio pakeitimo įstatymas
 
 21 straipsnis. Papildomi reikalavimai finansinėms ataskaitoms
 
