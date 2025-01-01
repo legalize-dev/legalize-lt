@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2024-12-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-04-14
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -193,9 +193,17 @@ Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
 
 11) savivaldybėms įstatymuose priskirtų geodezijos ir kartografijos darbų, išskyrus savivaldybės erdvinių duomenų rinkinio tvarkymą, organizavimas ir vykdymas;
 
-12) socialinių paslaugų teikimo užtikrinimas planuojant ir organizuojant socialines paslaugas, kontroliuojant bendrųjų socialinių paslaugų ir socialinės priežiūros kokybę, taip pat socialinių paslaugų įstaigų steigimas ir išlaikymas;
+12) socialinių paslaugų teikimo užtikrinimas, jas planuojant ir organizuojant, vertinant prevencinių, bendrųjų socialinių paslaugų, socialinės priežiūros ir laikino atokvėpio paslaugos kokybę, taip pat socialinių paslaugų įstaigų steigimas ir išlaikymas;
 
-13) gyventojų bendrosios kultūros ugdymas ir etnokultūros puoselėjimas (dalyvavimas kultūros plėtros projektuose, muziejų, teatrų, kultūros centrų ir kitų kultūros įstaigų steigimas, reorganizavimas, pertvarkymas, likvidavimas ir jų veiklos priežiūra, savivaldybių viešųjų bibliotekų steigimas, reorganizavimas, pertvarkymas ir jų veiklos priežiūra);
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2360, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25611
+
+13) gyventojų kultūros ugdymas ir etninės kultūros puoselėjimas (dalyvavimas kultūros projektuose ir (ar) jų finansavimas, kultūros įstaigų steigimas, reorganizavimas, pertvarkymas, likvidavimas ir jų veiklos priežiūra);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2763, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11410
 
 14) sąlygų savivaldybės teritorijoje gyvenančių asmenų su negalia socialinei integracijai į savivaldybės bendruomenę sudarymas;
 
@@ -2367,7 +2375,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 
-13. Savivaldybių kontrolės ir audito tarnybos gali jungtis į asociacijas.
+13. Savivaldybės kontrolės ir audito tarnybos vidaus auditas savivaldybės tarybos iniciatyva atliekamas ne rečiau kaip kartą per 5 metus, nepriklausomo vidaus audito paslaugas įsigyjant Viešųjų pirkimų įstatymo nustatyta tvarka iš savivaldybės kontrolės ir audito tarnybai skirtų asignavimų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+
+14. Savivaldybių kontrolės ir audito tarnybos gali jungtis į asociacijas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 
 68 straipsnis. Savivaldybės centralizuoto vidaus audito tarnyba
 
