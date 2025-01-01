@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2024-11-23"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-11-23 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-03-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
 
@@ -210,6 +210,12 @@ Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
 
 19. Valdžios sektoriui priskiriamų subjektų priskyrimą prie centrinės valdžios, vietos valdžios ir socialinės apsaugos fondų sektorių bei klasifikavimą pagal sektorius nustato Vyriausybė arba jos įgaliota institucija, atsižvelgdama į Europos Sąjungos teisės aktus, reglamentuojančius subjektų priskyrimą prie sektorių ir jų klasifikavimą.
 
+20. Vyriausybės skolinimosi valstybės vardu šio įstatymo 4 straipsnio 1 dalies 9 punkte nurodytam tikslui priemonių metinis pelningumas turi būti ne didesnis kaip 2 procentai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2773, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12077
+
 4 straipsnis. Vyriausybės skolinimosi valstybės vardu ir valstybės garantijų suteikimo tikslai
 
 1. Vyriausybė valstybės vardu gali skolintis šiems tikslams:
@@ -229,6 +235,12 @@ Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
 7) Lietuvos Respublikos įsipareigojimams, susijusiems su Europos Sąjungos politikos įgyvendinimu, vykdyti, įskaitant rezervinių lėšų sukaupimą ir (arba) paskolinimą, kaip tai numatyta Europos Sąjungos teisės aktuose, Europos Sąjungos institucijų, įstaigų ar agentūrų sprendimuose ir (arba) su tuo susijusiose sutartyse ar susitarimuose;
 
 8) Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatytiems tikslams ir kitiems tikslams, kai dėl to yra priimtas atskiras įstatymas;
+
+9) Lietuvos Respublikos krašto apsaugos ministerijos įgyvendinamiems projektams, susijusiems su valstybės saugumu ir gynyba, finansuoti.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2773, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12077
 
 2. Vyriausybė valstybės vardu gali teikti valstybės garantiją dėl:
 
