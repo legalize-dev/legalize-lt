@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2024-11-15"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2024-11-15 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -7498,9 +7498,13 @@ Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
 
 1821 straipsnis. Manipuliavimas sporto varžybomis
 
-1. Tas, kas neteisėtai paveikė sąžiningą profesionalių sporto varžybų eigą arba rezultatą,
+1. Tas, kas neteisėtai paveikė sąžiningą aukšto meistriškumo sporto varžybų eigą arba rezultatą,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2853, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12639
 
 2. Asmuo, kuris padarė šio straipsnio 1 dalyje numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu jis iki jo pripažinimo įtariamuoju savanoriškai apie tai pranešė teisėsaugos institucijai ir aktyviai bendradarbiavo išaiškinant šią nusikalstamą veiką.
 
