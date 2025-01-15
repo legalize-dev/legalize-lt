@@ -4,7 +4,7 @@ identifier: "TAR.FF00B0EA2F0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-01-22"
-last_updated: "2024-07-01"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asociacijų įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2025-01-14
+Suvestinė redakcija nuo 2025-01-15 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
 
@@ -122,7 +122,11 @@ Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00X
 
 2. Asociaciją registruoti galima, jei sudaryta steigimo sutartis, sušauktas asociacijos steigiamasis susirinkimas, priimti asociacijos įstatai ir sudarytas bent vienas valdymo organas bei įvykdytos kitos steigimo sutartyje nustatytos prievolės.
 
-3. Asociacijai įregistruoti juridinių asmenų registre šiam registrui pateikiami steigimo sutartis, asociacijos įstatai ir kiti Civilinio kodekso 2.64 straipsnyje nurodyti dokumentai.
+3. Asociacijai įregistruoti juridinių asmenų registre šiam registrui pateikiami steigimo sutartis, asociacijos įstatai arba teisės akto, kuriuo tvirtinami steigiamos asociacijos įstatai, identifikacinis kodas Teisės aktų registre ir kiti Civilinio kodekso 2.64 straipsnyje nurodyti dokumentai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2631, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09666
 
 4. Asociacija laikoma įsteigta nuo įregistravimo juridinių asmenų registre.
 
@@ -478,9 +482,19 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
-6. Įstatų pakeitimai įsigalioja nuo jų įregistravimo juridinių asmenų registre. Kartu su įstatų pakeitimais asociacija juridinių asmenų registrui turi pateikti visą pakeistų asociacijos įstatų tekstą (naują redakciją).
+6. Neteko galios nuo 2025-01-15
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2631, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09666
 
 7. Įstatus pasirašiusių fizinių asmenų parašų tikrumas notaro netvirtinamas.
+
+8. Jeigu asociacijos steigėjos yra tik valstybė ir savivaldybės ar tik savivaldybės, šio straipsnio 4, 5 ir 7 dalys netaikomos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2631, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09666
 
 13 straipsnis. Asociacijos nariai
 
