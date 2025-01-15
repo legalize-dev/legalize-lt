@@ -4,7 +4,7 @@ identifier: "TAR.B4FA4C56B8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2024-09-01"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
 
 LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-09-01 iki 2025-01-14
+Suvestinė redakcija nuo 2025-01-15 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
 
@@ -238,7 +238,11 @@ Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 15) Lietuvos banko norminiai teisės aktai;
 
-16) savivaldybių institucijų norminiai teisės aktai, taip pat savivaldybių merų priimami teisės aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
+16) savivaldybių institucijų norminiai teisės aktai, savivaldybių privatizavimo komisijų sprendimai, taip pat savivaldybių institucijų priimami teisės taikymo aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2634, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09670
 
 17) įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, bendrovių, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų ir regionų plėtros tarybų kolegijų priimti norminiai teisės aktai. Kitų asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti teisės aktai Teisės aktų registro objektais yra tik tais atvejais, kai šiuos teisės aktus skelbti Teisės aktų registre privaloma pagal teisės aktus;
 
