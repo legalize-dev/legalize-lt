@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2024-07-06"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2024-07-06 iki 2025-01-14
+Suvestinė redakcija nuo 2025-01-15
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
 
@@ -167,17 +167,33 @@ BIUDŽETINĖS ĮSTAIGOS STEIGIMAS IR ĮREGISTRAVIMAS
 
 4. Biudžetinės įstaigos vadovo priėmimo į pareigas ir atleidimo iš jų tvarkos, kitų biudžetinės įstaigos organų sudarymo, atšaukimo ir sprendimų priėmimo tvarkos, taip pat biudžetinės įstaigos nuostatų keitimo tvarkos nurodyti nereikia, jeigu tai nesiskiria nuo šiame įstatyme ar konkrečios biudžetinės įstaigos veiklą reglamentuojančiame įstatyme nustatytųjų ir apie tai nurodoma tos biudžetinės įstaigos nuostatuose.
 
-5. Steigiamos biudžetinės įstaigos nuostatus rengia ir tvirtina teisės akte, kuriuo steigiama biudžetinė įstaiga, nurodyta jos savininko teises ir pareigas įgyvendinanti institucija. Steigiamos biudžetinės įstaigos nuostatus pasirašo jos savininko teises ir pareigas įgyvendinančios institucijos vardu veikiantis asmuo arba jos savininko teises ir pareigas įgyvendinančios institucijos įgaliotas asmuo.
+5. Steigiamos ar įsteigtos biudžetinės įstaigos nuostatus rengia, tvirtina, keičia ir pripažįsta netekusiais galios teisės akte, kuriuo steigiama biudžetinė įstaiga, nurodyta jos savininko teises ir pareigas įgyvendinanti institucija.
 
-6. Pakeistus biudžetinės įstaigos nuostatus tvirtina jos savininko teises ir pareigas įgyvendinanti institucija. Pakeistus biudžetinės įstaigos nuostatus pasirašo jos savininko teises ir pareigas įgyvendinančios institucijos vardu veikiantis asmuo arba jos savininko teises ir pareigas įgyvendinančios institucijos įgaliotas asmuo. Pakeitus biudžetinės įstaigos nuostatus, kartu su teisės aktų nustatytais dokumentais Juridinių asmenų registrui pateikiami pakeisti biudžetinės įstaigos nuostatai ir nurodomi jų pakeitimai.
+Straipsnio dalies pakeitimai:
 
-7. Biudžetinės įstaigos nuostatus ir pakeistus biudžetinės įstaigos nuostatus pasirašiusių fizinių asmenų parašų tikrumo notaras neliudija.
+Nr. XIV-2632, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09667
+
+6. Neteko galios nuo 2025-01-15
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2632, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09667
+
+7. Neteko galios nuo 2025-01-15
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2632, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09667
 
 8 straipsnis. Biudžetinės įstaigos įsteigimo momentas ir jos įregistravimas
 
 1. Biudžetinė įstaiga laikoma įsteigta nuo jos įregistravimo Juridinių asmenų registre dienos. Įstatyme ar įstatymų numatytais atvejais kitame teisės akte, kuriuo įsteigta biudžetinė įstaiga, gali būti nustatyta, kad biudžetinė įstaiga laikoma įsteigta nuo teisės akto dėl jos įsteigimo įsigaliojimo.
 
-2. Biudžetinei įstaigai įregistruoti Juridinių asmenų registre pateikiami patvirtinti steigiamos biudžetinės įstaigos nuostatai, teisės aktas dėl biudžetinės įstaigos steigimo ir kiti teisės aktų nustatyti dokumentai. Dokumentus Juridinių asmenų registrui pateikia steigiamos biudžetinės įstaigos savininko teises ir pareigas įgyvendinančios institucijos vardu veikiantis asmuo arba savininko teises ir pareigas įgyvendinančios institucijos įgaliotas asmuo.
+2. Biudžetinei įstaigai įregistruoti Juridinių asmenų registre pateikiami teisės akto, kuriuo tvirtinami steigiamos biudžetinės įstaigos nuostatai, identifikacinis kodas Teisės aktų registre, teisės aktas dėl biudžetinės įstaigos steigimo ir kiti teisės aktų nustatyti dokumentai. Dokumentus Juridinių asmenų registrui pateikia steigiamos biudžetinės įstaigos savininko teises ir pareigas įgyvendinančios institucijos vardu veikiantis asmuo arba savininko teises ir pareigas įgyvendinančios institucijos įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2632, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09667
 
 9 straipsnis. Juridinių asmenų registro duomenys
 
@@ -457,7 +473,11 @@ BIUDŽETINĖS ĮSTAIGOS PERTVARKYMAS IR PABAIGA
 
 6. Nuo sprendimo pertvarkyti biudžetinę įstaigą priėmimo dienos biudžetinė įstaiga įgyja pertvarkomos biudžetinės įstaigos statusą.
 
-7. Pertvarkymas laikomas baigtu ir biudžetinė įstaiga netenka pertvarkomos biudžetinės įstaigos statuso nuo viešosios įstaigos, kuri veiks po pertvarkymo, įstatų įregistravimo Juridinių asmenų registre dienos. Viešosios įstaigos steigimo dokumentai įregistruojami Juridinių asmenų registre ir Juridinių asmenų registro duomenys pakeičiami, kai išrenkami (sudaromi) viešosios įstaigos valdymo organai.
+7. Pertvarkymas laikomas baigtu ir biudžetinė įstaiga netenka pertvarkomos biudžetinės įstaigos statuso nuo viešosios įstaigos, kuri veiks po pertvarkymo, steigimo dokumentų arba duomenų įregistravimo Juridinių asmenų registre dienos. Viešosios įstaigos steigimo dokumentai įregistruojami Juridinių asmenų registre ir Juridinių asmenų registro duomenys pakeičiami, kai išrenkami (sudaromi) viešosios įstaigos valdymo organai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2632, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09667
 
 24 straipsnis. Biudžetinės įstaigos reorganizavimas
 
@@ -499,7 +519,11 @@ BIUDŽETINĖS ĮSTAIGOS PERTVARKYMAS IR PABAIGA
 
 13. Sprendimo dėl biudžetinės įstaigos reorganizavimo priėmimą įrodantis dokumentas pateikiamas Juridinių asmenų registrui. Juridinių asmenų registro tvarkytojas apie sprendimą dėl biudžetinės įstaigos reorganizavimo paskelbia teisės aktų nustatyta tvarka.
 
-14. Reorganizavimas laikomas baigtu, kai į Juridinių asmenų registrą įregistruojami po reorganizavimo sukurtos naujos biudžetinės įstaigos nuostatai ar tęsiančių veiklą biudžetinių įstaigų pakeisti nuostatai. Jeigu biudžetinės įstaigos nuostatai šio straipsnio 12 dalyje nustatytais atvejais iš naujo netvirtinami, Juridinių asmenų registrui pateikiamas pranešimas apie tai, kad visos reorganizavimo sąlygų apraše nustatytos prievolės yra įvykdytos ir atsirado įstatymuose ar reorganizavimo sąlygų apraše nurodytos aplinkybės.
+14. Reorganizavimas laikomas baigtu nuo po reorganizavimo veiksiančios (-ių) biudžetinės (-ių) įstaigos (-ų) nuostatų ar duomenų įregistravimo Juridinių asmenų registre dienos. Jeigu biudžetinės įstaigos nuostatai iš naujo netvirtinami, Juridinių asmenų registrui pateikiamas pranešimas apie tai, kad visos reorganizavimo sąlygų apraše nustatytos prievolės yra įvykdytos ir atsirado įstatymuose ar reorganizavimo sąlygų apraše nurodytos aplinkybės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2632, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09667
 
 15. Reorganizuota biudžetinė įstaiga pasibaigia nuo jos išregistravimo iš Juridinių asmenų registro dienos.
 
