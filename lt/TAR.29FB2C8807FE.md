@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2024-07-01"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2025-01-14
+Suvestinė redakcija nuo 2025-01-15 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -242,11 +242,23 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 5. Pakeistus įmonės įstatus tvirtina įmonės savininko teises ir pareigas įgyvendinanti institucija.
 
-6. Įstatai tvirtinami įmonės savininko teises ir pareigas įgyvendinančios institucijos vadovo arba jo įgalioto asmens parašu ir institucijos antspaudu, jeigu institucija antspaudą privalo turėti.
+6. Neteko galios nuo 2025-01-15
 
-7. Steigiamos įmonės įstatai pateikiami juridinių asmenų registrui. Steigiamos įmonės įstatai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per 6 mėnesius nuo įstatų patvirtinimo dienos.
+Straipsnio dalies naikinimas:
 
-8. Pakeisti įstatai įsigalioja nuo jų įregistravimo juridinių asmenų registre. Tokiais atvejais kartu su teisės aktų nustatytais dokumentais juridinių asmenų registrui turi būti pateikti pakeisti įmonės įstatai ir nurodyti jų pakeitimai.
+Nr. XIV-2635, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09671
+
+7. Teisės akto, kuriuo tvirtinami steigiamos įmonės įstatai, identifikacinis kodas Teisės aktų registre pateikiamas Juridinių asmenų registrui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2635, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09671
+
+8. Neteko galios nuo 2025-01-15
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2635, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09671
 
 7 straipsnis. Įmonės įregistravimas
 
@@ -266,11 +278,13 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 4) duomenys apie likvidatorių, jo paskyrimo ir įgaliojimų pabaigos datos, likvidatoriaus įgaliojimai, išskyrus numatytus įstatymuose ar įmonės įstatuose.
 
-2. Įmonės savininko teises ir pareigas įgyvendinančiai institucijai priėmus sprendimą, kuriuo buvo pakeistas registro duomuo ar įstatai, įmonės vadovas per įstatymų nustatytus terminus juridinių asmenų registrui turi pateikti šį sprendimą patvirtinantį dokumentą ir kitus teisės aktų nustatytus dokumentus.
+2. Įmonės savininko teises ir pareigas įgyvendinančiai institucijai priėmus sprendimą, kuriuo buvo pakeistas Juridinių asmenų registro duomuo, įmonės vadovas per įstatymų nustatytus terminus Juridinių asmenų registrui turi pateikti šį sprendimą patvirtinantį dokumentą ir kitus teisės aktų nustatytus dokumentus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+
+Nr. XIV-2635, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09671
 
 Trečiasis skirsnis
 
@@ -840,7 +854,11 @@ Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
 
 6. Reorganizuojama įmonė negali būti pertvarkoma.
 
-7. Reorganizavimas laikomas baigtu, kai juridinių asmenų registre įregistruojamos po reorganizavimo sukurtos naujos įmonės ar įregistruojami tęsiančių veiklą įmonių pakeisti įstatai. Naujai kuriamoms įmonėms įregistruoti juridinių asmenų registrui vietoj teisės akto, kuriuo steigiama įmonė, pateikiamas sprendimas dėl reorganizavimo ir reorganizavimo sąlygos. Įmonė, turėjusi reorganizavime dalyvaujančios įmonės statusą, jo netenka nuo reorganizavimo pabaigos.
+7. Reorganizavimas laikomas baigtu nuo po reorganizavimo sukurtos naujos įmonės įregistravimo ar tęsiančios veiklą įmonės duomenų įregistravimo Juridinių asmenų registre dienos. Jeigu tęsiančių veiklą įmonių įstatai iš naujo netvirtinami, Juridinių asmenų registrui turi būti pateiktas pranešimas apie tai, kad visos reorganizavimo sąlygos yra įvykdytos ir atsirado įstatymuose ar reorganizavimo sąlygose nurodytos aplinkybės. Kuriamoms naujoms įmonėms įregistruoti Juridinių asmenų registrui vietoj teisės akto, kuriuo steigiama įmonė, pateikiamas sprendimas dėl reorganizavimo ir reorganizavimo sąlygos. Įmonė, turėjusi reorganizavime dalyvaujančios įmonės statusą, jo netenka nuo reorganizavimo pabaigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2635, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09671
 
 19 straipsnis. Įmonės pertvarkymas
 
@@ -910,7 +928,11 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 5. Nuo sprendimo pertvarkyti įmonę priėmimo dienos įmonė įgyja pertvarkomos įmonės statusą.
 
-6. Pertvarkymas laikomas baigtu ir įmonė netenka pertvarkomos įmonės statuso nuo juridinio asmens, kuris veiks po pertvarkymo, įstatų (nuostatų) įregistravimo juridinių asmenų registre.
+6. Pertvarkymas laikomas baigtu ir įmonė netenka pertvarkomos įmonės statuso nuo juridinio asmens, kuris veiks po pertvarkymo, įstatų (nuostatų) arba duomenų įregistravimo Juridinių asmenų registre dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2635, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09671
 
 20 straipsnis. Valstybės įmonės pertvarkymas į savivaldybės įmonę
 
@@ -1408,7 +1430,11 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 4,
 
 1. Įmonė, kurios turimų piniginių lėšų pakanka jos įsipareigojimams įvykdyti, gali būti pertvarkoma į viešąją įstaigą.
 
-2. Iki sprendimo pertvarkyti įmonę į viešąją įstaigą priėmimo įmonei patikėjimo teise priklausantis įmonės turtas, kuris po pertvarkymo bus perduotas viešosios įstaigos nuosavybėn kaip įnašas nustatant (formuojant) viešosios įstaigos dalininkų kapitalą, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reguliuojančių turto vertinimą, nustatyta tvarka. Pertvarkant įmonę į viešąją įstaigą, turto vertinimo ataskaita turi būti pateikta juridinių asmenų registrui kartu su po pertvarkymo veiksiančios viešosios įstaigos įstatais.
+2. Iki sprendimo pertvarkyti įmonę į viešąją įstaigą priėmimo įmonei patikėjimo teise priklausantis turtas, kuris po pertvarkymo bus perduotas viešosios įstaigos nuosavybėn kaip įnašas nustatant (formuojant) viešosios įstaigos dalininkų kapitalą, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reguliuojančių turto vertinimą, nustatyta tvarka. Pertvarkant įmonę į viešąją įstaigą, turto vertinimo ataskaita turi būti pateikta Juridinių asmenų registrui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2635, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09671
 
 3. Sprendimas pertvarkyti valstybės įmonę į viešąją įstaigą gali būti priimamas, kai yra Vyriausybės nutarimas dėl sutikimo pertvarkyti valstybės įmonę į viešąją įstaigą ir valstybės įmonei patikėjimo teise priklausančio viso ar dalies turto perdavimo viešosios įstaigos nuosavybėn kaip įnašo nustatant (formuojant) viešosios įstaigos dalininkų kapitalą Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais valstybės ir savivaldybės turto investavimo pagrindais ir tvarka.
 
@@ -1426,13 +1452,21 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 4,
 
 2) patikslinamas sprendimas pertvarkyti įmonę į viešąją įstaigą.
 
-7. Šio straipsnio 6 dalyje nurodytas turtas, kuris patikėjimo teise gautas po to, kai buvo priimtas sprendimas pertvarkyti įmonę į viešąją įstaigą, jeigu jis perduodamas po įmonės pertvarkymo veiksiančios viešosios įstaigos nuosavybėn, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reguliuojančių turto vertinimą, nustatyta tvarka. Turtas turi būti įvertintas iki patikslinto sprendimo pertvarkyti įmonę į viešąją įstaigą priėmimo. Pertvarkant įmonę į viešąją įstaigą, ši turto vertinimo ataskaita turi būti pateikta juridinių asmenų registrui kartu su po pertvarkymo veiksiančios viešosios įstaigos įstatais.
+7. Šio straipsnio 6 dalyje nurodytas turtas, kuris patikėjimo teise gautas po to, kai buvo priimtas sprendimas pertvarkyti įmonę į viešąją įstaigą, jeigu jis perduodamas po įmonės pertvarkymo veiksiančios viešosios įstaigos nuosavybėn, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reguliuojančių turto vertinimą, nustatyta tvarka. Turtas turi būti įvertintas iki patikslinto sprendimo pertvarkyti įmonę į viešąją įstaigą priėmimo. Pertvarkant įmonę į viešąją įstaigą, ši turto vertinimo ataskaita turi būti pateikta Juridinių asmenų registrui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2635, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09671
 
 8. Iki įmonės pertvarkymo pabaigos Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais pagrindais ir tvarka turi būti priimtas sprendimas dėl turto, kuris pagal įstatymus gali būti tik valstybės nuosavybė, perdavimo atitinkamam subjektui, turinčiam teisę tokį turtą valdyti ir (arba) naudoti, ir (arba) juo disponuoti.
 
 9. Įmonės vadovas apie patikslintą sprendimą pertvarkyti įmonę turi pranešti juridinių asmenų registrui, vieną kartą viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje ir visiems įmonės kreditoriams pranešti raštu. Patikslinus sprendimą, kartu su pranešimu juridinių asmenų registrui pateikiamas visas patikslinto sprendimo pertvarkyti įmonę tekstas. Skelbime ir pranešime, be šio Įstatymo 19 straipsnio 4 dalyje nustatytų reikalavimų, taip pat turi būti nurodyta priežastis, dėl kurios sprendimas pertvarkyti įmonę patikslintas.
 
-10. Įmonės savininko teises ir pareigas įgyvendinanti institucija, priėmusi sprendimą pertvarkyti įmonę į viešąją įstaigą, kartu tvirtina po pertvarkymo veiksiančios viešosios įstaigos įstatus. Juos įregistravus juridinių asmenų registre, įmonės savininko teises ir pareigas įgyvendinanti institucija tampa valstybės ar savivaldybės institucija, kuriai pavedama įgyvendinti valstybės ar savivaldybės, kaip viešosios įstaigos dalininkės (savininkės), teises ir pareigas.
+10. Įmonės savininko teises ir pareigas įgyvendinanti institucija, priėmusi sprendimą pertvarkyti įmonę į viešąją įstaigą, kartu tvirtina po pertvarkymo veiksiančios viešosios įstaigos įstatus. Viešąją įstaigą įregistravus Juridinių asmenų registre, įmonės savininko teises ir pareigas įgyvendinanti institucija tampa valstybės ar savivaldybės institucija, kuriai pavedama įgyvendinti valstybės ar savivaldybės, kaip viešosios įstaigos dalininkės (savininkės), teises ir pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2635, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09671
 
 Papildyta straipsniu:
 
