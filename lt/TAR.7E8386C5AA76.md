@@ -4,7 +4,7 @@ identifier: "TAR.7E8386C5AA76"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2024-01-01"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2025-01-14
+Suvestinė redakcija nuo 2025-01-15
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
 
@@ -440,9 +440,17 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 3. Regiono plėtros tarybos visuotinio dalyvių susirinkimo, kolegijos ir regiono plėtros tarybos administracijos direktoriaus kompetencijos, kolegijos sudarymo ir regiono plėtros tarybos administracijos direktoriaus skyrimo tvarkos nurodyti nereikia, jeigu tai nesiskiria nuo šiame įstatyme nustatytųjų ir apie tai nurodoma regiono plėtros tarybos nuostatuose.
 
-4. Regiono plėtros tarybos nuostatus turi pasirašyti visų steigėjų įgalioti asmenys. Pakeistus regiono plėtros tarybos nuostatus pasirašo regiono plėtros tarybos visuotinio dalyvių susirinkimo, priėmusio sprendimą pakeisti nuostatus, įgaliotas asmuo.
+4. Neteko galios nuo 2025-01-15
 
-5. Regiono plėtros tarybos nuostatus pasirašiusių asmenų parašų tikrumo notaras neliudija.
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2633, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09668
+
+5. Neteko galios nuo 2025-01-15
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2633, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09668
 
 19 straipsnis. Regiono plėtros tarybos dalyviai
 
@@ -1061,4 +1069,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
 
 Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2633, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09668
+
+Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 18 straipsnio pakeitimo įstatymas
 
