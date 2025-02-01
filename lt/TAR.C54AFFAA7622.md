@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2024-10-18"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2024-10-18 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -1804,6 +1804,12 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
 
+21. Perkančioji organizacija pašalina tiekėją iš pirkimo procedūros, jeigu tiekėjas yra neatlikęs jam paskirtos baudžiamojo poveikio priemonės – uždraudimo juridiniam asmeniui dalyvauti viešuosiuose pirkimuose.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3149, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20208
+
 3. Už įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, nevykdymą pagal šalies, kurioje registruotas tiekėjas, ar šalies, kurioje yra perkančioji organizacija, reikalavimus tiekėjas iš pirkimo procedūros pašalinamas, jeigu perkančioji organizacija sužino, kad tiekėjas už tai nuteistas, kaip apibrėžta šio straipsnio 2 dalies 1 ir 3 punktuose, arba turi kitų įrodymų apie šių įsipareigojimų nevykdymą. Ši nuostata netaikoma, jeigu:
 
 1) tiekėjas yra įsipareigojęs sumokėti mokesčius, įskaitant socialinio draudimo įmokas, ir dėl to laikomas jau įvykdžiusiu šioje dalyje nurodytus įsipareigojimus;
@@ -1864,7 +1870,11 @@ c) ėmėsi techninių, organizacinių, personalo valdymo priemonių, skirtų tol
 
 11. Tiekėjas negali pasinaudoti šio straipsnio 10 dalyje nustatyta galimybe, kai jis priimtu ir įsiteisėjusiu teismo sprendimu pašalintas iš pirkimo ar koncesijos suteikimo procedūrų, teismo sprendime nurodytą laikotarpį.
 
-12. Kai priimtu ir įsiteisėjusiu teismo sprendimu tiekėjui yra nustatytas šio straipsnio 1, 2, 4 ir 6 dalyse nurodytų pašalinimo pagrindų laikotarpis, perkančioji organizacija tiekėją iš pirkimo procedūros šalina teismo sprendime nurodytą laikotarpį.
+12. Kai priimtu ir įsiteisėjusiu teismo sprendimu tiekėjui yra nustatytas šio straipsnio 1, 2, 21, 4 ir 6 dalyse nurodytų pašalinimo pagrindų laikotarpis, perkančioji organizacija tiekėją iš pirkimo procedūros šalina teismo sprendime nurodytą laikotarpį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3149, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20208
 
 Straipsnio pakeitimai:
 
