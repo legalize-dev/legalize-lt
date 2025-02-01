@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2025-01-01"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01 iki 2025-07-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -844,7 +844,7 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 
-99. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos aplinkos oro apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos strateginių prekių kontrolės įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme.
+99. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos aplinkos oro apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos strateginių prekių kontrolės įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme.
 
 Papildyta straipsnio dalimi:
 
@@ -855,6 +855,8 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
 
 Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+
+Nr. XIV-3154, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20212
 
 Straipsnio pakeitimai:
 
@@ -1514,7 +1516,11 @@ Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 
 5. Asmenys, organizuojantys darbus kelyje, turi užtikrinti, kad darbo vietos kelyje (gatvėje) ar šalia kelio (gatvės) būtų aptvertos ir pažymėtos reikiamais kelio ženklais, atitvarais ir nukreipiamaisiais įtaisais, o tamsiuoju paros metu ar esant blogam matomumui, – ir šviesomis. Kelyje (gatvėje) dirbantys asmenys privalo vilkėti ryškiaspalvius darbo drabužius, įspėjamąsias liemenes arba uniformas. Taisomuose kelių (gatvių) ruožuose dirbantys asmenys nustatytais atvejais ir tvarka gali reguliuoti eismą.
 
-6. Reklamos įrengimo keliuose, virš kelių, kelių juostose ir jų apsaugos zonose, taip pat gatvėse ar prie jų, reikalavimus ir ribojimus nustato Reklamos įstatymas. Reklama, įrengta pažeidžiant nustatytus reikalavimus, turi būti nuimta, nugriauta ar išardyta jos savininko arba įrengusių asmenų lėšomis, neatlyginant nuostolių.
+6. Išorinės reklamos įrengimo keliuose, virš kelių, kelių juostose ir kelių apsaugos zonose reikalavimus ir ribojimus nustato Reklamos įstatymas ir Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas. Išorinė reklama, įrengta pažeidžiant nustatytus reikalavimus, turi būti nuimta, nugriauta ar išardyta jos savininko arba įrengusių asmenų lėšomis, neatlyginant nuostolių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3154, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20212
 
 7. Kelio savininkas (valdytojas) privalo:
 
