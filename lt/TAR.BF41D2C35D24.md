@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "2025-01-01"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 
@@ -172,11 +172,13 @@ Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
 Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
 
-22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme ir Lietuvos Respublikos žemės įstatyme.
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme ir Lietuvos Respublikos žemės įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2201, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21641
+
+Nr. XIV-3153, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20211
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -482,7 +484,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
 
-2. Draudžiama įrengti išorinę reklamą keliuose, virš kelių, kelių juostose. Gatvėse ir prie jų įrengti išorinę reklamą draudžiama, jeigu ji gali užstoti technines eismo reguliavimo priemones, pabloginti matomumą eismo dalyviams, kelti pavojų eismo saugumui. Be to, draudžiama naudoti reklamą, imituojančią kelio ženklus ir (arba) naudojančią kelio ženklų simboliką.
+2. Išorinės reklamos įrengimo keliuose, virš kelių, kelių juostose ir kelių apsaugos zonose reikalavimai ir ribojimai nustatyti Reklamos įstatyme ir Specialiųjų žemės naudojimo sąlygų įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3153, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20211
 
 3. Specialiosios žemės naudojimo sąlygos kelių apsaugos zonose nustatytos Specialiųjų žemės naudojimo sąlygų įstatyme.
 
