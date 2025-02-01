@@ -4,7 +4,7 @@ identifier: "TAR.E838D0C06065"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-21"
-last_updated: "2025-01-01"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E838D0C06065"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ, ATLIEKAMŲ GYNYBOS IR SAUGUMO
 
 SRITYJE, ĮSTATYMAS
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4135, i. k. 1111010ISTA0XI-1491
 
@@ -1272,6 +1272,12 @@ e) nusikalstamu būdu gauto turto legalizavimą;
 f) kitose valstybėse padarytą nusikaltimą, apibrėžtą kitų valstybių baudžiamuosiuose įstatymuose, įgyvendinančiuose Direktyvos 2009/81/EB 39 straipsnio 1 dalyje išvardytus Europos Sąjungos teisės aktus;
 
 2) dėl tiekėjo (juridinio asmens) per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šios dalies 1 punkto a–f papunkčiuose nurodytas nusikalstamas veikas;
+
+21) dėl tiekėjo (juridinio asmens), kuris yra neatlikęs jam paskirtos baudžiamojo poveikio priemonės – uždraudimo juridiniam asmeniui dalyvauti viešuosiuose pirkimuose;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-3148, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20206
 
 3) perkančioji organizacija bet kokiomis tinkamomis priemonėmis gali įrodyti, kad tiekėjas yra padaręs rimtą profesinį pažeidimą, dėl kurio perkančioji organizacija abejoja tiekėjo sąžiningumu, kai jis:
 
@@ -2524,6 +2530,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3083, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19836
 
 Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 33 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3148, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20206
+
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 34 straipsnio pakeitimo įstatymas
 
 81 straipsnis. Pirkimo procedūrų pradžia ir pabaiga
 
