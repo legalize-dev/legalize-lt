@@ -4,7 +4,7 @@ identifier: "TAR.7A932101FADA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2025-01-01"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
-
-TAR pastaba. Iki 2025 m. sausio 1 d. pradėtos įsiterpusių žemės sklypų pardavimo juos laikinai naudojantiems besiribojančių žemės sklypų savininkams procedūros tęsiamos ir baigiamos pagal iki 2025 m. sausio 1 d. galiojusią tvarką ir sąlygas.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-2123, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14311
-
-Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas
 
 Nauja redakcija nuo 2024-01-01:
 
@@ -122,7 +114,13 @@ Nr. XIV-2123, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14311
 
 2) parduodamo žemės sklypo naudotojas, naudojęs šią žemę žemės ūkio veiklai ne trumpiau kaip vienus metus pagal Nekilnojamojo turto registre šiam laikotarpiui įregistruotą (-as) sutartį (-is), išskyrus neatlygintinio naudojimosi daiktu (panaudos) sutartį, šios išimties netaikant Civilinio kodekso 3.135 straipsnyje išvardytiems artimiesiems giminaičiams (tėvams ir vaikams, seneliams ir vaikaičiams, broliams ir seserims), taip pat sutuoktiniams, įtėviams, įvaikiams, – jeigu jis – fizinis asmuo – Lietuvos Respublikos ūkininko ūkio įstatyme nustatyta tvarka yra įregistravęs ūkininko ūkį arba jo – juridinio asmens ar kitos organizacijos (toliau – juridinis asmuo) pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų;
 
-3) asmuo, nuosavybės teise turintis žemės ūkio paskirties žemės sklypą, kuris ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, atitinkančiu įsiterpusiam žemės plotui nustatytus kriterijus, nurodytus Žemės įstatyme.
+3) asmuo, nuosavybės teise turintis žemės ūkio paskirties žemės sklypą, kuris ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, – jeigu jis, būdamas fizinis asmuo, Ūkininko ūkio įstatymo nustatyta tvarka yra įregistravęs ūkininko ūkį arba jo, būnant juridiniu asmeniu, įplaukos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų;
+
+TAR pastaba. Iki 2025 m. sausio 31 d. pradėtos įsiterpusio privataus žemės ūkio paskirties žemės sklypo pardavimo procedūros užbaigiamos pagal iki 2025 m. sausio 31 d. galiojusias Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo nuostatas. Pardavimo procedūra laikoma pradėta, jeigu privataus žemės ūkio paskirties žemės sklypo savininkas apie sprendimą parduoti žemės ūkio paskirties žemės sklypą yra pranešęs pasirinktam notarui arba Nacionalinei žemės tarnybai prie Aplinkos ministerijos.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-95, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23088
 
 2. Pirmumo teisę (išskyrus atvejus, kai pirmumo teise pasinaudoja žemės sklypo bendraturčiai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka) įsigyti privačios žemės ūkio paskirties žemės, kurią pagal galiojančius detaliuosius ar specialiuosius planus planuojama panaudoti visuomenės poreikiams, taip pat žemės ūkio paskirties žemės, reikalingos valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, už kainą, už kurią ji parduodama, ir kitomis tokiomis pačiomis sąlygomis turi valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės ūkio paskirties žemės sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos atliekant vertinimą visuotiniu būdu Vyriausybės nustatyta tvarka, arba rinkos vertės, apskaičiuotos valstybės vardu veikiančios institucijos ar įmonės užsakymu, taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimo būdą, jeigu pastaroji vertė yra didesnė. Nacionalinė žemės tarnyba ar valstybės įmonė Žemės ūkio duomenų centras žemės ūkio paskirties žemę, reikalingą valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, vadovaudamasis Žemės įstatymu, gali nuomoti (Civilinio kodekso 6.559 straipsnyje nustatyta tvarka perimti nuomotojo teises ir pareigas, jeigu nuomos sutartis įregistruota viešajame registre) be aukciono asmeniui (-ims), teisėtai ją naudojusiam  (-iems) iki žemės ūkio paskirties žemės perėjimo valstybės nuosavybėn. Sukauptos lėšos pagal šį įstatymą už išnuomotą valstybinę žemę skiriamos žemei, reikalingai žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti ir (ar) išpirkti.
 
