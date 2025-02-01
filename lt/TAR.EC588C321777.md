@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2024-11-01"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01 iki 2026-06-29
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -7701,7 +7701,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
 
-6) sprendimas dėl kardomosios priemonės nuteistajam.
+6) sprendimas dėl kardomosios priemonės nuteistajam;
 
 2. Tais atvejais, kai kelių nusikalstamų veikų padarymu kaltinamas kaltinamasis dėl vienų veikų padarymo pripažįstamas kaltu, o dėl kitų – ne, nuosprendžio rezoliucinėje dalyje turi būti tiksliai nurodoma, dėl kurių veikų padarymo jis nuteisiamas, dėl kurių išteisinamas.
 
@@ -8083,13 +8083,25 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 3621 straipsnis. Įstatymo, panaikinančio veikos nusikalstamumą, švelninančio bausmę arba kitokiu būdu lengvinančio veiką padariusio asmens teisinę padėtį, taikymo tvarka
 
-1. Įstatymą, panaikinantį veikos nusikalstamumą, švelninantį bausmę arba kitokiu būdu lengvinantį veiką padariusio asmens teisinę padėtį, pagal nuteistojo, jo gynėjo prašymus, prokuroro, bausmės vykdymo institucijos teikimus taiko teismas, nagrinėjęs bylą pirmąja instancija.
+1. Įstatymą, panaikinantį veikos nusikalstamumą, švelninantį bausmę arba kitokiu būdu lengvinantį veiką padariusio asmens teisinę padėtį, pagal nuteistojo, jo gynėjo prašymus, prokuroro, bausmės vykdymo institucijos teikimus dėl nuteistajam priimtų nuosprendžių taiko vėliausią nuosprendį priėmęs apylinkės teismas, nagrinėjęs bylą pirmąja instancija. Tais atvejais, kai vėliausią ar bent vieną ankstesnį nuosprendį kaip pirmosios instancijos teismas yra priėmęs apygardos teismas, įstatymo, panaikinančio veikos nusikalstamumą, švelninančio bausmę arba kitokiu būdu lengvinančio veiką padariusio asmens teisinę padėtį, taikymo klausimą dėl visų nuteistajam priimtų nuosprendžių sprendžia vėliausią nuosprendį priėmęs apygardos teismas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3061, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19687
 
 2. Paduodant šio straipsnio 1 dalyje nurodytus prašymus ar teikimus ir priimant teismo nutartis, vadovaujamasi Baudžiamojo kodekso 3 straipsnio nuostatomis.
 
-3. Prašymui arba teikimui nagrinėti gali būti rengiamas teismo posėdis, kuriame dalyvauja prokuroras. Dalyvauti šiame teismo posėdyje šaukiamas laisvėje esantis nuteistasis ir nuteistojo prašymu gynėjas. Laisvės atėmimo bausmę atliekantis nuteistasis į teismo posėdį šaukiamas prireikus. Nuteistojo ir gynėjo neatvykimas į teismo posėdį nesustabdo bylos nagrinėjimo, jeigu teismas nepripažįsta, kad jiems dalyvauti būtina. Kai teismo posėdis nerengiamas, teismas ne vėliau kaip per tris dienas nuo prašymo ar teikimo gavimo teisme dienos šiems asmenims praneša apie gauto prašymo ar teikimo nagrinėjimo laiką ir teisę per keturiolika dienų nuo pranešimo išsiuntimo dienos pateikti atsiliepimą, pareiškimus dėl nušalinimo ir kitus prašymus. Šiame straipsnyje nurodyti klausimai teisme, kai teismo posėdis nerengiamas, turi būti išnagrinėti per septynias dienas nuo atsiliepimų pateikimo termino pabaigos.
+3. Prašymui arba teikimui nagrinėti gali būti rengiamas teismo posėdis, kuriame dalyvauja prokuroras. Dalyvauti šiame teismo posėdyje šaukiamas laisvėje esantis nuteistasis ir nuteistojo prašymu gynėjas. Laisvės atėmimo bausmę atliekantis nuteistasis į teismo posėdį šaukiamas prireikus. Nuteistojo ir gynėjo neatvykimas į teismo posėdį nesustabdo bylos nagrinėjimo, jeigu teismas nepripažįsta, kad jiems dalyvauti būtina. Kai teismo posėdis nerengiamas, teismas ne vėliau kaip per tris darbo dienas nuo prašymo ar teikimo ir jam išnagrinėti reikiamos medžiagos gavimo teisme dienos šiems asmenims praneša apie gauto prašymo ar teikimo nagrinėjimo laiką ir teisę per keturiolika darbo dienų nuo pranešimo išsiuntimo dienos pateikti atsiliepimą, pareiškimus dėl nušalinimo ir kitus prašymus. Šiame straipsnyje nurodyti klausimai teisme, kai teismo posėdis nerengiamas, turi būti išnagrinėti per septynias darbo dienas nuo atsiliepimų pateikimo termino pabaigos.
 
-4. Teismas, nustatęs, kad prašymas ar teikimas yra pagrįstas, priima nutartį dėl atleidimo nuo bausmės, bausmės sušvelninimo, veikos perkvalifikavimo ar teistumo išnykimo. Jeigu skiriant bausmę baudžiamosios bylos nagrinėjimo metu buvo vadovautasi Baudžiamojo kodekso 63 ar 64 straipsniais, teismas nustato naują subendrintą bausmę.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3061, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19687
+
+4. Teismas, nustatęs, kad prašymas ar teikimas yra pagrįstas, priima nutartį dėl atleidimo nuo bausmės, bausmės sušvelninimo, veikos perkvalifikavimo ar teistumo išnykimo. Jeigu skiriant bausmę baudžiamosios bylos nagrinėjimo metu buvo vadovautasi Lietuvos Respublikos baudžiamojo kodekso 63 ar 64 straipsniais, šio straipsnio 1 dalyje nurodytas ir vėliausią nuosprendį priėmęs teismas nustato naują subendrintą bausmę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3061, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19687
 
 5. Teismas, nustatęs, kad prašymas ar teikimas nepagrįstas, priima nutartį prašymą ar teikimą atmesti.
 
