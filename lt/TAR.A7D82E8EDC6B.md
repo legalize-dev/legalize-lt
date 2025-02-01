@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2024-12-13"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2024-12-13 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
@@ -131,17 +131,21 @@ Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
 
 17) kelių transporto priemonių svėrimo įrangai įsigyti;
 
-18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, išlaikymo išlaidoms ir akcinės bendrovės Lietuvos automobilių kelių direkcijos išlaidoms, patiriamoms vykdant įstatymais priskirtas valstybines funkcijas, apmokėti;
+18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, išlaikymo išlaidoms ir akcinės bendrovės „Via Lietuva“ išlaidoms, patiriamoms vykdant įstatymais priskirtas valstybines funkcijas, apmokėti
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
 
-19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir akcinės bendrovės Lietuvos automobilių kelių direkcijos paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti;
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
+
+19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir akcinės bendrovės „Via Lietuva“ paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
+
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
 20) mokesčiams už Lietuvos Respublikoje įregistruotas krovinines transporto priemones, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, už eismo ribojimą administruoti ir jų surinkimo priežiūrai atlikti;
 
@@ -215,7 +219,7 @@ Nr. XIV-2227, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22372
 
 16) valstybinėje ir savivaldybių žemėje daugiabučių namų kiemų vidaus kelių (gatvių) ir daugiabučių namų gyventojų automobilių stovėjimo aikštelėms įrengti, rekonstruoti, taisyti (remontuoti)  ir prižiūrėti, neatsižvelgiant į tai, ar atlikta šių inžinerinių statinių teisinė registracija.
 
-3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina akcinė bendrovė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms tinkamumą tikrina CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija.
+3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina akcinė bendrovė „Via Lietuva“. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms tinkamumą tikrina CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija.
 
 Straipsnio dalies pakeitimai:
 
@@ -223,7 +227,9 @@ Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
 
 Nr. XIV-1674, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27265
 
-4. Programos finansavimo lėšos naudojamos pagal per vieną mėnesį nuo valstybės biudžeto patvirtinimo Vyriausybės patvirtintą 3 metų Programos finansavimo lėšų naudojimo sąmatą, kuri rengiama vadovaujantis Susisiekimo ministerijos strateginiu veiklos planu. Iki 3 metų Programos finansavimo lėšų naudojimo sąmatos laikotarpio pirmųjų metų pabaigos akcinė bendrovė Lietuvos automobilių kelių direkcija ir savivaldybių institucijos gali pasirašyti sutarčių dėl antraisiais ir trečiaisiais metais planuojamo šio straipsnio 1 ir 2 dalyse numatytų veiklų finansavimo ne didesnei kaip 80 procentų atitinkamų metų Programos finansavimo lėšų sumai. 3 metų Programos finansavimo lėšų naudojimo sąmata sudaroma ir vykdoma Vyriausybės nustatyta tvarka.
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
+
+4. Programos finansavimo lėšos naudojamos pagal per vieną mėnesį nuo valstybės biudžeto patvirtinimo Vyriausybės patvirtintą 3 metų Programos finansavimo lėšų naudojimo sąmatą, kuri rengiama vadovaujantis Susisiekimo ministerijos strateginiu veiklos planu. Iki 3 metų Programos finansavimo lėšų naudojimo sąmatos laikotarpio pirmųjų metų pabaigos akcinė bendrovė „Via Lietuva“ ir savivaldybių institucijos gali pasirašyti sutarčių dėl antraisiais ir trečiaisiais metais planuojamo šio straipsnio 1 ir 2 dalyse numatytų veiklų finansavimo už ne didesnę kaip 80 procentų atitinkamų metų Programos finansavimo lėšų sumą. 3 metų Programos finansavimo lėšų naudojimo sąmata sudaroma ir vykdoma Vyriausybės nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
@@ -231,21 +237,29 @@ Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
 
 Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
 
-5. Trejų metų Programos finansavimo lėšų naudojimo sąmatoje šio straipsnio 1 dalyje nustatytoms veikloms numatoma 67 procentai Programos finansavimo lėšų.
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
-6. 3 metų Programos finansavimo lėšų naudojimo sąmatoje šio straipsnio 2 dalyje nustatytoms veikloms, taip pat skoloms (jeigu jų yra) sumokėti ir išlaidoms kompensuoti, kai deklaruojamos patirtos ir apmokėtos išlaidos už praėjusiais finansiniais metais atliktus darbus ir suteiktas paslaugas, kurių vertė neviršijo praėjusiais finansiniais metais planuotų asignavimų, numatoma 33 procentai Programos finansavimo lėšų, iš kurių iki 9 procentų Vyriausybės nustatyta tvarka paskirstoma atrinktiems valstybei svarbiems vietinės reikšmės kelių objektams finansuoti, likusi dalis, ne mažiau kaip 91 procentas, akcinės bendrovės Lietuvos automobilių kelių direkcijos paskirstoma taip:
+5. 3 metų Programos finansavimo lėšų naudojimo sąmatoje šio straipsnio 1 dalyje nustatytoms veikloms numatoma: 2025 metais – 62 procentai, nuo 2026 metų – 57 procentai Programos finansavimo lėšų. Nuo 2027 metų 5 procentai Programos finansavimo lėšų, skiriamų šio straipsnio 1 dalyje numatytoms veikloms, Vyriausybės nustatyta tvarka paskirstomi atrinktiems valstybinės reikšmės rajoninių kelių, kuriuos savivaldybių institucijos sutinka perimti savivaldybių nuosavybėn su visais jiems priklausančiais statiniais, objektams finansuoti.
 
 Straipsnio dalies pakeitimai:
 
-Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
-1) vietinės reikšmės keliams Birštono, Druskininkų, Palangos miesto ir Neringos savivaldybėse – 2 procentai, iš kurių 50 procentų šioms savivaldybėms paskirstoma po lygiai ir 50 procentų – pagal per paskutinius 12 mėnesių suteiktų nakvynių apgyvendinimo įstaigose skaičių (vadovaujamasi Lietuvos statistikos departamento duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.); lėšos paskirstomos toms savivaldybėms, kurių savivaldybių tarybos, vadovaudamosi Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymu, patvirtino savivaldybės infrastruktūros plėtros įmokos tarifą (tarifus);
+6. 3 metų Programos finansavimo lėšų naudojimo sąmatoje šio straipsnio 2 dalyje nustatytoms veikloms, taip pat skoloms (jeigu jų yra) sumokėti ir išlaidoms kompensuoti, kai deklaruojamos patirtos ir apmokėtos išlaidos už praėjusiais finansiniais metais atliktus darbus ir suteiktas paslaugas, kurių vertė neviršijo praėjusiais finansiniais metais planuotų asignavimų, numatoma: 2025 metais – 38 procentai, nuo 2026 metų – 43 procentai Programos finansavimo lėšų, iš jų iki 9 procentų lėšų Vyriausybės nustatyta tvarka paskirstoma atrinktiems valstybei svarbiems vietinės reikšmės kelių objektams finansuoti, likusi lėšų dalis, ne mažiau kaip 91 procentas, akcinės bendrovės „Via Lietuva“ paskirstoma taip:
 
-TAR pastaba. 9 straipsnio 6 dalies 1 punktas įsigalioja 2022-03-01.
+1) vietinės reikšmės keliams Birštono, Druskininkų, Palangos miesto ir Neringos savivaldybėse – 2 procentai lėšų, iš jų 50 procentų lėšų šioms savivaldybėms paskirstoma po lygiai ir 50 procentų lėšų – pagal per paskutinius 12 mėnesių suteiktų nakvynių apgyvendinimo įstaigose skaičių (vadovaujamasi Valstybės duomenų agentūros duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.); lėšos paskirstomos toms savivaldybėms, kurių savivaldybių tarybos, vadovaudamosi Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymu, patvirtino savivaldybės infrastruktūros plėtros įmokos tarifą (tarifus);
 
-2) savivaldybių institucijų valdomiems vietinės reikšmės keliams – 98 procentai, iš kurių miestų savivaldybių vietinės reikšmės keliams – 35 procentai, kitų savivaldybių vietinės reikšmės keliams – 65 procentai. Šios lėšos savivaldybėms paskirstomos pagal nuolatinių gyventojų skaičių (vadovaujamasi Lietuvos statistikos departamento duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.) – 50 procentų ir pagal motorizuoto eismo kelių ilgį, nurodytą savivaldybių tarybų iki einamųjų biudžetinių metų sausio 1 d. patvirtintuose kelių sąrašuose, kuriuose taip pat nurodomas kelio numeris ir kelio pavadinimas, – 50 procentų. Nuo 2025 metų Programos finansavimo lėšos savivaldybėms paskirstomos pagal nuolatinių gyventojų skaičių (vadovaujamasi Lietuvos statistikos departamento duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.) – 50 procentų ir pagal Nekilnojamojo turto registre iki einamųjų biudžetinių metų sausio 1 d. įregistruotų motorizuoto eismo kelių ilgį – 50 procentų.
+2) savivaldybių institucijų valdomiems vietinės reikšmės keliams – 98 procentai lėšų, iš jų miestų savivaldybių vietinės reikšmės keliams – 35 procentai lėšų, kitų savivaldybių vietinės reikšmės keliams – 65 procentai lėšų. Šios lėšos savivaldybėms paskirstomos pagal nuolatinių gyventojų skaičių (vadovaujamasi Valstybės duomenų agentūros duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.) – 50 procentų lėšų ir pagal motorizuoto eismo kelių ilgį, nurodytą savivaldybių tarybų iki einamųjų biudžetinių metų sausio 1 d. patvirtintuose kelių sąrašuose, kuriuose taip pat nurodomas kelio numeris ir kelio pavadinimas, – 50 procentų lėšų. Nuo 2027 metų Programos finansavimo lėšos savivaldybėms paskirstomos pagal nuolatinių gyventojų skaičių (vadovaujamasi Valstybės duomenų agentūros duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.) – 50 procentų lėšų ir pagal Nekilnojamojo turto registre iki einamųjų biudžetinių metų sausio 1 d. įregistruotų motorizuoto eismo kelių ilgį – 50 procentų lėšų.
 
-7. Ne mažiau kaip 50 procentų Programos finansavimo lėšų, skirtų savivaldybių institucijų valdomiems vietinės reikšmės keliams, turi būti naudojama turtui įsigyti – vietinės reikšmės keliams tiesti, rekonstruoti ir kapitališkai remontuoti; ne mažiau kaip 10 procentų Programos finansavimo lėšų, skirtų savivaldybių institucijų valdomiems vietinės reikšmės keliams, turi būti naudojama saugaus eismo priemonėms ir darnaus judumo priemonėms vietinės reikšmės keliuose finansuoti.
+Straipsnio dalies pakeitimai:
+
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
+
+7. Ne mažiau kaip 50 procentų Programos finansavimo lėšų, skirtų savivaldybių institucijų valdomiems vietinės reikšmės keliams, turi būti naudojama vietinės reikšmės keliams tiesti, rekonstruoti ir taisyti (remontuoti); ne mažiau kaip 10 procentų Programos finansavimo lėšų, skirtų savivaldybių institucijų valdomiems vietinės reikšmės keliams, turi būti naudojama saugaus eismo priemonėms ir darnaus judumo priemonėms vietinės reikšmės keliuose finansuoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
 8. Savivaldybių institucijos Programos finansavimo lėšas paskirsto vadovaudamosi savivaldybių tarybų nustatyta tvarka, pagal kurią turi būti sudaromos viešai skelbiamos savivaldybės interneto svetainėje ir nuolat atnaujinamos vietinės reikšmės kelių objektų prioritetinės eilės. Vietinės reikšmės kelių objektų prioritetinės eilės sudaromos ne trumpesniam kaip trejų metų laikotarpiui.
 
@@ -4207,7 +4221,11 @@ Pakeistas straipsnio pavadinimas:
 
 Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
 
-1. Mokesčio už eismo ribojimą valstybinės reikšmės keliuose dirbant įvairius darbus keliuose, kelių juostose ar jų apsaugos zonose, rengiant įvairius masinius (pvz., sporto ir kitus) renginius, kai ribojamas ar uždaromas eismas, tarifai nurodyti šio įstatymo 4 priede. Šio mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato susisiekimo ministras. Mokestis už eismo ribojimą valstybinės reikšmės keliuose nemokamas, kai darbai atliekami iš Programos finansavimo lėšų ir kai įrengiamos, rekonstruojamos ar taisomos (remontuojamos) melioracijos sistemos kelių apsaugos zonoje, jeigu nepažeidžiama kelio sankasa ir (ar) kiti kelio statiniai.
+1. Neteko galios nuo 2025-02-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
 2. Programai finansuoti gali būti naudojamos fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių perduodamos tikslinės lėšos. Fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių tikslinių lėšų perdavimo, administravimo, naudojimo ir priežiūros tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
@@ -4221,7 +4239,7 @@ Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
 
 7 straipsnis. Mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis
 
-1. Transporto priemonių ar jų junginių, kurių techniniai parametrai viršija didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio techninius parametrus, valdytojai moka mokestį už naudojimąsi valstybinės reikšmės ir vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio už naudojimąsi valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis mokėjimo, administravimo, priežiūros tvarką ir dydžius, neviršydama šio įstatymo 3 priede nustatytų ribinių tarifų, nustato Vyriausybė. Mokesčio už naudojimąsi vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis dydį, neviršydamos šio įstatymo 3 priede nustatytų ribinių tarifų, ir mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato savivaldybių tarybos.
+1. Transporto priemonių ar jų junginių, kurių techniniai parametrai viršija didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio techninius parametrus, valdytojai moka mokestį už naudojimąsi valstybinės reikšmės ir vietinės reikšmės viešaisiais keliais bei rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio už naudojimąsi valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis mokėjimo, administravimo, priežiūros tvarką ir dydžius, neviršydama šio įstatymo 3 priede nustatytų ribinių tarifų, nustato Vyriausybė. Mokesčio už naudojimąsi vietinės reikšmės viešaisiais keliais bei rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis dydį, neviršydamos šio įstatymo 3 priede nustatytų ribinių tarifų, ir mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato savivaldybių tarybos. Mokesčio už naudojimąsi valstybinės reikšmės ir vietinės reikšmės keliais bei rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis tarifai indeksuojami kiekvienais metais, pasibaigus mokestiniam laikotarpiui, taikant indeksavimo koeficientą, kuris nustatomas Valstybės duomenų agentūros apskaičiuotą ir Oficialiosios statistikos portale paskelbtą mokestinių metų vartotojų kainų indeksą dalijant iš šimto. Mokestinių metų vartotojų kainų indeksas nustatomas kiekvienų mokestinių metų gruodžio mėnesio kainas palyginus su ankstesnių metų gruodžio mėnesio kainomis.
 
 2. Mokestis nemokamas:
 
@@ -4235,6 +4253,8 @@ Straipsnio pakeitimai:
 
 Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
+
 91 straipsnis. CPVA funkcijos
 
 CPVA, vykdydama Programos finansavimo lėšų naudojimo šio įstatymo 9 straipsnio 1 dalyje nurodytoms kelių reikmėms priežiūrą, atlieka šias funkcijas:
@@ -4246,4 +4266,18 @@ CPVA, vykdydama Programos finansavimo lėšų naudojimo šio įstatymo 9 straips
 Straipsnio pakeitimai:
 
 Nr. XIV-1674, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27265
+
+71 straipsnis. Mokestis už eismo ribojimą
+
+1. Asmenys, valstybinės reikšmės keliuose, kelių juostose ar jų apsaugos zonose organizuojantys įvairius darbus, rengiantys masinius (pvz., sporto ar kitus) renginius, kai ribojamas ar uždaromas eismas, moka mokestį už eismo ribojimą.
+
+2. Mokesčio už eismo ribojimą tarifai nurodyti šio įstatymo 4 priede. Mokesčio už eismo ribojimą tarifai indeksuojami kiekvienais metais, pasibaigus mokestiniam laikotarpiui, taikant indeksavimo koeficientą, kuris nustatomas Valstybės duomenų agentūros apskaičiuotą ir Oficialiosios statistikos portale paskelbtą mokestinių metų vartotojų kainų indeksą dalijant iš šimto. Mokestinių metų vartotojų kainų indeksas nustatomas kiekvienų mokestinių metų gruodžio mėnesio kainas palyginus su praėjusių metų gruodžio mėnesio kainomis.
+
+3. Mokesčio už eismo ribojimą valstybinės reikšmės keliuose atlikimo, administravimo ir priežiūros tvarką nustato susisiekimo ministras.
+
+4. Mokestis už eismo ribojimą valstybinės reikšmės keliuose nemokamas, kai darbai atliekami iš Programos finansavimo lėšų, akcinės bendrovės „Via Lietuva“ lėšų ir kai įrengiamos, rekonstruojamos ar taisomos (remontuojamos) melioracijos sistemos kelių apsaugos zonoje, jeigu nepažeidžiama kelio sankasa ir (ar) kiti kelio statiniai.
+
+Papildyta straipsniu:
+
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
