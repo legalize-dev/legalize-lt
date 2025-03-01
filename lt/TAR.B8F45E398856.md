@@ -4,7 +4,7 @@ identifier: "TAR.B8F45E398856"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-28"
-last_updated: "2025-01-01"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-02-28
+Suvestinė redakcija nuo 2025-03-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
 
@@ -59,11 +59,21 @@ BENDROSIOS NUOSTATOS
 
 2. Burnos priežiūros praktika – burnos priežiūros specialisto pagal įgytą profesinę kvalifikaciją ir nustatytą kompetenciją teikiamos asmens sveikatos priežiūros paslaugos, apimančios burnos ligų profilaktiką bei medicinos priemonių (prietaisų) (dantų ir veido žandikaulių protezų, ortodontinių įtaisų ir įtvarų) gamybą.
 
-3. Burnos priežiūros praktikos klaida – burnos priežiūros specialisto veika, dėl jo paties kaltės sukėlusi pavojų ar padariusi žalą paciento sveikatai, bet nesukėlusi paciento neįgalumo arba mirties.
+3. Burnos priežiūros praktikos klaida – burnos priežiūros specialisto veika, įskaitant netinkamą burnos priežiūros studijų krypties studijų programos studento praktikos priežiūrą, dėl jo paties kaltės sukėlusi pavojų ar padariusi žalą paciento sveikatai, bet nesukėlusi paciento negalios arba mirties.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
 
 4. Burnos priežiūros praktikos licencija – įrašymas į Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registrą, kuriuo įgyjama burnos priežiūros specialisto teisė verstis atitinkama burnos priežiūros praktika.
 
 5. Burnos priežiūros specialistas – dantų technikas, burnos higienistas ar gydytojo odontologo padėjėjas.
+
+51. Burnos priežiūros studijų krypties studijų programos studento praktika – privaloma burnos priežiūros studijų krypties studijų programos dalis, kurią vykdant šios programos studentas, sveikatos apsaugos ministro ir švietimo, mokslo ir sporto ministro nustatyta tvarka prižiūrimas odontologo arba burnos priežiūros specialisto, dirbančio asmens sveikatos priežiūros įstaigoje, kurioje studentas atlieka praktiką, praktinio mokymo tikslu dalyvauja teikiant pacientams burnos priežiūros paslaugas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
 
 6. Dantų technikas – asmuo, įgijęs sveikatos mokslų profesinio bakalauro kvalifikacinį laipsnį ir dantų techniko profesinę kvalifikaciją arba lygiavertę aukštojo mokslo kvalifikaciją.
 
@@ -107,7 +117,11 @@ Nr. XIV-2396, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25912
 
 14. Odontologijos praktika – odontologo pagal įgytą profesinę kvalifikaciją ir nustatytą kompetenciją teikiamos asmens sveikatos priežiūros paslaugos, apimančios burnos ligų profilaktiką, diagnostiką ir gydymą.
 
-15. Odontologijos praktikos klaida – odontologo veika, dėl jo paties kaltės sukėlusi pavojų ar padariusi žalą paciento sveikatai, bet nesukėlusi paciento neįgalumo arba mirties.
+15. Odontologijos praktikos klaida – odontologo veika, įskaitant netinkamą burnos priežiūros ar odontologijos studijų krypties studijų programos studento (išskyrus gydytoją odontologą rezidentą) praktikos priežiūrą, dėl jo paties kaltės sukėlusi pavojų ar padariusi žalą paciento sveikatai, bet nesukėlusi paciento negalios arba mirties.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
 
 16. Odontologijos praktikos licencija – įrašymas į Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registrą, kuriuo įgyjama odontologo teisė verstis atitinkama odontologijos praktika.
 
@@ -125,7 +139,17 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
-18. Odontologijos studijos – ne trumpesnės kaip 5 metų trukmės universitetinės odontologijos krypties studijos, kurias baigus išduodamas aukštojo mokslo diplomas, kuriuo patvirtinama, kad baigtos odontologijos krypties vientisosios studijos, įgytas sveikatos mokslų magistro kvalifikacinis laipsnis ir suteikta gydytojo odontologo profesinė kvalifikacija arba odontologijos studijų krypties lygiavertė aukštojo mokslo kvalifikacija.
+18. Neteko galios nuo 2025-03-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
+
+181. Odontologijos studijų krypties studijų programos studento praktika – privaloma odontologijos studijų krypties studijų (išskyrus odontologijos rezidentūrą) programos dalis, kurią vykdant šios programos studentas, sveikatos apsaugos ministro ir švietimo, mokslo ir sporto ministro nustatyta tvarka prižiūrimas odontologo, dirbančio asmens sveikatos priežiūros įstaigoje, kurioje studentas atlieka praktiką, praktinio mokymo tikslu dalyvauja teikiant pacientams odontologinės priežiūros (pagalbos) paslaugas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
 
 19. Odontologinės priežiūros (pagalbos) paslaugos – įstaigoje, turinčioje licenciją teikti asmens sveikatos priežiūros paslaugas, pagal odontologo ir (ar) burnos priežiūros specialisto profesinę kvalifikaciją teikiamos asmens sveikatos priežiūros paslaugos.
 
@@ -141,9 +165,17 @@ Straipsnio dalies naikinimas:
 
 Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
-22. Šiurkšti burnos priežiūros praktikos klaida – burnos priežiūros specialisto veika, dėl jo paties kaltės sukėlusi paciento neįgalumą arba mirtį.
+22. Šiurkšti burnos priežiūros praktikos klaida – burnos priežiūros specialisto veika, įskaitant netinkamą burnos priežiūros studijų krypties studijų programos studento praktikos priežiūrą, dėl jo paties kaltės sukėlusi paciento negalią arba mirtį.
 
-23. Šiurkšti odontologijos praktikos klaida – odontologo veika, dėl jo paties kaltės sukėlusi paciento neįgalumą arba mirtį.
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
+
+23. Šiurkšti odontologijos praktikos klaida – odontologo veika, įskaitant netinkamą burnos priežiūros ar odontologijos studijų krypties studijų programos studento (išskyrus gydytoją odontologą rezidentą) praktikos priežiūrą, dėl jo paties kaltės sukėlusi paciento negalią arba mirtį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
 
 24. Neteko galios nuo 2023-01-01
 
@@ -391,7 +423,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIV-2616, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08908
 
-4) dalyvauti pagal įgytą profesinę kvalifikaciją profesinių organizacijų veikloje, jeigu tai neprieštarauja kitiems teisės aktams.
+4) dalyvauti pagal įgytą profesinę kvalifikaciją profesinių organizacijų veikloje, jeigu tai neprieštarauja kitiems teisės aktams;
+
+5) prižiūrėti odontologijos ar burnos priežiūros studijų krypties studijų programų studentus, jiems studijų proceso metu atliekant praktiką.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
 
 2. Odontologas ir burnos priežiūros specialistas turi ir kitų teisių, nustatytų kituose teisės aktuose, reglamentuojančiuose odontologijos praktiką ir burnos priežiūros praktiką.
 
@@ -450,6 +488,12 @@ a) odontologijos praktikos klaida ar burnos priežiūros praktikos klaida;
 b) šiurkšti odontologijos praktikos klaida ar šiurkšti burnos priežiūros praktikos klaida;
 
 2) odontologo ar burnos priežiūros specialisto veiklos trūkumai ar veiksmai, galėję lemti ar lėmę žalą ar pavojų pacientų sveikatai, nėra odontologijos praktikos klaida ar burnos priežiūros praktikos klaida, šiurkšti odontologijos praktikos klaida ar šiurkšti burnos priežiūros praktikos klaida.
+
+3. Profesinės kompetencijos vertinimo komisijai priėmus sprendimą, kad odontologas ar burnos priežiūros specialistas padarė šiurkščią odontologijos praktikos ar burnos priežiūros praktikos klaidą ir tai yra netinkama odontologijos studijų krypties studijų programos studento (išskyrus gydytoją odontologą rezidentą) ar burnos priežiūros studijų krypties studijų programos studento priežiūra (toliau – netinkama priežiūra) arba per vienus metus nuo paskutinės odontologo ar burnos priežiūros specialisto praktikos klaidos, kuri yra netinkama priežiūra, padarė odontologijos praktikos ar burnos priežiūros praktikos klaidą, kuri taip pat yra netinkama priežiūra, tačiau odontologo ar burnos priežiūros specialisto kvalifikacija atitinka licencijoje nurodytos profesinės kvalifikacijos reikalavimus, ši komisija kreipiasi į asmens sveikatos priežiūros įstaigos, kurioje buvo teikiamos odontologijos ar burnos priežiūros paslaugos, kurių metu padaryta odontologijos praktikos ar burnos priežiūros praktikos klaida arba šiurkšti odontologijos praktikos ar burnos priežiūros praktikos klaida, vadovą dėl odontologo ar burnos priežiūros specialisto galimo darbo pareigų pažeidimo tyrimo inicijavimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -656,6 +700,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2616, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08908
 
 Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 11 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
+
+Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 2, 11 ir 13 straipsnių pakeitimo įstatymas
 
 14 straipsnis. Stomatologinės priežiūros (pagalbos) paslaugos ir patarnavimai
 
