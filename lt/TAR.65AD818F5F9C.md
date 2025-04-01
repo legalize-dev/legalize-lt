@@ -4,7 +4,7 @@ identifier: "TAR.65AD818F5F9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2025-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
 
@@ -708,7 +708,11 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 2) Keleivių ir bagažo vežimo taisyklėse nustatyta tvarka nemokamai vežtis nustatyto svorio ir dydžio bagažą;
 
-3) nemokamai vežtis du iki 7 metų vaikus, jeigu jie neužima atskiros sėdimosios vietos, reguliarių reisų vietinio (miesto ir priemiestinio) susisiekimo maršrutų autobusais ir troleibusais bei tolimojo susisiekimo maršrutų autobusais;
+3) nemokamai vežtis vieną ar du vaikus iki 7 metų (imtinai), jeigu jie neužima atskiros sėdimosios vietos, reguliariųjų reisų vietinio (miesto ir priemiestinio) susisiekimo maršrutų autobusais ir troleibusais bei tolimojo susisiekimo maršrutų autobusais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-120, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04414
 
 4) važiuoti to paties vežėjo ar jų susitarimu kitomis transporto priemonėmis su tuo pačiu bilietu į tą patį paskirties punktą, kai biliete nurodyta transporto priemonė dėl kokių nors priežasčių negali važiuoti, ir nemokėti priemokos už pakeistą patogesnę transporto priemonę, tačiau gauti bilieto kainos skirtumą, jeigu transporto priemonė pakeista į mažiau patogią, negu buvo nurodyta keleivio biliete, o vežėjui nepateikus kitos transporto priemonės, gauti atitinkamą kompensaciją Keleivių ir bagažo vežimo taisyklėse nustatyta tvarka;
 
@@ -724,7 +728,11 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 3) laikytis nustatytos tvarkos.
 
-3. Važiavimo keleiviniu transportu lengvatas ir jų kompensavimo tvarką nustato įstatymai. Lengvatomis naudotis turi teisę asmenys, pateikę valstybinę kelių transporto priežiūrą atliekantiems pareigūnams, vežėjams arba jų įgaliotiems juridiniams asmenims, vykdantiems kelių transporto kontrolę, šią teisę liudijančius dokumentus, išskyrus atvejus, kai nėra abejonių, kad asmuo yra jaunesnis kaip 7 metų.
+3. Neteko galios nuo 2025-04-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XV-120, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04414
 
 Straipsnio pakeitimai:
 
@@ -1425,6 +1433,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2571, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08212
 
 Lietuvos Respublikos kelių transporto kodekso 8-2 ir 18-1 straipsnių pakeitimo įstatymas
+
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-120, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04414
+
+Lietuvos Respublikos kelių transporto kodekso 21 straipsnio pakeitimo įstatymas
 
 171 straipsnis. Viešųjų paslaugų teikimo organizavimas
 
