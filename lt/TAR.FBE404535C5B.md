@@ -4,7 +4,7 @@ identifier: "TAR.FBE404535C5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-08"
-last_updated: "2022-11-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2022-11-01 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 215-0; Žin. 1991, Nr.30-804, i. k. 0911010ISTA00I-1863
 
@@ -61,6 +61,18 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 1. Elektroninis keleivinio transporto bilietas – skaitmeninėje duomenų bazėje saugomas įrašas, patvirtinantis, kad yra sumokėta už vežimo paslaugą.
+
+11. Europos Sąjungos išorės skrydis – bet kuris vežėjo, kuris verčiasi keleivių vežimu oro keliais, reguliarus ar nereguliarus iš trečiosios šalies teritorijos vykdomas skrydis, kurio suplanuota nusileidimo vieta yra Europos Sąjungos valstybės narės teritorijoje, arba iš Europos Sąjungos valstybės narės teritorijos vykdomas skrydis, kurio suplanuota nusileidimo vieta yra trečiojoje šalyje, abiem atvejais įskaitant skrydžius su bet kokiais nusileidimais Europos Sąjungos valstybių narių arba trečiųjų šalių teritorijoje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
+
+12. Europos Sąjungos vidaus skrydis – bet kuris vežėjo, kuris verčiasi keleivių vežimu oro keliais, reguliarus arba nereguliarus iš Europos Sąjungos valstybės narės teritorijos vykdomas skrydis, kurio suplanuota nusileidimo vieta yra vienos arba kelių kitų Europos Sąjungos valstybių narių teritorijoje, be jokių nusileidimų trečiosios šalies teritorijoje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
 
 2. Intelektinės transporto sistemos – informacinėmis ir elektroninių ryšių technologijomis grindžiamos sistemos, skirtos geležinkelių, kelių, jūrų, oro ir vidaus vandenų transporto eismui, įskaitant infrastruktūrą, transporto priemones ir naudotojus, elektroninį keleivinio transporto bilietą, valdyti, taip pat sąsajoms tarp šių transporto rūšių užtikrinti.
 
@@ -330,11 +342,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
 
-3. Asmens duomenys intelektinių transporto sistemų srityje tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo, Lietuvos Respublikos elektroninių ryšių įstatymo ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) nuostatomis. Tais atvejais, kai nėra būtini asmens tapatybę nustatantys duomenys, intelektinių transporto sistemų srityje tvarkomi tokie duomenys, iš kurių negalima nustatyti asmens tapatybės.
+3. Asmens duomenys intelektinių transporto sistemų srityje tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo, Lietuvos Respublikos elektroninių ryšių įstatymo ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) nuostatomis. Tais atvejais, kai nėra būtini asmens tapatybę nustatantys duomenys, intelektinių transporto sistemų srityje tvarkomi tokie duomenys, iš kurių negalima nustatyti asmens tapatybės.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
+
+Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
 
 4. Atsakomybę už intelektinių transporto sistemų prietaikų ir paslaugų saugos ir kokybės pažeidimus reglamentuoja Lietuvos Respublikos produktų saugos įstatymas ir Lietuvos Respublikos administracinių nusižengimų kodeksas.
 
@@ -434,7 +448,11 @@ TAR pastaba. Bylos dėl Lietuvos Respublikos transporto veiklos pagrindų 20 str
 
 3. Šio straipsnio 1 dalyje nurodytų reikalavimų pažeidimo nagrinėjimas nepradedamas, o pradėtas nutraukiamas ir bauda neskiriama, jeigu vežamas užsienietis siekia prieglobsčio Lietuvos Respublikoje, vadovaudamasis Lietuvos Respublikos įstatymu „Dėl užsieniečių teisinės padėties“.
 
-4. Jeigu policijos įstaiga nustato, kad šio Įstatymo 191 straipsnio 1 dalyje nurodytas vežėjas nepateikė arba pateikė ne visus ar neteisingus šio Įstatymo 1 priede nurodytus duomenis arba juos pateikė vėliau negu nustatyta šio Įstatymo 191 straipsnio 1 dalyje, tokiam vežėjui skiriama nuo trijų tūkstančių šimto aštuoniasdešimt šešių iki penkių tūkstančių dviejų šimtų keturiolikos eurų bauda už kiekvieną skrydį, kuriuo buvo vežami keleiviai.
+4. Jeigu Lietuvos policijos generalinio komisaro įgaliota policijos įstaiga (toliau – policijos įstaiga) nustato, kad šio Įstatymo 191 straipsnio 1 dalyje nurodytas vežėjas nepateikė arba pateikė ne visus ar neteisingus šio Įstatymo 1 priede nurodytus duomenis arba juos pateikė vėliau, negu nustatyta šio Įstatymo 191 straipsnio 1 dalyje, tokiam vežėjui skiriama nuo trijų tūkstančių šimto aštuoniasdešimt šešių iki penkių tūkstančių dviejų šimtų keturiolikos eurų bauda už kiekvieną skrydį, kuriuo buvo vežami keleiviai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
 
 Straipsnio pakeitimai:
 
@@ -624,7 +642,11 @@ TAR pastaba. 1 priedo 1.7 papunktyje nurodyti duomenys Lietuvos policijos genera
 
 2.2. bilieto rezervavimo arba patvirtinimo data, bilieto klasė;
 
-2.3. skrydį vykdantis faktinis oro vežėjas (pavadinimas, kodas);
+2.3. skrydį vykdantis faktinis vežėjas, kuris verčiasi keleivių vežimu oro keliais, (pavadinimas, kodas);
+
+Papunkčio pakeitimai:
+
+Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
 
 2.4. skrydžio duomenys (numeris, išvykimo data, atvykimo data, informacija, iš kur arba į kur vykdomas skrydis (galutinis tikslas), iš kur arba į kur vykdomas skrydis (tarpinis tikslas), atvykimo ir išvykimo neatitikimas);
 
@@ -684,29 +706,21 @@ transporto veiklos pagrindų įstatymo
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2001 m. birželio 28 d. Tarybos direktyva 2001/51/EB dėl Konvencijos, įgyvendinančios 1985 m. birželio 14 d. Šengeno susitarimą, 26 straipsnio nuostatų papildymo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 160).
+1. 2001 m. birželio 28 d. Tarybos direktyva 2001/51/EB, papildanti Konvencijos dėl 1985 m. birželio 14 d. Šengeno susitarimo įgyvendinimo 26 straipsnio nuostatas.
 
-2. 2004 m. balandžio 29 d. Tarybos direktyva 2004/82/EB dėl vežėjų įpareigojimo perduoti keleivių duomenis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 74).
+2. 2004 m. balandžio 29 d. Tarybos direktyva 2004/82/EB dėl vežėjų įpareigojimo perduoti keleivių duomenis.
 
-3. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/40/ES dėl kelių transporto ir jo sąsajų su kitų rūšių transportu srities intelektinių transporto sistemų diegimo sistemos (OL 2010 L 207, p. 1).
+3. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/40/ES dėl kelių transporto ir jo sąsajų su kitų rūšių transportu srities intelektinių transporto sistemų diegimo sistemos.
 
-4. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos direktyva 2016/681 dėl keleivio duomenų įrašo (PNR) duomenų naudojimo teroristinių nusikaltimų ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ir patraukimo už juos baudžiamojon atsakomybėn tikslais (OL 2016 L 119, p. 132).
+4. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos direktyva 2016/681 dėl keleivio duomenų įrašo (PNR) duomenų naudojimo teroristinių nusikaltimų ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ir patraukimo už juos baudžiamojon atsakomybėn tikslais.
 
-Įstatymas papildytas priedu:
-
-Nr. X-214, 2005-05-19, Žin., 2005, Nr. 71-2560 (2005-06-07)
-
-Priedo pakeitimai:
-
-Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
-
-Nr. XI-1744, 2011-11-29, Žin., 2011, Nr. 150-7049 (2011-12-08)
-
-Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+_________________
 
 Priedo pakeitimai:
 
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
+
+Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
 
 Pakeitimai:
 
@@ -882,6 +896,14 @@ Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
 
 Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2 ir 11 straipsnių pakeitimo įstatymas
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
+
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2, 11, 19-1, 20 straipsnių ir 1, 3 priedų pakeitimo įstatymas
+
 13 straipsnis. Viešųjų keleivinio transporto paslaugų teikimas
 
 1. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių institucijos užtikrina socialiai būtinų transporto paslaugų teikimą visuomenei. Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams yra kompensuojami Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių.
@@ -950,43 +972,31 @@ ANTRASIS SKIRSNIS
 
 VIEŠOJO NAUDOJIMO INFRASTRUKTŪROS VALDYMAS IR PLĖTRA
 
-191 straipsnis. Vežėjų, kurie verčiasi keleivių vežimu oro keliais, pareiga teikti informaciją
+191 straipsnis. Vežėjų, kurie verčiasi keleivių vežimu oro keliais, pareiga teikti bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenis ir šių duomenų tvarkymas
 
-1. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, ne vėliau kaip prieš 48 valandas iki tvarkaraštyje numatyto skrydžio laiko ir iš karto po to, kai uždaromi keleivių įlaipinimo vartai, bet ne vėliau negu pradedamas skrydis, privalo šio straipsnio 2 dalyje nurodytam įgaliotam padaliniui neatlygintinai elektroninių ryšių priemonėmis pateikti šio Įstatymo 1 priede nurodytus bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenis apie atvykstančius į Lietuvos Respublikos teritoriją ar išvykstančius iš jos oro keliais keleivius.
+1. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, ne vėliau kaip prieš 48 valandas iki tvarkaraštyje numatyto skrydžio laiko ir iš karto po to, kai uždaromi keleivių įlaipinimo vartai, bet ne vėliau negu pradedamas skrydis, privalo šio straipsnio 2 dalyje nurodytam įgaliotam padaliniui (toliau – įgaliotas padalinys) neatlygintinai elektroninių ryšių priemonėmis pateikti šio Įstatymo 1 priede nurodytus bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenis apie atvykstančius į Lietuvos Respublikos teritoriją ar išvykstančius iš jos oro keliais keleivius.
 
-TAR pastaba. Bylos dėl Lietuvos Respublikos transporto veiklos pagrindų 191 straipsnio 1 dalies reikalavimų pažeidimo, pradėtos iki 2017-01-01, baigiamos nagrinėti pagal tvarką, galiojusią iki įstatymo Nr. XII-2483 įsigaliojimo (2017-01-01), išskyrus įstatymo Nr. XII-2483 16  straipsnio 4 dalyje nurodytą išimtį.
+2. Įgaliotas padalinys yra Lietuvos policijos generalinio komisaro įgaliota policijos įstaiga ar jos struktūrinis padalinys. Įgaliotam padaliniui priklauso Valstybės sienos apsaugos tarnybos, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos, Lietuvos Respublikos valstybės saugumo departamento ir Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos deleguoti pareigūnai, įgalioti atlikti funkcijas, susijusias su šio Įstatymo 1 priede nurodytų duomenų tvarkymu.
 
-2. Įgaliotas padalinys yra Lietuvos policijos generalinio komisaro įsakymu įgaliota policijos įstaiga ar jos struktūrinis padalinys. Įgaliotam padaliniui priklauso Valstybės sienos apsaugos tarnybos, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos, Lietuvos Respublikos valstybės saugumo departamento ir Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos deleguoti pareigūnai, įgalioti atlikti funkcijas, susijusias su šio Įstatymo 1 priede nurodytų duomenų tvarkymu.
+3. Šio Įstatymo 1 priede nurodyti duomenys tvarkomi teroristinių nusikaltimų ir su teroristine veikla susijusių nusikaltimų, taip pat labai sunkių ir sunkių nusikaltimų, kaip jie apibrėžiami Lietuvos Respublikos baudžiamajame kodekse, prevencijos, nustatymo, tyrimo ir patraukimo už juos baudžiamojon atsakomybėn tikslais.
 
-Straipsnio dalies pakeitimai:
+4. Valstybės sienos apsaugos tarnyba šio Įstatymo 1 priedo 1.1, 1.2, 1.3, 1.4, 1.5, 2.3, 2.4 papunkčiuose nurodytus duomenis apie užsieniečius, atvykstančius į Lietuvos Respublikos teritoriją iš valstybių, ne Europos Sąjungos valstybių narių, tvarko siekiant kovoti su nelegalia migracija ir sugriežtinti pasienio kontrolę.
 
-Nr. XIII-2662, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20997
+5. Atliekant keleivių įvertinimą prieš jiems atvykstant į Lietuvos Respubliką ar išvykstant iš jos, šio Įstatymo 1 priede nurodyti duomenys automatizuotu būdu yra palyginami su duomenimis, tvarkomais informacinėse sistemose teroristinių nusikaltimų ir su teroristine veikla susijusių nusikaltimų, taip pat labai sunkių ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ar patraukimo už juos baudžiamojon atsakomybėn, taip pat įtariamųjų, kaltinamųjų, nuteistųjų, dingusių be žinios ar įtrauktų į Šengeno informacinę sistemą asmenų paieškos tikslais. Keleivių vertinimas atliekamas pagal iš anksto nustatytus ir Lietuvos policijos generalinio komisaro nustatyta tvarka patvirtintus tikslinius, proporcingus, konkrečius, nediskriminacinius kriterijus; gavus teigiamą rezultatą, duomenys turi būti atskirai peržiūrėti įgalioto padalinio neautomatizuotu būdu.
 
-Nr. XIV-330, 2021-05-20, paskelbta TAR 2021-06-01, i. k. 2021-12501
+6. Šio Įstatymo 1 priede nurodyti Europos Sąjungos išorės skrydžių bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenys, įgalioto padalinio Lietuvos policijos generalinio komisaro nustatyta tvarka atrinktų Europos Sąjungos vidaus skrydžių bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenys, o kai vadovaujantis Vyriausybės nustatyta tvarka  nustatomas aukštesnis negu žemas teroro akto grėsmės lygis, ir visų Europos Sąjungos vidaus skrydžių bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenys tvarkomi Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka įteisintoje įslaptintos informacijos ryšių ir informacinėje sistemoje (toliau – informacinė sistema). Šie duomenys saugomi 3 metus nuo jų įrašymo į informacinę sistemą dienos, o įgaliotam padaliniui Lietuvos policijos generalinio komisaro nustatyta tvarka atlikus papildomą įvertinimą ir nustačius, kad šie duomenys yra didelės nusikalstamumo rizikos Europos Sąjungos išorės ir (ar) Europos Sąjungos vidaus skrydžių bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenys arba Vyriausybės nustatyta tvarka nustačius aukštesnį negu žemas teroro akto grėsmės lygį, ir visų Europos Sąjungos vidaus skrydžių bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenys, – 5 metus nuo šių duomenų įrašymo į informacinę sistemą dienos. Šio Įstatymo 1 priedo 1.2, 1.4, 1.5 papunkčiuose ir 3 punkte nurodyti duomenys po 6 mėnesių nuo jų įrašymo į informacinę sistemą dienos yra nuasmeninami ir užmaskuojami, išskyrus atvejus, kai šie duomenys yra naudojami konkrečiais teroristinių nusikaltimų ir su teroristine veikla susijusių nusikaltimų, taip pat labai sunkių ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ar patraukimo baudžiamojon atsakomybėn tikslais. Vežėjo, kuris verčiasi keleivių vežimu oro keliais, pateikti šio Įstatymo 1 priede nenumatyti asmens duomenys informacinėje sistemoje nedelsiant ištrinami. Įgalioto padalinio Lietuvos policijos generalinio komisaro nustatyta tvarka neatrinkti Europos Sąjungos vidaus skrydžių bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenys, nurodyti šio Įstatymo 1 priede, taip pat duomenys, kurių saugojimo terminas pasibaigia, nedelsiant ištrinami.
 
-3. Šio Įstatymo 1 priede nurodyti duomenys tvarkomi teroristinių nusikaltimų ir su teroristine veikla susijusių nusikaltimų, taip pat sunkių ir labai sunkių nusikaltimų, kaip jie apibrėžti Lietuvos Respublikos baudžiamajame kodekse, prevencijos, nustatymo, tyrimo ir patraukimo už juos baudžiamojon atsakomybėn tikslais.
-
-4. Valstybės sienos apsaugos tarnyba šio Įstatymo 1 priedo 1.1, 1.2, 1.3, 1.4, 1.5, 2.3, 2.4 papunkčiuose nurodytus duomenis apie užsieniečius, atvykstančius į Lietuvos Respublikos teritoriją iš valstybių, ne Europos Sąjungos valstybių narių, tvarko siekiant kovoti su nelegalia migracija ir sugriežtinti pasienio kontrolę.
-
-5. Atliekant keleivių įvertinimą prieš jiems atvykstant į Lietuvos Respubliką ar išvykstant iš jos, šio Įstatymo 1 priede nurodyti duomenys automatizuotu būdu yra palyginami su duomenimis, tvarkomais valstybės ir žinybiniuose registruose, informacinėse sistemose teroristinių ar labai sunkių ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ar patraukimo baudžiamojon atsakomybėn, taip pat įtariamųjų, kaltinamųjų, nuteistųjų, dingusių be žinios ar įtrauktų į Šengeno informacinę sistemą asmenų paieškos tikslais. Keleivių vertinimas atliekamas pagal iš anksto nustatytus ir Lietuvos policijos generalinio komisaro nustatyta tvarka patvirtintus tikslinius, proporcingus, konkrečius, nediskriminacinius kriterijus; gavus teigiamą rezultatą, duomenys turi būti atskirai peržiūrėti įgalioto padalinio neautomatizuotu būdu.
-
-6. Šio Įstatymo 1 priede nurodyti duomenys tvarkomi teisės aktų nustatyta tvarka įsteigtoje informacinėje sistemoje ir saugomi 5 metus. Šio Įstatymo 1 priedo 1.2, 1.4, 1.5 papunkčiuose ir 3 punkte nurodyti duomenys po 6 mėnesių nuo jų įrašymo į informacinę sistemą yra nuasmeninami ir užmaskuojami, išskyrus atvejus, kai šie duomenys yra naudojami konkrečiais teroristinių ar labai sunkių ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ar patraukimo baudžiamojon atsakomybėn tikslais. Oro vežėjo pateikti šio Įstatymo 1 priede nenumatyti ypatingi ir kiti asmens duomenys informacinėje sistemoje nedelsiant ištrinami.
-
-7. Įgaliotas padalinys šio Įstatymo 1 priede nurodytus duomenis ar tų duomenų tvarkymo rezultatus šio Įstatymo 2 priede nurodytoms kompetentingoms institucijoms ar kitų valstybių narių įgaliotiems padaliniams ar Europos policijos biurui (Europolui) teikia pagrįsto prašymo pagrindu tik konkrečiais teroristinių nusikaltimų ar labai sunkių ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ar patraukimo baudžiamojon atsakomybėn tikslais. Įgaliotas padalinys teikia šio straipsnio 1 dalyje nurodytus duomenis ar tų duomenų tvarkymo rezultatus trečiosioms šalims tik atskirai įvertinęs kiekvieną konkretų atvejį, laikydamasis šiame straipsnyje ir Lietuvos Respublikos asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatyme nustatytų sąlygų. Šio Įstatymo 1 priede nurodytų duomenų teikimo kompetentingoms institucijoms ir jų naudojimo sąlygas, būdus ir tvarką nustato Lietuvos Respublikos Vyriausybė.
+7. Įgaliotas padalinys šio Įstatymo 1 priede nurodytus duomenis ar tų duomenų tvarkymo rezultatus šio Įstatymo 2 priede nurodytoms kompetentingoms institucijoms ar kitų Europos Sąjungos valstybių narių įgaliotiems padaliniams ar Europos policijos biurui (Europolui) teikia pagrįsto prašymo pagrindu tik konkrečiais teroristinių nusikaltimų ir su teroristine veikla susijusių nusikaltimų, taip pat labai sunkių ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ar patraukimo už juos baudžiamojon atsakomybėn tikslais. Įgaliotas padalinys teikia šio straipsnio 1 dalyje nurodytus duomenis ar tų duomenų tvarkymo rezultatus trečiosioms šalims tik atskirai įvertinęs kiekvieną konkretų atvejį, laikydamasis šiame straipsnyje ir Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme nustatytų sąlygų. Šio Įstatymo 1 priede nurodytų duomenų teikimo kompetentingoms institucijoms, kitų Europos Sąjungos valstybių narių įgaliotiems padaliniams, Europos policijos biurui (Europolui), trečiosioms šalims ir šių duomenų naudojimo sąlygas, būdus ir tvarką nustato Vyriausybė.
 
 8. Šio Įstatymo 1 priede nurodyti duomenys įgaliotam padaliniui teikiami ir tvarkomi Lietuvos policijos generalinio komisaro nustatyta tvarka.
 
-9. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 24 straipsnyje nustatyta tvarka privalo informuoti keleivius apie numatomą jų asmens duomenų, nurodytų šio straipsnio 1 dalyje, tvarkymą.
+9. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, Reglamento (ES) 2016/679 nustatyta tvarka privalo informuoti keleivius apie numatomą jų asmens duomenų, nurodytų šio straipsnio 1 dalyje, tvarkymą.
 
-10. Savo teises dėl asmens duomenų tvarkymo keleivis įgyvendina Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka.
-
-11. Asmenims, pažeidusiems duomenų tvarkymo nuostatas, taikoma įstatymų nustatyta atsakomybė.
-
-Įstatymas papildytas straipsniu:
-
-Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
+10. Savo teises dėl asmens duomenų tvarkymo keleivis įgyvendina vadovaudamasis duomenų valdytojų, į kuriuos kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, Reglamentu (ES) 2016/679 arba Asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu.
 
 Straipsnio pakeitimai:
 
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
+
+Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
 
