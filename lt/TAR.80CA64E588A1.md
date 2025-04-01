@@ -4,7 +4,7 @@ identifier: "TAR.80CA64E588A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-25"
-last_updated: "2024-01-02"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo 17 straipsnio 5 dalis įsigalioja nuo Li
 ---
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2024-01-02 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01 iki 2025-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
 
@@ -193,7 +193,7 @@ ANTRASIS SKIRSNIS
 
 12) skatinti kooperatinių bendrovių (kooperatyvų) žemės ir maisto ūkyje, gamintojų grupių ir gamintojų organizacijų kūrimąsi ir veiklą;
 
-13) skatinti žemės ūkio inžinerinę plėtrą ir užtikrinti žemės ar miškų ūkio transporto priemonių atitikties įvertinimą.
+13) skatinti žemės ūkio inžinerinę plėtrą ir užtikrinti žemės ar miškų ūkio transporto priemonių atitikties įvertinimą;
 
 Papildyta straipsnio punktu:
 
@@ -387,6 +387,12 @@ Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
 
 4. Valstybės ir Europos Sąjungos paramos lėšų naudojimo tvarką ir sąlygas nustato Žemės ūkio ministerija.
 
+41. Teikiant finansinę paramą, tik sutuoktiniai yra laikomi susijusiais asmenimis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-96, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23089
+
 5. Apie valstybės ir Europos Sąjungos paramos priemonių administravimo metu priimtą individualų administracinį aktą (sprendimą) asmeniui, kuriam šis individualus aktas (sprendimas) skirtas arba kurio teisėms ir pareigoms turi tiesioginį poveikį, ne vėliau kaip per 20 darbo dienų nuo šio individualus administracinio akto (sprendimo) priėmimo dienos yra pranešama raštu ir (arba) elektroniniu paštu ar per informacines sistemas, jeigu asmuo sutiko, kad informacija jam bus teikiama tokiu būdu.
 
 Papildyta straipsnio dalimi:
@@ -512,16 +518,6 @@ Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
-
-5. Siekdama sustiprinti žemės ūkio veiklos subjektų, parduodančių žalią pieną, derybines galias ir didinti pieno rinkos skaidrumą, valstybės įmonė Žemės ūkio duomenų centras turi teisę iš ūkio subjektų, teisės aktų nustatyta tvarka registruotų žalio pieno supirkimo ir (ar) perdirbimo veiklai plėtoti (toliau – žalio pieno pirkėjas), rinkti ir skelbti informaciją apie vidutines kalendorinio mėnesio žalio pieno pirkimo kainas pagal kiekvieną žalio pieno pirkėją, jas išskiriant pagal žalio pieno pristatymo būdą (žalias pienas pristatomas į žalio pieno supirkimo punktą, žalias pienas paimamas tiesiogiai iš žemės ūkio veiklos subjekto ūkio, žalias pienas pristatomas tiesiogiai į žalio pieno perdirbimo įmonę) ir (ar) pagal iš žemės ūkio veiklos subjekto perkamo žalio pieno kiekį. Šios informacijos rinkimo, naudojimo ir viešinimo tvarką nustato žemės ūkio ministras.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIV-461, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15458
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIV-1296, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15625
 
 Straipsnio pakeitimai:
 
@@ -678,6 +674,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2222, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22368
 
 Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 4 straipsnių ir priedo pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3115, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20197
+
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 3, 4, 8, 10 ir 13 straipsnių pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-96, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23089
+
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 8 straipsnio pakeitimo įstatymas
 
 15 straipsnis. Valstybės remiamos žemės ūkio ir maisto produktų suvartojimo skatinimo programos
 
