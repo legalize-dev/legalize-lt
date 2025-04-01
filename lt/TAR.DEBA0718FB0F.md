@@ -4,7 +4,7 @@ identifier: "TAR.DEBA0718FB0F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2025-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
 
@@ -850,7 +850,11 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 1) laivavedžius, įgulos narius arba kitus asmenis, pasamdytus eiti ar einančius kokias nors tam laivui eksploatuoti reikiamas pareigas;
 
-2) jaunesnius kaip vienų metų vaikus.
+2) vieną ar du vaikus iki 7 metų (imtinai).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
 
 3. Keleiviai ir bagažas gali būti vežami:
 
@@ -872,7 +876,11 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 9. Keleivių ir transporto priemonių perkėlimo keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš jos didžiausi tarifai turi būti suderinti su Valstybine energetikos reguliavimo taryba.
 
-10. Keleivių važiavimo reguliariaisiais reisais lengvatas ir vežėjų patirtų išlaidų (negautų pajamų) dėl keleiviams taikytų važiavimo reguliariaisiais reisais lengvatų kompensavimo (atlyginimo) tvarką nustato Lietuvos Respublikos transporto lengvatų įstatymas.
+10. Keleiviams, vykstantiems reguliariaisiais reisais, taikomas viešojo keleivinio transporto lengvatas ir vežėjų išlaidų (negautų pajamų), patirtų dėl šių lengvatų taikymo, kompensavimo (atlyginimo) tvarką nustato Lietuvos Respublikos viešojo keleivinio transporto lengvatų įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
 
 32 straipsnis. Keleivio bilietas ir bagažo kvitas
 
@@ -912,9 +920,23 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 2) nemokamai vežtis rankinį bagažą, o kitą bagažą – už vežėjo nustatytą užmokestį;
 
-3) jeigu vidaus vandenų transporto priemonė dėl kokių nors priežasčių negali plaukti, su tuo pačiu keleivio bilietu plaukti kitomis to paties savininko (valdytojo) ar, jeigu yra sudarytas savininkų (valdytojų) susitarimas, kitų savininkų (valdytojų) vidaus vandenų transporto priemonėmis;
+3) reguliariaisiais reisais nemokamai vežtis vieną ar du vaikus iki 7 metų (imtinai), jeigu jie neužima atskiros sėdimosios vietos;
 
-4) nutraukti keleivių vežimo sutartį ir atgauti sumokėtus pinigus arba jų dalį šio kodekso ir susisiekimo ministro tvirtinamose keleivių ir bagažo vežimo vidaus vandenų transporto priemonėmis taisyklėse nustatyta tvarka.
+Papildyta straipsnio punktu:
+
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
+
+4) jeigu vidaus vandenų transporto priemonė dėl kokių nors priežasčių negali plaukti, su tuo pačiu keleivio bilietu plaukti kitomis to paties savininko (valdytojo) ar, jeigu yra sudarytas savininkų (valdytojų) susitarimas, kitų savininkų (valdytojų) vidaus vandenų transporto priemonėmis;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
+
+5) nutraukti keleivių vežimo sutartį ir atgauti sumokėtus pinigus arba jų dalį šio kodekso ir susisiekimo ministro tvirtinamose keleivių ir bagažo vežimo vidaus vandenų transporto priemonėmis taisyklėse nustatyta tvarka.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
 
 2. Keleivis privalo:
 
@@ -1715,6 +1737,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3072, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20016
 
 Lietuvos Respublikos vidaus vandenų transporto kodekso 16-1 straipsnio pakeitimo ir 27 straipsnio pripažinimo netekusiu galios įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
+
+Lietuvos Respublikos vidaus vandenų transporto kodekso 30 ir 34 straipsnių pakeitimo įstatymas
 
 161 straipsnis. Vidaus vandenų transporto priemonių techninė apžiūra, techninis patikrinimas, Europos Sąjungos vidaus vandenų laivybos sertifikato ir laikinojo Europos Sąjungos vidaus vandenų laivybos sertifikato išdavimas
 
