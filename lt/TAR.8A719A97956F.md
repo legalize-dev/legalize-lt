@@ -4,7 +4,7 @@ identifier: "TAR.8A719A97956F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-05-25"
-last_updated: "2024-06-28"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A719A97956F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas
 
-Suvestinė redakcija nuo 2024-06-28 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 65-2380, i. k. 1061010ISTA000X-614
 
@@ -37,7 +37,11 @@ BENDROSIOS NUOSTATOS
 
 1. Šis įstatymas reglamentuoja informacinės visuomenės paslaugų teikimą ir informacinės visuomenės paslaugų teikėjų teises, pareigas ir atsakomybę.
 
-2. Šis įstatymas nustato Lietuvos Respublikos ryšių reguliavimo tarnybos, Valstybinės duomenų apsaugos inspekcijos, Valstybinės vartotojų teisių apsaugos tarnybos, Žurnalistų etikos inspektoriaus tarnybos (toliau – kompetentingos institucijos) įgaliojimus užtikrinti Reglamento (ES) 2022/2065 vykdymą, Ryšių reguliavimo tarnybos įgaliojimus atlikti Reglamente (ES) 2022/2065 nustatytas skaitmeninių paslaugų koordinatoriaus funkcijas ir priežiūros institucijų įgaliojimus.
+2. Šis įstatymas nustato Lietuvos Respublikos ryšių reguliavimo tarnybos, Valstybinės duomenų apsaugos inspekcijos, Valstybinės vartotojų teisių apsaugos tarnybos, Žurnalistų etikos inspektoriaus tarnybos (toliau – kompetentingos institucijos) įgaliojimus užtikrinti Reglamento (ES) 2022/2065 vykdymą, Ryšių reguliavimo tarnybos įgaliojimus atlikti Reglamente (ES) 2022/2065 nustatytas skaitmeninių paslaugų koordinatoriaus funkcijas, Reglamente (ES) 2024/1689 nustatytas nacionalinės kompetentingos institucijos – rinkos priežiūros institucijos – ir bendro kontaktinio punkto funkcijas, taip pat priežiūros institucijų įgaliojimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 
 3. Šis įstatymas netaikomas:
 
@@ -83,7 +87,11 @@ BENDROSIOS NUOSTATOS
 
 11. Užsakymas – paslaugos gavėjo paslaugų teikėjui elektroninėmis priemonėmis pateiktas pasiūlymas sudaryti sutartį (oferta) arba pateikto pasiūlymo sudaryti sutartį priėmimas (akceptas).
 
-12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme ir Reglamente (ES) 2022/2065.
+12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2022/2065, Reglamente (ES) 2024/1689, Lietuvos Respublikos dokumentų ir archyvų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 
 3 straipsnis. Reguliavimo principai
 
@@ -369,7 +377,19 @@ Ryšių reguliavimo tarnyba:
 
 10) analizuoja sistemines rizikas, kylančias Lietuvos Respublikoje dėl labai didelių interneto platformų ir labai didelių interneto paieškos sistemų paslaugų teikėjų paslaugų dizaino, naudojimo ir su paslaugomis susijusių sistemų ir algoritmų veikimo pagal šio įstatymo 16 straipsnio 2 dalies nuostatas;
 
-11) rengia metinę veiklos ataskaitą dėl visų kompetentingų institucijų vykdomos veiklos pagal Reglamentą (ES) 2022/2065, ją skelbia viešai ir teikia Europos Komisijai ir Valdybai.
+11) rengia metinę veiklos ataskaitą dėl visų kompetentingų institucijų vykdomos veiklos pagal Reglamentą (ES) 2022/2065, ją skelbia viešai ir teikia Europos Komisijai ir Valdybai;
+
+12) pagal Reglamento (ES) 2024/1689 70 straipsnio 1 dalį atlieka nacionalinės kompetentingos institucijos – rinkos priežiūros institucijos – funkcijas;
+
+Papildyta straipsnio punktu:
+
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
+
+13) pagal Reglamento (ES) 2024/1689 70 straipsnio 2 dalį atlieka bendro kontaktinio punkto funkcijas.
+
+Papildyta straipsnio punktu:
+
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 
 24 straipsnis. Ryšių reguliavimo tarnybos teisės ir pareigos
 
@@ -805,6 +825,12 @@ priedas
 
 3. 2022 m. spalio 19 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2065 dėl bendrosios skaitmeninių paslaugų rinkos, kuriuo iš dalies keičiama Direktyva 2000/31/EB (Skaitmeninių paslaugų aktas).
 
+4. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1689, kuriuo nustatomos suderintos dirbtinio intelekto taisyklės ir iš dalies keičiami reglamentai (EB) Nr. 300/2008, (ES) Nr. 167/2013, (ES) Nr. 168/2013, (ES) 2018/858, (ES) 2018/1139 ir (ES) 2019/2144 ir direktyvos 2014/90/ES, (ES) 2016/797 ir (ES) 2020/1828 (Dirbtinio intelekto aktas).
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
+
 ____________________
 
 Priedo pakeitimai:
@@ -870,4 +896,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2702, 2024-06-13, paskelbta TAR 2024-06-27, i. k. 2024-11769
 
 Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
+
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 1, 2, 23 straipsnių ir priedo pakeitimo įstatymas
 
