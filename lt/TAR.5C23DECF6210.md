@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2025-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
 
@@ -100,7 +100,7 @@ Vilnius
 
 29. Vyriausybės vertybiniai popieriai – vidaus ar užsienio rinkose Vyriausybės valstybės vardu išleidžiami vertybiniai popieriai, kuriais patvirtinama jų turėtojų teisė nustatytais terminais gauti jų nominaliąją vertę atitinkančią sumą, palūkanas ar kitą ekvivalentą.
 
-30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme.
+30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos nacionalinio plėtros banko įstatyme, Lietuvos Respublikos vystomojo bendradarbiavimo ir humanitarinės pagalbos įstatyme.
 
 Straipsnio dalies pakeitimai:
 
@@ -284,7 +284,13 @@ Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
 
 9) dalies atidėto mokėjimo pagal sudarytą prekių pirkimo–pardavimo sutartį ar sudarytą paslaugų teikimo sutartį sumokėjimo mokėjimo atidėjimą suteikusiam prekių gamintojui ar paslaugų teikėjui arba jį pagal faktoringo sutartį finansuojančiam finansuotojui ar draudimo įmonės prekinio kredito draudėjui sumokėtos draudimo išmokos dalies padengimo;
 
-10) savo garantuotų paskolų, kurias finansų įstaigos gali pateikti kaip finansinį užstatą ar kitaip įkeisti Lietuvos bankui, užtikrindamos savo įsipareigojimus pagal Lietuvos banko suteiktas paskolas arba kitas Lietuvos banko operacijas už jo paskolas finansų įstaigai. Garantijų institucijos įsipareigojimai pagal suteiktą šiame punkte nurodytą garantiją yra vykdomi, jeigu šios garantijų institucijos garantuotos paskolos gavėjas neįvykdo visų ar dalies savo įsipareigojimų pagal individualia garantija garantuotą paskolą Lietuvos bankui arba kitai finansų įstaigai, kuriai Lietuvos bankas yra perleidęs pateiktas kaip finansinį užstatą ar kitaip įkeistas garantijų institucijos garantuotas paskolas.
+10) savo garantuotų paskolų, kurias finansų įstaigos gali pateikti kaip finansinį užstatą ar kitaip įkeisti Lietuvos bankui, užtikrindamos savo įsipareigojimus pagal Lietuvos banko suteiktas paskolas arba kitas Lietuvos banko operacijas už jo paskolas finansų įstaigai. Garantijų institucijos įsipareigojimai pagal suteiktą šiame punkte nurodytą garantiją yra vykdomi, jeigu šios garantijų institucijos garantuotos paskolos gavėjas neįvykdo visų ar dalies savo įsipareigojimų pagal individualia garantija garantuotą paskolą Lietuvos bankui arba kitai finansų įstaigai, kuriai Lietuvos bankas yra perleidęs pateiktas kaip finansinį užstatą ar kitaip įkeistas garantijų institucijos garantuotas paskolas;
+
+11) skatinamųjų finansinių priemonių, projektų ir programų vystomojo bendradarbiavimo srityje finansavimo.
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
 
 5. Šio straipsnio 4 dalyje nurodytos garantijos teikiamos vadovaujantis valstybės pagalbą reglamentuojančiais Europos Sąjungos teisės aktais.
 
@@ -322,7 +328,11 @@ Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
 
 3. Garantijų institucijos garantijas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pasirašo garantijų institucijos vadovas ar jo įgaliotas asmuo. Vyriausybės įsteigtų garantijų institucijų suteiktos šio įstatymo 4 straipsnio 4 dalyje nustatytos garantijos prilyginamos valstybės garantijai.
 
-4. Garantijų institucija Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nagrinėja Lietuvos Respublikos juridinių asmenų, Lietuvos Respublikoje įsteigtų Europos ekonominės erdvės valstybių narių įmonių filialų ar Lietuvos Respublikos piliečių arba kitų asmenų, kuriems, vadovaujantis Europos Sąjungos teise, yra suteiktos analogiškos teisės kaip ir Lietuvos Respublikos piliečiams, prašymus suteikti šio įstatymo 4 straipsnio 4 dalyje nustatytas garantijas, tvarko įsipareigojimų pagal suteiktas garantijas apskaitą, kontroliuoja, kaip yra vykdomos garantijos sąlygos, ir taiko poveikio priemones garantijų sąlygų nevykdantiems garantijų institucijos skolininkams ir (arba) garantijų gavėjams.
+4. Garantijų institucija Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nagrinėja Lietuvos Respublikos juridinių asmenų, Lietuvos Respublikoje įsteigtų Europos ekonominės erdvės valstybių narių įmonių filialų ar Lietuvos Respublikos piliečių arba kitų asmenų, kuriems, vadovaujantis Europos Sąjungos teise, yra suteiktos analogiškos teisės kaip ir Lietuvos Respublikos piliečiams, o šio įstatymo 4 straipsnio 4 dalies 11 punkte nustatytais atvejais – ir užsienio valstybių juridinių asmenų prašymus suteikti šio įstatymo 4 straipsnio 4 dalyje nustatytas garantijas, tvarko įsipareigojimų pagal suteiktas garantijas apskaitą, kontroliuoja, kaip yra vykdomos garantijų sąlygos, ir taiko poveikio priemones garantijų sąlygų nevykdantiems garantijų institucijos skolininkams ir (arba) garantijų gavėjams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
 
 5. Garantijų institucijos veiklos priežiūrą atlieka ir šios institucijos atskaitomybę nustato Vyriausybės įgaliota institucija.
 
