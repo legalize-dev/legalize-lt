@@ -4,7 +4,7 @@ identifier: "TAR.D38B48DC3EF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-06-05"
-last_updated: "2022-01-01"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D38B48DC3EF0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2025-04-08
+Suvestinė redakcija nuo 2025-04-09
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2754, i. k. 1031010ISTA0IX-1597
 
@@ -58,6 +58,12 @@ BENDROSIOS NUOSTATOS
 
 6. Dukterinė įmonė – Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme apibūdinta įmonė.
 
+61. Elektroninių pinigų įstaiga – kaip apibrėžta Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme (išskyrus juridinius asmenis, kuriems išduota elektroninių pinigų įstaigos ribotos veiklos licencija), taip pat kitos valstybės narės subjektas, atitinkantis 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyvos 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičiančios Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinančios Direktyvą 2000/46/EB, su visais pakeitimais 2 straipsnio 1 dalyje nustatytą elektroninių pinigų įstaigos apibrėžtį, išskyrus tos valstybės narės subjektą, kuriam taikoma šios direktyvos 9 straipsnyje nustatyta išimtis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
+
 7. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, (OL 2010 L 331, p. 84) (toliau – Reglamentas (ES) 1095/2010) įsteigta Europos Sąjungos institucija.
 
 8. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) (toliau – Reglamentas (ES) Nr. 1092/2010) įsteigta Europos Sąjungos institucija.
@@ -66,21 +72,47 @@ BENDROSIOS NUOSTATOS
 
 10. Finansinis turtas – Lietuvos Respublikos finansų įstaigų įstatyme (toliau – Finansų įstaigų įstatymas) apibūdintas turtas.
 
-11. Finansų maklerio įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos finansinių priemonių rinkų įstatyme (toliau – Finansinių priemonių rinkų įstatymas), taip pat kitos valstybės narės įmonė, atitinkanti tos valstybės narės teisės aktuose nustatytą finansų maklerio įmonės apibrėžimą.
+11. Finansų maklerio įmonė – kaip apibrėžta Lietuvos Respublikos finansinių priemonių rinkų įstatyme, taip pat kitos valstybės narės įmonė, atitinkanti tos valstybės narės teisės aktuose nustatytą finansų maklerio įmonės apibrėžtį, išskyrus Finansinių priemonių rinkų įstatymo 2 straipsnio 5 dalyje nustatytas išimtis.
 
-12. Įstaiga – sistemoje dalyvaujanti ir už įsipareigojimų pagal pervedimo ar mokėjimo nurodymus toje sistemoje įvykdymą atsakinga įstaiga:
+Straipsnio dalies pakeitimai:
 
-1) Lietuvos bankas, kitos valstybės narės centrinis bankas arba Europos centrinis bankas;
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
 
-2) Lietuvos Respublikoje arba kitoje valstybėje narėje licencijuota kredito įstaiga;
+12. Įstaiga – įstaiga, kuri:
 
-3) Lietuvos Respublikoje arba kitoje valstybėje narėje licencijuota finansų maklerio įmonė;
+1) dalyvauja sistemoje ir yra atsakinga už įsipareigojimų pagal pervedimo ar mokėjimo nurodymus toje sistemoje įvykdymą:
 
-4) valstybės institucija arba įmonė, kurios prievolių įvykdymą garantuoja valstybė;
+a) Lietuvos bankas, kitos valstybės narės centrinis bankas arba Europos Centrinis Bankas;
 
-5) bet kuris juridinis asmuo, kurio buveinė nėra Lietuvos Respublikoje arba kitoje valstybėje narėje, bet kurio veikla būdinga Lietuvos Respublikoje arba kitoje valstybėje narėje licencijuotų kredito įstaigų arba finansų maklerio įmonių veiklai.
+b) Lietuvos Respublikoje arba kitoje valstybėje narėje licencijuota kredito įstaiga;
 
-13. Kredito įstaiga – kaip ši sąvoka apibrėžta Finansų įstaigų įstatyme, įskaitant Finansų įstaigų įstatymo 1 straipsnio 3 dalyje nurodytas įstaigas ir kredito unijas, taip pat kitos valstybės narės įmonė, atitinkanti tos valstybės narės teisės aktuose nustatytą kredito įstaigos apibrėžimą, įskaitant 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyvos 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (OL 2006 L 177, p. 1) 2 straipsnyje išvardytas įstaigas.
+c) Lietuvos Respublikoje arba kitoje valstybėje narėje licencijuota finansų maklerio įmonė;
+
+d) valstybės institucija arba įmonė, kurios prievolių įvykdymą garantuoja valstybė;
+
+e) bet kuris juridinis asmuo, kurio buveinė nėra Lietuvos Respublikoje arba kitoje valstybėje narėje, bet kurio veikla būdinga Lietuvos Respublikoje arba kitoje valstybėje narėje licencijuotų kredito įstaigų arba finansų maklerio įmonių veiklai;
+
+2) dalyvauja mokėjimo sistemoje ir yra atsakinga už įsipareigojimų pagal mokėjimo nurodymus toje mokėjimo sistemoje įvykdymą:
+
+a) Lietuvos Respublikoje arba kitoje valstybėje narėje licencijuota mokėjimo įstaiga;
+
+b) Lietuvos Respublikoje arba kitoje valstybėje narėje licencijuota elektroninių pinigų įstaiga.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
+
+13. Kredito įstaiga – kaip apibrėžta 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl riziką ribojančių reikalavimų kredito įstaigoms, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012, su visais pakeitimais 4 straipsnio 1 dalies 1 punkte, įskaitant 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyvos 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su visais pakeitimais 2 straipsnio 5 dalyje nurodytus subjektus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
+
+131. Mokėjimo įstaiga – kaip apibrėžta Lietuvos Respublikos mokėjimo įstaigų įstatyme, išskyrus juridinius asmenis, kuriems išduota mokėjimo įstaigos ribotos veiklos licencija arba mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licencija, taip pat kitos valstybės narės subjektas, atitinkantis 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvos (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, su visais pakeitimais 4 straipsnio 4 dalyje nustatytą mokėjimo įstaigos apibrėžtį, išskyrus tos valstybės narės subjektą, kuriam taikoma šios direktyvos 32 ir 33 straipsniuose nustatyta išimtis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
 
 14. Mokėjimo nurodymas – sistemos dalyvio nurodymas pervesti lėšas gavėjui, darant įrašus kredito įstaigos, centrinio banko, pagrindinės sutarties šalies arba atsiskaitymų tarpininko sąskaitose, arba nurodymas, pagal kurį sistemos taisyklėse nustatyta tvarka prisiimamas arba įvykdomas mokėjimo įsipareigojimas.
 
@@ -98,7 +130,11 @@ Nr. XIV-764, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26893
 
 19. Pervedimo nurodymas – sistemos dalyvio nurodymas pervesti gavėjui vertybinius popierius, darant įrašus vertybinių popierių sąskaitose, arba kitu būdu perduoti nuosavybės teisę į vertybinius popierius ar su jais susijusias turtines teises.
 
-20. Priežiūros institucija – Lietuvos Respublikos arba kitos valstybės narės institucija, atliekanti šio straipsnio 12 dalies 2, 3, 4 ir 5 punktuose nurodytų įstaigų arba įmonių priežiūrą.
+20. Priežiūros institucija – Lietuvos Respublikos arba kitos valstybės narės institucija, atliekanti šio straipsnio 12 dalies 1 punkto b, c ir e papunkčiuose, 2 punkte nurodytų įstaigų arba įmonių priežiūrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
 
 21. Reikalavimų ir įsipareigojimų įskaitymas (toliau – įskaitymas) – reikalavimų ir įsipareigojimų, atsirandančių dėl pervedimo arba mokėjimo nurodymų, kuriuos sistemos dalyvis turėjo atlikti vienam ar keliems kitiems sistemos dalyviams arba gauti iš jų, sujungimas į vieną grynąjį reikalavimą arba įsipareigojimą – tada sistemos dalyvis turi tik vieną grynąjį įsipareigojimą arba tik vienas jo grynasis reikalavimas turi būti įvykdytas.
 
@@ -106,11 +142,13 @@ Nr. XIV-764, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26893
 
 23. Sistema – mokėjimo arba vertybinių popierių atsiskaitymo sistema, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje (taip pat dėl dalyvio operacijų sustabdymo ir (ar) bankroto), pasirinko Lietuvos Respublikos arba kitos valstybės narės teisę. Lietuvos Respublikos teisę sistemos dalyviai gali pasirinkti tik tuo atveju, kai bent vieno sistemos dalyvio buveinė yra Lietuvos Respublikoje. Sąveikaujančių sistemų susitarimas nėra sistema.
 
-24. Sistemos dalyvis – įstaiga, atsiskaitymų tarpininkas, tarpuskaitos namai, sistemos operatorius arba pagrindinės sutarties šalies, kuriai suteiktas leidimas pagal Reglamento (ES) Nr. 648/2012 17 straipsnį, tarpuskaitos narys. Sistemos taisyklės gali numatyti, kad tas pats dalyvis atlieka pagrindinės sutarties šalies, atsiskaitymų tarpininko, tarpuskaitos namų ir sistemos operatoriaus arba kelių minėtų asmenų funkcijas. Sistemos dalyviu gali būti laikomas ir netiesioginis jos dalyvis, jeigu tokį dalyvavimą nustato sistemos taisyklės, atsižvelgiant į to dalyvio keliamą sisteminę riziką. Tai, kad netiesioginis sistemos dalyvis laikomas sistemos dalyviu, neriboja to dalyvio, per kurį netiesioginis sistemos dalyvis perduoda pervedimo arba mokėjimo nurodymus į sistemą, atsakomybės.
+24. Sistemos dalyvis – įstaiga, atsiskaitymų tarpininkas, pagrindinė sutarties šalis, tarpuskaitos namai, sistemos operatorius arba pagrindinės sutarties šalies, kuriai suteiktas leidimas pagal Reglamento (ES) Nr. 648/2012 17 straipsnį, tarpuskaitos narys. Sistemos taisyklės gali numatyti, kad tas pats dalyvis atlieka pagrindinės sutarties šalies, atsiskaitymų tarpininko ir tarpuskaitos namų arba kelių minėtų asmenų funkcijas. Sistemos dalyviu gali būti laikomas ir netiesioginis jos dalyvis, jeigu toks dalyvavimas nustatytas sistemos taisyklėse, atsižvelgiant į to dalyvio keliamą sisteminę riziką. Tai, kad netiesioginis sistemos dalyvis laikomas sistemos dalyviu, neriboja to dalyvio, per kurį netiesioginis sistemos dalyvis perduoda pervedimo arba mokėjimo nurodymus į sistemą, atsakomybės.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-764, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26893
+
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
 
 25. Sistemos operatorius – vienas ar keli juridiniai asmenys, atsakingi už sistemos veiklą. Sistemos operatorius gali veikti ir kaip atsiskaitymų tarpininkas, pagrindinė sutarties šalis arba tarpuskaitos namai.
 
@@ -140,7 +178,11 @@ MOKĖJIMO IR VERTYBINIŲ POPIERIŲ ATSISKAITYMO SISTEMOS
 
 1. Kiekviena sistema privalo turėti sistemos operatorių, atsakingą už saugų ir veiksmingą sistemos veikimą.
 
-2. Sistemos operatoriumi gali būti tik Lietuvos bankas, Centrinis vertybinių popierių depozitoriumas, Lietuvos Respublikos arba kitos valstybės narės finansų įstaiga ar tokios įstaigos dukterinė įmonė arba sistemos, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma kitos valstybės narės teisė, operatorius.
+2. Neteko galios nuo 2025-04-09
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
 
 Straipsnio dalies pakeitimai:
 
@@ -168,7 +210,11 @@ Nr. XIII-466, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10827
 
 2. Sistema gali būti įregistruota, jeigu sistemos operatorius raštu kreipiasi į Lietuvos banką ir jam pateikia:
 
-1) dokumentus, įrodančius, kad jis yra vienas iš šio įstatymo 4 straipsnio 2 dalyje nurodytų subjektų, jeigu jie registruoti ne Lietuvos Respublikoje;
+1) Neteko galios nuo 2025-04-09
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
 
 2) sistemos taisykles;
 
@@ -308,13 +354,17 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/26/EB dėl atsiskaitymų baigtinumo mokėjimų ir vertybinių popierių atsiskaitymų sistemose su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879.
+1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/26/EB dėl atsiskaitymų baigtinumo mokėjimų ir vertybinių popierių atsiskaitymų sistemose su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/886.
+
+___________________
 
 Priedo pakeitimai:
 
 Nr. XII-1479, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21140
 
 Nr. XIV-764, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26893
+
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
 
 Pakeitimai:
 
@@ -373,6 +423,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-764, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26893
 
 Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo Nr. XI-1428 2 straipsnio ir priedo pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3093, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20113
+
+Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo Nr. IX-1597 2, 4, 5 straipsnių ir priedo pakeitimo įstatymas
 
 11 straipsnis. Įstatymo įsigaliojimas
 
