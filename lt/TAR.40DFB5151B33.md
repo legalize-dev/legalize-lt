@@ -4,7 +4,7 @@ identifier: "TAR.40DFB5151B33"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-22"
-last_updated: "2024-12-30"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.40DFB5151B33"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2024-12-30 iki 2025-04-08
+Suvestinė redakcija nuo 2025-04-09
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
 
@@ -169,11 +169,13 @@ Elektroninių pinigų turėtojas, manydamas, kad elektroninių pinigų leidėjas
 
 4. Elektroninių pinigų įstaiga savo veikloje vadovaujasi Lietuvos Respublikos civiliniu kodeksu, šiuo įstatymu, Mokėjimų įstatymu, Europos Sąjungos ir priežiūros institucijos – Lietuvos banko (toliau – priežiūros institucija) teisės aktais bei savo steigimo dokumentais. Elektroninių pinigų įstaigai Finansų įstaigų įstatymas ir Lietuvos Respublikos akcinių bendrovių įstatymas taikomi tiek, kiek šis įstatymas nenustato kitaip.
 
-5. Elektroninių pinigų įstaigai, kuri teikia mokėjimo paslaugas, mutatis mutandis taikomi Mokėjimo įstaigų įstatymo 9 straipsnio 2 dalies 4 punkto, 11, 17, 18, 19, 20, 21, 23 ir 40 straipsnių reikalavimai, o priežiūros institucija mutatis mutandis turi Mokėjimo įstaigų įstatymo 11, 18, 19, 20, 23 ir 40 straipsniuose priežiūros institucijai nustatytas teises ir pareigas.
+5. Elektroninių pinigų įstaigai, kuri teikia mokėjimo paslaugas, mutatis mutandis taikomi Mokėjimo įstaigų įstatymo 9 straipsnio 2 dalies 4 punkto, 11, 17, 18, 19, 20, 21, 211, 23 ir 40 straipsnių reikalavimai, o priežiūros institucija mutatis mutandis turi Mokėjimo įstaigų įstatymo 11, 18, 19, 20, 23 ir 40 straipsniuose priežiūros institucijai nustatytas teises ir pareigas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
+
+Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
 
 10 straipsnis. Atsakomybė už šiame skyriuje numatytų sąlygų nevykdymą
 
@@ -609,11 +611,13 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS KAPITALO IR APSAUGOS REIKALAVIMAI
 
 1. Elektroninių pinigų įstaiga privalo apsaugoti iš elektroninių pinigų turėtojų už leistus elektroninius pinigus gautas lėšas vienu iš šių būdų:
 
-1) atskirdama šias lėšas nuo kitų fizinių arba juridinių asmenų, kurie nėra elektroninių pinigų turėtojai, lėšų. Jeigu gautas lėšas kitos darbo dienos pabaigoje vis dar turi elektroninių pinigų įstaiga, šios lėšos turi būti laikomos atskiroje sąskaitoje, atidarytoje Lietuvos Respublikos arba kitos valstybės narės kredito įstaigoje (įskaitant užsienio valstybės kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje arba kitoje valstybėje narėje), Lietuvos banke arba kitos valstybės narės centriniame banke ar investuojamos į saugų, likvidų ir mažos rizikos turtą priežiūros institucijos teisės aktų nustatyta tvarka. Elektroninių pinigų įstaiga, šiame punkte nustatytu būdu saugodama iš elektroninių pinigų turėtojų gautas lėšas, privalo imtis priemonių, užtikrinančių elektroninių pinigų turėtojų nuosavybės teisių apsaugą, ypač jeigu ji yra nemoki. Elektroninių pinigų turėtojų lėšos, perduotos elektroninių pinigų įstaigai, yra jų nuosavybė ir į jas negali būti nukreiptas išieškojimas pagal elektroninių pinigų įstaigos skolas;
+1) atskirdama šias lėšas nuo kitų fizinių arba juridinių asmenų, kurie nėra elektroninių pinigų turėtojai, lėšų. Jeigu gautas lėšas kitos darbo dienos pabaigoje vis dar turi elektroninių pinigų įstaiga, šios lėšos turi būti laikomos atskiroje sąskaitoje, atidarytoje Lietuvos Respublikos arba kitos valstybės narės kredito įstaigoje (įskaitant užsienio valstybės kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje arba kitoje valstybėje narėje), Lietuvos banke arba kitos valstybės narės centriniame banke (jeigu centrinis bankas sudaro tokią galimybę), arba investuojamos į saugų, likvidų ir mažos rizikos turtą priežiūros institucijos teisės aktų nustatyta tvarka. Elektroninių pinigų įstaiga, šiame punkte nustatytu būdu saugodama iš elektroninių pinigų turėtojų gautas lėšas, privalo imtis priemonių, užtikrinančių elektroninių pinigų turėtojų nuosavybės teisių apsaugą, ypač jeigu ji yra nemoki. Elektroninių pinigų turėtojų lėšos, perduotos elektroninių pinigų įstaigai, yra jų nuosavybė ir į jas negali būti nukreiptas išieškojimas pagal elektroninių pinigų įstaigos skolas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-1479, 2022-11-03, paskelbta TAR 2022-11-17, i. k. 2022-23198
+
+Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
 
 2) apdrausdama šias lėšas draudimo sutartimi arba gaudama dėl jų garantiją ar laidavimo raštą, išduotą Lietuvos Respublikos draudimo įmonės ar kredito įstaigos (įskaitant užsienio valstybės draudimo įmonės ar kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje) arba kitos valstybės narės draudimo įmonės ar kredito įstaigos, nepriklausančios tai pačiai kaip elektroninių pinigų įstaiga įmonių grupei, tokiai elektroninių pinigų įstaigai negalint įvykdyti savo įsipareigojimų dėl išmokamos sumos, kuri turėtų būti atskirta, jeigu būtų taikomas šios dalies 1 punkte nurodytas būdas.
 
@@ -1081,7 +1085,15 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7), su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 (OL 2015 L 337, p. 35).
+1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366.
+
+2. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/886.
+
+___________________
+
+Priedo pakeitimai:
+
+Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
 
 Pakeitimai:
 
@@ -1164,4 +1176,28 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
 Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 1, 2, 12, 13, 14 ir 35 straipsnių pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
+
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 11, 25 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 27-1 straipsniu įstatymas
+
+271 straipsnis. Elektroninių pinigų leidimo veiklos nutraukimo planas
+
+1. Elektroninių pinigų įstaiga turi turėti elektroninių pinigų leidimo veiklos nutraukimo planą, atitinkantį šio straipsnio 2 dalyje nustatytus reikalavimus.
+
+2. Elektroninių pinigų leidimo veiklos nutraukimo plane nustatomos priemonės sklandžiam elektroninių pinigų leidimo veiklos nutraukimui užtikrinti. Priežiūros institucija nustato išsamius elektroninių pinigų leidimo veiklos nutraukimo plano reikalavimus.
+
+3. Elektroninių pinigų įstaiga elektroninių pinigų leidimo veiklos nutraukimo planą turi parengti per 6 mėnesius nuo elektroninių pinigų leidimo veiklos vykdymo pradžios.
+
+4. Elektroninių pinigų įstaiga elektroninių pinigų leidimo veiklos nutraukimo planą turi peržiūrėti bent kartą per metus ir prireikus jį atnaujinti. Elektroninių pinigų įstaiga taip pat turi nedelsdama šį planą peržiūrėti ir prireikus atnaujinti, keisdama elektroninių pinigų įstaigos organizacinę struktūrą, veiklą, pasikeitus elektroninių pinigų įstaigos finansinei būklei ar kitoms aplinkybėms, galinčioms turėti reikšmingą poveikį elektroninių pinigų leidimo veiklos nutraukimui.
+
+5. Šio straipsnio nuostatos mutatis mutandis taikomos užsienio valstybės elektroninių pinigų įstaigos filialui.
+
+Papildyta straipsniu:
+
+Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
 
