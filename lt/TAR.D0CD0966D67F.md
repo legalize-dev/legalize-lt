@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2025-01-01"
+last_updated: "2025-04-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-04-14
+Suvestinė redakcija nuo 2025-04-15
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -1019,11 +1019,13 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 4) būtų deramai atstovaujama savivaldybės interesams bendradarbiaujant ir sprendžiant klausimus su valstybės valdžios ir valstybinio administravimo subjektais, teisėsaugos institucijomis, nevyriausybinėmis organizacijomis, užsienio valstybių savivaldybėmis.
 
-5. Mero sprendimai įforminami potvarkiais. Mero potvarkiai skelbiami savivaldybės interneto svetainėje.
+5. Mero sprendimai įforminami potvarkiais. Mero potvarkiai skelbiami savivaldybės interneto svetainėje teisės aktų nustatyta tvarka, išskyrus potvarkius, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios arba su asmens duomenimis, kurių skelbimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+
+Nr. XV-145, 2025-04-08, paskelbta TAR 2025-04-14, i. k. 2025-06513
 
 6. Meras negali dirbti kitose institucijose, įstaigose, įmonėse ir organizacijose ir gauti kito atlyginimo, išskyrus atlyginimą už mokslinę, pedagoginę ar kūrybinę veiklą.
 
