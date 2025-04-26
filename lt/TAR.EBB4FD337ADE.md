@@ -4,7 +4,7 @@ identifier: "TAR.EBB4FD337ADE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-22"
-last_updated: "2024-11-01"
+last_updated: "2025-04-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EBB4FD337ADE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-11-01 iki 2025-04-25
+Suvestinė redakcija nuo 2025-04-26
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
 
@@ -161,6 +161,12 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 11. Krizių prevencijos priemonė – šio įstatymo 7 straipsnio 7 dalyje nustatyti priežiūros institucijos veiksmai, šio įstatymo 22, 23, 24 straipsniuose nustatyti finansų sektoriaus subjektų pertvarkymo institucijos veiksmai, skirti trūkumams ar kliūtims, trukdantiems finansų sektoriaus subjekto atsigavimui ar pertvarkymui, pašalinti, ankstyvosios intervencijos priemonės taikymas, laikinojo administratoriaus paskyrimas arba kapitalo priemonių nurašymas ar konvertavimas, vadovaujantis šio įstatymo III skyriaus ketvirtajame skirsnyje nustatyta tvarka.
 
 12. Krizių valdymo priemonė – finansų sektoriaus subjekto pertvarkymo veiksmai, specialiojo valdytojo paskyrimas ar asmens, nurodyto šio įstatymo 45 straipsnio 2 dalyje, paskyrimas.
+
+121. Likviduojamas subjektas – Europos Sąjungoje įsteigtas juridinis asmuo, kuriam pagal finansinės grupės pertvarkymo planą arba pagal pertvarkymo planą, kai šis juridinis asmuo nepriklauso finansinei grupei, numatoma, kad jis turi būti likviduojamas iškeliant bankroto bylą, arba pertvarkytinai finansinei grupei priklausantis subjektas, kuris pats nėra pertvarkytinas finansų sektoriaus subjektas ir kuriam pagal finansinės grupės pertvarkymo planą finansų sektoriaus subjektų pertvarkymo institucija nenumato pasinaudoti teisėmis pagal šio įstatymo 46 straipsnio 1 dalies 5–9 punktų ir 58 straipsnio 1 dalies nuostatas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
 
 13. Nuosavybės priemonės – akcijos, finansinės priemonės, kuriomis suteikiama nuosavybės teisė arba kurias galima konvertuoti į akcijas ar kitas nuosavybės priemones, arba kurios suteikia teisę jų įsigyti.
 
@@ -998,7 +1004,47 @@ Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 2) pertvarkytinam subjektui ir jo patronuojamosioms įmonėms, kurios yra įstaigos ar šio įstatymo 1 straipsnio 2 dalies 4 ir 5 punktuose nurodyti subjektai, kurie nėra pertvarkytini subjektai, rekapitalizuoti iki lygio, kuris atitiktų licencinės veiklos reikalavimus, laikotarpiui iki vienų metų (toliau – rekapitalizavimas).
 
-4. Jeigu pertvarkymo plane nustatoma, kad subjektui turi būti iškeliama bankroto byla, pertvarkymo institucija įvertina, ar yra pagrįsta apriboti subjektui minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimą, kad jo dydis neviršytų nuostolių padengimo sumos. Pertvarkymo institucija, prieš nustatydama minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo apribojimą, įvertina galimą poveikį finansiniam stabilumui ir neigiamo poveikio plitimo finansų sistemoje riziką.
+4. Pertvarkymo institucija likviduojamiems subjektams nenustato minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo, išskyrus šiame straipsnyje nustatytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
+
+41. Neatsižvelgdama į šio straipsnio 4 dalies nuostatas, pertvarkymo institucija turi teisę įvertinti, ar yra pagrįsta likviduojamam subjektui individualiai nustatyti minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimą, lygų sumai, viršijančiai sumą, kurios pakaktų nuostoliams padengti. Spręsdama dėl konkretaus reikalavimo dydžio nustatymo pagrįstumo, pertvarkymo institucija turi įvertinti galimą šio reikalavimo poveikį finansų sistemos finansiniam stabilumui ar neigiamo poveikio plitimo finansų sistemoje riziką, taip pat indėlių draudimo sistemų finansavimo galimybes.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
+
+42. Pertvarkymo institucija, atlikusi šio straipsnio 41 dalyje nurodytą vertinimą, turi teisę likviduojamam subjektui nustatyti minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimą. Jeigu pertvarkymo institucija, atlikusi šio straipsnio 41 dalyje nurodytą vertinimą, likviduojamam subjektui nustato minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimą, jis šį reikalavimą įvykdo naudodamas vieną ar daugiau iš šių priemonių:
+
+1) nuosavas lėšas;
+
+2) įsipareigojimus, atitinkančius Reglamento (ES) Nr. 575/2013 72a straipsnyje, išskyrus jame nurodyto šio reglamento 72b straipsnio 2 dalies b ir d punktus, nurodytus tinkamumo kriterijus;
+
+3) įsipareigojimus, atitinkančius tinkamumo kriterijus, nurodytus šio įstatymo 251 straipsnio 2 ir 3 dalyse.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
+
+43. Reglamento (ES) Nr. 575/2013 77 straipsnio 2 dalis ir 78a straipsnis netaikomi likviduojamiems subjektams, kuriems pertvarkymo institucija nenustato minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
+
+44. Patronuojamųjų įmonių, kurios yra likviduojami subjektai, kuriems pertvarkymo institucija nenustato minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo, turimų nuosavų lėšų priemonių suma ir tinkamų įsipareigojimų priemonių suma neatskaitomos pagal Reglamento (ES) Nr. 575/2013 72e straipsnio 5 dalį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
+
+45. Neatsižvelgiant į šio straipsnio 44 dalies nuostatas, šio straipsnio 1 dalyje nurodytų subjektų, kurie patys nėra pertvarkytini subjektai, bet yra pertvarkytino subjekto ar trečiosios valstybės subjekto, kuris būtų pertvarkytinas subjektas, jeigu jis būtų įsteigtas ES, patronuojamosios įmonės, turima įstaigų, kurios yra jų patronuojamosios įmonės ir kurios priklauso tai pačiai pertvarkytinai grupei ir yra likviduojami subjektai, kuriems pertvarkymo institucija nenustato minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo, nuosavų lėšų priemonių suma atskaitoma, jeigu šių turimų nuosavų lėšų priemonių bendra suma yra lygi 7 procentams visos atitinkamo subjekto nuosavų lėšų ir įsipareigojimų, kurie atitinka šio įstatymo 262 straipsnio 5 dalyje nurodytus tinkamumo kriterijus, sumos, apskaičiuojamos nuo kiekvienų metų gruodžio 31 dienos kaip praėjusių 12 mėnesių vidurkis, arba viršija šią sumą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
 
 5. Kai, pertvarkymo institucijos vertinimu, vadovaujantis šio įstatymo 77 straipsnio 5 dalimi, tam tikrų rūšių tinkamiems įsipareigojimams visiškai ar iš dalies nebus taikoma gelbėjimo privačiomis lėšomis priemonė arba, atliekant dalinį turto, teisių ir įsipareigojimų perdavimą, tam tikrų rūšių visi tinkami įsipareigojimai gali būti perduoti gavėjui, minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimas tenkinamas naudojant nuosavas lėšas ar kitus tinkamus įsipareigojimus, kurių pakanka:
 
@@ -3816,7 +3862,17 @@ c) ar taikoma trečiosios valstybės teisė ir, jeigu taikoma, kurios trečiosio
 
 3) šio įstatymo 26 straipsnyje arba 262 ir 28 straipsniuose nurodytą taikytiną reikalavimą, išreikštą, kaip nustatyta šio įstatymo 25 straipsnio 1 dalyje.
 
-6. Šio straipsnio 1, 2 ir 5 dalys netaikomos subjektams, kurių pertvarkymo plane nustatyta, kad toks subjektas turi būti likviduojamas iškeliant bankroto bylą.
+6. Šio straipsnio 1, 2 ir 5 dalys netaikomos likviduojamam subjektui, išskyrus atvejus, kai, vadovaudamasi šio įstatymo 25 straipsnio 41 dalies nuostatomis, pertvarkymo institucija šiam subjektui nustato minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
+
+61. Jeigu pertvarkymo institucija, vadovaudamasi šio įstatymo 25 straipsnio 41 dalies nuostatomis, likviduojamam subjektui nustato minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimą, ji pagal Reglamento (ES) 2021/763 reikalavimus nustato šio subjekto ataskaitų teikimo ir informacijos atskleidimo pareigų turinį ir dažnumą bei likviduojamą subjektą informuoja apie šias pareigas. Nustatydama šias pareigas, pertvarkymo institucija nereikalauja pateikti ataskaitų ir atskleisti informacijos daugiau, negu būtina, siekiant stebėti pagal šio įstatymo 25 straipsnio 41 dalį nustatyto reikalavimo tenkinimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
 
 7. Jeigu buvo atlikti pertvarkymo veiksmai arba kapitalo priemonių ir tinkamų įsipareigojimų nurašymas ar konvertavimas pagal šio įstatymo 58 straipsnį, šio straipsnio 5 dalyje nurodyti viešo informacijos atskleidimo reikalavimai taikomi nuo šio įstatymo 266 straipsnyje nurodytos datos, iki kurios turi būti užtikrintas šio įstatymo 26 straipsnyje ar 262 ir 28 straipsniuose nustatytų reikalavimų tenkinimas.
 
@@ -3870,6 +3926,34 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 2. Lietuvos Respublikoje licencijuota ES patronuojančioji įmonė, kuri nėra pertvarkytinas subjektas, bet yra trečiųjų valstybių subjektų patronuojamoji įmonė, šio įstatymo 25, 252, 253 ir 261 straipsniuose nustatytus reikalavimus privalo tenkinti konsoliduotu pagrindu.
 
+21. Neatsižvelgdama į šio straipsnio 1 dalies nuostatas, pertvarkymo institucija turi teisę nuspręsti, kad įstaigos, kurios yra pertvarkytino subjekto arba trečiosiose valstybėse įsteigto subjekto patronuojamosios įmonės, bet pačios nėra pertvarkytini subjektai, privalo konsoliduotai tenkinti šio įstatymo 25, 252, 253 straipsniuose nurodytus reikalavimus, jeigu pertvarkymo institucija padaro išvadą, kad tenkinamos visos šios sąlygos:
+
+1) patronuojamoji įmonė atitinka vieną iš šių sąlygų:
+
+a) patronuojamąją įmonę tiesiogiai valdo pertvarkytinas subjektas ir:
+
+i) pertvarkytinas subjektas yra ES patronuojančioji finansų kontroliuojančioji bendrovė arba ES patronuojančioji mišrią veiklą vykdanti finansų kontroliuojančioji bendrovė;
+
+ii) tiek patronuojamoji įmonė, tiek pertvarkytinas subjektas yra įsteigti toje pačioje valstybėje narėje ir priklauso tai pačiai pertvarkytinai grupei;
+
+iii) pertvarkytinas subjektas tiesiogiai nevaldo jokios kitos patronuojamosios įmonės, kuri yra įstaiga ar šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytas subjektas, kai tam subjektui taikomi šiame straipsnyje nustatyti reikalavimai ar šio įstatymo 25, 252, 253 straipsniuose nurodyti reikalavimai, išskyrus atitinkamą patronuojamąją įmonę;
+
+iv) patronuojamajai įmonei atskaitymai, kuriuos reikalaujama atlikti pagal Reglamento (ES) Nr. 575/2013 72e straipsnio 5 dalį, turėtų neproporcingai didelį poveikį;
+
+b) patronuojamajai įmonei papildomo kapitalo reikalavimas taikomas tik konsoliduotai, o šio įstatymo 25, 252, 253 straipsniuose nurodytus reikalavimus nustačius konsoliduotai, taikant šio įstatymo 25 straipsnio 2 dalies 2 punkto nuostatas, nebūtų pernelyg padidinti pogrupio, kurį sudaro į jo atitinkamą konsolidavimo taikymo sritį įtraukti subjektai, rekapitalizavimo poreikiai, ypatingą dėmesį skiriant atvejams, kai didesnę tos pačios konsolidavimo taikymo srities dalį sudaro likviduojami subjektai;
+
+2) šio įstatymo 25, 252, 253 straipsniuose nurodytų reikalavimų tenkinimas konsoliduotai užuot tenkinus individualiai nedaro reikšmingo neigiamo poveikio:
+
+a) grupės pertvarkymo strategijos patikimumui ir įgyvendinamumui arba
+
+b) patronuojamosios įmonės gebėjimui laikytis savo nuosavų lėšų reikalavimo, kai pertvarkymo institucija jos atžvilgiu pasinaudojo teisėmis pagal šio įstatymo 46 straipsnio 1 dalies 5–9 punktų ir 58 straipsnio 1 dalies nuostatas, arba
+
+c) atitinkamos patronuojamosios įmonės ar kitų pertvarkytinos grupės subjektų vidinio nuostolių perkėlimo ir rekapitalizavimo mechanizmo pakankamumui, įskaitant kapitalo priemonių ir tinkamų įsipareigojimų nurašymą ar konvertavimą pagal šio įstatymo 58 straipsnį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
+
 3. Kai pertvarkytini subjektai yra šio įstatymo 2 straipsnio 162 dalies 2 punkte nurodytos įstaigos, tos kredito įstaigos, kurias nuolat kontroliuoja centrinė įstaiga, bet kurios pačios nėra pertvarkytini subjektai, centrinė įstaiga, kuri pati nėra pertvarkytinas subjektas, ir visi pertvarkytini subjektai, kuriems nėra taikomas šio įstatymo 26 straipsnio 3 dalyje nustatytas reikalavimas, tenkina šio įstatymo 253 straipsnyje nustatytus reikalavimus individualiu pagrindu.
 
 4. Šio straipsnio 1, 2 ir 3 dalyse nurodytiems subjektams taikomas minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimas nustatomas pagal šio įstatymo 263 straipsnyje ir, kai taikytina, 108 straipsnyje nustatytą tvarką ir remiantis šio įstatymo 25 straipsnyje nustatytais reikalavimais.
@@ -3899,6 +3983,26 @@ h) jų mokėtinų palūkanų arba dividendų sumų dydis nėra keičiamas, remia
 a) bendro 1 lygio nuosavą kapitalą;
 
 b) kitas nuosavas lėšas, kurios išleidžiamos subjektams, priklausantiems tai pačiai pertvarkytinai grupei, ir yra jų įsigytos arba kurios išleidžiamos subjektams, nepriklausantiems tai pačiai pertvarkytinai grupei, ir yra jų įsigytos, jeigu, vykdant šio skyriaus ketvirtajame skirsnyje nurodytus įpareigojimus, nedaromas poveikis Lietuvos Respublikoje licencijuoto pertvarkytino subjekto vykdomai patronuojamosios įmonės kontrolei.
+
+6. Kai šio straipsnio 1 dalyje nurodytas subjektas minimalaus nuosavų lėšų ir tinkamų įsipareigojimų reikalavimą tenkina konsoliduotai, į šio subjekto nuosavų lėšų ir tinkamų įsipareigojimų sumą įtraukiami šie įsipareigojimai, kuriuos pagal šio straipsnio 5 dalies 1 punkto nuostatas išleido ES įsteigta patronuojamoji įmonė, įtraukta į to subjekto konsolidavimą:
+
+1) įsipareigojimai, išleisti pertvarkytinam subjektui ir jo įsigyti tiesiogiai ar netiesiogiai per kitus subjektus, kurie priklauso tai pačiai pertvarkytinai grupei ir nėra įtraukti į subjekto, konsoliduotai tenkinančio minimalaus nuosavų lėšų ir tinkamų įsipareigojimų reikalavimą, konsolidavimą;
+
+2) įsipareigojimai, išleisti esamam akcininkui (juridiniam arba fiziniam asmeniui), kuris nepriklauso tai pačiai pertvarkytinai grupei.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
+
+7. Šio straipsnio 6 dalies 1 ir 2 punktuose nurodyti įsipareigojimai negali viršyti sumos, nustatytos iš minimalaus nuosavų lėšų ir tinkamų įsipareigojimų reikalavimo, taikomo į konsolidavimą įtrauktai patronuojamajai įmonei, sumos atėmus visų šių elementų sumą:
+
+1) įsipareigojimų, išleistų subjektui, konsoliduotai tenkinančiam minimalaus nuosavų lėšų ir tinkamų įsipareigojimų reikalavimą, ir jo įsigytų tiesiogiai ar netiesiogiai per kitus tos pačios pertvarkytinos grupės subjektus, įtrauktus į to subjekto konsolidavimą;
+
+2) nuosavų lėšų, išleistų pagal šio straipsnio 5 dalies 2 punktą, sumą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
 
 Papildyta straipsniu:
 
@@ -4354,17 +4458,21 @@ priedas
 
 1. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/24/EB dėl kredito įstaigų reorganizavimo ir likvidavimo su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES.
 
-2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2022 m. spalio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/2036.
+2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1174.
 
 Punkto pakeitimai:
 
 Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
 
-3. 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/23.
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
+
+3. 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010, su paskutiniais pakeitimais, padarytais 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1174.
 
 Punkto pakeitimai:
 
 Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
 
 4. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132.
 
@@ -4473,4 +4581,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
 
 Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 21-1, 22, 23, 25, 25-1, 25-2, 25-3 ir 26-3 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 25, 25-4, 26-2 straipsnių ir priedo pakeitimo įstatymas
 
