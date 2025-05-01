@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2025-01-01"
+last_updated: "2025-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -3053,13 +3053,23 @@ Straipsnio pakeitimai:
 
 Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
-114 straipsnis. Juridinių asmenų atsakomybė už gręžinių projektavimo, įrengimo, konservavimo ir likvidavimo reikalavimų pažeidimą
+114 straipsnis. Juridinių asmenų atsakomybė už gręžinių projektavimo, įrengimo, konservavimo ir likvidavimo reikalavimų pažeidimą, požeminio vandens gavybos ar angliavandenilių gręžinio ir geoterminių gręžinių sistemos naudojimą, kai gręžinys ar gręžinių sistema neįregistruoti Žemės gelmių registre
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 Požeminio vandens gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reikalavimų pažeidimas užtraukia baudą nuo dviejų šimtų iki trijų šimtų penkiasdešimt eurų.
 
 Geoterminių gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reikalavimų pažeidimas užtraukia baudą nuo dviejų šimtų penkiasdešimt iki keturių šimtų penkiasdešimt eurų.
 
 Angliavandenilių gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reikalavimų pažeidimas užtraukia baudą nuo vieno tūkstančio iki vieno tūkstančio devynių šimtų eurų.
+
+Žemės gelmių registre neįregistruotos geoterminių gręžinių sistemos, neįregistruoto požeminio vandens gavybos gręžinio ir (ar) angliavandenilių gręžinio naudojimas užtraukia baudą nuo devynių šimtų iki trijų tūkstančių eurų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 Straipsnio pakeitimai:
 
@@ -3937,6 +3947,14 @@ Nr. XIV-2507, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05468
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 47 straipsnio pakeitimo ir Įstatymo papildymo 93-1 straipsniu įstatymas
 
+35.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2953, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13620
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 papildymo 108-3 ir 108-4 straipsniais įstatymas
+
 193 straipsnis. Įrenginių registravimas
 
 Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame straipsnyje suprantamas kaip stacionarus technikos objektas, kuriame vykdant aplinkos ministro patvirtintose Lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikrų veiklos rūšių įrenginiuose, išmetimo ribojimo ir įrenginių registravimo taisyklėse (toliau – LOJ taisyklės) nurodytą vienos arba kelių rūšių veiklą, taip pat kitą toje pačioje vietoje vykdomą tiesiogiai techniškai susijusią veiklą, kurios metu išmetami lakieji organiniai junginiai, suvartojamas organinio tirpiklio kiekis atitinka LOJ taisyklėse nurodytąjį. Šios taisyklės nustato įrenginių įregistravimo, registracijos duomenų teikimo, tikslinimo ir įrenginių išregistravimo tvarką.
@@ -4730,4 +4748,24 @@ Atliekų tvarkymo įstatyme nustatyto reikalavimo – parengti ir paskelbti mais
 Papildyta straipsniu:
 
 Nr. XIV-2507, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05468
+
+1083 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių naudojimo mažinimo reikalavimų nevykdymą
+
+Viešojo maitinimo paslaugas teikiančių juridinių asmenų neatlygintinis Pakuočių ir pakuočių atliekų tvarkymo įstatymo 11 priedo 1 ir 4 punktuose nurodytų vienkartinių plastikinių gaminių, kai jie pardavimo metu pripildomi maisto produktų ar gėrimų viešojo maitinimo vietose, dalijimas vartotojams ir (ar) alternatyvos, numatytos Pakuočių ir pakuočių atliekų tvarkymo įstatymo 83 straipsnio 2 dalyje, nepateikimas vartotojams viešojo maitinimo vietose (patalpose ar lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose)) užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
+
+Papildyta straipsniu:
+
+Nr. XIV-2953, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13620
+
+1084 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių naudojimo masiniuose renginiuose ir paplūdimiuose mažinimo reikalavimų nevykdymą
+
+Viešojo maitinimo paslaugas teikiančių juridinių asmenų neatlygintinis Pakuočių ir pakuočių atliekų tvarkymo įstatymo 11 priedo 1 ir 4 punktuose nurodytų vienkartinių plastikinių gaminių, kurie teikiant viešojo maitinimo paslaugas pripildomi maisto produktų ar gėrimų, dalijimas ir (ar) pardavimas, išskyrus kai pagal Pakuočių ir pakuočių atliekų tvarkymo įstatymo 83 straipsnio 4 dalį yra taikomas užstatas, vartotojams masiniuose renginiuose ir paplūdimiuose įrengtose viešojo maitinimo vietose užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
+
+Papildyta straipsniu:
+
+Nr. XIV-2953, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13620
 
