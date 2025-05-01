@@ -4,7 +4,7 @@ identifier: "TAR.C7A984833333"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2025-01-01"
+last_updated: "2025-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
 
@@ -46,10 +46,6 @@ BENDROSIOS NUOSTATOS
 2. Šio įstatymo tikslas – apsaugoti fizinių asmenų gyvybę, sveikatą ir turtą, gerinti geležinkelių transporto eismo sąlygas, taip pat mažinti neigiamą poveikį aplinkai ir užtikrinti bendrųjų geležinkelių transporto eismo saugos tikslų įgyvendinimą ir geležinkelių sistemos sąveikumą.
 
 3. Šio įstatymo nuostatos, taikytinos geležinkelio įmonėms (vežėjams), mutandis mutandis taikomos kitoms įmonėms (juridiniams asmenims, kitoms organizacijoms, juridinių asmenų, kitų organizacijų filialams), kurios neįgijusios geležinkelio įmonės (vežėjo) licencijos naudojasi geležinkelių infrastruktūra, manevruodamos ir (ar) važiuodamos į geležinkelių infrastruktūros objektų statybos, remonto ir (ar) techninės priežiūros darbų atlikimo vietą ar iš jos.
-
-4. Šio įstatymo reikalavimai taikomi 1 435 mm ir 1 520 mm pločio vėžių geležinkelių tinklams. Kitokio pločio vėžių geležinkelių tinklų techninius reikalavimus ir eismo organizavimo tvarką nustato Lietuvos Respublikos susisiekimo ministras.
-
-5. Šio įstatymo nuostatos yra suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -313,7 +309,11 @@ Nr. XIV-3075, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20019
 
 3. Susisiekimo ministerija formuoja valstybės politiką, taip pat organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą susisiekimo ministrui pavestoje eismo saugos srityje.
 
-4. Lietuvos Respublikos sveikatos apsaugos ministras nustato traukinio mašinistų ir fizinių asmenų, kurių darbas tiesiogiai susijęs su geležinkelių transporto eismu, sveikatos reikalavimus ir patikrinimo tvarką, ligų, dėl kurių asmuo, pageidaujantis gauti ar turintis traukinio mašinisto pažymėjimą, ir asmuo, pageidaujantis dirbti ar dirbantis darbą, tiesiogiai susijusį su geležinkelių transporto eismu, negali saugiai atlikti pareigų, sąrašą (toliau – ligų sąrašas).
+4. Sveikatos apsaugos ministras nustato traukinio mašinistų, geležinkelių infrastruktūros valdytojų ir geležinkelio įmonių (vežėjų) darbuotojų, pageidaujančių atlikti eismo saugai užtikrinti svarbias užduotis ir (ar) jas atliekančių (toliau – eismo saugai užtikrinti svarbias užduotis atliekantys darbuotojai), sveikatos reikalavimus ir patikrinimo tvarką, ligų, dėl kurių asmuo, pageidaujantis gauti ar turintis traukinio mašinisto pažymėjimą, ir asmuo, siekiantis atlikti ar atliekantis eismo saugai užtikrinti svarbias užduotis, negali saugiai atlikti pareigų, sąrašą (toliau – ligų sąrašas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 5. Neteko galios nuo 2025-01-01
 
@@ -465,7 +465,11 @@ Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 10 straipsnis. Mokymo pajėgumų teikimas
 
-1. Geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai), turintys mokymo pajėgumus, privalo nediskriminuodami suteikti geležinkelio įmonėms (vežėjams), geležinkelių infrastruktūros valdytojams ir asmenims, vykdantiems fizinių asmenų, pageidaujančių dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu, fizinių asmenų, pageidaujančių atlikti krovinių krovimo ir tvirtinimo vagonuose darbų vadovų funkcijas ir (ar) traukinio mašinistų mokymo ir (ar) egzaminavimo veiklą, mokymo pajėgumus, būtinus, kad asmenys, kurių darbas tiesiogiai ar netiesiogiai susijęs su geležinkelių transporto eismu, įskaitant traukinius lydintį personalą, asmenys, atliekantys krovinių krovimo ir tvirtinimo vagonuose darbų vadovų funkcijas, ir (ar) traukinio mašinistai įgytų kvalifikaciją, būtiną jų funkcijoms atlikti. Atlyginimas už mokymo pajėgumų suteikimą negali būti didesnis už šių paslaugų teikimo išlaidas, pridėjus pagrįstą pelną.
+1. Geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai), turintys mokymo pajėgumus, privalo nediskriminuodami suteikti geležinkelio įmonėms (vežėjams), geležinkelių infrastruktūros valdytojams ir asmenims, vykdantiems fizinių asmenų, siekiančių įgyti teisę dirbti pavojingojoje geležinkelio zonoje, fizinių asmenų, siekiančių įgyti teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams ir (ar) pageidaujančių atlikti traukinio mašinistų mokymo ir (ar) egzaminavimo veiklą, turimus mokymo pajėgumus, būtinus, kad eismo saugai užtikrinti svarbias užduotis atliekantys darbuotojai, asmenys, dirbantys pavojingojoje geležinkelio zonoje, asmenys, vadovaujantys krovinių krovimo ir tvirtinimo vagonuose darbams, ir (ar) traukinio mašinistai įgytų kvalifikaciją, būtiną jų funkcijoms atlikti. Atlyginimas už mokymo pajėgumų suteikimą negali būti didesnis už šių paslaugų teikimo išlaidas, pridėjus pagrįstą pelną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 2. Mokymo pajėgumai apima mokymo priemones ir mokymo programas, pagal kurias suteikiamos būtinos žinios apie maršrutus, eksploatavimo taisykles ir tvarką, geležinkelio kelio kontrolės valdymo ir signalizavimo posistemį ir veikiančiuose maršrutuose taikomą tvarką avarinių situacijų atvejais.
 
@@ -541,21 +545,13 @@ Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 2. Tarptautinių traukinių eismas vykdomas pagal geležinkelių infrastruktūros valdytojų susitarimus.
 
-13 straipsnis. Draudimas būti pavojingojoje geležinkelio zonoje
+4. Šio įstatymo, išskyrus 161 straipsnį, reikalavimai taikomi 1 435 mm ir 1 520 mm pločio vėžių Lietuvos Respublikos geležinkelių tinklui, o šio įstatymo 13 straipsnis taip pat taikomas ir kitokio negu 1 435 mm ir 1 520 mm pločio vėžių Lietuvos Respublikos geležinkelių tinklui.
 
-Fiziniams asmenims draudžiama vaikščioti, važinėti geležinkelio keliais ir būti pavojingojoje geležinkelio zonoje tam nenustatytose vietose. Šis draudimas netaikomas:
+Straipsnio dalies pakeitimai:
 
-1) fiziniams asmenims, turintiems galiojantį asmens, kurio darbas tiesiogiai susijęs su geležinkelių transporto eismu, pažymėjimą;
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
-2) fiziniams asmenims, turintiems galiojantį asmens, kurio darbas netiesiogiai susijęs su geležinkelių transporto eismu, pažymėjimą;
-
-3) fiziniams asmenims, turintiems galiojantį krovinių krovimo ir tvirtinimo vagonuose darbų vadovo pažymėjimą;
-
-4) traukinio mašinistams, turintiems galiojantį traukinio mašinisto pažymėjimą;
-
-5) teisėsaugos pareigūnams, ugniagesiams gelbėtojams, greitosios medicinos pagalbos personalui, eismo saugos institucijos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, vykdantiems teisėtai gautus pavedimus ar teisės aktuose nustatytas funkcijas;
-
-6) karinėse pratybose dalyvaujantiems asmenims ir kitiems asmenims, esantiems geležinkelių infrastruktūroje nenuolatinio pobūdžio veiklai vykdyti, kai yra geležinkelių infrastruktūros valdytojo sutikimas.
+5. Šio įstatymo nuostatos yra suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 
 14 straipsnis. Geležinkelių infrastruktūros reikalavimai
 
@@ -624,10 +620,6 @@ Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 1. Visi geležinkelių riedmenys turi būti paženklinti tam skirtoje vietoje nurodytu Europos geležinkelių riedmenų numeriu.
 
 2. Lietuvos Respublikos geležinkelių tinkle leidžiama naudoti geležinkelių riedmenis, paženklintus ne Europos geležinkelių riedmenų numeriu, jeigu jie vyksta į trečiųjų valstybių 1 520 mm pločio vėžės geležinkelių tinklus arba iš trečiųjų valstybių 1 520 mm pločio vėžės geležinkelių tinklų. Prekiniai ir keleiviniai vagonai, kurie pirmą kartą buvo pateikti rinkai Lietuvos Respublikoje ir kuriuos ketinama naudoti trečiųjų valstybių 1 520 mm pločio vėžės geležinkelių tinkluose, taip pat gali būti paženklinti pagal kitokią, negu nustatyta TSS, tvarką.
-
-IV SKYRIUS
-
-REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALINČIUS DARYTI ĮTAKĄ EISMO SAUGAI AR GELEŽINKELIŲ SISTEMOS SĄVEIKUMUI
 
 17 straipsnis. Geležinkelių riedmenų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinklo dalyje, techninių prižiūrėtojų sertifikavimas
 
@@ -867,85 +859,71 @@ Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 23. Prašymų išduoti, atnaujinti, papildyti, pakeisti bendrąjį saugos sertifikatą ir atlikti visus kitus su bendrojo saugos sertifikato galiojimu susijusius veiksmus pateikimo tvarką nustato susisiekimo ministras.
 
-20 straipsnis. Reikalavimai fiziniams asmenims, pageidaujantiems dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu
+20 straipsnis. Reikalavimai fiziniams asmenims, siekiantiems įgyti teisę dirbti pavojingojoje geležinkelio zonoje
 
-1. Fiziniai asmenys, pageidaujantys dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu, turi eismo saugos institucijos nustatyta tvarka išlaikyti eismo saugos institucijos reikalavimus atitinkantį žinių patikrinimo egzaminą (toliau – egzaminas) ir atitinkamai gauti elektroninės formos fizinio asmens, kurio darbas tiesiogiai susijęs su geležinkelių transporto eismu, pažymėjimą arba fizinio asmens, kurio darbas netiesiogiai susijęs su geležinkelių transporto eismu, pažymėjimą (toliau šiame straipsnyje kartu – pažymėjimai), kuris galioja neterminuotai. Šių fizinių asmenų darbo sąlygos turi atitikti TSS arba nacionalinėse taisyklėse nustatytus reikalavimus, o fizinių asmenų, pageidaujančių dirbti darbą, tiesiogiai susijusį su geležinkelių transporto eismu, sveikatos būklė turi atitikti sveikatos apsaugos ministro nustatytus reikalavimus.
+1. Fiziniai asmenys, kurie nėra geležinkelių infrastruktūros valdytojų arba geležinkelio įmonių (vežėjų) darbuotojai, tačiau siekia įgyti teisę dirbti pavojingojoje geležinkelio zonoje, turi, o eismo saugai užtikrinti svarbias užduotis atliekantys darbuotojai gali eismo saugos institucijos nustatyta tvarka išlaikyti eismo saugos institucijos reikalavimus atitinkantį žinių patikrinimo egzaminą (toliau šiame straipsnyje – egzaminas) ir gauti elektroninės formos fizinio asmens, dirbančio pavojingojoje geležinkelio zonoje, pažymėjimą (toliau šiame straipsnyje – pažymėjimas).
 
-2. Laikoma, kad fiziniai asmenys dirba darbą, tiesiogiai susijusį su geležinkelių transporto eismu, jeigu jų funkcijos yra tiesiogiai susijusios su dalyvavimu geležinkelių transporto eisme, tai yra apima vadovavimą geležinkelių transporto eismui, jo tvarkymą ir (ar) užtikrinimą, ir jeigu jų sveikatos būklės pablogėjimas gali turėti neigiamą įtaką eismo saugai. Fiziniai asmenys, kurių funkcijos yra susijusios su geležinkelių transporto eismu, tačiau jie tiesiogiai nedalyvauja geležinkelių transporto eisme, ir kurių sveikatos būklės pablogėjimas neturi neigiamos įtakos eismo saugai, laikomi dirbančiais darbą, netiesiogiai susijusį su geležinkelių transporto eismu. Fizinių asmenų, kurių darbas tiesiogiai susijęs su geležinkelių transporto eismu, ir asmenų, kurių darbas netiesiogiai susijęs su geležinkelių transporto eismu, sąrašą sudaro eismo saugos institucija.
+2. Fizinių asmenų, siekiančių įgyti teisę dirbti pavojingojoje geležinkelių zonoje, egzaminus organizuoja, jų žinias tikrina ir pažymėjimą išduoda, pakeičia, atnaujina pažymėjimo galiojimą, sustabdo pažymėjimo galiojimą, panaikina pažymėjimo galiojimo sustabdymą ir panaikina pažymėjimo galiojimą šio įstatymo 22 straipsnyje nurodytas egzaminavimo centras eismo saugos institucijos nustatyta tvarka.
 
-3. Dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu, leidžiama ne jaunesniems kaip 18 metų fiziniams asmenims.
+3. Šio straipsnio 1 dalyje nurodytą pažymėjimą įgiję fiziniai asmenys privalo kas 5 metus nuo pažymėjimo išdavimo dienos šio įstatymo 23 straipsnyje nurodytame mokymo centre išklausyti 8 valandų trukmės eismo saugos institucijos nustatyto turinio mokymus, susijusius su darbu pavojingojoje geležinkelio zonoje, kreiptis į egzaminavimo centrą dėl pažymėjimo galiojimo atnaujinimo ir pateikti mokymų išklausymą patvirtinančius dokumentus.
 
-4. Geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) eismo saugos valdymo sistemose nustato konkrečias savo darbuotojų, kurių darbas tiesiogiai arba netiesiogiai susijęs su geležinkelių transporto eismu ir kurių žinios turi būti tikrinamos, pareigybes.
+4. Fiziniams asmenims, įgijusiems pažymėjimą, tačiau nepateikusiems šio straipsnio 3 dalyje nurodytų dokumentų, pažymėjimą išdavęs arba paskutinį kartą jį atnaujinęs egzaminavimo centras, patikrinęs eismo saugos institucijos interneto svetainėje skelbiamą informaciją apie fiziniams asmenims išduotus pažymėjimus ir įsitikinęs, kad kitas egzaminavimo centras neatnaujino arba nesustabdė ar nepanaikino konkretaus pažymėjimo galiojimo, bei įspėjęs šį fizinį asmenį apie galimą išduoto pažymėjimo galiojimo sustabdymą prieš 20 darbo dienų iki šio straipsnio 3 dalyje nurodyto termino pabaigos, sustabdo išduoto pažymėjimo galiojimą nuo šio straipsnio 3 dalyje nurodyto termino pabaigos ir nustato 20 darbo dienų terminą pateikti pažymėjimą išdavusiam arba paskutinį kartą jį atnaujinusiam egzaminavimo centrui šio straipsnio 3 dalyje nurodytus dokumentus; šis terminas gali būti pratęstas 20 darbo dienų pateikus pažymėjimą išdavusiam arba paskutinį kartą jį atnaujinusiam egzaminavimo centrui raštu motyvuotą prašymą. Pažymėjimo galiojimo sustabdymas panaikinamas per 3 darbo dienas, kai fizinis asmuo pateikia pažymėjimo galiojimą sustabdžiusiam egzaminavimo centrui šio straipsnio 3 dalyje nurodytus dokumentus.
 
-5. Fiziniai asmenys, pageidaujantys dirbti darbą, tiesiogiai susijusį su geležinkelių transporto eismu, prieš įsidarbindami privalo pasitikrinti sveikatą, o dirbdami – tikrintis ją periodiškai, tai yra: jaunesni kaip 40 metų darbuotojai – kas 5 metus; 41–62 metų darbuotojai – kas 3 metus, vyresni kaip 62 metų darbuotojai – kiekvienais metais. Fizinio asmens sveikatos patikra privalo apimti ir šio įstatymo 24 straipsnyje nustatytą psichikos sveikatos patikrinimą. Vadovaudamasis šio įstatymo 6 straipsnio 4 dalyje nurodytais sveikatos apsaugos ministro nustatytais sveikatos reikalavimais ir patikrinimo tvarka, ligų sąrašu, gydytojas, turintis sveikatos apsaugos ministro nustatyta tvarka išduotą galiojančią licenciją, išduoda dokumentą, kuriuo patvirtinama, kad buvo atlikta šioje dalyje nurodyta fizinio asmens sveikatos patikra ir fizinis asmuo dėl savo sveikatos būklės galės saugiai atlikti pareigas. Fizinis asmuo, nepasitikrinęs sveikatos, atsisakęs nustatytu laiku pasitikrinti sveikatą arba dėl sveikatos būklės negalintis dirbti darbo, tiesiogiai susijusio su geležinkelių transporto eismu, nuo darbo nušalinamas.
+5. Pažymėjimą išdavęs arba paskutinį kartą jį atnaujinęs egzaminavimo centras panaikina pažymėjimo galiojimą per 3 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo ar aplinkybių paaiškėjimo dienos, jeigu:
 
-6. Fizinių asmenų, pageidaujančių dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu, egzaminus organizuoja, jų žinias tikrina ir pažymėjimus išduoda šio įstatymo 22 straipsnyje nurodytas egzaminavimo centras. Jeigu nėra šio įstatymo 22 straipsnyje nurodytų egzaminavimo centrų, fizinių asmenų, pageidaujančių dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu, egzaminus organizuoja, žinias tikrina ir pažymėjimus išduoda eismo saugos institucija, mutatis mutandis vadovaudamasi šio įstatymo 22 straipsnio nuostatomis.
+1) fizinis asmuo, įgijęs pažymėjimą, per pažymėjimą išdavusio arba paskutinį kartą jį atnaujinusio egzaminavimo centro nustatytą terminą nepateikė šiam egzaminavimo centrui šio straipsnio 3 dalyje nurodytų dokumentų;
 
-7. Fizinis asmuo, pageidaujantis gauti pažymėjimą, turi eismo saugos institucijos nustatyta tvarka pateikti šio įstatymo 22 straipsnyje nurodytam egzaminavimo centrui eismo saugos institucijos nustatyto turinio prašymą laikyti egzaminą.
+2) fizinis asmuo, įgijęs pažymėjimą, mirė.
 
-8. Egzaminavimo centras, gavęs tinkamai įformintą fizinio asmens prašymą laikyti egzaminą, privalo surengti egzaminą ne vėliau kaip per 18 darbo dienų nuo prašymo laikyti egzaminą gavimo dienos, jeigu fizinis asmuo nepageidauja laikyti egzamino vėliau.
+6. Fizinis asmuo ne vėliau kaip per 20 darbo dienų nuo pažymėjime nurodytų duomenų pasikeitimo dienos turi kreiptis į egzaminavimo centrą dėl turimo pažymėjimo pakeitimo ir pateikti duomenų pasikeitimą patvirtinančius dokumentus.
 
-9. Fizinio asmens, pageidaujančio gauti fizinio asmens, kurio darbas tiesiogiai susijęs su geležinkelių transporto eismu, pažymėjimą, egzaminavimo metu patikrinamos ir įvertinamos žinios apie Techninio geležinkelių naudojimo nuostatų, Geležinkelių transporto eismo signalizacijos taisyklių ir Geležinkelių transporto eismo taisyklių, kurias tvirtina susisiekimo ministras, reikalavimus. Fizinio asmens, pageidaujančio gauti fizinio asmens, kurio darbas netiesiogiai susijęs su geležinkelių transporto eismu, pažymėjimą, egzaminavimo metu patikrinamos ir įvertinamos žinios apie eismo saugos institucijos sąraše nurodytus techninio geležinkelių naudojimo nuostatų, geležinkelių transporto eismo signalizacijos taisyklių ir geležinkelių transporto eismo taisyklių, kurias tvirtina susisiekimo ministras, reikalavimus, susijusius su darbu, kuris netiesiogiai susijęs su geležinkelių transporto eismu.
+7. Eismo saugos institucija savo interneto svetainėje viešai skelbia fizinio asmens, kuriam suteikta teisė dirbti pavojingojoje geležinkelio zonoje ir išduotas pažymėjimas, vardą (vardus), pavardę (pavardes), pažymėjimo numerį, išdavimo datą, pažymėjimo galiojimo atnaujinimo, sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo datą, egzaminavimo centrą, kuris atnaujino arba sustabdė pažymėjimo galiojimą, kad būtų galima įsitikinti, jog fiziniam asmeniui yra išduotas pažymėjimas, jis galioja ir kitas egzaminavimo centras neatnaujino pažymėjimo galiojimo arba jo nesustabdė. Duomenys apie fizinį asmenį ir jam išduotą pažymėjimą paskelbiami ne vėliau kaip kitą darbo dieną po sprendimo išduoti arba atnaujinti šį pažymėjimą, sustabdyti pažymėjimo galiojimą priėmimo dienos ir skelbiami iki dienos, kai pažymėjimo galiojimas yra panaikinamas šio straipsnio 5 dalyje nustatytais atvejais. Fizinio asmens duomenys tvarkomi vadovaujantis Bendruoju duomenų apsaugos reglamentu, Asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais, reglamentuojančiais duomenų tvarkymą.
 
-10. Egzaminavimo centras informuoja egzaminą laikiusį fizinį asmenį apie jo žinių patikrinimo įvertinimą ne vėliau kaip per 3 darbo dienas nuo egzamino dienos. Fiziniams asmenims, išlaikiusiems fizinio asmens, pageidaujančio dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu, žinių patikrinimo egzaminą, egzaminavimo centras per 5 darbo dienas nuo egzamino išlaikymo dienos išduoda atitinkamai fizinio asmens, kurio darbas tiesiogiai susijęs su geležinkelių transporto eismu, arba fizinio asmens, kurio darbas netiesiogiai susijęs su geležinkelių transporto eismu, pažymėjimą. Egzaminavimo centras atsisako išduoti pažymėjimus, jeigu fiziniai asmenys neišlaiko eismo saugos institucijos nustatytus reikalavimus atitinkančio egzamino.
+8. Šiame straipsnyje nustatyti reikalavimai netaikomi trečiosiose valstybėse pagal darbo ar kitą sutartį įdarbintiems fiziniams asmenims, kuriuos geležinkelio įmonė (vežėjas) pasitelkia keleivių, bagažo ir (ar) krovinių vežimo pasienio geležinkelių linijose ar tranzitu veiklai vykdyti. Tokiu atveju geležinkelio įmonė (vežėjas), įgyvendindama (įgyvendindamas) savo eismo saugos valdymo sistemą, turi užtikrinti, kad šie fiziniai asmenys bus supažindinti su nacionalinėmis taisyklėmis ir sugebės saugiai vykdyti veiklą Lietuvos Respublikos teritorijoje.
 
-11. Fiziniai asmenys, kurių darbas tiesiogiai susijęs su geležinkelių transporto eismu, kas 3 metus nuo fizinio asmens, kurio darbas tiesiogiai susijęs su geležinkelių transporto eismu, pažymėjimo išdavimo dienos privalo išklausyti 16 valandų trukmės mokymus, susijusius su geležinkelių transporto eismo valdymu ir eismo saugos reikalavimais, ir pateikti pažymėjimą išdavusiam egzaminavimo centrui tai patvirtinančius dokumentus. Eismo saugos institucija nustato detalų šių mokymų turinį.
+Straipsnio pakeitimai:
 
-12. Fiziniai asmenys, kurių darbas netiesiogiai susijęs su geležinkelių transporto eismu, kas 3 metus nuo fizinio asmens, kurio darbas netiesiogiai susijęs su geležinkelių transporto eismu, pažymėjimo išdavimo dienos privalo išklausyti 8 valandų trukmės mokymus, susijusius su eismo saugos reikalavimais, ir pateikti pažymėjimą išdavusiam egzaminavimo centrui tai patvirtinančius dokumentus. Eismo saugos institucija nustato detalų šių mokymų turinį.
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
-13. Fiziniams asmenims, kurių darbas tiesiogiai arba netiesiogiai susijęs su geležinkelių transporto eismu, neišklausiusiems šio straipsnio 11 ir 12 dalyse nurodytų mokymų, pažymėjimą išdavęs egzaminavimo centras, įspėjęs atitinkamą fizinį asmenį apie galimą išduoto pažymėjimo galiojimo sustabdymą prieš 10 darbo dienų iki šio straipsnio 11 ar 12 dalyje nurodyto termino pabaigos, sustabdo išduoto pažymėjimo galiojimą nuo šio straipsnio 11 ar 12 dalyje nurodyto termino pabaigos ir nustato 20 darbo dienų terminą pateikti egzaminavimo centrui dalyvavimą mokymuose patvirtinančius dokumentus; terminas gali būti pratęstas 20 darbo dienų pateikus egzaminavimo centrui raštu motyvuotą prašymą. Pažymėjimo galiojimo sustabdymas panaikinamas per 3 darbo dienas, kai fizinis asmuo pateikia egzaminavimo centrui dalyvavimą mokymuose patvirtinančius dokumentus.
+21 straipsnis. Reikalavimai fiziniams asmenims, siekiantiems įgyti teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams
 
-14. Šio įstatymo 22 straipsnyje nurodytas egzaminavimo centras panaikina išduoto pažymėjimo galiojimą per 3 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo ar aplinkybių paaiškėjimo dienos, jeigu:
+1. Krovinių krovimo ir tvirtinimo vagonuose darbų vadovai vadovauja krovinių krovimo ir tvirtinimo vagonuose darbams ir atsako už saugų krovinių krovimą į vagonus ir tvirtinimą juose.
 
-1) fizinis asmuo, įgijęs pažymėjimą, per egzaminavimo centro nustatytą terminą nepateikė egzaminavimo centrui dalyvavimą mokymuose patvirtinančių dokumentų;
+2. Fiziniai asmenys, kurie nėra geležinkelių infrastruktūros valdytojų arba geležinkelio įmonių (vežėjų) darbuotojai, tačiau kurie siekia įgyti teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams, turi, o eismo saugai užtikrinti svarbias užduotis atliekantys darbuotojai gali eismo saugos institucijos nustatyta tvarka išlaikyti eismo saugos institucijos reikalavimus atitinkantį žinių patikrinimo egzaminą (toliau šiame straipsnyje – egzaminas) ir gauti elektroninės formos krovinių krovimo ir tvirtinimo vagonuose darbų vadovo pažymėjimą (toliau šiame straipsnyje – pažymėjimas). Fiziniai asmenys, įgiję pažymėjimus, turi teisę vykdyti veiklą savarankiškai.
 
-2) fizinis asmuo, įgijęs pažymėjimą, pateikė prašymą panaikinti pažymėjimo galiojimą;
+3. Egzaminus organizuoja, fizinių asmenų žinias tikrina ir pažymėjimą išduoda, pakeičia, atnaujina pažymėjimo galiojimą, sustabdo pažymėjimo galiojimą, panaikina pažymėjimo galiojimo sustabdymą ir panaikina pažymėjimo galiojimą šio įstatymo 22 straipsnyje nurodyti egzaminavimo centrai eismo saugos institucijos nustatyta tvarka.
 
-3) fizinis asmuo, įgijęs pažymėjimą, mirė.
+4. Egzaminavimo centras atsisako išduoti pažymėjimą, jeigu fizinis asmuo neišlaiko eismo saugos institucijos nustatytus reikalavimus atitinkančio egzamino.
 
-15. Pasikeitus fizinio asmens, kurio darbas tiesiogiai susijęs su geležinkelių transporto eismu, arba fizinio asmens, kurio darbas netiesiogiai susijęs su geležinkelių transporto eismu, pažymėjime nurodytiems duomenims, fizinis asmuo turi ne vėliau kaip per 20 darbo dienų nuo šių duomenų pasikeitimo pateikti šio įstatymo 22 straipsnyje nurodytam egzaminavimo centrui prašymą pakeisti turimą pažymėjimą ir pateikti duomenų pasikeitimą patvirtinančius dokumentus. Egzaminavimo centras pakeistus pažymėjimus turi išduoti ne vėliau kaip per 5 darbo dienas nuo dokumentų gavimo dienos.
+5. Teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams ir pažymėjimą įgijęs fizinis asmuo privalo kas 5 metus nuo pažymėjimo išdavimo dienos šio įstatymo 23 straipsnyje nurodytame mokymo centre išklausyti 16 valandų trukmės eismo saugos institucijos nustatyto turinio mokymus, kreiptis į egzaminavimo centrą dėl pažymėjimo galiojimo atnaujinimo ir pateikti mokymų išklausymą patvirtinančius dokumentus.
 
-16. Geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai) užtikrina, kad jų darbuotojai, kurių darbas tiesiogiai arba netiesiogiai susijęs su geležinkelių transporto eismu, turėtų lygias galimybes kelti kvalifikaciją. Geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai) atsako už darbuotojų, kurių darbas tiesiogiai arba netiesiogiai susijęs su geležinkelių transporto eismu, mokymų lygį ir kvalifikaciją.
+6. Jeigu fizinis asmuo nepateikia šio straipsnio 5 dalyje nurodytų dokumentų, pažymėjimą išdavęs arba paskutinį kartą jį atnaujinęs egzaminavimo centras, patikrinęs eismo saugos institucijos interneto svetainėje skelbiamą informaciją apie fiziniams asmenims išduotus pažymėjimus ir įsitikinęs, kad kitas egzaminavimo centras neatnaujino arba nesustabdė ir nepanaikino konkretaus fizinio asmens pažymėjimo galiojimo, bei, įspėjęs šį fizinį asmenį prieš 20 darbo dienų apie galimą išduoto pažymėjimo galiojimo sustabdymą iki šio straipsnio 5 dalyje nurodyto termino pabaigos, sustabdo išduoto pažymėjimo galiojimą nuo šio straipsnio 5 dalyje nurodyto termino pabaigos ir nustato 20 darbo dienų terminą pateikti pažymėjimą išdavusiam arba paskutinį kartą jį atnaujinusiam egzaminavimo centrui šio straipsnio 5 dalyje nurodytus dokumentus; šio straipsnio 5 dalyje nurodytų dokumentų pateikimo terminas gali būti pratęstas 20 darbo dienų pateikus pažymėjimą išdavusiam arba paskutinį kartą jį atnaujinusiam egzaminavimo centrui raštu motyvuotą prašymą.
 
-17. Eismo saugos institucija savo interneto svetainėje viešai skelbia fizinio asmens, kuriam išduotas pažymėjimas, vardą (vardus), pavardę (pavardes), pažymėjimo numerį, išdavimo datą, pažymėjimo galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo datą, kad būtų galima įsitikinti, jog fiziniam asmeniui yra išduotas pažymėjimas ir jis galioja. Duomenys apie fizinį asmenį, kuriam išduotas pažymėjimas, paskelbiami ne vėliau kaip kitą darbo dieną po sprendimo išduoti šį pažymėjimą priėmimo dienos ir skelbiami iki dienos, kai pažymėjimo galiojimas yra panaikinamas šio straipsnio 14 dalyje nustatytais atvejais. Fizinio asmens duomenys tvarkomi vadovaujantis Bendruoju duomenų apsaugos reglamentu, Asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais, reglamentuojančiais duomenų tvarkymą.
+7. Pažymėjimą išdavęs arba paskutinį kartą jį atnaujinęs egzaminavimo centras panaikina išduoto pažymėjimo galiojimą per 3 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo ar aplinkybių paaiškėjimo dienos, jeigu:
 
-18. Šiame straipsnyje nustatyti reikalavimai netaikomi trečiosiose valstybėse pagal darbo ar kitą sutartį įdarbintiems fiziniams asmenims, kuriuos geležinkelio įmonė (vežėjas) pasitelkia keleivių, bagažo ir (ar) krovinių vežimo pasienio geležinkelių linijose ar tranzitu veiklai vykdyti. Tokiu atveju geležinkelio įmonė (vežėjas), įgyvendindama (įgyvendindamas) savo eismo saugos valdymo sistemą, turi užtikrinti, kad šie fiziniai asmenys bus supažindinti su nacionalinėmis taisyklėmis ir sugebės saugiai vykdyti veiklą Lietuvos Respublikos teritorijoje.
+1) fizinis asmuo, įgijęs pažymėjimą, per pažymėjimą išdavusio arba paskutinį kartą jį atnaujinusio egzaminavimo centro nustatytą terminą nepateikė šiam egzaminavimo centrui šio straipsnio 5 dalyje nurodytų dokumentų;
 
-21 straipsnis. Krovinių krovimo ir tvirtinimo vagonuose darbų vadovų pažymėjimai
+2) fizinis asmuo, įgijęs pažymėjimą, mirė.
 
-1. Krovinių krovimo ir tvirtinimo vagonuose darbams vadovauja krovinių krovimo ir tvirtinimo vagonuose darbų vadovai, kurie atsako už saugų krovinių krovimą į vagonus ir tvirtinimą juose. Krovinių krovimo ir tvirtinimo vagonuose darbų vadovai užtikrina, kad krovinių krovimo ir tvirtinimo vagonuose darbai būtų atliekami laikantis susisiekimo ministro nustatytų reikalavimų.
+8. Fizinis asmuo ne vėliau kaip per 20 darbo dienų nuo pažymėjime nurodytų duomenų pasikeitimo dienos turi kreiptis į egzaminavimo centrą dėl turimo pažymėjimo pakeitimo ir pateikti duomenų pasikeitimą patvirtinančius dokumentus.
 
-2. Fiziniai asmenys, pageidaujantys vykdyti krovinių krovimo ir tvirtinimo vagonuose darbų vadovų funkcijas, turi gauti elektroninės formos krovinių krovimo ir tvirtinimo vagonuose darbų vadovo pažymėjimą (toliau šiame straipsnyje – pažymėjimas), kuris galioja neterminuotai. Fiziniai asmenys, įgiję pažymėjimus, turi teisę vykdyti veiklą savarankiškai.
+9. Eismo saugos institucija savo interneto svetainėje viešai skelbia fizinio asmens, kuriam išduotas pažymėjimas, vardą (vardus), pavardę (pavardes), pažymėjimo numerį, išdavimo datą, pažymėjimo galiojimo atnaujinimo, sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo datą, egzaminavimo centrą, kuris atnaujino arba sustabdė pažymėjimo galiojimą, kad būtų galima įsitikinti, jog fiziniam asmeniui yra išduotas pažymėjimas, jis galioja ir kitas egzaminavimo centras neatnaujino pažymėjimo galiojimo arba jo nesustabdė. Duomenys apie fizinį asmenį ir jam išduotą pažymėjimą paskelbiami ne vėliau kaip kitą darbo dieną po sprendimo išduoti arba atnaujinti šį pažymėjimą, sustabdyti pažymėjimo galiojimą priėmimo dienos ir skelbiami iki dienos, kai pažymėjimo galiojimas yra panaikinamas šio straipsnio 7 dalyje nustatytais atvejais. Fizinio asmens duomenys tvarkomi vadovaujantis Bendruoju duomenų apsaugos reglamentu, Asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais, reglamentuojančiais duomenų tvarkymą.
 
-3. Pažymėjimas išduodamas išlaikius egzaminą šiame straipsnyje ir eismo saugos institucijos nustatyta tvarka. Egzaminavimo metu tikrinamos ir vertinamos fizinių asmenų, siekiančių gauti pažymėjimus, žinios apie krovinių vežimo geležinkelių transportu bei krovinių krovimo ir tvirtinimo vagonuose taisykles, kurias nustato susisiekimo ministras.
+Straipsnio pakeitimai:
 
-4. Egzaminus organizuoja, fizinių asmenų žinias tikrina ir pažymėjimus išduoda šio įstatymo 22 straipsnyje nurodyti egzaminavimo centrai. Jeigu nėra šio įstatymo 22 straipsnyje nurodytų egzaminavimo centrų, fizinių asmenų, pageidaujančių atlikti krovinių krovimo ir tvirtinimo vagonuose darbų vadovų funkcijas, egzaminus organizuoja, žinias tikrina ir pažymėjimus išduoda eismo saugos institucija, mutatis mutandis vadovaudamasi šio įstatymo 22 straipsnio nuostatomis.
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
-5. Fizinis asmuo, pageidaujantis gauti pažymėjimą, turi eismo saugos institucijos nustatyta tvarka pateikti šio įstatymo 22 straipsnyje nurodytam egzaminavimo centrui eismo saugos institucijos nustatyto turinio prašymą laikyti egzaminą.
+22 straipsnis. Įgaliojimai egzaminuoti fizinius asmenis, siekiančius įgyti teisę dirbti pavojingojoje geležinkelio zonoje, ir (ar) fizinius asmenis, siekiančius įgyti teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams
 
-6. Egzaminavimo centras, gavęs tinkamai įformintą fizinio asmens prašymą laikyti egzaminą, privalo surengti egzaminą ne vėliau kaip per 18 darbo dienų nuo prašymo laikyti egzaminą gavimo dienos, jeigu fizinis asmuo nepageidauja egzamino laikyti vėliau.
+Pakeistas straipsnio pavadinimas:
 
-7. Egzaminavimo centras informuoja egzaminą laikiusį fizinį asmenį apie jo žinių patikrinimo įvertinimą ne vėliau kaip per 3 darbo dienas nuo egzamino dienos. Fiziniams asmenims, išlaikiusiems krovinių krovimo ir tvirtinimo vagonuose darbų vadovų žinių patikrinimo egzaminą, egzaminavimo centras per 5 darbo dienas nuo egzamino išlaikymo dienos išduoda pažymėjimą. Egzaminavimo centras atsisako išduoti pažymėjimą, jeigu fizinis asmuo neišlaiko eismo saugos institucijos nustatytus reikalavimus atitinkančio egzamino.
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
-8. Pažymėjimą gavęs fizinis asmuo kas 2 metus nuo pažymėjimo išdavimo dienos privalo išklausyti 16 valandų trukmės mokymus, susijusius su krovinių vežimo geležinkelių transportu bei krovinių krovimo ir tvirtinimo vagonuose taisyklių, kurias nustato susisiekimo ministras, reikalavimais ir pateikti pažymėjimą išdavusiam egzaminavimo centrui tai patvirtinančius dokumentus. Eismo saugos institucija nustato detalų šių mokymų turinį.
+1. Asmenys, siekiantys egzaminuoti fizinius asmenis, siekiančius įgyti teisę dirbti pavojingojoje geležinkelio zonoje, ir (ar) fizinius asmenis, siekiančius įgyti teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams, turi gauti eismo saugos institucijos išduodamus elektroninės formos įgaliojimus egzaminuoti atitinkamus fizinius asmenis (toliau – įgaliojimai egzaminavimo centrams). Įgaliojimai egzaminavimo centrams išduodami neterminuotai šiame straipsnyje ir eismo saugos institucijos nustatyta tvarka.
 
-9. Jeigu fizinis asmuo neišklauso šio straipsnio 8 dalyje nurodytų mokymų, pažymėjimą išdavęs egzaminavimo centras, įspėjęs fizinį asmenį prieš 10 darbo dienų apie galimą išduoto pažymėjimo galiojimo sustabdymą iki šio straipsnio 8 dalyje nurodyto termino pabaigos, sustabdo išduoto pažymėjimo galiojimą nuo šio straipsnio 8 dalyje nurodyto termino pabaigos ir nustato 20 darbo dienų terminą pateikti egzaminavimo centrui dalyvavimą mokymuose patvirtinančius dokumentus; terminas gali būti pratęstas 20 darbo dienų pateikus egzaminavimo centrui raštu motyvuotą prašymą. Pažymėjimo galiojimo sustabdymas panaikinamas per 3 darbo dienas, kai fizinis asmuo pateikia egzaminavimo centrui dalyvavimą mokymuose patvirtinančius dokumentus.
+Straipsnio dalies pakeitimai:
 
-10. Šio įstatymo 22 straipsnyje nurodytas egzaminavimo centras panaikina išduoto pažymėjimo galiojimą per 3 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo ar aplinkybių paaiškėjimo dienos, jeigu:
-
-1) fizinis asmuo, įgijęs pažymėjimą, per egzaminavimo centro nustatytą terminą nepateikė egzaminavimo centrui dalyvavimą mokymuose patvirtinančių dokumentų;
-
-2) fizinis asmuo, įgijęs pažymėjimą, pateikė prašymą panaikinti pažymėjimo galiojimą;
-
-3) fizinis asmuo, įgijęs pažymėjimą, mirė.
-
-11. Pasikeitus fizinio asmens, kuriam išduotas pažymėjimas, duomenims, fizinis asmuo turi ne vėliau kaip per 20 darbo dienų nuo šių duomenų pasikeitimo pateikti egzaminavimo centrui prašymą pakeisti turimą pažymėjimą ir pateikti duomenų pasikeitimą patvirtinančius dokumentus. Egzaminavimo centras pakeistą pažymėjimą fiziniam asmeniui turi išduoti ne vėliau kaip per 5 darbo dienas nuo dokumentų gavimo dienos.
-
-12. Eismo saugos institucija savo interneto svetainėje viešai skelbia fizinio asmens, kuriam išduotas pažymėjimas, vardą (vardus), pavardę (pavardes), pažymėjimo numerį, išdavimo datą, pažymėjimo galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo datą, kad būtų galima įsitikinti, jog fiziniam asmeniui yra išduotas pažymėjimas ir jis galioja. Duomenys apie fizinį asmenį, kuriam išduotas pažymėjimas, paskelbiami ne vėliau kaip kitą darbo dieną po sprendimo išduoti šį pažymėjimą priėmimo dienos ir skelbiami iki dienos, kai pažymėjimo galiojimas yra panaikinamas šio straipsnio 10 dalyje nustatytais atvejais. Fizinio asmens duomenys tvarkomi vadovaujantis Bendruoju duomenų apsaugos reglamentu, Asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais, reglamentuojančiais duomenų tvarkymą.
-
-22 straipsnis. Įgaliojimai egzaminuoti fizinius asmenis, pageidaujančius dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu, ir (ar) fizinius asmenis, pageidaujančius atlikti krovinių krovimo ir tvirtinimo vagonuose darbų vadovų funkcijas
-
-1. Asmenys, pageidaujantys egzaminuoti fizinius asmenis, pageidaujančius dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu, ir (ar) fizinius asmenis, pageidaujančius atlikti krovinių krovimo ir tvirtinimo vagonuose darbų vadovų funkcijas, turi gauti eismo saugos institucijos išduodamus elektroninės formos įgaliojimus egzaminuoti fizinius asmenis, pageidaujančius dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu, ir (ar) fizinius asmenis, pageidaujančius atlikti krovinių krovimo ir tvirtinimo vagonuose darbų vadovų funkcijas (toliau – įgaliojimai egzaminavimo centrams). Įgaliojimai egzaminavimo centrams išduodami neterminuotai šiame straipsnyje ir eismo saugos institucijos nustatyta tvarka.
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 2. Asmenys, pageidaujantys gauti įgaliojimus egzaminavimo centrams, turi atitikti šiuos reikalavimus:
 
@@ -977,11 +955,19 @@ Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 5) fizinių asmenų egzaminus, kurių klausimai turi būti sudaromi tik iš su eismo saugos institucija suderinto klausimų ir atsakymų katalogo, vykdyti raštu arba per informacinę sistemą, jeigu egzaminavimo centras tokią sistemą turi;
 
-6) per 20 darbo dienų nuo eismo saugos institucijos pranešimo apie pasikeitusius teisės aktus, reglamentuojančius geležinkelių transporto eismo organizavimą ir (ar) krovinių krovimą ir tvirtinimą, paskelbimo eismo saugos institucijos interneto svetainėje atnaujinti klausimų ir atsakymų katalogus ir pateikti juos derinti eismo saugos institucijai;
+6) per 20 darbo dienų nuo eismo saugos institucijos pranešimo apie pasikeitusius teisės aktus, reglamentuojančius geležinkelių transporto eismo organizavimą ir (ar) krovinių krovimą ir tvirtinimą, paskelbimo eismo saugos institucijos interneto svetainėje dienos atnaujinti klausimų ir atsakymų katalogus ir pateikti juos derinti eismo saugos institucijai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 7) tvarkyti egzaminų, įskaitant informaciją apie fizinius asmenis, kurie laikė egzaminus, ir fizinius asmenis, kurie vykdė egzaminus, apskaitą;
 
-8) kaupti duomenis apie fizinių asmenų išklausytus mokymus ir užtikrinti, kad šie duomenys būtų teikiami neatlygintinai eismo saugos institucijai jos nustatyta tvarka;
+8) eismo saugos institucijai neatlygintinai teikti eismo saugos institucijos nustatyta tvarka informaciją apie fizinio asmens, dirbančio pavojingojoje geležinkelio zonoje, pažymėjimo ir krovinių krovimo ir tvirtinimo vagonuose darbų vadovo pažymėjimo išdavimą, pakeitimą, galiojimo atnaujinimą, sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 9) per 5 darbo dienas nuo duomenų, nurodytų įgaliojimuose egzaminavimo centrui, pasikeitimo dienos apie tai pranešti eismo saugos institucijai ir pateikti prašymą pakeisti turimus įgaliojimus egzaminavimo centrui – nurodyti pakeistus duomenis ir pateikti duomenų pasikeitimą patvirtinančius dokumentus; eismo saugos institucija pakeičia įgaliojimus egzaminavimo centrui ir eismo saugos institucijos interneto svetainėje skelbiamus duomenis ne vėliau kaip per 5 darbo dienas nuo prašymo ir dokumentų gavimo dienos;
 
@@ -1021,17 +1007,39 @@ Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 12. Egzaminavimo centras, kuriam už šio straipsnio 11 dalies 4–7 punktuose nurodytus pažeidimus buvo panaikinti įgaliojimai egzaminavimo centrui, gali teikti dokumentus dėl šių įgaliojimų suteikimo ne anksčiau kaip po vienų metų nuo eismo saugos institucijos sprendimo panaikinti įgaliojimų egzaminavimo centrui galiojimą panaikinimo.
 
-13. Jeigu nėra egzaminavimo centro, egzaminavimo centro funkcijas atlieka eismo saugos institucija.
+121. Egzaminavimo centras, kuriam buvo sustabdyti arba panaikinti šio straipsnio 1 dalyje nurodyti įgaliojimai, privalo eismo saugos institucijai neatlygintinai eismo saugos institucijos nustatyta tvarka perduoti visus turimus duomenis apie fizinių asmenų išlaikytus egzaminus, jeigu egzaminavimo centras šiems asmenims nespėjo išduoti pažymėjimo iki įgaliojimų egzaminavimo centrui sustabdymo arba panaikinimo dienos, gautus duomenis apie asmenų išklausytus mokymus, jeigu egzaminavimo centras nespėjo atnaujinti pažymėjimo iki įgaliojimų egzaminavimo centrui sustabdymo arba panaikinimo dienos, informaciją apie fizinius asmenis, kurie yra įspėti apie išduoto pažymėjimo galiojimo sustabdymą, gautus prašymus pakeisti pažymėjimą arba panaikinti pažymėjimo galiojimą, jeigu egzaminavimo centras nespėjo pakeisti pažymėjimo arba panaikinti pažymėjimo galiojimo iki įgaliojimų egzaminavimo centrui sustabdymo arba panaikinimo dienos, kad eismo saugos institucija išduotų, atnaujintų, sustabdytų ar panaikintų atitinkamų pažymėjimų galiojimą.
 
-23 straipsnis. Teisė mokyti fizinius asmenis, kurių darbas tiesiogiai arba netiesiogiai susijęs su geležinkelių transporto eismu, ir (ar) krovinių krovimo ir tvirtinimo vagonuose darbų vadovus
+Papildyta straipsnio dalimi:
 
-1. Asmenys, pageidaujantys mokyti fizinius asmenis, kurių darbas tiesiogiai arba netiesiogiai susijęs su geležinkelių transporto eismu, ir (ar) krovinių krovimo ir tvirtinimo vagonuose darbų vadovus, turi eismo saugos institucijos nustatyta tvarka įgyti teisę mokyti fizinius asmenis, kurių darbas tiesiogiai arba netiesiogiai susijęs su geležinkelių transporto eismu, ir (ar) krovinių krovimo ir tvirtinimo vagonuose darbų vadovus (toliau šiame straipsnyje – teisė vykdyti mokymo centro veiklą). Ši teisė įgyjama neterminuotai šiame straipsnyje ir eismo saugos institucijos nustatyta tvarka.
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+
+13. Jeigu nėra egzaminavimo centrų, egzaminavimo centro funkcijas atlieka eismo saugos institucija, mutatis mutandis vadovaudamasi šio straipsnio arba šio įstatymo 23 straipsnio nuostatomis. Jeigu eismo saugos institucija sustabdo įgaliojimus egzaminavimo centrui arba juos panaikina, ji išduoda pažymėjimus fiziniams asmenims, kurie išlaikė tokio egzaminavimo centro vykdytus egzaminus, tačiau egzaminavimo centras jiems nespėjo išduoti pažymėjimo iki įgaliojimų egzaminavimo centrui sustabdymo arba panaikinimo dienos, atnaujina pažymėjimus fiziniams asmenims, kurie pateikė egzaminavimo centrui informaciją apie išklausytus mokymus, tačiau egzaminavimo centras nespėjo atnaujinti pažymėjimų galiojimo iki įgaliojimų egzaminavimo centrui sustabdymo arba panaikinimo dienos, pakeičia pažymėjimus fiziniams asmenims, kurie pateikė prašymus pakeisti pažymėjimus, tačiau egzaminavimo centras nespėjo jų pakeisti iki įgaliojimų egzaminavimo centrui sustabdymo arba panaikinimo dienos, įspėja fizinius asmenis apie pažymėjimų galiojimo sustabdymą ir sustabdo fizinių asmenų pažymėjimų galiojimą, panaikina pažymėjimų galiojimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+
+23 straipsnis. Teisė mokyti fizinius asmenis, įgijusius teisę dirbti pavojingojoje geležinkelio zonoje ir (ar) teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+
+1. Asmenys, siekiantys mokyti fizinius asmenis, įgijusius teisę dirbti pavojingojoje geležinkelio zonoje ir (ar) teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams, turi eismo saugos institucijos nustatyta tvarka įgyti teisę mokyti fizinius asmenis, įgijusius teisę dirbti pavojingojoje geležinkelio zonoje ir (ar) teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams (toliau – teisė vykdyti mokymo centro veiklą). Ši teisė įgyjama neterminuotai šiame straipsnyje ir eismo saugos institucijos nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 2. Asmenys, pageidaujantys įgyti teisę vykdyti mokymo centro veiklą, turi atitikti šiuos reikalavimus:
 
 1) vykdyti mokymus pagal neformaliojo mokymo programą;
 
-2) turėti mokymų kokybės valdymo sistemą, kuri apimtų priemones, kurios užtikrintų fiziniams asmenims, kurių darbas tiesiogiai arba netiesiogiai susijęs su geležinkelių transporto eismu, ir (ar) krovinių krovimo ir tvirtinimo vagonuose darbų vadovams nediskriminacines galimybes mokytis ir priemones, kurios padėtų užtikrinti, kad mokymai bus vykdomi pagal šios dalies 1 punkte nurodytas mokymų programas, nešališkai, be spaudimo ar paskatų, kurios galėtų turėti poveikį mokymo rezultatams;
+2) turėti mokymų kokybės valdymo sistemą, kuri apimtų priemones, kurios užtikrintų fiziniams asmenims, įgijusiems teisę dirbti pavojingojoje geležinkelio zonoje ir (ar) teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams, nediskriminacines galimybes mokytis, ir priemones, kurios padėtų užtikrinti, kad mokymai bus vykdomi pagal šios dalies 1 punkte nurodytą mokymo programą, nešališkai, be spaudimo ar paskatų, kurios galėtų turėti poveikį mokymo rezultatams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 3) užtikrinti, kad būtų sudarytos sąlygos teikiamomis paslaugomis naudotis neįgaliesiems ir ribotos judėsenos asmenims.
 
@@ -1077,11 +1085,15 @@ Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 6) mokymo centras pakartotinai per vienus metus 3 kartus buvo įspėtas dėl šio straipsnio  5 dalyje nustatytų reikalavimų pažeidimų, išskyrus pažeidimus, kurie, vadovaujantis Viešojo administravimo įstatymu, laikyti mažareikšmiais.
 
-24 straipsnis. Fizinių asmenų, pageidaujančių dirbti darbą, tiesiogiai susijusį su geležinkelių transporto eismu, ir fizinių asmenų, pageidaujančių gauti traukinio mašinisto pažymėjimą, psichikos sveikatos patikrinimas
+24 straipsnis. Eismo saugai užtikrinti svarbias užduotis atliekančių darbuotojų ir fizinių asmenų, siekiančių gauti traukinio mašinisto pažymėjimą, psichikos sveikatos patikrinimas
 
-1. Kai fizinio asmens, kuris pageidauja dirbti darbą, tiesiogiai susijusį su geležinkelių transporto eismu ar gauti traukinio mašinisto pažymėjimą, sveikatos patikros, nurodytos šio įstatymo 20 straipsnio 5 dalyje ir 32 straipsnio 2 dalyje, metu gydytojas psichiatras, turintis sveikatos apsaugos ministro nustatyta tvarka išduotą galiojančią licenciją, paskiria atlikti fizinio asmens psichologinį įvertinimą, medicinos psichologas, įgijęs aukštąjį universitetinį išsilavinimą, vadovaudamasis sveikatos apsaugos ministro nustatyta tvarka, atlieka fizinio asmens, kuris pageidauja gauti traukinio mašinisto pažymėjimą arba dirbti darbą, tiesiogiai susijusį su geležinkelių transporto eismu, psichologinį įvertinimą. Atlikdamas įvertinimą medicinos psichologas vertina, ar fizinis asmuo neturi psichologinių trūkumų ar kitų svarbių asmeninių savybių, kurios galėtų kliudyti saugiai vykdyti pareigas ir atlikti skirtas užduotis, ir psichologinio įvertinimo išvadą pateikia gydytojui psichiatrui.
+1. Kai sveikatos patikros, nurodytos šio įstatymo 191 straipsnio 4 dalyje ir 32 straipsnio 2 dalyje, metu gydytojas psichiatras, turintis sveikatos apsaugos ministro nustatyta tvarka išduotą galiojančią licenciją, paskiria atlikti eismo saugai užtikrinti svarbias užduotis atliekančio darbuotojo, taip pat fizinio asmens, siekiančio gauti traukinio mašinisto pažymėjimą, psichologinį įvertinimą, medicinos psichologas, įgijęs aukštąjį universitetinį išsilavinimą, vadovaudamasis sveikatos apsaugos ministro nustatyta tvarka, atlieka psichologinį įvertinimą. Atlikdamas įvertinimą medicinos psichologas vertina, ar asmuo neturi psichologinių trūkumų ar kitų svarbių asmeninių savybių, kurios galėtų kliudyti saugiai atlikti pareigas ir skirtas užduotis, ir psichologinio įvertinimo išvadą pateikia gydytojui psichiatrui.
 
-2. Gydytojas psichiatras, gavęs psichologinio įvertinimo išvadą, įvertina fizinio asmens psichikos sveikatos būklę, vadovaudamasis šio įstatymo 6 straipsnio 4 dalyje nurodytais sveikatos apsaugos ministro nustatytais sveikatos reikalavimais, patikrinimo tvarka ir ligų sąrašu bei atsižvelgdamas į psichologinio įvertinimo išvadą. Atlikęs įvertinimą gydytojas psichiatras patvirtina, kad šio straipsnio 1 dalyje nurodytas fizinis asmuo dėl savo psichikos sveikatos būklės galės saugiai atlikti pareigas arba negalės saugiai atlikti pareigų, ir išduoda šiam fiziniam asmeniui dokumentą, kuriame nurodo asmens psichikos sveikatos būklės įvertinimą. Fizinis asmuo, pageidaujantis dirbti darbą, tiesiogiai susijusį su geležinkelių transporto eismu ar gauti traukinio mašinisto pažymėjimą, gydytojo psichiatro išduotą dokumentą pateikia šio įstatymo 20 straipsnio 5 dalyje ir 32 straipsnio 2 dalyje nurodytam gydytojui, kuris priima sprendimą dėl fizinio asmens sveikatos būklės ir tinkamumo dirbti atitinkamą darbą.
+2. Gydytojas psichiatras, gavęs psichologinio įvertinimo išvadą, įvertina asmens psichikos sveikatos būklę, vadovaudamasis šio įstatymo 6 straipsnio 4 dalyje nurodytais sveikatos apsaugos ministro nustatytais sveikatos reikalavimais, patikrinimo tvarka ir ligų sąrašu bei atsižvelgdamas į psichologinio įvertinimo išvadą. Atlikęs įvertinimą gydytojas psichiatras patvirtina, kad šio straipsnio 1 dalyje nurodytas asmuo dėl savo psichikos sveikatos būklės galės saugiai atlikti pareigas arba negalės saugiai atlikti pareigų, ir išduoda šiam asmeniui dokumentą, kuriame nurodo asmens psichikos sveikatos būklės įvertinimą. Eismo saugai užtikrinti svarbias užduotis atliekantis darbuotojas, taip pat fizinis asmuo, siekiantis gauti traukinio mašinisto pažymėjimą, gydytojo psichiatro išduotą dokumentą pateikia šio įstatymo 191 straipsnio 4 dalyje ir 32 straipsnio 2 dalyje nurodytam gydytojui, kuris priima sprendimą dėl asmens sveikatos būklės ir tinkamumo dirbti atitinkamą darbą.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 25 straipsnis. Traukinio mašinistų mokymo centro pripažinimo pažymėjimai
 
@@ -1633,7 +1645,11 @@ priedas
 
 5. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/797 dėl geležinkelių sistemos sąveikos Europos Sąjungoje su paskutiniais pakeitimais, padarytais 2020 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/700.
 
-6. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos su paskutiniais pakeitimais, padarytais 2020 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/700.
+6. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos su paskutiniais pakeitimais, padarytais 2020 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1530.
+
+Punkto pakeitimai:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 7. 2018 m. balandžio 4 d. Europos Komisijos įgyvendinimo reglamentas (ES) 2018/545, kuriuo nustatomos geležinkelių transporto priemonių patvirtinimo ir geležinkelių transporto priemonių tipų patvirtinimo pagal Europos Parlamento ir Tarybos direktyvą (ES) 2016/797 praktinės priemonės, su paskutiniais pakeitimais, padarytais 2020 m. birželio 12 d. Europos Komisijos įgyvendinimo reglamentu (ES) 2020/781.
 
@@ -1772,4 +1788,44 @@ Nr. XI-642, 2010-01-14, Žin., 2010, Nr. 12-557 (2010-01-30)
 GELEŽINKELIŲ TRANSPORTO EISMO SAUGOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo 5 straipsnio 3 dalies 2, 3 ir 6 punktai, 6 straipsnio 3 dalies 5, 11 ir 12 punktai, 9 straipsnio 5 dalis, 11 straipsnio 2 dalis, 15 straipsnio 1 dalis ir 22 straipsnio 4 dalis įsigalioja nuo 2010 m. liepos 1 d.
+
+161 straipsnis. Reikalavimai kitokio negu 1 435 mm ir 1 520 mm pločio vėžių Lietuvos Respublikos geležinkelių tinklui ir jame veikiantiems subjektams
+
+1. Kitokio negu 1 435 mm ir 1 520 mm pločio vėžių (toliau – kitokio pločio vėžė) Lietuvos Respublikos geležinkelių tinklo techninius ir eismo saugos reikalavimus nustato susisiekimo ministras, eismo organizavimo kitokio pločio vėžės geležinkelių infrastruktūroje tvarką – kitokio pločio vėžės geležinkelių tinklo valdytojas (toliau – valdytojas).
+
+2. Fiziniai asmenys gali valdyti geležinkelių riedmenis kitokio pločio vėžės geležinkelių infrastruktūroje, o šiuos geležinkelių riedmenis valdančių asmenų padėjėjais gali dirbti tik išklausę su geležinkelių riedmenų valdymu bei eismo sauga kitokio pločio vėžės geležinkelių infrastruktūroje susijusius mokymus, vykdomus pagal valdytojo parengtą mokymo programą. Susisiekimo ministras nustato šioje dalyje nurodytos mokymo programos rengimo reikalavimus ir šių mokymų turinį.
+
+3. Fiziniai asmenys, siekiantys valdyti geležinkelių riedmenis kitokio pločio vėžės geležinkelių infrastruktūroje, mokosi šio įstatymo 25 straipsnyje nustatyta tvarka pripažintuose traukinio mašinistų mokymo centruose, o siekiantys dirbti šiuos geležinkelių riedmenis valdančių asmenų padėjėjais – šio įstatymo 23 straipsnyje nurodytuose mokymo centruose.
+
+4. Fizinių asmenų, siekiančių valdyti geležinkelių riedmenis kitokio pločio vėžės geležinkelių infrastruktūroje arba dirbti šiuos geležinkelių riedmenis valdančių asmenų padėjėjais, sveikatos būklė turi atitikti sveikatos apsaugos ministro nustatytus reikalavimus. Fiziniai asmenys, siekiantys valdyti geležinkelių riedmenis kitokio pločio vėžės geležinkelių infrastruktūroje arba dirbti šiuos geležinkelių riedmenis valdančių asmenų padėjėjais, prieš įsidarbindami privalo pasitikrinti sveikatą, o dirbdami – tikrintis ją sveikatos apsaugos ministro nustatytu periodiškumu.
+
+5. Fizinių asmenų, siekiančių valdyti geležinkelių riedmenis kitokio pločio vėžės geležinkelių infrastruktūroje, sveikata tikrinama pagal sveikatos apsaugos ministro nustatytą traukinio mašinistų sveikatos patikrinimo tvarką, o fizinių asmenų, siekiančių dirbti šiuos geležinkelių riedmenis valdančių asmenų padėjėjais, – pagal sveikatos apsaugos ministro nustatytą eismo saugai užtikrinti svarbias užduotis atliekančių darbuotojų sveikatos patikrinimo tvarką. Valdyti geležinkelių riedmenis kitokio pločio vėžės geležinkelių infrastruktūroje arba dirbti šiuos geležinkelių riedmenis valdančių asmenų padėjėjais siekiantis fizinis asmuo, kuris nepasitikrina sveikatos, atsisako nustatytu laiku pasitikrinti sveikatą arba kurio sveikatos būklė neatitinka sveikatos apsaugos ministro nustatytų reikalavimų, nušalinamas nuo darbo.
+
+Papildyta straipsniu:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+
+IV SKYRIUS
+
+REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALINČIUS DARYTI ĮTAKĄ EISMO SAUGAI AR GELEŽINKELIŲ SISTEMOS SĄVEIKUMUI
+
+191 straipsnis. Reikalavimai eismo saugai užtikrinti svarbias užduotis atliekantiems darbuotojams
+
+1. Laikoma, kad geležinkelių infrastruktūros valdytojų ir geležinkelio įmonių (vežėjų) darbuotojai atlieka eismo saugai užtikrinti svarbias užduotis, jeigu jų funkcijos apima geležinkelių infrastruktūros valdytojų ir geležinkelio įmonių (vežėjų) eismo saugos valdymo sistemose arba Įgyvendinimo reglamente (ES) 2019/773 nurodytų eismo saugai užtikrinti svarbių užduočių atlikimą. Eismo saugos valdymo sistemose nurodomos konkrečios šių darbuotojų užduotys, funkcijos ir pareigybės.
+
+2. Eismo saugai užtikrinti svarbias užduotis atliekantys darbuotojai privalo atitikti atitinkamai geležinkelių infrastruktūros valdytojų arba geležinkelio įmonės (vežėjo) eismo saugos valdymo sistemose nurodytus eismo saugai užtikrinti svarbias užduotis atliekančių darbuotojų kvalifikacijos reikalavimus. Geležinkelių infrastruktūros valdytojai, kurie valdo ir organizuoja traukinių eismą, ir geležinkelio įmonės (vežėjai), išskyrus šio įstatymo 1 straipsnio 3 dalyje nurodytas įmones, taip pat vykdo Įgyvendinimo reglamente (ES) 2019/773 jiems nustatytas pareigas.
+
+3. Įgyvendinimo reglamente (ES) 2019/773 nustatytais atvejais eismo saugai užtikrinti svarbias užduotis atliekantys darbuotojai turi atitikti Įgyvendinimo reglamente (ES) 2019/773 nurodytus ir geležinkelių infrastruktūros valdytojų bei geležinkelio įmonių (vežėjų) eismo saugos valdymo sistemose detalizuotus kalbos mokėjimo reikalavimus.
+
+4. Eismo saugai užtikrinti svarbias užduotis atliekantys darbuotojai, kurie ketina tiesiogiai vadovauti geležinkelių riedmenų manevravimo veiksmams, prieš paskyrimą atlikti atitinkamas užduotis turi pasitikrinti sveikatą, o dirbdami tikrintis ją Įgyvendinimo reglamento (ES) 2019/773 nustatytais atvejais ir periodiškumu. Eismo saugai užtikrinti svarbias užduotis atliekančio darbuotojo sveikatos patikra apima Įgyvendinimo reglamente (ES) 2019/773 nurodytą sveikatos, įskaitant psichikos sveikatą, patikrinimą. Vadovaudamasis šio įstatymo 6 straipsnio 4 dalyje nurodytais sveikatos apsaugos ministro nustatytais sveikatos reikalavimais ir patikrinimo tvarka, ligų sąrašu, gydytojas, turintis sveikatos apsaugos ministro nustatyta tvarka išduotą galiojančią licenciją, išduoda dokumentą, kuriuo patvirtinama, kad buvo atlikta šioje dalyje nurodyta eismo saugai užtikrinti svarbias užduotis atliekančio darbuotojo sveikatos patikra ir šis darbuotojas dėl savo sveikatos būklės galės saugiai atlikti jam pavestas pareigas.
+
+5. Kai Įgyvendinimo reglamente (ES) 2019/773 nustatytais atvejais būtina atlikti eismo saugai užtikrinti svarbias užduotis atliekančio darbuotojo psichikos sveikatos patikrą, taip pat kai eismo saugai užtikrinti svarbias užduotis atliekantis darbuotojas ketina tiesiogiai vadovauti geležinkelių riedmenų manevravimo veiksmams, šio darbuotojo psichikos sveikatos patikra atliekama šio įstatymo 24 straipsnyje nustatyta tvarka.
+
+6. Geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai) užtikrina, kad jų eismo saugai užtikrinti svarbias užduotis atliekantys darbuotojai turėtų lygias galimybes tobulinti kvalifikaciją. Jie atsako už savo eismo saugai užtikrinti svarbias užduotis atliekančių darbuotojų kvalifikaciją ir pareigų, nustatytų Deleguotajame reglamente (ES) 2018/762, taip pat, jeigu geležinkelių infrastruktūros valdytojams ir geležinkelio įmonėms (vežėjams) taikoma, Įgyvendinimo reglamente (ES) 2019/773 nurodytų pareigų, susijusių su eismo saugai užtikrinti svarbias užduotis atliekančių darbuotojų mokymu ir vertinimu, tinkamą vykdymą.
+
+7. Jeigu geležinkelių infrastruktūros valdytojas ar geležinkelio įmonė (vežėjas) eismo saugai užtikrinti svarbias užduotis paveda atlikti fiziniams asmenims, kurie nėra atitinkamo geležinkelių infrastruktūros valdytojo ar geležinkelio įmonės (vežėjo) darbuotojai, jis užtikrina, kad šie fiziniai asmenys atitiktų geležinkelių infrastruktūros valdytojo ar geležinkelio įmonės (vežėjo) darbuotojams, atliekantiems analogiškas eismo saugai užtikrinti svarbias užduotis, keliamus kvalifikacijos reikalavimus.
+
+Papildyta straipsniu:
+
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
