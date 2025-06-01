@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2025-04-01"
+last_updated: "2025-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2025-04-01 iki 2025-05-31
+Suvestinė redakcija nuo 2025-06-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -400,7 +400,11 @@ Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 
 19 straipsnis. Geležinkelio kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonos
 
-1. Geležinkelio keliams ir jų įrenginiams yra nustatomos apsaugos zonos, kurios skirstomos į viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos, privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos, siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžės) ir jų įrenginių apsaugos bei geležinkelio želdinių apsaugos zonas.
+1. Geležinkelio keliams ir jų įrenginiams yra nustatomos apsaugos zonos, kurios skirstomos į viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos, geležinkelių paslaugų įrenginiams priskiriamų geležinkelio kelių ir jų įrenginių apsaugos, privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos, siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžės) ir jų įrenginių apsaugos zonas. Geležinkelio želdiniams nustatomos geležinkelio želdinių apsaugos zonos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-200, 2025-05-15, paskelbta TAR 2025-05-16, i. k. 2025-08775
 
 2. Geležinkelio kelius ir įrenginius prižiūrinčios įmonės techniniai darbuotojai ir jų įgalioti asmenys turi teisę laisvai vaikščioti šių kelių ir jų įrenginių apsaugos zonoje, atlikti remonto, statybos ar kitus darbus, susijusius su geležinkelių transporto objektų naudojimu, važinėti, kasti žemę, kirsti medžius ir krūmus, tiesti vamzdynus, kabelius, oro elektros ir ryšių linijas. Apie tai ši įmonė turi informuoti žemės savininkus ar naudotojus ir įstatymų nustatyta tvarka atlyginti jiems padarytus nuostolius. Likviduojant geležinkelių transporto katastrofas, eismo įvykius, riktus ir jų padarinius arba siekiant jų išvengti, leidžiama privažiuoti prie geležinkelių transporto objektų taip, kaip reikia pagal situaciją, o padaryti nuostoliai atlyginami įstatymų nustatyta tvarka. Tais atvejais, kai medžiai, jų grupės, krūmai auga miško paskirties žemėje, miško naudotojai, kitais atvejais – geležinkelių infrastruktūros valdytojai turi užtikrinti, kad medžiai, jų grupės, krūmai nekeltų pavojaus geležinkelių transporto eismo saugai, priešingu atveju tokie medžiai, jų grupės, krūmai kertami, genimi susisiekimo ministro nustatyta tvarka, o nuostoliai atlyginami įstatymų nustatyta tvarka. Medžių ir krūmų pripažinimo keliančiais pavojų geležinkelių transporto eismo saugai sąlygas ir tvarką nustato susisiekimo ministras.
 
