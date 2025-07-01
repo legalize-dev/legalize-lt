@@ -4,7 +4,7 @@ identifier: "TAR.06C50B65B6B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-21"
-last_updated: "2024-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
 
@@ -114,11 +114,15 @@ Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA
 
 Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
 
-7. Žalos dalis, iš Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto neišmokėta dėl neteisėtų Valstybinio socialinio draudimo fondo administravimo įstaigų ar Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos, teritorinių ligonių kasų veiksmų (sprendimų), iš šio įstatymo 2 straipsnio 1 dalyje numatytų asignavimų neatlyginama. Šios lėšos išmokamos atitinkamai iš Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto. Iš šio įstatymo 2 straipsnio 1 dalyje numatytų asignavimų atlyginama žalos dalis, viršijanti iš Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto dėl neteisėtų veiksmų (sprendimų) išmokėtąją.
+7. Žalos dalis, iš Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto neišmokėta dėl neteisėtų Valstybinio socialinio draudimo fondo administravimo įstaigų ar Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos veiksmų (sprendimų), iš šio straipsnio 1 dalyje numatytų asignavimų neatlyginama. Šios lėšos išmokamos atitinkamai iš Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto. Iš šio straipsnio 1 dalyje numatytų asignavimų atlyginama žalos dalis, viršijanti dėl neteisėtų veiksmų (sprendimų) iš Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto išmokėtą dalį.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2794, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12737
 
 8. Iš šio įstatymo 2 straipsnio 1 dalyje numatytų asignavimų neatlyginama žala, valdžios institucijų neteisėtais veiksmais padaryta šių valdžios institucijų darbuotojams, valstybės tarnautojams, taip pat valstybės politikams, teisėjams ir valstybės pareigūnams tais atvejais, jei buvo taikomi darbo santykius, valstybės tarnybą ar specialūs jų statusą reglamentuojantys teisės aktai. Ši žala atlyginama iš žalą padariusiai institucijai skiriamų valstybės biudžeto asignavimų.
 
@@ -419,6 +423,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2004, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11580
 
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 2 ir 5-1 straipsnių pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2794, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12737
+
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 2 straipsnio pakeitimo įstatymas
 
 51 straipsnis. Atstovavimas valstybei ir Lietuvos Respublikos Vyriausybei
 
