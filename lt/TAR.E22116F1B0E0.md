@@ -4,7 +4,7 @@ identifier: "TAR.E22116F1B0E0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-13"
-last_updated: "2024-09-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
 
@@ -3647,27 +3647,23 @@ Nr. XII-1072, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10459
 
 2. Be kitų šiame Įstatyme ir Civiliniame kodekse nustatytų pareigų, bendrovės likvidatoriaus kompetencijai priskiriamos šios funkcijos:
 
-1) sudaryti finansinių ataskaitų rinkinį pagal sprendimo dėl likvidavimo priėmimo dienos duomenis ir pagal likvidavimo pabaigos dienos duomenis;
+1) parengti likvidavimo pabaigos finansinę ataskaitą pagal paskutinės bendrovės veiklos dienos iki likvidavimo pabaigos dienos duomenis. Bendrovės, tvarkančios finansinę apskaitą vadovaudamosi tarptautiniais finansinės atskaitomybės standartais, vietoj likvidavimo pabaigos finansinės ataskaitos parengia šiuose standartuose nurodytas finansines ataskaitas;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
-
-2) atsiskaičius su bendrovės kreditoriais, paskirstyti akcininkams likusį bendrovės turtą ir surašyti jo perdavimo aktus;
+2) atsiskaičius su bendrovės kreditoriais, paskirstyti akcininkams likusį bendrovės turtą ir parengti jo perdavimo aktus;
 
 3) jeigu likviduojama akcinė bendrovė, uždaryti bendrąją vertybinių popierių sąskaitą Centriniame vertybinių popierių depozitoriume;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
-
 4) perduoti likviduotos bendrovės dokumentus saugoti Dokumentų ir archyvų įstatymo nustatyta tvarka;
 
-5) sudaryti bendrovės likvidavimo aktą. Likvidavimo akte aprašoma likvidavimo eiga ir patvirtinama, kad atlikti visi su likvidavimu susiję veiksmai;
+5) parengti bendrovės likvidavimo aktą. Bendrovės likvidavimo akte aprašoma likvidavimo eiga ir patvirtinama, kad atlikti visi su likvidavimu susiję veiksmai;
 
-6) pateikti juridinių asmenų registro tvarkytojui bendrovės likvidavimo aktą ir kitus dokumentus, reikalingus likviduotai bendrovei išregistruoti;
+6) pateikti juridinių asmenų registro tvarkytojui bendrovės likvidavimo pabaigos finansinę ataskaitą arba finansines ataskaitas, kaip nurodyta šios dalies 1 punkte, bendrovės likvidavimo aktą ir kitus dokumentus, reikalingus likviduotai bendrovei išregistruoti;
 
-7) panaikinti bendrovės interneto svetainės adresą, jeigu bendrovė jį turi.
+7) inicijuoti bendrovės interneto svetainės adreso panaikinimą, jeigu bendrovė jį turi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 
 3. Jeigu bendrovės likvidavimas trunka ilgiau negu metus, po kiekvienų finansinių metų pabaigos ne vėliau kaip per 3 mėnesius likvidatorius sudaro metinių finansinių ataskaitų rinkinį ir likvidavimo ataskaitą. Metinių finansinių ataskaitų rinkinį, išskyrus atvejus, kai bendrovė likviduojama Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais, ir likvidavimo ataskaitą tvirtina eilinis visuotinis akcininkų susirinkimas. Su šiais dokumentais turi teisę susipažinti visi akcininkai ir kreditoriai.
 
