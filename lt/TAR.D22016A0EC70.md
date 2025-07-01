@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2025-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -2570,6 +2570,14 @@ Nr. XV-39, 2024-12-05, paskelbta TAR 2024-12-18, i. k. 2024-22441
 
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 7 straipsnio pakeitimo įstatymas
 
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-130, 2025-03-20, paskelbta TAR 2025-03-26, i. k. 2025-04948
+
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 14-3 straipsnio pakeitimo įstatymas
+
 141 straipsnis. Teisės į žvejybos kvotą suteikimas
 
 1. Teisė į žvejybos kvotą suteikiama aukciono būdu ir ne aukciono būdu 5 kalendorinių metų laikotarpiui. Jeigu teisė į žvejybos kvotą buvo panaikinta dėl šio įstatymo 143 straipsnio 3 dalyje nustatytų priežasčių, pakartotinai ši teisė į žvejybos kvotą (likusią neišnaudotą jos dalį) ūkio subjektams suteikiama aukciono būdu laikotarpiui, kurį būtų galiojusi panaikinta teisė į žvejybos kvotą.
@@ -2692,11 +2700,15 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 
 4) ūkio subjektas padarė:
 
-a) šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą – teisės į žvejybos kvotą galiojimas stabdomas mėnesiui;
+a) šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą – teisės į žvejybos kvotą galiojimas stabdomas 3 mėnesiams;
 
-b) du šiurkščius verslinės žvejybos vidaus vandenyse tvarkos pažeidimus per 2 metus – teisės į žvejybos kvotą galiojimas stabdomas 2 mėnesiams;
+b) šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą, kuriuo žuvų ištekliams padaryta žala viršija 140 bazinių bausmių ir nuobaudų dydžių, teisės į žvejybos kvotą galiojimas stabdomas vieniems metams.
 
-c) tris šiurkščius verslinės žvejybos vidaus vandenyse tvarkos pažeidimus per 2 metus – teisės į žvejybos kvotą galiojimas stabdomas vieniems metams.
+TAR pastaba. Už iki 2025 m. birželio 30 d. padarytą šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą pagal Lietuvos Respublikos žuvininkystės įstatymo 143 straipsnio 1 dalies 4 punkto a papunktį pradėtos teisės į žvejybos kvotą galiojimo sustabdymo procedūros, įsigaliojus šiam įstatymui, baigiamos vadovaujantis iki 2025 m. birželio 30 d. galiojusio teisinio reguliavimo nuostatomis.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-130, 2025-03-20, paskelbta TAR 2025-03-26, i. k. 2025-04948
 
 2. Teisės į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje galiojimo sustabdymas panaikinamas, kai nebelieka aplinkybių, dėl kurių buvo sustabdytas šios teisės galiojimas:
 
