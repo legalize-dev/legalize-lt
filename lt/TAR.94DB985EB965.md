@@ -4,7 +4,7 @@ identifier: "TAR.94DB985EB965"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-01"
-last_updated: "2024-09-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
 
@@ -741,7 +741,11 @@ Nr. XII-1074, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10457
 
 3) atstovauja likviduojamai kooperatinei bendrovei teisme, santykiuose su valstybės institucijomis, įstaigomis bei kitais juridiniais ir fiziniais asmenimis;
 
-4) likvidavimo laikotarpiu sudaro kooperatinės bendrovės buhalterinius balansus;
+4) likvidavimo laikotarpiu parengia kooperatinės bendrovės likvidavimo pabaigos finansinę ataskaitą pagal paskutinės šios bendrovės veiklos dienos iki likvidavimo pabaigos dienos duomenis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2822, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12144
 
 5) pagal kooperatinės bendrovės sandorius baigia vykdyti prievoles, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų apskaičiuotas sumas, tarp jų baudas ir delspinigius, ne vėliau kaip per 6 mėnesius nuo likvidavimo paskelbimo dienos ir sudaro naujus sandorius, neprieštaraujančius likviduojamos kooperatinės bendrovės veiklą reglamentuojantiems įstatymams, atsiskaito kooperatinės bendrovės narių susirinkimui jo nustatytais terminais;
 
@@ -751,7 +755,11 @@ Nr. XII-1074, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10457
 
 8) likusį turtą, praėjus 6 mėnesiams nuo likvidavimo paskelbimo dienos, įstatuose nustatyta tvarka padalija kooperatinės bendrovės nariams, atsižvelgdamas į jų pajaus dydį. Kilus ginčams tarp kooperatinės bendrovės narių dėl likusio turto padalijimo, likvidatorius (likvidacinė komisija) sustabdo turto dalijimą. Narių tarpusavio ginčai ir ginčai su likvidatoriumi sprendžiami teisme;
 
-9) pateikia juridinių asmenų registrui dokumentus, kurie reikalingi likviduotai kooperatinei bendrovei išregistruoti iš juridinių asmenų registro.
+9) pateikia juridinių asmenų registro tvarkytojui likvidavimo pabaigos finansinę ataskaitą ir kitus dokumentus, reikalingus likviduotai kooperatinei bendrovei išregistruoti iš šio registro.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2822, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12144
 
 6. Likvidatorius (likvidacinė komisija), kuris nevykdo savo pareigų ar vykdo jas netinkamai, privalo atlyginti kooperatinei bendrovei visą dėl to padarytą žalą, jei kooperatinės bendrovės įstatai nenumato kitaip. Likvidacinė komisija yra solidariai atsakinga kooperatinei bendrovei ir tretiesiems asmenims už nuostolius, kurie susidarė dėl šios komisijos kaltės.
 
