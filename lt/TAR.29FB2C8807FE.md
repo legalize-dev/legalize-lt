@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2025-01-15"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2025-01-15 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -1092,7 +1092,11 @@ Nr. XII-1525, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21159
 
 1) pranešti juridinių asmenų registrui apie sprendimą likviduoti įmonę, pateikti sprendimą patvirtinantį dokumentą ir pranešti duomenis apie likvidatorių;
 
-2) sudaryti likvidavimo laikotarpio pradžios įmonės balansą;
+2) parengti įmonės likvidavimo pabaigos finansinę ataskaitą pagal paskutinės įmonės veiklos dienos iki likvidavimo pabaigos dienos duomenis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
 
 3) baigti vykdyti įmonės prievoles, atsiskaityti su likviduojamos įmonės kreditoriais;
 
@@ -1104,7 +1108,11 @@ Nr. XII-1525, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21159
 
 7) perduoti dokumentus saugoti Archyvų įstatymo nustatyta tvarka;
 
-8) pateikti juridinių asmenų registrui įmonės likvidavimo aktą bei kitus teisės aktų nustatytus dokumentus, reikalingus likviduotai įmonei išregistruoti.
+8) pateikti juridinių asmenų registro tvarkytojui įmonės likvidavimo aktą, likvidavimo pabaigos finansinę ataskaitą bei kitus teisės aktų nustatytus dokumentus, reikalingus likviduotai įmonei išregistruoti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
 
 Septintasis skirsnis
 
