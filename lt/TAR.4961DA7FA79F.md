@@ -4,7 +4,7 @@ identifier: "TAR.4961DA7FA79F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-14"
-last_updated: "2024-07-10"
+last_updated: "2025-07-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-10 iki 2025-07-23
+Suvestinė redakcija nuo 2025-07-24
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
 
@@ -94,7 +94,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 3. Už žalą, padarytą kitoje Europos Sąjungos valstybėje narėje, draudikas moka išmoką pagal tos valstybės teisės aktuose nustatytas transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo sumas arba pagal šio straipsnio 1 dalyje nurodytas draudimo sumas, jeigu šios draudimo sumos yra didesnės.
 
-4. Draudimo įmokų dydžius nustato draudikas.
+4. Draudimo įmokų dydžius nustato draudikas. Draudikas, apskaičiuodamas draudimo įmokos dydį, neturi atsižvelgti į draudėjo pilietybę ar ankstesnę gyvenamąją vietą kitoje Europos Sąjungos valstybėje narėje. Kitoje Europos Sąjungos valstybėje narėje išduota pažyma apie su draudėjo transporto priemone susijusius žalos atlyginimo atvejus ar jų nebuvimą laikoma lygiaverte Lietuvos Respublikoje išduotai pažymai. Draudikas savo interneto svetainėje skelbia politikos, susijusios su pažymų apie su draudėjo transporto priemone susijusius žalos atlyginimo atvejus ar jų nebuvimą panaudojimu apskaičiuojant draudimo įmokų dydžius, įgyvendinimo ataskaitą. Draudimo priežiūros institucija tikrina, kaip draudikai laikosi pareigos interneto svetainėje skelbti politikos, susijusios su pažymų apie su draudėjo transporto priemone susijusius žalos atlyginimo atvejus ar jų nebuvimą panaudojimu apskaičiuojant draudimo įmokų dydžius, įgyvendinimo ataskaitą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 5. Jeigu draudėjas nustatytu laiku nesumokėjo draudimo įmokos, draudikas turi teisę reikalauti iš draudėjo mokėti už kiekvieną pavėluotą dieną 0,04 procento delspinigius nuo nesumokėtos sumos, jei draudimo sutartyje nenustatyta kitaip.
 
@@ -580,7 +584,11 @@ Draudimo sutarties rūšys yra šios:
 
 9. Draudikas, vadovaudamasis šio įstatymo nuostatomis, gali išduoti žaliąją kortelę tik transporto priemonėms, kurių įprastinė buvimo vieta yra Lietuvos Respublikos teritorijoje, ne trumpesniam kaip 15 dienų ir ne ilgesniam kaip 12 mėnesių terminui. Žalioji kortelė įsigalioja joje nurodytos dienos 00.00 valandą.
 
-10. Įprastinės draudimo sutarties galiojimo metu ar draudimo sutarties galiojimo terminui pasibaigus, draudėjas turi teisę prašyti jo civilinę atsakomybę apdraudusį draudiką išduoti pažymą apie su draudėjo transporto priemone susijusius žalos atlyginimo atvejus ar jų nebuvimą už mažiausiai 5 pastarųjų metų sutartinių santykių laikotarpį ar už kitą laikotarpį, jeigu sutartiniai santykiai truko trumpiau. Draudikas privalo neatlygintinai išduoti draudėjui tokią pažymą per 15 dienų nuo draudėjo prašymo pateikimo dienos.
+10. Įprastinės draudimo sutarties galiojimo metu ar draudimo sutarties galiojimo terminui pasibaigus, draudėjas turi teisę prašyti jo civilinę atsakomybę apdraudusį draudiką išduoti pažymą apie su draudėjo transporto priemone susijusius žalos atlyginimo atvejus ar jų nebuvimą, kurios formą tvirtina Europos Komisija, už mažiausiai 5 pastarųjų metų sutartinių santykių laikotarpį ar už kitą laikotarpį, jeigu sutartiniai santykiai truko trumpiau. Draudikas privalo neatlygintinai išduoti draudėjui tokią pažymą per 15 dienų nuo draudėjo prašymo pateikimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 10 straipsnis. Draudimo sutarties galiojimo teritorija
 
