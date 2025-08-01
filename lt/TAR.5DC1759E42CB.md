@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2025-02-01"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2025-02-01 iki 2025-07-31
+Suvestinė redakcija nuo 2025-08-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -615,6 +615,12 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
+
+661. Stacionarusis greičio matuoklis – kelyje nejudamai įtvirtintas įrenginys su programine įranga momentiniam arba vidutiniam motorinių transporto priemonių, jų junginių su priekabomis greičiui matuoti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-190, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08558
 
 67. Šaligatvis – kelio dalis pėstiesiems prie važiuojamosios kelio dalies, atskirta arba neatskirta nuo jos. Šaligatvis gali būti naudojamas dviračių, motorinių dviračių ir elektrinių mikrojudumo priemonių eismui, išskyrus savivaldybės tarybos ar jos įgalioto asmens nustatytas vietas.
 
@@ -2916,10 +2922,6 @@ Straipsnio pakeitimai:
 
 Nr. XIV-3019, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17781
 
-KETVIRTASIS SKIRSNIS
-
-EISMO DALYVIAI
-
 221 straipsnis. C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių, jų junginių su priekabomis vairuotojų, ketinančių verstis komerciniu krovinių arba keleivių vežimu, kvalifikacijos reikalavimai ir jų taikymo išimtys, vairuotojo kvalifikacijos įgijimas ir jos periodinis tobulinimas
 
 1. Vairuotojo kvalifikacija įgyjama baigus pradinį profesinį vairuotojų mokymą (formaliojo profesinio mokymo programą) ir gavus kvalifikacijai reikalingų kompetencijų įvertinimą (išlaikius vairuotojo kvalifikacijos egzaminą). Išlaikiusių kvalifikacijos egzaminą vairuotojų kvalifikacijos įgijimas patvirtinamas švietimo, mokslo ir sporto ministro nustatytos formos profesinio mokymo diplomu, kuris laikomas ir vairuotojo kvalifikacijos pažymėjimu. Vairuotojų kvalifikacija tobulinama mokantis pagal periodinio profesinio vairuotojų mokymo programą. Periodinio profesinio vairuotojų mokymo (neformaliojo profesinio mokymo programos) baigimas patvirtinamas švietimo, mokslo ir sporto ministro nustatytos formos pažymėjimu, kuris laikomas ir vairuotojo profesinės kvalifikacijos periodinio tobulinimo pažymėjimu.
@@ -3009,4 +3011,22 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 Papildyta straipsniu:
 
 Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
+
+114 straipsnis. Stacionariųjų eismo priežiūros priemonių įrengimas
+
+1. Keliuose gali būti įrengiami stacionarieji greičio matuokliai (toliau – greičio matuokliai). Greičio matuoklių įrengimo ir eksploatavimo keliuose tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+2. Greičio matuokliai keliuose įrengiami siekiant užtikrinti eismo saugumą, įvertinus kelio ar jo ruožo eismo saugumo padėtį, eismo įvykių, kilusių viršijus nustatytą greitį, aplinkybes, nustatyto greičio viršijimo atvejų mastą, eismo intensyvumą, eismo organizavimą ir kitus eismo saugumo požiūriu svarbius veiksnius ar rizikas. Greičio matuoklius keliuose įrengia kelio valdytojas.
+
+3. Greičio matuokliai, stacionariosios eismo priežiūros priemonės, kurios fiksuoja motorinės transporto priemonės ar jos junginio su priekaba greitį, ir stacionariosios eismo priežiūros priemonės, kurios fiksuoja kitus duomenis, išskyrus greitį, žymimos skirtingais kelio ženklais.
+
+4. Prieš visus įrengtus ir eksploatuojamus greičio matuoklius įrengiami (pastatomi) kelio ženklai, informuojantys apie vykdomą greičio kontrolę, bei ženklai, nurodantys ten leistiną greitį.
+
+Papildyta straipsniu:
+
+Nr. XV-190, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08558
+
+KETVIRTASIS SKIRSNIS
+
+EISMO DALYVIAI
 
