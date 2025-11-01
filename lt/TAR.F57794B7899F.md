@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2025-05-01"
+last_updated: "2025-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2025-05-01 iki 2025-10-31
+Suvestinė redakcija nuo 2025-11-01 iki 2025-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -4066,7 +4066,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
-2. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainos reguliuojamos Tarybai nustatant viršutines kainų ribas. Konkrečias perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomenines elektros energijos kainas ir tarifus nustato ir keičia paslaugos teikėjas.
+2. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainos reguliuojamos Tarybai nustatant viršutines kainų ribas. Visuomeninės elektros energijos kainos viršutinės ribos gali būti diferencijuojamos pagal vartotojų grupes, siekiant apsaugoti pažeidžiamų vartotojų teises ir teisėtus interesus. Konkrečias perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomenines elektros energijos kainas ir tarifus nustato ir keičia paslaugos teikėjas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-167, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07427
 
 3. Nustatant šio straipsnio 2 dalyje nurodytas kainų viršutines ribas ir įvertinus kiekvienos energijos vartojimo efektyvumą didinančios priemonės sąnaudas ir naudą, turi būti numatytos būtinos ir pagrįstos tinklų operatorių reguliuojamos veiklos investicijos į energijos vartojimo efektyvumo didinimo priemones, įskaitant išmaniųjų elektros tinklų plėtrą ir išmaniųjų apskaitos sistemų diegimą, kurios skatintų tinklų operatorius efektyviau vykdyti reguliuojamą veiklą ir teikti tinklų naudotojams tokias paslaugas, kurios sudaro sąlygas toliau diegiant išmaniuosius elektros tinklus įgyvendinti energijos vartojimo efektyvumą didinančias priemones. Tokios tinklų operatorių teikiamos paslaugos negali turėti neigiamos įtakos sistemos saugumui ir patikimumui.
 
