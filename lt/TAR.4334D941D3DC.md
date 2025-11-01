@@ -4,7 +4,7 @@ identifier: "TAR.4334D941D3DC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-05-23"
-last_updated: "2025-01-01"
+last_updated: "2025-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4334D941D3DC"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS PLUOŠTINIŲ KANAPIŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-10-31
+Suvestinė redakcija nuo 2025-11-01
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 61-3025, i. k. 1131010ISTA0XII-336
 
@@ -73,7 +73,11 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 6. Pluoštinių kanapių augintojas – žemės ūkio valdą Lietuvos Respublikos žemės ūkio ir kaimo verslo registre įregistravęs fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, auginantis šio įstatymo reglamentuojamas pluoštines kanapes, išskyrus pluoštines kanapes sodininkystei.
 
-7. Pluoštinių kanapių gaminiai – galutiniam vartojimui skirtas iš pluoštinių kanapių produktų pagamintas maistas, pašarai, kosmetika ir kiti gaminiai su pluoštinių kanapių produktais.
+7. Pluoštinių kanapių gaminiai – galutiniam vartojimui skirtas maistas, pašarai, kosmetikos ir kiti gaminiai, pagaminti naudojant pluoštinių kanapių produktus ir (arba) pluoštinių kanapių tarpinius produktus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 8. Pluoštinių kanapių gaminių partija – grupė pluoštinių kanapių gaminių vienetų, kuriems būdingos vienodos savybės, pavyzdžiui, kilmė, rūšis, pakuotės tipas, pakuotojas, siuntėjas arba ženklinimas, o gamybos proceso atveju – vieno gamintojo taikant vienodus gamybos parametrus pagamintas produkcijos vienetas arba keletas tokių vienetų, pagamintų vienas po kito ir laikomų kartu.
 
@@ -83,7 +87,11 @@ Papildyta straipsnio dalimi:
 
 Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
-9. Pluoštinių kanapių produktai – perdirbti skirtos žaliavinės pluoštinių kanapių dalys ir pluoštinių kanapių sėklos.
+9. Pluoštinių kanapių produktai – perdirbti skirtos žaliavinės pluoštinių kanapių dalys ir sėklos arba perdirbant žaliavines pluoštinių kanapių dalis ir sėklas susidarančios pluoštinių kanapių gaminių gamybai skirtos medžiagos, kurios nėra skirtos galutiniam vartojimui ar mažmeninei prekybai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 10. Pluoštinių kanapių produktų importo licencija (toliau – licencija) – Žemės ūkio agentūros prie Žemės ūkio ministerijos išduodamas dokumentas, kuriuo suteikiama teisė importuoti į Lietuvos Respubliką pluoštinių kanapių produktus, nurodytus Reglamento (ES) Nr. 1308/2013 189 straipsnio 1 dalies a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus.
 
@@ -99,7 +107,11 @@ Nr. XIV-2065, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12748
 
 14. Pluoštinių kanapių sėklos – sėklos, skirtos pluoštinėms kanapėms dauginti ir auginti, taip pat tokios sėklos, skirtos vartoti maistui ar pašarams arba gaminiams iš jų gaminti.
 
-15. Tarpiniai pluoštinių kanapių produktai – medžiagos, susidarančios perdirbant pluoštinių kanapių produktus, kol pagaminamas pluoštinių kanapių gaminys.
+15. Pluoštinių kanapių tarpiniai produktai – medžiagos, susidarančios perdirbant pluoštinių kanapių produktus, kol pagaminamas pluoštinių kanapių gaminys ar kitas pluoštinių kanapių produktas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 151. Tarpinis pluoštinių kanapių pasėlis – tarp dviejų pagrindinių pasėlių sėjomainos lauke po kalendorinių metų birželio 30 d. pasėtas pluoštinių kanapių pasėlis.
 
@@ -123,21 +135,37 @@ PLUOŠTINIŲ KANAPIŲ AUGINIMAS, PLUOŠTINIŲ KANAPIŲ PRODUKTŲ GAVIMAS, PLUOŠ
 
 3 straipsnis. Pluoštinių kanapių auginimo ir auginimo priežiūros reikalavimai
 
-1. Pluoštines kanapes leidžiama auginti pluoštinių kanapių produktų ir pluoštinių kanapių gaminių gamybai, sodininkystei, kaip tarpinius pasėlius arba moksliniais eksperimentiniais tikslais, taip pat selekcijos tikslais, kai siekiama jas įrašyti į Nacionalinį augalų veislių sąrašą, bei naujai sukurtų veislių ūkinio vertingumo tyrimo tikslais, šiame straipsnyje bei žemės ūkio ministro nustatyta tvarka.
+1. Pluoštines kanapes leidžiama auginti pluoštinių kanapių produktų ir pluoštinių kanapių gaminių gamybai, sodininkystei, kaip tarpinius pasėlius arba mokslinių tyrimų ir eksperimentinės plėtros tikslais, taip pat selekcijos tikslais, kai siekiama jas įrašyti į Nacionalinį augalų veislių sąrašą, bei naujai sukurtų veislių ūkinio vertingumo tyrimo tikslais, šiame straipsnyje bei žemės ūkio ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 2. Pluoštinių kanapių auginimą prižiūri Valstybinė augalininkystės tarnyba prie Žemės ūkio ministerijos (toliau – Tarnyba).
 
 3. Pluoštinių kanapių augintojai privalo:
 
-1) auginti pluoštines kanapes tik atvirame grunte. Mokslo ir studijų institucijos pluoštines kanapes, auginamas moksliniais eksperimentiniais, selekcijos tikslais, siekiant jas įrašyti į Nacionalinį augalų veislių sąrašą, gali auginti uždaruose gruntuose ar laboratorijose turėdami Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatyme nustatyta tvarka išduotą leidimą;
+1) auginti pluoštines kanapes tik atvirame grunte. Mokslo ir studijų institucijos ir pluoštinių kanapių augintojai pluoštines kanapes, auginamas mokslinių tyrimų ir eksperimentinės plėtros ir (arba) selekcijos tikslais, siekiant jas įrašyti į Nacionalinį augalų veislių sąrašą, gali auginti uždaruose gruntuose ar laboratorijose turėdami Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatyme nustatyta tvarka išduotą leidimą;
 
-2) auginti tik įtrauktų į Bendrąjį žemės ūkio augalų rūšių veislių katalogą, paskelbtą pagal Direktyvos 2002/53/EB 17 straipsnį, veislių augalus, sėjai naudodami tik žemės ūkio ministro patvirtintus aliejinių ir pluoštinių augalų sėklos privalomuosius kokybės reikalavimus atitinkančią pluoštinių kanapių sėklą. Ši nuostata netaikoma mokslo ir studijų institucijoms, auginančioms pluoštines kanapes moksliniais eksperimentiniais tikslais, ir pluoštinių kanapių augintojams, auginantiems pluoštines kanapes selekcijos tikslais ir Tarnybos atliekamo naujai sukurtų veislių ūkinio vertingumo tyrimo, siekiant jas įrašyti į Nacionalinį augalų veislių sąrašą, bei EBPO sėklos sertifikato išdavimo tikslais;
+Straipsnio punkto pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
+
+2) auginti tik įtrauktų į Bendrąjį žemės ūkio augalų rūšių veislių katalogą, paskelbtą pagal Direktyvos 2002/53/EB 17 straipsnį, veislių augalus, sėjai naudodami tik žemės ūkio ministro patvirtintus aliejinių ir pluoštinių augalų sėklos privalomuosius kokybės reikalavimus atitinkančią pluoštinių kanapių sėklą. Ši nuostata netaikoma mokslo ir studijų institucijoms, auginančioms pluoštines kanapes mokslinių tyrimų ir eksperimentinės plėtros tikslais, ir pluoštinių kanapių augintojams, auginantiems pluoštines kanapes selekcijos tikslais ir Tarnybos atliekamo naujai sukurtų veislių ūkinio vertingumo tyrimo, siekiant jas įrašyti į Nacionalinį augalų veislių sąrašą, bei EBPO sėklos sertifikato išdavimo tikslais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 3) žemės ūkio ministro patvirtintame Pluoštinių kanapių auginimo priežiūros tvarkos apraše (toliau – Auginimo priežiūros tvarkos aprašas) nustatyta tvarka teikti informaciją Tarnybai apie numatomą pluoštinių kanapių auginimą, pasėtus plotus ir informuoti apie pluoštinių kanapių žydėjimą;
 
 4) deklaruoti pluoštinių kanapių pasėlių plotus žemės ūkio ministro nustatyta žemės ūkio naudmenų deklaravimo tvarka;
 
-5) vadovaudamiesi Auginimo priežiūros tvarkos aprašu, pluoštinių kanapių produktus laikyti tik deklaruotuose sandėliuose, laikymo ar klojėjimo vietose arba, pluoštinių kanapių pasėlius palikę žiemoti laukuose nenupjautus, informuoti apie tai Tarnybą;
+5) vadovaudamiesi Auginimo priežiūros tvarkos aprašu, pluoštinių kanapių produktus, išskyrus perdirbant žaliavines pluoštinių kanapių dalis ir sėklas susidarančias medžiagas, laikyti tik deklaruotuose sandėliuose, laikymo ar klojėjimo vietose arba, pluoštinių kanapių pasėlius palikę žiemoti laukuose nenupjautus, informuoti apie tai Tarnybą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 6) vadovaudamiesi Auginimo priežiūros tvarkos aprašu, teikti Tarnybai išaugintų ir parduotų pluoštinių kanapių ar jų dalių kiekių ataskaitas;
 
@@ -145,7 +173,11 @@ PLUOŠTINIŲ KANAPIŲ AUGINIMAS, PLUOŠTINIŲ KANAPIŲ PRODUKTŲ GAVIMAS, PLUOŠ
 
 4. Tarnyba, vadovaudamasi Auginimo priežiūros tvarkos aprašu, apie nustatytas auginamų pluoštinių kanapių pasėlių plotų duomenų neatitiktis, laboratoriniais tyrimais nustatytą viršytą leidžiamą 0,3 procento THC kiekio pluoštinėse kanapėse ribą, kai nevykdomas pluoštinių kanapių sunaikinimo reikalavimas, privalo teikti informaciją Policijos departamentui prie Vidaus reikalų ministerijos (toliau – Policijos departamentas).
 
-5. Mėginius THC kiekiui pluoštinėse kanapėse nustatyti, vadovaudamasi THC kiekio nustatymo tyrimo metodu, išdėstytu Deleguotojo reglamento (ES) 2022/126 I priede, tiria Nacionalinio maisto ir veterinarijos rizikos vertinimo instituto laboratorija.
+5. Mėginius THC kiekiui pluoštinėse kanapėse nustatyti, vadovaudamasi THC kiekio nustatymo tyrimo metodu, išdėstytu Deleguotojo reglamento (ES) 2022/126 I priede, tiria Nacionalinio maisto ir veterinarijos rizikos vertinimo instituto laboratorija arba kita Lietuvos Respublikos laboratorija, veikianti pagal standartą LST EN ISO/IEC 17025 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ ir pagal šį standartą akredituota nacionalinės akreditacijos įstaigos, veikiančios pagal 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 765/2008, nustatantį su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinantį Reglamentą (EEB) Nr. 339/93, su visais pakeitimais, ar Europos Sąjungos valstybės narės laboratorija, veikianti pagal standartą EN ISO/IEC 17025 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ ir pagal šį standartą akredituota nacionalinės akreditacijos įstaigos, veikiančios pagal Reglamentą (EB) Nr. 765/2008, (toliau – kita akredituota laboratorija).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 6. Tarnyba žemės ūkio ministro nustatyta tvarka privalo iš ne mažiau kaip 30 procentų deklaruotų pluoštinių kanapių pasėlių plotų, išskyrus pluoštines kanapes sodininkystei, imti mėginius THC kiekiui pluoštinėse kanapėse nustatyti, vadovaudamasi mėginių ėmimo metodika, nustatyta Deleguotojo reglamento (ES) 2022/126 I priede.
 
@@ -163,11 +195,15 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 1. Gaminti ir tiekti rinkai galima tik iš šio įstatymo reglamentuojamų pluoštinių kanapių gautus ir pagamintus šio įstatymo reglamentuojamus pluoštinių kanapių produktus ir pluoštinių kanapių gaminius.
 
-11. Ant tiekiamų rinkai pluoštinių kanapių gaminių pakuotės turi būti aiškiai nurodyta galutinė gaminio vartojimo paskirtis ir vartojimo būdas.
+11. Ant tiekiamų Lietuvos Respublikos rinkai pluoštinių kanapių gaminių pakuotės turi būti aiškiai nurodyta galutinė gaminio vartojimo paskirtis ir vartojimo būdas.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 2. Tiekiamos rinkai pluoštinių kanapių sėklos pakuotės etiketėje, jeigu sėkla tiekiama iš kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių (toliau – kitos Europos Sąjungos valstybės narės), turi būti nurodomas veislės pavadinimas.
 
@@ -181,19 +217,23 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
-4. Pluoštinių kanapių gaminiuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) neturi viršyti leidžiamos 0,2 procento ribos. Į sveikatos apsaugos ministro ir žemės ūkio ministro patvirtintą sąrašą įrašytų konkrečių galutiniam vartojimui skirtų pluoštinių kanapių gaminiuose ar jų kategorijose gali būti nustatyti mažesni didžiausi leidžiami THC kiekiai (toliau – Sąrašas). Į Sąrašą įrašytuose galutiniam vartojimui skirtuose pluoštinių kanapių gaminiuose didžiausias leidžiamas THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) nustatomas atsižvelgiant į keliamą riziką ir galimą kenksmingą poveikį žmogaus ar gyvūno sveikatai, neviršijant Europos maisto saugos tarnybos rekomenduojamų didžiausių leidžiamų THC kiekių. Kiekviena Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje pagaminta ir Lietuvos Respublikos rinkai tiekiama pluoštinių kanapių gaminių partija turi turėti Nacionalinio maisto ir veterinarijos rizikos vertinimo instituto arba Europos Sąjungos valstybių narių akredituotos laboratorijos išduotą laboratorinių tyrimų protokolą su tyrimų rezultatų vertinimo išvada; laboratorinių tyrimų protokolu patvirtinama, kad pluoštinių kanapių gaminiuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) neviršija didžiausio leidžiamo THC kiekio. Laboratorinių tyrimų protokolo su tyrimų rezultatų vertinimo išvada dėl gaminių, pagamintų iš pluoštinių kanapių sėklų ar pluošto, nereikalaujama.
+4. Tiekiamuose Lietuvos Respublikos rinkai pluoštinių kanapių gaminiuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) neturi viršyti leidžiamos 0,2 procento ribos, o tiekiamuose Lietuvos Respublikos rinkai tolesnei pluoštinių kanapių gaminių gamybai skirtuose pluoštinių kanapių produktuose – 0,3 procento ribos. Į sveikatos apsaugos ministro ir žemės ūkio ministro tvirtinamą sąrašą įrašytuose konkrečiuose galutiniam vartojimui skirtų pluoštinių kanapių gaminiuose ar jų kategorijose gali būti nustatytas mažesnis didžiausias leidžiamas THC kiekis (toliau – Sąrašas). Į Sąrašą įrašytuose galutiniam vartojimui skirtuose pluoštinių kanapių gaminiuose didžiausias leidžiamas THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) nustatomas atsižvelgiant į keliamą riziką ir galimą kenksmingą poveikį žmogaus ar gyvūno sveikatai, neviršijant Europos maisto saugos tarnybos rekomenduojamo didžiausio leidžiamo THC kiekio. Kiekviena Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje pagaminta ir Lietuvos Respublikos rinkai tiekiama pluoštinių kanapių gaminių ir pluoštinių kanapių produktų partija turi turėti Nacionalinio maisto ir veterinarijos rizikos vertinimo instituto arba kitos akredituotos laboratorijos išduotą laboratorinių tyrimų protokolą su tyrimų rezultatų vertinimo išvada; laboratorinių tyrimų protokolu patvirtinama, kad pluoštinių kanapių gaminiuose ir pluoštinių kanapių produktuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) neviršija didžiausio leidžiamo THC kiekio. Laboratorinių tyrimų protokolo su tyrimų rezultatų vertinimo išvada dėl gaminių ir produktų, pagamintų iš pluoštinių kanapių sėklų ar pluošto, nereikalaujama.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 5. Pluoštinių kanapių gaminiai, kuriems taikomas 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/2283 dėl naujų maisto produktų, iš dalies keičiantis Europos Parlamento ir Tarybos reglamentą (ES) Nr. 1169/2011 ir panaikinantis Europos Parlamento ir Tarybos reglamentą (EB) Nr. 258/97 ir Komisijos reglamentą (EB) Nr. 1852/2001, turi atitikti visus šiame reglamente numatytus reikalavimus.
 
-6. Jeigu pluoštinių kanapių gaminių gamybos proceso metu susidaro pluoštinių kanapių tarpiniai produktai, kuriuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) viršija leidžiamą 0,2 procento ribą, tokią gamybą vykdyti turi teisę tik Lietuvos Respublikoje įsteigti juridiniai asmenys ir užsienio valstybių juridinių asmenų ir kitų organizacijų padaliniai, įsteigti Lietuvoje, gavę leidimą vykdyti pluoštinių kanapių gaminių gamybos, kurios metu susidaro pluoštinių kanapių tarpiniai produktai, kuriuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) viršija leidžiamą 0,2 procento ribą (toliau – pluoštinių kanapių gaminių gamyba), veiklą (toliau – leidimas). Leidimą išduoda, atsisako išduoti, sustabdo ar panaikina jo galiojimą, panaikina galiojimo sustabdymą Lietuvos Respublikos Vyriausybės įgaliota institucija, vadovaudamasi Vyriausybės patvirtintomis Pluoštinių kanapių gaminių gamybos veiklos taisyklėmis (toliau – Pluoštinių kanapių gaminių gamybos veiklos taisyklės). Už leidimų išdavimą ir šių leidimų tikslinimą imama valstybės rinkliava. Pluoštinių kanapių tarpiniai produktai, kuriuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9‑THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) viršija leidžiamą 0,2 procento ribą, turi būti įtraukiami į apskaitą ir sunaudojami pluoštinių kanapių gaminiui, atitinkančiam šio įstatymo reikalavimus, gaminti arba tvarkomi kaip atliekos, įskaitant šalinimą, Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka.
+6. Jeigu pluoštinių kanapių produktų ir (arba) gaminių gamybos proceso metu susidaro pluoštinių kanapių tarpiniai produktai ir (arba) naudojamos perdirbant žaliavines pluoštinių kanapių dalis ir sėklas susidarančios medžiagos, kuriuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) viršija leidžiamą 0,2 procento ribą, tokią gamybą vykdyti turi teisę tik Lietuvos Respublikoje įsteigti juridiniai asmenys ir užsienio valstybių juridinių asmenų ir kitų organizacijų padaliniai, įsteigti Lietuvos Respublikoje, gavę leidimą vykdyti pluoštinių kanapių produktų ir (arba) gaminių gamybos, kurios metu susidaro pluoštinių kanapių tarpiniai produktai ir (arba) naudojamos perdirbant žaliavines pluoštinių kanapių dalis ir sėklas susidarančios medžiagos, kuriuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) viršija leidžiamą 0,2 procento ribą, veiklą, (toliau – leidimas). Leidimą išduoda, atsisako išduoti, sustabdo ar panaikina jo galiojimą, panaikina galiojimo sustabdymą Lietuvos Respublikos Vyriausybės įgaliota institucija, vadovaudamasi Vyriausybės patvirtintomis Pluoštinių kanapių produktų ir (arba) gaminių gamybos veiklos taisyklėmis (toliau – Pluoštinių kanapių gaminių gamybos veiklos taisyklės). Už leidimų išdavimą ir šių leidimų tikslinimą imama valstybės rinkliava. Pluoštinių kanapių tarpiniai produktai ir (arba) perdirbant žaliavines pluoštinių kanapių dalis ir sėklas susidarančios medžiagos, kuriuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) viršija leidžiamą 0,2 procento ribą, turi būti įtraukiami į apskaitą ir naudojami pluoštinių kanapių produktui ir (arba) gaminiui, atitinkančiam šio įstatymo reikalavimus, gaminti arba tvarkomi kaip atliekos, įskaitant šalinimą, Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka. Leidimo turėtojai Vyriausybės įgaliotos institucijos nustatyta tvarka turi teikti informaciją Vyriausybės įgaliotai institucijai apie perdirbant žaliavines pluoštinių kanapių dalis ir sėklas susidarančių medžiagų, kuriose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) viršija leidžiamą 0,2 procento ribą, apyvartą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 7. Lietuvos Respublikoje įsteigti juridiniai asmenys ir užsienio valstybių juridinių asmenų ir kitų organizacijų padaliniai, įsteigti Lietuvoje (toliau – juridinis asmuo), norintys gauti leidimą vykdyti pluoštinių kanapių gaminių gamybos veiklą, turi būti nepriekaištingos reputacijos pagal šio įstatymo 6 straipsnio 1 dalyje numatytus reikalavimus, turėti patalpas, kuriose bus vykdoma pluoštinių kanapių gaminių gamybos veikla pagal leidimą, atitinkančias saugumo reikalavimus, nustatytus Pluoštinių kanapių gaminių gamybos veiklos taisyklėse, ir pateikti Vyriausybės įgaliotai institucijai prašymą išduoti leidimą ir dokumentus, kuriuose nurodoma:
 
@@ -264,6 +304,12 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 20. Pluoštinių kanapių gaminiai, be šiame įstatyme numatytų reikalavimų, taip pat turi atitikti konkrečius gaminius reglamentuojančiuose teisės aktuose nustatytus reikalavimus. Iš pluoštinių kanapių produktų gaunamiems pašarams ir pašarų priedams taikomi 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1831/2003 dėl priedų, skirtų naudoti gyvūnų mityboje, su visais pakeitimais, 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 183/2005, nustatančio pašarų higienos reikalavimus, su visais pakeitimais, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiančio reglamentą (EB) Nr. 1831/2003 ir panaikinančio direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EB, 93/74/EEB, 93/113/EB, 96/25/EB bei sprendimą 2004/217/EB, su visais pakeitimais ir žemės ūkio ministro patvirtintų Pašarų privalomųjų saugos reikalavimų kontrolės įgyvendinimo taisyklių reikalavimai.
+
+21. Lietuvos Respublikoje įsteigti juridiniai asmenys ir užsienio valstybių juridinių asmenų ir kitų organizacijų padaliniai, įsteigti Lietuvos Respublikoje, gaminantys pluoštinių kanapių gaminius arba produktus, įvežantys arba importuojantys, išvežantys arba eksportuojantys pluoštinių kanapių gaminius arba produktus, Vyriausybės įgaliotai institucijai jos nustatyta tvarka teikia informaciją apie pluoštinių kanapių gaminių ir produktų, išskyrus gaminius ir produktus, pagamintus iš pluoštinių kanapių sėklų ar pluošto, apyvartą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 TREČIASIS SKIRSNIS
 
@@ -495,65 +541,77 @@ KETVIRTASIS SKIRSNIS
 
 VEIKLOS, SUSIJUSIOS SU PLUOŠTINIŲ KANAPIŲ GAMINIŲ GAMYBA IR JŲ TIEKIMU RINKAI, PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ŠIAI VEIKLAI KELIAMŲ REIKALAVIMŲ PAŽEIDIMUS
 
-12 straipsnis. Pluoštinių kanapių gaminių gamybos ir jų tiekimo rinkai reikalavimų laikymosi priežiūra ir atsakomybė už šių reikalavimų pažeidimus
+12 straipsnis. Pluoštinių kanapių produktų ir (ar) gaminių gamybos ir jų tiekimo rinkai reikalavimų laikymosi priežiūra ir atsakomybė už šių reikalavimų pažeidimus
 
-1. Pluoštinių kanapių gaminių gamybos ir pluoštinių kanapių gaminių tiekimo rinkai reikalavimų pažeidimus nagrinėti ir skirti poveikio priemones juridiniams asmenims pagal savo kompetenciją turi teisę Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba, Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos ir Valstybinė vartotojų teisių apsaugos tarnyba.
+1. Pluoštinių kanapių produktų ir (ar) gaminių gamybos ir pluoštinių kanapių produktų ir (ar) gaminių tiekimo rinkai reikalavimų pažeidimus nagrinėti ir skirti poveikio priemones juridiniams asmenims pagal savo kompetenciją turi teisę Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba, Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos ir Valstybinė vartotojų teisių apsaugos tarnyba.
 
-2. Šio straipsnio 1 dalyje nurodytos institucijos, vykdydamos pluoštinių kanapių gaminių gamybos ir pluoštinių kanapių gaminių tiekimo rinkai priežiūrą, gali patikrinimų metu savo nustatyta tvarka imti ėminius, atlikti tyrimus ir matavimus, fiksuoti patikrinimą garso ir (ar) vaizdo fiksavimo priemonėmis, neatlygintinai gauti pluoštinių kanapių tarpinių produktų ir rinkai tiekiamų pluoštinių kanapių gaminių pavyzdžius tyrimams, jų sudėčiai ir savybėms tirti.
+2. Šio straipsnio 1 dalyje nurodytos institucijos, vykdydamos pluoštinių kanapių produktų ir (ar) gaminių gamybos ir pluoštinių kanapių produktų ir (ar) gaminių tiekimo rinkai priežiūrą, turi teisę patikrinimų metu savo nustatyta tvarka imti ėminius, atlikti tyrimus ir matavimus, fiksuoti patikrinimą garso ir (ar) vaizdo fiksavimo priemonėmis, neatlygintinai gauti pluoštinių kanapių tarpinių produktų ir rinkai tiekiamų pluoštinių kanapių produktų ir (ar) gaminių pavyzdžius tyrimams, jų sudėčiai ir savybėms tirti.
 
-3. Šio straipsnio 1 dalyje nurodytos institucijos, nustačiusios, kad juridiniai asmenys vykdo pluoštinių kanapių gaminių gamybą neturėdami šio įstatymo 4 straipsnio 6 dalyje nurodyto leidimo, ne vėliau kaip kitą darbo dieną po šios veikos nustatymo dienos apie tai informuoja Policijos departamentą.
+3. Šio straipsnio 1 dalyje nurodytos institucijos, nustačiusios, kad juridiniai asmenys vykdo pluoštinių kanapių produktų ir (ar) gaminių gamybą neturėdami šio įstatymo 4 straipsnio 6 dalyje nurodyto leidimo, ne vėliau kaip kitą darbo dieną po šios veikos nustatymo dienos apie tai informuoja Policijos departamentą.
 
-4. Už šio įstatymo 4 straipsnio 6 dalyje nurodytų Pluoštinių kanapių gaminių gamybos veiklos taisyklių reikalavimų pažeidimus juridiniam asmeniui skiriama nuo 500 iki 1 000 eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys baudžiami nuo 1 000 iki 2 000 eurų bauda.
+4. Už šio įstatymo 4 straipsnio 6 dalyje nurodytų Pluoštinių kanapių gaminių gamybos veiklos taisyklių reikalavimų pažeidimus juridiniam asmeniui skiriama nuo 500 iki 1 000 eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys baudžiami nuo 1 000 iki 2 000 eurų bauda.
 
-5. Už šio įstatymo 4 straipsnio 11, 3 ir 4 dalyse, 5 straipsnio 6 ir 7 dalyse nustatytų pluoštinių kanapių gaminių tiekimo rinkai ir importo reikalavimų pažeidimus juridiniam asmeniui skiriama nuo 500 iki 1 000 eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniam asmeniui skiriama nuo 1 000 iki 2 000 eurų bauda.
+5. Už šio įstatymo 4 straipsnio 11, 3 ir 4 dalyse, 5 straipsnio 6 ir 7 dalyse nustatytų pluoštinių kanapių produktų ir (ar) gaminių tiekimo rinkai ir importo reikalavimų pažeidimus juridiniam asmeniui skiriama nuo 500 iki 1 000 eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniam asmeniui skiriama nuo 1 000 iki 2 000 eurų bauda.
 
-6. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į pažeidimo pobūdį, mastą ir šio straipsnio 7 ir 8 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių ir nėra ją sunkinančių aplinkybių, baudos dydis mažinamas nuo jos vidurkio iki minimalaus dydžio, o jeigu yra atsakomybę sunkinančių aplinkybių ir nėra ją lengvinančių aplinkybių, baudos dydis didinamas nuo jos vidurkio iki maksimalaus dydžio. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimą, nutarime.
+6. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į pažeidimo pobūdį, mastą ir šio straipsnio 7 ir 8 dalyse nurodytas atsakomybę lengvinančias ir sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių ir nėra ją sunkinančių aplinkybių, baudos dydis mažinamas nuo jos vidurkio iki minimalaus dydžio, o jeigu yra atsakomybę sunkinančių aplinkybių ir nėra ją lengvinančių aplinkybių, baudos dydis didinamas nuo jos vidurkio iki maksimalaus dydžio. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimą, nutarime.
 
 7. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą juridiniai asmenys:
 
 1) savo noru užkirto kelią žalingoms pažeidimo pasekmėms;
 
-2) bendradarbiavo su šio straipsnio 1 dalyje nurodytomis institucijomis pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo tyrimo metu;
+2) bendradarbiavo su šio straipsnio 1 dalyje nurodytomis institucijomis pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo tyrimo metu;
 
 3) savo noru atlygino nuostolius ar pašalino padarytą žalą.
 
 8. Atsakomybę sunkinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą juridiniai asmenys:
 
-1) kliudė vykdyti pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo tyrimą;
+1) kliudė vykdyti pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo tyrimą;
 
 2) slėpė padarytą pažeidimą;
 
-3) toliau pažeidinėjo pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus, nepaisydami šio straipsnio 1 dalyje nurodytos institucijos nurodymo nutraukti neteisėtus veiksmus.
+3) toliau pažeidinėjo pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus, nepaisydami šio straipsnio 1 dalyje nurodytos institucijos nurodymo nutraukti neteisėtus veiksmus.
 
-13 straipsnis. Pluoštinių kanapių gaminių gamybos ir jų tiekimo rinkai reikalavimų pažeidimo protokolas ir bylų nagrinėjimo terminai
+Straipsnio pakeitimai:
 
-1. Šio įstatymo 12 straipsnio 1 dalyje nurodytų institucijų įgalioti darbuotojai (pareigūnai), nustatę pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimą, surašo protokolą, kuriame nurodoma:
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
+
+13 straipsnis. Pluoštinių kanapių produktų ir (ar) gaminių gamybos ir jų tiekimo rinkai reikalavimų pažeidimo protokolas ir bylų nagrinėjimo terminai
+
+1. Šio įstatymo 12 straipsnio 1 dalyje nurodytų institucijų įgalioti darbuotojai (pareigūnai), nustatę pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimą, surašo protokolą, kuriame nurodoma:
 
 1) jo surašymo data ir vieta;
 
-2) pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo tyrimą atlikusio ir protokolą surašiusio asmens pareigos;
+2) pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo tyrimą atlikusio ir protokolą surašiusio asmens pareigos;
 
-3) duomenys apie asmenį, įtariamą pažeidusį pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus (įtariamo pažeidėjo pavadinimas, kodas, buveinė, telefono ryšio numeris, leidimo numeris ir jo išdavimo data);
+3) duomenys apie asmenį, įtariamą pažeidusį pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus, (įtariamo pažeidėjo pavadinimas, kodas, buveinė, telefono ryšio numeris, leidimo numeris ir jo išdavimo data);
 
-4) pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo padarymo vieta, laikas ir esmė;
+4) pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo padarymo vieta, laikas ir esmė;
 
-5) šio įstatymo straipsnis, straipsnio dalis, nustatantys atsakomybę už pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimą;
+5) šio įstatymo straipsnis, straipsnio dalis, nustatantys atsakomybę už pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimą;
 
-6) pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimą pagrindžiantys dokumentai ir kiti įrodymai, kuriais remiantis yra nustatytas pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimas;
+6) pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimą pagrindžiantys dokumentai ir kiti įrodymai, kuriais remiantis yra nustatytas pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimas;
 
-7) asmens, įtariamo pažeidusio pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus (įtariamo pažeidėjo), paaiškinimas dėl pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo, jo aplinkybių;
+7) asmens, įtariamo pažeidusio pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus (įtariamo pažeidėjo), paaiškinimas dėl pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo, jo aplinkybių;
 
 8) bylos nagrinėjimo data, laikas ir vieta, jeigu tai žinoma protokolo surašymo metu;
 
 9) kiti bylai išnagrinėti būtini duomenys.
 
-2. Šio įstatymo 12 straipsnio 1 dalyje nurodytos institucijos bylas išnagrinėja ir baudas paskiria ne vėliau kaip per du mėnesius nuo šio straipsnio 1 dalyje nurodyto protokolo surašymo dienos. Baudos už pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimus gali būti skiriamos ne vėliau kaip per trejus metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per trejus metus nuo jo paaiškėjimo dienos.
+2. Šio įstatymo 12 straipsnio 1 dalyje nurodytos institucijos bylas išnagrinėja ir baudas paskiria ne vėliau kaip per 2 mėnesius nuo šio straipsnio 1 dalyje nurodyto protokolo surašymo dienos. Baudos už pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimus gali būti skiriamos ne vėliau kaip per trejus metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per trejus metus nuo jo paaiškėjimo dienos.
+
+Straipsnio pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 14 straipsnis. Bylos nagrinėjimo proceso dalyviai
 
 1. Nagrinėjant bylą institucijoje, skiriančioje baudas už šio įstatymo 12 straipsnio 4 ir 5 dalyse nurodytus pažeidimus, dalyvauja:
 
-1) asmuo, įtariamas pažeidęs pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus (įtariamas pažeidėjas);
+1) asmuo, įtariamas pažeidęs pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus, (įtariamas pažeidėjas);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 2) šio įstatymo 12 straipsnio 1 dalyje nurodytos institucijos sprendimu kiti asmenys, su kurių interesais tiesiogiai susijusi nagrinėjama byla;
 
@@ -565,15 +623,31 @@ VEIKLOS, SUSIJUSIOS SU PLUOŠTINIŲ KANAPIŲ GAMINIŲ GAMYBA IR JŲ TIEKIMU RINK
 
 3. Proceso šalims gali atstovauti jų įgalioti atstovai.
 
-15 straipsnis. Pranešimas apie pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo bylos nagrinėjimą
+15 straipsnis. Pranešimas apie pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo bylos nagrinėjimą
 
-Apie pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo bylos nagrinėjimo vietą ir laiką proceso šalims turi būti pranešta raštu ir šio įstatymo 13 straipsnio 1 dalyje nurodyto protokolo kopija joms turi būti pateikta ne vėliau kaip prieš 10 darbo dienų iki posėdžio pradžios. Kartu pranešama, kokia tvarka proceso šalys gali susipažinti su bylos medžiaga, teikti rašytinius ir žodinius paaiškinimus.
+Apie pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo bylos nagrinėjimo vietą ir laiką proceso šalims turi būti pranešta raštu ir šio įstatymo 13 straipsnio 1 dalyje nurodyto protokolo kopija joms turi būti pateikta ne vėliau kaip prieš 10 darbo dienų iki posėdžio pradžios. Kartu pranešama, kokia tvarka proceso šalys gali susipažinti su bylos medžiaga, teikti rašytinius ir žodinius paaiškinimus.
 
-16 straipsnis. Proceso šalių ir kitų bylos nagrinėjimo proceso dalyvių teisės pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo tyrimo ir bylos nagrinėjimo metu
+Straipsnio pakeitimai:
 
-1. Šio įstatymo 12 straipsnio 1 dalyje nurodytoms institucijoms baigus pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo tyrimą ir bylos nagrinėjimo metu proceso šalys turi teisę susipažinti su bylos medžiaga, duoti rašytinius ir žodinius paaiškinimus, pateikti įrodymus, prašymus.
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
-2. Proceso šalys iki bylos nagrinėjimo paaiškinimus gali teikti per šio įstatymo 12 straipsnio 1 dalyje nurodytų institucijų nustatytą terminą, kuris negali būti trumpesnis negu 14 darbo dienų nuo dienos, kurią asmuo, įtariamas pažeidęs pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus (įtariamas pažeidėjas), gauna pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo protokolą.
+16 straipsnis. Proceso šalių ir kitų bylos nagrinėjimo proceso dalyvių teisės pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo tyrimo ir bylos nagrinėjimo metu
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
+
+1. Šio įstatymo 12 straipsnio 1 dalyje nurodytoms institucijoms baigus pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo tyrimą ir bylos nagrinėjimo metu proceso šalys turi teisę susipažinti su bylos medžiaga, duoti rašytinius ir žodinius paaiškinimus, pateikti įrodymus, prašymus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
+
+2. Proceso šalys iki bylos nagrinėjimo paaiškinimus gali teikti per šio įstatymo 12 straipsnio 1 dalyje nurodytų institucijų nustatytą terminą, kuris negali būti trumpesnis negu 14 darbo dienų nuo dienos, kurią asmuo, įtariamas pažeidęs pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus, (įtariamas pažeidėjas) gauna pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo protokolą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 3. Jeigu bylos nagrinėjimo metu yra pateikiama naujų įrodymų, proceso šalys turi teisę nedelsdamos su jais susipažinti ir per 5 darbo dienas nuo naujų įrodymų gavimo dienos pateikti dėl jų savo paaiškinimus.
 
@@ -589,7 +663,11 @@ Apie pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavi
 
 3. Jeigu proceso šalys posėdyje nedalyvauja, byla gali būti išnagrinėta tik tais atvejais, kai yra duomenų, kad joms buvo laiku ir tinkamai pranešta apie bylos nagrinėjimo vietą ir laiką, buvo suteikta teisė susipažinti su bylos medžiaga ir duoti paaiškinimus, ir jeigu iki bylos nagrinėjimo jos nepateikė savo neatvykimą pateisinančių dokumentų, kuriuose nurodytas neatvykimo į posėdį priežastis šio įstatymo 12 straipsnio 1 dalyje nurodytos institucijos pripažįsta svarbiomis.
 
-4. Tinkamu pranešimu apie bylos nagrinėjimo vietą ir laiką laikytinas pranešimas, išsiųstas registruotu laišku Juridinių asmenų registre nurodytu proceso šalies buveinės adresu, išskyrus atvejus, kai proceso šalis nurodė kitą korespondencijos įteikimo adresą, arba pranešimas, išsiųstas Juridinių asmenų registre nurodytu proceso šalies elektroninių siuntų pristatymo adresu, arba pranešimas, pasirašytinai įteiktas proceso šaliai pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo nustatymo metu.
+4. Tinkamu pranešimu apie bylos nagrinėjimo vietą ir laiką laikytinas pranešimas, išsiųstas registruotu laišku Juridinių asmenų registre nurodytu proceso šalies buveinės adresu, išskyrus atvejus, kai proceso šalis nurodė kitą korespondencijos įteikimo adresą, arba pranešimas, išsiųstas Juridinių asmenų registre nurodytu proceso šalies elektroninių siuntų pristatymo adresu, arba pranešimas, pasirašytinai įteiktas proceso šaliai pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimo nustatymo metu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 18 straipsnis. Nutarimai, priimami išnagrinėjus bylą
 
@@ -599,7 +677,11 @@ Apie pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavi
 
 2) atsisakyti skirti baudas, kai nėra tam šio įstatymo nustatyto pagrindo;
 
-3) nutraukti bylą, kai nepadarytas pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimas;
+3) nutraukti bylą, kai nepadarytas pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 4) grąžinti bylą protokolą surašiusiems ir pažeidimo tyrimą atlikusios institucijos įgaliotiems darbuotojams (pareigūnams) papildomam tyrimui atlikti.
 
@@ -627,7 +709,11 @@ Apie pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavi
 
 19 straipsnis. Baudų išieškojimas
 
-1. Paskirta bauda ne vėliau kaip per vieną mėnesį nuo dienos, kurią pluoštinių kanapių gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidėjams įteiktas nutarimas paskirti baudą, turi būti sumokėta į valstybės biudžetą. Apskundus tokį nutarimą, bauda turi būti sumokėta ne vėliau kaip per 20 darbo dienų nuo teismo sprendimo, kuriuo skundas atmestas ar tenkintas iš dalies ir nustatytas kitas baudos dydis, negu savo nutarimu buvo nustačiusi bylą išnagrinėjusi institucija, įsiteisėjimo dienos.
+1. Paskirta bauda ne vėliau kaip per vieną mėnesį nuo dienos, kurią pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidėjams įteiktas nutarimas paskirti baudą, turi būti sumokėta į valstybės biudžetą. Apskundus tokį nutarimą, bauda turi būti sumokėta ne vėliau kaip per 20 darbo dienų nuo teismo sprendimo, kuriuo skundas atmestas ar tenkintas iš dalies ir nustatytas kitas baudos dydis, negu savo nutarimu buvo nustačiusi bylą išnagrinėjusi institucija, įsiteisėjimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 2. Nesumokėtas baudas išieško antstoliai, vykdydami pateiktus šio įstatymo 12 straipsnio 1 dalyje nurodytų institucijų nutarimus Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimas gali būti pateiktas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos.
 
@@ -752,4 +838,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3031, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18356
 
 Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 4 ir 8 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
+
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 12, 13, 14, 15, 16, 17, 18 ir 19 straipsnių pakeitimo įstatymas
 
