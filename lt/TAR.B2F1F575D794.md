@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "2023-07-01"
+last_updated: "2025-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 @D1=19940623;D2=19960430;D3=19960603
 
-Suvestinė redakcija nuo 2023-07-01 iki 2025-11-30
+Suvestinė redakcija nuo 2025-12-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 51-951, i. k. 0941010ISTA000I-509
 
@@ -55,7 +55,11 @@ Konsulinis mokestis imamas už:
 
 2) laikino paso išdavimą;
 
-3) asmens grįžimo pažymėjimo ar laikinojo kelionės dokumento išdavimą;
+3) Europos Sąjungos laikinojo kelionės dokumento išdavimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2931, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13518
 
 4) civilinės būklės aktų įregistravimą;
 
@@ -131,11 +135,23 @@ Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
 
 1. Konsulinis mokestis neimamas už:
 
-1) paso išdavimą ar keitimą vaikams, kuriems nustatyta globa ar rūpyba, užsienio valstybių stacionariose globos įstaigose išlaikomiems asmenims, sutuoktinio neturintiems senatvės pensijos amžiaus sulaukusiems asmenims, neįgaliesiems, kuriems Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas neįgalumo lygis arba 55 procentų ir mažesnis darbingumo lygis, arba specialiųjų poreikių lygis, pasipriešinimo (rezistencijos) dalyviams, kuriems kario savanorio ar laisvės kovų dalyvio teisinis statusas pripažįstamas Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatyme nustatyta tvarka, ir Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 3 straipsnyje nurodytiems nuo okupacijų nukentėjusiems asmenims, kuriems pagal šį įstatymą pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas;
+1) paso išdavimą ar keitimą vaikams, kuriems nustatyta globa ar rūpyba, užsienio valstybių stacionariose globos įstaigose išlaikomiems asmenims, sutuoktinio neturintiems senatvės pensijos amžiaus sulaukusiems asmenims, asmenims su negalia, kuriems Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo nustatyta tvarka nustatytas neįgalumo lygis arba 55 procentų ar mažesnis dalyvumo lygis (iki 2023 m. gruodžio 31 d. nustatytas darbingumo lygis arba specialiųjų poreikių lygis), pasipriešinimo (rezistencijos) dalyviams, kuriems kario savanorio ar laisvės kovų dalyvio teisinis statusas pripažįstamas Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatyme nustatyta tvarka, ir Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 3 straipsnyje nurodytiems nuo okupacijų nukentėjusiems asmenims, kuriems pagal šį įstatymą pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas;
 
-2) asmens grįžimo pažymėjimo ar laikinojo kelionės dokumento išdavimą ir kitus grįžimo į Lietuvos Respubliką atvejais būtinus konsulinius veiksmus (dokumentų legalizavimą, konsulinių pažymų išdavimą, civilinės būklės aktų įregistravimą ir civilinės būklės aktų įrašus liudijančių išrašų išdavimą, atliekamus notarinius veiksmus, dokumentų pareikalavimą iš Lietuvos Respublikos ar buvimo valstybių institucijų, pinigų pasinaudojant Užsienio reikalų ministerijos ar konsulinių įstaigų sąskaitomis pervedimą) asmenims, kurie dėl svarbių priežasčių (nelaimingo atsitikimo, ligos, nukentėjimo nuo nusikalstamos veikos) negali sumokėti konsulinio mokesčio, – pateikus šių svarbių priežasčių buvimo faktą patvirtinantį dokumentą ar Lietuvos Respublikos institucijos prašymu;
+Straipsnio punkto pakeitimai:
 
-3) asmens grįžimo pažymėjimo ar laikinojo kelionės dokumento išdavimą ir kitus konsulinius veiksmus (dokumentų legalizavimą, konsulinių pažymų išdavimą, civilinės būklės aktų įregistravimą), būtinus užsienio valstybėje be tėvų globos likusiems vaikams, kuriems buvo išduotas Lietuvos Respublikos pilietybę patvirtinantis dokumentas arba kurių tėvai (ar vienas iš tėvų) yra Lietuvos Respublikos piliečiai, parvežti į Lietuvos Respubliką;
+Nr. XIV-2931, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13518
+
+2) Europos Sąjungos laikinojo kelionės dokumento išdavimą ir grįžimo į Lietuvos Respubliką atvejais būtinus konsulinius veiksmus (dokumentų legalizavimą, konsulinių pažymų išdavimą, civilinės būklės aktų įregistravimą ir civilinės būklės aktų įrašus liudijančių išrašų išdavimą, atliekamus notarinius veiksmus, dokumentų pareikalavimą iš Lietuvos Respublikos ar buvimo valstybių institucijų, pinigų pasinaudojant Užsienio reikalų ministerijos ar konsulinių įstaigų sąskaitomis pervedimą) asmenims, kurie dėl svarbių priežasčių (nelaimingo atsitikimo, ligos, nukentėjimo nuo nusikalstamos veikos) negali sumokėti konsulinio mokesčio, – pateikus šių svarbių priežasčių buvimo faktą patvirtinantį dokumentą ar Lietuvos Respublikos institucijos prašymu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2931, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13518
+
+3) Europos Sąjungos laikinojo kelionės dokumento išdavimą ir kitus konsulinius veiksmus (dokumentų legalizavimą, konsulinių pažymų išdavimą, civilinės būklės aktų įregistravimą), būtinus užsienio valstybėje be tėvų globos likusiems vaikams, kuriems buvo išduotas Lietuvos Respublikos pilietybę patvirtinantis dokumentas arba kurių tėvai (ar vienas iš tėvų) yra Lietuvos Respublikos piliečiai, parvežti į Lietuvos Respubliką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2931, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13518
 
 4) gimimo ir mirties įregistravimą ir gimimo ar mirties įrašą liudijančio išrašo išdavimą pirmą kartą;
 
@@ -226,6 +242,12 @@ priedas
 1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą Nr. 1612/68/EEB ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB.
 
 2. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas), su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1155.
+
+3. 2019 m. birželio 18 d. Tarybos direktyva (ES) 2019/997, kuria nustatomas ES laikinasis kelionės dokumentas ir panaikinamas Sprendimas 96/409/BUSP.
+
+Papildyta punktu:
+
+Nr. XIV-2931, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13518
 
 Pakeitimai:
 
@@ -380,6 +402,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
 
 Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3, 5 ir 6 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2931, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13518
+
+Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3, 6 straipsnių ir priedo pakeitimo įstatymas
 
 11 straipsnis. Baigiamosios nuostatos
 
