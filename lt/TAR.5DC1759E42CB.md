@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2025-08-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2025-08-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -2972,7 +2972,11 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 1. Elektrine mikrojudumo priemone leidžiama važiuoti važiuojamąja kelio dalimi, dviračių juostomis, dviračių takais, kelkraščiu, gyvenamojoje zonoje ne jaunesniems kaip 16 metų asmenims, o ne jaunesniems kaip 14 metų asmenims – tik išklausiusiems Švietimo, mokslo ir sporto ministerijos nustatytą mokymo kursą ir turintiems mokyklos išduotą pažymėjimą. Gyvenamojo namo kieme elektrine mikrojudumo priemone važiuojančių asmenų amžius neribojamas, tačiau jaunesnius kaip 10 metų asmenis privalo prižiūrėti suaugęs asmuo.
 
-2. Važiuoti leidžiama tik su tvarkingą stabdį ir garso signalą, baltą šviesos žibintą priekyje ir raudoną šviesos žibintą gale, taip pat iš abiejų šonų oranžinius šviesą atspindinčius elementus turinčia elektrine mikrojudumo priemone. Važiuodamas važiuojamąja kelio dalimi, elektrinės mikrojudumo priemonės vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais arba šios priemonės priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas. Važiuojant keliu tamsiuoju paros metu arba kai blogas matomumas, elektrinės mikrojudumo priemonės priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas, šios priemonės vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais. Jaunesni kaip 18 metų elektrinių mikrojudumo priemonių vairuotojai, važiuodami keliu, privalo būti užsidėję ir užsisegę dviratininko, riedlentininko ar motociklininko šalmą. Vyresni kaip 18 metų elektrinių mikrojudumo priemonių vairuotojai, važiuodami važiuojamąja kelio dalimi, privalo būti užsidėję ir užsisegę dviratininko, riedlentininko ar motociklininko šalmą. Vyresniems kaip 18 metų elektrinių mikrojudumo priemonių vairuotojams, važiuojantiems keliu, rekomenduojama būti užsidėjus ir užsisegus dviratininko, riedlentininko ar motociklininko šalmą. Elektrinių mikrojudumo priemonių vairuotojams taip pat rekomenduojama naudoti kūno apsaugos priemones (pavyzdžiui, alkūnių, kelių apsaugas ir kt.).
+2. Važiuoti leidžiama tik su tvarkingą stabdį ir garso signalą, baltą šviesos žibintą priekyje ir raudoną šviesos žibintą gale, taip pat iš abiejų šonų oranžinius šviesą atspindinčius elementus turinčia elektrine mikrojudumo priemone. Važiuodamas važiuojamąja kelio dalimi, elektrinės mikrojudumo priemonės vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais arba šios priemonės priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas. Važiuojant keliu tamsiuoju paros metu arba kai blogas matomumas, elektrinės mikrojudumo priemonės priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas, šios priemonės vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais. Visi elektrinių mikrojudumo priemonių vairuotojai važiuodami privalo būti užsidėję ir užsisegę dviratininko, riedlentininko ar motociklininko šalmą. Elektrinių mikrojudumo priemonių vairuotojams taip pat rekomenduojama naudoti kūno apsaugos priemones (pavyzdžiui, alkūnių, kelių apsaugas ir kt.). Jeigu elektrinė mikrojudumo priemonė yra nuomojama, šalmą privalo suteikti elektrinės mikrojudumo priemonės nuomotojas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-139, 2025-03-27, paskelbta TAR 2025-04-01, i. k. 2025-05662
 
 3. Važiuodami dviračių taku, elektrinių mikrojudumo priemonių vairuotojai privalo važiuoti kuo arčiau šio tako (jiems skirtos tako dalies) dešiniojo krašto. Jeigu važiuojant pėsčiųjų ir dviračių eismui skirtu taku ar šaligatviu ženklinimo linijomis (baltu dviračio simboliu) yra paženklinta dviračių eismui skirta šio tako ar šaligatvio dalis, elektrinių mikrojudumo priemonių vairuotojai privalo važiuoti tik ja ir kuo arčiau jos dešiniojo krašto. Elektrinių mikrojudumo priemonių vairuotojai privalo nekelti pavojaus pėstiesiems.
 
