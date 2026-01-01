@@ -4,7 +4,7 @@ identifier: "TAR.9C9FA25983BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-02"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
 
@@ -1217,7 +1217,11 @@ Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
 
 3) kai pareigūnai pagal kvietimą ar šaukimą yra išvykę į teismą arba į teisėsaugos ar kontrolės (priežiūros) funkcijas atliekančias institucijas;
 
-4) kai pareigūnai yra išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymu;
+4) kai pareigūnai yra išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos ar alternatyviąją krašto apsaugos tarnybą administruojančios institucijos nurodymu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2735, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11572
 
 5) artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), senelių, vaikaičių, sutuoktinio, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), sugyventinio, jeigu jis nurodytas pareigūno privačių interesų deklaracijoje, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių) mirties atveju – iki 3 darbo dienų;
 
