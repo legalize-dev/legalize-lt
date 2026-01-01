@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2025-07-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
 
@@ -313,7 +313,7 @@ Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
 
 1) asmens sveikatos priežiūros įstaigos prašomam terminui, tačiau ne ilgesniam kaip vieneri metai, kai asmens sveikatos priežiūros įstaiga prašo sustabdyti licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą;
 
-2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka) ir (arba) nevykdo šio įstatymo 45 straipsnio 1 dalies 41, 6 ir (arba) 17 punktuose nustatytų pareigų, ir yra bent viena iš šių sąlygų:
+2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka) ir (arba) nevykdo šio įstatymo 45 straipsnio 1 dalies 41 ir (arba) 6, ir (arba) 17, ir (arba) 18 punktuose nustatytų pareigų, ir yra bent viena iš šių sąlygų:
 
 Straipsnio punkto pakeitimai:
 
@@ -331,7 +331,7 @@ Nr. XIII-3339, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24228
 
 Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
 
-111. Asmens sveikatos priežiūros veiklos licencijos ar jos dalies galiojimas stabdomas tik dėl tų asmens sveikatos priežiūros paslaugų, kurias teikiant nustatyta pažeidimų. Jeigu asmens sveikatos priežiūros įstaiga nevykdo šio įstatymo 45 straipsnio 1 dalies 41 punkte nustatytos pareigos Sveikatos apsaugos ministerijos valdomos Elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (toliau – ESPBI IS) veiklą reguliuojančių teisės aktų nustatyta tvarka sudaryti sutartį dėl naudojimosi ESPBI IS ir (arba) šio įstatymo 45 straipsnio 1 dalies 6 ir (arba) 17 punktuose nustatytų pareigų, asmens sveikatos priežiūros veiklos licencijos galiojimas stabdomas dėl visų asmens sveikatos priežiūros paslaugų.
+111. Asmens sveikatos priežiūros veiklos licencijos ar jos dalies galiojimas stabdomas tik toms asmens sveikatos priežiūros paslaugoms, kurias teikiant nustatyti pažeidimai. Jeigu asmens sveikatos priežiūros įstaiga nevykdo šio įstatymo 45 straipsnio 1 dalies 41 punkte nustatytos pareigos Sveikatos apsaugos ministerijos valdomos Elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (toliau – ESPBI IS) veiklą reguliuojančių teisės aktų nustatyta tvarka sudaryti sutartį dėl naudojimosi ESPBI IS ir (arba) šio įstatymo 45 straipsnio 1 dalies 6 ir (arba) 17 punktuose nustatytų pareigų, ir (arba) šio įstatymo 45 straipsnio 1 dalies 18 punkte nustatytos pareigos prisijungti prie Sveikatos apsaugos ministerijos valdomos Išankstinės pacientų registracijos informacinės sistemos (toliau – IPR IS), asmens sveikatos priežiūros veiklos licencijos galiojimas stabdomas visoms asmens sveikatos priežiūros paslaugoms.
 
 Papildyta straipsnio dalimi:
 
@@ -1362,6 +1362,12 @@ Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
 16) pasiūlyti pacientui artimiausią objektyviai įmanomą asmens sveikatos priežiūros paslaugos suteikimo datą ir laiką ir registruoti visus pacientus jų kreipimosi į asmens sveikatos priežiūros įstaigą momentu, neribojant registravimosi terminų, sveikatos apsaugos ministro nustatyta tvarka;
 
 17) teikti į valstybės informacinę sistemą, skirtą sveikatos priežiūros, kitos sveikatinimo veiklos bei farmacijos specialistų profesinės kompetencijos įgijimo ir tobulinimo bei profesinės veiklos duomenims kaupti, šios sistemos veiklą reguliuojančiuose teisės aktuose nustatytus duomenis, susijusius su asmens sveikatos priežiūros įstaigos darbuotojų ir kitais pagrindais įstaigoje veiklą vykdančių asmenų, nurodytų šios sistemos veiklą reguliuojančiuose teisės aktuose, profesine kvalifikacija ir darbo santykiais arba veiklos vykdymu, šiuose teisės aktuose nustatyta tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-3030, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18429
+
+18) prisijungti prie IPR IS ir sveikatos apsaugos ministro nustatyta tvarka IPR IS registruoti apdraustuosius Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamoms asmens sveikatos priežiūros paslaugoms gauti, jeigu asmens sveikatos priežiūros įstaiga su Valstybine ligonių kasa yra sudariusi Lietuvos Respublikos sveikatos draudimo įstatymo 26 straipsnyje nurodytą sutartį.
 
 Papildyta straipsnio punktu:
 
