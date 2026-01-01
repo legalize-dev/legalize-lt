@@ -4,7 +4,7 @@ identifier: "TAR.46EF9E1D52E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-29"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
 
@@ -1764,7 +1764,11 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 2) kai diplomatai pagal kvietimą ar šaukimą yra išvykę į teismą arba į teisėsaugos ar kontrolės (priežiūros) funkcijas atliekančias institucijas;
 
-3) kai diplomatai išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymu;
+3) kai diplomatai išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos ar alternatyviąją krašto apsaugos tarnybą administruojančios institucijos nurodymu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2733, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11570
 
 4) kai diplomatas atlieka privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos tik einamos pareigos;
 
