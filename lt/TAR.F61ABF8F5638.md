@@ -4,7 +4,7 @@ identifier: "TAR.F61ABF8F5638"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-23"
-last_updated: "2024-11-15"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F61ABF8F5638"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "12 straipsnis įsigalioja 2011-12-31"
 
 LIETUVOS RESPUBLIKOS ŠIAULIŲ LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-11-15 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 164-7802, i. k. 1111010ISTA0XI-1909
 
@@ -58,11 +58,13 @@ Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietu
 
 4 straipsnis. Zonos teritorija
 
-1. Zonos teritorija užima 132,517 ha.
+1. Zonos teritorija užima 218 ha.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
+
+Nr. XIV-3085, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19838
 
 2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. Zonos teritorijoje esantys žemės sklypai be aukciono išnuomojami zonos valdymo bendrovei 99 metams.
 
