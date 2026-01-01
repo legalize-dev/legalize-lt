@@ -4,7 +4,7 @@ identifier: "TAR.D2D24C160EB1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2024-09-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D2D24C160EB1"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2024-09-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-787, i. k. 0961010ISTA00I-1232
 
@@ -559,6 +559,12 @@ Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
 2. Fondo veiklos ataskaita, taip pat fondo metinių finansinių ataskaitų rinkinys, o jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada turi būti pateikti Juridinių asmenų registro tvarkytojui. Fondas, valdantis neliečiamąjį kapitalą, Juridinių asmenų registro tvarkytojui turi pateikti duomenis ir apie neliečiamojo kapitalo dydį paskutinę finansinių metų dieną. Fondas, kuris rengia metinę ataskaitą, kaip nustatyta šio įstatymo 11 straipsnio 8 dalyje, metinę ataskaitą turi pateikti Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai paskelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
 
 3. Fondo, priskiriamo prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, veiklos ataskaita, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui teikiami finansų ministro nustatyta tvarka. Fondo, nepriskiriamo prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, veiklos ataskaita, metinė ataskaita, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada, kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, teikiami Juridinių asmenų registro tvarkytojui Vyriausybės nustatyta tvarka.
+
+4. Juridinių asmenų registro tvarkytojas nepriima fondo pateikto metinių finansinių ataskaitų rinkinio be auditoriaus išvados, jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, išskyrus atvejus, kai prie viešojo sektoriaus subjektų priskiriamas fondas metinių finansinių ataskaitų rinkinį teikia finansų ministro nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
 
 Straipsnio pakeitimai:
 
