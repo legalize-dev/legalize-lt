@@ -4,7 +4,7 @@ identifier: "TAR.80CA64E588A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-25"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo 17 straipsnio 5 dalis įsigalioja nuo Li
 ---
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2025-07-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
 
@@ -563,9 +563,7 @@ priedas
 
 2. 2013 m. vasario 5 d. Europos Tarybos ir Parlamento reglamentas (ES) Nr. 167/2013 dėl žemės ir miškų ūkio transporto priemonių patvirtinimo ir rinkos priežiūros su paskutiniais pakeitimais, padarytais 2019 m. kovo 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/519.
 
-3. 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1305/2013 dėl paramos kaimo plėtrai, teikiamos Europos žemės ūkio fondo kaimo plėtrai lėšomis, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1698/2005, su paskutiniais pakeitimais, padarytais 2022 m. birželio 29 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/1033.
-
-4. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/2115, kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami reglamentai (ES) Nr. 1305/2013 ir (ES) Nr. 1307/2013.
+3. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/2115, kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami reglamentai (ES) Nr. 1305/2013 ir (ES) Nr. 1307/2013.
 
 –––––––––––––––––––
 
