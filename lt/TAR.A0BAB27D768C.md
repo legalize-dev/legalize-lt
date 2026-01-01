@@ -4,7 +4,7 @@ identifier: "TAR.A0BAB27D768C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-19"
-last_updated: "2024-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
 
@@ -265,7 +265,11 @@ Kertinės Konstitucijos normos, tiesiogiai reglamentuojančios nacionalinio saug
 
 – Konstitucijos 94 straipsnis, įpareigojantis Vyriausybę saugoti Lietuvos Respublikos teritorijos neliečiamybę, garantuoti valstybės saugumą ir viešąją tvarką;
 
-- Konstitucijos 139 straipsnis, skelbiantis, kad Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo yra kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga, ir nustatantis piliečių privalomąją karo tarnybą.
+– Konstitucijos 139 straipsnis, skelbiantis, kad Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo yra kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga, ir nustatantis piliečių privalomąją karo tarnybą ir alternatyviąją krašto apsaugos tarnybą.
+
+Skyriaus pakeitimai:
+
+Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
 
 7 skyrius
 
@@ -793,7 +797,7 @@ Kariuomenė turi būti rengiama ugdant kario asmenybę, pilietiškumą ir patrio
 
 Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja Lietuvos Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
 
-Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, nuolatinės privalomosios pradinės karo tarnybos ir tarnybą rezerve atliekančių karių. Tarnybą rezerve atliekančių karių karinių įgūdžių atnaujinimas turi atitikti valstybės gynybinius poreikius.
+Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, privalomosios pradinės karo tarnybos ir tarnybą rezerve atliekančių karių. Tarnybą rezerve atliekančių karių karinių įgūdžių atnaujinimas turi atitikti valstybės gynybinius poreikius.
 
 Kariuomenę sudaro šios pajėgų rūšys: sausumos pajėgos, karinės oro pajėgos, karinės jūrų pajėgos, specialiųjų operacijų pajėgos. Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai ir kiti teisės aktai.
 
@@ -947,11 +951,11 @@ Nr. XIII-3239, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15876
 
 ALTERNATYVIOJI KRAŠTO APSAUGOS TARNYBA
 
-Alternatyvioji krašto apsaugos tarnyba, kaip civilinio pobūdžio visuomenei naudinga veikla, yra karo prievolei alternatyvi krašto apsaugos pagalbinė tarnyba be ginklų tiems, kurie dėl savo religinių ar pacifistinių įsitikinimų negali tarnauti su ginklu rankoje. Šios tarnybos tikslas – ugdyti piliečius ir sudaryti jiems galimybę prisidėti prie krašto gerovės civilinio pobūdžio visuomenei naudingu darbu. Paskyrimą į šią tarnybą administruoja Krašto apsaugos ministerija, o tarnybą organizuoja Vyriausybės įgaliota institucija. Tarnybos atlikimo trukmę ir tvarką nustato įstatymas.
+Alternatyvioji krašto apsaugos tarnyba, kaip civilinio pobūdžio visuomenei naudinga veikla, yra tarnyba nenaudojant ginklų, specialiųjų priemonių ar prievartos, skirta tiems, kurie dėl savo religinių ar pacifistinių įsitikinimų negali tarnauti naudodami ginklus, specialiąsias priemones ar prievartą. Šios tarnybos tikslas – ugdyti piliečius ir sudaryti jiems galimybę prisidėti prie krašto gerovės civilinio pobūdžio visuomenei naudingu darbu. Paskyrimą į šią tarnybą administruoja ir tarnybą organizuoja Vyriausybės įgaliota institucija. Šios tarnybos atlikimo trukmę ir tvarką nustato įstatymas.
 
 Skyriaus pakeitimai:
 
-Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
 
 24 SKYRIUS
 
