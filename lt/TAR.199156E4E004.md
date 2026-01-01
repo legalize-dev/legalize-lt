@@ -4,7 +4,7 @@ identifier: "TAR.199156E4E004"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
 
@@ -661,6 +661,14 @@ Nr. XIV-1854, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05760
 2. Už socialinių paslaugų organizavimą ir prieinamumą atsako valstybės ir savivaldybių institucijos ir įstaigos.
 
 3. Socialinės paslaugos asmenims su negalia organizuojamos ir teikiamos vadovaujantis Socialinių paslaugų įstatymu.
+
+4. Asmeniui, turinčiam akivaizdžių negalios požymių, iki jam dar nenustatytas neįgalumo lygis ar dalyvumo lygis, jo ar jo šeimos narių sutikimu teikiama ankstyvosios pagalbos paslauga. Ankstyvosios pagalbos paslauga finansuojama iš valstybės biudžeto ir (ar) savivaldybių biudžetų, sudarant sutartį su akredituota ankstyvosios pagalbos paslaugą, pritaikytą konkrečiai negaliai, teikiančia socialine paslaugų įstaiga ar organizacija.
+
+5. Ankstyvosios pagalbos paslaugos turinį, jos skyrimo ir organizavimo tvarką nustato socialinės apsaugos ir darbo ministras ir sveikatos apsaugos ministras bendru įsakymu, finansavimo tvarką – socialinės apsaugos ir darbo ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-1722, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00135
 
 29 straipsnis. Finansinės pagalbos priemonės
 
