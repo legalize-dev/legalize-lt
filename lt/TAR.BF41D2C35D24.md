@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "2025-02-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2025-02-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 
@@ -200,7 +200,11 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
 2) krašto kelius. Tai keliai ir jų tęsiniai – gatvių važiuojamoji dalis, kuriais vyksta intensyvus transporto priemonių eismas tarp Lietuvos Respublikos teritorijos administracinių vienetų centrų, taip pat tranzitinio ir turistinio transporto priemonių eismas;
 
-3) rajoninius kelius. Tai keliai, jungiantys miestų ir kaimų gyvenamąsias vietoves su magistraliniais ir krašto keliais.
+3) rajoninius kelius. Tai keliai, jungiantys miestų ir miestelių gyvenamąsias vietoves nuo jų teritorijų ribų su magistraliniais ir krašto keliais.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-112, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00691
 
 Straipsnio dalies pakeitimai:
 
@@ -208,17 +212,17 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
 3. Vietinės reikšmės keliai skirstomi į:
 
-1) viešuosius kelius. Tai keliai, jungiantys rajoninius kelius, gyvenamąsias vietoves, sąvartynus, rekreacijos objektus, lankomus gamtos, kultūros paminklus, taip pat gatvės gyvenamosiose vietovėse, jungiamieji ir kiti keliai, nepriskirti valstybinės reikšmės keliams;
+1) viešuosius kelius. Tai keliai, jungiantys rajoninius kelius, gyvenamąsias vietoves, sąvartynus, rekreacijos objektus, lankomus gamtos, kultūros paminklus, taip pat gatvės gyvenamosiose vietovėse, jungiamieji ir kiti keliai, nepriskiriami valstybinės reikšmės keliams;
 
-Straipsnio punkto pakeitimai:
+2) rajoninius kelius miestų ir miestelių teritorijose;
 
-Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
-
-2) vidaus kelius. Tai fizinių ar juridinių asmenų, kitų organizacijų, jų padalinių (toliau – fiziniai ar juridiniai asmenys) reikmėms naudojami keliai (miškų, nacionalinių parkų, valstybės saugomų teritorijų, pasienio, karjerų, privažiavimo prie hidrotechninių įrenginių, ribotų teritorijų – kiemų keliai ir visi kiti keliai, nepriskirti viešiesiems keliams).
+3) vidaus kelius. Tai fizinių ar juridinių asmenų, kitų organizacijų, jų padalinių (toliau – fiziniai ar juridiniai asmenys) reikmėms naudojami keliai: miškų, nacionalinių parkų, valstybės saugomų teritorijų, pasienio, karjerų, privažiavimo prie hidrotechninių įrenginių, ribotų teritorijų – kiemų keliai ir visi kiti keliai, nepriskirti viešiesiems keliams ar vietinės reikšmės rajoniniams keliams miestų ir miestelių teritorijose.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
+
+Nr. XV-112, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00691
 
 4 straipsnis. Kelių suskirstymas pagal nuosavybės formas
 
@@ -232,7 +236,11 @@ Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
 
 Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
 
-3. Vietinės reikšmės viešieji keliai ir gatvės nuosavybės teise priklauso savivaldybėms, o vidaus keliai – valstybei, savivaldybėms, kitiems juridiniams ir (ar) fiziniams asmenims.
+3. Vietinės reikšmės viešieji keliai, rajoniniai keliai miestų ir miestelių teritorijose ir gatvės nuosavybės teise priklauso savivaldybėms, o vidaus keliai – valstybei, savivaldybėms, kitiems juridiniams ir (ar) fiziniams asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-112, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00691
 
 4. Nutiestas naujas valstybinės reikšmės kelias ar jo ruožas nuosavybės teise priklauso valstybei ir turi būti įrašomas į valstybinės reikšmės kelių sąrašą. Valstybinės reikšmės kelias ar jo ruožas Susisiekimo ministerijos teikimu išbraukiamas iš valstybinės reikšmės kelių sąrašo, kai pasikeičia kelio socialinė ekonominė reikšmė. Gavus atitinkamos savivaldybės tarybos sutikimą, tokie keliai ar jų ruožai teisės aktų nustatyta tvarka perduodami savivaldybių nuosavybėn su visais jiems priklausančiais statiniais ir techninėmis eismo reguliavimo priemonėmis ir įrašomi į vietinės reikšmės kelių sąrašą. Savivaldybės tarybos sutikimu vietinės reikšmės kelias ar jo ruožas išbraukiamas iš vietinės reikšmės kelių sąrašo, kai pasikeičia to kelio socialinė ekonominė reikšmė. Toks kelias ar jo ruožas teisės aktų nustatyta tvarka Susisiekimo ministerijos teikimu perduodamas su visais jam priklausančiais statiniais ir techninėmis eismo reguliavimo priemonėmis valstybės nuosavybėn ir įrašomas į valstybinės reikšmės kelių sąrašą.
 
@@ -241,6 +249,12 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
 
 Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
+
+5. Rajoninių kelių ruožų, priskiriamų vietinės reikšmės rajoniniams keliams miestų ir miestelių teritorijose, perdavimo savivaldybėms tvarką nustato Vyriausybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-112, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00691
 
 Straipsnio pakeitimai:
 
@@ -362,13 +376,15 @@ Nr. XIV-2663, 2024-05-16, paskelbta TAR 2024-05-29, i. k. 2024-09622
 
 9 straipsnis. Kelių kategorijos nustatymas
 
-Kelių kategorijos nustatomos atsižvelgiant į kelių funkcinę paskirtį, transporto priemonių eismo pralaidumą ir kelių padėtį gyvenamųjų vietovių atžvilgiu bei vadovaujantis aplinkos ministro ir susisiekimo ministro nustatyta tvarka ir kriterijais. Kelio kategoriją priskiria kelio savininkai ar valdytojai: valstybinės reikšmės kelių kategorijas priskiria akcinė bendrovė Lietuvos automobilių kelių direkcija, vietinės reikšmės viešųjų kelių kategorijas – savivaldybės, o vidaus kelių – juridiniai ar fiziniai asmenys.
+Kelių kategorijos nustatomos atsižvelgiant į kelių funkcinę paskirtį, transporto priemonių eismo pralaidumą ir kelių padėtį gyvenamųjų vietovių atžvilgiu bei vadovaujantis aplinkos ministro ir susisiekimo ministro nustatyta tvarka ir kriterijais. Kelio kategoriją priskiria kelio savininkai ar valdytojai: valstybinės reikšmės kelių kategorijas priskiria akcinė bendrovė „Via Lietuva“, vietinės reikšmės viešųjų kelių ir rajoninių kelių miestų ir miestelių teritorijose kategorijas – savivaldybės, o vidaus kelių – juridiniai ar fiziniai asmenys.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
 
 Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
+
+Nr. XV-112, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00691
 
 10 straipsnis. Žemės naudojimas kelių reikmėms
 
@@ -580,9 +596,17 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 1. Naudotis valstybinės ir vietinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis galima tik suderinus su kelio savininku ir gavus jo sutikimą.
 
-2. Sutikimai naudotis valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis suteikiami susisiekimo ministro nustatyta tvarka. Sutikimai naudotis vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis suteikiami savivaldybių tarybų nustatyta tvarka. Sutikimai naudotis valstybinės ir vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis (toliau kartu – sutikimas naudotis keliais) suteikiami pateikus prašymą gauti sutikimą naudotis keliais ir sumokėjus Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestį, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis arba pateikus važiavimo deklaraciją, kai naudojamasi keliais važiuojant Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytomis transporto priemonėmis, už kurias šis mokestis nemokamas.
+2. Sutikimai naudotis valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis suteikiami susisiekimo ministro nustatyta tvarka. Sutikimai naudotis vietinės reikšmės viešaisiais keliais ir rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis suteikiami savivaldybių tarybų nustatyta tvarka. Sutikimai naudotis valstybinės reikšmės rajoniniais keliais ir vietinės reikšmės viešaisiais keliais ir rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis (toliau kartu – sutikimas naudotis keliais) suteikiami pateikus prašymą gauti sutikimą naudotis keliais ir sumokėjus Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestį, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis arba pateikus važiavimo deklaraciją, kai naudojamasi keliais važiuojant Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytomis transporto priemonėmis, už kurias šis mokestis nemokamas.
 
-3. Sutikimą naudotis valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis suteikia akcinė bendrovė Lietuvos automobilių kelių direkcija, važiavimo maršrutą suderinusi su Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa, o sutikimą naudotis vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis – savivaldybių vykdomosios institucijos (toliau kartu – sutikimus suteikiantis subjektas).
+Straipsnio dalies pakeitimai:
+
+Nr. XV-112, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00691
+
+3. Sutikimą naudotis valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis suteikia akcinė bendrovė „Via Lietuva“, važiavimo maršrutą suderinusi su Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa, o sutikimą naudotis vietinės reikšmės viešaisiais keliais ir rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis – savivaldybių vykdomosios institucijos (toliau kartu – sutikimus suteikiantis subjektas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XV-112, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00691
 
 4. Sutikimo naudotis keliais nereikia, jeigu:
 
@@ -1027,6 +1051,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-34, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22106
 
 Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas
+
+32.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-112, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00691
+
+Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymas
 
 25 straipsnis.
 
