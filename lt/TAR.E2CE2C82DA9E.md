@@ -4,7 +4,7 @@ identifier: "TAR.E2CE2C82DA9E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-26"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
 
@@ -44,10 +44,6 @@ BENDROSIOS NUOSTATOS
 2. Šis įstatymas nustato visuomenei skelbiamų viešojo sektoriaus subjektų ataskaitų rinkinių sudėčiai, finansinėse, biudžeto vykdymo ir veiklos ataskaitose teikiamai informacijai, ataskaitų rinkinių rengimui keliamus reikalavimus ir atsakomybę už jų parengimą, pateikimą ir paskelbimą.
 
 3. Šis įstatymas taikomas viešojo sektoriaus subjektams, jų grupėms, tarp jų valstybei ir savivaldybėms.
-
-4. Šio įstatymo 4 straipsnio 5 dalis ir 17 straipsnio 2 dalis taikomos valstybės valdomoms įmonėms, savivaldybių valdomoms įmonėms ir kitiems juridiniams asmenims, kurių dalyviai yra viešojo sektoriaus subjektai.
-
-1 straipsnio 4 dalies redakcija nuo 2026-01-01:
 
 4. Šio įstatymo 4 straipsnio 5 dalis ir 17 straipsnio 2 dalis taikomos valstybės valdomoms įmonėms, savivaldybių valdomoms įmonėms ir kitiems juridiniams asmenims, kurių dalyviai yra viešojo sektoriaus subjektai. Šio įstatymo 17 straipsnio 5 dalies 3 punktas taikomas valstybės kontroliuojamiems pelno siekiantiems subjektams ir savivaldybės kontroliuojamiems pelno siekiantiems subjektams.
 
@@ -124,10 +120,6 @@ Straipsnio punkto pakeitimai:
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
 2) valstybės viešojo sektoriaus subjektai – biudžeto vykdymo ataskaitas, savivaldybių administracijos – savivaldybių konsoliduotąsias biudžeto vykdymo ataskaitas;
-
-3) už ataskaitų parengimą atsakingas asmuo – viešojo sektoriaus subjektų, jų grupių metinių finansinių ataskaitų, fondų metinių ataskaitų rinkinių duomenis. Šie duomenys teikiami į VSAKI sistemą ir atliekami grupės ataskaitų rinkiniui parengti reikalingi veiksmai;
-
-17 straipsnio 5 dalies 3 punkto redakcija nuo 2026-01-01:
 
 3) už ataskaitų parengimą atsakingas asmuo – viešojo sektoriaus subjektų metinių finansinių ataskaitų, fondų metinių ataskaitų rinkinių duomenis. Šie duomenys teikiami į VSAKI sistemą ir atliekami grupės ataskaitų rinkiniui parengti reikalingi veiksmai. Į VSAKI sistemą savo metinių finansinių ataskaitų duomenis teikia valstybės kontroliuojami pelno siekiantys subjektai, savivaldybės kontroliuojami pelno siekiantys subjektai;
 
@@ -545,10 +537,6 @@ Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
 3) už viešojo sektoriaus subjektų grupės finansinių ataskaitų rinkinių parengimą ir pasirašymą atsakingas subjektas (subjektai).
 
-29. Viešojo sektoriaus subjektų grupės ataskaitų rinkinys – viešojo sektoriaus subjektų grupę sudarančių subjektų ataskaitų rinkiniai, kurių duomenys konsoliduojami į vieną ataskaitų rinkinį ir teikiami kaip vieno viešojo sektoriaus subjekto ataskaitų rinkinys.
-
-2 straipsnio 29 dalies redakcija nuo 2026-01-01:
-
 29. Viešojo sektoriaus subjektų grupės ataskaitų rinkinys – viešojo sektoriaus subjektų grupę sudarančių viešojo sektoriaus subjektų ir valstybės kontroliuojamų pelno siekiančių subjektų arba savivaldybės kontroliuojamų pelno siekiančių subjektų ataskaitų rinkiniai, kurių duomenys konsoliduoti į vieną ataskaitų rinkinį ir teikiami kaip vieno viešojo sektoriaus subjekto ataskaitų rinkinys.
 
 Straipsnio dalies pakeitimai:
@@ -647,15 +635,15 @@ Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
 
 1. Kiekviena viešojo sektoriaus subjektų grupė atsiskaito už savo veiklą teikdama ataskaitas.
 
-2. Viešojo sektoriaus subjektų grupę, kai rengiamas valstybės metinių ataskaitų rinkinys, sudaro visi valstybės viešojo sektoriaus subjektai.
+2. Viešojo sektoriaus subjektų grupę, kai rengiamas valstybės metinių ataskaitų rinkinys, sudaro valstybės viešojo sektoriaus subjektai ir valstybės kontroliuojami pelno siekiantys subjektai.
 
-3. Viešojo sektoriaus subjektų grupę, kurios ataskaitų rinkinio duomenys įtraukiami į valstybės metinių ataskaitų rinkinį, sudaro:
+3. Viešojo sektoriaus subjektų grupę, kurios ataskaitų rinkinių duomenys įtraukiami į valstybės metinių ataskaitų rinkinį, sudaro:
 
-1) ministerijos su ministrams pavestose valdymo srityse veikiančiais viešojo sektoriaus subjektais, išskyrus ministrams neatskaitingus viešojo sektoriaus subjektus, taip pat kiti valstybės viešojo sektoriaus subjektai su jiems atskaitingais viešojo sektoriaus subjektais, kai rengiamas viešojo sektoriaus subjektų grupės finansinių ataskaitų rinkinys ir viešojo sektoriaus subjektų grupės veiklos ataskaita (toliau – grupės veiklos ataskaita);
+1) ministerijos su ministrams pavestose valdymo srityse veikiančiais viešojo sektoriaus subjektais, išskyrus ministrams neatskaitingus viešojo sektoriaus subjektus, ir ministrams pavestose valdymo srityse veikiančiais valstybės kontroliuojamais pelno siekiančiais subjektais, taip pat kiti valstybės viešojo sektoriaus subjektai su jiems atskaitingais viešojo sektoriaus subjektais, kai rengiamas viešojo sektoriaus subjektų grupės finansinių ataskaitų rinkinys ir viešojo sektoriaus subjektų grupės veiklos ataskaita (toliau – grupės veiklos ataskaita);
 
 2) valstybės viešojo sektoriaus subjektas, kurio vadovas yra asignavimų valdytojas, ir viešojo sektoriaus subjektai, kuriems tas asignavimų valdytojas paskirsto asignavimus, kai rengiamas viešojo sektoriaus subjektų grupės biudžeto vykdymo ataskaitų rinkinys.
 
-4. Viešojo sektoriaus subjektų grupę, kai rengiamas savivaldybės metinių ataskaitų rinkinys, sudaro visi savivaldybės viešojo sektoriaus subjektai.
+4. Viešojo sektoriaus subjektų grupę, kai rengiamas savivaldybės metinių ataskaitų rinkinys, sudaro savivaldybės viešojo sektoriaus subjektai ir savivaldybės kontroliuojami pelno siekiantys subjektai.
 
 5. Viešojo sektoriaus subjektų grupę Valstybinio socialinio draudimo fondo metinių ataskaitų rinkiniui parengti sudaro Valstybinio socialinio draudimo fondo administravimo įstaigos, Valstybinio socialinio draudimo fondas, Valstybinio socialinio draudimo fondo administravimo įstaigų kontroliuojami viešojo sektoriaus subjektai.
 
@@ -663,7 +651,13 @@ Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
 
 7. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, atsižvelgdama į šio straipsnio 2–6 dalių nuostatas, iki kiekvienų metų gruodžio 31 dienos patvirtina tų finansinių metų viešojo sektoriaus subjektų finansinių ataskaitų konsolidavimo schemą.
 
-5 straipsnio redakcija nuo 2026-01-01:
+Straipsnio pakeitimai:
+
+Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
+
+II SKYRIUS
+
+ATASKAITŲ RINKINIO SUDĖTIS
 
 6 straipsnis. Viešojo sektoriaus subjekto ir viešojo sektoriaus subjektų grupės ataskaitų rinkinys
 
