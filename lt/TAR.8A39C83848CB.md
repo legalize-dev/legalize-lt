@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2025-04-17"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2025-04-17 iki 2026-03-31
+Suvestinė redakcija nuo 2026-04-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
