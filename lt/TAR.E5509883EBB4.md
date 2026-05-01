@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2025-11-01"
+last_updated: "2026-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2025-11-01 iki 2026-04-30
+Suvestinė redakcija nuo 2026-05-01
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
 
@@ -1832,27 +1832,13 @@ Papildyta straipsniu:
 
 Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 
-161 straipsnis. Reikalavimai elektroninei automatų duomenų valdymo sistemai
+161 straipsnis. Platformos prijungimas prie LAKIS
 
-1. Elektronine automatų duomenų valdymo sistema turi būti užtikrinamas automato identifikacinių (automato serija ir numeris), veikimo ir elektroninių skaitiklių duomenų:
-
-1) fiksavimas ne rečiau kaip kas 1 valandą;
-
-2) apdorojimas ir saugojimas ne trumpiau kaip 31 kalendorinę dieną;
-
-3) perdavimas į LAKIS ne rečiau kaip kas 24 valandas.
-
-2. Elektroninė automatų duomenų valdymo sistema turi fiksuoti veikimo duomenų pasikeitimo datą ir laiką.
-
-3. Elektroninė automatų duomenų valdymo sistema turi atitikti šiame straipsnyje ir Priežiūros tarnybos nustatytus techninius reikalavimus ir turėti akredituotos įstaigos išduotą atitikties sertifikatą, kuriuo patvirtinami šios sistemos atitiktis šio įstatymo ir Priežiūros tarnybos nustatytiems techniniams reikalavimams ir šioje sistemoje tvarkomų ir LAKIS perduodamų duomenų patikimumas.
-
-4. Turi būti užtikrinama elektroninėje automatų duomenų valdymo sistemoje tvarkomų ir į LAKIS perduodamų duomenų apsauga nuo atsitiktinio ar neteisėto sunaikinimo, pakeitimo, atskleidimo, taip pat nuo bet kokio kito neteisėto tvarkymo.
-
-5. Elektroninė automatų duomenų valdymo sistema prie LAKIS turi būti prijungta Priežiūros tarnybos nustatyta tvarka.
+Platforma prie LAKIS turi būti prijungta Priežiūros tarnybos nustatyta tvarka. Platforma turi fiksuoti ir ne rečiau kaip kas 30 dienų perduoti į LAKIS duomenis, nurodytus šio įstatymo 16 straipsnio 9 dalies 1, 4, 7, 8, 9 ir 10 punktuose.
 
 Papildyta straipsniu:
 
-Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 
 211 straipsnis. Neteko galios nuo 2022-07-01.
 
@@ -2173,6 +2159,32 @@ Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 1. Lošimus lošimo namuose (kazino) organizuojanti bendrovė ne rečiau kaip kartą per parą privalo atlikti inventorizaciją.
 
 2. Lošimus lošimo namuose (kazino) organizuojanti bendrovė tą pačią darbo dieną inventorizacijos rezultatus Priežiūros tarnybos nustatyta tvarka turi įvesti į LAKIS.
+
+Papildyta straipsniu:
+
+Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
+
+162 straipsnis. Reikalavimai elektroninei automatų duomenų valdymo sistemai
+
+Straipsnio numeracijos pakeitimas:
+
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+
+1. Elektronine automatų duomenų valdymo sistema turi būti užtikrinamas automato identifikacinių (automato serija ir numeris), veikimo ir elektroninių skaitiklių duomenų:
+
+1) fiksavimas ne rečiau kaip kas 1 valandą;
+
+2) apdorojimas ir saugojimas ne trumpiau kaip 31 kalendorinę dieną;
+
+3) perdavimas į LAKIS ne rečiau kaip kas 24 valandas.
+
+2. Elektroninė automatų duomenų valdymo sistema turi fiksuoti veikimo duomenų pasikeitimo datą ir laiką.
+
+3. Elektroninė automatų duomenų valdymo sistema turi atitikti šiame straipsnyje ir Priežiūros tarnybos nustatytus techninius reikalavimus ir turėti akredituotos įstaigos išduotą atitikties sertifikatą, kuriuo patvirtinami šios sistemos atitiktis šio įstatymo ir Priežiūros tarnybos nustatytiems techniniams reikalavimams ir šioje sistemoje tvarkomų ir LAKIS perduodamų duomenų patikimumas.
+
+4. Turi būti užtikrinama elektroninėje automatų duomenų valdymo sistemoje tvarkomų ir į LAKIS perduodamų duomenų apsauga nuo atsitiktinio ar neteisėto sunaikinimo, pakeitimo, atskleidimo, taip pat nuo bet kokio kito neteisėto tvarkymo.
+
+5. Elektroninė automatų duomenų valdymo sistema prie LAKIS turi būti prijungta Priežiūros tarnybos nustatyta tvarka.
 
 Papildyta straipsniu:
 
