@@ -4,7 +4,7 @@ identifier: "TAR.C6074E202D98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "2023-12-29"
+last_updated: "2026-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2023-12-29 iki 2026-04-30
+Suvestinė redakcija nuo 2026-05-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
 
@@ -37,7 +37,11 @@ Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įsta
 
 3 straipsnis. Zonos teritorija
 
-1. Zonos teritorija užima 534 ha.
+1. Zonos teritorija užima 1 054 ha.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
 
 2. Zonos teritorijoje esantys žemės sklypai išnuomojami Civilinio kodekso, Žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. Zonos teritorija išnuomojama zonos valdymo bendrovei (pasibaigus zonos veiklos laikotarpiui – jos teisių ir pareigų perėmėjai) 99 metams. Pasibaigus zonos veiklos terminui, nurodytam šio įstatymo 2 straipsnyje, išnuomotos zonos teritorijos nuomos sutartis lieka galioti likusiam nuomos laikotarpiui, o zonos teritorijos nuomininku lieka zonos valdymo bendrovė ar jos teisių ir pareigų perėmėjas.
 
