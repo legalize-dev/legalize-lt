@@ -4,7 +4,7 @@ identifier: "TAR.9A844F180551"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-04"
-last_updated: "2024-10-01"
+last_updated: "2026-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A844F180551"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos oro apsaugos įstatymas
 
-Suvestinė redakcija nuo 2024-10-01 iki 2026-04-30
+Suvestinė redakcija nuo 2026-05-01
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 98-2813, i. k. 0991010ISTAIII-1392
 
@@ -304,6 +304,12 @@ Nr. XI-140, 2009-01-12, Žin., 2009, Nr. 10-362 (2009-01-27), i. k. 1091010ISTA0
 4. Kuro ir degalų vežimo, saugojimo ir kokybės tikrinimo tvarką nustato Vyriausybės įgaliotos institucijos.
 
 5. Kuro degimo įrenginiuose galima deginti tik tą kurą, kurį nurodo įrenginio gamintojas įrenginio techniniuose ar eksploatacijos dokumentuose ir kurio sudėtis bei kokybė atitinka šio straipsnio 1 dalies reikalavimus.
+
+6. Draudžiama deginti kietąjį iškastinį kurą kurorto statusą turinčiose gyvenamosiose vietovėse ir miestuose, kuriuose gyvena 50 tūkstančių ar daugiau gyventojų (Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje), išskyrus atvejus, kai jis deginamas kaip technologinis kuras pramoninėse krosnyse.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702
 
 TREČIASIS SKIRSNIS
 
