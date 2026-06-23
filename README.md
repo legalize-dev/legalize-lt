@@ -1,69 +1,44 @@
-# Legalize LT
+# legalize-lt
 
-### Lietuvos teisės aktai Markdown formatu, versijuojami su Git.
+Lietuva teisės aktai Markdown formatu, su versijų valdymu kaip git saugykla.
 
-Kiekvienas teisės aktas yra failas. Kiekviena reforma yra commit'as.
+Kiekvienas įstatymas yra failas; kiekviena reforma yra commit'as, datuojamas pagal tikrąją oficialią paskelbimo datą. Bet kurio įstatymo `git log` rodo visą jo istoriją — kada jis priimtas, kurie straipsniai pasikeitė ir kuriuo teisės aktu.
 
-**14,945 teisės aktai** · **71,794 commit'ai** · Atviri duomenys iš data.gov.lt
+Saugykloje skelbiami pagrindiniai galiojantys ir negaliojantys Lietuvos teisės aktai — apie 15 tūkst. normų. Įtraukti tik esminiai teisės aktų tipai (Konstitucija, konstituciniai įstatymai, įstatymai, kodeksai); administraciniai aktai (nutarimai, įsakymai, dekretai ir kt.) į pagrindinę apimtį neįtraukti, nors kasdienių atnaujinimų metu jie gali būti apdorojami, jei keičia įstatymus.
 
-Projekto [Legalize](https://github.com/legalize-dev/legalize) dalis · [legalize.dev](https://legalize.dev)
+## Kas viduje
 
-> **Ankstyva stadija** — Šis repozitorijus yra aktyviai vystomas. Failų struktūra, commit'ų istorija ir turinys gali būti reikšmingai keičiami, įskaitant pilną pergeneravimą.
+- **Įstatymas** (`TAR.XXXXXXXXXXXX.md`) — Pagrindinė teisės aktų rūšis (apie 14,9 tūkst. normų). Failo pavadinimas = dokumento_id su priešdėliu TAR.
+- **Kodeksas** (`TAR.XXXXXXXXXXXX.md`) — Kodeksai (pvz., Civilinis, Baudžiamasis); frontmatter rango laukas — istatymas.
+- **Konstitucinis įstatymas** (`TAR.XXXXXXXXXXXX.md`) — Konstituciniai įstatymai.
+- **Konstitucija** (`TAR.XXXXXXXXXXXX.md`) — Lietuvos Respublikos Konstitucija ir su ja susiję aktai.
 
-## Greita pradžia
+## Duomenų šaltinis
 
-```bash
-# Klonuoti Lietuvos teisės aktus
-git clone https://github.com/legalize-dev/legalize-lt.git
+- **Teisės aktų registras (TAR) — Lietuvos Respublikos teisingumo ministerija / VĮ Registrų centras; duomenys gaunami per Lietuvos atvirų duomenų portalą (data.gov.lt, Spinta API)**
+  - Teisės aktų registras: https://www.e-tar.lt/
+  - Atvirų duomenų rinkinys (Teisės aktų registro duomenys): https://data.gov.lt/datasets/2613/
+  - Spinta API: https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas
 
-# Lietuvos Respublikos Konstitucijos 1 straipsnis
-grep -A 3 "1 straipsnis" lt/TAR.47BB952431DA.md
+## Priskyrimas
 
-# Konkretaus teisės akto istorija
-git log --oneline -- lt/TAR.8A39C83848CB.md
-```
+> Duomenų šaltinis: Teisės aktų registras (TAR), Lietuvos atvirų duomenų portalas (data.gov.lt). Licencija: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.lt). Duomenys gali būti pakeisti (konvertuoti į Markdown formatą).
 
-## Struktūra
+## Šaltinio ypatumai
 
-```
-lt/
-  TAR.47BB952431DA.md  — Lietuvos Respublikos Konstitucija
-  TAR.8A39C83848CB.md  — Civilinis kodeksas
-  TAR.65AD818F5F9C.md  — Civilinio proceso kodeksas
-  ...                  — 14,945 teisės aktai
-```
+Metaduomenys ir pilnas tekstas gaunami iš to paties data.gov.lt Spinta API (`tekstas_lt` laukas), o ne tiesiogiai iš e-tar.lt. Frontmatter nurodyta `source` nuoroda veda į oficialų e-tar.lt aktą.
 
-Teisės akto rūšis (konstitucija, įstatymas, kodeksas, konstitucinis įstatymas) nurodyta YAML antraštėje kiekviename faile, ne katalogų struktūroje.
+Tekstas teikiamas kaip grynasis tekstas (be HTML), todėl turinys struktūrizuojamas pagal lietuviškus struktūros žymenis (straipsnis, skyrius, skirsnis, dalis). Reformų istorija (commit'ai) atkuriama iš Suvestinė lentelės — kiekviena suvestinės versija tampa atskira teksto būsena nustatytą galiojimo datą.
 
-## Formatas
+## Kitos šalys
 
-Kiekvienas failas turi:
+Ši saugykla yra **Legalize** dalis, kuri tvarko kelių šalių teisės aktus kaip git saugyklas. Visą katalogą rasite https://legalize.dev.
 
-- **YAML frontmatter** — metaduomenys: pavadinimas, dokumento ID, data, statusas, rūšis, TAR kodas, šaltinis
-- **Markdown tekstas** — konsoliduotas teisės akto tekstas su skirsnių ir straipsnių struktūra
+## Parama
 
-Commit'ai naudoja istorinę kiekvieno pakeitimo paskelbimo datą. Kiekviename commit'e yra trailer'iai su teisės akto ir pakeitimo identifikatoriais, leidžiantys rekonstruoti pilną teisės aktų istoriją su `git log`.
-
-### Versijų istorija
-
-Kiekvienos teisės akto versijos pilnas tekstas (Suvestinė) yra fetch'inamas iš data.gov.lt Suvestine lentelės. Konstitucija turi 12 versijų (1992-2022), Civilinis kodeksas turi 100 versijų (2004-2026).
-
-## Šaltinis
-
-Duomenys gaunami iš:
-
-- [data.gov.lt Spinta API](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/) — Lietuvos atvirų duomenų portalas
-- Originalus šaltinis: [e-tar.lt](https://www.e-tar.lt) — Teisės aktų registras
-
-## Padėka
-
-- **[data.gov.lt](https://data.gov.lt/)** — už visų Lietuvos teisės aktų pateikimą atvirais duomenimis su Spinta API
-- **[Teisės aktų registras (TAR)](https://www.e-tar.lt/)** — už oficialų Lietuvos teisės aktų registrą
+Legalize yra nemokamas ir atviras. Jei šis darbas jums naudingas, galite padėti išlaikyti jo prieglobą ir plėtrą: [Paremkite šį projektą](https://buymeacoffee.com/legalizedev).
 
 ## Licencija
 
-Teisės aktų tekstai yra vieši dokumentai. Struktūrizavimas ir formatavimas pagal [MIT](LICENSE) licenciją.
-
----
-
-Sukūrė [Enrique Lopez](https://enriquelopez.eu) · [legalize.dev](https://legalize.dev)
+- **Pipeline kodas**: MIT (https://github.com/legalize-dev/legalize-pipeline)
+- **Duomenys**: Creative Commons Priskyrimas 4.0 tarptautinė (CC BY 4.0)
