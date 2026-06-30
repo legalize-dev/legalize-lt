@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2025-01-01"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2026-06-29
+Suvestinė redakcija nuo 2026-06-30 iki 2026-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -2111,13 +2111,15 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Vykdomąjį dokumentą antstoliui vykdyti gali pateikti išieškotojas ar jo atstovas, vykdomąjį dokumentą išdavusi institucija ar pareigūnas.
 
-2. Pateikdami išieškojimui vykdyti vykdomąjį dokumentą, Valstybinė mokesčių inspekcija administracinių nusižengimų bylose tiek, kiek jos susijusios su turtinio pobūdžio išieškojimais, kitos institucijos ir pareigūnai, kurių sprendimų vykdymas civilinio proceso tvarka nustatytas įstatymuose, kartu pateikia antstoliui duomenis, patvirtinančius, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka, taip pat atsako už šių duomenų teisingumą.
+2. Pateikdami išieškojimui vykdyti vykdomąjį dokumentą, Valstybinė mokesčių inspekcija dėl turtinio pobūdžio išieškojimų, kitos institucijos ir pareigūnai, kurių sprendimų vykdymas civilinio proceso tvarka nustatytas įstatymuose, kartu pateikia antstoliui duomenis, patvirtinančius, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka, taip pat atsako už šių duomenų teisingumą.
 
 TAR pastaba. 650 straipsnio 2 dalies nuostatos taikomos ir administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, byloms.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+
+Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
 
 3. Vykdomuosius dokumentus antstoliams paskirsto Antstolių informacinė sistema Sprendimų vykdymo instrukcijoje nustatyta tvarka: proporcingai visiems toje veiklos teritorijoje veikiantiems antstoliams atsižvelgiant į Sprendimų vykdymo instrukcijoje nustatytas vykdomųjų dokumentų kategorijas ir išieškotinų sumų dydžius, taip pat užtikrinant, kad naujas vykdomasis dokumentas dėl išieškojimo iš to paties skolininko būtų paskirtas vykdyti antstoliui, jau vykdančiam išieškojimą iš šio skolininko.
 
@@ -3957,11 +3959,13 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 646 straipsnis. Vykdomojo rašto išdavimo tvarka
 
-1. Vykdytinam sprendimui įsiteisėjus, išieškotojui pagal rašytinį pareiškimą pirmosios instancijos teismas išduoda vykdomąjį raštą. Jeigu teismas, šio Kodekso numatytais atvejais išduodantis vykdomąjį raštą, sudarytas iš teismo rūmų, pareiškimas dėl vykdomojo rašto išdavimo paduodamas teismo rūmams, į kuriuos paskirti teisėjas ar teisėjai išnagrinėjo bylą ar priėmė sprendimą. Tais atvejais, kai konfiskuojamas turtas arba kai išieškomos pinigų sumos į valstybės biudžetą, kai išieškoma nusikalstama veika padaryta žala, kai išieškomas išlaikymas, žalos, padarytos suluošinant ar kitaip sužalojant sveikatą, atlyginimas, taip pat atimant maitintojo gyvybę, teismas vykdomąjį raštą išduoda išieškotojui ir be jo prašymo.
+1. Vykdytinam sprendimui įsiteisėjus, išieškotojui pagal rašytinį pareiškimą pirmosios instancijos teismas išduoda vykdomąjį raštą. Jeigu teismas, šio Kodekso numatytais atvejais išduodantis vykdomąjį raštą, sudarytas iš teismo rūmų, pareiškimas dėl vykdomojo rašto išdavimo paduodamas teismo rūmams, į kuriuos paskirti teisėjas ar teisėjai išnagrinėjo bylą ar priėmė sprendimą. Tais atvejais, kai konfiskuojamas turtas arba kai išieškomos pinigų sumos į valstybės biudžetą, kai išieškoma nusikalstama veika padaryta žala, kai išieškomas išlaikymas, žalos, padarytos suluošinant ar kitaip sužalojant sveikatą, atlyginimas, taip pat atimant maitintojo gyvybę, teismas vykdomąjį raštą išduoda išieškotojui ir be jo prašymo. Kai išieškomos pinigų sumos į valstybės biudžetą, vykdomojo dokumento duomenys Valstybinei mokesčių inspekcijai pateikiami iš Lietuvos teismų informacinės sistemos (LITEKO) ar kitų valstybės informacinių sistemų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
+
+Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
 
 2. Skubaus vykdymo atvejais pagal išieškotojo rašytinį pareiškimą vykdomąjį raštą ne vėliau kaip kitą darbo dieną po sprendimo priėmimo išieškotojui išduoda skubiai vykdytiną sprendimą priėmęs pirmosios, apeliacinės instancijos ar kasacinis teismas.
 
@@ -12826,4 +12830,12 @@ nuo bylinėjimosi išlaidų APmokėjimo, teisinė pagalba,
 Papildyta straipsniu:
 
 Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
+
+5831 straipsnis. Išieškojimas į valstybės biudžetą
+
+Kai pagal vykdomąjį dokumentą priverstinai išieškoma suma į valstybės biudžetą, išieškojimą vykdo Valstybinė mokesčių inspekcija Lietuvos Respublikos mokesčių administravimo įstatyme nustatyta tvarka ir antstolis šiame Kodekse nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
 
