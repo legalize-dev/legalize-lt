@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2026-06-30"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2026-06-30 iki 2026-06-30
+Suvestinė redakcija nuo 2026-07-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -233,9 +233,17 @@ VII SKYRIUS
 
 Procesiniai terminai
 
-82 straipsnis. Žyminio mokesčio, sprendimų vykdymo išlaidų ir teismo baudų indeksavimas
+82 straipsnis. 82 straipsnis. Žyminio mokesčio ir teismo baudų indeksavimas
 
-1. Šiame Kodekse nustatytą žyminį mokestį, sprendimų vykdymo išlaidas ir teismo baudas, išskyrus apskaičiuojamas procentais, teismai indeksuoja atsižvelgdami į ketvirčio vartojimo kainų indeksą, jeigu jis didesnis negu 110.
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+
+1. Šiame Kodekse nustatytą žyminį mokestį ir teismo baudas, išskyrus apskaičiuojamas procentais, teismai indeksuoja atsižvelgdami į ketvirčio vartojimo kainų indeksą, jeigu jis didesnis negu 110.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 2. Taikytinas indeksas apskaičiuojamas laikotarpiui nuo įstatymo, kuriame nustatytas žyminis mokestis ir teismo baudos, įsigaliojimo mėnesio iki kiekvieno ketvirčio pradžios.
 
@@ -1861,17 +1869,15 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 3) atlygis antstoliui už įstatymų nustatytų vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą teismo pavedimu, dokumentų perdavimą ir įteikimą teismo pavedimu.
 
-2. Vykdymo išlaidos grindžiamos ekonominiais skaičiavimais, atsižvelgiant į veiklos atliekant antstolio funkcijas pobūdį. Vykdomosios bylos administravimo išlaidos turi atitikti antstolio ir jo darbuotojų patiriamas sąnaudas (materialines ir laiko) vykdymo veiksmams atlikti. Atlygis antstoliui nustatomas įvertinant poreikį sukurti tinkamas klientų aptarnavimo sąlygas ir įdarbinti reikalingos kvalifikacijos darbuotojus, atsižvelgiant į vykdymo išlaidų perskirstymą (kryžminį subsidijavimą) tarp skirtingų vykdymo proceso dalyvių. Vykdomosiose bylose dėl pinigų sumų išieškojimo vykdomosios bylos administravimo išlaidų ir atlygio antstoliui dydžiai nustatomi atsižvelgiant į išieškotiną sumą.
+2. Vykdymo išlaidų dydžiai grindžiami ekonominiais skaičiavimais, atsižvelgiant į veiklos atliekant antstolio funkcijas pobūdį, patiriamas sąnaudas (materialines ir laiko), būtinybę užtikrinti antstolio ekonominį nepriklausomumą, antstolio profesinės veiklos ir civilinės atsakomybės riziką, kryžminį subsidijavimą.
 
-3. Vykdymo išlaidų dydį, apskaičiavimo ir apmokėjimo tvarką nustato Sprendimų vykdymo instrukcija.
-
-Straipsnio pakeitimai:
-
-Nr. X-1839, 2008-11-14, Žin., 2008, Nr. 138-5446 (2008-12-02)
+3. Vykdymo išlaidų dydžius, apskaičiavimo ir apmokėjimo tvarką nustato Vyriausybė pagal savo tvirtinamą vykdymo išlaidų dydžių nustatymo metodiką.
 
 Straipsnio pakeitimai:
 
 Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 619 straipsnis. Turto saugotojo (administratoriaus) atsakomybė
 
@@ -2731,7 +2737,11 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 732 straipsnis. Atlyginimo bankui ar finansų maklerio įmonei už vertybinių popierių realizavimą tvarka
 
-Bankui ar finansų maklerio įmonei atlyginimas už vertybinių popierių realizavimą sumokamas Sprendimų vykdymo instrukcijoje nustatyta tvarka.
+Bankui ar finansų maklerio įmonei atlyginimas už vertybinių popierių realizavimą sumokamas Vyriausybės nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 LI SKYRIUS
 
@@ -2989,7 +2999,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 2) išlaidoms tretiesiems asmenims už konkrečioje vykdomojoje byloje šių asmenų suteiktas paslaugas;
 
-3) išieškotojams šio Kodekso 754 straipsnyje nustatyta eilės tvarka ir antstoliui kaip atlygis už įstatymų nustatytų vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą teismo pavedimu, dokumentų perdavimą ir įteikimą teismo pavedimu. Atlygis antstoliui paskirstomas proporcingai išieškotojams paskirstytai sumai Sprendimų vykdymo instrukcijoje nustatyta tvarka.
+3) išieškotojams šio Kodekso 754 straipsnyje nustatyta eilės tvarka ir antstoliui kaip atlygis už įstatymų nustatytų vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą teismo pavedimu, dokumentų perdavimą ir įteikimą teismo pavedimu. Atlygis antstoliui paskirstomas proporcingai išieškotojams paskirstytai sumai Vyriausybės nustatyta tvarka.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 Straipsnio dalies pakeitimai:
 
@@ -3207,17 +3221,13 @@ Nr. X-1839, 2008-11-14, Žin., 2008, Nr. 138-5446 (2008-12-02)
 
 610 straipsnis. Vykdymo išlaidų apmokėjimas
 
-1. Išieškotojas apmoka vykdomosios bylos administravimo išlaidas ir Sprendimų vykdymo instrukcijoje numatytais atvejais išlaidas tretiesiems asmenims už konkrečioje vykdomojoje byloje šių asmenų suteiktas paslaugas bei atlygį antstoliui. Vykdymo išlaidos išieškomos iš skolininko.
+1. Išieškotojas apmoka vykdomosios bylos administravimo išlaidas ir Vyriausybės nustatytais atvejais išlaidas tretiesiems asmenims už konkrečioje vykdomojoje byloje šių asmenų suteiktas paslaugas bei atlygį antstoliui. Vykdymo išlaidos išieškomos iš skolininko.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
-
-2. Išimtis dėl vykdymo išlaidų apmokėjimo gali nustatyti Sprendimų vykdymo instrukcija.
+2. Išimtis dėl vykdymo išlaidų apmokėjimo gali nustatyti Vyriausybė.
 
 Straipsnio pakeitimai:
 
-Nr. X-1839, 2008-11-14, Žin., 2008, Nr. 138-5446 (2008-12-02)
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 756 straipsnis. Antstolio patvarkymas išieškotoms sumoms paskirstyti
 
@@ -4117,7 +4127,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
-4. Jeigu iš dalies įvykdytas ar visiškai neįvykdytas vykdomasis dokumentas grąžinamas išieškotojui ir vykdymo išlaidos nebuvo išieškotos šio straipsnio 2 dalyje nustatyta tvarka, antstolis Sprendimų vykdymo instrukcijoje nustatytais atvejais ir tvarka vykdomosios bylos neužbaigia ir joje išieško iki vykdomojo dokumento grąžinimo priskaičiuotas vykdymo išlaidas. Jeigu tokioje vykdomojoje byloje išieškotojas nebuvo apmokėjęs vykdymo išlaidų ar jo apmokėtos vykdymo išlaidos buvo išieškotos ir išieškotojui grąžintos, antstolis turi teisę atsisakyti išieškoti likusias vykdymo išlaidas ir vykdomąją bylą užbaigti. Vykdomoji byla, kurioje išieškomos tik vykdymo išlaidos, negali būti vykdoma ilgiau kaip dešimt metų nuo vykdomojo dokumento grąžinimo išieškotojui.
+4. Jeigu iš dalies įvykdytas ar visiškai neįvykdytas vykdomasis dokumentas grąžinamas išieškotojui ar jį išdavusiai institucijai ir vykdymo išlaidos nebuvo išieškotos šio straipsnio 2 dalyje nustatyta tvarka, antstolis Vyriausybės nustatytais atvejais ir tvarka vykdomosios bylos neužbaigia ir joje išieško iki vykdomojo dokumento grąžinimo priskaičiuotas vykdymo išlaidas. Jeigu tokioje vykdomojoje byloje išieškotojas nebuvo apmokėjęs vykdymo išlaidų ar jo apmokėtos vykdymo išlaidos buvo išieškotos ir išieškotojui grąžintos, antstolis turi teisę atsisakyti išieškoti likusias vykdymo išlaidas ir vykdomąją bylą užbaigti. Vykdomoji byla, kurioje išieškomos tik vykdymo išlaidos, negali būti vykdoma ilgiau kaip dešimt metų nuo vykdomojo dokumento grąžinimo išieškotojui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 5. Mirus asmeniui, kuris buvo skolininkas, reikalavimą dėl vykdymo išlaidų apmokėjimo antstolis pareiškia Civilinio kodekso 5.63 straipsnyje nustatyta tvarka. Jeigu vykdomoji byla nutraukiama dėl to, kad mirus asmeniui, kuris buvo skolininkas, vykdomajame dokumente nurodyta pareiga negali pereiti šio asmens įpėdiniui, šiame straipsnyje nustatyta tvarka iš įpėdinio gali būti išieškomos vykdymo išlaidos, kiek leidžia paveldėtas turtas, nesvarbu, kokiu palikimo priėmimo būdu pagal Civilinio kodekso normas skolininko turtas buvo paveldėtas.
 
@@ -10963,7 +10977,11 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 4. Skolininko kuratorius vykdymo procese turi tokias pačias procesines teises kaip ir skolininkas, išskyrus teisę turėti atstovą.
 
-5. Skolininko kuratorius už atstovavimą turi teisę gauti Sprendimų vykdymo instrukcijoje nustatyto dydžio atlyginimą. Atlyginimas mokamas iš lėšų, gautų vykdant išieškojimą iš skolininko turto.
+5. Skolininko kuratorius už atstovavimą turi teisę gauti Vyriausybės nustatyto dydžio atlyginimą. Atlyginimas mokamas iš lėšų, gautų vykdant išieškojimą iš skolininko turto.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 6. Kiti klausimai, susiję su kuratoriaus skyrimu bei jo teisėmis ir pareigomis, sprendžiami pagal šio Kodekso 39 straipsnį.
 
@@ -11255,7 +11273,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 3. Šio Kodekso nustatyta tvarka antstoliui taip pat gali būti pavedami atlikti kiti veiksmai.
 
-4. Už teismo šaukimų ir kitų procesinių dokumentų įteikimą, faktinių aplinkybių konstatavimą, paveldimo turto apyrašų sudarymą, teismo pavedimų vykdymą mokama Sprendimų vykdymo instrukcijoje nustatyta tvarka.
+4. Už teismo šaukimų ir kitų procesinių dokumentų įteikimą, faktinių aplinkybių konstatavimą, paveldimo turto apyrašų sudarymą, teismo pavedimų vykdymą mokama Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 Straipsnio pakeitimai:
 
@@ -11521,7 +11543,11 @@ Raginime įvykdyti sprendimą nurodoma:
 
 4) terminas, per kurį skolininkas turi įvykdyti sprendimą, taip pat reikiamais atvejais – kredito įstaigos ir antstolio depozitinės sąskaitos numeris ar išieškotojo atsiskaitomosios sąskaitos numeris;
 
-5) kad neįvykdžius sprendimo, antstolis sprendimą vykdys priverstinai ir iš skolininko bus išieškotos Sprendimų vykdymo instrukcijoje nustatytos vykdymo išlaidos;
+5) kad neįvykdžius sprendimo, antstolis sprendimą vykdys priverstinai ir Vyriausybės nustatyta tvarka iš skolininko bus išieškotos Vyriausybės nustatyto dydžio vykdymo išlaidos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 6) skolininko teisės ir pareigos vykdymo procese, nurodytos 643 ir 644 straipsniuose.
 
