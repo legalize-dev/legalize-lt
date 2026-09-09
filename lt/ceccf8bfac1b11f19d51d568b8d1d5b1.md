@@ -1,0 +1,46 @@
+---
+title: "Dėl draudimo rūkyti daugiabučio namo A. Juozapavičiaus pr. 21A balkonuose, terasose ir lodžijose, nuosavybės teise priklausančiuose atskiriems savininkams"
+identifier: "ceccf8bfac1b11f19d51d568b8d1d5b1"
+country: "lt"
+rank: "isakymas"
+publication_date: "2026-09-09"
+last_updated: "2026-09-09"
+status: "in_force"
+source: "https://e-tar.lt/portal/lt/legalAct/ceccf8bfac1b11f19d51d568b8d1d5b1"
+department: "Kauno miesto savivaldybės administracija"
+tar_code: "2026-13849"
+document_number: "A-1072"
+published_in_tar: "2026-09-09"
+document_group: "savivaldybių teisės aktai"
+document_status: "registruotas TA registre"
+national: "false"
+---
+# Dėl draudimo rūkyti daugiabučio namo A. Juozapavičiaus pr. 21A balkonuose, terasose ir lodžijose, nuosavybės teise priklausančiuose atskiriems savininkams
+
+KAUNO MIESTO SAVIVALDYBĖS ADMINISTRACIJOS DIREKTORIUS --0 ĮSAKYMAS Nr.
+
+KAUNO MIESTO SAVIVALDYBĖS ADMINISTRACIJOS DIREKTORIUS
+
+ĮSAKYMAS
+
+DĖL DRAUDIMO RŪKYTI DAUGIABUČIO NAMO A. JUOZAPAVIČIAUS PR. 21A BALKONUOSE, TERASOSE IR LODŽIJOSE, NUOSAVYBĖS TEISE PRIKLAUSANČIUOSE ATSKIRIEMS SAVININKAMS
+
+2026 m. rugsėjo 9 d. Nr. A-1072
+
+Kaunas
+
+Vadovaudamasis Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo 19 straipsnio 1 dalies 9 punktu, Prieštaravimo dėl tabako, tabako gaminių ir su jais susijusių gaminių vartojimo daugiabučių namų balkonuose, terasose ir lodžijose pareiškimo, šio prieštaravimo atšaukimo ir informacijos apie daugiabučius namus, kuriuose draudžiama rūkyti, paskelbimo, informacinių ženklų apie draudimą rūkyti įrengimo tvarkos aprašo, patvirtinto Lietuvos Respublikos vidaus reikalų ministro 2020 m. gruodžio 22 d. įsakymu Nr. 1V-1357 „Dėl Prieštaravimo dėl tabako, tabako gaminių ir su jais susijusių gaminių vartojimo daugiabučių namų balkonuose, terasose ir lodžijose pareiškimo, šio prieštaravimo atšaukimo ir informacijos apie daugiabučius namus, kuriuose draudžiama rūkyti, paskelbimo, informacinių ženklų apie draudimą rūkyti įrengimo tvarkos aprašo patvirtinimo“, 3, 6, 8, 10, 11, 12, 13 punktais, 5.3 papunkčiu, atsižvelgdamas į daugiabučio namo A. Juozapavičiaus pr. 21A gyventojo 2026 m. rugsėjo 3 d. prieštaravimą, Kauno miesto savivaldybės mero 2026 m. birželio 30 d. potvarkį Nr. M-932 „Dėl įgaliojimų suteikimo Kauno miesto savivaldybės administracijos direktoriui Tadui Metelioniui“:
+
+1. N u s t a t a u, kad draudžiama rūkyti daugiabučio namo A. Juozapavičiaus pr. 21A, Kaune, unikalus Nr. 1991-7002-1013, balkonuose, terasose ir lodžijose, nuosavybės teise priklausančiuose atskiriems savininkams.
+
+2. P a v e d u daugiabučio namo A. Juozapavičiaus pr. 21A bendrojo naudojimo objektų valdytojui:
+
+2.1. apie priimtą sprendimą paštu arba elektroninio ryšio priemonėmis informuoti minėto namo butų ir kitų patalpų savininkus ne vėliau kaip per 2 darbo dienas nuo šio įsakymo gavimo dienos;
+
+2.2. informacinius ženklus apie draudimą rūkyti minėto namo balkonuose, terasose ir lodžijose, nuosavybės teise priklausančiuose atskiriems savininkams, įrengti teisės aktų nustatyta tvarka šio įsakymo įsigaliojimo dieną.
+
+3. N u s t a t a u, kad šis įsakymas įsigalioja 2026 m. spalio 19 d.
+
+4. Šis įsakymas per vieną mėnesį nuo jo paskelbimo arba įteikimo dienos gali būti skundžiamas Lietuvos administracinių ginčų komisijos Kauno apygardos skyriui (A. Juozapavičiaus pr. 57, Kaunas) Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka arba Regionų administraciniam teismui, skundą (prašymą, pareiškimą) paduodant bet kuriuose teismo rūmuose (A. Mickevičiaus g. 8A, Kaunas, Žygimantų g. 2, Vilnius, Galinio Pylimo g. 9, Klaipėda, Dvaro g. 80, Šiauliai, Respublikos g. 62, Panevėžys) Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Administracijos direktorius,  įgaliotas savivaldybės mero                                              Tadas Metelionis
